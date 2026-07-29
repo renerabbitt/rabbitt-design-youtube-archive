@@ -54,21 +54,30 @@
 
     <main class="layout">
       <aside class="sidebar">
-        <section class="panel">
+        <section class="panel stats-panel">
           <h2>Archive Stats</h2>
           <dl class="stats" id="stats"></dl>
         </section>
 
-        <section class="panel">
+        <section class="panel chapters-panel">
           <div class="panel-heading">
-            <h2>Chapters</h2>
+            <button
+              class="taxonomy-toggle"
+              id="taxonomy-toggle"
+              type="button"
+              aria-expanded="true"
+              aria-controls="taxonomy"
+            >
+              <span class="taxonomy-toggle-label">Chapters</span>
+              <span class="taxonomy-toggle-hint" id="taxonomy-toggle-hint"></span>
+            </button>
             <button class="text-button" id="clear-filter" type="button">Clear</button>
           </div>
           <div id="taxonomy" class="taxonomy"></div>
         </section>
       </aside>
 
-      <section class="content">
+      <section class="content" id="results-section">
         <div class="section-heading">
           <div>
             <p class="eyebrow">Browse And Search</p>

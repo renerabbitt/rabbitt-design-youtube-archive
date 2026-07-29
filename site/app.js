@@ -4,9 +4,15 @@ const state = {
   subchapterId: "",
 };
 
+const mobileQuery = window.matchMedia("(max-width: 980px)");
+
 const elements = {
   stats: document.querySelector("#stats"),
   taxonomy: document.querySelector("#taxonomy"),
+  taxonomyToggle: document.querySelector("#taxonomy-toggle"),
+  taxonomyToggleHint: document.querySelector("#taxonomy-toggle-hint"),
+  chaptersPanel: document.querySelector(".chapters-panel"),
+  resultsSection: document.querySelector("#results-section"),
   results: document.querySelector("#results"),
   resultsTitle: document.querySelector("#results-title"),
   resultsCount: document.querySelector("#results-count"),
@@ -18,10 +24,48 @@ const elements = {
   template: document.querySelector("#result-template"),
 };
 
+function isMobileLayout() {
+  return mobileQuery.matches;
+}
+
+function setTaxonomyOpen(open) {
+  if (!elements.chaptersPanel || !elements.taxonomyToggle) {
+    return;
+  }
+  elements.chaptersPanel.classList.toggle("is-collapsed", !open);
+  elements.taxonomyToggle.setAttribute("aria-expanded", open ? "true" : "false");
+  updateTaxonomyToggleHint();
+}
+
+function updateTaxonomyToggleHint() {
+  if (!elements.taxonomyToggleHint) {
+    return;
+  }
+  const filter = findSubchapter(state.subchapterId);
+  const open = elements.taxonomyToggle?.getAttribute("aria-expanded") === "true";
+  if (filter) {
+    elements.taxonomyToggleHint.textContent = open
+      ? `Selected: ${filter.title}`
+      : `${filter.title} · Tap to change`;
+    return;
+  }
+  elements.taxonomyToggleHint.textContent = open
+    ? "Pick a subchapter to filter videos"
+    : "Tap to browse chapters";
+}
+
+function revealResults() {
+  const target = elements.activeFilter?.classList.contains("hidden")
+    ? elements.resultsSection
+    : elements.activeFilter;
+  target?.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
 async function init() {
   const response = await fetch(`./search-index.json?ts=${Date.now()}`, { cache: "no-store" });
   state.data = await response.json();
 
+  setTaxonomyOpen(!isMobileLayout());
   renderStats();
   renderTaxonomy();
   renderResults();
@@ -31,6 +75,9 @@ async function init() {
     event.preventDefault();
     state.query = elements.searchInput.value.trim();
     renderResults();
+    if (isMobileLayout()) {
+      revealResults();
+    }
   });
 
   elements.searchInput.addEventListener("input", () => {
@@ -44,7 +91,32 @@ async function init() {
       button.classList.remove("active");
     });
     renderResults();
+    updateTaxonomyToggleHint();
+    if (isMobileLayout()) {
+      setTaxonomyOpen(true);
+    }
   });
+
+  elements.taxonomyToggle?.addEventListener("click", () => {
+    if (!isMobileLayout()) {
+      return;
+    }
+    const open = elements.taxonomyToggle.getAttribute("aria-expanded") === "true";
+    setTaxonomyOpen(!open);
+  });
+
+  const syncLayoutMode = () => {
+    if (isMobileLayout()) {
+      setTaxonomyOpen(false);
+    } else {
+      setTaxonomyOpen(true);
+    }
+  };
+  if (typeof mobileQuery.addEventListener === "function") {
+    mobileQuery.addEventListener("change", syncLayoutMode);
+  } else if (typeof mobileQuery.addListener === "function") {
+    mobileQuery.addListener(syncLayoutMode);
+  }
 }
 
 function renderStats() {
@@ -93,6 +165,11 @@ function renderTaxonomy() {
         });
         button.classList.add("active");
         renderResults();
+        updateTaxonomyToggleHint();
+        if (isMobileLayout()) {
+          setTaxonomyOpen(false);
+          revealResults();
+        }
       });
       list.append(button);
     });
@@ -116,6 +193,8 @@ function renderResults() {
   } else {
     elements.activeFilter.classList.add("hidden");
   }
+
+  updateTaxonomyToggleHint();
 
   elements.results.innerHTML = "";
 
@@ -269,7 +348,7 @@ function normalizeTerms(query) {
 }
 
 function findSubchapter(id) {
-  if (!id) {
+  if (!id || !state.data) {
     return null;
   }
   for (const chapter of state.data.taxonomy) {
