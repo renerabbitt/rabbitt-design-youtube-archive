@@ -1,0 +1,322 @@
+Title: Modifying and Underexposing an HDRI
+URL: https://www.youtube.com/watch?v=srruFfRWp6I
+Visibility: members-only
+
+0:01 what's going on VIP I've got here a
+0:03 quick little video and what I'm doing is
+0:06 I'm going to make an optimized backdrop
+0:09 for myself and what I mean by optimized
+0:12 I have a 16k HDR image and we're in
+0:16 Chief Architect x16 now you're going to
+0:17 see a lot more rendering videos from me
+0:19 this is one of them one of the things we
+0:21 get to do is utilize hdri images which
+0:24 are 32bit which means that we're getting
+0:26 millions of colors as opposed to 155
+0:29 colors which makes a huge difference for
+0:31 the quality of your rendering and I'll
+0:33 show you that in a minute and show you
+0:35 exactly why you might care about this
+0:37 because this is going to improve your
+0:39 renderings immensely if you've got good
+0:41 backdrops to use you're going to get
+0:43 some backdrops as a download from Chief
+0:46 themselves HDR backdrops but I want this
+0:50 particular backdrop but what I want to
+0:52 do is the sun right now is in the top of
+0:55 this scene we'll just check this out if
+0:57 we're in this view right now if we look
+0:59 straight up there's my sun and that's
+1:01 producing a shadow that's even and
+1:04 straight down on the shot but I want
+1:06 more of a directional sun and I want a
+1:09 big difference between the sunlight
+1:12 exposure and the exposure of the rest of
+1:14 the shot because when you set the
+1:16 backdrop intensity of this backdrop to
+1:19 an appropriate amount it's going to be
+1:21 washed out in the interior side okay and
+1:24 I don't want that to happen so I've got
+1:26 a trick where I just underexpose that
+1:28 image the last of this is I'm going to
+1:32 overexpose my grass to kind of match
+1:34 this grass as well and maybe change the
+1:37 tint of it because this is going to be
+1:38 my default backdrop going forward in my
+1:41 Pro Plan so let me switch back to here
+1:44 we go and what I've done is you could do
+1:47 this a number of different ways what I'm
+1:48 going to do is I'm going to do a little
+1:50 bit of a mask on another image that had
+1:52 a blue sky but I would just suggest that
+1:54 you take a brush and just brush this top
+1:58 section out okay because otherwise we
+2:01 would need to get into a previous
+2:03 version of Photoshop that still had the
+2:05 3D panel at the top where you can edit a
+2:08 spherical Panorama now we can't do that
+2:11 anymore we need some separate software
+2:14 so this takes a little bit of trickery
+2:16 in order to get this just right so
+2:18 here's what I got going on I'm just
+2:19 going to truly just brush this top out a
+2:22 couple times and this is going to be
+2:25 even across as it becomes a sphere I
+2:28 should have no stitching problems from
+2:30 this the next part of this is that I'm
+2:33 going to add in a couple of little
+2:35 flares so I want to get into my
+2:37 libraries where I have some flares you
+2:39 can go download these These are in the
+2:42 Discord server alternatively you could
+2:44 just search flares on the internet so
+2:46 I'm just going to drag a flare into here
+2:49 kind of resize this I want my son I
+2:52 think I want my son right about I don't
+2:55 know right where it is right here or
+2:58 maybe yeah I think this is pretty good
+3:01 right about where it is right there all
+3:04 right and let me just hit enter now a
+3:07 couple different ways we can do this we
+3:09 can set this to be a linear Dodge ad all
+3:13 right so that would have the effect of
+3:15 sunlight in this case and so we got kind
+3:17 of a bright light here and let me drop
+3:21 in grab in another one kind of the same
+3:23 thing linear Dodge ad here we go and I
+3:27 can kind of place this reside it a
+3:30 little
+3:32 bit that looks pretty good I'm going to
+3:34 resize this other one too as well as put
+3:35 it on top of the stack so resize this
+3:38 one a little
+3:39 bit and that's just adding just kind of
+3:42 a small effect
+3:44 there all right the last part of this is
+3:47 I want to add a I'm going to do a
+3:49 gradient fill so I'm going to hit my G
+3:51 key and
+3:53 then actually let me switch to the
+3:55 essentials view here I was in a
+3:57 photograph view there and I hit shift g
+4:00 a couple times till I get gradient fill
+4:02 and then at the top of the screen I'm
+4:04 going to do a radial gradient fill okay
+4:06 and I'm going to do it right in this
+4:08 location right here just like this all
+4:11 right now you want to make sure that you
+4:12 got your background and your foreground
+4:13 color set before you even do this but
+4:15 you could do this after the fact as well
+4:17 so you can pick any color from
+4:19 here here we go there's kind of my
+4:22 background foreground color and let me
+4:24 switch that
+4:28 X and I can pick kind of a darker or
+4:33 lighter there we go look at that doesn't
+4:35 that look nice and then I'm going to
+4:38 select my layer mask control I to invert
+4:42 hit B for my brush soften this sucker up
+4:45 you didn't know that's holding your ALT
+4:47 key right click on your mouse and
+4:50 dragging left to right resizes top to
+4:52 bottom is going to change the Feathering
+4:54 of that so now I've got this nice and
+4:56 soft I'm going to bring this below my
+4:59 flare
+5:00 so that they're behind the flares and I
+5:02 should be able to paint into that layer
+5:05 mask just like
+5:08 this there we go that looks pretty good
+5:11 honestly that looks pretty good the last
+5:14 little thing I could do is maybe I can
+5:16 overexpose a couple of these little tree
+5:18 branches that could be interesting let
+5:20 me do a exposure adjustment here I'm
+5:22 going to add it right on top of an
+5:24 existing layer so exposure
+5:27 adjustment let me pump that exposure
+5:30 up I'm going to change and double click
+5:32 that exposure to get into the layer
+5:34 style so that it's only affecting the
+5:36 underlier layers in the bright channels
+5:39 so there we go it's see how that's just
+5:41 taking it away from all the darker
+5:43 channels now let me invert the
+5:47 mask and I'm going to brush in right on
+5:50 these trees right here and we're going
+5:53 to have to do a little bit of trickery
+5:54 to make it so that it's not applying to
+5:56 this blue that's going to be
+5:58 particularly challenging I think maybe
+6:00 the best way of doing this is using the
+6:02 object selection tool and selecting just
+6:05 those
+6:06 trees right and then we can brush in
+6:10 just a little bit and make some
+6:12 adjustments from
+6:16 there now I want to note that it did
+6:20 catch some of the blue here so before I
+6:23 get too far into this let's change the
+6:25 selection let's actually get into the
+6:27 select panel modify and we want to
+6:30 contract that selection let's contract
+6:32 about I don't know let's say 12 pixels
+6:35 ah let's go back a little bit let's
+6:37 maybe do it to four pixels so modify
+6:40 tract four pixels there we go now we're
+6:44 getting a little bit more in the correct
+6:48 Zone and just do a slight edit there D
+6:52 to unselect that yeah there's a little
+6:55 bit of cleanup here
+7:00 just kind of pick a couple spots to get
+7:02 off of that blue sky right so we don't
+7:06 have that haloing or Fringe effect there
+7:09 we go that's about all I wanted to do
+7:11 right there so from here we can stamp
+7:14 this down control e stamps it down to
+7:17 the layer below right now we got one
+7:18 layer that we're working with I'm going
+7:20 to go ahead and group these flare layers
+7:22 together you can always convert this to
+7:23 a Smart object drop it in your library
+7:26 to be able to use later that's a really
+7:27 cool trick right so and convert this to
+7:30 a Smart object click on your libraries
+7:33 drag it in that's what you would do
+7:35 right so going un undo that action now
+7:39 let's see here's my
+7:41 background let's go ahead and do an
+7:43 exposure adjustment layer we're going to
+7:45 drop that exposure way down it's not
+7:47 going to affect that sunlight at all
+7:49 something like that and finally I get to
+7:52 export this so we're going to do a save
+7:54 as in this case and we need to pick the
+7:57 file format Radiance of okay this is an
+8:00 hdri this is going to maintain that
+8:04 32bit last part about this is let's see
+8:07 I got to remember what the heck I called
+8:09 this noon grass underexposed with Hotpot
+8:13 all right so I did actually shrink this
+8:16 down to only a 6K resolution from a 16k
+8:21 resolution and let's go ahead and I've
+8:24 got a place marker item here let's open
+8:27 that object it's already updated
+8:31 grass underexposed with hot spot it's
+8:34 still a 360 image let's click in here
+8:37 and see what happens should load really
+8:40 fast that did load so much faster than a
+8:42 16k image now notice we got a hot spot
+8:46 here look at that right that thing is
+8:48 bright and blinding what does that do
+8:51 well it creates some hard Shadows we're
+8:53 seeing that one side of the building is
+8:55 lit the other side is not that's exactly
+8:57 what I wanted I wanted kind of a bigger
+9:00 effect here right so there we go now
+9:02 look at this we're lighting this side
+9:04 with that exposure Isn't that cool and
+9:08 it loads super fast so as soon as I pull
+9:10 a 3D view I'm going to get this
+9:14 bam so all I got to do is commit that to
+9:17 my defaults and there we go a really
+9:19 fast loading Dynamic and goodlook
+9:21 backdrop that is lighting the entire
+9:24 scene I'll show you what the difference
+9:26 is when we pull that lighting out so I'm
+9:27 going to double click my r rendering
+9:30 right now and it's going to bring us in
+9:31 rendering technique options I'm going to
+9:33 uncheck use only backdrop for lighting
+9:36 and notice what it happens right now the
+9:38 sunlight is affecting the scene you
+9:40 rotate that sunlight
+9:42 around right so this changes a lot of
+9:45 things in this case you're going to
+9:47 really want to increase the backdrop
+9:49 intensity if you want more effect from
+9:51 that backdrop there's 16,000 backdrop
+9:54 intensity right so that does a little
+9:56 bit to the scene in general but I'm just
+10:00 loving how this looks this looks like
+10:03 such a natural look let's take a look at
+10:05 the interior side of
+10:08 this so I did really increase this value
+10:12 let's drop it back down to like a 5,000
+10:14 value and it should be that we see a
+10:16 little bit more of that shot see we can
+10:19 still see that backdrop even though
+10:21 we've dropped that value down quite a
+10:24 bit so it's nice and bright on the
+10:26 exterior let's see how low we can get it
+10:28 before it just looks too underexposed
+10:31 drop it down to about 2,000 I think that
+10:33 still looks good so at 2,000 and we're
+10:36 in the interior shot it looks great from
+10:39 the interior still this is the sunlight
+10:41 side mind you so if we rotate
+10:44 this how good that looks right still
+10:47 looks great now if we rotate it back to
+10:49 kind of pick up that sun watch how it
+10:51 starts flooding through should start
+10:54 flooding through the house a little bit
+10:56 more
+11:04 yeah fascinating love this new rendering
+11:06 engine I really think it's a great
+11:08 rendering engine so the next thing is I
+11:10 want to pick up and fix this grass real
+11:12 quick so not not to say fix but I want
+11:14 to more closely match it to this grass
+11:17 over here from the rendering itself so
+11:20 let me get back into Photoshop this is
+11:22 kind of as the last little thing we're
+11:24 going to do let's open up that original
+11:26 file
+11:29 Landscaping I believe this is my patchy
+11:32 grass there it is patchy grass
+11:37 diffuse man that's such a nice and light
+11:40 texture it's really low resolution and
+11:43 still manages to look great it's always
+11:45 been a great texture so let me get into
+11:47 here I'm going to do a hue saturation
+11:50 adjustment I think that it needs to be a
+11:53 little bit more yellow so we're going to
+11:56 bring that towards the yellow Channel
+11:58 okay and I think might be able to just
+12:02 lighten this up quite a bit maybe we'll
+12:05 change the exposure instead let's do
+12:06 exposure
+12:10 adjustment there we go big exposure
+12:12 adjustment there let's export this and
+12:15 take a look at what it looks like
+12:23 now paty grass diffuse let's go paty
+12:27 grass diffuse
+12:32 B2 and now I'll do a little adjust
+12:34 material option on this let's pick up
+12:37 that
+12:45 V2 that lightens it up
+12:48 considerably yeah that's looking pretty
+12:50 good not too bad it's not a perfect
+12:53 Stitch certainly but not too bad on the
+12:55 whole I think once someone pulls a 3D
+12:58 view like this and this is the first
+12:59 thing they see they're going to be
+13:00 pretty happy with the results on the
+13:03 whole that looks pretty good for just an
+13:05 out of the- boox rendering thing so just
+13:07 assume that we're starting to draw stuff
+13:09 in and we pull an interior shot the
+13:12 interior shot's going to have a
+13:13 different backdrop intensity than the
+13:15 exterior shot but I think right out of
+13:17 the bat being able to start placing some
+13:19 of these cabinets and having it render
+13:21 from that interior side this just looks
+13:23 good natural lighting looks sharp looks
+13:27 good outside of the windows
+13:29 very cool that about wraps it up let me
+13:32 know if you got any questions about this
+13:34 and if you want to see more stuff about
+13:36 modifying some back drops
+13:41 [Music]

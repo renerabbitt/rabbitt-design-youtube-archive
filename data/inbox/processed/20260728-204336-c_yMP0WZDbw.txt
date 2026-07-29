@@ -1,0 +1,25 @@
+Title: CA SHORTS   Revert A Change In The Dialog Box In Chief Architect
+URL: https://www.youtube.com/watch?v=c_yMP0WZDbw
+Visibility: public
+
+0:03 you ever had a bunch of one thing in
+0:03 Chief Architect and you try to edit them
+0:07 all together like these doors right here
+0:09 and one of them has one setting that's
+0:09 different from the rest and so we see no
+0:15 change right and so you're doing a bunch
+0:17 of edits across all your doors maybe
+0:17 you're trying to change all the casing
+0:19 at once and then you punch into this no
+0:23 change and you go a these all should be
+0:23 32 in and you're like oh one of them was
+0:30 not supposed to be 32
+0:30 inches man I got to cancel out of this
+0:33 and do it all over again no you don't no
+0:38 you don't all you have to do is come
+0:39 into that setting again and just type
+0:41 the letter n look at that Tab out of it
+0:49 bam it reverts back to no change make
+0:50 the rest of your
+0:50 changes nothing's happened nothing's
+0:53 been broken great it's exactly the way I

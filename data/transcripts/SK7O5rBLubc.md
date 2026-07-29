@@ -1,0 +1,288 @@
+---
+videoId: SK7O5rBLubc
+title: Quick Shelf System Using Cabinets in Chief Architect x14
+url: "https://www.youtube.com/watch?v=SK7O5rBLubc"
+status: imported
+---
+
+# Transcript
+
+0:04 this video is to do a comprehensive look
+0:07 at a new shelf system that I have in the
+0:09 shop and this shelf system is targeted
+0:11 towards a particular audience I really
+0:11 built it for myself but it's such a good
+0:17 system that I also feel like it's it's
+0:19 worth a lot to the right people the
+0:19 people that might be interested in this
+0:24 are kind of any kind of interior design
+0:27 firm a remodel firm design build firm
+0:27 interior design and rendering you know
+0:32 any kind of rendering artist this is
+0:32 going to be really helpful for you even
+0:35 if you're a real estate agent using
+0:35 these softwares this might be helpful
+0:37 for for you this is just a big big part
+0:44 of my new kit right now is I'm going to
+0:46 be using this a lot anytime I'm doing
+0:46 any kind of shelves so this is a shelf
+0:50 system and it's built on the cabinet
+0:52 tools most powerful Tools in this
+0:52 software so let's take a look it's going
+0:56 to take a little while to get through
+0:56 this this is built on a system of either
+1:01 30 inch cabinets or 15 inch cabinets so
+1:02 I'm going to show you what I mean we'll
+1:05 get into Chief and I'm going to drop in
+1:07 here a wall cabinet
+1:07 and So within the folder you receive
+1:10 there's numbered folders and the first
+1:14 numbered folder is called painters and
+1:15 these are just style palettes this tool
+1:19 is meant to spray this cabinet and
+1:19 immediately turn it into a 30 inch wide
+1:22 cabinet with a particular setup here and
+1:27 let's just open this up and take a look
+1:29 at what it's made of this is a cabinet
+1:29 with zero inch left and right sides and
+1:36 a zero inch back face as well and then
+1:36 what we have is two doors the lower door
+1:41 as you can see here it's only an inch
+1:43 and a half that represents the Shelf
+1:43 itself but it's a door which means all
+1:49 of these symbols are in fact doors now
+1:49 the Shelf system itself only works right
+1:53 now with a 12 inch depth shelf but you
+1:54 can of course fake it with any number of
+1:58 different items or stretch the shelves
+1:58 I've included to the size that you need
+2:02 and reconvert it to a door in the
+2:03 likeness of the symbol class that I have
+2:08 so you can open up these items in the
+2:10 symbol class take a look at how I've
+2:10 built them and build your own stuff if
+2:12 you'd like to that's just a note now the
+2:18 next part of this is we've got a door
+2:21 here it's based on a 15 inch overall
+2:21 height okay so all the items in my shelf
+2:32 now that we've kind of covered that what
+2:35 we can do is do our hot swap method from
+2:38 our library so in the number two folder
+2:40 I've got shelves
+2:40 now before I even do this I'm going to
+2:42 actually span this cabinet out a couple
+2:46 different times I'm going to do a
+2:46 multiple copy here at 30 inch inch
+2:49 interval and then I'll select all these
+2:55 I'm going to move them up
+2:55 and then we're going to make
+3:07 put one almost on the ground
+3:07 that way we can see all the different
+3:10 Shelf
+3:10 shelves that I have available in this
+3:12 now you can see here this is a has only
+3:16 a one side bracket the point of that is
+3:16 that you can flip this shelf if you want
+3:21 to and show that we have a bracket on
+3:21 left and right side now notice that the
+3:25 decor actually flip as well another way
+3:26 you can do that is actually go in here
+3:29 and change this from a door left to a
+3:30 door right
+3:30 and vice versa
+3:36 very easy there you go
+3:36 so I have a one side bracket I also have
+3:40 a double side bracket in case you just
+3:42 want a single shelf unit
+3:48 I've got a laminated shelf this is just
+3:49 a typical face frame shelf it's a
+3:49 three-quarter inch shelf with an inch
+3:54 and a half face frame
+3:54 inch and a half rail if you will
+4:02 actually I'm going to paint the Live
+4:05 Edge on the bottom here
+4:05 and you can see this is just replacing
+4:07 from the library in the component level
+4:12 notice that we've got C check for the
+4:15 component Library object painter
+4:21 I've got a rustic shelf this one's kind
+4:22 of an interesting one we can paint this
+4:32 and then one of my favorites I have a
+4:33 bracketed
+4:33 slatted Shelf
+4:35 I do leave a couple components in this
+4:39 kit in case you want to make your own
+4:42 setup on a shelf totally up to you
+4:42 have the double-sided slotted shell for
+4:45 this end one here
+4:48 there we go
+4:48 now let's take a look at some of the
+4:49 decor that I've included in the 30 inch
+4:51 cabinet system now these are all 30 inch
+4:55 cabinets I've got 15 inch cabinets and
+4:57 30 inch cabinets so
+4:57 let's just paint these out and they're
+5:02 organized by kind of category so the
+5:02 first category being audio and there's
+5:04 only one system in this this has got my
+5:07 SX
+5:07 you know Recreation of a receiver let me
+5:12 paint it up here at the top here maybe
+5:17 got a bath system and you can see with
+5:18 this particular shelf there's going to
+5:18 be some items that don't work very well
+5:26 books are going to work well with this
+5:26 I've got plenty of book symbols in here
+5:30 some of these book symbols have book
+5:31 ends in them
+5:31 it's nice for just kind of capping you
+5:45 any of cooking items for your kitchen
+6:20 you can see just how quickly we can
+6:20 change out and build a full system based
+6:27 custom model towels
+6:27 trying to make them low poly count and
+6:32 ultra realistic like custom baskets
+6:33 there
+6:33 and finally a plant now let's take a
+6:45 you can see here this is overall a very
+6:47 quality kit and we did that lightning
+6:49 fast so you can come up with a shelf
+6:49 system with the system very very quickly
+6:55 and be happy with the end results
+6:55 now I'm going to delete all this and
+6:58 we'll get into a 15 inch cabinet
+6:58 assembly and see what I've got there
+6:59 look how good those towels look up there
+7:04 not fantastic
+7:04 there's nothing like that in the Chief
+7:05 Architect Library so I mean this kit is
+7:16 and get into plan view delete all this
+7:23 throwing in a new wall cabinet here
+7:23 we'll get into our painters we're going
+7:32 15 inch shelves I don't have quite as
+7:32 many shelves in the 15 inch system but
+7:35 the point of the 15 inch system is that
+7:36 you can add a couple of them together if
+7:40 you'd like and create your own
+7:54 so I've got that same SX receiver there
+8:12 these are meant for creating spice racks
+8:30 obviously some more dishes and glassware
+8:32 let's see if we can't just copy these up
+9:16 and there we go and let's take a look at
+9:33 and just to revisit this we can of
+9:33 course change these shelves if we want
+9:54 I'm not clever
+9:54 all right now let's take a look at
+9:55 another use for this kit because you can
+9:58 put together quite a few things with
+10:00 this particular kit
+10:00 I'm going to place a full height cabinet
+10:08 I'm gonna make it 30 inches because I'm
+10:09 going to go over a couple things that
+10:09 you might run into but this is still a
+10:12 dynamic dynamic system even with a full
+10:14 height cabinet so I'm going to take this
+10:17 upper door I'm going to split it
+10:19 horizontally
+10:19 I'm going to make this section be 15
+10:22 inches
+10:22 and then this lower section I actually
+10:26 want to change this to be 30 inches
+10:27 which is going to stretch that upper
+10:29 section
+10:29 now I can use the component mode to hot
+10:34 swap out this segment but before I do
+10:35 that I actually want to split this
+10:35 vertically because because we have full
+10:41 overlay doors my systems are built on
+10:41 cabinet doors which means that they're
+10:44 going to be in set which means they
+10:44 overlay in the case of a full overlay
+10:49 door cabinet so because we have this
+10:49 instead of it being inset if you want an
+10:54 inset cabinet it's not a problem if you
+10:56 want an overlay cabinet we're going to
+10:56 have to do a couple things I'm going to
+10:59 split this vertically and I'm going to
+11:01 split this vertically again and I'm
+11:01 going to make this an opening in the
+11:03 opening I'm just going to set it to be
+11:07 item width of one inch
+11:07 the other I'm going to make an opening
+11:09 as well again item with one inch I don't
+11:14 need these separations so I can delete
+11:17 them
+11:17 and I can move this opening to the right
+11:21 that leaves me that Center door section
+11:23 now there's one more thing I need to do
+11:25 here I'm going to add to this I'm going
+11:28 to add in an opening and I'm going to
+11:28 make it as small as I can if you type in
+11:32 1 32nd it's just going to make it 1 16.
+11:36 okay and that makes a little
+11:36 um a little separation between the
+11:38 separation itself because otherwise
+11:40 again your door is going to overlay on
+11:44 the bottom side here which means my
+11:44 shelf systems are going to dive down
+11:46 into the platform that's created here so
+11:52 we've got a separation and then we've
+11:53 got
+11:53 this little opening needs to move up
+11:55 above that separation and that's it so
+12:01 we've got a little tiny 1 16 opening
+12:04 above our separation
+12:06 and we've got
+12:06 opening on either side of the door now
+12:09 this system works so I'm going to get
+12:09 into my double width shelf items again
+12:16 be in the component mode
+12:16 and look what happens One Last Thing One
+12:21 Last Detail we need to do we need to
+12:22 make sure that we're specifying that
+12:22 this is not an auto right door that it's
+12:27 a door right or door left
+12:27 there we go now this system works you're
+12:32 going to notice one more goofy thing we
+12:33 see a handle here
+12:33 there's one quick easy way to change
+12:38 that we need to go in specify
+12:41 specify Appliance door drawer
+12:41 and so in the subsequent menu here we're
+12:46 going to make sure that our door handle
+12:48 is set to none
+12:48 now finally we can use our system to
+12:53 quickly just change out
+13:01 those look like they're floating but
+13:01 it's just because it's a glass texture
+13:09 so again pretty quickly
+13:09 we can have a cabinet with Decor in it
+13:19 this is a nice way to build out
+13:22 you know full laundry systems
+13:22 or laundry cabinet dresses I should say
+13:53 so that's it that's kind of the full
+13:53 breakdown and run through of this I've
+13:57 got some bonus items in here this is
+13:57 also included in my kitchen quick tools
+14:02 but this particular sprayer uh makes it
+14:05 so that you can paint any cabinet any
+14:05 type of cabinet and immediately change
+14:07 it to some kind of a bookshelf so be it
+14:12 a base cabinet or an upper cabinet
+14:14 we can use this tool
+14:14 to make a bookshelf so that's included
+14:19 in this kit it's also included in the
+14:19 kitchen quick tools I've got some parts
+14:23 so that you can create your own stuff
+14:23 I've got a bookend in here and then if
+14:28 you purchase this this particular
+14:28 package any updates I make to this and I
+14:31 will I'm sure I'll make some updates
+14:31 you'll get those for free so go check it
+14:36 out on my shop again if you've got any
+14:36 questions leave comments wherever you're
+14:40 seeing this video leave comments happy
+14:41 to answer any questions about this
+14:41 particular kit I'm super excited to go
+14:45 use it I've got a bunch of projects I
+14:47 already need it for so uh that's it

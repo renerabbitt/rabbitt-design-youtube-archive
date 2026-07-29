@@ -1,0 +1,161 @@
+---
+videoId: fbPrr6XxLrA
+title: Matterpak Scan as a Reference Object in Chief Architect X15
+url: "https://www.youtube.com/watch?v=fbPrr6XxLrA"
+status: imported
+---
+
+# Transcript
+
+0:00 hey VIP this is a video redo I've got a
+0:03 a little bit more of an extensive video
+0:05 but it was done in the wrong format so
+0:07 I'm redoing it and I'm not going to go
+0:09 as extensive as I did in that other
+0:10 video but what I'm going through here is
+0:12 that got a matter pack scan when you
+0:15 import these as an obj file you're going
+0:17 to convert them to something like a
+0:18 fixture make sure that your unit of
+0:20 measurements is meters when you import
+0:23 that because I think that's true to
+0:24 scale and then and double check that and
+0:27 then set your 3D smoothing for the
+0:29 symbol
+0:30 down to 0° and that will make it so that
+0:33 you see all the individual Vector lines
+0:36 the last bit of this is that we want to
+0:38 set its reference from an absolute Point
+0:41 as opposed to finished floor or floor
+0:44 level because that way we can make sure
+0:46 that it's at the correct height that we
+0:48 need it at to start tracing from next up
+0:51 I've got a 3D view here and I'm
+0:52 referencing that plan file and that plan
+0:55 file only has the matter pack in it this
+0:58 is a great way of doing things where you
+1:00 just want to use the matter pack as a
+1:01 reference because what'll happen is if
+1:03 you have the matter pack in the plan
+1:05 you're using to draw with it's going to
+1:07 rebuild that 3D all the time which means
+1:10 it's rebuilding this matter pack that
+1:13 might have 400 500 even a million all
+1:16 count right and we don't want to have to
+1:18 redraw that every time so it's nice to
+1:20 use it as a reference display and of
+1:22 course you can change that rendering
+1:24 mode from this class house to like a
+1:27 standard rendering mode as well
+1:30 helpful at
+1:32 times that standard rendering mode helps
+1:35 us kind of understand what we're even
+1:37 looking at sometimes but I prefer when
+1:39 I'm tracing to just use the glass house
+1:41 because then it's just showing me those
+1:43 Vector lines and I can see right when a
+1:46 particular element has popped through
+1:47 the wall because we're trying to line
+1:49 these up so that the surface of the
+1:51 stand itself is just partially through
+1:54 the wall and then that kind of ensures
+1:56 that we've got both sides of the things
+1:58 are lined up so you can see on both
+2:00 sides of this wall the scan is partially
+2:02 through the wall which means I think I
+2:04 have the thickness of my wall correct
+2:06 and I think I have the location of that
+2:08 wall correct as well as those door
+2:10 openings etc etc so of course you can
+2:14 always change your rendering method for
+2:16 your um for the house that you're
+2:18 building too so maybe you want it so
+2:19 that you've got a glass house for the
+2:21 walls that you're building and you're
+2:23 showing through to that scan so this is
+2:25 a really powerful method you can see
+2:27 here I'm using the cross-section slider
+2:30 kind of give myself a cutaway here so
+2:32 powerful method to kind of understand
+2:34 how to draw this now let me just do a
+2:36 new plan file entirely right and from
+2:39 this new plan file I'm going to draw a
+2:44 section camera or an elevation camera
+2:46 here and I'm going to draw it partially
+2:47 through the building itself now before I
+2:50 even do that I want to understand where
+2:53 that scan is so I'm going to turn on
+2:55 that reference display I'm going to
+2:57 change it locate that targeted item here
+3:00 send and delete makefall I'm going to
+3:02 change to a particular layer set where I
+3:04 it's matter pack only and let me press
+3:06 okay I'm going to conform these walls
+3:09 just so it makes a little bit of sense
+3:10 in the context of this video going to
+3:12 just conform these two outside walls
+3:15 here and because this is three layers
+3:18 excuse me three levels let me go ahead
+3:20 and build that out real quick just leave
+3:22 this as a
+3:24 square build out those levels
+3:31 build a new floor
+3:33 yep build one
+3:40 more so now let me draw in this
+3:43 elevation camera and I'm going to cut
+3:45 through partially through the building
+3:47 but I want to leave it so that it's
+3:49 still leaving me some of the exterior
+3:51 side of this building and I'll show you
+3:54 why got a partial cut through let me
+3:57 turn turn on that reference display for
+3:59 that McFall
+4:00 that glass house it's going to take a
+4:02 second to
+4:03 populate make sure that I'm on something
+4:06 that has that matter pack on let me
+4:10 press
+4:11 okay and there we go there's our matter
+4:14 pack now the reason I'm using this
+4:16 particular view is because I want to
+4:18 conform my building to this view right
+4:21 so we're kind of GNA we have to kind of
+4:24 figure out where that floor level is
+4:26 that's the first challenge here but more
+4:29 importantly than that I can see if I
+4:31 select here I can tab through and if I
+4:34 tab through this gets me to my floor
+4:37 defaults for floor one and I can
+4:40 literally slide this up to line up that
+4:43 matter pack scan right I'm lining that
+4:46 up I now conformed my first floor to
+4:49 that matter pack scan let me select that
+4:51 next floor let me tab through a little
+4:53 bit same thing we can see that our floor
+4:55 level is here whereas it needs to be
+4:58 here so in this case so I'm going to do
+5:00 a little bit of math and conform my
+5:02 structure for that floor level so this
+5:04 side's a little bit different so I might
+5:06 take a line here and just draw that line
+5:09 up so that I can figure out what that
+5:10 floor is looks like it's got a 14inch
+5:13 framing member on my floor number two so
+5:15 I can open up my second floor here and
+5:19 set my floor structure at 14 in it's
+5:22 probably a
+5:26 14inch see that our structure updates
+5:29 and now
+5:30 go ahead and click on that second level
+5:32 tab
+5:33 through and start dragging this up to
+5:36 that next floor level which is right
+5:38 about
+5:41 here right and there we go on down the
+5:44 line so really effective way of drawing
+5:47 with these matter pack scans getting
+5:49 your levels correct kind of seeing where
+5:51 that data
+5:53 lies couple tips and tricks for you
+5:55 enjoy
+6:00 [Music]

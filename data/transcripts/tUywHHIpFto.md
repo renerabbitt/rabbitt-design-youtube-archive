@@ -1,0 +1,69 @@
+---
+videoId: tUywHHIpFto
+title: CA SHORTS-Fixing a Stretched Symbol in Chief Architect
+url: "https://www.youtube.com/watch?v=tUywHHIpFto"
+status: imported
+---
+
+# Transcript
+
+0:03 this video is in case you find a symbol
+0:06 such as a sync like this where the 2D
+0:06 CAD symbol doesn't quite look right well
+0:10 in fact not only does the 2D CAD symbol
+0:12 not look right in this case but it's
+0:12 actually the 3D object itself this sink
+0:18 was stretched in a way that changed the
+0:21 drain look and the faucet itself so how
+0:23 do we get into this well this is placed
+0:25 in a cabinet and this came from someone
+0:27 else's design so I need to edit this so
+0:27 what I do is I can do a couple different
+0:31 things one straight from the cabinet we
+0:35 can click on open symbol which is right
+0:35 here or we could tab through to the sink
+0:41 itself and open it there as well now
+0:41 once we're in here we want to get to the
+0:46 advanced sizing panel okay and once
+0:46 we're in the advanced sizing panel and I
+0:51 can kind of scroll and pan this around
+0:52 we can see that the drain is stretched
+0:52 in a funny way now if we want to make it
+0:56 so that this drain isn't stretched where
+0:59 it's being stretched then we need to add
+1:01 some stretch planes so I'm going to add
+1:03 some width stretch planes I'm going to
+1:03 add two of them if we just add one at 0
+1:08 in you can see the drain gets stretched
+1:08 quite strangely right but we need to get
+1:13 a stretch plane so that it is stretching
+1:16 about the center of that the section cut
+1:18 that is created by that plane so in this
+1:20 case we need that plane to be outside of
+1:22 the center of the drain so I'm going to
+1:24 just put in here -3 Ines and then I'm
+1:27 going to add one at 3 in now we have
+1:27 stretch planes on either side of that
+1:30 drain
+1:30 and of course we could do that on the
+1:31 depth as well we could say that this is
+1:36 set to 3 in and actually in this case
+1:40 it's going to be something like ne3
+1:42 in and taking a look at the depth
+1:42 overall we'll say it's -12 in there we
+1:48 go now this is getting uniformly
+1:48 stretched it may be that you need to
+1:50 adjust the height as well in this case I
+1:54 don't need to adjust the height but that
+1:56 fixed it there goes that drain then I
+1:56 need to get over to the 2D block panel
+2:00 and regenerate that block we press okay
+2:06 and from here we might actually need to
+2:09 edit the block keep that in mind so let
+2:09 me press okay and see what happens there
+2:15 we go now the center of this looks good
+2:17 the outside bounds of this block is a
+2:17 little bit off so go ahead and check up
+2:20 at the top and you're going to see at
+2:20 the top of the screen right now I've got
+2:25 a link to doing a custom sync cutout 2D

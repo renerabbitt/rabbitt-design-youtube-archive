@@ -1,0 +1,299 @@
+Title: Tricks For Finish Options In One Plan And Tear Away Effect In Chief Architect Premiere X16
+URL: https://www.youtube.com/watch?v=_dbG3qUL4pE
+Visibility: members-only
+
+0:02 Let's see.
+0:03 Um, I'm going to build off an idea from
+0:05 Jared at Elevation Homes.
+0:08 Why I look orange. Hi, I'm orange.
+0:12 Turn on the light.
+0:16 Oh, that didn't help. I'm still orange.
+0:18 Um,
+0:19 let's build off an idea here.
+0:24 How can we get finish options
+0:27 easily easily? And I want to build this
+0:29 into my plan.
+0:30 Um, how can we get multiple different
+0:33 finish options with just a click of a
+0:35 button?
+0:36 So, here's the thought.
+0:39 We've got some new capabilities in X16.
+0:41 Let's open up a wall.
+0:44 Start editing the wall type.
+0:46 So, here's what I want to do. Let me
+0:47 change my number styles. I had it set to
+0:49 inches for this session.
+0:52 So, I've got a 3/4 inch thickness here
+0:57 on my exterior layer.
+1:01 Let's just keep that at 3/4 inch and I'm
+1:04 going to insert above, which copies the
+1:06 exact same setup here. And I'm going to
+1:08 set this to be a 0 inch. Now, I don't
+1:10 know if I get the Z-fighting with a a 0
+1:12 inch thickness. Um, that's a good
+1:14 question. We're going to test it here in
+1:15 a minute, but here's the first part is
+1:18 let's go find some stucco.
+1:23 All right, so I've got stucco texture
+1:25 here.
+1:27 At 0 inch,
+1:29 etc. Patterns there.
+1:33 So, here's where it gets tricky cuz in
+1:35 X16 we've got um, they're calling this a
+1:37 display layer. That's interesting. They
+1:39 changed the name of this in this is
+1:40 final X16 not beta.
+1:43 They changed this to display layer so we
+1:44 can distinguish it and which is great.
+1:47 Thank you, Chief. Um, I'm going to make
+1:49 a copy walls exterior existing and this
+1:52 is going to be
+1:54 option
+1:56 Let's call this option two.
+1:59 Okay.
+2:00 And actually this
+2:03 stucco can remain. It doesn't need to be
+2:05 called option three. Um, that's a little
+2:07 bit redundant. Now, let's insert above
+2:10 again
+2:11 and this time I want to change that
+2:13 texture
+2:14 and I'm going to set it to be
+2:17 um,
+2:19 maybe this time we'll do a
+2:21 some other kind of siding.
+2:26 Um, maybe we'll do a shingle siding.
+2:29 Kind of a crazy one.
+2:30 So, we can really distinguish it. And
+2:32 let's go to display layer and we're
+2:34 going to copy this again. It's going to
+2:35 be option three. Bam, it automatically
+2:37 picked that up. That's great.
+2:41 Okay.
+2:43 I think that's all I need to do to test
+2:44 this. Should be a pretty simple process.
+2:47 So,
+2:48 pull our camera.
+2:53 Now, that's interesting. I'm not seeing
+2:56 the option that I want turned on. It
+2:58 might be that I need to turn that layer
+3:00 on.
+3:01 No, it's on. So,
+3:04 option three is not showing. So, we're
+3:06 So, we're getting some Z-fighting here.
+3:08 Interesting that Chief seems to have
+3:10 fixed Z-fighting in some way.
+3:12 Um,
+3:15 what happens if we make this one 32nd of
+3:18 an inch?
+3:22 Here we go. Now, we've got thickness.
+3:24 Now, we don't have Z-fighting. So,
+3:26 here's what we've got. We've got a
+3:27 finish option now, all right?
+3:30 Layer hider, get the hover over click.
+3:34 Did not work.
+3:35 Hover over and clicking did not get me
+3:39 what I wanted.
+3:41 Interesting that it made the wall
+3:43 disappear.
+3:44 So, it turns out I have to go to Aldo
+3:46 instead or just come into object
+3:49 properties instead and click off.
+3:54 Option three versus option two.
+3:57 Should have seen this in real time.
+4:00 Didn't seem to be working. So, let's
+4:01 just go
+4:02 Aldo go option three. There we go. Works
+4:06 from Aldo.
+4:07 And then option two,
+4:09 there's still Z-fighting happening.
+4:13 Right?
+4:14 Let's open up this wall type again.
+4:15 We're going to have to put some
+4:16 thickness to this guy right here. So,
+4:17 let's go 1/32 of an inch again.
+4:22 All right, so here we go again. Option
+4:24 three is
+4:26 gone.
+4:28 Now, we're seeing option two.
+4:32 Option two. Bam.
+4:35 So, I mean maybe that's nice, quick and
+4:37 easy, right? As opposed to using the
+4:39 paint sprayer tool
+4:41 um, to spray different options, just
+4:43 being able to
+4:45 show different options. What could be a
+4:47 little bit dynamic about this is let's
+4:49 say for instance, let's just open up
+4:51 this wall type real quick
+4:53 and let's show that we've got an
+4:54 extension here that's 2 inches.
+4:57 Right? And so maybe one of our options
+5:00 has an extension.
+5:02 Um, so that adds a little bit more
+5:05 dynamic
+5:07 elements to this. More dynamic elements
+5:09 to this.
+5:11 Pretty slick. I like it.
+5:13 Um,
+5:16 that's it. That's all I got. Do you have
+5:18 any ideas? You want to expand on this
+5:19 thought? Uh, let me know.
+5:23 [Music]
+5:28 Wait a minute. Wait a minute. I do have
+5:30 an additional idea.
+5:32 Now, what happens when we do this? Um,
+5:36 let's say our wall region tool.
+5:39 Been doing that a lot lately. Been
+5:40 teasing you guys with the end edit
+5:43 segment. Let's take our wall region tool
+5:45 and instead we're going to say that this
+5:47 is
+5:48 1/32
+5:50 and that
+5:52 this in fact is going to be
+5:56 insulation air gap.
+5:59 Right?
+6:00 And we're going to cut a finish layer
+6:02 bearing object.
+6:05 That's interesting.
+6:11 Should have all of our options turned
+6:13 on, so I'm not sure why
+6:16 that's not
+6:17 just cutting 1/32.
+6:20 Should be.
+6:25 Right? It should have just cut
+6:27 that first layer. Why are we seeing
+6:30 We're seeing all the way through. It's
+6:32 not just cutting the finish layer.
+6:35 Cutting everything.
+6:38 That's an interesting one. Little glitch
+6:40 there.
+6:41 Um, let's see if the same thing happens
+6:43 with backsplash tool.
+6:48 Half an inch cut, insulation air gap.
+6:54 Interesting that the backsplash tool
+6:56 seems to be working.
+7:02 It's very strange. Material region Looks
+7:04 like we might have found a glitch.
+7:05 Sorry, Chief.
+7:07 Um, so let's go back to this and
+7:09 understand this a little bit. Oh, first
+7:11 of all, we've got Oh, that's showing
+7:14 that's showing part of my own
+7:14 backsplash. So, let's just set this to
+7:16 1/32 again.
+7:19 What happens? Yeah, that cuts all the
+7:20 way through.
+7:22 All right, so just to test this, need to
+7:25 make sure that something's not wrong
+7:27 here.
+7:30 I'm going to open up X15 just to double
+7:32 check this.
+7:36 So, let's add a duplicate layer here.
+7:38 Wall type
+7:39 siding for existing.
+7:41 Let's insert above. Let's say that this
+7:43 is 1/32.
+7:45 And then let's insert above again.
+7:49 Right?
+7:51 Let's go take a look at this.
+7:58 And then
+8:00 let's do that. Same material region.
+8:07 And cut layer of finish up
+8:11 32nd.
+8:13 Okay.
+8:15 [Music]
+8:24 Same thing. So, that cuts. Oh, okay. So,
+8:27 same
+8:28 same issue here. Interesting. It cuts
+8:31 all the way. So, that's not a glitch
+8:32 just in X16.
+8:34 So, I thought maybe that was clever to
+8:36 reveal a section underneath.
+8:39 Do we have anything else that can do
+8:40 that?
+8:41 We do. We have something that can insert
+8:44 into a wall. I'm not sure if that will
+8:46 just cut an individual layer or not.
+8:50 Let's just try that real quick.
+8:52 Um,
+8:55 now, this is on the ground so it's a
+8:57 little bit easier. Let's draw
+8:59 something like that.
+9:00 Um,
+9:01 let's say that the depth is 1/32.
+9:05 Um,
+9:07 let's
+9:10 load this.
+9:13 I'm going to block it so that it's
+9:15 easier to select this.
+9:18 I'm going to delete that face.
+9:21 Okay. And I should be able to
+9:24 convert this to a symbol.
+9:27 Show advanced options. Press okay.
+9:32 It's going to be
+9:33 inserts
+9:34 into wall.
+9:36 1/32.
+9:39 Okay.
+9:40 This inserts in the wall at 1/32. We're
+9:42 going to paint insulation air gap. There
+9:45 we go. So, that worked.
+9:49 Did you follow that? That was pretty
+9:51 fast. Apologies. Let's do that again.
+9:54 Let's show exactly what that trick was.
+9:57 All right? So,
+9:59 draw out a solid. Didn't really care
+10:01 what the solid size was. All I cared
+10:03 about was the depth was 1/32. So, I just
+10:06 took the smallest number here and set
+10:07 that to 1/32.
+10:09 Right? So, there we go. Now, it's
+10:11 important to note that I drew it in this
+10:13 direction because Chief does in fact
+10:15 recognize a front side, back, etc. for
+10:18 placement. So, let's actually do it um
+10:21 on this side in this case, okay? So,
+10:23 here we go.
+10:26 So, we know that's one one section of
+10:28 this is very shallow and that's the
+10:30 depth. I'm going to set it to 1/32.
+10:34 I'm going to explode it. What does that
+10:36 mean? It means it turns it into a bunch
+10:38 of individual faces that are difficult
+10:40 to select in 3D.
+10:42 So, in order to make it easy to select
+10:44 this in 3D, I'm architecturally blocking
+10:47 it while everything is still selected.
+10:50 Then I select the architectural block,
+10:52 all right? Then I tab in
+10:55 in this case. So, I'm going to tab in.
+10:57 That's going to give me the face there
+11:01 that I want to delete. So, I'm deleting
+11:03 inside of the architectural block. The
+11:05 architectural block still exists,
+11:07 right? So, I can select it again and
+11:10 it's missing that one face. So, it's got
+11:12 a couple sides that are really narrow,
+11:14 but it's missing the one face.
+11:16 Then from here, I converted it to a
+11:18 symbol. It's a fixture class, show
+11:20 advanced options, inserts into wall at
+11:23 1/32. And the last thing that we did was
+11:26 place this and painted
+11:28 that air gap insulation material that
+11:31 was coming from
+11:33 the other side.
+11:36 And there we go. It's revealing a
+11:37 section of finish. Now, can you resize
+11:39 this? Yes, you can.
+11:41 Right? It's not going to automatically
+11:43 cut around fenestration,
+11:48 is it?
+11:49 It is. In- Interesting. Isn't that cool?
+11:54 And a dynamic little thing that we just
+11:57 discovered, right? So,
+11:59 I don't know. Check that out. Worth the
+12:01 price of admission.
+12:07 [Music]

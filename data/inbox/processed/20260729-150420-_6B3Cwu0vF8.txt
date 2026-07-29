@@ -1,0 +1,6 @@
+Title: Twinmotion 2020 Example Clip-Modeled in Chief Architect X-12
+URL: https://www.youtube.com/watch?v=_6B3Cwu0vF8
+Visibility: public
+Source: whisper
+
+0:00 Ladies and gentlemen, my name is

@@ -1,0 +1,255 @@
+---
+videoId: CY3Cj0FQXks
+title: Brick Ledge trick and more in Chief Architect X15
+url: "https://www.youtube.com/watch?v=CY3Cj0FQXks"
+status: imported
+---
+
+# Transcript
+
+0:00 what's going on BP what are we going to
+0:03 do this time I want to go over a few
+0:05 notes about having some brick
+0:08 walls and messing around with their
+0:10 brick Ledges and brick caps so let's
+0:13 just start I'm going to draw a brick
+0:16 pony wall and we're going to pull a
+0:17 crosssection here back clipped
+0:21 crosssection and we're going to take a
+0:23 look at a few things I'm going to hit
+0:25 alt WV and that's going to tile my
+0:28 windows because I want to see this wall
+0:30 on the one side and our detail on the
+0:33 other now um something to keep in mind
+0:36 here before we Auto Detail we do notice
+0:38 that our sheathing is lining up but then
+0:40 we've got siding above and building
+0:42 paper whereas the brick has an air gap
+0:45 um so a couple things there and then
+0:47 notice our brick ledge so the alignment
+0:49 here is that our framing is lined up and
+0:53 then we've got a brick ledge into the
+0:56 foundation okay and then that plywood is
+1:00 stopping at the framing here here's our
+1:01 air gap brick makes it all the way down
+1:04 to that stem wall so couple things let's
+1:07 open up this wall and just take a look
+1:09 at some of the settings that we have
+1:10 available to
+1:13 us so first up I'm going to look at the
+1:17 um got to get right into the wall types
+1:20 and let's define this brick six now I
+1:24 could do this in another location um if
+1:27 you have my tool barss over on the left
+1:29 hand side side here we have Define wall
+1:31 types you can add this to your toolbars
+1:33 as well so Define wall types and then I
+1:35 can find that brick six and do my
+1:37 adjustments here now let me get into the
+1:39 wall properties section here or panel if
+1:42 you want to call it that and then we'll
+1:44 notice a couple things one is we've got
+1:45 a brick ledge depth so what happens when
+1:47 we change a brick ledge depth let me set
+1:49 this to 6 in press okay and what you're
+1:52 going to notice here is on this side
+1:53 here it just jumped down so now this
+1:56 total distance on this this is
+1:58 considered depth in this case so this
+2:01 just changed to 6 in as opposed to 3 in
+2:05 as it was before now let's get into that
+2:07 panel again and this time I'm going to
+2:09 set a foundation uh offset of one inch
+2:12 what this means is notice the foundation
+2:16 actually scooted in if you notice that
+2:19 it scooted in one in okay so that's a
+2:22 total offset so um the entire Foundation
+2:26 assembly was just scooting in off of
+2:28 this particular wall type so it's being
+2:31 driven by the wall above in this case so
+2:34 something really important to note and
+2:37 then let's just do a little auto detail
+2:39 and build all framing so I'm going to
+2:41 build all framing we're going to make
+2:43 sure we see everything here and then I'm
+2:45 going to do an auto
+2:47 detail so here we go so we can see here
+2:50 that the concrete stem wall it's lined
+2:52 up with this uh soulle plate if you will
+2:55 bottom plate if you will or rather just
+2:57 yeah sole plate and then we we've got
+3:00 our framing stacked on top of that our
+3:02 interceding uh subfloor coming in
+3:04 through that and then a bottom plate
+3:06 here and so we've got this sheathing air
+3:09 gap and then brick so couple things we
+3:12 can do with this uh one is let's just
+3:15 select this wall this time again or we
+3:18 can just edit straight away right in the
+3:20 Define wall types and um Define wall
+3:24 types we're not going to get to certain
+3:26 things such as a wall cap here so that's
+3:28 the only problem with going about it in
+3:29 the this way we are just defining the
+3:31 wall type itself so things like the wall
+3:34 cap we can't get to here but it might be
+3:36 that you want to um conform your
+3:38 exterior layers fill to the layers of
+3:41 the wall above now we're hoping in x16
+3:44 we get some independent fill uh
+3:46 depending on the layer that we have
+3:48 these independent layers on so that's
+3:50 something we're hoping comes out in x16
+3:52 I know it was a feature that was talked
+3:54 about and kind of previewed so we'll see
+3:56 if that comes out or not so I'm going to
+3:57 open up my wall in plan view here here
+4:00 and I'm going to get to the wall cap and
+4:02 then I'm going to add new and for this
+4:05 one I'm going to I'm going to use I
+4:08 actually have a brick cap here so let me
+4:10 just type in Brick and I have a 3D Brick
+4:13 In this case and I have several
+4:15 different versions of it so I'm going to
+4:16 pick one of these 3D bricks all right
+4:20 something like this that's fine and I'm
+4:22 going to press okay and then before you
+4:24 may modify the size of this particular
+4:27 brick and notice it's generating a lot
+4:30 of um a lot of faces for this particular
+4:32 brick um I want to click on default in
+4:37 this case and once I've got default wall
+4:40 cap then I might be able to replace this
+4:42 but I also might be able to rotate this
+4:44 profile right and so maybe I want that
+4:47 capability where we rotate the profile
+4:49 now it's important to get in here on
+4:50 your preview to understand which way
+4:52 that's rotating so in this case we want
+4:54 it to rotate -4° and then notice the
+4:57 vertical offset because it's root
+4:59 rotating about a um specific point and
+5:02 and that is it's um its profile as it's
+5:05 placed against the wall then it's
+5:07 adjusting that vertical offset based on
+5:09 the rotation so we got to raise that up
+5:11 before we even raise that up we need to
+5:13 set this to the width that we need it
+5:14 right so there's my cap and then I can
+5:18 raise it up so from here I might come in
+5:22 and actually if you want to get real
+5:24 fancy with this I'm going to delete this
+5:26 layer
+5:27 fill and then hit my L key for a line
+5:31 and I might actually draw in a little
+5:34 profile here now I'm not too worried
+5:36 about where it goes because I'm going to
+5:37 edit it
+5:39 so I'm going to have a little bit of
+5:41 flashing return right here going to
+5:44 bring that up I'm going to angle this
+5:47 just a little
+5:51 bit and there's my flashing profile now
+5:54 I can take
+5:55 this and add it to the library and call
+5:59 it whatever I'd like like to right so
+6:01 that's going to be that flashing profile
+6:02 it's just called molding in the library
+6:03 right now but maybe it's brick cap
+6:11 flashing and then we can open up this
+6:16 wall and we'll add that new
+6:20 brick cap
+6:24 flashing now it's not letting me add new
+6:27 and I think that's because we only do
+6:29 get to one have one profile
+6:49 here so we see how this is showing
+6:54 up see notice at the end of this profile
+6:58 that it's creating
+7:00 a triangle from that furthest point to
+7:03 that upper point so that gives us what
+7:07 we need to know about this particular
+7:08 profile is that we actually need to do a
+7:10 little bit more to this in order for it
+7:11 to
+7:13 work so water switch what
+7:17 happens we get an incap condition that
+7:20 doesn't quite work so to fix that we
+7:22 need to get in here and do a little bit
+7:23 of modification
+7:34 and all I'm going to do is connect this
+7:36 Edge right
+7:39 here and this will connect that CAD
+7:42 segment and then we can close that CAD
+7:44 segment up and then we can just kind of
+7:47 edit as we need to this is a quick one
+7:49 so we didn't really need to do anything
+7:51 with you know concentric or something
+7:52 like that so let me add this to the
+7:56 library
+8:01 I'm naming it in the library off the
+8:03 screen brick cap
+8:06 flashing I'm going to delete my previous
+8:08 version of
+8:22 it you can see what it's doing with this
+8:24 end condition let's replace it
+8:36 there we go there's the condition we
+8:37 want and now we just need to change that
+8:39 offset and it's going to be whatever
+8:41 that flange is so it's probably about 2
+8:44 in2 in and
+8:47 maybe one inch that's about right and
+8:51 then its overall width is a little bit
+8:52 off notice that
+8:54 so might be that just this needs to
+8:57 be 3 75 something like
+9:03 that and let's take a look at what this
+9:05 looks like in
+9:14 3D notice it's the same color as the
+9:17 brick here but let's just paint it like
+9:19 a black stainless oh and then this
+9:22 needed to be offset in um terms of it
+9:25 sliding underneath the siding right so
+9:29 that's why that overall distance was
+9:31 wrong so let's just get this back to its
+9:34 oops I didn't mean to make it default
+9:36 hold
+9:37 [Music]
+9:39 on brick
+9:44 cap so we need to offset this vertically
+9:48 so it's going to be a -1
+9:51 +
+9:53 716 I believe
+10:02 it's almost right I think we're a little
+10:04 off here so just negative one there we
+10:10 go let's go two here
+10:14 n
+10:15 one one
+10:29 there we
+10:34 go and then just paint that
+10:41 flashing so there's our brick
+10:45 cap you can see if we go underground
+10:47 there's our brick ledge sitting on that
+10:49 portion of the foundation here's the air
+10:52 gap of course we're probably going to
+10:53 wrap this and in the case that we wrap
+10:55 that it might be that we got to do some
+10:58 different wall definition
+10:59 it can be difficult to wrap and have
+11:02 this return When you wrap a
+11:05 um a brick wall what's going to happen
+11:08 is it's going to wrap at
+11:11 the it's going to return at The Brick
+11:15 because the brick is on the surface
+11:16 layer so even though it looks like it
+11:17 ends at this point the brick is actually
+11:19 going to return into this siding so if
+11:22 we look at
+11:23 this 3D you're seeing here there's that
+11:26 return around that corner and if you
+11:28 want to get rid of that return you got
+11:30 to do some tricky stuff with uh room
+11:32 dividers so anyways couple tricks for
+11:36 your
+11:37 brick
+11:39 foundations hope that helped
+11:43 [Music]

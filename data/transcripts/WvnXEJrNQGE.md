@@ -1,0 +1,849 @@
+---
+videoId: WvnXEJrNQGE
+title: Twinmotion 2020 Tutorial-PART 7-Material Mapping
+url: "https://www.youtube.com/watch?v=WvnXEJrNQGE"
+status: imported
+---
+
+# Transcript
+
+0:15 boom look attach some bright lights we
+0:15 made some material ID mass that's coming
+0:22 up in video 8 please stay tuned material
+0:24 ID mask I'll explain what this is if you
+0:27 don't already know and also we'll take a
+0:29 look at using the phasing tool to create
+0:31 multiple different finish options
+0:31 material ID mask will be used in a post
+0:34 editing software like Photoshop where we
+0:37 can take it and use that material ID
+0:40 mask to be able to do some finite
+0:40 selection of materials and then quickly
+0:45 be able to change finish colors post
+0:45 render what a fantastic method so please
+0:51 stay tuned that's going to be part eight
+0:53 and here you go we're gonna start our
+0:55 part seven of the twin motion video
+1:00 series 2020 welcome to part 7 of my
+1:04 video twin motion series this is a
+1:04 tutorial for twin motion 2020 I'm Renee
+1:09 rabbit this is rabbit design and let's
+1:09 get into this we're gonna straight away
+1:13 from our original scene we've been
+1:13 building out and we're gonna bring that
+1:16 full circle we'll come back and touch
+1:18 into that later on but for now we're
+1:21 gonna go over some texturing methods
+1:22 we're gonna go over some really rich
+1:22 advanced content here this is gonna be
+1:27 one of my favorite videos this is what
+1:30 I'm most interested in in any 3d
+1:30 modeling or rendering program is the
+1:32 texturing aspect where we get to really
+1:35 bring things to life and so bear with us
+1:40 in this video we really are gonna go
+1:40 over some kind of complicated concepts
+1:42 you might have to rewatch some segments
+1:44 over and over again and I'm gonna try to
+1:49 keep the pace nice and fast so that
+1:49 those people that already understand
+1:51 some of these concepts might be able to
+1:54 gather little tidbits of information
+1:54 along the way I always do try to present
+2:00 you with some profound new information
+2:00 in these videos so please discover this
+2:06 video as many times as you need to and
+2:08 hopefully it helps you in your own
+2:08 workflow so first part of this video is
+2:13 we've got three separate assets that
+2:13 I've imported into two in motion using
+2:16 different methods that's why I call them
+2:21 different assets because this first
+2:22 vehicle on the left hand
+2:22 is a Sketchup file it was brought in
+2:25 using the collapse by material option
+2:28 the second vehicle in the middle there
+2:32 is a 3ds file type
+2:32 it used the collapse by material option
+2:35 as well and the third file is a sketchup
+2:42 file again and we use the keep hierarchy
+2:44 option and we're going to go over the
+2:46 benefits of each of those and we're
+2:46 gonna explain some of the core concepts
+2:52 beyond those different import methods
+2:52 this first vehicle being a sketchup file
+2:57 that we use the collapse by material
+2:57 option there's one very solid benefit to
+3:03 that particular import method which is
+3:05 that if we select that vehicle in my
+3:07 scene graph which is going to be a
+3:07 folder with all the materials underneath
+3:12 this what I would call material IDs
+3:12 we're going to touch on that in a second
+3:18 what we see here is that our translate
+3:18 tool here down at the bottom I'm calling
+3:22 it the translate tool keep in mind I'm
+3:25 about 20 hours into this software and
+3:25 this is a self discovery series I'm not
+3:30 watching any other YouTube videos about
+3:33 twin motion I'm not looking into any
+3:33 documentation and I'm not hitting our f1
+3:37 key to see the twin motion built in
+3:37 tutorials channel on YouTube so this is
+3:43 me discovering the software on my own
+3:43 from my experience from other softwares
+3:49 full disclaimer there so the first part
+3:51 about this is this what I'm going to
+3:51 call a translate tool has a center node
+3:55 which is a global positioning node so
+3:55 that if I grab this center node and drag
+4:00 it up the ramp what happens is twin
+4:00 motion based on where you're placing
+4:03 this center node what it's going to do
+4:05 is it's going to take the projection of
+4:13 any geometry and change the orientation
+4:13 of our model based on that projection so
+4:18 that when I drag this center node up a
+4:21 ramp it's going to reorient my model
+4:21 same thing if I bring it over to this
+4:25 vehicle and it's going to take the
+4:25 projection of the 3d geometry that I'm
+4:28 placing that center node on or targeting
+4:34 and change my main models orientation
+4:35 based on that so
+4:35 there's a really large benefit to this
+4:40 particular import type that's the
+4:40 collapse by material import type and for
+4:45 whatever reason it's specific to
+4:45 Sketchup where this is the origin axis
+4:50 of the original model as it was in
+4:50 Sketchup beyond that I'm not interested
+4:55 in anything else going on with this
+4:55 model so guess what I'm just gonna get
+4:58 rid of it so there we go we're on to our
+5:03 second model here and let me just select
+5:05 that so I can see it the scene graph I'm
+5:06 actually going to move it over what
+5:06 you're gonna see here is the translate
+5:08 tool immediately changed its access and
+5:13 so when I grab the center node which is
+5:13 that positioning node it's going to what
+5:17 happen it's gonna die this thing
+5:17 underground same thing it will change
+5:22 its orientation the same way it did
+5:23 previously but because it's in the
+5:23 middle on the z-axis of this vehicle
+5:29 we're always going to be underground
+5:29 which is something I'd really like to
+5:34 avoid so let's bring this back to
+5:34 above-ground and go over a couple things
+5:40 now this is a 3ds file type I'll show
+5:40 you I'm gonna hit my number one key so I
+5:44 changed my zoom speed here
+5:44 and I can hold shift and go a little bit
+5:49 faster than that and we'll see inside of
+5:50 this vehicle immediately we're gonna see
+5:52 something kind of wrong here which is
+5:54 that it seems like we're missing
+5:54 geometry we're in fact not missing
+5:57 geometry this was the original modeling
+6:02 of this where all materials had a
+6:02 double-sided texture by default so that
+6:09 if I use my material picker tool here
+6:09 and go into settings all I need to do is
+6:13 click double-sided and we're gonna see
+6:13 that geometry showing up again so that's
+6:19 one issue with the 3ds file type one
+6:19 very large benefit of the 3ds file type
+6:24 was that when I brought this into the
+6:24 scene this imported really really fast
+6:28 when compared to the sketchup file types
+6:33 which i think the same could be said for
+6:35 some of the other file types like the
+6:35 FBX file type may be the Dae file type
+6:38 so if you've got something with a lot of
+6:43 complex geometry and you're interested
+6:43 in a really fast workflow maybe you need
+6:48 to import using a 3ds file type versus
+6:48 the
+6:48 SketchUp file type now beyond that
+6:51 there's some other issues with this file
+6:55 type and we're gonna illustrate that
+6:55 right now let me just get into let's see
+7:00 our plastic materials built in twin
+7:02 motion and I'm going to drop this
+7:02 checker material onto my main body here
+7:04 and we're gonna see something right away
+7:11 and what you see is a perfect segue into
+7:16 material IDs now every object has what I
+7:20 call a material ID an identifier for
+7:20 that object in the material hierarchy
+7:23 and because we used collapse by material
+7:28 here we can see visually what I'm
+7:29 talking about
+7:29 what we'll see is if I take my material
+7:35 picker tool and select this so that
+7:35 we're looking at our active material
+7:41 here checker linoleum is for this
+7:41 material now let me back up a step and
+7:43 illustrate this a little bit better I'm
+7:45 gonna click on this and what we're gonna
+7:50 see here is body color 1 so if I select
+7:53 this on our Sketchup file type that was
+7:55 clapped and keep hierarchy was the
+7:55 option that we use to import it it's
+7:58 going to tell me that that materials
+7:58 body color 1 now if we look at the 3ds
+8:01 file type where we chose to collapse by
+8:05 material you're gonna see there's that
+8:09 body color one obvious right so that
+8:09 it's a perfect visual representation of
+8:16 what a material ID is the geometry on
+8:18 this part of the body which was
+8:18 originally split up into multiple parts
+8:26 body o 3 body o 3 body o tu barrio 1
+8:29 body are all using the body color 1
+8:29 material so that when when they were
+8:31 imported into Sketchup using collapse by
+8:37 material they are all now one object
+8:37 because they carried the same material
+8:44 ID making it really quick and easy for
+8:44 me to change all these materials at once
+8:50 if that's what I wanted to do the only
+8:50 problem with this is that when I brought
+8:54 this in
+8:54 the disk brakes and the rims are all
+8:57 painted using the same material ID which
+9:02 means they were grouped together and I
+9:05 can no longer paint the disc brakes
+9:05 separate from the rims so that if I grab
+9:10 this plastic material and bring this in
+9:13 what we're gonna see is it painted all
+9:13 rims all disc brakes the same color you
+9:19 notice it didn't paint the rims over
+9:19 here on this other model that's because
+9:25 these are actually mapped differently
+9:28 and that's kind of the difference
+9:28 between these two import types so in a
+9:30 back up one stage we're gonna go back up
+9:34 to that checkered linoleum and I'm gonna
+9:37 drop this onto that body color oh one ID
+9:39 and it's going to change and you're
+9:39 gonna see we've got some differences
+9:41 here some very strong differences here
+9:45 like the number two key to speed up my
+9:47 navigation you can see here we got a
+9:49 checkered pattern that looks way way
+9:49 different from this 3ds file here and so
+9:54 what's happening is the Sketchup file
+9:56 when this was converted to a Sketchup
+9:56 file it had some form of material fixing
+10:01 option that happened when we brought it
+10:04 into Sketchup and we'll go into that in
+10:07 a little bit the first part of this is
+10:09 that we can see some strange wrapping
+10:12 happening here and this wrapping is
+10:14 coming directly from the way the
+10:18 original modeler mapped his
+10:18 three-dimensional the vertices of this
+10:21 three-dimensional file to his UV texture
+10:28 and just a little bit of information for
+10:30 you guys UV doesn't actually stand for
+10:33 ultraviolet it's just that we lost our
+10:36 XYZ designations in like the translate
+10:36 tool and the next available letters are
+10:42 U and V it's as simple as that so
+10:42 there's nothing beyond that U and V that
+10:45 I know of
+10:45 so when we map this UV texture we had
+10:54 coordinates for this 3d model that
+10:54 correspond with that UV texture and
+10:59 sometimes when the original monitor
+10:59 isn't interested in pattern files being
+11:04 mapped to his three-dimensional model
+11:04 what he'll do is maybe he'll be a little
+11:07 bit slow
+11:07 in mapping his model out and UV wrapping
+11:13 his model properly so what's happening
+11:14 here is what we're looking at is
+11:14 basically the vertices the geometry
+11:17 their location on a two-dimensional grid
+11:23 a two-dimensional plane are wrapped over
+11:24 the top of each other it's as if we
+11:24 folded this material over itself a bunch
+11:29 of different times and that's what we're
+11:32 looking at so twin motion has some UV
+11:32 fixes for this and we're gonna go down
+11:38 and look at the various modes we have
+11:38 available for us in this bottom tray and
+11:42 so I'm gonna click on this right here
+11:42 and it's going to show me that we have
+11:47 four different modes first mode being
+11:50 from object UV which is selected by
+11:53 default the next being spherical UV
+11:53 cylindrical of UV and cubic UV now my
+11:58 understanding from playing around with
+12:01 this software and I haven't come to a
+12:01 solid conclusion yet but when we import
+12:07 there is an option to fix UV
+12:07 forward-slash texture and I believe that
+12:14 what happens is when we have a UV
+12:14 texture that might have a problem or is
+12:16 missing and we don't want to locate that
+12:21 texture if we check fix UV twin motion
+12:24 will default to a cubic UV mapping and
+12:26 so we'll look at that in just a second
+12:29 so first up I'm gonna switch to the
+12:29 spherical UV mode what you'll notice is
+12:34 that nothing actually happened that's
+12:34 because all we've done is change a mode
+12:40 so from here forward we are now in the
+12:40 spherical UV mapping mode so it doesn't
+12:46 retro actively do anything but it does
+12:48 do something as far as moving forward
+12:48 and so when I drag this texture back on
+12:52 to that file you can see we amazingly
+12:55 get a big change and it does in fact
+12:57 represent quite nicely it looks like
+13:00 we've just wrapped a two-dimensional
+13:00 image around a sphere and that's exactly
+13:06 kind of in layman's terms what we're
+13:06 doing when we chose spherical UV mapping
+13:13 mode it's telling us the twin motion
+13:13 system that this car of the body right
+13:18 now is actually a sphere and we should
+13:18 wrap that two-dimensional texture image
+13:22 based on that asan
+13:22 keep in mind a lot of this stuff is far
+13:27 more complex that I'm making it feel
+13:27 free to go look this up on the big World
+13:32 Wide Web so the next part is we'll go to
+13:34 cylindrical UV we've switched our mode
+13:36 to cylindrical UV mapping mode what
+13:37 you're gonna see here is no real
+13:37 difference on the side of the vehicle
+13:41 because it's still based on kind of a
+13:41 sphere but a cylinder has a flat top so
+13:45 we can see now that it's not pinched
+13:45 around kind of that center point of a
+13:47 ball it's a flat top and the rest of it
+13:53 it's kind of got a stretched effect
+13:53 going on so the next one is our cubic UV
+13:59 and this is what I believe this defaults
+14:01 to when you use that fix UV option and
+14:01 since we're in that mode now once I drag
+14:07 it in we've got kind of got a uniformed
+14:09 stretched UV mapping now it's not
+14:09 perfect if you could picture planes on
+14:16 like a ground plane on each side each
+14:20 axis of this model converging towards
+14:20 the center of the model that's the best
+14:24 way I can describe cubic easy mapping
+14:24 it's assuming this models a square it's
+14:31 going to push from all sides that same
+14:33 two-dimensional image until they
+14:33 converge and create a seam where they
+14:35 overlap so we do see a little bit of you
+14:41 know problem areas but it's the closest
+14:43 thing we can get to fixing this
+14:43 particular mapping so that's a fantastic
+14:49 way of looking at this now the next part
+14:51 of this because I want to be able to
+14:51 paint my rims separately from my disc
+14:55 brakes like we reviewed earlier I'm just
+15:01 gonna go ahead and get rid of this guy
+15:04 and which brings us to our third model
+15:04 here and let's just scoot over to him so
+15:13 this is a Sketchup model that was
+15:13 brought in using keep hierarchy and you
+15:17 can see our translate tool is in the
+15:17 middle of this model same problem as the
+15:22 previous model which is a problem and
+15:23 I'd love to fix it because ultimately
+15:24 for this car to be dynamic in my library
+15:30 I want to be able to place it based on
+15:33 either the middle the car but towards
+15:33 the ground plane or at the front tire or
+15:38 something like that so the the major
+15:38 benefit of this is that we're able to
+15:40 paint those rims separate colors now and
+15:46 we'll show that in fact before we even
+15:48 get into that what I'm gonna do is I'm
+15:49 gonna go ahead and grab this Center
+15:49 translate tool I'm gonna hold my shift
+15:53 key and I'm gonna make an instance of
+15:53 this vehicle I'm not too worried about
+15:58 where he's located so long as he's in
+15:58 the scene there we go we'll touch on him
+16:02 in just a second
+16:02 leave him in the ground for now okay
+16:05 so the first part of this is let's go
+16:08 ahead and get into our next mode in our
+16:12 bottom tray now I'm going to switch back
+16:18 to from object UV and something to note
+16:20 about switching back to the from object
+16:23 UV once you've switched off to a cubic
+16:24 UV spherical UV whatever other mode you
+16:29 want other than the from object UV I
+16:29 don't know of any way to revert back to
+16:35 from object UV and have it translate
+16:35 true to its original UV mapping once you
+16:41 switch back to from object UV you'll see
+16:43 when I drag this texture back on here
+16:43 it's not in fact going to map the way we
+16:48 originally had it mapped there's no
+16:48 other way to get back to where we were
+16:50 other than hitting undo and I think this
+16:55 is a glitch into in motion to keep in
+16:55 mind so that if you accidentally go to a
+17:02 cubic UV mapping and start texturing
+17:02 your files and get really far along and
+17:07 then you want to revert back you're
+17:07 going to have to import the original
+17:09 model again to get back to that original
+17:13 UV mapping because otherwise you're
+17:13 gonna lose all of your work so something
+17:16 to keep in mind that's a really
+17:16 important aspect so here we go we're
+17:21 gonna get to what I really wanted to do
+17:24 from the get-go which was be able to
+17:27 paint these rims separate
+17:27 from the disk brakes and you can see by
+17:33 default I can't do it it's painted all
+17:35 the same so what I needed to do let me
+17:35 back up one step is down in my tray I'm
+17:41 going to switch modes from replace
+17:41 material which is what's defaulted to
+17:44 apply to object and because this object
+17:50 is separate from this object now when I
+17:50 bring in this brass material there we go
+17:56 all I'm painting is that front rim and
+17:59 so now I can paint each of these rims
+17:59 separate from the disc break so I'll go
+18:03 back into my library and bring this
+18:03 brass texture in here and in my active
+18:09 tray when I want to go edit this and
+18:10 make it like a pink rim what's going to
+18:13 happen it's going to paint both rims
+18:17 right in fact no and this is another
+18:17 thing to note and really an important
+18:21 aspect of texturing into in motion
+18:24 anytime I drag a material from my
+18:25 library onto an object it's creating a
+18:29 new material ID these now these two rims
+18:37 have two separate material IDs so to fix
+18:40 that all I needed to do was I needed to
+18:42 grab my active material down in my tray
+18:44 and bring it over to this rim so that
+18:44 when I changed this color now it's going
+18:51 to uniformly change there we go
+18:51 might need to watch that again it's a
+18:53 really really important aspect I'm gonna
+18:57 go ahead and rotate around this vehicle
+18:59 and do that same thing instead of
+18:59 dragging this brass texture from my
+19:02 library I'm going to go to my active
+19:03 tray bring this guy in paint these rims
+19:09 and now all these rims are painted the
+19:09 same color so the next part of this is I
+19:18 would bring this brass in and paint the
+19:20 disc break and go one by one well
+19:20 actually no I don't need to do it that
+19:24 way let me back up a step because I've
+19:27 split out the material IDs because we
+19:27 created new material IDs by using that
+19:32 apply to object mode
+19:32 we now have separated the disc brakes
+19:35 from the rims and so if I switch back to
+19:40 that replace material
+19:40 now I can bring in this brass material
+19:42 and paint all of my disc brakes together
+19:49 there we go that's exactly what I
+19:49 originally intended to do now I've got
+19:54 control over these elements separate
+19:55 from each other
+20:08 so the next part of this is I want to
+20:08 create a very realistic paint color on
+20:13 this guy right here
+20:13 I'm actually going to back out for a
+20:14 very specific reason and we'll get into
+20:17 that a little bit later but I'm going to
+20:20 go back to where we've got this kind of
+20:24 base colors and we'll explain that in a
+20:25 minute
+20:25 the next part we're gonna get into is
+20:28 making a really realistic material for
+20:34 our vehicle and it's just going to
+20:34 illustrate some tricks of the trade if
+20:37 you will for texturing and keep in mind
+20:43 I can make a really really long video
+20:43 based on tricks of the trade for these
+20:46 things but I'm not going to so let's go
+20:53 ahead and just grab any oh let's just
+20:54 call it brushed aluminum let's bring
+20:54 this in so we're already starting with
+21:00 kind of a somewhat realistic look to
+21:00 this vehicle you can see that we've got
+21:04 some kind of texture going on in this
+21:04 metal and let's see if we can't discover
+21:08 what that texture is in fact it's a
+21:09 brushed material that's put into the
+21:11 reflection map and it looks pretty close
+21:16 honestly I mean this is definitely could
+21:19 be you know mistaken for a paint job now
+21:21 before I go too far I want to create
+21:21 some kind of dynamic way of looking at
+21:24 different lighting against this material
+21:30 and the way to do that is in our medium
+21:32 mode so in medium mode I'm going to
+21:32 click on my image I'm going to create my
+21:36 first image and then I'm going to go
+21:36 over over here on the right hand side
+21:40 and I'm going to quit medium mode I'm
+21:44 going to go back to our settings in
+21:44 location and let's switch to I don't on
+21:49 some kind of different day time maybe a
+21:51 different North offset get some
+21:51 different lighting here something like
+21:53 that where we're just shining some light
+21:58 on there and if I go back into medium
+21:58 mode click on an image I'm gonna create
+22:03 a new image now look what happens I can
+22:03 easily switch back between two different
+22:08 lighting schemes I know I'm giving you
+22:11 some gold here right so let's go ahead
+22:13 and quit medium mode
+22:13 and we can see here we've got some good
+22:18 lighting on this I want to use my
+22:18 material picker and get this back into
+22:23 my active tray so I'm gonna change
+22:23 colors here I want to be able to get a
+22:24 little bit of contrast going on so I can
+22:29 really see this paint color and what
+22:30 it's doing with light and I actually
+22:30 prefer that other other lighting scheme
+22:35 oh there we go we can kind of see what's
+22:42 happening up here in that corner let's
+22:44 place it just so we can just see that
+22:44 now we've got some kind of let me get my
+22:48 number one key so I'm moving real nice
+22:48 and slow there we go that's pretty nice
+22:52 we can never see what's happening in
+22:52 this map so the next part of this is in
+23:01 my reflection here what I want to do is
+23:01 I want to introduce some noise I'm going
+23:03 to actually get rid of this brush
+23:03 material but this is something to note
+23:09 twin motion has in it some kind of
+23:09 built-in alpha channel based on the
+23:12 material type that you're dragging in
+23:14 from the library because we're in metals
+23:19 and this is some kind of brushed
+23:19 material designation it has some kind of
+23:26 alpha channel overlay going on here we
+23:28 don't in fact we're not using a red
+23:28 overlay to create this brush material
+23:30 but what it is doing is it's using the
+23:35 original texture file and then diffuse
+23:35 or albedo map go ahead and look up those
+23:40 terms if you're not familiar and it's
+23:40 putting some kind of alpha overlay which
+23:47 means it has some transparency to create
+23:50 kind of a dynamic material category for
+23:51 you so that if you're trying to create
+23:54 brush materials if you start with a
+23:54 brush material from the library you're
+23:56 going to get some different options I'll
+24:01 explain that just and illustrate this by
+24:04 going down into let's say the
+24:04 translucent materials if we bring in a
+24:09 translucent material onto this object
+24:11 what you're going to see is we've got
+24:11 some new categories down here so that if
+24:16 you want to create some dynamic
+24:16 materials with some different options
+24:21 available to you kind of play around
+24:21 with your library and see what you can
+24:23 do with the various different materials
+24:27 that are built in
+24:27 because they all have different options
+24:30 so let's go back I'm going to go back to
+24:35 that metal material start with that
+24:35 brushed aluminum bring this into this
+24:37 guy and we're going to darken this guy
+24:39 up so in my reflection map I'm going to
+24:46 go ahead and clear this out
+24:46 and I got to clear it out again and I'm
+24:55 gonna get into let's see let's get into
+24:57 my materials folder and I've got under
+24:57 metals I've got metal flake and in fact
+25:02 it doesn't it's not some magical metal
+25:05 flake library what it is is a bunch of
+25:05 different noise maps and you can Google
+25:09 free noise maps and find a bunch of
+25:09 different noise Maps or purlin maps but
+25:13 a noise map bringing this in you can see
+25:18 immediately it's bringing in a bunch of
+25:20 texture noise into the reflection map
+25:22 and so the next part of this is I'm
+25:22 going to go back to the original part of
+25:28 this material hierarchy and play around
+25:30 with my scale until I get the effect
+25:30 that I'm looking for and in fact I know
+25:35 what I'm looking for already as I drop
+25:37 this scale way way down what you're
+25:37 gonna see is it's almost as if we're
+25:42 creating some kind of metal flake
+25:50 and look at that as the Sun kind of
+25:50 shines on this we're definitely getting
+25:55 there with our metal flake texture look
+25:55 at that
+25:56 I love how when we zoom in just how much
+26:00 detail we can get out of this so I
+26:00 brought my scale down all the way but
+26:02 it's in fact it's not scaled down enough
+26:07 for me so if I hit the more category and
+26:10 go to axis I can actually stretch on the
+26:13 X plane stretch on the Y plane until I
+26:15 really get the scale I'm looking for
+26:15 which is right about somewhere in there
+26:20 to the point where when I'm roaming
+26:22 around this vehicle we are really
+26:22 getting kind of a dynamic look to this
+26:25 paint color it's really starting to look
+26:30 sharp and you'll see the difference when
+26:34 we get back into various other options
+26:37 in this but I wanted to also note that
+26:37 we can actually bump our material origin
+26:44 as it translates to the 3d geometry and
+26:44 in the mapping those vertices so that if
+26:51 we need to move if we go back to stretch
+26:53 on UV and we'll stretch this way back up
+26:55 you can see we're actually offsetting
+26:55 we're offsetting that material based on
+27:02 its original origin so some really
+27:04 dynamic tools just built into the
+27:04 various options you can always click the
+27:10 more category to see some of these
+27:10 additional options here and so I'm going
+27:14 to stretch this back down to the point
+27:16 where we can just barely see this
+27:16 texture I just want a very subtle effect
+27:29 so let's go back a level in the
+27:29 hierarchy let's go back another level on
+27:34 this hierarchy and we're gonna see when
+27:37 we kind of play with the metallic Ness
+27:41 slider and then also the reflection
+27:41 slider we're gonna get to a point where
+27:48 that material starts really becoming a
+27:48 dynamic material let's go into our media
+27:58 mode switch some lighting and we can see
+28:00 here we've created a really nice
+28:00 material for this model so we've zoomed
+28:11 out changed the lighting a little bit
+28:11 and I want to just start kind of picking
+28:15 the color I'm looking for in this
+28:15 particular model you can see our backup
+28:21 up here is changing as we go but yeah
+28:22 we're getting pretty close I'm still
+28:22 going to detail this a little bit more
+28:24 and we'll see the end result of that but
+28:27 before we go any further we want to kind
+28:33 of address possibly a solution to our
+28:33 origin axis of this model now that we're
+28:37 going to start painting this vehicle and
+28:39 it's going to turn into something that
+28:39 we really really like so to do that what
+28:46 I found out is that if we place a
+28:46 separate object meet collapse my scene
+28:49 graph a little bit what I've got here is
+28:53 I've placed a sphere you can see it
+28:53 right here place this sphere kind of
+28:57 underneath the vehicle and let me just
+29:03 jolzi go back a step it's right in the
+29:03 center and the underside of this vehicle
+29:06 and it's placed right on the ground
+29:06 plane now what happens is if I grab that
+29:10 sphere and let's just actually rename
+29:19 we're just gonna call it a location node
+29:23 if I grab that hit ctrl and then select
+29:25 my main scene graph for this vehicle
+29:25 what happens is it's going to change the
+29:31 origin axis of this model so that look
+29:34 at that it's no longer sinking
+29:34 underground remember if I just changed
+29:37 the scene graph for the car when I grab
+29:41 that center node oh man it does that
+29:41 whole sinking underground thing there we
+29:45 go
+29:45 select both of them together hitting
+29:47 that control key all of a sudden I can
+29:49 drag it up this ramp I can bounce it on
+29:54 this car this is exactly what we needed
+29:56 so that when I save this to the library
+29:59 all I would do is I would set a new
+29:59 container and this is going to be my
+30:01 main vehicle I'm not even gonna name it
+30:04 when I grab these two hitting the
+30:06 control key drag it into this new
+30:06 container now when I select this new
+30:07 container and drag this guy around there
+30:12 we go there is our vehicle and it's got
+30:14 a perfect origin access the translate
+30:17 tool works fantastic with the global
+30:17 positioning node in the center awesome
+30:23 save this to our library right well
+30:25 before we do I'm gonna go ahead and
+30:25 texture out this whole vehicle stick
+30:28 with me we'll be right back in a second
+30:33 okay we're back and we're not quite
+30:36 finished mapping this vehicle but I
+30:36 wanted to illustrate a very cool thing
+30:41 about twin motion that can sometimes
+30:41 help you avoid some of these problems
+30:46 with material mapping and so what I'm
+30:48 going to do is I'm gonna import a new
+30:52 model and I've got my saying that
+30:52 Sketchup file but in the options I'm
+30:54 gonna choose to keep excuse me collapse
+31:00 all and I'm not going to do the fix UV
+31:00 texture and we'll do okay and during the
+31:07 import process we're going to get a
+31:07 prompt so it comes up with a material
+31:13 conflict which is to say that in the
+31:13 scene material there's the same material
+31:17 idea as one of the IDs that we're
+31:17 bringing into the scene now I've got
+31:20 apply all checked by default and what we
+31:25 are going to do is we're going to use
+31:25 the same material and this is going to
+31:28 do something very
+31:28 important let's go ahead and collapse
+31:31 our scene graph so we can see what just
+31:33 happened lapse hierarchy let's drop this
+31:40 caret down and here is our new model if
+31:42 I right click on this and zoom to
+31:42 selection it's gonna bring us to this
+31:44 guy right here and what we'll notice is
+31:46 a couple of things happened what happens
+31:53 is when you drop a material from your
+31:56 library essentially changing the
+31:56 material idea of an object we've got a
+32:02 new material ID associated with that
+32:03 object as simple as that
+32:03 but when you edit a material ID that
+32:07 exists on your model and then you import
+32:13 a new model what's going to happen when
+32:17 you say let's use the same material it
+32:20 will use the material we've edited in
+32:22 this software not once we've grabbed
+32:22 from the library but once we've taken
+32:24 the material picker tool and in our tray
+32:30 edited the active material which is what
+32:32 I did with the rims so that when I
+32:32 imported this model and used the scene
+32:38 material for all conflicting material
+32:38 IDs it painted those rims the exact same
+32:44 as I had it over in this model over here
+32:48 you notice the paint color changed or
+32:48 stayed the original models material ID
+32:51 because I dragged in a brushed texture a
+32:55 brushed metal texture in from the
+32:55 library and essentially changed the
+32:57 material ID so that kind of illustrates
+33:03 the point of how you should approach
+33:06 mapping your models now the reason I
+33:06 wanted to bring this in in this way is
+33:09 that when I hit this drop-down kara look
+33:15 at this it's just one vehicle it's just
+33:18 one object there's no hierarchy at all
+33:18 which is what's awesome about this is I
+33:24 didn't need that location node the
+33:24 translate tool it's the axis is perfect
+33:30 not only that but we carried in some of
+33:31 the materials that we wanted
+33:31 now just to test this out we're gonna
+33:34 notice here's our default material here
+33:44 silver on that guy right here so that if
+33:51 I change this to red look what happen
+33:53 nothing
+33:53 grab this silver and let's change this
+33:55 to red so we're back to that same issue
+34:02 here because these two objects have
+34:06 different use the same material ID
+34:06 they're still going to be painted the
+34:09 same so to ultimately fix that we would
+34:14 have needed to go into the original
+34:14 model edit it in some other software
+34:19 applied different materials to these
+34:19 objects to separate them all but then
+34:26 when we brought it into this file and
+34:26 used the scene material it would gather
+34:31 that same material and we'd be able to
+34:31 have that original access so a couple of
+34:35 different tricks there if you manage to
+34:38 get a file where you want to decal it
+34:41 all out do a bunch of work making it
+34:41 look perfect and if we didn't have any
+34:45 conflicting material ID issues like we
+34:48 do with this particular model then you
+34:50 could bring in that object again
+34:50 collapsing by all and carry the original
+34:56 access and have one model brought in
+34:56 which is ultimately what I'm probably
+34:59 going to go do I'm going to take this
+35:01 back into a different 3d modeling
+35:01 program I'm going to fix that UV issue
+35:05 and then I'm going to be able to bring
+35:05 it back into this software as one object
+35:11 with one axis but if you don't want to
+35:13 go through all that work doing that
+35:13 whole thing with the location node where
+35:19 we've grouped this together under this
+35:22 new container here and put in this
+35:22 little guy at the center that works as
+35:27 well all of this to say that it's
+35:27 bringing us back to video number one in
+35:32 this series where I tell you to make
+35:32 sure to prep your model to properly have
+35:37 different material IDs on elements that
+35:39 you want to paint differently in twin
+35:39 motion so to carry on I've backed out of
+35:43 that import I've deleted that imported
+35:46 item and the last bit of this is I
+35:46 wanted to just illustrate one last thing
+35:51 that's built into our bottom tray here
+35:52 which is
+35:52 our material single or multi modes if we
+35:58 hit this little icon in the bottom here
+35:58 with our active material what you can do
+36:02 to quickly go through and edit all
+36:02 materials in this scene right here and
+36:11 you can go and click one by one and be
+36:13 able to edit these we can even see you
+36:13 know what the different materials offer
+36:17 as far as options are concerned in the
+36:19 tray and then the last part of this
+36:19 that's very cool is if we hit this plus
+36:25 icon we can create a whole new material
+36:27 which uses a base material designation
+36:29 so we've got our typical metallic miss
+36:32 globe bump etc so great way to kind of
+36:35 power through materials that already
+36:37 exists in the scene is is using that
+36:37 multi-tool there or that multi material
+36:43 tool we're gonna go ahead and finish
+36:43 dealing with this vehicle and I'm going
+36:50 to bring it back into that scene and
+36:52 here we are back in that scene it's
+36:52 looking pretty good obviously we can see
+36:56 our vehicles imported nicely and that's
+36:57 not as far as we're gonna take this
+36:58 scene you got to stay tuned because the
+37:01 next step we're going to go over those
+37:02 vector masks we're also going to
+37:02 introduce some mega scans that's right
+37:06 hurt us we're going to go over the
+37:09 process of introducing some really
+37:09 high-quality 3d geometry decals and some
+37:16 texture maps so stay tuned and as always

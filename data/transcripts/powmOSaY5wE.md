@@ -1,0 +1,167 @@
+---
+videoId: powmOSaY5wE
+title: Dimensioning using the manual dimension tool-Chief Architect X-13
+url: "https://www.youtube.com/watch?v=powmOSaY5wE"
+status: imported
+---
+
+# Transcript
+
+0:02 this is renee rabbit i want to go over
+0:04 various uh dimensioning defaults and
+0:05 tools that we have available to us
+0:05 especially in x13 let's just take a look
+0:09 real quick i've got a
+0:09 dimension default up here right in front
+0:13 of me in this toolbar and i'm just going
+0:15 to draw a dimension line right through
+0:16 the middle of this and then i'm just
+0:16 going to drag it down and pop it to this
+0:20 first cap line that i've placed and you
+0:21 can see here i've dimensioned to my
+0:22 cabinets just to my lower cabinets and i
+0:26 even got a center line
+0:26 i can do that same thing on these upper
+0:30 cabinets drag it right through the
+0:30 middle there pop this up into place
+0:33 there we go
+0:34 next thing i'll do is i'll switch my
+0:37 dimension defaults to just being the
+0:37 cabinet boxes and then i still have the
+0:40 manual tool
+0:41 active
+0:41 drag that right through the middle and
+0:48 dialog box double click but here we go
+0:48 drag it back down and we can see i still
+0:53 dimension to these boxes but i let out
+0:55 that center line dimension so
+0:55 a different dimensioning default had
+0:58 that center line dimension unchecked as
+1:02 an option
+1:02 let's go to cabinet openings real quick
+1:06 and i can pull a dimension string right
+1:07 through this opening of this cabinet
+1:08 here so now i'm showing very accurately
+1:13 just the opening of this open cabinet
+1:13 but we can see the overall dimension of
+1:17 the outside of this cabinet where it's
+1:18 placed on the wall
+1:18 similarly i can switch to an electrical
+1:22 dimension default
+1:22 populate this dimension
+1:24 to that pendant if i wanted to
+1:26 or i could switch to any number of other
+1:30 things that might pick up other items
+1:33 such as windows and doors
+1:33 so i'm picking up a dimension on my
+1:37 windows doors etc
+1:37 notice that i'm not picking up anything
+1:41 else that i might not want to pick up
+1:43 i've have i have my dimension default
+1:45 set up exactly the way i like them
+1:45 possibly if we switch to an out of the
+1:50 box dimension default and we pull the
+1:50 dimension string it might be picking up
+1:52 items that are appliances top and bottom
+1:57 appliances we're getting a lot more in
+2:00 our dimension string so it is useful
+2:00 to know how to set up these dimension
+2:01 defaults so that they're picking up only
+2:05 what you want them to pick up
+2:05 if i control tab over to my plan view
+2:10 screen we can see i'm on windows and
+2:11 doors plan
+2:11 and if i use
+2:13 this dimension string you can see it's
+2:16 just going to pick up those interior
+2:16 walls and that's because i've only got
+2:21 it set up for those interior walls
+2:21 if i switch this to say cabinet boxes
+2:24 we're going to see we're picking up
+2:26 cabinet boxes
+2:26 and only within six inches of my
+2:30 dimension string so
+2:30 there you go can easily pick up any
+2:32 items that i might want to pick up if i
+2:37 switch back to that windows and doors
+2:39 and just click on my auto exterior
+2:39 dimensions you'll see my auto exterior
+2:43 is set to pick up the center line of
+2:45 these windows versus that interior
+2:47 dimension
+2:47 and we're on that same dimension tool
+2:49 it's not even going to pick that up so
+2:52 various different dimension defaults you
+2:56 can set up in any
+2:56 singular dimension default so
+3:02 and it's very helpful to have a
+3:02 dimensioning toolbar like this this is
+3:04 an active dimension default tool placed
+3:09 into a toolbar as well as
+3:09 our active defaults so that i can go in
+3:14 here and edit or copy new dimension
+3:16 defaults as i need them
+3:16 switching back to my elevation view
+3:21 and
+3:21 maybe i want to do an end to end of the
+3:22 cabinet that's the only other time i use
+3:27 an end to end dimension so if i've got
+3:27 my half inch cabinet boxes defaulted and
+3:32 switched to an end to end i can very
+3:34 easily just pick up
+3:34 those cabinets and only those cabinets
+3:38 now drag it all the way to the walls
+3:40 let's try that again end to end
+3:40 populate this to that cabinet and pull
+3:45 it down we can see it it just
+3:45 dimensioned to the end of that
+3:47 in your dimension strings you could set
+3:51 up count lines like i did or you can
+3:51 just tab input exact distance you want
+3:56 your dimension string away from
+3:56 the previous snap point that you maybe
+4:02 so um these are all useful ways of
+4:03 dimensioning very quickly very
+4:03 accurately and only those things that
+4:05 you want to dimension i of course can go
+4:10 over a bunch of things that are within
+4:12 the actual dimension default
+4:12 where we set up our manual location
+4:17 settings where we set up our auto
+4:19 elevation settings auto exterior
+4:21 settings any number of different
+4:21 parameters that we have available to us
+4:24 including
+4:24 um you can have in
+4:26 dimensions that pick up different items
+4:30 from what your
+4:30 center line dimensions might pick up or
+4:34 your interior dimensions might pick up
+4:34 so very robust tool but it's nice to get
+4:39 some finite control over what you're
+4:41 dimensioning to by setting up
+4:41 establishing these dimension defaults
+4:45 so long as i have these dimension
+4:45 defaults you'll notice in my toolbar
+4:49 there is no point-to-point dimension
+4:52 tool i actually never use that tool
+4:54 the only time i might use something
+4:57 similar to that is maybe i will
+4:57 dimension a cad line in which case i've
+5:01 got a dimension default that picks up
+5:01 gap lines and then i can reference that
+5:05 cathode
+5:05 that way
+5:07 i'm dimensioning to something that's
+5:08 arbitrary or doesn't have one of the 10
+5:12 available snap points
+5:12 then it's very clear i'm dimensioning to
+5:17 a cad line i need to make sure that if
+5:17 the architectural element i'm trying to
+5:19 reference moves i need to move that line
+5:23 as well
+5:23 other than that there's really no use
+5:26 for the point-to-point dimension tool
+5:26 chief could do away with it and we would
+5:31 never miss it so long as we understand
+5:33 how our existing dimensioning defaults

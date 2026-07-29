@@ -1,0 +1,1635 @@
+Title: Building An Automatic Parapet Roof Tool For Cross Sections In Chief Architect LIVE
+URL: https://www.youtube.com/watch?v=qKZxokU870M
+Visibility: public
+
+0:06 All right, I am live. What's going on?
+0:10 Uh, this is uh technically the first
+0:10 show of the new year, but we got some
+0:15 wires crossed and I didn't know we
+0:15 weren't supposed to be doing this show.
+0:20 So, it's only me right now unless a
+0:23 couple people jump in. Um, I'm
+0:23 completely unprepared for this and uh
+0:26 and so we're going to wing it. See what
+0:28 happens. Hopefully I don't get yelled at
+0:33 by any of the big boss men. Um, my name
+0:35 is Renee Rabbit. This is the Chief
+0:35 Experts Designer Show. Dan Bowman, if
+0:39 somehow he shows up, that's amazing. He
+0:43 wasn't supposed to. The show was
+0:43 supposed to be cancelled. Um, but I
+0:46 didn't know that. And so, it's on our
+0:50 Facebook groups that this is uh that
+0:50 this is going on. So, I only jumped in
+0:52 here just to appease the few people that
+0:56 might come in from the Facebook group
+0:56 events page. And I'm just going to share
+1:01 some tips and tricks about Chief
+1:03 Architect.
+1:03 All I'm going to do on this show and I
+1:06 I'll come up with some stuff on the fly,
+1:09 but if you have some questions, if
+1:11 you're joining the show and you've
+1:11 you've got something you want me to show
+1:16 you and get into, I'm happy to do that.
+1:18 Oftentimes in this show, we we are kind
+1:20 of in that beginner intermediate to
+1:20 upper intermediate range of of the kind
+1:22 of tips and tricks that we show you. Um,
+1:29 when we teach classes in person, I
+1:29 handle the power users, advanced users.
+1:31 So, if you think you're an advanced user
+1:36 and you want to see some advanced user
+1:36 things, you got a question in particular
+1:40 that you want to talk about, maybe some
+1:40 crazy kind of schedule stuff you want to
+1:45 do or cabinet manipulation, symbol
+1:45 manipulation, that kind of thing, let me
+1:48 know in the comments and I'm going to do
+1:51 my best to try to cover all this. Um,
+1:51 this is really challenging to moderate
+1:53 comments and also uh present at the same
+1:58 time. So bear with me. It's going to be
+1:58 a funny little show. And then um um I've
+2:03 just kicked it on. So we've got comments
+2:05 on the stage. So you'll see that. Right
+2:07 now we've only got one viewer. So I'm
+2:07 talking to a blank audience. But let's
+2:13 uh let's see if I can't get into this.
+2:14 trying to figure out how to share my
+2:21 And
+2:21 should be seeing an ultra wide screen.
+2:25 Sorry about that. That's all we got to
+2:27 deal with today. And I'm hoping
+2:27 everybody can hear me as well. Um, and
+2:30 look, there we go. We've got an audience
+2:34 member commenting. Cool. So, what can I
+2:36 go over? Um, I'm thinking the first
+2:36 thing that I'll go over is something
+2:38 that I was going to keep and and reserve
+2:43 for my membership of my payw wall
+2:44 YouTube, but why not? I don't have
+2:45 anything else to talk about. So, let's
+2:49 show you something cool that I would
+2:49 usually reserve for a special audience.
+2:54 And so, I'm going to get in and just
+2:54 start a little template here. I'm going
+2:56 to show you something. Um, my templates,
+3:01 the way I build them out, this I guess
+3:03 it's sort of a shameless plug, but the
+3:03 way I build out my templates, and one of
+3:07 the really impactful things that you can
+3:12 do in X17 is you can make it so that
+3:12 your plan file, um, a base plan file is
+3:17 already being sent to a bunch of
+3:17 different sheet sizes automatically so
+3:22 that when you start drawing, those uh,
+3:25 different layouts are being populated.
+3:26 So you can have different layouts for
+3:26 different um builders, if you will. Um
+3:31 you can have different layouts for
+3:31 different scopes if you want to. And it
+3:37 may seem a little bit complex, but all
+3:40 you would need to do to get there is
+3:40 build out a project and then when you're
+3:44 done with that project, I want you to
+3:44 gut that project and then you can figure
+3:50 out how to save this as what I would
+3:50 call a template project. Keeping in mind
+3:54 that it's not technically a template, we
+3:56 will never be going to a file menu to
+3:56 access this. We would just be going to
+4:02 our project browser and then copying a
+4:04 project that's already built out where
+4:05 we have a plan file being sent to
+4:05 multiple different layouts. Now, that's
+4:11 in a very advanced realm of figuring
+4:11 that out. But just wanted to lead you
+4:13 down that path because I just had a um a
+4:19 training call where a gentleman was uh
+4:21 was discussing, you know, how can I
+4:21 automate, how can I like kind of make it
+4:25 so that I'm doing less work. This is one
+4:26 of those ways because what they were
+4:26 doing was having to come up with a lot
+4:31 of different um they were still using
+4:31 default sets and they were using default
+4:35 sets to drive
+4:35 one layout so that they could print a
+4:37 build set for their builders, you know,
+4:41 more like an instruction set to them
+4:41 versus their permit set versus some kind
+4:47 of design review set. And instead of
+4:48 using one layout and a bunch of
+4:48 different, you know, complex default
+4:51 sets that you have to flip for every
+4:51 review, he could have just been creating
+4:57 additional cameras
+4:57 um allocated on different layers and
+4:59 then being sent to different layouts.
+5:02 So, this is kind of an example of what
+5:04 I've got going here. So, I'm just going
+5:07 to actually make a copy of my base
+5:07 template planner because I want to mess
+5:11 around here. And then what I want to go
+5:14 over uh today, unless I get some uh
+5:16 different new comments, is I'm just
+5:16 going to mess around with showing you
+5:21 how you can create a parapit builder
+5:21 pretty quickly so that we just get to do
+5:27 a one-click action to create a parapit
+5:31 that might even give us the correct um
+5:32 details if we were to pull a
+5:32 cross-section camera. And so I want to
+5:37 show you how to do that. Um, and then
+5:37 every once in a while I'm gonna have to
+5:38 take a pause and take a look at comments
+5:42 and see what people are saying and try
+5:42 to respond to you as well, unless I get
+5:47 some help in here.
+5:47 So, I'm just going to start with a
+5:52 really simple for
+5:52 wall room here. And then, uh, if you're
+5:58 on a Windows machine, I always like to
+6:00 mention this. I think it's such a huge
+6:00 tip is I'm going to use what are called
+6:04 pneumonic keys. And I'll I'll just take
+6:07 a second to explain what those are.
+6:07 Pneumonic keys, unfortunately, we don't
+6:10 have this on Mac and we've never been
+6:10 able to create a workaround on Mac. Not
+6:15 not um to the extent that it works on a
+6:15 PC. And so pneumonic keys are when I tap
+6:21 my alt key. I want I want you to see my
+6:24 cursor up here. You see the top menu
+6:24 items up here. When I tap my alt key,
+6:29 just tap it. Don't move your mouse
+6:29 anymore. Hands off your keyboard. Excuse
+6:33 me. hands off your mouse. When you have
+6:35 your hands off your mouse, you tap your
+6:35 alt D. Notice that all the menu items on
+6:42 a PC are underlined here. We've got
+6:42 single letter underlined words. So that
+6:47 if I want to build a second floor very
+6:47 very quickly without ever even touching
+6:54 my mouse, I could go AltB for build, O
+6:57 for floor, and I could just hit enter
+6:59 right now. Or I could hit N for build
+6:59 new floor. I'm just going to hit enter.
+7:03 And then I know if I hit enter twice
+7:03 more, it's just going to copy basically
+7:06 the same configuration from one floor to
+7:10 the next. And now I have a second floor.
+7:13 Isn't that cool? So then the next thing,
+7:15 what do we do here? Um,
+7:16 we want to basically set this room up so
+7:20 that it's got no roof over this room,
+7:20 right? So come in here in the structure,
+7:27 say that it's no roof over this room,
+7:29 and we'll press okay.
+7:30 And then the next part of this is just
+7:32 kind of setting up these walls. Now, I'm
+7:35 going to cheat a little bit. I already
+7:35 have a tool that builds parapit. What I
+7:39 just want to show you how simple this
+7:42 is. Let me go ahead and pull a
+7:42 perspective overview here. And I want to
+7:47 get into my library,
+7:47 but I want to recreate this.
+7:50 And I'm going to probably do a better
+7:55 job this time around
+7:57 is
+7:57 here. We go. I've got a little parapin
+7:59 in here. So, if I just spray this room,
+8:04 look what happens. Couple things happen
+8:06 that might be interesting. One is we've
+8:10 got a cap. And two is that we've got
+8:10 some kind of can in the base here. And
+8:15 then three is you can see that there's
+8:17 some new texture being applied to all
+8:20 the walls. And the floor, this is uh
+8:23 what's called a style palette. All
+8:23 right? And it's a room style palette.
+8:28 So, it's saving some configurations
+8:28 about the room and then it's applying
+8:32 that as a single click action so that I
+8:36 get to just target a room. We could do
+8:39 this in 3D or we could do this in 2D.
+8:40 The same effect would happen if if I
+8:40 just back out one, we can see, you know,
+8:46 the previous room, no cap, no wall cap,
+8:48 etc. Now, if I go here and I'm in the
+8:50 second floor and I've got that tool
+8:50 active. You can see this is our scope
+8:56 tools right here in our edit menu. My
+8:56 edit menu is floating in the screen. I
+9:00 just get to hover over this. That's my
+9:00 highlight color right there. Hover over
+9:03 this, click, and you're going to see
+9:03 this updates. Okay. So, it works either
+9:09 in a 2D plan view or it works in a 3D
+9:12 view as well. So, the next thing is I
+9:14 want to make this a little bit more
+9:14 detailed and save this back as a new
+9:17 style palette. So, what I'm going to do
+9:22 with this is um
+9:22 I'm going to actually maybe sense to
+9:26 pull a little cross-section back
+9:26 cross-section just so we can see what
+9:28 this is looking like currently. And then
+9:32 I have a parapit detail here that I
+9:32 could work off of. Okay. And so maybe I
+9:37 might recreate this from these different
+9:42 moldings here.
+9:42 And so we can see what was happening
+9:44 here. There's just one simple molding in
+9:48 here. Well, we want to make this a
+9:48 little bit more complex. I might even
+9:53 make it so that we're creating all of
+9:53 these different moldings and applying it
+9:57 in that style pallet tool. And I think
+9:57 we could do that pretty quickly for the
+10:01 most part. All right. Now, I'm not sure
+10:05 how interesting is it is to see me draw
+10:09 all these individually. Um, but given
+10:14 that this is just a CAD block detail
+10:14 and let's just I'm going to make sure
+10:17 that all these are set to a default
+10:17 layer if you didn't know this. when I
+10:20 unblock everything that is in that block
+10:27 is currently selected. So that I could
+10:27 go here if I wanted to and can form the
+10:32 layer just by changing this minus sign
+10:35 indicates that some of the layers that
+10:38 are selected right now are default and
+10:40 some are not. And if I were to just
+10:40 click this once, it's going to put a
+10:41 check mark there. Now it's going to put
+10:45 that to that CAD default layer. And so
+10:45 now I'm I just know that I'm displaying
+10:51 that in my current layer set.
+10:51 All right. Next up is I mean it looks
+10:56 like I already have these moldings
+10:56 created. Now the scale of this is wrong.
+11:00 So I might want to like sit here and
+11:00 mess around with the scale to try to get
+11:05 it to a uniform scale. Now I do believe
+11:05 that I started drawing this. And I think
+11:09 it might be interesting for you to not
+11:11 sit here and watch me draw a bunch of
+11:11 moldings, but instead um kind of power
+11:13 through it and explain the overall goal
+11:20 here. So, let me see here. I've got a
+11:20 I think I have a series of moldings here
+11:28 in something that I'm called to sort.
+11:32 Let's see if we can find it quick.
+11:38 and hopefully you guys can hear me.
+11:42 Okay, let me know if you can't um
+11:46 I was really hoping I had
+11:46 had these moldings already drawn because
+11:50 that would have been awesome. Would have
+11:52 seemed like I planned this whole thing
+11:57 all along. Okay, I do have it. So,
+11:57 here's what I'm going to do. I have
+11:59 these moldings in my catalog. This would
+12:03 have been a lot easier if I just typed
+12:03 in mold. Just see what I'm typing here.
+12:11 Molding. And you can limit your um your
+12:13 search to a specific type. If you come
+12:13 down here and if you see this icon, this
+12:18 is saying, hey, I only want to see
+12:18 moldings. Okay. And then I can go find
+12:22 my sort section here. And we can see
+12:22 that I started drawing these. And I was
+12:25 just prepping for a video I was going to
+12:29 do about this. Okay. Someone said the
+12:29 audio is great. Now, if you didn't know
+12:33 this, you can always modify a molding
+12:37 profile by right-clicking in your
+12:40 library and saying place molding
+12:40 profile. This will place this as a CAD
+12:44 block. Okay. So, we can see what's
+12:44 happening here. So, there is a can't
+12:48 flashing. I'm going to do the same thing
+12:52 with this counter flash just to see what
+12:56 this is looking like. Okay.
+12:56 So, we can see this is just this is
+12:58 going to align kind of like this. Sure.
+13:03 Right. Here's our cap flashing. That's
+13:06 going to go at the top. So again, if I
+13:06 didn't put place molding, it thinks I'm
+13:09 just trying to draw a molding right now.
+13:13 It would draw a molding line if there
+13:13 was a snapable point it could work from,
+13:17 right? Which is a little bit more
+13:17 difficult in a cross-section view. And
+13:23 so here we go. Place molding profile.
+13:26 Just get the click in place. Cap
+13:26 flashing angle. Let's place that hole in
+13:31 profile. This one goes over the top of
+13:31 the first one. Now, here's the real big
+13:36 trick that I was going to implement for
+13:39 this particular detail. There is no way
+13:43 to get a 2x4 that has, you know, that
+13:43 that's been chamered like this, that's
+13:45 been cut down like this and angled like
+13:50 this. So, I did think maybe it would be
+13:54 interesting if I made my own molding
+13:57 profile to just look like that 2x4
+13:57 because the only time we're going to see
+14:01 it is in a cross-section view.
+14:01 So, what happens if I just drew this
+14:05 out? Let's see how I drew this real
+14:05 quick. I mean, that's simple enough.
+14:08 This is a disconnected molding profile.
+14:10 You see there's a little gap here, which
+14:14 doesn't bother me all that much. as we
+14:16 turn line weights on. That just looks
+14:19 like a cut down 2x4. So, that works
+14:19 pretty well. So, it looks like I have
+14:22 all these drawn. What's the next step?
+14:26 Now, we got to figure out how we can
+14:27 align all this. And there's some
+14:27 complications and some tricks to this
+14:32 that can be a little bit challenging.
+14:35 So, let me get into this room
+14:35 designation. So, I'm select the room,
+14:39 open it up. I'm going to get into the
+14:39 moldings section here. We can see, you
+14:43 know, we've got some moldings in here
+14:49 And I'm doing this on the fly. This is
+14:50 not practice. So, I'm going to screw up
+14:54 a little bit probably. All right. So,
+14:56 now I can get into
+14:56 where I've got these flashings. Should
+15:00 be easy enough to just start by just
+15:00 loading these in, I would say. And it's
+15:05 going to pick up, you know,
+15:05 automatically understood that was some
+15:07 kind of base molding. It's not going to
+15:11 understand that this is a base molding.
+15:13 It thinks it's a crown molding. That's
+15:16 okay. We're just going to set this to
+15:18 base molding. You just do that in the
+15:18 type section. I want you to notice this
+15:22 base molding. Okay. If we just left it
+15:25 blank, who knows? If you set it to
+15:25 crown, what happens when we set it to
+15:28 crown? It's going to place a check mark
+15:33 in here to top. All right. And so when
+15:35 we get a preview of this, um, we're
+15:35 going to see that. Here we go. This is
+15:40 how it's placing two top. We unchecked
+15:42 two top. Look what happens. It's
+15:42 referencing the bottom. Okay. Still
+15:45 being designated as a crown molding, but
+15:50 it changes kind of its origin point. All
+15:52 right. So, this one actually is going to
+15:54 be a base molding. And then we're going
+15:55 to change some offset. Now, another
+15:56 thing happens when you change the type
+16:01 classification. I want you to see this
+16:01 is notice our preview. It's just showing
+16:06 this molding. That's because no other
+16:06 moldings are classified as crown right
+16:08 now. Okay. Now, if I were to change this
+16:14 back to base molding, notice something.
+16:17 We see our can't flash in here. Why is
+16:17 that? These are both classified as base
+16:19 moldings. So, this is a way that you can
+16:24 see how these are interacting with one
+16:27 another. All right? And so then if I
+16:27 change some kind of vertical offset for
+16:31 this, let's just say I'm going to say
+16:31 that I'm doing a um vertical offset of
+16:35 maybe about six inches or something. I
+16:37 didn't I didn't take any dimensions
+16:37 here, but look at that. Now I can see
+16:42 how this is working together. Pretty
+16:42 cool. All right. Now, this is not going
+16:49 to be a perfect flashing setup for one
+16:51 very specific reason. We aren't using
+16:55 what are called 3D moldings. Okay?
+16:55 Right? We're not using a molding profile
+17:00 that was generated from a 3D symbol.
+17:03 There is a benefit to doing that for
+17:06 this particular molding.
+17:06 When you draw a 2D CAD symbol and
+17:09 convert that to a molding, it cannot be
+17:15 stretched in any axis
+17:15 um separate from just being uniformally
+17:18 stretched just by resizing it. Okay? So,
+17:24 we can't make this be this this upper
+17:24 portion here be taller without it just
+17:30 being skewed in every which direction
+17:34 uniformly. Okay. If instead I were to
+17:34 have converted this to a solid that was
+17:41 maybe 12 in long and then from there
+17:41 converted it to a molding, then I get
+17:46 the option to put in a stretch plane.
+17:48 And if we know about symbols and how
+17:50 stretch planes work, we know that we
+17:50 could put a stretch plane 4 in up in the
+17:56 Z here. And what that would do is it
+17:56 would create a uniform cutting plane. So
+18:02 that if we resize the symbols height, it
+18:04 would stretch by just duplicating the
+18:04 geometry around where that stretch plane
+18:11 created a cut line. Okay? And so that
+18:11 would make it so that we could um change
+18:16 the height of this based on the height
+18:16 of our parapit ball. Very cool. Maybe if
+18:21 we've got some time I could show how
+18:21 that all works. All right. So, let's get
+18:27 into that next molding here.
+18:27 And notice I numbered them. That was
+18:28 just to make it very easy for me to go
+18:33 through here one by one and just put
+18:33 these in place. You can obviously rename
+18:38 them after the fact and that's going to
+18:40 that would be just fine. So, here's my
+18:43 cap flashing. Let me put this in. And
+18:43 so, this one is going to be crowned. So,
+18:47 I'm going to leave that the way it is
+18:49 right now. We are going to need some
+18:49 kind of a negative offset, right? But
+18:52 I'm going to leave this for right now.
+18:56 And and we'll get to why in just a
+18:58 minute.
+18:58 Let me go to the next one. Just load
+19:02 these up. And I'm going to use the
+19:02 angled. Notice that I have one that's
+19:04 straight and one that's angled. So, I'm
+19:09 going to use the one that's angled. All
+19:09 right. And this thinks it's a chair rail
+19:12 because we've already got it crown
+19:12 molding. Want to make sure that it's set
+19:16 to crown mold. So now we can see how
+19:18 it's, you know, orienting itself
+19:18 compared to that other cap flashing
+19:30 And last definitely not least, my wedge
+19:33 block is also going to be a crown
+19:33 molding. Okay. Now, how do we get these
+19:40 caps up above
+19:40 my my wall assembly right where they
+19:43 need to be? In particular, that wedge
+19:45 block. So, I can set this. I unchecked
+19:51 that to top and we can see now, you
+19:51 know, that moved that that changed its
+19:53 reference point. All right. And so, but
+19:56 I still need this to go up a little ways
+20:01 because it needs to sit up above my wall
+20:04 here. Right. Right now, it's sitting
+20:04 just below my wall. It needs to be up
+20:07 above, especially if I want that
+20:07 cross-section cut to be perfect. So,
+20:13 here's what I want to do. I want to
+20:13 create a vertical offset, right? So, I'm
+20:17 going to say, hey, I want this 3 in
+20:17 vertical offset. Well, look at this.
+20:20 Chief architect decided at some point
+20:21 that we're going to flip what the offset
+20:26 is based on what we're working with. I
+20:28 still find this to be very, very
+20:28 confusing. It's not quite intuitive. I
+20:32 would love it if chief changed it so
+20:32 that no matter what positive is in one
+20:37 one direction, negative is in another
+20:39 direction. So, we just got to keep in
+20:41 mind here when we're doing something
+20:41 that is considered a crown molding and
+20:43 you put a positive vertical offset, that
+20:48 means it's actually going to move in the
+20:52 negative Z delta. Right? So, if I want
+20:52 to go positive Z delta and I put neg3, I
+20:59 want you to notice something.
+21:00 It moved up here in our preview.
+21:05 It did not move up here in our preview
+21:11 in the room. That's very important to
+21:15 note. Why is that? Well, according to
+21:15 Chief, we can't move any given molding
+21:22 profile past the ceiling plane height
+21:22 here. And so it won't move up above that
+21:29 ceiling plate height if and it's based
+21:29 about the total molding size. But there
+21:35 is a trick about this. We can make this
+21:35 work. So all I want to do then is I want
+21:40 to concentrate on this preview right
+21:40 here. This is what's important to me.
+21:41 Okay. So you'll see how this works out
+21:44 in just a second. So I'm going to go to
+21:48 negative one actually. And then like
+21:51 well actually I just want this to go
+21:54 just above this cap molding. That's
+21:54 what's important right now. Okay. And I
+21:59 keep losing my mouse because there we
+21:59 go. Because I'm zooming. So let's just
+22:01 go negative maybe half an inch. And this
+22:06 is just going to be a custom check.
+22:06 Quarter of an inch. That looks pretty
+22:07 good for me for what I want. If I pull a
+22:12 cross-section camera and looking at
+22:12 details, I'm ignoring this other one. In
+22:17 fact, we could put a a big offset for
+22:17 that that angled cap flashing just so we
+22:23 can see it. There we go. So, here's
+22:23 what's happening so far. Right now, that
+22:28 top cap flashing, I need some kind of
+22:30 horizontal offset just a little bit
+22:34 here. So, let's go negative one for
+22:34 there as well. That's looking a little
+22:39 bit better. And then I have maybe two.
+22:42 Looks pretty dang good. Maybe you want
+22:43 the spacing to be a little bit more
+22:47 perfect here, right?
+22:47 You know, you you'll be playing around
+22:49 with these distances certainly. Or, you
+22:53 know, you could bring up a cat detail
+22:53 and and dimension it all out so that you
+22:56 have some kind of reference. That
+22:56 probably would have been smart thing for
+23:01 me to do. So, let's see my horizontal
+23:03 offset. I'm going to go 78 instead.
+23:03 Going to center that up a little bit
+23:05 more. And I'm going to go -2 and eight.
+23:11 Oops. Yeah, that worked out. So, this
+23:14 looks pretty good. Now, it looks
+23:14 terrible over here in our preview, and
+23:18 that's true. If we were to go take a
+23:20 look at this in 3D, this is what it
+23:20 would look like, not this. Okay. But the
+23:26 trick is this. Because we have this
+23:26 really tall profile and we know we can
+23:29 reference to top instead of to bottom or
+23:37 uncheck to top. That means we can offset
+23:40 this based on the bottom of this
+23:42 profile. Meaning that this whole
+23:42 assembly, if we were to make it a
+23:47 stacked molding,
+23:47 would reference based on the stacked
+23:49 moldings overall height, which then that
+23:55 means we can shift this whole thing
+23:55 because we've got this larger profile.
+23:58 Show you how this works. We're going to
+24:01 see what happens in the preview once
+24:05 this all pans out. Okay. So, the one
+24:05 thing that I kind of screwed up on here
+24:10 is this cap flashing.
+24:10 Both of these I should just reference
+24:13 bottom. It's going to make it easier for
+24:18 me to assemble this whole thing. Um, I
+24:20 think let's try it. Let's try it
+24:20 without. Let's try it with. So, I'm
+24:25 going to shift select all of these
+24:25 moldings. That's all I did. Select the
+24:29 first one. Shift select the last one.
+24:29 Right. So, shift select all these. And
+24:34 over on the right hand side I get this
+24:34 make stack. Okay. And so we can see what
+24:40 happened here is it's now we've got this
+24:43 stacked molding and we've got those
+24:43 different moldings associated with it in
+24:49 that stack. Now check out what we get to
+24:52 do based on this stack is I want to
+24:52 uncheck to top on the stacked molding.
+24:56 I'm not going to mess with any of these
+24:58 settings if I did this right. So uncheck
+25:03 to top here. It did some kind of
+25:03 adjustment. Now I get to move the entire
+25:08 stack as a whole. Notice we got that
+25:08 wedge up above our wall line, which is
+25:11 perfect. That's exactly what we wanted.
+25:16 Okay, now we're kind of seeing like a
+25:16 mitered end here is why we see a little
+25:20 bit of a return there. I mean, that
+25:22 makes sense because the wall is not
+25:22 blocking this section because we haven't
+25:27 changed our vertical offset yet. Okay.
+25:29 And so I think that's pretty cool how
+25:30 they do that.
+25:30 All right. Now, let's mess around with
+25:34 our vertical offset. Let's just set this
+25:37 back to a base level zero. All right.
+25:37 And so, I'm looking at the preview here
+25:40 is what I'm trying to look at. And let's
+25:45 actually make this
+25:45 uh what happens? Yeah. So, I want to
+25:52 drop this down. So, I'm putting in a
+25:55 positive value to go a negative
+25:57 direction.
+25:57 See how that gets confusing, right?
+25:59 Let's go bugger our developers about
+26:02 that. So, let me just do another guess
+26:05 and check here. Three and a half inches
+26:08 looks about right. And then I've got to
+26:11 do some kind of negative offset in the
+26:11 X. So, we're going to go something like
+26:19 -6, maybe seven. And I probably want to
+26:21 change, you know, obviously these
+26:21 moldings were set up for a different
+26:23 wall type of a thicker wall type. So,
+26:27 um, I'm going to keep messing around
+26:27 with this offset, assuming that we've
+26:32 got a thicker wall type. There we go.
+26:32 And so, it's about as good of a preview
+26:39 as I can put together there.
+26:39 All right. So, if we go take a look at
+26:44 this, we've got that can't wedge right
+26:46 here. I could have put some additional
+26:49 flashing to kind of lap over at the
+26:49 bottom here if we wanted to. Up to you.
+26:54 Um,
+26:54 yeah, this is looking pretty good. Let
+26:59 me press okay and see where we're at.
+27:03 Let's go take a little look at this.
+27:05 Isn't that cool?
+27:05 So, there's our there's our can and
+27:08 there's that little stepped flashing
+27:10 that goes over the top of it. Here's our
+27:16 our wedge at the top, right?
+27:16 And we can see inside here. Let's go
+27:18 take a look at our cross-section view.
+27:22 Now, look at that.
+27:22 Isn't that cool? So that when we pull
+27:24 this cross-section view, we do a little
+27:30 build all framing, we do a little auto
+27:31 detail
+27:31 and throw some CAD stuff on top. That
+27:37 looks pretty dang sharp for the most
+27:39 part. I mean, you do a lot less
+27:39 detailing, you know, especially if I had
+27:44 the correct wall type in here.
+27:44 So, what's our next step? Well, we want
+27:50 to get in here and get the materials
+27:50 that we want built in. Right now, I'm
+27:54 going to build a second building here
+27:57 off to the right. And this is just
+27:57 because I want to steal a particular
+27:59 material that I don't know where it is
+28:04 in my library. Bear with me.
+28:04 And let me pause for a second and see
+28:06 what we got going on with the comments.
+28:10 Uh, I'm using custom molding trims all
+28:10 the time. Very helpful. Okay. Um, yeah,
+28:16 I think we might have enough time to go
+28:18 over what I was referring to when I was
+28:21 talking about creating a 3D molding,
+28:23 right? And then,
+28:23 uh, see my parapit painter that's got a
+28:29 really cool texture on it here.
+28:30 A better texture than this one is one I
+28:32 created. You guys probably know by now I
+28:37 make my own textures. Um, this was just
+28:39 created from some kind of pebble that
+28:39 was scaled down. So, it's got a really
+28:44 good 3D look. Notice this is another
+28:44 example of a parapit wall. Now, this is
+28:48 one that I need to fix because you can
+28:50 see here I'm using the 3D molding as a
+28:52 cap and it's not mitering correctly at
+28:52 the corners. So, that means you have to
+28:58 go manually place some things. But very
+28:58 cool. Notice I just one click it applied
+29:03 all these effects. So, I'm going to go
+29:06 ahead and paint in this room. In fact,
+29:10 we'll just change it to a room scope.
+29:13 And same thing, I'm going to paint my
+29:16 base molding here. That little little
+29:18 wedge, a little wedge flashing. All
+29:19 right.
+29:21 Um
+29:21 although I might be incorrect. This is
+29:23 this would look a little different than
+29:27 this. We might actually have Oh, no.
+29:28 That's all right. They they would be
+29:30 rolling the asphalt over the top of
+29:30 that. And maybe it would have been nice
+29:35 to kind of take the hard edges out of
+29:39 that flashing that overlaps our camp.
+29:41 And then I've got just like a black
+29:41 stainless steel material that I would
+29:46 use for everything else. Now, if you
+29:48 can't get in here and see, you know,
+29:48 these these other moldings in here, you
+29:54 know, I just say get in here real tight
+29:56 with a little like vector view or
+29:56 whatever and and get into a cut so that
+30:01 you can get into there and paint those
+30:03 moldings. Otherwise, you just got to
+30:03 open up the room, get to the materials
+30:04 tab, and change your materials that way.
+30:09 So, this is looking pretty good the way
+30:11 I've got it.
+30:11 I'm liking what I'm seeing. So, the next
+30:16 part is just building this into a room
+30:16 style palette. All right. So, how do we
+30:21 do that? It's pretty simple, actually.
+30:23 You're just going to select your room
+30:23 and then in your edit toolbar, which is
+30:25 usually at the bottom of your screen, we
+30:29 have this icon here. So, I'm going to
+30:33 use this add object to style pallet.
+30:36 Now, I teach this in my classes um
+30:36 because there are a few little funny
+30:39 things you can do with this. If you were
+30:43 to say make some adjustments to this,
+30:43 which we are going to do and so we just
+30:50 want to update a base style pallet,
+30:50 something we've already created. Then
+30:55 you would say add to existing. Now
+30:55 you're going to notice when I hit create
+30:59 new, it gives us the option to transfer
+30:59 certain settings. Very similar to how we
+31:05 might use the object eyropper tool. And
+31:08 so instead of using the object eyropper
+31:10 tool, this basically is that one-click
+31:10 action that gets to save to our library.
+31:16 Whereas we can't use an object painter
+31:18 from a library. So this is what makes
+31:18 this tool so powerful. So, I'm going to
+31:23 create a new this time around. And it's
+31:25 going to bring up this dialogue box.
+31:25 Okay. In this dialogue box, we have our
+31:30 set properties. Now, it might not seem
+31:32 obvious, but you can just come in here
+31:32 and click on this, and it will open the
+31:37 object, for instance. So, I can make
+31:38 edits to my style pallets room straight
+31:42 away from the style pallet dialogue box.
+31:46 All right.
+31:46 And so, keep in mind, I'm editing the
+31:49 style pallet right now. I'm not editing
+31:55 the room that's in my plan. All right,
+31:57 I'm going to get hit cancel. I'm
+31:57 actually going to come in here and say
+31:59 set properties. And this is where we can
+32:04 set all the specific properties for this
+32:07 particular room. Now, a couple of ones
+32:09 that are really important are wall
+32:09 coverings. Now, Chief just happens to
+32:12 know that this is probably what you're
+32:13 saving a style palette for in the in the
+32:17 first place because that's what they
+32:17 built the style pallet tool to do really
+32:22 is to change the visual display of
+32:22 something. But there's a number of other
+32:26 settings you can get from here as well.
+32:29 So, wall coverings, wall material.
+32:29 That's really important to me. Um, has
+32:34 roof.
+32:35 Okay,
+32:35 that's that's actually really important
+32:37 to me. As well as has ceiling. I want to
+32:40 make sure that this thing doesn't have a
+32:42 roof, doesn't have a ceiling when I
+32:42 spray it. So, I don't even have to worry
+32:46 about taking the roof or the ceiling off
+32:51 And then,
+32:51 let's see. Anything else here? Crown
+32:54 moldings, we definitely need that. Chair
+32:59 rail moldings, we definitely need that.
+33:02 Um, you could keep the floor structure.
+33:04 If you're trying to create a parapit
+33:04 where you're always using the same type
+33:09 of floor structure, this is the
+33:10 opportunity to do that. So, if you
+33:12 wanted to set this up for, you know,
+33:17 your 14inch TGIS or you've got, you
+33:17 know, you want a 24 inch floor truss,
+33:21 set that up in the room, right? We can
+33:24 actually go back to the room and set
+33:24 that up. And then we're going to save
+33:26 that to the style pallet so that when we
+33:30 spray this, it changes the floor
+33:30 structure separate from whatever the
+33:34 default floor structure is for your
+33:36 project.
+33:36 Now, if your parapit
+33:38 is you want to just um
+33:43 I would suggest that you don't change
+33:44 the floor structure if you're building a
+33:50 building where your default floor
+33:50 structure is already correct because we
+33:53 don't want to override those settings
+33:55 and possibly screw them up. So, keep
+33:55 that in mind if you're going to utilize
+34:00 floor structure.
+34:00 And then I've got crown moldings, chair
+34:02 moldings, ceiling finish, base moldings,
+34:07 etc. Um, you know, if I want to, I can
+34:07 do a little search for material and just
+34:13 see what comes up in terms of um found
+34:13 properties. And so, we didn't get a lot
+34:17 from this. It's basically just the wall
+34:21 material. uh it in inherently will uh
+34:21 bring forward the molding material even
+34:25 though it doesn't say that it will. And
+34:28 so let me just press okay. And so now I
+34:30 have this tool. And so we want to name
+34:30 this tool. You know, out of the box it's
+34:33 just going to say style pallet. So this
+34:36 is my pivot pit painter. I don't know
+34:36 what we're going to call it. Oh, look at
+34:49 And we press okay. And now I should be
+34:49 able to take this. It's now selected in
+34:52 my library. When you add it to the
+34:52 library, it's already selected. It's the
+34:57 active tool basically. And so I can roll
+34:59 over here and I should be able to just
+35:02 spray this room.
+35:02 And there we go. It's been updated.
+35:05 Isn't that cool? Quick and easy. Now we
+35:11 have this thing that can be detailed in
+35:14 cross-section view very easily. Looks
+35:14 correct. And maybe kind of a last little
+35:20 trick here is um selecting a wall in 3D
+35:23 and then hitting the tab or enter key
+35:25 gets you a new set of edit handles.
+35:25 You're now editing the room height. All
+35:29 right. So that if I knew what the
+35:29 existing room height was here, I could
+35:33 just drag this down by a very specific
+35:37 amount. By while dragging, hit tab or
+35:37 enter again. Polar is checked right now.
+35:42 And so I'm going to change the overall
+35:43 height of this room to set me six
+35:45 inches.
+35:45 Really, really simple for me to get to a
+35:49 parapit that I might actually be
+35:49 building. Right. So, this looks pretty
+35:54 good. Now, we've got some time. Um,
+35:54 please let me know if you've got some
+35:56 comments or questions about this process
+36:00 so far. And then the next thing I want
+36:01 to do is I want to get back to this
+36:01 cross-section view. And I'm going to do
+36:04 what I said I'd try to do, which is mess
+36:09 around with this guy right here. So, I'm
+36:11 just going to make a copy of him. I
+36:11 don't know why I'm making a copy of him.
+36:16 This force of habit. And then in our
+36:16 edit toolbar, I'm going to convert this
+36:18 polyline. And so, let me convert this to
+36:29 Now, 12in depths totally fine. This is
+36:31 exactly what I needed.
+36:32 This process is going to be as simple as
+36:36 this is. I'm going to press okay. And
+36:36 now I'm going to convert the selected to
+36:41 symbol. Okay,
+36:41 convert the selected to symbol. Uh, we
+36:44 need it to be a molding class. So if you
+36:50 didn't know this, we can convert 3D
+36:53 object to a molding.
+36:53 If you didn't know this, we can convert
+37:00 multiple 3D objects to one single
+37:00 molding. Why is that important to know?
+37:06 That means multiple objects can have
+37:06 different material classifications with
+37:08 them. We could have exploded this shape.
+37:13 We could have exploded this 3D solid
+37:13 making it so that we could paint every
+37:18 surface of the solid a different color
+37:21 and then selected all that and created
+37:24 that molding. Right? So this gives us
+37:27 the opportunity to give us other
+37:28 UVmapped
+37:28 coordinates on one single molding
+37:31 profile. You got to think about that a
+37:34 little bit to understand the full scope
+37:38 of what you can do with that. Okay. For
+37:42 instance, I created um a sill profile
+37:43 which is a roll lock brick with a
+37:44 threshold. That's one molding. So, it
+37:46 can get applied as a sill. And the other
+37:51 thing that we need to note about
+37:51 converting a 3D object to molding is we
+37:56 get the parameters of setting some kind
+38:00 of XYZ offset. So that the molding even
+38:01 though it's placed on a particular
+38:01 molding line could be offset from that
+38:07 line. Meaning that we can get a lot of
+38:07 dynamic symbols pushed in automatically
+38:12 into your windows and doors to specific
+38:15 offsets to take care of unique
+38:17 architectural features.
+38:17 This is getting into the weeds, but just
+38:22 wanted to, you know,
+38:22 rewatch that. Write it down maybe and
+38:26 get an idea of what you can do with
+38:26 this. It's a very powerful method is
+38:28 turning some kind of 3D object into a
+38:30 molding profile. Now, I do want to show
+38:34 advanced options. All right. So, I'm
+38:34 going to make that check mark and then
+38:39 press okay.
+38:39 And you can see what's going on here.
+38:43 It's repeating itself, but not in the
+38:43 way we want it to, right? kind of looks
+38:49 pretty messed up. So, we are in the 3D
+38:52 panel. Um, please note that in this
+38:52 convert to symbol dialogue box, it looks
+38:58 very different from other symbol
+38:59 categories.
+38:59 Your fixture symbol category, your
+39:03 furniture symbol category, your
+39:03 electrical symbol category. Now, the
+39:07 electrical symbol category obviously
+39:08 looks a lot different from other
+39:08 categories as well because we have the
+39:11 opportunity to specify some things as a
+39:15 light, but this one's very different is
+39:17 we're starting with the 3D panel right
+39:17 off the gate, right? So, we can see here
+39:23 we want to do a rotation in the Z-axis.
+39:25 Why the Z-axis? Because if we take a
+39:25 look in the preview over here, we can
+39:29 see that this is our Z leg. So,
+39:29 positive. We're always going to mention
+39:32 this in video because I feel like this
+39:32 is, you know, a hard thing for people to
+39:36 learn at first. So, all these legs
+39:36 represent a positive direction. Okay.
+39:41 Now, if I want to rotate something,
+39:42 we're rotating. I like to think of it as
+39:47 like a a trapezist, right? So, in this
+39:49 case, I want to rotate this as if my
+39:50 trapeze artist was flipping around this
+39:52 this Z pole right here. That's his pole.
+39:56 And he's just going to be flipping
+39:56 around like this, right? So, I'm going
+39:58 to rotate this about the Z. So, I leave
+40:03 it at 90 degrees. That's fine because
+40:03 you can click rotate a bunch of times.
+40:07 But watch what happens. The way this
+40:09 repeats itself right now. Watch what
+40:12 happens when I rotate it 90 degrees.
+40:12 Look, now it's repeating itself in the
+40:16 way that I really want it to. Okay.
+40:16 Isn't that funny? Rotate this way. It's
+40:19 stacking them up like a bunch of plates.
+40:25 Rotate this way and it's stacking end to
+40:26 end.
+40:26 That's perfect. Now, here's where the
+40:29 magic of this particular symbol is going
+40:34 to happen if I do this correctly. I I do
+40:36 want to mention that I've gotten so far
+40:39 into these kind of symbol modifications
+40:43 that I that I know that there is a a
+40:47 known um glitch when you get too far
+40:47 into the advanced sizing panel. There is
+40:52 a glitch in here. I don't think we're
+40:54 going to run into it though for what
+40:55 we're going to do here. Um, but
+40:55 sometimes if we've got uh a bounding box
+41:01 spacing update and a stretch plane,
+41:03 there's a glitch that is extremely
+41:03 complicated for them to work out and
+41:05 they've been working on it for three
+41:05 years. All right, so I'm going to put in
+41:12 in the stretch planes section. Okay, I'm
+41:16 going to put in a height stretch plane.
+41:17 And so we can see here just by checking
+41:20 this box we see over here kind of over
+41:20 in our preview we can get in tight here
+41:25 because that's indicating our stretch
+41:25 plane. That's our cutting plane. Okay.
+41:27 So I actually need this to move up like
+41:29 four inches or something. Something like
+41:34 that. What does this mean now? That
+41:34 means where that stretch plane is. It's
+41:39 just like a slice. It's going to take
+41:41 that slice just like we would do a
+41:41 cross-section cut. It's going to take
+41:46 that slice and where wherever the
+41:46 geometry meets at that slice, it will
+41:51 reproduce that same geometry. It's
+41:51 basically like applying a 2D CAD molding
+41:57 is that 2D CAD molding exactly the way
+41:59 it works in Chief Architect is we're
+42:01 taking that as a slice and we're
+42:01 repeating that geometry over and over
+42:05 and over again. Right? So that's all
+42:05 we're doing with this stretch plane is
+42:08 we're cutting through that section and
+42:08 that means when we change the height of
+42:12 this symbol, it will just continue to
+42:15 reproduce at that cut line. Okay, the
+42:16 same geometry of that slice. It's really
+42:20 hard to explain that. Maybe I should
+42:20 chat at one of these times. So, now that
+42:24 I've got this all set up, the next thing
+42:26 I want to do is I want to get to the
+42:29 materials tab. And um where it says
+42:29 concrete, I might want to go select that
+42:33 material that I really want this to be.
+42:37 Or I can um usually something that's
+42:37 that's prudent in this scenario is that
+42:42 you get into um your material defaults
+42:42 and you set this up to be your material
+42:46 defaults. So like I could have this
+42:46 automatically be set to whatever the
+42:48 vasia color is for this project, which
+42:50 I'll do for this. It's fine. And then uh
+42:54 this is just me being I'm finding a
+42:54 little stickler is if you single click
+42:56 in here, you can even name what this is.
+43:00 So maybe you might call it body or
+43:02 molding or whatever.
+43:02 Not really that important, but I don't
+43:07 know. It's an old habit of mine. Keeps
+43:09 everything really uniform. Okay, now
+43:09 that I have this in place, can I just
+43:12 hover over this and replace it now? No,
+43:17 it does not toggle replacement mode
+43:17 because we're in a cross back clipped
+43:21 cross-section view. If we were to go
+43:21 edit the active view because we're being
+43:25 stubborn and we don't feel like getting
+43:27 out of this view and I uncheck a back
+43:27 clip now it might be that I could take
+43:32 that molding and hover over and click
+43:35 and replace.
+43:35 There we go. Okay. So now what's
+43:38 interesting or not interesting about
+43:39 this molding? Let's see if it works the
+43:43 way that I hoped it would. So I'm going
+43:45 to select this room now and open it up.
+43:46 Actually I'm selecting the wall. I need
+43:46 to tab once. Now I'm selecting the room.
+43:51 I can open the room from this elevation
+43:54 without it being back click. And so we
+43:54 can see here, here's that molding. Now,
+43:58 I I should have renamed it something
+43:58 different than that, but there's that
+44:00 molding. Do I get to change its height
+44:05 without affecting its other geometry?
+44:07 Notice that 3D moldings have a very
+44:07 different preview. We no longer see them
+44:12 at as they relate to another molding.
+44:12 So, keep that in mind. It's a little bit
+44:17 more difficult to place this. All right.
+44:19 But I do think that I get to do
+44:19 something like this where I'm going to
+44:22 say, "Hey, the height of this is 54 in."
+44:26 And we notice in the preview, look what
+44:30 it did. Now, in the preview, it it
+44:30 [clears throat] stretched in a way that
+44:34 I didn't want it to. So, I'm very
+44:34 curious to see if this whole setup
+44:36 worked or if we did this all for not.
+44:40 It looks like that whole setup did not
+44:43 work the way I expected it to. It did in
+44:47 fact stretch a part that it should not
+44:50 be stretching based on that stretch
+44:50 plane. Let's see if we can. All right.
+44:55 So, I'm going to get into that library
+44:57 object. Open this object. Let me get
+44:57 back to that advanced sizing. I did in
+45:00 fact have a stretch zone in the height.
+45:07 It doesn't seem to be doing what it's
+45:07 supposed to be doing. So, maybe we did
+45:11 run into that glitch. Just to double
+45:13 check that, I'm going to create a
+45:13 stretch zone. Okay, that means we've got
+45:18 two points that are going to be stretch
+45:18 planes. And in between those two points,
+45:22 I'm going to create a uniform stretch
+45:22 zone between height plane one and two.
+45:26 And so I need this. You can see here in
+45:28 the preview, it's showing us there's our
+45:31 zero inch. There's our 4 inch. I'm
+45:31 actually going to change this to be
+45:32 between maybe four and 12 or something
+45:39 like that. All right. Let me say okay.
+45:41 Let me hover over click and replace
+45:43 here.
+45:43 Okay. And now
+45:46 let me open the room up and see if I
+45:49 can't stretch this because this is uh
+45:53 otherwise we're going to go yell at
+45:54 Chief, which I love to do. Okay, so all
+46:00 right, let's make this 36 inches again.
+46:00 What is it going to do? Ah, it stretches
+46:04 it again. Come on, Chief. You screwed
+46:08 this up. This used to work. Um, this
+46:08 used to work very, very well. It doesn't
+46:15 seem like it will anymore. Oh no. Let's
+46:18 just try that 48. Just triple check.
+46:18 Yeah, it's definitely stretching that
+46:19 lower section where it shouldn't be. I
+46:29 It's got a good eye. Let me just set
+46:36 Yeah, definitely. I feel like it's
+46:38 definitely stretching.
+46:38 Yeah, too bad. Interesting.
+46:41 Well, it shouldn't be. [laughter]
+46:43 I'll bug him one more time. They got to
+46:48 be getting close to X18 beta. So,
+46:50 whatever. [clears throat]
+46:53 Uh, let's see.
+46:53 I see a comment here. Deep in the woods,
+46:57 but I love it even if I cannot see you
+46:57 anymore. Is that mean because I'm so far
+47:01 in the woods or you actually can't see
+47:04 my camera?
+47:04 Let me know.
+47:06 All right. So, I think that's about as
+47:13 far as I would take this video. Um,
+47:13 I feel like we covered quite a bit in
+47:17 terms of like you should be able to
+47:17 build a parapit room from this. The last
+47:22 kind of setup for this is if you're
+47:22 someone that's doing these all the time,
+47:26 right? We're doing these all the time.
+47:28 Maybe you might consider making this a
+47:31 tool that's on your toolbars and then
+47:34 you'll end up with toolbars that look
+47:37 like mine where it's covered in very
+47:37 unique tools that I've built. So this is
+47:42 this is how this ends up happening is
+47:42 build these tools to make my life a lot
+47:46 easier and then if it turns out that I
+47:46 use them enough times because I'm doing
+47:51 such frequencies and like projects
+47:51 that's when I'm going to build a tool
+47:52 add to my library. And we showed that in
+47:57 the last show. We showed in the last
+47:57 show in case you want to go check that
+48:00 out. It's really simple. You customize
+48:00 your toolbars. You place a customplaced
+48:06 library object in your toolbar and then
+48:08 that ends up looking like this where
+48:08 it's an unlin tool in your toolbar and
+48:11 you can click on it. It will bring up a
+48:15 dialogue box where you could then link
+48:15 this to what? Well, you could link it to
+48:19 that parapit painter that we just
+48:20 created and press okay. And it's going
+48:24 to do something about trying to create
+48:27 some automatic icon for you, which is
+48:29 fine. Or you could hit browse to find
+48:32 your own icon and pick out, you know,
+48:33 something that's on your machine that
+48:36 you drew. That's me. I draw my own
+48:36 icons. So, let me press okay. Now, we'll
+48:42 notice in my toolbar, there we go.
+48:42 There's my parapit painter. I get to
+48:47 click over this and spray.
+48:47 Simple as that. Very cool. I'll just
+48:49 show you a couple other ones that I have
+48:54 in my system. Uh, which is I've got, you
+48:58 know, board and batten use this all the
+49:00 time. So, that's an important one. It's
+49:02 a 3D looking board and batten. Uses a
+49:04 couple tricks with materials and
+49:04 transparency and stuff like that. So, if
+49:09 we click and move the sun around, you
+49:09 could see, you know, it's creating some
+49:13 pretty good shadows. Um, another very
+49:15 common one for me for some of my
+49:15 builders is they want to add shiplap to
+49:18 things. So, this is just a wall material
+49:23 region. The wall material region is
+49:23 saved to my library and it's assigned to
+49:29 a custom place library object on my
+49:31 toolbar.
+49:31 Okay, same thing.
+49:34 Some shake shingles
+49:37 look very 3D. Boy, they look almost too
+49:41 3D. Those look like some really old
+49:43 shingles.
+49:44 And then I do one that's uh this is I
+49:48 call this a belly band. Someone else
+49:48 thought that was the funniest name. So
+49:52 it must be a regional name for me. But
+49:52 this would be a belly band for me is you
+49:57 know just some board. So, if you don't
+49:59 want to go through the task if you're
+49:59 just trying to create um one of these on
+50:05 just one side of a building, this is the
+50:07 fastest way to do it as opposed to
+50:07 messing around with moldings and stuff,
+50:11 especially since we got these 3D
+50:11 dimensions where I can click in here and
+50:15 say that this is going to be a 2x8.
+50:15 Very, very simple. And then I get to
+50:18 just draw this path. We talked about
+50:18 this a little bit in the last show as
+50:20 well because these do miter the corners
+50:25 as well. So, that's really cool. If we
+50:26 didn't talk about it last show, that's
+50:26 because I talked about it after the show
+50:31 with our colleagues together. We always
+50:33 sit there and do a little bit of a
+50:36 review of what we went over.
+50:36 And uh and then my last few are just
+50:39 some funny ones that I find to be novel
+50:44 and use very rarely and probably don't
+50:47 belong on my tools, but creating a
+50:47 little bit of a 3D lattice effect. And
+50:53 as well as some ivy where I can um use
+50:55 the uh use some of our new tools to
+50:55 affect this ivy. In case you didn't know
+51:01 this, um we've got those adjust material
+51:04 tools. So just a little tricky getting
+51:06 this selected, isn't it?
+51:06 Yeah, if I wanted to adjust this
+51:08 material, I get to use that interactive
+51:12 material editor tool and then just drag
+51:12 this up where you need to be, right? So,
+51:19 yeah, kind of cool.
+51:25 All this coming back to just, hey, let's
+51:28 set up our exteriors so they're as fast
+51:30 as possible. There's some other things
+51:32 that we can do with those room style
+51:35 pallet tools. Um, if you didn't know
+51:38 this, my templates do some automatic
+51:38 area analysis. So, if I target a room
+51:43 and I go open schedule from the room,
+51:45 this is doing these are a bunch of
+51:45 individual schedules that are worked out
+51:50 to show me area analysis. So if I kind
+51:50 of tile this side by side, then now that
+51:57 you know that style pallet tools can
+51:57 change some information about a room,
+52:00 you'll notice this is if I get down and
+52:05 say, hey, I actually don't want this to
+52:05 be considered part of the coverage in my
+52:10 building. I actually have a style pallet
+52:14 tool in my toolbar to say, hey, remove
+52:17 the area analysis from this room. And
+52:17 you see here it just affected my square
+52:22 footage versus adding it back. And
+52:22 you'll see here it affected my square
+52:27 footage. This is how we can make some
+52:29 really really simple tools to do
+52:30 calculations for us. Right? So um this
+52:37 all started in X16 when we got lower
+52:37 defaults. So, your default plan can have
+52:45 some stored um excuse me, we got um
+52:46 reportable object information. So, we've
+52:51 got an object information panel in our
+52:54 floor defaults. This is where you can
+52:54 set up custom fields to do very custom
+53:00 things for you automatically, such as
+53:00 create an area analysis on the fly or um
+53:07 do any number of reportable things that
+53:10 we might be able to get from a room.
+53:10 This is where we get into that kind of
+53:13 power user level where we're trying to
+53:16 understand what does a room actually
+53:16 report for chief architect. And you're
+53:18 going to see here that it reports a ton
+53:23 of information and it's information you
+53:27 can use to create calculators that are
+53:31 sent to schedules. So this is a very
+53:31 long list of things that it's reporting.
+53:38 So for instance, um base moldings, we
+53:40 can see here we've got some kind of a
+53:40 base molding. Um especially if we were
+53:44 to get to that, let's get to that
+53:44 cantalver real quick. Go up a level.
+53:47 Select that room. I'm going to get into
+53:53 the object information panel. Um, and
+53:54 this is coming from text macro
+53:54 management. If you didn't know where
+53:58 this is, it's in CAD text text macro
+54:02 management. And um I have a custom
+54:03 version of this macro, but Chief
+54:06 Architect ships with an object
+54:06 information macro where you can see the
+54:13 expanded macro value and it will report
+54:15 all the information for that particular
+54:18 object that you have selected in plan.
+54:21 So we can see here now we're see
+54:21 flashing, right? So what you might
+54:24 notice here is because it's reporting
+54:27 the length of that can flashing we could
+54:33 in fact out of the box write some
+54:33 condition that said hey if there is a
+54:38 can hold m holding show me the total
+54:38 linear feet of this in my schedule from
+54:41 a custom object field out of the box. So
+54:46 as soon as I'm drawing I'm
+54:46 [clears throat] getting something that
+54:47 is giving me a visible display of total
+54:52 length of molding. And so if you're
+54:55 someone that you know is um always
+54:55 quoting something in particular such as
+55:01 cost of linear foot of molding, you
+55:01 could do a macro that says, "Hey, per
+55:03 linear foot of molding it's $2. Report
+55:07 this to my schedule automatically
+55:07 accumulate the total." So as soon as we
+55:10 draw a room without doing anything else,
+55:14 we are saying a dollar value on how much
+55:17 it costs for moldings, for instance. How
+55:20 do I utilize this in some other areas?
+55:20 I'll show you real quick is this is just
+55:25 a perfect working example of this is I'm
+55:27 going to just draw a couple of different
+55:30 cabinets here. Let's change one of these
+55:32 to a garbage pull out. Let's change one
+55:35 to a little sink base.
+55:38 We'll throw in maybe
+55:38 couple wall cabinets. Throw in
+55:43 maybe I'll throw in a two drawer full
+55:48 hide cabinet. And if we go look at my
+55:50 schedule,
+55:50 I can see here out of the box, it's just
+55:54 giving me a custom cabinet price based
+55:56 on a lot of parameters that I set. But
+55:59 and it's giving me box volume. So this
+56:01 is getting into that, you know, more
+56:01 advanced section of what we can do with
+56:05 schedules, what we can do with macros.
+56:13 Stretch zones seem to be working better
+56:16 for you. Um, ultimately we want to try
+56:20 to avoid the stretch zones um because,
+56:21 well, for one, they're not needed.
+56:21 Stretch planes will always work if you
+56:25 have it set to the correct cutting
+56:25 plane. Um, stretch zones just means
+56:29 we're going to uniformly resize in
+56:29 between a particular zone. But keep in
+56:35 mind that can stretch a material if
+56:35 global symbol mapping is unchecked in
+56:40 the material properties.
+56:40 And so I'm that is me replying to this
+56:51 Um, and can I go over what my ano tool
+56:54 does? Yeah. Yeah. Shameless plug. I'm
+56:56 the only one here. I get to run the
+56:56 show. So yeah, let's plug my product
+57:01 real quick.
+57:01 What does the Anna Tool do? Um, you can
+57:07 rebuild this for yourself. Um, in fact,
+57:09 everything that's in my templates, my
+57:12 templates have so many hours in them
+57:12 that you'll notice that I don't have any
+57:16 problem sharing some of the secrets of
+57:19 how they work because
+57:19 you want to go spend the time to
+57:21 recreate the thousands of hours I put
+57:26 into them, by all means, do it. I'll
+57:26 show you exactly how to do it because
+57:27 you'll learn. You'll learn while you're
+57:32 working on that. Um, it's very simple.
+57:35 Every object has information being
+57:37 reported from it. So
+57:37 I'm going to just bring in here a little
+57:41 search tool to show us this is all the
+57:43 information coming from this cabinet.
+57:43 It's a ton of information here and you
+57:48 can utilize any of it if you do some
+57:48 really basic Ruby scripting. Now there's
+57:53 some caveats there. Chief Architect has
+57:54 um some certain parameters that aren't
+57:57 widely available to the wider web and
+57:57 especially like your chat GBT. Chat 3D
+58:02 doesn't necessarily understand how
+58:02 Chief's Ruby works. Um, you kind of have
+58:07 to have a little basis of knowhow, a
+58:09 little bit of a um some parameters
+58:09 because very specifically the first
+58:12 thing that I'm going to tell you is that
+58:17 there is a measurement class in Chief
+58:17 Architect. This does not exist in the uh
+58:23 wider chief architect world. I believe
+58:25 it would be called measurement class,
+58:27 measurement method, but measurement
+58:27 class. Yeah. Um, and this this is that
+58:34 it's utilizing the units that are in
+58:36 your preferences.
+58:36 Okay, if you did not know this, you
+58:40 could come into preferences and under
+58:45 the general panel, the sub panel unit
+58:48 conversions, you can create your own
+58:48 unit. You'll notice here that acre is a
+58:53 custom unit that I created. That
+58:53 percentage sign is a custom unit that I
+58:59 created. Okay. Now, when you click on
+58:59 percentage sign, this actually doesn't
+59:04 mean anything. I set it up so that 1%
+59:05 equals 1 foot. That doesn't mean
+59:07 anything. I only needed it um to
+59:07 actually utilize the symbol of the
+59:09 percentage sign. But there are other
+59:11 custom units here such as an acre where
+59:17 I actually did plug in what an acre is.
+59:21 And so the measurement class can say,
+59:23 hey, we know what a foot is. We know
+59:23 what a square foot is. So we can convert
+59:30 that to an acre using special code and
+59:30 this comes straight from your manual in
+59:32 the Ruby section is it will show you how
+59:36 you can convert from one measurement
+59:39 class to another. Okay.
+59:39 Um so because of all these reported
+59:43 values what you could then do is this is
+59:49 just a text box. This isn't some special
+59:53 object. It's a text box with a a um a
+59:53 macro call that's being referenced. And
+59:56 the reference is coming from this leader
+1:00:00 line. This is attached. Notice my
+1:00:00 highlight color there. My highlight is
+1:00:04 now highlighting that cabinet. So, it's
+1:00:08 attached to this cabinet. So now,
+1:00:08 because it's attached to this text box,
+1:00:10 if I don't have it attached to this text
+1:00:14 box, notice it just changed to pick up
+1:00:17 what's happening in the room because
+1:00:17 this text box is placed inside of the
+1:00:19 room. If I were to move this outside of
+1:00:22 the room, look what happens. There's
+1:00:25 nothing to report. Now, if I go take
+1:00:25 this leader and connect it back, there
+1:00:29 we go. It's reporting based on a
+1:00:29 reference. All right. So, what my
+1:00:32 annotation tool does is it just has a
+1:00:35 macro call inside of it. When you place
+1:00:40 it in a room, it sees that it's a room.
+1:00:42 It's got some rule sets built into it
+1:00:42 for this room. Okay. Outside of a room,
+1:00:47 it recognizes it's not attached to
+1:00:49 anything. It's going to change its
+1:00:49 reference as well. Well, sometimes it
+1:00:52 needs to rebuild. And it's a little
+1:00:52 glitchy sometimes. There we go. Is that
+1:00:57 it picks up that this is probably I'm
+1:00:57 going to bubble something and say this
+1:00:58 is an area of work. All right. Now, if I
+1:01:03 move this back into the room and I plug
+1:01:06 this into something like this cabinet,
+1:01:10 it has some base amount of information
+1:01:13 built into it. It's going to look at
+1:01:13 what the type is. Based on what the type
+1:01:19 is, it might report its automatic label.
+1:01:21 But the first thing that it does always,
+1:01:24 this is just the way that I set it up,
+1:01:26 is that it will always look in the
+1:01:26 object information panel for the ano
+1:01:31 tool custom field. And if there is
+1:01:33 something here,
+1:01:33 it will place this above any of the rule
+1:01:39 sets that I've created. Okay, so you can
+1:01:41 see here custom forward center. So if I
+1:01:46 were to say blah blah blah.
+1:01:47 Okay,
+1:01:47 you're going to see that update. All
+1:01:51 right, that's pretty clever. So it's
+1:01:51 just based on what it's connected to. So
+1:01:56 that if I have a staircase here and I
+1:01:56 click this to the staircase, it's going
+1:02:00 to pick up bunch of information about
+1:02:01 that staircase. That's because that's
+1:02:01 what I programmed into it. If I get down
+1:02:05 into a basement level, it's going to
+1:02:05 pick up what an overhead clearance is.
+1:02:09 If I pick up, you know, a wall, it's
+1:02:12 going to assume 8 inch concrete stem
+1:02:14 wall footings. Um, here's kind of
+1:02:14 another clever one is if we were to go
+1:02:28 and let's just throw in a little garage
+1:02:28 door. This is I find this information to
+1:02:34 be interesting I think to people. It
+1:02:34 kind of opens your mind as to what you
+1:02:37 can do um in Chief Arctic because
+1:02:37 there's a lot of things you can do with
+1:02:41 macros. A lot of times it's like that
+1:02:41 analysis paralysis. It's like, okay, I
+1:02:43 get it. We can make macros, but what do
+1:02:48 I use it for? Check this out. This is a
+1:02:50 9 foot3 blockout for the garage door.
+1:02:50 You know, it just makes my life easier.
+1:02:52 And it's also limiting my liability from
+1:02:57 user input error. I say that all the
+1:02:57 time. That's the biggest selling point
+1:03:01 for using macros is you no longer have
+1:03:04 that potential for typing in something
+1:03:06 incorrectly. So, it's a pretty cool
+1:03:06 tool. So, you can just write a script
+1:03:11 where you've got some text box that's
+1:03:13 referencing some other object and it
+1:03:15 will put whatever text that you want
+1:03:17 there. Not only that, I want you to
+1:03:17 notice something here is here's my edit
+1:03:23 tool. I'm going to have it connected to
+1:03:27 this right here. And my kitchen tools
+1:03:27 are built off of style pallets which we
+1:03:33 just created for our room. Okay.
+1:03:33 Something we could have saved in the
+1:03:35 style palette for parapit is we could
+1:03:40 have been reporting something to the
+1:03:42 object properties. Let's give this
+1:03:42 actually let's give this a full swing
+1:03:46 example. All right, I'm going to get
+1:03:46 back to my parapit painter. I know we're
+1:03:49 running over time, but I think this is
+1:03:52 valuable info. Um, let's get to this
+1:03:52 parapit painter. I'm going to open this
+1:03:57 object. Okay, I'm going to open the
+1:04:01 object here. All right, object
+1:04:01 information. And notice that I don't
+1:04:03 have an ino tool custom field. If I am
+1:04:10 missing a custom field that's in my
+1:04:10 plan, unfortunately, the only way to
+1:04:12 work around this is um the the reason it
+1:04:16 doesn't have that custom field is
+1:04:16 because there was no value in that
+1:04:18 custom field when we created the style
+1:04:21 palette. So there's two ways you could
+1:04:24 do this. You could either create a new
+1:04:24 field and perfectly match the typing of
+1:04:29 in this case ano tool for that custom
+1:04:33 field so that it's recognized or we
+1:04:33 could go back to that parapit on that
+1:04:39 second level right here. Open this up
+1:04:41 and tool has some kind of information
+1:04:44 and so example
+1:04:44 parapitic is what I'm going to put in
+1:04:46 here under the anatol field. I'm going
+1:04:51 to press okay and I'm going to hit add
+1:04:52 to object to style palette and we talked
+1:04:56 about this earlier in the show. This
+1:04:56 time I'm going to add to existing. Okay,
+1:05:02 here's your catalog. There's my parrot
+1:05:03 big painter. It's going to warn me.
+1:05:04 You're about to replace an item. I'm
+1:05:06 going to say okay. I intended to replace
+1:05:11 it. It will have all the same set
+1:05:11 properties as the set properties we had
+1:05:13 there before. That's good information to
+1:05:18 know. This time I also want to include
+1:05:21 custom fields because I've got a new
+1:05:21 setting in custom fields. Keep in mind
+1:05:26 you cannot target one custom field
+1:05:26 separate from others. So it's all or
+1:05:31 nothing. That's really important to
+1:05:33 know. You can really screw up some
+1:05:33 systems that you've created. So just
+1:05:36 keep that in mind. Let me press okay.
+1:05:41 Now if I were to have the inner tool
+1:05:42 over here in this parapit you see foring
+1:05:47 to be determined and I use my parapit
+1:05:49 painter if I did this correctly and I
+1:05:51 didn't
+1:05:51 it should have applied that custom field
+1:05:56 and we should have seen this change to
+1:05:56 that rule. It might be that for um room
+1:06:02 objects that they actually take
+1:06:02 precedence over that tool input. that a
+1:06:05 tool column should say yeah example care
+1:06:10 but looks like I got to go rewrite a
+1:06:17 So
+1:06:17 for instance here is I've got a two
+1:06:19 drawer painter with my two drawer style
+1:06:26 pallet. it does bring forward an anodol
+1:06:28 change. And so when I spray this, we're
+1:06:30 going to see that that changes to pots
+1:06:32 and pans because that's pretty common
+1:06:34 for me if I've got a two drawer base.
+1:06:34 Just makes life a lot easier. Um, that's
+1:06:40 going to be it for this show. I know
+1:06:40 this is this is a lot of information. Go
+1:06:45 rewatch it. We love it when you go
+1:06:45 rewatch these shows. Leave some comments
+1:06:49 after the fact. You can always see these
+1:06:52 shows in the live sections in either the
+1:06:56 Chief Experts YouTube or my Rabbit
+1:06:56 Design YouTube. There is a live tab. You
+1:07:00 can go re-watch the live and leave
+1:07:00 comments there. We get notifications on
+1:07:03 it. So, we'll go respond to you. So, if
+1:07:04 you've got a question, go ahead and
+1:07:04 shoot that there. Uh, let me mention to
+1:07:10 you that um Dan Bowman's been doing a
+1:07:12 lot of incredible work on his pro
+1:07:12 template. I also just noticed that he
+1:07:15 has a training event. I'm gonna see if I
+1:07:19 can't get that up in a few seconds here
+1:07:21 because I really need to shut down the
+1:07:25 show here. Um, is
+1:07:25 chief experts architect training if you
+1:07:30 didn't know about this.
+1:07:30 Uh, let's see. There we go. Master chief
+1:07:34 architect in days, not months. This is
+1:07:36 on the chief architect training with
+1:07:36 chief experts or it's on his website.
+1:07:42 I'm sure is they've got some event
+1:07:44 January 12th through the 15th in
+1:07:44 Bloomington, Minnesota. Don't you know a
+1:07:51 and um the last bit of news I'll share
+1:07:51 is I did just take the power users chief
+1:07:56 architect group which is where we were
+1:07:59 trying to answer um specific questions
+1:07:59 for chief architect and actually delete
+1:08:01 comments that didn't make sense. Um that
+1:08:07 group kind of became stagnant and we've
+1:08:09 turned it into a showroom and design
+1:08:09 showcasing um group. So maybe go join
+1:08:13 that. Chief architect design comments is
+1:08:17 what this just turned into. And it
+1:08:17 became a public group. And we've already
+1:08:22 got another 200 members since I
+1:08:22 announced this just a few days ago on
+1:08:27 New Year's Eve. So go check that out.
+1:08:27 And as always, thank you for joining the

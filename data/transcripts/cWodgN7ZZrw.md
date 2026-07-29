@@ -1,0 +1,2078 @@
+---
+videoId: cWodgN7ZZrw
+title: Matterpak Scan Session 1-VIP Members for Chief Architect X15
+url: "https://www.youtube.com/watch?v=cWodgN7ZZrw"
+status: imported
+---
+
+# Transcript
+
+0:03 VIP what we
+0:05 doing remodel workflow we're in our
+0:08 remodel
+0:10 workflow month here December holidays
+0:14 it's good time to go over this stuff get
+0:17 a nice refresher before the new year um
+0:20 here's what I've got I got a project
+0:22 that I just I started
+0:24 and um so this is a matter pack scan if
+0:27 you haven't seen it go check out the
+0:29 other video in regards to this
+0:30 particular method so we're using a
+0:32 reference display to see this matter
+0:34 pack span scan so that when we do
+0:37 something like delete a wall it's not
+0:40 it's not actually
+0:41 rebuilding the entire model it's just
+0:46 rebuilding this model not the matter
+0:49 pack scan which makes a huge difference
+0:51 because the matter pack scans you know
+0:53 400,000 poly something like that so um
+0:56 this particular matter pack scan if we
+0:59 actually come in in here and we can
+1:01 always click on our reference display
+1:04 and change this glass house to standard
+1:07 just to take a look and and that takes a
+1:10 little bit of of a refresh here so this
+1:12 takes a little bit of time as we're
+1:13 changing the rendering technique um this
+1:17 particular scan is very very clean and
+1:22 so I think
+1:24 that um there's no ambient light in here
+1:27 so it's a little bit dark but I think
+1:29 that this might be from the new matter
+1:32 pack Liars um because this scan is one
+1:35 of the cleanest looking scans I've ever
+1:37 seen so that's one thing um again go
+1:41 check out that other video because I
+1:43 turned the symbol smoothing down on the
+1:45 matter pack skin uh down to zero and
+1:48 that makes it so that I see all the IND
+1:50 individual Vector lines popping in and
+1:52 out of the walls that I'm drawing and so
+1:54 that makes a big difference when we're
+1:55 drawing this notice that there's a
+1:57 glitch in Chief I don't know what this
+1:58 glitch is but it turns my
+2:00 it turns my terrain pink um so that's
+2:05 just something so the next thing is I've
+2:07 got a a PDF from that mattere scan and
+2:10 now I want to prep that PDF and I use
+2:12 Photoshop to prep that PDF so I'm going
+2:15 to go ahead and and fire up Photoshop
+2:17 we'll switch to that screen you're going
+2:19 to see your duplication effect there for
+2:21 a second and we'll just go in and open
+2:24 and locate that PDF now I've gone over
+2:27 this a number of times we go over this a
+2:29 lot in the Photoshop Club is a great
+2:31 just technique for getting a PDF be kind
+2:35 of a traceable PDF so first of all I
+2:38 need to find who my client is and then
+2:41 get into my
+2:42 projects and here we go here's my PDF so
+2:46 it's a single screen shot from
+2:49 matterport and then I'll just get into
+2:51 my
+2:53 actions and very quickly I have a PDF
+2:56 processing set of actions so I'm G to
+3:00 use this green overlay colorize and I
+3:02 just click play and then I'm going to
+3:03 hit continue through and through so it
+3:06 deletes that background and then it
+3:08 turns um all the black fill into green
+3:11 fill very nice and then I'm just Control
+3:13 Alt shift W to export this and I'm
+3:17 making sure that this is a PNG format
+3:20 with
+3:25 transparency and I'll throw it in that
+3:27 same folder now here's the problem
+3:30 I always do this it would have been
+3:32 really great if I had copied the
+3:33 directory that I pulled that from so
+3:35 that I could paste it back when I went
+3:36 to go save because otherwise it'll just
+3:38 open to the last save location so just
+3:42 you know little tips to speed things up
+3:44 so there we go I've got that PDF it's
+3:48 processed let's switch back to our main
+3:51 screen and then I'm going to go find
+3:53 that location again this would have been
+3:55 a great opportunity for me to just have
+3:57 known that um location now notice here I
+4:01 must have saved in the incorrect
+4:02 location because we're not seeing that
+4:04 document
+4:09 right where did I save it then oh there
+4:12 it goes just needed an update a little
+4:15 refresh so from here I like to take this
+4:18 snap this to my snazzy zones that makes
+4:21 it real easy for me to just drop in in
+4:24 the plan
+4:26 view that PNG there we go cool so we
+4:30 know a couple things we know some
+4:32 Dimensions just based on the image
+4:34 itself right so we've got 137 by 10t 7
+4:37 I'm going to take something that's got
+4:39 um pretty clear lines and something
+4:42 that's pretty large right and that would
+4:44 be a great starting point so um this
+4:47 kitchen in particular is 24 foot 6 so we
+4:51 can just take this
+4:53 image make sure we're selecting it and
+4:57 then do a point-to-point resize
+5:04 and this is going to be that 24 foot6 24
+5:08 foot
+5:10 6 zoom out a little bit and it's pretty
+5:14 clear Which floor this is because I
+5:15 already did a little bit of tracing so
+5:18 it should be easy enough for me to come
+5:20 in here do a little pointto
+5:23 point and typically I turn off these
+5:26 grid
+5:28 snaps okay so the next thing I do when
+5:32 I'm tracing versus when I'm um just
+5:37 drawing or doing new design is that I'm
+5:40 going to turn off my layer fill in this
+5:43 case so we're going to do um we're not
+5:45 even going to do main layer only we're
+5:47 going to turn off wall layers and this
+5:49 makes it so my wall layers are
+5:50 see-through so this makes it really easy
+5:52 to trace and then the other thing I
+5:54 might do is I might turn the the color
+5:56 on these uh to Black so they can see
+5:58 them really clear clearly or I might
+6:00 even turn them into um a color and then
+6:04 I'll turn the line weights on so now
+6:05 it's really easy to see this the last
+6:07 thing I like to do is I like to set my
+6:09 snap grid unit when I'm first doing a
+6:11 matter pack scan I like to set it to
+6:13 like inch and a half that's a little bit
+6:15 you know larger than I typically would
+6:17 and so um usually it's on an eighth of
+6:19 an inch so this is just to help me to
+6:21 bump in place this is um in particular
+6:24 this is useful when I'm tracing in a 3D
+6:27 view all right so there we go and we've
+6:30 got some walls that are out of place I'm
+6:32 going to actually kind of bump the scan
+6:34 itself over a little bit and try to get
+6:37 this close because I know some of these
+6:40 walls let's see I believe these walls
+6:43 down here are kind of close let's just
+6:44 take a look see if we can't Orient
+6:47 oursel so here's that
+6:50 turret and are we close on the turret
+6:53 we're going to go into the building and
+6:55 we're going to see are these Vector
+6:56 lines kind of popping through are they
+6:58 accurate
+7:00 can't really tell right now um that's
+7:02 kind of hard to tell let's go look at
+7:04 some other
+7:06 sections trying to look for a wall
+7:08 that's kind of half in half out looks
+7:10 like it might be aligned perfectly and
+7:14 that wall looks pretty close and this
+7:16 wall looks a little
+7:19 off so to me it looks like we're in this
+7:22 location right
+7:23 here it looks like if we looked at that
+7:27 camera the geometry is actually inside
+7:30 of the wall right so that means that my
+7:33 actual wall needs to bump um which looks
+7:37 about right for the scan and then the
+7:40 scan also looks like it could go down a
+7:44 hair so this is looking close and so
+7:48 from here let me trace and then look at
+7:50 the scan so I'm going to adjust these
+7:51 based on what I'm looking at here right
+7:55 and this is where I just like to use
+7:57 that bump and that bump is set to be a
+7:59 little bit larger than
+8:01 usual let's get these align and then go
+8:04 check out the scan itself and see how
+8:06 far off we
+8:07 are so this is going to be a long
+8:09 session I'm not going to do a lot of
+8:11 pausing I'm just going to keep working
+8:12 and if I pick up on some cues and some
+8:14 things you might want to know about I'll
+8:17 mention
+8:18 it let me turn off snap grid
+8:24 units all right let me go look at this
+8:26 turret see what it's looking like
+8:30 this particular contract by the way is
+8:32 only walls doors and windows and levels
+8:37 mind you I've got to get the structure
+8:39 correct too beyond that everything else
+8:42 is outside of my scope so moldings all
+8:45 these little you know details that you
+8:47 might see in this actual project that's
+8:49 all outside of the scope um it
+8:51 definitely looks like this particular
+8:53 wall is not in alignment so our scan's a
+8:58 little bit off from here
+9:00 here so it looks like our scan wants to
+9:03 go
+9:06 up and for scan wants to go up so does
+9:09 everything
+9:12 else it's tough to get this lined up but
+9:14 once you do makes a big difference takes
+9:18 a little bit of effort though let's see
+9:20 what this is looking
+9:23 like actually I think I had that in the
+9:25 inverse right that moved the
+9:28 wall no this is looking closer we got
+9:31 some in andout
+9:33 going these all look pretty good this is
+9:35 a little off let's take a look at
+9:39 this so that's a it does look like this
+9:42 could have gone back it does look like
+9:44 this could have gone back
+9:46 one and in fact it's supposed to go the
+9:49 other
+9:52 way we want this forward so if that's
+9:55 the
+9:56 case it's kind of like that so we want
+10:00 this
+10:03 forward see what that looks
+10:07 like yeah that's looking
+10:10 better
+10:12 okay so maybe we're in alignment now
+10:16 let's just try it out uh that's
+10:18 interesting this wall lines up with this
+10:19 wall wonder why the scan looks so
+10:22 different um and then we've got some
+10:24 geometry that doesn't seem to be in
+10:28 existence in the this 3D
+10:30 scan yeah there's a whole room here
+10:32 that's not showing up oh maybe this is
+10:35 part of this upstairs
+10:38 section
+10:41 interesting do I have the
+10:44 wrong rooms laid out here that's funny
+10:48 no I don't believe
+10:50 so um is this the upper
+10:57 tet I believe I'm correct
+11:01 here okay so it's showing the garage
+11:04 above and that's from this all right so
+11:08 somehow there's a garage scan in here
+11:09 that didn't get
+11:11 Incorporated that's fine we'll just draw
+11:14 this
+11:14 [Music]
+11:21 through and another kind of important
+11:23 thing here that we're not really paying
+11:25 attention to is what's the wall
+11:26 thickness here but it actually looks
+11:27 like this wall thickness might be close
+11:30 to
+11:38 correct so the scope of work is mainly
+11:40 going to be on this floor so that to me
+11:43 tells me that this floor takes
+11:44 precedence over every other floor so I
+11:46 want this floor to be accurate so if
+11:48 there's a discrepancy between one floor
+11:50 to the next this is the floor that's
+11:51 going to take
+11:53 precedence got a bay window here it's
+11:55 probably going to I'm going to work on
+11:57 little details like that at last I'm
+11:59 going to get um walls windows and doors
+12:02 set in place first before I start
+12:03 working on anything like
+12:06 that um it looks like the reason I was
+12:08 seeing some something funny in the scans
+12:10 here is because we got a bunch of
+12:12 Cabinetry kind of same thing here got a
+12:15 family room and it looks like it's
+12:16 probably got some built-ins stuff in the
+12:27 way
+12:31 and then we got some real off angle
+12:33 stuff here um which is too bad I don't
+12:35 like off angle uh it tends to make me
+12:38 feel like there's a mistake
+12:43 so pretty rare to see buildings built
+12:46 with super off angle
+12:56 walls okay so we got some funny things
+13:02 and this is going to be an interior wall
+13:04 I'm not too worried about interior
+13:06 versus exterior walls right now I'll
+13:07 clean them up as I
+13:11 go this almost looks like it was an
+13:13 addition or something kind of
+13:17 funny okay that's about
+13:20 right Patty
+13:24 outside all right so
+13:27 that's most of the exterior walls to
+13:30 just a little fly through now something
+13:32 that's nice to do here is turn on your
+13:34 section Cuts let's just drop this into
+13:37 one of my fancy zones so we can even see
+13:39 I like to drop it into the right fancy
+13:40 Zone that's why I've got one over here
+13:42 and then Top Cut section slider kind of
+13:46 bring
+13:47 this up like that and then we can just
+13:49 take a breeze through and see so it does
+13:52 look
+13:54 like yes walls encapsulated here that's
+13:58 pretty good
+14:00 good both sides of the wall encapsulated
+14:02 here on the scan that's pretty
+14:08 good um this wall looks like it's a
+14:11 little bit off might be able to move
+14:18 it and then the last thing to check is
+14:20 kind of the
+14:22 dimensions right check out if they're
+14:24 all lined up or not and then obviously
+14:26 we're we're seeing that I've got some
+14:29 um interior walls that are showing as
+14:32 exterior type
+14:36 walls so the rest of this is
+14:38 tracing Trace Trace Trace simple
+14:42 enough I will put a pause on this I'm
+14:44 going to trace for a while I'll be right
+14:46 back and pause for a second as I was
+14:49 drafting realizing yeah you know what I
+14:51 got a couple tricks while I'm drafting
+14:53 and that's a big thing so I'm an easy
+14:55 thing if you didn't know it already here
+14:56 I go I've got a 2x4 wall and actually I
+14:59 think it's a 2x6 wall so it's easy to
+15:01 come in here and then just plus two
+15:04 right here right in the thickness
+15:06 section okay and that automatically
+15:09 creates a new wall type so now
+15:11 everything that matches that all those
+15:13 parameters it's going to be that same
+15:15 wall type and then I'll drag this and as
+15:18 I'm dragging it I want you to notice
+15:19 something I'm going to drag this but as
+15:22 I'm dragging it down look on the right
+15:23 hand side of your screen you're going to
+15:25 notice that I can drag this over and
+15:27 make sure it snaps so that that
+15:28 something's in alignment so um that's
+15:31 kind of um a trick I Implement quite
+15:34 often because the main trick here is I
+15:36 want to make sure that this is lined up
+15:37 with the exterior wall because that
+15:38 would be true right so there we go
+15:41 couple little tips and tricks let me
+15:43 drop in a couple other ones um for this
+15:45 corner you just drag past so I I dragged
+15:49 to this point and then took my
+15:51 continuation time and and and brought it
+15:53 back and that creates that corner so
+15:55 that's another thing um the other thing
+15:57 is to constantly ly look for um the
+16:00 order of operations and how you're
+16:02 drawing so I started drawing this
+16:04 interior wall even though I was drawing
+16:05 all these interior walls when I got to
+16:07 this interior wall I came up and looked
+16:09 hey does this snap to the exterior wall
+16:12 at some break and it in fact does so I
+16:14 made sure I drew from this side as
+16:16 opposed to this other side and now I
+16:18 know that this is probably an alignment
+16:21 everything's kind of lining up quite
+16:23 well so I think that's something to note
+16:25 as well and then this little wing wall
+16:28 here looks like it probably has
+16:30 something to do with this column and
+16:31 this column so that's why it's nice to
+16:34 have the matterport Pack scan to come in
+16:36 here and take a look at the actual
+16:38 structure because it might be that I
+16:41 want to create a wall here with a um
+16:44 door opening in case that there's a
+16:46 header in place so let me uncheck this
+16:48 cross-section slider and see what's
+16:50 actually happening so the next thing to
+16:54 note is we're getting into some details
+16:56 where I need to make sure that my floor
+16:58 plat forms are all set up correctly so
+17:00 how do I do that I'm going to get in
+17:03 here I'm going to choose one of my
+17:04 already built cameras let me drag this
+17:06 back a little bit let's open this up
+17:09 and if you hadn't already guessed we're
+17:12 going to set a reference display now I
+17:14 draged this camera back that was exactly
+17:16 the wrong thing to do let me actually
+17:18 bring this camera forward would make a
+17:20 lot more sense so I'm going to bring
+17:22 this camera forward we'll go back into
+17:24 it and then we'll just click on our uh
+17:28 change floor reference and we're going
+17:30 to use that scan
+17:31 only same thing we want that glass house
+17:34 to show
+17:40 up so with that glass house showing up
+17:43 it's clear to me that our ceiling height
+17:45 is up here okay and notice I had already
+17:48 set the floor height for the floor below
+17:50 and this was just by pulling some CAD
+17:51 lines I'm going to do the same thing
+17:53 here all right so I'm going to pull a
+17:55 cad line I'm going to pull this CAD line
+17:58 left to right to kind of locate where my
+18:00 floor is so here's my floor and then
+18:03 from there I'm going to drag this up
+18:05 straight up and I'm going to hit
+18:08 somewhere right in here but it might be
+18:10 nice to actually draw this through as
+18:12 well so we're going to kind of try to
+18:15 find that Medium ceiling median ceiling
+18:18 area if you will so the thing we could
+18:20 do here is edit active View and let's do
+18:24 a back clip all right and the back clip
+18:28 let's make the back clip after 24 in
+18:30 this should make it way easier to kind
+18:32 of see that ceiling line and maybe we'll
+18:35 add a little bit more of that let's make
+18:37 it something like 60
+18:39 in all right so it's really easy to see
+18:42 where that floor line is right so the
+18:44 floor lines right
+18:45 in I'm kind of looking at my crosshairs
+18:48 right about there that's about where the
+18:50 floor line
+18:51 is
+18:54 so let's pick up this ceiling line next
+18:58 so so I'm looking at my crosshairs again
+19:00 I think that's about right something
+19:02 along
+19:03 there yep as I drag that line through
+19:06 that looks about right and then we
+19:08 know that floor is right here so this is
+19:11 a finished
+19:14 floor to my cad ceiling line and I'm
+19:17 just going to hit tab enter pick up that
+19:19 96 and a quarter well that's very close
+19:22 to just 96 right so um that's the
+19:26 existing Fe ceiling let me carry
+19:29 through let's do this again so ex
+19:33 existing ceiling
+19:34 was 0 let's do this let's go so we're at
+19:38 a 108 so we're just adding 12 inches so
+19:41 then the floor defaults for the second
+19:44 floor we're going to add 12
+19:50 in now we do need to build a new floor I
+19:53 wish they just gave us the option to
+19:54 build a new floor from that dialogue box
+19:56 that'd be really great so we know we can
+19:58 do in if you're on a PC alt B right so
+20:02 that's alt B and then o for floor and
+20:05 then build new floor is just going to be
+20:09 in DW new floor from second floor let's
+20:12 just make a blank
+20:14 one or I don't know we'll adjust it
+20:17 that's
+20:18 fine now I don't know what the structure
+20:20 is yet we need to come in here into this
+20:22 cross-section View and look
+20:25 again so what's our structure looking
+20:27 like
+20:30 it made that same 24in structure but in
+20:33 actuality it's more like a what are we
+20:36 looking at here 15 inch structure that's
+20:38 kind of a funny one so third floor let's
+20:42 open this up let's get into the floor
+20:46 structure
+20:48 and I want to say that this is probably
+20:51 a
+20:52 14inch
+20:57 TGI
+20:59 see what that does all right we're
+21:01 getting very close and then we could go
+21:03 look at the scan and take a look some
+21:06 things have should have shifted around
+21:09 yep as you can see so now we are seeing
+21:12 that beam so even though this is a
+21:14 column it would be nice to
+21:18 put to put a doorway
+21:24 here and let's just do a little bit here
+21:27 yeah ceiling's close it's not quite
+21:30 there's a little discrepancy there let's
+21:32 see what the floor is looking like oh
+21:34 that floor is really close as well a
+21:36 little bit of discrepancy it looks like
+21:39 the floor needs to go up
+21:41 here and the ceiling needs to go down so
+21:44 there you go so I'll fix that in a
+21:46 little
+21:48 bit now let me get back to my
+21:51 working so we know now that I think I
+21:55 would like to draw a wall through here
+21:57 now let's look at that column going the
+21:58 other way yep in fact should be a
+22:01 doorway going the other way as well and
+22:04 this meets a little half wall that the
+22:06 stairs are going to intercede with and
+22:08 these stairs are going to be complicated
+22:10 now my contract does not state that I'm
+22:12 doing stairs but I think I'll do it just
+22:15 to be
+22:26 nice
+22:34 so this wall is clearly a lot
+22:38 larger than what I've got drawn so let's
+22:41 kind of draw through here and see 11inch
+22:45 wall interesting
+22:55 one that's a funny one
+22:59 see if that looks right let's just scoot
+23:01 this over I'm just going to just nudge
+23:03 this with my holding
+23:06 control and then I'm going to redraw
+23:08 this
+23:09 section all right and let's just throw a
+23:12 doorway in here real quick easy to do
+23:17 that we know that this is a
+23:20 column and how do we do this how do we
+23:23 draw this doorway so that it meets with
+23:25 another doorway and also let's just call
+23:28 this no Jam doorway got a quick tool for
+23:33 that when you connect these two does a
+23:35 delete I don't believe
+23:40 so right so this is going to cause a
+23:42 little bit of a bridge here and is the
+23:45 bridge encapsulated in the column no
+23:47 it's not so that becomes problematic so
+23:50 what's another method for this um you
+23:54 know we could just put
+23:55 in um a pony wall assembly for this and
+24:00 so instead of doorways we would
+24:03 do well we could leave the
+24:06 doorways and we can say that there's a
+24:08 pony wall here but before we even delete
+24:10 the doorways let's just try a couple
+24:12 things I want to move this up I like to
+24:14 move this up 12in increments at a time
+24:16 to see where this is lining up and if we
+24:20 switch this to a glass house on a glass
+24:24 house and we're paying
+24:26 attention
+24:29 looks like it needs to go up another
+24:30 eight inches so I might just hold
+24:32 control and roll with
+24:37 this looks like it's going up about this
+24:40 let's see if it's a solid
+24:41 number four inches so what's our overall
+24:44 we're at 96 in that makes a lot of
+24:51 sense so same thing
+24:54 16 and now we can take these two walls
+24:57 together let's open them
+25:00 up and oh I'm sorry I was selecting the
+25:04 two doorways let's grab the two walls so
+25:07 wall number
+25:09 one and we're going to have to break
+25:11 these so we're going to have to break it
+25:12 right at the
+25:15 door same thing break it right at the
+25:19 door and so there's wall one there's
+25:22 wall
+25:26 two and
+25:29 wall types we're going to make a pony
+25:30 wall and this is going to
+25:32 be room
+25:34 divider and that's going to be Hideout
+25:36 floor is
+25:38 96 maybe we'll make it 95 and 58 or
+25:41 something like
+25:43 that and let's see what that looks like
+25:46 it's going to get rid of that column see
+25:49 got rid of that and so we can put a
+25:51 column in its place now notice that it
+25:53 leaves a little bit of a gap here but
+25:54 that's okay I think the column's going
+25:56 to cover it and then everything else
+25:58 looks
+26:00 okay so there's a little discrepancy
+26:03 here right at the top I might need to
+26:05 play with
+26:07 that but for the most part yeah that
+26:10 seemed to have worked um I have a couple
+26:13 other methods I would be willing to try
+26:20 um if you're going to
+26:22 mole you can't mole these doors yeah no
+26:25 I'd have to think about that on the Fly
+26:27 I'm I feel like it's escaping me
+26:30 so let me move back
+26:33 into my top and then I'm going to start
+26:36 I'm going to continue and finish drawing
+26:38 what I've got going on here so I'll make
+26:39 a little break easy to make a little
+26:41 break couple
+26:43 breaks rotate this up or bring this
+26:56 back
+27:05 don't know if you noticed my cursor if
+27:07 that's bugging the heck out of you
+27:09 that's usually a quick
+27:11 fix just ignore off ankle
+27:15 wall here we
+27:20 go and when I changed that interior wall
+27:24 type to the thicker interior wall now
+27:26 I'm drawing with that wall type
+27:33 make sure that this guy is aligned with
+27:35 this guy Center that up that's easy
+27:37 enough and got a little funny extension
+27:40 here that's tough so I'll usually draw
+27:43 past this because it's a little bit
+27:45 funny right and we're going to
+27:49 encapsulate and then once we encapsulate
+27:53 you'd hope that it sticks with but
+27:55 actually it's tough because
+27:59 let's not encapsulate I think we're just
+28:01 going to edit this let's go let's make a
+28:04 break and what is this going to
+28:09 be curious what this even is so let's
+28:11 make this that 11inch wall
+28:25 again and if we get too close well
+28:27 because it's a totally different wall
+28:28 type should stay that's right
+28:36 okay here we go here this transitions
+28:39 into some kind of
+28:47 rail see if I can't pick this snap
+28:52 up that snap wants to be further
+28:56 back
+28:58 I'll deal with these stairs in a little
+29:01 bit still working on these interior
+29:14 walls I think this is going to get
+29:18 bumped let's change those bumps because
+29:20 we're close enough we change these snap
+29:22 grids so let's just go 0. five for
+29:26 now
+29:33 that's all lined up now
+29:41 cool all
+29:43 right we're getting
+29:52 there got a funny little off angle thing
+29:54 here that I don't believe is probably
+29:56 true so so stick with
+30:03 our our guns
+30:08 here let's see does this break at all is
+30:11 this a funny break at all uh we've got
+30:13 some funniness going on
+30:16 here so this carries
+30:19 through all the way
+30:26 through
+30:38 let's just do new walls are top of
+30:45 this I don't know what's happening here
+30:47 this looks like it's some kind of a
+30:49 closet or Pantry or something I'm just
+30:50 going to get rid of these for
+30:56 now
+31:25 this is a funny one got another 11 in
+31:28 section
+31:30 here so break
+31:33 that at our 4 and a
+31:38 half and I'm going to reverse this wall
+31:44 side there we
+31:53 go that's mainly it on this floor
+32:00 so I want to take this image and copy
+32:04 paste
+32:06 hold and I'm going to
+32:09 cut so that it's just that main
+32:15 section and then take this next
+32:18 image and let's try to line this
+32:26 up
+32:30 right we want to line this
+32:33 up okay now I'm going to cut this go up
+32:38 a level paste
+32:40 hold and let's copy paste
+32:45 hold cut
+32:50 this and we're going to do the same
+32:52 thing again we're going to grab the same
+32:55 well let's see do we know that that
+32:57 corner is going to line up the same way
+32:59 I'm not actually sure let's go look at
+33:02 the camera
+33:15 here know that the turret was lining up
+33:18 so we know that that corner of the
+33:20 building lined up and then down at the
+33:23 lower floor we do know that this corner
+33:25 lines up as well
+33:27 um although this could be underground
+33:30 and it could be concrete stem wall which
+33:33 means it could be more narrow so let's
+33:35 just see how are we locating this so I
+33:37 want to go based on can't go based on
+33:40 the outside wall That's challenging so
+33:42 it's going to be tough to line up this
+33:44 lower floor is the point let's just cut
+33:47 this let's go down a couple floors
+33:51 paste and now we can crop it
+33:57 I'll say and cut it before but cropping
+33:59 it it's really what we're
+34:05 doing so I'm curious if this isn't a
+34:08 stem wall and the way the scan works
+34:10 just put some you know standard
+34:14 size walls in
+34:17 place because judging by the scan it
+34:20 looks like it wants to go up a little
+34:21 bit Yeah I imagine that this is
+34:24 all stem wall set up
+34:27 now something we can do is we can always
+34:29 go look at the scan itself we can open
+34:30 that file up right so we don't need to
+34:33 go through the open menu we could go to
+34:35 the project browser because it's going
+34:36 to be here because we're using as a
+34:38 reference so from here you could just go
+34:41 into a first floor Redline camera or or
+34:43 graphical
+34:46 overview right graphical floor overview
+34:48 for underland plot plan or oh I just
+34:51 have specialty cameras here so I guess
+34:53 we just open up a working plan
+34:55 View and the let's just take a look at
+34:57 this
+35:09 thing it's G to take a
+35:14 minute and let's get out of R
+35:20 Trace yeah see if we look at
+35:25 this you can tell
+35:27 we've got some alignment problems on the
+35:29 lowest floor which usually tells
+35:33 me that this is a Dugout but we've got
+35:37 full Door full window
+35:39 here something there and then missing
+35:43 portions of
+35:46 scans and then there are windows here
+35:50 but maybe the
+35:51 lower
+35:53 half maybe the lower half has some
+35:55 partial um retention on
+35:58 it and then let's actually look inside
+36:01 of here what's going on well you notice
+36:03 right here we got a real thick wall so I
+36:07 do believe that this is you know kind of
+36:09 a St stem wall setup that's going
+36:12 on it's just and you just determine that
+36:15 by like looking at the alignment of
+36:17 everything use use your logic right like
+36:19 look how thick this wall is that's
+36:21 what's going on
+36:24 so that way when we go look here here we
+36:27 know we got to kind of move this around
+36:29 based on the thought that it's not in
+36:31 alignment with the
+36:39 upstairs and because I already have some
+36:41 walls in place and the walls are in
+36:43 place based
+36:44 on based on the scan it looks just like
+36:47 the turret needs some
+36:49 adjustment and it's good to come in here
+36:51 and see if we can't get it close enough
+36:53 to the point where it's going to align
+36:54 with the floor above and then we can say
+36:57 from the floor blove you know we need
+37:00 to we need that alignment tool watch if
+37:04 as I keep bumping this what happens well
+37:07 nothing but let's do this let's turn
+37:09 this on and let's say that we're going
+37:11 to
+37:13 add and we're going to add
+37:16 itself
+37:18 right reference floor display existing
+37:21 floor let's
+37:23 go floor above
+37:38 where's my
+37:39 working it's called default
+37:44 set so scan itself is saying that these
+37:48 should be out
+37:50 more so our
+37:54 PDF should really be over here we're
+37:56 looking at the scan compared to the
+37:59 turret although the turret just looks
+38:02 off so maybe the scale this is just a
+38:04 little bit off we might need to rescale
+38:06 this
+38:12 image which would be a bummer oh you
+38:15 know what this is this is showing us our
+38:17 top floor but that turret shouldn't be
+38:18 much different in size except for that
+38:20 we got stem walls so it's inside of
+38:22 those walls so that's that's true
+38:24 again well it's a little bit of a brain
+38:27 twister isn't it so these are going to
+38:29 be inside of the T walls because they're
+38:31 stem
+38:34 walls
+38:36 okay I don't think that the 3D is that
+38:39 helpful in this case and so there's
+38:42 something to to keep in mind we could
+38:44 have taken this scan in blender and cut
+38:46 it floor by floor um and that might have
+38:50 helped us do a few things so um and I'd
+38:53 want to go take a look at that so let me
+38:55 let me see if I can do that because it'd
+38:56 be a really cool exercise so we're going
+38:58 to
+38:59 pause all right so we're in blender
+39:03 going delete this Center Cube going to
+39:05 get in the file menu import and we're
+39:07 going to import in this case it's going
+39:09 to be a wavefront ob object and I need
+39:13 to La navigate to my Dropbox folder I
+39:18 hate the way that blender
+39:20 navigates
+39:23 um but here we go
+39:28 and there's that object obj file okay
+39:30 and there's it there we go there's my
+39:32 house so I'm going to click on the X and
+39:34 then zoom out from here and oops I
+39:38 panned just a little bit I don't know my
+39:40 hotkeys here I know that my 3D mouse
+39:43 works so I can kind of get this center
+39:44 of the screen and then hit X again yeah
+39:46 that works so I know the Tab Key gets us
+39:50 into edit mode which is perfect and then
+39:54 in the left hand side here when we're in
+39:56 in edit mode we have the knife tool um
+40:00 or The Loop cut cut mesh Loop and slide
+40:03 it let me try the loop cut I'm going to
+40:09 click somewhere here I don't know that
+40:12 the the loop cut works or I don't know
+40:14 how to use it rather I'm going to click
+40:16 with a knife just by itself and then
+40:19 click again with the knife and there we
+40:22 go it created a bunch of different
+40:24 cuts again I don't know what I'm doing
+40:27 here so I'm super new at blender I I
+40:30 always just look up a tutorial to get
+40:32 what I want and then that's it um so I
+40:36 don't know how to get off this tool
+40:38 space bar seems to be working but that
+40:39 seemed to done some kind of play pause
+40:42 thing this software moves so fast I
+40:44 never keep up with it I know that I want
+40:47 in the top right hand I want a toggle
+40:49 X-ray and then I can make a selection of
+40:54 everything to the left of those vertices
+40:57 hit delete and then hit V for vertices
+41:00 and there we go and that should be it so
+41:03 if I move my 3D mouse around this again
+41:05 or kind of rotate this
+41:07 viewport that should be it now tab to
+41:09 get out of edit mode there we go there's
+41:12 my
+41:16 object everything's been
+41:20 cut so is this helpful let's check it
+41:23 out so let's get in file export we'll
+41:26 just file um export as an obj
+41:29 again once again really helpful if you
+41:33 save the location of where you had
+41:36 something so Untitled obj we're going to
+41:38 say this is first
+41:41 floor so now that I have that exported
+41:45 let's get back into a chief and let's
+41:47 see if we can't import that into our
+41:49 project so import 3D symbol I don't want
+41:52 to drag and drop it's just my preference
+41:55 I like doing it this way
+41:57 um and once again save your save your
+42:01 directory so you can just paste in the
+42:04 navigation bar so I don't have to keep
+42:06 you know searching through here so what
+42:08 I mean by that is go up here copy now
+42:11 you have it in your clipboard so here's
+42:13 that first floor obj um don't want to
+42:16 add the symbol to the
+42:17 library let's show Advanced options
+42:20 press okay and
+42:22 then um we can use the existing texture
+42:25 instead of imported texture and do it
+42:27 for all remaining conflicts because we
+42:29 already imported this and it's the same
+42:31 textures simple
+42:35 enough now that'll do its thing this
+42:37 should be a much fewer polygon count so
+42:41 that's something to keep in
+42:46 mind and I'm importing it into the wrong
+42:49 project also keep that in mind I should
+42:51 be importing it into the scan
+42:55 only
+42:59 there we go so there's what we're
+43:01 importing right and it's only got 45,000
+43:05 faces so that's kind of helpful in a way
+43:08 um I kind of like that that we're doing
+43:10 this now when I change the drawing unit
+43:12 to meters it's going to ask me it's
+43:14 going to bring up this dialogue
+43:16 again that's okay the other thing it's
+43:18 going to do is it's going to reload the
+43:20 model so it's going to take a little bit
+43:21 to reload the model but thankfully it's
+43:23 only 45,000 faces as opposed to 4
+43:26 100,000
+43:29 faces now this should be to scale so
+43:32 let's turn off our reference display and
+43:34 put this in
+43:44 place all right press
+43:47 okay now we get to place this it's going
+43:50 to be in confliction to
+43:52 start that's fine and it's created a cad
+43:55 detail right right so let's turn off our
+43:57 reference display and instead let's just
+44:00 grab this and isn't this cool this is
+44:03 just kind
+44:04 of maybe this is useful let's check it
+44:12 out let's see how well this lines
+44:19 up kind of interesting It lines
+44:23 up let's get our PDF out of the way for
+44:26 a
+44:27 second so we're just going to um we can
+44:30 hide this layer if I'm real careful see
+44:33 if I got that right I did and then let's
+44:35 turn on our wall fill just to check this
+44:50 out so if we move this fixture just a
+44:53 little
+44:54 bit
+44:57 very cool I think this is useful I think
+45:00 this could help in some cases you can
+45:02 really clearly see where some walls are
+45:05 let's just try tracing it for a
+45:08 bit coming up with new little tips and
+45:11 tricks here so it's clear that there's
+45:13 wall there it's clear that there's
+45:16 probably wall here something going on
+45:19 here you would
+45:22 think it's clear that there's wall here
+45:28 see if I can't get this lined up perfect
+45:30 here it looks like these walls are
+45:33 possibly
+45:37 thinner there's some discrepancy up
+45:45 here so kind of an interesting take now
+45:48 let's take this object let's cut
+45:52 it crln for a new plan file
+45:56 let's get rid of all
+46:01 this paste
+46:03 hold contrl alt s to save as and we're
+46:07 going to say this is first floor
+46:11 only okay first floor only and what do
+46:15 we get to do alt V brings up this little
+46:19 window right here where I get to paste
+46:22 that in it's going to get me to the
+46:23 right location finally I figured that
+46:25 out
+46:27 there we go so now we have a new plan
+46:30 file let's close it down and then in the
+46:34 scan only working plan view we don't
+46:37 need that open at the
+46:40 moment let's turn on our reference
+46:43 display again so here's our reference
+46:45 display to the three story scan let's
+46:48 actually change
+46:54 this to to our first floor
+46:59 only and check that out cool so now we
+47:03 have that as a reference we had the
+47:05 floor above as a
+47:07 reference um clearly there's going to be
+47:09 some wall alignment issues till we' kind
+47:11 of take a guess and check at how thick
+47:13 that exterior wall might be so this
+47:16 first floor is going to be the most
+47:18 problematic floor for me and then active
+47:21 layer display options let's just turn on
+47:23 that PDF display again
+47:33 but we are kind of getting a stacking of
+47:35 information here right this is looking
+47:39 pretty close it does look like these
+47:41 walls are off so let's see what's going
+47:43 on with
+47:49 that now my opinion is if you're able to
+47:53 get to a site and just measure it and
+47:56 and you're getting better and better at
+47:58 Chief just by
+47:59 practicing then you don't even need a
+48:02 scan to do this it's going to be more
+48:03 efficient to just draw it in place but
+48:05 it is nice to have this as a backup
+48:08 right so the problem area I believe is
+48:12 right
+48:13 here where we are
+48:16 showing these walls are way in from the
+48:19 actual conditions
+48:22 right and yeah the scan shows that these
+48:26 walls are way in and so they're not in
+48:29 alignment with this um which actually
+48:32 they probably are which means we've got
+48:33 a very large thick wall here thick wall
+48:38 assembly so how do we how do we deal
+48:41 with this well I got a number of
+48:42 different methods for this
+48:45 okay so let's grab
+48:49 this let's bring this in and hey guess
+48:52 what else we get to do we can take our
+48:55 cut and use our cut to show in here but
+48:58 because we've got this kind of round um
+49:01 cabinet set up here maybe it's not a
+49:03 good idea to shortcut just yet so let's
+49:06 just use my arrow keys these are set to
+49:09 bump pretty
+49:11 heavy um and you can't use your error
+49:13 Keys unless you're selecting the top of
+49:15 the wall in this case until they give me
+49:17 that new feature I want which is Select
+49:20 next side which would be really great in
+49:22 this
+49:24 instant
+49:26 okay so we want our wall to kind of come
+49:30 through there we
+49:35 go and let's go back to that overhead
+49:37 view so it looks like this overhead view
+49:39 is right right we've got some funny
+49:41 things
+49:43 here yeah the scan itself looks very
+49:46 similar to the floor above where we're
+49:49 let's just take this this weird off
+49:52 angle wall we're going to paste that one
+49:53 in because we think that's actually
+49:55 pretty close close to
+50:01 correct something like
+50:04 that real weird off
+50:21 angle something like that and
+50:24 then yeah we see that we've got some
+50:27 kind
+50:27 of interior wall here that's going
+50:31 across like
+50:34 this across like this it's a huge wall
+50:38 or it's some built-in or something's
+50:40 going on
+50:54 there
+50:58 something like
+51:07 that
+51:10 okay while I'm bumping walls I'm always
+51:13 looking at my edit toolbar what for well
+51:16 take a look I'm going to press down one
+51:17 time look at this
+51:19 icon align with wall above that makes a
+51:23 lot of sense and remember we're taking
+51:24 precedent for the wall above okay so in
+51:26 this case that jumped it quite a ways
+51:29 let's go look at that wall above let's
+51:30 just double check this all right so
+51:33 that's centering on whatever the heck
+51:34 this is and we might need to go take a
+51:36 look at the scan to kind of figure that
+51:39 out so in that case I don't agree with
+51:41 the line with the wall
+51:50 above all right so here's a case where
+51:52 we can see the PDF's not quite lining up
+51:54 with the geometry of the
+51:56 scan so it looks like the PDF itself
+51:58 wants to bump a little bit so I clicked
+52:01 on that I'm looking at the Active layer
+52:03 display to see pictures PDF boxes so
+52:05 I've got the right thing selected and
+52:07 I'm just bumping this a couple times and
+52:10 that looks maybe
+52:13 closer right
+52:18 there and my bump set a little heavy
+52:23 again let's kick it back down to just
+52:25 one
+52:38 inch so that's the case I think we can
+52:42 Line This turret up pretty
+52:46 well now once we get the correct size
+52:49 for this we're going to have to realign
+52:51 it again I'm just trying to get this
+52:53 close to kind of determine where I'm at
+52:55 before I start determining what the size
+52:57 of these stem walls are going to be and
+52:59 it's probably going to be that we're
+53:00 doing a pony wall assembly for
+53:04 this um so that part of its stem Wall
+53:07 Part of its part of its uh wall above is
+53:11 what my guess would
+53:15 be and then something that's stipulated
+53:18 in my contract is anything that is a
+53:20 questionable wall will be painted pink
+53:23 meaning it's going to be on a different
+53:24 l layer that's questionable and that
+53:27 layer is going to be a pink so that the
+53:29 client knows hey I found a problem here
+53:33 um and I'm not sure about you know
+53:35 what's actually the real world
+53:38 condition so there's going to be a few
+53:40 of that going on in this one I
+53:43 think and then once I finish drafting
+53:46 all this I'm going to take you know a
+53:48 real overview look at everything to see
+53:51 if everything makes sense from an
+53:53 architectural standpoint before before I
+53:55 hand it
+53:57 over now something to note on this my um
+54:02 my bid is only for about five hours so
+54:05 if this is taking me longer than five
+54:07 hours I'm losing my
+54:10 butt yeah so there's some condition here
+54:13 that's kind of
+54:15 funny right we don't know what's
+54:17 happening
+54:18 there and then I'm looking at I'm
+54:20 looking at that scan and we can also you
+54:24 know we can go into this the 2D CAD for
+54:28 this scan if I'm just tabbing through
+54:31 we're going to pick up fixtures
+54:34 right sometimes you got to click on the
+54:36 center of this
+54:38 fixture or what we could do is I'm going
+54:40 to just change my selection
+54:44 mode and I can just highlight in
+54:48 here yeah it wants to uh select the
+54:51 center of this the
+54:52 fixture somewhere in here is is
+54:56 fixtures H well that's not very useful
+54:59 let's just try doing this
+55:01 fixture fixture should be black oh we're
+55:04 using it a reference display I'm being a
+55:06 total
+55:07 Noob um
+55:11 so first floor only is default set so
+55:15 it's using the default set layer style
+55:19 for the fixture so if I wanted to be
+55:20 that a different color I'd have to go in
+55:23 there and mess around with it a bit
+55:27 what happens when we turn it
+55:33 reference there we go now it turns red
+55:35 it's a little easier to see
+55:38 yeah yeah I like that um what's going on
+55:42 here these are interior walls so these
+55:43 need to get
+55:48 redrawn yes I already drew them as
+55:50 interior walls did I no I
+55:54 didn't
+56:02 it's very windy out here today you're
+56:05 hearing wind in the
+56:09 background here we
+56:15 go so part of this is exterior wall and
+56:18 maybe it's doing this
+56:22 here and there's maybe a Chase way here
+56:25 here I don't know or maybe this is a
+56:26 closet that's going on here it's kind of
+56:29 funny looks like a very narrow closet if
+56:31 that's the case or maybe it's part of
+56:37 foundation so many things to
+56:50 consider
+56:52 okay it looks like we can align this
+56:54 here
+57:00 here and then we've got some interior
+57:03 wall set up
+57:09 here that looks
+57:12 complicated uh let's go 3 foot
+57:16 three looks like that might be close to
+57:23 correct
+57:25 here's another one of those 11inch walls
+57:27 and it's coming off of this
+57:29 side so with this selected we should
+57:33 just be able to add that four and a half
+57:34 and have it line
+57:38 up um and that's larger than 11inch wall
+57:42 so guessing it's another three and a
+57:47 half yeah something like
+57:50 that
+57:53 okay
+57:58 showing from the scan that this is back
+58:00 here
+58:10 interesting that this part has to be
+58:12 underground because there's a garage
+58:15 above so definitely going to be spending
+58:17 some time with the stem
+58:23 walls
+58:35 if we look at the scan it looks like
+58:38 these are bumped a little
+58:39 [Music]
+58:48 bit this can align with
+58:51 above for now
+59:02 and this is an interior wall and this
+59:05 exterior
+59:07 wall comes back
+59:10 here and then we got interior wall
+59:23 here
+59:30 and a little wing wall half wall what is
+59:32 this shower this looks like it might be
+59:34 a shower so maybe we'll replace that
+59:36 with shower
+59:51 wall okay so there's bottom
+59:55 floor next floor now we got top floor
+1:00:00 let's go do something else with blender
+1:00:01 I like this uh little method we had
+1:00:03 going on here so let's click on the X
+1:00:06 again get in here tight and
+1:00:09 then let's kick back a
+1:00:12 few right before we did that
+1:00:16 slice and let's just cut that Upper
+1:00:18 Floor let's cut that Upper Floor right
+1:00:20 in
+1:00:22 half I like this a lot little
+1:00:26 click um I wonder how I can bind this in
+1:00:28 an
+1:00:29 axis shift does not seem to do that like
+1:00:32 you would think it
+1:00:33 would control doesn't alt doesn't alt
+1:00:38 shift not doing what I want
+1:00:41 either um so I'm not exactly sure how
+1:00:44 you snap this on a true slice
+1:00:48 right too bad okay so there's one
+1:00:53 slice and and now I'm going to slice
+1:00:55 just underneath
+1:00:57 this so I can keep that floor intact why
+1:01:03 not so I'm cutting through that turret
+1:01:06 and then here's where I want to
+1:01:09 escape I think or maybe that didn't do
+1:01:12 anything dang
+1:01:23 it
+1:01:31 this question is did we even need the
+1:01:39 slice all right let's export
+1:01:46 this so we're going to change this to
+1:01:48 third
+1:01:53 floor
+1:02:14 alt F and then I for import and three
+1:02:17 for 3D symbol third floor
+1:02:21 object wish they just gave us the option
+1:02:24 change it to meters right
+1:02:26 now that would save this double import
+1:02:50 thing I can't wait to get someone in
+1:02:52 here that knows blender a lot better
+1:02:54 than I do I'd love to
+1:02:56 learn such a powerful tool free and it
+1:03:00 just keeps getting more and more
+1:03:01 powerful it's kind of taken over what
+1:03:03 zbrush can
+1:03:04 do it's taken over what a lot of
+1:03:07 different programs can do and it does it
+1:03:09 very easily
+1:03:10 so I haven't spent that much time in it
+1:03:13 though because I was I know SketchUp
+1:03:15 really well and so I was learning
+1:03:17 SketchUp and it's funny sometimes you
+1:03:19 got to pick the right software to stick
+1:03:21 with and I would say go learn blender
+1:03:23 and stick with it cuz it I think it's
+1:03:25 going to be around a while I think it's
+1:03:26 going to be another 30 40 year program
+1:03:29 um open source and it just it just keeps
+1:03:33 getting
+1:03:43 better
+1:03:47 okay so got to change it to meters again
+1:03:49 this one has 81,000 change it to
+1:03:53 meters
+1:03:56 Gotta Wait
+1:03:59 again okay that one took a extra long
+1:04:02 time but there we go press okay get to
+1:04:05 place it and then something that's funny
+1:04:08 here is I can turn on a reference
+1:04:10 display here and
+1:04:12 choose um that scan only if I want
+1:04:18 or let's just choose Greenly ab and
+1:04:23 let's go this is a third floor so there
+1:04:27 you go there's our third floor right so
+1:04:30 you should be able to feasibly move this
+1:04:37 scan in
+1:04:40 place close to in
+1:04:43 place and let's look at the rest of this
+1:04:45 is this looking like it's lined
+1:04:47 up it's a little bit off
+1:04:53 um
+1:05:01 bump units are set real low here snap
+1:05:05 grids come on give me one there we
+1:05:10 go yeah looks like the scan wants to be
+1:05:14 right there and so the turret seems like
+1:05:18 it's a little bit off but there we go
+1:05:20 now I can turn off that reference
+1:05:22 display and control
+1:05:24 save this is going to be third
+1:05:29 floor
+1:05:31 right and then from there
+1:05:35 um it's going to shut down that window
+1:05:38 now we're on our third floor in the main
+1:05:40 thing and then in our reference display
+1:05:42 we can
+1:05:45 add third floor
+1:05:53 only and I should have
+1:05:56 saved I'm just doing this on the fly so
+1:05:58 it's no big deal deal but I should have
+1:06:01 just saved
+1:06:03 um saved individual plan views like this
+1:06:07 but that's okay we're just kind of
+1:06:08 working through it floor by floor it's I
+1:06:10 know what I'm doing
+1:06:12 so all right so here we go and so what's
+1:06:16 going on here looks like this Wall's way
+1:06:18 out of alignment from some
+1:06:21 reason and I'm just going to nudge this
+1:06:24 a couple different ways and see do we
+1:06:26 have anything going on with the floor
+1:06:27 below no not
+1:06:31 really some kind of intermediate wall
+1:06:35 here Let's ignore all this
+1:06:41 stuff and the scan shows something
+1:06:43 completely different oh that's right we
+1:06:45 copied from the floor below that's where
+1:06:47 we got these walls from so we've got
+1:06:49 some walls that are just don't need to
+1:06:52 be
+1:06:53 here oh boy that deleted more than I
+1:06:56 wanted it to didn't
+1:07:05 it there is a turret though that's
+1:07:07 what's
+1:07:22 funny
+1:07:28 line with floor below there we go
+1:07:31 remember that floors takes
+1:07:33 precedence this is going to carry
+1:07:35 through I don't know what's going on
+1:07:37 with
+1:07:41 that something's happening in the scan
+1:07:44 here some funny
+1:07:52 stuff
+1:07:57 had a little break
+1:08:02 here what do we have here we got a whole
+1:08:05 bunch of goofiness oh this must be part
+1:08:08 of the garage
+1:08:20 huh and
+1:08:22 then
+1:08:37 wonder if that's a corner window here
+1:08:39 while we're seeing part of the model
+1:08:40 show
+1:08:41 up see how the model's through but the
+1:08:43 scan shows something the PDF shows
+1:08:45 something
+1:08:52 different
+1:09:00 Let's see we got an hour on the
+1:09:04 clock and we've got two and three two
+1:09:08 and 3/4 hour on this project so um I
+1:09:12 underbid this these scans take a long
+1:09:14 time they just do um I under bid it just
+1:09:18 slightly actually let me just check
+1:09:20 myself check myself if maybe I'm losing
+1:09:23 mine
+1:09:25 line I like knowing this stuff as I'm
+1:09:27 going it's nice to kind of check and
+1:09:29 make markers and take a um historical
+1:09:33 create historical data in terms of like
+1:09:35 these matter pack scans because I only I
+1:09:37 don't do so many of them that I have a
+1:09:39 ton of data and and know exactly how
+1:09:41 much time I'm going to spend on it based
+1:09:42 on the complexity of the job so it's
+1:09:45 nice to come in and say okay I know what
+1:09:47 I build for
+1:09:49 this oh I got some wig room I build for
+1:09:53 7 hours I didn't build for four hours
+1:09:55 I'm losing my mind so I did okay on
+1:09:57 this and that gives me some freedom to
+1:10:00 just take my time and maybe deliver a
+1:10:02 better product which I'm really happy to
+1:10:06 do if I'm making my
+1:10:09 margins and especially if I'm making a
+1:10:12 little bit over I'll spend a little bit
+1:10:13 of extra time to make sure I'm giv a
+1:10:16 very clean package so I don't know if
+1:10:18 I'm going to get to it in this video in
+1:10:20 this um if I'm going to do a standing
+1:10:22 you know six session here um but when I
+1:10:28 give this package over I'm going to give
+1:10:30 a video recording and the recording is
+1:10:32 going to explain how to turn on these
+1:10:35 reference displays or explain how to
+1:10:37 access cameras that have these reference
+1:10:39 displays on so that when the client
+1:10:42 pulls this 3D view they can see whoa
+1:10:45 that's cool there's a scan inside of
+1:10:47 here and I can actually see the geometry
+1:10:49 from the other project right and I can
+1:10:51 see that this person's done a really
+1:10:53 good job of lining everything up so when
+1:10:55 we have that established now you've got
+1:10:57 a really excellent product coming
+1:10:59 forward so they can reference the scan
+1:11:02 itself they can go and just the scan
+1:11:04 file itself you could show them how you
+1:11:05 can reference the scan file to your new
+1:11:08 geometry and vice versa which hey
+1:11:12 there's a trick in it of itself so let's
+1:11:13 get into the project browser I'm going
+1:11:15 to show you this real quick here's the
+1:11:17 scan only file right so let's open up
+1:11:19 that working plan view again and then
+1:11:22 let's pull a camera
+1:11:26 and this time we'll do the inverse we're
+1:11:28 going
+1:11:29 to choose a reference display that is
+1:11:32 our Greenly
+1:11:44 AB I got to brighten this up
+1:11:47 huh let's just go up the floor I think
+1:11:49 it's a little brighter in another floor
+1:11:51 oh no it's still dark as can be
+1:11:55 double click this interior ambient
+1:11:57 daytime ambient there we go see this a
+1:12:01 little bit better man this really is a
+1:12:03 good scan all right so check this out
+1:12:06 we're going to change for reference
+1:12:08 display choose existing plan Greenly AB
+1:12:11 Glass House sure you could do glass
+1:12:14 house or in this case you might want to
+1:12:15 look at standard rendering
+1:12:17 mode and let's see what's going on here
+1:12:20 walls should just be cutting through
+1:12:21 stuff immediately there you go you
+1:12:25 know so once I get all these doors and
+1:12:28 windows in
+1:12:29 place should just be able to kind of
+1:12:31 walk through this and see a bit of scan
+1:12:33 and and a bit of not scan right oh we
+1:12:35 got a issue there be good for me to go
+1:12:38 back and and make sure I'm showing
+1:12:40 exterior versus interior walls where I
+1:12:42 need to be showing them but yeah we're
+1:12:44 looking pretty close here right these
+1:12:47 walls are pretty close to
+1:12:49 alignment
+1:12:50 nice um my contract spefic specifically
+1:12:54 stated no moldings no columns no wngs
+1:12:58 coding no
+1:12:59 cabinets so that was all stuff to note
+1:13:03 and the price doubled if I was going to
+1:13:05 include that um so and no fireplace as I
+1:13:12 said cool I like this so we could save
+1:13:15 this
+1:13:17 camera let's do that edit active view or
+1:13:20 save view
+1:13:22 as
+1:13:35 scan with plan file I bet I could come
+1:13:38 up with a naming convention here that
+1:13:39 would be better than
+1:13:42 that and you can always come into the
+1:13:44 Right Here Close All
+1:13:45 Views there we go that gets rid of that
+1:13:48 scan
+1:13:52 only
+1:13:55 all right now where are we at what are
+1:13:57 we looking at here let's see let's come
+1:13:59 back into
+1:14:01 this um so here's a good one we've
+1:14:04 obviously got an active camera here and
+1:14:08 where is that camera would be the next
+1:14:12 question it's somewhere in here what's
+1:14:15 going on here let me turn off my
+1:14:16 reference display where's my camera
+1:14:18 where's my interior camera maybe I have
+1:14:21 the camera's layer turned off let's
+1:14:24 see cameras are turned on where is my
+1:14:27 camera oh because it was placed from the
+1:14:30 lower
+1:14:33 floor Greenly
+1:14:35 AB Floor 2
+1:14:38 three there's my
+1:14:41 camera okay so I'm going to cut
+1:14:44 this go up a level paste it because
+1:14:48 we're working on this Upper
+1:14:51 Floor we're working up here
+1:14:55 here yeah so now that that's pasted if I
+1:14:59 want to see a discrepancy somewhere I
+1:15:01 always could actually let me cut this go
+1:15:02 down store floor I wanted to see what
+1:15:05 was going on what on this lower floor I
+1:15:08 want to see what's going on
+1:15:10 here just curious here what is this so
+1:15:14 look I'm just facing my camera that
+1:15:16 right way right and now I can go see
+1:15:18 what the heck that is what's going on
+1:15:20 there that there's a little line
+1:15:23 flooring change flooring height Chang
+1:15:25 look at that so invisible wall set
+1:15:30 up cool right easy way to kind of figure
+1:15:33 out what's going on on something and
+1:15:36 then I can just close this View and save
+1:15:38 it
+1:15:40 sure there's that saved
+1:15:43 camera right so it's saved with that um
+1:15:47 with the reference display and I can cut
+1:15:49 it bring it up paste it
+1:15:54 all right and then let's continue to
+1:15:56 draw let's draw our walls in um because
+1:16:00 everything else is looking pretty
+1:16:13 good so this probably lines with some
+1:16:15 jog maybe maybe not no it doesn't
+1:16:21 okay I'm very curious what this gray
+1:16:23 line is that's showing up it's something
+1:16:25 in the raster of that PDF I wonder if it
+1:16:30 has anything to do with measurements at
+1:16:32 all and then we know this is going to
+1:16:34 come from the
+1:16:35 corner
+1:16:40 right um looks like the geometry is
+1:16:43 placing this a little bit
+1:16:45 differently than the PDF same thing
+1:16:50 here there we
+1:16:52 go
+1:16:56 so some kind of
+1:17:06 closet so I'm going to carry this
+1:17:08 through and it looks like the geometry
+1:17:10 yeah geometry is definitely off of the
+1:17:12 PDF let's see if we can line that PDF up
+1:17:14 again something like
+1:17:17 that same thing
+1:17:21 here there we go
+1:17:27 that looks like it's pretty close to
+1:17:30 alignment I hope you know when I'm
+1:17:32 saying that I'm looking at these red
+1:17:34 lines and these are the scans of the
+1:17:36 wall next to the
+1:17:40 green so it really is helpful to have
+1:17:43 that slice this makes a big difference
+1:17:45 because we're getting like a double
+1:17:47 check right in our plan
+1:17:48 view
+1:17:52 right
+1:17:53 so it's really clear that this is bumped
+1:17:55 because it's not align with that red and
+1:17:57 I like that this is overlaid on top of
+1:17:59 the PDF in this
+1:18:01 case and then I'll change this to to be
+1:18:05 no wall layers later on to place all
+1:18:07 these
+1:18:21 doors
+1:18:27 that wall jogs so we're going to go from
+1:18:29 the corner
+1:18:33 here and then something happened with
+1:18:35 the scan in here probably because it was
+1:18:37 a real small room tough to
+1:18:44 scan well if they didn't use that new
+1:18:46 lighter they did a really good job
+1:18:48 somehow they had good conditions maybe
+1:18:50 not a ton of ambient light who knows
+1:18:55 um this is a funny one I'll mess with
+1:18:57 that
+1:19:00 later all right coming off this corner
+1:19:03 bump this
+1:19:08 over um so here's another example let's
+1:19:10 just grab this
+1:19:16 camera what's going on here guessing you
+1:19:19 know this is a shower we know it's a
+1:19:21 shower but let's just look at it this is
+1:19:23 what I would be doing if I had questions
+1:19:25 on
+1:19:26 something yeah we know that's a shower
+1:19:29 and it's got a curb and a half
+1:19:31 wall so good to know good to know that
+1:19:34 this is a half wall right so we could
+1:19:36 come in here bam section top slider
+1:19:42 cut pump this up a little bit something
+1:19:45 like
+1:19:47 this maybe I can come in here with my
+1:19:49 half wall tool what ends up happening
+1:19:51 there
+1:19:53 oh what the
+1:19:55 heck it's got no reference point it's
+1:19:58 also 5 million feet wide which we don't
+1:20:01 know why and we don't know where that
+1:20:04 Drew so I'll probably go
+1:20:18 back I'm going to cut that crosssection
+1:20:21 out and now we can just do alt
+1:20:29 WV there's that half W it's right
+1:20:42 there right there
+1:20:46 bam yep it showed up in 3D nice enough a
+1:20:51 little bit further
+1:20:56 cool use my curb tool he's just got
+1:21:00 overhauled someone found some problems
+1:21:02 with him who was a new purchaser very
+1:21:05 grateful for that kind of
+1:21:08 thing I think X15 did something a little
+1:21:11 bit different with
+1:21:12 um shower
+1:21:15 doors but maybe I'm just remembering
+1:21:18 things
+1:21:19 wrong there we go there's my shower room
+1:21:21 cool perfect
+1:21:24 that'll be see those are those little
+1:21:25 extras was not going to be including
+1:21:27 showers and stuff like that
+1:21:30 so all right can we stay in split view
+1:21:33 sure why
+1:21:38 not look where this wall is lined up
+1:21:40 it's geometry saying it's over
+1:21:48 here and geometry saying that this is
+1:21:51 further
+1:21:55 the only problem with doing this in
+1:21:57 split view is it is rebuilding the 3D
+1:22:00 right now so that ends up being
+1:22:13 slower I hate when I draw these things
+1:22:16 uh not far enough and then because I
+1:22:18 forget the order of draw draw order
+1:22:22 right
+1:22:23 and so there you go that
+1:22:30 worked um this looks like it wants to
+1:22:32 align with something below let's just
+1:22:34 try it see what happens this should be a
+1:22:35 staircase so that's
+1:22:37 true um it just moved it slightly so
+1:22:40 that's
+1:22:43 perfect and then we've got one section
+1:22:46 of wider
+1:22:51 wall
+1:23:11 okay this is going to get bumped just a
+1:23:12 little
+1:23:18 bit yeah about
+1:23:21 there
+1:23:28 and this wall should line up with a wall
+1:23:31 below no it doesn't so it's
+1:23:34 just can't deliver something I have to
+1:23:37 take a look at the exterior this house
+1:23:38 and figure out why some of this stuff is
+1:23:40 so
+1:23:42 strange at some point everything makes
+1:23:45 sense once you look at it on the hole
+1:23:50 usually if you've done it enough of
+1:23:53 this it should make a lot of
+1:23:58 sense I do wish there was an option to
+1:24:00 use a modifier key that if I'm going to
+1:24:02 draw and extend this forward it's
+1:24:04 automatically going to tell that it's an
+1:24:06 interior
+1:24:07 wall um so that I could just hold that
+1:24:11 modifier key and there you
+1:24:16 go okay we got one more return wall
+1:24:19 right
+1:24:21 here
+1:24:26 got to make sure to set these one of
+1:24:28 these up as you know no room definition
+1:24:30 we don't need another little sliver of a
+1:24:32 room there that would make no sense
+1:24:44 right only problem with that is there a
+1:24:48 problem with that let's show
+1:24:51 you
+1:24:56 what's the problem with that that's the
+1:24:58 problem with
+1:24:59 that right no
+1:25:02 molding so it's really that let's just
+1:25:06 go back of stat that base molding should
+1:25:10 be in
+1:25:14 place
+1:25:16 so this is just going to be interstitial
+1:25:21 space
+1:25:23 and if I didn't have that in my plan I
+1:25:27 should hey there's something we're going
+1:25:29 to add this to our room types inter
+1:25:32 Stitch and then default to you know not
+1:25:36 show the room
+1:25:41 label so next thing is we can we can
+1:25:45 obviously move this camera to here and
+1:25:47 see what is this right here open to
+1:25:50 below there's some kind of of okay so
+1:25:53 there's a railing railing railing this
+1:25:55 is all part of a staircase
+1:25:59 setup um let's just start by defining
+1:26:02 our
+1:26:04 room this will be a nice little trick so
+1:26:07 we're g to populate this
+1:26:10 through and this wall is out of
+1:26:13 alignment so we want this to pop to
+1:26:19 here and then we want this
+1:26:23 to pop to
+1:26:27 there and it might
+1:26:30 be scan wanted this to move further left
+1:26:33 but we're going to I mean further right
+1:26:34 but we're going to move this a little
+1:26:35 bit
+1:26:38 left which means we're going to move all
+1:26:41 this a little bit
+1:26:47 left so that makes more sense for the
+1:26:50 hall right and then we'll move this
+1:26:53 left so now let's make this open
+1:26:57 below so we can see the scan in our
+1:27:01 3D and by the way you can always just
+1:27:03 hover over this and type
+1:27:06 O at least I thought so there we
+1:27:10 go I got a little bit of lag going
+1:27:14 on okay now let's look at the scan
+1:27:16 what's going on here who we have all
+1:27:19 right so we got a railing and then um
+1:27:23 assuming that this is stairs
+1:27:25 [Music]
+1:27:29 down or I don't know what's going on
+1:27:31 here it's just blocked off that's very
+1:27:33 strange here's
+1:27:35 stairs okay so stairs up okay so it's a
+1:27:38 Lower
+1:27:39 Landing that's what's going on stairs up
+1:27:43 to a lower Landing so this is going to
+1:27:45 be a landing it's going to be stair up
+1:27:47 and this so I need a here's what I
+1:27:50 need I need an invisible
+1:27:54 wall so we're just going to start with
+1:27:56 my Straight railing
+1:27:58 tool and we're going to go right like
+1:28:07 this to
+1:28:15 here and to
+1:28:18 here and then we need to redefine this
+1:28:22 up and Below to a
+1:28:26 hall so type in h there you
+1:28:34 go there we go look at that a that
+1:28:37 clever now what's going on with our
+1:28:39 floor Heights floor Heights way off up
+1:28:42 here why is
+1:28:44 that all right so we need to set our
+1:28:47 floor structure up here our floor
+1:28:49 structure's way off okay
+1:28:52 project
+1:28:55 browser Greenly AB our
+1:28:58 crosssections we know that which
+1:29:02 cross-section is the one let's just take
+1:29:04 a
+1:29:08 look this is our E3
+1:29:20 crosssection
+1:29:25 so what's happening
+1:29:28 here we're not seeing our
+1:29:33 scan above a certain
+1:29:39 height why is that and do we have
+1:29:41 sections in here let's edit the active
+1:29:46 view clip width clip elevation top clip
+1:29:50 elevation
+1:29:54 clip elevation top clip elevation let's
+1:29:56 undo this make it
+1:29:59 400 and not and uncheck and press okay
+1:30:03 is that what's going
+1:30:05 on interesting it's not showing us our
+1:30:10 scan so we have an easy solution we can
+1:30:15 just get into scan
+1:30:18 only
+1:30:20 crosssections and and we can get into
+1:30:23 that same front elevation why
+1:30:35 not so what's happening here we do have
+1:30:37 a lower floor going on here it looks
+1:30:41 like there is there's a sunken floor
+1:30:46 here so where's this section going
+1:30:50 through
+1:30:58 that adds some complication to this
+1:31:00 whole setup now doesn't
+1:31:04 it got a jog in the
+1:31:07 floor let's go look at this so that's
+1:31:11 saying that this has a lower
+1:31:15 floor no this floor is
+1:31:18 correct this has a lower floor
+1:31:24 maybe no this floor is correct too all
+1:31:26 right I'm just seeing this
+1:31:29 wrong where is a sunken floor I don't
+1:31:32 see it actually just need to make some
+1:31:35 adjustments
+1:31:39 here that floor is almost on the
+1:31:44 money so what did we say we
+1:31:48 said let's just we're in this camera
+1:31:51 view but we need to make this the active
+1:31:53 view before we start doing any editing
+1:31:55 floor
+1:31:57 defaults okay so that's our active
+1:31:59 window and we know that our ceiling
+1:32:02 plane looks like it's about a half an
+1:32:05 inch
+1:32:11 high so this is second
+1:32:14 floor height let's just minus let's
+1:32:18 minus that 58 why
+1:32:20 not
+1:32:24 that should show up yeah look that's
+1:32:27 almost perfectly lined up I
+1:32:30 think no it's
+1:32:34 not that still needs to go
+1:32:39 down and this could have to do with no
+1:32:42 no that should be right all right so
+1:32:43 let's do this
+1:32:50 again still looks like it wants to go
+1:32:52 another half an
+1:33:03 inch am I thinking about that wrong why
+1:33:06 am I thinking about that wrong we're on
+1:33:09 second
+1:33:10 floor ceiling
+1:33:13 height still looks like it wants to go
+1:33:20 down
+1:33:24 here's the
+1:33:28 scan second
+1:33:34 floor let's get rid of that
+1:33:42 line oh I'm doing this backwards am I
+1:33:44 not is that what's going on am I doing
+1:33:47 it backwards the scan's higher and I'm
+1:33:49 lowering
+1:33:50 it yeah I'm doing it
+1:33:55 backwards oh
+1:33:57 man plus 1.5 how well let's let's try
+1:34:02 that look at that just jumped up
+1:34:08 so that ceiling's looking really close
+1:34:11 really close to on the
+1:34:13 money now let's look at the
+1:34:18 floor looks like it wants to drop
+1:34:22 78 or maybe half an
+1:34:31 inch that would be a very strange floor
+1:34:34 structure but let's do it
+1:34:40 anyways yeah that's looking close so
+1:34:43 let's see how this affected our shot
+1:34:45 here yeah so we have some geometry
+1:34:48 coming
+1:34:49 through and the geom geometry yeah we
+1:34:53 got some geometry coming through up here
+1:34:55 so this is looking
+1:34:58 good yep it's kind of split in between
+1:35:01 so really really close now okay
+1:35:07 cool all right that solved that
+1:35:17 riddle okay so what are we looking at
+1:35:19 here we're on the wrong floor that's
+1:35:21 what we're looking
+1:35:22 at
+1:35:25 there okay we still have a few more
+1:35:27 walls to go I need to turn my music back
+1:35:50 on
+1:36:35 okay so we can all argue that this
+1:36:37 should be in alignment
+1:36:41 there
+1:36:43 and it looks like this is off and let's
+1:36:46 just make sure that this isn't aligned
+1:36:47 with something below it kind of is it's
+1:36:51 kind of align with that garage
+1:36:54 below hopefully this kicks this right by
+1:36:58 clicking a line it does
+1:37:01 perfect there we
+1:37:03 go it's why it's so important to
+1:37:06 determine which floor is going to take
+1:37:08 precedence for you and then stick with
+1:37:20 that
+1:37:48 I'm making this you because it's easier
+1:37:50 to do this and then extend the wall that
+1:37:54 I just drew than it is
+1:37:56 to
+1:38:00 um draw out your walls and then draw out
+1:38:02 some
+1:38:03 wings this also keeps everything in
+1:38:06 alignment hope that makes
+1:38:11 sense and we're just getting re redraw
+1:38:14 time lag right
+1:38:20 now
+1:38:21 did we determine if this is lined up
+1:38:23 with something we don't
+1:38:29 know moving this effect anything no it
+1:38:41 doesn't all right I think that's all the
+1:38:43 walls
+1:38:47 drawn we're just looking at the green
+1:38:49 now so I'm missing the bay window box
+1:38:50 window
+1:38:52 that's all the walls
+1:38:54 drawn
+1:39:01 cool next step is making our best guess
+1:39:05 at what the thickness of that stem wall
+1:39:07 is
+1:39:07 downstairs and then starting to align
+1:39:10 based on that so let's go
+1:39:15 down let's go down to that level let's
+1:39:18 change our
+1:39:20 reference
+1:39:22 um to that first
+1:39:33 floor
+1:39:38 right and we've got the floor
+1:39:43 above and so we're going to take a
+1:39:45 census of the floor
+1:39:47 above what are all these offsets looking
+1:39:51 like cuz this is kind of
+1:39:53 crazy this big one big boy
+1:39:57 14 that's 14 inches
+1:40:02 there 14 inches
+1:40:11 there about 12 inches
+1:40:19 there in
+1:40:22 there we could reasonably guess that
+1:40:24 this is
+1:40:28 12 I think that's the number I'm going
+1:40:30 to stick with I'm going to say that this
+1:40:32 offset's 12
+1:40:34 inches there's 12 as
+1:40:38 well look the geometry is pushed way in
+1:40:41 here let's take a run
+1:40:44 through just going to tile these back up
+1:40:47 again and let's open up our skin only
+1:40:52 and then scan with plan file
+1:41:00 sh what's our time markers at one hour
+1:41:03 and 40 minutes
+1:41:12 okay all right so lowest floor and what
+1:41:16 do we
+1:41:19 have
+1:41:21 there's nothing popping through on this
+1:41:23 lowest floor okay so we're cheating
+1:41:26 everything to the
+1:41:43 inside this Wall's a little off
+1:41:47 here
+1:41:49 okay
+1:41:53 so let's do this let's run a
+1:42:11 cut looking
+1:42:17 like it's bad cut let's do a different
+1:42:19 one
+1:42:36 where did that cut
+1:42:37 go doesn't seem to be
+1:42:44 anywhere okay let's figure out where
+1:42:47 that cut went oh it didn't show
+1:42:49 up
+1:42:51 let's
+1:42:54 do here we
+1:43:11 go look at the thickness of this Jam how
+1:43:13 it's
+1:43:19 scanned
+1:43:21 baseboard heater or something right
+1:43:25 there yeah so I think this whole wall
+1:43:28 assembly done
+1:43:33 here might be a brick I'm not
+1:43:48 sure um helpful if if I see listing
+1:43:51 pictures would get a really good idea
+1:43:53 what this is or address I'm going to go
+1:43:55 check that
+1:43:56 out all right so I don't have the
+1:43:58 address
+1:44:00 unfortunately and so I emailed the
+1:44:02 client for the address because satellite
+1:44:04 pictures are going to really help me out
+1:44:06 in this case let's get back to the first
+1:44:10 floor here and so here's what I think
+1:44:12 I'm going to do um I'm going to take all
+1:44:15 these exterior walls here and this is
+1:44:17 what's great about the prop plan is I
+1:44:21 can just use the layer higher Hider and
+1:44:23 hide all the interior walls real easy
+1:44:26 and now it's easy for me to select just
+1:44:28 the exterior
+1:44:35 walls now just these exterior walls
+1:44:38 we're going to change
+1:44:41 these for now I'm just going to do it
+1:44:44 here where we want a total an overall of
+1:44:48 12 in right
+1:44:51 so we're just going to say this 12 in
+1:44:53 there we go I'm going to end up
+1:44:55 replacing these walls now they resize
+1:44:57 about their interior side so we know
+1:44:59 that it's still lined up on the interior
+1:45:01 side okay um so that's that's kind of a
+1:45:07 little bit of a helpful tidbit now it's
+1:45:10 probably the case that we're going to
+1:45:12 ditch that it has um plywood and it's
+1:45:15 probably the case that that's going to
+1:45:17 be concrete so there are going to be
+1:45:19 some alignment issues because of those
+1:45:22 two
+1:45:23 reasons um but nothing we can't work
+1:45:26 through and then in the active layer
+1:45:27 display options you know we can come in
+1:45:30 here and just do that walls again and
+1:45:32 make sure that we've got interior
+1:45:34 existing turned on
+1:45:36 again
+1:45:37 bam so easy and then something to note
+1:45:42 we've got something kind of weird going
+1:45:44 on here let me go up a couple levels
+1:45:46 take that camera that I like so much and
+1:45:49 cut it it's also going to close it when
+1:45:51 we cut it and paste it so that I can see
+1:45:54 what's going on right
+1:45:56 here and quick
+1:46:01 switch and let it
+1:46:04 update so what's going on
+1:46:09 here oh we've got a section cut still
+1:46:14 funny let's get rid of
+1:46:17 that okay when why was I looking at at
+1:46:20 this cuz something's happening in the
+1:46:22 scan itself oh this is just a built-in
+1:46:26 that's what's going
+1:46:27 on so that
+1:46:33 wall this wall is correct and then we've
+1:46:36 got a built-in and this wall continues
+1:46:38 and has a doorway continues
+1:46:44 and yeah this must be a
+1:46:48 doorway okay or door so this little wing
+1:46:53 wall doesn't exist and this is just
+1:46:55 built-in cabinets and this continues
+1:47:00 through and
+1:47:06 somehow got something going on over here
+1:47:14 too so where did my camera end
+1:47:19 up
+1:47:30 I have a wall here and it doesn't look
+1:47:32 where am I where where in the world am I
+1:47:35 I don't think my camera is updating in
+1:47:37 its 3D
+1:47:39 view because now I'm in a bathroom let's
+1:47:42 see if it's
+1:47:43 updating yeah my camera's not updating
+1:47:45 for some
+1:47:47 reason CU I'm way over here my camera's
+1:47:50 way way over here so it must not be that
+1:47:52 camera that I've got
+1:47:59 open it's showing its save location
+1:48:02 instead I
+1:48:07 guess specifically trying to figure out
+1:48:09 what's going on right in front of me
+1:48:12 here there we go oh I was in the wrong
+1:48:15 file
+1:48:17 funny and I'm showing an exterior wall
+1:48:19 here that's not an steer
+1:48:29 wall all
+1:48:38 right let's get some context let that
+1:48:42 run for a
+1:48:47 second oh I just heard an email come in
+1:48:49 so that might be the the
+1:48:51 address
+1:48:54 is oh I got a listing
+1:48:57 cool let's throw this up on the main
+1:49:00 screen and see what's going
+1:49:02 on all right let's see what's going
+1:49:10 on so that lower floor is definitely
+1:49:13 half barried good to
+1:49:19 note
+1:49:21 wow that paints a picture all right our
+1:49:24 setup does not look like that
+1:49:28 yet let's take a look at that what's
+1:49:30 going on
+1:49:34 here that's up in
+1:49:37 this where's our front
+1:49:40 door there's our front
+1:49:43 door so oh no we got it open below
+1:49:46 that's all set up this looks
+1:49:48 right just wait till we get some windows
+1:49:51 in here it'll be real nice all
+1:49:54 right yeah that's looking right all
+1:49:57 these details not happening I'm not
+1:49:59 putting that in so if they want that
+1:50:01 detail they're going to have to pay that
+1:50:03 that double
+1:50:08 price glass doors and everything cool
+1:50:11 it's a cool
+1:50:13 house very cool
+1:50:17 house so mainly I'm looking to the
+1:50:19 exterior to try to figure out what that
+1:50:22 is and they had very few exterior shots
+1:50:26 here we go here's a backyard
+1:50:30 shot yeah I mean they got a thick wall
+1:50:32 assembly here if we're doing screen and
+1:50:36 doors and then definitely split
+1:50:39 levels so parts parts are going to be
+1:50:43 foundation wall stem wall yeah you can
+1:50:46 see we've got brick lower here all kinds
+1:50:48 of stuff happening there
+1:50:52 there's a shed there that's not going to
+1:50:53 be part of what I'm bu building here I
+1:50:56 hope they hire me for all the detail
+1:50:58 work it be fun to really close this out
+1:51:00 yeah and then here is all that this is
+1:51:03 just that's concrete stem wall that's
+1:51:05 all that is that's and in the upper
+1:51:09 portion of it's um siding and I have no
+1:51:13 idea where that's going to land so I'll
+1:51:15 just give them a best guess and that's
+1:51:18 all they're going to get from this
+1:51:22 um and if I'm feeling nice I'll do the
+1:51:25 roof
+1:51:28 ples cool all right I think it's time
+1:51:31 for a break so we'll split this up we'll
+1:51:34 split this up into multiple videos so
+1:51:36 there we go almost a two-hour session
+1:51:39 hope you guys got something great out of
+1:51:40 that and leave me any comments um
+1:51:43 hopefully drw me in some comments before
+1:51:45 the next session because yeah maybe
+1:51:48 there's something you want to find out
+1:51:49 more about
+1:51:54 [Music]

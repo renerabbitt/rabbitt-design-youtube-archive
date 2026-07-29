@@ -1,0 +1,114 @@
+---
+videoId: UZhbW7SZ_H8
+title: Terrain Retaining Wall In Chief Architect X16 - Terrain Video 2
+url: "https://www.youtube.com/watch?v=UZhbW7SZ_H8"
+status: imported
+---
+
+# Transcript
+
+0:02 okay video number two and we're going to
+0:04 go right off of the top of video number
+0:04 one we noticed we had a really deep dive
+0:10 in the terrain slope right here off the
+0:11 building so I'm actually going to say
+0:14 that we've got a terraining wall here
+0:16 excuse me a Terrain retaining wall
+0:18 that's a good one terraining
+0:18 wall terrain retaining wall I'm also
+0:21 going to increase my overall lot size
+0:26 just a bit pick up some of this
+0:26 additional data okay and then I'm going
+0:32 to go go ahead and convert a couple of
+0:34 these back
+0:34 to a polyline if they're not already
+0:41 looks like this is the one okay then
+0:41 we're going to use that same method to
+0:44 trim right so we're going to use a
+0:45 method to trim so that then we can get a
+0:48 Terrain retaining wall in here I think
+0:49 that terrain retaining wall is going to
+0:50 come in here right about here and let me
+0:55 just take this and grab it drag it over
+0:57 here as well and now we should be able
+0:57 to use that trim tool kind of break this
+1:03 terrain up now notice it deleted the
+1:03 terrain on the right hand side so let's
+1:08 go back a level I don't want to do that
+1:10 now that's because I dismissed the
+1:11 dialogue box if want to keep some
+1:11 additional stuff or not actually I'm not
+1:14 sure that that's true so what I'm going
+1:16 to do here is I'm going to copy paste
+1:16 hold and is that going to help us at all
+1:21 not at the moment but I'm going to drag
+1:24 this over some known Dimension like 500
+1:28 ft and then I can take this that trim
+1:30 cut this up then
+1:30 take that other data that's over here
+1:34 500t
+1:34 over move it back into
+1:42 place take this other side that
+1:42 to there we go now we've got our break
+1:47 for our terrain retaining wall that's
+1:49 going to come in here in my terrain
+1:49 tools want to make sure that I've got a
+1:53 straight retaining wall versus a
+1:53 straight terrain wall so we want a
+1:55 straight retaining wall okay I'm going
+1:59 to say that this is right in here just
+1:59 like this now let's take a look at what
+2:03 this looks like in 3D want to make sure
+2:06 that this um that I made my cuts on the
+2:09 existing terrain far enough away that
+2:12 Chief can interpolate the data right
+2:12 here if we did a good job should be that
+2:18 we don't see any spikes got green
+2:26 wall there we are that so if we needed
+2:28 the top of this terrain retaining wall
+2:29 to be flat you're going to have to put
+2:31 in that
+2:31 data and that's simple enough we can go
+2:34 ahead and we already know how to do this
+2:37 go ahead and we can just take a flat
+2:37 line here honestly so we've got a 1210
+2:43 elevation marker there right that 1210
+2:45 carries up to here so we can just take
+2:49 this vert this elevation line let's go
+2:51 ahead and we'll do a
+2:53 121.5 why
+2:54 not now let's take a look at what we've
+2:58 got
+2:58 here updates there there we go we've got
+3:03 a flat retaining wall now actually it
+3:06 might be this is a much higher little
+3:09 section here might be that we need to
+3:09 edit this little length right here that
+3:10 drops below that retaining wall might be
+3:15 more accurate if this new retaining wall
+3:17 right so we would set this up to
+3:23 1212 and we'd have to pull back that 12T
+3:26 10 we don't want too much of a
+3:26 spike there's a 1212 and now the next
+3:30 piece is that we might in fact drop this
+3:39 it
+3:39 and
+3:49 up
+3:49 update look at that we're getting some
+4:12 right
+4:12 underneath now a straight retraining
+4:14 wall actually um takes into account and
+4:17 that for us actually has a Terrain break
+4:42 there we go that's more
+4:42 appropriate getting closer to that
+4:44 building in fact maybe it's really big
+4:51 right keep in mind with terrain I have
+4:53 not spent so many hours that I'm
+4:53 infallable first efforts might not be
+4:57 the right ones but I think we are
+4:57 getting to the idea I had in mind which
+5:01 is very tall retaining wall here
+5:01 retaining a lot of dirt that we're going
+5:04 to back fill because the slope is so
+5:08 steep want a flat area
+5:08 here oh that's it that's looking good

@@ -1,0 +1,410 @@
+Title: Build An Automatic Annotation Tool In Chief Architect X17
+URL: https://www.youtube.com/watch?v=6yhXBlyb1cw
+Visibility: members-only
+
+0:00 What's going on, VIP? I'm going to show
+0:02 you how to build an annotation tool like
+0:04 the one that's in my pro plan in case
+0:06 you're not using my pro plan. So, I'm
+0:08 going to open up the default residential
+0:11 template. Let's just draw four walls in
+0:13 here.
+0:16 And let's just draw um drop in some just
+0:20 fixture, if you will. And so, we're
+0:22 going to start by opening up this
+0:24 fixture and getting into the object
+0:26 information panel. And that's where
+0:28 you're going to see custom fields. And
+0:31 so custom fields, just to note before we
+0:33 just start creating custom fields, and
+0:35 notice that this is grayed out right now
+0:37 because we have no custom fields. Custom
+0:39 fields report to schedules. And so
+0:42 custom fields are not limited to the
+0:44 particular object type that they are
+0:47 created from. you create a custom field
+0:49 in this toilet, it's going to exist
+0:51 across all other object types, including
+0:53 walls, cabinets, roofs, and so to note,
+0:57 it might be impactful to make more
+0:59 generic custom fields. So, they could be
+1:02 used for different things based on what
+1:04 object type they are coming from.
+1:06 Because as we add them to a column to
+1:09 include inside of a schedule, we can
+1:11 always rename that custom field from the
+1:15 schedule side of things, making it more
+1:17 impactful to make generic custom fields
+1:19 verific.
+1:24 All that being said, let's create a new
+1:25 custom field. And I'm going to call this
+1:27 annotation tool. And then I want to
+1:30 command or control A command or control
+1:32 C to copy that text because we're going
+1:34 to use it in a text macro to access that
+1:38 information. So once I've done that, let
+1:41 me just say 15in center to clear
+1:44 something just some kind of text that's
+1:46 reporting from this. And how do we get
+1:48 to that text? Now I want you to note
+1:50 that I have an object selected. I have
+1:52 this toilet selected. So that if I get
+1:55 into the text macro management console,
+1:57 which is from the CAD menu, text text
+2:00 macro management, there is a default
+2:04 macro in here called object properties.
+2:06 And if we select it while we have some
+2:09 object selected, notice that it's giving
+2:11 us all the reported values from that
+2:14 object. What does that mean? Well, I
+2:17 could take one of these variables and
+2:19 this is called a name value pair. So
+2:21 here's our name. There's our value.
+2:23 That's our name value pair. So I could
+2:25 take this width for instance and I could
+2:28 create a new macro called if we will
+2:31 make it redundant width where I put that
+2:34 width inside of this macro and I
+2:37 evaluate this. Okay. So I want to
+2:39 evaluate this. What that's going to do
+2:41 is that's saying we're evaluating this
+2:44 variable based on an object that's
+2:46 selected. And in this case it says
+2:48 undefined local variable or method with
+2:50 for main object. Why is that? because we
+2:53 haven't chosen some kind of a context
+2:55 either owner or referenced. Owner means
+2:58 that we're looking for that variable
+3:00 within the owner of that particular
+3:02 object versus referenced means that
+3:04 maybe we are putting this macroexecution
+3:08 call inside of a text box with a leader
+3:10 that's attached to a referenced object
+3:13 that we're trying to pull with from. So
+3:15 in this case, this is the owner object
+3:17 and notice it's reporting that
+3:19 measurement just like that. So this is
+3:22 an an example of a very simple text
+3:24 macro.
+3:26 Instead, I'm going to build out our
+3:28 annotation tool.
+3:31 And so for our annotation tool, I should
+3:33 be able to say something like this.
+3:37 Custom
+3:39 fields and then opening and closing
+3:42 brackets because we're going to search
+3:44 inside of this something inside of
+3:47 quotes. So, I've got custom fields
+3:50 inside of quotes. And this is where I
+3:52 get to paste my custom field. Now, I
+3:55 pasted width instead because we had
+3:57 copied that from that other variable.
+3:59 But let me go ahead and pick annotation
+4:02 tool instead. All right. And now you can
+4:05 see it's picking up that string inside
+4:08 of this custom text macro. So, let me go
+4:11 ahead and press okay. How do we utilize
+4:13 that? Very simple. I'm just going to put
+4:15 in a little text box here and I'm going
+4:18 to use this dropown userdefined and I'm
+4:20 going to find that annotation tool. And
+4:22 notice that it's picking up an
+4:24 evaluation error. Why is that? Because
+4:26 the context for it was set to owner. All
+4:29 right. And so if I drag this leader out,
+4:33 attach it to the toilet, does not change
+4:35 the evaluation error. We can get back
+4:37 into text macro management, select our
+4:39 annotation tool, and if we edit, we can
+4:42 see our evaluation error. And you can
+4:44 always take this, copy paste it into
+4:46 like a chat GBT to get more information
+4:48 about it. Now, what's happening here is
+4:51 I'm trying to get information about the
+4:53 custom field from a referenced object.
+4:56 And so I would need to change the
+4:58 context to referenced object. And so
+5:01 there we go. We're picking up that
+5:02 information. Another way about this is
+5:05 we could set the context to none and we
+5:07 could set some kind of specific method
+5:09 where we're saying object
+5:11 equals
+5:13 owner or object equals reference.
+5:18 And in that case we're going to put this
+5:20 method by calling it object dot. And so
+5:24 it will pick up whether or not it's the
+5:26 owner or the reference. This in this
+5:29 case is not a great approach because if
+5:31 we did not connect that leader, we have
+5:34 no way of um getting around an
+5:37 evaluation error. It's going to have an
+5:39 evaluation error if we hadn't connected
+5:41 that leader. And instead, I want to give
+5:42 some context or information when we
+5:44 don't have that leader connected for the
+5:46 end user. So, I'm going to get rid of
+5:48 that little method call and instead I'm
+5:51 going to do something like this. I'm
+5:53 going to say um in this case,
+5:57 let's just go referenced
+6:00 and then a little and symbol. Okay. And
+6:06 we'll just do a period.
+6:09 All right. And then we're going to do
+6:10 that and symbol again. What this does is
+6:13 if that value is not nil, it will
+6:16 continue to the next check. Okay. So
+6:19 we're doing the same thing that and
+6:21 symbol period and then in this case we
+6:24 need to set a specific method call. So
+6:27 this this is just something to note. So
+6:30 we're going to put bracket and quote
+6:31 bracket and then inside a parentheses
+6:34 and quotes we're going to paste that
+6:35 annotation tool again. And so this is
+6:39 saying hey if it's referenced
+6:43 then it's not nil going to pass through
+6:46 custom fields. If custom fields is
+6:48 there, then it's not nil. We're going to
+6:50 pass through. Otherwise, and that's
+6:52 where I put in these two symbols right
+6:55 here. That's the same as your
+6:56 backsplash, excuse me, backslash symbol,
+6:58 but if you hold shift key, that's what
+7:01 that little character is. All right. And
+7:03 then I'm going to say inside of quotes,
+7:06 connect
+7:10 leader to object
+7:14 outside of quotes. What is this doing?
+7:16 It's saying if these are not nil, right?
+7:19 Then we're going to pick up this custom
+7:21 fields annotation tool. But if they are
+7:23 nil, we are going to put connect leader
+7:26 to object. So let me press okay and
+7:28 watch what happens when I delete this
+7:30 leader. There we go. So we've got kind
+7:33 of a conditional check. It's telling us
+7:35 we need to connect this to some object
+7:37 so that we can get some information from
+7:39 it, right?
+7:41 And so connect leader to object. In this
+7:44 case, that wall was nil. It's got no
+7:45 value, right?
+7:50 So, we could have said or input value
+7:53 test like this. So, now we've got a wall
+7:55 that has test in that custom object
+7:57 field. And look at that. It's reporting.
+7:59 And the last thing you need to do is
+8:01 just kind of adjust your leader, right?
+8:04 Pretty robust. How can we take this a
+8:06 step further? Let's get into our active
+8:09 defaults. And we could even modify our
+8:12 plan defaults if we wanted to use this
+8:13 tool over and over again. And we could
+8:16 drop in that macro. Right? So there's
+8:19 that annotation tool.
+8:21 Boom. So now when I just use the text
+8:25 tool and just press enter, it's easy for
+8:27 me to just connect this to the leader.
+8:29 Bam. I have this tool that's just
+8:31 working out of the box. You could do the
+8:33 same thing with the note tool. You could
+8:35 just automatically put in that. Excuse
+8:38 me. Drop in this macro annotation tool.
+8:41 Press okay. And if we select this note,
+8:45 we could create a note schedule from it.
+8:48 Right.
+8:50 Place that. And look at that. Connect
+8:51 later to object. Let's connect it to
+8:53 that toilet. Isn't that cool? We're just
+8:56 generating annotations that we've built
+8:58 over and over again. So, how do we make
+9:00 this even a more robust system? Well,
+9:02 you build out your common annotations
+9:05 within your fixtures and then you add
+9:07 them to your library. So, I just add
+9:09 this toilet to my library so that the
+9:11 next time I use it, it was simple for me
+9:13 to just take my note tool, you know, and
+9:16 if I wanted to, I could double click my
+9:17 note and make sure that the default even
+9:20 used the annotation tool. So, every time
+9:22 I dropped in my default toilet and I my
+9:25 default note and connected the two, it's
+9:28 all obviously going to pick up that
+9:29 information just right out of the box.
+9:31 So, isn't that cool? Robust system to
+9:34 just build out annotations very, very
+9:36 quickly based on objects you're going to
+9:38 use in every plan. I'm going to give a
+9:41 little bonus content in here as well.
+9:43 But, um, before I even do that, just
+9:46 note that we can even build in like a
+9:48 fixture schedule where we're dropping
+9:50 this in. And I want you to see that
+9:53 inside of our columns to include, we
+9:56 should have that annotation tool. We can
+9:58 add that to a custom schedule as well.
+10:01 And so there we go. We're building this
+10:03 out. So what we can do with this is we
+10:05 can rename it if we wanted to. And we
+10:07 could call this something like spec if
+10:09 we needed to or you know minimum
+10:11 requirements or something like that. So
+10:13 this makes that system even more robust.
+10:16 Isn't this cool? Right?
+10:18 Very, very neat. So, the last thing I
+10:21 wanted to note is that when a text box
+10:23 is inside of a room and it's not
+10:25 connected to anything, notice that it's
+10:28 saying connect leader to object, you
+10:30 might be able to get information from
+10:31 the room itself. So, if you select a
+10:34 room, get into text macro management,
+10:36 pick up the object properties for that
+10:38 room. We can see here, for instance,
+10:40 here's something that says ceiling
+10:42 elevation. Let's just take this as an
+10:44 example. I'm going to connect I'm going
+10:47 to grab this text box that's reporting
+10:49 from our annotation tool, right? And
+10:52 instead of connect leader to object, I'm
+10:54 going to highlight this and let's just
+10:56 put in ceiling elevation. And we're
+10:58 going to have to put in a method call in
+11:00 front of that room period ceiling
+11:03 elevation.
+11:05 And let's see and find local variable or
+11:07 method room for main object. So, um,
+11:13 that is because we're not in a owner
+11:16 object. So, we might need to say owner.
+11:18 Let's try this. See if I got this right.
+11:21 There we go. Look at that.
+11:24 So, now what's it doing? It's reporting
+11:26 something from the room itself. All
+11:29 right. Notice that we took it out of a
+11:31 room and we got an evaluation error
+11:33 because this is not a room here. Okay.
+11:35 And so we'd have to make another
+11:37 conditional check to say, hey, we need
+11:39 to make sure that this is a room in the
+11:41 case that it's not. But if it were
+11:43 placed in a room, it's going to report
+11:44 that ceiling elevation. If it's
+11:46 connected to a toilet, you can see it's
+11:48 picking up, you know, that custom field
+11:50 that we had set up. So, pretty cool
+11:53 robust things that you can do with this.
+11:56 Now, here's my bonus. We're going to
+11:58 modify this toilet. This is going to be
+12:00 the ultimate construction document
+12:02 toilet, if you will. If you're just
+12:04 doing construction documents all the
+12:06 time and you're not worried about how
+12:07 things necessarily display in terms of a
+12:10 design sense for an overall floor plan
+12:13 is that we could edit the symbol of
+12:16 this. So, let's edit the CAD block. And
+12:18 what I'm going to do here is I'm going
+12:21 to put in an arrow in this case and
+12:25 we're just going to do like a center to
+12:27 center line. So, I want to pick up a
+12:28 center line of this fixture. And so I
+12:31 can drag this out and drag this out
+12:33 exactly 15 inches. And so that's going
+12:35 to be my 15 inches to clear, right? And
+12:38 so if I duplicate this about the center,
+12:40 that's my 15 in to clear. We can even
+12:43 put some text in here where it says 15
+12:45 in to clear. And so we're modifying
+12:48 this. And let's just grab this. Let's
+12:51 grab these two.
+12:54 Make that straight. So it just straight
+12:56 this point real quick. I'm not going to
+12:58 do a perfect job, but here we go.
+13:06 15 inch minimum. You can change the text
+13:09 size of this if you want to
+13:15 half inch text. Put that here. That
+13:18 here. You can make a little center line
+13:21 thing if you wanted to. You can even use
+13:22 a dimension string for this instead, I
+13:24 believe. So, we can even do this. We
+13:26 could take a dimension string. Let's
+13:29 just say for instance, try this out. And
+13:31 I'm kind of just doing this on the fly,
+13:33 by the way. I'm going to make this text
+13:35 box be exactly 30 in. All right. And
+13:40 really want to center it up on this
+13:41 toilet. And then we can even do a little
+13:44 tab stop here and put that 15 inch
+13:48 minimum.
+13:52 And so if I take my dimension tool and
+13:54 let's see if this will actually pick
+13:55 this up. Oh, it's going to pick up a
+13:56 bunch of stuff. Let's modify this just a
+13:59 little bit. We're going to move this
+14:01 down.
+14:02 We're going to pick up the edge of our
+14:05 text box here and the edge of our text
+14:07 box there. Right. So, with those two
+14:10 edges selected,
+14:16 this was supposed to be 30 in.
+14:19 Oh, boy. that the text got in the way
+14:22 here.
+14:25 Let's try that.
+14:27 And let's do a little center
+14:28 justification
+14:31 if we can.
+14:33 It doesn't look like it. Not without
+14:35 some rich text. It's okay. Just want to
+14:38 illustrate this though.
+14:44 Let's make this nice. 30 in. There we
+14:47 go. should be able to take this finally
+14:51 maybe center this guy up. And so this is
+14:55 where we can suppress that dimensional
+14:56 value, but we can also draw this leader
+14:59 in and try to pick up the center line.
+15:02 Look at that. Right? And then change our
+15:05 dimension defaults if we wanted to. In
+15:06 fact, we can make this be just blanked
+15:09 out if we wanted to.
+15:11 Spacebar, right? and make sure that
+15:15 there's no fill style so that it's just
+15:17 see-through.
+15:18 And so now if we change our dimension
+15:20 default to show
+15:23 inches, overwrite our primary format.
+15:31 There we go. And use the plus ABC sign
+15:34 to add a little trailing text minimum.
+15:38 Right. Do that one more time on this
+15:41 guy.
+15:43 minimum.
+15:46 You can see what I'm getting at here.
+15:48 This is like a code requirement, right?
+15:50 Push that through something like that.
+15:53 Now, keep in mind, however far we bring
+15:56 this text box out, we need to generate
+15:58 something on the other side. That's, you
+16:00 know, to create a kind of a center line
+16:02 on this fixture. I'm just going to hit
+16:04 save and close this down. And so, we're
+16:05 going to save this on only this
+16:08 instance. And there we go. So, this is
+16:10 what this toilet is now looking like,
+16:12 right? So, notice we've got some offset
+16:15 issues here. That was just in how it was
+16:17 handling those dimensions and how far
+16:19 off they went. But there we go. We get
+16:20 to just place this toilet as we need to.
+16:23 We would have to do some things to fix
+16:24 that center line, but it would include
+16:26 this dimensional info every time that we
+16:29 place this toilet. And of course, I
+16:31 would change, you know, the text size if
+16:34 I were doing this all the way through.
+16:41 a lot of info in this video. I hope you
+16:43 can digest it.
+16:46 It's kind of going off the cuff, but
+16:48 hope you got a lot out of this one. And
+16:50 uh yeah, I'll see you next time.
+16:59 [Music]

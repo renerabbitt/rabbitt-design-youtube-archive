@@ -1,0 +1,31 @@
+---
+videoId: G67gflSx3BY
+title: CA SHORTS-Minimize The Library Preview Window in Chief Architect
+url: "https://www.youtube.com/watch?v=G67gflSx3BY"
+status: imported
+---
+
+# Transcript
+
+0:03 let's take a look at minimizing as well
+0:04 as
+0:04 turning off your two preview windows
+0:07 in your library browser first let's go
+0:12 over minimizing we can bring our mouse
+0:12 over here hover over this section where
+0:15 it's a little dot and a line through it
+0:16 until our mouse cursor changes click and
+0:20 drag to the bottom of the screen and
+0:20 that will minimize our preview window
+0:22 so that if i want to bring that back up
+0:29 and it will bring
+0:30 and restore back those preview windows
+0:33 alternatively if we want to turn them
+0:34 off
+0:34 we've got two options here show hide
+0:38 preview
+0:38 and then our other option
+0:45 our show hide selection but there we go
+0:47 there's our show hide selection there's
+0:49 our show hide preview
+0:49 and we can go back to minimizing these

@@ -1,0 +1,168 @@
+Title: Chief Architect With The Pro Plan   3d Board And Batten Walls
+URL: https://www.youtube.com/watch?v=KVSjkJSSTio
+Visibility: public
+
+0:02 Following video is for my pro plan
+0:02 package. It's an add-on package for
+0:04 Chief Architect. Link at the top of the
+0:06 screen. If you don't have it, go get it.
+0:09 It's going to save you a bunch of time
+0:09 and money. It's already set up. Make you
+0:14 really efficient in Chief Architect.
+0:17 Let's go ahead and start this video.
+0:17 All right, we're going to show you how
+0:18 to use the board and batten tool. It's a
+0:23 3D board and batten wall. So, we've got
+0:25 wall types over here in the toolbar.
+0:25 That's this one right here. If we hover
+0:28 over these wall types, it'll show what
+0:30 it is. a board and batten with a skirt
+0:32 board is what's going on here. And so
+0:32 I'm just going to draw out four walls.
+0:35 And let's go pull a little 3D view to go
+0:45 And we can see, yeah, that looks like
+0:45 some 3D bornton. Pretty cool. And as you
+0:49 can see, it's got like a skirt board,
+0:50 bellyb band kind of board. There we go.
+0:54 So, how do we adjust this? How do we
+0:55 change this? How do we fix a couple
+0:55 things in this one? is if we're in a 3D
+0:59 view and we kind of want to change the
+1:01 material, change the color of this. Uh
+1:01 something that you can do is you can use
+1:05 your adjust materials tool, which I call
+1:08 the rainbow bacon tool. And if I'm in a
+1:10 component mode, that's just going to
+1:10 change this for just this wall. But I
+1:13 want to be in a plan mode, so I'm
+1:13 changing it all throughout the plan. And
+1:17 then I could go ahead and change the
+1:19 material color. Now, in the texture
+1:22 panel, blend with texture is not
+1:22 selected. So I need to select that if I
+1:25 wanted to change this color. So, for
+1:27 instance, let's just say I want this
+1:27 kind of forest teal green going on here.
+1:33 And so, let me press okay. And what
+1:33 happened? Well, it looks like our house
+1:38 has stripes on it now. So, that
+1:38 obviously didn't change everything that
+1:42 I wanted to change. So, what you can do
+1:42 is well, maybe we would think about, you
+1:46 know, kind of bringing our camera in
+1:46 here until it's cutting because maybe we
+1:52 understand how this is built. It's built
+1:54 from overlapping textures that have
+1:54 opacity masks to reveal things below
+1:57 them, which is why it looks like it has
+2:00 a 3D effect because we are just layering
+2:06 things at an 8 in thickness in our wall
+2:09 types layer so that it's creating this
+2:12 relief and so there is transparency
+2:12 between the slats which finally reveals
+2:17 some kind of an interior layer. Now, if
+2:19 you bring your camera in to the point
+2:21 where it's cutting right through the
+2:21 materials here, maybe you could use the
+2:23 adjust material tool to try to pick that
+2:28 slight edge, right? Pick that slight
+2:28 edge to change this and then blend with
+2:33 texture and we could choose that same
+2:35 thing where we're choosing that same
+2:35 material, pressing okay. So, that's a
+2:37 pretty quick way of doing that. Another
+2:42 way of doing this would be to just go
+2:42 into your toolbars right here, and here
+2:44 is the define wall types. You'd click on
+2:49 that you would locate your bordon
+2:54 batten. Okay. So borbatton 6616
+2:54 and you would just double click on the
+2:58 texture panel. And from there that's
+3:00 going to bring you up with or even
+3:00 triple click. Sometimes I've noticed
+3:02 I've had to do [music] that'll bring you
+3:06 into the plan materials where we get to
+3:07 go ahead and adjust this material just
+3:09 like we did. So I think it's faster to
+3:09 do it in the 3D view. It takes a little
+3:13 bit of practice to be able to pick that
+3:15 layer. you know, I had to get in there
+3:15 and cut it. So, like, for example, if I
+3:19 kind of miss this just a little bit, I
+3:21 don't quite click right. Well, we're
+3:22 going to see that this is actually
+3:22 picking up the slats. See? And so, now
+3:24 I'm changing the wrong color. Let me go
+3:29 make this purple just to illustrate
+3:29 that. But if I get that picker right on
+3:33 the edge here, and you're going to see
+3:35 my cursor, it's right on this edge.
+3:36 There we go. Now, I'm picking that
+3:36 correct color. So, I could turn this to
+3:42 purple as well. It's a crazy looking
+3:44 sighting color, right?
+3:44 So, what else can we do with this? A
+3:46 couple things. Let me just go ahead and
+3:50 expand this and raise this section up.
+3:50 And we're going to change this wall type
+3:55 just uh to illustrate another tool that
+3:57 we have at our disposal. Let's change
+3:57 this wall type to um let's just go 2x6
+4:03 new. Now, notice that all these wall
+4:04 types have a pony wall. This is what's
+4:06 generating that skirtboard. It's just a
+4:10 specific wall type that's built to
+4:10 generate that skirtboard. Um, so it's
+4:15 your typical framing wall, a sighting
+4:15 six, and then on top of that, it's got
+4:19 another material that's making that
+4:19 protrude out, right? So, if we wanted to
+4:23 get rid of that skirt board, that's
+4:23 easy. You just uncheck that pony wall.
+4:26 Press okay. It's going to get rid of
+4:26 that board. Simple enough. Now, also in
+4:32 our toolbar here over on the left hand
+4:34 side is this guy right here, board and
+4:34 bat and material region. And so, what we
+4:37 can do with this is we can just snap
+4:37 this to the edges, but we can just draw
+4:41 this over the gable end like this. Look
+4:43 at that. And so now I have that board
+4:43 and batton. And this is a very similar
+4:45 process. You could either use the adjust
+4:49 material tool. Or you could come in
+4:52 here, open up, in this case it's
+4:52 registered as a custom backsplash. Open
+4:57 this up, edit these material layers. Go
+4:58 ahead and tint them the way that you
+4:58 need to. You'd only need to tint one of
+5:02 these because these are just
+5:02 duplications. And then the backing board
+5:06 here, which is called cream board. All
+5:08 right. And that's how you could change
+5:08 this color. Now, one more thing that you
+5:12 might not know that's in the toolbar is
+5:14 we've got kind of a fake belly band, if
+5:16 you will. That is just the default wall
+5:19 material region. This is just set up to
+5:21 look like a trim board. So that if I
+5:22 kind of just pick in here and pick up a
+5:24 snap and draw this in, this is doing the
+5:28 same thing as that lower skirt board
+5:28 was. All right. So, we can just expand
+5:32 this past. Don't really need to be all
+5:34 that accurate with this. You can of
+5:34 course uh copy paste this reflect about
+5:40 the diagonal here and it will miter in
+5:40 the corners. That's a function that they
+5:44 introduced in like X14 or something like
+5:46 that. And then you could of course take
+5:48 advantage of those 3D dimension tools
+5:48 and come in here and specify that maybe
+5:54 this is a 7 and 1/2 in. So it's a 2x8.
+5:54 Look at that. And so very quickly we're
+5:57 getting to something that, you know, may
+6:01 otherwise take a while to set up and
+6:01 look accurate. So there we go. That's
+6:04 kind of the review of the belly um belly
+6:09 band and born patent features in the pro

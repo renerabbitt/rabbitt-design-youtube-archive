@@ -1,0 +1,593 @@
+Title: Custom fireplace with the fireplace tool using chief architect X-15
+URL: https://www.youtube.com/watch?v=VmQTCy4tr78
+Visibility: members-only
+
+0:00 what's up VIP got one here for you I'm
+0:03 going to recreate this fireplace using
+0:05 my fireplace tools so this one is
+0:06 specific to my fireplace tools now
+0:10 there's a section in here that's
+0:11 recessed if we look at our camera here
+0:14 we can see that there's a section of
+0:15 this that's recessed in that's basically
+0:19 um the Firebox insert here and then on
+0:23 top of that we've got some molding right
+0:25 and this portion of the molding is not
+0:27 not quite so recessed so I do have have
+0:30 a setup that's already got a recessed
+0:33 box that's one option otherwise we could
+0:36 use another option such as this guy
+0:38 right here
+0:40 where if we look at the Box itself it's
+0:43 recessed just the Box itself is recessed
+0:46 that actually might be a better option
+0:47 in this case let's get rid of this one
+0:49 let's go with this this other option I'm
+0:53 just going to place it from an overhead
+0:55 view here it's got a couple legs on it
+0:57 actually I don't need the legs we'll
+0:59 just do this one right right
+1:05 here place that in place and we're just
+1:08 going to actually just take a snap
+1:11 here there we go now pull an elevation
+1:14 take a look at this and get some things
+1:17 lined up now first of all let's go ahead
+1:19 and pull this all the way up so it's
+1:21 lined up with the
+1:23 existing and notice here the top of this
+1:25 particular cabinet excuse me this
+1:27 particular one it's it's got a two tier
+1:31 and for some reason it's not showing
+1:32 that second molding tier in this view
+1:34 it's kind of funny but um mainly I want
+1:37 to be in this scene so I can set up what
+1:39 these sizes are so a couple sizes I'm
+1:41 paying attention to here from the ground
+1:44 here and actually something that could
+1:46 be helpful is edit your active view if
+1:47 you're pulling an elevation like this
+1:49 and then let's clip this elevation so
+1:51 we've got a bottom clip elevation at s
+1:54 Etc this is going to um allow the US to
+1:58 show our CAD clip line so if I zoom out
+2:00 a little bit we can see our CAD clip
+2:03 line is right here I'm going to snap
+2:05 that to our
+2:07 floor it's going to make it real easy
+2:09 for me a dimension there all right so
+2:12 now from the floor and I come up
+2:15 basically this Firebox is going to be
+2:17 let's call it 8 in off the ground
+2:20 and let's see how big is the Firebox
+2:23 then let's say the top of the Firebox is
+2:26 20 27 in off the ground something like
+2:30 that so and then from there got another
+2:35 call it 17 in up so let's open this up
+2:38 start designating a few things now you
+2:40 can't click on the window itself and by
+2:42 the way I'm going to hit Windows key
+2:43 left if you're on a Windows machine to
+2:45 really expand this up so you can see
+2:47 we've got a layout vertical and this
+2:50 particular fireplace is set up um split
+2:53 you know in thirds in a horizontal uh
+2:56 section so there's other fireplaces that
+2:58 have a complete completely different
+3:00 split
+3:01 setup so this one will work for this
+3:04 instance um we're going to notice that
+3:06 within this layout horizontal that's our
+3:08 Firebox we can see here's our door we
+3:11 might want to split this up so I'm going
+3:14 to go ahead and split this horizontal
+3:15 this lower section then is just going to
+3:18 be a panel so we've got an upper section
+3:22 a lower section this section right here
+3:24 this is going to end up just being slab
+3:26 right so we can go ahead and specify
+3:29 this right now
+3:30 specify Appliance door drawer say that
+3:33 this is going to be a
+3:35 slab and we don't even want it a door
+3:37 double door we just wanted a door panel
+3:39 there we go and we're going to end up
+3:40 painting it from there so that's our
+3:43 first part and we said that this section
+3:46 should only be about 8 in
+3:49 tall okay then our next section and I
+3:53 mean this is um locked from layout
+3:55 resize if we want to look at the next
+3:56 section up we're going to see that this
+3:58 is not locked from resize okay so that
+4:02 means we can resize this whole
+4:03 horizontal section by just clicking on
+4:05 that parent right layout horizontal
+4:08 we're going to say that this was 22 in
+4:09 something like this and then let's just
+4:12 close this down and take a look at what
+4:13 we've got so we can just do window key
+4:17 actually so window
+4:18 key left put that as an expansion but
+4:22 notice it's cut off at the bottom too
+4:25 bad all right so let me press okay let's
+4:27 see what we've got going on here so it
+4:29 looks like I needed to kind of change
+4:32 just the height of of a few things here
+4:34 I'm not entirely sure why we're not
+4:37 seeing the full symbol it's as if
+4:40 elements of this symbol are not shown um
+4:43 in our active layer display so we could
+4:45 get in here active layer display let's
+4:47 click on doors and drawers and anything
+4:50 else we might be able to uh find in here
+4:52 face indicators countertops countertops
+4:55 is why this upper section is not showing
+4:57 there we go keep in mind we're modifying
+5:00 the section view layer set now so this
+5:02 is affecting us right um so you might
+5:04 have wanted to make a copy of that
+5:05 section view layer Set uh or you could
+5:08 have just pasted this in a new plan and
+5:10 worked from there so doing a couple
+5:12 things that are a little bit goofy here
+5:14 so I want to shrink down that lower
+5:17 section right and let's just draw some
+5:19 reference lines we want to shrink down
+5:21 this lower section by about 4 in let's
+5:25 just do that first open it
+5:27 up here's that we've got a door panel
+5:32 here we can actually get rid of that
+5:34 door
+5:35 panel and you see what happens here
+5:38 we've got a recess section so we
+5:39 actually have to replace this slab door
+5:42 um with something that's in the
+5:43 fireplace kit but we don't need to worry
+5:45 about that just yet so here we go we're
+5:47 going to minus that um actually looks
+5:48 like maybe 3 Ines now let's see what
+5:50 that does to us this is getting closer
+5:53 and then that door section yeah this
+5:55 looks a lot better the next part of this
+5:58 is that we've got a a huge section up
+6:00 above here right so line key kind of
+6:04 pick this
+6:05 up bring it up about 17
+6:08 in so what does that mean I want to
+6:11 click into our major sections here so
+6:13 I'm going to window key over again
+6:15 here's our major section for our door
+6:17 setup we've got a door panel left and
+6:19 right but what we don't have is that
+6:22 recess section that we need again now we
+6:24 could just do it from the door panel
+6:26 above um and actually it looks like
+6:28 we've got a door panel section right
+6:30 here AO um which this is where we could
+6:32 put our 17 in look at that simple right
+6:36 and in fact we probably could have done
+6:37 that for this lower section this layout
+6:39 horizontal down here why don't we just
+6:41 delete this and instead let's grab this
+6:44 door panel up here split it horizontally
+6:46 let's move it down the stack there it
+6:49 goes it's at the bottom now we're going
+6:51 to say that this is 4 in overall maybe
+6:54 it was 5 in and then let's readjust this
+6:57 section to be that 17 in
+7:00 there we go now we're getting
+7:04 close what's that looking like that's
+7:07 looking pretty close it's getting there
+7:09 I think that lower section needs to go
+7:11 up a little bit it does look like it
+7:13 there's a grill down there um we could
+7:16 you know make that look exact I'm not
+7:18 too worried about it in this
+7:21 case there we go this is looking really
+7:24 sharp so what's our next piece here
+7:27 let's just use that line tool again I'm
+7:28 going to get the overall width of this
+7:31 we got roughly 6 feet W wide so I'm at a
+7:35 57 you can always drag this
+7:37 out well there you go that's easy it
+7:39 kind of caught that 72 in and then I
+7:42 want to know what's my side legs looking
+7:44 like what's the size of this roughly 10
+7:47 in on either side so we can open this up
+7:50 let's get to our major
+7:54 layout and within our major layout we
+7:57 know we've got the side p panel insets
+8:00 right here's our major Center vertical
+8:03 layout right so I'm going to uncheck
+8:05 lock from resize because I want to
+8:07 change the side of these side panels and
+8:10 what did we say this was this was 10
+8:13 in yeah and then we've got another side
+8:16 panel right here's that other side panel
+8:19 and this is 10 in there we go now we're
+8:22 looking more accurate I also think
+8:26 that we've got to resize our doors right
+8:29 so our doors are about here let's see
+8:32 what they are let's call them roughly 36
+8:37 in so get into that
+8:40 major start looking for the minors
+8:43 here's our layout horizontal there's our
+8:45 door setup our door double door right
+8:48 here we can actually split this up split
+8:51 this vertical and then one side of this
+8:53 is just going to
+8:55 be door panel in this case or we can say
+8:58 it's side panel inset but we're going to
+9:00 say it's door
+9:02 panel now I want to split this
+9:04 again okay then I'm going to move it
+9:07 right past our
+9:10 doors there we go now we can say that
+9:13 our Center section here is
+9:15 36 and in our layout horizontal we're
+9:18 going to
+9:20 equalize right so then our left and
+9:22 right door panel this is where we're
+9:24 going to replace these now we can do
+9:26 this in 3D or elevation in this case so
+9:30 I want to get to my library browser just
+9:32 going to pull this up real quick shrink
+9:35 this down just a little bit and then
+9:36 here's my fireplace
+9:40 components we've got doors for the
+9:42 Firebox we've got face panels right so
+9:44 within the face panel here's our slab
+9:46 door and if we are in component mode and
+9:49 replacement mode we get to just hover
+9:52 over this and just replace the
+9:55 sides now what happens with this what
+9:58 are we looking at here here let me just
+9:59 see a couple things let's go back to the
+10:02 camera what's this looking like in
+10:04 3D what we want to know is you guess it
+10:07 look at this the slab is actually
+10:09 sticking out right so and I account for
+10:11 that in these tools so let's just bring
+10:14 this Library back up on the screen and
+10:18 we've got face panels that are doors
+10:21 well if
+10:22 you um press right it will expand this
+10:25 and then there's a 2in recess section So
+10:28 within that we've got a slab door so if
+10:31 we hover over this you're going to see
+10:33 that this actually recesses
+10:38 back now something to note even though
+10:42 this is recessing back the main um
+10:45 section here is recessed back even
+10:46 further
+10:48 right right so our doors are recessed
+10:51 back even further than that so it might
+10:53 be worth opening this up let's take a
+10:56 look at what we've got going on here
+10:58 this this door panel itself if we go
+11:01 specify we're going to see lower and
+11:03 upper frame rail so this is a very
+11:07 specific item and it's listed as a door
+11:10 panel right so let's try that instead so
+11:14 we're going to look at lower and upper
+11:16 frame rail and this is I
+11:19 believe let's see moldings for top
+11:22 fireplace toe
+11:24 panels there's advaned here we
+11:27 go
+11:30 let's just look if we can see this
+11:32 lower lower
+11:37 upper frame
+11:43 rail have St Builder frame rail that's
+11:46 not it so that's interesting this isn't
+11:49 in the fireplace kit well I got a great
+11:50 trick for you for some reason those
+11:53 components got deleted so in our edit
+11:56 toolbar we can go add to library
+12:00 has Rab's fireplace lower and upper
+12:02 frame rail that should have been in
+12:05 there so now let's just reup this
+12:12 search how interesting well that's cool
+12:15 to know this is how these things get
+12:17 improved I got to use them sometimes so
+12:20 there we go going to replace this
+12:22 replace this other section lower an
+12:24 upper frame Rael it's got a funny little
+12:27 uh material quality to it it's it's kind
+12:30 of shrinking that material so we'd have
+12:32 to edit that material to look perfect
+12:35 but all right next up is I know that
+12:39 we've got a slab section here so let's
+12:41 get back into our just
+12:48 Rd and then what are we calling all this
+12:51 stuff so tags are cabinets table not
+12:54 great tags for this particular item
+12:56 right let's just show this in folder so
+12:59 we're going to improve this whole system
+13:00 as we go too so here's our face panel
+13:03 doors here's all of our doors we should
+13:05 have search attributes in fact we should
+13:08 even click on the 2in recess sections
+13:12 too
+13:13 right so now we're selecting all this
+13:15 stuff let's make sure that in our
+13:17 library
+13:18 browser let just move this over again I
+13:20 want to make sure that I've got show and
+13:22 folders as well I do so I've got all
+13:25 those selected it's not going to let me
+13:28 do anything
+13:29 with things that are that are in that
+13:33 other folder it's not going to let me
+13:35 adjust the tags without expanding the
+13:37 folder so let's manage the tags now what
+13:41 do we have here um I might put this tag
+13:44 is living room right so that might be
+13:46 one of them I think that oh fireplace is
+13:50 one of the tags so that should have been
+13:51 in there and then doors should have been
+13:54 part of that as well so in this case
+13:57 we've got uh
+13:59 um
+14:03 doors that should help find those a lot
+14:07 faster so Within These doors I need the
+14:11 slab door okay so I need the slab door
+14:14 I'm going to hover over this
+14:17 component right because this just
+14:19 extends through and then we're going to
+14:21 need a m molding
+14:24 profile and there's a little bit of
+14:26 Separation not too worried about it just
+14:29 yet and what's this molding profile
+14:31 looking
+14:32 like let's
+14:36 see fireplace
+14:38 components moldings for M
+14:50 mantel probably going to leave this the
+14:52 way it is it is very close I'm not going
+14:54 to get it quite perfect without adding
+14:56 some more molding profiles and getting
+14:58 real detail killed with it and then what
+15:00 can we do for
+15:03 pisters see fireplace inserts wall let's
+15:07 just let's just search
+15:12 that spelled it
+15:18 wrong we want one that's fluted and
+15:21 actually this looks this looks really
+15:24 close it does so what's that f F2 so
+15:29 let's open this fireplace
+15:33 up
+15:36 accessories
+15:42 ff-2 there it
+15:44 is so what happens with that just shoves
+15:47 it up in the in the corner doesn't
+15:49 it let's see I think this is maybe 8
+15:54 in and look what it does to the sections
+15:59 right it squeezes it pushes it
+16:04 over so let's press okay there actually
+16:07 sorry we need to come in back in and
+16:09 edit
+16:10 this what else is happening here when we
+16:12 apply
+16:14 that it actually pushes it
+16:18 out right that's pretty interesting so
+16:21 it's almost
+16:23 like you could almost deal without these
+16:25 side sections entirely and get really
+16:27 really close accurate
+16:34 here Auto width Auto Left Right width
+16:39 and then it's an applique
+16:44 almost so I think that check this out
+16:47 let's just do a couple little cool
+16:49 tricks I'm going to go I'm going to take
+16:51 this ff2 I'm going to add it uh copy it
+16:53 to the user catalog and then I want to
+16:55 open it and edit it and so specifically
+16:59 what I'm going to edit oh you can see
+17:00 here that's why it was being applied in
+17:03 that way you can see that that width
+17:06 section
+17:07 there I'm going to edit this to
+17:11 be 8
+17:20 in let's go let's call it six inches and
+17:24 let's go
+17:25 five yeah we'll go five inches
+17:30 and then from there I actually want to
+17:32 place it in plan I'm going to um I'm
+17:36 going to place it in plan and reconvert
+17:38 it to a
+17:42 symbol okay so reconvert it to a symbol
+17:46 it's going to be a mill work type symbol
+17:48 show Advanced
+17:50 options now this time I want to set some
+17:53 stretch
+17:54 zones I'm going to set some stretch
+17:57 zones for our width and we're going to
+18:00 make two stretch zones so the overall
+18:02 width is four and 15 16 almost 5 in
+18:05 right so we're going to go um
+18:08 2.4 and
+18:12 -2.4 that means that the only thing
+18:14 that's going to stretch are these flat
+18:16 sections when we apply this now okay so
+18:19 now that I have that this is going to
+18:21 get added to the
+18:24 library watch what happens when we go
+18:27 ahead and replace it
+18:31 right so as I widen this section up now
+18:35 you can see I'm both sides that replace
+18:37 the the pilers as I widen this pilas up
+18:40 to something like 12
+18:42 in right so that Center section is a
+18:45 little bit off we actually want that we
+18:48 we want to improve that a little bit
+18:49 right so we want to increase the size of
+18:51 that but what I did get from this is
+18:53 panels that are possibly the the correct
+18:56 width when I widen them up
+18:59 so let's edit again let's actually come
+19:01 back to this we're going to resize this
+19:05 uh let's get into our elevation real
+19:07 quick I'm going to pull library off the
+19:09 screen and I want to
+19:11 see what are we looking at here we are
+19:14 looking at an overall width
+19:16 of let's call it 5 and a half inches
+19:21 okay hopefully everybody's following me
+19:23 on this which means that I want this to
+19:26 be roughly 7 in
+19:29 in there we go cuz now I've got my 5 and
+19:32 1 half in this middle section let's go
+19:35 ahead and turn this into that mill work
+19:37 again here's where we're going to update
+19:40 that width we can see it's six it's
+19:43 almost 7 Ines so
+19:45 3.4 and
+19:48 3.4 it's going to be my
+19:51 stretch now when I apply
+19:57 this
+19:59 look at that now we're getting a lot
+20:01 more accurate right the the last thing
+20:05 that I could have done is well notice
+20:07 that the pester is moving all the way
+20:10 up it's moving all the way up to
+20:14 our our
+20:16 countertop let's see extend to bottom
+20:19 doesn't get us
+20:21 anywhere what would be nice if we had a
+20:24 little blank section above these pilers
+20:27 so it' almost be like we have to do um
+20:29 an offset with the countertop see what
+20:32 what can we even do with the countertop
+20:34 here I don't know that this is going to
+20:36 be beneficial to us at all let's check
+20:38 it
+20:40 out um we could change the overall
+20:42 thickness of the
+20:44 countertop so if we added let's call it
+20:47 five Ines what happens now the piler
+20:49 gets pushed down
+20:52 right which is good we can see we've got
+20:55 some some things to work out with the
+20:57 molding
+21:02 let's take a look at what this is
+21:03 looking like
+21:05 now right so now we just have to fix a
+21:08 few things in the molding it almost
+21:10 looks like we only want one molding
+21:11 profile for this
+21:16 anyways that's that lower molding we're
+21:18 going to get rid
+21:20 of
+21:27 oops
+21:38 my fancy zones aren't working this
+21:40 thing's too
+21:44 big It's Too
+21:49 Tall still too
+21:55 tall careful if your fanc are fan zones
+21:58 aren't firing you might never get back
+21:59 to a dialogue that works um we do get to
+22:03 delete these sections right that goes
+22:13 away here we go we know that these
+22:16 are
+22:24 10 oh we lost that other
+22:26 one
+22:28 split this move it
+22:36 right there we
+22:38 go get rid of that
+22:42 separation all right what's this looking
+22:45 like
+22:47 now boy it's getting
+22:56 close
+22:59 so what is this section if you're
+23:00 unfamiliar this is our this is our
+23:02 countertop right and
+23:06 so we need that to move up like 3
+23:17 in okay and then so our overall
+23:19 thickness of countertop is 4 in our
+23:21 molding then should be 4 in we should
+23:24 replace this molding with something a
+23:25 little bit more elaborate in fact let's
+23:28 just go CM for crown
+23:31 molding and let's get something that's
+23:33 got a couple tiers to
+23:36 it why
+23:49 not see what that's looking like hey
+23:53 look at that look at that we're getting
+23:56 close now we have a mold that kind of
+23:58 carries through here on the split but
+24:01 I'm not too sure that I'm worried about
+24:04 that I think I'm going to leave this for
+24:06 the client because this is going to be
+24:08 close enough you can keep working
+24:10 through this it's definitely possible to
+24:12 get it 100%
+24:20 accurate this is
+24:22 that those tags there we go so this gets
+24:26 me to that those tags where I can go
+24:28 slab door and you just want to if you
+24:31 have the detail section here you can see
+24:33 where this is right so if we just expand
+24:36 this section here's the 2-in recess slab
+24:39 versus the regular
+24:45 slab and then the last piece of this is
+24:48 this is recessed right now so something
+24:51 that we can do is we can take this we
+24:53 can convert it to a symbol we can say
+24:56 that it's a fixture
+24:58 interior okay don't add it to the
+25:00 library press okay and then the trick
+25:02 with my fireplaces is under options it's
+25:05 inserting into wall and I believe it's
+25:07 17 and 1/8
+25:10 inch and let's just place it anywhere
+25:14 because we can take it copy it and paste
+25:16 it somewhere
+25:20 else
+25:23 or I can do get last symbol so I'm going
+25:26 to get back to here I want to
+25:28 select this wall that we made
+25:30 invisible and then under my
+25:33 tools
+25:34 symbol get last
+25:38 symbol and it doesn't want to
+25:43 place not very easily
+25:46 anyways look at that it'll place on the
+25:48 one side but not the other there we
+25:56 go
+26:01 here we are let's see what this looks
+26:06 like oh man that is close enough that is
+26:11 close enough and then sometimes it's
+26:14 easy to just throw this back in to your
+26:23 library sort it out later there you go
+26:30 I think we saw a bunch of tips and
+26:31 tricks there let's just turn off this
+26:33 reference display yeah that's looking
+26:35 pretty good the only problem with this
+26:36 is it didn't quite cut that opening it
+26:39 should have but because it's recessed it
+26:41 didn't qu uh cut the opening so we can
+26:43 always just throw you guess it a doorway
+26:46 in here I like to make it just a no Dam
+26:49 no Jam
+26:54 doorway Center it up on your fireplace
+26:59 concentrically
+27:06 resize yeah it's looking pretty
+27:08 good it's a pretty wild project here had
+27:12 a lot of tricky stuff to go over so
+27:13 we'll be going over some other things as
+27:23 well hopefully you learn something out
+27:26 of that
+27:29 oh you can see that it actually cut the
+27:31 other side isn't that funny we got a
+27:33 wall cut right
+27:37 here oh and that gets rid
+27:40 of careful about the depth I guess is
+27:43 the moral of the story careful about the
+27:46 depth maybe we just will not have this
+27:48 insert into wall in this case let's go
+27:52 none there we go that puts it back uh
+27:55 now we got to place it again oops
+27:59 anyways till next
+28:02 [Music]
+28:12 time

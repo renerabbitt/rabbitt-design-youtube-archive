@@ -1,0 +1,87 @@
+---
+videoId: AbHL1cYxPKU
+title: Marquee Selection Modes in Chief Architect
+url: "https://www.youtube.com/watch?v=AbHL1cYxPKU"
+status: imported
+---
+
+# Transcript
+
+0:04 hello chief architect users I've got a
+0:06 quick video here I get a lot of
+0:06 questions about improving speed through
+0:13 some new workflow methods you know what
+0:15 what methods do I use that considerably
+0:15 increase my my drafting speed and one of
+0:20 those methods is utilizing the various
+0:21 marquee selected tools and I'll
+0:21 illustrate what I mean right now we have
+0:28 a marquee select set to select based on
+0:30 center so that if I drag my cursor
+0:30 across the center here in the center of
+0:37 of these I've got three CAD boxes right
+0:38 closed CAD boxes
+0:38 I've got marquee select by Center you
+0:41 saw that if I just dragged a selection
+0:45 box around the center of this all it
+0:45 selects is that exterior box that box
+0:51 around these two Center boxes if I
+0:51 change that to select contained objects
+0:57 okay that's going to select anything
+0:59 that's fully contained by my marquee
+0:59 selection all right so that box is fully
+1:05 contained if I fully contained both of
+1:05 these boxes if I fully contain all three
+1:10 boxes and then the last one being select
+1:12 intersected objects intersected objects
+1:12 as you imagine if I make a selection box
+1:17 and it crosses the path of two objects
+1:21 three objects etc it's going to select
+1:24 by intersect it so we've got select by
+1:29 center we've got select contained and
+1:29 we've got select intersected pretty cool
+1:36 now the problem with these selection
+1:36 tools is they're kind of buried they're
+1:41 buried in the Edit menu under
+1:41 preferences the submenu of the Edit menu
+1:48 again and under marquee selection you
+1:50 see select intersected objects select
+1:52 contained objects so that if I click
+1:55 this select contained objects you're
+1:55 gonna notice this icon over here just
+2:01 switched so now we're select by
+2:01 contained objects right if I select
+2:04 intersected objects I can go back to add
+2:08 preferences what I'm illustrating right
+2:11 now is that unlike many of the
+2:12 Preferences in
+2:12 preferences menu the marquee selection
+2:18 tools can be added to your toolbar and
+2:18 it's a simple task let's right-click on
+2:25 our toolbar customize toolbar and I can
+2:29 type in marquee and here's my selection
+2:29 modes if I hit that little caret over it
+2:33 turns into a down caret and we get our
+2:33 submenu items I can sit and drag this up
+2:38 into a toolbar and there it should
+2:38 reside there it goes right there created
+2:45 a new toolbar subset here so I can grab
+2:47 all three of these line them up and now
+2:49 I can change my selection modes you're
+2:51 gonna see these are duplicates of the
+2:51 ones I have in my sidebar here so as I
+2:55 select them obviously they change here
+2:58 they change in preferences anyways
+2:58 that's a really powerful tool for being
+3:01 able to you know if you've got a really
+3:03 complicated plan a lot of layers turned
+3:03 on and you're trying to select something
+3:08 specific I oftentimes M I'm changing
+3:08 these selection modes additionally you
+3:11 can set a hotkey to these modes as well
+3:14 which you know even further enhances the
+3:18 speed of your workflow especially when
+3:20 it comes to selecting and this is
+3:20 separate from the marquee select tool in
+3:28 your in your active toolbar alright I
+3:29 hope that helps someone go ahead and

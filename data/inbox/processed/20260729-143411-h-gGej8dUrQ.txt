@@ -1,0 +1,462 @@
+Title: VIP Manual and Baseline Polyline Roof Tips and Tricks-Chief Architect X15 - Roof Video 4
+URL: https://www.youtube.com/watch?v=h-gGej8dUrQ
+Visibility: members-only
+
+0:00 uh Hey VIP we were going to continue off
+0:03 on that last project but I had a huge
+0:05 crash on my computer so we got to start
+0:07 from some new project so
+0:10 um where we left office we had some Auto
+0:11 build roof tips and tricks and I think
+0:15 from here we'll go to our make roof
+0:18 Baseline polyline tips and tricks which
+0:21 is
+0:22 um oftentimes my preferred method for
+0:24 doing a lot of residential remodel roofs
+0:27 so let's just get into that I'm going to
+0:30 switch to my toolbar that has my build
+0:32 roof menus on there and we can do our
+0:35 Auto build roof and I'm going to go
+0:37 ahead and click on make roof Baseline
+0:40 polylines and press OK and
+0:43 go ahead and turn on the display of this
+0:46 and my working layer set so this creates
+0:48 a polyline that is it it represents our
+0:51 Baseline so it does in fact line up on
+0:54 our main wall layer and you can see here
+0:57 that we've got some designations where
+0:59 if I click on this edit handle that now
+1:02 is my selected edit handle right that's
+1:05 my red color that means it's a selected
+1:07 Edge handle so I can designate this
+1:10 particular polyline Baseline just based
+1:13 on that selection so I'll give you an
+1:15 example maybe it's that I want to
+1:17 actually add a break and we're going to
+1:19 make this particular roof extend
+1:22 downwards so at this side right here
+1:25 notice we don't have any tools to
+1:27 automatically do a Gable anymore but if
+1:28 you had set up a Gable before you Auto
+1:30 built it would be a Gable wall the
+1:33 Baseline would recognize that already so
+1:36 now I've got this selected Edge Channel
+1:39 I'm going to open this up I'm going to
+1:40 say that this is a full Gable wall and
+1:42 same thing over here
+1:44 open this up full Gable wall and then I
+1:48 get to select this Edge this polyline
+1:51 Edge and I'm going to say that we extend
+1:53 this slope downwards so that when we
+1:56 look in 3D we're going to notice that
+1:58 this hip is now extending downwards from
+2:02 that other parallel wall there you go
+2:04 and so it's cutting that wall plate
+2:06 height right so just by adjusting That
+2:08 Base polyline we can do a lot of things
+2:11 here so maybe it's that I actually have
+2:13 an extension over this area here and
+2:15 that this hip extends through so this is
+2:17 a great use case for these
+2:20 poly lines right we can just take this
+2:22 polyline this selected Edge line it up
+2:25 with this Edge and it's going to extend
+2:27 that hip out across over this area here
+2:30 so this is a very fast and easy way to
+2:33 do auto build roofs for some pretty
+2:35 straightforward roof structures so what
+2:38 happens when we get into some not so
+2:40 straightforward roof structures well
+2:41 before I go do away with the polyline
+2:44 base method let's just show you how
+2:46 Dynamic this is I'm going to select this
+2:48 particular Edge and I'm going to say
+2:50 that this is we're going to change the
+2:52 pitch of this quite drastically and
+2:54 you're going to notice that this is
+2:55 going to automatically build and figure
+2:56 out how it needs to adjust based on that
+2:58 pitch change so that does a pretty good
+3:01 job the only other thing that we would
+3:02 need to do is we need to clean up this
+3:04 this overhang right here here and we
+3:08 could probably figure out what that calc
+3:09 is just by going back into plan and
+3:12 figuring out what that offset is you'll
+3:14 notice in the Chief Architect videos
+3:15 they oftentimes like to use a dimension
+3:18 tool and I try to teach said I'm just
+3:20 going to use this line tool I'll snap it
+3:22 here I'm going to pick up this snap tab
+3:24 or enter and copy this 9 inches so that
+3:27 we can take this Baseline polyline and
+3:31 we're going to say here's that Baseline
+3:33 height right well we don't actually get
+3:35 to specify the eaves in this case so
+3:38 there's kind of the challenge so what
+3:39 would you even do well you can't even
+3:41 really draw this back by that distance I
+3:43 don't think that that's going to make
+3:45 make the situation any better and in
+3:48 fact you would probably extend these on
+3:50 the east side right so you probably move
+3:52 this forward so let's simplify the
+3:54 polyline in this case
+3:57 and I can extend this forward
+4:00 and paste that amount nine inches and
+4:02 what does that do it doesn't get it done
+4:04 so unfortunately we're not going to be
+4:06 able to line up our fascias without
+4:09 overriding our Auto build which is not
+4:12 the end of the world I can obviously
+4:13 just take this snap it there and it's
+4:16 going to turn off that automatic build
+4:18 but we're going to get that connection
+4:19 put in place right so there we go
+4:24 so now what happens if we want to do a
+4:27 bunch of manual work let's just start
+4:28 deleting some of these walls and see if
+4:31 we can't kind of recreate the same setup
+4:33 here
+4:36 we've already got our automatic turned
+4:39 off now I like to start from automatic
+4:41 that's just something that's a
+4:42 preference for me I'm even going to get
+4:44 rid of this polyline
+4:46 um but let's just start from truly
+4:48 manual where I'm going to just draw out
+4:50 a roof plane here and extend it up and
+4:52 then something that I like to do is I
+4:55 like to just pick up my 45 degree snap
+4:57 so I'm going to cross this roof playing
+4:59 across itself because I'm not too
+5:01 worried about where this is lining up
+5:03 right now so I just know that I want a
+5:06 45.
+5:07 once I extend that and cross itself it's
+5:10 going to automatically clip and then I
+5:11 can bring this forward and we know that
+5:13 this is on a 45 we also know that the
+5:16 Baseline is drawn in the correct
+5:18 location and this is when I like to kind
+5:20 of switch to a 3D view now let's switch
+5:22 to 3D View and just use a standard
+5:24 rendering mode so we've got no slow
+5:26 downs and this is how I'm going to work
+5:28 if I reflect this about itself we're
+5:31 going to maintain the location of the
+5:34 Baseline so if I copy paste reflect
+5:38 about Center there we go I've maintained
+5:40 the location of the Baseline so that's a
+5:43 really great trick and I can copy paste
+5:46 reflect about itself here as well and
+5:49 I'm not too worried about where that
+5:50 lands I can now take this and in 3D kind
+5:54 of snap it to where it needs to go
+5:56 and you can see here I'm picking up that
+5:58 corner snap and I can copy paste reflect
+6:01 about notice I'm not even worried about
+6:03 the fact that I just made two roof
+6:04 planes on that same Edge right
+6:07 I really don't care at all I'm just
+6:09 making sure that these roof lines are
+6:10 meeting up and then later on I can take
+6:13 these two roofs and Union them so this
+6:16 is a pretty fast workflow for getting
+6:18 some stuff done pretty quickly in manual
+6:20 and doing it in 3D and being able to
+6:22 visualize it
+6:24 the other thing we can do is reflect
+6:26 about just the building itself and we
+6:27 know that this is going to end up where
+6:29 exactly on that corner right so we can
+6:31 just reflect this
+6:33 bring that back
+6:37 you can see what's kind of Happening
+6:38 Here is
+6:39 trying to figure this out on the fly now
+6:41 I wasn't even worried about getting this
+6:43 centered up because I can clean this up
+6:45 later on so I can Union these two there
+6:48 we go that's going to make that Union I
+6:50 can of course take this copy reflect
+6:52 about
+6:55 liked about the center of this wall if
+6:57 you will
+6:58 that's going to pick this up I could
+7:00 Union
+7:01 this guy here we go and now we can kind
+7:06 of take some of the selected edges and
+7:08 make something of them so I might take
+7:10 this Edge drop it back down close enough
+7:12 so that I can use that join roof planes
+7:15 tool right now I've got a little bit of
+7:17 clean up here there's some funny things
+7:18 going on here so you are going to have
+7:20 to kind of like clip these back get
+7:22 these in place just make sure that
+7:23 you're snapping to the appropriate thing
+7:25 you notice here I move that angle so it
+7:27 broke that edge right so we're gonna
+7:29 undo that or we can say we're going to
+7:32 redo that and instead
+7:34 just select this Edge and make sure that
+7:37 it's joined to this Edge so very quickly
+7:39 we're going to clean that up that makes
+7:41 sense make this a selected Edge
+7:45 and then
+7:47 click the wrong one there
+7:52 take your time I'm kind of rushing
+7:54 through this but there we go we can see
+7:56 that I'm clipping these two
+7:58 kind of this last step is this little
+8:00 Point here now you'd have to make a
+8:02 break in this right for it to get you
+8:05 know a selected Edge to be able to join
+8:08 I just double clicked by accident
+8:11 so I'm just going to draw this back it
+8:13 doesn't need to be perfect I get to
+8:15 select this Edge use that join roof
+8:16 plating tool
+8:19 and kind of clean that up and then
+8:21 really you can just select all all these
+8:24 edges one by one and just make sure that
+8:25 it's going to flip to that adjacent roof
+8:28 plane you can see here we've got a
+8:29 little bit of problem in the eave I
+8:31 can't quite tell what that is oh there
+8:32 it is there you go
+8:34 so same thing
+8:37 I want to make sure that we're selecting
+8:38 the correct we need to see that selected
+8:40 Edge handle select that correct Edge so
+8:42 that we can join these roof planes and
+8:45 then this last bit this is just excess
+8:47 so and keep in mind we can always draw
+8:50 this over itself clip.xs grab this roof
+8:53 plane going back
+8:57 simple enough right so another way of
+9:00 cleaning this up we still have something
+9:02 some just a little excess here oh we
+9:04 still have that
+9:06 roof plane there that doesn't need to be
+9:07 there anymore
+9:09 there we go so manually on the fly in 3D
+9:12 being able to do this now
+9:14 here's another one I'm just going to go
+9:16 ahead and break this
+9:18 draw this out
+9:20 and while I'm drawing this out we can
+9:22 even in 3D grab this selected Edge and
+9:26 use our make parallel perpendicular tool
+9:28 right
+9:29 but now we know that we're on that 45
+9:31 and we might be able to snap to this
+9:34 corner
+9:35 and then reflect about
+9:37 and we know that these two just created
+9:39 a valley
+9:42 then that forward snap it to this corner
+9:45 make sure you're picking up those right
+9:47 snaps but even if you aren't you know
+9:49 that you can
+9:50 use that join roof plane tool
+9:55 all right so here we go we're just
+9:56 building this across now again I'm not
+9:58 too worried about where this is all
+10:00 lining up I can clean this up a little
+10:02 bit later and we know that I can take
+10:04 this and bring it across itself and snap
+10:07 that on that 45 right
+10:14 so I like to work in manual mode when
+10:17 I'm working on some kind of complex Roof
+10:19 Systems
+10:21 because I just know that I'm locking in
+10:23 the Baseline by using this method so I'm
+10:25 not going to have any weird
+10:26 discrepancies from using this method now
+10:30 let's just do another break on this Edge
+10:33 handle here
+10:35 and we can draw this up and over
+10:41 quick
+10:42 and again taking this Edge
+10:47 right here and we can do our make
+10:49 perpendicular all right and that gets a
+10:52 little tricky you just need to make sure
+10:53 that you've got your colors set up so
+10:55 that you can really see what's Happening
+10:56 Here There we go now I've got that as a
+10:58 45 I can draw it back and then bring it
+11:01 back forward making sure that I'm
+11:03 snapping to that corner
+11:09 and then my last copy paste reflect
+11:11 about and easy to take this bring it
+11:15 back make sure that it's joined
+11:20 there we go now we've just got a little
+11:22 bit of cleanup here
+11:24 obviously another break to do here we
+11:26 can
+11:27 clearly we can just take this and make
+11:29 it cross itself
+11:30 or just bring this back
+11:34 and you get to do this kind of sloppily
+11:36 if you want to because we know that we
+11:38 can use that join roof plane tool
+11:41 there we go
+11:43 very cool
+11:47 kindness this last bit we can take this
+11:49 guy up a little bit up to there up to
+11:52 that Ridge
+11:54 and you can even kind of draw this
+11:57 through
+11:58 we want to
+11:59 and Union the two
+12:03 now notice these are not in plain just
+12:06 probably problematic right so
+12:08 something's a little bit off here so I
+12:10 did miss one of these I did get a little
+12:12 bit off of the corner it looks like it's
+12:14 this one in fact
+12:16 so maybe another approach to this would
+12:17 be let's just delete this roof plane
+12:20 let's draw this one through
+12:26 down will cross itself okay
+12:31 carry it through
+12:33 actually before we even carry it through
+12:34 we know that we can grab that edge
+12:37 a perpendicular
+12:40 that edge is still selected use our join
+12:43 roof plane tool you need that up
+12:46 simple right
+12:49 right so
+12:51 next thing up we want to make a couple
+12:53 breaks here it looks like we have a
+12:55 break here in the middle
+12:56 so we get to you know kind of draw this
+12:58 up if we want to we see that that's
+13:00 going to create some issues so maybe we
+13:02 need one more break right and we get to
+13:05 break this even through the existing
+13:07 roof plane so there we go I created that
+13:08 break I get to bring this up here
+13:14 we can use that join
+13:17 there we go the gutter is just a line
+13:19 down here that's all working
+13:22 let's grab this selected Edge just make
+13:24 sure that we're
+13:26 you saw it did just a little bit of an
+13:28 adjustment there we saw that because we
+13:30 saw the X's adjust there so when we're
+13:33 selecting two head channels and we go to
+13:34 clip you notice when both a red and
+13:38 green X those are my secondary and
+13:40 primary edit Edge handle fill colors
+13:43 when those two fill colors in the X's
+13:46 align that means those roof planes are
+13:49 already aligned with each other they're
+13:51 joined right so we see that those X's
+13:54 are lined up and you'll see what I'm
+13:56 talking about here let's just extend
+13:57 this one through
+13:59 and now we're going to take this use
+14:01 that joint roof playing tool see the two
+14:03 x's
+14:04 they're showing us where those two edges
+14:07 are currently and when we join now
+14:10 they're going to be joined up
+14:12 there we go we manually on the Fly built
+14:16 this roof now let's throw a little bit
+14:18 of a curveball on this okay oh and it
+14:20 does look like we've got a little bit of
+14:21 a problem here that's no big deal we
+14:23 already knew how to fix this so we can
+14:25 add a break here
+14:28 and maybe with this
+14:30 Edge handle selected we just select this
+14:33 one there we go I fixed that so let's
+14:35 just say that this particular roof is a
+14:37 6 and 12 roof okay or maybe it's even an
+14:40 8 and 12 roof so same problem that we
+14:42 were dealing with uh before with our
+14:45 overhangs and everything now this is a
+14:48 little bit extreme let's go back to like
+14:49 maybe a six and twelve instead
+14:54 but we've got this edit handle selected
+14:57 choose this one that's going to
+14:59 automatically cut simple enough now you
+15:02 could cross itself and duplicate it
+15:04 across the other side and that would
+15:06 work or we can just use that same method
+15:08 join the two plane tools
+15:12 here we go that part's simple enough
+15:14 then you can either extend these ease or
+15:18 Draw this eve back pick up that
+15:20 that end uh snap there and if it did it
+15:25 correctly yes the gutters did continue
+15:26 there oh and then it looks like I have a
+15:29 little stray here
+15:31 simplify this polyline
+15:35 so there there you go very quickly on
+15:38 the Fly adapted for an additional pitch
+15:41 there
+15:42 so hopefully this is helping everybody
+15:43 out
+15:44 um we'll do one last thing we'll just
+15:46 decide that this is going to be a Gable
+15:48 end wall instead pretty simple we can
+15:52 take this
+15:53 draw this out and chief will pick up
+15:55 those orthogonal snaps it'll also pick
+15:57 up those 90 degree snaps so there we go
+16:00 able to just draw that out snap it in
+16:03 place enough
+16:08 now it might be that you have a
+16:09 condition where
+16:11 um you've got
+16:13 kind of a lower Gable over the top of
+16:15 some kind of bay window you can always
+16:17 copy paste these right and paste hold
+16:21 and then we're gonna
+16:23 relocate this let's just say this is a
+16:25 foot down or something
+16:29 oops put in a foot up
+16:31 down yeah three feet
+16:38 and that roof's cutting that and
+16:39 interceding that right so we're gonna
+16:41 have to just draw this back
+16:45 to pick up that snap there we go
+16:48 throw this back you can draw it back a
+16:50 little bit far and then when you draw it
+16:52 back in towards the building you'll
+16:54 usually pick up a bump on there
+16:56 sometimes I do have to do this in 2D
+16:59 versus 3D where I'm not picking up that
+17:02 edge right so it does happen
+17:06 where it's not quite
+17:08 bumping the way I want to a lot of times
+17:10 it will
+17:12 bump appropriately but sometimes you got
+17:14 to get into 2D and do this just in our
+17:17 plan View
+17:18 but here we go I can take this Edge and
+17:21 it might be a condition where
+17:24 um this is extended out just on the one
+17:26 side to say that this is another I don't
+17:29 know 24 inches
+17:31 where I'm going to take this side and
+17:34 make a break okay so I'm going to make a
+17:37 break in this selected side
+17:39 now I'm going to draw this out about 24
+17:41 inches
+17:43 and now we get to take this selected
+17:45 Edge and you guessed it join roof planes
+17:50 so pretty simple
+17:52 there you go
+17:53 all right hopefully that gave you some
+17:55 tips and tricks I am going to lean on
+17:56 you to ask me some questions so I can do
+17:58 some additional content for you with
+17:59 these roofs so maybe you've got a
+18:01 particular condition that's challenging
+18:03 for you and we can show you how to fix
+18:04 that

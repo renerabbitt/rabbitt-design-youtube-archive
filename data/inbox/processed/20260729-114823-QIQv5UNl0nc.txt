@@ -1,0 +1,342 @@
+Title: Twinmotion 2020 Tutorial-PART 5-Settings and Composition
+URL: https://www.youtube.com/watch?v=QIQv5UNl0nc
+Visibility: public
+
+0:13 video number five of this series we're
+0:13 going to carry off where we left off and
+0:16 if you haven't seen the previous videos
+0:19 please go check those out video number
+0:21 four we kind of did a little bit of
+0:21 detailing on this this driveway we turn
+0:27 it into a cobblestone we put some of
+0:30 these cracks in the road and you're
+0:30 gonna see right now I I've got a very
+0:34 disorganized scene graph and as we go
+0:35 through to the next video I'm gonna
+0:35 organize that so you guys can take a
+0:37 look at just how important that is but
+0:42 for this video I want to look into our
+0:42 lighting and I'm not familiar with twin
+0:46 motion I've said it before I've only got
+0:50 about ten hours into this software and
+0:53 I'm just figuring it out as I go so I
+0:53 don't know certain classifications such
+0:58 as what we're even in right now to get
+0:58 to our location whether lighting camera
+1:04 I know that as you hit certain things
+1:04 you see if you hit the f1 key you'll get
+1:09 a YouTube video explaining this I'm
+1:09 assuming is what that is which I haven't
+1:17 done yet so anyways we're in settings
+1:19 that's what we're in this is contact
+1:19 sitting so we're in the settings mode
+1:23 and under settings we've got a couple
+1:25 different things location weather
+1:25 lighting now location means that you can
+1:29 actually set the location of this
+1:29 property true to our map here just by
+1:36 typing in your location now for the
+1:38 purposes video and actually for the
+1:40 purpose of most of my renderings I
+1:40 actually don't really care where this is
+1:45 located because I want to make sure that
+1:47 this lighting looks the way I want it to
+1:49 look so I can do a couple different
+1:49 things here let's just take a look at
+1:54 what the North offset does now North
+1:54 offset is particularly useful because it
+2:00 coincides with the time of day and the
+2:04 month so that if I want the Sun in the
+2:06 background of this image I'm really
+2:06 going to have to play with the North
+2:08 offset here we go and the time of day
+2:13 together
+2:13 to be able to place this where I want it
+2:19 to be placed so that's part one of this
+2:21 you see as we get delay direct light on
+2:24 this scene we're immediately coming up
+2:26 with a lot of things that just don't
+2:26 look that realistic so I'm gonna try to
+2:28 avoid that at all costs which means that
+2:31 I'm gonna play around with these
+2:31 settings until what I've established so
+2:38 far in this scene kind of hides some of
+2:41 the problems with the scene and then at
+2:45 the same time you know is complementary
+2:46 to the scene and not only that but
+2:46 ultimately my focus is this house this
+2:50 is my product I want to show this house
+2:56 the best I can but a part of showing
+2:56 this house the best I can means that the
+3:02 landscaping really needs to look good so
+3:04 we need to set this up you know probably
+3:06 so that I set cast a little bit of shout
+3:08 out shout all on this side yard I'm
+3:08 trying to get rid of you know this line
+3:12 right here or I'm gonna have to go fix
+3:12 it with geometry trying to get away from
+3:16 you know the fact that this is dirt and
+3:18 we're I'm gonna have to go fix it and
+3:19 we've got some geometry problems here
+3:19 that we're gonna have to re-import into
+3:24 the model so a couple different things
+3:26 to consider there when I'm kind of
+3:26 messing around with this this shot right
+3:32 and so I feel like about here is where I
+3:33 want to be to get rid of this which is
+3:36 in the focal excuse me the foreground
+3:36 and then I'm gonna that means I'm gonna
+3:41 have to go in and detail this side yard
+3:44 to be just the way I want it to be the
+3:44 next part is I also feel like I want to
+3:48 you know get a little bit of sun on the
+3:50 front of this house so we've got some
+3:52 conflicting things here to get this
+3:52 scene to be just the way we want it to
+3:54 be so maybe we send it the other way and
+4:00 we wanted to get just enough of that
+4:00 house it's looking pretty good we might
+4:07 have to play around with the daytime
+4:07 settings get a little bit of depth so
+4:14 obviously you can play around with this
+4:18 for hours it's actually quite fun I
+4:18 encourage hit I feel like it's it's a
+4:21 little bit of a meditation if you will
+4:29 and you know the more I cast hard
+4:29 shadows we're seeing some other geometry
+4:33 issues in the way that chief architect
+4:35 which is where we built a model cast
+4:35 shadows so there we go we'll just pick
+4:37 some some kind of random point to start
+4:41 from and then the next thing is I'm
+4:41 going to go back into my settings menu
+4:45 and I'm going to start looking at the
+4:45 weather that's available to me and the
+4:48 weather can do some really interesting
+4:52 things now in the previous video we
+4:52 showed that we were applying some decals
+4:58 to our our roadway here and you can see
+5:00 immediately that some of those decals
+5:05 carry some calculations that that are
+5:05 impacted by weather so there's that big
+5:08 stain that I put in the driveway and you
+5:12 can see that the weather immediately
+5:12 kind of gravitates towards that stain
+5:17 creates some things that happen that
+5:17 coincide also with the terrain model as
+5:23 well so some pretty cool things I'm a
+5:23 big fan of the weather shots I feel like
+5:28 the weather shots are what make twin
+5:28 motion worth it because otherwise I'm
+5:30 exporting to another rendering software
+5:35 so there we go I kind of like something
+5:38 split the middle I like that we've
+5:38 gotten maybe in the morning dew' out and
+5:43 we've cut or maybe these are oil stains
+5:43 got a little bit of pitting in this dirt
+5:48 right here we're getting some a little
+5:50 bit of realism put into the scene and
+5:52 then you can obviously play with the
+5:52 seasons as well and here's that benefit
+5:56 from using those twin motion trees as
+5:57 you get some of that coloring that comes
+6:02 out the fall etc if we want a big fall
+6:04 scene or a winter scene there we go
+6:07 those those 20 motion trees react
+6:07 beautifully to that so I can kind of
+6:11 split the difference keep in mind that
+6:13 tree we imported in the previous Oh what
+6:18 was it video number three if we could
+6:18 change the color of those leaves to kind
+6:23 of match this overall scene maybe we'll
+6:27 make it you know a nice fall maple tree
+6:31 there so that's us messing with the the
+6:33 various tools in the settings section
+6:35 now that we figured out what the heck
+6:38 that name is the last part of this is
+6:39 we've got some additional
+6:39 parameters that we can adjust exposure
+6:44 we can adjust our white balance and
+6:44 which is particularly useful tool for a
+6:47 scene with a lot of heavy blues in it or
+6:51 you've got a lot of blue light in there
+6:53 and you want to soften it up and then
+6:54 we've got some you know additional
+6:54 settings in here that have more to do
+6:56 with creating video content than it does
+7:03 to take still imagery so the last part
+7:07 of this video is I want to discuss the
+7:09 image exporter and I saw the video
+7:09 exporter so we're just going to touch on
+7:14 the image exporter and so what I'm gonna
+7:15 do here is I'm going to create an image
+7:18 and now this image is isolated from my
+7:21 model space even if I rotate around in
+7:21 this model and take a look at what I've
+7:26 got going on here if I and you can see
+7:29 I'm in medium mode so long as I've
+7:29 selected an image and created it and not
+7:34 exited medium mode by hitting the quit
+7:37 medium mode button I'm in medium mode
+7:37 the second I click on this image we just
+7:41 created it's going to take me back to
+7:44 that view point and from here I can
+7:44 select the more button that only shows
+7:49 itself as I hover over that image so if
+7:52 I click more it's going to give me these
+7:56 additional settings now don't these look
+7:58 familiar there are the same settings
+7:58 from this grayed out settings area right
+8:02 here and this is where you can
+8:03 ultimately process your shot before you
+8:10 go to export it now right off the bat I
+8:12 know I want to export in 4k i want this
+8:15 to look as good as it possibly can so
+8:17 i'm going to increase the resolution
+8:17 underneath my camera settings this is
+8:19 where i might play with something like
+8:21 the level of vignetting which by default
+8:27 is 40% maybe i want to really focus on
+8:28 in on an architectural element and
+8:28 really get that been getting up really
+8:34 high parallelism parallelism point out
+8:34 the tough word to say this is similar if
+8:39 you're familiar with Photoshop you've
+8:42 got lens correction they also make
+8:42 lenses that are two-part lenses with a
+8:44 mirror where you can take a shot of say
+8:50 a huge Monument and with that tool or
+8:51 with two
+8:51 Photoshop you can basically square up
+8:54 your architecture to the bounds of your
+9:00 your image so parallelism it's basically
+9:07 just making this building look squares
+9:07 so that if I came in here real tight and
+9:12 I kind of looked up at it and we're
+9:12 getting that you know that perspective
+9:16 view if we draw a zero point and in
+9:17 perspective right here
+9:17 if we turn parallelism off its gonna
+9:19 make sure that my size of this building
+9:29 you see how its kind of off zero here
+9:29 it's off you know off of plane because
+9:33 of the perspective we here hit
+9:33 parallelism and it squares that up next
+9:38 part of this and let's just get back to
+9:41 that image get back to that view there
+9:43 we go we're gonna hit that more again
+9:43 and back into the camera depth of field
+9:50 you know this is great we're let's see
+9:51 yeah and there's a more tab here same
+9:51 thing click on more and this coincides
+9:55 with your aperture of a camera whereas a
+10:02 one apertures foot like the focal point
+10:04 is that's really really low and it's
+10:04 also a very expensive lens common lens
+10:07 might be a 50 millimeter 1.8 and if you
+10:13 notice here it's still fuzzy whereas a
+10:13 50 millimeter if I was taking a shot of
+10:16 this house with folks in with
+10:16 razor-sharp clarity well that's because
+10:21 we haven't set our distance now you
+10:23 could set your distance manually by
+10:23 dragging this up or by selecting this
+10:26 and saying oh I don't know maybe it's 20
+10:30 meters away as where our distance is and
+10:31 we're still getting a little bit of
+10:31 fuzziness on the house here's the tool
+10:33 I'm really looking for which is a click
+10:38 in point set distance and there we go I
+10:40 want to set that distance and you can
+10:40 see the distance right here changed from
+10:46 let's say 17 meters down to 15 meters if
+10:49 I select right here so now we're
+10:49 creating that that bouquet effect so
+10:56 that if we were to let's just quit
+10:57 medium mode real quick and give an
+10:57 example we've got this just beautiful
+11:04 let's see how do I get off of this
+11:04 aperture hit escape a bunch of times
+11:07 until the program crashes speaking of
+11:13 which I'm gonna save sorry for that
+11:13 temporary temporary save let's switch
+11:18 our mode by hitting the number four key
+11:24 to move and then I'm going to grab this
+11:27 guy hold shift drag him away over here
+11:30 and he's gonna be yeah he's gonna be a
+11:32 copy there we go
+11:32 and I'm gonna bring him somewhere like
+11:35 that to kind of give an example of what
+11:45 that depth of field effect can do so
+11:48 let's get back into our medium mode
+11:48 let's hit more and in our camera we've
+11:56 got our depth of field we've got a 1.8
+11:59 aperture and let's kind of get in real
+11:59 tight so that it really shows that depth
+12:05 of field and it also shows that just the
+12:07 quality of this particular tree there
+12:08 you go you'll see this is a really
+12:09 common practice and architectural visual
+12:13 visualization in exterior shots where
+12:13 we're kind of looking past a tree into
+12:16 the scene in it and it really shapes the
+12:21 whole scene by doing that and it also
+12:21 cuts out a bunch of area that we don't
+12:24 otherwise want to fill with something
+12:28 like an accessory house so that's a
+12:28 perfect example of that so let's get
+12:31 back in our camera settings go over the
+12:33 last details here feel the view it's set
+12:38 by default to be 90 and I'll tell you a
+12:39 standard in my practice for rendering is
+12:44 that I'm going to increase this quite a
+12:47 bit because I don't want that heavy
+12:47 perspective elongated house I want my
+12:49 house to look very compact very tight so
+12:56 that if you are in real life
+12:56 looking at a house and you're focused on
+13:01 just that house this is more closely
+13:01 related to your field of view whereas
+13:03 your peripherals will be a field of view
+13:10 like 90 so at this field of view we've
+13:13 got some really sharp effects going on
+13:16 with that bouquet and that tree right
+13:16 there
+13:16 and then you know this is framing this
+13:24 house beautifully now there's a couple
+13:26 of different approaches in twin motion
+13:26 that I see regularly the the more common
+13:32 of the two is to be really back far away
+13:35 from the scene and you can just see how
+13:38 good this looks the further back we get
+13:40 if we get that depth of field and let's
+13:40 get this aperture and if I get this tree
+13:48 and move them way back over here
+13:48 somewhere now we're getting more of the
+13:55 common shot that we see in twin motion
+13:55 but for the purpose of these this series
+13:59 of videos I want to be able to get in as
+14:01 tight as possible and have everything
+14:01 look as good as possible so let's just
+14:06 touch one more thing in this and that's
+14:10 our lens flares the lens flares
+14:10 correspond with where the Sun is located
+14:15 so that if we cranked this way up and we
+14:17 locate this scene so that the Sun is
+14:17 behind this shot we're going to get that
+14:23 lens flare effect that you see a lot of
+14:27 times in post-processing etc so that's
+14:28 going to be the tail end of this video
+14:30 the next thing we're going to get into
+14:32 is just doing more of those decals
+14:32 starting detailing out the street the
+14:34 curb some of the lines in the street and
+14:40 some additional assets and then also I'm
+14:41 gonna start fixing some of these
+14:41 materials some of the materials I
+14:43 brought in because bringing in them in
+14:49 in a 3ds format erased all of my bump
+14:52 maps so I don't have any depth in my
+14:52 material maps and that's going to really
+14:57 set this apart once we start applying
+14:57 those features oh and as always please

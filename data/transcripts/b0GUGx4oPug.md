@@ -1,0 +1,785 @@
+---
+videoId: b0GUGx4oPug
+title: VIP CAD Training Session 2
+url: "https://www.youtube.com/watch?v=b0GUGx4oPug"
+status: imported
+---
+
+# Transcript
+
+0:00 whoa
+0:04 [Music]
+0:10 guess what
+0:12 we just did something smart
+0:15 VIP CAD session number two VIP cat
+0:18 session number two so if you're seeing
+0:20 this
+0:22 you're either a vrp member or this is an
+0:25 old video and you finally got access to
+0:27 it so enjoy either way uh what do we
+0:30 find out that's smart
+0:31 um I wrote a macro
+0:34 I wrote a macro for someone else to make
+0:37 their annotation easier in CAD detail
+0:41 drafting but now
+0:45 I'm figuring out a way to use it for
+0:47 myself and for everybody else to make
+0:49 this
+0:50 way easier to add your details to my
+0:54 setup
+0:56 and it feels great it feels great
+0:58 because it's smart it's a it's a great
+1:00 approach
+1:01 um so here's what we've got
+1:04 when you use a pattern fill
+1:08 it doesn't have an angle associated with
+1:10 it and in fact it doesn't give all that
+1:11 much information period as a publisher
+1:14 so that when we're looking up object
+1:16 properties for a fill that's a solid
+1:19 fill
+1:20 um there's not a whole lot you can use
+1:22 doesn't give you RGB values so you can't
+1:25 gather what what that color is
+1:28 um
+1:29 it can it will find out if the fill is
+1:34 matching the color of the layer that
+1:36 it's from which
+1:39 if you had a bunch of custom layers you
+1:40 could do it that way I don't want a
+1:42 bunch of custom layers right I want to
+1:44 stay pretty true to out of the box
+1:46 so what can you get from a solid fill
+1:48 there's not a whole lot which makes it
+1:51 really challenging to write any kind of
+1:53 variable based script where it's an if
+1:56 this then that condition right a
+1:57 conditional script and where we're
+2:01 introducing variable values
+2:03 what do I just find out well
+2:06 in troubleshooting and figuring out how
+2:09 I can adopt this system I was like how
+2:10 can I do this how can I make it so that
+2:12 I get some kind of unique value to a
+2:14 fill style that when we look at it we
+2:18 can assign a variable based on that
+2:19 unique value and I flip this back from
+2:22 having an angled hatch at at four
+2:25 degrees back to solid okay well what
+2:29 happens when we look at this now it's
+2:30 solid fill we open this up
+2:33 and this CAD box
+2:35 is solid in fact there's some
+2:37 transparency there but it's a solid fill
+2:39 okay
+2:41 now now what let's look up object
+2:44 properties expanded
+2:47 there we go fill solid color nothing of
+2:50 interest in here at all nothing
+2:53 of Interest
+2:55 until
+2:57 we get to
+3:00 at an angle and look at that
+3:03 it retained the angle I had set
+3:06 prior
+3:08 to switching it you know back to fill I
+3:11 had to changed it to an angle of four
+3:13 and I'd switched it back to fill it
+3:14 retains that pattern angle so what
+3:17 happens then if we open this up and add
+3:19 it to our library
+3:22 this is my next curious thing it's added
+3:24 to the library
+3:25 Phil saw blah blah blah blah blah blah
+3:27 press ok
+3:29 there it is in the library
+3:33 eventually
+3:35 okay so now let's use that and we're
+3:37 going to spray oh look at that I just
+3:39 sprayed that up by accident there we go
+3:41 I'm going to spray this look it's
+3:43 retaining that four
+3:45 that pattern is retaining the angle the
+3:48 pattern angle awesome that's what we
+3:50 want now what well this particular
+3:55 pattern it's supposed to be my siding
+4:00 variable
+4:01 okay
+4:02 so
+4:03 exciting I use that color for sighting
+4:05 specifically for siding
+4:07 so what I'll do is I'll issue a library
+4:10 update that is all my fill patterns and
+4:13 they will all have specific angles on
+4:15 them so that we know exactly what they
+4:17 are so that when you use them and you
+4:19 point a leader to it and that leader has
+4:22 my macro what is it going to do I'll
+4:24 show you so we're going to say this is
+4:26 fill style 4 which means we got to make
+4:28 a list I'm going to make a list of
+4:30 things so that I'm keeping track of what
+4:31 each fill style angle is going to be but
+4:34 if I come into project macro
+4:36 designations where we're very
+4:39 specifically changing things based on
+4:41 what one node is linked to one another
+4:43 and it's referencing some custom field
+4:46 that's a macro input one
+4:48 so what we want specifically is we want
+4:51 number 19 right here this guy this guy
+4:53 right here so we want wall sheathing
+4:55 with this Global sign okay and let me
+5:00 give into macro designations and let me
+5:02 get into this new CAD label I just
+5:03 created and you'll see here if we zoom
+5:06 in variable number four this is it that
+5:09 variable number four that equals that
+5:11 variable number four
+5:14 instead I want it to equal this
+5:19 does that work
+5:21 go back to the drawing board
+5:27 cheating her sheets and that's
+5:30 annotating based on the leader being
+5:33 linked to that fill
+5:35 watch
+5:38 break this up evaluation error and we
+5:40 can put a check in there that says that
+5:42 this needs to be you know attached to a
+5:44 polyline that's fine we can do that but
+5:46 as soon as we draw this in snap it there
+5:50 so now you just get to do this you get
+5:53 to go to the library
+5:54 and take the fill that's associated with
+5:57 the thing that you're trying to annotate
+5:58 and this is supposed to be your
+5:59 sheathing and whatever that you know so
+6:02 let's call this your sheathing we
+6:03 highlight it and then we try to annotate
+6:06 it and Bam it changes its thing it
+6:09 automatically does it based on what you
+6:10 said in Project macro designations see
+6:13 this says sheathing for S sheets now
+6:16 now we go back to 19
+6:18 very quickly not fill and Link this to
+6:22 that 3 8 plywood Cs and we go back to
+6:26 this and there we go and this is
+6:28 annotating based on a fill sprayer and
+6:30 what you have set up in macro
+6:32 designations
+6:33 what that's so good that's so good so
+6:36 now let's build the rest of the system
+6:37 bam
+6:39 Bam Bam Bam Bam Bam Bam Bam
+6:43 and so we probably need to do a note
+6:45 schedule to kind of figure out which
+6:47 what each fill
+6:49 is going to be associated with
+6:53 so Hardware fills
+6:55 tricky because it's ambiguous so we're
+6:58 going to need several Hardware fills so
+7:00 we will save this Hardware Phil and then
+7:02 it will specifically be the anchor bolt
+7:06 Hardware fill so let me just type in my
+7:09 Library browser how do you feel
+7:13 already Phil Rd Phil and here's our
+7:17 pattern Hardware so I wanna well first
+7:19 of all show this in folder and pattern
+7:22 Hardware fuel we're going to duplicate
+7:25 and now this is going to be pattern
+7:26 Hardware anchor Bolt
+7:33 and let's open it and
+7:36 I think we just start from the top up
+7:39 and we bottom down bottom up
+7:45 I'm excited I love coming up with this
+7:47 stuff this is great
+7:48 um so this is going to be one so we're
+7:51 going to set this angle to 1. right now
+7:53 the angle is set to zero so all I got to
+7:54 do is switch it to hatch set our angle
+7:56 one
+7:58 and I mean this could be 1.1 1.2 1.3 it
+8:01 doesn't matter it's fill it's solid it's
+8:02 always going to be solid
+8:05 bam so there's our angle one
+8:08 anchor bolt fill and come in here spray
+8:11 the anchor Bolt
+8:13 by the anchor right angle right there
+8:17 and then this just gets the switch first
+8:20 of all no fill because I did that by
+8:22 accident and then the text itself just
+8:25 gets the biggest so you never have to
+8:27 come in here and figure out what this is
+8:29 supposed to be
+8:31 it's going to be your variable one and
+8:33 we need to think that for this one label
+8:38 variable
+8:40 one
+8:41 I think this is just
+8:43 Hardware
+8:45 a b
+8:46 ink
+8:50 evaluation error now so we're going to
+8:51 figure out what that is oh and this is
+8:53 interesting look at this
+8:55 what happened here
+8:57 why did that get to be an error
+9:01 huh
+9:02 why
+9:08 well first of all
+9:11 Ison
+9:17 okay that worked again
+9:22 um look at that
+9:23 look at there
+9:30 look at this
+9:33 very cool
+9:35 um although
+9:37 that was just the test of the theory but
+9:39 I think that this should probably be
+9:42 incredible plan
+9:57 Okay so
+9:59 what else we got
+10:01 the framing one
+10:04 just up the line we're going to do
+10:05 everything based on up the line of this
+10:08 so
+10:09 that's going to be I think that's wall
+10:11 underscore
+10:13 and an easy way to check this is
+10:15 actually getting over into this other
+10:17 Peak
+10:19 this preview
+10:21 so that's guy
+10:24 let's copy this all frame
+10:29 and then
+10:32 well it's easy to like this to me errors
+10:36 it's gonna be gonna have errors because
+10:38 we haven't set up the
+10:41 Enemy Number
+10:47 boost
+10:53 middle class
+10:56 that's good
+10:57 that's two
+11:07 and
+11:12 would fill
+11:14 would feel so this is more specifically
+11:16 going to be
+11:19 would
+11:20 wall
+11:22 framing
+11:23 bill
+11:28 and open this up
+11:35 catch
+11:37 two degrees
+11:48 oh
+11:49 so cool
+11:51 that's so cool so when you're adapting
+11:54 your details in your spring with my
+11:57 fills all you need is one text box see
+12:01 what I mean here but look at this we're
+12:04 going to take this up evaluation error
+12:06 we'll fix this right but we're going to
+12:08 make some CAD boxes just do a couple
+12:11 okay
+12:15 all right right so we have there's our
+12:18 wood framing
+12:20 okay here's our
+12:22 Hardware anchor bolt fill
+12:25 and then what's the next one this is
+12:27 this one do we edit this I don't we'll
+12:30 test it right there's our ply fill so
+12:33 that if we pop this up
+12:35 okay we didn't test we didn't fix the
+12:37 fly fill
+12:38 object
+12:49 balanced
+12:51 there we go
+12:52 uh except for that's weird that brought
+12:54 up anchorball genitive
+12:59 that was one right oh that's right
+13:01 because
+13:02 before we had the system
+13:21 that's right
+13:24 sniper it's exciting I get Super Hyper
+13:28 focused and then this stuff's just rad
+13:30 all right here we go
+13:35 did I do it wrong again dang it
+13:38 open object angle yeah I did it wrong
+13:42 for a line weight
+13:46 it's back to solid
+13:49 slow down there we go anything as seeds
+13:52 so you should just be able to do this
+13:54 and have
+13:55 stuff work on the Fly Ah that's so easy
+13:59 that makes it so easy to convert your
+14:03 pad to my style
+14:06 and guess what
+14:08 you better do it
+14:09 I can't make it easier than this and so
+14:12 when you make new CAD details share it
+14:15 back it gets put into the Pro Plan
+14:17 everybody gets to use it Community pumps
+14:20 it up before you know it we got five
+14:21 million details
+14:23 let's do this so I'm gonna I'm gonna try
+14:26 to make this as easy as possible for you
+14:30 all right next
+14:33 um
+14:34 next would be this kind of sand fill
+14:36 which I'm using for just siding right
+14:40 what is that that is
+14:49 what is it yeah oh there it is this guy
+14:53 and actually before that we don't have a
+14:57 fill method for
+14:59 installation box what does this even
+15:01 show us
+15:04 it expanded
+15:09 ad Bots object type add box
+15:13 I think if we get a cad box
+15:19 because what's a block box give us so
+15:22 let's look at what a block box is
+15:26 walking
+15:28 box is a cad block
+15:33 what's unique about it
+15:39 I'll
+15:40 layer layer line
+15:47 through
+15:51 all
+15:54 style do we really need blocks label
+16:06 do we ever need to be calling this out
+16:08 as anything butthead
+16:11 I don't think so I think this is all I
+16:13 will ever use this particular has
+16:19 top plates bottom plate
+16:24 what could be
+16:33 bottom plate could be something that's
+16:35 in between
+16:38 so we need to write a script that's
+16:40 looking at
+16:42 object type CAD box if it is from
+16:49 maybe I'm drawing right now if I if it
+16:51 is from three inches to six inches this
+16:54 is a
+16:55 bottom plate
+16:57 never going to call a plate
+16:59 ever
+17:05 and then if it's anything outside of
+17:07 that Dimension from zero to six inches
+17:10 anything outside of that
+17:13 all right so I need to script that part
+17:15 in
+17:17 and what are these insulation blocks
+17:22 and it's the matter
+17:27 same thing add box
+17:33 anything
+17:46 Airline
+17:52 they gave us just line color
+17:55 line color fantastic
+18:01 Style song
+18:04 styles
+18:08 we could change the line weight we could
+18:10 we could force that that's kind of a
+18:12 pain
+18:14 not my favorite but we could
+18:20 fault
+18:24 add box
+18:25 all right so let's say for a line weight
+18:28 of 34.
+18:30 all right so let's script some things
+18:32 check this out so this is our approach
+18:35 now
+18:36 uh this all were
+18:40 this all worked so now
+18:43 next what do we need we need a couple
+18:45 things we're looking
+18:46 we want
+18:49 object type
+18:52 ad box and then what is this
+18:59 object type
+19:01 standard polyline okay
+19:10 um pattern angle if pattern angle
+19:15 there is no pattern okay next
+19:18 next okay let's just do this
+19:22 let's add to this that if the object
+19:26 type
+19:28 includes down case
+19:32 the word pad
+19:36 then
+19:43 if line weight
+19:46 is 34
+19:49 in CAD label
+19:52 is
+19:54 insulation
+20:12 oh and we can get rid of this Lumber
+20:16 side
+20:18 spacing
+20:19 oh man
+20:26 okay so let's test it
+20:36 I wish that this I wish that this window
+20:38 could stay open and always on top all
+20:42 your
+20:43 wouldn't that be fit
+20:48 okay so what do we get here out of this
+20:51 your variable for your variable 2 came
+20:53 up oh shoot and we lost
+20:58 dang it
+21:01 um
+21:01 that's fine we'll fix it and then
+21:05 too bad
+21:11 okay
+21:12 so what we would need to do then is when
+21:16 we draw out this insulation
+21:18 we're always going to be copying pasting
+21:20 from another details is what I'm hoping
+21:22 that you're going to do
+21:25 and so you will be copying and insulate
+21:29 Helio
+21:31 right here's that cat box insulation
+21:34 wow I wish it just said like this
+21:37 designation in general that it is
+21:39 insulation I wish we had
+21:41 data as something that was available to
+21:44 it
+21:45 so if I type in 34 and we use
+21:48 our variable here
+21:59 we go
+22:04 there we go
+22:09 only problem here was it's catching that
+22:12 insulation it's almost like when you're
+22:15 drawing this insulation
+22:18 draw it just a little
+22:20 opening this you can snap this guy to
+22:23 there
+22:24 why are those both a variable
+22:28 oh
+22:29 this is the problem
+22:40 um this is interesting y evaluation here
+22:51 I'm gonna find local variable limited
+22:53 pattern angle okay so we need to check
+22:55 if pattern angle
+22:57 responds to first off
+23:00 um in
+23:05 we also need to set our variables so
+23:13 you need to check if pattern
+23:17 spawns
+23:22 or exists
+23:28 uh
+23:30 what happens
+23:33 object
+23:35 yeah there is no pattern s
+23:40 and it's helpful if you expand on
+23:43 we'll see
+23:50 oh it just changed the order of
+23:51 operations that's interesting
+23:57 let's see if this still works like it's
+24:09 got nothing
+24:12 hold on
+24:14 rewrite the pre
+24:20 if
+24:25 let's see
+24:27 object
+24:31 type includes add then it will not have
+24:37 a pattern angle which will throw an
+24:42 error
+25:12 okay
+25:57 at all if
+25:59 object type is CAD
+26:05 box
+26:24 give it to me give it to me quicker
+26:26 quicker
+26:28 um all right and it's this is a good
+26:30 time to edit
+26:34 edit our reported value
+26:47 nil class why would it be in nil class
+26:52 oh practice too
+26:58 why happening
+27:02 uh defined power angles with float Keys
+27:05 yes if owner object type down case
+27:06 includes Cad and owner line weight
+27:08 equals 34 CAD label
+27:11 if down if owner object type
+27:14 I don't want owner in there I don't need
+27:17 owner in there that owner is even about
+27:20 just need
+27:22 type
+27:26 I know
+27:28 plainly
+27:30 or aha see who's the smart one
+27:35 this guy
+27:37 this guy is so now let's set our
+27:39 variables so they're appropriate so this
+27:41 first one was going to be
+27:43 Hardware a b
+27:46 and
+27:48 what do we discover the next one
+27:56 framing one
+27:59 I feel like that was the
+28:01 the wall
+28:03 framing
+28:10 add variables
+28:13 oh so variable three should be
+28:17 but that's on a
+28:25 probably is
+28:26 later
+28:28 this one was wall cheating
+28:34 a bunch of stuff
+28:36 first of all unquote
+28:43 dollars
+28:56 because
+29:07 over it
+29:11 okay
+29:13 now the next condition so we want to
+29:15 adjust this
+29:28 said that this is the adjusted code and
+29:30 it works and it's for its knowledge
+29:31 whatever
+29:32 and
+29:34 uh this guy what is this guy looking at
+29:37 this guy sees that had some pad box and
+29:40 then it's line points three
+29:42 so now we can do kind of the same thing
+29:44 we can do we can make these line weights
+29:46 very specifically
+29:48 33.
+29:51 and then that could be top plate even
+29:53 though I haven't designated
+29:57 so we don't need to have it here this is
+30:04 whatever
+30:07 better for plan so this is when we want
+30:09 to say
+30:14 Dot
+30:24 add box from zero to six inches is going
+30:26 to be
+30:29 bottom
+30:30 look at our variables
+30:33 should be here wall
+30:36 sill plate and wall bottom plate
+30:44 bring the same value all bottom plate
+30:48 bottom plate
+30:57 now let's add if object type is includes
+31:03 had
+31:04 then
+31:06 you want to look at height and if height
+31:09 is from 0 to 6 inches
+31:14 then
+31:15 add label
+31:17 is
+31:21 bottom plate
+31:54 bam let's see what it did there
+31:57 cool
+31:59 so
+32:01 copy that code Bring It Forward the
+32:03 approach
+32:15 um carrot label equal and specifically
+32:19 they want this
+32:22 wall
+32:23 bottom
+32:25 plate
+32:27 okay and what else do we
+32:32 installation we actually want this
+32:38 ball installation
+33:00 look at that that switched the
+33:01 installation
+33:04 let us try to
+33:06 bring this down
+33:12 up
+33:18 table
+33:37 um
+33:43 not compare a unitless value with a
+33:45 measure of
+33:48 length
+33:58 if line weight is or if
+34:01 that was already there else if height oh
+34:04 we need to make sure I actually
+34:07 recorded value
+34:09 right is a reporter value
+34:12 inches
+34:15 measurement
+34:27 rate is between 0 and 6 else if height
+34:30 is greater than or equal
+34:40 make height to float
+34:54 damn
+34:56 bam
+35:02 okay
+35:04 Next Step
+35:07 copy
+35:14 I'll save
+35:16 greater than six then enter
+35:19 and
+35:22 header one
+35:26 we could probably just script this
+35:30 oh it's so much easier getting
+35:33 to work and fix it
+35:35 um else if I is
+35:38 so we're gonna pretty much copy this
+35:41 copy this
+35:44 copy
+35:47 and paste type
+35:54 creator
+35:56 then
+35:57 six
+35:59 now else if height f is greater than
+36:07 six
+36:11 table is
+36:14 copy the head
+36:15 that would have been
+36:17 oh
+36:20 what was it header
+36:22 one
+36:28 oh better
+36:31 Maybe
+36:35 I'll say if height all right f
+36:38 greater than
+36:42 Bang
+36:43 that label equal
+36:52 chain
+37:01 header it's Global header one oh
+37:08 copy it next time copy it next time dude
+37:14 thanks my man
+37:16 turn from your
+37:18 thanks
+37:20 why is that sheathing for S somehow it's
+37:22 binding to that other
+37:25 so
+37:27 that could be a problem
+37:34 and enter one
+37:44 if line weight equals 34 Catholic
+37:46 consolation else if
+37:49 if
+37:51 blah blah else if height
+37:56 object yeah it's a bad box and its line
+37:59 weight is 34. it's wall insolute else if
+38:03 the height of the cad box is greater
+38:05 than zero
+38:07 and is less than
+38:11 bottom plate else if height
+38:14 f is greater than six
+38:19 AD Label
+38:21 one
+38:23 I should be correct
+38:33 there it is
+38:35 damn okay
+38:40 so let's test this
+38:42 second mode
+38:46 um and we wanna
+38:53 this
+38:56 rescue
+39:00 back
+39:06 uh
+39:23 whatever in
+39:27 oh what am I
+39:30 forget how to write
+39:33 I lean too much now once
+39:43 praying for me
+40:04 I always forget that I'm gonna add this
+40:06 and then paste
+40:35 only one message at a time I really
+40:38 don't like
+40:48 I thought I omitted that
+41:10 okay
+41:12 bam bring it back
+41:14 paste it
+41:16 really is
+41:20 why is something in the middle class
+41:23 change something jerk
+41:27 what oh no because everything's
+41:31 but it should have been a rescue
+41:33 oh but it's an ill
+41:35 Ed
+41:39 all right I have to redo that that's
+41:42 okay
+41:45 we want to redo it we want something's
+41:55 okay
+41:57 instead of a rescue I want
+42:00 an else statement that just oh well I'm
+42:03 answering my own
+42:11 so let's go back a little
+42:25 rescue
+42:28 let's pause
+42:30 don't need that all we need is
+42:34 another l
+42:42 l
+42:45 why is enter closing that
+44:24 turning
+44:26 as we go getting an educate
+44:51 all right clean
+44:54 should know it bye
+44:58 undefined local variable or method or
+45:01 new
+45:13 animation error
+45:20 almost should
+45:58 let's stop at generating it kind of told
+46:00 us with the clicks here so under final
+46:02 opener middle class
+46:06 we want
+46:13 maybe we should check
+46:19 um
+46:22 when pattern angle is applicable
+46:37 object type includes down case
+46:41 Ollie line
+46:45 the object type is polyline
+46:48 and no other conditions are met
+46:51 we want to put the text back
+47:00 there we go thank you
+47:18 hopefully that doesn't affect our
+47:23 aux type
+47:41 I think that did
+47:59 oh because we're reference
+48:19 let's
+48:24 eat her
+48:38 breast
+48:41 it's winter
+48:56 connect leader line
+48:58 to polyline
+49:54 are we
+49:56 now we get to check
+49:59 so here
+50:01 bam
+50:05 eating fruit make sure that it's very
+50:10 quickly
+50:15 back
+50:19 sure that it's somehow
+50:36 this one's gonna be
+50:57 this
+51:20 cool it's working
+51:22 okay
+51:31 change your text here oh interesting
+52:00 funnel
+52:02 oh
+52:05 telling me what's wrong unlinked
+52:20 that later line is garbage
+52:23 this
+52:26 there it is
+52:31 okay so we want this one
+52:39 this
+52:42 I want that to be based on pattern open
+52:48 what what is this
+52:51 finishes
+52:54 okay
+52:57 open this object up
+53:00 sand angle five
+53:04 okay spray this
+53:06 and
+53:09 go into add label this
+53:13 five
+53:16 highlight all
+53:21 right here
+53:24 oh maybe yeah and
+53:29 final check
+53:32 working
+53:34 very cool very cool this should make it
+53:38 so much easier
+53:41 so watch this bang spray this bang bang
+53:44 changes it immediately
+53:48 this system's getting crazy
+53:51 crazy crazy and we get the developers to
+53:54 implement this this would be awesome
+53:56 right
+53:58 this system's getting crazy
+54:01 which they gave us a left side and right
+54:03 sided polyline that would be awesome
+54:06 left side right side because then that
+54:08 way where you could ensure that we're
+54:09 hitting the right thing
+54:12 look at this very cool
+54:16 all right into session number two

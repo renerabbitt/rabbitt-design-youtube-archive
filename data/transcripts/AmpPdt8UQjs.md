@@ -1,0 +1,110 @@
+---
+videoId: AmpPdt8UQjs
+title: CA SHORTS   Chief Architect Preferred Side Window Layouts
+url: "https://www.youtube.com/watch?v=AmpPdt8UQjs"
+status: imported
+---
+
+# Transcript
+
+0:02 This is just a quick video to show you
+0:05 my preferred side window setups here.
+0:05 So, um, especially if you've got a very
+0:09 small screen you're working off of and
+0:09 trying to maximize that real estate for
+0:13 my project browser. And I'm really
+0:13 zoomed in here, but we can see here that
+0:17 I've got the details panel turned on. If
+0:19 you don't know where that is, it's in
+0:21 this wrench icon. This wrench icon is
+0:23 usually at the bottom of your screen
+0:23 down here, but I changed mine. I dragged
+0:27 mine around. So, just show you exactly
+0:28 what I did here is typically details is
+0:30 turned off. I'm going to turn that on. I
+0:36 want to in fact turn everything on here.
+0:39 I'm going to drag details so that it is
+0:39 docked over to the side here. Okay, just
+0:44 like that. And then I want to make sure
+0:47 that I've got filters are turned on,
+0:47 folders, details, preview. Now I'm going
+0:52 to drag this toolbar to the side of
+0:52 folders. Just like that. Okay. And there
+0:58 we kind of go is I want actually this
+1:01 details to be on the side of projects
+1:01 and then preview is this last position
+1:07 here. Okay. Now this makes it really
+1:07 easy to kind of figure everything else
+1:11 out. So you kind of got to drag this
+1:15 into place so that
+1:15 oh this is a little bit more
+1:16 challenging. Let's go. There we are.
+1:18 That's what I like right there. And so
+1:21 what this gives me is it gets my folder
+1:26 tags. It gets me the details of what
+1:26 project I'm on here or plan, etc. You
+1:31 know, when that folder was created in
+1:31 inside of the details section here. And
+1:34 then something that's really helpful is
+1:37 notice I've got test working plan open.
+1:39 And hey, I just want to see what's open
+1:41 over here very quickly. We can just
+1:41 click on only show open projects. That's
+1:45 going to show this. I'm also going to
+1:45 hide those common documents as well. So,
+1:50 makes it really easy to see what's open
+1:53 currently in my windows. So, that's how
+1:55 I like to have my project browser is
+1:55 we've got our um just our main toolbar
+2:00 here to the side of folders. Tuck in
+2:02 projects underneath folders. Tuck in
+2:02 details on the side as well. And you saw
+2:06 the order of operations there was a
+2:06 little bit tricky. So, just to take this
+2:11 back another step is it's easy to just
+2:11 take this main toolbar, put it aside of
+2:16 folders, take details, put it aside of
+2:16 folders, and then take our projects and
+2:21 put it underneath folders and then
+2:21 expand this upwards. And then this gives
+2:26 us our preview. Okay, now let's go to
+2:26 the library browser. Managed to do this
+2:30 as well. Now, I have a unique tagging
+2:30 system that makes it really, really easy
+2:34 for me to find things very quickly like
+2:37 my shelf component system. And so, same
+2:38 thing, we're kind of narrowing this
+2:38 window down, but I've got folders here.
+2:43 This gives me my full hierarchy of
+2:43 everything, right? So, I could expand
+2:45 this, expand all, and just see that full
+2:49 hierarchy. And then I've got some
+2:51 preview stuff here. Now, this is
+2:51 something that I often times undock. And
+2:56 then on a Windows machine, I know I get
+2:56 to hit Windows and the left arrow key to
+3:00 kind of expand this stuff out to see,
+3:00 you know, bigger previews if I'm really
+3:04 searching for things. Um, but this is
+3:05 the way I like to have this. double
+3:05 click it and it red docks it. And of
+3:07 course, if I slide this over, it's going
+3:11 to expand some of these panels, make it
+3:14 a little bit easier to see. Okay. And
+3:14 then the last one is just having active
+3:18 layer display options. Now, if you
+3:18 didn't notice, if you dragged one of
+3:20 these by accident and kind of did this
+3:24 thing, you see how the blue highlight
+3:24 there is, you know, kind of picking up
+3:26 the bottom. Now, it's stacking these and
+3:30 we don't like that. So, you need to make
+3:32 sure that you're dragging this out and
+3:33 getting to this to the point where it
+3:33 can dock through the whole side window
+3:39 there. And then it becomes a tab. So,
+3:39 nice to be able to have these all tabbed
+3:43 in. And of course, I like to show
+3:43 everything except for layer management
+3:47 and show all layers. And the rest of
+3:50 this I like to see. And there we go.

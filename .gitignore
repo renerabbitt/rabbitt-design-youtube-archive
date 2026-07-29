@@ -1,0 +1,41 @@
+__pycache__/
+*.pyc
+*.pyo
+.Python
+.venv/
+venv/
+.env
+.env.*
+
+# Temporary yt-dlp metadata exports
+data/*.raw.json
+data/**/*.raw.json
+data/youtube.cookies.txt
+data/*.cookies.txt
+**/cookies.txt
+data/chrome-debug-profile/
+data/inbox/_extract_expr.js
+
+# Inbox working area: Whisper audio, Chrome debug profile
+data/inbox/_meta/audio/
+data/chrome-debug-profile/
+
+# Audio / media binaries (Whisper source, downloads)
+*.wav
+*.mp3
+*.m4a
+*.webm
+*.ogg
+*.flac
+*.mp4
+*.mkv
+*.avi
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~

@@ -1,0 +1,92 @@
+---
+videoId: CjVCRA-T26M
+title: Solid Intersections. Modeling Shapes For Sofas in Chief Architect X15
+url: "https://www.youtube.com/watch?v=CjVCRA-T26M"
+status: imported
+---
+
+# Transcript
+
+0:01 uh Hey VIP we've got a request online it
+0:04 was looking to make this particular
+0:07 shape right here so it looks like this
+0:09 shape has kind of an um a round face and
+0:12 then a round top and then Square sides
+0:16 and it's cut away to this cushion and so
+0:18 I'm going to show you how I would do
+0:20 this in Chief so let me just start with
+0:23 that roof tool that I've been using um
+0:25 is a great way to model believe it or
+0:27 not so let's just grab this I'm going to
+0:29 put this at 1 in elevation to bottom and
+0:32 then I'm going to just do this in 3D so
+0:35 I'm going to take my cylinder tool I'm
+0:37 going to snap that to the center
+0:40 here draw this up kind of arbitrarily
+0:43 and then I'm going to take that this
+0:46 um just our solids tool and draw this in
+0:50 kind of arbitrarily let me uh
+0:52 concentrically resize this a little bit
+0:55 and then we can even Center this up so
+0:58 we know it's lined up here on the
+1:00 cylinder and so the method I'm going to
+1:01 use for this is that I'm going to um use
+1:05 intersected to create my shape so first
+1:08 thing I want to do is I want to Arch the
+1:10 top of this solid okay going to be my
+1:13 Arch something like that looks pretty
+1:16 good and then with intersected when you
+1:20 use that it will um just produce a shape
+1:24 for anything that is intersected
+1:26 anything that is not an intersected
+1:28 piece of these solids will be cut away
+1:31 so what does that mean that means this
+1:33 top right here would be cut away leaving
+1:35 this arched top that means this side of
+1:38 the cylinder is going to be cut away
+1:40 leaving a flat side that means um this
+1:45 arched front well everything forward of
+1:47 that arched front is going to be cut
+1:48 away all of this section is going to be
+1:50 cut away right so anything that's
+1:53 intersected will remain let's just try
+1:55 it exactly how it is right now we'll
+1:56 select these two use that intersection
+2:01 what does it leave us with well that's
+2:03 pretty close to what we want it just
+2:04 doesn't have that flat back right so
+2:06 that makes sense so in order to get that
+2:09 flat back we just need to bring this
+2:11 forward so that it's the only thing
+2:13 that'll be intersected so if we look in
+2:15 this cylinder the only thing that's
+2:17 intersected then is this flat section
+2:19 and so that should get us what we want
+2:20 so let's go ahead and try this again
+2:22 select these
+2:23 two go ahead and intersected there we go
+2:26 now I've got a flat back I can even
+2:28 manipulate this right I can draw this
+2:30 back if I want to and I've got that Arch
+2:34 front Arch stops and then we can go and
+2:37 do a fill it let me do fill it all uh
+2:39 3/4 of an inch sure that sounds about
+2:43 right why
+2:44 not and there we go we're getting to
+2:47 something pretty accurate maybe I didn't
+2:48 want to fill with this backside so you
+2:49 can just kind of do that manual stuff or
+2:52 you can just you know come in here and
+2:53 draw another solid and cut away that
+2:56 back if you need
+2:58 to and this is why it's great to use um
+3:02 that that whole roof plane tool because
+3:04 easy to Center up on positions there we
+3:06 go now I'm going to cut away that back
+3:08 half that I filled by
+3:10 accident it's by using our
+3:16 subtraction all right and that looks
+3:18 pretty good that looks like that cushion
+3:19 that I want so there we go enjoy
+3:30 h
+3:32 [Music]

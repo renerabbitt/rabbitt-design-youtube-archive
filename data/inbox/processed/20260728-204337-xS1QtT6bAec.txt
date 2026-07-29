@@ -1,0 +1,229 @@
+Title: Pocket Cabinet Door Tutorial In Chief Architect X16
+URL: https://www.youtube.com/watch?v=xS1QtT6bAec
+Visibility: public
+
+0:02 see this question come up quite a bit in
+0:05 Chief Architect forums Etc how do we do
+0:08 this cabinet right here what is this
+0:08 cabinet right here well let me select
+0:10 this cabinet real quick and then in my
+0:13 edit toolbar I'm going to open cabinet
+0:15 doors and you're going to see look at
+0:15 that it looks very similar to a pocket
+0:20 door cabinet and how does that work
+0:21 turns out you can actually do this
+0:23 within Chief there's a few caveats
+0:23 though about this and that just kind of
+0:27 comes with the territory of really
+0:27 custom Cabinet symbols but you can do
+0:31 this without doing any kind of layer
+0:31 manipulation or anything like this so
+0:34 that you can show this to a client on
+0:37 the Fly keep in mind that we have to
+0:41 build out custom doors for our
+0:41 particular cabinet it's not going to be
+0:43 a uniformly working situation because it
+0:49 depends on the depth of the cabinet
+0:49 itself okay so let's go ahead and get
+0:53 into this and how do we do this I'm
+0:53 going to throw in a cabinet door here
+0:54 let's open this bad boy up I'm going to
+0:59 get into box construction and I'm going
+0:59 to set my overlay to inch and a/ qu this
+1:03 is just going to make a few things
+1:03 easier down the line for me I'm also
+1:07 going to get to door drawer and note
+1:07 that I have to set door handle To None
+1:10 that's really important this isn't going
+1:13 to work with a door handle but we have a
+1:16 workaround for that which we'll get to
+1:17 because we're making custom doors
+1:17 anyways we're going to end up making a
+1:19 custom door with a door handle but that
+1:21 doesn't need to scare you away from this
+1:26 video it can be pretty quick and easy
+1:26 now let me get the front sides back I'm
+1:30 going to get to the back side side and
+1:34 I'm going to choose first match front
+1:37 Okay from there I want to go down to
+1:37 custom face so first that initialized
+1:40 matching the front face of the cabinet
+1:44 so if we switch around to the back you
+1:44 can see here that matches the front and
+1:46 now we have a custom face we're going to
+1:51 do a couple things we need to space this
+1:53 door out from its sides so let's split
+1:55 this vertically and then split one of
+1:55 these doors up vertically again and then
+1:59 first we're going to set this to be an
+2:01 opening and we're going to set this to
+2:03 be like a/4 of an inch and then we'll
+2:03 choose that other door which was on the
+2:08 other side and choose opening and set
+2:08 that to be a/ quarter inch now when we
+2:12 key in some number it's going to
+2:12 automatically choose lock for model
+2:14 resize which is what we want all right
+2:16 now the next thing is we can get rid of
+2:19 these separations these are just
+2:20 automatically generated when we split
+2:21 this up so we get rid of Separation one
+2:26 get rid of Separation 2 and we're left
+2:30 with separation horizontal separation
+2:30 vertical and then I have a blank area in
+2:35 my default cabinet boxes and then then
+2:36 this layout horizontal we've got an
+2:36 opening of quarter inch the door and
+2:39 then another opening of a/ quarter inch
+2:41 if you haven't guessed by now what we're
+2:44 going to be doing is we're going to be
+2:44 building a door with an offset in its y
+2:50 position so that it displays on the
+2:50 front side of the cabinet what this also
+2:56 means is that this cabinet is not going
+2:58 to have a cabinet back there are some
+3:00 workarounds with this one being a lot
+3:00 more advanced one being way easier but
+3:02 less Dynamic we're going to go with the
+3:04 less Dynamic easier method which is just
+3:08 putting a backsplash behind the cabinet
+3:10 itself if we need to display a back of
+3:12 this cabinet now let me switch back to
+3:14 the front of this cabinet and we also
+3:14 need to set this up as well so I'm going
+3:18 to rotate my cabinet around so we can
+3:18 see the front and then I've got a door
+3:21 right we're going to do the same thing
+3:21 basically we're going to split this door
+3:25 once choose one of those doors we split
+3:27 split it again and now we're going to
+3:27 set this to be an opening and we're also
+3:32 going to say that this has no shelves so
+3:34 we need to click on the shelves button
+3:34 click manual type in zero and now we've
+3:39 got an opening with no shelves and I'm
+3:39 going to make this opening maybe about 1
+3:43 inch this will create opening separation
+3:46 which we can leave in this case and then
+3:49 door right and then separation another
+3:51 door right which we are you guessed it
+3:51 going to set this to an opening with no
+3:58 shelves now I'm gonna go ahead and set
+4:00 this to one inch again so here we go
+4:03 we've got an opening separation door
+4:06 separation opening that middle door
+4:06 we're going to actually turn into an
+4:10 opening and you can specify whatever
+4:12 shelves you like here but this is it
+4:12 we've finalized our approach here so let
+4:17 me press okay and let's take a look at
+4:17 what we've got there we go we've got the
+4:22 basic pocket assembly now is next is to
+4:22 build that door with an offset so I have
+4:27 a door placed here already and you're
+4:27 gonna see here that I actually placed a
+4:31 little cabinet handle on the back side
+4:34 so I get to select these two and in my
+4:34 edit toolbar convert selected to symbol
+4:40 okay we're going to make sure that this
+4:43 is a cabinet door drawer add to library
+4:45 show Advanced
+4:45 options now when we look at this in an
+4:50 x16 our door handle is facing in the
+4:50 negative y leg we need to rotate this
+4:54 around so we're going to hit rotate a
+4:54 couple times in the Z so that that door
+4:58 handle is faced in the positive y
+5:00 direction okay
+5:00 the next part about this is I want to
+5:03 set this door up because it has frame
+5:03 styles and rails I want to set this up
+5:09 so that this uniformly stretches while
+5:09 avoiding stretching the Styles and rails
+5:14 so I need to know the size of my style
+5:17 and rail for this particular symbol I
+5:18 know it's 2 and 5/8 so I get to just
+5:18 come in here into width and say hey let
+5:21 me grab the overall width which is 14 in
+5:27 I can divide this by two leaves me with
+5:27 seven and I'm going to minus the size of
+5:34 my rail in this case so 2 and space 5/8
+5:36 right that's going to leave me 4 and 38
+5:38 I can copy this into the other width
+5:38 input and just put a negative sign in
+5:40 front of it and then I want to make sure
+5:45 that I'm choosing to uniformly stretch
+5:45 in between those planes and you can see
+5:50 here it's creating a stretch Zone which
+5:52 is showing that when this symbol is
+5:52 stretching it's only stretching this
+5:54 Zone leaving my two Styles in this case
+6:00 intact all right right same thing with
+6:02 the height I'm going to go ahead and
+6:02 punch in this 2 and 5/8 in this case and
+6:07 then uh for the overall height I need to
+6:09 take my overall height of the symbol 21
+6:12 and A4 paste this in here and I can
+6:12 minus that 2 and 58 there we go make
+6:16 sure I click height planes one and two
+6:18 uniform stretch planes in between there
+6:23 we go we're stretching just in the
+6:23 middle of this cabinet door the last
+6:26 part about this and this is again this
+6:30 is a quick video we're only at about
+6:33 maybe 8 minutes before we're done is
+6:33 that I need to set a y offset I need to
+6:39 go ahead and grab the overall depth of
+6:41 this symbol copy it and then I'm going
+6:46 to set a y offset that's based on the
+6:48 depth of my cabinet so my cabinet is
+6:48 going to be 21 in in this case and this
+6:52 is why you have to do this for each
+6:54 unique cabinet depth that you're
+6:54 creating because this is the only way
+6:59 this works okay so I'm going to do 21
+6:59 plus the depth of my cabinet door press
+7:06 okay this is now in my library I can
+7:09 hover over click and replace and you
+7:11 know because these doors are kind of
+7:11 buried in the ceiling you might have to
+7:14 kind of get here in here in 3D my door
+7:15 is right here so it's finally giving me
+7:19 this mouse cursor option to replace you
+7:20 can see when I'm hovering over the
+7:24 correct area there we go and what
+7:24 happened well my cabinet's not 21 in is
+7:31 deep yet so let's go ahead and do that
+7:33 and here we go now this cabinet's all
+7:33 set up look at that it just dives into
+7:38 the pocket let me make this 42 wide
+7:40 which would be appropriate for a
+7:40 two-sided 21inch door at a 21inch deep
+7:45 pocket so when I open this up look at
+7:47 that it just buries into the pockets
+7:47 looks very cool the last part about this
+7:52 is I have a backsplash here I can just
+7:52 copy paste it in place and just paste it
+7:56 centered on this and just kind of
+7:56 conform it to the back of this cabinet
+8:00 if I really need to show the back of a
+8:03 cabinet right that's total possibility
+8:03 that's fine this will work the last part
+8:07 about this is in case you want to have
+8:07 some spacing in between these doors when
+8:12 they're shut right we can always come in
+8:16 here get to that backside face again we
+8:19 can split this door right it's going to
+8:21 create a separation if you will and
+8:21 let's go ahead and change this to just
+8:25 we can make it an opening and maybe we
+8:27 want to just have like a quarter inch
+8:27 reveal in between the two we can choose
+8:32 layout horizontal click equalize and
+8:32 then make sure that one of these it's
+8:34 this side is going to be that door left
+8:40 in this case so that it Pockets
+8:40 correctly there we go now we have a
+8:42 little Gap in between the door very cool
+8:46 let's open it up one more time look at
+8:47 that it's beautiful cabinet all done let

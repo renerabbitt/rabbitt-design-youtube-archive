@@ -1,0 +1,311 @@
+---
+videoId: dx5kcZ5XgEk
+title: Organizing your drafting sessions in Chief Architect or Home Designer
+url: "https://www.youtube.com/watch?v=dx5kcZ5XgEk"
+status: imported
+---
+
+# Transcript
+
+0:02 hello chief architect viewers this is
+0:02 Renee rabbit of rabbit design I'm gonna
+0:05 go over something that I get asked about
+0:08 constantly I'm you know I do a lot of
+0:10 training videos for people I actually
+0:12 have a service where I'm drafting for
+0:12 people while I'm training so I do full
+0:16 speed drafting while I mean describing
+0:16 what I'm doing so you can go and review
+0:20 afterwards instead of one on one
+0:20 training where I'm doing a screen
+0:22 sharing which is another service I offer
+0:26 the drafting train training is a little
+0:27 bit different in that I'm not slowing
+0:27 down I'm going at my full speed and then
+0:31 I'm going to describe what I'm doing and
+0:34 that allows you to go review that video
+0:34 over and over and over again as you need
+0:38 to but it also pushes your project
+0:40 forward at a full speed drafting
+0:40 production speed level drafting so
+0:43 anyways to get into this a little bit
+0:45 further I wanted to show a filing system
+0:49 that I've been using for years now and
+0:52 have developed over the years and this
+0:52 is for kind of best filing practices and
+0:58 so we're in a job file right now I've
+0:59 got a folder that's called active
+0:59 projects this is my particular clients
+1:02 name and then I've got a particular you
+1:07 know a job name that I've associated
+1:07 with it now I can get a little bit more
+1:12 granular with the job name titles but
+1:12 for this particular case it's a really
+1:16 simple job name and then within this
+1:16 folder we've got some very basic things
+1:21 one is backups backups are when I want
+1:24 my client to review that file in chief
+1:26 architect I'm gonna go underneath the
+1:30 files section backup entire plan and
+1:30 then I'm gonna create a zip from that
+1:35 entire plan so that then I stored in
+1:35 this backup and I can either share this
+1:39 folder with him on a cloud source or I
+1:42 can email that backup direct to my
+1:42 client I'm gonna skip cab because we're
+1:46 gonna go over that in a second but
+1:46 contracts is self-explanatory invoicing
+1:48 is self-explanatory photos this is where
+1:53 I'm gonna keep job related photos when I
+1:55 do takeoffs of a property I'm gonna take
+1:57 a bunch of photos in case I missed
+1:57 anything in my takeoffs because I'm
+2:01 usually only on-site for an hour to
+2:01 three hours doing split-level homes I
+2:05 have a very fast method of doing
+2:05 takeoffs then we've got plans this is
+2:11 where I'm going to place my PDFs my
+2:12 versioning
+2:12 and then we've got renderings now under
+2:17 CAD this is my working drafting folder
+2:20 and so I received something from the
+2:21 client
+2:21 I want all assets to be in this folder
+2:25 anything I've received anything that
+2:25 could possibly be placed in plan or PDF
+2:30 I'm gonna put in this folder and the
+2:33 reason being is that if I'm on a you
+2:33 know a network share with someone that
+2:35 is also going to be working alongside of
+2:39 me you know with these files I want to
+2:39 make sure that all the assets live here
+2:44 because when I share my folder with
+2:46 someone else and say we've got this
+2:46 image number two built into a plan file
+2:48 what happens is when I open up that plan
+2:55 file chief is going to reference not
+2:55 only this image number two name but it's
+2:59 also gonna reference the file structure
+3:02 here and the person I might be sharing
+3:03 with absolutely does not have the same
+3:06 file structure so it's gonna come up
+3:06 with an errand chief saying it's missing
+3:10 these images if they were in some other
+3:12 folder other than the active plan so
+3:15 that's why I put all assets into the
+3:15 active plan now the next thing I'm gonna
+3:20 do and just as an example I'm working on
+3:21 an out-of-the-box templates something I
+3:23 never thought I'd be doing because it's
+3:25 you know it's I've come so much further
+3:28 than this but just as an example let's
+3:28 start in an out of box template I'm just
+3:34 gonna build a quick little house here
+3:34 we're just gonna make a box no big deal
+3:39 I'm not even gonna use hotkeys so you
+3:41 guys can see what I'm doing I'm just
+3:41 making some interior walls we could have
+3:44 done this in the space planning app but
+3:47 just you know really a incredible app
+3:51 and let's just build a roof as well
+3:52 excuse me build roof automatic roofs
+3:57 rebuild roofs select okay maybe we'll
+4:06 make this a gable sure so here we go
+4:06 I've built a plan out now I'm gonna make
+4:10 something a little bit different than
+4:11 the working set and the working plan
+4:11 view set in that I'm going to make a new
+4:17 layer set and we're gonna call it let's
+4:23 just go to our default sets and I'm
+4:26 gonna make a new Anna set as
+4:26 and I'm going to call this II plan for
+4:31 existing plan and under EPLAN
+4:31 under the layer set I'm going to yeah
+4:36 let's just pick any other thing and
+4:36 we're gonna define it and we're gonna
+4:37 copy that set it doesn't really matter
+4:39 I'm gonna call this the e plan layer set
+4:48 why not and press ok press ok now I'm in
+4:53 that active anisette I'm gonna switch
+4:53 that active anisette I should say excuse
+4:56 me
+4:56 active anisette there we go and with
+5:00 that checked I'm gonna select all these
+5:05 I'm gonna go ahead and not display all
+5:05 of them I'm gonna change the line weight
+5:11 to I don't know let's call it 20 and
+5:11 then I'm gonna make this guy - what i'm
+5:17 doing here is i'm making an existing
+5:17 plan overlay or underlay depends on how
+5:23 you want to want to set it up and i'm
+5:23 gonna make it grey there we go now the
+5:26 only thing i want on our walls so let's
+5:37 just grab all these walls select all
+5:37 these we're gonna display them the only
+5:41 thing i'm going to uncheck is going to
+5:41 be the main layer only section okay and
+5:46 actually i'm probably gonna turn off
+5:46 layers as well there we go so i've got
+5:49 walls
+5:49 I want windows turn those on I want
+6:00 doors good to turn those on and we
+6:00 didn't place any windows in door so
+6:01 let's go ahead and grab a tool and do
+6:03 that it doesn't really matter this is a
+6:07 fake plan I'm gonna show some windows
+6:11 and doors just giving examples and I
+6:11 could show the roof lines as well sure
+6:14 why not where's our roof plane right in
+6:23 the middle there
+6:23 okay so now I've got an e plan I'm gonna
+6:28 say this mm-hmm
+6:28 save as and gonna navigate to that
+6:36 active folder excuse me under this
+6:36 received it's also just gonna be as
+6:38 built but we can I'm gonna date this
+6:41 actually I don't need to date the excuse
+6:45 me I'm gonna name this and we're in
+6:45 Columbia and we're gonna call it a B
+6:56 okay so Columbia a B now I'm gonna save
+6:57 it again and this time I'm going to call
+7:07 it new so under new and we're gonna
+7:07 change to a let's change to a different
+7:10 plan view you know what they've got
+7:12 autosave on out of the box which is
+7:12 silly shouldn't be on autosave I want
+7:23 that working layer set now I want to
+7:23 switch to let's see save that now I want
+7:31 to switch to my EPLAN anisette and we're
+7:35 gonna save this view as EPLAN for
+7:35 clarity and actually I'm going to go
+7:38 ahead and save this back I'm going to go
+7:41 back to say because we fixed that little
+7:46 detail and kick this back again to new
+7:46 okay so we're in our act of Columbia new
+7:51 plan and when I switched to my working
+7:54 plan view it should go oh no it didn't
+7:54 do it should switch to my working layers
+7:58 set anyways
+7:58 so when I kick on my reference display
+8:04 set and then change my floor reference
+8:09 I'm gonna open up my Columbia a B and
+8:16 Friesen Columbia CAD Columbia a B is
+8:16 gonna be on and we're gonna go to the e
+8:19 plan layer set that I just did I'm gonna
+8:24 move it down a layer and so now if I
+8:24 delete this wall we're gonna see look at
+8:28 that we've got an as-built underneath
+8:28 this so clear and concise way of having
+8:34 that as built underneath I'm gonna go
+8:38 ahead and save this and ctrl W
+8:38 close that octave window there we go I'm
+8:44 gonna alt tab over to my Windows
+8:45 Explorer and so if I've got a new
+8:47 working drafting session this is what
+8:50 I'm gonna do is I'm gonna come to my job
+8:55 which is Columbia I'm gonna go into CAD
+8:57 and I'm gonna take the last session I'm
+8:59 going to ctrl C to copy it ctrl V to
+8:59 paste it and I'm gonna rename this and
+9:04 here's what I'm gonna rename it I'm
+9:04 gonna name it 2003 11 and whatever I
+9:12 want doesn't matter now
+9:12 I've effectively you know maintained my
+9:17 backup right this is a previous
+9:17 iteration here's my new iteration this
+9:20 is where I'm gonna start working from
+9:24 I'm not gonna use that that dialogue
+9:27 that we get you know as we are open
+9:27 recent files I'm not going to do that
+9:30 I'm gonna come straight to the folder
+9:30 and I'm going to open up straight from
+9:32 that let's see let's close this out sure
+9:42 we'll say that yeah yeah no switch back
+9:46 alt tab and so I'm in my new working
+9:46 session I want to work in this Columbia
+9:50 plan it's gonna link that Columbia a B
+9:53 but that Columbia a B is going to be a
+9:53 file from on my new working session it's
+9:57 not going to be the original that
+9:57 original it's going to stay intact so
+10:03 we've effectively made a backup and
+10:03 started a new working session so now if
+10:05 I make some new modification like delete
+10:13 these other walls and say this for the
+10:18 day and not only that I'm gonna print
+10:21 and typically I would set up a layout
+10:23 file to print so I haven't you know a
+10:25 print server all set up with my logos
+10:28 all that stuff but I'm gonna print in
+10:28 the location I'm gonna print at excuse
+10:30 me I've got the wrong job here we've got
+10:36 some fuller Friesen I'm gonna throw this
+10:38 in plans and what I'm going to name it
+10:41 is today's date or that same drafting
+10:41 date 11 working session there we go and
+10:50 so the point of all this is that when I
+10:51 come in here
+10:51 and I get a client and they're asking me
+10:55 that you know what we like this previous
+11:00 design and it's labeled DRV B which is
+11:03 Design Review B or D our VC can we
+11:03 revert back to that design I know we've
+11:08 done seven more designs since then but
+11:08 I'd like to go back to that design it's
+11:10 gonna be really easy for me to go in and
+11:15 say which which filename was that and
+11:18 they're gonna say it's the 2003 11
+11:18 working session and all I would need to
+11:23 do is go into CAD and maybe I've got 20
+11:25 other folders in here but all I need to
+11:28 do is find that same folder and I can I
+11:30 can pick up right where I left off from
+11:30 that design iteration it's a perfect way
+11:36 of backing up your files keeping steped
+11:38 configurations right so that I have a
+11:38 resource and a reference if we want to
+11:43 get even more into this even more
+11:43 granular you can set up your invoicing
+11:47 the same way you can set up your
+11:47 bookkeeping or your time tracking based
+11:52 the same way you can even go into your
+11:52 time log and edit your time log to make
+12:00 those same notes under tools under time
+12:02 tracker let's stop time logging for a
+12:05 second yes I know we're gonna look at
+12:05 that time tracker view that time log and
+12:10 what we can look at here is we can say
+12:10 you know it's already dated we know it's
+12:14 already dated but we can make some
+12:14 reference to you know PDF yada yada yada
+12:26 it will remain in notes little typo
+12:26 there no big deal but you can see it's
+12:31 in my notes now now I've got a time
+12:33 tracking log of this I've got a CAD
+12:33 folder full of this design iteration
+12:36 I've got a PDF for reference for this
+12:41 design iteration it's foolproof it's
+12:41 bulletproof if I want to go share this
+12:45 with you know someone else the first
+12:46 thing that they're going to do if I
+12:46 share this file and they want to start a
+12:50 new working session and they know this
+12:50 everybody I work with knows this is that
+12:53 they're going to take this working
+12:53 session they're going to ctrl C and
+12:56 actually we're gonna have to close this
+13:00 out to be able to do it which is a big
+13:01 part of this you know you need to be
+13:01 able to back out of those files but now
+13:05 we've closed that out I'm going to
+13:05 trol C control V start my new working
+13:09 session you know whatever you want to
+13:09 call it a different user name and there
+13:15 we go and they're gonna start from here
+13:17 now I know that you know no conflicted
+13:17 copies we know exactly where everything
+13:21 is and how to reference everything so I
+13:22 hope this helps some people hope this
+13:22 video really you know gives you a clear
+13:28 working path for it for your workflow
+13:28 how you should be working as a drafter

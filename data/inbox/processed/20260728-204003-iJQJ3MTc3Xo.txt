@@ -1,0 +1,95 @@
+Title: CA SHORTS - Blank Line Style For CAD Details
+URL: https://www.youtube.com/watch?v=iJQJ3MTc3Xo
+Visibility: public
+
+0:02 Oh, I got a real quick tip for you here.
+0:03 I'm going to show you a couple different
+0:06 ways we can blank out some things using
+0:09 the blank line style in case you didn't
+0:11 know about that and a couple other
+0:11 methods as well. So, often times we
+0:13 might want to select the exterior room.
+0:17 If you don't know this, maybe I should
+0:17 do a video on that. This is the exterior
+0:21 room that we've selected. And in my edit
+0:23 toolbar, I'm going to make a room
+0:23 polyline. That's going to give me this
+0:27 line. I might be using this line to
+0:27 report some kind of value, but I might
+0:33 not want to show this line because we
+0:33 could switch to some different view and
+0:35 what will happen is that will show up as
+0:41 a CAD line. So, what you can always do
+0:41 is open up a polyline, get into the line
+0:48 style, okay, line style panel here, and
+0:51 in the style designation, go ahead and
+0:51 click and drop this down and go to this.
+0:56 And now I know it doesn't look like much
+0:58 to someone completely new. This would
+0:58 just look like, you know, some weird gap
+1:03 in all these different lines, but that's
+1:06 actually a blank line. Look at that. So
+1:06 that when I press okay, we no longer can
+1:11 see this line. But you can see I can
+1:13 still select it there. It's just not
+1:13 displaying that line. So that's a really
+1:18 cool trick that you might need to use
+1:18 for a variety of different reasons. Now,
+1:23 another reason this becomes impactful is
+1:25 when you get into drawing CAD details
+1:25 and you want to get into some a little
+1:29 bit more advanced details. Maybe I'm
+1:29 going to go ahead and open this up and
+1:32 we're going to show that I'm kind of
+1:35 using, you know, these breaks as a
+1:35 continuation, right? Well, actually,
+1:36 what I have here is look at that. It's
+1:42 just a polyline that has a blank line
+1:42 style that has a fill style as well set
+1:46 to solid solid white. And then I changed
+1:51 the draw order so that it was in front
+1:53 of these other CAD elements. Now
+1:53 something else that you can do is let me
+1:58 just copy this polyline over here is
+2:00 we're going to see here look I might
+2:00 want to not show this solid line here.
+2:03 And so we can do something about that in
+2:08 X17 which is let me just break this move
+2:10 this around. Notice that this is my
+2:10 selected edge handle. I've changed my
+2:14 colors and preferences to show my
+2:14 selected edge handle very clearly. And
+2:19 what I can say here is I don't want to
+2:21 show this selected edge. So that
+2:21 effectively turns that into that blank
+2:25 line style. I could do the same thing
+2:25 over here. And look how clever that is.
+2:30 That kind of looks like a continuation.
+2:33 So that we can get that fill in there
+2:35 while still having some kind of, you
+2:35 know, section cut line width here where
+2:39 maybe we're coming into the line style
+2:39 and maybe I'm setting the line weight to
+2:43 something like 80 and showing my line
+2:45 weights. And there you go. Oh, that
+2:45 would be an appropriate way to show that
+2:48 we're cutting through something that's
+2:50 continuous in a CAD detail and still
+2:50 show that it's kind of broken up at the
+2:55 top. So, really cool method there as
+2:55 well. And then kind of the last thing
+2:59 that you could do is in the case that
+3:01 you need to you've got a polyline,
+3:01 you've shaped that polyline, maybe we're
+3:05 not worried about the fill, you can
+3:05 always take a selected edge handle and
+3:10 use the disconnect selected edge and
+3:12 that will get rid of that edge. Now
+3:14 notice this is no longer a closed
+3:14 polyline. So we can't apply a fill to
+3:16 it, but we can always just disconnect a
+3:22 couple of edges to get maybe a shape
+3:23 that we need where we don't want a
+3:24 closed polyline. So there's something in
+3:28 that as well. I got more CAD tricks for
+3:29 you. This was just supposed to be a

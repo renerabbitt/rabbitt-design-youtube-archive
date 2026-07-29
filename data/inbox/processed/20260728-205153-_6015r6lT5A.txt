@@ -1,0 +1,298 @@
+Title: Learning the Chief Architect X15 Library Browser
+URL: https://www.youtube.com/watch?v=_6015r6lT5A
+Visibility: public
+
+0:03 okay hello chief users this is going to
+0:06 be a temporary
+0:06 one time only Library tutorial for X15
+0:10 because we've got some fixes coming our
+0:12 way and there's gonna they're gonna have
+0:15 to release some kind of patch because
+0:15 they've got a couple things broken here
+0:18 that um that need to be fixed before
+0:20 this is this is prime time ready so
+0:23 stuff that worked in beta 2 is not
+0:23 working in the official release so keep
+0:28 in mind a few things won't be working
+0:30 quite right but let me go over a few
+0:30 things a few tricks for you people that
+0:32 are new to X15 and don't really know how
+0:35 to use the library it might be very
+0:36 frustrating for you and rest assured the
+0:41 library is actually a really powerful
+0:41 tool now so keep that in mind a couple
+0:46 things we'll go over one is well let's
+0:46 just go over the different areas in the
+0:49 library browser you can always get to
+0:49 this in your help section but we've also
+0:54 obviously got our search bar that's
+0:54 that's typical we have a back arrow so
+0:58 that can we can go back in history or
+0:58 forward in history we also have include
+1:04 web results so when this is checked and
+1:05 you make a search it's going to search
+1:08 on online as well and that's a really
+1:10 powerful tool now keep in mind I have
+1:12 mine unchecked that's for specific
+1:12 reasoning you're going to get faster
+1:14 search results if we're not also trying
+1:19 to include web results because this is
+1:19 of course changes based on your internet
+1:24 connection speed and then we've got our
+1:26 advanced search or where we can set
+1:26 filters up and then we've got a drop
+1:28 down arrow where we can select some of
+1:33 our saved filtered search results
+1:36 and then we have right here we're
+1:38 showing filtered
+1:38 searches okay or let's see filtered
+1:43 options I guess you would call this
+1:43 and then we've got our typical folders
+1:47 our filtered results our preview panel
+1:47 and if you right click anywhere in here
+1:52 you can also include tags or details so
+1:53 a couple additional things that we can
+1:53 add here we can preview in tile mode or
+1:58 we can preview in list mode there's a
+1:59 couple reasons why you might want to
+1:59 change that here and there on the Fly
+2:01 and we can get to our settings here but
+2:04 this is the same thing as right clicking
+2:09 in one of these windows and then we have
+2:11 include subfolders or not or search
+2:11 subfolders or not this specifically is
+2:15 not working in official release now
+2:17 let's go ahead and just dive into
+2:17 creating some searches now first thing
+2:21 to recognize here is we're not going to
+2:24 be searching the way that we used to
+2:25 search which is maybe we were just
+2:25 searching for toilet and pressing enter
+2:29 well that just gets you anything with
+2:29 the search attribute toilet or anything
+2:34 that includes toilet in the name of the
+2:36 fixture itself instead what we're going
+2:38 to do is search toilet and then before
+2:41 we hit enter go ahead and scroll down
+2:41 here and you're going to see a number of
+2:44 different things now we've got folders
+2:46 that are called toilets or we can
+2:46 designate a symbol type which is a
+2:49 toilet and this will limit our results
+2:54 to the type that is classified as a
+2:54 toilet meaning that we're getting to
+2:56 more specific results a lot faster now
+3:01 if we include web results we're also
+3:01 going to see that this expands past what
+3:05 I just have in my library what's
+3:05 downloaded and we see this icon on
+3:08 things that are in catalogs that I do
+3:12 not currently have downloaded and
+3:12 installed in my Chief Architect if I
+3:15 were to right click on one of these
+3:15 items we have the option to download
+3:17 catalog or if I was to click and drag
+3:23 this into my plan view it would also
+3:25 give me the option to download that
+3:27 catalog now I'm going to uncheck
+3:27 choose filtered web results now let's
+3:30 get into something a little bit more
+3:30 specific now this added the filter but
+3:35 we also have this right here which is
+3:35 this was my search filter by just typing
+3:40 in toilet and hitting enter keep in mind
+3:41 every time we hover over one of these
+3:41 and click it's going to eliminate that
+3:46 filter okay
+3:46 so if I click on this it's going to
+3:47 eliminate that filter I'll tell you why
+3:49 this is powerful let me get to a fixture
+3:58 and I'm going to go symbol type other
+4:03 now from here we can see we've got a
+4:03 bunch of results here but maybe I just
+4:04 want to search for sofas now I can do a
+4:08 text search that is a sofa
+4:08 now we're limiting to very specific
+4:11 results very quickly we're getting to
+4:13 our results a lot faster because we've
+4:18 got multiple filters if I hover over
+4:18 this other furniture and just leave sofa
+4:22 we're going to see that we get a lot
+4:22 more results here and so some of these
+4:27 things might not be classified as the
+4:30 type of furniture that is a sofa
+4:30 now let's get into some more advanced
+4:32 searches if you will let's go ahead and
+4:38 type in style palette
+4:38 and we can see here we can type style
+4:40 palette and we can see that I've got a
+4:43 bunch of different style palettes here
+4:46 if I click on this drop down from my
+4:46 user catalog and get into another drop
+4:51 down say my shop for instance now it's
+4:54 including only style palettes from my
+4:57 shop of these style palettes maybe I
+4:57 have a search result that I want to look
+4:59 for
+4:59 that's called Rd cab and of those maybe
+5:06 I want to search rdcab painter instead
+5:07 it's going to replace that previous
+5:07 search text but it re that leaves the
+5:14 style palette filter intact now I'm
+5:14 getting to a very specific set of tools
+5:18 that I'm looking for now if I click on
+5:18 this advanced search we're going to see
+5:22 it's already got my existing search
+5:22 loaded in here so that if I wanted to I
+5:28 could create a new filtered search for
+5:30 that specific search parameter called
+5:33 rdcab painter chop
+5:35 press ok
+5:35 and now I've created that that's a new
+5:40 saved filter result let me click done
+5:40 that way if I have both of these filters
+5:45 unchecked and I go back to my drop downs
+5:46 for filters we're going to see here
+5:46 already cab painter shop there we go
+5:50 it's going to enact
+5:52 that search
+5:52 well it should anyways so here's another
+5:57 thing that's being broken if you will
+5:57 so if I just hit this x out and I click
+6:02 on that search should have enacted that
+6:04 search so a couple little problems here
+6:04 that are that aren't quite ironed out so
+6:09 keep in mind these things will work in
+6:11 the future as they figure this out
+6:11 so another method I can look for here
+6:13 let's just type in Kohler and we can get
+6:18 to the manufacturer Kohler so anything
+6:20 that's manufactured by Kohler so now
+6:20 we've got one filtered result now let's
+6:24 look at something like this let's go
+6:27 purist and we can
+6:27 you guessed it we can choose this folder
+6:32 so now I'm limiting to that purest
+6:32 folder and look at that I'm getting to a
+6:37 search result very very quickly I'm
+6:37 getting to just what I want specifically
+6:42 so a number of really powerful things
+6:44 with this new filtered search result
+6:44 tool I can of course uncheck this folder
+6:50 get back to a different purist folder if
+6:52 I want to
+6:52 number of different things here so let's
+6:56 go through a couple of other searches
+6:57 you might do now keep in mind we can
+7:00 always search different types we can
+7:01 search all kinds of things if you're
+7:01 curious about what you can search get
+7:03 into that advanced search again and you
+7:06 can see here in the other attributes
+7:10 sections as I expand this is that we
+7:12 have all these different object
+7:12 attributes you can look for specifically
+7:17 3D solids architectural blocks
+7:17 Etc you can look for specific styles
+7:21 you can look for manufacturers symbol
+7:23 type this is a big one if you're looking
+7:27 specifically for say a cooktop for
+7:28 instance
+7:28 symbol options this is mainly in the
+7:31 electrical classification of symbols and
+7:35 then symbol placement maybe you're
+7:35 looking for things that are going to be
+7:40 cabinet mounted or ceiling mounted or
+7:40 inserts into corner cabinet or one great
+7:46 one if you're looking for decor and you
+7:49 maybe want um sits on base cabinet or
+7:50 table let's take a look at what that
+7:50 does so we're going to type in sits on
+7:52 and look at this sits on base cabinet or
+7:57 table so now I'm getting filtered
+7:57 results of items that can be placed on
+8:04 top of a countertop how cool is that
+8:07 kind of an interesting thing here so
+8:07 and then on top of that maybe you want
+8:09 to put you know Decor or something like
+8:13 that or a pan but that will just look
+8:13 for a pan there we go so very quickly I
+8:17 get to a bunch of different pans and
+8:18 these all sit on top of a cabinet
+8:20 perfect
+8:20 look at some of these other ones that
+8:28 symbol type again maybe we want to just
+8:29 look for a cooktop so let's just take a
+8:32 look at this let's X Out These existing
+8:32 filters and I'm going to type in cooktop
+8:37 and I want simple type cooktops
+8:37 and this is really simple we're going to
+8:40 get to a bunch of different cooktops
+8:42 here now maybe I want a specific
+8:42 manufacturer let's include web results
+8:45 and what are we looking at here well we
+8:50 can't right click and get details from
+8:50 this but if we right click in the window
+8:54 and show the details panel we're going
+8:56 to see that this is made by Subzero so
+8:59 what if we type in Sub-Zero now we're
+9:02 getting only cooktops from Sub-Zero
+9:02 so again another really powerful search
+9:05 result now what if we want to go back to
+9:08 some of these older searches we can hit
+9:10 that back arrow get back to some of
+9:10 these previous searches this goes back
+9:12 level by level so it goes back you know
+9:17 even through the different filters that
+9:27 uncheck that details window
+9:27 now you can lock your different
+9:30 Windows here if you like if you've come
+9:32 up with an arrangement that you like try
+9:35 out the different modes here try out the
+9:37 different like the list mode might be
+9:37 helpful I personally like the grid mode
+9:40 but sometimes the list mode is helpful
+9:43 if I need to see you know full name
+9:43 and not these truncated names you can
+9:45 hold your control key and mouse wheel up
+9:50 to get a different preview size here
+9:50 that's really helpful so keep that in
+9:55 mind you can drag and red dock these
+9:57 windows in different arrangements so
+9:57 that's helpful as well and in the future
+10:01 we're going to be able to be able to use
+10:05 this search subfolders section here so
+10:07 hopefully that'll just help you out in
+10:07 the meantime while you're learning this
+10:11 the library tricks and tips
+10:11 um but I think once you get used to it
+10:12 this is a really fast method for getting
+10:17 into stuff quickly I've been working in
+10:19 a lot of projects lately and yes I'm a
+10:21 power user and from the power user
+10:21 perspective I was frustrated at first
+10:23 with these tools and now it seems to be
+10:27 really really fast
+10:27 um one a couple last clothing clothing
+10:32 thoughts is that you can click on
+10:33 different items here and add tags to
+10:35 them now I'm not going to be adding a
+10:39 ton of tags because there's been a
+10:39 promise that we're going to get group
+10:42 editing of search attributes in the
+10:42 future and tags kind of fill up a window
+10:50 if you will but you can manage tags from
+10:50 here
+10:51 you can add a bunch of additional tags
+10:53 you can add tags to a bunch of different
+10:56 items at the same time by group
+10:56 selecting them that's all kind of
+10:58 powerful stuff so that's pretty helpful
+11:02 and then another thing that you might
+11:02 notice that's a little different if we
+11:06 right click we've got this move to
+11:06 folders option and that's another big
+11:10 one we can move things to specific
+11:10 folders by searching or just navigating
+11:15 through our catalogs so that's a really
+11:15 powerful way of getting through all this

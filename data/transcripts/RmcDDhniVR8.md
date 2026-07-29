@@ -1,0 +1,1046 @@
+---
+videoId: RmcDDhniVR8
+title: How To Align Textures & Patterns in Camera Views For Chief Architect X17
+url: "https://www.youtube.com/watch?v=RmcDDhniVR8"
+status: imported
+---
+
+# Transcript
+
+0:03 video is a start of a brand new series
+0:05 on my membership area in YouTube and
+0:05 it's going to be geared towards interior
+0:09 designers. I'm going to show you
+0:09 everything you kind of need to know
+0:11 using Chief Architect and a couple other
+0:15 tools like Photoshop for really
+0:15 streamlining your process and uh and
+0:20 really I'm trying to target office
+0:20 environments in this because I train a
+0:24 few office environments and I'm I'm
+0:24 starting to see some real big movement
+0:28 and I'm starting to pick up on exactly
+0:30 what you need to know in that office
+0:30 environment to improve your skills in uh
+0:36 Photoshop and in Chief Architect to get
+0:38 that interior design document out there
+0:40 real real fast. And we're talking about
+0:43 kitchen designs, bathroom designs, etc.
+0:44 This starter video, kind of a teaser
+0:46 video. This one's for free. And I'm
+0:46 going to show you how we can create a
+0:48 texture that's a pretty good texture in
+0:51 Chief Architect. It's going to render
+0:53 well. And we're going to do something
+0:53 that you might be frustrated with, which
+0:59 is match up your vector. So your
+0:59 elevations, okay, those vector views,
+1:03 elevations, so that we see those grid
+1:03 lines to our texture where our texture
+1:09 might look like a tile. This is a very
+1:11 frustrating thing for beginning users
+1:11 when they're trying to figure out, hey,
+1:15 I've got this pattern that I see in my
+1:18 elevations. It's not correct. It's not
+1:18 offset the way I want it to. I want this
+1:23 to be a 2x4 tile, and it's not. Well,
+1:23 turns out there's not an extremely easy
+1:29 way to make a texture. just by, you
+1:29 know, specifying the exact sizes that
+1:32 you want. There's no real generator
+1:34 there. Um, but there are some tools
+1:36 available to us. I'm going to use
+1:36 Photoshop for this video. So, check out
+1:41 what I'm going to do here. Someone sent
+1:43 me a sample image of what I needed and
+1:45 it was a really low resolution image.
+1:47 So, I'm going to use Google image
+1:49 search, which is just coming into
+1:49 Google, Google.com, etc. Search Google
+1:53 and you can hit this little image
+1:53 button. And in fact, you can even hit it
+1:58 up here in your top tray if you're using
+2:00 Google Chrome. So, search with Google
+2:00 Lens. That's going to bring you to this.
+2:05 You could do a snip from there. Or you
+2:07 can just cancel this out and well, let
+2:07 me try that again. I can hit this again
+2:12 and I might be able to ask about an
+2:12 image, etc. But really, I'm just going
+2:14 to load up an image by uploading a file
+2:18 that I took and and this was it. I just
+2:20 took a little screenshot here. So, it's
+2:22 going to search for this image all over
+2:23 the web, right? And I'm going to try to
+2:25 find something that's a little higher
+2:28 resolution like this right here. That
+2:28 looks pretty good. And I want to see if
+2:33 I can save this. Now, often times when
+2:35 you go to websites like this, it's not
+2:35 possible to save the image. So, if I try
+2:40 to rightclick this and save image as Oh,
+2:43 in fact, this is saving it as a JPEG
+2:44 file. That's very interesting. Often
+2:44 times, we can't do that. If in fact you
+2:47 can't save some image, it's saving it as
+2:52 a WEBP file. Well, there's converters
+2:52 online where where we might be able to
+2:55 take advantage of a converter. Or
+2:55 another thing that we can do is we can
+2:57 go to rightclick inspect. And what this
+3:02 is going to do is bring us to elements
+3:04 on this. Now, this is a little bit
+3:04 advanced. You could play around with
+3:07 this if you want, if you're familiar
+3:07 with what we're looking at here, but I'm
+3:11 just over here in the inspect. I'm
+3:14 expanding drop-own carrots to come
+3:18 through here and kind of highlight
+3:18 where that source image might be. Now,
+3:21 this is a little bit tedious at times,
+3:24 but sometimes this is the only way to
+3:24 get that source image in the resolution
+3:26 that you need. And it takes a little bit
+3:29 of knowhow to understand what we're even
+3:31 looking at here, especially because this
+3:34 has got some kind of a view window. Now,
+3:35 usually when you're highlighting things
+3:37 in or something like this, you're
+3:37 actually getting an interactive section
+3:40 of your side drop-down windows here. But
+3:46 you can see as I'm moving through this
+3:49 bit of coding on the right hand side,
+3:52 it's highlighting different aspects.
+3:52 So as I come down here, look at that.
+3:57 That section right there was
+3:57 highlighting the image. So I'm going to
+4:01 expand it by hitting my right arrow and
+4:03 then getting down into this. And I'm
+4:03 going to expand as far as I can. There's
+4:09 some kind of zoom container.
+4:09 It looks like that's as far as I'm going
+4:14 to get. this zoom window container. And
+4:14 so, is there an image in here? Sometimes
+4:20 yes, sometimes no. It does look like
+4:20 there is an image in here. It's kind of
+4:23 hard to to grab. Um, you can see there's
+4:33 a HTTPS, right? So, kind of funny. This
+4:35 is actually a web URL, believe it or
+4:37 not.
+4:37 And so, we can see that this isn't a web
+4:43 URL. I can maybe copy this, paste it.
+4:45 Let's see what happens. Look at that.
+4:47 And that's the source image at full
+4:47 resolution. So, can I save this image
+4:49 from here? Yes, it saves as a JPEG file.
+4:54 So, I know that was a little convoluted
+4:56 and it was a little bit advanced and it
+4:59 was even more advanced than than than I
+4:59 even could inform you about. I just know
+5:03 enough to kind of goof around with that
+5:06 inspect to get myself to the highest
+5:06 resolution source image possible. Now,
+5:09 let's take a look at this. When I
+5:09 download this, when I download this and
+5:15 we open this up, we're going to see if
+5:17 as I hover over this in my in my
+5:17 operating system, when I hover over
+5:19 this, it's going to tell me what the
+5:21 resolution is. 1280x 540. Okay. And so,
+5:27 let me go open this up in Photoshop.
+5:27 Now, the reason I love using Photoshop
+5:33 for this is
+5:33 find and open with. Here we go.
+5:38 is that Photoshop has a pattern
+5:38 previewer. So, we can get into the view
+5:44 menu, pattern preview
+5:44 right there, and it's going to try to
+5:49 tile this image so that I can take a
+5:49 step back and see is there any problem
+5:54 with me just tiling this image exactly
+5:57 as is. And actually, it looks pretty
+5:59 good. We've got a repeat of that one
+6:01 dark tile. So, I might want to do
+6:01 something about that. I could probably
+6:03 just take the stamp tool, which is all I
+6:07 did was hit the S key and come in here
+6:09 and and try to stamp this over. And
+6:09 you're going to see here that I'm like
+6:11 picking up the grout lines. I'm going to
+6:14 get align this pretty pretty well.
+6:14 Actually, let me pull away from the
+6:16 corner. Pull away from the corner. And
+6:21 look at this. I'm just It's telling me
+6:23 the source there. It's showing me the
+6:26 source. So, let me just pick up a top
+6:28 edge. Let me get this grout line in
+6:28 here. just kind of buzz through there.
+6:35 Look at that. And this is looking a lot
+6:39 cleaner. And if I back up, that kind of
+6:41 took away that that hot kind of dark
+6:41 spot there. And so I could do the same
+6:44 thing here is I'm just picking with alt.
+6:50 So I'm picking a source and then
+6:53 bringing that source over here.
+6:53 So I'm just getting that a little bit of
+6:58 that dark away from there. And so I'm
+7:00 losing some of that repeat. Okay. So
+7:02 here's that last part. That's real a
+7:05 harsh darkness. Okay. And
+7:05 um look at this. I kind of misaligned
+7:12 this grid right here. This corner.
+7:12 There we go. Fix that right here. Here's
+7:18 that dark spot. Let me try to grab, I
+7:26 Get in there nice and perfect. and just
+7:27 clean up that dark spot just a little
+7:28 bit. Maybe we'll just do this. You can,
+7:31 you know, soften your brush up. If you
+7:31 don't know how to do that, I'd say just
+7:34 go take a look online. But I'm going to
+7:36 soften the brush up. And there we go.
+7:37 I'm really losing that repeating
+7:38 pattern. The one thing I I am noticing
+7:43 is that this grout line is um is not
+7:43 quite perfect. So, let me see if I can't
+7:49 just copy a grout line over and see how
+7:49 that does. That does pretty good. That's
+7:55 a pretty darn good repeating pattern.
+7:55 So, now that I have that, let's uncheck
+7:59 pattern preview. There's my source
+7:59 image. And that's looking pretty good.
+8:01 Now, I'm going to hit Ctrl J. This makes
+8:05 a copy of this layer. I'm going to do it
+8:06 a couple times because I'm going to make
+8:09 some mods for this. The one thing that
+8:09 I'll uh do right off the bat is I'll get
+8:15 into a filter other and do a highpass.
+8:15 And this is going to help kind of clean
+8:19 up the disparity between the light and
+8:21 dark areas because I'm going to try to
+8:23 get to some kind of a a bump map from
+8:26 this. And a bump map means, you know,
+8:28 black is an indentation, white is a
+8:28 raised section or vice versa. It can be
+8:32 inverted. And so that's how we're going
+8:32 to create a little bit of height in this
+8:37 tile. So, this highp pass filter when I
+8:42 change the radius is basically we're um
+8:44 we're we're filtering down um colors
+8:44 across the 0 to 255 range. Zero being
+8:48 our um uh our true white, 255 being our
+8:52 black. And so, we're kind of compressing
+8:57 these the existing colors down uh to
+9:00 this range. So, um this is kind of
+9:00 scoping based on a radius. And you can
+9:04 just play around with this number. You
+9:04 don't really need to know how this works
+9:08 other than hey, it's a good tool for
+9:08 using to try to get these grout lines to
+9:13 just show up as best we can. Okay. And
+9:15 so there we go. I've done it once. I
+9:16 could even do it again. I could even
+9:16 come back into this highpass again and
+9:20 refilter, you know, and maybe that gets
+9:22 me some new results that are beneficial.
+9:26 The next thing that I love doing is
+9:26 getting into the filter dropown menu and
+9:32 get into our filter gallery. And in the
+9:34 filter gallery, there's a section here
+9:37 that is the sketch section. Okay, see
+9:39 the sketch section here? There's a
+9:39 number of fantastic tools here that will
+9:44 really get us to a bump map very easily
+9:46 a lot of times. Now, I want you to note
+9:48 pick up that it's, you know, doing a
+9:48 brown color here. Why is that? That's
+9:53 because my foreground and background
+9:53 colors are not just white and black. So,
+9:57 I'm going to hit X to switch these two
+10:00 and pick black. And so now I've got
+10:00 white and black as my foreground and
+10:02 background colors. And so when I come
+10:07 back into filter and then filter
+10:08 gallery.
+10:08 Now we can see what's happening here. So
+10:13 this light dark balance you see here is
+10:15 just a sliding scale. You mess around
+10:17 with this. But look how nice this is
+10:17 when I get this down. There we go. We're
+10:21 starting to get, you know, this is
+10:21 almost making the, if this were a bump
+10:23 map, making the lip of the tile kind of
+10:29 jut out and then come back down. So,
+10:31 this would be almost like a cupping
+10:33 effect. Let's try a couple of these
+10:35 others.
+10:35 This note paper, you know, you got to
+10:38 just play around with these sliding
+10:38 scales. But look at that. I mean, that
+10:40 makes for a great bump map right off the
+10:45 bat. We're getting some a little bit of
+10:53 This is photocopy again. And you can
+10:53 mess with that darkness scale. Mess with
+10:58 the detail scale. See what you can get
+11:01 out of that.
+11:01 And I just like taking a look at each of
+11:05 one of these. I kind of know what I'm
+11:05 looking at. So, you know, I'm a little
+11:15 there's that light dark balance.
+11:15 That one's kind of a funny one. Now,
+11:17 we're noticing that the interior side of
+11:22 of this is is what's happening is it's
+11:25 picking that up as um kind of a a
+11:25 difference between the lip and then more
+11:30 of a difference between the grout lines.
+11:32 So, something that we could do is called
+11:34 a curves adjustment. So, you hit
+11:34 controlm for a curves adjustment. And
+11:37 you don't necessarily need to know how
+11:41 curves work. There's a few different
+11:43 ways we could do this. Um what we're
+11:45 looking at here is these are all the
+11:46 pixels in this image and they're kind of
+11:50 in the medium gray. So this is gets into
+11:52 the darker pixels. This gets into the
+11:52 lighter pixels. Okay? And so this is a
+11:54 sliding scale of those pixels. So if we
+11:59 wanted these medium gray pixels to be
+11:59 darker, we would need to lower the point
+12:04 the intersection here. And so what does
+12:07 that mean? If I did this, I'm lowering
+12:09 all these medium gray. And then I
+12:09 brought this back up. I'm leaving the
+12:14 existing gray back where it was. And
+12:14 then if I wanted to draw way up here,
+12:19 I'm bringing those lighter grays even
+12:22 lighter. And so that's what this did.
+12:22 Look how much lighter that grout area is
+12:27 there. So let me show you this again. As
+12:30 I kind of draw this through, look what
+12:31 happens when I just draw a straight
+12:31 line. It's making everything darker.
+12:35 It's making all those pixels darker.
+12:37 It's this is the output. This is the
+12:40 existing graph input. And so we're
+12:40 taking all these pixels here all the way
+12:43 up to here and we're bringing them down
+12:46 to this output level. Okay. So what I
+12:46 really want is I want those light grays
+12:52 to be wider. Right? So I want all this
+12:52 to be a lot wider. And then somewhere in
+12:56 the middle here, we're going to come
+12:58 down and make all this a lot darker.
+12:58 Right? And so it takes a little bit of
+13:02 practice doing this um to try to
+13:02 understand how this works. And so you
+13:08 can see here it's like closer to that
+13:08 edge and then drop that up. That's very
+13:10 close to a workable bump map, believe it
+13:15 or not.
+13:15 Right. Pretty good. So what happens now
+13:22 if I come back into this filter filter
+13:24 gallery and mess around with some of
+13:24 these settings? Now we've got a little
+13:28 bit different of an effect on this
+13:28 sliding scale to get just those grout
+13:36 And that's not too bad. I could I could
+13:38 use this as a bump map. It leave a
+13:38 little bit of pocking here, some stuff
+13:43 like that. Um, so I'm not going to get
+13:43 much more advanced than this. You know,
+13:48 I always already feel like this is a
+13:48 little bit advanced for some users. Um,
+13:51 let's just take a look at some of the
+13:53 other options. So you can see the
+13:53 different effects. Here's that, you
+13:57 know, photocopy.
+14:00 Take this down.
+14:00 Photocopy is kind of an interesting one.
+14:04 I would think that I'd want kind of a a
+14:09 smoothness to it. Um,
+14:09 this one's kind of an interesting one.
+14:12 Feel like that would work quite well,
+14:12 too. In fact, let's just save that one.
+14:16 Why not? That might make for an
+14:16 interesting bump map. I'm going to
+14:17 export this. In Photoshop, we just get
+14:20 to hit control shiftw. By the way, there
+14:25 is a port of a software that is very,
+14:25 very similar to Photoshop. It's almost a
+14:29 carbon copy, and that's called Photoia,
+14:31 and that's online, and I believe it's
+14:31 free. It's got some ads on the sidebar.
+14:33 You could go check that out if you don't
+14:36 want to pick up Photoshop. But here we
+14:38 go. I'm going to export this as a PNG.
+14:38 And I'm going to call this Oh, what are
+14:50 Zelig Neo. Okay, another Zel line of
+14:52 products.
+14:52 Zel Neo. And then we're going to call it
+14:58 dash bump. We want to very specifically
+15:02 add that pump. And so I'm going to get
+15:04 this into my tile folder. I'm going to
+15:08 call this a grid. And so here we go.
+15:08 Legion need a pump. And I like to save
+15:10 this location so I can get to it easier.
+15:16 So there's that one. I'm going to go
+15:19 ahead and export this.
+15:19 Want to uncheck transparency for Chief
+15:23 Architect. This is really important.
+15:23 There's still a little bit of a glitch
+15:26 where it'll show transparency when we
+15:28 don't want it to. Um, I'm going to go
+15:31 ahead and pick up that same name if I
+15:31 can find it. Where the heck did I save
+15:34 that?
+15:34 Let's see. Oh, I thought I saved it
+15:40 here, but no, I can't see it.
+15:42 Neo.
+15:42 Now, there it is. Leo.
+15:45 There's the diffuse map. Let's go take a
+15:50 look at what this looks like real quick.
+15:52 Now, I also want to show you one more
+15:52 thing here. And this is kind of a crazy
+15:57 little trick. Um, I'm going to make a
+15:59 copy of this. I'm going to invert the
+15:59 colors. I'm going to do um I'm in fact
+16:06 I'm going to even take away the white.
+16:06 And so we could do something where we're
+16:12 doing an adjustment and a replace color
+16:12 at the bottom here. And I want to try to
+16:17 take away this white color
+16:17 and see if I can't just make it black.
+16:22 Okay.
+16:22 this. Let's see if I can grab it. There
+16:26 we go.
+16:26 And then I'm going to do the same thing
+16:31 again. I'm going to just replace this
+16:39 And I'm going to export this. And this
+16:40 is here's where I'm going to do
+16:40 something funny. We're going to see how
+16:44 this works. I'm going to reduce the
+16:44 resolution of this quite a bit. Like
+16:47 250. This is really going to make this
+16:49 kind of fuzzy. Maybe a little bit higher
+16:53 than that. Let's go 600.
+16:56 There we go.
+16:56 Yeah, why not?
+16:59 One more. One higher.
+17:04 Little bit higher.
+17:04 And I'm going to call this
+17:09 leash
+17:11 new
+17:11 pattern.
+17:14 So, what I want to do is I want to come
+17:17 to
+17:17 convert.co
+17:22 co and
+17:22 I'm going to upload
+17:32 find it
+17:32 pattern. Here it is right there. I'm
+17:33 going to upload that and I'm going to
+17:35 convert it to a DXF file. We're going to
+17:39 see what happens with this and I'll show
+17:40 you how we're going to use this in a
+17:40 minute. Now, back in Chief Architect,
+17:46 let's just uh draw some walls. Get
+17:48 something put together. a little
+17:56 Like to just do four walls, couple
+17:56 windows, maybe a light, and pull a PBR
+18:07 Now, if I'm going too fast, this is more
+18:09 advanced. I want to hear it in the
+18:09 comments. There's a lot of these things
+18:12 that you can look up that I'm talking
+18:12 about, but I'm moving past them just to
+18:15 keep this video nice and light and fresh
+18:19 and fast-paced. So, if you have
+18:20 questions about how I did something,
+18:23 don't hesitate to put it in the
+18:25 comments. We can make a more
+18:25 comprehensive video that goes over
+18:27 something in detail. Right now, a lot of
+18:31 times I like to just use the backsplash
+18:31 tool. Throw a little backsplash in here.
+18:36 And I love to use the backsplash tool
+18:36 because uh we have capabilities in X17
+18:43 for materials to have opacity and have
+18:45 emissive maps and have but have
+18:45 partially see-through maps. And so my
+18:48 backsplash, my default backsplash has a
+18:52 couple of layers or one layer underneath
+18:58 that is a grout layer. So that if I make
+19:00 something see through here, it means I
+19:03 can independently control the grout
+19:03 color. And this is actually a really
+19:06 great idea. Not only that, but it kind
+19:09 of fakes the look of a bump map. So
+19:09 we're going to show that as well. And so
+19:14 let me press okay. I'm going to use my
+19:16 adjust material tool, what we call the
+19:18 rainbow bacon tool. That's this tool
+19:18 right here. And I'm going to adjust this
+19:22 material. And that's because I already
+19:24 have some things set up here that I
+19:24 like. But let me get into the texture
+19:26 panel here. And if by default yours is
+19:32 set to select, if you hold shift, it
+19:32 will change to import, which is what I
+19:33 need to do because I'm importing a brand
+19:39 new texture.
+19:39 So, let me see if I can go find that.
+19:44 For some reason, I just can't spot it
+19:44 with my eyes. We're just looking at this
+19:48 select texture dialogue. For some
+19:48 reason, I'm just struggling with it. So,
+19:54 I might just have to type it in again.
+19:56 Yeah,
+19:56 I don't know why I can't see it.
+20:00 Let's try this out. Now, typically it
+20:05 will
+20:05 show me a little name preview here
+20:10 down. So, maybe I have to do a little
+20:13 search for it.
+20:13 Here it is. Okay. Bleach Neil. That's
+20:16 that base texture. I'm going to import a
+20:23 new bump map. Same thing.
+20:26 um these. There it is.
+20:26 There's my bump map. Look at that. Isn't
+20:31 that cool? Now, you're noticing some
+20:32 other things in here. That's just
+20:32 leftover from the existing material.
+20:34 There was an AO map in there. So, I'm
+20:37 going to get rid of that. And then come
+20:43 in here, see if there's some kind of
+20:43 roughness map. Now, roughness maps are a
+20:49 funny little thing. Um, you can really
+20:51 improve the look of something by
+20:51 creating a roughness map. And roughness
+20:54 map with tile a little more complicated.
+20:57 Sometimes I'll just put in a randomized
+20:58 map that helps create a roughness map. A
+21:02 roughness map is going to show medium.
+21:02 It's a it's a grayscale map. So zero, so
+21:09 our our true white up to 255, our true
+21:10 black, and everything in between, right?
+21:15 It's a range. And so our zero is going
+21:15 to be something that is truly matte. Our
+21:20 255 black is going to be something that
+21:22 is truly gloss. And then everything in
+21:22 between. Okay. So for the grout, I only
+21:28 want this to be kind of a medium medium
+21:29 gloss. For the grout, I'm just going to
+21:31 copy this layer. Ctrl J. I'm going to
+21:34 invert it. Okay. So my grout in this
+21:36 case ends up being a black and
+21:36 everything else ends up being a white.
+21:38 Now, something I want to do here is I'm
+21:43 going to control J and bring up the
+21:45 layer that was the original texture
+21:45 here, right? I'm going to bring it on
+21:50 top of everything else. And I kind of
+21:50 like this little variation in the tile,
+21:55 this winess in the tile. All right. And
+21:55 so I'm going to change what's called the
+22:01 blend mode here. And um this equates to
+22:03 how these pixels interact with the
+22:03 pixels in the layer below. Now, you can
+22:08 just kind of hover over and play around
+22:10 with this if you want to to try to get
+22:12 an idea of what it's doing. In this
+22:12 case, I just want some of that effect of
+22:18 that upper tile to carry through onto
+22:18 the layer below. Now, before I do this,
+22:20 I'm going to control U and just pull the
+22:25 saturation out of this so that it's a
+22:27 grayscale. And then I'm going to
+22:27 controll M and we can do this little
+22:28 curves adjustment thing. Now, something
+22:30 that might be easier than doing a manual
+22:35 curves adjustment for something like
+22:37 this is I'm going to hit this little
+22:37 icon down here. And so, I get to target
+22:42 something and drag up and down. And you
+22:46 can see I'm targeting targeting this
+22:46 gray right here and moving it down or
+22:51 up. So, if I target right here, look,
+22:55 that created a different point. Okay.
+22:57 And so, I'm moving these up just a
+23:00 little bit.
+23:00 make a disparity in the grout, but just
+23:04 leave some stuff left over in the
+23:05 medium.
+23:05 Right, there we go. Now, I want to
+23:08 change that blend mode, and I'm just
+23:12 going to have some of that effect
+23:12 overlaying onto the layer below while
+23:17 leaving that grout really, you know,
+23:17 popped out. Now, keep in mind, the white
+23:23 is matte. Everything else is somewhat of
+23:26 a gloss. Okay? And so now that I have
+23:28 this, maybe I'll do another little
+23:28 curves adjustment. Maybe I want this a
+23:31 little darker. Maybe I want this a
+23:33 little glossier.
+23:33 Something like this.
+23:35 Yeah, who knows? And then another little
+23:40 trick, and this is what we call
+23:40 destructive because we're affecting
+23:42 pixels, is that I'm going to stamp this
+23:45 forward. I'm going to hit control
+23:45 altshift E. It makes a stamp of what we
+23:50 see on the screen. So that when I do a
+23:53 curves adjustment now, and I know this
+23:53 probably sounds very advanced, so I want
+23:58 to hear these questions, is that I am
+24:00 now affecting this regardless of the
+24:00 blend mode of that layer that we used to
+24:05 get us to this point in the first place.
+24:08 So now I have a very glossy tile with a
+24:10 not so glossy grout and it's got a lot
+24:13 of movement in it. And let me export
+24:15 this.
+24:15 Transparency is not going to matter on
+24:20 this map. And I can find
+24:20 a le stuff here and say that this is
+24:31 All right, back in Chief Architect. Let
+24:31 me load this up. So, I'm going to import
+24:37 that map. Find that roughness map. And
+24:39 the last kind of step of this is we
+24:39 really need to know how many tiles there
+24:43 are here and what's the size of those
+24:43 tiles. So, it would be really helpful if
+24:48 I knew what the size of these tiles
+24:48 were, which let's see. It looks like
+24:51 they're maybe 3 by 12. Let's go take a
+24:57 look.
+24:57 In this configuration, they are 3x 12.
+25:03 That means I need to count these. So,
+25:06 it's 12 * 3, which means that the X
+25:06 scale is going to be 36 plus maybe that
+25:13 grout line, right? So maybe 36.75
+25:13 if it's a quarter inch grout line. It's
+25:14 not quite that big. It's probably 38. 36
+25:19 and 38. That's the X scale. That's going
+25:22 across this way. Three is going up. So 3
+25:27 6 9 12 15 plus an 8 in times whatever.
+25:27 Maybe it's 15 and a half. Something like
+25:31 that.
+25:31 Okay. And look at that. Now that's
+25:34 looking pretty correct. All right. Very
+25:39 cool. Let's go take a look at what this
+25:39 looks like on the wall. Look at that. We
+25:44 got a really glossy tile. Let me just
+25:44 increase my sample rate so we can really
+25:56 Yeah, nice glossy tile. You can see in
+25:56 here it's got that movement coming from
+26:00 that roughness map. That's what really
+26:00 makes it look realistic. Okay, move the
+26:05 sun around a little bit. I'm using the
+26:07 move sun tool, by the way, which is in
+26:07 the 3D menu under lighting, move sun or
+26:12 you're probably going to see it up in
+26:14 the top in your just the lighting
+26:14 adjustments. But look at this movement
+26:16 right there. Isn't that cool? Very cool.
+26:22 You know, really getting that realistic
+26:22 look from this tile. Now, what's kind of
+26:27 the next step of this is we want a
+26:28 pattern file to line up with this. Why
+26:30 is that? What happens when we switch to
+26:36 a vector view? Well, that's just wrong.
+26:38 We know that's wrong. It looks nothing
+26:39 like our tile. In fact, the color
+26:39 doesn't look anything like our tile.
+26:42 Let's give something a shot here. What
+26:44 I'm going to do is I'm going to go into
+26:50 the CAD menu and I'm going to create a
+26:53 new pattern. Okay. Now, it doesn't
+26:53 matter what my pattern specification is
+26:54 right now because I can edit this on the
+26:58 fly. I'm just going to say okay and then
+27:01 kind of a little zoom out right here.
+27:03 Now, something that might be really,
+27:03 really cool is maybe, just maybe, when
+27:09 we took that file to Convertio and got
+27:09 this DXF. Let's just download this real
+27:15 quick. I'm going to drag this straight
+27:17 into Chief Architect. It's going to
+27:17 bring in the import drawing assistant.
+27:20 Okay. And then, in fact, I don't usually
+27:24 need to even show this. I'm just going
+27:24 to say press okay. Look at that. It did
+27:32 a pretty good job. Now, mind you, this
+27:32 might need to get shrunken down, right?
+27:36 What are we going to do with this? I
+27:36 need to shrink this down because there
+27:39 is our texture right there. Let me just
+27:42 get this out of the way for a second.
+27:42 You're going to notice something. It's
+27:44 not repeating. I'm going to turn off my
+27:46 grid. That's this right here, reference
+27:47 grid. I'm going to turn off the
+27:48 reference grid. I'm also going to double
+27:52 check uh double click the select objects
+27:54 tool, which gets us to our general plan
+27:56 defaults. That's the same as going into
+27:59 the edit menu, default settings, plan,
+28:01 and I'm going to get to the angle grid
+28:03 panel here, and I'm going to change my
+28:03 snap unit to about, I don't know, eighth
+28:06 of an inch. This is going to allow me to
+28:09 bump little CAD lines, and I don't want
+28:11 to see the snap grid unit. All right,
+28:11 this is going to make a real clean look
+28:15 here. Now, the next thing that I could
+28:22 do is I could go find my file here,
+28:22 which down here. I'm going to actually
+28:24 use this guy right here. This guy right
+28:27 here. Let me drag this into view. Let me
+28:31 drag this right into Chief Architect.
+28:33 Look at that. And I'm going to do a
+28:33 little pointtooint here. Okay. Now, we
+28:36 remember what the size of this was, what
+28:40 we ended up inputting for this. And you
+28:41 can always come back here and double
+28:43 check it. But if we take our adjust
+28:43 materials tool, you remember it's 36 and
+28:49 38 x 15 1/2. Okay, what does that mean?
+28:53 Well, I can take this and go in this
+28:56 little dimension string here. We can
+28:56 increase this. This should let you hover
+29:01 over and click it and adjust it. If not,
+29:02 you might be able to open it up like
+29:02 this. All right, we said 36 and 38 5.5.
+29:11 So that's going to change the overall
+29:12 bounds of this. And so what do we need?
+29:16 We need this texture to live inside of
+29:18 the bounds of that. So we just get to
+29:18 drag this down and it should just snap
+29:23 to the corner. That's our texture. So
+29:23 usually you could use this to just trace
+29:27 this with some CAD lines to generate
+29:30 this. But we have this perfectly
+29:36 DXF file. In fact, we're going to need
+29:39 to center this up. center this up both
+29:39 ways. And then I'm shift selecting this
+29:44 CAD file. I'm shift selecting. What
+29:44 happens when I shift select this node
+29:47 right here? This is a resizing node. So
+29:49 I just get to drag this up and snap. And
+29:55 look at this. This is going to align
+29:55 perfectly. What's the last step then?
+29:59 Well, we get to just explode the CAD
+29:59 block. And look what's happening. It's
+30:04 generating this. Now, no, this isn't
+30:04 perfect. We've got a bunch of little,
+30:08 you know, discrepancies here and we
+30:08 could clean those up. You could choose
+30:09 to clean those up or you could choose to
+30:14 leave them. This is very similar to just
+30:16 pattern preview in Photoshop, right? So,
+30:20 I could just take this these little line
+30:21 segments here. They're that were
+30:22 created, select those, get rid of them,
+30:27 just hover over them. You're going to
+30:27 have to hover them within the bounds of
+30:31 the source image.
+30:31 And I might take one of these little CAD
+30:37 lines and just kind of regenerate. Or I
+30:41 can just come in here with a CAD line
+30:43 just like this. Maybe I'll make a one
+30:43 straight CAD line to kind of line this
+30:47 up.
+30:47 Doesn't need to be so artsy fartsy, but
+30:52 there we go. Yeah, that looks pretty
+30:55 good. It's not too bad, right?
+30:55 And clean up this top little edge here
+31:05 And we're going to get very close to a
+31:06 pattern that looks pretty good. I'm
+31:06 going to leave this just the way this
+31:07 is. And so I close this out. Guess what?
+31:13 It's going to ask me to save. That's now
+31:15 in my library. And I could call this the
+31:20 Z Neo pattern.
+31:20 So adjust material tool. Bam. Click
+31:23 right there. Get into the pattern panel.
+31:30 Hit the library button.
+31:30 Find that deletion neo pattern.
+31:34 And for example, now let's just take a
+31:38 look at this. Here's physically based.
+31:40 There's vector view. It's aligned
+31:40 perfectly because it used the source
+31:43 image. That's cool. We're done. But I
+31:48 want to give you the scenario that's
+31:48 very common, which is maybe instead you
+31:54 spec a grid. Okay? So let's just do a
+31:54 grid instead. And the grid is based on
+32:02 our spec. So 3 and maybe an eighth by
+32:06 12. So 12 and 1 eigh by 3 and let's
+32:06 uncheck retain aspect ratio and let's go
+32:11 3 and 1 eighth. Now something just
+32:11 happened. That's a big screw-up. Look at
+32:15 the texture. It just got stretched. Why
+32:17 is that? Well, if we go to the texture
+32:20 panel, what the heck happened to our
+32:20 numbers? I'll tell you what, this was
+32:23 checked. keep pattern texture in sync.
+32:26 So that when we resized this pattern and
+32:33 texture, it resized the texture size as
+32:35 well. When we resize, excuse me, the
+32:37 scale of the pattern, it resized the
+32:39 texture as well. Look at that. It
+32:43 stretched it back, right?
+32:43 So I need to uncheck this now that I
+32:48 have that unchecked. And I'm just
+32:48 specifying a grid. All right? And this
+32:53 is a dynamic grid. It's based on this
+32:55 scale because it's not a pre-done
+32:55 pattern file. This is one of Chief's
+32:59 built-in dynamic grids, which means
+33:01 again that we can do this 12 and an
+33:03 eighth,
+33:03 three and an eighth. And so it's going
+33:07 to create a grid. And we switch our
+33:07 preview mode to a vector. There we go.
+33:11 It's going to show this grid. All right.
+33:17 Only problem is, is this lined up with
+33:17 our texture? How do we find out? Let me
+33:22 switch to this. You know what? It's not
+33:23 lined up with our texture. Not only
+33:23 that, it's not even the right color,
+33:25 right? How do we get to the right color?
+33:29 Well,
+33:29 I just used the material color. I
+33:31 clicked on that. It brought up the color
+33:35 selection. This is a PC, so we have a
+33:35 different color selection here. And we
+33:37 can use this little guy right here. All
+33:42 right. Click that. I can just eyeropper
+33:44 this. That's going to get me that base
+33:44 color. Now, I usually like to lighten up
+33:50 the material color from the texture
+33:50 source because when we pull elevations,
+33:55 it's really hard to read a very dark
+33:55 color with black lines. So, I will still
+34:03 keep this in the same family and just
+34:03 lighten this up a few shades. Right? So,
+34:07 that's what it'll look like. This is
+34:07 just implying that there's a blue color
+34:11 tile on the wall. All right? Hopefully,
+34:14 you go look at my spec. something like
+34:14 that. Now, let me press okay. Now, when
+34:19 I switch to that vector view
+34:19 again, we're not we're not sure that
+34:22 this pattern lines up. How do we make it
+34:28 line up? Well, I'm going to switch to
+34:30 the standard view and I'm going to
+34:30 change my rendering technique options
+34:32 and I'm going to put handdrawn lines on
+34:34 top. How this works is it's going to use
+34:42 the color,
+34:42 whatever you have drawn here, and it's
+34:43 going to use the pattern file. Now, I'm
+34:47 going to go ahead and change this to
+34:47 white so I can really see it because my
+34:52 source is really dark. And we can see
+34:52 this is not quite lined up. So, how do
+34:56 we get this lined up? Well, we have a
+34:58 new tool. The new tool is in the 3D
+34:58 menu, and it's the interactive material
+35:02 editor. and hopefully just throw this on
+35:07 your toolbars. Now, when you use this
+35:07 and if your material definition has it
+35:09 so that keep texture and pattern synced
+35:13 is unchecked, that means we can use this
+35:22 tool in a 3D view to adjust. Okay. So, I
+35:24 click once on the material and I get to
+35:24 move this node around. And look at this.
+35:29 The pattern stays where it is because
+35:29 that was unchecked. So, I can visually
+35:32 line this up. Well, that's great in a 3D
+35:37 view. Want to know what's even better?
+35:38 Watch this.
+35:38 Let's just pull a wall elevation for
+35:43 this.
+35:43 Just say, for instance, that this is
+35:47 totally messed up. But in a wall
+35:47 elevation, which is an orthographic
+35:49 view, we still get to use our texture.
+35:52 And not only that, but we could turn off
+35:56 shadows or we could turn off color, etc.
+35:58 Might make it easier to see some of
+35:58 this. But same thing, we can change that
+36:01 rendering technique options, handdrawn
+36:02 line on top, change this to bright pink
+36:07 if you want to. And you can even change
+36:09 the thickness so you really really see
+36:11 it. Right? And so we get to use that
+36:11 same interactive material editor to get
+36:13 those grout lines exactly lined up. Look
+36:19 at this. I just get to I just get to
+36:19 really get it in here. Zoom in. Get this
+36:25 nice and lined up. There we go.
+36:25 Something like that. In fact, when
+36:29 you're moving this, if you're just
+36:29 trying to do little incremental bumps,
+36:32 do we get to use the arrows? No. But we
+36:38 do get to use our tab input. So, if I
+36:38 know that I just need to move this one
+36:41 more inch this way, I can just hit tab.
+36:46 It's going to put this enter texture
+36:49 offset. And so, horizontal offset,
+36:49 negative offset, maybe on top of this
+36:54 negative, I want another one inch.
+36:54 Right? So you get to move that pre with
+36:59 precision if you need to. Why is it
+36:59 impactful to move it with precision?
+37:01 Because watch this. I could take a line,
+37:07 draw that line from here
+37:07 right to where I want this right in that
+37:12 edge right there. Okay? And hit, while
+37:15 I'm still holding my left mouse, hit
+37:15 tab. And look what it's going to tell
+37:23 me. Relative to start or absolute.
+37:23 absolute says it's moving it by this um
+37:27 to this position relative to start. It's
+37:31 telling me it's moving at nine and a
+37:31 quarter that way, etc. So, it might give
+37:35 you some other additional tools for
+37:38 moving with precision.
+37:38 Now that all that's done, let me just
+37:41 move this into the right spot. Get this
+37:43 nice and lined up just like that. Let me
+37:48 close down that elevation. Let's get
+37:48 back to this. Look, everything's lined
+37:50 up. We switch to a vector view. It looks
+37:55 exactly like I want, which means I need
+37:57 to go back in with the adjust material
+37:57 tool and make sure now that this is keep
+38:04 pattern texture in sync. What does that
+38:07 mean now? That means when I use that
+38:07 adjust material tool, which cannot be
+38:11 used in a vector view, I want you to
+38:11 notice in my toolbar that it's grayed
+38:15 out, okay? It needs to be in a raster
+38:15 based view. But now I can use that tool
+38:21 and pick my starter tile. I'll pick my
+38:23 starter layout. Notice I've got a
+38:23 backsplash on the wall. My dimensions
+38:28 are showing that I've got 9 and 1316
+38:28 here. I can click on this dimension, set
+38:33 that to zero. It's going to stretch that
+38:36 backsplash to the corner. Okay. Same
+38:36 thing. I can click on my dimensions, set
+38:40 this to zero. It's going to stretch that
+38:43 backsplash to the ground. Now watch
+38:43 this. I get to use that same interactive
+38:48 material editor tool. And I'm going to
+38:48 say that my starter tile is going to be
+38:50 right there. Bam. Right where I want it.
+38:56 And maybe just a little bit up from
+38:59 there.
+38:59 There we go. Notice it's moving the
+39:01 pattern as well. Let me turn off the
+39:03 pattern to make it really easy to see
+39:04 where my starter tile should be. Right
+39:06 there. Perfect. Look at that. That's my
+39:11 starter tile. Bam. Um, maybe I can even
+39:13 get that grout line perfect in an
+39:13 elevation view. And so when I go look at
+39:18 my elevation view,
+39:18 hopefully this is just looking perfect.
+39:24 Cool. And I get to put a little note
+39:30 Hopefully this is exactly the kind of
+39:30 stuff you were looking for because this
+39:34 is a really common thing when we're
+39:34 building out this stuff. All right. Now,
+39:39 I want to note one more kind of crazy
+39:39 little trick that I use sometime, which
+39:45 is sometimes I do not want to see a
+39:45 pattern like this. All right. So, I'm
+39:48 going to go back to my library and I'm
+39:51 going to try this pattern. I'm going to
+39:53 make a copy of it. I'm going to make a
+39:56 duplicate of it rather. All right. And
+39:57 so, this one is just going to be
+40:00 partial.
+40:00 So, I've got a partial here. Let me go
+40:05 edit this. Edit the pattern. And so
+40:07 here's what I'm going to do.
+40:07 I'm going to draw a little CAD line
+40:15 Okay. I'm going to do continuous draw
+40:23 Why am I doing that? Well, I'm going to
+40:26 take this now and use the trim objects
+40:26 tool. First of all, let me turn off the
+40:32 show of the reference grid.
+40:32 I'm going to take this now, use the trim
+40:37 objects tool, and I'm going to draw a
+40:39 cut through
+40:39 all this. I'm going do that a couple
+40:41 times. In fact, trim, trim, trim. I want
+40:46 everything gone.
+40:46 Trim, trim, trim, trim, trim. Okay.
+40:51 Anything that this is passing through,
+40:53 it's going to cut. What does that mean?
+40:56 That means I get to select all this over
+41:10 Now, what was the purpose of this
+41:13 might you ask? Right?
+41:13 Well, what I'm doing now is creating
+41:16 just a partial little block. Now, watch
+41:20 the next part of this. I'm going to
+41:20 expand this. All right? I'm going to
+41:25 expand this in magnitude of itself.
+41:25 Okay? I'm going to times this. Let's
+41:31 just say times six.
+41:34 Time six.
+41:34 Okay, that means it's only duplicating
+41:38 once in a while. Every once in a while.
+41:43 That's it.
+41:43 Why would I do this? Let's hit save.
+41:45 Let's close it down. There we go. Now
+41:53 I'm going to take this tile
+41:55 and
+41:55 I'm going to have to redo my pattern
+42:10 Now, when I have pattern and everything
+42:13 still in sync, here's what I get to do.
+42:13 Let me switch to a standard view. Let me
+42:19 make sure that line over is on. Okay.
+42:20 I'm going to change the rendering
+42:20 technique. I'm going to make it so that
+42:24 it's really visible for me to see that
+42:24 line. Let me press okay. All right. I'm
+42:29 going to use that adjust material tool
+42:31 and I'm going to get this into play
+42:34 until I see that tile, that partial
+42:34 tile. Why would I do that? Check this
+42:38 out.
+42:38 I'm indicating that there's tile on this
+42:42 wall. This is a very common way to mark
+42:57 or you might even say starter tile C
+43:03 Okay. So what does that mean? That means
+43:07 I would use this tool to just draw this
+43:09 down till I got to that perfect starter
+43:11 tile. You know, I'm gonna have to line
+43:11 up that texture again. Right. But that's
+43:16 what I would do right there. Switch it
+43:19 back to vector. Throw a little arrow.
+43:19 Curve that arrow down. I use the right
+43:20 click, which is an alternate draw mode.
+43:25 Bam. And that's so that's just
+43:25 indicating we've got tile here. Got tile
+43:30 here. You need to go C spec. That's what
+43:33 this blue is. So maybe you prefer that
+43:35 look. This is definitely an advanced
+43:35 little tip here. And that's it. That's
+43:38 all I'm going to show you for this
+43:39 video.
+43:39 The continuation of this series might
+43:43 have a couple more free videos, but
+43:44 ultimately I'm going to make a playlist
+43:47 and this is just an think of it as an
+43:47 interior design class. Um, so I'm going
+43:51 to be building this out. I've been uh
+43:54 planning this for a while. Um, I'm
+43:54 excited to to see what you guys have for
+43:58 feedback where uh where you've got some
+44:00 questions and I hope you enjoy this

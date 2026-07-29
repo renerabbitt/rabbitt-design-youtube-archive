@@ -1,0 +1,648 @@
+Title: Twinmotion 2020 Tutorial-PART 2-Vegetation Context Tools
+URL: https://www.youtube.com/watch?v=gLEmQKsMYLM
+Visibility: public
+
+0:16 hello twin motion users we are in video
+0:17 number 2 of a series and we're gonna
+0:17 start looking at some of the functions
+0:22 of twin motion so we've got this scene
+0:24 we've imported this from another 3d
+0:24 modeling program and that we're gonna
+0:26 just jump in and do a couple things in
+0:30 here and we're just gonna show some of
+0:32 the quirks and the fun things built in
+0:32 twin motion and we can see in my 3mm 3d
+0:37 model we've got a couple of issues here
+0:39 but I'm not too worried about them I'm
+0:39 not gonna be looking at the back of this
+0:45 house so not to worry but I could import
+0:48 just this section from my model just to
+0:51 repair just this section and it's easy
+0:51 enough to do all you would do is go into
+0:56 your file import and import this same
+0:56 item and replace it essentially so this
+1:01 actually looks like it's coming from
+1:01 yeah it's coming from that terrain model
+1:07 so in the previous video I explained how
+1:11 we want to have different overlaid
+1:14 materials if you will or terrain
+1:14 features if you will so that it would
+1:20 help us in twin motion not have bleed
+1:20 through in some of the geometry that's
+1:24 available to us in twin motion so the
+1:24 first thing I'm gonna do and if you've
+1:26 ever opened up to in motion and play it
+1:30 around and watch some other videos I'm
+1:30 sure videos explain this guy right here
+1:33 this tab right here which is we've got a
+1:38 very various tools available to us our
+1:41 paths tool of vegetation paint and our
+1:43 vegetation scatter and our urban so
+1:43 vegetation scatter vegetation paint or
+1:48 we're going to be looking at in this
+1:48 video so let's take a look at vegetation
+1:53 scatter now I click that icon and
+1:53 immediately I get the sidebar pull up
+1:54 and if you're unfamiliar with the layout
+2:01 of twin motion that can be brought up at
+2:03 any time by clicking this right caret in
+2:07 the top corner and I have I don't have
+2:07 enough hours in the software to know why
+2:11 I can't just pin this open all the time
+2:14 because that would be my preference oh
+2:16 hey we just figured it out right there
+2:20 let's hit our what we used to call a
+2:20 hammer
+2:20 like on the dot-dot-dot and then I can
+2:22 hit this lock button right here and that
+2:27 should let's see if it's enabled in
+2:27 motion you guys should really work on
+2:30 your graphics here if it's enabled it
+2:30 looks like it's going to be highlighted
+2:33 that's right so that if I let's see if I
+2:39 get off of this and go hit my vegetation
+2:41 again yeah it still stays up there so I
+2:44 like that I like this just pinned on so
+2:47 there we go so carrying on we're in our
+2:50 glass and flowers section now if I go
+2:53 down or up a level which is you know
+2:53 very Windows Explorer s this might be
+2:55 different on a Mac I can go back to the
+3:01 root hierarchy of how twin motion
+3:01 organizes its assets so let's get back
+3:06 into vegetation and landscape which is
+3:06 where our various grasses live and let's
+3:11 go into our grass and flowers and I'm
+3:11 just gonna pick lawn one because that's
+3:13 the height of the lawn that I would like
+3:18 for this side yard so what I'm gonna do
+3:18 here is you know you could take this and
+3:22 drag it into the model and see what
+3:22 happens and what its gonna do is it's
+3:24 going to show you the instance this is
+3:27 actually the geometry that it's going to
+3:34 be placing multiple times by using the
+3:34 scatter tool or the paintbrush tool it's
+3:40 going to place this geometry now the
+3:40 reason that this is important we'll see
+3:44 in just a minute here let's just delete
+3:47 that I'm gonna grab this lawn item oops
+3:49 I need to get back into my vegetation
+3:49 scatter mode context vegetation scatter
+3:56 let's see if we can get to that in a
+3:56 different way it doesn't seem like we
+4:00 can so context vegetation scatter and
+4:00 then let me grab that lawn one and I'm
+4:04 going to drop it and just as it's
+4:04 explaining for me to do and now when I
+4:07 select it a couple things happen one is
+4:12 these tools all of a sudden are
+4:12 available to me and also the settings
+4:14 tool now let's just dive in and take a
+4:18 look at what it does if I use this plus
+4:21 icon which looks like a paint bucket
+4:21 tool you can see it immediately produces
+4:27 some geometry and this is what we're
+4:27 talking about when I wanted to take a
+4:31 look at that geometry placed as an
+4:33 individual item you could see that
+4:33 it's a little bit big for geometry and
+4:38 so what happens is this is going to
+4:38 place about its center up to the bounds
+4:44 of the container you are placing it on
+4:47 you can see here in our scene graph
+4:47 here's our scatter vegetation but it is
+4:52 also being applied to a particular
+4:55 terrain model this portion of the
+4:55 terrain right there so it places these
+5:02 models based on the center access of
+5:02 that particular lawn oh one model and so
+5:10 what happens is we get this spillover
+5:14 and the long line here so this
+5:14 particular tools Biltmore for putting
+5:16 grass on very very large sections right
+5:22 and so what I'm going to do is and I
+5:22 could go through and use the eraser tool
+5:27 and you can see just by default this is
+5:30 built for a very large model the
+5:30 diameter is 10 meters I'm gonna change
+5:33 this I'm gonna make it down to like 0.5
+5:37 meters and you can see all of a sudden
+5:37 my bubble has shrunken down considerably
+5:42 and what you notice here is I really
+5:42 have to get close to the geometry for it
+5:46 to disappear that's because we are
+5:46 erasing that full model section right so
+5:51 if I grab this and I just place it
+5:51 that's what we're erasing this is the
+5:55 center mark of this
+5:55 it's placing it by the bounds so that if
+5:59 this is the boundary you can see we're
+6:01 going to get some spillover so law no
+6:01 one is not that great for applying it to
+6:07 items like this so I'm going to click
+6:07 and select this I might have to click a
+6:11 couple times to find that geometries
+6:11 same thing here there we go we got it
+6:16 right away so another thing we might
+6:16 take a look at is our detail grasses our
+6:22 lawn borders now I know it looks like
+6:25 what it's doing here is placing some
+6:25 kind of pattern around pavers but it's
+6:31 just showing you that this particular
+6:31 lawn is built to be used on borders you
+6:38 see if we place it here this is our
+6:38 model that's it this tiny little guy so
+6:43 we can get a lot closer to borders and
+6:46 not have it spill over which
+6:46 kind of alludes to the next part of this
+6:50 video which is that we're gonna stay
+6:54 away from that scatter and and maybe
+6:56 we'll use it to populate some of the
+6:58 larger grass areas but when we have
+7:00 boundaries we're gonna end up using
+7:00 these lawn order tools so that brings us
+7:07 back to our context menu where we're in
+7:10 the vegetation paint and this is what
+7:10 we're going to be doing we're gonna be
+7:11 painting this area now automatically it
+7:17 brings up trees you have to go you know
+7:19 up in the in the hierarchy to get back
+7:20 to grass and flowers and in detail
+7:20 grasses and if I wanted to just paint
+7:23 this guy all I'd have to do is drag him
+7:29 into drop model here to start painting
+7:33 on surface come on get in there what's
+7:38 going on well it's not working so what
+7:43 that tells you is that it doesn't work
+7:46 with the vegetation paint tool which
+7:49 brings us back full circle to our
+7:49 vegetation scatter tool so there we go
+7:52 we're gonna go up a level and grass and
+7:54 flowers are gonna get the detail grasses
+7:57 we're gonna go to lawn borders and we're
+8:00 gonna drop this in and we will start
+8:03 painting with it and I'm gonna click
+8:03 this a bunch of times actually because
+8:05 I'm gonna end up you know producing this
+8:10 same effect several times and then once
+8:12 I do I'm gonna go back in here if I
+8:12 click on this item here I had to click
+8:14 outside of the item inside of this open
+8:19 area here and then back on this item to
+8:21 enable settings you'll you'll notice
+8:23 that over time so here's our my next
+8:23 part is I can change the size from here
+8:25 I can kind of get a you know a variation
+8:31 in my lawn whether or not I wanted a
+8:31 mowed lawn or or kind of a random lawn
+8:34 there you go and that's that's where we
+8:39 can edit that dryness we can tint it we
+8:41 could put you know lawn more stripes in
+8:47 it that's all nice and fine we can keep
+8:49 continuing this plus an add button we
+8:57 another layer of this grass we can bring
+8:59 it in here like four or five times if we
+9:02 wanted to and select all these guys and
+9:02 hit the plus button and we start getting
+9:06 to fill this in pretty quick but not
+9:06 quite the way I want to see it done look
+9:11 at that please wait work in product
+9:11 progress then we can take just certain
+9:15 sections of this
+9:15 let's click off and back on again no
+9:18 let's do one more time just grab these
+9:24 last two and it should be that I just
+9:24 increasing or decreasing certain parts
+9:27 of this lawn so that I can get you know
+9:29 a real varying effect here the last part
+9:34 of this and the biggest part of what we
+9:37 did in video one is that I designated
+9:39 this space to be lawn ahead of time I
+9:42 planned this to be lawn and what that
+9:42 helps me do is if I jump back into the
+9:46 hierarchy to my route and get into
+9:48 materials there's a section called
+9:48 ground and nature and in nature we have
+9:54 various different grasses that they've
+9:54 built in twin motions so that I can drag
+9:59 this guy underneath my grass and now my
+10:04 grass looks pretty dang good I can get
+10:07 back in and select this these guys all
+10:09 three of these are all four of these
+10:09 guys and I can you know put those the
+10:14 striping in there you might want to edit
+10:17 the striping you can see the scale of
+10:17 that maybe we'll take this size down to
+10:24 one and we're gonna end up oh I like my
+10:26 lawnmower lines going left to right
+10:26 there we go so really quickly we've got
+10:32 a very good-looking grass texture out
+10:35 here while we're in our materials
+10:35 section here or context here I'm gonna
+10:42 go ahead and get let's see we were in
+10:44 our materials there we go back in the
+10:44 ground back in the nature and I'm gonna
+10:48 do a couple things one is I think that
+10:49 this is either I don't know a
+10:49 cobblestone or a gravel or pebbles you
+10:52 can see how quickly you can change this
+10:56 same thing with the asphalt I'm going to
+11:00 go up a level and go to man-made and
+11:02 we've got asphalt one asphalt two
+11:02 asphalt for pink asphalt I like asphalt
+11:07 four
+11:07 works concrete Road yeah we could do
+11:11 that on the on the curb if we wanted to
+11:16 we could even you know get these like
+11:16 divided lines there and the sidewalk and
+11:22 my driveway we might do I don't know
+11:22 something darker to kind of set it apart
+11:30 as a man-made driveway something like
+11:34 that who knows so there we go
+11:34 so the next part is we'll just touch on
+11:36 a couple of these other things let's see
+11:39 I want to get a nice realistic dirt
+11:39 texture in this this section right here
+11:46 what the plants are maybe another dirt
+11:46 right here you can see where it came in
+11:54 handy to have pre set up our our areas
+11:54 for what they were going to be so we can
+11:59 get some different textures in here
+11:59 under laid underneath what we're going
+12:07 to do with our 3d geometries so we've
+12:10 already got a pretty good start here
+12:10 yeah it's looking good so next thing is
+12:14 we'll get into this little area here
+12:14 which is grass as well and I'm gonna use
+12:20 this grassy ground texture because I
+12:23 want to kind of pull that grass away
+12:25 from my tree that I'm gonna end up
+12:25 replacing because it looks like garbage
+12:34 it's about to say a bad word so let's
+12:34 get back into our context and get into
+12:37 we've got our vegetation paint we've got
+12:41 our vegetation scatter this time around
+12:44 I'm gonna use the vegetation paint tool
+12:44 just to show its capabilities and before
+12:51 I even really get into it and I'm gonna
+12:53 be painting and grass on here a lawn
+12:55 something like this actually what we
+12:57 might do the larger lon
+12:57 this time around let's do long grass
+13:02 three now I could just paint all
+13:02 willy-nilly you know and try to get this
+13:06 to look correct but you see what's
+13:06 happening is I'm painting all over the
+13:08 place it's not exactly the effect that I
+13:15 want to do so first thing is I'm gonna
+13:17 escape out of this paint tool and I
+13:17 haven't found a great way to do that
+13:18 except for hid and a bunch of buttons
+13:20 like
+13:20 escapin and spacebar but now I've got
+13:25 this terrain selected you can see it's
+13:29 the terrain selected in my heart
+13:29 hierarchy on on the right side in my
+13:31 scene graph right off the bat I might
+13:34 just rename this right off the bat and
+13:36 this is gonna help me just keep track of
+13:39 these kind of things because this is
+13:39 gonna be front yard right so I'm gonna
+13:42 name it front yard because that's gonna
+13:45 help me file it away a little bit later
+13:50 so front yard and I don't know let's
+13:50 just call it round section that's gonna
+13:54 be really easy for me to find down the
+13:57 road especially when I go back and a
+13:57 couple things you can do here you can
+14:00 collapse all hierarchy and you can also
+14:04 sort alphabetically and immediately what
+14:10 that will do is in my terrain you can
+14:10 see it's I'm gonna get that front lawn
+14:13 area right there boom and over time as I
+14:20 go through this if I wanted to keep the
+14:23 fess to cup lands in here I'll end up
+14:23 just clicking on my terrain container we
+14:30 can set this as the active container
+14:32 that means that any new container is
+14:32 going to fall under the active container
+14:37 if I were just to do new container right
+14:39 there it would go under the scene graph
+14:42 I want this folder to go under terrain
+14:46 and I'm going to name this Stuka BAM I
+14:46 can go back to the top of my hierarchy I
+14:53 can sort this by name again sort
+14:53 alphabetically and now when I get down
+14:58 to pest okay there we go so it's gonna
+14:58 be really easy for me to go through and
+15:04 select all these guys which there are a
+15:06 ton of them and drop them into a folder
+15:08 so just touching on that whole folder
+15:08 hierarchy thing again and then when we
+15:10 collapse it we've just got less stuff to
+15:14 scroll through to get to my front yard
+15:14 round section so now let me select that
+15:19 front yard round section and the thing
+15:21 I'm going to do in the scene graph is
+15:21 I'm going to right click and I'm going
+15:23 to isolate this selection and what that
+15:30 does is now I can use my context menu
+15:33 with my vegetation paint with my long
+15:33 grass
+15:34 and paint just to the borders of this
+15:40 guy look at that isn't that freaking
+15:42 beautiful
+15:42 now something you'll notice I'm gonna
+15:44 just undo that guy real quick something
+15:48 you'll notice with this paint tool and
+15:49 whoops and let's get back to this
+15:49 vegetation paint tool is that if I
+15:52 increase the diameter back up to oh
+15:57 let's go I don't know to here you're
+16:03 gonna see look at the spillover what
+16:05 that tells you is that the diameter
+16:05 actually matters when it comes to the
+16:08 accuracy of our paint tool so let's undo
+16:15 that again a quick way to get back to
+16:17 this context menu without clicking a
+16:17 bunch of buttons but let's go back and
+16:20 in retro actively see if we can get that
+16:26 lawn one to really bind to the edges
+16:26 here by let's same same practice here we
+16:33 paint with our two point three meter
+16:33 paintbrush and it spills all over the
+16:35 place I'm gonna hit control Z to get out
+16:41 of that and it's gonna force me to go
+16:41 find this again here we go so let's grab
+16:47 this hit that paintbrush tool again and
+16:50 drop this down 2.5 meters and let's see
+16:50 if it will cut to the bounds and it does
+16:57 look at that beautiful so something to
+16:59 note here you can see we've got long
+17:01 grass we've also got lon
+17:01 oh one in here we've got long grass and
+17:05 lon oh one painting together that's
+17:05 because anything you drop in here will
+17:11 paint together
+17:11 so not only a painting grass now but
+17:14 I'll be painting trees as well so that's
+17:21 something very important to note let's
+17:21 get let's hit control Z get rid of that
+17:23 guy let's get rid of this and let's just
+17:30 delete this guy oh and you know what's
+17:32 going to happen look at that oh what a
+17:36 shame so this is a great thing to keep
+17:36 not've twin motion in my opinion is very
+17:42 unstable and what's terrible about this
+17:45 is we lost all my fault
+17:45 folder hierarchy so we're going to get
+17:47 it back in
+17:47 start this video again in just a minute
+17:53 okay so we have recovered from not one
+17:56 but two crashes I actually this is the
+17:56 third iteration of trying to paint this
+17:59 particular area so if you're not careful
+18:05 twin motion will crash on you save often
+18:07 so this is video number two or partway
+18:07 through the video and we've covered how
+18:11 to paint this section over here and
+18:11 that's something that we lost in one of
+18:15 these crashes I'll have to do it again
+18:17 but now we're just kind of going over
+18:17 the other various tools and particularly
+18:24 the isolation tool so if I open up my
+18:24 heart key over here my scene graph and
+18:26 then I go down to isolate I can isolate
+18:29 just this section here and where we left
+18:35 off was that we could change the brush
+18:37 size in the context menu
+18:37 the vegetation paint down to like 0.5
+18:42 meters and what that would do was able
+18:48 it made it capable of cutting a very
+18:48 fine line against the borders here so
+18:53 that if I grab this long grass and drop
+18:57 it in on my tool and paint along this
+18:57 edge
+18:57 I'd get a nice little fine edge along
+19:01 this isolated selection which is really
+19:05 great for kind of filling in the borders
+19:11 now I'm not particularly fond of this
+19:11 grass because of just how tall it is so
+19:17 I might go through and and do what we
+19:17 did in the in the previous section which
+19:22 is use that that edge grass and then
+19:22 just do the fill tool or or what's that
+19:25 contextual menu I'm not exactly sure but
+19:31 I've got this pain and now I want to
+19:31 select I'll select this item again and
+19:34 increase my density so this this really
+19:39 fills out and then all I have to do is
+19:41 go anywhere I can collect on any item
+19:41 over here and click that isolate or exit
+19:47 isolate tool there we go
+19:47 so now that grass is painted it's a
+19:50 little larger than I want it to be let
+19:52 me see if I can actually skim that down
+19:54 I had to click a couple times to be able
+19:59 to select that what I would typically do
+20:00 is
+20:00 I would grab the selection underneath
+20:07 this which is this section right here
+20:07 we're gonna rename it like we did in the
+20:15 previous video front porch what did we
+20:16 call it round section something like
+20:19 that front porch round section and
+20:19 something I can do is I can start a new
+20:22 I didn't go through and and fix my scene
+20:27 graph since the last crash but I'll just
+20:29 do a new container and this is going
+20:29 well let's just name it the same thing
+20:31 front porch round section and the point
+20:37 of this is that I'm going to take this
+20:40 painted vegetation right here and I'm
+20:40 going to drop it into this section I'm
+20:44 also going to take that front porch
+20:44 round section if I can click past the
+20:46 painted vegetation or I might need to go
+20:51 find it this is where having your
+20:51 hierarchy is really important because it
+20:56 would be very simple for me to locate
+20:59 that front porch round section right
+20:59 here and then group it into that same
+21:05 folder so anyways there we go front
+21:05 porch round section and this would all
+21:08 be underneath a subfolder called terrain
+21:13 so a really easy way to organize these
+21:15 particular elements especially for
+21:15 troubleshooting if you're finding that
+21:19 you know something's overlapping on
+21:19 another model so I can select this again
+21:24 this painted vegetation I could select
+21:24 it just by selecting it in 3d or I could
+21:29 go into the hierarchy find it and select
+21:32 that painted vegetation and then I can
+21:32 hit my erase tool and kind of you know I
+21:36 can really just wipe this stuff out as I
+21:39 want to and then do that isolate section
+21:42 again and and maybe kind of detail this
+21:45 out but since we've got this open I'm
+21:45 going to go into the settings and see if
+21:50 we can't scale this down and this is
+21:51 what I discovered last time and it
+21:51 actually crashed the program a couple
+21:55 times for whatever reason this
+21:55 particular vegetation will not scale
+21:57 down which is why I don't really like it
+22:03 because that grass is just too tall the
+22:03 other part of this is I want to get kind
+22:09 of a really finite look here where in my
+22:12 vegetation paint and let's get back down
+22:16 painted vegetation I want to have a very
+22:19 realistic thing happening here where the
+22:20 grass is kind of pulled away from the
+22:20 mound of dirt that's gonna you know be
+22:25 around this tree so all I did there is
+22:26 hit that eraser tool the vegetation
+22:26 eraser and kind of a race around that
+22:31 tree but as you can see it doesn't do
+22:33 exactly what I want it to do
+22:33 so we're gonna come up with way of
+22:36 getting around that because here we go
+22:42 we want to erase that section too so
+22:42 here we are in a front porch section and
+22:46 we're gonna do a couple of new things
+22:46 we're gonna get into our contextual menu
+22:49 get into our vegetation scatter we're
+22:49 gonna do something similar to the first
+22:56 go-around but with a few added things
+22:58 here and there so first thing is I'm
+22:58 gonna drop the lawn in here because I
+23:01 want a little bit of fill from the lawn
+23:04 I'm also gonna grab that detail grass
+23:04 and one more thing here we're gonna do
+23:11 the long grass oh maybe we'll do this
+23:11 this this long grass right here and I'm
+23:14 gonna select two of these these are both
+23:19 in my vegetation scatter tool right now
+23:19 if I had all three or if I just had them
+23:26 all deselected obviously the toolbar
+23:26 goes gray as soon as I select a couple
+23:30 items it gives me that option so I'm
+23:30 gonna grab this I'm gonna pump this up a
+23:34 couple times you see we've got some
+23:34 spillover I'm not too worried about it
+23:38 at the moment I'm gonna click this
+23:38 button a bunch of times and that's gonna
+23:43 let this fill in and and let it kind of
+23:45 iron out it's as we said before it's
+23:45 collision detection and fill this in as
+23:48 needed
+23:48 the last part of this is I'm gonna grab
+23:53 this long grass and put that in and you
+23:53 see just how much it fills in it's quite
+23:59 extensive actually now I'm going to
+23:59 click in the gray area click back on
+24:01 that long grass I'm going to get into
+24:03 the settings of this and I'm gonna dumb
+24:05 down some of the size of this here there
+24:12 we go and I might even come back in here
+24:15 and subtract some of this and that
+24:15 doesn't seem to do what you would think
+24:17 it does so someone might need to explain
+24:22 that to me so it doesn't seem to thin
+24:22 out this long grass and that's okay the
+24:26 next part of this is I'm
+24:26 take the eraser tool and we're gonna
+24:28 watch as this program seems to be either
+24:40 catching up or crashing again okay there
+24:40 we go
+24:40 seems to be working very slowly so I'm
+24:48 gonna switch this diameter down to
+24:48 something that I can control and get
+24:53 really tight here and I'm gonna race
+24:53 along the borders edge to kind of get
+25:00 rid of this spillover there we go got
+25:06 some of that gone and again just to
+25:08 better understand this you need to
+25:08 understand how twin motion is doing it's
+25:15 painting this vegetation it's based on a
+25:18 base model that it repeats and collides
+25:20 with each other and then reorients
+25:20 rescales until it fits just right and so
+25:26 to understand that you need to
+25:26 understand where you need to place this
+25:30 eraser tool to be able to catch those
+25:33 edges which is you need to bring this
+25:33 eraser tool far enough in from the edge
+25:37 to catch the geometry of the thing that
+25:39 you're trying to erase so there we go
+25:39 we've got a pretty good-looking section
+25:46 I'm going to undo the isolate here and
+25:48 then I can come in here and use that
+25:51 eraser tool again and get in right
+25:51 around this side him right here now
+25:54 granted we've got the long grass
+25:54 selected so it's only erasing long grass
+25:59 so I'm going to set it up so that it
+25:59 erases the borders and the long grass
+26:01 and let's see where that ends up yeah so
+26:05 now we got a like a little bit of grass
+26:10 around there and delete some here there
+26:12 we go or we've removed a little bit of
+26:14 grass there as well so that's all
+26:14 looking pretty good let's just do this
+26:17 section again it's almost like a repeat
+26:20 process so that you guys understand the
+26:25 process so here we go we're gonna get
+26:26 into our materials we're going to get
+26:26 into our nature materials I'm going to
+26:31 put a grass here as an underlay just
+26:31 drag it on I want something that doesn't
+26:35 look like it's repeating too much that
+26:37 looks pretty good
+26:37 and then I'm gonna get back in there a
+26:39 contextual menu and if I hit scatter you
+26:46 can see it goes back to that particular
+26:50 version of the scatter tool and I feel
+26:52 like I have to click on a different
+26:52 geometry to be able to get it to do what
+26:57 I want it to do which is reset and so
+26:57 now we'll get back to our detail grasses
+27:02 and I'm just gonna fill this in with our
+27:06 border grass I'll grab this in fact I
+27:06 don't know maybe I'll bring it in here a
+27:12 couple times and get some different
+27:12 settings on this and just start clicking
+27:18 away until this fills in and then I if I
+27:20 click off those tools get into settings
+27:24 and we can get some you know some try
+27:24 sections they're a little bit different
+27:28 than the last time we did it kind of an
+27:31 unkempt yard here or we can pump that
+27:34 size way up you know any anything in
+27:34 between and keep in mind you can kind of
+27:39 overlay these features on top of each
+27:39 other we can get the stripes in here if
+27:43 we wanted to kind of get that lawnmower
+27:43 thing going on let's just change that to
+27:56 one change this to 90 and get a really
+27:58 good-looking yard over there on the on
+27:58 the side yard we've got kind of a rough
+28:03 looking yard right here you know great
+28:07 way to look at these tools and get
+28:07 started in your vegetation now you can
+28:11 see here something I did wrong I didn't
+28:15 clip my terrain around those stones and
+28:15 this is exactly what we're talking about
+28:20 in video one so we need to get back to
+28:20 our vegetation scatter and use our erase
+28:27 tool and then we just need to erase
+28:37 clear them up so next video we're gonna
+28:39 go over we're gonna look at the tree
+28:39 models and and take a look at when you
+28:46 want to use two in motion trees versus
+28:49 when you should try importing a high
+28:51 poly count tree or a very detailed
+28:51 looking tree so stay tuned for the next
+29:00 video and as usual subscribe

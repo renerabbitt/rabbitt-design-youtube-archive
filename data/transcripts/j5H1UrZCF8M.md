@@ -1,0 +1,330 @@
+---
+videoId: j5H1UrZCF8M
+title: Fixer Upper Season 1 Ep 4. Garbage Disposal Replacement
+url: "https://www.youtube.com/watch?v=j5H1UrZCF8M"
+status: imported
+---
+
+# Transcript
+
+0:04 Little fixer-upper version 3, episode 3.
+0:07 It's cleaning day today and
+0:07 How do I turn this around? I can't turn
+0:10 around.
+0:11 No.
+0:13 We got to start over.
+0:16 We're just going to cut.
+0:21 And we're back.
+0:21 This is my house, I promised.
+0:23 And it's a mess and it's cleaning day
+0:28 and my plants are really mad at me.
+0:31 And sorry plants.
+0:31 So I got to fix those.
+0:35 Um
+0:35 Yeah, but the worst part is that I got
+0:40 to trade out a garbage disposal
+0:41 and
+0:41 and I don't want to, but I'm going to do
+0:44 it anyways.
+0:44 And hopefully we'll get it done right
+0:45 the first time. Um but this is my little
+0:50 living room setup and
+0:50 Yeah. And look at this mess. I have food
+0:54 on the ground over there. It's crazy.
+0:54 It's crazy. My plants are mad at me cuz
+1:01 I've been neglecting them.
+1:01 Cuz I've been I don't know.
+1:07 Who knows? Um anyways
+1:07 for those of you that wanted to check it
+1:11 out, I don't just live horribly um based
+1:15 on the outside. I like my interior. It's
+1:17 always a work in progress. I'm always
+1:19 doing fun little things to it.
+1:19 Um but this was not part of the plan was
+1:24 I've got an old
+1:24 uh King like I think they were called
+1:28 Kings
+1:28 garbage disposal here. They just blew up
+1:32 inside. And so um
+1:32 I don't use a garbage disposal all that
+1:37 much. I'm one person here, so
+1:37 you know, I decided to buy a really
+1:42 treat cheap little tiny version.
+1:44 It's a rainy day by the way.
+1:44 Which is crazy cuz it's all the way in
+1:49 April.
+1:49 Um but it's beautiful out.
+1:52 And we'll see how this goes.
+1:59 And so this will get tightened up right
+2:06 And like
+2:06 20 lbs of torque or something.
+2:23 And then the other hacky thing I'm going
+2:24 to do
+2:24 this should sound like ASMR for
+2:29 contractors, these noises.
+2:29 I don't know. I love these noises.
+2:48 Okay, about 20, about 10,
+2:49 about 5.
+2:49 Somewhere right about there.
+2:52 Yep. And then the other thing I'm going
+2:56 to do, which I know you guys have done
+2:56 this before. I know you have. Don't lie
+2:59 to me.
+2:59 Don't even pretend like you haven't done
+3:04 this before.
+3:10 I'm going to
+3:11 steal
+3:13 this.
+3:13 Cuz I am feeling really lazy.
+3:17 And so I'm going to pop this little trim
+3:22 ring off.
+3:22 Yep. I know you've done it before. Don't
+3:26 lie to me.
+3:26 And we're going to see if we can just
+3:30 reuse this.
+3:30 Cuz I'm feeling so lazy.
+3:37 Maybe we can.
+3:37 With a little coercion.
+3:42 Easy.
+3:42 Maybe I'll just pop it off then. I
+3:46 thought it was really
+3:46 baked on to my sink, but it's moving
+3:48 pretty freely. Yep, it's popping right
+3:52 off. Never mind.
+3:52 We'll do it the right way.
+3:54 You happy? We're just going to do it the
+3:58 right way.
+3:58 I was going to cheat, but now I'm not.
+4:04 Look at this. Someone used silicone.
+4:06 Isn't that funny?
+4:06 People are so weird.
+4:08 They do weird things. They put a full
+4:12 seated bed of silicone.
+4:18 You know, one of the upgrades I want to
+4:20 do to
+4:20 this whole setup besides getting a new
+4:24 sink, which I should have just done
+4:24 with the dishwasher. Should have just
+4:27 got a sink.
+4:28 You know,
+4:29 but
+4:30 um one of the big
+4:32 things you could do for yourself
+4:36 quality of life is change out your
+4:39 hinges.
+4:39 I should have changed these out a long
+4:41 time ago.
+4:41 So that I could just pop them off and
+4:44 get these doors out of my way.
+4:44 So when you're doing drainage like this
+4:49 it's easier. Look at this mess down
+4:50 here.
+4:50 Um this was something I wanted to fix
+4:55 too is this is awesome. It's this
+4:55 um soap dispenser here, but you could
+5:00 can just plunge it into
+5:00 big container like this.
+5:02 Um so makes it last a little bit longer.
+5:07 And then I love this this cup washing
+5:07 deal, but um I already had a split on my
+5:14 um on my cold side.
+5:14 And I kind of wish I'd split it on the
+5:18 hot side.
+5:18 So maybe one of these days I'll do that
+8:12 thing
+8:12 and do this.
+8:30 Yeah, and that'll work.
+8:45 There she goes.
+8:45 Now I get to play around with this
+8:48 angle.
+8:48 And so I think I just get to do that.
+8:54 Just like that. And that's money.
+8:55 Sunnies.
+8:55 And then we can even rotate this bad boy
+8:59 to give us a little more length if we
+8:59 wanted to. Just to save our butts in the
+9:04 future.
+9:04 And so now
+9:06 this guy's got to get cut. Going to get
+9:11 cut right about
+9:13 there.
+9:13 Oh, I love the smell of ABS glue.
+9:16 Tell me I'm not crazy. Isn't that a
+9:20 great smell?
+9:20 Man, I love that smell.
+9:25 Gluey gluey.
+9:36 Toxic smelling goodness. Oh, I just
+9:39 dripped it on my
+9:39 on my ramen bowl.
+9:48 Come on, baby. Get on there.
+9:50 There you go.
+9:50 Right where you needed to be.
+9:57 Yep, ruining that ramen ball.
+9:59 Shoot.
+9:59 What an idiot.
+10:01 You know, it happens, man. It happens. I
+10:05 ruin it. I have new contact paper for
+10:08 the gra- the cabinet bottom. So, I
+10:11 should have just
+10:11 Or, you know, you could just protect
+10:14 your surfaces like
+10:14 you would have done back in the day
+10:18 for your clients.
+10:19 But,
+10:19 contractors
+10:21 don't treat their own home
+10:23 the way they treat their clients' home.
+10:30 They're a lot nicer to your stuff.
+10:30 And they're a lot worse to their own
+10:38 And I'm just going to force the hell out
+10:40 of this cuz I don't care.
+10:58 That's right.
+11:04 I think
+11:04 I think I got that on there.
+11:18 Yeah.
+11:18 That's
+11:20 That's most of the way there.
+11:27 My garbage disposal is lame in a little
+11:30 bit. I was a little long in my cut.
+11:30 That's okay. I think we might be able to
+11:39 Yeah.
+11:39 Yeah, there's a some wiggle room.
+11:53 What would have been really smart is if
+11:56 I put the slip joint on
+11:57 before
+11:57 I did all this.
+11:59 That would have been clever.
+12:04 But, you know, we're
+12:04 I'm missing a step or two.
+12:55 If you know your stuff, you know all the
+13:10 Beautiful
+13:21 Except for
+13:21 that glue joint looks terrible.
+13:52 Now it's in there. Now it's getting in
+13:54 there. There we go.
+14:24 My dishwasher line's a little short.
+14:26 It's fine.
+14:26 Still got the 90.
+14:41 Not the worst thing if it's pinched a
+14:43 little bit.
+14:43 Yeah, it's not too bad, actually.
+15:06 Got to tilt your clamp down opposite
+15:07 direction
+15:07 of what's tight
+15:09 before you start tightening it.
+15:13 And then,
+15:13 if you're really good at what you do,
+15:18 you keep all your tools organized in
+15:20 front of you
+15:20 so you know where everything is.
+15:23 So, you're not sitting there filling
+15:38 So,
+15:38 what I'm doing now
+15:42 is
+15:42 tightening this bad boy.
+16:08 All right. So, I need you to do me a
+16:10 favor.
+16:10 I'm going to plug this in.
+16:14 And you tell me
+16:14 if this starts leaking like crazy, just
+16:18 holler at me. Let me know so I could
+16:29 Uh,
+16:29 let's see.
+17:07 Boy, that dishwasher has a terrible
+17:16 Okay.
+17:16 We're there.
+17:19 We are there.
+17:20 We're missing one little thing,
+17:29 stay organized.
+17:40 thingamajig.
+17:40 They didn't even give me a new one of
+17:45 these. Isn't that terrible?
+17:54 Amazon, man, check your stuff before you
+17:55 send it out.
+17:55 Using old parts.
+18:08 Well, another day in the life, right?
+18:09 Um
+18:09 I hope you guys like these videos. I
+18:18 Bringing back People ask me if I
+18:20 um
+18:20 still build. And this is the only thing
+18:25 I build on is my own place.
+18:27 And it's uh
+18:27 It's my little fixer-upper. It's the
+18:30 only work I do.
+18:30 And I had a really good friend. I'll do
+18:34 a little um
+18:34 a little end
+18:36 segment here.
+18:38 I had a really good friend that built
+18:41 everything with me. He was on every
+18:44 single job with me for
+18:46 about 8 years.
+18:47 And
+18:47 boy, could he get me moving.
+18:49 And then once I got moving, I was quick,
+18:54 man. I was good at this stuff.
+18:55 And uh
+18:55 he passed away, and then I stopped
+18:59 building.
+18:59 I changed careers.
+19:02 So,
+19:03 it's weird how that stuff can happen,
+19:06 man.
+19:06 And I only started working on
+19:12 my house again recently.
+19:12 And cuz it took some friends to get me
+19:16 motivated.
+19:16 And now I'm back working on my house,
+19:19 and
+19:19 you know, I don't know if that's a good
+19:21 thing.
+19:21 It's a pain in the butt.
+19:24 Working on houses is a pain in the butt.
+19:28 And but I'll show you this. His name was
+19:29 Dylan Yagi.
+19:30 I loved the dude. He was just aw-
+19:34 absolutely awesome.
+19:35 And he was funny. He was always game for
+19:38 something. This little um this whole
+19:39 brick console This is an old brick
+19:42 fireplace. And um
+19:42 this was all covered with drywall.
+19:44 And I'm still working on patching it in
+19:46 and everything like that, but I am I had
+19:50 during COVID times I had four people
+19:50 living here. And I kicked them all out
+19:52 for my birthday. And I cuz I had tapped
+19:57 on the wall one day
+19:57 by accident and found that it was
+20:00 hollow.
+20:00 And so then I just knocked it all out
+20:03 and built these little shelving units
+20:04 and started putting this all back
+20:04 together. But yeah, this is a little
+20:05 barbecue. This is where you um you feed
+20:09 in your coals, right? And then this
+20:09 would have this would be a pit with the
+20:14 a great and grill. Um I didn't want to
+20:15 make it into a barbecue. It's a really
+20:17 awkward place to come barbecue when
+20:17 everybody's hanging out over there in
+20:20 the kitchen, but
+20:20 there's that. And then the other thing
+20:21 that Dylan helped me do was and this was
+20:26 all just exposed brick. And so we
+20:26 covered it up, put some new doors in.
+20:28 Um I ran a bunch of chase lines. There's
+20:32 a bunch of uh data lines that go all the
+20:35 way up to the upper floor in this wall
+20:37 and then go underneath the staircase.
+20:38 And so there's a whole data center in
+20:39 the staircase.
+20:40 Fed that all through, covered all this
+20:42 up.
+20:42 And uh and fed in some stuff for her
+20:47 surround sound speakers. And
+20:47 yeah, man, do I miss that guy. He's so
+20:51 fun to work with. So I'm just getting
+20:51 back into working. So now you're going
+20:55 to see my process. Hope you enjoy it.

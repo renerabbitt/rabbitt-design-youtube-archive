@@ -1,0 +1,52 @@
+Title: CA SHORTS - Thickened Slab At Bearing Wall Condition In Chief Architect
+URL: https://www.youtube.com/watch?v=NAX8a3nk6aI
+Visibility: public
+
+0:02 Chief Architect users this just popped
+0:04 up in the forums how do we create a
+0:04 continuous thickened slab underneath an
+0:10 intermediate bearing wall and this is
+0:10 actually pretty easy to set up I've just
+0:15 got my default plan template here I'm
+0:15 going to draw in an interior wall that
+0:20 I'm going to designate as bearing okay
+0:20 and something I also like to do is I use
+0:24 the construction line tool and then with
+0:26 the construction line I'll even come in
+0:28 here and change the call out and so
+0:28 instead of using an automa I label I
+0:31 will just come in here and actually say
+0:35 that this is B1 or something like that
+0:37 in terms of it being bearing and maybe
+0:39 I'll change it to capsule so that lets
+0:41 my engineer know this is the bearing
+0:43 wall but I just want to open up this
+0:43 interior wall now and in the structure
+0:49 panel all I want to do is come down
+0:51 towards the bottom in the framing
+0:51 section and designate it as a bearing
+0:56 wall create wall footing below now
+0:56 notice it doesn't preview us that wall
+1:00 footing I've got automatic uh build
+1:00 framing excuse me build footings in this
+1:04 case build foundations so I'm just going
+1:07 to get into that build menu and get into
+1:09 the floor section and then let's get
+1:09 into the build Foundation section and we
+1:15 can choose monolithic slab here and so
+1:15 you could edit the default slab footing
+1:20 if you'd like edit the default stem
+1:20 walls if you'd like and in this case
+1:26 we've got a chamfer width so in my
+1:26 chamfer width and chamfer height it
+1:27 might be that I need to increase this to
+1:32 create that detail I'm going to say 8
+1:32 and eight for this case let me say okay
+1:34 and let me just pull you can see here it
+1:39 built a footing and let me pull a 3D
+1:42 camera view and we'll just hand this
+1:42 camera underneath the building so that
+1:44 we can see and we'll just do a line over
+1:49 method here there we go it built that
+1:49 intermediate Cham for continuous thicken
+1:55 slab at that bearing section so uh that

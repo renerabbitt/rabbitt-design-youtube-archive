@@ -1,0 +1,59 @@
+---
+videoId: XL-7VcZaNE8
+title: CA SHORTS-Polyline Area for multiple coverages on site plan
+url: "https://www.youtube.com/watch?v=XL-7VcZaNE8"
+status: imported
+---
+
+# Transcript
+
+0:04 if you're utilizing polylines to create
+0:06 a coverage macro and that's going to
+0:08 report to a schedule for your site
+0:11 analysis there's a couple of ways
+0:13 you can incorporate
+0:15 your existing
+0:15 building into your existing
+0:19 polyline
+0:20 now
+0:20 let's add a little bit of complexity say
+0:25 we've got more buildings on our lot that
+0:28 need to be within our new coverage
+0:28 envelope let me go ahead and just build
+0:37 and so what i'm going to do is i'm going
+0:40 to select the outside wall here excuse
+0:40 me the outside room here and in my edit
+0:45 toolbar make room polyline i'm also
+0:45 going to do that for this building over
+0:52 make that room polyline now i'll take my
+0:54 new coverage
+0:54 and i'm going to make sure that it goes
+0:59 just outside of the plane of those
+0:59 exterior walls there and then i'm going
+1:04 to use my union tool to union this
+1:05 together
+1:06 then from there
+1:08 i can take this section here
+1:16 drag it over so that it's crossing the
+1:18 path of this other building over here
+1:20 and i'm going to use that union tool
+1:25 there we go now the last bit of this
+1:25 just to clean it up is i'm going to snap
+1:29 this one edge line here
+1:29 to another same thing over here
+1:33 and you're going to see
+1:33 this is no longer calculating area along
+1:38 this line this is just a perimeter line
+1:41 at this point but our coverage
+1:41 is now calculating from both of these
+1:45 separate structures so a really quick
+1:48 and easy way to utilize an existing
+1:50 macro system that you have for site
+1:50 analysis where you've got polylines that
+1:54 are reporting to a schedule and maybe
+1:55 even
+1:55 doing some calculations like mine are in
+1:59 my pro template
+1:59 and being able to conform those to a two
+2:04 or three or four structure
+2:04 setup where you've got multiple

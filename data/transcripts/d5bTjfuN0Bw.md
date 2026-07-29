@@ -1,0 +1,236 @@
+---
+videoId: d5bTjfuN0Bw
+title: Chief Architect With The Pro Plan - Braced Wall Panel System BWP
+url: "https://www.youtube.com/watch?v=d5bTjfuN0Bw"
+status: imported
+---
+
+# Transcript
+
+0:02 Following video is for my pro plan
+0:02 package. It's an add-on package for
+0:04 Chief Architect. Link at the top of the
+0:06 screen. If you don't have it, go get it.
+0:09 It's going to save you a bunch of time
+0:09 and money. It's already set up, make you
+0:14 really efficient in Chief Architect.
+0:17 Let's go ahead and start this video.
+0:19 Let's show how the brace wall panel
+0:19 system works in the pro plan. Um, I'm
+0:21 going to go ahead and you can just find
+0:23 the brace wall system from your toolbar.
+0:27 So, in your toolbar, you got this little
+0:29 guy over here. at this one right there.
+0:31 That guy right there. Brace wall panel
+0:31 tool. And typically you want to get to a
+0:37 framing view. So we can get to a working
+0:41 framing view. Okay. And then I actually
+0:43 like to just start in the actual print
+0:43 view, which I'm going to use the framing
+0:47 floor plan view. And then select that
+0:47 tool and just place it. Now it doesn't
+0:53 matter that it's not going to snap in
+0:54 the correct place the first time you
+0:57 place it. Also, if you ever see
+0:57 something like this, this is something
+0:59 I'm working on with Chief Architect.
+1:01 It's been a while. I'm still getting
+1:01 this conflict. You're always, always,
+1:04 always going to select no. What this is
+1:10 asking you is if this macro, okay, the
+1:12 existing one contained in the library
+1:12 conflicts uh conflicts with the one in
+1:16 the plan. The plan is always going to
+1:19 have the most upto-date macro. That's
+1:22 what I'm updating. Macros just
+1:22 transition into objects that are saved
+1:24 in libraries. and it's really difficult
+1:28 to update them. So, always choose no,
+1:30 right? So, we're going to say no a
+1:30 couple times there. Now, we've placed
+1:32 that raw braced wall panel tool. This is
+1:36 how we utilize it. We need a little
+1:36 point to point. And you're going to want
+1:39 to just point to point this all the way
+1:41 to the edge there. And so, there we go.
+1:44 Now, keep in mind this is technically
+1:44 just a cabinet. So, you can resize this
+1:51 based on a wall size. All right. Just
+1:53 keep in mind also that in this
+1:54 particular view, we are only showing the
+1:58 main wall layer. You could get into Aldo
+2:01 and show uncheck main wall layer only.
+2:04 And we're going to see that this is um
+2:06 actually snapping to particular spots,
+2:08 but you can just drag this snap it
+2:08 however you like. What's happening right
+2:13 now is it's just behind my um my outside
+2:14 layer, which is my stuckle layer. And
+2:14 that matters only for one reason, which
+2:19 we'll get into in just a minute. But
+2:19 there we go. I've got a brace wall panel
+2:22 in place. I'm going to copy paste it
+2:22 around the corner. And what we're going
+2:26 to notice here, let me open up the
+2:26 schedule that this comes from. If in
+2:31 case you missed that, all I did was
+2:31 select the brace wall panel in the edit
+2:34 toolbar. Usually at the bottom of your
+2:34 screen, I clicked on find schedule from
+2:39 object. That brought me to this. All
+2:39 right. So, this is the schedule that's
+2:41 being generated from that. Now, when we
+2:46 kind of tile this back and forth, and
+2:46 there's a bunch of information in there
+2:49 that you might want to read, but as we
+2:49 tile this back and forth, we're going to
+2:52 see what happens is the minimum panel
+2:52 length for this brace wall panel method
+2:57 is 48 in. So, that if I come back into
+2:57 my plan view and I actually shrink this
+3:01 to what it needs to be to fit around
+3:01 this window, which would be just up to
+3:02 the window, we're going to notice that a
+3:07 different input was created. Now, you're
+3:08 going to have to adjust some of these
+3:11 schedules as you add more panels. But
+3:11 what happened here was this did not meet
+3:15 the minimum. So, our additional
+3:15 requirements was populated. And this is
+3:20 all coming from the braced wall panel
+3:20 method being used. How do we designate
+3:22 the braced wall panel method being used?
+3:27 Well, you're going to want to get back
+3:29 into maybe the working plan view would
+3:31 be the easiest way to get to this is
+3:33 just up at the top here. Macro
+3:33 designations is where we are designating
+3:37 our brace wall panel. And if you've seen
+3:39 the other video about macro
+3:39 designations, you know how this system
+3:43 works. This won't look as overwhelming
+3:45 as it looks to a new user. But we can
+3:47 see here that I've got some methods
+3:47 here. And so maybe I slide one of these
+3:52 methods up to that number one position.
+3:55 And it changed our schedule dynamically
+3:57 and the requirements dynamically,
+3:59 including our braced wall nailing
+3:59 options as well. I'll just show you that
+4:03 again. And I'm going to switch back to
+4:05 this CSWSP.
+4:05 You'll see over here and here that this
+4:08 is going to change dynamically. There it
+4:12 go. It's just like flipping a switch.
+4:12 Now, what happens if we need to use two
+4:17 different methods in a project? I was
+4:17 just asked this today. And let me just
+4:19 show you how I think this works. is that
+4:26 um that macro designation is a global
+4:28 designation, meaning that it's just
+4:28 trying to take the busy work out of this
+4:35 system for you, but it ultimately is
+4:35 reporting some value to the brace wall
+4:40 panel tool, which is just a cabinet,
+4:40 mind you. And so you could just replace
+4:43 what the braced wall panel tool sees. So
+4:49 in object information which is always
+4:49 where we are driving schedules from in
+4:54 the pro plan you can kind of peruse
+4:54 through all the macro inputs. These are
+4:59 generically named so that they are then
+5:02 renamed in schedules so that we are not
+5:05 creating such an extreme number of
+5:05 options in a schedule at any given time
+5:09 for things that could be included
+5:09 because we know all custom fields can be
+5:14 included in schedules. So, I'm trying to
+5:16 limit the number of items that you have
+5:17 to scroll through in a schedule because
+5:19 that just makes it kind of convoluted,
+5:21 especially if maybe you're not using a
+5:21 brace wall panel system. So, we can see
+5:23 here we've got brace wall panel, minimum
+5:27 panel length, edge, nailing, plate
+5:27 anchor, intermediate connections. We've
+5:30 got some information here. So, we're
+5:30 trying to figure out what this is. Now,
+5:35 here's where we notice that this might
+5:35 be what's being indicated. Okay. And so
+5:41 could I change this to let's just go
+5:44 CSWSB instead
+5:44 or yeah, let's just stick with that for
+5:47 now. Let's see if that actually still um
+5:52 creates what I need to create. Let me go
+5:54 back to macro designations. Let's switch
+5:57 this to just a PFW. And we're going to
+5:58 see that this did in fact stay CSWSP and
+6:04 it did not change its requirements. It
+6:06 only changed the PFW. So that's a way
+6:08 that you can independently get two
+6:08 different brace wall panel systems into
+6:13 one plan. All right. Now, kind of the
+6:13 last cool little trick which I mentioned
+6:17 earlier about the sizing of these
+6:21 cabinets is that you can pull an
+6:21 elevation view, elevation camera, and
+6:27 this is going to default into the
+6:27 elevation view layer set. But if you
+6:29 switch, if you're using my wall types
+6:32 and my wall types report some of their
+6:38 layers to different uh some of their
+6:38 wall layers to different display layers,
+6:45 then what happens is uh you can switch
+6:47 this to a braced wall panel section
+6:47 view. So um which would be let's see
+6:54 where are we at here?
+6:54 Section BWP view is what it's called.
+6:59 And so what it's going to do is it's
+6:59 going to remove well typically it would
+7:05 remove this exterior layer. Seems that
+7:09 I'm not using my own wall system here.
+7:09 Let's get to this wall type setting for
+7:12 existing.
+7:12 And that's [clears throat] because it's
+7:13 an existing one, but you can change this
+7:19 display layer to exterior layer one. And
+7:21 that would be a layer that's turned off
+7:21 in this view. Um, same thing if you want
+7:25 to get in here and also take any kind of
+7:27 building wrap, have that um,
+7:27 [clears throat] report to a different
+7:28 layer as well so that we can get to that
+7:32 plywood. That would be kind of clever.
+7:33 So, we can just double click on the
+7:33 display layer, get it to exterior layer
+7:41 And there we go. We're getting to that
+7:41 plywood layer. especially if you switch
+7:47 to something like um maybe you don't
+7:47 want to do a vector view. You could do
+7:49 some kind of other view as standard you
+7:53 would actually see that plywood. Isn't
+7:54 that cool? And then the last part of
+7:55 this is we don't really know what
+7:57 elevation you want this placed at
+7:57 because the way this places and the fact
+8:01 that it's a cabinet. So just go ahead
+8:01 and bring this down and you can modify
+8:03 it that way and get this to go plate to
+8:07 plate if you want. But you can create
+8:07 some pretty realistic braced wall panel
+8:09 looks here, especially once you got some
+8:17 and don't display windows, but it would
+8:19 automatically display the opening here.
+8:21 So that would make a lot more sense.
+8:23 Isn't that cool?
+8:23 So you can build that out for that
+8:24 particular view. And that's kind of just
+8:28 going over that full brace wall panel
+8:28 system. And this [clears throat] is for
+8:32 X17. Right now, we don't take into
+8:32 account any kind of braced wall line.
+8:34 So, you're going to have to do that calc
+8:37 yourself. Uh, stay tuned for the next
+8:37 version of my pro plan for X18 because
+8:41 I'm going to try to incorporate that
+8:44 brace wall line system as well. So,

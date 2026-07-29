@@ -1,0 +1,1206 @@
+Title: Copying a Toolbar From One Configuration To Another In Chief Architct X17
+URL: https://www.youtube.com/watch?v=oV_UMWp3Hno
+Visibility: members-only
+
+0:00 VIP. Um, this is probably going to be
+0:04 the only video that you find out on the
+0:06 interweb about this topic. We're going
+0:09 to be not only we're going to be
+0:10 learning how to do tool bars, but we're
+0:13 going to learn how to hack toolbars.
+0:16 And
+0:17 and since this isn't a membership area
+0:19 and you can't search this, I'm taking
+0:21 advantage of that. Hopefully Chief won't
+0:23 come after me. But I will tell you this.
+0:26 If you say that you've done something
+0:28 like what I'm, you know, saying that you
+0:30 can do here and you try to go get tech
+0:32 support from Chief Architect, they're
+0:34 going to have you just reset your
+0:36 toolbars. That's just the fact of the
+0:38 matter. They're not going to support um
+0:40 doing what I'm going to show you how to
+0:42 do in this. But um I'm thinking about a
+0:45 member in particular who has the same
+0:48 complaint that I have uh which is that
+0:51 you can't easily transfer a tool bar
+0:54 from one toolbar configuration to
+0:56 another. And so let me just open up a
+1:00 plan so that we can even see what I'm
+1:02 talking about which is and let's just go
+1:05 over some lingos because or some
+1:08 terminology because it's really
+1:09 complicated to teach on toolbarss in a
+1:12 classroom setting because we use the
+1:15 word toolbars so frequently for so many
+1:18 different things. Many people just say
+1:21 that these are toolbars and they're not
+1:23 necessarily wrong, but that confuses
+1:27 things because then we think about
+1:29 toolbars as the collection of
+1:33 toolbars because this right here is a
+1:37 toolbar. So this collection of toolbars
+1:40 should not be called toolbars, but
+1:42 that's just what we tend to call it. The
+1:45 collection of toolbars is called a
+1:47 toolbar configuration. Okay? Okay. And
+1:49 so when I switch to a different
+1:51 configuration and for my toolbars, these
+1:53 are different configurations.
+1:56 Here we go. Now we're seeing a different
+1:58 configuration of toolbars. And then to
+2:02 make this more complex, if I were to
+2:04 rightclick on an empty space in my
+2:07 toolbar configuration,
+2:09 it will bring down a drop-down menu of
+2:12 toolbars. And unfortunately, that falls
+2:14 off of my screen recording page. Here we
+2:16 go. So these are other toolbars that I
+2:20 could turn on and off for this toolbar
+2:24 configuration. What happens when I do
+2:26 that? Kitchen full height that added all
+2:29 of a sudden I have this additional
+2:31 toolbar.
+2:33 Okay.
+2:34 Yeah, that makes it really complicated
+2:37 to discuss. I'm going to go ahead and
+2:39 turn that off kind of on off screen
+2:42 there.
+2:43 So,
+2:45 how do we end up copy pasting one of
+2:48 these tool bars from one configuration
+2:51 to another? Well, you cannot do it
+2:53 within the program. Not easily. Um, the
+2:56 way you would do it in the program is I
+2:59 would tell you to go look at a video
+3:01 that I have from a few years ago and
+3:05 I'll link that at the end or maybe I'll
+3:07 just have it pop up on the top of the
+3:09 screen right now. So, that's a video
+3:10 that goes over um toolbar configurations
+3:15 from a few years ago. And essentially
+3:18 what we're doing is we're building out a
+3:21 single configuration with all possible
+3:24 toolbars that you could want and then
+3:27 turning off the view of those toolbars
+3:30 in this view so that they are there. And
+3:34 so you're essentially when you're
+3:35 modifying one toolbar,
+3:38 you would need to modify
+3:40 that one toolbar, duplicate the
+3:42 configuration, and flip on and off what
+3:45 you're showing. That's a lot of work.
+3:47 That's a lot of work. It would be great
+3:49 if um as a group we put in suggestions
+3:52 to Chief Architect to be able to
+3:53 transfer toolbars. They have that
+3:55 suggestion. It's in there. It's one of
+3:57 the things I know is on their list. um I
+4:00 just don't know that it ever gets pushed
+4:02 through. Um so in the meantime, I'll
+4:05 show you how you can copy a toolbar from
+4:08 one configuration to the next. Now
+4:11 there's a new level of complexity which
+4:13 is that if we are in a managed workflow
+4:16 currently in X17,
+4:18 there is no known way to export toolbar
+4:22 configurations. So, if you have an
+4:24 office and you want to export a
+4:25 configuration and you want someone else
+4:27 in the office to be able to get your
+4:28 configuration, how the heck do you do
+4:31 that? Well, the only way to do that is
+4:35 to do a backup of managed resources. So,
+4:38 we would go to file, backup and restore
+4:40 and then choose backup managed
+4:42 resources. Now, something you may have
+4:44 noticed is that there should be in your
+4:46 preferences a setting for automatically
+4:50 doing backups. And this is in project
+4:53 management under backup managed
+4:55 resources. And then there's, you know, a
+4:57 browse here to be able to find those
+4:59 managed resources. And how often do we
+5:02 do them, you know, one every day? You
+5:03 can see that I'm doing them at midnight.
+5:06 Keep in mind that backing this up,
+5:09 especially if you have something like my
+5:11 full system, my complete system, which
+5:14 is my library and my pro plan, that
+5:17 backup is going to take an
+5:19 extraordinarily long amount of time,
+5:22 especially when you add in that maybe
+5:24 you have hundreds of project files. Now,
+5:28 I limit the number of project files that
+5:29 I have. I export these. I rightclick, I
+5:32 export, and then I delete them from my
+5:34 system. What that does speeds up my
+5:36 backup. And then if I need to bring
+5:38 these back in, I double click the
+5:40 project file wherever I exported. For
+5:42 me, that's in Dropbox. So, what do I do
+5:45 when I need to go back and and work on
+5:48 um for instance, I have a colleague that
+5:50 I do work for um as I'm trying to help
+5:52 him build out his cabinet company. And
+5:55 so, here he goes. This is Cam's
+5:57 projects. So when I have a new project
+5:59 to work on for Cam or he wants to update
+6:02 some old project for Dare to Dream
+6:04 Cabinetry, I just double click this
+6:06 projects file and it brings it back into
+6:08 my project management. And so what that
+6:11 does is it keeps the the number of um
+6:15 projects that Chief Architect's managing
+6:17 down to a minimum. Makes it easier for
+6:19 me to see things. Um, and also I keep my
+6:23 projects I keep the the main project if
+6:28 it's a client I'm keeping the main
+6:31 project name as the client's name and
+6:33 then and then I have sub projects which
+6:35 are individual projects which have their
+6:37 own individual layouts etc. And this
+6:40 makes it easy for me to just export
+6:42 Bellosa when we've got a gap in, you
+6:44 know, my working schedule with them. And
+6:47 then I can always bring that back in and
+6:50 it's saved on the cloud. And so that
+6:53 speeds up the backup process time.
+6:55 That's really the only thing that it
+6:57 does. Uh that and and I have difficulty
+7:00 seeing, you know, a huge list here. I do
+7:03 use tags, but even so,
+7:06 I find it, you know, more manageable to
+7:08 have fewer projects active here.
+7:11 So, that backup is where we would get a
+7:14 toolbarss that we could share. And I
+7:19 know I'm just kind of talking and I'm
+7:21 hoping you're following along with me
+7:23 talking. Um, but I had a really good
+7:27 back and forth with the development team
+7:29 over at Chief Architect via Chief Talk
+7:33 and Natalie Plegman, bless their heart,
+7:37 went through and and did some extra work
+7:40 almost specifically for me because I was
+7:44 explaining just how complicated it was
+7:46 for me to get my toolbarss, you know,
+7:49 which are linked to my systems that make
+7:51 working in Chief Architect so Nice. It
+7:54 was really hard for me to distribute
+7:56 that. And so they custom wrote in the
+8:00 ability to import toolbars in a way that
+8:02 we couldn't before. And so here we go.
+8:05 Let's get started. I have now updated
+8:09 some of my toolbars that I want to then
+8:12 update for all my clients.
+8:16 And so I'm going to get in here and I'm
+8:19 going to locate where I keep my backups.
+8:23 And they're in here somewhere. It's
+8:24 project backups. Should get I should
+8:27 make an icon for them. And these are
+8:30 dated.
+8:31 I wish they would change the way they
+8:33 date, but you know what? They still
+8:34 stack. They still stack appropriately.
+8:36 So, here's the 11:30 backup. Now, a
+8:38 backup is just an archive. It's a zip.
+8:41 Okay. And then within here is assets.
+8:46 Just kind of pump this up. Assets.
+8:50 And so within assets, let's see. I think
+8:53 it's within assets. Maybe I looked at
+8:55 this wrong. Let's double check
+8:57 something. Database, library, projects,
+9:01 settings.
+9:04 Settings. Settings is where I'm finding
+9:06 toolbars. So these are toolbars in here.
+9:10 If you looked at just the type of file
+9:12 that it is, this is a a toolbar file.
+9:16 Okay.
+9:18 Here's where it comes in that we're
+9:19 going to break our SSA and they're going
+9:23 to tell you to just reset your toolbarss
+9:24 if you mess this up because this is a
+9:27 very specific
+9:30 thing that you have to do.
+9:33 And I'm thinking right now cuz I'm just
+9:35 doing this out loud. This is unedited. I
+9:37 have to show you how this works. Is I
+9:40 have a toolbar configuration here where
+9:44 I have what I call my construction
+9:46 document tools.
+9:48 Okay. And I want those construction
+9:50 document tools to live in this toolbar
+9:53 as well. For some reason, I didn't build
+9:55 it out in this toolbar.
+9:58 And
+9:59 what we'll ultimately be doing is
+10:02 modifying a text file. Well, a toolbar
+10:06 file in a text editor.
+10:09 But it's nearly impossible to add
+10:12 something when nothing is there. meaning
+10:15 that I want to edit one of these tool
+10:20 bars in this configuration to match the
+10:23 toolbar in this configuration.
+10:27 In order to do that, I needed to place
+10:31 one item here. And and so I place this
+10:34 one 3D solid. And then I go to customize
+10:38 the toolbar. And what happened when I
+10:41 place that 3D solid in the toolbar
+10:44 panel? Again, this term is so redundant,
+10:48 it's really difficult to explain. So if
+10:50 you're just listening, you might want to
+10:52 watch instead. So under toolbar
+10:55 customization. So we right click on the
+10:57 toolbar configuration somewhere in a
+10:59 blank space and then under toolbar
+11:02 customization there is a toolbar panel.
+11:07 This is really difficult to explain. And
+11:09 so what happened was
+11:12 by default when we place a an object
+11:16 from tools. So, I went to the 3D solid,
+11:18 placed a 3D. I ho I clicked. I dragged
+11:22 this in and I dragged it into a blank
+11:25 space. Well, I'll just do it again. I'll
+11:27 drag it into a blank space. Look what
+11:30 this does under the toolbar panel. It
+11:32 makes custom 3D solid toolbar. We need
+11:36 to know this. Now, you can rename this.
+11:38 Now, in this case, I'm going to delete
+11:40 it because I've already done this
+11:41 action, but you would rename this
+11:43 something that you recognize.
+11:44 Construction document tools. Okay.
+11:48 Now, once I've got that in there, that
+11:51 creates an entry in the text toolbar.
+11:56 So, what I what I did was I made
+11:58 something that is essentially going to
+11:59 become a new toolbar that is going to
+12:02 match a toolbar from another
+12:04 configuration.
+12:05 Then, I needed to back this up
+12:08 and wait my 20 minutes or whatever it
+12:10 takes to back this up because, hey, it's
+12:12 backing up your toolbarss. It's backing
+12:14 up all your settings, your preferences,
+12:16 all of your projects, and your user
+12:18 library, which my user library is 5 GB,
+12:21 so takes a long time to back up.
+12:24 Probably about 20 minutes for me. Okay,
+12:26 let me shut down Chief.
+12:29 And and actually, I don't need to shut
+12:31 down Chief for this because part of the
+12:32 new workflow is that we didn't need to.
+12:34 We used to have to, so I could have left
+12:35 it open. So, here's what I've got. I
+12:39 want to open a couple things here. one
+12:41 is my rabbit design full toolbar and and
+12:45 I encourage you to name your
+12:47 configurations something that you will
+12:49 remember so that it just makes this
+12:52 whole process easier. So Rabbit Design
+12:55 I'm opening this up in a text editor.
+12:57 Now my preferred text editor is
+12:59 Notepad++. I think it does just a
+13:01 fantastic job. Um you can set the
+13:04 language. It's going to set some color
+13:07 parameters that makes it a lot easier to
+13:09 do some editing. Um,
+13:13 in this case, I'm not going to change
+13:14 the language. I can see this pretty
+13:16 well. Let me explain what we're even
+13:19 looking at here because this may seem
+13:21 like, whoa, this is over my head, but I
+13:24 will tell you that it's not that
+13:25 difficult to understand what we're
+13:27 looking at. Now, in the past, toolbar
+13:32 configurations did not have this forward
+13:36 line here. This this whole setup here.
+13:41 And I can only guess at what this is
+13:44 doing. Okay. Especially because we've
+13:46 got a bunch of FFS here, which is, you
+13:50 know, if you know some things about
+13:52 color coding,
+13:54 often times that refers to like a blank
+13:56 space or white. Um, anyways, what what I
+14:01 believe this is doing, and you could
+14:02 even get like a chat GPT to take a good
+14:05 guess at this if you gave it some
+14:06 background information, is that toolbar
+14:09 configurations
+14:10 did not used to be in alphabetical order
+14:13 in this file. Okay. So I believe what's
+14:17 happening here is an index and
+14:19 assignment so that we have a um so that
+14:23 it's basically saying giving an order to
+14:27 the arrangement of these toolbars. All
+14:29 right because before
+14:32 the order that you would see in this
+14:33 configuration in a text editor was based
+14:36 on the order in which it displayed in
+14:39 terms of columns and rows on your
+14:42 screen. Okay. So they rewrote this I
+14:46 think to be more of like a module base.
+14:50 Now what we're looking at next is this
+14:53 here. Here's our tool. Well, let me skip
+14:54 down a few that when we can see very
+14:56 clearly here is our toolbar name doors
+14:59 toolbar. Okay, I named it that doors
+15:02 toolbar.
+15:04 Then this 013
+15:06 represents the views that this toolbar
+15:10 is turned on in. My best guess is zero
+15:14 is plan, one is uh elevation, three is
+15:20 3D views, and then it's not turned on
+15:23 for CAD details, for layout, for no
+15:26 view, for all views. I'll give you an
+15:28 example of why I know that's what this
+15:30 is for is that I have my library Aldo.
+15:35 Notice it's got all of these because
+15:38 it's turned on in all of those views,
+15:40 meaning plan view, elevation view, CAD
+15:43 detail, layout, no view, you know. There
+15:47 you go. And then the next line
+15:51 represents the toolbar, excuse me, the
+15:54 tools code. Okay. 359438918.
+16:00 That must be library browser. um project
+16:03 browser Aldo active layer display
+16:05 options. Anything that starts with the
+16:07 2000 is a custom tool and this
+16:10 represents
+16:12 um 059 number 59. You can have as many
+16:16 as 400 custom tools. Okay, so this is
+16:19 number 59 of those 400.
+16:23 Um oh, I'm sorry. 2590. No, this is one
+16:28 of Chief's tools. 23 starts our custom
+16:32 tools.
+16:33 That correct? Am I right? Boy, now I'm
+16:36 getting confused.
+16:38 23044
+16:41 667.
+16:43 Yes.
+16:46 230 23. Yes. 23 represents a custom
+16:51 tool, I believe. Boy, been a while since
+16:54 I've looked at this. Now I'm a little
+16:56 confused. But um that's not necessarily
+16:59 important. What's important here is this
+17:01 is my main configuration and I want to
+17:05 copy the construction document toolbars
+17:08 over to my framing toolbar
+17:11 configuration.
+17:13 So all I have to do is copy these two
+17:16 lines. Actually that's not true. That
+17:20 has the potential of screwing this up.
+17:22 You do not want to copy this first line.
+17:25 Somehow this first line corresponds with
+17:28 this full line of coding here. Somehow
+17:31 there is a correlation between the two.
+17:33 Okay.
+17:35 So really all I want to copy is this.
+17:38 And when you copy just this, it's not
+17:40 going to cause a problem anywhere else
+17:43 that I know of. So here we go. Let me
+17:46 try this out.
+17:48 Going to copy this line.
+17:50 And now I want to open up my
+17:54 architectural toolbar is I believe what
+17:56 I call it
+17:59 in the architectural toolbar. This is
+18:02 the solid. There's that 2072
+18:06 is the solid. Okay. So I was incorrect
+18:09 about 20 being the start of custom tool.
+18:11 It's 23. That's the start of custom.
+18:15 Now let me I should be able to paste
+18:17 this. Must have copied incorrectly. Give
+18:20 this a shot here. Get out of the zoom.
+18:23 I'm hoping that zoom helps for people,
+18:25 but let's see. Looks like I'm copying an
+18:28 entire line. Maybe I just want to make
+18:30 sure I'm copying just this text.
+18:34 Little control tab. We'll switch. Oh,
+18:36 I'm I'm missing the paste. Maybe I can
+18:39 copy an entire line.
+18:43 For some reason, this is not copying.
+18:46 Let me try a control C.
+18:50 Can't seem to paste. What's going on
+18:52 here? Notepad++.
+19:00 Would that be funny if this whole video
+19:02 just got killed because I couldn't seem
+19:04 to copy a line? Isn't that funny?
+19:10 Paste. Interesting.
+19:13 Let me pause.
+19:16 Oh, I figured out what I was doing
+19:17 wrong. What's the one way you can't copy
+19:20 paste? It's when something's a locked
+19:22 file. When's a locked file a locked
+19:23 file? Well, if it's in a zip. This is
+19:26 still in my backup. So, I can't
+19:29 technically do anything with it. You big
+19:31 dummy. Um, anyways, if you didn't know,
+19:33 I just paused to go try to think that
+19:35 through about what was going on. Uh, so
+19:38 I'm going to group by type in this case
+19:40 and then just drag and drop all my
+19:42 toolbar files here. So, that's what I'll
+19:45 do. I'll drag and drop these into a
+19:47 downloads folder. That'll be easy for me
+19:48 to find it. And then now I should be
+19:51 able to open this up easily enough.
+19:54 And copy paste some things.
+19:58 Oh boy.
+20:01 It's fun doing this stuff on the on the
+20:02 spot, I'm telling you. Okay, so
+20:07 uh construction document. Here we go.
+20:11 Copy this
+20:13 and
+20:15 paste. Should work this time. There we
+20:17 go. It works just like a charm. So, um,
+20:21 now when I go import, let's just give
+20:23 this a shot. I'm going to import this. I
+20:26 just save this. Now, when I go back to
+20:28 Chief Architect to open this up, what
+20:31 should be happening when I import this
+20:33 is we get a special dialogue box that
+20:34 you probably never seen before because
+20:36 this is new dialogue box to X17. This is
+20:40 what Natalie did. Um, which I'm so
+20:42 impressed by. It's actually a really
+20:44 great system. And one of the dialogue
+20:47 boxes that may pop up, I don't think
+20:50 will pop up this time. Um, and that
+20:53 dialogue box is when it reads that some
+20:56 configuration you're bringing in has a
+20:59 different assignment for a custom place
+21:01 library object, it will ask you if you
+21:03 want to import the new or retain the
+21:05 old. Uh, which was really clever.
+21:08 And so I should be able to well let's
+21:11 open up a
+21:13 test plan just a any plan.
+21:17 So in this configuration
+21:19 here is the toolbar I just replaced in a
+21:22 text editor. Okay. And so let me
+21:25 rightclick anywhere
+21:27 customize toolbars and I'm going to go
+21:30 to configurations panel and click on
+21:32 import.
+21:34 And then I will find that architectural
+21:37 toolbar.
+21:39 There we go. Now, here's the very
+21:41 interesting dialogue box that never
+21:43 existed before I had these problems and
+21:46 they solved them. Import new. See,
+21:50 there's a duplicate. So, it could
+21:52 automatically rename and you would have
+21:54 a new toolbar configuration. Or you
+21:58 choose to replace all. or you just click
+22:00 down here and
+22:03 you choose replace. Okay, either way,
+22:06 I'm just going to say replace all. Let
+22:08 me press okay.
+22:10 And that's it. It replaced it.
+22:14 Now,
+22:16 noticed
+22:18 here it is. It's right up here.
+22:21 Okay. If I were to go to toolbar,
+22:24 construction document tools, that's the
+22:26 that's the one that I just replaced.
+22:28 Bam. Now it matches my other
+22:31 construction document toolbar from the
+22:34 other toolbar configuration. That is
+22:37 exactly what I was trying to do. Okay.
+22:40 So that works. Perfect.
+22:44 Now I told you before we don't need to
+22:46 have chief architect close because it's
+22:48 not actively linking to these toolbar
+22:50 configurations like it used to be in the
+22:52 past. So that means I can come in here
+22:54 and kind of I can do some side by side
+22:57 stuff. Um
+23:00 move to other view. Yeah, now I'm just
+23:03 looking at this side by side so I can
+23:05 compare some things. I could change
+23:07 names to match things up. Let me do a
+23:11 little bit of work on this and I'll kind
+23:13 of give you an idea of of how I'm going
+23:15 to work this through. So the
+23:17 architectural design toolbar is also
+23:20 missing area analysis. Now here's that
+23:23 problem. I didn't create a new custom
+23:25 toolbar entry so that it if I were to
+23:28 try to just force the inclusion of area
+23:30 analysis, it would not work. Which means
+23:34 I would have to go back to Chief
+23:35 Architect, add a new custom toolbar, and
+23:39 then reassign it and copy something
+23:41 over. Right? So that's the challenge
+23:44 with this. Um, let's see what other
+23:46 things that we can do while we're still
+23:48 in here where we might have
+23:52 same stuff set up. So, we can see here,
+23:55 you know, I like to just look at old
+23:57 dimensions, new dimensions. You know, in
+24:00 the architectural toolbar, I'm showing
+24:01 certain dimensions that I'm probably not
+24:04 showing in my rabbit design toolbar.
+24:07 That's namely because I'm doing a
+24:08 drop-own menu in one of them versus
+24:11 adding a a few expanded tools in the
+24:13 other one. Um something that I notice
+24:16 here is the library the library does not
+24:19 match up with the way I have it. So my
+24:23 let's see library although PM does not
+24:26 match library alo PM that I have here.
+24:29 So look at this. I can take this, copy,
+24:33 paste,
+24:35 save, come back to Chief Architect,
+24:40 customize toolbars, import
+24:42 configuration, right? Find that same
+24:47 um
+24:49 same full architectural toolbars, place
+24:53 all. Bam. Press okay. And so
+25:01 this was library all Oh, we may have
+25:03 named this something differently.
+25:05 Different.
+25:08 Is that what my library? No. See, my
+25:10 library although looks different here.
+25:13 So what did I do? Design tool. Oh, I
+25:16 pasted it the wrong way. Ha,
+25:19 big dummy. Let me go the other way.
+25:22 Well, it looks exactly the same.
+25:25 Okay, let's try this again.
+25:30 Switch throw in customize toolbars.
+25:33 Import.
+25:34 Get to my location here. Actual toolbar.
+25:38 Replace all. Press okay. And boom. That
+25:42 just changed this.
+25:45 It's exactly what I wanted. So, there we
+25:48 go. We're We're passing through copies.
+25:52 Now, to kind of round this video out and
+25:54 go over a few other things, um I know
+25:57 I've got a link to that old toolbars
+25:58 video, but a lot of people ask me, "How
+26:00 do I get your same toolbars?" And you
+26:03 can build your own version of this. If
+26:05 you want my same toolbars with the
+26:06 function that they have, then you need
+26:08 to go buy something from me. But if you
+26:11 want to rebuild this yourself, you can.
+26:13 And a lot of a lot of the reason why
+26:16 people ask me about this is because my
+26:19 icons look like Chief Architect's icons.
+26:21 And I've done that on purpose and I draw
+26:23 these myself and I kind of do it for fun
+26:27 sitting around um cuz I have a passion
+26:29 for working in this software. I have a
+26:32 passion for working in any software and
+26:33 I like improving softwares if they give
+26:36 us the ability to find that to be really
+26:38 rewarding. Um so I'm just drawing these
+26:41 by hand and they're relatively easy to
+26:44 draw and especially in Photoshop where
+26:46 you get to save color palettes. So, I
+26:48 have Chief Architect's icon color
+26:51 palettes and I sit there and I really
+26:53 think about how I can draw something and
+26:56 it will look like it belongs in the
+26:58 Chief Architect
+27:00 um tools, right? So,
+27:04 and then it's about thinking about what
+27:06 I need for what views and how I want
+27:09 those things to be represented. And then
+27:11 over time I get the influence of people
+27:15 using my stuff and utilizing my stuff
+27:17 and saying, "Hey, why don't you have
+27:18 this tool on your toolbars, right? Often
+27:22 times that comes down to me having some
+27:24 of the basic hotkeys in there." But when
+27:26 I get asked enough times to put undo
+27:29 redo on here, then yeah, I just put that
+27:31 this this is what's going in the next
+27:33 update. Undo redo right with the select
+27:35 objects tools right along with Aldo. And
+27:37 this shows up whether or not you have a
+27:39 view on or not. So,
+27:42 you know, I listen to my end users and
+27:45 then that is what drives these systems
+27:47 forward so that I'm building things that
+27:51 make sense and we're just getting, you
+27:54 know, the team input, right? So
+28:00 I' I'd wonder what other
+28:02 what other questions people have about
+28:05 configurations
+28:07 about building out the best system.
+28:09 I do believe at some point we're going
+28:13 to get a new active default and the
+28:17 active default will say
+28:20 toolbars toolbar configuration so that
+28:23 when we're switching from one view to
+28:25 another save plan view to another or
+28:27 even because cameras have active
+28:29 defaults too that means when we switch
+28:31 to a particular camera or we switch to a
+28:34 particular save plan view or an
+28:35 elevation that it will switch the
+28:38 configuration
+28:39 So with that in mind, I do have some
+28:42 configurations that are built towards
+28:44 that goal, which is, hey, when I switch
+28:46 to a terrain save plan view, kick on my
+28:49 terrain
+28:50 toolbars. When I switch to an electrical
+28:54 save plan view, kick on my terrain
+28:56 toolbars. Now, how do I get these
+29:00 um
+29:01 toolbar configurations as icons up here?
+29:04 It's it's basically the same method as
+29:08 adding a custom tool. And what I just
+29:10 noticed was when I switched to my
+29:12 terrain toolbars, it's missing the
+29:13 electrical toolbar configuration up
+29:15 here. So, let me just show you this.
+29:17 Rightclick
+29:19 toolbar configurations, customize
+29:21 toolbars, and you can search for the
+29:24 name of your configuration.
+29:27 Okay. And there it is. And I assign this
+29:31 icon to it.
+29:33 Now, to assign an icon to that, you're
+29:35 really just building out, if we go look
+29:37 at my backup file. So, if I go to back
+29:39 into that zip, um, what you're doing is
+29:42 you're building out a PNG file that has
+29:45 the same name as the configuration.
+29:48 All right? And so, Chief will
+29:49 automatically load that up. But there is
+29:52 a new way of doing that, which is you
+29:56 choose a configuration and then you say
+29:58 choose icon. And so you're able to
+30:00 target a PNG file that you want to use
+30:03 as an icon. So it will generate that PNG
+30:06 file and throw it in with your toolbars
+30:08 file, uh, which is an, you know, that
+30:10 they're managing.
+30:12 So
+30:14 I want that electrical toolbar in here,
+30:16 right where it needed to be. I believe
+30:17 it was right there.
+30:20 There we go.
+30:22 And then I want to switch back to
+30:26 this architectural toolbar. And in the
+30:27 toolbar section here, that construction
+30:29 documents tool. No, the Aldo library
+30:33 although I want to make sure that this
+30:35 is turned on in every single view. I
+30:37 want it on in every single view. And so
+30:40 that's what this means is when we're in
+30:42 a plan view, this is the view type
+30:44 there. You have ability to preview what
+30:46 your toolbar configuration is going to
+30:47 look like in any view type. So if I go
+30:49 to CAD detail, this is what shows up in
+30:52 CAD detail. And tell you the truth, a
+30:53 lot of these things don't belong in CAD
+30:56 detail. Um,
+30:59 yeah.
+31:02 So, that would be something that I might
+31:04 switch up. Um, something that I did
+31:06 notice recently is that there are
+31:09 certain framing tools that are enabled
+31:12 in CAD details, such as like blocking.
+31:15 So, that's that's where I want to add
+31:17 something to my toolbarss that I found
+31:19 out just through using the software. But
+31:21 a lot of these when I switch here, a lot
+31:24 of these don't belong in the CAD detail
+31:27 view,
+31:28 like adding another story. Like why
+31:30 would you need that toolbar? You don't,
+31:32 you know? So,
+31:34 um,
+31:35 yeah, this is your opportunity to turn
+31:38 some of that stuff off. Dimensions,
+31:40 you're going to want camera toolbar.
+31:42 Camera toolbar has no use here, so turn
+31:45 that off. You see what happened? We just
+31:48 lost the toolbar on the right hand side.
+31:51 Um,
+31:54 floor reference toolbar. You don't need
+31:57 that. Oh, well, it has my line weights
+31:59 in there, so maybe
+32:03 layout toolbar.
+32:06 Uh, oh, no. Let's see. Library.
+32:08 Although, yeah, I want that on.
+32:11 Snaps toolbar. You want that on X
+32:13 toolbar. Yeah. Um, foundations. Don't
+32:17 need that. Yeah, don't need that at all.
+32:20 Framing toolbar. Framing toolbar one in
+32:22 there for the blocking roof. But, you
+32:25 know, that might give me the indication
+32:27 that I should just switch to, you know,
+32:30 having a couple of tools that are going
+32:32 to be framing tools that only work in a
+32:34 CAD detail. And you'd have to go do your
+32:35 re research on that. Uh, configurations
+32:38 I want on, but walls don't need those
+32:40 on. So, there we go. We've lightened
+32:43 this look in just the CAD detail view.
+32:46 So, that's how you do this. Switch the
+32:47 view type. Let's switch to the
+32:49 dashboard. All I've got on is the
+32:51 configurations and Aldo. That's perfect.
+32:54 Switch to no view at all.
+32:58 Um,
+33:00 all I've got on there is Aldo
+33:04 plan view. There we go. So
+33:10 remember, you can always copy a
+33:11 configuration if you want to
+33:14 you want to start from something you've
+33:16 already built out. That was pretty well
+33:18 done. When I switch to my main toolbar
+33:21 full, if I right click on here, there's
+33:24 a bunch of additional toolbars like the
+33:26 framing toolbar that should match my
+33:28 framing toolbar in my architectural
+33:30 tools that I can just toggle on in this
+33:32 view because I like this toolbar
+33:34 configuration and I just need to
+33:35 temporarily add something. Right.
+33:47 I'll go over briefly methodology here.
+33:51 Just going to keep the camera rolling.
+33:53 Um, so the first top area here,
+33:56 different configurations. That's
+33:58 probably obvious enough. Um, at some
+34:00 point I switched to using drop-own menus
+34:02 or tool pallet for a lot of things
+34:04 because I have enough people using these
+34:07 systems that are working on really small
+34:09 screens and with larger icons and so the
+34:11 icons get thrown off the page. Um, which
+34:14 is uh also a reason that I try to group
+34:18 things in in a way that's tight. Um,
+34:24 for instance, I have thought about
+34:27 breaking up my kitchen tools, which span
+34:29 this whole length of this screen into
+34:33 individual
+34:36 sectioned toolbars so that it's easier
+34:39 for someone that's that's on a laptop to
+34:42 move these things around.
+34:44 Um, I just imagine that people are just
+34:47 uh working on those laptops or
+34:49 oftentimes kitchen designers if I'm
+34:50 being honest from just the census I've
+34:53 taken internally. So I did break that up
+34:55 for the kitchen and bath design
+34:56 configuration.
+34:59 Um, so this next part is just
+35:00 dimensions. Auto exterior dimensions
+35:02 able to pick those on and off or delete
+35:05 dimensions which circumvents the auto
+35:07 exterior dimensions. Auto interior
+35:10 dimensions. Um, auto detail,
+35:13 cross-section view.
+35:15 Frame all.
+35:17 I oftenimes use that. If you click on
+35:20 frame all, you're framing everything in
+35:22 the house. But that doesn't necessarily
+35:24 mean you're showing every layer. It will
+35:26 prompt you. It'll say, "Hey, some of the
+35:28 things that we just framed are on layers
+35:29 that you don't have turned on. Would you
+35:31 like to turn those on?" And if you say
+35:33 no, then your layer set is is still
+35:37 maintaining its established standard of
+35:39 graphics where you're only have, you
+35:42 know, the framing layers turned on that
+35:44 you want to have turned on. Um, I find
+35:46 that to be a really easy kind of
+35:48 workflow setup is it's easier to click
+35:51 one button to frame all and just say no
+35:54 to the toggle display of of any framing
+35:57 members that you don't want on in that
+35:59 view. Auto story pole dimensions
+36:02 self-explanatory drawing sheet. I
+36:04 oftentimes turn this on and off. Keep in
+36:06 mind I work doing training and I work
+36:10 with other people that use Chief
+36:11 Architect to supplement their work. So
+36:16 I'm not just doing drawings for clients.
+36:18 I'm not just doing construction
+36:19 documents for um homeowners, right? I'm
+36:22 working with other chief architect
+36:23 people. So I oftentimes need to toggle
+36:26 on and off a sheet to kind of understand
+36:28 some things. Um, I have the reference
+36:31 grid turned on here only because I like
+36:33 to turn it off and when I'm working with
+36:35 other people that use it, I can't I
+36:38 can't use it. I just can't even see with
+36:40 it on. So, and that's the reason for
+36:42 that. Some default settings stuff. I've
+36:44 removed default sets from my drop-own
+36:47 menus. I really don't need to use
+36:49 default sets at all. The only reason I
+36:51 ever need to use it is for doing red
+36:54 line markups. And that happens so
+36:56 infrequently that I just removed it and
+36:58 it just makes more space in that upper
+37:00 bar and less confusion for people that
+37:02 are newer to Chief Architect. That way
+37:04 they're just switching saved plan views.
+37:06 And saved plan views carry all of my
+37:09 saved defaults. When they introduced
+37:11 default sets, you no longer needed to
+37:14 have a default set. You only needed one
+37:16 for the software to operate. Then all
+37:19 the selected defaults just needed to be
+37:21 in your active view. So these are the
+37:23 active defaults that are turned on. So I
+37:26 established all the defaults I wanted
+37:28 for my active view and in that way I
+37:32 didn't need to worry about switching
+37:33 defaults that you only switch save plan
+37:35 views. So the only function I can even
+37:38 see it being useful for is if you were
+37:41 to change all the scale of your drawing.
+37:43 But that's ex that's a lot of work to
+37:46 set up that many default sets. So it's
+37:47 almost not worth it. Um, so it's almost
+37:51 worth just changing all your selected
+37:53 defaults to scale up. Um, and so and I
+37:58 needed one to be able to switch to a
+38:01 different dimension default in camera
+38:03 views, but Chief Architect has since
+38:05 addressed that and fixed that. So, I'm
+38:09 able to change whatever dimension
+38:12 default standard I want on the fly with
+38:14 this dimension default dropdown, which
+38:16 makes things so nice. Um,
+38:21 and so there we go. That's why I've got
+38:23 just saved plan view and the dimension
+38:25 default. If you need to mess around with
+38:27 layer sets, that's down here at the
+38:28 bottom. That's just I occasionally need
+38:30 to do that cuz I'm working with someone
+38:32 else that has some crazy layer sets.
+38:35 And then save view, save active view,
+38:37 that kind of stuff is in here. Um,
+38:38 here's kind of my Ruby panel. I'm
+38:41 messing around with macros. That's where
+38:42 I go to. Uh, then I've got my kitchen
+38:45 tools. Two rows of this stuff. Um, just
+38:48 make changing kitchen stuff on the fly
+38:50 so fast. My construction document tools
+38:53 that specifically work with my template
+38:55 and they change all, you know,
+38:56 formatting and inject custom macros into
+38:59 a document. Um, area analysis. I've got
+39:01 a really custom area analysis set of
+39:03 schedules that does all the um
+39:06 conditional reporting, lot size,
+39:08 percentage of floor area, that stuff.
+39:10 Solid and modeling tools, and then and
+39:13 then I just have a small set of bath
+39:15 tools. If I really want to work on a
+39:16 bathroom, I switch to my kitchen bath
+39:18 toolbar configuration. That's where I've
+39:21 got a lot of bath tools here. Um then
+39:24 the sidebars are you know your Aldo um
+39:27 your object eyroppers, layer eyroppers,
+39:30 layer hiders, layer painters, fill
+39:32 eyropper,
+39:34 uh adjust materials tool, interactive
+39:36 material editor. Uh the next one is our
+39:39 edit area tool. Be able to, you know,
+39:42 take something from an old plan, put it
+39:43 in a new template very easily. um add a
+39:46 floor and then up floor, change floor,
+39:49 down floor, build a floor underneath and
+39:53 then edit your default floor
+39:54 configurations, right? Um and then your
+39:58 reference display, swap a floor or
+40:00 reference, change what reference plans
+40:03 we're looking at, and then my line
+40:05 weights toggle. Then I've got my
+40:07 annotation tools, note, call out,
+40:09 marker, rich text, regular text, etc.,
+40:12 bubble. Then I've got my CAD tools.
+40:16 Stretch CAD tool, draw lines, the
+40:18 different molding line, molding
+40:19 polyline. Um, which this should be
+40:22 turned on in a 3D view, but sometimes I
+40:24 go over to the molding line that I have
+40:26 on the lefth hand side, too. And then my
+40:28 different camera views. Um, I love
+40:30 having this hide camera facing exterior
+40:32 walls. If you're getting used to working
+40:34 on an exterior uh in a 3D view, turning
+40:37 that on makes it really easy to select a
+40:40 room to be able to change a room's
+40:43 height. If you tab past the wall
+40:45 selection, you get a room selection.
+40:47 Then you're able to drag a room up or
+40:49 redimension that room very easily in a
+40:52 3D view from the exterior side. Makes it
+40:55 easy to visualize uh split floors.
+40:59 Uh and then I have the cross-section
+41:01 slider there.
+41:02 And then and then I've got my rendering
+41:05 technique options, my rebuild 3D, couple
+41:08 orbit tools for people that aren't using
+41:10 a 3D mouse, um toggle, uh depth, color,
+41:14 shadows, uh add lights, patterns, you
+41:18 know, your sun, move your sun, etc. Move
+41:21 the backdrop tool. Um
+41:24 then we've got my MEP toolbar. So, and
+41:27 this is a bunch of custom tools that
+41:29 I've got in here that are just standards
+41:30 that I'm using when I'm building homes.
+41:34 And on the left hand side, we got our
+41:36 windows pass through. And then I've got
+41:37 a bunch of tools I built that are built
+41:39 from style pallets to change windows
+41:42 from one type to another with just a
+41:44 single click. Or you can swipe across a
+41:46 whole plan or marquee select which
+41:48 windows you want to change. Just makes
+41:50 changing windows so fast without opening
+41:53 the dialogue box. And then I've got some
+41:55 railings that are the default railings.
+41:57 And then I've got some really custom
+41:59 railings in here. Makes it easy to put
+42:01 on a porch extension. M makes it easy to
+42:03 draw a post to beam. Um got my door. Got
+42:07 my jamless doorway. Real common. So why
+42:10 not build a tool for it? I've got a tool
+42:12 here where you can marquee and change
+42:14 all the head heights of you change
+42:17 windows from an 80in head height to a 96
+42:20 in head height. Same thing with the
+42:21 door. Um, that's what this tool, one
+42:24 tool does doors and windows. And then
+42:27 this one tool changes the sash color or
+42:30 changes the door color um, very quickly.
+42:33 Makes it easy to paint it so that it's
+42:36 separate from the jam casing, etc. Uh,
+42:39 cuz sometimes it's sharing that same
+42:41 material color. And then this is a tool
+42:44 to remove jam and casing. And I've got a
+42:47 a cantina door here that I've saved from
+42:49 the library. Uh, this is an easy one for
+42:51 just swiping and opening doors and
+42:53 closing doors in 3D without having to
+42:55 open the dialogue box. That's all that's
+42:57 doing. Then I've got all the stairs drop
+42:59 down and I have a stair with no railing.
+43:01 And then I have a railing that by
+43:03 default follows the stairs. That one's
+43:05 easy. I've got your typical wall
+43:08 material region tool followed by custom
+43:10 wall material regions that I've created.
+43:12 One does a 3D board and batten and then
+43:15 one does a 3D lattice, one does 3D ivy.
+43:19 believe it or not. And then my corner
+43:21 boards and my coins and then a molding
+43:23 line. If you didn't know this, you can
+43:26 draw with a a CAD molding profile, a 3D
+43:29 molding profile by selecting it in your
+43:31 library and then choosing the molding
+43:32 line and that will draw a single line in
+43:35 a 3D view elevation or plan view. So
+43:38 that's really helpful to have. Then I
+43:40 have my custom fireplace tools followed
+43:43 by kind of an edit toolbar here. This is
+43:46 rotate, resize about a current point. So
+43:48 if we place a point and then I want to
+43:51 rotate this line about that point, I
+43:54 just toggle that button. Click on this
+43:57 and when I rotate it, it's rotating it
+43:59 about the center of that point. Okay.
+44:02 And then of course you can always hit
+44:04 delete to delete whatever um last point
+44:07 you placed.
+44:09 Um and that's a toggable button. So
+44:11 that's nice. uh concentric. This is um
+44:14 if you just want to lock concentric
+44:16 behavior in um but what's really nice
+44:20 about this having this tool in your
+44:22 toolbar is if you double click this this
+44:25 brings you to the jump distance in your
+44:27 preferences. So you can temporarily set
+44:29 this up for say 3 in and resize all your
+44:32 windows quickly.
+44:34 That's why that's in the toolbar there.
+44:36 Um unfortunately this is not toggleable.
+44:42 So that is why I used to I used to have
+44:47 um the edit behaviors default in that
+44:50 toolbar. So I probably need to add that
+44:52 back. Oops.
+44:54 Uh select intersected versus select
+44:56 contained. Um when I'm teaching people,
+44:58 I'm teaching people by having them use
+45:01 the default as contained selection. So
+45:04 you're only selecting things that are
+45:05 fully contained within a marquee. And
+45:07 it's difficult to teach that when you're
+45:08 new to this program. and then rotate
+45:11 about arcs or how arcs behave. Um, and a
+45:14 couple of toggle snaps. And then I got
+45:17 my walls toolbar. And so that's there's
+45:19 your typical drop down. Then I've got a
+45:20 new wall that's just pushing a wall to a
+45:24 custom layer that's set to new that
+45:26 changes the fill style of the wall. Uh,
+45:29 then a 6-in interior wall by default is
+45:32 a 4-in interior wall. So easy to just
+45:34 draw with that straight from the
+45:36 toolbar. a new interior wall. Puts it to
+45:38 a new interior wall layer. Um, this is a
+45:41 custom brick wall that looks like 3D
+45:44 brick. This is a custom stone wall that
+45:47 looks like 3D stone and it's got a macro
+45:50 in it that I should delete somehow.
+45:55 But take a look at this. I like the 3D
+45:56 stone one. I got a couple different like
+45:58 3D looking walls. But there you go. See
+46:01 how the edge has this nice 3D look.
+46:04 Isn't that cool?
+46:06 Um, then I've got a Bort and Batten
+46:09 wall. This is probably my most popular
+46:10 3D looking wall. Um,
+46:13 I mean, this was worth the price of the
+46:16 pro plan for a lot of people was just
+46:19 because of how often they needed to do
+46:20 this and how accurate they wished it it
+46:22 would look. So, this 3D batten looks
+46:25 like 3D batten. Isn't that cool?
+46:28 Uh, and then,
+46:31 um, I've got a custom walkout basement
+46:33 wall that's got a fur. It's got a pony
+46:35 wall. That's your foundation wall with a
+46:37 with a furred wall on the interior side.
+46:40 And then an upper siding wall with a
+46:41 furred wall on the interior side. And
+46:43 then I have a fur wall. And then I have
+46:45 a brace wall panel system
+46:48 um which actually shows as a true brace
+46:52 wall in elevation views if you have it
+46:54 placed correctly. And then it builds out
+46:56 and calculates
+46:58 um a bunch of stuff for us based on the
+47:00 method that you're using. So that's
+47:02 pretty cool. And then I have some pool
+47:06 builders that make it really easy to
+47:08 make a really realistic pool. And that's
+47:11 kind of it from the main toolbarss here.
+47:14 So I feel like I've hit a lot of points
+47:16 on toolbarss. Let me go over just one
+47:18 more thing left in this video before I
+47:21 call it quits, which is let's take a
+47:23 look at just how I have the project
+47:25 browser right now. Is I have tags on the
+47:29 lefth hand side. And hopefully this
+47:32 still works when you shrink this down
+47:34 from a smaller screen. And then
+47:36 something I find to be really helpful is
+47:39 having this toolbar right here because I
+47:41 want to press this only show open
+47:43 projects which gets it makes it
+47:46 navigating very easy when I've kind of
+47:49 congested in thought and I just need to
+47:51 find the plan that I have open. Happens
+47:54 to be that this one's pinned right now.
+47:55 But yeah, this just makes it super easy
+47:58 for just to find the one that's open.
+48:00 That's all I want to see because I'm
+48:01 trying to drop down and drill through,
+48:04 you know, all these subsections of CAD
+48:05 details and stuff that I got in here.
+48:08 The other one is I hide the default
+48:11 common documents and plan layout
+48:12 templates because I'm using a project as
+48:15 my template. So, I'm just making a copy
+48:17 of the project. That's a faster workflow
+48:20 for me. So, having this bar here is
+48:22 helpful. Sometimes I might need to see
+48:24 details. So, I'll turn that on just to
+48:26 see when something was created, but it's
+48:28 pretty rare. So, I'll turn that off for
+48:30 the most part. Um, showing the preview
+48:32 is dang near useless when it comes to
+48:34 plan views. But when it comes to
+48:36 details, that's when this kind of shows
+48:38 up and is nice. If I'm trying to find a
+48:40 particular detail, it's nice to see the
+48:42 preview, especially if I'm trying to
+48:43 create a new detail by copying an old
+48:46 one. So, that's what I've got going on
+48:47 for project browser. Then, I've got my
+48:50 library browser. I often times undock
+48:52 this and just populate this. If you're
+48:54 on a PC, hitting Windows left at once
+48:57 will make this cover half the screen,
+49:00 making it really easy to find things.
+49:02 And then sometimes I'm shrinking my tags
+49:04 down or sometimes even dock my tags
+49:06 underneath the folder stack here and
+49:08 shrink those down and expand them as I
+49:10 need to. And these are just compounded
+49:13 so that I can get to uh countertop shelf
+49:16 components only that are for a narrow
+49:20 shelf assembly. Um, so, um, that's how I
+49:25 run the library. And of course, just
+49:26 double clicking this will red dock it,
+49:28 which is awesome. And then I often times
+49:31 just have this tags kind of in between
+49:33 there and expand this as I need to. I've
+49:37 got all kinds of library tricks, so
+49:39 maybe I'll pin that to the end of this
+49:40 video so you can take a look. Um, such
+49:43 as control mouse wheel to show these
+49:45 previews, different sizes. There you go.
+49:49 And then last but not least, Aldo. Um,
+49:53 if you hit the gear icon, I do have the
+49:57 layer edit buttons, layer properties
+49:58 turned on. So, we get a couple other
+50:00 things such as name filters
+50:02 for being able to find things very
+50:04 quickly like roof planes, right? So,
+50:07 that's kind of helpful. Uh, select all,
+50:09 new, all these buttons here. That's
+50:12 helpful as well.
+50:15 Yeah, I think the only thing I didn't go
+50:17 through was just the walkthrough
+50:18 preview. Um, which also docks over here.
+50:21 And I haven't done much in terms of the
+50:23 arrangement of this. So, but I'll often
+50:25 times just pick that off. And maybe I'll
+50:28 add it to this this little side toolbar
+50:30 here. It's easy to click those three and
+50:32 just minimize this, get a bigger screen.
+50:35 So, um, one more thing we'll touch on is
+50:39 in the preferences, you do have the
+50:40 ability, one, you know, Windows and Mac
+50:43 both have the ability to change the
+50:44 scaling of text and stuff like that. So,
+50:46 if you need the text to be bigger, maybe
+50:48 you change the scale of the text. If
+50:50 when you change the text to be bigger,
+50:52 your icons become too large. There is a
+50:55 way in appearances to change your button
+50:58 size. So, you can change your button
+51:00 size. you have to relaunch the software
+51:02 and then that's a way to kind of
+51:04 increase the size of the text through
+51:06 scaling through the operating system but
+51:08 then shrink those icons back down to a
+51:11 size that you want. So that's my last
+51:14 hint there. And so I'm going to switch
+51:16 to a little should see a little screen
+51:18 display here. Bam. That's going to
+51:21 populate a couple of videos that we were
+51:24 talking about or at least one video that
+51:25 we're talking about. And uh and if you
+51:28 saw earlier, there was a little tab
+51:29 about toolbars. And then that's it for
+51:32 me.

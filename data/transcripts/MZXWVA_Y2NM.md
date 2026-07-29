@@ -1,0 +1,31 @@
+---
+videoId: MZXWVA_Y2NM
+title: Twinmotion 2023 Shorts - Loading a Custom HDRI Environment
+url: "https://www.youtube.com/watch?v=MZXWVA_Y2NM"
+status: imported
+---
+
+# Transcript
+
+0:03 going to navigate to the scene graph and
+0:06 click on Ambiance after you've clicked
+0:06 on Ambiance you can scroll down towards
+0:10 the bottom here and you're going to
+0:10 click on hdri environment and we want to
+0:17 click on the checkbox next to enabled we
+0:20 want to designate our HDR environment as
+0:23 either a Skydome or a backdrop hdri in
+0:23 this case I'm going to use the backdrop
+0:26 hdri option and then in the hdri preview
+0:34 I want to click on the dot dot dot and
+0:35 go to
+0:35 open I'm going to navigate to where I
+0:39 might have some
+0:39 hdris click on one of those click on
+0:49 open once that's done loading you'll see
+0:53 your brand new hdri it will also import
+0:53 into your user Library so if we click on
+0:58 user Library go to local hdris we can
+1:01 see we've got a new h CRI in here and
+1:03 then you can set some parameters over
+1:03 here in your Ambiance properties panel

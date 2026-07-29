@@ -1,0 +1,202 @@
+Title: CA SHORTS-Solid cylindrical modeling in chief architect X-15.
+URL: https://www.youtube.com/watch?v=lwtwweCylx0
+Visibility: public
+
+0:02 Let's make a pretty complex object that
+0:04 we're grabbing from the internet. I've
+0:05 got a post on the users of Chief
+0:05 Architect group that I'll point you to
+0:10 in just right now, in fact. Here's our
+0:12 post and I'm going to first off, I'm
+0:12 going to search this image with Google
+0:16 and hopefully we'll find something um
+0:18 some other professional listing where
+0:20 yes, we've got some dimensions here,
+0:20 right? So, from there, I'm going to copy
+0:24 this image. Now, I'm going to do kind of
+0:26 a cheater method here. I'm going to
+0:26 bring this into Photoshop. So, if you
+0:27 have Photoshop, this is kind of a cool
+0:29 method. So, bringing this into Photoshop
+0:33 and what I'm going to do right off the
+0:35 bat is I'm going to use you know, you
+0:35 could use the object selection tool or
+0:38 magic wand tool, whatever your preferred
+0:42 method is, but I'm basically selecting
+0:44 this bowl, okay? So, I'm clicking on
+0:45 that and it's going to make a
+0:45 highlighted selection and I'm just going
+0:49 to control J to make that a new layer
+0:51 and then I want to alt click on the
+0:51 visibility of that layer to just show
+0:55 that bowl. Now, if I control click on
+0:58 that layer from here and use my G key
+1:00 and just go to a brand new layer, I'm
+1:02 going to fill in based on that
+1:02 selection. So, there we go. I'm going to
+1:06 actually invert this, fill in just a
+1:08 solid black, just like that.
+1:08 And I might erase some of this. So, let
+1:12 me control D to
+1:13 uh
+1:13 um unselect
+1:15 come in with a brush or an eraser, in
+1:19 fact.
+1:19 Make sure that's
+1:20 100% erase. Let's see. And this is a
+1:23 background eraser. Let me get a regular
+1:27 eraser tool and I'm just going to erase
+1:29 just this top half, okay?
+1:29 From here, I actually want to erase half
+1:34 of this
+1:34 because I'll show you what we're doing
+1:37 next. So, I'm holding my shift key,
+1:38 erasing
+1:38 just half of that or you know, you could
+1:44 use your square mark key grab that
+1:47 and then delete, okay?
+1:47 Now, I only want to show that layer
+1:50 only, okay? So, I'm going to control D
+1:54 deselect. I'm going to crop and let me
+1:56 clear my crop ratio so I can crop to
+1:58 whatever the heck I want. In fact, I
+2:00 might just do a ratio of one to one.
+2:00 So, this is almost like a little bit of
+2:03 a Photoshop tutorial mixed with a Chief
+2:03 Architect tutorial and both of them will
+2:07 help you out. So, here's what I'm
+2:07 getting from this image is just this
+2:14 just that right there, all right?
+2:14 From here, let me go ahead and we can
+2:20 fill in the background. Let me export
+2:25 this PNG or JPEG anything you want.
+2:25 I'm just going to put it to a temporary
+2:32 From here, I want to get back to the
+2:33 internet
+2:33 and go to convertio
+2:38 .co.
+2:38 I've so shown some similar um workflows
+2:42 like this before, but here we go. We're
+2:44 going to choose that light fixture and
+2:44 we're going to convert this to CAD DXF,
+2:49 okay? Let's go ahead and hit the the
+2:52 convert, wait for a second.
+2:52 And there we go. We get to download this
+2:56 as a DXF. Now, I'm going to save that in
+2:59 that same location, light fixture DXF in
+3:01 my send and delete folder. Let me get
+3:01 into Chief Architect. I'm going to get
+3:05 into
+3:05 it doesn't matter that I'm in a wall
+3:08 elevation here, um but previously I
+3:08 imported this picture. Now, check this
+3:10 out. Let's just go ahead and import that
+3:27 There we go. Look at this. Isn't that
+3:28 cool?
+3:28 Now, I took this image and did a point
+3:33 to point resize
+3:33 to the specifics of that image, right?
+3:38 So, we could take this, kind of center
+3:38 it up on that image and then we're going
+3:44 to look for that round edit handle and
+3:44 it's kind of an elusive edit handle when
+3:47 you get this complex of a shape. So,
+3:49 keep that in mind as you're kind of
+3:49 looking for this, but you got to look
+3:52 around and if we just hit our zoom in
+3:54 key and kind of scroll around, it's
+3:54 pretty difficult to tell which ones are
+3:59 the round edit handle. You could try a
+4:01 concentric resize where we're just
+4:01 holding our C key for concentric, but
+4:03 you're going to see what happens there.
+4:08 So, sometimes you've just got to shift
+4:13 right? And then from the shift select,
+4:13 we get this round edit handle and we're
+4:17 going to shrink this down, okay?
+4:17 And so, we're still shift selected. I'm
+4:22 going to kind of line this up here
+4:25 do one more little resize
+4:25 it's almost looking perfect. Let's just
+4:33 There we go. Something like that. Now,
+4:35 the bottom half of this, I think is
+4:35 actually straight across. It's just that
+4:40 this is shot with perspective. So, let
+4:42 me take me out of my zoom real quick.
+4:44 I'm just going to use a square
+4:46 rectangular polyline
+4:46 and keep in mind this is placed in front
+4:51 of our CAD. I want to change that so
+4:53 that it's just behind our CAD layer,
+4:53 right? So, space planning, there we go.
+4:58 So, now we can see our CAD there.
+4:58 So, I'm going to take a polyline and
+5:00 just take it right across the bottom of
+5:04 this and I can move it into place
+5:05 or reshape it into place, I should say.
+5:09 Something right about there, okay? So,
+5:10 now
+5:10 uh with that, I can do a fence select
+5:15 and from the fence select, I can do a
+5:17 subtraction.
+5:18 And we're going to choose that polyline
+5:21 and don't want to retain original
+5:21 objects. There we go. We've got our
+5:22 shape. Now, the last bit of this is I
+5:24 actually want to disconnect this edge,
+5:31 Okay.
+5:31 And I've got one more edge here.
+5:33 Going to get rid of that and then I'm
+5:36 going to take this and I'm going to
+5:36 duplicate it. So, I'm going to use copy
+5:40 paste and when I've hit copy paste,
+5:41 we're going to look for that little
+5:43 round
+5:43 edit handle, which is right up here and
+5:48 that's going to concentrically resize.
+5:50 Bam, just like that.
+5:50 Then I want to continue this
+5:53 handle down
+5:53 and then close up that polyline.
+6:00 Now, I've got a closed polyline. The
+6:01 last thing I want to do is I want to
+6:01 make sure that this is snapped to this
+6:05 up here and that this is 90°.
+6:08 There we go. Even 90°.
+6:08 And now that we have that set up
+6:11 what can we do? Well, actually this is a
+6:15 little bit off center, it looks like.
+6:15 No, that's about right. All right. So,
+6:20 I'm going to convert this polyline
+6:20 make it a face, okay? And then this next
+6:24 part is important. I'm going to press
+6:26 okay. I'm going to select this edge
+6:26 right here and from there, I want to use
+6:32 the revolve object. Now, I need to look
+6:33 in the bottom left-hand corner of the
+6:33 screen here. This is the Z axis. I want
+6:38 to revolve that object as if it's
+6:38 spinning around the Z axis. So, I need
+6:43 to specify Z axis and the angle of
+6:43 rotation is going to be 360°. Let me
+6:57 It's going to take a second for Chief to
+6:59 figure that out. It did in fact create
+7:02 that shape. We can see this in
+7:02 our 2D plan view. Let me just grab this,
+7:07 bring this into view of my camera and
+7:17 There we are. So, if we take our object
+7:19 eyedropper tool apply a little bit of
+7:20 glass to this
+7:21 there we go. So, that's a significant
+7:23 part of that symbol and I would leave it
+7:27 up to anybody else to go ahead and
+7:27 finish this out, but that's how you can
+7:30 make a complex shape and relatively
+7:30 easy. You don't have to spend a ton of
+7:34 time drawing this stuff out. You know,
+7:35 that's only about a 7-minute video. You
+7:38 could probably do a little bit faster
+7:38 than that if you with some practice. So,
+7:43 hopefully that helps you out. Appreciate
+7:45 you watching. Please subscribe to the
+7:45 YouTube channel if you found that here

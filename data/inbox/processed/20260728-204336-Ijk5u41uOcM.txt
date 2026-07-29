@@ -1,0 +1,1126 @@
+Title: Solving The First Page Chief Architect Forums Q&A, Number 6
+URL: https://www.youtube.com/watch?v=Ijk5u41uOcM
+Visibility: public
+
+0:02 what's going on Chief Architect people
+0:02 let's do a little session of Chief talks
+0:09 General Q&A solving the first page and I
+0:12 haven't done this in a while um it shows
+0:14 up that I've looked at a few of these so
+0:16 a few of these I'm going to have um some
+0:18 knowledge of let's just get through the
+0:22 first one which is this wall decals one
+0:22 and so some user was asking about how do
+0:26 we add some wall decals to walls or
+0:26 architectural features and I I do make a
+0:31 little video in here explaining a
+0:31 process for using opacity maps with uh
+0:35 materials um but then further down the
+0:38 line I post a link to something that's
+0:42 on my YouTube and that is 3D logo the
+0:42 fastest way in Chief Architect this is
+0:45 where we're going to take a raster based
+0:50 image take it to convertio doco which is
+0:52 a website and we convert that raster
+0:52 image to a dxf file which is a cad-based
+0:59 vector file right and we get to import
+0:59 that back in a chief do a little bit of
+1:04 cleanup and create a solid from that
+1:04 which then we can create a fixture from
+1:06 very cool something I didn't add in this
+1:12 video is you can limit the resolution of
+1:14 your Source raster image so that it
+1:14 creates Less breakes in your converted
+1:20 Vector file a little Pro tip there at
+1:23 the end and then uh you can see here
+1:23 someone utilize that tip to create their
+1:30 own 3D logo very cool and then the last
+1:32 part of this was a somewhere in here a
+1:36 user named T time very helpful user um
+1:36 mentioned that you could add in that 3D
+1:41 file in um as a hardware symbol so
+1:41 convert it to a hardware symbol convert
+1:46 to symbol choose hardware and then you
+1:46 could add it as say a deadbolt to a door
+1:52 with offsets so that you're creating
+1:52 these 3D logos in your door which Swings
+1:59 with the door very cool so that's that
+2:01 one I just say go ahead and go check
+2:02 that one out cuz those videos are
+2:02 already established and then this next
+2:07 one I'm actually going to skip past as
+2:09 well the reason I'm going to skip past
+2:09 it is because uh this source file was of
+2:14 no help at all and I am going to show
+2:14 you how to make an aframe house with a
+2:20 second story Breezeway connecting two
+2:23 A-frame houses really so two A-frame
+2:23 houses with a Breezeway that connects
+2:25 them and I'm going to show you how to do
+2:30 that the fastest way and as say that it
+2:33 that's kind of a advanced content
+2:33 something I'd put into my paid section
+2:35 of the site so um if you're a member go
+2:37 check that out that video is going to be
+2:39 out
+2:39 shortly and let's get into the next one
+2:44 x16
+2:44 PBR this user showing the power of x16s
+2:51 physically based rendering very cool
+2:53 this is obviously an advanced user
+2:53 they've got some really goodlooking
+2:55 stuff going on in here um I will say
+2:59 they're using some really high poly
+3:00 count
+3:00 model stuff but they're taking the time
+3:04 to to kind
+3:04 of um play around with the details here
+3:07 which is really good you can see here if
+3:11 we zoom in tight you can see that they
+3:11 actually recessed their knobs um because
+3:17 by default these would be uh mounted to
+3:17 the face of the rails and styles so that
+3:23 would be modifying a symbol in the ya
+3:25 AIS if you don't know how to do that
+3:25 let's just show you in Chief Architect
+3:27 real quick let's just say we've got any
+3:32 symbol doesn't matter the symbol I'm
+3:32 just going to say that we're going to
+3:35 drop this Hood in here and if we open
+3:35 this up and we look at our 3D panel and
+3:38 we kind of rotate this VI again this leg
+3:44 represents positive y value so if I
+3:44 wanted this Hood to be recessed into the
+3:50 inner panel of a five panel door then in
+3:53 the Y position here I would probably do
+3:56 something like 38 of an inch right and
+3:58 that that's going to push that forward
+3:58 and you can see this just jumped on that
+4:02 oxis 38 of an inch so that's what this
+4:02 user did in order to get those Hardware
+4:04 knobs pushed in there that's a very cool
+4:10 little detail um they also created a
+4:10 board and batten texture that's what's
+4:15 going on here and so that makes it so
+4:18 that it scales uniformly um no matter
+4:18 what the door size is very interesting
+4:23 that they chose to do a half and half
+4:26 split door that's kind of strange um
+4:26 could show you how to do that as well
+4:28 let's pick up a wall cabinet open this
+4:33 guy up um a couple different ways you
+4:35 can do this really depends on how the
+4:37 box construction is on this if you're
+4:37 using modulars that might be one way of
+4:42 doing this versus not using those
+4:42 modulars so um I'm just going to say
+4:47 that this is a double door actually
+4:47 that's not true we're going to split it
+4:51 we're going to split this horizontally
+4:54 or excuse me split this vertically and
+4:54 now we get to specify one door different
+4:58 from the next so I would be specifying
+5:00 this door that it's going to be a door
+5:03 Auto left or door left and then I can
+5:03 specify Appliance door drawer and make
+5:09 this particular door drawer different
+5:11 from another one so I can make this a
+5:13 slab door I can make it a frame door
+5:16 what have you now it might be that I
+5:16 specify it as that same door style and
+5:21 then go in and just paint that Center
+5:21 panel so that one side was beadboard and
+5:24 one was not so that's how we did that
+5:24 kind of um two different door styles on
+5:29 one cabinet box
+5:30 let's see any other notable in here this
+5:33 is a floor inlay this floor inlay is
+5:33 coming from using a material region or
+5:35 floor material region you can do this in
+5:41 a 3D view or do this in a plan view so
+5:41 as I drop that floor material region in
+5:45 there there we go and this is going to
+5:48 be whatever your pro your plan is
+5:48 defaulted for mine uh the Pro Plan is
+5:50 defaulted for a very dark wood feature
+5:53 because sometimes I use this to just as
+5:55 a little border piece right and then you
+6:00 can of course tring of shape these to
+6:00 look like they're a mitered thing so it
+6:04 doesn't need to just be one big Center
+6:07 floor inlay you can do a bunch of kind
+6:07 of trick things you can do a full border
+6:12 around the sides Etc and have those meet
+6:14 up so that's a cool
+6:15 trick and then let's take a look at some
+6:19 of the other views yeah this just
+6:19 looking really nice now the suggestion
+6:23 here um and I was confused about what
+6:23 they were asking for but it was to add
+6:28 what are called um area lights as a
+6:28 dedicated area light tool just means
+6:30 that we can take any kind of 3D geometry
+6:35 and apply an emissive texture to it and
+6:38 Chief Architect now path traces and
+6:38 samples out that light as a as a light
+6:42 source so it will Trace that light and
+6:45 the number of bounces Etc there is an
+6:45 add light tool built in Chief Architect
+6:48 and that's an omni light which is it's a
+6:52 Centerpoint light where rays are coming
+6:52 out from all directions that's different
+6:58 from putting a emissive texture to say
+7:01 um a Cube or something where now we're
+7:03 tracking rays in the direction PL our
+7:06 projections in the directions of the
+7:09 cubes faces so and this is more
+7:12 suggestion than anything else
+7:12 really how to set default render modes
+7:15 for uh recording a walk through I'm not
+7:19 even going to check this out I'll show
+7:19 you exactly how to set this up and it's
+7:25 kind of a funny because this will me
+7:25 mess with your default cameras that you
+7:30 pull through when you you start to
+7:30 change things for the walkthrough tools
+7:35 so if we get into default settings and
+7:37 um we take a look at walkthrough path
+7:37 double click that we're going to see a
+7:41 few things we can set here one is our
+7:41 resolution 1280 x 720 um I have mine set
+7:46 really low and I have my frames per
+7:46 second set really really low because I
+7:51 use a third-party um software that is
+7:51 aib based that will interpolate frames
+7:55 so that I don't need to render for as
+7:55 long it will also digitally upscale and
+7:59 does a pretty good job with renderings
+8:00 because renderings um are so predictable
+8:04 from frame to frame on what they're
+8:04 doing so AI typically works really well
+8:09 for that so have a low resolution low
+8:12 frames per second um compression rate
+8:12 and then this is physically based is my
+8:18 default rendering technique for this um
+8:20 and then where this is picking up its
+8:22 settings for physically based that's
+8:23 where the trick is right so there is no
+8:27 setting that you can do within this
+8:27 dialogue box you have to come back to
+8:34 are let's see I believe are 3D view
+8:34 defaults and then rendering techniques
+8:36 and this is where we have to set up our
+8:40 physically based rendering technique
+8:42 here so this is where you want to
+8:42 increase that sample rate if you need to
+8:47 for your walkthrough path um maybe
+8:47 something like 50 or 60 really depends
+8:51 on how many lights you have on in your
+8:51 scene and then change your opic bounces
+8:57 transmissive specular bounces for a
+8:57 video rendering you might want to lower
+9:01 these down considerably um CU that's
+9:01 going to speed that up quite a bit and
+9:06 then the last thing that I do in my
+9:06 walkthrough is probably different from
+9:08 what was suggested in the forums here is
+9:13 that I'll actually get into um my camera
+9:15 tools and the walkthrough path is going
+9:18 to use the full camera so if I
+9:18 doubleclick my full camera here's where
+9:22 I can actually change the field of view
+9:24 of my walkth through path let's just
+9:24 show you as an example I'm going to sh
+9:28 change this to 10 degree field of view
+9:28 which is kind of crazy and you can take
+9:32 any camera that you've built and let's
+9:32 just say you've set up a lot of settings
+9:36 for that particular camera let's just
+9:36 open this camera up say that we've got
+9:41 this set to um physically based thing
+9:41 notice that it definitely changed that
+9:43 field of view right crazy and then I've
+9:49 set my backdrop up the way I want I've
+9:51 set my samples up the way I want for
+9:51 this particular camera so I could use
+9:55 this camera just be by clicking on
+9:56 create orbital walkthrough path now this
+10:00 is what it will do that's not
+10:00 necessarily a great thing but I can
+10:02 click on a segment and I can straighten
+10:08 that segment and then I can take one of
+10:11 these cameras and the second camera and
+10:13 I can just take that segment to get rid
+10:16 of it now I have just a linear path
+10:16 between the two and maybe I'll make an
+10:18 arc and here's where I can flip that Arc
+10:23 if I wanted to and flip the direction of
+10:26 those cameras and now I've got there you
+10:28 go I've got this walkthrough path now if
+10:29 we go take a look at this and look at
+10:36 this just open it up and actually we
+10:36 could just click on the button to walk
+10:40 through preview this will slow some
+10:40 things down a little bit but you can see
+10:46 in the preview that field of view is
+10:48 actually there so I have effectively
+10:48 edited the field of view that's a that's
+10:52 a pro tip for if you want to make a
+10:55 really goodlook um walkthrough path
+10:56 where maybe you're doing a shot that is
+11:01 just um zooming in on something right
+11:01 and so that would be an impactful shot
+11:03 if you're going to clip it together in a
+11:07 um a third
+11:07 party um video manipulation software
+11:10 right like Adobe Premier Pro where we're
+11:15 going to take that individual frame
+11:16 we're going to bring it not the
+11:16 individual frame that individual shot
+11:18 bring it in with another shot cross fade
+11:22 it do uh do kind of a really produced
+11:23 video and this is where I might narrow
+11:25 something down in terms of the field of
+11:35 going uh recessed baseboard this is a
+11:35 really old thread um a really old thread
+11:41 that I that I showed a method for a long
+11:44 time ago um and that method can be
+11:44 used with other methods and there's a
+11:47 shorts video on this so if you get into
+11:53 my CA shorts playlist you'll find this
+11:54 flush based
+11:54 tutorial essentially we're putting a
+11:56 wall covering into a room where all of
+12:00 the walls their drywall has an invisible
+12:06 material on it and then we're putting a
+12:09 wall covering on up to just above the
+12:09 baseboard so that above the baseboard it
+12:14 shows through to that invisible material
+12:16 which creates the illusion of
+12:16 depth um so that's that was a method for
+12:20 it and then someone has just recently
+12:27 this curved glass cabinet door oh that's
+12:29 not what I was expecting to see
+12:29 um this is more of an arched glass
+12:32 cabinet door not a curved and notice
+12:37 that they are doing this is a recess
+12:37 door which is a really challenging thing
+12:43 but this door I mean this is just
+12:43 modeling this is just straight modeling
+12:47 because this door is actually a one
+12:47 piece right it's illusion of this is not
+12:54 a fixed panel so you're not just opening
+12:57 just the arched door and recessing it
+12:59 back all part
+12:59 Design This is just modeling this in 3D
+13:04 with solids that would be the solution
+13:06 there I don't think I'm going to show
+13:06 how that works um the pocket door side
+13:12 of this is very very challenging I do
+13:12 have a pocket door in my library I don't
+13:18 even know if I remember how I did it and
+13:21 how it works um it does work does
+13:38 could my specialty
+13:38 cabinets there it is right there
+13:47 um I gave it as a sprayer yeah so this
+13:49 is essentially what I do it's an
+13:49 illusion of a pocket door you have to
+13:54 make a a split panel with a little
+13:54 return panel that's the color of your
+13:57 cabinet um and you need to make make two
+14:03 of those one for each side and then
+14:05 somehow somehow that
+14:06 works and this is what I would say very
+14:22 like so yeah I know I have a working
+14:22 model of this in my library somewhere
+14:24 I'm not going to um oh there it is right
+14:30 there this guy so it's actually when you
+14:33 open the doors it closes and you can see
+14:34 that those doors are sliding into that
+14:37 recess panel this is very trick it's
+14:37 challenging to build this um it takes
+14:42 some Advanced knowledge of symbol
+14:42 offsets Etc so um I'm going to shut down
+14:47 all these windows now because that 10
+14:55 with all right let's get back into
+14:57 it
+14:57 uh slab over stem
+15:01 wall I'm wondering if there is anyone
+15:03 working there on Thanksgiving Eve okay
+15:10 uh I have a CMU stem wall Foundation
+15:10 that will be topped off with a slab when
+15:16 I pick this option in the dialogue box
+15:18 the model and the section view do not
+15:18 show this as it's supposed to any hint
+15:24 and so they've got walls with
+15:26 footings
+15:26 slab at top of stem wall
+15:41 well this is specifically for slab tool
+15:45 or slab going to be a little different
+15:47 and then they specify the stem wall if
+15:49 they were to use the slab
+15:49 tool I believe it's different from what
+15:53 showing
+15:53 here um let me just give this a shot
+16:05 menu and we say slab at top of stem wall
+16:08 and here's a default foundation wall
+16:08 let's actually make this um we'll get
+16:14 into the wall
+16:14 types find this and then we'll change
+16:18 that
+16:18 texture and you can't just type in CMU
+16:24 unfortunately so you wanted that setup
+16:25 you're going to have to
+16:25 um have to find that yourself and and
+16:31 put in your own search attributes I
+16:31 think what Chief calls it is some kind
+16:34 of
+16:34 Grid or
+16:37 tile tile or
+16:40 masonry might call it
+16:43 masonry yeah blocks running this is what
+16:49 they're calling it so what I would do is
+16:51 I'd say hey copy this to the user
+16:54 catalog and then put in search
+16:57 attributes add a keyword
+16:57 CMU and so that's going to make it easy
+17:06 time um so there we go I got my concrete
+17:07 wall
+17:07 bam it's okay sure and now let me get
+17:14 into alt build and what are we
+17:14 foundations and then there's probably a
+17:16 slab or no there's actual dedicated slab
+17:21 you can hit Escape if you're using mon
+17:21 keys and hit s instead slab with footing
+17:27 is f here you go slab with footing take
+17:37 um so that was slab
+17:37 with buing so that's not actually what
+17:42 we're looking for though what we're
+17:43 looking for is the condition where um
+17:45 we've got a stem wall foundation so like
+17:50 a garage
+17:50 would we got a stem wall and this garage
+18:05 just and we can see that the slab like
+18:07 you said is not built on top of the
+18:07 footing but if we Auto Detail this what
+18:14 ends up happening yeah so stem wall
+18:14 carries through because this is not slab
+18:18 with footing
+18:18 so be the solution here believe we got
+18:29 into floor to stem wall top is where
+18:37 be -4 would put the slab on top then how
+18:40 does a slab
+18:40 cover that entire surface and it's not a
+18:51 slab and do we get into the walls on
+18:53 this
+18:53 one a good question
+19:00 I've had to mess around with this
+19:16 before I guess the solution here here
+19:18 would be the solution to
+19:27 think so in the room dialogue
+19:35 default we not going to supply the floor
+19:37 by the foundation below and that will
+19:39 set that slab on top of the stem wall
+19:39 tops that's why that's what we're doing
+19:49 there and so you can take any CAD to a
+19:52 polyline right delete all this CAD I
+19:52 just use the restrictive selection so I
+19:55 chose the polyline and then I held shift
+20:00 and Mark everything and now I can re
+20:00 autod detail it and now our slab wall
+20:03 is on top of that right so that's what
+20:16 there yeah slab is on top of that
+20:16 stem perfect that's what we're looking
+20:27 cool and then if you need to adjust your
+20:30 wall types here right like maybe you
+20:30 needed to um change the extensions on
+20:32 these ball types you can make a copy of
+20:38 these and then our extension could be
+20:41 just show if I go -4 on all these it
+20:56 slab yeah now you can see that slab
+20:56 coming through on the side see the stem
+21:01 wall slab sitting on top right little
+21:04 Vector there there you go
+21:12 one air handler in the Attic have
+21:12 another have another small house 12200
+21:17 foot on slab pretty simple
+21:17 house putting an air handler in the
+21:21 Attic I've done it 100
+21:21 times on my trust plans I always note
+21:26 for trust manufacturing to make
+21:26 available space for these units I'd like
+21:31 to step up my game and actually show
+21:31 this shape in my design how do I make
+21:34 this happen I need to create a floor for
+21:42 my attic even though nothing on it is
+21:42 designated a room or do you model those
+21:49 trusses separately oh they're trying to
+21:52 shape their truss well they could just
+21:53 manually modify their trust if they
+21:54 wanted to um this is really funny from
+21:57 David Potter however you decide to do it
+22:01 just do it
+22:02 okay okay that's pretty
+22:09 funny
+22:09 um Charles says hang a
+22:12 platform or connection points to
+22:14 adjacent trust top chords worries about
+22:17 overloading the bottom chords Etc so I'm
+22:28 not quite sure what the end goal is here
+22:30 make available space for the units with
+22:35 the trusses so then the the um
+22:35 we're making a truss with the bottom
+22:40 cord does continue through and then
+22:40 we've got um basically you got a knee
+22:45 wall situation that's exactly what's
+22:47 happening here I mean you could get
+22:47 Chief to build it let's just shut down
+22:50 all
+22:50 these plans
+22:56 and
+22:57 um so on the attic level and let's just
+23:03 say that these two walls are
+23:13 just Chief's difficult with Island rooms
+23:14 so we might need to do something kind of
+23:20 uh give me a warning about building on
+23:22 the attic FL floor I'm going to build
+23:22 one wall here that we're going to end up
+23:26 turning invisible so that this is not
+23:29 technically an island room
+23:31 um notied
+23:31 that I am not able to select this as a
+23:40 room why is
+23:40 it set to no room def now I have room
+23:45 definition and it's still not going to
+23:54 that selected
+23:54 all oh no they have room definition
+24:07 walls wait this is a good
+24:07 question I would almost say that this
+24:21 be going to get this wrong I'm going to
+24:25 struggle through this one trying to get
+24:28 Auto build trust is to recognize this
+25:01 should have been able to see this but
+25:07 not from just the trust itself a
+25:09 truss what's
+25:09 Rafters let's go back a
+25:14 little let's go
+25:23 dialog got presses
+25:23 go El light yeah just leave that now
+25:38 trust yeah so it would it didn't
+25:45 structure be great if we could do that
+25:49 so that we didn't have to mess
+25:49 around and shaping it manually I mean
+25:54 I'm always a big proponent for just
+25:54 forcing something right like build a
+26:01 through that
+26:01 condition make that section that we got
+26:06 to build that trust over the top
+26:06 of because pretty clear that we're not
+26:12 getting room definition out of this
+26:15 despite saying that these have
+26:32 uh uncheck attic
+26:32 wall still not able to set a
+26:37 room
+26:37 okay so what if we did a little cheat
+26:43 I'm just curious to see what happens
+26:43 here let's go build a second floor and
+26:47 this
+26:47 time we're going to set our overall
+26:52 ceiling
+26:52 height setting our ceiling height super
+26:58 low help yes it does but we're going to
+27:14 there and so our ceiling
+27:18 Heights super
+27:18 low and let's force a rebuild
+27:40 let's get in here and set the height of
+27:41 this
+27:41 different want to turn off auto build
+27:49 R I'm just playing around here let's
+27:49 just see if we catch some kind of method
+27:54 here I think I'm thinking through this
+27:55 want to
+27:55 be let's just add
+27:59 yeah let's add like six foot to
+28:06 that right so that pushes it
+28:13 then yeah look at
+28:13 that right that just modified these
+28:24 trusses is this still a solid Truss It
+28:24 is the only problem is it doesn't extend
+28:38 the kind of worked let's go back to this
+28:39 room
+28:39 again and minus like
+28:58 feet there we go solid built Trust
+29:02 cool and now let's modify
+29:02 this and it's just going to extend all
+29:05 the way
+29:05 through we can kill that
+29:13 one right in fact we could just modify
+29:16 the shape we could put a break in
+29:21 here there you go bam problem
+29:27 cool and so the main thing that I would
+29:35 is those are built you could you don't
+29:38 need to keep that second floor I don't
+29:38 think let's try this it's just that you
+29:45 can't rebuild now after this um but the
+29:45 thought here is let's delete the current
+29:53 floor
+29:53 D okay to delete the current floor
+29:57 there's a problem we lose the trust
+30:05 profiles right deleting that current
+30:06 floor got rid of all those
+30:13 to almost have to copy paste all those
+30:20 below yeah you could copy paste hold
+30:20 those trusses on the floor below same
+30:23 thing with the roof plane on the floor
+30:25 below and then um delete that floor make
+30:33 sure you're not rebuilding any
+30:33 framing and there you go have that
+30:38 platform done and built
+30:38 and and you got your modified trust
+30:41 profile that's kind of fun that was a
+30:56 one flat lid on a shed roof looking for
+30:56 directions on how to build a flat sof on
+31:01 the underside of a shed
+31:01 roof head around with different settings
+31:07 structure um that should be pretty easy
+31:07 someone should have this right away yeah
+31:12 it's they even post proof plane
+31:12 specification options box Steve here we
+31:28 easy uh
+31:28 attic wall okay so this is just one
+31:31 where um I would just say specify it the
+31:36 way you would build it in this case this
+31:37 would be a balloon frame wall so that's
+31:41 all I said I answer this one it
+31:41 just bam balloon through ceiling above
+31:44 and it's going to balloon through this
+31:46 and then this is an interseeding roof
+31:46 plane that's cutting that little section
+32:00 simple I don't I just show the room name
+32:01 not attic area that's in your layer
+32:01 settings yeah here someone's pointed it
+32:09 out so rooms room labels and then you
+32:09 can see here uncheck room standard area
+32:15 rooms interior area you have the Pro
+32:15 Plan um I don't show area I show some
+32:19 other stuff I show a ceiling height
+32:21 macro and it give you options for
+32:23 turning that off
+32:23 but you do that cool
+32:33 walls layers uh is there any way to mix
+32:37 some of the walls sometimes visible
+32:39 interesting sometimes
+32:39 not I'm under inovation I want to make
+32:44 some compartmentalization but I don't
+32:44 know which variant is the best way to do
+32:49 it so I want to make various variants
+32:49 this tongue twister of positioning some
+32:52 walls and make them visible or invisible
+32:56 and in the same time not affect the
+32:57 structure of thing walls in project I'm
+33:02 new all right so what they're trying to
+33:04 do is show different design iterations
+33:06 in the same plan file and there's just
+33:08 no great way of doing that within One
+33:08 Singular plan file but you can always do
+33:13 a second plan file where you're showing
+33:15 that setup using reference layers so
+33:15 let's just open up a second plan file
+33:18 and in this case I'm going to just drag
+33:22 this forward or
+33:22 foot and I'm going to save this other
+33:25 plan file as example someplace where I
+33:35 this and then in my Untitled I'm going
+33:36 to turn on the reference display layer
+33:38 and I'm going to specify that by
+33:38 changing the floor reference okay and
+33:43 from here we're just going to make sure
+33:44 that we are using the same current floor
+33:50 okay current floor uh could be
+33:50 referenced display Etc uh you could use
+33:56 XO R if you want to just show when
+33:58 things are overlapped
+33:58 and then maybe you in fact want to use
+34:03 the working uh display layer that'd be
+34:03 another option but this is showing roofs
+34:09 all that stuff and the last thing I
+34:09 forgot to do is actually pick the plan
+34:13 file which is I needed to pick this
+34:14 example plan
+34:14 file there we go there's our offset
+34:19 there it's the same thing if you're
+34:19 working in 3D and you want to turn on
+34:21 that reference display you don't turn on
+34:25 the reference display in this case what
+34:28 you do instead and let's just get into
+34:30 um the shots so we can see inside of
+34:32 here is that you would click on the
+34:34 change floor number and same thing
+34:34 change that reference display to the
+34:36 example reference display use anything
+34:41 you want here in terms of layer set so
+34:41 maybe you want to just show framing that
+34:46 would be something you could do um and
+34:48 then glass house is going to
+34:48 show up here as there we go we got a
+34:52 glass
+34:52 house right um so just to show this as a
+34:59 working example we could build all
+35:01 framing for our
+35:01 reference come back here and change our
+35:09 reference change our layer
+35:18 Framing and there we go look at that
+35:18 shows the actual framing so it's pretty
+35:21 clever it doesn't need to be glass house
+35:24 there's a couple different rendering
+35:26 techniques that you could use so we
+35:29 could use standard or vector View
+35:29 show that framing in a standard view
+35:42 cool getting through it what are we at
+35:45 35 minutes and I'm yeah it's about an
+35:46 hour
+35:46 Pace floor joist framing to change
+35:52 direction to perpendicular where I
+35:52 specify they're setting to change a
+35:57 joist Direction perpendicular in a
+36:00 specific specific area um that's a
+36:03 little bit challenging
+36:03 because I believe you need to have you
+36:10 need to specify a like a a certain
+36:12 framing
+36:13 member yeah for a single platform you'd
+36:16 have to generate another platform you'd
+36:18 have to you know put in an invisible
+36:18 wall or something like that I thought
+36:23 you might be able to do it
+36:23 by yeah there he added some bearing
+36:33 um try this out real quick see if I
+36:33 can't figure out thought there was a way
+36:39 to do this go to floor below and let's
+36:46 say floor above build framing for going
+37:00 here's our joist Direction here's a
+37:27 Direction so it did pick up the bearing
+37:29 line across the framing and we're
+37:29 sistering across that bearing line yeah
+37:34 no I think you actually need to do
+37:34 separate platforms for this so that you
+37:38 can set this up this would just be
+37:39 thrown in a wall like this could make it
+37:44 an invisible wall if you wanted to and
+37:47 then open it up structure panel um
+37:49 create a bearing wall create wall
+37:49 footing below not going to create a wall
+37:55 footing below but if I press
+37:55 okay that should have created
+38:08 bearing I build all
+38:08 framing there we go that split that up
+38:13 so even though we've got an invisible
+38:13 wall up here oh this is interesting it's
+38:19 actually tracking my bearing line so
+38:19 this invisible wall didn't seem to make
+38:22 any kind of difference so yeah all I
+38:22 needed was a bearing line on this level
+38:29 try that one more time
+38:29 yeah just needed those two bearing lines
+38:33 to split those up so we're just using
+38:35 the bearing line tool and joist
+38:54 that disappearing floor plan well post
+38:56 your plan let's see my working floor
+38:56 plan view disappears when I use is the
+38:57 side scroll bar I have to slightly move
+39:03 it back and forth to maybe get it back
+39:03 oh anytime your stuff is just outside of
+39:08 the frame of shot right say for some
+39:08 reason you got zoomed way out over here
+39:13 you can get into the windows menu and
+39:13 fill View and you could get to that very
+39:18 quickly using neonic keys alt W and then
+39:21 fill view is just F so fill window and
+39:21 that'll bring it right back to square so
+39:25 for whatever reason if you got this kind
+39:29 of panned way off to the side alt WF bam
+39:32 that works on Windows otherwise if
+39:32 you're on a Mac you just have to go
+39:38 window fill window cool and then
+39:38 hopefully you have your Zoom key as
+39:49 well fast one
+39:49 good uh wall framing generate timber
+39:53 frame drawings how can I change my wall
+40:04 from the outside to the inside there is
+40:06 literally a setting for that yep wall
+40:08 dialogue structure uncheck view wall
+40:10 detail from
+40:16 so
+40:16 little structure panel and
+40:25 then well
+40:25 that's there it is new wall detail from
+40:33 exterior that way the next time let's
+40:33 say we build framing for that wall and
+40:38 we want to go look at the wall detail
+40:39 this says view from
+40:39 inside right now we can modify this
+40:42 detail do stuff like generate blocking
+40:52 Etc I'll switch my
+40:52 config actual based toolbars
+41:10 wait why is text specification editing
+41:20 x16
+41:20 oh love
+41:22 downloading catch
+41:31 oh
+41:31 boy that's a lot of text
+41:52 text oh wow yeah that is
+41:55 slow oh it's terribly
+41:58 slow um
+41:58 it's the quantity of
+42:06 text not sure um something I do with
+42:08 this by the way stealing these
+42:08 specifications and checking them out for
+42:11 myself to see if I want to adopt any of
+42:16 them haha thank you and let's just
+42:16 contrl all contrl C let's switch to a
+42:20 browser let's go contrl n for a new
+42:20 browser window and let's type in Convert
+42:27 case as a search and you'll find case
+42:27 converter convert case.net where we can
+42:31 paste in this whole specification and
+42:31 switch this the sentence case to better
+42:37 match our own standards that'd be one
+42:37 thing you could do could also contrl a
+42:40 contrl c contrl n new window and go that
+42:47 GPT and
+42:47 then I'm going to actually go in and uh
+42:53 just start a new chat and
+42:57 say please um
+42:58 fix any cap well we could use Windows H
+43:08 dictate please fix any capitalization
+43:10 that has to do with some kind of code
+43:10 citation or specification citation where
+43:16 the capitalization does not exist where
+43:17 it's a
+43:17 lowercase character and we need it to be
+43:27 character so this will fix any of that
+43:27 specification writing that maybe needed
+43:28 some uppercase stuff such as that R 95.1
+43:36 point2 right so here it goes it's fixing
+43:40 it for us cool this is a great use case
+43:45 for AI right fing all that text and I
+43:51 you it's free it's published on the
+43:57 gotcha um so I don't know why that's
+43:59 slow at
+43:59 editing I would send it in that's uh
+44:03 it's kind of a pain in the butt another
+44:07 thing that you could do let's get back
+44:10 to that chat excuse me chat GPT window
+44:11 let's grab this I hate that they give us
+44:15 a little blurb here at the end that I
+44:15 don't actually want to copy when I hit
+44:18 the copy button but that's okay we can
+44:22 clean it up so what you could
+44:24 do
+44:24 instead would be kind of funny
+44:27 is you could put in here um just go
+44:33 macros or no we're just going to say oh
+44:40 what was this H H
+44:43 HVAC spec undor
+44:43 spec and then I'm going to copy
+44:54 this hcore spec and let's just check
+45:03 and here's that I've got clipboard
+45:04 history so I get
+45:06 to past all
+45:06 this oh um in in the case that it's
+45:10 putting some kind of headings this is
+45:13 how it does a bold heading is that
+45:13 asteris asteris so you'd have to ask
+45:15 chbt to remove any formatting if want
+45:18 that to disappear that's kind of part of
+45:23 that and
+45:25 then
+45:25 um it should just be able
+45:35 to like
+45:37 that's
+45:37 um syntax error unexpected argument H
+45:43 yeah it does not like those asteris
+45:43 that's a multiplication thing but I'm
+45:45 not going to evaluate we'll just leave
+45:50 it unchecked press okay
+45:50 and somehow this got screwed up so let's
+45:58 drop it to our macro user find
+45:59 HP there we go and so could you edit
+46:02 this very easily in a different text box
+46:10 right um means that we could get into
+46:13 text macro management HPA spec
+46:14 and type into our hearts content very
+46:18 easily you could and this would be more
+46:24 Dynamic and faster to edit
+46:24 so there's some consideration for you
+46:31 cool I wonder what those other macros
+46:34 are sorry carel Hill we're stealing
+46:34 stuff from you a flood zone very curious
+46:39 why there's nothing in these these are
+46:44 blank all
+46:44 outs no conditional statements nothing
+46:49 all right maybe you're playing around
+46:57 macros opaque screen question helping
+46:57 someone with X2 version of screen porch
+47:00 I'm following the ca video and all this
+47:02 is good but my screen is coming in
+47:02 opaque and I can't seem to find the
+47:08 handle to get it to be
+47:10 translucent
+47:10 and you can just use a screenshot tool
+47:15 and upload a PNG would be a lot more
+47:15 helpful than doing these PDFs because
+47:17 the PDF means we got to open up a viewer
+47:22 they're in a vector view so you're not
+47:29 thing in a vector view not an X12 you
+47:46 thing but they could switch to a non
+47:46 Vector View and use a PNG with the blank
+47:53 background right like if we come into
+48:01 always just Place something that has
+48:08 transparency semi-transparent
+48:08 background um but in x16 you can use an
+48:11 opacity map which is even cooler you can
+48:15 into the properties panel opacity map
+48:15 browse for something that's a true Black
+48:22 versus true white image um might have
+48:25 something in
+48:25 semi that work
+48:28 something that really got there we go
+48:36 black look at that cool see right
+48:36 through to the the wrap there funny
+48:56 next brick wall align with CMU wall
+48:59 below well that's a really simple
+48:59 setup um let's just do a brand Bland
+49:13 new and use Bri wall tool um actually
+49:15 this is my default if you want to you
+49:17 can add a custom Place Library object
+49:21 that is attached to a brick
+49:21 wall Very quickly what's nice about that
+49:28 is maybe part partial part of this it's
+49:29 going to be that I've
+49:38 wall at that how nice that is Isn't that
+49:42 cool it's all in my Pro Plan go get it
+49:45 great
+49:45 um that intersection you have to
+49:47 actually have to have a return on a full
+49:52 wall like this right or you got to play
+49:54 with the wall
+49:54 intersections but you don't almost want
+49:58 to do like an invisible room divider
+49:58 wall like super tight to here if you get
+50:04 it super tight to here it's going to be
+50:07 challenging there you going to snap it
+50:10 really funny way but might be able to
+50:12 snap it to
+50:12 itself without it breaking like
+50:16 that right there tab input and then
+50:20 maybe minus
+50:20 116 ah look at that Isn't that
+50:25 cool return on there the return will
+50:29 extend fast though and far enough for it
+50:34 to wrap back into
+50:34 itself that gets a little challenging so
+50:38 you get to mess with the wall
+50:38 intersections anyways this is beside the
+50:44 point the question was how do we align
+50:44 the brick with our foundation which you
+50:48 can see here I'm doing that with my
+50:48 setup so let's get a wall types to find
+50:54 them and then in the wall properties
+50:54 layer Foundation to exterior of layer
+50:58 what and in this case I chose the brick
+51:05 as opposed to for framing right we had
+51:08 for framing instead and we press okay
+51:09 you're going to see here what
+51:12 happens right we got that
+51:20 solution we're getting there 51 minutes
+51:24 ah yep these always take an hour um
+51:27 second floor walls extend
+51:27 pass beyond first floor walls I tried to
+51:32 include the plan V even compressed it
+51:32 was too large hey start using Dropbox or
+51:38 cloud based something somehow some way
+51:41 um that is you're not on some kind of
+51:41 cloud-based service you really should be
+51:45 if you're doing any kind of
+51:46 architectural
+51:47 design issue I'm having is a second
+51:49 floor and attic walls extend beyond the
+51:54 first floor
+51:54 walls is a second floor and attic walls
+51:58 extend beyond the first floor walls oh I
+52:02 see what they're
+52:04 saying
+52:04 this um this typically is a condition
+52:11 where something in your foundation is
+52:11 showing that it's um needing to extend
+52:15 these walls to meet up with some kind of
+52:18 platform or something like that we
+52:27 file yeah
+52:27 look at the plan file before we can
+52:28 solve that one for you come back with
+52:30 that drop it into one drive that's free
+52:36 drop box will give you some amount of
+52:39 storage for free um Wii transfer is a
+52:41 way you could use
+52:41 it all right see Foundation display
+52:46 difficult oh I answered this
+52:46 one they are they're illustrating a stem
+52:53 wall condition here with a slab and
+52:53 they're just asking um for slab wall
+52:57 condition Ono slab so that's all that
+52:59 this was did a little video here you can
+53:05 go check it out I just show how you can
+53:06 change those two settings and there's
+53:17 off why is CA pressure Tree Lumber
+53:19 Orange color anyway to get it to
+53:19 greenish like it is in real life that's
+53:23 very funny well World extends beyond
+53:23 your own experience of lumber and it is
+53:27 in fact
+53:27 Orange in some places like in California
+53:31 as well as it can be green but they
+53:34 could use um the tool to
+53:34 just blend with texture there we go
+53:37 someone answered it blend with texture
+53:40 um boy I hope it's not that green that
+53:41 would be a very very dried board um and
+53:46 you'd be wondering if it's got a lot of
+53:46 splits in it hopefully it's a lot darker
+53:50 green than
+53:50 that and yeah and you can always create
+53:56 your own material um and if you've got
+53:57 Photoshop would be really easy to do
+53:59 this just by doing a hue saturation
+53:59 adjustment layer and then changing the
+54:03 blend mode to
+54:06 color be
+54:07 simple 3D grass region I'm wondering if
+54:12 anyone has had issues with the 3D grass
+54:14 region transitioning to a
+54:14 driveway Road oh well that's not the
+54:19 grass region doing that that's the
+54:22 driveway
+54:30 yeah this this isn't specific to the
+54:37 actual terrain tools on the driveway
+54:43 correctly uh easy way to use it is a
+54:44 rolled gutter yeah um Chief could use
+54:48 some some updates on this particular
+54:48 setup because it is very difficult to
+54:54 get this to work a lot of times I I
+54:54 don't have an example file so I can't
+54:58 mess around with this but um a lot of
+55:00 times we have to generate new
+55:00 brakes or or join multiple different
+55:04 elevation regions or you know different
+55:11 terrain modifiers you might need to
+55:11 split them up into multiples in order
+55:14 for all the brakes to make sense so that
+55:20 the road automatically cuts um so you
+55:20 can do it it's it can be challenging and
+55:24 then another way of doing it is if you
+55:28 get your break your cut correct again
+55:30 you could convert it to a symbol and
+55:31 bring it back
+55:35 in um just
+55:35 depends looks like they got it fixed in
+55:38 a way like they may have made a modified
+55:44 curve you can also make a curve
+55:44 profile um that would be another thing
+55:49 that you can do and slope terrain and
+55:49 make the curve profile be a molding and
+55:51 actually manually draw the molding in at
+55:58 an angle um I have a full holding that's
+56:07 that it creates a ton of poly counts
+56:13 poly don't have it in my full Library
+56:13 anymore I took it out because it creates
+56:18 so many um such a high poly count but it
+56:20 was a full curb and sidewalk molding
+56:21 that you could just draw along and then
+56:25 just shape but here here is an eased
+56:25 curb here and so what could we do with
+56:32 this um so I could take
+56:38 elevation
+56:38 back take the East
+56:40 curb and maybe we'll use the trim tools
+56:49 so right molding
+56:49 line in would have been the key there
+56:52 yeah so I'm just drawing this line out
+56:57 right and that's a curb now
+56:57 um and you might want to extrude inside
+57:00 polyline so that that's the top of the
+57:05 curb Etc right so this molding inside
+57:05 polyline there we go so you could just
+57:08 take a segment Down Bam take it over and
+57:13 then for this particular segment
+57:13 especially in x16 as we draw this
+57:15 forward and back up again to the terrain
+57:21 level and back over for this segment
+57:21 right there we have the option to remove
+57:27 molding from selected Edge
+57:27 that wasn't new to x16 but we've got
+57:33 some new miter capabilities in this
+57:33 case um but yeah you can make your own
+57:38 curb if you wanted
+57:40 to
+57:40 somewhere there we go it's way out here
+57:44 look at
+57:44 that and I mean it will be diving into
+57:48 the ground in this case but no that that
+57:54 looks correct so there's a
+58:02 cannot download cataloges we're on the
+58:02 last one that sounds like it's a really
+58:09 one trying to download manufacturer and
+58:10 other catalogs but Chief will not allow
+58:12 me there's no error message but when I
+58:14 try to download I see 0% progress and
+58:14 the window simply closes not sure what
+58:18 window they are referring to but we can
+58:22 in fact download from within the
+58:26 software itself and so
+58:26 that's one way of doing
+58:29 it I'm unchecking filtered results look
+58:34 my library browser is not showing
+58:38 anything suddenly oh it's down
+58:38 here so in like bonus manufacturer
+58:44 cataloges um we can view online
+58:44 cataloges and then right click and
+58:47 download catalog so you can do it right
+58:48 within the software you don't need to go
+58:54 to Chief to do this any um there's a
+58:59 let's do one more we had a couple
+59:01 minutes left before an hour
+59:17 models this looks
+59:17 like this looks like a looks very much
+59:23 like a driver issue with their video
+59:33 or default to get this block to build um
+59:35 they mentioned this before and I
+59:35 actually answered this in a live view
+59:43 um and now I can't think of how I even
+59:53 it yeah you could use the blocking roof
+59:53 tool and draw a line of blocking think I
+59:57 manually edit it I'll have to go try to
+59:59 find that and see if I can't put it in
+59:59 the description of this video but we did
+1:00:03 this on a live video that same person
+1:00:03 asking show this um live 3D I work a lot
+1:00:10 in 3D so I'm going to start doing videos
+1:00:12 in the advanced section of my VIP which
+1:00:12 is paid membership area where I show you
+1:00:17 tips and tricks for working proficiently
+1:00:20 in 3D which is my preference this is
+1:00:20 I've been working in 3D spend 80% of the
+1:00:26 time in 3D um on all my projects for the
+1:00:30 last to say five five years or so and I
+1:00:31 think it's far more efficient than
+1:00:31 working in our flat two-dimensional
+1:00:34 views or orthographic view cool um hope
+1:00:41 you got something out of this one feel
+1:00:43 like we covered some pretty cool stuff
+1:00:43 in there I think there's a few few gems
+1:00:49 maybe uh yeah leave a comment I'm going
+1:00:49 to be posting these back into Chief talk
+1:00:54 uh for people to link and and see you
+1:00:56 know maybe I gave some people some
+1:00:56 answers that'd be very cool and uh yeah
+1:01:03 leave a like subscribe never said that

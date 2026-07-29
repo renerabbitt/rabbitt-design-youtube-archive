@@ -1,0 +1,70 @@
+---
+videoId: CjkDlF8X1gk
+title: CA X11 REFERENCE PLAN TOGGLE
+url: "https://www.youtube.com/watch?v=CjkDlF8X1gk"
+status: imported
+---
+
+# Transcript
+
+0:02 a video for you in response I wish you
+0:02 would do a video about making videos you
+0:06 seem to be able to do them a lot faster
+0:08 than I can and and upload them to
+0:09 YouTube
+0:09 anyways you're like you're on the right
+0:12 path and your method totally works and I
+0:16 guess the only purpose of my video is
+0:16 maybe I can streamline it a little bit
+0:18 or pose you know a different method here
+0:25 we're looking at my method of using
+0:26 reference plans which is to show a
+0:26 spelts I'm you know remodeler so as
+0:30 built saying you know and I'm also
+0:30 showing new versus existing schedules
+0:34 but regardless of that a couple things
+0:39 one I noticed you kept going to plan
+0:39 view over here to change your reference
+0:44 if you just go to this change floor
+0:44 reference button on your I think it's on
+0:49 the default toolbar that brings you this
+0:52 dialog right away so maybe that's a
+0:52 quicker method anyways let me get to my
+1:00 electrical floorplan and yeah sure this
+1:00 time um anyways here's my own electrical
+1:06 floorplan and let's just see I'm using
+1:06 the electrical layer set so I'm gonna go
+1:10 on a layer set management I'm just gonna
+1:13 make a copy of this and I'm just gonna
+1:13 call it electrical off BAM and then let
+1:24 me just select all and then toggle no
+1:24 display so now everything's off on that
+1:26 layer set so that when I go back to this
+1:33 floor plan I'm gonna load up one of
+1:33 those that the same file as a reference
+1:40 let's just go insert below selling new
+1:41 that's right
+1:41 BAM and electric first floor and we
+1:46 should see yeah some outlets populating
+1:53 yada yada so now that when I go back to
+1:56 this reference and I go just one click
+1:56 down to electrical off it should show me
+2:01 yeah nothing's there anymore that way
+2:01 you don't have to mess with floors etc
+2:05 you just do one click on the layer set
+2:05 just to turn on or off I could have even
+2:12 called it electrical on for clarity so I
+2:13 think that was
+2:13 is what I was trying to get out when I
+2:18 when I made that post as you can see I
+2:20 do almost everything in plain view now
+2:22 I've have just a blank layout page and
+2:22 so even my schedules actually if I show
+2:27 you
+2:27 Oconee site plan no we're not gonna say
+2:33 this and my site plan is even a larger
+2:33 scale version and I even do my now with
+2:39 the note tool even do my page index with
+2:44 notes so some kind of fun stuff there to
+2:44 think about
+2:44 anyways hope this helped

@@ -1,0 +1,138 @@
+Title: Manual Roofs Using CAD Inference in Chief Architect X-13
+URL: https://www.youtube.com/watch?v=o9M9vGuMtqQ
+Visibility: public
+
+0:03 okay this was a popular video on the
+0:03 rabbit design feed on facebook so we're
+0:07 going to reproduce it for youtube and
+0:09 all the other various social channels
+0:09 where i post videos so that you can see
+0:14 how to do some really quick manual roof
+0:14 planes using cad inference lines i don't
+0:19 often have to do a lot of work in manual
+0:22 roofs but these are some good tricks to
+0:24 do manual roofs very quickly so i'm
+0:24 going to use my l key to create some
+0:29 lines i'm going to
+0:29 snap out here at all my corners my
+0:33 corner intersections
+0:33 my mid points at any kind of walls
+0:39 this particular project i kind of know
+0:45 and sometimes it's
+0:45 helpful to draw these corners all the
+0:47 way through which is in the case of this
+0:51 section right here there's the center
+0:51 line i'm going to draw this all the way
+0:52 through as well this is going to give me
+0:56 where my ridge line lines up because
+0:58 this is a hip roof and continue this
+0:59 through as well
+1:01 so
+1:01 some helpful inference lines to let me
+1:05 know where exactly
+1:05 these roof planes should be lining up
+1:10 there we go
+1:10 so now select this first roof plane and
+1:14 i'm just going to duplicate it about
+1:15 itself
+1:15 and then
+1:16 i can make a snap and it's a very easy
+1:19 snap we'll just extend this forward here
+1:23 here's where my
+1:23 break is going to be excuse me
+1:25 snap this forward and then just clean
+1:28 this up
+1:28 duplicate it about its corner
+1:31 bring this back and then of course i can
+1:35 take this and as long as it crosses
+1:38 itself it will auto cut
+1:41 pretty helpful
+1:41 take this break at this intersection
+1:43 here bring this back to 135 degrees or
+1:47 45 degrees or if you'd like to look at
+1:50 that think about that
+1:50 same thing i can take this
+1:52 cross itself and get this to auto cut
+1:58 and then bring this back to this
+1:58 intersection i only need to make sure
+2:02 that my snap is picking up
+2:09 now another cat inference i like to have
+2:12 is my eaves so it's helpful sometimes to
+2:14 have your eve snapped
+2:14 right so i can do an alt continuous draw
+2:23 i'd like to
+2:23 but in this case i'll just keep
+2:25 populating through in single action
+2:28 there we go we're connecting all these
+2:32 z's you can see this last one
+2:32 doesn't in fact quite line up with this
+2:36 eve at the end here
+2:36 and that's going to be a problem we're
+2:37 going to have to figure out what's going
+2:41 on there
+2:41 so in fact one of my inference lines
+2:45 didn't quite line up at the corner
+2:45 helpful to come in here getting a little
+2:49 bit bit tight make sure that these lines
+2:50 are populating because that's a big part
+2:51 of this
+2:51 so i might actually separate this line
+2:55 out and then have to redraw it
+2:55 easier than trying to get it to snap
+3:03 that's why it's helpful to do this ahead
+3:04 of time
+3:04 make sure you don't get too far down
+3:06 before you figure out where there might
+3:09 be an error
+3:09 so now i can pop this into that eve snap
+3:13 line
+3:13 bring this back snap this in place
+3:18 bring this forward
+3:18 and so long as i'm hitting my cad
+3:22 inference lines then i can just
+3:24 snap this in
+3:24 i'll make a break here
+3:33 you can see there
+3:33 it's aligned bring this back easy enough
+3:38 number of different ways you can do this
+3:40 it's pretty easy pretty good workflow
+3:40 let's just duplicate this about itself
+3:46 get this center section here
+3:49 you can line this up
+3:49 and bring this to center
+3:56 sometimes this is easier than just
+3:58 drawing new roof planes
+3:58 is just use your existing ones keep
+4:20 that one that one went kind of wild
+4:25 do this one there we go that's what i
+4:26 needed
+4:26 of course i can cross itself and then it
+4:30 just becomes kind of a dynamic tool i
+4:32 know that my baseline is in place
+4:32 simple enough thin for me to just draw
+4:37 this into where it needs to go
+4:37 extend it out as i need to if i want to
+4:43 reflect about and then i can
+4:46 delete it if i'd like to
+4:46 as i adjust this to the point where it
+4:50 needs to be
+4:50 come back here delete this
+4:52 so kind of a dynamic system really if
+5:00 as long as you grasp the concept being
+5:03 utilized here
+5:03 you can see in 3d this is going pretty
+5:12 oops missed that break just a little bit
+5:14 you can be a little bit sloppy and then
+5:26 that's what's so powerful about having
+5:39 and then here's our final roof plane
+5:54 take our breaks
+6:01 and there we go now we look at it in 3d
+6:06 all of our ridge lanes are connected
+6:08 excuse me ridge lines are connected
+6:14 you can do some double checks if you
+6:15 need to
+6:16 just do your join planes tool but
+6:18 ultimately don't really need it if you
+6:21 plan this out
+6:22 hopefully this is helpful
+6:24 let me know if you have any questions

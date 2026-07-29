@@ -1,0 +1,87 @@
+Title: CA SHORTS   How To Have Different Door Swing Angles On French Doors
+URL: https://www.youtube.com/watch?v=KvysogPWA_s
+Visibility: public
+
+0:04 You ever wondered how do you do a double
+0:07 door where you've got one door open a
+0:08 little bit more than the other? It's
+0:11 actually pretty easy. Um,
+0:12 go ahead and take your door, split it in
+0:16 half, right? So, right now dimension is
+0:19 53 in. I could say that this is 53 in
+0:21 divided by two. That would be easy
+0:21 enough. That's going to give me and if
+0:23 you kind of tab out of that or hit enter
+0:29 out of that and resize that. Okay. Now
+0:31 I'm going to use the copy paste tool.
+0:31 Right, that's this guy right here. Copy
+0:35 paste. You get to drag this out. While
+0:38 you're dragging it, hit tab or enter.
+0:41 Type in the dimension of what you had
+0:41 before. And look, this doesn't quite do
+0:44 what we want it to because there's a gap
+0:48 in between. And the only way to kind of
+0:51 force that gap is to hold control to
+0:51 undo snaps, right? Override snaps and
+0:56 then kind of jock it into place. Now,
+0:56 it's a little bit difficult to do from
+0:59 that view. So, what I like to do is it's
+1:05 really easy to just do a point to point
+1:08 on the inside of your jam. Just like
+1:11 that. Point to point. All right. And
+1:14 then go ahead and rotate
+1:14 your door handle. If you didn't know
+1:18 this, we get to rotate this past a
+1:18 certain degree and kind of drag your
+1:19 mouse cursor up. And look what it does.
+1:23 It flips our hinge side. All right. And
+1:26 so I can open this side open more than
+1:26 this other side. And so if we go back to
+1:30 3D view, this is what it's going to look
+1:34 like, right? Not particularly helpful.
+1:36 But if we now take these two doors and
+1:40 mold them, make a mold copy. Look at
+1:40 that. It removes that center section.
+1:44 Keep in mind this is now a mold unit. So
+1:48 you need to make sure your schedules
+1:48 include mole units. There's no way to
+1:51 kind of get this line get rid of this
+1:52 line in between. Unfortunately, that's
+1:53 just a, you know, byproduct of this. You
+1:58 can, of course,
+1:58 send this to schedule as some other type
+2:03 of unit. Okay? And specify the label if
+2:05 you want to override that label. But
+2:08 there we go. Now, keep in mind, you
+2:08 don't get both. You don't get to have
+2:09 that graphic that's really pretty about
+2:14 just, you know, 245 degree swings or
+2:14 something like that. It's going to show
+2:16 the swing that you wanted. But if you're
+2:20 just trying to get that look in a 3D,
+2:21 this is a really simple way of doing
+2:23 that. Keep in mind when you tab and
+2:23 enter and move something over, make sure
+2:27 you're not shifting it up or down
+2:27 because that's what I did when I did
+2:29 this this first time around is I shifted
+2:33 it up and so my casing didn't align. So,
+2:35 let me just show us this again. As I
+2:35 split this door in half, I'm going to
+2:39 copy paste. I can kind of put it
+2:39 anywhere. Let's just do a pointto-oint.
+2:42 Pick up that snap. Look at that. You see
+2:46 that triangle snap, right? We know what
+2:48 that triangle is from our preferences.
+2:50 If we go into snap properties, we can
+2:53 see that that's a midpoint snap and a
+2:53 secondary snap of a center point snap.
+2:56 Okay, so we know if I get that midpoint
+3:01 and center point. Get that midpoint and
+3:04 center point. Okay, rotate this how I
+3:04 need it. And then select the two doors
+3:07 and mold them together. Make mold unit.
+3:13 And there we go. We should have a
+3:13 perfect mold unit. And this is just set
+3:18 up for that 3D shot that you're looking
+3:18 for. Okay, hopefully that helps you out.

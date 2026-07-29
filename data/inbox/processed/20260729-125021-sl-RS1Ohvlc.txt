@@ -1,0 +1,364 @@
+Title: Simpson Deck Designer and Chief Architect X16
+URL: https://www.youtube.com/watch?v=sl-RS1Ohvlc
+Visibility: members-only
+
+0:00 uh what's going on VIP um I've got a a
+0:04 plan set here that I've been working on
+0:05 in some of the live shows you can
+0:07 actually find me working on this and got
+0:09 a deck here and so it's an 18t deck by
+0:13 14 foot7 and we're going to try out the
+0:16 Simpson deck designer tool because
+0:20 that's going to maybe provide me with
+0:21 some details now I typically do my own
+0:24 details in most things but I like to
+0:27 lean on Simpsons details but they
+0:29 actually have a deck designer so let's
+0:31 go check that out and see what kind of
+0:33 resources we can get out of that deck
+0:35 designer system so um here it is if you
+0:39 go to simpson.com they have launch deck
+0:43 planner that's um I actually just
+0:46 searched strong tie deck design and that
+0:50 brought me to this page and then I got
+0:51 launched deck designer and I have a
+0:53 login so you have to log in create an
+0:55 account and then I want to start a new
+0:58 project and
+1:01 there's I haven't used this in years
+1:05 so it it's not immediately intuitive so
+1:09 this video is going to be just me
+1:10 walking through the steps of this in a
+1:13 way that I think might be intuitive so
+1:16 um choose a deck creation option now you
+1:19 can enter the dimensions below and maybe
+1:22 that's helpful but just the way my brain
+1:25 works I just want to do draw deck I want
+1:28 to draw it myself I don't even want to
+1:29 have to look at something and then um
+1:33 the designer name let's see pelo or
+1:37 design name mine's going to be
+1:39 pelo okay and then we'll create this
+1:44 deck and so I'm just going to draw out
+1:47 my walls real quick and I don't even
+1:50 really
+1:51 care that I'm doing this perfectly to
+1:54 start with because I think that this
+1:57 software is probably smart enough to be
+1:59 able to replace SE of it so the main
+2:01 thing I need is I need this to be 18 ft
+2:04 right and you get to click on it hover
+2:06 over and click on it not really it's a
+2:07 little bit different
+2:09 um I think you can double click on it
+2:12 let's see window size
+2:16 Etc maybe not so um keep in mind if you
+2:20 know this software better than I do you
+2:23 know by all means drop some hints in the
+2:25 comments on how to do this in a way
+2:27 that's efficient so I've got an 18t deck
+2:29 and by 14t 7 so I get to just drag this
+2:33 out pretty much till that 147 by 18t and
+2:37 then I know that this is a wall so I
+2:39 want to make sure that that is in fact a
+2:42 wall so I think I just get to click on
+2:44 this little wall icon and then add a
+2:47 remove wall and then hit this plus sign
+2:50 and look at that that's pretty much what
+2:52 I've got now I actually do have a
+2:54 segment of this wall is um 2T deck
+2:58 return so
+3:01 I'm not sure what that looks like what
+3:03 is this add or remove railings so we can
+3:07 add or remove a
+3:08 railing
+3:12 and it's just giving us option to remove
+3:16 so adjust railings and that's you know
+3:19 changing the length of so maybe we can
+3:21 adjust walls instead here we go adjust
+3:23 walls and so this there's my twoot
+3:27 return and then add a
+3:31 railing add remove railing there's that
+3:33 plus sign perfect so I've got a two foot
+3:36 little
+3:37 return 12' 7 of exterior wall 18t deck
+3:41 14t 7 there we go and so this is looking
+3:44 pretty good now let's see choose board
+3:49 Lumber
+3:52 um and that's interesting I don't know
+3:55 what match detail Lumber is match board
+3:58 okay there's a detail Lumber and a board
+4:00 Lumber and we can
+4:02 choose what type of product we want now
+4:04 it happens to be that I'm in a wildlife
+4:07 um urban area and
+4:10 so let's see or excuse me I'm in a
+4:14 wildfire
+4:17 area and so I'm pretty sure that I need
+4:20 some kind of composite decking right so
+4:23 some kind of fireproof wood something
+4:25 and then I think I might even need an
+4:27 ICC look up on this
+4:32 so here we go ICC evaluation Services
+4:35 now this is for California um so if
+4:37 you're in California maybe this really
+4:38 helpful for you and then I'm going to go
+4:40 under product and look up
+4:44 decking and let's see here we go we've
+4:46 got a few deck products that we can use
+4:48 so mirror coat miror Flex 2 decking
+4:50 system
+4:54 um and then we've got Dex oflex now I'm
+4:58 guessing that we don't have that
+5:01 here yeah um so it's probably going to
+5:06 be some kind of composite instead maybe
+5:08 we just look up composite so let's just
+5:10 click on TXS that's fine um because
+5:14 mainly I'm looking for the detail that
+5:16 might come from this so toggle fascia
+5:18 board I actually don't think we're going
+5:20 to have a fascia board on this set
+5:24 mitered Edge
+5:26 count we're going to say zero on this
+5:29 we're not going to have a deck border
+5:30 then so that's all I need for that
+5:33 portion are there going to be stairs to
+5:36 this deck I don't believe so um yeah the
+5:40 the original design has no stairs so
+5:42 this is going to
+5:43 be that we're doing and
+5:47 then joist to hanger joist to beam these
+5:50 are the counts that are that are coming
+5:52 up here and so you can adjust
+5:55 this
+5:57 including like our deck posts we can add
+6:00 additional deck post but this is
+6:02 figuring out span based on some kind of
+6:05 engineering built into this
+6:10 software and I don't need to add chair
+6:12 tables and chairs that's very cute I'm
+6:14 not sure what that's for maybe that it
+6:16 um creates a rendering when you're
+6:18 finished I mean we have a top sides back
+6:20 set up here so if we click off one of
+6:22 these and click on top sides front back
+6:25 I'm not sure that it's it's not really
+6:27 doing anything there the zoom feature
+6:30 does something 3D probably gets us top
+6:32 sides front back interesting but this is
+6:35 doing a 3D design of this deck system
+6:38 Isn't that
+6:40 cool
+6:44 okay Studio lighting you can change the
+6:47 lighting yeah kind of cool what it can
+6:49 do
+6:51 so we can do a takeoff report material
+6:55 list what I was hoping that it would
+6:57 give me was some kind of detail
+7:00 indexing because Simpson has a ton of
+7:05 built-in details for
+7:08 decking deck live you can change the uh
+7:11 pound square foot
+7:13 load doesn't seem to have any kind of
+7:15 snow
+7:17 load I don't think that really matters
+7:20 on
+7:26 decks wait someone would have to tell me
+7:28 about that I don't think we actually
+7:29 need need a snow load on a deck just
+7:31 adjust the live load
+7:33 instead
+7:35 um okay now what can we get out of
+7:39 this edit railings report add objects
+7:43 report's kind of what I'm looking for
+7:47 here so let's hit the report button
+7:50 let's see let's just do a create report
+7:52 and let's see what we get here
+8:04 okay they want to open up a popup
+8:11 window try that
+8:16 again I have a pop-up Locker on my
+8:19 website so there we go all right so we
+8:21 got a download a report hello here's
+8:23 that exterior wall maybe we could have
+8:25 added a door to that exterior wall who
+8:27 knows uh your plan deck design is
+8:30 there um it's got callouts for stringers
+8:33 risers infills
+8:35 Etc just for a
+8:38 glossery um it's got call outs for the
+8:40 different types of Hardware that it's
+8:41 maybe
+8:47 using um here's a full layout and it's
+8:50 got the Simpson strong tie stamp on
+8:53 it with its post
+8:57 layout Max Joy spam
+9:00 and it's materials uh take off reference
+9:04 and I mean there's where we have a
+9:06 little bit of problem in terms of um the
+9:10 type of planking being used possibly is
+9:12 the material takeoff or material cut
+9:14 list that's pretty cool railing kit
+9:18 list and maybe we want to designate the
+9:21 actual post that we might be using um
+9:24 but it does have those
+9:25 dtz um ties
+9:30 I mean this is very cool very very cool
+9:33 super thorough so maybe we'll do a
+9:35 little bit more on this let's get back
+9:36 to a 2d View and let's see if it gives
+9:39 us any options for
+9:41 adding a door here we go so it adds a
+9:45 door and we want I just want a french
+9:47 door double door 10 looks
+9:50 terrible um surprised they don't have
+9:53 just
+9:55 a standard double door glass door there
+9:58 we go
+10:00 and let's see that doesn't seem to be
+10:04 clickable
+10:06 interesting oh I mean none of these seem
+10:08 to be clickable so I'm not sure what
+10:10 happens there oh we got to click and
+10:11 drag there we go so click and drag that
+10:15 was a really interesting
+10:17 graphic and I'm not sure how do we
+10:19 adjust its
+10:22 location doesn't seem to
+10:24 show the ability to adjust that very
+10:27 interesting let's get into 3D and see
+10:29 what you can't
+10:32 do so here's that
+10:35 door and we can locate in
+10:39 3D
+10:41 interesting I mean this is just going to
+10:43 be a foot I mean an inch off the deck
+10:46 itself and then be great if we could
+10:51 accurately locate this
+10:55 so super strange there yeah so if
+10:59 someone's
+11:02 got someone has some information for me
+11:05 on how this works cladding white we want
+11:07 cladding Brown because that's actually
+11:09 what it
+11:10 is okay with
+11:12 that and
+11:14 then door how do we do this I really
+11:18 want to specify exactly where that door
+11:20 is but maybe it doesn't
+11:23 matter just walls no yeah so maybe it
+11:26 doesn't
+11:28 matter let me double check my actual
+11:30 design here I've got a door and then two
+11:33 windows
+11:34 so
+11:37 um and it's kind of center
+11:40 of center of so window 19 white
+11:47 sure that's funny it's just a drag and
+11:49 drop kind of a
+11:51 thing go 3D maybe it's easier in
+11:57 3D and then what do we do left click to
+11:59 move up and
+12:01 down and right click to pan and then we
+12:08 can kind of
+12:13 centered and a
+12:18 window doesn't want to let me maybe
+12:22 smaller window there you go
+12:30 that up and down arrow maybe those just
+12:33 respond arrow keys No Maybe WD no I
+12:37 don't know what those the up and down
+12:39 arrows when you click on them it does
+12:40 nothing so you need to click on these
+12:42 little corner elements and then is there
+12:45 a way to duplicate no not
+12:47 really so this is a pretty rudimentary
+12:51 thing you're maybe not going to get this
+12:53 exact and this is just a representation
+12:57 then right
+13:02 and then the the deck rails
+13:09 themselves
+13:11 uh deck rails themselves let's
+13:16 see set board rotation I actually think
+13:19 the board rotation on this is this
+13:24 way and the adjust
+13:28 railings select a rail set so this shows
+13:31 different railing types and um for this
+13:34 particular setup it's probably going to
+13:36 do a cable with
+13:38 handrail although this is Tahoe so maybe
+13:40 not I don't like that our um our newal
+13:44 posts extend past our top rail I'm not
+13:49 sure why we don't have an option to do
+13:51 that we can open railing designer
+13:55 pressure trated cedar cedar
+14:01 bottom
+14:02 rail leer
+14:05 posts
+14:09 interesting so you can do a little bit
+14:11 of material
+14:17 changes um we're going to do inside
+14:20 railing
+14:25 attachment oh I didn't do that I did
+14:28 that by accident oops
+14:30 o but that's pretty easy clicking that
+14:32 plus sign so I like designing in 3D here
+14:34 this is a little easier I
+14:37 think um feel super curious that we
+14:41 don't have more options for the the way
+14:42 those nle pul
+14:46 look that's probably a more accurate
+14:49 representation of the type of railing
+14:52 this is going to be and actually Redwood
+14:55 is probably what we're going to use in
+14:57 this region considering we're in
+14:59 California there's a lot of redwoods um
+15:02 so yeah this is looking
+15:04 closer and I think that's about all
+15:07 we're going to show here let's click on
+15:08 that report button
+15:13 again and I'm going to show this to the
+15:15 person I'm Contracting
+15:22 with there we go cool little
+15:26 3D mark up here I'm not sure where that
+15:29 little offset blockings happening but
+15:31 that's
+15:33 okay and I'll just add this as a support
+15:37 documentation in case they want to use
+15:42 it so go check that out that's a pretty
+15:45 cool one um the other thing to note in
+15:48 um just on Simpson itself is you can
+15:51 look
+15:53 for deck details specific to any of the
+15:56 hardware that um that show up in that
+15:59 deck planner right and you might
+16:02 catch um you might catch some details
+16:05 installation options for deck lateral
+16:07 load connections and some of these
+16:09 details are fantastic details where you
+16:11 just you can screen clip some of this
+16:13 stuff and add it into your construction
+16:15 documents right like these allowable
+16:17 loads for the particular um for the
+16:21 particular Hardware that you're using
+16:23 any one of these things these are great
+16:25 details right they're coming straight
+16:26 from Simpson just making sure that that
+16:29 you're um checking the date on what
+16:30 you're finding here but typically
+16:32 Simpson's really good about keeping
+16:33 these dates up you can see here expires
+16:38 626 um and this is 2024 so technical
+16:42 bulton is effective until um 2026 so
+16:46 always look for that little info note at
+16:47 the bottom there and then you can go use
+16:50 these in your drawings and they're just
+16:52 fantastic things to useing these
+16:53 drawings are going to help help you get
+16:55 past uh your code check so um just make
+16:59 sure that your design intent your loads
+17:02 all that stuff is supported by the
+17:05 particular setup that you've got you
+17:06 know I'll just take my word for
+17:09 it all right that's it go have fun with
+17:13 that check it out come back to me let me
+17:15 know what you uh figure out
+17:29 [Music]

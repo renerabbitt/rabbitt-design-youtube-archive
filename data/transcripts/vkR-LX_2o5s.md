@@ -1,0 +1,55 @@
+---
+videoId: vkR-LX_2o5s
+title: CA SHORTS - Custom Shape on Curved Wall in Chief Architect
+url: "https://www.youtube.com/watch?v=vkR-LX_2o5s"
+status: imported
+---
+
+# Transcript
+
+0:03 on Chief talk a user has asked can we
+0:03 make this shape and apply it to a radius
+0:08 wall as a symbol well not quite as
+0:08 simple you could actually but I've got a
+0:12 really good method for this so let me
+0:13 dive into this and show you how I do
+0:13 this in Chief so I've got a radius wall
+0:16 section here first thing I want to do is
+0:20 I want to make a little bit of a snap
+0:20 point for me and a reference so what I'm
+0:23 going to do is I'm going to come into
+0:23 lines draw in a construction line make
+0:26 sure that construction line is actually
+0:30 snapped to the center of that radius
+0:30 wall then when I'm in elevation you can
+0:35 see here
+0:35 that line shows up which is great
+0:37 because I'm going to use the backsplash
+0:41 tool and when I get close to this line
+0:43 you're going to see a snap occurs so I
+0:43 can snap my backsplash tool to that line
+0:48 and then let's select the backsplash
+0:48 tool we're going to make a couple breaks
+0:55 here and there
+0:55 now I can drag this up we've got just
+1:00 kind of a slight radius here
+1:00 and a little bit of a heavier one here
+1:05 so select this section
+1:07 there we go
+1:07 kind of adjust it as needed now from
+1:10 here you can see we we've got a pretty
+1:12 faceted radius here I actually want this
+1:16 to be pretty smooth so I'm going to use
+1:18 our tool to convert curve to polyline
+1:18 and I'm going to add quite a few sides
+1:23 all right there we go so that looks a
+1:24 lot better so here we'll do that same
+1:34 pass it and then the last bit is I'm
+1:36 going to copy this
+1:36 reflected about that Center Point and
+1:40 then I can Union it
+1:40 so that's one object open it up and set
+1:51 now I can convert it to a symbol from
+1:51 here if I want to but it's not necessary
+1:56 and there we go there's that shape it's
+1:56 applied to a radius looks pretty good so

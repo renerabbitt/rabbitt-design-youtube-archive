@@ -1,0 +1,9 @@
+Title: Ingest Pipeline Smoke Test
+URL: https://www.youtube.com/watch?v=AAAAAAAAAAA
+Visibility: members-only
+
+0:00 Welcome to the smoke test for managed mode and project information.
+0:20 Today we will talk about toolbars and custom icons in Chief Architect.
+2:40 Next we cover precision movement for walls and cabinets.
+5:10 Then we look at layer-based fill styles and cladding materials.
+7:50 Finally we discuss backups, assets, and exporting caproj files.

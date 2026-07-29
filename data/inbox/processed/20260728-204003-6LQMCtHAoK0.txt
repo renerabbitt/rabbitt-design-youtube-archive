@@ -1,0 +1,1587 @@
+Title: Solving The First Page Chief Architect Forums Q&A, Number 7
+URL: https://www.youtube.com/watch?v=6LQMCtHAoK0
+Visibility: public
+
+0:03 What's going on, Chief Architect folks?
+0:05 I've got I'm back with that favorite
+0:07 segment,
+0:07 me answering the general Q&A forums, the
+0:12 first page of general Q&A on Chief Talk.
+0:16 And um uh as before, I I don't look at
+0:16 these ahead of time. You're really just
+0:20 going to catch me doing stuff live,
+0:20 which and I don't edit this video, so
+0:23 that means I might really screw up right
+0:29 in the middle of it. So far, I haven't
+0:31 um if I seem to get hung up on
+0:31 something, I try to just move through
+0:36 it. Um and keep this keep this format
+0:36 the same way that it's been in the past.
+0:40 So, let's jump into it. I I do see that
+0:42 I've looked at a couple of these, but
+0:42 it's only a few of these. And maybe we
+0:47 could actually get past the first page
+0:48 in an hour. This usually takes an hour
+0:48 just for one page. So, let's start with
+0:50 this first one. How to how do 2D symbols
+0:57 bind to fixtures? How do they bind to
+0:59 fixtures? Uh, and they're saying, I'm
+0:59 trying to understand how a 2D symbol CAD
+1:03 blocks are assigned to their fixtures.
+1:05 Specifically, how's the orientation
+1:05 paired and and is there an insertion
+1:10 point that connects them? Trying to
+1:10 understand their connection better. So,
+1:15 any insights are greatly appreciated.
+1:15 Okay, that's an interesting one. And u,
+1:20 well, we're in X17 now. I don't think
+1:20 I've done this segment since we've been
+1:24 in X17. So, it's a little bit different
+1:24 for me to set up like a um a temp thing.
+1:32 So, I'm just going to make a copy of a
+1:32 plan that's inside of my what I use for
+1:38 a template. And let's open this up and
+1:41 let's just talk about 2D symbol. I'm
+1:44 going to just draw in
+1:44 a dishwasher here. And so a couple of
+1:47 things to note. When we open this up and
+1:51 we see the fixture specifications here
+1:54 and the 2D symbol panel,
+1:54 this shows up. Ask as needed. Do we want
+1:59 to autogenerate this block? Ask as
+1:59 needed because what happens when we go
+2:01 to the 3D panel and we rotate this 90°.
+2:09 And then guess what? The bounding box
+2:11 just changed. I don't know if you can
+2:13 see this, but the bounding box now
+2:13 represents the fact that I just rotated
+2:19 the geometry of this symbol. But the
+2:22 two-dimensional CAD
+2:22 did not change with it. Why is that?
+2:29 Because it was set to symbol ask as
+2:29 needed. Now, if you've dismissed the
+2:31 dialogue box that asks you this, I don't
+2:36 think that it asks you this again. I
+2:36 might be incorrect about that. You can
+2:40 always click generate block again. And
+2:41 so what would happen is it would
+2:41 regenerate. I'm not going to hit that
+2:45 yet. Um, and then what if I set to
+2:45 always always autogenerate the block?
+2:50 Well, notice that it didn't change
+2:52 anything.
+2:52 This doesn't retroactively change
+2:54 anything. This would just change if we
+2:58 were to go rotate this again. So, if I
+3:00 hit generate block, it's going to
+3:00 regenerate this. And you'll notice that
+3:02 something jumped here in these 2D symbol
+3:07 CAD blocks. And what you're going to see
+3:10 is there is now a new entry in here for
+3:13 a new CAD block. Now, this is something
+3:15 important to note. You can always go
+3:15 generate a new CAD block on your own.
+3:17 Let me just press okay real quick. And
+3:19 now we see that this is updated. And let
+3:24 me just draw in some lines and I'm going
+3:26 to shift select these lines. I'm going
+3:28 to make this a CAD block. Let's open
+3:28 this up. And I'm going to just call this
+3:33 example. Okay. And in fact, I'll just
+3:35 put a space in front of this so that
+3:35 when I get back into this dishwasher,
+3:37 we're going to see at the very top here,
+3:41 there is my block. It's inside of the
+3:41 plan. Now, I can't go and find something
+3:48 from the library. But if I've got a
+3:48 block inside of the plan, that is now
+3:52 accessible. And I could assign it to
+3:52 this dishwasher. All right. So, let me
+3:58 just show you that real quick. Bam. I
+4:00 assigned that. And should it have
+4:00 updated? No. Why not? Well, it might be
+4:06 that you have to hit this select CAD
+4:06 block. There we go. Now, now it's giving
+4:12 me the ability to assign that. Let me
+4:12 press okay. Why is this not changing? It
+4:17 should change. It's because we set this
+4:17 to always, right? We set this to always.
+4:22 So, ask as needed. Let me set this to
+4:24 example. And there you go. Now, it's
+4:28 updated. So hopefully that gives you
+4:31 some ideas about how this is all
+4:31 working. In terms of the insertion
+4:36 point, you can always change the
+4:36 insertion point right here. Right, I've
+4:40 got this CAD block here. I can change
+4:42 that insertion point. What's another
+4:42 thing that I could do? Um, I could come
+4:46 in here to dishwasher.
+4:46 Uh, let's see. Select CAD block. Does
+4:51 this give me the ability I have the
+4:51 ability to add it to the library? Let's
+4:55 see what happens with that. Right. So
+4:57 now that's in my library. Do I get to
+4:58 then edit this CAD block? Yes. And then
+5:03 when I get to select this, do I get a
+5:03 select insertion point for this? It does
+5:08 not seem that I do. And then there's an
+5:11 edit the active view just to see what
+5:13 happens here. And so it doesn't seem
+5:13 that I get be able to set this insertion
+5:17 point here either. But I could make this
+5:19 a CAD block. Let's close this down. I
+5:22 don't need to save it. I could just
+5:22 paste it now. And then I could change
+5:24 the insertion point. And so I can make
+5:26 that the insertion point. Not sure that
+5:31 the insertion point really matters here
+5:32 other than that you probably want this
+5:35 centered on the symbol. There's some
+5:35 other tricks here too. If we want custom
+5:42 text and we want that text outside of um
+5:44 the CAD block itself, let me go edit
+5:44 this CAD block again. And notice that
+5:47 we've got that insertion point that I
+5:47 placed earlier. is if I want some text
+5:50 to show up down here, it might be that I
+5:56 need to copy paste reflect about the
+5:56 center of this symbol if I can and just
+6:01 set this to a bunch of character spaces
+6:03 so that it looks blank and then this
+6:06 will give me you know it will still
+6:06 center up this symbol. All right. Now,
+6:09 if I didn't do this and I save the block
+6:15 and I close this down and I'm going to,
+6:17 you know, replace all instances. Now
+6:18 look at this. Right, that CAD block is
+6:21 still roughly where I want it to be, but
+6:25 notice that the insertion points and
+6:25 everything aren't quite correct. Okay,
+6:28 so what if I select that insertion point
+6:35 again and put it back here and I want to
+6:37 change Oops. I want to change the name
+6:39 of this CAD block just so we have it.
+6:42 So, uh, let's just do test
+6:45 and then come into this.
+6:47 Choose test,
+6:47 right? Choose tests. Yep. Press okay.
+6:53 Does that change how it locates? It
+6:54 doesn't seem to be affecting that
+6:54 insertion point. So, really what you
+6:56 need to do, edit that CAD block again.
+7:03 And notice that um I want I need a
+7:03 basically a CAD line from the furthest
+7:07 most face here to here to be able to
+7:07 understand where the center is. So I can
+7:11 copy paste reflect about that center.
+7:14 Copy paste reflect about this center.
+7:14 And now select these two guys. Set them
+7:22 to just blank character spaces. And now
+7:25 I've effectively put everything back to
+7:27 center so that hopefully this
+7:27 dishwasher's aligned and that text
+7:33 still remains. So if I select the object
+7:40 now, where is it? Ah, see yeah. So this
+7:43 is difficult to understand. Um, and I'd
+7:45 have to play around with this again to
+7:47 understand
+7:47 why my offsets are wrong here.
+7:50 because we can obviously see and it
+7:53 might have to do with that insertion
+7:55 point. Let's try one more thing. Try one
+7:59 more thing. See, we're burning a lot of
+8:01 time on this already.
+8:01 Let me just hit save. And yep,
+8:04 instances. And what did that do? Yeah,
+8:10 that didn't help me either.
+8:10 So despite having this offset true
+8:15 center,
+8:15 these offset true center, our CAD block
+8:21 is actually being placed
+8:21 according to something else. Not sure.
+8:23 Let me try switching off of this just to
+8:28 test that out. Okay. And let me try
+8:31 getting back to it.
+8:31 And we want that one with Yeah. all that
+8:35 text right there. And you can kind of
+8:37 tell, you can see that it's offset
+8:41 there. So, very interesting.
+8:41 Oh, boy. I'd have to mess around with
+8:45 that. Oh, I don't have an answer for
+8:45 that first one. We're already failing.
+8:50 Let me move on.
+8:50 Dimensioning and resizing a room. Chief
+8:55 X17 seems more difficult than X16. It
+8:57 was easier to dimension and resize a
+8:59 room. You used to just hit enter on
+8:59 interior dimensioning and would move the
+9:04 wall. Now, it does not.
+9:04 I'm not sure what they're referring to.
+9:07 Maybe it's just that temporary
+9:08 dimensions now fall underneath your um
+9:14 your active dimension defaults.
+9:14 So, um whereas before they had their own
+9:19 setting in default settings, now they're
+9:23 just um they're inside of the dimension
+9:24 defaults and they're right here. Setup
+9:24 temporary. So, this user just might not
+9:29 have the correct temporary dimensions
+9:29 set up. Um, I have mine set up so that
+9:35 I'm doing auto exterior dimensions and
+9:38 I'm doing this in a very specific way.
+9:40 Um, I'm picking up both sides of my
+9:40 interior wall as opposed to interior
+9:44 wall centers. And then for temp
+9:44 dimensions, um, especially if I'm
+9:47 throwing in cabinets or something like
+9:50 that,
+9:50 this is going to reference inside
+9:52 surface. So my exterior dimensions um
+9:56 because I'm largely in a remodel
+9:56 workflow are referencing the main layer
+10:01 and then the interior dimensions are
+10:01 referencing the surface because that's
+10:03 typically what I'm dimensioning too. So
+10:08 um yeah, it takes a long time to set up
+10:09 your dimension defaults. I have
+10:10 dimension defaults for all kinds of
+10:11 things as I need them. So you see I've
+10:14 got a bunch of different NKBA dimension
+10:17 defaults making it super easy to do
+10:18 things. I'll just just show you this
+10:19 real quick. Um, by default, if I'm in a
+10:24 working kitchen and bath plan, I've got
+10:27 NKBA plan view, which don't actually
+10:27 dimension cabinets. They just dimension
+10:28 wallto-all. Makes that really simple for
+10:33 that manual dimension tool. If I want
+10:34 countertops, I switch to NKBA
+10:34 countertops. And look at that. That's
+10:36 fantastic, right? Makes it really easy.
+10:41 So, um, set up your dimension defaults
+10:43 and get that active default dimension
+10:43 control drop down here. And it becomes
+10:45 really easy to come in here. And just so
+10:49 you know, I can type out stuff really
+10:49 quick. Uh quick. So I can type in NKBA.
+10:56 I can type in CAD. Um well, it used to
+10:56 be able to anyways. Oh, looks like it's
+11:00 not respecting that anymore. What' you
+11:02 do, chief? You changed that on me. It
+11:05 works in this one, huh? Interesting.
+11:05 All right, let's move on to this next
+11:09 one.
+11:09 Drywall not showing in render.
+11:13 Friendly design living space in a part
+11:15 of a pole building. and create the pole
+11:19 building. I used molding poly lines to
+11:19 show the rough end of the water drains.
+11:24 Huh.
+11:24 And well, looks like someone tested it.
+11:28 DB Cooper tested this. It's not his real
+11:34 name. Let's assume that's an alias. Um,
+11:37 and there's a joke there somewhere. Uh,
+11:38 yeah. I don't know what happened with
+11:38 that. I'll skip that. Looks like it's a
+11:44 non-issue. Maybe redraw a as redraw
+11:44 truss as attic truss. A simple one floor
+11:49 house and have truss frame the roof. And
+11:53 now I want a six truss run 10 ft in
+11:53 length to all be attic trusses so that
+11:55 we can have a platform deck on which to
+12:01 mount HVAC equipment. The depth of the
+12:01 bottom cord for the rebuild is unknown,
+12:04 but it's certainly not three and a half.
+12:08 Do I just draw my room with invisible
+12:11 attic walls and guess the floor
+12:13 structure
+12:13 and then rebuild the affected trusses?
+12:17 I'm having trouble understanding I'm
+12:19 having trouble understanding that
+12:19 question. Um, and so I'm not quite sure.
+12:27 Let me see what an answer is.
+12:27 I'm not quite sure um what they're
+12:29 getting at for that, but let me just uh
+12:33 go ahead and make it be conducive to
+12:33 just simple attic trusses here. And I'll
+12:45 And let's make these trusses
+12:52 I don't need to see them on this
+12:52 display. Okay, we'll show them on a
+12:57 framing view.
+12:57 Oh, for some reason, oh boy, I got to go
+13:01 fix something. I'm not seeing trusses
+13:04 here. And that's crazy,
+13:04 crazy, crazy, crazy. Floor trusses,
+13:12 Oh, I didn't build them. That would be
+13:12 helpful. Let's build them. There we go.
+13:19 And so, um, I'm usually in a contained
+13:20 mode. For this, I'd probably just switch
+13:24 to an intersected mode. And then, you
+13:26 know, you can always get to build
+13:26 framing and then go to just a general
+13:31 framing member. And if you're on a
+13:32 general framing member, you should be
+13:33 able to shift select just trusses. Maybe
+13:39 not. So, in that case, proof,
+13:39 let's see, framing trusses. Framing
+13:41 trusses, right? Proof truss. And I do a
+13:46 little shift marquee select. There we
+13:46 go. and be able to open these up is not
+13:50 going to get you to that bottom cord
+13:50 information. But if you go to the open
+13:55 truss detail,
+13:55 then you should be able to
+13:58 get into all these different trusses and
+14:02 change all of them. This is a way of
+14:06 manually changing those trusses. Um,
+14:06 and which you know I teach in um in some
+14:12 classes how to do big timber train uh
+14:12 big timber frame trusses. You can always
+14:23 Find truss. That'll locate truss. And
+14:26 then you can open a truss. And so you
+14:26 could change top cord, bottom cord here,
+14:32 and a half, blah blah blah, attic truss,
+14:34 etc. It's not going to say that because
+14:39 I need a flat ceiling, blah, etc. Um,
+14:42 sometimes I'm trying to
+14:42 force a particular truss profile
+14:46 and make like a big decorative dress.
+14:48 This is a really easy way to make a big
+14:49 decorative truss in case you didn't know
+14:54 this. So, you can take all these guys.
+14:54 Let's just get rid of these real quick.
+14:59 And maybe I want to rotate this to be a
+15:03 45, right? Or let's just say this.
+15:03 Something like that. Bam. So you can
+15:06 take this top cord and use extend and
+15:09 draw through here and it will correctly
+15:11 miter this. Same thing. I could take the
+15:17 bottom cord and our kingpost and use
+15:17 that extend and it will miter correctly.
+15:22 Look at that. Isn't that cool?
+15:22 Um anyways, and I uncheck the drawing
+15:24 sheet so you can see these easier. But
+15:30 yeah, uh in terms of this guy, you can
+15:30 always select this from the detail, find
+15:36 it in a plan, open this up,
+15:36 change the bottom cord at 10 and a half.
+15:42 Why not? And then go open up that detail
+15:44 again, and look at that. Quickly
+15:44 updated. Cool. Let's go to the next one.
+15:53 Build the attic floor.
+15:53 Um let's see. Now that I have a roof
+15:58 built, I do not have an attic floor
+16:00 showing.
+16:00 I've been retired from using CA for
+16:02 quite some time and the proper steps to
+16:05 build the attic aren't coming back to
+16:05 mind. Build framing is another um to put
+16:10 a floor surface on there, uh you need
+16:11 you need to have a floor. You need to
+16:11 have an additional floor. I don't know
+16:16 that there's any way of doing that
+16:16 unless you kind of want to fake it.
+16:21 Let's try faking it. Let's do um
+16:21 back to this. Let's just I'm going to go
+16:27 to my floor defaults.
+16:27 Floor defaults. First floor. And this is
+16:32 going to be the
+16:32 ceiling structure. And I might be able
+16:37 to just insert something above that's
+16:37 3/4 of an inch that's not framing. And
+16:51 right?
+16:51 And again not framing
+16:55 details insulation uncheck
+16:58 that is that should be putting a sheet
+17:02 on top of this. Right. So that if we
+17:02 pull a little back clip crosssection.
+17:11 Yeah. I've got a surface there. You can
+17:12 see that the Well, let's build all
+17:13 framing. That's going to rebuild
+17:15 everything.
+17:15 The trusses are still considered the
+17:17 ceiling structure in this case because
+17:19 we have trusses. Um, let's do something
+17:23 else instead.
+17:23 Back to the build roof menu and I'm just
+17:27 going to say that I don't have trusses.
+17:30 6 and 12 pitch. Okay. And let me build
+17:33 all framing again.
+17:36 And so,
+17:36 um, my back clipped cross-section is
+17:38 probably getting a little bit farther
+17:42 than I wanted it to be.
+17:42 Let me try that again. Let's go a little
+17:47 further.
+17:48 Try that.
+17:50 Build all framing. Interesting.
+17:53 Not seeming to give me my ceiling
+17:55 trusses, but I know they're there. But
+17:59 oh, maybe I unchecked that as framing.
+18:02 Someone must have caught that, right?
+18:02 Someone must have caught me screwing up
+18:06 and didn't tell me because this isn't
+18:13 Um, ceiling structure. This is what I
+18:17 unchecked as framing. Oops.
+18:17 Stay coming. Framing. Yeah. So, that
+18:21 kind of depicts a floor. Is that what we
+18:28 want? Maybe that's all we needed. Cool.
+18:34 File appears to be corrupted. Hey, give
+18:36 chief architect a call. Give him your
+18:44 um archive file is not showing up is is
+18:46 odd.
+18:46 And so maybe it's an archive file that's
+18:52 was unnamed because they hadn't named it
+18:53 yet. So that could be something that
+18:53 they could do. And if they had a if they
+18:59 had ran a backup, just know that um
+18:59 Chief Architect the way Chief Architect
+19:02 does backups. Now, let me actually see
+19:06 if I can go find one of my own. Uh in
+19:07 preferences, you could always find up
+19:07 where your backup are being saved. Mine
+19:13 is You'd have to uncheck default. And
+19:16 then uh we can see where this is.
+19:16 Managed resources blah blah blah. Oh,
+19:19 excuse me. Here's my backup. Never mind.
+19:23 Backup's right here. Dropbox projects
+19:23 project backup. Let me go see if I can't
+19:29 find that.
+19:29 Right. So, project backup. And so this
+19:36 is just a zip file and inside of here
+19:40 might be your project. Look at that.
+19:40 Pretty cool. So that's what I would do.
+19:45 See if it's in the backup. If it's not
+19:48 in the archive, maybe it's an unnamed
+19:50 file. So you're going to have to dig
+19:53 through for that. Um yeah, that's my
+19:59 Otherwise,
+19:59 um, boy, uh, I think that this voids
+20:04 your SSA. I'm going to say that right
+20:07 now. I'm going to I'm going to say that
+20:10 right now. I'm not going to teach you
+20:10 how to do this. I'm just going to tell
+20:13 you that your managed resources are
+20:14 somewhere on your machine. And you could
+20:19 run a program to say, "Hey, when Chief
+20:19 Architect is closed, I want you to take
+20:22 those managed resources and back them up
+20:27 somewhere."
+20:27 and that will work if you replace them.
+20:33 Just know that if you tell Chief
+20:33 Architect that, they're going to tell
+20:36 you to reinstall Chief Architect.
+20:36 They're not going to handle that at all.
+20:42 I know that. There you go.
+20:45 Okay.
+20:45 Just meaning you have to reinstall and
+20:49 you you're going to want to export all
+20:49 your projects and your settings and all
+20:52 that stuff if you want to get it back
+20:52 and installed and working correctly in
+20:56 case something goes wrong. uh constant
+21:04 I'd be curious to see if this person
+21:06 having all these crashes
+21:13 is having the same issue I was. Oh, it
+21:13 looks like they issued an update. That's
+21:16 really good. Um I am currently having
+21:16 crashes when I am using DLSS rendering
+21:19 style and I'm doing a lot of stuff. Um,
+21:24 and that has to do with driver updates.
+21:24 And I could roll back my Nvidia drivers.
+21:30 I don't feel like it.
+21:30 Is it possible to associate a 2D catalog
+21:41 to the same entity? Not curious what
+21:41 that means. Curious if there's a way to
+21:44 associate a 2D CAD block and a 2D symbol
+21:48 to the same object.
+21:48 Uh, to be shown under different layer
+21:50 sets view. No, no, you cannot. No, there
+21:57 is no way, and I have tried extensively
+22:02 for my own reasons, there is absolutely
+22:02 no way for you to um change how a 2D CAD
+22:12 block depicts its um CAD inside of it.
+22:12 You can't have it follow a layers layer
+22:17 settings for line styles. You can't So,
+22:19 you can't get it to dynamically switch.
+22:22 The only thing I have not tried is I
+22:25 have not tried to do
+22:25 um a macro that changes its text.
+22:32 So,
+22:32 we could try that. [laughter] We could
+22:34 try that on the fly. Um I don't I can't
+22:39 even think of a simple macro right now.
+22:39 So, I'm just going to get chatpt to burn
+22:43 one up for me real quick.
+22:48 Give me Ruby macro if
+22:48 uh let's just I'm going to use the
+22:55 dishwasher symbol again. Oops.
+22:55 And what am I going to do with the
+22:57 dishwasher symbol? Let's just take a
+23:02 look at what some of its values are.
+23:02 And let's just say layer set. Okay. So
+23:18 if layer set down case includes working
+23:20 then
+23:20 um working
+23:25 else
+23:27 um
+23:27 print that's how I'm going to set up my
+23:35 All right, let's give this a go. So,
+23:35 we're going to just do a new one. It'll
+23:39 be a little test
+23:39 test. See if I can this going real
+23:44 quick. Test.
+23:51 and I think it needs to be I don't know
+23:54 get it to be working. This will work on
+23:56 an owner object. That doesn't seem to
+23:58 make sense.
+23:58 Make it so it looks referenced
+24:16 Just populate this in and then there's
+24:18 no context.
+24:18 Um, so that's named est. And let's open
+24:25 up this cat block. Throw in a little
+24:27 text.
+24:27 We can just target that
+24:33 test.
+24:33 Interesting. And will this work?
+24:46 Um, I guess I need a print view that
+24:54 No kidding. Learn something new. So you
+24:57 can get a macro to change dynamically
+25:00 based on the layer. Oh, that gives me
+25:05 Huh.
+25:05 Back to working. Look at that.
+25:12 I like it.
+25:12 I do a couple different conditional
+25:15 things. Um,
+25:16 for instance, my schedules.
+25:19 You just take a Let's get rid of these
+25:23 little sidebars here. you take my
+25:23 schedules or instance this says you know
+25:27 that says cabinet schedule. What would
+25:29 be a better schedule to show this on?
+25:29 Probably window schedules. Let me show
+25:34 you a window schedule.
+25:34 And so if instead in the project browser
+25:42 actually probably a better
+25:42 representation of this is my keynotes.
+25:45 So let me just show Keynotes floor plan.
+25:51 So here we go. Keynotes floor plan. And
+25:51 that just means I'm using a note such as
+26:00 plugged into something.
+26:02 Okay,
+26:02 look at this.
+26:04 Enos floor plan new wallp details. Now,
+26:09 if I change this
+26:09 plan name to dashab,
+26:12 okay, and hit enter and refresh this
+26:20 and
+26:20 back to this plan view and maybe refresh
+26:25 something.
+26:26 There we go. Now it's changed both what
+26:31 the note says and what the keynote says
+26:33 demo. So I have conditional stuff like
+26:35 this and macros like this inside of
+26:35 schedules and stuff like that, but I
+26:37 don't know. You can put them in 2D CAD
+26:38 symbols. That's really cool. Very cool.
+26:45 All right, next.
+26:45 How we doing on time? earned 26 minutes
+26:50 and I'm
+26:50 we're about on pace. Uh ray trace air
+26:53 enforcing uh you know this is going to
+26:58 be invid video drivers. Yep, that's
+26:58 exactly what Chief's calling that one.
+27:03 Good. That caught us up on speed.
+27:07 Industrial brick details.
+27:07 This is Shane. Let's see. How would you
+27:10 approach doing industrial brick details
+27:12 similar to the picture using Chief? I
+27:12 have some idea using trim and 3D solids.
+27:20 I am not going to address this right
+27:23 now. Why?
+27:23 Um because I'm going to use the last 20
+27:29 seconds of this video to point you to
+27:32 two other videos that handle brick
+27:32 details. Both roll lock and um some kind
+27:41 of sill detail. Um because
+27:41 we have a bunch of different things on
+27:44 Windows that people uh I don't think
+27:44 realize a lot of times which is if you
+27:50 open up a window
+27:50 you might have not noticed that um under
+27:56 treatments there is exterior milwork
+27:56 above casing and exterior milwork below
+28:01 casing. And if you really know how to
+28:03 manipulate symbols and set stretch
+28:06 planes and set offsets and resize
+28:06 bounding boxes or add bounding box
+28:08 spacing, you can get any mill work to
+28:11 attach to this window. You can make it
+28:16 look like an arched rollock. You can
+28:16 make it look like a sill roll lock. You
+28:20 can do all kinds of different things. I
+28:23 even have one that adds a beam and
+28:23 corbals on the outside of my windows,
+28:28 making them linked and dynamically
+28:28 resizable parametrically according to
+28:30 your stretch planes, which will take out
+28:37 so much work on building out exterior
+28:37 facades with those kind of details. So,
+28:42 um I guess I will show you this real
+28:42 quick. Let me just open up one because I
+28:46 know I have one. Um,
+28:46 one is that I know I have not only that,
+28:53 but you can even if you know how to make
+28:57 3D moldings, not 2D CAD moldings, 3D
+28:57 moldings, you can even use that as well
+29:03 to do some really custom stuff. So, uh,
+29:05 I have some 3D moldings. I'm going to
+29:05 click on my user catalog and limit this
+29:09 to just
+29:09 oh, let's see,
+29:12 limit this to a sort folder that I have.
+29:19 brick row lock. Watch this. I want you
+29:19 to check this out in a regular standard
+29:25 rendering view. Look at that.
+29:25 Isn't that cool? Right now, I need to
+29:28 make some adjustments to this because
+29:28 this is built for a door threshold. But,
+29:32 you know, that would be how I could get
+29:35 a brick Rolex sill. I would just change
+29:35 the way the paint is. Right. In terms of
+29:39 the treatments, let's go. Exterior above
+29:42 casing. I'm going to type in beam and
+29:42 get to my own stuff. And there you go. I
+29:48 think it's I don't know if it's the
+29:50 double or the single.
+29:50 There we go. Look at this. We get to say
+29:56 60, 70, 80. I don't know. 80. Height
+29:58 four.
+29:58 Oh, maybe higher height makes it
+30:00 smaller. That's That's important.
+30:04 [laughter]
+30:04 Um, and something about the offsets a
+30:06 little off there. But yeah, this is and
+30:13 now it's attached to the window. So you
+30:15 can do some really cool stuff this way.
+30:24 perspective full overview to layout is
+30:27 not printing correctly.
+30:27 Snip on the left is my layout sheet. I
+30:29 want to print for the client to look at.
+30:31 The snip on the right is what print
+30:31 preview is producing, which is all of
+30:35 one
+30:35 camera.
+30:47 Huh?
+30:47 Boy. I don't know.
+30:50 Oh, yeah. They just sent it the same
+30:52 camera to Oh, maybe they were moving the
+30:58 camera around. That's probably what this
+31:00 was. They were moving the camera around
+31:02 and then sending to layout. Moving the
+31:04 camera around and sending to layout.
+31:08 I'll explain what I mean. Okay,
+31:08 if you have a saved camera and and boom,
+31:14 you just have this camera and you send
+31:14 this to layout, it's now a saved camera.
+31:20 And then you move over here and you
+31:20 don't save again as something new. You
+31:25 have to use save active views as.
+31:25 Otherwise, if you just hit save again,
+31:29 it's just overriding the same camera.
+31:29 Now, layout's not going to update until
+31:32 you force an update, such as going to
+31:35 print. So you've effectively have the
+31:35 same camera four times. So you have to
+31:39 establish a camera, save active view as
+31:44 whatever that is, camera one. Now I got
+31:46 to move over here. If I go edit this
+31:46 view, it's still camera number one. So
+31:49 you want to hit that save active view as
+31:54 again. Now I have a camera number two.
+31:56 Okay. So I think that's what was
+32:04 rail wall line removal. Oh, I did
+32:04 already kind of solve this and I'll just
+32:08 show you what the solve is. This person
+32:10 was saying that, you know, they've got
+32:10 this um extra line in here that's that's
+32:17 showing up. Boy, I don't know how after
+32:19 you get everything dialed in about the
+32:19 size of your rooms, you still have this
+32:21 grid on. I find it to be so distracting.
+32:26 Uh anyways, turn your crit off.
+32:28 [laughter]
+32:28 It's the first thing I do when I get
+32:29 someone else's plan. Um, that's an old
+32:32 school thing, I guess. Anyways, see this
+32:38 extra line here? That's happening
+32:38 because that is the full thickness of
+32:40 the railing. Two things here. There's no
+32:45 reason not to set the railing thickness
+32:45 back to the thickness of your actual new
+32:49 posts or your rails, etc. That might be
+32:52 what I would do. Um, unless for some
+32:52 reason you wanted the wall to drive the
+32:57 thickness of the railing. Um, what I
+32:59 mean by that is when we draw out a
+33:01 railing,
+33:01 which that just drew on the other side
+33:03 of the plan or something. Oh, give me a
+33:07 railing. Still tough to draw a railing
+33:10 in 3D from scratch from no other
+33:10 connection point. um when we draw out a
+33:17 railing, the railing dialogue box
+33:17 has a bunch of stuff in it that where um
+33:23 in the rails panel, you can always just
+33:25 say, "Hey, we want all this stuff to be
+33:27 full wall width, right? But maybe you
+33:27 don't want that." That's one approach.
+33:31 The other thing that you might want
+33:31 instead is you might want your new post
+33:37 to be full wall width, right? So, I
+33:37 would take whatever helps me keep this
+33:43 dynamic so that as I'm rolling through
+33:45 this, I just get to come in here to
+33:45 thickness and say 12 and it's changing
+33:49 all those elements I need it to change
+33:49 very quickly. Now, the big takeaway here
+33:54 in terms of a plan view and how this is
+33:57 drawn in a plan view is you want to get
+34:00 in here, open this railing up, get into
+34:00 new ballasters. And my defaults are just
+34:05 set this way, but you want to check draw
+34:09 rails. And so draw rails will show um
+34:09 will show this very differently, right?
+34:13 So if I uncheck full rail wall width,
+34:15 that's going to revert all those rail
+34:15 sizes back down. And so you can see the
+34:21 thickness of this is
+34:21 changed, right? The railings are not in
+34:26 fact that wide. They're not 12 inches
+34:26 wide. So um and so if I go back to the
+34:29 nules and say that, you know, these are
+34:33 three and a half. This is effectively
+34:33 what it was showing on their end, which
+34:38 isn't great, right? So there you go.
+34:38 There's all the settings that you could
+34:41 change to kind of get rid of this. One
+34:44 is you could just change this wall um
+34:47 overall wall structure
+34:47 in the general panel to be call 3 and a
+34:52 half inches. Right? So that would show
+34:52 correctly or you [snorts] could draw the
+34:58 rails either way.
+35:04 Uh windows won't show in an elevation
+35:04 view. Oh, this is a pretty common thing
+35:08 that happens when you've modified your
+35:12 default wall heights and one of your
+35:17 walls is out of alignment. Um, so
+35:17 for instance, let me just build a new
+35:24 And I'm just going to bump this wall a
+35:27 little bit.
+35:27 And let's go take a a look at a view.
+35:33 Um, and then what would be the next
+35:33 thing that happens here? Usually we've
+35:38 modified
+35:38 a a wall top or bottom height for this
+35:47 Well, I can't recreate it. I can't force
+35:50 it. But I'm I know what I'm looking for
+35:52 here. This is usually what happens is
+35:55 something's not align.
+35:55 In fact, that's the first response,
+36:04 Uh the lower wall was broken into two
+36:06 parts.
+36:06 That really really shouldn't have
+36:08 mattered, but maybe they had a platform
+36:12 jump that was causing issues. And that
+36:12 will fix a lot of problems. By the way,
+36:17 that is a trick that I know about. So,
+36:21 um a for instance, if
+36:25 this room was taller,
+36:27 right? And then
+36:27 um and I had the same wall
+36:32 up on this upper level. Oops.
+36:39 Get up. Copy paste. Oh, you can't copy
+36:41 paste from the side. I can't wait for
+36:41 Chief to change that. You can't in a 3D
+36:47 view. You can't get [laughter]
+36:47 you can't get a wall to copy. You can't
+36:51 do a lot of things to a wall from
+36:58 We finally see where that rail showed up
+37:01 that I driven 3D.
+37:05 Okay. So now if I
+37:06 change this relative heights,
+37:09 a lot of times things will get fixed if
+37:14 you add a break at that intersection.
+37:14 Little goofy transition things, um, wall
+37:20 intersections, all kinds of things can
+37:23 be fixed if you add a little
+37:23 A little uh break in there. Um this plan
+37:28 is getting real rough. So let me start
+37:38 SP still has it dishwashers in place.
+37:39 Cool.
+37:39 Okay, what do we got?
+37:50 Looks like I looked at a couple of
+37:50 these. Any clever people here have a
+37:53 suggestion on how I might go about
+37:53 creating a dry away cabinet? I've got a
+38:01 client that wants one dry away cabinet.
+38:04 Um, okay.
+38:04 And and what we want it operable. We
+38:08 want to be able to see it in 3D by
+38:11 clicking a button.
+38:14 Um, you could
+38:14 you could make this a mill work symbol.
+38:23 and add it
+38:23 as a mill work symbol
+38:26 to the cabinet box. There's just some
+38:33 challenges with this. Um,
+38:33 let's give this a shot. All right, we'll
+38:37 do this one live. What do we got? We got
+38:39 38 minutes. Not bad. I think we got
+38:44 Um, what do I want to do? I want to
+38:52 Let's get this door all
+38:52 dialed out because I'm going to just put
+38:55 lights in this door. So, we need to
+38:55 change the door style to a glass panel
+39:00 in this case. And we'll just make the
+39:04 frame like two and two. And then make
+39:04 sure there's no hardware. You can just
+39:07 click in here once and then tab through
+39:18 Look for the highlight. Hit N
+39:18 or hinges is hidden. So H. And that gets
+39:24 rid of all my hardware. Um I want to
+39:24 lift this off the floor 2 in so that we
+39:27 say that we're not using a threshold. So
+39:32 that picture frames this, right? And in
+39:35 fact, I don't need a jam or casing. No
+39:35 jam, no casing. It's going to just leave
+39:40 me with the door panel. Okay. And then
+39:51 Right. What's the original picture? One,
+39:52 two, three, four, five. You know, if you
+39:54 wanted to do custom offsets, you could
+39:54 just draw in your CAD and apply muttons.
+39:58 But
+39:58 there we go. We'll do that. That'll be
+40:01 that. That is fine. Uh, the last part is
+40:05 thickness. Uh, what's the thickness of
+40:08 these? 3/4 of an inch.
+40:10 So,
+40:10 that little guy right there. Sweet. And
+40:14 now we just get to convert the selected
+40:14 to symbol from your edit toolbar. Right?
+40:18 So when the door is selected, hit
+40:18 convert selected to symbol. And we're
+40:20 going to change this to mill work type
+40:23 symbol. And I want to show advanced
+40:23 options. And this is going to be uh what
+40:31 do they call it? Dry away. Dry away.
+40:31 And so there we go. That's what I got.
+40:33 Cool. It's even paintable on both sides.
+40:37 Uh the only thing I didn't do was I
+40:37 didn't paint the lights beforehand in
+40:38 that would have been helpful. Although I
+40:41 don't know that you can. And let me just
+40:44 double check that you maybe we can't do
+40:46 that. This is what I use for color
+40:48 coding.
+40:48 Yeah, the lights just take on the
+40:51 whatever the interior color is. So maybe
+40:54 not the best method for this. I probably
+40:59 should have just um used the uh solid
+40:59 something. But that's okay. We're just
+41:01 teaching here. Okay. Milwork type symbol
+41:06 show advanced options. All right. This
+41:07 is how this is showing up. We need to
+41:10 rotate it in 3D immediately. I know
+41:10 this. So, rotate it 90° in the Z-axis.
+41:14 Boom. That's exactly what I need for my
+41:20 milwork symbol. All right.
+41:20 Um, we didn't really know what the width
+41:27 of this thing is, but let's just call it
+41:29 Oops.
+41:29 Escape. Big mistake. Don't hit escape.
+41:35 Um, I guess I could have made this the
+41:36 right size right here. Let's just make
+41:45 27 that yeah selected to symbol mil work
+41:48 show advanced options 3D we know we're
+41:50 rotating it in the 90D and you might
+41:50 want to set some stretch planes up to
+41:52 you stretch planes will make it so that
+41:57 we're not um interrupting
+41:57 uh the styles and rails here those
+42:00 wouldn't get resized as it gets applied
+42:04 to different cabinet sizes that's the
+42:07 point so get to the advanced sizing
+42:07 panel depth for sure. Go half of the
+42:13 depth. Maybe 13. Oh. Oh, I clicked
+42:13 height. Oops. Here's depth. 13. Um,
+42:17 height could be half the height or or it
+42:20 could be 12 or it could be five. It's
+42:22 just going to probably do three
+42:22 different ones. Or I do uniformly resize
+42:29 in between, which I've got
+42:29 two inch rails. So, I could just go,
+42:32 hey, uniform stretch planes in between
+42:35 77 and blah blah blah. So, it's going to
+42:40 uniformly stretch everything but the it
+42:44 won't touch my rails. Perfect. And then
+42:47 width would just do thickness. That's
+42:47 fine. Leave that unchecked. Cool. Now,
+42:53 we need a full height cabinet.
+42:53 Right. There's our full height cabinet.
+42:58 Um I know it's already 27 in depth. I'm
+43:00 going to You can open this get to the
+43:04 front sides back panel,
+43:04 right? And we can select the toe kick,
+43:09 delete it. In fact, if you're in the
+43:11 general panel, let me just show you
+43:11 this. If we open this up, the fastest
+43:13 way to get to front sides back is just
+43:16 click on the front of this cabinet and
+43:16 it'll bring you to that front sides back
+43:21 deal. And I already wanted to get rid of
+43:23 that to kick. So, there we go. And then
+43:25 let's get rid of one set of double
+43:25 doors. Let's in box construction say it
+43:30 does not have a bottom. So, no bottom.
+43:34 And then this has set of double doors.
+43:42 is I don't see any great way of doing
+43:47 this. Um cuz we need multiple
+43:47 of these guys behind one door. And as
+43:50 you know, shelves only go one way. They
+43:54 only go horizontal. They don't go
+43:57 vertical. Right?
+43:57 I know that. Let's see.
+44:06 Sometimes we can trick a door,
+44:06 but really I feel like you'd have to do
+44:12 this from the backside.
+44:12 And to get it to roll out is the
+44:16 problem.
+44:16 It'd be inverted.
+44:18 So, this is in the case that you needed
+44:22 doors. You'd have to put it on the back
+44:24 side and you'd have to go back to the
+44:24 symbol and set the offset. Let me show
+44:30 you a way when we're not using doors.
+44:32 But when we're not using doors,
+44:32 this just gets to be an opening, right?
+44:37 And then we're just going to split that
+44:39 opening vertically a bunch. And before
+44:39 you do that, go ahead and set it up. So,
+44:47 opening shelves, manual,
+44:49 uh, one shelf.
+44:49 You want to set up spacing from previous
+44:55 is zero right away. Hit the library. Go
+45:02 Okay. Um, you could have it resized if
+45:02 you want to, up to you. You can specify
+45:07 if it's full depth if you want to.
+45:07 Totally up to you. Let me press okay.
+45:08 And it's going to fill that whole area.
+45:10 Right now, I get to split this and split
+45:17 this and split this and split this until
+45:20 it's until I've got the correct number.
+45:22 Okay? Whatever the correct number is.
+45:23 Then you want to go target your
+45:25 separations
+45:25 um, and change them. You could change
+45:31 them to blanks if you want to or you
+45:32 might just be able to get away with
+45:34 getting rid of the separations al
+45:36 together.
+45:36 And so you could say that this is box
+45:38 construction. You can say this is inset
+45:43 if you wanted to. Um
+45:44 let's see back and front sides back. You
+45:48 might want to get
+45:48 you know your reveals changed. So box
+45:53 construction would not be this. Let's
+45:55 see. Now I could set a reveal of one
+45:55 inch and get those two inch inch and I
+46:00 might need to change my separation blah
+46:06 blah blah. Um, now when there's nothing
+46:08 in between the opening, notice that it
+46:10 just takes the one shelf and basically
+46:12 duplicates it. So we do need something
+46:17 in between here. It's almost like
+46:17 it's almost like you need a separation
+46:21 and just call it zero.
+46:21 Does that work? or a blank and call it
+46:28 zero. Let me try that. Add new blank
+46:29 zero.
+46:30 Insufficient room for this change.
+46:38 Item can't be that small.
+46:40 Okay.
+46:40 What's another what's another thing that
+46:46 we could do then? Item width is zero
+46:46 doesn't work. Zero works on separation,
+46:49 but it still adds a separation, which is
+46:53 not what we want.
+46:53 Oh, this is tricky.
+47:01 Blank still creates a face frame. That's
+47:02 cuz this is set. So, this might need to
+47:05 be set to zero. Yes, that has to be set
+47:13 yeah, cuz are these individual items?
+47:16 This is tricky.
+47:16 If I set this to an opening and specify
+47:21 that there's no shelf, does that create
+47:24 a break?
+47:24 It's tricky. I don't know.
+47:31 Let me just show this
+47:33 roll out.
+47:33 And does that roll out everything now?
+47:35 Maybe not. Maybe then we get an idea of
+47:40 this. So
+47:40 there we go. So there's definitely
+47:44 different items here. They're just
+47:52 And does that putting an opening give me
+48:00 zero?
+48:00 Interesting. So, let me try to do the
+48:02 same thing here. Let's just give this a
+48:08 roll out. 40
+48:11 that.
+48:11 Okay. Let me equalize all these.
+48:17 So, it's very interesting that that
+48:17 blank area still has some kind of mill
+48:20 work there. And I'm not sure what's
+48:20 going on with that. That's the blank
+48:26 area and it's and it's filling with
+48:26 something even though it's specified as
+48:37 Huh.
+48:37 Curious. That's very curious.
+48:40 Not sure what's going on there.
+48:47 This should just This should have no
+48:55 Something with the overlay or something.
+49:00 Well, if I had more time, I feel like I
+49:02 would beat this up until I got it
+49:02 exactly right. Something about our setup
+49:09 here is is goofing things up.
+49:09 If we set this to blank area, does that
+49:16 still going to produce something?
+49:19 That's going to produce.
+49:19 Huh. Very curious. All right, I'm going
+49:24 to save that for another video.
+49:24 Move on. Probably lost some attention
+49:30 spans on that one.
+49:30 We got minutes. Boy, oh boy.
+49:37 Convert
+49:37 dimensions to whole numbers. I as I
+49:40 answered this one, it looks like I
+49:42 barely knew and maybe asking the
+49:42 impossible here, but figured it was
+49:43 worth a shot. Have much time to make the
+49:48 changes. Is there a setting within X16
+49:49 that I can change to have all the
+49:50 dimensions within an existing plan
+49:52 convert to whole numbers while their
+49:53 respective items adjust accordingly? No.
+50:00 No. And I don't think I have any
+50:00 solutions for that. You got to go in and
+50:04 do that work. Um, if you put stuff on
+50:04 fractions and now you need them at whole
+50:08 numbers, you're going to have to go move
+50:11 all the items. Uh, have bumps turned on.
+50:13 So, maybe that makes the job easier
+50:13 because things like cabinets might bump.
+50:17 But, boy, that's just uh asking for
+50:17 problems, too, cuz you never know if
+50:21 you've got your cabinets aligned
+50:21 perfectly. I can't tell you how many
+50:24 kitchen plans I open up where people
+50:24 don't have their cabinets truly bumped.
+50:28 They're not moving things with
+50:28 precision. So, good luck on that.
+50:33 Dropping a floor inside foundation walls
+50:39 for a semisplit level plan. Uh, wow.
+50:41 Okay. Drawing a plan with a onecar
+50:41 garage on the left side, house on the
+50:42 right sides, two stories, top of garage,
+50:47 concrete walls, and slab will sit about
+50:51 4 feet above the first floor
+50:51 of the house section on the right. Tall
+50:55 concrete wall that separates the two
+50:59 structures will be 7 ft
+50:59 and match the height of the garage
+51:02 stall.
+51:02 Um, so I'm just thinking pony walls
+51:03 here. That's all I'm thinking. I already
+51:08 have a wall set up kind of for this
+51:08 purpose. Um, and it's in my toolbar, so
+51:12 I get to just draw with it very, very
+51:12 easily. And so if we go take a look at
+51:17 this
+51:17 side, this is just um concrete pony wall
+51:23 and it's a furred pony wall with framing
+51:25 furring it out. And so it's easy for me
+51:28 to just use the brake tool and slide
+51:28 this up to whatever I want. And you know
+51:33 with 3D dimensions makes it even easier
+51:35 nowadays. So here would be that seven
+51:38 foot. And you can see everything's
+51:42 looking correct on the inside. Um
+51:42 so if we were to open this up just just
+51:46 take a look at what this is. It's two
+51:46 different wall types. Both have furring
+51:49 walls and they're meant to line up in
+51:53 specific ways. There you go. So yeah,
+51:53 this is it's possible. It's possible to
+51:58 set that up. That's what I would do.
+51:58 Makes it real easy. makes it very very
+52:03 easy to do daylight basements
+52:10 Bringing I I'm rushing through this only
+52:12 because we're running out of time. I got
+52:13 like eight minutes to get through eight
+52:16 questions. No way. Um I'm a college
+52:16 student and I'm in need of some help.
+52:19 We're designing a kitchen and living
+52:19 room for NKBA and the design style is
+52:25 maximalist. I want to bring in a wall
+52:25 mounted Longhorn since the house is in
+52:29 Texas. Is there any way I can bring in
+52:32 something like that into the software?
+52:34 Yeah, of course. We can import a bunch
+52:37 of different um 3D formats. Uh DAE,
+52:37 which is a colada file, I believe, uh
+52:40 3DS, OBJ, SKP, which is SketchUp, bunch
+52:45 of different formats we can bring in.
+52:45 You can drag and drop it right into your
+52:48 plan. That's going to automatically
+52:48 convert it to a symbol category class of
+52:56 fixture. or use the import dialogue box
+52:57 and that will make it so that you're
+52:57 importing it with the dialogue box that
+52:59 lets you classify it. But you can always
+53:02 drag and drop place it and then
+53:02 reconvert it and do some edits to it and
+53:07 add it to your library. Maybe that's
+53:09 helpful.
+53:09 All right, stacking a barn door. This
+53:13 chief allows stacking barn door options
+53:17 like in this picture
+53:19 below.
+53:19 I don't get what the stacking
+53:25 part is.
+53:25 Are we talking about just dual rail?
+53:39 Okay. Um,
+53:39 interesting. So,
+53:47 I mean, I know I could do this and it
+53:49 would be with some little bits of
+53:51 trickery.
+53:51 Um, but if you need them operable and
+53:52 you need one to open and the other one
+53:58 not to, you know, doors have all those
+54:00 extra things that we can do with them.
+54:02 Um, and windows have even more things
+54:02 that you could do with them. And you can
+54:07 always call a window a door,
+54:08 right?
+54:08 Um, so just let's just take a look at a
+54:14 door for instance. Um, well, we'll call
+54:16 it a barn door, but what does a barn
+54:16 door have on it that you can utilize?
+54:22 Um, it has shutters.
+54:22 So what happens when you put a
+54:25 you know right side only shutter
+54:35 and that shutter
+54:37 is
+54:37 like that right? What does that do? It's
+54:44 not not offset from the door.
+54:46 So
+54:46 there you go. Now it's aligned with the
+54:51 casing. I mean, that's faking it right
+54:51 there. And you could still open and shut
+54:55 this thing,
+54:55 right? And then you could specify, you
+55:00 could take this same door. Okay, let's
+55:00 go through the whole thing. Here we go.
+55:07 So, let me open this bad boy up. Let me
+55:09 just say that it's got again, we're
+55:09 doing that same thing, right? and tab
+55:12 and tab tab and tab and tab tab hidden.
+55:22 Tab, tab, none.
+55:22 Tab, tab, none. Right, got nothing left.
+55:29 Casing. Boom. Take it away. Right. Jam.
+55:32 Take it away. Okay. Everything's gone.
+55:36 Now we have that door. Now take that
+55:36 door, convert the selected to symbol.
+55:38 What do we need? Mill work type, right?
+55:43 Shutter as door, door as shutter,
+55:44 whatever.
+55:44 And um I believe this is the correct
+55:50 orientation. That's it. Put a single
+55:52 stretch plane in this. Put a height
+55:52 stretch plane in this. Um, and you want
+55:57 to basically what? Probably the bottom.
+56:00 So, throw it at three. Something like
+56:02 that. Um, there we go. Now, that's a
+56:04 shutter,
+56:04 right? Let me open this bad boy up.
+56:12 And or no, sorry, this bad boy up.
+56:12 And so, what do we want? We want shutter
+56:16 library
+56:16 mill work
+56:18 shutter as door we get
+56:22 and we're doing it on right side only
+56:28 and we are making this
+56:28 28 in and we're doing that casing.
+56:33 Look at that. I mean that's pretty dang
+56:36 close. We could have left the hardware
+56:45 you know. Bam, bam, bam, bam, bam.
+56:45 Throw a little light in here. I should
+56:47 made I should have made a video on this.
+56:55 Open the door up. Look at that.
+57:02 All right. Room molding polyline square
+57:02 footage. I have custom room molding poly
+57:07 lines set up for my bathroom and sure. I
+57:10 want both spaces counted together
+57:10 in total bathroom square footage. But as
+57:16 soon as I disable room definition on the
+57:18 shower walls, the molding poly lines
+57:18 breaks and everything shift. Is there a
+57:21 better workflow to include the shower in
+57:25 the room area? Yeah, I'm going to tell
+57:27 you the better workflow right now.
+57:27 Shameless plug. Let's push this this
+57:30 thing past an hour real quick. I have a
+57:33 suite of tools that are showers that are
+57:38 configurable and they are amazing and
+57:38 they work super lightning fast and guess
+57:45 what? They're built out of cabinets
+57:45 and it just and they're parametrically
+57:48 resizable. They're infinitely adaptable
+57:50 to a bunch of different conditions and I
+57:55 couldn't tell you how easy it is to just
+57:58 modify this stuff on the fly. Modify,
+57:58 you know, this is a corner shower. One
+58:00 shower's got back, you know, one side's
+58:05 got backsplash, etc. Because this is a
+58:07 cabinet, you can resize all these
+58:09 configurations. You can resize
+58:09 everything about this. And so, it just
+58:14 makes it super super fast to do this.
+58:14 And this doesn't count as a room, right?
+58:19 So, just pump in here. It give you like
+58:22 15 different uh styles. And they even
+58:22 have all the capping and stuff like that
+58:26 that you would need for putting stone
+58:26 caps on the walls. split material type
+58:30 so that you could put tile on the
+58:30 outside or not. Have it be drywall on
+58:35 the outside. And I give you all the
+58:38 major configurations
+58:38 that I run into um in the real world.
+58:44 And this just makes life so easy, I'm
+58:44 telling you. Um so yeah, you want your
+58:47 square footage CS, go buy that kit. It's
+58:51 on sale right now. It's Thanksgiving.
+58:54 Um anyways, yeah, there's a bunch of
+58:55 different ways to do that. I think
+58:55 that's just learning more about molding
+59:00 poly lines and and how to set those up
+59:01 correctly. It sounds like the molding
+59:01 was jumping or not displaying. Remember
+59:04 that room, excuse me, walls have molding
+59:08 directives. You maybe didn't need a
+59:08 custom molding polyline in, you know, in
+59:13 the first place. Maybe all you needed to
+59:16 do was draw on a wall wall, paint that
+59:18 wall or put a material region on it or
+59:20 put a backsplash on it and say that
+59:20 those two walls that are going to create
+59:25 your shower room do not have room
+59:27 moldings.
+59:27 Maybe that's what they needed. Who
+59:30 knows? I would need to know more
+59:32 context.
+59:32 But go buy the kit.
+59:35 Pays for itself after like [snorts] one
+59:40 literally one shower. One shower design
+59:42 pays for itself. I'm telling you. Okay.
+59:45 Chief 9.0 installs on Windows 7
+59:47 Professional.
+59:47 Going to load my 9 version on Windows 7.
+59:50 I have it installed on my laptop.
+59:50 Windows 7 worked fine, but my laptop
+59:53 died. I could really use some help. Um,
+59:56 all I would say is they might be able to
+1:00:01 rightclick
+1:00:01 and and run as a previous version of
+1:00:04 Windows. That would be the thing that I
+1:00:09 would think they would need to do. So,
+1:00:10 that should answer that. Oh man, we're
+1:00:13 at an hour. That was about right.
+1:00:13 Working on layout drawings and creating
+1:00:17 elevations. All of a sudden, the
+1:00:19 elevation markers on the plan
+1:00:19 disappears. The elevations on the layout
+1:00:24 page are properly labeled, but there's
+1:00:27 no reference markers on the drawings.
+1:00:27 Been working on Chief for 15 plus years.
+1:00:32 Never experienced this. Checked all
+1:00:34 defaults, no defaults, schedule
+1:00:35 defaults,
+1:00:35 etc. Interesting. um they might just
+1:00:39 want to post a plan as someone said. Um
+1:00:41 if it's that the label is turned off, we
+1:00:46 did get some new settings in more recent
+1:00:48 versions where the label itself could be
+1:00:51 on an object layer or custom layer that
+1:00:53 they may have set up cuz they thought,
+1:00:53 "Oh, that's a new feature that might be
+1:00:55 nice and they may not have realized that
+1:01:00 they put it on a layer that is not set
+1:01:03 up in their default layers." So the
+1:01:04 layer sets. So, that would be my first
+1:01:09 really only response to that without
+1:01:13 more ideas of what's going on.
+1:01:13 Window puzzler. I'm attaching a
+1:01:16 screenshot of part of my foundation for
+1:01:18 this particular plan. The windows on the
+1:01:21 vertical wall and the windows on the
+1:01:24 horizontal wall
+1:01:24 show different orientations.
+1:01:27 Um, and by the way, Ed, sorry, I don't
+1:01:31 mean to beat you up when we're talking
+1:01:33 about this stuff. horizontal vertical.
+1:01:35 Horizontal vertical is a different
+1:01:35 meaning in most of our heads when we're
+1:01:39 doing architecture. This would be, you
+1:01:39 know, plan south wall, plan right wall,
+1:01:46 plan front wall, something like that.
+1:01:46 Vertical horizontal. I was immediately
+1:01:48 thinking about horizontal railing versus
+1:01:53 a vertical wall. I got confused.
+1:01:54 [laughter]
+1:01:54 All right. Double window line occurs on
+1:02:00 the exterior side of the vertical
+1:02:00 foundation wall. or also by the way that
+1:02:04 is really literally what we use
+1:02:04 construction lines for. A B C 1 2 3. Uh
+1:02:15 the double window line occurs on the
+1:02:15 exterior side of the vertical foundation
+1:02:20 wall and on the interior side of the
+1:02:20 horizontal foundation wall. Is there any
+1:02:33 Is there any way to install Windows?
+1:02:38 I would need to know is this a double
+1:02:44 Are they using a furring wall? Cuz in
+1:02:44 that case, they just reverse the layers.
+1:02:52 Um, if you're using a furring wall like
+1:02:53 so,
+1:02:54 right, there is an interior side and an
+1:02:59 exterior side in your general wall
+1:02:59 defaults. You could change what side of
+1:03:04 the wall that these edit handles show up
+1:03:08 on. Mine are set to inner surface
+1:03:10 because remodel workflow. So,
+1:03:10 technically speaking, the left plan left
+1:03:16 is the inner surface of this wall. I
+1:03:16 could reverse these layers and then set
+1:03:19 this to zero. I could then reverse them
+1:03:21 back just because I want the inner side
+1:03:21 to be on the other side. And so if I had
+1:03:27 a window in this, let's just say for
+1:03:27 argument sake that it's not a through
+1:03:29 window, especially because we've got an
+1:03:37 So if I flip this, look, the window
+1:03:37 flips. That would be my response. It's
+1:03:41 probably a furring wall. You probably
+1:03:41 just need to reverse the layers of that
+1:03:43 wall. And then print drivers. When I was
+1:03:47 sending my plans out for printing, I had
+1:03:49 to send them as PDF files. However, the
+1:03:51 PDFs
+1:03:51 printed all the lines at the same black.
+1:03:56 Uh he's using the Adobe Acrobat print
+1:03:56 driver. I would definitely always always
+1:04:01 always always use the Chief Architect
+1:04:01 save as print driver um because you'll
+1:04:05 run into problems with other print
+1:04:05 drivers that were not specifically built
+1:04:09 for Chief Architect. And boom.
+1:04:09 [clears throat] That was the last one.
+1:04:14 Hour and four minutes. I think that's
+1:04:17 about what we've done before.
+1:04:19 Um,
+1:04:19 yeah. I wish I had solved this though.
+1:04:22 I wish I'd figure this out. I don't feel
+1:04:31 Okay.
+1:04:31 So, my only thought here, let's just try
+1:04:35 this. I've still got you. If you're
+1:04:35 sticking around, we're done. We're done.
+1:04:39 You're just hanging around because you
+1:04:39 want to get um beat up by this as well.
+1:04:44 So, I'm going to throw in some more
+1:04:44 blank areas here and see what happens
+1:04:51 when we split this all up.
+1:05:01 easier because then by default uh the
+1:05:05 blanks will follow that one inch,
+1:05:07 right?
+1:05:07 Does that go right above or
+1:05:10 it does not go right above? goes right
+1:05:15 below. Interesting thing that Chief
+1:05:17 chose to
+1:05:17 put it below. Seems strange to me.
+1:05:21 So, inserting something new puts it
+1:05:24 below what you've have selected. Oh,
+1:05:29 yeah. That seems very strange to me.
+1:05:31 So,
+1:05:31 are these areas blank now?
+1:05:34 No. See, there's still a constant fill
+1:05:45 And why is that?
+1:05:45 Because it seems that my symbols are
+1:05:48 wider than the specifications. There's
+1:05:51 still an opening there. Let's add a
+1:05:53 blank
+1:05:53 there.
+1:05:55 So, that is the trick. I need something
+1:06:02 to break up every section in order for
+1:06:02 one of those milwork symbols not to span
+1:06:06 the whole area. that chief does
+1:06:06 something automatic when you have
+1:06:08 neighboring elements and there's no
+1:06:13 nothing to break them in between.
+1:06:17 Chief's going to
+1:06:17 push that mill work shelf all the way
+1:06:22 across. So that's what was happening.
+1:06:32 so with that said, what could we do? So,
+1:06:34 it's almost like we would have to turn
+1:06:34 every blank opening into an opening with
+1:06:45 Does that work? It does not. That does
+1:06:47 not work.
+1:06:47 Has to have a shelf,
+1:06:50 which would tell you something really
+1:06:57 obnoxious. See, when you delete from,
+1:07:00 see, deletes the inverse, too.
+1:07:00 When I delete, it's going to take
+1:07:01 everything below it. Okay, I guess
+1:07:06 that's not inverted.
+1:07:06 So, here's what I'm going to try. I'm
+1:07:19 and get rid of the separation
+1:07:19 and my opening. Look, it's it brings in
+1:07:25 shelves.
+1:07:25 How strange. It brings in shelves for
+1:07:29 half the distance
+1:07:30 even though my opening is only one inch
+1:07:34 wide.
+1:07:34 That's so curious
+1:07:41 why.
+1:07:41 Oh, and it's just ex how interesting.
+1:07:44 Okay, I learned something new just now.
+1:07:49 This is extending past the overall
+1:07:49 depth of something. See the shelves are
+1:07:56 extending past the depth of
+1:07:56 of this symbol. No, no, the shelves are
+1:08:04 just there. Definitely. Interesting.
+1:08:07 Okay. Um, so I'm going to do this
+1:08:10 manual. This shelf one shelf
+1:08:10 facing from that and the thickness is
+1:08:15 116th. And so now what does that look
+1:08:17 like?
+1:08:17 All right. So now that I have that,
+1:08:20 can I start splitting this up and have
+1:08:27 spacing in between?
+1:08:28 Okay, there is a gap there.
+1:08:32 Let me take this one that's one inch.
+1:08:36 Move left.
+1:08:36 Let's make this a lot wider.
+1:08:39 16. And we'll split it a bunch of times.
+1:08:49 Let's
+1:08:49 Let's uh And those are all locked. We
+1:08:51 didn't want them to be locked. Not yet.
+1:08:55 Any Well, actually, I guess I do want
+1:08:55 them to be locked. They're all going to
+1:09:02 be They're all going to be uh one inch.
+1:09:02 Well, if you're sticking with me through
+1:09:05 this, this is a this is a fun little
+1:09:23 Uh, Chief automatically puts a
+1:09:23 separation when you put a new element
+1:09:28 and then
+1:09:30 um
+1:09:30 move this left.
+1:09:32 Okay, I want to split this guy up a
+1:09:42 Grab the big ones. Split it a few more
+1:09:44 time.
+1:09:44 All right. Separations can get deleted.
+1:09:53 Let's equalize everything.
+1:09:53 Let's start shifting these openings
+1:10:08 Um, the openings are the unlocked ones.
+1:10:10 See,
+1:10:10 or the locked one.
+1:10:16 Ran out of some of these openings.
+1:10:17 Interesting.
+1:10:17 Change this to like six
+1:10:21 and it bunched everything together
+1:10:36 Look what it did. It stacked all these
+1:10:44 Boy, this would take me a while to get
+1:10:46 right
+1:10:46 as we can see.
+1:10:50 Something causing these things to stack.
+1:10:58 All right. Well, I guess I'm going to
+1:11:07 Yeah, wasn't the not the greatest
+1:11:07 solution I came up with there. I mean,
+1:11:09 the other thing that we could have done
+1:11:14 here is just made these into drawers.
+1:11:18 No. Yeah, drawers could have been
+1:11:18 drawers. And that's in the case that you
+1:11:22 don't have
+1:11:22 face frames, right?
+1:11:24 Let's just I'll just show you that real
+1:11:30 quick. Okay. So, we have
+1:11:34 we have Where's our
+1:11:50 Oh, there it is. There's our mail work.
+1:11:53 Let's take this convert it to drawer
+1:12:03 Um, that is the correct
+1:12:03 is the correct direction, but we need
+1:12:05 the offset. So, the depth needs to get
+1:12:09 put into the 3D panels positive Y
+1:12:10 direction. So, that that's the front
+1:12:16 face there. I believe I believe.
+1:12:17 And let's start with a brand new
+1:12:20 cabinet.
+1:12:27 this upper section. Lower section
+1:12:35 Let's just apply our new
+1:12:43 Right. Cabinet door. Drawer main thing.
+1:12:47 There we go. Um, say that it has no
+1:12:54 Cool. Front sides back. And then we get
+1:12:57 to split this up a bunch and percent
+1:13:01 open 50%. Sure. Split vertical.
+1:13:09 Yeah,
+1:13:09 vertical. And so now I would probably
+1:13:13 make this inset.
+1:13:29 And let's set some of these to only 30%
+1:13:31 open,
+1:13:31 20% open,
+1:13:33 and show them open.
+1:13:40 My drawer default cabinet blah blah
+1:13:41 blah.
+1:13:41 Show them open. And we said show them
+1:13:47 open.
+1:13:47 Show those drawers and drawers open. Why
+1:13:53 are they not What did I do? Drawer.
+1:13:53 There's a drawer. Oh man, this thing's
+1:13:58 just going to fight me today. Huh?
+1:13:58 I have It says show open. Wait, what
+1:14:03 happens if we uncheck it? Is that
+1:14:06 drastically offset? No. Okay. So,
+1:14:06 something I might have to do is let's
+1:14:11 open this object
+1:14:11 and in the advanced sizing, uncheck
+1:14:14 update. That checks this guy. And then
+1:14:18 we're going to say that the overall
+1:14:21 depth of this is 7/8 of an inch.
+1:14:22 And let me replace in an object scoping
+1:14:28 mode all these guys. And then do we get
+1:14:30 to open these drawers up now? There we
+1:14:32 go.
+1:14:32 So we needed to trick Chief into
+1:14:34 thinking that this was only a 7/8 inch
+1:14:40 door for it to open like this.
+1:14:40 And just for testing purposes, let's get
+1:14:45 to this one.
+1:14:45 say it's open 100%.
+1:14:48 So, we can see it in all its glory.
+1:14:53 There it is.
+1:14:53 Good job, team. If you stayed this long,
+1:14:59 that's very cool. Uh, as promised, right
+1:15:03 now, I'm going to show you some links to

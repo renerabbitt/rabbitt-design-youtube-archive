@@ -1,0 +1,294 @@
+---
+videoId: UcbpqEqcRJM
+title: Custom Shower Tile Layouts in your modeling software-Chief Architect and Photoshop
+url: "https://www.youtube.com/watch?v=UcbpqEqcRJM"
+status: imported
+---
+
+# Transcript
+
+0:02 in this video we're going to utilize
+0:02 photoshop and chief architect to create
+0:07 a custom shower surround with custom
+0:09 laid tile
+0:09 now you can see here in chief architect
+0:14 i've got three material ids left back
+0:16 and right and then in photoshop i'm
+0:17 going to
+0:17 take a tile pattern that i've created
+0:19 now this is a seamless texture i've got
+0:23 three textures here
+0:23 i've got a roughness map a bump map and
+0:29 then my diffuse map
+0:29 and if you just hit control all
+0:32 control a excuse me to select everything
+0:35 here
+0:35 i can then get into my edit menu and get
+0:39 down to define pattern now i've already
+0:42 done this this is already added to my
+0:44 pattern library within photoshop the
+0:47 next thing i need to do is create
+0:48 a
+0:48 photoshop document where i have some
+0:52 slices built in
+0:52 so that i am exporting
+0:54 three different materials
+0:56 for a shower surround i'll show you how
+0:58 to do this i'm going to hit control n on
+1:01 my keyboard and of course you can always
+1:02 see my quick keys down at the bottom
+1:04 here on the keyboard and mouse
+1:04 if you slow down the video or pause you
+1:06 can see exactly what buttons i'm hitting
+1:10 so i'm only going to mention them a few
+1:11 times
+1:11 so i created a custom document here and
+1:14 you can set the resolution to anything
+1:14 up to 72 pixels per inch or ppi anything
+1:20 over that is going to be a really large
+1:23 document and then i change from pixels
+1:23 to inches and then set my width based on
+1:27 a 32 inch
+1:27 side shower
+1:29 backsplash if you will
+1:31 and a 60 inch back it's kind of a narrow
+1:37 depth shower and then i've got an 80
+1:37 inch height all i need to do is create
+1:41 this document then next thing is in my
+1:41 view i'm going to hit new guide type in
+1:48 that 32 inch leg and then one more time
+1:50 new guide and it's going to be that 32
+1:53 plus the 60 inch back
+1:53 and we've got our next section here
+1:58 from here i've got the slice tool
+1:59 enabled
+1:59 simply need to just
+2:01 get close to my guide drag it down get
+2:04 close to the other guide and it's going
+2:08 to create three slices you can see here
+2:10 if i zoom in slice number three
+2:10 slice number two and then slice number
+2:14 one
+2:14 back in my template document i've got
+2:16 several folders set up diffuse pump and
+2:21 roughness
+2:21 all i did here was add a pattern file
+2:24 from there pattern comes up i can drop
+2:29 it down and select
+2:29 the patterns that i created
+2:31 from that other document you can set the
+2:38 and of course you can always double
+2:38 click into that pattern and make any
+2:42 edits that you need to
+2:42 so here's my second pattern it'll go
+2:49 this first item is roughness we're gonna
+2:51 see in here if i get in really close
+2:52 we've got a couple different extra
+2:55 layers here those layers represent
+2:58 one an outside metal edge
+2:58 which i can set the color of dynamically
+3:02 i just double click on this i can change
+3:04 it to red as you can see i'm going to
+3:05 hit cancel
+3:05 and then i've got a grout line same
+3:06 thing it's a solid color i can of course
+3:12 make this any color i need to i'm going
+3:12 to go ahead and hit cancel again so that
+3:16 represents my grout line and my metal
+3:16 edge in the roughness map so i'm going
+3:20 to make this
+3:20 metal material
+3:22 somewhat shiny by making it a dark gray
+3:29 so from here ctrl alt
+3:31 shift s
+3:31 alt shift s it's going to give me this
+3:36 legacy dialog for save for web
+3:36 i did not limit my image size so i've
+3:39 got a really high resolution image let
+3:43 me go ahead and set this to 20
+3:43 and then i want to make sure that the
+3:44 preset that i'm using is jpeg and if i
+3:50 alt and scroll wheel out
+3:50 i want to marquee select this so that
+3:52 i'm making sure everything is selected
+3:56 which means everything will export
+3:58 underneath this profile
+3:58 let me hit save i'm going to locate
+4:03 where i need to save this at
+4:03 and then i'm going to choose one of the
+4:07 existing names here
+4:07 i'm going to use this diffuse white
+4:09 press save it's going to dump this into
+4:14 that images folder
+4:14 i'll enable my bump map here's that bump
+4:21 same thing ctrl shift s
+4:21 i also want to limit this down to 20
+4:24 percent
+4:24 you won't have to do this if you
+4:26 followed a ppi of something like 15 or
+4:29 so when you first created your document
+4:35 and scrolling out making sure that i
+4:35 have the full document selected hitting
+4:38 save
+4:38 and then i can pick that bump name now
+4:42 it won't overwrite this material what
+4:42 it's going to do is because we've got a
+4:46 split document it's going to save it
+4:48 into images here so i'm not worried
+4:48 about my base material i can still use
+4:53 that base material on other parts or
+4:53 other walls say i've got a pony wall or
+4:58 something like that in the shower
+4:58 last thing is i'm going to go ahead and
+5:02 select this pattern ctrl j to duplicate
+5:04 it bring it up into the diffuse stack
+5:06 double click it
+5:06 and then click this drop down and select
+5:10 my diffuse pattern
+5:10 it already retains that 300 percent i'm
+5:14 going to turn on this
+5:14 grouping you can see here there's my
+5:17 grouping i'm going to do one extra thing
+5:21 i'm going to ctrl j to duplicate that
+5:22 bump pattern i'm going to bring it at
+5:24 the front of this stack and then i'm
+5:24 actually going to rasterize this layer
+5:29 by right clicking
+5:31 rasterize layer
+5:31 now i've got a black and white image
+5:35 from here i actually want to paint a
+5:35 couple things into this image i'm going
+5:39 to use the paint bucket tool i'm only
+5:41 doing this to illustrate the power of
+5:44 this particular workflow
+5:44 so i'm going to put paint within a
+5:46 couple of
+5:46 sections of tile here
+5:52 just for the purpose of showing what
+5:55 this looks like in the final product
+5:57 maybe i'll even drop this color down
+5:57 just a little bit and i'll even paint
+6:06 the purpose of this is to show you that
+6:09 you can in fact make some very complex
+6:11 documents especially if i put maybe a
+6:13 layer mask on the top here i'll just
+6:13 show you what that looks like real quick
+6:17 in just a second i'm going to double
+6:18 click this
+6:18 bump map and then i'm going to use the
+6:22 ben blend if tool to
+6:29 the pink section only
+6:29 and then we'll reveal the section below
+6:35 there we go just like that
+6:35 and i might do a little bit of blending
+6:39 there there we go
+6:39 from here i can make these two a group
+6:43 if i want to and then ctrl j to copy
+6:45 that group and then i can actually
+6:48 merge this group and make it
+6:58 from here i can export just like the
+7:00 same way that i exported those other
+7:02 options i can of course
+7:08 or in fact i'll drop this out i'm going
+7:09 to change this pattern file here i'm
+7:10 going to bring this grouping on top of
+7:11 the other grouping and then a change i'm
+7:15 going to make this part disappear and
+7:17 i'm going to change this pattern file
+7:18 and we're going to change it to that
+7:18 bump map or maybe even this map right
+7:21 here just to give you an example of what
+7:24 we can do with this
+7:24 now i'm going to utilize my mask so i'm
+7:28 going to make a selection here and make
+7:31 the
+7:31 lower section blank out from a layer
+7:33 mask just by paint bucket tool and then
+7:40 painting in black into this now you can
+7:42 see here we've got two different
+7:42 sections of tile this is a great way for
+7:46 us to essentially make some very complex
+7:49 tile patterns on our shower
+7:49 i'm not going to actually export it with
+7:52 this look this is a little funny but
+7:52 just illustrating that we can do some
+7:56 very comp complicated things within
+7:59 photoshop for our tile
+7:59 i'm going to go ahead and turn off this
+8:01 group
+8:02 and deselect everything and ctrl alt
+8:06 shift s to export
+8:06 same thing limit this to 20
+8:09 now i could change this and leave this
+8:11 at 91 which would make it a large image
+8:16 file and it would still line up with my
+8:18 other image files being utilized for
+8:20 bump metal etc so if you wanted some
+8:20 more detail in just your color map or
+8:25 maybe you wanted a lot more detail in
+8:27 just your metal map which can be
+8:27 complicated at times then you could
+8:29 leave the resolution up on just one of
+8:31 these images sets of images i should say
+8:38 let me say this this is going to be our
+8:44 oh and we have to replace it because i
+8:46 made a mistake earlier and this is
+8:48 simple enough to fix
+8:48 all we need to do here is this bottom
+8:52 section here which was the roughness
+8:54 i can hit control
+8:54 excuse me alt and it will only display
+8:58 this section
+8:58 and then export this
+9:04 i needed to rename this roughness let's
+9:05 actually look take a look at our folder
+9:06 here
+9:06 what images we have we have bump and
+9:10 white we don't actually have our
+9:27 now we can switch back over to chief
+9:27 architect and the last part of this is
+9:29 pretty easy all we need to do is set our
+9:38 in the texture file let's locate this
+9:45 i need to enable stretch to fit that's
+9:55 and of course our roughness
+10:01 that's just one side we're gonna have to
+10:05 do this again for that back section
+10:05 we're in this panel let's go ahead and
+10:21 and bump
+10:21 and then stretch to fit
+10:36 now this particular tile i might switch
+10:38 my metal map and actually put it into
+10:39 the roughness channel could be
+10:53 now we can see here
+10:53 we've got a perfect offset here what
+10:55 looks like a grout line we could change
+10:57 the color of the grout line to match the
+11:06 it's actually just a perfect layout
+11:08 there
+11:08 take a look at this in pbr
+11:19 now that we have this shower surround we
+11:21 can actually save the shower surround we
+11:23 can group it into an architectural block
+11:26 we can save our pattern files we can
+11:26 also save our photoshop template file
+11:30 for shower surrounds and it would be
+11:32 very very quick oh and save our
+11:32 materials here and be very quick to just
+11:37 duplicate the material
+11:37 using our component base
+11:41 right
+11:41 or just replacing the material
+11:43 and making a whole new surround really
+11:46 quickly all we need to do is get back on
+11:50 that photoshop change our pattern files
+11:50 around re-export now that it's all built
+11:54 this can all be done within five minutes
+11:56 and you can have a very custom style
+12:04 hope you guys enjoyed this video as
+12:05 always
+12:05 please subscribe please drop in some
+12:07 comments happy to hear them if you want
+12:11 some more information you can always
+12:12 reach me through youtube through our
+12:15 website rabbitdesign.net
+12:15 or you can also get to us through our

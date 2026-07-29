@@ -1,0 +1,127 @@
+---
+videoId: b8FEok5Zcco
+title: Automatic Corbels Chief Architect X15- Video 1 of 2
+url: "https://www.youtube.com/watch?v=b8FEok5Zcco"
+status: imported
+---
+
+# Transcript
+
+0:02 VIP let me start that
+0:04 over
+0:07 VIP
+0:09 um I don't like placing corals I'm sure
+0:12 you don't either I was wondering if we
+0:15 could come up with something
+0:16 cool to just do
+0:19 corales in an easier
+0:24 way so let's try it might fail I'll I'll
+0:28 post this anyways right who
+0:31 cares um I'm thinking that I might be
+0:35 able to break an
+0:39 edge break an edge of a roof plane and
+0:44 put a coral on a shadow
+0:46 board that makes any
+0:48 sense so here we go I'm going to copy
+0:52 something and then I messed up my paste
+0:55 key so I learned this one this one's
+0:56 kind of fun uh for PC users it's just
+0:59 all e PP Alti
+1:03 PP uh I don't know why I like that one
+1:05 that one's funny says PP in
+1:08 it um all right so we know this is a one
+1:13 one and
+1:14 12 we don't know that this is an actual
+1:17 1 in 12 reference
+1:18 marker um but I do know that my overhang
+1:25 is 16
+1:28 in is it 16 in
+1:32 yeah it's 16 in so I know from this
+1:34 point to this point it's 16 in okay so
+1:39 let's just scale it based on
+1:45 that going to make it much smaller and
+1:48 then let's draw this out um now I'm
+1:53 thinking we can make this a 3D
+1:56 detail we obviously are not going to get
+1:58 the beam in there unfortunately
+2:03 right I don't know what just happened I
+2:05 lost my driver for a second hopefully
+2:07 we're still
+2:14 recording new version of OBS has been
+2:19 problematic say the least let's see
+2:22 that's my recording
+2:28 software maybe I'll check real quick in
+2:31 just a second all right so here's our
+2:35 profile oops we got one little goof up
+2:38 here let me make sure we're recording
+2:40 still oh I lost my webcam is that what
+2:44 happened yeah
+2:49 funny let's try that
+2:52 again
+2:55 webcam um
+2:57 okay I think we're still going
+3:03 so here we go here's my profile convert
+3:07 it 3D
+3:10 solid let's call it five and a
+3:16 half and let's rotate
+3:20 it uh what this way no this way yes and
+3:27 let's rotate it this way
+3:30 all right there it
+3:31 is now from
+3:36 here wherever that just ended
+3:39 up can't even see it so let's just move
+3:41 it 12 Ines to the right there it is from
+3:46 here let's convert this into a
+3:51 molding and call it
+3:54 corable
+3:57 actually yeah it's a mold
+4:06 hopefully this looks wider than it
+4:08 should be why is it so wide we did five
+4:11 and a half okay maybe it needs to be
+4:13 three and a
+4:22 half okay cor 3.5
+4:26 so here's the test it should be an easy
+4:28 test should just be a quick simple
+4:30 little thing here's my roofs and there's
+4:34 a coral and can I break this
+4:39 here and
+4:43 here and then just say that there's a
+4:45 coral on this
+4:47 Edge um that there's an additional
+4:50 Shadow board
+4:58 right so so what's it showing us in the
+5:01 preview it's showing us linear left to
+5:04 right repeat distance we don't want it
+5:07 to be three and a
+5:08 half not really we want it to be I don't
+5:12 know 60 Ines or
+5:18 something EV only and we're going to
+5:22 have to turn it off on certain edges
+5:24 let's just see what happens what does
+5:26 this even
+5:27 do okay
+5:32 so this
+5:33 Edge I don't want to
+5:36 simplify we're going to say
+5:39 that here's the problem we can't turn
+5:42 off an
+5:43 individual Shadow board right we have to
+5:47 turn them all
+5:48 off so we're going to miss my drip edge
+5:52 so it could do it with gutters Maybe
+6:10 I mean look at that
+6:12 though right that actually
+6:15 works
+6:17 um minus the drip edge I'd have to get
+6:19 rid of that
+6:21 detail but that actually works now
+6:29 profile and the offset you'd have to
+6:31 work
+6:37 out is that the same shape let me just
+6:40 I'm looking at the library
+6:45 now it's the same shape it's
+6:49 correct the size of it's probably
+6:54 incorrect I don't know there's something
+6:57 there check it out try it out see what
+6:59 you think curious to to
+7:02 see yeah come back to me with it

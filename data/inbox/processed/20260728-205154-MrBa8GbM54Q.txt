@@ -1,0 +1,208 @@
+Title: Operable Windows in Chief Architect X-14 Using Doors!
+URL: https://www.youtube.com/watch?v=MrBa8GbM54Q
+Visibility: public
+
+0:04 operable windows available for
+0:04 purchase on rabbit design shop go to
+0:09 wrapdesign.net
+0:09 find these items in the shop section
+0:14 so we have two windows here they're
+0:17 going to be a casement window and a
+0:17 sliding window drop in a couple casement
+0:21 windows just take a look at what happens
+0:26 sliding window as well now keep in mind
+0:29 these windows are built from doors this
+0:32 is a very specific
+0:32 parameter of these windows they are
+0:34 built from door symbols so that if you
+0:40 open them up on a component level
+0:40 there are in fact going to be doors now
+0:44 they do report to windows so when we
+0:44 look in our plan view you're going to
+0:46 see that it's got a window label here so
+0:50 by default they do report to a windows
+0:52 schedule but there are some graphical
+0:54 issues here if you do in fact want to
+0:57 use these in the plan view
+0:57 it will show the operable window as it
+1:02 would if it were a door
+1:02 double french door in this case
+1:05 so because of that fact because these
+1:09 aren't a perfect solution to adding
+1:09 operable windows to your architect land
+1:15 price is indicative of that
+1:15 that's shortcoming unfortunately there's
+1:19 no way around it so
+1:19 that's kind of inherent in this
+1:21 particular symbol is if you want the
+1:23 look of an operable window or door you
+1:26 are going to have to do
+1:26 patience of that in plain view
+1:34 now let's take a look at a couple of the
+1:37 features of this and now there are a
+1:37 couple of exclusions as well in terms of
+1:42 features when you are using a or symbol
+1:43 versus a window
+1:44 namely that we can't have a window
+1:46 treatment in terms of like a blinds or
+1:48 something like that and we're using the
+1:55 shutter on the door to create a frame
+1:55 for the window itself and the frame is
+1:59 meant to be modeled in fact it's being
+2:02 uh it's using the anderson windows cad
+2:02 frame to create the frame here out of a
+2:05 shutter that is placed with a particular
+2:09 offset and there's a problem with that
+2:11 on the sliding window part
+2:11 that takes a little bit of user input to
+2:15 get to look correctly
+2:15 for the casement window the placement
+2:19 window works wonderfully right out of
+2:21 the box the only thing i would say is
+2:21 it doesn't work well with a mold window
+2:26 because we get an error with those
+2:27 shutters
+2:27 being mold so
+2:28 it's nice if you just place one window
+2:32 next to the other
+2:33 and
+2:33 if you shrink these down to a certain
+2:35 size they will automatically switch to a
+2:39 single casement window so that you can
+2:40 get a
+2:40 double casement window that has a
+2:42 divider in between if you reflect some
+2:46 of these about
+2:46 themselves right so if i select this
+2:48 right window and then reflected about
+2:52 center now i have a double casement
+2:54 with the division in between
+2:54 otherwise i can get rid of the second
+2:58 window and then open this up
+2:58 and you can see one panel is fixed one
+3:00 panel is operable you can change this in
+3:05 your options panel we're just going to
+3:05 get into the door swings section and we
+3:10 can go to board both doors swing again
+3:13 this is a door symbol so
+3:13 you can open this up and also change the
+3:18 percentage that is open so we can change
+3:20 that swing angle maybe it's a 35 degree
+3:23 swing angle you can see
+3:23 the likeness of these windows kind of
+3:27 closed down a little bit
+3:28 over here with the sliding window now
+3:32 all these are parametrically resized
+3:32 appropriately so you can resize this to
+3:37 your liking again you can open this up
+3:40 and change the percentage open
+3:40 it's just to 86 percent you're going to
+3:44 see it's more open than it was before
+3:45 look at this on the interior and
+3:45 exterior we can see both of these
+3:49 interior exterior got a few nice
+3:49 textures that come along with them as
+3:55 and then of course you can modify your
+3:55 casing as need be um these come you know
+3:59 pre-installed with a particular casing
+3:59 on them but it's easy to swap this from
+4:04 the library especially in x-14 which is
+4:06 what these symbols are built out of so
+4:08 these really are nice looking symbols
+4:08 you can see stashes on these symbols are
+4:13 straight from the anderson catalog so
+4:16 look very nice in that aspect as well
+4:16 now some of the issues that come up with
+4:21 the sliding window this is why i include
+4:23 all of the components that comprise
+4:30 is that here we've got a 2x6 exterior
+4:33 wall so what i needed to do was
+4:33 um in my window components dialog i'm
+4:37 going to look for
+4:38 my rabs anderson slider frame as a
+4:41 shutter and what i would have to do is i
+4:44 might need to duplicate this or i could
+4:44 just modify this on the fly and what i'm
+4:48 going to be modifying is i'm going to be
+4:52 coming into the open symbol dialog
+4:53 and
+4:53 this is built on a 2x4 wall assembly so
+4:58 you're going to see that
+4:58 out of the box it's going to have a
+5:00 certain dimension here you're going to
+5:04 need to add the difference between
+5:04 the wall assembly it was built for and
+5:05 the wall assembly that you're placing it
+5:10 in in the y position origin offset in
+5:13 order to get that
+5:13 to get that frame to offset correctly
+5:19 you can see here the slider is placed
+5:19 based on the center line of that wall so
+5:24 we're needing to offset based on the
+5:26 center line of that wall so that's
+5:26 something that you have to kind of play
+5:29 with in order to get to look correct so
+5:31 it takes a little bit of user input and
+5:33 again price is indicative of these uh
+5:35 challenges
+5:35 that spider itself takes a little bit
+5:38 easier input to get that
+5:38 frame offset what you're going to see
+5:41 here is i'm going to go and open this
+5:41 symbol again and i'm going to revert it
+5:45 back to its original which was if i go
+5:45 in the sizing tab and check take a look
+5:48 at the depth i'm going to copy this
+5:48 depth bring it over to the offset paste
+5:53 it in the offset
+5:53 11 13 16 and then when i go and hover
+5:57 over this frame you can see we get that
+5:59 replacement icon so i'm going to replace
+6:04 that and you're going to see that the
+6:07 offset did in fact affect the look of
+6:09 this window right so that all of a
+6:09 sudden our sliding door is outside of
+6:13 that frame so
+6:13 you need to go in here make sure i know
+6:18 what size this wall is take a look at
+6:18 this other plan where we knew what the
+6:22 size this wall was the thickness was
+6:23 five and an eighth
+6:23 when we come into this next plan and we
+6:27 take a look at the thickness of this
+6:32 thickness of this wall is seven and nine
+6:35 sixteenths but really the thickness of
+6:37 this wall is the main layer change and
+6:40 the main layer change was 2 inches so
+6:42 see what happens when i just add 2
+6:44 inches
+6:44 to our offset or rather i'm going to
+6:49 subtracting
+6:49 when i subtract those two inches from
+6:56 you're going to see that that slider now
+6:58 looks appropriate
+6:58 there we go so really it's the main
+7:00 layer size change that you might need to
+7:04 do in this symbol
+7:06 other than that
+7:06 these behave as they should you're going
+7:10 to see this in the preview of the
+7:12 purchase dialog there is
+7:12 a nice little rendering where we go into
+7:16 pbr ray trace view and get a shot of
+7:18 what these windows look like
+7:19 they're really
+7:20 pretty as dynamic as i can make these
+7:23 symbols
+7:23 that's what i was shooting for did a lot
+7:28 of a lot of checking on these a lot of
+7:30 lining up a lot of a lot of little
+7:30 tweaks to get them to look and feel as
+7:34 best as i could so
+7:34 i think that they really perform well
+7:35 and i think that they really look sharp
+7:39 in a plan nice to have a few open
+7:39 windows to kind of break the scene up
+7:42 make it look a little bit more realistic
+7:45 to catch light in the right way
+7:45 they really do look sharp so there you

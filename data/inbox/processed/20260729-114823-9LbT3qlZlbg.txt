@@ -1,0 +1,1291 @@
+Title: Joining Multiple Plans Together in Chief Architect. Multifamily
+URL: https://www.youtube.com/watch?v=9LbT3qlZlbg
+Visibility: public
+
+0:09 hey live video started
+0:11 okay we're back
+0:11 and this time this time this is a new
+0:15 one for me
+0:15 um i've never had to do this
+0:17 i'll be grouping together multiple plans
+0:21 into one plan
+0:21 this is um this is multi-family so a
+0:25 little bit different a little bit
+0:25 different than usual i'm in the comments
+0:29 section
+0:29 i'm here so if you guys
+0:31 want to chat with me ask some questions
+0:34 absolutely
+0:34 now i've never done this before but i'm
+0:36 really confident in my abilities in this
+0:40 software so we're going to go through as
+0:42 i would go through for a first time
+0:42 setting this up and accomplishing the
+0:45 task which is that i have multiple
+0:45 designs across multiple plan files that
+0:47 need to be grouped together because it's
+0:50 multi-family
+0:50 we have a four unit multi-family
+0:53 and we have two center units and two
+0:56 outside units so not only do we need to
+1:00 um
+1:00 flip these units
+1:02 across the center section of the main
+1:05 building but we're also going to have to
+1:08 do some rotating now too
+1:08 i haven't looked at these plans i don't
+1:12 know what they look like so i'm seeing
+1:14 this for the first time and what i'm
+1:14 seeing already is that i have a garage
+1:16 on this side my assumption then is going
+1:20 to be that i need to rotate this plan so
+1:22 we'll start there we'll start with just
+1:25 prepping the one plan file
+1:25 to be incorporated into a master plan
+1:28 and not only am i incorporating it into
+1:32 a master plan but i'm using my template
+1:35 plan so i want to import this person's
+1:36 plan into my template plan because i'm
+1:39 going to be doing a lot of the work
+1:39 so here we go i need to rotate this unit
+1:43 that's a simple process but before i get
+1:46 to that i kind of want to find
+1:46 the center of this plan there's a couple
+1:50 things that i want to make sure that i'm
+1:52 establishing here which is that if my
+1:55 client wants to update the design
+1:55 they can do this on a unit by unit basis
+2:00 and then i need a mode of approach to
+2:00 bring this into the master plan where we
+2:04 have all these designs incorporated
+2:04 together just in case they want to use
+2:09 an individual plan so
+2:11 um
+2:11 with that in mind i kind of want to pick
+2:17 a center point to rotate this about
+2:19 so i'm going to do
+2:19 just an easy method for me i'm going to
+2:22 draw a cad
+2:22 polyline across this whole thing and
+2:26 then pick that center
+2:26 and just grab a couple
+2:28 reference lines based on that cad and
+2:35 this point which i have i'm going to be
+2:37 using some of my hotkeys because i've
+2:37 set up new hotkeys and i want to start
+2:41 getting used to them so i'll try to
+2:41 explain what i'm doing as i'm doing it
+2:45 but you might not always see what i'm
+2:47 clicking so i'll have to explain what
+2:50 i'm clicking as i go so i place the
+2:52 point in the center of this plan
+2:52 and then what i want to do is i want to
+2:56 edit area
+2:56 so i'm going to get into my edit edit
+3:00 area and you can see here i've got a
+3:02 sequential hotkey so
+3:02 and i need to get used to this eaaf so
+3:05 there we go we've switched to that tool
+3:09 where i get to edit this area and i can
+3:10 rotate this plan
+3:10 now i could use this edit handle rota
+3:13 over here but i'm actually going to get
+3:17 into my edit menu and choose my
+3:17 transform replicate and then choose
+3:22 i think i need to rotate this 270
+3:27 let me check on a few things make sure i
+3:29 did that properly there we go i've got
+3:31 the garage in the front
+3:31 of this setup so my plan north
+3:34 is up here it's away from that garage
+3:38 i'm going to have all garages in the
+3:38 master plan lined up on the bottom here
+3:43 now there's another aspect of this plan
+3:46 that's important this is my center plan
+3:46 so there's two of these in the center of
+3:49 this multi-family
+3:49 and i happen to know that i need to
+3:51 establish some party walls some party
+3:55 walls that need to
+3:56 by code
+3:56 be replaced in these outside wall
+3:59 sections this person when they drew this
+4:04 out just used the default exterior walls
+4:05 that they had set up so i have some
+4:05 party walls set up that are specific to
+4:09 this project
+4:09 in my user catalog
+4:11 and i can just search walls but i'm just
+4:14 going to drill down through so you can
+4:17 see where i keep these things
+4:17 and i called this an interior wall
+4:21 debate there
+4:21 but here we go here's my party wall
+4:24 now
+4:24 a couple things before i draw this wall
+4:28 out to replace this existing wall i
+4:30 happen to know that this wall
+4:30 is not the same size as the existing
+4:32 wall actually quite a bit smaller so i
+4:34 want to draw this out and i want to pick
+4:39 one detail about this which is
+4:39 when i make a selection on this wall i
+4:45 want to note where the main layer hits
+4:47 and i'll show you why
+4:47 i'm going to just draw out a cad line i
+4:51 hit l drawing out a cad line i'm going
+4:52 to tab
+4:52 and see what this dimension is i'm going
+4:54 to copy it
+4:54 okay hit cancel that's fine that deletes
+4:58 that line
+4:58 i know that this main wall layer is
+5:01 offset so when i select this wall it's
+5:06 offset four inches
+5:07 okay
+5:07 the reason that might be interesting is
+5:11 right here i'll show you
+5:11 i'm going to draw a cad box
+5:16 polyline
+5:16 box and it's going to snap to the inside
+5:23 and i mean that's
+5:23 that's only so interesting but here's
+5:26 the point i'm going to then drag this
+5:28 out
+5:29 tab
+5:29 oranges
+5:31 now let me try that again
+5:32 we'll do it a little bit more
+5:33 efficiently we're going to hold c hold c
+5:39 oops see that's not work concentric's
+5:41 not working for me sometimes this
+5:43 happens and i need to reset
+5:44 my computer
+5:44 okay so i'm gonna drag this out hit tab
+5:52 time third time's the charge tab four
+5:54 inches
+5:54 same thing yeah
+5:59 okay
+5:59 now that i have that set in place i feel
+6:06 comfortable redrawing this party wall
+6:08 the point of that is that i can now
+6:11 bring this in and snap it to that
+6:13 poly line that i just drew
+6:13 same thing i've got this party wall
+6:16 draw this replace what i've got existing
+6:21 and then snap it to that same
+6:22 place okay
+6:22 now i know those are aligned on the
+6:24 interior side that's a great thing to
+6:28 note
+6:28 next thing i want to do is and i can use
+6:32 my wall tool um
+6:34 very well tool
+6:35 and
+6:35 i can even do an intersected selection
+6:41 change that
+6:41 and then i'm going to
+6:43 shift select in between here and select
+6:46 those two outside walls it's just a
+6:46 quick way of doing it if i remember my
+6:50 hot keys and i go quickly
+6:50 control c and then i want to go up a
+6:55 level up floor okay
+6:55 from here there's no wall there's no
+6:57 windows in these walls so i don't have
+7:00 to worry about preserving windows that
+7:02 have been designed in all i need to do
+7:05 is control alt v place hold in place i
+7:05 can go up another floor level same thing
+7:09 i'm going to go down a couple floor
+7:11 levels
+7:11 and then do that do that same thing ctrl
+7:16 alt v and i need to manually drag these
+7:18 back
+7:18 i'm not changing this exterior wall on
+7:22 the front you know plan south or plan
+7:23 north
+7:23 those remain intact so there we have it
+7:27 i have
+7:28 um
+7:28 i have this pretty much set up to drag
+7:30 this into a new plan so i'll hit ctrl n
+7:34 to get into a new plan control tab to
+7:37 get back to my previous tab
+7:37 and maybe i want to do that edit area
+7:41 again
+7:41 e-a-a-f edit area all floors
+7:45 that's the hotkey i set up for it
+7:48 control c
+7:49 roll tab
+7:49 control alt v
+7:54 and what does this tell me default
+7:54 ceiling elevation it's also going to
+7:58 tell me default floor elevation
+7:58 doesn't match the plan that we had
+8:00 before right and there's another issue
+8:04 that's going to happen here
+8:04 i have four floors in this plan
+8:10 we get all four floors that's going to
+8:12 be the big question so ctrl tab to get
+8:13 back to this previous tab we notice
+8:13 we're on floor one i believe if we had
+8:19 copied this from from say floor 3
+8:22 the floors do not
+8:22 establish themselves in the same way
+8:24 when you bring it into a new plan we can
+8:30 try that ctrl n new plan control tab
+8:33 and i have an edit
+8:33 i'm going to do it again
+8:36 eaaf
+8:36 to remember that there we go
+8:38 i'm going to copy from floor three take
+8:44 it into this new plan control alt v
+8:44 and see what happens we'll get that same
+8:47 error
+8:48 and then how many floors do i get i do
+8:51 get all four floors so that's good we
+8:53 kind of prove that control w to close
+8:56 i'm not going to save
+8:56 so here we are i'm back i have my new
+8:59 plan set up
+8:59 i have this in place
+9:01 i actually want to back up a level i
+9:03 want to place this exact and i want to
+9:07 do it while i still had my selection
+9:09 enabled so i'm going to control z to
+9:11 back out one time
+9:11 and i'm going to control v
+9:13 no alt this time i have a habit of
+9:18 always doing alt v
+9:18 and now that i have this
+9:20 i want to place this based on
+9:26 a center marker here
+9:28 i want to snap this
+9:28 i'm going to take my snap tool i'm going
+9:31 to pick up that you can see my inference
+9:34 snaps go from
+9:36 being that um
+9:36 edge snap to being that middle snap
+9:39 right there
+9:39 i can snap it to the center of my screen
+9:42 here
+9:42 now i have this aligned right where i
+9:44 want it to be now check this out we're
+9:49 going to go back to this plan
+9:49 and i could do a couple things here
+9:53 i could just use
+9:53 the edit area and try to invert this but
+9:57 i don't think that's a great idea so
+9:59 instead
+9:59 i'm going to go to my tools reverse plan
+10:05 that's a really easy method now i might
+10:08 want to save this as center dash 2
+10:08 in my plan files that might be a thing i
+10:13 should do
+10:13 another thing that i didn't do before i
+10:18 brought things over was i didn't rotate
+10:18 my labels and it would have been helpful
+10:21 to do that considering i'm gonna have to
+10:24 go through and do that again
+10:27 now into that new template
+10:27 so a few things to consider before you
+10:31 bring this stuff over
+10:31 i know that their settings sometimes
+10:36 auto rotate on text
+10:36 and sometimes that's really helpful i'll
+10:39 show you a couple different methods but
+10:39 the main one that i'm going to do is i'm
+10:42 going to delete my room labels
+10:45 and then bring them back in
+10:46 so
+10:46 now i have this
+10:50 room flipped
+10:50 area all floors
+10:54 grab this again
+10:55 copy it
+10:55 control tab
+10:58 ctrl v
+10:58 place it over here somewhere
+11:04 uncheck this so it quits showing me all
+11:06 this detail there okay
+11:08 and then i can do my
+11:14 snap it right here
+11:14 what happened there what did i do wrong
+11:18 did something wrong huh
+11:37 so let's get that point to point again i
+11:38 want to make sure i'm snapping on that
+11:40 outside surface
+11:46 there we go now we're set up look at
+11:47 that
+11:47 beautiful
+11:50 so next up let's get to
+11:55 my folder here
+11:55 and in here we're gonna find keep in
+11:59 mind i always keep the original so
+12:02 here's the original from my client
+12:03 here's my new
+12:03 okay in every next working session i'm
+12:08 gonna duplicate this folder and rename
+12:10 the folder and leave everything inside
+12:13 intact so here's my end plan
+12:22 should be open on this side i'm missing
+12:25 some kind of font okay so
+12:25 um here is the end plan we're going to
+12:27 have to do that same process to this one
+12:31 if you want to get the center plan out
+12:33 of the way i'm going to actually save
+12:35 this as
+12:35 say this as
+12:37 and actually while we're at it we're
+12:42 missing a hotkey for save as
+12:42 a great time to set this up when you see
+12:44 it
+12:44 right save as file tool save as i think
+12:50 this should be control
+12:52 alt save
+12:52 yes there we go
+12:54 what is that no i don't care about
+12:56 splines or camera spin so there we go
+13:00 we're going to save that so
+13:00 control alt s gets me a save as center
+13:10 and then i can close him out
+13:10 okay so now we're into control tab gets
+13:15 us is our original plan maybe i want to
+13:17 save this
+13:17 so we'll call this
+13:23 lucille multi unit
+13:24 okay
+13:24 capslock was on
+13:30 boy that brings me up to a really good
+13:31 tool by the way
+13:31 you're converting from caps lock to
+13:36 um
+13:36 to lower case maybe we'll post this on
+13:40 the feed let's pull up a little window
+13:42 real quick
+13:49 workcase.net we can accept cookies we
+13:49 can
+13:49 type in here something
+13:54 something like
+13:55 like this
+13:55 where we had something goofed up right
+13:58 and then we can change this to lowercase
+14:02 uppercase capitalize case
+14:02 very inverse case there we go
+14:05 very useful and then download the text
+14:09 and bring it back in or just copy the
+14:09 text and bring it back in super useful
+14:13 tool here convertcase.net
+14:14 i can bring this into my toolbars and
+14:15 bring it into some assets like my work
+14:19 assets
+14:19 or drafting and design
+14:23 here we go
+14:23 so back to chief
+14:29 control tab get over to this guy and
+14:29 we're going to do that same thing edit
+14:33 area all floors
+14:33 make this selection
+14:37 and then from there
+14:48 and now i need to do that same wall
+14:48 modification but we've got a few other
+14:52 things going on here one is that i
+14:52 notice i have a window here where i did
+14:57 not think there would be one so that's
+14:57 an interesting little feature i need to
+14:59 figure out what's going on with that and
+15:03 how these things actually align
+15:03 so let me just stop start with our top
+15:08 level i'm going to do that same thing
+15:11 just going to make a polyline
+15:11 and actually i can just select this room
+15:14 to start and make a polyline from here
+15:14 and then drag this over it's probably a
+15:17 quicker way
+15:17 and then we know that we can bring this
+15:20 over four inches
+15:20 bring this over four inches
+15:23 i want to see if my hot keys somehow i
+15:29 messed up my constraint centric
+15:38 edit behaviors coincentric c or x1
+15:39 button
+15:39 should still be
+15:41 working but it's not
+15:44 okay
+15:45 so
+15:45 here's my wall setup here's my party
+15:49 wall same thing going to redraw this
+15:50 wall
+15:50 and then make the selection
+15:58 right
+15:58 and maybe it's helpful if we change this
+16:02 to like a hot pink
+16:04 i love my hot pink
+16:04 we can change the line style change this
+16:09 to something uh neon green sure
+16:09 that way we can see exactly where that
+16:13 snap is
+16:14 draw this party wall
+16:17 like so
+16:18 i'm just populating right to that snap
+16:22 point easy enough this one online this
+16:24 one was online yep
+16:24 when i make these two wall selections i
+16:29 can go down a floor
+16:29 and there's a problem here
+16:31 well we have windows we want to save
+16:35 these windows but
+16:36 what's that issue
+16:36 right we can't copy and bring in a wall
+16:42 from the floor up above but also copy
+16:44 and retain the windows
+16:44 so what's the process there
+16:45 i've put in a request to chief i hope
+16:53 clipboard queue so that we can copy
+16:55 multiple items and then have them
+16:55 devised by components so that we have
+16:57 something i copied in terms of a window
+17:01 classification versus a wall
+17:02 classification
+17:02 anyways we'll get past that here's the
+17:06 method
+17:06 i'm going to use my window tool wtw
+17:08 and then i'm going to shift select my
+17:11 windows here i'm going to copy these i'm
+17:15 going to go up a floor i'm going to ctrl
+17:18 v to paste hold in place now i'm going
+17:20 to cut oops
+17:20 i'm going to copy my wall my wall
+17:24 copy
+17:24 down the floor
+17:25 paste hold in place
+17:27 and i need to go back up a floor wtw
+17:33 shift select delete
+17:34 now you can see it's kind of convoluted
+17:36 but i know my tools will enough to do it
+17:40 really really quickly
+17:40 so same thing i can do the same thing
+17:45 we've got windows here
+17:47 and here
+17:48 right
+17:48 and copy this go up the floor
+17:53 up a floor control v paste
+17:55 grab our walls
+17:59 i can copy that and i can actually
+18:01 delete this
+18:01 all right i can delete those windows
+18:09 go down two floors
+18:09 and control all the paste in place
+18:14 now one more floor
+18:14 and we've kind of get the last little
+18:18 bit here we can just grab these
+18:21 walls one more time
+18:22 copy
+18:22 downpour
+18:32 big mistake
+18:32 what's the mistake well
+18:35 i actually
+18:36 replacing wall that shouldn't be
+18:41 replaced that's a big problem
+18:41 so this is my outside wall this is going
+18:45 to remain that's no longer a party wall
+18:48 right there's my issue
+18:48 doing this on the fly so that kind of
+18:52 stuff happens i'm going to switch to
+18:54 contain selection mode
+18:54 and select my windows copy this
+19:04 and ctrl v those windows back
+19:05 up a floor
+19:08 same thing
+19:08 if my windows copy them
+19:12 select this wall
+19:14 drag this down
+19:14 all vm back one more time
+19:19 or
+19:19 oh and this one's straightforward
+19:23 all right now we have this all prepped i
+19:27 think it's all prepped i think that's it
+19:30 so i can do my edit area all floors
+19:32 make my selection
+19:32 copy this control tab
+19:37 ctrl v
+19:37 make sure i place this
+19:39 away from the action here
+19:42 right
+19:42 and then i can do my point-to-point move
+19:51 can't catch that center mark it looks
+19:53 like it's there
+19:53 catch this center mark
+20:00 oh yeah it doesn't look like it's
+20:00 centered at all where is it is that it
+20:05 well we're getting inference from
+20:05 cabinets so it might be good to place a
+20:09 point
+20:09 so that i know exactly where i'm going
+20:12 here
+20:12 do that
+20:14 place point
+20:22 there's my center that guy right there
+20:25 then edit area all floors
+20:25 just select this point to point
+20:29 there's my center here's my center
+20:32 look at that beautiful look how nice
+20:36 it's coming together
+20:36 one last thing control tab over to our
+20:41 next tab and then we can
+20:42 do
+20:42 reverse plan
+20:44 area all floors
+20:46 grab this copy control tab
+20:53 you can do a place point again get my
+20:56 center make sure it's there ctrl v
+20:58 paste it off to the side
+21:07 oh and we replaced the wall on that one
+21:09 if we can't do that again
+21:11 or
+21:11 we're going to be grabbing some
+21:12 elevation markers but we'll fix those in
+21:16 a little bit
+21:16 did i get my center
+21:25 this time we don't replace it there we
+21:26 go
+21:26 beautiful beautiful
+21:28 let's check this out see how bad we did
+21:33 now i haven't even looked at the models
+21:35 to see if the existing models were any
+21:39 good so this ought to be interesting
+21:46 that's cool and also this indicates a
+21:52 what do you guys think you think the
+22:01 is that this section open or the inverse
+22:04 it might be inverted
+22:05 but
+22:05 we know the process now so this is a
+22:10 pretty simple setup
+22:10 now there's one last kind of thing i
+22:14 need to do to really join this all
+22:15 together
+22:15 which is let's get down to our bottom
+22:19 floor basement floor
+22:20 oops wrong plan control tab tab
+22:24 and then
+22:24 down floor
+22:26 and what do we need to do we need to
+22:28 connect these that's right i can just
+22:32 connect this is going to auto connect
+22:33 like that
+22:33 same thing here
+22:37 this is only for the purpose of building
+22:40 the foundation by the way we don't need
+22:41 to do this we can split this still
+22:41 depends on you know graphically how are
+22:44 you showing this
+22:44 your county what's the actual assemble
+22:48 here um so
+22:48 i mean there's a good point this might
+22:52 actually need separation
+22:54 so instead of doing that
+22:56 back let me back out
+22:56 i might just modify my foundation
+23:01 right now i have it on auto build
+23:03 foundation
+23:03 we could just all
+23:06 i mean could just
+23:06 modify it for ourselves
+23:10 like it's a little
+23:10 a little off anyways i need to fix some
+23:13 things here
+23:14 next thing i'm going to do is i'm going
+23:15 to just make sure that i've got the same
+23:19 floor height designations
+23:23 my default floor um
+23:23 floor defaults that's my hotkey there we
+23:27 go
+23:27 i'm going to make sure that i have all
+23:31 this the same 12 and 5 8 structure
+23:33 and 96 inch rough ceiling
+23:34 and
+23:34 i don't know of any easy way of getting
+23:38 this over to
+23:38 my new plan so it's kind of
+23:44 or defaults again
+23:44 into that first floor we have a fifth
+23:50 so
+23:50 why do we have a fifth floor
+24:03 that these are actually conformed to
+24:05 what it should be
+24:07 it looks like
+24:07 it is from first glance
+24:13 like everything is
+24:15 perfect actually
+24:16 okay
+24:16 so what we have is a next
+24:23 step here i just want to make sure that
+24:23 my floor defaults are conformed so floor
+24:27 defaults
+24:27 again just double checking this 12 and 5
+24:32 8 assembly we can go in and take a look
+24:35 11 7 8 which is usually a tgi if it is
+24:37 11 and 7 8 if that's what's intended
+24:40 and the 96 inch rough
+24:42 so control tab
+24:42 fd for floor defaults on my plans first
+24:47 floor
+24:48 96
+24:48 and then we're going to do a 12 and 5 8.
+24:55 eights
+24:55 and i might call this
+24:58 my joyce
+24:58 here we go
+25:07 okay and we're done control tab i want
+25:12 this is really important to get this
+25:12 right so the rough ceiling height was
+25:15 96.
+25:15 i have that part right
+25:18 then i want to get to my second floor
+25:21 we have a 16 inch floor structure 15 and
+25:26 a quarter inch
+25:26 fifteen and a quarter inch eye joist at
+25:34 so this is just kind of going through
+25:36 the motions right
+25:36 making sure floor by floor you've got
+25:40 everything set here
+25:42 1.5
+25:42 and this is
+25:44 i already forgot
+25:46 terrible memory for this thing
+25:59 double check this one
+26:01 yeah i had this wrong
+26:01 might be that the client has this wrong
+26:05 i'm not sure it might be an unfinished
+26:07 basement as well so
+26:07 it's something i might want to check on
+26:20 what's up randy hey thanks for chiming
+26:37 ah and i'm typing in all caps i'm sorry
+26:41 so
+26:41 let's see we're back on this plane again
+26:45 again i'm just this is this is tedious
+26:47 work maybe it's not interesting but it
+26:49 is my process is i want to just go in
+26:50 here
+26:50 make sure i have everything set up the
+26:52 same way floor by floor this is a 15 and
+26:56 a quarter 121 and a half
+26:56 i say it out loud enough times i kind of
+27:05 so 15 and a quarter was was uh what i
+27:07 was missing here
+27:07 off
+27:07 and i can just add an eighth that's
+27:20 explore make sure the same thing
+27:23 121.5
+27:23 and there's probably some other settings
+27:26 that he has here that i need to check
+27:27 out but these are the main really
+27:27 important ones to keep yourself from
+27:35 8.5 have a habit of doing decimals i'm
+27:35 hoping at some point that translates to
+27:43 i'm going to assume this is the same
+27:43 121.5 we're gonna have to look at it one
+27:59 we'll tab over
+28:00 for
+28:00 defaults checking this top floor oh
+28:05 let's see the top floor is 97
+28:07 a little different
+28:09 the third floor
+28:09 third floor is right
+28:12 click done
+28:12 um over floor defaults
+28:20 oh man see i already forgot
+28:21 96
+28:21 i think
+28:26 all right and then let's look at this
+28:29 perspective overview
+28:29 starting to look like
+28:31 okay all right all right a few changes
+28:35 cool
+28:35 and that's it we've got a multi-family
+28:40 union unit we pulled it from
+28:40 um two separate plans we flipped our
+28:42 plans we rotated our plans i can see a
+28:46 couple little fixes here
+28:46 we've got some some issues here this is
+28:49 probably an exterior wall that needs to
+28:50 be set up so a couple things that i need
+28:54 to check out
+28:54 i had this drawn as party walls in fact
+28:58 they're not party walls because they're
+28:58 not extending through the floor platform
+29:02 i didn't realize that this was
+29:02 open so i'm going to go back and change
+29:07 that that's a quick fix
+29:07 now we've got some foundation things
+29:09 that are probably going to change it
+29:10 looks like there's some different
+29:10 designations from the garage room to
+29:12 this room which may or may not be true
+29:15 i'm assuming that this is probably going
+29:19 to be all port slabs so a few fixes
+29:21 there and maybe there's some models
+29:24 model fixes to to have happen
+29:24 but for the most part this is a really
+29:27 good start
+29:27 but now my client can do some design
+29:31 work on
+29:31 the entirety of the set right
+29:39 and then of course i need to figure out
+29:41 what's going on with our roof system
+29:41 here we could try an auto build roof and
+29:45 see what happened
+29:45 i think by default my roofs are set to
+29:48 auto build so there might be some
+29:48 settings here that we need to change
+29:50 yeah got auto build rebuild roofs here
+29:54 but
+29:54 a couple issues here this this center
+29:57 wall
+29:57 seems to be
+30:03 off
+30:03 our build right
+30:11 makes it a cable
+30:11 now if i select this center wall this
+30:15 makes it a cable now we've got some
+30:15 even funnier stuff happening here right
+30:18 so a few things to fix we could
+30:21 obviously just use manual tools
+30:23 override
+30:23 automatic and then get these things to
+30:36 you might need to drag some stuff back
+30:37 and
+30:37 rearrange a few things so there's a few
+30:41 issues here a couple things just to fix
+30:42 in our
+30:42 our auto roofs
+30:55 also join these roofs right unionize
+30:58 these bring them together
+31:05 and you can join it with our
+31:11 i love the clip feature too
+31:11 the clip feature is awesome for this
+31:17 where well i can snap but
+31:17 also just drag this past itself and do
+31:29 how long does that baseline stay the
+31:38 see when you drag a passage itself it's
+31:41 just going to clip this excess off
+31:43 right in that cool
+31:43 and then you can come up and pop this to
+31:53 i like designing in 3d i hope they make
+31:56 this seamless a little faster
+31:58 be awesome
+31:58 right i can take these two delete these
+32:03 grab this one
+32:03 copy it use my control alt c and then my
+32:15 but slow but there you go look at that
+32:17 perfect roof
+32:17 done and done
+32:21 all right
+32:21 so a couple of things if we had
+32:23 designated these rooms as exterior rooms
+32:28 these would actually be exterior doors
+32:28 which they are not so a couple things to
+32:31 note there
+32:31 um so if this was designated as a patio
+32:35 room
+32:35 things i'm noticing oh it is in fact
+32:37 aimed at balcony but for whatever reason
+32:41 it looks like these doors were placed
+32:43 before this was named a balcony
+32:44 so
+32:44 just grabbing this and figuring out
+32:49 where this is on the plan
+32:53 a couple floors
+32:54 now i can see where this is on the plan
+32:58 and
+32:58 let me just copy this guy and then
+33:02 actually control xm cuts him right
+33:02 and then i can see where this guy is 49
+33:07 inches off it's a 36 inch door so if i
+33:09 delete this
+33:09 and now i want to bring in a new door
+33:13 which i haven't set up a
+33:15 door tool yet
+33:15 this is how i do my hot keys by the way
+33:21 just filling up space right now
+33:22 so
+33:22 just type in door right i want my basic
+33:27 hinged door symbol
+33:27 hinged door right so this is what it's
+33:31 called door tools hinged door you want
+33:33 to remember that to the point where i
+33:34 can
+33:34 easily commit this to memory whenever
+33:38 someone's asking me where a tool is i
+33:38 can then go ahead and set this up door
+33:41 tools
+33:41 inch door
+33:42 maybe that's a little bit
+33:44 excessive maybe but stick with it assign
+33:48 it
+33:48 i can do door tools hinge door oops door
+33:54 tool stage door here we go
+33:54 now i've got it i already forgot what
+33:58 that dimension was
+33:58 let's go back a level
+34:01 here we go
+34:03 49 inches
+34:03 i still have the door tool enabled i'm
+34:08 putting this 3-0 door here
+34:08 setting it to 49 inches off the wall
+34:10 and what we're going to see control tab
+34:13 tab
+34:13 is in my exterior view that just changed
+34:18 to an exterior door you can see that now
+34:19 right
+34:19 so now i can hit my control alt v
+34:23 oh i didn't say this door over here
+34:26 any mistake that's why it would be nice
+34:30 to have a saved clipboard i can grab
+34:32 this guy
+34:32 and i can see what this dimension is
+34:34 pull this dimension copy it 0.25 off the
+34:37 wall
+34:37 it's a 34 inch door
+34:40 so door tools hinge door right door tool
+34:46 was that
+34:48 and
+34:48 left hinge
+34:51 in swing
+34:53 34
+34:53 tab over two inches
+34:57 and
+34:57 it's
+34:59 orange off the wall
+35:07 oh see i had us a side selection so it
+35:07 resized it instead of just moving it so
+35:12 here we go again 0.25
+35:12 there we are that should be the same as
+35:17 that other side this doesn't look like
+35:20 0.25 what is this
+35:22 this was
+35:22 0.290 feet
+35:25 i have
+35:26 um
+35:26 eight inches oh we're in my takeoffs
+35:30 a dimension set so let's go quarter-inch
+35:33 walls only it's a little easier to
+35:35 understand
+35:35 than inches here yeah that was three
+35:39 inches
+35:39 it looks like three and some change but
+35:51 using a 3d mouse to get in here tight
+35:53 for this kind of stuff
+35:53 paste my three inches there
+35:58 still didn't work
+35:58 get this again three inches
+36:04 there we go
+36:04 now i have that set up we've got a
+36:07 mirror
+36:07 um it would be easy to door tool in
+36:13 store and then shift contain select
+36:15 these two doors
+36:17 right
+36:17 cut them
+36:18 or delete them either way
+36:24 and then same thing shift
+36:26 pane selection
+36:26 copy reflect about
+36:30 center
+36:30 this is going to be
+36:40 i draw a lot of cat lines easier to just
+36:42 do this
+36:46 if
+36:46 contained
+36:47 copy reflect
+36:49 and now we have it over here
+36:54 really nice when you're doing these
+36:56 multi-units to remember
+36:56 all of your edit tools and how to
+36:59 utilize them
+36:59 when you're doing
+37:01 copy and reflect about right that makes
+37:07 such a big difference for doing that
+37:08 a couple things that are going to be
+37:11 wrong on these balcony levels is
+37:12 we've got
+37:12 interior one side walls so i need to
+37:15 establish exterior walls for the balcony
+37:20 so we're going to be splitting it looks
+37:21 like they're already split but we're
+37:21 going to be changing this wall type easy
+37:26 way to do that open this guy up
+37:26 in our wall types define we're going to
+37:29 immediately make a copy make sure you're
+37:32 making a copy so we're not editing a
+37:34 wall type throughout the project
+37:34 and then we can set up what kind of
+37:36 finishes on the interior assuming that
+37:38 it's the same finish here unfortunately
+37:40 there's no easy way to copy this stack i
+37:43 wish there was i wish you could shift
+37:43 select and copy the stack but you can't
+37:46 so
+37:46 i'm going to insert above here and then
+37:50 also insert above again
+37:50 now i could do this couple um we could
+37:55 back up let me actually cancel this
+37:55 i go back to define i make that copy
+37:59 and then
+37:59 i can actually insert um
+38:02 below here looks look what it does it
+38:06 makes a duplicate of this
+38:06 all right so that if i move this down a
+38:09 couple levels
+38:09 now i have that duplicate layer
+38:13 same thing
+38:13 insert below
+38:14 the same type
+38:18 right
+38:18 same thing here
+38:20 or below move down
+38:22 there's my outside layer
+38:26 get rid of this drywall
+38:26 and now this is stucco two sides
+38:36 you guys are chiming in for the first
+38:38 time first time being on this feed
+38:40 and i hope you're chiming in a lot
+38:41 because
+38:41 it's a lot of things here teach a lot of
+38:45 cool things here
+38:45 so can increase this line weight on the
+38:48 two outsides it's just the way i like to
+38:51 represent my walls
+38:51 i also don't really find it interesting
+38:54 to see all these layers so a lot of
+38:57 times i'll make these be total fill
+38:57 layers let's just show you what this
+39:01 looks like if you like a completely
+39:04 blanked out section
+39:05 right
+39:05 where it's all the same fill
+39:07 or use the layer color i like to do this
+39:14 as well use my layer color for a fill
+39:15 and you have to go through one by one
+39:15 this takes a long time but hopefully you
+39:18 only do it once if you're only working
+39:21 on your own plans
+39:21 so using this as a layer fill and then
+39:24 i'm going to show you
+39:24 what i like to set up here i like to set
+39:28 it up so that my new walls coming in
+39:30 are on a particular layer
+39:30 and that layer drives the color
+39:37 i get a solid fill on everything except
+39:38 for the party wall i want to keep that
+39:38 party wall layered out so that you know
+39:42 that it's a party wall if we're using
+39:44 the same style exterior walls all
+39:44 throughout the project i'd rather just
+39:48 see
+39:48 solid fill it's a lot easier to
+39:52 represent this so
+39:52 it's following the layer style right now
+39:55 you can see it's dark gray so then it's
+39:57 a matter of making sure that this goes
+39:58 by
+39:58 layer as well just the interior lines
+40:03 that's it
+40:03 everything else
+40:04 i want it to follow
+40:09 just the
+40:09 two outside layers i want to follow the
+40:14 default the layers line weight
+40:15 and then
+40:15 all the interior
+40:19 line fill
+40:20 i want to
+40:20 follow my layer that way i get a solid
+40:27 so
+40:27 everywhere that that this wall style is
+40:32 going to be used right
+40:32 the same thickness as this existing wall
+40:37 it's the same makeup
+40:37 following that same outside
+40:40 line actually you know in fact it didn't
+40:42 move a little bit
+40:42 we're gonna align this on the outside
+40:47 i need to select all three of these
+40:47 walls i can i have a wall tool selected
+40:53 now shift contain selection control
+40:54 deselect this wall
+40:54 so we do that again case you missed it
+40:58 okay
+40:58 let's say we're off of our wall tool
+41:02 i have exterior wall if i hover over
+41:05 this straight exterior wall
+41:05 it doesn't look like i have a quick tool
+41:09 set up for this for some reason
+41:11 do that real quick
+41:11 i stopped for these things because it
+41:16 improves workflow your speed
+41:18 understanding the program
+41:21 your wall tool i wanted
+41:21 what's this straight wall tool straight
+41:25 exterior wall
+41:25 right multiple straight exterior wall oh
+41:29 cancel
+41:30 oh no no
+41:31 oh i already have it set up okay
+41:35 through wall tool now i have the
+41:37 exterior wall selected
+41:37 that means i can do a restricted
+41:41 contain
+41:41 collection restricted contain selection
+41:46 holding my shift key and then marquee
+41:48 over walls it's only going to select
+41:48 walls now i'm going to hold my control
+41:52 key restrictive
+41:54 contained
+41:54 deselection of that wall now i just have
+41:59 these walls selected right
+42:01 kind of helpful
+42:01 for being able to make these edits in
+42:03 group settings unfortunately you cannot
+42:09 group a line also with walls below
+42:10 so
+42:10 i can now restrictively select
+42:14 actively
+42:14 deselect copy
+42:20 copy
+42:20 and reflect about now hold on looks like
+42:24 i was selecting a couple other walls as
+42:27 well so let me try it one more time
+42:29 your wall tool
+42:29 shift marquee select
+42:33 control
+42:33 okay deselect copy
+42:37 reflect about
+42:37 inner line and it pastes it over here
+42:41 now i just only need to fix a couple
+42:43 little disconnected things pull this
+42:44 back
+42:44 forward
+42:46 and then delete this
+42:49 whatever this little
+42:51 marker here is
+42:51 sure what that is a couple deletions
+42:54 there
+42:55 okay
+42:56 there we are same thing we can grab this
+43:01 wall style now we can add it to our
+43:01 library this is a really simple thing
+43:06 railing stucco two sides i have that
+43:09 tool enabled now from the library we
+43:11 know that this is an open balcony
+43:13 so we can grab this
+43:13 select it make sure it's aligned
+43:17 same thing
+43:17 you can even draw a line here center of
+43:20 this run
+43:21 right
+43:21 now we select this copy reflect about
+43:27 this right here
+43:28 there we go
+43:28 and it needs to be aligned again
+43:33 check this out we'll draw a little
+43:33 inference line here that's the center of
+43:37 this run grab these two walls
+43:39 and we could have just done
+43:40 a
+43:40 i'm going to switch the intersected
+43:48 what i've got
+43:50 now i can
+44:04 centering
+44:05 so
+44:06 really quick edits
+44:07 really quick things here
+44:09 check this out we'll see it in 3d this
+44:12 is going to change to stuck on the
+44:12 interior side look at that look how
+44:17 quickly that was done
+44:17 all right this is all set up now
+44:24 randy i'm glad you're watching man
+44:24 i like i like the input yeah you know
+44:29 i've got i put a link you know copy
+44:29 stack would be red if you're on chief
+44:31 talk at all maybe i can drop this into
+44:36 this feed let me just grab this real
+44:37 quick
+44:39 uh
+44:39 i think this is
+44:40 you don't need to be signed in to see
+44:43 this but
+44:43 clipboard tray i made this post and
+44:45 suggestions so this is going to go in
+44:47 there are comments in this feed you're
+44:50 going to see this link
+44:50 and you can go in here and chime in and
+44:52 hopefully that's the suggestions team at
+44:57 chief will see that suggestion and come
+45:00 back so i have that suggestion
+45:02 another suggestion where
+45:03 um
+45:03 oh undo states in toolbar where we get a
+45:07 slide graph
+45:07 see our undo states and it gives us
+45:12 a little text representation of the
+45:12 component that was edited so that we can
+45:16 get back to a certain undo state so
+45:17 those are a couple things that are
+45:18 comments in the feed you'll see that um
+45:23 in the comments section
+45:23 and it does look like you do have to be
+45:27 signed in to see that stuff so if you
+45:28 don't have an account with chief talk
+45:28 you should get one because there's some
+45:33 awesome info there from some really
+45:33 killer guys that know what they're doing
+45:38 including the chiefs chief's own team
+45:40 they're there so
+45:40 that's uh that's good stuff so we have
+45:45 this problem here this wall right here
+45:47 this wall needs to change
+45:47 and also this wall needs to change right
+45:53 so control tab to my multi-unit i'm
+45:53 going to actually close out this loosen
+45:57 tool end
+45:57 and before i do i'm going to do my
+46:01 control alt s for save as
+46:03 and this is going to be
+46:03 and we'll just call it rotated that
+46:05 would have been a better way of naming
+46:14 plan so let me flip it back
+46:17 and then ctrl s
+46:19 and call this
+46:21 flipped
+46:21 maybe that's a good name
+46:23 and we can control w to close that out
+46:28 now i'm back into my multifamily and
+46:28 it's looking good here's my next thing
+46:29 that i love doing is let's pick up what
+46:34 i want here i want windows
+46:34 only interior gems at exterior wall i
+46:36 think i want windows center we're just
+46:39 going to sample a couple of these
+46:41 dimension sets i've got
+46:42 so
+46:42 this one we're on floor four
+46:45 this is uninteresting we don't have any
+46:48 fenestration here so we'll go down a
+46:49 floor
+46:49 and do that same thing auto exterior
+46:52 yeah see this is doesn't show windows so
+46:58 i just undo state on that
+46:58 i'm going to change this to windows and
+47:02 doors there we go so
+47:03 our
+47:03 auto exterior dimension tool right
+47:07 now
+47:07 let me undo state again anytime i see a
+47:10 little improvement in my workflow i take
+47:15 the time to go set this up auto
+47:16 dimensions
+47:17 right
+47:17 so i want this to be it's called the
+47:19 auto dimension tool and then if i expand
+47:25 this section auto exterior dimensions i
+47:28 like this to be auto e d a e d auto
+47:30 exterior dimensions assign
+47:30 now i can just do that real quick ed bam
+47:36 real quick down floor df
+47:38 auto exterior dimensions
+47:38 there we go down floor auto exterior
+47:42 dimension
+47:42 super quick right and then you want to
+47:46 start pulling some interior dimensions
+47:49 same thing i'd want this to be id
+47:49 which it is i'd like to snap to this
+47:53 interior wall here
+47:53 just like that and then bring this in
+47:56 two feet
+47:56 it's using tab input
+47:58 super easy way to do these dimension
+48:02 strings next thing i want to do is i
+48:03 want to make sure i've got some
+48:03 construction lines established here
+48:06 under my line section construction line
+48:11 right you just use
+48:11 same thing set up this hotkey in fact we
+48:16 should have a hotkey or customize
+48:18 hotkeys right
+48:18 wouldn't that be clever why not
+48:23 customize hotkeys let's do this
+48:25 customize hotkeys
+48:25 if that conflicts with anything it does
+48:28 not so
+48:28 easy way to get back to that and then my
+48:34 construction line
+48:34 line tools construction line
+48:37 the construction i would call it the clt
+48:42 construction line tool fine with that
+48:44 i'll remember that so
+48:44 clt and i'll show you a couple tricks
+48:48 with this i like to personally draw
+48:48 these to center walls because it's the
+48:52 easiest way to bring these through and
+48:54 duplicate them
+48:54 because we don't have any way of
+48:57 automatically
+48:57 snapping to a main layer
+48:59 without dragging them so to make this a
+49:01 really quick workflow i just like to use
+49:06 my copy and then center tool
+49:06 right so now i'm centering on that wall
+49:11 it's a lot easier for me
+49:11 same thing just center on this wall here
+49:16 right so
+49:16 my construction line tool
+49:20 place this here
+49:20 make sure that it's centered
+49:26 there we go copy center
+49:27 here
+49:27 in fact this should probably be in
+49:30 between here so i want to leave some cad
+49:34 inference lines and these cat inference
+49:34 lines are going to remain on every floor
+49:40 i just want the division between these
+49:41 units right so with my line tool still
+49:43 active now i have a restrictive
+49:44 selection
+49:44 shift marquee select just those cad
+49:47 lines
+49:47 copy them go up floor
+49:51 and then paste hold
+49:53 up floor
+49:53 face hold up floor paste hole i can go
+49:58 down floor down floor down floor i'm
+49:58 back into this get to my construction
+50:01 line
+50:01 enter on this line copy center
+50:06 copy center
+50:06 and one last one
+50:09 the cool thing about construction lines
+50:13 is they work with the trim tool on your
+50:14 line
+50:14 so if i want to trim this to a certain
+50:17 level so all these construction lines
+50:17 trim to this level i get this trim here
+50:22 trim objects and now i can cut right
+50:23 through
+50:23 all those lines and it's going to snap
+50:27 my construction line to that line i
+50:29 established
+50:29 this will show up on every floor now
+50:34 right so
+50:34 last thing i need to do is just label
+50:39 those construction lines
+50:40 is a pretty well set up project we've
+50:41 gotten pretty far in a short amount of
+50:44 time so
+50:50 i don't know who's watching i know randy
+50:52 is so happy you're here watching man i
+50:54 love sharing this info with people
+50:54 hopefully you picked up something from
+50:58 this you can re-watch this on the feed

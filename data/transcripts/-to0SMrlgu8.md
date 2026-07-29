@@ -1,0 +1,179 @@
+---
+videoId: -to0SMrlgu8
+title: Reference Plan To Show Out Of Scope Existing Building In Chief Architect X16
+url: "https://www.youtube.com/watch?v=-to0SMrlgu8"
+status: imported
+---
+
+# Transcript
+
+0:00 what's going on VIP I'm going to show
+0:01 you something kind of
+0:04 clever I don't really know how to intro
+0:06 it better than
+0:08 that what I got here is I've got an area
+0:11 of a home that I scanned and measured
+0:14 and it's the work area that we're going
+0:16 to be um doing but for the sake of
+0:19 showing things such as smoke detector
+0:21 requirements which I'm going to have to
+0:23 show in California um and a few other
+0:26 things including that this is just going
+0:28 to be on record I want to show the
+0:30 existing home and I had a PDF to work
+0:33 from and I'll show you that here's that
+0:35 PDF that I was working from there was
+0:38 some kind of drawing of the existing
+0:39 home and I was able to scale it and
+0:42 match it up with my findings of the home
+0:45 and I brought it into a plan where I
+0:47 started drawing out the parts of this
+0:50 home that I didn't have scanned okay and
+0:54 so what I have here is in this plan
+0:56 which was a new plan if I look at my
+1:00 reference display I am referencing the
+1:03 plan that I scanned okay and that's all
+1:06 this red lines right and then I had the
+1:09 scaled PDF and I started dimensioning
+1:13 out and drawing out these other walls
+1:17 after I drew those walls I want you to
+1:19 keep in mind if I just hide this PDF now
+1:23 okay I hide the PDF I'll hide the
+1:25 drawing sheet I want you to note what
+1:27 happens when I turn off the reference
+1:29 guess what what this is what I'm left
+1:32 over with this is all I'm drawing in
+1:34 this plan I did draw all of the dividing
+1:38 interior walls that's important to note
+1:41 okay and then one thing is that I got to
+1:43 fix this guy right there this uh
+1:45 exterior wall should in fact line up
+1:48 with that interior wall there we
+1:52 go and get rid of that
+1:55 so there's the move there's what's
+1:58 happening now let's take a look at how
+2:00 we're utilizing this okay the main
+2:03 reason I wanted this in a separate plan
+2:05 file is I want to go ahead and take
+2:06 advantage of automatic dimensioning for
+2:09 one and being able to use reference
+2:11 layer sets and so what I did here is I
+2:14 turned on a reference layer display and
+2:17 I get to move this layer display down so
+2:19 that it's underneath my drawing and so
+2:22 now it's really clear where the sections
+2:25 of this particular drawing are that I
+2:28 did not dimension
+2:30 okay and look at that Isn't that cool so
+2:33 when I click on auto exterior Dimensions
+2:36 it's just dimensioning the part of the
+2:38 house that I actually measured that's
+2:41 awesome there might be a few things that
+2:43 I don't want to use as automatic
+2:45 Dimensions which are these kind of
+2:47 adjoining interior walls where that's
+2:50 joining a part of of the plan that
+2:53 should be dimensioned you know
+2:54 separately so I could come in here to
+2:57 this wall right here open it up and and
+3:00 state that it's a no locate wall let's
+3:01 see what this does does it do anything
+3:04 impactful no it really doesn't do
+3:06 anything in this case cuz it's still
+3:08 going to Dimension to these doors Etc if
+3:09 I clicked on auto exterior again it's
+3:12 it's still picking up this kind of
+3:14 intermediate wall that didn't really
+3:17 affect it yeah it's not picking up the
+3:18 door in this case so maybe go back and
+3:22 go back to the way it
+3:25 was but on the whole this is exactly
+3:29 what I wanted okay now I don't really
+3:32 love the reach on this Dimension string
+3:34 it's reaching a little bit far I kind of
+3:36 want it to step in so in case you ever
+3:38 run into that you can always get in to
+3:40 Define your automatic dimensions and in
+3:43 setup automatic you can change your
+3:45 exterior reach and so maybe I only want
+3:47 this to go 122 in or something like that
+3:50 and let me press okay and then let me
+3:53 try to redo this so actually this should
+3:55 not have picked up at this distance but
+3:58 um I could always kind of clean that
+4:00 string up if we want we could delete all
+4:02 Dimensions go back to Auto exterior it's
+4:05 still kind of picking this up not quite
+4:06 sure why that is
+4:08 but this ends up looking almost exactly
+4:11 as I want it so now it's very clear that
+4:14 if I make just a bubble around this area
+4:16 we can show that hey these are areas
+4:19 that I did not to mention now if I want
+4:21 to set that up for myself I could come
+4:23 in here I'm going to switch to a non
+4:26 saved plan view I'm going to switch to
+4:28 my existing floor plan view okay and
+4:31 then from here I could do a few things
+4:34 just to set up so I'm going to change my
+4:36 active defaults and for text I'm going
+4:39 to just make a copy of my text in this
+4:41 case I don't even care what it's called
+4:44 and in the line style I'm going to go
+4:46 ahead and put this on the reference
+4:48 display or I can make a new text if I
+4:50 wanted to let's just hit Define new and
+4:53 I'm going to say um CAD
+4:57 texts uh let's just call it
+5:01 existing and there we go let me press
+5:04 okay so that when I type in here I could
+5:10 say
+5:20 um something like that existing home
+5:23 reference not
+5:26 verified bam that would be simple enough
+5:30 and then we can kind of drag out just a
+5:33 straight leader from here same
+5:36 thing feel like that illustrates exactly
+5:39 what I'm trying to do here bring this up
+5:46 here there we go and that looks pretty
+5:49 good cool and then I could keep working
+5:52 on this there's a few other things that
+5:53 I might want to do here go back into the
+5:55 working plan I might actually want to
+5:57 show some of the doors if I turn on that
+5:59 PDF layer Etc but that's it this just
+6:02 makes for a really simple little section
+6:04 you can see here you might need to work
+6:06 on you know where that notes coming so
+6:08 it's not running through the middle of a
+6:09 dimension string but yeah that looks
+6:11 pretty good on the hole I'm going to
+6:13 pull my elevation marker out of here
+6:15 because these are my non-print
+6:16 elevations and then the last thing I
+6:18 want to do is I just want to set this up
+6:20 in my floor print set too so I'm just
+6:23 going to hide this drawing sheet real
+6:24 quick
+6:29 set up that layer again so use that
+6:32 reference
+6:34 one use the
+6:38 existing that is there we go and move
+6:41 this down a
+6:43 little and very cool this is looking
+6:47 almost
+6:50 perfect hope you got something out of
+6:51 that that's pretty cool the great other
+6:53 part about this is we can kind of
+6:55 isolate materials we can isolate a few
+6:57 other things like roof planes Etc we
+6:59 could build them off of both sides if
+7:01 you want to see more of this where we've
+7:02 got kind of a detached plan that we're
+7:04 working with and it's going to coincide
+7:06 with a plan that is the scope of work
+7:08 where we're joining up roof planes in
+7:10 reference sets me show you more of that
+7:12 if you're interested please leave
+7:13 comments let me know
+7:28 [Music]

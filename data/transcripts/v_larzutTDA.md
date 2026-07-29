@@ -1,0 +1,288 @@
+---
+videoId: v_larzutTDA
+title: Advanced Staircase Troubleshooting Session in Chief Architect X16
+url: "https://www.youtube.com/watch?v=v_larzutTDA"
+status: imported
+---
+
+# Transcript
+
+0:01 let's do a little troubleshooting VIP I
+0:03 think it's always helpful to uh for
+0:04 people to see how I'm troubleshooting
+0:06 plans and so we've got a situation here
+0:10 where this staircase is causing some
+0:14 issues go up a level if I can program
+0:18 and then here we go I'm going to pull a
+0:24 camera and let's check this out so first
+0:27 up first problem is that we've got these
+0:28 nle posts right and The Simple Solution
+0:31 is just making this an invisible wall um
+0:34 I would typically say change the opening
+0:36 here but because we're slammed against
+0:38 the doorway this was still going to
+0:40 probably cause an issue so easy enough
+0:42 to make an invisible wall now we're
+0:43 missing a newal post so we just need to
+0:45 come in here and note the start and end
+0:48 side and in this case we're going to get
+0:49 into rail Styles say that we need a full
+0:52 post at the start end post so that's the
+0:54 start type there so we need a full post
+0:57 and so there we go this is going to
+0:58 build right there the next issue here is
+1:01 this little discrepancy and what this
+1:03 indicates and what this is always going
+1:05 to indicate is some kind of platform
+1:07 intersection issue and platforms come
+1:09 from walls so the first thing we're
+1:11 going to do is troubleshoot walls so
+1:13 we're looking at this wall right here
+1:15 let's open it up often times a user will
+1:18 be editing the default wall Heights
+1:20 that's not the case here so let's go
+1:23 look down
+1:24 below we've got something funny going on
+1:27 here you can always try to click on
+1:28 whatever you see that might be be a
+1:30 funny mesh and it's going to indicate
+1:32 maybe what it's coming from so this is
+1:34 coming from a staircase and that's just
+1:36 because this staircase is set to open
+1:38 underneath so or not open underneath so
+1:41 we're going to check that to open
+1:42 underneath and to kind of fix any
+1:44 discrepancy that brings up is we draw a
+1:47 wall underneath so the next thing you
+1:50 can see especially if we switch to like
+1:53 glass house view is that this little
+1:55 section of stair as it's coming through
+1:58 is aligned with the problem area so that
+2:01 lets you know that something about the
+2:04 missing wall here on the side of the
+2:06 stair is causing that issue so we could
+2:09 try to break the stair that might fix it
+2:13 um this looks like it's a dual stair
+2:16 segment already um also note that you
+2:19 know we can see right here very clearly
+2:21 that this is that open underneath
+2:23 condition if we drag this through to
+2:24 about there that should automatically
+2:26 clip to underneath the wall um but
+2:28 notice a next problem that's coming up
+2:31 that we might need to fix just by
+2:33 creating like a break or something like
+2:34 that is that this wall is no longer
+2:36 wrapping and part of that is that we've
+2:39 got no return wall so we might do a
+2:42 return wall with an um zeroc
+2:45 cased opening here let's just try to fix
+2:48 that real quick so causing problems as
+2:51 we go but that's okay so I'm going to
+2:52 break this right on that line just see
+2:55 what this does as a side by side so
+2:57 let's just bring this into side by side
+2:59 notice just adding the wall break fixed
+3:01 a lot of problems here and so the last
+3:04 bit of problem here is just an
+3:05 intersection between these two walls so
+3:08 we could probably change wall
+3:09 intersections for that but we're still
+3:11 going to have this problem up here let's
+3:13 see what happens if we break our
+3:15 staircase so we're going to use the
+3:16 break tool and Then followed by a
+3:19 complete break all right and we're going
+3:22 to make sure that we're picking it up
+3:23 right where the stair tread is and does
+3:26 that fix anything no what it does is it
+3:30 gives us the opportunity to turn off um
+3:32 railing on this side but that still
+3:34 means that we're going to have a trimmer
+3:35 that's not built correctly so I'm going
+3:37 to actually go back a step and just undo
+3:40 that action so that we've got that full
+3:42 staircase again so the solution might be
+3:45 here something that I almost always say
+3:48 don't do which is manually editing wall
+3:51 Heights so what I'm thinking here is I'm
+3:53 going to extend this wall out and I'm
+3:56 going to make sure that it's if I can I
+3:58 want to snap it to the end of the
+3:59 staircase now I can't so I need to pick
+4:01 up a snap just you know from drawing a
+4:03 cad line maybe so now we can extend this
+4:05 out and kind of snap this to that CAD
+4:07 line if we will um walls unfortunately I
+4:11 do not believe do not have the ability
+4:13 to um stop at a cad break so um so we're
+4:17 just going to have to manually draw this
+4:19 out and kind of understand where this is
+4:21 let's just take our n section here is
+4:24 right at the end so let's just take
+4:25 another
+4:27 line and snap it to this forward
+4:31 line to understand exactly where this is
+4:33 oh you know what I know what's going
+4:35 on might turned off my Snaps in a
+4:38 session show someone some methods so
+4:42 need to turn my Snaps back on that's
+4:43 going to make this a lot easier so here
+4:45 we go bringing that snap forward now
+4:49 here's where I want to get a little bit
+4:50 tricky I want to break this wall okay
+4:53 but I want to break it on a very
+4:54 particular spot it's automatically going
+4:56 to break at the center of the main wall
+4:59 layer there I want to see if I can break
+5:01 it right on this line if I can help it
+5:03 in fact this Line's even going to move
+5:06 right towards the drywall there that
+5:09 drywall sheathing layer so let's just
+5:11 see if I can take this and break it
+5:12 right on the line just by getting close
+5:15 enough yes so that actually worked so
+5:19 now let's come into this
+5:20 View and we can see on the top side look
+5:25 that fixed that intersection issue so on
+5:28 the bottom side
+5:30 should be able to take this up and I
+5:33 would suggest just pulling a elevation
+5:35 view okay take this up and you're going
+5:37 to end up matching and this is going to
+5:39 end with having to do some kind of um
+5:43 fill right using a solid or something to
+5:45 fill in some of these gaps so there's
+5:48 some intersection things going on here
+5:50 we need to make sure that this is coming
+5:52 down and snapping too right you're going
+5:54 to have some issues here at these
+5:56 intersections you're going to have to
+5:57 change those those wall intersections
+5:59 here is kind of a pain in the butt I've
+6:01 never really loved this tool but
+6:03 sometimes you got to get used to it and
+6:04 use it the best you can to kind of fill
+6:07 stuff in so I'll select this next one I
+6:09 don't know why my toolbar just something
+6:11 goofy but here we go bring this forward
+6:15 wrap that end that will hopefully just
+6:17 close up that Gap and the last part is
+6:19 just doing some kind of solid fill to
+6:22 cover this all up so there we go we're
+6:24 fixing this issue here you can see that
+6:26 wall can actually be pulled back just a
+6:28 little bit to pull that trimmer back
+6:30 just a little bit so that's part of the
+6:32 solution too is just play with this till
+6:34 you get this um trimmer extended just
+6:36 the way you want but this intersection
+6:38 is always going to be a tough one I mean
+6:40 how do you build this in real life too
+6:42 you got an intersection of casing
+6:44 between some kind of side trimmer it
+6:46 might be that you go in here and model
+6:49 this in a cad view which you could do
+6:51 very easily let's show that while I have
+6:54 you so we could come in here to a backed
+6:58 clip cross-section View of this
+7:01 staircase and then from here do just our
+7:05 alt CAD menu if you're on PC and do a
+7:07 cad detail from view so V right that's
+7:10 going to give us a cad detail from View
+7:13 and then you've got all these segments
+7:15 here hopefully you could select all
+7:18 these segments and draw a bunch of
+7:20 extensions
+7:22 through and close those up otherwise
+7:26 it's just going to be a lot of work the
+7:28 point being is that this would be a
+7:29 method I might be able to use in order
+7:32 to do a subtraction to build my trim
+7:34 from it so um you could use these as
+7:38 trim lines as well might be tedious so
+7:41 um these kind of details you know they
+7:44 pretty difficult the other solution for
+7:47 this is if you're going to do a walkth
+7:48 through or a rendering or something like
+7:50 that I would just avoid this area in
+7:53 your camera as best as you can you can
+7:56 just frame it so that this shot is out
+7:58 of the shot in this case otherwise
+8:00 you're going to have to do some custom
+8:01 extrusions here so and that can be
+8:03 challenging as well anyways that was
+8:05 just a little bit of a troubleshooting
+8:07 session hopefully you you know kind of
+8:09 figured out some solutions there um you
+8:12 didn't know it you should go watch my
+8:14 video on moldings that's in the free
+8:16 section of my site because we can now do
+8:19 some pretty complicated railings just by
+8:21 doing um setting this up in uh in our in
+8:25 our moldings and binding our XYZ planes
+8:28 so that was would be just doing
+8:30 something like this I'm just going to
+8:31 draw on a 3D view here real quick I'm
+8:32 going to take this convert it to a
+8:34 molding polyline okay it can be any
+8:38 molding polyline what have you uh that's
+8:41 going to come down to this level I'm
+8:44 going to say disconnect this particular
+8:46 Edge and then I should be able to just
+8:49 move this around in the XY plane and
+8:53 then now I'm going to use that new tool
+8:56 bam select edit plane select the ver
+8:59 vertical edit plane and when I draw this
+9:01 up now I'm creating an angled so if I
+9:04 pin this and bring this kind of up the
+9:06 screen we're going to start seeing this
+9:07 pretty soon in the stairwell we see that
+9:10 we have it in the correct height
+9:12 essentially change the XY plane
+9:16 again which is a little tricky to pick
+9:19 the right planes but here we
+9:21 go oh and I lost it it's in the wall
+9:25 there it is but now I'll be able to move
+9:27 this into place and I can essentially
+9:30 make my own railing with this method so
+9:32 pick that XY plane again pick the
+9:34 vertical plane be able to draw this up
+9:37 at an angle that matches the
+9:39 staircase and then essentially we will
+9:42 be able to return this
+9:44 back to the
+9:46 wall so do your own railings now in 3D
+9:50 pretty easily you know I'm just doing
+9:52 this on the fly without any practice but
+9:55 you can apply any Extrusion to this
+9:58 super simple Des grab a railing
+10:01 [Music]
+10:04 profile and see let's go into or account
+10:14 log architect
+10:17 maybe
+10:18 handrails
+10:22 no what they're calling these in their
+10:25 moldings
+10:26 profile I'm just wasting everybody's
+10:28 time dang it it come on Chief what do
+10:30 you got here architectural moldings
+10:32 profiles what are they calling
+10:37 them I'm not seeing this brackets casing
+10:40 chair rail Cove molding crown molding
+10:42 Edge molding handrails they're calling
+10:45 them hand Goa there's our Classic Rail
+10:48 hover over click to replace now we got
+10:51 our Classic Rail paint
+10:53 it right so you could do some really
+10:56 tricky railings like this we could come
+10:59 down we could even get this to do that
+11:01 transition right so where we're doing
+11:03 something like this is um get to just
+11:06 return this back at an angle turn it
+11:09 back down
+11:12 right super simple Advanced railings
+11:15 there so check that video out I kind of
+11:17 go over that in a little bit more detail
+11:19 than I would right here cheers
+11:40 [Music]

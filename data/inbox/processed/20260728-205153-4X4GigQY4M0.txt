@@ -1,0 +1,117 @@
+Title: Manual Roofs Made Easy in Chief Architect X15 - Roof Video 5
+URL: https://www.youtube.com/watch?v=4X4GigQY4M0
+Visibility: public
+
+0:02 Hey VIP,
+0:02 how about we make making manual roofs
+0:10 really, really, really easy?
+0:12 I made a quick tool for you.
+0:12 It's a super simple tool. Anybody could
+0:15 have made it. It just happened to be the
+0:19 content drove the idea. The idea is
+0:21 right in front of us.
+0:21 It's an easy one. So, let's do this.
+0:25 We're going to search in our library
+0:27 browser. Once you install this item,
+0:28 it's a single item and it's going to
+0:28 show up in a particular spot. It's going
+0:32 to show up in architectural quick tools.
+0:33 But to get to that very quickly, you're
+0:35 going to see some new tags and if you
+0:36 import this item and the tag you're
+0:38 going to see is
+0:38 dot utility specialty tools, okay, is
+0:41 one and then we'll click that and then
+0:44 the next one is ceiling roof. So, click
+0:48 on that.
+0:48 Okay? So, once you have those two
+0:52 clicked, you should see
+0:52 Rabs roof reflection and parallel tool.
+0:58 And this is really simple. We get to
+1:01 take this. The placement of this is
+1:01 right center of the tool. So, I'm going
+1:04 to place this here, but I'm also going
+1:06 to show you how to place this in 3D as
+1:09 well, okay? So, I'm going to pull a
+1:10 um
+1:10 perspective floor overview camera. And
+1:12 what that's going to do is it's going to
+1:15 show us
+1:15 this house without any roofs. And I'm
+1:17 going to take that tool and I'm going to
+1:21 make sure I'm hovering over the corner
+1:23 and make sure that we're getting that
+1:24 corner snap. Once we get that corner
+1:27 snap, it's placing this symbol.
+1:27 It can't get any easier than this. Let's
+1:31 go back. I'm going to delete all my
+1:31 existing roof planes here just so you
+1:33 can see. I'm going to delete everything
+1:38 but one of these roof planes. So,
+1:38 let's just grab this guy right here.
+1:42 We'll do a little
+1:44 marquee select.
+1:44 I'll hold my control key.
+1:46 Oh, you know what? My mouse driver just
+1:50 got screwed up. So,
+1:50 let me try that again.
+1:52 I'm going to have to do it without the
+1:55 mouse, unfortunately.
+1:55 Let me delete all these. Let's going to
+1:59 turn off auto rebuild roofs. We'll get
+1:59 into that perspective floor overview and
+2:03 I would expect that you just place this
+2:03 thing. As you're working through, you're
+2:05 going to place this at all the
+2:07 intersections.
+2:07 And it's super easy to come in here and
+2:12 click on all these intersections.
+2:14 And then at the end of this,
+2:14 easy enough to delete these as well. So,
+2:17 I'm going to place these at the
+2:20 intersections.
+2:20 Make sure you're picking up the correct
+2:23 snap. Take a look at what snap marker
+2:24 you're getting there.
+2:24 And then from here, let's pull a
+2:31 And I'm ready to start building this
+2:31 roof off of this tool. And it's a really
+2:36 simple process. Let's pick up a standard
+2:38 rendering method here.
+2:38 And I get to just copy this roof plane,
+2:43 reflect about, and we pick up this
+2:45 reflection really easily, right?
+2:46 Simple enough. We get to do the same
+2:49 thing here. Watch this. We'll copy
+2:49 reflect about, come over to this tool,
+2:51 and check this out. We get to take this
+2:55 selected edge,
+2:55 join the two roof planes.
+2:56 It doesn't get any easier than this,
+3:00 right?
+3:00 So, same thing. Now, the other great
+3:02 part about this is we can take this roof
+3:07 plane, for instance, and kind of cut it
+3:09 and then I don't really worry about if
+3:10 this is on a 45 or not cuz I get to
+3:10 select this particular edge and then I
+3:15 get to use the make parallel
+3:15 perpendicular tool and line it up with
+3:19 this tool's edge.
+3:19 So, now we know that we're on that 45
+3:24 and we can copy reflect about,
+3:24 take our selected edge, join two roof
+3:28 planes.
+3:28 It just doesn't get any easier than
+3:31 that, you know? I
+3:31 I don't know. I don't know what to say.
+3:35 It's pretty awesome, right? Same thing.
+3:35 I'm not even worried about snapping this
+3:38 to the corner because we already have
+3:38 this reference point and it's just easy
+3:41 to just keep using this join roof plane
+3:44 tool.
+3:44 So, hopefully that helps you out, makes
+3:49 manual roofs super, super easy.
+3:49 Great idea. I feel like you guys drove
+3:50 that idea. Thank you. I appreciate it. I

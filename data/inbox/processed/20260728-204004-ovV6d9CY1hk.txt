@@ -1,0 +1,81 @@
+Title: CA SHORTS   Dutch Door In Minutes Using Chief Architect X17
+URL: https://www.youtube.com/watch?v=ovV6d9CY1hk
+Visibility: public
+
+0:01 I'm going to show you how to do a Dutch
+0:03 door really quickly here. Let's just
+0:03 throw a little door in here. And then
+0:07 we're just going to do a little copy
+0:07 paste. Paste hold position. Now that new
+0:12 door that was just pasted is selected.
+0:15 Let me go ahead and raise this up. I'm
+0:15 going to say that this is going to go up
+0:19 42 in. I just started to drag the bottom
+0:21 of the door up and then I hit tab or
+0:23 enter and that brought in this enter
+0:23 coordinates. With polar checked, that
+0:27 means this distance is already
+0:27 highlighted. So, I could have just typed
+0:31 in 42 and hit enter. Now, I've got an
+0:31 upper door that's 42 in. Now, let's go
+0:34 ahead and set this door up. So, this is
+0:38 the upper door. I'm going to change in
+0:40 the general panel. I'm going to use a
+0:40 door style that is a glass panel in this
+0:45 case. And I'm going to make the uh the
+0:47 bottom maybe I'll make this something
+0:47 like 3 in. I'll leave the rest of this
+0:50 uniform at 4 in. And then we need to get
+0:55 to the hardware panel so that we can
+0:58 specify the interior and exterior
+0:58 handle. And so in from door edge is
+1:01 fine. Up from bottom is only going to be
+1:06 a couple inches in this case. All right.
+1:09 So let me press okay. That sets up this
+1:11 one. Uh there was one more thing I
+1:12 missed. We wanted to get to the
+1:12 threshold tab and make sure that use
+1:18 threshold is unchecked. Okay. So use
+1:18 threshold unchecked. Let's get to this
+1:23 lower door. We're going to shrink this
+1:23 down. We want this to fall below that 42
+1:28 in. So, while I'm dragging this door
+1:28 down, hit tab or enter. Typing in 38 in.
+1:34 If instead I needed to do the math, I
+1:34 could have said 80 minus 42 in. It still
+1:39 would have got me to that distance of 38
+1:43 in. Bam. Let me press okay. Let me open
+1:43 this up. This I'm going to change in the
+1:48 general panel to a panel door. I'm going
+1:50 to leave everything exactly as it is
+1:53 here. I might raise up that hardware
+1:53 just a little bit. Maybe I'll go uh up
+1:56 from bottom something like 38 in. Put it
+2:01 right at the top there. Let me press
+2:03 okay. Now we have two doors that are
+2:03 actually butdding in between. Okay. The
+2:07 next thing I want to do is I want to
+2:07 open up that lower door one more time.
+2:09 I'm going to say that the swing angle on
+2:12 this lower door, let's just call it, I
+2:15 don't know, something like 80°. In the
+2:16 upper door, I'm going to change that
+2:16 swing angle to something like 45°. Okay.
+2:22 Then I get to select both doors by
+2:22 holding shift. So I selected one, hold
+2:24 shift, select the second door. I get to
+2:27 mle these doors together. And then watch
+2:32 what happens when I click the show open
+2:35 in 3D. Look at that. And so the last
+2:35 thing that we could have done is change
+2:37 those swing angles. So if we wanted that
+2:41 to swing out versus in, we could select
+2:44 this. Now, it's a mold unit, so we'd
+2:46 have to tab one time to get to that
+2:46 door. Change that swing angle. Okay.
+2:51 Change the swing angle or change the
+2:51 swing side. So, swing side, excuse me.
+2:56 So, tab into that second door down
+2:56 there. Change that swing side. There we
+3:00 go. That very much looks like a little
+3:03 Dutch door. Isn't that cool? Quick,

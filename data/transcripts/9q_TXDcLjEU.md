@@ -1,0 +1,75 @@
+---
+videoId: 9q_TXDcLjEU
+title: 1-Click Bookshelves and Wine Fridge's for Chief Architect X14
+url: "https://www.youtube.com/watch?v=9q_TXDcLjEU"
+status: imported
+---
+
+# Transcript
+
+0:03 an update package just went out for my
+0:03 kitchen quick tools let's take a look at
+0:07 what I've added some really fun stuff if
+0:09 you don't have my kitchen quick tools
+0:11 please go take a look it's several
+0:11 hundred items including a toolbar that
+0:16 has a bunch of one-click actions so
+0:18 let's take a look at one of these
+0:20 one-click actions I've got a wine
+0:21 cabinet here
+0:21 I'm painting in plan mode which means
+0:25 it's going to paint everything that's
+0:25 applicable in this room so if I paint in
+0:29 this room right now you're going to see
+0:29 it immediately converts this full height
+0:35 cabinet upper cabinet and base cabinet
+0:35 so you can see her one tool makes a wine
+0:40 reefer full height cabinet Winery for
+0:40 under cabinet and a wine display Shelf
+0:46 got another one here I've Consolidated
+0:46 all the microwave tools into one tool so
+0:50 if I click in the room again here we've
+0:53 got an full height cabinet with a trim
+0:56 ring a trim piece kit around the
+0:56 microwave here a microwave drawer and
+1:02 then a microwave hood upper
+1:05 so that's a really good one
+1:05 I've got my new glass door tool let's go
+1:09 ahead and drop this
+1:09 cabinet in glass door now Paints in my
+1:12 adjustable shelves alternatively I also
+1:18 have a glass upper with dishes so it
+1:18 will paint in my adjustable pin shelves
+1:23 as well as two different versions of
+1:25 dishes
+1:25 up in that upper cabinet very cool so
+1:27 this could save some time if you want to
+1:31 do some some Decor in your rendering
+1:33 shots
+1:33 let me go ahead and click on the oven
+1:34 tool we'll paint this in the full room
+1:36 and we're going to see here it converts
+1:41 this to a double oven full height
+1:45 cabinet a upper cabinet that has
+1:45 an exhaust Hood built into it this is a
+1:50 very custom Cabinet and then a lower
+1:50 cabinet with just a single oven there
+1:55 of course you can adjust this you can
+1:57 adjust this to a larger or different
+1:57 unit and then save it back to that style
+2:01 palette tool so that'll make a big
+2:01 difference the last tool is one of my
+2:05 favorites
+2:05 we're going to click on this icon here
+2:09 click in plan View and it's going to
+2:11 convert all these units to
+2:11 you guessed it bookshelves how cool is
+2:16 that of course you can adjust your
+2:18 bookshelf depth
+2:18 it's what you needed to be
+2:20 but single click get some bookshelves
+2:26 get the shelving unit
+2:27 very cool
+2:27 expand this out a little bit it will
+2:31 stretch the books with it
+2:31 very quick and easy way to add some

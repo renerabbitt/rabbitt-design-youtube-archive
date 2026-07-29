@@ -1,0 +1,129 @@
+Title: Wall Intersection Double Wall Tricks In Chief Architect X17
+URL: https://www.youtube.com/watch?v=Sl8QGXt9J48
+Visibility: public
+
+0:01 Actually,
+0:01 I just caught this post and this post
+0:05 ends up leading to another post where
+0:06 you're really frustrated with the
+0:09 software and the company
+0:09 software support insurance. And you know
+0:13 what? I'm just here to help you solve
+0:13 this because this is actually a really
+0:16 difficult thing. The reason this is
+0:16 crashing your computer when you do wall
+0:20 intersections is because you actually
+0:22 have three walls that are fully
+0:22 overlapped. and Chief allows this in the
+0:27 case that for some reason you're solving
+0:29 some issue with this, but it doesn't
+0:29 take into account the um extreme number
+0:34 of complicated calculations that would
+0:35 have to happen if you're going to do
+0:37 wall intersections when you've got
+0:37 overlapping joints like this and you're
+0:41 pretty much breaking the system because
+0:43 it's too many calculations. But let me
+0:46 get you back in the Chief Architect
+0:46 here. I'll just open up Oh, I've got and
+0:51 let me show you exactly how to solve
+0:51 this. I'll do brick because it looked
+0:59 Hopefully I can make this really, really
+1:01 easy for you. I'm going to throw a
+1:01 window in here. Prove how dynamic this.
+1:06 So, here's what I'm going to do. I'm
+1:06 going to extend this wall past the point
+1:11 where I need it to go. Okay. The next
+1:12 thing I'm going to do is I'm going to
+1:12 make a copy of this wall. Extend it out.
+1:17 And I'm going to make a definition of
+1:17 wall types. I'm going to make a copy of
+1:23 the existing wall type. And what I will
+1:26 do from here, um, really depends on how
+1:26 you want to set this up, but I could set
+1:30 this up where I just say this is a zero
+1:32 inch main wall layer. Or maybe you want
+1:35 to leave it at maybe about 116th of an
+1:35 inch and get rid of the drywall and the
+1:41 interior side. And now I have this wall
+1:43 layer that does a few things. The last
+1:43 thing that I want to do is I don't want
+1:49 this to end up carrying through um all
+1:49 the way to the main framing layer. Maybe
+1:53 I do. We'll leave it the way this is.
+1:55 So, here we go. I've created this new
+1:57 wall layer. Excuse me, this new wall
+1:57 type. Let me get rid of this rid of this
+2:01 window real. And then the next thing
+2:01 that I want to do, I'm going to open up
+2:05 this wall type.
+2:05 I'm going to make a copy of it. And if
+2:10 you're skipped ahead of me and you got
+2:10 exactly what I'm doing, I'm now going to
+2:15 delete everything
+2:15 at the other wall included,
+2:19 right? Leaving with me with just that
+2:24 framing it. That's all that happens
+2:24 there. So, what do I get to do now? I
+2:26 get to just snug this up. Snap it right
+2:31 to it. I don't want to, now keep in
+2:31 mind, I don't want um to take this past
+2:37 the point of that layer, right? So, I
+2:37 want to over um overdo this because it
+2:42 will just take over that wall. So, you
+2:44 do want to kind of place this
+2:44 accurately. Something I could do in the
+2:49 meantime is flip the wall side just
+2:49 because that's the way my dimensions are
+2:52 set up. So that I could set this to zero
+2:54 in
+2:54 this.
+2:57 That's not over
+2:59 wall. There we go. And take this to the
+3:05 point of that intersection. It's going
+3:07 to do a couple little goofy things.
+3:11 That's okay. Get to take this down.
+3:11 Right. take this to the point of where
+3:17 that intersection should be. Now, none
+3:19 of these walls are overlapping each
+3:19 other. In fact, I don't even need to do
+3:21 anything. That's done. It's done. That's
+3:27 all that was. The only thing I need to
+3:29 do is edit some platform intersection
+3:30 stuff because we're going to get this
+3:33 going on. Click done.
+3:33 You could just cheat and manually drag
+3:35 this down. It wouldn't be the end of the
+3:39 to do this, right? And that's going to
+3:40 perfect.
+3:40 We didn't do this other side obviously.
+3:44 There you go. There's your built out
+3:44 corner we got to do. We could obviously
+3:49 do a manual foundation. That would be a
+3:51 really simple way of solving that part.
+3:52 Otherwise, you got to just mess around
+3:54 with those wall sections. I would say
+3:56 that, you know, maybe you define this
+3:56 stuff as not room uh no room definition.
+4:01 So, we don't have no uh some errant room
+4:04 in here. There you go. Inside corner on
+4:04 the inside of this, I'm assuming is what
+4:08 you needed. There's our window.
+4:08 Obviously cuts through. Bam. Got this on
+4:13 the side. And even with all those that
+4:15 custom wrapping and all that stuff, as
+4:18 long as you get this window inside of
+4:21 the run for that wall return, it will
+4:25 cut all the way through as well. So
+4:25 there you go. Let's kick on a little ray
+4:29 trace view. See how beautiful this is?
+4:29 Isn't that cool? So pretty quick, pretty
+4:35 simple, pretty easy. Again, I can fix
+4:37 that foundation issue pretty quickly
+4:37 with just manual foundations if I wanted
+4:42 to or mess settings. And uh we love
+4:42 Chief Architect, but they don't always
+4:45 have all the answers. Some of us that
+4:47 have been in the software many, many,
+4:49 many years have these little tricks
+4:49 stored up. So, I hope that helped you

@@ -1,0 +1,635 @@
+---
+videoId: c-wSJEtn2bg
+title: Digitizing Oil On Canvas Using Photoshop For Rendering Programs Like Twinmotion
+url: "https://www.youtube.com/watch?v=c-wSJEtn2bg"
+status: imported
+---
+
+# Transcript
+
+0:00 B
+0:01 Bop and I started working and I realized
+0:04 I should be recording this for people
+0:07 right here's what I got um very close
+0:10 friend of
+0:12 mine had their first art
+0:16 show and had this big massive canvas and
+0:21 it was
+0:23 um it was in a very narrow Hall and sold
+0:28 it and so we can't get digitize it very
+0:31 easily anyways and so I figured I would
+0:34 just take three shots of it so I got
+0:35 three shots of it and I did just some
+0:38 like preliminary lineup right and so
+0:42 what I mean by that is control T will
+0:44 just get you straight edit handles um at
+0:49 your midpoints and end points and you
+0:51 can hold control to kind
+0:55 of jockey it into place and it's not
+0:57 going to be perfect can also see that I
+1:00 have different quality of lighting here
+1:02 in this midsection
+1:04 so I usually like to do cuz I'm all I'm
+1:07 a little older school I like to do a um
+1:11 maybe a curves adjustment layer maybe a
+1:12 hug saturation adjustment layer but you
+1:15 could use the new tool that's built for
+1:18 this which is just um a color adjustment
+1:20 brush because the color quality in this
+1:23 in some parts it's not that bad and so
+1:27 just but I would rather do the curves
+1:28 adjustment approach it's basically
+1:32 basically the same thing honestly um
+1:35 because when you're drawing with a color
+1:38 adjustment brush or an adjustment brush
+1:41 tool and you're going to
+1:43 change um say the maybe the
+1:48 exposure to say that we're going to
+1:50 change the
+1:52 exposure of
+1:54 this
+1:56 and we could say that we want to Overlay
+1:59 and we could say that we're going to do
+2:00 a new layer so we're going to overlay on
+2:02 top and then I got a brush and I get to
+2:05 just paint in some effect well that's
+2:08 essentially just adding a curves adjust
+2:10 I mean a hue saturation adjustment layer
+2:12 it's or an exposure adjustment layer
+2:15 except for that it's got a nice little
+2:17 tool to kind of give you an indication
+2:18 of where you're you're drawing um which
+2:21 is maybe nice I don't know
+2:25 um on the flip side it'd be really easy
+2:28 for me to just add add
+2:32 in a h saturation adjustment layer in
+2:36 this case and I'm going to clip it alt
+2:38 click in between the two layers so I alt
+2:41 click in between those two layers and
+2:42 that gets me that in between that gets
+2:45 me um it's applying that adjustment to
+2:47 the layer below only
+2:50 and I'm not sure why this is turning it
+2:54 pink it shouldn't be that's very odd I'm
+2:57 oh it's CU I've got this overlay checked
+3:00 all right so now I can kind of come in
+3:02 here and adjust the colors and and get
+3:05 it close but actually VI saturation is
+3:07 probably not the right one I probably
+3:10 want a color balance adjustment layer
+3:12 and same thing alt click in between that
+3:15 Clips it to the layer below
+3:16 alternatively my face is blocking this
+3:19 let me see if I can switch um there's
+3:21 this guy down
+3:24 here which uh there this guy does the
+3:28 same thing as alt clicking in between
+3:30 so now I'll come in here and adjust from
+3:33 here red s levels I can take the red s
+3:37 levels down a little bit and that's
+3:39 going to get a little closer to
+3:41 correcting for levels actually took it
+3:44 down quite a bit there that's pretty
+3:46 close it's
+3:49 um I'm probably going to have to do two
+3:51 of these layers because there's parts
+3:52 that don't need an adjustment and
+3:54 there's parts that
+3:57 do that's pretty close honestly um get
+4:01 into the yellow
+4:04 channels I'm looking at a couple areas
+4:06 I'm looking at this area here I'm
+4:09 looking at this area here that's clearly
+4:11 darker right we also seeing some texture
+4:13 because there's there's some sidelight
+4:15 coming from um in this shot and then
+4:20 we're looking at this kind of bridge
+4:22 right here this area right here so just
+4:24 messing around with some of
+4:27 those colors as I'm looking at the
+4:29 screen like this setting kicking the
+4:32 yellow way down fixes some areas here
+4:35 but it causes problems somewhere else
+4:37 right so I might have to come in here
+4:39 with a brush and paint out some areas in
+4:42 The Mask itself there we go so paint out
+4:46 that area get that blue back in there
+4:48 this all seems to be blending nicely it
+4:51 was really this red section that was not
+4:53 and then this section probably needs a
+4:57 different setup another
+5:01 um adjustment and I'll probably fix some
+5:04 things using our um spot and healing
+5:08 brush tool so the next thing is I think
+5:11 the easiest approach would be to
+5:15 manipulate the center section let's see
+5:17 what happens when I drop the right
+5:20 section underneath the center section
+5:23 and so we definitely want to keep the
+5:25 right section in because we could see
+5:26 that we had light coming in that was the
+5:28 front entry of this
+5:30 um of this Art Exhibit and so the light
+5:33 was coming in and affecting canvas we're
+5:34 seeing the texture of the canvas we kind
+5:36 of want to get rid of that so it's good
+5:38 that the center section um is underneath
+5:41 that rightmost section and so now let's
+5:43 do some fixes where we're going to
+5:45 select the center section and I want to
+5:47 do a puppet
+5:49 warp and we know a couple things are
+5:51 lined up correctly so I want to get in
+5:53 here tight I think that this is lined up
+5:55 correctly so I'm going to set a pin
+5:57 right there I also think that
+6:01 um this section of the eye is set
+6:03 correctly I'm going to get a little bit
+6:04 away
+6:06 from um because this section's not set
+6:09 correctly but I believe that this
+6:12 section is I want to get away from that
+6:16 section I'm going to manipulate so we're
+6:17 going to pin a little bit in at the
+6:19 bridge and then the eyeball seems to be
+6:23 lining up over here everything seems to
+6:26 be lining up over here so we could do an
+6:28 uh a pin just at the edge there same
+6:31 thing pin seems to be working right
+6:33 there this all actually lines up quite
+6:36 well with just kind of a rudimentary
+6:38 take on that um so that's
+6:42 nice uh oh except for I'm looking at the
+6:44 wrong spot this is overlight here's my
+6:47 transition point my transition Point's
+6:49 right here so I need to look at
+6:51 this so let's see
+6:55 here what do we have do we have any
+6:58 breaks in this yeah so we want to kind
+7:00 of pin this but then note that this
+7:05 needs to move down right there we go so
+7:07 that's an alignment and this needs to
+7:10 move
+7:11 up and actually this needs to move up a
+7:16 little bit as well and almost rotate a
+7:18 little
+7:21 bit and so that squishes these pixels
+7:24 down here I'm not too worried about it
+7:26 um I don't think the original artist is
+7:28 going to be too upset if I do just what
+7:31 I need to do in order to get this
+7:33 looking right so we'll just kind of
+7:36 manipulate some of these pixels around
+7:37 and um some of it might not be quite
+7:40 100% true to the original art and it
+7:42 looks
+7:43 like I have
+7:48 here like to back this out a little bit
+7:51 see if I can get an
+7:54 exact match I'm looking I was looking
+7:57 right here so when I was moving this P I
+8:01 was looking right
+8:06 there so that's pretty close and then
+8:09 it's clear that we've got something's
+8:12 way off here so that that looks much
+8:14 better and then this gets kind of
+8:16 stretched up which is going to cause a
+8:19 little problem so we've got to kind of
+8:21 pin and move the rest of this up as well
+8:25 we're going to get a little bit of
+8:26 distortion you know that's okay you can
+8:28 take your time with with this another um
+8:31 tool to use with this is liquefy all the
+8:33 liquefy tools and I can show you that
+8:35 here in a minute too we're going to get
+8:38 pretty close here um we'll see that you
+8:41 know this whole section here is um
+8:44 drastically warped and that's just from
+8:46 the camera angle I had to take the shot
+8:48 at right so I can move that whole
+8:51 section up and now I think we'll just
+8:54 warp this next section as it overlaps so
+8:58 we'll put a check mark on on that switch
+9:00 to that last section get into puppet
+9:03 warp again we know that some of these
+9:05 things are working some are not let's
+9:08 just start to get this in
+9:11 place I pull this back that's going to
+9:14 rotate that's important to to throw a
+9:16 couple pins in here before you do too
+9:18 much
+9:21 work here we go that's looking pretty
+9:24 good this is going to get a little bit
+9:26 of a squish here
+9:34 um we can see something's going on here
+9:36 what is this okay we're just getting the
+9:39 very edge of that yellow is what I was
+9:41 looking at see that yellow that's moving
+9:43 close to my cursor right there I'm just
+9:45 going to line those pixels up just there
+9:48 we go that looks pretty good and same
+9:51 kind of thing right here want to kind of
+9:53 line that block piece
+9:56 up right in there somewhere
+10:01 yeah looking pretty good and then this
+10:04 is where we get to kind of warp the rest
+10:05 of
+10:07 this in place and so we got a hard red
+10:11 line here on the edge I'm not sure where
+10:13 that's coming from it doesn't look like
+10:14 it's coming from anything really so
+10:17 let's just there we go that's about
+10:21 right I'm going to take away this pin
+10:23 I'm going to stick a pin here and I'm
+10:25 going to delete this pin and we can do
+10:28 that by holding holding alt and clicking
+10:31 and now I can restretch this kind of
+10:34 up get this whole thing kind of up there
+10:37 we go that's getting
+10:39 there and then I think this has got a
+10:42 little bit of an arch to it that I don't
+10:44 want I'm going to pick this side up a
+10:46 little
+10:47 bit keep in mind you if you've got
+10:49 rulers turned on in view so view rulers
+10:53 then you can click and drag on your
+10:55 ruler and draw out a guideline to kind
+10:58 of get a straight section right draw out
+11:01 that guideline so that you are seeing
+11:03 that you know whether or not your canvas
+11:04 is perfectly straight or not so I might
+11:07 lift this up a little bit I might do
+11:10 this in liquefy um so let me go undo
+11:12 that section yeah I'm going to do this
+11:15 in liquify I'm going to lift part of
+11:17 this up and I'm just going to leave one
+11:19 section to kind of
+11:26 repair getting pretty close same thing
+11:29 guidelines left to right that's pretty
+11:33 Square yep that's pretty Square for the
+11:36 most
+11:37 part there we go let me hit that check
+11:40 mark
+11:42 now obviously we still have some little
+11:45 issues in here right we've got some
+11:47 sections of white here that we almost
+11:48 want to delete
+11:50 um you might just take a this is a way
+11:53 we could do it because it's picking up
+11:55 this um that canvas and there's no real
+11:58 white
+11:59 in the actual painting itself except for
+12:02 maybe right
+12:03 here I'm going to work around this
+12:06 section real quick and I'm going to help
+12:07 this blend and what I could do is I
+12:10 could just pick that layer contrl J it
+12:14 up and then double click that
+12:19 and let's
+12:22 see I want
+12:26 to I don't want to paint underneath it
+12:28 I'm going to paint something darker
+12:30 underneath it I'm going to put a layer
+12:32 right underneath
+12:34 this I'm just going to paint something a
+12:37 little bit dark I'm painting just a red
+12:38 underneath this
+12:41 okay and oops happened
+12:46 here oh shoot I wasn't painting in my
+12:49 layer let go bam I'm not using the brush
+12:54 tool that's why all right me get to the
+12:56 brush tool
+12:59 so I'm going to choose just a hard round
+13:01 kind of soften it up a little bit we're
+13:04 going to control click this section
+13:07 we're on the layer below it so I'm just
+13:09 going to paint in some red you will okay
+13:13 and then I'm going to go the layer above
+13:15 and I'm going to do blend if and I'm
+13:17 going to bring this slider down so that
+13:20 it kind of makes that white disappear
+13:24 leave some stuff
+13:25 underneath hoping that I could get
+13:27 isolate this white in here to kind of
+13:29 get rid of that Pixy look but maybe not
+13:32 let's go about it a different way then
+13:34 it might just be that I use the
+13:37 um um the spot healing brush so with the
+13:42 spot healing brush and let's just I'm
+13:44 going to delete everything in the
+13:46 contents of this layer real quick the
+13:48 spot healing brush we
+13:51 can should be able to let's see spot
+13:54 healing brush sample all layers okay and
+13:57 that means we're painting on a new ler
+13:59 which isn't going to destroy the pixels
+14:00 underneath and kind of come in here and
+14:03 do this whole thing right there and so I
+14:06 almost want I want this to actually be
+14:07 on top of the entire stack so there we
+14:10 go and so it's it destroys some of this
+14:14 right it it edited it so you need to be
+14:16 really precise with how small of a
+14:20 sample you want to
+14:22 do so because we're on a new layer I
+14:26 could actually come in here and erase
+14:30 so I just erase something that I didn't
+14:32 like and then come in here and draw
+14:33 again and if I won't need to I can just
+14:35 erase little details and switch back and
+14:38 forth between that and the hot keys are
+14:40 J and E in this case so J gets me spot
+14:43 healing brush where I'm just going to
+14:45 kind of fix this little section come in
+14:48 here try to fix these little sections
+14:50 and then hey I don't like that so I
+14:51 switch to e switch back to J and just
+14:55 kind of clean this up
+14:59 I want to keep the main look of this
+15:03 through to the
+15:05 original close as
+15:07 possible there we go that's starting to
+15:09 look like it so we're starting to blend
+15:11 that transition so it's not such a hard
+15:13 line you can see the line right here too
+15:15 real easy to see this right here but
+15:17 this should be pretty easy to just blend
+15:20 just a little bit right same thing
+15:23 that's just that red and I can erase get
+15:27 back to J
+15:31 BL that just a little bit there we go
+15:34 that's looking pretty
+15:41 good that did some things we didn't like
+15:43 right so it can just come in erase it
+15:45 switch to J spot healing
+15:48 brush I clean this up this is why it's
+15:50 really nice to have a pen tablet and
+15:53 just be able to draw I'm using a mouse
+15:55 um but it is a lot nicer to use the pin
+15:58 tablet just draw in and then if I want
+16:00 to I can use that um that adjustment
+16:03 brush and in this case color balance um
+16:07 I could just paint in this section right
+16:14 here Bo I'm not used to this tool that
+16:16 just Paints the entire thing doesn't
+16:20 it invert the mask I'm just trying to
+16:23 paint in right here and I want that
+16:26 color balance to make this more um
+16:38 orange there it goes that Blended a
+16:40 little bit
+16:43 better there you go so you can almost
+16:45 not see those transition lines anymore
+16:48 they're um really kind of
+16:50 Disappearing um I'll do one more
+16:52 adjustment here I'm going to do an
+16:54 exposure adjustment actually I'd
+16:56 probably do a curves adjustment and it
+16:59 looks like if I just click in here
+17:00 that's what happens okay so let's do X
+17:04 to switch my
+17:06 primary foreground and background layers
+17:08 does that do
+17:10 anything does I can't tell what
+17:14 though all right let me go back
+17:18 curves boy I don't know what that does
+17:20 let's go invert oh invert all right so
+17:23 there's a curves adjustment
+17:26 and I'm going to use my pick here I
+17:29 don't know where it got this curve
+17:32 from but I'm just going to click and
+17:36 pick and bring that down a little bit I
+17:38 just feel like it should have a little
+17:39 bit of
+17:43 a there we go starting to look like it
+17:47 got a little faded effect from the
+17:49 position to the
+17:54 right that blue turns into black really
+17:57 fast so
+18:00 sure if curves is the right pick here
+18:02 see what happens when we turn it off
+18:05 yeah know it it kind of made that
+18:06 section pop in a way I like it yeah this
+18:10 is looking pretty good so the next part
+18:13 of digitizing artwork is you really want
+18:15 to recreate Strokes right that's a big
+18:17 part of it um we are going to kind of um
+18:20 normalize this Frame this border let me
+18:23 throw a new layer in there
+18:30 by the way I think this is just the
+18:31 coolest thing to do for someone is
+18:34 digitize their artwork and to throw it
+18:36 in side of like Chief Architect or
+18:38 something um I just I just think it's
+18:41 such a such a nice thing to see your
+18:44 artwork um when you're an artist see it
+18:47 in a space is just an incredible feeling
+18:50 so I love doing this Love featuring
+18:55 artists so I could Square this off but I
+18:57 don't want to we're just going to use G
+18:59 and kind of see if we
+19:00 can't
+19:02 um see if I
+19:05 can't do a little bit of Pixel Perfect
+19:07 stuff here so use the selection tool to
+19:11 kind of
+19:13 Select oh let's see are we ready to
+19:15 stamp it yet no not
+19:23 quite I clean this up a little bit later
+19:43 want to maintain this kind of jagged
+19:45 edge that's going on here so that's a
+19:46 big part let's just get a crop
+19:50 going um I'm going to clear I had some
+19:52 kind of ratio in my crop I'm going to
+19:54 clear that out
+20:09 there we go okay so that looks like just
+20:14 the mic that looks like the main
+20:15 painting is looking pretty
+20:17 good like it it's about a 5 foot
+20:22 painting um I am going to do a stamp
+20:25 control shift alt e we that whole image
+20:29 I'm going to group the whole stack below
+20:31 it contrl g to group the whole stack so
+20:33 long as the background's unlocked or
+20:35 background's deleted so there's that
+20:37 group original we can turn the original
+20:40 into a smart object that kind of keeps
+20:43 it boxs it up in a way um now I want to
+20:48 contrl J this forward that's a copy and
+20:51 I'm going to work on a few things here
+20:54 I'm going to try to recreate some of the
+20:55 brush Strokes
+20:59 also would like to delete some of the
+21:01 white here
+21:04 um there are some ways we can do that to
+21:06 get rid of this kind of this section
+21:10 where it's
+21:15 um this section where it's clear that
+21:17 we've got a side side light
+21:21 source to think about good way of doing
+21:24 that
+21:28 okay um so I want to do a filter other
+21:33 and we're going to do a high pass filter
+21:36 and this is some a really quick and easy
+21:38 and dirty way of kind of finding some
+21:42 brush Strokes if you will and it and you
+21:45 can see it does a pretty good job of
+21:47 picking up some of those um those high
+21:52 points and so then from here we just do
+21:56 pull the saturation out if we like and
+21:58 then do a curves and kind of pick some
+22:02 points so we want some of these white
+22:05 sections to be real
+22:08 light there we
+22:10 go we want darker sections not to be so
+22:16 dark and then this whole
+22:19 thing I think we could darken up the
+22:21 whole thing cuz it is pretty glossy
+22:40 take a look at what this looks like I'm
+22:42 going to export this PNG real important
+22:45 when I have PNG no transparency for
+22:47 chief on this case let's get into art
+22:51 this is going to
+22:53 be I don't actually know the name of
+22:55 this so I'm going to have to get pick up
+22:56 the name of this
+23:04 I want to take a little check I want to
+23:06 bring the in a Chief Architect take a
+23:07 look at what it looks
+23:24 like so I would assume we'd throw this
+23:27 in a I mean this one's not framed let
+23:29 just going to going to find that art
+23:33 piece of art that's already close to
+23:34 what we're looking for from my
+23:37 library that's going to be this a little
+23:40 bit wider like that very similar to that
+23:43 but not
+23:45 frame Sand's
+23:48 frame oh no this one has a frame too
+23:50 even though I think it would look really
+23:52 nice
+23:56 framed here we go that's kind of shaper
+23:58 looking
+24:04 for and we're just going to
+24:23 replace and the nice thing if you did a
+24:26 really nice job on your um what would be
+24:29 a roughness map it can be used as your
+24:31 Bump map as well I'm going to use this
+24:34 in the
+24:36 roughness same
+24:40 map that's why we made it really dark
+24:43 because it will still provide a bump
+24:49 but cool here
+24:56 call dark
+25:01 [Music]
+25:03 put some movement in it yep there is a
+25:05 movement in
+25:06 the let's even put put a general
+25:09 material in this let's even put a little
+25:11 bit
+25:13 of shine in here just going to look for
+25:16 some kind of pearlin map
+25:23 here movement
+25:44 yeah okay A little bit of movement in
+25:47 the wall
+25:49 itself
+25:54 render there a light in here should be
+25:57 an art light but
+26:00 look at
+26:06 that so yeah we can see the
+26:10 height Height's a little bit
+26:13 tall in spots although the denoiser will
+26:16 make some of that kind of disappear and
+26:18 iron
+26:19 out we could try throwing this in a
+26:22 normal map generator see what
+26:26 happens let's
+26:31 throw some additional lights in here um
+26:34 it's going to kind of equalize this the
+26:36 scene if you will
+27:08 cool I'm going to use
+27:10 um um it's called this ISS Shader map
+27:15 Shader map 4 which is free you just
+27:17 clear out this first part that asks for
+27:18 a license and then click to load Source
+27:21 let's find that same artwork
+27:30 I'm actually looking for the bump map
+27:33 generate normal map from the bump but
+27:36 we're going to get a little bit of
+27:37 finite control over
+27:40 this so this is showing a cylinder let's
+27:43 go to a
+27:47 cube so we're kind of seeing we're
+27:49 seeing what happens with the normal map
+27:51 right
+27:53 here so in the normal we can kind of
+27:56 play around with the height of some of
+27:58 the stuff so I want
+28:03 intensity need to be that intense if
+28:06 it's that intense we want to bring down
+28:07 all the
+28:11 detail here we
+28:16 go looks cool it's just like a metallic
+28:18 plate
+28:20 huh if we bring the high level detail
+28:24 down up I think the high level detail I
+28:27 actually want to bring up that's going
+28:28 to be some of that crispy little chunky
+28:32 stuff and then midlevel and low level it
+28:34 can bring
+28:35 down sharpen it up a little bit think
+28:39 would
+28:41 help it's looking looking pretty clean
+28:44 Let's test this so we're going to save
+28:47 this um shows you where it's going to
+28:49 save what the name it's going to save
+28:51 I'm okay with all
+28:54 that let's go back into chief
+29:02 and we'll just take away the bump map
+29:06 throw the normal map instead
+29:37 but okay there's our normal map let's
+29:40 take a
+29:42 look still a little
+29:46 heavy yeah it's definitely a little
+29:49 heavy um which is an easy fix you take
+29:52 down the intensity
+29:54 here you export it again
+30:03 I believe it does not o I think it
+30:05 overwrite so I don't think I need
+30:07 to do anything but just press okay try
+30:11 it or just cancel just press okay and it
+30:16 updates yeah I think it did yeah that
+30:20 looks a little
+30:21 lighter it's looking pretty good
+30:31 cool
+30:37 painting right you need to set up a
+30:39 scene for
+30:41 it so let's just Pi this do want to see
+30:45 this option as a frame canvas too Pi one
+30:49 that's already
+30:53 framed this guy
+31:09 right and we're going to take both of
+31:10 these add them to the
+31:13 library named
+31:16 correctly
+31:21 and place the painting that's
+31:40 really dark scene but here we go just
+31:43 test this out
+31:59 cool is
+32:01 that very
+32:12 cool pretty wild with some like purplish
+32:15 lights going on in
+32:19 there tested paintings in the scen
+32:22 before and it really does come out
+32:23 looking pretty true to life
+32:28 low light
+32:29 there very neat
+32:33 cool let me know if you have any
+32:35 questions about this this was just a
+32:37 simple impromptu session I wasn't
+32:39 planning on recording it but figured why
+32:42 not this is um this is part of my
+32:44 process for digitizing paintings I might
+32:46 spend some more time to really detail
+32:48 this out but that was that's the gist of
+32:50 it
+32:54 [Music]

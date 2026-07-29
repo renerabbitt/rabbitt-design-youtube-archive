@@ -1,0 +1,80 @@
+---
+videoId: 3omW06LLAxY
+title: JobTread And BuilderTrend Automatic Note Schedules From Your CRM Straight Into Chief Architect
+url: "https://www.youtube.com/watch?v=3omW06LLAxY"
+status: imported
+---
+
+# Transcript
+
+0:02 I've got some big news for you builder
+0:02 trend or job tread users out there. I've
+0:07 got a system. I think it's a relatively
+0:07 inexpensive system for what it does. And
+0:13 what it does is maybe you are already
+0:13 inputting spec from your uh CRM. And so
+0:19 that's work that's already going to be
+0:21 done and it's something that you're
+0:21 going to be double-checking your input
+0:22 on. And that's maybe how you're building
+0:26 your estimates. That's maybe how you're
+0:28 building your, you know, job costing,
+0:28 etc. And so we already have that data.
+0:33 And wouldn't it be great to take that
+0:33 data and bring it into Chief Architect?
+0:38 Here we go. Not only would it be great
+0:40 to bring it into Chief Architect, and
+0:40 you're going to see here, I'm going to
+0:45 just enumerate straight from that
+0:45 estimate, okay? Or excuse me, that CSV
+0:48 file in this case. And I'll just make a,
+0:52 you know, multiple copy to create this
+0:54 list. But here we go. This is
+0:54 automatically pulling information from
+1:00 that CSV and we're only pulling the
+1:00 information we want to pull. In this
+1:01 case, title, description, quantity. And
+1:06 so for this particular designer, all
+1:06 they wanted to be able to do was, you
+1:08 know, grab the number that they need and
+1:12 place it on that object in plan so that
+1:15 they can designate that spec and it's
+1:15 coming straight from spec where we have
+1:20 skew matching and any other kind of
+1:20 databasebased matching that we might
+1:22 want in terms of the schedule matching
+1:25 up with our builder trend or job tread,
+1:30 what have you. So, this is a really,
+1:30 really cool system that should not only
+1:35 save you time and even recoup the cost
+1:37 of building this system in just a few
+1:39 jobs, but it limits your liability.
+1:39 That's always a big one for me. So, this
+1:44 is a huge one for me. It was um it was
+1:46 fun putting this system together. Big
+1:49 shout out to Michael Alaskan Son who
+1:49 helped me kind of uh do some, you know,
+1:55 little extraordinary hacks to get this
+1:55 system working with macros. And now the
+1:59 system just works right out of the box.
+2:02 I get to just export from my CRM and
+2:04 immediately start placing my default
+2:04 note tool in this case. Look at this.
+2:08 I'll just delete all these notes real
+2:08 quick and just use my default note tool.
+2:13 Click it. Place it. Look at that. Place
+2:15 it. There's my number two. Place it.
+2:15 Number two. And if I needed to have some
+2:19 kind of reference, I can even give you
+2:21 the automatic print out of what these
+2:21 numbers correspond with. So we know the
+2:25 next number is number four. Look at
+2:25 this. paint stain and wallpaper. I get
+2:27 to just click place and of course that's
+2:31 going to show up here. Paint stain and
+2:31 wallpaper. So simple as that. If you're
+2:36 interested in this system, contact me
+2:36 through the website, shoot me an email,
+2:40 shoot me a Facebook message. I'm happy
+2:40 to discuss it with you. I think this is
+2:42 priced very, very fairly and should save

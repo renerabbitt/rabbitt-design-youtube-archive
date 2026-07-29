@@ -1,0 +1,276 @@
+Title: VIP Hotkeys Session 4
+URL: https://www.youtube.com/watch?v=MV8Tu_sBjsM
+Visibility: members-only
+
+0:00 uh guess what VIP same day session
+0:04 number four we put out session number
+0:06 three a little while ago I did start
+0:08 messing around with a couple of ideas
+0:09 and so here's session number four this
+0:12 is a little bit more advanced so keep
+0:14 that in mind
+0:16 um
+0:18 not by much
+0:20 I'm trying to figure out how we navigate
+0:22 certain elements of chief that aren't
+0:25 all that easy to navigate so we know
+0:27 from session number three that I have
+0:29 all U bound to my library browser which
+0:31 I'm also going to change because if you
+0:33 watched all the way to the end of
+0:34 session number three uh you picked up on
+0:37 the fact that I'm not utilizing my mouse
+0:39 hotkeys to the to the fullest potential
+0:42 so and part of that is
+0:44 rebinding the library browser to some
+0:46 other hotkey but anyways I've got alt
+0:49 you
+0:50 as a combination right now and
+0:52 so then I was trying to figure out how
+0:54 can I make it so that I don't need to
+0:56 click on tags because I think clicking
+0:58 on tags is
+1:00 excruciatingly slow for me especially
+1:03 the way my brain works and I'd much
+1:05 rather just suddenly see the tag that I
+1:09 want in front of my face and swipe on it
+1:11 so I'd almost rather just be able to
+1:13 apply that to a hotkey
+1:15 well how do we do that one is I made a
+1:18 suggestion to Chief because right now we
+1:20 can't actually tab into tags and then
+1:23 search by their name the only thing you
+1:26 can do is search a tag which I could
+1:29 search light and you'll notice if I
+1:31 scroll down enough I might actually
+1:33 catch the actual tag that is light which
+1:36 is right there which is ridiculous and
+1:40 it's we can't Bank on this being here
+1:42 and we can't limit it to just tags
+1:45 there's no prefix like there is for
+1:46 other things such as type so if we type
+1:49 in type colon we can see that we get
+1:52 symbol type or just regular type well
+1:54 guess what that's problematic too we
+1:57 shouldn't get symbol type if we're
+1:59 typing in type we should see type first
+2:01 so a couple different problems with the
+2:04 browser here
+2:05 so now what do we do if we want to get
+2:08 into tags well have to do a number of
+2:11 things and I've kind of worked through
+2:12 all the issues already so here it is I'm
+2:14 going to do alt U alt U to prompt the
+2:18 browser backup and then I'm going to hit
+2:19 tab eight times one two three four five
+2:23 six seven eight that's going to give me
+2:25 the filtered results then I'm going to
+2:27 hit enter
+2:28 that skip gets me to here notice
+2:32 whatever temporary filter I might have
+2:34 had or filter I might have had selected
+2:36 before
+2:37 that increases the number of tag tabs I
+2:40 need to get into the tags search box
+2:43 well that's a problem so we need a way
+2:45 to reset this so the first thing you
+2:48 have to do is shift and that back
+2:50 bracket key to get us to Temporary
+2:52 filter and now we have a quantifiable
+2:55 and countable number of tabs we have to
+2:57 hit in order to get the tags which is
+3:00 six one two three four five six now I
+3:03 can search a tag that's where I'm going
+3:05 to input my tag specifically light and
+3:09 then I can hit enter and that's going to
+3:11 add that to the full filtered search
+3:14 parameters now I have to hit tab a
+3:16 number of times to get
+3:18 you know to that search enter and be
+3:21 able to press enter now we've added a
+3:23 tag well that's great that's fine what
+3:27 do we notice when we were building from
+3:30 session number three when I go to hit in
+3:32 our particular Library thing well one I
+3:35 need a way to clear that filter out very
+3:38 quickly and that needs to specifically
+3:40 be you know prior to me uh looking for
+3:44 my cabinet tools because that would be a
+3:46 big problem so now I need to add
+3:48 something to all my cabinet tool
+3:50 searches what am I adding well
+3:52 specifically that I'm going to
+3:55 um hit that alt you alt U tab six times
+3:59 or excuse me eight times hit enter Then
+4:02 I want to go to a saved search parameter
+4:06 filter excuse me save search filter
+4:08 which is clear and then hit enter what's
+4:11 that going to do it's going to clear any
+4:12 tags that already exist there
+4:15 well what are the problems I already had
+4:17 in session number three for my
+4:18 particular quick tools I'll tell you
+4:20 what they were when I go click on sync
+4:22 you're going to notice it's a little bit
+4:25 slower than I wish it was I wish it was
+4:28 a little bit faster than this and so how
+4:30 do we get this faster than this when we
+4:32 go to look at our hotkeys here
+4:35 and we click into our buttons and we
+4:38 click in you know we're on Chief
+4:39 Architect and I'm going to go look for
+4:41 my kitchen tools and I have to search
+4:43 kitchen tools to edit them
+4:45 go to edit
+4:47 and then I need to find my particular
+4:49 item well when I go to edit my
+4:52 particular item in this case the double
+4:53 oven
+4:55 what happens here is there any way we
+4:58 can set a delay to be less than the
+5:00 delay that was already in here well it
+5:04 might be that you can add your own delay
+5:06 which would be a lot of work
+5:09 um putting a delay in between every one
+5:12 of these I don't know if that adds to an
+5:14 existing delay or if it overrides right
+5:18 so is this compounding whatever existing
+5:20 delay is there which there is one
+5:23 does this somehow override that or not
+5:26 well let's do a guess and check
+5:29 for instance we know that we have a
+5:32 delay in one of these tools right so
+5:35 we're going to have to figure out which
+5:36 one that was I'm not even sure exactly
+5:39 um I do remember there was a delay but
+5:41 alternatively I want to hit close
+5:45 close Actually I don't even need to at
+5:48 this point I'm going to hit my Windows
+5:50 key in this case and I'm going to type
+5:52 in stop
+5:53 and what's going to happen is
+5:56 it's going to give me the option to stop
+5:57 3dxware that's going to stop the 3dxware
+6:01 driver package meaning turn it off it's
+6:03 no longer active my hotkeys aren't there
+6:05 I'm pressing something on my space Mouse
+6:07 it's not working next thing I want to do
+6:10 is I'm going to open up a Windows
+6:12 Explorer menu
+6:14 I'm on Windows you can have to figure
+6:15 this out for Mac no ID on Mac on this
+6:18 one and I'm going to type in percentage
+6:20 sign app data percentage sign okay then
+6:23 I'm going to click on 3D connection
+6:25 3dxware config I want to group this by
+6:29 type so that I can limit some things
+6:32 or we can even do I think you can type
+6:34 in
+6:36 well I always have trouble with this EXT
+6:40 colon
+6:44 dot XML yes there you go so EXT colon
+6:49 dot XML it's going to get me to just the
+6:51 XML files here and we're going to notice
+6:53 something and please please please first
+6:56 export your existing XML before you do
+6:58 this or make a copy so I'm going to open
+7:01 up Chief Architect
+7:02 okay
+7:04 and we're going to reload it now
+7:05 something I'm going to do immediately is
+7:07 I'm going to control F to search and
+7:10 we're going to look for something I'm
+7:11 going to look specifically for one I
+7:13 named check okay so I'm going to find
+7:15 check and we can see here ID filter
+7:18 check let's go ahead and find next
+7:21 ID filter check look at this where it
+7:24 says pause
+7:26 this is the space in milliseconds it's
+7:30 putting between my actions I will tell
+7:32 you I've already edited this it's at 40
+7:35 milliseconds now I'm going to change it
+7:37 to 30 and see if it'll still fire off
+7:39 okay now what I'm going to look for is
+7:42 Ctrl F and let me type in pause again
+7:44 let's actually look for some different
+7:47 pauses well we can see here we've got
+7:49 some entry here where
+7:51 in fact when you add a pause it is part
+7:54 of the keystroke for that macro entry so
+7:57 it does make an entry within the macro
+7:59 entry let's keep looking so sequence
+8:02 pause seems to be the difference here so
+8:05 for instance a sequence pause in between
+8:08 enacting that floor defaults it's
+8:11 showing there 120 right
+8:15 let's keep looking through these pauses
+8:16 and what we're going to find is we're
+8:18 going to get to those kitchen tools and
+8:20 that's going to be a real interesting
+8:22 part for me
+8:26 so you can see here everything has a
+8:29 pause and I don't believe it had this in
+8:31 the old coding versions before so now
+8:34 let me look for something specifically
+8:36 that I want to find and adjust let's
+8:38 just go uh I think we have something
+8:40 called dishwasher so here's the
+8:43 dishwasher pause is 120. let's check
+8:46 this out I'm going to change this to 35
+8:48 I'm going to now save this document okay
+8:53 I'm going to save this document now
+8:55 we're going to click window key start go
+8:58 to start 3dxware
+9:01 okay I'm gonna get a little flashing
+9:03 buzzing whatever is going to happen here
+9:05 it's going to move your mouse around
+9:06 kind of weird it's going to think for a
+9:08 second finally the 3DX where home comes
+9:10 up here and we know that the driver
+9:12 package is re-initiated so we know from
+9:16 before when I was using these macros
+9:19 that we have a little bit of a delay so
+9:21 let's bring up that menu now we know for
+9:23 the oven in for instance we didn't
+9:25 change any of the sequence pause right
+9:27 so I hit this
+9:29 and it's pretty quick that's as fast as
+9:31 it's going to get we can see that you
+9:33 know the online moans checked off that's
+9:35 about as fast as it's going to get now
+9:37 let's try the dishwasher and see if
+9:38 anything improved
+9:40 definitely way way faster I can prove
+9:45 this yet again by showing you my filter
+9:48 check all right so I'm going to swipe up
+9:50 the filter this is going to do all you
+9:52 alt U tab eight times
+9:55 hidden a back bracket tab six times type
+9:59 in light hit enter okay let's check it
+10:03 out
+10:05 all right 35 milliseconds didn't have
+10:08 any problem with that did it perfectly
+10:10 so now I'm going to write a script
+10:12 that's going to
+10:13 all um all you will you
+10:16 uh Tab 8 times it'll get into this I'm
+10:19 going to type in clear and hit enter
+10:20 what that's going to do is enact my
+10:22 clear tags filter and I'm going to put
+10:24 that in the front of every one of my
+10:26 quick tools so that it clears any
+10:29 existing tags because I don't need tags
+10:31 when I'm searching my quick tools there
+10:33 you go so that should give me some
+10:36 results Ultra Ultra fast it might be
+10:39 that I just want to clear tags before I
+10:42 start searching so I might just use the
+10:43 clear Tags by itself and then I know I'm
+10:46 going to be using my quick tools I'll do
+10:48 it in sequential order that feels really
+10:51 intuitive to me I don't have any problem
+10:52 with that and that will kind of speed
+10:54 things up even more right so there we go
+10:58 that's session number four some new
+10:59 stuff for you

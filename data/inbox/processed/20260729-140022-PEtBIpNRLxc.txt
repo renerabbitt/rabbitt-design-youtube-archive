@@ -1,0 +1,560 @@
+Title: Custom Hood Symbol In Chief Architect X15 2 of 2
+URL: https://www.youtube.com/watch?v=PEtBIpNRLxc
+Visibility: members-only
+
+0:00 VIP
+0:02 VIP uh there's a version one of this
+0:05 video and now I am on version two I want
+0:10 to improve this even more I want to
+0:11 improve this to the point where I feel
+0:13 comfortable giving it out to the general
+0:14 public and I always take a little bit
+0:17 more time when I'm putting out a symbol
+0:20 for everybody to have um because I want
+0:22 it to be the best that I could make it
+0:24 so um am I going to get to this to the
+0:27 best that I could possibly make it maybe
+0:29 maybe not um we'll see my thought is
+0:32 that in the previous video well one I
+0:36 had the offset of the uh the exhaust
+0:42 insert well the front of this is
+0:44 actually where the lights are and the
+0:46 front of this should be closer to the
+0:48 edge of the hood assembly so that's
+0:51 problem number one problem number two is
+0:54 that the entire underside of this if we
+0:57 kick on um just a rendering
+1:00 is UV mapped the same as the insert in
+1:05 here so that if you want a paneled
+1:07 section on the insert you're going to
+1:08 get a panel on the underside which just
+1:11 doesn't look right right and in fact it
+1:14 it even affects this molding as well so
+1:16 I don't like that at all and
+1:19 then anything else I notice here no well
+1:23 and I think I could be more precise with
+1:26 my light placement not that it matters
+1:28 all that much but I do think I could be
+1:30 a little bit more precise with my light
+1:31 placement now we got x16 coming um they
+1:35 did note in um in a future release at
+1:38 some point that any kind of emissive
+1:42 material will actually emit light as
+1:46 opposed to having to add light sources
+1:48 so you know until we get that then it is
+1:52 worth going through the steps of
+1:54 generating a light um from this fixture
+1:57 so we're going to do the same thing that
+1:58 we did in in version one where generate
+2:00 a light for the fixture but here we go I
+2:03 started version two of this and this is
+2:05 more appropriate I've got um UV map for
+2:08 this pink right here I've got like maybe
+2:10 3 Ines of rail here and then what I'm
+2:13 doing is I'm tracing and creating a
+2:15 molding and so how I did that was pulled
+2:18 an elevation
+2:20 and I just traced much like I I
+2:24 typically do just use the line tool so I
+2:27 like to turn off color for this that
+2:30 makes it a lot easier to see right and
+2:32 then continuous draw mode that's your
+2:34 right click draw through the Apex I know
+2:36 I say this a lot in videos but I like to
+2:38 keep sending this home right draw
+2:40 through the Apex hold your control key
+2:43 draw through the Apex and then you have
+2:45 to see that look here's the Apex of this
+2:48 curve here's the Apex of this curve well
+2:52 maybe I can even draw this let's just
+2:53 draw this out I'll I'll show you my
+2:55 thinking here
+3:02 there we go I'm going to finish right
+3:04 there remember left and right click to
+3:06 stop drawing okay and then let me see if
+3:09 I can't get my I'm not sure if this
+3:12 works my tool to draw on this does this
+3:14 give me a draw it does okay so here's
+3:17 the Apex right so we drew through the
+3:20 Apex so if we
+3:23 move down to the next
+3:26 portion I'm drawing through the Apex
+3:29 right here
+3:31 right through here and then the Apex
+3:33 over here same thing drawn through it
+3:36 there all right hey that worked kind of
+3:38 so what I would do then is hold my f key
+3:40 to fill it and fill it to the shortest
+3:43 next segment so up or down what
+3:46 whichever segment is shortest so this is
+3:48 a Shortline segment I'm snapping to that
+3:51 Center Line okay same thing it looks
+3:54 like the next segment short section is
+3:57 upward so I'm filling to the upward SE
+3:59 section there here's a short section
+4:02 downwards there we go and then finally
+4:05 I've got one more short section there we
+4:07 go so I get a nice curve here nice even
+4:11 curve so it's really easy to draw in
+4:13 this way and get some accur accurate
+4:15 curves look at that right so that's how
+4:18 I did this so I made a molding and then
+4:20 let's pull our other cross-section let's
+4:22 take a look at what this molding is this
+4:24 is actually a series of moldings so and
+4:28 I was stupid I should have named my
+4:30 molding I just added it to the library
+4:32 and I didn't rename it but here's what
+4:34 we're looking at is there's that base
+4:35 molding that I created okay here's the
+4:38 height you can always double click in
+4:40 here to copy this and then I've got a
+4:43 flat stock molding that I set to be two
+4:47 times the height of this and then plus
+4:51 whatever I wanted in between which was 6
+4:53 in and then I did a vertical offset the
+4:56 same height as this base molding and
+4:57 that made it so that it's lined up here
+4:59 here okay and it's highlighted so it
+5:02 doesn't look like it's lined up so it's
+5:03 got a thickened line because it's
+5:05 highlighted right now you'll see when we
+5:07 select this molding now that's
+5:08 highlighted see that all right so the
+5:11 next part of this is I want to create
+5:13 this the upper portion and I really
+5:16 could make it whatever I wanted to I can
+5:18 make it have a light um slight Bend I
+5:20 could make it kind of be faceted if I
+5:23 want to um a couple different ways you
+5:25 can do this right I think faceted might
+5:27 be a really interesting approach to it
+5:30 and I wonder if I
+5:32 couldn't set that up in a way that was
+5:36 quick um and how would I do that I'd
+5:39 probably use a regular polygon tool and
+5:42 let me just throw this out let's see
+5:45 let's just say I'm going to do um rad
+5:50 we've got side length radius to side
+5:52 radius to Corner if I do side length and
+5:54 I say that I want 24 sides and I want
+5:57 the side lengths to be 6 in what I'm
+5:59 saying is I want slats that are 6 in and
+6:03 I need 24 sides look at what this is
+6:06 doing for me okay so if I line this up
+6:09 and I'm placing this let's pull out of
+6:12 the zoom real quick I'm actually going
+6:14 to do a little point to point
+6:16 here and I'll just kind of snap this to
+6:20 the edge and you see what I've done here
+6:22 I've made a faceted side kind of cool
+6:27 right so that if if I take my line tool
+6:31 and just cut through the middle of this
+6:33 and take my line tool and just cut right
+6:35 here I can take this and now I can trim
+6:38 the rest of the circle except for that I
+6:40 need to take this and connect it to that
+6:42 other line so it should be that we've
+6:44 got line and line segment I don't know
+6:47 if you can see that but it's line up
+6:49 line over now I can take that trim and
+6:52 try to trim this circle and look what
+6:54 I'm left with okay now because I snapped
+6:58 it right to the uh corner it's autoc
+7:00 connecting so I got to disconnect that
+7:02 edge but now I have a faceted angle
+7:05 Isn't that cool you know pretty neat let
+7:08 me bring this over 3/4 of an
+7:11 inch
+7:12 oops 3/4 of actually you know what
+7:15 before I even bring that over let's just
+7:16 do it this way we're going to we're
+7:19 going to make this grow we're going to
+7:20 make this actually grow so we're going
+7:21 to copy paste and we're going to hold
+7:23 this centering node okay and I want to
+7:26 drag this over this actually is
+7:28 concentrically resizing and then I can
+7:31 tap um tab or enter check polar and I'm
+7:36 going to say that this is a three4 inch
+7:38 offset
+7:39 atga 100 well we're leave it at 150 it
+7:42 seemed to know that we were moving
+7:44 things tangent so there we go we've
+7:47 essentially
+7:49 made well that looks like a larger than
+7:51 3/4 no that's a 3/4 inch panel Isn't
+7:53 that
+7:54 cool so that if I just kind of bring
+7:57 this back and you know these lines will
+7:59 stay in line with themselves until they
+8:02 give you know you give it a reason not
+8:03 to and I'm going to use an inference
+8:05 snap to kind of grab this and then close
+8:07 up the poy line and we can extend this
+8:09 down so what I've created here is a
+8:13 faceted system right let's actually get
+8:16 this real tight we're going to have um
+8:18 trouble getting this to snap but you got
+8:19 to bring it out to the profile of the
+8:21 molding itself to snap there we go so
+8:24 now I've got this molding let's add it
+8:25 to the library let's name it something
+8:28 so let's just say it's going to be
+8:30 double click
+8:32 facet um
+8:36 molding right and then I don't want to
+8:39 hover over and replace I need to open
+8:40 this molding up and we're going to add
+8:42 new and find that facet
+8:45 molding just like that now it's extruded
+8:50 about the inside of the polyline so we
+8:51 got an issue there we got to just flip
+8:53 that that's no big deal and then now we
+8:56 have to figure out all our offsets to
+8:58 get this lined up correctly right so our
+9:00 overall height we see here from the flat
+9:02 stock molding is 1158 so it should be
+9:04 that we get to do a vertical offset 1158
+9:07 bam uh except for that was that was off
+9:11 for some
+9:13 reason I'm not sure why vertical offset
+9:16 1158 to the top no to the bottom so
+9:20 interesting oh because I have this set
+9:23 up just so you know let me just press
+9:25 okay I have this set up so that the
+9:27 bottom of my
+9:29 polyline is the top of this first
+9:32 molding and I did that so that I could
+9:34 snap it very precisely to where I wanted
+9:37 it according to where I had the flat
+9:40 plane and the duct insert if you follow
+9:43 that you might have to watch that a
+9:44 couple times just to understand that so
+9:46 I did an offset for the first molding so
+9:49 that my polyline is at the top of that
+9:51 Crown because I wanted to just line
+9:53 things up uh according to the top of
+9:57 that piece that that molding so let me
+9:59 open this up again so all that means is
+10:01 my vertical offset here needs to
+10:03 subtract the the height of the first
+10:07 molding and now it's lined up so if we
+10:10 take a look at this now that's lined up
+10:13 height to height right the only other
+10:14 thing is we've got to offset
+10:16 horizontally the same as this width here
+10:19 to get started let's see if that makes
+10:25 sense yeah that's pretty close to what I
+10:27 want right there very very cool let's
+10:30 take a look at what this looks like in
+10:32 3D once it's put
+10:36 in how cool is that right so maybe it's
+10:41 that I can take a material that's just a
+10:43 wood material and apply it let's just U
+10:47 I'm going to type in an rdwood and and
+10:49 maybe just maybe it looks a little bit
+10:52 better with that facet now this the
+10:55 thing I could have done is put a little
+10:56 indention in that faceted angle and and
+10:58 maybe would have done something cool as
+11:04 well and again this this room is devoid
+11:07 of light so we're going to have trouble
+11:09 getting a really
+11:12 good backdrop there and then I also want
+11:15 to do something updated to my library
+11:18 which is I'm going to split out
+11:20 backdrops into um sectioned folders
+11:23 because backdrops take a really long
+11:25 time to load on most people's machines I
+11:28 got one of the fastest machines on the
+11:30 planet right now and it still takes a
+11:32 while to load backdrop so I think I want
+11:34 to um split these up in a way that makes
+11:37 it a little easier to
+11:40 navigate especially because we're
+11:42 searching online for them Etc so I'm
+11:45 going to grab one of my ones that I know
+11:46 improves the rendering quality which is
+11:48 it's an underexposed one and then I'll
+11:51 also just go delete the terrain which
+11:53 will make it really easy to render this
+11:55 out and see it there we go so there's
+11:57 that faceted angle Woods applied to it I
+12:00 still think I need this Cedar material
+12:04 here and I also looks like I need to
+12:06 turn that cedar material you know
+12:08 moldings um materials apply differently
+12:11 to moldings so something to keep in mind
+12:14 so I'm going to put this back to 0o in
+12:16 turn and then here's where we want to
+12:19 count our slats here if I want to make
+12:22 this 6 in so one 2 3 4 5 6 7 8 9 10 11
+12:27 12 13 14 15
+12:29 18 19 20 21 22 so we got 22 slots right
+12:34 so if we wanted this to be 6 in and
+12:36 retain aspect ratio is checked we got to
+12:38 go
+12:39 22 um times
+12:43 6 right so that pumps that texture up
+12:45 quite a bit and look at that now the
+12:48 last thing that you might need to do
+12:51 is you might have to just kind of play
+12:54 with the offsets here pretty interesting
+13:01 does in fact look like slats it looks
+13:03 like I got um a repeat here for some
+13:06 reason that's something with the tiling
+13:09 of the texture
+13:13 possibly but this is looking pretty
+13:15 sharp we've got a UV mapped pink section
+13:17 here now we want to map each section
+13:20 here something a little bit different so
+13:22 I want these sections to be a little bit
+13:24 different than this middle section right
+13:26 so this is what I have this this color
+13:28 palette here at the bottom of the screen
+13:29 if you've got my toolbars and you've got
+13:31 these linked to some colors especially
+13:33 if you have my full Library makes it
+13:34 really easy to color coat this for
+13:37 future
+13:38 use there we go slick okay so from here
+13:44 where do we go um I want to put that
+13:46 banding on there so this metal banding
+13:47 that I've got here you know it's always
+13:50 difficult to locate this banding an easy
+13:52 way to locate the banding is in
+13:53 elevation so you can actually select
+13:57 this there we go we can Center it up
+14:00 it's hard to pick a um a Center Line in
+14:02 this view so sometimes this is a little
+14:04 bit easier to do in plan view so it's a
+14:06 little bit of jockeying around you got
+14:08 to um understand we got a carrot here so
+14:10 that's a fixture how do we get to that
+14:12 actual molding there's the molding now I
+14:14 can Center this up and then it's going
+14:17 to be hard for me to kind of pick Center
+14:19 because there's only one element in here
+14:21 that really has a center line which
+14:23 means you got to kind of come in here I
+14:25 wish the tolerance for the center line
+14:27 was a little bit better it's right in
+14:30 you saw it flip on the screen there for
+14:32 a split second and then it disappeared
+14:34 cuz that tolerance is so
+14:39 tight oh here here we go it's up here
+14:42 maybe
+14:43 man such a tight
+14:46 tolerance maybe it's even easier in 3D
+14:49 let's try
+14:53 this how difficult is that I only have a
+14:56 very short segment that's a center line
+15:00 very very short so pretty difficult it
+15:03 won't let us Center on the molding you
+15:05 have to Center on this little sliver
+15:07 here makes no sense so in that case
+15:10 almost better just doing kind of a a
+15:13 reference line if you
+15:15 will and even that's difficult so we got
+15:17 to
+15:18 catch maybe this molding
+15:22 Edge draw that over what a pain right
+15:25 and now we've got a center line to go
+15:27 off of what a pain
+15:30 okay so I've got this banding centered
+15:33 up and got to center it up this way as
+15:35 well there we go that bandings up and
+15:37 now pulling elevation this is when it's
+15:40 really easy to just drag this up and put
+15:43 it in place and in fact oh look at that
+15:46 we could have centered based on this
+15:47 right there that would have been a lot
+15:49 easier now my new molding is a little
+15:51 bit wider than the old molding which
+15:53 means that I'm going to have to resize
+15:55 this and which means I got to get back
+15:57 into plan View
+16:01 and now we got to figure out which
+16:02 molding is which so it should be Let's
+16:06 see we if we just open this it should
+16:08 tell us which one this is so that's that
+16:11 banding
+16:13 and what's Difficult about this is just
+16:16 getting that cone Centric to set up in a
+16:18 correct way and we got to understand
+16:20 how's this banding being applied it is
+16:21 being applied to the outside so we want
+16:24 to go based on the outside here let's
+16:27 see if I did that right
+16:29 there we go and so I made this Center
+16:32 section A little bit wider than the
+16:34 previous Center section and so you know
+16:37 you're jockeying back and forth to these
+16:39 various views it might be nice to just
+16:40 have these views tiled although that
+16:42 does um sometimes slow things down 5 and
+16:47 1516 is the in between no 6 Ines there
+16:50 he
+16:54 goes so here we go oops wrong wrong one
+17:01 there we go and here's our 6
+17:08 inch all
+17:12 right so if I did this all right I
+17:15 should be able to paint the Inside Edge
+17:18 separate from this trim Edge separate
+17:21 from well the top and bottom trim get
+17:23 the same you know what I might even like
+17:26 to do the top one a little bit different
+17:29 that gives us the opportunity to add
+17:31 another material that's just a little
+17:33 bit different adds to the realism just a
+17:36 little bit right and then I think I
+17:38 actually want this banding to duplicate
+17:40 again now notice that the banding
+17:42 actually got stretched and that's a
+17:44 problem so um can we open and edit this
+17:49 right from here yes we can hit that edit
+17:52 button here and
+17:55 then no we can't we can't actually edit
+17:58 edit the symbol from
+18:01 here so this was an autosave and it
+18:04 didn't save at the right time and so in
+18:08 the previous video I showed you that we
+18:10 need to put a stretch plane in in this
+18:11 material for it to to work correctly so
+18:14 it didn't manage to do that on
+18:17 this so let me just get back into my
+18:19 library and I should have the corrected
+18:21 one
+18:29 let's see if this one
+18:48 works no that one also stretched let's
+18:52 try and it shouldn't have let me just
+18:55 open this symbol double check what
+18:56 happened here
+19:00 that's interesting it still stretched
+19:02 our rivet even though we've got a
+19:03 stretch plane in in
+19:05 between so not sure why that is that
+19:08 seems like a glitch to me have to maybe
+19:10 report that to Chief um the fix could be
+19:14 for this is that I'm changing the
+19:16 segment length so I can come in here and
+19:19 in the repeat distance maybe I'll
+19:20 improve this to 25 in it's going to make
+19:24 for a different look but maybe it fixes
+19:26 that stretching just a little bit on the
+19:28 right round section which it does that
+19:30 works so that's okay um hey you know
+19:34 something worth the uh reporting to
+19:35 Chief about and then this upper portion
+19:38 should represent where um that upper
+19:41 portion of the molding is so if we get
+19:43 back into our section view
+19:47 oops and I select this and I can copy
+19:51 paste drag this up and I want to drag
+19:54 this up to the top have it snap and then
+19:57 tab enter
+19:59 minus 6 and actually I made a mistake it
+20:03 needs to be
+20:04 exactly
+20:06 um exactly 90° so as I'm dragging this
+20:09 if I hold shift that pins it to
+20:13 90° right so you see the center line
+20:16 snap comes up there we go and if I let
+20:20 go and then hit tab or enter now it's
+20:22 pinned on 90 now I can say minus
+20:26 6 perfect right so here's the last trick
+20:30 is I need to you know figure a way to
+20:32 select this one and not the lower one
+20:34 and you know it's easy enough to just um
+20:39 maybe it's easy enough to just shrink
+20:40 this right now on the one side and that
+20:44 way it'll be very clear to me when I
+20:47 look in the plan view yep there it is so
+20:50 easy to grab this now I should be able
+20:52 to just go right on the outside of this
+20:55 assembly here right on the outside of
+20:57 this assembly here this is where we're
+20:59 going to lose snaps we're not quite
+21:01 going to get the right snap for this
+21:03 upper portion we could do it in
+21:06 elevation I'm not too worried about it
+21:08 I'm going to be within you know 64th of
+21:11 an inch or something like
+21:21 that there we go so now I have banding
+21:24 on the top um you know what it got a
+21:26 little bit cut off fny so it looks like
+21:29 it does need to get resized just ever so
+21:32 slightly I can concentrically
+21:35 resize maybe we'll go if we pull out 90
+21:38 to the left then we can very accurately
+21:40 do something like let's just do it
+21:43 incrementally let's tile the windows so
+21:46 we can see
+21:50 them that's actually pretty good that
+21:53 looks pretty good yeah interesting
+21:57 assembly right so now it's just a matter
+22:00 of let's just select the whole thing let
+22:02 me get rid of this light here select
+22:04 this whole thing convert it to a symbol
+22:07 this is going to be that electrical
+22:10 again let's show Advanced options we're
+22:12 going to add it to the
+22:15 library and ADV options are going to be
+22:19 that we actually we didn't need to add
+22:22 it to the library because we're going to
+22:23 change the materials once we place it
+22:25 again but here we go so
+22:31 let's take a look at light data we're
+22:33 going to specify as the light options
+22:35 ceiling
+22:38 mounted we want in the 3D to put this
+22:41 back to
+22:44 zero that light
+22:46 data we already kind of knew this was
+22:49 what -28 or
+22:54 something - 29
+22:58 about right in fact I would even argue
+23:01 that these lights can go a little bit
+23:02 lower but that's okay and then we've got
+23:05 a totally different offset in the Y so
+23:07 in the Y we're going to be um overall
+23:10 width of this is 30 in or something
+23:12 there we go and this is just that
+23:15 guessing check again I'll pause it and
+23:16 come back when I'm
+23:18 finished okay I'm all set if we look
+23:21 into the library here and let's just go
+23:25 take a look at this it's just called
+23:26 electrical for right now you can see
+23:28 here the color coding was I've got one
+23:31 color here Second Color here the steel
+23:34 color this green color is another color
+23:36 on the Inside Edge is a different color
+23:39 and the bottom of the base so now that I
+23:41 have all those different colors I made a
+23:43 couple different Woods that are very
+23:46 similar to each other so it's a little
+23:48 bit lighter in this wood than it is in
+23:50 this wood and then I applied that
+23:51 lighter wood to the Inside Edge here and
+23:54 I mean it just starts looking really
+23:56 realistic when we let this thing sample
+23:58 out out and D noise that just looks like
+24:01 a really nice piece right so we just
+24:06 kind of spent some time getting all this
+24:07 stuff dialed in there's one problem with
+24:10 it and that's just this is kind of
+24:11 inherent in moldings we got a goofiness
+24:14 here where it's definitely changing an
+24:17 offset here on just this one side you
+24:19 know what it's unfortunate I might take
+24:22 the time to go fix it but for the
+24:23 meantime if I just place this in One
+24:26 Direction uh it's looking pretty good
+24:28 so I'm pretty happy with that anyways
+24:31 leave comments leave questions if you've
+24:33 got anything if you're if you're trying
+24:35 to produce this yourself um just uh let
+24:38 me know your thoughts all right
+24:45 [Music]

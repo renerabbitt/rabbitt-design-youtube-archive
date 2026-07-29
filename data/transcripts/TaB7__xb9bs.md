@@ -1,0 +1,184 @@
+---
+videoId: TaB7__xb9bs
+title: Create A New Custom Split Font Replacement In The Pro Plan For Rich Text In Schedules in Chief Archi
+url: "https://www.youtube.com/watch?v=TaB7__xb9bs"
+status: imported
+---
+
+# Transcript
+
+0:03 The Pro Plan has a unique font that
+0:05 comes with it, and that font does
+0:05 something really, really cool. It does
+0:11 rich text-like looking room labels and
+0:13 rich text in
+0:13 um schedules, as well as full-height
+0:18 print superscript on window and door
+0:20 labels. So, it's a really important
+0:22 feature of the Pro Plan to really
+0:22 distinguish your plan sets from other
+0:26 plan sets. Now, if you want to use a
+0:28 font that I don't include in this
+0:28 package, which is based on the Arial
+0:30 font, what do you do? Well, you'd have
+0:34 to make a really custom font, and it's
+0:34 kind of challenging to make. Except for,
+0:39 now I've got a font package in the step
+0:39 four folder of the Pro Plan package that
+0:45 can help you make a font, and it's
+0:45 pretty quick. It's only a few steps. So,
+0:50 follow along with this real quick.
+0:50 So, in the step four folder, required
+0:56 fonts, okay? And it does tell you you
+0:56 need to restart Chief. It's an important
+1:00 note. Anytime you make a new font and
+1:00 install it on your machine, you have to
+1:04 shut down Chief and restart it because
+1:06 Chief will not see that new font. So,
+1:06 that's an important thing to note right
+1:08 off the bat. So, I'm going to click into
+1:11 required fonts, and then there's this
+1:11 create your own folder, and here's where
+1:16 you're going to download Font Forge,
+1:16 which is what I use to modify fonts. And
+1:20 so, that's going to be a download link
+1:20 for you whether you're on a Mac or a PC.
+1:25 And then, alongside of that is a Python
+1:26 script, and you're going to need some
+1:29 kind of a text editor to open up that
+1:29 Python script, okay? So, what I'm going
+1:35 to do next is start up Font Forge, and
+1:36 I'm going to locate my font. Now, if you
+1:40 don't have a font downloaded, if you're
+1:42 trying to modify some kind of a system
+1:44 font, I would say go ahead and do a
+1:44 little Google search on how to do this
+1:48 for Macs, but for PCs, you could just
+1:48 type in fonts, and you'll get into the
+1:52 systems fonts folder where you can
+1:52 locate a font just by clicking on it and
+1:58 noting the location of where it is,
+1:58 okay? So, you can copy that location to
+2:02 your clipboard.
+2:02 So, next, I'm going to go ahead and open
+2:07 up a font from where I store my fonts,
+2:10 and let's just do this Architext file
+2:11 cuz not done this one before, and I'll
+2:15 open this up. And so, this is Font
+2:16 Forge.
+2:16 And so, what I'm going to do is get into
+2:20 the file menu, and I'm going to execute
+2:22 a script, and it's going to bring up
+2:22 this dialog box. I'm going to make sure
+2:26 that the Python little checkbox is
+2:27 checked, and then I want to get back to
+2:32 that step four folder and open up this
+2:32 Python script with a text editor. I like
+2:38 to use Notepad++
+2:38 So, Notepad++ will open this up where I
+2:40 can do a little control A, control C, or
+2:45 command A, command C if you're on a Mac
+2:45 to just select all and copy. And then, I
+2:50 want to get back to Font Forge, and this
+2:52 is where I'm going to paste this script
+2:55 and press okay. And this is going to
+2:55 start doing some action to my script.
+2:58 Now, this will come up with some errors,
+3:03 but those errors, in large part, won't
+3:03 affect the performance of this font for
+3:07 what we're using it for. So, I'm just
+3:09 going to press okay in this case.
+3:09 Close this little dialog box out if you
+3:12 can.
+3:12 Um it looks like
+3:17 Okay.
+3:17 And so, next up, I just get to come in
+3:23 here and click on generate fonts. And
+3:23 so, it's going to automatically append a
+3:28 new suffix called split, and it's going
+3:30 to change the font family name so that
+3:33 it has no potential for overriding the
+3:36 existing font, okay? So, now I get to
+3:38 press generate.
+3:38 It's going to maybe come up with some
+3:41 kind of an error. That's okay. You're
+3:41 just going to press yes, and then that
+3:46 just generated that font. Now, please
+3:46 note where you're locating that font so
+3:51 that you can go find it, and in this
+3:53 case, here it is right here, and
+3:53 double-click it to install or drag it
+3:56 into your fonts so that you can install.
+4:02 And so, I'm going to click on install.
+4:02 There we go. You can see it's Architext
+4:06 Split font. That's the one I just did,
+4:07 and I'm going to load up Chief
+4:14 All right. And just to test this out,
+4:17 we'll open up the Pro Plan.
+4:17 Here's where you're going to get into
+4:18 the edit menu, replace fonts, okay? Edit
+4:24 menu,
+4:24 like that.
+4:26 So, this brings up this little dialog
+4:28 box. The only one we need to replace is
+4:32 Rab's Custom. That's the only one, okay?
+4:37 Leave the other ones alone. What you'll
+4:39 do with the other one in this case, cuz
+4:41 I'm using that Architext font, was I
+4:41 would change Arial to Architext. Inter
+4:44 18 semi-bold is specific to 3D dimension
+4:50 defaults, and I'd say go ahead and leave
+4:51 that, but you would change this to
+4:51 whatever the original font is that you
+4:53 need, and change the Rab's Custom to the
+4:59 brand new custom font you created. So,
+5:02 I'm going to click on replace with
+5:02 and go ahead and locate that Architext
+5:07 Split, just like that. Let me press
+5:08 okay.
+5:08 Test it out.
+5:10 Draw out a room.
+5:13 First, we'll see what the superscript is
+5:17 looking like for this font.
+5:23 there we go. And that superscript
+5:23 actually looks really good. So, this is
+5:27 I've never tried this font before. This
+5:29 is just out of the box settings. Let me
+5:31 go ahead and change the room name. That
+5:33 looks pretty good, as well. And that
+5:33 looks sharp. And then, let's go take a
+5:37 look at the schedule.
+5:37 And yeah, schedule looks pretty sharp,
+5:39 as well. So, just as simple as that, you
+5:44 can get this new split font to look
+5:44 pretty good. Now, if for some reason you
+5:48 need to modify the settings, if for some
+5:50 reason the superscript's not large
+5:50 enough or it's too small or it's um not
+5:57 pushed up high enough or maybe um
+5:57 the main text isn't bold enough or the
+6:03 smaller text isn't small enough,
+6:03 you can get back to that Python script,
+6:08 and there are some instructions here in
+6:10 here. If you want to just copy-paste
+6:13 this into it some kind of AI and
+6:13 instruct it to make some adjustments for
+6:17 you, you can do that, but
+6:17 the user settings section right here is
+6:20 a place where I can change some of these
+6:25 scale factors in case that this didn't
+6:28 do a great job right out of the box.
+6:28 Um I hope you really enjoy this. I know
+6:31 this is something I've been meaning to
+6:32 do for a really long time, and this
+6:32 gives you a little bit more control over
+6:37 the Pro Plan and how it behaves.
+6:37 Um I know a lot of people have tried to
+6:40 switch to a different font, found out
+6:40 that it um they really missed that split
+6:46 type font where we've got that rich text
+6:48 function, and then they just go back to
+6:50 using the Arial font. But hey, this is
+6:52 now a way we can get off of Arial and
+6:52 get on to whatever font you might like.
+6:55 Let me know if you have any questions.

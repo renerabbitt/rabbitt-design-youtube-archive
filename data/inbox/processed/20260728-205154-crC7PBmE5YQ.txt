@@ -1,0 +1,37 @@
+Title: CA SHORTS-Screen Clip and Paste a Reference
+URL: https://www.youtube.com/watch?v=crC7PBmE5YQ
+Visibility: public
+
+0:02 we're going to use a screen clipping
+0:04 tool to quickly
+0:04 screen clip from some settings that are
+0:08 within chief architect so that we can
+0:08 paste them and use them to reference on
+0:13 say another floor or another dialog box
+0:14 sometimes it's beneficial when you're
+0:16 troubleshooting to get some
+0:16 idea of what's happening in one of these
+0:19 dialog boxes let's go ahead and double
+0:21 click for the floor for an example i'm
+0:21 going to get into my structure panel and
+0:24 i've got a bunch of settings here and
+0:24 i'm troubleshooting what's wrong in my
+0:29 system so on a windows machine this is
+0:30 pretty easy i'm going to hit windows
+0:32 shift s
+0:32 this is going to give me my screen
+0:35 clipping tool of course there is a
+0:35 screen clipping tool built into chief
+0:36 architect i don't typically use that but
+0:40 there we go i've got a screen clipping
+0:40 i'll hit cancel and now i'll need to do
+0:46 is hit ctrl v as in victor to paste a
+0:47 picture
+0:47 and then i can resize this of course if
+0:50 i pasted while i was zoomed in it would
+0:52 have been resized to a smaller scale
+0:54 anyways but now i can use this as a
+0:54 reference and when i'm done with it i
+0:56 can delete it right away so there we go
+1:00 very easy way to screen clip to use
+1:00 things as a reference it's just kind of

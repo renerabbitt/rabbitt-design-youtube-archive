@@ -1,0 +1,93 @@
+---
+videoId: qwWeUBoZXKk
+title: Create your own Plant in Chief Architect X14 FAST
+url: "https://www.youtube.com/watch?v=qwWeUBoZXKk"
+status: imported
+---
+
+# Transcript
+
+0:02 happy Sunday everybody
+0:02 um I've got a early little free symbol
+0:06 I'm going to give away today I was
+0:07 working on
+0:07 open out one of my plants survive at my
+0:13 house and I just decided to make that
+0:15 plan but instead of just making that
+0:15 plant specifically I thought it might be
+0:19 fun to make it so that you can create
+0:21 your own version of this particular
+0:21 plant so what I've done here is I've
+0:26 architecturally blocked a couple of
+0:26 different polyline distribution regions
+0:31 so we'll place it we'll explode this
+0:31 block and then what I would have you do
+0:35 is well you can make a copy of one of
+0:35 these to kind of see what they're doing
+0:37 but
+0:37 all this is
+0:40 a distribution path so that if you kind
+0:43 of shape it you can get your own kind of
+0:47 leaf texture here oops
+0:47 let's just get this in shape
+0:50 there we go so from here I'm going to
+0:56 convert this to a symbol
+0:56 and I'm not going to add it to the
+0:58 library
+0:58 but I will show Advanced options because
+1:02 I'm going to have to one do do one thing
+1:05 the distribution paths don't work in an
+1:05 elevation for this particular use so I'm
+1:11 going to check rotation in y and then do
+1:13 a negative 90 degree rotation there we
+1:14 go
+1:14 and now I can place it as a symbol let
+1:16 me go ahead and do this to the next one
+1:20 actually the next three
+1:20 I'm going to do that same action rotate
+1:25 it y negative 90 degrees go ahead and
+1:32 so we're converting to a symbol
+1:34 rotating negative 90.
+1:34 and then placing that symbol
+1:47 now that I have these I can kind of
+1:47 group them together rotate them how I'd
+1:51 like to rotate them
+1:51 kind of get them in place
+2:01 and I might do something like place a
+2:06 and in the center of this block and then
+2:09 change my edit mode edit behaviors to
+2:11 rotate resize about current point and
+2:13 then I can shift Marquee select this
+2:17 copy follow my rotate handle
+2:17 and rotate at about that point
+2:22 do it again
+2:23 do one more
+2:23 just like that
+2:25 now that I have this grouping
+2:31 go throw it to the corner of the room
+2:33 here
+2:33 you can get rid of these distribution
+2:42 done with those now
+2:42 and let's make a little planter
+2:45 to show this go out right right so I'm
+2:49 going to just draw out
+2:49 a box here uncheck polar let's make it a
+2:56 24 inch by 24 inch planter
+2:56 there we go right in the middle here
+2:59 and then I can copy this drag this edit
+3:09 and then we can convert this and then
+3:12 reconvert it to a solid hole
+3:12 there we go let's take a look at what
+3:17 this looks like in 3D we might drop a
+3:27 kind of interesting right
+3:27 right grab all of these and
+3:36 let's just move these up in our Z Delta
+3:38 let's move them up I don't know 30
+3:58 not bad right and you can play around
+4:00 with these and you can shape them any
+4:10 kind of position them any way you need
+4:10 to to kind of make it look realistic for
+4:13 your scene
+4:13 get rid of this one
+4:30 looks pretty good
+4:30 anyways enjoy let me know if you have

@@ -1,0 +1,137 @@
+---
+videoId: VHTlVfAr3pE
+title: Custom Built-In Appliances with Trim Kits in Chief Architect X-13  ////////Quick Tips///////
+url: "https://www.youtube.com/watch?v=VHTlVfAr3pE"
+status: imported
+---
+
+# Transcript
+
+0:11 this is a quick tips adding trim to a
+0:11 microwave and then inserting this into a
+0:16 cabinet as a tool as an appliance that
+0:19 can insert into a cabinet face
+0:19 this is a specific request for nikki
+0:21 kelly thank you for making that request
+0:26 on the rabbit design feed
+0:26 on facebook appreciate your
+0:28 contributions to chief talk and youtube
+0:31 channels as well
+0:31 so here we go i've got a microwave from
+0:35 the core libraries and i want to create
+0:35 some trim that goes around this first of
+0:39 all i'm going to make a trim profile
+0:41 really quick and that will just be
+0:41 utilizing add box here i don't really
+0:47 care how large this cad box is here
+0:47 because we can always redesignate this
+0:50 once we apply it
+0:52 so
+0:52 make this profile something like that
+0:56 and then i can add it to the library
+0:56 that becomes a molding and from here i
+1:01 can drop in a cad box to surround this
+1:07 and go ahead and convert this to a
+1:08 molding
+1:08 polyline
+1:13 and it's automatically going to generate
+1:15 using the molding that i just create
+1:17 last bit here is
+1:17 just make this be maybe a half an inch
+1:21 by
+1:21 two and a half inches
+1:23 i need to remember this two and a half
+1:24 inch dimension that'll come into play in
+1:28 just a little
+1:28 now we've got our trim around this
+1:30 microwave let's take a look at what the
+1:37 you can see here we've got a little bit
+1:37 of an offset issue i'm going to go ahead
+1:41 and select this
+1:41 do my transform replicate we're going to
+1:45 move this in the y plane by
+1:47 negative half an inch
+1:47 in fact i could do a little bit more
+2:00 so 9 16
+2:00 this time times 2. how do we do that
+2:04 there we go
+2:04 you can also paint this the color of the
+2:09 microwave kind of adds a nice little
+2:13 and then let's just grab the two of
+2:15 these together and convert it to a
+2:16 symbol
+2:16 and convert it to a fixture
+2:19 and oh it looks like we didn't grab the
+2:24 microwave with it try that microwave
+2:28 this converted to a symbol
+2:28 and couple things in the options panel
+2:30 we need to make sure that we insert into
+2:34 cabinet front
+2:34 next thing we want to do is we want to
+2:35 make sure that we have an offset so that
+2:40 this knows to fully recess here
+2:41 so
+2:41 sizing of this you can see here is that
+2:45 depth right there
+2:45 i want to make sure that that
+2:49 is in my y offset but
+2:51 i want to subtract
+2:51 our trim of a half an inch
+2:54 we are the last bit here is that you can
+3:00 see here this is lined up the symbol is
+3:00 lined up at the bottom of this microwave
+3:04 i want to change that real quick and so
+3:06 i'm going to create an offset here as
+3:06 well by that two and a half inches which
+3:10 is the profile of that
+3:10 in fact it needs to be that negative two
+3:17 one more thing that i need to do is i
+3:19 want to make sure i'm setting the
+3:19 bounding box of our new item to the
+3:21 bounding box the existing item which
+3:27 means i need to copy the width
+3:29 copy the height
+3:29 and then with my new item here i'm going
+3:34 to open this symbol up get into the
+3:36 sizing panel
+3:36 and i want to make sure that that width
+3:38 is the same so here we go that guy right
+3:43 there and our height is that same well
+3:46 this guy right there
+3:47 go ahead and
+3:47 drop a full-size cabinet in here
+3:57 now one thing to note with anything that
+4:00 might have a flange where we've modified
+4:03 the bounding box of that component
+4:03 we are going to have to do a little bit
+4:07 of modification cabinet
+4:07 which is to say there's a separation
+4:10 above and below this appliance that
+4:10 needs to be converted to a blank area
+4:13 and then offset by something larger than
+4:22 the profile of that bounding box offset
+4:22 i'll change this to a blank area and i'm
+4:25 going to make this not two and a half
+4:25 inches but two and three quarters of an
+4:29 inch that makes sure that i clear
+4:29 my new trim detail on this microwave
+4:32 of course hold my c key concentrically
+4:36 resize
+4:36 and there we go
+4:38 got a brand new microwave unit with a
+4:43 trim kit around it inserted into a
+4:44 cabinet face
+4:44 all of its offsets intact automatically
+4:49 inserted into that the depth of this
+5:00 it's a little overview of the steps
+5:01 again
+5:01 adding our microwave in elevation
+5:04 drawing out a polyline converting it to
+5:08 a 3d molding after we've created a
+5:08 molding and then setting our offsets for
+5:12 that moldings making sure that we're
+5:14 setting a bounding box on our symbol
+5:14 and then making sure that we're setting
+5:18 blank areas
+5:18 in this cabinet
+5:31 [Music]

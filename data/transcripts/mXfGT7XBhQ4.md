@@ -1,0 +1,164 @@
+---
+videoId: mXfGT7XBhQ4
+title: Converting PDFs tp PNG overlays for CAD drafting using the supplied action set
+url: "https://www.youtube.com/watch?v=mXfGT7XBhQ4"
+status: imported
+---
+
+# Transcript
+
+0:03 in this video we'll be going over some
+0:06 of my pdf processing tools right now i
+0:06 have the software adobe bridge opened up
+0:11 to a pdf that i'd like to process for
+0:13 chief architect
+0:13 i'm going to right click on this file
+0:18 and choose open with photoshop
+0:18 this will bring this in and where we can
+0:22 see a set of actions built into a folder
+0:25 called rabbit pdf processing
+0:25 i click the down carrot the first item
+0:30 here is change mode to rgb often times
+0:32 when i get pdfs from clients when they
+0:32 open them up in photoshop they're going
+0:38 to be in a mode called bitmap
+0:38 i need to first convert them to
+0:43 grayscale and then to rgb color
+0:43 this action takes care of that for me so
+0:47 i just need to click the play button at
+0:55 next part is thin lines with input
+0:56 sometimes
+0:56 we get a pdf that has a lot of noise and
+1:01 i'd like to de-speckle
+1:01 inlines is a great way of processing
+1:04 this out
+1:04 i'm going to take my
+1:06 marquee selection tool
+1:09 and
+1:09 draw a mirror key selection over the
+1:14 areas of this pdf that have a lot of
+1:16 noise
+1:16 that selection made i'm going to go
+1:18 ahead and press play on my thin lines
+1:23 with input actions
+1:23 i'm going to bring up a user prompt the
+1:28 user prompt will show you an example
+1:31 based on your cursor
+1:31 and clicking into the drawing
+1:35 if i change the radius here
+1:36 you can see here got rid of a lot of
+1:40 noise in that area
+1:42 i can click around
+1:42 see different areas
+1:43 i'm going to go ahead and get click
+1:46 cancel
+1:46 and zoom in a little closer
+1:51 this can be helpful
+1:51 because the preview window of this
+1:55 action
+1:55 show you more of the drawing
+2:02 you can zoom out from this window
+2:14 now with this selection still made you
+2:14 can see that a lot of these lines are a
+2:18 little bit thinner than the rest of the
+2:18 drawing but we've gotten rid of a lot of
+2:21 the noise
+2:21 now we can go to the next action thicken
+2:29 this will give us the inverse of thin
+2:31 lines
+2:31 leave it at this radius press ok
+2:38 wrong is looking pretty good already
+2:39 cleaned
+2:39 ctrl d to deselect
+2:42 i have two more actions they both do the
+2:47 same thing but with different methods
+2:49 i'm gonna go ahead and press play and
+2:51 show you what it does
+2:51 the command set is not currently
+3:03 you see our white background now
+3:03 disappeared for this checkered pattern
+3:06 that means that this image is
+3:09 transparent
+3:09 and we've also changed the black lines
+3:18 this next action is resized to 2k
+3:21 which means a 2k resolution
+3:21 currently this pdf is at 7k resolution
+3:24 has a lot of detail in it so i'd like to
+3:28 keep it at that resolution
+3:28 our last action is divide into grid
+3:33 dividing to grid we'll take the
+3:36 slice tool
+3:37 and
+3:37 create
+3:38 a grid pattern of slices
+3:42 onto your sheet
+3:42 and then it will prompt you to export so
+3:47 that you can export quadrants of this
+3:49 pdf which is helpful
+3:49 if you need to scale parts individually
+3:54 i'm going to go ahead and click ctrl
+3:57 shift alt w to export this
+3:57 make sure it's a png with transparency
+4:11 back in adobe bridge i see here's my
+4:11 file here i'll drag it into architect
+4:19 next step is that i want to scale in
+4:21 chief architect
+4:21 so with my pdf selected in my edit
+4:25 toolbar
+4:25 i'm going to use
+4:27 the point-to-point resize tool
+4:38 and then select my next point
+4:38 using a 3d mouse so that i can pan out
+4:42 to see the dimension that i need to
+4:45 input which is 75 feet
+4:46 i'm going to leave retain aspect ratio
+4:48 checked with the hopes that this drawing
+4:52 actually has a correct aspect ratio from
+4:59 now i'd like to check that dimension
+5:01 i'm going to use my l key
+5:04 to initiate the line tool
+5:06 draw a line
+5:06 start with this point here
+5:10 and over to the other side and hit tab
+5:16 it's going to give me 75 feet
+5:18 pretty accurate
+5:20 press ok
+5:20 i can hit my shift z key and draw more
+5:26 key over the end of this
+5:27 dimension string
+5:27 hit my l key again
+5:29 and start another line i'd like to check
+5:36 this length as well
+5:36 you can see here some of this drawing
+5:43 get my tab
+5:43 here we are 48 feet very close
+5:53 something i like to do is if i have a
+5:53 drawing that has a bit of a skew to it i
+5:57 might
+5:57 control alt c
+5:58 copy control v paste hole position
+6:05 now i can drag this image
+6:05 off the screen a certain distance by
+6:10 holding my left click dragging
+6:10 and while i'm still holding my left
+6:14 click hitting tab
+6:14 like to move it over set distance
+6:24 of course if you have
+6:24 all different softwares called sticky
+6:27 notes and
+6:27 always on top
+6:29 you can set a sticky note
+6:32 so that it's always on top of chief
+6:34 architect and i can put my 100 feet here
+6:44 let me turn off my drawing sheet so we
+6:48 next part is i might need to
+6:48 rescale parts of this drawing
+6:51 if i
+6:52 drag in my
+6:53 side selection handles
+6:56 i can clip this drawing
+7:03 and then i can resize
+7:03 from the corner edit handles
+7:08 similarly if i shift select
+7:08 i get some additional options as well
+7:17 that's it for this video

@@ -1,0 +1,402 @@
+---
+videoId: 0OpHYGEQ2ig
+title: Chief Architect X14 to Twinmotion. Free Curb and Sidewalk Generator
+url: "https://www.youtube.com/watch?v=0OpHYGEQ2ig"
+status: imported
+---
+
+# Transcript
+
+0:03 hey folks
+0:03 it's uh it's free symbol Friday
+0:06 you know me if you're familiar with my
+0:08 work you know I like to give away stuff
+0:11 every Friday
+0:11 been trying to do that for a while now
+0:13 so that's a nice practice I I love doing
+0:19 it I love helping people out and
+0:19 Sometimes some of the stuff I give away
+0:21 is a little bit Advanced and this is one
+0:24 of those things so what we're looking at
+0:26 right now is a rendering I just created
+0:30 and these renderings it's tough to be
+0:30 competitive in the overseas market so I
+0:35 tend to try to create systems that make
+0:36 it so that I'm doing these as
+0:36 efficiently as possible so I've
+0:39 developed something to do this sidewalk
+0:42 pretty quickly and it's meant to be used
+0:48 in any program that does an instancing
+0:48 based on a material region or you know a
+0:54 material ID is what I would say so let
+0:54 me look at IU's Chief Architect to model
+0:59 my architectural products
+0:59 and so here we go we've got Chief
+1:01 Architect we've got a polyline road
+1:05 and then we've got a driveway and the
+1:07 driveway is well the road is set so that
+1:12 it automatically cuts the curve for our
+1:15 driveway okay and this looks fine this
+1:15 looks great actually but when you go to
+1:20 do an instancing based on a material
+1:20 well the way Chief runs terrain is that
+1:26 this terrain actually lives underneath
+1:26 this driveway which means that when you
+1:29 go to try to instance that material it's
+1:33 going to put grass on the driveway as
+1:36 well underneath this slab so and it
+1:36 pokes through and that's not good so
+1:38 what I end up doing is I end up making
+1:41 material regions I end up cutting the
+1:41 driveway away and then if you're using
+1:47 you know an instancing of grass that's
+1:49 that's a large patch that's good for
+1:49 large areas but once you get up close to
+1:53 the Border it's nice to do small uh
+1:53 patch instancing which means that I'm
+1:56 ending up doing different terrain areas
+2:00 so that I can get close to the borders
+2:04 with small instances instancing grass
+2:08 versus the Interior Space here so
+2:08 something that's quick and easy for me
+2:10 to create a curb where I want to reveal
+2:13 and then I want a sidewalk and in fact I
+2:17 have other tools for this as well but
+2:18 this is the one I've given away this
+2:18 week is that I have a molding I have a
+2:23 molding that I'm going to generate and
+2:23 it's there's a very easy application of
+2:27 this molding I'm going to do this from
+2:30 an elevation camera
+2:30 we're going to end up placing a 3D
+2:34 molding and a 3D molding has some
+2:34 benefits so let me get into my user
+2:42 and I've got
+2:53 and you can't just click and drag
+2:53 unfortunately you have to come up and
+2:59 get into your trim sections
+2:59 and draw out a 3D molding line now where
+3:03 I'm going to draw this line is I'm going
+3:04 to pretty much snap it to the bottom of
+3:05 this curve
+3:10 that in fact is going to generate my
+3:10 molding let me flip this a little bit
+3:16 let me get into moldings I'm going to
+3:16 say extrude inside polyline is unchecked
+3:21 that's going to flip it right side up
+3:21 and then we're going to check in 3D and
+3:24 see where that placed it actually placed
+3:27 way back here and we'll see what this is
+3:29 in just a minute so it's a little bit
+3:31 finicky you got to make sure that
+3:31 whatever plan view that you're in if you
+3:35 get into Aldo make sure that moldings
+3:37 are turned on because it's going to
+3:45 and in plan view you'll notice it's
+3:46 pretty funny looking
+3:46 so there are there are a few caveats to
+3:51 this particular molding symbol
+3:51 there we go you can see that now I
+3:54 already looked in 3D I know this needed
+3:58 to be turned around so that's fine let
+4:00 me do that and then I'm going to drag
+4:06 until the point where it's in the scene
+4:13 here we are and you see what's happening
+4:21 this curb
+4:21 and then I just want to come in here and
+4:26 kind of line it up now the way I imagine
+4:28 this happening is that it's going to
+4:28 overtake your existing curb there we go
+4:36 before you know it you have a pretty
+4:36 good looking curve now the reason I like
+4:41 to draw this in elevation is it gives us
+4:43 really finite control
+4:49 dropping this section down you notice
+4:51 there it looked like I was driving it
+4:51 down downward in fact I was driving it
+4:55 as an offset so
+4:55 in 2D I purposely made this material
+4:59 pink so that you could see it versus
+5:01 your existing curb
+5:01 now I can come in here
+5:04 kind of get this place the way I want it
+5:06 to
+5:06 now I'm actually going to right click on
+5:10 this and even curve it a little bit
+5:12 and get it right up next to that
+5:14 driveway
+5:14 okay and then I can kind of edit that
+5:22 in fact I might even want to break this
+5:23 you can break this just with your brake
+5:33 that way I'm getting in kind of an
+5:37 there we go and you can see what's
+5:37 happening here the molding's getting
+5:39 broken up a bunch of different times now
+5:43 usually I know that I can fix this in
+5:43 post edit so I'm not too worried about
+5:47 these breaks it's not a perfect system
+5:49 but it works pretty well for the most
+5:51 part so
+5:51 I'm going to show you how this
+5:52 translates in Twin motion but first I
+6:09 now I personally like to color coat
+6:11 these it kind of helps me keep
+6:21 and then we'll export the whole thing
+6:29 now I'm going to do a Dae because this
+6:29 curve actually generates quite a few uh
+6:34 poly faces so
+6:34 I'm going to do a Dae we'll do let's see
+6:38 we'll call this
+6:38 curb oh we already exported this once
+6:47 all right now let me fire up twin motion
+6:49 and let's see what this looks like in
+6:55 now I'll leave it up to you to come up
+6:56 with a couple different materials that
+6:58 you can apply you can use some of the
+7:00 built-in twin motion materials so you
+7:02 can be applying dirt you know to that
+7:04 section that's dirt you know when you
+7:04 export from Chief Architect you're not
+7:06 going to carry with it all the bump maps
+7:10 and and everything else that come with
+7:12 it so
+7:12 um whereas in Chief if we hit a PBR and
+7:17 and maybe we've got a surround here it
+7:17 might look pretty good in Chief because
+7:21 I've got some you know extra bump Maps
+7:23 going on in these
+7:23 um it's not going to look the same in
+7:25 Twin motion so you have to develop your
+7:27 own materials in Twin motion for this to
+7:32 look correct
+7:32 now we've got twin motion fired up let
+7:36 me import and find
+7:47 curb tests there it is and I'm going to
+7:49 say I'm going to collapse by material
+7:51 for this particular case now usually
+7:51 when I export this curve I'm exporting
+7:54 it by itself I'm not actually exporting
+7:59 my entire file I like to have my entire
+8:01 file be a 3DS file for the way that it
+8:03 organizes Things based on names of
+8:03 components and I like to have this curve
+8:13 something that's nice about the newer
+8:15 versions of twin motion is that they
+8:15 keep all the axis coordinates from Chief
+8:19 Architect in place
+8:19 so that we don't need to then locate our
+8:24 Imports they're actually imported in the
+8:28 correct place so I could have imported
+8:28 just the curb by itself on its own layer
+8:32 with all other layers turned off and I
+8:32 wouldn't have had any problem with that
+8:36 let me go ahead and kill this ground
+8:38 data right here
+8:38 let's get in tight now here is where I
+8:43 would typically take my terrain and
+8:43 delete it I don't need it anymore I'm
+8:47 only using these terrain features to
+8:49 generate grass
+8:49 now I have a library of particular
+8:53 graphs that I like to use
+8:53 get into my Landscaping section
+8:56 and let's see I'm going to do border
+9:00 grass here
+9:00 and that's simple enough it already
+9:01 generates a vegetation scatter that I
+9:05 can then click
+9:05 and populate and look at that I've got
+9:10 that grass
+9:10 very quickly just in that curb area and
+9:13 now you notice we've got some problems
+9:17 over here again I'm I'm used to having
+9:17 to fix a few things in Photoshop that's
+9:21 simple for me so I'm not too worried
+9:24 about this it can't be a perfect I'd
+9:24 rather have the gaps in the curb be 3D
+9:30 than trying to
+9:30 create gaps in a curb in Photoshop it's
+9:33 much easier for me to just fill in these
+9:38 little hairs of grass here so there is a
+9:39 give and take here
+9:39 get back to my library we'll go ahead
+9:43 and vote this
+9:58 I didn't put a border in on this like I
+10:00 typically would so this is not going to
+10:00 be perfect but we'll just take a look at
+10:07 you can see it's overlaying the curve
+10:07 that's because I didn't put that border
+10:16 now I could have put the border into
+10:16 this molding generator but it's actually
+10:21 much easier to do it just by copying
+10:22 this section
+10:22 and then backtracking now let me show
+10:25 you what I mean about this because we
+10:27 can do it pretty quickly
+10:27 I'm going to take this section and let's
+10:30 go ahead and span this out so it's all
+10:31 the way to the building in fact we can
+10:33 span it out past the building if we'd
+10:34 like
+10:34 okay now I want to copy this
+10:37 and instead of paste holding I'm just
+10:42 going to grab this circle icon
+10:42 drag it straight down tab or input and
+10:46 I'm going to give myself a 12 inch
+10:48 border there we go
+10:48 from here I'm going to copy
+10:54 paste hold
+10:54 now what I've done is I've made two
+10:58 copies one is so that I can do a
+11:05 it's a little tough to do it in 3D you
+11:05 might have to get into the 2D to do this
+11:11 so here's that border let me do a
+11:11 subtraction there's that intersection
+11:14 there
+11:14 now when we get back to my full camera
+11:19 we're going to notice
+11:19 you can paint that intersection separate
+11:25 from that outer section look at that so
+11:27 alt f
+11:27 e for export and then
+11:30 let me just do a colada file again let
+11:43 back in Twin motion I'm going to get
+11:43 into that import tab control I and I'm
+11:48 going to hit refresh
+11:48 on this curb test Dae
+11:51 look at that it automatically updates so
+11:56 that I can take this grass section
+11:56 and I can go ahead and erase it if I
+11:59 want to
+11:59 that's fine or I could just delete it
+12:03 straight from the library I'm not too
+12:04 worried about it
+12:04 let me hit my Plus
+12:06 now you see it's it's spilling into our
+12:11 border area but it's not spilling onto
+12:20 this border grass
+12:20 I'll select it hit my plus icon and I
+12:25 can hit
+12:25 on this section there we go now I have
+12:30 that border grass on our border
+12:30 and in the last little bit here is let
+12:36 me get into my materials and I'm going
+12:38 to paint a few things in
+12:51 having a little bit of trouble that with
+12:54 this sometimes you can just take this
+12:55 and
+12:55 turn it off just for a second makes it
+13:10 Forest Crown I want Rocky ground here
+13:13 and in my roadways section
+13:15 I have some asphalt
+13:15 I have a sidewalk material
+13:19 herb material
+13:22 that
+13:22 my side lock material there
+13:25 and then remember I want to delete this
+13:29 Terrain
+13:31 right
+13:31 now a couple things happen we've got
+13:35 some infill to do here
+13:35 um I could show you how to fix that but
+13:38 really would have been with terrain
+13:39 regions
+13:39 train features I should say
+13:42 you can also do that with the built-in
+13:47 terrain with the in Twin motion
+13:47 okay let's turn that border grass back
+13:50 on
+13:50 and let's look at what this looks like
+13:55 in a PBR
+13:55 yeah this is looking pretty good
+14:01 I love to use the new Dynamic
+14:01 environment with skylight or backdrop
+14:06 hdris
+14:06 I think I like preferred backdrop hdris
+14:08 this is a traditional rendering approach
+14:14 that I've been using for years so we can
+14:18 import something like this where
+14:18 let's get into the more category of this
+14:22 we're going to do a height offset
+14:22 pop it down and then we have some pretty
+14:28 realistic lighting coming from the
+14:28 overall scene and you can switch scenes
+14:43 from there you can turn up the intensity
+14:47 and you can see
+14:48 pretty quickly this curve is looking
+14:51 pretty darn good I would I should say
+15:09 so let's say just take the time make
+15:09 sure that you've got a plan of action
+15:13 for this
+15:13 transition right here like I said you
+15:15 could do it you could do it with solids
+15:18 if you needed to you could do it with
+15:19 any number of things
+15:19 there are going to be just a few caveats
+15:23 from from using this curve and dropping
+15:26 it in like this but for the most part
+15:26 this is going to be if I adjust my field
+15:42 and I come down in like this
+15:42 this little edits and ends up being
+15:44 really really quick and easy I wouldn't
+15:48 fight it I just wouldn't fight the
+15:48 amount of time it takes to fix that is
+15:50 nothing in in a Photoshop so let me just
+16:00 see we can let this pan out we'll put
+16:03 this on a on a low real quick
+16:03 that way we get the denoiser at the end
+16:06 of it
+16:06 there we go got a denoiser
+16:08 take this screen grab again
+16:14 turn this off let's fire up Photoshop
+16:14 take a look at what it looks like just
+16:32 now you can take that curve that I just
+16:38 and you can use the surface delete tool
+16:39 or a separate software and delete
+16:39 sections of it just to get the curve and
+16:44 you can run that curve all the way
+16:44 through your driveway in case you want a
+16:48 little bit of a lip at your driveway
+16:48 that looks a little bit more realistic
+16:49 so that might be something that you want
+16:53 to do
+16:53 get to a general brush here
+17:06 and you can see it'd be very easy to do
+17:08 any number of things here one is you
+17:08 might just take well I like to make a
+17:12 copy of my main layer here but
+17:12 one is that you might just take the
+17:13 stamp tool and Sample an area like this
+17:20 and come and bring this forward
+17:53 and you can even take this and kind of
+18:05 so a couple little quick fixes there you
+18:08 go pretty good looking shot
+18:08 do a little camera raw filter on it
+18:11 maybe tweak that texture Clarity maybe
+18:14 dehaze just a little bit you can kick up
+18:26 any number of different things I like to
+18:27 you know throw a little bit of
+18:27 sharpening in here maybe just a slight
+18:37 and before you know it you got a pretty
+18:40 good looking scene very quickly
+18:41 right look at that
+18:41 looks pretty good this is not practice
+18:46 this is just playing around so
+18:49 pretty good looking
+18:49 if you don't like this little dirt area
+18:53 here you could of course lower your
+18:55 material region in or your terrain
+18:55 region in Twin motion but this again is
+19:00 another quick fix if you want if you
+19:00 think that this needs fixing is you're
+19:02 just going to mask off the sidewalk and
+19:06 you could do an auto mask with that and
+19:08 then same thing stamp tool the top of
+19:10 this Fringe and drop it down a little
+19:12 bit so we don't have that little dirt
+19:12 Edge there but I don't know kind of like
+19:16 it looks pretty good so
+19:16 there we go free simple Friday enjoy if
+19:20 you have any questions about this tool
+19:22 let me know
+19:22 happy to hear it

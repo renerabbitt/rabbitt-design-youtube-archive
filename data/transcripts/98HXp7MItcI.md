@@ -1,0 +1,91 @@
+---
+videoId: 98HXp7MItcI
+title: Rabs Macro Search Tool X15
+url: "https://www.youtube.com/watch?v=98HXp7MItcI"
+status: imported
+---
+
+# Transcript
+
+0:02 free symbol Friday it's been a long time
+0:04 since I put one of these out this one
+0:06 should hopefully make up for some
+0:06 missing ones I know I want to catch up
+0:09 to this but let's just get into it if
+0:11 you've been doing any kind of macr
+0:11 scripting this particular tool is an
+0:13 absolute GameChanger this will be put
+0:15 into my architectural tools that I give
+0:18 out from my Pro Plan so please note that
+0:22 but uh in the meantime let's just get
+0:22 into what this is I call it rabs macro
+0:25 search so it's a rich text box you place
+0:31 it in plan and once you got it in plan
+0:32 go ahead and select it and draw out a
+0:32 leader line and snap that leader line to
+0:37 some publisher and you see what it's
+0:37 doing here it's looking at this wall for
+0:43 anything that might report from a value
+0:45 called material watch we'll take this
+0:45 leader we'll snap it to the window it's
+0:47 doing the same thing anything that might
+0:51 have a value of material for instance
+0:51 okay so let me open this up and show you
+0:56 how this is adaptable to whatever you
+0:56 might need you can put in Search terms
+1:01 comma separated values let's just go
+1:04 depth and width for
+1:04 instance depth and width there we go
+1:07 it's giving us any anything that might
+1:12 meet that search term and it's even
+1:12 giving us the proper setup for this to
+1:17 to write this into a new macro okay so
+1:19 we can see here got a couple of these
+1:22 that are separated by period right so
+1:22 there's a hierarchy in this particular
+1:25 section so containing wall lower
+1:25 insulation depth let's just take one of
+1:30 these I'm going to open up my Ruby
+1:33 console just to show you how this
+1:33 works and Shrink this down and I'm going
+1:38 to put owner to just say that this is an
+1:41 owner object and while we're at it let's
+1:43 just select this window so we have
+1:43 exactly what we're reporting so owner
+1:47 Dot and then we've got this
+1:49 containing
+1:49 wall do uper
+1:57 insulation and let's just do depth
+1:57 because that reports four inches okay
+2:00 and I'm going to press
+2:00 enter there you go 4 Ines so really
+2:04 really fast and easy way to locate some
+2:09 value you might be looking for so if
+2:09 you're wondering if it reports something
+2:12 that you'd like to look up maybe you
+2:12 wanted to see if maybe Jam is a reported
+2:17 value you can see no matching results
+2:18 right maybe you want to see if sash is a
+2:22 value look at that there's some matching
+2:24 results so really really powerful tool
+2:24 for you hope that helps you out um look
+2:28 if you're not familiar if you haven't
+2:28 checked it out I have a Discord server
+2:31 that's where I've been spending all my
+2:32 time I've been building out the Discord
+2:34 server we've been building up that
+2:35 Community I've been building out all the
+2:38 products I've got huge updates through
+2:40 all my product line I've got a section
+2:42 in in my Discord server that's called
+2:42 VIP in VIP I even give you all of the um
+2:49 the instruction set that I put into chat
+2:51 GPT plus to write these really complex
+2:53 macros so I'm getting a lot done with
+2:53 that you got some really upper elevated
+2:58 paid only videos that I put into those
+2:58 VIP sections I think it's well worth the
+3:02 money this is just an advertisement at
+3:04 the tail end of this free symbol go
+3:04 enjoy the free symbol and I appreciate
+3:19 [Music]

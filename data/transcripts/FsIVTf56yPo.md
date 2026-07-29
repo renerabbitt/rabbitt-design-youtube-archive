@@ -1,0 +1,73 @@
+---
+videoId: FsIVTf56yPo
+title: X11 REFERENCE VIEW PLANS
+url: "https://www.youtube.com/watch?v=FsIVTf56yPo"
+status: imported
+---
+
+# Transcript
+
+0:05 hey chief errs just making a video about
+0:08 this this new reference plan stuff going
+0:13 on in in x11 beta - and man I'm excited
+0:13 I spent way too much time this week kind
+0:20 of developing a setup for doing
+0:20 additions with this reference view and
+0:22 so I'm just gonna try to go over it and
+0:28 hopefully only gonna take about an hour
+0:31 an hour to get some pretty significant
+0:31 work done so first off I just wanted to
+0:36 show you what I've got going on here is
+0:38 I've got a reference plan which is an
+0:42 existing home tucked behind this new
+0:42 plan here and so the new plan you know
+0:46 I've got new walls
+0:46 I've got dimensions look the auto
+0:49 exterior dimensions snap to this new
+0:53 plan but you see the reference plan
+0:53 behind it
+0:54 same thing with schedules I've got an
+0:56 existing schedule versus a new schedule
+1:04 you know you can see that different
+1:04 values here existing new same thing with
+1:12 my wall schedules and so then as I click
+1:14 through my other plan views I've got the
+1:16 same thing going on new foundation plan
+1:20 and you can see you know the overlay
+1:20 here take a look at the new roof plan
+1:23 you can see where my new roof framing is
+1:32 here might actually change the line
+1:32 weight and color on the existing here
+1:36 but I wanted to keep this kind of
+1:36 uniform but you can still tell as a zoom
+1:41 out that you know the existing framing
+1:41 members are grey new framing members are
+1:48 black so it has such great potential and
+1:50 then taking a look at layout I even
+1:50 figured out how to do something kind of
+1:58 similar for my elevations if this this
+1:59 ever loads up I don't know why it's
+2:07 there we go
+2:07 even in elevations we've got my existing
+2:11 you know and I get to pull all the
+2:11 texture out of the existing and show
+2:13 that it is existing you know and then
+2:16 the new has my my pattern lines in there
+2:21 it's real clear you know with a few
+2:23 notes dropped in here it's gonna be
+2:23 really clear that this is my new that's
+2:28 you know the existing and then look at
+2:30 the 3d view I mean we all knew about
+2:31 this we've all been kind of playing
+2:32 around with this and that's a simple way
+2:37 of showing this is you know new versus
+2:37 existing the difference being that I've
+2:40 you know snap some of these roof lines
+2:40 together but I got to this pretty quick
+2:46 so I'm going to go over that and and I
+2:48 don't know hopefully this reaches
+2:48 someone and they think it's beneficial
+2:53 to figure it out as well because we're
+2:54 all working on this and coming up with
+2:56 methods we all just move forward
+2:56 together I always think that's cool so

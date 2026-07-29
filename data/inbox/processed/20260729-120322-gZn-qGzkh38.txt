@@ -1,0 +1,267 @@
+Title: CHIEF ARCHITECT ADVANCED LIBRARY SEARCHES
+URL: https://www.youtube.com/watch?v=gZn-qGzkh38
+Visibility: public
+
+0:03 Okay, Chiefers. Responding to member
+0:03 Zoe123 from Chief Talk. Uh his name's
+0:06 Barry and he's First of all, he's giving
+0:10 me a compliment. Thank you, Barry. Um
+0:12 second part uh
+0:12 and really appreciate that.
+0:13 Uh second part is, have you found a
+0:14 better way to perform searches in Chief?
+0:19 They seem to have something against
+0:22 Aristotelian logic and Boolean.
+0:22 And you know, I agree. Um and the short
+0:29 answer is no, but let's go ahead and do
+0:29 a video that's going to be somewhat of a
+0:37 complex video for maybe doing some more
+0:37 refined searches in Chief Architect. So,
+0:43 right off the bat, if you saw my um
+0:43 another video where I explained how to
+0:45 do cloud syncing across multiple devices
+0:51 with multiple user libraries,
+0:51 you can see that this is working
+0:52 perfectly on my end. I've got a laptop
+0:56 with its own user library. I've got a
+0:59 desktop with its its own user library
+0:59 and both of those libraries show up on
+1:03 both of my machines automatically being
+1:08 synced across the cloud.
+1:08 And um and that comes into play here
+1:12 because we're going to do some kind of
+1:14 tricky things. But before I get to that,
+1:18 let's just start with the basics.
+1:19 Um
+1:19 one is is that, you know, maybe not
+1:24 everybody knows some of the cooler
+1:24 parameters in the Chief library and
+1:28 um so, for example, I know that I built
+1:35 several symbols
+1:35 um that are manufactured by Smith
+1:37 System. It was for a particular job I
+1:40 was doing
+1:40 and you'll notice that we've got three
+1:43 items here that show up with the name
+1:45 Smith System and then we've got three
+1:47 items here that show up
+1:47 and they don't have the name Smith
+1:48 System. So, where are they getting that
+1:53 from? And one of those items is even
+1:53 from one of the manufacturer catalogs.
+1:58 And that's because I went in, I
+1:58 right-clicked, I looked I clicked on
+2:00 search attributes on that item, and I
+2:05 wrote in keywords Smith Systems.
+2:05 So, if you've got a crazy inordinate
+2:08 amount of time on your hands, and you'd
+2:12 like to really make your library
+2:14 function at
+2:15 at tops,
+2:15 you could go in and and put in keywords
+2:18 for every single one of those items that
+2:22 you really want to be searching.
+2:24 So,
+2:24 that's kind of a
+2:25 boolean-esque, you know, limiting factor
+2:30 where you can put in uh
+2:30 search terms that that um
+2:32 don't have any commonalities with the
+2:38 actual item's name, so that just when
+2:40 you search that search term, it's
+2:40 limiting in the same way that boolean is
+2:44 in that you can find just that
+2:44 particular item with that particular
+2:48 search term.
+2:48 It seems like a lot of work though to
+2:52 accomplish that, and I've actually
+2:52 slowly been doing that in my own user
+2:56 library. The next thing is, you know,
+2:58 you can obviously build filters, and
+3:01 we'll get into that in a little bit.
+3:03 Um another thing that's important to
+3:05 note is that if you right-click on a
+3:05 folder, any folder in the library, you
+3:08 can search just that folder. So, that if
+3:16 I know that Smith Systems, I believe may
+3:18 be in Actually, you can actually
+3:18 shift-select multiple. I know my Smith
+3:23 Systems
+3:23 item is in one of these. So, I can
+3:26 shift-select multiple folders. You'll
+3:30 see it says right there, "Searching
+3:30 exterior furniture in two more." And I'm
+3:35 going to type in that uh Smith System
+3:36 again.
+3:36 And there it is. Those are those three
+3:38 items that are within one of those four
+3:43 folders that I just highlighted and
+3:45 searched. Which lets you know that
+3:45 there's something, you know, deeper in
+3:50 this in that there are some search
+3:50 terms. There are some There's some kind
+3:54 of coding built into this system.
+3:55 And maybe someone that's more
+3:55 knowledgeable than I can figure that
+3:58 out.
+3:58 Um so, that's a couple great
+4:01 key tips to do. Then the next is, you
+4:04 know, creating filters and just off the
+4:09 bat, we've got a filter and and I've um
+4:11 for every item you select here,
+4:12 it that will disclude that item from
+4:14 this filter. So, I've got all my core
+4:17 catalogs selected, which means that when
+4:22 I've got the test filter on,
+4:22 you'll see that the Chief Architect core
+4:30 catalog disappeared as a drop-down menu.
+4:31 Right?
+4:31 And so,
+4:33 this is very helpful for when you want
+4:37 to search
+4:37 between your user library
+4:39 and one of these catalogs, right? Or or
+4:45 just limiting to those catalogs. The
+4:48 only thing that you can't seem to do
+4:49 is
+4:49 limit to just a manu- one manufacturer's
+4:54 catalog
+4:54 and nothing else, in including or I
+4:57 should say discluding your user library.
+5:01 What if I want to search American
+5:02 Woodmark
+5:02 and nothing else?
+5:04 Meaning, I don't want to search my user
+5:06 library, I don't want to search anything
+5:12 else but the American Woodmark library.
+5:14 And that's, you know, something that's
+5:17 not built into this system. But, there
+5:17 is a workaround and it's kind of a weird
+5:21 one, kind of a crazy one. And Chief
+5:21 Architect probably really frowns upon
+5:26 it. Um although I don't see why
+5:26 it would affect your system or screw
+5:31 anything up if done properly.
+5:32 Um
+5:32 so, let's take a look at that.
+5:34 And so, what we're going to do is I'm
+5:36 going to create a filter and it's going
+5:39 to be
+5:39 uh let's see. Let's say user
+5:52 And I'm going to click this backdrops
+5:55 and will show you why.
+5:55 Okay, so we're going to save that. We're
+5:59 going to close down Chief.
+5:59 And I'm going to navigate to my Chief
+6:03 Architect um library folders. And in the
+6:11 core libraries is a JSON file that I'm
+6:13 going to open with Well, I'll tell you
+6:14 right now I backed this up. And if you
+6:16 don't back it up, I'm going to get
+6:16 screamed at. If I'm not already going to
+6:19 get yelled at, I'm going to get screamed
+6:20 at.
+6:20 So, and hopefully not. I don't think I'm
+6:24 we're doing anything wrong here. Uh I
+6:27 backed up my filters. This will auto
+6:27 reproduce itself if you just redo your
+6:29 filters or for some reason you screw up
+6:32 your filters, this will, you know,
+6:33 recreate itself. You're not going to
+6:34 mess anything up by messing with this,
+6:39 but I'm opening this up
+6:39 with Notepad. And there's a couple
+6:41 things to look at here, which is Here's
+6:44 that user omitted filter I just created.
+6:49 And you notice it's got
+6:50 what's called a database ID listed right
+6:54 here. And it just so happens to be that
+6:58 I know what that database ID is because
+6:58 What did we select? We selected one item
+7:03 to disclude in this filter, and that one
+7:05 item was backdrops, right?
+7:06 So, I'm going to copy this string of
+7:07 text and I'm going to open up my core
+7:14 backdrops Calib fla Calib Is that how
+7:14 you say it? Calib file. And I'm going to
+7:20 open that up with Notepad.
+7:20 And I'm going to do a search for that
+7:24 string.
+7:24 And lo and behold, at the bottom in this
+7:29 weird gibberish is that string, which
+7:30 seems to be
+7:30 the database ID that we're referring to,
+7:35 right? It's almost at the bottom here.
+7:35 So, that's kind of interesting. So, the
+7:40 next thing, you know, obviously the the
+7:43 next thing I'm going to do is I'm going
+7:43 to go and find my user library, which is
+7:49 back here.
+7:49 I'm going to take my laptop user library
+7:53 and
+7:53 right click this, open with
+7:56 notepad, and I'm going to scroll down to
+8:02 kind of that same location
+8:02 and look for that same kind of
+8:05 gibberish.
+8:07 And
+8:07 there we go. Now, I know in the
+8:08 backdrops, if you caught that, that it
+8:10 was missing this first parameter, right?
+8:14 Which the U
+8:14 I imagine stands for user. And so,
+8:21 I'm going to select this string,
+8:23 copy it,
+8:23 and I'm going to come over here
+8:25 and mimic what I've got up above, which
+8:29 is
+8:29 there's a comma,
+8:32 and let's do space space space, a bunch
+8:36 of spaces. The spaces probably don't
+8:36 need to be there. A quotation mark. I'm
+8:39 going to
+8:39 paste that ID in there.
+8:43 And
+8:43 save this catalog filter and close
+8:46 everything down and then go back into
+8:51 Chief and see what happened.
+8:51 Chief's going to take a second to load.
+8:53 So, the thought here is that maybe I can
+8:58 limit something to just one catalog and
+9:02 one catalog only and omit my own user
+9:02 catalog, which would be kind of powerful
+9:07 if we're looking for, say, tile, but I
+9:07 don't want to look through the millions
+9:10 of tile that I've saved in my own
+9:12 personal
+9:13 library.
+9:15 So,
+9:15 let's go ahead and click this filter
+9:19 back over. Well,
+9:19 I think we're already on test, aren't
+9:23 we? Are we on test? No, we're on
+9:23 user omit's what we're looking for. So,
+9:25 we grabbed the ID from Rob's laptop user
+9:30 library,
+9:32 and
+9:32 we hard coded that in. It's the wrong
+9:39 term. We we stuck that into the JSON.
+9:39 And so, when I click on this, bam! Look
+9:43 at that.
+9:43 All of a sudden, my search parameters
+9:48 are omitting
+9:48 my laptop's user library. Interesting.
+9:55 So, we could limit searches to, you
+9:55 know, just a manufacturer catalog or
+9:57 just a Bonus catalog and nothing else.
+10:01 And that gives you a little bit more
+10:02 power.
+10:02 So, between those all those items, I
+10:04 actually think the library can be pretty
+10:10 powerful. Is it true Boolean? No, it's
+10:12 not. Um
+10:12 but maybe that gets you going in the
+10:15 right direction. Maybe that improves
+10:15 your your searches in your your own user
+10:21 library. So, again, hope that helped.
+10:23 And uh go ahead and leave comments.

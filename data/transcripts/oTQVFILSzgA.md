@@ -1,0 +1,274 @@
+---
+videoId: oTQVFILSzgA
+title: Chief Architect X11, Comparing PBR to a Quick Thea Rough Rendering
+url: "https://www.youtube.com/watch?v=oTQVFILSzgA"
+status: imported
+---
+
+# Transcript
+
+0:04 okay hey chief people I've got a thread
+0:04 in the forms right now and it's um chief
+0:09 compatible 3d software and I figured I
+0:11 would just post a little response
+0:11 because I'm a little rusty in Thea a
+0:17 third-party rendering software and I
+0:17 just got contracted to do a little job
+0:22 which it's been a long while so I need
+0:24 to touch up my skills so I figured I'd
+0:24 make a comparison and so here I've got a
+0:29 PBR kitchen in this kitchen is out of
+0:29 the box for me I've already set up these
+0:33 materials this is the way those
+0:33 materials look I'm gonna fix one thing
+0:38 here that's annoying me
+0:38 this is the way those materials look and
+0:44 and so this is as good as my PBR needs
+0:45 to look I'm not going to do any
+0:45 additional work setting up cameras or
+0:47 anything I'm using the saved as method
+0:51 which means this camera was already
+0:51 previously saved so we'll use this PBR
+0:55 as a comparison to what I'm gonna do in
+0:57 Thea hopefully in not any more than like
+1:02 maybe 10 minutes so let me export this
+1:08 model and I've got a folder cult test
+1:08 which is just where I put kind of junk
+1:12 things that I'm making videos for and
+1:12 then I'm going to use I'm going to use
+1:14 the estudio it's a standalone studio and
+1:19 they're not developing this anymore and
+1:22 I haven't installed 2.1 yet I've used
+1:22 two point ones trial which is a plugin
+1:30 for Sketchup and it's even faster than
+1:34 this and this is already very fast so
+1:34 here we go we've got a test 3ds I think
+1:40 this needs to be point four to actually
+1:42 beat a true scale this will actually
+1:42 bring in chief at its scale so that if
+1:46 you want to bump remove things obviously
+1:51 I have Auto build roof I didn't care
+1:51 about this building I was just looking
+1:55 for the kitchen wherever that may be
+1:59 where is the kitchen oh it's right
+2:01 behind me okay so here we go we've
+2:01 navigated to pretty much a similar shot
+2:06 and a couple things I'm going to
+2:06 establish this isn't really a tutorial
+2:12 for this program but I will be just
+2:13 going over a few
+2:13 things that I'm doing so one is I'm
+2:18 going to set the resolution of my
+2:18 preview render which I'll just make it
+2:20 low it's 1024 that's just for this when
+2:27 I do a live render what you'll see here
+2:31 in just a second I'm gonna set my kind
+2:34 of my aperture or my perspective blah
+2:36 blah blah I'm gonna go ahead and give
+2:39 this an f-stop we'll give it a 1.4 so
+2:41 we've got like a depth of field thing
+2:42 going on here
+2:42 and there's a way to set this distance
+2:44 to the window but I can't remember what
+2:49 it is so I'm just going to wing it
+2:49 because I'm gonna have to search that
+2:54 later I don't remember I'm gonna turn
+2:54 this into an emitter I can put in a is
+2:58 profile on this which is straight from
+3:00 actually sure why not I'll put it at
+3:00 ease IES again it's been a really long
+3:05 time since I've done this but I think we
+3:11 can figure it out well I think I
+3:11 remember I used is five and so now let's
+3:20 hit a profile you know what did that
+3:32 that doesn't seem that my oh that's cuz
+3:36 I need to reverse the geometry so maybe
+3:39 I'll skip the is for now instead we'll
+3:45 crank this up to a thousand watts and
+3:45 yeah that should turn all the lights on
+3:52 now I'm going to mess around with some
+3:52 of the camera settings I'm going to turn
+3:57 the ISO up to and not that high
+3:57 something like 1300 for an interior
+4:00 scene is about right and then the al
+4:07 anbiya occlusion is off we're gonna
+4:07 crank this distance way up and intensity
+4:13 way down and we're going to get some of
+4:15 that depth back and then the next thing
+4:16 I want to do is I want some
+4:16 environmental light so I'm gonna get my
+4:22 glass I'm going to apply it to this
+4:22 window and then I'm going to let's for
+4:34 one get a I'll start with the Sun I'm
+4:34 gonna get the Sun going on here actually
+4:40 we're gonna there we go Sun and sky that
+4:44 gives me this Sun I'm gonna kind of put
+4:44 him yeah yeah perfect that looks perfect
+4:49 and then I'm gonna use image based
+4:49 lighting and I'm gonna go in and put in
+4:56 a spherical image based backdrop which
+4:59 really can bring a scene to life and
+5:04 maybe I'll use dry field or actually
+5:04 Park is pretty good so you see a park
+5:08 just came in the background there I'm
+5:11 going to rotate it around Oh
+5:11 until I see something I like back there
+5:17 that looks like a street that's kind of
+5:25 maybe go back to that street I like that
+5:27 that looks pretty good and I'm gonna
+5:30 check IBL and son so we get you know
+5:30 kind of both those environments coming
+5:32 in and then I get to just kind of start
+5:38 dragging and dropping materials into my
+5:42 material browser here and so I can do
+5:42 apply it stainless steel it looks like
+5:47 these have different material IDs it's
+5:47 not applying globally like it should so
+5:54 let's do a couple of these things Bam
+5:54 Bam Bam and let's get this wood floor in
+6:04 there and oh that needs to get changed
+6:10 flooring and sure knotty oak ooh
+6:10 what just happened that didn't update
+6:14 yet and we recording in 4k so this can
+6:20 be a little bit slow at times probably
+6:23 because I'm also using processor and
+6:23 graphics card to update this scene so
+6:30 it's all pretty intensive seems to be
+6:30 holding up alright though and let's just
+6:36 grab I don't know just maybe has a
+6:50 and it's updating nicely let's get a
+6:50 tile in here I think there's a subway
+6:56 here or maybe I have a different subway
+7:11 let's see what that's doing okay I'm
+7:12 gonna change that
+7:24 I have subway that's better
+7:25 like this guy right here and I can't
+7:30 even change the scale this on the fly
+7:56 we've got probably a dark glass here but
+7:57 we'll just put a thicker glass in it for
+8:01 now I've got like cool metallic stuff
+8:01 that I've built and that's always kind
+8:04 of fun maybe we won't make it
+8:04 talak teapot sure why not and that's
+8:13 gonna update in a minute err there we go
+8:23 I've got you know we've got chrome that
+8:27 looks like it needs a glass I was doing
+8:29 a good workflow that would've been an
+8:29 issue or have done that already maybe a
+8:37 lighter glass there that could use some
+8:40 reflectance the roughness is just
+8:40 cranked way up maybe crank it down a
+8:44 little bit and it could just look okay
+8:47 on its own I don't really even need to
+8:50 add anything I can add a coating to it
+8:52 and it would give it maybe a little
+8:52 cloth coat or delete the coating and
+8:55 even put a thin film on it and that's
+8:57 gonna give it a little gloss as well and
+9:02 so you can see the scenes already
+9:04 looking you know it's kind of
+9:16 that's got a little Inness tropic we can
+9:18 do that on this guy's well we can't even
+9:19 do it
+9:19 on here and that's got that like
+9:22 striation there okay and just to give
+9:26 you guys an example of how capable Thea
+9:33 is I mean we're barely scratching the
+9:33 surface on this so far so this is a live
+9:38 preview I'm going to go to darkroom
+9:40 which is you know where you process
+9:40 actually do your rendering the sample
+9:45 limits okay I'm going to do extended
+9:47 tracing I'm going to hit relight I'm
+9:47 going to turn my sample limit down which
+9:52 is going to create fireflies but that's
+9:52 just to get a good preview of what we're
+9:56 looking at oh and one more thing I'm
+9:56 going to do before I do all of that is
+9:57 going to locate my can lights which are
+10:08 these guys right here and I'm going to
+10:30 and so now I'm gonna hit render and the
+10:32 video will probably I'm guessing it's
+10:34 gonna pause the graphics card because
+10:34 it's very graphics intensive but if you
+10:40 guys can see this it should be a bucket
+10:42 bucket render it should be spinning
+10:42 around in a circle and processing the
+10:49 scene one chunk at a time there's two
+10:49 bars that two squares at a time and that
+10:55 means 1 square is my processor 1 square
+10:57 is my graphics card if I had this
+10:57 plugged into a couple of nodes a couple
+11:01 more machines or external graphics cards
+11:05 the number of squares would increase by
+11:08 the number of units processing a node
+11:10 and so this took 19 seconds it's a
+11:10 preview render you can see the fireflies
+11:15 to get rid of the fireflies I would up
+11:15 my sample limit but the purpose of this
+11:21 was to kind of show you that you can do
+11:25 post-processing relighting and so I can
+11:25 take my son and I can make it pink and I
+11:31 can change the intensity of it and then
+11:33 just hit this refresh button and look
+11:33 what happens outside that was actually
+11:37 the sky the Sun was a different color
+11:37 same thing that the can lights I could
+11:39 you know crank them way down to like 30
+11:44 and hit a relight and you're gonna see
+11:44 the interiors drop down and this is all
+11:48 happening after the render is taking
+11:50 place so I can do this
+11:50 this relighting of the scene that's
+11:52 really dynamic without actually having
+11:57 to run this through another hour-long
+11:59 render or however you know whatever
+11:59 you're trying to get out of this and
+12:00 this could be at a 4k resolution with a
+12:05 2000 sample rate and it will look
+12:05 crystal clear in fact at 4k you would
+12:09 even see you know the greats inside of
+12:13 of this toaster oven if you wanted to
+12:16 and you can just see just looking at
+12:16 this without me spending too much time I
+12:19 don't know how long I've been recording
+12:19 for but if we go back here's Chief's PBR
+12:24 which granted I didn't spend a ton of
+12:24 time trying to make this look better but
+12:27 I don't really think spending a ton of
+12:27 time would make this look all that much
+12:33 better to spending maybe 10 maybe 15
+12:37 minutes in Thea and just
+12:37 is the fidelity the right word just just
+12:41 the quality you're getting out of you
+12:41 know the depth the shadows the things in
+12:46 the corner
+12:46 you know the focal points focal lengths
+12:52 apertures you know I can actually match
+12:54 what a photographer would get out of
+12:54 shooting this scene when it's done and
+12:59 in fact I've even set up I don't have
+13:01 any of the saves and ready to display
+13:04 but I even have set up a camera and
+13:04 mimicked that camera in this program and
+13:09 it has been very close to the point
+13:09 where you could Photoshop it manipulate
+13:14 it so just a sample of what you can do
+13:16 in Thea in a short amount of time a
+13:17 little bit of know-how and a good
+13:17 material library that is important but
+13:21 it is drag-and-drop there's global
+13:21 parameters I can scale globally I can
+13:24 shift globally I can do instancing I can
+13:33 do I can do man I really I could go on
+13:34 and on forever
+13:34 every tabs got a million different
+13:36 settings you can mess with displacing
+13:38 clipping masks layering structuring you
+13:46 know bump maps with normal maps with
+13:46 displacement maps I mean it just goes on
+13:51 and on and you can make a scene look
+13:51 100% realistic in these programs and you
+13:56 can do it pretty quick so I hope this
+13:56 was enticing and kind of fun to look at
+14:01 and anybody that's interesting

@@ -1,0 +1,444 @@
+Title: Dynamic Patio Column With Patio Extension In Chief Architect X16
+URL: https://www.youtube.com/watch?v=naTHbHGTovE
+Visibility: members-only
+
+0:00 what's going on VIP I'm going to show
+0:02 you how to build this assembly and make
+0:05 it so that it's almost automatic to
+0:08 build exactly what you see here which is
+0:10 we've got some kind of brick Herring
+0:11 bone overhang we've got um it's recessed
+0:15 back where those columns are placed
+0:18 right and these are post to beam
+0:20 railings okay how do we do this how do
+0:22 we set this up so that it's just super
+0:24 quick and easy to draw I'm going to show
+0:26 you just how quick and easy it is to
+0:28 draw going to draw
+0:30 a railing wall assembly just like that
+0:32 I'm going to go ahead and open this up
+0:35 designated as a porch all right and then
+0:37 I'm going to use a little sprayer here
+0:39 to spray the top surface of that porch
+0:41 and we're going to see here very quickly
+0:43 there you go it say quick and easy as
+0:46 that so how do we get this done let's go
+0:49 ahead and open up a brand new plan so we
+0:51 can set this
+0:53 up so I'm going to use the railing tool
+0:55 okay and just draw this railing out
+0:57 anywhere it doesn't really matter and
+0:59 we're going to set this up so that we
+1:00 can save this to our library and use it
+1:02 over and over again so let me open this
+1:05 up first off and let's just start from
+1:07 the general panel which is that very
+1:09 first panel we need to determine whether
+1:12 or not we want to locate this railing or
+1:14 not and in this case I think we do we
+1:16 want to see um no locate in this case is
+1:19 going to mean automatic dimensions are
+1:21 going to pick up our slab Edge in this
+1:24 case all right so let me go ahead and
+1:26 uncheck no locate we want to make sure
+1:29 no room definition is in fact unchecked
+1:32 as well and then that this is a railing
+1:35 right now in the structure panel is
+1:37 there anything notable here no not
+1:39 really we can get into the roof panel
+1:42 nothing really that interesting here
+1:44 either Foundation panel kind of the same
+1:46 thing but finally we get to wall types
+1:49 and this is where we've got a set up for
+1:50 some magic so let's go ahead and Define
+1:53 and we could just make a copy of this
+1:55 wall tape and in this case I want to
+1:58 make it so that this is automatic Ally
+2:00 generating either a brick Edge or
+2:02 something else so let me go ahead and
+2:04 make a copy of this and I'm going to get
+2:07 rid of that exterior layer I'm going to
+2:09 get rid of that interior layer and then
+2:12 this is important in the main layer part
+2:14 well first of all I'm going to go ahead
+2:16 and set this up so that it's using um
+2:19 that brick material that I want to use
+2:21 so we get into Library materials we'll
+2:24 just type in Brick Herring bone this is
+2:26 one of the materials that I think comes
+2:28 in the core catalog press okay and then
+2:31 the next thing is I want to set this
+2:32 overall thickness to the thickness of
+2:34 what I think my column's going to be or
+2:36 a common column might be so maybe this
+2:39 is 5 and 1 12 Ines if you're just using
+2:41 post or maybe this is like 12 in if
+2:43 you're using some kind of column so
+2:45 let's set this up to 12 and then this
+2:47 part is very important we need to
+2:50 uncheck framing the reason for that is
+2:54 that when framing is checked it
+2:56 automatically generates some kind of a
+2:58 skirt board on the outside of our patio
+3:02 so we want to uncheck framing I don't
+3:04 know that this matters but we might also
+3:06 want to remove the top plate count in
+3:07 case that retroactively it you know does
+3:10 something with our header placement I
+3:11 don't think that it does let's uncheck
+3:13 Framing and then let's get to the wall
+3:15 properties panel here and down at the
+3:18 bottom and it doesn't matter that this
+3:20 is framed but maybe we want to set this
+3:22 up to solid concrete masonry and then
+3:25 down at the bottom here Foundation
+3:26 offset this is where you're going to set
+3:28 that kind of overhang off set where it
+3:30 takes the floor structure whatever your
+3:33 floor structure is and then it creates
+3:35 an overhang from your foundation which
+3:38 might be your stem wall okay so I'm
+3:40 going to set this to just be 2 in and
+3:43 then let's press
+3:45 okay now I might have wanted to rename
+3:48 this as well and this is just going to
+3:49 be my um brick column
+3:53 wall all right press okay so next we'll
+3:58 get into w tap wall covering doesn't
+4:00 really matter the main one is rail style
+4:03 here and I want an open rail style that
+4:06 is post to beam okay and then I do not
+4:10 need to include the top rail but but you
+4:15 might want to include that bottom rail
+4:19 okay if you want to include the bottom
+4:21 rail what you're saying is that when we
+4:23 draw this in 3D we're going to be using
+4:27 the bottom rail to represent the width
+4:29 wi of the beam in case we want to show
+4:33 that okay now there's an alternative
+4:35 method for that but in case that you
+4:38 just want this to show as if it's got a
+4:40 beam on top of these columns this is
+4:42 what we would do we include that bottom
+4:44 rail and maybe we would lower it by
+4:46 something like5 in so that it's just not
+4:49 even visible and you might even want to
+4:51 change the material in the materials
+4:53 panel for the rail itself to something
+4:57 like an insulation air gap which is just
+4:59 an invisible material okay that would
+5:02 make this invisible in some kind of
+5:05 standard view see how that just
+5:08 disappeared all right now back in that
+5:10 rail style panel again post to beam I
+5:14 want to start with a full post and I
+5:15 want to end with a full post and then
+5:17 I'm going to have some kind of offset as
+5:19 well this is just my preference for this
+5:21 particular setup
+5:23 okay now we'll get into the newes balls
+5:26 panel where we're going to set up some
+5:28 things I want to set this to
+5:30 automatically use the wall width which
+5:31 in this case is 12 in notice that it
+5:34 resized now for me this is just one
+5:37 setup that I might do where the beam is
+5:39 5 and 12 in the rails maybe 5 and 12
+5:41 Ines as well but you might want to set
+5:44 this to use the full wall width instead
+5:46 that's totally up to you so my bottom
+5:49 rail width I'm going to make this
+5:51 exactly the same size as my beam width
+5:53 in this case and that's because I want
+5:55 that to kind of represent item and then
+5:58 back in that nles ballister section here
+6:00 go and set up your max spacing that's
+6:02 the spacing in between each nle before
+6:05 it's going to place a new nle in this
+6:07 case and then set up whatever column
+6:10 that you want now I'm going to go ahead
+6:12 and search columns in the library
+6:13 remember that this is automatically
+6:15 picking up that it's a mil work type
+6:16 symbol so we could just say c u and it's
+6:19 going to you know start searching for
+6:21 columns so here's maybe a column I might
+6:24 want to use something like this guy
+6:26 right here maybe want to change those
+6:28 materials to some kind of stone own
+6:29 material you could of course do that in
+6:31 the materials panel and there we go
+6:35 pretty cool right so I want to get into
+6:38 this plan default section and uncheck
+6:41 used defaults and I do not need to draw
+6:43 balls or panels but notice now that it's
+6:46 going to draw rails and nle posts in our
+6:50 in our plan View and that rails again is
+6:53 what's going to represent my beam in a
+6:56 plan view that's only if you need to do
+6:58 that if you feel like you need to do
+7:00 that for your
+7:02 drawings the last main thing here is in
+7:05 our rail style we're going to set our
+7:08 horizontal offset what that's going to
+7:10 do is that's going to offset our railing
+7:12 assembly from the location of the actual
+7:15 wall so in this case I might want to
+7:18 offset this by 6 in and you'll notice in
+7:20 the preview here it's actually going to
+7:22 jump bam just like that
+7:27 okay now let's go take a look at my my
+7:29 railing assembly and I could just draw
+7:31 this out to kind of complete that porch
+7:33 assembly right we could just extend this
+7:36 down CH par deck is going to pick up
+7:38 when we connect these walls where the
+7:40 offset should be so it's going to flip
+7:42 that offset and then let's go take a
+7:44 look at
+7:48 this there we go Isn't that cool right
+7:52 so we might want to do a few things in
+7:54 terms of color coding I might want to
+7:56 change you know this into some kind of
+7:58 maybe it's a brick call
+8:00 right so I can pick up some brick from
+8:02 the library here maybe we'll pick it up
+8:04 from my user catalog where I've got some
+8:06 nicer brick in here red painted brick
+8:09 and then I can just do plan painter mode
+8:11 if you if I want to because all I'm
+8:13 doing is setting this up so that I'm
+8:15 saving this particular wall type that's
+8:17 it right um the last bit here is maybe I
+8:20 want to change those column caps if this
+8:22 is a component based thing oh it looks
+8:24 like we can't do that independently
+8:26 that's too bad so this particular symbol
+8:29 would have a brick cap which seems very
+8:32 strange right very strange
+8:36 indeed so there we go we're just going
+8:38 to leave that Center section brick and
+8:40 then I also want to just paint my beams
+8:42 because this is the type that I want to
+8:44 set up here so there we go I've got that
+8:46 wall assembly built now in my edit
+8:48 toolbar I just get to add this to my
+8:50 library and then just make sure that
+8:52 we're naming this something appropriate
+8:54 so I'm just going to call this my brick
+8:57 column TCH wall
+9:01 all right now let's try this out it's in
+9:04 my library we could link it to a library
+9:06 item like I've done here okay and drawn
+9:09 a little custom item here I've got that
+9:11 in another YouTube video that's going to
+9:13 flash on the top of the screen but this
+9:16 brick column porch wall I should be able
+9:18 to just draw this
+9:20 out and then of course change this to a
+9:24 porch now how did I do that last bit how
+9:27 did I make that brick show up on the top
+9:30 here right so that it shows up with that
+9:32 Herring bone what do we do there what
+9:35 I'm going to do is I'm going to open
+9:36 this up I'm going to in the structure
+9:39 panel edit the floor structure actually
+9:43 no I'm sorry edit the floor finish we're
+9:45 going to add a finish all right we're
+9:47 going to just make this something really
+9:49 small and insignificant 164 fine and
+9:53 let's go find that brick Herring bone
+9:55 which should be in our plan materials
+9:56 now so I just typ in Brick real
+10:01 quick there's that brick hering bone
+10:03 boom I've added that simple little
+10:05 surface when we press okay look what
+10:07 happens it builds out that surface now
+10:10 let's select the room and in our edit
+10:13 toolbar make a style palette let's go
+10:16 ahead and create a new style palette
+10:18 we'll call it brick aing
+10:21 bone
+10:24 painter let's hit the gear icon right
+10:27 here okay and then from here we're going
+10:30 to clear all and then search for
+10:35 surface or in this case actually uh
+10:39 floor finish sorry search for
+10:41 finish there we go we want to check
+10:43 floor finish that makes this a painter
+10:46 tool that applies that TCH finish so if
+10:50 I hit undo it's going to take us back to
+10:52 this assembly but I have that brick
+10:54 Herring bone painter right here I get to
+10:56 just paint this object as a room bam
+11:00 Simple Solution oneclick option get this
+11:03 Herring bone the wall is creating that
+11:05 overhang cool what's the last step of
+11:08 this I want you to notice something the
+11:10 roof is not building appropriately it's
+11:12 building to where the wall is located
+11:14 not to where our beam is located and so
+11:16 that's kind of a challenge we need to
+11:17 know what the distance is to that
+11:19 particular beam so we know that we've
+11:22 got an offset of six in and then also we
+11:25 know that our column base is roughly 12
+11:28 in in from there there's a 5 1/2 in
+11:31 spacing right so you got to kind of cut
+11:33 all those numbers in half which means
+11:35 half of 12 is six half of that 5 and A2
+11:38 is 2 and A2 H you're going to have to do
+11:40 some math but the solution here and it's
+11:43 really the only work that you have to do
+11:44 in this once you just build this whole
+11:46 system out and just to prove that let me
+11:48 shut down this
+11:51 plan me do a brand new
+11:53 plan here's my brick column porch me
+11:58 draw this this
+12:02 out I'll go ahead and open this up I'm
+12:05 going to turn this into a
+12:09 porch all right and then I'm going to
+12:11 take my um brick Herring bone painter
+12:14 which is a room painter paint that room
+12:17 that part's done all this is taking
+12:19 about 20 seconds right the last part of
+12:21 this is we got to get into the build
+12:23 roof dialogue box and make roof Baseline
+12:26 polylines if you want to keep your roofs
+12:29 automatic now this is switching it to a
+12:31 baseline polyline method which makes
+12:34 things a little bit more complicated so
+12:35 maybe this is the last thing that you do
+12:38 but I'm going to select that Baseline
+12:39 polyline and I'm going to bring it in
+12:42 and basically line it up so that it's
+12:45 lined up right on top of what's
+12:46 representing my beam which is actually a
+12:48 railing so the offset for me was 9 in so
+12:52 I just do that on all sides
+12:56 here that's pretty simple let's go take
+12:58 a look at what this looks
+13:03 like there we go perfectly assembled now
+13:07 the one thing that you might notice is
+13:09 that it's showing brick up here where
+13:12 our railing does not meet that ceiling
+13:14 surface right so
+13:17 there's only one little caveat to this
+13:20 which is that that brick surface is
+13:22 coming from the wall type itself how can
+13:25 we get around that well in the wall
+13:27 types under this brick column base you
+13:29 would have to add an exterior surface
+13:32 layer let's move it up we can make it
+13:34 116th or 132nd of an inch and we can
+13:38 make this texture something like your
+13:40 drywall
+13:44 texture now with that in place it's
+13:46 changing that overall wall type it's
+13:48 going to move some things around it is
+13:50 going to change that skirt board but it
+13:53 does fix that assembly up at the top so
+13:55 you would take that Herring bone and
+13:57 component based and the sides of this
+14:00 and it's not going to paint those top
+14:01 sides okay so that's that's the kind of
+14:04 workaround fix for that particular issue
+14:07 other than that we built this whole
+14:09 assembly in what like maybe a minute and
+14:11 a half or something like that so pretty
+14:14 quick and easy to do this the last maybe
+14:17 thing that you might have to do is if
+14:18 you're going to turn this into a Gable
+14:20 end wall which we can no longer do from
+14:22 this we need to do it from that Baseline
+14:24 polyline in the case that we're using
+14:25 that change this to a full Gable end
+14:27 wall you are maybe going to have to move
+14:31 this wall to align with your beam above
+14:34 then maybe we're doing something like
+14:35 removing that ceiling and you can see
+14:38 here that leaves that wall kind of
+14:40 plastered out in the middle you're
+14:42 making an invisible wall just modifying
+14:45 a member and then go ahead and build out
+14:48 some kind of a truss assembly in case
+14:50 you want to know how to do that Hy I'll
+14:52 throw that in as well I'm going to go
+14:54 ahead and switch to my framing toolbar
+14:56 where I do have trusses in here I'll
+14:59 draw a little truss in here um you could
+15:02 either make this a dynamic framing truss
+15:05 or you can reconvert this into a symbol
+15:08 so something I'm going to do is I'm just
+15:09 going to make sure that this is not an
+15:11 UST I'm going to say that it requires a
+15:14 king post which is going to make that
+15:15 vertical assembly pull in okay and uh we
+15:20 could lock trust envelope and webbing if
+15:22 we wanted to that would make this more
+15:24 of a dynamic setup right let me just
+15:27 press and let's see require King post
+15:30 that overrides require King post which
+15:32 is the only problem there so let me get
+15:35 into here let me in my edit
+15:39 toolbar let's go ahead and open the
+15:41 trust detail that's going to bring this
+15:43 up I'm going to get rid of these guys
+15:45 right here I'm going to go ahead and ex
+15:49 um use my join in miter ends but before
+15:52 I do I'll copy and hold that this member
+15:57 right here now I can use that miter ends
+16:00 and get rid of this excess piece right
+16:02 here um actually I wanted to use butt
+16:05 ends wrong way butt ends there we go now
+16:09 I'll get rid of this excess piece then I
+16:11 can delete this piece over here and flip
+16:14 this about
+16:17 Center cool saving this and the last
+16:22 thing is maybe we want to make these
+16:23 framing members a lot larger so maybe
+16:25 they need to be 5 and 1/2 in and you
+16:28 could do the webbing whatever you'd like
+16:29 but look at that it's going to rebuild
+16:32 right so we just got to do that one edit
+16:36 again Big Timber trust there
+16:43 cool same thing copy paste paste hold
+16:46 take this guy get rid of it take this
+16:48 guy put that
+16:50 end take the SS get rid of
+16:55 it these guys copy paste hold
+17:00 excuse me copy paste reflect out
+17:03 cool now with that we can move this
+17:06 right to the end sure you're dead on
+17:09 Center take a look at what this looks
+17:10 like in 3D when we turn on our press
+17:14 framing
+17:18 members Isn't that cool and in this case
+17:22 you might in fact want to get rid of
+17:24 your your top beam right so could come
+17:27 in here say that everything's being
+17:30 built off of that truss member maybe
+17:32 this is extending to that truss right or
+17:36 might even be able to edit this so that
+17:38 it extends down do a little bit of fix
+17:41 there as
+17:42 well bunch of different things we're
+17:44 going to do I have to redesign this
+17:46 trust build there now obviously it's
+17:48 extending too far
+17:49 out got a break here
+17:58 the other Dynamic thing about this is
+18:00 especially if you're in 3D just
+18:02 selecting your wall hitting Tab and make
+18:04 it so that you get rid of a particular
+18:06 column and we can move another column
+18:08 Center of this you can do that in plan
+18:09 view as well might be even you could
+18:12 take that one and with it selected
+18:17 just probably need to do this precisely
+18:20 land view centering
+18:23 tool Isn't that
+18:25 cool hope you got something out of this
+18:27 under 20 minutes we've built this
+18:29 fantastic

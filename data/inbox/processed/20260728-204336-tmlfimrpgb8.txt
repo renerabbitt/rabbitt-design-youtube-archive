@@ -1,0 +1,304 @@
+Title: Chief Rendering To Ai Tips For True Pixel To Pixel Ai Enhanced Renderings Without Changing Design In
+URL: https://www.youtube.com/watch?v=tmlfimrpgb8
+Visibility: public
+
+0:03 This video is to help serve you in the
+0:03 case that you want to use AI to kind of
+0:05 improve your renderings. Okay, so I'm in
+0:10 X17 right now and I'll just make this a
+0:10 short and sweet video just to show you a
+0:15 couple of tricks about this one is AI
+0:15 doesn't understand context. So it's not
+0:18 going to understand things about your
+0:18 model that you understand. So I want to
+0:21 kind of illustrate this point is if that
+0:26 I was to frame a shot like this. This
+0:27 looks pretty good to me. This is
+0:27 illustrating the design intent of this
+0:29 particular project. But what AI may not
+0:32 understand is what this little handle is
+0:37 doing here and what this is supposed to
+0:39 represent and it might even try to
+0:39 incorporate it into this appliance right
+0:44 here. Okay? Because it doesn't
+0:44 understand context. So this is a really
+0:49 important aspect of prepping your model
+0:49 or your shot for AI. So things like that
+0:54 you kind of have to watch out for.
+0:54 Another thing that AI has difficulty
+0:56 understanding is a bunch of vertical and
+1:00 horizontal lines like this, especially
+1:00 when I've got a deep texture. Okay, so I
+1:06 need to be prepared to maybe mask that
+1:06 feature out in the case that AI changes
+1:11 something substantially and it's not
+1:11 understanding it. All right, the next
+1:13 aspect of AI that it might miss is that
+1:18 it often times will miss some kind of
+1:18 LED light in the case that we've got a
+1:24 white trim ring like this. And we can
+1:26 barely see that this light isn't just
+1:28 incorporated into the ceiling. So, be
+1:28 prepared to either mask that back in or
+1:35 do something to make that LED light
+1:35 stand out a little bit more. It could
+1:40 just be up in contrast changing, you
+1:40 know, from hable to aces and that's in
+1:45 your rendering technique options in
+1:45 terms of tone mapping. Maybe we're just
+1:50 turning the automatic exposure down. Or
+1:50 you might even do something drastic like
+1:55 come in here, change the material of the
+1:57 trim ring and add in something like an
+1:59 ambient occlusion map to make it stand
+2:02 out a little bit more. So I could come
+2:05 in here into the texture panel and
+2:05 select some kind of just black map or
+2:11 dark gray map for instance and maybe
+2:13 just maybe that makes that trim ring
+2:16 stand out a little bit more. Okay.
+2:16 So, the last part about this is in case
+2:21 you don't know how to do this, it might
+2:23 be impactful to make what would be
+2:23 called a um a vector mask ID map. And
+2:28 I'll show you that in just a second. But
+2:32 the really important thing about
+2:32 exporting once you've got your shot
+2:33 established, and I'm actually going to
+2:39 turn off DLSS, is the resolution that
+2:41 you're exporting at will drastically
+2:42 help the AI understand the context of
+2:44 your shot. Okay, so the next part is we
+2:47 want to export this shot. We won't don't
+2:52 want to do just a screenshot. That makes
+2:54 it so that we can do a pixelto pixel
+2:54 ratio and hopefully get a pixelto pixel
+3:01 ratio from AI so that if AI changes
+3:01 something I can mask that portion of it
+3:07 out and reveal my underlying true
+3:07 architectural feature. So I'm going to
+3:11 get into the file menu and export a
+3:11 picture. And I want to use the active
+3:16 window size to start. And then from
+3:16 there I can scale it up and I can do up
+3:21 to a 9,000 resolution if I wanted to.
+3:22 Now, it's a little bit high. I'm only
+3:24 going to go for a 4,000 resolution.
+3:24 That's fine for me. Choose whether or
+3:26 not you want a transparent background or
+3:30 not. In the case that you're replacing
+3:30 the background and choose the file type.
+3:36 Okay. And I'm going to use PNG. That's a
+3:39 lossless file format. Then, we have to
+3:41 save it to project, save it to assets,
+3:43 or save it to file, right? And so, I'm
+3:43 going to save this to my downloads. And
+3:48 yeah, I might make a folder that's
+3:48 specific to, you know, things that I
+3:50 want to find later on, but this is just
+3:55 going to be render example.
+3:58 And I will export this.
+3:58 And so because I scaled the resolution
+4:03 up, it's going to end up creating sub
+4:03 images up to the sample rate that I set
+4:09 in my rendering technique options. So
+4:09 this just takes a minute to process out
+4:13 depending on your video card and system
+4:19 So, now that this is finished rendering
+4:21 out, I can go ahead and open this up in
+4:21 a Photoshop. So, I've got Photoshop open
+4:26 right now. I'll open up my original
+4:28 image.
+4:28 All right. To start with, and then I'm
+4:32 going to switch to what I like to use,
+4:32 which is Crea Render. Okay. Or actually,
+4:36 it's Crea AI.
+4:36 So, Crea AI has an enhancer.
+4:40 And once we click on that enhancer, we
+4:42 get to click to add a new session if you
+4:46 need to, otherwise upload. And I'm going
+4:49 to find that original render. Now, the
+4:49 model I want to use at this time of this
+4:56 video uh is going to be model Korea
+4:56 legacy. Okay, that's really important.
+5:00 So, I want to make sure I'm on Korea
+5:00 Legacy because this is going to keep a
+5:03 true pixeltoixel ratio and not change a
+5:08 whole lot. It will just improve. I like
+5:10 to cue a couple different versions. Of
+5:10 course, I pay for a model that allows me
+5:13 to do that. So, I'm going to kick the AI
+5:15 strength up and leave these other
+5:15 numbers the same and click enhance. And
+5:19 it will start this project down at the
+5:19 bottom of the screen. Now, I might kick
+5:22 that AI strength back down now. And also
+5:27 click enhance. And that will make it so
+5:30 that anything that it went a little bit
+5:32 overboard on changing architectural
+5:32 features I might be able to retain but
+5:37 still get that same kind of color
+5:37 mapping and tone that I'm getting from
+5:38 this legacy model. So I'll click enhance
+5:43 again. While that's processing out,
+5:43 which only takes a few minutes, let me
+5:47 switch back to Chief Architect and I'm
+5:49 going to switch to a vector rendering
+5:49 view. And I'm going to show you how we
+5:54 can create a material ID mask about
+5:54 things that I'm worried about the model
+5:59 changing when it comes to AI. And that
+6:01 specifically is my tile. So, I'm going
+6:01 to use the adjust material tool, which I
+6:05 also call the rainbow bacon tool. And
+6:08 I'm going to adjust my tile materials
+6:08 pattern color. and I'm going to choose
+6:13 something like a hot pink. Now, I want
+6:13 to make sure that I have shadows turned
+6:18 off. Okay. So, in our rendering
+6:18 technique options, excuse me, in our 3D
+6:20 menu underneath our let's see, I believe
+6:28 it's our where do we have this lighting?
+6:30 No, I'm actually not sure. I just have
+6:32 there it is. Camera view options.
+6:32 Uncheck toggle shadows. We just want to
+6:35 make sure there are no shadows in the
+6:39 scene so that we get just a true pink
+6:39 where that backsplash is. Now I want to
+6:45 make sure I export this image again and
+6:45 we're keeping the same exact resolution.
+6:53 Okay. Then I want to browse, rename this
+6:58 ID mask and go ahead and export this.
+6:59 And it's going to do that same thing
+7:01 where it's creating sub images. It's
+7:01 going to be a lot faster because this is
+7:05 using, I believe, the CPU to create that
+7:09 image. Now, when I go into my downloads
+7:11 folder,
+7:12 I should be able to find that material
+7:16 ID mask, drag and drop it onto my
+7:16 Photoshop, and we'll show you how this
+7:18 is impactful in just a second. Let's go
+7:24 back to Crea. Let's take a look at what
+7:26 it did. Let's see if it changed
+7:26 anything. And you know, it tried to turn
+7:31 one of my my little chopping boards here
+7:34 into a flask, it looked like. And then
+7:34 other than that, it didn't really change
+7:37 anything, but it certainly did some
+7:39 improvements to the general tone
+7:39 mapping. Now, this was the method where
+7:41 I turned the AI strength down. I'm going
+7:45 to go ahead and click on download, and
+7:47 then let's take a look at the previous
+7:49 model, which was the AI strength was
+7:51 really high up, and it turned that
+7:51 little chopping block into a clock,
+7:53 funny enough. and it may have changed
+7:58 some door styles
+7:58 and it may have changed my faucet. Okay,
+8:03 so it's important to note all these
+8:03 things that it may have changed. And let
+8:07 me go ahead and download that. Now,
+8:10 let's go ahead and switch back to
+8:10 our Photoshop. And I'm going to switch
+8:12 back to my downloads. Here's my enhanced
+8:17 model there. I place it right over the
+8:19 top and it's going to because it's a
+8:19 true pixeltoixel ratio. You're going to
+8:23 see what happens here in just a second.
+8:25 We're just gonna start with just this
+8:25 one. All right. And so what I want to do
+8:30 is I want to take this
+8:30 material ID mask, uncheck my bottom
+8:33 layer, unlock my bottom layer, and put
+8:37 that mask below. And here's what I'm
+8:37 going to do with this. I'm going to get
+8:45 in and show only this material ID mask.
+8:47 And I want to select based on a color
+8:47 range and choose that pink. And look at
+8:52 that. It's going to select that
+8:52 backsplash only. Okay. How is that
+8:55 impactful? Because I could add a layer
+9:00 mask in the case that this had changed
+9:03 my tile backdrop and apply that mask
+9:06 based on my selection, which would
+9:06 reveal my model's texture below. So now
+9:14 what you're looking at is the AI model
+9:17 with the addition of my original
+9:17 backsplash. So now it's not changing my
+9:22 backsplash. Now since I have a mask
+9:22 here, I can take a brush tool and notice
+9:28 that it's a black and white mask. If we
+9:30 take a look at what this mask looks
+9:30 like, that's what it looks like. That
+9:34 means, for example, if I swipe a big
+9:34 black stroke right through the middle of
+9:39 this, watch what happens. Is that in
+9:39 fact, if I go back a level, that removed
+9:46 a section of the AI to reveal my
+9:46 original image. What does that mean? I
+9:50 can take this brush. I can make it a
+9:50 nice soft feather brush and I can get my
+9:54 little chopping block back. And you know
+9:56 what? Notice that that chopping block
+9:58 was floating off the ground. So maybe
+10:00 it's that I do something and make a
+10:00 little modification to this and uh stamp
+10:06 part of this little edge down.
+10:06 And this would just be some kind of a
+10:10 Photoshop trick there. There we go.
+10:13 Something more like that. So on the
+10:13 whole, this is looking pretty good. The
+10:14 last thing I might do is I might just um
+10:19 come in with that brush tool and make
+10:19 sure that my original faucet is correct.
+10:23 Come in with that brush tool, make sure
+10:26 that, you know, maybe some original
+10:26 details in my appliances are correct.
+10:30 You know, get rid of any kind of
+10:30 discrepancies that might show up like
+10:35 this. Here we go. Again, that's my
+10:37 original faucet. Here's kind of my
+10:37 original panel on this in case I want
+10:43 this to actually be legible, right?
+10:43 stuff like that. Once I'm done, I can
+10:47 stamp this all forward and apply some
+10:47 pre-done filters. And I have a bunch of
+10:49 filters that are already built for AI in
+10:55 the case that they make a lot of um kind
+10:57 of high contrast changes. So, I've got
+10:58 what I call D-Tune filters, and this is
+11:03 to combat the effect of AI and kind of
+11:05 improve that overall look. But of
+11:05 course, something that you could always
+11:09 do if you're in a camera raw filter,
+11:11 especially in one of these AI based
+11:13 renderings, is maybe you turn the
+11:13 exposure up, maybe you turn the contrast
+11:17 down a little bit. You might turn the
+11:17 dehaze up a little bit, and then kick in
+11:23 a little bit of grain to make this look
+11:25 more like a true photo. You could, of
+11:25 course, do a targeted curves adjustment
+11:29 to kind of pick and adjust certain
+11:29 aspects of this. And then you could of
+11:34 course do a targeted hue saturation
+11:34 adjustment to pick certain aspects of
+11:37 this in the case that you want to change
+11:41 that hue or bump up some saturation,
+11:43 something like that, and change the
+11:45 overall tone of this image if you'd
+11:45 like. And then the last thing I like to
+11:48 do is add a little bit of sharp
+11:48 sharpening, maybe a little bit of noise
+11:52 reduction. And on the whole, this is a
+11:55 very good-look image as it processes
+11:57 out. There we go.
+11:58 So hopefully this helps some of you
+12:01 starting to learn this AI based
+12:01 workflow. And there you go. This is uh
+12:04 this is something I usually cover in my
+12:06 membership area, but I figured I'd share
+12:10 this with the broader community. Let me
+12:11 know if you have any questions. Leave

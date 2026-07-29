@@ -1,0 +1,344 @@
+---
+videoId: mNESIwsAGOI
+title: Output Formulas From Chief Architect That Work In Excel
+url: "https://www.youtube.com/watch?v=mNESIwsAGOI"
+status: imported
+---
+
+# Transcript
+
+0:00 What's going on VIP?
+0:02 Um
+0:05 What if I told you I I think I can make
+0:08 a functioning calculating
+0:11 Excel file
+0:13 from Chief Architect.
+0:15 Let's see if we can do that real quick.
+0:18 This just came up.
+0:20 Um
+0:22 So, what are we going to build it on?
+0:23 Let's just use cabinets. We'll use a
+0:25 cabinet.
+0:27 Simple. Simple test.
+0:29 Um
+0:32 And let me drop in a schedule.
+0:35 Oops.
+0:36 Multi-S.
+0:38 Let's do Let's just do a custom
+0:40 schedule. Why not? And then
+0:44 Um I already have custom object fields.
+0:47 So,
+0:49 I'm going to add some of these.
+0:55 And we need to choose cabinets. Sure.
+0:58 Columns rows to include. And so, I have
+1:00 these generic custom object fields.
+1:03 Um so, I'm just going to add
+1:05 I'm going to put one. I'm going to put
+1:07 two. I'm going to put three.
+1:09 Four.
+1:11 Five.
+1:13 Oh, six and seven.
+1:16 So, check this out. You can always
+1:17 rename a custom field.
+1:20 Right? So, I can rename macro input one
+1:23 A
+1:24 for instance.
+1:27 Okay.
+1:28 But, what this doesn't do is it doesn't
+1:30 inform an end user what this data is
+1:33 coming from. We've suddenly lost We
+1:36 can't backtrack from a schedule and go,
+1:38 "Where the heck is this data coming
+1:39 from?"
+1:40 So, something I've started to do, and
+1:41 this is for you people that want to
+1:42 learn macros,
+1:44 um is that instead, I'm going to I'm
+1:47 going to reset this name. So, reset gets
+1:49 me back to what it was originally.
+1:51 Now, I want to rename this. And I can
+1:53 just copy what's here, but really all
+1:55 I'm doing is we're going to put in an
+1:58 inline code. So, we need a starting and
+2:00 closing percentage sign to say that
+2:02 we're executing a macro call to some
+2:05 text replacement.
+2:06 So, I got macro input one.
+2:09 And
+2:10 what I'm going to put first
+2:14 is
+2:15 I'm going to say that this is A.
+2:17 So, I need to put this in quotes. This
+2:19 is the text that we're going to quote.
+2:21 A. And then
+2:23 this is like an
+2:25 and condition. Don't quote me on that,
+2:27 but
+2:29 this lets me know
+2:33 that hey,
+2:35 this is where you can find it. This is
+2:37 what we're calling it.
+2:38 Let me press okay.
+2:41 And
+2:43 I did it backwards. I did it backwards.
+2:45 Let's try this again. Macro input one A
+2:47 ba ba ba ba ba ba ba.
+2:49 I did this backwards.
+2:51 Clearly.
+2:52 So.
+2:54 So, my column A.
+2:57 Try that.
+2:58 And so, look at that.
+3:00 There we go. We changed the heading.
+3:04 What's the next part about this?
+3:06 Um
+3:07 All this data is is coming from my
+3:09 schedule here.
+3:11 And
+3:13 we're going to delete the other
+3:14 schedule.
+3:16 It's in a detail. Get rid of it. Close
+3:18 it out.
+3:19 All right.
+3:21 Next is
+3:25 our columns in Excel. What do they show
+3:27 up as? They show up as
+3:30 letters, right? Letters are columns,
+3:33 numbers
+3:34 Yeah.
+3:37 Numbers are the other direction. You're
+3:38 going to get what I'm getting at here in
+3:40 just a minute. So,
+3:42 the other thing that I need
+3:44 is
+3:46 what? Schedule number.
+3:50 Right?
+3:52 Would that be number? And we're going to
+3:54 move this up.
+3:56 What's this looking like? Number.
+3:59 Yes. Okay.
+4:02 Now, let's open the schedule up. Labels.
+4:04 We don't want a prefix.
+4:06 Right?
+4:07 And we don't really want leading zeros
+4:10 either.
+4:11 You see what I'm getting at here? We're
+4:12 kind of recreating
+4:15 We're recreating the Excel thing. Oh,
+4:16 I'm going to have to pause in there.
+4:19 The sun's coming down and hitting me.
+4:21 I'm going to pull the little blind,
+4:22 which is going to make noise.
+4:27 All right, there we go. No blind
+4:29 blinding face sun thing.
+4:31 Okay.
+4:33 So,
+4:36 we've got A. That makes sense. Let's do
+4:39 a few other things. This is going to
+4:40 help me visualize. So, basically, I'm
+4:43 going to copy I'm going to copy this
+4:46 naming convention and basically do the
+4:49 same thing here where it's Yeah, this is
+4:52 macro input two. And this is going to be
+4:54 B.
+4:55 Et cetera. So on so forth. Right? And
+4:58 this will help me kind of
+5:02 build towards
+5:05 what I'm trying to build.
+5:09 So, there we go. A B C.
+5:11 One.
+5:12 What happens? What happens when I copy
+5:14 this over?
+5:16 Well, we need to ungroup similar
+5:18 objects.
+5:20 We want different data. So, there we go.
+5:21 Now, we're building this Excel table.
+5:24 All right.
+5:26 Still, bear with me here.
+5:28 Here's my number one. When I open this
+5:30 up, and we know that macro input one
+5:34 field
+5:35 is what's giving us the A column.
+5:38 Well, let's just put a value in.
+5:40 46.
+5:43 Then we've got the B column. Put a value
+5:45 in. 23.
+5:48 Then we've got the C column. And here is
+5:50 where I think this gets interesting.
+5:52 Is if you know Excel, you know that you
+5:55 could do
+5:56 You need to visualize this. This is why
+5:58 I was building it um in a very specific
+6:00 way.
+6:01 Um so, let me press okay first. Here we
+6:03 go. I got 46 + 23. You can see that it's
+6:07 um
+6:10 We can see that it's in this column. Um
+6:13 yes. Okay.
+6:16 So, I can select this row. Open row
+6:19 object. This is going to be important.
+6:21 It's going to be an easy way to get to
+6:22 this.
+6:23 And then
+6:25 three is I'm going to say equals the sum
+6:28 of
+6:30 um
+6:31 A1
+6:33 colon
+6:34 B1.
+6:37 And here we go. So, that's what this
+6:40 ends up looking like. You should be If
+6:42 you're an Excel person, you should be
+6:44 getting ahead of me here a little bit.
+6:46 Um
+6:47 So, let's duplicate this down.
+6:49 Let's change some value here.
+6:52 Let's say that this is 34. Sure. This is
+6:56 26. Why not?
+6:58 Still summing. And then I want to slide
+7:01 this up. Now, I'm going to use three
+7:05 to do like
+7:06 a totaling.
+7:08 All right?
+7:09 And I mean, we can even get clever with
+7:11 this. We could, you know, change the
+7:12 label of this to total.
+7:16 And and make it so that this is not
+7:18 producing a callout. We're going to use
+7:20 a label instead of callout. All right?
+7:21 So, that says total. Sweet.
+7:24 Okay.
+7:26 So, number three, which will be
+7:27 totaling, is in my macro input one,
+7:32 maybe I can do
+7:34 this is equal to the sum of
+7:38 um Now, it's going to be
+7:41 A1
+7:43 to
+7:44 A2.
+7:47 Right.
+7:49 And and really same thing. B1 B2.
+7:52 Right?
+7:53 So.
+7:58 And then
+7:59 two.
+8:01 And
+8:02 so on
+8:04 and so forth. Equals the sum of
+8:08 B1.
+8:12 C.
+8:13 Two.
+8:16 Let's check the syntax. This is looking
+8:18 correct. This is looking correct. Okay.
+8:20 Now, I'm going to take out this other
+8:23 gibberish. We don't need it
+8:25 for now for proof of concept.
+8:29 All right, top. Boom boom boom.
+8:32 What do we get to do from here? Well,
+8:34 it's
+8:35 quite simple, really. [laughter]
+8:37 We get to just output this. Now, here's
+8:39 what I don't
+8:41 what I don't need anymore.
+8:43 I put these headings in here to help me
+8:46 visualize. Right?
+8:49 Um and we should even be able to
+8:51 automatically change reset column width.
+8:53 There we go.
+8:55 I put this in here to help me visualize.
+8:57 I no longer need it. So,
+9:00 I don't need to display column headings,
+9:02 and I don't need display the title, and
+9:04 I don't even need the number column
+9:07 anymore.
+9:09 There we go. There's my output.
+9:11 And so, I get to export this. Let's just
+9:13 go CSV
+9:15 as
+9:16 uh check
+9:19 um
+9:21 CA something.
+9:22 And
+9:24 let's go
+9:27 open this up real quick.
+9:32 Look at this.
+9:33 It's just immediately tallying.
+9:37 Right?
+9:39 I mean, that's kind of cool.
+9:42 So, what can you do with this?
+9:45 This should tell you that we can create
+9:48 schedules that are that are building
+9:50 calculators for us outside of Chief.
+9:54 And and here's the real money is
+9:59 you can create blanks, blank sections.
+10:02 And why would you do that?
+10:04 You might do that to do something like
+10:07 this where
+10:10 we're trying to get an input
+10:13 for all of these columns just by
+10:15 copy pasting from our output from Chief
+10:18 into this so that we're getting some
+10:20 kind of automatic pricing and an order
+10:22 form for instance.
+10:24 Okay?
+10:26 Should make your head go, "Oh, wait a
+10:28 minute.
+10:29 This would save me a ton of time if I'm
+10:32 building this from a model within Chief
+10:35 Architect."
+10:37 And I mean that was a pretty simple
+10:39 thing. So, here is the next part of this
+10:42 is let's get back to these two and
+10:47 instead of having these static numbers I
+10:49 put in in macro input one and two, I'm
+10:52 instead going to say
+10:54 width.
+10:57 And I'm going to say height.
+11:01 And these are values coming from the
+11:03 cabinet. So that if I change this
+11:06 cabinet, it changes this number.
+11:08 And so when I export this to CSV, it's
+11:12 being built off of that cabinet. So
+11:14 we're basically building in a calculator
+11:16 now.
+11:17 Obviously you can do this same thing in
+11:19 material list or we could have calced
+11:23 right here in the schedule and have a
+11:25 you know, a visual output calc that's a
+11:27 static number.
+11:29 But
+11:30 the point of showing this capability is
+11:33 more about
+11:35 gearing an output to match an input
+11:39 where something like this Excel
+11:40 calculator
+11:42 um that's that's provided by a vendor is
+11:45 is a built out calculator that you're
+11:47 not going to replicate easily in Chief
+11:49 Architect.
+11:51 And so all we need is is that data to
+11:53 just translate to just carry over. And
+11:56 we can even include some of the formulas
+11:57 that we might do, you know, in
+12:00 on the internal side.
+12:02 So,
+12:04 yeah, this will this will
+12:07 I mean, this is just taking text and
+12:10 injecting text in into an Excel. So it's
+12:12 not like you can't just do like a
+12:14 VLOOKUP or anything that's in a cell
+12:16 within Excel.
+12:18 The only thing you're not going to be
+12:19 able to do is a multi-page output,
+12:22 right? You will have to create several
+12:24 schedules and build out a system in
+12:27 order to like copy paste into a
+12:29 multi-page thing.
+12:31 But
+12:32 for my working scenario where I really
+12:35 just need to input for this section,
+12:38 this works. This is this is not a
+12:40 problem. I can do this. Um
+12:45 Yeah. Be curious to see what you guys
+12:48 what you guys think of this. Let me
+12:50 know.

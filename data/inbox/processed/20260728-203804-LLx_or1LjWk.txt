@@ -1,0 +1,48 @@
+Title: Chief Architect With The Pro Plan   Designer and Client Information
+URL: https://www.youtube.com/watch?v=LLx_or1LjWk
+Visibility: public
+
+0:02 Following video is for my pro plan
+0:02 package. It's an add-on package for
+0:04 Chief Architect. Link at the top of the
+0:06 screen. If you don't have it, go get it.
+0:09 It's going to save you a bunch of time
+0:09 and money. It's already set up, make you
+0:14 really efficient in Chief Architect.
+0:17 Let's go ahead and start this video.
+0:17 This is a quick video to just show you
+0:21 how we can get designer and client
+0:21 information into the pro plan. So, let's
+0:25 go ahead and open up one of these
+0:25 layouts. This is done on a layout by
+0:27 layout basis. Open up a layout and there
+0:33 are two systems for getting designer
+0:34 client information. One is far more
+0:34 complicated than the other. I think for
+0:38 the most part people will be using this
+0:40 primary system which is that this
+0:40 project information right here is coming
+0:46 from tools designer client information.
+0:49 Okay. Once you've hit that tool that
+0:51 brings up this designer client
+0:51 information where we've got the designer
+0:54 panel. You can go ahead and put your
+0:54 name, company name, etc. Addresses. Now
+1:00 the client information has a very spec
+1:00 special macro analyzing it which is that
+1:06 anything that is in front of a colon as
+1:08 you can see here there's a colon there
+1:10 anything that's in front of a colon is
+1:10 treated as a whole new line item you can
+1:15 see here scope of work is its own line
+1:18 item see scope of work kitchen remodel
+1:20 so that if I came into this website
+1:20 input and I did something like example
+1:28 this is an example
+1:28 like my radio voice there. If I press
+1:30 okay, we're going to see there we go. It
+1:35 populated right here. So, this is
+1:35 exactly how we populate this project
+1:37 information section. If you want to see
+1:41 the more complicated uh setup where
+1:41 we're reading from a CSV file, you'll

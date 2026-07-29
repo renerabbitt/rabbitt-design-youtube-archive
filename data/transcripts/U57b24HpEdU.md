@@ -1,0 +1,64 @@
+---
+videoId: U57b24HpEdU
+title: Twinmotion Shorts - Add Light Source Emitters FAST
+url: "https://www.youtube.com/watch?v=U57b24HpEdU"
+status: imported
+---
+
+# Transcript
+
+0:03 in this project I have a bunch of
+0:05 recessed lights
+0:05 these do not come with emitters for this
+0:10 particular import style so they don't
+0:10 have emitters attached to these lights
+0:11 I'd like to quickly add some emitters to
+0:17 these lights maybe an IES profile what
+0:18 have you so I have these recessed lights
+0:22 inside of a folder here you can see here
+0:25 here they are I'm going to select this
+0:27 container
+0:27 okay I'm going to select this container
+0:31 I'm going to copy and then I'll paste
+0:33 here that's going to place a new
+0:33 container I'm going to make a copy
+0:34 instead of an instance I'm going to make
+0:38 a copy a new container with those same
+0:40 lights Within
+0:40 the folder that they were already
+0:41 contained in okay now I'm going to
+0:43 select all of these copied recessed
+0:47 lights
+0:47 shift select now I'm going to right
+0:49 click in the scene graph and I'm going
+0:55 to go down to replace object this will
+0:57 bring in a drag and drop section into
+0:59 your properties panel I'm going to go
+0:59 over to my library and in my library I'm
+1:04 going to select lights and I'll pick an
+1:04 IES profile that I like to replace those
+1:10 lights with I can click drag into the
+1:10 drop object here section and then click
+1:15 on my start replacement now before I do
+1:16 that I want to make sure that all of
+1:19 these lights were set to
+1:19 he's centered geometry because my new
+1:21 IES light profile is going to be based
+1:24 on a center line so make sure that your
+1:30 import is actually centered up
+1:30 just to do that we can click this left
+1:34 Arrow at the top heading here and then
+1:36 make sure that we're clicking on pivot
+1:38 edit and then we can click the down
+1:40 arrow and say Center pivot so that
+1:40 centers the pivot for each of these
+1:41 lights and go back into my rotate or my
+1:47 translate tool and then let's go ahead
+1:50 and start the replacement
+1:50 there we go it automatically imported
+1:52 and replaced all those as can lights the
+1:59 mesh of those lights with emitters so I
+2:01 have the original mesh and then I have
+2:04 the emitters below let me see if we
+2:04 click on my Ray Trace view we can see
+2:06 these are in fact producing light from

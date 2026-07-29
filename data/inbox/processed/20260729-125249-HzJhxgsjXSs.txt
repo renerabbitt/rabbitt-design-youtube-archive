@@ -1,0 +1,193 @@
+Title: Pattern And Texture Syncing In Chief Architect X16
+URL: https://www.youtube.com/watch?v=HzJhxgsjXSs
+Visibility: members-only
+
+0:00 all right VIP if you saw a previous
+0:03 video we were going over targeting
+0:06 normal maps and creating a lot of kind
+0:08 of fake displacement in a texture and
+0:11 this is the next part of that video I've
+0:13 added my new texture to my library and I
+0:16 want to create a pattern for this but I
+0:18 don't want to use the autogenerate
+0:20 pattern tool because that creates a ton
+0:22 of vector lines which can really
+0:24 a plan so here's what I'm going to do
+0:27 going to get into CAD patterns create
+0:30 new pattern I don't really care what I
+0:32 name it right now I don't even care what
+0:35 the repeat box size is or any kind of
+0:37 offset because what I want to do here is
+0:40 I'm going to come into my library where
+0:42 that exists or um what might even be a
+0:47 better approach is let me come into
+0:49 where the source file is okay and that's
+0:52 this Valley ledge is what I use to
+0:54 create this so there we go there is my
+0:57 texture I get to just drag that into
+0:59 this scene and I want you to notice
+1:01 something when we select our pattern
+1:04 preview box here or um it has a drag
+1:07 handle on the top right which means it
+1:10 has a top edit handle and a right edit
+1:13 handle what does that mean well we want
+1:15 to point to point move our texture
+1:17 source file into that bottom left corner
+1:20 so that we can then click our pattern
+1:23 preview box and drag it to snap it to
+1:27 our actual texture bam there we go I'm
+1:30 going to turn off line weights that'll
+1:31 make this a little bit easier and then I
+1:33 kind of have to just draw things in here
+1:35 now this can get really tedious it
+1:38 really can um so it depends on you know
+1:41 how important is this to you to have
+1:43 this pattern preview and I'm just going
+1:45 to use the line tool and use continuous
+1:48 draw mode which is our alternate
+1:49 behavior and just start drawing in these
+1:52 segments okay and I don't care to be
+1:56 ultra accurate here I just this is
+1:59 supposed to be something something
+2:00 that's just quick and dirty for me so as
+2:02 I draw in these lines and kind of snap
+2:04 things what it's doing is it's producing
+2:06 that pattern on the Fly okay and so when
+2:10 I'm drawing these things in it might be
+2:13 helpful to in the active layer display
+2:15 options turn your color for your lines
+2:17 to something like white if you're going
+2:19 over the top of a pattern like this
+2:21 makes it a little easier to see so I'm
+2:24 just going to snap this to the edge want
+2:26 to make sure that we're snapping in fact
+2:28 I'd almost start from the it's a little
+2:30 easier to snap that way and then kind of
+2:33 pick things up now the one thing I would
+2:35 say to do here is edit edit behaviors
+2:38 excuse me snap settings turn off angle
+2:40 snaps that's going to make it really
+2:42 easy to snap from one line to another
+2:45 without having to fight those angle
+2:47 snaps constantly okay so when you turn
+2:50 on angle snaps there we go we're able to
+2:52 draw these things at an angle very
+2:54 quickly so line tool bam continuous draw
+2:58 mode and and there we go I don't need to
+3:01 worry about holding control to override
+3:03 those angle snaps they're just not being
+3:06 used
+3:08 now and then remember left and right
+3:10 click to stop any kind of action so I'm
+3:13 just popping in
+3:16 here left hand click stops that draw
+3:19 action and just keep working down the
+3:22 line and I'd say try to keep this as
+3:25 simple as possible is what I'd be
+3:27 looking for here
+3:35 I'm going to pause and continue here and
+3:37 I'll come back in a
+3:39 second okay so now I've got my pattern
+3:42 all traced out and I get to just close
+3:46 this pattern now right do you want to
+3:48 save your changes yes save them and so
+3:51 what happens this shows up in our
+3:53 library browser as a new pattern file
+3:57 okay let me go ahead and
+4:00 just want to open this up just to take a
+4:02 look at it right so we open this object
+4:04 up oh excuse me this is our material our
+4:08 pattern file is right here so here's
+4:10 where I'm going to rename this
+4:12 Valley ledge pattern and I'm going to
+4:15 put it in a patterns folder but for the
+4:18 material itself I can open this object
+4:21 now and so long as I didn't
+4:24 rescale the XY scale here I kept the
+4:28 ratio of the original text texture then
+4:30 we just get to punch in the pattern and
+4:32 that's it it's as simple as that but
+4:35 notice that my scale is 100 and 100 and
+4:38 so essentially we've stretched this in a
+4:40 way so our pattern file might not
+4:43 actually match up let me go ahead and
+4:44 Target this in the library so in the
+4:47 pattern U panel I'm going to find my
+4:49 valid ledge pattern press
+4:52 okay and then there's not any
+4:55 particularly easy way to do this I'm
+4:57 going to just switch to a plane so I can
+4:59 clearly see this and then flip from a
+5:02 vector
+5:03 View to a standard View and we're going
+5:05 to notice our pattern is completely out
+5:07 of scale from the actual uh texture
+5:10 itself and this requires like a little
+5:14 bit of guess and checking if you will so
+5:17 um what I want you to see here is let me
+5:19 just press okay here and then let me get
+5:22 to the valley ledge pattern I'm going to
+5:23 double click this if I double click it
+5:26 it should bring
+5:28 us edit pattern excuse me I'm going to
+5:31 right click Eder pattern it's going to
+5:32 bring us back to this pattern and here's
+5:36 where we could essentially reset our
+5:39 scale to be the same size as the texture
+5:42 itself so that would be something that
+5:44 we could do but another thing we can do
+5:46 is we can take a look at this 26 and
+5:49 9/16 I think this is the approach I'm
+5:51 going to take I'm going to copy these
+5:52 two numbers from the dialogue from the
+5:55 pattern preview I'm going to come into
+5:57 my um into my material here open the
+6:04 object there we go and then in the
+6:07 texture here and I'm going to uncheck
+6:10 retain aspect ratio I'm going to paste
+6:13 in those amounts so it was 19 and 78 and
+6:17 then paste in this other amount 6 and
+6:19 916 now when I do a pattern preview does
+6:22 this line up and in fact it does so
+6:26 here's the next important step because I
+6:29 want to scale my texture back up to what
+6:31 it was before I need to click on keep
+6:34 pattern texture in sync because they are
+6:37 lined up now according to the texture
+6:39 sour excuse me to the pattern source so
+6:42 that I can check retain aspect ratio
+6:45 kick this back up to 100 in and it's
+6:47 going to rescale my pattern accordingly
+6:50 so that if I switch to standard view Etc
+6:53 it's now in sync itself so when I press
+6:57 and spray this onto the wall here now
+7:00 let's go switch to something like a
+7:01 vector View and there we go and that
+7:04 looks exactly as I want it to look so um
+7:08 there's one example of creating pattern
+7:10 for your texture file so that it is in
+7:13 sync so that when we're switching to
+7:15 something like a some kind of vector
+7:18 based view we're seeing the correct
+7:21 representation of that particular
+7:22 texture so that if I pull something like
+7:25 an elevation view oops and I have angle
+7:27 snaps turned off mind you um that I
+7:30 should be able to see that
+7:32 pattern let's see where is my camera so
+7:35 let me turn
+7:37 angles snaps there we go pull that
+7:40 elevation camera oh I keep just pulling
+7:43 it on the wrong side don't
+7:46 I there we are and so there's our
+7:49 beautiful new pattern it's looking great
+7:51 so there you go hopefully that helps you
+7:53 out in case you want to create a pattern
+7:55 it's not creating a ton of vector lines
+7:57 here so this is um this is a a pretty
+8:00 simple way of doing that it's just
+8:01 tracing over your texture and then
+8:03 syncing that up with your material and
+8:07 keeping that pattern and texture in sync
+8:10 scaling it appropriately
+8:22 [Music]

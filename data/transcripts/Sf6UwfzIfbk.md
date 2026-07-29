@@ -1,0 +1,156 @@
+---
+videoId: Sf6UwfzIfbk
+title: CA SHORTS - Exposed Tongue and Groove and Rafter Roof Underside in Chief Architect X17
+url: "https://www.youtube.com/watch?v=Sf6UwfzIfbk"
+status: imported
+---
+
+# Transcript
+
+0:02 I'm going to show you how to build a
+0:05 exposed tongue and groove with an
+0:05 underside of a roof plane. Okay, tongue
+0:09 and groove underside of the roof plane
+0:09 with rafters. So, that's going to be all
+0:13 exposed. Okay, that's pretty common
+0:13 setup. So, let's get to this real quick.
+0:16 We're going to select the room. I've got
+0:18 my edit toolbar in the middle of the
+0:18 screen here. And within my edit toolbar,
+0:20 you're going to see this little guy
+0:20 here. Let's turn off the ceiling for
+0:22 this. Okay. So, now we're seeing that
+0:26 we've got a rake ceiling here, a shed
+0:26 roof if you will. And then I can select
+0:31 that roof plane. We're in X17. So you
+0:31 can see here we've got temp dimensions.
+0:34 Very nice. And then let's open this up
+0:34 and we're going to get to the structure
+0:36 panel. Everything we do from now on will
+0:42 turn off autobuild roof. So just note
+0:43 that it's going to turn off autobuild
+0:45 roof. So this might be the last thing
+0:46 that you want to do when you're
+0:46 modifying your roofs. And so first thing
+0:49 we want to do is we want to turn off
+0:49 sophets. So we're in the structure panel
+0:54 right now. Okay. Turn off sophets. Let's
+0:56 edit the ceiling. We're going to delete
+0:59 whatever uh ceiling material is there.
+1:00 That's going to give us our exposed
+1:00 section. Right. So, let's delete that.
+1:04 Now, we'll get into the structure. In
+1:04 case you want to change the structure,
+1:07 it's important to note a couple things
+1:07 about this. I'm going to change this to
+1:12 a 2 by8 material. When we do that, we
+1:12 need to match our gable subfascia. All
+1:16 right. So, we need to get into this
+1:17 section right here. Match our gable
+1:18 subfacia. And you might even want to
+1:20 match the framing member in case you've
+1:24 got some out of the um some out of the
+1:26 norm settings in your template. So you
+1:26 might want to choose rafter here for the
+1:30 framing member. We can turn off e fascia
+1:33 all the fascout.
+1:33 Okay. And I mean and that's of course
+1:37 totally up to you and what the
+1:37 construction is of this particular roof.
+1:41 And then the next part we want to get
+1:44 into is the surface edit here. And so
+1:44 this is what's going to be exposed right
+1:48 now currently is this plywood. Now
+1:48 because I'm doing a tongue and groove
+1:49 material that might be 3/4 of an inch.
+1:53 That's going to be my subsurface. So,
+1:55 I'm going to take over this OSB
+1:56 horizontal. So, I'll double click into
+1:58 the texture column right on top of that
+2:00 material there. This is going to give me
+2:04 the opportunity to change the material
+2:04 from either some kind of material that's
+2:09 in my plan or in my library. So, I'm
+2:09 just going to do a little partial search
+2:12 and find some of my siding materials
+2:14 that look like what I want here. So,
+2:15 there we go. I'm going to use this
+2:15 material there. All right. And that will
+2:21 be what's exposed. Let me press okay.
+2:22 Next thing I want to do is I want to
+2:22 make sure I'm turning off gutter in this
+2:27 case because I'm getting an get an
+2:27 exposed rafter roof with a custom rafter
+2:31 tail. So, let me go ahead and turn off
+2:34 gutters. And then for rafter tails, I
+2:34 can add new. And much like anything in
+2:38 Chief Architect, it all comes with
+2:38 acronyms for their moldings. So, we're
+2:42 are filtering filtering based on
+2:42 moldings right now. And so if I just
+2:44 type in RT, that stands for rafter tail,
+2:49 just like CM stands for crown molding or
+2:53 EM for edge molding. So RT, there we go.
+2:55 This is filtering to moldings and
+2:55 profiles. And then if we need to filter
+2:59 this further on, let's expand the core
+3:01 cataloges and click on architectural.
+3:01 And we'll get to all these moldings. I'm
+3:05 going to pick the R08. Okay. And then
+3:06 notice that it's set to stretch to fit
+3:08 to rafter. So no matter what the rafter
+3:12 size is, this molding is going to
+3:12 stretch uniformly to fit that size. You
+3:17 can of course uncheck this and specify
+3:19 your own width and height if you like.
+3:20 And then the extend means we get to
+3:20 extend that rafter out further than what
+3:25 it would build to typically which is
+3:25 just the eve overhang. So if I want to
+3:29 extend this out say 3 in, we'll just
+3:31 show this. This is going to be an
+3:31 exaggerated rafter tail. And let me
+3:33 press okay. And then the last part about
+3:37 this after it prompts you that we're
+3:37 going to turn off autob build roof and
+3:38 that's okay is that in your edit toolbar
+3:43 you can build the framing for this and
+3:45 it will also prompt you on whether or
+3:45 not you want to show that framing layer
+3:49 in case that you don't have that layer
+3:51 turned on in this particular view by
+3:51 default. So, if you do this all in a 2D
+3:56 plan view, which you can do, you can
+3:58 select a roof plane, do everything I
+4:00 just did in a 2D plan view. When you
+4:00 switch to a 3D view, and you don't see
+4:03 your framing, that's what you're going
+4:05 to want to do is make sure that you're
+4:06 if you've already built your framing,
+4:06 just make sure that layer is turned on
+4:11 in your active layer display options.
+4:13 And so, there's that 3-in extension.
+4:15 What you're seeing here is I have a
+4:15 shadow board that is my flashing for my
+4:19 roof plane. So if I select this
+4:19 particular edge, I'm going to keep my
+4:21 counter flashing on the right hand side
+4:22 here. But if I open this up and get into
+4:26 my shadow boards in case you have a
+4:26 shadow board, this is done on a edge by
+4:32 ededge basis. So for this particular
+4:32 selected edge, I can turn off that that
+4:36 profile that I've got there. And then
+4:36 I've got that exposed tongue and groove.
+4:41 There's my rafter tails. And if we get
+4:41 inside here, we can see that tongue and
+4:45 groove material. And then keep in mind
+4:47 that this is technically our gable
+4:47 subfasia. And of course, you wouldn't
+4:51 just have this be floating out in the
+4:53 center of nothing. So maybe we do
+4:53 something to, you know, put a support
+4:55 beam here that's being can levered over
+4:59 your framing or something like that. So
+5:00 hopefully that answers the question of
+5:02 how to show this exposed tongue and

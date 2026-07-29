@@ -1,0 +1,647 @@
+Title: Integrated Rowlock Door Sill In Chief Architect X17
+URL: https://www.youtube.com/watch?v=8C2Y7WA0hv4
+Visibility: public
+
+0:02 What's going on, chief architect people?
+0:04 I just ran into a comment I saw and I
+0:07 wanted to show you how can we make a
+0:10 custom sill that part of that is
+0:10 threshold for a door and part of it is
+0:12 going to be a roll lock brick. Okay, how
+0:18 can we do that? That'd be pretty clever,
+0:20 right? And so, let's see if we can come
+0:20 up with this. I have not practiced this.
+0:25 I'm just using my knowledge of Chief
+0:25 Architect to hopefully work this out.
+0:27 We'll see how I do. Um, I already have a
+0:34 a custom brick wall type that I like to
+0:34 use. It's got kind of a 3D brick look to
+0:38 it. So, I'm going to start with that.
+0:41 Um, let me go ahead and get a door in
+0:43 here so we just get an idea of what a
+0:43 sill is even looking like. So, I'm going
+0:48 to do a back clipped cross-section to
+0:48 look through this and we'll see. We'll
+0:52 just have a little idea of what the sill
+0:57 looks like on this bad boy. Now, right
+0:59 now it's just showing a flat sill. And
+0:59 do we have the ability to use some kind
+1:01 of custom sill? Yes, we do. Let's choose
+1:08 an exterior sill. Okay. And so this is
+1:12 what it shows up as. And so it's if we
+1:20 threshold ends up building underneath
+1:24 the door. And there's no custom
+1:26 threshold
+1:26 setup that we can do. And exterior depth
+1:31 set to quarter inch. Let's see what
+1:31 happens when we change some dimension of
+1:35 this. Right. So it so it pushes this out
+1:38 right here. It just pushes a flat stock
+1:42 out. And we can't then specify a cell
+1:42 separate from that. Right. And so we can
+1:47 specify a sill where it has an apron.
+1:49 Not sure that that's super helpful.
+1:49 Here's where the custom aspect of this
+1:56 happens is maybe we can get really
+1:56 really wild with this thing and specify
+2:03 something that is using what's called a
+2:06 3D molding. Now when I specify use
+2:06 interior cell this is what happens and
+2:08 we don't seem to have any offset. All we
+2:15 have is extend, but a 3D molding can
+2:15 have an offset in it, but it gets really
+2:20 crazy once you start messing with that.
+2:22 So, I'm not sure how well this is going
+2:24 to work out. We're going to try
+2:26 something. So, leaving these
+2:26 specifications in place, we can see
+2:28 where these show up here. And so, I'm
+2:30 going to build off of this. What I have
+2:34 shown here, that's what I'm going to
+2:34 build off of. And I'm going to basically
+2:41 create two molding profiles at once. and
+2:43 then join them together as one molding
+2:47 profile. Just stick with me here. I'm
+2:47 just working through ideas in my head.
+2:53 Okay, now this is a lot of confusing
+2:53 lines. You know, I probably could have
+2:57 turned off my foundation walls to make
+2:58 it just really clear where those are
+2:58 showing up and and hopefully just make
+3:03 this be a little bit easier to look
+3:03 through. So, there we go. I'm going to
+3:06 turn off that foundation wall. That's
+3:08 going to get rid of that. Um, this is
+3:08 just basically a remnant of the wall or
+3:12 actually it seems to be part of the door
+3:16 assembly when I click it. That's okay.
+3:19 So, this is about as limiting as I'm
+3:21 going to get in terms of all the all
+3:21 these CAD lines, right? And so, I want
+3:26 to draw in here and maybe I'll just
+3:26 start with a polyline. And the reason I
+3:30 want to start with a polyline is I'm
+3:31 going to make it really easy to see
+3:31 this. It's going to help me. So, I'm
+3:33 going to do just an angle hatch on this
+3:39 one inch spacing. Let's go quarter inch
+3:41 spacing. This just makes it really easy
+3:45 to see my CAD profile. Okay. And so, I
+3:47 want to build something that actually
+3:49 looks like a threshold.
+3:49 So, this is going to And so, I'm going
+3:53 to raise this door up. In fact, let me
+3:54 see if I can't select this door from
+3:54 selecting the line here. It looks like I
+3:58 can. And what I mean by raise this door
+4:00 up is we got this setting recently,
+4:00 bottom offset. So, let's make this a 3/4
+4:05 inch offset. Okay. And so, that raised
+4:07 the door up. I'm going to make a break
+4:13 in my polyline here. Oops.
+4:13 Just drive that down like that. That's
+4:20 looking pretty good. And then, um, my
+4:23 exterior surface
+4:23 of this brick wall assembly is what
+4:28 there. So, here's my brick. That's where
+4:33 my brick starts.
+4:33 So that's where I'm going to overlap my
+4:40 threshold a bit on top of my brick. You
+4:42 know what? I don't know true spec on
+4:42 this. So you old heads that really know
+4:46 what you're doing with these brick
+4:46 thresholds. Let me just uh you know,
+4:52 this is basically a detail that
+4:55 immediately popped up, right?
+4:57 is we've got a threshold
+4:57 and then an apron down and then we're
+5:00 mortaring this in or maybe grouting this
+5:04 in
+5:04 right at at some kind of a pitch.
+5:07 Probably like a 22° pitch or something.
+5:13 Okay, I'm not far off on my thinking
+5:16 here. That's good. Um, and we're and
+5:20 since we're faking the look of this,
+5:20 we basically have to cheat a little bit
+5:23 because this right here is the top of my
+5:28 brick.
+5:28 Okay. So, that's is that's how I'm going
+5:35 to have to build that profile.
+5:35 Yeah, that's the top of my brick. So,
+5:40 let me I should have made a copy of that
+5:43 polyline when it had its fill from the
+5:44 get-go. That would have been a lot
+5:44 easier. Of course, we can use the fill
+5:50 eyropper tool. Just do that. That's
+5:50 pretty easy, actually. Um, my brick.
+5:57 We're going to call this 3.5.
+5:57 And then, and then I'll work out where
+6:02 this is going to head in. But that's
+6:14 And so maybe maybe that's maybe that's
+6:14 it right there. So what am I going to do
+6:19 with these two? I'm going to take these
+6:21 two. I know you're probably having
+6:23 trouble seeing it the way I'm I'm
+6:26 looking at this. Um
+6:29 that's okay.
+6:29 This is the edge of my brick. The
+6:31 highest I can go is about there. That's
+6:33 fine. So I'm going to do this. I'm going
+6:37 to make a little break in this and bring
+6:40 this down. Let's look as
+6:40 close to accurate as possible. I'll take
+6:43 these two. I'm going to convert these.
+6:45 They're poly lines right now. Let's
+6:45 convert them to 3D solids. And this is
+6:47 part of making a 3D molding. And so, um,
+6:54 the depth of this is just going to be
+6:54 the depth of the door. We'll just make
+6:55 these 36. And then we'll center them on
+7:00 the door. And let's just pull a little
+7:02 camera view here to see what we got
+7:05 going on.
+7:07 And so
+7:07 I want to take my brick texture and I'm
+7:12 probably going to make a copy of it,
+7:12 which is this button right here. Copy
+7:17 selected material. Okay.
+7:17 And this is I have a couple different
+7:20 brick textures in here. This one has um
+7:22 a fake look of displacement. So instead,
+7:27 let me just get into the material
+7:30 painter and see if I can't find
+7:35 brick in my plan.
+7:35 because there's one that's just brick
+7:36 and then there's one that's displacement
+7:40 brick. There we go. That's what I want.
+7:45 So, I'm going to paint this solid
+7:45 just like that. And we're going to
+7:49 rotate it. So, adjust material
+7:49 definition. Rotate this bad boy
+7:53 90°. Okay. We want that row lock look.
+7:57 There we go. That's what we're looking
+7:58 for. I'm going to take this and paint it
+8:03 the trim color.
+8:05 Okay.
+8:05 And now we'll take both of these and
+8:07 center them up. Now something pops out
+8:15 immediately is that my threshold here
+8:15 wasn't pushing far enough and it's not
+8:17 covering the flooring and we need it to.
+8:23 So first of all, let me get rid of the
+8:23 existing sill so that's not fighting us.
+8:28 Use interior sill. Use exterior sill.
+8:28 Bam. That'll get rid of that. And then
+8:34 now we can come back to this
+8:37 cross-section elevation
+8:37 and see if we can't get this an idea of
+8:43 this solid in here. Yeah, we need to
+8:45 move this forward so it covers the
+8:47 floor. That's that's the biggest
+8:58 For some reason, this is not going to
+9:00 let me push this forward.
+9:00 Probably because of that angle at the
+9:02 end. I might need to conform this angle
+9:04 just to get this to stop fighting me. Or
+9:10 not. Or not. Maybe I'll bring this whole
+9:16 Something's going on with this polyline.
+9:19 So in that case, let's just convert it
+9:19 back to a regular plane polyline. It'll
+9:24 let me manipulate it again.
+9:24 So there we go. We're just covering the
+9:30 floor and then we're kicking down.
+9:32 That's fine.
+9:32 And let's convert this again. 3D solid.
+9:41 Make that 36 again.
+9:41 Come back to our view here. We go. It's
+9:44 covering everything it needs to cover, I
+9:47 think.
+9:49 Okay.
+9:49 So, there we go. We've got this setup.
+9:52 And this I'm going to make this kick out
+10:02 something like that. And let's see what
+10:05 we can do about making this be a 3D
+10:08 molding. So, I have both of these
+10:08 selected. Here's what really, really
+10:14 matters with 3D moldings is
+10:14 you needed to draw this on plan South.
+10:19 If you drew it on plan left or right,
+10:21 you're going to have some serious
+10:21 problems converting this to 3D molding.
+10:27 I just know this. I know that this is a
+10:30 challenge in Chief. It's Chief is very
+10:30 particular about how you create these 3D
+10:34 moldings and and getting them to work
+10:36 the way you need them to. So, we're
+10:36 going to we might have to do a little
+10:38 guess and check. Try this a couple
+10:38 times. So, I go designate this as a
+10:42 molding. This is going to be my custom
+10:47 sill profile.
+10:47 And let's You want to show advanced
+10:49 options. And let's see what happens. All
+10:53 right. We can see already the problem
+10:55 here. It's getting repeated, but the
+10:58 axis is incorrect. It's rotated
+10:58 incorrectly. You can try to rotate it in
+11:05 this view and maybe it works.
+11:09 But often times it does not.
+11:09 And so here's the other problem. I can't
+11:13 have an offset in the brick separate
+11:17 from that threshold. Just doesn't
+11:17 doesn't work. So you're getting both at
+11:22 the same time no matter what. So, um,
+11:22 even though I extended this and what did
+11:27 I extend it to? 45 in. Let's just make
+11:32 it 45. Let's center it up on the door.
+11:39 Center it.
+11:39 So, then the next thing that we know is
+11:42 maybe it would have been beneficial to
+11:45 put this on
+11:46 um
+11:46 in one of these other
+11:51 walls.
+11:52 That's funny. I'm not getting a
+11:57 Oh, I had a
+11:57 have this cross-section highlighted. So,
+12:01 I wasn't able to copy paste this
+12:01 reflective out. Let me try that. There
+12:04 we go. Copy paste reflect about. I'm
+12:06 going to try it from this side now.
+12:08 Okay.
+12:08 Have both of those selected. Should be
+12:10 anyways. Yeah. Convert to molding. Show
+12:15 advanced options.
+12:15 See if this time it repeated the correct
+12:19 way. No, it did not. So, it doesn't seem
+12:22 to matter that I had it on this side
+12:22 versus the other side. Very interesting.
+12:27 I don't know that I have a solve for
+12:27 that. So, no matter what, we might have
+12:28 to rotate. Here might be the fix. Here's
+12:33 what I've run into before. And the
+12:33 reason I'm doing this, and the reason
+12:34 I'm telling this is because I know that
+12:38 I've run into problems with 3D moldings
+12:39 if we don't get it oriented the correct
+12:40 way the first time. And so, instead, I'm
+12:46 going to convert this to a fixture.
+12:46 I'm not going to add it to the library.
+12:50 I don't need to show advanced options.
+12:50 And I'm going to just place this in plan
+12:59 like so. And so now I can take this and
+13:01 convert it to a molding. But I can
+13:03 rotate it in the correct direction
+13:03 first. I'm going to test this once. So
+13:08 let me just show advanced options and
+13:08 see what happens. All right. So that's
+13:13 the incorrect orientation. So let me
+13:13 take this and now that it's a picture,
+13:14 it's just one unit. It's really easy to
+13:21 rotate this and guess and check.
+13:21 Now, rotating it that way didn't make
+13:27 the difference. Very interesting.
+13:27 Just selected the symbol molding. Show
+13:29 advanced options. Yeah, no matter what,
+13:34 it seems to be orienting it the way it
+13:34 wants to. And that might just have to do
+13:39 with the length of it. I'm not sure. So,
+13:42 it looks like in fact they do have to
+13:45 rotate this in the 3D menu. So, let's
+13:45 rotate this on the Z-axis. There we go.
+13:49 So, it's going to repeat and this is
+13:53 what the profile looks like. Okay,
+13:53 we show this. If we see this little icon
+13:58 at the top of the screen, standard view,
+13:59 that's what it's going to look like.
+13:59 Pretty cool. Here's the next trick with
+14:05 this is we want to do some advanced
+14:05 sizing. So, if we show the bounding box
+14:11 here, this is what Chief sees this
+14:11 molding profile as. What do we want to
+14:18 do? Well, we want to trick Chief into
+14:20 seeing this in a very different way.
+14:20 Okay, we want it to only see this. And I
+14:25 should have taken some control
+14:25 measurements, but I'm just going to do
+14:29 some guesses and checks. I'm in the
+14:29 advanced sizing panel. And in here, we
+14:36 need to specifically uncheck this. And
+14:38 you'll notice when I do, it
+14:38 automatically checks bounding box
+14:42 spacing. Chief sees this object
+14:42 according to the bounding box, not
+14:44 according to the geometry of the mesh
+14:47 that we just created. Okay. So, what I'm
+14:53 going to do then is I'm going to specify
+14:56 that this thing is only as tall as the
+14:56 profile of this kind of upper section of
+15:03 the of the sill here. Um,
+15:03 so I'm going to just specify height. I
+15:08 can either specify height and it will
+15:11 update bounding box spacing or I can
+15:13 update bounding box spacing. In this
+15:13 case, I find it to be easier to update
+15:18 the height here just to get an idea of
+15:18 what the height should be. So, if I say
+15:20 7/8, here's what ends up happening. Now,
+15:28 notice the bounding box has done um all
+15:31 it did was put a negative in the top
+15:31 section here. In fact, I kind of want
+15:37 this negative to be in the bottom
+15:39 section.
+15:39 Put zero here. And
+15:43 there we go. That's what I want. Okay.
+15:47 And so it's going to be a little bit
+15:47 more negative than that. Let's go -4.75.
+15:56 So4. I'm just going to do some guessing
+15:58 checks. There we go. So now Chief sees
+16:02 this molding as that size but it will
+16:02 still push the geometry from this object
+16:10 this molding profile in this case that
+16:10 means the threshold will be specified as
+16:16 look at this height 5/8 okay that's what
+16:19 chief will see this as the next part is
+16:22 we know that this whole profile gets
+16:27 pushed out from the outside of
+16:27 the door jam. I believe the door jam.
+16:35 So, we need Chief to see this as a
+16:35 bounding box. That's basically, let me
+16:36 see if I can't draw on here real quick.
+16:42 Basically right here. We need Chief to
+16:42 see this as an object that is that size
+16:48 right in that location. Okay.
+16:48 So, I'm going to have to do some front
+16:54 and back bounding box spacing. Um, why
+16:54 do I know it's front and back? Because,
+16:58 um, if we look at this, here's the
+16:58 positive Y leg. That is back. Believe
+17:03 that's back. Yes. So, I need a negative
+17:09 spacing here. Let's just call it -7 in.
+17:09 That's getting pretty close. And then in
+17:14 the front, same thing. I need something
+17:17 like -2. There we go. Now, Chief is
+17:17 seeing this object as that right there.
+17:22 That's how it's going to place it. So,
+17:24 our door
+17:24 our door is roughly, if I'm I'm thinking
+17:30 about this right, is roughly right here.
+17:32 Something like that. Right there's our
+17:35 door. Blah blah blah. And then the
+17:35 existing jam is right here. And then
+17:39 this is where this is going to get
+17:41 pushed in.
+17:42 I think I've never tried this before.
+17:45 We're just going based on what we know.
+17:49 Okay,
+17:49 let's say okay. Now,
+17:52 something I I want to do is I'm going to
+17:56 screenshot my settings because if I need
+17:59 to redo this, I do feel like I've had
+17:59 experience where retroactively changing
+18:04 the molding from the library causes
+18:06 problems.
+18:06 I also don't think I clicked on add to
+18:08 the library, which would have been dumb,
+18:13 but no, I did. I added to library. Now,
+18:13 we get to come into this door. And let's
+18:17 just make a copy of this door. Slide it
+18:21 over. Now we get to come into this door
+18:21 and say that we've got an exterior sill.
+18:30 And since this is a molding, I should be
+18:33 able to select my new 3D molding. Yes.
+18:35 And I'm, you see, I'm getting a toggle
+18:35 replacement mode when I hover over this.
+18:45 Well, it didn't do anything. Now this is
+18:49 kind of common is there um might be some
+18:53 other classification of milwork in this
+18:55 symbol
+18:55 because I don't think this generated
+19:00 anything. Yes. And when there's some
+19:01 other classification of milwork in a
+19:01 particular symbol even though the toggle
+19:06 replacement mode is there it might be
+19:07 replacing something that takes
+19:09 precedence.
+19:09 We'd have to go dig through all the
+19:12 menus to see what that is. But it
+19:12 clearly did not replace that exterior
+19:17 sill. If we go look through all the
+19:17 menus, maybe it replaced something else.
+19:24 Who freaking knows? You can kind of
+19:24 maybe track it down for the materials
+19:25 here to see if anything's called brick.
+19:27 It's not. So toggle replacement mode for
+19:31 mil works not working here. So, we need
+19:35 to just come into sill threshold, click
+19:39 on library, and find that brand new
+19:43 shiny weird molding I created.
+19:43 And so, let's look at this. What did it
+19:52 Okay, this is pointing to the next
+19:52 problem that I had in this. And that's
+19:58 okay. This is fine. Is
+19:58 it saw it? seeing it as the right size.
+20:03 But let's go back into this molding
+20:03 profile. What I didn't do, what I forgot
+20:11 to do is the placement origin is right
+20:11 here. Is right where this gizmo is. So,
+20:17 we needed to not only did we need to
+20:19 offset to create the size of our
+20:19 molding, but we need to do an offset in
+20:24 the 3D panel to get this lined up so
+20:29 that our origin point is right here.
+20:31 Okay.
+20:31 All right. With that in mind, we pretty
+20:35 much I think get to just say, okay,
+20:35 seven and four and a half. Come back to
+20:40 the 3D menu. You know, this is the
+20:40 positive Y leg, right? So, we need to
+20:43 move positively 7 in. And we need to um
+20:49 move the Z in -4. So, that's a negative.
+20:55 There we go. So, now that origin is
+20:58 right where I want it to be. Let me
+20:58 press okay. I'll see if I can toggle
+21:01 replacement mode. Does not look like we
+21:06 can. That's fine. Oh, I clicked on it
+21:09 and it did it. Okay.
+21:09 Uh my my origin's still a little off.
+21:17 Interesting.
+21:18 And let's just do some guess and check.
+21:22 Let's just go -2 here. We're going to
+21:22 bump that up again. I think I just get
+21:28 the click. There we go.
+21:28 Now, it's strange. The side of this is
+21:35 producing some white fill.
+21:35 So, what that would tell you is Chief
+21:40 has something built in that if you do
+21:40 have a threshold like this, it's going
+21:45 to, I guess, extend the jam material.
+21:45 What would happen if we just turned off
+21:50 the jam material to just test this?
+21:53 So, if we said it has no jam,
+21:53 it still is extending some white there.
+21:59 Um, you could probably understand what
+22:03 that white is if we tried to paint it.
+22:03 So, if we try to paint it, what does it
+22:09 do? Um, what did that affect? Anything?
+22:11 Nothing really. That's actually
+22:11 beneficial to Oh, it painted the it
+22:14 painted the sill uh the sill profile.
+22:23 How interesting.
+22:23 Okay, with that in mind,
+22:26 we might be able to make an improvement
+22:31 here.
+22:31 I'm not entirely sure. Um,
+22:36 we might be able to just put our own
+22:37 flat section here on the side. I'm not
+22:45 Let's see what this profile did. And not
+22:47 only that, but I think the Y offset's a
+22:49 little off. Let's give it a little go.
+22:51 Another little go here. So that Y
+22:51 position, let's take two inches off of
+22:56 it. Click on here again.
+22:56 Oh, it needed to go the other way.
+23:03 Put two inches on it.
+23:03 So interesting that this filled this
+23:07 like that.
+23:07 Okay. Boy, that's looking pretty close.
+23:12 And wouldn't it be nice if you could
+23:12 just save that as your default, right?
+23:26 I want to take a look at this molding
+23:26 again. Just one more look at this. Try
+23:30 to understand why it's just
+23:30 automatically filling in that section
+23:37 with white. That's so curious to me.
+23:37 So, a potential solve of this, if I can
+23:42 get back to all the same settings
+23:42 somehow, is let me take this profile and
+23:49 I'm going to explode it. And I'm going
+23:49 to just kind of cheat. Because this is a
+23:55 solid, we can explode the 3D solid.
+23:58 And from here, I'm going to paint
+24:02 just the side of this
+24:02 brick texture. Oops, I missed it.
+24:07 Because now this is a face that can be
+24:11 painted. Okay.
+24:11 So the side of this can be painted.
+24:24 okay. With that in mind and this we'll
+24:24 just we're just doing a guess and check
+24:28 here now.
+24:28 And I convert this to a molding. Show
+24:30 advanced options. Sure. And let's rotate
+24:36 it.
+24:38 Um,
+24:38 see what happened when we exploded?
+24:44 These faces are referencing
+24:44 what they're doing is they're
+24:45 referencing a floor. Part of this
+24:47 profile is above a floor. Part of it's
+24:51 not.
+24:51 Um, so that was the issue. But you know
+24:55 what?
+24:55 That's okay. I'm just going to I'm just
+24:59 going to keep this the way this is
+25:01 because all we're doing is testing
+25:12 So,
+25:12 let's click that in just to see where's
+25:16 that brick show up. Does it show up at
+25:24 in there somewhere.
+25:24 Let's do the offset. Let's get that all
+25:45 Go the other way. Negative.
+25:45 I didn't do all that bounding box
+25:47 spacing stuff. So that's why these
+25:49 numbers are going to be different. Now
+25:59 there we go.
+25:59 That is just not showing the brick
+26:01 period. Probably because it's down here.
+26:05 Aha.
+26:05 But notice it did in fact paint the side
+26:12 of this as brick. So exploding it is the
+26:13 solve.
+26:14 So that's it. And you guys don't need to
+26:18 watch me do that. But this is it. We're
+26:20 done with this. Let me just do a little
+26:23 autobuild foundation so we can see this
+26:26 is looking like.
+26:26 See that? and throw a little ray trace
+26:28 on there. Get a better idea. Isn't that
+26:33 cool?
+26:33 You know, and you can use the new tool
+26:37 for interactive material editor,
+26:38 obviously, and then be able to drag this
+26:41 up to get this, you know, exactly the
+26:41 way you want it. Maybe you want to scale
+26:46 it, right?
+26:46 Maybe you want to scale it in one
+26:50 direction. Um,
+26:50 which I believe is this guy. Yeah, there
+26:55 we go. And now we're really looking like
+26:57 a roll lock setup. And you can move this
+27:06 Custom threshold. Look at that. It even
+27:07 kicks on the door. So we could get a
+27:10 shaped threshold with this method.
+27:14 Pretty clever. Um,
+27:17 it looked as if
+27:18 you might be able to get a shape. Let me
+27:22 just do this real quick. I want to try a
+27:30 something like this. Why not?
+27:30 What happens? How does this build out?
+27:35 Yeah. So, if you put in a custom offset
+27:40 in some of these sills,
+27:40 let's do let's do this threshold for
+27:44 instance.
+27:44 It's just building off of this, right?
+27:49 But if I made a copy of this
+27:56 just make a duplicate
+27:59 open this object up
+27:59 we see that the molding height is 3/4
+28:04 molding width etc.
+28:04 Yeah. So there's no offsetting in a CAD
+28:10 molding but if you get a 3D molding you
+28:12 can make a thresh any profile of
+28:12 threshold work. we can get some pretty
+28:14 advanced looking thresholds, right? Um,
+28:21 you might even be able to find on the
+28:30 for threshold profile something like
+28:34 this, right? Drawings like this or
+28:34 drawings similar to this. Let me go back
+28:40 a little bit. Let's go images.
+28:40 Yeah, where you're just picking up and
+28:42 tracing something, you know, similar to
+28:50 This is what I was looking for right
+28:50 there. Yeah, we can make this as a 3D
+28:55 threshold and get this to be set up
+28:55 correctly and look correct. Pretty wild
+29:06 This is the kind of video that I put in
+29:09 my membership area. I'm starting to let
+29:11 a couple of these get out of the
+29:11 membership area so the broader public
+29:16 can see these. Um, but I really
+29:16 encourage you to go check some of this
+29:19 stuff out because I got deep into this
+29:22 program. We're we're doing stuff where
+29:24 if you're in a region where you need
+29:24 some of these details, it's you set it
+29:29 up one time. Yeah, this video is 30
+29:31 minutes long. Sure. But this is
+29:31 something that's going to be used over
+29:33 and over and over again. This is for one
+29:38 of my members, by the way. Um, this was
+29:38 not a request. I just saw that they were
+29:43 doing something a very manual way. And
+29:43 they will no longer have to do this in a
+29:48 manual way, which is going to save them
+29:51 about 10 minutes per door per project
+29:51 for years and years to come. That makes
+29:55 this video invaluable to them. It's
+29:55 saving them hundreds of dollars. And so,
+29:59 this is the kind of stuff that I put in
+30:00 the members area. So, if you're curious
+30:02 about that, I'm going to start plugging
+30:04 this in my free videos because I put
+30:07 some really highlevel content there
+30:07 that'll save you money. So, go check it
+30:11 out. You buy uh one month's worth, you
+30:14 get access to hundreds of hours of
+30:14 videos. Cancel the subscription. Come
+30:19 back when you need some more. Cool.

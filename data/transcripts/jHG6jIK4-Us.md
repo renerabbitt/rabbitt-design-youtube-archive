@@ -1,0 +1,387 @@
+---
+videoId: jHG6jIK4-Us
+title: Toolbar Icon Tricks and Tips-Chief Architect and Photoshop
+url: "https://www.youtube.com/watch?v=jHG6jIK4-Us"
+status: imported
+---
+
+# Transcript
+
+0:00 what's going on Photoshop
+0:05 Club hey you like
+0:07 that
+0:10 um one of my biggest annoyances ever is
+0:15 that there's no way in Photoshop not an
+0:16 easy way anyways to paste
+0:20 something like this and then fit it to
+0:23 the canvas you always got to do this
+0:25 stupid thing right you always got to
+0:27 drag this
+0:28 in right and so like if you're zoomed in
+0:32 like this and you
+0:33 paste it's
+0:36 annoying right so I had chat GPT write
+0:40 me a script and I'm going to share that
+0:42 script with you and hopefully we will
+0:44 all be happy about it here's what it
+0:46 does one if no layer is selected in your
+0:50 sidebar um then
+0:54 sometimes the paste option doesn't exist
+0:59 so I needed a r that
+1:01 part separate from that I added in just
+1:04 an action that says okay here we go
+1:07 paste and then the script to fit it to
+1:10 the canvas so that hopefully all I have
+1:13 to do is press the play button and if I
+1:14 have something to paste it will paste it
+1:17 above the currently selected layer if
+1:19 there is no layer selected it will paste
+1:21 it to the top of the
+1:23 stack let's try it
+1:26 out man it doesn't quite get it Center I
+1:29 fought with it it's not getting it
+1:31 Center that's okay it's a quick move to
+1:33 center it did paste it and cut it to the
+1:36 aspect ratio and that part's really
+1:39 cool let's do something else um I'm just
+1:42 going to work through this now I'm
+1:43 creating icons for new functions in
+1:46 Chief and so this is my icon generator
+1:50 Chief Architect cloud-based file and I
+1:53 want to take the pixels of this this
+1:55 doesn't look good right this is a
+1:57 rastered screen clipping of an actual
+2:00 call out we need to make this look good
+2:02 somehow so here's what I'm thinking I'm
+2:04 going to do one we really do want this
+2:07 to be Center and we can do that a number
+2:10 of different ways I love this new trick
+2:12 double click to get layer Styles and
+2:14 then in layer Styles U Move it so that
+2:17 the White's you know disappearing in
+2:19 this
+2:20 layer okay and then here's my trick
+2:23 instead of I used to do convert this to
+2:25 a Smart object and rasterize that that's
+2:27 annoying you can instead group the
+2:30 object and then stamp the object and it
+2:34 commits that change and so there's no
+2:37 longer a layer style here so we've
+2:39 committed that change now I can
+2:41 duplicate this in this case this I feel
+2:44 like this is an easy thing to do
+2:46 duplicate this and I'm duplicating it to
+2:49 a new document okay and I don't care
+2:52 what the name is blah blah blah and now
+2:55 I'm using the trim command image
+2:58 trim and I'm going to cut the
+3:00 transparent
+3:01 pixels
+3:03 cool crl a contrl c bring it back into
+3:08 my icon generator and
+3:11 then hit the fit to Canvas Ah that's so
+3:17 cool that's so fast right
+3:22 neat okay so it fits to Canvas I
+3:24 actually want to shrink it down from
+3:25 here I want to shrink it down just a
+3:27 little bit so I'm just going to hold my
+3:28 ALT key and I'm going to bring it in a
+3:29 little a little bit and I'll show you
+3:31 the reason for that is let's see I don't
+3:35 know of any way I haven't looked this up
+3:37 either maybe there's a way to to
+3:39 automatically pick up the pen tool where
+3:41 a selection is that'd be really cool
+3:44 pause be right back so I looked up or in
+3:48 my pause key I also paste some things
+3:50 here's what I looked up convert
+3:52 selection to
+3:54 path that's simple I knew that already
+3:56 actually so we should be able to S
+3:59 select a color range and pick this
+4:03 gray I think and kick the fuzziness down
+4:07 I got that fuzziness down to just that
+4:10 selection
+4:12 hopefully it's looking like it's picking
+4:14 up some stuff in in the a right maybe we
+4:17 need to do a little edit on this first
+4:19 so um let's just convert this to a Smart
+4:23 object and then from there we can do a
+4:28 little curves adjustment and really try
+4:30 to pick up well we almost want that gray
+4:33 to stay
+4:34 gray and I mean that white what do we
+4:38 want here I want the white I want the
+4:41 black to stay black all the black to
+4:43 stay black and I want that gray to
+4:45 become
+4:46 white kind of like that is um except for
+4:51 some of that white needs to be black so
+4:54 it's more
+4:55 like Bo sometimes I even confuse myself
+4:58 with curves just
+5:01 what am I thinking here some of the ray
+5:06 around dark areas need to remain
+5:10 dark
+5:12 there
+5:20 but and some of the and then everything
+5:23 else should be
+5:25 white almost I'm almost getting it
+5:32 here's what I could do I could just mask
+5:35 this out right I could just mask it out
+5:40 so we just masked this out and masked
+5:43 out this whole
+5:45 section
+5:47 right and masked out this whole section
+5:50 now we got something and I can contrl J
+5:52 it and I can G it and there we go and
+5:56 then I can control click the layer and
+5:59 then in the
+6:02 paths um what do I have to do
+6:06 here in
+6:11 paths what's this one do make a work
+6:18 path not quite what I wanted not quite
+6:22 what I wanted what could I do here maybe
+6:23 I could collapse the selection trying to
+6:26 see how we can make this like really
+6:28 automated right so I'll spend a little
+6:30 bit of time contract by three pixels
+6:33 what does that do no pixel
+6:37 selected how
+6:39 about contract by what's border smooth
+6:43 contract feather
+6:45 border two pixels does that do oh
+6:49 creates a second selection border
+6:52 interesting um that's a cool trick and
+6:56 know that that's a good
+6:58 one uh contract
+7:01 smooth it's contract by two
+7:05 pixels that still give any selection no
+7:08 it's too
+7:09 small trct by one
+7:14 pixel one
+7:16 pixel okay so that narrowed it down and
+7:19 now we make a working path and now from
+7:23 here just pen tool this and make this a
+7:27 stroke path
+7:35 okay so now set up
+7:38 brush brush size we want this to
+7:42 be think I want this to be 19 pixels
+7:45 yeah that's how thick I want it to be
+7:49 and should be white flip to x 10
+7:54 tool stroke path and brush
+7:58 size look at that I mean that's cool
+8:02 it's not perfect but it's very
+8:09 cool all right let's try this again
+8:12 we're going to go backways brush brush
+8:15 Siz is correct so make this a work path
+8:19 and then pen
+8:21 tool stroke
+8:26 path that's very
+8:28 cool it got close um we should probably
+8:32 skip the square brush the square brush
+8:34 is a little
+8:35 off and
+8:37 then we can probably smooth the
+8:39 selection so let's try that one select
+8:42 smooth sample radius one
+8:46 pixel try a bigger sample radius see
+8:49 what that
+8:52 does smooth samp radius 3
+8:55 pixels nope that's not good so
+9:01 MO two
+9:04 pixels all right make it a work
+9:08 path that work path still has these
+9:10 little wonky sections and that's the
+9:13 problem it's too
+9:17 bad the other thing we could do is we
+9:19 could turn this to a
+9:20 minimum right so we could come back to
+9:23 layers I love messing around with this
+9:24 stuff because eventually you get to
+9:26 something that's pretty freaking cool so
+9:29 we'll try solid we're going to apply it
+9:30 to the layer
+9:32 below so I got that color right right so
+9:36 alt click in between the layers it
+9:37 applies to the one below and notice that
+9:39 we've got some kind of extra little
+9:41 something in there that's good to know
+9:43 and then let's just group these stamp
+9:47 them again and let's go filter minimum
+9:51 let's see what that H what that
+9:53 does look at
+9:56 this I mean that's pretty clean too
+10:00 that's pretty close we go 11
+10:03 pixels I want to push it all the way to
+10:05 the bounds 12 pixels
+10:09 bam that's so
+10:11 cool right so let's let's backtrack
+10:15 let's
+10:16 backtrack let's go all the way back
+10:20 here see how far we can go back anyways
+10:31 here we go we just started over all
+10:36 right so we got fit to Canvas
+10:40 and well let me just copy this this is
+10:42 the start over I'm copying this and I'm
+10:44 deleting it all right so here we go
+10:47 here's our fit to Canvas so bam ship
+10:49 paste throws it in there we centered it
+10:52 up centered it up and actually no we
+10:55 didn't we took this to a new document
+10:57 right so first of all we raster I mean
+11:00 excuse me we cleared the white out of
+11:03 this got it cleared of the white
+11:06 right we grouped and stamped so contrl g
+11:10 contr e okay and then um duplicate
+11:16 layer to a new
+11:19 document blah blah blah and then
+11:24 Alti and R is trim bam okay crl A contrl
+11:31 C so I said alt i r and then crl a
+11:36 contrl c I don't know how to switch tabs
+11:39 control tab control
+11:41 tab okay now this is in our clipboard so
+11:45 we should be able to Bam fit the canvas
+11:49 and then we've got that layer selected V
+11:53 key hold the alt button resize this in
+11:57 and it's centered on canvas okay we can
+11:59 get rid of this other
+12:03 one bam all right so now I'm going to
+12:08 mass this out oh I'm going to controll J
+12:12 I'll alt click the eyeball key eyeball
+12:16 that's isolating the visibility of just
+12:18 that
+12:19 layer throw a mask in it paint out the
+12:25 numbers I'm going to just use hard round
+12:28 instead it's a little bit better who
+12:31 ever discovered that a round brush is
+12:32 better than a square brush hats off to
+12:34 you it usually
+12:36 is that photoshop all right so there we
+12:40 go and now I can control what g e
+12:45 right and now I've got um I mean I can
+12:48 just I could just do curves right now
+12:51 and turn this black right now if we
+12:53 wanted to that wouldn't be a problem or
+12:57 use that apply method but that work
+12:59 right there and then filter other
+13:04 minimum and start taking this up and you
+13:06 can prefers preserves squareness or
+13:09 roundness I think roundness is a better
+13:11 move
+13:15 here
+13:17 um yeah and then you notice the little
+13:20 pixelation happening there that's not a
+13:23 problem why because we can always one we
+13:27 could always just throw curves back in
+13:29 it right we could do that
+13:32 or we could always do that trick where
+13:35 we're doing a solid
+13:36 color right that's black and then alt
+13:39 click in between the layers and apply um
+13:42 that's interesting you got some kind of
+13:44 semi-transparent thing going on
+13:47 here and it seems to maintain itself so
+13:51 that's
+13:53 very I don't know what that's about
+13:55 that's pretty wild um even when we're
+13:58 applying
+13:59 this to this thumbnail very
+14:04 interesting I have a method for
+14:07 this that's a good
+14:13 question a good question I thought that
+14:16 this solid color fill applied to that
+14:18 would be correct but it's got some kind
+14:20 of
+14:22 semi-transparent thing going
+14:27 on so
+14:31 why I don't know my brain is racked
+14:33 right now I know there's a way but don't
+14:36 immediately think of
+14:42 it
+14:44 interesting so let me try this instead
+14:47 let's do that solid color trick
+14:50 first that going to
+14:55 work not sure
+15:01 no it doesn't work
+15:03 interesting it's got some kind
+15:06 of
+15:12 transparency huh
+15:18 uhuhuh
+15:22 and but I could click the shape and I
+15:24 could do a solid color there we go
+15:27 that's that's using your brain
+15:30 still has some kind of semi-transparent
+15:33 thing in The Mask notice this but we can
+15:37 do this to the
+15:45 mask where we're fixing some of this
+15:48 that it's got have a funny little thing
+15:50 going on there we
+15:52 go here we go
+16:01 and because I isolated this little fit
+16:03 to Canvas trick watch this I can
+16:06 actually still fit this to Canvas just
+16:08 by clicking further ahead in the past
+16:10 the paste and hit play and that'll fit
+16:13 that to Canvas clever yeah like it now
+16:17 check this out what do we have here okay
+16:19 we've got this
+16:21 text same kind of thing we want to do a
+16:24 minimum on this
+16:27 text and
+16:30 you know unfortunately it's just going
+16:31 to be
+16:33 fuzzy but maybe we can use our sharpness
+16:36 to get this going so I'm going to hit
+16:40 the V key I'm going to move this D3 up
+16:42 so it's inside of there and
+16:45 then um bam contrl J duplicate it I'm
+16:48 going to bring that A10 down so that
+16:51 it's inside of there we might have to
+16:52 shrink it just a little
+16:54 bit that A10 in
+16:56 there drink it just a little bit bit
+17:00 okay and then we're you know obviously
+17:03 going to mask
+17:05 right mask that out we don't want any of
+17:08 that gray so we could double click for
+17:11 the layer style and say pull all the
+17:14 white pull out of the gray out of that
+17:22 right and then mask this guy
+17:29 right and group the
+17:31 two trolly to stamp it mind you
+17:34 destructive that's a destructive
+17:37 workflow right forgot to pull the gray
+17:40 out of that top
+17:45 one
+17:50 destruction there we
+17:52 go that's pretty good that's pretty good
+17:56 and then get to export this as a PNG
+17:59 and it shows up
+18:01 in the Chief Architect and let's just
+18:04 check this out let's check this out
+18:07 let's get this
+18:09 going
+18:13 uh bam look at that look at
+18:17 that bam bam
+18:19 bam
+18:21 cool um I'll have to load up that the
+18:25 script it's two scripts you're going to
+18:27 have to put it in a specific place um it
+18:30 goes here you're going to have to copy
+18:32 paste it
+18:33 into um Photoshop so program files Adobe
+18:39 Adobe Photoshop presets scripts place
+18:43 the fit to Canvas and the select layer
+18:47 Rab in this scripts manager and then
+18:50 you'll have to
+18:51 install
+18:53 um you have to install the action as
+18:57 well and so the action
+19:01 is um click on this little hamburger
+19:03 button Hamburger Helper menu and then
+19:06 load actions and you're going to have to
+19:07 find this fit to Canvas action so there
+19:11 you go and always thanks for tuning in
+19:16 with me
+19:18 [Music]

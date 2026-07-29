@@ -1,0 +1,305 @@
+---
+videoId: yvWmPOfKQy4
+title: Part 2-Schematic Design Review in Chief Architect X14
+url: "https://www.youtube.com/watch?v=yvWmPOfKQy4"
+status: imported
+---
+
+# Transcript
+
+0:03 so a couple weeks ago I did a video
+0:04 about
+0:04 recreating a kitchen from
+0:07 photos from photos on the MLS and it
+0:12 turns out I did get that contract
+0:14 congrats me right so
+0:14 um that and that was a wow factor just
+0:16 to follow up a client was very impressed
+0:21 and I got to say you know got to kind of
+0:23 speak to Chief Architect this this is
+0:23 the type of stuff that I'm going to be
+0:26 providing for you for when you want to
+0:28 walk through your kitchen and and it
+0:30 will be iterative and it will be
+0:30 collaborative and you'll feel like you
+0:32 had a heavy hand in signing your kitchen
+0:36 so we talked about the kitchen so this
+0:38 is the follow-up video I now have the
+0:42 design contract and so I do have one
+0:42 conceptualized design a schematic design
+0:47 that I can present I actually have two
+0:49 but one's more polished than the other
+0:52 now the initial thought was that we're
+0:53 going to keep it in this kind of same
+0:56 footprint over here on this side
+0:57 and
+0:57 that's fine and I told the client that
+1:02 look this kind of feels just like it's
+1:02 going to be a facelift and in which case
+1:05 I'm not going to charge you my typical
+1:07 design fee because
+1:07 facelifts don't take me that much time
+1:12 but if you are interested then one of
+1:13 the reasons that they didn't pick a
+1:13 different designer is they were adamant
+1:17 about putting the kitchen over here
+1:17 which is where the view is and I mean
+1:21 this is this is the view right we
+1:21 recreated this view so here's the view
+1:28 dining areas here living room is here
+1:28 and and they were happy with where their
+1:32 dining room is set up so that they have
+1:34 the view off the dining room
+1:34 and you know these these doors are
+1:36 actually I have these doors incorrect
+1:38 these are aluminum doors they're they're
+1:44 leaking air right to a sun room that's
+1:46 not not really
+1:46 um built up to our standards it's
+1:48 leaking air as well it's not um from a
+1:54 climate climatization perspective this
+1:57 this room costs a lot to heat costs a
+1:58 lot to cool
+1:58 um so it makes sense to maybe replace
+2:01 this door
+2:03 anyways
+2:03 um so I did a design that was kind of a
+2:06 facelift here and I'm not going to show
+2:09 you that today because truly that's in
+2:09 the beginning stages of schematic design
+2:14 but well I will will show you is what I
+2:16 developed from this and so let's just
+2:16 jump in this is our front entrance and I
+2:21 mean this was a big problem for me was
+2:21 one when you came in the front entrance
+2:26 it just didn't feel
+2:26 I don't know it didn't feel very
+2:28 welcoming I always want to draw people
+2:32 towards the space so
+2:32 um even though this chair is kind of
+2:36 um a product of how I design the space
+2:41 it does add some Intrigue to this
+2:41 walk-in and it's also I I do feel like
+2:47 that part's improved a little bit but
+2:47 let's turn hard left which is you know
+2:49 typically what they're going to be doing
+2:52 is they're going to be coming in towards
+2:54 the living room and I put some I put
+2:54 some Furnishings in here just to give it
+2:58 some feel and understand the space of
+2:58 everything and then let me just sit here
+3:04 for a second and let this kind of iron
+3:04 itself out first for a minute I'm going
+3:12 to show you the brief now when I
+3:12 get into my file organization I'm going
+3:17 to get into Dropbox and I haven't
+3:18 um
+3:18 given this project a new folder icon
+3:23 which I typically would
+3:23 but you will see in here I drag a couple
+3:28 things in here one is
+3:28 um the listing from like a realtor.com
+3:30 with all the pictures one's Google Maps
+3:34 and the last one is going to be a
+3:34 Pinterest board and the Pinterest board
+3:40 I always ask for this so that
+3:40 if the client's got some inspiration
+3:44 photos that they've been Gathering I
+3:44 want to see those photos and kind of see
+3:47 the look and feel of what they're going
+3:50 for and you can see here it looks like
+3:51 they might have been taking a stab at
+3:53 trying to design them this themselves
+3:53 because they've got some you know space
+3:58 requirement stuff here
+3:59 um
+3:59 but for the most part it's got this a
+4:04 similar look and feel throughout all
+4:04 these photos which makes this a really
+4:06 nice inspiration board so a lot of open
+4:12 Shelf pictures a lot of these
+4:12 freestanding you know ranges with these
+4:19 boxed hoods and a lot of color cabinets
+4:21 and kind of pastels and stuff like that
+4:24 so I think I hit debrief with my design
+4:27 let's go take a look again the purpose
+4:27 of this video is to take you through my
+4:32 entire process so right now this is
+4:34 schematic design it's not fully
+4:34 developed design it may seem like it's
+4:38 fully developed part of the reason is
+4:38 because I've got some tools that get me
+4:41 to a fully developed design very quickly
+4:46 so let's take a walk through let's walk
+4:46 in through the kitchen I like this we're
+4:50 checking some boxes for the client they
+4:54 wanted a peninsula set up and in the
+4:54 other configuration I wasn't going to be
+4:58 able to get you much of a peninsula you
+4:59 know you're you're working at the the
+5:02 sink You've Got The View
+5:04 you've got
+5:04 kind of a nice division of space and
+5:08 also
+5:08 some communication that can happen in
+5:14 between these these rooms that's nice
+5:14 um we're very close to a decent working
+5:19 triangle although you may have heard
+5:19 this in past I don't truly believe in
+5:23 the working triangle the way that we
+5:23 used to I've got some new thoughts about
+5:28 how people do things with their working
+5:31 triangle I really do believe you know
+5:31 you unload stuff from the refrigerator
+5:32 for certain cooking Styles and then you
+5:36 place your prep stuff on your prep
+5:36 counter and it's a one trip time it's
+5:39 the only time it's an inconvenience the
+5:42 rest of the time I just want to make
+5:44 sure I've got nice long lengths of
+5:45 cabinets
+5:45 the other thing is this client has a lot
+5:50 of cooking books and she wanted them out
+5:52 on display now I do have them removed
+5:52 from this scene of course she could be
+5:56 putting some of these cooking books up
+5:58 on the shelves here
+5:58 but I have that this in kind of an
+6:00 interesting install which it's removed
+6:05 from the kitchen enough so that you
+6:05 wouldn't feel bad about putting some of
+6:11 the long story term storage here and
+6:11 again this is top of my head schematic
+6:16 design this is not fully considered so
+6:16 I'm going to have a back and forth with
+6:20 a client where they tell me things that
+6:21 they like and things that they don't
+6:24 like so I could be flip-flopping the
+6:24 refrigerator in the ovens we could do
+6:27 away with the ovens and go with the
+6:29 range you know any number of things
+6:29 could happen in our first design talk
+6:35 but the things I like to check off my
+6:35 box is from one point to another Paths
+6:43 of travel does this invite you in and
+6:43 yes it does you know we've got two fixed
+6:48 points from here from the front you can
+6:50 see when you walk in there is something
+6:52 interesting happening here and I would
+6:54 like to go see what it is there is
+6:55 obviously something interesting
+6:55 happening here I don't mind going to see
+6:59 what's going on then we get to another
+7:00 point
+7:00 there's something interesting going on
+7:04 in this kitchen yes I would like to go
+7:05 see what it is
+7:05 and then it even makes the sun room a
+7:08 little bit more interesting as well as
+7:10 well as us giving it the opportunity to
+7:13 kind of seal this room up
+7:13 the sunroom feels like it actually has a
+7:17 better flow when we're walking in from
+7:19 this direction from my perspective so
+7:19 we'll have to see what the client thinks
+7:23 about that and then in from the hall you
+7:25 know coming down from the bedrooms
+7:25 taking a right hand turn is this a nice
+7:30 entrance into the room I really do feel
+7:30 like it is I feel like it is I feel like
+7:36 this is a night nice bright shiny Sunny
+7:39 kitchen well that's hard
+7:39 and and it's got a good looking feel
+7:42 now the other reason I want to show you
+7:44 guys this is because you're going to see
+7:46 this kitchen again and the reason you're
+7:48 going to see this kitchen again is
+7:48 because I took the opportunity for this
+7:50 kitchen to come up with a system so that
+7:54 I could quickly replace items on a shelf
+7:58 I do not want to have to place items on
+7:59 shelves and then move them in the Z
+7:59 Delta over and over again and over again
+8:04 I don't want to do it it takes too long
+8:08 so I came up with a system that works
+8:08 for quickly replacing things now let me
+8:11 switch to standard rendering mode so we
+8:13 can see how quickly this works without
+8:17 being lagged down by the PBR for some
+8:17 reason navigation in the library takes a
+8:22 long time when we're also in a PBR R
+8:22 rendering mode so here we go I've got
+8:24 this whole system and it's hot Swap and
+8:26 you do have to resize some shelves based
+8:31 on the the hot swap item like this is a
+8:34 single section hot swap so I'd have to
+8:36 resize this shelf in order not to
+8:37 stretch that
+8:37 I could set up stretch planes but I
+8:41 don't want to it's easier just to
+8:42 stretch the shelf and add another
+8:44 section
+8:44 but you can see here very quickly I'm
+8:46 just changing out things on the Fly that
+8:50 was a set of glasses you can't see it in
+8:52 this rendering mode maybe you can if we
+8:57 and line over is going to kind of show
+8:59 you well actually there's
+8:59 the only divisions in shelves are when
+9:03 they don't butt these are built from
+9:03 cabinets so this is kind of a clever way
+9:07 for me to come in here and be able to
+9:15 so I've got this system this system is
+9:17 going to be paid I spent too much time
+9:19 on it you know it's it's just one of
+9:19 those things but if it saves you a ton
+9:21 of time on every project then then it's
+9:25 worth it I even have some appliances in
+9:27 here for the hot swap so
+9:27 um kind of cool works works pretty well
+9:32 and the other great thing about this is
+9:32 It's a left hand or a right hand door so
+9:36 you can reflect it about itself and
+9:36 actually reverse the symbol which means
+9:41 you can make these you know be pretty
+9:41 Dynamic if I can catch the front of this
+9:44 thing see
+9:45 there it is
+9:46 so you could flip it about reflect about
+9:50 object there you go and it actually
+9:52 flips the symbol
+10:04 oops so I sprayed a color there
+10:16 so pretty clever
+10:16 so I'll never have to be building out
+10:20 these shelves again without you know
+10:22 just being able to quickly
+10:22 make my Decor work which means that you
+10:27 know I can add those books up here as
+10:27 well I think I out of that as one of the
+10:34 filter down to my user library and you
+10:35 know I'd
+10:35 I always have that prefix Rd if I typed
+10:38 in already books that would work as well
+10:43 but here we go books as shelf there's
+10:43 actually one that's going to be books as
+10:47 cabinet door there we go so I can swap
+10:48 this out
+10:48 for those books
+10:50 pretty clever let's go back to PBR and
+10:53 everything looks pretty good you know up
+10:56 to my quality for PBR
+10:56 I made a custom texture for the
+10:59 glassware so that stands out a little
+11:02 bit
+11:02 just a little bit once once you fully
+11:06 iron out the sample rate on this so
+11:06 anyways thought I'd showcase this this
+11:10 is the next step in this particular
+11:10 design I'll show you where it goes from
+11:14 here before we finalize and get to
+11:14 construction documents and then I'll
+11:16 show you what my construction documents
+11:17 for this project look like down the road
+11:21 so might be a couple months from now
+11:22 we'll see
+11:22 hope you enjoyed

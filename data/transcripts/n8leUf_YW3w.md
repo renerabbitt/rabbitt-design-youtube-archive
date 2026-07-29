@@ -1,0 +1,226 @@
+---
+videoId: n8leUf_YW3w
+title: Editing Multiple Doors at Once-4 Methods for Chief Architect X-14
+url: "https://www.youtube.com/watch?v=n8leUf_YW3w"
+status: imported
+---
+
+# Transcript
+
+0:03 in this video we're going to go over
+0:06 four methods for selecting groups of
+0:09 doors and making a change to one of
+0:09 their designations so in this case I'm
+0:11 going to go from a six eight door to an
+0:16 8-0 door so let's get into this select
+0:18 my first door in my edit toolbar which
+0:19 yours might be at the bottom of the
+0:19 screen mine's floating in the center of
+0:23 the screen I'm going to choose Marquee
+0:25 select similar
+0:25 now from here I can do a couple
+0:26 different things I'm going to do select
+0:29 all similar just to show you what this
+0:33 does this selects all doors regardless
+0:35 of their type and regardless of the
+0:35 designation of being an exterior door or
+0:40 an interior door if I did not want to
+0:40 include these exterior doors here at the
+0:45 front of the property then if I choose
+0:45 select a marquee select similar again I
+0:51 can hold my control key drag a marquee
+0:53 over these and I'm restrictively
+0:53 deselecting those two doors so now I can
+0:58 make the change to all doors making them
+1:05 now let's go over that that other option
+1:07 in that Marquee select similar and
+1:07 choose Marquee select similar and then
+1:11 what I have here is restrictive
+1:11 selection what that will do is if I draw
+1:16 a marquee over the entire project all
+1:17 it's going to do is
+1:17 it's going to select only the type of
+1:22 door that I had originally selected
+1:22 which in this case is a hinged door so
+1:25 this can be pretty powerful if you need
+1:29 to select
+1:29 more than just one type or just a
+1:31 singular type or just certain types so I
+1:37 can I just selected a slider here I'm
+1:38 going to choose that Marquee select
+1:40 similar again and again I've got
+1:40 restrictive selection enabled look at
+1:45 that now I only have selected this
+1:45 slider this slider these hinge doors
+1:47 this slider right so in this way I can
+1:52 avoid a certain door if I want to and
+1:52 then make that change to the height so
+1:56 that's one method
+1:56 let's look at another method I'm going
+1:58 to select the hinged door tool which is
+2:04 in your build menu door hinge door and
+2:06 then with that tool selected I'm going
+2:06 to hold my shift key draw a marquee over
+2:10 the entire project what that's going to
+2:10 do is going to select all doors and only
+2:15 doors that's it so it's a restrictive
+2:15 it's a tool-based restrictive selection
+2:20 so there we go in the same same method
+2:23 with that tool still enabled the hinge
+2:24 store is still enabled I can hold my
+2:24 control key draw a marquee over these
+2:27 exterior doors and deselect these items
+2:31 or I can of course just click on them
+2:31 it's another way of doing it is control
+2:36 clicking and that deselects if I didn't
+2:38 hold my control key there it would just
+2:40 have selected that door so I needed to
+2:43 hold my control key to deselect that
+2:43 door and now I can make a change to all
+2:46 these doors at once
+2:46 that's method number two now let's take
+2:51 a look at method number three
+2:51 I'm going to go into my tools menu
+2:53 schedules and drop in a door schedule
+2:55 now to get to this a little bit quicker
+2:59 let's hold our alt or actually we don't
+3:02 need to hold it tap our ALT key
+3:05 then tap in t for tools
+3:05 and then tap in s for schedules and then
+3:11 tap in D for doors you want to do that a
+3:13 little bit faster let's try it again
+3:13 so we're going to go we're going to get
+3:15 to tools schedules doors okay so alt t s
+3:22 d there we go so now we've got a door
+3:22 schedule with our door schedule in place
+3:25 I want to open this up and I'm going to
+3:25 limit to Only The Columns that I want to
+3:31 show in terms of
+3:31 what I want to restrict this list down
+3:36 to so in the columns to include I'm
+3:36 going to remove everything here why not
+3:41 let's just remove everything in the
+3:41 available columns I'm going to get to
+3:42 type and let's just add a type what this
+3:47 does is it creates a nice little list
+3:47 here for us where it shows us a garage
+3:52 door versus a fixed door versus hinged
+3:52 versus pocket so say that I only want to
+3:57 change only the hinge doors or say I
+4:00 only want to change a fixed door
+4:00 in this way I can just select just those
+4:07 items so here's a single hinged door in
+4:10 my edit toolbar I can open row object
+4:13 that's going to only open
+4:13 that row so only my single hinge doors
+4:16 and I can change this to an 8-0 door now
+4:20 when we look in here there we go it
+4:20 changed to an 80 door simple as that
+4:24 let's take a look at maybe another
+4:25 method for this
+4:25 let's scroll down I'm going to remove
+4:27 this type and I'm going to scroll down I
+4:32 want to look at maybe style let's add
+4:33 Style
+4:33 now we've got a new list we can see here
+4:37 we've got a garage door we've got a
+4:37 glass panel door which is one of those
+4:39 fixed panels for the exterior we've got
+4:44 my front door here and then we've got
+4:47 all other doors it's using the same
+4:47 style of door panel for all my interior
+4:53 doors now I can open this up open row
+4:55 object in my edit menu
+4:55 and make a change here we go we're
+4:58 changing all interior doors now are
+5:00 going to be 8-0 you can see here here's
+5:05 the slider here's a hinge store there's
+5:07 a pocket door here they're all 8-0
+5:07 perfect it worked just as intended it
+5:10 left my exterior slider here I call this
+5:14 an exterior because it's a sun room
+5:14 that's an add-on and then it left our
+5:19 front door here
+5:19 well the front door was already 8-0 and
+5:23 then it left this little fix panel here
+5:23 so
+5:23 there you go there's another method for
+5:28 changing them all at once
+5:28 in fact let's go back let's use one of
+5:31 method one or method two to change them
+5:35 all back so I'm going to use the door
+5:35 shift select grabbed Everything at Once
+5:40 let's open these up change that height
+5:48 okay now the last method is takes a
+5:48 little bit of time to set it up but then
+5:52 you can use it across all of your
+5:52 projects in for future use so I'm going
+5:57 to take this door I'm going to open it
+6:00 up I'm going to designate it as ado
+6:00 and then what I'm going to do is I'm
+6:01 going to in my edit menu add object to
+6:07 style palette let's create a new and
+6:08 convert
+6:08 hinged or to 80.
+6:13 now the reason I put in hinged door for
+6:18 this is because currently the style
+6:18 palette ignores interior versus exterior
+6:25 and it ignores type which means that you
+6:28 need to make a style palette tool for
+6:30 each type of door that you want to
+6:30 convert this is really helpful if you
+6:32 only want to change doorways if you only
+6:37 want to change hinge doors so you might
+6:39 have multiple tools that can do these
+6:41 various different things where you're
+6:41 changing only those particular types of
+6:46 doors so
+6:46 in the set properties gear icon here I
+6:50 want to clear all selections and then
+6:53 I'm going to search
+6:53 for that for that item that I want to
+7:01 I'll select height
+7:01 press OK this adds it to my library now
+7:05 it's a painter tool and you're going to
+7:08 see what it does we've got in the edit
+7:08 mode we've got object mode which we can
+7:12 click on a door by door basis so if I
+7:14 switch to object mode I can click on
+7:15 this one and it converts it to 8-0 right
+7:21 we can select room mode we can select
+7:21 our full floor mode so if we only want
+7:24 to change the doors on one floor and we
+7:29 can change to a plan mode
+7:29 plan Mode's going to change everything
+7:30 all at once there's also a marquee mode
+7:35 where if we draw a marquee anything
+7:35 within that Marquee is automatically
+7:38 going to change look at that
+7:38 pretty clever so here's another method
+7:41 now keep in mind this is on an interior
+7:47 based type by type okay so we're going
+7:49 to need to make this same tool for a
+7:49 hinge store as you might for your slider
+7:54 or anything like that now the great
+7:56 thing about being able to add this
+7:57 particular tool to your library is
+7:57 anything that you add to your library
+7:59 you can add to your toolbars as a quick
+8:02 tool to have access to so I've done this
+8:08 before with Windows in this case we've
+8:08 got a single hun window here if I've got
+8:13 a tool here that I've created using the
+8:13 style palettes here's a sliding window I
+8:18 can immediately come in here from an
+8:18 object mode if I want to and I just made
+8:24 that a left slider so same method is
+8:25 used there I've got it in my toolbar
+8:27 it's a very quick method for me to
+8:27 quickly change so if for some reason
+8:29 you're doing a lot of option changes for
+8:34 door Heights is if your company offers a
+8:37 package where an upgrade is changing
+8:37 door Heights from 6A to 80. this this is
+8:42 a really nice method this last method is
+8:43 a really nice method
+8:43 hope that was informative enjoy

@@ -1,0 +1,268 @@
+Title: Better Displacement Maps Using Shadermap, Photoshop, and Chief Architect
+URL: https://www.youtube.com/watch?v=DIYYpm9SKhc
+Visibility: members-only
+
+0:01 what's going on VIP I've um I was making
+0:05 a material real quick and I realized
+0:09 something that um this particular
+0:12 occurrence happens every time that we
+0:14 want to kind of fake a displacement map
+0:17 what I'm doing here is I'm using the
+0:19 normal map to create a bunch of height
+0:22 here as much as I possibly can get out
+0:24 of this and so I'm using Shader map 4
+0:28 which is a free software you can get on
+0:31 the internet um you just ignore the
+0:33 initial commercial statements when you
+0:34 open up the software and I plugged in
+0:38 this bump map which I kind of handrew
+0:41 and I'll show you exactly how I did this
+0:43 is
+0:45 that I'm actually just going to stamp
+0:47 this forward stamp this forward control
+0:49 alt shift e just so that I can kind of
+0:51 have this layer as a display and then I
+0:53 also want to stamp something else
+0:55 forward which is I'm going to um toggle
+0:58 off the display of these layers if I
+1:01 can byy I've grouped all of my items so
+1:04 I should be able to just toggle off the
+1:05 display based on the group that contains
+1:08 these and then turn on the overlapping
+1:12 group and this is where I had my main
+1:14 texture okay so here's my main texture
+1:18 map and let me just stamp this for it as
+1:20 well and then I'll show you and I do
+1:22 this quite often in videos is that I use
+1:24 a high pass filter and the high pass
+1:26 filter kind of um helps me to kind of is
+1:30 isolate our color channels right and
+1:33 also um kind of isolate almost create a
+1:37 bump map if you will and then from here
+1:39 I'll usually do a curves adjustment
+1:41 where I'll Target kind of the um the
+1:44 low-end values and Target the high-end
+1:47 values and kind of get to a bump map in
+1:50 a way and then what I did on top of this
+1:52 was that I just drew in a um either an
+1:57 exposure adjustment layer um that would
+1:59 be a simple way doing it or you could
+2:00 just simply use the pen tool in this
+2:03 case I used the Penner or brush tool and
+2:06 just flipped my colors to the foreground
+2:08 and background colors so what I did here
+2:10 is I've got the foreground color which
+2:12 is white I set my opacity low which just
+2:16 by hitting the five key sets me to
+2:18 50% and then I just drew right on top
+2:22 here and that and it um allowed me to
+2:25 let me just make a new layer this allows
+2:27 me to just draw in right on top and kind
+2:31 of create height here but I'm still
+2:34 maintaining that there's um some
+2:36 additional bump Etc in this particular
+2:40 section here so I just kind of Drew in
+2:42 on top this was a really simple method
+2:44 for just creating some height right and
+2:47 then hit the X key and watch we see that
+2:51 that flips our foreground background
+2:53 color and super simple for me to just
+2:55 draw in some height especially if I'm
+2:57 using a stylus right so that's how I cre
+3:00 created this bump map then I pumped that
+3:03 into Shader map 4 right so I supplied
+3:06 this in Shader map 4 and then what I did
+3:09 was I kicked the intensity really high
+3:12 and I kicked on sharpen and then I kind
+3:14 of played with the low detail now if I
+3:18 kind of dumb down the low detail you're
+3:21 going to see here that we start to lose
+3:24 just that height in general same thing
+3:26 if I kick down the intensity we kind of
+3:28 start to lose that height
+3:30 right and I want something that's got a
+3:32 ton of height to it but the the drawback
+3:36 of this is that it comes in and makes
+3:39 somewhat of a cupping on some of these
+3:41 Stones you can see it's making these
+3:42 Stones look kind of round and can we
+3:44 correct that so I'm going to come back
+3:47 to photoshop and I'm going to open up
+3:50 where that source file is which I keep
+3:53 everything in my materials folder and
+3:55 then in materials I can type in stone
+3:58 and then in stone I just need to come
+4:00 down here and find that particular map
+4:02 and I'm just going to drag and drop it
+4:03 in place and that's going to
+4:04 automatically crop to what I needed to
+4:06 crop to right and so I just know this
+4:10 from working in normal maps and I even
+4:13 have something in my library I believe
+4:15 that shows me exactly how a normal Map
+4:17 works so if I drop in this normal map
+4:20 sphere what you're going to see here is
+4:23 the different colors that represent
+4:24 different heights okay and so this is
+4:28 producing a sphere
+4:30 by utilizing these colors okay and so
+4:36 what you see on the outside of the spear
+4:38 is a true flat color so that if I were
+4:42 to take my brush tool and just Target
+4:45 this and actually let me switch to my
+4:46 brush tool I'm using my um pencil tool
+4:50 instead use my brush tool and let me
+4:52 just change this to a hard round so I
+4:54 can kind of soften this all right so
+4:57 here we go I'm using my brush tool I've
+4:58 targeted that color and I can turn that
+5:01 off and then I can create a new layer
+5:05 and what I'm doing here is I'm going to
+5:07 take some of the flat out of these round
+5:10 sections that have produced a ton of
+5:12 height by just painting over the top and
+5:14 we can kind of use the same method where
+5:17 maybe I set my opacity to 60% and I just
+5:20 draw right on top of this just like that
+5:24 now some of those details are still
+5:25 showing up depending on what opacity
+5:27 level that you kick in here but what I'm
+5:30 doing is I'm making the top of this
+5:32 Stone kind of flat okay so it's no
+5:36 longer doing that cupping effect so if I
+5:39 were to just save this let me export
+5:40 this now and we're just going to
+5:42 overwrite what I already
+5:45 had and because I put this on a new
+5:48 layer I can always just turn that layer
+5:49 off and get back to what I had before
+5:51 but when we come in here into Chief
+5:53 Architect and we've overwritten that
+5:55 file I just need to use the material
+5:57 adjust the Define material tool press
+6:01 okay and it's going to reload that and
+6:02 we're going to notice that some of that
+6:04 cupping actually did disappear let's do
+6:06 a little bit more work and just show the
+6:08 full effect of this so let me just draw
+6:10 into all these sections that have that
+6:12 extreme cupping effect going on here so
+6:15 that we can see
+6:17 this will in fact fix a lot in that
+6:20 Source map so I got a pretty good normal
+6:23 map where we've produced a lot of height
+6:25 in some things but we're just fixing
+6:29 that cupping effect so we're maintaining
+6:32 that we've got a lot of height
+6:34 here and I'm using you know a heavy
+6:37 feathered Edge we can you know
+6:38 continuously feather this down to kind
+6:41 of hone our effect we could always come
+6:44 back and put a mask on top of this layer
+6:47 if we want to you know just make some
+6:48 micro adjustments or some more feathered
+6:50 adjustments um we could put a mask on
+6:53 this layer to make a selection and then
+6:55 do some feathered selection adjustments
+6:57 if you will
+7:01 here we go I'm just drawing right on top
+7:03 of
+7:04 this real simple real
+7:07 fast kind of sloppy you know I don't
+7:09 need to be super accurate in this um a
+7:12 lot of that height is still going to be
+7:15 maintained even though I'm kind of
+7:16 drawing sloppy on
+7:20 this let's go check out what this has
+7:22 done
+7:23 now and do we have we maintained our
+7:26 height let me export this again
+7:29 find that same map press
+7:32 okay find material press okay and there
+7:36 we go we've lost all that cupping but we
+7:38 still have that
+7:40 height Isn't that
+7:44 cool so this is a great method and then
+7:48 if I want to adjust this height down
+7:50 there's a couple ways we could do this
+7:52 one we could go back in a Shader map for
+7:54 two we could load in the bump map that
+7:56 we use to create the source normal map
+7:59 and so now the bump map is working with
+8:01 the normal map and you can see they're
+8:03 kind of working together so I could in
+8:06 fact take this down to like a0 2 maybe a
+8:09 0.02 even um notice that the bump map
+8:12 tends to create a little bit more in
+8:14 terms of um being inside of the Stone
+8:18 Face itself but you will see that with
+8:21 the bump map we've lost a lot of that
+8:23 drastic height change okay so maybe I
+8:26 don't want to use the bump map so let me
+8:28 get rid of that and show you another
+8:29 method for just kind of adjusting this
+8:31 down which is that we can come back to
+8:33 Shader map 4 we can drop that low detail
+8:36 down a little bit we can save this again
+8:40 which is just going to overwrite the
+8:41 existing file okay and then we'll come
+8:44 back to photoshop and back to our file
+8:47 explorer here's our new let's see our
+8:51 material
+8:53 Stone here's our new normal map I get to
+8:56 drop this back into our plan file again
+8:59 here all right and then drop our
+9:02 flattened section over the top of it and
+9:04 so now this has adjusted that normal map
+9:07 down and we just took the layer that we
+9:09 drew as an overlay put it back on top in
+9:12 the hierarchy and now get to export this
+9:17 again argue that file one more time so
+9:20 I've adjusted all that height down just
+9:22 a little bit more again so should be
+9:25 able to let me just try pressing okay
+9:28 here there we go
+9:30 so that Height's been adjusted just a
+9:32 little bit it's a little less bold and
+9:35 then we've gotten rid of that cupping
+9:37 this is starting to look like a texture
+9:38 that's looking pretty good now notice
+9:41 I'm going to fix one more thing which is
+9:43 we've got a strong repeat pattern on
+9:45 just this Stone right here so that is
+9:48 something I would come back into
+9:51 Photoshop and fix and that's a pretty
+9:53 quick fix um just going to come back to
+9:56 my source files find that group one and
+10:01 this particular one just has a lot of
+10:03 height in it it's creating a lot of
+10:05 height in it that's this Stone right
+10:07 here so I might even just replace that
+10:09 stone is something I could do because
+10:11 it's in two levels here we got two
+10:13 levels where that's happening now
+10:15 because it's happening in the normal map
+10:17 I could of course kind of fuss with this
+10:21 and I've still got my brush tool I can
+10:24 brush right onto that layer that's on
+10:26 top
+10:27 here and so I can brush out just maybe
+10:30 one of these where it's got a really
+10:31 heavy height and brush it a couple times
+10:34 so that we really get rid of that height
+10:36 just on one of those stones so it's not
+10:39 such a repeating pattern same kind of
+10:41 thing brush it out here brush out a
+10:43 little bit more export this again we'll
+10:46 see that very quickly that pattern seems
+10:49 to kind of disappear it's not going to
+10:51 be as
+10:52 recognizable back to Chief press okay
+10:56 and you see there we got rid of that
+10:58 like strong repeating pattern there
+11:01 these are just little targeting fixes if
+11:03 you will so um hopefully that helps you
+11:05 out when you're doing material creation
+11:07 and you're trying to create a lot of
+11:08 height in a material
+11:20 [Music]

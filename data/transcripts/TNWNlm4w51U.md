@@ -1,0 +1,36 @@
+---
+videoId: TNWNlm4w51U
+title: CA SHORTS - Mulled Doorway and Passthrough in Chief Architect
+url: "https://www.youtube.com/watch?v=TNWNlm4w51U"
+status: imported
+---
+
+# Transcript
+
+0:03 quick video for you here I want a just
+0:05 kind of a pass through window above
+0:05 these cabinets but I want that to be
+0:09 part of the overall opening that is
+0:09 going to be like kind of integrated in
+0:11 this existing doorway so what I want to
+0:16 do here is instead of using a pass
+0:16 through window which can be problematic
+0:20 to mold those together with the doorway
+0:22 we're just going to use this doorway so
+0:24 I'm going to just make a copy of this
+0:25 slide this over I'm going to slide it
+0:29 over the exact width of what that um
+0:29 doorway was on the other side and then
+0:33 I'm going to go ahead and drag this up
+0:33 to what I need it to be I'm going to use
+0:38 tabber enter to punch this in 42 in in
+0:38 this case and so you can see here we've
+0:42 got some casings in the way here and
+0:43 that's going to that's going to be a
+0:43 problem right but very simply I'm just
+0:48 going to shift select both of these
+0:48 doorways now and mole that together and
+0:50 now we've got a brand new opening that's
+0:55 integrating that pass through what would
+0:57 be considered like a pass through window
+0:59 with that doorway itself so super simple

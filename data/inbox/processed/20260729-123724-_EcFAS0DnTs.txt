@@ -1,0 +1,1020 @@
+Title: Improving Your Chief Architect Rendering Ep 1
+URL: https://www.youtube.com/watch?v=_EcFAS0DnTs
+Visibility: members-only
+
+0:00 What's going on, VIP? Uh, man, I just
+0:04 recorded like an hour and a half video
+0:06 [laughter]
+0:07 and had the no the no volume problem
+0:11 again.
+0:12 Is that rough when I do that? So,
+0:16 I got to go in fresh again on something
+0:19 new. So, I'm actually going to change up
+0:20 what I'm even talking about, which is
+0:22 good. It'll be a little more polished.
+0:25 I have here on the screen, I have a plan
+0:27 from someone else.
+0:29 And I think I'll split I think I will
+0:32 split this into two different videos. On
+0:35 the one side,
+0:37 I would love to review a project like I
+0:40 typically do, which is to go through and
+0:44 and change a few things that make it
+0:45 easier for me to work in a plan, someone
+0:47 else's plan, and also just um give you
+0:52 some tips and tricks for things that I
+0:55 notice. So, there's quite a few things
+0:56 I'm noticing in this plan. This is not
+0:58 my design. This is not my plan. This is
+1:00 not my template. And I will say this is
+1:03 someone else's design. And I get to say
+1:05 whose design that is. And we even get to
+1:09 go so far as tell you how do you find
+1:11 them because they have a nice design
+1:13 aesthetic. This is n say it how you want
+1:17 to say it. Niche niche niche design mn
+1:21 for Minnesota. That's where they're
+1:22 based out of Minnesota. And this is
+1:27 Watson.
+1:31 Becky Watson, owner and architectural
+1:33 designer. Becky, thank you for letting
+1:36 me
+1:38 um talk crap about your plan.
+1:42 But it's not really that. I feel really
+1:44 fortunate. I'll just say this really
+1:45 fast.
+1:47 How many times can I say really? Uh
+1:50 I feel fortunate that people trust me. I
+1:54 don't I no longer seem to need to
+1:56 qualify my skill sets and chief
+1:58 architect for someone to trust me that
+2:00 when I say something I'm really just I'm
+2:02 hoping it benefits you. So it's not
+2:05 meant as a criticism. It's it's to say,
+2:07 "Hey, I've got five billion more hours
+2:09 in this software than you do and I have
+2:11 some tricks and I can help you make some
+2:14 money, make some more money." The
+2:16 original thought about this project was,
+2:18 you know, how can we improve rendering?
+2:21 But I end up seeing a lot of other
+2:24 things that I can improve where when I
+2:27 see it and I know how it was built, I
+2:29 know that it took time and it took time
+2:32 that it won't need to take time to do
+2:35 again if we set it up that way. So
+2:38 that's something I'm going to cover
+2:39 largely in maybe another video. This
+2:42 video I want to try to focus on
+2:44 rendering. And the thought was, do we
+2:47 get a good rendering without bump maps?
+2:50 Can we go get materials off the
+2:52 internet? Can we go get materials from
+2:54 SketchUp and just use them and and get a
+2:56 good rendering out of it? And so I'd say
+2:59 yeah, you can get a pretty decent
+3:01 rendering, especially it really depends
+3:03 on the scene. If we build out a scene
+3:05 with a lot of decor, you know, you can
+3:08 kind of hide the fact that it doesn't
+3:10 have bump maps. But there are things
+3:12 that bump maps and normal maps and
+3:15 roughness maps do for a scene that
+3:18 really improve it in ways that are hard
+3:21 to quantify. And I'll kind of explain
+3:23 how that works if I can in in really
+3:25 layman's terms. Mind you, I have 25
+3:29 years of knowledge in my head about how
+3:31 rendering works. And for some reason,
+3:34 it's really difficult to explain it in a
+3:37 way that is palatable for you, the
+3:40 audience, um, in a way that just gets us
+3:43 to a a point with me just talking your
+3:45 ear off. And so, here's what I would
+3:47 say, and I'm just going to try to give a
+3:49 visual with my mouse cursor, is when we,
+3:53 for instance, let's just take a surface
+3:56 that has no bump map and no roughness
+4:00 map. And I'm not going to get into what
+4:02 that even means. If you're not even
+4:04 there, go look those terms up. No bump,
+4:06 no normal, no roughness map. Okay? No
+4:09 ambient occlusion. What this means is
+4:12 when we render a particular scene, keep
+4:15 in mind we are only rendering when a
+4:18 camera is fixed and stopped. Truly, we
+4:21 are. Anytime we are moving a camera,
+4:24 that is a continuous retrace. Okay?
+4:28 We're only finishing a trace when we
+4:30 stop the movement. And so then what's
+4:32 happening is there's a quantifiable
+4:35 amount of distance from us to something
+4:39 that that is an object in this scene.
+4:42 And then you know just through the magic
+4:44 of 3D modeling and creating mesh that
+4:48 distance is calculable and and then we
+4:50 are tracing the path of light. We are
+4:53 tracing the path of light to a surface
+4:56 as it relates to what pixel that surface
+4:59 aligns with on the screen projected back
+5:02 to our camera when it's at a fixed
+5:04 position. What does that mean? Well, the
+5:07 light comes down to a surface and then
+5:10 it has to know what's the roughness of
+5:12 that surface. Yes, we have this image of
+5:15 a texture there, but we need to know
+5:16 what the roughness of that surface is
+5:18 and if there's a bump map, ambient
+5:20 occlusion, etc. And that will determine
+5:22 the trajectory of the light how it
+5:25 bounces off. And from there, then it's
+5:28 figuring out based on other light
+5:29 sources that we're then tracing to that
+5:32 same pixel, we're understanding how
+5:35 bright that pixel might be in
+5:37 relationship to the texture map that
+5:39 it's, you know, that's applied to the
+5:41 mesh. So in when we have no roughness
+5:44 map and we are tracing the path of
+5:46 light, the light goes bing just like a
+5:50 perfect V. Just comes in, bounces right
+5:53 off. Okay, it's just a perfect B. So
+5:56 light from here bounces right off this
+5:59 light straight in the same trajectory
+6:01 that it came from. This LED light back
+6:03 here, if you follow the path of my
+6:04 cursor, you know that light's coming
+6:06 bouncing right here. Bounce exactly the
+6:10 same angle back up. Why is that? It's a
+6:12 uniform roughness map. Now, if instead
+6:16 we added a roughness map that had some
+6:19 movement and and I can prove this, by
+6:21 the way, let's just do this real quick.
+6:23 What happens if we take the roughness
+6:26 out of this texture and take it down to
+6:29 zero. Tell you what happens. It's just a
+6:31 pinpoint reflection. You're going to see
+6:33 a pinpoint reflection. if in fact we
+6:36 are, you know, in direct alignment with
+6:38 this. And we are. You know, if I lower
+6:40 this camera, we're going to see we're in
+6:42 direct alignment.
+6:44 So, we can see the lights there
+6:48 just pin down at almost the same
+6:51 trajectory as the light, you know. There
+6:54 we go. There's our bounce off of that
+6:56 surface. Okay. And notice that it almost
+7:00 looks like a mirror. There is almost no
+7:02 um diffusion going refraction happening,
+7:06 right? Let's just make this even more
+7:09 pronounced. Let's blend
+7:13 color with our texture
+7:16 and watch what happens. This really
+7:19 almost turns into a mirror.
+7:23 Right there you go. So, as we move that
+7:26 roughness slider up, what happens is,
+7:29 yes, it it refracts that light. It
+7:32 disperses it a bit. It spreads it, but
+7:34 it spreads it uniformly. Okay.
+7:40 So, we'll turn the roughness up just a
+7:41 little bit just so we can see that that
+7:43 circle of light that's bouncing off
+7:45 here, right here, is spread out a There
+7:49 you go. Just got warped. Notice it's
+7:53 warped in the direction of our
+7:55 reflection, but it's still it's still a
+7:58 very
+7:59 um calculatable
+8:02 thing that's happening.
+8:04 Now, what does this mean? Um, and how
+8:07 does it relate to what we're talking
+8:08 about? Have you ever noticed that if you
+8:11 were to try to take a picture of
+8:13 something on a table and you had a
+8:14 dining room light, dining room light,
+8:17 and there's no other light in the room,
+8:19 it just creates a hard shadow
+8:22 off of that object. Okay, hard shadow,
+8:26 one light source, hard light.
+8:28 Have a second light source. Okay, now
+8:31 that second [clears throat] light source
+8:32 creates a softer shadow if it's farther
+8:34 away. So now you've got a softer shadow
+8:36 in one direction, hard shadow in the
+8:38 other. This is starting to look more
+8:39 realistic. We recognize this in a split
+8:42 second. Not even it's a less than a
+8:44 second that we can recognize something
+8:46 realistic and understand what's
+8:48 happening. Seen it all our life.
+8:51 Now what happens when next to this
+8:54 object there's some kind of a mirror
+8:57 finish a vase mirror finish
+9:02 that's bouncing that light. Bouncing
+9:04 that light. And now we have not only one
+9:07 additional shadow, we've got two. We've
+9:09 got one from the overhead bouncing off
+9:10 the mirror, creating a shadow off that
+9:12 object. And we've got another one from
+9:14 the further away light bouncing off that
+9:16 mirror just a little bit, creating
+9:19 another shadow.
+9:21 Shadows kind of overlapping each other
+9:22 on one object, right?
+9:25 Well, taking of the fact that all these
+9:28 things don't have even light
+9:29 distribution, they are not just a a
+9:31 pinpoint directive light. They don't
+9:33 have the same amount of energy coming
+9:35 from the light in all direction. It's
+9:37 got a a profile where it's pushing out
+9:40 light different metrics. And so what
+9:44 happens is it creates all of this soft
+9:47 shadowing.
+9:49 All this to say that when we're doing
+9:51 rendering and we don't have these
+9:53 additional maps, what you're going to
+9:55 see is a lot less soft shadow. So we get
+10:00 less of a sense of depth in a scene. and
+10:02 things don't look really shapely and
+10:05 round and we don't get like deep natural
+10:08 contrast that we typically would. Now, I
+10:10 want you to notice something. That stone
+10:12 on the wall definitely has a bump map.
+10:14 We can tell this it's catching light and
+10:16 then it's also not catching light. So,
+10:18 it's becoming a shadow catch what we
+10:21 call this. So, the underside of these
+10:24 stones are shadow catcher catching
+10:26 light. What's that about? It's because
+10:29 we got a bump map. Now, let's get back
+10:31 to this, though. I want to do something
+10:33 just to kind of change the way this
+10:35 looks drastically very quickly. I'm
+10:38 going to bring in a roughness map. And
+10:40 I'm just going to use one that's in my
+10:41 library some. And so, I'm going to just
+10:43 say countertop. I'm sure that I've
+10:45 imported some kind of countertop
+10:46 roughness map. Now, it's largely dark,
+10:49 which means it's largely a polished
+10:52 surface, but it has a lot of texture in
+10:54 it where it's just got random noise or
+10:56 movement. This one, I believe, was built
+10:59 from some kind of natural stone and then
+11:02 inverted the colors of a white natural
+11:04 stone to give me a very dark looking
+11:06 stone. And look at that. Look at what
+11:09 that does to the light
+11:13 off of that catching light in very
+11:15 different ways. Now, keep in mind, we
+11:18 have a deninoiser on, and I haven't
+11:20 really checked the sample rate of that
+11:21 deninoiser. Right now, it's set to 200.
+11:23 If we set this to 2,000 and we kind of
+11:26 move this around, you know, we're going
+11:28 to see more detail at right now because
+11:31 we've got so much going on with so many
+11:33 light sources hitting this and this has
+11:34 got such a wild texture. The amount of
+11:36 traces it it needs to get rid of these
+11:38 fireflies, these under sampled pixels,
+11:41 which are these little tiny white dots
+11:43 everywhere.
+11:45 That just means that there's such a
+11:47 strong calculation here from all the
+11:48 various refraction reflect refractions
+11:51 and reflections and light sources as
+11:55 they relate to the screen that they are
+11:57 under sampled and then we are going to
+11:59 den noiseise them which this CPU uses
+12:05 built-in deninoiser to just figure out
+12:07 what those pixels are and get rid of
+12:08 them. So here's a really high sample
+12:10 rate. We're getting a lot of more detail
+12:12 out of it. and we turn these lights off,
+12:14 these spots disappear.
+12:17 Now, the reason that this isn't too
+12:19 strong for this particular surface is
+12:22 because this is not a black countertop.
+12:24 It's a white counter. So, we kind of
+12:26 want a strong effect if we really want
+12:28 to get a lot out of this. Okay. So, I'm
+12:31 going to take this and uncheck that
+12:36 texture.
+12:40 See what happens.
+12:42 Maybe a very subtle effect, but it's a
+12:44 realistic effect. Keep in mind, it's
+12:47 doing one really important thing. It's
+12:50 bouncing light in a nonlinear
+12:53 direction.
+12:54 So, you could do this to one surface and
+12:56 it's not going to make that much
+12:58 difference in an overall scene. But if
+12:59 you do this to every surface in your
+13:03 scene, now we are going to get a
+13:06 noticeable difference in soft shadowing.
+13:09 Okay. We move around this. Boy, that
+13:12 looks realistic. Have you ever walked by
+13:14 a countertop and seen that look? You got
+13:17 to look kind of close.
+13:19 Yeah. I'm going to try to turn on DLSS.
+13:21 This is not nearly as accurate. This is
+13:23 using um AI and neural networks on the
+13:26 GPU to um just in live understand the
+13:31 shot. And you can see how quickly that
+13:32 failed all of a sudden at the end it
+13:34 there. But yeah, have you ever walked
+13:35 past a countertop and kind of seen this
+13:37 effect? Pretty accurate looking.
+13:41 For some reason, it fades out to not
+13:43 being able to see it. Let's turn that
+13:45 back off. We'll turn 20 samples. Um,
+13:48 this person's settings are a little
+13:50 goofy. So, let's just get back to kind
+13:52 of some normal stuff. It's definitely
+13:54 kick brightness back down to normal. Uh,
+13:57 the daytime backdrop intensity is really
+13:59 low, but I don't know what backdrop
+14:00 they're using, but I'm going to pump it
+14:02 up to 20,000.
+14:04 And you're going to notice that not a
+14:07 whole lot changed in this scene except
+14:09 for some color toning. And what's that
+14:12 coming from? That's coming from turning
+14:13 up the daytime backdrop. And so now all
+14:16 of a sudden the color quality of the
+14:18 backdrop is actually affecting the
+14:20 scene. We're getting a lot of green
+14:21 casting. A lot of green in this
+14:25 particular backdrop. This is also not an
+14:27 HDR backdrop. So, it's not going to give
+14:30 us something that we can get in the new
+14:33 X17 features of HDR, which is we've got
+14:36 a radiance channel in an image of an HDR
+14:38 image, which means that it can produce
+14:41 light for us. We don't actually need to
+14:44 a sun. Show you that. So, I'll use one
+14:46 that uh in my systems. I'm going to do
+14:50 my favorites
+14:53 and this real quick.
+14:58 And I do have some that have
+15:01 strong directional sun. Look at that.
+15:03 This will really prove it to you. Click
+15:05 this one in. Show you what happens is as
+15:08 we look around the back side of this
+15:10 house. And if I toggle the display of
+15:14 the sun saying that we're let me just
+15:17 get into the rendering technique option.
+15:19 Say use only backdrop for lighting.
+15:23 You'll notice that as I rotate this
+15:25 backdrop around, it does in fact create
+15:29 directional sa shadows.
+15:32 And see now the side of this is lit.
+15:37 Great about this is it creates some
+15:39 really great soft shadowing effects.
+15:43 Not only that, but what's wonderful
+15:45 about this particular and you can see
+15:47 here here's back of the building's in
+15:49 shadow. What's wonderful about this
+15:51 particular backdrop is it does not have
+15:53 a lot of color in it. So, we're not
+15:55 getting a lot of color toning from. And
+15:58 by the way, if you notice that this just
+15:59 kind of skipped and popped and jumped as
+16:01 I was moving this around. Um, that is
+16:04 because this person does not use a 3D
+16:06 mouse or just does not know about this
+16:08 setting. But in the defaults in 3D view
+16:11 default 3D views camera bumps off of
+16:14 wall. You're going to want to turn that
+16:16 3D mouse in your left hand, which if you
+16:19 don't have a 3D mouse and you're an
+16:21 interior designer, I would say go get
+16:23 one right now. Worth it. It will really
+16:27 improve your workflow over time. Takes a
+16:30 couple months to get used to it, but
+16:32 look, I can jump out of this house this
+16:34 fast and I can jump right back into that
+16:36 kitchen that fast and kind of get to my
+16:39 view. And no way you can do that with
+16:41 just your right. So, left hand mouse
+16:45 All right. So, now we're getting
+16:47 I'm going to rotate that backdrop a get
+16:51 that sun over here.
+16:53 Now, that's that natural.
+16:58 Now, I think I noticed something. Open
+17:00 this, which was
+17:07 believe
+17:10 where I saw
+17:16 players
+17:21 and I have a lot to say about the way
+17:22 this person is organizing the plan views
+17:24 but we are going to do that in a
+17:26 different
+17:28 video. So they are doing user added
+17:31 lights and I really don't think there's
+17:33 any
+17:35 use for these now anymore. These are
+17:38 suboptimal light.
+17:40 they are using an old method of
+17:44 producing light that does not look
+17:46 realistic. They much rather generate an
+17:49 area light which is some kind of mesh
+17:52 that has a material that is classified
+17:55 as an emitter so that we can um generate
+17:59 a more realistic path traceable.
+18:03 So once I turn off those user added
+18:04 lights and we might get some better
+18:07 lighting in this. Say that some of our
+18:10 lights are just blown out
+18:14 density.
+18:16 Don't know what the lumens are for this.
+18:18 Easy enough to get in here and
+18:21 and sort by room, but that's if this
+18:24 person was naming their rooms and so we
+18:26 can't really tell what's what here.
+18:35 And then the other thing I'll do is I
+18:37 made my own recessed light symbol. Part
+18:41 of that was that it does recess into the
+18:44 ceiling, which is new in X17. So,
+18:46 another part of what that does is these
+18:49 default recess lights end up pushing
+18:53 light all the way up to the ceiling
+18:55 light.
+18:56 You can see it here.
+18:59 This is not realistic. There's no light
+19:01 on the planet that I know of that does
+19:03 that. So, when they gave us these
+19:06 recessed lights, I know that or pictures
+19:09 that can recess into the ceiling. I know
+19:11 that a lot of people didn't really care
+19:12 about that feature, but boy was I
+19:13 excited about that because I knew
+19:16 immediately that I could get a better
+19:17 look. So, I just changed the whole scope
+19:20 and changed out to my lights. And let's
+19:22 look at what this does instead. Look,
+19:24 the hot spotting is down here now. and
+19:27 it's dispersed. It's not such a hot. So,
+19:30 we're immediately getting some.
+19:33 Now, I have mixed feelings about seeing
+19:35 bloom. I definitely want to see
+19:38 reflections, etc.
+19:41 Bloom can sometimes be a little bit
+19:43 overdone.
+19:48 Just got some fixes to do here.
+19:56 Think just the maybe some of these light
+19:58 settings aren't
+20:00 kind of equalized to each other. Some of
+20:03 these lights are lumen settings must be
+20:06 really hot.
+20:14 This scene is
+20:17 pretty overexposed.
+20:25 Not sure.
+20:28 And that usually has has to do with what
+20:30 those lights are saying.
+20:34 And by the way,
+20:38 this looks like a light that was much
+20:40 smaller,
+20:42 judging by the size of the canopy,
+20:45 the size of these light bulbs that
+20:47 someone that that they took and just
+20:49 blew up. [clears throat]
+20:52 I mean, and that's okay, but let me show
+20:53 you a better method for that.
+20:56 I would just take this apart because to
+21:00 me it seems clear that this is, you
+21:02 know, that's not a normal light bulb
+21:03 size. No way. We hit reset object size.
+21:06 There we go. That's the original size of
+21:08 this OB. You can see what happens.
+21:12 Boom. That's the original size. And
+21:14 we're trying to make it a lot larger.
+21:15 So, how do we do that? And how do we do
+21:17 that in a way that will kind of keep its
+21:20 original look and also not blow up the
+21:22 emitters that then become something that
+21:25 overlights the scene because there's s
+21:28 so much extra surface area and really
+21:30 what and then maybe that this shade is
+21:34 supposed to be trans
+21:36 you could use the delete surface tool
+21:38 and I would say I'd probably get rid of
+21:41 um this outside shade.
+21:48 and then leave everything else. So, you
+21:50 know, get rid of the bracketry.
+21:53 I would say it's easier to do this when
+21:55 you do line over so you can see all the
+21:57 remnants left behind as you're using the
+21:59 the delete surface tool.
+22:03 And this just takes a little bit of
+22:04 time. Um, not too bad though,
+22:08 typically. or I'll bring this into like
+22:10 a Blender and do it in Blender.
+22:15 The rebuild time on this project is
+22:17 really slow, which usually tells me that
+22:20 there is
+22:22 something in here that's a really high
+22:25 that's kind of confirmed by this 2
+22:29 surfaces
+22:31 project like this is not that
+22:36 surface something in here was
+22:40 without any consideration for
+22:44 surface.
+22:48 Um, I'm not going to do the full job of
+22:50 this because I think that's, you know,
+22:53 wasting a little bit of time. But what I
+22:55 would do then is recon convert this.
+22:59 You just do this convert selected to
+23:01 symbol. It doesn't matter what you're um
+23:05 converting it to, per se. Well, no, it's
+23:07 good. Leave it at electrical. We don't
+23:10 even need to show advanced options. We
+23:12 just get to replace what's already here
+23:14 now that we've created a symbol. So,
+23:16 object replacement mode toggle
+23:19 replacement.
+23:22 Not sure why it's not giving me option
+23:24 to
+23:26 should be
+23:40 exactly what
+23:46 is ceiling mounted. Go that should down.
+23:50 And so now that's one half of this,
+23:52 right? And then the other half of this
+23:54 would be that you just take the shade.
+23:57 Really don't know.
+24:02 Um you use the delete surface tool on
+24:04 the rest of the object. And so now it
+24:06 becomes two parts. Then you resize the
+24:08 shade and you put the two back together
+24:10 as one. So you maintain the size of the
+24:14 light bulbs and the socket and
+24:16 everything like that. And meanwhile,
+24:20 excuse me, the shape and pieces
+24:25 all.
+24:44 Um, another thing that I notice is the
+24:47 hood. Looks like it's trying to be some
+24:50 really big stainless steel thing.
+25:01 Can't wait to speed up
+25:09 solid. When you have a solid like this,
+25:12 something you could easily do is copy
+25:14 paste and just hit this little round
+25:15 edit node right here and resize this
+25:18 kind of uniformly and then take this and
+25:23 subtract that inner section. Keep the
+25:25 original objects. Now you got a big old
+25:27 chute up there where you can put a hood
+25:30 liner, save it back to your library.
+25:35 That's pretty cool. And then the one
+25:36 thing always about these surfaces um is
+25:40 they're never truly
+25:42 um they're never truly razor sharp at
+25:47 the edges. Not really. Even if it's an
+25:50 eighth of an inch, going to make a
+25:52 difference. If you're a rendering
+25:53 artist, this is something that makes a
+25:55 difference
+25:57 is just round these edges just
+26:01 few of them.
+26:05 do all
+26:08 just these front three
+26:11 makes. Look at that. Oh, look at how
+26:14 good that looks. That immediately tells
+26:17 us, yeah, this looks more like
+26:18 stainless. We get it immediately. The
+26:22 other thing is it's really nice if you
+26:23 get some movement in here. And we can do
+26:26 this is um an idea about a really
+26:29 compounded effect here is we're going to
+26:32 put roughness in here that's very
+26:34 random. So if we go find a map that's
+26:37 just got a lot of noise to it.
+26:40 In fact, look at this. This is like
+26:42 graffiti. I'm going to put graffiti in
+26:45 this. Let's just see what that does
+26:46 first so we can see it. It was a dark
+26:49 map so we're going to get a lot of
+26:50 reflection. Look at that.
+26:53 Just wild. But once the dinoiser hits,
+26:56 it just kind of smooths it out a little
+26:58 bit. So what do we get? We get something
+27:01 that looks pretty realistic. Depends on
+27:03 your sample rate. We turn the sample
+27:05 rate up. It's not going to look as
+27:06 realistic, but off the bat, that looks
+27:09 pretty good. And then on top of this, we
+27:12 can come in here and go into brushed and
+27:15 anotropy. We can do uniform anotropy
+27:18 where it's just, you know, a generated
+27:20 effect. That'll do something. Um,
+27:26 so it's, you know, it's directional in a
+27:29 way. I mean, that honestly it's looking
+27:32 pretty good. The next thing you might do
+27:34 is we could just select something and
+27:38 type in brushed.
+27:41 Got something that he imported that's
+27:42 brushed. I'm going to go to an
+27:44 exaggerated map.
+27:53 There's that brushed.
+27:56 So now, no matter what way you look at
+27:58 it, and granted I've got the sample rate
+28:01 real low, but this should look pretty
+28:02 good.
+28:04 That a lot more like stainless.
+28:08 Let's just kick up the sample rate.
+28:09 We'll wait a second and we'll see what
+28:11 it looks like. Done
+28:14 a little bit.
+28:26 And honestly, even at 500, that gets
+28:30 denoised pretty well.
+28:33 It's a good look.
+28:35 Of course, we could probably turn down
+28:37 the darkness on this bad boy. So
+28:43 lighten it up
+28:47 There.
+29:13 Yeah, I'll probably still lighten it up.
+29:24 And then this floor, same thing. Just
+29:28 got a uniform roughness map doing much
+29:31 with this, right? Um, I happen to just
+29:33 go spend a little bit of time with this
+29:35 texture to just make a super quick
+29:37 roughness map. All I did was take this
+29:39 to Photoshop and kick in a highp pass
+29:41 filter. If you don't know what that
+29:42 looks like, um, let's kick over to
+29:52 and
+29:57 show that. There we go. That's all I
+29:59 did. All I did. See, this is a different
+30:03 texture. This is There we go. So, if we
+30:08 just take this back. If I deleted
+30:09 everything else, show you exactly how I
+30:11 did this. I control J it forward to just
+30:14 make a copy. And
+30:17 then from here, you're not seeing my
+30:20 layer stack on the right. Green wasn't
+30:23 generated for this, but you're seeing
+30:24 the main look here. All I'm doing is
+30:29 filter other highpass. This is the
+30:32 fastest way to get a cheap quick and
+30:34 dirty little bumpness uh bump and
+30:37 roughness map. And you can do a little
+30:40 controlm to do a curves adjustment. And
+30:42 I've explained this a lot of times
+30:44 before, but let's look at it again.
+30:46 These are all the pixels of this of what
+30:48 we're seeing on the screen. So they are
+30:50 largely in the medium gray, meaning far
+30:53 left is true black, far right is true
+30:56 white, everything in between, right? So,
+30:58 we don't have anything that's true right
+31:00 or true black in here. We have a a few
+31:04 pixels in the darker range, few pixels
+31:06 in the lighter range, but most of the
+31:07 pixels are in the medium gray. So, you
+31:10 could say, "Hey, these pixels that are
+31:13 kind of dark, let's make them darker.
+31:15 These pixels that are medium gray, let's
+31:17 leave them medium gray. And these pixels
+31:20 that were white, let's kind of leave
+31:21 them where they were as well." And so,
+31:24 all we did was darken. And so, that's
+31:26 what happened here. what we just did.
+31:29 So, you can mess around with this and
+31:31 get really comfortable with what this is
+31:33 doing. So, then that's really easy to
+31:35 make a bump map and a roughness map
+31:37 because you can just invert the two.
+31:40 Pretty similar. They once you get used
+31:42 to exactly how to create that, it's
+31:44 going to make a big difference. Now,
+31:46 there's very few floors in the world
+31:49 where, let me make sure off where we're
+31:53 not seeing much of a reflection on that
+31:54 floor, especially some kind of new
+31:56 floor. So, this isn't all that
+31:59 realistic. And remember, this is just
+32:01 doing linear bounces off of that generic
+32:05 roughness map. So, what happens? Change
+32:08 this. It add some glossiness into this
+32:12 is I think some nice things happen. So,
+32:15 going to bring in a bump map for one.
+32:19 And I think I already have this. I
+32:21 already imported it.
+32:26 Yeah, looks like
+32:28 like this.
+32:30 I kick that bump down. We don't need to
+32:31 see a huge effect from that. Let's go
+32:33 ahead and see what this does.
+32:37 Should see a break up of the reflection
+32:39 right here once finished the noise.
+32:46 Got the D set high enough
+32:52 so the reflection just isn't isn't quite
+32:56 carrying through the whole surface here.
+32:58 There's there's a little bit break up
+33:02 on that bump map. We'll really see it
+33:04 once we just if we were to change this
+33:07 to a real
+33:09 go into the properties panel. Put this
+33:12 roughness all the way down. Now let's
+33:14 see what happens with that pump map and
+33:16 get an idea of the effect that
+33:21 you can see it. It's catching light
+33:23 right here. See that
+33:25 catching light on the screen slats.
+33:29 Subtle effect. I might even turn it down
+33:32 even more. Depends if this was a remodel
+33:35 floor, if this is engineered floor.
+33:37 Really depends. Now what happens when we
+33:41 bring in
+33:42 roughness?
+33:50 It's pretty glossy.
+34:00 So
+34:02 immediately see little bit of movement.
+34:09 Now, this is probably a glossier floor
+34:11 than they have, but honestly, it doesn't
+34:12 look that that bad. I don't know. I'd
+34:15 have to ask
+34:18 Becky.
+34:21 So, with just a few changes, we're
+34:22 getting some change in that stainless
+34:23 steel. I would still work on the color
+34:25 of that stainless. Doesn't look doesn't
+34:26 look all that great right now, but it's
+34:29 got a lot more realistic of a feel. I
+34:31 don't know if you remember before, if
+34:33 you go rewind this, but it didn't look
+34:35 anything like that. did not look like a
+34:36 metal surface.
+34:39 The other little detail that I love
+34:41 doing is um this looks like it's some
+34:43 kind of solid or something. Lift this
+34:45 off the ground. No reason that it should
+34:47 be just such a razor sharp surface. So,
+34:50 we can go a quarter inch pretty easily
+34:52 and just create a little shadow at the
+34:54 tail end of this. We're just faking that
+34:56 sh, right? Because at this distance, no
+34:59 one no one's going to be able to tell.
+35:01 So you lift that off the ground and look
+35:02 how much more realistic that looks like.
+35:07 True cut in transition. Same thing with
+35:08 the chairs. Lift them up a eighth of an
+35:11 inch, quarter of an inch. These chairs
+35:16 like that, dragging it straight up. Hold
+35:18 the shift key if you want to let go of
+35:20 the shift. Hit tab or enter. Type in
+35:24 quarter inch.
+35:26 Come up off the ground just a little
+35:28 bit. tiniest little bit
+35:33 a difference. We can't see through like
+35:37 just eighth, but that makes a
+35:39 difference. Really does. Starting to get
+35:42 some realism. Another thing that I'm
+35:44 always going to do and and I have a tag
+35:46 system for this to make it really simple
+35:47 is I want some kitchen stuff that lives
+35:50 on a countertop or shelf and it is
+35:52 decor.
+35:56 So immediately get to my kitchen stuff.
+35:59 So simple and easy for me to get in
+36:01 here, place some kitchen stuff,
+36:06 make this scene jump off the page very
+36:09 quickly. Always does. Takes a couple
+36:12 clicks.
+36:16 Immediate difference in
+36:46 You want kind of an editorial shot, go
+36:48 change your field of view, 35°.
+36:58 This is an awesome opportunity to change
+37:00 these shades. Make them translucent,
+37:04 right?
+37:06 some texture
+37:08 mission roughness. Kick it down,
+37:10 experiment with it,
+37:12 the linear roughness, but I think that's
+37:14 okay.
+37:19 So, you'll get, you know, soft lighting
+37:22 in that shade. Look, you can suddenly
+37:24 see through to the window frame below
+37:26 it.
+37:28 Adds a little something. All these
+37:29 effects, all these effects together do
+37:32 something.
+37:35 And this this is, you know, this is
+37:37 cool. They took this off the net. They
+37:39 somehow made it seamlessish. Close to
+37:41 seamless. There's no reason you can't
+37:44 take this an old wooden seat and throw
+37:47 this in the bump map. Seems like it
+37:49 would be perfect for old
+37:53 right here.
+37:56 And kick that bump up on something like
+37:58 this.
+38:00 Suddenly off the screen,
+38:10 subtle, but if you really pixel peeking
+38:14 here, just added some catching light on
+38:17 the little nodules,
+38:19 some depth, it doesn't look Look, it
+38:22 doesn't look so razor sharp on little
+38:25 something.
+38:28 Same thing even pages. What? Watch how
+38:30 drastic of a change we can make with
+38:32 this. So this is unnamed mod.
+38:37 Grab this.
+38:51 Boy, I got a lot of undo. This is That's
+38:53 a SketchUp thing. Got to be this one.
+39:03 Get that book to really.
+39:11 Look at that.
+39:13 It's like an old book now. Pretty cool,
+39:15 right? How quick and easy that stuff is.
+39:18 Um, by the way, this is a waterfall
+39:20 countertop. You can always convert this
+39:22 to a solid
+39:25 and then throw a little break in here.
+39:30 Want to throw a little break.
+39:36 Not sure why it's got that notch in. Oh,
+39:39 this is from the cabinet underneath and
+39:41 overhead. You mind that because once you
+39:43 convert it to a solid, it's got a few
+39:46 different Just click the side break.
+39:53 3D dimensions.
+40:04 Get rid of this.
+40:15 go that
+40:18 the ground just a little bit tricks
+40:22 big difference. So here's the another
+40:25 thing I would say about this hood and
+40:27 and I got kind of a cool trick for this
+40:29 is you can always convert a hood liner
+40:33 into a mill work symbol and add it as
+40:38 a shelf. And so why would you even do
+40:40 that? What does that get for you? Well,
+40:42 the hood liner could have an integrated
+40:44 light. It becomes a tool that's sprayed
+40:47 on spray painter. Show you exactly what
+40:50 I'm talking going to use a wall cabinet
+40:52 here. And this is a tool I already
+40:54 built. Um, so we're going to modify it.
+40:57 So, my oven sprayer sprays base
+41:00 cabinets, full cabinets to the ovens.
+41:04 But what it does to upper cabinets is it
+41:06 puts a hood liner.
+41:08 See that? So, what can we do with this
+41:11 now? Let's try to make this into that
+41:13 stainless steel hood. So, what we really
+41:16 want here is just um let's go door left.
+41:20 We're going to specify the type of door
+41:22 that it is. It's going to be a slab
+41:23 door.
+41:25 Right. Then we're going to specify it's
+41:27 got no door handle, no knob. There we
+41:30 go. Let's go ahead and remove these
+41:33 moldings. Or maybe we'll leave the
+41:35 bottom molding. And we'll even make this
+41:38 uh let's make this 3/4 of an inch and by
+41:40 4 in.
+41:42 I don't know what that will but um and
+41:46 then we can offset it for
+41:50 120
+41:56 that it's doing face item offset for the
+42:00 face item. But that's not going to
+42:02 matter because I'm going to make this
+42:03 box construction be inset.
+42:06 Right. And so now that's kind of like a
+42:10 little bellyb band board. And so frame
+42:13 separation. Let's set this to zero so
+42:15 that everything tucks up tight in the
+42:17 corners. Or you can even make it like I
+42:19 don't know, call it eighth of an inch.
+42:21 You can even say that it's got rounded
+42:23 corners if that more more realistic.
+42:26 Right. Corner clip radius. Let's call it
+42:28 eighth of an inch.
+42:30 Getting more and more realistic as we
+42:33 go. Get rid of this top little blank
+42:36 area.
+42:38 Go.
+42:40 Pretty cool.
+42:43 I'm tell
+42:49 it looks like
+42:51 the reason I made that frame almost
+42:53 nothing because it's the way that Chief
+42:56 Architect automatically applies tech.
+43:01 Trying to figure out end grain making it
+43:05 easy as
+43:07 there's our hood now and a light that
+43:11 can be turned on bigger. So
+43:16 real cool. Now get rid of that other
+43:19 one.
+43:21 That other one. Throw this one in its
+43:23 place.
+43:33 Really easy to pop this in cabinet
+43:37 forward a little bit.
+43:43 I love doing this kind of stuff. Pretty
+43:45 easy. This is
+43:48 to click on this zero space. Enter.
+44:00 Fast as can be.
+44:06 And now we have a light on this. Cool.
+44:11 They made it for
+44:24 dang cool.
+44:30 I think I'll save that one. New style
+44:32 palette. So, what you get to do is bam.
+44:35 Create style palette. Add object to
+44:37 style palette. Let's create a new
+44:42 So, we're going to save a few things
+44:43 about this. We want to definitely want
+44:45 to copy the face configuration.
+44:49 We want the door style.
+44:51 So, we can just select all found there.
+44:56 Maybe we want we can leave the width
+44:58 alone. We can leave the height alone.
+45:00 That's fine. Um,
+45:02 we What else do we want?
+45:06 Do material. You don't need to
+45:10 because it could be like a board and bat
+45:11 material. It' be very easy to do that.
+45:14 See copy face configuration
+45:17 that's going to copy the mill work.
+45:18 That's going to copy the inset. Um does
+45:21 not have a bottom. So we need to know
+45:23 that.
+45:26 So build bottom
+45:30 like a
+45:51 It should be in there some dig around
+45:58 box
+46:01 or was it
+46:06 rained?
+46:11 of that. That's
+46:16 zero in
+46:35 you dig into this.
+46:38 Build bottom to build build.
+46:46 Maybe
+46:56 you've created a sprayer. See how it
+46:58 works. Apply
+47:02 cabinet.
+47:08 Keep in mind this is how my kitchen
+47:10 tools were built. Now you can assign
+47:12 this to custom graphic that you put as a
+47:15 tool on your toolbars.
+47:18 All right. So it didn't copy all the
+47:19 materials and it definitely didn't get
+47:21 the size of the box, but it got
+47:25 everything else there. So you have to
+47:26 mess with those settings.
+47:29 But what's really cool about this once
+47:31 you do get these settings right
+47:33 separation maybe the separation
+47:37 and you could do stuff like this you can
+47:39 do
+47:41 do a um
+47:44 lapl
+47:51 Let's
+48:00 remap this
+48:02 direction is not
+48:05 uh the molding
+48:10 face
+48:16 whole different style hood. How fast and
+48:19 easy that is. It has a light Okay,
+48:23 let you know how fast you can do things
+48:26 in the future if you build out these
+48:28 tools.
+48:30 Let's take a look at the style P.
+48:36 Okay, separation
+48:40 framed separation.
+48:43 Finish. Yeah, perfect.
+48:46 Here we go. And in fact, we wanted one
+48:47 of those rounded corners, right?
+48:52 two corners.
+48:55 Add a corner. Round it in. There we go.
+48:58 We're building this perfect tool now. Be
+49:00 able to spray this and get it dead on
+49:02 the money. Still missing the material
+49:05 quality. Look at that. It's getting
+49:07 there.
+49:20 You box
+49:26 this now in this.
+49:30 Bam. Just like that. Now you have a very
+49:33 cool worth of admission. Isn't that
+49:37 cool?
+49:39 Sweet.
+49:41 Um, I would love to show you how to
+49:45 build this in a way
+49:48 really fast and reusable, but I think
+49:51 we're going to save that for a different
+49:53 video because unbeknownst to you guys,
+49:55 I'm in a lot of pain. Real big problem
+50:02 run its course for the evening. I don't
+50:04 think I can do this anymore.
+50:07 So, I hope you enjoyed this. I think
+50:09 we've got more to go. I think we can
+50:11 turn this into just a masterful scene. I
+50:16 want to show you how to recreate this
+50:18 and make this a lot faster so you never
+50:20 have to go in here and place these by
+50:22 hand anymore because that so long. I'll
+50:26 show you that and I'm going to show you
+50:27 more tricks about creating more
+50:30 realistic textures. But this is uh this
+50:34 is getting there. Getting there. So,
+50:36 starting to look pretty good. Hope you
+50:38 enjoyed this
+50:40 and

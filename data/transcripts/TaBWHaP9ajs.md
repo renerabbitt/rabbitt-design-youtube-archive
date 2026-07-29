@@ -1,0 +1,89 @@
+---
+videoId: TaBWHaP9ajs
+title: Free Lattice Generator for Chief Architect X15
+url: "https://www.youtube.com/watch?v=TaBWHaP9ajs"
+status: imported
+---
+
+# Transcript
+
+0:04 free symbol Friday last week I missed it
+0:07 I was at a big event and I really didn't
+0:09 get much free time but uh if you were at
+0:11 the event you know exactly why we were
+0:11 just having a good time and uh and so I
+0:16 was teaching the advanced course at
+0:16 Chief experts Academy's big Summit event
+0:22 I highly recommend signing up for that
+0:24 for next year I'm pretty sure it's
+0:24 probably already getting booked out
+0:26 because this was uh it was just a really
+0:32 good event so anyways this is going to
+0:34 be my first symbol for X15 because
+0:34 that's what we were using we were test
+0:39 driving X15 and we've got a lot of new
+0:41 stuff coming in X15 I'm going to be
+0:41 producing more videos for X15 but here
+0:44 we go what I've got is an architectural
+0:48 block and we need to place that block
+0:52 and then kind of get into 3D cameras
+0:52 you know my preferred method but we're
+0:55 going to explode that block and what
+0:55 you're going to see here is this is a
+0:58 polyline distribution region and so you
+1:03 would set this region to whatever size
+1:05 of a mill work you're going to convert
+1:05 this to and it's producing a 3D lattice
+1:12 and this is what we're going to use to
+1:14 convert this into a Millwork symbol so
+1:16 I'm going to go ahead and kind of
+1:16 stretch this the way I need it to be
+1:20 stretched and then I can in my edit
+1:20 toolbar convert to symbol I want to make
+1:25 sure it's the Millwork class of symbol
+1:27 you don't necessarily need to add this
+1:28 to library so you can leave that part
+1:31 unchecked let's go ahead and auto
+1:31 generate block always in the 2D block
+1:37 panel and then in the 3D panel rotate
+1:42 this 90 degrees in the x axis
+1:42 and now I can hover over a railing now I
+1:47 don't want to click and apply to this
+1:47 because right now this railing is set to
+1:53 use balusters but if I open these up I'm
+1:55 going to go ahead and make sure that
+1:58 this uses panels instead so
+1:58 that's a nice thing to set up beforehand
+2:02 anyways I'm going to get last symbol and
+2:05 now I'm going to place that replace that
+2:08 panel with my generated lattice and it
+2:11 couldn't be easier than that very good
+2:13 looking 3D lattice
+2:13 that generates itself so there you go
+2:18 you can of course change the size of
+2:18 this lattice if you want to you can open
+2:23 this up and change object scaling
+2:23 minimum scaling set it to something like
+2:27 150 and that will change the size of
+2:27 that lattice now it might blow it up to
+2:31 the point where
+2:32 um
+2:32 it looks unrecognizable that means we
+2:35 have to actually multiply this distance
+2:41 between times that 1.5 so we get that
+2:46 150 percent scaling there we go
+2:46 same thing convert this to a symbol
+2:51 Millwork class
+2:51 I want to make sure that in my 2D block
+2:56 I'm set to always
+2:56 regenerate that and then rotate 90
+3:00 degrees
+3:00 and now I can apply this again
+3:06 and we've got a much larger lattice now
+3:08 so pretty simple
+3:08 look at that looks good anyways enjoy
+3:13 check the links in the description
+3:13 that's where you can download it and you
+3:16 can always go to rabbitdesign.net
+3:16 forward slash symbols for more free
+3:21 symbols for your Chief Architect

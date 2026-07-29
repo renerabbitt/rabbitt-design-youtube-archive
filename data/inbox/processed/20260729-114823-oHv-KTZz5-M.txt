@@ -1,0 +1,1032 @@
+Title: Creating and Modifying Electrical Symbols in Chief Architect X13
+URL: https://www.youtube.com/watch?v=oHv-KTZz5-M
+Visibility: public
+
+0:05 my video is starting live video is
+0:08 starting how do we get to that
+0:10 bam
+0:10 discussion announcements
+0:21 i believe we have started the feed we
+0:22 have
+0:22 ha cool we're live
+0:25 all right what do we want to do today
+0:29 i'm going to create some custom
+0:29 custom electrical boy maybe you can hear
+0:32 me better now i'm going to create some
+0:34 custom electrical symbols in chief
+0:37 architect x 13.
+0:37 namely that i want to set up some of my
+0:41 smart home stuff because we're going to
+0:43 be installing this in several different
+0:45 active projects that i have going on
+0:47 right now so
+0:47 i'm going to start by just placing
+0:50 a decora switch and actually we'll paste
+0:54 it we're going to do an automatic switch
+0:57 out here just to see how some of this
+0:59 gad symbol representation of a symbol
+1:01 works because if we click on this
+1:01 we notice here the center of the symbol
+1:03 is actually off center we can prove this
+1:07 in fact let's just throw a
+1:08 look at this
+1:08 we've got an inference line and we can
+1:11 see our snaps change that triangle let
+1:13 me change that actually let's go
+1:13 preferences we're going to change our
+1:16 color and snap properties
+1:16 hopefully any time you log into my feed
+1:20 you're learning something because that
+1:22 would be awesome
+1:22 um indicator size 18 and let's go 21
+1:27 that's fine
+1:29 excuse me
+1:31 so now oh
+1:35 now my snap should be a little bit
+1:35 larger so let's just i'm going to snap
+1:37 to the center of this symbol you can see
+1:42 here that triangle pops up
+1:44 center this symbol
+1:44 and let's just pull 3d view
+1:52 perspective overview and we can see if
+1:57 we drag we drew the side of this
+1:57 polyline to the center of the symbol
+2:01 right
+2:01 so there is the center step so this is
+2:03 on the center of the symbol but what we
+2:07 notice on this side is it's not center
+2:09 of the actual switch
+2:10 portion of this cad right that's
+2:12 annoying so
+2:12 that's something we're going to note
+2:14 when we go through in our make our new
+2:17 symbol
+2:17 we're going to fix that
+2:21 along the way
+2:21 um so first up i placed the symbol on
+2:27 the wall and and the purpose of me
+2:27 placing the symbol on the wall was so
+2:31 that i could
+2:31 take this symbol modify it to something
+2:34 that i need which is that i want to
+2:37 create a symbol off of
+2:39 the internet
+2:40 let's just grab let's grab this guys
+2:49 i'll just show you on the screen here
+2:52 we're just going to go to amazon yeah
+3:00 i like zoos as a company i like their
+3:01 controllers this is what i want to
+3:03 create right here
+3:03 and we're going to kind of fake this in
+3:08 photoshop but we'll make it look pretty
+3:11 realistic when we're done
+3:11 i mean we can even build flanges out if
+3:15 we wanted to but i think that's kind of
+3:18 uninteresting not as interesting right
+3:19 so
+3:19 um i want to start from this because i
+3:21 like the look of this and i want to keep
+3:24 everything uniform right so i want to
+3:27 have this same look going on
+3:28 now
+3:28 something to note i just added this to
+3:32 my toolbar but this is
+3:32 perspective crop mode that'll make it so
+3:35 that i can zoom in real tight to this
+3:37 guy because we're going to need to do
+3:37 that in a minute the other thing i need
+3:41 to do is isolate the symbol from the
+3:42 walls i want to make these walls
+3:42 disappear so let's turn off camera so we
+3:50 next thing is i want to i want to change
+3:50 the
+3:50 designation of the symbol by opening up
+3:58 and then we're going to in our options
+3:58 block we're going to just say that this
+4:01 is floor mounted
+4:01 we don't even need it to be a switch
+4:06 there we go now it's floor mounted
+4:08 and so if i
+4:08 choose a wall select marquee select
+4:12 marquee
+4:12 similar all
+4:13 and delete all my walls all i should be
+4:17 left with in perspective overview
+4:19 is just a floating
+4:19 symbol there it is right there in front
+4:21 of me maybe we'll put a backdrop in here
+4:25 we'll put one of my new backdrops in
+4:29 here we got costa rica
+4:29 one of these days i'll do a little feed
+4:30 and we'll show you guys how you can make
+4:35 your own backdrops from cameras using
+4:37 photoshop and chief
+4:37 because i created this backdrop in this
+4:43 cool this is actually on a lot in costa
+4:44 rica that i visited
+4:44 very cool anyways so
+4:49 we've got our
+4:49 our little item here you can see as i
+4:52 get close to it it just kind of like
+4:52 washes out it disappears that's annoying
+4:55 so we're gonna
+4:55 the only way you can get to perspective
+4:56 crop mode that i know of is you actually
+4:59 have to search and add it to your
+5:01 toolbars
+5:01 now that i have that enabled you can see
+5:05 i can zoom in real tight but things get
+5:07 really funky sometimes with this and i
+5:07 might need to switch to an orthographic
+5:13 even with an enable you can only get so
+5:15 far in before it just starts having an
+5:16 issue
+5:16 all right let's try a different view
+5:20 let's try an ortho we're actually
+5:20 we're like a full camera we've got some
+5:24 different parameters here with this guy
+5:30 the reason i want to get in so tight is
+5:30 i want to delete some surfaces from this
+5:34 oh costa rica disappeared isn't that
+5:36 funny you know different background
+5:36 defaults all right so now i have that
+5:40 checked and i can get in super tight
+5:42 here
+5:42 now i'm going to use the delete surface
+5:43 tool to delete part of this but before i
+5:48 do let's talk about some modifications
+5:50 you can do to make this
+5:51 delete surface
+5:51 work a little bit better
+5:53 smoothing angle of 60 degrees now what
+5:57 does that mean
+5:57 let's take a look at what happens when
+6:05 oh we've got a comment
+6:07 what's the comment
+6:07 if you're chiming in feel free to
+6:08 comment i think i get access to these
+6:14 oh no
+6:14 comments for something else ignore
+6:18 okay
+6:18 i am yeah i'm on the feed here look i'm
+6:31 don't forget to interact
+6:31 so if you're watching the feed right now
+6:35 you'll see a comment just show up bam so
+6:37 i'm working on that maybe there's a
+6:39 easier way for me to do that but
+6:40 you can see here we changed the
+6:42 smoothing angle what happened
+6:42 all of a sudden we get all these these
+6:46 edge lines right we get a bunch of
+6:48 vector lines
+6:48 what the heck is that
+6:53 let's crank it back up to 60. they kind
+7:00 what we're going to notice here is
+7:03 if i designate something like
+7:05 80
+7:05 okay and then i press ok and i use the
+7:09 delete surface tool what's going to
+7:11 happen when i click on this
+7:11 it's going to get the face of that
+7:12 rocker right that's what it did now
+7:16 let's go back a step let's open it up
+7:20 again
+7:20 if i designate this smoothing angle as
+7:24 zero
+7:24 and i used the delete surface tool look
+7:28 what it gets it only gets a couple of
+7:30 these vectors it's going to be really
+7:30 obvious if we change our rendering mode
+7:35 to vector rendering mode right
+7:35 then it shows exactly what we're
+7:36 deleting right we're highlighting these
+7:41 individual faces
+7:41 let's go back and again let's change
+7:44 that smoothing angle yet again and you
+7:48 see we've got some weird offsets here
+7:49 let's just fix that
+7:52 sure there we go
+7:52 okay open that symbol up again this time
+7:56 here's what i'm going to do i'm going to
+7:57 go
+7:57 over
+7:58 90. we're going to go like one it
+8:00 doesn't matter it's like 130. what this
+8:05 means is any connected face
+8:05 right and then they're connected by a
+8:12 if i've got
+8:14 one face
+8:14 and i've got a second face
+8:16 and that second face is connected
+8:20 they're joined by an
+8:22 an edge so they're
+8:22 adjacent to each other right
+8:27 if the
+8:27 polar degree of one face when compared
+8:33 to the next is greater than 90
+8:35 degrees
+8:35 now it will be considered part of one
+8:39 face
+8:39 because i've specified that our
+8:40 smoothing angle is over 90 degrees
+8:43 meaning their turn from the face of this
+8:47 rocker back
+8:47 is going to be connected because we've
+8:51 got a connected edge there
+8:51 see what i mean in just a second here
+8:52 and you can see we've got some funniness
+8:55 in the in the cover plate but that
+8:56 doesn't matter
+8:56 now when i use the delete surface tool
+8:59 watch what happens
+8:59 i can select that whole assembly and get
+9:04 rid of it
+9:04 cool right
+9:09 so what i'm going to do now
+9:09 now
+9:09 i can create a symbol from this
+9:12 and i want to start with this so this is
+9:14 good so we're going to create a symbol
+9:16 from this
+9:16 um what are we going to do
+9:17 i'm not too worried about what it is to
+9:20 start off with it can be a fixture
+9:23 that's no big deal um
+9:23 we're just going to call this what is
+9:26 this cover plate
+9:28 why not
+9:28 oh actually before we do maybe do i want
+9:31 to have this stand off here what are we
+9:33 looking like in this guy right here do
+9:34 we have that standoff not really it just
+9:38 looks like it's one big block
+9:38 so maybe we just want one big block so
+9:43 maybe we'll delete some more here so
+9:44 let's see if we can delete some more
+9:44 without just getting rid of everything
+9:46 there we go so now i just have the cover
+9:51 plate it's fashioned exactly the way the
+9:53 other cover plate is now let's add it to
+9:55 the library as a fixture no big deal
+10:01 spelling helps right
+10:01 there we go we have just the cover plate
+10:06 awesome super easy to do
+10:07 no big deal
+10:10 right so
+10:10 next up what do we want to do i'm going
+10:14 to place this cover plate
+10:14 and you see because we classified it as
+10:18 a fixture it was really easy to place
+10:18 and let's just drop it in something like
+10:21 that and then i'm going to pull an
+10:33 we've got our elevation camera let's
+10:33 switch to for some reason my cameras are
+10:37 defaulted as standard rendering view
+10:39 it's kind of goofy
+10:40 um
+10:40 from here let's just draw a little
+10:43 solid right and we're gonna have to fix
+10:47 you know exactly where it's located a
+10:49 little bit later
+10:49 this is gonna be a simple symbol in the
+10:53 sense that we're just gonna use our
+10:55 fillet
+10:55 edge tools and what's our what's our
+10:57 overall gonna be maybe it's an eighth of
+11:02 an inch something like that
+11:02 right so that shadow's going to
+11:05 disappear
+11:05 and we'll bring it just inside
+11:13 just inside of this guy
+11:13 what do you think those those radius
+11:18 our flight radius is that what do you
+11:19 think
+11:19 i could center this up and make this the
+11:23 most perfect symbol ever maybe i should
+11:25 huh
+11:25 get that inference line there
+11:27 center it up this way we get this
+11:31 inference line
+11:31 somewhere in here no it's not going to
+11:35 give it to me yeah i don't care
+11:37 all right
+11:37 fly all edges
+11:39 what do we think eighth of an inch
+11:45 and then hit our all
+11:47 bam perfect
+11:49 absolutely
+11:51 beautiful
+11:51 that's beautiful um let's look at it in
+11:55 camera view
+11:55 look at that
+11:56 what is that we're looking at the wrong
+11:59 thing
+11:59 so this is the old one right it reverted
+12:03 back so let's get rid of this
+12:03 let's turn off the notifications there
+12:07 and
+12:07 we might have to pull a new camera
+12:08 because perspective crop mode makes it
+12:12 really difficult
+12:12 hey we need to turn these off turn that
+12:29 and what do we get we've got this right
+12:29 here turn that perspective crop why do i
+12:34 still get notifications get out of here
+12:40 and there is there's our there's our
+12:41 deal
+12:41 it looks a little uh
+12:45 shallow doesn't it
+12:45 maybe this needs to be like 3 8 what
+12:49 does that give us
+12:54 minus the sixteenth
+12:54 minus sixteen why not
+12:56 that looks pretty good
+12:58 okay here's the next part let's explode
+13:04 solid tools
+13:06 explodey
+13:07 presto
+13:08 and let's go ahead and paint the sides
+13:11 of this bad boy
+13:13 right
+13:15 stop
+13:15 oh sorry i just yelled in your ear
+13:20 getting so many notifications
+13:21 okay
+13:22 get in here tight we're going to make
+13:25 sure that all these
+13:25 outside edges are painted white but we
+13:35 but we can add it as a symbol
+13:43 you know what would have been smart is
+13:44 just
+13:44 yeah in fact let's do it let's go back a
+13:48 few levels
+13:48 all right before we explodey
+13:55 oh
+13:55 one forward okay now before we explode
+14:00 let's paint it that would be smart
+14:03 and then we just change the face
+14:09 and
+14:09 now let's just color code the front face
+14:14 there we go because we're going to
+14:17 change that from here
+14:17 i could group select everything and make
+14:21 symbol or because we've got nothing else
+14:23 showing i could just go into tools
+14:24 convert to symbol
+14:24 and now this is going to be what is this
+14:28 going to be this is going to be a z-wave
+14:36 scene controller
+14:36 and it's going to be an electrical item
+14:42 we are going to add it to the library we
+14:44 are going to show advanced options
+14:44 no we don't we don't need to yet because
+14:47 we're going to modify this a couple
+14:48 times
+14:48 right we still need to paint it
+14:52 etc
+14:54 so
+14:54 we should designate it as a switch
+14:58 though
+14:58 actually no we're going to keep it floor
+15:01 mounted that's fine because we're going
+15:03 to work with it a couple times
+15:03 okay so let's drop this in that way
+15:10 we have this guy
+15:10 where's our other item there it is i can
+15:15 get rid of him now it doesn't matter
+15:17 all right
+15:17 next up let's let's make a let's make a
+15:25 little image huh let's just grab this
+15:29 let's just i'm just going to do a screen
+15:32 grab if i can
+15:32 oh man i keep moving my mouse too quick
+15:36 let's try one more time
+15:38 there we go
+15:38 little screen grab of this guy
+15:41 just like that and then we can open up
+15:46 photoshop
+15:46 if you guys are working in chief
+15:51 why aren't you using photoshop i don't
+15:52 know
+15:52 i don't know how people do it don't use
+15:57 photoshop i always have to
+15:59 makes life
+16:01 very nice
+16:01 okay control n
+16:03 gets me a new one we're gonna keep the
+16:09 size of the clipboards fine create
+16:11 and then we can just paste this in
+16:13 that's pretty simple
+16:13 i don't care about a background layer we
+16:16 can just delete that
+16:17 and
+16:18 it would be pretty easy to let's just
+16:22 crop this but let's get real tight in
+16:24 here and make sure that our crop is
+16:26 super razor sharp
+16:26 we're going to just draw a couple guys
+16:35 just like that
+16:37 [Music]
+16:37 oops didn't mean to do that
+17:01 what happened we hit something and it
+17:06 interesting
+17:06 and we can draw that crop to our guides
+17:12 make sure it's exactly where i want it
+17:13 bam
+17:13 boom
+17:15 done
+17:15 that's pretty simple all right and then
+17:18 we can if i'm just dragging my menu over
+17:22 to see what i'm hitting here we can
+17:24 change our
+17:24 hit just our fill in here
+17:27 get some stuff filled in there
+17:30 doesn't really matter because this isn't
+17:32 going to show up in a
+17:32 particular way but sure why not
+17:38 so there's our diffuse
+17:38 right and maybe we want to
+17:41 i have
+17:41 an action set
+17:44 um to just kind of sharpen this see if
+17:49 we can get sharp look at that
+17:51 i like it
+17:51 yeah it's sharpened and maybe we will
+17:58 do a little oh let's just
+18:00 just ctrl shift
+18:03 alt e
+18:03 makes a new stamp of that and then
+18:09 and then maybe we want to filter d
+18:14 a little bit maybe that cleans it up a
+18:17 little bit that's fine
+18:19 maybe we'll just
+18:21 shift hit that
+18:21 just straight line hit that shift
+18:27 straight line at this side
+18:29 a little mess up here
+18:35 let's get a little tighter
+18:44 bam yeah like it looks good okay all
+18:44 this other stuff can go bye-bye this can
+18:48 go bye-bye
+18:48 uh ctrl j copy so now i want to make a
+18:54 pump map and the bump map
+18:54 basically i want to make that back this
+19:00 back section a little bit recessed so
+19:02 what should we do here we could just
+19:04 fill
+19:04 phil would be easy
+19:07 i like phil
+19:07 phil's a nice guy
+19:10 what do we have we want like a medium
+19:12 gray
+19:12 because the block is going to be fully
+19:15 recessed right
+19:15 so something like that boom bump map
+19:19 done
+19:19 great
+19:20 except for
+19:21 except for we don't really want these to
+19:24 be recessed that much maybe i'll fill
+19:25 this
+19:25 can we fill this
+19:29 yeah
+19:29 yeah there
+19:34 in fact we we like lost some of the
+19:36 black outline
+19:36 so maybe let's just make this a little
+19:38 bit more pronounced we're going to go to
+19:41 other
+19:41 let's go minimum
+19:43 and we're going to get that
+19:47 preserve roundness
+19:50 maybe 0.5
+19:50 maybe 0.3 point two
+19:54 there we go
+19:54 and then we'll do a little
+19:59 control m
+19:59 for curves bring that black into the
+20:04 very black and we're just upping our
+20:15 don't love it let's do a different
+20:15 method let's do image adjustment replace
+20:18 color
+20:18 and get all this gray crap
+20:23 into the black
+20:23 and localize it a little bit
+20:30 it's a little bit better and let's do an
+20:33 add color
+20:33 oh too much
+20:36 subtract
+20:36 there now we got some nice bold lines we
+20:41 could actually go back to i'm spending
+20:42 way too much time on this huh
+20:44 the hell
+20:45 um
+20:46 maximum 0.1
+20:49 no no won't let me okay
+20:57 let's fill
+20:57 fill doesn't work deselect what's going
+21:01 on phil
+21:03 yo phil
+21:04 what's up with it oh x switch the color
+21:07 there we go
+21:07 now we got it
+21:17 spending too much time on this
+21:23 diffuse
+21:25 and
+21:25 scene controller
+21:34 select both of these let's export it as
+21:37 jpeg and gotta kind of discover where i
+21:39 want to store it maybe it's in a
+21:39 components folder in my materials
+21:48 oh decals components
+21:48 it's not a decal it's going to be not a
+21:53 logo special electrical symbols maybe
+22:09 keep organized people organization big
+22:09 big plus okay so now we're back in chief
+22:16 and we know if we view this camera and
+22:19 we do a material adjustment picker
+22:20 dealio
+22:20 now we get to specify our
+22:24 scene
+22:24 controller
+22:26 tab tab tab tab tab browse texture
+22:31 source
+22:31 if we were smart when we had saved this
+22:37 so like if i do that same export
+22:37 maybe this is faster who knows i don't
+22:39 know yes export and it takes us to that
+22:45 same place copy this cancel
+22:45 and cancel and then alt tab back to
+22:49 chief
+22:49 place here paste easy to find
+22:55 all right diffuse
+23:03 bumpity mappity let's go
+23:03 chief you gotta speed that up portion up
+23:07 i don't know why the load so long but
+23:09 here we go stretch to fit
+23:09 yeah that looks pretty good actually
+23:15 we could like pump this way up if we
+23:19 right
+23:19 that looks pretty good
+23:23 why not
+23:23 okay scene controller let's take a look
+23:25 at this thing what does it look like now
+23:30 dude
+23:30 that looks rad we've got a little
+23:34 cleanup here
+23:34 and that's fine we can clean this up
+23:37 here right so
+23:37 we had some issues here we didn't take
+23:40 enough time
+23:41 there we go
+23:41 that's all i needed to do clean this up
+23:46 clean all that up
+23:46 that's a simple simple thing and we
+23:48 probably could have cleaned this black
+23:52 section up
+23:52 a few times oops
+23:55 click it a couple times
+24:01 all right
+24:01 really clean this up
+24:08 export this again
+24:08 super simple to export this a ton of
+24:10 times if you want to let's go back to
+24:12 jpeg as default you should remember that
+24:17 next time there's our bump map replace
+24:19 it yes
+24:19 alt tab back to chief
+24:21 back to material picker
+24:24 easy to update this controller bump map
+24:36 there we go it's a little cleaner now we
+24:39 can even pump it up a little bit more
+24:45 boom
+24:45 until it starts looking a little
+24:48 granulated
+24:49 there
+24:50 what's our roughness at roughness is
+24:53 yeah that's actually probably about
+24:55 right
+24:56 cool
+24:56 so now that we have a symbol
+25:00 let's do a couple things with it open
+25:04 this guy up
+25:04 and he's a switch
+25:06 and he's wall mounted
+25:09 oh we need to change the the color here
+25:12 right we don't want to see that in
+25:14 vector
+25:14 um sizings doesn't matter
+25:18 and we're going to generate a new block
+25:25 and then what else is nice guess what
+25:27 smoothing angle let's pump this up to
+25:27 like 80 and all of a sudden we get that
+25:32 kind of smooth look on this thing
+25:36 look at that sexy mama there
+25:36 right so a couple things we need to fix
+25:43 before we add this to the library
+25:45 we want to
+25:47 change the
+25:47 pattern color this is going to be white
+25:54 pepper click on white there you go
+25:54 scene controller yeah i'm gonna put my
+25:58 name in there because i put my name on
+25:59 everything
+25:59 it's good branding
+26:05 also you just know where you got the
+26:07 best stuff from right
+26:08 okay
+26:08 and we need to modify this offset some
+26:11 reason we're getting this offset i know
+26:15 exactly why we don't need to spend any
+26:19 time communicating that to each other
+26:21 z-wave controller boom
+26:23 done
+26:24 right not quite right
+26:26 let's do a couple things
+26:32 how much work it goes into just creating
+26:34 a custom symbol
+26:34 i mean we're going to be done with this
+26:37 in 30 minutes and i'm going to use this
+26:41 symbol 5 million times over so
+26:52 so let's place a
+26:52 switch outside and we we're back to this
+26:57 the conundrum
+26:57 and i want to edit this
+27:00 this is new in x13 we get to edit we've
+27:04 got this special cab edit window i'm
+27:06 going to grab all this
+27:06 i'm gonna copy it i'm gonna bring it
+27:10 back over to
+27:10 our plan view tab
+27:12 i'm gonna select the symbol we just
+27:16 created
+27:17 and
+27:17 i'm gonna edit this cad
+27:25 that's what it looks like let me see if
+27:26 we can
+27:26 i feel like it's flipped
+27:29 i feel like it's easier to edit out here
+27:33 so that we have the same orientation
+27:35 edit cad block
+27:35 oh it's the same
+27:40 so i might be drawing this in backwards
+27:45 no that's kind of right so here's what i
+27:47 want to do i want to point to point this
+27:50 guy the end of this switch symbol
+27:52 to the back center of this
+27:54 i want to
+27:54 select all this crap right here delete
+27:59 there okay
+27:59 i want to change this this is going to
+28:01 be
+28:04 zc
+28:04 zc zone controller okay
+28:08 now you look at where the bounding box
+28:13 of this particular cad item is
+28:13 and can we do anything about that
+28:18 right
+28:18 in attributes can we actually change the
+28:24 width of this so that the bounding box
+28:31 right can we change this to zero and
+28:34 we'll change the bounding box
+28:34 no bounding box stays edit undo so how
+28:38 else do you go about this
+28:38 well kind of the simplest cheater way is
+28:43 we're going to draw a line here
+28:43 and we'll draw another line here just
+28:46 for reference
+28:46 and i'm going to duplicate this line
+28:52 and reflect it
+28:52 about the center
+28:54 that means that our new cat box for this
+28:58 item is going to be this wide it's going
+28:59 to be
+28:59 this whole width here
+29:01 which is kind of dumb but it's kind of
+29:06 the method we have to implement so
+29:06 the selected line i'm going to change
+29:08 i'm going to change the overall length
+29:13 of it to a 30 second
+29:13 barely going to be able to see it looks
+29:17 like a dot
+29:19 and shift
+29:19 contains like this
+29:20 and i get to close this out
+29:24 ctrl w
+29:24 save it
+29:25 all instances done
+29:33 and look at that ugliness what happened
+29:36 i forgot one very important thing
+29:36 you forgot the cad line that you put up
+29:40 here you dummy
+29:40 oh and it extended because we have auto
+29:44 connect
+29:44 blah blah blah i actually wouldn't mind
+29:48 this being so far off from the wall
+29:48 sometimes because it'd be nice to like
+29:54 pick it up off of the other
+29:54 uh switch symbols that i might have next
+29:57 to it
+29:57 in fact i wouldn't even mind if this
+29:59 zone controller part portion was like in
+30:02 the middle
+30:02 let's do that instead
+30:07 i know this is kind of a standardized
+30:07 thing now but these are always going to
+30:12 be in switchbank so maybe it's easier
+30:13 to have it just
+30:14 dead center and let's turn on auto with
+30:18 then
+30:18 so then there we go now we can truly
+30:26 and here's our new cad and it's going to
+30:28 be centered anyways that's a lot easier
+30:30 why not okay save
+30:33 all instances
+30:33 there we go my shiny new zone controller
+30:39 switch is complete it looks
+30:40 fantastic
+30:40 add it to the library
+30:43 and then we're going to add some
+30:47 parameters like i always do
+30:50 do not show me this
+30:50 which is that we're going to add some
+30:53 search attributes and i think that
+30:53 going forward we're even going to add
+30:55 some macros into some of these symbols
+30:57 so
+30:57 this is going to be rd switch
+31:02 rd
+31:02 zone
+31:04 and i always just add the actual name in
+31:08 there too because sometimes these things
+31:09 get renamed and you never find them
+31:12 again rab
+31:12 those are very easy ways to find
+31:20 some stuff rd electrical
+31:20 take the time to do this and you will
+31:22 thank me later when your library becomes
+31:27 just
+31:27 a wonderful fantastic thing so let's
+31:31 look at this thing
+31:31 see what it ended up looking like we've
+31:34 got one more thing to do by the way
+31:35 that's going to make this that much
+31:35 better we'll turn off prescript per the
+31:40 prescriptive crop mode
+31:40 and where is our pretty little switch
+31:43 look it's nowhere to be found what the
+31:44 heck did i do probably need to designate
+31:49 its height
+31:49 off a floor
+31:51 what happened to you or maybe maybe we
+31:56 do need to change its offset so let's
+31:59 see in this
+31:59 in this guy right here
+32:04 height to center
+32:04 let's just call it 48 for now
+32:11 does that show up correctly
+32:14 where are you mr controller
+32:15 there he is
+32:15 he's pretty i like him
+32:18 what happens when we turn on
+32:26 yeah it looks good why not i can't see
+32:29 him at all but stick a window next to
+32:37 probably translates okay
+32:39 yeah no i like it done
+32:40 okay
+32:40 next thing i want to create a custom
+32:42 symbol for up here this guy up here look
+32:46 at this
+32:47 and
+32:47 gosh maybe we just steal from from this
+32:52 right here i'll show you how how and
+32:52 where and why you might want to steal
+32:54 that um so i'll show you what i mean in
+32:59 just a second here
+32:59 uh let's see i think we're in program
+33:03 files chief architect
+33:03 and i think we're probably in resources
+33:07 unless we've got but there we go buttons
+33:13 here's where it gets complicated chief
+33:15 your naming conventions are
+33:15 crazy you guys name things different
+33:21 things all the time it's so weird
+33:25 why i don't know
+33:32 and i'm dropping such cool info here i
+33:33 hope people
+33:33 get to watch this
+33:39 so let's see here
+33:41 switch search
+33:41 why is this window so small someone told
+33:45 me that
+33:45 that's changed is there a
+33:48 slider here and there's no slider here
+33:51 oh there it is
+33:51 weird there we go
+33:53 here we go switch consumer what am i
+33:55 going to do with this right click open
+33:58 with
+33:58 you guessed it
+34:02 the photoshop
+34:02 the photo shop and then control all
+34:11 and maybe we'll just
+34:11 shrink this guy down a little bit
+34:16 yeah
+34:16 why not
+34:17 and then let's use the text tool
+34:23 and put in here
+34:23 you guessed it dc
+34:26 wrong color though
+34:30 right
+34:30 should have been black
+34:33 you see
+34:35 here
+34:36 and
+34:36 move this
+34:37 to there and
+34:40 maybe we want this like
+34:42 a 50 point does that help
+34:47 move this to there
+34:48 yeah
+34:48 sure let's get back to this one
+34:54 move him over a little bit
+34:54 hopefully we can see this this is going
+34:58 to become an icon now
+34:59 so
+35:00 export
+35:04 oh yes
+35:10 export is png very important and then
+35:10 this is already going to take me back to
+35:14 where i just was but in fact i do want
+35:16 to go to my chief architect
+35:18 data folder
+35:19 into a vars
+35:19 and drop this into custom and name it
+35:23 appropriately
+35:23 and in which case it's going to be
+35:25 switch
+35:28 for
+35:28 it's nice to have a classification first
+35:32 so it's easy to find you see how i have
+35:35 cabs caps cabs yeah so
+35:37 switch and then um
+35:40 scene controller
+35:40 why do we call it vc that was dumb
+35:44 what the hell is that
+35:44 did we call it vc in here too
+35:49 so i being dumb
+35:50 sc
+35:50 zc oh zone controller
+35:55 what val's a bc
+35:56 okay
+35:56 that helps it's better
+36:05 expert has png yes
+36:05 oh and we gotta go back
+36:09 to
+36:09 our
+36:10 custom switch
+36:14 switch if we start typing stair
+36:20 yes replace
+36:22 and now
+36:22 full circle here let's
+36:24 edit our toolbars let's maximize this
+36:38 place library object
+36:40 library object
+36:40 uh let's switch this to a plan view type
+36:46 that way we can drop it right in here
+36:46 next to this other little switchy right
+36:49 there
+36:49 boom and in fact i'm gonna do a couple
+36:51 other of these smart switches so i might
+36:54 as well just drop in a couple more of
+36:56 these guys right here because we're
+36:56 going to do a usb as well and usbc and
+37:00 usb ace
+37:01 bank
+37:01 all that stuff
+37:04 and you see how long it took me to make
+37:09 this and sometimes i give this stuff
+37:10 away
+37:11 man
+37:11 just
+37:12 throw me a shout out on these feeds i
+37:15 kind of want more exposure so if you're
+37:18 watching this you're learning from this
+37:21 throw me a little shout and be super
+37:24 positive about it
+37:25 zone controller
+37:25 bam guess what we're going to do next
+37:29 look it actually already kind of auto
+37:29 produce an icon that looks pretty good
+37:34 but i want to keep it
+37:34 in line with what i have already
+37:37 which means that we've got kind of a
+37:41 standardized look for everything so
+37:42 we're going to keep with
+37:47 standards which is going to be this
+37:50 switch scene controller bam
+37:50 and look at that it's in my toolbar
+37:53 it looks beautiful i place it it looks
+37:57 beautiful it looks beautiful in 3d it
+37:57 looks exactly like it should be the only
+38:02 other thing i might do is go in here and
+38:04 actually plug in information from the
+38:06 manufacturer
+38:06 let's do that and then it's done
+38:09 and you know what i'm going to do
+38:10 in case you're watching this feed and
+38:12 you're in the rabbit design feed we're
+38:16 going to give this away
+38:18 this one so
+38:18 um but i'll finish a couple of the other
+38:21 controllers too we'll give it away as a
+38:21 package just for people that are in this
+38:25 feed
+38:25 okay
+38:26 so let's see what do we want we want
+38:30 object information
+38:30 or we want components so in their
+38:32 components we can edit a few things um
+38:37 electrical supplier manufacturer is
+38:41 and
+38:41 uh what's a component code let's get
+38:44 back to this and let's see if there's
+38:57 and
+38:57 let's see let's expand this little
+39:01 window here
+39:01 oh and let's change this to standard
+39:04 view because it's pretty
+39:06 look at that so pretty
+39:06 okay price ah we could set price i don't
+39:12 know that it matters
+39:15 37.95 why not
+39:15 we can do a couple things here our
+39:18 markup is going to be 20
+39:18 guys come on let's make some money on
+39:21 this thing
+39:22 and
+39:22 yeah
+39:24 i think that's i think that's great
+39:27 right there
+39:28 um
+39:28 subcategory we're going to call this
+39:39 okay boom
+39:39 i'm going to end the feed i'm going
+39:42 gonna do some more actually maybe i
+39:42 won't let's just keep it rolling if you
+39:43 guys show up you show up great i'm gonna
+39:48 keep working on this so
+39:50 i want a
+39:50 it's i'm gonna modify an existing symbol
+39:54 that should be really easy and this is
+39:56 just gonna be another zone controller
+39:59 because zeus makes a dimmer
+40:02 a dimming module that is
+40:08 as your typical
+40:08 levidin doing modules and here's another
+40:12 one we're going to make
+40:12 kind of in line with that last one
+40:15 and in fact we can even use the same
+40:18 symbol and just change the material
+40:20 that'll be really easy
+40:20 so this one is a perfect example of
+40:23 where you might use a garbage disposal
+40:27 lower versus
+40:32 let's see if we can get a better image
+40:39 cars disposal lower well here let's look
+40:41 at the diagram
+40:41 see we've got a relay and the relay can
+40:45 be the garbage disposal
+40:49 i'm gonna wire one of these things up
+40:52 pretty soon here
+40:56 yeah
+40:56 so you could do scene controller you can
+41:00 do a fan you can do dry contact on a on
+41:02 a
+41:02 fireplace right gas fireplace insert it
+41:06 actually looks like it does have a
+41:08 rocker switch but i don't know i'm
+41:09 worried about that we could put a
+41:09 gradient in the map and make it look
+41:18 it won't wire as a three-way it's
+41:18 important to note but these can be
+41:22 controlled from from our scene
+41:22 controller that we just created and you
+41:26 can see i purchased this so
+41:26 but it's a christmas present from mama
+41:32 okay so here's a good image and we're
+41:35 just going to clean up that
+41:35 those green lines to fix this
+41:45 same process
+41:46 boom
+41:46 copy and what do we get we get this
+41:50 right here and let's just do a new one
+41:54 it's fine
+41:54 create new paste
+42:01 do this a little bit more efficiently
+42:07 uh hit control to override so it doesn't
+42:09 snap to the very edge because i got a
+42:17 bam
+42:17 bam bam bam
+42:28 i am broadcasting to another i'm using
+42:30 my ipad as a second screen but it's

@@ -1,0 +1,572 @@
+---
+videoId: HxZqXgjCokA
+title: 3d isometric HVAC rendering Using Reference Views With Custom Wall Layers in Chief Architect X17
+url: "https://www.youtube.com/watch?v=HxZqXgjCokA"
+status: imported
+---
+
+# Transcript
+
+0:00 Uh what's going on VIP? I got a special
+0:03 request to do like an isometric
+0:06 mechanical plan. And so I'm just going
+0:09 to show you some tricks and and trust
+0:11 me, I have not practiced with this. I
+0:14 just have some ideas about it. Um
+0:16 because I've done something similar
+0:17 before. Um so I'm just going to set up a
+0:21 mechanical room. I've got a second floor
+0:23 already. So let's just call this
+0:28 uh
+0:31 call. And maybe we'll just abbreviate
+0:34 that
+0:37 and
+0:41 get to
+0:43 here. And I'm just going to blank out
+0:44 label replacement to get rid of the
+0:46 ceiling height. And we can center this
+0:48 up. And then oftent times I'll even
+0:52 guess it won't be do that. That's going
+0:54 to go up above. Um, so we could take the
+0:58 uh
+1:00 the walls and doop them up above and
+1:03 then cut this and put it up above. Okay.
+1:08 And then I'm just going to use this
+1:09 furnace
+1:11 and I'm going to do this for a very
+1:13 specific reason. Um, we're going to see
+1:16 how this all works because we're going
+1:17 to do an isometric in a 3D view and
+1:22 we're going to reference another plan
+1:23 view. Okay. So that's the thought.
+1:26 Anyways, um
+1:30 throw a little door in here. Let's kick
+1:32 it over
+1:34 or something and make this
+1:37 force this a double. I'm really not, you
+1:39 know, considering if this is even
+1:41 feasible stuff that I'm doing. I'm just
+1:42 doing this as an example. Keep that in
+1:44 mind. Um and so what's the thought here?
+1:48 Well, let me set up a couple things
+1:50 first. Let's just assume that there's,
+1:52 you know, a bedroom upstairs. Let's see
+1:53 if there's um we have some wall vents
+1:56 here or registers
+2:02 vent. How about registers?
+2:06 Wall registers. Let's try that.
+2:09 Yeah, there's probably a two-way wall
+2:11 register, right? Um so let's just uh and
+2:15 let's do a uh call this a return error.
+2:24 air return. Big air return right there.
+2:27 And let's go up a level. And let's go
+2:31 back in my library and get this
+2:33 three-way
+2:35 bent like this.
+2:37 Um, actually, we're going to get it here
+2:39 instead.
+2:42 Act like I know what I'm doing a little
+2:44 bit. I guess maybe we'll get makeup
+2:47 return here here as well. And then
+2:50 there's going to be attic space. And
+2:52 that attic space is going to be serving
+2:54 some bedroom that's over here. There it
+2:57 is. That's my design. And so what am I
+3:00 driving at? I'm trying to drive to um
+3:03 getting an isometric. So uh back in my
+3:08 project, I'm going to make a copy of
+3:09 this plan. And we're going to have to
+3:11 set up some really This is the ISO.
+3:14 We're going to have to really set up um
+3:16 some layer sets to make this all jive.
+3:18 Okay.
+3:19 extend this wall through.
+3:22 Um, so let me open the ISO plan up. And
+3:26 there will be a couple things that will
+3:28 really make
+3:30 make this sing, if you will. But before
+3:33 we even get there, we need to establish
+3:36 a view that only has a few things in
+3:40 that view.
+3:42 Um,
+3:44 so let me pull a perspective floor
+3:47 overview. And in fact, yeah, I want a
+3:50 floor overview because I want to get all
+3:52 the way up into the attic level. Um, but
+3:54 ultimately, you know, we're not going to
+3:55 be showing roofs, etc. So, we need to
+3:58 make a copy of this layer set. So, we're
+4:00 going to copy this set. And this is
+4:01 going to be um ISO, you know, maybe
+4:04 we'll call it 3D ISO, so it's next to
+4:06 the other layer sets. So, 3D ISO. And
+4:09 from here, we're just going to start
+4:10 hiding things. So, I'll use a layer
+4:12 hider. Um, I'm going to hide rooms. I'm
+4:16 going to hide surfaces. I'm going to
+4:17 hide gutter profiles,
+4:20 any kind of shadowboard stuff.
+4:23 We're going to hide floor surfaces.
+4:26 We're going to even end up hiding walls
+4:28 at some point. Um,
+4:31 and then to start, let's just get back
+4:34 into ISO. And I'm going to make um kind
+4:37 of like a a ducting profile. Okay. And
+4:41 so, what's that ducting profile going to
+4:43 be? Well,
+4:45 let's just
+4:49 something like that.
+4:52 Going to be that wide.
+4:55 Yeah, actually, no. Make it a little
+4:58 thinner. We probably make two different
+5:00 profiles.
+5:02 This would be one. And you know, you're
+5:05 going to want to spec this. I have the
+5:07 hotkey for um
+5:10 What's the hotkey for? The hotkey that I
+5:13 use
+5:18 for
+5:21 my right mouse wheel click is home. So
+5:26 when I and I have tab enter on my um on
+5:30 the left thumb. And so when I hit tab
+5:32 enter and I can hit that right, that
+5:35 home button does other functions, but it
+5:38 also in this text puts me to the end of
+5:40 the distance, which makes this really
+5:41 nice and easy to go, you know, just key
+5:44 that in. So minus 5 and a half. So here
+5:46 we go. I'm going to add this as a
+5:47 molding profile. Excuse me. Add this to
+5:49 the library as a molding profile. Make
+5:51 sure to name it.
+5:54 I'm just going to call it duct one. Why
+5:55 not? And then you know what? We're just
+5:57 going to stretch this out a little bit
+5:59 and pop this in library. Call this duct
+6:02 two.
+6:05 Okay. Now, with duct one and duct two,
+6:09 let me start with duct two. Let me get
+6:12 into here. I'm going to do a little um
+6:16 active cross-section slider. I can put
+6:18 this off to the side for a second. Oops,
+6:21 didn't mean to do that. There we go. We
+6:23 can leave that off to the side for a
+6:25 second. and
+6:28 get on down to about there. Right. And
+6:32 so, um, on this first floor, there's our
+6:34 register. Okay.
+6:37 So, um, you know, maybe it was a mistake
+6:40 getting rid of the floor because this
+6:41 would be easier to draw on the floor to
+6:43 start, but that's okay. So, I've got
+6:45 duct two, duct one, duct two selected.
+6:48 Use the trim tool, and I should be able
+6:51 to just draw this out on the wall to
+6:53 start. There we go.
+6:55 Right. And we can have a little gizmo
+6:58 here. We can just slide this whole thing
+7:00 over. Get it all lined up the way we
+7:03 want it. You can even sit here and
+7:06 center it up. If you get to the front of
+7:08 this. There we go. Just like that. Look
+7:10 at that. Isn't that cool? And then
+7:12 select this again. Just drive this into
+7:15 there. Drag this through to here. And
+7:18 I'm going to make a custom material.
+7:22 just change this material to
+7:26 red ISO
+7:30 and we'll make it nice and bright red.
+7:33 Now, something cool that you could do
+7:35 with this furnace is, you know, the the
+7:40 um Oops, I didn't select the furnace is
+7:44 that you tell it to use the default
+7:47 fixture color, right, under materials.
+7:49 So, color white color, right? Okay,
+7:52 material defaults. And we could set this
+7:54 to be, you know, a default for
+7:57 something. Now, let's look at some of
+7:59 these. Are any of the It's too bad they
+8:02 don't have a default for HVAC, cuz
+8:05 that'd be really, really clever, cuz
+8:08 then we can drive it so that, you know,
+8:10 it looks like aluminum or something like
+8:13 that, but the vector color is red.
+8:15 Something that you could do. Um, so I
+8:18 actually don't want to change any of my
+8:20 default colors here. That's okay. We'll
+8:21 just uh we'll just make something new
+8:24 instead.
+8:27 So, let's make a copy of this red ISO.
+8:30 Or actually, let's just use red ISO.
+8:34 Um
+8:35 maybe
+8:37 Yeah, like a make a new material
+8:45 iso aluminum. What does that even mean?
+8:48 What does that even mean? And well, that
+8:50 means in the texture panel, I'm actually
+8:51 going to go pick some gray color that I
+8:54 have and tell this thing that it is a
+8:57 shiny metal. But the vector color will
+9:00 remain red. So that we switch to a
+9:02 vector view.
+9:05 We paint this guy, it will look red in
+9:07 this view. It will look like aluminum in
+9:10 this view. Pretty clever, huh? Okay, so
+9:14 next up, let's get to duct one. Let's
+9:17 get to duct one. And we just get to use
+9:19 that same trim tool. We get to draw
+9:21 along side of this. And it'd be very
+9:24 easy to get to the gizmo and slide this
+9:28 on over so that it's inside of my HVAC
+9:32 unit.
+9:34 And then um let's go ahead and move it
+9:37 up.
+9:39 Something like that.
+9:42 Now, it should be very easy for me to
+9:45 just select this and start drawing it
+9:48 out. Let's go ahead and kill my
+9:50 cross-section slider.
+9:53 Drag this up. And actually, we wanted to
+9:56 get into
+10:01 that cross-section slider back up. Let's
+10:03 get into the point where we see this
+10:04 floor register. Wouldn't that be clever,
+10:08 right?
+10:10 And so we're going to change the edit
+10:11 plane so that we're editing this
+10:15 plumbing going in this direction.
+10:19 Isn't that cool?
+10:22 And and so what else can we do about
+10:25 this? We can do a couple cool things.
+10:27 One is
+10:29 I just bend this
+10:32 and bend it again.
+10:38 This Whatever. Except for I'm going in
+10:41 the wrong edit plane. How come you guys
+10:43 didn't correct me?
+10:49 So, we want to make sure that we're in
+10:51 the correct edit plane, which is this.
+10:54 That way, now I can bend it.
+11:01 And it looks to be
+11:04 that really caused some problems.
+11:07 That's too bad.
+11:13 You know, it might be that we wanted to
+11:15 extrude this polyline on on the other
+11:17 side.
+11:23 Happens when we Yeah, let's see. What
+11:26 does that do? Yeah, that's that's wrong
+11:29 as well. So, that's not helpful.
+11:35 And we're going to keep this nice and
+11:37 easy. Then
+11:41 we'll just go straight out to the wall.
+11:42 And we'll fix this uh we'll fix this
+11:45 little bent guy here real quick.
+11:53 There we go. Keep it real real simple.
+12:02 Um yep. And then that section cuts
+12:05 cutting through that right now. So now
+12:07 that I have that set up.
+12:11 Okay.
+12:12 And let's just paint this.
+12:15 I want to put these on layers that are
+12:18 isolated. So I actually want to put all
+12:20 three of these on
+12:24 their own specific layer. So for this,
+12:26 I'm going to put this on HVAC.
+12:29 Same thing. I'm going to put this on
+12:30 HVAC.
+12:40 And so now I need my custom layer set.
+12:43 Okay.
+12:47 So that 3D ISO, the only thing that's
+12:49 going to be on here is we can pretty
+12:53 much select all and uh toggle display a
+12:56 couple times and then choose HVAC
+13:00 and turn on HVAC. There's our 3D ISO.
+13:05 Bam. Okay. And let's kill that
+13:10 cross-section site. I got to remember to
+13:11 do that. Not that it really matters, but
+13:14 there is an example of that ISO. So now
+13:17 when we come back here and we want to do
+13:19 an overview of this, there's a couple
+13:22 things that'll really improve the
+13:24 overall look of this. Um, but we're
+13:26 going to do our our same thing. We're
+13:28 going to copy a set and go 3D ISO.
+13:33 Uh, I mean the other one should have
+13:35 been 3D ISO reference and this should
+13:36 have been just 3D ISO, but that's okay.
+13:38 Whatever. It doesn't matter.
+13:41 So we're going to start doing kind of
+13:42 that same thing is we're going to hide
+13:44 these floor surfaces.
+13:46 and hide these shadow boards. Um,
+13:50 perhaps I accidentally hid the main
+13:52 layer of the wall
+13:54 and did that just then. There's that
+13:56 floor surface. Um, I don't, you know, I
+13:59 don't really need to see this vent. So,
+14:02 maybe um, that's something we could have
+14:05 turned off. But here, I want to hide
+14:07 doors. I want to hide windows.
+14:10 And you might even want to hide your
+14:12 footings. Totally up to you. Depends on
+14:13 what you're doing. So, the next big
+14:16 thing here is I I certainly want to hide
+14:18 that HVAC layer or, you know, my
+14:20 fixtures in this case. Um, if you really
+14:23 want this view to look fantastic,
+14:27 um, we're going to do something to the
+14:28 walls. And so, let me first set up my
+14:34 um, rendering technique options for
+14:36 glass house, and you're going to see why
+14:38 doing an edit to the walls is so
+14:40 impactful. So, I'm going to set my color
+14:43 to be something really light gray. I
+14:46 know that part already. And I'm going to
+14:48 set the transparency up pretty high on
+14:51 this. Okay. And so, this produces a ton
+14:55 of vector lines, you know, and that just
+14:57 I don't know. I think that kind of tends
+15:00 to lend to confusion. I'm going to
+15:02 change my line thickness down to as thin
+15:04 as it can go. I'm going to make sure I
+15:06 hide these vents and I want to, you
+15:09 know, make sure that I'm actually
+15:10 selecting them and not hitting the wall
+15:11 by accident. There we go. All right. And
+15:14 so here's the main trick is I want to
+15:17 take my interior walls. I'm going to
+15:20 define them in the wall type. And I'm
+15:22 going to set the interior and exterior
+15:24 layers to a custom display layer that I
+15:26 call walls interior layer 1.
+15:30 Doesn't matter what you send it to so
+15:32 long as you know what it is. And once
+15:35 you know what it is, you want to make
+15:37 sure that you're hiding the display of
+15:39 that layer. So, walls interior one, I
+15:42 hide it. Okay. Same thing. I'm going to
+15:45 open up
+15:47 siding for existing.
+15:50 And yeah, it's already being sent. My
+15:53 exterior layers are being sent to
+15:55 exterior layer 1, two, three. This
+15:57 actually gives you some um power to hide
+15:59 certain layers, especially I use this
+16:01 method to hide all my exterior layers up
+16:04 into my sheathing so that I can show
+16:06 where my brace wall panels are and
+16:08 stuff, which is kind of clever. So, um
+16:11 now once you've got all that and you
+16:13 you're hiding these layers, I want to
+16:15 hide all these layers. Once you edit
+16:16 this, they'll be toggled on. So, just
+16:19 keep that in mind. I don't need to see
+16:21 walls layers. We really only want to see
+16:23 the wall main layer. That's it. And so
+16:25 look how clean this is starting to get.
+16:28 Right? So if we switch to a regular
+16:31 view, you're kind of seeing what's being
+16:32 built out here. Now, keep in mind that
+16:36 I'm not framing, you know? So if you had
+16:38 framing turned on, you would start to
+16:40 see that everywhere. And so that maybe
+16:43 isn't the best um
+16:47 thing if you're going to be doing, you
+16:49 know, if you're going to be framing your
+16:51 walls. I don't often frame my walls
+16:53 because I don't really need to show my
+16:55 framers how to frame a wall. So, I don't
+16:56 show, you know, stud layouts and stuff
+16:59 like that. So, I often don't frame my
+17:00 walls. So, this would work just
+17:02 perfectly for me. Um,
+17:06 if you know, in the case that you're
+17:08 going to be framing your walls, maybe
+17:10 you, you know, just ensure that your
+17:12 stud framing is turned off. Let's just
+17:14 give this a shot. What happens when we
+17:16 frame this wall?
+17:18 And we don't want to show that uh stud
+17:20 framing in this view. Um
+17:24 wall framing is not displayed. Do you
+17:25 want to just turn on the display of this
+17:28 player in the current view? No. Oh. So
+17:30 it turns out that even if you frame this
+17:34 that we're still seeing, you know, this
+17:36 as a display. So this is looking pretty
+17:38 good. This is really clean. We've gotten
+17:40 rid of a lot of the lines. We've made
+17:42 these, you know, walls
+17:45 um be just barely visible. You can mess
+17:48 around with the transparency settings. I
+17:50 think I like it at 95. There's kind of
+17:52 85. And here's the last step. We're
+17:55 going to change floor reference. And in
+17:57 that change floor reference, we're going
+17:59 to go ahead and choose that other plan.
+18:01 This is why we needed another plan in
+18:03 the first place, right? And so we're
+18:05 going to change this to that 3D camera
+18:07 view ISO.
+18:10 And this can just be a vector view. that
+18:14 vector view. Um, if we had this all set
+18:17 up right, what we're in 3D ISO. So,
+18:21 let's try this again. So,
+18:26 ISO plan 3D camera view ISO 3D
+18:30 ISO. 3D ISO. There we go.
+18:34 Is look at that.
+18:37 How clean that looks.
+18:40 Now, if you set transparency all the way
+18:42 up, you're not going to get, you know,
+18:44 this kind of shading thing happening
+18:46 here. And so, I mean, that's completely
+18:50 completely up to you on on how you want
+18:53 to display this, right?
+18:55 Um,
+18:57 so if we kick this transparency all the
+18:59 way up. Now we just have lines to locate
+19:02 walls,
+19:04 you know, and so and so these lines
+19:07 these are these are colors are coming
+19:09 from that technique option, right? You
+19:11 can play around with this. You can go
+19:13 that, you know, a little lighter if you
+19:15 want to, if you think that's helpful at
+19:16 all. Um, go a little darker if you think
+19:19 that's helpful.
+19:25 Maybe it's helpful to have a color.
+19:28 Who knows? You know, totally up to you.
+19:32 Um, so I think this is a really clean
+19:35 representation. So to kind of backtrack,
+19:38 you know, we're not showing um
+19:42 we're not showing uh walls, excuse me,
+19:45 floor surfaces, ceiling surfaces.
+19:50 We're not showing our exterior layers.
+19:51 We're not showing our windows. We're not
+19:53 showing our doors. I mean, the only
+19:54 thing we are showing is the main layer
+19:56 of a wall. Really, that's I mean, that's
+19:58 pretty much it. Now, let's see what
+20:00 happens when we play around with this a
+20:01 little bit. Let's call kind of the
+20:02 inverse direction with this. Let's turn
+20:04 on the walls interior layer, but let's
+20:07 not turn on the walls themselves. What
+20:10 happens there? Well, we get, you know,
+20:12 kind of the drywall outline instead. But
+20:15 let's see what happens in terms of these
+20:17 intersections where um you know we're
+20:21 getting coverings on the exterior side.
+20:23 So what happens if I just turn on my
+20:26 exterior layers one, two, and three, but
+20:29 I'm not showing that main wall type. So
+20:32 now
+20:33 maybe I'm not showing those brakes as
+20:35 much.
+20:39 I want to see what happens if when I
+20:40 turn off my wall interior layer.
+20:45 So, that's kind of interesting. Um,
+20:48 that's kind of nice on the exterior
+20:50 sides. So, what I would do here is
+20:54 let me get back here. Let me choose
+20:56 these interior walls. Let's just use the
+20:59 interior wall tool. Select intersected
+21:02 mode. Oh, actually, you know what? I
+21:04 just needed to do this. Here we go. And
+21:06 so, I'm going to remap
+21:08 just this to
+21:15 What do I want to do here?
+21:21 I wonder if we remap just the exterior
+21:24 side here, exterior layer one,
+21:31 and what happens in our ISO with that?
+21:39 It's kind of interesting.
+21:50 Yeah, it's kind of interesting.
+21:53 So, I mean, we're just getting down to
+21:55 just a couple single lines and that's
+21:57 it,
+22:00 you know, kind of same thing if we took
+22:01 our foundation or footing foundation
+22:03 concrete stem wall. Bam. Let's just
+22:06 insert above. Make it a 0 inch thickness
+22:14 and map this to an exterior layer one
+22:18 is being displayed.
+22:23 Yeah, I'm messing with the auto build
+22:24 foundation. But what happens here? Does
+22:28 that do anything that we like? Maybe
+22:29 not. It looks like it needs to be more
+22:31 than a zero inch thickness.
+22:35 Let's just grab this again. Mess around
+22:37 with this wall type. Let's just put like
+22:39 a 16th of an inch.
+22:43 Feel like that still should have shown,
+22:44 but we'll see. There we go.
+22:50 I mean, so that gets to be a pretty
+22:52 clean graphic.
+23:07 What happens when this house looks more
+23:09 like a house and less like
+23:12 I got going on here,
+23:16 right? What we got?
+23:19 Windows and stuff in this place and
+23:21 doors and all that business.
+23:27 Yeah. So, you're going to get some more
+23:28 lines,
+23:30 but
+23:32 still think that is a pretty clean
+23:35 graphic. I understand.
+23:40 Now, let's try turning on floor
+23:41 surfaces. See if we get to something
+23:44 that ultimately is like exactly what I
+23:46 would think it should be.
+23:49 I don't know that floor surfaces is
+23:51 helping the scenario.
+23:55 I guess it helps to show as a reference.
+23:58 So then if you had ceiling surfaces,
+24:01 you'd see
+24:04 Yeah. See, this is showing ceiling
+24:05 surfaces now.
+24:12 Yeah. Kind of curious. I'd say play
+24:14 around with this thought.
+24:16 See what you think.
+24:21 Boy, from down here. That's a pretty
+24:23 cool diagram. Mess around with
+24:27 this color again.
+24:40 Almost seems like a pencil sketch. I
+24:42 like it.
+24:49 Um, you know, putting these side by
+24:52 side, what does this end up looking
+24:54 like?
+25:03 Just going to paste. Hold this position.
+25:07 Interesting. Says, and copy it.
+25:12 Happens when you turn it back on itself.
+25:18 doesn't like it.
+25:23 I was hoping
+25:25 we do this without
+25:28 breaking this, but that's okay.
+25:42 Why getting some funny little things
+25:44 here?
+25:46 There you go.
+25:51 Um, interesting that we get to just kind
+25:53 of see this in real time, right? Side by
+25:55 side. So, easy to just keep taking this
+25:59 up through to the ceiling.
+26:03 Above the ceiling.
+26:13 Let's go. This is in this plane.
+26:54 funny. That broke up that broke up the
+26:57 family.
+27:05 Oh jeez.
+27:11 Oops.
+27:18 Anyways,
+27:24 yeah. I don't know. I think I'm going to
+27:27 lean on you guys for some feedback. What
+27:29 else would you like to see with this?
+27:37 All in all, that's pretty clever. Throw
+27:39 a little section cut on here. And we
+27:42 know that this cuts the front of the
+27:43 house.
+27:45 So
+27:51 maybe that's helpful in some ways.
+27:57 We can do a couple different diagrams
+27:58 with a couple different cuts.
+28:01 Cool.
+28:03 Till next time.
+28:14 [Music]

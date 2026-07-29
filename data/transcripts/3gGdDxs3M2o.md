@@ -1,0 +1,186 @@
+---
+videoId: 3gGdDxs3M2o
+title: CA SHORTS Creating a Floor Inlay Boarder In Chief Architect X17
+url: "https://www.youtube.com/watch?v=3gGdDxs3M2o"
+status: imported
+---
+
+# Transcript
+
+0:03 Let me show you how to make a quick,
+0:03 super easy border in your flooring. This
+0:08 is going to be a really simple thing to
+0:08 do. Might not be immediately obvious how
+0:14 to do it, but um let's first take a 3D
+0:15 view. That's a create an orthographic
+0:18 floor overview. Okay, create an
+0:18 orthographic floor overview. Go ahead
+0:20 and pan your camera up just like this.
+0:25 Get in nice and tight. and then change
+0:27 this to your standard rendering
+0:27 technique and get this right over on the
+0:31 top. And this is going to be really easy
+0:33 to see the particular slats of your
+0:35 material. Now, we've got a new tool
+0:35 that's in the 3D menu and I've got it on
+0:40 my um on my actual toolbarss, but it's
+0:43 going to be in the um adjust materials
+0:45 dropdown, the interactive material
+0:45 editor. I want you to go ahead and use
+0:48 that so that we can click and move this
+0:52 gimbal and really align this floor so
+0:54 that it's right up against the wall
+0:54 here. That first slat is right above
+0:56 against the wall. It might help you to
+0:58 see your flooring material. If you turn
+1:04 on handdrawn lines on top, that's if
+1:06 your handdrawn lines are the correct
+1:06 pattern to your material, which might
+1:10 not be the case if you know what I'm
+1:10 talking about. We're talking about being
+1:15 able to get in really tight here and
+1:17 understanding
+1:17 what the heck is this, right? How many
+1:22 of these little wood slats? Well,
+1:22 believe it or not, you'd actually have
+1:25 to count this out if you wanted to
+1:25 figure this out. So, um, I'm not going
+1:27 to do that. I just know that the size of
+1:32 my pattern on the pattern panel here is
+1:35 incorrect. Right. So, I've got a patch
+1:35 hatch pattern here. Maybe I set this to
+1:41 2 inch width. And maybe that aligns a
+1:41 little bit closer. And so that helps me
+1:45 take a look at uh what this is looking
+1:45 like. So there we go. There we've got my
+1:50 slats. It's close. It's not quite
+1:50 correct. But here's what I'm going to do
+1:54 with this. Okay, let me turn off those
+1:56 pattern lines so that we can see my
+1:56 underlying texture is. I'm going to go
+2:00 into the build menu and floor and then
+2:03 use a floor material region and just
+2:03 snap this to the corner. And I'm not too
+2:08 worried about what the size is when I do
+2:10 the initial snap because this is a 3D
+2:12 view. We get these new temp 3D
+2:12 dimensions because I'm using Chief
+2:16 Architect X17.
+2:16 And if I know the size of the slat
+2:19 material, my, you know, of my flooring
+2:21 material, I can maybe say that this is 2
+2:25 in something like that. Bring it off to
+2:26 this corner. And so then maybe I want to
+2:30 do a miter corner. Now, in the case that
+2:32 we don't want to do a miter corner,
+2:32 which might be very common, we can do
+2:34 something like this. I'm going to do a
+2:37 little copy paste point to point. And
+2:40 I'm going to bring this so that it's
+2:40 just like this. And so, what am I doing
+2:44 here? I'm essentially stitching this
+2:44 floor, believe it or not. All right. And
+2:49 so, I can do this a couple times. In
+2:49 fact, if I wanted to get really kind of
+2:52 clever with this, you might even draw
+2:55 some kind of like um a reference 3D
+2:56 solid if you wanted to be able to snap
+2:57 to this, something like that. Or go back
+3:01 to that plan view and just draw in, you
+3:01 know, a CAD line here as a path that you
+3:08 can follow through a 45. And then you
+3:10 could take this and do that multiple
+3:10 copy multiple copy interval. And maybe I
+3:15 want to make three copies of this and
+3:17 then drag this down at that 45, you
+3:19 know, until [clears throat]
+3:19 they're kind of meeting up in the
+3:20 corners here. Right. So, um, this could
+3:23 be a little bit challenging just
+3:23 depending on um, you know, the angles
+3:26 that you're working with. There we go.
+3:30 This is going to get really close to
+3:30 what I need. I'm actually going to let
+3:33 mine overlap a little bit. I'm just
+3:33 going to cheat a little bit. And so,
+3:36 what this allows me to do is use the
+3:36 marquee select similar and I could just
+3:41 union this. All right. Why would I want
+3:43 to union this? I'll show you. Do I want
+3:46 to retain the original objects? No. And
+3:49 so then back in that overview here, I
+3:49 get to just take this material, spray it
+3:56 on here, it kind of disappears, right?
+3:59 And then use that interactive material
+3:59 tool and change it to a component mode,
+4:04 which when we click here, it's going to
+4:07 make a copy. Now that I have a copy, I
+4:07 get to hit this rotate handle. And while
+4:13 I'm rotating, hit tab or enter and type
+4:13 in 90 degrees. And there we go. I've got
+4:18 my material at a 90 degrees to the
+4:18 original. Okay, there we go. It's about
+4:25 as simple as that. Now I can copy paste
+4:28 this in the corner and just do know a
+4:30 reflect about edge thing. And I might
+4:31 want to conform one of these down,
+4:32 right? So I'm going to slip this down
+4:33 just like this. Pop this down like that.
+4:39 Here we go.
+4:39 And look how clever this looks. I'm
+4:43 going to take that original slap
+4:43 material, paint this guy right here. So
+4:47 there I've got that transition. What
+4:47 does this look like in a 3D view? See if
+4:52 we can get in tight. Bam. Now it's not
+4:54 quite perfect. [clears throat]
+4:54 So we want to use that interactive
+4:56 material editor again. And we're just
+4:59 going to move this edit handle and get
+5:03 this so those slats are just lined up
+5:05 perfect. Now, you might have to do a
+5:05 little bit of jocking of your material
+5:07 region. If you want this to kind of pop
+5:11 a little bit, you can mess around with
+5:11 the bump settings of your core material
+5:17 here. Um, so I'm going to have to do
+5:17 that for a couple different materials
+5:20 here. If I wanted to make this really
+5:23 stand out, maybe make this a 0.05
+5:23 scale bump. And that's going to really
+5:30 make those receding areas pop out.
+5:30 Change this to plan view plan uh painter
+5:36 mode, excuse me.
+5:36 Now, this doesn't look great. I'm just
+5:39 doing this for, you know, an
+5:39 exaggeration, if you will. But there we
+5:45 go. Right. And so, just keep in mind,
+5:47 you could still use that
+5:47 material editor to kind of get this to
+5:51 line up. This is such a great tool for
+5:53 getting features like this all built
+5:55 out, right?
+5:55 Same thing. Get this to just line up a
+6:00 little bit better.
+6:00 There we go. And look at that. Got a
+6:06 little feature border around this.
+6:06 Now, I didn't actually need this guy
+6:08 right here. Could have just left what
+6:10 was already there. That's going to work
+6:12 just fine, right? So, really, all you're
+6:17 doing then is copy paste, reflect about,
+6:20 use that interactive material editor,
+6:22 and we're going to do it in component
+6:22 mode. make one more copy of the material
+6:26 so that we can just drag this out and
+6:26 get it to line up just the way we want
+6:31 it.
+6:31 There we go. We got a border around our
+6:35 fireplace. I think it looks pretty
+6:35 sharp. You could, of course, put one
+6:40 more um
+6:40 one more little border on the outside of
+6:44 this just to get, you know, some relief
+6:46 joints and stuff, but I don't know. I
+6:46 think you can mess around with this and
+6:49 get it exactly perfect. Spend a little

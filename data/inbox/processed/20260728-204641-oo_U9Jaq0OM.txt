@@ -1,0 +1,246 @@
+Title: Create A Parcel Map For Plot Plan in Chief Architect X16
+URL: https://www.youtube.com/watch?v=oo_U9Jaq0OM
+Visibility: public
+
+0:02 we're going to recreate a parcel map
+0:02 using polylines within Chief Architect
+0:05 let me show you how to do this we're in
+0:08 the default residential template first
+0:08 off I'm going to turn off grids and then
+0:12 I've got something to paste from my
+0:12 clipboard so we'll get into that edit
+0:14 paste and I'm going to paste this as a
+0:19 picture here's my assessor parcel map
+0:19 now I want to rescale this so that it's
+0:23 really easy to see because obviously
+0:23 this is going to be drawn a lot larger
+0:24 than what what's shown on the screen but
+0:28 before I rescale notice that I screen
+0:28 clipped a North pointer this is really
+0:32 important it's going to help me out so
+0:34 I'm going to get into the cad menu and
+0:36 then right towards the middle of that
+0:37 menu we'll notice that we've got an
+0:37 North pointer tool all right and then I
+0:39 want to zoom in real tight and get right
+0:45 in the middle of this raster image line
+0:45 right here and draw this up I'm going to
+0:50 hold control to override angle snaps and
+0:52 get that right in the middle there is my
+0:55 North pointer perfect from here I can go
+0:57 ahead and scale this up now once I scale
+1:00 this up I can actually kind of crop this
+1:02 sides if I want to just by drawing these
+1:06 Edge Handles in but keep in mind when I
+1:08 do that if I want to uncrop those sides
+1:10 we still can do that right we're still
+1:13 seeing additional parts of this image
+1:14 now something to note about this
+1:14 particular parcel is that we've got a
+1:17 radius here so it's going to be really
+1:20 challenging to figure out what this
+1:20 section is but if all of these numbers
+1:25 are true this should actually iron out
+1:25 so long as we lock our polyline when we
+1:29 draw that last segment okay so let me go
+1:33 ahead and scale this up so that it's
+1:33 really easy for me to read kind of on
+1:35 the sidebar here and then I need to set
+1:39 this view up now I'm going to switch
+1:39 from the working plan view over to the
+1:44 plot plan view you could work in the
+1:44 working plan view but the benefit of the
+1:49 plot plan view is that we actually do
+1:51 want this line to show up on the plot
+1:51 plan and the plot plan defaults its CAD
+1:54 lines to and I'll show you this you look
+2:02 at Aldo to the cad plot plan layer okay
+2:04 and that's by default all right let me
+2:06 go ahead and delete that now let's go
+2:07 ahead and make sure that you've got
+2:07 pictures and PDF boxes layer turned on
+2:11 for that plot plan so we can see our
+2:12 reference image here and then the next
+2:16 thing I want to do is get into default
+2:16 settings in the plot plan view save plan
+2:23 view now once I'm in default settings
+2:25 let's get to the cad menu General CAD
+2:25 that's going to bring up this dialogue
+2:27 box and we want to define the dis blade
+2:31 line length
+2:31 format here we're going to change our
+2:34 units to foot okay and then change the
+2:38 decimal places too that's going to show
+2:40 us a format preview this is what we want
+2:45 we press okay the next thing is I want
+2:45 to make sure we're have quadrant bearing
+2:50 checked
+2:50 okay it's okay and we're done in this
+2:54 particular view now we don't have view
+3:00 of that North pointer anymore um
+3:00 that's because it's on that working plan
+3:03 view this is the reason why we should
+3:03 have switched to that first off so could
+3:08 always come in here open this up go to
+3:10 line style and the drop down menu and
+3:12 click this down to C plot plan that's
+3:20 up so let's draw out our first line as I
+3:23 draw this line out and I'm holding my
+3:23 left Mouse button right now I'm going to
+3:28 hit tab or enter it's going to bring up
+3:30 this dialogue box
+3:30 if we look I have polar checked by
+3:32 default this is unchecked we want to
+3:33 make sure that this is checked and then
+3:37 the next thing is go ahead and click
+3:37 this number style button from here let's
+3:45 switch down to decimal feet in quadrant
+3:45 bearing okay and press okay that changes
+3:52 our our formatting for the distance and
+3:55 angle so I'm just looking at my parcel
+3:58 map over here and we see the 74.4 but
+4:00 just get to type in 7
+4:00 4.44 without that apostrophe because
+4:03 it's assuming feet because we changed
+4:05 the number style the next thing I get to
+4:10 type in is this bearing which is just
+4:15 type in the letter n space 7 space 8
+4:16 space 45 space West and you're going to
+4:22 notice here I just click in this next
+4:24 window it's going to automatically
+4:24 figure out the formatting for this all
+4:25 right perfect exactly what we want let's
+4:31 press okay now we've got a line drawn
+4:33 and this is to the specifications of
+4:33 this parcel map now let's open this line
+4:38 up get into the line style panel and
+4:40 then make sure that you're showing
+4:40 length and showing angle and what this
+4:44 will do is show that length and angle
+4:47 according to the settings we put in
+4:48 default settings so that's why we
+4:48 changed those formatting options so
+4:51 we've got a start and end indicator if
+4:54 you don't have start and end indicators
+4:56 you can get into preferences and then in
+5:04 the cad panel underneath excuse me in
+5:04 the edit panel underneath the selection
+5:10 setting show start and end indicators
+5:10 you can go ahead and check that on it's
+5:13 going to show us start and end
+5:13 indicators when you have an object
+5:15 selected such as a wall or a line in
+5:18 this case now let's grab this end edit
+5:24 handle right here which is usually a
+5:24 diamond shape okay and so we're going to
+5:27 continue this line out I'm going to draw
+5:30 it in this direction it tab or enter
+5:30 while I'm still drawing this out and I
+5:33 can type in that
+5:33 55.67 ft and then change this to North
+5:42 58 53
+5:42 West there we go that's looking pretty
+5:44 good let's do this again we're going to
+5:48 draw this down and I want you to notice
+5:50 something as I'm drawing this notice
+5:52 that it shows
+5:52 South Bearing West and notice that our
+5:59 assessors map shows North bearing East
+6:02 don't worry about that just worry that
+6:03 you've got this going in the general
+6:03 right direction okay and I'll show you
+6:08 how to correct this later on so we're
+6:08 going to draw this out hit tab or enter
+6:12 I'm going to type in that
+6:12 62.3 6 and then tab down North I'm not
+6:19 going to put North in this case I'm
+6:21 going to leave it the way it was it
+6:21 showed South bearing East we need to
+6:24 leave that exactly the way it was but
+6:26 we're still going to put in the numbers
+6:32 as if it was North bearing East okay so
+6:35 here we go so I'm going to go south 59
+6:37 space 48
+6:37 space 30 and actually it was West there
+6:45 we go press okay all right we're just
+6:45 going to go past this I'll show you how
+6:49 to correct this in a minute let's draw
+6:51 this next part out same problem is
+6:51 showing up that North Bearing West is
+6:53 showing South bearing East in our poly
+7:00 line so let me just hit tabber aner 84
+7:00 61 okay tab next and then we're going to
+7:06 go
+7:06 south or
+7:12 34 10
+7:12 East it's okay right there we go now the
+7:19 last part of this is I could just close
+7:22 this polyline right so in my edit menu
+7:22 here it's this icon close polyline this
+7:28 is going to close this up now this
+7:28 particular polyline needs to be an arc
+7:30 so I'm selecting it we can see that I've
+7:34 got the edge handle selected and in the
+7:37 edit menu I'm going to go ahead and
+7:37 choose this guy right here change line
+7:43 to Arc Versa there's our Arc now while
+7:46 this is still selected here's what I
+7:48 want to do I'm going to
+7:48 change this radius we can see that the
+7:55 overall length is 105 radius is 650
+7:55 let's go ahead and open this up and see
+7:59 if we can't conform this now something
+7:59 to keep in mind is that selected Arc we
+8:05 want to actually lock our start and end
+8:08 point in fact we want to lock in this
+8:08 case our cord length right so the only
+8:12 other thing that we're doing then is
+8:14 changing that
+8:14 radius our radius is right here and it's
+8:21 showing radius is 650 which seems like
+8:21 it might be a bit off so we'll see what
+8:25 this ends up
+8:25 being there we go that's it and look at
+8:30 this shows up at 105 and I have not
+8:31 practiced this video so that's pretty
+8:32 dead on the money now the last thing to
+8:35 do was make sure that we conformed these
+8:39 two polylines which were incorrect so
+8:41 I'm going to move this over just a
+8:41 little bit and what I'm going to do is
+8:46 I'm going to disconnect this segment
+8:48 okay so I'm going to disconnect that
+8:50 selected Edge and while it's
+8:50 disconnected and before I jump off of it
+8:55 I want to reverse the direction Watch
+8:55 What Happens that bearing changes okay
+9:02 same thing here disconnect reverse
+9:02 Direction there we go now it's showing
+9:07 appropriately okay now if you need to
+9:07 because these are not going to connect
+9:12 anymore right like if we wanted to try
+9:14 to connect this we could try to extend
+9:16 the object and draw a line through the
+9:16 neighboring polyline but you're going to
+9:21 notice that It reversed those directions
+9:24 again so if we wanted to maintain these
+9:26 there we go this is not going to be a
+9:28 closed polyline which means we cannot
+9:30 report area from it so what you might
+9:34 want to do is just select all these
+9:34 polylines together make a copy of them
+9:38 bring them off to the side open them up
+9:44 we do not want to show length and angle
+9:44 press okay and then all we need to do is
+9:49 extend
+9:49 this through that polar line oops I used
+9:53 the trim command instead of extend
+9:53 extend this through and now we have a
+9:56 closed poly line again that could report
+10:00 area if you need to
+10:00 so you could obviously place this right
+10:05 underneath this other guy here and you
+10:07 can even open it up and say the line
+10:07 style is some kind of blank line style
+10:13 wanted to so there we
+10:13 go let me know if you have any

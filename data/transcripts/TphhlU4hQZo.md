@@ -1,0 +1,199 @@
+---
+videoId: TphhlU4hQZo
+title: Split Floors in CA x10
+url: "https://www.youtube.com/watch?v=TphhlU4hQZo"
+status: imported
+---
+
+# Transcript
+
+0:03 okay hey yeah Brad bolts just thought
+0:05 I'd make a quick video kind of
+0:05 explaining what I'm talking about about
+0:07 florid defaults in split levels and just
+0:13 starting in right away if I'm doing a
+0:15 lot of split levels it's worth it to
+0:15 right-click on my toolbar hit customize
+0:22 toolbars and do a quick search for more
+0:25 defaults and I'm gonna grab this and
+0:27 drag it right to the right of an
+0:27 existing icon it's gonna place it in
+0:32 that same toolbar which is this guy
+0:36 right here right and so now I have
+0:36 access to floor defaults because we're
+0:37 gonna be using that a lot and I haven't
+0:41 really thought this video through we're
+0:43 just gonna shoot from the hip sort of
+0:45 speak so let's just make a floor and
+0:48 let's see if I can remember my draw
+0:48 order I'm gonna go clockwise because I'm
+0:51 terrible at that
+0:51 and a 20-foot building let's just make
+1:02 it a 40-foot building so there's a few
+1:02 caveats with it with doing a split-level
+1:08 with some of your levels being less than
+1:11 like 8 foot what happens is the head
+1:11 height the header height and your doors
+1:18 automatically shrink down to the height
+1:18 of your floor height so that's kind of a
+1:23 caveat kind of screws you up sometimes
+1:23 but maybe it's worth it if you're doing
+1:29 a lot of crazy split levels so first
+1:29 level let's just draw an interior room
+1:31 let's draw another interior room this is
+1:40 not my this is not my plan set so it
+1:41 doesn't have my layer colors but
+1:41 whatever and let's just make this space
+1:48 open below we're going to just say that
+1:51 this is like a crawlspace and let's get
+1:51 this view up a little bit here so I made
+1:57 a crawlspace let's turn on automatic
+2:07 foundations okay
+2:07 so we made a crawlspace and now we're
+2:09 gonna build a nether floor and I'm just
+2:15 gonna say drive it from the existing
+2:17 floor pan I'm not going to touch the
+2:17 defaults right now kind of purpose of
+2:24 the exercise and let's turn on my
+2:24 reference layers mm-hmm so I can see
+2:29 this interior wall and let's just go
+2:29 ahead and match what's there we'll do
+2:32 like three levels maybe hey I remember
+2:38 the drawer BAM that wind up perfectly
+2:40 and so now I'm gonna say that this is
+2:42 gonna be open below and what's gonna
+2:42 happen is we're gonna see that mmm that
+2:48 floor below will do it here too why not
+2:50 we'll make kind of an interesting
+2:50 structure open below and so in 3d there
+2:57 we go and I already know what I want to
+2:59 do here I'm gonna make this wall
+2:59 invisible it's gonna be an invisible
+3:02 wall and I'll show you why because let's
+3:10 go ahead and clip this view see if I
+3:10 know which one it is off the bat is it
+3:12 this one
+3:12 it is flip this view we'll see that
+3:16 level BAM and it's a perfect example
+3:20 right here we're on 2nd level I'm gonna
+3:24 hit that floor defaults which is going
+3:24 to take me to the floor to defaults and
+3:31 actually I'm gonna go down a level I'm
+3:31 gonna go down a level takes me to floor
+3:33 1 defaults and I'm gonna make this floor
+3:41 36 inches and look what happens it drops
+3:43 the whole floor now if we go up to level
+3:46 2 we've got this platform it you know
+3:48 it's like a it's like a sunken family
+3:48 room so to speak and I'll show you right
+3:56 now here's the negative here's the big
+3:58 fat negative I want to go place a door
+4:00 look what happens it shrinks that door
+4:05 and what a painted but but maybe it's
+4:07 quicker and easier to organize your
+4:08 floor's
+4:08 by just dealing with that door and
+4:11 balloon framing these right this needs
+4:22 so let's go do another floor
+4:22 why not insert another floor build new
+4:25 floor yes all the same things and we've
+4:34 got my reference set on still and here
+4:35 we'll do something kind of weird we'll
+4:38 make a balcony well oops wrong wrong
+4:42 draw order there we go
+4:42 make a balcony and I think I started
+4:45 from this side I did and so this room is
+4:52 gonna be defined as a balcony and I'm
+5:05 turn them into railings and let's just
+5:06 see what we've got
+5:06 floor 3 on graphics oh and what did I do
+5:17 here I've got a reversed layers here
+5:21 there we go and just for a reference
+5:21 let's throw let's throw a couple sliders
+5:31 in here why not in a window why not
+5:31 weird window in a weird place because
+5:38 we're gonna delete this floor here so
+5:47 again I can come in here and with my
+5:47 wall tool draw this interior partition
+5:54 wall and we're gonna make this open
+6:08 kind of cool kind of tricky I mean this
+6:10 would make no sense this the ceiling
+6:10 height right here is makes no sense so
+6:17 maybe we'll drag this wall over make a
+6:20 funny little corridor right and then
+6:24 maybe we'll try that same we'll draw
+6:24 that same wall down below I just copied
+6:35 pasted it in place there and then so
+6:38 back up a level all of a sudden this
+6:51 for some reason it didn't translate here
+6:53 turned in office because I hate the
+6:53 wrong thing there we go so look at that
+6:57 we've got this crazy kind of split-level
+7:04 thing staircase up from this platform
+7:04 etc you know the scaling of this is all
+7:14 wrong but we kind of get the concept
+7:14 here right is that with this method I
+7:22 can do a crazy number of different
+7:22 levels and mmm so make more sense right
+7:39 and I mean if we scale this thing all
+7:39 out appropriately maybe that makes more
+7:45 sense as well all right if these rooms
+7:50 become a little bit more feasible in
+8:01 we'll still have this cantilever why not
+8:06 line this wall up with the one below why
+8:09 not even lying this exterior will have
+8:09 the biggest balcony and we've ever seen
+8:36 it's got changed somehow so let's make
+8:45 yeah look what we've got let's just
+8:45 create a terrain perimeter and get it
+8:47 some reference here and it's but that's
+8:53 that section view back on cuz now wants
+9:01 the section off the train we will even
+9:05 make it so that I train intersected by
+9:06 building we're gonna let that terrain
+9:07 flow through and look at that I've got
+9:12 this crazy split-level and I can and I
+9:17 can go to floor 2 and I can change my
+9:17 defaults for floor to actually you know
+9:19 what
+9:19 so we can see it in 3d let's go ahead
+9:24 and keep that going we'll do it over
+9:27 here so I can go to floor to hit my
+9:29 defaults button again say I want a
+9:29 ten-foot ceiling height right and kind
+9:36 of a trick to this in my defaults here
+9:38 look like my ceiling height show my
+9:38 ceiling shows 170 170 is the height of
+9:45 that first split-level and my second
+9:45 ceiling height together so essentially
+9:51 if I'm if I'm not actually if I'm
+9:51 calling this all one floor here this
+9:56 area wall one floor now I know my
+9:56 ceiling heights 170 so again it's simple
+10:01 little caveats you need to be able to do
+10:03 a little bit of math to show what your
+10:03 Heights are but you could all do that in
+10:07 elevation with CAD lines and dimension
+10:11 tools and then you've got like solid
+10:13 control over where your levels are I
+10:13 mean you could have made this balcony a
+10:16 different level you can made this you
+10:18 know a different level as well I mean
+10:20 you can keep going like this and have
+10:22 them being on different platforms it
+10:22 just gets a little tricky but knowing
+10:29 kind of the process off the bat here
+10:29 helps you visualize I think at the very
+10:34 least and so I've done it like this
+10:37 before it's it's not always my
+10:37 preference I do prefer it when I've got
+10:44 you know ten rooms at different floor
+10:44 Heights it just gets really tricky and
+10:50 how do you keep them locked I guess is
+10:53 the main question so this is kind of a
+10:55 way to keeping them locked because so
+10:55 long as they're checked as default they
+11:00 will correspond with your floor default
+11:02 which is you know kind of a powerful
+11:02 tool so I hope that helped or at least
+11:04 shed some light on on what I was talking

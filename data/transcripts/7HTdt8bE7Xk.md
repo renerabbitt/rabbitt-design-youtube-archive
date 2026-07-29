@@ -1,0 +1,123 @@
+---
+videoId: 7HTdt8bE7Xk
+title: Driving Linked Callouts from a Note Schedule-Chief Architect X-14
+url: "https://www.youtube.com/watch?v=7HTdt8bE7Xk"
+status: imported
+---
+
+# Transcript
+
+0:03 okay here's a quick tip we're in x 14
+0:03 beta and we're this is a user requested
+0:08 video but it's a quick tip about
+0:10 linking call outs
+0:11 that are linked
+0:14 to views
+0:14 linking those callouts that are linked
+0:16 to views linking them to a note and then
+0:20 having that note report to a schedule
+0:22 and being able to reorder
+0:22 your call out labels based on that that
+0:27 are sent to layout boy that's that's
+0:28 even different i don't even have a
+0:28 script that's so difficult to even say
+0:30 so let's just dive in i'm going to be in
+0:34 plan view here on the right hand side
+0:35 and i'm just going to start with
+0:36 dropping in a note and that note is
+0:38 going to say that it's a typical wall
+0:41 detail because that's what i want to you
+0:45 know specify this for
+0:45 so typical wall detail there we go
+0:50 and you see it shows up here in my
+0:50 planned keynotes and i'm actually going
+0:53 to make a copy of this just so we see
+0:55 what exactly is happening here and i
+0:55 need to change the name so this is going
+1:02 okay so we have two notes named
+1:02 differently you can see it in our floor
+1:05 plan keynotes of course i would call
+1:07 this you know detail plan
+1:07 schedule or something like that
+1:09 so now i want to drop in a call out and
+1:11 the call out is going to be specifically
+1:16 written to utilize a global macro so i'm
+1:19 going to create a macro that is
+1:21 our dollar sign
+1:21 and we're going to just call this macro
+1:23 tip wall
+1:24 and that's going to equal the simple
+1:28 schedule see if i can spell this right
+1:32 number if you don't spell it right
+1:32 you're in deep trouble it's not going to
+1:35 work so
+1:35 simple schedule number and then the last
+1:38 part of this is i need to click on this
+1:40 callout and link it
+1:40 excuse me reference it to
+1:43 this note now you can see here it's
+1:45 pulling
+1:46 that notes simple schedule number now
+1:48 you can get more advanced than this but
+1:52 for the purpose of this video
+1:52 that's what i'm doing because it's
+1:53 already kind of complicated right so
+1:58 what we're doing is we're taking the
+1:58 simple schedule number of this note and
+2:03 having it report to a global macro
+2:06 titled tip wall
+2:07 now
+2:07 the next thing i want to do is i want to
+2:12 take this call out and i want to link it
+2:14 to my detail
+2:14 i'm going to link it to that typical
+2:20 detail typical wall okay
+2:20 now we're not in my detail typical wall
+2:25 we're just in plan view here
+2:25 didn't really matter that i'm i'm in
+2:27 this
+2:28 because
+2:28 there's another purpose to this whole
+2:31 thing i'm going to open up my project
+2:31 browser i'm going to open up my detail
+2:35 typical wall
+2:36 here we go i want to send this to layout
+2:42 start playing a current screen is fine
+2:43 there we go
+2:43 so here we are and
+2:45 this is labeled appropriately right
+2:47 detail typical wall we see that part but
+2:51 we're missing that call out so let me
+2:51 open this up and in our label panel i'm
+2:56 going to use that in the label options
+2:59 section under the use call out
+3:00 radio button
+3:00 in our call out label
+3:03 i'm going to put that macro that i
+3:11 and then i'll
+3:11 adjust my line style to be that default
+3:15 line style and then the callout itself
+3:18 would be a circle there we go
+3:21 now you can see here this is
+3:23 my detail sent to view
+3:24 and
+3:24 if we close this detail out
+3:27 we're gonna see if we get in on this
+3:30 side
+3:30 and reorder my note schedule you can see
+3:35 look it changed here number two
+3:35 now i've got a number two over here
+3:38 you can see it's dynamically changing as
+3:42 i reorder the schedule so that if we
+3:43 create you know
+3:43 some more notes and we change them to
+3:47 something else
+3:47 same thing we can just reorder these on
+3:51 the fly and be able to have kind of a
+3:51 dynamic labeling system for our details
+3:56 i'm sure there's going to be some
+3:56 questions about this i know it's a
+3:59 little bit complicated
+3:59 anyways drop some comments in if you
+4:03 found this on chief talk or facebook
+4:03 feel free to tag me drop some comments

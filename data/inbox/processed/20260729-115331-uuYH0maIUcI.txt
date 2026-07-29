@@ -1,0 +1,381 @@
+Title: Gutter Guard On Roofs In Chief Architect
+URL: https://www.youtube.com/watch?v=uuYH0maIUcI
+Visibility: members-only
+
+0:01 What's going on VIP? Uh we're going to
+0:02 make a metal perforated gutter guard in
+0:05 this video. And so I want you to start
+0:07 by going to my website rabbdesign.net.
+0:09 There's a really cool utility in here in
+0:12 the drafting tools, texture creating
+0:14 tools. There's a Google advanced search.
+0:16 Makes it really easy to find maybe some
+0:18 existing textures. And so I'm going to
+0:20 look for something that might look like
+0:22 a gutter guard. So I'm going to just
+0:24 going to say metal and perforation.
+0:27 And take a quick glance through these.
+0:31 And so looks like there's a few that
+0:33 might be applicable to what I'm looking
+0:35 for. That one actually looks pretty
+0:36 good. And then let's just take this one
+0:39 as an example. I'm just going to copy
+0:41 this image right from here. Okay. And
+0:43 then I'm going to um in my channel I'm
+0:45 going to start showing you the use of
+0:47 Photopea. I prefer using Photoshop, but
+0:50 you can use Photopea instead. It's a
+0:53 really close kind of port of Photoshop.
+0:56 And so I can just kind of click in the
+0:58 window here, hit control V, and paste
+1:01 that image. And we're right into editing
+1:02 this image. Now um notice that there's a
+1:05 watermark stamp here. You know, I should
+1:08 go pay this person to go um utilize this
+1:11 texture even though I copied the low
+1:13 resolution version of it, which is
+1:16 kind of for use. So um
+1:18 and then I'm just going to use the stamp
+1:20 tool. I hit the S key. That gets us to
+1:22 the stamp tool. And I'm going to pick a
+1:24 target area. So the target area here is
+1:28 picked by hitting the alt button and
+1:30 then left clicking. That allows us to
+1:32 then um hit the alt button, right click,
+1:35 drag to the right to increase our brush
+1:38 size to kind of understand what we
+1:40 picked a stamp from. And you can notice
+1:42 here that the perforation is actually
+1:44 different size here. So it's not the
+1:46 best stamp location. You might have to
+1:48 try a couple times on your texture. Who
+1:50 knows? Now the scale of the stamp tool,
+1:53 I'm not sure that we get the ability to
+1:55 change that. But if we get in here
+1:58 and look at maybe tool it's going to be
+2:00 called the clone tool. Yeah, it doesn't
+2:02 look like we have a window to adjust the
+2:04 clone tool or I don't know where those
+2:06 adjustments live.
+2:08 Adjustments, I'm not sure, so um doesn't
+2:11 seem to be that
+2:14 I know where I can adjust
+2:16 that stamp tool's size in relationship
+2:19 to scale. So, um I'm just going to have
+2:22 to kind of mess around here. So, here's
+2:24 what I'm going to do. I'm going to get
+2:25 close enough
+2:27 here and then just draw this through and
+2:29 so I'm picking up from a different part
+2:32 of this texture
+2:33 and I complete the look of this.
+2:37 I'm going to get close, but I'm not
+2:39 going to get perfect. Just is what it
+2:41 is. There we go. That's very close. Now,
+2:45 keep in mind this particular texture
+2:46 because I copied it
+2:48 um actually has a background. Typically,
+2:50 these checker marks indicate this is a
+2:52 PNG and that's transparency, but I
+2:55 copied this image, so it actually does
+2:57 have a background that I would have to
+2:58 get rid of. And so there is a way that I
+3:00 can do that um rather quickly, I might
+3:03 add, which is that I'm going to
+3:04 double-click my layer. I'm going to
+3:06 double-click my layer. This is going to
+3:07 get us into a layer style and then I'm
+3:10 going to take the slider down where we
+3:12 blend the current layer to the layer
+3:14 behind. And so what this is doing is
+3:16 it's actually removing that checker box
+3:19 in between all that black corrugate. So,
+3:21 there we go. I removed that. Now, if I
+3:24 wanted to commit that layer style, I
+3:26 could just group this layer. This would
+3:28 be a Photoshop workflow. Control-G to
+3:31 group this layer. Control-E to stamp
+3:33 that layer. We now destructively removed
+3:35 the pixels that were there, right? We
+3:37 can't recover those pixels. These
+3:39 checker boxes now actually indicate
+3:41 transparency.
+3:43 And so the last thing I want to do here
+3:45 is add a new adjustment layer that is a
+3:47 color fill adjustment layer. I'm going
+3:50 to choose white or maybe slightly
+3:52 off-white and then I can alt-click on
+3:55 this layer to make it so that it applies
+3:58 to only the pixels in the layer below.
+4:01 So now it's not filling in those
+4:03 transparent pixels. It is only filling
+4:07 in that corrugated section and something
+4:09 that I could do is then I could change
+4:11 this blend mode to only affect certain
+4:14 parts of those pixels below just by kind
+4:16 of changing the blend mode and we can
+4:18 see here one of the things that I could
+4:20 do is I could just lighten or I can
+4:22 maybe do a soft light or
+4:26 hard light and something in between and
+4:28 I might just change the opacity of this
+4:31 so as I get a little bit of the features
+4:33 of the original texture back through
+4:34 this with a little bit of shadowing.
+4:37 Totally up to you if you want to do it
+4:38 like this or not. Now if we want to
+4:39 check to see if this is a repeating
+4:42 pattern or not, we'll get into the view
+4:45 menu and we'll get into pattern preview
+4:48 and it's kind of span out and we can see
+4:50 this is a repeating texture. It's pretty
+4:52 good. All right. So the last thing that
+4:54 I would do in Photoshop is I'd hit
+4:56 control-alt-shift-W
+4:58 and that would get us the export menu.
+5:00 That doesn't work here so I have to get
+5:02 into export as PNG.
+5:04 Let's go ahead and save this somewhere
+5:06 on my machine where we know where it is.
+5:09 I did an uh version of this before so
+5:12 white middle slotted corrugated so we're
+5:13 going to take that. All right.
+5:16 Now let's get into
+5:18 uh Chief Architect and let me just open
+5:22 up a plan real quick so that I can draw
+5:26 in some walls
+5:28 so that we can take a look at my gutter
+5:30 profile. I'll do a little back flipped
+5:33 cross-section. Now there is a trick with
+5:35 my 3D profiles which is that you're
+5:38 going to notice that this is a
+5:39 single-line profile, okay? Until it gets
+5:42 to this drip edge and then it returns on
+5:45 itself and that essentially makes some
+5:48 thickness, but what's great about Chief
+5:50 is Chief understands wherever you drew
+5:53 the last point here that it's going to
+5:55 connect the end of this on a profile
+5:57 like that. So, that's great. It actually
+5:58 closes up the end. It creates an end
+6:00 cap, if you will. So, all I really need
+6:03 is I need some new molding profile
+6:06 that's just going to go from here, and
+6:08 in this case, I'd probably want to
+6:10 adjust this gutter upwards. In fact, I'm
+6:12 going to do that.
+6:15 So, this gutter vertical offset, let's
+6:17 just say that it's 0 in. Let's see what
+6:19 happens with that. See if this adjusts
+6:21 up. Yeah, it does. And then, I need a
+6:24 profile that pretty much just looks like
+6:26 this, okay? Something like that. All
+6:29 right. So, I can take this. Now, if I
+6:32 shift-click this,
+6:34 I can make it a block. That's not really
+6:36 helpful. Really, what I want to do is I
+6:39 want to add this to the library, right?
+6:41 And so, if I break it, create a break,
+6:44 and then simplify the break, now this is
+6:47 a polyline, and a polyline can become a
+6:50 molding. So, I get to add this to the
+6:52 library now. This molding is now there,
+6:55 and I could say this is going to be
+6:57 gutter guard.
+6:59 Okay.
+7:00 From there, user catalog, new material,
+7:04 and we're just going to say gutter
+7:06 guard.
+7:07 And in the texture panel, I'm going to
+7:10 shift-click import my texture source,
+7:14 which is white mill slotted cord.
+7:17 There we go.
+7:19 And that's what it's looking like.
+7:20 Pretty good. I don't know that I need to
+7:22 do a lot more than this. The properties
+7:23 has a It's like a medium roughness.
+7:26 Maybe we'll drop that roughness down
+7:28 have it be a little bit more shiny. If
+7:30 you were to do metallic, it's going to
+7:32 be a little bit, you know, not quite
+7:34 look right. I would say let's just leave
+7:36 this with a real low roughness, and that
+7:38 would be close enough. Now, the size of
+7:41 this is going to matter, and you might
+7:42 have to adjust this on the fly. For me,
+7:44 I'm assuming that this is going to be
+7:46 something like 4-in scale. Um but, I
+7:50 could go actually match some corrugate
+7:52 online if I found some profile for a
+7:53 gutter guard. So, next thing is I'm
+7:56 going to get into the build roof menu
+7:58 again. This time, I'm going to add a new
+8:01 molding, and we're going to find in my
+8:04 user catalog, there's that gutter guard
+8:06 molding.
+8:08 All right.
+8:09 And
+8:10 uh what's interesting about this? Well,
+8:12 it didn't seem to be applying in the way
+8:15 that I wanted it to.
+8:18 Let's actually delete this. I think that
+8:19 was the wrong one. I think I made a
+8:21 different version of the that was 3D, so
+8:24 looks like three gutter gutter guard
+8:27 gutter guard.
+8:30 There we go. Molding. I forgot to name
+8:32 it or I named the wrong thing. Now, we
+8:34 can see its relationship to the existing
+8:37 molding. It would be easy enough for us
+8:40 to just measure this in CAD and do the
+8:42 correct offset. Um I don't know that I
+8:44 need to do that. Um if I made this a
+8:47 stacked molding,
+8:49 you know, does that improve anything?
+8:51 Not really. It just means we can move it
+8:53 together as one. I mean, that's kind of
+8:55 cool. Um so, I'm going to explode the
+8:57 stack. So, for this molding,
+9:00 let me go ahead and do a little vertical
+9:01 offset of like one, and we can see we're
+9:03 getting pretty close, and then the
+9:05 horizontal offset of uh maybe negative
+9:09 half an inch, and really close. And I
+9:13 would almost say that that's close
+9:15 enough.
+9:16 Go next.
+9:17 Eighth of an inch, and we're going to be
+9:20 almost right on L money. There we go.
+9:23 And so, kind of the last thing that I
+9:26 want to do here is let me get that open
+9:29 one more time, actually, and let's take
+9:32 a look at materials, and then we've got
+9:34 that molding is right here. Double click
+9:37 that, get into my library materials
+9:40 where I just made that.
+9:43 Okay.
+9:45 Now let's go ahead and pull a 3D view.
+9:48 Take a look at our handiwork. See how
+9:49 close we got.
+9:51 And as I get in here, yes, that does in
+9:54 fact look like we got a gutter guard
+9:56 material in there. And it looks like it
+9:59 might also need to be I changed the
+10:01 global symbol mapping will help some
+10:03 things and it looks like it also needs
+10:05 to be turned at a 90°.
+10:08 Okay, so automatically it looks like
+10:10 that molding's going to be automatically
+10:12 turned in 3. There we go. And then maybe
+10:15 a little bit of a size as well.
+10:18 size
+10:21 So there we go. I've got a gutter guard
+10:24 on
+10:26 the top of my profiles. Now if we wanted
+10:29 to get really really clever, we probably
+10:31 could have come back to that material
+10:33 and this is
+10:35 I think this is a decent lesson to talk
+10:37 about is let's um
+10:40 fix our material. Let's say that our
+10:41 material is not perfect. So I'm going to
+10:44 uncheck pattern preview in this case.
+10:47 I'm going to hit the C key to adjust the
+10:49 crop. I'm going to hold alt. That means
+10:51 that it's concentrically
+10:53 resizing this, expanding the pixels
+10:55 here. And what I'm trying to do here is
+11:00 um I'm going to fill in this material to
+11:03 create kind of a stop in between these
+11:05 profiles. And before I even do that, I
+11:07 might want to repeat this a few times.
+11:10 So I'm going to go ahead and shift
+11:12 select all my layers, group them, and
+11:15 then stamp them. So control G, control
+11:17 E, stamp that forward and control A to
+11:21 select all pixels, control C to copy.
+11:24 This would be a workflow that I do in
+11:26 Photoshop. And now that I have that
+11:29 copy, I might even control J to
+11:31 duplicate that layer just as kind of a
+11:33 backup. And then in canvas size, what I
+11:36 want to do is scale the width of this
+11:38 thing maybe four times. So, times four
+11:42 and there we go. Height ratio 4:1. Okay.
+11:47 Now, I'm still in the crop mode, which
+11:49 is why we're seeing a crop preview. So,
+11:51 I'm going to get out of that. I just hit
+11:52 the V key instead. And
+11:55 with the V key, that means I get to move
+11:57 this pixel over there. Like that. So,
+12:01 I'm just
+12:02 kind of dumping these side by side. You
+12:04 can see that they're snapping to each
+12:06 other. If I hold Alt while now left
+12:09 clicking and dragging, I'm dragging out
+12:12 another copy. And so, if I did that one
+12:14 more time, we would have a pattern of
+12:18 four stacked right next to each other.
+12:21 Let's go ahead and shift select all
+12:22 these, group them, stamp them. We've got
+12:25 one layer now. Let me do that crop. Hold
+12:28 Alt and concentrically resize this. Why
+12:31 am I doing that? Because I'm going to
+12:33 hit G, which is the paint bucket tool.
+12:35 If I hit Shift G, that's going to get me
+12:37 to the paint bucket tool. It was
+12:39 actually on
+12:40 a gradient fill. And then I want to make
+12:43 sure that my layer color is white. And
+12:45 right now, it's black. If I hit the X
+12:47 key, it reverses the foreground and
+12:50 background colors. Now, I am painting
+12:52 with white. I'm in the paint bucket
+12:55 tool. I get to paint bucket the edge
+12:58 here. Maybe I'll go back a few steps.
+13:01 I'll Alt click on some zone in the
+13:04 pixels here to get the right color. Now,
+13:06 I'll paint bucket in there. That looks a
+13:08 little bit better. Okay.
+13:11 Now that I have that, let me go ahead
+13:14 and export this as a PNG again. I'm
+13:17 going to overwrite my existing PNG.
+13:21 Okay? Which is right here, this white
+13:23 slot metal. Let's replace it. I'm going
+13:26 to get back to Chief Architect. I'm
+13:28 going to get into my tools asset manager
+13:31 or just adjust the material either way.
+13:34 So, I'm going to adjust the material in
+13:36 this case. I'm going to hit select this
+13:39 time, not import because
+13:42 instead of having a duplicate texture in
+13:44 here, I actually want to replace with.
+13:48 So, I want to replace with my new
+13:50 updated version, all right? So, back in
+13:54 here, there's my updated version. Let me
+13:56 press okay. And then we're going to have
+13:58 to change the overall scale of this. We
+14:00 know that it had to go 90. So, X scale
+14:03 is actually technically the width. It's
+14:05 just turned 90. So, in this case, we're
+14:08 doing four times that, too. So, we got
+14:11 eight or maybe roughly nine. All right?
+14:14 We press okay. Let's see what happens.
+14:16 Look at that. Now I have those stops in
+14:18 between.
+14:20 And that looks a little bit more
+14:22 accurate to me. It's almost like having
+14:23 those clips you might see in the gutters
+14:27 or overlays or whatever. Now, you can
+14:29 get really tight and clear with how you
+14:31 want to do this, but for me, I think
+14:33 this looks pretty good. It's exactly
+14:35 what I wanted out of this video. There
+14:37 we go.
+14:39 Hopefully you got some cool tricks out
+14:41 of this. Go check out Photopea. Try it
+14:43 out. Maybe get uh
+14:45 touch with your artistic side, learn how
+14:47 to make some really cool advanced
+14:48 materials.
+14:50 Cheers.

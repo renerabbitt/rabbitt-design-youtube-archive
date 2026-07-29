@@ -1,0 +1,29 @@
+Title: Placing a fixture on top of a fixture in Chief Architect
+URL: https://www.youtube.com/watch?v=RwY5LLc9-eo
+Visibility: public
+
+0:03 I've got a fixture here and you can see
+0:05 that it's showing the preview of that
+0:06 fixture but as soon as I cross the
+0:06 bounds of an existing fixture that's
+0:11 already placed we lose that
+0:11 fixture on our mouse cursor and what
+0:13 happens when I click Above This tub well
+0:17 it's just going to select that other
+0:17 fixture because it's seeing that there's
+0:22 a fixture there it's changing to the you
+0:25 know an object select mode so when I
+0:25 click up here and we see that we've got
+0:28 that fixture attached well how do I get
+0:30 it to place above this tub without
+0:30 having to place it first and then move
+0:33 it in place
+0:33 well a really simple easy trick is click
+0:39 up here hold your mouse button down drag
+0:41 your mouse cursor to where you would
+0:41 want to place that fixture and then let
+0:46 go of your mouse button and it will in
+0:46 fact place in the correct place and then
+0:50 the last thing that I need to do is I
+0:51 need to move this up in the drawing
+0:51 order just a little bit so that it shows

@@ -1,0 +1,130 @@
+Title: Ai Filling Out Designer And Client Information In Chief Architect X17
+URL: https://www.youtube.com/watch?v=qX0NBZqfL-o
+Visibility: public
+
+0:02 What's going on, ProPlan users? I've got
+0:04 a quick tip for you here today. I'm
+0:06 going to show you how to set up the
+0:06 client and designer info CSV. Okay, so
+0:11 first thing I want to do is I want to
+0:12 get to where I keep my project
+0:12 directory. And this works for a Mac or a
+0:17 PC. And you're going to copy that
+0:17 project directory. We're going to copy
+0:21 that. Then come back to your Chief
+0:21 Architect X17. Get back into your Pro
+0:27 plan here. Open up the Pro plan
+0:27 new file. Get into project information.
+0:34 Open this polyline. And I want you to
+0:34 navigate to the object information panel
+0:39 and get down to macro input 3. And
+0:39 that's where you're going to paste your
+0:43 project directory. Okay. Then press
+0:43 okay. Now I want you to go ahead and
+0:46 close Windows out. Make sure you save.
+0:51 And now this is updated with the root
+0:53 project directory for your particular
+0:53 project. Okay. Next thing I want to do
+0:59 is I want to um just make a copy of my
+1:01 pro plan project. That's going to mean
+1:04 I'm going to make a new project. Okay.
+1:07 So, I'm going to make a copy of this.
+1:10 The naming convention of this copy
+1:12 indicates the subfolders for Chief
+1:12 Architect to look through to find your
+1:14 designer and client information. So, you
+1:20 need to name this accordingly. And in
+1:22 this case, this is going to be for me
+1:25 Martinez construction
+1:25 and space dash space rabbit design
+1:29 portal. And in fact, I'm even going to
+1:31 have one more space dash space. And this
+1:37 is going to be the altir project. Okay.
+1:37 So what this means is it's looking in my
+1:41 root directory for the Martinez
+1:41 construction directory. Subdirectory
+1:46 rabbit design portal subdirectory
+1:46 Altameir. And then what we'll do is we
+1:49 need to make sure that those are there.
+1:52 All right. So, we need to make that
+1:52 directory. Um, something that you could
+1:56 do is you could come in if you do have
+1:58 Cursor AI installed on your machine
+1:58 because you've been following my VIP
+2:00 membership channel, you could come into
+2:02 Cursor AI, load up your projects folder.
+2:09 Okay? So, load that up, meaning you go
+2:11 file, open folder, find your projects
+2:14 folder, and then you can instruct the
+2:16 AI.
+2:16 I need you to make some new folders. One
+2:21 is going to be Martinez Construction.
+2:22 Then there's going to be a subfolder
+2:22 called Rabbit Design Portal. And then
+2:25 there's going to be a subfolder of that
+2:34 And then just make sure that the
+2:37 spelling Oops.
+2:37 Make sure that the spelling is correct.
+2:41 Right. So just make sure that that
+2:41 spelling is perfect. So we don't need to
+2:44 mess around with editing or anything
+2:46 like that. And I go ahead and press
+2:46 enter. And if I look on the right hand
+2:50 side here in just a minute, we should
+2:51 see that there we go. We've got a
+2:51 Martinez construction. We've got a
+2:55 rabbit design portal. We've got an
+2:55 altir. That's great. Awesome. So, if I
+3:02 come back to Chief, I get to export by
+3:04 shift selecting the client designer
+3:04 information. Export. Okay. That's going
+3:09 to bring this up. I'm going to find
+3:09 projects. I'm going to find my Martinez
+3:14 construction.
+3:14 There we go. And I get to put it in this
+3:19 alt mirror. And now I've exported it.
+3:22 Here's the next part. Cursor AI. This
+3:22 makes this really, really easy is we can
+3:29 come back to cursor AI and say
+3:29 we're going to just do a little at web.
+3:33 So we're going to do at web, hit enter,
+3:34 and then I'm going to do a little voice
+3:37 to text again. I'd like you to look up
+3:40 Dan Martinez Construction based out of
+3:40 Oakland, California, and replace all the
+3:45 info that's in Designer Info with any
+3:46 information you can find from Dan
+3:46 Martinez Construction. And if there's
+3:49 information that exists in designer info
+3:54 uh that you cannot find the information
+3:56 from Dan Martinez Construction, please
+4:04 And so verse AI does a pretty good job
+4:06 usually of finding this especially if
+4:06 you can give it like a URL or maybe like
+4:11 an LLC listing or something like that.
+4:14 Okay. And so then it gives us a whole
+4:23 Go ahead and update. And this just means
+4:24 I don't have to mess around with typing.
+4:26 I don't have to mess around with looking
+4:28 stuff up. In fact, I don't even need to
+4:28 worry if stuff's being done right or not
+4:32 because when I come back in Chief
+4:32 Architect, I open up the pro plan, I
+4:35 open up that project information, we're
+4:38 going to see this is reading from the
+4:38 designer information here. And look at
+4:44 that. It's just updated.
+4:44 How cool is that? So that if I want to
+4:50 go open up some of my alternative
+4:50 layouts or open up even the main layout
+4:55 here,
+4:56 what we're going to see is there's that
+5:01 designer information updated. Look at
+5:01 this other layout. There's that designer
+5:05 information updated. Doesn't get any
+5:07 cooler than that. This is built for
+5:09 scalability in the future of AI. I
+5:09 really hope this gets you excited. You
+5:13 got more questions about my pro plan,
+5:15 come in and ask. Drop it in the
+5:15 comments. It's got so many features.

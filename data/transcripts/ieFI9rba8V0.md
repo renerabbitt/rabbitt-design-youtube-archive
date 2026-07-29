@@ -1,0 +1,249 @@
+---
+videoId: ieFI9rba8V0
+title: Log Cabin Modeling In Chief Architect X15
+url: "https://www.youtube.com/watch?v=ieFI9rba8V0"
+status: imported
+---
+
+# Transcript
+
+0:01 hey VIP I often times get the question
+0:03 how do we create a realistic log siding
+0:06 house let's just draw it I use a lot of
+0:08 solids for this particular method it's a
+0:11 little bit tedious depending on the size
+0:12 of the house but it's completely doable
+0:14 so I'm going to actually specify the
+0:16 dimensions of this I want to make sure
+0:18 that I'm getting the the height that I
+0:21 want and I that I know what this height
+0:22 is going to be so in this case I'm going
+0:24 to make it an 8 in eye piece here now
+0:27 I'm not too worried about the depth
+0:28 because I'm going to edit that in some
+0:30 other View and I'm also not too worried
+0:32 about the width in this case I am going
+0:34 to just make sure that I'm making that
+0:36 General log shape now sometimes this is
+0:39 easier to do with a um a polyline to
+0:43 start right but instead I'm just going
+0:46 to go ahead and do this on the Fly we'll
+0:47 snap these two points together against
+0:50 the itself I'm going to draw this out a
+0:53 little bit using an inference for that
+0:54 Center Line and then I can use my fillet
+0:57 tool to kind of bring this back and
+0:59 round it up
+1:03 out I can catch that just
+1:06 right there we
+1:08 go so that's going to be my log now I
+1:12 know that this is 8 in right but before
+1:14 I go and duplicate this in place I want
+1:16 to make sure that it's actually in the
+1:18 right location and you can see here it's
+1:20 a little bit off from where I would want
+1:21 it to be so I am going to use my pointto
+1:24 point tool and make sure that this is
+1:27 popped in now I do note the overall size
+1:30 here so I want to extend this about 2 in
+1:32 out and so that it's overlaid on the
+1:35 side here and then snap it to the other
+1:38 length and same thing I'm going to
+1:40 Overlay this about two inches
+1:42 out okay now that I have that in place I
+1:46 can go back to this cross section and
+1:49 duplicate this to my heart's content now
+1:51 I'm not too worried about how far above
+1:54 the roof line I get this to duplicate so
+1:56 I'm going to set the duplication uh to
+1:59 something like 7 and 7/8 that's going to
+2:01 make it so that I'm just overlaying one
+2:04 to the next and as I draw this up get
+2:07 this right above that roof line so I
+2:09 don't even have to worry about missing
+2:10 any of these then I can get
+2:13 into that plan view do a contain
+2:17 selection mode and Union this now that
+2:19 Union might take a little bit of time um
+2:22 depending on the complexities of the
+2:24 shape but it should be that we've
+2:25 created one solid object from here so
+2:28 the next thing that I kind of want to do
+2:30 is I want to get in here and and maybe
+2:32 I'll get in here with a crosssection
+2:34 camera um like a back clipped
+2:37 crosssection to kind of get in the
+2:38 middle of the solid but really what I'm
+2:40 trying to do is I'm I'm holding my
+2:43 control key so I can get in the middle
+2:44 of where that casing would be okay so
+2:48 that when I draw through this we're
+2:50 going to see the size of that casing and
+2:52 might even be able to snap to it from
+2:54 here now using a polyline we can
+2:57 definitely snap let's just check with a
+2:59 polyline
+3:01 solid that polyline solid yes we do in
+3:03 fact get a snap here and we're going to
+3:05 be able to snap to this casing now the
+3:07 point of this is now notice I didn't
+3:09 quite get the snap to the other side of
+3:11 the casing that I wanted and also
+3:12 because of the back clipped crosssection
+3:14 we're going to get a few issues with
+3:16 that particular solid because it's
+3:18 beyond the length of the camera so you'd
+3:20 have to shrink this down to being right
+3:22 in front of the camera get back into
+3:23 that cross-section view that's when it's
+3:25 going to really cover up that window and
+3:27 then we just got to make sure that this
+3:28 poly line solid does in fact cover up
+3:31 that window the way we needed to right
+3:33 so snapping this to those edges there we
+3:36 go then I can get back into plan View
+3:38 and make sure that this polyline solid's
+3:40 drawn out as far as I needed to be drawn
+3:42 out now the whole point of this is that
+3:44 we're going to be subtracting this from
+3:46 essentially the log solid that we
+3:49 created okay now before we would uh we
+3:52 unioned I would have applied a
+3:54 particular texture that to this and
+3:57 maybe applied some different textures um
+3:59 to a couple of these but we're just
+4:01 going to kind of do this fast and dirty
+4:03 just to show proof of concept next thing
+4:05 we want to do is we can use our kind of
+4:08 our reference marker here for the the
+4:11 way we were doing Auto roofs right and
+4:13 we can take this PO line solid that we
+4:16 unioned and duplicated about that
+4:23 reference well if we could pick it up
+4:25 anyways like it's going to give me
+4:28 trouble in fact going to give me a
+4:30 little bit of trouble get this out of
+4:32 the way and then just use a polyline
+4:35 instead we'll draw it out real far so
+4:38 we're making sure we're not missing it
+4:39 there we go and so the great thing about
+4:43 this is it's it's longer than this
+4:44 particular length of so that actually
+4:46 works out just fine uh the next thing is
+4:49 we know this door is going to be an 80in
+4:51 ey door it's also going to be um a 2 and
+4:55 5 in casing so I already know that
+4:57 already with that knowledge in place I
+4:59 can kind of put this in place
+5:02 concentrically resize 2 and 58 this is
+5:06 just me shortcutting a little
+5:08 bit and then open this up and say our
+5:12 absolute's going to be elevation at
+5:13 bottom is going to be um that's fine if
+5:17 it's a zero in it's actually more
+5:19 appropriate it's going to be 78 in this
+5:21 case and then our overall Height's going
+5:23 to be 80 plus at 2 and 58 right so 82
+5:28 and 58 so there we
+5:31 go so let's get back into our 3D View
+5:34 and we should be able to take this solid
+5:37 and you guessed it subtract our window
+5:41 same thing we should be able to take
+5:43 this solid and subtract our
+5:48 door now kind of the last part of this
+5:50 is that we're going to get into an
+5:52 elevation View and create one more
+5:54 subtraction and that's for above the
+5:55 roof
+5:56 line all in all this video should only
+5:59 be about about 6 minutes so I mean it's
+6:01 not the most tedious process if you've
+6:04 got a big house you should be able to do
+6:06 this in under an hour which isn't too
+6:11 bad for you PC users I was just hitting
+6:14 alt w b for um Zoo Zoom fill window
+6:19 only so I'm going to just take a
+6:23 polyline here and I'm going to draw this
+6:25 out and I just know that this is going
+6:27 to be um our uh our 4 and 12 here what
+6:32 my pitch is okay and actually it should
+6:35 have been negative four and 12 in that
+6:37 case um maybe instead we'll just even
+6:40 try to pick up a snap at the ridg line
+6:42 here there we
+6:48 go and then we just keep to keep drawing
+6:51 this out and close that polyline
+6:55 right it doesn't matter what shape it is
+6:58 we're going to convert this we'll
+6:59 convert it to that 3D
+7:02 solid and then we can see
+7:05 this in our 3D view excuse me in our
+7:08 plan
+7:13 view going to be a big solid here there
+7:16 we go and we can draw this
+7:22 out we might make a couple copies of
+7:25 this right so copy paste hold that way
+7:27 we get to pick this side we get to
+7:31 subtract there we go and one more we get
+7:34 to pick this other
+7:36 side and
+7:41 subtract now you might have to do a
+7:44 little bit of cleanup here um I kind of
+7:46 left the corners um to be up to
+7:49 interpretation and I'll let you decide
+7:51 on how those corners should be if it
+7:53 should be some kind of an offset deal or
+7:55 something like that maybe these logs are
+7:57 going to stack right and inter lock as
+8:00 opposed to just lining up like this
+8:02 maybe you need to miter them um totally
+8:04 up to you so you're going to see what
+8:06 happens when we just copy paste
+8:09 hold and then taking this selection and
+8:12 subtracting this
+8:20 selection all right so we're going to
+8:22 get that effect notice we get a you know
+8:24 a few funny things in the vector
+8:26 remember that you can always convert
+8:28 this to a symbol and change the symbol
+8:31 smoothing to see if that helps any kind
+8:33 of conditions that arise from a bunch of
+8:35 different unions but there we go that's
+8:38 essentially what we would get in a you
+8:40 know 3D Log Cabin this is the the
+8:42 concepts I would
+8:45 use take a look at a nicer R traced
+8:51 View and there's what happens when we
+8:53 got you know one too many subtractions
+8:55 or unions or things like that happening
+8:57 you might get some you know some issues
+8:59 here let's go back a few steps and just
+9:01 take a look at what
+9:04 happens when we didn't do that last
+9:06 subtraction and then apply some kind of
+9:09 log material I do have some log
+9:11 materials in the
+9:13 library case you want to give those a
+9:15 shot
+9:51 look after you've typed in log you can
+9:54 always type in user and just click on
+9:56 your user catalog that way if that's for
+9:58 some reason it's easier for for you um I
+10:00 do have a log material that actually
+10:02 does kind of replicate
+10:05 um that look but beams might be in more
+10:09 appropriate search term got a couple of
+10:12 them in
+10:16 here now you're going to have to kind of
+10:18 edit offset and repeat distance on this
+10:21 particular
+10:23 texture but out of the gate that already
+10:26 looks pretty good not too bad
+10:32 move the sun around call it a day right
+10:35 look at that little 3D really sells that
+10:38 look very cool let me know if you have
+10:41 any questions obviously we'd have to do
+10:42 some Cleanup in the corner here figure
+10:44 out you know solution for that but um
+10:46 this is just that's the method I use
+10:48 cool

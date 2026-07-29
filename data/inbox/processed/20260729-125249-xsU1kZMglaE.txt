@@ -1,0 +1,200 @@
+Title: Easy DWG Export Template for Chief Architect to AutoCAD
+URL: https://www.youtube.com/watch?v=xsU1kZMglaE
+Visibility: members-only
+
+0:01 what's going on VIP um I've got um I've
+0:04 got a video here that's only going to
+0:06 apply to I don't know handful of you
+0:09 maybe
+0:11 um on the Facebook User Group someone
+0:14 was bringing up that they've got a they
+0:16 have to compile
+0:18 dwgs for their architect or engineer
+0:21 that they're working with
+0:24 and even though we can export dwgs maybe
+0:28 those dwgs come in as individual views
+0:30 maybe they come in and they're
+0:32 not um they're stacked floor after floor
+0:36 after floor or something like that um
+0:39 any number of things that could go wrong
+0:41 when it translates to you know uh
+0:43 importing on the AutoCAD side uh is is
+0:47 the end goal is that we're trying to get
+0:49 our model from Chief Architect 2D print
+0:53 converted to CAD DWG so that someone an
+0:57 AutoCAD can utilize that to do their
+1:01 engineering or what have you so just
+1:05 thinking this through and and I don't
+1:06 have AutoCAD so I don't have any way of
+1:08 testing it um so I'm just going to build
+1:11 something that uh real quick that just
+1:14 know makes for a unique structure if you
+1:16 will um just build off of my plan here
+1:21 just so we have something to look at
+1:23 right um this doesn't really matter what
+1:26 I'm making throw a garage in on the
+1:28 other side
+1:31 and then let's build
+1:33 this okay now here we go I've got a
+1:37 building and I want to send this to view
+1:45 um I want to send this to view and so
+1:49 I'm going to open up a new
+1:51 layout except
+1:55 for that I want to delete everything in
+1:58 my layout because purpose of this is so
+2:01 that we can compile all our views on one
+2:07 page including schedules including
+2:10 anything else you might want to include
+2:13 and have that export as DWG that could
+2:15 be brought into AutoCAD try to like work
+2:19 through this and that will kind of
+2:21 explain what I'm getting after so I'm
+2:24 just going to get into the project
+2:25 browser really easy way for me to just
+2:28 delete all the pages here
+2:30 um you can come in here and just delete
+2:32 everything right highlight all this
+2:34 delete all
+2:35 bam and we're left with our page
+2:38 template now here's the thought is that
+2:41 I'm going to get into my drawing sheet
+2:42 setup and I'm going to do a new um size
+2:46 here and the size will be just something
+2:48 infinite it doesn't really matter it
+2:52 can just say that it's 200 in by by 200
+2:57 in or in this case we're going to call
+2:59 it Auto
+3:00 Tad DWG export size okay and yeah it'll
+3:05 be 200 in by
+3:07 200 actually it probably needs to be a
+3:09 lot bigger than that
+3:11 um let's just call it 500 by 500 it
+3:14 doesn't matter it really doesn't matter
+3:16 so we press
+3:18 okay and then switch to
+3:22 that work bam and there we go we've got
+3:26 this massive sheet size
+3:30 right there's the center of the screen
+3:34 bam and now we can come in here let's
+3:37 send this to view send it at the scale
+3:40 that you
+3:42 need really all I'm going to be
+3:44 exporting is the
+3:48 building but another thing I'm going to
+3:50 do is I'm going to have a floor two I'm
+3:53 going to have floor zero
+3:57 right foundation level
+4:00 attic
+4:02 level um maybe we're going to relink
+4:05 this
+4:06 to plan view that's a roof plan
+4:13 view okay here's the next
+4:17 part
+4:19 um I think a lot of times you might see
+4:23 this sure how it is in in AutoCAD you
+4:26 might see this stacked up top to bottom
+4:32 right it might look like something like
+4:37 this
+4:39 maybe someone would have to inform me on
+4:41 that and then pull an elevation view
+4:45 here we go send this to
+4:48 view and here's where we can really
+4:50 start getting really clever so open this
+4:52 up Mi this plot lines doesn't need to be
+4:55 color fill in this
+4:56 case all right that's going to update
+5:00 what was this view well this view
+5:03 is it's this view here and I don't know
+5:07 this might be an old school AutoCAD
+5:10 thing but you can actually just flip
+5:12 this around and we can even do um some
+5:15 point too stuff since it's plot lines we
+5:18 can do Point too to the siding
+5:21 here spping to that siding
+5:24 Edge and draw this up
+5:30 right no reason you can't just flip this
+5:34 I think oh we don't have a flip here
+5:36 that's
+5:37 interesting don't have
+5:39 a
+5:41 rot
+5:43 about um but I I don't think there's any
+5:46 reason I can't just drop this here
+5:48 relink this to front
+5:53 elevator right and then Center the
+5:56 cont and re
+6:00 there kind of the same
+6:07 thing so I mean this is going to be a
+6:09 quick video
+6:11 because just the concept right this is
+6:13 pretty
+6:15 simple right elevation not the right
+6:19 update The View
+6:33 plot
+6:43 line that's funny I copy pasted this and
+6:46 and chief still changes
+6:49 this live view to the plot lines copy
+6:53 paste very
+6:56 strange should be able to copy paste
+6:59 this
+7:00 this oh it's when you
+7:02 relink relink
+7:05 it very
+7:08 funny re
+7:10 link and update but turns into live
+7:21 view so here's the cool thing here we go
+7:24 we've got this page um maybe we want to
+7:27 turn
+7:31 can't toggle patterns
+7:32 here but you
+7:34 can what here
+7:42 right there was a way to toggle patterns
+7:45 you know because we don't really want
+7:46 these shadow views Etc so you might come
+7:48 in here and edit these
+7:50 views that might be
+7:53 important pick off patterns maybe you
+7:55 don't need patterns
+8:01 right so now this makes a little sense
+8:03 save that update your view your
+8:10 layout so once you have this all set up
+8:13 it should just be as simple as this that
+8:17 we go to file export and then export
+8:20 current view is DWG set this all up the
+8:23 way you need to
+8:26 um ask ask the person that you're
+8:29 working with with and let's export
+8:32 it test WG that's test and let's go I'm
+8:37 just going to do a new plan and we'll
+8:40 get rid of my
+8:41 walls and then let's go import a
+8:45 DWG import drawing let's find that
+8:57 test and I mean the scale
+9:00 obviously
+9:01 off there there you go it does export
+9:06 the layout boxes funny okay that's
+9:09 something to note keep that in mind um
+9:12 it also oh I think this was in
+9:17 my but I mean look at
+9:19 that and now this layout save this as
+9:24 your template export so that all you're
+9:28 doing is linking your current job so
+9:31 that it's set up this way I'm going to
+9:35 do
+9:36 template
+9:39 WG
+9:47 export need to save anything else I
+9:49 don't need to save the
+9:51 reference super easy pull out a bunch of
+9:53 views pull your electrical plan view
+9:55 framing you know floor framing plan view
+9:58 Plumbing plan View
+10:00 all that stuff all your schedules you
+10:01 could throw it in here and and that's it
+10:05 export DWG super easy so um hopefully if
+10:09 this is something you have to do that
+10:10 just saves you a ton of time every job
+10:13 forward hopefully that paid for the
+10:15 membership bam for the year I hope
+10:19 so let me know how it goes
+10:31 [Music]

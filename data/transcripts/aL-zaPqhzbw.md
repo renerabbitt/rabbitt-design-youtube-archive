@@ -1,0 +1,54 @@
+---
+videoId: aL-zaPqhzbw
+title: Chief Challenge #3 - "Round The Island"
+url: "https://www.youtube.com/watch?v=aL-zaPqhzbw"
+status: imported
+---
+
+# Transcript
+
+0:00 Okay, John's number two didn't do that well.
+0:05 I was having fun, I made that mailbox operable.
+0:08 You can go take a look at the video.
+0:10 It's linked at the top of the screen.
+0:12 This time around, I'm not messing around.
+0:14 I'm not even going to talk through it.
+0:16 I'm going to concentrate and really kick put on this.
+0:19 So let's give it a go.
+0:20 Let's see how fast I can do this.
+0:30 Thank you.
+4:30 Okay.
+4:36 I think that was it.
+4:40 That was fast.
+4:42 That was very fast.
+4:45 I even cut away this solid.
+4:47 If you caught that, that was kind of a clever little ad.
+4:50 I added two drawers back here with flush toes, which is kind of nice, nice feature.
+4:55 Doesn't show it in the plans, but why not?
+4:58 I don't know how to throw a little flare in there.
+5:01 Yeah, this is looking pretty respawn on.
+5:06 So yeah, I think I got it here.
+5:08 All right, let's take a look.
+5:10 So now we get to close this out without saving.
+5:16 And let's take a look at what that timestamp was.
+5:23 Three minutes and 56 seconds.
+5:27 Man.
+5:29 That's got to be.
+5:31 That's got to win.
+5:33 It's got to win.
+5:35 Well, let's just do a quick little render for everybody.
+5:41 Why not?
+5:45 There we go.
+5:51 That's looking pretty good.
+5:53 We don't know the material that they were using.
+5:55 We don't know.
+6:05 I like it.
+6:07 I almost wanted to, from this side, to show that my material isn't cut out
+6:11 that cabinet.
+6:13 Just drop in.
+6:16 Open the light.
+6:18 That way we can see it.
+6:21 All right.
+6:41 And there we go.
+6:42 Cool.
+6:43 Open your enjoyed.

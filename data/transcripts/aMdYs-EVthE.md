@@ -1,0 +1,1222 @@
+---
+videoId: aMdYs-EVthE
+title: Making A Dovetail Split Drawer Sink Base With Hidden Pop Out In Chief Architect
+url: "https://www.youtube.com/watch?v=aMdYs-EVthE"
+status: imported
+---
+
+# Transcript
+
+0:00 what do you say VIP let's make a
+0:02 dovetail dovetail box which will be fun
+0:05 just by itself and then let's also do a
+0:08 dovetail box that has a split drawer box
+0:13 for a drain assembly so for like a sync
+0:16 base I'm going to start by just doing um
+0:19 a just a solid so I'm going to use a
+0:21 solid um so I've got this already drawn
+0:25 already already twice I said already
+0:27 twice
+0:30 little redundant okay and then I'm just
+0:33 going to say that the height of this box
+0:34 is about 6 in something like that right
+0:37 there let's say we're going to make this
+0:39 out a half inch um so we're going to end
+0:41 up taking this box and subtracting a box
+0:44 from it and so there we go I've got a
+0:46 box 6 in tall it's just copy paste when
+0:51 we are in the copy paste dialogue and
+0:52 you see my mouse cursor this has been
+0:55 enacted that means that I get to click
+0:57 on this round guy here and drag them in
+1:00 it's going to resize uniformly and then
+1:03 I can hit tab or enter and say that
+1:05 we're going to go in/ inch all right now
+1:08 I need to lift this box okay so I'm
+1:11 going to lift this box up half an inch
+1:13 or whatever your drawer uh base is going
+1:15 to be maybe you're using a melamine base
+1:16 or something like that who knows so I'm
+1:18 going to lift mine up half an inch and
+1:21 then that way I get to take this first
+1:23 box and subtract the second box and this
+1:26 part's going to be simple but before I
+1:28 do let me just make a copy of these guys
+1:31 because I might do something a little
+1:32 different on the next go around and
+1:34 since it's already drawn why not make a
+1:36 copy so here we go get select this one
+1:39 use that subtraction tool hover over
+1:43 highlight and I do not want to retain
+1:45 the original objects notice that this
+1:48 remember my choice if you check that
+1:51 this is one of those weird things in
+1:53 Chie where this is a Permanent Choice
+1:56 you can reset it in preferences but once
+1:58 you check this it will never come up
+2:01 again it's not just a session to session
+2:03 thing which we wish it was so would you
+2:06 like to retain the original objects I'm
+2:08 always going to have this bug in me
+2:09 because I change my mind based on the
+2:12 you know the particular approach that
+2:14 I'm taking so I don't want to retain the
+2:16 original objects this is going to leave
+2:17 me with one single box if we open this
+2:20 guy up we're going to see that now we've
+2:21 got a hollow it out box very
+2:23 cool so what's the next part of this um
+2:27 I want to have uh a dovetail set up here
+2:30 and I want this to look like a Dev tail
+2:32 setup and I mean that's you know to me
+2:34 that's pretty cool so we can start by
+2:38 just pulling a 3D View and taking a look
+2:40 at this
+2:42 box and then just painting it whatever
+2:44 you know wood assembly that I've got
+2:47 here we go something like this and we
+2:49 can see that it's automatically kind of
+2:51 flipping its grain around in ways that I
+2:53 don't necessarily want it to that's okay
+2:56 for now what we'll end up doing is we're
+2:58 going to break this apart we're going to
+3:00 break this into faces and then that way
+3:02 we can apply specific textures to the
+3:05 faces of these of this um polyline solid
+3:09 so the main thing I've got to do is I
+3:11 got to go pick up some kind
+3:14 of dovetail texture right
+3:19 so um dovetail drawer and let's just see
+3:23 if we can't fake a
+3:25 texture maybe we can it's going to be
+3:28 very rare when we look up image searches
+3:30 here where we're going to see something
+3:32 that is truly you know horizontal to the
+3:35 to the screen right so more often than
+3:37 not we're going to have to find
+3:38 something that we're going to do some
+3:40 kind of work with in um in Photoshop to
+3:43 make it work what I'm looking for is
+3:45 something that has a picture of the full
+3:48 box like this right where we can kind of
+3:50 repeat it on itself so I'm getting
+3:53 pretty close actually this one looks
+3:54 pretty good I think that might be a good
+3:57 one to start with
+4:00 or even this one or this one yeah you
+4:02 got a few good ones I'm going to use
+4:04 this one just as an example so I'll go
+4:06 ahead and copy this image you're going
+4:07 to fire up
+4:09 Photoshop and let me just do new from
+4:11 clipboard and paste all right and now
+4:15 I'm going to hit shift C to get into
+4:17 perspective propop mode and I'm going to
+4:20 hit this point right
+4:22 here and actually let's just hit this
+4:26 next point
+4:31 there's going to be a little bit of
+4:32 clean up with
+4:34 this there we go let me just bring this
+4:37 in just a little bit because it doesn't
+4:38 need to be perfect especially cuz we're
+4:41 almost never going to see this little
+4:43 detail but I still want to make it look
+4:45 nice right so there we go let me hit
+4:47 enter bam that looks pretty decent
+4:51 actually um the next part of this is I
+4:54 can just throw in a mask come in here
+4:57 with a big hard brush there we
+5:00 go and then take
+5:03 this duplicate it contrl t flip it there
+5:08 we go and then we'll just do a little
+5:10 unmask right and let's make this a nice
+5:13 soft feather brush so that we can kind
+5:15 of blend that in boom that looks like a
+5:18 pretty decent texture the Dov tail is a
+5:20 little bit goofy but you know what I'm
+5:23 actually not that worried about it this
+5:25 looks pretty good so let me export
+5:28 this all right
+5:30 uh PNG is good uncheck transparency I'm
+5:34 going to put this into my materials
+5:35 folder but I'm going to put it into um
+5:38 yeah I'll put it into my wood section
+5:40 here and we'll just say dove tail drawer
+5:44 side and if we want to get really fancy
+5:46 with this we could throw in a little
+5:48 bump map um let's just control shift alt
+5:53 e which stamps this forward get into a
+5:55 filter other
+5:58 eyass and set our radius
+6:01 down something like that sure so really
+6:06 subtle bump map we could in fact pull
+6:09 any saturation out of this and we could
+6:13 do a little
+6:15 targeting right to kind of lift some
+6:18 spots darken some
+6:23 spots yeah that's fine let's just send
+6:27 this out again and then this is going to
+6:29 be that Dove tail and I'll just
+6:32 highlight it and drop in a dasb ump now
+6:36 before I do all that let me copy this
+6:39 let's hit save and then let's come back
+6:42 into Chief into our library browser
+6:46 let's rightclick new
+6:50 material and dovetail dra
+6:55 side
+6:57 cool next up we get to just
+7:01 browse
+7:06 paste Dove tail
+7:09 bam and the same thing here in that bump
+7:12 map if we
+7:17 want very very cool super fast easy
+7:20 we're going to set this to stretch to
+7:23 fit nice next thing we take this whole
+7:27 thing and in the edit menu we're going
+7:29 to just hit boom explode 3D solid right
+7:33 now we get to take that D Dove dovetail
+7:37 drawer side and paint it right on the
+7:39 side doesn't that look cool
+7:44 right isn't that neat I love that that's
+7:48 super cool next thing is let's try to
+7:50 grab this same grain so we're going to
+7:52 come back into Photoshop here and um I'm
+7:56 just going to put a crop on this that's
+7:57 it so this should be pretty
+8:00 simple so we can just crop this on
+8:02 either side I do not want to delete
+8:04 cropped pixels that way we can recrop it
+8:06 if we need to and just bring this in
+8:09 just like this bam let's export
+8:13 this and let's go
+8:14 [Music]
+8:16 drawer box side
+8:23 bump and then hide that
+8:28 export p past that back get rid of the
+8:31 bump save it bring it back into here
+8:35 let's just copy the dub tail drawer side
+8:39 so
+8:40 duplicate open it
+8:44 up and this is going to be just draw
+8:47 side in fact the other one should be
+8:49 draw side hyphen dovetail easier to
+8:53 index and fine then all right
+8:58 so dra side dra boox side
+9:04 bam
+9:05 and dra boox side bump and let's fix
+9:09 that dovetail one since we're
+9:13 here and by fix I mean we're going to
+9:16 come in here we're going to Target that
+9:19 item again but this time I'm going to
+9:22 search it and we're going to rename
+9:24 it so here's that dovetail drawer right
+9:28 dovetail drawer so if we hit F2 we get
+9:31 to rename it so we could cut thisr x
+9:34 dash bam dovetail like that same thing
+9:39 let's hit this rename
+9:48 it
+9:50 perfect that way we've got draw side DET
+9:54 tail now they're in order with each
+9:55 other let's just make sure we're doing
+9:57 the same thing here
+10:03 perfect perfect perfect and we can come
+10:05 back in here and paint this again just
+10:07 make your locations right it's going to
+10:09 find it so here's that drawer side this
+10:12 should just apply and kind of look
+10:14 exactly as it should could have been a
+10:16 little bit darker if we wanted to um I
+10:19 think I just get to paint the rest of
+10:21 this and get pretty close to what I'm
+10:24 looking for cool I got a drawer box
+10:27 stuff tail sides very neat looking
+10:30 so how do we make this into an actual
+10:33 mill work symbol that can be applied to
+10:34 the back of the cabinet now keep in mind
+10:38 um I have had problems in
+10:40 x16 uh highlighting and converting
+10:43 things that are Faces Sometimes I've
+10:45 actually had to go in and select all the
+10:47 faces and make sure that they're all
+10:49 there so convert selected to symbol
+10:51 let's not add it to library right away
+10:53 let's send it to a milw work symbol show
+10:56 Advanced options and let's see what
+10:58 happens see
+11:00 something is happening where it's not
+11:02 selecting all sides and it should be um
+11:06 so I don't know what's going on with
+11:07 that let's get rid of the terrain for
+11:09 now and then um unfortunately I think
+11:13 I'm just going to have to come in here
+11:15 and do some
+11:20 selections just make sure your colors in
+11:23 preferences are something that make it
+11:26 really clear that you're highlighting
+11:28 right
+11:31 let's see I can't quite tell if I'm
+11:33 selecting the top or not there we go I'm
+11:35 selecting the top top is one uniform
+11:37 piece which isn't great it would be
+11:41 better if this top wasn't you know just
+11:44 one piece because then we could actually
+11:45 do like grain Direction on this in fact
+11:48 why don't we just show you how to fix
+11:50 this right off the bat I'm going to
+11:51 delete this top piece or rather maybe I
+11:54 can just shrink it down on itself so let
+11:56 me try to shrink it down on itself see
+11:59 if it'll let me move this face
+12:02 in it's not going to let me
+12:05 unfortunately so let's get rid of it and
+12:08 now I'll show you how you can kind of
+12:09 work with this is I'm going to choose
+12:11 the face
+12:12 tool okay and I have to click hold and
+12:15 drag to another
+12:19 point and here we go and this is going
+12:22 to fill in if you snap to points if you
+12:24 don't snap to points and you have to
+12:27 double snap on your last point you don't
+12:29 snap the points you're going to have
+12:30 some problems here now this is showing
+12:32 mitered and we don't really want it
+12:33 mitered but I needed to make sure that I
+12:35 was snapping to a point that was
+12:37 accessible before I could come through
+12:39 here and edit it otherwise it might
+12:41 throw it way down in zspace somewhere
+12:43 way down there okay so there we go I've
+12:46 got that in place now let's see if we
+12:48 can't find something that's going to
+12:50 look like some grain and I think I
+12:52 actually have exactly what I need for
+12:56 this have this guy right here and this
+12:58 might be close
+13:01 enough right so maybe I'd have to scale
+13:03 this a little bit for it to show the way
+13:05 I need it to
+13:11 show and yeah and actually the texture
+13:15 resolution of this is really high for
+13:18 what this symbol is and we want to kind
+13:20 of optimize this symbol so it might be a
+13:23 good idea to shrink this way way down so
+13:25 I'm actually going to go find this real
+13:27 quick and this this looks looks like
+13:30 it's in some imported textures I have it
+13:33 somewhere where it's not in imported
+13:34 texture so let me just go open this up
+13:38 in this is a um great use case scenario
+13:42 for keeping a really organized material
+13:45 structure right is that now I can come
+13:47 in here and hopefully find something
+13:49 that is that cedar and I think I might
+13:51 actually have it in my flooring instead
+13:54 so um and in flooring I organize things
+13:58 by their typ so plank would be where
+14:00 I've got this Cedar diffuse so I can
+14:03 open this up and it's a 1024 1024 and
+14:07 let's actually why don't we just crop it
+14:10 no reason not to so we'll crop it we
+14:12 only need a couple grains here right and
+14:14 we're going to crop it right in the
+14:15 middle of this guy so that it's still
+14:18 kind of is seamless we can take a look
+14:20 at this just by going into view pattern
+14:21 preview and seeing that that's repeating
+14:24 itself absolutely cool and now we've got
+14:28 a much lower resolution image here and
+14:31 we can even shrink this down a little
+14:33 bit more why not we only need it to look
+14:36 as good as that that's it right so let's
+14:38 export this and let's call this
+14:42 Cedar low
+14:45 poly or low excuse me low res low res
+14:49 Cedar low res now we want to make sure
+14:52 that I'm copying this location again so
+14:54 that it's easy to find this once we kick
+14:57 back here so
+15:04 right there we go
+15:06 Cedar res very cool and I can just take
+15:11 this and put it in the bump for this one
+15:13 should be close enough and let's just do
+15:15 a little stretch to fit why not look at
+15:20 that
+15:23 right that's half decent now notice that
+15:27 this texture set to stretch to fit
+15:30 actually isn't the best right because
+15:33 the dovetail is a lot larger than than
+15:37 what's going on here you know we're
+15:39 faking the look that's for sure but it's
+15:42 in the Details Matter yeah this is not
+15:45 quite looking right so I might actually
+15:48 want to change this to be the
+15:52 correct
+15:54 size boy that makes this challenging
+16:02 what ends up happening if we just Speck
+16:04 a size yeah it's not great you
+16:08 know stretch to fit is tough in this
+16:11 instance the dove tailing is a little
+16:13 bit long so you almost want to make know
+16:16 whatever your drawer box is going to
+16:19 be be that length of texture as well in
+16:22 terms of its
+16:25 scale points out a good good problem to
+16:28 fix
+16:29 so let's get back and fix that real
+16:31 quick so here's that image that we had
+16:33 cropped originally
+16:35 right and for some reason not letting me
+16:38 quite
+16:39 snap so the scale of this isn't quite
+16:42 right so here's what we're going to do
+16:45 going to stretch this out a little bit
+16:48 longer should just be able to take in
+16:51 this case just kind of cheat into a
+16:54 stamp tool right so I'm going to just do
+16:56 a new
+16:57 layer I'm I'm going to sample all layers
+17:01 I'm going to use the stamp tool I'm
+17:03 going to take this guy way over here uh
+17:07 hard brush is fine for right
+17:12 now and just do
+17:16 this and now we can soft
+17:20 brush and there we
+17:23 go I'm not going to worry about the bump
+17:25 map this time around
+17:33 yes we'll replace it let's come back to
+17:36 Chief see what happens if we set this
+17:37 back to
+17:40 stretch there we go we're a lot closer
+17:43 now I think that it still
+17:46 needs um to change just a little
+17:49 bit but yeah it's definitely looking a
+17:52 lot
+17:52 better let's widen it up just one more
+17:55 time why not
+18:23 there we go now it's looking pretty
+18:26 close right
+18:30 that let's take this top
+18:35 grain you know in this case this would
+18:37 actually be pulled
+18:39 back
+18:47 here there we go should be able to copy
+18:50 paste this bam let's use that face tool
+18:56 again oh notice a face got
+18:59 added here interesting face tool again
+19:02 click drag bam make sure we're
+19:06 snapping double snap the last
+19:10 one is't that
+19:13 cool simple easy it might be that your
+19:16 dovetail box actually um pops up a
+19:19 little bit at the end here totally up to
+19:21 you and then um obviously we need to
+19:25 grab this material make a duplicate of
+19:27 it turn turn it I don't know why my
+19:31 Photoshop has some overlay glitch going
+19:33 on right
+19:35 here we're going to turn
+19:42 this um that's interesting I turn the
+19:45 texture and it didn't seem to do
+19:51 anything 90 degrees stretch to fit turn
+19:54 the
+19:55 texture interesting try that again
+20:06 there we
+20:10 go copy paste reflect
+20:13 about there we go done Dov tail drawer
+20:17 box see if I can't get this off the
+20:19 screen there we go so last part again we
+20:24 got to come through and select
+20:26 everything sometimes it might be easier
+20:28 to make an architectural block out of
+20:29 this as you're selecting so that
+20:32 anything you miss will be really
+20:38 obvious got to make sure I get this top
+20:40 face top
+20:45 face and one
+20:47 more now all you had to do is make this
+20:49 once right we're done after this
+20:51 everything else is going to be happening
+20:53 in the symbol itself so let's just
+20:56 convert the selected to symbol mill work
+20:58 this time we get to add it to the
+21:00 library it's going to be a Dev
+21:04 tail or box it would be nice if we
+21:08 changed those colors to represent the
+21:09 colors in this
+21:12 case tail dra box Advanced
+21:16 sizing um and come in here and make sure
+21:20 that it's kind of stretching uniformly
+21:22 but actually I don't think that let's
+21:24 see does that matter yes it does matter
+21:27 we want to throw in a center split here
+21:30 we want to throw in a depth split here
+21:33 which is half the size of the depth so
+21:35 grab the depth throw that in here
+21:38 divided by two and then subtract so it's
+21:41 going to be 11 and a qu right there so
+21:45 that's going to uniformly stretch about
+21:47 that cutting plane and then kind of the
+21:50 same thing with the height is it's going
+21:53 to uniformly strange stretch about that
+21:56 cutting plane so if we did this right we
+22:00 should be able to come over to this
+22:02 cabinet and let's just set this to just
+22:07 a garbage pull out in this case and
+22:08 we're going to change what the pull out
+22:10 is and we'll just show this drawer open
+22:13 and I don't believe we get to do a mill
+22:16 work replace we don't so as much as that
+22:19 would be nice they don't have that
+22:20 feature yet so we actually have to come
+22:22 in here front sides back um Target that
+22:25 drawer specify and then specify the
+22:28 drawer box pull out let's pick up the
+22:32 library and we should be able to pick up
+22:34 something that I renamed by accident
+22:36 which is that Dev tail
+22:46 drawer there we
+22:48 go and look at that let's see if it's
+22:53 actually oriented correctly and it's not
+22:56 dang it it's not or oriented
+22:59 correctly look at the dove tail so we
+23:02 got to rotate that very interesting um
+23:05 this is
+23:08 drawn how did we draw this we drew this
+23:11 plant sou so for whatever reason drawers
+23:15 are put in 90 degrees it's very strange
+23:19 Chief changes its standard from one
+23:21 thing to the next Super strange so let's
+23:24 just open up this
+23:26 object and we're going to rotate this so
+23:29 we'll just rotate this in the Z one time
+23:32 just like that now let's see if we can't
+23:35 get this to
+23:37 work should be able to just Target yep
+23:40 specify Library the tail drawer back
+23:44 side here we go let's try that
+23:54 again and there we are look at that
+23:57 looks sharp looks very nice now here's
+24:00 the one I really wanted to do and so if
+24:04 you've made it this far stick around
+24:06 because this next part is the good one
+24:08 we're going to make a split
+24:09 drawer how do we make a split drawer
+24:12 let's see I think I'm going to make my
+24:14 split maybe about 5 in and so I want to
+24:18 make this whole setup kind of uniform so
+24:21 we'll make this five and then what's
+24:25 that make this on either side would be
+24:27 great if we had some kind of centering
+24:29 dimmension tool like that right but we
+24:31 could always come in here make our own
+24:33 Center setup
+24:34 here and so that way uh let's
+24:39 see I want this line to be bam we'll
+24:43 copy it move it over
+24:46 2.5 and copy paste reflect about Center
+24:50 and now we should be able to just take
+24:51 these and snap them just like that and
+24:54 then we've got the second box which we
+24:57 don't really need the second box on this
+24:58 one cuz we're just going to use the
+24:59 first box that's what we're going to do
+25:01 I'm going to bring this split all the
+25:03 way forward like that and then let's
+25:05 just do a little copy paste we know that
+25:08 in this action we get to take that
+25:09 centering handle move it down tab input
+25:13 half an inch open it up raise it up a
+25:17 half an
+25:18 inch take this guy
+25:21 subtract don't keep the original objects
+25:24 let's go take a look at this isn't that
+25:26 cool so fast so easy easy nice let's
+25:31 explode this bad boy before we even do
+25:33 let's go ahead and apply this material
+25:35 to it cuz that'll make it a little bit
+25:36 easier now we can explode
+25:39 it all right and we get to start messing
+25:42 around with these top face items Etc but
+25:45 clearly we get to do this know that part
+25:48 works you know this part Works super
+25:51 cool we can do the same thing here and
+25:54 here if you want now look at this this
+25:56 is a compelling argument for what
+25:58 exactly well making it so that this
+26:02 particular um setup here is is we've got
+26:06 a one side texture would be nice right
+26:08 how do we do that easy we're just going
+26:10 to crop this one like this right enter
+26:14 export
+26:16 it and Roar boox doet
+26:21 tail one
+26:25 side I'm back in the chief let's do a
+26:29 little component edit of this
+26:33 guy
+26:35 side one side
+26:40 only
+26:45 and there it
+26:49 is let's add it to the
+26:54 library look at that cool right
+27:01 now this one needs to be flipped um and
+27:04 can we do that I don't I don't know if
+27:06 we can just rotate nope I was hoping I
+27:10 was I was really hoping let's just this
+27:14 one we don't need to save to the library
+27:16 we're just going to flip this texture so
+27:18 it's just going to be a
+27:19 180 there we
+27:22 go simple easy easy easy easy easy okay
+27:28 let's get rid of this top
+27:30 face and we're going to have to draw in
+27:33 you know it's going to take a little bit
+27:34 of time but I think this is worth it
+27:36 this is going to look really cool when
+27:37 it's done so we just snap to there snap
+27:41 to there snap to there and one more
+27:45 time oh and it
+27:48 disappeared it looks
+27:51 like top face again look at that all
+27:54 right bring this back should make the
+27:58 next part is really
+28:01 easy
+28:09 right oops before we do that let's copy
+28:11 paste reflect
+28:13 about there we go now let's get back to
+28:17 the previous
+28:18 tool I have a hotkey to get myself back
+28:20 to the previous tool very quickly by the
+28:24 way that's what I just did
+28:29 right I think I still get to copy paste
+28:31 reflect about this and then just drag
+28:34 this guy
+28:36 back make it snap
+28:40 cool we also get to just copy paste do a
+28:44 little point to
+28:46 point just like
+28:49 that making this real quick real
+28:54 Snappy right
+29:07 hopefully it's getting you used to just
+29:09 working in 3D 3D is so fast when you get
+29:12 used to it it's just easy to visualize I
+29:19 find now it seemed that we didn't need a
+29:21 turn texture let's just double check
+29:23 that theory no we did we definitely
+29:25 needed a turn texture here
+29:28 so let's get this
+29:35 in
+29:39 okay look at that doesn't that look
+29:55 beautiful bottom side and let's get all
+29:57 these
+30:01 tops my selection color is
+30:03 semi-transparent so it just kind of
+30:06 helps figure things
+30:09 out could make it a little bit more
+30:11 opaque so it was really really clear
+30:13 that I had everything on the top
+30:14 selected but I think I did a pretty good
+30:16 job
+30:17 there invert the selected and this is a
+30:21 dove
+30:22 tail drain split drawer Bo box should
+30:29 probably fix that
+30:31 name sure let's do
+30:35 that aha look at that I missed some
+30:38 things dang
+30:40 it but the selections are still there
+30:43 look at what I missed I missed these
+30:44 three inside panels you didn't catch
+30:46 that four inside panels five all these
+30:49 inside
+30:50 panels missed all these right
+30:54 here how come you didn't tell me
+30:58 door and let's go
+31:02 split or
+31:08 train or
+31:15 box D
+31:17 tail and we're coming up with a
+31:19 convention on the Fly this one looks
+31:22 like yeah looks like it got all selected
+31:24 cool let's just take a look at this look
+31:27 at that
+31:28 that just looks really
+31:31 good yeah looks really good
+31:34 cool um now we need to get into advanced
+31:37 sizing and what are we going to do about
+31:38 this where do we want this to split we
+31:41 actually want two here so I'm going to
+31:43 do one at
+31:45 like7 yeah perfect and positive 7 that's
+31:49 going to make it so that this uniformly
+31:50 stretches about these two planes meaning
+31:53 that this will always stay the same
+31:56 great
+31:58 depth is going to be like
+32:01 A5 same kind of concept there if we
+32:04 really want to be sticklers about this
+32:06 it's probably like 16 and a half there
+32:08 we go something like that and then let's
+32:10 set our height to something like two and
+32:14 very
+32:15 cool let's take a look at what this
+32:17 looks like let's actually build a sink
+32:19 Cabinet why not so let just drag this
+32:22 over I'm going to make this a
+32:26 33 30 yeah whatever let's make this a
+32:32 default set up here and I want to do I'm
+32:35 going to do
+32:37 a panel
+32:40 top
+32:43 yeah or actually let's get real clever
+32:46 on this one let's get really clever on
+32:49 this
+32:52 one yeah false
+32:56 panel top one's false panel maybe we're
+32:59 not getting that clever so drawer panel
+33:03 bottom
+33:07 drawer and then specify that
+33:21 box beautiful beautiful beautiful let's
+33:24 actually make this pop out a little
+33:26 farther per open 70 something like that
+33:30 cool what was the construction on this
+33:33 width was supposed to be 33 I don't know
+33:35 what happened to that oh I reset it to
+33:37 default that's what happened
+33:43 um that drawer is not as wide as we want
+33:46 it and it's something to do
+33:49 with setting
+33:53 here box pull out Style
+33:59 I'm not sure why it's not as wide as it
+34:02 could be I'm not sure
+34:04 what
+34:08 exactly is dictating
+34:13 that and maybe it's that these are
+34:15 static it doesn't seem to me that we
+34:17 have any control over this like we used
+34:20 to have control over a back faac
+34:23 item um so they've changed
+34:26 this so it might be that we need to make
+34:28 a few different ones for different sizes
+34:31 cuz it used to be that we could um
+34:33 specify some things about
+34:35 this that to
+34:37 and yeah no they changed this
+34:44 interesting it's okay let's just take a
+34:46 look at what this looks like Marvel at
+34:49 its beauty and then let's just say you
+34:53 know often times I am going to be using
+34:55 this on like a 27 inch sink so my size
+34:58 might not have been that bad 27 in Sy
+35:01 yeah that actually looks pretty
+35:04 good Isn't that cool so what I was
+35:07 thinking about with this is wouldn't it
+35:10 be cool if we did this let's just take
+35:13 this
+35:14 away and then we're going to specify we
+35:19 cannot specify shelves that's right I
+35:22 wish we could because what I would have
+35:25 like to have is a little pull out here
+35:29 you can get kind of tricky with this you
+35:31 could do a very Custom Door check this
+35:33 out all right let's keep this keep this
+35:36 video rolling just a little bit longer
+35:38 I'm going to take the Galina door
+35:39 because that's what I'm
+35:42 using and let's just place this in plan
+35:45 and we're going to convert it to a new
+35:47 cabinet door in this
+35:49 case and this is going to be
+35:51 a um
+35:55 Galina um
+36:00 extended top for hidden
+36:04 drawer and so what I'm going to do is
+36:07 I'm going to say that this
+36:09 is have to figure this out let's
+36:12 see um in advaned sizing I want to
+36:15 uncheck update when object Dimensions
+36:17 change so we're not touching the
+36:18 geometry of this let's go ahead and
+36:21 preview the bounding box and then I'm
+36:23 going to say that the top of this bad
+36:26 boy is going to go
+36:28 up 6
+36:36 in and this is just going to be a test
+36:39 actually it's going to go down 6
+36:42 in so - 12 - 12 there so here's the test
+36:48 with
+36:51 this look at that you see what
+36:55 happened right so what happens now is we
+37:00 want to split
+37:02 this and then we've got a false panel no
+37:08 in this
+37:09 case in this case we want
+37:12 to just an
+37:15 opening okay and that opening let's make
+37:19 it 6 in or 5 Ines whatever our opening
+37:22 is going to
+37:26 be and we're going to get rid
+37:30 of what are we going to do I want to get
+37:32 rid of my separation we're going to make
+37:33 this side
+37:35 mount pull out and so in this opening I
+37:38 get to specify shelves manual one
+37:42 shelf and I have I already have kind of
+37:46 like a wine
+37:50 box in my user
+37:55 catalog here we go this is essentially
+37:58 what I want except I didn't want mne in
+38:01 it I want a drawer box that's got an
+38:03 integrated Pole now we could go make one
+38:06 let's see if we have
+38:08 one see what other drawers I
+38:12 have yeah you could go make
+38:17 one I was hoping I had something with an
+38:20 integrated pull that was really clear I
+38:23 mean this is this one's kind of cool and
+38:24 that it has a full slide on the side of
+38:26 it and everything
+38:28 you have to paint it up and do all that
+38:30 kind of stuff with it let's try it out
+38:32 see what
+38:36 happens yeah so spacing from previous is
+38:41 zero thickness height is full whatever
+38:44 it is six
+38:47 sure um depth is full what does this
+38:51 look like look at that Isn't that
+38:55 cool Isn't that cool
+38:59 let's do um five so it's got a little
+39:03 Gap here yeah just like
+39:07 that notice
+39:10 that this guy is a little bit big so we
+39:14 might have to
+39:18 do boy when we split the opening it got
+39:21 rid of the drawer that's too
+39:24 bad um let's size this down until it
+39:28 just looks right that's all I'm going to
+39:30 do is I'm going to fake this until it
+39:33 looks right
+39:35 so
+39:38 uh oh notice that
+39:40 it's creating a blank area because these
+39:43 other areas are locked so we need to
+39:45 keep these unlocked from Auto resize and
+39:48 that's got its
+39:50 separation
+39:51 and we want this drawer to be almost to
+39:54 the top here this has got a separation
+39:59 and let's just start pumping this size
+40:01 up until it gets to the right
+40:05 size looks like it's going to be
+40:08 21 NOP 20 and a
+40:11 half okay hopefully you're following
+40:14 what I'm doing
+40:16 here
+40:18 right and last bit here
+40:21 is this opening is something this
+40:24 opening is this is we're moving this one
+40:26 down
+40:33 there we go there we go baby there we go
+40:37 and then check this out the last little
+40:40 sweet little touch we're going to do at
+40:41 the end here is specify shells we're
+40:44 going to show this as a roll out of
+40:51 50% and I was hoping that that would
+40:53 show
+40:55 that doors and roll out shelves open
+40:59 look at that Isn't that
+41:02 cool doesn't get any better than this
+41:05 look this was actually modeled with the
+41:07 dovetail I was getting a little
+41:09 overboard
+41:11 there so we could just apply this to the
+41:14 Box faces
+41:21 Etc what a cool cabinet this
+41:24 is um except for that this drawer makes
+41:29 no sense because there' be a sink
+41:32 there not exactly thinking
+41:38 clearly um but after I go ahead and
+41:40 paint this bad boy up I am very curious
+41:44 to see you know if I could save this
+41:46 after it's been painted with its
+41:51 new color coordination
+41:55 here looks like part of the symbol's
+41:57 been stretched in a funny
+42:00 way I like that liner that's pretty cool
+42:04 should have stuck that on the lower
+42:07 one what a cool cabinet right what a
+42:11 cool cabinet um yeah this clearly would
+42:16 not work but who cares it's just proof
+42:20 of concept showing that you know how you
+42:22 can modify these things to get them to
+42:23 look exactly like you want let's see
+42:25 what happens when we shut this all up
+42:27 right there we go isn't that neat you
+42:30 have to move the the door handle but
+42:31 other than that that's pretty
+42:37 cool
+42:42 fun um I'm going to fix this so it
+42:46 doesn't have that
+42:48 dumb that dumb thing what else would you
+42:51 have I mean you could have a flip right
+42:53 you could actually model the flip door
+42:56 that be kind of cool um you can model
+43:00 the FL okay should we keep it rolling
+43:03 let's keep it rolling right let's model
+43:06 the flip that would be very cool um how
+43:09 do we model the flip good question let's
+43:12 just take an elevation view here let's
+43:14 do just a little back clipped elevation
+43:16 we're going to do it right
+43:19 here and I actually wish I had a cabinet
+43:21 in here that's going to help me kind of
+43:22 size things so let's just grab this
+43:25 cabinet because this is the one that
+43:27 that we're basically working with here
+43:29 and so that's right in the middle of
+43:30 cross-section okay except for my
+43:33 cross-sections don't show cabinets so to
+43:36 do this little select all
+43:38 display there we go now we're seeing
+43:40 cross-section of the cabinet and so what
+43:42 I mean by modeling the flip is that
+43:45 we're going to have something here
+43:47 that's
+43:48 doing this
+43:50 essentially let's go
+43:54 um let's go like this
+44:00 um what does a flip usually
+44:03 do let me do a little point point and
+44:06 rotate about that
+44:08 point and how many degrees does this
+44:10 usually
+44:12 go like that I
+44:15 think okay so I'm going to copy
+44:18 paste and rotate it out and then I'm
+44:21 going to get this
+44:25 back this is so weird when you select
+44:27 multiple objects and it doesn't pin to
+44:29 those degrees it's very strange it
+44:32 drives me nuts actually
+44:35 um that's a shame I really don't like
+44:37 that
+44:38 but
+44:40 whatever okay
+44:44 so we need to shave the bottom of this
+44:47 that's just a given
+44:51 unfortunately it's going to be too
+44:53 problematic if we don't and so we're
+44:56 going to Union these
+44:59 and Union these two
+45:03 together don't retain original objects
+45:05 sure and then we need to build you know
+45:08 the sides for
+45:09 this um which I'm just going to use a
+45:11 line tool for that so we're just going
+45:13 to do this
+45:20 see start
+45:23 here and I'm going to bring it up to
+45:26 here
+45:31 back down close it up that's going to be
+45:34 my
+45:35 side I don't know that this is perfectly
+45:38 accurate um I'm also not too worried
+45:40 about it don't think anyone's looking
+45:42 that
+45:45 closely um so I should be able to turn
+45:48 this into a solid that's just a half
+45:54 inch right something like that
+45:58 and turn this into a solid
+46:01 that's longer than a/
+46:04 inch what 18
+46:08 not let's get back into a little view
+46:12 like this where we've got these
+46:15 two right we made a copy of this cabinet
+46:18 yes we did because we're
+46:20 smart and we're going to copy paste this
+46:22 around the other let take a look at this
+46:26 that's what we
+46:27 created
+46:32 right um let's go ahead and paint it
+46:40 up not going to even try to do the
+46:43 dovetail on this in fact we're just
+46:45 going to keep this as all like a little
+46:46 solid wood thing here and we could
+46:49 explode it and do that liner texture I
+46:51 think that'd be kind of cool uh but I
+46:53 don't think I want
+46:55 to and so what we going to make this
+46:57 we're going to make this into a
+47:01 door so convert this to a cabinet door
+47:04 show Advanced
+47:06 options so we need this to be oriented
+47:09 um so that our flat section is facing us
+47:12 so in the 3D menu rotate this in the Z
+47:14 till flat is facing us and then we want
+47:18 this to not only do we want this to
+47:20 offset by y but we also want it to
+47:23 recess okay so we need to it's overall
+47:27 depth four and a qu copy and then we're
+47:31 going to offset that in the Y positive
+47:36 leg plus another 7/8 of an
+47:40 inch
+47:43 okay put in a um stretch plane split and
+47:47 then everything else could be uniformly
+47:49 stretched I think I would say
+47:53 yeah
+47:55 okay now what are we doing doing um
+47:58 we're going to come over here take this
+48:00 drawer box let's get rid of my funny
+48:03 little stupid drawer that doesn't make
+48:05 any sense at all set this back to
+48:09 automatic um oh you know what even in
+48:11 automatic it's retaining that drawer so
+48:14 oh this is the top opening let's do this
+48:17 it was the other opening there we
+48:20 go manual there we go um this is going
+48:24 to change to a door so this is now a
+48:29 door hinge
+48:30 bottom
+48:32 okay and you know it's showing it
+48:37 open so what are we doing now we should
+48:41 be able to take this and I mean you know
+48:43 it's it's flipped open too
+48:51 far or hinge bottom swing angle is 30°
+48:57 see what's happening here 30
+49:01 degrees notice it's diving in up up
+49:04 above let's get rid of this opening this
+49:06 drawer is locked this door is not should
+49:09 be able to expand that
+49:12 down yeah and then because there a full
+49:15 overlay we need to change the bounding
+49:17 box spacing on this a
+49:20 bit um and notice that it's not seeming
+49:23 to resize the way we need it to be
+49:27 resized and I'm not
+49:30 sure why that is let's see what happens
+49:33 if it's
+49:35 just swing angle
+49:38 zero seems to be put back into place
+49:41 let's take a look at what this is even
+49:43 doing here that's it back into place and
+49:46 obviously we got to
+49:49 take yeah let's do this we're going to
+49:52 open the
+49:54 object advaned sizing we need to change
+49:56 rounding box sizing uncheck 3D geometry
+49:59 dimensions and so we need to shrink this
+50:01 by whatever our overlay is and and so in
+50:05 this
+50:06 case and a half on either side let's
+50:08 call it three in so if we change this to
+50:13 the object
+50:16 Dimension is going to
+50:19 be what do I need 3 in larger is that
+50:24 right yes three inches
+50:33 larger and then it's offset I had the
+50:36 offset
+50:46 wrong at that it's
+50:48 looking mighty close to what we want
+50:51 that
+50:52 is that is that is that
+50:55 is
+50:58 so obviously want to specify that this
+51:01 has no
+51:05 handle then let's show it with that 30°
+51:08 swing Angle now this kind of lets you
+51:11 know what Chief Architect is doing when
+51:13 it applies a swing and I knew this and I
+51:16 should have advised based on this is
+51:20 that it's not just taking a pivot point
+51:24 I don't know if you can see my take a
+51:26 look at my camera for real quick um
+51:29 webcam only all right it's not just
+51:32 picking a pivot point and rotating about
+51:36 that Pivot Point like we would if we did
+51:38 you know a a point rotate about a point
+51:41 it's not doing that what it's doing is
+51:44 here's our symbol it's picking up this
+51:47 geometry or rather it's cutting this
+51:50 geometry it's rotating it by the amount
+51:53 that you've specified and then it's find
+51:56 the new furthest positive XY point and
+52:00 that's your new pivot so the pivot
+52:03 Points arbitrary because it's just
+52:06 picking it up and picking its new
+52:08 furthest bounding point and and that's
+52:12 why this is not just you know opening in
+52:15 an easy way because we don't have we
+52:17 didn't draw this at a 3 30° pitch okay
+52:21 so it's so it doesn't look right um we
+52:24 could try messing around with the angle
+52:26 to see if we can't get it to look right
+52:28 but ultimately because it's picking a
+52:31 new XY position it's not going to do
+52:34 this accurately it's it's assuming a
+52:36 drawer is just a single-faced item that
+52:39 doesn't have this shaped geometry so how
+52:42 do we get around this all right let's
+52:44 see if we got some
+52:46 solutions and by the way let's go ahead
+52:48 and rename this thing while we've got it
+52:50 so um what is this a pop out what do we
+52:53 call this soap pop out
+53:07 so what I want to do here
+53:12 is we're going to go back to Advanced
+53:15 sizing and we are going to specify this
+53:18 thing so that right now Chief sees this
+53:20 as the size of the bounding box so
+53:23 that's what it's picking its XY from
+53:24 it's actually not picking XY from the
+53:27 geometry oh you're not seeing my screen
+53:29 anymore that'd be helpful it's not
+53:31 picking XY from the geometry look at
+53:33 this really closely it's picking it from
+53:36 the bounding box so it's taking right
+53:39 now the furthest positive XY point is
+53:42 down here this is it like if we kind of
+53:44 scroll this around zoom out a little bit
+53:47 there's our positive y there's our
+53:49 positive X it's taking this point as the
+53:52 mounting Point okay or in this case this
+53:56 this is rotated and flipped completely
+53:58 opposite so it's actually this point so
+54:02 it's this point it's taking as a
+54:03 mountain point now when we pick this up
+54:06 have it at 30 in it's taking this based
+54:09 on the entire bounding box what would
+54:12 that tell you well if we could shrink
+54:13 the bounding box to something that's a
+54:15 flat surface then maybe it would work
+54:18 how would we do
+54:19 that update our bounding box spacing yet
+54:23 again and in this case our depth is it's
+54:26 going to be 3/4 of an inch look what
+54:28 happens to the bounding
+54:30 box
+54:32 okay so notice that this is our current
+54:36 Mount point so it's going to flush this
+54:38 in and then pivot about this now this
+54:40 makes it a little bit challenging
+54:41 because we don't actually want we would
+54:42 love it to Pivot on this point right
+54:45 here if the geometry was at that point
+54:47 right there but it's not so this might
+54:48 cause a little bit of problems too let's
+54:50 give it a shot so we get to just click
+54:52 over hover and
+54:54 replace and then let's open this bad boy
+54:57 up
+54:58 again um specify once again that this
+55:02 has no door handle I don't know how that
+55:05 disappeared and then let's show this
+55:07 thing open probably because I hit cancel
+55:09 look at that so you see here we applied
+55:13 a little bit of a trick it's not it's
+55:16 still not perfect but it certainly looks
+55:18 good enough for the purpose of what
+55:19 we're trying to do right in fact maybe
+55:22 we'll go past the bounds we'll make it
+55:24 so that it's simple it's bringing this
+55:27 whole thing in like
+55:31 this notice the top of this is angled
+55:33 and I shouldn't have done that I should
+55:34 have made that squared up right that
+55:37 should have been squared
+55:39 up but Isn't that
+55:44 cool very cool um let's fix this real
+55:48 quick I think we can do this we're
+55:49 basically going to fix this whole setup
+55:51 here so I want to match this
+55:56 decree here we can just take this use
+55:59 our transform bam oh can't rotate
+56:03 polyline dang it so we might have to
+56:07 convert this simplify it rather simplify
+56:10 it plain
+56:11 polyline sure now let's take this
+56:16 Edge line that up I don't know why oh we
+56:19 got to double click this selected Edge
+56:21 only that should have been correct
+56:27 boy that did something funny let's try
+56:30 it one more
+56:32 time come on baby do what I want you to
+56:34 do and you don't want to do it all right
+56:37 this is simple then just do
+56:40 this this is actually going to make this
+56:42 whole symbol a lot easier to manipulate
+56:44 so let me go back a few before I
+56:46 simplified
+56:49 this let's take it back to solid and
+56:51 maybe I can do something with it
+56:56 is this solid
+56:59 nope what
+57:03 now that looks like it
+57:11 is yeah that's just going to be a lot
+57:13 easier why
+57:18 not in fact why don't we just clean up
+57:21 both sides of
+57:23 this no I think I like this just the way
+57:25 this is
+57:27 yeah
+57:33 cool guy this guy this guy we're going
+57:37 to have to reset this up there's another
+57:40 way around this that you could do so
+57:42 that you didn't have to change all that
+57:44 stuff it's a little more it can be
+57:47 tedious let me show you what I mean by
+57:49 that I'm going to copy this I'm going to
+57:51 do a new
+57:53 plan I'm going to pull a camera
+57:58 review I'm going to delete
+58:01 this and I'm going to paste hold that
+58:04 symbol I know it's in here somewhere and
+58:06 nothing else is in here so I don't
+58:08 really care about what this looks like
+58:09 now and ALT file export 3DS is D if
+58:15 you're using pneumonic keys I'm
+58:17 exporting this
+58:20 downloads temp
+58:23 soap I don't even care that it was named
+58:25 kind of go Goofy and then what we can do
+58:28 here
+58:29 is um open this object get into the 3D
+58:34 panel replace the geometry and find that
+58:37 temp soap that I just sent
+58:40 out and there we go it replaced it for
+58:43 me and it kept everything except for
+58:45 that y position offset so then I'm just
+58:48 going to take this we need the original
+58:51 depth so Advanced sizing will give us
+58:54 the original depth and then 3D menu take
+58:58 that back there we go so that updated it
+59:02 for us that was a cool little trick
+59:04 there see what this looks like it looks
+59:07 perfect right it looks perfect so now we
+59:10 can close the door
+59:13 separately um height of this has to
+59:16 change you know
+59:22 clearly that's okay it might have
+59:24 something to do with the fact that
+59:27 we might have something going on
+59:32 in no
+59:39 it's we
+59:42 want we can add a little
+59:46 bit let's just go plus
+59:49 34 there we
+59:53 go almost there
+1:00:12 as well make it an itch wi fight
+1:00:21 it there we
+1:00:23 go boom what a very very custom sync
+1:00:28 cabinet might as well throw a sync in it
+1:00:31 and save this to the library as a whole
+1:00:33 big old thing
+1:00:36 right that make a lot of
+1:00:41 sense we're going to do that do the
+1:00:44 handle offset super cool I might just
+1:00:47 give this to you you can save all the
+1:00:49 components yourself thanks for being a
+1:00:51 member take a look at the description
+1:00:53 I'll leave a little link cheers
+1:01:03 that's
+1:01:05 [Music]

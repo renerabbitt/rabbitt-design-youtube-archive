@@ -1,0 +1,63 @@
+Title: Chief Architect Custom Library Object and Icon
+URL: https://www.youtube.com/watch?v=H7ZDGV1bfgg
+Visibility: public
+
+0:02 this is renee rabbit and this is going
+0:02 over how to add a custom library object
+0:08 and icon to a toolbar you may have
+0:08 received an item from me that also had
+0:11 an associated icon and this is going to
+0:17 explain how to get this into a toolbar
+0:19 so i'm going to right click on my
+0:20 toolbars
+0:20 and go into customize toolbars
+0:23 pull up a magnifying glass so you can
+0:25 see exactly what i'm doing here and in
+0:27 the search options under the tools panel
+0:32 on the available toolbar buttons section
+0:34 i'm going to type in
+0:35 place
+0:35 library
+0:37 object and that's going to get me to
+0:41 this object which i'm going to click
+0:43 drag
+0:43 and hover over a toolbar and drop in
+0:47 place
+0:48 now
+0:48 that creates this icon in
+0:51 my existing toolbar i'm going to shut
+0:54 this
+0:54 customize toolbar dialog box down and
+0:59 then i'm going to come over here and
+0:59 click on place library object it will
+1:06 bring up this dialog
+1:06 and so from there i'm going to click on
+1:10 that library radio button i'm going to
+1:12 navigate to the item that i just
+1:12 installed in this case it's going to be
+1:14 a
+1:14 transom window
+1:19 there we go
+1:19 what chief will do is it will try to
+1:21 create an automatic icon it'll give you
+1:25 a couple of different options i don't
+1:25 want to use those options i'm going to
+1:29 use my custom png that i created just
+1:30 for this particular symbol so i'm going
+1:34 to browse and navigate to where i've
+1:36 saved that item
+1:36 and click on it to load and there we go
+1:39 we can see it's one of the options
+1:39 available for this toolbar icon i'm
+1:42 going to press ok and you're going to
+1:47 see now there we go it's placed in my
+1:48 library
+1:48 that way this particular item converts a
+1:55 wall cabinet into a transom shower glass
+1:58 window so if i click on that item now in
+2:00 my toolbars and then hover over my
+2:00 cabinet and spray that you're gonna see
+2:05 it did something so there we go that's
+2:07 how we add a custom library object to
+2:10 our toolbar and apply a custom
+2:24 [Music]

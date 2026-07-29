@@ -1,0 +1,194 @@
+---
+videoId: YyI-COZP1Ak
+title: From Buildertrend or Jobtread excel data to Chief Architect Note Schedule in just a few clicks
+url: "https://www.youtube.com/watch?v=YyI-COZP1Ak"
+status: imported
+---
+
+# Transcript
+
+0:02 I'm going to capture your attention for
+0:06 just one second I've got here an XLS
+0:06 report it's coming from a builder Trend
+0:10 in this case and I'm just going to take
+0:13 it copy it into this folder and here
+0:13 I've got a little python script right
+0:14 here and I just get the doubleclick that
+0:18 and what it's going to do is it's going
+0:21 to do a little bit of work to this file
+0:21 I'm going to reset refresh this page you
+0:26 can see that I just changed something
+0:26 here and I'll explain that in a second
+0:30 let me open up this file now and I'm
+0:30 just going to take some input that's in
+0:35 here and and change it just as an
+0:35 example so maybe we just take this input
+0:42 right here and as an example let's check
+0:46 this out right and just shut this down
+0:47 we get to save
+0:48 it get that off my screen and then I'm
+0:53 going to open up Chief Architect let's
+0:53 check this out this is the next part of
+0:55 this is open up Chief Architect I've got
+1:00 a file already set up here
+1:00 any day now Chief and as an as an
+1:04 example let's check this out so what
+1:06 just happened there that was pretty cool
+1:10 right we think
+1:10 anyways here's the thought and I got
+1:14 contracted to build a little example
+1:14 system of this okay and here's what it's
+1:22 doing is we've got an export XLS file
+1:24 Excel sheet right coming from Builder
+1:24 Trend it's got all of our spec in it a
+1:27 lot of those files have leading hyphens
+1:31 that's just a standard for this
+1:31 particular company and building the
+1:33 template 4 and so what I did was when I
+1:38 clicked that python script it removed
+1:38 any leading hyphens and it converted to
+1:43 a comma separated value file which is
+1:43 something that Chief Architect can read
+1:48 okay then it removed any suffix that
+1:49 happened because we might have been
+1:49 exporting a bunch of these Excel sheets
+1:53 and it's creating suffix every time
+1:53 because it's downloading to the same
+1:55 location so what ends up happening next
+1:59 is it's coming a Chief Architect where I
+2:02 have a polyline and that polyline is
+2:05 using an internal Global macro that
+2:05 looks for the file location of this plan
+2:13 file once it does that it looks for that
+2:15 excel's file's name now you can't
+2:15 dynamically change the name to whatever
+2:19 you want unfortunately uh there's some
+2:21 security measures in Chief Architect
+2:21 that keep you from Reading files that
+2:23 aren't not static so you do have to have
+2:28 a static name which is why we had that
+2:29 python script change it to a
+2:29 standardized name that we knew we were
+2:33 going to look up and that Excel sheet
+2:34 needs to be in the same location or in
+2:36 some subfolder directory for what we're
+2:41 what we've got here in terms of where
+2:41 this plan file is being saved but from
+2:46 there it's creating an index of those
+2:49 lookups right and so these get to get
+2:49 reordered independently you can reorder
+2:55 these any way that you want that's fine
+2:57 what the lookups coming from is in the
+2:59 object information panel under a
+2:59 particular custom object field where we
+3:02 get to change this field to anything
+3:02 that we want I just changed it to 32 and
+3:06 you're going to see here that the
+3:06 information did in fact change and not
+3:10 only that but you can do you if we do
+3:13 group similar items in the schedule
+3:13 itself in our settings group similar
+3:18 objects excuse me then we've got a
+3:18 quantity tabulation so we're seeing here
+3:23 every time we've got this call out
+3:23 that's a sync we are ordering a total
+3:27 number of two syncs with this
+3:27 description and all of this is coming
+3:30 from Builder Trend in this case or a job
+3:35 tread if you're using that the great
+3:35 part about this is that we are reducing
+3:40 the potential of error by limiting how
+3:40 many times that we're doing some kind of
+3:45 text input so we've got user error input
+3:47 from text input when we're doing it
+3:47 twice High likelihood that we might have
+3:52 a typo something like that so we only
+3:53 have one place where we need to fix
+3:56 things what happens when we want to
+3:56 update this well you update in Builder
+3:59 Trend which is where you would be
+4:02 updating anyways you reexport you
+4:02 doubleclick that script again you open
+4:06 up the schedule here and it's been
+4:06 updated again right so we noticed that
+4:10 it got updated just by me going in in
+4:11 hand typing in some things that part's
+4:12 simple enough I could in fact go back to
+4:17 this file go back to this folder
+4:17 structure side by side let me get rid of
+4:22 this one let me copy this one back in
+4:22 let me double click this action one more
+4:27 time it reconverts that bring it back
+4:29 into Chief open this schedule up and
+4:29 look at that it's been updated just that
+4:35 easy a few clicks it's pretty easy to
+4:38 manage on the whole and so this is
+4:38 something I can teach this is something
+4:43 I can build if you want to know more
+4:43 information about it I can give you some
+4:46 general information about it I'm not
+4:46 going to give you all the information
+4:48 about it because then I would never make
+4:53 any money but the capabilities are there
+4:55 and often times as with most systems
+4:55 that I build I actually do give you all
+4:59 the information you need to build this
+5:01 system yourself it just might be so
+5:01 complex enough that you won't want to do
+5:06 that which is kind of the point is that
+5:08 hey it's an open source information you
+5:12 can bring it back to me the point that
+5:14 we're making here with the scripting
+5:15 side of this is that we do have the
+5:15 ability within Ruby to open a file read
+5:23 the file and then find columns and rows
+5:26 based on that and you can get chat chpt
+5:28 to script that there are a few caveats
+5:28 as I discussed it needs to at some point
+5:33 have some kind of static file could be
+5:36 either a static file or a static
+5:36 directory with a variable file name so
+5:41 either way but something has to be
+5:41 static so that it uh circumvents any
+5:46 kind of internal security measures
+5:46 within the Ruby environment within Chief
+5:50 the next part about this is just
+5:50 assigning that information in the case
+5:55 of what I'm doing here is I'm reading
+5:59 the file and then I'm indexing three
+6:00 rows
+6:00 okay I'm indexing row b c and d after
+6:03 that it's creating what's called a hash
+6:08 from the hash I've got three other
+6:08 macros that look up individual values
+6:13 the three values from that hash then
+6:14 that's reporting it to three custom
+6:17 fields which are renamed to title
+6:17 description and cost code then those
+6:22 fields are being reported to this
+6:22 schedule so you can build it from that
+6:24 text knowledge right there the last bit
+6:26 of information that you need is that you
+6:32 do have some kind of architectural item
+6:32 placed in plan visible within that sheet
+6:38 that is assigning a global variable to
+6:38 the directory of the plan file and there
+6:43 are
+6:43 builtin directory macros so just
+6:46 whenever you open up a label system or
+6:49 any kind of input system right so label
+6:53 system in this case you can see here
+6:55 that file. directory is some kind of
+6:58 internal script and we're taking a
+6:58 global variable and the only problem
+7:00 with the global variable is we can only
+7:01 use it for one plan file at a time if we
+7:06 had another plan file open um those two
+7:06 are going to circumvent each other right
+7:10 depending on which one's the active file
+7:12 so um when we're using this system we
+7:14 have to only be working on the active
+7:16 file that we're going to end up
+7:16 printing pretty cool huh it's a wonder
+7:21 what Chief can accomplish there's some
+7:23 of these hidden kind of features in

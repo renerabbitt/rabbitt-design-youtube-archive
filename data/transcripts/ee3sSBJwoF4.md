@@ -1,0 +1,162 @@
+---
+videoId: ee3sSBJwoF4
+title: New Chief Architect and Twinmotion Forums Launched
+url: "https://www.youtube.com/watch?v=ee3sSBJwoF4"
+status: imported
+---
+
+# Transcript
+
+0:05 man uh this is so cool I got something
+0:05 that I hope will just benefit everybody
+0:12 um check this out I'm giving you access
+0:15 to a AI based chatbot that I've been
+0:15 scripting for a year and a half and it's
+0:21 what I use to create my Ruby macros and
+0:22 it's this little guy in the corner here
+0:24 and I'm going to explain where this is
+0:24 and how to find it in a minute but this
+0:29 little guy in the corner this guy right
+0:30 here if you're not that's the Kevin
+0:30 trans who bot and he pops up and he asks
+0:35 what kind of script do you want to write
+0:37 and this is specifically for Chief
+0:37 Architect so uh here we go let's just go
+0:47 cabinet and so it comes back and it says
+0:49 what publisher variable will be using to
+0:53 calculate the volume of a cabinet um
+0:55 explain
+0:55 that oops I'm in all caps um
+1:01 explain that let's just leave it at that
+1:14 does um let's let's just go calculate it
+1:27 height same as the listed name it asked
+1:29 what names are the the variables we're
+1:29 just going to assume it's the same right
+1:33 and there we go it gives us something
+1:33 width depth and height okay and volume
+1:37 equals with let's try it we'll just grab
+1:41 this and see if it works right we're
+1:42 going to bring it over to Chief
+1:42 Architect we're going to place some
+1:44 cabinet um oh you would come back and
+1:54 this and so it's going to tell you
+1:54 instructions on how to use this all
+1:57 right and the instructions are accurate
+2:02 now you will need a little bit of
+2:02 knowhow sometimes when you run into some
+2:07 problems but um I'll tell you how to get
+2:09 answers about that so here we go we're
+2:09 going to create a new one we'll just do
+2:13 a test two or something like that let's
+2:16 paste that code cck evaluate because
+2:16 that's what it told us to do and it told
+2:20 us to switch to owner object and look it
+2:24 tells us data type is measurement 12
+2:24 this is actually correct so that if we
+2:30 were to change the label of this this
+2:30 and use our new userdefined macro which
+2:35 it would explain how to do this by the
+2:35 way look at that 12 cubic feet we change
+2:42 this around it's working script that's
+2:46 because I've spent thousands of hours
+2:46 building this AI chatbot okay so where
+2:49 does it live well I also built you some
+2:56 forums and I couldn't be more excited
+2:56 about them um I real I mean this is this
+3:01 is a bucket this thing for me I've had
+3:03 users ask me for to for me to make
+3:03 forums for a really long time why forums
+3:08 why not Facebook groups why not uh the
+3:08 Discord server why not Chief talk forums
+3:13 I've got reasons for all that maybe you
+3:15 do too and very quickly not everybody
+3:17 wants to sign up for a meta platform
+3:19 that's fine um Discord can be really
+3:19 challenging for some people to learn it
+3:21 can be kind of complicated if you're not
+3:25 used to like a slack or can ban
+3:25 interface um for just Chief talk maybe
+3:29 you didn't like the way people were
+3:29 responded to you on Chief talk or maybe
+3:33 you didn't like that it's not all that
+3:35 well moderated and things are all over
+3:38 the place and info is hard to find who
+3:38 knows all I can tell you is this this is
+3:44 my baby I'm going to answer your
+3:44 questions as fast as I possibly can I'm
+3:49 going to drop info in here that I
+3:49 usually charge for I'll tell you that
+3:54 straight out I've already have um I'm
+3:54 going to have uh some free resources you
+4:00 get some free symbols from here not only
+4:02 do you get free symbols in the typical
+4:03 free symbol area of my website but
+4:03 there's an entire Forum dedicated to
+4:06 free symbols and I've already dropped
+4:10 one in there we just opened this up
+4:11 yesterday so you already got a free
+4:11 symbol in here go check that out you can
+4:17 log in with an existing account all
+4:19 right you can see the latest Forum
+4:19 topics When I close this Ruby scripting
+4:25 menu it sends me a transcript of what
+4:25 you asked it to code in case I need to
+4:30 troubleshoot it for you
+4:30 or if I want to build something really
+4:32 cool off of your ideas I'll go ahead and
+4:36 ask you about that you have to have
+4:37 cookies
+4:37 enabled um on top of that some of you
+4:41 already know and use my custom scripted
+4:47 text texture search model search code
+4:47 lookup search and it's built right into
+4:52 the bottom of the Forum so you can
+4:52 utilize this right here so we can look
+4:54 up um leather for instance and find some
+5:01 seamless other textures very very easily
+5:04 and quickly just like that all right so
+5:04 let's just let this load for a second uh
+5:08 typical notifications area you click on
+5:10 the hamburger menu here and we get some
+5:12 you know listing of topics all the
+5:12 topics that are gone over we can take a
+5:15 look at members this has been open for
+5:19 one day we've already got um a good
+5:19 couple of pages worth of members so this
+5:23 will start to grow pretty quickly
+5:23 hopefully and I don't know I'm really
+5:27 looking forward to where this heads in
+5:30 the next year
+5:30 I'm expecting to have a lot more info on
+5:35 here videos tutorials resources for you
+5:35 you want to talk about Ruby scripting we
+5:38 can you we we want to talk about
+5:38 rendering we can we want to talk about
+5:40 twin motion stuff we absolutely can you
+5:43 want to talk about Cloud integration Nas
+5:49 setups um you know how to just create a
+5:52 a multi office system setup or if you
+5:53 just want to talk about the events
+5:53 coming up you know we're going to be in
+5:57 Idaho and cordelane with the Chief
+5:57 Architect staff meet with the developers
+6:02 and talk to them uh this coming August
+6:02 and we're going to be on site at ciz in
+6:07 Vegas this uh this coming February and
+6:09 then in March we're going to be at the
+6:12 summit event so so much stuff coming
+6:12 through and I'm happy to just be there
+6:19 for you in this particular Forum I
+6:21 really hope that this grows into
+6:21 something pretty cool pretty powerful so
+6:26 um thanks everyone for the support
+6:26 thanks everyone for pushing me to do
+6:28 this it's been a goal m for a long time
+6:30 it's a substantial investment so um it's
+6:35 a going to be a goal of mine to make
+6:36 this work and you know what I do get
+6:36 benefit out of this I'm getting hits I'm
+6:40 getting traffic to my site that does
+6:43 help me you're helping me so I
+6:43 appreciate it anyways that's all I got
+6:50 cool have fun

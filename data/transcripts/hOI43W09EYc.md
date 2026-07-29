@@ -1,0 +1,91 @@
+---
+videoId: hOI43W09EYc
+title: CA SHORTS   Fast Terrain With Gradual Slope And Retaining Wall
+url: "https://www.youtube.com/watch?v=hOI43W09EYc"
+status: imported
+---
+
+# Transcript
+
+0:02 How's it going everybody? I'm just going
+0:05 to answer this question real quick. Um
+0:05 saw someone was struggling with terrain.
+0:11 So let me just switch to my of draw out
+0:12 a building. What they're saying is at
+0:15 the back of their house they want um
+0:15 terrain that's -7 ft and the front of
+0:20 their house they want 30 in from the
+0:22 finished floor and uh that they were
+0:22 struggling with it. And sometimes some
+0:27 of this stuff is like you just got to
+0:30 step away for a second and rethink
+0:30 everything because this is a lot easier
+0:34 than you might have thought. We're just
+0:34 going to put in some terrain data at the
+0:39 back of this house. We're going to call
+0:42 this at -7 ft. And then I'm actually
+0:42 going to um add 30 in. All right. So,
+0:48 whatever that value is. And then let me
+0:52 put at the front of the house. Here's
+0:54 going to be my zero. And in fact, I'm
+0:54 even going to just take this and create
+0:56 a closed polyline with it. And that way,
+1:01 uh, we could just take this and say the
+1:04 interior of it is flat if we wanted to.
+1:07 And then let's open the terrain up and
+1:09 uncheck automatic, use a reference
+1:09 point, and sayg -30. So, what did that
+1:15 do? Well, if I go pull a 3D view, the
+1:15 back of the house is going to be at -7
+1:20 ft. The front of the house is going to
+1:20 be at that 30 in. There it is. That's as
+1:27 easy as it gets. Now, in the case that
+1:27 maybe you had some kind of retention at
+1:31 the front of the house, then we're just
+1:34 going to use the built-in terrain
+1:34 retaining wall tool and just kind of
+1:36 copy this over to the other side. Now,
+1:41 it is sometimes helpful to get some
+1:41 terrain data on either side of that. And
+1:44 you're going to see that this just
+1:44 becomes 7 foot flat to the back and then
+1:49 it just does this kind of scooping
+1:49 thing. This just requires that we have
+1:54 more terrain data. And a very easy way
+1:57 to get some kind of a gradual slope to
+1:57 work out here is look, I've got 38 feet.
+2:03 Let's just divide that um by five maybe.
+2:05 So, we're going to do six additional
+2:05 contour lines. I get to take this one
+2:11 that's at that -4 1/2 ft. And so I'm
+2:14 just going to do uh this transform
+2:16 replicate. I'm going to make five
+2:16 copies. We're going to move these every
+2:23 five feet. So 5 ft there. And then
+2:23 because I want just a gradual slope,
+2:25 we're going to go -12 in. And there we
+2:28 go. We've got this gradual slope. And as
+2:32 that rebuilds, it's just going to build
+2:34 that gradual slope, right? And so the
+2:34 last part here is that we still need to
+2:39 have that um terrain data here behind
+2:39 those retaining walls. So I could just
+2:42 take a bit of a terrain data right here.
+2:47 Put it right next to that terraining
+2:51 wall. And so maybe this just I don't
+2:51 know drops negative 24 in or something
+2:57 like that. Okay. Okay. And so that's
+2:57 going to get that gradual slope here and
+3:03 then hit that 7 foot mark and then
+3:03 simple grade back down. So it's about as
+3:07 simple as I can make that. And then if
+3:07 you're doing walkout basement, I've got
+3:10 some other videos and methods for that
+3:10 to make this all drive and make it super
+3:14 easy to do a stepped foundation wall
+3:16 that's, you know, partial in a in a
+3:16 walkout basement, etc. Um, hopefully
+3:19 that helps you out. That's our little
+3:21 free one. I have some extensive terrain
+3:23 videos in my membership area, so you can
+3:29 go check those out. I make terrain seem

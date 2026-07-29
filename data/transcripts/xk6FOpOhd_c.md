@@ -1,0 +1,579 @@
+---
+videoId: xk6FOpOhd_c
+title: Meshy and Substance Painter For Realistic Mixed Material Mapped Objects FAST
+url: "https://www.youtube.com/watch?v=xk6FOpOhd_c"
+status: imported
+---
+
+# Transcript
+
+0:00 what's going on VIP I'm going to show
+0:02 you I think I'm just going to start
+0:03 showing you a little bit more substance
+0:06 painter stuff oh boy help if I talked in
+0:09 the mic um I'm going to start showing
+0:11 you more substance painter stuff and not
+0:15 that but just model creation workflow um
+0:18 I've got a huge amount of credits in
+0:20 meshy and so um meshy is what I'm using
+0:24 to just create a ton of geometry really
+0:26 really quickly and my my
+0:30 credits just actually reset dang it I
+0:34 was up up to the minute I was pumping
+0:36 out meshy stuff and what it was was I
+0:38 was just doing a bunch of text prompts
+0:40 to get me stuff like this just these
+0:43 kind of things and I could get meshy to
+0:45 actually
+0:46 produce um something in substance for me
+0:51 right um and that would use up some
+0:53 credits or I could just download this
+0:55 and take it right into substance painter
+0:57 I'll show you what I mean this is
+0:59 creating the m this was just a text
+1:01 prompt it created these four different
+1:02 meshes I get to click this I'm going to
+1:05 say no on generate texture it's not
+1:06 going to um take up any tokens because I
+1:09 get tokens per month and then that's
+1:11 going to create a mesh and it's going to
+1:13 be a low poly mesh so it's a really
+1:15 fantastic way of making a ton of items
+1:17 very very
+1:19 quickly bring that into I want these
+1:22 items to be elevated items and sometimes
+1:24 they just are right out of the box but
+1:27 sometimes I have to do a little bit more
+1:29 work to get them to be where I need them
+1:32 to be enter in this scene I created a
+1:36 bunch of liquor bottles and now what I'm
+1:39 doing is I'm making it so that I want
+1:43 the caps and the labels to not be
+1:45 transparent but I want the bottles
+1:47 themselves to have a transparent class
+1:49 of material in Chief so that they look
+1:52 extremely accurate and so that's kind of
+1:56 a big task believe it or not um but
+2:00 substance painter does a really good job
+2:03 of this and so I'll show you what I mean
+2:05 and you're going to have to stick with
+2:06 me for a minute cuz I'm going to I still
+2:07 have a little bit more work to do here
+2:09 but what I've got here on the right hand
+2:11 side and let me see if I can't Target my
+2:14 my zoom button um right hand side is you
+2:17 see here I've got a fill layer and I
+2:19 have that fill layers um color set to
+2:23 Red okay and so that just makes it
+2:25 really easy and for me to understand
+2:27 exactly where I am drawing and so what
+2:30 I'm doing here is I'm creating a
+2:33 transparency mask or the inversion of a
+2:36 transparency mask so that when we bring
+2:38 this into Chief these parts that are red
+2:41 are not going to be a transparent
+2:43 material and which means I get to just
+2:45 come in here and just draw out right on
+2:48 this scene now um I've mentioned this
+2:51 before I have a Graphic pen tablet and
+2:53 it makes it really easy to just draw
+2:55 right on a on a Model I also have a 3D
+2:57 connection Mouse um and it's got some
+2:59 hot keys on the pen tablet and that
+3:02 mouse that make it really easy for me to
+3:03 scale up my brush scale down my brush
+3:06 change the hardness of my brush and then
+3:08 come in here and really just pump
+3:12 through this so I find this to be a
+3:15 really enjoyable process boy how many
+3:17 times I going to say really in three
+3:19 minutes should be a drinking game
+3:24 unintended
+3:26 so I just get to come in here and just
+3:29 kind of pencil this out now I don't need
+3:31 to be super accurate with this because
+3:33 at the distance you're going to be
+3:34 seeing these liquor bottles I mean you
+3:37 can see here the labels are pretty
+3:39 nondescript anyways you can barely tell
+3:41 what they even are I could go through
+3:43 the process of actually bringing in real
+3:46 labels and make these this texture map
+3:49 be um something to write home about but
+3:52 I think for the most part when we're
+3:53 rendering out a scene the last thing
+3:55 you're going to notice is text on a
+3:57 bottle so it's just not necessary
+4:00 and this is a great example of when my
+4:01 OCD gets kicked to the curb for
+4:04 something that's just efficient fast and
+4:06 gets the job done right and um finishes
+4:10 the way I need it to finish especially
+4:11 because I'm doing so much in AI nowadays
+4:15 with renderings that I don't need these
+4:18 labels to be perfect because AI will
+4:20 make them perfect they'll make them what
+4:22 they need to be for that rendering shot
+4:24 at the resolution I need it to be so I
+4:26 don't need to do much more than masking
+4:29 out a Zone and you can see here I'm a
+4:32 little bit sloppy with this that's
+4:34 because you're not going to notice white
+4:37 details like this which means you can
+4:38 move a little faster right and that
+4:42 might drive you nuts that I'm not doing
+4:44 this perfect you know at first when I
+4:47 first started generating stuff that
+4:49 absolutely drove me nuts as well but
+4:52 over time you just kind of pick up where
+4:55 you can draw in efficiencies to get you
+4:57 know I'd rather have volume of something
+5:00 that looks really good then um far fewer
+5:05 items you know say 40% less items
+5:08 because I went through to make the
+5:09 texture resolution of these labels um so
+5:12 impactful that you could get in and do a
+5:14 zoom shot and have them be legible I
+5:17 just don't need that I've never I've
+5:19 never done that right I'm not selling
+5:21 product here I'm
+5:22 selling well I'm selling product but I'm
+5:24 not selling um bottles of liquor
+5:27 so just this is the appropriate amount
+5:31 of accuracy that I need here so this is
+5:34 it I just came in here I drew out all
+5:36 those caps now I'm just doing the front
+5:38 labels only I don't need the subsequent
+5:41 labels I don't think we'll take a look
+5:43 at this in a second and we'll show what
+5:46 this ends up looking like when I've got
+5:48 this all drawn out now one step I might
+5:51 take is that I might want to mask out
+5:54 translucency and that's an extra step
+5:57 that that could pay big dividends in
+5:59 terms terms of how this all looks
+6:01 because I might make it so that the
+6:04 liquor itself is translucent and the
+6:06 rest of the bottle is
+6:08 transparent and maybe just on a couple
+6:11 of the front bottles because past those
+6:14 front bottles you'd have to have your um
+6:17 your number of bounces on class set
+6:20 really high to get this to look accurate
+6:22 past the front
+6:26 bottles and we can show you what I mean
+6:28 by that in just a second here too so
+6:31 here we go drawing this out I got maybe
+6:33 a couple more to
+6:35 go and I did this on the other side as
+6:38 well so um ultimately I get to kind of
+6:40 pick which side I think looks better
+6:43 once we bring this into
+6:47 Chief I can't tell you how much I enjoy
+6:49 this process I really do I wish I had
+6:52 more time to just make assets I probably
+6:56 would brings up a good little business
+6:58 discussion I have all these assets
+7:00 they're built to be optimized and Chief
+7:03 and what would it take to bring them
+7:04 into twin motion well tell you the truth
+7:06 a lot of work because you go rebuild all
+7:09 of your um secondary maps and my
+7:12 secondary maps are what make all my
+7:14 objects really stand out amongst the
+7:17 crowd so and that's those PBR Maps so
+7:21 when you're going out and looking for
+7:23 textures and you're looking for objects
+7:25 it's one of the problems with bringing
+7:26 in something from 3D warehouses those
+7:29 only have primary Maps they don't have
+7:31 any secondary Maps so to make it
+7:34 something look good from 3D Warehouse
+7:36 you got to come in and add some
+7:39 additional maps to make it look really
+7:43 sharp okay last
+7:46 bottle and boy we can't even see this
+7:48 label at
+7:51 all and isn't it funny you're looking at
+7:54 this and you're going how is this how on
+7:57 Earth is this going to look good in fact
+7:59 we'll do a little review of these
+8:01 bottles here in just a second how on
+8:03 Earth do we get something that that
+8:05 looks so blasted right these barely even
+8:08 resemble bottles look at these
+8:10 things right look at all the Caps they
+8:14 look terrible right but this is a very
+8:17 low poly
+8:19 system and so what do I do next I'm
+8:21 going to put my pin tablet down excuse
+8:24 me my stylist down and then click into
+8:28 this layer over here
+8:33 this layer over here kind of scroll down
+8:35 to the bottom I get to change that base
+8:37 color and I'm going to change it to
+8:39 Black okay now I'm going to do a new
+8:42 fill
+8:43 layer new fill layer I'm going to bring
+8:45 this below the other layer we going to
+8:48 make sure it's a true white and mind you
+8:50 here's my color selector there we go
+8:53 true white color
+8:56 bam and close that down and now this is
+9:01 my mask right and we notice I'm missing
+9:04 a little something right here there we
+9:06 go let's just fix that guy right there
+9:09 and look none of this has to be super
+9:11 duper accurate we're missing a little
+9:14 guy right here
+9:16 too like when you can kind of navigate
+9:19 this this is almost like um you know
+9:22 Luke
+9:23 Skywalker doing the infamous one in a
+9:26 million shot
+9:31 if you're old enough to know what I'm
+9:32 talking
+9:34 about hey just get to
+9:37 navigate in between these things and how
+9:41 we looking we're just going to make this
+9:42 one a little top cap same thing do a
+9:45 little top caps on
+9:47 these there we go so let's go see how
+9:53 this
+9:55 translates all right so here we go how
+9:58 many times I'm going to say so another
+10:00 drinking game export textures is all I
+10:02 need here and I need to Target where
+10:05 these bottles
+10:08 are um let's see these are going to be
+10:10 in shelf
+10:11 items get to put my graphic pen tablet
+10:14 I've got it on an articulating arm I get
+10:16 to just push it out of my way it was in
+10:18 my face
+10:19 before and liquor bottles on shelf this
+10:23 is where I need to be and that's going
+10:25 to export those
+10:27 objects cool
+10:30 um another thing we could do is we could
+10:32 try to bake the texture the AO map I'm
+10:35 not sure that I would care about it h
+10:37 why not let's do it talked about this in
+10:39 another video baking selected textures
+10:41 it's essentially figuring out that
+10:43 there's radius to the these textures
+10:47 right it's figuring out how geometry
+10:49 correlates with a 2d map so that when we
+10:51 go back to painting mode and we take a
+10:54 look into our library of content there's
+10:58 my AO map I can right click on it and
+11:01 Export resource and then just make sure
+11:05 I'm in the right one it's this
+11:08 one and so here's going to be my AO map
+11:11 that exports
+11:13 cool now let's switch let's see if I can
+11:17 switch here so we're going to turn this
+11:20 screen off and way look at that we're in
+11:21 Chief
+11:23 cool
+11:25 and now I get to do a little file import
+11:28 3D Sy
+11:34 let's grab
+11:36 these I'm going to bring this in as
+11:38 Furnishing interior I'm not going to add
+11:39 it to library because I need to do a few
+11:41 things from meshy the size of this is
+11:44 all wrong um I need to rotate this on
+11:47 90° on the X um now I get to retain
+11:51 aspect ratio set my height to the
+11:53 tallest bottle something like that we
+11:56 can reenter on The View regenerate the
+11:59 2D symbol set in options that this sits
+12:02 on a base cabinet and let's pop this
+12:05 into place and take a look oh I think my
+12:08 Height's a little bit off those bottles
+12:10 look a little large let's shrink this
+12:12 down just a little bit let's go 15 for
+12:15 height of bottles there we go I think
+12:17 that looks a little bit more appropriate
+12:19 and you can see here looks okay doesn't
+12:23 look great from this distance actually
+12:26 looks pretty good but you just wait it's
+12:28 going to look
+12:29 fantastic so come in here use the
+12:33 material picker and uh let's change the
+12:37 material name you do want to change the
+12:39 material name because there is a case
+12:40 where this gets imported into your
+12:43 software and it gets imported into your
+12:44 textures location and then you're going
+12:46 to have duplicate material names because
+12:49 meshy if you're using meshy or some kind
+12:51 of mesh generator it's always going to
+12:53 assign the same material name okay so
+12:55 you want to change make sure you change
+12:57 this material name so
+12:59 liquor bottles large group and I like to
+13:04 say UV mapped because this means that
+13:07 this is something that is um mapped
+13:09 specifically to UV uh versus um
+13:13 something that can be applied to
+13:14 multiple different meshes and then um
+13:18 sometimes I like to set my color um so
+13:22 that it's a medium gray if I'm going to
+13:23 do a transparency because I can darken
+13:26 up the bottles if I need to all right I
+13:30 don't think that's going to be the case
+13:32 we get to Target that AO
+13:35 map that was produced and I want to
+13:38 rename this so let's see
+13:47 um I think that's going to be the name
+13:49 so I'm going to copy this name and then
+13:51 Dash
+13:53 a okay here's our mask so
+14:01 call that
+14:02 transparency and we might be able to use
+14:04 that as a bump map as well or the AO map
+14:08 as a bump map these other meshes I don't
+14:11 think I need them we could actually
+14:13 delete them if we wanted to but here we
+14:15 go is there's our AO throw that in there
+14:19 we'll take a look at what that looks
+14:20 like and then here's the magic
+14:23 transparency map we're going to pick out
+14:25 this map we might have to invert it I
+14:28 always forget which one which um you
+14:30 could try to take a look at this but
+14:32 truth be
+14:33 told sometimes you just apply it so we
+14:35 didn't need to invert it so black in
+14:37 this case was non-transparent and look
+14:40 how
+14:41 immediately this starts looking pretty
+14:44 fantastic right Isn't that
+14:48 cool what a difference from this
+14:51 distance really looks good right really
+14:54 looks good that's awesome the other
+14:57 thing that we could do is we can make
+14:58 you know you know those caps and
+15:00 everything else be metallic if we wanted
+15:01 to so we could take this group copy it
+15:05 paste it in the metal map and invert the
+15:07 metal map and then now that's going to
+15:09 make all those caps and everything a
+15:11 metallic looking thing it also makes
+15:14 those labels look metallic now here's
+15:16 the last thing that's really cool
+15:18 actually I'm going to remove that um AO
+15:20 map I want to see what it looks like
+15:21 with that gone so we're just going to
+15:23 cut
+15:25 that does that improve it at all no I
+15:29 don't I don't think it makes a
+15:30 difference either way so we'll put it
+15:33 back that's fine and then I want to see
+15:35 what it looks like with the bump map as
+15:38 the AO
+15:40 map it's going to make those bottles all
+15:43 you know bumpy it's not a good idea but
+15:47 what we could use as a bump map is our
+15:49 transparency
+15:51 map and what that's going to do is it's
+15:53 going to make those labels kind of pop
+15:55 off
+16:01 this is where you really need
+16:05 clean real clean looks and so you could
+16:09 come into something like a
+16:14 Photoshop and go open
+16:18 up go open
+16:23 up
+16:25 this and come in here
+16:29 and just do a curs adjustment to really
+16:32 get this tight you could do that now
+16:36 keep in mind I don't want to overwrite
+16:38 so I'm going to export
+16:41 this
+16:46 JPEG and we're going to make it number
+16:51 two so this is going to be bump
+16:59 let's try adding that as a bump see what
+17:01 happens and I want to take that metallic
+17:03 map
+17:05 out so there's our
+17:08 bump take the metallic map
+17:13 out and look at that now those labels
+17:15 are recessed and we did clean those up
+17:18 that's cool so let's invert this and
+17:20 take this down to 05 or something like
+17:23 that half the pump now those labels are
+17:26 kind of protruding out the Caps are
+17:27 protruding out right making a big
+17:30 difference
+17:35 here now I definitely like these front
+17:37 ones better than the back
+17:41 ones yeah I think these are mapped
+17:44 better in the front so this would always
+17:46 be the front of this whole setup now
+17:48 let's do something to our rendering
+17:50 technique options I want to see if what
+17:52 happens when we pump our transmissive
+17:53 bounces up quite a bit do we start to
+17:56 get more of a realistic effect from this
+18:00 give it a
+18:02 shot what happens
+18:05 when and let's kick the sun around a
+18:08 little
+18:13 bit wait doesn't that look
+18:16 good I mean from this distance right
+18:19 here which is typically what you would
+18:21 be doing in a
+18:24 rendering a weird window setup here
+18:29 yeah from this distance that really
+18:31 looks sharp now here's the last part of
+18:33 this is that I'm going to incorporate
+18:35 this into my shelf replacement system
+18:37 and so I get to just click on my tags by
+18:39 the way if you didn't know this I've got
+18:41 my tags showing here and I get to find
+18:44 you know these are all color coded by
+18:46 type so my purple is a classification of
+18:49 where um something would be mounted
+18:52 right so countertop or shelf it's
+18:54 mounted on countertop or shelf in this
+18:55 case and so then the next thing I get to
+18:58 do is this is a painter that I want to
+19:00 use so I'm using a double wide painter I
+19:02 paint this shelf let's actually make a
+19:05 little copy of this bring it up so we
+19:07 can see it in fact let's just bring it
+19:08 into the light so we can see it and then
+19:11 here's the next thing is I'm going to
+19:13 take this this item I changed the
+19:15 material name that's great we can add it
+19:17 to the library now I'm also going to
+19:19 take this item and convert it and so I'm
+19:22 going to convert it to a shelf tool item
+19:25 but it's got to be like a triple wide
+19:26 shelf in this case
+19:29 so it's cabinet door drawer Advanced
+19:31 options right and then
+19:35 um this the the depth is where this
+19:39 particular um set of things is is a
+19:41 problem here and I might be able to fake
+19:43 it if I move these down to a 12in depth
+19:47 it would be pretty small
+19:49 bottles I might be willing to do that so
+19:52 the next thing that I do um always
+19:56 regenerate that symbol and then uncheck
+19:59 3D geometry dimensions and this is part
+20:01 of my shelf system is that this is going
+20:03 to end up being 30 in wide 78 inch deep
+20:08 and then the Height's going to be
+20:11 um
+20:14 13.5
+20:16 and then I have to set stretch planes in
+20:19 width and so this is going to be
+20:22 a
+20:24 um
+20:27 7.4 7
+20:29 4 something in the
+20:31 depth and then actually we needed to
+20:34 move this in the Y position
+20:37 by
+20:38 12
+20:40 15
+20:44 15 and let's go 20 no
+20:49 30 boy that's just a problematic symbol
+20:53 at 30 in
+20:58 yeah super deep system
+21:02 here advaned
+21:09 sizing oops this needed to be
+21:13 negative4 there we go and positive 14
+21:17 there we
+21:24 go okay am I where I want to be here
+21:30 I think
+21:31 so let's give this a
+21:37 shot uncheck
+21:39 height so if I built that right I should
+21:41 be able to just click on the shelf and
+21:44 there we go throws a bunch of bottles on
+21:46 the Shelf yeah that negative y offset
+21:49 was wrong so we can try that
+21:53 again and let's go 12
+22:00 and then it's doing something funny it's
+22:02 trying to stretch this in a
+22:04 way so what happens here is um I might
+22:08 need to reconvert this is what's
+22:11 happening convert it twice at
+22:25 times at 20 it's definitely pushing
+22:28 items into the back of
+22:37 this yeah and you might have to just
+22:39 delete some rows it's a possibility
+22:41 could do that it's just a lot of bit a
+22:44 lot of work if you wanted to delete rows
+22:46 of this this is what You' do you'd open
+22:48 this Up 3D set your smoothing angle to
+22:52 179 the highest it'll go use the delete
+22:55 surface tool and you get to just remove
+22:57 bottles I suggest you putting a line
+23:00 over so it's easy to find some stray
+23:03 vectors stray tries if you
+23:06 will but I'm just using the delete
+23:08 surface tool to get rid of all
+23:10 this and essentially I just want two
+23:13 rows of
+23:20 bottles there we go so now I get to take
+23:22 this and convert it to that cabinet door
+23:25 drawer and we'll go through that whole
+23:27 process again so we going to leave that
+23:30 the size that it is
+23:32 um because we're converting it we don't
+23:35 have to change that smoothing angle
+23:36 again and
+23:38 then let's see we're going to get into
+23:41 that advanc sizing uncheck this again
+23:43 this is going to be 30
+23:45 78 and Height's going to be
+23:49 13.5 that's okay and then we're going to
+23:53 do
+23:56 this4 14
+23:59 and let's go this is going to go 12
+24:03 actually let's go
+24:06 11 10 yeah 10 I think and then our depth
+24:11 shouldn't matter but we're going to
+24:13 throw that depth in there so that it
+24:15 does not stretch these bottles at all
+24:18 and height can
+24:19 stretch now I think I have a system that
+24:22 works so let me go replace this look at
+24:25 that how cool is that
+24:28 super
+24:30 cool let's change this offset let's go
+24:36 six now we get a fast replacement to
+24:39 just be able to click in there and we'
+24:41 got those bottles they look great
+24:43 especially when we get some light on
+24:45 them take that line over off of
+24:48 there and look at that fantastic
+24:52 job cool I hope this is interesting you
+24:56 know this is um this is how I make some
+24:58 of the elevated symbols that are in my
+25:00 library I don't do them like this very
+25:03 often I feel like a couple of these are
+25:05 just you have that staple piece and this
+25:08 is all you ever need going forward I
+25:10 mean this makes a huge difference
+25:12 getting these in place so um what a huge
+25:16 add to my to my system here is for
+25:19 people that are doing you know cocktail
+25:21 setups like this I mean that's just
+25:23 awesome um if I go through and click on
+25:26 countertop shelf CAD block component on
+25:29 and then I can go um do a little text
+25:31 search
+25:32 liq that's going to find that I already
+25:34 do have a liquor bottle system in here
+25:36 but it's you know it's far few bottles
+25:39 so um and that this was the same process
+25:42 and those look fantastic as well so cool
+25:46 leave a like thanks again see you soon
+26:02 [Music]

@@ -1,0 +1,938 @@
+---
+videoId: Dmqd_xLT4lo
+title: Hotkey Session 2 VIP
+url: "https://www.youtube.com/watch?v=Dmqd_xLT4lo"
+status: imported
+---
+
+# Transcript
+
+0:01 all right hotkeys number two session
+0:03 number two and this is unscripted and I
+0:06 am feeling like a spaz right now so I'm
+0:08 hoping this is a
+0:11 um
+0:12 a cohesive video it's already getting
+0:14 screwed up
+0:17 oh
+0:18 um
+0:19 the challenge of making these videos is
+0:23 that my Approach is that I'm solving for
+0:27 problems
+0:29 as I run into them
+0:31 so it's hard to come back and
+0:34 make a cohesive approach to hotkeys when
+0:38 that's not
+0:39 how I went about it in the first place
+0:43 so I do want to talk about a couple of
+0:45 the challenges for hotkeys within Chief
+0:48 Architect and then we're going to touch
+0:50 on some of the
+0:51 um
+0:52 some of the ideas applied to my hotkey
+0:55 setup as
+0:56 um as we approach a broader system right
+1:00 and and let's just go over some of the
+1:02 nuances within Chief Architect and and
+1:05 also some things that I think are going
+1:07 to go away over time
+1:09 one of the major and great examples is
+1:13 when we have a
+1:17 a kind of a redundant function in the
+1:19 software but it requires another hotkey
+1:22 right so we've got two functions and for
+1:26 all arguments sake there should be no
+1:29 reason why it requires two separate
+1:31 tools and I'll give you an example we
+1:33 have an edit menu and within our edit
+1:36 menu there are some actions that give us
+1:39 a sub edit menu and so if you haven't
+1:42 seen this before I've suggested that any
+1:45 action that seems to be editing
+1:47 properties in a sub edit menu
+1:49 should just utilize the open objects
+1:53 tool and the open objects tool should
+1:54 then be changed to something more
+1:57 generic like edited attributes
+2:00 perfect example of this let's use the
+2:02 break uh well actually no let's do
+2:05 what would be one
+2:07 um
+2:08 oh well the multiple copy tool so say we
+2:11 want to do a multiple copy and then we
+2:13 have a multiple copy interval there's no
+2:16 reason that that multiple copy interval
+2:18 can't be
+2:19 what either the multiple hot copy hotkey
+2:23 but that could cause some issues so I
+2:25 understand that that wouldn't be the
+2:26 best implementation or it would just be
+2:29 that edit object tool right where we're
+2:32 setting some kind of attribute so I
+2:36 think over time and I'm going to be
+2:37 pushing this hard to the developers I
+2:40 don't see any argument for this not
+2:42 being the next implementation that we
+2:44 can apply
+2:46 um edit attributes to every sub-ed menu
+2:48 that doesn't conflict with the edit
+2:50 object tool so this does not conflict
+2:52 with the edit object tool using this
+2:55 multiple copy interval and there's
+2:57 multiple examples of this throughout and
+2:59 I'm not going to sit here and try to
+3:00 figure out what those examples are so
+3:02 the reason I mention that is because a
+3:04 lot of the things that I've
+3:06 created work around hotkeys for are
+3:10 would would change as soon as we got
+3:13 that we got Chief to implement that idea
+3:16 right
+3:17 so one of these
+3:19 use cases is a major one for me because
+3:22 I provide renderings I provide visuals
+3:25 and I think most of us at some in some
+3:28 way shape or form provide visuals now
+3:30 and
+3:31 so a big one is if we want to use the
+3:34 object eyedropper tool and we're going
+3:37 to select something like a door
+3:40 well we then have painter modes
+3:44 believe it or not all these painter
+3:46 modes have individual hotkeys
+3:48 depending on the parent tool meaning
+3:53 let's get into tools hotkeys
+3:58 if we type in component here
+4:02 notice there's three different component
+4:04 painter modes
+4:06 it's ridiculous there's no need for this
+4:08 it makes no sense
+4:10 we should only need one so and that's
+4:14 frustrating and you can you can set it
+4:16 up so that you're holding a modifier
+4:19 and hopefully you're hitting that
+4:21 modified or correct but how do you sit
+4:23 there and remember when every
+4:25 um
+4:26 you have to remember for material mode
+4:28 component you have to remember from
+4:31 object type mode component and then you
+4:34 have to remember for adjust material so
+4:38 absolutely ridiculous that we need
+4:39 multiple tools for one thing
+4:41 so what's the solution well in those
+4:44 cases you might want to come into your
+4:47 whatever your hotkey generator is and
+4:50 script it so that it is hitting all the
+4:54 hotkeys for all three implementations of
+4:57 a single tool set right so when I go
+5:00 through and I I've got my radial menu
+5:03 here
+5:05 and it's set to save paint floor mode
+5:07 this is actually hitting all hot keys
+5:10 for all different modes knowing that at
+5:14 some point it's going to hit the
+5:15 applicable hotkey for floor painter mode
+5:18 for an object eyedropper
+5:20 so I've got it scripted so that it's
+5:22 doing three hotkeys in one swipe on my
+5:26 3D mouse
+5:27 so there's there's a great kind of a
+5:31 solution to the problem
+5:33 um it's great and it's not great one is
+5:35 that it's hitting a ton of keys at once
+5:37 and there is the potential for screwing
+5:39 up somehow especially if you've got some
+5:41 kind of system key somewhere else where
+5:43 it's utilizing you know just maybe part
+5:46 of that key combination is gets picked
+5:50 up by the system to enact some other
+5:52 software so it's not the greatest
+5:54 solution but it does work
+5:55 s for me you have to come up with
+5:58 um you know some error checking across
+6:00 your system for that to work so again
+6:03 just to reiterate when I'm swiping on
+6:05 that position it's enacting three sets
+6:08 of hotkeys and one of those will be
+6:10 applicable to the situation here because
+6:13 it's a like tool it's floor mode on
+6:16 material adjustment it's floor mode on
+6:18 material painter it's floor mode on
+6:20 object painter okay
+6:23 so there's one let's just kind of do
+6:26 another review of
+6:28 my edit toolbar we went over this
+6:30 um you know keeping track of your sub
+6:33 edit menus really important I kind of
+6:36 stopped keeping track of mine because I
+6:37 remember them so well
+6:39 um
+6:39 that you know I need to go update that
+6:42 so I don't have a visual listing of what
+6:44 every key does but I kind of know what
+6:46 they are
+6:47 keeping things in like family let's just
+6:50 quick review on that like this um
+6:54 this convert tool I also have simplify
+6:57 if I hold Ctrl so that's intuitive to me
+7:00 it's a very similar tool so keeping
+7:02 things in in like families that's a big
+7:04 big deal here and then let's go into
+7:07 some of my other menus this one's simple
+7:09 for me base cabinet wall cabinet full
+7:11 height cabinet it used to be that in my
+7:14 architectural menu I do have base
+7:15 cabinet and it will get me a full height
+7:17 cabinet and it will give me a wall
+7:19 cabinet holding modifier keys but I
+7:21 actually prefer having a dedicated radio
+7:23 menu for these objects and then
+7:26 I have base filler wall filler full
+7:28 height filler and this is a tool that no
+7:31 one knows about because it's not even
+7:33 intended to be used in model space it's
+7:35 intended to be used within a dialog box
+7:38 and but it does work in model space for
+7:40 one thing and one thing only this is
+7:42 great for deleting a face item which
+7:44 occasionally I need to do on the Fly and
+7:47 it's just nice to have that tool there
+7:48 so if I drop in a base cabinet and I
+7:51 place it inside a plan let's just turn
+7:54 on standard rendering mode I can use
+7:56 that tool to select just the faced item
+7:59 and then delete
+8:01 okay so that's one thing I've got in
+8:04 there and then I've got a soffit tool
+8:05 and I don't know if I want the soffit
+8:06 tool there or something else I don't use
+8:08 the soffit tool all that often so I
+8:10 might want something else there who
+8:13 knows
+8:14 and then let's touch on some of the main
+8:17 keys that we need to keep Unbound to any
+8:21 kind of hotkeys and one is that F key
+8:24 for filet the X key you can um you could
+8:28 override but I wouldn't and well
+8:31 actually no that's true I did override
+8:33 it because that's alternate draw mode
+8:34 and you can get to that by a right Mouse
+8:36 button
+8:38 so I bound X to delete so that I can go
+8:41 get control X for cut and we went over
+8:44 that in the last video
+8:45 so um the c key and the F key are major
+8:49 Keys we need to keep track of and make
+8:51 sure that you know we leave alone so the
+8:54 c key for concentric resize and if you
+8:57 don't know what that's doing we can drop
+8:59 a window in here and hold my c key and
+9:03 then concentrically resize based on that
+9:05 Center Point right or there's a bunch of
+9:07 different uses for this let's go ahead
+9:09 and use the F key just to show an
+9:11 example of that we're going to draw this
+9:12 out
+9:14 and let's say I've got something that's
+9:16 I'm going to hold that f key
+9:18 right and do a fillet I'm going to bring
+9:20 to the shortest segment so in this case
+9:23 the left segment is the shortest segment
+9:24 that ensures that I can snap both of
+9:26 these to that short segment and create
+9:28 you know tangent Arc right so
+9:32 when I want to recreate something like
+9:34 this like a walking path say that this
+9:36 was a paste of an image it's easy for me
+9:38 to come in here and draw past the apex
+9:41 of the curve draw past the Apex to the
+9:43 curve and there we go and now I know I'm
+9:45 going to get very close to that original
+9:47 image by holding that F key
+9:52 so maaf key is bound to the r key on my
+9:56 space Mouse Pro I just let you know now
+10:00 that we have this let's go ahead and
+10:01 close this box up let's draw this out
+10:04 and let's close this box and we'll just
+10:07 talk about this F key excuse me the c
+10:10 key for concentric now we can kind of
+10:13 hold the c key and depending on which
+10:16 node you hit you might get a concentric
+10:18 resize notice when I hit this corner and
+10:20 hold that c key we're getting a
+10:22 concentric resize now the reason that
+10:24 this is so powerful is that maybe I want
+10:27 to maybe I have something that is
+10:30 specifically 90 degrees in one side and
+10:33 I want to concentrically resize and I
+10:35 want an offset of exactly three feet I'm
+10:39 going to resize now it's intuitive to
+10:41 kind of pull out a diagonal but believe
+10:43 it or not you can pull straight down and
+10:45 when you pull straight down and you let
+10:48 go of C remember we can let go of C now
+10:52 I I can go ahead and hit my tab or Enter
+10:54 key
+10:56 and type in what did I say three feet
+10:59 and I know now that I have a three foot
+11:01 offset from that original size okay
+11:04 and the same thing if we just do a copy
+11:07 paste
+11:10 notice we have an edit handle here look
+11:12 at this
+11:13 and then Tower Enter key three feet now
+11:17 we have a three foot offset one more
+11:19 implementation of that let's just do a
+11:21 multiple copy and we're going to Center
+11:24 our interval as you guessed it three
+11:27 feet and so when we pulled out edit
+11:28 handle out it's going to make interval
+11:31 copies three feet so a couple different
+11:32 little tricks there for you
+11:37 so concentric and F key big one if you
+11:41 want to get pretty clever you can even
+11:45 um
+11:46 set up a hotkey to change your
+11:48 concentric jump and that would be a big
+11:51 one but it's going to be a challenging
+11:53 hotkey to script and I would use macro
+11:55 recorder to even script it um so that
+11:57 you even see what you need to script
+11:59 including delays so that you can
+12:02 set that up in your space Mouse so I'll
+12:05 show you what I mean if we're on a
+12:07 Windows machine we know we can hit alt e
+12:09 for preferences we can hit F and then we
+12:11 hit F again for preferences hit enter
+12:16 from here you got a shift tab to get to
+12:18 your panel navigation from the panel
+12:21 navigation we need to get into I think
+12:24 behaviors
+12:26 yeah let's see snap properties edit
+12:28 behaviors so BH there we go
+12:32 from here we can hit Tab and can we type
+12:35 in something I don't think we can so we
+12:37 actually have to tab through so now you
+12:39 have to track the number of tabs that
+12:41 you hit until you get to the edit type
+12:43 section
+12:44 once you get to edit type
+12:47 then we get to tab into the jump okay
+12:52 so I can set this to three or I can just
+12:55 make it so that my hotkey gets me here
+12:58 so that all I need to do is have that
+13:00 jump highlighted and then I can type in
+13:03 whatever I want so I'm going to set this
+13:05 to six this case all right now that I've
+13:07 got that set to six when I hit
+13:09 concentric and I start to jump it's
+13:11 going to jump in six inch increments
+13:13 which is essentially a foot increment
+13:16 right so that's kind of helpful let's go
+13:19 ahead and start with a program that I
+13:21 think I paid for
+13:23 um but it was inexpensive and I think
+13:25 there might be a free version of this
+13:26 let's record a new macro
+13:29 so now it's recording let me go ahead
+13:31 and do that alt e
+13:34 f f enter
+13:37 shift Tab and then we're going to type
+13:39 in behaviors which we're already on
+13:42 that's no problem tab again tab tab tab
+13:46 tab and then one more tab gets me to
+13:49 that jump now I'm going to stop
+13:50 recording
+13:52 from here I want to control a for all
+13:55 right click bulk edit delays in the
+13:58 section and I'm going to set these to
+14:00 say 50 milliseconds so now this will
+14:03 enact very quickly okay
+14:05 let's go ahead and press OK for this
+14:07 dialog box
+14:08 and let me get back into that macro
+14:11 recorder let me bring that up it just
+14:13 disappeared on me
+14:18 now I want to go ahead and hit play and
+14:20 it's going to switch back windows to
+14:21 Chief
+14:24 and it got me to that jump very quickly
+14:25 so I could set it to three
+14:27 so you can set that hotkey to do that
+14:29 notice that we didn't have any issues in
+14:32 in this millisecond lag that I set so
+14:35 maybe I want to even reduce this down
+14:36 even more let's go ahead and edit this
+14:39 significantly
+14:41 let's change this to 35. okay so let me
+14:45 hit play again
+14:46 look at that how quick that was six
+14:48 inches boom so now I have a hotkey to
+14:52 enable my concentric jump which could be
+14:54 very very helpful if you get used to
+14:56 using that so it's particularly helpful
+14:58 if you want to set things inch and a
+15:01 half interval for cabinets so that you
+15:03 can concentrically resize in three inch
+15:05 intervals like that's a big one so
+15:07 another little tip and trick if you want
+15:09 to implement that
+15:11 and then just keep in mind for auto
+15:13 hotkey it might be the case that you
+15:16 need to well I'm using it specifically
+15:18 to see exactly what I need to script in
+15:21 terms of the 3D mouse let's go ahead and
+15:22 do it
+15:23 let me hit eject here and we'll
+15:26 um duplicate this exactly the way it is
+15:29 for our 3D mouse so
+15:32 let me bring up the 3D connection
+15:33 properties
+15:35 let's get into buttons for Chief
+15:36 Architect
+15:38 and see what we've got my buttons mapped
+15:40 to right now I have a few free keys
+15:43 still
+15:44 um that's a funny copy I didn't know I
+15:46 had copy there
+15:48 kind of a funny one
+15:49 so let's do a I'm just going to do a new
+15:52 radial menu why not
+15:55 by the way you can always type in new
+15:57 radial menu to get to this and then
+16:00 eight section radio menu let's do
+16:02 I don't know specialized
+16:05 why not and let's do a new macro we can
+16:08 type in new macro
+16:12 now that we have this open it's going to
+16:14 lock into the Chief Architect editor so
+16:16 we can bring up that auto hotkey again
+16:20 is here and just pop this in this window
+16:22 over here so we know what we need to do
+16:24 here right
+16:26 so let's see left BB oh we're missing
+16:31 something so alt left all right
+16:33 so macro name is going to be
+16:36 uncentric jump
+16:40 and then this is going to be a stock
+16:42 thing and hopefully we get it right in
+16:44 the first go so we need
+16:47 um
+16:50 Alt
+16:52 e
+16:53 and then let's do a new command
+16:58 f
+16:59 new command f
+17:02 um
+17:03 and then that's going to bring up
+17:06 oh and then we need enter
+17:14 so I'm just looking down this row right
+17:16 enter the next one is
+17:18 shift left and tab together
+17:25 okay
+17:29 and then we're going to type in
+17:33 e h
+17:36 e command
+17:38 e
+17:40 and
+17:41 h
+17:43 okay
+17:46 and then we get to tab
+17:51 and then here it's kind of tricky
+17:53 counting the tabs right
+17:56 so
+18:00 as we we hit it a few times here
+18:07 surprised how many times we hit let's
+18:09 see keyed down one two three four
+18:13 five six why did we need all those tabs
+18:16 six key downs one two three four five
+18:20 I'm gonna go ahead and do it and stick
+18:22 to it so tab five times
+18:31 and this is a guessing check we might
+18:33 need to fix one of these deals here so
+18:36 let's save this concentric jump
+18:40 and that's going to be
+18:42 let's see if I can pull that up now
+18:43 there it is concentric jump
+18:46 okay so we missed something here find
+18:48 replace text is what it popped up
+18:51 and why would it do find replace text
+18:53 well we know that control
+18:55 f is find replace text so we need to go
+18:58 back and look at that code and this is
+19:00 kind of the troubleshooting the thing I
+19:03 think that we need is some um
+19:05 some spaces here
+19:07 some delays
+19:10 and what do we call the specialized
+19:12 right
+19:27 so
+19:29 even though we hit alt e
+19:33 um it looks like
+19:35 it wanted to somehow hit f
+19:40 whereas where else is there an F nowhere
+19:43 interesting
+19:45 so I think we need a little bit of a
+19:48 space between these two
+19:50 and remember we can drag things up so
+19:52 let's add a I'm going to click here
+19:56 and add a delay
+19:59 and that delay we know can be about 40
+20:01 milliseconds
+20:03 okay
+20:04 and now that we have that we can drag
+20:05 this up
+20:09 I'm going to expand this window if we
+20:11 can I guess we can't
+20:16 so now we have a delay between all e
+20:18 and I'm just going to hit save and let's
+20:20 try it again
+20:25 okay so that got us to behaviors Now
+20:28 where's our
+20:31 and it got us to default and it needed
+20:34 one more tab let's try that again
+20:36 try it one more time here
+20:40 we needed a delay between some of those
+20:42 tabs so we might put some millisecond
+20:44 delay in those tabs
+20:46 okay
+20:51 let's just do do concentric jump and
+20:54 edit
+20:58 said we needed five tabs look like these
+21:01 are going a little too fast
+21:03 so let's go 35.
+21:10 I think it's
+21:11 um
+21:13 maybe the first tab might get us there
+21:15 let's just try that
+21:28 okay that wasn't it
+21:30 um and maybe I'm missing a tab so
+21:34 let me just type this out again
+21:36 because we did five tabs all e f f enter
+21:40 shift tab behaviors tab one two three
+21:45 four five six we needed six tabs okay
+21:50 there's the issue
+22:00 and it looked like we didn't need any
+22:02 delay
+22:14 kill that delay and add a step that's a
+22:17 command and
+22:20 now that's saved let's give it a shot
+22:26 bam very quickly it's exactly what we
+22:29 want here
+22:31 being able to set that on the Fly is
+22:32 pretty clever
+22:35 look at that
+22:36 very cool so there you go there's an
+22:39 implementation there is the idea of it
+22:42 and then figuring out how we can
+22:44 implement it and in a troubleshooting it
+22:47 and there we go so that's a that's kind
+22:49 of a cool one actually I'll probably
+22:50 start using that a little bit more
+22:52 because clearly I wasn't using it even
+22:54 though I know about it and I use it
+22:56 every once in a while I will probably
+22:58 use it more now because it would be very
+23:00 easy for me to just hit this bam and
+23:02 then just start typing in you know 1.5
+23:05 and get to a cabinet resize consent
+23:07 concentrically and that's that's great
+23:12 although that was funny it picked up
+23:14 some additional sizes there
+23:17 I wonder why I picked up a different
+23:18 size here oh it's referencing this
+23:20 cabinet down here that's why
+23:23 there we go look at that beautiful works
+23:26 great
+23:27 so
+23:28 what's next well now we want to start
+23:30 looking at some other softwares and how
+23:32 we use this system across other
+23:33 softwares and specifically I want to
+23:35 talk about just
+23:37 um using this in Gmail because I use
+23:40 Gmail I don't know about everybody else
+23:42 but that's what I use
+23:44 and so what I like to do here is I'm
+23:49 kind of basing things on on same
+23:51 function where I've got an edit menu and
+23:54 I've got some other menu right and so my
+23:58 some other menu is a quick swipe down
+24:00 and let me just click and move this over
+24:02 here quick swipe down to the left that
+24:04 gets me to my website's coding portion
+24:07 I've got a clipboard here I've got close
+24:10 tab next previous tab I can get the
+24:13 Gmail quickly I can get to my Facebook
+24:14 group quickly copy or paste
+24:18 just start figuring out functions that
+24:20 you would you could use in a chrome and
+24:23 start implementing it because it makes a
+24:26 huge difference now I still have yet to
+24:29 build out a system for Adobe Acrobat but
+24:32 the 3D mouse works great for navigating
+24:34 in Adobe Acrobat so that's another thing
+24:37 to spend time and set up and kind of
+24:40 come with the same system of approach
+24:42 that you're using for these other
+24:44 applications like Chrome so let's look
+24:46 at my label properties menu which is my
+24:50 thumb key again this is the main one
+24:51 when I'm filtering through Gmail I want
+24:55 to be able to do this very very quickly
+24:56 and what I mean by that is I come
+24:58 through and label things or delete
+25:00 things so that they're sent to a
+25:03 specific label and then I can go to that
+25:05 label to respond to my clients
+25:08 and keep in mind I'm also keeping a
+25:10 heavy set of filtering going on where
+25:12 I'm filtering based on promotions social
+25:15 updates uh forums and then a primary and
+25:18 I set this up and as I go and I get
+25:21 something that didn't make it made it
+25:23 through a filter and made it into my
+25:25 primary I make sure to put it in the
+25:27 appropriate form and then I make sure to
+25:30 set a rule so that it does that and
+25:32 that's quick to set up I would tell you
+25:34 to go search zero inbox on YouTube and
+25:36 there's a few videos out there about
+25:38 that the next thing is I have enabled
+25:40 hotkeys within Chrome and one of those
+25:42 hotkeys is L for label and then being
+25:45 able to type out a label very quickly
+25:47 and enact that so the same way we just
+25:50 wrote a macro to do a set of actions I
+25:53 wrote macros to do a set of actions to
+25:55 get through emails very very quickly you
+25:57 notice here my inbox is only 28 so I've
+26:00 got a form submission here I know I need
+26:01 to respond to form submission so I'm
+26:03 going to swipe up and to the right to
+26:05 follow up now I know that so well that I
+26:07 can do it very quickly so I can swipe
+26:10 left to Archive which is the same thing
+26:12 to me as cut or delete now I don't want
+26:15 to delete things in email very
+26:17 infrequently I will delete things so I
+26:19 have that in the lower position here so
+26:21 you see here lower position is D delete
+26:23 email swipe left is archived in this
+26:26 case Chief talk stuff I'm going to
+26:27 delete I don't really care too much
+26:28 about that but I want to do follow up on
+26:31 other things if it's already labeled
+26:32 follow-up then all I need to do is
+26:34 archive because it's going to send it
+26:35 it's going to keep that follow-up label
+26:38 in place so I need to be looking for
+26:40 this red tag that says follow up because
+26:42 that means it's already in my follow-up
+26:44 label and I don't want to
+26:46 de-label it remove the label because
+26:49 that would be problematic so here we go
+26:51 another thing I need to respond to some
+26:54 other things I need to respond to this
+26:56 one's already labeled as follow-up this
+26:58 one I need to respond to and so just
+27:01 down the line and very quickly you can
+27:03 see here as I get a little faster with
+27:05 this
+27:06 I can really quickly punch through this
+27:09 right
+27:14 and I'll just get through this just so
+27:16 you see exactly how I'm doing this
+27:38 so we've limited it now down to 15 inbox
+27:42 and I don't have that much more to get
+27:44 through and then what I'll do is I'll
+27:46 come to the follow-up page and then
+27:48 start writing my responses and I kind of
+27:50 set this up for you know things that I
+27:53 know that I immediately need to touch I
+27:55 might browse through here and then
+27:56 otherwise I pick a date and usually it's
+27:58 my Thursday that I need to come through
+28:00 here and punch through all my emails so
+28:02 um just something to keep in mind and
+28:04 I'd encourage you to do the same set it
+28:07 up so that your clients know that you
+28:09 respond on specific days right and and
+28:12 then that way they can just expect that
+28:14 by that day they're going to have an
+28:15 email response and if they need to get a
+28:17 response idv sooner tell them to give
+28:19 you a call so that's my Approach just
+28:21 helping you with that so there was my
+28:24 Google Chrome setup on how I'm setting
+28:26 up my hotkeys and then I've got an
+28:28 entire completely different Suite of
+28:31 tools for Photoshop
+28:32 um Photoshop also works great with the
+28:35 3D mouse once you figure out how to
+28:36 enable it which is I think you have to
+28:39 run it as a script to initiate it and
+28:42 then once you've got that it does work
+28:44 really really well so I've got that set
+28:46 up and I'm kind of working through
+28:48 using it and remembering the keys so
+28:52 that I know how to approach it the next
+28:55 time and improve the system because
+28:56 right now I don't have a full system in
+28:59 mind for Photoshop so something
+29:01 something to kind of be an iterative
+29:04 process and work through the problems
+29:07 now back to Chief Architect because
+29:09 we've kind of gone through a little bit
+29:11 of my thought process on the radio menus
+29:13 but now I want to talk about my mouse
+29:17 g604
+29:18 I have three g602s and I have one g604 I
+29:23 love the g604 for a very specific reason
+29:27 two very specific reasons one is that it
+29:30 has infinite scroll on the top it can
+29:32 click a button and enable infinite
+29:34 scroll and that really really works well
+29:36 for moving quickly through things and
+29:39 then the next part that I like about the
+29:42 g604 is that it's got side click actions
+29:45 on that Mouse wheel that work really
+29:46 really well
+29:47 so that essentially adds a couple of
+29:50 additional buttons so let me get into
+29:52 the g604 suite here and tell you about
+29:56 how much I hate this Suite I find it to
+30:01 be
+30:02 just
+30:03 extremely poorly written just so poorly
+30:07 written
+30:08 um it's not intuitive to figure out
+30:11 where you script from it's not intuitive
+30:14 to figure out where you set your hotkeys
+30:16 up at and believe it or not it's that
+30:19 you're clicking on images that have no
+30:21 text to them and how ridiculous is that
+30:24 and I can't tell you how long it takes
+30:26 me to remember that when I come back to
+30:28 this driver package so
+30:31 I think it's absolutely ridiculous and
+30:34 then nothing is intuitive in terms of
+30:36 scripting view 1 versus view two how on
+30:39 Earth would you know that view two is a
+30:41 whole nother subset of scripting options
+30:44 you wouldn't it just sounds like it's
+30:46 another view of your mouse so just when
+30:49 you're in this driver package just
+30:51 remember it's frustrating and it's not
+30:53 intuitive and think back to this video
+30:56 of how you do these things so we can see
+30:59 here I've got control and shift right
+31:02 next to each other and that makes it so
+31:03 that I can press these two together now
+31:05 the thing that I like about the g602
+31:08 more than the g604 is that these two
+31:11 buttons are harder to press together on
+31:14 the g604 it was easier to press them
+31:16 together on the g602 that's because on
+31:19 the g604 the top button which I have
+31:22 bound to shift
+31:23 um stands out further than the bottom
+31:27 button and I think it should be inverse
+31:29 for just for ergonomics sake now I know
+31:33 why they did it so that you can Target
+31:35 it a little bit easier but it is much
+31:37 more difficult to press these two
+31:38 together I've gotten used to it now
+31:41 the next thing to note is my copy paste
+31:44 and paste hold position in Chief are
+31:48 complementary actions where shift is a
+31:51 modifier key so I've changed my copy
+31:53 paste so that copy paste hold position
+31:55 is the same as copy paste plus shift so
+31:58 I'm holding copy paste plus shift
+32:00 together so this is another two buttons
+32:02 that needed to be right next to each
+32:04 other
+32:05 the next is the enter key I think I've
+32:07 gone over this several times where the
+32:08 enter key when you're in edit
+32:10 preferences and text you can set it so
+32:13 that the enter key does not create a new
+32:16 line in text meaning that you have to
+32:18 hold shift and enter together in order
+32:21 to get a new line while you're typing
+32:22 which is pretty common across multiple
+32:25 different websites and other softwares
+32:27 as well so holding shift plus enter will
+32:30 get you a new line hitting enter instead
+32:33 closes dialog boxes hitting enter will
+32:36 get you the tab enter input method so
+32:39 the enter button becomes really really
+32:41 powerful
+32:42 that's why it's in my thumb position
+32:43 it's the key that I hit more than any
+32:46 other key besides my left Mouse button
+32:48 and then on the back end here is c for
+32:51 concentric and then I have reflect about
+32:54 objects set to t you know I don't know
+32:56 why I set it to T but that's what I've
+32:58 got it set to it might be that in the
+33:00 future I'm going to set this to a
+33:02 sequence
+33:03 and the sequence could be that maybe I'm
+33:07 I'm setting it to I'm not sure if I set
+33:10 it to something like x t as a sequential
+33:15 combination will override cut for some
+33:17 reason well it would it would initiate
+33:20 delete so maybe c t would work really
+33:24 well because
+33:26 um we'll we'll skate right past
+33:28 concentric to get to reflect about
+33:30 object but what happens when you try to
+33:33 script that in
+33:36 so let's just go get to reflect about
+33:40 and we see that I've got it bound to the
+33:41 T key which is kind of the waste of that
+33:44 t key and do we have a shift t a great
+33:46 way to find out if you've already got a
+33:48 hotkey out there already is typing out
+33:51 shift T and well typing out shift will
+33:56 get you there I don't know if we can
+33:57 type out shift plus three we can look at
+33:59 that so it is bound with modifiers to a
+34:02 couple different things now the cabinet
+34:04 tool utilizes this
+34:06 in some kind of sequence shift T but we
+34:09 don't actually have a control T in here
+34:12 anyways right so
+34:15 um
+34:15 maybe it's that that reflect about
+34:18 objects tool can be let's try control
+34:21 plus C again this is great thing to note
+34:24 that this is listing all the very um
+34:27 various things that we can
+34:29 utilize here so that Concentra the
+34:32 concentric is utilizing the modifier
+34:35 stack for copy and that makes sense and
+34:37 we don't want to really mess with that
+34:38 so
+34:39 um
+34:40 let's go ahead and try reflect about
+34:43 object
+34:45 and then we've got T I'm going to see if
+34:47 I can do CT or it might not allow me to
+34:53 oops
+34:56 remove
+34:58 BT
+35:00 there we go so it allows me to hit CT
+35:02 for a reflect about object and let's see
+35:04 if that actually works
+35:08 it does and there we go I just freed up
+35:11 the T key so you're seeing me improve my
+35:14 systems on the fly now keep in mind I
+35:16 now have to go and script that into this
+35:18 position and how do we do that well in
+35:20 this case we need a macro so we're going
+35:22 to create a new macro we're going to
+35:23 name it reflect about
+35:28 okay and then
+35:30 um let's see repeat while holding I
+35:33 don't think we need to repeat while
+35:34 holding I think it's just the toggle so
+35:37 no repeat and then start now
+35:41 and
+35:43 word keystrokes
+35:46 there we go
+35:48 so let's go ahead and try this now
+35:50 so now we should be able to take this
+35:52 reflectabout object get to view number
+35:54 two grab it hold it kind of hover over
+35:58 here and there we go
+36:00 now I don't know that this is my active
+36:03 window let's just try it out
+36:06 that did it there we go so improve the
+36:09 system now I have the T key that I can
+36:11 use for something else so
+36:13 cool
+36:15 let's go back to review here now on my
+36:18 view 2
+36:20 we'll go over a few things that I'm
+36:21 using here for this U and I here I'm
+36:24 using this top U this is one of the very
+36:27 few hotkey assignments where I have
+36:31 crossed the balance of what these tools
+36:34 do and it was you know in terms of
+36:37 likeness I'm not using the modifiers for
+36:41 like tools per se like I do in in so
+36:44 many of my other hotkey implementations
+36:46 and that's because there was just a need
+36:48 I couldn't see any other way of doing it
+36:51 main problem is when you go look for
+36:53 other mice out there that have more than
+36:55 11 keys they don't have
+36:58 um it's a very specific term and I can't
+37:00 remember what it is right now but they
+37:02 don't have the ability to hit two keys
+37:04 together many of those aftermarket third
+37:07 party mice out there can't do what
+37:09 logitechs can do where we can hit two
+37:11 buttons together and have it press both
+37:14 of those buttons at the same time it
+37:16 only allows pulling one
+37:18 um one button press at a time so
+37:21 um because of that I'm limited on my
+37:23 hotkeys I'm using U for
+37:26 um point-to-point move
+37:28 and then
+37:31 control U is going to be
+37:34 um
+37:36 replace object
+37:39 so when I select something from my
+37:41 library and I want to hover over and
+37:43 replace in 3D or 2D that's what it is
+37:46 I'm using that to enact replace object
+37:49 now shift U is going to be up a floor
+37:52 and Ctrl shift U is going to be forward
+37:55 a layout page and then alt Ctrl shift U
+37:59 is send to layout and then I is going to
+38:04 be my center and then it's going to be a
+38:09 control I is Center between two
+38:13 and then it's going to be
+38:14 shift I is down level
+38:18 and then Ctrl shift I is back a layout
+38:21 page
+38:22 okay we do see some similar sequence
+38:25 when we hit the shift modifier and
+38:27 control shift modifier
+38:30 then here I've got space for select
+38:32 objects and on the other side I've got
+38:35 numpad delete is set to
+38:38 uh select next side and I use that one
+38:41 all the time now so that's a big one for
+38:43 me
+38:44 um so that's the overview of this I'm
+38:46 getting a little burnt out on the video
+38:47 so I'm going to stop this here that's
+38:49 going to be session two
+38:51 um I'm sure there's going to be a few
+38:52 questions here a play around with maybe
+38:54 recreating that uh concentric dump jump
+38:57 jump tool that might be a fun one to
+38:59 kind of learn the process of because
+39:01 that'll help you create some additional
+39:03 macros that might be complicated and
+39:06 then and then that's it and enjoy and
+39:09 thanks VIP members I appreciate you so
+39:11 there's very few of you right now but
+39:13 I'm hoping at some point we get a bigger
+39:16 group here and that really fuels some of
+39:18 these bigger discussions and really cool
+39:20 tips and and tricks where we're pushing
+39:23 things forward I wanted to say shout out
+39:24 to
+39:25 um Sven in the group who's doing some
+39:27 stuff and sharing his findings and and
+39:30 methods that's really really cool I
+39:32 appreciate that a lot so I'm sure the
+39:34 rest of the group does too

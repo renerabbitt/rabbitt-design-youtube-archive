@@ -1,0 +1,253 @@
+Title: Elevations With Dark Color Cabinets In Chief Architect X16
+URL: https://www.youtube.com/watch?v=p8818uaZg10
+Visibility: public
+
+0:02 happy belated Halloween I'm going to go
+0:05 over a few tips and tricks for doing
+0:05 elevations when we've got color cabinets
+0:09 I'm going to just show you that I've got
+0:12 a rendering here and it's utilizing a
+0:15 particular me material I've built to
+0:17 create this cabinet color now this
+0:18 cabinet color is actually going to
+0:18 change a little bit so let me go and do
+0:22 that real quick I'm going to do a um a
+0:24 change in plan mode which means it's
+0:24 going to change any materials anywhere
+0:29 that this material is applied on any
+0:29 objects it's changing it throughout the
+0:34 plan all right and this particular
+0:34 material takes some kind of base cabinet
+0:39 color and blends with it all right and
+0:39 that base cabinet color is a really dark
+0:44 brown now the blend withd texture is
+0:44 where I'm getting this blue color from
+0:48 and I actually want more of like a
+0:48 lighter teal color is what this is going
+0:52 to end up being um so I'll play around
+0:54 with this maybe I actually have the
+0:54 color values so I could punch that into
+0:57 the RGB color values here but let me
+0:58 just press okay we're going to see the
+1:02 rendering Chang change there we go now
+1:04 what happens when I want to do a color
+1:04 elevation to kind of distinguish things
+1:09 so that we can see that this is this
+1:09 wood cabinet in the middle of this these
+1:14 other cabinet pieces how do we fade this
+1:18 out can we even fade this out right and
+1:19 so one thing that we could do is we
+1:19 could turn off colors but that kind of
+1:24 doesn't help us in the case that now
+1:24 we're looking at this color elevation
+1:26 and that Center cabinet it's not really
+1:27 clear that it's supposed to be some kind
+1:31 of wood fin finished cabinet well could
+1:33 we change the rendering modes I mean we
+1:35 could I'm going to double click in my
+1:35 rendering technique options and we can
+1:40 play around with um Glass House
+1:40 technical illustration maybe watercolor
+1:46 handdrawn lines Duo tone none of these
+1:49 really help that situation right it's
+1:52 still pretty difficult to distinguish
+1:52 that color on the walls and do we need
+1:57 that color to be represented as a true
+2:01 color or can we kind of get way with
+2:01 lessening that color value in a way so
+2:06 that this looks a little bit more
+2:06 appropriate in our elevation but a
+2:10 little bit different in our 3D rendering
+2:16 right so it's accurate in 3D rendering
+2:19 but readable in some kind of elevation
+2:21 what can we do we can try using the
+2:21 depth Q so use depth q h that gets me a
+2:28 little bit here that fog color overlaid
+2:31 right um so we get to start change that
+2:33 start and stop value and change what
+2:33 that fog color is and how much fog there
+2:38 is but notice that not only is this
+2:38 overlaying on the colors but it's also
+2:40 overlaying on our Vector lines which are
+2:45 our dark black lines that really help
+2:45 distinguish everything here so I don't
+2:50 think that's very helpful either it's
+2:50 kind of the same method as just throwing
+2:54 on some kind of polyline putting some
+2:54 fill to this polyline like a solid and
+2:59 then changing the transparency of that
+3:02 fill it's just going to cover up this
+3:02 stuff so it's not a great method either
+3:05 so there is something that we can do and
+3:09 it requires some kind of outside editor
+3:11 so I'm going to use my adjust materials
+3:11 tool which I call the Rainbow bacon tool
+3:14 and I'm going to pick up whatever this
+3:18 color is so my RGB value is
+3:18 4296 1112 and I have to remember that
+3:21 somehow might be helpful to just take a
+3:24 screenshot of this real quick press okay
+3:30 and then paste this back into to the
+3:30 scene just as a picture and we're going
+3:34 to turn off that pictures layer and
+3:34 let's just move this over so that we
+3:36 just have a reference right so it's a
+3:38 quick reference so I can see those RGB
+3:40 values then I'm going to fire up a photo
+3:45 editor but before I do that I want to
+3:45 use that material picker tool one more
+3:49 time and I'm actually going to locate
+3:53 this on my machine now I use my own
+3:53 textures right so and in my preferences
+3:57 and I'll just show you where this is but
+4:01 in my edit preferences or in the case of
+4:03 a Mac you're going to hit that Chief
+4:04 Architect
+4:04 preferences I in my file management sub
+4:11 panel of General panel down at the
+4:11 bottom under autoc copy files section I
+4:16 have copy externally reference material
+4:18 files to my data folder
+4:18 unchecked there's a reason for that
+4:22 specifically for me and this might
+4:22 change in X17 when they introduce our
+4:25 cloud service but the reason I have that
+4:31 unchecked is by default when you import
+4:33 some kind of material you're messing
+4:33 around with materials let me just bring
+4:36 up my file explorer here I'm going to
+4:36 get into the default directory for Chief
+4:43 Architect by default if I bring some
+4:43 material in it's going to Auto or bring
+4:46 an object in it's going to automatically
+4:51 bring that into where my data is located
+4:53 actually have relocated my data so that
+4:56 it's not constantly syncing so I have
+4:58 Chief Architect sync
+4:58 x16 and and then under textures this is
+5:01 where it brings that data in import data
+5:08 material data Etc all right I have mine
+5:10 unchecked so that it's easy for me to
+5:12 copy paste my path and manage my
+5:12 materials in an outside location so this
+5:16 is kind of a
+5:16 sidebar for you if you're using one of
+5:19 Chief architect's materials what you're
+5:24 going to see here is azip archive and
+5:27 what you could do is highlight that
+5:27 thing it's actually going to say pound
+5:30 zip
+5:30 you're going to highlight everything
+5:33 past
+5:33 dotzip delete that copy the leftover
+5:37 file and then be able to open up the zip
+5:42 archive and try to locate that source
+5:45 file that's a trick that I go over in
+5:45 VIP in my paid membership area um but I
+5:50 kind of gave you the the road map for
+5:50 that which is that you can get into the
+5:55 zip archive that contains your source
+5:55 files there is a way to do that for me I
+6:00 get to just highlight all this contr a
+6:00 or command a control C or command C copy
+6:08 that open up Photoshop crl o to open I
+6:10 can just paste it into the file name
+6:10 press open and now I'm opening that file
+6:16 very cool and because I'm I know my
+6:16 stuff in Photoshop I'm very you know
+6:19 experienced in this software and my face
+6:23 is kind of blocking my side layer here
+6:23 let me switch sides here so we can kind
+6:30 of see is I'm going to add a
+6:30 adjustment layer that is a hue
+6:31 saturation adjustment layer set to
+6:35 colorize and that colorize is where I
+6:37 could come in and try to Target a um an
+6:44 RGB value but we'll see here that as I
+6:46 change lightness and
+6:47 saturation I can actually get this to
+6:51 that color value that I'm looking
+6:51 for now something to note the grain is
+6:55 gets kind of washed out it's very
+6:58 similar to what happens in Chief
+6:58 Architect well I want to just double
+7:00 click on this layer and it's going to
+7:04 bring me to layer
+7:04 Styles now layer Styles this is where I
+7:10 have the ability to make sure that this
+7:13 color isn't quite affecting the blacks
+7:13 of the underlying layer now notice those
+7:17 blacks are way too heavy and they're
+7:20 pixelated but if I hold
+7:20 alt I can split that and fade that
+7:23 effect back and then kind of mess with
+7:27 this first marker to get it to right
+7:31 where I want it okay there we go and
+7:31 then the last thing that I might do is
+7:33 that I might change the opacity of this
+7:37 or the blend mode of this might be
+7:37 something that I can do as well if I
+7:39 really want that grain to show through
+7:41 now I actually don't need that grain to
+7:44 show through all that much so I'm going
+7:46 to adjust this back down a little bit
+7:46 more there we go something like that now
+7:51 what I could do is I could save and
+7:52 overwrite the existing file but I I
+7:52 don't want to do that I want to save
+7:55 this as a new file so I'm going to
+7:55 actually do Control Alt shift W I'm
+7:58 going to uncheck transparent leave this
+8:00 as a PNG file and I do want to come back
+8:06 to Chief and note the location of this
+8:08 which is in my materials folder under
+8:11 wood o cabinets all right so to come
+8:11 back to here get to my source materials
+8:13 file and this is just how I organized my
+8:19 file and so somewhere in here and what
+8:23 did we say it was it's at Oak cabinet
+8:23 under Wood Oak cabinet so I can actually
+8:27 just type in Oak and it's going to get
+8:27 me to Oak cabinet and so I save this as
+8:33 Oak cabinet 3 in this case why not or I
+8:37 can save it as teal if I wanted to so
+8:39 that back and Chief Architect and I
+8:39 didn't quite take the time to get this
+8:43 color right but I'm going to uncheck
+8:43 blend with texture in this case because
+8:50 I'm replacing the source and the source
+8:53 itself is in fact it carries that color
+8:57 data with it so show you why this is
+8:57 impactful here we go we're going to get
+8:59 get into this we'll find that same thing
+9:03 o
+9:03 cabinet find that file bam now in the
+9:11 pattern panel this is where I get to
+9:11 lighten how strong this color is so I'm
+9:17 still showing it as some kind of a blue
+9:17 but it's a very light blue and we'll see
+9:24 what happens look how much more readable
+9:28 this is but in terms of the rendering if
+9:30 I got that color right the color is
+9:30 still that darker color but I can change
+9:37 the brightness of this in that pattern
+9:40 color all right which makes this a far
+9:42 more readable document so that's the
+9:42 whole point of this video it's kind of a
+9:47 trick so that you have a distinguishable
+9:49 set of parameters that you can you know
+9:51 keep lightening this material colors so
+9:54 that you still have a color elevation
+9:54 when you're utilizing some kind of dark
+9:59 material color hope that helps you out
+10:01 that's kind of a long video this would
+10:03 be an example of a video that I might
+10:05 have in my membership zone so in case
+10:05 you're wondering about that we've got so
+10:09 many hours of content in there and I go
+10:09 over more advanced things like this that
+10:13 will really help your documents and
+10:13 improve your overall workflow especially
+10:17 when you want to do gorgeous looking
+10:17 color renderings and color elevations
+10:20 and have a a plan set that really stands

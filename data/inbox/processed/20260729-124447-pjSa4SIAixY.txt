@@ -1,0 +1,314 @@
+Title: Two or Multiple Schedules With Only One Callout In Chief Architect
+URL: https://www.youtube.com/watch?v=pjSa4SIAixY
+Visibility: members-only
+
+0:01 what's going on VIP people if you've
+0:03 just joined the channel for this
+0:05 particular V video I thank you there's a
+0:07 lot of other videos here just like this
+0:09 uh this particular video is going to
+0:11 answer a lot of people's questions about
+0:13 having two schedules for one object type
+0:16 such as a window or having an object
+0:18 report to multiple schedules and how can
+0:21 we go about managing this and possibly
+0:23 getting to annotations that make sense
+0:26 and solve our issue now there are some
+0:28 caveats to this system but I'm going to
+0:29 show you a bunch of different ways that
+0:31 we can accomplish this right now in a
+0:34 plan view window I have two windows
+0:36 placed and there are two schedules one
+0:38 of these schedules is in this plan view
+0:41 another schedule is in a elevation view
+0:44 okay and I'm doing this to kind of help
+0:47 my end user maybe it's my Builder
+0:50 understand what they're seeing on the
+0:51 page now one of the caveats for this
+0:53 particular system is that we might not
+0:55 be able to show a schedule number in one
+0:58 of these views so I would suggest that
+1:00 we have our schedule number be in our
+1:03 master schedule is what I would call it
+1:05 or our primary schedule if you'd like so
+1:07 we can see here we're showing two call
+1:09 outs how can we get around this a couple
+1:11 of different ways one is that for the
+1:14 window itself in this case I could get
+1:17 to the label panel and I could just say
+1:19 suppress label what's that going to do
+1:21 that's not going to do anything actually
+1:24 first thing that I want to do is open up
+1:25 one of these schedules and in the label
+1:28 panel I'm going to say you use label
+1:30 instead of use call out this is what
+1:33 ends up showing up and we can see here
+1:35 that the schedule number is reporting
+1:36 multiple values w00 and
+1:39 e01 now we can see that this schedule is
+1:42 driving that Z e01 so we could open up
+1:46 this
+1:48 window and this is where we get to just
+1:51 suppress the label it's going to hide
+1:53 that text label but leave that call Out
+1:56 Left Behind and this is driven from our
+1:58 primary schedule so that if we reorder
+2:01 this in the primary schedule that's
+2:02 going to solve our all our issues for
+2:04 this so this might be a really easy way
+2:06 of managing multiple schedules and so
+2:09 the main uh part of this is that this
+2:11 window schedule we would remove the
+2:14 number right we don't want to see that
+2:15 here and hopefully this just makes sense
+2:18 in context by the other information that
+2:20 we might have here so that people
+2:23 understand what exactly the schedule is
+2:24 just by seeing maybe the 3D exterior
+2:27 elevation view Etc no matter what we're
+2:30 going to end up having some kind of
+2:31 duplicate schedule number if we include
+2:34 the number column you could try and
+2:36 conform this number across both
+2:39 schedules but they won't be dynamically
+2:41 linked to one another just keep that in
+2:44 mind so that's kind of a shortcoming of
+2:46 this particular approach no matter what
+2:48 that's going to end up being there what
+2:50 would be another approach to this let's
+2:52 say I don't actually want to use call
+2:54 out labels let's say I do in fact want
+2:56 to show this text instead so what would
+2:59 be a way could accomplish that well let
+3:01 me show you in this case we're going to
+3:03 use some kind of unique identifier to
+3:06 Target the schedule number that we want
+3:09 and only report that schedule number now
+3:12 there's a lot of other use cases besides
+3:14 just the windows schedule and I'll show
+3:16 you that in a little bit but what we see
+3:18 here is we've got a couple of unique
+3:20 identifiers one is that one of my
+3:22 schedules if we open them up let me go
+3:24 back to that schedule I'm talking about
+3:26 we're going to see in the labels section
+3:28 that I'm setting my schedule number
+3:30 start to be 100 okay so that's something
+3:33 that you could do to kind of create like
+3:35 a limiting factor something that I could
+3:37 go find right and so how do that become
+3:41 useful let's just say for instance we're
+3:43 going to pull out in this case that it
+3:45 uses a call it we're going to use a
+3:47 label instead and we're going to see
+3:49 that if we take away the suppression of
+3:51 the label here we just leave it an
+3:53 automatic label it's going to end up
+3:55 picking up those schedule numbers if in
+3:58 fact we have schedule numbers including
+4:00 right another way of doing this if I
+4:03 back up a little bit just to show you um
+4:05 another Dynamic way of looking at this
+4:07 is if we open up this window label and
+4:09 in the label panel we say automatic
+4:11 label but we uncheck include schedule
+4:14 number now it's showing our window size
+4:18 and then the call out from one of these
+4:20 schedules so let's take this a step
+4:22 further going to go back into this say
+4:24 it's going to use a label and I'm going
+4:26 to go back into these windows both of
+4:28 these windows in this cas case and under
+4:30 label I'm going to uncheck suppress I'm
+4:33 going to go ahead and specify a label in
+4:35 this case and I'm going to put something
+4:38 in here to just illustrate what I'm
+4:40 doing now this is a particular script
+4:42 that I have copied and put into the
+4:44 description of this video that you're
+4:46 watching so scroll down take a look at
+4:48 this description you'll see this script
+4:50 it's an inline script meaning that it
+4:53 can be executed within the object itself
+4:56 in this case the window so what I have
+4:58 here is some some kind of script that is
+5:00 saying hey let's look at what's reported
+5:03 for schedule number all right if that
+5:06 schedule number includes a comma let's
+5:08 go ahead and execute this script what is
+5:10 that doing specifically well we don't
+5:13 want to throw an error it might be that
+5:15 you don't yet have two schedules in your
+5:18 plan where this object is reporting to
+5:20 both of those schedules in which case
+5:22 it's only going to report One schedule
+5:25 there will be no comma the point of this
+5:27 script is we're looking at and splitting
+5:30 out additional schedule numbers based
+5:32 about commas all right so this first
+5:35 part of the script is just checking to
+5:36 see if there's a comma in existence keep
+5:39 in mind I just had Claude AI or chat GPT
+5:43 write this script for me it's not that
+5:45 you need to know all this particular
+5:47 syntax you can get something to help you
+5:49 write this script and also keep in mind
+5:52 I have a ruby script that's customade
+5:55 just for Chief Architect it's in the
+5:57 resources portion of my website you
+5:59 should go check that out so the next
+6:01 part about this is that we're going to
+6:03 split schedule number so whatever
+6:05 reports from schedule number we're going
+6:07 to split all of the individual inputs
+6:10 about the individual commas then we're
+6:13 going to map those in um inputs and then
+6:16 we're going to select any of those
+6:18 inputs in this case that start with W
+6:22 all right so I'm division it out I'm
+6:25 reporting only values that have W which
+6:27 means that I can go into other windows
+6:30 schedules change that prefix to anything
+6:33 but W and they will no longer be
+6:36 reporting their schedule with this
+6:38 particular inline script what am I going
+6:40 to do when I'm finished with all this
+6:42 I'm going to set this as my default
+6:43 window and then every time I place a
+6:45 window this will exist in the label the
+6:48 next part is that we're just mapping and
+6:50 picking that piece with a W and
+6:52 reporting that value so that when I
+6:54 press okay the only thing that should be
+6:56 left over is that one schedule number
+7:00 this makes it so that I can dynamically
+7:02 create other window schedules with these
+7:04 windows reporting to it to do something
+7:07 like show some kind of maybe percentage
+7:09 of glazing maybe I want to show that
+7:11 maybe I want to show what Windows Live
+7:13 on what walls as its own schedule build
+7:17 some kind of calculator calculator based
+7:19 on a schedule there's a bunch of
+7:21 different use cases for this so this is
+7:24 a really great way of saying hey we just
+7:26 want this to be the only reporting
+7:27 schedule system all right and then in
+7:29 these other views if we want to show
+7:32 something on a layout like this we can
+7:34 always just remove this keep in mind
+7:38 that we don't necessarily need to have
+7:40 this schedule on this page you could
+7:43 always keep your schedule in a cad
+7:45 detail and then send it as its own
+7:48 layout box right next to your elevation
+7:51 the reason you might want to do it this
+7:53 way as opposed to what I just described
+7:55 is that maybe you only want to show the
+7:58 individual windows that are on this
+8:00 individual elevation so there would be
+8:02 you know a use case there that would be
+8:04 applicable to this multiple schedule
+8:06 setup
+8:08 okay so how else can we use this let me
+8:12 go ahead and open up my prop plan
+8:13 template and we'll show you exactly how
+8:15 I'm using this and why in a number of
+8:17 different ways one is that when I build
+8:21 out a room what's happening is if I find
+8:25 schedule objects from room in my project
+8:27 information this is doing automatic area
+8:29 analysis for me which is this is being
+8:31 sent to a layout automatically so as I'm
+8:34 drawing out things and if I specify
+8:36 something as an addition it's going to
+8:38 build out stuff for me so I'm already
+8:40 utilizing this room in multiple
+8:42 different schedules right out of the box
+8:44 of my template the other thing that I'm
+8:46 doing is if I were to go find schedule
+8:49 objects from schedules from object is
+8:52 we're going to see here that I've got a
+8:53 legend showing room areas and we can see
+8:55 here we're starting and creating some
+8:58 kind of numbering system
+9:00 now this would be in the use case where
+9:01 maybe you're doing interior scoping on
+9:04 someone else's architectural design so
+9:07 maybe you've got an architect they're
+9:09 creating a room schedule number and you
+9:11 are trying to mimic that room schedule
+9:13 number while also doing things such as
+9:15 that automatic area analysis so it's the
+9:18 same exact approach what I'm doing
+9:20 specifically is I'm targeting 100 I'm
+9:23 taking values over 100 and that's the
+9:26 only thing I'm going to report to a room
+9:29 label for instance so I have a really
+9:31 Dynamic room label that there we go
+9:34 we've obviously specified a room there
+9:36 let's go ahead and split these rooms up
+9:38 so that this is now being driven by that
+9:41 schedule so that if I come to that
+9:43 Legend and let's throw a couple names in
+9:45 here let's call this living and let's
+9:47 call this one maybe we'll call this
+9:50 kitchen so I'm not going to be using the
+9:53 default room label in this case or maybe
+9:55 I just turn off that layer I'm going to
+9:56 be using this Rich text instead so if go
+9:59 to this Legend and I say hey I need to
+10:01 match this up with my Architects
+10:02 drawings living is in fact 100 and then
+10:06 there we go we've simply done this the
+10:09 reason we do this approach as opposed to
+10:11 typing in our own annotations because
+10:13 this is dynamic it eliminates the
+10:16 potential for user error in a number of
+10:17 different ways not only that but my room
+10:19 labels have a few uh conditional
+10:22 statements built into them that work
+10:24 with my overall system so that I can use
+10:26 a tool such as abbreviate this label or
+10:29 add plate height information to this
+10:30 label and we're still dynamically linked
+10:33 to the schedule number being able to
+10:34 reorder this on the fly so this is a way
+10:38 that you can be reporting to only one
+10:40 schedule and only picking up schedule
+10:42 numbers from a targeted schedule what do
+10:45 I mean by that let me just throw in a
+10:46 little text box right here I'm going to
+10:49 say in this case the text box doesn't
+10:51 know what the room is but there is a
+10:54 special internal thing that reports from
+10:57 room which is that we're going to put in
+10:58 room do schedule
+11:03 number right and then this is going to
+11:05 report look at this all of the schedule
+11:08 numbers that this room is included in so
+11:11 all we're doing is picking out something
+11:13 that's 100 or greater in this case
+11:17 really easy what does this mean this
+11:19 means that you can pick out schedule
+11:21 numbers not just that one schedule I
+11:23 could Target other schedules based on
+11:26 either a prefix right this r in this
+11:29 case or the suffix number the actual
+11:31 schedule number and it's maybe starting
+11:33 with some value so a couple of ways we
+11:36 can kind of dynamically report schedule
+11:38 numbers this will make it very easy for
+11:40 you to build things into this such as
+11:42 that area analysis which is doing some
+11:44 calculation for me so I hope you like
+11:47 this video this is a little bit for the
+11:48 advanced user but I think that you could
+11:50 follow along grab that script from the
+11:52 description it's a great script to just
+11:54 get to try this out and kind of play
+11:56 around and play around with a few of
+11:58 those other methods and maybe they will
+11:59 be applicable to your use case cool
+12:02 leave some comments
+12:16 [Music]

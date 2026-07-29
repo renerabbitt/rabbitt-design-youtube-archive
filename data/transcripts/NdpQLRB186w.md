@@ -1,0 +1,280 @@
+---
+videoId: NdpQLRB186w
+title: Multiple Baluster Profiles in One Staircase Railing In Chief Architect X16
+url: "https://www.youtube.com/watch?v=NdpQLRB186w"
+status: imported
+---
+
+# Transcript
+
+0:01 I got a request from a friend of mine
+0:04 how do we make this railing and the
+0:06 challenge with this railing is that it
+0:09 has two different profiles in it and so
+0:13 the immediate thought was that you can
+0:15 make a panel out of it um which to
+0:18 chieve a panel is just mill work applied
+0:20 to a railing so yeah we could do that
+0:23 but I have a feeling it won't work
+0:26 because well it wouldn't be very Dynamic
+0:29 and it'd be really really hard to get it
+0:30 to land on the on the step the way that
+0:33 you need it to um so let's let's mock
+0:37 this up and see what solutions to come
+0:38 up with so one is that I've got these
+0:41 two profiles I built these out of
+0:43 solids and so a couple things we could
+0:45 do with this um the one thing I want to
+0:47 do with this is just let's just assume
+0:49 an 11in
+0:52 Landing right and then we comeing up
+0:55 let's go
+0:56 7.75 and then another 11 inch Landing
+1:00 and so let's get our center lines of the
+1:03 of the landing and let's just before we
+1:05 even convert this to a symbol let's see
+1:08 what happens
+1:11 when yeah we mock this up um first of
+1:14 all I want to see if I can take this one
+1:16 and I'm going to do CAD stops move so
+1:20 CAD stops move makes it so that if I've
+1:22 got a line here I'm essentially stopping
+1:25 this from going past that line
+1:30 it's interesting it's not letting me
+1:32 move this at all right now funny about
+1:35 the selection with this somehow there we
+1:38 go and so cast stops move not actually
+1:42 working that's kind of interesting
+1:43 haven't used that feature in a while so
+1:45 let's just snap this down okay so the
+1:48 next piece is that we want to grab all
+1:50 three of these Center this up like that
+1:54 and then same thing we can just do a
+1:55 little point to point we can even do a
+1:57 shift point to point to just kind of
+1:59 lock that in
+2:00 orthogonally and so maybe I get to
+2:04 select these items right
+2:07 maybe and turn them into a milw work
+2:13 symbol and this is our custom
+2:17 newal add it to the library and also
+2:19 let's show Advanced options because I I
+2:21 drew this in plan mode it's a lot easier
+2:23 to draw for me in plan mode a lot of
+2:24 times um so then I just come in here and
+2:28 make sure that I'm rotating this so that
+2:30 it's being built appropriately and then
+2:32 the front face of this should be
+2:34 oriented in the direction of Y so there
+2:37 we go have it there we've got our our
+2:39 panel symbol here and so what happens
+2:42 when oh and you need to rebuild the the
+2:45 cad block as you can see there what
+2:47 happens when we just build a regular
+2:48 click stairs and then in that click
+2:50 stairs let's come into the railing
+2:52 specification and say that this has
+2:55 panels and so now that we have that this
+2:58 has panels we we need to make sure that
+3:00 we're not raising the bottom of this
+3:03 railing so um extend bottom end no let's
+3:08 see raise lower bottom we're going to
+3:10 lower this let's just call it 8 in and
+3:13 that forced that mill work down into the
+3:16 step itself okay now that we have that
+3:19 we should be able to come into a 3D view
+3:21 which would be my preference as opposed
+3:22 to going through the dialog boxes and
+3:25 take my new new panel that I just
+3:28 created and let's click this in and see
+3:30 what happens well you can see for one
+3:33 thing it skews that panel right it kicks
+3:36 it on an
+3:37 angle um the next part of this is that
+3:40 yeah it's not giving us much control
+3:42 over how
+3:45 um how this lines up so that's not a
+3:48 great solution uh in case you can't see
+3:51 this that well let me just put some line
+3:53 over real quick and get to just one side
+3:55 of the other and so and actually we'll
+3:58 just widen these stairs so you can
+4:00 really see through to the railing there
+4:03 we go and so that's what's happening
+4:06 right not landing on the stairs the way
+4:08 we wanted to and in fact it's budding
+4:11 that repeat right so we would need to
+4:13 have forced some kind of Gap in there to
+4:16 make the Gap in the steps but really the
+4:18 biggest problem is that it's it's skewed
+4:21 right it's on this funny little
+4:24 angle so here's my next thought and it's
+4:27 not it's not a perfect solution this
+4:30 look at the cad symbol going on the side
+4:32 there that's funny not a perfect
+4:33 solution but it might be a workable
+4:35 solution which is I'm going to do I'm
+4:38 going to do a series of
+4:40 railings so here's what I'm going to do
+4:43 I'm going to convert this to a milw
+4:44 workk symbol just by itself okay so
+4:48 there we go milw work
+4:50 symbol this is going to be
+4:53 new1 let's go ahead and get into the 2D
+4:55 symbol this time and say always so that
+4:57 it regenerates when we flip this up on
+4:59 it it end and so there we go now we've
+5:03 flipped it up on its end it's
+5:04 regenerating it's 2D symbol cool and
+5:09 let's see do we need anything else with
+5:10 this stretch planes Etc no I don't think
+5:13 so I think this is
+5:15 it so there's new
+5:18 one
+5:20 and let's grab and create nle
+5:28 two and why am I saying new we'll see
+5:31 that in a
+5:32 second you would think this is a
+5:34 ballister because that's you know
+5:36 appropriately effectively what we're
+5:38 creating but we want this in our library
+5:42 as a
+5:43 nle so the next part is that we're going
+5:46 to come in
+5:47 here and we're going to specify that
+5:49 this is
+5:52 ballister no open we want it to be open
+5:56 okay and in new's ballister
+6:01 you know we can set this up but you'll
+6:02 see what I'm doing here in just a second
+6:04 I'm going to just say that this is 22 in
+6:07 or something like that right and the
+6:10 railing we want the
+6:16 railing let's
+6:19 see for this we want rail passes over
+6:22 new this guy right here
+6:26 okay and so let's get back into that
+6:28 camera view let's pick our newal one and
+6:31 we're going to replace
+6:33 this oh and look at this how
+6:37 funny I did not realize that Chief
+6:41 rotates its neles that's a
+6:44 glitch um there's no other symbol where
+6:48 the front facing I guess what's the
+6:52 what's the Thought there they're saying
+6:53 that the the front of that the start of
+6:56 the railing is the front facing part of
+6:58 it all right well that's fine
+7:00 we'll rotate this in Z just like
+7:02 that and this is set to always update
+7:05 its CAD symbol so that should be
+7:08 done right so let's try this again here
+7:10 we go there we go now this is what I
+7:14 wanted for this first step because I can
+7:18 tab into this railing or rather let's
+7:23 see I should be able to should be able
+7:26 to autop place or change the place
+7:30 of these news you can't in a staircase
+7:33 that's what's going on so what do we
+7:35 need well we need a staircase with no
+7:39 railings so no railings now instead
+7:43 we're going to switch to and start a
+7:46 railing that follows
+7:47 stairs and I'm going to do two of these
+7:51 but we'll start with just one for
+7:53 now so here's a railing that follows
+7:57 stairs and the rail sty
+8:00 see follows
+8:02 stairs okay uh raise lower we're going
+8:05 to lower this8 I think is what we
+8:08 decided something like that except for
+8:11 this is open so we don't need a bottom
+8:14 rail and actually we don't need Ray
+8:16 lower this is going to be done in the
+8:17 newel section so make sure that this is
+8:22 um a little different dialogue box setup
+8:24 so this is going to be OST two rail open
+8:30 there we
+8:32 go
+8:36 and replace with this
+8:39 new perfect now I should be able to tab
+8:44 in and locate
+8:48 these just the way I want them every
+8:50 other stair now this is manually placed
+8:53 stuff right but it is still automated in
+8:57 some ways here
+9:00 and you'd want to do this from an
+9:01 elevation view it's going to be a lot
+9:03 easier to really line this
+9:13 up so you'd almost save this wall back
+9:16 to your library as a split setup is what
+9:20 I'm
+9:21 thinking so now that I have that let's
+9:25 see if we can't duplicate this wall it's
+9:28 still the same
+9:29 setup but this time we want to make sure
+9:32 that this has no room
+9:35 definition so that we can occupy the
+9:38 same
+9:40 space with two different wall assemblies
+9:43 and so newal 2 here we go we're going to
+9:46 change out this for new to and this is
+9:49 where we get to
+9:51 change our spacing
+9:54 right so I could put this on the first
+9:57 one second one it's
+10:02 Etc now the thing about this is we don't
+10:04 want this to include that top rail
+10:06 anymore we don't need it or at least
+10:08 that rail profile could be painted to be
+10:11 invisible now I have something in my um
+10:13 Library where I just get to paint this
+10:16 invisible so I've got no Z fighting
+10:18 going on
+10:19 here um although it doesn't seem to be
+10:22 painting
+10:23 anything
+10:27 interesting so what happens now when we
+10:29 Center these two up does it occupy the
+10:32 same space or does it take over and
+10:33 disappear look at that occupies the same
+10:36 space and now we have those two
+10:38 different profiles Isn't that
+10:42 cool let's just check this out real
+10:44 quick let's build a new floor let's get
+10:46 a little rendering
+10:49 going right let's take that
+10:53 staircase open this
+10:55 up throw a little light here
+10:59 throw a little light here throw a little
+11:01 scon on the wall maybe throw a window in
+11:04 here pretty this up and let's take a
+11:08 look look at that two different
+11:13 [Music]
+11:17 profiles pretty
+11:19 slick now what's going on with this
+11:21 railing here um that's just because this
+11:23 rail didn't extend all the way and when
+11:25 we extend it does it move our nles yeah
+11:28 it does so you going to have to come in
+11:30 here and and of fix this
+11:33 right and then this one had a starter
+11:36 newal so it's going to be a little bit
+11:43 different there we
+11:49 go try this out if you have a need for
+11:52 this this is you know that's a pretty
+11:55 slick way of doing it I mean this is
+11:56 kind of dynamically edited and
+12:00 you can save this and the interesting
+12:02 part about this is it will save its
+12:05 spacing that you created so when we draw
+12:09 with this again so let's just say I save
+12:11 this to my library add it to my library
+12:13 right and we draw with this again down
+12:17 here it's going to oh well I thought it
+12:22 kept its funny little offsets but it
+12:23 doesn't seem like it
+12:25 is kind of cool looking I like this
+12:28 railing Style so hope that helped you
+12:31 out thanks
+12:47 [Music]

@@ -1,0 +1,141 @@
+---
+videoId: lWo6RJTC9Fc
+title: Split Level Floor With Staircase Tutorial For Beginners-Chief Architect X-12
+url: "https://www.youtube.com/watch?v=lWo6RJTC9Fc"
+status: imported
+---
+
+# Transcript
+
+0:11 hello chief architects people this is a
+0:14 problem-solving video I've got a form on
+0:19 my website if you go to my website
+0:19 rabbit design what is it you know how to
+0:25 use my own website there it is rabbit
+0:27 design net and right on the website
+0:27 underneath my contact our excuse me our
+0:32 resources is chief architect
+0:32 troubleshooting form submit Alif you
+0:34 click on that you've got a cloud file
+0:36 that you've used to backup your file and
+0:39 you want to send it my way I usually
+0:39 solve these the next morning because I
+0:44 love to start my day solving these
+0:44 problems so anyways let's get back to it
+0:48 we're on users of chief architect and
+0:48 this is a Facebook group claire Jeffords
+0:53 that she wanted to create this
+0:53 split-level look with this staircase
+0:55 right here and you can see the staircase
+0:59 kind of starts from that dividing wall
+1:02 and then you know cuts into the floor
+1:02 above we're gonna do this all from one
+1:05 floor level alternatively we can make a
+1:09 whole nother floor level but for the
+1:09 purpose this video we're gonna do one
+1:13 floor level and so I've got something
+1:13 laid out that's similar it's not quite
+1:15 the same let's just take a look at what
+1:21 I've got it's a single floor level at
+1:23 the for the time being I'll just put
+1:23 this side-by-side so you can see what I
+1:28 doing as I'm doing it so first part of
+1:30 this obviously we've got a stair case
+1:34 here and it's going to be let's just
+1:34 call it three risers so two treads three
+1:40 risers from the default you can change
+1:46 that if you wanted to in style open
+1:48 risers nosing at top landing riser
+1:48 surfaces top landing under so our style
+1:54 tab or style section subsection top
+1:54 landing we could change this designation
+1:59 but anyways for the purposes video we've
+2:02 got two treads three risers so and we're
+2:05 gonna just call this 24 inches that's
+2:05 gonna be three risers at 8 inches apiece
+2:11 so the next part of this we've got our
+2:13 stair in place let's just
+2:13 for this guy's lined up on the inside of
+2:18 that drywall might even take a snap tool
+2:22 out of my active tool bar here and grab
+2:22 that corner of this guy any one of these
+2:27 guys getting some funny snap points from
+2:31 this and just snapping right in place
+2:35 and so the next part of this is I'm
+2:35 gonna continue this wall out and then
+2:38 snap to the edge here and go around this
+2:46 staircase and what I'm doing is I'm
+2:46 creating another floor level so we've
+2:52 got three floor levels we've got our
+2:54 lower floor level with a standard
+2:54 ceiling height we've got this floor
+2:56 level that's where the staircase is this
+3:01 is gonna be a higher ceiling height and
+3:04 then our upper floor level higher floor
+3:04 height higher ceiling height so we still
+3:08 want to call it eight-foot ceilings here
+3:10 but what I'm gonna do is I'm going to
+3:13 add 24 inches plus excuse me plus 24
+3:16 inches here at the floor level let's
+3:16 make this default and then we're gonna
+3:23 add 24 inches here as well so there we
+3:23 go now we've got our split-level set up
+3:28 so the next part of this is we're gonna
+3:31 do something a little similar here or
+3:33 but we're gonna leave that floor
+3:33 structure alone it's gonna be at 0
+3:37 inches but we're gonna add that 24
+3:37 inches to our rough ceiling height we
+3:40 don't see anything happen yet but we're
+3:44 gonna see that in just a minute
+3:44 back in plan I'm gonna add a doorway
+3:51 here if I can get that tool to work
+3:51 there we go so we've got a doorway here
+3:53 let's go ahead and make this doorway our
+3:58 what do we have this ceilings at it
+3:58 looked like it what there are nine-foot
+4:01 ceilings
+4:01 there we go so 9-foot ceiling you know I
+4:06 can play with that get it just right
+4:06 make sure we've got drywall flushed out
+4:09 the last part of this bit is that we are
+4:15 going to let's split this guy using the
+4:16 break tool that's out of my active tool
+4:19 bar right here number three key on your
+4:24 keyboard and select these three right
+4:25 here and in my
+4:25 Toolbar I've got my make wall invisible
+4:31 tool and you can see here in 3d we're
+4:33 getting really close to what we're
+4:33 looking at in that Facebook posts right
+4:40 there and I mean that's pretty much it
+4:40 we can get into some more details let's
+4:42 just make sure all the drywall is
+4:43 wrapping ooh
+4:43 geez we're outside of the box here
+4:45 drywall is wrapping correctly everything
+4:50 seems to be working just as it should
+4:51 you know it looks like her ceiling
+4:51 heights a little off here we can go
+4:53 ahead and open up this dialog here get
+4:58 to our structure tab copy this ceiling
+5:01 height close this dialog box and paste
+5:05 him in this right here and close that
+5:05 out should be flushed out so there we go
+5:10 now this has definitely been increased
+5:10 by more than 24 inches and we could look
+5:16 into that but overall this is the look
+5:17 and feel we were trying to get out of
+5:17 that video that's a new tool in in chief
+5:28 architect x12 I love this tool in fact
+5:31 it's in my tool bar hide camera facing
+5:31 exterior walls great tool so we can see
+5:36 you know from a distance here exactly
+5:38 what we've created with just a little
+5:40 bit of work there and obviously we've
+5:40 got to adjust some things but that's the
+5:43 method you should be using for this
+5:43 split-level floor to create this and not
+5:50 have any kind of artifacts and it in the
+5:52 geometry everything's everything's
+5:53 looking exactly as it should so hope

@@ -1,0 +1,469 @@
+---
+videoId: JcT28vE02dU
+title: New Cover Art Workflow - Photoshop Club
+url: "https://www.youtube.com/watch?v=JcT28vE02dU"
+status: imported
+---
+
+# Transcript
+
+0:01 what's going on Photoshop
+0:02 people
+0:04 I one of you in this club knows about
+0:09 what's going on in this video and what's
+0:11 going on in this video is I realized
+0:13 that I don't like any of my YouTube
+0:15 cover art I don't think it has branding
+0:19 in it that works and before I even get
+0:22 into what we're going to be doing in
+0:24 Photoshop to like recreate these YouTube
+0:27 cover Arts let's talk about branding for
+0:29 just a second
+0:30 branding to me my definition of it
+0:33 anyways and what I think of when I talk
+0:35 about branding is the the clearcut and
+0:37 obvious thing would be that we look at
+0:39 something where it has the same color
+0:41 palette across all images within um some
+0:45 kind of graphic medium right so we're
+0:47 sharing images online we're sharing in
+0:49 um Instagram stuff we're doing YouTube
+0:51 stuff uh on your website Etc and it's
+0:54 got a very clear color scheme now that's
+0:56 an obvious branding thing but that's not
+0:59 something something that I necessarily
+1:02 prescribe to I do have like an a kind of
+1:04 a loose branding which is that it's
+1:06 black white and pink um and I don't know
+1:09 why that zoomed out Hi and then um on
+1:14 top of the black but I don't use the
+1:16 black white and pink exclusively I
+1:17 change it up so and that's because I
+1:20 think that my logo is very Dynamic I can
+1:22 use just in in fact it's getting more
+1:25 Dynamic which we'll see here shortly but
+1:28 um I can use just the art of the rabbit
+1:31 um face which is the logo I can use just
+1:35 the ears and kind of clip them I can
+1:37 reverse it and I think it still tells my
+1:40 brand you know that you recognize those
+1:42 ears I can fill them and you recognize
+1:44 those ears they're on you know all of my
+1:48 my Facebook profile images the rabbit
+1:50 ears so that's that's just a dynamic
+1:54 logo and I looked out there um and so a
+1:57 lot of people will do branding by the
+1:58 color scheme that they use because they
+2:00 don't necessarily have such a dynamic
+2:02 logo like that where it's so distinct
+2:04 you know you you know a lot of people in
+2:06 in our industry that might be watching
+2:09 this video and we're in the architecture
+2:10 industry you might have a logo that's a
+2:12 home right a couple roofs or something
+2:14 like that and it's really hard to
+2:16 distinguish that once you start playing
+2:18 around with it right um so that that
+2:21 color scheme is a huge part of
+2:24 it so that's part of branding and that's
+2:26 to me that's the obvious part of
+2:28 branding the less obvious part of
+2:30 branding is when you have a clear theme
+2:34 even if it's not driven by color and so
+2:38 I'm trying to get to that side of things
+2:41 I'm looking at other people's YouTube
+2:43 cover art and it's one it's surprising
+2:46 to me just how small the cover art is on
+2:49 certain devices and so and I wasn't
+2:52 realizing that because I was creating my
+2:53 cover art while I was on a desktop
+2:55 machine with a gigantic screen so it was
+2:58 really easy for me to see see what I was
+3:00 making and feel like it was
+3:01 distinguished and stood out but once you
+3:05 start viewing these things on really
+3:06 small devices it's really hard to see
+3:10 and so the things that pop out at you
+3:12 are the really large fonts so I went on
+3:14 the search for large fonts and I found
+3:16 some and I'm using one that's really
+3:19 common in YouTube but I don't think that
+3:21 that matters necessarily I think there's
+3:24 so many fish in the sea that it's not
+3:27 the worst thing in the world if you're
+3:28 using a different someone else's recipe
+3:31 that's been used time and time again um
+3:34 especially because I've got I'm catering
+3:36 to a certain audience and it's a certain
+3:37 audience that I don't really think
+3:39 spends all that much time on YouTube
+3:41 anyways so with that in mind um that was
+3:46 the first part I stole a huge font and I
+3:49 was working on how do I how do I create
+3:54 a dynamic image and and really sell my
+3:58 look right so so let's just take a look
+4:00 at this real quick we're just looking at
+4:03 my recent open files in Photoshop but
+4:07 what I like about this particular view
+4:09 is that it's showing me what these cover
+4:11 Arts look like on a very very small
+4:14 device right and one of the things that
+4:18 I noticed when I was going to look at
+4:19 YouTube and let's just pull YouTube up
+4:21 real quick let's see if I can't get it
+4:22 on the main screen and let's get into
+4:25 just I don't need to be in YouTube
+4:27 Studio let's just go into regular
+4:30 channels and what you'll see here the
+4:32 one thing I really like and popped out
+4:35 at the screen at me on is this plan
+4:38 review cover art that Dan over at chief
+4:41 chief experts has that's just really
+4:44 clear from a great distance I can see
+4:47 that and know exactly what I'm looking
+4:49 at but the thing I found really really
+4:52 interesting was you can't read the
+4:56 graphics on those plans that he has in
+4:58 that cover art but what you can
+5:01 understand is that those are plans and
+5:04 so with that in mind it's really easy to
+5:07 understand what we're selling here so I
+5:11 suddenly realized I don't need you to be
+5:12 able to see exactly what's there in High
+5:15 Fidelity I just need you to have have an
+5:18 association in your mind with what we're
+5:21 seeing so taking it back into Photoshop
+5:24 how do we set this up how do we make it
+5:26 Dynamic I'm going to end up redoing my
+5:28 shorts which is this is the cover art
+5:32 tool for my shorts um which I'll come in
+5:34 here and you know bring in some files
+5:37 adjust some things and before I know it
+5:39 I've got some cover art right and this
+5:40 worked really well for a very long time
+5:43 but it's got too much on the screen the
+5:46 shorts were too large so I couldn't even
+5:48 fit anything else on the screen what
+5:51 this old cover art did really well was
+5:54 it established a theme that you now
+5:56 recognize and see and understand what it
+5:58 is which is that you see the shorts
+6:02 themselves and you'll see them again and
+6:03 you'll recognize them but they don't
+6:05 need to be that large right we can still
+6:08 see this and recognize it even at a
+6:10 small small size and note that I
+6:14 understand that those are shorts and
+6:16 that I'm associating it with this series
+6:18 that is Chief Architect shorts videos
+6:20 all right wasn't my greatest moment ever
+6:24 picking some basketball gym shorts for
+6:25 this but I do think that it kind of
+6:28 created an ass assciation where you now
+6:31 you know that's a 2 or three minute
+6:33 video and I want to watch a two or three
+6:34 minute video great I think that works
+6:37 the next part of this is I wanted to
+6:39 speed up my workflow and my workflow was
+6:41 pretty slow and it was because I was
+6:43 needing to adjust a bunch of individual
+6:45 elements in the old YouTube shorts file
+6:49 I was having to come in tweak little
+6:51 settings to get all the looks and feels
+6:53 that I wanted so I'm starting to take
+6:56 advantage of libraries which is on the
+6:57 right hand side where we get to just
+6:58 drag in some smart elements that's one
+7:01 side of things the other side of things
+7:02 is I'm making additional save files so
+7:05 that I can go back and re-edit some of
+7:07 these or start from them as a basis
+7:09 right so the really cool and dynamic
+7:12 thing that happens in this particular
+7:14 workflow in YouTube is let's just see if
+7:16 we can't um I'm going to bring my layer
+7:18 stack out so that we can see it a little
+7:21 bit better and on top of that I'm going
+7:23 to see if we can get really large
+7:25 thumbnails I think we get the right
+7:27 click in here yeah we do large thumbnail
+7:29 there we go and now maybe we can see
+7:31 this just a little bit better so we can
+7:32 see what's going
+7:34 on so and let's just pan this over to
+7:38 the side there oh boy moving an element
+7:41 didn't mean to do
+7:42 that there that's nice okay so what's
+7:47 going on here in the layer stack and
+7:49 maybe in future I might even I'll try
+7:53 this we'll do a a zoom window in OBS
+7:56 where we are zooming the layers so that
+7:58 we can really see that nice nice and
+7:59 large kind of in the same area but blown
+8:01 up that might be a nice thing for
+8:04 everybody to see um in case you can't
+8:05 see this on the screen so what I've got
+8:08 here is it's a it's far fewer elements
+8:12 and we're trying to limit things to
+8:14 being able to click using just our V key
+8:17 which is our selection tool right that's
+8:20 our move tool actually just using our
+8:23 our vkey to make a selection and then
+8:26 edit that selection based on that so the
+8:28 first thing I needed to do was I needed
+8:30 to clean up my shorts layer stack which
+8:32 it was a layer stack before and now I
+8:35 did a few things cleaned them up and now
+8:37 it's just a simple smart object that's
+8:40 part one meaning that when you click on
+8:42 this you're not clicking on a bunch of
+8:44 elements you're just clicking on the
+8:45 object itself that's really awesome the
+8:48 next part is once we click on the object
+8:51 itself it's clear to see in the layer
+8:53 stack where we get to adjust things okay
+8:55 so that's part part of it next part of
+8:58 it is want to be able to to click on the
+8:59 text itself right and so that works and
+9:02 clicking on the rabbit itself this also
+9:04 works but notice that sometimes when we
+9:07 click on the rabbit we're actually
+9:08 clicking on a color fill okay so I think
+9:13 I'm going to change off the color fill
+9:14 because I think if it's a hue saturation
+9:16 adjustment layer I could click here and
+9:18 it's not going to select that color fill
+9:20 it's going to select the rabbit so that
+9:22 I can adjust it so that was another part
+9:25 now before I got too far I was realizing
+9:27 that the rabbit just just against this
+9:30 big block lettering wasn't standing out
+9:32 so what I did was I handrew in the
+9:35 inverted elements of the rabbit logo
+9:38 where our negative space is what the r
+9:42 rabbit logo is typically made out of
+9:44 what is that mean then well we get the
+9:47 group select the rabbit logo and the
+9:49 text together and now it's all in one
+9:52 group which means that when I change
+9:54 this color to whatever I want notice
+9:56 it's changing both the rabbit logo and
+9:59 the text itself and it's even skipping
+10:01 some of the bunny ears because it's got
+10:03 a mask on it so that's a really awesome
+10:06 and dynamic thing we get to switch
+10:08 colors real fast in this way okay so
+10:12 here's what I think I think I'm going to
+10:13 get rid of this color fi real quick but
+10:15 I want to save that this element where
+10:17 it's blocking out the inside of the ears
+10:19 so if I uncheck this to show and keep in
+10:22 mind this was set this particular layer
+10:25 is set to normal but it's clipped to the
+10:29 fixing stretch symbols Etc below okay so
+10:34 let's just add in Hue saturation
+10:37 adjustment layer and let's bring it
+10:39 below and then it's being clipped and
+10:42 let's turn off this solid selection and
+10:45 let's turn on if you can see this
+10:48 colorize right so from colorize now we
+10:52 get to pump up our
+10:55 saturation pump up our lightness if you
+10:58 want
+11:01 and change this color kind of
+11:03 dynamically just by dragging the slider
+11:05 around that's not too bad okay so the
+11:08 next thing is I'll drag this clipping
+11:11 mask in there replace layer mask yes we
+11:13 want to replace that layer mask there we
+11:15 go now it should be that I'm clicking on
+11:17 this Hue saturation adjustment layer
+11:18 moving this around and it's not
+11:20 affecting the inside ears perfect now
+11:23 what happens then when I use our V key
+11:25 to select the rabbit itself well it's
+11:28 still selecting that Hue saturation
+11:30 color adjustment layer unfortunately so
+11:33 in order to select around
+11:37 that I don't think you can I'm always
+11:40 going to have to select those bunny ears
+11:41 unless I group selected this in some
+11:45 way so no way around that going to end
+11:48 up selecting whatever is there so I
+11:50 think I like the solid color fill
+11:53 instead as a
+11:55 method but how is that applying to this
+11:57 and how are we then taining the outline
+12:00 and the shadow well we actually group
+12:02 this in a folder and then double click
+12:05 that and the layer style is applied to
+12:08 the actual folder that's containing all
+12:10 these elements so that we can turn off
+12:11 the drop shadow on everything here or we
+12:14 can turn off that outer glow on
+12:15 everything here right so there we go and
+12:18 that looks almost cartoony without that
+12:21 outer glow I kind of like that outer
+12:23 glow and the great thing about outer
+12:24 glow is we can of course change the
+12:26 color of this as well so if we wanted to
+12:28 invert and make um the interior of these
+12:32 particular items be more dark then we
+12:35 could pick a light color to balance that
+12:37 out might even be able to do in
+12:39 innerglow and push this up I I don't
+12:42 really like innerglow though so then we
+12:44 get to select this choose a darker color
+12:47 and it's outlined in a lighter color
+12:49 pretty Dynamic very
+12:51 cool next thing up is my background it's
+12:55 that new gradient tool you get to click
+12:57 on that gradient as long as long as
+12:59 you're in the gradient mode which is
+13:01 that G key then we get to edit this on
+13:03 the fly right and the other cool thing
+13:05 we get to do is got a foreground color
+13:08 here let's pick a new foreground color
+13:10 I'm going to make it a little bit of a
+13:11 darker palette hit X to switch layers
+13:14 make it a bit of a darker palette come
+13:16 back in here to this G and then we can
+13:18 click down those presets or we can just
+13:20 double click here and click down and
+13:23 we'll see in the basics is my new
+13:26 foreground to background color all right
+13:28 right so there you go pretty
+13:31 wild so you can replace those kind of
+13:34 pretty quick and easily right just kind
+13:36 of throw this up here x throw this up
+13:40 here and then again double click that
+13:45 gradient layer drop this down and there
+13:48 we
+13:51 go so this is kind of the new workflow
+13:54 all of these elements
+13:56 are I'm able to drag these around and
+13:58 move them very quickly this was just a
+14:01 screen capture from the Chief Architect
+14:04 um window using its um I was editing the
+14:09 symbol and the preview window I set to
+14:12 use its uh oh what the heck is it called
+14:14 forgetting the rendering method
+14:16 now what is this called glass house
+14:20 that's what it is I used glass house and
+14:22 then I switched that layer to a multiply
+14:25 mode okay and that looks real clean in
+14:27 this particular graphic
+14:29 so there you have it the only last thing
+14:31 that I did was kind of a an art an
+14:35 artistic idea I wanted to be able to
+14:37 make this Chief Architect symbol larger
+14:39 so it doesn't have the true parameters
+14:42 of the Chief Architect symbol I fattened
+14:44 it up and I use the pen tool to do that
+14:46 and then on top of that it's got the
+14:48 ability to have a cover um a color
+14:51 outline and a drop shadow as well so
+14:54 this is my my new workflow for creating
+14:57 cover art and so far I'm really really
+15:00 happy with
+15:02 it let's go back some levels so I'm not
+15:04 messing things up but yeah this looks
+15:06 pretty good let's just take a look at
+15:07 some of the other ones that I
+15:10 did I mean this really just pops off the
+15:12 screen it's great you know drop shadow
+15:15 on a couple elements um on in this one I
+15:17 used a global drop shadow edit and so
+15:21 all the Shadows on all elements were
+15:23 facing the same way so I wanted to push
+15:24 that shadow up into the shot so that
+15:26 this um sheet right here looked like it
+15:28 was sitting on top of that other sheet
+15:30 and then hey look at this notice a
+15:32 little problem along the way all this is
+15:34 is this is automatic based on the pixels
+15:36 that are present in this image so
+15:39 there's clearly some kind of pixel left
+15:42 over right here on the corner so if we
+15:44 just take the erase tool this
+15:46 destructive there we go we're fixing
+15:47 that little
+15:51 pixel let's take a look at one
+15:56 more these were all sheet based B and so
+15:59 I took this straight away from Chief
+16:01 Architect and then I used the minimum
+16:03 setting to fatten this all up I didn't
+16:06 care that it wasn't really legible
+16:07 because this is all you needed to see to
+16:10 understand the intent here and I think
+16:12 it works I think it works really well so
+16:14 um I know one of you out there knows
+16:18 that I was thinking about doing this and
+16:19 you liked my existing cover art I'm
+16:22 sorry man I uh just felt like I needed
+16:25 it to pop off the screen I really do
+16:27 feel like this has branding in mind that
+16:31 we're getting everything that I need out
+16:33 of this which is that you know that it's
+16:34 rabbit design that you know this is
+16:36 about Chief Architect and you can see
+16:38 what it's about so you might be enticed
+16:40 to click it and it's a pretty color
+16:42 palette right these are bright vibrant
+16:45 colors they're popping off the screen
+16:47 they look really sharp just take a look
+16:49 at them on my YouTube as you're just
+16:51 scrolling through you can see some of
+16:52 the older ones the older ones are still
+16:54 artistic they sell their meaning I might
+16:56 not change them I might who knows but
+16:59 wow is it really really strong and
+17:01 powerful to be able to see these they
+17:03 just pop off the screen I love this one
+17:06 Chief Architect Library tricks this was
+17:08 an attempt to really clean up a cover
+17:10 art that wasn't making sense to me and
+17:12 this was subscribing to that thought
+17:13 that we don't really need to understand
+17:15 what's in the image in terms of
+17:17 legibility to know what we're looking at
+17:20 so I think this was another great one
+17:22 even though I used a different font
+17:24 that's actually Chief architect's font
+17:26 and you can really read that but you're
+17:27 very very limited on the amount of space
+17:29 that you've got in here and you're
+17:31 limited artistically on what you can do
+17:33 if you've got to fill 3/4 of the entire
+17:35 cover art with something so I kind of
+17:38 like this new style it's um even though
+17:41 there's very different Arrangements
+17:44 across these three images they all are
+17:46 branded together if that makes sense I
+17:49 realize the rabbit design logo covers
+17:51 the um the uh the time marker there but
+17:56 yeah you know what you can't win
+17:57 everything so
+17:59 anyways if you like this video great um
+18:01 I'd love to do more videos about
+18:03 streaming setups about recording setups
+18:05 about sharing files through videos I do
+18:07 a lot of video reviews for my clients so
+18:10 it's really nice if they've got this you
+18:12 know kind of Polish happening when they
+18:14 come to see a YouTube video that's an
+18:16 unlisted video just for them and I put
+18:18 cover art on it and it feels catered and
+18:21 professional and like you're going that
+18:22 extra mile if you can pump these out in
+18:25 just a couple minutes and then put them
+18:27 on unlisted videos share them with your
+18:29 client where you're reviewing your
+18:30 project with them even when they didn't
+18:32 expect some kind of review from you
+18:34 you're just doing it periodically man
+18:36 does that stand out as like an extra
+18:39 service so things to keep in mind hope
+18:41 you enjoyed this video please
+18:43 comment
+18:55 thanks

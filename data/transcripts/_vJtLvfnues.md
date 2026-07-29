@@ -1,0 +1,55 @@
+---
+videoId: _vJtLvfnues
+title: Pro Plan As Built Designation
+url: "https://www.youtube.com/watch?v=_vJtLvfnues"
+status: imported
+---
+
+# Transcript
+
+0:02 you just opened up the Pro Plan you've
+0:02 got this funny looking sidebar over here
+0:05 let's talk about a few of the things
+0:05 that are in here I'm going to say that
+0:10 this first portion here is it says do
+0:12 not delete this line well in fact you
+0:14 can't even see a line and it's on a
+0:14 locked layer so you shouldn't have to
+0:17 worry about it too much but what it's
+0:17 doing is it's reporting whether or not
+0:21 it sees this plan file as an existing
+0:21 plan file or a new plan file and if it
+0:28 sees it as existing that changes a few
+0:29 things it changes the way the window
+0:29 window label options show up it changes
+0:33 the way um some of the ceiling height
+0:33 macros report and so what this means is
+0:38 we're just talking about labels it
+0:38 changes labels okay and so how do we
+0:41 establish this I'm going to just do a
+0:43 control s on a Windows machine and that
+0:48 means I can save as and I'm just going
+0:51 to do an example-
+0:51 AB it's going to ask me if I want to
+0:53 overright because this quite often and
+0:56 so what happens here is look at this is
+1:01 existing true and so what does that
+1:01 change it changes a few things one is
+1:06 that if I use one of the tools in the
+1:06 toolbar such as The annotation tool I'm
+1:11 going to drag this in here and it picks
+1:14 up that this is an asilt so it knows
+1:14 that this is a place marker for an asilt
+1:18 condition where this is in an
+1:18 unspecified room and so it assumes that
+1:22 you're trying to annotate to demo
+1:22 flooring If instead I collect uh um
+1:27 connect some leader line to like a
+1:27 window and this is an asilt it's going
+1:31 to to pick up that hey this might be a
+1:31 demo plan this is a window to be removed
+1:37 so this is an example of what it does
+1:37 when we save as an as buil and what that
+1:42 little sidebar item does there we go so
+1:44 that's that first portion here go a and
+1:45 watch some more videos to see the rest

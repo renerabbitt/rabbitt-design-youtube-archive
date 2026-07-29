@@ -1,0 +1,61 @@
+---
+videoId: zZbg8afL1k8
+title: Creating a complex molding efficiently in Chief Architect X-12
+url: "https://www.youtube.com/watch?v=zZbg8afL1k8"
+status: imported
+---
+
+# Transcript
+
+0:03 hello chief talk people chief architect
+0:06 people this is the second video here in
+0:08 response to I'm just gonna keep calling
+0:12 a mode a/b intently corrects me anyways
+0:13 he's got another question he wants to
+0:13 make a profile efficiently using the CAD
+0:19 tools similar to the CA seventy-five
+0:22 profile that's built into chief
+0:22 architect we're looking at it right here
+0:26 here's the say see a 75 profile we've
+0:26 got a lot of different little details in
+0:31 this molding and I'm just gonna show you
+0:33 a couple tools if you're unfamiliar with
+0:35 CAD tools obviously you know the break
+0:35 tool being able to break any section and
+0:41 pulling these back the other part of
+0:41 this is the fill tools if I hold F right
+0:49 now while I'm grabbing this corner I can
+0:54 make you know multiple arcs here I can
+0:54 break in the middle of an arc to get two
+1:00 arcs and reverse one of them I mean
+1:02 there's there's tools to be very
+1:02 efficient in chief a lot of times if I
+1:07 want an arc in you know the center of
+1:07 these two runs I'm just going to bring a
+1:11 break I'm gonna drag it in and then I'm
+1:14 gonna hold my F while grabbing that tab
+1:17 so some really efficient ways of making
+1:20 some you know pretty complicating
+1:20 moldings obviously you know you want
+1:22 your dimensions setup so that you're you
+1:29 know getting some reference points the
+1:31 new tools in chief with the extensions
+1:31 here you can change your extension print
+1:37 line reach let's just make this 36 and
+1:41 then when I drag this end handle here
+1:41 well it should have been grabbing things
+1:45 I don't know why it's not let's try this
+1:47 there we go
+1:47 pounds grabbing so a couple just quick
+1:55 tricks for for making your molding
+1:55 profiles obviously you can take these
+1:57 edit handles and and snap to additional
+1:59 points and really get a detailed molding
+2:04 and then set this detail out and send it
+2:06 out to a shop and get a cut
+2:06 so our milled excuse me so anyways I
+2:12 hope this helped someone out
+2:12 you know you just got to study these
+2:15 these tools in your active tool bar
+2:15 they're all right here they've got a lot
+2:21 of fantastic CAD tools here so good luck

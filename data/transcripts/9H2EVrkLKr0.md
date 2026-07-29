@@ -1,0 +1,502 @@
+---
+videoId: 9H2EVrkLKr0
+title: Cursor Ai -Supercharge Your Ruby Macro Scripting In Chief Architect-Better than ChatGPT and Claude
+url: "https://www.youtube.com/watch?v=9H2EVrkLKr0"
+status: imported
+---
+
+# Transcript
+
+0:01 Well, I found it. I found I found the
+0:05 application that you're just going to
+0:07 go, "Yeah, for if you're scripting, if
+0:10 you're doing any kind of scripting, um,
+0:12 it took me a long time to come to this
+0:14 application and I can't believe I found
+0:17 it." Um, the big part about this
+0:19 application, and let's just get into it.
+0:21 Uh, scripting. You're using AI, right?
+0:25 You're using AI. You should be. Um, or
+0:28 maybe you're just genius level
+0:30 scripting. You should still use AI. Why
+0:31 not? It's there. It's faster than you.
+0:34 It could type faster than you. Sometimes
+0:36 it gets things right. But if you have
+0:39 been using AI, you were probably using
+0:40 like a Chad GPT or you're using Claude.
+0:44 I have both of these. In fact, I have
+0:46 custom GPTs. And in fact, I've even
+0:49 built custom scripting bots just for you
+0:51 that have instructions for Ruby
+0:54 scripting within Chief Architect. that
+0:57 should help you out in case you didn't
+0:58 know about that and I'll show you that
+1:01 in a minute. But before that, here's our
+1:03 forward. This is what it is. Is that if
+1:06 you are no stranger to this, if you've
+1:09 tried a few things, what you do know and
+1:11 if you've kind of preser persevered
+1:13 through a few challenges and still came
+1:15 up with a working script at some point
+1:16 or modified a script, what you do know
+1:19 is that you get to plug in some
+1:21 instruction. it comes back to you and
+1:24 oftentimes if it's more than just a
+1:27 paragraph that's the script you're gonna
+1:30 have to kind of pacemail it. You're
+1:31 gonna have to take parts that it fixes
+1:33 and figure out where that goes and paste
+1:36 it into your code and you may have
+1:39 figured out the right place or not. Or
+1:41 you may have figured out something you
+1:43 needed to delete or not and you go back
+1:47 and you go forth and it takes a lot out
+1:50 of you. It really does. Not only that,
+1:52 but talking to AI is talking to like
+1:54 some genius level soant person that
+1:57 decides to mess with parts of the code
+1:59 that it you don't want it to and you
+2:00 didn't ask it to just for fun and then
+2:03 forget things that we talked about 2
+2:05 minutes ago. And then maybe maybe at
+2:08 some point it's like, you know what,
+2:10 I'll give you what you want. Here you
+2:11 go. It works. And so it just gets you
+2:14 just enough to keep going. And maybe you
+2:18 spend thousands of hours and you keep
+2:22 going and then like everything that I
+2:26 run into personally because I feel like
+2:27 I'm a systems person when it just seems
+2:31 like the systems broken I try something
+2:32 new and that's led me to a bunch of
+2:35 different
+2:37 applications and and I have processes
+2:39 that are improved because of that but
+2:42 then every once in a while we find
+2:44 something that just scales up so fast
+2:48 and so far I found this application
+2:50 today and it's done what would have
+2:53 taken me another 60 hours in coding in
+2:57 just today. Okay, so that's how much
+3:00 it's saved me being a complete novice.
+3:03 Complete novice in this application. Now
+3:06 before we get into what that application
+3:08 even is, let me just show you something
+3:10 here. Let's get into just uh we'll get
+3:14 into Here we go. Here's a chat GPT
+3:17 conversation I'm having. And I was
+3:19 working on JavaScript because I was
+3:20 improving my website. And what happens
+3:23 here is, well, heck, half the time it
+3:26 doesn't even know what I'm talking about
+3:27 and changes conversation completely. The
+3:30 other half the time I have to paste
+3:31 massive massive bits of code or tests or
+3:35 something that are just infinitely huge
+3:38 and complex and it's going to come back
+3:40 and tell me, hey, you need to find this
+3:43 thing and fix this thing and replace
+3:45 that thing. And I can't tell you how
+3:47 difficult that often times is,
+3:50 especially when it doesn't always give
+3:53 you all the context that you need. So,
+3:54 you're going back and forth and back and
+3:56 forth. It becomes exhausting. It really
+3:58 does. And so here we go. Enter cursor
+4:02 AI. And I will tell you, you can use the
+4:05 free one. Go try that out. I like I
+4:08 oftentimes do invested in the pro
+4:11 version and I bought a yearly
+4:12 subscription. So I'm using it. That's
+4:14 it. Cuz what I saw in my first couple
+4:16 hours was enough. And I do this. I don't
+4:19 know if you know this, but I invest
+4:21 heavily in softwares so that I can try
+4:23 them out and bring the best workflows
+4:26 back to you. If you don't think that I
+4:29 don't reinvest the money that you pay to
+4:32 a subscription to YouTube, you're crazy.
+4:34 I I put so much of this money back into
+4:38 investing into things that I'm hoping
+4:40 will come back to you and improve your
+4:42 workflow, your life. So, bought into
+4:45 this cursor AI to give it a really good
+4:48 shot. And so, let's get into what cursor
+4:51 AI is even doing. Why is it novel? Why
+4:53 is it any different than any other AI?
+4:56 First of all, it's an application. Runs
+4:58 on Windows, runs on Mac.
+5:00 Okay, here's the very first awesome
+5:04 awesome thing about it. You can drop in
+5:07 a folder, a folder of files and it loads
+5:12 those files and it recognizes that some
+5:14 of these are text files and some of
+5:15 these are code
+5:17 files. Why would I want to do that?
+5:20 Well, when I am scripting for cab base
+5:23 label, well, believe it or not, cab base
+5:26 label actually has some dependencies in
+5:29 its macro on all options. And this
+5:33 actually has some dependencies on this
+5:36 text that's user options. Cuz what I'm
+5:39 doing is I'm creating a really advanced
+5:41 label in my pro plan that does a bunch
+5:43 of automated stuff for you so that you
+5:45 don't need to annotate. It gives you
+5:47 everything that you need and the views
+5:48 that you need and it gives you really
+5:50 fast and easy ways of getting you there.
+5:52 The next part about that is I want to be
+5:54 able to make it user configurable. Well,
+5:56 I don't need you to be a macroscripting
+5:58 expert to use my stuff. So, I give you a
+6:01 text box to change some options and then
+6:04 I read from those options in my macros
+6:06 and fire things off so that you can
+6:09 interact with things that are automating
+6:10 and override certain aspects of them on
+6:13 the fly very easily. It's just like
+6:15 typing in your annotation like you
+6:16 normally would, but we're negating a
+6:19 bunch of user error by doing it in in
+6:21 this way. Okay. So, now that I have all
+6:26 these files loaded, when I go to ask
+6:28 Cursor AI to fix something contextually,
+6:32 it can look at the other file
+6:33 dependencies and make better decisions
+6:36 about what to do with the script, which
+6:39 saves
+6:40 me hours.
+6:44 hours of time, okay? Because not only am
+6:47 I having to retype things in many, many
+6:50 different places for this system. And
+6:51 this system is this way to be scalable.
+6:54 Believe it or not, it had to be like
+6:56 this. You have to break things up into
+6:58 chunks because AI can only deal with
+7:00 things in chunks. And I don't know how
+7:01 to script by myself, so I need
+7:03 AI. So, because it's broken up, I have
+7:06 to go type in four or five different
+7:08 places. This ends up being challenging.
+7:10 So that's the first novel part about
+7:14 cursor. Okay. The next part about this
+7:17 is the chat window here is very clearly
+7:21 and
+7:21 concisely telling me exactly what it's
+7:24 doing. And then if I go open the file,
+7:27 it's actually showing me the edits it's
+7:30 making. This red here was the old line
+7:34 that was there. I want you to notice
+7:36 something in the line numbers. Notice
+7:39 there's a missing line at all the red
+7:42 section. What does that mean? If I were
+7:45 to control or command A, control or
+7:47 command C, I now copy this text. It is
+7:50 not copying the red lines. That was the
+7:54 old logic that it replaced. It's just
+7:57 there in case you want to accept or
+8:00 reject the edits, which is awesome. It
+8:04 just leans it leans on a we've already
+8:07 edited this, it works. done kind of
+8:09 approach and you can revert it back um
+8:13 you know retroactively.
+8:16 Okay, pretty cool. What's the next
+8:19 interesting part about this all being in
+8:22 this kind of system here? Let me get
+8:24 into chief architect and I'm going to
+8:26 get into Oh, of course we got stuck with
+8:28 a backing up resources thing. We'll let
+8:30 this do this. But if we get into text
+8:32 macro management, um, especially from my
+8:35 pro plan, I have a bunch of different
+8:37 macros in there. And you could export
+8:40 all of them as one JSON file, but cursor
+8:43 is no different than other AI in the
+8:45 sense that um, we can when we load up
+8:49 one JSON file with all that script, it
+8:52 it's not going to be able to edit it
+8:54 because the script becomes too long
+8:55 where AI kind of has a limit of what it
+8:58 can process in terms of just characters.
+9:00 I mean character number I
+9:03 guess. So with that in mind, I'm going
+9:06 to export all those individual files.
+9:08 What's awesome about cursor is as soon
+9:10 as you're exporting it to the folder,
+9:13 you're actually um you're not caching
+9:16 that folder. You're parsing from that
+9:17 folder. You're you're actively reading
+9:19 from that folder in cursor AI. So as
+9:22 soon as I drop something in there, it's
+9:25 going to just show up in my cursor
+9:26 workflow, right? So if we've added
+9:28 something, it'll show up. That's
+9:30 cool. Boy, we're in a nice flow state
+9:33 here. I was teaching you all the things.
+9:35 All the things in Chief Architect with
+9:37 this new backing up resource thing is
+9:39 just killing my
+9:41 workflow. Go away. Just go
+9:47 away. I should have done this live so we
+9:49 had some questions. I'll pause for a
+9:51 second. I'll be
+9:53 back. Woo. That took like another five
+9:56 minutes. Glad I didn't just try to talk
+9:58 through it.
+10:00 All right. So, back at this. Let's get
+10:03 into text macro
+10:05 management. All
+10:07 right. Text macro management. And I'm
+10:09 going to show you. Here we go. I've got
+10:11 a bunch of macros here. Let me get back
+10:13 into what we're talking
+10:15 about. Back in the
+10:17 zone. Got a bunch of macros here. And I
+10:21 can just take any one of these and
+10:23 export it and it's going to show up in
+10:25 cursor. Now, let me actually look at one
+10:27 because I want to see if maybe there's
+10:29 something that that might be an
+10:30 interesting one to edit. Yeah, I think I
+10:33 do have one that I'd like to edit. Um,
+10:35 so here's what I'm going to do. I'm
+10:36 going to take this object properties
+10:38 short, for instance, and I want you to
+10:40 notice something that what it's doing
+10:43 here is it's telling me the macro input
+10:45 number, but I actually want to format it
+10:47 in a specific way. And then it's also
+10:50 showing me custom fields again down
+10:52 here. So, let's export this. And this is
+10:55 going to be okay. Object
+11:00 properties
+11:02 short
+11:04 25 0515. That's just my naming
+11:08 convention for me. 0515. There we go.
+11:12 And when I get back into
+11:16 cursor, look at this. It's already
+11:19 there, which makes this really, really
+11:22 cool. So the thing that you get to do
+11:24 and the thing that you need to know is
+11:25 well one is you should um go to the file
+11:29 menu in cursor and open a folder. Open a
+11:33 file is a little different because you
+11:35 have to give cursor access to write to
+11:37 files but if you open a folder it
+11:40 assumes it has access to write to the
+11:42 files. So it takes a step out of that.
+11:44 Then the next part is that if you're
+11:46 just copy pasting into the text editor
+11:48 here, some kind of code, then you need
+11:50 to highlight it to hit command or
+11:52 control L to get to the large language
+11:55 model over here. And then what it will
+11:57 do it will it will add context. That's
+12:00 what it needs. It can kind of figure
+12:02 this out on its own. You know, that's
+12:04 part of it as well. But um for the most
+12:07 part, you need to add context for it to
+12:08 get, you know, to figure this out. So I
+12:11 can come in here. Um, I know that alt z.
+12:13 So, I just clicked on our object
+12:14 property short, which is in now that's
+12:17 in our file parsing over here. I can hit
+12:19 alt z to do word wrapping. I don't know.
+12:23 It just doesn't do that by default.
+12:24 That's fine. And then if I wanted to, I
+12:26 could just command or control a and then
+12:30 command or control L and it's going to
+12:32 bring me into this. Right. So, now it's
+12:34 added this as context. And so, what I'm
+12:36 going to do is very simple. I already
+12:38 have the re-edit that I wanted in object
+12:40 properties long. So, I'm going to add
+12:42 that re-edit to object properties
+12:46 short. Object properties long has an
+12:50 edit where it looks at custom fields. It
+12:52 reports them in the beginning and it
+12:54 even reports the correct
+12:58 variable to be used in
+13:01 macros. And then it does not report
+13:04 custom fields further down the list. I
+13:07 would like you to copy this method
+13:09 exactly as it is from object properties
+13:15 long and let's let it do its thing.
+13:18 Right? We can kind of see this and it's
+13:20 going to look up some stuff and it's
+13:21 going to try to figure out what's where
+13:23 it's even finding that. And then look at
+13:25 this. It's quickly figuring out that it
+13:28 needs to write to object properties
+13:30 short. So this part's cool. We'll let it
+13:33 do its thing. And you know if you're
+13:35 running I I'm not going to end up um
+13:39 stopping service with chat GPT. I might
+13:42 stop service with claude if this proves
+13:44 to be that I just don't need to use
+13:45 claude over again. Right. Um so here it
+13:48 goes. It indicates that is rewritten
+13:51 something. This is done. This is what's
+13:53 so nice about cursor. I don't need to
+13:56 touch a thing. I don't need to hit
+13:58 control or command S to save. I don't
+14:00 need to copy paste anything. It's
+14:03 updated the JSON file already. It's
+14:05 written to it. So, the next thing that I
+14:08 had cursor do is I had it write me a
+14:09 custom Python code because I'm in
+14:11 Windows and I get to do that. And I
+14:13 created an executable and then that
+14:16 executable I pinned to my taskbar so
+14:19 that I can just hit Windows key in two
+14:22 and it's going to switch to this and
+14:24 it's going to immediately get me to my
+14:26 import macro function in Chief
+14:28 Architect. X macro management uses a
+14:31 shortcut hits a bunch of tabs, hits a
+14:32 bunch of down arrows, hit space, hit
+14:34 control shift so that I can just come in
+14:36 here and start typing OBJ and hit down
+14:39 arrow once. Oh, maybe not quite.
+14:42 Anyways, and get into this and just
+14:44 press open and it's going to tell me to
+14:47 replace the existing macro. Now, check
+14:49 this out. It did what it needed to do.
+14:52 It's giving me the exact syntax that I
+14:55 need in case that I wanted to take this
+14:58 and use it somewhere else. And it's
+15:01 reporting it in the beginning. And if it
+15:02 did its correct job, yes, it did in fact
+15:05 bypass it down
+15:07 here. That's as cool as it gets. You can
+15:10 see there, I didn't have to copy paste
+15:12 anything. I didn't have to like
+15:14 peacemeal my text macro management. I
+15:16 didn't have to get into the editor
+15:18 window at all. That means I didn't need
+15:20 to actually open the macro to get into
+15:23 that part at all.
+15:25 Right? I mean, I don't know if you're
+15:28 following along with this. You should be
+15:29 going what and go download that thing
+15:32 and try it right now because that's
+15:34 really cool. So, what's something a
+15:38 little bit more complex that we could
+15:40 do? Um, I'm not sure that I have
+15:42 something right off the bat, but I can
+15:44 think of a lot of things that in the
+15:46 future I'll be doing because it's a lot
+15:48 easier to do. Namely, that I get to add
+15:51 additional options such as maybe we want
+15:54 to report a bunch of information from a
+15:56 door or, you know, who knows what. Right
+15:59 now, my windows and doors labeled do
+16:01 incredible things, and it's because of
+16:02 this cursor AI. Right now, it shows that
+16:06 if it's an arch, it's going to pick that
+16:07 up and tell me what type of arch it is.
+16:10 Let's kick it back to no arch. And then
+16:12 of course it's going to have its regular
+16:13 type codes etc. Now on top of that in
+16:17 object information I give you this label
+16:19 replacement field where you can just go
+16:20 plus something and this will append to
+16:23 the end right or unless in case I want
+16:27 to take over the type then we just say
+16:29 uh new type uh ls something like that
+16:33 and it will take over the type code as
+16:36 well as all my typical stuff which is my
+16:38 no work one which you know creates says
+16:41 that this is an existing and then our
+16:44 truncate label or abbreviate label,
+16:46 right? That stacks it right on top of,
+16:49 you know, you can still add that this is
+16:51 an arch. A bunch of different features
+16:53 including you change this to some kind
+16:55 of uh framing floor plan and it's going
+16:57 to say not applicable here, but it picks
+16:59 up that this is some kind of rough
+17:01 opening and maybe want to abbreviate
+17:02 this label as well. And then we get to a
+17:04 window order overview and same thing,
+17:06 it's just going to show that schedule
+17:08 number. So doing lots of cool contextual
+17:12 things and now I can do it very quickly
+17:14 across a very complex
+17:17 system. Super neat. In case you didn't
+17:20 know about it, I do have a custom set of
+17:23 instructions for Ruby Scripting Bot.
+17:26 That's on my website. So if you didn't
+17:28 know about that, you can go check that
+17:29 out. And guess what? I used all these
+17:33 tools to make my website way, way better
+17:38 than it was before. And I want to just
+17:40 say this now, if you're interested in
+17:43 doing it, I don't think I would have any
+17:45 problem starting to go through how we
+17:47 can make a website using Squarespace.
+17:49 Why? Because it's easy. Squarespace is
+17:52 easy until you start getting into
+17:54 complex things. But we can start with
+17:56 easy because easy will get you to a site
+17:58 and then we can start adding and
+18:01 building and doing some custom things
+18:03 and I can show you how to use this
+18:04 software to make some really cool stuff
+18:07 on your page. And once you got a really
+18:09 cool stuff on your page, that's when you
+18:11 go optimize it. So now my load time is
+18:13 less than a second even though I've got
+18:14 some really high resolution pictures and
+18:16 some really cool JavaScript and some
+18:18 other stuff. And I got this awesome
+18:20 drop-down menu that's now getting you to
+18:22 places you want to be a lot faster and
+18:24 easier. And it still looks good in
+18:26 mobile, even with our touch button
+18:29 presses. It still looks good on some
+18:31 kind of uh foldable phone where it's
+18:33 unfolded, right? And I'm testing
+18:35 everything about this, including all of
+18:37 our load times, including clicking
+18:39 menus, presses, how many milliseconds it
+18:42 takes, etc., just so I get you to the
+18:45 best experience always. Right? That's
+18:48 what I'm looking for. So, there's a
+18:50 bunch of cool tools on the site now.
+18:52 They're listed in these different
+18:53 sections, and I'm always improving this
+18:56 now. So, here we go. We've got a Ruby
+18:58 scripting bot that's on this page. And
+19:01 look at that. Loads in less than a
+19:03 second. That part's really cool. And you
+19:04 can check out some other cool features
+19:06 that are on here, too. Like my gallery
+19:08 does a super fast scroll wheel scroll in
+19:11 case you just want to putts around with
+19:13 that. And, you know, if you didn't know
+19:16 it, X17 beta is out. I'm rolling this
+19:18 out very slowly because I I end up
+19:21 having to do a lot of tech support for
+19:22 you guys. But you can go and pick this
+19:24 up if you happen to see this video. And
+19:26 there is a purchase order discount
+19:28 lookup. So you don't need to email me
+19:29 anymore for your discount lookups. Why?
+19:31 Cuz I used cursor AI to write this
+19:35 custom script. And it's even in my shop
+19:38 menu. So if you get into the shop, it's
+19:40 right here at the top. And you can take
+19:42 a look at this and it'll break down what
+19:44 your possible discount codes are. That
+19:46 part's pretty
+19:48 cool. I hope you got a kick out of
+19:51 this. We're definitely going to be doing
+19:53 a little session with this later on. You
+19:55 know, I'll show you some some new
+19:57 scripting stuff that I'll be doing and I
+19:59 will definitely definitely definitely be
+20:02 using this application. See you next
+20:05 time.
+20:19 [Music]

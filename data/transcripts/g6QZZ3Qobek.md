@@ -1,0 +1,507 @@
+---
+videoId: g6QZZ3Qobek
+title: Pro Layout Tips and Tricks in Chief Architect X15
+url: "https://www.youtube.com/watch?v=g6QZZ3Qobek"
+status: imported
+---
+
+# Transcript
+
+0:02 we're going to do a quick overview of my
+0:05 layout templates and how I use them now
+0:06 this stuff changes so fast that it's
+0:08 hard to make a new video every time
+0:08 we've got a change but hopefully this
+0:10 one lasts long enough that we get some
+0:15 ideas out of this on how to use these
+0:17 templates so let's just kick in Chief
+0:19 Architect we got brand new layout
+0:19 templates here have been updated let's
+0:21 just go and I need to associate them so
+0:25 that's kind of the first step get into
+0:25 edit preferences get into our new plans
+0:30 okay and if if you're on a Mac that's
+0:30 just the Apple logo and then preferences
+0:35 so get into new plans and then layout
+0:36 template we're going to browse and
+0:36 locate a layout template and for me it's
+0:40 going to be in
+0:40 templates and I actually need to go
+0:44 locate that template it's actually in
+0:47 the purchase link so find it in the
+0:48 purchase link I'd say download it that's
+0:51 a good way of doing it I'm going to get
+0:54 into my shop my layout templates in the
+0:55 layout files folder itself I like to use
+1:00 D in this case I'm just going to copy
+1:03 this and go back a few
+1:03 levels and that way I can just paste it
+1:06 into
+1:06 templates and there we go I get to pick
+1:11 that as my new default template press
+1:11 okay that way when I say just new layout
+1:17 there we go now it's going to find my
+1:17 files because they're in the templates
+1:20 folder with it okay but it may not find
+1:24 your files so you would need to
+1:24 associate this with new files okay and
+1:29 so in my toolbars if you have my
+1:29 toolbars you can see on the right hand
+1:32 side of the screen right here that's
+1:35 going to be relinking plan files and
+1:37 then you're going to locate the plan
+1:37 files that you need to modify okay once
+1:42 those are located one you've got an AB
+1:44 plan which stands for as built and the
+1:46 next plan is the template plan but you
+1:48 should be associating this with a plan
+1:53 file that has a dashn in it for new so
+1:54 what I'm going to do here is I'm
+1:54 actually going to create a new plan file
+1:58 so control n just a new plan file and
+1:58 I'm going to save this as and I'm going
+2:00 to just put this in a temporary location
+2:07 test dashn and what that dashn does just
+2:10 so you can see this in format that dashn
+2:14 tells the pro layout to label things a
+2:16 certain way okay so that when I kick
+2:16 back in here and I hit that reference
+2:21 plan files and then I locate that
+2:21 template file I'm going to replace it
+2:23 with that new okay that dashn all right
+2:29 let me press okay let me show you what
+2:31 that did specifically on the third
+2:31 excuse me fourth page it says proposed
+2:37 first story it knows that only because
+2:39 of that dashn otherwise it would just
+2:40 say first story if it has- AB it's going
+2:46 to show existing as a prefix all right
+2:46 so there's a few times where this comes
+2:50 up and it's very helpful for annotating
+2:52 very quickly when you're in a remodel
+2:52 workflow if you're not in a work remodel
+2:58 workflow right off the bat look at this
+3:00 new construction delete this page it's
+3:02 easy enough we get over on the right
+3:02 hand side click this delete button in
+3:04 fact we're going to delete twice because
+3:08 we've got another page right so we can
+3:08 go ahead and ignore this or just say yes
+3:13 do we are we sure we want to delete it
+3:14 this is going to bring us to a second
+3:17 existing story right let's hit that
+3:17 again there we go so now we've got our
+3:22 proposed first story floor plan now
+3:22 let's get back to the general page and
+3:25 just note a couple things now this is
+3:26 the D layout we will take a look at the
+3:31 A and C layout as well but I want to
+3:31 show you how we use the revision tool
+3:36 that's built into this so we're on
+3:36 revision number one and how this tool
+3:39 works is I'm going to go ahead and say
+3:41 that I've got a revision on this
+3:41 standards General so I can click on this
+3:46 and I can do a cloud right from here or
+3:49 you can just use the cloud tool which
+3:51 we've got this in the toolbars right
+3:51 over here we can Cloud anything we want
+3:54 remember that you can break a cloud as
+3:57 well so using the break tool we can
+3:57 break and shape a cloud if you'd like so
+4:02 so I've got this Standard General
+4:02 wrapped around I like to concentrically
+4:04 resize this a little bit and sometimes I
+4:08 even like to change this so that I have
+4:10 a number of arcs that's real tight
+4:10 something like a 100 or something like
+4:12 that there you go this is looking pretty
+4:16 good now I'm going to take this revision
+4:18 populated it over here and then I've got
+4:20 a new step I need to do I need to get
+4:20 into my project browser okay and I want
+4:22 to get into CAD details and I'm going to
+4:27 right click and do new CAD detail and
+4:27 notice prompts us what's that CAD detail
+4:33 called well guess what I'm going to say
+4:35 revised
+4:35 standards and in fact I'm even going to
+4:39 say the label that it's on okay G1
+4:40 revised standards press okay now that
+4:44 creates a new CAD detail I'm going to
+4:46 shut this window down that's not
+4:46 important what's important then is I'm
+4:51 going to take this call out right here
+4:54 and in my toolbar I'm going to relink
+4:54 the view and so I'm going to find that
+4:59 new revised standards CAD Det detail
+5:02 that I just generated and Link it to
+5:04 that what does that do well if you
+5:04 double click on plan check comments here
+5:08 and it's only on this page what it
+5:08 brings us to is a plan check comment
+5:12 sheet where it's actually building a
+5:12 plan check comments so you can see here
+5:17 here's that revised standards now in
+5:19 future I'm going to give you a macro
+5:19 that you can execute to clear the global
+5:25 hash of all stored macro values what
+5:25 this was was a global value so that if
+5:28 you change your mind and relink it to a
+5:32 different CAD detail or you delete some
+5:34 CAD details there's no way for us to
+5:36 reset that so you'd actually have to
+5:36 close down Chief and reop it it's not
+5:40 the worst thing in the world it works
+5:40 what the convenience part of this is is
+5:44 that it generates a list of things that
+5:44 you're revising and it's in layout where
+5:49 we don't aren't Bound by the layout box
+5:52 for our display of our Cloud so that's
+5:54 the reason I like this particular
+5:54 implementation of it so that's how that
+5:58 system works you can do as many
+5:58 revisions as you like like it's really
+6:02 simple we can of course make a new CAD
+6:02 detail we'll do it one more time just to
+6:06 show you I made a new CAD detail and
+6:10 this is testing this CAD
+6:10 detail and then I'm going to shut that
+6:14 window down
+6:14 copy this call out and then relink it
+6:18 now let's say that this is revision two
+6:21 well you're actually going to have to
+6:21 get into text macro management for this
+6:23 unfortunately there's no way around that
+6:27 so we're going to get into text macroom
+6:29 management over here on the left hand
+6:32 side and then this particular one is
+6:33 part
+6:33 of let's see plan Checker and so in plan
+6:39 Checker if we double click it you can
+6:39 see here at the bottom of the screen is
+6:40 one well this is going to be revision R2
+6:50 Okay oops I didn't quite change
+6:50 it let's edit that again let's make this
+6:59 R2 there we go press okay and notice set
+7:02 the call outs changed to R2 simple
+7:03 enough so let's go ahead and kick
+7:04 through this let's take a look at some
+7:05 other things notice that the page Index
+7:10 this shows our page label and it also
+7:10 shows our page description so that if we
+7:13 get over here on the right hand side
+7:13 edit page information here's our page
+7:18 label this is an old trick built into
+7:18 Chief Architect if we put a prefix plus
+7:25 a dash and the number sign any like
+7:25 label with this will Auto order based on
+7:30 that number sign being present so here's
+7:32 where my title is general plot and
+7:32 project and then in description this is
+7:36 what I use for scale on all of the
+7:36 templates so in description you might
+7:41 say something like in this case it's
+7:41 a let's see 1 inch equal 10 foot is that
+7:48 what I'm thinking of here something like
+7:51 that all right and that might show down
+7:54 wherever there is a plan
+7:54 scale and in this case it looks like
+7:56 I've got that missing oh there it goes
+8:00 just needed to be refreshed
+8:00 so that's where we put a plan scale
+8:01 notice that we've got floor plan and
+8:05 then plan scale again we're going to
+8:05 populate that now also notice that the
+8:07 client information is missing all right
+8:10 so that means we actually have to get
+8:14 into our Pro Plan and then in our Pro
+8:14 Plan especially if you're in the working
+8:20 view you're going to have right up here
+8:23 a quick link to project information in
+8:24 project information if you didn't
+8:24 already know this you can always get
+8:28 your information right here all client
+8:31 information is input in tools client
+8:34 design information so we'll go tools
+8:36 design client information get to the
+8:38 client information
+8:38 panel John Smith Etc
+8:42 on One two3 Orange Street in
+8:55 Oakland CA 94605 Etc notice that the fax
+8:58 number is also our partial number so fax
+9:02 number is 1 2 3-4 56- 789 and then our
+9:05 scope of work is coming from phone
+9:06 number
+9:06 two adjust kitchen and like Etc whatever
+9:13 you want to type there so now that we
+9:13 have this we can shut down this View and
+9:18 what we're going to see is this actually
+9:20 populates in our client information this
+9:22 does this for every single different
+9:22 layout that we've got so populates down
+9:27 there that's perfect so let's go to our
+9:29 next page but before we do I want to
+9:31 copy this page okay so this is my
+9:31 proposed first story floor plan now let
+9:34 me actually get into this proposed first
+9:37 story floor plan and I'm actually going
+9:39 to build a new floor so I'm going to go
+9:41 alt B and then floors is O and then
+9:41 we're going to do build new floor is n
+9:43 derive new second floor from floor plan
+9:49 let me just get past that and now I can
+9:52 shut this down and now I have a second
+9:55 story so I'm going to take this PL um
+9:55 plan View and I'm going to orient it on
+9:59 the screen so that it's exactly where
+9:59 we want so I'm going to hit my pan scale
+10:05 layout box and move this around so that
+10:07 it's placed perfectly depends on where
+10:07 you drew it right so let's say now I've
+10:11 got it set up the way I want it I'm
+10:13 going to copy this bring It Forward
+10:17 paste hold position open it up and
+10:17 Associate it with the second floor now
+10:23 okay now we'll notice that proposed
+10:23 second floor there we go so while I've
+10:25 got that copy let me go ahead and bring
+10:29 this forward I'm going to actually put
+10:29 up a foundation plan right here so I can
+10:33 paste hold position same thing I can
+10:33 open this up we can relink it we'll find
+10:39 the foundation plan in this case press
+10:39 okay let me bring this forward maybe I'm
+10:44 also paste holding here open this up
+10:46 relink this View and in this case I
+10:46 might want the framing roof plan and we
+10:49 just need to make sure that it's
+10:49 associated with the correct floor it is
+10:53 let's press
+10:53 okay and that that didn't quite build
+10:56 correctly or and sometimes it's on the
+11:00 wrong floor right so we've got to
+11:00 associate with that that floor above so
+11:04 might have to go up a floor and make
+11:08 sure that you hit save active view
+11:08 right so now that's associated correctly
+11:13 and come into the electrical paste hold
+11:16 one more time let's edit this we're
+11:16 going to relink to that electrical plan
+11:19 and this is where you're going to do a
+11:19 first story and Second Story electrical
+11:21 plan as well so it does in fact see that
+11:25 it's an electrical plan and knows that
+11:27 it needs to be put first story now a
+11:27 couple updates in this Pro layout one is
+11:32 I put a new standards electrical you
+11:32 need to review this for your county make
+11:36 sure that it's applicable for you and
+11:36 then I also put just a little detail in
+11:38 here where I'm showing my finished floor
+11:43 height to certain outlets and you might
+11:45 want to edit that as well so keep that
+11:47 in mind Keynotes electrical populates
+11:49 here also the electrical Legend often
+11:52 times the electrical Legend will span
+11:52 much greater on this page so make sure
+11:54 you edit that as necessary all right now
+11:58 I'm going to switch to this
+11:58 cross-section details section okay and
+12:02 this is where we've got our stackable
+12:05 details and so if you don't know how
+12:05 this system works sometimes we've got to
+12:09 initialize these details so let me go
+12:09 back a few and let's just open up a plan
+12:13 View and then I want to get into my
+12:16 project macro designations from a
+12:18 working plan
+12:18 View and let's go down a level here we
+12:21 go so pro project macro designations if
+12:27 these are not populated with items and
+12:28 they should be sometimes you've got to
+12:30 double click this if they're not
+12:30 initialized and just press okay all
+12:35 right so let me close this down now
+12:35 close this one down as well and I can
+12:37 get back into that page where we've got
+12:42 stack details and notice all of our
+12:42 information is now there and this is
+12:44 where you can relink a particular View
+12:47 and scroll through your editable details
+12:51 for some other view or some other detail
+12:53 that might work for this setup and there
+12:55 you go very quickly getting some stack
+12:58 details built out got a brand new one
+12:58 here we really link just to show it so
+13:01 this is our our post let's see and I've
+13:07 got a new one with a support tie so
+13:09 that's with the support tie and
+13:09 sometimes you've got to put one in front
+13:12 of the other so you got to change that
+13:14 draw order so here's where we're going
+13:14 to edit that draw order right there and
+13:19 bring this forward a level there we go
+13:21 and that fixed this little detail and
+13:23 you might need to change some of the
+13:23 offsets for the labels themselves now in
+13:30 the Pro Plan these labels come from our
+13:33 labels in our plan here and notice in
+13:36 the plan we've got a prefix detail
+13:36 space- space so that if you want to add
+13:38 a cad detail to this please keep in mind
+13:43 that space- space is being searched for
+13:46 by the label convention so that it
+13:46 admits everything before that space-
+13:49 space which is how we're getting these
+13:53 framing labels so if you've got
+13:53 something where you've got a you're
+13:54 going to want a call out involved with
+13:58 this make sure to copy this detail and
+14:00 relink it with that item with the call
+14:05 out same thing if we go to our page
+14:05 one these things don't have a call out
+14:07 associated with them in fact they have a
+14:12 label that's offset if we look at our
+14:15 label itself and we get into this
+14:15 automatic label notice its reference is
+14:18 top Center and it's offset negative a qu
+14:23 inch which is very different from
+14:27 say one of these plan
+14:27 views where we open up this
+14:30 label and we're going to see it's using
+14:37 a call out in some cases but also it's
+14:37 referencing bottom center and it's only
+14:40 got an X
+14:40 offset so depending on what you want to
+14:46 send to view I would say copy a correct
+14:46 element that has a similar setup such as
+14:50 the schedules if we open this up we're
+14:51 going to notice suppress label is
+14:51 checked okay so a couple different
+15:00 layout now in the window order sheet it
+15:02 might be that your project is quite
+15:02 large and you might have to rescale this
+15:06 the labels on this window order sheet
+15:06 are automatic if you've got the Pro Plan
+15:11 they change from you know if it's a
+15:11 remodel workflow it's going to show not
+15:18 applicable on these windows that are
+15:20 existing and they're existing set by
+15:20 their energy values okay so if we went
+15:25 in here and grabbed this window copied
+15:29 it over and then edited the energy
+15:29 values outside of allowed values in
+15:32 California and I you know you might have
+15:35 to edit that for yourself notice it's
+15:37 switched to not applicable of course
+15:38 that's different from just the floor
+15:38 plan view where they switch their label
+15:42 convention and you can see the prefix
+15:42 here existing versus no existing on this
+15:49 one so couple things to note there you
+15:51 can go ahead and pan and scale this as
+15:51 need be and then you might have to chop
+15:57 up this window order in a way where
+15:57 maybe we're just chopping it just just
+15:58 to this portion right here and then copy
+16:05 paste hold expand this drop this back
+16:07 down bring this back and maybe that's
+16:10 just a single row item where then you
+16:13 copy and then point to
+16:13 point okay and then you would expand
+16:16 that next section right so expand the
+16:21 next section to a point to point
+16:21 back so that's a way we can kind of do
+16:26 this and then get rid of or cut out or
+16:28 crop this section crop things as you
+16:32 need to so we could crop this
+16:33 section and
+16:33 then take this layout box and expand it
+16:39 out something like that so A couple
+16:39 different ways you can edit these in
+16:41 order to fit all of your window schedule
+16:46 items on the screen also keep in mind
+16:47 for anything that you've got in here
+16:47 anytime you want a very strong border
+16:50 you can open this up get into the line
+16:56 style panel and layout box borders off
+16:58 is by default a blank line style so so
+16:58 you can scroll this down and switch to a
+17:02 thick line style that's going to put a
+17:05 thick border around that layout box so
+17:06 then you're going to want to crop this
+17:09 specifically to exactly around your
+17:09 element in order to box that out and
+17:11 make that a strong box okay so let's get
+17:17 to our elevations now our elevations
+17:17 aren't always a line so sometimes even
+17:21 though this might be linked to the
+17:23 appropriate view you might want to
+17:23 relink and in the relink menu here when
+17:29 you to notice something keep layout Box
+17:29 contents position when relinking in this
+17:34 case we don't want to do that I'll show
+17:36 you when we always want to have this
+17:36 clicked but in this case I don't want to
+17:40 do that because I want it to autof
+17:40 figure out how to center that view and
+17:45 so when I relink there we go it
+17:45 populated and centered my view based on
+17:50 that relinking that's really important
+17:51 right that helps us
+17:51 out time when we don't want to do that
+17:56 is when we're copying a particular
+17:56 detail because when we copy this detail
+18:00 and then link it to something new it's
+18:03 going to move and we don't want it to
+18:05 move so in this case if we have that
+18:05 unchecked and I click a different detail
+18:08 it might be that it moves it a little
+18:10 bit if it wasn't drawn perfectly all
+18:13 right so in this case I want to undo
+18:13 that I want to relink and then I want to
+18:17 make sure that I've got keep layout Box
+18:20 contents position when relinking and
+18:20 there we go now this is a double wide so
+18:24 that's perfect cuz it relink according
+18:27 to the far leftand Corner whereas
+18:27 otherwise it would have tried to Center
+18:38 example okay now let's take a look at
+18:38 some of the other layouts all right let
+18:42 me open a layout let's get to our
+18:49 a okay this is a very traditional
+18:49 looking title block as we go through it
+18:53 some of these elements are just moved
+18:53 around that's all that's happening here
+18:57 between the different layouts let's go
+18:59 ahead and and open
+18:59 up another layout let's do our layout
+19:06 b b is a very non-traditional layout
+19:06 kind of graphical in a way um I get a
+19:11 lot of comments on this one so people
+19:13 like this one when they see it in the
+19:16 building department or on the job
+19:16 site let's just try our alt file menu
+19:18 open layout is U so there we go and then
+19:24 our layout C is a little tricky it's got
+19:25 a few elements that are a little bit
+19:25 different so there's actually a center
+19:27 line here and that's the center line of
+19:31 this side marker here and then as you
+19:34 scroll through the details page has a
+19:37 second template page where it breaks
+19:37 this line in case you need to do a full
+19:41 wide so in this case You' get back into
+19:43 that edit page information and in the
+19:43 subsequent menu you would scroll down to
+19:48 page one as opposed to the default page
+19:50 template so that's when it's going to
+19:52 break this line but keep our naming
+19:52 conventions intact so something to note
+19:54 there for that particular one other than
+19:59 that that's that's it kind of gone
+19:59 through the layout as quickly as I could
+20:03 you might need to slow that video down
+20:05 and check it out again and if you got
+20:05 any questions let me know I'm I'm happy

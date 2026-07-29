@@ -1,0 +1,540 @@
+---
+videoId: lBT3Et0-iCc
+title: Live Drafting Session Organizing Layout On A Small Remodel n Chief Architect X16
+url: "https://www.youtube.com/watch?v=lBT3Et0-iCc"
+status: imported
+---
+
+# Transcript
+
+0:01 uh Hey
+0:02 VIP know occasionally I record a full
+0:06 onh hour session and then come to
+0:08 realize that it wasn't recording at all
+0:10 and so that's what just happened to me
+0:13 so instead of giving you a really
+0:15 detailed breakdown of process I'm going
+0:17 to have to kind of go back and explain
+0:19 some things so it's going to be a
+0:20 shorter video um I get a lot of requests
+0:25 to show my drafting sessions and um and
+0:29 I will say kind of the same thing I said
+0:31 in the First Recording which is that I
+0:33 don't always have a linear process it
+0:35 really depends on the type of drafting
+0:37 that we're going to be doing and so in
+0:40 the case of this particular project my
+0:42 scope is limited to one room with one or
+0:45 two adjacent rooms being affected by
+0:47 that scope and so the plan set changes
+0:51 drastically I no longer have a big G1
+0:54 page I no longer am going to organize in
+0:57 the same way that I typically would I'm
+0:59 going to um it's just not required of me
+1:01 so I'm going to fix a few things change
+1:04 few the way few of these things are laid
+1:06 out and so right off the bat I'm going
+1:08 to get rid of that G1 page and I'm going
+1:10 to just start with A1 because the scope
+1:12 of this thing is very small and it just
+1:14 doesn't require that much information on
+1:16 the page even though I'm drafting for
+1:18 California for this project and
+1:20 California's projects always require a
+1:22 little bit more information from most
+1:25 meetings that I know so I will get rid
+1:28 of this lot analysis section that's
+1:31 going to be something I get rid of and
+1:32 maybe some of the standards or the spec
+1:34 writing I might get out out of there as
+1:36 well and then make this a little bit
+1:38 easier to read on the page I want to
+1:41 make sure that I'm simplifying my
+1:44 project always in terms of um just the
+1:48 graphic Fidelity on the screen like I I
+1:51 want it to be very very easy to read I
+1:55 will say I'm a stickler for matching up
+1:57 text Heights and everything like that so
+1:59 the only thing that um stands out is my
+2:03 room labels are different text size than
+2:06 everything else but everything else is
+2:08 standardized across plan layout details
+2:12 all that it's all the same text size so
+2:16 that it reads the same except for in the
+2:19 case where I'm sending something at a
+2:20 half inch scale which I am right here
+2:22 this is a/ inch scale so halfin scale is
+2:25 going to be double the size of all this
+2:27 um spec writing scale so do I make the
+2:30 change there do I try to you know redo
+2:33 my G1 sheet where my spec writing is all
+2:35 halfin scale so that this could be
+2:37 printed 11 by 17 possibly something I'm
+2:39 considering so keep that in mind the
+2:42 next thing is I'm always going to want
+2:44 to align elements on the page and so
+2:47 once I've figured out where exactly my
+2:49 elements need to be so that they still
+2:51 fit in with my project or the sheet size
+2:55 that I've picked out then I might come
+2:58 into that sheet zero and draw in some
+3:00 inference lines to snap to okay so let
+3:04 me move this forward if I just cycle
+3:06 through my sheets you can see here that
+3:08 my project is aligned on every page
+3:11 making it extremely easy to read I am
+3:14 fighting The Binding side a little bit
+3:17 so that if this is printed on a very
+3:20 large uh sheet size then that binding is
+3:23 going to be kind of problematic if I
+3:25 were to have information over here great
+3:27 news I don't have any information over
+3:28 here the scope of the work is right in
+3:30 this area here and so something I do
+3:33 like to do is I do like to very clearly
+3:36 show where the scope of work is and
+3:39 that's why I built The annotation tool
+3:40 to do one of the things that it does
+3:42 very well so I might come in here with
+3:44 just a polyline to understand that the
+3:47 scope of work is limited to just this
+3:49 entry and that wine Celler and this guy
+3:52 right here take
+3:55 that bill it all the sides 4 in radius
+3:59 seems about right go all sides bam okay
+4:03 actually maybe I want to do more than 4
+4:05 in radius maybe we'll do 8 in radius and
+4:07 fill it all sides and then open this up
+4:10 and change the line style and the line
+4:14 weight style we'll just roll the mouse
+4:17 down one time and then I wish you could
+4:19 roll this and change the numbers too bad
+4:21 no you got to actually reach and type
+4:23 and do all that stuff Chief please let
+4:25 us roll numbers so maybe I want this to
+4:28 be like 65 line we and this so that's
+4:31 really really clear right bam easy to
+4:35 see that this is going to be scope of
+4:37 work or area of work now the ano tool is
+4:40 meant to be used in a way that if it's
+4:42 dropped in outside of the project area
+4:45 that it's going to say that this is area
+4:47 of work so I could use it if I just
+4:49 dropped it out to this exterior side and
+4:52 that will in fact show area of work yeah
+4:55 I don't know maybe I'll clean that up
+4:56 but that should be pretty clear as we're
+4:58 cycling through bam area of work that's
+5:01 that line know check that that line
+5:03 weight's going to print according to
+5:05 what you want cool another thing I like
+5:07 to do is I like to just go through and
+5:09 try to simplify as much as possible I do
+5:12 want to note that this is um this is a
+5:15 design according to the contractor and I
+5:17 want to show right off the bat that look
+5:20 this door is originally pushed down even
+5:22 further um down this wall and we can see
+5:25 very clearly that this door conflicts
+5:28 with the front door and the biggest
+5:30 biggest problem with this is that these
+5:32 doors are already ordered so this is
+5:35 going to be something I have to bring up
+5:37 with the contractor so I wanted to kind
+5:38 of um compile my sheets get it uh pushed
+5:41 a little bit further along and then send
+5:43 him this in a way that it's going to be
+5:45 dynamically available for me to like
+5:47 modify this without doing a lot of extra
+5:50 work um and then I have something that's
+5:53 built into the Pro Plan which is our
+5:54 window order form where we're showing
+5:56 that these are not applicable in terms
+5:58 of the order but there's two door ones
+6:00 and a door two and there we go there's
+6:03 our information so it looks like I want
+6:06 that door schedule to kind of be
+6:08 centered right here so I could take a
+6:10 line draw it in there snap it to the
+6:13 center of the door crl X come back over
+6:15 to sheet zero paste hold and then just
+6:18 draw this line up a little bit it's off
+6:20 of the actual sheet space and that way
+6:24 I'm using that to Center information so
+6:26 if I have additional information like
+6:28 this elevation maybe I want it centered
+6:31 there maybe I want these two centered on
+6:34 that
+6:34 information now I'll show you what I did
+6:37 with these two little pieces down here
+6:39 these are a cool little trick that I put
+6:40 together and and watch this I'm going to
+6:42 drag this over I'm going to hold s so
+6:44 that we're not picking up any snaps and
+6:45 I'm going to right click and drag so
+6:47 that we're kind of moving orthogonally
+6:50 left to right so that I'm not moving
+6:51 this up and down at all by accident and
+6:55 then I might take this label and kind of
+6:57 bring this over as well and same thing
+6:59 with this one I want to bring this label
+7:01 over as well but I'll show you what I
+7:04 did here is that this is a cad detail
+7:06 and so I created a cad detail dropped
+7:08 the PDF in scale the cad detail because
+7:11 this is just you know basically an image
+7:13 scale same thing it's a raster rescale
+7:16 so Point too resize click to click make
+7:19 that 42 in there you go then I copy
+7:23 pasted this two times opened it up since
+7:26 it's a PDF and changed the page number
+7:29 left that stacked so this is three PDF
+7:33 Pages stacked on top of each other then
+7:35 I duplicated the cad detail and named it
+7:38 to what I wanted and deleted the other
+7:41 PDFs and then you can see here I
+7:43 actually cut the bottom of this PDF so
+7:45 that it hid the label that was in this
+7:48 PDF now because these are in the same
+7:52 exact XY position on the sheet then when
+7:55 I send it to view all I have to do and
+7:58 I'll just show you how I do this again
+7:59 proposed wine room elevation and
+8:02 proposed wine room elevation um note
+8:05 that I have something in the Pro Plan
+8:07 that's going to get rid of any trailing
+8:09 numbers so that's a problem here so you
+8:12 might need to rename this to something
+8:14 else or use um a different system to
+8:17 create this label automatically but I'm
+8:19 going to take this and delete this just
+8:21 to show you the process was that I copy
+8:24 pasted right click hold your s so that
+8:26 you're not picking up any snaps and then
+8:28 bam and relink and I just get to drop
+8:32 this down to the next View and because
+8:34 it's in the same coordinate space it's
+8:36 going to populate perfectly great
+8:38 awesome the only problem with this is
+8:41 the original PDF did not have the floors
+8:45 lined up from page to page which is a
+8:47 pet peeve of mine that's very annoying
+8:49 so instead I got to do a little point to
+8:53 point line that up so that the floor is
+8:56 align hold your s key right click drag
+9:00 now we know that these floors are
+9:02 aligned and the last thing is I'm going
+9:04 to have to change the box size and snap
+9:06 it to the one next to it I like to put
+9:08 my label right on that box because then
+9:10 it's easy to make sure that your label
+9:13 is snapped you notice here when I come
+9:16 into the label panel that the reference
+9:19 is set to bottom center with a set
+9:22 offset so that just means that these
+9:24 will snap to each other super simple now
+9:27 the labels are aligned floors are LED
+9:30 that's perfect this is looking good and
+9:33 I can take these again um so long as
+9:35 I've got kind of this layout box
+9:36 centered on this piece right here which
+9:39 I'm going to set up like that yep and
+9:42 then I want to make sure that this one's
+9:43 kind of centered on this view right here
+9:45 sure something like that now if I select
+9:48 these two Center it up on that line This
+9:50 is looking very clean right it's looking
+9:54 very clean so one thing to keep in mind
+9:57 is I managed to cut off portion of this
+9:59 so maybe I do in fact want to S roll
+10:02 this over bring that a little bit closer
+10:06 and and I might move this over notice
+10:09 that I didn't hold s so it's picking up
+10:10 snap so if I hold s and draw that over I
+10:13 can just with Gally move that left
+10:16 perfect looking super clean on this page
+10:20 I might want to bring these down kind of
+10:22 a last little things see it's picking up
+10:24 snaps hold that s key use that right
+10:27 click draw down there we go
+10:30 looking like a very clean
+10:32 sheet now let's get into well I've got
+10:34 some cabinet um cabinet setup here
+10:37 that's a little bit complicated I'm not
+10:39 going to end up using details but I
+10:42 might end up using a stacked
+10:44 cross-section view to illustrate what's
+10:46 happening here where we're going to
+10:48 change out a header that might be
+10:50 something I do um and then I've got um
+10:54 kind of the electrical setup here and so
+10:56 we see
+10:57 that getting a little bit of clever with
+10:59 my verbage here we're going to somehow
+11:02 show that we've got some kind of
+11:03 condenser line and it's continued on
+11:06 something that I might um do to show
+11:09 that is that maybe I will use a line
+11:12 tool to draw this over and we're going
+11:15 to change that line style to represent
+11:17 that condenser in fact we might even do
+11:21 something a little clever where we're
+11:22 kind of creating a double line style to
+11:26 show a condenser which might be helpful
+11:28 um you can kind of do something like
+11:31 that with a molding but you can also do
+11:33 that with a distributed path which I've
+11:35 shown a very old video and I'll show you
+11:37 what I even mean about that which is
+11:40 that you could just draw out a line
+11:42 let's say that line is 3 in okay and
+11:45 then we're going to duplicate this down
+11:47 we're going to select both of these and
+11:50 make a cad block out of them let's name
+11:52 the cad block Double
+11:56 Arrow and let's see if we can take a l
+11:59 and then convert this to a polyline
+12:03 distribution
+12:04 path and we'll turn on CAD default for
+12:07 now we'll put it to something else here
+12:08 in a minute but let's see if we can't
+12:10 pick up that CAD block that we just
+12:13 generated right
+12:16 so can we drop in a cad block you might
+12:19 not be able to draw in a cad block you
+12:20 might be able to drop in some 3D symbol
+12:23 that uses the cad block as its
+12:25 representation of that symbol so let me
+12:30 see
+12:31 here get into my library browser which I
+12:34 have turned off right did I add this to
+12:38 my double line I might not have added it
+12:41 double arrow Double Arrow and do we get
+12:45 to do anything with that no not
+12:47 necessarily we don't get to do anything
+12:49 with that so this is a cad Block it's
+12:51 now in my cad block management so if I
+12:54 were to just take this line and
+12:57 instead turn
+13:00 into oh what we do here thinking about
+13:04 something here I've done this before and
+13:06 now I'm can't can't think of what I did
+13:09 exactly how did I do this distribution
+13:11 path with a cad block need to be an
+13:14 architectural block of some sort so
+13:17 maybe you're just making a pinhole like
+13:18 a face like a simple little
+13:22 face the tiniest little face you've ever
+13:25 seen something like
+13:27 this and does this
+13:30 somehow somehow becomes a symbol and
+13:33 somehow that symbol we replace the 2D
+13:38 symbol for that and this is that double
+13:41 arrow
+13:42 instead
+13:44 okay and then and then we drop
+13:49 that new symbol we just
+13:53 generated Chief tries to
+13:56 freeze and replace and look at that now
+13:59 we've got that double arrow and we want
+14:01 to make sure that we are not
+14:04 showing we don't want to show the actual
+14:07 line so the polyline itself is going to
+14:10 be blanked out
+14:13 right but the distributed
+14:17 object set the auto spacing now we get
+14:19 to dynamically change the spacing on it
+14:21 isn't that funny and if we put this onto
+14:24 the electrical layer
+14:29 I'm not saying that this is going to be
+14:30 my end representation of this I'm just
+14:32 showing you just how Dynamic you can
+14:35 kind of get with some thought process in
+14:36 here um so those objects are milw work
+14:40 objects so it's on the mil work layer so
+14:42 we'd have to make the mil work layer be
+14:44 red but here we go this could represent
+14:47 my condenser line and in fact you should
+14:50 be able
+14:51 to yeah shape this if you wanted
+14:54 to look at that isn't that clever
+14:59 so you can make a double line style
+15:01 triple line style whatever you want in
+15:03 that way without having two individual
+15:06 lines and so then it's can be
+15:07 dynamically reshaped if you like just
+15:11 giving you the option so I'm actually
+15:13 not going to do
+15:15 that instead I am going to just use this
+15:18 line and maybe I'll use a custom line
+15:20 style that just says condenser and the
+15:22 main thing I want to do is that this is
+15:24 going to be an arrow at the end of this
+15:26 thing so um include an arrow at the end
+15:30 bam and then that um maybe the line
+15:33 style that we're creating if you don't
+15:34 know how to do that CAD Lines line style
+15:37 management new line and we'll drop in
+15:40 some text and specify that text to
+15:45 um uh let's see
+15:53 to and then add some dashes
+16:01 do M to
+16:05 condenser so we just change this line
+16:11 style and it needs to be long enough
+16:14 that it
+16:15 includes text so those lines are a
+16:18 little
+16:25 off dashes are long
+16:35 here we
+16:36 go size of that text that's going to be
+16:39 wrong too takes a little bit you know
+16:41 what if I was paying attention this
+16:43 wouldn't have been a problem been paying
+16:45 attention to the size of the text I was
+16:47 using so
+16:49 text text height text height is 1/8 of
+16:52 an
+16:53 inch but it looks quite a bit larger
+16:55 than that
+16:57 so just do
+17:02 we
+17:03 go although that looks small now but
+17:06 that's
+17:08 fine so maybe that's useful because on
+17:12 the tail end of this I'd probably end up
+17:14 putting a little dot um and you can't do
+17:17 two separate line Styles so I do want
+17:19 the continuation Arrow going this way so
+17:24 maybe we'll switch start and end open
+17:27 this up and Arrow make this a big dot
+17:31 instead there's that dot and then I will
+17:34 do another line that is an
+17:39 a something like that so two condenser
+17:42 condenser Pops in here somehow got to
+17:45 drop in some kind
+17:47 of then voluntary retrofit of condenser
+17:51 line um where do we want to put that so
+17:55 something I probably will do then is I'm
+17:57 going to end up moving this all assembly
+18:00 so I mean I'm really just kind of
+18:02 thinking through this and doing what I
+18:06 think I think
+18:08 represents my work in the best way
+18:11 possible and explaining this in a way
+18:14 that's buildable and explaining this in
+18:15 a way that
+18:18 um that the Checker can understand right
+18:22 and maybe that's complicated it's not
+18:25 it's not always an easy path
+18:27 forward so I'm often times doing things
+18:30 like this
+18:32 where kind of figuring out what the best
+18:34 path for it
+18:38 is see and it's you know you guys might
+18:41 watch this and and be tortured by
+18:43 something that I did and go dude why
+18:45 didn't you just do this that happens um
+18:49 sometimes it comes to me in the next
+18:50 drafting session where I'm just like
+18:51 well that was dumb could done better
+18:53 than
+18:55 that still don't like that line style
+18:58 when we get back into layout something
+19:00 that I'm going to have to do is I'm
+19:03 going to copy paste this guy over here
+19:06 like so and I'm going to have to make
+19:08 some notes of this area over
+19:13 here and ideally I should have made a
+19:17 match cut here so our match cut is and I
+19:22 already screw that up this is how we
+19:24 would do this um is that I can copy
+19:28 paste paste hold this and then draw this
+19:30 part out and snap this part to the one
+19:33 that's still left behind if that makes
+19:37 sense and so now I have a correct
+19:41 match okay there's my
+19:44 match so here's match line over here
+19:48 where we've got a little brake line
+19:49 right and we would even put in some kind
+19:52 of
+19:55 text math line match line
+20:00 or you could use a construction line for
+20:02 that um and you know I'm probably going
+20:05 to just scale this up where that
+20:09 is how do we scale this up we shift it
+20:12 right we shift it shift select there you
+20:15 go do we care that it's maybe not the
+20:19 correct X size over see see if I
+20:25 later there that's very clear to me
+20:28 that's a match
+20:30 line keep it away from their schedule
+20:33 but then we'll make some notes about
+20:36 these existing units that we're going to
+20:38 tie into with that Condor so we'll
+20:40 continue this line style come back to
+20:43 this plan view we should be able to take
+20:45 this
+20:48 and kind of um draw this up in a way
+20:51 that makes
+20:56 sense a line style should be easy easy
+20:58 enough to just do that kind of a thing
+21:01 right there right line this up over here
+21:04 and go this
+21:08 way andam snap it to itself dra on that
+21:12 little arrow make that a 90 cool
+21:16 something like that so that this is the
+21:18 way this looks in
+21:21 layout
+21:24 right so this is moving pretty far along
+21:28 long this is looking pretty good um I
+21:31 think I'm going to stop this video here
+21:34 but yeah we can see here I've got you
+21:37 know start of a demo plan you know we
+21:39 got some kind of text here that's not
+21:41 quite showing exactly what it needs to
+21:42 be showing um it's mainly because I
+21:45 don't have ceiling surfaces turned on
+21:48 which I need to have those turned on or
+21:50 ceiling planes in this case it's going
+21:52 to show that tray ceiling that this was
+21:53 pointing to and then little things like
+21:56 this I'm always going to want to clean
+21:57 up or
+21:59 um that door running over the other door
+22:01 is just not a good look in plan it
+22:03 immediately draws your attention when it
+22:05 shouldn't
+22:07 and other than that door to be removed
+22:10 hatching denotes wall to be removed
+22:13 shelf cabinets to be removed and in fact
+22:16 I need to um say that these are going to
+22:18 be removed as well so door number three
+22:21 is going to
+22:22 be and then I don't have a method for
+22:24 doing that with a doorway um so I might
+22:27 just have to type into the store way do
+22:30 that remember if this shows up
+22:34 here it's not so I'm just add this to
+22:38 the label in this case
+22:44 and that's a doorway so reframe
+22:52 see
+22:54 right and actually it's not to be
+22:56 removed it's to be replaced in this case
+22:58 Cas
+22:59 so same thing so I'm just cleaning this
+23:03 little view up and just start looking
+23:05 for the details I'm probably going to
+23:06 reconfigure this page like I said but um
+23:09 for the most part this is Reading in a
+23:12 pretty clean way I want might want to
+23:16 illustrate this built-in section A
+23:18 little 3D I'm always up in the air about
+23:21 that it adds a bunch of liability to me
+23:24 that's that's a mistake often times
+23:28 just kind of clean
+23:30 up some of my schedules
+23:38 here cool I hope you get something out
+23:40 of this video and let me know if you
+23:43 have any questions maybe I'll show this
+23:46 as a finished product down the line
+24:01 [Music]

@@ -1,0 +1,161 @@
+Title: Underpinning An Existing Foundation in Chief Architect X15
+URL: https://www.youtube.com/watch?v=6u5Jr0PInNg
+Visibility: members-only
+
+0:01 what's up
+0:03 VIP let's see it's November 2023 and we
+0:06 voted on
+0:08 foundations so I'm just going to make up
+0:11 make up some stuff I'm going to show you
+0:13 something kind of tricky here um this
+0:16 isn't the perfect example but I don't
+0:17 need it to be so I'm going to
+0:20 draw a room here and we're going to say
+0:22 that the existing building is to the
+0:25 left and then we've got some kind of an
+0:28 addition and let's just call it we're
+0:29 going to say it's like a twostory
+0:31 Edition so it's got um it needs a let's
+0:35 say it needs an
+0:36 underpinning in in this wall right here
+0:39 in this wall segment right here so first
+0:41 of all let me get into the build
+0:43 Foundation menu and just specify a few
+0:45 things um so we can get into this on
+0:47 Windows alt b o is floors and then f is
+0:50 foundations so alt bof real quick and
+0:54 let's edit the the default foundation
+0:57 wall and um
+1:00 um we're going to say actually I'm not
+1:03 going to add the default foundation wall
+1:04 we're just going to say this is a mono
+1:05 monolithic slab Foundation setup okay
+1:08 for this whole um project there we go it
+1:11 drew our slab out now the next thing I
+1:14 want to do I'm going to get back up a
+1:15 floor and I'm going to say that this is
+1:17 a separate slab por number and watch
+1:19 what happens right so I'm going to say
+1:21 slab four number two let's go down a
+1:22 level look at that we've got a dividing
+1:24 wall easy right so next up I'm just
+1:28 going to draw an inference line here I'm
+1:30 going to take this section of foundation
+1:32 wall you can see here it already made a
+1:34 um a split in the foundation and in fact
+1:37 even to make this more clear let's lower
+1:40 this floor just say that this floor is
+1:43 lower by 4 in okay now when we look it
+1:47 even creates a step in our foundation
+1:49 and it even creates a different wall
+1:51 fill type fill for this right so now let
+1:55 me take this Foundation copy paste this
+1:57 is going to turn off auto build and I'm
+2:00 going to draw a wall next to it here's
+2:01 the example I want to give let's just
+2:03 pull a an elevation real quick right
+2:06 through the middle of this
+2:09 building What's Happening Here is you
+2:11 can see we've got two completely
+2:16 separate foundations now all right now
+2:19 before we made that duplicate wall I
+2:22 want to show you what was
+2:25 happening before we made that duplicate
+2:27 wall this slab Foundation of our new
+2:30 structure was tying into the footing of
+2:32 the existing structure and you can see
+2:34 here it's almost like it forced some
+2:36 kind of underpinning underneath but if
+2:38 we were to auto detail what would it
+2:40 show it show as one Big monos Slab yeah
+2:43 not quite correct we could fix that with
+2:44 some CAD lines but whatever so let's
+2:47 instead say that we're going to draw in
+2:49 a new wall and part of that new wall is
+2:51 going to be an underpinning for the
+2:52 existing wall so that's a totally
+2:54 different setup now okay so let's go
+2:57 back we're going to say that we
+2:59 duplicated to that
+3:03 wall right flip it about
+3:08 itself and I'm going to shorten this I'm
+3:10 going to grab this little edit handle
+3:12 right here that dot edit handle and
+3:14 we'll bring this in I don't know 7 and
+3:16 12 in something like that okay now I
+3:19 want to open this up in fact let me just
+3:22 real quick I'm going to open up all
+3:23 these and we're going to say that these
+3:24 are all in a different slab number just
+3:27 going to say these are all p number two
+3:30 including going give us an error
+3:32 including this
+3:37 room let's take a look at does that do
+3:39 anything in our 3D menu well you can see
+3:42 here these are two totally different um
+3:44 totally separated out foundations now
+3:46 and you see one's AB buts the other but
+3:48 on top of this we want this New
+3:51 Foundation to do an underpinning under
+3:54 the existing Foundation okay let's take
+3:56 off auto
+3:58 detail I'm going to open up this guy
+4:01 right here now notice when I select this
+4:04 interior sides on the right hand side
+4:06 you can see our start and end indicators
+4:07 when we open these up you can see
+4:10 exterior start and end indicator so
+4:12 here's our exterior side that's
+4:14 important to note you want to make sure
+4:16 that you have the correct orientation
+4:17 here because the only options we have
+4:19 for aligning footings are based on the
+4:21 center or align footing on the outside
+4:24 we don't have an option to align footing
+4:25 on the interior side Okay so
+4:30 what am I going to do next I want to add
+4:32 want to add the thickness of the other
+4:35 foundation wall okay our other stem wall
+4:37 with its footing so I'm going to add 16
+4:39 in now notice this adds it to the curb
+4:42 width as well that's not correct because
+4:45 that's going to thicken our wall and it
+4:47 might even overrun the wall that it's
+4:50 abing to right so we need to change this
+4:52 back to 8 and 1/2 or or whatever it was
+4:54 I think it was yeah I think it was 8 and
+4:57 A2 now notice that even though we have a
+4:59 line footing on outside checked it's not
+5:01 aligning on the outside so I'm going to
+5:03 uncheck and check it again there you go
+5:05 that fixes it real quick and easy now
+5:07 the last thing I want to do is I'm going
+5:09 to double this up we're going to say
+5:10 it's 16 in in height there we go and I'm
+5:13 going to end up doing that to the other
+5:15 footings as well with this particular
+5:17 room cuz we're going to say that this is
+5:19 a two-story Edition or something
+5:22 so we can do that real quick just to
+5:24 show it but notice where this is lining
+5:27 up right
+5:33 so with that align footing on the
+5:37 outside let's take a look at the
+5:39 elevation bringing that footing into the
+5:42 interior side what do we have to do well
+5:46 you're just going to flip sides okay now
+5:49 notice what it's
+5:51 doing underpinning our existing
+5:53 Foundation it's exactly what we want now
+5:56 to kind of finish this up
+5:59 go ahead and make
+6:01 these footing Heights same thing 16 in
+6:06 pull back to that cross-section view now
+6:09 let's do an auto detail and you can see
+6:11 here we've got our new foundation wall
+6:13 it's underpinning an existing foundation
+6:15 wall it's exactly what we're going for
+6:18 so hopefully you learn something from
+6:19 this video and stay tuned I'll I'll pump
+6:22 out a lot more of these
+6:25 [Music]

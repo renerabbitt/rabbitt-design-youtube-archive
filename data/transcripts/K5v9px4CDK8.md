@@ -1,0 +1,246 @@
+---
+videoId: K5v9px4CDK8
+title: Media Making Machine-Producing Videos with Ai Generated Summaries with a GPT
+url: "https://www.youtube.com/watch?v=K5v9px4CDK8"
+status: imported
+---
+
+# Transcript
+
+0:03 what's going on everybody um I'm GNA go
+0:06 over a something that's kind of fun to
+0:09 me uh because it was
+0:09 successful and what was fun was that um
+0:13 I've got some membership services and
+0:13 they're built into my Discord servers we
+0:19 all know that and the problem with it is
+0:22 that I had no way of without just doing
+0:24 the work I'm I'm kind of backtracking I
+0:26 need to go back and figure out how many
+0:26 hours of content I'm producing and so to
+0:33 do that I thought man I can go video by
+0:33 video but that kind of led me to another
+0:39 thought and the other thought was what
+0:40 if we could give better summaries of
+0:43 these videos so that I had a content
+0:43 list with a good summary and the amount
+0:46 of time that was in that particular item
+0:53 so I thought okay but we have to upload
+0:55 videos to get it to transcribe through
+0:55 the use of AI That's out there right now
+1:00 I can't find an AI that will just um is
+1:02 some application that's built into my
+1:02 computer that will do that transcription
+1:08 except for here I go I've got I've got
+1:10 Adobe Premiere Pro I've got the Adobe
+1:10 suite so why not use that so I can come
+1:16 in here and I can take a video and very
+1:19 quickly I can click on the text section
+1:21 here and I can transcribe the source
+1:22 clips now this is going to go for a
+1:22 minute or two it depends on how long the
+1:27 video is but once you have a
+1:27 transcription then what do you do with
+1:31 it and and so I needed to summarize it
+1:32 that's when I'm going to go to the
+1:32 Internet that's when I'm going to go to
+1:34 chat
+1:34 GPT except for that chat GPT doesn't
+1:38 give me the same structure every time
+1:41 that I do a video so I had to make a GPT
+1:48 where I outlined the exact structure
+1:49 that I'm looking
+1:49 for so with that in
+1:51 mind what do we do from there well I
+1:54 wanted to I wanted to talk about how I
+1:57 wanted to summarize my video so I needed
+2:01 to Des describe my audience because when
+2:04 you go on online and you use something
+2:04 like Merlin and Merlin's AI that's kind
+2:09 of integrated in as a Chrome browser
+2:13 extension it will summarize but it's
+2:13 it's summarizing based on sections of
+2:18 the video and so it's taking time
+2:18 markers and I mean that's the purpose of
+2:22 it it's thinking that you want to
+2:22 chapter IE your video I don't want to
+2:27 chapter eyesee my video I want to
+2:27 summarize it it's very different right
+2:32 so chaptering we're taking it's very
+2:35 linear we're going step by step to
+2:35 understand how we're going to create
+2:36 chapters for video summarize I want to
+2:41 give my audience a sense of what they
+2:41 might get out of this video based on you
+2:47 know various parameters based on larger
+2:49 sections you know in this video we're
+2:51 going to go over how Photoshop can be
+2:51 used with their new generative fill and
+2:55 then we're going to talk about layer
+2:57 Styles so even though that might not
+2:57 have been the order of operations within
+3:01 the video at itself those are the main
+3:03 key points that I want my audience to
+3:03 get so I needed to train my GPT to look
+3:09 at the video from the approach of one
+3:09 it's going to be we it's not going to be
+3:13 a third person perspective where it's
+3:13 saying hey the um uh the person talking
+3:19 in this video is doing this I need to
+3:19 have GPT talking about it as if it's us
+3:25 as if it's our company we are producing
+3:27 this video this is what we are doing in
+3:30 this video so it was a we appr approach
+3:32 and then we're talking about major key
+3:34 points and then we want to division it
+3:34 and then the next part is that because I
+3:38 want to put these summaries into my
+3:38 Discord server Discord server has a few
+3:43 things that it um in the way that it
+3:43 handles font and Rich Text Etc is that I
+3:48 need a double asterisk opening and
+3:48 closing double asterisk to designate
+3:51 bold text and I need an opening and and
+3:58 closing single Aster for um italic text
+4:02 right so I want chat GPT to put all of
+4:04 that in its coding now you can't just
+4:05 highlight text in chat GPT you have to
+4:07 go through and hit the copy clipboard in
+4:11 order for it to copy those asterisks in
+4:14 order for it to translate in Discord so
+4:14 here we go we've got a transcript on the
+4:19 screen now and here's what I'll do I'll
+4:19 export this to a text file and I've just
+4:23 been exporting this to the same exact
+4:25 text file doesn't matter I'm just
+4:25 overwriting it every time and then I
+4:27 will open this text file up and let me
+4:30 just grab this real quick I'll do it off
+4:38 screen and contrl all contrl C to copy
+4:41 it and then I'm going to bring that
+4:41 into here we go I'm going to bring this
+4:49 into my chat GPT so I'll click on my
+4:51 account but then up on the left hand
+4:51 side here I have gpts that I've saved
+4:56 okay that I've created so here's my
+4:56 summary GPT and then I just get to I
+5:07 here so I just get the copy
+5:07 paste and then let it do its thing now
+5:09 this is pretty quick usually and that's
+5:13 the great thing about this it's very
+5:13 quick so we'll scroll down here's what
+5:16 it gives you it gives you the title that
+5:22 you might like okay um it gives you the
+5:24 date it gives you the video length it
+5:24 gives you you know it's published by me
+5:29 and then it gives me all my major uh
+5:29 sections and then in Discord I want it
+5:35 to say see video below attached and so
+5:37 all this bold text and everything this
+5:37 will actually carry through so long as I
+5:41 hit this copy clipboard button at the
+5:43 bottom now if I just type in the word
+5:43 brief look what happens this is going to
+5:49 give me just a brief summary and I'll
+5:51 show you how I'm using this I'm using
+5:52 this in a service that can
+5:52 embed uh data into my Discord server and
+5:58 it manages my Discord server and it's an
+6:01 AI based bot so I'll take this info here
+6:02 and then let's just pull up my Discord
+6:02 server and we can see here one here's an
+6:08 example of a summarized video which is
+6:10 fantastic someone can take a look
+6:10 through this if they want to and kind of
+6:13 see what's going on here and then I also
+6:16 have for those people that don't have
+6:18 access to the Photoshop Club but are
+6:20 considering getting access to the
+6:20 Photoshop Club this is it it's showing
+6:22 you your content list so not only can we
+6:28 use this as you know getting an idea of
+6:29 the type of content that might be in a
+6:31 subscription service but also it's
+6:31 giving me video length and it's giving
+6:36 me links to that particular content so
+6:38 we could also be using this as a
+6:38 different way of navigating the server
+6:42 and that hey I want to look at this
+6:42 content or I'm like trying to go back
+6:46 and reference and it's a little bit
+6:46 overwhelming for me to reference in this
+6:50 view but it's a lot less overwhelming
+6:50 for me to reference in this View and I
+6:54 can click on a link and it's going to
+6:54 take me to that particular video so this
+7:00 is a really great great full circle
+7:00 approach to getting organized with my
+7:05 content and then not only that but my
+7:08 content takes up terabytes of data it
+7:08 doesn't so long as I'm uploading it to
+7:13 Discord which to my knowledge it does
+7:15 not delete that data so I can delete
+7:15 that data off my hard drive or not hog
+7:21 up my cloud storage in this case plus
+7:22 most of this data becomes obsolete
+7:22 pretty quickly so we make new videos for
+7:27 these things but this is really a
+7:27 fantastic thing so the Great the last
+7:30 kind of great step about this is I get
+7:34 to take the PS content list copy this
+7:34 text take it back into chat GPT and say
+7:41 how many hours of video content have I
+7:43 created and it will automatically
+7:43 produce that for me so that I can keep
+7:45 up to speed with how many hours I'm I'm
+7:51 creating so that when I say hey you me
+7:51 you access a membership right now you're
+7:54 going to get 6 and a half hours of
+7:54 Photoshop content that's how much we've
+7:58 built up in in two months right and you
+8:00 only need to pay for one month that's a
+8:04 great that's a great sales pitch right
+8:06 because we're giving you tons of hours
+8:06 of content you only have to pay for one
+8:09 month and if you like the content you
+8:09 could keep paying it's a great approach
+8:15 it's a it's passive income um I
+8:15 encourage it not only that but I'm big
+8:20 into this abundant mindset and cross
+8:23 platforming and cross tagging and
+8:23 everything like that I want my content
+8:25 in Instagram and YouTube and Discord and
+8:30 all these different locations
+8:30 um got to get it on Tik Tok and Linkedin
+8:34 here pretty soon and the other thing I'm
+8:36 down to do is if you have a platform if
+8:38 you've got something to say if it might
+8:38 correspond or correlate with what I have
+8:43 to say we can kind of work this out we
+8:45 can kind of add additional content
+8:47 through that so this is all just
+8:47 building like a media monster and
+8:49 hopefully hopefully we're doing things
+8:55 that you might really enjoy I'm hoping
+8:57 that the content that I'm pushing out
+9:00 are things that you might enjoy so
+9:00 so I'm just kind of pumping this stuff
+9:06 out it's fun you know and nowadays I'm
+9:06 not someone that ever started my morning
+9:11 by looking at um what other people were
+9:13 doing in in the design realm like I
+9:13 wasn't looking I'm not scrolling for
+9:15 other people's design ideas I'll look
+9:17 for design ideas very specifically but
+9:22 now I've got these automatic articles
+9:22 and Instagram generations and podcasts
+9:26 and
+9:26 YouTubes and it's kind of cool to just
+9:30 start my morning and looking through
+9:33 here so this is all coming to a head
+9:33 where this makes sense I'm creating a
+9:36 media conglomerate if you will and tell
+9:42 you the truth it's kind of exciting so
+9:42 let me know if you have any thoughts or
+9:45 new ideas or you you know this is
+9:45 sparking some creativity in you I'd love

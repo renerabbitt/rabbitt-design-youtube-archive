@@ -1,0 +1,119 @@
+Title: Dimensioning Newel or Post Spacing in Chief Architect
+URL: https://www.youtube.com/watch?v=DHbvcwqgS6o
+Visibility: public
+
+0:02 I'm going to show you how you can
+0:02 Dimension to a post to beam railing on a
+0:08 deck system okay let me just switch my
+0:10 save plan view here and then I want to
+0:13 doubleclick on my wall tools to set my
+0:13 new deck railing so I'm going to double
+0:16 click on this deck railing defaults and
+0:16 I'm going to do a few things here one is
+0:20 that I'm going to go ahead and set this
+0:22 to post to
+0:22 beam keep in mind this is changing all
+0:24 my defaults so the next wall I draw with
+0:28 that's a railing wall that's what's
+0:28 going to happen and then in my noes and
+0:33 balls panel okay down at the bottom
+0:33 underneath plan display I'm going to
+0:35 uncheck Ed defaults and I only want to
+0:37 draw the nles that's it I don't want to
+0:41 draw rails or anything else the
+0:42 ballister panels so I'm going to draw
+0:46 the neles there we go underneath rail
+0:48 Style I want to make sure also that I
+0:48 have Auto poost half so I only want to
+0:51 draw a half of a post at at the um at my
+0:58 ends in in the case that you want a
+0:58 full-size post go ahead and set this up
+1:02 here as well autop poost done autopost
+1:03 full you do that and then the last thing
+1:08 I'd like to do in this case is under
+1:08 wall types I'm going to Define my deck
+1:10 railing fence and I'm actually going to
+1:11 make this a partition wall this makes it
+1:16 so that it's not pushing through to the
+1:18 main layer of my building so in this
+1:18 case I'm saying that my post is going to
+1:23 be outside of the surface layer of my
+1:25 building
+1:25 envelope me go ahead and press okay and
+1:34 stack the last thing I actually forgot
+1:34 to do here was I'm going to select these
+1:38 walls and I'm going to go ahead and
+1:38 change their properties in general panel
+1:44 to uncheck no locate this means we'll
+1:44 pick up these Dimensions from that auto
+1:46 exterior Dimension to and then I want to
+1:51 get into the default settings for my
+1:51 plan and underneath the walls General
+1:53 wall defaults I want to make sure that
+1:58 automerge colinear walls is unchecked
+1:58 this means if you put a brake in wall if
+2:03 the the model rebuilds it's not going to
+2:05 merge a collinear wall of the same wall
+2:07 type
+2:07 okay does that mean that means I can now
+2:12 take my break tool which is in my edit
+2:15 tool bar add a
+2:15 break here you go I'm going to add a
+2:19 brake to this wall
+2:19 again happens from here is I'm going to
+2:26 modify my automatic Dimensions
+2:26 here and just going to be able to drw Po
+2:33 in a dimension straight to those
+2:33 brakes from here I want to click that
+2:35 line segment number three and in my edit
+2:40 toolbar or Markus Center Line there we
+2:40 go line segment 4 I click that get that
+2:45 correct there we go Markus Center Line
+2:49 so now I have a center line Mark at my
+2:52 newal posts okay same thing I'm just
+2:52 going to break this here that's going to
+2:56 make it so that I can pick this up as
+2:56 well now something you might want to do
+2:59 and I'm mark this as center line is that
+3:05 maybe I want these walls spaced evenly
+3:07 okay so maybe in this case I actually
+3:07 want this wall on the other side to be
+3:12 even the wall on the left hand side
+3:12 excuse me on the right hand side so now
+3:18 I have an equal distribution here right
+3:18 maybe it's that I want same thing here I
+3:22 want to stretch this to the point where
+3:22 it's at the center line of the room so I
+3:26 might need to draw a little inference
+3:28 line something like drawing a line in
+3:28 between the length here and then picking
+3:33 up that midpoint now I can take this
+3:33 wall and move it to that midpoint snap
+3:37 it to it now I know that this is on a
+3:37 center line and I can get rid of those
+3:41 line
+3:41 segments so it's possible from here that
+3:46 maybe it's just that in the field I want
+3:48 this to be a specific Dimension let's
+3:48 just go ahead and grab this we'll grab
+3:51 this n we're going to change this
+3:51 Dimension and we notice here that I'm
+3:56 moving the right side end okay so I'm
+3:56 going to make this a 6' 6 designation so
+4:01 I can do the same thing on this side I
+4:03 can move this length right here and I
+4:03 want to move it this time I want to move
+4:08 the Left End and make this a 6 foot6
+4:11 designation okay from here I want to
+4:11 take this L this segment right here and
+4:14 I'm going to hit the add additional text
+4:18 button to this particular segment and
+4:20 I'm going to suppress the dimension
+4:22 value and I'm going to say
+4:22 equal EQ and same thing I'll do this
+4:26 segment here add additional text click
+4:33 on this suppress the dimension value
+4:33 EQ now I'm showing that I've got equal
+4:39 spacing to our first set of newels and
+4:42 then 6' 6 in between and here's our
+4:42 Center Line to those pretty clear there

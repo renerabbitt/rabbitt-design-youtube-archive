@@ -1,0 +1,146 @@
+Title: CA SHORTS- Fast 3d Battens in Chief Architect
+URL: https://www.youtube.com/watch?v=PV0dygEO_nU
+Visibility: public
+
+0:04 here's a very fast and easy way to do
+0:07 Borden Batten sighting I've got the
+0:07 space planning tools here open I'm going
+0:10 to build a
+0:10 building from this space planning tools
+0:14 and you're going to notice a couple
+0:14 things here when I click on the exterior
+0:18 room when I click on on the outside of
+0:20 these walls here this gives me the
+0:20 exterior room you might need to tab to
+0:22 it now I want to build board and batten
+0:27 siding that follows
+0:27 the exterior walls and excludes the deck
+0:32 and porch for this particular project so
+0:34 what I'm going to end up doing is I'm
+0:34 going to end up making a conversion from
+0:39 this exterior room we could make room
+0:39 polyline and what that's going to do is
+0:41 it's going to do a polyline based on the
+0:46 entirety of our structure here okay so
+0:48 I'm going to delete that I'm going to
+0:50 choose that exterior room again
+0:50 what happens if we do make living area
+0:54 polyline well it's going to give us a
+0:54 polyline based on living area now what
+0:58 we notice here is the garage is not
+0:58 included I actually want to include the
+1:02 garage for the purpose of this video so
+1:04 let me go ahead and delete this
+1:05 temporarily I'm going to go ahead and
+1:10 open up my garage and say include in
+1:13 total living area calculation
+1:13 let me press OK click on that exterior
+1:17 room
+1:17 make that living area polyline there we
+1:22 go now this is just one step in a few
+1:25 steps so I actually need to get to a
+1:26 camera view I'm going to delete this
+1:26 we'll do it again so I'm going to pull a
+1:33 front of the house and I'm going to use
+1:33 the wall material region but before I do
+1:37 let me set up a few things because we
+1:39 just use the space planning tools to
+1:39 generate this house I'm going to select
+1:42 a few
+1:42 walls here and I'm going to designate
+1:51 as cable and walls
+1:51 now that makes a for a funny structure
+1:56 but let me go ahead and undo this one
+1:58 we'll keep this one a hip roof
+2:01 here we go better looking
+2:01 next thing I want to do is I want to
+2:04 draw in a wall material region I'm going
+2:09 to draw this in X15 we have some
+2:09 additional snaps so I'm going to try to
+2:13 snap this to the bottom
+2:13 my wall here and I'm going to extend
+2:15 this wall material region up past the
+2:19 highest Ridge that I have okay and
+2:21 that'll draw this in now my wall
+2:21 material regions are set to cut their
+2:24 parent finished layer of parent objects
+2:32 next thing I want to do I want to make
+2:32 sure that this is drawn down in snap to
+2:34 just the bottom of that wall or at least
+2:39 just past that bottom section here
+2:41 so something to keep in mind I am
+2:41 drawing this in a north south plan north
+2:46 south configuration and this is really
+2:48 important this comes into play later
+2:48 I'm going to grab this edit handle of
+2:53 this wall material region and drag it
+2:55 back till it almost well until it
+2:55 indicates that it's snapping to itself
+2:57 once I've done that I'm going to hit my
+3:02 tab or Enter key and I this is showing
+3:04 me the amount the distance that I've
+3:04 currently dragged that edit handle so I
+3:08 want to subtract two inches from that
+3:08 because I want to you guessed it leave a
+3:13 two inch Batten this is going to become
+3:16 a patent okay so now that I have this
+3:19 I'm going to shift select it
+3:19 once I shift selected in my edit toolbar
+3:24 which is usually at the bottom of the
+3:26 screen I have the ability to make an
+3:28 architectural block
+3:28 after I've made an architectural block I
+3:34 can add it to my library
+3:34 now that it's in my library let's go
+3:39 ahead and rename this to Batten
+3:45 close that Library down
+3:45 I'm going to get back into plan view you
+3:49 notice I just deleted that bat and I'm
+3:50 not going to use it again
+3:50 let me get back into plan view select my
+3:56 exterior room make that living area
+3:56 polyline and then from there in our edit
+4:00 toolbar I'm going to convert the
+4:00 polyline to a polyline distribution path
+4:06 this is in the other section so polyline
+4:12 I have that I can go in and hit the
+4:15 select button
+4:15 from here I'm going to navigate to my
+4:19 user Library where I have that patent
+4:24 and then I'm going to change my maximum
+4:26 excuse me my minimum distance to be the
+4:29 distance I want between buttons now in
+4:35 press ok
+4:35 now this is created
+4:38 a distribution path of those wall
+4:45 in my edit toolbar I'm going to explode
+4:48 the distributed objects
+4:48 you'll notice it pushed those regions
+4:54 outside of the outer surface of your
+4:55 wall layers
+4:55 let me choose one of these architectural
+4:58 blocks
+4:58 I can use the Marquee select similar and
+5:04 then in the sub edit menu or key select
+5:05 all similar
+5:05 and now I want to explode
+5:08 those regions excuse me those
+5:12 architectural blocks
+5:12 may take a little bit of time depending
+5:20 now back in 3D what we see here
+5:20 might be just a little bit of cleanup
+5:25 but you can see here we created
+5:25 material regions all along the outside
+5:35 and we've just got a little bit of
+5:40 I can put in my corner boards if I want
+5:43 to and I've got a pretty good looking
+5:46 at Material we'll turn on array Trace
+5:47 method here I'll paint the whole plan
+5:48 with this
+5:48 all material you can see here the auto
+5:50 build house left me with what looks like
+5:55 a beam
+5:55 just going to get rid of that for now
+6:00 and then let's just take a look at this
+6:06 look at that
+6:06 quick and easy way of doing battens in

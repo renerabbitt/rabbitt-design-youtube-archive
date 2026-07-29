@@ -1,0 +1,37 @@
+---
+videoId: mNSPXlrzG8w
+title: CA SHORTS-Custom Arch Window Muntins Tutorial in Chief Architect
+url: "https://www.youtube.com/watch?v=mNSPXlrzG8w"
+status: imported
+---
+
+# Transcript
+
+0:03 let's match up an arched doorway we're
+0:06 looking at the arch specifically to a
+0:08 matter pack scan right now I have a
+0:08 matter pack scan loaded up in my Chief
+0:10 Architect I can turn that off by turning
+0:13 off the reference view it's in a
+0:15 separate plan file so I'm just
+0:15 referencing that matter pack scan and so
+0:18 what I'm going to do is I'm going to
+0:18 take this doorway I'm going to drag it
+0:23 down to the bottom of this Arc so that
+0:24 I'm looking at my cursor over here on
+0:24 the right hand side just the bottom of
+0:30 that Arc let go there we go
+0:30 and then from here I want to drag this
+0:36 up until it kind of reaches the top of
+0:36 the arc and then I'm going to hit my tab
+0:42 or enter key we can pick up this 9 and
+0:45 1116 just copy that I'm going to press
+0:48 okay now the overall height is at the
+0:48 peak of this Arc okay and I'm going to
+0:51 open this up designate this as a broken
+0:58 Arch and then go ahead and place that 9
+1:00 and 11/16
+1:00 there we go that lines up beautifully
+1:03 now I just need to deal with my casings
+1:05 if we turn off my reference look at that
+1:09 that's looking pretty

@@ -1,0 +1,1579 @@
+---
+videoId: yEMYPzoTipc
+title: Developing An Automatic Electrical Panel Schedule From Scratch In Chief Architect X16
+url: "https://www.youtube.com/watch?v=yEMYPzoTipc"
+status: imported
+---
+
+# Transcript
+
+0:01 uh let's see it's about time that I
+0:03 revisit creating a panel panel from a
+0:08 schedule panel schedule basically panel
+0:11 schedule electrical panel
+0:14 schedule I'm going to say it four more
+0:18 times um I know I've made one in the
+0:21 past and it was built off
+0:24 of
+0:26 um it was built off of using polyline
+0:30 which is why I use polylines instead of
+0:31 the electrical connection
+0:34 tool search panel and then I'm going to
+0:37 restrict my search by type
+0:42 schedules and so I don't have it in my
+0:44 library anymore so even the prototype's
+0:46 not there but I probably have a model
+0:48 that has a prototype but the problem
+0:50 with my panel schedule the way it was
+0:53 currently working is that um it's using
+0:57 polylines for electrical connections now
+1:00 I don't mind doing that I think it works
+1:02 really well but the electrical
+1:03 connection tool is getting really good
+1:07 and so maybe it'd be worth trying to
+1:09 figure out how to use the electrical
+1:11 connection tool instead this would be an
+1:14 example of me using poly lines instead
+1:17 and the great thing about poly lines is
+1:18 they can report to schedule which means
+1:20 they can report things like the room
+1:21 that it's in the other thing that's
+1:23 great about it is that you can group
+1:25 like items to generate something that is
+1:27 just producing a room line item
+1:30 meaning that if I'm drawing in a
+1:32 polyline the Assumption there is it's a
+1:34 lighting circuit so it should be a 15
+1:37 amp thus producing a single entry for
+1:40 the room that it's in as a 15 amp
+1:43 service
+1:44 connection that's
+1:46 great now I'm
+1:48 thinking maybe we can still do that but
+1:51 with the electrical connection tool so
+1:53 here's my default electrical schedule
+1:55 which I actually call an electrical
+1:57 Legend and we know right off the bat
+1:59 that we just don't need a few things in
+2:00 columns and rows to include so let's
+2:03 remove the 2D symbol and let's just
+2:06 start from here so what we're left over
+2:08 is we've got some kind of electrical
+2:11 outlet some switches Etc and do we need
+2:14 these to report to schedule well no we
+2:18 don't this does require that we're
+2:21 editing some default parameters such as
+2:24 my default lighting fixture it needs to
+2:27 report to several different schedules
+2:30 I think is what I
+2:32 need
+2:35 or or what
+2:38 um or we delimit what the schedule's
+2:41 including based on um just a custom
+2:45 field so let's start with that I'm going
+2:47 to remove description and I'm going to
+2:50 leave a custom field and I use a generic
+2:52 custom field and so one is going to be a
+2:55 text input and the other is going to be
+2:57 a number input maybe a second number
+3:00 input let's see what we're left with
+3:02 notice that we're not getting any line
+3:05 items here because none of these
+3:07 fixtures have anything to input here so
+3:11 let's start with just picking up that
+3:14 this light data we get into the OIP of
+3:17 this and we get into our first number
+3:18 input I'm going to say 15 so what does
+3:21 this mean that means that we're
+3:23 reporting that this is a 15 amp service
+3:27 so under the schedules number four
+3:29 formatting column under macro number
+3:31 input one I can say that we're going to
+3:34 limit this to decimal places at zero
+3:37 decimal places so whole numbers so an
+3:40 integer and I can specify the units to
+3:43 whatever I want well I don't have a unit
+3:45 for amp so I need to get into edit
+3:48 preferences unit conversions and add a
+3:52 unit called amp and I don't doesn't none
+3:55 of this other stuff matters I've just
+3:57 added a unit that is amp so now back in
+4:00 my schedule which mind you um for this
+4:03 active layer display options is gray
+4:05 let's just make it black so we can
+4:06 really see it and I also want to just
+4:08 change the headings and textiles for
+4:10 this so main textile title textile we
+4:13 actually use title textile that I built
+4:17 and for the heading I'll use heading Tex
+4:19 style which I built this will kind of
+4:21 conform the look of this um and then we
+4:24 can limit down these rows they're
+4:25 they're really giant because of I was
+4:27 showing the symbol itself so we don't
+4:30 need to see that anymore and then the
+4:32 main textile is derived from the layer
+4:35 that it's on and we're just going to go
+4:36 to a quarter inch textile which will
+4:38 shrink this down way far and let's just
+4:40 bring it in here so we can really see it
+4:45 maybe wish we could double click these
+4:47 and just have them
+4:49 automatically shape we can't so here we
+4:52 go we're seeing that this is reporting
+4:54 15 amps and so we know that this needs
+4:56 to report 20 amps in this case
+5:04 okay and so we need a title of those and
+5:07 so maybe that's macro input one is maybe
+5:10 this
+5:12 comes a
+5:14 label macro input one let's let's go
+5:16 ahead and
+5:17 do also a macro input two or we're going
+5:21 to input into something else here such
+5:26 as i' leave code unchecked and
+5:29 manufactur supplier is often times
+5:31 something that I'm happy to use keep in
+5:33 mind when we're thinking through this
+5:35 system that we have some limitations
+5:39 when it comes to utilizing style
+5:41 palletes when you use a style
+5:44 palette you can grab certain parameters
+5:47 to be able to basically build a tool
+5:51 from that now style pallets don't apply
+5:54 to electrical symbols unfortunately but
+5:57 object eye droppers do so
+6:00 what would be something that we want to
+6:01 dynamically either include or or not
+6:04 include which would be maybe we've got
+6:07 some kind of input that is a macr based
+6:10 check that if the input for supplier is
+6:14 blank then we're not going to include
+6:16 some value in a schedule or something
+6:18 like that so there's always that to
+6:20 consider when you're building a system
+6:21 is you need to kind of see the whole
+6:23 system out in your mind before because
+6:25 otherwise you're going to be going back
+6:27 and rebuilding some sections of it so um
+6:30 for now I am going to use supplier to
+6:33 designate what room my item is in so I
+6:36 should be able to go what maybe room.
+6:39 name I believe is the macro for this and
+6:42 then I would need to include supplier in
+6:45 our colums to include so here we go add
+6:49 supplier and let's see what comes up
+6:51 right so it's correctly reporting the
+6:54 name that the circuit is in so in this
+6:56 case this is a lighting circuit that's
+6:59 so macro input one would need to be
+7:02 lighting circuit would be what I would
+7:04 put
+7:07 here um and I'd probably just put
+7:10 actually I would probably just do this
+7:12 I'd do room
+7:16 lighting and instead of lighting we
+7:20 could go with object type and I happen
+7:23 to have built out a macro that um
+7:26 figures out what something is what type
+7:29 something is and any type is what that's
+7:33 called now in this case for some reason
+7:36 electrical fixures don't report type
+7:39 which is it's looking for either object
+7:41 type underscore type type name or wall
+7:44 type and so for some crazy reason Chief
+7:47 Architect has decided that we're not
+7:49 going to report any kind of type for
+7:50 this lighting fixture let's go ahead and
+7:52 turn on some text so I can utilize the
+7:54 search term
+7:55 and check out if we can find any kind of
+7:59 type on this at all and so it's room
+8:02 type name use type for name true and
+8:05 that's the only type that we're getting
+8:07 from this
+8:08 fixture unfortunate
+8:11 so instead of that let's just see what
+8:13 we're even reporting from this and so
+8:15 I'm going to look in object property
+8:17 short to see the values that we're
+8:18 getting from the short list which is do
+8:21 we see anything that specifies
+8:24 lighting and
+8:31 we get that it's
+8:37 electrical light info light info so that
+8:41 does indicate that it
+8:45 is some kind of a
+8:48 light so maybe that's helpful and so we
+8:51 would write a conditional script and
+8:53 let's just give an example um let's
+8:57 go is light
+9:00 and so
+9:04 um we're basically going to be looking
+9:06 for if light info is nil or blank or
+9:10 something like that then we're going to
+9:12 report some value otherwise um we are
+9:15 not right so it's either Lighting in
+9:17 this case it's going to be either
+9:19 lighting or either an outlet or
+9:20 something like that it's going to get
+9:22 more complex than that because we're
+9:23 going to look at the type of outlet that
+9:25 we're placing in case it's like a 220 so
+9:28 we might be looking at ampage in this
+9:30 case maybe um to just truly think this
+9:34 out I'm going to go see if I can't find
+9:37 an is or than that kind of
+9:40 condition
+9:44 um I'll use this and I'll use it with
+9:47 like a chat GPT to kind of build out an
+9:50 initial little macro
+9:52 here so let's go or maybe I'll use Claud
+9:55 I like
+9:57 Claude so I'm going to say
+10:00 use the attached macro as a basis for
+10:03 information about possibly writing the
+10:05 script and what the script is that I'm
+10:07 looking for is I'm looking to see if
+10:12 LightCore info is not
+10:16 nil
+10:17 then it's assumed that our item is a
+10:20 light and we actually want to print the
+10:23 word light
+10:30 don't know that I thought that out quite
+10:32 right but we'll check it
+10:34 out and we're going to paste that macro
+10:36 as an example and just
+10:47 see see and I did something wrong here
+10:51 because oh no that's correct all right
+10:55 so let's see what happens here turn the
+10:57 type object type object type equals no
+10:59 type found didn't quite get it right so
+11:04 I don't need you to actually conform
+11:06 that existing macro I was just telling
+11:08 you to use kind of the basic structure
+11:09 and approach so I really am looking for
+11:13 a check on whether liore info is
+11:17 reporting any value and if it is it's a
+11:19 light else it's an
+11:24 outlet let's do that see what it comes
+11:26 up with see if we can't grab this and
+11:29 there you go I mean that's really an
+11:31 easy one so let's get back into Chief
+11:33 let's get back into is
+11:37 light which should be at the back here
+11:41 and we're going to evaluate this and
+11:43 there you go it's it's reporting
+11:44 correctly right off the
+11:46 bat and we're have to check it against
+11:48 the outlet but so now we have is
+11:52 light which is light should be a true
+11:54 false class and then we should write
+11:55 another macro that's that looks at the
+11:58 macros dot is light to see if
+11:59 something's a light or not would be a
+12:01 better approach but let's just get into
+12:03 this and so now I've got macro input one
+12:06 blank room is light would be the input
+12:09 here
+12:11 okay so what's it going to report
+12:13 unspecified light bam so now it's that
+12:16 would be the room name living room light
+12:19 so it' be Lighting in you know lighting
+12:22 circuit or something like that or lights
+12:24 would be probably more appropriate
+12:26 usually for a panel so is lights and
+12:28 let's just change it to
+12:31 lights
+12:33 okay and let's just change this so this
+12:35 makes a little bit more sense we'll make
+12:36 it in a bedroom so there we go bedroom
+12:38 lights so I actually don't need supplier
+12:40 it's not necessary because we're putting
+12:42 it in macro input one so that freed up
+12:44 another thing bedroom lights it's a 15
+12:46 amp circuit very
+12:48 cool
+12:50 um and in this we get the show under
+12:53 number formatting for macro input one we
+12:56 get to show the unit once we specify the
+12:59 unit unit indicators yes check mark So
+13:02 15 amp 20 amp super cool we're getting
+13:05 this bedroom lights 15 amp now here's
+13:09 where it gets kind of convoluted we got
+13:11 to kind of check this is this going to
+13:13 still report correctly when we've got um
+13:17 let's just say we're going to copy a
+13:19 couple lights into here and this is
+13:21 going to become a living room
+13:25 instead there we go living lights
+13:28 circuit
+13:30 that's working pretty well and we get to
+13:32 move this up and down let's get rid of
+13:34 comments for now just so it's not um
+13:36 kind of confusing the issue
+13:38 but so go building out our panel
+13:43 schedule so this would be so now the
+13:46 main thing I want to think about here is
+13:47 a kitchen circuit setup
+13:53 oops the kitchen circuit we're going to
+13:55 be putting in like a 220 outlet right we
+13:57 got a 220 here for an oven something
+13:59 like that and so what do we want in this
+14:03 case 220 amp and we're so we're going to
+14:05 say that this is a 30
+14:09 amp and even though that reports 30 amp
+14:13 the input for that 220 would be a
+14:17 condition where if it's in a kitchen
+14:19 circuit would it matter would it matter
+14:22 that it's a condition what can we see
+14:24 here with this does it report
+14:26 its um
+14:29 does it report
+14:32 it's does it report in the symbol itself
+14:35 in
+14:36 options 220
+14:39 volt right so can we see 220 volt is
+14:44 what I want to
+14:49 know so if I do a little search for this
+14:52 and look for
+14:57 220 it does
+15:00 well it shows it in the
+15:02 label doesn't seem to be reporting in a
+15:05 lot options let's look in Long options
+15:07 for this we're going to get into the
+15:09 macro scripting object properties
+15:12 long this
+15:18 case and what am I looking
+15:22 for there's a way to export this 220 is
+15:26 in the automatic label
+15:30 electrical
+15:34 layer um nothing we need to know from
+15:37 the
+15:38 room
+15:39 itself nothing we need to know from
+15:41 Custom
+15:45 Fields still in the room reporting
+15:49 values
+15:53 here and so it's interesting that we
+15:56 have the ability to designate a symbol
+15:58 AS 200 20 volt but I don't really
+16:02 see that that reports
+16:05 anywhere that's
+16:09 useful but it is in the label so we
+16:11 could use utilize
+16:17 that so we could say hey if if in this
+16:20 label is 220 volt we're going to add
+16:23 this as you know some separate amperage
+16:26 we could even specify the amperage that
+16:28 we need
+16:29 based on voltage of something as well so
+16:32 that we're not needing to label um
+16:35 things and that would be a more generic
+16:37 approach right so or dynamic approach so
+16:41 if we say that hey is light so this is a
+16:43 perfect example of discovering whether
+16:46 or not something is light or
+16:49 not let's go
+16:52 back so we're going to copy
+16:55 this but what we really want to know is
+16:59 is if object responds to something true
+17:03 else
+17:07 false
+17:09 okay uninitialized constant
+17:15 true and so we need
+17:20 a we're almost going to just set a
+17:23 variable to this a equals true a equals
+17:26 false
+17:30 and a initialize concent I'm not sure
+17:34 what that means so I'm going to go ahead
+17:35 and lean on my chat TPT figure this out
+17:39 um
+17:40 or we get to just put in
+17:44 quotes that's what it is that's why it's
+17:47 saying that we've got some constant that
+17:49 it doesn't know so true false but I
+17:52 actually want a true false
+17:56 class um so I want to convert this using
+17:59 I'll use CLA
+18:01 again invert this macro so it reports a
+18:06 true false
+18:12 class but what did I do wrong
+18:18 there basically we didn't
+18:24 need BL value instead of string we
+18:27 didn't need to Define anything so this
+18:29 should be true class or false class
+18:31 there you go all right so if is light
+18:36 then this right and
+18:39 so um so what we'll do is a new macro
+18:43 that says
+18:46 um what do we want
+18:49 amps want
+18:51 amps so in this
+18:54 case um we almost get to paste the same
+18:57 kind of setup here
+19:00 is evaluate and
+19:03 say
+19:09 um if is
+19:11 light
+19:13 then
+19:18 15 else
+19:23 if um is
+19:29 is
+19:34 220 um then
+19:37 30
+19:39 else
+19:41 20
+19:45 end um and it's if if macros dot is
+19:50 light else if
+19:54 macros
+19:57 God okay now I got an integer value out
+20:00 of this so what does that mean I get to
+20:02 do I get to select all these electrical
+20:04 items now um by using electrical
+20:09 built-in electrical tool shifts Marquee
+20:12 no that throws
+20:15 away select all
+20:19 s and then in the object information
+20:21 instead of
+20:25 putting remember input one I get to say
+20:31 amps bam now this is automatically
+20:35 generating
+20:36 this
+20:40 okay is 220 was false class that's
+20:43 because we haven't built it yet so is
+20:45 light we're just going to copy this so
+20:47 we'll copy this and it's going to be is
+20:52 220 and what's that going to be that's
+20:55 going to be
+21:01 I need a macro that checks the automatic
+21:04 uncore
+21:06 label and then down cases it to look for
+21:10 the presence of the Number
+21:21 220 and make it a true false class
+21:45 okay it missed the true false
+21:51 class all right
+21:54 cool so we should be able to just paste
+21:57 this in we don't need to put any context
+21:59 in here and evaluate and Bam so now we
+22:03 should have seen this should be 220 um
+22:06 so let's just check this out is
+22:09 220 is true and so our amps should have
+22:16 said if macro's dot is 220 is thir
+22:21 220 first thought
+22:28 30 should be
+22:31 30 somehow it's reporting some kind of
+22:34 value for light which means if we look
+22:36 at object properties
+22:38 short um light info is a blank string so
+22:44 for this other guy here this back this
+22:47 this one we did back
+22:51 here for this macro it canot be a blank
+22:59 string that should be
+23:10 false oops me for
+23:15 this we're going to copy this one bring
+23:17 it into the
+23:19 220
+23:21 guy this should make sure that it's not
+23:24 a blank screen string that's great and
+23:27 then come back to this
+23:29 should be
+23:30 for
+23:32 um is
+23:38 light and it's still
+23:40 reporting true for 220 it shouldn't
+23:47 be optic property short light info
+23:50 is literally looks like a blank
+23:54 string so let's see what happened here
+23:56 is light
+24:01 object response to automatic label oh is
+24:04 light got screwed up this is
+24:07 incorrect this is the same one as the
+24:20 221 there we
+24:27 go false there we go now this should be
+24:30 30 amp and it's still not double check
+24:33 it
+24:34 again is 220 is true is light is false
+24:40 so our amps should be 30 it is oh so
+24:45 this is not
+24:46 reporting why because our 220 doesn't
+24:48 have any values for
+24:52 it does show amps
+24:57 here oh now it showed up
+25:00 funny um so kitchen TR all right so we
+25:04 need to fix all our labels for these so
+25:07 macro input one is going to be our room.
+25:14 name and
+25:16 then
+25:18 um and then
+25:23 amps no our room. name
+25:28 and then it should say lighting or
+25:30 Outlets
+25:35 or so we need another one that tells
+25:37 what its class
+25:39 is um which is almost like what type is
+25:44 it any type should be included
+25:48 here
+25:52 um but let's maybe we'll call it
+25:54 electrical
+25:55 type so electrical
+25:58 type it's going to be the name of our
+26:00 new
+26:03 macro so here's the next one new
+26:07 electrical uncore
+26:10 type I know this is probably not
+26:12 cohesive you're just getting brain
+26:14 expectorate right now I'm just trying to
+26:16 work through the system logically
+26:17 through my head so hopefully we're going
+26:19 to put a little check mark in here
+26:21 pretty soon where I'm explaining kind of
+26:23 where we're at in this system and how
+26:25 it's
+26:25 working I think we're working towards
+26:27 something that will work but we haven't
+26:30 really thoroughly tested it to see what
+26:32 problems we run into so electrical type
+26:35 is that we want to see um in this case
+26:38 let's just get something to write it so
+26:40 much easier for me to type out my
+26:42 thoughts than it is for me to try to
+26:44 write it from
+26:45 scratch I let's see I need a new
+26:53 macro we want to check for is light
+27:00 again just by calling up macros do is
+27:08 light which we've already
+27:13 scripted
+27:15 um so our macro
+27:19 checks for if is
+27:25 light we only need lighting
+27:29 circuit
+27:30 Outlets would be
+27:33 classification what
+27:35 other what other panel let's see
+27:38 panel SK schedule Legend
+27:43 example and this would be helpful just
+27:46 to see what a typical panel schedule
+27:50 might look
+27:51 like
+27:55 um I don't see any standard
+27:58 I'd be used to Here There we go laundry
+28:01 room washer receptacles microwave so
+28:04 yeah we might show small appliance one
+28:07 right
+28:13 um so let's take a look at what a
+28:16 microwave receptacle is
+28:19 reporting I'm just going to put some
+28:21 junk in that macro to placeholder it um
+28:24 so let's say here we go I got a
+28:26 dishwasher outlet and what is this
+28:28 reporting in terms of object properties
+28:30 anything unique where we can strip it
+28:32 and take that information so dishwasher
+28:35 is in the
+28:42 description anything else that is a
+28:45 unique identifier no not really so it's
+28:47 in the description so we kind of need to
+28:49 create a hash index of potential uh
+28:52 descriptions right or where we're
+28:55 stripping
+28:58 everything but the first word maybe
+29:02 would be something so you're always
+29:03 going to call it dishwasher Outlet or
+29:05 you're going to call it um microwave
+29:10 Outlet something like that
+29:14 right maybe it says dedicated
+29:16 circuit but really you would just put
+29:20 microwave so I
+29:22 think what I would look for here let's
+29:25 take a look at what the object
+29:26 properties of just an outlet are
+29:32 and and a big problem with just an
+29:35 outlet is
+29:38 that we need two small appliance
+29:41 circuits so your outlet for your kitchen
+29:43 really should be called small appliance
+29:45 circuits so the name of it should be
+29:48 dynamic in that if it's in a kitchen
+29:51 should be automatically switched to
+29:53 small appliance circuit now we need a
+29:56 macro in the label of your or catalogs
+29:59 you know Main
+30:04 outlets and do we
+30:06 just name whatever is in the automatic
+30:10 label we
+30:12 could unless it's an LED unless it's a
+30:15 scon unless it's a light so if it's a
+30:18 light you're just going to call it light
+30:20 if it's some kind of an outlet you're
+30:22 going to call it exactly what that
+30:24 outlet is
+30:30 and then we need to add the condition
+30:32 that hey maybe we don't want this in a
+30:35 panel schedule something like a TV
+30:37 Outlet you're not going to put that in
+30:39 the panel schedule that's going to be
+30:41 part of the outlets for that room
+30:46 so we kind of need to
+30:48 delimit those
+30:51 things if
+30:53 something's it's almost like a
+30:55 conditional check we have a TV Outlet
+30:58 and the word TVs in there then we only
+30:59 want to see Outlet so that it delimits
+31:02 its values based on that so that we're
+31:04 not adding additional circuits that we
+31:05 don't actually intend on wiring up it's
+31:09 complex okay starting to just think
+31:12 through this so in this case maybe we
+31:16 need a hash index of allowable items and
+31:19 maybe that hash index comes from the
+31:21 user input that's a more complex system
+31:24 that's similar to what I already have in
+31:25 the Pro Plan for a lot of things like
+31:27 window labels and stuff like that that
+31:29 takes a lot more scripting in this case
+31:33 maybe we are just looking at the
+31:35 automatic label or automatic description
+31:38 now automatic
+31:40 description label is really what we want
+31:43 because we can change the label on the
+31:45 Fly which gives us a lot of utility
+31:49 right so really we want label only in
+31:53 this
+31:55 case this thing doesn't have a label
+31:57 it's just a blank
+31:59 string so if we were to bring this
+32:02 in it's label is just specified label
+32:06 and it is a blank
+32:08 string okay so if I go look at this
+32:11 again and let's go look at where that
+32:16 is is an outlet from
+32:20 here I don't even call it a TV Outlet so
+32:23 it's in my what is this called oh it's
+32:26 dishwasher
+32:31 and then type is
+32:33 electrical oh it's right there cool um
+32:37 open
+32:38 object and yes we could have put
+32:40 something in the label and it could be a
+32:42 conditional
+32:43 label and what would the condition even
+32:45 be I mean we're only going to use a
+32:48 dishwasher circuit in the dishwasher so
+32:50 in this case you're probably not going
+32:51 to have any
+32:53 condition um so it's a good question and
+32:56 when you put a macro in an item in the
+32:59 library uh it becomes a pain to manage
+33:03 all that especially if you update the
+33:05 macro don't want
+33:07 the so you'd almost put in
+33:16 automatic so then it would be a of
+33:18 changing 3D panel the name of this thing
+33:21 if I think that's the best way of doing
+33:24 it I'm just thinking this all through so
+33:26 now our condition is we get back to
+33:29 Claud and
+33:30 say
+33:33 um need a new macro we want to check for
+33:35 a light or is light again just by
+33:38 calling up macros is light which we've
+33:39 already
+33:40 scripted so our macro checks for is if
+33:44 light is true then
+33:48 print
+33:52 lights
+33:53 else
+33:55 print um
+34:00 automatic
+34:02 label an automatic
+34:05 label
+34:07 unless unless it's an outlet no we're
+34:10 assuming
+34:12 Outlets El Sprint
+34:15 automatic okay
+34:18 yes let's test
+34:21 this it's a simple
+34:23 script so back here let's just choose
+34:27 use something here an outlet in this
+34:30 case a light in this case sure look it's
+34:33 already printing automatic label
+34:37 for for
+34:40 these where is that coming
+34:49 from where did I type in that VF V
+34:53 something something something I forget
+34:55 where that's coming from um
+35:01 room. name
+35:04 electrical
+35:06 pipe got name electrical type okay so
+35:09 electrical type oh that's right we just
+35:11 put a place marker in this macro
+35:13 GOA that was
+35:16 confusing uh electrical type bam and it
+35:19 should be able to do
+35:20 this and
+35:22 evaluate 220 cool so now what do we have
+35:30 so we have kitchen duplex decorator so
+35:34 here's the next part is this Outlet
+35:37 needs a macro which
+35:41 is somewhere in its description should
+35:45 be
+35:46 Outlet okay and and this helps
+35:50 distinguish it in an electrical Legend
+35:53 which we want but now we want a a new
+35:57 macro that at okay write me a new macro
+36:01 that looks at automatic label and if the
+36:07 word when down
+36:10 cased is Outlet is included in that
+36:13 automatic
+36:14 label uh then we are only going to print
+36:25 Outlet so if object wants to automatic
+36:28 label well we know it does so that's a
+36:30 little bit convoluted but that's okay um
+36:34 so what am I going to do here I want to
+36:36 put this in the name that doesn't make
+36:38 any sense uh because then we don't get
+36:40 the designation of duplex decorator
+36:42 Outlet so that's not very
+36:46 helpful what are we doing okay so I need
+36:48 a script and we're going to go macro
+36:51 input one room name electrical
+36:56 type Electric type so part of that other
+36:59 script needed to be
+37:02 electrical so I screwed that up let's
+37:07 go let's add this logic to the previous
+37:13 macro has one
+37:17 script this
+37:25 one okay so that's that's a little
+37:27 update I'm not even going to review this
+37:29 to see if we can prove that a lot of
+37:31 times I will um so we're just going to
+37:33 get back into electrical
+37:36 label our electrical
+37:39 type Outlet there we go and UPS
+37:45 score up upcase
+37:49 Outlets bam so now what do we have we
+37:53 have look at that kitchen
+37:56 outlets now the complexity that if the
+37:59 room name is
+38:02 Kitchen the room name includes
+38:06 kitchen so here's the next
+38:09 part let's add some additional logic to
+38:14 this if the room
+38:17 name includes downed
+38:21 kitchen
+38:23 then establish a variable
+38:28 isore inore
+38:31 kitchen and specifically for Outlets if
+38:35 is in kitchen is true then print the
+38:40 name small appliance
+38:48 circuit
+38:51 sweet now here's the next part is I'm
+38:53 just going to be a little more specific
+38:55 I'm going to say um room. name. downcase
+39:00 question
+39:09 mark okay if macros is like is in
+39:12 kitchen object room downcase
+39:14 equals object. room. name downcase
+39:18 equals no it equals
+39:22 object okay try
+39:26 this uh
+39:29 so this Outlet right
+39:31 here should be able
+39:33 to
+39:35 electrical and
+39:38 overwrite small appliance circuit bam
+39:41 now we need a designation from small
+39:43 appliance circuit one to small appliance
+39:46 circuit two
+39:49 right
+39:50 there's kitchen small appliance
+39:54 circuit um
+39:58 I would almost say that I don't want the
+40:00 room name in here I want it in that one
+40:03 macro which because I wouldn't say
+40:06 kitchen small appliance circuit I would
+40:08 say small appliance circuits probably
+40:11 wouldn't put the word Kitchen in there
+40:14 um so that would make it a little bit
+40:15 more Dynamic Maybe not maybe maybe not
+40:19 so far this is
+40:22 working now kitchen toggle switch which
+40:26 is this guy we don't want to report that
+40:30 right
+40:31 so our macro number input
+40:35 here should be something that if we look
+40:38 for the presence of switch in the name
+40:40 then it should not report
+40:43 ambage and then it shouldn't even be
+40:46 included in the schedule would be really
+40:49 great
+40:53 um a way to kind
+40:56 of lineate this or delimit it
+41:02 is in a naming convention because
+41:05 remember we get to group like objects
+41:08 right so to get rid of this we could
+41:11 group it with kitchen lights so that if
+41:16 something says switch in it it it
+41:19 instead renames it to lights and it
+41:22 instead re puts this in at 15 amp
+41:30 now we need to rewrite those that way
+41:32 this will get grouped because in the
+41:34 schedule itself we are grouping similar
+41:37 objects so when we've got that we need
+41:41 to be able to group these switches so
+41:43 that that's no longer a lighting circuit
+41:45 because we're driving it from the light
+41:47 itself the the reason we should drive it
+41:49 from the light itself versus the
+41:51 switch yes because a switch for a
+41:55 kitchen can be in a different room but
+41:57 it's controlling a kitchen
+41:59 light and so that's the way we're
+42:01 looking at it here so that's why the
+42:02 light should actually drive
+42:05 this what happens when we bring in a
+42:07 bunch of different light sources it
+42:09 shouldn't matter it should only be one
+42:12 lights per room because it's looking for
+42:14 the presence of Lights unless you are
+42:16 creating a second circuit for lighting
+42:18 within one single
+42:21 room so how do we do that okay so now we
+42:25 need this toggle switch because it's
+42:26 much easier to just throw in all
+42:28 everything that you need and not have to
+42:30 go manage this have it just be automatic
+42:33 and so for that we need to delimit the
+42:36 values that are coming out of this so
+42:39 now we need to do some kind of initial
+42:41 check for uh
+42:43 one um is light so let's select this
+42:47 switch right now and is light needs to
+42:50 be
+42:51 expanded right now it's does object
+42:53 respond to light info so instead we're
+42:56 going to come back let's get Claud to do
+43:01 this for this macro I want to add
+43:04 another condition if automatic uncore
+43:08 label is down cased and the
+43:11 word light is in that automatic
+43:17 description then we are going to print
+43:21 light similar to this existing condition
+43:27 I did this wrong so hold on I have to
+43:29 fix something if the word the word
+43:32 here's the word that we need is switch
+43:36 right
+43:37 switch so all of our switches now have
+43:39 to have the word switch in it so we
+43:41 could include other Search terms maybe
+43:43 that would be another possibility you
+43:45 have to kind of run this through and see
+43:46 what you run into
+44:00 now this was a true false
+44:06 class the new macro and it was a true
+44:11 false class you are trying to con the
+44:24 last okay so automatic label object
+44:27 object label to strip empty object
+44:32 switch you
+44:35 omitted the part checking for light
+44:45 info yes I want to combine both checks
+44:48 there we go bam okay so now when we come
+44:50 in here and it should be true if I edit
+44:54 this and paste this true class yes so
+44:58 now that switch is seen as true and it's
+45:00 going to print
+45:06 light but
+45:08 it's it did not produce a new macro
+45:13 interesting it delimited just by macro
+45:15 input one it did not produce a new
+45:19 amperage very interesting so that if I
+45:23 put a switch
+45:27 should just be able to put a switch in
+45:29 here and build
+45:33 out
+45:35 living yeah it's not adding anything add
+45:39 this adds living Outlet through kitchen
+45:42 small appliance circuit all right next
+45:44 step is we need a second kitchen small
+45:46 appliance circuit so how do we create
+45:49 two that's
+45:53 challenging that's a that's very
+45:55 challenging how do we do that
+45:57 need a whole another
+46:06 circuit
+46:08 and we still need to figure out how like
+46:11 for the 220 this needs to be two slots
+46:14 so we need a two slots for kitchen 20
+46:17 which means we need two inputs and how
+46:19 do we do that it's a really good
+46:23 question you'd
+46:25 almost print this
+46:30 twice so that it's two line
+46:33 item that's
+46:37 tough all right see if I can pick off my
+46:40 groove I just had to pause for a phone
+46:42 call so um we're back on how do I how do
+46:47 I get a second kitchen light circuit and
+46:50 how do I get that 220 split into
+46:53 two inputs you need a second object for
+46:57 the 220 to be put into two inputs I've
+47:01 done this before so I had a method for
+47:03 that um let's just take a look and see
+47:05 if I can't find a system based plan
+47:08 where I did this so um in my own
+47:10 directories there is always u macr based
+47:14 plans model creation systems and maybe
+47:17 in systems I have panel schedule there
+47:20 we go look at that I'm organized who
+47:23 knew oh and man this whole time we've
+47:25 been recording I didn't even and check
+47:27 to see my stream but I know now that my
+47:30 screen's only partial so let's make sure
+47:32 we're getting that full screen there
+47:33 oops sorry hopefully that didn't mess
+47:35 anything up but still should be able to
+47:38 get an idea what's going on here so this
+47:40 is how I did
+47:42 it
+47:43 somehow oh I've got an
+47:46 individual panel lineup here this is how
+47:50 I'm doing it from one item is I'm
+47:52 reporting 13 superscript one 13 30 supt
+47:56 script two on one light item or the
+48:00 breakers and then here's where the
+48:03 numbers okay so not
+48:07 necessarily awesome I wish we didn't
+48:11 have to do this so let's see if we can
+48:12 get around that somehow but this was the
+48:14 method I
+48:16 took so we're back on here and so
+48:19 instead of reporting 30
+48:22 amp we would report
+48:26 30 new line itm 30 and that is no longer
+48:29 a number so we're no longer tallying
+48:31 numbers so I don't like that approach I
+48:34 really want one and
+48:37 two which I don't think there's any way
+48:39 around it I think you have to just copy
+48:41 paste hold
+48:43 position and now I have a second
+48:47 item and that second
+48:52 item where's our 30m kitchen 220
+48:57 um so it should be 221 and
+49:02 222 so we need that condition to show up
+49:06 if something is 220 volts we're going to
+49:09 put suffix one versus suffix 2 we need
+49:12 some way to delineate we could take the
+49:15 macro input one for this and so this
+49:18 would take some kind of user input so
+49:22 macro or macro input two in this case so
+49:24 this would be two and
+49:28 and this other
+49:31 one we to open the row
+49:34 object macro input two would be one so
+49:38 that's Appliance circuit one Appliance
+49:39 circuit two Kitchen Two there we go so
+49:43 that's what that would look like it's
+49:44 not going to be on a single line input
+49:47 here
+49:49 um and would you switch these two maybe
+49:53 and let's just
+49:54 change um macro number input two would
+49:59 be maybe
+50:05 number and macro one would be
+50:09 name and so let's try to make this look
+50:12 a nicer here now we get to shrink this
+50:16 down right get one and two 220 right
+50:21 kitchen small appliance circuits we have
+50:22 to kind of do the same thing so we're
+50:24 delineating by that macro input too so
+50:27 it takes one little bit of input which
+50:29 means that I got to take one more Outlet
+50:31 pop it in here wherever in the kitchen
+50:33 and then in macro input to throw this in
+50:36 here now what could I do to make this
+50:38 really simple is maybe I could use the
+50:41 object properties tool with a second
+50:43 Appliance circuit to just drop this in
+50:45 here and paint things but I don't know
+50:47 that was pretty easy I always like to
+50:50 see just how automated I could get with
+50:53 something but that wasn't too bad cuz
+50:56 then we just get to throw this in like
+50:57 that
+51:00 right so it's giving us small appliance
+51:02 circuit one and
+51:04 two and this is 220 and it's pretty
+51:07 clear that that's one and two yeah this
+51:09 is this is close this is getting really
+51:12 close right I wonder what this blank is
+51:15 let's find that in plan what's it
+51:18 locating the blank is locating these the
+51:23 switch the dishwasher Etc because these
+51:26 have nothing to report value for so I'm
+51:30 not mad at the blank it's just uh that's
+51:33 kind of cool cuz it's not reporting
+51:35 values it just gets to be a blank at the
+51:37 end of the at the end of this electrical
+51:41 schedule that's pretty
+51:45 slick
+51:49 okay where are hiccups happening what's
+51:52 happening anything
+51:56 just keep trying this I want to just
+51:58 keep running through what I would be
+52:00 doing here so we know that we want a
+52:02 dedicated microwav or dedicated a
+52:04 dishwasher here and so the dishwasher
+52:07 one what's our inputs on this the macro
+52:11 input one is not showing our
+52:17 amps right
+52:20 amps and then oh this doesn't have any
+52:23 of the values that these other things do
+52:25 which is part of the problem
+52:29 just grab all these so this
+52:31 is amps is in macro number Ino this
+52:36 going
+52:37 on
+52:45 again is
+52:56 in
+52:57 dishwasher
+53:01 right so that's correct and let's just
+53:04 make sure that all these other got same
+53:08 orted
+53:11 values Acro input one should be this and
+53:16 should be
+53:23 amps everything that which makes it so
+53:26 much easier to work with these things so
+53:29 what do we have kitchen 220 kitchen
+53:31 lights kitchen small client circuit
+53:34 let's get all the kitchens together
+53:36 living
+53:37 room true what's living room true that's
+53:41 a wrong condition
+53:48 okay
+53:50 room is light it's not what we we want
+53:54 room
+54:05 electrical there we
+54:08 go the living lights single circuit bam
+54:11 living Outlet is this that Outlet's
+54:16 wrong case so let's just make sure we
+54:18 got that electrical pipe
+54:24 Outlet we go so we should be ble to pop
+54:26 this in here and that should show
+54:28 laundry
+54:29 Outlet
+54:30 cool so what happens when we throw scon
+54:33 in here so first of all let me
+54:37 conform
+54:38 everything so what's my default scon
+54:44 is light wall edit Madison scon so it
+54:49 should be macro input one is
+54:53 amps or no that's number input one
+54:58 um the room name electrical type should
+55:04 be so that when I use that it should
+55:07 show laundry
+55:09 lights right let's double check that
+55:12 we're doing the same thing with our
+55:13 default led4
+55:16 ceiling inut
+55:20 one type
+55:23 one number input one is amp spam so when
+55:27 I throw this in it should not add
+55:29 anything because it's duplicating that
+55:31 laundry light setup this is looking
+55:34 great this is this is pretty much there
+55:39 um and I might just add this as an
+55:41 add-on package or something like that or
+55:43 go build it yourself check it out
+55:49 um boy I'm getting pretty happy happy
+55:52 with this um obviously name is wrong
+55:54 name is should be
+55:59 uh and then this should be
+56:03 name
+56:05 number look at
+56:08 that so where would I run into
+56:14 issues um we need another 220 in here so
+56:17 what happens when we do that shows a
+56:20 22030 amp copy paste hold we got two of
+56:24 them now and the problem with that is
+56:27 quantity and so we can't have this
+56:30 reporting to a different schedule so
+56:32 it's almost like we need all of our
+56:34 default things to report two schedules
+56:37 because do I show quantity in my Legend
+56:40 I might
+56:41 not because I've never felt it all that
+56:44 valuable to show
+56:47 quantity so maybe not so let's we'll
+56:50 check that in a second so this is where
+56:54 that field value of one is going to come
+56:55 into play play right and we're going to
+56:57 have to clean that up just a little
+56:59 bit so let's go look at my electrical
+57:02 Legend So when we get click on this we
+57:04 should be able to find schedule and it's
+57:05 going to pick up that we've got a
+57:08 legend let's go open the legend and I do
+57:11 show quantities so here's where it's an
+57:14 issue when we're making a duplicate of
+57:21 something we making a duplicate of
+57:23 something in terms
+57:28 and maybe we just put in comments that
+57:31 this is quantity is actually showing
+57:40 double it's
+57:42 tough that's tough do I need to show
+57:46 quantity in a legend would be helpful
+57:48 for ordering and in stuff so the other
+57:52 option is you're changing all of your
+57:54 Source objects
+57:57 that's never a good
+58:03 idea meaning everything that you've got
+58:05 that's electrical no matter what there's
+58:07 going to have to be some kind of a user
+58:09 setup here and where we are going
+58:13 through and messing around now wait a
+58:14 minute I do know how to do
+58:16 this it's a dumb little trick
+58:24 um we can report quantity okay check
+58:28 this out this is this is kind of
+58:34 wild grab all
+58:38 items macro input
+58:44 three
+58:46 is
+58:52 quanti and
+58:59 I am doing this I need to go look at my
+59:02 my macro designations page see what
+59:05 I'm so for an individual note item that
+59:09 I'm using here using a
+59:12 specialized bit of
+59:15 in let me grab all this and see if I
+59:18 can't figure out what that
+59:20 in
+59:24 is this is a custom C some bit info
+59:28 see so I'm going to take this um
+59:33 electrical schedule no I want the
+59:35 electrical
+59:36 Legend let's just cut
+59:38 this bring it into the plant we can see
+59:41 it and this quantity row is no longer
+59:44 going to be there we're going to get rid
+59:46 of the quantity row and we're going to
+59:48 instead put in macro input number input
+59:50 number
+59:51 three and so this is a number calculate
+59:54 to some simal similar
+59:57 similar um number formatting is just
+1:00:00 going to
+1:00:02 be quantity is just going to
+1:00:07 be macro number input three and amps was
+1:00:12 the
+1:00:19 method do
+1:00:42 this is very difficult for me there's a
+1:00:44 special script that in
+1:00:48 here TR to remember how that works is
+1:00:51 difficult
+1:00:59 leave
+1:01:03 it's in our macro input I'm going to
+1:01:12 putation
+1:01:20 exclamation here
+1:01:40 E1 that gives us schedule
+1:01:43 number
+1:01:47 okay schedule
+1:01:51 number this will make sense in a second
+1:01:53 I got to work through looking at this
+1:01:55 right here some internal coding that
+1:01:58 happens only in
+1:02:06 schedule and one of them is a
+1:02:11 quantity so far all these are schedule
+1:02:18 numbers I don't know what 11 would stand
+1:02:21 for in this case
+1:02:31 that's a
+1:02:37 blank go back
+1:02:41 here I don't think this goes up to six
+1:02:44 does
+1:02:45 not so one of these is an internal qu
+1:02:50 quantity for that schedule
+1:02:53 only somehow that schedule number is 11
+1:02:56 because of this that's right so if I
+1:02:58 drop this up this is going to prove that
+1:02:59 that's eo1 but we have multiple of these
+1:03:03 this particular
+1:03:05 item terms of quantity so let me
+1:03:12 add description name we want to add name
+1:03:16 here we're going to add this to this
+1:03:18 schedule because this is what we're
+1:03:20 actually trying to build for so I'm
+1:03:22 going to add
+1:03:24 Metro here that's what I'm
+1:03:27 looking
+1:03:37 specifically there so now open row
+1:03:47 object soon as this not is not something
+1:03:50 that indicates the number one then we
+1:03:51 know that this is has to do with and
+1:03:54 actually let's
+1:03:57 include quantity we actually want to
+1:03:59 open
+1:04:01 up want to open up multiple at the same
+1:04:04 time so that we know we are proving that
+1:04:06 there is a quantity of two so
+1:04:12 exclamation so let's go Quant add
+1:04:15 quantity
+1:04:19 back okay
+1:04:28 uh where is
+1:04:30 it look at that two so we've got it
+1:04:35 right so
+1:04:38 whatever this is really hard to explain
+1:04:46 [Music]
+1:04:51 um wa I didn't get it right because I'm
+1:04:53 selecting both of these
+1:05:04 wasn't that what I was doing oh that's a
+1:05:05 regular hel here you
+1:05:11 go exclamation exclamation 2 is
+1:05:15 represents quantity so I
+1:05:19 want and we put that
+1:05:22 in in number input
+1:05:28 no it raids as an
+1:05:31 error so can we put that in
+1:05:35 quotes as an execution
+1:05:51 script
+1:05:52 no so it can't be something formatted as
+1:05:55 as a number that's
+1:05:58 okay so it's just going to be a string
+1:06:01 input that's called
+1:06:05 quantity
+1:06:07 okay so we need another custom field
+1:06:10 unfortunately I don't like add in custom
+1:06:12 Fields so I already have something
+1:06:14 that's quantity or could represent
+1:06:17 quantity I would just put another
+1:06:19 generic field that looks like macro
+1:06:23 input two and it's not formatted as a
+1:06:31 number right and then under macro input
+1:06:35 two this is where we're going to see
+1:06:37 quantities for everything so we need to
+1:06:40 select Marquee all
+1:06:42 similar open this up macro input to put
+1:06:46 exclamation exclamation
+1:06:48 2 and then
+1:06:56 remove this
+1:06:58 remove quantity add macro input
+1:07:03 two rename it to quantity this is a user
+1:07:07 configured quantity and it's
+1:07:10 independent of the
+1:07:14 schedule
+1:07:17 yes and
+1:07:22 so can we put some condition
+1:07:28 check yes so now here's what I need boy
+1:07:32 this gets
+1:07:35 convoluted I need a new macro that
+1:07:38 checks to see
+1:07:41 if automatic label. downcase question
+1:07:46 mark
+1:07:50 includes
+1:07:53 220 then print the T text exclamation
+1:07:56 mark exclamation mark
+1:08:19 two okay let's try this
+1:08:25 yeah
+1:08:33 so we're going to do a little test
+1:08:36 macro and print this and it's not going
+1:08:38 to be
+1:08:40 exclamation to it's going to be I don't
+1:08:43 think we can
+1:08:48 do I don't think I can do
+1:08:53 subtraction but we'll try we're going to
+1:08:56 print exclamation
+1:09:00 exclamation minus
+1:09:08 2 why this ought to be interesting
+1:09:11 um so for all
+1:09:14 these I open this
+1:09:23 up number two
+1:09:35 it just shows four minus two see actual
+1:09:39 print four minus so how do we do that
+1:09:43 um open throw
+1:09:46 object uh no we get to edit the so we
+1:09:50 get to say
+1:10:16 still
+1:10:20 shows so it doesn't seem like subract
+1:10:25 have to really think about tricks do I
+1:10:28 have for that actually subtract quantity
+1:10:31 change the actual
+1:10:33 Quant
+1:10:35 um all I did with all that was give an
+1:10:39 independent schedule number to
+1:10:41 this so I actually wasn't subtracting
+1:10:49 quantity and it and the quantity will
+1:10:51 only execute within the schedule and we
+1:10:54 don't have any schedule
+1:10:56 OIP so there's no way to get the
+1:10:59 quantity to use it in a
+1:11:04 cal so somehow the schedule has to
+1:11:07 execute
+1:11:16 it
+1:11:17 interesting so what happens if you just
+1:11:19 do this um let's try this then we're
+1:11:21 going to open this up and
+1:11:23 go just we're going to put straight away
+1:11:29 just
+1:11:34 minus what does that give
+1:11:39 us
+1:11:46 anything no doesn't do anything does
+1:11:50 anything
+1:12:19 just another error
+1:12:21 now macro in
+1:12:30 just giv
+1:12:32 minus quantity is let's reset this name
+1:12:36 macro input
+1:12:37 two
+1:12:45 this yeah all let's do it so it won't do
+1:12:49 any so that's the biggest problem is
+1:12:51 we've got too much quantity in the
+1:12:52 electrical Legend so you'd almost have
+1:12:55 to just say that this reports to a
+1:12:57 custom schedule and this amperage deal
+1:12:59 now is a custom
+1:13:02 schedule and that everything needs to to
+1:13:06 this custom SK so this would
+1:13:09 be um General uncheck
+1:13:13 electrical and instead do a new custom
+1:13:16 category
+1:13:18 electrical
+1:13:22 panel right
+1:13:25 and so which includes
+1:13:28 nothing
+1:13:32 bad ha that we don't have a way to
+1:13:35 isolate all electrical items at once
+1:13:37 without getting into select Marquee
+1:13:38 similar but there we go and now all
+1:13:42 these in the schedule include in
+1:13:44 schedule as electrical item whatever
+1:13:46 those are and then also be included as
+1:13:50 elect oh this is interesting I at once
+1:13:54 made a category for Outlets so for some
+1:13:59 reason so now you get to choose your
+1:14:04 second panel object here and say that
+1:14:07 it's not included in electrical so you
+1:14:08 have to manually edit that to get our
+1:14:11 quantities to show appropriately in the
+1:14:13 electrical Legend which is back now to
+1:14:16 just doing the built-in
+1:14:19 quantity item here rid of macro input
+1:14:23 two
+1:14:27 and get rid
+1:14:29 three and now we're back to quantity to
+1:14:32 220 volt we annually brought one of
+1:14:36 those
+1:14:37 out all right so there's definitely a
+1:14:40 process to build
+1:14:44 this and that's too bad and I wonder if
+1:14:49 there's some way to fix
+1:14:53 that how how else can you add an
+1:14:56 electrical schedule it
+1:15:02 um wait could you do it this is me
+1:15:05 thinking outside of the box you open
+1:15:07 this and edit a cad
+1:15:13 detail and in this CAD detail you
+1:15:18 have technically speaking a
+1:15:22 polyline if you break this
+1:15:25 or convert this 24 side line now it's a
+1:15:30 polyline there any way in hell you can
+1:15:32 include this in a
+1:15:34 schedule as technically
+1:15:39 speaking an electrical panel and in the
+1:15:43 object
+1:15:47 information very much thinking outside
+1:15:49 of the
+1:15:51 box there's our field value of number
+1:15:53 two
+1:16:02 and you'd have to write custom
+1:16:05 parameters to get this to report the
+1:16:07 same way but if I shut this down saved
+1:16:11 and let's just do only this
+1:16:15 instance that somehow show
+1:16:19 up this say one two one 1 D2 1 D2 1 - 2
+1:16:23 1 - two are these right right so these
+1:16:29 need that's cuz we
+1:16:37 changed this was room in ever
+1:16:41 right name electrical
+1:16:47 pipe amps
+1:16:59 I still have two
+1:17:01 here
+1:17:04 one still have two
+1:17:11 here I mean it would it be the worst
+1:17:13 thing in the world if you just
+1:17:14 said
+1:17:17 um number of circuits would be number of
+1:17:22 circuits so it would just list a two
+1:17:25 circuit andriette and everything else
+1:17:28 circuit no it's not as clean as a
+1:17:30 regular panel schedule but it would get
+1:17:32 the it would get the job
+1:17:36 done right dual polls you'd say a number
+1:17:38 of
+1:17:42 polls I was really hoping that poly line
+1:17:44 would show up here somehow that'd be
+1:17:49 trick
+1:17:52 so what's the deal what do I have to do
+1:17:56 you just have to kind of clean this
+1:18:00 up I'm going to sit on it this is what I
+1:18:02 do I kind of build up a first step to a
+1:18:04 system and I sit on it for a while and
+1:18:07 and sometimes some new ideas come so um
+1:18:10 I hope you enjoyed this I hope it was
+1:18:12 informative this is kind of the process
+1:18:14 go through to build something like this
+1:18:16 that where we're trying to make it
+1:18:17 Dynamic and and easy for the end user
+1:18:20 that's a big part of this is I can build
+1:18:23 this and make this make sense no problem
+1:18:25 for me but I know this because I got a
+1:18:28 lot of input on my end that I'm I'm
+1:18:30 handling I'm the one that's taking care
+1:18:32 of it I know how I built the system it's
+1:18:34 easy for me to manage this I want the
+1:18:36 end user to come in here and go this is
+1:18:39 really intuitive and I want it easy for
+1:18:42 me to come in and one update it improve
+1:18:45 it and two explain how to use it
+1:18:50 so if all of my electrical items that
+1:18:54 are linked in my toolbar are all the
+1:18:56 items that I ever need in a particular
+1:18:59 plan and they are doing the job that
+1:19:03 they need to do without any input
+1:19:05 meaning we don't need to add any of that
+1:19:07 information to the object information
+1:19:09 panel because it's all on the library
+1:19:11 that I'm giving you in the Pro Plan for
+1:19:13 instance then this should just build out
+1:19:17 as easy as that um I think the main
+1:19:20 solution here
+1:19:22 is for this laundry 220 is that no
+1:19:26 matter what this is just going to report
+1:19:28 to
+1:19:30 in in this field value that'll report
+1:19:33 two this will always my 220 will always
+1:19:36 report two so for macro
+1:19:40 input there we go that'll always report
+1:19:43 to in the schedule this will be number
+1:19:46 of
+1:19:48 circuits or polls
+1:19:55 so two
+1:19:56 poles 30
+1:19:59 amp now all you have to do is come
+1:20:02 through and hit these library items so
+1:20:03 long as you've updated my library to be
+1:20:06 these items and boom we are getting a
+1:20:08 built-in electrical schedule just by
+1:20:10 placing things so if I made this the
+1:20:14 default and we threw it in a new room
+1:20:17 right it should be that let's just throw
+1:20:19 an addition in here real
+1:20:21 quick and call it an addition why not
+1:20:25 that's part of my formatting and all
+1:20:27 that stuff and we go bam and Bam uh this
+1:20:31 should just show up addition 220 Two
+1:20:33 Poles 30 amp that's really simple so
+1:20:37 this is more like a list than an
+1:20:39 electrical schedule um and really I'm
+1:20:42 going to call this a panel
+1:20:44 schedule and we could we could list the
+1:20:47 circuit number so maybe we would do that
+1:20:50 um that way CU we don't know what
+1:20:55 we don't know what panel is going to be
+1:20:58 used so it makes sense that we're not
+1:21:00 stacking it left and right like I would
+1:21:03 like to do would be great um so we're
+1:21:07 calling it a panel
+1:21:10 schedule we want
+1:21:13 um we want number in
+1:21:16 there so that means
+1:21:22 just schedule number I guess would
+1:21:27 be so I don't use schedule numbers in
+1:21:29 any kind of labels for electrical items
+1:21:31 so that that's actually that works just
+1:21:37 fine why am I not seeing
+1:21:48 schedule um this is a scheduled 2D 3D
+1:21:52 elevation accessory sorry bear with me
+1:21:55 as I look through a long list
+1:22:05 here
+1:22:11 thing schedule
+1:22:13 number we do number input three and call
+1:22:16 schedule
+1:22:21 number I don't like that
+1:22:25 I pass a
+1:22:29 number
+1:22:35 SCI so in the labels use label schedule
+1:22:39 number
+1:22:40 starting interesting that we're not just
+1:22:42 getting schedule number from this
+1:22:46 somewhere okay so we're showing units
+1:22:48 amps we're showing um polls as just a
+1:22:51 quantity macro number input is
+1:22:56 whatever
+1:23:00 okay rename this
+1:23:09 number and
+1:23:11 then some similar in calculate totals is
+1:23:14 going to be on amps and we want to show
+1:23:19 totals row so we should be able to get
+1:23:21 overall amps but that's not true
+1:23:27 that's that's provided amps that's
+1:23:30 actually not a
+1:23:32 cal I think a cal needs to be somewhere
+1:23:34 else so we shouldn't put
+1:23:38 total that's just
+1:23:41 provided total of um Breakers terms of
+1:23:47 amperage that we've provided but that
+1:23:49 doesn't help
+1:23:50 any uh let's see so let's just do in
+1:23:54 select similar on all these to get
+1:23:56 simple schedule number in accurate
+1:24:01 one
+1:24:13 macro I don't know why that's showing
+1:24:32 simple schedule number the same as what
+1:24:35 I got schedule
+1:24:38 number um that was macro input
+1:24:43 three
+1:24:46 set oh so somehow that schedule number
+1:24:49 is a string so it can't be a number
+1:24:53 input what
+1:24:55 happening instead let's go macro input
+1:25:00 to move up
+1:25:02 rename
+1:25:06 number one more time
+1:25:09 here
+1:25:11 bam grab all
+1:25:15 this throw
+1:25:21 in and we want simple schedule number
+1:25:26 there we go that's the circuit
+1:25:29 listings blah blah
+1:25:32 blah and we'd probably Bunch up our
+1:25:35 kitchen lights
+1:25:39 together
+1:25:41 yeah that's that's looking pretty good
+1:25:45 except
+1:25:46 for we need
+1:25:50 to this doesn't make
+1:25:53 sense cu it's got multiple schedule
+1:25:55 numbers because they're different from
+1:25:57 the
+1:25:58 Legend this would be another case where
+1:26:01 we're utilizing that trick uh which is
+1:26:04 Dash Das
+1:26:07 two why I wish Chief just gave us some
+1:26:10 capabilities to split something it's
+1:26:12 reporting values from One schedule to
+1:26:14 another where we can do a conditional
+1:26:15 check there so this is really going to
+1:26:18 be Instead This is just this Dash
+1:26:22 dash2 there we go
+1:26:26 only d-2 is quantity uh
+1:26:37 d-1 okay and dash
+1:26:49 three there we
+1:26:53 are oh that was a lot of work cool I
+1:26:57 need some light in
+1:26:58 here
+1:27:00 um yeah I hope you got a lot out of that
+1:27:03 went over a lot there pretty neat leave
+1:27:06 some comments thanks VIP
+1:27:10 [Music]

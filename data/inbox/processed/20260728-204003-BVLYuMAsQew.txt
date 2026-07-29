@@ -1,0 +1,998 @@
+Title: The Fastest System For Designing Showers In Chief Architect X17
+URL: https://www.youtube.com/watch?v=BVLYuMAsQew
+Visibility: public
+
+0:02 Uh, what's going on, Chief Architect
+0:02 family? This video I'm going to go over
+0:09 how you can create a a tool to create
+0:12 showers where you can parametrically
+0:12 resize that shower. And that shower will
+0:20 save you so much time trying to design
+0:23 showers. It just will. Um, and part of
+0:23 this is, well, I've become accustomed to
+0:31 showing my YouTube audience exactly how
+0:33 to create some of more my more complex
+0:36 systems. And and why am I doing that?
+0:36 Well, one, it's to follow this thought
+0:40 of, you know, abundance, sharing my
+0:42 knowledge so that everybody can do
+0:45 exactly what I do. and that your
+0:45 creations somehow come back to me and
+0:47 they come and they come back to you and
+0:51 they bounce off of each other to the
+0:51 point where we just as a community bring
+0:55 things forward in a way that's efficient
+0:58 and benefits all. There's plenty of room
+1:01 in this world for all of us and all this
+1:03 information. So that's thought number
+1:03 one. Um thought number two is I got to
+1:08 make money somehow. So, so some of the
+1:10 stuff I have to sell, but that doesn't
+1:14 keep me from sharing with you how to
+1:14 make the things that I sell. So, if you
+1:18 wanted to take the time to make them
+1:18 instead of buying them, you could. Why
+1:25 not? And so, this video I'm going to
+1:25 show you how to make um a newer system
+1:31 that really only a number of people
+1:31 have. It's only sold a couple of times
+1:35 as an individual package, but it is
+1:37 included in my complete system. So
+1:37 people have the benefit of doing that if
+1:40 they have the complete system from uh
+1:40 the X17 versions on and and people that
+1:48 have used it really understand
+1:48 what it means to have it, right? And
+1:51 people that don't have it don't really
+1:53 understand the complexities of designing
+1:58 a shower in Chief Architect. Yes, you
+1:58 can do it. Yes, you could do it rather
+2:05 quickly, maybe an hour, maybe two. Um,
+2:06 but there's a big difference between
+2:08 designing something in an hour and
+2:08 designing something in five minutes. So,
+2:15 I'll show you the designing something in
+2:17 quickly using the tools that we already
+2:20 have access to and then I'll show you
+2:20 how to just use a preconfigured tool and
+2:24 then I'll show you how to try to make
+2:24 that preconfigured tool. So, here we go.
+2:30 Let's uh get into this. So, let me just,
+2:32 you know, start drawing out what will
+2:32 become a shower. Or rather, let's just
+2:35 start with something that's going to
+2:36 become a bathroom. So, let me just uh
+2:41 put in some walls here. And I'll make
+2:41 this probably a typical bathroom size.
+2:43 And, you know, granted, I'm in a remodel
+2:47 workflow right now. So, the uh it's
+2:47 going to be 4'11 in between the drywall.
+2:53 And then probably like a sure, I think a
+2:57 9 ft uh 9 foot 6 would be fine here. And
+2:59 so then we've got some kind of bathroom
+3:00 door. And so somewhere in here, we've
+3:00 got some kind of shower. And maybe it's
+3:02 at the back end of this. And so a really
+3:09 simple configuration might be that we
+3:09 use what becomes a pony wall to create a
+3:14 curb.
+3:14 And so the inside dimension of this is
+3:19 one thing. It's really the outside
+3:19 dimension that I'd want to know about,
+3:20 right? Um, and let me just, you know, do
+3:25 some math in my head. I'm using a 4 and
+3:27 1/2 in interior wall. So, I could say
+3:33 that I want this to be 32 minus 4.5.
+3:33 All right. And so, that's going to be my
+3:38 overall shower. All right. And here's
+3:38 what I'm going to do. I'm going to open
+3:43 this up and I'm going to designate in
+3:46 wall types panel here that there is a
+3:46 pony wall. And this pony wall could be
+3:48 something that I created, but I'm going
+3:52 to start with something that is like
+3:52 just interior 4. All right. And then I
+3:54 want to define this. And the definition
+3:58 of this is going to be that not only am
+4:00 I going to have some half inch surface
+4:02 on the interior side, but I'm also
+4:02 probably going to have some eighth inch
+4:04 surface that becomes uh my, you know, my
+4:10 grout, my mortar, etc. Right. Same
+4:10 thing. Insert above some kind of 8 inch
+4:16 surface. There we go. And let me just
+4:19 press okay. Now, what I didn't do by
+4:19 accident was that I didn't create a new
+4:23 wall type. So really you want to pick
+4:24 that interior for copy it and then you
+4:28 know rename it tile four or something
+4:30 like that. Okay. And then you would
+4:34 insert below 8 inch
+4:34 and maybe your tile is thinner than/
+4:36 inch. Right? Maybe it's 38 of an inch.
+4:38 And does that even matter? We could have
+4:43 just left it the way it was. Right?
+4:43 And so let me insert above. And I'm not
+4:49 even going to bother setting up um to
+4:52 specify what this material is.
+4:52 Right now, he hide off the floor. This
+4:58 is going to be the size of our curb in
+4:58 this case. So, let me just say four and
+5:01 a half. And then the upper wall type is
+5:03 going to be what Chief Architect would
+5:05 call a glass shower. And then I would
+5:07 want to say that I want to align the
+5:07 pony wall at the wall center. And now
+5:10 that I have a pony wall, I'd want to put
+5:15 a wall cap in here. And you can use
+5:15 anything you you like. I tend to just
+5:19 type in square because that usually
+5:20 finds me some kind of a square profile
+5:23 that can then just be resized here. And
+5:26 so I'm going to use the full wall width.
+5:32 Okay. And then the height of which, you
+5:35 know, um let's just call it half an
+5:36 inch,
+5:36 right? And so that's going to
+5:38 automatically place at my pony wall top.
+5:44 And so there we go. Now, the last thing
+5:47 I might have wanted to do in the wall
+5:47 types panel is that I might want to show
+5:52 upper wall and lower wall outline. Or
+5:54 maybe I want upper wall outline and
+5:54 lower wall, etc. Um, probably be better
+6:00 with upper wall and lower wall outline
+6:00 in this case. And that's what it's going
+6:04 to look like right there. Not bad to
+6:04 start. And let's go pull a view. And I
+6:07 always want to check things in array
+6:07 trace view to see how this is looking.
+6:10 And you know, just to get a semblance of
+6:14 size and configuration, let's throw a
+6:14 toilet in there. And then we're going to
+6:18 pull some kind of ray traced view and
+6:19 take a look at what this is looking
+6:19 like. Okay, so here's what we have so
+6:25 far is some glass partition that goes
+6:25 all the way up and then we've got a wall
+6:31 that creates a different room, mind you.
+6:34 All right. And and obviously we have
+6:34 some casing in there, etc. Now, if we
+6:36 change this room type to something like
+6:41 bathroom, well, it's not going to
+6:41 necessarily remove moldings. So, you
+6:43 almost have to make a custom room type
+6:46 where it's got no moldings and maybe it
+6:51 even has a new surface area. And so,
+6:52 look at this. This says there's no room
+6:56 moldings. And on top of that, I'm
+6:56 essentially faking a mortar bed in the
+7:01 structure panel by adjusting the floor
+7:01 finish assembly. And so, here we go. So,
+7:05 I've got a 2-in backer board is what I
+7:07 called it, but basically a big mortar
+7:08 bed with thin set mortar and some tile.
+7:13 And so, that's raising the floor
+7:13 structure of this thing. Not floor
+7:14 structure, floor surface, mind you. So,
+7:19 the floor structure stays intact. That
+7:21 means it's not going to break up any
+7:21 kind of joists running through this. So,
+7:25 we've got this defined room. Now, what
+7:28 are the caveats of doing it in this
+7:28 method? Well, for one is if we pull a
+7:35 wall elevation to try to get the wall
+7:35 elevation in this bathroom where we're
+7:38 getting the toilet, vandy, etc. You're
+7:38 going to notice that this is clipped up
+7:41 into the point where that shower wall
+7:43 curb is. And so, you would have to go
+7:43 and edit the active view, uncheck clip
+7:49 to room, and then adjust the side
+7:49 clipping to incorporate that shower. Not
+7:53 the end of the world, but it's just
+7:53 something to consider. Now, since I'm
+7:55 here, I'm going to go ahead and use the
+7:57 backsplash tool because ultimately, this
+8:01 is a better way to show tile on a wall
+8:02 than it is to just spray that new room.
+8:06 That new room is going to do exactly
+8:08 what this backsplash did, which was
+8:08 split to that glass wall. And so, at
+8:10 least with a backsplash, I can kind of
+8:14 bring this forward and align it with a
+8:17 curb or extend it past that curb. And
+8:19 so, now what are we looking at? Well,
+8:19 this is what it looks like in a 3D. Not
+8:23 bad. Now, if I try to select this, I've
+8:25 got a wall in a way. So, I've got to
+8:26 navigate onto the interior side of this
+8:30 to be able to copy paste this, reflect
+8:31 about the center, and get it on the
+8:31 other side, and maybe copy paste and
+8:34 reflect about the diagonal to get it on
+8:41 this back wall. Right? And so, this is
+8:41 not the worst workflow. this works. You
+8:46 know, I can click on uh this dimension
+8:46 string and say zero in to just push that
+8:51 backsplash all the way to the side. And
+8:53 there we go. We've got the makings of
+8:56 what might look like a shower. Now,
+8:59 here's something new to consider is
+9:00 let's say that halfway through this
+9:00 wall, I want to put a break because I
+9:03 need a half wall cuz I've got this
+9:03 toilet here and I want to generate some
+9:07 kind of half wall. And can I just slide
+9:09 this up and have that half wall build
+9:12 and have that cap generate? Uh, yeah,
+9:12 more or less. But look at what happens
+9:14 is we've got our interior main layer is
+9:20 showing through. So that's a bit
+9:20 problematic. Does that go away if we try
+9:25 a different approach? What if I were to
+9:28 open this wall type up? All right. And
+9:29 actually, let me make a break in that
+9:29 wall again. So here we go. I've got this
+9:33 wall. I'm going to make a break. I'm
+9:35 going to select this half of it. I'm
+9:37 going to open this object.
+9:37 And what am I going to do? I'm going to
+9:42 manually adjust this. So, elevation of
+9:44 that wall type. Let me set this to 42
+9:44 in. And let's go look at a view. And so,
+9:51 look at this. This time, it actually
+9:51 wraps. Now, there is some issue with the
+9:56 wall cap. It's splitting in some for
+9:56 some reason, right? So, it's causing a
+10:00 little bit of problems there. Now, the
+10:01 next thing that you could do is you
+10:04 could use the door tool or more
+10:04 specifically, you could use the shower
+10:08 door tool. Now, I'm using a custom
+10:08 shower tool door tool that I built out.
+10:14 And and the reason for this is that by
+10:14 default, my shower door is set to 4 1/2
+10:20 in off the bottom of the floor. If it
+10:23 were set to 0 in, which is by default
+10:23 coming from Chief Architect, what would
+10:28 happen? Well, it's going to cut that.
+10:28 Look at that. It's cutting my curb down
+10:32 at the bottom there. So, I would say,
+10:34 hey, if you want to use the built-in
+10:34 systems, go custom build out your shower
+10:39 door, put in the hardware that you want,
+10:41 and make sure that it's offset based on
+10:43 the curb that you're creating. All
+10:43 right. And so then the last thing that
+10:47 you could do is you could get into the
+10:47 wall defaults and doubleclick your well
+10:54 or um activate your straight glass wall
+10:57 and double click it and then set the
+10:57 defaults for this. And that's what I've
+11:00 done here is I've built out a shower
+11:00 curb. It's a single main layer assembly.
+11:06 All right. And it's set to 4 and 12 in
+11:06 off the base. It's just got tile applied
+11:10 to it. There's a wall cap. There's a
+11:10 glass shower. That way, if I just draw
+11:13 with that from the beginning. So, let me
+11:18 get rid of this wall and this wall. If I
+11:20 just draw from what I've created as a
+11:20 default in my template. Now, I am just
+11:23 drawing with this wall assembly. So, if
+11:28 we go look in a 3D view, this is what
+11:28 I'm drawing with. This is what I've got,
+11:33 right? And so, then if I use that same
+11:36 default doorway and I go press that
+11:36 tool, activate it, place it. There we
+11:41 go. It's cutting perfectly into that
+11:43 assembly. All right. Now, there's
+11:43 another consideration here. Often times,
+11:47 we don't have our glass going all the
+11:47 way to the ceiling. So, that's something
+11:51 to think about. The other thing to think
+11:54 about is maybe you want something that
+11:54 looks like some kind of a partition with
+11:58 all the hardware etc. and you want to
+12:01 place this in here and in fact it's
+12:01 going to you know cut to that pony wall.
+12:07 Right? So that's what I did. My default
+12:11 straight glass pony wall has
+12:11 a half of a wall with it. And so when I
+12:13 draw this out, it doesn't just overwrite
+12:17 that existing wall. What do I have to
+12:17 do? I kind of have to get this door out
+12:19 of the way. Okay, let me get that out of
+12:22 the way. For some reason, this wall is
+12:22 not, you know, perfectly overriding that
+12:26 other wall. Let me snap this. Let's look
+12:30 at 3D. What has that done? Well, hasn't
+12:32 done anything good in this case. I
+12:32 almost have to just delete that section.
+12:37 Start from new. And what I'm going to do
+12:39 is start with that straight glass pony
+12:39 wall. And here's what it's going to look
+12:44 like.
+12:44 There we go. I've got a half wall in
+12:46 place. Now, keep in mind, one side is
+12:49 tile, the other side is tile. What if I
+12:54 want this outside to just be a
+12:54 continuation of the drywall? Can we do
+12:59 that? Yes. But please note, it's going
+12:59 to split that right down the middle. So,
+13:03 we don't have a cap that goes on the
+13:04 vertical run of this if I wanted drywall
+13:08 on one side versus the other. So, you're
+13:11 running into all of the reasons that it
+13:13 might be nice to build some kind of a
+13:13 versatile shower tool. It's not that you
+13:19 can't do this manually. It just takes a
+13:23 decent amount of time. So, here we go.
+13:23 With that in mind, and mind you, I spent
+13:27 13 minutes on this. If I wanted to get
+13:27 this to be perfect, it might be another
+13:30 10 minutes, 25 minutes. Not the end of
+13:33 the world. Sure, that's only for this
+13:35 type of shower. This is a very simple
+13:35 and straightforward type of shower. What
+13:40 if we were to build a bunch of different
+13:43 showers to kind of handle every
+13:43 configuration that we could come up
+13:44 with? Enter in. Let's build this out of
+13:50 some tool that is conducive to that
+13:50 scenario. All right. Let me get rid of
+13:56 these shower walls. Okay.
+13:56 And I'm going to do the really
+13:58 rudimentary version of what has become
+14:05 my shower pre-built showers.
+14:05 and go ahead and get rid of this
+14:09 backsplash.
+14:09 And because I'm going to show some some
+14:13 pitfalls of this as well.
+14:13 Oh, I just can't seem to delete that
+14:15 backsplash. Let's just do it from a 3D
+14:20 view.
+14:20 There we go. Delete. All right. I'm
+14:24 going to get rid of that project
+14:28 browser. So, enter in
+14:28 the very formidable cabinet tools.
+14:33 Right. Cabinet tools are really
+14:33 formidable tools. And how do we want to
+14:37 do this? I'm thinking full height
+14:39 cabinet. I tell you the truth, I
+14:39 honestly can't remember what I started
+14:44 with. Okay, but let's open this up and
+14:47 show why this can be so dynamic. The
+14:47 first thing that I'm going to do is I'm
+14:50 going to go to the door drawer and I'm
+14:53 going to set all door panels to by
+14:54 default use slab doors. And I'm going to
+15:01 set door handles to use none. Okay,
+15:01 let me just set this all to use none.
+15:07 Here we go. Right. And then moldings.
+15:07 We're going to get rid of this molding
+15:10 and we're going to get rid of the
+15:10 toekick. So, here's what this leaves us
+15:15 with. Okay. Let's start by just doing a
+15:15 simple configuration where we change the
+15:23 right side to I just type in match m
+15:23 that goes match front. Okay. Next thing
+15:31 I want to do is in framed my separation
+15:34 wants to be zero because we're oftent
+15:36 times going to have elements that we
+15:36 want to zero gap on. And then if I use
+15:38 inset, this is going to make things join
+15:42 at the corner. That's something to
+15:42 consider. Now, I'd like you to keep in
+15:48 mind I built the show pre-built custom
+15:50 showers a year ago. I actually don't
+15:50 remember how I built them. So, I'm just
+15:53 trying to recreate them from the thought
+15:58 that I know the capabilities of this
+16:00 cabinet. So, what can we do to just
+16:02 recreate that? Right.
+16:02 First thing is we're going to say that
+16:04 this has no top. So, we're going to get
+16:07 rid of that top. Okay. Next thing, let's
+16:11 get to this front side configuration.
+16:13 And I know for a fact that I want
+16:13 something that is an opening. And we're
+16:19 going to specify manual zero shelves.
+16:22 Why are we doing that? Because what
+16:22 happens is is the cabinet gets to get
+16:24 resized and the back side and maybe one
+16:32 other side will become a backsplash.
+16:32 That gets to get parametrically resized
+16:38 while we keep the front side and maybe
+16:42 one side be our glass walls that maybe
+16:44 we don't want to resize with the
+16:44 backsplash. making it really easy to
+16:48 resize the front side just by deleting
+16:51 what will become this opening or making
+16:55 it really easy to resize the back splash
+17:01 by resizing the cabinet. Okay? And we'll
+17:03 get to why that makes sense here in a
+17:05 minute. And mind you, this was from
+17:07 coming up with a system. So, you're
+17:07 getting saved the hours of all the kind
+17:12 of brain work that it required to come
+17:14 up with this system just by following
+17:14 along with this video, if you will. So,
+17:20 my door, right, I'm going to make this
+17:26 be um let's just call it 84 in. Okay.
+17:26 Um or maybe it's even lower than that.
+17:28 Maybe we'll call it 74 in. Why not? You
+17:32 know, you tell me what your glass
+17:32 partition size is going to be. The next
+17:36 thing is that I'm going to kind of fake
+17:38 a curb just to show you the concept of
+17:41 how this is built. Right? How do we do
+17:44 that? Let's just Well, for one, we're
+17:46 going to take out door auto right. We
+17:46 want to specify that this is either door
+17:49 panel, door left, or door right. All
+17:49 right. So, we're just going to say door
+17:53 left. Now, I want to split this
+17:53 horizontal. And I get to say that this
+17:57 lower section just gets to be door
+17:57 panel. Doesn't necessarily matter. And
+18:01 that lower section's height's going to
+18:05 be that 4 and 12 in.
+18:08 Now, this overall
+18:08 didn't really help us out. Why is that?
+18:13 Because we don't get to specify the
+18:13 overall height of this assembly that
+18:15 we've just created. Door left plus door
+18:19 panel below it. So, what you could do
+18:19 instead is you could say that there's a
+18:25 layout horizontal. All right? And from
+18:25 that layout horizontal, there's going to
+18:31 be a layout vertical.
+18:31 So now we're going to split this
+18:32 horizontal. That becomes some layout
+18:35 vertical. So we get to get rid of that
+18:39 bottom curve. All right. We get to get
+18:39 rid of this bottom separation. Now we've
+18:44 got a layout vertical where we can
+18:44 excuse me this layout horizontal where
+18:48 we can lock the height of this by
+18:48 inputting the height. So the height is
+18:54 now locked. All right.
+18:54 Why is that impactful? Because when we
+18:59 resize the cabinet, it's locking the
+18:59 height of these elements here. So those
+19:04 are not getting resized, which means we
+19:04 get to lock this lower part at 4 1/2 in.
+19:10 So we know now this is 4 and 1/2 in
+19:10 curb. This is our upper panel. That's
+19:14 that's locked to the overall height of
+19:20 this horizontal stack. Okay.
+19:20 Next thing I want this lower section.
+19:25 It's a thicker assembly. It's a curb,
+19:25 right? So, we need to specify this. So,
+19:30 we're going to specify appliance, door,
+19:32 drawer, and we're going to make the
+19:33 thickness of this four and a half
+19:33 inches. Well, it just so happens to be
+19:37 that Chief Architect limits this to four
+19:46 uh 4 in in total. See this? See this
+19:48 thickness? 4 in in total. That's as
+19:51 thick as you can make it.
+19:51 Unless Unless, okay, unless you create a
+19:59 symbol that becomes a cabinet door. And
+20:01 so, let's go take a look at how these
+20:01 were created. Let me kind of expand my
+20:03 library browser so we can see this in my
+20:09 user catalog underneath my main thing
+20:11 here. Baths, pre-built showers and
+20:11 baths. Okay. And so, we've got a shower
+20:16 builder components where we've got
+20:16 shower builder walls. And let's just
+20:18 take a look at one of these. All right.
+20:23 backside wall. We've got a split wall.
+20:25 Let me take a look at this split wall
+20:27 assembly.
+20:27 So, here's where we have the opportunity
+20:32 to model something. And I believe I use
+20:33 solids for this. Model something with
+20:36 solids. I was able to map different
+20:38 parts of this, right, by applying
+20:38 different materials to different parts.
+20:40 So, we've got some kind of vertical run.
+20:46 Um, and we've got some stretch planes in
+20:47 there. Those are universal cutting
+20:47 planes. That means we just duplicate the
+20:52 geometry right where that slice
+20:52 intersects the geometry. We just
+20:54 duplicate the profile of that geometry
+20:59 through that slice. And so what are we
+21:01 looking at here? Well, again, created
+21:04 with solids and then converted to a
+21:04 simple category class of cabinet door
+21:08 drawer. Okay. Now, what's clever about
+21:11 this? Well, one, the material mapping is
+21:16 a big part of the system. by putting in
+21:17 these little caps and everything and
+21:17 then streing setting our stretch zones.
+21:21 That means those caps don't get
+21:21 stretched and they remain there and that
+21:26 means they can be mapped to different
+21:26 textures. Meaning that we can paint the
+21:30 inside of a wall separately from the
+21:30 outside of the wall and have a true full
+21:35 cap wrap on the top and the vertical
+21:35 run. All right. And in fact, I believe
+21:41 some of these even stop at 4 and 12 in
+21:42 where they might intercede with the
+21:42 curve. So that that cap needs to return
+21:49 alongside of that curve. Okay.
+21:49 Now another part of this is the origin
+21:51 offset. I want you to notice something.
+21:56 The y position, the origin offset is
+21:59 offset by the total assembly width.
+21:59 Okay? So it's offset in the positive y
+22:03 direction. The y the absolute axis here
+22:11 where y intersects z and x is the point
+22:14 of origin. And so on the negative side
+22:16 of the Y would be the front face of a
+22:18 cabinet door. That's how Chief sees
+22:18 cabinet doors. So we're offsetting this
+22:24 Y position. Okay? And why would we do
+22:26 that? Well, very specifically because
+22:26 look, these don't meet up at a corner.
+22:31 They don't meet up at the corner. So
+22:33 they needed to be offset in the Y so
+22:33 that they're pushed into this cabinet
+22:38 assembly. That's how this system is
+22:38 built. And very simply, the rest of this
+22:44 is just component-based. Okay? Now, I'm
+22:47 not walking you through this step by
+22:47 step, per se, but I'm giving you all the
+22:51 tools that you would need to recreate
+22:54 this. I want to tell you this is uh
+22:56 Thanksgiving 2025. Cyber Monday is
+22:56 tomorrow, and I do have this shower
+22:58 system on sale tomorrow. Let's go take a
+23:03 look at one of these preconfigured guys,
+23:05 and we'll show you exactly how it's put
+23:07 together. I'm going to switch to my
+23:07 kitchen and bath toolbar and we'll drop
+23:10 in a couple of these and we'll take a
+23:12 look.
+23:12 So, this is one that's preconfigured.
+23:16 And let me get let me just pull these
+23:18 walls out of the way so we can really
+23:23 Get this toilet out of the way. And
+23:23 we'll stick this more in the center of
+23:24 the room. And maybe we'll even put in uh
+23:33 Some light in this room.
+23:34 And let me get rid of this library.
+23:37 So, here we go. This is just a cabinet.
+23:43 And we'll talk about why
+23:43 this approach is so fast and easy. I
+23:48 immediately know once I need a corner
+23:51 shower that I get to go pick this icon.
+23:54 I mean, I've got a series of icons here
+23:57 that represent different shower types.
+23:57 So, I know I need a corner shower. This
+24:00 is the assembly I'm going to use. We
+24:03 talked earlier about kind of locking
+24:03 certain elements of this so that when we
+24:07 resize this, some elements get resized,
+24:10 others do not. Look what happens with
+24:10 this. Okay, the backsplash in the back
+24:14 here and the side here raised up. What I
+24:18 want you to notice is that the glass
+24:21 wall assembly in the front did not.
+24:23 Okay, if I needed the glass wall
+24:23 assembly to raise up as well, what
+24:25 happens here is I'm going to select some
+24:29 item to get me to that front side face.
+24:30 And you're going to see that there's an
+24:32 opening here and there's a layout
+24:35 horizontal that is locked.
+24:35 All I have to do is delete this opening.
+24:41 And what happens? Well, it creates a
+24:41 blank space because something is locked.
+24:46 Okay? So really what you need to do
+24:46 first in this case, and it's a pretty
+24:53 simple process, is we just take this
+24:53 horizontal layout and we unlock it. We
+24:58 unlock it and we delete the opening.
+25:00 Look what happens. That glass gets
+25:00 turned up. If I rotate this and kind of
+25:03 select this bottom selectable face here,
+25:07 it's the same thing. Here's our layout
+25:07 vertical. Here's our opening there. You
+25:10 know, that's all we're targeting really.
+25:14 And then everything else gets to get
+25:16 resized, right? So, here's that door
+25:18 left. Uncheck it. Get rid of that
+25:18 opening. It expands. And now I have
+25:21 glass that goes all the way to the top.
+25:23 I want you to also notice parametrically
+25:28 this just gets resized in its width as
+25:31 well. And I have this door locked so
+25:31 that that door is always the same size.
+25:35 So we're considering a lot of things
+25:35 when we build out. Now something that's
+25:38 a little bit advanced is that I used the
+25:46 face tool in Chief Architect in order to
+25:49 create a truly sloping floor. And that
+25:52 sloping floor is added as a millwork
+25:55 category class. And why a mill work
+25:57 category class? Because it can be
+25:57 applied as a shelf. And so I have on my
+26:01 shower door there is one specify shelves
+26:11 spacing from previous is zero. And then
+26:13 we've got this symbol that has a
+26:13 negative ZV valueue to push it below the
+26:19 height of the shower door. And so it's
+26:19 creating a sloping floor so that when we
+26:23 do cross-section cut through this, it
+26:23 actually shows slope, which is somewhat
+26:28 compelling in a system, right? And then
+26:30 on top of that, there's so many
+26:30 remappable surfaces that it's really,
+26:33 really easy to just paint your favorite
+26:35 tile or your spec tile onto this and get
+26:41 your shower in just a matter of minutes.
+26:42 Now, another aspect of this that's
+26:42 pretty cool, and this is just a feature
+26:47 of having cabinets is let me open this
+26:49 up one more time. I'm going to get to
+26:49 the back side of this and I'm going to
+26:51 select a face here. Now, let's say that
+26:53 there is a niche and we just want to use
+26:57 the niche tool, right? So, we're just
+26:59 going to make this backside face
+26:59 disappear and instead we're going to use
+27:03 a backsplash. Now, there's a drawback to
+27:05 this. Let me just make this disappear
+27:05 for a second. All right. So instead of
+27:07 custom face, I'm just going to say none.
+27:13 I can't because this cabinet is drawn
+27:13 all the way to the ceiling. I can't just
+27:18 use the backsplash tool and apply it in
+27:21 this view. Okay, I can't just come in
+27:21 here, use backsplash tool, come in here
+27:26 and try to draw this out. It won't even
+27:28 draw. Why? Because because this is a
+27:28 cabinet, it's just limiting our ability
+27:32 to draw behind that cabinet as it's
+27:32 touching the wall. But I can very easily
+27:37 draw square backsplash here and then
+27:37 center it up on this cabinet. And if we
+27:42 get, you know, preview right. There we
+27:42 go. Now the backsplash is drawing inside
+27:47 of the cabinet and it's easy enough for
+27:50 me to span this out, etc. Okay, so
+27:53 that's one part of this.
+27:53 Let's go back a few levels and get it to
+27:57 the point where we had something on that
+27:58 back wall coming from the cabinet
+28:00 itself.
+28:00 and what makes this kind of cool and
+28:08 There we go. So, let me select this
+28:08 cabinet again. Let me open this up. I
+28:12 know it's hard to see while it's ray
+28:14 tracing.
+28:14 Pull this around to the back side. I'm
+28:16 going to take this back side. I'm going
+28:18 to split it horizontally. And this lower
+28:23 section, I'm going to specify that the
+28:23 thickness of this is 4 in. And I want to
+28:29 show you what ends up happening.
+28:29 Look at this. It created a ledge. How
+28:35 cool is that?
+28:35 That's pretty neat. Now, this right side
+28:40 has a little bit of a gap on it. That
+28:40 just has to do with the fact that we've
+28:45 got, you know, cabinet door drawer
+28:45 overlay. Um, something in the in this
+28:51 box consideration, we might just say
+28:51 that this is inset, clearance is zero,
+28:55 and we would get rid of that gap right
+28:58 away. Right. So out of the box, I made
+29:00 it so that it could be door drawer
+29:00 overlay. And that's just for some other
+29:04 features and considerations. But isn't
+29:07 that cool that we can suddenly have,
+29:10 you know, this shelf here? Now,
+29:10 something to think about and and how
+29:12 this system specifically works. And and
+29:16 mind you, you know, this would be kind
+29:16 of a rare circumstance where that shelf
+29:18 drives all the way through where we have
+29:21 to have a custom piece of glass that's
+29:23 cut around this. How do we get around
+29:25 that? Well, quite easily. Spin around
+29:27 this to the back.
+29:28 And we can obviously take this layout
+29:34 vertical, split it vertically. Okay,
+29:36 take the side that's up against that
+29:36 glass. Say that the item width is 3 in
+29:41 or something like that. And then let's
+29:41 just get rid of that lower section which
+29:47 was the shelf. And so now when we go
+29:47 look at this, should be, if I did that
+29:54 right, it should be that. Yeah. Let me
+29:56 just cut this back a little bit more.
+29:56 This layout horizontal. We're going to
+30:03 say layout vertical on the back.
+30:03 We're going to say that this section is
+30:07 a little bit wider. It's layout
+30:07 vertical. Just call it 6 in. Something
+30:12 like that. And you'll see now, look at
+30:14 this. The backsplash is carrying
+30:14 through. The shelf is actually built to
+30:18 the inside of that glass wall. So, you
+30:21 can see how this becomes dynamic.
+30:21 Let me spin around to that backside one
+30:24 more time. I'll show you one more thing
+30:25 you can do with this. That's pretty
+30:27 cool. Is let me just split this
+30:27 vertical. And let me take uh one of the
+30:29 selections, split it vertical again. And
+30:34 the selection that's highlighted, split
+30:37 it horizontal. And the upper section
+30:37 that's highlighted, split it horizontal.
+30:41 And then this one little section here,
+30:44 I'm going to specify that it's back to
+30:46 default. And so what did I just do?
+30:46 Let's just open this up and take a look.
+30:52 created a wall niche. Isn't [laughter]
+30:55 that pretty wild? Right now, I need to
+30:55 still set the storage drawers back to um
+31:00 excuse me, the box configuration back to
+31:02 an inlay. You know, we did undid that,
+31:05 but isn't that pretty cool that we can
+31:07 just create a niche out of that pretty
+31:09 quickly? So, you can see how dynamic
+31:11 these are. Let me switch to standard
+31:13 view so we can see this a little bit
+31:13 easier. And let me show you a couple of
+31:15 these other configured setups here where
+31:21 I'm building out different scenarios
+31:27 Uh let's see. I want to see if I can
+31:27 find one of my favorites. One of these
+31:32 isn't linked.
+31:32 What's my favorite? I have a favorite in
+31:37 here, but I don't not sure where it is.
+31:41 That's the one. Isn't that cool? Right.
+31:43 You resize this thing and guess what
+31:43 happens to the grids? They resize. Why?
+31:49 Well, because they are done from a very
+31:49 custom mapping. This is just a material.
+31:55 If we switched to a vector view, you
+31:55 would see that this is just a material.
+31:59 That's all it is. It's just a custom
+31:59 material. It's pretty cool. So, it it
+32:03 repeats itself, right? And so, that's uh
+32:08 this is a pretty neat setup. You can see
+32:10 just how dynamic these can become just
+32:10 by splitting sections and being able to
+32:15 remap them. So that if I brought in my
+32:17 library browser
+32:17 and kind of shrink this down a little
+32:21 bit and let's just RD tile grab some
+32:22 tile from my system. It's really simple
+32:28 to just, you know, click and spray and
+32:28 click and spray. So I can paint this in
+32:34 a planainter scope mode. And there we
+32:34 go. That's painting all that same tile.
+32:40 One one finish here,
+32:40 right? Just as easy as that. And you can
+32:45 see these edges are painted in some
+32:46 other material. Very quick and easy to
+32:50 be able to change these out. Same kind
+32:51 of thing is I mean, you see that they
+32:51 all painted at the same time. But here
+32:55 you go. Giving you the ability to have
+32:55 caps sprayed differently than the floor
+32:58 sprayed differently than the outsides of
+33:02 these. And how do we create it? This was
+33:05 just a solid with another solid lined up
+33:07 with it with another solid lined up
+33:08 here. So if we switch this to a vector
+33:09 view, you know, you're going to see some
+33:13 of these intersecting lines like this.
+33:15 Okay,
+33:15 but pretty neat how this is all built
+33:17 out. So you can do this just by creating
+33:23 solids, convert them to cabinet doors,
+33:26 set the Y offset so that they line up
+33:29 correctly. Same thing with um kind of
+33:29 the glass partitions is that just needs
+33:34 a Y offset so they they line up
+33:34 correctly. And then a lot of my um
+33:37 cabinet doors essentially have hardware.
+33:46 So if we go look at let's go look at the
+33:49 this kind of panel door here. All right.
+33:50 And notice that there's hardware
+33:50 included. How is that? If we get into
+33:57 specify specify appliance door drawer
+33:59 door hinges, we're just using door
+33:59 hinges. We're using the builtin tools to
+34:05 create all this hardware that you've got
+34:08 door hinges attached to a door. Okay,
+34:11 it's as simple as that. And then it's
+34:13 just some guess and check to kind of
+34:13 figure out how this all jives with each
+34:17 other. The hinges themselves need
+34:17 offsets as well so that they place
+34:20 correctly with the offset doors that you
+34:26 generate. Um, this is a really nice
+34:28 puzzle to try to figure out. It's a
+34:28 challenging one. I would call this, you
+34:33 know, something for advanced users to
+34:36 figure out. Um,
+34:37 yeah,
+34:37 but this is the basis of how we create
+34:43 this. And so the main considerations
+34:43 when I was building out this system are
+34:47 well one is what are all the
+34:47 configurations that I use you know in
+34:49 any given house. Oftentimes I might have
+34:55 this really tall partition wall here
+34:57 with a curb that extends back to a
+34:58 backsplash. Can we easily get rid of one
+35:02 whole side? Yes, we can. We can set it
+35:02 to none. Can we easily create some kind
+35:08 of stepping? Yes, we can. Can we easily
+35:11 create some kind of feature strip? Yes,
+35:13 we can. You know, we saw that in one of
+35:15 these other elements. Let me just take
+35:17 this shower for instance. Oops, I just
+35:20 painted the glass by accident. Let's
+35:20 take this one. Freaking bigger half wall
+35:25 cap running down the vertical cap
+35:25 running on the horizontal. Let's spin
+35:28 this around just in a 3D view. It's very
+35:31 easy to select here. I'm going to split
+35:33 this horizontally and then split that
+35:35 upper section horizontally. I want to
+35:38 specify this. Let's call this, we're
+35:40 going to call this an 8 inch little
+35:40 feature strip. And then I'm going to
+35:42 specify this. Let's call this 52 in. So
+35:44 I got 52 and 8. Those are locked, right?
+35:51 So I could just spin this around again.
+36:01 right? And eight.
+36:01 You could do this with the backsplash
+36:02 tool and build those curves out and do
+36:07 all that stuff manually. I don't find
+36:07 that this is all that slow. I feel like
+36:12 it's pretty quick. And if I need to
+36:12 resize it on the fly, that's where this
+36:24 There's that 8 in feature strip again.
+36:24 So, what do I get to do with this? Well,
+36:27 I get to come in here. This is going to
+36:27 be a really awful looking thing. Um, you
+36:32 can kind of see where the split is, but
+36:35 use the component tool, component
+36:35 scoping. And there we go. There's my
+36:37 really ugly feature strip. [laughter]
+36:42 I'm good at making ugly showers. I tell
+36:46 you what, when I'm practicing, I uh I'm
+36:50 really good at it.
+36:50 So, with that feature strip, what can we
+36:53 do with that? You know, what else can we
+36:55 do? How can we set this up to be
+36:55 conducive to something that's very
+36:57 quick? Obviously, we can split this up,
+37:01 create the walnout,
+37:01 that kind of thing. Um, it works quite
+37:05 well. You can even, you know, end up
+37:05 creating a border tile very easily. It's
+37:10 the same kind of thing. Let's spin this
+37:13 around. Let's click on something here.
+37:15 Let's get to the layout vertical. We
+37:15 split this vertically. We take the other
+37:19 layout vertical. We don't need to change
+37:21 all the individual parts of this layout
+37:23 vertical. Instead, we're going to just
+37:23 change this to a door panel. Okay. Now,
+37:26 that door panel gets to be an item width
+37:32 of 3 in. And so this can be a border
+37:36 tile, believe it or not. Right? So I
+37:36 could just use the eyrop tool and you
+37:40 know this would be a poor excuse for
+37:40 border tile. Change to component scoping
+37:46 mode. There we go. That is our border
+37:48 tile. Now notice that the offset is
+37:48 there. That's because I'm not using the
+37:53 systembased panels that I had created
+37:53 this with. Okay? And that means that the
+37:57 default, you know, I could have updated
+37:59 this. The default door should have been
+38:01 that offset panel. How do I fix that?
+38:03 Well, I'm going to go find my library
+38:03 item that will fix that. So, that left
+38:05 hand side where I've got something here
+38:12 that is a door panel. Need to make sure
+38:14 that this is coming from my library in
+38:14 this case. So, that's that's the caveat
+38:20 of this system is you use you need to
+38:21 use the components that you built for
+38:21 this system. So, here's my pre-built and
+38:26 standalone. Here's the components
+38:26 folder, and we've got things named in
+38:29 specific ways. Back or sidewall is all I
+38:34 need to use in this case. So, there we
+38:36 go. And that's going to have that um
+38:38 that offset that puts it back into
+38:38 place, right? And now I get to create my
+38:46 little border tile. I can just
+38:46 paint like that. And then probably I
+38:49 would use the new interactive material
+38:51 editor in a component scoping mode which
+38:56 makes a copy of the tile and that makes
+38:58 it so that I can then just use the
+38:58 rotate handle and while I'm rotating I
+39:01 could hit tab or enter and say relative
+39:07 start 90°. So that would be that porter
+39:07 tile and I can rescale it etc. Right? So
+39:13 this is how we would do some elaborate
+39:16 tile configuration pretty easily. Now,
+39:16 what happens when you get this all built
+39:19 out? What does this look like in a plan
+39:22 view? Well, my labels just indicate the
+39:23 overall size of this. So, as we stretch
+39:25 this and change the size of this, it's
+39:27 going to change the update this. Am I
+39:27 okay with this? I'm actually okay with
+39:31 this just the way that it is. Could I
+39:31 just draw some CAD lines around this to
+39:35 make this more look more like a shower?
+39:35 Yes, I could. The other thing that I can
+39:39 do is if I've fully designed this out, I
+39:42 could convert the selected to symbol and
+39:45 make it as a fixture maybe interior and
+39:47 I don't need to show advanced options.
+39:47 And look at what it does. It converts it
+39:52 for me. The only thing that we're
+39:52 showing here is maybe I want to clean up
+39:55 these CAD lines. That means I just get
+39:55 to edit the CAD block. Use the line tool
+40:02 intersected mode. I can just select some
+40:05 things in an intersected mode and get
+40:07 rid of those lines or say no line on
+40:10 this particular
+40:12 polyline. Right
+40:14 there we go.
+40:14 Last one there. Delete that. There we
+40:17 go. That looks exactly like a shower to
+40:23 me. We can just save that. Save this
+40:23 instance of it. And that's how it would
+40:29 look in plan. Pretty good. The other
+40:30 great part about this is wall of
+40:30 elevations. Just cut through this. We're
+40:35 not generating a room with this. If you
+40:37 want to generate a room, you could. How
+40:37 would you do that? Just use an invisible
+40:42 wall. Simple as that. So, um, pretty
+40:42 powerful workflow. Very, very fast. I'm
+40:48 finding that when I convert plans for
+40:48 people from PDF or from an architectural
+40:51 set where they're going to do the
+40:51 interior scope of a project, something
+40:55 like that, it used to be that I would
+40:55 never ever try to recreate a shower and
+41:01 I would leave that to them. Now, I just
+41:03 throw this in there as a freebie, as a
+41:03 give me, and it just ups the value of my
+41:09 overall service. So, they have the
+41:09 shower that they need to start with, and
+41:13 they'll come back and ask me, "How do I
+41:14 do something with this?" And I Well,
+41:14 it's a cabinet. You can manipulate it.
+41:20 So, it's pretty cool. Um,
+41:20 I think I maybe should have done this as
+41:23 a live video. It would have been fun to
+41:25 get some interaction from people in an
+41:26 audience, but I wanted to throw this out
+41:28 here because again, it's Cyber Monday
+41:28 and this thing's on for sale and I think
+41:32 you should go pick it up. Thanks for

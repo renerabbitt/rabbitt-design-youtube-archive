@@ -1,0 +1,325 @@
+---
+videoId: RHCaDBwqLe8
+title: Mulled Window Tricks Ep 1 - Chief Architect X17
+url: "https://www.youtube.com/watch?v=RHCaDBwqLe8"
+status: imported
+---
+
+# Transcript
+
+0:00 What's going on, VIP? I'm going to show
+0:02 you a few tricks about creating transoms
+0:04 that you might not know. Stick around.
+0:06 I'm sure this is very helpful for those
+0:08 of you that uh what did I say? I said
+0:10 transoms.
+0:12 I meant mold units.
+0:15 I'm sure many of you out there have done
+0:17 some mold unit stuff and you'd like to
+0:19 know a couple little extra tricks that
+0:21 you probably have never seen before. So,
+0:24 stick around and watch this real quick.
+0:25 So, I'm going to start just by Well,
+0:27 first of all, I like doing this from an
+0:29 elevation view. I'm going to start by
+0:31 just placing a regular hinged door, and
+0:34 I'm going to place a fixed door next to
+0:37 it. I'm going to use temp dimensions to
+0:39 just set this dimension to 2 in in
+0:41 between the two. There we go. I like
+0:43 that. Then, I want to do something kind
+0:46 of funny. I'm going to open this object
+0:47 and I'm going to set my swing angle to
+0:49 something like 15°. And in options, I
+0:52 want to show that this is open in a 3D
+0:56 view. And I'll I'll tell you why a
+0:59 little bit later. Okay. Then I can
+1:01 select these two, make them a mold unit,
+1:05 and let's get to a window. I'm going to
+1:06 actually add a transom
+1:09 earlier. I'll show you right off the bat
+1:11 something that's kind of clever. Um, my
+1:14 next version of the pro plans is just
+1:15 just going to have this integrated. But
+1:17 for those of you that don't have my
+1:18 templates, you could get into the label,
+1:22 specify a label, and for those that
+1:24 don't have my templates, you're just
+1:26 going to stick with automatic label.
+1:28 Okay? And then after that, we could do
+1:32 some kind of an inline code that would
+1:34 be pretty clever, which is we're going
+1:37 to say
+1:39 vertical level stacking
+1:43 is greater than zero. A little question
+1:47 mark.
+1:49 Um,
+1:51 give me a little space in between here.
+1:54 Then um
+1:57 then we're going to put transom.
+1:59 Okay. Else
+2:03 going to put blank blank do quotes.
+2:06 Close this up percentage sign call. See
+2:09 if I did this right. So if I zoom out of
+2:12 this um you know what I know what it is.
+2:17 Vertical stacking level
+2:20 proper angle I guess.
+2:22 There we go. Notice how it's blank right
+2:25 now. That's because we didn't change the
+2:26 stacking level. Now, what is a stacking
+2:29 level? If we go look at this in I
+2:32 believe options, vertical stacking
+2:33 level. If you just hit the help menu,
+2:35 take a look what this is. Okay, we're
+2:38 going to see here if we zoom in on the
+2:40 help, which you can just uh I'm not sure
+2:43 we can zoom in. There we go. We can see
+2:45 this is in section four. We scroll down
+2:47 to section four. What or section five.
+2:49 What is this? Specify the window level
+2:51 that the selected window is placed on.
+2:53 not available for mold units. All right,
+2:56 so keep that in mind. It's not available
+2:58 for mold units. That does not mean that
+3:01 the code won't execute if it's there.
+3:04 The code that we just put in there. So I
+3:06 am going to put this to level one. Watch
+3:09 what happens. Look at that. We got
+3:11 transom in the name. Pretty cool. So
+3:15 what's the next thing that I want to do?
+3:17 Well, we can see what the overall height
+3:18 is here. 6'8. So, I could go, hey, I
+3:22 want my um overall height
+3:25 be what? What do I want this to be? Um,
+3:28 let's go uh 6'10
+3:32 minus my 4
+3:35 foot window. What does that give me to
+3:38 pretend? Oh, I did that all wrong,
+3:40 didn't I? I want this to be
+3:45 six foot.
+3:49 Resize this bad boy.
+3:52 Oh, try that again.
+3:56 Went up with some glitches. 24 in.
+4:00 Oh, that's funny. It's just adding 24 in
+4:02 over and over again. Uh, chief, your
+4:04 temporary dimensions are not working in
+4:06 elevation view. They're just adding 24
+4:08 in over and over again.
+4:12 Boy, you know, leave it up to me. I can
+4:14 break anything that Chief does. I tell
+4:16 you what,
+4:18 this is just bizarre. It won't let me
+4:21 specify this as 24 in. I guess we'll
+4:24 have to get in here and actually
+4:26 mess around with this.
+4:29 I love breaking chief, man. I really do.
+4:32 So, 24 that. And this needed to change
+4:35 828.
+4:37 That was funny. All right. Now, I can
+4:39 use the centering tool to center this
+4:40 up. Now, I do want this to be the
+4:42 overall size of this to be the same as
+4:44 the unit below it. So, couple things
+4:46 we're going to have to change, right?
+4:47 So, do see if we can get this to work,
+4:50 right? 4 foot2.
+4:52 Get that. No, we're not. That's just
+4:55 That's just putting in some arbitrary
+4:58 dimensions.
+5:00 Chief, what's going on?
+5:05 Let's do it in a 3D view. See if we
+5:07 can't get this to work in a 3D view
+5:08 because it clearly does not work in that
+5:10 other view. Work with two. Yeah, it
+5:13 works in this view. Good. Not an
+5:16 elevation. That's really funny. So now
+5:19 if I select the two, make this a
+5:21 transom.
+5:23 Excuse me. Make this a mold unit. There
+5:25 we go. So here's kind of my next trick
+5:29 with this is we can go ahead and find
+5:32 this, you know, schedule, right? So we
+5:34 got a window nor new schedule. Here we
+5:36 go. And it's being displayed as this.
+5:38 That might be great. That might be
+5:40 exactly what we need. But there are many
+5:44 instances where we're only mulling a
+5:46 unit just to show the trim to look
+5:49 correct in an elevation view and instead
+5:52 they need to be these individual units.
+5:55 So how do we adjust for that? I'm just
+5:57 going to select the row or excuse me the
+5:59 column in this case and find this object
+6:02 in plan or open this object from
+6:05 schedule. Let me open this object from
+6:07 schedule. And this is how we split this
+6:10 up. As we get to the label panel of all
+6:12 places and instead of showing single
+6:16 label, we will show component labels.
+6:18 What you may not have known is this
+6:21 splits it up in how it reports to the
+6:24 schedule. Notice this just split this
+6:27 all up. Okay, here's where something
+6:31 kind of tricky comes into play and
+6:33 something that I would like to do to
+6:35 give myself just a little bit more of an
+6:38 advanced look for this overall thing.
+6:40 I'm going to unmole these units. Okay,
+6:42 and instead I'm going to select
+6:44 everything that's here, open them up.
+6:48 Okay, you can't open up the window at
+6:49 the same time as the doors. So, we got
+6:51 to open up the doors by themselves. I'm
+6:54 going to get to the schedule panel. I'm
+6:56 going to include schedule as. I'm going
+6:58 to uncheck it as a door and I'm going to
+7:00 make it some kind of new custom
+7:03 category. What's this going to be? Mold
+7:07 unit one. Okay,
+7:10 there we go. I'm going to have it report
+7:12 to mold unit one. Same thing with this
+7:14 transom window. Wait, let me try to
+7:17 resize this 12 in. See what happens.
+7:22 Let's open this up. Hit the schedule
+7:24 panel again. Uncheck the window and find
+7:28 that same mold unit one. Now let me mle
+7:33 this all back together.
+7:36 Okay.
+7:38 And let me open this up. Make sure we
+7:42 are show showing component labels.
+7:45 Now when I get back to my schedule,
+7:48 notice that window is not there. If we
+7:51 were to go place some other window, not
+7:53 that my schedule's not producing things
+7:55 the way that it should be. It is. You
+7:57 can see this now. But I need to make a
+8:01 copy of my schedule and do this little
+8:03 number right here is uncheck door.
+8:06 Uncheck window. As you probably guessed,
+8:10 go find that mold unit. Look at this.
+8:13 I'm getting that component stack of that
+8:15 mold unit.
+8:17 Now the thing that you might do is
+8:20 change the heading to be unit one. What
+8:24 this means is I am not going to report
+8:27 these windows to my main window
+8:29 schedule. This is part of a mold unit.
+8:31 It's going to be separate from that
+8:33 window schedule. If you want to get
+8:35 super advanced,
+8:38 I do believe I have a video and if I do,
+8:41 I'll pin it to the top of the screen
+8:43 right now.
+8:48 And that video might be about
+8:51 eliminating
+8:52 um duplicate
+8:55 schedule numbers so that I could have
+8:58 this also be reporting to this window
+9:01 and door schedule and without creating a
+9:04 duplicate prefix schedule number. There
+9:07 is a way to do that. Okay, so if I had
+9:09 that video up, that's great. You learned
+9:11 something. If not, sorry. I think I did
+9:14 make it. I'll have to go find it. So,
+9:17 um, what's the next step here? Something
+9:19 that might be really nice for your
+9:21 builders, installers, is this is I'm
+9:25 going to go ahead and open up this mold
+9:26 unit and I'm going to switch the preview
+9:29 to a vector view. Remember earlier that
+9:32 I opened this, right? You do remember
+9:36 earlier that I opened this. What I could
+9:39 do is suppress labels and all views. And
+9:42 look at this little preview. Isn't this
+9:44 a nice preview? You could either show it
+9:47 in this view or you could show it in
+9:50 standard view. Um, and kind of kick this
+9:53 to like
+9:56 a true elevation view, etc. I'm not sure
+10:00 that glass view would work that well.
+10:03 Vector view. I like the vector view. You
+10:06 turn color off if you wanted to. Totally
+10:09 up to you. But what would be nice about
+10:12 this particular view is, hey, let's just
+10:15 grab a little screenshot, right? Grab a
+10:19 little screenshot. Press okay. Bring it
+10:21 back to where our schedules are
+10:24 and paste this as a picture. Now, you're
+10:27 going to have to bring this forward in
+10:29 the drawing order. But look at this.
+10:32 Wouldn't this be helpful to your
+10:34 installers? Kind of understand. Hey,
+10:37 this is mold unit number one.
+10:41 kind of clever,
+10:43 you know? I mean, that makes a lot of
+10:45 sense. There's a couple other things
+10:47 that we could do. Let me get rid of this
+10:49 little line there. There we go. You
+10:51 know, you could build a schedule that
+10:54 takes a screenshot of this as well.
+10:57 There's no option to show as component
+10:59 or showed as an assembled unit,
+11:02 unfortunately. But there's nothing
+11:04 keeping you from doing this, okay? is
+11:08 that we can come in here, open this up,
+11:12 change this to show single label.
+11:16 Let's go take a look at that schedule
+11:18 again.
+11:20 Notice that this is now a mold unit.
+11:22 There's nothing keeping you from
+11:24 screenshotting this as well. You know,
+11:26 we're cheating a little bit. Absolutely.
+11:29 They're absolutely cheating a little
+11:31 bit. And then you can come in here and
+11:35 get back to that window. Open it up. Go
+11:38 component labels instead. Right.
+11:42 And then do a little paste as a picture.
+11:45 Size this back down if you wanted to.
+11:49 You know,
+11:51 fall in line with what we've got
+11:52 existing.
+11:54 You'd have to mess around sizing of
+11:56 this, of course, but you could get this
+11:59 to Hey, here's our mold. This is our
+12:01 full assembly. There's our mold unit.
+12:04 Here's the components of that. Here's an
+12:06 image for it. I don't know, maybe this
+12:08 is helpful for you. And one little final
+12:11 maybe step is maybe you need a little
+12:14 bit of an installation instruction. So
+12:16 you could do a back clipped
+12:18 cross-section and you might be able to
+12:20 get that back clip cross-section in the
+12:22 middle of this assembly
+12:26 where
+12:27 dimensioning in between.
+12:32 How ugly can make this back clip
+12:33 cross-section?
+12:35 Maybe I'll get just outside of the door
+12:37 panel. I don't think we can clip it that
+12:38 way. Oh yeah, sure we can.
+12:43 That get me does get me the door panel.
+12:46 You can throw in some dimensions screen
+12:49 as well. Now I'm not a huge fan of the
+12:51 screenshot methods because that's a
+12:53 static thing. That would be the last
+12:55 thing that I did. But I know so many of
+12:58 you out there find doing such things.
+13:01 you're, you know, trying to get off the
+13:02 island, so to speak. These are just some
+13:05 kind of clever tools to utilize to get
+13:08 this all to work and jive well and and
+13:10 be clear to your installers in the case
+13:13 that, you know, we don't actually have a
+13:15 single whole mold unit.
+13:19 Hope this gave you some cool tips. I
+13:21 know for one, I I love the one that
+13:23 just, you know, shows that it's that
+13:25 it's a transom.
+13:28 Although right now that little way look
+13:32 at this in this view right here. It is
+13:34 showing it in this view. Look at that.
+13:37 Nice.
+13:40 Yeah. Neat.
+13:42 Till next time. Thank you as always.
+13:56 [Music]

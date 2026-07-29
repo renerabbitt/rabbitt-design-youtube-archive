@@ -1,0 +1,512 @@
+---
+videoId: 64w3zBWVSKY
+title: Dynamic Parametric and Resizable Single Object Hood Tutorial In Chief Architect
+url: "https://www.youtube.com/watch?v=64w3zBWVSKY"
+status: imported
+---
+
+# Transcript
+
+0:02 I
+0:02 love challenges like this. I love
+0:07 challenges like this.
+0:08 Um
+0:08 What challenge you ask?
+0:11 Someone asked how to make this bad boy.
+0:16 That right there.
+0:18 And so
+0:18 I love taking on this because my thought
+0:22 is always going to be how can I make
+0:24 this so that it's parametrically
+0:24 resizable so that I don't have a bunch
+0:26 of individual components that I have to
+0:34 That's it. That's the the gist of it.
+0:34 All right? And so that this is actually
+0:38 a lot simpler than you might think.
+0:38 So, oh well, I think it is anyways. Um
+0:42 this lower part is an obvious one to me.
+0:47 That's a base cabinet.
+0:47 Day in day out, that's a base cabinet.
+0:50 That's what I'm going to use for that.
+0:51 And so
+0:51 um I'm going to make a utility so that I
+0:56 can make any kind of hood that looks
+0:57 similar to this
+0:57 over and over again very, very easily.
+1:02 The upper portion of this is the more
+1:02 challenging part, which is that it's got
+1:06 a taper and it looks like it's got some
+1:09 relief joints like it's framed, okay?
+1:11 And so that's a lot more difficult.
+1:11 And so how do we do that? Well, we have
+1:16 a couple things that can create tapers.
+1:19 Both front cabinets can create a taper,
+1:21 so but it's a taper in one direction
+1:22 really.
+1:22 Um another thing [clears throat] that
+1:24 can create a taper is terrain. You could
+1:29 do a constant slope, right? You can put
+1:31 relief joints in it via some kind of
+1:31 terrain features and it's at a blown up
+1:34 scale and then you convert it to a
+1:36 symbol, you scale it back down.
+1:37 Uh but the main one that I'm thinking of
+1:40 is roof planes.
+1:40 So, that's what I'm going to do. Is I'm
+1:41 going to show you how to do this in roof
+1:44 planes real quick.
+1:44 And let me just get in here and draw a
+1:48 roof plane.
+1:48 Let me turn off auto build roofs, etc.
+1:52 And I'm going to just scale this way,
+1:52 way up. I'm going to say this is 24 ft
+1:57 is going to represent like 24 in okay?
+2:00 Is what I'm thinking and then let me
+2:04 just make a 45 here and
+2:04 and that's not a 45 let's make it real
+2:08 45 here there we go
+2:08 and then the next thing that I want to
+2:13 do is I'm going to just create a hole
+2:19 so we'll just start with that and we're
+2:21 going to come in here and let me just I
+2:25 don't know subtract 1.5 ft
+2:25 see what that looks like yep
+2:28 1.5 ft so if you're working in feet
+2:30 change the number style change it to
+2:32 decimal feet or feet fractional inches
+2:37 I'm going to do just decimal feet okay
+2:39 it's going to make this a lot easier
+2:42 so this is going to be minus 1.5
+2:43 there we go
+2:44 boom hit the home key minus 1.5
+2:49 and then
+2:50 this guy
+2:50 and get this kind of over here
+2:52 make perpendicular parallel bam and then
+3:01 and so sweet that's exactly what I
+3:03 wanted
+3:03 next step of this actually I'm going to
+3:06 bring this back a little bit
+3:06 I'll show you why in just a second I'm
+3:09 going to get to this corner and then
+3:12 minus 1.5 as well
+3:12 so now I'm going to copy paste this
+3:17 about itself and then union it
+3:19 and
+3:19 before I do that
+3:21 let me copy paste this right here
+3:25 perfect now I will union these two this
+3:31 is going to go super fast and easy
+3:31 and do I want to retain the original
+3:34 objects no
+3:35 and so we can copy paste this
+3:38 slide this over in fact we could do a
+3:42 little point to point
+3:45 slide it back
+3:46 1.5
+3:46 bam take this make perpendicular
+3:52 that
+3:52 thing
+3:57 Very cool.
+3:57 Very, very cool.
+4:06 And minus 3.5.
+4:06 Look at that. Pretty neat.
+4:09 Next thing I want to do with this is I'm
+4:15 going to take these and open this up.
+4:16 And I'm going to say, "Hey, we don't
+4:18 want any of this.
+4:18 We don't want any of this junk here. We
+4:20 don't want soffits. We don't want
+4:20 structure. We can zero this out. And the
+4:26 only thing that we want is some kind of
+4:27 a surface.
+4:27 So, we can delete all this other mess.
+4:34 And so, we'll just make this one
+4:37 as a surface. Okay.
+4:37 Enable facial blah, blah, blah, blah. We
+4:40 need to make sure we're getting rid of
+4:42 any gutter. We're going to get rid of
+4:43 any um
+4:43 cap, etc. Any kind of shadow board,
+4:50 delete, etc. Okay?
+4:51 Cool.
+4:51 Now, I'm going to get into these.
+4:53 General panel. And what's the pitch
+4:55 going to be? Let me change this back to
+4:59 our number style that I like here.
+4:59 And so, I'm going to say that this is
+5:03 like
+5:03 45 pitch.
+5:05 All right. And then I'm going to say,
+5:09 "Hey, this is a curved roof."
+5:09 And probably angle at the eaves going to
+5:13 be like 60. And let's go take a look at
+5:15 what we have so far in just a few
+5:16 minutes time. Look at that. Isn't that
+5:20 cool?
+5:20 That's pretty neat.
+5:21 All right. All right. So, I made a
+5:23 mistake and that's that I should have
+5:26 figured out what this hole needed to be
+5:30 to get this sized appropriately. So, I'm
+5:34 going to need to take this way, way up
+5:34 almost to the point where it's snapping
+5:38 to the edge in order to get this
+5:41 visually to the correct size.
+5:41 And so, there we go. Let's do that. And
+5:45 so, we can see here, you know, what's
+5:45 this distance? What's the diff- distance
+5:50 between the hole? And snap this and say,
+5:51 "Okay, it's
+5:51 3/4 of an inch." So, really all I need
+5:57 to do is I could just draw a line here
+6:00 and then duplicate that line
+6:04 And just be able to snap these other
+6:04 elements, other holes here to that line.
+6:26 So, let's go take a look. Look at this,
+6:28 uniform frame.
+6:28 Looking pretty good.
+6:31 Cool, right?
+6:31 So, from here, what do we do? And I
+6:34 mean,
+6:34 you know, is this worth it if it takes
+6:36 more than 5 10 minutes? Absolutely, yes,
+6:41 because we're going to use this over and
+6:44 over again. And we'll show you why in
+6:46 just a second. So, just bear with me.
+6:46 I'm going to copy this, paste this out.
+6:50 Let's go 500 inches, some known
+6:50 dimension that I can repeat if I want
+6:52 to. And then let's get rid of the holes.
+7:02 And so, we can just use the roof plane
+7:02 tool to just select all these, open this
+7:07 up, get back into that structure, and
+7:09 we're going to shrink this down to
+7:11 something like one,
+7:11 press okay, and now here's where kind of
+7:15 the magic happens is I'm going to
+7:16 convert this to a symbol, fixture, what
+7:18 have you, and just place it. And then, Q
+7:22 key again,
+7:23 bam, select this. I'm going to convert
+7:27 this to a symbol, bam, and be able to
+7:27 place it. Now, I should be able to get
+7:31 within
+7:31 striking distance of this, just like
+7:33 that. Place it one on top of the other.
+7:37 What do we have?
+7:38 Look at this.
+7:39 Isn't that beautiful?
+7:42 Right? That's pretty cool.
+7:44 So, what if we were to just take this
+7:47 now?
+7:47 Let's just go select this. Select this
+7:50 whole thing.
+7:50 Um convert this into a symbol.
+7:53 We're going to show advanced options
+7:56 this time.
+7:56 And this time, just want to retain the
+8:01 aspect ratio and let's just call it
+8:03 um width 48 in and
+8:04 place this.
+8:04 And then from here, should be able to
+8:06 take this, convert it one more time so
+8:10 that we're not doing any We're not
+8:11 keeping any resize parameters in there.
+8:16 And this time, I'm going to say hood
+8:18 as
+8:18 sink.
+8:19 Yeah, you guessed it. It's going to be a
+8:24 sink. Show advanced options.
+8:24 Fixture, okay. Advanced sizing, let's
+8:28 put it um a single stretch plane in the
+8:34 width there. Let's put a um
+8:34 a stretch plane in the depth at about -3
+8:37 in.
+8:37 That's going to be in the center of this
+8:44 recess panel. And then in the height, um
+8:46 I don't know, maybe we want to stretch
+8:46 just the very top of this. Now, I didn't
+8:50 think this completely through because we
+8:51 could have done one more thing that
+8:51 would have been really, really cool and
+8:55 maybe we still can. So, let's ignore
+8:55 everything else that I'm doing here. Um
+8:59 and let me just press okay and let me
+9:01 place it one more time.
+9:01 And so now what I want to do is I want
+9:09 So, I'm going to find one that I've
+9:09 already got downloaded. Something like
+9:12 this. Sure, there we go.
+9:12 And so I'm going to resize this. It'd be
+9:17 good if I had the right size hood
+9:17 insert. So, you know, if you could find
+9:21 the right size hood insert, um by all
+9:23 means go do that. That's what I would
+9:24 say to go do. Um that would be a pretty
+9:29 um clever thing to do, but uh just cuz
+9:31 purpose of me showing you this video,
+9:31 I'm not going to do that. So, what I am
+9:35 going to do is maybe I'll get this in
+9:36 here
+9:36 and maybe we'll put some trim boards
+9:39 around it and I'll size it up just
+9:42 slightly.
+9:42 See if I can size it up slightly. It's
+9:46 not letting me concentrically size it
+9:47 up.
+9:47 Interesting.
+9:53 All right, and maybe we'll just put some
+9:56 surface surface stuff here.
+9:58 So, we'll just make a
+10:04 And we'll just kind of snap it to these
+10:08 Uh
+10:08 it's not going
+10:10 do it. Let's just do a solid.
+10:23 Something's happening. I must be bound
+10:25 to One of my hot keys is sticking or
+10:30 Yeah.
+10:30 Something's not working right.
+10:32 Concentric resize is jumping. See that?
+10:42 Check our jump distance. Uh yeah,
+10:42 there's a jump distance in there. There
+10:44 we go.
+10:44 All right.
+10:46 Now we got it.
+10:50 And
+10:50 we'll just copy paste again.
+10:56 And get a hole in this solid just like
+10:59 this.
+10:59 Now so this is taking it a step further.
+11:03 Probably didn't need to do this.
+11:03 But why not? Let's do it anyways. So,
+11:08 let's go find all this set up here.
+11:10 Um so really
+11:10 I just want to
+11:13 take this
+11:19 subtract the inner one that we did. So,
+11:21 there's two in here, right?
+11:21 So, you're going to subtract that second
+11:24 one.
+11:24 Don't retain the original objects.
+11:28 This is going to get shrunk down.
+11:31 Something like that.
+11:31 And lift it up just a hair, if you want.
+11:38 And then we just need to make sure that
+11:40 um
+11:40 Actually, this is going to go down. It's
+11:43 going to go inset into a cabinet. That's
+11:45 what's going to happen.
+11:45 And that fixture, that appliance is up
+11:58 And so, you'll see in a second what I'm
+11:59 getting after.
+12:01 Okay?
+12:01 Don't you worry. You're going to see in
+12:06 just 1 second.
+12:06 There we go. So, now that I have all
+12:09 those things, this is when I'm going to
+12:13 convert this
+12:13 to a sink, okay?
+12:16 So,
+12:16 hood as sink.
+12:19 Show advanced options. Let's do that
+12:28 One in the width.
+12:31 Um we'll do
+12:31 We'll do one in the height.
+12:34 That's going to get a little tricky.
+12:37 Not sure that I have the perfect idea of
+12:40 where that's going to be.
+12:42 And the depth.
+12:42 I got to free it. It's going to put that
+12:45 in that recess panel. Now, in the
+12:45 options panel, here's where the magic
+12:48 happens.
+12:49 Is um
+12:49 if we knew exactly where
+12:52 the top of this hood is, that'd be
+12:54 really impactful. So, um I'm just going
+12:57 to do some guess and check here. It
+13:00 looks like it's about 7 in in.
+13:02 Yep, 7 in. So,
+13:02 um I'll leave that stretch plane there
+13:06 at 7 in.
+13:06 So, in the options panel, I want to
+13:12 insert into counter top -7 in,
+13:13 okay?
+13:14 And press okay.
+13:15 Now, let's build the rest of this. You
+13:18 know, we pasted this. Let's just take a
+13:22 look at it as a reference. This right
+13:24 here is just the molding. Here's our
+13:26 doors. Here's our molding. So, let's
+13:36 It's 30-in depth, why not?
+13:38 Open this up.
+13:38 Um let's make our overall
+13:44 height maybe 10 in.
+13:44 Toe kick. Um let's just say that the toe
+13:48 kick is
+13:48 3/4 of an inch.
+13:50 Um we're going to say that the box
+13:54 construction is inset.
+13:54 We're going to say that um here's
+13:56 our molding. I'm just going to put a 1
+13:58 by 6 that I have fashioned to be a 1 by
+14:02 1.
+14:02 So,
+14:04 4 in zone,
+14:05 not to the top. That's going to go to
+14:08 the base.
+14:09 And then
+14:13 It's going to the base and the base has
+14:15 a recess in the toe. So, we're just
+14:15 going to make sure that the depth is set
+14:19 to zero on that. Perfect.
+14:21 There we go.
+14:21 Um we're going to make this some kind of
+14:26 a framed door. So,
+14:26 or in this case, I think it's a drawer.
+14:34 door
+14:34 I need to might need to apply a frame to
+14:38 this.
+14:38 Right? Drawer is slab. So,
+14:40 so let's clear this. And now it's a
+14:44 framed one.
+14:45 door drawer
+14:46 door handles, none
+14:54 Right? Now we can split this.
+14:54 We can say that the right side matches
+14:58 the front.
+14:58 Left side matches the front, why not?
+15:03 Right?
+15:03 Now we're going to say that our
+15:05 we got a uniform overhang of 0 in,
+15:10 and now let's apply
+15:11 some kind of a molding.
+15:12 And let's actually just say that this
+15:16 whole thing is Let's call it 14 in
+15:17 height.
+15:17 And in this case, our molding Let's just
+15:21 say our molding's going to be 4 in. So,
+15:24 let's just make our counter top 4-in.
+15:26 So let's add a crown molding.
+15:29 And so let's go
+15:31 CM
+15:31 CM what? CM
+15:34 Oh, let me do this one. Sure, why not?
+15:39 So I can make this that 4-in
+15:39 pretty easily. Make this that.
+15:45 Keep the perspective 3.5 something like
+15:46 that.
+15:46 That's to the top. Very cool. Perfect.
+15:51 This is looking really good.
+15:51 Here's the last part. Here's our hood as
+15:56 a sink. It's a sink. What do we get to
+15:58 do? We get to place it like a sink.
+16:00 Isn't this cool?
+16:00 And just like a sink and let's go track
+16:04 down our cabinet. Here it is, right?
+16:06 Let's paint this bad boy. See what's
+16:08 happening here.
+16:09 Paint the whole object. Paint the whole
+16:12 object.
+16:12 Isn't that pretty slick? Let's get rid
+16:15 of this terrain so we see what's going
+16:17 on here.
+16:17 And we missed one part. We need to say
+16:21 that this box construction has no
+16:24 bottom. Once we do that
+16:24 Um these need to not be drawers. So
+16:26 they're going to be drawer panels in
+16:29 this case.
+16:29 Um so or drawer panel.
+16:36 Wait, we're not seeing the box or they
+16:38 could have been doors.
+16:38 Now we should see that hood. We need to
+16:42 get rid of the separation.
+16:42 You know, just working through this.
+16:47 Right? Get rid of that separation.
+16:49 Look at that.
+16:49 Isn't that slick?
+16:55 So we just get to tab into the sink.
+16:55 Remember that, right? We just get to hit
+16:59 this cabinet.
+17:01 Tab.
+17:02 Oop.
+17:02 That was not working for me. There it
+17:05 is.
+17:05 Slide this back to the back. Slide this
+17:08 all the way to the front. Now it's
+17:11 covering the entire thing.
+17:11 This is what it's going to look like.
+17:14 Isn't that cool?
+17:14 So my offset here is a little off. You
+17:17 know, I could have brought this down for
+17:20 the size of this cabinet. But, watch
+17:20 what happens when we just shrink this
+17:23 up. This is what's so cool about
+17:23 parametric modeling is you get to resize
+17:30 this dynamically and all these elements
+17:32 will resize with it.
+17:32 So, you just get to resize the sink.
+17:35 So, there we go. Not only that, but you
+17:39 can open the sink up.
+17:39 You can tell it that it's taller.
+17:44 72.
+17:44 Right? And that's where our stretch
+17:46 plane came in into play. So, the stretch
+17:50 plane's in a bad place. And we'd
+17:50 probably just take away the height
+17:54 stretch plane, period.
+17:54 All right, so that's going to do that.
+17:58 Oh, actually, that's not true.
+18:00 We want the stretch plane
+18:01 to be
+18:01 roughly 6 in maybe.
+18:08 Or no, that's Yeah, we need a little
+18:08 experiment. Maybe instead, we'll put it
+18:12 at the very, very top.
+18:12 So, let's reset the object size so we
+18:14 know where the top is and so put this at
+18:18 the 6-in mark.
+18:18 And then open this bad boy up one more
+18:22 time.
+18:22 Set this to that 72 and see what
+18:25 happens.
+18:25 There we go. So, now it's just
+18:26 stretching that top piece. So, it's a
+18:31 little tricky, you know? There's a
+18:33 little There's a caveat there.
+18:33 Some things that we're a little limited
+18:37 on, but for the most part, you now have
+18:39 a dynamic tool that you can use over
+18:39 over over and over again, especially if
+18:44 you build a few of these.
+18:46 Right?
+18:46 Pretty damn cool. And notice that this
+18:49 has an emitter. So, when I select this,
+18:53 I can turn on and off that light and it
+18:55 will emit
+19:00 our space.
+19:02 Yeah.
+19:02 Yeah, yeah, yeah.
+19:06 So,
+19:06 20 minutes. Took 20 minutes. I know that
+19:11 was fast. Maybe maybe you longer, but I
+19:14 now have this to use
+19:14 forever and ever. And what's really cool
+19:19 about this, again, is we have elements
+19:19 here that we can trade out over and over
+19:25 again. If I type in crown and I get into
+19:28 some additional crown molding here, we
+19:30 get to just hover over, click, and
+19:30 replace, and we are replacing the crown
+19:35 molding there for some other profile.
+19:35 Right? I get to hover over, click, and
+19:39 replace, and I'm replacing the crown
+19:39 molding for some other profile or this
+19:44 molding for some other profile. You'll
+19:45 just have to mess around with the
+19:45 offsets in the dialogue box. Is all that
+19:51 that is. So, pretty neat.
+19:52 Pretty neat.
+19:52 Um that's it. Till next time.

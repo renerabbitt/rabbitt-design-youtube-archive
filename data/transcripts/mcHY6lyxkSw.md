@@ -1,0 +1,87 @@
+---
+videoId: mcHY6lyxkSw
+title: Pro Plan Exterior Elevation Cameras
+url: "https://www.youtube.com/watch?v=mcHY6lyxkSw"
+status: imported
+---
+
+# Transcript
+
+0:02 the prop plan has several elevation
+0:02 cameras here in the working plan view
+0:04 when you first open it up that are these
+0:09 long elevation cameras with the dash
+0:09 line and call outs on either side the
+0:12 purpose of these are they're placed in
+0:16 such a way that they're outside of a
+0:17 Terrain perimeter and the terrain
+0:17 perimeter is built to just kind of give
+0:22 you a good 3D overview so the size of
+0:24 the terrain perimeter doesn't really
+0:24 matter but it's there to just give you
+0:29 some good visuals and Graphics so this
+0:29 is an out of the Box elevation okay and
+0:33 if we were just to tile this I'm going
+0:35 to show you what happens when we move
+0:38 this terrain camera in towards the
+0:38 building and once we finally cross the
+0:40 plane of that terrain marker we're going
+0:43 to see we're going to get an automatic
+0:46 dash line for the footing and uh stem
+0:48 wall below that terrain and then one
+0:48 more thing you might want to do if in
+0:51 fact you do want to show this dash line
+0:55 which I kind of reserve for
+0:55 cross-section views I actually prefer my
+1:00 terrain completely block out my stem
+1:00 wall and footing but if you do want to
+1:02 show it you might uh consider coming in
+1:07 here into the terrain specification
+1:07 dialogue box and set this skirt to just
+1:11 be zero inch thickness and that'll just
+1:13 be a single line that'll that's what
+1:13 that will look like right so the other
+1:18 thing that um is nice about this setup
+1:20 is that we don't really have to worry
+1:20 about if this is in the drawing sheet or
+1:24 not because when we switch to print plan
+1:27 views we can turn off the view of these
+1:27 so if I need to do something like create
+1:32 a break in this elevation and manipulate
+1:34 that elevation camera around some kind
+1:36 of feature like maybe I had a shed in
+1:38 the backyard and I want to manipulate
+1:38 this around that feature I don't really
+1:43 have to worry about the display of this
+1:45 call out camera because what we have
+1:45 here are other callouts that are linked
+1:51 to that call out camera so if I were to
+1:53 open up a
+1:53 layout and then let's
+1:55 just come back to this View and send
+1:59 this to that layout view so I'm going to
+2:04 take that elevation camera and we're
+2:04 going to send this to that view now keep
+2:09 in mind um I think because I broke this
+2:11 we no longer have that dialogue to send
+2:13 this to a layout but here we go I'll
+2:13 send this to layout and then we'll see a
+2:17 couple things here back in the working
+2:20 plan view after this populates um its
+2:21 plot
+2:21 lines so back in the working plan view
+2:23 we can see a couple things happen one we
+2:29 picked up the the label from the layout
+2:32 but ALS so that linked call out also
+2:34 picked up that label from the layout
+2:34 what does that mean well I have these
+2:38 here so that you as you build your
+2:38 project out can very easily maneuver
+2:41 this call out anywhere you like and this
+2:45 does not affect the display of the
+2:48 elevation camera all this is is a
+2:48 representation of the call out for that
+2:51 display so that it's very easily telling
+2:56 us hey if you need elevation 3 go to
+2:56 page G1 so that's the purpose of these
+2:59 elevation C cameras and why they're set

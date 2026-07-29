@@ -1,0 +1,420 @@
+Title: Model a custom sink with cutout in Chief Architect X15
+URL: https://www.youtube.com/watch?v=vhCIB9W7GFg
+Visibility: members-only
+
+0:01 what's up what's up
+0:05 VIP I got a special version of my Pro
+0:07 Plan that I'm using for modeling stuff
+0:10 which makes things a lot easier I've got
+0:12 a backed clipped cross section here I'm
+0:16 going to bring that in towards the
+0:18 opening of the page here and then open
+0:19 this up what I'm going to do in this
+0:21 video is make a sync someone gave me
+0:23 this idea Rob up in Canada gave me this
+0:26 idea figured why not let's carry through
+0:28 with this um this uses a special macro
+0:31 Zoom Dimensions thing so it's really
+0:33 easy for me to Dimension really tiny
+0:35 things so here we go I'm going to use
+0:37 the line key start drawing this out I
+0:40 think I want a half inch um I want like
+0:44 an e/ inch
+0:45 radius here in the corner but let me
+0:48 just make it half inch that's fine make
+0:50 it half inch bers checked there we go
+0:55 um draw this up I want the side walls of
+0:58 this to maybe be 12 in and then would it
+1:03 be nice if it dropped you dropped the
+1:05 zoom camera at the end of this line when
+1:07 you drew out a line um then I'll draw
+1:09 this flange out it's going to be about
+1:12 let's just call it inch and a
+1:14 quarter
+1:16 and and then from here I just get to
+1:19 copy paste and then use that node to do
+1:23 an offset and we'll pull that offset and
+1:25 I want an E8 inch sidewall on this sink
+1:29 and then it should be able to take this
+1:30 continuation handle snap it to Dad line
+1:34 above and then close this
+1:37 polyline now I want to fill it I don't
+1:40 care about this side because I'm trying
+1:42 to keep the number of um poly count down
+1:46 so I want to fill up this top side I'm
+1:48 going to hold the F key let go of it
+1:50 drag this out in a Direction tab input
+1:54 eth of an
+1:56 inch I can type there we go and kind of
+2:00 the same thing down here I want to make
+2:02 the same thing so f key hold that slide
+2:05 it in eighth of an inch perfect there we
+2:07 go now let's convert it to a face okay
+2:12 and we can turn solids on this view
+2:14 don't care about that I'm going to
+2:15 select this Edge and going to revolve
+2:18 this object 90 Dees all right bam so
+2:24 that should be it now let me go pull a
+2:28 camera view here
+2:32 there we go that's this guy right here
+2:35 and so I think on this side I'm going to
+2:38 make I'm going to make this half the
+2:40 distance of My overall sync length um we
+2:42 can see down here in the the Gizmo this
+2:45 is positive excuse me positive Y is
+2:48 towards the leg so we need to go
+2:50 negative y I'm going to go
+2:52 negative uh let's make it a 17 in uh 27
+2:55 in sink so divided by two so -3 1/2 this
+2:59 way let's select this
+3:02 side I can get that side there we go
+3:05 extrude this and we're going to go let's
+3:08 go -7 and A2 why not and from here copy
+3:12 paste reflect about see if you can catch
+3:16 this Edge that's always challenging
+3:18 there we go it's a little
+3:20 easier a little easier sometimes down at
+3:23 the bottom but if we had put this in the
+3:25 center of the terrain that would have
+3:27 been a good idea so let's do that
+3:28 instead cuz that's so much easier right
+3:31 except for that this is dead center
+3:35 that's not
+3:36 easier oh I wish they fixed this to the
+3:39 point where I could really pick up this
+3:41 Edge easier so this is why I like to use
+3:44 this tool because this tool makes things
+3:47 a lot easier so I could say from the
+3:50 terrain in this case one inch and I can
+3:54 just drop this so that it's Center this
+3:57 guy is actually Center the edge of this
+4:01 thing
+4:02 right and now that's dead center this
+4:05 just makes it easier just makes it so
+4:08 much easier let's pick this up a little
+4:09 bit so we're not even fighting it there
+4:12 we go so now I can copy paste and do it
+4:14 about this whole piece oops copy paste
+4:19 reflect there we
+4:24 go I can't wait till Chief fixes that
+4:28 let me Union this whole sink and then
+4:31 what I want to do is I'm going to cut
+4:32 out the middle of this base so I'm
+4:35 actually going to draw out
+4:37 solid just like
+4:40 this like that drag it up that's about
+4:44 right I'm going to drag this through the
+4:47 bottom force it through the bottom I'm
+4:49 going to Center this
+4:50 up okay and then we can just take this
+4:54 subtract that bam and now the next piece
+4:59 of this little puzzle I'm going to put
+5:01 in a a little polyline here to start and
+5:05 this is going to be my drain assembly so
+5:08 I'm going to make this three in and then
+5:11 make this three in Center this guy up
+5:15 make sure he centered up there we go
+5:17 actually want to make a little bit of an
+5:18 offset here I'm going to hold shift so
+5:21 that I'm not picking up any other weird
+5:23 snaps or at least that's what it should
+5:26 have been happening there very strange
+5:29 let me just do a point to point then and
+5:31 I'll hold shift there we go there's my
+5:34 offset
+5:35 okay and so let's convert this to a
+5:38 solid 3D solid let me pull back
+5:42 to my elevation camera where I can see
+5:46 the solid and what I want to do is I
+5:49 want to make the um the drain of this
+5:52 sink I want to
+5:54 make um the base of the sink meet this
+5:58 and this is going to be essentially to
+5:59 where my drain of my sink is
+6:03 okay so let's pull back to this view I
+6:07 can now use the face tool pick up this
+6:11 little corner here pick up this corner
+6:13 over here pick up the corner of my solid
+6:16 here and the other corner and then click
+6:20 one more time and you're generating your
+6:22 face all right so we could take this
+6:25 copy paste reflect about that's going to
+6:27 get that on the other side that's great
+6:30 and then base tool is still active so
+6:34 should be able
+6:39 to pick this snap
+6:42 up sure you're picking up the right
+6:46 snaps click twice there we go same thing
+6:50 up
+6:56 here and that last snap can be maybe a
+7:00 little bit difficult got to get in here
+7:01 at the right angle this is why that 3D
+7:03 mouse is so great sometimes and look at
+7:06 this it's not getting it to me so
+7:09 sometimes I got to mess around with this
+7:10 a little bit let me cycle back through
+7:11 my
+7:13 tools I'll just start with these two
+7:15 there we go that picked it up Bam Bam
+7:21 and
+7:22 Bam and one more set it in there we go
+7:27 there's my sink essentially so so the
+7:30 next thing I want to do is I want to get
+7:31 rid of this guy right here I don't
+7:33 really need him actually that's not true
+7:35 it might be nice to use it a reference
+7:38 for where that sink Train's going to be
+7:40 so let me select next side in this case
+7:44 so I'm going to use the select next side
+7:47 tool okay and then from there I can drag
+7:51 this up like
+7:54 so and now let's get back to that
+7:58 elevation View I'm actually gonna clip
+8:00 this elevation view a little bit so here
+8:03 it's a back clipped elevation remember
+8:05 that so I can actually bring this back
+8:08 clip um actually I want to bring the
+8:10 forward clip bring the forward clip just
+8:13 inside of this right now let's take a
+8:16 look at what this looks like look at
+8:17 that cool right so we can see the angle
+8:21 of this those sink faces so I'm going to
+8:24 just use my L key this is going to be
+8:27 what Center of syn is is yep center
+8:31 sink's right there so all I'm doing here
+8:35 then is I'm going to draw out a little
+8:39 drain assembly bam right there take that
+8:43 I'll continue this just up above that
+8:46 diagonal okay I can take this straight
+8:49 out this is essentially is my
+8:51 flange I can take this up eth of an inch
+8:54 I like that take this
+8:57 over now this is going to come down okay
+9:01 it's going to be the bottom
+9:03 there take this over
+9:06 again and what I want to do is I'm going
+9:08 to snap to the this middle section I'm
+9:10 going to inference snap to the middle
+9:12 section tab or enter and I'm going to
+9:14 subtract the radius of that Center piece
+9:17 and so I think the radius of that Center
+9:19 piece is going to be about um uh 316
+9:23 okay so I'm going to subtract
+9:27 316 bam all right and so so if I drew
+9:32 this out and snapped it to the center
+9:35 that should be 3/16 yep you got it right
+9:38 so not doing that so here we go now
+9:41 we're going to take this
+9:43 up maybe about yay far take this out
+9:47 let's call this 316 as well take this up
+9:52 and back to Center and then we can close
+9:55 this polyline and there's our shape so
+9:57 this is going to be my drain all right
+10:00 so same thing convert this to a
+10:04 face and I'm going to revolve
+10:08 this this time
+10:10 360° okay here's my drain assembly let's
+10:13 take a look at what this looks like
+10:16 there it is right there so we do need to
+10:18 Center this up on this guy right here
+10:20 look at that now we can get rid of the
+10:22 square and we're going to notice a few
+10:25 things obviously um the flange might not
+10:28 cover the face or we might have some
+10:30 problems there um so in that case you
+10:33 might have to do a little bit of
+10:34 adjustment I'm just going to bring this
+10:35 forward just a little bit this is going
+10:37 to help me cover that just a little bit
+10:40 going to help me cover that
+10:43 right so that makes a big difference
+10:45 let's bring this into a plan View and
+10:48 let's get this camera out of the way and
+10:49 we can actually see how we brought this
+10:52 in on this side well we could just work
+10:54 this around so we'll pick up pick up a
+10:57 snap here now sometimes these snaps are
+10:59 really difficult to get a hold of so
+11:01 I'll draw in some kind of polyline but
+11:03 in this case this is working just fine
+11:06 just inside of that flange makes this
+11:09 super
+11:10 easy okay bam take a look at what I've
+11:14 got going on here get that camera back
+11:17 into place bam so because we
+11:22 um let's paint this a material that we
+11:24 can actually see just go plan paint the
+11:27 whole thing and now I want to explode
+11:31 this shape okay want to explode this so
+11:34 explode that I'm going to take this base
+11:37 right there I'm going to use my adjust
+11:38 materials tool change it to component
+11:41 mode and just change the top here okay
+11:44 perforated is what this is going to be
+11:47 and in my material store of things that
+11:50 I have I've got a texture source that is
+11:53 perforated in my materials so I'm going
+11:55 to go into Metals this is an alpha map
+11:58 so it's a PNG G with
+12:00 transparency where um these black
+12:03 sections are transparent okay is how it
+12:06 should be um that is a PNG are we're
+12:09 going to see through it no so in fact
+12:11 that was not a PNG let's go make it one
+12:13 going to fire up Photoshop real quick
+12:15 and just make sure that this is an
+12:17 actual
+12:19 PNG and since we're still kind of in
+12:22 this window let me make sure maybe I I
+12:24 do
+12:26 have perforated clip per ated bump yeah
+12:31 these are pgs but they don't necessarily
+12:33 have trans here we go perforated round
+12:35 Alpha is what I've got it see now you
+12:38 can see PNG is actually see-through but
+12:41 I'll still show you how to utilize this
+12:43 regardless now if this worked correctly
+12:46 you should still should be able to see
+12:48 through it now the other thing I want to
+12:50 do is I want to blend with texture in
+12:51 this case um I'm going to say that this
+12:56 is metallic that's great I'm going to
+12:58 take out this roughness map and specify
+13:01 my roughness
+13:03 instead and then I might need to change
+13:05 the size of this mapping as well so
+13:08 won't change this texture size until
+13:11 maybe it's going to be a 5 inch or so
+13:13 there we
+13:17 go now let's see what happens when we
+13:19 switch to array Trace view there we go
+13:22 you see that perforation there bam
+13:25 cool look at that isn't that a fancy
+13:28 looking sync now I do have a tutorial in
+13:32 another um in one of my YouTube videos
+13:35 that makes this next process really
+13:36 really simple I would tell you that this
+13:39 next part of the process is um
+13:42 complicated when I don't reference that
+13:44 video but I'll see if I can't do it from
+13:46 memory anyways so let me pull this
+13:48 camera back I'm going to grab this
+13:51 everything that's here convert this to a
+13:54 symbol it's going to be a fixture I
+13:56 don't need to add it to my library but I
+13:58 do want to show Advanced options the
+14:00 first time around in the options section
+14:03 we're going to say that this inserts
+14:06 into a countertop and then under options
+14:09 section we're going to switch this to
+14:11 syns Kitchen the next part of this is in
+14:15 the 3D we need to know what the height
+14:17 of this is so I'm going to take the
+14:18 height of this and in 3D I'm going to
+14:21 subtract that height minus an
+14:24 additional well you could say 3/4 or you
+14:27 could say inch and a half totally up to
+14:29 you I'm going to say um 3/4 in this case
+14:32 3/4 would make a lot more sense for me
+14:35 um because that that assumes that we got
+14:37 a 3/4 inch granite slab sitting on top
+14:39 of this okay so there we go that's 3/4
+14:42 of an inch sitting below a surface and
+14:45 then the last bit of this is we need to
+14:47 generate a cad block um so let's just
+14:51 I'm going to take this I'm going to oh I
+14:54 didn't place that symbol so let me get
+14:56 back to tools symbols
+14:59 hit last symbol there it is okay now I
+15:03 want to architecturally block this and
+15:06 then add it to my library in case I need
+15:07 to work on it again and then I'm going
+15:09 to get it out of the
+15:11 way okay so now here's my
+15:15 symbol let's um I need to edit this CAD
+15:19 block so let's edit the cad block I want
+15:22 to copy this CAD block okay I'm going to
+15:24 copy this forward I'm going to bring it
+15:26 back into Chief and paste it and then
+15:30 here's where I set up exactly where
+15:33 oops where I want my countertop cut so
+15:36 I'm going to copy paste this
+15:39 item bring it out let's just say hey 58
+15:45 yeah sure why not 5/8 of an inch okay
+15:49 I'm going to convert this to a
+15:51 countertop all right and then I'm going
+15:54 to specify that this is a hole in the
+15:57 countertop
+15:59 now that I have that well first I want
+16:01 to take these two little pieces here and
+16:04 reflect about might want that in my SN
+16:06 symbol I'm going to block this entire
+16:09 thing I'm going to open this block and
+16:12 I'm going to call this grabs sync
+16:15 block right something I can recognize
+16:18 now I need to open this guy and in the
+16:21 2D block section need to find grab sync
+16:25 block bam there we go now I can save
+16:30 this to my library okay and so what
+16:33 happens now when we put in let's just go
+16:34 into new plan and we're going to throw
+16:37 in a cabinet and let's just resize this
+16:40 bad boy and let's grab that
+16:43 sink cabinet is not large enough to hold
+16:46 the sink oh interesting why is that oh
+16:49 because I've got it turned I'm going to
+16:51 open that from my library and rotate
+16:54 this so you noticed here that it's
+16:57 facing the wrong way right so we rotated
+16:59 about Z there we go now we should be
+17:02 able to this in here and notice that the
+17:05 cad block needs to be rotated as well so
+17:10 in back in my library let's edit that
+17:13 CAD block real quick you got to rotate
+17:18 this lets
+17:20 me doesn't want to let me oh because
+17:23 that's because it's right here
+17:25 maybe it
+17:30 say all right so one of these was my cad
+17:34 block sink here's my
+17:38 cad so let me open this up sync
+17:42 block yep should be
+17:47 it let's explode it and then reblock
+17:52 it grabs sync there we
+17:56 go and maybe we will open the object
+17:59 from the library and reassociate
+18:04 that there we go Bam Bam Bam so now this
+18:08 is good we're troubleshooting as well
+18:11 right so now come back into that plan
+18:13 view I'm going to replace
+18:17 this there that's appropriately cutting
+18:21 that sink let's go take a look at what
+18:23 it looks like hopefully I got everything
+18:25 right here look at that look at that
+18:28 look at that look at that cool
+18:32 huh is't that neat now the last bit of
+18:36 this is looks like um the material that
+18:38 I have once we exploded this is not
+18:41 quite right so let's draw this oh no
+18:46 that's correct probably add a little
+18:48 roughness map in here this is where that
+18:50 pearing noise comes into effect so me um
+18:54 change this on the entire plan level and
+18:57 then uh something I'd like to do is just
+19:00 in the bump map and also the roughness
+19:02 map bump map I want something very very
+19:06 subtle so brushed bump map can use
+19:08 something like this and knock that way
+19:11 down and then roughness map maybe we've
+19:15 got something a little bit stronger
+19:19 here a little bit shine
+19:23 you now we've got some movement in this
+19:26 just a little bit see it's the noise but
+19:28 but yeah movement very cool then if we
+19:33 drop in a light or see
+19:36 some new looks in there anyways there
+19:40 you go I'm curious what I ended up with
+19:43 with um my poly count here po count was
+19:47 4,000 not terrible um so cool till next
+19:52 time
+19:54 [Music]

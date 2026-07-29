@@ -1,0 +1,2142 @@
+---
+videoId: EweQdOWm4bw
+title: Work on the Same Chief Architect X-13 Plan at the same time? Not quite, but close!
+url: "https://www.youtube.com/watch?v=EweQdOWm4bw"
+status: imported
+---
+
+# Transcript
+
+0:09 all right all right all right
+0:12 live we're live we're live again
+0:12 we're live again i'm gonna try to do a
+0:14 lot more of this so you guys can see my
+0:18 workflow pick up on some tricks
+0:18 a little shameless plug i'm not going to
+0:22 be putting this on my usual social
+0:22 channels on facebook but this is just
+0:23 going to stay within the rabbit design
+0:25 feed so i don't have any problem telling
+0:29 you this i do offer a
+0:29 number of different training services so
+0:33 if you're picking up a lot of cool stuff
+0:35 just from these short videos imagine
+0:35 what we can do with some one-on-one time
+0:39 or even group setting i train full
+0:40 offices all the time
+0:40 i do production drafting where i record
+0:45 what i'm doing at about a 80 speed clip
+0:45 so you can go review what i did but also
+0:49 push your project forward
+0:50 um
+0:50 and this is fun for me i like doing this
+0:54 i like giving back to the community so
+0:56 i'm hoping you guys are chiming in on
+0:56 this stuff seeing you know take getting
+0:59 some good takeaways and this is live
+0:59 right now this is unedited i don't have
+1:03 a script this is just me picking up my
+1:05 headset putting it on
+1:05 and jumping right in so you're going to
+1:08 see me doing you know in these feeds
+1:08 you're going to see me with some errors
+1:11 you're going to see me doing my usual
+1:11 goofy thing i have fun while i work so
+1:16 i'm goofy i'm listening to music right
+1:19 now that's a lot of fun for me
+1:19 and i just get into my zone and start
+1:22 doing things
+1:22 this feed let's jump right into it what
+1:27 we're doing in this feed is
+1:27 we've got let's just say we've got a
+1:29 project it's at its deadline we're at
+1:31 that oh shoot moment we got to get this
+1:37 project out right now and we don't have
+1:37 we can't have just one single individual
+1:41 push this out there's not enough time in
+1:42 the day we don't have someone skilled
+1:42 enough or there's just simply too much
+1:46 of a workload to get this thing to a
+1:46 deliverable where our deadlines tomorrow
+1:50 so what do you want to do well you want
+1:51 to do what we can do in some of these
+1:51 other softwares where we can work on the
+1:55 same file live at the same time and have
+1:58 those edits be committed well we can't
+1:59 do that in chief we don't have that
+1:59 ability in chief it's not built into the
+2:04 into you know into the software
+2:04 but there may be a few things we can do
+2:08 in order to
+2:08 you know group tasks some things on one
+2:12 project and then bring them together
+2:12 in a timely fashion so that if we are on
+2:17 that deadline pace right we've got to
+2:17 get it out tomorrow and we've got teams
+2:20 that could work on it but we can't work
+2:22 on at the same time maybe there's a
+2:22 method let's take a look at it let's see
+2:26 what i come can come up with so here you
+2:27 go i've got an as-built plan sitting in
+2:27 front of us and we're just taking a look
+2:31 and
+2:31 and here's my first thought is
+2:34 we've already kind of in one of my
+2:35 previous videos we kind of went over
+2:37 bringing in a canvas scan bringing it
+2:41 from one plan into a template plan
+2:44 and and that works there's there's
+2:44 message methods for that that work so
+2:46 it's along that same thought process can
+2:51 we designate an area that one team
+2:51 member is going to work on and then an
+2:53 area that someone else is going to work
+2:55 on
+2:55 and then bring those two together after
+2:59 the work is complete into one main plan
+3:01 file and i think i think that's a
+3:03 possibility so
+3:04 let's give this as a for instance say
+3:08 i've got someone we've got a designer
+3:08 that's already tasked with um you know
+3:13 redesigning the master bedroom closet
+3:13 and bathroom over here on this far wing
+3:16 of this particular project if you're
+3:16 familiar with plan view hopefully you
+3:19 are if you're in this software we're
+3:20 looking at a master bedroom off of a
+3:21 wing here
+3:22 let's just call it
+3:24 the
+3:24 the east wing here
+3:26 and and so we've got one team member
+3:28 they're going to be working exclusively
+3:30 in this area now you could split this up
+3:34 into multiple plan files and leave it as
+3:36 such and then bring them into layout but
+3:38 then if we're modifying fenestration we
+3:40 don't have true elevations we've got
+3:40 problems with that it doesn't carry over
+3:44 so then you can you've got a bunch of
+3:44 versioning complications there i don't
+3:48 really love that method so
+3:48 especially if we've got um things that
+3:51 are designed where they have to kind of
+3:55 coincide right so we do ultimately want
+3:58 one plan one master plan
+3:58 so what we're going to do is we're going
+4:00 to get together we're going to talk
+4:00 about our area of work where team member
+4:06 1 is going to work on this wing and i
+4:06 know that and that's what they're going
+4:08 to work on that's fine they can go off
+4:10 to their desk and start working on it
+4:12 right now let's get to it
+4:12 i being team member two i'm going to
+4:14 work on this kitchen i'm going to work
+4:17 on this kitchen design and i know that
+4:19 i'm going to do some structural
+4:20 modifications so
+4:20 there's a complication there that we
+4:23 have to consider
+4:23 and i want to work on this and then
+4:26 bring this back in the master
+4:26 plan maybe there's a team number three
+4:31 that actually can work live from the
+4:31 master plan i'm not sure how that pans
+4:35 out so we'd have to try that maybe
+4:37 that's in another video session so
+4:38 here's the thought process
+4:39 is
+4:39 here i am i'm in the master plan i don't
+4:44 i want to take some things from this
+4:44 master plan but i do not want to edit
+4:47 anything
+4:47 or if i do edit anything i'm not going
+4:49 to save it because i want this to be an
+4:51 untouched master plan so here's what i'm
+4:56 going to do is i'm going to do i'm going
+4:58 to contain selection mode okay which
+5:00 means that my selection marquee only
+5:00 selects what is contained within that
+5:04 marquee okay
+5:04 and i want to make sure that you know a
+5:08 big problem with chief is is we're on a
+5:09 room structure
+5:09 basis here we're not dealing with you
+5:11 know erecting walls we are dealing with
+5:16 a room by room level by level
+5:17 software
+5:17 so i want to fully contain rooms in a
+5:21 selection marquee so that i can take
+5:25 them into another plan okay
+5:25 and i need to make sure i'm doing a
+5:27 couple things correctly so i'm gonna
+5:31 let's just start this i have not
+5:31 practiced this this is coming off of the
+5:34 cuff so we'll see where we end up and
+5:36 see how well this works now i can see
+5:39 here because my template plans
+5:39 by default in my working plan view as
+5:43 opposed to my
+5:43 floor plan view
+5:44 where a floor plan this is first story
+5:48 this is a two-story project there's a
+5:48 second story i have different layer sets
+5:52 for different
+5:52 for the walls right the representation
+5:55 of the walls is different
+5:56 in my different safe plan views
+5:57 associated with different layer sets so
+6:01 here we go i'm going to switch back to
+6:01 my working plane view it's very clear in
+6:05 my working plan view where my wall
+6:08 containments are okay
+6:08 and i think we just activated siri sorry
+6:12 if you guys hear that anyways um
+6:12 i need to make sure that in my selection
+6:16 marquee that i'm selecting fully
+6:16 contained walls which means i can't
+6:21 select just this short section
+6:21 and get everything in the kitchen
+6:22 involved here i need to come out here
+6:27 make a selection way out here
+6:27 get this whole section now i could just
+6:30 use this
+6:30 contain selection mode right and we're
+6:34 going to pick up a lot of maybe extra
+6:36 stuff that i don't want all i really
+6:36 need is the walls that's it that's all i
+6:40 want so i'm going to make a
+6:40 restrictively selected contained
+6:42 selection by clicking on the wall tool
+6:47 and then holding my shift button
+6:47 making a selection marquee and selecting
+6:52 all these walls now this interior wall
+6:52 here you're going to see here i'm going
+6:55 to keep this selection marquee right
+6:56 where it's at you can see it's
+6:56 highlighted in pink and let go of my
+6:59 mouse
+6:59 and there we go it's kind of
+7:01 highlighting the walls that have been
+7:03 selected
+7:03 you can see here that we did not
+7:05 select one dividing wall and you know
+7:09 what let's leave it at this
+7:09 in fact we didn't select a couple of
+7:11 different walls that we're going to need
+7:15 all right so i made a mistake but let's
+7:17 see how that mistake pans out i'm going
+7:19 to hit ctrl n start a new plan and this
+7:22 is important this is super super
+7:22 important if this is to work i need to
+7:27 make sure i'm pasting hold position
+7:29 which is in our edit menu
+7:29 and then when we get into paste paste
+7:31 hole position which it'll tell you right
+7:36 there ctrl alt v by default so ctrl alt
+7:37 v
+7:37 what did i get well i could didn't get
+7:40 much of anything did i apparently my
+7:42 selection didn't match so
+7:42 let's try this again i'm going to hit
+7:46 ctrl c to copy
+7:46 ctrl alt b there we go
+7:50 so
+7:50 you can see here where we've got some
+7:52 some errors right and also you can also
+7:55 see that this template plan seems to
+7:58 have some new setups for those those
+7:59 wall types so
+7:59 a couple things changed there let's get
+8:03 back in here here's what i missed i
+8:03 didn't fully contain this wall over here
+8:09 okay i did not fully contain this wall
+8:11 oops just selected a door
+8:11 this wall this wall and this wall okay
+8:15 so i'm going to control c copy those and
+8:19 i can use that same method ctrl alt v
+8:21 paste hold position
+8:21 now that i have those walls in place
+8:23 look what i've got i've got a selection
+8:25 marquee now i'm going to choose some
+8:27 additional walls just because i know
+8:27 that this dividing wall to the dining
+8:29 room we're going to take this down it's
+8:32 a non-bearing well actually you know
+8:32 what it is bearing look at this it's a
+8:35 center bearing so we're going to have
+8:37 some structural modifications on this
+8:37 particular project i'm going to do that
+8:39 same thing i've got walls selected shift
+8:44 select marquee grab all these it does
+8:46 not matter that i just selected
+8:46 several walls that i had already copied
+8:50 and pasted because it's just chief is
+8:51 just going to override because they
+8:52 exist in the same x y coordinates so
+8:56 ctrl alt v
+8:56 now we have two fully contained rooms
+9:00 right
+9:00 and here's what i'm gonna do and this is
+9:03 a really simple concept now i didn't
+9:04 necessarily need to grab these walls and
+9:07 i'll show you what i mean here in just a
+9:08 minute
+9:08 but it is nice that i have the walls it
+9:12 feels like a good representation of
+9:12 what's happening on in this project and
+9:15 then also when i go and bring it into
+9:17 the new project the edits that i make
+9:17 are going to translate that much better
+9:20 so i'll show you what i'm talking about
+9:23 right now so here we go i'm off of the
+9:23 main plan file i'm no longer working in
+9:27 it what i'm working in is a new file
+9:27 that's it and my intention here is to
+9:32 just let's just do a mock-up kitchen
+9:33 we're going to make it super quick
+9:33 because this is uninteresting maybe
+9:34 you'll see some of my quick tools that i
+9:38 use and and uh
+9:38 and yes i do sell this stuff so you can
+9:41 inquire about some of the stuff if you
+9:41 see some tools that are just you have to
+9:45 have but um place this pop our
+9:45 dishwasher in there maybe we've got a
+9:50 um let's
+9:50 bring this in six inches and turn this
+9:53 into
+9:53 a garbage can unit
+10:01 not too interesting what i'm doing here
+10:01 popping these in place maybe we've got a
+10:06 full height unit on the other side
+10:06 we don't need to see that i can build a
+10:10 kitchen dewey i don't think we do so
+10:11 let's just keep it at what we've got
+10:11 here the next thing i want to do is i'm
+10:15 going to remove this wall and
+10:15 choose your best method for how you show
+10:19 demo demolition so that might be another
+10:20 phase of this where someone's working on
+10:22 as built plan versus the new plan that's
+10:24 fine but
+10:24 for this particular instance i'm just
+10:25 going to delete this wall completely so
+10:30 there we go we've removed that wall
+10:31 and
+10:31 there lies one of the problems we're
+10:33 going to have so the ultimate goal here
+10:36 is i'm making edits that are going to
+10:38 save and then copy and paste hold
+10:38 position back into the main plan which
+10:43 means that things that we delete don't
+10:45 translate right so there's a there's a
+10:47 huge note that we have to know about
+10:48 that right so
+10:48 it's not so seamless that we get to just
+10:53 paste hole position walk away from it
+10:55 right we do have to come back and and
+10:57 come back in and
+10:57 edit and come back to the stuff and and
+10:58 then also do um a little bit of deletion
+11:04 right so anything we're removing from
+11:07 the plan there's the issue um
+11:07 so here we go i've created a little well
+11:10 here let's put some more rings on them
+11:12 why not
+11:12 we've got an overhang we've got some
+11:14 benches
+11:14 this kind of stuff maybe you're
+11:16 designing out to this level right maybe
+11:17 we're actually bringing in some fixtures
+11:21 some appliances
+11:21 some furnishings all this kind of thing
+11:24 um
+11:24 i know that this particular bay window
+11:28 setup i wanted to get rid of and we
+11:28 wanted to replace it with a window so
+11:32 there's going to be an edit here
+11:32 where we drop in a big picture window
+11:35 here
+11:35 and off center maybe we're expanding it
+11:39 two feet on either side or one and a
+11:40 half feet
+11:40 something like that
+11:43 and that's a picture window
+11:46 so
+11:46 here we go we've done our basic edits in
+11:50 our kitchen right we've made some
+11:50 changes and in fact i think i even
+11:54 wanted to add a wall in um maybe i
+11:54 wanted to push this wall out a couple
+11:58 feet which i can do
+12:00 um
+12:00 i think i wanted to recess this wall out
+12:04 a couple feet we were going to build in
+12:06 a big niche on this whole thing
+12:06 so let's see what happens when we take
+12:09 these elements that we've changed now
+12:09 and bring them into the new plan now we
+12:10 know we change this outside wall and and
+12:13 here
+12:13 is where you got to stay organized and
+12:15 maybe you're dropping in notes as you go
+12:19 so that you have
+12:19 you know a reference to the things that
+12:20 you're doing like my particular template
+12:24 plans
+12:24 have a red line and in my red line i can
+12:28 drop you know by default i'm dropping a
+12:31 note remember to grab this right i want
+12:33 to drop in this note and it's
+12:33 carry this over or something like that
+12:36 who knows whatever
+12:36 it doesn't matter but it's going to show
+12:39 up in my redline list and then i know
+12:41 that i need to make sure i make this
+12:43 selection when i'm making
+12:43 my overall selections to bring this
+12:45 forward
+12:46 now here's something i can do i can just
+12:49 edit area grab this whole thing we've
+12:51 done we've seen us do this before in
+12:54 other videos edit area edit area all
+12:55 floors
+12:55 here's one problem with this is we're on
+13:00 the first floor it doesn't matter does
+13:00 it matter that we're on the first floor
+13:03 in this plan but it's the second floor
+13:06 of this asbelt no it doesn't luckily
+13:08 chief will do paste hole position i
+13:08 guess the intention there was that if
+13:09 you needed to paste copy something from
+13:13 the first floor paste on the second
+13:13 floor you can and hold that position so
+13:14 it's nice it's kind of a reference level
+13:19 right so we've got that edit area and
+13:22 then i can make a marquee selection
+13:23 hit my copy
+13:23 bring it over to
+13:27 this as bill
+13:27 and paste hold position
+13:33 so couple things we notice and and we've
+13:34 seen this area in a previous video i
+13:34 showed where it's telling us that the
+13:38 default floor elevation of this plan
+13:41 that we are in right now
+13:41 it's indicating that there's a
+13:43 difference between this plan's floor
+13:47 elevation and the one that we just
+13:47 grabbed so because we had a contained
+13:49 room that we copied and brought over it
+13:53 was giving us that additional
+13:53 information like floor structure might
+13:57 be wrong that the the floor elevation
+13:59 might be wrong so let's see what
+13:59 happened to that kitchen when we did
+14:03 this okay
+14:03 and it's going to tell us default
+14:06 ceiling elevations wrong
+14:06 now a couple things to note we're seeing
+14:10 already that those cabinets didn't carry
+14:13 over what happened to them right
+14:13 well let's try to go discover them i
+14:14 actually don't know look what happened
+14:16 it did in fact paste on the first floor
+14:19 so
+14:19 and look what look what look look what
+14:26 it pasted on the first floor and copied
+14:28 from the first floor so it didn't
+14:28 translate exactly how we wanted to so
+14:31 let's go back
+14:31 let's get it backwards on this let's
+14:33 just insert a new floor simple enough
+14:35 simple solve right insert new floor now
+14:38 another method of doing this is we could
+14:42 have actually just opened our our main
+14:44 plan file the only danger with that is
+14:46 it's really hard to differentiate
+14:46 between the things that you've changed
+14:47 and the things that you needed to touch
+14:49 and the things that you didn't need to
+14:51 touch and then
+14:51 you've got some potential for user error
+14:55 that could be disastrous if you got
+14:55 things wrong so derive new floor from
+15:00 second floor plan sure
+15:00 now i've inserted a floor
+15:02 so now when i edit area you know what
+15:06 i'm going to do this time
+15:08 edit area not all floors
+15:10 just edit area
+15:10 just edit area there we go i'm not
+15:12 grabbing anything from the floor below
+15:15 so i'm copying this
+15:17 control c
+15:17 and then online second level floor ctrl
+15:23 alt v
+15:23 there we go now we have some edits that
+15:27 can be committed
+15:27 and i was working on a separate plan not
+15:31 the main plan
+15:31 and the only thing that we know that we
+15:34 needed to do
+15:34 was delete this wall
+15:37 now we've got some other discrepancy
+15:38 here's too like we're running into a few
+15:42 issues right
+15:42 where we also know that we needed to
+15:44 delete this oops let's let's just go out
+15:48 and figure this out we know that we
+15:48 needed to delete this these three wall
+15:52 sections here i need to grab the wall
+15:53 tool
+15:53 restrictively contain selection all
+15:57 those exterior walls there
+15:57 and then what exactly happened to the
+15:58 window like why did it get placed that
+16:01 high well there you go it's because we
+16:03 had some different structure in here
+16:03 that the chief was trying to you know
+16:07 copy and paste into and i'll tell you
+16:07 exactly what it was the bay window had a
+16:12 different floor height so that this new
+16:14 picture window was uh taking to account
+16:17 the at the adjacent room's floor height
+16:20 so its head height became off right
+16:20 so here we go we've pasted this and now
+16:24 let's go take a look at the this other
+16:26 this other red line one and pull a
+16:28 camera in here and see
+16:28 where our differences lie
+16:34 and in fact yes we had a different roof
+16:36 structure and the new and that's fine
+16:37 that's what we wanted but other than
+16:38 that
+16:38 we are essentially creating edits in one
+16:49 so just to just a backwards go backwards
+16:50 on this right
+16:50 here we go we've got a main file we've
+16:54 got a team we've got a team that can
+16:56 work on this main file all together
+16:56 we know that we move this wall back to
+16:59 by the way
+17:01 and
+17:01 then that team goes and works on their
+17:05 separate entities right there are
+17:05 several parts of this now you have to
+17:06 kind of coordinate what team member what
+17:11 gets to come in back to the main file
+17:13 and drop in their edits
+17:14 and
+17:14 now i've dropped in my edits but say
+17:18 okay this got me so far
+17:18 and someone's reviewing it right we've
+17:22 got another team member this is all
+17:23 hypothetical we've got another team
+17:23 member we're reviewing this project now
+17:26 and we're seeing we've got a few
+17:26 problems we need to fix this window we
+17:29 need to fix this
+17:29 well that team member can either fix it
+17:33 on the fly because he's got he's got
+17:33 authority to work on that main file or
+17:37 we can go back we can go back to this
+17:40 temp file and start doing more edits
+17:41 here
+17:41 and i
+17:42 i want to say that the limitations here
+17:46 are really coming in when we come into
+17:48 like structural changes but if you've
+17:49 got your envelopes you've got your
+17:49 structure in place your as built is true
+17:53 there's no edits needed for the as built
+17:55 and you're coming in and you want new
+17:57 edits right and
+17:57 say that they're anything except for
+17:58 well you could do roof lines you could
+18:02 carry in roof lines you could
+18:02 carefully delete the old roof lines
+18:05 update with the new
+18:05 so there's a method here there's a
+18:07 method here where we can get a team
+18:08 working on the same project same time
+18:14 let's look at another method
+18:15 control new
+18:15 whole new plan file okay
+18:18 i want to turn on my reference
+18:21 display layer
+18:21 and that's it here reference display
+18:24 underneath tools floor reference display
+18:29 reference display or the f9 key i
+18:29 believe that's default f9 key next thing
+18:32 i want to do is i want to change that
+18:35 reference okay so
+18:35 usually i think the change floor
+18:36 reference is going to be up in your top
+18:38 toolbars and the default toolbars mine's
+18:41 off to the right i'm going to click on
+18:41 that and here's what i'm going to do is
+18:45 i'm going to locate that file i'm going
+18:47 to locate that master file maybe we
+18:49 should call it master file make it
+18:50 easier right
+18:50 look at that master file i do not want
+18:54 to use my reference display layer set
+18:56 because that particular layer set has
+18:56 locked layers i want to have something
+18:58 that has no lock layers i happen to know
+19:03 that my floor plan dimensioned
+19:06 layer set has no lock layers
+19:06 i'm going to go ahead and leave that on
+19:09 i could do this a couple of different
+19:11 ways i could do it this way
+19:13 here we go
+19:13 and i need to make sure that i'm on the
+19:16 right floor
+19:16 match current floor
+19:17 uh untitled six i'm on the first floor
+19:22 that's kind of a good reminder let's
+19:23 insert a new
+19:24 a new floor
+19:24 make sure we've got another one
+19:27 yep just like that it's just going to be
+19:31 a blank floor
+19:31 i don't really care about the
+19:32 designation of ceiling heights unless
+19:35 that you do unless you need to bring
+19:35 that forward in which case maybe it's
+19:37 just simpler to work on a duplicate plan
+19:41 file
+19:42 um
+19:42 but you really have to be careful about
+19:44 your naming conventions and we can take
+19:46 a look at mine again i've i've showed
+19:46 these a bunch of times but we can always
+19:49 look at it some more
+19:49 because i really stand behind them so
+19:51 here we go we're on our second floor now
+19:57 i'm in a blank plan right now if you've
+19:57 never discovered all the capabilities of
+20:02 you using a reference display it's it's
+20:03 pretty out there you can get a lot done
+20:05 with this so
+20:05 um i'm in an absolutely blank plan if we
+20:09 turn on the reference off the reference
+20:10 display layer you see that plan
+20:10 disappears we're referencing another
+20:13 plan
+20:13 and here's what's kind of cool about
+20:16 this is
+20:16 let's go delete these these uh cabinets
+20:20 does it does it live update that's a
+20:23 good question right
+20:23 let's let's use let's just keep
+20:25 practicing this we're going to select
+20:26 our cabinet and then shift marquee and
+20:31 then that selects all of our cabinets
+20:31 right same thing if you have a fixture
+20:34 symbol that's a custom fixture symbol in
+20:37 your library or you know a fixture
+20:38 that's in your
+20:38 excuse me that's in your toolbars you
+20:42 can select a fixture there you go i
+20:42 selected a stool fixture shift marquee
+20:46 select now i can delete all those simple
+20:50 right
+20:50 let's go look at this untitled working
+20:53 plan look what happened that's live
+20:53 updating we're updating that live okay
+20:58 so
+20:58 if someone's working let's see i wonder
+21:01 if that works across machines i actually
+21:04 don't know i would love it if one of you
+21:06 guys discovered this i don't have enough
+21:10 machines at my disposal right now i'm on
+21:11 the run
+21:11 it's christmas i'm hanging out with the
+21:14 folks
+21:14 so i don't have access to multiple
+21:16 machines but i would love it if you went
+21:20 out there and tried to discover whether
+21:21 or not this works
+21:21 is a reference display live if you have
+21:27 it open on maybe a network
+21:28 drive how does that work i don't think
+21:31 it could be i think it's because it's
+21:34 open on my machine
+21:34 that it's going to live update i don't
+21:35 think it will work across there's no way
+21:39 it's working across the network because
+21:41 chief file locks so we talked our way
+21:43 out of that
+21:43 it's only doing live updating because i
+21:46 have it open actively on the same
+21:47 machine
+21:49 okay so
+21:49 here we go
+21:51 what can i do with this what can i do
+21:54 with this what can i do in this
+21:56 situation well
+21:56 i know already that we're not going to
+21:59 have bumps
+21:59 which means that if i grab this and drag
+22:04 it towards that wall it's not going to
+22:05 stop at a wall
+22:05 nor is it going to stop at this sidewall
+22:08 right so
+22:08 we know that drafting in this way does
+22:12 not allow us to have bumps
+22:14 which means that
+22:14 that cabinet if we were to draw this in
+22:17 our
+22:17 in this
+22:18 space right if we grab the lower cabinet
+22:22 and we dropped it against this wall it's
+22:23 going to bump
+22:23 meaning that it
+22:24 it automatically
+22:26 stops when i draw that cursor
+22:29 past the wall a little ways it's going
+22:32 to bump to that wall which makes it
+22:34 really easy to place right so it's
+22:38 way easier to place in an active
+22:39 plan
+22:39 but it is powerful to know that you can
+22:43 use this as a reference and there are
+22:46 some snaps available to us so it is
+22:46 pretty easy to just take a snap here and
+22:50 populate it to well i just did it to the
+22:52 framing layer so if i popped it out half
+22:54 an inch that would be snapped to our
+22:57 drywall layer
+22:57 kind of interesting right it's kind of a
+23:00 strange thing i have a video it's an old
+23:02 video somewhere on youtube it's like
+23:02 three years old and i show you when they
+23:06 first came out with reference displays
+23:06 being able to reference other floors and
+23:11 or other plans i show you a way you can
+23:13 do an as built and then tie in new
+23:13 construction and have your material list
+23:17 and everything completely separate
+23:17 it's a bit complicated to set up but
+23:19 it's very doable because chief does give
+23:24 you access to some of these snaps so
+23:26 kind of a crazy method but
+23:26 it's just to know that it's out there
+23:29 and i would leave it up to your
+23:29 creativity to see how this maybe plays
+23:32 right
+23:32 um so something that is interesting
+23:34 about this is if we were to go and take
+23:39 our well do i still get a control v
+23:39 yeah we do look at that so i've got a
+23:41 contained area here check this out let's
+23:49 okay we've got a 3d view
+23:50 and
+23:50 i mean the roof lanes are uninteresting
+23:53 right let's let's just delete all roof
+23:56 planes and it's going to make us
+23:56 it's going to make us turn off auto
+23:59 roofs
+23:59 yes turn off auto roofs done get them
+24:04 out of here okay that's fine
+24:04 what happens now if we turn on a
+24:06 reference display in 3d right if you've
+24:08 never tried this before it's kind of fun
+24:11 not gonna lie
+24:11 it's kind of fun
+24:14 but
+24:14 it's you're actually not turning on a
+24:20 reference display layer you are
+24:20 changing a floor reference so you don't
+24:21 need to turn on the reference display in
+24:24 this case
+24:25 so
+24:25 again wells a b camera view layer set
+24:30 we could do glasshouse or standard
+24:32 let's just show well
+24:32 this illustrates the proof of concept
+24:36 right glasshouse illustrates that
+24:37 so here we go
+24:37 and maybe we can turn i don't think we
+24:40 can turn a line
+24:40 overweight on so we might need to change
+24:43 the method
+24:43 and we can't change the method through
+24:47 there we got to do it through
+24:48 our
+24:48 display options so our define is where
+24:50 our transparency lies maybe we want more
+24:54 transparency
+24:54 maybe that's easier to see oh i went the
+25:03 let's make it super transparent there we
+25:07 here we go
+25:07 so now it's showing
+25:09 that main master plan and then my edits
+25:13 in a visual representation and if you're
+25:17 like me i've been fighting for the last
+25:17 i don't know i want to call it a year to
+25:23 try and learn how to draft in 3d in 3d
+25:25 only and there's some caveats to it
+25:25 there's some limitations and there's
+25:28 some frustrations there
+25:30 but it is possible so
+25:30 and it's fun to see this in in a
+25:32 reference right like now all of a sudden
+25:36 this whole process is kind of making
+25:38 sense right is i'm just editing this
+25:39 part of the project and i'm going to
+25:41 bring it in
+25:41 back into the main file
+25:43 so now we can have four or five team
+25:45 members working on one major big house
+25:50 all doing their own edits maybe
+25:50 someone's working on annotation edits in
+25:54 the layout maybe someone's working on
+25:54 elevation details you can do all of that
+25:59 i think let's see can we grab a camera
+26:00 with elevation details and bring it
+26:02 forward that seems a little bit
+26:02 challenging i kind of feel like we can't
+26:07 i gotta remember my classifications here
+26:09 can we actually save a camera copy and
+26:17 so here we go we're pulling a we're in
+26:19 our untitled
+26:19 so this is going to see that picture
+26:22 window because we did in fact bring
+26:22 something forward right so now this is
+26:26 this should show up in our project
+26:26 browser so our where are we in we're in
+26:30 untitled six
+26:30 in our oops not
+26:33 oh we are in cameras
+26:37 no we're not
+26:38 where i'm at
+26:38 i'm missing it
+26:40 we are in untitled six cameras maybe
+26:45 it's good oh i know why i made this
+26:45 mistake before you guys got to catch me
+26:47 on this
+26:47 save active view here we go now i've got
+26:53 this elevation one okay
+26:53 what options do we have we right click
+26:56 on it we've got edit view we've got
+26:59 duplicate we've got close view
+26:59 there's no way to drag some element from
+27:02 one plan across the project browser to
+27:05 another element in another plan across
+27:06 the project browser
+27:06 too bad sounds like it would be pretty
+27:09 cool
+27:09 what other options do we have can we
+27:11 select this and copy paste it well look
+27:14 at that
+27:14 here we go we've got a copy right
+27:16 so what happens if we come back to our
+27:20 main working plan
+27:21 here we go
+27:21 back it out ctrl alt v
+27:24 check that out so here's the big
+27:26 question let's delete that yeah yeah
+27:33 so here's where structure comes into
+27:37 play we do in fact need to make sure
+27:37 that the structure of this project is
+27:39 the same as the structure of the other
+27:42 project if we're going to make an edit
+27:42 like this so let's close these out it's
+27:47 they're kind of uninteresting now let's
+27:48 go
+27:48 about
+27:49 taking from a master plan updating just
+27:54 the master plan
+27:54 and making sure that we designate it as
+28:03 i think we just had a power surge so you
+28:05 might have lost the feed for just a
+28:06 second so
+28:07 okay
+28:07 so here we go i want to make sure that
+28:11 this is saved as something else
+28:13 okay
+28:13 so we're going to just call this well
+28:15 here's my naming convention by the way
+28:19 and you can see this is a big project
+28:19 this is a law ongoing project it started
+28:24 back in beginning of november we're into
+28:25 late december now
+28:26 and we've gone through several different
+28:28 design
+28:28 uh versions
+28:32 iterations
+28:33 and
+28:33 and we have not hit construction
+28:34 documents yet so we're building out of
+28:38 the a b plan and maybe i want to bring
+28:45 and it's going to be
+28:45 um
+28:46 kitchen edit or something like that well
+28:48 you know whatever your
+28:48 and i mean i would obviously keep the
+28:52 the
+28:52 design iteration and version intact
+28:59 okay here we go
+28:59 kitchen edit and here's the next part is
+29:03 if i am part of a team we need to make
+29:05 sure that we've got our tags
+29:05 appropriate tags here so here we go rr
+29:10 is working on this is the kitchen edit
+29:12 plan it's going to update the master
+29:17 and is interesting to change the name of
+29:19 this this is one of the very few times
+29:19 where i don't think i really care if the
+29:23 plan name is changed typically i would
+29:26 tell you do not do not never ever ever
+29:26 ever change your plan name across all of
+29:30 your versions just keep it the same
+29:30 you're gonna have a much nicer life in
+29:32 chief architect trust me trust me trust
+29:36 me
+29:36 i don't think i care right now i think i
+29:40 can name it whatever the heck i wanted
+29:40 to except for weird characters i suppose
+29:45 there we go
+29:45 so there's my goofy plan and it's really
+29:48 easy to
+29:48 note they notate that at the top let's
+29:53 open that original plan this wells a b
+29:55 plan by the way just to pull that last
+29:55 conversation full circle at the start of
+30:00 every project
+30:00 i'm going to establish my ca for chief
+30:05 architect here's my versioning when i
+30:05 want to work on a new edit i'm going to
+30:08 copy the entire folder forward the
+30:08 entire folder forward and then i'm going
+30:12 to change the name of the folder only
+30:14 and then the only thing that is
+30:14 contained within those folders this is
+30:18 the same name across all these folders
+30:20 it's the exact same name it never
+30:20 changes okay the only thing that changes
+30:23 is the containing folder's name it's a
+30:24 great way of doing things no redundancy
+30:27 here especially in the team building
+30:29 which we're doing right now right so
+30:29 here we go we're in our edit rr and i
+30:32 want to open up a
+30:32 second oh we did we've got wells a b
+30:35 we've got wells ab and then we've got
+30:38 this goofy plan that we're working on
+30:41 okay this is the new plan where i'm
+30:43 editing and updating
+30:44 now
+30:44 these two plans one was created from the
+30:49 other so the structure is intact
+30:49 all the elevations are true so now we
+30:54 can pull a wall elevation
+30:54 and let's go ahead and annotate this
+30:57 right so
+30:57 look at that we've got my construction
+31:01 lines by default show up in interior
+31:01 wall elevations let's fix that chief um
+31:03 kitchen and bath elevation set oh that's
+31:08 on me then i needed to turn that off and
+31:09 aldo
+31:09 or object properties here we go so
+31:12 um
+31:12 use my dimensioning tool i'm in the half
+31:16 inch cabinets maybe you want to get into
+31:18 a windows and doors one
+31:18 does that pick up windows door not on
+31:23 the interior side so
+31:23 there we go picks up that window sure so
+31:27 in here now i've annotated this and this
+31:29 just kind of proves the point right so
+31:31 we've got an annotation now as soon as
+31:33 we annotated something here this uh
+31:35 changed from being um
+31:36 an orthographic camera to having a cad
+31:39 overlay
+31:39 and i'll explain what i mean here in
+31:41 just a second there's only one way that
+31:42 i can even show you this and it and it's
+31:46 it requires that you own a 3d connection
+31:50 mouse so let me close this window up
+31:50 um one we're going to save it we'll save
+31:53 it
+31:53 i don't even care what it's named at
+31:54 this point but let's go back in here and
+31:58 we'll just
+31:58 give you an example of what i mean this
+32:03 elevation is actually an orthographic
+32:04 camera
+32:04 in fact actually let's go back out one
+32:07 more time let me demonstrate that in a
+32:09 couple different ways
+32:09 so this is a perspective overview right
+32:14 but if i get into my 3d menu and
+32:15 actually this is on your default
+32:17 toolbars
+32:18 we can
+32:18 get in and do a orthographic full
+32:22 overview okay
+32:22 orthographic full overview and what i'm
+32:26 going to do is i'm going to use my 3d
+32:29 mouse and i'm going to navigate in
+32:30 into
+32:30 infinity and it's not even going to let
+32:36 and why is that and it's going to be
+32:36 problematic because it's just difficult
+32:41 to navigate an ortho camera
+32:41 so i'm kind of not illustrating the
+32:44 point at all
+32:44 but here's what i can do is i can
+32:46 actually edit this camera in place so if
+32:52 i use the edit active view tool
+32:52 and underneath the camera panel i'm
+32:54 going to change a couple things one is
+32:57 if i just type in 0 it's going to
+32:57 automatically default to 10. there we go
+33:02 clip surfaces within 24 inches yes we
+33:03 could do that and basically make a
+33:03 cross-section view i mean we can clip it
+33:07 within 10 feet and make a cross-section
+33:09 view i'm not sure how far the camera is
+33:09 from our subject here we want to be at a
+33:13 90 degree angle
+33:13 height above floor maybe we're 60 inches
+33:17 does it matter not really let's take a
+33:20 look at what this does
+33:20 look what i did if i just use my mouse
+33:24 mouse wheel and back out
+33:24 that's an elevation that's exactly what
+33:29 an elevation camera is it's an ortho
+33:31 view you want me to prove it let me
+33:33 close this out ctrl w
+33:33 let me get back into here
+33:35 we'll open up this camera excuse me open
+33:41 up this wall elevation okay
+33:43 not by that there we go
+33:43 and let's see how i do this i'm going to
+33:48 i'm going to move my 3d mouse and at the
+33:50 same time i'm going to drag
+33:50 my regular mouse look at what i'm doing
+33:53 here
+33:53 that proves it
+33:55 a cross section elevation is in fact
+33:59 just an ortho camera and you can see
+33:59 here the dimensions are just an overlay
+34:05 so any kind of annotations you're doing
+34:08 in a section view are creating a cad
+34:08 overlay it's kind of there's a little
+34:10 bit of a projection here but not really
+34:13 if you're really getting into the
+34:13 classification of things the thing i
+34:15 want to do in all these feeds is give
+34:20 you the concepts behind how chief is
+34:20 made so that you have a better grasp on
+34:24 the tools available to you and how they
+34:26 work and then maybe you can open your
+34:26 mind to new possibilities on how you can
+34:29 manipulate this software in the most
+34:30 efficient way possible we want to use
+34:32 only the software's given to us in the
+34:35 most efficient way possible to create a
+34:36 workflow where everything is utilized to
+34:41 its maximum and most efficient potential
+34:44 so here we go we've got annotations over
+34:45 and elevation
+34:45 now that we know that what are we going
+34:50 to test we're going to test to see
+34:50 if we open this can if we copy this
+34:53 camera
+34:53 do the annotations carry forward to our
+34:55 master plan considering that this is the
+35:01 master plan so ctrl alt v
+35:01 let's open it up and see what happens
+35:07 it does exactly what chief is supposed
+35:10 to do check this out
+35:12 what it did was grab
+35:12 um it produced point markers which if
+35:15 you're unfamiliar if you've ever created
+35:20 a point-to-point dimension string
+35:20 those points are arbitrary meaning that
+35:23 chief doesn't actually know what it's
+35:25 snapping to but it does know that it
+35:25 wants to maintain these dimensions and
+35:29 because it had nothing to snap to no
+35:31 inference nothing a reference
+35:32 right
+35:32 then it's going to create point markers
+35:35 so
+35:35 here's kind of the pros and cons of this
+35:39 is one we're not going to be doing any
+35:39 kind of dimension annotations in a slave
+35:43 set well maybe that's the wrong word
+35:43 sorry i'm woke let me bring that back
+35:46 we're not gonna do any annotations that
+35:51 are dimension based
+35:51 in a subset of the master file okay so
+35:58 which means that's off the table
+35:58 so there's a limitation right unless
+36:02 we're gonna be okay with these point
+36:04 markers i hate point markers it
+36:04 introduces error in your plan um and it
+36:09 could be very costly errors
+36:09 so not a good idea so ultimately we do
+36:12 want to do our dimension annotations on
+36:16 the master plan
+36:16 and there we go finding the holes in
+36:21 this process are a great way of
+36:21 discovering how to manage the process
+36:23 so already here's what i know i've got a
+36:29 team we're all going to be working on
+36:30 on the same plan
+36:30 but different oh man i'm going to turn
+36:32 these notifications off sorry about that
+36:36 we're all going to be working on the
+36:37 same plan
+36:38 but
+36:38 we know that the annotations the
+36:42 dimensional annotations
+36:42 need to be on the master plan which
+36:44 means a couple things the kitchen for
+36:48 instance
+36:50 um
+36:50 let's see can we bring forward
+36:52 annotations on the kitchen let's try it
+36:54 out
+36:56 so
+36:56 here we go got a couple kitchen cabinets
+36:59 let me just switch to my cabinet default
+37:01 here they're going to be a much bigger
+37:03 dimension string
+37:04 my manual tool
+37:04 grab these couple dimensions
+37:06 yes we're going to turn that on blah
+37:09 blah blah
+37:09 not the typical dimension string i use
+37:10 on this plan but that's fine i have the
+37:16 dimensions selected i have the cabinets
+37:18 are going to be selected there we go
+37:20 control selected those
+37:20 and bring them over to our master plan
+37:25 control alt v paste in place
+37:25 what happened there oh i missed the i
+37:27 missed the copy again let's try the copy
+37:31 again
+37:31 okay control v paste in place
+37:34 there they're brought forward what
+37:37 happened to the dimension string
+37:37 dimension string didn't make it okay so
+37:41 we do see the limitation here is
+37:41 ultimately the end annotations we need
+37:45 to account for that before the
+37:47 deliverable lands so
+37:47 when you're structuring your timeline on
+37:51 this and this is this is an oh shoot
+37:51 moment right all hands on deck everybody
+37:56 got to get this plan out of the door we
+37:56 could either split it up into a bunch of
+37:58 different plans and annotate our
+37:58 individual plans and bring that into one
+38:03 layout but i feel like that's more work
+38:03 bringing everything into the layout that
+38:06 way whereas we can already have views
+38:10 pre-sent to layout in this method
+38:10 actually we can in the other method too
+38:13 but there's some caveats there maybe
+38:15 we'll discover that later
+38:15 so we know that our ultimate plan here
+38:17 is we got to get our kitchen done we got
+38:20 to get our bath done whatever edits
+38:20 we're getting done and then everybody's
+38:24 got to have their time to upload
+38:24 their versions into the master plan so
+38:28 that the master plan has conformed to
+38:29 the new design
+38:30 and then we have the budget time to go
+38:34 in and do our dimensional annotations
+38:34 i do think that there are definitely the
+38:39 settings in place for you to do your
+38:39 edits on a cross-section view in terms
+38:43 of
+38:43 text and
+38:44 annotation so long as you're not
+38:47 snapping
+38:47 to something that will not snap on the
+38:52 new plan right
+38:52 so this test test text which is not
+38:56 snapping to anything
+38:56 can be brought forward
+38:58 so let's close this elevation this is
+39:02 the wells a b so let's send this
+39:02 backwards we're gonna we're gonna copy
+39:06 it from wells a b right here
+39:06 so make sure that the copy is there
+39:11 and
+39:11 let's delete this guy
+39:16 yeah yeah uh huh
+39:16 ctrl v paste in place
+39:19 let's open it up see what we got oh geez
+39:27 so that didn't pull forward
+39:27 let me double check that we have that
+39:34 so let's see we are in wells a b we're
+39:37 going to open this cross section oops
+39:39 cross section view
+39:39 oh well that text didn't show up here
+39:43 either let's try that one more time
+39:44 let's commit this text
+39:51 bringing this over
+39:52 test yes
+39:52 we're going to shut this cross section
+39:57 view w yep it is saved let's double
+39:59 check that it's saved why not
+40:01 it is
+40:01 and then copy it
+40:04 let's close this guy out
+40:09 come in here
+40:09 and maybe i should have deleted this
+40:11 beforehand because does this break our
+40:15 our copy
+40:15 let me see let's just make sure let's
+40:20 just get this copy done right
+40:27 and let's open them up
+40:27 okay so we can annotate with text
+40:32 so we can have all of our text
+40:32 annotations in elevation all that can be
+40:36 prepped so you can have someone coming
+40:38 in doing the kitchen doing all the
+40:39 annotations and text
+40:39 bring that forward to the master plan
+40:43 and then update our dimensions and if
+40:45 you followed some of my other videos
+40:47 there's some really fast way to do
+40:48 dimensions
+40:48 so long as you've got a bunch of
+40:49 different dimensions defaults setup and
+40:53 this drop down handy little drop down
+40:55 window
+40:55 there we go
+40:57 so a couple methods there
+40:58 i'd love to see someone put this into
+41:00 practice and yes i kind of feel like you
+41:05 have to practice this before you just
+41:05 you know hit that moment where you you
+41:10 absolutely need to implement this
+41:13 so let's what's our time mark
+41:13 time the video is you know what i'm
+41:14 going to go into facebook real quick
+41:16 let's just drop facebook in here you're
+41:18 going to see my face you know duplicated
+41:22 a million times or something like that
+41:23 and
+41:23 what are we going to do let's comment
+41:40 okay so next up let's get off that topic
+41:42 i'm on a little bit of overload on that
+41:43 topic
+41:43 hopefully we got some ideas there
+41:47 learned a few things there
+41:47 this is a live feed so i'm not going to
+41:51 re-link to other videos i've created
+41:53 i'll let you guys just kind of go
+41:55 discover them i've got a
+41:55 really weird mix of videos on youtube
+42:01 and they have no direction but enjoy
+42:02 them
+42:02 so let's close some things out and i'm
+42:05 going to work in a new section here and
+42:09 actually i just closed that facebook
+42:10 window and i'm hoping it's still working
+42:13 don't save
+42:18 so
+42:18 give me one more minute i just want to
+42:20 make sure that we still have our feed up
+42:24 and that i'm not talking to air because
+42:38 okay still shows me live that's good we
+42:40 see a blank screen yep all right so i'm
+42:43 going to open up a new file here and
+42:44 this is for
+42:44 a fantastic designer i work with melissa
+42:49 nunes
+42:50 sorry name dropped you it's good it's
+42:54 good pr i swear um
+42:54 let's see what's our plan let's let's go
+42:59 look for this this is
+43:00 she's got a really
+43:00 nice organized deal here
+43:03 and i think i am on laurie
+43:12 okay
+43:12 now what did i do wrong i just did
+43:13 something way wrong what are we doing
+43:16 here come on
+43:16 let's stick to our own
+43:20 setup here so
+43:20 i'm gonna make a copy of this
+43:22 she's got a little bit different naming
+43:25 convention
+43:25 i like to conform my name i like to
+43:29 force my naming convention onto
+43:30 everybody
+43:30 because it works so well
+43:33 trust me
+43:33 um so we're just going to copy paste
+43:35 this oh i did want to go over one more
+43:38 thing before we get into too much symbol
+43:41 editing which is
+43:41 how do you download material files guys
+43:48 how do you transfer material files
+43:49 when you're
+43:49 working on a project together
+43:53 right do you have a joint
+43:53 location where they're located right
+43:54 across my machines there's one location
+44:00 for all my material files and that's
+44:01 really easy to find
+44:01 and all my material files always work
+44:05 but when you're sharing with another
+44:07 designer what do you do what's your
+44:08 method
+44:09 do you
+44:10 um do you do a backup do you do a backup
+44:13 where you zip all the externally
+44:13 referenced files like the material files
+44:18 i have another method for you and we can
+44:21 take a look at it see how well it works
+44:22 i don't know that i've proven that it
+44:24 works really well but i feel like it
+44:24 does i feel like it does so here's what
+44:28 i'm going to do i'm going to stay with
+44:30 her naming convention
+44:30 even though it's wrong
+44:37 and our laurie new file now you can see
+44:39 here that she actually did back up all
+44:41 those materials but there is another
+44:41 method and i'll show you it right now
+44:46 over here on my toolbars i have this
+44:48 little button plan materials but i'm
+44:48 going to show you where that exists i
+44:52 believe it's in 3d materials plan
+44:53 materials
+44:54 and what does that bring forward
+44:55 everything that's in this plan right now
+45:00 this active plan you can see here it
+45:00 looks like i'm missing looks like i'm
+45:01 missing some files already but in this
+45:06 active plan these are all the material
+45:09 files in this active plan okay
+45:09 and here's what i can do that's kind of
+45:12 cool
+45:12 now i'm not going to copy all these but
+45:15 i do want to demonstrate the concept so
+45:18 that you know that i could copy every
+45:18 one of these plan files to my library by
+45:23 shift selecting look at that so i've
+45:23 shift selected this i could go down here
+45:28 to select everything just so you know
+45:29 but i'm not going to do that that's
+45:29 that's too time consuming let's just
+45:31 select these right here and i'm going to
+45:36 click add to library again
+45:38 we went to 3d
+45:38 what plan materials no 3d materials plan
+45:43 materials is the sub menu
+45:45 add the library
+45:45 look what happens
+45:47 it starts populating my library that's
+45:50 clever okay
+45:50 what are this what importance does this
+45:55 serve not a whole lot yet but now we'll
+45:57 create a folder
+45:57 and what is this project lori okay lori
+46:02 materials
+46:02 check this out check out easy this seems
+46:06 to be and you have to check on your end
+46:08 if this works
+46:08 in concept this should work and here we
+46:12 go we're back to that storyline of
+46:12 conceptually i know how chief works for
+46:17 the most part to the extent that
+46:17 in my mind conceptually there's no way
+46:21 this shouldn't work the way this works
+46:21 is if i want to export these items chief
+46:26 is going to collect those resources and
+46:28 convert these files into calibs files
+46:28 which means that when you install it's
+46:32 going to bring those textures forward
+46:33 it's actually going to put those
+46:33 textures in a particular folder in your
+46:37 data folder so
+46:38 good info right there so all i would do
+46:41 then is right click on this export
+46:42 library
+46:42 i'm going to name that library lori
+46:46 materials
+46:46 and then there you go click save you're
+46:50 done it exports you make sure that you
+46:52 drop it into that same folder that
+46:54 you're sharing with your client
+46:54 and they get to install it on their side
+46:59 they get to install it on their side and
+47:01 then work on the plan file here's the
+47:01 beauty of this system when you're done
+47:03 with this project delete that get rid of
+47:07 it who cares about it because guess what
+47:10 you already exported it and it exists in
+47:12 the plan folder that you're working from
+47:13 so that if you needed to go back and
+47:13 make edits to that particular plan be it
+47:17 in the archive or whatever you just
+47:20 install that material file again
+47:22 you install that calips file
+47:22 so i'm going to empty trash get that out
+47:25 of my way
+47:25 we're going to do some symbol
+47:26 modifications the main question here was
+47:31 is there a simple way to
+47:34 edit our hardware
+47:34 so that we can resize these well here's
+47:38 what it is we've got a bunch of
+47:38 different bar poles here and we want to
+47:42 be able to resize them based on the
+47:42 cabinet meaning that we're going to have
+47:45 different size bar pools for different
+47:47 cabinets right and and we've got a
+47:47 couple different orientations here too
+47:50 we've got you know side to side
+47:50 orientation top to bottom orientation i
+47:54 don't have a brilliant way to tackle
+47:54 this i gotta say i'm like i i kind of
+47:57 feel like i'm a little bit you know like
+48:00 i could work harder at this and figure
+48:01 out a better method but the immediate
+48:01 method is that i'm gonna create kind of
+48:05 a large library here of different size
+48:05 bar pools in different orientations it's
+48:10 not the greatest solution
+48:10 there's a couple other things that we're
+48:13 going to address here as well is that
+48:13 look at where this bar pulls ending up
+48:17 and one why is that because this
+48:17 particular door the front face of the
+48:21 what is it the y plane
+48:22 is
+48:22 where this hardware is going to mount
+48:24 and so how do we adjust for that how do
+48:29 we fix that you know so there's there's
+48:31 a couple issues here and you can really
+48:34 get sucked into a time stop here
+48:35 addressing all these if you need
+48:37 perfection
+48:38 so
+48:38 if you guys if you if you guys chiming
+48:42 into this if you guys watching this
+48:42 video have a better solution i'm all
+48:44 ears i'm all for it i just know kind of
+48:48 what i know as far as symbol
+48:50 modifications goes
+48:52 so
+48:52 i actually don't know what this
+48:55 particular bar pull is
+48:56 and
+48:56 we can kind of well
+48:58 it would be nice if we limit our library
+49:03 based on that and filter but i don't
+49:03 have any filters in place that that can
+49:07 filter for this particular poll so i
+49:07 could just search in poll that would be
+49:12 probably the most obvious thing
+49:12 and maybe i want to look for the folder
+49:16 icon if you're unfamiliar with you know
+49:18 some advanced
+49:18 library filters and searching
+49:20 for this particular case i don't want to
+49:24 pick the the individual poll i want to
+49:24 make sure that i'm just pulling from the
+49:31 with that being the case i could add a
+49:31 couple filters one of the filters could
+49:34 just be that um
+49:34 and mind you when you make a filter
+49:36 select the catalogs that you wish to
+49:37 hide in the library browser so i'm going
+49:42 to create a new
+49:42 a new one here and we're going to say
+49:46 core only
+49:46 core only so select the catalogs that
+49:48 you wish to hide in the library browser
+49:51 so i'm going to select all these all the
+49:55 manufacturer catalogs all the bonus
+49:56 catalogs
+49:56 and do i really need to look through and
+50:01 i don't need to get too specific here
+50:01 we're just going to stick this with core
+50:06 only as a general filter
+50:07 and then we just may
+50:07 bring this drop down down to core only
+50:11 and then we're going to get limited to
+50:13 only the core catalogs
+50:15 and our user catalog
+50:15 i do have a workaround for that it's not
+50:18 worth the time
+50:19 so
+50:19 you are going to get some polls that are
+50:24 from my library which is like the cp01
+50:27 bar poll
+50:27 and then it's a matter of yes i can drag
+50:32 through all of these or i can know that
+50:33 she just
+50:33 pulled from
+50:34 this one right there
+50:37 oh excuse me shown browser there we go
+50:41 we got immediately to that cabinet
+50:41 hardware here's our polls is it a bail
+50:43 and ring pull no it's a bar pole now we
+50:49 can click on this and kind of identify
+50:51 what she's got going on here actually
+50:51 doesn't look like this is from the core
+50:54 catalog does it
+50:54 where'd you get this from
+50:58 well
+50:58 let's open it up and see if we've got an
+51:02 um maybe she overrode some
+51:02 yes so this is not a default cabinet i
+51:06 will show you how to edit
+51:06 all cabinets at the same time if they're
+51:10 defaults but right now we're not using
+51:10 the default which is kind of a bummer so
+51:15 long pole vertical
+51:15 what it what is this let's see door
+51:18 door door handle long pull horizontal
+51:22 short
+51:22 so now we can do that search long pole
+51:30 and and core only limits us too much
+51:30 we're not finding it okay so she's got
+51:32 some bonus catalog clicked in here that
+51:37 she's getting this from
+51:37 oof
+51:38 that's no fun
+51:40 i could create this from just well might
+51:45 as well we'll see all the weird wacky
+51:46 solutions i've got because sometimes
+51:46 you're bringing in stuff from like 3d
+51:48 warehouse check this out let's just do a
+51:53 control new
+51:53 this is this seems very inefficient but
+51:57 we'll do it anyways
+51:57 let's grab this cabinet which is locked
+52:01 in their electrical layer working plan
+52:02 view okay
+52:02 let's grab this cabinet paste hold
+52:07 let's do a
+52:07 a big overview camera of this
+52:13 and
+52:13 see nothing
+52:18 all right let's not do an overview
+52:19 camera
+52:19 let's just do a regular camera so we're
+52:28 all right he's right in front of us now
+52:33 and let's see do i have any quick tools
+52:34 that'll make this thing easier to deal
+52:35 with
+52:35 probably not
+52:38 yeah i mean let's make this a slab door
+52:43 here's what we're doing we're deleting
+52:45 surface it's a terrible time to show
+52:47 this as an example
+52:47 it's awfully awfully inefficient but
+52:52 let's just do it we'll delete the
+52:52 molding so at least that's a little bit
+52:55 easier we'll go into our
+52:55 front section here specify zero shelves
+53:01 so that that part's a little easier
+53:02 yes we can even go into our back and say
+53:07 that there's this is none in our left
+53:09 and say that there's none
+53:09 and our right and say that there's none
+53:14 and
+53:14 box construction can be zero
+53:18 and no top no bottom
+53:18 and now we've finally gotten down to
+53:23 just the door and this handle
+53:23 so that i can use the delete surface
+53:26 tool
+53:26 spend a bunch of time wasted just to get
+53:31 whatever goofy handle you picked up from
+53:33 who knows where
+53:33 i bet you it's in the bonus catalog
+53:35 somewhere someone out there probably
+53:38 knows
+53:38 here we go
+53:40 that's all i needed to do
+53:41 and then tools symbol converts symbol
+53:46 it's hardware
+53:46 right hardware
+53:48 maybe do we have a designation for yeah
+53:50 no it's just hardware add a library show
+53:53 advanced
+53:53 mouse pull
+54:06 okay oh i forgot to delete the back face
+54:09 guys why don't you tell me
+54:10 that goofy i could have left it and then
+54:13 brought it back in and then deleted the
+54:15 back face but
+54:15 let's just do this over again
+54:17 so yeah you can use the delete surface
+54:19 tool i show this in another video where
+54:23 i get pretty kind of advanced with that
+54:24 delete service tool
+54:24 it comes in handy every once in a while
+54:27 if you really don't feel like dragging
+54:27 stuff out to like a sketchup or blender
+54:31 or something like that
+54:33 mel's pull
+54:33 hell's ball
+54:38 yup add the library
+54:40 there we go
+54:40 there she goes now there's probably some
+54:45 edits that we need to do here
+54:45 some like i could sit here and really
+54:47 commit that to memory what the xyz plane
+54:52 is to make sure that every time i do
+54:55 this that i make my edits
+54:55 before the fact as opposed to after the
+54:59 fact but
+54:59 man that seems like
+55:00 a lot of wasted brain space to try to
+55:04 remember xyz coordinates so i'd rather
+55:10 just do a guess and check
+55:10 i don't know why this is taking a long
+55:11 time to close just give us a second nice
+55:18 oh
+55:18 you guys oh we just had a chief crash
+55:23 look at that
+55:34 get back in the mix
+55:34 did we lose our feed i think we lost our
+55:45 hey sorry if we did let me uh let me
+55:57 i'm getting a lot of freezing freezing
+55:59 freezing freezing
+55:59 uh oh i lost some stuff here
+56:08 what's happening oh okay we're getting a
+56:29 all right we're having some latency
+56:29 let's see if we're back in live okay we
+56:38 this stuff's hard to set up guys
+56:39 um
+56:39 i love interaction too so throw me some
+56:43 you know i don't know likes or say great
+56:47 job or whatever i love doing this for
+56:49 you guys but
+56:49 it does feel like i'm talking to a blank
+56:53 wall sometimes
+56:53 this is a weird weird culture we're in
+56:56 now
+56:57 um
+56:58 so
+56:58 welcome back to the feed let's get back
+57:01 into this
+57:01 uh our library browser let's see if it's
+57:06 still intact it is here we go we got
+57:07 mel's poll
+57:07 we lost the plan we're working on
+57:19 we're in the right version great
+57:19 back off the mic it seemed really loud
+57:23 okay working plan view and pull a camera
+57:34 it's nice when we're on you know not on
+57:35 live feed just kind of gives you an
+57:35 example of how much we cut out of a feed
+57:40 right like we would just cut all that
+57:40 out cut edit you know crossfade into the
+57:43 next scene
+57:43 so because we're live we got to do you
+57:47 know we've got to just work with these
+57:48 hiccups
+57:48 here we go
+57:50 let's see what this did what do we do
+57:51 what do we create here look at that so
+57:56 already we already know two things
+57:56 just by placing this handle look at how
+57:59 goofy that is
+57:59 we know one we need to rotate about the
+58:06 what is it z-axis and then we also know
+58:09 that chief created an automatic offset
+58:11 so get back into the library opener
+58:11 symbol let's get rid of that offset how
+58:15 funny
+58:15 actually didn't create an automatic
+58:17 offset which means we need to make an
+58:18 offset so here's that we've got a nine
+58:23 inch height okay
+58:23 i just all i did there was select grab
+58:28 it and guess what i'm gonna do here
+58:28 rz position i'm gonna paste that height
+58:32 okay and we'll see what happens you see
+58:34 it jumped up like that
+58:37 okay
+58:37 and then let's divide this by two
+58:40 divided by two there we go jump down a
+58:44 little bit and then let's make it a
+58:46 negative
+58:46 now we're placing center of this symbol
+58:51 now what happens when we rotate
+58:54 there we go rotating the z
+58:54 let's just press ok guess and check cast
+58:58 and check guess and check
+59:00 stick and move
+59:02 there we are
+59:03 now what's
+59:03 what's chief doing right what is chief
+59:07 doing because
+59:07 look where it's placed it's placed in
+59:09 kind of a funny place right so let's go
+59:12 discover this
+59:12 up from bottom door handle is up from
+59:15 bottom 11.5 inches now why the heck is
+59:18 that that's because that existing symbol
+59:23 is kind of set up weird right let's go
+59:25 look at a vertical bar pull
+59:31 we can do that we can do that core again
+59:31 or
+59:31 well we do want core because we don't
+59:33 know where she got that symbol from and
+59:36 we know that the core symbol should be
+59:36 as accurate as possible so here's a bar
+59:42 pull handle let's edit this one
+59:42 look at this what happens when it's 11
+59:45 and a half up and let's go like let's
+59:46 look at this symbol show it in browser
+59:49 and then we can see
+59:49 how chief works right there is no offset
+59:55 here the bottom of this bar pole is at
+59:58 the bottom of the symbol itself
+59:58 so whatever bar pull she had in there
+1:00:00 before
+1:00:00 and let's back out let's control z it
+1:00:03 out
+1:00:03 had a weird offset on it so
+1:00:05 what do we want for our offset well i
+1:00:09 kind of want my offset to be in line
+1:00:09 with chief's symbols so in fact i don't
+1:00:15 want a z offset i want this at the
+1:00:15 bottom that's exactly where it should be
+1:00:19 so when i press place this in and
+1:00:21 replace it
+1:00:21 now i know that i know the bottom of
+1:00:23 this bar pull i want it only to be up
+1:00:26 like what inch and a half something like
+1:00:29 that there we go
+1:00:29 that looks right right so
+1:00:35 created a symbol kind of modified the
+1:00:37 symbol making sure that it works
+1:00:37 correctly needed to rotate it because it
+1:00:41 was drawn in a funny plane
+1:00:41 and that's and we could have fixed that
+1:00:44 from the get-go we could have been
+1:00:44 perfect all the way through without
+1:00:45 having to modify any of the the symbol
+1:00:49 edit properties
+1:00:49 one more thing i want to do about this
+1:00:50 actually there's two more things one is
+1:00:53 we're going to open the symbol up and
+1:00:54 we're going to make sure under the
+1:00:54 sizing plane here's the main thing that
+1:00:56 i want to do i want to create a bunch of
+1:00:59 different symbols from this symbol that
+1:01:02 are all different heights right
+1:01:02 so here in my height plane this one's a
+1:01:05 simple one the style of this bar pull is
+1:01:08 really simple which means that all i
+1:01:08 need is one single stretch plane and i
+1:01:12 can do that nine divided by two again if
+1:01:15 i don't feel like doing the math and
+1:01:18 there we go i need that one
+1:01:18 single stretch plane it's a really
+1:01:23 simple symbol to fix here
+1:01:23 and what do i get to do from there well
+1:01:28 i can duplicate it
+1:01:28 let me duplicate it
+1:01:30 let me open the object and now i'm going
+1:01:34 to specify that this particular one is 7
+1:01:36 inches tall
+1:01:37 that
+1:01:37 bam and then we're gonna make sure that
+1:01:43 so the second thing that i wanted to do
+1:01:46 here here's seven inch
+1:01:46 before i duplicated it so let me delete
+1:01:50 that sorry if i just yelled in your ear
+1:01:52 the the mic on this thing's a little
+1:01:52 all over the place before i duplicate it
+1:01:57 i tell people this all the time when i'm
+1:01:59 doing training i tell people this all
+1:02:01 the time you want the most robust
+1:02:01 powerful library you could possibly
+1:02:03 imagine
+1:02:03 make sure that you come up with a system
+1:02:07 before you start establishing your
+1:02:07 library which and i know a lot of us
+1:02:09 maybe who are watching this are coming
+1:02:13 at this
+1:02:13 after years of
+1:02:14 messing up our library having to be all
+1:02:17 over the place come in here come up with
+1:02:22 a system and then stick to that system
+1:02:22 adjust it on the fly as you use a symbol
+1:02:27 conform the symbols that you're using in
+1:02:29 your plan back to your library and make
+1:02:32 sure that you put in search attributes
+1:02:34 make sure that you do it
+1:02:34 it's it's the only real opportunity you
+1:02:39 can do it without having to do a bunch
+1:02:39 of bulk edits that take forever so this
+1:02:42 is what i'm going to do
+1:02:42 rd pull if you have any symbols from me
+1:02:48 going forward from x13 on
+1:02:48 anytime you want to look something up
+1:02:50 with a keyword it's going to have rd in
+1:02:55 the front of it rd bar
+1:02:56 there we go
+1:02:56 which means rabbit design rabbit sign
+1:02:58 borrow rabbit design poll that means i
+1:03:00 edited this symbol at some point and if
+1:03:03 you like my symbols and you like the
+1:03:05 quality of my symbols
+1:03:05 you're going to type in rd before you
+1:03:06 hit anything you're going to find that
+1:03:09 it you know really narrows your search
+1:03:11 parameters down and kind of
+1:03:11 differentiates my stuff in the user
+1:03:13 library from other people's stuff so
+1:03:16 here we go then regular bar regular poll
+1:03:24 any other you know cabinet handle
+1:03:24 etc etc whatever you want in those
+1:03:28 keywords make sure that you do it
+1:03:29 now
+1:03:29 duplicate it over now it's way easier
+1:03:34 duplicate it over
+1:03:34 rename this sucker
+1:03:40 right
+1:03:40 and then go in
+1:03:43 and edit it
+1:03:44 and now it's a seven inch pull
+1:03:47 and what happens when we drop it in
+1:03:51 there we go
+1:03:52 drops down
+1:03:52 right from where it should which is it
+1:03:55 places it from that bottom of that
+1:03:57 symbol
+1:03:57 pretty simple to edit this out now
+1:03:59 same concepts apply for what we just did
+1:04:03 there we'll apply for this particular
+1:04:06 section here so i like working in new
+1:04:06 plans it helps me just clear the air and
+1:04:10 think so i'm going to place this seven
+1:04:10 inch pole it's going to want to place it
+1:04:14 well you see the the
+1:04:14 the icon that changes from the mouse
+1:04:16 there it places it as something a little
+1:04:20 bit different
+1:04:20 what are we going to do we're going to
+1:04:21 edit the symbol in place i want to edit
+1:04:25 the symbol in place it's still by the
+1:04:28 way check this out
+1:04:28 if we add it to library right now
+1:04:30 what is it coming in melis pull seven
+1:04:32 inch if we look up our search attributes
+1:04:35 what happens
+1:04:35 all those attributes still are there
+1:04:37 they carry with so when they're placed
+1:04:40 in plan
+1:04:40 they're still there pretty cool right
+1:04:45 so
+1:04:45 here we go i want to edit this by the
+1:04:47 way we forgot one thing oh i forgot one
+1:04:52 big major major major major major major
+1:04:54 step here and now i need to edit two
+1:04:54 symbols at once and this is a problem
+1:04:58 and this is why you get sucked into a
+1:05:00 big thing here
+1:05:00 is what do i want to do this is turned
+1:05:04 incorrect
+1:05:04 generate block look at it fix that block
+1:05:10 it fixed that block it also created
+1:05:12 additional available cad blocks
+1:05:12 and i want to talk about that too
+1:05:17 open symbol generate block
+1:05:17 now that i've done that that previous
+1:05:20 block is no longer good to me i don't
+1:05:24 want that previous block and in fact
+1:05:24 we'll get to that right after we edit
+1:05:26 this so edit this symbol on the symbol
+1:05:30 level by the way there's two kind of
+1:05:31 classifications for these things
+1:05:32 right now what is selected is not only
+1:05:34 is it a symbol but it's also a component
+1:05:38 okay it's an architectural component to
+1:05:41 chief architect it's which
+1:05:41 actually dually classifies as a symbol
+1:05:43 so we have a symbol classification edit
+1:05:48 level menu and then our component level
+1:05:51 edit level menu right so i want to edit
+1:05:54 this in the symbol level classification
+1:05:55 and i'm going to rotate it and we're
+1:05:58 going to turn this into a bar pole
+1:05:58 and what am i going to rotate it in
+1:06:01 we want to rotate it in i believe the x
+1:06:03 plane see this is the x plane right here
+1:06:11 or is it the y plane
+1:06:11 by plane haha i was wrong
+1:06:17 and so we got this we've got this done
+1:06:17 what are we going to do next you guessed
+1:06:21 it in the 2d block let's generate that
+1:06:23 2d block let's make sure that 2d block
+1:06:25 looks correct press ok
+1:06:25 now we can add it to the library to test
+1:06:29 it out
+1:06:29 let's do that and then replace this
+1:06:34 right
+1:06:34 there we go now we do in fact like if we
+1:06:40 look at this let's open this symbol up
+1:06:42 in our 3d panel
+1:06:42 look at where this is new by the way to
+1:06:47 x13 we can see these xyz coordinates we
+1:06:49 can see our origin point right our
+1:06:52 origin point is placing off of
+1:06:53 um
+1:06:53 the
+1:06:54 furthest most point on the y-axis which
+1:06:59 is what you want right that's typically
+1:07:00 what you want when this is going to be
+1:07:02 attached to a slab door
+1:07:02 what happens when we're attaching to a
+1:07:05 door like this like how do we figure
+1:07:07 this out
+1:07:07 well if you've got a particular door
+1:07:08 style that you use over and over again
+1:07:10 maybe we can get it close me or we could
+1:07:14 get it dead on the money if you needed
+1:07:14 to if you needed to get this debt on the
+1:07:18 money we could it's pretty easy to
+1:07:19 figure this out
+1:07:19 all we're going to be doing is pulling a
+1:07:22 section camera
+1:07:22 right through the center of this guy
+1:07:27 boy if you're not getting a ton of
+1:07:28 information from this particular video
+1:07:31 i don't know i don't know what to tell
+1:07:33 you you're you're a master
+1:07:33 okay so what happens when we pull the
+1:07:35 section camera we should get a section
+1:07:39 cut right through the center of these
+1:07:40 doors but in fact
+1:07:40 we you know here's here's a gripe that
+1:07:42 we catch a lot of is we only get so many
+1:07:47 section cuts from chief right
+1:07:48 so
+1:07:48 the next part well and also i'm not in a
+1:07:54 vector camera here's a vector camera
+1:07:54 so we're not going to get a section um
+1:07:58 we're not going to get the snap points
+1:08:01 to this particular inset here
+1:08:01 and so we do in fact need to do cad
+1:08:05 detail from view
+1:08:05 in order to get that snap point in order
+1:08:09 to figure out what that offset is
+1:08:10 with certainty right with absolute
+1:08:12 certainty in which case i'm going to
+1:08:13 draw a cad line pop it over here hit tab
+1:08:18 and grab this it's a three quarter inch
+1:08:20 inset which seems very odd
+1:08:20 that seems very odd but that's a big
+1:08:26 inset um
+1:08:27 actually
+1:08:27 this is the front most space here so
+1:08:31 here's what i'm going to do is
+1:08:33 i'm going to
+1:08:33 draw this from here and look because i
+1:08:37 clicked here we see that we've got
+1:08:37 an end point in the midpoint snap line
+1:08:42 there so an infrared snap hit tab
+1:08:42 it is three quarters of an inch in
+1:08:52 feels feels wrong so i'm going to just
+1:08:54 double check it there we go that's the
+1:08:54 actual length i left the cad line there
+1:08:58 now i can grab the actual length that's
+1:09:03 so
+1:09:03 now i want to make sure that these
+1:09:05 horizontal bar pulls have that inset
+1:09:08 because this is the type of drawer that
+1:09:12 i'm going to use for the most part
+1:09:13 so
+1:09:13 what do we do open symbol
+1:09:15 what are we going to modify this in the
+1:09:19 y plane we're probably going to put a
+1:09:20 negative
+1:09:20 blank blank blank
+1:09:23 and double check where that is in fact
+1:09:27 it gave me the wrong
+1:09:27 direction let's do this chief by the way
+1:09:30 automatically truncates this right it
+1:09:30 rounds it up rounds it down runs it to
+1:09:34 the nearest whatever
+1:09:36 um sometimes that
+1:09:36 depends on your um not this not number
+1:09:41 style but
+1:09:41 your dimension style
+1:09:43 but anyways that's the closest to three
+1:09:46 quarters of an inch but we actually do
+1:09:46 even though this says three quarters of
+1:09:48 an inch it did actually offset the exact
+1:09:52 amount
+1:09:52 now that we have this offset now i can
+1:09:54 come in here and place this and look at
+1:09:59 that it's actually going to be recessed
+1:10:01 too far into the cabinet
+1:10:03 too far
+1:10:03 into that cabinet oh wait no no it's
+1:10:07 dead on the money look at that
+1:10:07 dead on the money this is just an ugly
+1:10:12 pull melissa and you should probably
+1:10:14 abandon it because who can fit their
+1:10:15 hand in that
+1:10:15 no one can fit their hand in that little
+1:10:19 baby hands
+1:10:19 what is going on here
+1:10:24 let's check this out i mean this is
+1:10:24 this is taking this above and beyond i'm
+1:10:28 gonna make her fix this kind of stuff
+1:10:31 but we can see here that our offset
+1:10:33 you know they do the offsets
+1:10:34 um
+1:10:34 let's see what do we got going on
+1:10:36 where's what's happening here door
+1:10:40 drawers
+1:10:40 drawer handle seven inch one handle
+1:10:42 centered it's calling this the center of
+1:10:46 the drawer huh
+1:10:46 that's interesting
+1:10:47 there's an offset in that actual drawer
+1:10:52 that's strange this is when you can go
+1:10:52 in and kind of override things so we've
+1:10:54 got this drawer selection we can specify
+1:11:03 distance from the top
+1:11:03 and then maybe it's i don't know
+1:11:05 we get a very small preview window you
+1:11:07 have to expand that to get it any larger
+1:11:12 would be nice to get a section cut on
+1:11:13 this i'm not gonna lie
+1:11:13 that would be nice that'd be a cool
+1:11:16 little
+1:11:17 edit
+1:11:17 four inches now that looks like it's in
+1:11:21 the center
+1:11:21 high level editing here there we go
+1:11:24 and look how much time that takes do we
+1:11:27 really need that kind of a
+1:11:27 representation hey you know what
+1:11:31 sometimes you do sometimes
+1:11:31 sometimes you're on an upper level of
+1:11:36 design where everything needs to be
+1:11:38 exact it needs to be an exact
+1:11:38 representation of what you're actually
+1:11:42 building so i get it
+1:11:42 so the only the answer here kind of to
+1:11:44 the quandary of can we you know stretch
+1:11:49 these hardware symbols
+1:11:49 not really not really if you're going to
+1:11:54 in fact have them auto placed on the
+1:11:55 cabinet
+1:11:55 what's our you know what's the thing
+1:11:58 that we could do that would be different
+1:12:01 from that yeah you could actually place
+1:12:04 it on the ground arbitrarily and then
+1:12:04 place it on your cabinets and use your
+1:12:07 multiple copy
+1:12:07 and do it that way i don't i don't
+1:12:11 particularly love that um
+1:12:12 but you could do it that way
+1:12:14 and you can see here the bounding box is
+1:12:17 much different from where the symbol
+1:12:18 representation is and that's because
+1:12:20 we've got that offset
+1:12:22 so
+1:12:22 that's when you actually don't want an
+1:12:26 offset if you wanted to place this
+1:12:26 handle arbitrarily and then hand place
+1:12:28 this stuff i mean you got to be talking
+1:12:31 about a pretty custom kitchen at that
+1:12:33 point very expensive to do that much
+1:12:35 detailing but
+1:12:36 if this is a bar pull you use over and
+1:12:38 over again maybe it makes sense to edit
+1:12:41 it so
+1:12:42 there's the methods i think that kind of
+1:12:45 closes this out i feel like we got some
+1:12:48 heavy hitting info in on this one and
+1:12:51 that's pretty fun um
+1:12:51 i know on one of my other
+1:12:54 one of my other
+1:12:54 um videos that i that i posted
+1:12:59 we got into
+1:12:59 um the whole z-wave craze i'm into the
+1:13:04 z-wave crates the smart home stuff how
+1:13:05 are you guys wiring these smart homes
+1:13:05 and how are we integrating these systems
+1:13:09 into chief
+1:13:09 i know i want a video on that i'm going
+1:13:12 to probably bring some more videos on
+1:13:15 that um help me out here i'd love to
+1:13:15 know more about what you want to see in
+1:13:17 these videos i want this to be an active
+1:13:21 place where the you come and interact
+1:13:21 with me because i want to learn from you
+1:13:25 you guys learn from me awesome we're a
+1:13:25 team
+1:13:26 uh the other part of this the other part
+1:13:29 of these videos is
+1:13:29 look again shameless plug i have a
+1:13:31 youtube channel i have a website i have
+1:13:36 a facebook feed i am a moderator on
+1:13:36 several facebook feeds i'm in the chief
+1:13:40 doc forums i'm you know i talk to some
+1:13:43 of them the developers achieve love
+1:13:43 these guys i love this whole team i love
+1:13:48 this whole culture i'm shocked that more
+1:13:50 architects aren't using this software
+1:13:52 for as efficient as it is i'd love to
+1:13:54 get it more exposure
+1:13:54 and i'm happy to be the face of some of
+1:13:57 this stuff so
+1:13:58 i
+1:13:58 want to hear more from you i'm i'm on on
+1:14:03 a path of needing to to create a
+1:14:04 curriculum for you guys i'm also on a
+1:14:06 path to creating a bunch of symbols so
+1:14:10 you have some symbol ideas i want to
+1:14:11 hear them
+1:14:11 and they have to make sense right like
+1:14:15 these are simple ideas where everybody
+1:14:16 everybody's going to utilize them and
+1:14:18 they can't be copyright infringing
+1:14:18 we want to touch on symbols that are
+1:14:22 kind of a universal use
+1:14:22 they're place marker symbols they're
+1:14:24 high level material edits right so hit
+1:14:28 me back leave some comments on this feed
+1:14:31 leave some comments on this facebook
+1:14:31 feed if you're getting that if you're
+1:14:32 catching this through my youtube channel
+1:14:36 awesome
+1:14:36 feel free to comment on the youtube
+1:14:37 channel i respond to all my different
+1:14:39 social channels i'm on instagram i'm on
+1:14:43 all these places so
+1:14:43 communicate with me love to hear from
+1:14:46 you thank you for watching
+1:14:46 i'm sure there's probably some questions
+1:14:50 here i'd also love to see you guys try
+1:14:51 out some of the stuff we did in the
+1:14:53 first part of this video so
+1:14:53 check it out come back to me and
+1:14:55 appreciate you watching thank you
+1:15:02 and i don't know how to end

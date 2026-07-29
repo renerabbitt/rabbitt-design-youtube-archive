@@ -1,0 +1,470 @@
+Title: Ruby Scripting for Chief Architect X15 using ChatGPT 3
+URL: https://www.youtube.com/watch?v=kJpeSMEUsoI
+Visibility: members-only
+
+0:00 all right choose chatty BT to
+0:06 write ourselves a little Ruby script
+0:09 a little Ruby script I have something
+0:12 here
+0:13 um and it's in my free symbol section
+0:15 but it's this object information macro
+0:18 and it's actually on your toolbars as
+0:20 well you can see it here this guy right
+0:22 here up at the top of the screen
+0:27 yeah minimize dang it okay and so when I
+0:31 place this and I connect a leader to one
+0:33 of these objects in the plan it's going
+0:35 to give me a bunch of
+0:37 find parameters for that particular
+0:39 object
+0:40 you can see here there's a one that's
+0:42 really important and that is type
+0:44 type gives us base cabinet very simply
+0:48 okay so in chat GPT I want to write a
+0:51 ruby script
+0:53 Ruby scripting okay
+0:57 and so what do we want we got to kind of
+0:59 tabulate what we want this is going to
+1:00 be a cabinet label so
+1:02 a script that is called
+1:07 Abnet and then Capital label
+1:11 foreign Let's see we want
+1:15 to report the value for with
+1:19 and we want to convert
+1:24 it to a float we want to round to zero
+1:28 decimals
+1:31 and
+1:33 send to variable
+1:36 W okay that part's clear let's just
+1:40 start with that why not
+1:45 and what does it do gives us W equals
+1:48 width to F round zero
+1:50 perfect
+1:52 all right now let's say a couple things
+1:53 here there's a couple things I know that
+1:55 maybe you don't which is what's the
+1:57 action here that's called puts we don't
+2:00 need that in Chief's version of Ruby
+2:02 they've got a modified version of Ruby
+2:04 this is a modified version
+2:08 of Ruby
+2:13 puts is not necessary and let's see what
+2:17 it does with that info
+2:20 okay apologize for the confusion it's
+2:22 very kind to us
+2:25 yeah it just says it's stored it in a
+2:27 variable perfect
+2:29 okay so now we want cabinet label
+2:33 should report
+2:35 W let's see if it figures that out
+2:43 it rewrites our statement
+2:45 with the F and now you know what it's
+2:47 still messed it up it still put puts
+2:49 okay cabinet label
+2:53 reports
+2:55 w
+2:56 know need or puts
+3:00 see if it fixes that so this is a like I
+3:03 said very iterative we're going to keep
+3:04 stacking on this by the way this is
+3:06 going to become a very complicated macro
+3:09 as we get through this so there we go
+3:12 there's our there's our W for cabinet
+3:14 label now we're going to do some
+3:16 additional things
+3:17 I want to look for let's see we're going
+3:20 to um
+3:23 take the
+3:26 character Let's see we want to say what
+3:29 are we going to look for
+3:35 a value for
+3:38 type
+3:39 is a string it's just a text string or
+3:43 we could say if it makes sense to you is
+3:46 a text
+3:49 if the first letter of the
+3:54 let's see
+3:56 um let's make it even more simple
+3:58 is a text
+4:00 take the
+4:04 first letter of that text and Report
+4:11 the cabinet label
+4:14 as
+4:16 that first letter
+4:19 and the value for w see what it comes up
+4:23 with
+4:27 it always wants to apologize you didn't
+4:28 do anything wrong we're just adding to
+4:30 what we've got here
+4:32 Okay so
+4:33 with sir that's correct cabinet label
+4:36 equals type zero so we're a little bit
+4:39 off here we want it to be
+4:43 and
+4:46 we want to add W to
+4:50 cabinet label
+4:55 see if it fixes that
+5:01 there we go
+5:03 type
+5:05 it shows us type indexes 0 which is the
+5:09 first character of type plus W okay
+5:13 so remove puts this is not necessary
+5:20 ever
+5:22 and change
+5:25 to Cabinet label
+5:30 see if it'll correct itself
+5:33 again this is just the very beginning
+5:35 stages this is going to become more
+5:37 complicated as we go and we're going to
+5:38 keep stacking real quick so this is
+5:40 going to be a little bit longer of a
+5:41 video
+5:42 there we have it perfect cabinet label
+5:45 equals type perfect so we can even say
+5:47 that perfect
+5:50 great job
+5:52 now if
+5:54 cabinet label is
+5:59 w
+6:01 let's see no let's do another thing
+6:04 let's say perfect great job
+6:08 now look at the value 4 and here's what
+6:13 we need to know and we can look this up
+6:15 in this huge list over here but I
+6:17 already know what I'm looking for Num
+6:19 underscore drawers
+6:22 is greater than one
+6:26 okay
+6:28 and
+6:30 we're going to just tape what they have
+6:32 up there type bracket zero
+6:35 is w
+6:37 okay if it's looking for not WB it's B
+6:41 meaning base cabinet if it's B and
+6:44 number draws is greater than one
+6:46 then
+6:48 cabinet
+6:50 label
+6:52 is we want it to be
+6:56 um
+7:01 type
+7:02 then
+7:05 [Music]
+7:07 no then we want it to be
+7:10 quote unquote
+7:14 you know we want to be numb drawers
+7:19 uh let's see
+7:22 in quote unquote
+7:24 DB so
+7:26 two two door base right
+7:31 BB
+7:33 so it's reporting the number of drawers
+7:36 plus DB
+7:39 and then with
+7:42 with no spaces
+7:45 and I don't even have to say with we
+7:47 just say w
+7:49 okay let's see what it comes up with
+7:57 and I mean my grammar was terrible too
+7:59 so let's see see how this does we might
+8:01 have to correct some things
+8:09 so it got a little bit a little bit
+8:11 wrong here let me see let's see if it
+8:13 did it
+8:26 I think that got it actually so let's
+8:28 just take this let's take this and see
+8:31 what it can can do right so we're just
+8:34 taking this part here
+8:36 um this is a condition statement right
+8:38 but we don't need that we just need this
+8:39 for so let's grab this and what we're
+8:41 going to do is I'm going to bring this
+8:43 over to Chief Let's test it
+8:45 and we're not done yet we got a lot more
+8:51 so I'm going to grab this
+8:53 base right here base cabinet right here
+8:56 you get in a cabinet label right now
+8:58 it's just automatic label let's paste
+9:00 this see what happens look at that
+9:04 so it does report some value right off
+9:06 the bat base 24. what happens when we
+9:08 expand it look at that it is showing
+9:11 with now what happens if I make it a two
+9:13 drawer base
+9:14 look at that that worked all right so
+9:17 we're getting somewhere
+9:18 now let's add on to this right because
+9:21 there's a couple things we want to check
+9:23 so if let's see
+9:26 if type
+9:30 and zero
+9:32 is something uh uh is let's see let's
+9:36 say is you
+9:38 type is u
+9:40 in cabinet label
+9:45 uh not you
+9:47 is f or full for full height and because
+9:52 that's what it's going to be called is f
+9:54 then
+9:56 um
+9:57 cabinet label
+10:00 is so then we want
+10:05 um and we want
+10:08 type no then we want you
+10:12 this is what we're typically labeling it
+10:14 in my part in my for my cabinet vendor
+10:16 is you then
+10:20 um with
+10:21 or w
+10:24 then
+10:25 then we want height
+10:27 reported
+10:29 to variable
+10:33 um h
+10:36 uh
+10:38 inverted to
+10:41 float in this case
+10:43 round zero we know that already
+10:48 and then we want it
+10:50 um
+10:50 depth
+10:54 reported
+10:56 to
+10:58 d
+10:59 converted to float
+11:03 around
+11:04 zero let's see if it gets this this is I
+11:07 didn't do a very good job of explaining
+11:09 that but hopefully this is figures this
+11:11 out
+11:18 okay it sets our three variables it did
+11:20 it correctly
+11:25 and look at this so it's it sets our
+11:28 three variables and this is a really
+11:29 clean code by the way
+11:31 um let's see did it get it all right
+11:32 though if type it is equal to F else
+11:34 cabinet light label equals ah it missed
+11:38 the part about
+11:40 the
+11:43 include this section
+11:46 and parameters
+11:48 about numb
+11:52 drawers from earlier
+11:55 because I forgot that
+11:57 see if it if it
+11:59 amends that and adds it in
+12:09 okay so let's let's grab this and test
+12:13 it real quick
+12:15 it's the same thing we're going to grab
+12:16 this all and test it
+12:19 we'll come back in here
+12:22 and this is our text macro management
+12:24 this is you know in your um and at the
+12:26 top here
+12:28 so I'll grab this
+12:30 it shows an error right now because I
+12:32 don't have the cabinet selected so that
+12:34 was the reason there and then this lives
+12:37 in not Ruby Council uh I believe it
+12:40 lives in CAD under text text macro
+12:42 management okay
+12:44 so now we've got a two drawer base and
+12:47 look at this it did it it's correct if I
+12:50 expand this there's that yeah it's
+12:52 fixing error if I do this yep it's
+12:55 fixing there so that's our width height
+12:57 by depth with u in the front
+13:00 awesome
+13:02 awesome right
+13:04 so what happens if I got a sync base I
+13:07 want or a dishwasher let's let's make
+13:10 those conditions happen so here we go
+13:12 let's put this
+13:14 sink in and see where
+13:18 that drawer is sure
+13:20 um
+13:23 so there's an if condition because this
+13:24 has two drawers but it's a sink base so
+13:26 we need to make sure that we're you know
+13:28 adding that part to it
+13:30 um
+13:35 so where does it tell us it's a sync
+13:38 base well automatic label says it's a
+13:40 sync base let's see if we can use that
+13:46 oops
+13:48 so let's get back here
+13:51 perfect let's add let's make sure we say
+13:54 let's add to this
+13:58 look for the value in
+14:02 automatic make sure you're spelling all
+14:05 this stuff correctly
+14:06 label and
+14:09 if
+14:10 it reports
+14:12 the characters we can just say
+14:15 character
+14:17 see
+14:18 well we already know
+14:22 this is an array we're looking for so
+14:24 the first two characters
+14:26 an automatic level
+14:28 0.1 I know how to write that already so
+14:31 I'm going to write it that way but you
+14:33 could have just said look for the two
+14:34 characters
+14:39 e equal
+14:41 to or let's see includes
+14:46 SB right
+14:49 then
+14:51 then what do we want
+14:53 let's see and
+14:55 and we want to also say
+14:59 um and
+15:00 type is
+15:04 when we say type was and if type is
+15:12 type is
+15:14 B
+15:18 type zero
+15:20 is B
+15:23 in
+15:27 permanently oh
+15:30 yes
+15:32 um
+15:33 SB
+15:34 and then
+15:37 in w
+15:39 see if that worked
+15:49 okay we've got our three variables
+15:51 automatic label zero to one includes SB
+15:55 there we go and type equals B
+15:58 look at that and it's teaching us as we
+16:01 go you can have it explain this if you
+16:03 want if this doesn't clear to you but we
+16:06 can see what it's doing because it's
+16:07 it's creating our actions so it's
+16:09 there's some logic here that you might
+16:11 be able to follow easier than if you're
+16:13 just trying to look stuff up you can
+16:15 reverse engineer things this way right
+16:17 so cabinet level all right let's see if
+16:20 this worked I don't know I'm not even
+16:21 going to stop to see you know if it if
+16:24 it wrote it correctly we're just going
+16:25 to copy this and bring it over again
+16:35 okay so what do we get there we go sync
+16:38 base 39
+16:40 drop this down sync base 36 okay now the
+16:44 one thing it's not telling is it's not
+16:45 telling us the number of drawers so you
+16:47 might want to have it report that but
+16:49 everything else seems to be working
+16:50 let's drop another base cabinet in here
+16:52 make sure it's still working and we're
+16:54 still getting the number of drawers out
+16:56 of it
+16:57 look at that this is all working right
+16:59 now what about fillers what happens with
+17:01 a filler because filler is essentially
+17:04 like a base cabinet right so what
+17:07 happens when this happens well now
+17:08 that's a base three that's not good so
+17:11 what value can we get from filler to
+17:13 designated separate from these others
+17:15 so now I've selected that and what do we
+17:18 get from this base cabinet filler
+17:23 okay
+17:24 so we notice that it has the word filler
+17:27 in it
+17:29 and do we have a section maybe that says
+17:31 is filler
+17:33 well let's just check is there anything
+17:35 that mentions filler
+17:38 filler
+17:39 back left side filler front side filler
+17:41 front side
+17:43 yeah it doesn't really State anything
+17:48 um and there's no conditional statement
+17:50 for is this filler not that I see
+17:53 anyways let's just double check see it
+17:55 shows it as a base cabinet
+17:57 filler is just a base cabinet so let's
+18:01 say
+18:03 where's the only mentions of filler
+18:05 automatic description
+18:08 that's the only place I see it
+18:12 Okay so
+18:15 perfect let's add
+18:19 if automatic
+18:22 description
+18:28 includes right includes
+18:31 includes
+18:34 filler
+18:36 in cabinet label
+18:42 oh I spelled automatically this
+18:43 description this is really important
+18:45 that we have our spelling right
+18:48 and to that
+18:50 description includes filler
+18:53 and we want filler in quotes right we
+18:56 want just to know that this is the text
+18:58 string in cabinet label
+19:02 should be
+19:04 um let's just go
+19:06 flr
+19:07 right and then let's see if we can just
+19:10 put w
+19:12 see if that works
+19:30 okay now in Chief there's an order of
+19:34 actions here so the order of actions is
+19:38 is reporting this
+19:41 in order so put it right at this at the
+19:43 top let's check this out let's see if it
+19:45 works
+19:50 oops gotta remember to hit edit
+19:53 okay
+19:56 now keep in mind oh look at that it did
+19:59 work keep in mind when I'm doing this I
+20:01 already had this set up but do keep in
+20:04 mind we have this set to evaluate right
+20:07 here okay this is checked on evaluate
+20:09 and also owner object all right because
+20:12 the cabinet itself owns the label that
+20:15 we're including this in if it was
+20:17 referenced meaning we're drawing a
+20:19 leader line from
+20:22 some text box that has the macro in it
+20:25 to the thing that we want to parse info
+20:27 from that's a reference this is an owner
+20:29 a label lives with inside this cabinet
+20:31 okay
+20:32 so perfect
+20:36 let's see what it did it did it right
+20:37 filler three doesn't matter if it's
+20:39 filler 21 that's a filler now okay
+20:42 because it's checked as a filler so we
+20:45 got our three door base easy
+20:47 our full height cabinet our wall cabinet
+20:50 and our sink base
+20:52 I'm going to stop the video now I'm
+20:54 going to let you guys play around with
+20:55 it but
+20:56 this is a great great method for
+20:59 creating this kind of stuff so mess
+21:02 around with it as you hit roadblocks you
+21:04 can always get it to explain things okay
+21:06 let's do this I'm going to copy this
+21:09 okay I'm going to copy this whole thing
+21:11 I'm going to go to a new chat
+21:13 please explain this macro and how it
+21:18 works
+21:21 and I paste let's see what it comes up
+21:23 with
+21:30 yeah it will describe this very clearly
+21:33 for you
+21:35 so there you go I'm Gonna Leave You with
+21:37 that have fun with it I hope you enjoyed
+21:41 this segment maybe that that was too
+21:43 complicated if it is uh come back to me
+21:45 ask some questions
+21:50 [Music]

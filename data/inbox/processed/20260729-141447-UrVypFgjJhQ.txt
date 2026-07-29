@@ -1,0 +1,604 @@
+Title: Reversing Plans in Chief Architect X15
+URL: https://www.youtube.com/watch?v=UrVypFgjJhQ
+Visibility: members-only
+
+0:00 uh what's going on everybody uh this
+0:02 video is for noname and the Project's
+0:04 name is noname that's because this
+0:08 particular project and this particular
+0:09 user is having a frustrating time uh
+0:12 rotating excuse me not rotating
+0:14 reversing a plan so I renamed it just so
+0:19 we can go over this and maybe this video
+0:21 benefits other people I haven't studied
+0:24 this plan I haven't opened this plan
+0:25 you're getting it with me so I'm opening
+0:27 it right now we're looking at it let's
+0:29 see what we got going on right off the
+0:31 bat I just want to try to reverse the
+0:33 plan just to see if that just shows up
+0:35 and some funny things the um the user is
+0:38 saying that they are um they get um text
+0:42 that's missing excuse me I got a hair
+0:44 flying around my hat uh they get text
+0:46 that's missing and
+0:48 then on top of that they get um some
+0:52 other stuff that's just missing some
+0:54 stuff that's screwed up um so let's just
+0:57 reverse the plan right off the bat see
+0:58 what happens
+1:00 oh and it
+1:02 disappears and it goes way over here
+1:04 okay so we already got some offset
+1:06 issues that's no big deal let's just
+1:07 control Z back out of that uh next thing
+1:10 is that let's get rid of schedules we
+1:11 want to put schedules into a cad detail
+1:14 that's a way better way to deal with
+1:16 things especially when we're doing a
+1:17 bunch of reverse plan stuff so um I'm
+1:19 just going to click on this set it to
+1:21 default in case it wasn't already set
+1:23 this guy to default in case that wasn't
+1:25 already um we can take both of these and
+1:28 just cut them and and then do a new CAD
+1:31 deta detail excuse me Windows
+1:34 schedule this is a great there there's
+1:37 so many powerful reasons for putting
+1:40 your windows schedule into a cad detail
+1:43 um one is that we get some naming
+1:45 convention stuff we get some uh
+1:47 scripting stuff that as you get advanced
+1:48 in this software we can really utilize
+1:51 and then a number of other things as
+1:53 well um so we can do some specific uh
+1:57 organization and naming setups here and
+2:00 we can do um swappable relinking in
+2:03 layout boxes so there's a bunch of
+2:05 reasons to put a window schedule in a
+2:07 cad detail so there you go there's your
+2:08 window schedule let's just cut this
+2:10 might as well get it all set up for him
+2:12 let's do door schedule same
+2:16 thing I'm going to end up pasting I want
+2:19 to see that drawing sheet just to see
+2:20 where it's at and then Center up and
+2:23 maybe I will shift bring this up to the
+2:25 top of the screen similar to the windows
+2:27 schedule and we can close this window
+2:30 out okay so that was a few things we got
+2:32 out of the way now let's looks like
+2:35 we're not using saved plan views which
+2:36 is too bad that works really well it um
+2:39 lot lot more power in the save plan view
+2:42 versus um just going by layer set or
+2:45 it's just that uh it was saved in with a
+2:48 save plan view set To None who knows I'm
+2:51 not sure uh I don't have the layout file
+2:53 to be able to take a look at that so
+2:55 next thing is I want to switch in this
+2:57 none I want to switch to all layers on
+2:59 and get into all and actually make sure
+3:01 that all layers are on and that way I
+3:03 can look we're doing a walk out basement
+3:05 in floor level zero I would highly
+3:08 highly highly encourage to do this on a
+3:10 level one so I'm going to go ahead and
+3:13 ALT buildo uh and then insert I a new
+3:16 floor dve New Foundation plan from the
+3:19 foundation plan
+3:21 yes there we go now this Foundation plan
+3:24 this is just showing our footings
+3:26 essentially in any kind of stem walls so
+3:28 that this gives us a lot of power in our
+3:31 level one uh for doing a few other
+3:34 things few other tricky things platform
+3:36 intersection split level stuff uh stuff
+3:38 like that so I always always always
+3:40 encourage you to build out your walkout
+3:42 basements in a level number one and just
+3:44 keep your footings in foundations on
+3:46 your level number two now notice that
+3:48 we've got some this is one reason to do
+3:51 that we um when we start designating
+3:53 walls as being footing walls we end up
+3:55 causing some problems in a few cases so
+3:58 how do we get around this let's just go
+4:00 ahead and select all walls in this
+4:01 particular View and let's just make sure
+4:03 that none of these are Foundation walls
+4:06 all right and so instructure we're not
+4:08 going to insert um we're not going to
+4:10 make it a bearing wall in this case all
+4:12 right so uh this automate this kicks off
+4:16 some automatic generation blah blah blah
+4:18 so we can always reference the floor
+4:21 below if you do in fact want to show
+4:23 some kind of footing so we could do is
+4:25 we could establish the save plan view
+4:26 here so we could turn on our reference
+4:28 display and our reference is going to be
+4:30 the floor below so reference display
+4:32 layer doesn't need to be that it can be
+4:34 the floor plan shell or if we don't have
+4:37 a foundation layer set maybe it's just
+4:40 even the working layer set right so
+4:42 because we know we have footings on in
+4:44 this working layer set not the
+4:46 underworld if I set it to that then we
+4:47 get into the foundation level and I
+4:50 don't want XO I don't want to have this
+4:52 highlighted section where things are in
+4:54 alignment and then let's move this down
+4:56 the stack and we should be able to see
+4:59 our foundation
+5:00 below so there we go now we see our
+5:03 footing lines perfect right so now we
+5:06 can save this as a new save plan View
+5:09 and this is going to be our uh walkout
+5:13 basement view this gives us a lot more
+5:17 power a lot more options doing it this
+5:19 way so um there we go now let's get up
+5:23 to our floor number two see what's going
+5:25 on here this is all layers on mind you
+5:28 and I want to make sure that I'm not
+5:29 saving this walkout basement view right
+5:31 now in fact I want to modify this want
+5:34 to make sure that we're on the working
+5:36 layer set that dropped off a couple
+5:38 things here and then resave that walk
+5:40 out basement view set the save plan View
+5:43 To None take it up a level take it back
+5:45 to all layers on so I can see everything
+5:48 uh notice that we still have a window
+5:51 and door schedule even though I cut
+5:54 those I am so certain that I did
+5:57 interesting so we got some duplicate
+5:59 stuff here this might be a different
+6:02 window
+6:03 schedule which would be
+6:06 weird yeah I'm not getting anything no
+6:08 reported values from this particular
+6:10 window schedule so that's
+6:12 interesting so let me cut this take this
+6:16 back paste it let's Center it
+6:20 up
+6:24 oops Center it up and then I'm just
+6:27 going to do a point too shift take this
+6:29 up bline and snap it here um and let me
+6:33 close this view same thing door schedule
+6:36 what happened to my other door schedule
+6:38 my other door schedule did not populate
+6:40 very interesting I don't know what
+6:41 happened there so that's a strange
+6:44 one um this door schedule has nothing
+6:47 there
+6:48 so there's our paste hold let's see if
+6:52 we can't pick up the middle of this
+6:59 and we'll just Center on this
+7:03 view all
+7:06 right what do we have next in our all on
+7:09 now we're getting some weird duplicate
+7:12 about problems here's what's happening
+7:14 when we reflect about it's going to
+7:15 reflect about the bounds of anything
+7:17 that we have in the plan these look like
+7:19 they are yeah they're just CAD boxes so
+7:22 I'm just going to get rid of all your
+7:24 CAD you can redraw that all you want I
+7:26 just want to
+7:28 illustrate illust rate how we can make
+7:30 this reverse plan work well for
+7:33 us so the next thing is I want to know
+7:36 where our true Center is I want to know
+7:38 where our Z 0 is so we can get into alt
+7:41 C and then P for points input points and
+7:45 let's just set an absolute location 0
+7:48 press okay 0 is actually in front uh
+7:51 middle of the building it seems like so
+7:53 that's good but let's take a look at
+7:55 what the drawing sheets doing all right
+7:57 so drawing sheets off center I
+7:59 personally
+8:00 love having my drawing sheet on my z0
+8:03 let me just switch to an all layers off
+8:04 so I can grab this drawing sheet snap it
+8:07 to that z0 keep in
+8:10 mind well let's see walk out basement
+8:14 yeah this is on a um floor by floor
+8:16 dependent right so our z0 same thing we
+8:24 need here's my 0 0 so save this into
+8:28 your template plan that way you can
+8:29 always be drawing at the z0 out of the
+8:31 box Chief puts uh z0 at the corner of
+8:34 the drawing sheet I like a lot better
+8:36 being where it's at now so um we can
+8:40 always kind of let's just let's just
+8:43 draw a line Center of this Center of
+8:47 this go up a few
+8:50 levels let's take that
+8:53 line copy it go up a few levels same
+8:57 thing we can take the drawing sheet
+9:00 Center Center easy take that drawing
+9:05 sheet let's make sure we are copy
+9:10 pasting Center
+9:13 center right so um this is interesting
+9:17 this is on an attic level oh and we're
+9:19 showing a reference display still
+9:22 gotcha so let's take these lines get rid
+9:24 of them now same thing take these lines
+9:27 get rid of them now we've got more sches
+9:29 happening here so maybe this is on a
+9:31 floor by floor basis is what we got
+9:33 going on here include objects from all
+9:35 floor okay so this is a floor by floor
+9:37 bases that's why I was missing uh door
+9:39 schedules from the other floors so this
+9:41 is going to be floor level three in this
+9:43 case even though we're calling it floor
+9:44 level two so CAD detail new CAD detail
+9:47 and we can do windows
+9:51 schedule Second
+9:55 Story and just grab this
+10:05 not worried about anything there any
+10:07 more let's see same thing cat detail new
+10:10 cat detail door schedule this makes it
+10:13 so that when we're reversing a plan this
+10:14 is really easy to send to layout right
+10:17 because it's not going to affect be
+10:19 affected by the reverse plan at all it's
+10:21 not going to flip about the center of
+10:22 the drawing so it's going to be in its
+10:24 own true XY coordinate space when you
+10:26 send it to layout you don't it's going
+10:29 to be an independent view from whatever
+10:31 you were sending before so that's going
+10:32 to you know this is going to solve that
+10:35 portion of the problem
+10:54 altogether and I just forgot this
+10:57 one let's go goes up
+11:03 here right
+11:06 and okay so is that it for schedules I'm
+11:10 going to get rid of this not sure what
+11:13 this stuff is get rid of all this stuff
+11:15 put it in a cad detail if you need
+11:17 to should be getting rid of all that
+11:20 stuff okay oh we got one more view here
+11:24 that needs to be
+11:40 there we go so now we got all our
+11:42 drawing sheets centered on a z00 save
+11:45 this as your template plan going
+11:48 forward all right this is looking pretty
+11:50 good now let's take a look at elevations
+11:53 and see what's in here that could be
+11:54 causing some problems when we reverse
+11:57 it um well already we got a bunch of
+12:00 leader lines that aren't touching
+12:03 anything and there seems to be a blank
+12:05 text box and you're using Rich text I'd
+12:08 say right off the bat um we don't have
+12:11 any great formatting tricks when we
+12:14 reverse Rich Text so please switch to
+12:16 regular text there's a lot of formatting
+12:18 things we can do with regular text um on
+12:21 a global basis that we cannot do with
+12:23 Rich Tech so I would say strongly
+12:26 strongly strongly encourage you to get
+12:28 off of rich text and then I don't know
+12:30 what's happening with these leaders um
+12:32 let's take a look at another
+12:36 view uh we've got another set of leaders
+12:39 here and it looks
+12:42 like yeah this looks like this is a roof
+12:45 label that's a roof label
+12:48 gotcha um so that's going to be a
+12:54 problem okay and we got some more
+12:56 leaders here
+13:01 okay and some blank text
+13:06 things I don't know what all the the
+13:09 blank leaders are for and maybe oh I
+13:12 know what they're for um we inserted
+13:15 another floor uh so essentially what is
+13:19 that floor let me just take a look I've
+13:21 got floor
+13:23 zero and
+13:25 so we essentially added 104 wait that's
+13:29 an interesting Dimension 104 in tall
+13:32 these liters right so that's my fault so
+13:35 these are more appropriately they are
+13:39 probably moving up 104
+13:42 in
+13:47 right um I'm just going to show just
+13:50 general stuff here okay so you're using
+13:52 the liters with the roof label that's
+13:55 not going to work um not when we reverse
+13:58 this is um again when we're reversing
+14:00 we're just taking XY coordinates and
+14:03 flipping them and and roof uh labels
+14:07 have an offset so if we get into the
+14:09 label panel of the roof label you're
+14:12 going to see it's got an XY offset when
+14:14 you drag it and so it's going to invert
+14:17 the X and the Y which is not helpful
+14:19 it's it's going to put it in the wrong
+14:21 location flat out because that's what
+14:23 it's assuming you're trying to do when
+14:25 you're reversing PL so using um the roof
+14:27 call out as you know as the the
+14:31 designation for this uh slope that's
+14:34 just not going to work in a reverse plan
+14:35 so I just encourage you to use a
+14:37 different method uh a really simple
+14:39 method would be let's just use our line
+14:41 draw this out let's go 4 and 12 and then
+14:46 or oops opposite of that4 and 12 we can
+14:49 obviously just reverse that like that
+14:52 that's going to get there and then close
+14:54 this polyline up so I would encourage
+14:57 you to do something like this um
+15:00 and boy I'm being dumb let's try that
+15:04 again I'd encourage you to do something
+15:07 like this there we go where you make a
+15:11 little CAD block and you put in
+15:13 your uh you put in your four and
+15:18 12 because when we reverse this this
+15:21 will keep its location no problem right
+15:24 especially if we just say if we're going
+15:27 to open up this poly line set it to a
+15:28 Sol fill style set it to
+15:30 White fill it up there we go that's
+15:33 going to retain its location this is not
+15:36 um because of that XY value because of
+15:39 the offset of the label itself so that's
+15:40 not going to
+15:41 work and we'll and we'll show that we
+15:43 just got to remember left elevation
+15:45 going to come back to left elevation now
+15:48 let's take a look at um is there
+15:50 anything else outside of the bounds that
+15:52 it's going to affect the way this flips
+15:55 so here's the next thing I would do is I
+15:57 would just take a polyline
+15:59 and then snap it to your drawing
+16:03 sheet and then resize it outside of the
+16:07 bounds of everything that's here and now
+16:10 when we reverse plan it's going to
+16:12 reverse about the center of the drawing
+16:14 sheet okay so there we go let's reverse
+16:19 plan what did we have we still had
+16:21 something outside of the bounds of the
+16:22 drawing sheet so let's just take a look
+16:23 at this again let's kick on to an all on
+16:27 layer set
+16:30 I'm going to go up and down some
+16:34 floors there seems to still be something
+16:37 that's just offset so let me just expand
+16:40 this even
+16:42 more I'm going to concentrically resize
+16:44 this
+16:46 again and let's go back to the working
+16:49 layer
+16:51 set let me see if there's anything else
+16:53 here that I would
+16:56 avoid everything else seems pretty
+16:58 straight forward I haven't looked at
+17:00 your electrical plan
+17:02 yet walk out basement view oops we do
+17:05 not want to save walk out basement view
+17:06 walkup basement view is this that's the
+17:09 save and then let's switch to an
+17:11 electrical plan
+17:13 view electrical layer set we're not
+17:16 drawing a lot of electrical here that's
+17:20 okay all
+17:25 right get back to that walk out basement
+17:28 View
+17:32 oh here we go here's a problem get rid
+17:34 of that all
+17:38 right there's our big bounds there let's
+17:42 try this again reverse plan should be
+17:46 pretty much in the center all right so
+17:48 I'm still goofing up I'm still a little
+17:50 bit offset which is too bad um but it's
+17:53 also not the end of the world now let's
+17:55 go take a look at our elevation
+18:00 all right so was this the one I was
+18:02 looking at no it's not what's the one I
+18:04 want the right
+18:12 elevation I think that these elevations
+18:14 are too far away first of all so let's
+18:18 just bring them in a little tighter
+18:20 because we got some problems when we get
+18:21 them too far away especially
+18:24 when this right elevation is actually
+18:28 fac facing the wrong direction
+18:31 entirely why is that let's go back with
+18:37 you okay this is before the
+18:39 reverse left
+18:42 elevation right
+18:45 elevation right elevation got kicked way
+18:48 out let's see let's go left elevation
+18:50 let's get these all in
+18:54 tight and then let's just make sure I
+18:57 got nothing else
+19:02 I want to make sure that I'm on an all
+19:04 on layer
+19:09 set all layers on active layers display
+19:13 select all display
+19:19 okay got nothing out here in the
+19:26 wings okay
+19:30 something out here in the wings I don't
+19:32 know what this is what is
+19:35 this what is this this is some kind of
+19:39 material regions put this in a cad
+19:41 detail or save that in the library as a
+19:46 default what is this line voltage light
+19:49 yeah put that in CAD details don't need
+19:51 it on the drawing sheet don't want
+19:53 anything on the drawing sheet put
+19:55 everything else in CAD details
+20:01 anything else we can see
+20:04 here kind of don't want what is this a
+20:06 big driveway yeah that's the big
+20:09 driveway and
+20:11 then this is not our plan view so what
+20:13 is this this is not the polyline I drew
+20:16 right because it's
+20:18 not the same size as the drawing sheet
+20:21 oh it is okay
+20:31 all right so what's our elevation that I
+20:35 had that fun
+20:38 little fun little
+20:43 carrot I'm not seeing it now had right
+20:48 [Music]
+20:50 elevation back left let's look at
+20:57 front for an elevation let's just draw
+20:59 that again real
+21:13 quick close that polyline up Square it
+21:19 up there we go
+21:29 we know from the front we're going to
+21:31 reverse this plan so we know that this
+21:32 should show up right so that's going to
+21:34 be the thing we've got going on and it
+21:36 looks like you don't actually have
+21:38 labels turned on in this one roof plan
+21:41 labels so we're going to see that the
+21:43 roof plan labels actually kind of get
+21:46 goofed up because they're offset but my
+21:49 cad box here should not be goofed up
+21:53 when we reverse
+21:54 plan so now we reverse plan
+21:59 look at that we're really close to just
+22:01 being on true Center that should be
+22:03 really easy to relink in your layout
+22:06 super simple let's go take a look at our
+22:08 front elevation uh we do in fact see
+22:11 that look at that that's get goofed up
+22:14 this does not right so if you leave all
+22:16 of your labels at a true zero offset
+22:19 let's just take a look at this what
+22:21 happens when we set this to
+22:23 z0 okay set this to a z 0 it resets
+22:27 where it's going to be no Arrow there
+22:30 then if I go tools reverse plan you're
+22:33 going to notice we've got no issues at
+22:34 all no issues at all
+22:38 see there we
+22:40 go so your CAD details are still linked
+22:43 to their appropriate schedules your
+22:46 notes are all where they need to be
+22:47 we're not missing any notes if we were
+22:50 missing any notes I would encourage you
+22:51 to do some simple text macros because
+22:54 that would make a big difference um but
+22:56 it looks like all the the notes are in
+22:58 the correct place other than that I
+23:01 think this is pretty straightforward I'd
+23:02 go ahead and make sure that you're um
+23:05 doing things in terms of save plan views
+23:07 let's just do a new template layout just
+23:09 to show you how this relinking thing
+23:11 happens so new layout from template I'm
+23:13 going to choose the default residential
+23:15 template
+23:17 which I don't have anymore Rd template
+23:21 let's just use Chief Architects Rd
+23:23 template there we go so I can send this
+23:26 view to layout
+23:32 blah blah blah get it on the screen
+23:34 wherever it needs to be
+23:39 um and cut this down to just the view
+23:44 itself right once we've got this view
+23:47 established just the way we want it with
+23:49 its label and everything um this label
+23:53 is down here maybe want to get in the
+23:54 edit toolbar Pan the layout content so
+23:57 we can get that elev Elation marker in
+23:59 there um notice that the elevation
+24:01 marker is still just a little bit
+24:03 outside of the balance here I think just
+24:05 bring this in just a little bit let's
+24:06 turn off the drawing sheet so we can see
+24:08 now now we've got this all set up
+24:11 there's our walkout basement view we can
+24:12 take this to another level uh and then
+24:15 relink it to an electrical plan view or
+24:19 more appropriately you're going to just
+24:21 say this is the walk up basement view
+24:23 view but we can actually let's just make
+24:25 a new plan view if we go up a level
+24:27 first of all let's save this is walk up
+24:29 basement level two we're just going to
+24:32 say main floor right so we're save
+24:34 active view as main
+24:36 floor and then or you could save this as
+24:41 um floor plan and do not associate it
+24:45 say use any floor and then when we get
+24:48 back to here we're just going to copy
+24:51 this take it forward a level paste hold
+24:55 let's rink it U relink it to a floor
+24:58 plan okay and then when we open
+25:04 this current floor second floor we
+25:06 should be able to edit this so floor
+25:08 plan hold on floor plan
+25:12 save use new floor now that we've got us
+25:15 any floor set now we can open this and
+25:18 say we want to use the second floor now
+25:20 we can copy this bring it
+25:23 forward base hold say we're going to use
+25:26 this third floor bam
+25:28 right bring It Forward paste hold and
+25:32 this time we're going to
+25:34 re link
+25:37 it it's not letting me link that's funny
+25:40 unlink saved plan view nope didn't want
+25:43 to do that want a r link it's doing some
+25:46 funny stuff here I don't know
+25:50 why it's not letting me delete either I
+25:52 got I ran into just a little glitch here
+25:54 moving too fast I guess
+26:00 here's our second floor now let's
+26:03 go now we're going to
+26:05 relink so this time we're going to
+26:08 relink to our electrical
+26:13 plan and depends on the floor we want to
+26:15 do so if you go do the same thing open
+26:18 up your electrical plan when we edit the
+26:20 active view use any floor right so right
+26:23 now this is on level two so when we go
+26:26 back to layout and open open this up we
+26:28 can say we want this to be our first
+26:30 floor electrical plan paste hold this
+26:32 paste it to the next thing set to second
+26:36 floor same thing set it to third floor
+26:42 right there we go so we're building out
+26:44 a set now the next thing is here's where
+26:47 our CAD details come into play we've got
+26:51 our Windows schedule Windows schedule
+26:53 Windows schedule Windows door schedule
+26:56 right send to layout
+27:00 Etc wherever these are and just start
+27:03 Distributing these right we can just
+27:05 grab these and if you want to distribute
+27:07 it on this page we can distribute it and
+27:09 space evenly and distribute to end
+27:11 points if you'd like and maybe they fit
+27:13 on the page and maybe they don't um but
+27:16 watch what happens when we flip our
+27:18 floor plan again so here's our tools
+27:20 reverse
+27:22 plan bam let's go look at the layout
+27:25 what happened very little happened right
+27:28 door schedules are in place no problem
+27:30 there we've still got all of our active
+27:32 views we might need to pan them around
+27:34 just a little bit but they're all
+27:36 working so there's it I think that's the
+27:39 the end of what I would do in this video
+27:41 for for just um a consult anyways I hope
+27:44 this saves you a ton of time and
+27:46 frustration stick with Chief it's a
+27:48 fantastic program no faster program on
+27:50 the market in my opinion and uh yeah let
+27:53 me know if you got any questions
+27:56 [Music]

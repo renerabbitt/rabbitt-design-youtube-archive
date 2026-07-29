@@ -1,0 +1,508 @@
+Title: Furniture From Ai Using Blender and Meshy and A Custom Plugin
+URL: https://www.youtube.com/watch?v=9NCHj8C0EZk
+Visibility: members-only
+
+0:01 I hope you're ready for this one VIP. Um
+0:04 this one's pretty cool to me and
+0:09 here's what I'll say.
+0:11 Um this is not for
+0:13 a novice. This isn't a beginner thing
+0:16 that I'm about to show you. But what I'm
+0:17 about to show you is something really
+0:19 cool. If you saw the cover art
+0:21 is that we've got this picture of a
+0:23 chair and we're going to turn it into
+0:25 something that looks incredible in Chief
+0:27 Architect and we're going to do it
+0:29 really fast.
+0:31 In a way that we couldn't really do
+0:33 before. Now this would be a complex
+0:35 chair to model and I know I've mentioned
+0:37 it before that I use Meshy. But
+0:40 part of the problem with Meshy is that
+0:43 um
+0:44 it's tough if we want more than one UV
+0:48 for one mesh. So that the end user can
+0:51 change the color of the leather or the
+0:53 end user can change um the type of metal
+0:56 that's being used on the chair legs. So
+0:58 how do you do this? What do you do?
+1:01 Here's my workflow. Here's what I came
+1:03 up with and it works really really well.
+1:07 Uh it which is
+1:09 I've got an image and and by the way, I
+1:12 was listening to Spotify. I look over
+1:15 and in the cover art of Spotify, there
+1:18 is this cover art the album cover has
+1:21 this chair in it. So I take a
+1:22 screenshot. So you can see this is a
+1:23 really low resolution picture of a chair
+1:26 that I don't even know what this thing
+1:28 is, right?
+1:30 And so here's what I did. I sent it to
+1:32 Krea and I told Krea in edit mode to
+1:37 make change the chrome metal legs to
+1:40 bright pink with no reflection.
+1:43 This is what it did. Not only did it
+1:45 digitally upscale this thing, which is
+1:47 fantastic. That part's great.
+1:49 But it did a perfect job on the pink
+1:51 part, okay?
+1:53 The next thing I did is I brought put
+1:55 the and I just I kind of erase this part
+1:58 right here, which was simple. I just
+2:00 painted brown over it. That's all I
+2:01 really did with it, okay?
+2:04 Then, enter in to um
+2:07 Meshy. And so, Meshy went ahead and
+2:10 meshed this out for me at a really high
+2:13 poly count, 700 poly count, okay?
+2:17 And then, I had it texture it. And we
+2:20 can see
+2:21 it did a fantastic job at this. You
+2:24 know, there's one little artifact in the
+2:26 back here, which is kind of weird, but
+2:28 other than that, this was a great job.
+2:31 So,
+2:32 then I download it. I downloaded as an
+2:35 FBX file. The reason for that is you get
+2:37 some extra maps that come with it, all
+2:40 right? And enter into Blender. Now, in
+2:44 Blender, we come in, we do a file
+2:46 import, file import FBX, you go find
+2:50 your file.
+2:53 Load this in. I'm immediately going to
+2:56 use some modifier that I have that just
+2:58 does scale for me, so I'm in Imperial. I
+3:01 just get to type in
+3:03 um I know this is going to get me close.
+3:05 So, there's my scale. Let's change to
+3:07 the shader mode where we can actually
+3:09 see the texture as it's applied here.
+3:12 And immediately, what I did was export
+3:14 this as a high poly mesh, all right? I
+3:18 wanted to rescale it before I did that.
+3:20 So, that part was important. So, I
+3:22 immediately export it right now with the
+3:25 suffix I,
+3:27 right? Stick with me. This is a short
+3:29 video.
+3:30 Next, go to decimate this, okay? You
+3:34 would think that would be the simple
+3:36 thing to do. Actually, no. That's what I
+3:38 typically do.
+3:40 This time, what I do is hit tab to get
+3:43 into edit mode, all right? Come over,
+3:46 click on the faces. There's probably a
+3:47 hot key for that that I don't know yet.
+3:50 What I did and what I'm going to include
+3:53 in the description of this file in the
+3:56 description of this YouTube video is I'm
+3:59 going to include a plugin for Blender
+4:03 that I wrote
+4:04 using AI.
+4:05 And the plugin gives me this color split
+4:08 tab.
+4:10 And so what I'll do is I'll select a
+4:12 face from the pink,
+4:15 okay, and I set a tolerance point one
+4:18 eight's fine, and I'm going to sample
+4:20 the color of that selected face.
+4:23 And because it's just a solid color,
+4:25 it's going to do a great job of
+4:27 sampling. I'm going to set this actually
+4:28 to let's just call this
+4:31 um point two, nice round number.
+4:34 Now, I get to hit select matching faces.
+4:38 And it's going to And it's going to take
+4:39 a while because there's a large number
+4:42 of faces on this.
+4:44 Okay, so
+4:45 let me count off
+4:47 10 seconds, something like that.
+4:50 And
+4:51 voilà.
+4:53 What do we get to do with this? Well, we
+4:54 get to right click and separate by
+4:58 selection.
+5:00 And that just isolated
+5:03 that from the rest of this lounge chair.
+5:06 Now, that might not seem all that
+5:08 exciting to you if you don't do this
+5:10 kind of a thing, but I can't explain to
+5:13 you how time-consuming that aspect is.
+5:16 And why would I want to do that? Because
+5:18 now, if I hit tab again, get back, and
+5:22 then select my new
+5:25 selection here, I'm going to select all
+5:28 faces, I'm going to get into the
+5:30 material tab, and I'm going to create
+5:33 some new material, all right?
+5:36 So, I can create a new material,
+5:39 click on new, and name that
+5:42 um suspension chair
+5:45 legs
+5:46 and assign it.
+5:48 And I'm just going to make it a neon
+5:50 color so we can really see it, okay?
+5:53 And so here we go.
+5:54 Here we go. My legs are isolated and
+5:57 they're mapped to a different color. Now
+5:58 notice there's some fringe area that's
+6:01 still pink and I'm not worried about
+6:03 that because I have a method to approach
+6:06 that as well.
+6:07 But so then what I end up doing is I end
+6:09 up isolating the blocks in between here
+6:11 to make another color selection. And
+6:13 then kind of the last part about this
+6:15 and and and for that I use a particular
+6:18 tool that I also wrote in Blender
+6:20 that I'll also link in the description
+6:23 which is I'm going to select this. I'm
+6:25 going to get back into that edit mode.
+6:28 I'm going to maybe switch to a
+6:31 orthograph
+6:33 orthographic, I always say it wrong.
+6:34 Orthographic.
+6:36 Let me kind of put this into place, all
+6:38 right? What you can see here is these
+6:40 blocks. I'm going to select these
+6:41 blocks. Well, I made a tool for this.
+6:45 It's really called tool. Start painting.
+6:48 It will tell you how to utilize it, but
+6:50 if I want to paint through like this was
+6:53 wire mesh, I get to hit alt like it's
+6:55 described here. Alt shift and draw
+6:58 marquee over this block.
+7:01 And what it does is it assigns a new
+7:05 material that is pink
+7:07 to that selection.
+7:10 All the way through. Now it probably
+7:12 would have been easier to do this um in
+7:14 the X parameter instead.
+7:17 You have to hit escape to get out of
+7:19 this paint mode. That's just the way I
+7:21 wrote it. Sorry.
+7:24 And then
+7:26 let's see if I can scoot this over. I'll
+7:28 do this little select painting again
+7:31 here.
+7:32 Just hit alt and we can see here
+7:34 here's our selection.
+7:39 Do its thing. It's going to take a while
+7:41 cuz there's high poly count
+7:44 selection as well.
+7:52 Can't really tell that it's selected
+7:54 right now.
+7:55 Probably because of the view that we're
+7:56 in.
+7:57 But, I'm going to try and right click.
+8:02 Sorry, I hit escape. I have to hit
+8:03 escape and separate by material this
+8:06 time.
+8:09 So, if I did that right, let's get back
+8:11 into perspective and
+8:14 There we go. I quickly got to select
+8:16 those blocks. And
+8:19 it's not easy doing that.
+8:21 Honestly. So, those two two tools helped
+8:24 me isolate this so that I could apply
+8:27 new maps to this.
+8:30 And because I do care about the UV
+8:33 mapping of the chair, because I really
+8:35 think Meshy did a great job of
+8:36 texturizing this chair, but I don't care
+8:39 about the UV mapping of the legs here,
+8:44 I'm going to select the legs.
+8:46 Um
+8:48 quick. Just
+8:50 select the legs, hit tab, hit all, and I
+8:53 get to re-UV map, which you've seen me
+8:56 do before, where I'm just going to
+8:58 select everything that's here.
+9:01 And then smart UV project unwrap. It's
+9:05 going to
+9:06 put a nice projection unwrapping of that
+9:09 metal leg
+9:11 is going to look really uniform when we
+9:12 apply a texture to it. So, that part's
+9:15 really great. And then get back to the
+9:17 modeling. Now that we've done that,
+9:19 we've done a few things now. Now it's
+9:22 time to come in here and decimate. And
+9:24 because we've isolated this chair, we
+9:26 could decimate the chair using a
+9:28 different um
+9:30 method. Typically, I would do a collapse
+9:32 method. But, for something like this,
+9:36 planar is going to work a lot better,
+9:38 especially when you come in here and
+9:41 retain UVs.
+9:43 Then I'm going to set this angle limit
+9:45 to something like 35, which is really
+9:48 high. And it might be that it kind of
+9:51 messes up the UVs. Who knows? We'll see.
+9:54 Right?
+9:56 So, it's another one of those count off
+9:57 things. Actually, this is at 8,000 poly
+10:00 count and look at this thing. It looks
+10:03 pristine.
+10:05 It looks pristine. In fact, I'm going to
+10:06 go ahead and commit this just because I
+10:09 could go re-UV map it again if I wanted
+10:11 to.
+10:12 Right?
+10:13 This looks fantastic and it's a really
+10:16 low poly count. And we didn't have to uh
+10:19 sacrifice doing the legs at the same
+10:21 time. So, I like to stack these effects.
+10:23 I'm going to decimate again. This time I
+10:25 might do a collapse because we need to
+10:27 triangulate this now and um
+10:30 and when I hit triangulate, it's going
+10:32 to pump these numbers up pretty high, I
+10:34 think. So,
+10:35 let me take this to a 0.5. Let's see
+10:38 what happens. Yeah, that's at 37,000.
+10:40 So, planar does not triangulate. We need
+10:43 triangles in Chief Architect. So, if we
+10:45 go to a 0.02, you know, that's going to
+10:48 take it way
+10:49 way down too far. 0.09.
+10:52 0.09's getting pretty close and at 6.7
+10:57 poly count, it's pretty good. I might
+10:59 take it up to just point
+11:03 and at 11,000 poly, that's pretty good.
+11:07 Take this guy into account, decimate.
+11:11 Same thing. Let's just go 0.01 or
+11:14 something like that and it's going to
+11:16 take something you know, it's going to
+11:17 take it down quite a bit.
+11:19 Go 0.02.
+11:21 Double that and still make it look good.
+11:23 So, once you've got this all set, you
+11:26 and make sure you assign materials so
+11:29 that it does in fact have UV mapping,
+11:31 then I exported this and I took it to
+11:34 Substance Painter, which is my favorite
+11:35 for really making an asset look
+11:38 perfect. And so, bring it into Substance
+11:41 Painter.
+11:42 And what you get to do is when you bake
+11:45 your texture in Substance Painter,
+11:48 and you know, this I've already done
+11:50 this. So, I'm just showing you what I
+11:51 already did. But, when you get to the
+11:53 bake panel, we get to hit this new
+11:56 button and we get to go pick that high
+11:59 poly count object that we exported step
+12:03 one, right when we imported and we
+12:06 rescaled and I exported again and I said
+12:09 I added the suffix I.
+12:11 That's what this is about is the high
+12:13 poly scene. We get to bake this texture
+12:17 based on that. All right? So, when I
+12:19 bake the selected textures, you can see
+12:21 all that detail. It's fantastic. It's
+12:24 because it's coming from the high poly
+12:27 count model. So, that when the material
+12:30 gets applied to this,
+12:31 it ends up looking fantastic. Take a
+12:34 look at this.
+12:36 It just looks really, really sharp. And
+12:39 this is coming straight away from that
+12:42 high poly mesh. The texture is being
+12:46 applied as if it was on on that high
+12:48 poly mesh. So, it looks a lot better
+12:50 than the way it looked when it was
+12:52 exported from Blender. On top of that, I
+12:55 add some additional things. You know, I
+12:57 added another leather texture. One of
+12:59 the coolest tricks that I did, and this
+13:02 part's pretty simple and we'll just show
+13:04 you what happens when we kind of remove
+13:06 some of these top uh textures cuz this
+13:08 is kind of what it looked like when it
+13:10 first came in, right? First comes in,
+13:12 looks pretty good. Honestly, you could
+13:14 just have imported this into Chief and
+13:16 you wouldn't have been that mad with it.
+13:18 But, I wanted to take it that other
+13:20 level. Now, notice all that fringe
+13:22 color, that fringe pink that we didn't
+13:24 get rid of. Well, we could just paint on
+13:26 that, and that would take a long time.
+13:29 Or, what I did was I added a fill layer
+13:33 that I picked a color from the couch
+13:35 itself.
+13:37 And then I put a black mask on it. And
+13:40 then on the mask, I right-clicked and
+13:43 said add a color selection. And that's
+13:46 when in that color selection
+13:49 mouse back on the screen and I select
+13:51 that. I got to target all of the pink.
+13:55 You're coming to this full circle part
+13:58 of why I painted it pink in the first
+14:00 place. It really made it easy to isolate
+14:03 that color so that I could automatically
+14:06 target that pink and get rid of it
+14:08 instead of doing a bunch of work of
+14:10 trying to paint it out. So then on top
+14:13 of that, I just added a bunch of
+14:14 textures like another leather texture, I
+14:17 changed it kind of blend mode. And the
+14:19 last thing that I did was I built an AO
+14:21 map using the the really cool procedural
+14:25 stuff that just allows AO to like dip
+14:29 into little elements here. So, I'll show
+14:31 you what I mean here as if I I remove
+14:34 this delete this mask
+14:37 all of these have an ability to like
+14:39 fill into cavities. So, if I just apply
+14:42 this
+14:44 it's picking up from the baked map what
+14:48 the curvature of this model is as it
+14:50 relates
+14:51 to the 2D map on the left-hand side
+14:54 here. So, it can fill in voids in
+14:56 certain ways.
+14:58 So, what you see here is it's just
+15:00 filling in into certain cavities. So,
+15:03 sand cavities, it's just going to
+15:05 lightly fill into cavities. Stains and
+15:07 scratches, it's going to introduce some
+15:09 scratch elements here. So, you can do
+15:11 this to build out an AO map where we are
+15:14 faking shadows as we import it into
+15:17 Chief.
+15:18 And I actually can't remember what I
+15:19 used, so I might have to go back a
+15:21 couple levels.
+15:22 Get that back.
+15:24 Then I exported it.
+15:26 Bring it into Chief.
+15:29 Low poly mesh, start importing all of
+15:32 the textures on top of that, and here is
+15:35 what we end up with in Chief Architect.
+15:38 It's this guy right here. And I mean
+15:41 just looks really, really good. And
+15:44 where do I end up with? If we open this
+15:46 up, it's 13.3 thousand poly count. I
+15:50 might have been able to get it down a
+15:51 little bit lower, sure, but you know
+15:54 what? I think at 13.3, this is looking
+15:56 pretty good. And
+15:59 the last kind of thing that I did was I
+16:01 used a tool where we put in height as
+16:05 just a fill layer on top of the texture.
+16:09 And then we put in a mask.
+16:10 And then we use a tool that shapes a
+16:12 brush and parameters that are procedural
+16:15 that look like stitching. So, I added
+16:18 some normals stitching in here, and
+16:21 that's why there's divots in here that
+16:23 look like stitching around this chair.
+16:27 Now, when
+16:28 once you take a rendering like this,
+16:30 just a screenshot of this, send it into
+16:32 Korea, get an output, you know this
+16:35 chair is going to look amazing. Why
+16:37 don't we do that real quick? Sure. Look
+16:39 at this. I'm going to just take a
+16:40 picture of that chair just as it is
+16:42 right now. Let's bring this full circle
+16:45 back into Korea.
+16:47 Let's do a little enhancer.
+16:50 Upload that image.
+16:53 Here's my screenshot. In fact, I like
+16:55 the one that was in the sun. Why not?
+16:58 It's pretty good.
+17:01 And I like to come to this Korea legacy
+17:03 model. I think it keeps things really
+17:05 intact.
+17:07 Enhance it.
+17:08 And
+17:09 I'll pause and come back.
+17:15 Didn't need to pause that long. was
+17:17 really quick.
+17:18 But well.
+17:20 that.
+17:22 And what I always love to do is AI puts
+17:24 this kind of like
+17:26 um
+17:27 bubble wrap on everything. Looks like
+17:29 bubble wrap when it I does something.
+17:31 So, I like to build out
+17:34 little filter sets here.
+17:36 This is that cover art. This is how I
+17:37 made this cover art. Cool.
+17:40 So, I'm going to open on my computer.
+17:43 I'm just going to this guy up. There we
+17:44 go. Screenshot.
+17:47 AI. I love to do a little camera raw
+17:50 filter.
+17:50 Camera raw filter is the ability to do a
+17:54 couple things. Like to pull down that
+17:55 contrast, all right? And that's going to
+17:58 really take that bubble wrap effect
+18:00 down.
+18:01 And we're also going to just
+18:03 kind of mess around with the whites, the
+18:06 midtones, if you will, so the
+18:07 highlights.
+18:09 And another thing that I oftentimes will
+18:12 do, which this is a brand new camera
+18:15 raw, so it's moving some stuff around,
+18:16 but um
+18:18 dehaze, you can mess around with that a
+18:21 little bit.
+18:23 Take that texture and clarity
+18:25 down a little bit, you know? Bring the
+18:28 sharpening back up. Got dehaze.
+18:31 Got Maybe the contrast can come up a
+18:33 little bit. Maybe you lift your blacks
+18:37 up a little bit.
+18:39 Do a few things, but like to build
+18:41 filters out so that
+18:43 this can target some of the goofy stuff
+18:46 that AI will do sometimes.
+18:48 Um and so, once you've got it and you've
+18:50 got it the way you want it, then it's
+18:52 easy to save that as a filter to use
+18:55 over and over.
+18:57 So,
+18:58 reduction.
+19:03 Yeah, he might be able to get a sick
+19:05 shot. You do many folds in this AI. I
+19:07 would have taken the um art art
+19:10 creativity down in the settings for that
+19:13 AI to really get the shot perfect.
+19:15 Um, just wanted to show you this
+19:17 workflow. I was really excited that I
+19:19 figured this stuff out and it seems to
+19:21 just work really well to get an asset
+19:24 very, very quickly. I mean, usually an
+19:27 asset's going to take me a good hour,
+19:29 hour and a half to get one of this good
+19:31 quality. I was just listening to music,
+19:34 I took a screenshot of a couch, threw it
+19:37 in Meshary, I let it do its thing, I
+19:39 kept working, I came back to Meshary, I
+19:42 took it to the you know, well, I took it
+19:43 to the AI to make it pink, that took a
+19:45 couple minutes, sent it in the blender,
+19:48 I did that automatic isolation selection
+19:50 thing, I decimated a few times, and then
+19:54 brought it into Substance, targeted the
+19:55 pink, got rid of it, threw a couple
+19:57 layers on top, and exported it, and
+19:59 brought it into Chief, changed the
+20:01 materials out. And I think it took me
+20:03 all in all probably about 25 minutes.
+20:05 So, saved me a good amount of time.
+20:07 Um,
+20:09 if you have these softwares, if you, you
+20:11 know, have the capability, I'd love it
+20:13 if you tried this out and let me know
+20:15 how it goes. Thanks.

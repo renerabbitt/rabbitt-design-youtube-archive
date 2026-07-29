@@ -1,0 +1,617 @@
+Title: Walkout Basement Tutorial With Stepped Foundation In Chief Architect X16
+URL: https://www.youtube.com/watch?v=TufcxTvUTsI
+Visibility: public
+
+0:04 all right VIP it's the uh video we've
+0:04 all been waiting for I've been asked to
+0:08 do this video quite a bit and I've
+0:10 avoided it
+0:10 because I don't do many of these or
+0:13 rather I run into them I repair them
+0:18 don't very rarely do them from scratch
+0:21 and what are we talking about um doing a
+0:26 walk out basement how would I do a walk
+0:30 out basement um I'm always criticizing
+0:31 people of how they do a walk out
+0:33 basement but not really
+0:33 offering uh full solutions for how I
+0:41 approach this and tell you the truth
+0:41 done went in so long that I don't know
+0:44 how I would approach it so we're going
+0:48 to try to just work through that um I
+0:48 will tell you that a recent video led me
+0:53 to build out a wall assembly that I'll
+0:56 be using in this video and I'll just
+0:58 give it away it's going to be in um
+0:58 going to have to check the block section
+1:03 is where I can post links to
+1:03 things protected by the fact that you're
+1:06 paying
+1:06 for so um there will be a a link and
+1:13 let's just see where does that even
+1:13 exist show where that exists if we bring
+1:17 up YouTube I'm going to put this on
+1:19 screen
+1:19 here and bring up YouTube you're
+1:27 unfamiliar go to the channel and then in
+1:31 the channel under I believe believe
+1:31 Community is here we go is a section
+1:35 where I've got links here and some of
+1:39 these are protected for members only
+1:39 so you you've got your own content here
+1:44 so check that out it's underneath the
+1:44 community tab that's where I'm going to
+1:47 post a link to this particular Library
+1:51 symbol which is a furred wall assembly
+1:53 and we're going to get into that in a
+1:55 minute um I do want to show that I've
+1:55 already built out a Terrain and so that
+2:01 terrain is is this is that I've got a
+2:01 flat level up here to the right and then
+2:07 it steps down with some kind of a
+2:08 retaining wall that I'll I'll put in at
+2:12 some point and then a gradual slope
+2:16 downward okay and so our walkout
+2:16 basement's going to be down here and
+2:18 then our main level is going to be up
+2:20 here going to work out the difference in
+2:24 between the two there we go that's what
+2:28 we're thinking so and I'm just assuming
+2:29 that I already know what the terrain is
+2:30 and I don't necessarily know what the
+2:33 house is going to be about there now
+2:33 when I do a walkout basement the first
+2:37 thing I want to do right off the bat
+2:37 mind you is I'm going to be doing my my
+2:43 the living space of the walk out on
+2:43 floor level one that's the that's the
+2:48 pinch point that um people are always
+2:48 asking me about why are we doing it on
+2:52 floor level one um there's many many
+2:55 reasons to do it on floor 1 yes you
+2:55 could do this on floor zero but one of
+2:57 the problems with doing it on floor zero
+3:02 is you're fighting your structure your
+3:02 footings Etc so that if you need to show
+3:09 something like some portion of of a
+3:09 concrete block wall with a footing yet
+3:14 that doesn't make sense in terms of
+3:14 showing your walkout basement's floor
+3:19 plan now those two are fighting each
+3:19 other and how do you display those in a
+3:23 way that makes sense and maybe trying to
+3:29 work with custom layer sets and
+3:29 ultimately you're just letting the
+3:30 footing live on that floor even though
+3:35 it might be confusing to a builder
+3:35 whereas when we isolate to floor level
+3:38 one we can independently show layers as
+3:43 we want to using the reference display
+3:45 so that's a lot more powerful not only
+3:48 that but we are fully taking advantage
+3:48 of automatic foundations when we isolate
+3:54 like this so that our floor underneath
+3:57 this floor is very clearly our our
+3:57 foundation for that floor level one and
+4:03 so this makes a lot of sense right so
+4:03 that's why I'm going to build on floor
+4:05 level one for our walkout basement which
+4:10 means right off the bat I just want to
+4:10 build a floor level two so let's just do
+4:20 quick okay so we got a floor level two
+4:23 I'm also going to build out a deck on
+4:23 here just to kind of distinguish um what
+4:26 I want this is just going to be part of
+4:30 my design so I'm going to use the deck
+4:30 railing tool that's this guy right here
+4:35 and just draw this out and I'm probably
+4:37 going to have a little chunk taken out
+4:39 of
+4:39 this or a corner rather where I'm going
+4:45 to end up showing that I've got a
+4:45 staircase going down to the deck below
+4:50 so I could use the stairs rightclick
+4:50 draw alternate draw mode and that draws
+4:56 a stairs going down and of conform this
+5:00 I need to right and kind of the same
+5:00 thing is I could take that same railing
+5:05 tool shift select everything here and
+5:05 copy and then take it down a level and
+5:09 paste hold position just mind you it's
+5:11 not pasting the room type so you do
+5:12 still need to come in here and designate
+5:15 this as a deck if you wanted that to
+5:15 show up correctly and then I'm going to
+5:20 kind of bring that section forward and
+5:23 do another down
+5:25 staircase from
+5:25 here maybe this squeezed in Etc what
+5:30 does this even look like well we've got
+5:34 a second floor got this deck system
+5:34 happening here and this deck right here
+5:38 this staircase right here needs to get
+5:40 pulled back and it's going to do its
+5:40 Auto thing right click pull this back
+5:42 we'll let this kind of drag linearly but
+5:47 actually funny thing with steps is that
+5:49 right clicking unbinds it and makes it
+5:51 so that it can be a curve step so
+5:51 something you could do is left click
+5:53 drag and hold s so that it's not picking
+5:57 up any
+5:57 snaps have your s key key set to some
+6:00 kind of hotkey that's essentially what
+6:02 you've given up is that holding s makes
+6:05 it so that it doesn't hit any snaps when
+6:09 we drag it right and so this automatic
+6:09 build um for some reason is not reaching
+6:14 the floor below so I'm going to have to
+6:16 mess with that a little bit later but
+6:16 there we go I've got a deck it's going
+6:18 to reach that deck level below and then
+6:22 same thing this deck's going to reach
+6:23 that deck level below um we could have
+6:28 gone the other way which is yes this
+6:30 deck could have been drawn down
+6:30 but could have also um just turned on a
+6:35 reference display and then drawn a
+6:36 staircase going up from here right and
+6:41 up to that deck
+6:41 above so another way we could have done
+6:47 that and that deck here may not reach
+6:49 deck above I think it
+6:56 one that then our clearance we got some
+6:59 clearance issues all right that's fine
+6:59 fine working through so my next step is
+7:05 I've got this particular wall assembly
+7:05 that I want to use that's um what it is
+7:11 is it's a a pony wall assembly the pony
+7:16 wall is my main stem wall wall type and
+7:20 then from there I have a um on top of
+7:20 that I have my main siding wall type and
+7:26 then on the inside of that is a furring
+7:28 wall and and so this is going to come
+7:30 out in my next Pro Plan update it's
+7:31 going to be added to the toolbars a
+7:32 couple things will be added to the
+7:32 toolbars over here in the walls assembly
+7:36 one is that it's I find it to be really
+7:38 unfortunate that Chief chose to do a
+7:38 brick wall image as the default exterior
+7:45 wall I wish this was more generic so
+7:45 that we could use the brick wall image
+7:51 to actually be a brick wall and yes I
+7:51 could replace the default PNG file for
+7:55 this but that's asking a lot for people
+7:59 that want to download my system so I'm
+8:02 just duplicating it you know down the
+8:02 stack and yeah now this is a brick wall
+8:06 as well and this is a custom Library
+8:06 object and so here's my next one is this
+8:11 pony wall siding six fur so that's what
+8:14 I'm going to use part of the reason I
+8:14 automat I I immediately built the second
+8:19 level was so that we have Wall
+8:19 alignments already kind of baked in and
+8:23 so what I'm going to do here is I'm
+8:24 going to start from about this section
+8:29 right here and draw that wall assembly
+8:31 and then I just want to line it up I
+8:31 know that the left side here is my fur
+8:36 wall so I get to just line this up so
+8:39 that the outside's lined up here and
+8:39 what I would need to do to to conform
+8:42 all this is to build a fur wall assembly
+8:47 to continue in front here if I didn't
+8:47 want to use that same wall assembly all
+8:50 the way through if in fact the pony wall
+8:55 here is at 0o Ines so I could extend
+8:55 this forward right and then make sure
+8:58 that this is lined up the way it needs
+9:04 to be um and what I could do in this
+9:04 next segment here because my walls are
+9:07 not set to Auto join Auto merge B linear
+9:12 is that I could say the height off the
+9:12 floor of the lower wall assembly is just
+9:16 zero in and that would zero it out right
+9:20 there okay and then here starts up a
+9:21 portion where I'm going to start
+9:21 stepping this wall I'll show you that in
+9:28 just a minute I'm going to bring this
+9:28 forward okay okay and then I'm going to
+9:34 make another break and that break is
+9:34 going to represent a a portion where I
+9:36 no longer want that stepping and so I'm
+9:41 going to utilize the lower wall type
+9:41 which is this 8 in concrete stem wall
+9:43 fur so going to find that 8 in concrete
+9:49 stem wall furred bam there we go and
+9:49 then from here this is already aligned
+9:54 so I don't need to mess with alignment
+9:54 here from here I'm going to return this
+9:58 back and what I'm going to say is that
+9:58 this is my walk out basement right here
+10:04 that's it okay going to reverse this gu
+10:06 right there there's my third wall
+10:06 assembly on the inside of that walkout
+10:11 basement this is just crawl space or
+10:14 it's just inaccessible space it's um
+10:14 it's underneath the house there you go
+10:20 all right now I could continue this
+10:20 forward and change that wall type or I
+10:23 could come in here and do a number of
+10:24 things I could just take a straight
+10:24 foundation wall draw this forward get it
+10:29 you know in alignment
+10:29 with this other wall this neighboring
+10:31 wall and say that it's not in fact the
+10:36 foundation wall uncheck that and there
+10:38 we go and then use that wall type to
+10:40 draw this out make sure that we're
+10:40 clicking on align with wall above that
+10:43 ensures that we are in fact aligned with
+10:48 that wall above great um the last kind
+10:51 of thing I might want to do is just um
+10:54 create a Center Line in between these
+10:54 wall assemblies I should have done that
+10:57 before I replaced this section of wall
+10:59 would have been really nice so I could
+11:03 come up a level and just as kind of a
+11:03 goofy little um thing I could just draw
+11:09 a line here in between the two
+11:09 walls grab it take it down past hold
+11:15 position draw another line and this
+11:15 becomes my center line for which when I
+11:21 finish my edits on the right side if
+11:21 it's supposed to be duplicated on the
+11:26 left side I could just copy paste
+11:27 reflect about this line would be
+11:30 something really easy to
+11:30 do what does that all mean well I'll
+11:33 show you I'm going to pull an elevation
+11:39 here and we're going to see our terrain
+11:41 now my terrain needs to be adjusted I
+11:41 actually want my terrain to be maybe 8
+11:48 in off of this jump right here okay so
+11:51 let me just make a line 8 in down
+11:51 there's kind of a reference line TRS
+11:53 right here I can pop a line up hit tab
+11:59 or enter copy this that's 44 and 3/4
+12:03 select my terrain open it up uncheck
+12:03 automatic and so I need to minus that
+12:11 amount 44 and 3/4 right there we go
+12:11 that's where my terrain is supposed to
+12:13 be sitting so and that looks perfect bam
+12:18 so the next part is I get to take this
+12:21 wall assembly and click underneath it
+12:21 where that little pony wall setup is use
+12:26 the break tool sticky mode the break
+12:28 tool and we're going to need a break
+12:30 right about here cuz we need some
+12:30 clearance need a break maybe here here
+12:37 Etc once we're done breaking that wall
+12:40 assembly now we can come in here and
+12:40 start making our steps this is our step
+12:45 foundation
+12:45 wall about as simple as that isn't that
+12:55 beautiful super super easy to do pull
+12:55 this camera view again and I'm going to
+13:01 hide exterior facing walls that's this
+13:04 button over here in my toolbar excuse
+13:06 me and then we'll just change the
+13:06 rendering mode so we can see inside here
+13:10 and I'm selecting inside of this room
+13:10 and this particular room is going to be
+13:11 mono slab so I can say you know whatever
+13:15 this room is I'm going to call it a
+13:17 bedroom sure but we're going to
+13:17 designate it as a mono slab foundation
+13:21 and then I just want to make sure that
+13:22 the floor assembly is set to what I
+13:22 needed to be set to which is zero inches
+13:26 in this case so there we go I got a
+13:26 zeroed out mono slab assembly and I want
+13:32 you to note that the footing of those
+13:32 mono SL Sab assembly goes according to
+13:36 whatever settings are kind of baked in
+13:38 the software but that doesn't mean you
+13:38 can't edit them I could come in here and
+13:45 select a footing tab or enter drag that
+13:45 footing down to whatever I want it to be
+13:49 right and we could even snap it to this
+13:51 kind of neighboring spot right here
+13:51 although it's a little bit challenging
+13:53 at times so um so tab or enter as we're
+13:59 dragging this down and we're just going
+14:02 to say in this case 24 in it's going to
+14:04 turn off autobuild Foundation that's
+14:04 okay so I'm just going to do that for
+14:07 all
+14:07 these though it doesn't look like it's
+14:12 dragging at 24 like that it's aligned
+14:14 based on this selection it is in fact
+14:14 align when we use that same setting all
+14:18 the way around so we just dragged our
+14:18 slab footing down to do what we needed
+14:23 it to do and then if we uncheck hide
+14:23 exterior facing walls this is all still
+14:27 set up the way we need to let me hide
+14:27 that again get into this room and maybe
+14:32 in this room I want to show that uh
+14:32 there is no floor below this so we could
+14:37 just choose the open below setting if we
+14:39 wanted to but we still want stem wall
+14:41 foundation and of course it doesn't
+14:41 matter really in this case but I could
+14:43 drag this up if I wanted to um to create
+14:48 some stem walls that are a little bit
+14:48 larger in case it matters for some kind
+14:50 of
+14:50 cross-section that so but the main thing
+14:56 here is that look our our foundation
+14:56 looks really good right now so next next
+15:01 thing something that would be very
+15:01 common is that I'm actually going to
+15:05 extend these walls forward
+15:05 right I'll just copy this exterior wall
+15:11 bring that forward and then same thing
+15:13 I'll extend this wall forward and then
+15:13 this wall is probably going to become an
+15:18 interior wall so instead of siding
+15:18 existing interior for existing something
+15:23 like that line it with the floor below
+15:25 perfect and so what happens with this
+15:25 extension of the house well aut to build
+15:30 Foundation is off but it doesn't even
+15:31 matter if it were on because it's not
+15:31 going to build to that second level so
+15:37 we do need to do some manual work we'd
+15:40 have to go down a level turn on your
+15:43 reference display and I think we can
+15:43 just use the slab footing tool to create
+15:48 a footing underneath that or we're going
+15:51 to use this guy the straight Foundation
+15:53 tool to do that so try and see what
+15:54 happens with the slab footing tool and
+15:56 that truly is just a slab footing so if
+16:00 this is not going to be a slab if this
+16:01 is going to be a stem wall Foundation
+16:03 that would be a different setup but
+16:03 there we go there's our slab footing if
+16:05 in case we wanted to designate this room
+16:12 as slab all right and then alternatively
+16:13 could just use that stem wall with
+16:16 footing extend this forward
+16:16 and on my end I think this just takes a
+16:22 little bit of well actually let me get
+16:23 rid of this because we do have that
+16:26 reference thing that we can reflect
+16:26 about right we have that line that we
+16:27 can reflect about so so so long as this
+16:32 is lined up correctly we get to copy
+16:34 paste reflect about there we go it's
+16:36 lined up on both
+16:36 sides and this guy might need to be
+16:39 aligned with take a look at doing that
+16:48 right and we can edit this this is now
+16:51 defining that's now defining a room
+16:51 right it could be another open below
+16:53 room but we can actually drag this up
+16:55 and what does that do that does drag our
+16:59 stem wall up
+16:59 right it actually to an um a certain
+17:02 extent before it runs into some platform
+17:08 intersection ISS here so then you you're
+17:09 going to have to edit that you know that
+17:12 next floor down so what does this all
+17:12 look like in terms of plan views right
+17:17 let's turn off the reference display
+17:19 well for one let's go ahead and copy
+17:21 this whole all these wall assemblies
+17:24 over to the other side using that um
+17:24 kind of inference pad line that I've got
+17:29 set up there same thing here C this over
+17:33 to the other side that set up what does
+17:34 this look like to me this looks very
+17:35 clear to me I'll show you exactly how I
+17:39 kind of clean this up is that I'm going
+17:41 to get rid of those lines that open
+17:41 below this gets to just be you know uh
+17:44 crawl something like that if we want we
+17:48 don't necessarily need to show the
+17:49 ceiling height if you have my Pro Plan
+17:53 and you want crawl to not show ceiling
+17:55 height um hopefully you know how to do
+17:57 that but in Project label options you
+17:57 would come into room label options and
+18:00 room without plate height you would just
+18:05 add it here so I would just
+18:06 say
+18:06 comma
+18:09 crawl quote
+18:13 unquote I
+18:13 think there we go now it's just showing
+18:18 crawl space no ceiling height there so
+18:18 that's a conditional macro setup that's
+18:21 in the Pro
+18:21 Plan so there we go there's our crawl
+18:26 space this next section I mean we're
+18:26 pretty much doing the same thing we name
+18:30 the same thing if we want to so um and
+18:30 it's just that it's showing footings on
+18:33 this one versus not showing footings
+18:33 over here totally up to you how you want
+18:39 to display that um I almost like the
+18:40 display of this because it's very
+18:40 clearly I could label this as look this
+18:45 is our mono slab Foundation I could
+18:45 label the footings I'm not sure I've
+18:49 never tried the ano tool in this
+18:49 condition but zero crawl space head
+18:50 clearance that's because it's a slab
+18:53 maybe I'll write a condition in that if
+18:57 it's 0o in crawl space head clearance
+18:57 it's automatically a mon slab wouldn't
+18:59 that be clever we'll have to put that in
+19:03 the next version of the Pro Plan and
+19:03 then let's just try this see if we can't
+19:07 get this pick up footings it does pick
+19:10 up 16inch concrete stem wall footings
+19:11 per
+19:11 detail there we go except for it's being
+19:14 called stem wall footings you'd have to
+19:16 change that in the label
+19:16 options very cool that works so this
+19:24 would be my lowest floors Foundation
+19:27 right that crawl spaces stem wall
+19:27 foundations I make some note of looking
+19:32 at you know the steps i' make some note
+19:32 of looking at the details maybe I'd have
+19:36 some kind of call out in here
+19:36 demonstrating exactly what the setup is
+19:40 here make sure that these are linked to
+19:43 the correct detail I do have some
+19:43 details in the Pro Plan um that are
+19:45 linked through your your layout so if we
+19:50 just
+19:50 did bring into the layout and we got to
+19:54 I think page
+19:56 11 it's page
+19:56 12 here we go so very easily you could
+20:00 swap out these stackable details so that
+20:05 you're getting into a typical monol slab
+20:07 walk out and then this next one is going
+20:16 um typical monos slab walk out floor and
+20:18 our next one's going to be typical wall
+20:27 that right so very quickly we're
+20:27 building this whole detail and just make
+20:31 sure that you're linking it back to this
+20:34 page so that those links show up
+20:34 appropriately here we go we've almost
+20:37 built out the section that we need for
+20:41 the two call outs I just put into that
+20:44 plan right so super fast super easy to
+20:44 do this go look at that elevation again
+20:49 I mean that's just looking really clean
+20:51 um we do have the option in this
+20:51 particular view to see is that option I
+21:13 ter why it's been a while since I've
+21:13 looked at this edit active view here we
+21:19 go um by default I have this showing so
+21:25 that below grade is a dashed line okay
+21:28 below grade is a dashed line now that
+21:28 show showing these as a dash line if we
+21:32 turn off color and turn off Shadows
+21:32 there we go very clearly showing dash
+21:36 line for this whole assembly got a
+21:36 little bit of cleanup here um and you
+21:40 could fight this this is platform
+21:42 intersection issues right this is
+21:42 something happening from that if we um
+21:47 we do not get to hide stuff facing the
+21:48 camera so we'd have to drive this
+21:48 cross-section into here to kind of work
+21:53 around that but do remember that there
+21:53 is a cleanup tool in layout in case you
+22:00 really can't fight this out of the way
+22:00 and we could actually just delete those
+22:08 Lin in layout as as a post right so I
+22:09 think this is looking pretty good I'm
+22:13 going to close this view need to save
+22:13 it take a look at what we've got on the
+22:15 ho so really I just need to draw in some
+22:20 retaining walls here I've got my step
+22:23 Foundation um you know I need my
+22:23 interior set up here to drop down for
+22:28 some interior stairs with this but
+22:28 there's our terrain there's all our
+22:30 stepping there's our um retaining walls
+22:36 in case you have retaining walls um we
+22:38 could have stepped this whole section
+22:40 independently without needing to
+22:40 division this by room right we could
+22:43 have gotten rid of this intermediate
+22:43 room if the retention is way back here
+22:48 only and the rest of this is just
+22:48 floating grade easy easy enough to do
+22:50 that um select this wall and get rid of
+22:56 it and look at that we got a whole new
+22:57 thing going on here kind of the same
+22:57 thing but this wall get rid of it and
+23:05 now um if we just set up this room as
+23:07 we're selecting in here I tab through
+23:10 said that this was open
+23:10 below right it's going to get rid of
+23:12 that whole assembly and now we've got
+23:16 some stuff going on here that uh a
+23:16 little bit of cleanup to do we probably
+23:21 extend this wall through um which would
+23:22 be easy enough to just even do this in
+23:23 3D so I just extended that wall through
+23:28 get under the terrain got rid of that
+23:31 you could break this bring this
+23:31 down Etc that's going to bring that
+23:33 footing down so so many different ways
+23:38 we can set this up so now this wall is
+23:41 our major retention right and that's a
+23:43 third wall let's switch back to a
+23:43 regular view here and we can see inside
+23:48 here these walls are lining up on the
+23:48 interior even though this look at that
+23:54 that's our sep wall assembly right so
+24:05 questions I guess is what this comes
+24:09 back to um try this out see what you
+24:09 think and we still have autobuild roofs
+24:12 enabled we still got a lot of the
+24:12 benefits of all the autobuild tools um
+24:18 let's build all the framing real quick
+24:20 and just take a look at what a 3D
+24:22 framing overview might look like
+24:22 here what kind of goofiness runs into
+24:28 this um you can see here you know
+24:28 something you might want to do is you
+24:29 might want to put in your wall assembly
+24:33 itself you might want to break out the
+24:33 furring layers to particular layers that
+24:38 are turned on in the framing view so
+24:38 that you could show this step Foundation
+24:43 as part of that so we could get back to
+24:46 this other View and in this wall
+24:46 assembly let's just open this up real
+24:48 quick and I'm going to define the lower
+24:52 wall assembly
+24:52 okay and in particular I want to Define
+24:56 just this concrete and I'm going to have
+25:00 this move to a display layer and that
+25:00 display layer um what's it even going to
+25:05 be I don't know I don't even know what
+25:08 to call it Wallace
+25:08 Foundation put that on the walls
+25:13 Foundation display layer instead
+25:14 right so do we have Wallace Foundation
+25:18 turned on by default we do so look at
+25:18 that super fast and easy let me just do
+25:24 a line over bam now we're showing that
+25:24 step Foundation all the way through um a
+25:29 lot of times your
+25:29 um this interior wall here this big
+25:32 retention wall here switch back to this
+25:38 View and we're looking this guy right
+25:41 here a lot of times we want this wall
+25:41 particular to be in the structure panel
+25:45 um we're going to hang the floor
+25:45 platform above on that wall so that
+25:48 could be might need to touch on so now
+25:53 we're hanging these floor assembly and
+25:54 maybe you would turn the joys on the
+25:54 other way so that they're running off of
+26:05 so all in all that looks pretty dang
+26:05 good looks pretty accurate look at this
+26:08 there's our furring wall we got a half
+26:10 inch gap between the furring wall and
+26:10 our framing assembly bam it would show
+26:21 um that we pull a back clipped
+26:23 crosssection
+26:23 through so back clipped
+26:26 crosssection through this assembly right
+26:46 assembly that should be a pretty good

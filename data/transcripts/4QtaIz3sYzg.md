@@ -1,0 +1,63 @@
+---
+videoId: 4QtaIz3sYzg
+title: CA SHORTS - Change All Fonts Easily in Chief Architect
+url: "https://www.youtube.com/watch?v=4QtaIz3sYzg"
+status: imported
+---
+
+# Transcript
+
+0:02 a quick little video on how to replace
+0:02 all the fonts in your template plan and
+0:07 by the way this is my template plan I
+0:07 call this the Pro Plan it's for sale on
+0:10 my website in case you didn't know um
+0:10 all right so I'm going to drop some rich
+0:15 text in here I don't often use Rich text
+0:18 because does seem somewhat cumbersome to
+0:21 utilize it um at times and then have to
+0:22 you know be able to change it
+0:22 dynamically um so in case like Midway
+0:25 through a project I want to m match my
+0:29 font up with my Engineers font or
+0:31 something like that a little more
+0:31 complex to change but actually it's not
+0:36 all that complex if we do a global
+0:36 change okay how we can do that is we can
+0:41 get into the edit menu and we have a
+0:44 tool here called replace fonts so in
+0:44 here you can Target your fonts if you're
+0:49 going to do a global change you can
+0:49 Target your fonts and then just type in
+0:53 the new font that you want and we're
+0:53 going to see that even this Rich Text is
+0:59 changed as well as all my labels there
+1:02 you go super simple way of doing that
+1:02 now maybe another little tip and trick
+1:04 that you might not know about this will
+1:09 not change Rich Text say but you'll be
+1:10 able to change all your regular text
+1:10 Styles you can come into Aldo which is
+1:15 active layer display options and then
+1:17 get down in here into your text style
+1:17 click on Define it's going to bring up
+1:19 this window and if you're on a PCR a on
+1:27 a Mac command a and hit edit now I am
+1:27 changing all these at once okay okay so
+1:32 that's a very quick change you're going
+1:34 to see all my labels Dimension defaults
+1:36 Everything Changes all at once happens
+1:36 to be that I have a custom script for my
+1:40 superscript here so I do need to change
+1:42 that one independently but um and then
+1:44 if you have a bunch of Rich text let's
+1:46 just say we've had it um all over the
+1:48 place right a bunch of different Rich
+1:50 text box could always select one or
+1:51 select the rich text tool and then shift
+1:56 Marquee all of your Rich Text at once no
+2:00 change here but you would just highlight
+2:03 your text here make your change there
+2:05 there we go we've reverted that rich
+2:05 text back so couple different ways that
+2:10 we can do this um yeah let me know if

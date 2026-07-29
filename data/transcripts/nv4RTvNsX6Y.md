@@ -1,0 +1,431 @@
+---
+videoId: nv4RTvNsX6Y
+title: Over Under Effect
+url: "https://www.youtube.com/watch?v=nv4RTvNsX6Y"
+status: imported
+---
+
+# Transcript
+
+0:00 what's going on VIP um I have decided
+0:04 that I need to do some new branding
+0:05 stuff so not branding some graphics I
+0:09 need some new graphics for some of my
+0:10 sale items so I've got a particular
+0:13 method I have in mind I'm pretty sure
+0:15 I'm going to nail it first time so let's
+0:17 do it we're going to record this and get
+0:18 going live um I know right off the bat
+0:22 that I want this to be a really
+0:25 traditional approach to marketing media
+0:27 what I want to do is I want to recreate
+0:29 um the Pro plans graphics and then from
+0:33 there I probably will recreate all my
+0:35 other Graphics as well and keep them in
+0:37 line with whatever I do with the Pro
+0:38 Plan so I'm going to start with the new
+0:40 gradient tool which is just our G key
+0:43 and then we can hit shift G to get to
+0:45 gradient that's what we got going on
+0:47 there and from here I'm going to
+0:51 go I think I'm going to go pitch black
+0:54 because I'm I think I'm going to change
+0:56 my website for my shop page to be black
+1:00 and so I want some of the elements in
+1:04 all of my listings to be black so that
+1:06 they kind of just fade in if you will
+1:10 and basically overhauling my shop page I
+1:12 don't like the way it looks right now so
+1:15 I'm going to do some work on that so
+1:16 here's what I'm thinking is I'm going to
+1:18 go gray and then let me hit my X key uh
+1:20 reversed foreground to background layer
+1:23 and then I want to hit like a medium to
+1:26 darkish Gray and then
+1:30 I think I'm going to have kind of some
+1:32 offset
+1:35 bont so I think that my gradient is
+1:38 going to be kind of over here which I
+1:40 like this because that means that one
+1:42 side of this will just blend with the
+1:44 background of the shop hopefully so
+1:48 something right around that and the
+1:49 great thing about this gradient tool the
+1:51 new gradient tool in Photoshop 2024
+1:53 Beyond Etc is that you get to move this
+1:56 around and kind of edit it on the Fly
+1:58 and so that's great this is a very
+2:01 non-destructive workflow which I love
+2:03 and then let's go ahead and just add our
+2:06 font on top of that so t for the text
+2:08 key and we're going to go pro plan on a
+2:13 next line and so I'm going to pump these
+2:16 up now you could pump this up here just
+2:19 in this input box or you could just hit
+2:21 the check mark or enter I have enter on
+2:24 my mouse so that's really easy for me to
+2:26 just hit enter and um except for that I
+2:30 hit the wrong
+2:31 key and there you go i' I've finished
+2:34 you know detailing this out I'm going to
+2:36 hit the V key and so now I could size
+2:38 this up separately from having to do
+2:41 some kind of input I could just do it
+2:43 this way which is basically this
+2:44 switches to a transform method and size
+2:47 this up now I'm looking for just kind of
+2:49 the size of the font that I want on the
+2:51 screen and I think it's maybe there or
+2:55 so and now I want to um mess around with
+2:58 our uh vertical spacing so that means I
+3:02 need to get over in my Sardar into the
+3:04 properties section here this is just the
+3:07 way I have mine arranged I think this is
+3:09 default out of the box Essentials
+3:11 toolbar with some modifications to where
+3:13 the tools are but yeah I have a
+3:15 properties panel up here and so I could
+3:18 come in here and input some value here
+3:21 and that's going to change the distance
+3:23 from Line to Line that we see here but
+3:26 instead of that you could hover over
+3:29 this guy and click and drag left to
+3:33 right and you can see live that this is
+3:35 updating and and there you go and hey
+3:40 and that's kind of cool I kind of like
+3:42 this look at this the p and the L this
+3:46 is a really well-made font the p and the
+3:48 L one of my new favorite
+3:51 fonts beas beas new I think it's what
+3:55 it's called I'll show you what I mean
+3:57 right here that's what it's called right
+3:58 there um I kind of like that and so
+4:02 maybe we can mess around with the
+4:03 kerning a little bit which is this guy
+4:06 right and just click and drag and that's
+4:10 going to separate those just a little
+4:13 bit I don't know I'm not sure that I
+4:15 mind that they were touching
+4:17 before I might mess around with it this
+4:20 a few times who knows but there we go
+4:23 more or less and then the last bit of
+4:25 this is that I do want to change that to
+4:27 a white font right so I want to change
+4:29 this to just all white there we
+4:32 go and that's starting off pretty good
+4:35 um it's interesting that the a is really
+4:37 popping in there maybe I want to change
+4:39 this a little bit again let's just click
+4:42 and drag
+4:45 this want that a to dive into the O but
+4:49 yeah I'm going stick with this for right
+4:51 now all right perfect I'm already liking
+4:54 the composition of this um I could pop
+4:58 some splashes of color in there here
+5:00 it's interesting you can see in my
+5:01 recording my backdrop is kind of
+5:03 purplish right now and heck I don't know
+5:05 if I don't mind that color it's not on
+5:08 my brand but it's kind of fun to just
+5:10 play around with this stuff so I'll do
+5:12 things like this just to get an idea of
+5:14 directions so I'm just literally popping
+5:17 in a Swatch of color here just to see
+5:21 what's it even do in this scene what
+5:23 happens when I drop it
+5:24 below you know what does this do like
+5:27 this just helps me I don't know it just
+5:29 helps me visualize and see maybe some
+5:31 new ideas now the thing that I think
+5:35 that I want to do is I got to put in
+5:37 some visual element from the Pro Plan
+5:39 itself um something that's maybe
+5:42 recognizable so let's get into my assets
+5:46 where I have working website and then
+5:49 within working website I probably have
+5:52 some example um
+5:54 PDFs and right now these are not synced
+5:57 so we're not going to get a good preview
+5:59 of things oh but this might be an idea
+6:01 could throw an exampled rendered PL in
+6:03 there um other than that this is one of
+6:06 my cleaner plans let's drop that in here
+6:10 so we'll just pop this in here and we
+6:12 can kind of play around with some angles
+6:15 of
+6:19 this and so I think because of the
+6:23 composition of this shot I want
+6:25 something a little more shapely in a way
+6:27 I don't know that could be really hard
+6:29 to accomplish and could we just take one
+6:31 little element of this after we size it
+6:35 up what happens once we size it up and
+6:38 throw it underneath the text and we need
+6:41 the text to maybe be a highlight
+6:44 right um so that could be something we
+6:46 could come in here doubleclick the layer
+6:48 that gets us the layer Styles we could
+6:50 put on an outer glow or rather a stroke
+6:54 for instance and there's a stroke and
+6:56 that still shows pretty well we lost our
+7:00 little fade in the
+7:03 background okay so that's an option let
+7:05 me get back here and I like this graphic
+7:09 right this is one of my rendered
+7:11 rendered deals here it's a rendered
+7:13 floor plan um which if you haven't seen
+7:16 the tutorial for the this this is pretty
+7:17 easy to accomplish um so I'm just going
+7:20 to press okay that was a camera raw
+7:21 filter let's just size this up a bit and
+7:24 then let's make sure actually before we
+7:26 even size it up let's get rid of that
+7:28 background right so we get to just use
+7:30 the new remove background tool we could
+7:32 just click this and it should get rid of
+7:35 the background isn't that awesome and
+7:37 then if you want to commit this change
+7:38 we know now I kind of came up with a
+7:40 solution for this that's super fast it
+7:43 is destructive I'll mind mind you that
+7:46 but super fast to just contrl G to group
+7:49 contrl E to stamp and there we go we've
+7:51 committed the removal of that background
+7:53 which is destructive we're removing
+7:56 pixels we're deleting pixels so keep
+7:58 that in mind but I don't know I don't
+8:00 mind this and actually this looks really
+8:02 good on the scene and what happens when
+8:05 we put the text in front of it does it
+8:07 lose anything and do we kind of shape it
+8:10 and turn it and that looks good I kind
+8:14 of like the
+8:15 shaping think it needs to size up a
+8:18 little bit yeah
+8:21 um somewhere in here all right I like
+8:26 that
+8:28 um let's put a little drop shadow on it
+8:31 I think that looks great against that
+8:35 gradient let's mess around with that
+8:36 gradient real quick I think maybe just a
+8:38 little bit lighter of a gray so we could
+8:40 come in here and double click the
+8:43 gradient again hit the drop down go into
+8:46 Basics and we're going to pick up that
+8:47 new gray there we go see that's more of
+8:50 a pop right this pops out a little bit
+8:52 more need to clean up a little bit of
+8:54 The Fringe on the edge of this but yeah
+8:57 that's looking pretty good
+9:02 okay um let's do something with this
+9:05 graphic
+9:06 again I actually have a trick speaking
+9:09 of stroke um I have a trick I'm going to
+9:13 alt click and drag this
+9:16 down that's going to create a copy of
+9:19 the
+9:22 text I'm going to I'm going to remove
+9:26 the fill from this there's a Str path on
+9:30 it so I'm going to remove the fill look
+9:31 what happens to the stroke path and so
+9:35 what happens if we change the stroke
+9:38 path
+9:39 to
+9:41 White and that's kind of
+9:44 cool position inside
+9:47 outside all right so we don't
+9:52 like
+9:54 outside that's interesting why is the
+9:57 prop plan text highlight in Black
+10:00 shouldn't be oh cuz I need to apply the
+10:02 same effect to the other one let's leave
+10:05 it on outside let's undo the stroke on
+10:07 the underlying layer there you
+10:10 go so that's the outside stroke so it is
+10:13 essentially
+10:15 highlighting highlighting the text I
+10:17 don't like that I want it on
+10:21 inside going to kick this back to
+10:24 inside what's
+10:28 Center Center's kind of interesting
+10:30 what's
+10:32 inside I mean inside's great I think
+10:35 inside's the best move okay so I like
+10:37 this this is uh this is looking kind of
+10:40 cool fill type color gradient don't want
+10:44 a gradient gradient a little too
+10:46 aggressive yeah I think I like this
+10:49 structure of this pixelwise
+10:53 sizewise I think I was probably good at
+10:55 where I
+10:56 was um
+11:00 yeah 10 pixels that looks about right
+11:03 all right so this isn't quite easy to
+11:05 read yet let's hit our V key let's move
+11:07 this around Isn't that cool look at that
+11:10 effect is that
+11:12 neat
+11:13 um well that's kind of fun coming in
+11:16 from the corner but we're not taking
+11:18 advantage of that drop shadow that drop
+11:20 shadow is very
+11:24 nice I wonder what else I can do here
+11:27 and do I like the location of the prop
+11:28 planet itself yeah I think I could do
+11:31 something else with the Pro Plan I'm
+11:33 going to control click I'm going to
+11:36 control click the Pro Plan
+11:39 text and I'm going to do a new solid
+11:45 color let's just make it
+11:47 white and let's mess around with the
+11:50 blend modes we might be able to get
+11:54 to
+11:56 a uh a difference
+12:01 overlays a little
+12:03 strong soft light or hard light soft
+12:07 lights a little
+12:10 weak all I'm trying to do is make it so
+12:12 that it's really clear that we can see
+12:14 that proplan inverts kind of interesting
+12:17 or exclusion
+12:20 rather okay let's go back let me do
+12:24 maybe we'll just change the fill on this
+12:26 right so we're going to just change that
+12:29 fill there we go slight
+12:33 fill and it might be interesting
+12:37 to what do I like the location of this
+12:41 well I'm going to fix this first and
+12:43 then I have an idea maybe we'll blur
+12:45 this so it looks like the prop plan is
+12:47 some kind of translucent panel if you
+12:50 will like a frosted class but before we
+12:52 do that let's make sure that we get rid
+12:54 of The Fringe on this so I'm going to
+12:56 control click the layer and then I'm
+12:59 going to contract that selection so
+13:01 we're going to go into select modify
+13:04 contract um it's probably one pixel is
+13:07 probably
+13:09 perfect and then let's just throw a mask
+13:12 on it to check yeah that got rid of that
+13:15 Fringe it left a little bit of the
+13:16 window overlay there but that got rid of
+13:18 The Fringe so that
+13:20 looks that looks pretty
+13:23 good okay so here so now I'm going to
+13:26 control click Pro Plan
+13:29 and I want
+13:30 to select my layer that has this
+13:34 building model on it and I'm going to
+13:37 control J it
+13:39 forward and so that's only bringing the
+13:42 the the image forward that was within
+13:45 the selection of the Pro Plan letters
+13:47 Isn't that cool and now let me control
+13:50 click it again because I want to make
+13:51 sure that this is
+13:53 really not sure that I need a control
+13:55 click there but I'm but I'm doing it
+13:57 anyways whatever um
+14:00 because I want to blur this now so I'm
+14:02 going to come into blur gajan
+14:06 blur and 15
+14:09 pixels yeah that kind of looks like a
+14:12 translucent panel
+14:16 right this is looking pretty
+14:24 cool so here's a really cool trick I
+14:28 think I think I can make this work I
+14:30 think I can um select that layer that we
+14:34 just made select
+14:35 the The Fill layer that we made select
+14:39 the text layer that we made mind you I'm
+14:41 holding control while I'm doing this um
+14:45 and select the the underlying text layer
+14:48 and then in the bottom of the screen
+14:50 which I don't know if you get to see
+14:52 this or if my face is blocking it but
+14:54 you're going to click on link layers at
+14:56 the bottom of your layer stack you get
+14:57 to link those layers
+14:59 so that when we move this it moves with
+15:03 now the only problem here is it's moving
+15:05 that underlay so that underlay I think
+15:10 might have to be a last step if you were
+15:12 to do this method let's see is that work
+15:15 how does that
+15:21 work I wonder if can you apply a blur to
+15:25 a blank pixel
+15:29 I'm me turn this off I'm going to turn
+15:30 that blur piece off oh and you know what
+15:34 that blur piece has oh that's
+15:36 interesting it's got a drop shadow I
+15:38 kind of like
+15:43 that boy that distinguishes the
+15:45 lettering even more did that by accident
+15:47 we did that just because we copied
+15:49 something that had a drop shadow in it
+15:52 um yeah I really like that man I might
+15:55 just call this Good
+15:57 sorry sorry
+16:01 the tutorial's over that's it I kind of
+16:04 like what this is looking
+16:05 like um I don't need to I don't think
+16:09 this needs to improve at all that looks
+16:14 fantastic I need to go back a little bit
+16:17 I think I maybe move that a little bit
+16:19 no I
+16:25 didn't yeah no this looks good yeah
+16:29 tutorial's done guys I don't know come
+16:31 talk to me comment ask me questions try
+16:35 this out that was a very cool trick
+16:36 right try this out and some graphics for
+16:38 yourself um and I want to point out that
+16:42 yeah I have a I have a need for graphics
+16:46 right my products need Graphics maybe
+16:48 you think that you don't need Graphics
+16:50 but little bits of Graphics like this on
+16:54 your website on um just your renderings
+16:58 on any kind of social media marketing
+17:00 stuff I mean you see this doesn't take
+17:02 that long once you start getting used to
+17:04 it 17 minutes it's not that bad this
+17:07 piece will last a year and it will drive
+17:09 content sales people will be enticed by
+17:11 this I'm enticed by it just looking at
+17:13 it I want to buy whatever this is on the
+17:16 page to me I'm drawn to this immediately
+17:18 make sure that while you're looking at
+17:20 this scale it way down on your screen
+17:22 now I'm looking at it from as if I'm on
+17:24 a um a phone screen and guess what the
+17:26 good news is it's very legible to me I
+17:29 know you can't see it on your screen the
+17:30 way I can right now but it looks very
+17:33 legible as a tiny little thing so um
+17:36 that's something to note and is it still
+17:38 interesting when it's pumped up yeah it
+17:40 kind of is I like
+17:42 it there we go you're going to see
+17:45 this um I would be curious to see what
+17:49 what would happen if I went in and got a
+17:51 little crazy with uh J
+17:54 Phil like just took out like some
+17:57 sections of this and just
+17:59 all right jfil make make a really
+18:01 realistic crazy looking floor plan and I
+18:03 could probably do a better version of
+18:04 this now especially because Chief gave
+18:07 us some new tools so that might
+18:09 happen I'll let you stick around for Gen
+18:11 Phill and then we're and then we're
+18:13 cutting it off because this is
+18:17 beautiful see what genfi did just
+18:19 without any
+18:21 prompt yeah it did some wackiness you
+18:24 know and it's some real
+18:27 wackiness all right
+18:29 till next time I think this was a good
+18:31 one play around with this I'm really
+18:32 curious to see what some people make
+18:34 with this
+18:39 [Music]

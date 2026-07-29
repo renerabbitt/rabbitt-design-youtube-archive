@@ -1,0 +1,133 @@
+---
+videoId: uURRIz6Wi-I
+title: Using OSCTouch with Chief Architect X-11 Intro
+url: "https://www.youtube.com/watch?v=uURRIz6Wi-I"
+status: imported
+---
+
+# Transcript
+
+0:04 afternoon chief users I thought I'd make
+0:07 a quick little video taking a break here
+0:10 and wanted to show you something that
+0:10 I've been working on slowly for a while
+0:15 now and it's it's not quite done or I
+0:19 would just offer it up to people but
+0:19 once I complete it I will offer it up
+0:21 but in the meantime I might as well show
+0:26 you how to do it for yourself so what
+0:26 I'm doing specifically is I'm creating a
+0:39 hotkeys front end for a tablet and it
+0:39 works with chief architect and so I have
+0:45 gone to I bought an app on the App Store
+0:46 I'm using an iPad
+0:46 the same map can is available on an
+0:49 unmanned droid device as well and it's
+0:51 called touch OSC touch OSC what is that
+0:56 a mega Sam charlie I haven't I I need to
+1:03 brush up on my native phonetics but
+1:03 anyways so what we're looking at is a
+1:06 toolbar that I started creating and you
+1:09 can see that there's some kind of
+1:09 familiar items here perspective full or
+1:11 review swing door exterior wall interior
+1:16 wall wall types build a roof build
+1:16 foundation etc and I'm just gonna give
+1:20 you just just like a showcase of what or
+1:26 have you know kind of how you can create
+1:28 these buttons and how you can implement
+1:33 them so I went into my under tools you
+1:35 know toolbars and hotkeys customize
+1:35 toolbars lock doors customize hotkeys
+1:40 and for this particular example I'm
+1:40 going to go to I'm just going to type in
+1:44 light and what I want is electrical
+1:44 tools light and so I'm going to do ctrl
+1:48 shift
+1:48 L and assign that and then over here
+1:52 which is the touch osc editor you get
+1:56 this off of their website and there's a
+1:58 touch osc software that's for either Mac
+2:02 or Windows and so I'm going to right
+2:02 click I'm going to click a push button
+2:09 and that push button has OSC midi key
+2:12 and under key I'm gonna do that
+2:12 shift control L there we go and let's
+2:20 just really doing this is lights and
+2:20 just dropped over here and I actually
+2:23 there's a grid here somewhere it's kind
+2:29 of hidden but there's a grid and so I'm
+2:29 going to create my button size right off
+2:34 of this grade it kind of snaps to those
+2:34 grids and I can change the color of this
+2:40 item let's just make it gray and then
+2:41 the next thing I'm going to do is I'm
+2:41 gonna go to label V and that gives me a
+2:48 string input and so I'm gonna just put
+2:54 light and I'm gonna change the size to
+2:54 about 20 a let's make it 25 why not and
+3:01 so this light I'm gonna put that right
+3:02 over here and and all that is it's an
+3:02 overlay and in fact I'm going to uncheck
+3:06 background that makes it so that it's
+3:10 when I touch you know over the top of
+3:11 this button it's not gonna touch the
+3:11 light portion it's going to touch the
+3:16 button underneath and so now I've got
+3:16 that there and I'm gonna hit sync and on
+3:22 my iPad I'm gonna hit the menu option
+3:22 and I'm gonna hit under layout and I'm
+3:25 gonna hit add and then it's gonna see my
+3:31 host server which is the name of my
+3:31 computer and it's gonna warn me that I'm
+3:37 gonna overwrite my existing setup and
+3:39 I'm gonna click yes now you can't see
+3:41 all this I'm not recording my iPad I
+3:41 suppose it could but I figure you guys
+3:46 will play around with this so now that
+3:48 light button is there and you're gonna
+3:48 see and cheat for architect I'm about to
+3:52 press that button and what you're gonna
+3:54 see is you know here's my light icon
+3:54 right here at the top and I'm not even
+3:58 going to get anywhere near that when I
+3:58 touch on my iPad it should if I did that
+4:02 right
+4:02 BAM look at that all I did was touch the
+4:08 interface on my iPad and it's selected
+4:10 light watch all hit window
+4:10 I'll hit exterior wall I'll had interior
+4:14 wall
+4:14 I'll even let's do build foundation look
+4:20 at that pops right up foundation
+4:20 defaults BAM pops right up so I have
+4:25 this as
+4:25 touchpad on my iPad it's it's hooked up
+4:30 to my computer and it's controlling
+4:30 chief architect and what a fast way to
+4:33 navigate your toolbar buttons especially
+4:39 things that that don't necessarily show
+4:42 up and so another part of this that's
+4:42 kind of cool is that if you saw another
+4:48 video I posted it was about macro
+4:48 recorder and a macro recorder can record
+4:54 your screen actions and play them back
+4:57 as an executive or file and so an
+4:57 example of that is if I click on this
+4:59 guy this program icon right here that I
+5:03 pinned to my taskbar it's going to
+5:03 change my I go let's just do this and I
+5:09 changed my snap units at 3 inches
+5:09 because I do that quite frequently
+5:10 whether I'm working in CAD or layouts or
+5:15 etc you know layouts I'm one of the most
+5:17 stuff around I want to move the incra
+5:17 and it's much smaller so if I hit this
+5:20 executive will file look what it does it
+5:25 goes in changes it to half and now I can
+5:33 program this to this iPad front end so
+5:33 some productivity tools there maybe I'll
+5:39 do an expansive video when I complete
+5:39 this but in the meantime for some you've
+5:44 you know adventurous users here's
+5:44 something to kind of mess around with

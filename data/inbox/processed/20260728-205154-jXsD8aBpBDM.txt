@@ -1,0 +1,135 @@
+Title: Free Symbol for Chief Architect X14-Low Poly Dynamic Chains
+URL: https://www.youtube.com/watch?v=jXsD8aBpBDM
+Visibility: public
+
+0:04 free symbol Friday and this one warrants
+0:07 a little bit of a bit of an explanation
+0:09 um a few times people mention me and
+0:11 they might not tag me appropriately
+0:11 please tag me appropriately if you want
+0:15 me to find your post this particular
+0:18 post was forwarded to me because it
+0:18 didn't properly tag me but I'm going to
+0:21 respond to it anyways we're going to be
+0:24 giving away a symbol to create your own
+0:26 chains in any
+0:26 um any kind of fashion that you might
+0:29 want to in terms of like creating a swag
+0:35 link chain or if you want some kind of a
+0:37 chain from maybe an awning or something
+0:40 like that so we're going to be able to
+0:40 to create a chain using the methods I'm
+0:43 going to describe here but before I
+0:43 describe those methods I'm going to get
+0:45 into maybe what you thought you might do
+0:49 in terms of creating a chain which is
+0:49 you might have created a molding line or
+0:55 a 3D molding line the problem with a 3D
+0:57 molding line or molding line is that
+0:59 Chief will segment
+0:59 that molding as it needs to to create
+1:04 such things as an arc and you can see
+1:04 here this chain link is segmented as it
+1:08 makes its way around the arc and the end
+1:13 of the chain link is segmented as well
+1:13 which you might not want so a 3D molding
+1:20 doesn't in fact work to an ultimate
+1:20 level of accuracy the other problem with
+1:25 this is if we were to convert this to a
+1:26 symbol
+1:26 which I'm going to do here convert this
+1:29 to a symbol I'm not going to add it to
+1:30 my library but we'll show Advanced
+1:36 and when this comes up we're going to
+1:39 notice here it creates a pretty large
+1:43 number of face counts now this is a
+1:43 chain that I actually built so it's kind
+1:47 of optimized in a sense but that's still
+1:50 a pretty large number of faces for a
+1:50 very short chain length and you might
+1:52 need a very long length of chain so I've
+1:57 built what I would call an ultra low
+1:57 poly I know it's getting a little bit uh
+2:02 Sensational there but I built an ultra
+2:02 low poly count chain and this chain link
+2:08 is just two links now I'm going to give
+2:12 you my full chains folder which has a
+2:12 number of different things in there but
+2:15 one of them is going to be that ultra
+2:15 low poly chain we're also going to add
+2:22 the method for creating our chain link
+2:22 which is going to be that we're going to
+2:26 draw out a line
+2:26 draw this line out I'm going to use
+2:34 and then I'm going to fill it this right
+2:37 here and this is going to be my swag
+2:39 now from here I want to convert this
+2:39 line okay so I'm going to go ahead and
+2:42 use the convert polyline tool I'm going
+2:46 to change it not to a molding polyline
+2:46 not to 3D molding polyline I'm going to
+2:51 change it to a polyline distribution
+2:55 path and so this will not segment my
+2:55 item so then I need to select my item
+2:58 I'm going to go ahead and look for that
+3:13 I've got a low poly chain link and then
+3:17 I've got that ultra low poly chain link
+3:19 there we go and the last thing that I
+3:20 need to do and let me just update the
+3:20 preview window so you can see what we're
+3:24 looking at here you can see it doesn't
+3:24 quite look right well we need to set our
+3:28 maximum distance we're in the
+3:28 distributed object panel in the section
+3:30 of object spacing and we're going to set
+3:35 our maximum distance to three inches and
+3:38 there we go we've created that chain
+3:38 link now we've got one more step from
+3:42 here I've got my chain link I want to
+3:43 convert this to a symbol because we
+3:46 can't rotate or we can't draw a
+3:46 distributed path in the elevation
+3:49 so we're going to convert this to a
+3:52 symbol you can make it a fixture you can
+3:56 make it a Millwork class and then I want
+3:58 to show Advanced options and the last
+3:59 thing that I need to do for this
+3:59 particular symbol so I'm going to rotate
+4:04 it in the x-axis
+4:04 and there we go if we look at a vector
+4:06 View
+4:06 there's my swag chain now you'll notice
+4:11 here the number of faces is 16 000. so
+4:12 we've cut that number of faces down
+4:12 significantly and that's manageable a
+4:15 recommended cap from Chief Architect is
+4:17 50 000 faces so this is well within that
+4:22 range and we've got a very good looking
+4:25 chain now there's one more thing we
+4:27 might want to do which is this
+4:27 particular chain because it's so low
+4:28 poly has a lot of facets to it so you
+4:32 might want to change your smoothing
+4:32 angle I'm going to pump this up to 80
+4:37 just to kind of show what that did it
+4:39 just Smooths it out a little bit so
+4:39 we've increased that smoothing angle and
+4:53 and there we go and we can see that it's
+4:55 allowing me to place this here there we
+5:02 and that looks pretty good
+5:02 and the distance that you would
+5:04 typically render
+5:04 that looks very good so there you go
+5:09 I've also included These Chains as a
+5:12 block in case you want to angle
+5:12 um the adjacent chains a little bit
+5:15 different maybe you want them on 30
+5:15 degree pitches as opposed to 90 degrees
+5:20 to each other so a couple little notes
+5:23 there and play around with this let me
+5:23 uh have any feedback you might have let
+5:27 me know if you've got any issues with
+5:28 this method it should work pretty
+5:28 seamlessly you can see here we've got a
+5:33 full length Link at the end Link at the
+5:33 end and no segmented sections along that

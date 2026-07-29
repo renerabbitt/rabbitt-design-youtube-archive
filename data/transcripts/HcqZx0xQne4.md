@@ -1,0 +1,99 @@
+---
+videoId: HcqZx0xQne4
+title: CA SHORTS Custom Cabinet Door From Window In Chief Architect
+url: "https://www.youtube.com/watch?v=HcqZx0xQne4"
+status: imported
+---
+
+# Transcript
+
+0:01 go ahead and show you guys this since
+0:01 someone tagged me I'm going to show you
+0:04 how to make a custom cabinet door I
+0:04 typically do this out of countertops but
+0:08 if you want some like um curved moons
+0:08 and little details like that better to
+0:12 use a window so I'm going to place a
+0:12 window I'm going to make this a fixed
+0:14 window and then let's just open this up
+0:19 I'm actually going to um set it so that
+0:26 it has no Jam no casing and also um no
+0:30 frame well Jam frame same thing I'm
+0:30 going to set my mutton width and this is
+0:35 going to be um basically the molean um
+0:35 size okay I'm going to set this up right
+0:39 now I'm just going to say it's half inch
+0:41 and then the sash is going to become our
+0:43 style and rail so just make sure you can
+0:45 form that sash so I'm going to make sure
+0:47 my bottom width is inch and a half and
+0:49 then let's make this a pretty small
+0:49 window let's make it 18 by 18 there we
+0:54 go now I want to pull an elevation
+0:54 camera on this and then I can get in
+1:00 here tight use my line
+1:00 cool right draw out a line right click
+1:03 is going to unbind this do our alternate
+1:08 draw mode and that way I get to know do
+1:10 this little custom shape here I'm
+1:10 actually going to shrink this down even
+1:15 more we'll shrink this down by 6
+1:15 inches all right so there's my little
+1:21 custom shape copy paste reflect about
+1:23 grab both of these lines by shift
+1:23 clicking or control clicking and in your
+1:27 edit menu which mine's floating is make
+1:29 CAD block once you've done that select
+1:31 the the window and the window is going
+1:31 to see that there's a cad block overlay
+1:34 and it's going to give you this tool
+1:35 load
+1:35 mutts and there we go we get to take
+1:40 this and in our edit menu convert
+1:40 selected to symbol make it a cabinet
+1:43 door show Advanced options let's add it
+1:47 to the library as well we're going to
+1:47 get into the advanced sizing panel and
+1:50 then from there we're going to go ahead
+1:56 and check with two boxes and make sure
+1:59 that we're um checking uniform stretch
+2:02 zone between and we're going to set up
+2:05 two air uh two stretch cutting planes
+2:05 where we're going to stretch the symbol
+2:09 uniformly between those two cutting
+2:09 planes and so what we're doing here is
+2:11 we're going to take that width right and
+2:17 we're going to um it's so it's
+2:17 essentially 6 Ines on either side uh
+2:20 because our if we look at this we look
+2:22 at our little Gizmo right in the middle
+2:26 here is the Y plane X plane right these
+2:27 are the positive legs so we need to move
+2:33 negative and positive with our stretch
+2:33 plane okay so if I go -6 that's going to
+2:40 put us at the balance of the symbol see
+2:41 so now we're uniformly stretching
+2:41 between -6 and 0o so we're going to
+2:44 actually back this off a little bit by
+2:50 the size of our style in this case so
+2:50 minus one each and a half so now we know
+2:53 we could just put four and a half on the
+2:55 other side that means when this symbol
+2:57 is stretched because it's placed on a
+2:57 new door it's going to stretch uniform
+3:01 norly
+3:01 okay pretty cool um the depth of this
+3:06 we're going to change this now we can
+3:06 set this to 3/4 of an inch there we go
+3:11 and then we also want to do uniform
+3:11 stretch zones in our height is that the
+3:14 first one is inch and a half up and then
+3:19 the next one is our overall height minus
+3:24 inch and a half this case 16 and2 cool
+3:25 I've got a
+3:25 cabinet there we go it's in my catalog
+3:31 now so if I place a let's just throw
+3:33 wall cabinet in here pull a little
+3:35 camera
+3:35 view add that cabinet door I just
+3:37 created and there we go look at that

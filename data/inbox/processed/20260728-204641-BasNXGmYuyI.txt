@@ -1,0 +1,49 @@
+Title: Angled Retaining Wall in Chief Architect X16 - Terrain Video 8
+URL: https://www.youtube.com/watch?v=BasNXGmYuyI
+Visibility: public
+
+0:02 all right I'm going to show you a trick
+0:03 that you probably not find anywhere else
+0:07 welcome VIP I think this is video number
+0:10 eight you guys voted on terrain this
+0:10 month this is a big one if you want a
+0:13 Terrain retaining wall and you want it
+0:19 have it be a straight line slope okay
+0:19 notice here when we create this and we
+0:23 got a bunch of elevation data it's got
+0:23 all these brakes and it's not a straight
+0:27 line slope so what am I going to do I'm
+0:29 going to go into my plan view I'm going
+0:31 to take all that terrain data that I
+0:34 used create this slope in the first
+0:34 place okay to take all this I'm going to
+0:40 cut it that's usually control x uh for
+0:41 mine it's a little bit different but
+0:41 there we go and to cut that data now I'm
+0:45 going to come in here with a
+0:45 polyline going to snap in some new data
+0:52 let's just convert this elevation
+0:52 line the number can be arbitrary here
+0:57 make sure interior is flat and then I
+0:57 want to get into my cross-section View
+1:01 and watch what happens to this terrain
+1:03 retaining wall now I've got some
+1:03 overlapping data here so we got a little
+1:08 bit of a problem make sure that we don't
+1:10 have any overlapping data we want to get
+1:12 this right on top of that wall little
+1:27 away there we go now notice what happens
+1:30 you no longer have any breaks brain
+1:33 retaining wall oh now I'm going to
+1:33 manually edit this snap this up to my um
+1:38 upper retaining wall then I can come
+1:38 back into plan view I can rid of this
+1:45 data and I can past hold my old data
+1:45 back form this back into place now Watch
+1:55 Happens see this update got straight
+1:55 retaining wall now editable it's got no
+2:00 brakes on the top of it and we have our
+2:02 slope back that I can come back into
+2:05 this section view con form this back
+2:05 down need to be just above grade here
+2:09 perfect a perfect straight line perfect

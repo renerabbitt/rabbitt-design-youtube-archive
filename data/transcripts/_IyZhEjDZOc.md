@@ -1,0 +1,691 @@
+---
+videoId: _IyZhEjDZOc
+title: Speed Model Bath Build In 2025 for Chief Architect X16
+url: "https://www.youtube.com/watch?v=_IyZhEjDZOc"
+status: imported
+---
+
+# Transcript
+
+0:03 this is part of my speed modeling series
+0:05 I got a playlist on YouTube it's all
+0:05 about speed modeling and I'm going to
+0:09 primarily be using my full library to
+0:09 kind of um use the tools in there to to
+0:14 draw things very quickly so I want to
+0:16 draw a bathroom in this session and
+0:17 we'll see where I end up with this um
+0:21 just going to start I will highlight
+0:21 what I'm doing as I'm doing it a little
+0:23 bit I think um I need to just start with
+0:28 this shape that I think I want for this
+0:30 bathroom which is got like kind of a
+0:33 clip setup here so that if I had a a
+0:35 bedroom here kind of mirroring this
+0:35 effect that's what I'm thinking about
+0:37 with this and then I already have some
+0:42 cool new tools for bathroom shower
+0:42 builders that are going to be coming out
+0:44 for
+0:44 X17 so I'm going to utilize that I've
+0:48 got some pre-built stuff so I got some
+0:53 pre-built showers that are Dynamic and
+0:53 so I'm going to start with that this is
+0:56 just going to be an architectural block
+0:56 and I'm going to shift this over because
+0:59 I think my shower is going to be a
+0:59 little bit different um but I also want
+1:00 to just showcase that this is you know a
+1:06 dynamically resizable setup here so I'll
+1:09 explode this block and then I'm just
+1:09 going to drag this down like this and
+1:13 I'm going to maybe push this out a
+1:13 little bit and then I think that I'm
+1:15 going to tuck a wall up like this and so
+1:21 that's going to come out something like
+1:24 that and it's going to return and so
+1:24 this is going to be a water closet set
+1:26 up here and let me just say that this is
+1:29 going to be like 30 in something like
+1:33 like that okay let me bring this back
+1:36 kind of Center my view and take these
+1:36 elevations and throw them inside of the
+1:41 space let's move my edit toolbar over a
+1:44 little bit and then on top of that I
+1:47 think I want to have um base cabinet
+1:47 that's like 20 in and just I only need a
+1:51 little bit in between that and the
+1:51 shower so that's about the size of the
+1:54 bathroom I'm going to go for you know
+1:55 granted this isn't the way things are
+1:55 done we would typically you know have a
+1:58 house that we're already working with or
+2:01 maybe this is new construction and then
+2:04 I do get to kind of just space plan but
+2:06 I'm just kind of winging it right now
+2:09 with just creating a generic bathroom
+2:09 out of nothing let me just bump this and
+2:14 then I want to say that I have 30 in in
+2:17 front of this toilet and that way I can
+2:19 kind of fit this in here also kind of
+2:19 want to space this out maybe another six
+2:24 inches there we go and we can Center
+2:24 this up and so there we go now I got a
+2:31 door on the center yeah that's perfect
+2:33 okay might move this out just a little
+2:35 bit more let me go another six inches
+2:37 more and
+2:37 then yeah this door Center on this
+2:40 little diagonal maybe we'll kick this
+2:44 back just a little bit more kick this
+2:44 forward a little bit more something like
+2:52 that there we go I like that cool all
+2:55 right so then what do I want to do I
+2:57 want to do a little do a little base
+2:57 filler here and then just but this up I
+3:03 want to make this like an 18 or 15
+3:05 probably an
+3:07 18 and
+3:07 then just keep going with this 24 let's
+3:10 go maybe a 21 in between and I should be
+3:17 able to take these and reflect about
+3:19 yeah that's looking pretty
+3:19 good um I want to do let's see two
+3:25 drawer
+3:25 bases on the ends and maybe three drawer
+3:30 bases in the middle
+3:30 and then full height double
+3:32 door where these are going to become
+3:37 sinks and let me go ahead and just
+3:37 specify that this is a bath and that's
+3:42 going to change my call outs here very
+3:45 cool we can kind of move
+3:45 this off to the side and we'll just
+3:51 change this to a water closet
+3:51 cool um and I want to make sure that for
+3:56 my labeling convention I actually don't
+3:59 want water closet um
+4:02 so let's
+4:02 see okay labels and then yeah water
+4:08 closet should have been in there so
+4:08 that's why that's not showing that well
+4:13 fix it
+4:13 later okay oh that did fix it aha
+4:22 cool and so let's see what else do I
+4:22 want here so let's just throw in some
+4:27 lighting
+4:27 and it's kind of kind of uniform little
+4:33 can lights there maybe one here maybe
+4:35 one in the shower have to move the
+4:35 shower label over a little bit so we can
+4:40 see that and then let me do Rd valve
+4:40 we're going to throw a shower valve in
+4:44 here that's a stretchable valve that
+4:46 I've got in my library so throw
+4:46 something like that in there kind of
+4:48 Center it up and we should be able to
+4:53 move that off the wall half an
+4:53 inch cool and let's go towel or actually
+5:00 let's just look through this with tag so
+5:03 I'm going to go wall and
+5:03 then guess Decor bath fill this valve
+5:09 search oh I like that we've got some
+5:11 mirrors here so we'll throw these in
+5:11 here real quick and there we go I've got
+5:17 a couple towels tbar holders so throw
+5:18 one here and
+5:18 here yeah what else do I want to see
+5:24 here you know I'm going to have a toilet
+5:31 see if we' got one of those in my
+5:31 catalog or not I do cool throw that
+5:37 right here maybe
+5:37 yeah um and maybe I want a
+5:46 mat bath mat what a bath mat there we go
+5:47 throw this one here I think that's where
+5:49 that door is going to be
+5:49 and yes throw one here too yeah and then
+5:57 let me get into countertop
+5:57 bath decor and and should come up with a
+6:04 few things here that's pretty large
+6:06 maybe we'll just do this
+6:17 here there we go something like that
+6:17 cool um let's go take a look at this and
+6:30 here and so I think I want to do little
+6:34 window here and I'm going to make
+6:34 this what I want to make this I'm going
+6:39 to just make this a fixed window and an
+6:42 arch why not getting a little funky
+6:42 Right Center this up on this guy and
+6:47 then maybe I want actually I think I
+6:49 want another
+6:49 window here and so I'm G to just flip
+6:56 this about the other side and Center
+7:01 can find Center oh this is still an
+7:01 architectural block no it's not should
+7:06 have been able to get Center
+7:08 but going be fighting
+7:08 it fighting it fighting fighting
+7:11 fighting okay so for this this is a
+7:16 cabinet believe it or not and it's
+7:16 infinitely resizable and modifiable
+7:18 which is very very cool um and so what I
+7:24 need here is I need the right side is
+7:24 this plane here and we're just going to
+7:28 say none so we're going to take that
+7:28 away because I'm going to put a window
+7:31 there
+7:31 instead um which means yeah we get to
+7:36 throw this window in here and let's
+7:38 shrink this down
+7:38 by 12 in on either
+7:41 side and I think we're going to make
+7:43 this a single casement and maybe we will
+7:47 also make this an
+7:47 arch something like that and then no
+7:50 casing on this so let's go back and kick
+7:55 this into an arch
+7:56 again and so now I get to just
+8:04 um aash is going to have to be drawn
+8:04 over here because we using utilizing a
+8:07 cabinet which that makes it so you can't
+8:11 draw a backsplash because the cabinet's
+8:11 there but you can kind of manually place
+8:19 it so a little bit more work but
+8:19 considering we've got a full shower
+8:20 built out of nothing that was pretty
+8:25 slick
+8:25 right and by the way if you're watching
+8:29 this video and you see that it's fuzzy
+8:31 that's because my machine is trying to
+8:31 catch up to doing PBR rendering so I had
+8:36 some comment about fuzziness I'm
+8:36 recording in 4k now and so this um that
+8:40 fuzziness you should only be seeing that
+8:44 when it's trying to rerender a scene
+8:44 like just now okay okay cool and let's
+8:48 move this over a little bit and then uh
+8:53 yeah let's throw a little backsplash in
+8:56 here too why not something like that we
+9:00 going to just make this 5 inch or we
+9:00 might end up changing this depending on
+9:04 what tile end up using as the final
+9:04 thing here and then should just be able
+9:07 to span that out like that let's throw a
+9:14 little GFI on the wall and maybe we'll
+9:16 throw one over here too and probably
+9:18 kick it up a little
+9:18 bit right let's also
+9:21 throw let's get back into my library
+9:27 let's go wall light interior to find
+9:29 some kind of cool scun
+9:32 oh I kind of like this
+9:34 one that's
+9:34 fun something like
+9:49 oops yeah that's kind of fancy
+9:49 cool I like it um what else we seeing in
+9:58 here want to change anything no kind of
+10:00 like what this is looking like so let's
+10:13 got like this this is looking pretty
+10:13 cool let's go plan mode change this tile
+10:19 out that's kind of fun um maybe I'll
+10:19 just search blush and I can blend this
+10:24 with the wall
+10:24 material maybe blush matte yep blend
+10:31 with BL View yeah
+10:31 sure hey that's kind of
+10:36 fancy why
+10:36 not and let's just paint the front face
+10:41 of this I want this to just be Stone
+10:41 instead and it's because it's a cabinet
+10:43 it's got a bunch of individual
+10:43 components that can be painted and then
+10:47 I want to switch to maybe I want to do
+10:49 gold in this room
+10:49 so just paint Everything Gold why not
+10:53 all these brackets Hardware expensive as
+10:58 heck to try to find this but why the
+11:00 heck not
+11:00 let's get into this plan view one more
+11:04 time
+11:04 and just pop this in here like that
+11:16 for yeah okay okay okay um I want this
+11:16 to be a little bit shorter might need to
+11:24 rebuild that no that rebuilt by itself
+11:24 cool um looks like this is just doing a
+11:28 little bit of Z fighting so we'll just
+11:38 that so this is a rebuildable and
+11:38 editable block that's just built out of
+11:42 cabinet so I can resize this tub if I
+11:45 want to here's these integrated um
+11:47 Hardwares were part of the block
+11:48 actually and then can change the
+11:50 material and could even swap the
+11:50 material to something that was panel
+11:54 because this is a cabinet so that's
+11:56 pretty cool and then let's see if I
+11:56 can't get let's see do I have fabric in
+12:03 here do I have a probably just Rd or
+12:03 let's do Furniture material see if that
+12:08 works Furniture material give me somewh
+12:09 yeah it
+12:09 does so I'm going to find
+12:16 something that would
+12:16 be like a fabric here with these
+12:21 mats a little bit better okay let's just
+12:26 do that that's fine and let's see do I
+12:28 want to resize this at all I want to
+12:30 bring this back just a little bit so
+12:30 we're going to bring that backs Splash
+12:33 back as
+12:33 well there we go we got a little more
+12:37 space now I like that
+12:37 better and Let's do let's do wall art
+12:48 right so wall decor should get me to
+12:55 and
+12:55 see what do I want something like that
+13:04 oops this one's kind of funny it's
+13:04 oriented the wrong way could fix it
+13:12 funny part of it too this is how I find
+13:14 little problems and that should be
+13:14 mounted should have been mounted it just
+13:19 wasn't working in 3D for some
+13:19 reason so let's change this out because
+13:26 that's not the right painting for this
+13:27 shot yeah it will regenerate size shape
+13:42 art so I got some new ones in here that
+13:43 I just
+13:46 added
+13:46 and check this out in its folder
+14:04 interesting must have put it in the
+14:04 wrong folder my brand new ones I put
+14:05 some brand new ones in it put them in
+14:09 the wrong folder dang
+14:09 it dang it what did I just do with them
+14:17 it all right well let's just do
+14:26 then yeah why not that's
+14:26 okay okay what else let's see see throw
+14:33 this over here something
+14:33 like so let's see we want to get a
+14:36 little fancier with these cabinets I
+14:38 suppose we can open up the bottom end of
+14:51 challenging could open up the whole
+14:54 lower section here and
+14:54 then and then turn it into a
+14:56 shelf would be something I could do um
+15:01 okay so let's start by doing we're going
+15:06 to throw some cabinet feed on here
+15:09 instead actually
+15:09 typically typically I would not do that
+15:22 here let's look we got mill work so
+15:22 let's go feet or foot probably foot is a
+15:27 better search term for
+15:29 that and
+15:29 boy would do a bun foot would look a
+15:33 little
+15:33 too cont
+15:36 temporary like that where we then need
+15:41 to
+15:41 modify these sections
+15:48 here make these all two drawers so we
+15:48 can just work with them or just really I
+15:52 just need to fix one of these so going
+15:54 to make this
+15:54 um use my shelf tool so I have a a style
+16:03 palette I have a painter for countertop
+16:06 shelves there we go and let's show this
+16:06 in the folder and here's our single with
+16:13 shelf items and we'll throw a
+16:17 little towel in there
+16:17 something there we go something like
+16:22 that or maybe a basket and component
+16:22 base and get to swap out this lower door
+16:27 but this lower door needs to be not a
+16:29 drawer it needs to be a door
+16:32 so just make this door
+16:41 that cool so that kind of works um
+16:41 really the next thing is that I want the
+16:48 left style to be zero Ines and the left
+16:52 side to be none oops none so that it
+16:52 just locks into this next piece right um
+16:59 and kind of the same thing we want these
+17:02 to be the same size even I might even
+17:02 just take this guy and duplicate it over
+17:06 um which would be easy enough so we
+17:10 would just take this kick this over
+17:10 18 jump this to 24 right and then that
+17:17 top part this could just be that could
+17:17 be a drawer technically um and then the
+17:20 right hand side needs to be none as well
+17:27 get back to front and set right style to
+17:28 zero Ines
+17:28 cool and so that's just continuing now
+17:34 Isn't that cool and then maybe we take
+17:38 this guy and say that um in fact it's
+17:38 got no toe kick at or maybe it does have
+17:44 a toe kick but it's got just like a one
+17:45 inch
+17:45 toe and we got none set to use default
+17:50 right so that's just dropping this whole
+17:54 section down which I kind of like
+17:54 cool right so now we just get to delete
+18:00 these let's throw throw that same sink
+18:01 in
+18:01 here Pi this copy paste reflect about
+18:08 this Center
+18:08 guy nice nice nice that's kind of cool
+18:13 looking
+18:13 right and let's paint the
+18:15 room give it some new kind of finish
+18:21 there that's looking looks all
+18:21 right almost want to jump this little
+18:24 cabinet out a little bit um toe Kick's a
+18:29 little funny but I'm not too worried
+18:29 about it I'm liking the way this looks
+18:33 though let's add a little eased edge
+18:33 molding to these so we just do that in
+18:38 plan view so we're switching to a
+18:38 marquee mode so that we're just drawing
+18:41 Marquee over this because some of these
+18:43 things are built with a cabinet so we
+18:43 don't want to do room mode or full plan
+18:46 mode and maybe I'll do something like an
+18:51 OG
+18:51 Edge or see what other edges we've got
+18:58 going on here oh that's a funny one um
+19:00 yeah sure why
+19:00 not it's a cool little countertop
+19:02 profile thing going have to grab all
+19:08 these and kind of fix the height of
+19:09 it so in our moldings KCK this off as
+19:15 actually I kind of like it I kind of
+19:15 like the height so let's go the opposite
+19:19 direction let's make our countertop more
+19:23 narrow Isn't that cool yeah I like it
+19:25 and we'll
+19:25 kick this backsplash into a different
+19:29 finish
+19:29 yeah that's looking pretty nice I like
+19:34 that a lot let's go Rd
+19:34 plant Rd plant pot I'm just going to put
+19:39 a potted plant in here and I'm going to
+19:41 maybe move this door out just a little
+19:44 bit
+19:44 um probably the wrong plant for the job
+19:50 but that's okay we're going to turn off
+19:50 bumps or at least I thought I turned off
+19:57 bumps and I'm still not turning off
+20:01 bumps move it over 3 in there we go
+20:01 something like that cool and then what
+20:06 other details we want we could put a
+20:06 schlutter edge across all this stuff um
+20:11 so actually I'm going to move this up
+20:11 six inches I need a little bit of space
+20:19 there yeah let's open this door even
+20:22 more let's go 130
+20:25 maybe
+20:25 cool now I want to kind of kick in and
+20:29 do some of these renderings so this
+20:29 would be a like a nice little one right
+20:34 but actually I kind of want something a
+20:38 little more like this so I could sit
+20:38 here and kind of edit this clip surface
+20:46 45 like that right and get to this
+20:46 rendering right there is pretty good so
+20:52 let's just do a little print screen and
+20:53 we'll grab
+20:53 this okay and then let's kick it back
+20:57 around the other way let's see what
+20:57 other ones are kind of interesting yeah
+21:02 I like this one
+21:02 sure do a little print screen grab that
+21:09 cool um now let's do one that's really
+21:11 cool so we're going to bring this way
+21:14 out here and to see if we can't find
+21:14 that camera there it is let's open it up
+21:20 set it to 10° let's display poche we're
+21:24 going to put black fill on poche then
+21:24 we're going to do a section cut on this
+21:29 once kind of figure out how this is
+21:29 aligned I want to Center this up maybe
+21:31 about right there that looks good looks
+21:34 like the 10 degrees didn't follow it did
+21:40 okay and then I want to cut this right
+21:42 in front
+21:42 of right here maybe okay so I'm going to
+21:50 look at my x coordinate - 161 so let me
+21:50 go back to this camera and we'll turn on
+21:58 a section cut that is - 161
+21:58 and we should be able to you guessed it
+22:04 see see this guy right we'll have to
+22:06 back this up a little bit back this
+22:06 camera up a little bit but yeah look at
+22:11 that that's looking pretty good let's
+22:14 just make sure our positioning is all
+22:14 good so no tilt angle 180 is still good
+22:18 I floor is a little high but that's okay
+22:23 or yeah let's
+22:23 see a four let's go 69
+22:28 there we go something like that let me
+22:40 time 62 instead and I'm going to kick my
+22:43 daytime backdrop intensity down to like
+22:43 a th000 maybe and kick these up a little
+22:49 bit why
+22:49 not eight ridiculous I don't need that
+22:52 but whatever that's fine and that looks
+22:55 pretty good so let's grab a little print
+23:00 screen Bam Bam Bam Bam Bam Bam uh
+23:00 meanwhile I'm going to throw these into
+23:07 some AI based stuff in Priya so let's
+23:09 just get some of these going so we'll
+23:17 this and want to keep realism up a
+23:17 little bit and I like that and then
+23:28 one same kind of thing haven't figured
+23:28 fig out how to establish a setting that
+23:34 I like ahead of time and let's get this
+23:44 going something like that cool let's get
+23:46 back in the chief and I should be able
+23:47 to just
+23:47 simply um take
+23:51 this and basically we want to just about
+23:56 face this sucker so we're just going to
+24:00 take this and uh reflect it we could
+24:00 copy paste and reflect it no we can't so
+24:05 I need to just take this and let's
+24:08 go this is where I'm
+24:08 at since we couldn't do it with the
+24:10 camera we can just do it with the line
+24:13 so we're going to take this just like
+24:13 that bam and let's open that guy up and
+24:20 let's change the cut so we're going to
+24:20 flip from this cut to this cut and same
+24:35 let's kick that back into Korea where
+24:47 cool a little enhance get back the chief
+24:48 and let's start building out a couple
+24:48 things here for construction documents
+24:54 so I've got an elevation right here
+24:56 let's open that guy
+24:56 up and we'll do a little Auto elevation
+25:01 this is my Pro Plan template so this
+25:01 works really well typically um I'm not
+25:07 sure why these are so far away that
+25:07 shouldn't have been the case but that's
+25:09 okay I'll just move them up um so should
+25:14 be able to
+25:14 move holding my S key moving it up now
+25:20 I'm not picking up any snaps there we
+25:28 that but that's okay that's a much
+25:29 better look there right let's do new
+25:35 layout and let's save my
+25:36 project as just some junk file example
+25:45 bath example bath one and we'll kick
+25:46 back to that layout we'll change the
+25:50 reference files to that example path
+25:50 one and that should produce a new plan
+25:57 view new layout Etc bring this into
+25:59 there like that
+25:59 um and we're going to move this shift
+26:03 this around get back to that back
+26:03 bedroom and maybe we'll kick it up to
+26:08 half inch scale
+26:09 so
+26:09 right yeah expand this so we get all
+26:13 those dimensions in there drop this down
+26:19 cool and so now I should be able to send
+26:21 this I also want to send this at half
+26:32 and in fact I want to have some color on
+26:35 this one I like the color on this one
+26:35 that'll look nice yeah and obviously I
+26:37 need to fix the vector color of those um
+26:41 of those little guys that was kind of
+26:41 funny right so uh next thing is I should
+26:48 be able to just copy this bring this
+26:52 over relink it and what do I
+26:52 want um that was left here's right cool
+27:02 so that'll update in a moment we'll be
+27:02 able to kind of click this we can Center
+27:07 contents there we go open it up make
+27:07 sure that it's plot lines color fill and
+27:13 let's go get the view and then we'll
+27:16 generate autogenerate the
+27:16 dimensions um obviously need to zoom in
+27:22 a little bit here there we go something
+27:23 like that
+27:23 so I'm going to shut this view down why
+27:30 not
+27:30 so I have to fix those Dimension offsets
+27:33 that was kind of funny I'm not sure
+27:33 what's happening there but let's just do
+27:38 a little pointto point snap so we got
+27:38 our floors lined up and we can go do the
+27:46 rest of the dimensions in the room if we
+27:47 wanted
+27:47 to but let's go do something more with
+27:52 this camera I feel like I got one more
+27:54 trick up my sleeves so I'm going to
+27:54 bring this camera way up let's just hide
+28:00 let's hide some layers let's hide our
+28:04 roof let's hide
+28:07 our
+28:07 trim and in fact we can hide our gutters
+28:13 and our shadow boards you have
+28:15 some
+28:15 not yeah I'm not too bothered by that
+28:20 and then let's change that cut again
+28:20 this time we're going to do a top down
+28:22 cut and maybe we'll throw it at like 93
+28:29 in and
+28:29 so should be able to get kind of like a
+28:33 a Sims or or what is it Airbnb kind of a
+28:41 look here right something like that
+28:43 that's pretty
+28:43 cool um this would be where I typically
+28:48 uh just export this so let's try and
+28:48 Export and but before we do let's change
+28:53 our exposure just a little bit let's
+28:55 drop this down a little bit or maybe
+28:55 we'll kick to a manual exposure where
+29:00 we're just getting to exactly how we
+29:01 want it there we go that's looking a
+29:03 little bit better at
+29:03 manual and so I'll finally
+29:07 XP and transparent background cool and
+29:11 we'll just send this straight to
+29:11 downloads doesn't matter what the title
+29:18 is and that way it'll make that grass
+29:21 disappear be great so kind of get the
+29:22 same thing like
+29:22 this um I still want to kick this
+29:38 somewhere in between those two there we
+29:41 go something like
+29:41 that entitled two cool let's get back to
+29:56 in oh for some reason it still showed
+29:56 grass oh it showed grass cuz I had grass
+29:58 in
+29:58 there oops that's okay we'll be all
+30:04 right with
+30:04 that take this
+30:16 in gotten rid of that
+30:18 um
+30:18 Landscaping well let's go check out what
+30:22 we got let's go download these things
+30:22 there we go that's looking pretty good
+30:27 that's pretty cool forgot to fix that
+30:27 toe kick the the tile's a little crazy
+30:30 probably fix that that kind of thing but
+30:40 anyways I had changed my towel bar away
+30:41 so I'm going to have to map out that
+30:43 it's going to change some of the SC
+30:43 stuff as well and I have to map that
+30:45 back out too so mask it throw it into
+30:47 Photoshop clean it up that kind of thing
+30:52 could always come back and kick this
+30:52 down a little bit kick resemblance up a
+30:54 little bit try to redo that one uh um as
+31:00 far as the elevation is concerned this
+31:04 is beautiful that's beautiful
+31:05 great how's this elevation doing that's
+31:10 great absolutely
+31:10 great so how cool is this you get to
+31:13 come in Chief get to throw layout up let
+31:21 me get back to just file explorer
+31:21 downloads and I could just come in here
+31:24 and drop these two in like this right so
+31:49 fun right just chop it a little bit if
+31:50 we wanted to chop it a little bit in the
+31:55 middle of thing if we wanted to kind of
+32:01 at that isn't that
+32:01 nice yeah and then you could do kind of
+32:06 like that overhead overview that's
+32:08 coming from this
+32:08 guy isn't that nice look at that so
+32:13 let's just download
+32:13 this we'll throw it into a little
+32:23 Photoshop and I'm just going to
+32:23 take I'm just going to make this real
+32:28 easy on myself
+32:28 let's do a Lassa like
+32:38 this and just do a new layer with some
+32:40 black that
+32:40 in there we go it's looking pretty
+32:45 cool isn't that
+32:45 nice in fact I could have just deleted
+32:49 all that
+32:50 um kind of the same way so just instead
+32:57 do this we could build a mask here and
+32:59 invert The Mask so that all we're
+32:59 showing is that building right and let's
+33:17 mask is that
+33:17 neat so then we just get to crop this if
+33:22 we wanted to let's clear any kind of
+33:22 ratio or selection and get this a little
+33:27 tighter it doesn't matter that it's
+33:28 tight but
+33:36 helpful support this and I want to make
+33:38 sure it's got transparency and we can
+33:41 take the resolution down to 1280 or
+33:51 thing yeah we'll just overwrite the
+33:51 existing I'm in a chief bring this in
+34:06 this little presentation pick I could
+34:06 probably tighten up these Dimensions so
+34:11 that they're not overlaying there and
+34:11 then shrink this down a little bit and
+34:15 get this on
+34:15 page that with its some disclaimer about
+34:22 rendering not being
+34:22 actual and of course you got to come in
+34:25 here
+34:25 with menion tool and pop this in do some
+34:40 up um I think that's probably all that
+34:43 you have attention span
+34:44 for right so I changeed some labels
+34:46 change some names spend a little bit
+34:50 more time and we got a whole kitchen
+34:52 remodel that's
+34:52 awesome yeah pretty happy with this so
+34:59 just thought I'd show that um I build
+34:59 out stuff to make your life easier you
+35:03 need anything let me know uh I love
+35:03 building out stuff cuz look how seamless
+35:08 and nice and fun this is this ends up
+35:11 being really fun uh quick enjoyable
+35:11 project to get to this state so um yeah

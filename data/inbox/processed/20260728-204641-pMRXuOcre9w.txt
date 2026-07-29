@@ -1,0 +1,280 @@
+Title: Twinmotion Shorts - 2024 Preview 1 Learn The New Spacing Tool
+URL: https://www.youtube.com/watch?v=pMRXuOcre9w
+Visibility: public
+
+0:02 what's going on Twin motion tribe uh
+0:02 this video brought to you by AMD they're
+0:08 sponsoring my machine for this um and so
+0:09 if it looks like it's going fast that's
+0:09 CU it is it's a good machine anyways I'm
+0:14 going to kind of give you the ins and
+0:14 outs from my experience in the first 20
+0:21 minutes of using twin motion 202
+0:21 24.1 okay and so I've got an existing
+0:23 project here and what I want to show you
+0:28 is in our populate tab at the bottom of
+0:30 the screen here we've got some new
+0:30 things on the right hand side one of
+0:33 which is under the place area we've got
+0:37 spacing and area now I'm going to
+0:37 concentrate in this video on spacing I'm
+0:41 going to show you how this works I'm
+0:41 going to click on that and we can drop
+0:43 an asset here and this is going to be a
+0:46 dist a distribution asset okay but in uh
+0:51 for this instance I'm just going to
+0:51 start drawing which means as soon as I
+0:53 hover my mouse over the screen I get to
+0:57 start drawing with this particular tool
+0:59 now I'm going to make a couple mistakes
+0:59 here on purpose one is that I'm going to
+1:03 draw the first point right here I'll
+1:03 make my next point and I'm just going to
+1:08 kind of line the side of my driveway
+1:10 here and show you how this works now
+1:13 this will continue to draw until you
+1:13 stop the action right now you could hit
+1:17 escape and you're going to see what
+1:17 happens here these arrows are showing
+1:20 you the distribution of whatever objects
+1:25 you place in the drop asset area over on
+1:28 the right sidebar so right now we can
+1:30 see an even distribution
+1:30 if I change our random lateral offset
+1:35 what what is that going to do you can
+1:39 see here it's moving things kind of
+1:39 horizontally in this case let's just
+1:41 call this the X plane it's moving it in
+1:46 the X plane and then the Y plane about
+1:49 this line okay so that's our random
+1:49 lateral offset so it's laterally moving
+1:54 we can change our count um can't tell
+1:56 this is just in the bottom right hand
+1:56 corner I'm moving this by count you can
+2:01 also focus by distance so you can set a
+2:01 distance in between objects keep in mind
+2:06 though that this is limited to one meter
+2:09 right now so you can't um change that
+2:10 distance to something less than one
+2:10 meter so sometimes you might need to
+2:14 distribute based on count you can
+2:14 randomize the order of these things and
+2:18 then we get some additional properties
+2:19 once we actually drop something into the
+2:23 asset area I'm going to go into the
+2:23 vegetation and then let me just get into
+2:29 grasses and flowers I'll scroll down I'm
+2:30 going to use one of my favorites the
+2:30 Ling Heather okay and I'm just going to
+2:33 click and drag this now keep in mind you
+2:38 need to have this spacing focused on
+2:38 your sidebar in order to click and drag
+2:43 and drop and there we go we've now
+2:43 distributed that Ling Heather now right
+2:48 now it looks like it's in a direct line
+2:51 and notice that mistake I made on
+2:51 purpose here well what's happening yes
+2:56 it does in fact sit on top of whatever
+2:56 geometry whatever other mesh might be in
+3:01 the in the scene and in the way so you
+3:03 can click on this
+3:03 node okay and once you click on that
+3:07 node just single click first now we get
+3:13 our Gizmo and it's the same Gizmo for
+3:17 move rescale Etc obviously rescale is
+3:18 going to be blanked out in this case
+3:18 because we can't rescale this point so
+3:22 you can use our various move tools to
+3:23 move this
+3:23 around there we go and you see as I move
+3:28 it off of being on top of this geometry
+3:30 it adjusts itself I also change the
+3:30 speed of my camera by accident another
+3:33 thing to not is there's a plus sign here
+3:38 if you hit that plus sign it's adding
+3:40 another node that you can move around
+3:40 okay if instead I hit one of these nodes
+3:45 and I hit delete on my keyboard it's
+3:45 going to get rid of that node and then
+3:51 kind of reshape based on whatever that
+3:55 new node's position is okay now notice
+3:57 that the geometry is being placed
+3:57 directly in line with this line so keep
+4:01 that in mind if you're trying to line
+4:03 something precisely you would need to
+4:06 edit the object that you're trying to
+4:06 line with precisely in order to get this
+4:11 precisely offset so if I wanted to draw
+4:13 this line specifically right on top of
+4:16 my driveway line I would need to edit
+4:18 the symbol that I'm placing in that
+4:19 scatter now let's take a look at some of
+4:23 the options that we have on the right
+4:27 sidebar now one is path tension path
+4:27 tension basically if we were to think of
+4:31 this path as a rope it's pulling the
+4:32 tension out of that rope meaning that
+4:34 these hard turns right here would could
+4:36 be either soft turns or more right so we
+4:40 can have a pin in here think of it that
+4:42 way if we had a stake in here and we
+4:42 were pulling a string along that stake
+4:46 are we pulling it taut or is there no
+4:49 steak and it's kind of a a a loose
+4:49 weaving spline so if we pick that path
+4:54 tension up it's going to really
+4:54 straighten that out okay to the point
+4:59 where it's 90 degree angles if you'd
+4:59 like or you can loosen that up and have
+5:04 it kind of be shaped more like a spline
+5:07 I'm going to pick that path tension up
+5:09 I'm going to move my random lateral
+5:09 offset just a little bit to kind of give
+5:15 this a more natural look to this and
+5:15 then if we select the Ling Heather in
+5:18 the actual spacing section we suddenly
+5:21 get this tab asset properties and so we
+5:28 can change the size of the asset we can
+5:30 kind of scroll this down we can still
+5:33 change the tint of this asset
+5:33 right and then there is a random seed
+5:36 you can generate you can just click on
+5:37 this button to generate a random seed or
+5:42 you can actually key in a seed if you
+5:44 know a particular style that you're
+5:44 using in a different scatter and you
+5:47 want to mimic that you would just copy
+5:56 here now the other thing that we have
+5:57 with the sling Heather is we have a
+5:57 scale offset we also have a r random
+6:00 scale so we can kind of change the scale
+6:05 looks a little bit more realistic we
+6:07 also have rotation offset and random
+6:07 rotation okay so now that we're putting
+6:12 in a little bit of Randomness in this
+6:14 this starts to look a little bit more
+6:16 realistic now another thing I want to
+6:16 talk about is we don't have any direct
+6:18 editing capabilities of the Ling Heather
+6:23 just by clicking on it like if we were
+6:25 to come in here and pick up and try to
+6:28 change our Center pivot we actually
+6:29 don't have the ability to do that right
+6:31 or do we check this out what if I change
+6:37 my Pivot in the Z plane can I move this
+6:37 up can I move this down no it's going to
+6:41 reset so if you don't like the way that
+6:44 the Ling is sitting on the grass here
+6:45 you'd have to edit the symbol ahead of
+6:49 time resave it to your library let's
+6:49 just give that a shot I'm going to bring
+6:52 the Ling Heather in here I'm going to
+6:52 change its properties here okay so I'm
+6:56 going to actually move this in the
+6:57 z-axis what is this going to do I'm
+6:59 changing the centering point of this
+7:01 particular mesh okay I'm raising it up
+7:04 so that when we get off of this editing
+7:08 mode and we go to place this if I were
+7:08 to just shift click somewhere notice now
+7:12 that it's really diving into the ground
+7:14 that's because it's seeing a new Z
+7:14 offset so now that I have that set up
+7:16 the way I like it I could add this to my
+7:21 library and then go seek this out of my
+7:24 library and see that I have this placed
+7:26 in my library and come back into our
+7:26 spacing drop this into spacing let me
+7:29 get rid of the other Ling Heather that
+7:33 was in there I'm going to do that by
+7:35 clicking on the dot dot dot and then
+7:35 delete okay and now what you'll notice
+7:38 is sling Heather has kind of dives into
+7:47 the to the terrain here right so does
+7:49 that all of a sudden make us lose the
+7:49 capabilities of changing parameters for
+7:53 the Ling Heather well let me click on
+7:53 this in the spacing let's see the asset
+8:00 properties right and so we have no asset
+8:02 properties anymore so I can't change the
+8:05 color of this anymore
+8:05 unfortunately unless I get into details
+8:10 and this is where we can still change
+8:10 the color of that Ling asset right so we
+8:14 changed the offset we put it back to the
+8:16 library and we still have the capability
+8:18 of changing the color of this The Tint
+8:18 of this that's great this is getting to
+8:23 be pretty Dynamic let's hit a plus
+8:23 symbol we're going to move this around
+8:26 just a little bit hit another plus
+8:26 symbol we can kind of shake this up a
+8:28 little bit can extend this now one thing
+8:33 to keep in
+8:33 mind you can just grab right you can
+8:37 grab just right the center of the Gizmo
+8:40 that's really easy hit some more plus
+8:43 signs kind of offset
+8:43 these and a wild and then if we just
+8:49 click on our
+8:49 spacing in our library menu
+8:52 here do have a gizmo that moves the
+8:55 entire thing together so that's still
+8:58 something that you can do just keeping
+9:01 in mind that we could still we wanted to
+9:07 we can shift click to place a point
+9:07 right now this isn't going to distribute
+9:11 things vertically it's only going to be
+9:11 in a horizontal plane you do notice that
+9:15 this actually matches the geometry of
+9:15 the thing that it's sitting on to some
+9:19 extent I don't know what to to what
+9:21 extent but it does so you can shift
+9:23 click anywhere you want and kind of
+9:23 reshape this same thing click any node
+9:27 and shift click click and reshape this
+9:27 very quickly so pretty Dynamic tool for
+9:30 the most part now you don't just have to
+9:35 have one item in your distribution you
+9:36 can pick some other things so if I go
+9:38 back to the library get back into
+9:38 vegetation grass and flowers and I want
+9:42 to pick up some of these daisies and
+9:42 maybe the yaros that does distribute as
+9:48 well and then if you click on that
+9:48 particular asset you do have controls
+9:50 over individual assets here so you see
+9:52 that the distribution kind of changed we
+10:01 can actually come in here and see
+10:01 improve the count of certain things
+10:07 right and then there is a way to
+10:07 favor but I think that's just going to
+10:12 have to do with the count and um twin
+10:14 motion's ability to space those
+10:14 particular objects out now you can copy
+10:20 paste right so we can copy this paste
+10:23 here and then maybe we do a different
+10:23 distribution for those daisies so these
+10:26 are in the same exact plane so I could
+10:28 get rid of the Ling Heather just by
+10:28 deleting this get rid of my daisies just
+10:35 by deleting this and I should still
+10:35 have another spacing Now set up so I'm
+10:40 going to place this right over the top
+10:42 of the next one I'll get rid of the
+10:44 daisies in this
+10:44 one so this should make my Ling Heather
+10:49 be you know predominant over here and
+10:49 then on top of that we've got our Yos as
+10:57 well and you can see that they are in
+10:59 fact inside of this Ling Heather if I
+10:59 just change my Ling Heather spacing or
+11:07 count here we go we've got two paths
+11:15 other let me know if you have any
+11:16 questions in the comments happy to go
+11:18 over this kind of stuff I'm just
+11:19 discovering this right now I just got
+11:23 2024 installed um happy to be messing
+11:23 around with this and show you any kind
+11:31 I
+11:31 [Music]

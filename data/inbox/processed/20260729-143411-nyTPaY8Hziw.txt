@@ -1,0 +1,845 @@
+Title: Hotkeys VIP session 3
+URL: https://www.youtube.com/watch?v=nyTPaY8Hziw
+Visibility: members-only
+
+0:00 okay uh hotkey session number three for
+0:03 my VIP members so
+0:07 I want to write
+0:09 I'm going to write in my kitchen tools
+0:11 to Chief Architect and figure out how to
+0:13 do that and I I haven't even tried so
+0:16 we're going to run into some problems
+0:17 along the way I'm looking at my
+0:19 available keys right now I'm going to
+0:21 bind this to my T key so I'm going to
+0:24 start a new radial menu starting on the
+0:25 T key let's just type in new radial and
+0:29 we can grab that and we'll just start
+0:31 I'm going to make an eight section if
+0:32 you're on a Mac you're only getting four
+0:34 sections sorry
+0:36 buy a better machine
+0:39 and notice that we're in the OBS 64
+0:41 editor because I'm in OBS recording
+0:44 right now and that's not the case so you
+0:47 got to make sure you're targeting
+0:48 targeting the correct window here and
+0:50 here's that t key
+0:52 and new radial
+0:56 once you're in this editor it locks in
+0:58 whatever software you know it's whatever
+1:00 software you want to edit in so you can
+1:03 Target a different software and it's not
+1:05 a problem
+1:06 so here we're going to do an eight
+1:08 section we're going to call this my
+1:10 kitchen tools one
+1:12 because there's we we can't get any more
+1:16 than that on one tool unfortunately
+1:18 we've got no compounding
+1:21 um tricks here because
+1:25 um
+1:26 is there because
+1:30 what would be because you'd have to have
+1:32 some intermediate software
+1:35 to state that when we add a modifier
+1:38 then it goes and does some other macro
+1:41 that's a that's a little bit much I
+1:43 don't want to do that I don't want to
+1:44 have to manage that down the line that
+1:46 sounds like a nightmare so we're only
+1:48 going to get eight tools out of this so
+1:50 I'm going to pick eight tools that you
+1:51 know are my main tools that I care about
+1:54 so this is going to be
+1:56 a little bit of a tricky thing to do I
+2:00 know that
+2:01 I want my garbage pulled out because I'm
+2:03 always using that sync Bay sync
+2:06 dishwasher those are some that I'm
+2:09 always putting in even if I'm just doing
+2:11 some kind of an example video I'm always
+2:13 putting those in so I want to have those
+2:15 for sure so we'll just start with one of
+2:17 these so let's go ahead and do new macro
+2:23 and then we're going to type in my macro
+2:24 name garbage
+2:26 pull out
+2:29 and so to get to that I'm going to I
+2:33 know um there's a username Sven that's
+2:36 in our Discord server that's in the VIP
+2:38 and and he's written something for auto
+2:39 hotkey auto hotkey can tell if the
+2:43 library browser's window is open or not
+2:45 unfortunately we can't do that within
+2:47 the 3D connection Mouse software so what
+2:50 I'm going to assume is that my library
+2:52 browser is already open because I keep
+2:54 it open most of the time so and then if
+2:57 it's not open I have another hotkey to
+3:00 open it up so that this works properly
+3:02 so that's that's Worthy is um we're
+3:06 going to assume that when we're
+3:07 scripting for this and now I have to
+3:09 figure out how do I script for this well
+3:12 uh I already know what my library
+3:16 library browser hotkey is and I gotta go
+3:19 ahead and bring this in into the scene
+3:20 so you can even see it
+3:22 um let me just get to tools hotkeys
+3:25 customize hotkeys and we'll just type in
+3:28 library all right so we can figure out
+3:30 what's being bound to that Library
+3:33 browser and mine is alt U okay
+3:36 so with alt U then
+3:40 um I need to
+3:43 do a couple things if I want to be able
+3:45 to find something quickly which in the
+3:47 case of my garbage pull out is 137 Dash
+3:51 I need to be targeted in the Chief
+3:53 Architect window all EU closes the
+3:55 library browser all you opens the
+3:57 library browser and then I'm going to
+4:00 type in that 137 Dash and have to hit
+4:03 enter
+4:05 that should be all it takes so now let's
+4:09 try it and then it's not until we do a
+4:11 second one where we're going to run into
+4:13 whether or not there's any problems or
+4:15 not is my assumption so
+4:18 we'll start with this one we're going to
+4:19 do alt U
+4:22 and I'm going to
+4:28 help you
+4:29 I'm going to start with no delay so I'm
+4:33 going to add another command that's all
+4:35 you again and we'll see if it executes
+4:37 properly
+4:42 and then we're going to type in one
+4:48 three
+4:50 seven
+4:53 Dash
+4:56 enter
+4:57 okay and then the last thing is I do
+5:00 want to add my custom icon so I can
+5:03 either drag and drop or I can just
+5:04 Target this and let's just Target it
+5:07 because we know that it's in our
+5:09 Premiere data
+5:13 so if I just type in 137 down here in
+5:16 the box that should get me
+5:19 um
+5:21 that should get me this
+5:23 37 Dash huh
+5:25 what happened there oh custom 137 custom
+5:30 137. there we go
+5:33 and there it is perfect
+5:35 uh the one thing I should have done I'll
+5:37 go ahead and do it while I'm here I'm
+5:38 just going to copy this
+5:40 path in case it doesn't pop up in the
+5:42 same place I never remember the rule on
+5:45 that
+5:45 all right so select there we go garbage
+5:48 pull out and this is going to be bound
+5:54 that's saved so it should be working
+5:56 right now
+5:57 so Library browser windows open
+6:01 let's go ahead and clear the text search
+6:05 notice that the 137 is still up there
+6:07 that is a concern so we'll see how that
+6:10 works so let me hit the correct key
+6:15 and nothing's happening because it never
+6:17 actually saved
+6:20 so let's close this now it's updated now
+6:22 I should be able to open that up again
+6:24 so kitchen
+6:27 edit
+6:28 and it should still be working now
+6:31 okay
+6:34 so notice that it didn't select the
+6:37 previous text right if we do this again
+6:40 what does it do it just adds text so we
+6:42 already know what we need to fix we need
+6:44 to put in a control a in there
+6:48 so let's go garbage pull and I don't
+6:50 know why it's pull it should have been
+6:51 pulled out maybe that was a limit is
+6:53 that a limit no it's not okay so after
+6:56 the 137 so let's just go to the end of
+6:58 this stack I don't think we can insert
+7:00 maybe we can
+7:02 um
+7:03 after the alt U actually
+7:06 after the alt you we need an additional
+7:07 command now it's just going to add to
+7:09 the end so we need to control a
+7:13 and then drag this up right after
+7:17 l u
+7:19 okay there we go now let's give it a try
+7:24 oops wrong button
+7:28 and is that working yes it is okay so
+7:30 now let's do another one
+7:33 um the next one I'd like to do
+7:36 very common for me is dishwasher
+7:39 so if I hover over dishwasher it's a 161
+7:42 Dash and let's just double check that
+7:44 161 Dash
+7:49 and we're going to get dishwasher no we
+7:52 don't so what happened here
+7:59 that's really unfortunate see my naming
+8:01 convention's off right I changed my
+8:03 naming convention for some reason
+8:05 so
+8:06 I need to fix this which means I'm going
+8:09 to end up putting out an update at some
+8:10 point
+8:11 right so keep that nice and tight 161
+8:14 Dash
+8:16 all right so that should be correct now
+8:18 when we type that in 161 Dash
+8:22 yes so that's the dishwasher okay
+8:25 let's get back
+8:29 macro
+8:42 oh good put us right here custom
+8:46 one
+8:52 and we know we're doing alt ew
+8:57 all you
+8:59 oops
+9:00 thank you
+9:02 now we're doing control a
+9:06 one
+9:08 six
+9:10 one
+9:12 Dash
+9:14 now
+9:17 these are three digit codes with a a
+9:20 dash
+9:21 it could be in future that I add
+9:24 in the search attributes longer unique
+9:28 codes
+9:29 so that it just absolutely ensures that
+9:32 you catch the right number right
+9:35 so something to keep in mind
+9:38 okay so dishwasher should be in place
+9:40 now
+9:42 let's see does that is this is that
+9:44 enacted let's check this out
+9:50 and it didn't I forgot to hit enter
+9:52 so
+9:53 always good to double check this stuff
+10:02 161 Dash and then command forgot forgot
+10:06 the enter
+10:08 key ingredient
+10:13 so I have right now here my ALT menu is
+10:17 my
+10:19 alt menu are these tools
+10:22 my rendering is the shift button I kind
+10:25 of think that the shift button should be
+10:27 my cabinet tools that the alt button
+10:29 should be kitchen tools one and that the
+10:32 menu button should be kitchen tools too
+10:34 that way they're all kind of in sequence
+10:36 on my left hand side and and I don't
+10:39 have to do a lot of thinking about where
+10:41 they're located that would make more
+10:43 sense my Escape key is these painter
+10:45 modes so I'm going to move some of this
+10:47 stuff around I kind of rarely use the
+10:50 painter modes radial menu
+10:52 because it needs well for one it needs
+10:55 some fixing so maybe I'll put that on
+10:56 the two so maybe it'll be Escape shift
+10:59 all will be all my cabinet tools and
+11:02 then we'll get rendering pushed into
+11:04 number one
+11:06 and then number two maybe it will be
+11:07 application switcher just talking about
+11:09 the buttons on a space Mouse Pro
+11:11 Wireless
+11:12 okay so continue on here
+11:17 and I mean you kind of get what I'm
+11:18 going at here it could probably end the
+11:19 video
+11:21 um
+11:21 let's see if there's any other thoughts
+11:23 here I want to think about what else I
+11:25 want to put in here so I know I want
+11:28 the garbage pull out I know I want
+11:30 dishwasher I know I want sync so that's
+11:33 three of the eight
+11:35 um I know that I want
+11:38 basic refrigerator package
+11:40 and
+11:43 probably oven Hood together would be
+11:45 fine
+11:46 so there could be five of the eight
+11:49 um
+11:55 probably one I put a lot of three drawer
+11:58 bases in so I probably want a three
+12:00 drawer base
+12:06 okay
+12:13 and thin
+12:17 that might be it for now I might just
+12:21 stick with those oh and then the double
+12:23 ovens
+12:25 yeah
+12:27 I think that's I think that's
+12:30 the right stuff right there and then
+12:32 figuring out how to organize it so I'm
+12:35 just putting these down right now but I
+12:37 also want to figure out what would be
+12:38 intuitive why would you swipe it what
+12:41 and when so to me give you an example of
+12:45 this when I think of left and right I'm
+12:48 immediately thinking
+12:49 that garbage pullouts left dishwasher is
+12:52 right so I think the Seven Keys should
+12:54 actually be my garbage pull out and the
+12:57 three keys should be dishwasher and does
+12:59 that conflict with the thought that
+13:01 directly left is using my delete for
+13:05 some reason would I have some
+13:07 association with something being delete
+13:08 well guess what happens to be really
+13:10 funny the garbage pull out is number
+13:12 seven which is delete kind of think of
+13:15 garbage as delete I think it works quite
+13:17 well
+13:18 it's funny happenstance that works well
+13:22 um and then we know that the eight
+13:23 position is my open so
+13:26 what do we have for open is there some
+13:28 reason why you know we might have
+13:30 something for open so I don't know sync
+13:33 might make sense there in my mind so
+13:35 we'll think about that let me go ahead
+13:37 and do a new one in here and I'll keep
+13:39 this rolling but I think I'm just going
+13:41 to be working through this system until
+13:42 I finish it so numerical and let's go
+13:46 sync and in case you didn't know this my
+13:50 sync
+13:51 is
+13:52 a combination with a chopping block 168
+13:56 Dash and let's just double check this
+13:58 works 168 Dash enter
+14:01 yeah okay
+14:03 and I have some videos on how you can
+14:04 create this yourself and do the correct
+14:06 cutouts and everything
+14:09 um and this particular sink you should
+14:10 go open this up and see how it's made
+14:12 because it's got a lot of little tricks
+14:14 in the advanced sizing panels and a
+14:16 couple other things so
+14:19 so let's do alt tab alt tab will always
+14:23 do will bring up this window by the way
+14:26 so this is kind of an important thing to
+14:28 know a nice hotkey you should know alt
+14:30 tab control tab will do something
+14:32 similar but it will be
+14:34 screen specific so that if you click on
+14:37 one of those options in your screen
+14:39 number two it will place that
+14:41 application in your number two screens
+14:45 window
+14:46 does that make sense
+14:47 I know I can't actually show that in a
+14:49 recording so it's kind of hard to talk
+14:52 about unless I was recording it on my
+14:53 phone somehow
+14:57 okay we are custom 168.
+15:00 yes yes yes
+15:05 and then we are
+15:07 oh
+15:10 I bet we can just duplicate so that we
+15:12 get all these all U actions and then we
+15:14 only have to replace some things
+15:17 um
+15:18 I'll do that for the next one
+15:33 oh look we had a text here that just
+15:35 says text that would make a lot more
+15:37 sense huh
+15:39 wouldn't that be easier
+15:44 I wonder how that executes
+15:47 you obviously can't do enter
+15:50 maybe you can let's try it well you
+15:53 control a
+15:54 enter
+15:55 huh all right let's try it
+15:58 so
+16:02 what did that do why did it add the one
+16:05 that's interesting let's try it again
+16:13 notice that when we're in the library
+16:15 browser
+16:18 in the text box that Enter key is
+16:20 everything that means everything okay so
+16:21 that's what's happening so let's get
+16:23 into this
+16:25 let's go sync
+16:27 so we do need to have command enter so
+16:30 let's get back and delete delete delete
+16:33 perfect and then command enter
+16:37 okay
+16:38 now let's give it a go
+16:44 interesting it's adding this one key
+16:47 what is that one key did I have that
+16:49 somehow
+16:51 very interesting
+16:54 try this again
+17:01 where's a one I don't see a one let's
+17:04 just delete this let's try this
+17:07 one six eight Dash
+17:11 okay
+17:14 save
+17:15 see what happens
+17:20 funny so something about it being text
+17:23 is doing that probably
+17:28 very strange let's try this
+17:31 okay what if we take out oops
+17:40 we take out this hyphen and we add a
+17:43 command
+17:46 and the command is just Dash
+17:51 for that
+18:01 very strange because it's a text command
+18:04 it's putting one in there for some
+18:06 reason
+18:07 very strange okay so stick back to the
+18:10 old method
+18:18 okay get rid of this
+18:47 looking to see if the numpad was some
+18:50 reason a one for that character but it's
+18:52 not
+18:54 one six eight
+18:59 all right so we should be back in
+19:00 business
+19:07 there we go cool
+19:11 so let's do a little bit of
+19:12 reorganization here
+19:14 and close this out that's going to be
+19:16 cabinet tools so the cabinet tools I
+19:19 want to be bound
+19:20 I want my shift to be my cabinet tools
+19:25 oops
+19:31 and then I want my
+19:35 shift to be candid tools
+19:38 yeah
+19:42 I'm gonna make it
+19:44 I'm going to make a Escape
+19:48 my kitchen tools
+19:54 all will end up being kitchen tools too
+20:00 and then one the number one position
+20:03 will be
+20:06 components or actually I want this to be
+20:09 rendering
+20:13 number two I'm going to make components
+20:18 or uh yeah
+20:24 three I use for Zoom it
+20:27 if you don't know Zoom it that's what I
+20:29 used to literally zoom in on
+20:32 this application and be able to draw
+20:34 some things out so when I'm here
+20:37 I get to zoom in move around yeah that
+20:40 works well
+20:43 and I need to set that same hotkey up
+20:46 for other applications because there's
+20:48 other times where I want to use that
+20:50 Zoom it tool
+20:51 uh four right now is called specialize
+20:54 let's actually edit that what was a what
+20:57 was that even for oh that was for um
+21:02 that might be a nice
+21:04 trick to use in the cabinet specialty
+21:08 cabinet tools is that that was from the
+21:11 previous session where we set it to do
+21:13 our concentric jump
+21:14 I'm gonna leave that for now and then
+21:19 and shift is just going to remain right
+21:21 now
+21:23 um I might change
+21:26 or rather Alt
+21:28 you might change alt to my S key right
+21:30 now
+21:32 you didn't know s key
+21:35 does
+21:36 if we want to grab
+21:39 something and move it and have it not
+21:43 try to pick up any additional snaps if
+21:46 we hold our s key while we're moving it
+21:49 it's not going to pick up additional
+21:50 snaps
+21:51 so that's a really big one I use that
+21:54 quite often
+21:56 um
+21:57 why is this shown an evaluation here
+21:58 that's weird
+22:01 no it just wasn't firing
+22:05 all right let's get back to it we got
+22:09 so now we're gonna go back edit kitchen
+22:12 tools
+22:21 what happened here
+22:22 let me sync
+22:24 or actually we're going to change this
+22:25 so seven is
+22:27 seven is garbage
+22:31 and then one key let's make this
+22:36 uh let's see eight we want sync
+22:42 we don't have sync what happened here
+22:45 it's got called 11 for some reason
+22:48 oops
+22:50 oh did our hotkey our hotkey ended up
+22:54 shooting itself there somehow
+22:57 I wonder if that had something to do
+22:58 with the weird one key that it kept
+23:00 putting in
+23:02 or maybe my one key was jammed up or
+23:05 something I don't know
+23:08 interesting
+23:14 um and then
+23:17 let's do three key we wanted dishwasher
+23:27 the number two key
+23:33 two kind of makes sense to me for just
+23:35 for having the
+23:37 hood and range together hidden range
+23:40 combo notice this 166 space Dash so we
+23:44 got another problem here
+23:56 oh thankfully it's not 166 space Dash so
+24:00 I need to do what I gotta go double
+24:02 click
+24:03 over here
+24:05 right and fix this
+24:08 name
+24:09 make sure this name is correct
+24:12 all right
+24:15 there we go alt tab gets us back here
+24:18 and let's get us into a new macro
+24:21 actually let's see if we can't
+24:23 duplicate
+24:25 doesn't look like it there's no right
+24:27 click in here
+24:29 okay new macro
+24:56 yeah that it doesn't automatically
+24:58 Target
+24:59 this area
+25:00 it's that script and I'm always talking
+25:02 about this is like
+25:04 improve your systems as soon as I hit
+25:06 command it should well for one it should
+25:08 just give me some way of just hitting
+25:10 the plus key and adding a command can we
+25:12 do that
+25:13 probably not nope because it's just
+25:15 targeted up here yeah there's no way to
+25:17 just
+25:18 click on this because it's like
+25:20 JavaScript
+25:21 and it should automatically place our
+25:26 an input here where we're typing silly
+25:29 all right uh Ctrl a and then one
+25:34 six
+25:39 Dash
+25:41 and Enter key
+25:45 put in range and then looks like the
+25:47 icon doesn't show up in the preview here
+25:49 unless we
+25:52 have to close in and out of it or
+25:54 something who knows all right garbage
+25:56 Fallout hood range dishwasher now we're
+25:58 going to do
+26:01 refrigerator I'm going to do the first
+26:03 refrigerator I have here
+26:05 three
+26:08 let's just call it fridge
+26:14 and yeah what is my this is 171 okay
+26:56 you know what I just did I looked down
+26:57 at my mic to make sure I wasn't muted
+26:59 this whole time again oh what a
+27:01 nightmare that would be
+27:04 okay
+27:06 um let's check this out let's make sure
+27:07 this is working so now I have this
+27:10 button instead there we go that's
+27:12 beautiful
+27:13 that get me fridge yes it does
+27:18 this isn't faster than you know so
+27:20 there's some kind of built-in delay into
+27:22 the 3D mouse uh that is slower than I
+27:27 want it to be I wish it was a little
+27:28 faster
+27:29 but that's okay I can live with it
+27:33 that's still pretty quick if you don't
+27:35 feel like coming up in here and clicking
+27:37 or if you just feel like having the
+27:38 toolbar shut down
+27:41 or if yeah to me this is so easy to not
+27:43 think about and just kind of Click I
+27:45 wonder how fast after you enact one of
+27:49 these that you can actually play so
+27:50 let's just try it I'm gonna do this from
+27:52 muscle memory bam there's fridge
+27:55 yeah it's not fast at all in fact I
+27:59 interrupted the action with that
+28:05 so unfortunately it's not super fast but
+28:08 it's still
+28:10 it's still pretty good
+28:12 all right interesting oh I want to fix
+28:15 that hood and can you change the
+28:18 bounding box
+28:22 displayed bounding box
+28:32 I want to I'd love it if I could change
+28:35 the bounding box but it looks like I
+28:36 can't
+28:40 so display sub objects using block layer
+28:49 that's just displaying the sub objects
+28:52 that's not really helping anything
+28:56 and treat as one object doesn't help
+28:58 anything I want to be able to bump this
+29:00 to the range right that would be
+29:03 beneficial
+29:05 but it doesn't look like we're going to
+29:07 get that so you always kind of have to
+29:09 do a point to point now you have to
+29:10 unblock it first so you got to place it
+29:12 unblock it
+29:13 okay meh all right
+29:19 so got fridge got garbage pull out got
+29:22 sink hood and range
+29:24 redundant garbage pull out uh we know we
+29:27 wanted to double ovens
+29:36 I didn't learn anything from the last
+29:38 time I should have come in here first to
+29:39 figure out what this is 170 okay
+29:44 also should have just saved
+29:47 cust control all copy now you got that
+29:51 and then what did we say this was
+29:53 shoot I already forgot
+29:56 was it 171 no
+30:03 170 okay
+30:06 so here's where I get to Pace now 170.
+30:10 oh and you forgot the underscore copy
+30:13 now it's 170.
+30:16 okay
+30:18 all right
+30:19 so we've got all you
+30:44 Dash
+30:50 okay double oven hood range fridge
+30:53 dishwasher garbage plot sink
+30:56 what are we missing we are missing
+31:00 I want a three stack
+31:03 so
+31:05 new macro
+31:08 Bill didn't learn
+31:10 three drawer
+31:17 139 okay
+31:52 okay and then
+31:55 I think that was it we're gonna leave
+31:57 one blank
+31:59 what else would I be doing I do do the
+32:02 four drawer I do all these other things
+32:04 but maybe all the two door three drawer
+32:06 four drawer all that stuff might be
+32:08 better off in a second menu and then
+32:11 maybe we're just doing appliances
+32:15 in a first menu
+32:20 let's save that for later
+32:23 so there we go I've got my prelim now
+32:25 just go to check it real quick
+32:28 so there's my cabinet menu
+32:31 you know that works so there's our
+32:33 double oven
+32:36 and if we uncheck online let's see if
+32:39 this goes any faster
+32:42 a little bit faster
+32:46 so something to keep in mind
+32:49 as you're just buzzing through your own
+32:51 catalog
+32:55 check online check uncheck offline
+32:57 uncheck online
+33:01 yeah that's a lot faster all right cool
+33:05 I've been wanting to do that for a while
+33:07 so
+33:08 and then I know that I already have a
+33:10 key
+33:11 set to my library browser but maybe I
+33:13 want to have that
+33:15 maybe I always want to have this key in
+33:18 in my actual radio menu
+33:21 so that I can shut that down or up if I
+33:24 need to
+33:26 I don't know something to think about
+33:28 because that's in a thumb position
+33:30 that's a really that's a really great
+33:32 key and I'm and I'm not utilizing it the
+33:35 way I should be so I should be utilizing
+33:37 that for something else would be nice
+33:40 so that right now is set to
+33:44 uh what key is that that is this key the
+33:47 lock key
+33:50 um so this would be a great key to
+33:51 utilize something that you're constantly
+33:53 hitting all the time so something to
+33:57 keep in mind and then actually I wanted
+33:59 to check on something so we know that
+34:02 right now if I check tools
+34:05 hotkeys customized hotkeys
+34:08 what is it alt tools what's our hotkeys
+34:12 tours and hotkeys is K okay customize
+34:15 hotkeys kit
+34:16 oh oh tkk all right customize
+34:23 um so my reflect about is set to w
+34:29 now that I have that set to W what's a
+34:32 similar action to reflect about
+34:35 I'm thinking that I might be able to set
+34:37 a sequential
+34:40 thing that is just WC since I've got my
+34:43 C and W keys right next to each other on
+34:45 my mouse
+34:47 and see if that works and still Rin
+34:49 retains concentric I don't think it will
+34:53 that's the only problem
+34:55 so I guess we could just test it on
+34:57 something but
+34:59 maybe instead of
+35:01 W I could have made this control W
+35:04 because then it's not going to overwrite
+35:06 C if we do control WC
+35:09 right and then the other thing is I have
+35:11 W now next to my copy so my copy paste
+35:16 copy paste is Ctrl alt C so I can do
+35:20 something that's Ctrl alt C W currently
+35:23 my paste would be just Ctrl V right but
+35:28 I don't have that bound to any hotkeys
+35:30 because I'm always using copy paste and
+35:32 dragging something into place or copy
+35:34 paste and paste hold but EV every now
+35:37 and then I actually do want to just
+35:38 paste and then I have to go back to my
+35:40 keyboard so let me try this real quick
+35:42 we're going to do
+35:44 great thing about these hotkeys is I can
+35:47 just press this hotkey on my mouse we
+35:49 know that's going to show up and then
+35:50 the w
+35:51 let's see what this does
+35:54 assigning the control alt CW will
+35:57 conflict with the hotkeys for these so
+35:59 it says that it wants to take over copy
+36:01 paste
+36:04 so that doesn't work interesting
+36:11 very interesting
+36:13 and if I hold them all together does
+36:15 that change
+36:17 look at what that does that's a funny
+36:19 thing
+36:20 right it reads differently
+36:23 let's try again
+36:24 yeah so I very clearly hit the buttons
+36:27 at the exact same time and that's what
+36:29 it came up with so let me try that
+36:32 that actually took interesting okay so
+36:35 here's my copy paste right so that's
+36:38 when I get to drag this or copy paste
+36:41 and I get to do that
+36:43 um
+36:46 but you always have to paste immediately
+36:48 for this to work and sometimes I want to
+36:50 go up a level and I don't want to paste
+36:52 hold so this is when I'd hit both keys
+36:55 at the same time
+36:57 and it's not doing anything so it's not
+36:59 working
+37:01 it's right here
+37:03 so still in that copy paste action
+37:05 that's why so that works interesting all
+37:08 right so now I know we can do that
+37:12 sequential and utilize the reflect about
+37:14 object hotkey with the copy paste and it
+37:17 will work
+37:19 and does that make an argument for
+37:21 making it control W since we took
+37:24 control W away from the system keys
+37:26 because then you could do control WC
+37:31 and would that do anything or maybe an
+37:33 alt
+37:35 alt W or something like that I don't
+37:37 know if you might get alt W is going to
+37:39 hit windows so that's not going to work
+37:41 um
+37:43 and what would you do if you're hitting
+37:45 those two back ends probably be another
+37:47 edit menu command
+37:49 and what edit menu command do I use all
+37:52 the time and don't have a hotkey for
+37:56 be a good question I don't know that I
+37:58 have one
+38:00 in mind
+38:05 all right some new things to think about
+38:07 so I like that I just finally got a
+38:10 paste that's great
+38:12 that worked well
+38:16 yeah so if you watch to the end of this
+38:18 video that was the jam I just dropped on
+38:20 you was doing some more compounding
+38:22 actions just utilizing
+38:25 these double double key presses that can
+38:28 happen and I mean can we do that on the
+38:31 top buttons where we have I mean we can
+38:34 so what happens when we do all right alt
+38:37 TK right that gets us oops all TK I
+38:41 think it's hotkeys
+38:42 and then the top and um all right so top
+38:46 and the top keys right now
+38:50 we went over in the last session but one
+38:52 of the things they do is go forward and
+38:54 back uh levels or I mean
+38:57 in layout it also goes up and down
+39:00 levels it'd be great if we could
+39:02 change our reference because that would
+39:05 be intuitive if we hit both together so
+39:07 let's do change reference
+39:13 change floor reference hotkey so let me
+39:15 see if I can hit both of these at the
+39:17 same time which ends up being UI it's
+39:19 going to want to override
+39:20 so there's the case for
+39:24 adding modifiers in the first level
+39:26 stack that utilize the ALT key and don't
+39:30 conflict with something in the menu so
+39:32 does ALT I or alt U conflict with
+39:36 anything right so let's try that if we
+39:38 hit if we hit alt I it doesn't do
+39:41 anything no it doesn't do anything in
+39:44 the menu it says alt U
+39:47 oh you that's what I have set to my
+39:50 library so I would have had to you know
+39:52 now I gotta go fix a bunch of macros if
+39:54 I wanted to utilize that or switch
+39:56 a bunch of macros on those arrow keys
+39:58 but what we're coming up with here is
+40:00 when we hit both these
+40:03 top two buttons right here these two
+40:05 side buttons together they could be
+40:07 another action
+40:08 but they need to be
+40:11 some kind of modifier key and then a
+40:14 letter right
+40:15 in which case alt U and all yeah I would
+40:19 actually work and now I'd have to go
+40:21 rescript all my cabinet tools
+40:23 in the beginning and assign something
+40:26 different to the library browser
+40:29 so something down the line because it
+40:32 would be nice to just get a couple more
+40:34 functions out of this other Mouse so
+40:37 um right now I have I don't even know
+40:40 how many I've got let's see one two
+40:43 three four five
+40:47 six seven eight
+40:49 nine ten eleven twelve thirteen fourteen
+40:52 fifteen sixteen sixteen functions in
+40:56 this 11 button Mouse that's pretty good
+40:57 so
+41:00 um anyways that's it gonna end this
+41:01 session
+41:03 thanks guys

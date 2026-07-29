@@ -1,0 +1,52 @@
+Title: CA SHORTS- Snap Point Info
+URL: https://www.youtube.com/watch?v=zNu53Z6fiKA
+Visibility: public
+
+0:03 let's do an example of what snap points
+0:06 do inside of your chief architect plan
+0:07 i'm going to draw out a line here and
+0:07 you see we're going to get a couple of
+0:10 symbols that show up as i get close to
+0:10 this corner here so what i want to do to
+0:14 kind of illustrate what we're looking at
+0:15 here is i'm going to get into
+0:17 preferences edit preferences
+0:17 and we're going to get into the panel
+0:21 that's called edit with the sub panel
+0:21 snap properties and we're going to see a
+0:24 couple of sections in here under the
+0:24 snap indicators section you're going to
+0:26 see an indicator color that is black and
+0:31 then an extension color that is pink and
+0:33 then we see the object snaps all have
+0:33 corresponding names where a square is an
+0:38 endpoint and a center
+0:40 is that circle
+0:41 circle icon
+0:41 and then you might see something like
+0:43 the intersections one which is across so
+0:47 if we get back in here and draw that
+0:47 line out again and kind of understand
+0:51 what's happening here is we've got a
+0:53 primary extension color a secondary
+0:53 extension color it's indicating the type
+0:57 of snaps that we are getting based on
+0:59 the symbol
+0:59 that it's represented by
+1:01 so that if we're picking up some snaps
+1:04 that we don't like say that we don't
+1:07 like those square and circle
+1:07 snap points which is that end point in
+1:11 that middle snap point we can actually
+1:12 go into preferences
+1:12 and turn those two off temporarily so
+1:14 let me turn off that end point turn off
+1:16 that center and then what we're going to
+1:20 pick up is just those intersecting snap
+1:22 points you can see here now we've just
+1:23 got that x
+1:23 so if you need some finite control over
+1:28 your snap points there you go there's a
+1:29 little bit more information in regards
+1:30 to how these snap points are working and
+1:34 and how those symbols correlate to your

@@ -1,0 +1,1063 @@
+Title: Automatic Batch Material Creation In Chief Architect Using Ai
+URL: https://www.youtube.com/watch?v=pJsruT-wcR0
+Visibility: members-only
+
+0:01 All right, VIP, I got kind of a crazy
+0:03 one today, and I don't know if it's
+0:04 going to be so much instructions as
+0:07 giving you a lead into how you could do
+0:09 this for yourself, cuz step-by-step
+0:11 instructions would be very
+0:13 complex.
+0:14 Um but, I'll tell you that I used AI to
+0:17 do what I
+0:19 intended on doing, which is this.
+0:22 What if you could import
+0:25 thousands of textures
+0:27 in a day while just walking away from
+0:30 your computer?
+0:31 So, importing thousands of textures into
+0:33 Chief Architect without ever needing to
+0:36 be at your computer. Now, mind you, it's
+0:38 going to take up your computer's
+0:39 resources, but
+0:41 it's possible to build textures that can
+0:44 import into Chief
+0:46 outside of Chief.
+0:48 And I And I just figured this out. Um
+0:51 And
+0:53 I guess I don't need to get into like
+0:54 the how I figured it out. I'll I'll give
+0:56 you the breakdown. When you export a
+0:58 file in Chief Architect, you go to the
+1:00 library browser, you right-click on
+1:02 something, and you say export library.
+1:05 That's exporting what's called a CALIBs
+1:07 CA LIBs file. CA libraries file.
+1:11 If you take that and open it with Let's
+1:14 just show you. I'm going to do it right
+1:16 now. Uh divider tray material, I'm going
+1:18 to export
+1:21 export library.
+1:23 And keep in mind, you can export
+1:24 multiple items.
+1:26 That's not a problem. You can do that.
+1:27 I'm just exporting one. I'm going to
+1:29 export this to downloads. I'll call this
+1:32 example. Okay. And I'm going to get into
+1:36 my downloads folder. I'm just going to
+1:38 open up a little
+1:40 extra tab here. There's that example
+1:42 CALIBs file. Now, if I right-click on
+1:44 this and say open with, and I go find
+1:46 something like 7-Zip, which is an
+1:48 archive um extractor, look at this. This
+1:51 is just an archive. That's all this is.
+1:55 So, you can see in here what it has is
+1:57 this is a um it's a material that only
+2:00 has one texture file, okay? And so, then
+2:05 the next thing was, what the heck is
+2:06 this? And so, what if I could take that
+2:10 and drag that out of the archive and
+2:13 look at that.
+2:14 Bam, it's right there.
+2:17 And so,
+2:18 what if we were to open this with some
+2:21 kind of free SQL light
+2:25 tool and we'll see that this is that's
+2:28 how this is built. It is it's it's a
+2:30 table object. And so, we've got some
+2:32 interesting information maybe in here.
+2:35 And so, there's 19 columns here if I
+2:36 would just
+2:38 double click on this and and look,
+2:41 there's all this information in these
+2:43 columns.
+2:45 And so, if I got into the data set of
+2:46 these columns, we can see a few things.
+2:49 One is that it's got some kind of unique
+2:51 identifier.
+2:52 Um and then if we kind of go through all
+2:55 this information,
+2:57 there's there's a bunch of information,
+2:59 right? Like library object ID, type,
+3:03 okay? We right click on these.
+3:06 Um
+3:08 And just look at let's see, what kind of
+3:11 get form view
+3:14 would be one thing versus grid view.
+3:17 What's the kind of information we're
+3:19 getting in these?
+3:21 Form view, grid view, data. So, there's
+3:25 all kinds of kind of cool things
+3:26 happening in here. So, what I did was
+3:29 I dug through this. I spent a lot of
+3:32 time digging through this to figure out
+3:35 what exactly is being built in here. And
+3:39 and so, once I did that, then I opened
+3:41 up that CA lives file with something
+3:43 else. I opened it up with notepad just
+3:45 to see what's going on here. Now, this
+3:46 null section here, these are blobs. This
+3:49 is blobs of data that are just being
+3:52 written specifically for Chief Architect
+3:53 and Chief Architect has some way of
+3:55 reading this information. So, that's not
+3:57 directly editable at all. But, we can
+3:59 see here we've got some typical
+4:01 alphanumeric text.
+4:03 And so, that's interesting.
+4:05 And then when I dug in,
+4:07 I'm going to find out, oh wait a minute,
+4:09 there is that texture map right there
+4:12 and it's being stored in a chief temp
+4:15 directory.
+4:16 Now, here's what I know
+4:18 um is that the temp directory was
+4:20 interesting.
+4:22 Okay? And then it that made me think and
+4:24 I go, okay, let me go back to X16
+4:28 and or X um
+4:31 yeah, X16 and understand what was
+4:34 happening when
+4:36 I had a setting in my preferences in X16
+4:39 that said, don't extract textures or
+4:41 don't duplicate the textures into the
+4:43 data folder. Leave them where they are
+4:45 because I never move my textures.
+4:47 So, I had my textures in a known
+4:49 location and this this mapping was to
+4:52 that location.
+4:54 So, what this lets you know is that when
+4:56 you're importing a texture with Chief
+4:59 Architect now and it's in managed mode,
+5:01 it's going to put it to a temp
+5:02 directory. And then it's going to load
+5:04 it into the software and go and encrypt
+5:07 this
+5:08 um this particular map. All right?
+5:11 That's all good information.
+5:12 So, what would happen if I would just
+5:14 take this in a notepad editor and change
+5:17 this to an actual location of the
+5:19 texture that I need.
+5:21 And so, I tried that a couple different
+5:22 times and it was not working and it was
+5:24 failing. But, if I just imported and
+5:27 that's when I would change this
+5:30 information and then
+5:32 group it back together as a .calibs
+5:35 file. So, basically make it a zip
+5:36 archive and then change the extension to
+5:39 .calibs and include the textures that I
+5:41 need, then I just load it back in. Turns
+5:44 out I could not. It was failing. So, it
+5:46 was saying that it was coming from, you
+5:48 know, a version of the software that
+5:49 wasn't work that's not compatible.
+5:53 So, then I figured something else out,
+5:54 which is the length of the name
+5:58 mattered.
+5:59 So, that if I just changed one letter
+6:02 of the name, just swapped it to a
+6:04 different letter, and tried to import
+6:06 it, it would import. It would have a
+6:08 missing texture, but it would import.
+6:10 That led me to try, okay, let's try this
+6:13 out, and so let's name a texture, you
+6:15 know, a specific name like that's the
+6:17 same, couple it together in the CA libs
+6:19 file, and pump this in there.
+6:22 Bam, lo and behold, it brings in.
+6:25 So, I do another one.
+6:26 This time it brings in and it says,
+6:28 "Hey, you have a unique identifier here
+6:30 that that you have a duplicate." That's
+6:32 because there's a unique ID in there.
+6:35 And when that happens, when it sees a
+6:37 duplicate, you can choose to say yes or
+6:38 no, bring in that duplicate or not. When
+6:40 you say yes, Chief Architect
+6:42 automatically gives it a new unique ID,
+6:45 so that if you were going to export this
+6:47 again, it has a new unique ID.
+6:51 What does all of that mean? It just
+6:53 means we can build something outside of
+6:55 Chief and automatically import it.
+6:58 That part was the big aha moment. And
+7:00 then I had to take a couple days and
+7:02 come back, and then
+7:04 um I'm sorry I'm not just showing my
+7:06 face. That would have been nice here,
+7:07 but um
+7:09 I came back and I started building, and
+7:12 I started building a Python script that
+7:13 would just take a huge dump of files
+7:16 that were really well organized that I
+7:18 got offline a really long time ago,
+7:21 and just started importing them.
+7:23 And so,
+7:24 here we are. We've made it that far.
+7:26 That system actually works, and I'll
+7:28 show you that working.
+7:31 But, the next thing that I'm going to do
+7:32 is take an approach to where I might
+7:35 have material files that are not as well
+7:37 organized.
+7:38 Here's where um
+7:41 I will switch to webcam only. Here's
+7:43 where it kind of hinges on on a few
+7:45 parameters. You have to make a base
+7:48 texture with everything that you might
+7:50 need in that texture.
+7:53 Because otherwise, you'll not be able to
+7:55 change those parameters until you've
+7:57 imported your new texture. And
+7:59 what that means is that I wanted
+8:02 textures that just had three simple
+8:04 maps,
+8:05 which was roughness,
+8:07 diffuse, or your base color map, and the
+8:11 normal map.
+8:12 And and that was really easy. And then I
+8:15 set a file length name for each of those
+8:18 elements so that
+8:20 um the diffuse map had diffuse as a
+8:24 suffix, then the normal map had normal,
+8:27 roughness map had roughness. So that
+8:29 gave me the flexibility to
+8:32 um if I had that name long enough, that
+8:35 gave me the flexibility to get Python to
+8:38 automatically script my new material
+8:40 names using the same name length. And
+8:43 that gave me some freedom to
+8:46 be able to like,
+8:48 you know, have the ability to name
+8:49 things the way they should be named.
+8:51 Because keep in mind, it has to be the
+8:53 same byte length. Whatever you exported
+8:56 as a base material from Chief Architect,
+8:59 all those texture map names, if you're
+9:01 going to swap in new textures and build
+9:04 a texture outside of Chief to load in,
+9:07 it has to be the same name length for
+9:10 all those textures.
+9:12 And it's kind of hard to explain, but as
+9:14 we get into this, you'll kind of see how
+9:16 this is working.
+9:17 Now,
+9:18 the next part of that that script is
+9:20 built and it works. What doesn't work is
+9:23 that now I have this huge collection of
+9:25 other textures here that don't all have
+9:28 normal maps, and they don't all have
+9:31 roughness maps.
+9:33 And so what I'm going to do is I'm going
+9:36 to get cursor.
+9:38 First of all, I'm going to just copy
+9:39 this directory.
+9:41 Copy where this directory is. I'm going
+9:43 to open up cursor AI.
+9:45 Okay.
+9:47 Get this on my main screen so you guys
+9:48 can see it. I'm going to close down this
+9:50 workspace.
+9:53 Just forget where that is.
+9:54 Here we go.
+9:55 Now I'm going to open a new folder.
+9:59 Up from the file menu, open a folder,
+10:01 and I can just paste in that directory.
+10:05 And say select
+10:07 Now I want to save this as a workspace
+10:09 cuz I'm going to be doing some more of
+10:11 this. So, save workspace as I love to
+10:14 keep my stuff organized in an assets
+10:16 folder. Oh, I'm sorry. I'm not showing
+10:18 my screen like an idiot.
+10:20 Um so I'm in
+10:23 cursor. I've opened a folder.
+10:26 That's where my textures directory is.
+10:28 I'm going to save this
+10:30 um workspace in a folder called assets
+10:34 workspaces. I keep everything organized
+10:36 under the root folder of assets, okay?
+10:39 So what this is going to be is textures
+10:41 temp code workspace. Perfect. So I'll be
+10:43 able to get back to this workspace
+10:45 easily, find previous chats, work from
+10:48 what I've done before. That'll be good.
+10:50 Now here's the next part is I'm going to
+10:53 paste in this directory and I'm going to
+10:55 say
+10:59 In this directory is a bunch of
+11:01 textures. I want you to look through our
+11:02 chat history because in the past I've
+11:05 asked you
+11:06 to standardize my
+11:10 texture names
+11:11 and group them into subfolders based on
+11:16 a three map texture, which is the
+11:18 diffuse map, the roughness map, and the
+11:21 normal map.
+11:23 Now for this current directory, I don't
+11:26 have normal maps for every single
+11:29 combination of map. I wanted to see if
+11:31 you can maybe create a normal map
+11:34 from
+11:36 the
+11:37 height or bump map, if it has one, or if
+11:41 need be, take it from the base color
+11:43 map, what might be called base color map
+11:45 or diffuse map or albedo map.
+11:50 And so I need you to generate things
+11:51 when we don't have them. And then get
+11:53 all these textures in the place.
+11:56 So, we're looking for
+11:58 the main base color map, which is a
+12:00 diffuse map or albedo map, then a
+12:02 roughness map and a normal map. And then
+12:06 for each grouping of three, you put that
+12:08 in its own directory with the name on
+12:10 the directory that's the same name as
+12:13 whatever the diffuse map is minus the
+12:15 suffix
+12:16 that's named diffuse.
+12:22 And then if you would like me to speak
+12:24 English about what I just said, is that
+12:26 when we're making a material, we have
+12:29 base color map is
+12:30 commonly called a couple different
+12:31 things. It can be base color map, it
+12:33 could be texture map,
+12:36 base texture map, I guess. Um albedo
+12:39 and diffuse. And so when you get
+12:42 textures online from some resource
+12:44 somewhere, you found it somehow,
+12:46 um maybe from a manufacturer website,
+12:48 maybe went on Gumroad and paid or
+12:49 ArtStation or something like that, um
+12:52 any number of places you can get this
+12:53 stuff, Polygon.
+12:55 And you get a bunch of textures, they're
+12:56 going to call them different things.
+12:58 That's their own convention.
+13:00 You know,
+13:01 have you.
+13:02 Um
+13:03 not only that, but you're going to have
+13:05 um some things that like, you know,
+13:07 maybe they call it a suffix norm for
+13:10 normal or
+13:11 _n for normal.
+13:14 You know, and so there's um there's no
+13:16 standard for these things. So, it's nice
+13:19 if you can get AI to do what's called
+13:21 fuzzy matching. You can use that term,
+13:23 fuzzy matching, where it's basically
+13:26 doing a percentage system on how close
+13:30 it is to one match versus another and
+13:33 then determining it based on that. So,
+13:36 it's pretty clever, works extremely
+13:38 well, believe it or not, and so this is
+13:41 why I love AI even though I fight AI
+13:43 constantly.
+13:45 Keep in mind the directions I just gave
+13:47 gave a bunch of conflicting
+13:50 tokenization.
+13:52 There's a blog on my website in case you
+13:54 don't know what that means, but and that
+13:56 could help explain
+13:57 you know, why this thing might get
+13:59 confused, but we'll see. So,
+14:02 it's probably writing a Python script
+14:06 right now because nothing is happening,
+14:08 right?
+14:09 But we will start to see some things
+14:11 just happen in this folder.
+14:14 Pretty cool. The other thing that I end
+14:17 up doing with my setup here is that
+14:22 in my script, what it does is it will
+14:25 extract specifically from folders, it
+14:28 will look for that diffuse map and it
+14:30 will downscale it to 1024 by 1024 or
+14:34 whatever I set it to. I wrote my Python
+14:36 script so it starts with a pop-up to ask
+14:38 me what resolution I want.
+14:40 Because there are times where I want a
+14:42 resolution at 2K. It's very rare, but
+14:45 occasionally I do
+14:47 versus 1K. And then all of the secondary
+14:50 maps always get exported at 768 by 768
+14:54 cuz that's really pretty low, but it's
+14:56 just high enough to get some details out
+14:59 of bump and height and all that and
+15:01 roughness and stuff like that. So, it
+15:03 keeps your texture really light, keeps
+15:05 the model really light, and so they're
+15:07 not using big 4K textures and and
+15:10 hogging up your graphics card's memory
+15:12 and stuff like that and uh
+15:15 And let's see where we're at, Mr.
+15:19 Cursor. Organized PBR. Oh, look at this.
+15:23 It made so So, it duplicated.
+15:26 And let's just run through this. Now,
+15:27 the one thing that I need to have is
+15:30 that these need to have all three maps
+15:32 or it will become a missing map when it
+15:35 hits the park deck. Now, it looks like
+15:39 that might work.
+15:41 Let's get back to cursor and see where
+15:42 where it's at.
+15:51 It certainly got a lot done. So, it
+15:54 looks like it's still working on
+15:55 something, but that was working.
+15:58 So, the next thing that I'll do is I'll
+16:00 hit the little I'm going to hit this
+16:02 downloads folder right here. I'm going
+16:03 to get to where my script is. And I have
+16:05 a backup of my script, but I'm running
+16:07 all this stuff outside of the cloud. I
+16:09 don't want to be fighting my Dropbox
+16:13 account while
+16:15 while I'm moving huge files around.
+16:17 These texture files can be very large,
+16:19 especially if the source file is some
+16:22 kind of 8K texture. You can see here
+16:24 that my textures temp directory is 8
+16:27 gigs. So, if we were doing this in
+16:29 folders that lived on Dropbox, Dropbox
+16:32 would just be sitting here trying to
+16:33 pump away. And not only that, but it
+16:35 would do some file locking where it
+16:36 would fight us and maybe fight our
+16:38 script. So, it's important to note that
+16:40 I'm doing this straight from the C
+16:42 drive. And so, then from there, I have
+16:44 this test directory.
+16:47 I should probably name it something
+16:49 different, but
+16:50 I just Oh, I meant to do the
+16:52 side-by-side, but looks like I just
+16:53 dragged it into cursor.
+16:55 Oops. There we go. Now, we got it
+16:57 side-by-side.
+16:59 And
+17:00 test clearly conversion quad. Quad was
+17:04 the one that was successful and ChatGPT
+17:07 was struggling a little bit. Um so,
+17:10 please note when I was writing my Python
+17:11 script, I ended up using quad. I was not
+17:14 using cursor.
+17:16 Um
+17:20 Let's see what it's doing here. Okay.
+17:24 Okay.
+17:26 Fixing something.
+17:27 Still.
+17:29 I'll pause
+17:30 and we'll come back to this.
+17:43 Do a little um
+17:45 unpause for a second because I see
+17:47 what's happening here. And so, I'm going
+17:49 to help this thing out. Which is
+17:52 why don't we downscale
+17:55 all diffuse maps
+17:58 to
+17:59 2048.
+18:01 Or no.
+18:02 2048.
+18:07 You aren't
+18:08 right.
+18:09 higher resolution. This is just because
+18:11 I noticed it mentioned something about
+18:12 it fighting a higher resolution.
+18:22 That's before
+18:24 organize and eight.
+18:30 Just
+18:31 overwrite
+18:33 existing.
+18:42 Let's see what that does. Um and I can
+18:44 pause again and let you just catch up.
+18:46 But, what I saw was that in its little
+18:49 thinking blur, but I don't know if
+18:50 you've ever seen this if you're using
+18:51 cursor or if you're using any kind of
+18:53 AI, sometimes you can read through this
+18:55 little thinking part. Right? And so,
+18:57 what I noticed was that this was writing
+19:00 um new Python scripts because it was
+19:02 fighting the texture creation process on
+19:05 something that was a really large
+19:07 texture like an 8K texture, which makes
+19:09 a lot of sense. So,
+19:11 um going to from my mistake is maybe
+19:13 downscale first to the highest scale
+19:16 that you want and then get it to create
+19:20 and organize. So,
+19:23 it's like it's getting some stuff done
+19:24 now cuz we see a Python script
+19:26 happening.
+19:29 I'm so fascinated just watching this
+19:30 stuff.
+19:31 And then
+19:33 uh there we go. It's seeming to pump out
+19:37 another round of these again. Cuz this
+19:38 was gone. It was deleting and retrying
+19:40 and deleting and retrying.
+19:47 Okay, sweet. And it finished pretty
+19:49 quick. It was just a few minutes. So,
+19:51 here we go. Here's all my
+19:53 folders that I need. So, it took this
+19:55 very kind of disorganized
+19:58 setup here where we're missing a lot of
+20:00 normal maps and it produced new normal
+20:02 maps or roughness maps as it needed and
+20:05 then organized these in subfolders. Now,
+20:07 maybe it didn't get everything, but I
+20:09 bet you it got a lot. So, the next part
+20:11 of this is a little bit of setup. One,
+20:13 you needed to write a Python script and
+20:15 Python script is going to be
+20:17 specifically geared towards hey, we're
+20:19 going to look for, you know, a folder
+20:21 name. That's what you're going to name
+20:23 your material. Um
+20:25 within the folder name is a diffuse map,
+20:28 texture map, etc. Normal map, roughness.
+20:31 You're going to open up this calib file,
+20:35 find and locate those, and then look at
+20:39 the character length of the string there
+20:41 for the address,
+20:43 and rename those maps
+20:46 at a max length
+20:48 according to what they find in the in
+20:49 the default material calib file. So, you
+20:52 needed to export
+20:54 Again, this is not a tutorial. I'm just
+20:56 pointing you in the direction of how I
+20:57 came to this.
+20:58 You needed to export a default material,
+21:01 open this up,
+21:03 get AI to look at this, note the lengths
+21:06 of those file names so I could build a
+21:08 Python script that would
+21:10 look through folders and build new
+21:14 collabs files based on those length of
+21:17 names and rename them accordingly. So,
+21:19 the names that you see in this directory
+21:22 are not going to be
+21:24 the final names that hit Chief Architect
+21:26 because they're too long.
+21:28 Okay, so they're going to um be
+21:30 truncated
+21:31 or abbreviated.
+21:33 I never remember which word was right
+21:35 there.
+21:36 So, what I get to do now is set up Chief
+21:38 Architect a little bit. One is that I
+21:41 want to turn off some things so that
+21:42 this goes as fast as possible. I'm going
+21:45 to turn off my preview, and I'm also
+21:48 going to turn off any filter results,
+21:50 and I'm going to shut down any plan file
+21:52 that I might have. And then on top of
+21:54 that, I'm going to get rid of um
+21:58 stuff so that this is in a sort folder
+22:00 so that it's not, you know,
+22:03 biting anything there as well.
+22:05 Now, I'm kind of ready to go. I think
+22:07 Chief Architect's ready to go.
+22:09 And so, let me get these folders back
+22:11 up.
+22:14 Just going to drag and drop one. I'm
+22:16 going to I'm going to move this over the
+22:17 side. You don't need to see that part.
+22:19 That's okay. But, I'm going to
+22:21 take all those files, dump it into here.
+22:25 So, these files needed to be alongside
+22:27 of this Python script.
+22:30 And so, now you just get to bear with me
+22:31 and check this out.
+22:33 But, watch this. I just get to
+22:35 double-click this Python script. Keep in
+22:37 mind, for whatever reason, if you're
+22:38 hitting a 99% like I do, I I hit this
+22:41 consistently. I'm not sure what this is.
+22:43 I think um somehow there's an I and I
+22:45 file or something, but I've been able to
+22:47 run my script regardless of that. I'm
+22:49 not going to 100%.
+22:52 So, here we go. Got everything in here.
+22:55 And let me go ahead and double-click my
+22:57 Python script. And so, this just popped
+23:00 up in a side window.
+23:02 Okay? And it pops this this little
+23:04 marker.
+23:07 Shrink this down so we can see what's
+23:09 happening.
+23:10 Really shrink this down a little bit so
+23:12 we can
+23:13 see what's happening as well.
+23:16 Okay.
+23:18 Then
+23:19 I'm going to keep these at 1024 by 1024.
+23:22 You run it.
+23:24 There we go. It's off to the races. Now,
+23:26 what you see here is in the folder
+23:29 structure, you're seeing things jump
+23:31 around. What it's doing is it's creating
+23:35 the calibs file and it's deleting the
+23:37 source file. This is a very destructive
+23:40 workflow. I wanted it to clean it out to
+23:42 give me kind of a visual representation
+23:44 of
+23:45 you know, how far it needed to go before
+23:47 it's done in case I wanted to step in
+23:49 here and stop it for some reason.
+24:01 It's just getting hung up on something a
+24:03 little bit. And I find this just a bit
+24:04 fascinating. Um in my mind, this is like
+24:09 making money, saving money, something.
+24:12 We're getting options, something.
+24:15 It's just fascinating to me.
+24:17 Um because
+24:19 it's automating a process that would
+24:21 take so long for me to do prior to it.
+24:24 So long. I've had these materials in
+24:27 this material folder location
+24:30 for over a decade. And I haven't done
+24:32 anything with them because they take so
+24:34 long to build inside of a software.
+24:37 So, here we go. We've got a way to build
+24:39 them.
+24:40 So, all of a sudden, I get to pump up my
+24:42 library in a way that makes sense. So,
+24:44 what I've done before is like, "Okay, I
+24:46 don't necessarily need these textures.
+24:49 I'll I'll just build them when I need
+24:50 them. If I, you know, find the need,
+24:52 I'll make it." But now it's like, "Why
+24:54 not build them? You you have them and
+24:57 you'll get to just try them out and if
+24:58 you don't like them, you can delete
+25:00 them. It's a lot easier than building it
+25:03 and deleting it cuz it's just there and
+25:05 you get to click it, try it, and see if
+25:07 you like it, and delete it if you don't
+25:08 want it.
+25:09 So, here we go. Is now it's going to
+25:12 This is on the side window,
+25:13 unfortunately. Um
+25:15 the dialogue box is populating on the
+25:17 side window of Chief, but what it's
+25:18 doing is it's saying every time it tries
+25:20 to import, it's saying there's a
+25:22 duplicate texture, do you want it import
+25:24 this? And what I did was
+25:27 I just basically said target the Chief
+25:28 Architect window, hit the left arrow
+25:30 key, hit enter for yes. And then so,
+25:33 that's what it's doing. The Python
+25:35 script is doing that for me. It's just
+25:36 doing a keystroke assignment.
+25:38 And it's doing it at a pretty fast clip.
+25:43 And I will say
+25:45 because I'm recording, it's probably
+25:47 missing
+25:49 one every 10 or something like that
+25:52 because recording's slowing down my
+25:54 machine.
+25:56 And so, if we weren't recording, the
+25:58 timing was real tight as long as I
+26:00 didn't have a bunch of stuff hogging
+26:01 memory. This is very speed dependent. I
+26:04 didn't script it in such a way that it's
+26:07 listening to see if the resource is
+26:09 ready. It's just a keystroke assignment.
+26:11 I didn't get that clever with it.
+26:14 So, it's just saying, "Hey, um double
+26:17 click on a collibs file that you know,
+26:19 we're no longer seeing because it's
+26:20 behind the Chief Architect window
+26:23 and
+26:24 and it it built a bunch of collibs
+26:26 files. Show you that when this is done.
+26:28 So, it's double clicking it, targeting
+26:31 the Chief Architect window, and then
+26:34 tabbing over, hitting yes. And so,
+26:36 that's how it's importing.
+26:39 What's nice about this was that all we
+26:40 did was double click the program and we
+26:42 could have been walking away, going to
+26:44 get a cup
+26:45 what have you, and
+26:48 I you know, I don't know how many
+26:50 objects this is building, but let's just
+26:52 say it's 50.
+26:53 Be new textures.
+26:55 And you can see he just how quickly it's
+26:57 bringing them in.
+27:00 That's cool.
+27:02 And so when it's done, which I can't see
+27:05 because I unfortunately put that command
+27:07 window in front of everything. I can't
+27:09 touch the computer right now. It will
+27:10 mess things up. So we don't want to do
+27:12 that. But when it's done, we'll get to
+27:14 go take a look.
+27:18 It seems to be
+27:23 There we go. It's saying 89 materials,
+27:26 but we definitely missed some. So let's
+27:28 see a couple of things that just
+27:30 happened.
+27:31 You know, behind the scenes here is
+27:34 that command window shut down. So you're
+27:36 not going to see anything there.
+27:38 But here is
+27:40 the output that it that it did. And so
+27:42 if we were to go look at the list here
+27:44 and look at the list on the right-hand
+27:45 side,
+27:47 you know, is it missing anything? Black,
+27:48 brown, brown.
+27:50 I think it actually did a pretty good
+27:51 job.
+27:53 Yeah, I mean it looks like it has most
+27:55 of those.
+27:57 Yeah, I think it nailed every one of
+27:59 those.
+28:00 Now is the fun part. I get to go test
+28:02 this out, right?
+28:03 So I come into the project browser, open
+28:06 up some kind of project here.
+28:09 And we get to go take a look at
+28:12 these materials look like.
+28:14 I'll open a little preview.
+28:18 And so what I will say
+28:20 it's tricky to figure out what the scale
+28:21 of these materials are.
+28:23 By default, a new texture comes in at 20
+28:26 by 20.
+28:27 And so some of these textures, if I'm
+28:30 looking at them,
+28:32 um are probably
+28:34 a little bit larger
+28:37 than that 20 by 20.
+28:39 Let's just click and try.
+28:41 We're just going to do floor materials
+28:42 here. By the way, if you're getting this
+28:44 glitchiness, one, you know, you can get
+28:46 rid of that with um can use it DLSS. One
+28:50 is you can get rid of that with a reboot
+28:53 typically. But the other thing that you
+28:54 could do is
+28:55 go into edit the active view. Go to this
+28:57 native resolution, take it down to
+28:59 quality 1.5, and it won't do that
+29:01 anymore at quality 1.5.
+29:04 Not nearly as
+29:06 bad. So,
+29:07 So, let's check this out. So, yeah, the
+29:10 scale of this is a little small.
+29:19 These are real.
+29:22 Well, I mean, look at this.
+29:24 That's that detail coming in. These are
+29:26 good textures. Now, the 768 is going to
+29:29 give you a little bit of that like
+29:30 striation effect, that that lower
+29:33 resolution secondary map is going to
+29:35 give you you know, artifacts just a
+29:37 little bit. But you're never going to
+29:39 see them in a surface like this.
+29:41 And so, let me I'm going to double the
+29:43 size of these. So, I'm going to group
+29:45 select them all, open the object, set
+29:47 them to a 40-in by 40-in, so that
+29:49 they're all just the same size.
+29:53 There you go.
+29:55 And that'll take a second.
+30:05 Let's see if these are going to
+30:10 And so, I've never seen these textures
+30:13 in Chief Architect, which This is very
+30:15 fun for me. I've had these
+30:18 stupid thing in super stupid things in
+30:20 my library
+30:22 forever,
+30:23 and
+30:24 I've never had the opportunity
+30:30 to see what they look like. I mean, that
+30:32 one's really cool. I'll use that one for
+30:34 sure.
+30:37 Yeah, this is fantastic.
+30:45 >> I was thinking, you know, I'd probably
+30:46 be deleting a bunch of these, but
+30:48 so far
+30:50 these will these will go well in just
+30:51 like my heartscaping section of my
+30:53 catalog.
+30:56 And how simple to get this many cool new
+31:00 textures.
+31:01 So, the next thing that I want to do is
+31:03 that I don't really care about those
+31:05 source textures anymore. I know that
+31:07 sounds sad, but
+31:10 heck, if they're organized and done, why
+31:12 not get rid of them? And so, let's come
+31:14 back to cursor and say
+31:19 Okay, perfect.
+31:21 Let me know were there any parent
+31:28 that didn't make it into a
+31:32 map folder that
+31:36 couldn't
+31:37 place
+31:39 in your system.
+31:44 Because um the great part about this
+31:47 um
+31:48 not the output, but the organized PBR,
+31:51 oh, which we ended up deleting. Oops.
+31:55 I guess that was dumb. I should have
+31:56 copied that over. Could have used that
+31:58 to replace everything.
+32:00 So, I might have cursor go run through
+32:02 that again, do it again.
+32:04 Um
+32:08 because what I'm going to do is go back
+32:10 to my texture directory where these came
+32:12 from and replace it all with organized
+32:14 folders, because I won't need this
+32:16 anymore.
+32:17 So, I'm no longer need to be here. I
+32:19 certainly won't need the high resolution
+32:20 maps. I don't think I'll ever need the
+32:22 high resolution maps. And we have AI
+32:24 nowadays, so even if I needed high
+32:26 resolution maps, I could probably use AI
+32:28 to upscale them anyways.
+32:31 Um but at 2048, that's
+32:33 that's as good as I need for almost
+32:35 every rendering shot.
+32:42 And it's beautiful.
+32:52 Okay, so it's telling me that there's
+32:53 some leftovers.
+32:55 So, I want you to run it again because I
+33:01 accidentally deleted them.
+33:05 And then have a final folder of scraps.
+33:12 All right.
+33:13 There we go.
+33:14 So, it'll build that again. It'll have a
+33:15 final folder of scraps. Um if we were to
+33:18 go look at the core directory,
+33:24 see what's in here.
+33:26 Um
+33:28 you know, what we started with was 6.13
+33:31 GB.
+33:34 So, let me pause. I'll let it do its
+33:36 thing, and I'll tell you, you know, how
+33:37 much space saving we got out of doing
+33:39 this whole process as well. I mean,
+33:41 there's there is nothing that's not
+33:44 optimal about what just happened. Is we
+33:46 took a bunch of high-resolution
+33:49 textures, some that were missing maps,
+33:52 not well organized, and we got them
+33:54 organized, scaled appropriately,
+33:57 renamed,
+33:58 and then
+34:00 and then we
+34:01 built them into textures that could be
+34:03 imported into Chief Architect. And now
+34:05 we have those as well. That And they
+34:07 could be exported as collude files that
+34:08 are nice little package deals. And I
+34:10 could export that entire group as one CA
+34:14 libs file if I wanted to. And if I
+34:17 didn't want to store all those folders,
+34:18 I could just have a CA libs file in
+34:21 there instead. And as long as I had
+34:23 Chief Architect, I could always extract
+34:26 those textures.
+34:29 It's pretty cool.
+34:30 I I need to store this in multiple
+34:33 places anymore. Although I will use it
+34:35 in some other software, so I like the
+34:37 way I have it set up right now.
+34:39 And that's just thinking outside of the
+34:40 box for you.
+34:43 So, let's see what we've got going on.
+34:48 Still building.
+34:53 Almost.
+34:55 BP payment, there we go. So, if we look
+34:58 at this,
+35:00 yeah, we went from 6 GB to
+35:03 to
+35:04 roughly 400 MB, not even a half of a
+35:07 gig. That's a huge reduction.
+35:12 I'm going to call it a half gig. Looks
+35:13 like it's still going a little bit.
+35:16 Um oh, because it's doing the errant
+35:18 files that didn't fit into structure of
+35:21 building it.
+35:22 And see, there you go. There's scraps.
+35:25 So, we got 1.72 GB of scraps and then a
+35:27 half gig. So, we end up with 2.25 GB
+35:31 from 6 GB
+35:32 originally.
+35:34 Okay. Here's the big scary thing that
+35:36 you're going to go, "What? You're
+35:37 crazy."
+35:39 Which is I'm going to take these
+35:40 textures that I've had for freaking
+35:42 ever.
+35:45 And shift delete.
+35:48 What? Crazy dude.
+35:51 Bye-bye.
+35:52 Thank you.
+35:54 So, that's gone.
+35:57 Good night.
+35:59 And
+36:00 Um let's see. Was that a mistake? There
+36:02 might have been a mistake there.
+36:05 The mistake could have been
+36:07 that
+36:08 maybe I have a software that I haven't
+36:10 used in a really long time, like
+36:11 Twinmotion, where it was using those
+36:14 textures um
+36:16 in that texture directory and we renamed
+36:18 those textures.
+36:20 But you know what? I'm just going to
+36:21 roll with it. I'll handle that issue
+36:24 when I
+36:25 And when I need to. Cuz this is the dawn
+36:27 of AI-based Python scripting,
+36:31 you know, systems creation. And so, here
+36:34 we go. Here's my I'm going to bring me
+36:36 in my scraps.
+36:38 Let
+36:39 Dropbox
+36:40 do its thing with that. And then I've
+36:42 got my organized
+36:45 folder here
+36:46 of other items.
+36:52 So, that
+36:53 in.
+36:59 Bam.
+37:02 It's as sweet as that. And so, here's
+37:05 something cool
+37:07 is
+37:11 I'm going to take this folder.
+37:15 I'm going to come back to Cursor.
+37:18 Back to Cursor. I want to start a new
+37:20 chat.
+37:22 I'm going to file add folder.
+37:26 Add folder to workspace.
+37:30 And let's just take
+37:33 materials folder. We're going
+37:38 Okay. So, it has access to that now.
+37:40 And then I'm going to paste the pavement
+37:42 folder.
+37:43 I want you to replace all
+37:48 folder icons
+37:51 with a
+37:56 with a screenshot
+38:00 of the diffuse texture
+38:03 in every folder.
+38:05 That's screenshot
+38:09 zoomed
+38:13 two times.
+38:15 Convert to icon.
+38:18 Put in a folder in the same directory.
+38:23 All
+38:23 icons
+38:25 and call let's go
+38:27 see icons
+38:31 and
+38:32 icon.
+38:35 See how it does with this.
+38:38 Since we're here, since we're doing
+38:39 things, since we're making life easy,
+38:42 since we're doing things we couldn't
+38:43 have otherwise done just a few years
+38:45 ago.
+38:47 Yeah. Um I do have my material store
+38:51 right now
+38:52 trying to free up some space cuz I was
+38:53 thinking about switching to a much
+38:55 faster
+38:56 NVMe drive. Um they're just extremely
+38:59 expensive. So I was seeing how much
+39:00 space I could clear up.
+39:02 So I set some of my files to online only
+39:05 just to clear up space, but
+39:08 that's what it's having to do right now
+39:09 is it's downloading Dropbox. Going to
+39:11 take
+39:13 I guess not too bad.
+39:16 So I'll pause and I'll show you what the
+39:18 result is.
+39:22 I didn't unpause fast enough. Look at
+39:23 this, it's happening.
+39:28 Oh, and that looks
+39:31 perfect.
+39:33 That looks perfect.
+39:36 What a nice way to find
+39:39 texture quickly.
+39:46 Man, isn't that fantastic?
+39:54 Yeah.
+39:55 Great.
+39:58 Visually, this just makes so much sense.
+40:01 I want to modify this cracked yellow
+40:03 sandstone. Bam, it's right there.
+40:05 Oh, so sweet.
+40:10 Life is good, my friends.
+40:12 I think this is This is the end of this
+40:14 this one.
+40:16 Um
+40:18 When I make some videos, sometimes some
+40:20 of these videos are my favorites. And
+40:23 this is one of my favorites. I can't
+40:24 tell you how much
+40:27 time this saves.
+40:31 I mean, I'll just give you an idea.
+40:33 Um
+40:34 I've spent spent, you know, 6 hours
+40:37 yesterday working on this.
+40:39 And
+40:41 I'm just going to tag these
+40:42 guys here.
+40:45 by this tag.
+40:47 Um for
+40:49 my update for the X18 package.
+40:52 So, if I apply
+40:54 this tag,
+40:56 let's see what I've got. Get my
+41:00 filtered results. 1,688
+41:03 new items. Now, I had built 300. So, in
+41:06 the last day, I've added
+41:09 um 1,300.
+41:13 Yeah.
+41:15 And I mean, that's just exciting. And
+41:16 they're good textures. I don't know
+41:18 when, you know, enough is enough. Like,
+41:21 how many do we actually need? How many
+41:22 scenarios do we run into? But um if the
+41:25 search attributes and the tagging system
+41:28 works as well as it always has, then
+41:31 it's easy to just
+41:33 kind of ignore scrolling through big
+41:35 lists and instead just being able to,
+41:37 you know, see things at a screenshot
+41:39 view. So, here's filtered results, and
+41:42 then
+41:43 let's just get a preview going.
+41:45 And if I expand this or, you know, take
+41:47 the libraries out for a second, hit your
+41:49 Windows key, right, if you're on a
+41:51 Windows machine, and then control space
+41:54 up, and then hit the tag that's
+41:56 materials, and so this would be really
+41:59 easy for me to find
+42:02 materials that I need.
+42:04 And added.
+42:10 Just That's so efficient. That's great.
+42:13 All right. That's it for this episode.
+42:15 Thank you.

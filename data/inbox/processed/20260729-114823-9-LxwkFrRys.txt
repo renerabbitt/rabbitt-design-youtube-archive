@@ -1,0 +1,1290 @@
+Title: Chief Achitect Premier X-13 Kitchen to Twinmotion 2022
+URL: https://www.youtube.com/watch?v=9-LxwkFrRys
+Visibility: public
+
+0:08 we're live again
+0:08 we're going to be doing uh from chief
+0:13 architect to twin motion this time so
+0:14 check this out first of all let me turn
+0:20 there we go
+0:20 and it can be opening up a kitchen
+0:22 project you may have seen in a previous
+0:25 feed
+0:25 i can remember the name of that kitchen
+0:29 project
+0:29 we could
+0:38 there we go
+0:38 i'm going to take a second just to
+0:42 repost this feed
+0:42 to another location off on my side
+0:51 so you might might be skipping the first
+0:53 couple of minutes of this oh actually
+0:55 this is the wrong file
+0:55 i'll have to work on this figure out how
+1:00 to re do all these reposting if you're a
+1:02 facebook streamer you're familiar with
+1:03 the platform
+1:03 know how to do this please
+1:08 let me know because
+1:08 it's a strong learning curve
+1:10 anyways we've got some new features in
+1:13 the mic
+1:13 should be cutting out some of the
+1:14 background noise but we might be picking
+1:19 up some pops as well we'll see
+1:27 and then i'm in the comments i've got
+1:27 the comments window open so if you would
+1:31 like to
+1:31 um comment on the live feed i will be
+1:33 responding to those um we had some good
+1:38 interaction yesterday on the live feed
+1:41 so that was awesome that was fun to
+1:41 interact with you guys as you're chiming
+1:45 in tuning in
+1:45 so let's see i think i'm in project
+1:46 number three for streaming here we go
+1:52 so we're going to be taking this kitchen
+1:54 and bringing it into twin motion now
+1:54 there's not a whole lot that i'm going
+1:58 to be doing in this shot
+2:00 um show you
+2:00 you know a simple thing there's a bunch
+2:03 of cameras in here because
+2:03 we're trying to figure out how to create
+2:10 vr image this is the kitchen we're going
+2:12 to be working on right here
+2:12 and this is hosted on a website called
+2:15 coola which i have a professional
+2:17 subscription to
+2:17 which shows me you know what this looks
+2:22 like in vr but also if you were to put
+2:25 on a pair of oculus headsets
+2:28 this website knows to
+2:28 change to stereoscopic vr mode which
+2:32 means that
+2:32 we have a left and right side view
+2:35 which means left left eye right eye
+2:38 which gives you a sense of depth so like
+2:41 the edge of this counter all of a sudden
+2:43 looks really um
+2:44 real in vr versus this looks very
+2:46 two-dimensional when you have your
+2:48 oculus on it looks very real but it's
+2:50 only in two directions as soon as we go
+2:54 in this direction all of a sudden
+2:54 perspective is skewed and we can have a
+2:58 talk about that later but i don't have
+3:02 access to any stereoscopic vr
+3:02 application yet for for rendering so
+3:06 hopefully that comes in the next
+3:06 iteration of thea and maybe even uh
+3:09 chief architect will pick up on that so
+3:12 i'm going to open up a camera actually
+3:12 before i do i see some goofiness in the
+3:17 molding down here well yeah let's open
+3:20 up a camera and see what's going on
+3:22 part of taking chief architect twin
+3:22 motion is making sure that your model is
+3:26 prepped and
+3:26 maybe it's a good idea to show what
+3:28 happens when we export a model but then
+3:32 we've got a model change that we need to
+3:37 implement and then re-import into twin
+3:39 motion because twin motions coordinate
+3:41 based
+3:41 we can
+3:42 you know take the coordinates in chief
+3:45 bring them into twin motion so things
+3:46 will remain in the same location when we
+3:50 bring them in which is an awesome thing
+3:52 to note because
+3:52 that makes it so that we can make little
+3:56 edits in our chief model if we need to
+3:57 if we run into some errors in twin
+4:04 re-import back into twin motion so yeah
+4:05 there's a little goofiness in the
+4:05 baseboard here i'm not sure if it's
+4:06 worth fixing this this is one of those
+4:10 things where
+4:10 ultimately i make decisions about
+4:12 what's faster do i fix this in chief if
+4:15 all i'm doing in this particular case is
+4:19 rendering do i just fix this in chief
+4:19 or do i take this into sketchup and then
+4:24 just delete something that i um don't
+4:26 like the setup on so
+4:26 um it's a good question
+4:30 boy this feed is gonna
+4:30 change drastically if i don't get my 3d
+4:34 mouse to function correctly which it's
+4:34 not right now so let's see if we can get
+4:43 all right so
+4:43 here we are this is the project we're
+4:51 other than that little snafu with the
+4:53 baseboard
+4:53 this looks like it's ready to go
+5:00 i'm not going to fix this we can fix
+5:02 this maybe on another feed maybe at
+5:03 another time and show you how to
+5:03 re-import into chief so from here
+5:06 since i've got a 3d view up and you'll
+5:10 see that my export all of a sudden has
+5:11 the option to
+5:11 do a dae model or a 3ds model now i
+5:14 prefer the 3ds model i get a lot more
+5:18 i get more consistent results with the
+5:22 3ds but
+5:22 the dae has no vertex limit so if we've
+5:28 got a symbol in this plan that has too
+5:29 many vertices
+5:29 um we're going to run into a problem in
+5:33 3ds and
+5:33 there's way there's ways to address that
+5:37 and we'll show you a couple different
+5:40 ways to do to work with that so i'm
+5:40 going to get into this same project here
+5:44 actually we're in project three and i'm
+5:44 gonna make a new folder oh we've already
+5:48 got a 3ds export look at that i must
+5:48 have done it at some point let's just
+5:52 replace this
+5:52 yeah we're going to replace that
+5:55 and depending on the size of the model
+5:57 um your computer might hang up just for
+5:59 a little bit to figure out how long it's
+6:03 going to take to
+6:03 export here unable to copy this is
+6:07 telling me that
+6:07 we've got a missing texture which if we
+6:12 were doing a dae export that would be a
+6:13 problem
+6:13 the next thing is gray stack one i don't
+6:20 know what this is referring to um so
+6:20 some kind of geometry is is too great um
+6:25 it's like we've got a couple of these
+6:25 errors
+6:26 so we're going to be missing some things
+6:28 when we
+6:28 bring this into twin motion
+6:34 okay so
+6:34 now the export is finished i can go
+6:37 ahead and close this out if i want to
+6:42 um just keep my resources tight since
+6:43 i'm streaming
+6:43 and then we'll bring up twin motion and
+6:47 twin motion takes a little bit to load
+6:48 as well
+6:48 the reason twin motion takes
+6:51 a while to load is i don't think they've
+6:56 come up with a cache way of loading your
+6:58 library
+6:58 um and because i have a huge twin motion
+7:03 library it takes a while to load
+7:03 in a fresh twin motion load it's it's
+7:07 pretty quick
+7:07 versus this this mine takes a couple
+7:13 minutes to load so
+7:14 um i do
+7:14 have a what's called a
+7:18 um
+7:18 symbolic link set up for my twin motion
+7:22 library
+7:22 and that's so that i can have the same
+7:26 location on multiple machines for one
+7:27 library
+7:27 and that's kind of clever that just
+7:28 makes it so whatever machine i'm on i
+7:33 can load up to a motion and
+7:33 have all those same files and no
+7:35 overriding issues or anything like that
+7:38 so
+7:38 um here we go here's the twin motion
+7:39 interface if you're unfamiliar i do have
+7:43 a
+7:43 tutorial series on twin motion
+7:45 um so i'm going to assume that you've
+7:48 seen that already and you're actually
+7:51 pretty good at twin motion who knows
+7:52 so if you're chiming in
+7:52 for the first time and you've never used
+7:56 twin motion you're going to get lost in
+7:56 this
+7:56 let's post but maybe not
+8:00 i'll talk it through
+8:00 okay so and the reason i'm doing this by
+8:04 the way is this is an example to a
+8:06 potential new um
+8:06 ongoing customer for my rendering
+8:08 services so i want to make sure that
+8:13 they know what various services are
+8:13 available to them this is a nice thing
+8:16 to do it takes me
+8:16 not that much time to set this up and
+8:18 then they can have a better idea of the
+8:22 various services that i offer just
+8:22 explaining what this cloud is well i
+8:25 need some inventory first and because
+8:28 this is a new feature
+8:28 um i don't have a ton of inventory for
+8:33 the twin motion cloud yet and also
+8:33 because a lot of my twin motion projects
+8:38 are massive massive projects and they um
+8:42 don't host um over a certain size on the
+8:43 cloud so
+8:43 small projects like this kitchen um
+8:46 that's no problem hosting this on the
+8:49 cloud so
+8:49 it's a good uh good time to pump up my
+8:55 inventory show my client my various
+8:56 offerings
+8:56 and then i have a catalog
+8:58 so at some point i've gotta go through
+9:00 and take this back into the adobe suite
+9:05 take this into
+9:05 adobe indesign and create a catalog that
+9:10 makes sense that you know my clients can
+9:20 see if i can repost this
+9:26 what do we do here
+9:26 i'm off on our side screen we're just
+9:29 going to try to repost this to a
+9:31 particular place
+9:32 edit video
+9:32 copy link there we go copy link
+9:41 there we go here's our model coming in
+10:18 oh long processing time what we got
+10:29 set up multiple projects so i could do
+10:46 sometime twin motion just hangs too i
+10:48 don't know what's taking so long this
+10:48 should be a simple project it's bringing
+11:03 well if you're joining the feed
+11:03 apologies we're sitting here waiting to
+11:05 see if twin motion is actually going to
+11:07 do something with this file before i
+11:22 and twiddling my thumbs okay
+11:22 that's excessive that was a small
+11:24 project i don't know what's taking so
+11:27 long
+11:28 a look at the file itself sure wouldn't
+11:59 clearly this was just built to show the
+12:04 can't imagine it actually looks like
+12:05 that
+12:05 but who knows i've been wrong before
+12:09 okay
+12:09 here we are in the kitchen and man does
+12:11 that not look like what it looks like in
+12:17 chief right that does not look good but
+12:19 we'll get there we'll make this start
+12:22 looking pretty good after a while
+12:22 um let's just start with some basic
+12:24 material replacements so a lot of stuff
+12:29 does not come through from
+12:29 from the chief side of things and
+12:30 unfortunately we just have to work
+12:33 through this stuff so
+12:33 in my user library i have something
+12:35 called color coding and that's this is
+12:38 just drag and drop stuff for me i get to
+12:42 drag and drop some
+12:42 um some various things here that i have
+12:47 just to set up the scene
+12:47 i've got specific wall textures that i
+12:51 like to bring in
+12:51 and even though that's the wrong color
+12:57 um it's still going to
+12:57 work the way i wanted to once i adjust
+13:00 that color so
+13:00 um we'll bring this back down to the
+13:02 white range and then you can see it's
+13:06 got a little bit of
+13:06 blue tinting to it that's because the
+13:08 metalness map is on and i might want to
+13:14 either add a metal map or
+13:15 um
+13:15 or kill that metal channel altogether
+13:18 sometimes it's nice to add a metal map
+13:22 because
+13:22 not brushed let's see we want what do we
+13:31 i want like metal flake there we go
+13:31 um and i want something with not a lot
+13:35 of contrast so once i bring this metal
+13:35 map in it's going to kill a lot of that
+13:39 metal channel but we're still going to
+13:42 keep some kind of like pbr gloss going
+13:45 on right so in my settings
+13:46 i'm going to bring this reflection up
+13:52 it's kind of picking up some light there
+13:54 a little bit of gloss there we go i see
+13:56 it right over here maybe you can't see
+13:57 it in the feed
+13:57 but anyways that white's starting to
+13:59 look a little bit better i'm going to
+14:01 bring the tint
+14:01 up a little bit and bring this towards
+14:08 our yellows there there we go that's
+14:10 starting to look like what it looked
+14:10 like in the other rendering so i might
+14:16 just paint this wall as well why not
+14:16 i know that's what the original model
+14:19 kind of looked like so
+14:19 there we go we've got a countertop
+14:20 material we might need to work with
+14:23 one thing i did not prep was i didn't
+14:26 prep the
+14:28 um
+14:28 our top moldings versus our cabinets or
+14:33 or our baseboards or our window trim
+14:33 that can be problematic at times if you
+14:37 really want to set those apart in terms
+14:39 of materials so
+14:39 here's my white trim i want to bring
+14:42 that in here i want to make sure the
+14:42 reflection is way up on that white trim
+14:47 there we go we can see that reflection
+14:47 and twin motion's got kind of a you know
+14:54 basic pbr but this looks a lot better
+14:55 than
+14:55 what else i have available to me in a 3d
+14:58 cloud presenter
+14:58 when we present this in the cloud
+15:00 your end user can actually go through
+15:04 and walk around so
+15:04 it's nice to come in and put in the work
+15:07 on these things
+15:07 let's take a look at this material let's
+15:10 start making this look a little bit more
+15:13 realistic it's just going to be basic
+15:14 oak plank
+15:14 5-inch i want to see
+15:17 what this material is
+15:21 3ds oak
+15:21 okay so it's a truncated name that was
+15:25 part of the naming convention options
+15:29 when we exported in 3ds i should have
+15:30 left those
+15:30 at full length so that i could tell what
+15:34 that texture was so that i can find
+15:34 the associated maps with that texture
+15:38 now let's take a look in our project
+15:40 stream live and see
+15:40 in our 3ds our extracted textures what
+15:44 happens here
+15:46 and
+15:46 you can see here there's nothing there
+15:49 that's even useful let's take a look
+15:51 here
+15:51 we're going to find that
+15:52 here we go we do in fact have
+15:57 um
+15:57 our height map here
+16:04 let's grab that and actually this this
+16:06 is looking for a normal map which is
+16:06 different from a height map so something
+16:10 we can do we could either generate a
+16:10 normal map which would be a trick thing
+16:15 to do let's do that first
+16:15 actually before i do that let me just
+16:18 show you another trick
+16:18 it's nice well to just have
+16:24 in your materials store
+16:26 just a generic
+16:28 normals purple
+16:28 and all that's going to do is fill this
+16:32 normals
+16:32 section and then we can go in
+16:37 and get a separate
+16:39 normal map from
+16:39 that height map that we showed here and
+16:43 this is going to be a black white
+16:45 channel height map
+16:45 it's going to take that normals map and
+16:48 mix it with this
+16:54 see i'm in project stream project by 3
+16:59 and
+16:59 right here
+17:05 now let's pump up
+17:05 our bump and it's going to be a very
+17:10 subtle difference until we turn on
+17:13 some reflection
+17:13 and also we need to get some additional
+17:19 so that was a way of getting a bump map
+17:20 in here you can
+17:20 i mean you might not even be able to see
+17:23 it on your screen but there is some
+17:23 height happening here another thing we
+17:27 can do is just generate a normal map
+17:27 from that image and i'm going to show
+17:29 you a resource that i use all the time
+17:36 since adobe has stopped supporting
+17:39 creating normal maps in photoshop
+17:40 it's
+17:40 nice to come in here and get
+17:47 an online
+17:47 normal map generator so all i need to do
+17:53 is navigate to that folder again
+17:53 this is our project 3 in 3ds here is
+17:55 where i'm at i need to organize where
+18:00 all these materials files are but
+18:02 let's just grab this guy
+18:02 and we're going to drag and drop
+18:04 and look at this automatically generates
+18:12 we can even do some edit i mean we could
+18:15 see this over here
+18:16 that
+18:16 right cool
+18:22 now i'm even going to add in
+18:25 the original diffuse color
+18:25 look at that look at what the normal
+18:30 happens then right isn't that funny
+18:31 so
+18:33 um
+18:33 first of all here's our heart map
+18:37 drag that back in
+18:45 of shows our wrapping let's see and then
+18:48 let's see what do i want here
+18:48 we can even load in a separate object so
+18:52 i can even have my like logo to cube in
+18:54 here isn't that funny
+18:54 and then we can adjust our height our
+18:58 level our bevels
+19:01 blur or sharp
+19:01 maybe i want a high level on this
+19:03 if i want it very sharp i think i do
+19:05 want it sharp actually and i might even
+19:09 increase the strength
+19:09 who knows so now i can download this
+19:16 and whatever you name here
+19:16 is going to be what your download ends
+19:19 up being as a name so if you're
+19:21 processing a lot of these
+19:21 you can get through them pretty quick
+19:25 that way project live stream project
+19:27 three here's our 3ds
+19:28 let's just make a materials folder
+19:37 and while we're at it let's just
+19:37 i can organize this folder by type which
+19:41 is nice we can also use connector to
+19:41 view all this which is also super super
+19:46 nice in fact let's show that if you're
+19:48 unfamiliar with connector
+19:48 this is an awesome little utility here
+20:02 so in connector
+20:04 here we go
+20:04 this up i'm going to add a folder
+20:07 i'm going to add my project folder that
+20:10 we're working on right now
+20:10 project stream live project 3
+20:14 here we go
+20:14 and what that's going to show me is if i
+20:20 show files in subfolders
+20:22 close this dialog out
+20:22 now i can filter just by images
+20:28 and i can see all these images in one
+20:29 place then i can drag and drop to
+20:31 wherever i need to
+20:32 kind of
+20:32 clever so in particular in this
+20:36 um let's actually make it so that we're
+20:41 not showing files in subfolders and now
+20:43 we can see all these images right
+20:46 and we can select all these
+20:48 and
+20:48 my windows key bring it over to this
+20:54 and then drag it in here
+20:54 super quick way of moving all those
+20:58 materials from two levels down
+20:59 right
+20:59 super fast way so same thing now we can
+21:04 go to the 3ds folder
+21:04 and we've got all these images again
+21:09 and
+21:09 here we go
+21:11 super quick way we're bringing this all
+21:17 into one location
+21:18 um
+21:18 yeah why not replace the files not too
+21:22 worried about it
+21:23 here we go
+21:23 looks like we have a few stragglers here
+21:27 but you know what
+21:27 again not worried about it so this is
+21:29 connector if you're unfamiliar just such
+21:34 an awesome awesome program
+21:34 if we click back to this 3ds level and
+21:38 we filter by models we're going to see
+21:40 here's that henry 3ds
+21:40 and after a while this will parse
+21:42 information from this and actually show
+21:43 us a preview of the 3d believe it or not
+21:47 so
+21:47 pretty clever um all right so in
+21:52 materials we want our
+21:53 um
+21:53 are we looking for we're looking for
+21:56 that
+21:56 one named thing here and
+21:59 this doesn't look like it's updated
+22:02 let's take a look
+22:02 oh these are all pngs so let's go all
+22:10 here we go
+22:10 i want that
+22:16 normal
+22:17 okay
+22:17 and actually let me hit cancel i don't
+22:20 want a png
+22:20 i want a jpeg there we go
+22:23 do that that's a little better
+22:27 project stream project 3
+22:33 actually do we want
+22:33 that to be our location for materials i
+22:36 think we'll just put it
+22:46 we're talking
+22:46 organized organized chaos here
+22:58 let's grab
+22:58 the correct one here
+23:00 i did that stupid error i always do
+23:04 which is i didn't
+23:04 uh copy the file pathing
+23:07 i could have just pasted it here and
+23:08 that would have been easy in fact let's
+23:11 just
+23:11 back up and show you that so
+23:15 downloaded
+23:15 that image right and it went into my
+23:18 materials folder
+23:18 and it was the normal
+23:33 oh here we go this guy right here
+23:41 closed search
+23:41 um all i needed to do was copy this
+23:44 directory
+23:44 and i could have even copied
+23:49 file
+23:49 location itself right and we could have
+23:52 done that right off the bat
+23:59 there's a way to get the full file
+23:59 pathing but i'm not sure all right so
+24:04 let me close this down
+24:04 all i would have needed to do then is
+24:11 paste if i had the full file path which
+24:21 um anyways we're gonna paste that here
+24:23 there's our materials
+24:23 now we can locate that
+24:33 and didn't give us much difference here
+24:34 but we're going to start seeing a
+24:34 difference in this floor once we start
+24:37 putting some lights in the scene so
+24:38 let's do that let's
+24:38 let's get a light set up in here so i've
+24:44 got a section for lighting
+24:44 this is a lighting i've already saved
+24:48 in a while since i've been in here
+24:50 emitters there we go
+24:50 i think i like this guy yeah i do
+24:54 and i can just kind of drag and drop
+25:04 when i'm doing work in twin motion i
+25:06 usually like to organize my folders
+25:08 especially if i've got very large
+25:08 projects because then i'll turn off
+25:12 certain sections of a
+25:12 project that we're not seeing it over
+25:16 and over again
+25:16 not seeing it in 3d the your computer is
+25:32 simple drag and drop that works well
+25:33 we've even got some omni directional
+25:34 lights that we can pop in kind of here
+25:38 might do two or three to create
+25:40 different shadows
+25:40 on that ceiling right
+25:42 then we're getting you know something a
+25:45 little bit more
+25:45 true to that fixture
+25:51 tone it from there
+25:51 put some filters in our final
+25:54 um that certainly makes for some
+25:58 interesting shadows on the wall
+26:04 go
+26:04 this one on pin this to the very bottom
+26:11 pin that to the bottom now we're getting
+26:13 some light against this
+26:15 this countertop
+26:15 let's tweak on this countertop a little
+26:19 bit we'll get some gloss in here
+26:19 crank this reflection up and we're going
+26:23 to add a map to this reflection because
+26:25 i want to see
+26:25 a little bit of
+26:27 grain in it if you will even though true
+26:31 calcutta doesn't show a lot we're going
+26:40 this particular one i think is
+26:42 i think we created
+26:42 a second calcutta for this
+26:51 okay
+26:51 calcutta calcutta 2 that's what this is
+26:54 so here is our bump and roughness or the
+26:59 one in the same
+27:00 here we go
+27:00 now as we roll around
+27:03 here there should just be a little
+27:05 variation in this just a little bit of
+27:07 graining yeah some dispersion i can see
+27:11 it here in this bottom corner it's very
+27:13 slight but every little detail counts
+27:15 for this stuff
+27:15 let's finish up this too i kind of
+27:18 walked away from this but
+27:21 ultimately
+27:22 we want to
+27:22 affect that floor so that we get a
+27:24 little bit of that gloss there we go
+27:25 that's starting to look like something
+27:28 now we're starting to get somewhere all
+27:32 right i also want to take tone down the
+27:38 or maybe
+27:38 let's bring it up so that we can see it
+27:43 and let's change the scale
+27:45 scale down
+27:45 just a little bit and then bring that
+27:49 bump back down
+27:49 barely want to see it and in fact it's a
+27:54 little too yellow
+28:03 if you know your color codes you can
+28:04 just
+28:04 drop them in there that makes it super
+28:07 easy especially if you're just pulling
+28:09 stuff from
+28:09 say a photoshop
+28:10 these stools are different textures
+28:14 every one of these is a different
+28:21 play with them a little bit i'm just
+28:22 going to bring
+28:22 that roughness up on them
+28:25 that reflection i should say
+28:27 these guys are metal i've got some metal
+28:31 i could drag and drop or we could simply
+28:33 go turn on
+28:34 metalness
+28:34 and pull that reflection up start seeing
+28:37 it
+28:37 and
+28:42 let's change this let's clear this
+28:42 we don't need to see an actual texture
+28:44 there
+28:44 and then we have control over the color
+28:54 now
+28:54 now we're starting to see some reaction
+28:56 in that reflection right that looks good
+29:02 cabinets what do we want to do with
+29:02 cabinets just slight reflection probably
+29:06 not too much
+29:06 we might actually want to put some kind
+29:10 of a wood grain in the reflection so
+29:10 let's check that out let's go look for
+29:17 wood grain material here in my catalog
+29:21 of materials wood bump normals
+29:22 um
+29:22 something high contrast or low contrast
+29:26 let's try high contrast first and just
+29:26 see what that does and see if that makes
+29:30 any effect
+29:30 and we can bring it up
+29:32 very subtle effect you can probably not
+29:36 even see it in
+29:36 your preview facebook compresses our
+29:41 image so you don't see what i see
+29:43 i see very very subtle
+29:46 wood grain
+29:47 um
+29:47 crank that
+29:48 up just a little bit more see if i can
+29:54 okay
+29:54 and i'm probably gonna increase my scale
+29:58 so we can see that there we go now
+30:17 all right subtle subtle differences
+30:18 there
+30:18 um i probably want to put an omni light
+30:23 in here just so it's lit and we're just
+30:38 um let's mess with our sunlight let's
+30:40 get this sunlight to splash in just a
+30:41 little bit
+30:41 get into our location settings
+30:44 our time of day can move this around
+30:49 our
+30:49 month in the year can move this around
+30:56 maybe i want a little later time of the
+30:57 day
+30:57 and change our north offset
+31:00 what can we do here is that interesting
+31:03 that's a lot isn't it
+31:05 kind of crazy
+31:05 keep it like that
+31:08 interesting light coming in the room
+31:17 this is kind of my workflow i will tell
+31:19 you i'm not very organized when i'm
+31:22 doing twin motion stuff because i'm
+31:25 enjoying myself
+31:25 i love working in this program it's like
+31:29 you're playing in a video game um
+31:29 okay back to color coding i do have some
+31:33 stainless steel materials that we can
+31:35 throw on to this guy right here and
+31:35 maybe we want to throw in a chrome we
+31:38 can use one of the
+31:38 drums built into twin motion i don't use
+31:42 a ton of
+31:42 their stuff i usually have better
+31:47 materials than what they have
+31:48 um
+31:49 so
+31:49 yeah like that chrome ah man
+31:54 it's just so sp
+31:55 it's
+31:55 just so high contrast there's no there's
+32:00 nothing to it
+32:01 so
+32:01 maybe in our reflection channel we want
+32:04 to just throw
+32:04 something to muddy this up a little bit
+32:08 but not too much
+32:08 so we need something with
+32:10 high level black in it let's just look
+32:14 in
+32:14 well we'll start in metals
+32:21 in a dark texture unlike this what does
+32:23 this do
+32:23 now we're going to increase
+32:26 that drop it down just a little bit
+32:30 something like that
+32:33 not great not great
+32:40 this looks like it's a glass appliance
+32:42 smooth
+32:42 if we change it to a glass what happens
+32:47 interesting
+32:47 so there must be a material behind this
+32:57 yeah
+32:57 i mean we could change it here and then
+33:03 bring the color up
+33:03 it doesn't really do what i want it to
+33:11 let's see what else picked up that
+33:11 appliance there we go nothing there
+33:15 someone's messaging me on messenger but
+33:20 you guys want to comment in the chat
+33:22 window here
+33:22 happy to respond back
+33:32 just taking a second
+33:32 onto someone but there we go all right
+33:36 comment section this video actually gets
+33:45 um that room's not interesting there's
+33:47 not a whole lot to this particular
+33:49 render honestly
+33:49 actually already looks pretty good let's
+33:53 take a look at
+33:53 this back here we can put some glass
+33:57 textures in here
+33:57 um i like to use item glass for this
+33:59 kind of stuff typically but you can see
+34:03 here
+34:03 these bottles are you know very simple
+34:09 models
+34:09 so there's some smoothing going on in
+34:12 chief when you get these
+34:14 um
+34:14 bottles
+34:15 so twin motion doesn't have that same
+34:25 let's just change play with our opacity
+34:26 a little bit here
+34:26 because this is just a pvr render spin
+34:28 motion will actually do let's just check
+34:31 this out we'll do a little ray trace
+34:31 real quick motion does ray tracing now
+34:35 isn't that cool
+34:35 we can change our sample rate let's just
+34:43 and then once the sample is done it does
+34:45 a denoiser which is awesome chief
+34:45 doesn't have a denoiser they don't use
+34:49 intel's optics denoiser i don't think
+34:51 they might but it's not in any of the
+34:53 documentation
+34:54 so
+34:54 this automatically denoises the shot
+34:55 then you have a pretty decent ray trace
+34:58 pretty good right
+34:58 you still have to have you know an rtx
+35:02 card but
+35:02 so now we're back to pbr
+35:07 okay
+35:07 um probably a metal texture back here
+35:12 would be good some kind of dark metal
+35:21 this metal texture
+35:21 yeah that's starting to look
+35:25 look like something
+35:25 um i have different wood textures let's
+35:29 take a look there let's go let's
+35:29 actually get into my materials catalog
+35:36 my twin motion materials catalog is
+35:36 lacking unfortunately i have not created
+35:41 enough of these but
+35:41 check it out here there you go
+35:43 that looks really sharp like that
+35:50 yeah very cool
+35:51 and
+35:51 the awesome part about twin motion is we
+35:56 can come in here and change our material
+35:59 mode to apply to object only
+35:59 and then we can get into something like
+36:03 their stock materials maybe they have
+36:04 they have artwork here i don't think
+36:07 they do
+36:07 he has neon's modeling but i have
+36:11 artwork
+36:11 so in my
+36:13 motion materials artwork
+36:15 oh you know what it's seeing this as one
+36:19 object dang it and that's something i
+36:22 could have prepped on my side to fix
+36:23 this
+36:23 so unfortunately i can't just replace
+36:27 label by label
+36:27 if i'd done a little bit more work
+36:28 before the import we could do that so
+36:32 it's a good reason to re-import if we
+36:36 these guys are supposed to be a metal
+36:45 yeah cool
+36:46 enough
+36:46 see all the faceted angles that come in
+36:50 that
+36:50 by default chief is smoothing
+36:59 um metal is my little cheat code because
+37:01 just playing with a roughness on metal
+37:01 and pbr can make for some pretty dynamic
+37:06 looking materials
+37:06 um and white's always the challenge you
+37:11 turn metal on on a white thing and all
+37:14 of a sudden it turns gray right
+37:14 and we can increase this reflection and
+37:17 everything but
+37:17 ultimately that still looks gray until
+37:21 you put in a map
+37:21 on your metalness channel or your
+37:22 roughness channel you can play with both
+37:29 so again i like to use a metal flag
+37:29 so it's just a bunch of little miniature
+37:33 dots and then play with my scale
+37:33 settings to get it to exactly where i
+37:37 want it
+37:37 pretty good
+37:39 on some reflection up just a little bit
+37:42 of reflection in some of this stuff
+37:43 sometimes you can't even tell that
+38:02 right
+38:02 um i think i
+38:04 leave a light off in here i kind of like
+38:08 the way that looks we could certainly
+38:08 do something with our rug i've got some
+38:13 great um
+38:13 rug height maps now
+38:20 so
+38:20 we could just do a height map like this
+38:27 but
+38:27 i have some new ones
+38:35 in my rugs
+38:55 and then we can change that
+38:55 bump up a little bit there we go now
+38:58 from a distance that very much looks
+39:00 like a rug right
+39:13 okay what else do we have
+39:13 but there's nothing in here to look at i
+39:16 wonder if this is a pantry i actually
+39:17 don't know
+39:17 so i was hired just to do this shot
+39:20 that was all i needed to do really quick
+39:25 easy job just to do this shot um this
+39:25 rendering is on my channel somewhere but
+39:30 anyways
+39:30 it's uh it's fun to come in here and and
+39:38 show them what can happen just in 3d and
+39:39 everything
+39:39 this is easy to update to
+39:44 change my
+39:44 my field of view
+39:46 i know like a 55 or something
+39:49 now we're
+39:49 working in like composition right
+39:58 now we can get some of these really
+39:59 great
+39:59 photo shots here
+40:01 then if we kick on our
+40:13 oh if i look at my live it looks like
+40:15 i'm just frozen
+40:36 anyone in here
+40:44 see if you type in the chat window that
+40:44 should show up on the screen here pretty
+40:47 soon
+40:47 alright so kick this ray trace back off
+40:50 what else we need not much this was it i
+40:55 mean this looks pretty good i do have
+40:56 some siding material to kind of pump
+40:58 this up
+41:02 i mean i can go through and tweak this
+41:03 out until it looked perfect but you
+41:04 don't really need it i might add some
+41:05 decor i have some additional decor from
+41:10 twin motion that i didn't have in
+41:10 chief so we could do something with that
+41:14 um
+41:14 let's go
+41:15 where's my siding materials here
+41:21 and i have that same material but it's a
+41:23 little different i've got a couple
+41:23 different options here i need to scale
+41:29 a little rough but
+41:29 yeah something like that
+41:37 oh funny
+41:37 made the mistake
+41:51 yeah these are different uv maps so now
+41:53 they'll scale differently i don't need
+41:53 to fix that though because no one's ever
+41:55 going to look
+41:56 like this funny
+41:58 should paint the siding
+41:59 also got a roofing material that's
+42:07 it's been a lot of time making realistic
+42:08 roofing
+42:08 and is it challenging to tell you what
+42:10 and you got to go through every job it's
+42:13 a little different you got to go through
+42:14 and
+42:14 mess with the height map just a little
+42:23 we can make a cool environment out here
+42:26 make a whole scene let's just drop in
+42:26 some trees and stuff that would be cool
+42:35 bringing a rocky grassland
+42:35 with that and now we're going to create
+42:42 rocky terrain in the background and we
+42:44 can change our city backdrop if we
+42:45 wanted to
+42:45 get rid of our ground plane
+42:59 there's our grassland terrain and
+43:02 you can see our project is
+43:03 lifted right now
+43:05 um if you
+43:05 do your own
+43:06 data smith created terrain
+43:10 um
+43:10 like actually let's try this let's just
+43:13 i'm gonna
+43:13 import from another
+43:19 um
+43:19 another source here let's see another
+43:27 go up a couple levels work for a company
+43:29 called crystal creek
+43:30 and
+43:30 they just do some really awesome stuff
+43:33 but
+43:33 something that's nice is i have all
+43:36 these height maps
+43:37 and
+43:37 so what will happen is
+43:39 going to redo the terrain based on that
+43:43 height map look at that
+43:43 and now that once i've done that
+43:45 this is the actual terrain of the site
+43:49 that we're building on centered on the
+43:50 house so this was where the house was
+43:52 developed
+43:52 now i can bring this terrain up
+44:02 so for that particular builder i always
+44:07 their terrain and likeness
+44:10 so we actually bring in
+44:10 their terrain and then i study the
+44:13 landscape
+44:13 and i recreate trees and elements in the
+44:18 landscape to match their environment
+44:23 let's go 100 why not
+44:23 what does that do too much
+44:27 way too much
+44:29 25.
+44:29 much there we go
+44:33 all right
+44:34 hey
+44:34 what's up teresa how's it going
+44:40 i see you i see you
+44:42 all right so
+44:42 let me change the speed at which i'm
+44:44 using my 3d mouse there we go now i can
+44:47 really navigate around i'm going to hit
+44:49 my number six key and i want to move
+44:49 this terrain to a place that's a little
+44:53 bit more flat
+44:53 and then i can sculpt this terrain
+44:56 and i also like to bring in my terrain
+45:00 textures because they look better as
+45:03 well i'm oftentimes working in
+45:03 this particular developer is in um
+45:07 arizona so the terrain that i've created
+45:11 a lot of times is for arizona based
+45:13 terrain
+45:13 desert land so i'm gonna flatten this
+45:18 section right here
+45:18 i'm gonna flatten it for a while i'm
+45:21 pretty used to terrain tools in this
+45:23 software so
+45:23 um i'll usually flatten more than i need
+45:26 to flatten
+45:26 and then kind of do a slope back from
+45:29 there so we can use the slope tool here
+45:35 all right
+45:35 and now let's get it like a spattering
+45:41 of trees let's also change our
+45:43 our terrain paint
+45:43 it takes a second to load in now when
+45:46 you click on paint terrain it brings you
+45:49 into twin motions catalogs which you can
+45:53 back out and go to your own catalogs and
+45:55 in here i've got landscaping and i might
+45:57 drop in
+45:57 oh let's see
+46:00 something like that and that looks
+46:03 pretty cool right and then i can
+46:03 actually paint in grass if i wanted to
+46:07 or create my own grass
+46:07 um let's change the diameter here maybe
+46:13 i want just grass right here
+46:13 i don't know i need to scale that too
+46:21 something like that we can actually do
+46:21 the 3d grass belt in the twin motion but
+46:27 first let's just get into
+46:29 um
+46:29 some of our vegetation tools here so
+46:32 i can drop in a couple different trees
+46:35 and just paint these around i can change
+46:38 these after the fact so i'm not too
+46:38 worried about which ones i'm grabbing
+46:40 right now and just really just kind of
+46:42 sampling the environment to see what it
+46:46 all looks like right so
+46:46 change the diameter here and start kind
+46:57 make sure not to hit your geometry in
+46:58 the house because that's when we get
+47:05 now i can narrow this down
+47:06 let's get
+47:06 flattering here and then i actually have
+47:11 something in my paint terrain by the way
+47:14 that helps me oops let's get back and go
+47:16 back out a couple levels
+47:16 decent landscapes let me just select
+47:21 this paint terrain i'm gonna go
+47:21 back out again and then in my user
+47:26 library somewhere
+47:26 i didn't see it actually but let's take
+47:31 a look in landscaping yeah shoot it has
+47:36 disappeared i had a custom texture for
+47:38 painting these hillsides to look like
+47:38 trees so that you didn't actually have
+47:42 to use the geometry
+47:42 it's kind of clever so
+47:44 anyways let's get back into the house
+47:46 and see what this all looks like i gotta
+47:49 change my
+47:49 speed here speed of the camera boy
+47:52 doesn't that look a little bit more
+47:53 convincing look at the background we
+47:54 still have the city in the background
+47:58 um
+47:58 i also want to just take a look at some
+48:08 what happens when we add some filters in
+48:17 that's cool i kind of like that
+48:19 bringing
+48:19 a red tint into our highlights level
+48:27 that's ugly
+48:27 oh beauty one kind of gives gives some
+48:38 or all white cabinetries let's try cine
+48:46 those are very plain there's high
+48:48 contrast ooh that's rough
+48:48 day midday day midday looks okay
+48:53 fujifilm maybe no
+48:54 hip to
+48:54 any of these screaming to us yet not
+48:57 really
+48:57 but yeah it's nice to put filters on on
+49:02 the fly especially when you have these
+49:04 um just all white scenes
+49:09 when did i like here i liked one of
+49:14 i don't want it to be too
+49:15 washed
+49:15 washed out though i want that contrast
+49:25 to drama
+49:25 i got like day midday kind of like that
+49:28 okay
+49:28 look at that for now
+49:31 exterior looks cool we can kind of see
+49:36 some stuff in the exterior um
+49:43 see it's not in urban i want to go to
+49:44 location
+49:44 background there we go i do not want the
+49:49 city i want countryside or mountains
+49:50 there we are
+49:50 change that city in the background
+49:58 i've been pumping a ton of media lately
+50:00 so i'm getting notifications everywhere
+50:02 but if you want to talk to me right now
+50:04 come in the chat like teresa just did
+50:04 love that people are coming in here and
+50:08 checking this out
+50:09 um
+50:09 what do you think this is i think this
+50:14 is a dining area probably
+50:14 just throw some stuff in here
+50:25 nothing in dining assemblies nothing in
+50:29 tables uh oh i'm missing stuff that's
+50:39 oh no what's happening here we're
+50:41 missing all kinds of things
+50:41 let's go see what happened apparently
+50:46 all my stuff disappeared
+50:47 so
+50:47 onedrive
+50:48 in motion
+50:51 libraries
+50:51 here's your library
+50:55 motion models
+50:58 living room
+50:59 assemblies
+51:00 empty
+51:00 check that out
+51:07 well this is good troubleshooting if you
+51:09 have your stuff in the cloud it just
+51:10 disappears
+51:10 gotta go find out what happened to it
+51:27 oh someone has access to this
+51:27 and they got rid of it that's not good
+51:33 so i need to find out
+51:33 how to bring this back that's fine do
+51:37 that at a later time it's probably
+51:37 hogging a bunch of resources for them so
+51:46 okay so i have no
+51:51 but i think this is good i think we'll
+51:51 present this on twin motion and then i'm
+51:54 going to share the link on this feed and
+51:57 you guys can see where this is hosted
+52:03 okay so let's see if i remember how to
+52:07 um
+52:08 mine in first of all
+52:10 i didn't super quick i love that process
+52:20 our workflow here i've done this plenty
+52:22 of times before but it's been a while
+52:24 since i've been here
+52:24 open twin motion cloud i don't want to
+52:36 so maybe in our here we go
+52:36 cloud early exit presentation panorama
+52:44 i think we're just going to do
+52:44 we have to create a new presentation no
+52:47 we don't
+52:47 i've just hosted this before it might
+52:51 need to just have a
+52:53 create an image
+53:12 i don't have to look this up funny
+53:23 first collector no
+53:31 and the feet because i don't know what
+53:36 okay
+53:37 uh
+53:37 let me just save this as first
+54:15 okay we say that now
+54:16 just
+54:16 i'm gonna have to look at this up i
+54:17 don't think i've ever had to create a
+54:19 presentation to export the twin motion
+54:23 cloud
+54:23 export
+54:24 and watching cloud
+54:33 our panorama is set to twilight
+54:33 options like the content so it seems
+54:37 that they've changed this service
+54:37 because i've not needed to do this
+54:39 before it's usually just a walkthrough
+54:50 okay here and click ok creating our
+54:57 presentation one that's it and we're not
+54:59 even going to do a click-through path
+55:01 i'm not worried about it
+55:23 i'd rather just export a panorama
+55:23 apparently we don't get to export the
+55:27 full
+55:27 model anymore he used to be able to so
+55:30 maybe we'll just do an image instead but
+55:45 i'm a set this is all new i have to
+55:45 learn this now i don't know what's going
+55:50 on my my all this stuff changed if we go
+55:54 through let's just open up my
+55:54 open up twin motion cloud and we'll take
+56:08 yeah so we've got some you know other
+56:08 twin motion cloud presenters that i did
+56:11 here
+56:27 and that'll load up
+56:29 meanwhile
+56:29 who i can respond to here
+56:41 i think i want to change my
+56:41 page to not be anonymous because i can't
+56:46 see who's who's watching and when
+56:46 nice to be able to see who's here and
+56:59 okay back in
+56:59 the mission cloud
+57:03 on
+57:03 the other two
+57:17 push to cloud there it is that's the
+57:17 panel i was like oh aha i know where it
+57:20 is
+57:20 there we go
+57:21 i needed to turn
+57:23 this guy on right here
+57:25 and see our top bar show navigation bar
+57:31 push the cloud boom
+57:37 see now we're generating the data and
+57:37 it's going to open that in the cloud and
+57:42 here we can see what it looks like to
+57:44 the client side right
+57:44 ooh that bump map was bad on this one
+57:51 so now the client can come in here
+57:53 and move around
+57:53 this is on the cloud right now we're not
+57:57 in twin motion this is just on the
+57:58 website
+57:58 so they've got a link to this oh look at
+58:03 that i built in some custom stuff
+58:03 took a little extra time but built that
+58:06 in maybe i should show this to the
+58:09 client instead
+58:09 right because it's kind of cool to see
+58:13 those doors opening let's close our
+58:14 navigation menu here
+58:14 look at that our lazy susan popping up
+58:19 our garbage
+58:20 popping up
+58:20 that cool animated some of the stuff
+58:26 that's built in the chief
+58:26 this is a good one good example
+58:35 a little bit of a headache
+58:35 shuttering around here but sure why not
+58:41 so this is transferring out and that's
+58:43 it that's the whole process
+58:43 pretty quick and easy when you finally
+58:47 know what you're doing
+58:47 they hid that push the cloud section
+58:55 um
+58:55 anyways i'm going to be logging off
+58:58 i'll go ahead and post a link to some of
+59:01 the stuff for the cloud presenter and
+59:03 you guys can take a look i gotta jump
+59:06 back into another session where
+59:06 i'm just working in chief entirely in
+59:09 chief so
+59:11 um
+59:11 come on my feet if you're coming into my
+59:15 feed make some requests what would you
+59:18 like to see i've got so many things
+59:18 going on right now i've got plenty to
+59:19 work on also always taking on more work
+59:23 so just let me know
+59:24 and
+59:24 yeah come in hang out ask questions
+59:30 not a lot of questions yet
+59:30 that was great thanks thank you theresa
+59:34 thanks for chiming in all right take
+59:36 care
+59:36 if i can figure out how to end this

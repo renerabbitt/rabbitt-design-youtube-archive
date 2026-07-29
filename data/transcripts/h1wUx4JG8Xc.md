@@ -1,0 +1,716 @@
+---
+videoId: h1wUx4JG8Xc
+title: Krea Ai Render Stacking With Photoshop For Better Renderings From Chief Architect
+url: "https://www.youtube.com/watch?v=h1wUx4JG8Xc"
+status: imported
+---
+
+# Transcript
+
+0:01 What's going on VIP?
+0:03 In this video, I'm going to show you how
+0:06 I take this rendering right here, which
+0:08 is done by someone else. This is someone
+0:10 else's design.
+0:12 Believe the gentleman's name is Juan
+0:13 Marcos.
+0:14 And he posted this on the web and then
+0:17 it was kind of like a little bit of a
+0:18 community challenge. So I'm going to
+0:20 take this image and I'm going to turn it
+0:22 into this image. Now,
+0:26 pixel to pixel, this is off. I typically
+0:30 have a true pixel to pixel
+0:32 representation
+0:33 of a reworked rendering. And in this
+0:36 case, it's a little bit different. If
+0:39 let me just toggle this on and off
+0:40 again, you're going to see that a few
+0:42 things just shift just slightly and I'm
+0:45 going to show you why that is. I'm still
+0:47 using Criya and Criya to me is is still
+0:52 the gold standard for AI and keeping
+0:55 architectural elements the way that
+0:57 they're supposed to be and enhancing
+0:58 them.
+0:59 And
+1:01 this one was a little bit more
+1:02 challenging because it didn't start from
+1:04 a render that I created. My base
+1:06 renderings
+1:07 and you know, nothing against this
+1:10 artist. My base renderings are going to
+1:12 look a little bit better than this. So
+1:14 I'm going to get better results out of
+1:15 Criya right out of the box. But it's
+1:17 really good for me to show what happens
+1:19 when we don't necessarily we're not
+1:22 this, you know, top tier rendering
+1:24 technician. We're just doing what we
+1:27 need to do to get a plan out and get our
+1:29 design done, right? And so maybe we
+1:32 haven't invested thousands of hours in
+1:34 materials like I have and we don't have
+1:35 my library. So this is what we end up
+1:38 with, okay?
+1:40 And that's fine. We can still get to
+1:42 that
+1:43 gold finished rendering.
+1:46 And the process here, and let me just
+1:49 start with showing Criya, is I'm going
+1:52 to send it to Criya and I do a number of
+1:54 things. Now, the model that I use, and
+1:57 this is oftentimes confusing when I'm
+1:58 posting about Criya online, is I'm using
+2:01 the Criya legacy model. To me, this is
+2:04 the absolute best pixel to pixel AI
+2:08 based enhancer that you can find. They
+2:11 have a bunch of other models and there
+2:13 are some limits to this legacy model and
+2:15 they don't really probably want you to
+2:17 use the legacy model cuz it takes the
+2:19 least amount of I'm just going to call
+2:22 them points, that's not the correct
+2:23 term, but the legacy model is max 4K
+2:27 resolution, which for the most part,
+2:28 that's perfect for me. If I'm doing a
+2:30 spherical rendering, I need more than
+2:32 4K. I can't use that legacy model.
+2:35 And the next part is, you know, just
+2:38 reviewing some of these other ones,
+2:40 they're continuously adding new models,
+2:43 but to date, I've never seen anything
+2:45 perform the way the legacy model has
+2:47 performed. I'm really going to try maybe
+2:50 writing the the developers of this and
+2:54 kind of push for them to keep enhancing
+2:56 that legacy model because it's just
+2:58 fantastic for architecture.
+3:01 So, let's just back out a little bit and
+3:03 we're going to see someone was asking,
+3:05 what are my settings for this?
+3:07 I will always almost always do a setting
+3:09 where I'm pumping up the AI strength,
+3:12 okay?
+3:13 And that's because I'm expecting to get
+3:15 some elements that look really realistic
+3:19 and then I will take those elements and
+3:21 mask out the rest in Photoshop, all
+3:24 right? And so that's the opportunity to
+3:27 grab something that was just a a perfect
+3:30 three rendition of some element that
+3:32 looks really realistic, but it's going
+3:34 to screw up other parts of the model
+3:37 other parts of the image.
+3:39 You can see here
+3:41 on my my first start here, I'm doing
+3:44 four or five different passes on this,
+3:47 okay? So the next one up, you can see I
+3:49 turned the AI strength way down. That's
+3:52 where I'm going to grab the rest of this
+3:54 image that might look good and as we
+3:56 kind of pan through this, you can see it
+3:58 barely touched anything, right? And so
+4:00 our grass doesn't look realistic. Our
+4:02 stone doesn't really look realistic. So
+4:04 there's a few things here that
+4:06 it's not really going to improve.
+4:09 I knew from the start on this particular
+4:11 image that I wasn't going to get a base
+4:13 model that worked perfectly well. So
+4:15 from the start, I knew that I was going
+4:18 to have to keep re- bringing this
+4:21 re-introducing this into Criya over and
+4:23 over again to get elements to look more
+4:25 realistic. We're stacking, okay? So
+4:29 we're getting it to look a little bit
+4:30 more realistic,
+4:32 doing some work in Photoshop, bringing
+4:34 it back into Criya so that we get Criya
+4:38 to understand, oh, this is supposed to
+4:40 be realistic.
+4:41 Keep stacking, all right?
+4:44 Let's go to the next pass here. I turned
+4:46 AI strength way up, right? And so now
+4:49 we're starting to see, you know, this
+4:52 tree element right here, that's looking
+4:54 pretty good. That cactus looks
+4:55 absolutely ridiculous, right? That door
+4:58 looks great. We're seeing some stuff in
+5:00 the ground that looks really good. I
+5:01 love what it did to the to the lawn
+5:04 here.
+5:05 It seems appropriate for the region,
+5:08 right? The background trees look really
+5:10 great. That mountain in the background
+5:12 looks really great. It's doing a little
+5:13 bit better of a job with that Spanish
+5:15 roof. Not too bad. It got rid of the
+5:17 oranges and it kind of muddled up all
+5:20 the stonework, but it did a really good
+5:21 job with these
+5:24 chairs and tables. And then I taken
+5:27 another pass and let's see what did I do
+5:29 with this one? Um
+5:32 I just kind of ran this through again
+5:34 and I lowered resemblance to see what it
+5:37 would do with the cactus to see if I
+5:39 could get that back and then the next
+5:42 pass,
+5:43 same kind of thing, lowered the
+5:45 resemblance, up the AI strength just to
+5:48 see what it would do, okay?
+5:50 So then we bring that into Photoshop and
+5:53 that's taken us all the way back to this
+5:55 and and what I tried to do for the next
+5:58 pass was I tried to get Photoshop to
+6:02 give me cactus and
+6:04 honestly, did a really bad job, all
+6:06 right? And and then this is me bringing
+6:10 in that really
+6:13 where resemblance was a little bit low
+6:15 and then what do we call it? It's AI
+6:18 strength. I was calling it creativity.
+6:20 AI strength was really high. So I
+6:22 brought that in, all right? And then I
+6:24 kind of masked out some elements for
+6:27 that.
+6:29 And so then I did another
+6:31 did another pass where I kind of
+6:33 I brought in this time I brought in a
+6:36 little bit better grass from one of
+6:39 those other passes just so that I can
+6:42 export this again
+6:44 and send it to Criya.
+6:46 Now, something that I don't often use,
+6:48 but I need to use when I've got a base
+6:50 image that's not the best base image is
+6:53 I need to
+6:55 to change just certain parts. So in this
+6:58 case, the cacti
+7:00 don't look good. So I'm going to bring
+7:02 this over to what
+7:04 Criya calls edit, which is at the top
+7:06 panel here. So if I click on edit, this
+7:09 is where you're going to see that all I
+7:11 said was I give it a prompt and I said,
+7:13 replace the cactus with something that
+7:15 looks realistic and give me two
+7:16 iterations of this. That's what this
+7:19 down at the bottom of the screen here,
+7:20 okay?
+7:21 And so it gave me these two.
+7:24 And so this second one is the one that,
+7:27 hey, this is actually looking pretty
+7:28 good. Let me take this out of Criya,
+7:32 bring it back into Photoshop.
+7:35 So that's what this next part is going
+7:37 to be about is we're going to see that
+7:40 starting to mask those in. There we go.
+7:44 So now I have a new base image that's
+7:47 true to the architecture
+7:49 and it's got some of these grass
+7:52 elements. This looks kind of funky, you
+7:55 know, my masking is is leaves a lot to
+7:58 be desired. I didn't do a great job of
+8:00 masking. I just did it rough. Why is
+8:03 that? Because I know that I don't need
+8:05 to spend a ton of time masking because
+8:07 I'm going to send it to Criya and Criya
+8:09 is just going to understand what I'm
+8:11 after here and give me something new. So
+8:15 I'm saving time and efficiency by
+8:17 knowing that I get to just then take
+8:19 this back out, send it to Criya.
+8:21 So now let's go to Criya one more time.
+8:23 Let's go back to our enhancer. Let's
+8:25 look at what I did in the next pass is
+8:27 that I gave it this, which is um
+8:32 and you know what? It looks like I did
+8:34 one more set of masking on that grass. I
+8:36 did. And I'll show you exactly what I
+8:39 did with this mask. I'm going to expand
+8:41 this. If we look at the layer stack
+8:43 here,
+8:44 I have just a
+8:46 a stockpile of images. I'll show you
+8:49 what these images are. Let me just go to
+8:51 the top most layer where we're seeing
+8:52 kind of my final result is I'm going to
+8:55 get into my folder explorer and let's
+8:57 just show you what this looks like,
+8:59 okay?
+9:00 In my assets folder, I have something
+9:03 called images. And so over time, if
+9:07 you're getting into Photoshop, I am
+9:09 collecting images.
+9:12 And I know it might be hard to read this
+9:14 on the screen, but
+9:16 I've just organized these very clearly.
+9:19 You know, these are things that will
+9:20 enhance lighting. I've got images of
+9:23 lightning. I've got images of light
+9:24 streak. For example, if I get into
+9:27 lightning and we see that I've got just
+9:29 this image of lightning dark. That's all
+9:32 this is. What do we do with this? Watch
+9:34 this. I'll drag this into Photoshop real
+9:36 quick.
+9:38 We'll overlay right on the top. How is
+9:40 that helpful? Well, if we switch this to
+9:44 a blending mode of screen,
+9:47 look what happens. I suddenly have a
+9:49 lightning strike in the shot, okay?
+9:53 This is this is how we utilize these
+9:55 things, just these stock images.
+9:57 It used to be that I needed to then
+9:59 confirm this and make this look really
+10:01 really realistic. I don't need to do
+10:04 that anymore because Korea handles that
+10:06 for me. All of the
+10:08 minor little details I would need to do,
+10:10 maybe kind of feather this thing out so
+10:12 that it the lightning's not so
+10:14 pronounced, maybe faded, change the
+10:16 opacity. I don't need to do that anymore
+10:19 cuz I can send it to Korea and it will
+10:20 polish those things out for me. So, that
+10:23 really speeds up my workflow.
+10:25 So, with that being said, I'll show you
+10:27 what I did. I came to my stock pile of
+10:29 images and in here I have a section
+10:32 that's probably called grass. I do.
+10:36 So, I found some image of Here we go.
+10:39 Artificial grass. I get to bring it in
+10:41 here and what's great about this is I
+10:44 don't need to spend a ton of time
+10:46 figuring out how to make this look
+10:47 realistic. I just got to come and snap
+10:50 this down to the bottom.
+10:52 I can use the move tool, hit alt, and
+10:55 kind of bring this up as a second layer
+10:58 and kind of pass this in, okay?
+11:00 And then I did it one more time for this
+11:02 area. So, for this, I selected it, added
+11:06 a mask. Okay? I inverted the mask.
+11:09 Same thing. I select this guy, add a
+11:11 mask. Control I inverts the mask. Now I
+11:15 get to hit the brush tool and paint this
+11:17 back in. X will change from foreground
+11:20 to background. There we go. I did switch
+11:23 to like a fur brush or something with a
+11:25 little bit of texture to it to kind of
+11:27 you know, get this to look like it's
+11:29 overlaying the stone when I mask that
+11:31 in.
+11:32 So, again, I don't need this to look
+11:35 perfect. Whereas in past, before AI, I
+11:38 would have added an exposure adjustment
+11:40 layer and just to show you what that
+11:42 looks like, let me add this exposure
+11:44 adjustment layer. It's clipped to the
+11:46 layer below and I'm going to drop the
+11:48 exposure way down and then that
+11:50 generates a mask that then I can paint
+11:52 against and get a little bit of mixture
+11:55 of you know, under exposed overexposed
+11:57 to make that grass look realistic. Don't
+11:59 need to do that anymore. All I needed
+12:01 was something that looks somewhat
+12:03 realistic to be in this image in order
+12:05 to get that grass effect so that I could
+12:09 send it back to Korea.
+12:11 And so here's the base image I gave it
+12:13 which just this roughly patched in
+12:15 grass. And we can see this. I did a
+12:17 terrible job of masking this. Really
+12:20 terrible job of masking it, right? But
+12:22 it's just enough to
+12:25 come in, bring this into Korea, and look
+12:26 what it did with the grass.
+12:28 Did a good job, okay? So, now we're to
+12:31 an image again that's not too bad. This
+12:34 is looking pretty good. Um I obviously
+12:36 did multiple passes again where I'm
+12:38 changing
+12:40 um certain things. I did switch the
+12:42 model on this to bloom. I wanted to see
+12:44 what it would do with the cactus. I
+12:46 wanted to see you know, if it would do
+12:48 anything with the with the roofs to make
+12:50 them improved. I think it did a much
+12:52 better job at the Spanish roof here. Um
+12:55 I think I ended up stealing the patio
+12:58 table set
+12:59 from bloom. That looked pretty good. And
+13:01 then I liked some elements of kind of
+13:04 this grass overlaying the stone. But the
+13:06 major win here in the bloom model was it
+13:10 did to the stone
+13:11 what I think the original artist
+13:14 expected, okay? If we go look at the
+13:17 original,
+13:19 we're going to notice that this actually
+13:20 does not look like realistic stone. It
+13:22 looks like a stone texture that they
+13:24 stretched in the Y. All right? And so
+13:27 it's elongated in a way that I don't
+13:30 think they're actually going to find
+13:31 stone that looks like that in the real
+13:32 world. I think they made a mistake. All
+13:35 right? So, that's my interpretation. I
+13:37 think the stone actually looks like
+13:39 this. So,
+13:41 switching the model was a big plus on
+13:44 this one because I got the stone out of
+13:46 this. Perfect.
+13:48 And I got this kind of grass overlay
+13:50 edges. So, I stole that as an element.
+13:53 And then I did one more version of this
+13:55 where again I might have turned down
+13:57 resemblance and I might have turned up
+13:59 creativity and I got the lawn that I
+14:02 really really wanted and we got some
+14:04 things in the roof and in the cactus and
+14:07 you know, just how things are kind of
+14:09 um working with each other, shadows and
+14:11 all that to get to
+14:13 a better more realistic spot.
+14:16 Now, the next thing that I did was I got
+14:18 back into this edit again and I told it
+14:21 to give me more realistic looking
+14:22 Spanish roofs and this is what it gave
+14:25 me and bam, now we're getting somewhere.
+14:29 But I want to keep in mind in the edit
+14:32 mode in Korea, we are now changing our
+14:36 pixel to pixel perspective. So, this is
+14:39 not pixel to pixel anymore. So, we're
+14:41 doing something that I consider
+14:43 destructive. All right? And that just
+14:46 the trade-off needs to be there. There
+14:48 needs to be value in this for me to
+14:49 change and and use this roofline. And
+14:52 there was. I think this was a good kind
+14:54 of final step. So,
+14:57 let me go back to you know, the layer
+14:59 stack here and get back to our whole
+15:01 step-by-step processes. This is where I
+15:05 was at before I sent this to Korea and
+15:08 then you can see here I'm going to start
+15:09 layering in things, okay? Um I think I
+15:12 just
+15:13 took one of the new images as a base
+15:16 image.
+15:18 We can see that I
+15:20 overlaid on top that
+15:22 that roof. That roof looked pretty good
+15:25 for the most part because this was an
+15:27 edit
+15:28 uh in the edit mode and it changed that
+15:30 perspective. We can see that perspective
+15:32 jumping. I just started with this then.
+15:35 And then I'm layering in what? I'm
+15:37 layering it in that that ground.
+15:40 Right? And I'm kind of masking in the
+15:42 chairs. We can see we get a little goof
+15:44 up in the chairs there. I wonder if that
+15:46 goof up made it all the way through to
+15:47 the end. It looks like it did. Oops,
+15:49 that's my mistake.
+15:51 And then finally we're getting to like a
+15:53 camera raw filter.
+15:55 Boy, I hope this was in my final image.
+15:57 That's funny.
+15:58 >> [laughter]
+15:59 >> I didn't I didn't notice that I made
+16:02 that mistake.
+16:04 That's pretty good.
+16:05 So,
+16:06 there's that whole workflow for this and
+16:09 uh this wasn't necessary for me to go
+16:11 through all these steps. I want to
+16:13 mention that even though this seems like
+16:15 a ton of work, this took me 30 minutes.
+16:17 It really was that quick, you know, cuz
+16:19 I'm just being really sloppy with it. If
+16:21 we were to just start over from the very
+16:23 beginning and we review kind of what
+16:25 we're looking at, we know the problem
+16:27 areas. We know we want this stone more
+16:28 realistic, right? We know we want this
+16:31 grass more realistic. We know we need
+16:32 the cactus more realistic. We know we
+16:34 need uh the the roof to be more
+16:37 realistic. So, you can sit there and
+16:39 pick those things and get things to be
+16:41 enhanced, but that stacking approach
+16:44 really gets us somewhere where we're
+16:46 taking something that looks pretty good
+16:48 and then we're taking it up a notch and
+16:50 then we're taking it up a notch. So,
+16:52 um I just wanted to review this one for
+16:54 you guys because
+16:56 a little bit out of the box where you've
+16:57 seen some of my stuff before already
+17:00 looks like a good rendering and I'm just
+17:01 making it better with Korea. This is
+17:03 something where you know, this
+17:05 particular one needed a lot of work.
+17:08 Um
+17:09 maybe to review this final image and
+17:12 just understand what we did with a
+17:14 camera raw filter cuz I'm always going
+17:16 to add on the camera raw filter
+17:19 is
+17:20 I I have the goal of taking the dehaze
+17:25 arc up. All right? So, I'm often times
+17:28 trying to take dehaze in the camera raw
+17:31 filter way way up. Uh
+17:34 let's start with Yeah, here we go. Let's
+17:38 take this image as just an example as
+17:40 I'll take this into camera raw.
+17:43 So, I did a pre-done filter to start
+17:46 with on this, but let's just start from
+17:48 nothing and see where we get with this.
+17:51 So, I typically
+17:54 want to take exposure down because AI
+17:57 tends to add a bunch of these real high
+18:00 con Excuse me, not exposure, contrast.
+18:03 They add these real high contrast
+18:05 elements.
+18:06 Um I might want to bring whites up a
+18:09 little bit. That gives me that kind of
+18:11 sunlight feeling. Um
+18:14 I think temperature is pretty good on
+18:15 this. We might want to kick vibrance up
+18:18 for just getting a little pop in there,
+18:20 but the magic often times happens the I
+18:23 mean, the bulk of the heavy lifting
+18:24 happens in the effects section. And when
+18:27 I kick dehaze up, we're really going to
+18:30 get some great things happening. We're
+18:32 going to get more of an ombre effect in
+18:35 that sky. We're going to see some big
+18:38 like high def
+18:39 high definition range effects in in the
+18:43 building itself. I mean, it really makes
+18:45 a huge difference. Um it it somewhat
+18:49 coincides with these other settings like
+18:51 clarity and texture.
+18:53 Um clarity we're going to get a lot of
+18:55 these
+18:56 strange dark elements where AI tries to
+19:00 give us more of a 3D feeling. We're
+19:03 going to kind of limit that when we drop
+19:05 clarity down, but we're going to lose
+19:06 lose some sharpness as well.
+19:09 Texture can really make some
+19:11 contrast changes and pops in things like
+19:16 you know, what we're seeing in the in
+19:17 the tabletop and the bench, what we're
+19:18 seeing in the cactus.
+19:20 Right? So, maybe we're baking a little
+19:23 bit of um definition with texture, but
+19:27 these are going to be really subtle
+19:28 moves, okay? I like to add a little bit
+19:30 of a grain to a shot.
+19:32 We know this. I'm I'm immediately going
+19:34 to go down and kick sharpening up.
+19:37 That kind of lets me know, you know, how
+19:38 far can I take sharpening up before
+19:40 we're starting to see this
+19:42 this somewhat of a pixelation in those
+19:45 roof shingles. So, drop it back down.
+19:47 You want to you want to really be able
+19:49 to check and and zoom in on this while
+19:52 you're using sharpening to see what it's
+19:54 doing. I'm okay with this building
+19:56 looking like it's taken from an old
+19:58 camera, and the shot taken from an old
+20:00 camera. Here we go.
+20:02 Um
+20:04 as you're learning curves,
+20:06 I mean this is an awesome opportunity to
+20:08 mess around with curves. I would say go
+20:11 ahead and start in a color channel with
+20:12 curves and really see what this is
+20:13 doing. So, right now we're we're doing a
+20:16 full RGB spectrum.
+20:18 This graph represents all the pixels of
+20:21 this shot. We can see the bulk of the
+20:23 pixels are in the mid channels here. If
+20:25 we take a look at the red, we're going
+20:27 to see that bulk of the red are in the
+20:29 darker red sections. So, we've got a lot
+20:31 of dark red. We actually got a lot of
+20:33 red period, all right.
+20:35 Mid tones have a lot of greens.
+20:38 Blues
+20:39 kind of
+20:41 kind of short. We we can see that if we
+20:43 edit this, we're moving
+20:46 If I were to pick a point here
+20:49 and bend this line
+20:51 upwards
+20:53 that means we are taking anything that
+20:55 is a dark blue
+20:57 and we're taking it more towards blue.
+21:00 Now, if I were to bend it down, we're
+21:02 taking it more towards yellow.
+21:04 That's what this means.
+21:06 These
+21:07 high pixels that right now are showing
+21:09 pretty sunny. If we want them more blue,
+21:12 we would bend this line upward. That's
+21:16 what we'd be doing, okay?
+21:18 Now if you really can see this from
+21:23 I don't know, maybe you're a savant.
+21:24 Maybe you just completely understand how
+21:26 this works. And I'm hoping that was on
+21:28 the screen. It wasn't quite on the
+21:30 screen. Let me get that back on the
+21:31 screen. There we go.
+21:33 So bending this up takes these lower
+21:36 dark blue pixels, makes them more blue.
+21:39 Down makes them more yellow. Same thing.
+21:42 These are the highlight pixels. These
+21:44 are are nearly white pixels. This is
+21:47 white. All the way to the right is
+21:49 white. This is just a little bit less
+21:51 than white. We've got quite a few pixels
+21:53 that are in that yellow range. We can
+21:55 make them more blue or we can make them
+21:58 more yellow just by bending this down.
+22:00 Watch. I'm going to pick a point here.
+22:02 Okay? I'm going to drag that point down.
+22:04 Look what happened. Whole graph went
+22:06 yellow. We need a second point to kind
+22:08 of bend this back up. Now you can see
+22:11 only the highlights just became more
+22:13 yellow, more yellow, more yellow. Now if
+22:15 I bring this back up, more blue, more
+22:17 blue, more blue, okay? That's how these
+22:20 curves work.
+22:21 All right. You could instead use this
+22:25 point curve tool where you get to pick a
+22:28 pixel and slide it more yellow, more
+22:31 blue, all right?
+22:34 So, that's how you can
+22:36 edit these graphs. I want less yellow in
+22:39 these mid tones. So, I'm going to bring
+22:41 them more blue, okay? It just created a
+22:44 point to do that.
+22:47 Created that point when I did that, all
+22:49 right? I'm going to take this darker
+22:51 section
+22:52 and that's more yellow, that's more
+22:55 blue, okay? You can see at some point
+22:58 you keep dragging this and we start to
+23:01 see the other channels coming out. If I
+23:04 drag this way, way up, now we can really
+23:06 see how much red is in this shot, okay?
+23:10 I'm going to bring it back down.
+23:13 I really want to see what happens when I
+23:14 adjust the red curves adjustment. So, if
+23:18 I pick a point in here, let's pick in
+23:20 the highlights. I actually want this to
+23:22 be a little bit
+23:24 a little bit more blue. Yeah, a little
+23:26 bit more blue in the highlights. I want
+23:29 a little more red, no.
+23:32 So, the red really looks pretty good to
+23:34 me for the most part, okay? That green
+23:37 channel, somewhat of a balance here.
+23:41 And let's pick in the white section.
+23:43 That's more green, right? We're getting
+23:45 more color cast off the grass. That's
+23:46 not great. So, it's good to understand
+23:50 what these represent, how you might
+23:52 change them, how it might benefit your
+23:54 scene.
+23:57 And bring that grass more into a pop.
+24:00 Look at that. Just a few edits. And this
+24:03 is real dynamics coming from curves
+24:05 adjustment. And then you can mess around
+24:08 with all, right? So, this is a curve
+24:11 across the whole thing. So, I can make
+24:12 those whites brighter. I can give us
+24:14 more contrast and then, you know, just
+24:17 by dragging the mids around. I can take
+24:19 the really dark tones way down, get
+24:22 super high contrast or lift them up,
+24:24 right? Up to the point where we're
+24:26 turning that into like an inversion,
+24:29 okay? So, a lot you can do with curves
+24:31 adjustment. Keep in mind if you screw
+24:33 something up, you can come over here,
+24:35 hold control,
+24:37 hold control and I can cut this point
+24:39 that was created from one of my samples.
+24:42 When I cut this point, look what happens
+24:43 to the shot. Cut another point, look
+24:45 what happens to the shot, right? Cut all
+24:47 these points, we're back to the median
+24:49 level. And then I can still go back, use
+24:52 this tool.
+24:54 I'm going to bring the the darks up a
+24:55 little bit.
+24:57 That's going to affect the lights as
+24:58 well.
+25:01 And I could bring those mid tones in a
+25:02 medium.
+25:04 There we go. Small little curves
+25:06 adjustment makes a huge difference.
+25:09 And then if you want to target something
+25:11 and bring it more, you know, maybe we
+25:13 want this Spanish roof to be brought
+25:15 more towards the red. We can use that
+25:16 same picker tool. And we could target
+25:19 this orange and we could bring it a
+25:20 little bit more red if we wanted to,
+25:22 right? We could target this green. You
+25:24 can make it more of a light green if you
+25:27 wanted to. Target this blue, you make it
+25:29 more purple if you wanted to. So, or you
+25:33 know, lighter blue. There we go. Now
+25:35 we're living in San Diego.
+25:37 >> [laughter]
+25:38 >> So, a lot you can do in this section.
+25:41 And then something that's just a staple
+25:43 for me, I like to bring a little bit of
+25:45 blue into my shadows and I like to bring
+25:48 sometimes a little bit of greenish
+25:51 yellow into the highlights. That's just
+25:55 a habit of mine and then I'll mess
+25:57 around with the blending of that and the
+26:00 balance of that. So, something you can
+26:03 try at just touch and play around with.
+26:06 That can affect the shot greatly as
+26:07 well. So.
+26:09 I think that for the most part this
+26:10 looks pretty good from a camera raw and
+26:12 you have just a few split seconds to see
+26:15 the before after here, but there is
+26:17 another way to see before after.
+26:19 Is toggle the default settings, I
+26:22 believe. Yeah, before, after, before,
+26:25 after.
+26:27 There we go. There was our edit in
+26:29 camera raw. Not bad. Looks a heck of a
+26:31 lot better after the camera raw.
+26:34 I think that's it for this one.
+26:36 Uh hope you got some good stuff out of
+26:37 this. Again, like always, please use use
+26:40 the comments. I mean it's going to help
+26:42 us greatly hit that YouTube algorithm
+26:46 and then we get more people in here. I
+26:48 am more influenced to do more work when
+26:50 there's more people in here. So, your
+26:51 comments directly affect the kind of
+26:53 content that you get. So, just take 2
+26:56 seconds, drop in some comments. It's
+26:58 going to help out greatly. Even if I
+27:00 respond and you don't feel like having a
+27:01 continued conversation with me, I'm not
+27:03 offended. I just like that you dropped
+27:05 one in in the first place. Thanks, guys.

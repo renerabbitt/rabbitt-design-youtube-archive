@@ -1,0 +1,81 @@
+---
+videoId: CwJ7wuOzVKQ
+title: CA SHORTS-Align and Distribute in Chief Architect
+url: "https://www.youtube.com/watch?v=CwJ7wuOzVKQ"
+status: imported
+---
+
+# Transcript
+
+0:03 I have a robe hook that I want to evenly
+0:06 distribute between this area here but I
+0:06 want to have specific gaps on either end
+0:11 so um let's just get into this we're
+0:13 going to show you how to use the uh
+0:13 distribution tool so I'm going to grab
+0:16 this I'm going to use my multiple copy
+0:19 and I want to set that I'm going to
+0:19 create three copies of this object okay
+0:22 so I'll just drag these out and I'm not
+0:23 too worried about where they land except
+0:26 for that I want them to land you know in
+0:28 a straight line and then the next thing
+0:30 I'm going to do is I'm going to use a
+0:31 line and I'm going to use this for an
+0:31 inference so I'm going to draw this line
+0:35 and snap it from this wall on the left
+0:38 to the cabinet on the right and now I
+0:40 want to bring this line outside of an
+0:40 area where there are other objects okay
+0:42 so I'm going to just bring it up here to
+0:47 kind of the top of the screen from here
+0:49 I know that I want these robe hooks to
+0:49 start with a spacing of 10 in on either
+0:54 side so I'm going to go ahead and drag
+0:58 this in 10 in and I'm using concentric
+0:58 so I'm clicking on the line and then I'm
+1:02 holding my c key and I'm dragging this
+1:06 in and then let go of my c key hit tab
+1:09 or enter and now I'm plugging in 10 in
+1:09 so long as Polar is checked so now I've
+1:14 brought this in 10 in on either side
+1:14 which means there's a gap of 10 in on
+1:16 either side between the cabinet and that
+1:20 end of the line and between the wall and
+1:22 that end of the line okay so now that I
+1:25 have that I can I now I've got contain
+1:28 selection mode in I'm making a contain
+1:30 selection selecting all of these robe
+1:30 Hooks and then in my edit toolbar we're
+1:35 going to see here a line distribute
+1:37 along line I can click on that as I
+1:37 hover over this line you can see that
+1:41 it's noting that we're actually
+1:41 utilizing this line for that tool okay
+1:45 and then it ask me do we want alignment
+1:48 to
+1:48 be just put this in a center screen do
+1:52 we want this to align on centers in fact
+1:57 we do in this case but they're already
+1:58 aligned so I'm not too worried about
+1:59 that and then dist uh the distribution
+2:01 do we want to space evenly or do we want
+2:06 to uh distribute centers evenly either
+2:08 one will work in this case I actually
+2:10 want to distribute centers evenly and
+2:10 then are we going to distribute to the
+2:11 end points or distribute between the end
+2:16 points now between the end points um
+2:16 will'll distribute it evenly taking into
+2:20 account the full length of the line
+2:20 meaning that it's going to leave a gap
+2:24 at the ends now I didn't want that
+2:24 because I wanted a specific Gap at the
+2:28 end so instead I'm going to distribute
+2:30 to the end points let me go ahead and
+2:30 press okay and you're going to see here
+2:32 that these did in fact distribute evenly
+2:37 to the end points of my line and there
+2:40 we go they are perfectly centered in
+2:40 between this two area with a 10-in gap
+2:45 on either side and split evenly across

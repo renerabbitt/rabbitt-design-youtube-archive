@@ -1,0 +1,329 @@
+---
+videoId: _WpSfU5tF9g
+title: Solid Modeling Session in Chief Architect X16
+url: "https://www.youtube.com/watch?v=_WpSfU5tF9g"
+status: imported
+---
+
+# Transcript
+
+0:03 on the users of Facebook group we've got
+0:04 this little knob here someone was trying
+0:07 to recreate now typically I would avoid
+0:09 trying to recreate something like this
+0:12 using just geometry we'd probably want
+0:13 since this looks like it's a cabinet
+0:13 knob we'd probably want to do something
+0:18 in terms of just texturing this section
+0:20 to make it look like it's 3D geometry
+0:20 but I will show you how you can do this
+0:24 using 3D geometry and if I'm feeling
+0:24 compelled at the end of that part maybe
+0:28 I will show you how to do this with
+0:28 texture as well so let's just jump into
+0:35 this now I think for the most part I'm
+0:35 going to be doing this lower section in
+0:39 an elevation the middle section will be
+0:41 separate and then the top section looks
+0:41 like it's maybe just a cylinder and that
+0:46 part's pretty easy to do so let's start
+0:48 with this middle section which is
+0:48 probably the complicated section for
+0:50 this uh user so I'm going to get in here
+0:56 and I'm just going to draw out
+0:56 um I'm going to draw out a circle first
+1:00 and I'm going to use the Circle about
+1:00 Center tool and I'm not really worried
+1:02 about scale I can rescale this as I need
+1:07 to the next thing that I want to look at
+1:09 here is we go look at this it looks like
+1:13 this is faceted almost and we could use
+1:15 the built-in symbol smoothing within CH
+1:17 Artic to make this look like it's got
+1:18 more of a smooth edge as it comes in and
+1:23 out on this ribbing right so maybe it's
+1:25 just that I need to make a subtraction
+1:25 here from a center circle so looks like
+1:32 I could do one two three Sid SES * 2 so
+1:35 if I use the make polygon tool then I
+1:38 can say three sides * 2 is six sides
+1:38 there we go not worried about the radius
+1:42 because I'll probably resize this maybe
+1:44 we'll just call it 24 in or something
+1:46 like that look at that that's what it
+1:46 did right so that's actually perfect if
+1:51 we go back and study this again just
+1:51 real quick okay I got a quick look this
+1:55 essentially is what I'm going to be
+1:55 doing I'm going to be subtracting in
+1:57 this direction so let me b centrically
+2:02 resize this to what I think is correct
+2:05 something like that
+2:05 right maybe something like that and then
+2:11 I want to draw a couple of things that I
+2:12 call inference lines so that's going to
+2:14 make it so that I can snap to these
+2:14 lines very easily or Center about or
+2:16 flect about something like that okay and
+2:22 then let me go ahead and join these
+2:22 lines so I'm going to take this line and
+2:25 we can just use this intersect join two
+2:27 lines hover over the second line and it
+2:29 joins it in the middle and then I'm
+2:29 going to place a point and so that's in
+2:34 the cad menu Place Point once I've done
+2:37 that we can get into that edit menu and
+2:39 under the edit menu under behaviors we
+2:43 can rotate resize about that current
+2:43 point so I'll take this guy right here
+2:49 I'll Center them up just like that and
+2:49 then I'm going to make a bunch of copies
+2:53 and distribute it around here all right
+2:56 so now I think those copies let's just
+2:58 take a little trial run here I'm going
+3:00 to draw out a line here and then I'm
+3:00 going to say maybe my next copy is going
+3:05 to be about here something like that so
+3:08 I could take the angular Dimension tool
+3:08 and kind of figure out that's 8.65 de so
+3:15 that I've got rotate about a given point
+3:17 turned on right now we've got a point in
+3:20 the center of the circle if I choose
+3:22 multiple copy and then change the
+3:25 multiple copy interval I
+3:25 can come in here and change offset
+3:28 between copies when dragging and I can
+3:34 change this degree to that 8.65 if I
+3:37 want let's just call it an even 9°
+3:37 another thing we could do is if we're
+3:40 thinking about this correctly we need
+3:44 something that you know divides into
+3:44 360° that's a little bit too much math
+3:48 for me I don't really feel like doing
+3:51 that but we know that 9 goes into
+3:51 360 came up with that in the top of my
+3:56 head right I'm pretty good at math
+3:57 sometimes so look at this when I drve
+4:00 out what does it do well it doesn't do
+4:01 the right thing right it's just dragging
+4:05 copies out what I need to do is hover
+4:08 over this edit handle and now when I
+4:08 drag out it's making those copies look
+4:13 at that cool right and those are even
+4:13 copies very cool so what do I do next I
+4:18 can select this circle let me get rid of
+4:23 my inference lines real quick select
+4:23 this major Circle right and I think that
+4:30 I can convert this to a polyline
+4:30 so if we convert curve to polyline in
+4:34 this
+4:34 case then it's going to ask us how many
+4:41 sides do we want for that poly line
+4:45 44 maybe something like that that's
+4:45 pretty good then I can use once I've
+4:49 converted that I can use the fence
+4:49 select tool that selects all of those
+4:53 little little guys right there and then
+4:56 what am I going to do I want to subtract
+5:00 those
+5:00 from the major so how do we do that
+5:02 that's going to be challenging we're
+5:04 going to have to figure out a way to do
+5:05 this um because you almost want to Union
+5:10 these in a way so that you could
+5:10 subtract them from this major part or
+5:13 could take this circle together with all
+5:21 those maybe we can get intersected no
+5:24 that didn't help us out at all did
+5:24 it let's see I need a way to actually
+5:29 connect these two so here's what I'm
+5:30 going to do
+5:30 I'm going to create a
+5:32 circle based on this circle and it's
+5:37 going to be just a little bit
+5:37 wider and then I'm going to take this
+5:39 intersection duplicate it past hold the
+5:43 position and to take this outer ring and
+5:49 to subtract the inner
+5:49 ring okay I want to use that to
+5:57 fence then
+5:57 select select that ring as as well and
+6:03 Union it now we've got one what looks
+6:03 like a gear wheel if you will now I need
+6:08 that Circle back it seems I did
+6:08 something wrong and I deleted it by
+6:11 accident but here we go threw that
+6:11 Circle back let's convert that back to
+6:16 that 44
+6:16 sides and now I should be able to
+6:27 me with what looks like a gear icon look
+6:31 at that is't that cool let's take this
+6:35 convert it turn into a 3D
+6:35 solid just GNA kind of eyeball this
+6:37 based on that knob all right so maybe
+6:41 it's got a height or double that height
+6:44 something like
+6:44 that yeah more or
+6:47 less then on top of that we just put in
+6:51 a cylinder and we'll pull in a little
+6:53 cross-section View and we're doing a
+6:54 little tapered section now if you're
+6:54 unfamiliar let's do the tapered section
+6:58 so I'm going to kind of pull this
+6:58 cross-section back and going to stop it
+7:02 right at that Center
+7:02 Line doesn't really matter actually just
+7:08 using this as a reference so we can lift
+7:10 this up in this
+7:10 View and then all I'm going to do is
+7:12 kind of pick out that center point so
+7:17 I'll snap to the very edge
+7:17 here and I'm just using the line tool to
+7:22 use as a reference right so bring this
+7:25 up another line I'll pick up that
+7:25 midpoint Center Line snap here we go
+7:30 so from here kind of just snap to this
+7:37 guy come out here maybe we'll continue
+7:37 this line down and I think it was doing
+7:42 kind of an arc but we're going to avoid
+7:44 the arc if we can we're going to just
+7:44 let symbol smoothing take hold so we're
+7:47 just going to do a bunch of little
+7:50 segments here to that look
+7:50 going something like that looks then
+7:53 this piece out use those join two lines
+7:57 use that join two line again or actually
+8:03 just close this poet bam so from here
+8:03 and let me just kind of clean this up a
+8:07 little bit we can convert this first of
+8:07 all I'm going to simplify that Bing line
+8:11 that got rid of the brakes here and then
+8:12 convert this and I'm going to convert it
+8:14 to a
+8:14 face all right and there's my face now
+8:20 from this point I'm going to click on
+8:22 this edit handle and I'm going to use
+8:25 the revolve object and we're going to
+8:25 revolve in the Z axis you notice here at
+8:29 the bottom of the screen that's the
+8:29 z-axis we want to spin around that axis
+8:34 right as if it was a spindle so there's
+8:37 that Z Direction Z axis we're going to
+8:38 spin it
+8:38 360° bam that'll get us this right there
+8:44 Isn't that cool right and I mean since
+8:44 we're here it'd be really easy for me to
+8:49 pick up that midpoint again so here's
+8:51 that midpoint again I could just draw
+8:51 out some new polylines so I could just
+8:56 draw this out if I wanted to get a
+8:56 little detailed here going to come in
+9:01 right bring this
+9:02 back close that polyline convert it to a
+9:09 face again right press okay take this
+9:12 Edge right here and then
+9:14 revolve same
+9:14 thing I noticed it jumped up a little
+9:16 bit there's a little bit of a glitch in
+9:19 Chief Architect if you have your solids
+9:22 by default set to reference a finished
+9:22 floor that's what this glitch is if you
+9:25 change it to reference an absolute
+9:25 location then it doesn't do this little
+9:28 funny glitch so I want to move this back
+9:32 down but I might need to pick up that
+9:36 Center Line to do this in the center
+9:37 there we
+9:37 go and so then I could take these three
+9:43 objects right these three items and
+9:43 convert the selected to a symbol it's
+9:47 like this okay so this is going to
+9:48 become um let's see what do Hardware
+9:51 become well Hardware is Hardware so
+9:51 let's choose the hardware class we can
+9:55 add to library if we want to I'm not
+9:57 going to I'm going to show Advanced
+9:59 option let me press okay and here's
+9:59 where I can resize this object now we
+10:02 got some funny things going on here
+10:02 because I didn't align this right in the
+10:06 plan view so we need to make sure that
+10:09 all these are aligned right so was
+10:09 drawing over here I'm going to switch to
+10:13 a contained selection mode so I can draw
+10:17 a marquee over this whole thing and
+10:19 maybe we can Center up on this it's
+10:19 going to be a little bit challenging
+10:20 without some kind of line to represent
+10:24 Center of this guy right so I drew that
+10:29 line grab this Center it up that should
+10:31 be correct now now I can select this
+10:34 whole assembly
+10:34 hopefully just want to make sure we
+10:36 don't have anything else in here like
+10:39 the cross section that's what we were
+10:41 just selecting as well so select that
+10:43 whole assembly convert selected to
+10:43 symbol show Advanced option let's press
+10:48 okay and here's where we might figure
+10:48 out if we retain the aspect ratio we can
+10:53 resize the height of this down to
+10:53 whatever it's going to be maybe it's two
+10:59 inches right so then over here on the
+11:01 just the preview window here we could
+11:01 always just hit this fill window button
+11:04 there and that's going to show us the
+11:04 preview of this very cool so that's it
+11:09 that's our Hardware symbol you might
+11:09 need to rotate this right so we get into
+11:15 3D panel axis of rotation this might
+11:15 need to get rotated um about the x axis
+11:19 right so we might need to rotate this 90
+11:23 degrees about the X AIS so that looks
+11:23 more like a cabinet knob but that should
+11:28 be the end of that part now let's see am
+11:31 I feeling gener do I feel like doing the
+11:33 video where we do this just um without
+11:35 geometry let me place this real quick
+11:35 and get an idea of just how many faces
+11:41 we have we have 3600 faces that's
+11:41 actually not terrible that's actually
+11:46 pretty good um you know H we need a
+11:46 little bit of clean up here that's my
+11:49 fault need to pay a little more of
+11:49 attention but yeah 3600 faces not that
+11:52 bad and if the we kick the smoothing up
+11:58 to like I don't know 140° or something
+11:59 like that we're going to see some
+11:59 sections kind of naturally smooth out in
+12:03 that middle section there that's pretty
+12:07 cool right now do keep in mind this is
+12:07 trying to smooth some vectors on the top
+12:11 here if we set this back to zero we're
+12:12 going to see exactly what I'm talking
+12:14 about it's smoothing these sections
+12:14 right here right so me switch this back
+12:21 to like H maybe 110 something like that
+12:23 you want to do it just so that this
+12:23 ribbing is smooth but that top doesn't
+12:27 have this weird shadowing you really
+12:27 want a perfect symbol so um you can kind
+12:32 of start playing with these numbers
+12:33 there we go that got rid of the top
+12:34 shadowing and we still have some
+12:35 smoothing in this Center section right
+12:40 so that's looking pretty
+12:40 good let's see now I think I'm going to
+12:45 um keep the next part of this for a
+12:45 membership area where we use some kind
+12:52 of advanced modeling and UV mapping if
+12:53 you will to make it so that we've got
+12:56 that ribbing and it's just done with
+12:56 material itself so I think that was a
+13:00 good lesson for
+13:00 today if you uh if you like this video
+13:03 you know what you can send me really
+13:06 small donations on YouTube I don't
+13:06 usually ask for that stuff but I'll
+13:07 throw it out there it's helpful I always
+13:12 appreciate it I'll go buy a coffee so

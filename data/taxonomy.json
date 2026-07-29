@@ -1,0 +1,466 @@
+[
+  {
+    "id": "general",
+    "title": "General",
+    "description": "Opening remarks, live Q&A, product context, and mixed-topic sections.",
+    "subchapters": [
+      {
+        "id": "general-overview",
+        "title": "Overview And Live Q&A",
+        "description": "General introductions, live chat responses, product notes, and sections that span multiple topics.",
+        "terms": [
+          "opening",
+          "live question",
+          "live comment",
+          "closing",
+          "wrap-up",
+          "template tuesdays"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toolbars",
+    "title": "Toolbars",
+    "description": "Toolbar setup, customization, transfer workflows, icon design, and productivity tools.",
+    "subchapters": [
+      {
+        "id": "toolbar-tips-and-tricks",
+        "title": "Tips And Tricks For Toolbars",
+        "description": "General toolbar workflow tips, hidden toolbars, toggles, and productivity patterns.",
+        "terms": [
+          "toolbar",
+          "toolbars",
+          "toggle",
+          "hidden",
+          "time tracker",
+          "configuration"
+        ]
+      },
+      {
+        "id": "toolbar-configuration-transfer",
+        "title": "Transferring Toolbar Configurations",
+        "description": "Copying toolbar definitions between Chief Architect configurations.",
+        "terms": [
+          "transfer",
+          ".toolbar",
+          "config",
+          "configuration",
+          "notepad",
+          "backup",
+          "temp",
+          "treesize"
+        ]
+      },
+      {
+        "id": "custom-toolbar-icons",
+        "title": "Custom Toolbar Icons",
+        "description": "Creating, editing, exporting, and assigning custom toolbar button icons.",
+        "terms": [
+          "icon",
+          "icons",
+          "png",
+          "photoshop",
+          "photopea",
+          "dark",
+          "light",
+          "button"
+        ]
+      },
+      {
+        "id": "toolbar-recovery-and-sharing",
+        "title": "Recovery And Sharing",
+        "description": "Docking shared toolbars, avoiding off-screen toolbars, and resetting broken configurations.",
+        "terms": [
+          "dock",
+          "sharing",
+          "shared",
+          "reset",
+          "off-screen",
+          "monitor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "precision-movement",
+    "title": "Precision Movement",
+    "description": "Exact movement, resizing, snapping, offsets, and coordinate-based placement.",
+    "subchapters": [
+      {
+        "id": "precision-movement-overview",
+        "title": "Tips And Tricks For Precision Movement",
+        "description": "General precision movement workflow and setup tips.",
+        "terms": [
+          "precision",
+          "moving",
+          "movement",
+          "exact",
+          "coordinates",
+          "power toys"
+        ]
+      },
+      {
+        "id": "wall-precision",
+        "title": "Wall Precision",
+        "description": "Wall dimensions, wall side behavior, resize references, and measured as-built workflows.",
+        "terms": [
+          "wall",
+          "walls",
+          "main layer",
+          "inner surface",
+          "reverse layers",
+          "2x6",
+          "2x8",
+          "as-built"
+        ]
+      },
+      {
+        "id": "door-window-precision",
+        "title": "Door And Window Precision",
+        "description": "Door/window resizing, head heights, concentric resize, and 3D height edits.",
+        "terms": [
+          "door",
+          "doors",
+          "window",
+          "windows",
+          "head height",
+          "concentric",
+          "plate height"
+        ]
+      },
+      {
+        "id": "cabinet-precision",
+        "title": "Cabinet Precision",
+        "description": "Cabinet placement, copy/paste workflows, fillers, modular increments, and islands.",
+        "terms": [
+          "cabinet",
+          "cabinets",
+          "island",
+          "filler",
+          "fillers",
+          "modular",
+          "drawer",
+          "range",
+          "microwave"
+        ]
+      },
+      {
+        "id": "snaps-points-and-offsets",
+        "title": "Snaps, Points, And Offsets",
+        "description": "Snap indicators, point-based rotation, multiple copy arrays, and polyline offsets.",
+        "terms": [
+          "snap",
+          "snaps",
+          "midpoint",
+          "center",
+          "endpoint",
+          "point",
+          "rotate",
+          "offset",
+          "polyline"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "project-management",
+    "title": "Project Management",
+    "description": "Project files, layouts, templates, document folders, references, and managed resources.",
+    "subchapters": [
+      {
+        "id": "project-information",
+        "title": "X18 Project Information",
+        "description": "Project Information fields, macros, scope of work data, and reusable annotations.",
+        "terms": [
+          "project information",
+          "scope of work",
+          "field",
+          "fields",
+          "macro",
+          "macros",
+          "annotation",
+          "annotations"
+        ]
+      },
+      {
+        "id": "title-block-systems",
+        "title": "Title Block Systems",
+        "description": "Title block data, design criteria plans, logos, stamps, loads, specs, and layout references.",
+        "terms": [
+          "title block",
+          "logo",
+          "stamp",
+          "design criteria",
+          "spec",
+          "specs",
+          "project name"
+        ]
+      },
+      {
+        "id": "layout-management",
+        "title": "Layout Management",
+        "description": "Switching layouts, relinking plan/layout references, and working with project folders.",
+        "terms": [
+          "layout",
+          "layouts",
+          "project",
+          "reference plan layout",
+          "document folder",
+          "links"
+        ]
+      },
+      {
+        "id": "managed-mode",
+        "title": "Managed Mode",
+        "description": "Managed Mode setup, project browser workflows, cloud/team usage, and project files.",
+        "terms": [
+          "managed mode",
+          "managed",
+          "caproj",
+          "cloud",
+          "team",
+          "project browser",
+          "project management"
+        ]
+      },
+      {
+        "id": "managed-export-and-sharing",
+        "title": "Exporting And Sharing Projects",
+        "description": "Project export/import, Export and Delete, 7-Zip inspection, and team handoff workflows.",
+        "terms": [
+          "export",
+          "import",
+          "sharing",
+          "share",
+          "7-zip",
+          "zip",
+          "export and delete",
+          "save as"
+        ]
+      },
+      {
+        "id": "managed-assets-and-backups",
+        "title": "Assets, Archives, And Backups",
+        "description": "Asset Manager cleanup, archives, backups, cache files, file bloat, and storage optimization.",
+        "terms": [
+          "asset",
+          "assets",
+          "backup",
+          "backups",
+          "archive",
+          "archives",
+          "cache",
+          "file bloat",
+          "hdri",
+          "texture"
+        ]
+      },
+      {
+        "id": "plan-references-and-design-options",
+        "title": "Plan References And Design Options",
+        "description": "As-built/proposed workflows, plan references, design options, thumbnails, and project repair.",
+        "terms": [
+          "plan reference",
+          "plan references",
+          "as-built",
+          "proposed",
+          "design option",
+          "thumbnail",
+          "replace with"
+        ]
+      },
+      {
+        "id": "template-and-pro-plan-updates",
+        "title": "Template And Pro Plan Updates",
+        "description": "Template, Pro Plan, beta, library, and toolbar update notes.",
+        "terms": [
+          "template",
+          "pro plan",
+          "beta",
+          "library",
+          "layer-based",
+          "fill style",
+          "pony wall",
+          "csv",
+          "jobtread",
+          "buildertrend"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "x18-features",
+    "title": "X18 Features",
+    "description": "Chief Architect X18 beta features, visual systems, cladding, fills, and modeling updates.",
+    "subchapters": [
+      {
+        "id": "layer-based-fill-styles",
+        "title": "Layer-Based Fill Styles",
+        "description": "Layer-driven fill styles for walls, roofs, framing, foundations, hatching, and views.",
+        "terms": [
+          "layer-based",
+          "fill style",
+          "fill styles",
+          "poche",
+          "hatching",
+          "use layer"
+        ]
+      },
+      {
+        "id": "cladding-and-materials",
+        "title": "Cladding And Materials",
+        "description": "3D cladding, roof materials, brick variation, siding, grass regions, and texture optimization.",
+        "terms": [
+          "cladding",
+          "brick",
+          "siding",
+          "roof cladding",
+          "grass",
+          "material",
+          "materials",
+          "texture",
+          "textures"
+        ]
+      },
+      {
+        "id": "framing-and-foundation-display",
+        "title": "Framing And Foundation Display",
+        "description": "Framing views, foundation display, bearing walls, back-clipped sections, and auto detail.",
+        "terms": [
+          "framing",
+          "foundation",
+          "bearing",
+          "joist",
+          "rafter",
+          "back clip",
+          "auto detail"
+        ]
+      },
+      {
+        "id": "windows-symbols-and-modeling",
+        "title": "Windows, Symbols, And Modeling",
+        "description": "Window gables, treatments, stretch-plane symbols, corbels, beams, solids, and soffits.",
+        "terms": [
+          "window",
+          "windows",
+          "gable",
+          "treatment",
+          "stretch plane",
+          "corbel",
+          "corbels",
+          "beam",
+          "solid",
+          "soffit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bathrooms",
+    "title": "Bathrooms",
+    "description": "Bathroom design, fixtures, showers, vanities, tile documentation, and layout detailing.",
+    "subchapters": [
+      {
+        "id": "bathroom-layout-and-planning",
+        "title": "Layout And Planning",
+        "description": "Bathroom room sizing, exterior walls for limited-scope plans, clearances, and basic fixture layout.",
+        "terms": [
+          "bathroom",
+          "bathrooms",
+          "bath",
+          "clearance",
+          "exterior wall",
+          "interior wall"
+        ]
+      },
+      {
+        "id": "showers-and-cabinets",
+        "title": "Showers And Cabinet Tools",
+        "description": "Pre-configured showers built from cabinets, half walls, ledges, backsplash, and shower styles.",
+        "terms": [
+          "shower",
+          "showers",
+          "pre-configured shower",
+          "half wall",
+          "ledge",
+          "backsplash",
+          "cabinet"
+        ]
+      },
+      {
+        "id": "vanities-fixtures-and-accessories",
+        "title": "Vanities, Fixtures, And Accessories",
+        "description": "Vanities, sinks, faucets, toilets, mirrors, lights, toilet paper holders, and bounding-box clearances.",
+        "terms": [
+          "vanity",
+          "toilet",
+          "sink",
+          "faucet",
+          "mirror",
+          "toilet paper",
+          "bounding box",
+          "sconce"
+        ]
+      },
+      {
+        "id": "bathroom-cameras-and-views",
+        "title": "Cameras And Views",
+        "description": "Navigating tight bathrooms with field of view, camera clipping, hide exterior walls, and cross section slider.",
+        "terms": [
+          "field of view",
+          "clip surfaces",
+          "hide camera facing",
+          "cross section slider",
+          "wall elevation"
+        ]
+      },
+      {
+        "id": "bathroom-documentation",
+        "title": "Documentation And Layout",
+        "description": "Fixture height CAD details, starter tile notes, elevation send-to-layout, callouts, and print views.",
+        "terms": [
+          "fixture height",
+          "starter tile",
+          "tile",
+          "elevation",
+          "layout",
+          "callout",
+          "cad detail",
+          "smoothing angle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundations",
+    "title": "Foundations",
+    "description": "Foundation workflows, defaults, modeling, documentation, and troubleshooting.",
+    "subchapters": [
+      {
+        "id": "foundation-tips-and-tricks",
+        "title": "Tips And Tricks For Foundations",
+        "description": "General foundation modeling and documentation techniques.",
+        "terms": [
+          "foundation",
+          "foundations",
+          "footing",
+          "slab",
+          "stem wall"
+        ]
+      },
+      {
+        "id": "foundation-specific-workflows",
+        "title": "Specific Foundation Workflows",
+        "description": "Focused foundation tasks and problem-specific techniques.",
+        "terms": [
+          "crawl",
+          "basement",
+          "pier",
+          "grade",
+          "terrain"
+        ]
+      }
+    ]
+  }
+]

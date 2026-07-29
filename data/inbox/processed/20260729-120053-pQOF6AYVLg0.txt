@@ -1,0 +1,153 @@
+Title: Making a fluted column in Chief Architect X-12
+URL: https://www.youtube.com/watch?v=pQOF6AYVLg0
+Visibility: public
+
+0:02 Hello, Chief Architect people. Going to
+0:04 do another fast video.
+0:04 Um user mode Modabi Modabi
+0:07 Sorry if I mispronounce that. Accurate
+0:12 creation of 2D details and 3D objects.
+0:13 He's coming from SketchUp where it's
+0:13 really easy to make stuff like fluted
+0:18 columns. So, we're going to take this
+0:18 and we're going to go over to Chief and
+0:20 we're going to make a fluted column.
+0:21 Now, I already have a plan set up. It's
+0:25 a template plan for small details.
+0:25 And let's go ahead and grab I'm going to
+0:30 use a sphere here.
+0:30 And I know that I want the overall flute
+0:35 the subtraction of the flute I should
+0:36 say
+0:36 to be 3/4 of an inch. So, we're going to
+0:41 make this 3/8 of an inch.
+0:41 That little guy right there. And right
+0:45 off the bat I've got an elevation
+0:45 you know, obviously pulled right here.
+0:49 I'm going to do a CAD line. I'm just
+0:49 hitting my L for CAD line and I'm going
+0:53 to snap to
+0:54 hopefully to the center of this guy.
+0:58 Somewhere in there.
+0:58 Okay. Oops. Total sideways.
+1:03 And then I'm going to go up and over and
+1:07 I'm going to make this overall I want it
+1:10 to be 48-in
+1:10 flute. So, we're going to do 48 minus
+1:14 3/4 of an inch which is
+1:14 you know, half the radius on either side
+1:18 of this sphere. So, we'll grab the
+1:18 sphere. We'll use my copy paste and
+1:23 reflect about tools.
+1:23 And there we go. We got the top and
+1:24 bottom of the flute that we're going to
+1:29 subtract from a piece solid.
+1:29 So, next part I go to plan view again.
+1:32 We're going to grab a cylinder. I'm just
+1:35 going to draw it anywhere because I know
+1:37 already that this is going to be 3/4 of
+1:37 an inch and then I can easily manipulate
+1:44 it into the center of my existing
+1:44 top and bottom here. And so, it should
+1:48 be that if I click on this guy right
+1:50 here
+1:50 that I can make this a overall height of
+1:58 48 minus that 3/4 or you could just do
+2:00 the math in your head.
+2:00 There we go. So, now back in plan view,
+2:04 I'm going to highlight this whole
+2:04 assembly, and I'm going to use my solid
+2:09 union, and now I've got a solid, and
+2:11 let's just go ahead and transform
+2:11 replicate. And I I want seven of these
+2:14 total. We'll make it six overall. Let's
+2:20 go in my X delta. I'm going to do 3/4
+2:26 There we go.
+2:26 So, last little bit here, we'll we'll
+2:28 just draw a piece solid. Doesn't matter
+2:30 really where it is, because I'm going to
+2:35 fix it no matter what.
+2:35 Sometimes it's just faster to get it on
+2:37 the page and then fix it after the fact.
+2:42 So, now I'll center it on this center
+2:43 flute. I'll grab this guy, and I'm going
+2:47 to make this
+2:47 3/4 of an inch using my temporary
+2:49 dimensions. I'm going to grab this side
+2:52 handle, select it, and I'm going to hold
+2:57 C while I'm dragging to snap it to the
+2:57 edge of this guy, and then I'm going to
+3:01 hold that C again while I'm dragging,
+3:01 and then tap tab, and I want this to be
+3:06 3/8 of an inch out.
+3:08 There we go.
+3:08 So, the last part of this is that
+3:15 what we have right now. It is
+3:15 finished floor to bottom is 0 inches.
+3:20 We're going to make this Let's go 50
+3:23 inches overall, and it's going to be
+3:25 um
+3:25 Let's go negative half. Is that right?
+3:28 Did I do that right? I think I did that
+3:33 wrong. I did.
+3:33 So, actually what I can do is I can drag
+3:38 this to my CAD lines that I already had.
+3:41 Same trick. Do that C. Get an equal top
+3:42 and bottom.
+3:42 And the last thing I want to do is I'm
+3:46 going to pull an orthographic view, or
+3:49 actually that's a perspective view.
+3:49 I'll rotate this around. Let's go ahead
+3:56 and throw this into a vector view so I
+3:56 can really see it. I'm going to use this
+4:00 these solid tools right here with a
+4:00 solid subtraction and one by one I'm
+4:05 going to delete
+4:05 these guys. Now, keep in mind as fast as
+4:11 we're doing this, I could do it even
+4:11 faster if I was actually using hot keys
+4:16 or a toolbar which I have set up in
+4:19 other videos. So,
+4:19 if you had your hot keys, I wouldn't
+4:23 need to keep going back to this
+4:23 um toolbar that I've got here. So, there
+4:27 we go. I've got my fluted panel. I want
+4:29 to add it to the library. I'm going to
+4:31 call it flute.
+4:31 Uh make sure show advanced option is
+4:33 checked because we're going to make sure
+4:38 that in the um
+4:38 Z uh plane. That's wrong. Forgot my
+4:42 terminology. I'm losing it right now,
+4:45 but
+4:46 I'm just going to make this so that it's
+4:53 36 and 12 has uniform stretch planes so
+4:55 that I can make this
+4:55 fluted assembly substantially smaller if
+4:59 need be.
+4:59 And I'm just going to go ahead and
+5:00 delete this guy because now I have it
+5:06 right here in my library.
+5:06 There we go. So, if I know what the
+5:08 width of this guy is, which is 8 and
+5:13 1/4, I can use my
+5:13 uh multiple copy tool, put that 8 and
+5:17 1/4 in and
+5:17 drag this along.
+5:20 Right? And so, then if I look in my
+5:25 overview here, I'm going to just do alt
+5:29 O. Look at that.
+5:29 There is my fluted panels.
+5:31 I can obviously stretch them.
+5:33 If I stretch them left to right, we're
+5:35 going to shrink the actual fluting, but
+5:40 uniformly. And I can make a column out
+5:41 of these. So,
+5:41 that's it. That's the end of that video.
+5:45 It should have been pretty quick. Um I
+5:45 don't think I could build it any faster
+5:46 than SketchUp. SketchUp's got some great
+5:50 tools for this as well, but that's
+5:50 pretty quick just using the solid tools
+5:54 and our
+5:54 our P solids. So, there you go.

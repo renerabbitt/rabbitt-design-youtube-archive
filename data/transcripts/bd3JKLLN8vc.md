@@ -1,0 +1,216 @@
+---
+videoId: bd3JKLLN8vc
+title: Curved Panel Railing and Curve Any Symbol in Chief Architect X16
+url: "https://www.youtube.com/watch?v=bd3JKLLN8vc"
+status: imported
+---
+
+# Transcript
+
+0:04 what's up VIP
+0:08 um I don't
+0:10 know let's do let's do a uh what are we
+0:15 trying to do we're trying to
+0:18 show trying to show a curved panel on a
+0:23 staircase let's say you've got an
+0:24 elaborate
+0:27 panel they've got an elaborate panel
+0:30 goes up to the second
+0:31 floor and we're trying to show it
+0:34 curved opening quick go um so if I'm
+0:39 looking in my library browser and I go
+0:42 mill
+0:43 work and maybe we type in
+0:46 rail maybe we get some kind of or maybe
+0:50 we do type in panel wish there was a
+0:52 panel designation not sure that there
+0:54 are um but I've made a couple so here's
+0:58 one there we go
+1:00 so this particular panel
+1:02 repeats at some interval but even though
+1:06 the railing is straight look at the
+1:08 panel the panel's all crazy right that's
+1:12 not helpful at
+1:14 all at
+1:16 all so what's the length of this panel
+1:20 here's what we're going to do we're
+1:21 going to take this panel and actually
+1:23 place it as a standalone symbol and then
+1:26 let's just grab what this is what's the
+1:28 length of this this one has a buil bu in
+1:30 gap into it so that it gaps in between
+1:33 as it repeats um so it's 42 and
+1:38 1316 okay and so what I want to do is I
+1:43 want to draw
+1:44 out a
+1:47 line
+1:49 that's 42 and
+1:55 1316 I
+1:57 think and then I want to take this
+2:00 line and I could probably place a point
+2:03 and then we could edit
+2:05 around rotate around that point so that
+2:08 we just rotate
+2:11 this into the line of um direction of
+2:15 the arc that we want to go
+2:18 to then I'm going to draw another line
+2:20 out we're going to make this an
+2:23 arc I'm just going to connect this to
+2:26 itself making a closed polyline adjust
+2:29 this Arc
+2:30 to the shape
+2:34 of Bend of my
+2:36 railing that makes sense this needs to
+2:40 move there we go shape of the bend of my
+2:44 railing is about there and so what does
+2:48 this tell me it tells me that this
+2:51 railing panel pushes out two and a
+2:53 quarter we select
+2:58 it that this
+3:00 section right here two and a quarter two
+3:04 and33 whatever it
+3:06 is so here's the next move is that going
+3:10 to take this cabinet I'm going to make
+3:12 this that
+3:13 42 whatever is
+3:16 16 and
+3:18 then I have a tool to remove the box on
+3:21 a
+3:24 panel at least I used
+3:27 to I'll Creator from window
+3:30 might have gotten rid of it or at least
+3:32 maybe it's hard for me to find but let's
+3:34 go ahead and open this up box
+3:36 construction no top no bottom um
+3:39 frameless yeah front side's
+3:42 back back side has none okay back side
+3:47 has none left side has
+3:51 none right side has
+3:54 none right um no countertop no toe kick
+3:59 no
+4:01 drawer and then in our shells we
+4:05 want our shells zero okay in fact in box
+4:09 construction or excuse me General we
+4:11 even say the depth is zero and it's
+4:13 going to leave us with this in fact we
+4:16 might have saved ourselves a lot of
+4:17 trouble just by doing that
+4:19 go this does still seem to have a face
+4:24 frame so you might need to get into box
+4:25 construction frame set to zero and that
+4:29 will get rid R of that face
+4:31 frame here we go now we're just left
+4:33 with doors now these doors need to be a
+4:36 single door so change it to like door
+4:39 left door drawer Hardware let's get rid
+4:42 of the
+4:43 handle we go could have made it a door
+4:47 panel that would have worked now here's
+4:49 the trick is cabinet style we want this
+4:52 to be a bow front and the bow depth that
+4:57 two and a what was it 2 and a half
+4:59 inches
+5:00 that bam two and a half inches all
+5:05 right and so we're left with guess
+5:08 what a shape that looks almost identical
+5:11 to the shape that we just made cool
+5:14 right so that all we have to do here is
+5:17 take this panel 42 and 136 we're going
+5:20 to have to do a little special something
+5:22 to this particular panel because in
+5:24 advanced sizing the left side has a 4 in
+5:28 bounding box spacing all right but we
+5:32 get to convert selected to symbol and
+5:35 we're going to convert it to a cabinet
+5:37 door or drawer I actually don't need it
+5:40 to add it to the library but I do need
+5:41 to show Advanced options press okay and
+5:45 in advanced sizing this is where we're
+5:47 going to uncheck 3D geometry dimensions
+5:51 and put 4 in right here and that'll form
+5:55 that bounding box spacing if we show the
+5:57 bounding box there we go that adds that
+5:59 little Gap now this is well in my queue
+6:03 if you will it's on the mouse cursor
+6:05 right now it's in the place symbol mode
+6:08 and I can hover over this and place it
+6:11 and we
+6:13 have curved panel that cool so that I
+6:18 can take this and convert selected to
+6:22 symbol again and switch it back to a
+6:26 milw workk type symbol
+6:33 yeah that's it show Advanced option I
+6:36 could add it to the library I'm not
+6:37 going to you could see the bounding box
+6:39 here I
+6:41 guess that bounding box spacing wasn't
+6:44 really necessary the first time around
+6:46 so the second time around is when maybe
+6:49 it's necessary in this case in the case
+6:51 of this particular symbol now another
+6:54 thing to
+6:55 note is this is going to place about its
+7:00 Center Line of its bounding box I
+7:05 think so you might need to do a little y
+7:09 offset to get this to place so that it's
+7:12 right in the center
+7:15 of it's right where it needs to be try
+7:18 this out should be able to hover over
+7:22 this I mean that's going the the wrong
+7:25 way it's going backwards
+7:30 and also think that think that I want to
+7:34 draw my own railings in I have a little
+7:36 more control over
+7:42 my roll over my little spacing so that
+7:47 if we use the railing
+7:49 tool draw this out and then Mark this up
+7:55 say that in the rail Style
+7:59 one that it's panels two that it follows
+8:03 stairs now we've got some control over
+8:05 the nle bacing because we could sit here
+8:08 and tab and actually move the
+8:11 nle right that's something we could do
+8:15 so get back
+8:18 into this right here conver work show
+8:22 Advanced options I'm going to show
+8:23 Advanced option we're just going to
+8:25 happens
+8:30 interesting
+8:32 right because this one's being split
+8:36 like if we added more
+8:39 news we added a newal here what happens
+8:44 look at that that improves drastically
+8:50 right so you'd have to do some different
+8:52 work throughs if you were to leave the
+8:56 newal spacing as were let's try this
+8:59 again let's grab this
+9:01 guy um selected to symbol Advanced
+9:06 options bam add that
+9:09 spacing hover over
+9:12 replace there we go now it's got a
+9:15 little Gap in
+9:19 between and is it on the money no it's a
+9:23 little off right so that's clear that in
+9:26 the direction of the bow in our Advanced
+9:29 op let's try it one more time see how
+9:31 quick and easy this is like you don't
+9:34 have to continuously add this to the
+9:36 library you can keep working through it
+9:39 guess and check um until you get to
+9:42 something that makes a lot of sense in
+9:44 this case um in 3D if we look at this
+9:48 top down view uh what did we need this
+9:50 to do we needed it to move actually it
+9:53 looked like it needed to move in the
+9:55 negative y direction so in origin offset
+9:59 if we set this to let's just bump it a
+10:02 good ways -2 see what happens cuz we
+10:06 want this to push more towards
+10:09 underneath the railing look at that
+10:12 boom right on the money look how good
+10:15 that
+10:16 looks good that looks isn't that
+10:24 incredible Successful video high five
+10:31 me know if you've got questions on this
+10:32 I went pretty fast
+10:43 [Music]

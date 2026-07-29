@@ -1,0 +1,77 @@
+---
+videoId: _tiHusvg1Xw
+title: 3d Logo The Fastest Way in Chief Architect
+url: "https://www.youtube.com/watch?v=_tiHusvg1Xw"
+status: imported
+---
+
+# Transcript
+
+0:03 okay this is quick tips quick tips so
+0:03 we're gonna be converting a 2d logo into
+0:10 a 3d logo and what i have here is a logo
+0:12 with a background removed
+0:12 so that it's transparent so from here
+0:17 i'm going to export this make sure
+0:17 transparency is checked we want to make
+0:21 sure it's a file type png
+0:23 pick a folder to
+0:23 locate and then navigate to that folder
+0:28 and then also navigate to your internet
+0:29 and
+0:29 i'm using convertio.co
+0:32 but you can use any png to dxf converter
+0:39 all you do is drag your png into the
+0:39 converter and then you're going to be
+0:43 able to download that image back
+0:43 long as you download that image in a
+0:46 location that you know
+0:46 you can drag that dxf file into your
+0:52 elevation if you're in say chief
+0:52 architect and then the import drawing
+0:56 assistant will come up and i want to
+0:57 make sure i'm converting lines with
+1:00 shared end points into polylines
+1:00 i'm going to go ahead and drop this into
+1:05 my layer cad default and then click on
+1:07 through and next
+1:07 it will import into this elevation i'm
+1:11 going to go ahead and drag this edit
+1:11 handle to resize this import and then i
+1:17 can zoom in on that
+1:17 and do a little bit of cleanup now you
+1:21 notice when i resize we're seeing fill
+1:24 in some of the lettering in this logo
+1:26 now i need to go ahead and take some
+1:28 time and clean that up if i want to
+1:32 mainly that i want to take something
+1:32 such as this r that is a closed polyline
+1:37 and in the edit menu use the subtraction
+1:41 tool to subtract that middle now that r
+1:43 is prepped be converted
+1:43 just to show the conversion i'm just
+1:45 going to highlight this upper section
+1:50 that is all the rabbit logo here
+1:52 and then i can either
+1:52 convert it to a backsplash where i could
+1:57 even erase some of the finish layer of
+1:57 my
+1:57 wall material or i can turn it into a
+2:07 my p solids default to 12 inch in my
+2:07 template plan i'm going to go ahead and
+2:10 limit this back down to say two inches
+2:10 but you can see we've already got our 3d
+2:16 logo and this is edited live so you know
+2:19 i'm going to navigate to my plan view i
+2:20 can highlight
+2:20 all of my p solids there convert this to
+2:25 a symbol make it a furnishing
+2:28 and then in back in my three
+2:30 window
+2:30 once that conversion is done and we get
+2:34 a symbol specification dialog
+2:34 we can place it onto the wall again
+2:38 if you save this to your library you
+2:41 could of course change the default
+2:44 height that this will place at
+2:46 that's it for this quick tip

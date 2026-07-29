@@ -1,0 +1,65 @@
+---
+videoId: ko06nQDyhpI
+title: Stepped Stem Wall In Chief Architect X15
+url: "https://www.youtube.com/watch?v=ko06nQDyhpI"
+status: imported
+---
+
+# Transcript
+
+0:01 what's up VIP let's do a really fast
+0:03 stepped terrain I've got an elevation
+0:06 here we're going to take a look at this
+0:07 I've got terrain coming in at this
+0:08 elevation right here pretty steep
+0:11 elevation let me go ahead and switch to
+0:13 my plan view let me draw out a couple
+0:16 interior walls in fact I'll just draw
+0:17 one interior wall and then I'm going to
+0:20 specify that this is a bearing wall and
+0:24 that also checks free it wall footing
+0:26 below I'm going to press okay now let me
+0:28 just do multiple copy and yeah we'll
+0:31 stick with two copies drag them out I'm
+0:33 not too worried about where they are and
+0:35 then I can go ahead and use the Align
+0:37 distribute along the line should be that
+0:39 wall distribute centers evenly
+0:41 distribute between those end points it's
+0:43 going to evenly space those walls out
+0:46 perfect now let's get into a
+0:48 cross-section view that I've drawn
+0:50 through the house and I'm going to click
+0:51 on a foundation wall then tab and lower
+0:55 this footing based on what I need so I
+0:58 need this just below the grade this is
+0:59 going to a turn off Auto Rebuild we go
+1:02 ahead and tab through to the next
+1:04 section same thing going to get this
+1:06 right below the grade tab through the
+1:08 next selection section excuse
+1:12 me and one more we're going just drop
+1:14 this one down just a little bit now
+1:17 let's take a look at what this looks
+1:18 like in 3D I'm going to go ahead and
+1:20 switch to a Terrain view
+1:22 here let me pull back my terrain just so
+1:26 we can really see this well in 3D
+1:30 and pull camera
+1:35 out and in our options let's just turn
+1:38 off that extend terrain
+1:42 T and there we
+1:45 go fast easy step terrain let's take a
+1:48 look at what this looks like in our
+1:49 foundation plan
+1:52 view simple simple
+1:56 simple take a look at framing floor plan
+1:58 View and of course if we wanted to we
+2:01 could do our alt build and then framing
+2:04 is going to be M and build all
+2:14 Framing and it doesn't show us anything
+2:18 new probably need to specify a few
+2:20 things so anyways hope you learned
+2:22 something from that
+2:25 [Music]
+2:30 h

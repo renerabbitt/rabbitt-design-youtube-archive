@@ -1,0 +1,125 @@
+Title: Showing Color Elevations For Proposed With Grayscale Existing Elevations In Chief Architect
+URL: https://www.youtube.com/watch?v=LWaelC5gMVc
+Visibility: members-only
+
+0:00 What's going on, VIP? I'm going to show
+0:02 you a cool little trick for referencing
+0:04 an asbuilt in no color to a proposed in
+0:09 color in an elevation view. In an
+0:12 elevation view. Um, I've got a new plan
+0:15 file open here. I'm just going to draw a
+0:17 shaped house real quick,
+0:20 just like so.
+0:23 And then if you're using my pro plan,
+0:25 this just means we're drawing this in
+0:26 the proposed plan and then we are
+0:28 injecting it into the asbuilt. So let me
+0:31 drop in a couple windows here so we
+0:32 could just see that this is in fact
+0:35 the asbuilt or it will become the
+0:38 asbuilt.
+0:40 And we'll do some on the back side here
+0:41 as well. And then I get to come into my
+0:45 project browser and choose another file
+0:47 that's already linked to a bunch of
+0:49 layouts and replace with.
+0:51 That's going to prompt me and say that,
+0:53 hey, we've already sent this file to a
+0:54 bunch of layouts. You sure you want to
+0:56 do that? And then I'm going to target my
+0:58 active tab here. Select that. It's going
+1:00 to prompt me if I want to delete it. No,
+1:02 I do not. What did that do? That just
+1:04 inject the current state of this plan
+1:07 into that as built plan, which like I
+1:09 said is already being sent to a layout
+1:11 file.
+1:12 Now, let me go ahead and draw in just a
+1:14 little fun little addition right here.
+1:18 Okay. And let's go pull up a layout.
+1:26 I'm going to get to the page where I
+1:27 already have present some elevation
+1:30 cameras. So, let me just forward through
+1:33 cycle through.
+1:35 You can see this is already building
+1:36 this out. Here's my proposed front
+1:38 elevation. Let me update this view.
+1:41 Okay,
+1:43 that's going to populate this. There we
+1:45 go. Here's the next trick. Let's just do
+1:48 a little copy paste. Paste hold
+1:50 position.
+1:52 Let's relink this view. We're going to
+1:55 target the asbuilt in this case. So, I
+1:58 can minimize this. Excuse me. I can
+2:00 minimize the open plan. Get into the
+2:04 cross-sections. There's already a
+2:06 duplicate cross-section set up the exact
+2:09 same way. I'm going to change the link
+2:12 to that front elevation of the asbuilt.
+2:15 Next thing I'll do is I'll open this up.
+2:19 I'll set this so that it has no color
+2:21 fill. And actually, it just kind of does
+2:23 that on its own when you relink. Right
+2:26 now that that's set to no color fill, I
+2:28 want to change the draw order so that
+2:30 I'm bringing that one in front of this
+2:33 proposed. Okay. So, I'm going to bring
+2:34 it forward. Look what happens. There's
+2:36 my no color fill existing front
+2:39 elevation. If I were to tab through
+2:41 this, we're going to see that there's my
+2:42 proposed elevation. So that maybe I want
+2:45 to move this over, slide this over. And
+2:48 notice that it's getting blocked. That's
+2:50 because it's bound to the layout box
+2:52 view. And there is some fill happening
+2:54 in that layout box view. And that's
+2:56 coming from the terrain of my asbuilt.
+2:59 So I could delete the terrain. I could
+3:00 change the skirt height of that terrain.
+3:02 Or I could just drop this layout box
+3:04 down to the point where it's no longer
+3:07 blocking this element. There we go. That
+3:09 would be a way of doing that. Okay. Now,
+3:11 we can see here there's my existing.
+3:13 There's my proposed. Now, this isn't
+3:16 always going to be set up exactly the
+3:18 way we want it to be set up because this
+3:20 isn't truly a demo plan. Like, we would
+3:22 want to set this up to be a demo plan
+3:24 instead where we're kind of cutting away
+3:27 this roof and kind of stitching these
+3:29 two together. And maybe that makes a lot
+3:32 more sense. But this could be handy in
+3:35 some cases where you're trying to
+3:36 illustrate some things in a unique way
+3:39 where we're just trying to, you know,
+3:40 introduce this color fill in in a
+3:42 specific way. So you can play around
+3:45 with this. You can, of course, do
+3:47 something. Well, keep in mind, um, we
+3:49 notice here that my highlight colors are
+3:51 pink. So it's highlighting that that's
+3:53 the view that's being selected right
+3:55 now. I have to tab into the other view
+3:57 to get to that proposed. And then I'd
+3:59 have to update this camera because I
+4:01 don't have update auto update turned on
+4:03 because that takes a really long time.
+4:04 So there we go. There's my propose with
+4:06 its color fill. Looks pretty sharp. Keep
+4:09 in mind you can select and break and cut
+4:13 this layout box along lines. So if you
+4:16 wanted to, you could sit here and cut
+4:18 this to expose where your roof's going
+4:21 to tie in, you know. And so maybe that's
+4:24 helpful.
+4:25 Maybe we were illustrating in a more
+4:28 clever way exactly where our transitions
+4:31 are happening. So there we go. That
+4:34 would be a way to show new versus
+4:35 existing. Try it out. See if you like
+4:38 that. Play around with it. See if that's
+4:40 somehow beneficial to you. Hope that
+4:42 helps you out.

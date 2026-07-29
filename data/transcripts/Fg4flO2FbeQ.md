@@ -1,0 +1,291 @@
+---
+videoId: Fg4flO2FbeQ
+title: How To Make A Storm Door In Chief Architect
+url: "https://www.youtube.com/watch?v=Fg4flO2FbeQ"
+status: imported
+---
+
+# Transcript
+
+0:00 What's going on VIPs? Someone asked me,
+0:02 how do we do a security door? So, I'll
+0:05 show you how to do that real quick. I'm
+0:06 going to get to
+0:08 Um, I just search on Pinterest for
+0:10 security doors or storm doors.
+0:14 All right, pick up an image like this.
+0:17 I'm going to do a little screenshot of
+0:19 this.
+0:22 Maybe we'll clean some stuff up about
+0:24 this real quick. Um, let me get a little
+0:26 bit better of a screenshot.
+0:29 So, what I'm going to clean up is I'm
+0:31 going to bring this into AI.
+0:34 I preferred is CreAI, so I'll bring this
+0:36 into CreAI. I'm going to do a little
+0:39 edit here. You could do this with a chat
+0:41 GPT or something like that, too. So, I'm
+0:43 going to do an edit. I'm going to load
+0:44 that up.
+0:46 I'm going to say, "Hey, um, if I want to
+0:49 get really advanced, let's just say
+0:53 make the screen portion transparent
+0:59 and remove the hardware." Um,
+1:03 want to get even more advanced? In a
+1:05 previous, um, video, I loaded up a
+1:08 Python script that works in Blender that
+1:11 will remove predominant colors from a
+1:13 model or remap them,
+1:16 um, from a model so that you can, um,
+1:19 get an auto AI generated mesh that has
+1:22 multiple material IDs so that you can
+1:26 put two materials on something you're
+1:28 getting from an AI based model
+1:30 generator. All right. I just talked that
+1:33 out. That sounded complicated, but, um,
+1:36 this is funny.
+1:39 I'm not sure what it was doing with this
+1:42 background here. That's really
+1:44 kind of funny.
+1:45 Um,
+1:46 but, you know, another thing I could go
+1:48 do is I could go take this into
+1:49 Photopea. I actually don't, um, I I like
+1:51 that this, you know, really enhanced the
+1:54 overall
+1:56 you know, look of this in resolution,
+1:59 but really funny that it put a
+2:01 background in the back.
+2:03 Uh let's bring this Photopea, which I've
+2:05 been using instead of Photoshop, just to
+2:06 show you that it can be done, even
+2:08 though I prefer Photoshop. So, I can
+2:10 just paste
+2:12 um my image, and then there you go. And
+2:15 then I might be able to control alt T
+2:18 and remove background. I'm not sure if
+2:21 that works. I know in Photoshop, there
+2:23 is a remove background tool. So,
+2:27 you'll have to tell me
+2:30 if there's something like that. Let's
+2:31 just try the search in Photopea, so
+2:33 you're learning with me right now.
+2:36 Remove background.
+2:38 Doesn't seem to be
+2:40 giving me anything. Remove Remove
+2:43 background. Okay.
+2:44 Watch a short ad the
+2:48 Yeah, sure. It's a premium feature.
+2:52 So, we got to watch an ad.
+2:54 Funny.
+2:55 So, this is turning into a paid service,
+2:57 as it should. It's a really great
+2:59 program. So, look at that. It did an
+3:01 okay job. I'm going to stick with this
+3:04 for now. Um it applied a mask. So, if
+3:07 you really wanted to get serious with
+3:09 this, you could come in here with your
+3:12 brush and flip the brush to be a truly
+3:16 black uh hex code 000,
+3:20 and and that way you could hold shift
+3:23 click, and then just mask out portions
+3:27 that aren't going to work for you, like
+3:29 this little section here. It did some
+3:31 funny stuff. Um so, I'm adding to that
+3:33 mask is what I'm doing. That was
+3:35 removing the background. And something
+3:38 like that. You know, there's some
+3:39 additional cleanup to do here. I'm not
+3:42 going to worry about it, um because I'll
+3:44 let you do all that work. I just want to
+3:46 show you how to finish this up. So, um
+3:49 I'm going to invert this just for this
+3:51 lower portion, so we can get this back
+3:53 and this upper portion so we could get
+3:55 this back and just make sure that frame
+3:57 is just in there, right? So, I just
+4:00 flipped by hitting X, that flipped my
+4:03 colors from, you know, black to white.
+4:05 So, hitting X just flips that, okay? And
+4:08 so and I'm drawing in the mask so that
+4:10 helps me, you know, change how I'm
+4:11 drawing in the mask, so. I hit X again
+4:14 and I'm flipping that mask one more time
+4:16 and I'm drawing in the mask. Really easy
+4:19 for me to hold shift draw this straight
+4:21 down. Hold shift draw this straight
+4:23 down. And then hit X and do the inverse.
+4:27 That's just some cool little quick tips
+4:29 here. Now, let me go ahead and export
+4:32 this. Um
+4:35 And so we need to get into file, export
+4:38 as PNG. There doesn't seem to be a hot
+4:40 key for that. And let me just hit save.
+4:44 Very cool. I'll save it to my downloads.
+4:46 We want to name it something, so storm
+4:49 door one.
+4:50 Um something that's going to be useful
+4:52 if we ever want to look it up in our
+4:54 asset manager again. And then um I've
+4:57 shown something similar before but we
+4:59 can use the face tool to just draw out a
+5:02 face real quick. And double click your
+5:04 last point and that will commit the face
+5:07 and now we can actually edit this to be
+5:09 uh 36 in by let's say 80 in as a panel.
+5:13 And now I'm going to use the transform
+5:15 replicate to make a copy of this and I'm
+5:18 going to make um I'm going to make this
+5:20 uh inch and three quarters. So, we're
+5:22 going to go inch and three quarters um
+5:25 basically times 16. Um so, 1.75 *
+5:30 16.
+5:32 And what does that give us? 28. And so,
+5:34 we're going to move this in the Z delta
+5:36 1/16 of an inch. All right. Now, let's
+5:39 go. Now, while that's selected, I could
+5:43 just right now convert this to a door,
+5:45 okay?
+5:46 And show advanced options, and let's
+5:49 rotate this in our 3D so that it's
+5:52 rotated once this way, rotate in the X,
+5:55 and now it's facing up, and it's going
+5:58 to auto do its CAD, um and then while
+6:01 it's in
+6:03 our library, let's call it a storm door
+6:07 one, and get to the materials panel, um
+6:11 you can single hold click to change the
+6:14 name of this storm door body um as just
+6:18 a designator, and then select material,
+6:21 and we are going to
+6:23 um create a new.
+6:24 So, uh we can't create a new there, so
+6:27 maybe we will just edit by copy and
+6:30 edit, or Oh, you know what? There's new.
+6:33 There is new in the plan materials.
+6:36 And let me dock this real quick. And so,
+6:38 storm door one,
+6:41 get to that texture panel, do a little
+6:45 um shift import, go find that in my
+6:49 downloads just like that. We're going to
+6:52 do a little stretch to fit. In this
+6:55 case, I think stretch to fit is what we
+6:56 want. It may not be. We may actually
+6:59 need to scale this. Um so, keep that in
+7:02 mind. We might have to scale it, all
+7:04 right? And let's press okay. Um I'm
+7:07 doing a sloppy job of this. You're going
+7:09 to want a much a cleaner PNG when you do
+7:11 it, but if I switch to my standard view,
+7:14 that looks pretty good. That looks
+7:16 pretty good. And actually, inch and 3/4
+7:18 is totally wrong. I should have done
+7:19 like inch and a quarter, so And what's
+7:21 great is we still have the ability to
+7:23 shrink this down. So, in this case, it
+7:25 was like inch and 11/16. I could say uh
+7:28 1.25 instead. That'll shrink that down.
+7:31 How do we use this? Now, if I
+7:34 go draw out a little building action
+7:36 here, draw in a door, let's go ahead and
+7:39 throw in a little fixed sidelight just
+7:42 to show this whole thing
+7:44 and copy paste reflect about. Um I don't
+7:47 know how we're going to use this, but
+7:49 I'm going to try.
+7:51 I'm going to try. And the thing that I
+7:53 think I'm going to try is I think if I
+7:55 place the storm door, it's immediately
+7:57 going to fight the existing storm door.
+7:59 So, instead, I'm going to copy paste
+8:02 paste hold position, I'll flip the swing
+8:05 side. Okay? And let's see what we're
+8:09 working with. Let's show this open in 3D
+8:12 and pull a 3D view.
+8:14 And then
+8:16 let's hover over the storm door. And
+8:18 then in object mode, we should be able
+8:20 to replace this object. And there is my
+8:23 storm door. And so
+8:27 I think that's pretty dang close, is it
+8:31 not?
+8:33 What happens when we show this closed?
+8:36 Does hardware going to get in the way?
+8:37 Oh, that was actually opening up the
+8:39 other door. And obviously the hinge
+8:41 sides are wrong. Let's flip those hinge
+8:42 sides. There we go. And so now I get to
+8:44 select this. Show it closed. You know,
+8:47 the door handles might be fighting. We
+8:49 have to you know, maybe touch up a few
+8:51 things to get those all to jive. Um
+8:55 you know, you might just change that
+8:56 hardware to something that makes more
+8:58 sense. Might change the thickness of
+9:00 this door that makes more sense. Um
+9:03 I don't know that I care that the jam
+9:05 and um is fighting, but you can, you
+9:07 know, kick off the casing if that feels
+9:09 like it makes a difference. You could
+9:11 obviously uh change the jam color, so we
+9:14 might even
+9:15 um say something like in
+9:18 um
+9:20 Oh, let's see. In the jam panel, say
+9:22 door size includes jam, and that would
+9:24 shrink it down just a little bit, even
+9:27 though the size would still report
+9:28 correctly. And we could change the color
+9:30 of the jam.
+9:31 Um and maybe that would even look more
+9:33 realistic. And then
+9:36 um could we you know, we could recess it
+9:39 to the sheeting layer, to the main
+9:40 layer.
+9:42 Do a couple different things here. I'm
+9:44 going to go ahead and paint this
+9:46 black stainless on our storm door frame
+9:49 so that it really looks good.
+9:54 And let's open this up and let's see
+9:56 what it looks like when we set that
+9:58 swing angle to something like 120°.
+10:01 And
+10:03 look at that, everybody.
+10:05 Look at that. Doesn't that look pretty
+10:07 close, right? We could even change you
+10:09 know, I might even be able to just lift
+10:11 this up a little bit just to show that
+10:13 threshold. Let's just go 0.25.
+10:17 And so, maybe we can even paint that
+10:20 threshold. On that same
+10:24 that just kind of a stainless here.
+10:27 You know, it's going to fight it a
+10:28 little bit. That's okay.
+10:33 That's cool.
+10:35 I don't know. I'd say play around with
+10:37 that, but that got pretty close pretty
+10:40 dang quick.
+10:42 Lee.
+10:44 I got to work on my grammar.
+10:46 Hope you like this one.
+10:48 Also, wait a minute. Look at this face.
+10:51 Look at this face they got going on me.
+10:53 Look at that color filtering. I look
+10:54 like I have I'm sick.
+10:58 What's going on?
+11:00 I don't look like that. Let's do this.
+11:03 Oh, these colors are bad.
+11:06 There we go. I actually have a tan right
+11:08 now. It's just not showing up.
+11:12 The ridiculousness. And also, if anybody
+11:14 knows, I've been working on this dang
+11:16 plant for
+11:18 for months and I can't get it to
+11:21 recover. If you know any tricks, let me
+11:23 know. It's a dracaena. Am I saying that
+11:25 right? I'm struggling with it.
+11:27 There, a little bit of touch of
+11:29 goofiness and silliness and humanity
+11:32 from me. This is my my day-to-day
+11:36 stupid commentary that happens.
+11:38 Take care.

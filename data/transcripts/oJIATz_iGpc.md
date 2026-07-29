@@ -1,0 +1,1543 @@
+---
+videoId: oJIATz_iGpc
+title: Template Tuesdays - Tricks For Designing Bathrooms
+url: "https://www.youtube.com/live/oJIATz_iGpc"
+status: imported
+---
+
+# Transcript
+
+0:00 All right, we're live. How's it going?
+0:03 Be Tuesday morning. Get my mic a little
+0:05 bit closer. I've got some guests over,
+0:07 so I'm going to speak a little bit more
+0:08 quietly this time around.
+0:10 And
+0:12 like most of my template Tuesdays, this
+0:14 is a bit impromptu of an idea. Thought
+0:17 we'd go over doing some bathroom design
+0:19 tricks and tips. And so, I'm going to
+0:21 start with a pretty generic bathroom. Um
+0:24 also like my other template Tuesdays, I
+0:25 will be highlighting some things that I
+0:27 sell, um products that are add-on
+0:29 products for Chief Architect. And the
+0:31 one that will be probably utilized a lot
+0:34 um in this session is my pre-configured
+0:37 shower tools, which is uh building
+0:39 showers using a cabinet. Um and they're
+0:42 and they're already set up for some
+0:43 really common shower styles, making it
+0:45 really easy for me to get those showers
+0:48 into place.
+0:49 And and so, that's just a precursor bit
+0:51 of information about watching the show
+0:53 is that's the that's the thing I'm going
+0:55 to be utilizing, which might look
+0:56 unfamiliar to you.
+0:58 And then, and I've got Chief Architect
+1:01 up right now.
+1:02 Did not have any um bathroom I wanted to
+1:06 work on, so I'm just going to draw some
+1:07 generic bathrooms and to just get
+1:10 everything set up so it works correctly.
+1:12 I'm going to start with just a uh four
+1:14 exterior walls.
+1:16 If you're a contractor that's doing
+1:19 just bathrooms, for instance, or just
+1:22 kitchens, for instance, and you're
+1:24 wanting to uh
+1:26 just depict that that your local age
+1:30 shape that's all they require, they
+1:31 don't require to see the rest of the
+1:33 house. I would still encourage you to
+1:35 put in four exterior walls to get going
+1:38 because um Chief Architect will
+1:40 recognize what's an exterior wall versus
+1:42 an interior wall, and that can cause you
+1:45 problems with placing doors, etc. So,
+1:47 your automatic settings uh out of the
+1:50 box for your template, if you go try to
+1:52 place a door on an exterior wall versus
+1:54 an interior wall, and you're going to
+1:56 just see I'm using my own templates
+1:58 here. It's very clear that these are two
+2:00 different entities is when I go use
+2:03 that
+2:04 door in the interior, it's clearly set
+2:06 up differently. It's actually seen as
+2:08 some kind of an interior door versus
+2:10 exterior door. So, um
+2:12 if you're new to Chief Architect, that's
+2:14 going to be something that's important
+2:15 for you. If all you're doing is drawing
+2:17 a limited scope like a bathroom,
+2:20 go ahead and put four exterior walls in
+2:21 there. It'll help you out.
+2:23 And then, um I'm just going to address a
+2:25 couple people in the comments. Just say,
+2:26 "Hey, I see you guys." Comments are up
+2:28 on the screen. I'm going to look over
+2:30 there periodically to see if I can uh
+2:32 catch any information and questions you
+2:34 might have. Please feel free to ask
+2:36 questions cuz
+2:37 I only have an agenda to to talk about
+2:40 things because, you know, otherwise I'm
+2:42 just sitting here blabbing away. Uh but,
+2:44 if you have something you want me to
+2:45 show you, please bring that up in the
+2:47 comments. I'm happy to do a little um
+2:49 side side bar, you know.
+2:52 Uh and then, welcome. Good morning,
+2:54 Anthony Reed. Good morning, Alan. Thanks
+2:56 for doing this. If I had a suggestion
+2:58 for this session, it would be to show
+2:59 designing a bathroom. Okay.
+3:02 Sounds good.
+3:03 Uh Alan's out of California. Um
+3:06 and we have similar humor.
+3:09 Good morning, Anthony Hayes.
+3:11 All right. So, let me just do I'm going
+3:13 to just start with doing a really common
+3:15 bathroom, which um to me a bathroom is
+3:18 going to be uh 4-ft 11 in between our
+3:22 our drywall. So, 5-ft framing. And um
+3:26 also, that same bathroom is going to be
+3:29 to me, my standard is 8 and 1/2 ft
+3:32 minimum. Okay. That's just my own
+3:34 personal standard. I know people get
+3:36 away with a lot less.
+3:38 Um that's just something I I'm always
+3:40 shooting for. So, we'll just put this at
+3:42 8 ft 6 and
+3:46 right now I'm showing
+3:48 uh surface to surface. So, we'll just
+3:50 put this at an even 5-ft. All right.
+3:54 Typical just
+3:57 some kind of door going into that
+3:58 bathroom. I love to get a 2668.
+4:01 And then I'm going to show you one of
+4:02 those pre-configured showers, and this
+4:04 is probably the easiest one, and you can
+4:06 see I even have icons built for the
+4:08 various different showers I have
+4:09 configured. So, I'm going to use just a
+4:10 standard shower to pop this in here.
+4:15 And
+4:18 just kind of manipulate this a little
+4:19 bit. We're going to make it a little bit
+4:20 shallow, like a 33.
+4:22 I like to have my toolbar configuration
+4:25 set up so that I have links to really
+4:27 common items, and I know I've I've shown
+4:30 this plenty of times before, but you can
+4:32 always get into customize toolbar,
+4:34 and then in the available toolbar
+4:36 buttons, put place library object, and
+4:39 you're going to see this, and you can
+4:40 drag it into place, and if you drag it
+4:43 pretty much right on top of some other
+4:45 icon, it's going to place an icon right
+4:48 next to it as opposed to making a new
+4:50 toolbar. And then I can click on this,
+4:52 and it will prompt me to link it to some
+4:54 library object,
+4:56 like a toilet paper holder.
+5:00 And then that way, if this is something
+5:02 I'm using over and over again, it'll be
+5:04 easy for me to just click on that from
+5:06 my toolbar and be able to place that.
+5:08 All right, so there we go. I got a
+5:09 toilet paper holder. Maybe I'll choose
+5:11 this one.
+5:12 And then it will try to automatically
+5:13 generate something that might look
+5:15 correct for you um in terms of graphics,
+5:18 but you can always browse and create
+5:19 your own graphics, which is how I do my
+5:21 graphics.
+5:23 So, I'll just do the automatic one for
+5:24 now, and there we go. Now, when I click
+5:25 on that, that's going to be a toilet
+5:27 paper holder. So, that's exactly how I
+5:29 got such things as my toilet here.
+5:32 Now, my toilet um compared to maybe some
+5:36 of the ones that are in the library,
+5:37 um it's set up to have a bounding box
+5:41 that's a different size than the
+5:44 geometry that it's representing, okay?
+5:47 And what does that mean? So, the width
+5:49 of this bounding box in this case is 2
+5:51 ft 6. So,
+5:53 um that's going to be a 30-in that means
+5:55 I'm kind of
+5:57 you know, building means some parameters
+5:59 into my object so that it's helping me
+6:02 follow my requirements, which is
+6:05 I need 15 in clear center to center to
+6:07 this toilet from left to right.
+6:10 I don't, however, put in the um what is
+6:14 it? I believe 21 in clear from the front
+6:16 of this toilet that I'm requiring. That
+6:18 just makes it a little bit too
+6:19 challenging to place this, especially
+6:21 with Chief Architect's automatic um
+6:24 rotation abilities, right?
+6:27 So, I just make sure that, you know,
+6:29 I've got a clearance in front of this.
+6:31 I've shown before in um
+6:34 in the classroom when I teach in person
+6:37 how you can, in fact, put some stuff in
+6:39 here if you always want to show the
+6:41 clearance requirements. You could put
+6:42 that in the CAD detail of the symbol
+6:44 itself. If someone's interested in that,
+6:46 I could do a little offshoot on that. Um
+6:48 so, that might be something I might do
+6:50 during this session if I feel like I've
+6:52 got time.
+6:53 Uh but for now, just going to place
+6:55 that.
+6:56 Typically, um on a
+6:58 on a bathroom that's this small, I'm
+7:00 going to do a very small center
+7:04 um unit if I know what the sink is that
+7:06 I'm going to utilize. So, if I know that
+7:07 I've got a sink that I can utilize
+7:09 that's that's pretty small, I might be
+7:11 able to get away with making this a 21
+7:13 or even down to an 18. Um totally
+7:15 depends. So,
+7:18 this is currently bumping. You can see
+7:20 that snap picking up. It's bumping to
+7:22 that toilet, so I know I have my
+7:23 clearance on both sides of this.
+7:26 And then I can just throw another
+7:28 cabinet in here
+7:29 just like that.
+7:31 And um in a tight [clears throat] space
+7:33 like this, which often this space is
+7:35 pretty tight, we're going to go to a
+7:37 like a 21-in depth.
+7:40 Something like that. Okay?
+7:42 And then I utilize my kitchen tools,
+7:44 which is just uh these are style
+7:46 palettes that save the front face
+7:48 configuration.
+7:50 Um so, for this, I just get to spray a
+7:52 three-drawer base. And I'm going to do
+7:54 in this case a full-height double door
+7:57 on this unit.
+7:59 And then I get to place a sink with
+8:01 faucet.
+8:03 Now, I have on my YouTube channel, and
+8:05 I'm not sure where this is. I'm going to
+8:06 have to go search it out for you, but I
+8:08 do have a video about it. It's in my um
+8:11 Chief Architect Shorts videos on how to
+8:14 make a sink
+8:16 and faucet combo. I really encourage you
+8:18 to go check that out if you've got um a
+8:21 particular sink and combo that you're
+8:23 using on the year, right? A lot of
+8:25 times, designers were changing to a next
+8:28 series,
+8:29 and we want to show different options,
+8:31 especially if you want to show different
+8:32 options that have different pricing and
+8:34 in terms of having different tiers
+8:37 of uh like a package that you provide.
+8:39 So, you're going with like the Kohler
+8:41 Purist brand along with some Kohler sink
+8:45 versus, you know, some kind of Delta
+8:46 line,
+8:47 um you can set that up so that the sink
+8:50 comes in with that faucet. So, you don't
+8:52 have to constantly be placing those two
+8:54 separately every project, every bathroom
+8:57 you're doing.
+8:58 Um the other thing that I have in my
+9:00 settings is I have automatic fillers
+9:02 turned off. And this to me is really
+9:04 important, especially if we're doing
+9:06 bathrooms, because oftentimes I don't
+9:09 fill all the way to the corner. I might
+9:11 make this something like a 12-in unit
+9:13 because who knows? Maybe I feel like I'm
+9:15 getting enough storage somewhere else,
+9:17 maybe from a linen closet outside, what
+9:19 have you, or this might be a third,
+9:22 fourth bathroom in the house that
+9:23 doesn't need that kind of storage, and
+9:25 I'm going for a look, and I oftentimes
+9:27 find it um
+9:30 much better visually when I'm not taking
+9:34 this all the way to the corner with a
+9:36 filler.
+9:37 And this a a little bit of space and it
+9:39 can really lighten the room up, etc.
+9:42 And then when I'm just kind of
+9:44 generically going through design, I like
+9:46 to have a link to just a mirror. It's an
+9:48 easily resizable mirror. We're going to
+9:50 look at that in just a second.
+9:52 And then my default settings for lights
+9:55 now,
+9:56 um I just changed this recently, is when
+9:58 we double click on our place light tool
+10:00 or electrical defaults and we go to the
+10:03 light wall section.
+10:06 This allows me to go pick out any
+10:08 fixture that I want. So,
+10:10 in this case, I picked out a Visual
+10:12 Comfort fixture that I created and that
+10:14 looks a little bit nicer than most of
+10:16 the vanity lights that I've seen in the
+10:17 catalog and that way by default I'm
+10:20 placing that. So, as soon as I come in
+10:23 here, place that, bam.
+10:25 And so, let's go over, you know, a real
+10:27 early trick is if I want to center this
+10:30 light
+10:31 and that mirror on these two cabinets
+10:34 together, what can we do?
+10:36 Now, the reason I placed two cabinets as
+10:38 opposed to one unit is because in this
+10:41 case, I'm going to use custom cabinets,
+10:43 but it might be that you've got some
+10:44 kind of preconfigured vanity that you're
+10:46 purchasing, right? And in that case, we
+10:49 would have to go through and make this
+10:51 in one single cabinet. Show you that in
+10:53 a minute.
+10:54 But for now, I want to center this light
+10:57 on those two
+10:59 cabinets together. So, we'll use the
+11:00 center objects tool and then there's a
+11:03 sub edit menu and we get to use a point
+11:06 to point center. And that means I get to
+11:07 pick two points, which means I can pick
+11:10 that midpoint at the outside of this
+11:11 cabinet and the midpoint at the outside
+11:13 of the other cabinet and it will allow
+11:15 me to center that fixture based on that.
+11:18 So, that's pretty cool.
+11:20 Now, let me pull a camera and we're
+11:21 going to just discuss a few tricks about
+11:23 navigating around a really small space
+11:26 with a camera like this.
+11:28 And let me just take a look at the
+11:29 cabinets cuz I I you guys are chatty
+11:31 this morning.
+11:32 Good Darian, good morning from San
+11:33 Leandro. Cool. Is that San Leandro,
+11:35 California? That is right down the road
+11:37 from me. Um
+11:38 very cool. I'd love to know who you are.
+11:40 I love meeting the the local people.
+11:43 And let's see. I do a lot of 5x9 baths.
+11:46 I have a stock architectural block made
+11:48 from something in my library.
+11:51 Drop on block and you're off to the
+11:52 races. Nice. Nice. Nice. I would love to
+11:56 have more architectural blocks, but
+12:00 what I have found with as much as I back
+12:02 up and transfer information from machine
+12:04 [clears throat] to machine
+12:06 is that
+12:07 my architectural blocks get corrupted in
+12:09 my library. So, I'm very jealous of
+12:11 anyone that can keep architectural
+12:12 blocks in their library.
+12:14 Um would be nice to show a center line
+12:17 CAD line on the 2D image for
+12:19 dimensioning. Okay.
+12:21 I'd like to dimension the toilet center
+12:23 line from our plumbing plans. You know
+12:25 what? Okay, I'll I'm going to show you
+12:26 what I what I typically do for this.
+12:29 Um or what you can do for this that that
+12:32 might make sense. Who knows? Um
+12:35 and then
+12:37 Morning Renee. I agree about gap of the
+12:38 wall with the vanity. Do the same thing
+12:40 with our designs. The furniture looks
+12:42 better than built in up against the
+12:43 wall. All right.
+12:46 Sub menu for centering. Is that sub menu
+12:49 for centering new in in X17? No, it um
+12:53 when did they get that? I believe they
+12:55 got that back in like X15, I think.
+12:58 Um but that's just such a great tool. I
+13:01 use it all the time. And you can see I
+13:02 got that light centered on this fixture.
+13:06 Now, here's the problem with bathrooms,
+13:07 navigating around. We can't we can't
+13:09 barely, you know, bring our camera back.
+13:11 We can't see anything.
+13:13 So, first the first thing we're going to
+13:15 check is we're going to get into the
+13:17 edit the active view. And I want to
+13:19 change my field of view a little bit.
+13:21 I'm okay pumping this up to about 75
+13:24 before it gets a little bit too of of a
+13:27 fish eye effect. So, this is going to
+13:28 help me see a little bit more, right?
+13:30 So, that's one one trick.
+13:33 The next trick for this is you can
+13:35 actually set up the clipping of your
+13:38 camera. And so, this takes a little bit
+13:41 of getting used to, but you can edit
+13:43 this and the clip surfaces within 6 in.
+13:47 Let's just say we take this up to 90 in
+13:49 for instance, okay? And we're going to
+13:51 see what happens here is look at this.
+13:54 Now, all of a sudden I'm cutting
+13:55 everything in front of that camera quite
+13:56 a bit. All right, so I might be able to
+13:58 pull this back a bit. Just keep in mind,
+14:01 you know, we're always going to be
+14:02 cutting something that's within inches
+14:04 of another surface. So, this takes a lot
+14:07 of practice to get this
+14:10 um to be able to look right. If you're
+14:12 presenting,
+14:14 let's say I've got a live call with
+14:15 someone and I'm trying to show them
+14:17 their bathroom design. It's going to be
+14:18 very confusing to see this cutting plane
+14:20 like this. So, I would say,
+14:22 you know, it's it's particularly
+14:24 challenging to learn how to do this and
+14:26 and make it be really effective. So,
+14:28 that's that's another thing, okay?
+14:31 Um
+14:32 another tool that works really well for
+14:34 this, especially if your bathroom is on
+14:35 two outside walls, like I have right
+14:37 now, is in the 3D menu. If you go into
+14:40 3D menu,
+14:42 and our camera view options, hide camera
+14:46 facing exterior walls. Hide camera
+14:49 facing
+14:50 hyphened, okay? So, things that are
+14:53 facing the camera.
+14:54 Um so, this are hiding those exterior
+14:57 walls. And so, there we go. If we get go
+15:00 right way back, we can see as we roam
+15:02 around this house, it's just hiding all
+15:03 the exterior walls. Now, in this case,
+15:06 we're seeing that shower blocked off cuz
+15:08 it's got some backsplash elements there.
+15:11 All right, but that can be pretty
+15:13 helpful as well. So, if I took that
+15:14 clipping plane back down to something
+15:17 like 24 in, then
+15:20 right? And if I took this
+15:23 field of view back down 55, which is
+15:25 going to make this look a little bit
+15:26 nicer and roam around this. Yeah, it
+15:28 does an okay job of just being able to
+15:30 see into the bathroom. All right, so
+15:32 that's another trick.
+15:35 The next trick would be using the
+15:38 section. It's the same thing. Camera
+15:40 view options.
+15:42 I'm going to first, I'm going to uncheck
+15:44 that hide camera facing exterior walls.
+15:45 And then we're going to use the cross
+15:46 section slider. Now, starting in X17,
+15:50 the cross section slider is actually a
+15:53 modeless window.
+15:55 And so, what we get to do is I get to
+15:57 just have this floating on the screen
+15:59 and I can start to cut this. Now, my
+16:02 plan north on this on this guy here is
+16:06 to the right of what we're looking at
+16:08 right now. So, it's a little bit
+16:10 confusing here, but I want to cut away
+16:13 the back side of the house.
+16:16 And then we move this section slider.
+16:18 Now, there's something I love to note
+16:20 about this section slider. If you have
+16:22 this section slider
+16:25 as a small dialogue box, which I think
+16:27 out of the box it's pretty small. It's
+16:28 like this, all right? Then when you're
+16:31 trying to manually slide things like
+16:33 this, and notice I can move around
+16:35 because this is modeless. This is not
+16:37 blocking us out of selecting and
+16:39 manipulating inside a chief when this
+16:41 window is open. So, you can put it on a
+16:43 side window.
+16:44 But, if I'm trying to use this slider to
+16:47 cut to a very specific part, notice it
+16:49 just jumps past the part I want to cut
+16:51 it to, right?
+16:53 It's just very jumpy. Like, same thing.
+16:55 If I want to cut the other side of this
+16:57 house
+16:59 and slide this to just perfect to inside
+17:01 of the walls, pretty difficult to do
+17:03 that.
+17:04 But, if you expand this window out quite
+17:08 a bit, right? If we widen this, this
+17:10 makes it so that
+17:12 you get a much easier range to work with
+17:15 sliding this. I find it's not so jumpy,
+17:18 so you can actually kind of bring this
+17:20 to exactly what you needed to bring it
+17:22 to
+17:22 in that case.
+17:28 And then of course, when you get close,
+17:29 you can always just
+17:31 add some boolean stuff like minus an
+17:33 inch, plus an inch, that kind of thing.
+17:35 You can sit here and go plus one
+17:38 and then plus one again, etc.
+17:42 So that might be another way that we can
+17:44 show this.
+17:45 A great thing about the cross-section
+17:47 slider and thank you thank you so much
+17:50 to the rendering team over at Chief um
+17:53 is I I bugged them quite a bit about uh
+17:56 having this make it so that the sunlight
+17:58 doesn't just flood into this from the
+18:00 section slider. They made it so that
+18:02 it's actually um a true setup for the
+18:04 sun. So if we put a window on this
+18:05 outside wall, we would see that the
+18:07 sun's coming in there correctly as
+18:09 opposed to that wall being removed and
+18:11 sun just flooding into the room like
+18:13 what would happen if we used the
+18:15 perspective floor overview tool.
+18:18 All right, so we'll just throw a window
+18:19 in here.
+18:21 Shrink this guy down a little bit.
+18:25 Just so we can see what happens if we go
+18:27 to a ray trace view.
+18:29 We're going to see, "Hey, lovely
+18:31 bathroom. Look at the sun coming in
+18:32 through the window we just placed."
+18:35 Pretty cool preview.
+18:39 Uh let's see.
+18:41 California has a new code regarding one
+18:42 bedroom and one bathroom per floor or
+18:45 having a door with 32 clear
+18:48 when open at 90°.
+18:50 Therefore, it must be a 34-in door.
+18:56 Alan, I was not familiar with that one.
+18:58 I haven't actually done a um a full on
+19:01 doc uh in the new code cycle, so
+19:05 that's an interesting one. I haven't
+19:06 seen that.
+19:07 Be very curious about that.
+19:12 All right.
+19:14 Next up, I'm going to do a couple of
+19:16 things just to showcase exactly what
+19:18 this
+19:19 shower is built from and exactly how
+19:21 it's being utilized is again, this is
+19:25 just a cabinet, okay?
+19:27 It's a cabinet with cabinet doors just
+19:29 like anything else. You can see that
+19:31 there's a configuration here. If we go
+19:33 to the front sides left and back,
+19:35 there's also configurations there as
+19:37 well.
+19:38 So, what's really neat about this is
+19:40 it's very quick and easy to size things
+19:42 up and also incorporate things such as
+19:46 these hinges, etc. And what's also
+19:49 awesome about this, if I go place this
+19:51 in like another view, I'm going to use a
+19:52 different one to place in a different
+19:53 view,
+19:55 I'll just throw a window in here so we
+19:56 can see it with our existing cameras
+19:59 is
+20:02 this is just utilizing
+20:07 a cabinet that has some things locked.
+20:09 So, you can see here, just look at that,
+20:11 just that side panel was adjusted in
+20:13 this case, right? Just by dragging this.
+20:16 If I drag the side here,
+20:18 you'll notice that
+20:20 this whole thing's just resizing based
+20:22 on that.
+20:23 Just got sized into the window. You can
+20:24 see the casing, but there you go. Is
+20:26 that it's really fast and easy to place
+20:29 this and have those elements just resize
+20:32 because that's how cabinets work. And
+20:34 so, we get that hardware in there. We
+20:36 get all these
+20:37 um cool surfaces we can remap and paint
+20:40 in different ways. You can see I've got
+20:41 a different surface on the interior.
+20:43 I've got a different wall cap here. I've
+20:45 got a different base cap here.
+20:48 And so, all those things are mapped and
+20:50 it makes it really, really easy to place
+20:52 these things on the fly without taking
+20:54 too much time. And so, something that's
+20:56 really cool about this being a cabinet
+20:59 is it's very simple for me to spin this
+21:01 guy around, get to that backside, and I
+21:04 could actually split this in half if I
+21:06 wanted to, and I could take that lower
+21:08 section and specify that the door is 4
+21:11 in thick.
+21:12 What would that do for us? Well, when I
+21:14 come back in here, you're going to see I
+21:16 just made a 4-in shelf on the back side
+21:18 of this thing. If I remove my cross
+21:20 section slider stuff.
+21:24 Take that away real quick. I'm going to
+21:25 go back to just a wide field of view.
+21:35 And so there we go. I created that ledge
+21:37 just as quick as that, right? So another
+21:40 nice thing about this is that just
+21:42 because it's a cabinet, you can always
+21:44 pick one side. So for instance, let's
+21:47 just say I had a window inside of my
+21:48 shower and it's on this side. In that
+21:51 case, I might want to just get rid of
+21:52 this whole assembly.
+21:54 So I can come to the right side and say
+21:56 that there's nothing there.
+21:57 And press okay.
+22:00 And so that's just going to make it so
+22:01 that I can put a backsplash there
+22:03 instead.
+22:04 And I'll also slide this window over.
+22:07 Maybe this window in a 3D view is just
+22:10 like an 18 by
+22:17 Let's call it What are we going to call
+22:18 it? I'm not sure.
+22:21 Big window right now.
+22:25 18 by 18 little
+22:28 guy like this with some lights.
+22:32 And so all I'm doing here is using the
+22:34 backsplash tool and we can just set this
+22:36 to zero. That'll pump that over to the
+22:38 side. We can in a 3D view easily snap
+22:42 that. We can use the eye dropper to pick
+22:44 up the material that we're using.
+22:46 And
+22:48 slide the rest of this down.
+22:51 Just click this last guy here. Hit zero.
+22:54 That'll take it to the floor.
+22:56 And then I can snap this to here.
+23:00 And
+23:01 back it off like 3 in or so.
+23:05 Right?
+23:06 Just like that.
+23:08 And if I wanted to take this up to the
+23:09 ceiling, obviously you could just click
+23:11 on this, set this to zero,
+23:13 and for my cabinet itself, I just get to
+23:16 do the same thing as I get to click on
+23:18 this and set this to zero.
+23:24 Now, I got a shower with a ledge, etc.
+23:28 Now, here's the other aspect of this
+23:29 particular tool that I love is phone
+23:31 switch the shower style. I'm going to
+23:33 take this out. I've got some
+23:35 pre-configured shower that's um set up
+23:37 to have a half wall in it. It's going to
+23:39 be something that's pretty common with
+23:41 this setup is that I've got one that's
+23:44 already here ready to be a half wall if
+23:48 I
+23:49 understand my own
+23:51 little graphics.
+24:09 See if I can catch up to the
+24:11 comments there.
+24:18 Flip this.
+24:20 That's the other great thing about
+24:23 Cabinet Tool. You can just rotate on
+24:25 itself and it will flip all these to
+24:26 left up, you know, from left to right,
+24:28 etc.
+24:35 Easy as that. I got a little half
+24:42 Cool.
+24:50 All right, because I said we would,
+24:52 let's get into this
+24:55 toilet right here, and I'm going to do a
+24:57 little I'm going to edit the CAD block
+24:59 of this toilet. So in your edit toolbar
+25:01 when you click on any object, and well
+25:04 first of all, let's show that bounding
+25:05 box trick.
+25:07 is
+25:08 in advanced sizing on this fixture. And
+25:12 if we get into the preview in this
+25:14 fixture specification so that we can see
+25:16 the show the bounding box and we're also
+25:19 showing the access so we can see where
+25:22 this lines up, positive leg, positive
+25:24 leg, okay.
+25:26 Positive leg of Z, all right. We can see
+25:29 that the mount point of most fixtures
+25:31 when they are set to floor mounted
+25:33 referencing a floor or they're not wall
+25:35 mounted, etc., is going to be that the
+25:39 fixture itself is facing the negative Y
+25:42 leg.
+25:44 Kind of strange, not sure why they did
+25:45 it that way, but that's how it's set up.
+25:48 And then the back of the fixture is set
+25:50 to 0 inch at Y, all right? So that's
+25:53 what we're looking at here.
+25:55 Now the bounding box represents how
+25:57 Chief sees the object size for
+26:00 placement, all right?
+26:02 And so that's what we're looking at is
+26:04 there is
+26:06 some bounding box spacing.
+26:09 This is the spacing that it's adding to
+26:11 the mesh geometry of what's here. If we
+26:14 were to reset the object size, okay? If
+26:18 I were to reset the object size
+26:22 back to its original
+26:24 texture, it's not even remembering what
+26:26 its original size was. It's still seeing
+26:28 it as this
+26:29 size, but if we were to say
+26:34 I'm going to uncheck update when object
+26:35 dimensions change and I was going to
+26:37 zero out everything that's here.
+26:40 It's actually what Chief would see if
+26:42 you placed this mesh, you know, or
+26:44 created this mesh from scratch. That's
+26:47 what it Chief Architect's going to see.
+26:49 But if you had this checked and this
+26:52 unchecked and you came up to here and
+26:55 you said that the width of this is 3 in
+26:58 and tab out of it, you're going to see
+27:00 that this is what it did is it created
+27:02 that bounding box spacing. All right?
+27:06 And so So, this object places based on
+27:09 that
+27:10 bounding box size.
+27:12 And so then let's get into edit the CAD
+27:15 on this.
+27:18 And I'm just going to add a couple
+27:20 little things that look like dimension
+27:21 strings, right? So, I'm going to throw
+27:23 in just a little line off the center
+27:26 here.
+27:27 Um this is just going to be an example.
+27:29 I'm going to
+27:30 duplicate this. So, copy paste, drag out
+27:33 a copy, hit tab or enter, hit 15 in.
+27:36 Now, I know that spacing, okay? And so,
+27:39 I can copy paste reflect that about the
+27:41 other side.
+27:42 And I could use the dimension tool if it
+27:44 was set up correctly, which
+27:46 right now I'm not using the correct one.
+27:48 Let's go add. So, this will dimension to
+27:51 CAD. Notice that it picks up a lot of
+27:53 stuff along the way. I just want to make
+27:55 sure that I'm just picking up what I
+27:57 want. I might use the end-to-end
+27:59 dimension tool and then just pick this
+28:01 diamond to pick up one more section.
+28:05 There we go.
+28:06 And I'm going to change the text size of
+28:08 this, totally up to you. I might have to
+28:10 say um something like this where we
+28:12 select the dimension string. We use the
+28:15 add additional text tool. This is one
+28:18 way of doing this. Or an add additional
+28:21 text tool which just means I get to
+28:22 hover over one of these segments and
+28:24 click and add some kind of trailing text
+28:27 like minimum.
+28:29 Something like that.
+28:31 Right?
+28:32 Now, that is going to jump this out and
+28:33 that's because of the text size. So, in
+28:36 this case, I might just throw a little
+28:39 text in front of this or a dimension in
+28:41 front of this. So, you can actually copy
+28:42 paste this dimension string, drag it
+28:45 down like
+28:47 use that tool to change the text here or
+28:50 open this up.
+28:51 I open it up, I could get to the
+28:54 um
+28:56 segments section and I could say, "Hey,
+28:58 I want to suppress the dimensions."
+29:01 And I could say minimum
+29:03 for each of these sections.
+29:09 Okay?
+29:10 What will that do? That's what that will
+29:11 look like, right? And you might even
+29:13 turn off the arrows cuz we don't need
+29:15 them. Or you could have just dropped
+29:17 some text in there, honestly. It would
+29:18 be fine.
+29:20 So, keep in mind that this is going to
+29:22 show Well, let's just show what this
+29:25 looks like if we were to just save this
+29:26 right now. All right, so we're going to
+29:28 close this window.
+29:32 I say all instances of it. And so that's
+29:34 what this is looking like in the plan.
+29:37 Okay?
+29:38 And so this means every time I place
+29:40 this,
+29:42 it's going to show that that minimum
+29:43 there.
+29:44 So, maybe that's helpful for you, maybe
+29:46 you want to set up a fixture that just
+29:48 always has your annotations in it the
+29:49 way you need them to be. Um just keep in
+29:51 mind if we were to switch to some kind
+29:53 of view that I'm going to be sending at
+29:55 a different scale. Uh for instance, I
+29:58 might switch to my working kitchen and
+30:00 bath view. It will actually switch that
+30:02 text if it is following the layer
+30:05 settings. So, notice that changed with
+30:08 the text size of everything else as
+30:10 well. I'm pretty clever.
+30:18 All right, so I think um a big part of
+30:22 the reason that I love using Again, I'm
+30:25 going to mention this. It's What's one
+30:26 of my favorite tools. My preconfigured
+30:28 shower stuff is that I didn't need to
+30:30 define a room to place this in there.
+30:35 And yeah, even though it looks like a
+30:36 block that just says shower on it, I can
+30:38 change that as well if I wanted to.
+30:41 So, it's nice that it's not defining a
+30:43 room because when I use the wall
+30:45 elevation tool, um this means that I
+30:48 don't have to worry about this not
+30:49 carrying into that room. So, it very
+30:52 clearly shows everything I need to here.
+30:55 It carries all the way to that exterior
+30:56 wall in this case.
+30:58 So, that part's really nice.
+31:00 Um
+31:01 something that I set up personally for
+31:03 this utilizes some macro scripting.
+31:07 Uh and that is that in my
+31:10 template, I have this a CAD detail
+31:13 already sent to um some of my pages to
+31:16 establish
+31:17 what's going on in this kitchen uh
+31:19 excuse me, in this bathroom and where I
+31:21 want my um heights to be. So, if I get
+31:24 into my CAD details and then
+31:27 let's see.
+31:29 This is going to be in
+31:32 spec. There we go.
+31:34 And then I've got some bath fixtures
+31:38 CAD detail here.
+31:40 I'm just going to go grab this so I can
+31:41 show this all to you.
+31:43 Let's grab this. Copy, paste.
+31:45 I'll bring this into this cross section.
+31:47 Now, it's important that you just send
+31:49 this at a as its own CAD detail, but I'm
+31:51 just going to show you this so that it's
+31:52 side-by-side with what I've got going on
+31:54 here.
+31:55 is if I had this
+31:57 end exactly to the floor height,
+32:01 what this CAD detail does
+32:03 is I'm showing my installation heights
+32:07 as just the detail so that I don't have
+32:10 to spend a ton of time detailing out
+32:12 this room.
+32:14 For instance, we're missing our toilet
+32:15 paper holder.
+32:16 And toilet paper holders typically set
+32:18 up to mount to the wall. So, I'm just
+32:20 going to show you this real quick.
+32:22 Um I mounted it to the wall. I'm going
+32:23 to open this up. I'm going to get into
+32:25 options and I'm I'm going to just say
+32:28 none and that's going to switch this to
+32:30 going from finished floor.
+32:32 Notice that
+32:34 um
+32:36 you know, the bounding box, the there's
+32:37 an offset in here. The offset's based on
+32:39 this escutcheon ring. That's so that we
+32:41 can dimension it correctly. We'll have
+32:43 to show you that as well.
+32:45 Um so now this is just mount set up so
+32:47 that it can mount to the floor. All
+32:49 right? And that means I can mount it to
+32:50 the side of this cabinet if I wanted to.
+32:52 I could do a little point-to-point, grab
+32:54 this, mount it to the side of the
+32:55 cabinet.
+32:58 So, back in this
+33:02 elevation view,
+33:04 you know, there's our toilet paper
+33:05 holder, etc. Okay?
+33:08 And here are my default heights. All
+33:11 this is is just this is just straight
+33:13 CAD, okay? It's a straight CAD. I've got
+33:16 a center line here. I've just got some
+33:18 text that looks like the center line
+33:20 built into the software.
+33:22 All right? I've got something that
+33:23 represents the floor,
+33:25 okay? And then
+33:27 I've got um
+33:29 various CAD representations of things,
+33:32 just generic. So, towel bar, mirror,
+33:35 towel ring. And all this is is if I want
+33:38 to change the standard is I'm going to
+33:39 highlight everything in this little
+33:41 section and drag this up and down. And
+33:44 notice that I've got a marker. And all
+33:46 that marker is doing is referencing the
+33:49 Y value. Meaning that this is
+33:52 referencing the Y position of that
+33:55 marker. And that's how it's picking up
+33:57 what that height is. So, if I want to
+33:59 change this, I can just hold shift in
+34:02 this case and move this polar polar way
+34:05 to where I need it to be.
+34:06 And so instead of sitting here and
+34:08 detailing out elevation after elevation
+34:12 of a five-bathroom
+34:14 house, I'm just going to drop this CAD
+34:16 block in there every time and adjust
+34:18 these things as opposed to cluttering
+34:20 this up with a bunch of dimensions to
+34:22 reference different fixtures. I'll put
+34:24 this block right next to this so people
+34:26 have that reference so they can just see
+34:28 it. And I'll
+34:29 I'll put it there on every sheet that
+34:30 I've got a bathroom elevation. Just
+34:33 makes it really, really easy for you to
+34:34 understand where I want things mounted
+34:37 to. It's also very easy to conform
+34:39 things. I can just take this and snap it
+34:42 to the bottom of that mirror and know
+34:44 that I'm getting it to the height that I
+34:45 want. I can take this, snap it to the
+34:47 top of that mirror and know that I'm
+34:48 getting it to the height that I want.
+34:50 You know, something that's would have
+34:52 been useful is let's get a sconce in
+34:54 there. How do we do that?
+34:56 Pretty simple, actually. You can just
+34:58 take the sconce up like this.
+34:59 I can do a
+35:01 um CAD detail from view. I can come grab
+35:04 this just like that, that whole segment.
+35:06 We'll make it an architectural block,
+35:07 copy, paste, bring it back to here,
+35:10 paste whole position.
+35:12 I didn't need to paste whole position,
+35:13 but I did. And there's that CAD block.
+35:16 All right? And I can bring that right up
+35:19 above the mirror and all I need is to do
+35:21 just a little duplicate section of this.
+35:26 So that could be center line of the
+35:28 um that trim ring's center line of the
+35:30 installation, etc. Change the text here,
+35:33 vanity.
+35:36 And there we go. I have updated this and
+35:38 that's going to be a part of that new
+35:39 standard. That's where I'm going to get
+35:41 that installed.
+35:42 So, I find this to be a really fast way
+35:45 of doing this. You can see here I've got
+35:46 stuff about the tub deck as well. That's
+35:48 the height I want the tub spout. That's
+35:51 the height I want the shower valve, the
+35:52 grab bar, the shower head, etc.
+35:55 And then same thing over here. It's just
+35:58 showing additional valves, diverter
+36:00 valves, grab bar, shower valve,
+36:02 um typical shower bench height. All
+36:04 right?
+36:08 See if I can catch up with anything
+36:10 that's in the comments. Good evening
+36:12 from Nairobi, Kenya. Cool. Very cool.
+36:17 Started in January. Yeah, I'll have to
+36:19 look that up. Thanks, guys.
+36:22 Uh
+36:23 it's a good one to check out.
+36:25 Um I notice that people often times are
+36:28 spending a lot of times creating custom
+36:31 patterns for their tile to get this all
+36:34 set up the way they need it to um, so
+36:36 that it looks very close to their tile.
+36:38 And boy, you can kill some hours trying
+36:41 to get a custom tile pattern all set up
+36:44 correctly.
+36:45 And I just don't waste that time. I
+36:47 don't think it
+36:50 I don't think it necessarily helps
+36:52 um,
+36:53 to go and spend a lot of time creating a
+36:55 custom pattern for a material so that
+36:57 your elevation show up. I think that's
+36:59 um, that's that is just maybe people
+37:02 just doing things that they've been
+37:04 taught and not just let's think outside
+37:06 of the box for a second.
+37:08 What's really important for my tile
+37:11 person, what they need to know is they
+37:13 need to know where I think the starter
+37:15 tile is going to go. is where I want to
+37:18 reference that starter tile.
+37:20 Um, in this case, I'm probably going to,
+37:23 you know, on the backside wall, I'm
+37:24 going to reference center, okay?
+37:27 And then on the side wall, I might say
+37:30 something like see the other elevation
+37:33 starter tile is on the backside wall.
+37:35 And I want you to wrap this around the
+37:37 corners based on that starter tile. That
+37:39 might be something I do.
+37:41 Um, another thing that I might be do
+37:43 might do is that I'm just going to come
+37:44 in here just to give you an example. So,
+37:46 let's just say for instance, there's a
+37:48 starter tile down here in this right
+37:51 corner. That's where I wanted base
+37:52 something on or you know, more commonly,
+37:55 I might center it all on the the shower
+37:57 itself, right?
+37:59 So, I might get my starter tile right in
+38:01 the middle here. What I'm going to do in
+38:03 this case then is I'm just going to show
+38:07 a pattern that represents my tile. Um,
+38:10 so in this case, we might just open this
+38:12 up and do a little fill style and we'll
+38:14 do a offset.
+38:18 This.
+38:20 And let's just say I've got a 12x6 tile.
+38:28 Something like that. And notice that
+38:31 even now that pattern's not matching
+38:33 what I want because it's based on the
+38:35 the sheet spaces XY coordinates on how
+38:38 it starts. And it's not easy to shift
+38:41 this over, okay? So, what's probably
+38:44 even easier than that is just going to
+38:47 draw a couple CAD lines in here.
+38:49 So, in this case, I'm going to just
+38:52 throw
+38:54 you know, something like this up here.
+38:56 It's just tile, tile, tile, tile, etc.
+39:00 And I'm going to just throw a little
+39:01 text note that says start tile center of
+39:05 blah blah blah blah blah blah blah blah
+39:06 blah blah blah.
+39:09 And
+39:10 a little arrow on here.
+39:13 Just to indicate that's my starter tile.
+39:15 That's where I want it, right?
+39:18 is
+39:19 And then I might do another pattern up
+39:21 here where maybe the tile pattern
+39:23 changes right at the at the wall. And
+39:26 I'm going to point out where my starter
+39:28 tile is there as well. In this method,
+39:30 I'm not wasting a bunch of time creating
+39:32 custom patterns for all of my materials.
+39:36 Right? So, if we use the material
+39:38 eyedrop tool and try to pick up this
+39:39 material and did like a pattern from
+39:42 texture and it's chaotic, it doesn't
+39:45 look good um because the grout lines are
+39:48 so faint. So, it's not even generating
+39:51 anything or maybe all of a sudden I'm
+39:54 putting in that grid offset and we're
+39:56 going to see immediately what happens is
+39:58 maybe it's not representing that tile in
+40:00 the in the right way. We've got to shift
+40:02 over that block, etc. I just find that
+40:04 to be far more time-consuming in the
+40:07 long run than just coming in here
+40:10 and
+40:11 throwing in a couple little CAD elements
+40:13 to show this is where I want you to
+40:14 install the tile.
+40:16 So, that's probably my big tip. I don't
+40:18 even think it's really
+40:20 that technical of a tip. This is just my
+40:22 approach to things is that's how I'm
+40:24 going to know where a starter tile is.
+40:26 And you might also mention, you know,
+40:28 your spec what this is. Maybe throw a
+40:30 keynote in there.
+40:33 I want you to notice something. If
+40:34 you're a real stickler for graphics and
+40:36 you look at this toilet, you're going to
+40:37 see that the CAD of this toilet isn't
+40:40 all that great. A lot of elements are
+40:42 not, you know, showing up in terms of
+40:43 its CAD. This might be because the
+40:46 smoothing angle of this fixture is a
+40:48 little too high. You can see as we
+40:50 preview around this, it's Chief having a
+40:52 lot of time
+40:53 trouble with this.
+40:55 Now, this toilet is a high poly count
+40:57 toilet. I believe it's coming from their
+40:59 own
+41:01 menus, but um if I change the smoothing
+41:04 angle back down to like 12, notice what
+41:06 happens.
+41:08 There might be a sweet spot in between
+41:11 where we're getting that handle to show
+41:13 up
+41:14 a little bit better. So, maybe we set
+41:16 this to 15. And you can mess around with
+41:18 the smoothing angle and it's going to
+41:20 change the way that this shows up in
+41:22 vector views, right? Let's get this up
+41:25 to 20. 20 is looking pretty good and now
+41:27 all of a sudden we've got definition in
+41:29 that handle a little bit more anyways.
+41:32 And so when I press okay, look at that.
+41:33 That cleaned that up. Nice.
+41:35 All right. Now all of a sudden this
+41:37 looks a lot better than it did.
+41:45 All right.
+41:47 What do we got? We got a really generic
+41:49 bathroom. Is there something else I was
+41:50 going to mention or say? Oh, yes.
+41:53 Now regarding this, if you are
+41:56 if you absolutely need to go dimension
+41:58 things, right? You don't want to use
+42:00 this method where we're just showing an
+42:02 XY offset. And let's just show you that
+42:03 real quick. I'm going to show a marker.
+42:06 I'm going to place a marker here outside
+42:08 of the plan.
+42:09 And
+42:10 um for the label for this text in this
+42:13 case,
+42:14 let's just say object specific.
+42:19 Like they have height.
+42:21 You know, that's one way you could do
+42:22 it. So, when I drag this down
+42:25 to zero,
+42:27 right?
+42:28 Height. There we go. This is from the
+42:30 floor, not from the finished floor. This
+42:32 is from the floor.
+42:34 So,
+42:35 if you needed this to be from finished
+42:37 floor, you could say, "Hey, um
+42:41 height and then
+42:43 let's see if I can get this going here.
+42:45 Height F, huh? That's interesting.
+42:49 What if we put height FF?
+42:51 No.
+42:52 Um
+42:53 we could say
+42:57 we get height minus one.
+42:59 Let's go.
+43:03 Yeah, to F makes it to a fraction.
+43:07 And minus one. Uh, that's going to get
+43:09 to complex macros that I don't want to
+43:11 touch on right now.
+43:14 Um I was going to say you can adjust for
+43:15 finished floor, but I would just, you
+43:17 know, in this case put from floor.
+43:18 Otherwise, you need a little bit more
+43:19 complex of a macro to get this exact
+43:21 setup that I've got going on over here.
+43:24 Uh, because I believe what I'm using
+43:26 is
+43:27 um X position or or Y position in this
+43:30 case.
+43:32 Yeah, I'm using Y position and then I'm
+43:34 formatting this number in a certain way
+43:36 and doing a couple other things as well.
+43:37 So, a little bit more complex of a macro
+43:40 that I'm utilizing over here.
+43:42 So, if we want to dimension to the
+43:44 center line of the escutcheon ring, the
+43:46 trim ring here,
+43:48 right? I'm going to use my dimension
+43:49 tool.
+43:52 Slide up.
+43:54 And if I had it set up correctly, it
+43:57 would be picking up fixtures.
+44:01 Just turn that on for a second. Fixture
+44:03 center.
+44:05 And still not getting anything. Oops.
+44:09 Let's just try a little end to end.
+44:12 Hey, I'm still not getting anything.
+44:14 Um
+44:16 what I wanted to touch on though is
+44:19 notice that
+44:21 that's center line in this case. I set
+44:24 this up so that it had an offset because
+44:26 it was mounted to the wall and there's
+44:28 different rules when you have it mounted
+44:29 to the wall. This offset was going to
+44:31 change. So, if we set that back up to
+44:33 mount to wall,
+44:35 the center line's going to be in a
+44:36 different location entirely.
+44:38 In this case, if I want that trim ring
+44:41 right at the center of the object here,
+44:45 I'm going to adjust
+44:47 the Z position.
+44:48 We set this back to zero.
+44:51 That's what it's looking like. Well,
+44:52 what I actually want is the center line
+44:54 to be to the
+44:55 to that ring. So, that if I use the
+44:57 dimension tool, it picks up that center
+44:59 line correctly. So, all you're doing
+45:01 then is we want to move this in the
+45:03 negative Z value.
+45:05 The distance between that here, you
+45:08 know, and the center of the bounding
+45:10 box.
+45:11 Now, in this case, a lot of times I
+45:14 might bring in a CAD detail just so I
+45:16 can reference what that distance is, but
+45:19 the other thing that I do is I cheat. I
+45:21 just do a little guess. I'm going to say
+45:23 um the overall fixture height of this is
+45:26 probably 6 in. There we go. This is
+45:28 going to be really close to the center
+45:29 line, maybe 2 and
+45:31 um 7/8 or something like that. And so,
+45:34 when we use the dimension tool, we've
+45:35 got this set up correctly to pick up the
+45:37 center line. There we go. It's going to
+45:39 be center line to the ring. So, that's
+45:40 how you can modify a fixture to get your
+45:42 dimensions to dimension to the correct
+45:45 location. Is you're just getting into
+45:48 the 3D panel the fixture, getting into
+45:50 the origin offset, and changing this.
+45:53 Okay?
+45:58 Uh do I show the connection from the
+46:00 height marker
+46:02 to the CAD reference line. In this case,
+46:04 they're just CAD lines. That's it. I'm
+46:07 just selecting them together. If I
+46:09 really wanted to make this a lot easier
+46:11 is I can make every one of these a block
+46:13 so that they could just move with each
+46:14 other, and that would be a lot easier,
+46:16 right?
+46:18 Um in fact, I might do that as just an
+46:19 update to this tool.
+46:21 Is that way you can just select the
+46:23 block, slide it up. Really, really
+46:24 simple that way.
+46:26 Um and I believe we selected
+46:31 Let's see. In this case, this is the
+46:33 mirror. So, I'm going to get highlight
+46:34 all the mirror, select this, select the
+46:36 marker,
+46:38 and select the text.
+46:43 There we go. Now that's a block. I
+46:44 believe we even get distance from block
+46:46 to block if you have that
+46:49 um set up in your defaults.
+46:53 So, I came to my
+46:56 I'll just set up my temporary defaults
+46:58 for instance.
+47:01 I believe this is in other objects,
+47:02 architectural blocks, right?
+47:05 So, now if I select this,
+47:09 will that show me distance from block to
+47:10 block? Doesn't seem like it.
+47:16 Doesn't.
+47:17 You lied to me.
+47:26 All right. I want to show a little
+47:29 couple little tricks I do on the layout
+47:31 side of things when I'm doing these um
+47:34 the setups. So, let me just open up a
+47:36 layout real quick. First of all,
+47:38 just just
+47:41 make a copy so I'm not ruining my
+47:43 template.
+47:45 This is a cool little trick. Making a
+47:47 copy so I'm not ruining my template cuz
+47:49 I started from something I shouldn't
+47:50 have been starting from.
+47:59 And don't save, but I have this copy and
+48:01 that's actually the correct copy in this
+48:03 case.
+48:05 So the next thing I'm going to do and
+48:06 this is going to be kind of weird is I'm
+48:07 going to pick a layout here.
+48:10 I've already got views established for
+48:12 this layout. I'm going to make a copy
+48:13 with a links to a project and I'm going
+48:15 to create a new project and that's going
+48:17 to dump everything I need in this new
+48:19 project. Now the thing that we know is
+48:22 that my copy did not come with that.
+48:24 Notice this. It's just got my pro plan,
+48:26 my as built, how I send my logo design
+48:28 criteria and that layout that I copied,
+48:31 all right?
+48:32 Now
+48:33 I want this copy to be linked to that
+48:36 layout. So I'm going to drag that copy
+48:38 in and then I'm going to choose the one
+48:40 that's actually being sent and we can
+48:41 prove this just by
+48:43 opening up my template plan. We'll get
+48:45 to an A1 sheet, A2 sheet. See the
+48:48 building should be there. It's not.
+48:51 Now I'm going to choose this, use the
+48:54 replace with tool.
+48:58 Um and you can't use it while you've got
+49:00 a layout open, so that's okay.
+49:03 We'll go ahead and save this so it opens
+49:04 back up to that view. So
+49:07 replace with tool.
+49:09 Going to tell me, "Hey, this is sent to
+49:10 layout. Are you sure?" And I'm going to
+49:12 choose that
+49:14 copy.
+49:15 And then in this case I do want to
+49:17 delete the source.
+49:19 So that deleted the copy, that injected
+49:21 everything from the copy into the plan
+49:24 that was already sent to layout. So now
+49:26 all of a sudden when we open this up,
+49:28 here we've got our bathroom.
+49:30 Cool.
+49:31 Now let me get to page where I can send
+49:33 some
+49:34 elevations. There we go.
+49:38 So open this up.
+49:40 Didn't save my elevation camera, so I'm
+49:42 just going to build another one real
+49:43 quick.
+49:46 So now I'll send this to the view
+49:48 and I want to send this at half inch
+49:50 scale,
+49:51 some color fill, plot lines.
+49:57 All right.
+49:59 Now, you know, obviously I don't have
+50:01 dimensions in here yet. Um
+50:04 here's what I'm going to do just to show
+50:05 you how I typically line these things up
+50:08 is I'm going to pull another elevation
+50:10 to the back wall here.
+50:14 And so, let's just say for argument's
+50:16 sake we've got a little
+50:18 ledge on that back wall. Do this again.
+50:27 And got a little ledge there. There's
+50:29 our shower. There's our label, etc. Now,
+50:32 I could send this to view. A couple
+50:33 different ways you can do this. I could
+50:35 send this to view or I could just save
+50:37 this view if I wanted to and close it
+50:39 out. And so, there's two different ways
+50:42 you can do this um to set this up easily
+50:44 is might be able to drag this over,
+50:47 copy, paste, drag out a copy. We know
+50:49 the floors are aligned. Relink this view
+50:52 to that second elevation.
+50:58 And so, it's going to be a different XY
+50:59 space. So, you'd have to go kind of find
+51:02 where that is, right? Is that somewhere
+51:04 in here is that view,
+51:06 believe it or not. Um if you just hit
+51:09 the centering tool, it's going to get it
+51:10 into the plan. So, that's a way you can
+51:12 link to something and and just, you
+51:15 know, get it onto the sheet really
+51:16 easily without having to go back and
+51:18 forth a bunch is use that centering
+51:20 tool, etc. and
+51:21 drag things around. Now, if you use plot
+51:24 lines, you can do point to point on the
+51:27 floor. So, you can get this floor to be
+51:30 snapped to an element here as well and
+51:33 then slide this over.
+51:35 What's nice about this now is I have my
+51:39 my lay um my labels in this case
+51:42 are
+51:44 set to reference to left. So, they're
+51:46 snapped to the bottom left of the layout
+51:49 box.
+51:50 Meaning that once I've got my dimensions
+51:51 in here, it's really easy for me to
+51:53 bring this down to wherever I want it to
+51:55 be to clear those dimensions. Okay? And
+51:58 then this is matched up floor to floor.
+52:03 I can just drag this and snap over to
+52:06 this side and know that my labels are
+52:08 exactly the same in the same place. Know
+52:11 that my floors are in the same place.
+52:14 And that way I can get this tight and
+52:15 make it look like it's just wrapped
+52:17 around the corner. So, quick trick for
+52:20 just getting your elevations in there
+52:22 very quickly.
+52:23 Obviously, I got to put that CAD detail
+52:25 in here. Guess what? I could just
+52:27 copy-paste this.
+52:29 Slide this over. I could relink this to
+52:32 my standards.
+52:35 Right? And then go find my
+52:37 bath fixture height standards
+52:40 block and just expand this out. And same
+52:43 thing. Floors in the correct place.
+52:46 You know, I don't need to put all these
+52:47 standards in this case. I might just
+52:49 ditch the ones about um
+52:51 the bath. And there we go.
+52:54 Snap to the same place.
+52:56 There's my fixture heights. Might want
+52:59 to come in here and just make sure that
+53:00 I'm picking up
+53:02 the floor.
+53:04 That's in the right place.
+53:07 Snap this down.
+53:09 There we go.
+53:11 Quick, easy, easy, easy, easy. Such a
+53:14 fast way to do this.
+53:18 You know, if you have any questions
+53:19 about that, here's the next thing that
+53:21 I'm going to do with this particular
+53:23 item here
+53:25 is um let's just say I've got my shower
+53:28 finished. It's complete. It's completely
+53:29 done.
+53:31 I can convert this selected to a symbol
+53:34 and I can just make it a fixture. Don't
+53:36 need it to add it to the library. It's
+53:37 just a fixture interior.
+53:40 And so, when I place this again, look at
+53:42 that, it automatically generated a CAD
+53:44 block that kind of represents the
+53:45 shower.
+53:46 And so, I could edit this CAD block so
+53:49 that I can get rid of a couple of the
+53:50 stray
+53:51 vector lines that might be in here that
+53:53 I didn't want.
+53:54 Um, looks like this line
+53:56 I need to de- deselect that selected
+53:59 edge.
+54:00 Cuz it was creating an AutoCAD block.
+54:03 Or, excuse me, closed polyline. There we
+54:05 go.
+54:07 I might be able to add another line in
+54:09 here over here for that backsplash that
+54:11 I deleted. And carry this other line all
+54:14 the way through.
+54:17 Here, inference,
+54:19 um
+54:20 I want you to notice something. I'm
+54:21 picking this up as an inferred snap. And
+54:24 if I hold S, it's not going to pick up
+54:26 any other snap until the point where I
+54:27 get to that point. So, um, that's always
+54:30 something that you could do. Or I could
+54:32 just slide this in here and use the
+54:33 centering tool. There, just through.
+54:38 So, that's the way I want that CAD block
+54:40 to look. Let me just save that.
+54:43 All instances of that CAD block. And we
+54:46 come in here.
+54:48 Just
+54:49 put that into the space.
+54:52 Just like that. Now, in my print views,
+54:55 I don't typically show these callouts.
+54:57 It makes it a lot easier for me if I'm
+54:59 not showing these callouts. Instead,
+55:01 what I'm going to do
+55:02 is this is what my actual print view
+55:05 looks like. Is I'm just going to drop in
+55:08 this pre-done four-sided callout.
+55:11 It's going to just let you know, "Hey,
+55:13 I've got some views on a particular
+55:14 page." And I can get to attributes and
+55:18 say that there's only two arrows.
+55:20 And I'll be able to slide those arrows
+55:21 around.
+55:23 That's what this
+55:25 arrow, excuse me, this, um, hook right
+55:28 here is, this direction. There we go.
+55:30 So, I could say, "Hey, I've got two
+55:31 elevations like this."
+55:33 And if I set this up correctly, I can
+55:36 link this callout. Cuz this just a
+55:37 callout. This is not a camera. We can
+55:40 link this to in this case um
+55:44 my
+55:46 elevation one, which is already sent to
+55:48 view. And now you're seeing it's picking
+55:50 up what this is. The next thing that I
+55:52 have is it's picking up the room name.
+55:56 So, it's going to change that to look
+55:58 this bath elevations A7. Go to that
+56:01 sheet. Now, I don't have to care about
+56:02 where this callout is. I don't have to
+56:04 care about it.
+56:05 fighting some annotations that I have,
+56:08 you know?
+56:09 And I can kind of
+56:10 make a little bit of room for me to
+56:11 detail this out without having too much
+56:13 trouble.
+56:16 Please like I wish I had all the time in
+56:18 the world. I have a training call right
+56:20 after this. I got to go
+56:21 um work with someone one-on-one, so I
+56:24 can't keep going.
+56:25 I'd love to keep going. There's so much
+56:27 more to bathrooms. We only did one
+56:28 bathroom, and that was a simple one.
+56:30 Wait till we get the complex ones. So,
+56:32 maybe we'll do another one in this um
+56:34 next Tuesday. Maybe we'll do another
+56:35 bathroom. We'll do a continuation of
+56:37 this cuz I got a lot more tricks to
+56:39 share with you about bathroom design and
+56:41 and how I approach it and how I set
+56:43 things up and how I document it. So,
+56:46 um
+56:47 thank you, guys. That hour burns up so
+56:49 fast. Um
+56:50 in my head, I had it four bathrooms we
+56:52 were going to design. So, hopefully you
+56:54 got a couple tips and tricks.
+56:56 Um you can always go back to this
+56:59 for the first 24 hours, and then I'm
+57:01 going to pull it and put it into my
+57:02 membership area. But go back to it and
+57:04 drop in some comments about what you
+57:06 might like to see in the next session,
+57:08 but I definitely think let's just
+57:09 continue the bathroom session cuz
+57:12 um there are so much more complex
+57:15 bathrooms that we could go through and
+57:16 find out some tips and tricks to make
+57:18 that process easier.
+57:22 And thanks, time to go make the donuts.
+57:26 I think I know what you're talking about
+57:27 there, Alan, but now I'm hungry for
+57:29 donuts. You jerk. Thanks.
+57:32 And I don't have time to go to the
+57:33 store.
+57:36 All right.
+57:37 Thanks for watching.

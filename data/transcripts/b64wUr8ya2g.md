@@ -1,0 +1,992 @@
+---
+videoId: b64wUr8ya2g
+title: Power of the Cabinet Tool in Chief Architect Premiere X16 - Part 1
+url: "https://www.youtube.com/watch?v=b64wUr8ya2g"
+status: imported
+---
+
+# Transcript
+
+0:00 all right VIP time to start a little
+0:03 series series we're going to go over the
+0:06 various functions of symbols and objects
+0:09 in Chief Architect now this gets pretty
+0:11 complicated um and the capabilities of
+0:15 these symbols are really vast and I
+0:17 don't have a script I'm just working
+0:20 through things so I might miss some
+0:22 things and we might have to do another
+0:23 video to cover those things I missed who
+0:26 knows but here's what we're going to
+0:28 start off with um I was going to start
+0:30 off with the very first symbol class
+0:32 which is cabinet doors but you can't
+0:35 really touch on cabinet doors before you
+0:37 find out what the true capabilities of a
+0:40 cabinet are which makes this first video
+0:43 Feel Like H I'm about to kill two hours
+0:45 talking to
+0:46 you but I'm going to try not to do that
+0:49 I'm so I'm going to move through the
+0:51 cabinet pretty quickly and I think that
+0:53 we will come back to it later on in the
+0:56 series so let's drop in a cabinet see
+1:00 what this thing is capable of now a
+1:03 cabinet is I've said this before many
+1:05 times it's I think it's the most
+1:08 powerful tool in the software um
+1:11 arguably the most maybe um maybe the
+1:14 staircase tool is as powerful as the
+1:17 cabinet tool I know that sounds strange
+1:19 but it's actually quite capable as well
+1:21 so um let's check it out here we go the
+1:25 humble cabinet humble base cabinet mind
+1:27 you that um the the cabinet base cabinet
+1:31 is the most powerful of the three
+1:33 cabinet types okay um and that's because
+1:36 we can put a sync in it so let's break
+1:38 this down we can put a fixture in the
+1:42 top of the cabinet that part we know so
+1:45 we're just breaking down what the
+1:46 capabilities of the software are right
+1:49 so we can put a sync fixture in the top
+1:51 right now before we even skip past that
+1:56 part we need to understand that Chief
+1:58 Architect is a tool for modeling we're
+2:01 creating mesh right does many things but
+2:04 one of the things it does well is
+2:06 parametric modeling parametric meaning
+2:09 that we can take an element and pick a
+2:11 point to resize that element or pick
+2:14 some kind of logic to resize that
+2:16 element and we can resize certain parts
+2:19 of that element parametrically without
+2:21 affecting other parts of that element so
+2:23 um a a fixture for instance this this
+2:26 ends up being a compounded effect a
+2:28 fixture we can have certain stretch
+2:31 planes that just stretch a part of that
+2:33 fixture or infinitely stretch something
+2:36 along a just a zero plane um so that
+2:40 already just a fixture is complex so it
+2:42 doesn't have to be a sink you don't have
+2:44 to think about it as a snc it's whatever
+2:47 model or mesh that you'd like to insert
+2:50 into the top of this other model or mesh
+2:54 that's what this is capable of that's
+2:55 what a cabinet's capable of keep in mind
+2:58 we can do offsets and blank spaces and
+3:03 adjust bounding boxes so that the
+3:06 geometry that we're inserting in the top
+3:08 of this mesh this cabinet doesn't
+3:10 actually need to be touching the cabinet
+3:13 it can be off set off into the distance
+3:15 so um this really ends up opening the
+3:19 doors for a lot of creation okay so
+3:22 that's just the sink on top we can also
+3:25 put a fixture in a
+3:28 face and then on top of a fixture being
+3:31 in a face and let's just do that real
+3:33 quick let's put a dishwasher in the
+3:35 front of this thing just so we can see
+3:37 what that looks like right we all know
+3:39 this we all know a dishwasher can go in
+3:41 the front of this cabinet now let's take
+3:43 a look at this I'm going to open this
+3:44 cabinet up I'm going to get into the
+3:46 front sides back section and this is
+3:48 where we can do some pretty wild things
+3:50 and I mean we're just going to touch on
+3:52 this but let me get into the back
+3:54 section and I'm going to say we're going
+3:56 to match the front okay
+4:00 and then we'll get to the left and we'll
+4:02 see if we can do the same can we do UNM
+4:04 match the front on the left can we do a
+4:07 match the front on the
+4:09 right right so now we've created
+4:12 something that is almost uniform on all
+4:15 sides it's not uniform because of our
+4:18 toe kick settings but we can even adjust
+4:21 those toe kick settings to be uniform on
+4:24 all sides or just say that there's no
+4:26 toe kick at all so let me just say say
+4:29 uncheck flat back uncheck flat sides so
+4:33 what do we
+4:34 have that's kind of interesting right
+4:39 so this is an appliance put into the
+4:41 front of the cabinet and it can be
+4:43 duplicated around any sides on top of
+4:47 this you could take let's just we
+4:50 started with a match front and this is a
+4:52 good trick to know let's say that we've
+4:55 got something something complex in the
+4:57 front of our cabinet it's not exactly
+5:00 what we want on the left or the side or
+5:02 the back but it's close it gets us
+5:04 further along you switch to match front
+5:07 and then from there and watch I'm just
+5:09 going to go to the left side we can
+5:11 switch from match front down to a custom
+5:15 face and now I have access similar to
+5:18 the front right similar to the front
+5:20 panel where I can do something with this
+5:24 object okay so it's kind of interesting
+5:28 right let's just say that in instead I'm
+5:30 going to change this to a blank area and
+5:31 instead I'm going to split this in half
+5:33 and maybe this lower half we're going to
+5:35 say that this is um maybe it's a hinge
+5:38 top door and then I have the option to
+5:43 open the door okay and I mean that's
+5:47 this is 180 degree okay so I got to
+5:49 switch back to that left side pick that
+5:51 door hinge and I'm going to change this
+5:54 I'm going to change it to
+5:55 120° and look at that right so we've got
+5:59 something that's really really Dynamic
+6:01 here so think about it this way if we're
+6:05 just thinking about the tool and its
+6:06 capabilities we don't have to look at
+6:09 this as a Cabinet anymore because this
+6:11 cabinet can be any size we want
+6:14 okay we can parametrically resize
+6:18 elements in this
+6:19 cabinet and still lock other elements in
+6:22 this cabinet and those locked elements
+6:25 or unlocked elements that are resizing
+6:28 parametrically can be operable moving
+6:31 Parts with the flip of a button not only
+6:35 that but we can modify a symbol such as
+6:38 a cabinet door symbol where it looks
+6:40 like it's already open so that we're
+6:43 applying that to a particular element
+6:46 here where when we click a button one
+6:49 side's closed One side's open you click
+6:51 the the Clos or open door and it flips
+6:54 them right so now we even have more of a
+6:58 dynamic tool
+7:00 pretty interesting and a cabinet door
+7:03 isn't limited to the geometry that you
+7:07 create okay cabinet door is defined by
+7:11 its bounding box show you what I mean we
+7:15 can take just the solid here okay and
+7:18 let's just break this solid we're going
+7:19 to throw a little break in here kick
+7:21 this back and what I'm going to say now
+7:23 is that this is a cabinet door so we're
+7:24 going to convert this so in my edit
+7:26 toolbar convert selected to symbol and
+7:29 here's our our first symbol category
+7:31 there it is cabinet door drawer not
+7:33 going to add it to library but we will
+7:35 show Advanced options for this and so
+7:38 what I want here is Chief Architect sees
+7:41 our doors by default as 3/4 inch doors
+7:44 now x16 gave us the capability of
+7:46 resizing those doors up to 4 in which
+7:49 then gives us more capabilities that we
+7:52 didn't have before now
+7:55 before what I'm what I could do is I
+7:58 could take a 12in object object and it's
+8:00 going it was going to be applied to the
+8:02 cabinet and just be forced into being a
+8:04 3/4 in object even though the mesh
+8:07 itself was 12
+8:08 in now what we're doing is we could take
+8:11 a 12in object haul it 78 of an inch and
+8:15 when we then in the cabinet perimeter
+8:18 say that it's 4
+8:19 in what it's doing is well let's let's
+8:23 say that we're taking an object and
+8:24 we're calling it one 1 in the bounding
+8:27 box is 1 in and we're applying it to a
+8:29 cabinet it's 1 in the geometry is 4 in
+8:32 okay the geometry is four times the
+8:36 specification if you then say hey we're
+8:40 going to change in the cabinet dialogue
+8:41 box we're going to change that one inch
+8:45 item to a 4 in item which was already
+8:48 truly geometry was 4 in we're
+8:51 multiplying whatever our geometry was by
+8:53 four so now instead of four inches we
+8:56 got 16 inches does that make sense
+8:58 probably not let's just take a look at
+9:00 it so here's our fixture specification
+9:03 this is our new cabinet door I'm going
+9:05 to go ahead and in the symbol
+9:06 modification up here show bounding box
+9:09 okay or preview window rather show the
+9:11 bounding box this is showing us um the
+9:15 size of our symbol according to what
+9:19 Chief's going to use it for okay so the
+9:21 bounding box really just represents what
+9:24 we are going to represent in terms of
+9:26 resizing parameters and everything
+9:28 within Chief AR
+9:30 it has nothing to do with the mesh now
+9:32 and when we get into the advanced sizing
+9:34 panel and this is unique to X15 and
+9:36 Beyond uh where we combined the edit
+9:38 symbol class and or tool and the open
+9:41 object tool um now the advanced sizing
+9:44 panel by default it shows update when
+9:47 object Dimensions change so 3D geometry
+9:51 Dimensions we're going to update those
+9:53 3D geometry Dimensions when the object
+9:56 Dimension changes now the object
+9:59 Dimension is represented by the bounding
+10:01 box okay so that if we change the depth
+10:05 of our object Dimensions to 34 in what
+10:09 happens to our actual geometry turns
+10:12 into 34 in okay now let's reset that
+10:15 object size it's back to 28 now I'm
+10:17 going to uncheck update when object
+10:20 Dimensions change and you'll notice that
+10:23 bounding box spacing suddenly has a
+10:26 check mark on it okay so what's going to
+10:29 happen here is one of two things I could
+10:32 put individual spacing meaning a
+10:35 negative or a positive call it a buffer
+10:38 right call it a there's a differential
+10:40 between the bounding box and the
+10:41 geometry when we put some kind of
+10:43 Dimension inside of one of these
+10:46 parameters I can do it through this
+10:49 dialogue section this bounding box
+10:51 spacing section okay or I could do it in
+10:54 the object Dimensions section so check
+10:58 this out in depth I'm going to call this
+11:01 78 of an inch want you to notice look
+11:04 what happens in the front in their
+11:07 bounding box spacing section and look at
+11:10 our our new bounding box where it's
+11:13 showing here now let's just leave it at
+11:15 this and see what happens when we apply
+11:17 this to the front of a cabinet or rather
+11:19 we're going to replace the cabinet door
+11:21 now something that's really powerful
+11:24 about this um particular classification
+11:27 is this
+11:29 um the the cabinet door as well as a few
+11:32 other symbol classifications can replace
+11:36 on a hover over a like symbol
+11:40 classification so notice I can hover
+11:42 over the appliance I can hover over the
+11:45 cabinet door and this will replace okay
+11:48 all I need to do now is Click now check
+11:51 that
+11:51 out this was drawn kind of looking like
+11:55 it was already open so when it's shown
+11:57 open at 120° is in the pitch of this was
+12:00 already
+12:01 990 you know now we're past that 180°
+12:05 turn okay so what's happening here if I
+12:08 if I adjusted this side this opening on
+12:11 the left side door hinge top back to 90°
+12:16 what going to happen we're going to be
+12:17 at true 90° or when it's completely shut
+12:21 by hitting that icon close cabinet doors
+12:23 it's going to be at that 90° turn right
+12:26 so we've created something here that's
+12:28 kind of interesting it's operable it's
+12:30 dynamically editable we can change its
+12:33 um its angle right its angle can be
+12:36 separate from other elements angles so
+12:40 it's really kind of a clever tool the
+12:43 other thing that we can do is we can
+12:45 convert this to a door or drawer and
+12:48 what's really awesome about a door and
+12:50 drawer classification is that we can add
+12:54 an object on the back side of that as
+12:57 well tell you show you what I mean
+13:01 and actually before I even get too far
+13:02 it's going to be really hard to track
+13:04 all these things um for me
+13:06 personally let's get into door drawer
+13:09 this is where we get to edit so watch
+13:11 what happens when we send this up to 4
+13:12 in look at that it's multiplying
+13:16 whatever this geometry was by four okay
+13:19 so that's what we were talking about
+13:20 earlier so the geometry wasn't truly 7/8
+13:24 of an inch whatever its True Dimensions
+13:26 were we're multiplying that by four in a
+13:28 way it's not quite so linear I don't
+13:31 believe but um so that and now check
+13:33 this out I'm going to take this I'm
+13:36 going to recreate this symbol real quick
+13:38 we're going to just change that bounding
+13:40 box bacing again when we edit this and
+13:42 then I'll get back to that other point
+13:43 but let's go ahead and convert this to a
+13:45 symbol again cabinet door drawer I'm
+13:48 going to go ahead and update this again
+13:50 to 7/8 of an inch but this time this
+13:54 time I'm going to put a stretch plane in
+13:56 it okay and so the stretch I'm going to
+13:59 put is what I'm thinking here is when I
+14:02 update the door size I only want this
+14:06 section this section to be stretched
+14:11 parametrically I want this section or
+14:14 actually just um an infinite plane I
+14:17 want this other section this downturn
+14:20 Edge to remain exactly as it is I do not
+14:23 want it affected so what can I do I can
+14:26 check the box for depth and throw a
+14:29 little offset in here I'm going to um
+14:32 please note and if we're looking at this
+14:34 the little Gizmo here the the legs
+14:37 represent a positive value so I need a a
+14:41 depth plane an infinite cutting plane at
+14:44 a negative y value all right so watch
+14:47 this -4 in and there's my infinite
+14:50 cutting plane okay now when I apply this
+14:53 to this door look what happens it did
+14:56 Stretch the symbol but it left this part
+15:00 intact right so again these are
+15:03 compounded
+15:05 effects I I don't even know if I can
+15:07 finish a video about just the cabinet
+15:09 tool it it's got so many capabilities
+15:11 it's wild it's limited by your
+15:13 imagination really um and yeah so if you
+15:18 think you need something built and
+15:20 usually you could do it with the cabinet
+15:21 tool and it could be dynamic and it
+15:23 could be parametrically resized and you
+15:25 can use it in an infinite number of ways
+15:28 so just to give you an idea what I mean
+15:30 by that look at this there we go now
+15:32 we've stretched this particular object
+15:33 item right so let's get back into this
+15:38 open this cabinet dialog back let me see
+15:40 if I can track where I was at and think
+15:42 about this in a way so in the front
+15:45 sides back section and I'm just going to
+15:47 choose this Appliance for instance and
+15:49 we're going to get into this specify
+15:51 okay let's get into specify and see what
+15:53 we've got here now let's specify this is
+15:55 where we get to choose another appliance
+15:58 that we can fit in here now again keep
+16:00 in mind whatever Appliance you use can
+16:02 be you know modified in very strange and
+16:05 interesting ways where we were setting
+16:07 stretch zones and and um different
+16:10 modifications there so um but I want to
+16:12 switch this back to a door drawer okay
+16:14 so we'll just switch it to a door left
+16:17 and look at that it's going to take on
+16:19 that other door that's pretty funny and
+16:22 now I want to switch to that Appliance
+16:24 door drawer specify and we've got a
+16:26 whole new dialogue box here
+16:29 and so you can see here we've got door
+16:31 panel style for an individual element
+16:34 okay door handle keep in mind door
+16:37 handle does not need to be a handle
+16:39 again this is just another mesh okay
+16:42 it's Hardware in this case so um the
+16:46 hardware class works for this I believe
+16:48 even the S just a generic symbol class
+16:50 works for this fixture class works for
+16:52 this but um the next part about this is
+16:56 that we have the ability to edit offsets
+16:58 to that particular handle we've got the
+17:00 ability to turn it Etc on the Fly it's
+17:03 kind of useful not not so Dynamic um
+17:07 we've got the ability to do door hinges
+17:10 as well which gives you another sequence
+17:13 of things that you can kind of modify um
+17:15 I can immediately think off the top of
+17:17 my head I could turn a cabinet into a
+17:19 fully enclosed um prefab shower with
+17:23 Hardware operable door the whole thing
+17:26 it's it's got a pan it's got everything
+17:29 that you would need right so you'd have
+17:31 an open top base cabinet you would have
+17:35 um you could do a molding as the pan if
+17:37 you wanted to you could have an open
+17:39 face which is the front face or you can
+17:41 turn that into doors Etc like it
+17:44 wouldn't be that hard to create an
+17:46 entirely enclosed shower assembly so
+17:50 before we get into that door back
+17:53 inserts this is another item that you
+17:57 can add on the back of a door door okay
+18:00 so when we go look for this some items
+18:03 here that maybe come to mind um well
+18:06 just to be goofy let's just stick stick
+18:10 of fire on the back of it and you can
+18:13 see what's happening here right that's
+18:15 pretty
+18:18 goofy but it's just showing you another
+18:21 capability of this particular tool
+18:24 okay now on top of door back inserts we
+18:28 also have mill work and mill work is in
+18:32 shelves and you can manually edit
+18:35 spacing from shelves and shelves don't
+18:37 need to be within the bounding box again
+18:41 sh the geometry of a shelf mil work in
+18:44 this case can be way offset so you could
+18:47 essentially create an array of something
+18:50 inside of a cabinet using multiple
+18:51 Millwork symbols let's just drop in a
+18:54 different cabinet here and play around
+18:56 with it so here we go let's open this up
+18:59 and do keep in mind the limitation here
+19:01 is that we don't get to turn that
+19:02 particular object which is not all that
+19:05 great I don't particularly love that but
+19:08 at the same time we can utilize that so
+19:11 um door Auto right we'll specify shelves
+19:14 we'll kick into manual we'll say number
+19:16 of shelves is three and you can set
+19:20 different unique offsets for individual
+19:23 shelves so for shelf number two maybe I
+19:26 want my spacing from previous to be 2 in
+19:29 and just shelf number two maybe I need
+19:32 some object in there right so let's see
+19:35 if I have anything that is in regards to
+19:38 Mr Kevin transo in a mill work symbol do
+19:42 so and take Kevin's head on a
+19:46 uh and it won't fit thank goodness
+19:49 good luck on him oh but it you know what
+19:52 it modified it anyways and it's stuck in
+19:54 there in there now here's where we can
+19:56 resize that particular object it doesn't
+19:59 necessarily need to be sized so that it
+20:01 fits within the bounds of the cabinet it
+20:03 will automatically be resized but then
+20:05 we can also change its thickness or
+20:07 height as well as specify its depth in
+20:11 this case okay so I could say this is 3
+20:14 in depth I could say it's equal spacing
+20:17 few different things and I can say hey
+20:20 when this door is open I want to roll
+20:23 only this mill work item out 0 to
+20:27 100% right so again that makes for a
+20:31 little bit of power in this case and so
+20:34 let's open this up and take a look it's
+20:37 going to roll out 100% in this case this
+20:40 particular symbol already has a lot of
+20:41 modification in it so it's going to be
+20:43 uh pretty stretched and strange maybe we
+20:45 should pick something else that's a
+20:46 little more appropriate so let's just
+20:48 open this up actually we'll just show a
+20:52 default shelf in this case and we're
+20:54 going to say that we've got four shelves
+20:56 and we're going to say that shelf number
+20:58 three has a roll out of 100% and shelf
+21:01 number one has a roll out of 15 or 25%
+21:05 something like that and we'll say that
+21:07 shelf number one is we're going to
+21:10 specify that it's only uh a 10in shelf
+21:14 in this case okay there you go you can
+21:17 see it being
+21:19 edited so even though this looks like a
+21:23 cabinet this is another capability of
+21:25 this that means that we can have a
+21:27 four-sided object that has particular
+21:29 items that extend out as you open items
+21:33 up as well and keep in mind that you can
+21:36 make a blank cabinet door so that if all
+21:38 you wanted was this mill work thing
+21:41 these objects to come out of the center
+21:43 of this thing when you press the button
+21:45 you could do that as well please don't
+21:47 be bound by the thought that a cabinet
+21:50 needs to be something that is fits
+21:52 inside of a house it can be infinitely
+21:56 larger than this right um just remind
+21:59 you that the default tools for a resize
+22:02 action are going to be X and period I
+22:05 like to use period in this case and I'll
+22:07 just show you when you're selecting the
+22:09 top of an object in a 3D view I get to
+22:12 just pick one of these corners and
+22:14 resize and you're going to notice not
+22:16 only is it resizing the width and the
+22:18 depth but it's resizing the height so
+22:21 just to give you an example of scale if
+22:23 this opens your mind at all to what this
+22:26 can be you can build
+22:29 who knows almost anything with this
+22:32 particular tool right so just think in
+22:35 terms of scale as well can make some
+22:37 pretty Dynamic things with this and you
+22:41 can do some organic modeling be it
+22:43 within Chief Architect or outside a
+22:45 Chief Architect bring that in convert it
+22:47 to a particular symbol type that can be
+22:49 applied to a cabinet so this doesn't
+22:51 need to look like a box either what do
+22:54 we mean by that well let's just open
+22:55 this thing up what if we were to just
+22:57 say in our front section of here we're
+23:00 just going to delete everything to the
+23:02 point where it's just open and then we
+23:04 get to go hey left side let's match the
+23:06 front hey right side let's go match the
+23:09 front hey back side let's go match that
+23:13 front again okay and then let's get into
+23:16 box construction we're going to specify
+23:17 it as framed but we're going to say the
+23:20 separation is zero what does that leave
+23:22 us with just leaves us with the top and
+23:24 the bottom okay but in that top and
+23:28 bottom and actually why don't we just
+23:29 say no top in this case and let's see
+23:33 and we're going to have to delete maybe
+23:35 a possible section up
+23:36 there oh this is going to be a c a
+23:39 countertop as well right so we're going
+23:41 to turn off the
+23:43 countertop now we've just got a big
+23:45 blank section so what happens now what
+23:47 if instead we were to add just a little
+23:49 section in here that's just an opening
+23:52 okay that opening let's just call 12 in
+23:55 So within that 12in opening and now we
+23:57 got to get rid of some things cuz it's
+23:59 going to automatically create some
+24:00 things right so we got to get rid of
+24:02 these separations and horizontal Etc but
+24:04 look at this now we got this huge
+24:06 section that's an
+24:08 array right and we can specify those
+24:11 shells and we can say hey we only want
+24:14 five of these and we're going to say
+24:16 that number four is a roll out 20 30 40%
+24:20 something
+24:21 like so just makes you think a little
+24:25 bit what can you do with this quite a
+24:26 few this is a pretty dynamic
+24:29 tool while we're at it let's talk about
+24:31 some more
+24:33 things I'm just going to show you my
+24:35 fireplace stock because this is Just
+24:37 Cabinets these are just cabinets right
+24:39 so this is an architectural Block it's
+24:41 made as an architectural block not CU we
+24:44 can't do this out of one symbol we could
+24:46 but it's more dynamic as two all right
+24:48 so it's two base cabinets so the two
+24:50 most powerful tools two base cabinets
+24:52 right and you're going to see here that
+24:55 there was an opening on that side all
+24:57 right that opening is meant to be
+24:58 stacked up against the fireplace right
+25:00 fireplace symbol which I also use a base
+25:03 cabinet for so check this out isn't this
+25:06 cool what is this on the top how does
+25:08 this work well this is just a sync again
+25:11 think outside of the box it's just a
+25:13 sync right we get rid of that it's just
+25:16 that's just the top of the counter now
+25:17 mind you it's being interceded by our
+25:20 roof plane so it's going to cut our
+25:22 countertop in this case there's an easy
+25:24 way around that you shift select this
+25:27 and just turn it into an arch tal block
+25:29 and we're no longer being you know
+25:31 picking up in kind of inherited Force
+25:34 geometry okay so unblock that explode
+25:38 that as an architectural block let's
+25:39 just go back a level and we're going to
+25:41 see that that sinks back and
+25:45 appli undo history if you want to try
+25:47 that in x16 now this lower section is
+25:50 kind of similar this is a sink it's a
+25:53 little tapered section let's take this
+25:55 upper section kind of get it out of the
+25:57 way by specified amount 80 in and then
+26:00 look at that it's just again it's just a
+26:02 sync that I modeled out of 3D solid so
+26:05 that you can resize this now what's
+26:07 great about a sink parametric resizing
+26:10 you can set your own stretch planes or
+26:12 stretch zones right so that they're
+26:15 uniformly stretched in between two
+26:17 points if you want and so this taper we
+26:20 could isolate the taper we can make it
+26:21 so that the right side taper is what
+26:23 will always be stretched and everything
+26:25 else will get left alone or we can set
+26:27 multiple stretch zones or stretch planes
+26:30 so what happens here really easy to just
+26:33 kind of do an offset that kind of
+26:35 changes the pitch or the angle of this
+26:37 or if I needed to maybe I would just um
+26:40 do something where we take the cabinet
+26:42 and let's just pull my edit tool bar up
+26:44 into the main screen here and we've got
+26:46 this little guy right here you didn't
+26:48 know it add to library as add to library
+26:52 as and then let's take a look at what
+26:54 items we've got here so this is where we
+26:57 can see exact exactly what that fixture
+26:59 is fireplace taper sync all right so I
+27:02 want to add this to my library why cuz I
+27:04 want to modify it real quick so now I've
+27:07 added that to my library should pick up
+27:10 in here fireplace taper sync I can open
+27:14 that object up and get into that
+27:16 advanced sizing I can say I've got some
+27:19 kind of modification in terms of the
+27:21 width we're going to set a stretch zone
+27:23 between width planes one and two that
+27:26 means this is going to UNI form L
+27:28 stretch in between those two
+27:31 designations so in this case I'm going
+27:33 to move this and let's just look at this
+27:36 positive x value so I'm going to move
+27:38 this about 3 in in the positive X um
+27:41 actually let's go something like 8 in
+27:43 into the positive X and here that second
+27:47 value I'm going to move this past the
+27:48 full balance of the width divided by two
+27:50 so um you can always take this copy so
+27:54 we took that width we're copying it
+27:55 we're pasting it down here in that 0 in
+27:58 specification and then I'm going to just
+28:01 click divide by two all right and so
+28:05 there we go I didn't quite get that
+28:07 right
+28:08 but that stretched on let's push it a
+28:11 little bit fast that's okay if we push
+28:12 it a little bit fast so now we are
+28:15 uniformly stretching that taper all
+28:17 right so I hover over this symbol we get
+28:20 to
+28:21 replace now we've replaced now when I
+28:24 resize this just resizing just that
+28:27 taper at that you almost flatten that
+28:30 taper out if you want so kind of clever
+28:34 being able to do that on the
+28:36 fly now if you wanted to you can open
+28:39 this object and we can do a compounded
+28:42 effect so we've got this set up in
+28:45 effect let's just place this just on the
+28:48 terrain okay let's resize this so that a
+28:51 tapers down almost flat on one side and
+28:55 then here's the compounded effect it's
+28:57 re convert this okay to that fixture
+29:01 class fixture interior show Advanced
+29:05 options and so we've changed the side uh
+29:08 the shape of this we've committed that
+29:10 change that we just did so now we have a
+29:12 new taper on one side so maybe it's that
+29:15 we set a uniform stretch plane down the
+29:17 middle and so now we have an offset
+29:19 taper we have a different taper on the
+29:21 left than we have on the right so that
+29:23 if we needed to we could flip this
+29:25 symbol and get a different taper so it's
+29:28 a little more Dynamic of a symbol in
+29:30 this case right so let me get into the
+29:32 options panel here we're going to say
+29:34 that type other we need to go ahead and
+29:36 go down in here and call it a SNS
+29:38 kitchen okay so that's in that options
+29:41 right and then do we need to do any
+29:43 particular offsets maybe we do let's
+29:45 just hover over this and
+29:51 replace I think that might have done it
+29:54 that right yeah kind of looks the same
+29:56 doesn't it let's delete this just in
+29:59 case we that
+30:05 wrong oh you know what I forgot one
+30:08 thing so um I forgot to let's just open
+30:12 this up again real quick forgot to say
+30:15 that in the options panel we needed to
+30:17 say that this inserts into countertop
+30:20 there we go and now that that's inserts
+30:23 into countertop kind of have to add it
+30:25 or say get last symbol now I should be
+30:28 able to click and add this so now we've
+30:29 got that offset taper and now it
+30:31 uniformly stretches about a zero plane
+30:34 in the middle okay so pretty Dynamic so
+30:37 let's look at some other things about
+30:38 this particular fireplace
+30:40 tool so the other great thing about
+30:44 cabinets is that we've got especially
+30:46 the base cabinet we got countertop
+30:49 countertop can have a particular
+30:51 overhang that's really easy so we see
+30:53 this cabinet right here we know this is
+30:55 a cabinet we can see that this is a
+30:57 countertop we can also have moldings and
+31:00 quite a few moldings in fact and each of
+31:02 those moldings can have an offset
+31:04 horizontally or vertically um a molding
+31:07 can be a 3D molding which has a ton of
+31:11 complexity and on top of that um a
+31:15 molding can have an offset from a face
+31:18 item and we know now that a face item
+31:20 can be up to 4 in all right so it's a
+31:24 lot of dynamic parametric stuff you ask
+31:27 about the cabinet tool on the
+31:28 complexities cabinet tool and hey can we
+31:30 get some new features I'm so fortunate
+31:33 to get any features you know more than
+31:35 we already have in the cabinet tool it's
+31:37 just a fantastic tool so check this out
+31:39 let's go into our general we've got a
+31:42 countertop we can say that that overhang
+31:45 is 12 in it doesn't have to be a uniform
+31:47 overhang or we could make it one uncheck
+31:50 uniform and maybe on the left side I
+31:52 only want a 2-in overhang so it's
+31:55 dynamically being resized and the
+31:57 molding is being attached to to that
+32:00 right so and we can add a stacked
+32:03 molding to this or we can add something
+32:05 like let's see if I can't find uh unique
+32:08 molding in my library real quick so
+32:10 we're just going to type in molding and
+32:13 then pick up hey type moldings all right
+32:16 that's going to limit to or delimit I
+32:20 should say to just moldings and then I'm
+32:22 going to pick my own user catalog and
+32:24 let's see if I can't find um something
+32:27 that's kind of dynamic see I've got like
+32:29 a brick cap or a chain link in this case
+32:33 I've got it's kind of an interesting
+32:38 one and I've got a penny scalloped item
+32:42 here
+32:44 so I'm hovering over it doesn't look
+32:47 like I'm actually picking up where this
+32:49 molding is so let's actually specify
+32:51 this if doesn't already have attach it
+32:54 does have a molding but you know what
+32:55 that is that's this guy right here
+32:57 that's fake in the foundation Isn't that
+32:59 cool so I'm well I'm faking the footing
+33:01 in this case so this is just a molding
+33:04 down here right and then I don't have a
+33:06 molding on the countertop Edge in this
+33:08 case but that's easy enough to add with
+33:10 kitchen tools if you have those just
+33:12 click on that add molding tool and there
+33:15 we go now we have a molding and I can
+33:16 take this scallop and hover over and
+33:19 replace and isn't that
+33:21 interesting right and then you know
+33:25 again being able to offset for some kind
+33:28 of item um especially in the wall
+33:29 cabinet tool that's a really powerful
+33:31 thing so let's open up this cabinet tool
+33:34 again and just take a
+33:38 look we haven't even gotten into our
+33:40 accessories panel yet so we got door
+33:44 drawer another item that um is kind of
+33:46 unique and I took advantage of in a
+33:48 recent Library update is The Chopping
+33:50 Block The Chopping Block I haven't fully
+33:53 discovered everything oh you
+33:56 know pause for a second cuz I had a food
+33:59 delivery but sorry to keep on let me see
+34:01 if I can get back on track real quick
+34:04 all right what are we looking at here so
+34:05 front sides back we've gone through this
+34:08 um oh we were talking about the Butcher
+34:10 Block so the butcher block or what do
+34:13 they calling it cutting board in this
+34:15 case is kind of a unique item when we
+34:18 have a scenario where we have an offset
+34:20 symbol that we're trying to utilize as a
+34:22 cabinet door what happens is that that
+34:25 offset symbol you want to have have
+34:28 it not give us any face indicators for
+34:31 an opening side then you need to set it
+34:33 as a panel but the problem with setting
+34:36 something as a panel is that then when
+34:39 we add a
+34:41 separation add a separation real quick
+34:44 okay if this door panel is something
+34:48 that is um shows through so let's just
+34:52 say that we've got an object like my
+34:54 shelf tools that's how my shelf tools
+34:56 work is that we've got an object and
+34:58 it's offset and so that object looks
+35:01 like it's sitting on top of a shelf well
+35:04 that's only if it's an operable door
+35:06 it's a door panel our separation no
+35:09 longer creates a visible um geometry
+35:13 right there's no longer a separation
+35:15 there it's almost the same as just a
+35:17 blank so something to keep in mind but
+35:22 if you want something where it's got an
+35:24 offset and you want to show geometry
+35:27 through through and through you can use
+35:30 the cutting
+35:31 board let me just show you an item that
+35:35 uh search my library for
+35:43 credenza own and here we
+35:46 go actually maybe a more appropriate
+35:51 one one with the glass
+35:55 side here we go this this one's got an
+35:59 acrylic side to
+36:01 it you can see
+36:03 here it's kind of crank up
+36:06 the exposure real
+36:21 quick there we go so this is utilizing
+36:25 that cutting board so it's through and
+36:27 through this is kind of a unique setup
+36:29 here if we take a look at this
+36:30 particular item you can see here got a
+36:33 number of different cutting boards in
+36:35 the first half of this and then the
+36:37 lower half this is actually a cabinet
+36:40 right so this and that goes all the way
+36:42 to the ground so it's just got an OP an
+36:45 opening but on the left and right sides
+36:48 there's a side panel being applied okay
+36:53 and then we've got a really thin veneer
+36:55 type countertop on the top to kind of
+36:57 complete the look even though you can
+37:00 kind of see some Z fighting there and
+37:02 Vector lines shining through the overall
+37:04 effect here is that we've got an acrylic
+37:06 side a veneered top with four individual
+37:10 doors right in this case it didn't need
+37:12 to be operable I was just trying to
+37:14 complete that particular look so there
+37:16 you
+37:18 go so now let's move on to some more
+37:21 things about the cabinet
+37:25 tool so an accessory
+37:28 we got a whole another list of things
+37:31 that we can utilize
+37:34 pilasters cabinet feet cabinet feet can
+37:38 um sit in front of a toe kick or it can
+37:42 replace the toei completely that's a
+37:46 molding that's just a geometry again not
+37:49 a molding it's a mill work symbol mill
+37:52 work symbol um it can be anything it can
+37:55 be any organic shape um so you can get
+37:58 pretty wild with that aspect of it as
+38:00 well so um I didn't need to use a
+38:03 molding for my um for my fireplace stack
+38:06 I could have used cabinet feet that was
+38:08 just a square block foot and it had an
+38:11 offset if I wanted to could have done it
+38:13 that way um you have the ability to
+38:16 parametrically resize a width offset and
+38:19 a depth
+38:20 offset we can um parametrically resize
+38:24 by just clicking on stretch to fit in
+38:26 this case
+38:28 um and then there's that option to
+38:29 retain the toe kick and then on top of
+38:32 that we get to specify types of side
+38:34 panels that's not necessarily adding to
+38:36 the Dynamics of the cabinet tool um but
+38:40 a full siiz panel full overlay extend to
+38:43 bottom is giving us some options for
+38:45 some automatic actions if we've got you
+38:48 know a left and right side uh set to
+38:51 autop panel or something like that and
+38:54 then we've got the ability to change
+38:55 that top Appliance fixture from here if
+38:58 we want to and you can see we've got
+39:00 that designation for reverse so when we
+39:03 clicked on reverse we saw here that that
+39:05 fixture did in fact flip
+39:10 sides there's our moldings layers fill
+39:13 Styles that's I think we covered most of
+39:17 the bases of the cabinet tool and that's
+39:20 just the base cabinet tool mind you so
+39:24 um I could show you some really Advanced
+39:26 things with that cabinet tool obviously
+39:28 let's just shut down my views real quick
+39:31 we're not going to save we got a massive
+39:32 cabinet blocking all the light which is
+39:35 why my rendering doesn't look all that
+39:37 great and then um a really simple one to
+39:42 show you just how damic this can get us
+39:44 let's just type in Rd fire and then
+39:47 we're going to say that we want a
+39:50 cabinet as a type mate so type cabinets
+39:54 so this is going to get us very quickly
+39:55 to my various fireplace that have
+39:57 already been pre-built so I'll throw
+39:59 some of these in here just to take a
+40:01 look at them take a look at how dynamic
+40:03 they can be some of these are really
+40:07 sweet looking
+40:10 fireplaces and all these are built from
+40:14 cabinets so let's see what do we got
+40:18 here and let's just kick this raay trace
+40:20 on why not let's get a little better
+40:22 view in here
+40:36 so some of these are using pilasters
+40:39 right we can see this big pilaster and
+40:41 again pilaster doesn't need to look like
+40:43 a pilaster it can be any geometry can be
+40:47 anything that that is just a mil work
+40:49 class right so you can see here all I
+40:52 did was take the large columns that are
+40:54 in the core cataloges and um convert
+40:58 those to symbols to be placed as p
+41:01 lusters in the front of this cabinet
+41:03 with some offsets um all these recess
+41:06 sections in these fireplaces and you can
+41:08 see some of these are going to be broken
+41:10 from
+41:11 x16s um x16 messed up a a little bit of
+41:15 a few things reversed a few things for
+41:16 me that I have to repair but um we can
+41:20 see that these are they're cabinet doors
+41:23 some of them are operable some of them
+41:25 are just fixed right so we can click on
+41:26 a button and open those cabinet doors up
+41:29 and then because they're cabinet doors
+41:31 we can take any other cabinet door from
+41:33 the library hover over this particular
+41:36 item I'll just show you what I mean
+41:38 let's just go Rd fire and we're just
+41:39 going to go door in this case oops Rd
+41:43 fire door together and we're going to
+41:47 pick up some additional doors that I've
+41:49 got here so I just get to hover over
+41:51 this and replace in like kind and that
+41:53 changes that front door assembly for
+41:56 this particular symbol or I get to just
+41:58 hover over one of these elements here in
+42:01 a component based mode I'm just
+42:03 replacing an individual component there
+42:05 and you can see I changed that panel
+42:07 style so um just an example of just how
+42:11 Dynamic this this cabinet tool can be
+42:14 and you know just to give you an another
+42:17 example of how much you can do no I love
+42:21 bringing this up in classes when people
+42:23 are with me in class but here we go just
+42:26 take a look at Mr Kevin transo what can
+42:28 you do with him um well I'm actually
+42:31 going to say see if we can find
+42:34 transo then we're going to also say
+42:40 ainet think that I have him in
+42:49 here there he
+42:52 is so you can take a mesh like I said
+42:56 any mesh you want and you can
+42:58 essentially replace something by calling
+43:01 it a door if you wanted to on a zero
+43:03 frame cabinet which we did in this video
+43:06 and then now you've got some kind of
+43:08 mesh that has operable components to it
+43:11 so that you can open a door if you'd
+43:13 like
+43:14 to so I hope this video was very
+43:17 informative I can't wait to hear back
+43:19 from you let me know the comments really
+43:22 Drive algorithms so please leave
+43:24 comments on the YouTube channel I would
+43:26 really appreciate that because it does
+43:29 drive a lot my way so take care
+43:37 [Music]

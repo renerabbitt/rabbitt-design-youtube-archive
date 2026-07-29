@@ -1,0 +1,696 @@
+---
+videoId: Zfxztb33hwQ
+title: Material From Skewed Image In Chief Architect and Photoshop 2025
+url: "https://www.youtube.com/watch?v=Zfxztb33hwQ"
+status: imported
+---
+
+# Transcript
+
+0:01 got a request on the channel to show how
+0:03 to make a really quick decent texture
+0:07 out of just a screen clipping of a floor
+0:10 like this and the source object is
+0:14 really really low resolution so I'm
+0:16 going to show you how I would go about
+0:18 doing this um and my workflow has
+0:21 changed so this is we're in 2025 first
+0:23 quarter and um and I'm definitely
+0:26 utilizing AI more I found some tools
+0:28 that work pretty well for a so I'm going
+0:30 to be doing that for this the first
+0:32 thing I want to do is um I'm going to
+0:35 get
+0:36 into our tool set here and I'm going to
+0:39 use crop tool but if I click and hold I
+0:42 get to the perspective crop tool another
+0:43 way of getting to that would just be
+0:46 hitting the c key which is indicated
+0:48 here but shift c will cycle through
+0:50 these and so what I'm getting to is
+0:53 perspective crop and they do have a
+0:55 little tutorial on how this is used but
+0:57 here's how I'm going to use it I'm going
+1:00 to just pick something that will create
+1:02 a pattern here and so I'm going to click
+1:04 on the bottom quadrant of this Square
+1:07 I'm going to click on the bottom of the
+1:09 next neighboring square and then I'm
+1:12 going to click on the far right bottom
+1:14 corner of this Square far right bottom
+1:16 corner of this Square I'm trying to get
+1:18 something that will tile so you see here
+1:21 because I picked this square is fully in
+1:23 the shot then the square is not in the
+1:25 shot and it's at the corners of all
+1:28 sections here this means means that it's
+1:30 going to repeat now this takes some
+1:32 practice to understand why that is right
+1:35 if you're not used to this particular
+1:37 process basically you can see that this
+1:40 diamond shape right here right diamond
+1:43 shape is cut off right through these
+1:45 points well notice that it these points
+1:49 are continued up here so that when we
+1:52 place this end to end it should just
+1:54 continue that pattern let me press the
+1:57 check mark to commit this change and
+2:00 there we go now for this particular
+2:02 texture I do prefer trying to make
+2:05 Textures in a Ono one cropped ratio okay
+2:09 and what I mean by that is it's the same
+2:11 width resolution as the height
+2:13 resolution of the texture image itself
+2:17 and so when we export it it's going to
+2:19 be a one: one ratio so I'm going to get
+2:21 into that crop menu again and this time
+2:23 I'm going to use the default crop tool
+2:26 and I'm going to switch this to just
+2:28 Square in this case and then I want to
+2:30 make sure that delete cropped pixels is
+2:33 unchecked what would happen is if we
+2:36 crop this to a 1: one square and then
+2:38 all of a sudden any of those pixels
+2:41 outside of that crop will just get
+2:43 deleted you know emitted so we won't be
+2:45 able to use them anymore so here I go I
+2:47 got a one: one square I'm just going to
+2:49 press okay turns out somehow I kind of
+2:52 got a one: one on this already I have no
+2:54 idea how but let me go ahead and hit
+2:58 transform replicate yeah
+3:00 notice that it was very close to one one
+3:02 that was just by chance usually this
+3:04 would be off quite a bit so I'm going to
+3:06 transform this so that I'm bringing this
+3:08 in and something that's important to
+3:10 note is that I have maintain aspect
+3:14 ratio unchecked that means I could
+3:16 change the width of this without
+3:17 changing the height of it so I'm just
+3:19 bringing in the source texture file and
+3:23 snapping it to the new cropped size and
+3:26 so there we go that's it so it
+3:28 automatically cropped that ratio to the
+3:30 full extent of the height and we just
+3:32 happen to be really close to 1 to one so
+3:34 it didn't get that width right so
+3:37 unchecked aspect ratio shrunk that
+3:39 Source texture in now I have a true one:
+3:42 one that I can work with from here and
+3:45 this is looking really bad so far we
+3:47 know this from here let me just go ahead
+3:50 and turn on pattern preview so that's in
+3:52 the view window pattern preview and so
+3:56 now I get to kind of take a step back
+3:57 and look at this and see hey what's
+4:00 going on with this shot well it's not
+4:02 looking as good as it could look so
+4:04 let's go ahead and fix some of this
+4:05 stuff let me turn off the crop tool so
+4:08 that that's no longer you know kind of
+4:10 affecting the look here and then I'm
+4:12 going to use our clone stamp tool and
+4:16 I'm going to kind of look at this
+4:17 preview and fix some things now I'm
+4:19 going to do a soft brush here so I'm
+4:22 right clicking alt and then moving my
+4:25 mouse up or down and that's giving me a
+4:27 hard brush soft brush so I'm using a
+4:28 soft brush and right clicking alt and
+4:31 sliding left to right this is PC
+4:34 commands by the way sliding left to
+4:36 right and that's going to change the
+4:37 size here I'm going to stamp from here
+4:40 to here and it works across the bounds
+4:43 of our source pattern which is just
+4:45 right here so I just get to keep doing
+4:49 this stamp and I'm just fixing this I'm
+4:51 just fixing this little color
+4:53 discrepancy and it's going to update in
+4:55 the preview as well kind of the same
+4:57 thing is I'm going to take this and kind
+4:59 of fix this Square just a little bit
+5:03 right different parts of this just pick
+5:06 that fix that square just a little bit
+5:08 so it looks a little cleaner and we kind
+5:10 of take a step back we see some of this
+5:13 is not quite lining up correctly because
+5:15 I didn't quite crop in a way that I
+5:17 should have I could just use transform
+5:20 which is control T and transform this
+5:22 and stretch it so that there we go I'm
+5:25 getting a little bit better of a line up
+5:26 there so I just stretch that just a
+5:28 little bit and that seems to have lined
+5:31 it up a little bit better I could
+5:32 probably do the same thing on this side
+5:34 let's
+5:36 see just a little bit yeah that seems to
+5:39 line better all right and then the last
+5:42 parts of this seem to be that we still
+5:44 have got a little discrepancy right here
+5:46 or we're just kind of picking this
+5:48 up me get rid of this just for a second
+5:52 let's just grab this bring it up just a
+5:54 little bit there we
+5:57 go and we could probably pick
+6:01 up just this part and paint it Forward
+6:04 just this part paint it forward so just
+6:06 it's a little bit of manual work to get
+6:08 this all set up right you know but we
+6:10 want it so that this is repeating itself
+6:14 so kind of the same thing here is we got
+6:16 some kind of fuzzy line here I might
+6:18 take this and then on our clone Source
+6:22 flip the source so we're going to flip
+6:25 it um top to bottom right
+6:30 and I should be able to paint this
+6:32 in let's see did I do that correctly
+6:36 let's go
+6:40 180 I should be able to grab this and
+6:43 paint it here build that in and I'm
+6:47 doing it a little bit wrong I
+6:55 guess or the last thing is I could just
+6:57 brush it in the pixels with just the
+6:59 brush tool going to get past this part
+7:02 just so we've got something that's kind
+7:03 of seamless
+7:06 here and so as we take take a step back
+7:09 this is looking pretty good it's not bad
+7:11 here's the next part I want to get some
+7:13 variation this is way too linear right
+7:15 it just looks like it's just repeating
+7:17 over and over again well it is so I'm
+7:20 going to turn off pattern preview here's
+7:22 my next part I want to contr a or
+7:24 command a to select all and then control
+7:26 or command C to copy and then I'm going
+7:29 to get to Canvas size so this is image
+7:32 canvas size and let's go ahead and make
+7:35 sure relative is checked I'm going to
+7:36 click this top anchor and
+7:40 then um excuse me relative should not be
+7:43 checked click this top anchor and I'm
+7:45 going to put times three up here and
+7:47 same thing times
+7:49 three okay that's going
+7:52 to create a larger canvas base
+7:56 canvas now I get to just hit the V key
+7:59 which is our move tool all right and
+8:01 then I can hold alt and drag this out
+8:05 and so I'm dragging out a copy look at
+8:07 that hold alt draging out a copy and I
+8:09 want to make sure that these are
+8:10 snapping to each other so it's
+8:12 continuing that we made sure in pattern
+8:15 preview that this is a repeating pattern
+8:17 right and so in this way I can create a
+8:21 bunch of these little elements here now
+8:24 I want to um also note that because we
+8:26 didn't delete the crop pixels on that
+8:28 first crop we might want to recrop
+8:30 before we do this so let's hit crop
+8:32 again make sure that it's that one: one
+8:35 square again and this time we are going
+8:39 to delete the cropped pixels okay and
+8:42 press okay now when we do that canvas
+8:45 change where we're changing the canvas
+8:47 size now it's going to be that when we
+8:50 drag out a copy it's not going to have
+8:52 those extra pixels there so we'll be
+8:54 able to just snap quadrant copies so I
+8:57 should be able to just alt click drag
+8:58 this over and just have it snap very
+9:00 easily and so I'm just going to do this
+9:02 a few times so I'm just creating a grid
+9:06 here and notice that it's creating you
+9:08 know problem little little problem
+9:10 discrepancies here you know we can see
+9:12 some gaps in there maybe not that seems
+9:14 to be pretty good now I want to export
+9:17 this this is the part where I'm going to
+9:18 use Ai and there's a few different AI
+9:20 tools out there I'm using kore.ai K re
+9:24 a. a so I'm going to export this I'll
+9:28 just dump this into downloads I've done
+9:30 this before someone requested this so
+9:32 let me just export this as a screenshot
+9:35 no let's do um example let's
+9:40 go example
+9:43 tile all right and then I'll bring up a
+9:46 little
+9:47 window and let me get into ca.
+9:51 a now I want to show you I I did this
+9:54 before I'm going show you what happened
+9:56 here here's the previous version and so
+9:59 see how muddy this is this looked
+10:01 terrible right well this is the preview
+10:04 sorry this is the previous and then this
+10:05 is what Kaa gave me not a very good
+10:08 result and there's a reason for that and
+10:10 so um and I'll show you what that is let
+10:12 me add a new file let me add that
+10:14 example tile we just created we know
+10:16 that this is seamless all right and so
+10:19 I'm going to get into the upscaling
+10:21 section here and I want to pump up the
+10:24 strength of this Ai and in Clarity we
+10:27 can leave the same way resemblance is
+10:29 where we're going to turn this way way
+10:32 down that previous one I showed you
+10:35 where it didn't do a very good job
+10:36 that's because resemblance was kicked up
+10:39 now with resemblance now it gives AI the
+10:42 freedom to try to make this tile look
+10:45 realistic let me click enhance let this
+10:48 do its thing it should give us that same
+10:52 um the same ratio so we're going to get
+10:55 the same ratio the next problem that
+10:57 we're going to encounter with this is
+10:59 AI does not know to make this a seamless
+11:02 texture so we're going to have to figure
+11:04 out how to make this a seamless
+11:06 texture what's great about this process
+11:10 is that we can actually create an action
+11:12 for this next part so that that action
+11:16 just gets us further down the line of
+11:18 this process a lot
+11:23 faster all right and so here was the
+11:26 result it did a pretty good job you know
+11:28 it's not perfect um I think the previous
+11:31 version that I did where I sharpened The
+11:33 Source image ahead of time um made a big
+11:36 difference on how this looks you can
+11:38 always download this right we can
+11:41 download this and take this right back
+11:45 in and set it up again and try to do the
+11:48 same thing so there's just a method for
+11:51 you is I kind of call this stacking
+11:54 where we're just doing the exact same
+11:55 setup here giving a lot of strength
+11:58 taking resem down maybe I'll move
+12:00 Clarity a little bit and let me click
+12:02 enhance now back in Photoshop let's go
+12:05 ahead and drag and drop that item in
+12:07 here so I'm getting into my downloads
+12:09 folder on another screen dragging into
+12:11 place notice it's just a one to one
+12:14 snaps right in place super easy super
+12:16 cool right so the next part of this is
+12:19 that if we looked at our pattern preview
+12:22 under
+12:23 view we're going to note that it may not
+12:26 be a perfect look at this we've even got
+12:28 a discrepancy see here it's not going to
+12:30 be a perfect tiing of that pattern so we
+12:32 do have to fix that okay so the fix for
+12:36 this is pretty
+12:39 simple and I want to encourage you to
+12:42 create a um an action so we're going to
+12:45 get into actions and we're just going to
+12:47 do an example one here I'm not even
+12:50 going to create a new folder we'll just
+12:51 do it in my material edits maybe
+12:55 folder and so I'm going to click that
+12:57 plus button create a new app action all
+13:00 right and here's what I'm going to
+13:04 do record first we want to crop because
+13:08 this will be used for other things we
+13:10 want to crop and we want to make sure
+13:11 the crop is a one to one ratio and in
+13:15 this case we are deleting cropped pixels
+13:18 all right and then hit enter we're done
+13:20 with that part so we've cropped first
+13:23 that's a great part to put in this and
+13:25 notice that the action is being recorded
+13:28 okay next let me V key and I want to
+13:32 move this Source image and I want to
+13:34 move it so that it snaps into this top
+13:36 quadrant all right now V and ALT
+13:41 together draws out a copy we're drawing
+13:43 this out to the right and in this case
+13:46 we're going to transform controll or
+13:47 command T and then flip this
+13:51 horizontally
+13:56 okay now there's a problem with how I'm
+13:58 doing this
+14:00 isn't there in this case we're not going
+14:01 to flip it horizontally this would the
+14:04 horizontal workflow would be better for
+14:06 a seamless texture um
+14:11 that yeah better for a seamless texture
+14:14 um where it's kind of ambiguous across
+14:16 the seams so here's the next part we're
+14:19 just going to draw out four copies
+14:21 that's it just like
+14:25 this what this gives us is that problem
+14:29 area we've now moved the bounds of of
+14:33 this image so that we're just given the
+14:37 problem area that we need to fix and so
+14:39 what you could do next is stamp this
+14:41 down controller command e so with this
+14:46 smart object selected actually in this
+14:47 case we got to kind of shift select the
+14:49 four and group and then we could control
+14:54 e or command e and stamp that group so
+14:58 here's what we're left with and you can
+14:59 see here we got some things to fix
+15:01 what's great about this and let me just
+15:03 stop record we can stop that
+15:06 action now I'm going to use that healing
+15:08 spot healing brush tool and I can just
+15:10 come in here and draw shift straight
+15:14 down and hopefully that fixes some
+15:16 things now it might be easier to just
+15:18 kind of spot fix some things where we're
+15:20 going to spot in between where this
+15:22 where this tile is right here that might
+15:24 be a little bit easier to do might get
+15:26 better results from this let still a
+15:29 little bit of work takes work to build
+15:31 these textures it really does no matter
+15:33 how good we
+15:35 are right so we're just going to fix a
+15:38 little bit here a little bit there and
+15:40 kind of I'm kind of Muddy this one up
+15:43 we're going probably going to stamp fix
+15:44 that so I'm going to switch to that
+15:46 stamp tool and just kind of draw this in
+15:49 right going to blur that that edge
+15:54 line there we go so this is looking a a
+15:59 lot
+16:02 better right and then where's our
+16:04 problem area well we got a big one right
+16:05 here all right that's definitely
+16:08 wrong I have to get my brush a little
+16:10 bit tight here you could use the lasso
+16:13 tool to kind of cut the bounds here so
+16:16 that you're just staying within that
+16:18 those grout line
+16:19 sections
+16:21 this right and then you can use that
+16:24 stamp tool just kind of freely and not
+16:26 worry about where you're hitting there
+16:27 we go
+16:31 you select that and this is looking
+16:33 pretty good and now we know because we
+16:35 brought all the problem areas into the
+16:36 middle of the shot those problem areas
+16:39 should all be gone when we hit pattern
+16:41 preview so let's go look at a pattern
+16:46 preview look at that that's a pretty
+16:49 great texture we got some variation we
+16:52 got some things happening this is making
+16:53 a big difference let's go look at Kaa
+16:55 see what it did with that second round
+16:57 here second around yeah it just gave us
+17:00 something different you know I like this
+17:02 bubbling I like that it gave us um some
+17:04 highlights in here you know so play
+17:07 around with this do some stacking see if
+17:08 you can't get it mess around with those
+17:10 sliders strength versus resemblance
+17:12 obviously in this one you want to kick
+17:14 resemblance up a little bit you come
+17:16 back to this Source image again and
+17:19 strength and maybe kick resemblance up
+17:21 just a little bit and turn Clarity down
+17:23 try one more of those but now let me get
+17:26 back to this and so I've got my main
+17:29 texture that's all I needed I'm done now
+17:32 right now I need a bump map so I'm going
+17:35 to contrl J this forward and then switch
+17:39 to filter other high pass and so that's
+17:43 going to give us this and so here's an
+17:45 opportunity for us um to just kind of
+17:48 create that bump map you can change that
+17:51 radius maybe I want to subtle look who
+17:54 knows and so this would be a bump map
+17:57 another thing that you might look at is
+18:00 maybe I want these kind of in between
+18:03 dark areas to actually be like white
+18:05 grout and so that would be another thing
+18:07 we might look at so maybe we make one
+18:09 more copy where we're doing image
+18:12 adjustments replace color and we're
+18:14 targeting this kind of gray section and
+18:18 we're lightening it up and we got to
+18:19 change that fuzziness down fuzziness
+18:22 just means you know how many neighboring
+18:25 pixels in terms of their RGB values are
+18:28 we going to pick up and adjust right now
+18:31 right so you turn that fuzzy n down a
+18:33 little bit and I'm kicking the lightness
+18:35 up a little bit and you can see here I'm
+18:37 I'm effectively creating like white
+18:39 grout in this case and don't worry that
+18:42 this doesn't look perfect because it's
+18:44 going to look a lot better once we
+18:47 introduce um a bump map right so there's
+18:50 that texture with kind of white
+18:54 grout now let me go ahead and do that
+18:57 same filter highpass and in fact we
+19:00 might even use the white grout version
+19:02 of this this might get us something even
+19:05 more interesting so filter other high
+19:07 pass and so now we're really seeing a
+19:10 distinguished area where the grout lines
+19:12 are and so and kind of Kick this around
+19:15 play around with it might even do a
+19:17 little curves adjustment if you're not
+19:19 familiar command or control M and kind
+19:22 of move curves around mess around with
+19:24 this to kind of you got to look at this
+19:26 and kind of
+19:27 see generally speaking are we getting a
+19:31 division between our grout and our tile
+19:33 it's really what we're looking about and
+19:36 I might want to blur this a little bit
+19:37 because it's a little
+19:39 sharp so we could always come in here do
+19:41 a little bit of a gaj and
+19:43 blur on top of
+19:47 that yeah this is looking okay the last
+19:50 thing I might do before I export this is
+19:53 here's you know my base texture if I
+19:55 want to have um some kind of random Rune
+19:59 happening to this what I could do is I
+20:01 could come in here and bring in some
+20:03 kind of a seamless texture that is just
+20:06 meant to be noise and I'll show you what
+20:08 I mean by that and I've got one in mind
+20:10 I've got a bunch of these maps saved on
+20:11 my computer I've got this one right here
+20:14 just going to place this in place notice
+20:16 it just pops into place because it's
+20:17 already a square ratio texture and it's
+20:20 a seamless texture and so what I'll do
+20:23 is I'll change this to a color burn and
+20:25 so what it's doing is it's just adding
+20:28 some movement some like grungy things
+20:31 across these tiles right you notice
+20:34 these little spots and suddenly you're
+20:36 getting a little bit more realistic very
+20:38 cool so let's export this texture this
+20:42 is going to be our example
+20:45 tile let's call it one all right so
+20:49 there's the diffused texture let me
+20:51 switch over
+20:53 to just our bump map part of this
+20:59 exle tile Das
+21:04 bump it's coming to Chief
+21:07 Architect I've already got a tile that's
+21:09 already tagged with all the things I
+21:10 want it to be tagged with for Spanish
+21:12 tile because it's a different type of
+21:14 Spanish tile and then I can Target my my
+21:17 new texture that I
+21:21 created and Target my bump map and I can
+21:24 even use that bump well what I forgot to
+21:26 do is if I Inver inverted this let's say
+21:30 we invert this real
+21:32 quick now it's making it so that those
+21:35 light parts are non- gloss meaning that
+21:38 I'm saying that my grout is not glossy
+21:40 in this case might be that I just save
+21:42 it as a third map who knows or I can
+21:45 take over the bump map that's fine
+21:47 because bump map can be inverted that
+21:49 part doesn't
+21:51 matter so I'm going to use this as both
+21:54 a bump map and a roughness map I just
+21:56 need to come back and on the bump map
+21:58 click to invert and let's kick this up a
+22:01 little bit so we can really see it
+22:02 something like
+22:04 008 let's take a look at this I think
+22:06 that um the size of this we're going to
+22:08 be 36 by 36 something like that look at
+22:12 that that's looking pretty good that
+22:14 bump map's a little heavy so you're
+22:16 going to knock that
+22:18 down you
+22:20 could you could smooth the IND you know
+22:24 in between sections of the tile and just
+22:26 leave those grout sections um
+22:29 and and I can show you that real quick
+22:31 as well let's take this map let's contrl
+22:34 J and make a copy of it um and then I'm
+22:36 going to do a control or command M and
+22:41 really
+22:43 Target just a black and white map we're
+22:45 just trying to get just to the to those
+22:47 grout lines if we can help
+22:51 it and so we're making just kind of a
+22:54 linear linear path with
+22:56 this no this Sayes I move it down the
+22:59 line it turns it back to more of an
+23:00 invert I want to move this towards the
+23:02 end curve of
+23:04 this and get this just to be really
+23:07 linear and then controller command U
+23:10 we're going to pull out all that
+23:11 saturation out of
+23:13 there something like that it's kind of
+23:16 leaving us with just a little bit left
+23:18 over right and it just looks like those
+23:19 are the grout lines well we can control
+23:21 or command a to copy this and then um
+23:26 the point of this is that we're going to
+23:28 come in here and and make that bump map
+23:31 just be the grout lines is what you
+23:33 would do so you can put anything you
+23:36 want as far as a pattern is concerned so
+23:38 you could create a pattern from just
+23:42 noise
+23:43 and and then come in layer do a new fill
+23:47 layer that's a pattern fill layer and
+23:50 that pattern fill layer you would need
+23:52 to have something that's just got
+23:56 noise let's just show you what that
+23:57 looks like see this is just noise I
+24:00 double click that in my layer and change
+24:02 the scale of
+24:05 this right it's just redundant noise now
+24:08 the next part is because I copied this
+24:11 pattern below because I copied this
+24:12 pattern below if I just click
+24:16 in alt click into this mask and paste
+24:19 that pattern let's just make sure I
+24:22 copied this yeah I all click into the
+24:25 mask and paste the pattern now we're
+24:28 asking that pattern down the layer stack
+24:32 so I'm just creating a pattern where
+24:36 just this let's see just the grout is
+24:39 actually producing that pattern file so
+24:42 if I change the scale this
+24:46 pattern see I'm adjusting just the grout
+24:48 lines now isn't that kind of
+24:52 crazy just some kind of cool tricks to
+24:54 kind of affect that overall texture see
+24:57 what you can do with it it um smooth it
+25:00 out you know make it um make it more
+25:03 blurred but still have that pattern on
+25:05 top so I could take the texture that's
+25:08 below blur caj and blur and I'm blurring
+25:12 just the texture below but it's not
+25:15 affecting the pattern
+25:17 above right so I need to clean up that
+25:20 pattern so that it really shows
+25:23 through which would be you know in this
+25:26 case I didn't quite do a great job of
+25:28 this this but it just give you an
+25:29 example
+25:32 here watch how pronounced this gets now
+25:35 that I unmas that see that's that
+25:38 essentially that grout so even we
+25:40 blurred the tile all of a sudden the
+25:42 grout's coming through in high
+25:45 definition so what's one more thing we
+25:47 can do to this to make it look even
+25:48 better well we can come in that same
+25:51 method that we used to create some
+25:52 variation well we could do that same
+25:54 thing by adding some variation into the
+25:56 ambient occlusion map so it's just good
+25:59 to have a bunch of seamless textures for
+26:01 AO Maps where it's just just random
+26:04 noise but you want them to be seamless
+26:06 so that they're you know stacked up
+26:08 against each other so um just adding
+26:11 this on top of it it's going to affect
+26:13 when this tile is in Shadow and it's
+26:15 just going to add a little bit more
+26:18 feeling of depth to it right just throw
+26:21 a little Scot on the wall so you can
+26:24 see yeah so we just have some random
+26:27 kind of shadowing happening the further
+26:29 down the line and away from lights we
+26:31 get and then right on lights that goes
+26:34 away kick this bump map down and let's
+26:36 just see just how good this
+26:39 is you I'm doing this for the purpose of
+26:42 a tutorial so I'm not um stopping and
+26:45 taking a little bit of extra care to
+26:46 really make a texture that's going to
+26:47 stand the test of time but even for just
+26:50 rushing through this this is a pretty
+26:52 good texture it's got a lot of good
+26:54 variation it looks good on the floor
+26:57 yeah it's not
+27:00 let's look back at Kaa and see what it
+27:01 did with a second round here this is
+27:03 their second round edit that did okay
+27:08 did okay for that being the source right
+27:13 this looks pretty good this looks pretty
+27:15 good for that being the
+27:17 source so there we go we got a texture
+27:20 going to throw this in the library that
+27:21 looks pretty good and that one out for
+27:24 free why not let me know if you have any
+27:26 questions on this and probably not the
+27:29 most cohesive uh approach that I've gone
+27:32 through I'm still working out this
+27:33 process I think later videos will get a
+27:35 little bit more of a cohesive process
+27:38 but the breakdown of it is that we did
+27:40 that perspective crop we made sure that
+27:44 we cropped it down to a one:1 ratio
+27:46 without deleting the crop pixels we
+27:49 stretched that to Source texture into
+27:52 that one to one we turned on pattern
+27:55 preview we use the stamp tool to kind of
+27:59 fix it while looking at that live
+28:01 pattern preview to make sure it tiled
+28:04 once it tiled we increase the canas size
+28:07 and then we duplicated our source
+28:09 pattern a bunch of times so we had a
+28:11 larger sample area we took that into AI
+28:15 got it to redo the texture for us
+28:18 brought that from AI back into our
+28:21 source tiled it in a way that we tiled
+28:24 it so that we could see the problem area
+28:25 that was no longer seamless because AI
+28:27 is not going to make it seamless for us
+28:30 and then fixed that little
+28:33 issue created a duplicate layer did a
+28:37 highpass filter on it to create this
+28:39 bump map and then we also on the source
+28:42 texture added a random pein noise
+28:45 seamless map and set that to color um
+28:49 Dodge burn or linear burn so that we got
+28:51 a little bit of variation in the texture
+28:55 itself and then we built the texture in
+28:56 Chief Architect so those are all the
+28:58 steps we went through to create this
+29:01 texture check it out uh let me know if
+29:04 you have any questions happy to help you
+29:06 out with this this is a request from
+29:08 someone that's in the membership area so
+29:10 you want requests you want me to make
+29:12 catered videos to you go ahead and make
+29:14 a request and I will try to get to them
+29:16 they get put in a queue and I make them
+29:18 as often as I can thanks
+29:33 [Music]

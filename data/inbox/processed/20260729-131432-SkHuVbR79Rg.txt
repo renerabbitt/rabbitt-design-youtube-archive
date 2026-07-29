@@ -1,0 +1,106 @@
+Title: Photoshop Trick For Difficult Terrain Features in Chief Architect X16 - Terrain Video 9
+URL: https://www.youtube.com/watch?v=SkHuVbR79Rg
+Visibility: members-only
+
+0:01 hey VIP um I think this is video nine we
+0:03 voted on terrain this this month I'm
+0:06 going to give you a little something
+0:07 this takes a this is actually going to
+0:08 go into the Photoshop tools as well um
+0:12 or the Photoshop membership club this is
+0:16 a good one but you need Photoshop or you
+0:18 need some other program that can do some
+0:20 things similar to photoshop so what I'm
+0:22 going to do here is I've got this is
+0:24 someone else's file they've got some
+0:26 kind of topography image here and I want
+0:29 to recreate
+0:31 these two driveways going to do it in
+0:35 mode I don't feel like tracing them
+0:37 they're large it's going to take a while
+0:40 I'm tired I don't feel like doing it so
+0:42 what am I going to do well I'm on a
+0:44 Windows machine so I get to hit window
+0:46 key shift s right window key shift s is
+0:49 going to give me that screen clipping
+0:51 and so here we go screen clip that now
+0:54 let me go ahead and switch over to my
+0:57 Photoshop and I'm going to
+1:00 r n new from clipboard going to hit
+1:04 create CR V we're pasting and now we're
+1:07 going to use a couple tool one
+1:10 is it's going to use the quick selection
+1:12 tool quick selection tool is going to
+1:14 make it so I can select this driveway
+1:17 very very fast
+1:21 okay use alt to
+1:24 deselect shift add to the selection
+1:27 excuse me just um click and drag to add
+1:31 to the selection there we go I have
+1:33 these two driveways now selected I'm
+1:35 actually just going to turn off this
+1:37 layer go back to the background layer
+1:40 hit my G key paint okay now I'm going to
+1:44 control shift W to export from here I
+1:47 want to limit the resolution way way
+1:50 down okay I'm going to bring it down to
+1:52 something like 300
+1:54 pixels press
+1:57 export and overwrite an existing file
+2:00 here let me window key tab so I can
+2:03 select what do I want here I want Chrome
+2:06 on this ose
+2:09 files pick up that driveway and I want
+2:12 to convert it to pad
+2:17 dxf go ahead and click convert going to
+2:20 wait probably 20 seconds depends on your
+2:22 browser speed there you go that was
+2:24 really fast go ahead and hit download
+2:36 okay now I get to go to the folder where
+2:38 this
+2:46 was drag that dxf file into CH and to
+2:51 convert all CAD blocks why
+2:55 not down board so easy so easy easy
+3:01 watch this comes
+3:03 inand it it's not going to be to any
+3:05 kind of scale and it's only going to
+3:06 have a limited amount of accuracy but it
+3:09 will get you most of the way there I'm
+3:11 holding my control key kind of placing
+3:12 this in place you can see here that I
+3:14 just need to keep expanding it it's nice
+3:16 that we have two
+3:17 elements reference either one to kind of
+3:19 get it to the right size and shape right
+3:22 so looks like it could get drunken down
+3:25 just a little bit here now because I
+3:27 limited the resolution of my export
+3:29 that's why I got more of kind of a
+3:31 bubble shape higher the resolution the
+3:33 more accurate this is going to get but
+3:35 in mind more accurate this gets the more
+3:38 complex your poly lines are so this ends
+3:40 up being really really close to what I
+3:42 needed to be right and it certainly
+3:44 conveys when I need it to convey in of
+3:47 the overall looking might be that I move
+3:50 this just a little bit we can see how we
+3:51 have very few brakes you had a higher
+3:53 resolution you might have quadrupled the
+3:56 number of breaks in this line now we can
+3:59 take the two convert them and I would
+4:02 just convert them to some kind of a
+4:04 Terra and then you have a roadway
+4:07 interceding this because we can't
+4:08 convert to a driveway I would say that
+4:11 you're going to come in here and make a
+4:14 little bit of a section cut away from
+4:16 this section make just a driveway to
+4:18 connect to it and that will
+4:19 automatically CB
+4:22 cut super fast way of making pretty
+4:25 complex shapes without feeling like you
+4:27 even put in that much effort so
+4:30 hopefully that's a really good one for
+4:31 you
+4:35 [Music]

@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Rabbitt Design Video Index</title>
+    <meta
+      name="description"
+      content="Search Rabbitt Design YouTube transcripts, summaries, chapters, and topic indexes."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="topbar" aria-label="Primary">
+        <a class="brand" href="./index.html">Rabbitt Design Video Index</a>
+        <a href="https://www.rabbittdesign.net/" target="_blank" rel="noreferrer">Rabbitt Design</a>
+        <a href="https://www.youtube.com/@rabbittdesign8482" target="_blank" rel="noreferrer">YouTube</a>
+      </nav>
+
+      <section class="hero-grid">
+        <div>
+          <p class="eyebrow">Transcript Search Prototype</p>
+          <h1>Find the exact Chief Architect topic inside every video.</h1>
+          <p class="lede">
+            Search titles, summaries, topics, chapters, keywords, and full transcript text.
+            Browse by chapter and subchapter when you know the general category but not the video.
+          </p>
+          <div class="hero-actions" aria-label="Rabbitt Design links">
+            <a class="primary-link" href="https://www.rabbittdesign.net/videos" target="_blank" rel="noreferrer">
+              Browse Rabbitt Design Videos
+            </a>
+            <a href="https://www.rabbittdesign.net/chiefsearch" target="_blank" rel="noreferrer">
+              Chief Architect Search
+            </a>
+          </div>
+        </div>
+
+        <form class="search-panel" id="search-form">
+          <label for="search-input">Search the archive</label>
+          <div class="search-row">
+            <input
+              id="search-input"
+              type="search"
+              placeholder="Try toolbar, TreeSize, custom icons, reset toolbars..."
+              autocomplete="off"
+            />
+            <button type="submit">Search</button>
+          </div>
+          <p id="search-help">Loading searchable transcript index...</p>
+        </form>
+      </section>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar">
+        <section class="panel">
+          <h2>Archive Stats</h2>
+          <dl class="stats" id="stats"></dl>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <h2>Chapters</h2>
+            <button class="text-button" id="clear-filter" type="button">Clear</button>
+          </div>
+          <div id="taxonomy" class="taxonomy"></div>
+        </section>
+      </aside>
+
+      <section class="content">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Browse And Search</p>
+            <h2 id="results-title">All Indexed Videos</h2>
+          </div>
+          <p id="results-count" class="muted"></p>
+        </div>
+
+        <div id="active-filter" class="active-filter hidden"></div>
+        <div id="results" class="results"></div>
+      </section>
+    </main>
+
+    <template id="result-template">
+      <article class="video-card">
+        <div class="video-embed"></div>
+        <div class="video-body">
+          <div class="video-meta"></div>
+          <h3></h3>
+          <p class="summary"></p>
+          <div class="card-actions"></div>
+          <div class="tags"></div>
+          <section class="matching-chapters"></section>
+          <details>
+            <summary>Transcript Match</summary>
+            <p class="snippet"></p>
+          </details>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

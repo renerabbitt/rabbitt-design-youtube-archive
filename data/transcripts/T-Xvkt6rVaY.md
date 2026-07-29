@@ -1,0 +1,1021 @@
+---
+videoId: T-Xvkt6rVaY
+title: 3DWarehouse to Blender to Photoshop to Chief Architect and the Krea ai for an AWESOME Bed
+url: "https://www.youtube.com/watch?v=T-Xvkt6rVaY"
+status: imported
+---
+
+# Transcript
+
+0:01 what's going on Chief Architect people
+0:03 uh I got a little video here about a
+0:04 workflow on how I bring in models from
+0:07 3D Warehouse I want to decimate them and
+0:10 then retexture them and bring them into
+0:12 Chief now this is a new workflow for me
+0:15 I typically Model A lot of the stuff
+0:16 that I want but sometimes I come to 3D
+0:18 warehouse and I always have to decimate
+0:20 we have some other videos about that so
+0:22 that's not new well let's see if we can
+0:24 create a comprehensive full workflow
+0:27 with some new elements so here's the
+0:29 first part of this is going to go to 3D
+0:31 warehouse and find this object and by
+0:34 the way if this seems like too much work
+0:36 you can always reach out to me I model
+0:38 these things for you or I'll do this
+0:39 workflow for you so I'm going to click
+0:41 on download and click on SketchUp file
+0:44 type I have the hopes that in future
+0:47 Chief will add a built-in decimator to
+0:50 Chief Architect right but right now we
+0:52 got to do it in some other um software
+0:55 so going to download that SketchUp file
+0:57 and then bring it into the free opsource
+1:00 really powerful software called blender
+1:02 that I don't know how to use that well
+1:05 but I did add a plugin so that I can
+1:07 import a SketchUp file and so here we go
+1:10 here's that bed and so from here um we
+1:14 can see that this came in as a component
+1:17 based assembly from SketchUp but we
+1:20 actually I want to have the option to
+1:22 just export the mattress and pillows
+1:25 together and just export the frame so
+1:27 that I can put this together as a
+1:29 separate object object if I want to okay
+1:32 so here's what I'm going to do I'm going
+1:34 to shift select pillows and bed and then
+1:38 I'm going to join these
+1:39 up and then I can shift select the other
+1:44 parts of this
+1:45 bed right click
+1:47 join from here with this selection oh
+1:50 and let's see it looks like I missed
+1:52 part of this let's just make sure I got
+1:54 everything going on here let's join this
+1:56 up again there we go now I've got oh
+1:58 doesn't look like I got everything looks
+2:01 like I missed some things
+2:03 still there we
+2:05 go all right now we got one whole object
+2:09 so from there I'm going to get into
+2:12 modifiers under modifiers I'm going to
+2:15 add a modifier type in decimate hit
+2:17 enter all right decimate that's this guy
+2:20 right there you should see that name
+2:22 right there decimate so what this is
+2:24 doing is it's going to collapse this
+2:26 right now the face count is 8,000 of the
+2:29 bed frame that's not too bad the Target
+2:32 that we're shooting for the ultimate
+2:34 Target is under 10k
+2:37 okay the um that's best case scenario
+2:41 it's acceptable if it's under 20K it's
+2:43 still kind of acceptable if it's under
+2:46 50K if it gets up above that we're going
+2:48 to start slowing down our Chief
+2:50 Architect scene now this is no longer a
+2:52 great symbol for the stuff that I keep
+2:55 in my library almost all of my library
+2:58 items are under 10k some are maybe up to
+3:01 20 and there's a few trees that might be
+3:03 above that but for the most part I keep
+3:06 a rigorous standard that's similar to
+3:08 Chief architect's standard we're looking
+3:10 for the best performance out of the best
+3:13 visuals a couple things to note the way
+3:17 this works is if this is triangulated
+3:19 meaning that if we select this bed and
+3:21 we look at the wireframe shading here up
+3:24 at the top okay you going to see this
+3:27 right now this is built into triangles
+3:29 keep in mind poly count just means
+3:32 number of polygons and a model could be
+3:35 built out of hexagons what will happen
+3:38 is if we've got 50,000 hexagons and we
+3:40 bring it in chief chief that's not a one
+3:43 toone ratio Chief will actually
+3:46 triangulate that symbol before it
+3:48 Imports which now your 50k hexagons
+3:52 might turn into something like a 150k
+3:55 poly count which is way too high that's
+3:57 an important thing to note so with this
+4:01 selected and I want to add this
+4:04 decimator right and add that decimator
+4:07 let's switch back to a regular shading
+4:10 if I click and drag ratio down you're
+4:14 going to notice that this model starts
+4:16 to break down I'm going to show you
+4:18 exactly what this is doing in wireframe
+4:20 watch when we click and decimate look at
+4:23 this it's creating new polyes to create
+4:27 this now something I want to specify and
+4:29 make click clear is if we look in here
+4:31 and really zoom in here look at this
+4:33 some of this is not triangles so we want
+4:36 to make sure in decimate we're clicking
+4:38 triangulate so that we're getting the
+4:40 true numbers out of this so what happens
+4:43 when I break this down let's see right
+4:46 around
+4:47 here is where it starts looking kind of
+4:50 goofy on those pillows so I want to
+4:52 bring those back up to to the point
+4:54 where it's acceptable and notice that
+4:56 the face Count's now 9,000 hey that is
+4:58 under 10k but that does not include the
+5:01 bed frame could we do better if we
+5:03 change the decimate mode to
+5:06 planar something about planar is a great
+5:09 kind of explanation for how Chief
+5:11 Architect Works which is that underneath
+5:14 a certain degree from one adjacent
+5:17 polygon to another Chief Architect will
+5:20 smooth so if we've got something that's
+5:23 30° and we have a smoothing angle of 45
+5:27 Chief will smooth it if we've got
+5:29 something that
+5:30 greater degree than our smoothing angle
+5:32 it will not smooth meaning that it can
+5:35 keeps it as a sharp edge so if we've got
+5:38 a 90° angle and we set our smoothing
+5:40 angle to something like 110 it's going
+5:42 to smooth that angle which is not
+5:44 necessarily a desirable effect so plan
+5:47 art kind of takes the same methodology
+5:49 in that we're going to create new
+5:52 polygons based on if something's angle
+5:55 limit is set Beyond this threshold I'll
+5:57 show you what I mean again clicking on a
+6:00 wireframe this is
+6:03 5° by increase the degrees it's going to
+6:06 drop that face countdown again okay and
+6:10 so maybe I can get a better result out
+6:12 of this method than as opposed to the
+6:15 collapse method so let me click back on
+6:19 the viewport shading I'm going to
+6:21 increase this angle limit and I'm going
+6:22 to see if I can get this as low as like
+6:25 maybe four degrees I mean excuse me
+6:27 4,000 polygon without blowing up those
+6:30 pillows look those pillows still look
+6:33 good and we're below the collapse method
+6:37 I'm going to keep going a little bit
+6:38 farther now we're down at 6,000 let's
+6:41 see if we can even get it down
+6:43 to there we go there's a really low
+6:47 number here's 3,000 check that out now
+6:51 something I know even though these look
+6:53 like sharp angles Chief will see those
+6:56 sharp angles and round them that's
+6:59 what's really cool about Chief's
+7:00 smoothing algorithm so I've got this
+7:02 face count down to 3,000 that's
+7:05 fantastic okay let's take a look at the
+7:08 bed let's do the same kind of thing
+7:10 going to drop this ratio down until the
+7:12 point where that bed starts to look like
+7:13 it's getting a little bit blasted I'm
+7:15 really looking at these pillows right
+7:17 here as I go to just make sure that
+7:19 they're still kind of keeping their
+7:20 round shape and hey at a 956 th000 face
+7:24 count still looks pretty good let's try
+7:27 planar instead let's see if we can get
+7:29 this even lower and still keep those
+7:32 back cushions looking good yeah they
+7:34 really look good even at 200 if I
+7:38 increase it a little bit you know the
+7:39 back bed rails are getting affected so
+7:42 there's
+7:44 1,500 here's at
+7:46 1,800 right around 1500 is where this
+7:49 starts to just kind of lose its shape so
+7:52 that's pretty good 800
+7:54 polygon so I could export this as two
+7:58 separate files I could but I'm using a
+8:00 you new work excuse me as one file but I
+8:04 want to use a new workflow where I'm
+8:06 texturing this with some new automatic
+8:09 texturing thing outside of blender so
+8:13 I'm going to export these as individual
+8:15 model so I'm going to make my selection
+8:17 go to file
+8:19 export and I'm going to export as a
+8:21 wavefront obj file and in this export
+8:26 dialogue I'm going to limit to selected
+8:29 only
+8:29 that's the part I'm care about and then
+8:31 just making sure apply modifiers is
+8:34 checked because that's our decimate
+8:36 modifier and so I get to export this and
+8:38 this is going to be West Elm
+8:45 mattress and and the last part of this
+8:48 is I want to make sure that the up AIS
+8:50 for this model is actually the z-axis so
+8:53 there we go export wavefront object now
+8:56 I get to select that bed do the same
+8:57 thing I'm going to export this as as
+9:01 well wave FR object selected only it
+9:04 kept all of my settings from that last
+9:05 export I just need to change the name of
+9:08 this and so it's going to be West
+9:10 Elm
+9:12 bedframe Arie I think is what it was
+9:15 called there we
+9:17 go all right Next Step what's our next
+9:20 step let's come back to this and I'm
+9:24 using an application called Meshi it's
+9:27 very expensive for the type of volume
+9:30 I'm expecting to do and I have messed
+9:32 with it to do a lot of the things that
+9:34 it does well I have not used one feature
+9:37 that it does and that is that I can do
+9:40 an upload of an existing model Meshi is
+9:44 an aib based tool that can um take a
+9:47 description or a picture and build a 3D
+9:49 mesh for you it does okay on a lot of
+9:53 things it does okay um anything that's
+9:56 that's architecturally straight right
+9:58 like if we got um a bed frame for
+10:01 instance it's not going to do a great
+10:03 job on that unless you kick up the high
+10:06 poly count and then go decimate it
+10:08 yourself in a plane R projection that's
+10:10 a lot of work so I'd rather go find
+10:13 stuff that's already architecturally
+10:15 straight right for things that are a
+10:17 little more organically shaped like an
+10:19 ottoman Meshi does a fantastic job of
+10:22 this so here we go I'm going to drag and
+10:23 drop and I'm going to find
+10:27 that West what what what did I even call
+10:30 it should be an obj file and where did I
+10:33 download it let's go back here because I
+10:37 clearly exported it to a place that I
+10:39 didn't know about might be in
+10:41 documents I did I saved it in documents
+10:44 like a goofball here we go desktop
+10:46 documents there is down at the bottom so
+10:49 here is that mattress and so it uploaded
+10:52 that mattress very quickly because we
+10:54 decimated it so much that it's a small
+10:55 object now it's a real quick upload do I
+10:58 want to use the original UV mapping well
+11:01 that's something I could have done that
+11:02 might have helped in fact let's go back
+11:04 and do that again this is a work in
+11:06 progress I haven't practiced this video
+11:08 You're discovering it with me I'm a
+11:11 30-year rendering vet right so I know a
+11:14 lot of tricks just inherently but
+11:16 there's some things I'm going to miss
+11:17 ahead of time like this so what are we
+11:20 talking about when we say do we want to
+11:21 keep the existing UV map UV map think
+11:24 about it as a 2D image two-dimensional
+11:27 image and that's our texture
+11:29 that's then taken and essentially
+11:31 wrapped across our polygons of the mesh
+11:35 of the object and you get to determine
+11:39 how that's going to wrap and so you
+11:42 could kind of do a blanket thing where
+11:44 we're taking the side of the bed we're
+11:46 taking the top face of the bed and we're
+11:48 flipping it on top of each other so that
+11:50 we apply a texture right on top of that
+11:52 right that would be one kind of UV map
+11:55 there's something that would be called
+11:56 like Bic cubic or or Tri planer mapping
+12:01 um something that's a cubic mapping
+12:03 might be that hey we're going to assume
+12:05 that we've got a texture we're going to
+12:08 apply it to a cube shrink that Cube
+12:10 until it hits the mesh and then just
+12:12 start to wrap it around that mesh that
+12:15 would be a by cubic mapping in real
+12:17 layman's terms okay so I'm going to get
+12:20 into the edit menu in here and I know
+12:24 this part so I guess I'm you know maybe
+12:26 beginner intermediate so I'm going to
+12:28 get into Ed mode or actually there's a
+12:31 UV editing mode and this is showing us
+12:34 our mesh and how it's UV mapped on a
+12:38 two-dimensional image that's buried way
+12:40 down here somehow and this UV map looks
+12:43 like an absolute disaster so whoever
+12:47 modeled this probably didn't model it in
+12:49 SketchUp probably modeled it in some
+12:51 other program and didn't take the time
+12:54 to properly UV map this well guess what
+12:57 we get to re UV map it now I don't know
+13:00 how good mesh's re UV mapping algorithm
+13:04 is I know that blenders is excellent and
+13:08 so something I'm going to do is I'm
+13:10 going to start with smart UV project
+13:13 okay angle limit Etc I'd say leave this
+13:16 at at what it is to start okay and then
+13:20 look what happens it very
+13:23 neatly figures out from a plr
+13:27 perspective with some other little
+13:29 Special Sauce that they have inside how
+13:31 to map this so that it all fits on this
+13:34 is this background is representing one
+13:37 two-dimensional texture and how it
+13:39 applies I'll show you what I mean if I
+13:41 were to put in that two-dimensional
+13:43 texture a rabbit logo down here what's
+13:46 going to happen is all of a sudden the
+13:47 pillow which is what this looks like is
+13:49 going to have my rabbit logo just on one
+13:52 face of it all right to just explain
+13:55 what we're looking at now if we were to
+13:57 re UV map this using a Cube projection
+14:00 which is what I kind of explained before
+14:01 this is just wrapping based on a cube
+14:03 and then layering on top of itself so
+14:06 there's a bunch of different types where
+14:08 we can do project from view Etc I really
+14:12 like this smart UV project this comes up
+14:14 with a great UV map now that we've done
+14:17 that that part's done right we can
+14:19 switch out of edit mode get into object
+14:22 mode and with that selection let me go
+14:24 export
+14:27 again hope I haven't watch it yet let's
+14:30 go I'm going to go downloads selection
+14:32 only up AIS is z West Elm and then this
+14:36 is going to be West Elm
+14:40 mattress I guess there we
+14:43 go and Export that so now it has that
+14:47 original UV mapping I'm going to cancel
+14:50 this or re-upload let's re-upload and
+14:52 now I should be able to find that new UV
+14:56 mapped piece here West Elm mattress bam
+14:59 and look how fast that was cool use
+15:01 original UV yes because it's a fantastic
+15:04 UV and let's hit
+15:06 continue and so what's this going to do
+15:09 I don't know this is this is new to
+15:13 me while that's working oh no there it
+15:16 goes it loaded up and look at that it
+15:18 imported a little twist there so I guess
+15:21 the uh we should have left the axis the
+15:23 way it was you know what I love fixing
+15:25 things we could fix this but um all
+15:28 right all right and
+15:31 then we want to texture this that's what
+15:34 we want to do so this is a let's say a
+15:38 linen we're going say a linen
+15:42 beige
+15:44 blanket with white sheets
+15:49 and do we want like a pattern on the
+15:51 pillow might as well right we might be
+15:54 able to Target a different part of this
+15:56 now keep in mind CU we grouped the
+15:59 pillow with the BL with the with the
+16:01 mattress makes it so it's you can't just
+16:05 individually um paint the pillow it's
+16:08 going to apply texture to this complete
+16:11 object so if you want to be able to
+16:13 independently change the way the pillows
+16:14 look you should keep those as their own
+16:17 objects and not import that with this it
+16:19 should have just been just the mattress
+16:21 and the blanket that's it okay now for
+16:24 the purpose of this I don't care I'm
+16:25 just going to have one object that's
+16:27 going to be it okay so
+16:29 um and what do I want I want a light
+16:32 pattern on the pillows and let's let
+16:36 this figure out what it's going to do
+16:38 I'm going to hit texture and walk away
+16:40 from this and so it's got a progress bar
+16:43 here let me come back to this and we're
+16:45 going to go ahead and UV map this in
+16:48 edit mode so I'll get into edit mode and
+16:51 UV smart UV
+16:53 project in fact before I even do that
+16:55 let's just look on the side look at this
+16:58 this is actually this is how this was
+17:00 mapped to that original texture right so
+17:02 it was already mapped but I want to
+17:06 possibly improve the mapping on this
+17:09 okay and so we'll just let this AI do
+17:13 that maybe it's a good mapping we don't
+17:15 know because we never imported into
+17:17 Chief to even take a look so smart UV
+17:19 project let me press okay cool and then
+17:23 back into an object mode if I want and
+17:27 Export this
+17:30 by the way if you're an expert in
+17:31 blender and you see something I'm doing
+17:32 and it's inefficient please come tell me
+17:36 all right so West Elm bed frame this
+17:41 time and this time we're going to leave
+17:43 that up access as whatever it was before
+17:47 I think y so there we go and limit to
+17:50 selection only cool we just exported
+17:52 that now let's go look at what happened
+17:55 with this bed if it's finished now it's
+17:56 at 90% right now is what's happening so
+17:59 we'll see it in just a minute so the
+18:02 next one is let's upload a new model and
+18:05 let's find that let's find that westelm
+18:08 bed frame cool and use original UV
+18:20 continue all right and from here I'm
+18:23 just going to say this is wooden bed
+18:28 frame
+18:30 with
+18:32 um let's see burnt orange color
+18:39 leather um
+18:41 cushion back a
+18:51 headboard over wood
+18:55 headboard let's be real specific on this
+18:57 so hopefully it figures out what we're
+18:59 trying to do there and then we can
+19:01 texture
+19:02 this all right and we'll let this go and
+19:05 I'm going to pause just for a
+19:08 second and we're back and this is our
+19:11 textured
+19:13 mattress and it's not great it's not
+19:17 great so we might have to retexture it
+19:20 that's looking pretty bad actually look
+19:23 at that what happened there why it
+19:26 really didn't figure out what we wanted
+19:28 here so something you could do is come
+19:30 in here and really do some work on this
+19:32 where um we're using their retexture
+19:35 tool or AI texture editing AI texture
+19:39 editing makes it so that we can use a
+19:40 lasso or a paintbrush and kind of go on
+19:43 a plain R projection and I don't know of
+19:47 any way to stack this but and by Stack
+19:50 this I mean um do one edit and then move
+19:53 on to another edit I'm not sure that
+19:56 there's any way to do this but there we
+19:57 go I've made it selection and I want to
+20:00 say
+20:01 linen duvet cover and
+20:05 retexture and so what it'll do is it'll
+20:08 give me three options of the retexture
+20:10 so we're basically we're spot
+20:12 retexturing obviously the AI generated
+20:15 retexture did not do a great job which
+20:17 is kind of surprising to me sometimes it
+20:19 does a really fantastic job I tried um
+20:22 to do a retexture of a bed before and it
+20:25 has had a challenge on that so um there
+20:28 we go look at that it's even creating a
+20:31 little funny little fold that didn't
+20:33 exist there before but here's the money
+20:35 shot there's the one I really care about
+20:37 that one looks fantastic so I'm going to
+20:39 click on apply to cover there doesn't
+20:42 seem to be any way for me to do a new
+20:44 section so I have to apply it to model
+20:47 and then it's going to build that and
+20:50 then after that I can affect some other
+20:52 part let's go look at the bed frame that
+20:54 just completed look at
+20:56 this this is actually pretty good except
+20:59 for the front face of this that looks
+21:02 pretty ridiculous so how that
+21:05 retexturing works is you want to line
+21:07 this up so that you're to a spot where
+21:11 you can preview this so that you've got
+21:12 the best angle for a selecting and then
+21:15 fixing a particular face so um I don't
+21:19 love the toughed part of this part of
+21:21 what you might need to do and what I've
+21:23 noticed is before using the AI based
+21:25 retexture the AI based retexture is
+21:27 looking at some features that are
+21:29 already there and trying to figure out
+21:31 how to readjust based on that so it's
+21:32 going to see this seam and still put
+21:35 this seam back in that's what I've
+21:37 discovered playing around with this tool
+21:39 so before I do AI texture editing I'm
+21:42 going to go to smart healing first
+21:46 that's going to build this out so that I
+21:48 can use a heel brush which is very
+21:51 similar um to in Photoshop if we look to
+21:55 to the spot healing brush tool it does
+21:59 something very similar so spot healing
+22:01 brush tool basically I can come in here
+22:03 and say hey you know I've got a big I
+22:07 got a big splotch right here let's use
+22:09 the spot healing tool to kind of mend
+22:12 that back as best as it can by using
+22:15 neural networks so we're doing the same
+22:17 thing here is I'm using the spot healing
+22:20 tool and I'm going to use a brush real
+22:21 quick and just kind of spot healing this
+22:25 and this clicking on Smart healing and
+22:28 it's going to try to just kind of blend
+22:30 this into the neighboring pixels there
+22:33 we go from there if I do AI editing it
+22:37 might make up a better um solution for
+22:41 these front face of these cushions let's
+22:44 go check out our bed again so here's our
+22:46 bed we've got that new linen top and
+22:49 this is just going to take a lot of work
+22:50 we're going to have to pick apart this
+22:52 thing individually and get this to look
+22:54 correct right so pretty challenging it's
+22:57 particularly challenging having the
+22:59 wrong axis facing up because that's
+23:02 making it hard for me to pick a spot
+23:04 where I can choose multiple kind of
+23:06 things I need to mend so this might look
+23:09 good right there let's get into that AI
+23:11 texture editing I'm going to use that
+23:12 lassel tool I'm going to kind of pick up
+23:15 this part right
+23:18 here and we get to use this again and
+23:22 kind of put this part right
+23:25 here I like to stay inside the bounds of
+23:29 the plane leaving kind of the Border
+23:32 textures alone so this is going to be
+23:35 again um linen duvet
+23:41 cover now I can click retexture and I'm
+23:44 going to have to sit here and wait
+23:45 whereas I really want to work on that
+23:46 bed frame well guess what you could
+23:48 always just come bring in a new tab go
+23:51 back to your workspace pick up that bed
+23:53 frame and work on this in Tangent right
+23:56 so the back cushions they actually look
+23:59 not too bad I might not do that AI thing
+24:02 um this back face item where there's
+24:04 obviously some wood texture where you
+24:06 know and then a mix of cloth texture
+24:09 where it shouldn't be this needs some
+24:11 fixing should be pretty easy to use that
+24:13 same AI texture editing maybe I'll use
+24:15 the brush and just come in here and this
+24:18 is where it's really helpful if you have
+24:20 a pen display like I do this would be a
+24:22 lot easier to do on the pen display as
+24:25 opposed to using my mouse free form to
+24:27 try to get this so we can change the
+24:30 brush size that's going to kind of help
+24:32 me kind of pick this out but yeah
+24:34 typically I would switch to my pen
+24:37 display for something like this so that
+24:39 I'm properly getting this you know
+24:42 exactly the way I want
+24:47 to this just takes a little bit of work
+24:50 all right so I marked this all up cool
+24:53 let's go wood
+24:55 slots bam hit a little retexture let's
+24:57 go look at our other tab what did it
+24:59 come up with you get to kind of look
+25:01 through these
+25:02 previews there is one that looks ah it's
+25:04 pretty good let's go ahead apply to the
+25:07 model now after this is done we're
+25:10 probably going to pause just so I can go
+25:12 through the import process of bringing
+25:14 this in and then I can even talk about
+25:17 potentially fixing some of these errors
+25:19 in the texture itself within something
+25:22 like Photoshop where we don't have to
+25:24 keep fighting AI if we can kind of
+25:26 Target where that UV map is
+25:29 so while this is retexturing and we're
+25:31 waiting for this to do its thing and
+25:33 actually this looks
+25:35 like right this is on here let's see see
+25:39 what it came up with didn't quite get
+25:41 those wood slots right but maybe we can
+25:43 Target this in Photoshop for this so
+25:46 let's just apply this to the model let's
+25:48 go look at this real quick we've got one
+25:51 more side to do on
+25:55 this so I'm going to go ahead and pause
+25:57 we're going to get to kind of the close
+25:59 to completion part of
+26:01 this so unpausing and kind of hit a
+26:06 roadblock after several retextures and
+26:09 tries it's really not coming out the way
+26:12 that I wanted it to come out I'm going
+26:14 to see what happens when I switch back
+26:16 to blender and I want to just see in
+26:18 edit mode and I want to kind of study
+26:21 this for a second I'm wondering if I
+26:25 can't kind of target areas that I want
+26:28 here and so what I'm going to do is I'm
+26:31 just making a selection in this top down
+26:34 view to understand where it is this
+26:37 mattress is getting its texture from
+26:38 it's right in the center here and then
+26:41 where it is that it's getting this
+26:42 little duvet top piece here is kind of
+26:46 it's kind of this section right here and
+26:49 could we just fake this based on those
+26:52 selections can I just get this du duvet
+26:55 cover fixed by just placing something
+26:58 linen looking in that area of the
+27:01 texture and so how would we even go
+27:03 about doing that so I'm making a
+27:06 selection based on a square I just held
+27:11 my left button here to get to select
+27:14 lasso so that I can really come in here
+27:17 and just lasso select all the linen part
+27:21 of this now keep in mind as well since
+27:23 we're not in wireframe we're not
+27:25 selecting backface the items right so
+27:27 we're not doing um we're not selecting
+27:31 maybe all the geometry here so to fix
+27:34 that now in a wireframe mode I'm
+27:38 selecting all the potential geometry
+27:40 here and we can see that this mattress
+27:43 is covered in multiple different areas
+27:46 if I were to print screen this and take
+27:50 this I'm really just making this up on
+27:52 the Fly By the way let's do a new file
+27:56 we're going to use the clipboard as the
+27:58 file size so that we can paste my
+28:00 screenshot and I'm going to put a new um
+28:05 section on top here and then what I want
+28:08 to do is kind of want to select the
+28:11 parts of this that are that linen so I
+28:14 might use object selection tool maybe
+28:17 just maybe that'll work I I kind of
+28:20 doubt
+28:21 it yeah it's not really doubting it so I
+28:25 need to kind of just mask things off by
+28:27 taking a big brush brush and just
+28:29 covering the areas that I know are going
+28:31 to be this linen part of this texture
+28:34 right so that's all
+28:37 this and not really sure what's
+28:40 happening in between this if you know
+28:42 the sheets are somewhere else in here
+28:45 who knows but I'm just kind of masking
+28:47 these sections off and so what I do next
+28:51 is I don't know it's kind of a wild
+28:53 thought we'll see if it works um I don't
+28:55 have a ton of faith that it's going to
+28:57 work you know for sloppy as I'm going
+28:59 here but you'll kind of see the end
+29:01 result of this in just a minute we're
+29:04 just doing this kind of
+29:06 sloppy right everything else should be
+29:08 that sheet texture essentially unless
+29:11 some of this stuff is kind of wrapped in
+29:12 with that sheet texture so let me do a
+29:16 new section here and I'm going to get
+29:18 into my material store which is where I
+29:21 keep all my materials that's I'm going
+29:24 to look into my upholstery fabric
+29:27 materials
+29:29 and within here I might have some
+29:32 texture that is this cloth some kind of
+29:37 linen looking texture like this and so
+29:40 if I place this in here bam like that
+29:43 and then I copy that layer that I used
+29:46 to draw and I create a mask or actually
+29:50 I could control click the layer that I
+29:53 drew those things into and then create a
+29:57 mask it's going to create a mask based
+29:59 on those selections so now I have that
+30:01 linen texture let's take this a step
+30:03 further let me go back one I'm going to
+30:05 control a to select all I'm going to get
+30:09 into the edit menu which you can't kind
+30:11 of see it's kind of blasted off to the
+30:13 side there unfortunately but there is a
+30:16 Define pattern selection there and so
+30:19 this is going to be linen all right now
+30:22 that I have that pattern I can get into
+30:25 a new layer new fill layer p pattern
+30:29 pattern one's fine and I get to go
+30:31 choose that new linen pattern I created
+30:34 and change the scale of it
+30:36 dynamically okay now notice that Lin's
+30:39 got some like weirdness going on with it
+30:41 it had it wasn't a perfect seamless
+30:42 texture so it's creating some seams
+30:44 there that's not great you know I don't
+30:46 love that but there we go there's going
+30:48 to be my
+30:49 linen and we're just going to convert
+30:52 this to a Smart texture just by um I can
+30:55 contrl g contrl e and now it's it's just
+30:58 a blank texture and I'm going to switch
+31:00 to that spot healing brush tool click
+31:04 shift click and fix that little spot
+31:07 there that's pretty easy
+31:11 now now I could take this control click
+31:16 it take my linen make a
+31:19 mask and so now we've got this mask over
+31:22 the map there and the rest of this is
+31:24 kind of white right let's turn on off
+31:28 all the underlying layers this is going
+31:30 to be my texture for now we'll just try
+31:32 it out see what happens so let me export
+31:35 this texture to something where I know
+31:37 where it's going to be um I'm going to
+31:39 export to the same place that I'm
+31:40 putting the model file let's go export
+31:43 the model file first so I'm going to
+31:46 click on download at the bottom of mesh.
+31:50 a to download this model now I want to
+31:53 make sure that it's an obj file click on
+31:56 download
+31:59 that's going to download it let me open
+32:01 that up it's going to be a zip archive
+32:03 we need to extract it I like to extract
+32:06 it to a place where it's always going to
+32:08 be which in this case is in my models
+32:09 folder under bedrooms and beds there we
+32:13 go and so now that I've extracted that
+32:16 it'd be very easy for me to come back to
+32:18 photoshop find that bedrooms and beds
+32:21 find that West Elm or what do we call
+32:25 this bed with headboard and S where did
+32:28 it call let's see might have to refresh
+32:31 because we started this process
+32:33 beforehand let's do that again let's go
+32:38 export models bedroom
+32:42 bed and what did this extract as I don't
+32:47 know what it was called West mattress
+32:49 there we go and so this is going to be
+32:51 our westelm texture and we'll see how
+32:54 bad this ends up
+32:58 okay now back and chief I did already
+33:01 import the bed frame and look how good
+33:04 this looks this looks really good right
+33:08 so next up let's go ahead and import
+33:10 that mattress so file import import 3D
+33:14 symbol okay we're going to find that
+33:18 westel mattress there's that obj file
+33:22 I'm going to just show Advanced options
+33:24 I'm not going to add it to my library
+33:26 yet okay show Advanced options press
+33:29 okay first thing to note is that this is
+33:32 going to come in not in the dimension
+33:34 drawing unit of inches it's got to come
+33:36 in as meters which is going to try to
+33:39 repport and reimport the texture as well
+33:41 so that sizes this up to an appropriate
+33:44 size you might need to rotate the symbol
+33:47 on an axis 90° about the x axis that
+33:50 might be the case Okay because remember
+33:53 this Bel bed was tilted up and we didn't
+33:55 want it that way so when it imported it
+33:56 was going to be tilted up in Chief and
+33:59 so we were going to have to rotate it
+34:00 about the axis and then regenerate the
+34:03 2D symbol so remember that part as well
+34:06 so now that we have that look at that it
+34:08 is scaled to the appropriate size we can
+34:10 kind of point to point it in place where
+34:12 the bed frame is we'll see what this
+34:15 looks like right now you can see that
+34:16 there's no UV mapping on this the other
+34:19 thing I want you to notice is there are
+34:20 some sharp edges on this mattress right
+34:24 so we could kind of fix this maybe just
+34:26 a little bit by coming into into the 3D
+34:28 geometry section of this and saying hey
+34:31 this whole thing should be rounded we
+34:32 could go as high as 179° where it rounds
+34:36 everything that's less than that degree
+34:38 and it's going to fix a lot of those
+34:39 sharp edges Isn't that cool something I
+34:43 didn't notice about this model is the
+34:44 original model had some space in between
+34:47 the pillow and the mattress and I would
+34:50 have wanted to fix that before I ever
+34:52 imported it into
+34:54 Meshi next part let's go ahead and use
+34:58 the material picker and let's go try the
+35:00 texture I just created and see how close
+35:03 it is I don't have a lot of
+35:06 faith but let's check it out let's see
+35:08 what
+35:11 happens
+35:12 okay it was close it wasn't perfect but
+35:17 it was close we got really close you
+35:20 know obviously that lynon's getting
+35:22 picked up here right but for the most
+35:24 part this did a better job than Meshi
+35:26 did so
+35:28 you know it did okay um could I go back
+35:32 and kind of try to clean this up and
+35:33 really know pick the parts that are
+35:36 going to get away from this pillow Edge
+35:38 right so that this pillow is not
+35:39 selected yeah I probably could I
+35:41 probably could fix this another thing
+35:43 that we could do because we crank the
+35:45 smoothing angle up so high that's making
+35:50 individual vertic excuse me faces become
+35:53 one face and so we could use the delete
+35:57 surface tool to delete these entire
+35:59 pillows cuz they're not contacting
+36:01 anything else and then from the edit
+36:04 toolbar convert these selected to a
+36:06 symbol choose the Furnishings again
+36:08 don't need it to add to the library
+36:11 hover over click on toggle Library
+36:13 replacement mode click on this and look
+36:16 what happens now we just have a mattress
+36:19 with no pillows and we can place our
+36:21 pillows and I might be able to more
+36:24 accurately paint this out
+36:28 pretty cool on top of that we're going
+36:31 to want to paint in a bump map as well
+36:33 and when this finally finishes out we
+36:35 could take this and render this out
+36:37 pretty easily let me just try a few
+36:39 things let's just throw a pillow on
+36:43 here and I'm going to show you just how
+36:46 powerful this particular workflow is
+36:48 we'll throw a couple of these kind of
+36:50 bed pillows on here this one's missing
+36:51 some kind of texture which is kind of
+36:53 funny so maybe I feel like using that uh
+36:56 there we go we've got grouped pillows
+36:58 that are in the Chief Architect library
+36:59 now which is awesome thank Dustin Cruz
+37:01 content Team all those guys over there
+37:04 really cool that they're building this
+37:06 stuff out so that you can utilize this
+37:08 but how neat is that you know be able to
+37:11 just take this kind of Center it up on
+37:12 the
+37:13 bed might need to shrink it a little bit
+37:16 who knows this one's a little bit large
+37:18 and in charge for this particular bed
+37:21 maybe I'll do one that's a little less
+37:24 crazy you probably have one a little
+37:27 less crazy e let's do this one toggle
+37:29 replacement
+37:31 mode yeah something like that looks
+37:33 pretty good um I'm using select next
+37:36 side to select this in 3D and kind of
+37:39 turn bumps off make it real easy for me
+37:42 to just drop this into place where I
+37:45 want it to
+37:50 be maybe ultimate accuracy is not
+37:52 achieved but we're getting pretty close
+37:54 I can shrink this down shrink this back
+37:59 hey that looks not too bad right so you
+38:01 put a nightstand on this you put
+38:03 something on the left and right side
+38:04 stick with me for a minute we're going
+38:06 to show you just how neat this can be is
+38:09 I'm going to do um one of my own potted
+38:11 plants from my library so we'll grab one
+38:14 of the ones that I like or maybe even
+38:16 multiple we can set this one up in
+38:19 here got a little fidd we got a little
+38:26 monstera throw these up and and see what
+38:29 happens when we go to render these out
+38:31 so um I got a couple favorites here
+38:34 maybe
+38:35 I'll here's a big big potted boy it
+38:39 doesn't even want to place so big there
+38:42 we
+38:44 go let's try a
+38:50 monster oh I love that one that one's
+38:53 cool
+38:53 too and sometimes these things are just
+38:56 easier to place so that they're not
+38:59 fighting it here in 3D this one wants to
+39:02 be towards the window so it does
+39:04 something like that and let's select
+39:06 this whole bed assembly let's get it
+39:09 back into kind of place here let's do a
+39:11 little side
+39:15 table right we got a little funny little
+39:18 basket weave side table sure why not
+39:30 and let's say Gara art want a little
+39:34 picture here and you're going to see
+39:36 just how cool this is in just a
+39:45 second is now that I've got this little
+39:47 scene and I got a real rug in here let's
+39:51 throw
+39:52 that really easy to place stuff off to
+39:55 the side and then
+40:03 Center up so you get it underneath
+40:11 right at select next side tool is just a
+40:14 game changer for Designing things in 3D
+40:16 so cool but look at this crazy scene
+40:19 especially this guy that's right in the
+40:21 way let's turn bumps off real quick
+40:27 this is someone that really likes
+40:31 plants wind this out make it a triple
+40:36 casement okay so there's my little shot
+40:38 right there's my cool little shot I'm
+40:40 going to just screenshot this real quick
+40:45 I'm going to take this into Photoshop
+40:46 new from clipboard paste it and what
+40:50 we'll do we're going to use this little
+40:52 tool right here to just kind of fix this
+40:54 bed a little bit let get rid of some of
+40:56 the goofiness of it and now we're going
+40:59 to take this I'm just going to close
+41:03 let's see let's export this real
+41:06 quick I'll export this to my
+41:10 downloads and example
+41:13 bedroom just showing you that you don't
+41:16 always if you're just trying to get a
+41:18 quick R rendering out you don't always
+41:20 need to fix these objects to the full
+41:22 extent is what I'm going to get at here
+41:25 is now that we've got that we can come
+41:27 back to mesan I'm going to move over to
+41:29 an AI based program that will do an
+41:32 enhance which is ca. a which I've shown
+41:35 in a couple videos and we can just add
+41:38 that example bedroom here it's going to
+41:41 upload real
+41:44 quick going to pump up the
+41:48 strength and click on enhance we'll do a
+41:50 couple different versions of this
+42:00 there we go pause I'll be
+42:02 back let's check this out I did one
+42:04 complete job here look at this look at
+42:07 that that's pretty
+42:10 good the great part about this is we
+42:12 just get to download this scene and come
+42:15 back into
+42:16 Photoshop just get into our file
+42:18 explorer whatever that is right and we
+42:23 just get to drag and drop this new
+42:24 enhanced scene on it
+42:27 throw a mask and things like where it
+42:30 messed up and and completely changed my
+42:34 painting which I did not want it to do
+42:37 right this is AI so it's got to kind of
+42:38 do that is that I can just come in here
+42:42 create a quick little mask and get to
+42:45 the underlying spot okay so that's the
+42:50 mask I just get to hit I can actually
+42:54 just hit delete and it should be able to
+42:56 or let's see brush this
+43:01 in Brush this in there's the original
+43:04 painting right I can brush in a couple
+43:07 little Parts we're going to get to that
+43:08 original
+43:09 painting and the last part is that I now
+43:12 have things that are just um a series of
+43:15 actions where it's going to take a
+43:17 particular object let me just delete all
+43:18 these other layers it's going to take
+43:20 this layer and it's going to add on a
+43:21 bunch of different filters so it's going
+43:23 to create a smart object and then it's
+43:25 going to add a filter and it's going to
+43:27 add a couple modifiers so I just get to
+43:30 come in here and this is going to have
+43:31 to be another video and click play and
+43:34 hit continue and it's going to
+43:37 automatically build out all scene where
+43:40 it's putting on some modification here
+43:43 so I get to choose you know which one of
+43:45 these little filters that we want so
+43:47 there's two camera raw filters that have
+43:49 been applied there's
+43:51 one and this one's called a dtune and so
+43:54 this is
+43:55 duning right and so from here this also
+43:59 added a curves adjustment um some color
+44:02 balance and exposure adjustment so it's
+44:04 very quick for me to come in here maybe
+44:07 mess with the gamma correction super
+44:10 easy maybe I want to bring this more
+44:11 into yellow tones blue tones Etc I can
+44:15 make this a warmer scene very
+44:19 quickly add some more green in there get
+44:21 some highlights in there and adjust
+44:24 those curves so it can make shadows a
+44:25 little darker mids a little
+44:27 High take down the highs a little bit
+44:30 any number of things super quick and
+44:33 easy and then the final little bit is I
+44:35 get to click a play button and hopefully
+44:37 if this works correctly it should have
+44:39 just been
+44:41 adding adding on top of this
+44:45 guy my rabbit logo which didn't seem to
+44:47 do anything so there you go maybe I
+44:49 still have to hand place my rabbit logo
+44:52 but pretty neat huh fast easy little
+44:55 quick rendering hey hey if you want to
+44:57 stick around and see me try to fix this
+45:00 mattress too bad I'm going to do that
+45:04 off camera I hope you L this one leave
+45:07 me some comments let me know what
+45:08 questions you have probably have a lot I
+45:10 moved pretty quick towards the end
+45:20 [Music]

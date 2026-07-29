@@ -1,0 +1,743 @@
+Title: Rich Text In Schedules Tutorial For Font Remapping For Chief Architect X17
+URL: https://www.youtube.com/watch?v=fP_ojhfZ3fw
+Visibility: members-only
+
+0:01 What's going on, VIP? I've got a gang of
+0:03 videos coming your way, and this is uh
+0:05 the first one in the list, and this is
+0:08 kind of a funny one. Um, for those of
+0:11 you that have my templates, you might
+0:13 have noticed that there's there's all
+0:15 this fuss about fonts. And so what this
+0:18 video is going to do is explain to you
+0:20 how I make a custom font, why I make a
+0:22 custom font, what's the what's even the
+0:24 point of doing something like that, how
+0:27 easy it is to do with a very free
+0:29 software, and what we get out of it. Um,
+0:32 so the main reason we do it is because
+0:35 uh often times I just want a more
+0:38 professional looking set of drop
+0:40 documents, right? And so we don't
+0:42 natively have rich text in Chief
+0:45 Architect in some parts of the software
+0:48 such as the room label. So you cannot do
+0:51 this effect right here without creating
+0:54 a custom font. How do we even do it with
+0:57 a custom font? What's the point here?
+0:59 Well, the best way I can describe it is
+1:02 we have some information coming from
+1:03 Chief Architect as let's just call it an
+1:06 input. Okay, the inputs coming in. Let's
+1:09 just do let me see if I could do a
+1:10 webcam only. There we go. The input's
+1:13 coming in. And so then we're doing
+1:15 something with that information and
+1:17 we've got an output. Now what if we took
+1:21 that input and when we're going to an
+1:25 output, the output are driven by text
+1:28 styles. Meaning that layer dependent and
+1:32 layer set dependent, we can change a
+1:34 text style. And a text style could be
+1:37 any font that you want, right? Well,
+1:39 what if we took an input that came in
+1:42 and then we sent it to a different part
+1:45 of a font. Okay? Meaning that we took a
+1:48 macro and we said, "Hey, there's a
+1:51 number one coming in. We want the output
+1:53 to be in a different language within an
+1:55 existing font family." Why would we do
+1:58 that? Well, if you made a custom font
+2:01 where you took over a different part of
+2:04 the font in its family for a specific
+2:07 language within a single font, that
+2:09 means we could put whatever characters
+2:11 we want. So, what if you put characters
+2:14 in there that were of a different
+2:16 kerning, of a different boldness,
+2:19 different size? Now, what we've done is
+2:22 we've remapped to a different size. And
+2:25 so we've got input, there's a remap,
+2:28 there's a module basically that we get
+2:29 to plug anything we want to change where
+2:32 it is in the font family and then
+2:34 output. And what we get is something
+2:37 that looks like rich text. Okay. And so
+2:40 now we're back to looking at this room
+2:42 label. Here's another example. We do not
+2:45 get rich text in a schedule, but look
+2:47 how nice and clean this can look, you
+2:50 know, in a schedule. And this really
+2:52 differentiates your particular
+2:55 >> [clears throat]
+2:55 >> um set of documents from another chief
+2:58 architect's set of documents where we
+3:00 don't get this rich text. In order to do
+3:02 this, someone would have to basically
+3:04 recreate the outputs from a schedule.
+3:06 Well, this is automatic. I just place
+3:08 this window and bam, I have this very
+3:10 nice looking rich text coming from this
+3:12 as an output. So, this would be the
+3:15 reason to do this. And so, how do we
+3:17 accomplish this task? What if Rabbit
+3:20 Design, you have my templates and I'm
+3:22 not providing you with the your favorite
+3:24 font? Well, you could put it in
+3:26 suggestions within my Discord server or
+3:28 my Facebook group and and I'll get to it
+3:31 eventually. Or you could do it yourself
+3:33 or you might have some other reason you
+3:36 would like to know this information if
+3:39 for nothing else just to know this
+3:42 information. And isn't it kind of
+3:44 fascinating? Maybe, maybe not. There's a
+3:47 software out there called Font Forge and
+3:49 it's um it's a free software. It's open
+3:52 I don't know if it's open source but
+3:54 it's being developed by a group of
+3:55 people and they offer it for free. So
+3:57 you can go download font forge and so
+4:00 what am I having to do? I need to take
+4:02 the chief blueprint font and there's a
+4:06 problem with that because I don't
+4:08 actually know how to get the Chief
+4:09 Blueprint font because we we don't have
+4:11 any export options. So, I'm going to try
+4:14 to figure that out on the fly right now,
+4:16 which always makes things a little bit
+4:18 spicy when you know that I'm just this
+4:20 is not being edited. This is just me
+4:22 messing around. So, let me see if I can
+4:25 look in my system fonts. And there we
+4:28 go. There is the Chief Blueprint font.
+4:30 And all I can do is uninstall.
+4:34 And that's as far as I can see. There's
+4:37 doesn't seem to be any export. So, we're
+4:41 going to go to my favorite little chat
+4:44 GBT. Why not? And is there a way to
+4:48 access a font that is in my system?
+4:55 And I believe there's a temp directory
+4:57 or something, you know, that you can
+4:59 find somewhere. So, um,
+5:03 Windows fonts, that's what we're looking
+5:04 for. So, I'm going to open up Font
+5:07 Forge. I've got a a newer version of
+5:10 this. I'm hoping that's what I'm
+5:11 clicking on right here. And I'm going to
+5:15 skip this for now. And so what Chat GPT
+5:19 was telling me was I should be able to
+5:20 get to my C drive. And this is on a
+5:23 Windows machine. This is going to be
+5:24 different for you if you're on a Mac,
+5:26 right? And Font Forge is not necessarily
+5:28 available for a Mac. I'm not sure, but
+5:30 there's some other font editors you
+5:31 could get to. And let me open up
+5:36 Windows.
+5:38 And it seems that there is in fact
+5:40 fonts. And look at this. It looks like
+5:43 there's Chief Blueprint. And we might
+5:46 even open up Chief Blueprint bold cuz
+5:49 that will get us something as well. And
+5:53 I think I can copy across fonts. So if I
+5:57 were to go, let me get this on the
+5:59 screen there so you can see it. Um, let
+6:02 me see if I can open that that second
+6:04 one there.
+6:08 This is clever to know this. Um, I like
+6:10 this. So, fonts
+6:14 and let's get that achieve blueprint
+6:17 bold.
+6:19 Open that as well. Yeah, I do get a
+6:20 second window here. So, why would I want
+6:22 to do this? I'm going to show you real
+6:24 quick. This is actually a pretty quick
+6:26 process. I imagine we're only going to
+6:28 take about 15 more minutes tops to show
+6:30 you this. So, every font starts with the
+6:34 exclamation character. Now, when I click
+6:36 on this and this is font forged and this
+6:38 might look overwhelming, but it's pretty
+6:40 simple. If you just sit with this
+6:42 software for maybe about 20 minutes,
+6:43 you'll just start to see it for what it
+6:46 is and that it's not as overwhelming as
+6:48 you might think. So, this is character
+6:50 number 33. And these are all um coding
+6:54 for what this character means. Okay. And
+6:59 I'm going to open up one more font just
+7:01 to remind myself how I've remapped this
+7:03 in the past. Um, and that is going to be
+7:07 in my favorites here. And maybe many of
+7:11 you know that there is a Rabs custom
+7:13 font. And so what I'm going to do with
+7:16 this is I'm going to go to a particular
+7:19 character and I know it's in the 7600
+7:21 block. So this is, you know, when we
+7:24 look at this character number, it's
+7:26 7601. Okay. So what happened when I was
+7:30 developing this system where we are
+7:32 taking a font we are remapping some
+7:35 input to an output that's a different
+7:37 part of the font family I originally
+7:39 mapped this to this section of the
+7:42 characters of this font and what I mean
+7:44 by section is the actual original
+7:47 character was were these little glyphs
+7:49 here which is just some part of another
+7:52 language okay I don't even know what
+7:55 language this is someone has told me
+7:56 this before someone in Australia figured
+7:58 figure this out. But um what was
+8:01 happening with this is you notice the
+8:03 size of these characters are very small.
+8:05 Meaning that the kerning the overall
+8:07 width of these characters was very
+8:09 small. And so what was happening is
+8:10 because we're remapping to an output, it
+8:12 was taking the kerning and size of the
+8:15 old character or the new character. And
+8:18 so my stuff was not aligning and it was
+8:20 getting glitched up and it didn't look
+8:22 as good as it should. Okay. So then I
+8:24 figured out that there was a more
+8:26 reliable section of the font. And so
+8:28 we're going to have to just look for
+8:30 this exclamation mark and we're going to
+8:32 see where I started, which is right
+8:34 here, which is 7693
+8:37 is all I needed to know. All right, 7693
+8:42 is where I'm going to copy paste this
+8:46 font as a smaller font. All right. So,
+8:50 I'm going to hit that exclamation mark,
+8:52 hold shift key. Okay. Hold shift, copy
+8:57 through until I get to the tild and hit
+8:59 copy. And then go view. Go to 76
+9:04 93.
+9:06 Get that right. If I can type. There we
+9:08 go. And just hit paste. Simple as that.
+9:12 Now, when I go past the tilt, I'm going
+9:14 to paste this again. Um,
+9:18 and
+9:20 that's all I needed to do as well. Now,
+9:22 I'll hit that tild shift over all the
+9:26 way back to that exclamation mark. And
+9:28 what I'm going to do with this is I'm
+9:29 going to shrink this. So, I'm going to
+9:31 go rightclick, transform. I'm going to
+9:34 change this from move to scale. I'm
+9:37 going to uncheck transform width two.
+9:41 Um, I'm also going to uncheck everything
+9:43 that's here. And I'm going to change the
+9:44 scale of this down to maybe about 70%.
+9:48 In the X and the Y and press okay. And
+9:51 that's what it did. It shrunk that font
+9:53 down. Cool. That's exactly what I wanted
+9:56 to do. Now, the next part of this is
+10:01 coming all the way forward and we want
+10:03 to paste from, you probably guessed it,
+10:07 the chief bold. In fact, I'm going to
+10:09 just shiftclick all the way through all
+10:12 these characters up until that 3/4
+10:15 cliff. And let me just copy. Actually, I
+10:18 missed some here. There's that
+10:20 exclamation mark
+10:23 all the way to 3/4. Copy. Let's switch.
+10:27 Go here. Paste. Bam. It's exactly what I
+10:32 needed to do. Cool. Now the last part of
+10:35 this is figuring out where the
+10:37 superscript characters are because we
+10:39 want full height superscript. And how do
+10:41 we accomplish that? This is the last
+10:43 part of this. This character right here
+10:45 is actually the degree character. That
+10:47 is not the zero. Even though you might
+10:49 think that it's the zero, it's not. I'm
+10:52 going to take the two and three
+10:53 characters here, copy them. I'm going to
+10:55 paste them here. And then I'm going to
+10:58 transform.
+11:00 And the transform is that I'm going to
+11:02 move only in the Y about 500, what's
+11:06 called em. And that's going to push this
+11:09 up pretty pretty far actually. Let's go
+11:12 switch this back to like maybe at 300 or
+11:15 something. Switch this to 300.
+11:19 Yeah, that jumped that enough. Maybe
+11:22 we'll go 350.
+11:24 Okay, I want to undo because these
+11:27 effects stack. So, you want to go back
+11:29 to that base level so that you get
+11:31 something established first, right? So,
+11:33 350.
+11:36 Let's press okay. Bam. There we go. This
+11:39 is going to mess up the half mark. Now,
+11:41 I don't use these, so I'm not worried
+11:43 about them right now until someone
+11:44 complains it. And what I'm talking about
+11:45 here is that this kind of messed up this
+11:48 half and 3/4 setup here. Okay, that's
+11:50 because it was tied into this
+11:52 superscript. The next part of this is I
+11:55 get to just find the zero
+11:58 Find the one. Find the two. Find the
+12:00 three. I believe the one is right here.
+12:06 So, same thing. We're just going to copy
+12:08 this. Paste it over here. Transform. We
+12:12 just get to hit enter. That did its
+12:14 thing. And then take the 4 5 6 7 8 9.
+12:18 Copy that. And I believe you have to get
+12:21 into the 8000s block to get this
+12:23 superscript. Yep. Here it is.
+12:27 Oh, no. That's not it. Where is it? It's
+12:29 right here. Bam. And let's paste.
+12:33 Transform.
+12:35 Hit enter. All right. Let's go back to
+12:39 zero
+12:41 where we can find our zero. There we go.
+12:45 And let's go forward back to that 8,000
+12:48 block.
+12:49 And finally, paste this here.
+12:53 And transform. Boom. Now, I think this
+12:57 is pretty much done. Let's go into
+13:01 um font info.
+13:04 You can see this is chief blueprint
+13:06 regular. We're going to change this to
+13:08 custom
+13:10 and custom.
+13:15 Let's take this to custom as well.
+13:21 Is custom.
+13:23 I'm going to change this to a version
+13:24 one
+13:28 and one and then OST just needs to be
+13:32 something greater than two if we're
+13:35 going to save it in my preferred method.
+13:37 All right, property right and we'll even
+13:40 put a note edited by rabbit design
+13:46 and this is 2025. Now, you know, they
+13:49 could give me hell for this if I was
+13:51 trying to distribute this and make money
+13:52 off it. I'm not, you know. So, there we
+13:54 go. Let me press okay.
+13:57 And this is going to prompt me. Font
+13:59 forge is really good about this that it
+14:00 needs a unique XU ID because otherwise
+14:02 it would just be recognized still as
+14:05 Chief Architects core font. All right.
+14:08 And then from here, we're going to go to
+14:10 um file, generate fonts.
+14:14 It's picked up the proper name here. I'm
+14:17 going to use open type fontf.
+14:20 I'm going to save this in my fonts
+14:21 folder. Hit to hit generate. And let me
+14:25 switch back to Chief Architect. I need
+14:26 to shut Chief Architect down because it
+14:28 will not recognize a new font until
+14:32 you've installed it. All right. So, I'm
+14:34 going to get to my fonts.
+14:36 Here's Chief Chief Blueprint Custom.
+14:42 There we go. It's been installed. Now
+14:44 let's open up Chief Architect. Let's
+14:46 test in my existing system if this
+14:49 already works. Um I will show you a kind
+14:53 of a rudimentary way of building a
+14:55 module to make this happen. Um because
+14:59 you might not have my templates and you
+15:01 might want to take use of this, right?
+15:03 So I'll show you how to do that as at
+15:06 the tail end of this video here.
+15:09 But it's easy because for me because
+15:12 I've already got this and easy for me to
+15:14 just plug this font in and see what
+15:16 happens. So here we go. Going to build
+15:18 out a wall. Going to build out a window.
+15:22 Bam.
+15:23 Open this window. And Chief makes this
+15:26 very easy. Starting in like I don't
+15:28 know, I want to call it X15 or
+15:30 something. They introduced replace
+15:31 fonts. I get to just come in here to the
+15:34 dropdown, type in Chief, go down one.
+15:37 There's chief custom replaces rab's
+15:39 custom. Um, this is happening because it
+15:42 wasn't seeing, you know, a room label,
+15:44 but there it is. Full height superscript
+15:47 bold headings semibold.
+15:52 Just looks so cool. It looks so
+15:54 professional. I just love the way that
+15:56 looks. There we go. There's that full
+15:58 height superscript. Let's go ahead and
+15:59 check out the room label. Make sure that
+16:01 that's looking correct. There's some
+16:03 kerning and alignment things happening
+16:06 here. And so that takes some new fixes.
+16:09 We basically have to go into the font
+16:11 again for that one section where we made
+16:13 it the small font and try to align
+16:15 things on the bottom height of that. Um,
+16:20 and so that's that's a little bit more
+16:22 challenging. I know I have to look up
+16:24 some info to figure that out in font
+16:26 forge. And then the kerning we need to
+16:28 just auto adjust every character's width
+16:30 because it's not quite being recognized.
+16:33 I mean, this looks okay. It just looks a
+16:34 little bit cartoony because it's not
+16:36 aligned. You can see we draw a straight
+16:37 line through here. And so we've got some
+16:39 characters that are just not quite
+16:41 aligned. Bottom end here. That had
+16:43 something to do with doing the scale. So
+16:45 you have to shut down Chief, go fix that
+16:48 font, come back into it. Now before we
+16:50 do that, let's get into just some chat
+16:52 GBT action here. And what I'm going to
+16:55 do is I'm going to say that um let's
+16:58 take some notes out of the font itself.
+17:00 So, we know that
+17:04 we've got a font map here that's
+17:06 typically starts at character number 33,
+17:09 right? So, we're going to say that
+17:12 I need a Ruby macro that will work as a
+17:18 standalone
+17:21 module using maybe a lambda
+17:27 so that we can apply
+17:33 a remap
+17:35 in a font from Unicode. code.
+17:42 We say it was
+17:44 33
+17:47 2
+17:49 code and then the other one was let's
+17:52 see here
+17:54 7600 block. This is we're going to give
+17:57 an example of how we would remap to the
+17:59 first section here which was this
+18:01 smaller font family. And before we even
+18:03 do that, let's see if we can't fix that
+18:05 little issue while we go. So I'm going
+18:07 to copy this. I'm going to paste it in
+18:09 again.
+18:11 Okay. And this is where we're going to
+18:13 rescale this
+18:15 transform.
+18:17 Um,
+18:19 let's go before the origin was the
+18:22 center of the selection. Instead, we're
+18:25 going to go glyph origin and do um
+18:32 scale uniformly. I'm not Oh, scale
+18:34 uniformly just means XY. Sure. 70%.
+18:41 Still want to uncheck this until we
+18:43 prove that this may not screw anything
+18:46 else up. And do we want to transform the
+18:49 width, too? I think we actually do.
+18:57 I think we do.
+19:05 might even want to transform currenting
+19:07 classes. Let's try it. See what happens.
+19:11 All right. And then we need to export
+19:13 this again. We're going to generate
+19:16 fonts. It's going to ask prompt us to
+19:18 overwrite something. And the save failed
+19:21 because I currently had this open.
+19:23 Right. So now we'll try it again.
+19:26 Replace. Bam. Now we should be able to
+19:29 go back to that. Double click it.
+19:32 Install it. It's going to say, "Hey, you
+19:34 already have this installed." Yes, we're
+19:35 trying to reinstall it. Okay.
+19:40 Um, Chief needs to be shut down.
+19:44 Sweet. That part's done. Let's see what
+19:47 Chat GPT is doing.
+19:50 Oh, and I didn't uh
+19:53 I forgot [laughter] I forgot to to
+19:55 finish typing here. Oops. Let's see.
+19:59 What do we have? It was
+20:03 started. This is 7693. Okay. So, 27693.
+20:10 We'll see what chat GPT does with this.
+20:12 Um, it could make some mistakes.
+20:15 You know, a lot of people think that I'm
+20:17 really good at writing macros. I'm
+20:19 really good at producing macros. I can
+20:22 produce a heck of a macro. I am not good
+20:26 at writing. I can I can troubleshoot a
+20:28 macro. I'm not good at [clears throat]
+20:30 writing them. I need AI to do this. So,
+20:33 if you think that you needed to learn
+20:35 macros, I have a very unique set of
+20:39 information in regards to macros. I know
+20:41 what I'm looking at and I know the
+20:43 hiccups and and walls that we've run
+20:45 into with Chief Architect, and that's
+20:47 from years of looking at other people
+20:48 posting about macros. Um, when it came
+20:51 to just scripting something like this,
+20:53 just off the cuff like this, there is no
+20:56 way there's no way I could do this. Um,
+21:01 so what this is saying is, so it's got
+21:03 our script. This would be put into um
+21:06 text macro management and then it's
+21:08 saying remap a field string inline text.
+21:10 So, we get to just call upon a global
+21:17 and then some text field. Really, we
+21:20 want to be able to use this with a
+21:22 variable. And so, we'll see if this
+21:24 works. So, I'm going to copy this code.
+21:26 And what we're going to do is first of
+21:28 all, we're going to test that my font
+21:31 works the way we wanted to. And then
+21:33 we'll test with like one of Chief
+21:35 Architect's default residential plans.
+21:37 Maybe, maybe not. Let's see.
+21:47 You get to take a break while Chief
+21:49 takes way too long to open up.
+21:58 Okay, we're in. We're in it. Let's see.
+22:05 Let's draw some walls. Let's see what
+22:08 happens with this font. Fix some things
+22:11 or not. Let's open this up. Call it
+22:13 living room
+22:15 and replace that font.
+22:26 We fix anything. We fixed everything.
+22:28 That was the That was it. In fact, I'm
+22:30 going to go back and fix my font because
+22:32 that looks fantastic. That looks
+22:35 fantastic. In fact, I'm going to go
+22:37 re-watch this video to see exactly what
+22:39 I checked because that's what I wanted
+22:42 it to look like. And I can't tell you
+22:44 how much work I did on my custom font to
+22:46 try to get everything lined up and it
+22:48 still wasn't perfect. So, um, really
+22:50 happy with that output. This just looks
+22:53 really, really good. The person that
+22:55 requested that I do this, by the way,
+22:57 this is Dan Bowman's original font that
+22:59 got purchased by Chief Architect in
+23:00 2008. Dan Bowman is the one that created
+23:03 this font, believe it or not, from Chief
+23:05 Experts. And you've maybe seen him um me
+23:08 and him on a show with our other
+23:10 experts, John Schrader, Robin Fischer,
+23:12 Kevin Transu. Um if you don't know about
+23:15 that show, you should know about that
+23:16 show. It's a cool show. We do it uh
+23:18 second and third Friday or second fourth
+23:20 Friday of the month or something. Every
+23:22 other Friday, I don't know. Uh but man,
+23:26 that looks cool. Okay, so now let's do
+23:29 that next thing. Let's get into text
+23:31 macro management. How do we get into it?
+23:32 It's in the CAD menu under text and then
+23:34 text macro management. You're going to
+23:36 see it right
+23:38 see add text macro management right
+23:42 there. That brings up this console. You
+23:44 will not see all these guys. These are
+23:46 part of my template. But what we're
+23:48 going to do here is create a new macro.
+23:51 Let's come back to here. Copy the code.
+23:56 See what happens when we paste it. Let's
+23:58 call it font remap.
+24:01 Okay. Um, we want to check evaluate.
+24:08 The context should be none.
+24:16 Context should be none.
+24:18 I don't necessarily know if I care if
+24:21 this puts out an error or not. It's
+24:25 going to be putting out an error no
+24:26 matter what. Um because as long as this
+24:28 a is a functiony thing.
+24:32 See what happens. We just need font
+24:34 remap some text. Okay.
+24:39 Um
+24:41 see
+24:45 see let's see let's see.
+24:49 So if I have just regular text
+24:53 and we're doing the font. Oops.
+24:57 font.
+25:01 So, we need um the way macros work, we
+25:03 need an open and closing percentage sign
+25:08 and then I believe some text
+25:12 the way we wanted to do this. What was
+25:17 some text field?
+25:21 Don't think this is understanding
+25:23 exactly how that works, but let's give
+25:25 it a shot.
+25:36 Chat GPT always misunderstands how these
+25:39 opening closing percentage fields work.
+25:42 So, that's not working,
+25:45 right? Let's get it to work. Why not?
+25:49 Um, let's see. So, oftentimes what you
+25:52 can do here to kind of figure some stuff
+25:55 out is you can come in here and copy the
+26:00 evaluation error, right?
+26:03 I Let's just make sure that this Yeah.
+26:07 Okay.
+26:10 Eval error.
+26:14 And then also, and this is some of my
+26:17 knowledge,
+26:19 I'm going to say,
+26:22 please keep in mind that percentage
+26:25 signs just indicate an opening a um that
+26:29 we're going to execute some script in
+26:31 between those opening and closing
+26:33 percentage signs. So, your example how
+26:38 to use is not correct. it would be
+26:43 applied to a variable in this case. And
+26:46 so the syntax should be closer to
+26:50 and so here would be the syntaxes.
+26:52 Opening percentage sign our global
+26:55 that's calling to some lambda, right?
+26:58 Font remap lambda. I'm going to have you
+27:01 go look that up because I would have to
+27:03 look it up to be able to explain it to
+27:05 you. Um and then
+27:08 this bracket and then width
+27:15 closing percent sign where width
+27:19 where width
+27:21 is an NVP. What do we know? NVP stands
+27:25 for
+27:27 name value pair.
+27:29 And let's see what JBT
+27:31 does with that information.
+27:35 See it. Let's see it. Give me, give me,
+27:37 give me,
+27:42 give me, give me.
+27:44 In the meantime, while that's doing
+27:45 that, I have to do another font. It's
+27:47 going to be really easy now that we have
+27:49 the solution
+27:52 that errors from an endless range, which
+27:55 Chief's Ruby doesn't support. That's
+27:57 incorrect. So, this is where this
+28:00 obscure knowledge comes in. Um,
+28:04 and I would say,
+28:06 how do we learn? How do we learn when we
+28:08 don't have access to this resource? I
+28:11 would say, you know, go post in my
+28:12 rabbit design feed in on Facebook. Go
+28:15 post in the Discord server. Try out some
+28:19 things. And when you get an error like
+28:21 this, don't trust it because this is not
+28:23 true. Chief Architect absolutely
+28:27 will accept an endless range. Okay.
+28:37 wrong spelling accept.
+28:47 And I'm just going to give it an FYI,
+28:49 but we'll try this uh code anyways.
+28:53 Try this code.
+28:57 And bam.
+29:00 That does in fact create a procedure
+29:03 that's a lambda and the use should still
+29:06 be
+29:08 that font remap is there. So
+29:13 look at that.
+29:16 Look at that.
+29:18 Um so let's do this. Let's plug this
+29:21 into here
+29:24 or here. Let's change this. So what
+29:28 we're going to do is we're going to take
+29:29 this
+29:31 on remap blah blah blah. We're going to
+29:34 open this. We're going to put this in
+29:36 the label the tail end of this and to
+29:40 see if this is in fact
+29:43 it's doing what we wanted it to do.
+29:48 So, no, that is not remapping.
+29:54 not remapping to the different part of
+29:56 the font because it's still bold and it
+29:58 should not Yeah.
+30:24 All right. So, all I said was, "Hey,
+30:26 this works." but it did not remap. It
+30:28 executed, did not remap, didn't go to
+30:30 the other, you know, characters of this
+30:32 font package. So, even though we created
+30:36 a lambda, we were able to apply that,
+30:38 um, it didn't do what we expected it to
+30:41 do. Um, but at the tail end of this, I'm
+30:44 just going to put this this particular
+30:46 code in the description of this YouTube
+30:49 video so that you can go try it out,
+30:54 see what it does. Let's see. lander in
+30:56 but nothing changed because your input
+30:58 string didn't contain any code points
+30:59 that your map places.
+31:05 Oh, it's just completely
+31:07 misunderstanding something.
+31:16 It's Yeah, it's being dumb. It was being
+31:18 really dumb. It's not being
+31:19 interpretive. What I was saying is um
+31:22 look the
+31:26 alpha numeric
+31:30 English part of the font that starts at
+31:35 33
+31:37 with the exclamation
+31:40 mark and continues
+31:44 all the way to the till is remapped two
+31:50 769
+31:52 three
+31:54 or equivalent
+31:57 characters.
+31:58 You are remapping a range, not a single
+32:03 character.
+32:05 You dumb dumb. Maybe I wasn't clear the
+32:07 first time around. So, got to be super
+32:10 super clear. AI is a guessing game. You
+32:13 ever wonder why wouldn't it be nice if I
+32:16 was just brilliant and can script
+32:18 everything I wanted to script off the
+32:20 top of the dome uh with clarity and you
+32:24 know the the best method for creating a
+32:27 system right off the top of my head.
+32:29 Boy, would that have saved thousands of
+32:32 hours.
+32:33 But instead, I spent thousands of hours
+32:36 to figure out systems uh that were going
+32:38 to be the best systems. And even when we
+32:40 finally get to an end build, and I've
+32:42 said this in other videos before, is you
+32:45 finally got something that functions,
+32:46 works well, then you do should then you
+32:50 should go back and say, "Hey, given the
+32:53 end goal of this complete system,
+32:57 would you script this differently? Is
+32:59 there some way of making this
+33:01 implemented in a way that's more
+33:03 conducive to better um faster output? um
+33:07 you know more modularity something like
+33:11 that you know where we can create
+33:13 modules that we're plugging in a similar
+33:16 if we're using this function over and
+33:17 over again can't we just create a module
+33:19 where we're just taking an output to
+33:21 that module getting that output using it
+33:24 again and that creates generally
+33:27 speaking a more manageable system a
+33:28 faster system more lightweight system
+33:31 even though we're creating more macros
+33:34 which is why I have a long macro list
+33:36 Um,
+33:38 some of you may know that have p
+33:40 purchased my templates, been in my
+33:41 templates a long time. There's been so
+33:43 many updates in X17 cuz we're pumping in
+33:46 so many more features because this AI
+33:48 stuff's getting better.
+33:50 Well, turns out over time I found that
+33:53 there were some bottlenecks in my
+33:55 systems and go clear those up and
+33:57 suddenly get, you know, a large number
+34:00 of milliseconds back on every click and
+34:02 having that out of the box experience
+34:05 with elevated function in Chief
+34:07 Architect is just awesome. Um, okay,
+34:10 enough of me talking. Let's just copy
+34:13 this code and see what we can do with
+34:14 it. Get back to Chief. Get back in a
+34:17 text macro management. Get back to that
+34:20 remap.
+34:22 Want remap.
+34:24 And bam. Bam. That does produce a
+34:28 procedure. We see that. And look at
+34:30 that. That remap worked. So, we're going
+34:32 to see this in the description of this
+34:34 video. I'm done. We're out of here.
+34:37 Thank you for watching. Leave some
+34:39 comments.

@@ -1,0 +1,33 @@
+Title: Twinmotion Shorts - Relocate Items in a Congested Folder Fast
+URL: https://www.youtube.com/watch?v=Vu3FPPbNN2g
+Visibility: public
+
+0:04 I have a set of recessed lights that
+0:04 come with the import of this building
+0:06 from a separate software and I want to
+0:10 organize those lights in a folder
+0:12 outside
+0:12 of the scene graph item for that
+0:16 particular import
+0:16 the name of these lights are recessed so
+0:21 I could type in recess to see these
+0:21 lights in the scene graph but instead
+0:23 I'm going to create a new sub container
+0:27 so I'm going to right click on my scene
+0:30 graph create subcontainer I'm going to
+0:32 name it the same name
+0:32 as the model import that I'm trying to
+0:38 organize outside of
+0:38 my main model import so I've created a
+0:43 container called recessed lights that
+0:43 way when I type in recessed we're going
+0:48 to see all my lights here I can scroll
+0:51 down shift select select all of these
+0:54 click and drag drag them into my new
+0:54 recessed lights folder and then if we
+0:57 collapse the hierarchy if we scroll back
+1:01 up to the top
+1:01 actually we need to close down our
+1:03 search you can see here those recessed
+1:07 lights were pulled out of the main
+1:07 folder and brought into my new recessed

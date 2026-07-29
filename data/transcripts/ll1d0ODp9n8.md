@@ -1,0 +1,359 @@
+---
+videoId: ll1d0ODp9n8
+title: Aligning Elevations In Layout in Chief Architect X15
+url: "https://www.youtube.com/watch?v=ll1d0ODp9n8"
+status: imported
+---
+
+# Transcript
+
+0:00 what's going on VIP uh I'm just going to
+0:02 show you some quick tips and tricks for
+0:05 aligning views in layout I've got a
+0:08 kitchen here um this is a kitchen that I
+0:10 did not build for any kind of
+0:12 construction documents but I'll still
+0:13 show you how we can kind of arrange
+0:16 these on the page get these lined up
+0:17 looking nice so I'm going to get into my
+0:20 layout just so we can see I've got a
+0:22 blank layout page here and then I don't
+0:24 even need to be in plan view there's a
+0:27 number of different ways we can send
+0:28 views to layout we could get into the
+0:31 project browser and then find our save
+0:35 section views now if you have the Pro
+0:36 Plan you have kitchen elevation Plan
+0:38 East North Southwest so you can shift
+0:42 select all these and then rightclick
+0:44 send to layout and here is where we can
+0:46 specify I like to use plot lines color
+0:49 fill and I'm typically sending kitchens
+0:52 at a/ inch
+0:54 scale so that's going to take a second
+0:58 I'll pause
+1:00 and then it gives me this is going to
+1:02 give me me this option for every page
+1:05 now that's something to keep in mind is
+1:07 this faster maybe it's not right and
+1:10 I'll show you a different method for
+1:11 this but it's going to prompt so it's
+1:13 going to load up it's going to generate
+1:14 its plot lines and then it's going to
+1:16 prompt me again for the next page so I'm
+1:18 not sure that this is all that much
+1:21 faster so here's kind of the alternative
+1:24 let's get our plan view in here and I
+1:27 want to take care of a couple things
+1:29 here here first of all I want to send
+1:32 this particular plan view this one right
+1:34 here because I already have Dimensions
+1:36 top and bottom and when I'm doing
+1:38 Dimensions top and bottom I'm very
+1:40 specifically pulling a manual Dimension
+1:42 string through here getting this
+1:43 dimensioned exactly the way I want to
+1:46 I'll just show you this for an example
+1:48 let's just let's get rid of these lower
+1:51 Dimension strings I'm going to get my
+1:53 dimensioning tool manual Dimension tool
+1:55 draw it right through if you have the
+1:56 Pro Plan this is going to pick up um if
+1:59 you keep it real tight to these cabinets
+2:01 it'll it'll pick up everything you need
+2:03 to pick up I'm going to draw this out
+2:04 I'm going to tab input 16 in or 18 in
+2:09 offset I like 18 in offset okay so
+2:12 that's very specifically getting my
+2:15 Dimension string exactly where I want it
+2:17 and it might be that I want to locate my
+2:19 range or locate the refrigerator as well
+2:22 you could of course come in here and
+2:24 kind of pull the end to end Dimension
+2:27 string and do it that way we can go
+2:29 maybe end to end to the edge of that
+2:31 wall there and then snap it to this
+2:34 other line drag it down tab input 12 in
+2:37 I like that 12in offset we can bring
+2:39 this to the center line of the r range
+2:41 and as we have that number two selected
+2:44 this segment selected in our edit
+2:47 toolbar we can see here Mark as Center
+2:49 Line so that marks that as center line
+2:52 now it might be that I want this in
+2:53 front of that 30 in because it might be
+2:55 a little bit confusing right so I might
+2:57 bring this down to that 12 in and then
+3:00 instead select that Center Line one and
+3:03 bring this
+3:05 forward something like 12 in there we go
+3:10 so that might be a little bit more clear
+3:12 Maybe not maybe these segment lines are
+3:14 a little too long right so up to you you
+3:16 can of course come in here edit the
+3:18 segment lines if you like Define these
+3:21 line separation
+3:22 reach and then in our let's see in our
+3:27 extensions panel fixed Gap from Mark
+3:30 object if we set this to greater than
+3:33 that 18in offset then when we come back
+3:36 here and look it's clearing that end to
+3:39 end Dimension so totally up to you how
+3:41 you want to set this up I could have
+3:43 just moved this end to end dimension in
+3:46 front a little bit further Etc so now
+3:49 that I have this and I maybe it set up
+3:51 the way I want of course I might do one
+3:53 more endend where it's just Inside Edge
+3:55 to Inside Edge bring this out snap it to
+3:58 here I can always Arrow key forward plus
+4:01 12 in and then I know that's in front of
+4:03 this other leader line number of
+4:06 different ways you can do this but let's
+4:07 go ahead and send this to view now and I
+4:09 want to make sure it's at plot lines
+4:11 that's just my preference half inch
+4:12 scale so now that it's generating those
+4:15 plot lines and it's sending it to my
+4:17 layout
+4:20 page which we'll give it a
+4:25 second now it's on that layout page
+4:27 here's what I want to note
+4:30 my label in in the Pro layout anyways my
+4:33 label is snapped to the edge of the
+4:35 layout box okay now I want to expand
+4:38 this and move it just to the point
+4:41 where it's just a little bit offset so I
+4:44 like the look of this now I'm not really
+4:46 worried about side clipping at this
+4:47 moment what I care about is that offset
+4:50 of that label the reason I care about
+4:53 that is because I want every other view
+4:55 to be uniform to this View and so here's
+4:58 what you can do and this is really easy
+5:01 look at this copy paste drag this over
+5:05 um while you're dragging you could do a
+5:07 number of things one you could hit s
+5:09 which means it's not going to pick up
+5:10 any additional snaps or two you can hold
+5:12 shift which means it's going to
+5:14 constrain this a little bit more tightly
+5:16 than we would if we just let go of shift
+5:19 it's going to pop around and hit angle
+5:20 snaps if we let go of shift if we hold
+5:22 shift it's going to very easily slide
+5:24 over all right now that I've done that I
+5:27 can relink this View I can relink it to
+5:31 some other view say let's see and it
+5:35 shows me the preview of what view I'm
+5:36 looking at here so here's that plan East
+5:39 and once it relinks now the left to
+5:42 right might be off a little bit and
+5:45 that's okay but what you should note is
+5:48 that the bottom of this is snapped to
+5:51 the bottom of this over here that means
+5:53 our layout label is exactly in the same
+5:56 place what else does that mean well
+5:58 because this is plot lines or in case
+6:00 it's not plot lines you got to double
+6:02 check but because it's plot lines we can
+6:03 do a snap pointto Point floor okay we
+6:08 know that the floor is also aligned in
+6:11 this case so now we have views that are
+6:13 completely aligned the only thing we
+6:15 have to do then is adjust our box our
+6:18 layout box so that it's clipped the way
+6:20 we need it to be clipped okay really
+6:23 easy and then you just update the view
+6:25 it'll take a second to generate the new
+6:27 plot lines I do notice that there is
+6:29 kind of a lingering glitch that's been
+6:31 in here forever sometimes you got to
+6:33 zoom in to you know do your update Etc
+6:36 but there we go now I've got an aligned
+6:39 view with an align setup here guess what
+6:42 I get to do now I get to come in here
+6:45 open this View and set up a few things
+6:48 now notice that the location of this
+6:51 elevation is off this is a glitch
+6:54 absolutely a glitch I've reported it
+6:55 we're hoping it's getting fixed in x16
+6:57 but you can very quickly if you remember
+6:59 in you're on a PC you can very quickly
+7:02 hit your alt W right and then fill
+7:05 window building only B okay alt WB and
+7:09 then you can also alt W and get into our
+7:13 zoom in zoom out or just zoom key in
+7:16 this instance which is alt wz and we can
+7:18 just draw more key over this and zoom in
+7:21 so to go back on that let's just say
+7:24 we're way off the screen it's way off to
+7:25 the side it's just alt WB and ALT wz and
+7:29 and you're going to be able to zoom in
+7:30 to whatever you want to uh select a
+7:33 marquee around that's easy enough couple
+7:36 things I like to do when I'm cutting
+7:37 through the M middle of a cabinet I like
+7:39 to put a break in there if you've got my
+7:41 kitchen tools you've got this particular
+7:43 CAD block this is a really easy CAD
+7:45 block to work with I just explode this
+7:47 CAD Block in this case I don't need the
+7:49 upper cabinet I only need the lower
+7:51 cabinet and you can always hover over a
+7:53 corner in Middle Mouse to do a point
+7:56 topoint move here and there you go I'm
+7:59 done that's easy right so that's showing
+8:01 that fill on that particular cabinet we
+8:04 know we needed those Dimension tools so
+8:05 we're going to bring in that manual
+8:07 Dimension tool and you can always bring
+8:10 that continuation handle if it's not
+8:11 picking up something because I'm cutting
+8:13 through the middle of a cabinet here
+8:15 there's the issue right but in this case
+8:17 I don't want to be cutting through the
+8:19 middle of this island cabinet I'm trying
+8:20 to show the cabinets behind it so it's
+8:22 easy enough this is part of the reason
+8:24 that in the Pro Plan we have a compass
+8:26 rows in the middle of this so that we
+8:28 don't actually care where these
+8:29 elevations show up because in our print
+8:31 set they don't actually show up so if
+8:35 I'm looking at my oh I'm blind right now
+8:37 kitchen set all we show is the row so it
+8:39 doesn't matter where those individual
+8:42 cross-section cameras are so let me go
+8:44 back to this view we don't need this CAD
+8:46 Block in there and now I'll pick up
+8:49 these cabinets wall to wall run them
+8:51 through there and notice I just drag
+8:53 that without a care in the world because
+8:54 I have my Dimensions set up very nicely
+8:57 okay and then bring this down there's
+8:59 that 18inch offset I can do that end to
+9:01 end if I want to maybe I need to do a
+9:04 little end to
+9:06 end into in the side of this cabinet
+9:08 that's fine we can also just pick up the
+9:11 end run here bring that diamond over and
+9:14 snap it it looks like I missed something
+9:17 there so it's picking up some kind of
+9:19 snap point in this case but I'm also
+9:21 just not worried about this right now
+9:23 the whole point of this is to show you
+9:25 how I set everything up
+9:27 so there we go now when I bring back to
+9:29 layout I know that my dimensions are
+9:31 clear I also know that look at this my
+9:33 Dimension um string lines are lined up
+9:37 vertically with each other okay this is
+9:40 very clean so now I get to kind of
+9:44 button up some things get this real
+9:46 tight and do a little bit of
+9:47 continuation now when it's me I'm doing
+9:51 um a a clockwise rotation okay so that
+9:54 means at the end of this elevation if I
+9:57 fit it on the page I want the next wall
+10:00 the next adjacent tangent whatever
+10:04 perpendicular wall is right this
+10:06 continues that right so it's really easy
+10:09 to understand oh this goes and then we
+10:12 turn 90° and that's the next elevation
+10:16 that makes a lot of sense notice it's
+10:18 not updated it's still showing it's old
+10:20 cut through just need to make sure
+10:22 you're updating these things before
+10:23 you're printing there we go
+10:26 so there we go my title's lined up my my
+10:29 Dimension strings are lined up this is
+10:31 really easy to navigate across now
+10:34 there's one more thing and this kitchen
+10:35 isn't really a great um example of this
+10:38 but there's one more thing I like to do
+10:41 if I'm doing elevation Dimensions if I
+10:43 need to show I've got a 36in countertop
+10:46 height I've got an 18inch clear to my my
+10:48 uppers my uppers are so and so or 54 in
+10:51 from the finished floor to my uppers if
+10:54 I'm showing that and I need that on the
+10:56 plan there's a couple ways I might do
+10:57 that we're just going to fake it in this
+10:59 plan because I don't actually want to
+11:00 show that in this plan um because I
+11:04 namely because I didn't get hired for
+11:05 this but here's what we do you come into
+11:08 this View and I'm going to set up that
+11:10 elevation marker okay and I'm going to
+11:12 do a things this this is going to be a
+11:13 trick if you will all right so I'm going
+11:15 to bring this Dimension string right
+11:17 through the middle of these cabinets and
+11:19 then I'm going to bring it way over to
+11:21 the side in fact I'm going to bring it
+11:24 way over here all right now the next
+11:28 part of this I can shorten these
+11:30 individual items if I'd like to um that
+11:33 would be one way of doing this and you
+11:35 can snap it to a lader line so I could
+11:37 draw a lader line through here just like
+11:39 this
+11:40 and and unfortunately the trim tool
+11:43 doesn't work for this so you have to
+11:44 grab these individual segments and come
+11:47 back and snap them and it's really
+11:49 difficult to snap because it only wants
+11:50 to snap to an end point so you'd have to
+11:52 drag this back snap it to that end point
+11:55 there we
+11:56 go and so what I'm doing here is
+11:59 something something kind of
+12:01 tricky this view is already sent to
+12:03 layout right so I can come in layout I
+12:06 want to let's just pretend that this
+12:08 text is not here so I'm actually
+12:10 snapping this point to point floor to
+12:12 floor and we're making a little bit of a
+12:14 gap so that we can see in between here
+12:15 and that text doesn't exist this is
+12:17 actually snapped to the very edge like
+12:20 that and so we're showing the full round
+12:23 you know three sides of a kitchen per se
+12:25 okay and then on this side whatever this
+12:28 side might and maybe I need to still
+12:30 show some dimmension string I can copy
+12:33 paste hold and then span this grab this
+12:38 and this is the same way not only can
+12:40 you do this with Dimension strings like
+12:43 this okay you can also and the last
+12:46 Touch of this is that we want to come in
+12:48 to the label and suppress label not only
+12:50 can we do this with Dimension strings
+12:51 where we're just showing a particular
+12:53 string in order to organize the entire
+12:56 page as it's wrapping around the full
+12:57 kitchen but we can do this in something
+12:59 like a plan view so let's go take a look
+13:01 at a plan view same thing I'm just
+13:03 showing a cut of where the kitchen is
+13:05 but my actual callouts here to show what
+13:08 wall is what wall these are actually off
+13:11 the screen off to the side okay same
+13:14 thing I I duplicated this image I
+13:17 dragged up the layout box and then
+13:19 brought it down with a shift move so
+13:22 that it was for sure lined up so that
+13:25 you can see wall number c is Center of
+13:27 this wall right here so real real simple
+13:29 easy ways of showing some um uniform
+13:32 information across
+13:35 pages I think that was a good dose of
+13:38 information for layout and just
+13:39 organizing things and I think maybe
+13:41 we'll dive into that a little bit more
+13:43 this is going to be a tough month for me
+13:44 I got a lot going on but I'm going to
+13:46 try to pump out some more videos for you
+13:47 guys stay tuned
+13:53 [Music]

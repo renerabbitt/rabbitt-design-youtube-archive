@@ -1,0 +1,152 @@
+Title: Photoshop Edit of Astronaut for Skill Building
+URL: https://www.youtube.com/watch?v=VTvgbnkjOs4
+Visibility: public
+
+0:03 hello photoshop family um just thought
+0:04 i'd take a quick stab at this i just
+0:04 grabbed this astronaut off the internet
+0:08 anyways um
+0:08 for that particular composition we've
+0:12 got um what looks like a planet or
+0:14 something right here and it's uh
+0:17 emitting a large glow
+0:17 it's because of the scale it's quite a
+0:19 bit behind our astronaut so i don't know
+0:23 how much light effect you actually want
+0:25 to show on the astronaut
+0:25 um and then we've got what looks like
+0:28 earth
+0:28 and that might be scaled back and and
+0:32 even further away and i would really
+0:32 think that earth is not going to affect
+0:35 the lighting on this astronaut so
+0:35 there's probably what i would do i split
+0:39 this astronaut into the um
+0:40 backpack
+0:40 versus the actual astronaut right so
+0:42 here's the backpack there's the there's
+0:52 could be removed
+0:54 here
+0:54 i forgot to split the two
+0:58 we'll just control select this and then
+1:02 delete that off the astronaut itself so
+1:03 that should be it now if we turn off
+1:05 that backpack there we go
+1:05 all right so the first thing i would do
+1:06 is i probably group the two together and
+1:12 then apply a couple filters to them
+1:13 so
+1:13 group these two now i've got one um
+1:16 entire group here i'm going to deselect
+1:20 and then i'm going to apply a curves
+1:22 adjustment layer
+1:22 and i'll probably make a long curve i'll
+1:26 probably bring down this
+1:26 this white to get some hot spotting on
+1:28 the left hand side here and then just do
+1:32 this kind of a long curve where we're
+1:34 bringing down
+1:34 the right side of that astronaut making
+1:37 him a little bit darker he's out in
+1:37 space i feel like that's a little bit
+1:48 something like that
+1:48 you know mess around with it
+1:51 you can double click for your layer
+1:52 styles and get a little blend if in here
+1:59 and maybe we won't affect um will only
+2:05 break this up just kind of play around
+2:05 with this slider get it to where i think
+2:11 it needs to be of course this is um none
+2:14 it's not deconstructive so
+2:14 i can mess with this at a later time i
+2:16 might uh approach the backpack a little
+2:20 bit different than
+2:20 the rest of the guy here um but for now
+2:24 let's just leave this curves adjustment
+2:26 layer then i can
+2:26 colorize if i wanted to
+2:28 uh so hue saturation layer use this
+2:35 colorize get into that red channel
+2:35 maybe pump that saturation up all i'm
+2:37 looking at is though is the whites here
+2:40 because the next thing i would probably
+2:40 do is throw another layer style on there
+2:43 here
+2:43 and make sure that i'm only affecting
+2:47 those highs there we go that left side
+2:55 hold my alt to bring this back down
+2:58 and kind of play around with this
+3:01 of course we can mask out things
+3:07 so this is getting closer to what i
+3:07 think should probably happen in this
+3:09 scene we're getting a little too much
+3:11 red up at the top here of course we can
+3:15 mask out um
+3:15 mask out these
+3:18 these adjustment layers i wanted to add
+3:22 a mask to these and then kind of brush
+3:24 out
+3:24 the middle of this guy right look what
+3:26 happens
+3:26 now that pulls that out and they're
+3:33 funny i just want to mask out on
+3:41 and what this will do for me is that if
+3:43 i want to come in here
+3:43 after the fact and maybe do a camera raw
+3:49 at this point so then i can bring this
+3:51 back into the drawing after the camera
+3:51 raw and start detailing out some things
+3:56 um let me just group this whole stack
+4:04 a layer style maybe you want to do an
+4:05 inner shadow
+4:05 and you can throw your inner shadow
+4:08 so that it's affecting the left hand
+4:15 and that opacity up you see how we just
+4:18 got kind of a little bit of a glow here
+4:25 mess with the distance just a little bit
+4:27 if you'd like
+4:27 just to
+4:27 a little bit of the choke
+4:30 you might need to mask out a few things
+4:47 something like that then i might just
+4:49 stamp this
+4:49 and do a camera raw
+4:56 and in camera raw i might want to bring
+4:58 the temperature down
+4:58 those blues so the right hand side are
+5:00 shadows or i can just go into our color
+5:05 grading
+5:05 and bring out my highlights into that
+5:08 red
+5:08 my shadows into that blue
+5:15 and then you can either mess with
+5:18 blending if you'd like to
+5:18 mess with your balance a little bit
+5:25 now this is looking pretty good
+5:28 set this against that backdrop
+5:28 and i think it would work out pretty
+5:30 well
+5:31 so
+5:31 um just a couple quick little edits
+5:33 there to get you halfway there and then
+5:35 of course because we have that astronaut
+5:38 set
+5:38 apart from
+5:40 rest we could have saved that color
+5:44 grading tip and gone through but
+5:51 my group one i can go through here and
+5:54 just control click my astronaut layer
+5:56 right
+5:56 means back in my stamp layer i can come
+6:00 in here and
+6:00 and do a little highlight so
+6:02 um i could add in an exposure layer
+6:09 pump that exposure up
+6:09 you can see it's masked
+6:14 with that mask
+6:14 and the backpack's just
+6:17 a little bit overexposed and then brush
+6:26 so a couple little tricks there to get
+6:26 this astronaut kind of prepped for that
+6:29 particular composition
+6:29 anyways hope that helps

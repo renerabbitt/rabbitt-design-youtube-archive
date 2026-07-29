@@ -1,0 +1,690 @@
+---
+videoId: rrMmjqC2Zco
+title: CA X11 PBR Advanced Methods. An introduction
+url: "https://www.youtube.com/watch?v=rrMmjqC2Zco"
+status: imported
+---
+
+# Transcript
+
+0:04 hello afternoon chief first Saturday
+0:05 afternoon
+0:05 I've got to do a little bit of work
+0:06 today because I got to go to a kitchen
+0:12 and I need to kind of fix my template
+0:12 plans and I figured why not let's make a
+0:21 an advanced PBR introduction and I'm
+0:21 saying that because I don't really know
+0:25 what the questions are that people have
+0:25 for PBR I just know that I have a lot of
+0:31 methods and my methods have made it
+0:33 really easy for me to set up and
+0:34 establish scenes that look very
+0:34 realistic without having to do much
+0:37 effort and so one night I needed to do
+0:42 today was fix a couple of my default
+0:42 materials and so I'm just starting off
+0:45 at the top we're just gonna do a generic
+0:51 kitchen that's most likely gonna look
+0:53 really ugly because I just need to
+0:53 illustrate a few things and so I've got
+0:57 a kitchen dump which is just an
+0:57 architectural CAD block it has a lot of
+1:01 kitchen items in it that I use
+1:01 frequently and let's just start off with
+1:12 so I've got a kitchen sink CAD block
+1:14 it's got a faucet a sink and then
+1:15 dishwasher on one side and and then like
+1:22 a 18 inch three drawer base on the other
+1:24 side and then I've got the oven cabinet
+1:29 I've got this corner cabinet that's got
+1:36 a little mixer on top this is my design
+1:40 plan view which means it's got interior
+1:42 interior fixtures and furniture in the
+1:45 plan view and don't show any layers on
+1:47 my walls and it's just easy for me to
+1:47 you know compile a kitchen like this so
+1:56 and this is just a refrigerator block
+1:59 which I think it's missing yeah it's
+1:59 missing a panel here so bear with me as
+2:14 not really gonna worry about the size of
+2:16 these we'll just call these custom
+2:16 cabinets and this island is just not
+2:22 working it all in this kitchen but let's
+2:26 just leave it in there to illustrate the
+2:30 point and then I'm just gonna dump a
+2:31 bunch of lights in places that they
+2:35 shouldn't be if someone's gonna say
+2:35 you're really bad at placing lights and
+2:39 that's okay cuz we're just trying to get
+2:50 this scene to look somewhat realistic
+2:50 and let's throw a slider in here or two
+3:00 oh not now let's throw some by the way
+3:02 if you on your toolbar if you click on
+3:04 items such as your windows you can
+3:04 change the defaults same as cabinets
+3:08 same as a bunch of different things
+3:08 which is a really quick and easy way to
+3:12 get to this and I don't know that
+3:12 everybody knows that but it's a good
+3:21 thing now let's go why not and we're
+3:22 gonna pop some of those in here let's
+3:26 just throw up in the corner and that
+3:26 corner sure why not and spoke one on the
+3:33 window not a whole lot of sheer value
+3:33 there oops and let's take a look at what
+3:42 we got going on so you're gonna notice
+3:46 my PVR just out of default it's gonna
+3:48 look better than most because I've
+3:48 already established a bunch of materials
+3:54 and I've already figured out how to make
+3:57 them look pretty good out of the box but
+3:59 there's some things I need to fix and
+3:59 and there's some new tricks that I have
+4:03 that I haven't really put into my
+4:03 templates but you can see already that
+4:09 just right out of just dumping this in
+4:09 it looks pretty good and it looks a lot
+4:13 better than what you would get out of
+4:16 the box chief architect so a couple
+4:16 things is you know a lot of my materials
+4:23 have normals maps they also have
+4:23 a big one which is reflection maps and
+4:27 the reflection maps really make a
+4:27 difference in the scene let's see if we
+4:32 can see an example of that okay so if
+4:32 you see on this countertop you can see
+4:34 these little you can see we've got gloss
+4:39 in the countertop but you can also see
+4:39 we've got you know that pitching fitting
+4:43 that comes from granite and you know
+4:46 different hardness of surfaces what
+4:47 wit's
+4:47 you know what soaks in with lacquer
+4:49 polish etc and that really it seems so
+4:53 simple and and at the same time it just
+4:59 makes all the difference in the world
+4:59 the other thing that makes a difference
+5:00 is I've got an East edge molding profile
+5:06 on these countertops and I've got a
+5:06 clipped corner so it really does make
+5:13 this look like stone and when you
+5:14 compile all these little details
+5:14 together what happens is is you just get
+5:20 a little more realistic of a scene and
+5:23 once you figure out these details and
+5:23 you save them as your defaults then all
+5:29 of a sudden it's like I can just dump
+5:29 this stuff in a plan and right in front
+5:32 of a customer
+5:32 have a very realistic looking scene
+5:34 without having to do too much work or
+5:37 futz with the details in front of them
+5:39 and not only that it just saves me time
+5:46 in general so so I'm looking for like
+5:48 kind of that eased edge and a lot of
+5:48 details and so one of those things is
+5:50 like a symbol might be a little jagged
+5:56 like you can look at this see the
+5:57 outside curve of this guy it's just a
+6:01 little jagged the transitions are a
+6:01 little wrong I can open this symbol up
+6:04 and get to its smoothing angle and let's
+6:10 just crank this up we're going to crank
+6:12 it up so high that we're gonna get some
+6:13 artifacts we're gonna get something to
+6:15 screw it up in the look of this let's
+6:18 see if we can see it I think I see it
+6:18 here it's changed the render method yeah
+6:23 you see what happened when I cranked up
+6:26 that smoothing angle it created what
+6:27 happens is these are faces right here
+6:32 they're they're triangles or big
+6:32 triangles and when you change that
+6:36 smoothing angle when it
+6:36 intersex was something such as this a
+6:40 lot of times it splits those triangles
+6:45 up so we'll crank this back down to
+6:45 something like 80 okay it got rid of
+6:50 that artifact and let's just see what
+6:56 happens in our shot here if anything
+6:58 changes when we crank that smoothing
+6:58 angle yeah you see the handle it's it
+7:02 was very subtle not a whole lot going on
+7:07 there but the handle changed a little
+7:12 bit let's try this guy this guy's a
+7:12 little jagged oops I just opened them
+7:16 and open the cymbal you can tell I don't
+7:23 have a lot of direction with this video
+7:26 but I think my hopes are that something
+7:28 that I'm going over here is going to
+7:28 spark some interest or a question and
+7:32 those questions are gonna give me a
+7:33 little more direction on on what
+7:33 everybody's looking for with help for
+7:36 this kind of stuff
+7:36 so let's just crank this guy up again
+7:40 let's put him up to 80 and let's see if
+7:45 we can see a difference at all you know
+7:47 I think I already saw a difference in
+7:49 vector because we lost this line that
+7:51 was right here there was a line in
+7:51 vector view and now it's gone so what's
+7:55 gonna happen is this guy's gonna get a
+7:55 little bit smoother in it's transitions
+8:06 okay it's probably gonna be subtle but
+8:09 again the subtleties add up well it
+8:09 didn't look like anything changed did it
+8:15 I could probably crank it up again but
+8:16 that's something to play with when
+8:16 you've got a fixture that's that's kind
+8:22 of you know jagged a lot of times you
+8:22 can fix that with modifying the symbol
+8:28 let's look at this since we're here I
+8:28 want to change this this doesn't quite
+8:32 look realistic
+8:32 I think chief ER can't remember his real
+8:38 name introduced this method which is if
+8:38 you put a gray gradient map in a texture
+8:43 you see I've got all these different
+8:51 you can put different gradients of grey
+8:55 to kind of change the way that in the
+8:55 normal map on your material property to
+9:02 change the way that that material deals
+9:02 with reflection and light sources so I'm
+9:06 going to crank this up and I made it a
+9:10 darker gray and hopefully this glass
+9:12 will start looking a little more
+9:18 realistic so it's a little more
+9:18 see-through but we still have all that
+9:24 definition right we've got that that
+9:24 reflection so that's looking really good
+9:30 and let's just do the inverse just to
+9:30 show you know what happens is is if we
+9:36 kick this off look what happens
+9:36 immediately we lose all that that
+9:40 reflection let's go ahead and leave that
+9:45 the way it is and see what happens in
+9:53 the scene yeah all of a sudden it
+9:53 doesn't look nearly as realistic we've
+9:58 we've kind of lost the reflection up
+9:58 here it looks a little cartoonish down
+10:02 at the bottom when there where the
+10:02 material is kind of doubled over itself
+10:19 yes at the bottom we've got you know
+10:19 that reflection came back kind of on the
+10:23 curve on the bottom and I mean you get
+10:24 it you guys can play around with that
+10:26 it's something that's you know
+10:26 definitely beneficial to a scene is if
+10:30 you can make some realistic looking
+10:34 glass another thing is you know my
+10:34 recessed lights are not point lights I
+10:38 mean excuse me they're not
+10:38 I always forget the difference they're
+10:44 not point lights or spotlights there you
+10:46 go
+10:46 so if we look at show position in camera
+10:52 view this lights shining directly down
+10:55 for as where as a point light is you
+10:55 know omnidirectional so I want this to
+11:01 be a spot light so that's something
+11:01 worth doing is and this has two lights
+11:04 per recessed light one is got a cut-off
+11:10 angle of 165 degrees so it flares out
+11:10 really far and then the next one's more
+11:15 directional 70 degrees and you see the
+11:17 drop-off rate has to change because if
+11:17 you left the drop-off rate at something
+11:23 like 5 it's gonna put a hard pin on the
+11:25 ground you're gonna see a hard shadow
+11:31 line so and these are uploaded in for
+11:31 those x11 files I've I've uploaded a lot
+11:37 of material and content these are in one
+11:39 of those posts so take a look for them
+11:41 because they work really well and you
+11:41 can adjust them but I mean the basis of
+11:46 them is there and they do a really good
+11:49 job of illuminating the scene and
+11:49 creating those soft shadows on the wall
+11:55 that look realistic so um so another
+11:57 thing that I've done in this scene
+11:57 that's kind of important to note and and
+12:01 not too many I don't think anybody knows
+12:04 about it honestly I think I've only told
+12:07 one person and that is that I'm
+12:07 utilizing ambient occlusion and immune
+12:12 occlusion I'm gonna do like the layman
+12:16 explanation of what it does when you
+12:16 have an object that needs shadow you can
+12:21 create that shadow with ambient
+12:21 occlusion and so it can be a map that
+12:31 has you know a certain shape to it or
+12:31 it's matching you know like I couldn't
+12:35 make it so that the ambient occlusion
+12:35 map is black and all these crevasses and
+12:40 what what happened is these crevasses
+12:40 would be even darker if there was no if
+12:44 it was just lit by ambient light so what
+12:50 i'm doing here is i'm taking this
+12:50 textured drywall and i'm gonna let's
+12:53 just illustrate what I'm talking about
+12:55 let's crank this up 200 you can already
+12:59 see all the shadows just got a lot
+12:59 darker and watch what happens in scene
+13:04 when there's no direct light up along
+13:08 the top of these walls is immediately
+13:12 once this process is I mean that's a
+13:12 pretty clear cut is that because the top
+13:17 of these walls were just lit with
+13:17 ambient light now that there's no direct
+13:23 light it uses that occlusion map and
+13:23 creates that darker shadow so I'm going
+13:26 to use like the 8 gradient gray here and
+13:33 where maybe we'll get a balance in the
+13:40 scene more or less it's you know it's
+13:40 containing these shadows up above same
+13:44 thing with the ceiling I'm going to do
+13:44 the same exact thing we're gonna put I'm
+13:49 even gonna do it darker one woops that's
+13:52 a normal map let's do a darker one on
+13:52 the ceiling let's go up why not let's go
+13:59 to 11 and so the importance of this is
+14:02 is that if I want to crank up the
+14:02 exposure in a scene this can this can
+14:06 kind of help maintain the integrity of
+14:12 the shadows I'm gonna do it in a floor
+14:14 as well and these are the things I
+14:14 needed to fix was I should even do these
+14:19 on the cabinets and we'll see what
+14:27 you're actually going to see this
+14:27 immediately what's going to happen is
+14:31 areas that are in shadow you're gonna
+14:33 start seeing some of the gloss out of
+14:33 those shadows because it's going to pick
+14:43 so as I move around and I catch an area
+14:48 that's in a shadow it's it's just it's
+14:50 more true to form of what you would
+14:50 actually see so let's do this on the
+14:54 cabinet's too because we want this area
+14:57 to be dark you know it's it's not lit
+15:00 it's it's like a red flag that it's
+15:00 telling you it needs a light over here
+15:11 looks like I already had one on there
+15:27 here's a little pet peeve of mine with
+15:27 chief is AI CAD blocked this hole of an
+15:32 assembly and you can see that the
+15:32 molding profile is kind of screwed up
+15:40 and it's when I save it to my library
+15:44 it's not saving the offsets of the
+15:44 moldings so like this is a flat stock so
+15:52 it should be negative 5/8 and then it
+15:56 should be negative 2 and this guy is
+15:56 gonna be surface amount and it's going
+16:01 to be negative 2 as well
+16:01 sorry bear with me that's gonna drive me
+16:14 and I'm gonna take my object eyedropper
+16:16 and there's like five pieces here that
+16:19 need to be fixed so let's just clear
+16:19 these and I want to save that molding
+16:53 anyways that was a quick sidestep there
+16:57 but that looks a lot better okay so
+16:57 let's see what else do we have to go
+17:00 over in here
+17:00 oh so you see all these colors on the
+17:02 side here this is a really simple thing
+17:07 in that all I did is if you go to
+17:07 customize your toolbars which you can
+17:10 right-click on a tool bar and hit the
+17:10 customize and you search place library
+17:14 object there it is right there and I go
+17:22 and drag this guy down here and let's
+17:26 say I've got a new material I'm just
+17:27 gonna put this in I thought I had one
+17:31 that said neon
+17:31 let's see solid colors neons sure and
+17:37 let's make a new neon material oh why
+17:37 not because everybody loves neon let's
+17:49 make it neon yellow not and so you can
+17:49 make a new material and apply it to that
+18:05 place library object right yellow there
+18:06 we go
+18:06 and I'm gonna click automatic and look
+18:11 it shows up in this side toolbar and
+18:11 then what I can do is for instance for
+18:17 the cabinets let's make these cabinets
+18:19 dark I've got a dark brown here I'm
+18:19 gonna hit my blend colors with materials
+18:24 and I'm gonna paint the whole room and
+18:24 we're gonna change all the colors of the
+18:31 cabinets to dark immediately and what a
+18:34 quick and clever way of doing this and
+18:37 what happens is so these cabinets all
+18:37 have a reflective map just like I did in
+18:42 the in the countertops and you can see
+18:42 it looks like someone with their greasy
+18:47 palm prints touch my cabinets and all
+18:47 that is maintained if I blend color with
+18:52 that material so I only need to
+18:52 establish one material with a great
+18:54 reflective map and then I can tint that
+18:57 material especially if the base material
+19:02 is white but you need to have
+19:02 the base material be a texture file and
+19:12 to show you what I mean is see actually
+19:14 I've got a perfect example let's get
+19:14 back in the plant view we're gonna we're
+19:19 gonna kill two birds with one stone
+19:19 we're gonna go to entourage accessory
+19:24 structures I've got these accessory
+19:24 homes you can download let you're a real
+19:33 quick way of getting kind of you know an
+19:35 outdoor realistic view through your
+19:37 windows let's just turn this guy's
+19:37 sideways and if we go back to my scene
+19:43 my shot what's gonna happen is right now
+19:51 like the exterior Sun is over exposing
+19:55 this house right why did I place that
+19:55 poorly I feel like that's rotated funny
+19:59 interesting it is rotated funny Oh funny
+20:13 okay open the symbol see things I need
+20:13 to fix TD block needs to regenerate this
+20:20 block there we go
+20:20 that's what's going on so let's kick
+20:34 and let's take a look at this again so
+20:34 the exterior here I mean it's just super
+20:40 overblown super overexposed and so
+20:40 something we can do is let's just go out
+20:45 there and same thing with that ambient
+20:47 occlusion and you'll see what a
+20:47 difference it makes when we apply that
+21:00 to these materials let's kick this to
+21:06 ten my computer's going slow because
+21:06 it's trying to record in 4k this video
+21:17 while we're going so apologies and I'm
+21:20 gonna leave the trim just so you guys
+21:23 can see what a difference this makes
+21:23 when we pop back into the house actually
+21:29 you can kind of see it already but we're
+21:30 gonna pop back into the house we're just
+21:32 going to change the way PDF use this
+22:16 think that was a little too dark
+22:16 we're at a 10 let's go 12 you can see
+22:24 just a subtle change in shade makes a
+22:26 huge difference I mean look at the
+22:26 windows that shadow is just crazy it's a
+22:33 little too dark go back to see what it
+22:43 yeah that's kind of split in between
+22:43 it's pretty good actually so that when
+22:51 we now when we look at that house back
+22:51 there it's not so blown out of exposure
+23:01 right so this is looking pretty good I
+23:01 want to change the direction of the Sun
+23:03 real quick I want to pop in through here
+23:15 let's just do let's do a 140 and it's
+23:15 just too little it wasn't like 22 there
+23:20 we go that's cool looking right and
+23:20 actually at the same time I'm gonna add
+23:23 a user added light I only do one but I'm
+23:29 gonna add it right Suns coming in from
+23:29 this angle shooting it you know in this
+23:33 direction I'm gonna put it right over
+23:33 the top of these counters right here and
+23:39 what's happening right now is that right
+23:43 now it's a it's a point light and we're
+23:43 gonna change it to a spot light and then
+23:47 we're going to make it that direction
+23:47 angles going to be same direction angle
+23:53 as the Sun was 140 and let's do like a
+23:57 180 cut off angle drop-off rate will
+23:57 make it 35 and they're gonna crank this
+24:04 thing way way up we're gonna go 90
+24:04 thousand and let's turn it red and let's
+24:13 tilt it downward 15 degrees and let's
+24:13 make it sixty degrees off the countertop
+24:20 and let's also say it's not going to
+24:20 cast shadows and I know that was a lot
+24:24 of info you might need to go back and
+24:27 replay that if you're interested but
+24:27 let's take a look at what it did to the
+24:35 scene you see it popped that red color
+24:35 on the front of that cabinet and we even
+24:40 caught something there in the
+24:40 refrigerator let's crank it up even
+24:42 higher
+24:42 I had a really high drop-off right let's
+24:49 pop this thing up to like 150 because I
+24:59 there we go at that process and so we're
+25:00 just getting a little bit of color on
+25:00 this fridge and a little bit of color on
+25:04 this countertop and even on the floor a
+25:06 little bit it's getting a little bit
+25:06 illuminated let's go ahead and change
+25:07 this color back to a Sun looking color
+25:13 and that's kind of cool we're catching a
+25:18 little reflection on this metal here
+25:21 we're illuminating the the corner of
+25:21 this cabinet and we might be getting a
+25:24 little bit of action on this
+25:24 refrigerator and it just makes a little
+25:31 bit of difference right I mean it's not
+25:36 doing much but it's definitely doing
+25:40 something that refrigerators there's
+25:40 just a little bit more going on in the
+25:45 scene right let's get a backsplash in
+25:50 here why not I'm just gonna if I
+25:50 double-click on that cabinet I get to
+25:53 the cabinet defaults I can put my
+25:53 backsplash up let's say it's 18 inches
+25:57 tall let's say it's half an inch out and
+26:11 let's go what's my backsplash material
+26:13 won't change this material we're gonna
+26:22 we've got tile we've got it probably
+26:31 have a gray this guy our white gloss
+26:31 white matte tile gloss tile with gray
+26:34 grout let's do that guy I like that so
+26:39 we got that guy let's do it let's change
+26:43 the countertop material to even though
+26:45 that I think we Illustrated what we
+26:45 wanted to in that other material let's
+26:55 go to let's go to Calcutta and I think
+26:55 something's wrong with this material as
+26:58 well so maybe we'll get to fix that at
+26:58 the same time so there we go we've got a
+27:08 backsplash in the scene we got a paint
+27:08 than nosing so let's do make sure I get
+27:27 and we don't have backsplash behind the
+27:29 oven got to draw that in that's no big
+27:32 deal that's looking pretty good
+27:32 I'm even change the floor actually let's
+27:39 go ahead and that's the wrong material
+27:50 yeah I don't think this has a reflection
+27:53 map so we're gonna check this out we're
+27:55 gonna go find something that's a dark
+27:55 gray gradient map to throw on this guy
+28:03 for the reflection under properties so
+28:04 this roughness map oh it does have a
+28:04 roughness map I didn't remember doing
+28:08 that yeah I see the veining in there and
+28:12 that's from the roughness map how cool
+28:20 so I'll cancel that let's go ahead and
+28:50 should just done custom backsplash from
+28:53 the beginning I'm just asking for
+28:53 trouble but you can kind of see this
+28:59 kitchens already looking pretty good and
+29:03 so if I just save to all these things
+29:04 just as they are which is the whole
+29:04 point of me doing this is that the next
+29:08 time I go to build this kitchen it's
+29:11 going to look exactly like this it's
+29:11 because I'm saving these defaults and I
+29:15 won't change them you know I'm not gonna
+29:19 mess with this backsplash it's kind of
+29:19 waste of my time and yours don't look at
+29:23 it but I just wanted to establish the
+29:25 scene and kind of get the look of the
+29:29 scene in and make a believer out of
+29:29 everybody that you can you know make a
+29:33 really good-looking scene without too
+29:33 much effort especially if you save all
+29:41 of your parameters as your default in
+29:41 your templates because once I say this
+29:46 is the default backsplash material and
+29:46 that as the default counter and that as
+29:51 the as the default cabinet would I mean
+29:56 this is going to become you know a
+29:56 really quick and easy thing a drag and
+29:57 drop kind of thing so I just changed the
+30:02 floor materials so let's just check this
+30:05 guy same thing missing its ambient
+30:16 see I've got a weird toe kick on my
+30:44 okay what else what else should we be
+30:47 looking at here I want to go over all
+30:47 the bases there and I think we've gone
+30:52 over most things I don't like that this
+30:56 looks so great so we probably need to
+31:01 turn that ambi occlusion down or do
+31:01 something different let's just take it
+31:04 to the air we're gonna lose some of the
+31:08 definition up here but I'm gonna get
+31:08 some of that white back the other way I
+31:13 can accomplish this is through a
+31:13 material ID mask and maybe I'll show you
+31:18 guys that for anybody that's a Photoshop
+31:22 either but on the whole this kitchen
+31:22 looks pretty good right now without you
+31:29 know having to spend a crazy amount of
+31:33 time with light settings and that sort
+31:37 of thing so let's just do a couple of
+31:40 quick tweaks here which is what we're
+31:40 gonna send this out and when you export
+31:49 these images you really should be saving
+32:00 it as a PNG file because the JPEG has
+32:00 some compression in it and you'll see a
+32:04 lot of artifacts and it's just not
+32:04 something you want it's not gonna look
+32:10 good the next thing we'll do is we're
+32:10 gonna make a kind of a luminescence map
+32:14 and the only way you do that the easiest
+32:18 way to do that is we're just gonna crank
+32:20 the camera exposure down to almost
+32:20 nothing let's go to 0.005 maybe yeah
+32:25 there we go and I'm going to export this
+32:36 mmm
+32:36 City not PNG okay
+32:49 and let's crank this back up and then
+32:51 kind of a final thing is we'll make a
+32:51 material ID mask which is gonna maybe be
+32:58 over some people's heads but no biggie
+33:01 I'm gonna take this neon and I'm gonna
+33:01 paint the whole room all these cabinets
+33:13 with this neon and let's go ahead and
+33:22 paint the floor with this neon and so
+33:24 that's all we need for an example and
+33:32 this is going to be a material ID dot
+33:33 PNG
+33:33 I wish F I held this undo button it
+33:42 would give me a drop down list so I
+33:44 could go back two steps instead of
+33:44 sitting here and waiting don't you don't
+33:52 you guys wish that would happen man I
+33:54 was thinking I was gonna do one more
+33:54 thing because maybe people don't know
+33:56 about it and such a basic thing but this
+34:00 kitchen kind of needs it anyways noting
+34:02 that this is an award-winning kitchen
+34:02 but I'd like to change like the cabinet
+34:08 door styles they're really they're just
+34:11 shaker and I don't know it seems like a
+34:11 boring thing for this particular kitchen
+34:22 so I'll keep this same camera view so
+34:24 that I'm not screwing up my but the
+34:24 masks that I just made um but let's go
+34:28 to already got American wood mark that's
+34:45 going like a 6 1 16 16 maybe there we go
+35:04 yeah let's go 16 drawer style that's
+35:04 just for those uppers rest of these guys
+35:13 I'm gonna go back to space Camry double
+35:21 click can I go to my door drawer
+35:21 let's go library 16 door & drawer
+35:31 library so quick easy way of changing
+35:39 everything in the room and I could have
+35:47 changed the materials too but I think
+35:50 we're okay by just painting the whole
+36:06 there you go a little more interesting
+36:10 maybe I don't know but worth showing
+36:10 people if they don't know how to do that
+36:16 anyways let's go Test Kitchen defuse
+36:16 there we go we're gonna replace it and
+36:22 let's kick this over to photoshop and so
+36:36 I'm just gonna select all I'm gonna kick
+36:38 over to my diffuse I'm gonna paste it
+36:39 right over the top
+36:39 oops it's the wrong button paste it
+36:42 right over the top
+36:42 same things like the all copy paste over
+36:49 the top I'm gonna drive I'm gonna unlock
+36:53 this layer drag this guy down and I'm
+36:53 gonna drag this guy on top so this is a
+36:58 luminosity map and I'll show you what
+37:00 that does is this is our base profile
+37:00 when I take this map and I and I select
+37:07 it I'm gonna drop this down to
+37:07 luminosity watch what happens in the
+37:10 scene as I let me kick the opacity down
+37:18 to like 25 maybe 30 if we kick it off
+37:22 you see how bright all the recessed
+37:22 lights are it kind of just cuts them
+37:24 down in just a little bit it also cuts
+37:28 the whole scene down a little bit and
+37:30 then I can bring the exposure back up
+37:30 you can see the exterior looks a little
+37:35 bit more realistic the next thing I'm
+37:35 going to take a look at is to turn these
+37:40 other two off this is our neon material
+37:43 mask idea and so say I wanted to change
+37:45 something about the floor or about the
+37:49 cabinet's I could select a color range
+37:49 and if I've got this fuzziness said all
+37:55 the way up it's gonna grab the shadows
+37:56 everything else it's gonna select that
+37:57 whole thing but I'm going to maintain
+37:57 the shadows in the room and so when I go
+38:04 back to this scene right here I can sit
+38:07 here and just well let's just give an
+38:09 example I can kick the brightness way
+38:13 down if we needed to contrast way up
+38:14 something like that
+38:14 any number of things you can do with
+38:16 this which is kind of clever when you
+38:20 need to just adjust one component of a
+38:24 room like if I wanted to change the
+38:26 colors of cabinets I'd do that same
+38:30 process so um a few little advanced
+38:33 things in there on the whole I was
+38:33 hoping this video would just kind of
+38:35 spark some some interest with people and
+38:40 that they asked some questions so that I
+38:43 could be a little bit more specific in
+38:43 the goals of my videos because I'd love
+38:48 to help you guys kind of figure this
+38:48 these kind of scenes out is that now I
+38:53 can save all these things this default
+38:55 and then next time I do this kitchen
+38:55 again I know I'm repeating myself but
+38:58 the next time I do the kitchen it's
+39:00 gonna look like this out of the box
+39:00 which means that the next time I go and
+39:03 do a session like this I'm only going to
+39:07 improve it it's only gonna get better
+39:09 every time so if you do this a little
+39:11 bit each time eventually you're gonna
+39:11 have a very realistic scene coming in to
+39:17 PVR and it's gonna be you know right in
+39:17 front of your customer and they're gonna
+39:20 be so impressed and it's really gonna
+39:20 set you apart from other people so ask
+39:25 your questions post away please I'd love
+39:29 to hear it and want to know what
+39:29 questions people have you know what
+39:31 methods people are looking for and there

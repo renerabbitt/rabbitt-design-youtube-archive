@@ -1,0 +1,416 @@
+---
+videoId: igENluAua8M
+title: Realistic Exterior Rendering In Under 20 Minutes Using Chief Architect and Ai
+url: "https://www.youtube.com/watch?v=igENluAua8M"
+status: imported
+---
+
+# Transcript
+
+0:01 let's see if I can cheat with a little
+0:02 bit of AI and get like the fastest
+0:05 rendering possible out of this little
+0:08 shot so I'm going to do a few things
+0:11 here I'm going to throw in a big bold
+0:12 door just span this out I'm just
+0:16 creating a shot here um let's just
+0:18 assume that I would be you know spending
+0:20 more time than this but here's a glass
+0:22 panel door bold option let's go one and
+0:26 four and like that we'll show it uh
+0:30 3D will show it like 90% closed cool and
+0:34 then let's just throw a window in here
+0:36 for a little bit of context and maybe
+0:39 since we're doing brick walls let's just
+0:41 go ahead and throw in Brick pony wall so
+0:43 I'm actually going to just take this
+0:44 door copy it and then let's throw in
+0:49 this brick pony wall set up here instead
+0:53 paste hold oops I should have been able
+0:56 to paste that door but I wasn't
+1:05 boy that just wants to bite me there we
+1:11 go so copy that extend
+1:15 this
+1:17 here let me
+1:22 okay now paste hold there we go that's a
+1:25 little
+1:26 better let's throw in a window right
+1:28 here and then let's also throw in just a
+1:31 little bit of landscaping so I'm going
+1:32 to do what do I'm do I'm going to do
+1:36 already plant block like that should be
+1:39 able to get me
+1:40 to some kind of landscaping that I can
+1:43 just throw in
+1:48 here like that let's explode this block
+1:52 let's make sure all these layers are
+1:53 turned
+1:57 on and I could prob take some of this
+2:00 stuff and just copy paste reflect about
+2:03 this
+2:04 corner and kind of take this little this
+2:07 little piece
+2:09 here extend this back
+2:16 corner quick
+2:18 dirty method here let's do a
+2:23 down
+2:25 stairs span this a bit
+2:30 see what this is looking
+2:31 like okay it's looking okay um want to
+2:35 make this a concrete step instead so
+2:38 let's just go no overhang zero thickness
+2:44 not open
+2:45 underneath
+2:47 sure and we'll make
+2:50 this
+2:54 oops a I hit a hit a plant
+3:05 like that sure and we can even extend
+3:08 this through copy paste reflect
+3:12 about extend this part through let's
+3:15 grab a bunch of these
+3:19 plants and a copy paste about the
+3:22 corner goes around
+3:25 right and let's also see I could have
+3:30 done this in 3D take
+3:32 this copy paste paste hold position
+3:36 convert it and then let's see if we
+3:38 can't get a grass region right grass
+3:41 region
+3:46 bam do a little edit
+3:50 on build of
+3:53 view
+3:56 that and maybe this is the shot I
+4:04 want okay let's try a different backdrop
+4:08 just for the fun of
+4:22 it hit that around a little bit we'll
+4:25 get a little bit of trees in the
+4:26 background that put a nice warm tone
+4:28 here um let's select our let's expand
+4:33 this a little bit
+4:35 too back out of the shot just a little
+4:41 bit just going to make contain selection
+4:45 with this Marquee select similar bam
+4:48 copy paste reflect about obviously we
+4:50 should be cutting this terrain region or
+4:53 let's un it in fact
+4:57 oops it to
+5:04 this guy I can get to it there we go
+5:09 Union needs don't retain cool and then
+5:13 we can make a little bit of a break
+5:16 here around the stairs if we didn't want
+5:18 that fill to show up
+5:27 right all right now here's our
+5:31 shot so we put a tree in the background
+5:33 maybe we'll put a little tree in the
+5:37 background or we could even put one in
+5:39 the foreground but why not get
+5:44 into
+5:47 tree I like this one then on top of that
+5:51 I have already tree and I have what I
+5:53 think I call it
+5:56 Mound that out
+6:00 oh shoot I'm using a compressed boarding
+6:02 going to be a little bit
+6:07 grainy that I put
+6:09 Mound there we go a little
+6:12 Mound just get to put this right center
+6:14 of the tree Grab Apple
+6:17 Tree that looks
+6:20 like a little
+6:26 bit cool right there um let's do
+6:30 something different with the siding
+6:33 maybe have a little fun with
+6:43 this it's kind of cool maybe we'll
+6:47 tint
+6:50 just tint the
+7:02 here we
+7:07 go I wanted to tint
+7:18 that
+7:22 yeah
+7:25 nice and let's screenshot this
+7:32 now I'm going to take this
+7:35 into
+7:37 editor
+7:41 enhance load this bad
+7:48 boy and so this has just been a new
+7:51 workflow coming up with is just use
+7:53 Korea to take something that already
+7:55 looks pretty good and crank it up a few
+7:57 notches and then between that and
+8:00 Photoshop I can do some final edits and
+8:03 get some really good looks so I'm going
+8:04 to click enhance this two time upscale
+8:07 it's going to add some
+8:14 detail wait for a
+8:21 second buy her up Photoshop
+8:26 too what are we at we're at eight
+8:28 minutes
+8:31 so far this is pretty good so far for
+8:34 eight
+8:36 minutes uh and it's going to keep doing
+8:39 its thing let see there anything else I
+8:42 want to look at here no I can pause the
+8:46 recording okay that only took another 30
+8:48 seconds after I paused the recording so
+8:50 here's what we got we got a slider where
+8:52 it's showing
+8:53 us upscale before
+8:57 after yeah I like what it did to The
+8:59 Brick I like what it did to the siding
+9:05 there yeah even did all right with the
+9:09 tree all on look at that the Reflections
+9:12 in the in the window sometimes it could
+9:14 goof
+9:15 up our roofing
+9:20 material but that looks pretty good that
+9:24 looks pretty good let's download it
+9:31 I don't know why but I found that I've
+9:32 always got to download it twice I think
+9:34 the first time it sends it to the cloud
+9:36 and second time it actually downloads it
+9:37 on your machine and then let's get into
+9:42 Photoshop oh looks like the download
+9:44 still failed try again try it one more
+9:48 time no got to hit the download button
+9:50 again yeah very strange and then boom
+9:55 here we go let's I want to try a little
+9:58 Sky replacement why not I always love
+10:00 trying this so see what this adds to the
+10:04 scene if it adds anything don't think I
+10:10 want a lot of overcast looks like we got
+10:12 to clean up this Edge line just a little
+10:15 bit sometimes it makes a difference um
+10:20 to take the original image to do this
+10:21 Sky
+10:23 replacement because otherwise we're
+10:24 going to clean up that edge or you can
+10:26 pick one that's just
+10:29 that works with the edge even if it's
+10:32 overlay like it seems to be doing that
+10:35 looks pretty good I like that one all
+10:38 right let's stick with
+10:39 that and then I'm going to stamp this
+10:41 forward control alt shift e control
+10:44 shift a it's going to bring me into a
+10:48 camera raw filter we could go check out
+10:49 some of the existing
+10:56 ones futuristics a little too punchy
+10:59 and we might have been able to start
+11:01 with like a ha rendering
+11:06 instead that you know various curves
+11:08 adjustments and
+11:10 cinematic um let's try Autumn Autumn's
+11:12 going to really brighten that up in a
+11:15 few ways that looked a little bit
+11:18 nice you can always pick one and bring
+11:21 that tone back
+11:24 down kind of like this last one
+11:30 yeah that's kind of cool Moody very
+11:32 moody and then go back and get into the
+11:34 edit here you can see what they did they
+11:36 brought the blocks down they brought
+11:38 that temperature down uh they kick the
+11:41 Vibrance up kick texture up I love
+11:43 messing around with DEH to just see what
+11:45 this does to a shot um if I want to take
+11:47 some of the mood out of there DEH might
+11:49 be the right move to do um Clarity is
+11:53 going to you know make this be like a
+11:55 real estate shot which you'll see often
+11:58 times where it looks like it's you know
+11:59 wrapped in bubble wrap right so probably
+12:01 going to leave that right where it was
+12:04 texture textur is just making those
+12:06 textures real pop
+12:08 so um again that looks like maybe
+12:10 someone put a filter on it you want to
+12:12 throw some grain in there to try to get
+12:13 this to be more like a realistic shot
+12:15 sure um it's definitely has a vignette
+12:18 going on in here um maybe just a subtle
+12:21 vignette instead we could do a little
+12:23 curves adjustment if you wanted to kind
+12:26 of bring those brights out or maybe we
+12:29 want to bring that Sky back into the
+12:31 equation and then bring the mids up
+12:34 and leave those lows down and that's too
+12:38 aggressive of a curve we're getting a
+12:40 little blowout
+12:42 on on our tree here you can always take
+12:46 the Picker Point curve picker tool and
+12:48 come in here and try to Target things as
+12:52 well
+12:55 but and be careful with the curves
+12:59 and I believe you can um reset this so
+13:03 we we're showing before
+13:05 after we like that curves adjustment no
+13:09 and then somewhere in
+13:12 here somewhere in here is a reset reset
+13:16 Channel there we
+13:18 go um and then they punched up the Red's
+13:21 luminance
+13:23 and took down the
+13:26 green or changed the Hue of the green
+13:30 and change the saturation of the green
+13:32 so we could Target that green bring it
+13:33 back up just a little bit I think would
+13:35 be a nice move and then maybe we're
+13:37 going to take down the punchiness of of
+13:41 this and luminance of this you know you
+13:44 bring that back down and get a little
+13:46 dark I actually think that was correct
+13:48 that the luminance was up and we might
+13:49 bring up the luminance with the grass a
+13:51 little bit too and then we could
+13:53 probably get back into texture and take
+13:56 that down a little bit back down a
+13:58 little bit
+14:00 yep I love throwing a little blue in my
+14:02 Shadows just a little
+14:05 bit um love punching up the sharpness of
+14:09 the shot would be something that's fun
+14:11 too you can mess around with
+14:14 um um with lens blur got something as
+14:21 well and there we go let's look at what
+14:24 this final thing final shot was that
+14:27 looks pretty good it looks pretty good
+14:30 and all in all you know what do we do
+14:32 what was this the time for this um 14
+14:38 minutes right 14 minutes that's pretty
+14:42 wild so of course you can come in here
+14:44 and do a couple little added effects if
+14:46 you want to um if I wanted to pretend
+14:48 like the sun was in here Etc um
+14:51 something I might have you know wanted
+14:52 to go do before I brought this into the
+14:54 state was back in Chief it could turn
+14:58 Sun on right and that's going to give us
+15:01 some direction and then use the rotate
+15:04 the sun tool to kind of bring this
+15:06 around to give us um some Shadow marks
+15:09 and stuff there we
+15:11 go right now let bringing
+15:13 the even maybe a little bit more realism
+15:16 here what I love to do from here is take
+15:18 this intensity down appropriate to the
+15:21 scene so this isn't a one-size fits all
+15:23 thing I'm just going to punch that
+15:26 sun um up just enough enough to show my
+15:29 Shadows on the wall so I just put it to
+15:32 2,000 yeah I still want it a little bit
+15:34 higher maybe we'll take it up to
+15:37 4,000 there we go now I've got a little
+15:40 bit of the shouting on the wall let me
+15:41 do one more
+15:44 time get up a little bit more still
+15:47 maybe we'll take it up to
+15:50 7,000 I could Target it there we go
+15:53 7,000 there we go now we've got it now
+15:56 if I were to take this
+16:00 back into Korea sure let's take a look
+16:03 at what it does while I have
+16:06 you back in Kaa back to adance let's do
+16:10 a new one we're going to take that new
+16:12 screenshot let's see what it does with
+16:13 this one and I'll
+16:17 pause all right little unpause here we
+16:19 go and that went pretty W quick and I
+16:22 did a a 4K this time let's just see what
+16:25 this looks like which took away from
+16:27 some of my credits or something but I'm
+16:28 paying for for Korean now
+16:30 so to bad and let's see I mean it kept
+16:34 that those Sun shadows in there it did
+16:37 largely the
+16:38 same same edit super similar so if we
+16:42 were to go download this
+16:44 again think I have to hit it twice again
+16:48 yeah and let's see if we can't open that
+16:51 in
+16:53 Photoshop all right so we could open
+16:55 this in Photoshop or we could take this
+16:58 and just drag it in right so we take it
+17:01 and drag it in it would be really simple
+17:03 actually no let me open it let me open
+17:05 it because I think I get to apply last
+17:08 setting so if I go in fact I don't even
+17:12 need to open up camera raw I think I
+17:14 just get to hit cancel and there it is
+17:17 right under filter it saves the last
+17:20 camera raw filter that I
+17:23 did this is a locked layer let's see
+17:25 does that make a difference
+17:29 doesn't seem to be doing any try
+17:34 this by previous setting there it
+17:37 is
+17:39 cool look at that I mean all in all we
+17:43 basically did that in about 10 minutes
+17:45 and it turns out pretty Dam good you
+17:47 would send this to a client right so we
+17:50 could do some Sky replacement again on
+17:52 this one like we did on that last one
+17:59 and with Sky replacement um keep in mind
+18:01 camera raw filters do work on Sky
+18:03 Replacements so if you wanted to you
+18:06 could come in here and do something
+18:08 that's got like a sunset mood in it
+18:12 um something a little
+18:15 crazier and after you get that sunset in
+18:19 there let's just do a little bit of
+18:21 fixing on the edge lines here so I'm
+18:23 going to take away so I'm going to hold
+18:26 my ALT key to minus so I'm minusing this
+18:28 this section right here as I draw over
+18:31 the top of it
+18:37 and plus
+18:40 adds
+18:46 opacity you working there it goes takes
+18:49 a few times you
+18:52 try this is how we can really kind of
+18:55 get up to that edge another way of doing
+18:58 this and I can just press okay is that
+18:59 we could actually change this based on
+19:02 um an object selection so for some
+19:06 reason the sky is not picking up the
+19:09 building the way you want it to you
+19:11 could try to
+19:12 highlight that building using our object
+19:15 selection tool right and actually look
+19:18 at this this did a pretty good job of
+19:20 just catching the sky right and then we
+19:23 could use another tool such
+19:27 as guy to to subtract part of that
+19:33 selection hold the ALT key to do
+19:39 subract so this helped me kind of Target
+19:42 that sky so I could come back in to the
+19:45 mask on the sky itself and invert the
+19:50 selection control shift I and mask out
+19:53 that part of the building that was kind
+19:55 of overlaying you're going to do that on
+19:58 both these Mas right there you go rid of
+20:02 that it's kind of a shadow overlay
+20:04 coming in from that repl so the cool
+20:07 thing about the sky replacement is I
+20:10 believe that we
+20:13 can without the selection I think we can
+20:17 use the sky replacement group or Sky
+20:19 replacement
+20:21 itself let's just do a camera Raw on the
+20:25 sky
+20:26 replace there are filters that are pre
+20:28 done for adaptive
+20:32 Sky do
+20:35 this yeah these are built for this
+20:40 but got do it on the main layer
+20:44 here M layer is not going to include the
+20:47 sky plate interesting so maybe we Stamp
+20:50 It Forward control shift Al a and then
+20:53 control shift
+20:54 a and those filters now will be adaptiv
+20:58 sky is we're just editing the sky with
+21:01 these yes just edit the sky Isn't that
+21:08 cool yeah pretty W anyways leave a
+21:11 comment on this let me know if you got
+21:13 any questions on how we did all this and
+21:15 I'll see you around
+21:29 [Music]

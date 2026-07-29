@@ -1,0 +1,405 @@
+---
+videoId: -g8k4aEn5hk
+title: VIP Hotkeys Session 5
+url: "https://www.youtube.com/watch?v=-g8k4aEn5hk"
+status: imported
+---
+
+# Transcript
+
+0:00 okay VIP we're getting our money's worth
+0:02 on this month because this is session
+0:04 number five and I already learned some
+0:05 things from session number four this has
+0:07 all been one day and I just put down my
+0:10 work because after trying a couple of
+0:12 these things
+0:14 um this is going to save me a thousand
+0:15 dollars on the year implementing some of
+0:17 this new stuff we just learned uh and
+0:18 I'm learning with you so I just learned
+0:20 some new stuff let's put it to use
+0:23 um so this is tying into how I was
+0:26 creating stacked tags now we have a way
+0:29 to initiate those stacked tags very very
+0:32 quickly and so this is huge to me so
+0:35 first up I applied a five millisecond
+0:39 lag to all the quick tools so now when
+0:41 we initiate a quick tool say the
+0:43 dishwasher here for instance that is so
+0:46 fast
+0:48 um blink of an eye fast right so
+0:55 and actually it might be too fast so
+0:58 something's interesting here something's
+1:00 happening where
+1:01 it's not actually giving me the
+1:03 dishwasher right now why is that because
+1:05 it was the last thing I searched let's
+1:06 try an oven
+1:07 okay so there's Evan so it might be you
+1:10 have to click off of one thing and click
+1:12 on to another if it was already the last
+1:13 search that you did that makes sense
+1:15 totally
+1:17 we could add the enter key into the mix
+1:20 does the enter key give us that tool or
+1:23 a space key give us that tool no it
+1:25 doesn't you almost have to tab into your
+1:28 search results and then press enter to
+1:30 make sure that it's
+1:31 enabled but that doesn't really matter
+1:33 so long as you click off of it and click
+1:35 onto it again you're going to get
+1:37 exactly what you need all right so very
+1:40 very quickly I can get my kitchen quick
+1:42 tools that's just incredible to me it's
+1:45 going to save me a ton of time right
+1:46 there designing a bunch of kitchens
+1:48 here's the next one I went through and
+1:51 anything that was a multi-stage thing I
+1:53 changed the sequence interval or the
+1:55 sequence pause setting to five
+1:57 milliseconds and just to test it out
+1:59 well what do we have let's select this
+2:01 cabinet in our edit toolbar we know we
+2:04 know from session two I think that my
+2:07 multiple copy is a multiple stage thing
+2:09 that gives us to my copy interval so
+2:12 let's try that out
+2:13 here's the copy interval
+2:15 and yeah that's so much faster
+2:17 incredible
+2:19 here's the next one let's try a voice
+2:22 search in library so it's going to be my
+2:25 hotkey for libraries alt U I know I'm
+2:27 going to change that but for now it's
+2:28 all you so it's all you all you it
+2:31 assumes library is already open so it's
+2:32 closing it down opening it back up
+2:35 and is that necessary
+2:38 yes because we just need to get Target
+2:41 the library browser window so all you
+2:44 all you and then it's control all and
+2:46 then it's Windows H for voice so trick
+2:49 check this out
+2:52 cabinets
+2:56 there you go super fast you see that
+3:00 pretty crazy
+3:03 right so now you can do a voice search
+3:05 if you wanted to
+3:06 you know maybe you don't who knows all
+3:09 right now let's check this next one I
+3:11 want to clear all tags so I made a
+3:13 filter that had no tags and nothing else
+3:16 it had nothing it's just a clear tags
+3:19 filter so if I go click a bunch of tags
+3:21 here and now I initiate this here we go
+3:24 I've got well it's the erase icon so I'm
+3:26 going to swipe that erase icon bam
+3:28 clears those tags super fast now let's
+3:32 try a tag initiator this is going to be
+3:36 um what is it all you all you eight tabs
+3:40 Enter key
+3:43 um back bracket
+3:46 six tabs and then that's it okay and
+3:50 that gets us to the tags search all
+3:53 right so here's that so tag initiator
+3:55 boom gets us there let me hit that same
+3:58 radial menu again and you see here I
+4:00 have a light tag let me swipe on light
+4:03 tag what does it do types in light hits
+4:05 enter
+4:07 boom super fast now notice that was a
+4:10 little slow so I need to go back and
+4:12 check the
+4:13 millisecond interval there let me try
+4:16 that again actually let me just clear
+4:17 this we're gonna well actually I don't
+4:19 even need to clear this I made sure to
+4:21 put control a in my light tag so it's
+4:24 already going to select whatever in its
+4:27 active text window
+4:28 yeah so that's typing out a little bit
+4:30 slow so I want to check what that
+4:31 interval is so the thought here is that
+4:34 you get to just keep swiping on tags so
+4:37 let's make a new tag I'm going to get
+4:39 into my 3dxware
+4:45 let's get into buttons this is my
+4:48 library tools so I need to make sure I'm
+4:51 Library tools we're going to edit that
+4:55 and then my light tag here I want to
+4:58 duplicate this light tag but we can't do
+5:01 that within the editor so how do we do
+5:03 this
+5:04 um or within the driver package so how
+5:06 do we do this so I'm going to say new
+5:08 macro
+5:10 okay and we're going to call this
+5:11 something else we'll just call this wall
+5:13 tag okay
+5:16 it's going to make this a wall tag and
+5:18 I'm going to just type in a shortcut
+5:20 here I don't think it matters what it is
+5:22 and I'm going to click save
+5:24 all right now let me go ahead and do a
+5:27 couple of these
+5:28 new macro
+5:32 and we'll call this one
+5:35 um interior tag
+5:39 okay and I'm just going to type in
+5:41 anything I don't think I care what it is
+5:43 now let me stop the driver package stop
+5:47 3dxware
+5:48 I'm going to hit Windows tab this is
+5:50 going to bring up my windows let me hit
+5:52 this notepad plus it's going to ask me
+5:55 if I want to reload this config file
+5:57 which I do
+5:59 okay now I want to find that sequence
+6:03 well here I'm already on that sequence
+6:04 now we knew that the light tag was too
+6:07 slow why because it was at that 120
+6:10 second pause interval let's set this to
+6:12 5 and then we can see here we've got
+6:15 wall tag and we've got interior tag
+6:18 which are those two new ones that I just
+6:20 created here's what I'm going to do I
+6:22 want to take a look at what we've got
+6:24 here look we've got button action to
+6:26 button action that's great we've got ID
+6:28 the ID is the important aspect we needed
+6:32 to initiate an ID now that we have this
+6:35 ID and the 3D driver package is stopped
+6:38 I'm going to take everything between
+6:40 sequence to sequence and replace it what
+6:43 am I going to replace it with you
+6:44 guessed it the light tag this is going
+6:46 to make this really easy to just kind of
+6:49 type in what I want right so I'm going
+6:51 to copy this and then I'm going to take
+6:54 sequence to sequence including pause
+6:56 here paste it at the wall tag and then
+6:59 am I going to do we'll just replace this
+7:02 text
+7:03 right w
+7:05 a
+7:08 uh L
+7:10 I don't know why it keeps bringing up
+7:12 that menu there L and we can delete this
+7:16 action and then leave that enter boom we
+7:19 just finished the wall tag now let's get
+7:22 into the interior tag same thing I'm
+7:24 going to copy paste this sequence same
+7:27 thing get in here and we're going to get
+7:29 uh what is this
+7:31 uh we are doing interior
+7:34 I don't I don't really don't like this
+7:36 drop down menu I wish I would stop doing
+7:37 that I'm gonna have to figure out how to
+7:39 get rid of that because that slows
+7:40 things down we could just go down arrow
+7:42 down arrow down arrow
+7:46 or hit Escape there we go
+7:52 and I don't know that I need to get
+7:54 super experience um
+7:57 specific on this I think I could just
+7:59 say interior and it would do what I
+8:01 needed to do so here we go we set this
+8:04 up let's go ahead and save this now I'm
+8:06 going to close down my find next I'm
+8:08 going to save this and then we're going
+8:09 to start that 3dxware package again
+8:13 let's get back into chief
+8:15 and we're going to test some things out
+8:21 all right so let's try the whole thing
+8:23 again
+8:24 we'll just start from the initiator tag
+8:26 initiator boom now I get to swipe on
+8:28 light tag
+8:30 that types it out puts it in place now I
+8:32 get to swipe on wall tag all right so it
+8:35 didn't do anything on wall tag we don't
+8:36 know why and let's do interior tag it
+8:39 did do interior tag that's interesting
+8:41 so what do we do wrong with the wall tag
+8:45 good question
+8:46 let's go see what the editor shows us
+8:50 maybe I did something wrong in the
+8:52 pasting so the code isn't valid very
+8:54 well could be
+8:55 so keep in mind you can mess this up
+8:57 real easy but it doesn't do anything per
+9:00 se it might corrupt it so make sure to
+9:03 make backups here so let's take a look
+9:05 at the wall tag let's see why it's not
+9:07 firing
+9:11 yeah we've got some corruption in the
+9:13 code which is probably going to make
+9:14 this thing crash
+9:16 oops
+9:18 yeah it won't even let us open it all
+9:21 right no problem so let's stop that 3DX
+9:23 where let's go take a look at the code
+9:27 I'm gonna reload it yes sure
+9:30 so wall tag wall tag ID and then we've
+9:33 got action IDs enter enter enter
+9:35 sequence over
+9:37 sequence pause equals five seconds
+9:40 I don't see anything wrong in here
+9:43 so now I'm going to have to do a little
+9:45 bit of troubleshooting or we have to get
+9:47 rid of that entirely
+9:49 right
+9:56 let's look at this line by line type
+9:58 equal sequence here's the wall ID that's
+10:01 correct wall tag name pause equals five
+10:05 seconds
+10:06 action ID all this looks similar
+10:12 is it that there were five it might be
+10:15 that this tag somehow indicates the
+10:19 number of characters
+10:21 because we didn't change the number of
+10:23 characters here in interior but we did
+10:25 in wall
+10:27 so if some for some reason it's missing
+10:29 an action ID let's just add it in
+10:32 so maybe that's important right so we're
+10:34 going to copy this
+10:36 we'll add one more action ID
+10:42 so something in the coding might be
+10:44 taking this on and then hopefully we can
+10:48 just delete that right so that's that's
+10:51 the thought here so let's say this start
+10:53 the package back up
+10:56 still feel like this is faster than
+10:58 having to go through and code all these
+11:00 just typing them out in in the actual
+11:02 notepad plus plus editor
+11:06 so let's get into that driver package
+11:10 and look at this
+11:12 uh oh
+11:16 we got issues
+11:19 oh you know what it is
+11:21 we gotta stop the video because my
+11:24 stupid thing's out of battery
+11:26 it's on dead empty
+11:29 all right let's try it out maybe we can
+11:31 get to it yeah it's on very empty
+11:36 I'm gonna figure out how to plug it in
+11:38 okay uh Library tools edit
+11:41 and then let's get to that wall tag
+11:43 let's see if we can edit this wall tag
+11:45 now
+11:47 it lets us edit the wall tag okay
+11:50 good so now we can save it let's when we
+11:54 save it we're K what curiosity is is
+11:57 does it change the
+11:59 um the timing on it right so let's try
+12:01 it let's just try wall tag
+12:05 still not doing what it should be doing
+12:09 light tag works
+12:11 interior tag works
+12:13 wall tag still does nothing interesting
+12:19 huh
+12:21 all right some troubleshooting for you
+12:35 control a w-a-l-l enter
+12:43 this should all be firing interesting
+12:46 let's just try it let's just input
+12:49 we'll just make sure that we're
+12:51 writing new
+12:55 so
+13:01 so now it's working but we definitely
+13:03 have to change the timing there
+13:06 so something has to do with the number
+13:08 of characters so for any tags that has
+13:10 so you should start with something that
+13:12 has few the fewest characters so
+13:15 whatever tag has the fewest characters
+13:17 right so we should be able to do all
+13:19 this and then the final macro I need is
+13:22 going from tags to actually searching so
+13:25 that's the next part which is we need a
+13:28 tab tab tab
+13:31 tab
+13:33 enter so four tabs and an enter okay
+13:36 so back to library tools
+13:43 and so now we need a new macro
+13:49 and it's going to be
+13:51 uh
+13:54 initiate search
+13:57 and we probably need some icons for this
+13:59 stuff
+14:01 so we said four tabs
+14:06 and then enter
+14:08 okay
+14:11 so now that we have that let's stop the
+14:13 driver package again
+14:16 and then Windows tab key should get us
+14:18 to notepad plus plus yes we do in fact
+14:21 want to load this again
+14:24 and here we go so there's our
+14:28 120 second pause we're going to set this
+14:31 to five set this to five
+14:34 and
+14:35 save it and load it back up and let's
+14:37 test it out
+14:51 and that just started
+14:53 all right so let's clear first
+14:57 all right that clear let's tag initiator
+14:59 now let's go light tag wall tag and
+15:03 enter tag bam look how fast that is and
+15:06 then initiate the search
+15:09 wow
+15:10 that is cool
+15:12 that is cool that is very very cool
+15:17 uh let me clear that search because you
+15:20 know light wall interior doesn't
+15:22 actually work so let me do tag initiator
+15:24 and I'm going to do
+15:28 um wall tag interior tag initiate search
+15:34 oh wait no I did that wrong again let's
+15:36 clear it again
+15:38 tag initiator and I want
+15:41 light tag and wall tag and initiate
+15:44 search
+15:46 wow and I've got search results
+15:49 that is really really cool that is
+15:52 really really cool
+15:55 um
+15:57 now it should be that after actually
+16:00 part of initiate search should be
+16:04 how do we get to our search Okay so
+16:11 let me reverse tab so shift tab shift
+16:14 tab shift tab shift tab that gets us to
+16:17 our search and now you can use arrow
+16:19 keys
+16:22 if you didn't want to use the mouse for
+16:24 some reason
+16:30 because then you could just use arrow
+16:32 keys to go through
+16:35 these results
+16:37 and would you want that
+16:41 or would you just be you're already got
+16:43 your hands on the mouse haven't moved
+16:45 your hand from the mouse
+16:46 I don't know that you'd want it maybe
+16:48 it's nice as an option
+16:51 not sure
+16:54 let me just try this all out again
+16:55 there's my clear
+16:57 tag initiator
+16:59 let me get light tag wall tag and then
+17:01 initiate search man that is so cool
+17:04 clear tag let's do
+17:07 light
+17:15 very cool there you go
+17:18 that's that right there should get your
+17:20 money's worth if you set this up I'm
+17:22 gonna put this in the shop though I'm
+17:23 gonna put a package in the shop because
+17:26 um that's a lot of setup that we've gone
+17:28 over and
+17:29 I'm just gonna start you know billing
+17:31 for a comprehensive setup and did some
+17:33 video on it but um anyways have fun guys

@@ -1,0 +1,908 @@
+Title: Community Challenge #4- Arched Cabinet in 30 Minutes using Chief Architect X-13
+URL: https://www.youtube.com/watch?v=m-c0SrcfvKE
+Visibility: public
+
+0:09 [Music]
+0:09 okay this is renee rabbit of rabbit
+0:10 design and this is the fun challenge
+0:13 number four posted on the cheetah forums
+0:17 and all the social platforms associated
+0:19 with chief architect i'm going to tell
+0:22 you now that i will be talking fast in
+0:22 this video and it's going to be hard to
+0:23 follow because we're time trying to make
+0:27 a time marker
+0:27 so um follow along if you can i can
+0:30 actually draft a little faster than i
+0:33 can talk so
+0:33 we are going to be moving fast through
+0:37 this i'm going to be utilizing style
+0:37 palette tools like this one right here
+0:39 place a window i've got a style palette
+0:41 tool that just turns this into something
+0:45 i could create a cabinet door out of
+0:45 it's a 48 inch window i need it to be a
+0:48 98
+0:48 inch window we're just going to do 90
+0:53 minus 48 on a tab input
+0:53 and then i want it to to be 24 inches
+0:57 wide
+0:57 open this bad boy up get to our arch
+0:59 panel set it to a round top left arch
+1:04 and then i want to add this to my
+1:04 library as a symbol and it's going to be
+1:08 a cabinet symbol it's going to be a
+1:08 cabinet door excuse me so front doors
+1:12 why not
+1:12 i'm not too worried about what the name
+1:15 of this is
+1:15 now let's set a full height cabinet
+1:17 i'm going to widen this guy up by 24
+1:19 inches i want them to be 48 total apply
+1:23 this front doors here and then i have a
+1:26 quick tool right here that is delete
+1:26 moldings that'll get rid of that just
+1:28 takes a little work out of this process
+1:32 you can see here the doors are swinging
+1:34 backwards so we can open this symbol up
+1:36 and reverse it
+1:36 not too worried about that i'm actually
+1:37 going to just flip it around not worried
+1:41 about the color coding there so replace
+1:44 those doors there we go
+1:44 open this up and this was kind of my
+1:45 process in figuring this out which is i
+1:51 want to delete everything in our front
+1:53 assembly except for just that pair of
+1:54 doors
+1:54 because we're doing a round top i need
+1:56 to figure out how i can make the cabinet
+2:01 box be that round shape so
+2:01 next thing i knew i wanted to put in
+2:03 some feet here either the tapered feet
+2:07 or maybe we'll just do the thin feet i
+2:10 need to take my filter off there we go
+2:12 straight leg thin
+2:13 and that's
+2:13 good so far
+2:15 let's get to my left and right side of
+2:21 the box and i want to set this to none
+2:22 and that's because i already know what
+2:22 i'm going to do for this and in case you
+2:27 didn't guess it i'm going to replace the
+2:29 back panel with something that's going
+2:29 to become the cabinet box for this whole
+2:34 assembly so back in box construction i
+2:34 was thinking okay let's go to frameless
+2:38 and no top no bottom
+2:38 and you can see here we still have a
+2:40 frame so the next trick we can do is go
+2:45 back to framed and set this to a zero
+2:46 inch and that's going to make this
+2:49 disappear over here so
+2:49 it's looking pretty close so far this is
+2:54 pretty much prepped for my next step
+2:54 and let's just go into plan view and i
+2:56 want to bring this off the wall and it's
+3:00 going to make a few things a little bit
+3:02 easier for me
+3:03 there we go
+3:03 let's tile this camera next to
+3:07 our working plan view and that way we
+3:09 can pull an elevation here and be able
+3:18 so we've got an elevation doesn't look
+3:20 like it's in vector there we go set it
+3:20 to vector i'm going to use a p solid and
+3:25 i want to snap it to
+3:25 our finished floor and i'm just going to
+3:31 select this input 90 inches overall
+3:32 and we want a
+3:35 48 inch width
+3:35 and then i'm gonna
+3:37 drag this bottom tab input four inches
+3:41 off the ground there we go so this is
+3:41 gonna be the cabinet box i'm gonna hold
+3:44 my f key
+3:44 and snap it to the center
+3:46 and then while i've got this selected
+3:48 i'm going to add some facets to this to
+3:51 make it more realistic instead of six
+3:54 sides we're going to make it 26 sides
+3:56 same thing hold that f key snap it to
+3:57 here
+3:57 all we've got this
+4:01 edge selected
+4:03 at 20 to this
+4:03 there we go now the next thing i want to
+4:06 do
+4:06 let's set our dimension we want a 24
+4:08 inch deep cabinet box and then i want to
+4:13 make a multiple copy and cut away from
+4:13 this and this is going to be the outside
+4:17 skin if you will or the or the main
+4:18 frame
+4:19 so
+4:19 multiple copies set this to three
+4:24 quarters of an inch drag this
+4:24 resize nose you can see we're making a
+4:27 bunch of copies here hit tab while i'm
+4:29 holding my mouse and then i can put in
+4:30 one inch and that means i'm going to
+4:30 make one copy and while i've got that
+4:35 one copy ctrl e to open it up hole in
+4:37 polyline solid
+4:37 and then on top of that i'm going to use
+4:43 my copy paste copy hold position now
+4:45 i've got a second copy
+4:45 i want this not to be a hole in the
+4:49 polyline solid it's still selected
+4:49 one more multiple copy set the interval
+4:53 and this is going to become a skin
+4:56 that's only a 32nd inch
+4:58 drag this in
+4:59 tab
+4:59 1 16
+5:01 now i can control e this hole in
+5:09 one more time control
+5:10 copy
+5:10 hold position
+5:12 open this guy up not a hole in polyline
+5:17 solid i'm going to set this to maybe
+5:19 we'll make it a 3 8 inch panel
+5:19 there we go we can see what's happening
+5:23 in 3d it's looking pretty cool so far
+5:23 now on top of this i want to copy it one
+5:29 more time hold position
+5:29 and this time i'm going to simplify
+5:34 convert this to a plain polyline
+5:35 i want to
+5:36 draw a cad line
+5:37 and from this cat line i'm going to use
+5:41 the trim tool and cut up half of that
+5:41 box so that when i go in and select this
+5:44 again you can see it's highlighted
+5:44 around here we're going to close that
+5:48 polyline i've now created half of the
+5:49 box
+5:49 i'm going to convert it back to a solid
+5:52 that means it's gonna stack it on top of
+5:56 what i've got here already
+5:56 and we'll make it three quarters of an
+6:00 inch
+6:00 from here
+6:01 i'm going to do that multiple copy trick
+6:05 one more time it's basically creating an
+6:08 offset and this time maybe we'll make it
+6:14 and bring that in
+6:14 inch and just over inch and a half oh
+6:17 you know what it says it's overlapping
+6:19 itself let's go ahead and back up a bit
+6:25 don't want it to overlap itself let's
+6:26 change that
+6:26 interval maybe it'll be an inch and a
+6:35 drag this in inch and a half will get us
+6:36 one copy
+6:36 and then hole in polyline solid
+6:39 you can see here i'm kind of creating a
+6:43 frame if you will in fact let's turn on
+6:43 our line over drawing option just so you
+6:49 guys can really see what's going on here
+6:50 so from here
+6:50 i can delete this guideline
+6:53 i can grab this guy let's copy him
+7:00 let's um spin him about a center
+7:00 which sometimes is tricky to get a hold
+7:03 of
+7:03 looking at the bottom of the screen here
+7:08 [Music]
+7:08 oh let's do it in 3d if i can't do it
+7:12 here
+7:12 oh there we go got it
+7:14 now that i've got that piece and select
+7:18 the piece next to it let's make a union
+7:20 out of it now it's one solid piece
+7:20 and i'm going to start doing some color
+7:23 coding on this
+7:23 so let's actually get in here
+7:26 and show what we've created so we've got
+7:30 that outside color we've got an inside
+7:33 color we've got a color back here
+7:37 and we've got a frame
+7:38 look at that
+7:38 it's looking pretty dang sharp
+7:44 back in plan view
+7:45 get in here
+7:45 select this whole assembly convert it to
+7:49 a symbol it is going to be a cabinet
+7:50 door drawer let's make this the cabinet
+7:53 box
+7:53 and let's do show advanced options
+7:56 we're going to get it into a couple
+7:59 details here
+7:59 one is that i happen to know
+8:01 that and i've done this before a few
+8:03 times so this was obvious to me i need
+8:07 to create an offset here
+8:07 so this offset needs to be the offset
+8:09 the total depth of this box and then the
+8:12 next thing is that this is going to be
+8:14 applied with this
+8:15 side
+8:16 um
+8:16 facing the back of the cabinet so i
+8:18 actually need to reverse this around
+8:21 just like that
+8:21 and that should get me the results i
+8:23 want the next thing in the options tab i
+8:27 want to treat this as a drawer front and
+8:29 that just makes it easy for me to apply
+8:31 it in case i made any mistakes because
+8:31 i'm going to basically say that the back
+8:36 of this cabinet is a drawer panel
+8:36 so let's open this up get it back into
+8:40 our front side back and then in this
+8:40 back section here i'm going to create a
+8:44 custom face
+8:44 same thing i'm going to delete
+8:47 everything but one section
+8:47 and this will become drawer
+8:51 panel just like that
+8:51 and i can just leave it here i don't
+8:53 actually need to go specify it from here
+8:56 because i can use straight from the
+8:58 library i should be able to
+8:58 just replace this look at that in that
+9:02 wild so we're getting there we're
+9:02 getting pretty close you can see the
+9:04 next problems that kind of arise one is
+9:07 our cabinet's too deep by default i have
+9:12 my upper cabinets at 27 inches deep
+9:12 so we need to make that 24 inches the
+9:16 next thing is we can see that these
+9:16 shelves are kind of protruding through
+9:20 our frame now there's a couple of ways
+9:20 we can handle this one is a new feature
+9:23 in
+9:23 x13 which is
+9:25 we've got our
+9:27 left and right styles or left and right
+9:31 reveals and we can play around with
+9:33 those numbers and get rid of this
+9:33 problem and these are applied on a
+9:38 side-by-side basis
+9:38 something that's easier than that get in
+9:42 the box construction and i'm just going
+9:42 to set this to negative one look at that
+9:47 those shelves kind of disappeared
+9:47 so the last bit of this is i can get in
+9:50 here
+9:51 and
+9:51 i'm just going to
+9:53 use our selection tool here select this
+9:57 face right there which is that front
+9:59 area i'm going to specify shells
+10:01 i'm going to do manual
+10:01 i think i need about eight or seven
+10:05 shells
+10:05 and spacing from previous i'm just going
+10:09 to set to zero what it's going to do is
+10:11 stack all these shells
+10:11 at the bottom of the cabinet which i'm
+10:15 fine with right now
+10:16 there we go
+10:16 and so if we open this guy up take a
+10:18 look at them that's what we're looking
+10:21 at so far
+10:21 and so we're already halfway there
+10:25 looking pretty good
+10:25 so let's get back to an elevation excuse
+10:29 me we'll stay working in plan view
+10:29 i'm going to start setting up a very
+10:33 good looking drawer
+10:34 and
+10:34 i'm going to spend a little bit of extra
+10:38 time on this for this video probably
+10:38 better than i did the first time around
+10:40 so
+10:40 i'm going to just start with something
+10:46 that maybe is like a 46 inch wide
+10:47 and
+10:47 this is going to be the front panel so
+10:48 it's either going to be like a 5 8 or 3
+10:52 4 inch front panel let's just do three
+10:57 and then let's set some other parameters
+10:59 thickness 12 finish for top 12 yeah we
+11:02 can stick with that that's fine i'm
+11:04 going to do another one
+11:04 just like this and this guy is going to
+11:07 be
+11:07 our cabinet box so i want this to be a 3
+11:12 8 inch cabinet box
+11:12 and i know that i'm gonna double
+11:18 double this first dimension
+11:18 and so maybe we'll make this nine inches
+11:22 so we're gonna make it like 18 inches
+11:23 deep
+11:23 box with a three quarter inch panel in
+11:27 the front
+11:27 and then i know that i want to create a
+11:29 dovetail out of this and the dovetail is
+11:33 going to be repeated because it's easy
+11:36 to do one section then repeat it
+11:38 so maybe we'll do
+11:38 let's see two inches let's go inch and a
+11:42 half
+11:42 and let's bring this inch and a half off
+11:47 the ground now with that
+11:47 and now i need to pull an elevation to
+11:51 get to that to start looking at that
+11:51 maybe we'll bring this elevation back a
+11:54 little bit
+11:54 let's get in here i need to change my
+11:58 default cameras to vector there we go
+12:01 some vector view there
+12:01 and get in real tight here and we're
+12:06 going to make a couple breaks
+12:06 i'm not too worried about where these
+12:07 brakes are i'm going to tab this over 3
+12:09 8 of an inch because we're going to have
+12:14 an interceding panel from the other side
+12:17 and then we can set this up actually i
+12:18 have a better dimension default i have
+12:20 very small dimension defaults this
+12:23 should change the arrow sizes
+12:25 they didn't change zero size
+12:25 close enough anyways half inch here
+12:37 and then all i'm gonna do
+12:38 is
+12:38 drag this down like that drag this down
+12:42 like that i'm not too worried about how
+12:46 accurate this looks honestly um
+12:46 and then let's do a multiple copy and we
+12:50 need to set that interval to
+12:50 that inch and a half that we set
+12:54 drag this up
+12:54 two or three let's just go up to there
+12:59 select all these and then we can union
+13:00 them
+13:00 and then from there we can copy them
+13:07 and rotate about itself
+13:09 and union this again
+13:10 now we've got one solid piece that's
+13:12 looking pretty good let's just take a
+13:15 look at what we've created here
+13:15 and even let's do a little color coding
+13:20 [Music]
+13:20 all this is is doing it all we're doing
+13:22 here is giving these items a material id
+13:27 so that we know that we can recolor them
+13:28 with some other materials that might
+13:31 look more appropriate
+13:32 back in my plan view i want to bring
+13:35 this in from the sides and probably
+13:37 bring it in
+13:37 oh i don't know inch and a half inch and
+13:42 a quarter inch and a quarter is fine i
+13:44 think
+13:44 there we go now i don't want to
+13:45 duplicate this about itself yet and
+13:47 that's because i'm not quite done with
+13:51 it yet and we'll get to that
+13:51 i'm going to go ahead and set another
+13:56 solid here and actually before i even
+13:56 get too far ahead of myself i'm going to
+14:01 set a center line just a reference line
+14:02 there's a cad reference line here's a
+14:05 cat reference sign there we go so
+14:06 i can grab this guy
+14:06 snap him to that that's really easy
+14:11 set this to 3 8 of an inch
+14:13 there we go
+14:13 and we know that this is an inch and a
+14:18 half off the ground that's fine
+14:18 we'll do it in 3d why not and then we
+14:20 can actually just snap this to the top
+14:24 oops zoomed in a little faster didn't i
+14:28 snap that
+14:28 to should be able to snap to the top of
+14:33 this doesn't want to does it
+14:33 let's just control through it in fact i
+14:37 want to be a little bit lower than the
+14:39 top and that's going to help it show
+14:39 same thing i want to pull this back a
+14:43 little bit
+14:43 maybe i'll pull this back at 30 second
+14:46 or something that's just going to show
+14:47 that dovetail
+14:48 look at that
+14:51 that's great
+14:51 right that's awesome
+14:54 okay
+14:56 so
+14:56 now that we've got that we can
+15:01 go ahead and grab this guy
+15:01 duplicate him split them across that
+15:05 center line
+15:06 select this
+15:08 union
+15:09 okay
+15:09 now that we've got that all together
+15:14 let's get into our solid tools
+15:14 and we're going to explode this
+15:17 and what that's going to give me is the
+15:21 ability to
+15:23 set
+15:23 a top grain on this piece which is going
+15:26 to make this look really realistic let's
+15:28 do the same thing here we're going to go
+15:31 ahead and explode this
+15:31 same thing we're going to color this a
+15:35 different color there we go
+15:35 now we've got a top grain bam that's
+15:38 awesome i'm in contain selection mode so
+15:43 i should be able to select this whole
+15:44 section here
+15:45 now
+15:45 that i've exploded it color coded it i
+15:50 can split it across this middle here
+15:51 same thing
+15:51 come over here select all this
+15:56 copy
+15:56 reverse it about this middle
+16:00 and we've got
+16:00 very good makings of a good looking
+16:05 dovetail cabinet box
+16:07 let's draw this
+16:09 bottom in here
+16:09 and what do we know we know that this is
+16:13 inch and a half up but maybe we'll go
+16:15 inch in i don't know
+16:15 5 8 or something an inch and three
+16:19 quarters actually
+16:21 why not
+16:21 and then we can actually just control e
+16:26 this we can keep this guy in place and
+16:28 set this to maybe it's a quarter inch
+16:31 cabinet bottom paste this back
+16:33 [Music]
+16:33 and let's switch to an unfiltered look
+16:38 for stripes i'm sure i'll just find
+16:40 something
+16:40 something like that
+16:43 here we go
+16:43 that's looking pretty sharp now i want
+16:47 to do some stuff in the front of this
+16:50 cabinet so let's get to that front
+16:50 elevation hopefully i'm in front of yeah
+16:54 i'm in front of it here a couple things
+16:54 just going to draw another cad reference
+16:59 mark right there i'm also going to i
+17:00 don't know draw
+17:00 let's go over three inches and up
+17:04 and then same thing over three inches
+17:08 and
+17:08 could have done this a couple different
+17:10 ways but there we go
+17:10 um so that way when i select this i'm
+17:13 just going to make a couple breaks here
+17:16 and here
+17:16 drag this down a little bit i'm
+17:21 essentially making a grip
+17:21 from there i'm going to fillet this just
+17:27 to center play this just the center here
+17:29 and then maybe i'll lay this only just a
+17:31 little bit something like
+17:31 i tabbed that in by the way held my
+17:35 mouse held the f key
+17:35 do it again hold the f key
+17:37 bring this in keep holding it hit tab
+17:43 sixteenth of an inch
+17:43 where did i say eight last time i did
+17:45 eight dang it let's try it again f key
+17:50 drag this in tab
+17:50 eighth of an inch
+17:55 and that should look pretty dang
+17:57 good
+17:57 now same thing we're just gonna blow
+18:05 blow him up and we've got one more color
+18:07 to work with here
+18:07 so i've got this purple and i'm gonna
+18:09 have to fill in here just a little bit
+18:12 we're gonna get some vector lines
+18:19 but love that
+18:19 yeah that's awesome okay
+18:22 uh let's move this elevation camera
+18:24 forward so i'm just gonna grab this guy
+18:28 right here really easy to just drag him
+18:30 around get him in front of here
+18:30 just like that that way i can see the
+18:32 side of the cabinet boxes and i'm gonna
+18:38 draw a couple of railings i'm not
+18:40 not too worried about
+18:40 what this looks like actually
+18:42 i don't know something like this
+18:45 quarter inch is a little fat something
+18:48 like this
+18:48 make a couple breaks in it
+18:54 we could make this uniform i'm not gonna
+18:56 spend the time on it it's already
+18:59 getting way too detailed
+18:59 more detailed than it needed to be
+19:01 maybe we'll stand this out just a little
+19:04 bit
+19:04 there we go and in 3d we can see what
+19:07 that just did
+19:08 i'm just going to grab this drag it to
+19:11 the front
+19:11 and you can see here it stopped at this
+19:16 section here so that really is
+19:19 probably fine for me um
+19:19 so when i look back in 3d and i want to
+19:23 grab this
+19:24 section
+19:24 and just
+19:26 you guessed it dupe it across itself
+19:34 and that should be it that should be my
+19:35 drawer
+19:35 okay that's a drawer so um kind of the
+19:41 next thing is i'm going to hit l the l
+19:43 key for just line right and then once
+19:43 i've got that i can restrictively select
+19:48 all the cad and just delete it
+19:48 that way once i get this camera out of
+19:52 the way i can just do a contain
+19:52 selection on this cabinet box and
+19:56 create we're not going to create a
+19:57 cabinet door we're going to create some
+20:00 mill work
+20:00 so and we can leave it advanced this is
+20:05 rabs what are we going to call this
+20:05 beautiful door don't know how to spell
+20:14 and we can show advanced options because
+20:15 we're going to need to do some things
+20:15 we're going to have to play around with
+20:17 stretch planes
+20:17 because i happen to know stretch planes
+20:21 very well
+20:21 and that being said i know that i need
+20:25 three stretch planes in the
+20:27 z delta
+20:27 so we're gonna need three separate
+20:30 stretch planes
+20:30 i think we're gonna start with just
+20:36 under inch and a quarter so 1.48
+20:36 i guess once and a half i mean because
+20:40 the bottom of that cabinet should be
+20:40 right underneath the bottom of the box
+20:44 i don't want to go right above the
+20:44 bottom of the box too i think maybe like
+20:49 six
+20:49 might need to be a little higher than
+20:50 that maybe a six and six and a quarter
+20:54 or something like that
+20:56 and then that top one
+20:56 you probably make it like ten
+20:59 let's stick with that we're gonna have
+21:04 to play around with this um
+21:04 it's not immediately clear to me that
+21:08 this is built perfectly so
+21:08 here's our symbol we've dropped it in
+21:12 this is now a symbol it's not blown
+21:14 apart it's not a bunch of pieces
+21:16 so when i resize this
+21:16 i want to make sure the dovetail stays
+21:23 as it gets smaller and smaller
+21:25 and smaller
+21:25 in fact it's just flying into the ground
+21:29 okay we've got a couple problems here
+21:29 look at that our bottom our back frame
+21:34 is like disappearing
+21:34 and maybe that's because it was a little
+21:39 low is that a little low
+21:39 it doesn't seem to be a little low okay
+21:43 so that bottom stretch plane we need to
+21:46 fix so let's delete this
+21:49 back here open symbol
+21:49 and okay it kind of rounded up so maybe
+21:54 inch and a quarter
+21:54 and then let's play it place it and same
+22:00 thing let's drag this down
+22:00 and even pick it up off the ground so we
+22:04 can see what it's doing
+22:04 drag it down some more look at that the
+22:09 box actually gets lower i don't need
+22:09 this drawer to be less than six inches
+22:13 though so
+22:13 if our box stays correct
+22:16 it does not so we still gotta play
+22:18 around with these stretch planes just a
+22:23 little bit
+22:23 one more time
+22:24 oops wrong one
+22:27 a beautiful door
+22:32 inch and a quarter inch and three
+22:34 eighths maybe
+22:34 is better maybe we need to drop this
+22:41 down to like eight let's try that
+22:41 and let's see if we can shrink this guy
+22:51 that box is still showing up below
+22:55 so we need to again drop that
+22:57 bottom
+22:58 let's make it an inch
+23:00 let's keep this at nine inches
+23:07 [Music]
+23:07 i'm good at stretch planes but i'm not
+23:12 that good because i'm not that good
+23:12 look at that even at seven inches we're
+23:16 dropping below this guy
+23:16 i don't want that to happen
+23:20 it's not good
+23:33 have to bear with me now let's see so
+23:35 what's happening here
+23:41 we've got stretch playing an inch and a
+23:44 half and that should split that
+23:44 we probably need to drop it even lower
+23:50 let's just make it three quarters
+23:51 [Music]
+23:51 i think this is it guys i think this is
+23:56 it i'm going i'm running out of time my
+24:00 time marker the speed run
+24:03 [Music]
+24:03 oh that's that's close but
+24:09 it's almost like you can't be lower than
+24:11 seven inches
+24:11 so you can see you kind of have to play
+24:15 around with this to get that
+24:19 last try and then we're going to adjust
+24:22 the size of that section
+24:25 [Music]
+24:26 if i
+24:26 increase this to 10 and increase this
+24:33 to seven
+24:34 what do we get
+24:44 yeah still have that
+24:46 issue so
+24:46 it's almost gonna be an eight-inch
+24:48 drawer you know what we're gonna stick
+24:54 modified after this video
+24:56 okay
+24:56 so here we go specify our shelves
+24:58 and which means we're gonna change these
+25:02 shelves around just a little bit all
+25:02 shelves shell number eight let's pick
+25:04 this library item in fact before we even
+25:08 pick their library item i know i want to
+25:09 roll this out we're gonna roll it out
+25:11 like 70 percent
+25:11 something like that and the thickness of
+25:15 this one we'll make it 10 inches
+25:18 um spacing from previous is fine
+25:18 that's all great library item and we're
+25:23 going to pick our beautiful door
+25:25 it's actually a drawer
+25:25 it's going to come up with that dialogue
+25:28 that's fine
+25:28 number six same thing i want to roll
+25:30 this out maybe we're going to roll it
+25:33 out 30 percent
+25:33 it's thickness height we can make this
+25:38 make this an 8 inch
+25:38 and then our we've got all that library
+25:43 item
+25:43 beautiful door
+25:45 drawer
+25:45 we need to change that name
+25:50 okay
+25:50 and then this guy right here roll it out
+25:54 what are we gonna roll it out i don't
+25:55 know 40
+25:56 and we're gonna make this
+25:59 seven inches or
+26:00 let's just keep it at eight inches it's
+26:03 fine
+26:03 and then library item
+26:11 beautiful door
+26:13 so
+26:13 uh and then we've got two shelves here
+26:15 so these shelves kind of cap the drawers
+26:19 and then this this shelf right here i
+26:22 want it to be like 16 inches away
+26:24 and i think i only want him to be
+26:24 an 18-inch shelf that looks about right
+26:29 and then
+26:29 this guy can be
+26:31 12 inches away and he's only going to be
+26:36 a 12-inch shelf
+26:38 [Music]
+26:38 well let's see what this is looking like
+26:43 it's actually looking it's looking
+26:44 pretty sharp
+26:44 and we can start to do some color coding
+26:48 now something that's interesting to me
+26:50 in this is i think i want to have some
+26:50 shelf um kind of shelf supports built in
+26:55 just on the back i don't even want them
+26:56 on the sides i just want them on the
+26:57 back
+26:57 um this is this cabinet's just built
+27:02 magically somehow
+27:02 so maybe we'll do that let's look at the
+27:06 time marker how much time am i wasting
+27:07 on this
+27:07 26 minutes yeah we're getting very close
+27:12 so
+27:12 let's get this cross section view here
+27:17 and
+27:17 this right here i can do something
+27:19 really simple which is as long as i
+27:22 paint on top of this blue section it's
+27:23 going to stack right on top of what i've
+27:26 already got
+27:26 and i can make this
+27:28 let's just call it a i don't know 3 8
+27:32 inch thickness
+27:33 and
+27:33 since we're looking at the drawers right
+27:38 there we're side by side with them right
+27:40 so i can actually take this and
+27:42 it's not going to snap but
+27:42 line this up pretty perfectly
+27:46 just like
+27:48 that
+27:48 and then i can control alt c
+27:50 drag this guy down so that he's
+27:53 pretty much lined up with this guy right
+27:58 there yeah he needs to come up just a
+27:59 hair
+27:59 quarter inch or something
+28:04 copy copy
+28:04 face paste
+28:06 flip the spout center
+28:07 i think this is going to make that work
+28:11 no it did not
+28:12 let's do it in 3d sometimes it's easier
+28:15 to catch the centers in 3d then
+28:17 elevation
+28:17 copy copy paste
+28:19 there we go about center
+28:24 um we could use
+28:24 this tagging right here
+28:28 why
+28:28 not and then now that we've got that
+28:33 in our plan view
+28:34 select this whole assembly
+28:39 and again
+28:39 create that on that mill work it's going
+28:43 to be this
+28:43 this guy right here cabinet box
+28:48 vision one
+28:48 right and we know that we need a couple
+28:53 things we know in 3d rotate rotate
+28:59 oh and one more thing we needed
+28:59 you to designate this as a drawer
+29:04 that way
+29:04 in our 3d
+29:06 pop this in replace it
+29:09 look we've got those support panels
+29:11 last part about this video is just doing
+29:15 some some color coding and some testing
+29:17 let's close this camera view and let's
+29:18 get a better camera in here and we're
+29:20 going to end up looking at some pbr
+29:23 stuff here in a second
+29:23 let's just maybe populate a light or two
+29:27 in front of this thing so we can see it
+29:29 and
+29:29 let's i can use my wood builder tool
+29:33 which
+29:33 ends up looking pretty sharp most days
+29:38 we're in component mode so we're just
+29:44 i just really want to look at what this
+29:47 looks like before i do any editing on
+29:48 um
+29:48 overall you know colors and everything
+29:54 yeah i'd say that crane can go that way
+29:54 maybe we're gonna flip it for this other
+29:56 way
+29:56 that looks about right how about this
+30:01 yeah that looks good
+30:01 and let's get our material picker and
+30:03 just grab this maybe we'll do the whole
+30:08 body white
+30:08 that's looking good
+30:09 we can do some end grain stuff
+30:12 um we can even make a new material here
+30:17 using new tools in in chief and because
+30:18 this is
+30:18 a color builder tool it uses the colors
+30:23 that you choose to make somewhat
+30:23 realistic looking wood so we can get
+30:27 some
+30:27 kind of changes here in definition like
+30:31 we can do a component material mode to
+30:34 edit this guy right here make a copy
+30:34 and same thing kind of darken him up to
+30:38 get a little contrast in this
+30:40 whole cabinet assembly
+30:42 there we go
+30:42 and let's look at let's let's see what
+30:51 boom this light's not the greatest light
+30:53 let's grab another light throw it right
+30:54 there
+30:54 [Music]
+31:00 yeah that's looking pretty sharp
+31:00 looking pretty look how great that
+31:12 man that looks good i might go in here
+31:14 and adjust a few things i kind of like
+31:16 how these shelves are kind of overlaid
+31:18 over the top of the drawers but
+31:18 um it would be easy enough to fix those
+31:23 and and that's a simple process you go
+31:24 in here
+31:24 specify shelves and we know it's the
+31:28 shelves that are in between here
+31:28 and we're going to specify the overall
+31:33 looks like they needed to come back
+31:33 um like minus three quarters something
+31:36 like that
+31:36 so minus three quarters there
+31:41 [Music]
+31:41 so that was 22 and a half
+31:50 if you didn't know what i was talking
+31:50 about you're going to see it right now
+31:52 look at that now they've kind of flushed
+31:55 up with those drawers
+31:55 as a professional looking cabinet guys
+31:58 and i bet you i just went over the time
+32:01 marker
+32:02 31 minutes yep sorry about that i lied
+32:08 but that's looking pretty good
+32:08 just some additional color coding and
+32:11 this is a fully functional
+32:11 cabinet an arch top and it's going to
+32:14 report to your cabinet schedule in fact
+32:16 let's just take a look at what that even
+32:19 looks like
+32:20 um
+32:20 in my project browser
+32:23 we're going to have our schedules
+32:27 cabinet schedule
+32:27 and what do we see
+32:29 24 inch depth 90 inch height
+32:31 well it's a peninsula utility cabinet
+32:36 interesting interesting label
+32:41 this is kind of an example of production
+32:43 drafting i'm moving really fast while
+32:44 i'm
+32:44 um production drafting slash training
+32:46 while i'm training people and what to do
+32:49 so
+32:49 it's like a pre-recorded session this is
+32:52 something i offer
+32:52 um but yeah if you guys
+32:55 questions hit me up i'm easy to get a
+32:57 hold of this was pretty easy to recreate
+33:01 if you've got questions about building
+33:03 this cabinet hit me up
+33:03 maybe i'll do a slower tutorial on this
+33:08 and go over all the details i will say
+33:09 you can do a lot of things a lot of
+33:11 variations with this
+33:12 the
+33:12 the back panel
+33:14 is separate from the front so you can
+33:19 actually split your front assembly
+33:19 and have split drawers inside of this
+33:22 cabinet that's possible so keep that in
+33:26 mind this isn't just
+33:26 you know a singular effect that we've
+33:30 got here you can do a great number of
+33:31 things
+33:31 utilizing some of the tricks that we
+33:34 just did
+33:35 so
+33:35 i hope this was eye-opening for some
+33:37 people hope you got something out of the
+33:41 video please subscribe to the youtube
+33:42 channel
+33:42 cool talk to you soon

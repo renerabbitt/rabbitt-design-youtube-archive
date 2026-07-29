@@ -1,0 +1,129 @@
+---
+videoId: hn-34kOU_BI
+title: Custom Muntins In Arched Window Using Chief Architect
+url: "https://www.youtube.com/watch?v=hn-34kOU_BI"
+status: imported
+---
+
+# Transcript
+
+0:04 I was about to finish this little window
+0:06 here and I realized hey you know what
+0:08 this is probably make a pretty good
+0:08 tutorial so why don't we do that why
+0:11 don't we get into a little bit of a
+0:11 tutorial and so here's what I'm going to
+0:17 do I'm going to I already have these CAD
+0:20 lines here these are snapped
+0:20 to my moons over here my lights
+0:29 right so the next thing is I need my
+0:30 verticals
+0:30 okay and so here we go number of
+0:33 different ways we can do this I'm going
+0:37 to go ahead and draw through the center
+0:40 line of the window all the way down all
+0:40 right and then I need a total of one two
+0:46 three
+0:46 four five of those so I can just
+0:49 multiple copy set this to four drag out
+0:53 four and then what you'll notice is I've
+0:57 got this down here this is actually a
+1:00 line that was snapped to the inside
+1:00 right inside of these um sashes so if
+1:03 I'm using intersecting mode I can just
+1:05 grab these and use that align distribute
+1:10 along line tool highlight that line over
+1:14 here space evenly distribute between end
+1:16 points and there is a little glitch in
+1:16 elevation that's going to push it off to
+1:19 the side that's okay I can just Center
+1:19 it back up on the window no big deal the
+1:23 next thing I want to do is I want to
+1:23 just take this and I can do a a little
+1:25 point to point and drag it just populate
+1:32 it up here and then set it to Arc it and
+1:33 then snap
+1:33 this snap this right in here like that
+1:37 okay so now I can use this to trim okay
+1:43 use this to trim now maybe an easier way
+1:47 to trim this because you need to be able
+1:50 to draw through these lines right so
+1:51 maybe an easier way to trim this is
+1:51 first extend these lines let's extend
+1:53 them so we're going to take this we're
+1:57 going to use the extend tool draw a
+1:57 lines through there it's now extended to
+2:01 to this upper section now I can delete
+2:04 that now I can select that upper Arch
+2:04 and I can use the trim to draw through
+2:11 that and there we go look at that
+2:11 beautiful my next step is I want to take
+2:15 this Arch and I'm going to move it down
+2:17 and I'm going to move it down the same
+2:17 distance as whatever this grid seems to
+2:21 be which let me just draw out of line
+2:25 tab input 9 and 316 so here we go I'm
+2:26 going to copy this I'm going to bring
+2:30 this straight down 9 and
+2:30 316 bam that's perfect what do I do next
+2:37 same thing I'm going to do that trim
+2:37 only this time I'm just going to trim
+2:41 excuse me I'm going to do that trim
+2:41 going trim on one side trim on the other
+2:47 there we go the other thing I want to do
+2:49 is I can just bring this back I can just
+2:52 bring this back and snap it just like
+2:54 that and let's switch that line tool
+2:54 snap this to the inside we could just
+3:00 take this copy paste
+3:00 right kind of same thing here line tool
+3:04 is going to it's going to be a little
+3:05 bit of an off
+3:05 angle there we go now that's looking
+3:12 pretty close it's looking pretty
+3:12 close let's see what the problems might
+3:18 be if we go ahead and convert this now
+3:20 let's use that intersected to se um to
+3:23 select everything turn it into a cad
+3:27 block now select the window and hit
+3:30 that this one right here
+3:32 load
+3:32 muttons so what do we get do we get
+3:34 Center of do we get Center of window on
+3:39 this
+3:39 um call in a mton actually it's offset
+3:43 right we can see here here's the center
+3:46 line actually no that that's true Center
+3:50 Line the window so everything's lined up
+3:53 vertical that's all good uh what's one
+3:53 thing we did that we shouldn't have done
+3:58 well we included that top arch with this
+4:00 that doesn't make any sense so we're
+4:03 going to want to fix that
+4:05 um and then other than
+4:05 that I think this looks pretty sharp so
+4:11 let's go ahead and unload that let's go
+4:13 ahead and Exploder CAD block let's take
+4:16 that uh top piece we need to it's
+4:16 connected to a little leg here you can
+4:19 see that let's disconnect it and then
+4:21 delete it now we can go ahead and one
+4:21 more time make this our CAD block I like
+4:26 to name my cad block because it ends up
+4:26 in our CAD block management anyway so we
+4:31 same Ms in this
+4:31 case and then select that
+4:34 window load them up and I think this is
+4:39 looking pretty
+4:39 sharp last thing is I just want to take
+4:41 a little breeze through I actually moved
+4:46 this wall out of place on
+4:46 purpose so that it was um pulled back
+4:51 far enough so that I could see the
+4:51 existing window now notice here I still
+4:56 have that little top Arch we don't know
+4:58 what's going on with that might need to
+5:00 fix that one more time
+5:00 yeah seems like I've still got that
+5:03 little top
+5:03 Arch but that's it hope that helps you

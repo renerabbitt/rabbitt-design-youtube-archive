@@ -1,0 +1,373 @@
+Title: Custom Millwork Layout Inside Of A Cabinet In Chief Architect X17
+URL: https://www.youtube.com/watch?v=OsMtaQQRK1I
+Visibility: public
+
+0:03 What's going on, chief architect people?
+0:06 Um, I've got this. Look at this guy.
+0:08 Isn't that cool?
+0:08 Someone wants to see someone had a
+0:10 request from their client where they're
+0:14 going to build out kind of really
+0:14 elaborate partitions inside of closet
+0:18 where the doors are shut. And you can do
+0:23 this, you know, a number of different
+0:24 ways. You can get really clever with
+0:26 this and easily do this a number of
+0:26 different ways. But what if you wanted
+0:32 to do this and have it as one cabinet
+0:34 reporting as one cabinet and you open
+0:34 the doors and it looks correct? That's
+0:39 where it would be challenging. And so
+0:39 that's that's what this video is about
+0:44 is can I recreate this just using one
+0:44 cabinet. Okay. Um and so yes, I'll show
+0:48 you how to do this. It's easier than you
+0:54 might think, but it's not dynamic.
+0:54 That's the only problem. All right.
+0:55 Right. So, I'm going to show you the
+0:59 method that I would use. Let me just
+1:01 bust in a full height cabinet here.
+1:01 We're going to make it um yeah, let's go
+1:10 42. Let's go let's go 40 48 wide. All
+1:10 right. And so what I'm going to do with
+1:18 this is um this is going to go this is
+1:21 going to build out the shelving to go
+1:25 inside of another cabinet of the same
+1:28 size. All right. So I first need to
+1:28 establish what the frame height is of my
+1:34 cabinet. What the overall size is of my
+1:36 cabinet. What's the dimension of
+1:36 everything that's going to go inside of
+1:38 this? We're going to have just single
+1:38 double doors. Maybe they're stitched or
+1:43 reinforced, whatever. Um, some kind of
+1:45 center center uh center rail. That's a
+1:45 support rail. So, let me delete until I
+1:52 get to those single doors. I want to
+1:52 note the overall item height is 83 and a
+1:56 quarter. And I want to note the item
+1:56 width is 45 1/2. In fact, I might even
+2:02 just take a little screenshot of this.
+2:02 And there we go. Let me press okay. And
+2:06 then let me paste that screenshot as a
+2:08 picture. And that way I have it as a
+2:08 reference. Cool. I don't need to write
+2:15 anything down. So after that, what I
+2:15 want to do is I want to fashion this to
+2:17 be that same size, that interior size of
+2:23 the box. And so I want to get rid of the
+2:26 toekick. I got rid of the molding. I'm
+2:30 going to change this to um an opening.
+2:32 Okay. And then what I want to do is I
+2:34 want to decide what the size of my
+2:34 partitions are. And in this case, I'm
+2:36 going to make them inch and a half. So,
+2:38 I'm going to change the box construction
+2:43 to a framed inch and a half box. All
+2:43 right. From there, let's go ahead and
+2:47 make sure that this is 45 and a half and
+2:56 that this is 83 and 14.
+2:58 Okay.
+2:58 And then the depth is going to be um
+3:01 because this is going to be inserted.
+3:04 All right. This is going to be a shelf
+3:05 insert. Basically need to know what the
+3:11 overall inset is in depth. So we're
+3:16 going to say 27 - inch and a half.
+3:16 This case and actually because this is a
+3:19 closet system, I probably would have
+3:19 done a lot less than that. Um but I'm
+3:23 just going to leave this as is. That's
+3:27 fine. Purpose of this video. And so
+3:29 front sides back. Get back in here.
+3:29 Here's where I get to just configure
+3:31 this. And I'm going to use my picture as
+3:35 a reference. So I know that I've got um
+3:38 one major vertical partition. So I'm
+3:39 going to go ahead and throw that in
+3:39 there. So split vertical. All right.
+3:42 This is a little bit of an offset size.
+3:47 So let me make one size kind of 16, the
+3:50 other whatever it wants to be. And then
+3:51 uh let me get into this. We're going to
+3:54 split this once
+3:54 horizontal. I'm going to take that lower
+3:58 section is just shelves. I'm going to
+3:58 split this again horizontal. I'm going
+4:01 to take that next opening it, make it a
+4:03 drawer. Maybe it's going to be like an 8
+4:08 in drawer bank. And I want to make sure
+4:08 that this lower section's a lot smaller.
+4:13 This is probably like a 30 in
+4:14 size. There we go. The other thing I
+4:18 want is I don't want a top, bottom,
+4:21 left, or right on this bad boy. So,
+4:22 we're going to get to that box
+4:22 construction. Say no bottom, no top back
+4:28 and front, sides back on the right hand
+4:31 side. say none
+4:31 on the left hand side. And you can just
+4:36 hover over this and type in none. There
+4:37 we go. And you're going to notice that
+4:37 we still got some face frame stuff going
+4:42 on, right? So, if we switch this back to
+4:43 front, we're going to make sure that our
+4:47 left and right um styles are set to
+4:47 zero. Boom. Just like that. And in fact,
+4:55 we can even switch this to the back and
+4:58 tab type in none.
+4:58 and shift tab to go back. Type in F for
+5:02 front. Look at that. We're learning some
+5:06 really quick keys and ways to navigate
+5:09 this super fast. Cool. This is looking
+5:09 like what I want it to look like. That's
+5:12 great. I'm going to get rid of the
+5:16 separation top and bottom.
+5:16 And you can see what this is starting to
+5:19 look like. I'm going to get rid of this
+5:22 little blank area there as well. There
+5:26 we go. I want to switch this to inset
+5:26 so that that drawer falls inside there.
+5:32 That's exactly what I wanted. I'm going
+5:32 to get rid of this guy here. This is the
+5:36 style that we're going for from what I'm
+5:38 looking at as the reference picture. And
+5:42 so in this 30-in shelf section, I'm
+5:42 going to change this to a manual shelves
+5:49 split evenly. Perfect. This upper
+5:49 section is just going to be an opening
+5:52 with no shelves. Now, I will say you can
+5:59 make a very custom shelf here. In fact,
+6:01 let me show you how to do that. I'm
+6:01 going to say one shelf instead. Look at
+6:05 this. I'm going to say the thickness
+6:05 height of the shelf is 3 and 1/2 in. The
+6:11 depth of this shelf is not full. I'm
+6:11 going to specify it as 75 in. What does
+6:18 that look like now? Right. It looks
+6:20 like, you know, a nailboard, if you
+6:20 will. So, spacing from previous. Let's
+6:28 pump this up. Uh, let's add
+6:28 Oh, let's add something like 16 in.
+6:32 Did I do that wrong? Maybe I did that
+6:37 wrong. Let's go.
+6:37 There we go. I put it in the wrong spot.
+6:40 There we go. That's exactly what I want
+6:42 to look like. Now, you can manually
+6:42 place a closet rod or I could even show
+6:45 you a trick to put a closet rod in there
+6:49 where it's integrated into the cabinet.
+6:51 Not as important since we're going to
+6:54 convert this whole assembly to a
+6:54 different symbol class in a minute here.
+6:58 All right, so that's what this is
+7:00 looking like. Let me look at my
+7:00 reference. I probably had another drawer
+7:06 here. So, let me split this up one time.
+7:09 Let's make this split one more time.
+7:09 Make this another drawer. I'm looking at
+7:13 my reference picture. Actually, this
+7:13 looks like it was some kind of a cubby
+7:15 door. Something like that. Yeah, kind of
+7:24 fun. 12 in. And then this upper section
+7:27 had one more shelf in it.
+7:27 So there you go. I'm doing this all from
+7:31 the reference. That's what it looked
+7:31 like. So here is my finished product.
+7:35 Okay, this is what this is looking like.
+7:41 Now, I want you to note there's a recess
+7:44 here for my shelves. If you don't want
+7:46 that recess, if you want this all
+7:46 integrated in same size, there would be
+7:51 a really simple solve for this. We're
+7:51 just going to split more. So, all we're
+7:55 going to do is take this opening for
+7:58 instance. We get to just split this.
+8:02 Split it again. And the automatic
+8:02 shelves are just going to see that we're
+8:07 going to take that mill work out unless
+8:09 they're specified. So, same thing. This
+8:11 section up here, I specify the shelves.
+8:13 Let's kick it back to automatic. That's
+8:16 what it does. Split it horizontal. Same
+8:16 thing. We'll take this one other section
+8:21 over here. That lower section over here.
+8:23 If I could get to it. Where am I? There.
+8:26 Opening. Let's split this horizontal.
+8:30 Um, specify shelves. automatic. And
+8:36 Now, why did I do that? You'll see in
+8:36 just a second here. Let me press okay.
+8:42 This is all done. What I'm going to do
+8:42 next is one, I want to make a, you know,
+8:47 essentially leave this as a copy. So, I
+8:47 might throw this outside of the balance,
+8:50 put it on a custom layer where I'm
+8:50 hidden or something like that. But the
+8:55 next step is we're going to use the
+8:55 convert selected to symbol. convert it
+8:58 to a symbol and it has to be a specific
+9:02 class of symbol. It's going to be mill
+9:04 work. All right. And so what this is
+9:06 going to be is some kind of cabinet
+9:06 insert. Now before I did this, what I
+9:12 should have done is set up my cabinet
+9:12 beforehand because I actually don't want
+9:16 to add this to the library. This is
+9:16 something that is just a very unique
+9:18 piece that I'm only designing this one
+9:20 time. Maybe I want to save this piece to
+9:26 my library so that it can be manipulated
+9:28 later on since it's really gone through
+9:30 all the setup phase. But what I want to
+9:33 do is throw this guy in here. It came
+9:38 out to 48 in like we had before.
+9:38 And let me come to a 3D view here. I'll
+9:44 show you what I'm going to do is I'm
+9:51 open this guy up.
+9:51 Delete that section. Delete again. That
+9:56 gives me those double doors. And I do
+9:58 think that I need to add this to the
+9:58 library in a temporary capacity. So, let
+10:03 me take this. We'll add it to the
+10:03 library. Um, excuse me. Convert the
+10:07 selected to a symbol. It's going to be
+10:15 milwork.
+10:15 Okay. Add to library. Press okay.
+10:24 Custom cabinet mill work is in my
+10:24 library. Let me open this guy up. We're
+10:29 going to show open doors and roll out
+10:32 shelves. We're going to select that
+10:32 door. We're going to specify the shelf.
+10:37 We're going to manually it one. Hit the
+10:41 library. And if I got my dimensions
+10:43 right, this should not be a problem
+10:43 placing this mill work. It should just
+10:47 stretch in place. So, custom cabinet
+10:47 mill work. I'm selecting that from my
+10:50 library. Look at that. It fully fills in
+10:56 that section. Let me press okay. Look
+10:56 what this looks like. Isn't that cool?
+11:01 Let's go back to the specify. I just
+11:01 want to make sure that the depth on this
+11:06 is full to front. It is in fact all the
+11:08 way full to front. Now, if we said that
+11:11 box construction on this was inset,
+11:12 we're just going to get those doors
+11:12 inset and flush to this. All right. Now,
+11:18 just to show some things, let's go door
+11:20 drawer. And I'm going to say that this
+11:23 is framed doors and that they're glass
+11:25 so that we could see through this mean
+11:27 looking thing. Let's throw a light in
+11:27 here just to see what we're looking at.
+11:33 And
+11:33 look at that. Isn't that pretty cool?
+11:36 Right. What happens when we close those
+11:44 See right through that. Isn't that neat?
+11:47 Those are all integrated. Now, what did
+11:49 I forget? Yeah, there's a couple things
+11:51 in there. Probably would have had an
+11:51 integrated pole instead of this drawer
+11:56 handle, right? So, the hardware is
+11:56 something I should have removed before I
+12:00 converted that. You can always reconvert
+12:02 that. That's not a problem. Okay. The
+12:04 other thing that I would probably do,
+12:04 let me just break out my library browser
+12:09 here. In this, I'm gonna open this
+12:09 object up one more time. And in the
+12:13 materials
+12:13 um panel, this is something that it's
+12:16 kind of one of these elevated things as
+12:19 you get to start building these things
+12:19 out and becomes really poor important is
+12:26 the color of this. You want to select
+12:26 this material and you want to set it to
+12:34 your material defaults for cabinet door
+12:37 or cabinet either way. Let me set it to
+12:37 cabinet. What does this mean? All right.
+12:43 And let me just show you what this means
+12:47 is let's go ahead and apply this again.
+12:49 Well, actually before we apply it, let
+12:51 me get to the the defaults. Let me get
+12:53 to material defaults. I'm going to get
+12:53 to cabinet uh material defaults and then
+13:00 let me just do a little white oak here.
+13:01 Maybe I would have done maple or
+13:05 something like that.
+13:05 Use white oak. Let me press okay. So, I
+13:10 just changed the cabinet material
+13:10 defaults. What do you see happened here?
+13:17 Well, the cabinet itself followed those
+13:20 defaults. Look at my inset. It did not
+13:22 because it had a specific material
+13:22 applied. So, if you want this to be more
+13:28 dynamic, this is what we would do is
+13:28 we're going to trade out in this door
+13:30 drawer. Specify shelves. You notice we
+13:33 updated the symbol in the library to use
+13:38 whatever the cabinet default is. So I'm
+13:42 going to hit that library button again.
+13:45 Now this is partially off the screen.
+13:48 And there we go. This will follow the
+13:50 defaults.
+13:52 Perfect.
+13:52 Isn't that cool? Simple way of doing a
+13:55 build out here. So just rewinding this,
+14:01 you know, we've gone for 13 minutes.
+14:03 That's pretty quick. 14 minutes is
+14:03 you're just going to remove top of box,
+14:06 bottom of box, left, right, back of box.
+14:13 That right there is something that you
+14:13 could save to your library and use over
+14:17 and over again and then reconfigure.
+14:18 Let's just show you that real quick.
+14:21 We'll run through it real fast here.
+14:25 Oops, I'm blocking my light.
+14:25 We'll take a box. Okay, we'll say we're
+14:29 just going to make this none. We'll just
+14:33 make this a whole none area. So, we just
+14:35 delete all the front face items. In
+14:35 fact, you can take the vertical parent.
+14:40 Yeah, delete all this. Just leave it as
+14:42 a blank area. Why not? And then we go
+14:42 back. Remember, we can just tab and hit
+14:49 N. Shift tab, hit L. Tab, hit N. Shift
+14:49 tab, hit R. Tab, and hit N. Bam. We just
+14:56 removed all that stuff, right?
+14:56 Shift tab a couple times, you get back
+14:59 to side panels if you want to really
+15:00 learn how to be fast on this. Okay. Um,
+15:04 framed is going to be whatever you know
+15:06 your distances are. You might want to
+15:09 set this to inset
+15:09 has no bottom, has no top. Get to those
+15:14 moldings. Delete those moldings. Delete
+15:16 that to kick. You can just click on it
+15:18 in the preview here. It leaves us with
+15:18 just a front face item that we just now
+15:24 get to configure. Okay. So you can save
+15:26 this back to your library. Just make
+15:28 sure materials are following your
+15:28 defaults. So you can pretty much just
+15:30 shiftclick all these, select material,
+15:33 have it follow the defaults for cabinet
+15:38 material. In this case, it's not going
+15:39 to let you do it until you save it to
+15:39 the library. But let me just press okay.
+15:44 And that would be something I would add
+15:47 to the library as some kind of utility.
+15:47 Hope this helps you out. Um, this is the
+15:50 kind of content that I usually have in
+15:52 my membership area. I'm just now
+15:52 discovering that all my videos in my
+15:56 membership area are not searchable,
+15:56 which is crazy. How do you find all the
+15:59 cool videos I have in there if you can't
+16:02 search it? So, they're not getting
+16:02 indexed. They're not getting on Google
+16:07 SEO, any of that stuff. So, on this
+16:07 channel, you're going to start seeing
+16:08 more videos where I'm promoting some of
+16:12 the stuff that's in the membership area
+16:12 because it's good stuff. Anyways, enjoy.

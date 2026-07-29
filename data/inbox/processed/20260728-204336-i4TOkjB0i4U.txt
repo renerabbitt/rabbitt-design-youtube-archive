@@ -1,0 +1,199 @@
+Title: CA SHORTS-Railing Into Wall Next To Staircase in Chief Architect
+URL: https://www.youtube.com/watch?v=i4TOkjB0i4U
+Visibility: public
+
+0:03 really quick and easy offset stairs that
+0:05 dives into a full wall with a railing on
+0:08 one side diving into that wall did I I
+0:08 don't know if I described that right I'm
+0:12 going to do a click stairs real quick
+0:12 and then select the stairs and I'm going
+0:17 to select the brake tool and then in the
+0:19 subsequent edit toolbar we want to
+0:19 select add complete break okay once we
+0:24 have ADD complete break we can get in
+0:25 here real tight on the stairs and I'm
+0:28 going to just click along an existing
+0:28 tread line right there there there we go
+0:32 now we have a complete break what do we
+0:34 get to do with this well I'm going to
+0:34 slide this side in I'm going to hit tab
+0:39 or enter and punch in 4 and 1/2 in just
+0:41 make sure when Polar is checked that
+0:41 you're setting this to some degree that
+0:45 makes sense like 0° there we go so I've
+0:45 got a 4 and 1/2 in offset right here let
+0:51 me switch to my interior wall we could
+0:53 try drawing from up but that doesn't
+0:54 work so we're actually going to
+0:54 reference this inside there we go now
+0:56 we've got a wall right along that stair
+1:00 line and I might return turn this and
+1:00 have some kind of you know closet system
+1:04 under the stairs and then I can take
+1:07 this wall and drag it down now I
+1:07 actually want to leave this Brak in
+1:09 place and that Brak will retain if in
+1:14 fact we get into our general wall
+1:14 defaults under walls General wall and
+1:18 then we do want not want to Auto merge
+1:24 Coline your walls if you have this
+1:24 checked and you want this to remain
+1:26 checked you could do a few things just
+1:28 like nudging your wall a 16th of an inch
+1:32 something like that or changing
+1:32 something about the Assembly of your
+1:34 wall so that it doesn't just join back
+1:38 up again and the point of that is that
+1:38 we want this brake to retain so that it
+1:43 fills in the side when we extend this
+1:43 downward if I were to just extend this
+1:48 down and we're going to pull a 3D view
+1:50 which is probably the easiest way to
+1:52 understand what's happening
+1:52 here here's our 3D view you can see it's
+1:57 not actually completing the wall cap at
+1:59 the end here you could change it to a
+1:59 part partition wall to try to fix that
+2:01 but I do find that the easiest way to do
+2:06 this if I just tile these side by side
+2:08 is selecting this wall adding a break
+2:10 and there we go we see immediately on
+2:10 the 3D side that that filled in that Gap
+2:15 now on the 3D side it's really easy to
+2:16 understand where the end of this wall
+2:16 should be you could grab the edit handle
+2:21 and snap it to itself notice I'm picking
+2:24 up a snap there so once it snaps to
+2:25 itself now that wall is built right
+2:25 underneath the staircase here and the
+2:27 last thing we have to do is do a little
+2:31 bit of off offset on this stair now I'm
+2:33 selecting the stair I want to make sure
+2:33 that I'm creating a stairwell but before
+2:36 we do that we have to build a second
+2:36 floor if you're on a PC you get to use
+2:42 pneumonic Keys which is just alt b o o
+2:45 excuse me alt b o enter enter enter
+2:45 we'll get you to a duplicate upstairs
+2:47 and you could still select the railing
+2:51 on these stairs and then choose that
+2:51 auto stairwell and it's going to build
+2:55 that out and let me go back down one
+2:55 level here we go so last piece is let me
+3:00 select this stair open it up and I want
+3:03 to get into the railing panel and then
+3:03 we've got a horizontal offset so on the
+3:08 left or right side we could set a
+3:09 horizontal
+3:09 offset now keep in mind this is uniform
+3:15 on both sides that might affect your
+3:15 other side in a way that you don't like
+3:19 just in case that's a problem you can
+3:19 always turn off the railing on the left
+3:23 side and draw in your own so if I do a
+3:25 negative offset it's actually going to
+3:27 push it outwards towards the outer
+3:27 bounds of the stairwell as opposed to do
+3:31 a positive offset it's going to bring
+3:31 that in so if I do a 1in Offset you can
+3:36 see it's kind of bringing that nle in
+3:36 towards that wall that we just created
+3:38 now the next part of this might be that
+3:41 yeah maybe we want to do our own railing
+3:46 on the left hand side so you can get
+3:46 back into the plan View and let's just
+3:48 open this up we're going to turn off the
+3:54 railing on the left side okay now that
+3:56 we have turned that railing off it's
+3:56 going to be challenging to draw a rail
+3:58 over the stairs because we already have
+4:03 a wall here when we a railing is just
+4:06 another type of wall so if we draw a
+4:06 wall over a wall what's going to happen
+4:10 it's going to get rid of our lower wall
+4:11 that's kind of building out the
+4:11 underside of the stairs that I kind of
+4:16 want to retain so let's take a look at
+4:17 what we can do about that I'm going to
+4:17 actually draw out a railing and then I'm
+4:22 going to make it kind of off to the side
+4:23 here and I want to open this up and I
+4:27 want to designate that it has no room
+4:27 definition okay once I've done that and
+4:33 press okay I can in fact drag this over
+4:35 the top and it's not going to take over
+4:35 that lower wall the next thing I need to
+4:41 do is make sure that in that Wall's rail
+4:44 style panel okay we get down to the last
+4:47 section here and we check follow stairs
+4:49 and press okay now this railing will
+4:49 follow stairs so we need to bring this
+4:53 back to that snap so that it picks up
+4:53 accordingly and there we go we've got a
+4:57 nle post coming down we need to kind of
+5:00 line this up get it you know to snap to
+5:01 the other side if we
+5:01 want match that other side and we're
+5:08 going to notice that if in
+5:08 preferences and I believe it's in our
+5:15 let's see our edit menu here in
+5:15 preferences edit panel panel excuse me
+5:20 show start and end indicators that's
+5:21 kind of an important thing to have
+5:22 checked so you can do things like when
+5:24 we select this wall we see that there's
+5:29 a start indicator and an end indicator
+5:29 why is that important let's open this up
+5:34 what I want to do is I want to turn off
+5:37 autopost none on the end type and I'm
+5:38 just going to force it to none so that I
+5:44 have no nle post up against this side
+5:46 see that just got rid of that very
+5:46 important step so there we go we've got
+5:50 this kind of set up the way we want it
+5:53 notice that we still have this molding
+5:55 here is being produced by that wall so
+5:57 it might be that you need to convert
+5:57 your room moldings Okay so come back to
+6:03 a plan view I might need to in fact
+6:03 convert my room moldings that's going to
+6:07 be this guy make room molding polyline
+6:07 when I select that it's going to tell me
+6:11 which room molding we want to convert
+6:11 I'm going to press okay because this is
+6:13 the correct one that's my baseboard room
+6:19 molding and now I can tab into this and
+6:22 conform this room molding I might want
+6:24 to simplify the polyline to get rid of
+6:24 any breaks that happen from other walls
+6:29 right and then snap this to the other
+6:29 side there we go we can see in 3d that
+6:32 we do in fact have this molding kind of
+6:35 wrapping around and it looks like we
+6:35 need to mess around with our newal post
+6:40 to just get this thing lined up exactly
+6:41 right maybe we need to force it to a
+6:41 couple inches offset there we go this is
+6:46 starting to look uniform on either side
+6:48 and play around with that you could of
+6:48 course draw some kind of inference lines
+6:52 to reference the other side or you could
+6:55 just copy this railing to the other side
+6:56 as well that might be helpful you can
+6:58 notice that the pitch of these two
+6:58 railings is a little off so might be
+7:00 beneficial to copy this to the other to
+7:02 the other side get rid of the railing on
+7:07 the staircase itself all right because
+7:09 it does look in fact like this this
+7:09 staircase on this side excuse me the
+7:11 railing on this side's kind of running
+7:13 rampant doing its own thing so there we
+7:19 go now of course remember pull in on
+7:19 some kind of rate Trace view pop in some
+7:23 lights here take a shot for your
+7:23 YouTubes and everything like that proud
+7:37 [Music]
+7:39 that's
+7:39 [Music]

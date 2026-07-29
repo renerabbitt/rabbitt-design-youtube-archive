@@ -1,0 +1,232 @@
+Title: Adjustable Banquette With Angled Back and Cushions in Chief Architect X15
+URL: https://www.youtube.com/watch?v=LU_YGb3G3JA
+Visibility: public
+
+0:03 Hey Chief Architect people, um
+0:03 are you a little bit intermediate or
+0:06 advanced? That's what this video is
+0:08 going to be catered towards,
+0:08 intermediate or advanced user. I'm going
+0:12 to assume that you know how the tab
+0:12 input method and a few other things I go
+0:15 over here. It's going to be very
+0:15 fast-paced. We're going over how to
+0:21 create an angle back banquette with
+0:21 cushions. And I we want these to be a
+0:23 modular setup so we can use it over and
+0:28 over and over again, okay? You always
+0:28 put these together piece by piece, but
+0:30 to make it modular it takes a little bit
+0:33 more setup, takes a little bit more
+0:34 time.
+0:34 So, I like to draw a lot of these things
+0:38 just in my
+0:38 uh 3D views. So, we're going to start
+0:43 from a 3D view.
+0:43 Pull the camera here.
+0:45 And I like to kind of just set up some
+0:51 initial sizing, if you will,
+0:51 in my 3D view. So, I'm going to use a
+0:52 cabinet. And then from here, let's just
+0:57 make this
+0:57 48-in cabinet. We're going to say that
+1:01 it's only 4 in in depth, so we got to
+1:03 subtract 20 in from that, and we're
+1:03 going to say that it's 18 in tall. So,
+1:07 subtract 18.
+1:07 And now let's open it up. And then in
+1:09 the general panel, let's say it's 0-in
+1:11 thickness countertop. And then the front
+1:15 side's back, we can just hover over
+1:15 this, select and delete all these items
+1:21 till we get to blank face. That's all I
+1:23 need. Next thing up, I want to draw out
+1:25 just a solid. I don't really care where
+1:27 this is placed exactly. I'm just going
+1:28 to make sure that this is centered up on
+1:32 my cabinet here, and let me switch
+1:33 views.
+1:33 And I'll go ahead and take this solid,
+1:38 concentrically resize the width of it.
+1:40 All right? Then I want to do a back
+1:47 And from here, I can zoom in tight on my
+1:50 section, and we can use our move edit
+1:52 mode to kind of drag this up and snap
+1:52 it. And then snap this guy to the front
+1:55 face of the cabinet. Snap this back down
+2:01 to itself and subtract 20 in cuz I want
+2:03 to have a 20-in tall high back. I'll
+2:03 maybe move this in at an inch and a half
+2:08 or something like that,
+2:08 Now we can go ahead and close this view.
+2:14 Bring back to a 3D view. We're going to
+2:14 see here at There we go. There we've got
+2:18 our taper placed. Let me go ahead and
+2:18 color code this the way I want to and I
+2:22 can move it off to the side if I want
+2:25 to. And then let me also come in here
+2:25 and fill it. I've got my fillet set to 8
+2:30 in so I'm going to use a 3D fillet. I'm
+2:32 going to fillet these edges as
+2:32 just soften up the look of this
+2:38 before I convert it to a symbol. Now I'm
+2:40 going to convert this to a symbol from
+2:42 my edit menu.
+2:43 Okay?
+2:43 And I want to make sure it's a fixture
+2:46 class. I do need not need to add it to
+2:46 the library in this case if I don't want
+2:50 to. And then I want to make sure that
+2:52 the taper itself is oriented so that
+2:52 it's facing the camera. So let's get in
+2:57 the 3D panel, rotate it twice 90° so
+2:57 that it's facing us. And then let's get
+3:00 into that options panel and we're going
+3:02 to say that this inserts into the
+3:02 countertop and that this is a sink
+3:08 kitchen, okay?
+3:08 Now that we've got that all set up, go
+3:10 ahead and hover over and click and it's
+3:15 going to apply it to this base cabinet.
+3:17 Apply a material to this base cabinet.
+3:19 There we go. There's our base cabinet
+3:22 with a banquette angled back.
+3:22 Let's throw another cabinet in here and
+3:28 we're going to make this a 24-in wide
+3:30 and it's going to be 18 in tall. So
+3:30 we're going to subtract 18, but we're
+3:31 going to subtract another 4 in on top of
+3:36 that, right? So it's going to be
+3:39 whatever that is, 18 + 4.
+3:40 2 in.
+3:40 That 4 in is going to be the size of our
+3:45 cushion, okay? And then the other part
+3:47 of this is that I want to make this 18
+3:48 in tall.
+3:48 Back 6 in.
+3:53 There we go. I could of course center it
+3:55 up on this cabinet and we know that then
+3:58 it needs to only move um a number of
+4:01 inches this way, which is 12 in.
+4:02 There we go. That's lined up on that
+4:04 side, okay?
+4:04 Now, the next thing is I want to change
+4:08 some of these face items. I'm going to
+4:11 go ahead and delete this item.
+4:11 And we can make this to something like a
+4:15 door panel if you want. Got a framed
+4:17 panel.
+4:17 Retaining the toe kick, maybe you do or
+4:21 do not want to do that. And then in the
+4:24 general panel, let's uncheck uniform
+4:24 overhang and our left and right side.
+4:26 Just make it like a 16th of an inch or
+4:28 something like that. I'm going to press
+4:32 okay.
+4:32 Now, the next part is a little bit
+4:33 tricky. We're going to get in and look
+4:37 for a cushion in the catalog. Now, we
+4:37 have cushions in the catalog. They're in
+4:41 some of the bonus catalogs, okay?
+4:41 So, I'm going to actually turn off
+4:43 search online because I know I have a
+4:47 cushion in my
+4:47 idiot user catalog.
+4:57 And this particular cushion has some
+4:57 offsets, so I'm going to do some things
+5:01 that you do not need to do, which means
+5:03 I'm going to fix some offsets.
+5:03 In that 3D, I want to go ahead and
+5:07 set this Y position offset to zero. I'm
+5:10 just reverting this back to what it
+5:14 should be just out of the box.
+5:14 Advance sizing. Um for this case, I want
+5:20 to make this just short of
+5:22 width of my cabinet, so 23
+5:24 . maybe
+5:24 .5. And let's go 17.5.
+5:27 I like that 4-in depth. I don't need um
+5:33 the spacing on the left and right side
+5:34 there.
+5:34 There we go. That's looking pretty good.
+5:39 I want to first convert this to
+5:39 something to generate a new block based
+5:45 on my new size, okay? So, based on the
+5:47 new size, notice once I took away that
+5:49 left and right side, I
+5:49 didn't uncheck this update when object
+5:53 dimension change. So,
+5:53 we're actually going to change this back
+5:57 to that 23.5
+5:57 uh
+5:57 17.5
+6:00 All right.
+6:02 Now that I have that, let's convert it
+6:05 to a symbol. I don't need to show
+6:05 advanced options, and I don't need to
+6:07 add it to the library. This is just to
+6:12 generate a block. All right.
+6:12 That might have been an unnecessary
+6:15 step, but this will generate a new
+6:15 block. I want to edit that CAD block,
+6:20 okay? Now, this should be a 24-in
+6:20 overall size, or 20 3.5 overall size.
+6:23 That's great. I want to select this. I'm
+6:28 going to copy it.
+6:28 I'm going to paste hold back in what
+6:31 should be the center of my drawing
+6:31 sheet, all right? Then I'm going to
+6:32 select one of these inner circles, copy
+6:37 paste, and then I'm going to hover over
+6:40 this resizing node, and just draw this
+6:40 in a little bit. Not to the point where
+6:43 the fillet crosses itself, but just
+6:44 about there. And now I'm going to
+6:44 convert that to a countertop, and in the
+6:49 subsequent dialog box, I'm going to say
+6:52 that it has a hole in that countertop.
+6:54 Now I get to select all this together,
+6:56 generate a new CAD block that we then
+6:59 open and name something like
+7:01 um CAD
+7:01 block for cushion
+7:06 top.
+7:06 All right.
+7:08 From here, let's go ahead
+7:12 and convert this cushion top one more
+7:15 don't need to.
+7:15 I think since we already created
+7:20 symbol for this, we just need to
+7:21 designate that it inserts into a
+7:21 countertop, and that it's a kitchen. And
+7:26 then in the 2D block, we're going to
+7:26 locate that CAD block for cushion top.
+7:29 What we did was modify the hole that it
+7:36 cuts in a sink. So, when we apply this
+7:38 um
+7:38 to our cabinet, it's going to adjust
+7:42 that hole so that we still see a
+7:44 platform underneath cushion cuz
+7:44 otherwise it would have been to the
+7:47 outside bounds
+7:47 the outermost geometry of that cushion.
+7:51 So from here, let's just add it to the
+7:52 library so that we've got it. Maybe we
+7:52 want to make sure that we're naming this
+7:56 something appropriate. So in the 3D
+7:59 panel, let's just call this cushion
+8:01 top and then in
+8:01 parentheses sink.
+8:05 Okay.
+8:05 And then add it to the library and then
+8:07 we should be able to hover over this and
+8:14 Here we go. Now let's make a duplicate
+8:15 of this.
+8:15 Over 24 in. Just
+8:18 And if we did everything correctly,
+8:24 which and we're moving real fast.
+8:29 I hope I didn't screw
+8:34 Did everything correctly,
+8:36 this should look
+8:46 Sweet.
+8:46 Now you have a three-piece

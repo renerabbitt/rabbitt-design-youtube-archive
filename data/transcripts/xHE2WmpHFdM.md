@@ -1,0 +1,176 @@
+---
+videoId: xHE2WmpHFdM
+title: Rounded Corner Bead The Fastest Way in Chief Architect X16 in 2025
+url: "https://www.youtube.com/watch?v=xHE2WmpHFdM"
+status: imported
+---
+
+# Transcript
+
+0:01 this video I'm going to show you how we
+0:02 can quickly create a corner bead system
+0:05 all right corner bead system that's what
+0:07 we're going to do here first thing I
+0:09 want to know is I want to know how big
+0:11 my default baseboard is in this case
+0:13 it's a 3 and a/4 inch baseboard that's
+0:15 really important next part let's grab
+0:18 the solid tool let's do a little um draw
+0:21 out here where we snap from the inside
+0:23 of a corner wall assembly to the outside
+0:25 of that corner wall assembly so there's
+0:27 our solid let we hold the f key which is
+0:30 going to create a fillet on one of these
+0:32 edges and I'll drag this up I'm going to
+0:34 drag this up completely vertically hit
+0:37 tab or enter make sure that polar is
+0:39 checked and then I'm going to set
+0:41 essentially what becomes my radius so
+0:43 half an inch all right so there we go
+0:45 I've got that solid set up now the next
+0:48 thing I want to do is I want to set the
+0:50 overall height based on the room height
+0:53 and so what I'm going to do here is
+0:54 let's just say it's 96 in minus that 3
+0:57 and a/4 inch okay that's all I needed to
+1:01 do let me press okay next thing in my
+1:05 edit toolbar convert the selected to
+1:07 symbol all right let's convert this to a
+1:10 fixture class and this is going to be
+1:13 Corner Builder let's just call it that
+1:15 for now okay that should make a lot of
+1:18 sense here in just a minute so Corner
+1:20 Builder fixture interior add to library
+1:23 press okay and we're going to show
+1:25 Advanced options make sure that's
+1:27 checked as well so in this first first
+1:30 panel here which is the general panel
+1:32 let's go ahead and lift this up 3 and
+1:33 a/4 in that makes sure it goes above
+1:36 that baseboard when it's placed in
+1:39 materials this part's important you can
+1:41 kind of single click and single click
+1:43 again if you want to rename the concrete
+1:45 classification that's for your material
+1:47 listing parts and we might just call
+1:49 this drywall in this case it's kind of
+1:51 you could skip that step if you wanted
+1:53 to and let's double click this and then
+1:55 we want to make sure we're in the
+1:57 material defaults panel so that that we
+2:00 can select walls interior that's going
+2:02 to by default set the color of this
+2:05 object to whatever your default walls
+2:08 interior is for your particular plan all
+2:12 right next up let's get into the options
+2:15 panel and within the options panel this
+2:17 is important we need to insert it into
+2:19 the wall and we're going to insert it by
+2:22 the thickness of the overall assembly so
+2:24 4 1/2 in now this will insert into the
+2:27 wall perfect now this is in our library
+2:31 we get to place this right we can see
+2:34 that it's a little bit backwards we
+2:35 might want to you know change that
+2:37 around really simple to kind of rotate
+2:39 that we need to rotate it at 180 degrees
+2:42 so we can open this up in this editor
+2:45 right here in the 3D panel just showing
+2:48 you this in case you didn't know how to
+2:49 do this in case you made an error like I
+2:51 did rotate at 180° that brings that
+2:54 radius to that left front and in 2D
+2:57 symbol just make sure that you're
+2:58 generating that block block again so it
+3:00 represents the correct symbol there and
+3:03 now when I place it what happens it's
+3:05 still placing directionally because well
+3:08 it kind of depends on where you're
+3:10 placing it when you're you know moving
+3:12 your cursor so you can see there it's
+3:14 quickly kind of orienting it depending
+3:17 on where my cursor is in the wall so
+3:19 there we go placing it in the wall this
+3:22 will in fact cut the wall assembly I
+3:25 want to get rid of this existing block
+3:27 here I don't need that anymore and I
+3:29 want to show you you just how Dynamic
+3:31 this is is we're just going to point to
+3:32 point to this corner now what I want you
+3:35 to know is this does cut the wall by
+3:38 inserting into the wall but it only Cuts
+3:41 one wall it only cuts the wall that it's
+3:44 placed inside of so in order to fix this
+3:47 we need to copy paste reflect about a
+3:50 diagonal now it's going to cut the other
+3:53 assembly and you can see here in the 3D
+3:55 we now in fact do have a rounded Corner
+3:59 because it's being placed on both sides
+4:01 of the wall how can we make this more
+4:04 Dynamic and easy to use over time let's
+4:08 shift select both of those symbols now
+4:11 they're two separate symbols and let's
+4:14 make an architectural block add that to
+4:17 your library now Watch What Happens let
+4:19 me go ahead and delete this in my
+4:21 library I'm going to call this corner
+4:24 Builder or let's see what should we call
+4:27 it maybe we just call it uh corner
+4:30 corner bead and in parentheses I'll call
+4:33 it an architectural block Arch block
+4:37 that just lets me know when I find this
+4:38 that that's what I'm looking for I know
+4:40 that I built this off of an arch block
+4:42 notice in 3D that it needs to be rebuilt
+4:44 in order to rebuild that wall so let's
+4:46 just do that real quick so that we're
+4:48 making sure it looks correct so I'm
+4:50 going to get into the 3D menu and then
+4:53 just rebuild 3D and there we go now in
+4:56 plan I'm going to load up that
+4:58 architectural block and I can just kind
+5:00 of place it without paying attention and
+5:02 then point to point this into place and
+5:05 the last thing I would need to do I'd
+5:08 probably be doing this a bunch of times
+5:09 if there's a bunch of outside corners
+5:11 right so let's just say for instance
+5:14 that we've got an outside corner
+5:16 here right that we also need to do this
+5:19 for so I'm going to take this assembly
+5:22 kind of copy paste it over here maybe I
+5:25 want to rotate it right point to point
+5:27 it in place now I can use select Marquee
+5:31 similar to grab other items like that
+5:33 and explode all at once and now in 3D we
+5:37 easily see that we've got outside corner
+5:40 outside corner so how quick is this in a
+5:43 new plan file that's pretty quick you're
+5:46 just going to be placing these
+5:47 individual blocks shift selecting them
+5:50 explode them let's just say on a project
+5:52 maybe you've got 25 of these I feel like
+5:55 it only takes about 4 minutes to do this
+5:57 the last step if you really want to get
+5:59 get into some realism is select your
+6:01 room and in the edit toolbar go ahead
+6:04 and make room molding polyline and we're
+6:07 going to convert that baseboard press
+6:09 okay maybe you're converting uh crown
+6:12 molding as well so you're going to have
+6:13 to come in here select these individual
+6:16 molding Corner edges here hold that F
+6:19 key drag this up like you did before let
+6:21 go of the F key tab or enter type in
+6:23 half inch and now I've got a radius
+6:26 corner there and I have to do it over
+6:28 here too so little bit of cleanup the
+6:31 alternative is that you could radius all
+6:33 Corners in that case you might want to
+6:35 build out a symbol to do inside Corners
+6:38 as well so that's totally up to you
+6:40 that's a little easier to accomplish so
+6:43 if we look in 3D now doesn't that look
+6:46 beautiful radius Corner pretty quick to
+6:49 set up anyways hope that helped you out
+7:04 [Music]

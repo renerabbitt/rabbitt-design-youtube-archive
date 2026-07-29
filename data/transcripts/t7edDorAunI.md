@@ -1,0 +1,615 @@
+---
+videoId: t7edDorAunI
+title: Project Management and The Project Browser in X17
+url: "https://www.youtube.com/watch?v=t7edDorAunI"
+status: imported
+---
+
+# Transcript
+
+0:02 How do we do a save as in Chief
+0:02 Architect X17? We started a new project,
+0:08 we named that project. Somehow magically
+0:09 that just made it so that we are
+0:09 suddenly in a plan file and we've done
+0:12 some
+0:12 things to this plan file. We've drawn
+0:16 out a really crazy looking room like
+0:19 this and we go to save
+0:19 and we figure, hey, that's going to
+0:20 prompt us to save it somewhere, right?
+0:24 But it doesn't, so we don't understand
+0:24 where exactly that lives on our machine.
+0:28 So we want to go to a save as and it
+0:31 doesn't exist. What does that mean
+0:33 exactly? Well,
+0:33 what that means is that Chief Architect
+0:37 is managing your files internally in
+0:37 some folders that are then encrypted so
+0:41 that you don't really have access to
+0:41 them, but they will always be there when
+0:45 you open up Chief Architect. Well, that
+0:45 doesn't really help for when you want to
+0:50 work on them on a different machine or
+0:52 uh share them across a team member or
+0:52 some other contractor. So, how do we do
+0:56 the save as? It's as simple as this.
+0:58 We're actually going to go to the
+0:58 project in the project browser. Now your
+1:02 full browser might not look like mine,
+1:02 so you might not see the project browser
+1:06 in the same space that I do, but here is
+1:09 my project browser and what I'm going to
+1:11 do here is navigate into this project's
+1:14 folder. Here is the project I started
+1:15 and I'm going to right click and I'm
+1:15 going to click on export. Now that would
+1:19 be a way to export this so that it is
+1:21 outside of those internally managed
+1:21 files and somewhere else on some other
+1:25 machine.
+1:25 But that does not remove it from these
+1:31 internally managed files, which means
+1:31 you effectively have a conflicted copy.
+1:37 So this may sound scary, but if you
+1:39 clicked on delete or just simply
+1:39 highlighted your project and click the
+1:43 delete key on your keyboard, you're
+1:43 going to be prompted with this message.
+1:49 And this is where you could go export
+1:52 and delete. What will this do? Well,
+1:52 this allows us to go pick some location
+1:54 on our hard drive. In my case, I'm going
+1:58 to save it downloads because I'm going
+1:59 to get rid of this.
+1:59 And I'm going to save this.
+2:01 Guess what happens? It exports the
+2:05 project,
+2:05 effectively doing a save as, and it
+2:07 removes it from the internally managed
+2:10 project management from Chief Architect,
+2:14 which means that
+2:14 what we would have to do if we wanted to
+2:18 work on this again, we'd have to import
+2:20 it again, okay? But that's exactly what
+2:23 we want. We want to save this somewhere
+2:25 on my machine so I can utilize it in
+2:27 some other way. Now, it will be gone
+2:27 here in just a second. There we go. It
+2:31 just disappeared from my project
+2:32 browser.
+2:32 Now, if I go open up, in my case, I'm in
+2:37 a Windows machine, so Windows Explorer,
+2:40 get to downloads, there is my project
+2:40 file. Now, I want to show you a couple
+2:42 things. One is, I'm going to
+2:42 double-click on this, and that's going
+2:44 to import this. So, just assume we're on
+2:48 a second machine or someone else's
+2:50 machine, and we have received this
+2:50 project file cuz it was just shared to
+2:52 us via Dropbox or some cloud service or
+2:56 something like that. And there we go.
+2:56 It's going to prompt us. It's going to
+2:57 say, "Hey, we've got this project. We've
+3:01 imported it." And you could choose to
+3:01 just close it, but there it is. It's now
+3:05 back in my machine.
+3:05 Just as simple as that. So, we did
+3:07 effectively save it as somewhere, and we
+3:11 effectively imported it, opened it
+3:13 again, okay?
+3:13 Now, to take this one step further,
+3:15 just to make this video a little bit
+3:17 longer, is if we went and changed the
+3:20 extension on this, if you have access to
+3:24 the extensions of your files, by
+3:24 changing the extension to a .zip file,
+3:30 we're going to see very clearly here
+3:30 when we change this extension that this
+3:34 is in fact just an archived file,
+3:35 okay?
+3:35 So, I'm going to open this up just like
+3:40 I would any other archive file. Now, it
+3:42 happens to be that for whatever reason
+3:42 this one seems to have gotten corrupted
+3:43 when I did that, or it says it's denied.
+3:48 Oh, that's because I have an automatic
+3:50 unzipper. So, here we go.
+3:50 It automatically unzipped this file, and
+3:55 you see in here inside of projects is
+3:57 that document. How cool is that? In
+3:58 fact, it even has common documents in
+4:00 case it was pulling some information in
+4:04 from common documents, as well as any
+4:06 kind of texture files that might have
+4:06 been associated with that project file,
+4:12 okay? So, this is effectively the same
+4:15 thing as doing a backup in X16 and
+4:17 prior.
+4:17 All right, that should bring you full
+4:19 circle to how to do a save as in Chief
+4:25 Architect 17.
+4:25 Now that we've learned how to save as,
+4:28 let's learn some more about this new
+4:28 managed mode. I'm going to go ahead and
+4:32 do file new project, and I'm going to
+4:33 show you a couple things about this.
+4:36 We'll just name it example project.
+4:38 Okay.
+4:38 And then, notice that I had two check
+4:41 boxes unchecked. So, what did that do?
+4:45 It made a blank project, but you can
+4:45 always right-click on the project and
+4:49 choose to add a new plan or add a new
+4:52 layout. Now, let me go ahead and redo
+4:52 that again. Let me just delete this real
+4:56 quick. And I just wanted to show you
+4:57 that it is possible to make a blank
+4:57 project, but let's go do a new project
+5:02 where we are going to associate a plan
+5:04 and a layout, and let me press okay.
+5:06 Now, you could
+5:06 pin this to folders, but that I like to
+5:10 call folder tags because that's
+5:10 essentially what it is. It's not quite a
+5:15 folder per se, but that's what's being
+5:15 shown down here at the bottom. I'll show
+5:19 you that a little bit later. Let me go
+5:22 ahead and press okay.
+5:22 And then, we've got this new project.
+5:25 Now, I forgot to name it, so it named
+5:28 everything new project. That's okay.
+5:28 Now, to show you a couple really cool
+5:30 tricks about this is let's just draw a
+5:34 few things into our plan file
+5:36 and send them
+5:36 >> [clears throat]
+5:44 So, we're going to send them to that
+5:44 layout. Now, these two are associated
+5:46 with each other. Now, something that I
+5:50 want to do in this case is I want to
+5:50 rename this and this is going to just be
+5:59 Okay, and we'll make this design as a
+6:02 layout name as well. Why not?
+6:02 Right? So, now this plan file is
+6:04 associated with that layout. Now, to
+6:10 discuss why exactly Chief went to a
+6:14 project management mode is um
+6:14 we're kind of touching on probably some
+6:19 of their two highest call volumes for
+6:19 customer support, which is missing files
+6:25 and renaming files, so missing links.
+6:25 Okay, missing files and missing links.
+6:30 What would happen is that um people
+6:32 would be working on a plan file and
+6:33 they'd
+6:33 save it on their cloud drive etc. and
+6:35 they'd be sharing it back and forth to a
+6:39 team member. Well, that team member
+6:39 might not have the same files that the
+6:44 original drafter had. So, what would
+6:46 happen is we'd have missing files
+6:46 because Chief Architect would look in
+6:50 two locations for uh in particular
+6:50 texture files, so materials, you know,
+6:53 uh things that make up materials in
+6:54 Chief Architect. And so, Chief Architect
+6:58 looks in two locations. One, it looks in
+7:00 the user data folder. You know, this is
+7:03 X16 and prior or X17 in an unmanaged
+7:03 mode. So, it wherever your data folder
+7:08 is, which was typically in a documents
+7:09 drive,
+7:09 it would be looking for textures. And
+7:11 so, here's where it would try to locate
+7:15 textures. This is for any object you
+7:17 might have been bringing in from an
+7:19 outside source such as SketchUp 3D
+7:19 Warehouse, and then it's extracting the
+7:24 textures for that object,
+7:24 or textures you were just making up on
+7:26 the fly for that project, they would be
+7:30 automatically put into your textures
+7:30 directory if that's what you had set up
+7:34 in your preferences, which was the out
+7:36 of the box setting.
+7:36 Now, in another case,
+7:38 uh you might be looking for textures in
+7:42 in the alongside the plan file. So,
+7:44 Chief Architect looks in its data
+7:44 directory, textures folder, or it looks
+7:50 alongside where the plan file exists.
+7:50 So, wherever the plan file was saved, if
+7:56 there were textures, materials, right?
+7:56 Images, basically, in that same folder,
+8:01 Chief would find them. If they didn't
+8:01 exist there, then Chief would not find
+8:04 them.
+8:04 That's why in X16 and prior, when you
+8:09 went to go make a backup, so backup
+8:09 entire plan, it would zip file all of
+8:14 your textures with the plan file, so
+8:15 that when you extracted it and they all
+8:19 lived in the same place, it would find
+8:19 them.
+8:19 But, if you
+8:22 had that extraction, you saw these image
+8:24 files, and you're like, "Well, that's
+8:24 confusing. I don't want them there." And
+8:27 you moved them somewhere else, guess
+8:27 what? It wouldn't find them anymore. So,
+8:31 there was plenty of ways to break that
+8:32 system.
+8:32 Part two of this, missing links, was
+8:35 that maybe we would be going in and and
+8:39 decide that, "Hey, I've actually done
+8:42 some work on this design one, and now
+8:44 this design one needs to be a design
+8:44 one, and maybe it's version two." Okay,
+8:50 so I renamed my plan file. Well, what
+8:50 would happen is that would bring break
+8:54 the link associated with it in the
+8:54 layout file, so that you would have to
+8:58 get into the layout, go to tools,
+8:58 layout, reference plan files, target an
+9:04 old name that was previous to your
+9:04 renaming, and then find and replace the
+9:10 reference with the new named project.
+9:10 So, your renamed project. So, you'd have
+9:14 a broken link, and you didn't understand
+9:17 why that was, right? So, you needed to
+9:19 be really diligent about managing your
+9:20 file naming conventions and how things
+9:20 were linked up and how to solve it when
+9:24 they became unlinked.
+9:24 So, this caused a lot of problems.
+9:26 Hence, we introduce project management
+9:28 mode, where you saw just now that I got
+9:33 to rename this design, and it still is
+9:33 associated with my layout file. Doesn't
+9:38 matter how many times I rename it?
+9:38 Now, I could make a copy of my plan file
+9:42 and would that be associated with my
+9:42 layout layout file? No, it would not. It
+9:47 would only be associated with it if I
+9:50 went in to the layout
+9:50 and I changed that reference plan file.
+9:55 You can see right now, it's still
+9:58 referencing design one. But,
+9:58 if I went into that tools layout
+10:00 reference plan files and found that
+10:03 design one and replaced it in my new
+10:05 project with design two, then that would
+10:10 be the association. So, that's how we
+10:13 can relink in a managed mode as well.
+10:13 But, I'll show you something even more
+10:15 clever than that. Let's go ahead and get
+10:21 rid of the design two plan file. We
+10:21 already have design one is being sent to
+10:26 layout. Let's just assume we've got a
+10:28 fully fleshed out design one and we
+10:28 decide that, "Hey, we do in fact want to
+10:33 create a design two." Well, something
+10:36 that you could do is you could right
+10:36 click on your layout and say, "Make a
+10:42 copy with links to a new folder
+10:42 or to a project." Okay? Now, making a
+10:45 copy with links to a project would just
+10:49 make a copy of this entire project with
+10:51 those two files still linked and then
+10:52 you could rename things within it and
+10:53 that would be fine. You would have a
+10:55 totally separate project. But, let's
+10:55 just say we want to keep this project
+10:59 intact because it's easier to save
+10:59 offline and share with a team member
+11:03 where they might might want to see
+11:03 design one and design two within one
+11:06 project. We can make a copy with links
+11:11 to a new folder.
+11:11 All right? And so,
+11:13 just saying something wasn't saved.
+11:15 We're going to save it and we can say
+11:16 this is design two. Okay? In which case,
+11:23 it might make sense to not call this
+11:23 design one in the first place. Maybe we
+11:28 should have just named it the project
+11:31 name and let the folder be the naming
+11:31 convention. Totally up to you, because
+11:36 what we know is that we can change
+11:36 things around and it won't be affected.
+11:41 So, this is in my design two folder,
+11:41 which I have not renamed the files for
+11:45 yet. When I open up the design
+11:45 layout in that folder, it is in fact
+11:47 linked to my copied, all right? So, this
+11:53 effectively is now my design two
+11:54 project.
+11:54 It's on one remains unaffected by the
+11:58 fact that we
+11:58 made some changes in these files. So, we
+12:03 now have two different design iterations
+12:06 within one project.
+12:06 Now, when we want to go save as, or
+12:08 rather share with a team, we already
+12:10 know how to do that from the start of
+12:14 this video. So, we would probably go
+12:16 delete and then export and delete.
+12:19 Because, why would we do that?
+12:19 Well, effectively, whatever is on our
+12:22 machine remains unchanged by any changes
+12:27 to something that's outside of our
+12:27 machine. So, if we didn't delete this
+12:31 project and then we re-imported some new
+12:37 work from another person, or just from
+12:38 another machine,
+12:38 this project would effectively be
+12:43 outdated, right? So,
+12:43 essentially, in a working environment,
+12:45 you should delete, export. A new person
+12:51 receives this and they make a copy with
+12:53 links to a folder for a new design
+12:53 iteration, or they further the progress
+12:58 of this. I'm going to leave that up to
+12:59 you to come up with your own
+12:59 conventions. Me, personally, when I
+13:02 export things, I have a very standard
+13:07 convention naming
+13:07 ideology that I like to use, which is
+13:09 the date, which is year year month month
+13:15 day day. I'm going to be design review
+13:18 one two A, whatever. And then
+13:18 I'm going to be the name of the project
+13:23 sure, and then my initials to let you
+13:24 know this was my project that I exported
+13:31 and deleted and uploaded to Dropbox. And
+13:33 so, when you make changes to this,
+13:33 upload it to your machine, bring it back
+13:39 in, then you should put your initials at
+13:41 the end of this, okay? So, that would be
+13:43 my convention. Now, if you'd like to
+13:43 keep historical data like I do, I would
+13:48 never be overwriting the previous
+13:48 exported copy. I would just export
+13:51 alongside of it, which is why we put the
+13:55 date in there, because we can get back
+13:59 to a historically older copy of this
+13:59 project. All right? All of this keeps
+14:02 your files nice and clean and outside of
+14:08 project management so that your backups
+14:09 don't take as long.
+14:10 Which might be a really nice thing for
+14:12 you.
+14:12 Now, when we export this project,
+14:17 just
+14:17 do this again, we can see that we can
+14:19 always choose specific folders. Now, if
+14:25 I were to just export the design two
+14:28 aspect of this, all right? I'm just
+14:28 checking the design two. I press okay,
+14:32 and we just say, "Hey, this is an
+14:35 example, all right?"
+14:36 Then,
+14:36 we're to go to that folder location,
+14:43 and and I did not delete this.
+14:43 I go to that folder location. Let's just
+14:47 see how this imports when I had only
+14:47 checked the design two objects, okay?
+14:52 So, I'm going to double-click this to
+14:54 import this.
+14:54 Project export is complete. Four plan
+14:57 files, one
+14:57 layout file were saved.
+15:03 Press okay.
+15:03 Now, it has brought in a new project,
+15:08 and it's going to put the suffix
+15:11 one, okay? That's because
+15:11 it sees that it's a duplicate. And you
+15:13 can see in new project one, it just has
+15:19 the design two folder. So, instead of
+15:21 you right-clicking on design two from
+15:21 this new project and trying to export it
+15:26 here, which we don't have the option to
+15:28 do that. You're just going to export at
+15:28 project level and choose which items you
+15:33 want to export. And so this is a way you
+15:37 can share part of a project as opposed
+15:40 to the entire project.
+15:40 All right. There's a lot to this managed
+15:44 mode, by the way.
+15:44 I'm going to just touch on very briefly
+15:48 what I do with my templates.
+15:48 I don't actually create templates in the
+15:54 same way that Chief Architect
+15:54 labels templates. So in preferences,
+15:57 um under new plans, here would be where
+16:01 your template files would be so that
+16:01 when you start a new project, it's going
+16:06 to build from these template files. That
+16:08 is not what I'm doing.
+16:08 I effectively sent a bunch of views to a
+16:13 layout
+16:13 and stripped back or saved as
+16:16 my project as a template file and then
+16:20 reassociated with that layout file to
+16:22 get a very blank
+16:24 template.
+16:24 So a very blank plan where all the views
+16:28 of that plan are already being
+16:29 established in a layout. Just to show
+16:31 you how this all works, let me just draw
+16:34 in
+16:34 something into the box here.
+16:48 What you'll see here is I get to go
+16:48 through and choose a layout and these
+16:50 layouts already have views being sent to
+16:53 them
+16:53 from this blank project. So that when
+16:56 I'm starting a new project, I just make
+17:01 a copy of this template project is what
+17:03 I like to call it, which is just a
+17:04 project
+17:04 with a blank plan that has a bunch of
+17:08 views already sent to layout. And you
+17:08 can see here, it's already establishing
+17:13 a bunch of stuff because
+17:13 this is effectively just using this
+17:16 pre-established linked setup that you
+17:18 can do in Chief Architect so that I've
+17:22 already got my views established and I
+17:25 can just update a view and
+17:27 get from that some
+17:27 some elevation from the project I just
+17:29 started drawing. So, as soon as I start
+17:33 drawing, I'm already effectively
+17:33 creating my full construction document
+17:39 set. That makes it really really cool.
+17:43 On top of that, you can drag in some
+17:46 helpful information via links, PDFs,
+17:48 etc.
+17:48 And this is exactly what I do to do
+17:50 stuff like, "Hey, here's a link to the
+17:55 manual for my product that I'm using."
+17:57 In this case, it shows it's deleted.
+17:57 That's not very good. And check out what
+18:01 version we're on and, you know, maybe
+18:03 you've got some other stuff to help
+18:03 people out. So, this is a really great
+18:08 way to bring in some help to a team
+18:08 member so that when they bring in the
+18:10 project into their side, if they've got
+18:15 information from you. Maybe you're
+18:15 creating a spec book or something like
+18:19 that that's posted online.
+18:19 Something like that. I would encourage
+18:22 you to whatever you want to share within
+18:26 a project, make it be something that's
+18:29 dynamic so that
+18:30 it's always
+18:30 um linked to something that's live as
+18:32 opposed to static like a PDF that's just
+18:38 a static PDF. It would be better if you
+18:41 um put a PDF in a hosted platform such
+18:44 as Dropbox and then linked to that PDF
+18:44 and then added the link to your project
+18:48 file so that
+18:48 your team members got some access to
+18:51 some information about your project
+18:52 without having to go somewhere else for
+18:53 it. So, it can be a really effective way
+18:57 of building out project management and
+18:57 it's one of the main reasons that I love
+19:00 this.
+19:00 Now, another reason for introducing
+19:04 project management is because
+19:04 eventually, and hopefully this is in
+19:09 X18, we are going to get to Chief's
+19:09 Cloud. With Chief's Cloud, the theory is
+19:15 that we get to just share a project on
+19:15 the cloud via, you know, maybe an email
+19:18 account name or something like that. And
+19:22 so that your other team member, there's
+19:25 no portion of this export process that
+19:26 has to happen. You just get to right
+19:26 click on a project and say share with a
+19:30 team member. And there you go, they've
+19:31 got it on that side and you don't have
+19:31 to worry about conflicted copies at all
+19:35 because it's live linked.
+19:35 Wouldn't mean that you get to work on
+19:36 the same file at the same time, but it
+19:39 would mean that you get to work on a
+19:42 file and it will lock it or so that
+19:42 someone else knows that it's locked. And
+19:46 then once you're done, that opens up for
+19:48 someone else so that they can start
+19:48 working. So. Um, we're really excited to
+19:52 check that out and see when that comes
+19:54 through, but
+19:54 in the meantime, wanted to just touch on
+19:59 a lot of the
+19:59 the complexities of the project
+20:00 management mode, okay? Now, the last
+20:03 thing I want to touch on here is that we
+20:06 do in fact have
+20:06 folders. I like to call them folder
+20:08 tags, if you will. And so with folders,
+20:12 we could do something like take these
+20:12 two projects and drag them, shift select
+20:18 them in this case, and drag them onto a
+20:21 tag, okay? So, let me just drag them
+20:21 onto this tag. And now when I click on
+20:23 that tag, it's effectively a filter for
+20:28 those projects so that I can find those
+20:28 projects very easily. So, maybe you want
+20:32 to create a tag system that's like
+20:32 active versus hold versus archive. Um,
+20:38 maybe it's, you know, client based,
+20:38 something like that. So, we'll leave
+20:41 that up to you. You can get pretty
+20:41 clever with that. A few other things to
+20:46 note is that this icon right here is to
+20:47 only show open projects. So, if you've
+20:47 got some open tabs and you only want to
+20:52 see the project that's open currently,
+20:54 I'm going to clear this filter. We can
+20:54 see that these are the projects that are
+20:57 currently open tabs, all right? That was
+21:00 by clicking on this. This will hide your
+21:02 default categories such as common
+21:02 documents. Common documents is being
+21:03 used for this new project right now, but
+21:07 other than that, that will hide those
+21:10 common documents. Hide templates.
+21:10 And then quickly get to preferences or
+21:14 create a new project from here or new
+21:17 project from a legacy folder and then
+21:19 refresh in the case that you
+21:21 something. So, um
+21:21 Beyond that, I've only got one more
+21:25 trick in the book to share on this
+21:25 video. I'm sure I'm missing stuff. This
+21:29 is unscripted, but
+21:29 in the case that you're doing something
+21:33 like this where you want to show
+21:33 previews of a project to understand what
+21:37 that project is and let me stop
+21:37 filtering projects so we can take a
+21:38 look. I want to see this preview so that
+21:44 I understand visually what this project
+21:48 is. I could open that project,
+21:48 okay, get to a view that's going to make
+21:53 sense to me if it were a thumbnail,
+21:53 okay? So, something like this might make
+21:58 sense to me or maybe I want to pull um
+21:58 some kind of a 3D view instead might be
+22:03 a better way of looking at this.
+22:03 So, let's pull a 3D view real quick.
+22:10 And then once I've got the view that I
+22:10 want to become the thumbnail so that the
+22:15 preview in the project browser makes
+22:17 sense right away for me is I'll just
+22:19 kind of rotate around,
+22:19 get to a view that I like.
+22:26 And maybe we'll switch to the physically
+22:32 Maybe that would be a really good shot
+22:35 to thumbnail, okay?
+22:37 So, from here,
+22:37 I don't know what this is. Not my
+22:38 project. I don't know why the sample
+22:40 rate's so high, but from here you can go
+22:46 to file menu and then choose save that
+22:48 thumbnail image.
+22:48 There we go. Save that thumbnail image
+22:51 just like that, all right? Now, when I
+22:57 set down, we'll do a little save.
+22:57 Now, when I go click on this project,
+22:59 we're going to see in the preview that
+23:03 it becomes that thumbnail image. Isn't
+23:03 that cool? So, really quick way to like
+23:08 just kind of visualize your projects if
+23:10 these are building up to, you know, a
+23:12 large number.
+23:12 Hopefully this video helps you out.
+23:16 Join my channel.

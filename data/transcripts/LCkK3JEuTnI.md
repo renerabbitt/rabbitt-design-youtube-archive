@@ -1,0 +1,82 @@
+---
+videoId: LCkK3JEuTnI
+title: CA SHORTS-Align Shaped Windows in Chief Architect
+url: "https://www.youtube.com/watch?v=LCkK3JEuTnI"
+status: imported
+---
+
+# Transcript
+
+0:03 we're going to make a bunch of shaped
+0:03 windows and ensure that they're aligned
+0:07 at their tops and this is going to be a
+0:09 really easy process first up I want to
+0:10 draw a couple of what I call inference
+0:12 lines so we're going to use the line
+0:12 tool and you could do a couple things
+0:15 here where we ensure that we have enough
+0:18 room for the header profile that we want
+0:20 to do in there of course I can drop
+0:20 something out kind of bring it in this
+0:24 way I'd have to have a 4 and 12 for an
+0:26 allowed angle to get this absolutely
+0:26 accurate but I'm just going to say that
+0:30 I've got an 11 and a half inch header
+0:30 plus three inches of plates here okay so
+0:36 I want to make sure that my line that
+0:37 I'm going to use for an inference is
+0:39 just lower than that line and that's
+0:40 fine
+0:40 let me draw this line out I'm going to
+0:42 use tab or enter and then get into this
+0:48 angle category and type in for in 12.
+0:48 that's going to get me that line so next
+0:52 thing I want to do is I'm going to draw
+0:53 a center line of where I want to place
+0:57 my window and then I can use that from
+1:00 here to set a multiple copy and set my
+1:02 interval 60 inches in is fine for this
+1:06 case and we'll drag this out okay I'm
+1:07 going to
+1:07 highlight this line up here use my
+1:10 extend tools draw a line through these
+1:14 lower lines so that they extend up to
+1:14 this line as a fence and then I can take
+1:20 my window tool drop this in on that
+1:21 Center Line
+1:21 open it up get to the shape panel click
+1:27 on Match roof now that that is matched
+1:29 if my bumps are turned off I can drag
+1:29 this up till I hit this intersection if
+1:34 we know our snaps we highlight over
+1:34 these snaps over here you can see that's
+1:38 the intersection snap now I can still
+1:41 use that multiple copy interval
+1:43 to drag out these windows
+1:43 and then select this window same thing
+1:46 going to hit that intersection snap you
+1:49 can see here we've got a ceiling in this
+1:52 building that's interfering with these
+1:54 windows not a bother I can fix that
+1:55 later
+1:55 now just to
+1:57 match this on the other side I might
+2:02 draw down a Center Line reference so
+2:02 that I can select all three Windows copy
+2:06 reflect about
+2:06 that Center Line there we go now we have
+2:11 windows that are matching the slope of
+2:14 this roof and they're aligned at their
+2:14 tops perfectly so this is a really quick
+2:19 and easy way to do this now let's say
+2:21 that we have to make some adjustments
+2:21 maybe one of these windows has to move
+2:25 by a certain amount of of inches say
+2:25 that this had to move over three inches
+2:30 well we can always
+2:30 grab this line reference
+2:34 make sure that it's centered on this
+2:38 window and extend it up till it hits
+2:38 that intersection now select the window
+2:43 and make your new snap there we go now
+2:43 it's still aligned at the top hopefully

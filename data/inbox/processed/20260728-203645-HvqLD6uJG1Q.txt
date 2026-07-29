@@ -1,0 +1,520 @@
+Title: Using Ai To Generate Low Polycount Models For Chief Architect or Video Game Assets
+URL: https://www.youtube.com/watch?v=HvqLD6uJG1Q
+Visibility: public
+
+0:02 In this video, I'm going to show you how
+0:06 to use one AI tool to generate a model
+0:09 from an image. And this is a starter
+0:09 video for a larger playlist, and that
+0:11 playlist will be behind the membership
+0:15 area of my YouTube. If you want to go
+0:15 check that out, we will continuously get
+0:21 into more advanced model generation, as
+0:23 well as giving you away some free tools
+0:25 that I've developed that are add-on
+0:25 tools for Blender, and I'm going to show
+0:29 you some really simple workflows in
+0:29 Blender when you might not know anything
+0:33 about Blender. And this will get us to
+0:37 making really low poly count assets.
+0:37 That means that it has a low level of
+0:40 triangles to create a model, and that's
+0:44 going to be something that's easier on
+0:46 our computers
+0:46 for them to process, especially in
+0:47 renderings. And so this is a way you can
+0:52 make something like video game assets,
+0:53 or in the case of, you know, the
+0:54 majority of people watching this is
+0:56 going to be assets for Chief Architect
+0:59 that we need for our designs.
+1:00 And so the very start of this video is
+1:02 I'm going to introduce you to a tool. I
+1:04 do have an affiliate link for this tool,
+1:07 so it does help me if you go buy this.
+1:09 But you can certainly go try out a
+1:09 couple of other tools that are out there
+1:13 that are very similar. But for what I've
+1:15 been doing lately in the workflow that
+1:17 I've been utilizing, I've used two
+1:17 different tools, and this one is my
+1:22 favorite of those two. So
+1:22 I'm going to say the name wrong. It's
+1:23 called I call it Tripo, but I know that
+1:28 it's pronounced in a different way, and
+1:30 I'm not sure what that um
+1:30 how it's pronounced, to tell you the
+1:32 truth. But Tripo, you'll see a little
+1:36 link pop up at the top of the screen.
+1:36 That's my affiliate link to go purchase
+1:38 this if you want to. But I think you can
+1:43 try this for free for a little bit as
+1:43 well. The other one that I use is Meshy.
+1:48 That's called Meshy. This is Tripo, t r
+1:50 i p o 3D.
+1:50 And so when you get into this website
+1:54 through that affiliate program link,
+1:54 then what you're going to see here is
+1:59 this high detailed model link and a
+1:59 smart topology mesh. And for the most
+2:02 part, when we're doing assets for Chief
+2:04 Architect, we need really low poly count
+2:09 models, meaning we're going to want that
+2:12 smart topology mesh. And
+2:12 what's fantastic about this is it does a
+2:18 really fast job of generating mesh.
+2:18 The next thing that I want to do with
+2:22 this before I even touch on the
+2:22 interface here is I need to go find an
+2:27 image of what I'm trying to create.
+2:30 Now, as we get through this series,
+2:30 there will be videos where I target and
+2:35 explain how we can take an image that's
+2:38 not an ideal image and make it an ideal
+2:41 image. Maybe you're trying to recreate
+2:42 something that, you know, you took a
+2:42 picture of from your client's house that
+2:46 you're trying to show them, you know, a
+2:48 unique piece piece of furniture that's
+2:48 not on the market that they had in their
+2:51 home. And so, those are going to be in
+2:53 some later videos. For now, we're just
+2:53 talking about things um that we might be
+2:58 specking or sourcing for our clients.
+3:01 And so, uh for the most part, most
+3:01 modern websites and furniture vendors
+3:06 are utilizing some kind of AI now so
+3:07 that they're putting everything in a
+3:10 unique background like this. Um
+3:10 I'd be surprised if they're actually
+3:12 building a studio to do this anymore. I
+3:16 feel like it's all AI based now. So,
+3:16 you're going to get a lot of shots that
+3:19 are perfect
+3:19 to set up and figure out how we can get
+3:24 a screen clipping and get this into an
+3:27 AI model generation software.
+3:27 So, the first thing to know about
+3:33 utilizing this software is
+3:33 that there's an experience that comes
+3:36 with this that you, you know, you can
+3:36 have a trained eye. In particular, this
+3:41 sofa, if I were to look at this sofa
+3:44 just from the front and not take any
+3:46 guesses about what the back of this
+3:46 looks like, I imagine that I already
+3:48 know what the back of this image looks
+3:50 like. Well, AI does a pretty good job of
+3:53 that as well.
+3:53 But, here's the distinction. If for some
+3:57 reason the back of this had a bunch of
+3:59 pleading on it or something like that
+4:01 that wasn't really indicated from the
+4:01 lines of the front of the image, that's
+4:04 when we're going to need to get multiple
+4:09 image screenshots to generate so that we
+4:11 can bring this into the AI and have the
+4:13 AI better understand what the back of
+4:14 this looks like.
+4:14 For this particular one, this shot right
+4:19 here would be perfect. This is all we
+4:19 need to get AI to generate this. So, I'm
+4:24 just going to use a screen capture
+4:24 utility. I'm not even going to bother
+4:26 like trying to right click and save this
+4:29 or anything like that. I'm just going to
+4:31 screen cap that. This is perfect.
+4:31 Background's removed. It's really clear
+4:35 what the object is. And so, this would
+4:37 be the ideal scenario and that's all
+4:39 we're going to cover in this video.
+4:41 And so, now I'm going to come to
+4:42 TurboSquid
+4:42 and remember we clicked on if I go back
+4:47 one, we clicked on that smart topology
+4:50 mesh. And there's a little upload
+4:50 section over here. And we can see we've
+4:54 got some sidebar tabs. We've got some
+4:54 other things that we could do here, but
+4:56 for this video all we need to do is just
+5:01 click on this upload. And so, then all
+5:01 I'm going to do is come in here and find
+5:07 my screenshot. Now, out of the box I'm
+5:09 not sure where um
+5:09 Mac stores its screenshots. I think it
+5:13 might be in a downloads folder out of
+5:16 the box. A Windows machine will store
+5:17 your screenshots in your My Pictures
+5:17 folder. I changed my location of that to
+5:22 my downloads folder. So, I always just
+5:22 come to downloads. And so, there we go.
+5:26 I'm going to load that up.
+5:26 And from here, we have a general
+5:29 settings panel right underneath here.
+5:31 And so, if we click on this, we get to
+5:36 choose the poly count that I want. And
+5:36 this is going to be one of those things
+5:40 where I say, "Hey, just kind of take my
+5:40 word for this." is that Chief Architect,
+5:44 if you're creating assets for them,
+5:44 they're looking for a target count of
+5:50 10,000 poly or lower. Um oftentimes
+5:50 their couches are around 5,000 poly,
+5:52 which is great. And so that means 5,000
+5:56 little triangles.
+5:56 So no matter what, Chief Architect will
+6:00 take a polygon, so that could be
+6:00 five-sided, six-sided, seven-sided face.
+6:06 So there's seven vertices, that makes
+6:08 one face, okay?
+6:08 And Chief Architect, by default, will
+6:14 split that into triangles.
+6:15 So
+6:15 this is a good indication of when maybe
+6:17 we download something from 3D Warehouse,
+6:22 SketchUp's 3D Warehouse, right? And it
+6:22 tells us that it's 18,000 poly count, we
+6:26 get it into Chief Architect, and
+6:26 suddenly it becomes 60,000 poly count.
+6:30 That's because maybe they're not using
+6:33 triangles in their mesh, and Chief
+6:33 Architect will automatically triangulate
+6:37 that mesh.
+6:37 So what's great about Tripoo is that we
+6:40 just get to come in here and choose that
+6:44 we want triangles. And so there we go.
+6:46 And then I get to choose a target poly
+6:47 count that I want.
+6:47 And the poly count is in direct relation
+6:53 to the complexity of what it's modeling.
+6:56 So if I have a very simple-looking model
+6:58 here, I'm going to lower that poly
+6:58 count. I'm going to do something like
+7:01 2,500. There's no need to make it any
+7:01 more detailed than I need it to be. So I
+7:06 would really like it to be very, very
+7:07 lightweight.
+7:07 And so I'm just going to hit generate
+7:10 model from here, which is the bottom
+7:10 left-hand corner. It says I've got, you
+7:12 know, it's going to take 35 tokens. If I
+7:18 look up at the top here, and I did pay
+7:20 for some service here, I've got 3,000
+7:20 tokens left. Um I don't generate so many
+7:26 models that I'm ever worried about using
+7:28 up those tokens.
+7:28 So I just get to hit generate model on
+7:30 the bottom left. And what we'll see here
+7:35 is that there's a queue being developed,
+7:37 and you can see it's telling us it only
+7:40 needs 8 seconds to develop this.
+7:40 As opposed to Meshy, as of today's date,
+7:47 as of the publication date, Meshy cannot
+7:49 generate something this quickly.
+7:49 I do imagine that in the future they
+7:53 might be able to.
+7:53 You know, and then as they catch up to
+7:54 whatever this service is, there's always
+7:59 that give and take battle. You know, I'm
+8:01 sure Meshy will catch up. I'll let you
+8:03 know when it does in maybe a later
+8:04 video.
+8:04 So, even though it said 10 seconds to
+8:06 generate the model, there's some lag to
+8:09 do, you know, the final production on
+8:09 this. So, it's going to take a second.
+8:12 Um
+8:12 this is where you just take a sip of
+8:24 And so, any second now.
+8:27 Let's go, Tripo.
+8:27 Failing me. Well, I'm giving you an
+8:39 All right. And so, it just finished
+8:39 generating. It probably took another
+8:41 I don't know, 15 seconds or something,
+8:44 longer than what it said. So, 25
+8:45 seconds.
+8:46 And now I want to just kind of inspect
+8:51 this and see if it aligns with
+8:52 you know, that original.
+8:52 It seems to have like produced, tried to
+8:57 produce a 3D seam at the top.
+8:59 And that's okay.
+8:59 And then it's got some 3D seams kind of
+9:04 in between because of um the topology
+9:05 being,
+9:06 you know,
+9:07 small poly count. Honestly, did a pretty
+9:13 good job.
+9:13 Notice that the base is kind of detached
+9:17 from the upper portion. That's okay as
+9:19 well. And so, the other thing that you
+9:21 can do in Tripo is you can spend some
+9:21 additional tokens and texture this, all
+9:25 right?
+9:25 And so, let's just do that just so you
+9:29 can see what that looks like. And this
+9:29 typically takes another a couple hundred
+9:33 seconds or something like that. Right
+9:35 now it's telling us it's about 80
+9:35 seconds. I'll pause and come back to
+9:42 Okay, and so that was about 85 seconds
+9:44 all in all, and here's what it
+9:46 generated. And
+9:46 you know, this looks pretty good.
+9:49 This is kind of the cap of what we're
+9:51 doing in this video is to show you you
+9:54 know, to this stage what we can get out
+9:59 of Tripo or any other um AI
+9:59 [clears throat] generating mesh
+10:01 utility. Now, there are some issues with
+10:07 this for being an asset for Chief
+10:07 Architect. Uh one is that this um in
+10:11 this particular case doesn't come with
+10:12 any kind of normal or roughness map. So,
+10:15 the textures are going to look really
+10:17 flat when we bring it into Chief
+10:17 Architect. The next part about this is
+10:23 that this mesh has what's called one
+10:23 single UV map. And a UV map is um it's
+10:30 how we
+10:30 translate a two-dimensional image that
+10:32 will become the material that's applied
+10:36 to our mesh. How that translates to
+10:37 actually
+10:37 the topology of the mesh, right? And how
+10:42 it's wrapped around that mesh. Um when
+10:42 we go to export this, we'll take a look
+10:46 at what that UV map even looks like,
+10:46 that base texture map even looks like.
+10:49 And the main problem with that being one
+10:53 UV map is in Chief Architect, it's
+10:55 really nice when we use a Chief
+10:55 Architect asset that if we want to
+10:57 change the color of the couch, we can
+11:00 and it won't suddenly apply the color of
+11:05 the couch to also the base material. Why
+11:06 is that? Because Chief Architect has
+11:06 taken the time to split the mesh into
+11:11 several different UV maps, or rather
+11:11 have you know, UV maps applied to the
+11:16 separate parts of the topology.
+11:16 And in this case, we couldn't do that.
+11:18 If we applied a new material to this in
+11:22 Chief Architect, it's also going to
+11:22 paint that base wood texture as well.
+11:28 So, that's going to be part of what
+11:30 we're developing in this series.
+11:30 Now, let's just take a look at what
+11:32 happens when we actually bring this into
+11:36 Chief Architect exactly as it is right
+11:36 now. So, at the bottom of the screen, I
+11:41 hit the export button and I do want to
+11:44 export in a format OBJ and the texture
+11:47 resolution is that I want a 1K texture
+11:48 cuz that's going to keep it nice and
+11:48 lightweight. It's not going to hit the
+11:52 memory of our graphics card as hard,
+11:53 okay?
+11:53 Now, we'll export this.
+11:56 And this is just going to generate a zip
+12:01 file and I'm going to save that to my
+12:03 downloads. And I have a utility in my
+12:05 downloads that automatically sees zip
+12:08 files and unzips them. Um similar the
+12:08 way Mac does that automatically as well.
+12:12 And then one more thing that you can do
+12:15 in here is is we can actually generate
+12:17 um
+12:17 we can generate
+12:19 additional texture maps for our
+12:23 um
+12:23 for our PBR. So, if I hit texture,
+12:27 down below actually is PBR. Generate
+12:30 realistic materials from your model. And
+12:37 so, if I gen- click generate PBR,
+12:37 this is going to try to build out a
+12:41 normal map for us,
+12:41 a roughness map, um maybe a bump map,
+12:45 maybe like specular map, which we don't
+12:49 utilize in Chief Architect. So, it's
+12:49 generating the PBR right now. We can see
+12:53 in the queue in the top right-hand
+12:53 corner, it's got 11 seconds left. We'll
+12:56 see what that does in a second. In the
+12:57 meantime, let me open up Chief Architect
+13:02 and build a little scene real quick.
+13:02 I might even have a little scene here
+13:08 And we're going to bring that OBJ file
+13:10 in.
+13:10 And so, I'm just going to get to my
+13:18 Find the unzipped. It's going to have,
+13:20 you know, some automatic naming here.
+13:20 When we bring this into Chief Architect,
+13:25 it might be nice to rename this base
+13:25 color map to something that makes a lot
+13:30 of sense to us in the future. Okay. Um,
+13:33 I like to, you know, in some cases just
+13:35 say, "Hey, do not delete." Put that in
+13:37 there because every texture that comes
+13:40 in with an object ends up in the asset
+13:40 manager and it becomes part of something
+13:45 that your system is backing up and when
+13:46 you go to want to
+13:46 purge some things because you're taking
+13:50 up too much storage, that's when you
+13:50 might delete something accidentally that
+13:55 is, you know, like this really important
+13:57 texture that makes this object look
+13:58 realistic.
+13:58 So, here's our OBJ file. I get to just
+14:03 click and drag this and just note that
+14:06 this is going to bring this in as a
+14:06 fixture. So, we are going to have to do
+14:11 a few things to make this into a piece
+14:12 of furniture. The other thing that
+14:12 happens is the scale of this is probably
+14:18 metric in this case.
+14:18 Now, we could replace the geometry and
+14:20 change the drawing unit to metric or you
+14:25 can just come in here and change the
+14:27 object size by retaining the aspect
+14:27 ratio and changing the object size. But,
+14:31 the first thing that we need to do is
+14:33 rotate this thing. And so, we want to
+14:36 spin this around the X axis. So, you
+14:39 know, we need to click X axis in
+14:41 rotation in the 3D panel.
+14:41 Rotate this one time and I also want to
+14:47 orient this so that the front of this
+14:47 chair is facing in the negative Y axis.
+14:53 So, we're going to rotate this, spin it
+14:55 about the Z like this, right? So, I'll
+14:58 rotate in the Z. There we go. Now,
+15:01 that's what we need from this.
+15:01 Now, we can come back to that general
+15:03 panel and retain aspect ratio and, you
+15:08 know, maybe we even go back to the
+15:08 vendor where we got this from in the
+15:12 first place, wherever that might be.
+15:14 Here, and you might go look at the
+15:14 specifications so you can get this right
+15:18 on the money. So, here's the dimensions
+15:20 panel. If I say
+15:22 25.88,
+15:22 okay, 25.5 is the width.
+15:25 I should be able to do this.
+15:32 And we can hit this little centering
+15:33 tool to get this back in the fill
+15:33 window. And all the other dimensions are
+15:37 actually pretty close. I'm just going to
+15:39 leave them. Okay.
+15:39 And then the last thing is we want to
+15:40 regenerate that 2D symbol, that block.
+15:44 Here we go.
+15:44 So now when we pull a little 3D view in
+15:48 here and I'm going to do a little PBR
+15:49 view, we'll just take a look at what
+15:50 this is looking like so far. Honestly,
+15:55 not looking that bad, you know? Looks
+15:57 pretty good. And this
+15:57 if we were buzzing through this, if we
+16:01 had a good amount of experience
+16:01 utilizing Tripod, this would be a really
+16:05 fast process.
+16:05 Now again, what happens when we do
+16:07 something like take this couch material
+16:11 and apply it to this is it's going to
+16:14 apply it to the entire thing, right?
+16:14 That's not very helpful. So that's going
+16:17 to be,
+16:17 you know, part of what we do in the
+16:19 future.
+16:19 The next part about this is even though
+16:23 this looks good, it can look a lot
+16:23 better. In fact, it can look immaculate.
+16:28 Um you'll notice there's a lot of things
+16:30 happening in this couch. This is this
+16:31 this sofa's got um really low poly count
+16:35 and somehow it looks a lot more
+16:35 realistic. It's got some texture, it's
+16:38 got some
+16:38 movement in it. It looks pretty good. So
+16:43 we can take this to another level if we
+16:45 need to. And that's what this series is
+16:48 about. It's also about kind of touching
+16:50 on some problems you might run into
+16:52 along the way when we're trying to
+16:53 generate these things.
+16:53 I'm going to come back to our Tripod
+16:57 here.
+16:57 And I want to see if we can't take a
+16:59 look at what's happening in the normal
+17:02 map,
+17:02 some other maps that are happening here.
+17:06 We're going to try to export this. So we
+17:09 generated the PBR and I believe the
+17:09 process for this is hitting export. Now
+17:15 an OBJ file will not export um
+17:18 additional maps. That's just a
+17:18 limitation of that particular format.
+17:22 And so, what we want to move to is
+17:24 something like
+17:24 um I believe maybe a GLB will, but I'm
+17:28 pretty certain fairly certain that an
+17:31 FBX file will export additional maps.
+17:34 Let's give it a try.
+17:34 And so, that should be exporting right
+17:43 Let's do that. We'll save it. Should be
+17:45 unzipped in just a second.
+17:45 You can see it utilized the same name,
+17:50 so it showed up in the same folder for
+17:52 me. And there we go. We've got some
+17:52 additional maps. Now, if I take a look
+17:54 at this
+17:55 normals map, there's not a whole lot
+17:58 going on there.
+17:58 It didn't do all that much. There's a
+18:01 little bit. There's a little bit of
+18:01 movement. If we really zoom in, you can
+18:03 see there's a little bit of indentation.
+18:08 So, it's creating um something. And then
+18:11 here is the roughness map.
+18:11 Same thing. It's doing something,
+18:14 right? And then this base color map
+18:19 might have changed. It might have
+18:19 changed the way that this object is UV
+18:21 mapped. I don't think it did, but we'll
+18:25 check it out. So, here we go. We're
+18:25 going to come in here. We're going to do
+18:30 the adjust materials tool. We'll see
+18:30 what happens when we load this up. So,
+18:31 in the textures panel, I'm going to hit
+18:36 shift to get this import button here.
+18:39 And I get to go locate my
+18:45 And then I'll do the same thing.
+18:48 Shift import that roughness map.
+18:48 And let's see what happens from its
+18:51 auto-generated maps.
+18:51 You know, not a lot changed, but I am in
+18:57 I'm utilizing DLSS rendering, which
+18:57 isn't quite as realistic. We'll kick
+18:59 this off, and we'll let this sample out.
+19:03 And so, yeah, there's a little bit of
+19:05 movement on this that came from those
+19:07 maps.
+19:07 As I pan around,
+19:09 there's a few things here.
+19:12 But,
+19:12 what I will do in in some future videos
+19:16 is I'll show you how to make this look
+19:19 very realistic. This can actually look
+19:21 exactly like the real couch, and we'll
+19:24 split the mapping so that we can get
+19:24 this bottom so we can change the color
+19:26 of that as well, and we'll make an asset
+19:31 where you can even tint the material and
+19:34 have that look realistic, as well. So,
+19:36 this is just that base video that you
+19:36 need to get started in this series. You
+19:40 can come back to this as many times as
+19:42 you want, and I appreciate you being

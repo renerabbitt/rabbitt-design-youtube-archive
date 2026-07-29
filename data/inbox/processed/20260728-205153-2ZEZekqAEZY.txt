@@ -1,0 +1,316 @@
+Title: Selecting things accurately in Chief Architect X15
+URL: https://www.youtube.com/watch?v=2ZEZekqAEZY
+Visibility: public
+
+0:03 uh this video is in direct response to a
+0:05 post on Chief talk and I'm not going to
+0:07 list the original Poster's name because
+0:09 this is kind of beneficial to all but I
+0:11 will be addressing what they are
+0:11 speaking to in their post and so one of
+0:16 the selections excuse me one of the um
+0:18 suggestions that are in this post is
+0:18 creating some kind of an object browser
+0:23 and
+0:23 not that I'm opposed to that but a lot
+0:25 of the reasons for that suggestion seem
+0:30 to implicate that maybe the Arizona
+0:30 poster doesn't know about some of the
+0:33 things that we can do in Chief
+0:33 architecture currently and I'm here to
+0:37 help them out and their workflow if I
+0:37 can and it's not to say that they aren't
+0:44 a very skilled technician I would more
+0:44 accurately state that Chief Architect is
+0:48 a massive software and it's difficult to
+0:49 know all things and especially when
+0:51 you're coming and learning from a
+0:53 separate software where the
+0:53 implementation of specific tools are
+0:57 completely different than in Chief
+0:57 Architect it's not necessarily intuitive
+1:01 to learn these new tools in the way that
+1:03 Chief Architect intends keep in mind the
+1:06 software's been around for multiple
+1:06 decades now so it hasn't strayed too far
+1:11 from its original purpose and intent and
+1:14 function so let's go over a few things
+1:14 that that original poster might not know
+1:19 and might help you out the viewer and I
+1:22 have some of these view these videos in
+1:23 my
+1:23 chief of architect shorts playlist and
+1:27 I'd encourage you go watch those those
+1:27 are straight to the point you know under
+1:30 five minute videos
+1:30 but let's put them kind of all together
+1:35 and this is almost like what I do in my
+1:35 first training sessions when people hire
+1:39 me for training so let's go over first
+1:39 off I want to go over the Marquee select
+1:44 mode versus contained selection mode
+1:44 because it seems that the op is having a
+1:49 difficult time selecting objects in a
+1:49 busy grouping like this grouping right
+1:53 here where I've got a faucet a sofa a
+1:55 door and multiple Outlets as well as
+1:55 let's just throw this kind of cabinet in
+1:59 the mix and we can see how can we select
+2:03 these different items without kind of
+2:03 selecting all items so I'm going to get
+2:06 into preferences and I'll just tell you
+2:06 on a Windows machine it's really easy to
+2:11 get the preferences by Alt e f f enter
+2:14 and then if we even go shift tab we're
+2:14 going to get into our panel menu on the
+2:18 left hand side and that way I can type
+2:20 in some things so I'm going to type in
+2:20 EDI for edit and we're going to see here
+2:25 that we've got select intersected
+2:25 objects or select contained objects Now
+2:31 by default out of the box Chief is set
+2:31 to select intersected objects what does
+2:35 that mean let's go ahead and get out of
+2:38 this menu now when I draw a marquee and
+2:41 I'm just using the select objects tool
+2:43 you're going to notice here it selects
+2:45 everything that that Marquee passes
+2:45 through including the wall itself now
+2:52 and I'm going to switch to select
+2:52 contained objects now when I draw a
+2:55 marquee what's it going to do it's only
+2:59 going to select things that are
+2:59 completely contained within my selection
+3:03 now the next part of this original
+3:03 posters query was that it's hard to tell
+3:09 when he's he's selected something in a
+3:11 busy group from one object to the next
+3:11 and that's kind of the reason that they
+3:16 want an object browsers to have an
+3:16 easier way to edit just the thing that
+3:21 he wants to edit well we can still do
+3:21 that by doing a combination of different
+3:24 things but let's start with that
+3:24 contained objects mode and then let's
+3:28 also mention how we might be able to
+3:28 change the out of the box Colors Let's
+3:39 I'm going to type in col and we're going
+3:41 to see here selected line my selected
+3:41 line is pink and I would encourage you
+3:46 to change this to some bright color as
+3:46 well as selection fill I will note that
+3:50 my selection fill has an opacity of 10
+3:50 this was new to I believe x14 I think so
+3:56 that's a big one for me and then
+3:56 secondary handle fill primary handle
+3:59 fill selected Edge handle fill all these
+4:04 make a difference for selecting things
+4:06 very accurately and understanding your
+4:08 selections so I would encourage you to
+4:08 play around with those settings now that
+4:12 I have those colors set and we're on
+4:12 contain selection mode and I just want
+4:17 to select just this cabinet right here
+4:17 it's very easy for me to draw a marquee
+4:19 around that cabinet no problem if I just
+4:24 want to select say this Outlet right
+4:26 here it's easy for me to select just
+4:26 that outlet by containing that selection
+4:32 now let's complicate things further
+4:34 actually let's decomplicate let's
+4:34 simplify right T complicates not really
+4:39 a word let's simplify this even further
+4:39 we have tool restrictive selection modes
+4:45 meaning that if I select my full height
+4:47 cabinet tool and that's the active tool
+4:48 and it's acting like it's going to place
+4:51 a full height cabinet if I hold shift
+4:51 and draw Marquee what's it do well it's
+4:56 only going to select based on that tool
+4:58 so it's a tool restrictive selection
+5:00 mode same thing I want to click on a
+5:00 door and I'm just going to shift select
+5:06 notice that selects just that door very
+5:08 simply I'm selecting only what I want
+5:08 and that's it now what if we add to that
+5:13 selection by hitting control or if I
+5:15 hold shift and add some additional
+5:15 things to the Marquee well notice when I
+5:19 hold shift and try to add some things to
+5:20 the Marquee it's not going to work
+5:20 because it's still set on the door tool
+5:24 so it's still a tool restrictive
+5:24 selection mode if I hold Ctrl and draw
+5:26 Marquee still the same thing here right
+5:29 if I hold Ctrl and draw a bigger Marquee
+5:34 well what did it do it deselected the
+5:36 door in this case that was a tool
+5:36 restrictive deselection based on the
+5:39 control key okay so that means if I have
+5:46 a outlet and I'm doing a tool
+5:46 restrictive selection mode and I hold
+5:51 control and I deselect just this one
+5:53 Outlet by holding control drawing a
+5:53 marquee over it so very quickly we can
+6:00 select only what we want to select now
+6:00 this is separate from a couple of other
+6:01 methods of selection one we can create a
+6:07 schedule that has a listing of items in
+6:08 that schedule
+6:08 we'll show things differently based on a
+6:12 couple of different options one is that
+6:14 we can group similar objects
+6:14 and so go ahead and open this schedule
+6:18 up let's zoom in right here group
+6:18 similar objects with this unchecked it's
+6:22 going to create a separate line item for
+6:24 every object in your schedule that's
+6:24 important to note same thing if we go up
+6:30 here include objects from all floors we
+6:30 can in fact do that we can deselect this
+6:34 we can create schedules for different
+6:36 floors in this method that's another
+6:36 thing and then in columns to include the
+6:42 more we limit The Columns to include the
+6:44 more we have the potential of grouping
+6:47 by like attributes so that if we only
+6:47 limit this down to say type or floor or
+6:51 one specific thing if we only limited it
+6:55 to floor it's only going to show all
+6:55 objects from one floor right so this is
+7:01 a great way of creating a tool that you
+7:04 can use later okay notice we can't save
+7:06 this into the library right now but if
+7:08 we hold shift and then select it and
+7:08 make a cad block now we can add this to
+7:10 the library and this becomes a tool that
+7:15 we can use for later on we only would
+7:17 need to unblock this so now we have a
+7:17 duplicate schedule so this tool then can
+7:22 be used for different selections meaning
+7:25 that if I select a particular row like
+7:27 this utility cabinet then in my edit
+7:27 toolbar once I unblock this of course
+7:29 then in my edit toolbar I can say either
+7:35 find this object in plan or I can open
+7:35 that object in plan open row object okay
+7:42 and that makes it so I can edit like
+7:44 things all at once
+7:44 very cool now another way we might be
+7:47 able to select is maybe I want to select
+7:50 this cabinet here and I'm going to use
+7:50 that match properties tool so let's use
+7:53 that match properties and for argument's
+7:56 sake I'm going to select all press OK
+7:56 and it's going to list any other object
+8:01 that might has all the same properties
+8:01 now notice this is outside of the bounds
+8:06 of the room so it's not matching this
+8:08 cabinet right here which is for all
+8:08 other you know rights is the same exact
+8:13 cabinet now watch when we place this
+8:13 cabinet into the room and we try that
+8:16 match properties tool we're going to
+8:16 notice once we select all it is going to
+8:21 select this other object okay now the
+8:21 next thing we can do from here is if we
+8:24 wanted to apply these properties to
+8:24 another cabinet we can go and hit apply
+8:29 properties and then I can draw Marquee
+8:31 over this last cabinet and notice how
+8:31 now it's grouped in that selection where
+8:35 all properties are matched and it you
+8:35 can get more specific from here from the
+8:39 match properties dialog so that's kind
+8:39 of another way of selecting there are so
+8:44 many different ways we can select it's
+8:45 hard to even cover for it in one video
+8:45 let's go over the Marquee select similar
+8:50 tool
+8:50 notice if I take a base cabinet and
+8:53 shift select over this group it's only
+8:57 going to select base cabinets if I use
+8:57 the wall cabinet tool and it looks like
+9:01 I'm going to place a wall cabinet shift
+9:02 select over the group it's going to
+9:02 select this wall cabinet now if I choose
+9:07 a full height cabinet tool and I shift
+9:08 select over this group what does it do
+9:12 yes it selects all cabinets but notice
+9:14 it didn't select anything else this is
+9:16 still a tool restrictive tool it's not
+9:16 going to select the couch or the outlets
+9:21 Etc but it will select all cabinets what
+9:23 if I really only wanted to select upper
+9:25 cabinets excuse me full height cabinets
+9:27 well let me select the full height
+9:27 cabinet first and then I'm going to use
+9:32 the select Marquee similar tool
+9:32 our key select similar excuse me
+9:35 there we go now I'm only restrictively
+9:40 selecting something of a similar type
+9:42 and this goes for some specific
+9:42 electrical symbols as well notice I've
+9:47 got some can lights in here if I leave
+9:47 that can light tool selected and I shift
+9:51 select it's only selecting can lights
+9:51 isn't that funny and then if I go to a
+9:54 marquee select similar it's then it will
+9:59 select Outlets kind of the inverse to me
+10:02 but a couple of just different caveats
+10:02 of of those various tools so I'm hoping
+10:08 that this video helps the original
+10:10 poster kind of understand how the
+10:10 different selections are made and how we
+10:14 can quickly get to exactly what we need
+10:18 especially in a very condensed area so
+10:19 um
+10:19 and then ask me questions comments in
+10:22 this in the video comments section all
+10:25 this stuff kind of drives content if you
+10:29 uh you need some additional info about
+10:31 this we can get that
+10:31 um back to the original Ops mention does
+10:37 mention that you would like to have
+10:37 control over what's reported when he
+10:41 exports in colada
+10:41 and I would say I think that's more of a
+10:47 limitation of the colada file type or at
+10:49 least our specific implementation of the
+10:52 a lot of file type export I would
+10:52 encourage you to export using the 3DS
+10:57 file type because it will retain a
+11:00 component based structure versus a
+11:00 material based structure when we export
+11:04 in colada it's going to group things by
+11:07 material when we export in 3DS format
+11:07 it's going to group things by component
+11:11 which is what the original poster is
+11:11 actually asking for is they want some
+11:13 way to have some control for exporting
+11:15 maybe it's a third-party rendering thing
+11:19 who knows but have some kind of control
+11:19 over those names so they can distinguish
+11:24 between one thing to next and search
+11:24 within another software which is another
+11:29 part of why they want an object's
+11:32 overview tool of some sort so
+11:32 and just keep in mind another way to
+11:34 overview all objects is by creating a
+11:38 material list
+11:38 easy for us to open objects from a
+11:41 material list it can be a master list
+11:46 listing all components within the
+11:46 project file itself and then you can
+11:48 rename things and relabel things as well
+11:52 so that if I export you're going to
+11:52 notice there's some walls in here within
+11:57 my schedule and those particular walls
+11:59 I've relabeled to something specific
+11:59 like West so this is going to show up in
+12:04 my 3DS export which is what the op is
+12:04 asking for so hopefully this gives you a
+12:09 lot of cool tips and tricks and helps
+12:11 you go select things all willy-nilly
+12:11 without having to be all that accurate
+12:17 accurate in your mouse movements

@@ -1,0 +1,184 @@
+---
+videoId: Qh3DIvGU2Hs
+title: Automating Folder Icons, Job Project Folder Structure using Python With ChatGPT and no experience
+url: "https://www.youtube.com/watch?v=Qh3DIvGU2Hs"
+status: imported
+---
+
+# Transcript
+
+0:03 what's going on YouTube If you caught my
+0:06 live show yesterday I was trying to
+0:06 create a python script using chat GPT
+0:10 that did a bunch of things that are
+0:10 common for my workflow for organizing
+0:13 job folders and so um I'm going to just
+0:19 show you this script working there is
+0:19 some kind of like goofy little Oddities
+0:23 that happen just in a Windows platform
+0:26 um so you know that's part of it I'll
+0:28 show you what ended up being my
+0:28 Solutions so one is that I get a project
+0:34 file from a client and then on top of
+0:34 that um I go and do a screen clipping or
+0:41 search for their uh icon uh for their
+0:41 their you know their brand I should say
+0:47 and their company name so in this case
+0:49 maybe it's suprema homes which is an
+0:53 awesome company out in I believe
+0:53 the the Northwest okay and so I will
+0:57 typically click on the images and then
+1:01 from here I'll do something like this
+1:01 I'll rightclick and I'll go search image
+1:06 with Google so maybe I'll find a couple
+1:09 of different icons for Supra homes here
+1:11 we go that's perfect so I could just
+1:11 take this save this image as this is a
+1:22 suprema there we go so now I have that
+1:24 here I'm going to get rid of this one
+1:24 Whatever icon exists here and whatever
+1:32 plan file exists here will be utilized
+1:34 within my python script and so here is
+1:34 it working I'm going to double click it
+1:38 to start the action it's going to say
+1:38 enter the client's name for the folder
+1:42 this is going to be suprema homes all
+1:42 right and then uh the client's project I
+1:47 might be able to find out what the
+1:47 client's project I think this is worthy
+1:51 or something like that so there's the
+1:55 client project name and now my python
+1:55 script has done everything I needed it
+2:00 to do now here's the caveat is um we
+2:00 need to clear the icon cache of Windows
+2:02 in order for this to show up or you do a
+2:07 restart that's going to work as well but
+2:09 I could just hit Alt Enter and click
+2:11 over to customize and press okay Alt
+2:11 Enter click over to customize press okay
+2:17 and now it's worked so now the folder
+2:19 has the icon that I want on it and
+2:19 within the folder I have a couple things
+2:24 one is rabid design portal which is what
+2:26 I save back to the client I give them a
+2:29 Dropbox link to this that way in their
+2:30 Dropbox
+2:30 it's very easy to find hey rabbit design
+2:35 I work with them great then double click
+2:38 that within that is our project folders
+2:41 right so here's that project worthy and
+2:41 here is a backdated version of this file
+2:48 that they gave me okay that's backdated
+2:50 now there's my new naming convention
+2:50 this is our current date so 24322 that's
+2:59 March 22nd of 2024 drva design review a
+3:01 version one one Worthy is the job name
+3:04 we're in the worthy folder and my
+3:04 initials are are within there we've got
+3:10 the received file which is- ab and we
+3:10 made another copy dasn notice I didn't
+3:16 do anything except for click my python
+3:16 script it did all of this for me so that
+3:21 I can just doubleclick my new plan and
+3:24 start doing my work and it's falling
+3:24 within my naming convention and I get to
+3:29 go take suprema homes drop this into my
+3:31 main project directory get rid of this
+3:34 PNG and there we go so if you were
+3:34 watching me yesterday try to figure this
+3:39 out I did figure it out uh thank you for
+3:40 anybody that was in there hanging out
+3:40 with me and yeah I can't wait to start
+3:46 making some more automation to kind of
+3:49 cut down on redundant tasks for me
+3:49 because tell you the truth this is a
+3:52 really tedious process I'll show you how
+3:56 it goes I go control shift n for a new
+3:56 folder Supreme hole homes let's see how
+4:03 long this takes me and well
+4:03 unfortunately I've already got a suprema
+4:07 home so let's just get this file so
+4:07 we've got something to work with fer
+4:09 generator we'll get rid of this and oops
+4:16 got rid of that
+4:16 so let's try that
+4:26 again let's get rid of suprema homes
+4:26 let's get rid of our new folder let's
+4:27 try this all over again so now this is
+4:29 the process let me see if I can't see a
+4:32 Time marker
+4:32 here we're at 4 minutes and 30 seconds
+4:36 so I'm going to start at about yeah 445
+4:42 so here we go contr shift n Supreme
+4:46 homes and then I need to somehow
+4:46 generate an icon for this one way I
+4:49 could do that was go back to the
+4:52 internet go to
+4:54 convertio
+4:54 docio I could scroll back here drag this
+5:03 onto
+5:03 convert. type this down go
+5:06 icon bam convert it have to sit here and
+5:12 wait for a
+5:12 second can download it I need to make
+5:16 sure I'm taking it to the correct
+5:16 location which is going to be in my
+5:21 images directory then in icons and
+5:21 here's where I would save it we're just
+5:23 going to call it suprema icon so I'm not
+5:28 overwriting what I had before get back
+5:32 here Alt Enter go to customize change
+5:33 icon
+5:34 browse I'm already in the icons here so
+5:38 I get to type in
+5:38 Supra there we go now I've applied
+5:46 that from here I've got to go
+5:50 rabit design portal with no
+5:50 mistakes make another one that is uh
+5:56 backd so
+5:58 [Music]
+5:58 24321 received
+6:00 and then I'm going to drag this in here
+6:13 that right I need to rename this
+6:18 23422 drva V1
+6:18 worthy and then our
+6:21 R okay I'm going to do worthy as the
+6:24 project name I need to get in here and
+6:31 F2 -
+6:31 AB copy
+6:36 paste
+6:44 dasn there we go go back a level now
+6:45 I've got these two go into worthy worthy
+6:52 goes into rabbit design portal that goes
+6:55 into Supremo homes now I'm finished how
+6:55 long did that take uh at my fastest that
+7:02 took maybe 3 minutes so let's just pull
+7:04 out the calculator check this out um
+7:06 let's just say we're going to do 3
+7:06 minutes and we're going to do times 30
+7:11 clients in a year
+7:11 right so that's going to be 90 minutes
+7:15 it's an hour and a half so they're
+7:15 saving an hour and a half saving an hour
+7:20 and a half a year times let's say I'm at
+7:26 a billing rate of well 1.5 time 200 300
+7:27 bucks so we're saving 300 bucks a year
+7:27 just by creating that one script script
+7:32 and it took me a couple hours to create
+7:33 that script
+7:33 so after this year I'm saving 300 bucks
+7:38 a
+7:38 year but the point is this stuff adds up
+7:43 right automation adds up and there's no
+7:46 way I'm doing that every time with that
+7:46 level of speed right that was very quick
+7:49 so you
+7:49 know think about automating redundant
+7:52 tasks I'll tell you more than anything
+7:55 that just that was peace of mind that's
+8:00 such a frustrating process for me it's
+8:02 so nice to be able to click type in a
+8:02 few things have it be done so fast so um
+8:08 check out that live video if you want to
+8:11 see how it was done because I got 90% of
+8:24 [Music]

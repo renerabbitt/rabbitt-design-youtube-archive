@@ -1,0 +1,1295 @@
+Title: Destructive Sharing Editable Files Versus Sharing A Copy From the Cloud
+URL: https://www.youtube.com/watch?v=SgpEqcrtrhc
+Visibility: members-only
+
+0:00 Let's get into some of the basics of
+0:02 sharing files with other people and
+0:05 sharing files with
+0:08 yourself. What happens when you share
+0:10 files with yourself? What's the purpose
+0:12 of that? Well, maybe you have multiple
+0:14 machines. That part would be nice.
+0:17 There's a couple other really big
+0:20 benefits to sharing files across systems
+0:23 and basically having access to files on
+0:26 the web that otherwise would typically
+0:28 just live on your machine. What's one of
+0:30 those use cases? Well, we could go rent
+0:35 a much more powerful machine to do
+0:38 something like some really high-end
+0:40 rendering, for instance, and get instant
+0:43 access to our files and get our files to
+0:47 that machine so that we could get to a
+0:50 rendering in just a few minutes of
+0:52 setting up. Wouldn't that be nice? You
+0:55 go to a website like I render. You go
+0:58 open up your account. You log into a
+1:00 machine that's available and you log
+1:02 into your Dropbox or your cloud-based
+1:05 account and you download your files and
+1:06 you render your shot and you close it
+1:08 all down. Bam, $4, you got an amazing
+1:12 rendering on a machine that otherwise
+1:14 you wouldn't have access to. That's one
+1:17 really cool use case for getting to know
+1:20 cloud-based systems. Now, we're not
+1:23 getting in that. Not this time around.
+1:26 And this is a really nice segue into why
+1:30 we're going to end up talking about
+1:32 using cursor AI in our workflow or some
+1:35 kind of AI based file management
+1:38 systems. And that's because I already
+1:41 have hundreds of videos on my channel
+1:44 where I mention we'll touch on that
+1:46 topic later and I never touch on it
+1:48 again. In fact, I completely forgot that
+1:51 I said it and I never go back to
+1:53 actually touch on these subjects that
+1:55 I'm passionate about and that you would
+1:57 probably like to know about. Enter
+2:00 Cursor AI. And this is just another
+2:03 thing we're going to talk about later
+2:04 cuz we're not there yet, but we're going
+2:06 to get there soon enough. So, I'm going
+2:09 to show my main screen here and bring
+2:11 Cursor AI onto that screen real quick so
+2:14 we can just see what's happening here.
+2:15 And right now, I have Cursor AI. It's
+2:18 looking at what's called a workspace.
+2:20 You don't need to follow along on this.
+2:21 You can just listen if you'd like. But
+2:23 what the workspace is doing is it's
+2:25 looking at a number of files. It's
+2:27 looking at the videos that I've already
+2:29 made for this series. And my videos
+2:32 automatically create transcripts. And
+2:34 the
+2:36 transcripts, I can have AI go and look
+2:39 through them. And what I said
+2:40 specifically was go look up through my
+2:42 transcripts, mention what I said that I
+2:44 would mention in later videos and make a
+2:47 list of that so that I don't forget to
+2:49 go back and make those videos including
+2:53 I have right here next video topics
+2:57 immediate followup with the next video.
+2:59 That's this video right here, which is
+3:02 file sharing and collaboration,
+3:04 one-on-one file sharing,
+3:06 demonstration, process of sharing files
+3:08 with others, projectbased folder
+3:12 structure setup. That's going to be a
+3:14 big one. That means this video is going
+3:15 to be a little longer. And then cross
+3:18 system editing capabilities. I don't
+3:20 even know what that means. We're going
+3:21 to have to just make it up. and folder
+3:23 structure and system organization
+3:25 walkthrough, which we kind of did in the
+3:27 last video, but we'll get further into
+3:29 that. And then in this case, it's saying
+3:31 window-based setup with MacOSS
+3:33 applicability. So, that makes for a
+3:36 great little setup here for this video
+3:39 and what I can go over in this video,
+3:42 which let's just start with that
+3:43 one-on-one file sharing demonstration.
+3:46 And so I'm going to bring up Windows
+3:48 Explorer, which we can already see.
+3:50 Here's my last videos, my rough
+3:52 recordings here, and funny little cover
+3:55 art faces. This is why I make cover art
+3:57 because you didn't really want to see
+3:58 this at the cover of your video, did
+4:00 you? So, what are we doing here in terms
+4:03 of one-on-one sharing? When do we want
+4:05 to share with others? And what does that
+4:07 mean to us in a cloud-based system? So
+4:11 these files right here if we notice the
+4:13 full path URL and this is there's a
+4:16 difference and this is something that we
+4:18 should know over time is that this is a
+4:21 full URL and there are other things that
+4:23 are considered short URLs that systems
+4:26 can access very easily. meaning that if
+4:30 I had some software and it's pointing to
+4:34 a particular
+4:36 directory nowadays the more modern
+4:39 cloud-based systems will take a short
+4:42 URL versus a long URL what does that
+4:45 mean specifically the long URL is
+4:48 indicating that this is in the C drive
+4:50 in the users folder etc etc the short
+4:53 URL might just pick up that this is in
+4:56 blank blank blank blank blank some kind
+4:58 of place marker, whatever, find this
+5:00 Dropbox folder, and then take the URL
+5:03 from there. Meaning that we could have
+5:06 systems where they're not structured
+5:08 exactly the same, but we're getting to
+5:11 that information in the same way. And in
+5:14 fact, Windows does something similar in
+5:16 the fact that you can do, and I'm not
+5:18 sure I'm going to get this right on the
+5:20 first time, but I believe you can do
+5:21 username percentage sign, and that gets
+5:24 you to Well, I did it wrong, but that
+5:26 would get you to your user folder out of
+5:30 the box, just like we can do uh app data
+5:34 percentage sign, and this is going to
+5:35 get us to a system folder. That's a
+5:37 place marker. Whereas the full URL is
+5:41 see users my name app data roaming. I
+5:45 could just put a place marker thing
+5:47 which is a you know a shortcut to a
+5:49 short URL. Why does any of that matter?
+5:52 Well, I kind of explained it just a
+5:54 little bit in that the modern systems we
+5:56 can point to a directory that might be
+5:58 in a shared location such as a network
+6:02 drive. And this is going to get into
+6:04 something more advanced. So again, we're
+6:07 going to cover this topic in a later
+6:08 video as the series goes on. We're just
+6:11 building and these are all building
+6:12 block videos to get to understand a
+6:15 broader system that sure it might be
+6:18 more complex, but by the time we get
+6:20 there, I don't think it will feel
+6:22 complex and you'll see all the benefits
+6:25 of building a system that is pretty
+6:27 bulletproof and you know when it's
+6:30 finished is actually simple in its
+6:32 process.
+6:34 So, we'll get there. In the meantime,
+6:38 let's share some files. Let's get into
+6:40 Dropbox. Let's find something to share.
+6:42 Why not just create a new folder? I'm on
+6:45 Windows, so I get to hit control shiftn
+6:47 for new. And I made a new folder. And
+6:49 I'm going to name it test share folder.
+6:53 Okay. And what happens immediately? You
+6:56 might have even missed it. I almost
+6:58 missed it right there. What if I just
+6:59 change the name of this real quick?
+7:00 Let's go test share too real quick. Look
+7:03 at what happens. You see that little
+7:04 icon? That meant that if we're looking
+7:07 down at the bottom system tray here,
+7:09 we're going to see something being
+7:11 synced here. Okay. And we scroll through
+7:14 and it's going to eventually pick up
+7:16 that test share or that test share is in
+7:18 here already. All right. And so it's
+7:21 syncing these files almost immediately
+7:23 because I have that Dropbox Desktop app
+7:26 running and it's actively almost what
+7:29 you would call listening to this folder.
+7:31 Okay, so this test share now that it's
+7:34 synced up. We notice here the big
+7:37 difference between this cloud icon and
+7:40 this checkbox, okay, is that this is a
+7:44 folder that is not completely meaning
+7:47 all of its contents are not completely
+7:50 made available offline. All right. Now,
+7:53 I'm going to show you how this works.
+7:55 Let's in fact open this folder up. I'm
+7:57 going to create a brand new file and
+7:59 it's going to be just a text document
+8:01 and we're going to say example text
+8:03 document.
+8:07 Now, with this example text document,
+8:09 what I'm going to do with this, and I
+8:11 want you to note something. Let's get
+8:13 back here. And where do we have it? We
+8:15 have test share 2. Still a checkbox.
+8:18 Okay. Not a cloud text box. We'll get in
+8:21 here. I'm going to say that this file is
+8:24 now well, let's first of all, let's make
+8:26 a duplicate. Make a duplicate. We'll
+8:29 copy. We'll paste. I'm going to say that
+8:31 one of these files is not one that I
+8:34 want on my machine anymore. I just want
+8:38 it synced to that magical cloud where I
+8:40 can access it later so long as I'm
+8:43 logged into Dropbox. And so what I'm
+8:45 going to do here is I'm going to get
+8:47 into the settings here. So I'm going to
+8:48 rightclick again, Dropbox, and I'm going
+8:50 to say make online only. All right. Now,
+8:55 this is different from Drop for Dropbox
+8:58 to other cloud services. There's always
+9:00 going to be some version of this. Make
+9:02 online only, make available offline. It
+9:04 might be named something different. You
+9:06 know, over the years, as years go by,
+9:08 they might change these buttons, what
+9:09 they do, what they're called, but the
+9:11 same idea is there is that make online
+9:15 only means it no longer lives on our
+9:17 machine. There's a little bit of a shell
+9:19 of it left over. There's a breadcrumb,
+9:21 if you will, left over. Okay, just to
+9:23 remind you of these things. These is
+9:25 this is more of the beginner segment of
+9:27 this series. Now, make online only.
+9:30 We've done this. Now, look what happens
+9:33 if we kind of, and by the way, this is
+9:35 just a trick in Windows. If you're in a
+9:37 Windows machine, I'm holding control
+9:39 mouse wheel up. Sizes these up very
+9:42 quickly. All right. And I can see here
+9:44 one has a checkbox. This is indicating
+9:47 to us this is an offline file. It's on
+9:50 our hard drive. That cloud then is
+9:53 indicating to us that this is an online
+9:56 only file. Okay. If I were to try to
+9:59 open this, watch what happens is it get
+10:03 it gets a check mark. It's now on my
+10:05 machine. But if I close it down, still a
+10:08 check mark. What happened? It's no
+10:10 longer being an offline file in this
+10:13 case. Let me go ahead and say make
+10:16 available, excuse me, make online only
+10:18 again. All right, it takes it back off.
+10:20 Now, I'm going to go back to that root
+10:22 directory where we have the folder that
+10:24 contains these two files. And we're
+10:26 going to see something here. Look at
+10:27 that. Now this has changed from a
+10:30 checkbox to a cloud because that means
+10:32 something inside of this folder in any
+10:35 kind of
+10:36 subdirectory something is online only.
+10:40 Okay. If instead we were to change this
+10:44 back to make available offline, that
+10:46 checkbox would show back up here. Here's
+10:49 the next part about that. If I were to
+10:52 rightclick on this and get down to that
+10:54 Dropbox menu and say, "Look, I want to
+10:57 make available offline." What's it going
+11:00 to do? Check mark inside. Check mark.
+11:03 Check mark. Now, every subdirectory is
+11:07 available offline. It's on our machine.
+11:10 It's taking up space. We have immediate
+11:12 access to it regardless of Dropbox and
+11:15 regardless of being on the internet or
+11:17 not. Okay.
+11:20 Now, let's go back. Same thing.
+11:22 Rightclick, Dropbox. I want to Let's
+11:26 see. Make online only. Bam. Now, we've
+11:30 got the cloud. Now, both of these files
+11:33 are online only.
+11:36 Okay, let's go back. Here's the next
+11:39 part we get to do. I'm going to change
+11:43 this text. I'm going to add a bunch of
+11:45 stuff here. All right. And I'm going to
+11:48 hit, in my case, control S, command S.
+11:52 If you're on a Mac, save this file.
+11:54 Control W, Command W. I think maybe
+11:56 closes it out. Maybe not. Um, and then
+12:00 let's just put some other text in there.
+12:02 Why not? And I'm going to close that
+12:06 down. So, what happened? I changed
+12:09 something, right? It changed some text
+12:13 within here, right? Both of these files
+12:15 have now been updated. Let's say that I
+12:18 did that by accident. In fact, let's say
+12:20 that I deleted this by
+12:24 accident. What do we do? Especially if
+12:27 you're on a Windows machine, if you hit
+12:29 shift delete, that doesn't even take it
+12:31 to the trash, that actually completely
+12:34 removes it from your hard drive
+12:37 completely. Okay. So, what do we do?
+12:40 What's this big benefit about cloud that
+12:42 we're hearing about?
+12:44 Well, we have a backup. It's there. It's
+12:48 on the net. I'll show you what I mean.
+12:50 We'll get into Dropbox. I'm going to
+12:52 write click on this folder. I'm going to
+12:54 go to that Dropbox drop-own menu. And
+12:58 I'm going to say view on
+13:02 Dropbox.com. This is what it shows me.
+13:05 Okay. And this is just, you know, we're
+13:08 on 0526 2025. That's the date today. All
+13:13 right, that's when this video is
+13:14 published. And as of today, this is what
+13:17 Dropbox looks like. And so, currently,
+13:20 we see a few things here. We're in that
+13:22 test share folder. That's where we're
+13:24 at. This is that example text copy. One
+13:28 is that I accidentally added text into
+13:30 this that I didn't want. I want the
+13:32 previous copy. Two is that we're missing
+13:35 that other example text file. It's gone,
+13:38 and I want it back. What can I do about
+13:41 it? Well, a couple different things. One
+13:44 is that we can hit the more button on an
+13:47 individual file. Okay, the dot dot dot
+13:50 right here and right there activity.
+13:53 Now, they change the name of this
+13:55 sometimes, but this right now is called
+13:57 version history. When we open up version
+14:00 history, we actually see a history of
+14:02 this file and the changes that have been
+14:04 made. Okay? And so I could right here
+14:08 click on preview or restore. If I hit
+14:12 restore, I will tell you what it's going
+14:14 to do. It's actually going to it's look
+14:16 at this will be restored to the version
+14:19 from today. All other versions will
+14:22 still be saved. Okay. So we're going to
+14:24 restore to that version of today. Now
+14:27 we're on
+14:29 Dropbox
+14:30 online. I'm in Chrome web browser. I'm
+14:33 not on my machine. And I'm not in
+14:35 Windows Explorer in this in this moment.
+14:38 Okay, we're online only. And so what's
+14:41 happening here? When I click the dot dot
+14:43 dot, notice there's only one file in
+14:45 here. When I click the dot dot dot and I
+14:47 hit file activity, all right, we're
+14:49 going to see some things that we did.
+14:50 You edited this file, you viewed this
+14:52 file. That's all very nice. When I
+14:55 hit version
+14:58 history, right now we have the ability
+15:00 to look at a few things that we did. We
+15:03 added, we restored, we edited. We could
+15:05 still restore the edited version. All
+15:09 right. What does this tell you? This
+15:12 means what if we by
+15:15 accident edited our main file, but we
+15:19 want to keep the edited file and we want
+15:22 to get that old file that we edited as
+15:25 well. So the process in this case would
+15:28 be let's go ahead and make a copy. For
+15:31 argument sake, let's just put it
+15:33 somewhere else on our machine. And then
+15:36 that's that copy is the current version.
+15:39 Then you go into Dropbox online. You
+15:41 restore the previous version. Now you
+15:44 have the previous version and the
+15:45 current version side by side. And you
+15:47 can do with that what you will. Okay,
+15:51 that part's all important. All right.
+15:53 Now the next thing that's important
+15:55 about this, we're on Dropbox online. we
+15:58 still have an active client server
+16:00 relationship with Dropbox online.
+16:03 Meaning that when I come back to file
+16:06 explorer to go look at that particular
+16:08 file, we're going to see in here that
+16:10 here is our test share folder. If I open
+16:13 this up and then open up this file,
+16:17 you're going to note that there's no
+16:19 text here anymore. What's happened? it
+16:22 got reverted back in the short amount of
+16:24 time that we were on Dropbox online and
+16:27 reverted back in history. It already
+16:30 updated our file. So, this is a two-way
+16:33 experience that we're having with our
+16:35 online files and our cloud service.
+16:37 Okay? It's not that we're just sending
+16:40 things out to the cloud to just be
+16:43 unmanaged. We can still manage things
+16:45 from the cloud and have it update back
+16:48 to us. What does that mean? Well, have
+16:51 you ever tried to move a file and that
+16:54 file is actively open in a program? So,
+16:58 your operating system tells you that you
+17:00 can't move it. Well, in that case, for
+17:03 some reason, if you can't figure out why
+17:06 you can't move a folder when you're
+17:08 restructuring data, then you could
+17:11 feasibly go into Dropbox online and move
+17:14 things around there, and it will update
+17:16 your system for you. Keep in mind that
+17:20 any kind of locked file it's going to
+17:22 create some kind of redundant copy for
+17:24 and that's a little bit advanced and
+17:27 we'll go over that in another video
+17:30 later on. I promise. So, let's get to
+17:34 the next part of this. I'm going to get
+17:36 back to Dropbox online and we're going
+17:38 to go look back at this version history.
+17:40 I'm going to go back a level and we're
+17:42 going to look in this. we see this test
+17:44 share file and I'm missing that other
+17:47 file and I since I'm missing it, how do
+17:50 I bring it back? And this is where it's
+17:53 just nice to know this particular
+17:55 interface. You know, I don't I'm not
+17:57 really going to go over every single
+17:59 cloud service out there that I have, but
+18:01 I'm going to stick with Dropbox because
+18:02 they're all very similar. And just to
+18:05 tell you that there is a method to find
+18:07 that missing file. In this case, I
+18:09 believe it's just the gear icon next to
+18:11 the folder name itself. And then you get
+18:14 into folder activity. Within folder
+18:17 activity, we should
+18:19 see, excuse me, let me turn off that
+18:21 ringer. We should see within here some
+18:24 things that are going on. And then also
+18:26 within folder activity, we're going to
+18:29 get into, let's see here, show deleted
+18:32 files. There we go. That's the real one
+18:35 that we're looking for.
+18:39 So for show deleted files, what we've
+18:42 got here is there's our deleted file.
+18:44 And you can even see the icon. It's a
+18:46 really tiny itty bitty icon. Let me see
+18:49 if I could zoom in on that a little bit.
+18:51 But yeah, this is just indicating that's
+18:54 that file that we deleted. So we can
+18:55 just put a check mark next to this. You
+18:57 see that it's deleted. You can click on
+19:00 more. You can click on restore. And
+19:02 that'll get it back into that file. and
+19:05 it brings us up a little thing here. You
+19:07 deleted us on Monday, Pacific time, etc.
+19:10 Let's click restore. Let's get back to
+19:11 that folder structure real quick and see
+19:13 how fast that happened. Wow, it's
+19:16 already there. Well, happens to be that
+19:18 the folder is a really small folder.
+19:19 It's got zero bytes, so it's pretty
+19:21 quick to bring that forward. But I will
+19:24 tell you that from experience, this is
+19:25 still pretty fast. But also, now you
+19:28 should know what these icons actually
+19:30 look like,
+19:31 right? That's all a big part of this.
+19:37 So, next up, let's just get into a
+19:39 simple share. A very simple share. So,
+19:42 I'm going to get back into this. And
+19:43 what I want to do is I'm going to show
+19:45 you how we share a file where the folder
+19:48 that or file or folder what we're
+19:51 sharing is something that we want to
+19:54 keep complete control over. Meaning that
+19:57 we don't want any editing capabilities.
+19:59 We just want to share a copy with
+20:00 someone.
+20:02 This is really a great use case for what
+20:05 if we want someone to be able to edit it
+20:08 on their side and not have it affect our
+20:10 copy. That'd be the main reason, right?
+20:12 So maybe someone's just asking for
+20:15 access to something. Hey, can I get a
+20:17 copy of that? It's essentially what
+20:18 we're doing. So all we're doing here in
+20:21 this case is right-clicking and getting
+20:23 in a Dropbox and we're going to create a
+20:25 Dropbox link. or you might want to first
+20:28 go to manage folder access if you want
+20:30 to set some specific parameters about
+20:32 this. Now, let's keep in mind, notice
+20:35 that our test share folder has that
+20:37 cloud icon on it. That does mean that
+20:40 it's online only. That does not inhibit
+20:43 us from sharing that folder. The share
+20:47 side of things actually comes from
+20:49 Dropbox online. It's being managed
+20:51 there. We're just essentially forwarding
+20:53 some instructions. Okay. So I can get
+20:56 the manage folder access for this
+20:58 particular folder and I want to set up
+21:01 the settings for my particular link. So
+21:04 link for viewing is what I want in this
+21:06 case. So people with this link can view
+21:10 and then there is a link for viewing. I
+21:12 could create a link or I could get into
+21:14 folder settings and show who's viewing
+21:17 this file to people who can edit.
+21:19 There's some stuff there. Manage access
+21:22 folder members. This is going to be the
+21:24 next step. But for this the purpose of
+21:27 this step, we're going to get to link
+21:29 for viewing. We'll create a link. And so
+21:31 there we go. It's going to generate a
+21:33 link. And we get some additional
+21:35 options. People with with this link
+21:39 can anyone with the link or only people
+21:43 invited. This is a really important
+21:45 aspect of this. If we were to click only
+21:48 people invited, then it's going to say
+21:52 people who have used this link might
+21:53 still have access, but you can check the
+21:55 list of people with access and remove
+21:58 them. So that's kind of an interesting
+22:00 thing. All right, so this is when we're
+22:03 generating a link where we're sharing
+22:05 that link with someone because this
+22:07 isn't just about creating a link in that
+22:11 menu. This is also for some of the other
+22:13 setup items such as share item. All
+22:16 right. So, this is setting up these
+22:18 options for those different options. I
+22:22 know it's a little bit redundant and
+22:24 difficult to explain, trust me. So, here
+22:27 we go. We can set an expiration. We
+22:29 could require a password. We could
+22:31 disable downloads. There's a number of
+22:33 different reasons and use cases that you
+22:35 might do any of these different things.
+22:38 expiration in this case. Um, I could
+22:40 think of a number of different reasons
+22:41 for this is that maybe I just want to
+22:44 make sure that some data is not floating
+22:46 out on the internet there and it's just
+22:48 a one-time use case and I want to make
+22:51 sure that I'm giving myself a little bit
+22:53 of protection in case it's, you know,
+22:54 vital info that's really only meant for
+22:57 one person to take a look at, right? I
+22:59 don't want that link to stay perpetual.
+23:01 I just don't want for any reason maybe
+23:04 I'm going to modify the contents of that
+23:06 and maybe in the future I don't want to
+23:07 share that. Who knows? So there's a
+23:09 number of different reasons you might
+23:10 add expiration on top of this. Also this
+23:13 can kind of help you in terms of
+23:15 management if you're going to create a
+23:17 link that you're sharing to public is
+23:19 that you might want to restrict access
+23:21 to this in order to kind of understand
+23:24 where analytics are coming from. Maybe
+23:26 you're sharing something and you're kind
+23:27 of trying to get some ideas of who
+23:29 accesses this and when might be
+23:31 something some aspect to that. The
+23:34 required password is an impactful one
+23:36 for me which is that I just shared some
+23:39 proprietary data for a troubleshooting
+23:41 thing on a particular software and I
+23:43 want to make sure that for no reason
+23:45 anyone can get to this that shouldn't be
+23:47 getting to this. So I'm adding a little
+23:49 bit of security on top by requiring
+23:51 password. That's kind of the use case
+23:53 for that. And then disabled downloads.
+23:56 That's a real big one. That's really
+23:58 just so that we can just do a viewing
+24:00 only. We can only view this file in some
+24:03 kind of built-in viewer, especially for
+24:05 like Dropbox or some kind of online
+24:07 based thing where maybe they can go view
+24:09 a PDF, but we're making it so that it's
+24:12 difficult to download that PDF. Okay.
+24:14 So, disable downloads. That's going to
+24:16 be a big part of this as well. Might
+24:18 have a use case for that. So now that we
+24:21 have our link for viewing, we just get
+24:23 to hit save. And so the next thing that
+24:26 we get to do is link for viewing only
+24:28 people that can view this link, right?
+24:30 We can delete that link. We have this
+24:32 option now to remove it, recreate it if
+24:35 we want to, etc. And then let's just hit
+24:40 close. And we can close that down. And
+24:42 if I were to just to paste in here,
+24:44 nothing's happening. So it didn't
+24:45 actually create a link and put it into
+24:47 my clipboard. Instead, what I would do
+24:50 is come back into this Dropbox menu and
+24:52 just copy Dropbox link. And then this is
+24:54 going to be that share only link. Just
+24:56 like that. So, if I hit this and
+24:58 navigate to it, there is that sharing
+25:00 that test share folder very easily. And
+25:04 there we go. Now, I happen to be logged
+25:06 into Dropbox. So, this screen looks a
+25:08 lot different when you're logged in
+25:09 versus if you're not logged in. So, if I
+25:12 was actually logged out of my Dropbox
+25:14 account and I were to receive that link,
+25:17 what's going to happen here is this.
+25:18 It's going to ask me to log in because I
+25:20 happen to have an account. But if I
+25:23 don't want to to keep test share secure,
+25:25 we need to confirm your identity. So,
+25:27 you need to give us our your info or
+25:29 something like that because that's part
+25:31 of the link generation in this case. All
+25:34 right. Now sometimes you can create a
+25:37 link like what I have in my shop items
+25:39 where those particular links will give
+25:43 someone the ability to download the
+25:45 files even without signing in. Some
+25:48 services have this. This is one of the
+25:50 things that I really love about Dropbox
+25:53 is you can generate a link that doesn't
+25:55 require the end user to have a Dropbox
+25:57 account to get the stuff that you're
+26:00 trying to share with them. That's great
+26:02 for a clientside experience if you're
+26:04 just trying to share some files with a
+26:06 client. Now, let's get back into this
+26:09 and let's do that second type of link
+26:12 sharing, which is what I call a
+26:14 destructive link sharing. We want to
+26:16 give someone access to a folder that
+26:19 then they can change and we will see it
+26:23 on our side as they do on their side. So
+26:26 they can change a file and it will
+26:29 change our file on our side. Now that
+26:32 sounds a little bit scary, but you do
+26:35 know now that we've watched this video
+26:37 and we've learned a few things that you
+26:39 could always revert back to some
+26:41 previous version. But on top of
+26:43 reverbering reverbering Roberta on top
+26:46 of reberaing back to a previous version
+26:50 it might be nice if we internally create
+26:54 some kind of a versioning system when we
+26:57 get into sharing in a destructive
+26:59 workflow where both sides get to edit
+27:02 that particular folder and the files
+27:04 within it.
+27:06 Okay, first of all, let's figure out how
+27:08 do we even share this so that both sides
+27:10 get to edit this couple different ways.
+27:13 We're going to rightclick again, get
+27:14 into Dropbox, and we can do obviously
+27:18 transfer a copy is just passing over a
+27:20 copy. So, that's not something we're
+27:21 we're editing. It's a copy in this case.
+27:24 The the language here is very specific.
+27:26 We know about make online only and make
+27:28 available offline. We know about view on
+27:30 Dropbox.com. What you can do, you can go
+27:32 on to dropbox.com and go share from
+27:35 there. That might feel a little bit more
+27:37 intuitive for
+27:38 you. And then there's this share and
+27:41 manage folder access. When we click on
+27:44 share in this case, this goes anyone
+27:46 with this link can edit. And you can
+27:49 drop down and say can view instead. This
+27:52 is a really fast way to just change
+27:54 between those two modes. All right. Or
+27:58 we can say can edit and then add an
+28:01 email that we are going to go send this
+28:03 to. And what does that happen? What I
+28:05 mean what happens with that? I'll show
+28:07 you on my side what that experiences and
+28:09 and how I utilize this. The other thing
+28:11 is if you click on settings here, it
+28:13 gets us to that same settings window.
+28:15 Okay. So there's that folder settings
+28:18 again. And I'm going to hit cancel and
+28:19 it takes us back a level. So hitting
+28:21 cancel doesn't just X out of this.
+28:23 Hitting cancel just brings us back to
+28:25 this window we were just in. And then we
+28:27 can create and copy a link. So create
+28:30 and copy a link is a little bit
+28:32 different than just adding an email
+28:34 address here. Let me just add my own
+28:37 email address here and say all right.
+28:39 And you can even add a little note here
+28:41 if you wanted to. And then just click
+28:43 share folder. What that does is this
+28:46 sends an email to my Renee Rabbit at
+28:49 Yahoo in this case and says that hey
+28:52 Renee Rabbit at Gmail just shared a
+28:54 folder with you. Here it is. Sign into
+28:56 your Dropbox account. It will be added
+28:58 to your Dropbox. That's what it
+29:01 does. When both sides have Dropbox
+29:05 accounts and you share using this
+29:08 method, then it adds it to their
+29:10 account. it adds it at the root folder
+29:14 level, meaning that we are in my Dropbox
+29:17 root folder right now. And you're going
+29:19 to see here that someone has shared
+29:21 files with me. And that's what this
+29:24 folder icon is indicating. This is a
+29:27 group folder icon. We're being shared
+29:30 across a group here. All right. And if I
+29:33 wanted to, I could rightclick and go to
+29:35 Dropbox and look at this online. All
+29:38 right. And this is going to help me
+29:41 understand a little bit more about this
+29:43 is that there's some kind of house plan
+29:45 that someone shared with me. And you're
+29:46 going to see over here on the right is
+29:48 that it shows the owner and it shows me.
+29:51 Now the owner indicates that this is
+29:54 actually their folder and they are
+29:56 sharing it with me. Okay, that means we
+30:00 still both have access. We still both
+30:02 get to edit. I would like to know that
+30:04 the common place practice for this is
+30:07 that they probably have another
+30:10 directory with the main files there and
+30:13 then when they feel like it they will
+30:15 update this directory so that then I
+30:18 have access to that new file and that
+30:21 way there's no destruction there in
+30:23 terms of their main file that they have
+30:27 on their own machine somewhere else. The
+30:29 only thing that I could destroy is the
+30:32 file that's being shared right here.
+30:34 which will lead us into probably the
+30:37 most important part of this video, which
+30:39 is if you're in some kind of a practice
+30:42 in some kind of an industry where you're
+30:45 sharing back and forth, we need to
+30:47 create an iterative version history as a
+30:51 second kind of backup ideology in terms
+30:55 of being able to revert back to some
+30:58 previous history very easily and in a
+31:01 way that's userfriendly and intuitive.
+31:05 I don't find the version history built
+31:08 into Dropbox very intuitive. I think
+31:11 that that's a last minute thing. I'm
+31:14 going to go look up on the internet. I'm
+31:15 going to go Google, hey, how do I
+31:17 recover some deleted file or how do I go
+31:19 to some previous version? What feels
+31:22 very intuitive to me is a system of
+31:25 folders that I can just look through
+31:27 very quickly and find a particular
+31:29 version just by glancing at it. And
+31:32 that's this next part
+31:35 here. I'm going to get into my project
+31:38 directory. Now, at the root of Dropbox,
+31:40 I have projects and then I also have
+31:43 assets. We looked in the last video at
+31:45 assets and what I do with assets. But
+31:47 projects are separate from that. And
+31:49 this relates to my particular field,
+31:51 which is architectural design and
+31:52 drafting. Okay? And so projects for me
+31:56 means that I have these folders here and
+31:58 I'm going to be sharing these folders or
+31:59 not with either myself meaning my other
+32:02 machine or some collaborator. And in the
+32:06 case that I'm sharing across to some
+32:08 collaborator could be in or office or it
+32:11 could be some some contractor or
+32:13 something like that that needs access to
+32:15 my files. I want a system that maintains
+32:18 flow. Now I could do what that other
+32:20 person did which is have my root files
+32:22 and then from my root files share some
+32:25 kind of folder that only they have
+32:28 access to and I have access to and I am
+32:30 updating that folder with new versions
+32:33 separately from my own internal
+32:36 versions. That's one method. But a
+32:38 method that I like to employ so long as
+32:40 that I can educate the person that I'm
+32:42 working with on how this system works is
+32:45 I'll show you an example. My very good
+32:49 friend now and collaborator Jeff Fuller
+32:52 is building homes and they're gorgeous
+32:55 homes and we have constant sessions
+32:57 working on these homes. And so this is
+33:00 my process in general. It's derived from
+33:02 an old architectural um practice that
+33:05 was meant for sharing and iterating
+33:07 versions. And so what I have here is at
+33:10 the root project level is the name of my
+33:12 client. Okay. from there within that
+33:16 folder to make it
+33:19 convenient for them I have another
+33:22 folder called rabbit design portal. Why
+33:26 is that convenient for them? I want you
+33:27 to notice at the root project level
+33:30 we're going to see that there's no icon
+33:32 here to show us that this is being
+33:34 shared. Why? Because it's not being
+33:37 shared. It's on Dropbox. Okay, it's on
+33:41 Dropbox online. So when I switch to a
+33:44 laptop, I have access to this. That's
+33:47 what that cloud means. We know that
+33:49 already. It's an online something in it
+33:52 is online only making it all potentially
+33:55 online only. But it means that it's
+33:57 online, meaning that I can go onto some
+34:00 other system, log into my account and
+34:03 access it. Within this, I am
+34:07 sharing this folder with my client.
+34:12 That's what this indicates. If I were to
+34:14 go view this on
+34:16 Dropbox, view on Dropbox.com, we're
+34:19 going to see here on the right hand
+34:20 side. Here we go. We've got Mr. Fuller.
+34:23 We've got the owner. There we go. And
+34:25 it's going to list any other members
+34:27 that might be a part of this folder. In
+34:29 this case, it's just us. So, that's nice
+34:31 if you want to kind of understand who
+34:33 has access to these things, which, you
+34:35 know, is important. You might be afraid
+34:37 of putting things online and being
+34:40 fearful of who has access and when they
+34:42 have access. Well, just know that you
+34:44 can figure that out and find out who has
+34:47 access to your files by viewing it
+34:49 online. Now, let me switch back to this
+34:51 folder. Why is this important that I'm
+34:53 naming it rabbit design portal? This is
+34:56 just on my side. I want my client's
+34:58 experience to be the best possible
+35:00 experience. So, I want you to notice
+35:02 something here is when we get back to my
+35:04 root Dropbox directory and we see
+35:07 something that was shared with me, the
+35:09 name of it is share with
+35:11 Renee. Well, I got to tell you, that's
+35:15 not very informative to me. I don't know
+35:19 what the heck that is. I don't know if
+35:22 that's some
+35:23 massive like f file full of like things
+35:27 that, you know, come from multiple
+35:29 different places. It's not because I
+35:32 only know this because I know the icon
+35:33 and what that means. That was shared
+35:35 from an individual. And so I don't know
+35:38 what that is. I have to go digging
+35:40 around to figure out what that is. And
+35:42 so that's why I have a folder within a
+35:44 folder folder within my client's names
+35:46 folder called Rabbit Design Portal
+35:48 because on their side, on the client
+35:51 side, they're seeing that this is, hey,
+35:55 that's the Rabbit Design one. We're
+35:56 going to go work with Rabbit Design.
+35:58 We're going to go look for that folder.
+35:59 Oh, it's easy. It's right on the root
+36:01 directory. It's called Rabbit Design
+36:02 Portal. Easy to find, simple. So, it's a
+36:05 nice thing to give in terms of just
+36:07 experience and organization to your end
+36:09 clients if you're going to
+36:11 collaborate. So, within this, let's go
+36:14 find them again. And notice that I
+36:16 haven't changed all my icons on this
+36:17 page. We know the graphics are better.
+36:19 Go use that tool. Change your icons.
+36:22 Sometimes it's just hard to figure out
+36:23 what icons to use. Is we've got a couple
+36:26 of projects. And then on top of that,
+36:27 we've got some other assets. In the
+36:29 past, I would have contracts in here and
+36:31 some other stuff, but a lot of that
+36:32 stuff I manage online now. So maybe you
+36:36 do have some other assets in here,
+36:38 photos, etc. that are outside of
+36:40 individual project folders. Now, within
+36:44 these project folders, the scope that I
+36:46 work on with Jeff is very limited. So
+36:48 these project folders aren't all that
+36:51 built out to be huge as huge as some
+36:53 other projects might be. Especially cuz
+36:55 this is largely collaborative versus
+36:59 maybe something that's 9010 where I'm
+37:01 doing most of the work and managing most
+37:03 of the assets and the other person is
+37:05 doing a little bit and needs to have
+37:06 access to them. This is a real 50/50
+37:09 split and our scope is pretty limited.
+37:12 The scope is limited to the project
+37:13 files specifically for the software that
+37:15 we're using. So I get into this
+37:18 particular project name and what we're
+37:19 going to see here is a naming convention
+37:21 that has worked for me for well over a
+37:24 decade now and is a derivative of a
+37:27 naming convention that came around uh
+37:29 back in 1970s. So here's what's
+37:33 happening. Year year month day
+37:37 day some design version okay in this
+37:41 case design review D is what this is
+37:43 called. And by the way, this is
+37:45 applicable to all industries. It's not
+37:47 just the architectural design industry.
+37:49 It's kind of the same process of naming.
+37:52 Then I have some other thing to
+37:55 delineate or differentiate rather
+37:58 between design reviewd some version and
+38:01 design reviewd a little bit changed.
+38:03 Okay. So we get another level here. So
+38:06 it's like a design review and then an
+38:08 iteration of that. So in the case of
+38:09 architecture, we've got design review D
+38:12 where we know that we're putting a
+38:13 kitchen in this corner of the house, but
+38:15 V1 might be that it's a galley kitchen.
+38:18 V2 might be that it's corner kitchen.
+38:20 There you go. Difference between the
+38:22 two. 5520 in this case just happens to
+38:25 be the name of the project. And then
+38:27 last but not least, in fact very much
+38:30 not least is my initials.
+38:34 What does this tell an enduser that's
+38:37 also has access to these files? What it
+38:40 tells them is that there's a hierarchy.
+38:42 It's based on date. Meaning that they
+38:45 can quickly go to the bottom of the
+38:46 stack or if you sort it the other way
+38:48 around, the top of the stack. Notice I
+38:50 just clicked name and that sorted.
+38:52 Change the sort order. Top of the stack.
+38:54 And that means that's going to be the
+38:56 most recent version that was worked on
+39:00 of this design and iteration. All right.
+39:04 The other thing that we're going to note
+39:06 is I was the last person to work on it.
+39:10 So if there's some problem down the
+39:13 stack, we can actually pinpoint when it
+39:15 happened, who it was done by, and ask
+39:18 questions if we need
+39:20 to or strangle them. No, I'm
+39:23 kidding. And so this makes for a great
+39:27 hierarchy of things. Now mind you this
+39:30 does create file bloat and so you got to
+39:34 make that determination you know if you
+39:37 want to get so far as saying what is
+39:39 happening to the environment with this
+39:40 file bloat it's not great you know
+39:43 someone would come after me for this I'm
+39:45 actually absolutely creating file bloat
+39:48 but for me this is important this is an
+39:51 important aspect of what I do and I need
+39:54 to create iterations and version
+39:55 histories in a number of different cases
+39:58 for my particular industry which is that
+40:01 at any given point I have a client that
+40:04 might not be able to do the current
+40:07 version of the thing that I'm proposing
+40:10 which means that they need to revert
+40:12 back to some previous version and rather
+40:15 than trying to dig through some kind of
+40:16 version history or guesswork at some
+40:20 kind of where we left off when we made
+40:22 that particular change or have some kind
+40:25 of system in place to kind of list all
+40:28 the changes that happened over time.
+40:30 It's very simple to say, hey,
+40:33 graphically, in my case, I get to print
+40:35 a PDF of the same name of the folder.
+40:38 What was the version you wanted to go to
+40:40 of all the emails I sent you of the
+40:42 various PDFs? And they just give me the
+40:44 name and right printed there on the PDF
+40:47 is this name. And I get to go back. And
+40:50 in fact, we're going to notice something
+40:52 very important about this in this folder
+40:54 structure. And I just hit a button that
+40:56 I don't know how to get out of. Dang it.
+40:58 Oh no, I'm drawing on the screen and I
+41:00 don't know how to escape. There it
+41:02 is. Is that if we expand this, we're
+41:06 going to notice checkbox checkbox
+41:09 checkbox cloud. And what's the name
+41:12 here? 2,000 or what is what is that?
+41:15 20,000 200,000
+41:18 archive. What I'm doing here is inside
+41:21 of the archive. We know what the cloud
+41:23 means. that is online only. It's not
+41:26 taking up storage space on my computer.
+41:29 So, if I click into this, we're going to
+41:31 see, wow, me and Jeff have done a lot of
+41:34 work together and it's been over a
+41:36 number of different days. And we can
+41:38 easily go back to one of these, copy it
+41:41 forward, change the date. Don't change
+41:43 the design and iteration because that's
+41:45 not changing. We're just improving the
+41:48 set to a new date. And that's what we
+41:50 are going to work from from then
+41:53 on. This makes a really easy history to
+41:57 work from. And we're going to notice if
+41:59 I click into one of the most newer
+42:01 folders, we're going to see that there
+42:02 is a date on here. It's a PDF. It's
+42:05 indicating when this, you know, PDF,
+42:08 essentially that PDF gets sent to a
+42:10 client and so then they can tell us the
+42:12 name of that PDF so that we can revert
+42:14 back. Simple structure here. Now how do
+42:17 we adopt this for some other kind of
+42:19 industry some other kind of
+42:21 softwarebased thing it's all the same
+42:23 premise is that you decide and determine
+42:27 the intervals at which you need to
+42:29 create backups so that you have this
+42:31 system in place.
+42:33 Okay. What's really great about this
+42:35 system is I don't ever need to change
+42:38 file names for the files within the
+42:40 system. Everything is driven from the
+42:42 standpoint of graphics and understanding
+42:44 the versioning. Everything is driven
+42:47 from the folder name itself. And just
+42:50 for argument sake, what does this look
+42:52 like online when we go to view
+42:55 ondropbox.com? Well, we can just kind of
+42:58 see the same thing going on here is we
+43:01 get to 55 author and we can see in the
+43:03 archives. We could of course click on
+43:05 any one of these and copy and paste or
+43:07 share some previous version
+43:09 independently of our entire folder share
+43:12 that we already have in place. So, it's
+43:14 a really dynamic thing and it can get
+43:17 very complex. So, we're going to try to
+43:19 keep this simple and to the point as we
+43:22 go through
+43:24 this. So, how does this work when we're
+43:26 both trying to access a file and work
+43:28 from that? Well, it's very simple. If we
+43:31 both have these actively syncing to our
+43:34 machines, okay, then when we're going to
+43:37 create a new version, let's say that in
+43:40 this case, Jeff wants to work on this
+43:41 file, all we're going to do is take the
+43:44 top level folder. And I find it to be a
+43:47 lot easier to see it when it's just in a
+43:49 stack like this, right? That's a lot
+43:51 easier to
+43:53 understand, mind you. And a reminder,
+43:55 control and mouse wheel or command and
+43:57 mouse wheel got me to shrink these down
+43:58 to a much smaller size. But you can also
+44:00 do that into some of the view icons here
+44:03 in uh Windows Explorer. You could just
+44:05 go to details and that's going to list
+44:07 this in detail mode. Now we can see this
+44:09 is the top level most recent folder. I
+44:11 just get to copy this. So copy it, paste
+44:15 it, and then all we're doing is we're
+44:18 not changing the design version. We're
+44:20 not changing the design iteration in
+44:22 this case either. So I'm just renaming
+44:24 this to today's date. So it's
+44:28 25526. And then of course I'm just
+44:31 omitting that last part. And there we
+44:34 go. I have a brand new version to work
+44:36 from. I can mess this up all I want. We
+44:39 know that we could always revert to the
+44:40 previous version that was a working
+44:42 version. Super super simple, easy to do.
+44:46 So what's the next step about this?
+44:49 Well, I will in the context of what
+44:51 we're going over and and just knowing my
+44:53 user base is largely chief architect
+44:55 based. We are going to touch on some
+44:57 video that is Chief Architect specific
+45:00 about a workflow for sharing back and
+45:01 forth, especially under the context that
+45:03 there's a new version of Chief Architect
+45:05 called X17 where we have a couple
+45:07 different modes where we can share files
+45:09 in different ways. And I want to kind of
+45:12 just clear the air on how to use these
+45:16 systems and have it be foolproof and
+45:18 have no issues along the way. And we're
+45:20 going to get to that in a separate video
+45:22 entirely. Okay. Now, for the close of
+45:25 this video, I want to just talk about
+45:27 that cursor AI just a little bit more so
+45:30 that we can understand some of the
+45:32 advanced things that we can do. And I
+45:33 also want to mention one other software
+45:35 that we're going to go over in a future
+45:38 video. I should pause every time to make
+45:41 it easier for AI to even find the gaps.
+45:44 Pause on
+45:45 purpose.
+45:47 So, let's just look at that cursor. I'm
+45:50 going to get it up on the screen again
+45:52 here.
+45:55 And what we'll do is I'm just going to
+45:56 ask it something. And contextually, it
+45:59 has as access to some folders, but I'm
+46:01 going to give it access to a new folder.
+46:03 And we're going to go over setting up
+46:05 Cursor AI in a future version. But for
+46:08 now, you can just watch and see what I
+46:11 kind of do with this software and why
+46:13 it's impactful. And we're going to build
+46:16 on this over time to the point where we
+46:18 get to be really powerful users of this
+46:20 software together. All right. So, I'm
+46:23 going to open a new folder. That
+46:26 essentially closes down this whole chat
+46:28 that I have active with AI and the
+46:30 folders that it's looking at currently.
+46:32 So, I'm going to open a new folder. What
+46:34 I will open is that projects folder.
+46:37 I've never done this before, mind you.
+46:39 So, I'm going to open up my projects
+46:40 folder. Let me go ahead and select
+46:44 this and let's go. Let's see. For some
+46:47 reason, my assets folder seems to be
+46:49 inside my projects folder. All right.
+46:52 Select that folder. This loads up all
+46:55 those projects. So it now the AI now has
+46:58 access to all of those projects. Okay?
+47:03 And we can do something simple, very
+47:06 simple. So I'm going to do something
+47:09 really, really
+47:11 easy. I'd like you to look at all of the
+47:15 folders within the projects directory.
+47:18 And within the projects directory at
+47:21 some level there are dated folders. And
+47:26 I want you to look at the most recent
+47:29 dated folder for every project and
+47:32 consider any project that is outside of
+47:37 the last year. I would like to archive
+47:40 that project by putting it into a
+47:43 archives folder that's dated by year
+47:47 and that I set to offline only. Now, you
+47:51 don't need to do anything other than
+47:53 creating a text response for
+47:58 me. Let's see what it does. I have no
+48:00 idea. Might work. Who knows? It's kind
+48:02 of curious, right? The next part of this
+48:05 is I want to mention some other software
+48:07 that we're going to be talking about in
+48:09 future video which is that we're going
+48:11 to go over digital asset managers or
+48:13 what we call dams. Digital asset manager
+48:16 is a way that one we can preview a bunch
+48:18 of assets that we might have very easily
+48:21 and organize them. But one of the main
+48:24 things that can happen with a digital
+48:25 asset manager or a bridge is that we can
+48:29 do some really smart renaming of
+48:33 conventions. What do I mean by that? We
+48:37 can actually set it up so that maybe you
+48:39 want to adopt my system of naming
+48:41 convention from now on, but you also
+48:44 would love to revert back to some of
+48:47 your older files and bring them into
+48:50 that naming convention going forward.
+48:53 Well, we can do that with a combination
+48:55 of AI and some digital asset manager.
+48:58 And we're going to get into that as this
+48:59 series goes on and we get more adept to
+49:02 all this lines of thinking and
+49:03 understanding how everything works.
+49:05 Let's see what happened
+49:07 here.
+49:09 Okay. Identify all projects. It gave us
+49:12 a whole route of something that it's
+49:14 doing. And
+49:16 then if you want to run uh uh uh uh
+49:20 okay, I don't know what it actually did.
+49:22 It looks
+49:25 like looks like it didn't do anything.
+49:30 Please just give me a text file that
+49:34 lists the root folders that I should
+49:37 probably
+49:40 archive. See what happens with that. I'm
+49:43 going to open up an application called
+49:45 well the website that it comes from is
+49:48 called design connected but the actual
+49:50 application name is called connector.
+49:52 It's an unfortunate name because it's
+49:54 kind of difficult to search, but it's a
+49:57 really powerful software. And one of the
+50:00 things that Connector does, it's kind of
+50:02 specific to my industry or the video
+50:04 game industry, if you will, where we've
+50:05 got a lot of image based files or PDFs
+50:08 or model based files like such as 3D
+50:12 models where we want to preview those
+50:13 models. It's really built for those
+50:15 industries, but it has a really powerful
+50:19 battery naming feature. And so we can
+50:22 get into things such as materials and
+50:26 just preview these materials. In this
+50:28 case, let me just go into my already
+50:30 organized materials folder. And I can
+50:35 group, select a number of files, and
+50:38 this doesn't necessarily need to be
+50:40 image files. Rightclick and batch rename
+50:43 the assets. And then from here, we're
+50:46 going to see that these asset names
+50:48 don't really mean anything to me.
+50:50 They're not necessarily easy to go look
+50:52 up if we wanted to. Instead, we could go
+50:55 find and replace some parts of text. We
+50:59 could go set up some kind of rule that
+51:02 goes before or after some part of some
+51:05 text. We could go and enumerate if we
+51:09 wanted to. All right. From backwards to
+51:12 forwards or forwards to backwards. In
+51:14 this case, I could delete all current
+51:16 names. I could insert the word
+51:20 book with a dash and then I can do an
+51:24 auto numbering and set up left to right
+51:26 or right to left. So right to left is
+51:29 going to look like this. So it's showing
+51:32 me the previous name of this file and
+51:35 the name after we rename that file. This
+51:39 can get very advanced and you can do
+51:41 some really complicated renaming of
+51:44 files. Ask me how I know. I just did a
+51:47 real complicated batch of renaming of
+51:49 files to make it really easy to index
+51:51 and find what you need using search
+51:53 attributes within the software that I'm
+51:56 using. So, we're going to get into
+51:58 connector and batch renaming as as well
+52:00 as all of its preview options for
+52:02 looking at all of your assets from a
+52:05 bird's eye view and quickly
+52:06 understanding where your assets are,
+52:08 what are they doing, and potentially
+52:10 removing duplicates, etc. So, connector
+52:12 is one digital asset manager we'll look
+52:15 at. We'll also look at Adobe Bridge in a
+52:18 future video. Now, let's go back and
+52:20 look at what happened in this guy right
+52:23 here. Files projected to archive text
+52:26 will contain a list like let's see, let
+52:27 me want a script to do anything
+52:31 different. Okay, this is generating
+52:34 something and I'm not going to waste our
+52:35 time looking at exactly what it's
+52:37 outputting, but it should get the job
+52:39 done pretty well. So, what's really nice
+52:41 about this is we're not just getting
+52:45 input output information from AI online.
+52:49 We're getting contextual information.
+52:51 It's reading file structure. It's
+52:54 understanding the files that we have
+52:56 access to to understand contextually
+52:59 what we're asking of it. And one of the
+53:01 limitations of dealing with something
+53:03 onlinebased that's AI is that we have a
+53:06 limitation on the size of the code. If
+53:09 if we're doing coding that we can get
+53:11 back the size of the paragraphs that we
+53:13 can input, the size of the files that
+53:14 we're giving it in AI cursor, it there's
+53:18 no limitation there. There are some
+53:20 internal limitations, but because it
+53:23 works contextually and it has write
+53:25 access and read access to all of our
+53:27 files, it can work within its own
+53:29 limitations to just change one little
+53:32 thing. That's getting a little advanced.
+53:35 Like I said, we're going to get into
+53:36 that. So, uh, thanks for sticking with
+53:38 me for a couple videos. More to come.
+53:40 This should be one of my better series.
+53:42 I hope you enjoy it. Please leave
+53:44 comments. Please let me know what
+53:46 questions you have. Please let me know
+53:48 what more you'd like to know in this
+53:50 series. Thanks.
+53:54 [Music]

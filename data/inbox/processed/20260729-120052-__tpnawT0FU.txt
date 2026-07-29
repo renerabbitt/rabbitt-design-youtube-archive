@@ -1,0 +1,107 @@
+Title: Making a Shoji-style (grid) shower enclosure in Chief Architect X-12
+URL: https://www.youtube.com/watch?v=__tpnawT0FU
+Visibility: public
+
+0:02 hello chief architect users today we're
+0:03 gonna demonstrate how to make this
+0:03 shower assembly really efficiently and
+0:09 so first thing I'm gonna do I'm just
+0:09 gonna drag a couple of interior walls
+0:11 and I'm not gonna worry too much about
+0:14 how they're represented at the moment
+0:14 I'm also going to drag and place a fixed
+0:19 door symbol and I want to open this door
+0:22 symbol up get into its data bucks and a
+0:24 couple things I'm gonna change one is
+0:24 let's change the height to 76 you might
+0:27 want to check with your manufacturer and
+0:31 actually build it to spec same thing
+0:31 with the thickness of its rails panel
+0:33 frame widths same thing I'm gonna make
+0:37 this inch and a quarter all the way
+0:37 around I'll go to the casing tab make
+0:41 sure I've got all casings unchecked the
+0:43 jamb tab I'm gonna make sure it's got no
+0:48 jamb and then the lights tab I'm gonna
+0:51 add oh let's say four lights and I'm
+0:51 figuring that these crossbars are about
+0:57 one inch so there you go I've placed
+0:57 this it's a parametric door symbol which
+1:01 means if we zoom in just a little bit as
+1:06 I drag and shape this door symbol that
+1:08 frame those specifications that we did
+1:08 panel with all that stuff it's going to
+1:13 stay the same uniformly stretching so
+1:13 that I don't need to modify a symbol to
+1:17 accomplish this it's a really fast way
+1:17 of doing it
+1:17 next thing I want to do is I'm gonna go
+1:23 into this these two walls I'm gonna
+1:24 change these two walls the reason I
+1:24 didn't do that in the first place is
+1:28 because if I set these as a railing
+1:30 first I'm gonna have problems
+1:30 placing my door panel if my railing is
+1:37 designated as shorter than the default
+1:37 door panel so I'll set this to 76 under
+1:43 the new 11 balusters under railing
+1:43 subsection and in the height input there
+1:51 and then underneath rail style I'm gonna
+1:53 specify that it's a solid rail style and
+1:55 the last thing I'm going to do is under
+1:55 wall types here I'm gonna hit the define
+2:00 tab and I'm going to scroll down to
+2:00 something that I know has only one main
+2:02 layer which is the class shower and I'll
+2:07 copy that and I'll make it 1.25 and
+2:07 because it's only got one main layer I
+2:10 can go into the total thickness
+2:12 subsection and
+2:12 but in 1.25 and it's gonna change this
+2:16 thickness designation under the main
+2:16 layer there we go now I've got an inch
+2:22 and a quarter I could also terminate
+2:24 this main cap delete this main cap I
+2:24 should say I'm gonna leave it for now
+2:29 it's not bothering me anyways once
+2:29 that's set now I have a wall assembly
+2:34 where I can but this all the way to the
+2:38 corner and let's duplicate it on the
+2:38 other side but this at this corner I can
+2:50 drag this now keep in mind I don't have
+2:51 a door symbol in here right now other
+2:51 than the fixed door but I can make one
+2:56 of these doors an operable panel right
+2:58 the next thing about this I want to do
+3:00 is I want to make sure because it's a
+3:02 glass shower wall assembly I'm just
+3:02 gonna paint this corner right here and
+3:05 it's going to paint out exactly the way
+3:08 I wanted to and then I can change this
+3:08 to be Chrome or or whatever else I need
+3:14 it to be to match the original you know
+3:21 style that I'm trying to match do that
+3:21 for the two neighboring doors so this is
+3:24 pretty much it this is the end of the
+3:24 video you know you can designate these
+3:26 as you know a hinge door or any type of
+3:29 door you can now we've got definition in
+3:34 the shower I can go and paint these
+3:34 surfaces and make it look more like a
+3:37 shower put in my fixtures etc put in a
+3:42 curb if I need to as a pony wall but
+3:42 that's it I mean it's a really fast way
+3:47 to have a very dynamic system of
+3:47 creating this style of door I'll just
+3:51 show you can duplicate this guy in place
+3:59 but him to the corner and then but these
+4:06 doors again so really easy way to make
+4:10 these grid style showers look very
+4:10 accurate and be dynamic and not only
+4:13 that but if you're in x12 you can save
+4:19 this to your style palette create new
+4:28 I say that four times fast
+4:28 you know and then modify it in its set
+4:30 properties etc if you're unfamiliar with
+4:35 style pellets get into that it's a cool
+4:35 tool and x12 alright thank you very much

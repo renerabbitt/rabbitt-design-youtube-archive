@@ -1,0 +1,74 @@
+---
+videoId: 29vZF1nBcyY
+title: Butting Walls In Chief Architect Using The Room Divider Tool
+url: "https://www.youtube.com/watch?v=29vZF1nBcyY"
+status: imported
+---
+
+# Transcript
+
+0:02 I'm going to show you a condition where
+0:02 you might have a railing post sitting in
+0:06 front of a wall and how do we get to
+0:06 produce that in Chief Architect? This is
+0:10 going to be a really short video. I'm
+0:12 going to draw out a railing to start.
+0:14 So, got my railing tool, there's my
+0:14 railing. I want my wall to be in front
+0:19 of this Excuse me.
+0:19 short of this newel post. So, if I use
+0:24 the interior wall tool,
+0:25 okay?
+0:25 And I'm going to draw this down.
+0:27 Excuse me, right from this. Here we go.
+0:32 Just like that. Look what happens. The
+0:32 wall overtakes my railing. So, that if I
+0:38 were to go pull a little 3D view, we're
+0:39 going to see that the newel post is
+0:39 buried inside of this wall and that's
+0:44 not what we want. So, how do we fix
+0:46 this? It's actually a pretty simple
+0:47 solution.
+0:47 First up, I'm going to take this wall.
+0:49 I'm going to use the break tool and I'm
+0:52 going to break this wall and this
+0:52 forward section here. I'm going to make
+0:58 this an invisible wall. Keep in mind,
+1:00 notice that I brought this break down
+1:00 quite a bit. That was on purpose. This
+1:04 is going to work a lot easier if you
+1:04 give it some space to start. The next
+1:08 thing that I'm going to do is I'm going
+1:09 to use the invisible wall tool or rather
+1:15 the room divider tool and I'm going to
+1:18 snap You can pick see my snaps getting
+1:20 picked up here. Endpoint, midpoint.
+1:20 I'm going to snap and draw that room
+1:23 divider right at that break. Now, what I
+1:29 get to do is take the room divider,
+1:29 slide this up till I pick up the snap of
+1:34 the outside of this railing wall.
+1:34 Look what happens. It will butt this
+1:38 wall right up to that newel post and
+1:38 just leave it a little bit short of that
+1:42 newel post. You can see that this was
+1:42 just following my room divider. In this
+1:48 case, there is my invisible wall still
+1:50 left over. Now, something about these
+1:50 newel posts is I didn't have them set to
+1:53 be the same as the wall width. So, you
+1:55 might want to set that up so that the
+1:57 newel post isn't diving into the
+1:57 baseboard, etc. on this wall end cap.
+2:00 So, hopefully that solves that issue. If
+2:04 you run into something like that, some
+2:05 scenario like that where you're trying
+2:08 to show a half wall or a railing wall
+2:12 incomplete where a an adjacent um
+2:12 wall is overtaking it, this would be the
+2:16 solution is go ahead and use that room
+2:16 divider tool. And then you can have this
+2:20 room divider be on a layer like walls
+2:22 invisible so that when you switch to
+2:24 your print view, you're not actually
+2:25 showing it. So, there we go. Hopefully

@@ -1,0 +1,62 @@
+Title: CA SHORTS - Drawing a Downspout
+URL: https://www.youtube.com/watch?v=2XYQlVI92XY
+Visibility: public
+
+0:02 let's do a quick and easy downspout for
+0:03 your project i'm going to pull an
+0:08 and then i'm going to start with a
+0:08 polyline so let me get in real tight
+0:10 here so i can see exactly where i want
+0:13 to draw this
+0:13 i'm not going to be using snaps for this
+0:16 i'm just going to kind of freehand it so
+0:18 i'm going to get to a line
+0:18 and well actually there we go we picked
+0:19 up a snap there i'm going to just extend
+0:23 this past my
+0:23 soffited area here
+0:26 and i can do a continuous draw mode
+0:28 instead of just single line we can do
+0:31 alternative behavior which is right
+0:33 click i'm going to right click and
+0:33 that's going to give me a continuous
+0:35 line i'm going to pop this to the face
+0:40 of my structure
+0:40 drag this all the way down to the point
+0:43 where i'm getting
+0:43 down towards that grade level
+0:46 and then bringing that line back in
+0:48 and clicking on it one more time at the
+0:53 end a connection point there
+0:53 to show us that full polyline from here
+0:56 i'm going to go ahead and use the fillet
+1:00 lines tool
+1:00 and i usually like to set this to three
+1:05 inches and then click all that's going
+1:07 to play all lines
+1:07 and then i can select my polyline
+1:12 click on the convert polyline
+1:14 to 3d molding
+1:14 last thing i need to do is make sure
+1:16 that i have a downspout profile so you
+1:21 can draw these pretty quickly in chief
+1:23 architect easy enough
+1:23 i already have two downspouts drawn here
+1:30 one's a turned profile
+1:30 one is turned 90 degrees from the other
+1:35 and you might need to guess and check
+1:35 depending on your situation in this case
+1:44 there we go and then sometimes you need
+1:46 to check or uncheck extrude inside
+1:46 polyline but that's it there we go i
+1:48 have a downspout let's take a look at
+1:52 what this looks like in 3d
+1:52 you can see here here's my downspout so
+1:57 um
+1:57 i highlight this i can obviously move it
+2:01 around
+2:01 place this right on maybe i've got a
+2:09 and let's pull a 3d view and we can take
+2:17 there we go quick and easy downspout
+2:18 looks very nice
+2:18 appropriate for the job

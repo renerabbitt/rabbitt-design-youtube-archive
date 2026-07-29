@@ -1,0 +1,249 @@
+Title: Contour Map Generator in Chief Architect X16 - Terrain Video 10
+URL: https://www.youtube.com/watch?v=MCHDPOgDacE
+Visibility: members-only
+
+0:00 VIP
+0:02 Happy Halloween.
+0:05 Hope you're having a good night tonight.
+0:08 Okay, so I want you to go to
+0:09 www.rabbdesign.net
+0:12 and you're going to click on the
+0:13 hamburger menu that's in the top
+0:15 right-hand corner. That's going to bring
+0:17 up industry tools and underneath
+0:18 industry tools
+0:20 is
+0:22 code lookup and resources. And in code
+0:24 lookup and resources, we've got an
+0:25 accordion menu here. Go ahead and click
+0:27 on plot site and then contour map
+0:30 generator and that's going to bring you
+0:32 to this site.
+0:34 Punch in any address you would like.
+0:38 I'm going to use one that has a a pretty
+0:40 difficult lot. My own house. Hope I'm
+0:42 not giving out too much information.
+0:45 Here we go. And now from here, we can do
+0:48 a couple of things. One is control, hold
+0:51 your control, mouse wheel forward and
+0:54 you're going to see that you can zoom in
+0:55 in that way.
+0:56 All right. The next thing I want to do
+0:58 is I want to click down here at the
+0:59 bottom, this tilt map button.
+1:02 With tilt map
+1:04 now we can see we've got an overhead
+1:06 view of this map and now I just want to
+1:08 do a single click somewhere, okay? So
+1:11 single click
+1:13 and then another single click. Now I'm
+1:15 going to
+1:16 click this just outside the bounds of my
+1:18 property. I'm going to actually click
+1:20 and drag this down. From here, you can
+1:22 go ahead and just click on get data and
+1:25 it's going to produce the number of
+1:27 contours you have set right here, number
+1:29 of levels, okay?
+1:32 I'm going to go ahead and click and
+1:32 adjust this map just to make sure I've
+1:34 got my full lot in here and then I'm
+1:36 going to do a number of different
+1:37 things. I'm going to increase the number
+1:38 of levels. I'm going to pump it up to
+1:40 like 25 and then I'm going to change my
+1:42 unit of measurement to feet.
+1:44 And here we go. Now I can go ahead and
+1:46 click on get data again.
+1:49 From here, let me go ahead and Windows
+1:52 shift S cuz I'm on a Windows machine.
+1:54 I'm just going to copy this. I'm going
+1:55 to bring it into Chief Architect. We'll
+1:58 just do a new plan.
+2:04 And then I'll paste this map
+2:10 as a picture.
+2:12 I'm not worried about scaling this just
+2:14 just yet because so far that I know,
+2:16 that particular site doesn't have any
+2:17 method for scaling.
+2:24 So, since we don't have a method for
+2:26 scaling, I'm going to take this image
+2:29 and I'm going to search actually, what
+2:30 I'm going to do is I'm going to search
+2:31 inside of Google Maps. So, we're going
+2:34 to get back to
+2:36 a web browser. Let me just do a new tab
+2:38 here and I'll just bring up Google Maps
+2:42 and I'm going to look at that same
+2:42 address.
+2:53 From here, let me switch to a satellite
+2:55 view so that we have some reference here
+2:57 and it should be
+2:59 basically the same overview. Now, you
+3:01 could change this so that the graphics
+3:03 aren't um
+3:04 in a 3D setup here, but I'm not too
+3:07 worried about it. I just want to grab
+3:09 some information so that I can scale
+3:11 within Chief. So, if we look at Chief,
+3:13 we can see here the corner of this
+3:14 building
+3:16 to maybe the corner Well, we need to go
+3:19 in a horizontal plane. So, maybe the
+3:21 edge of it this driveway right here in a
+3:23 horizontal plane from the corner of this
+3:25 building. I'm going to get back to
+3:27 Google Maps and I'm going to use their
+3:29 measurement tools.
+3:31 So,
+3:32 you can right click, click on measure
+3:34 distance and you're going to drag this
+3:36 to the location you need it to be.
+3:42 And then
+3:44 right across
+3:46 drag this to be a horizontal plane as
+3:48 best as you can.
+3:51 There we go. And it shows me 186.42
+3:55 ft. Okay. Now, I'll move back to Chief.
+3:58 So, obviously this isn't precise and
+4:00 exact, it's very close though. So, I
+4:03 wouldn't worry too much about it.
+4:05 Depends on just how accurate you need to
+4:06 be, but at that point, you might as well
+4:09 be getting a survey. So,
+4:11 let me do that.
+4:12 Point-to-point resize.
+4:14 Before I do that, let me double-check
+4:16 that measurement. 186.42. So, I'm going
+4:18 to go from the corner of this building
+4:21 straight across.
+4:24 And that 186.42.
+4:29 Maintain that aspect ratio. Here we are.
+4:32 Now, let's go ahead and bring this in.
+4:34 Now, of course, I would be placing this
+4:35 according to my building, so let's just
+4:38 assume that
+4:40 got the building roughly this direction.
+4:43 And then the next thing I want to do is
+4:44 I want to orient it so that the building
+4:47 is flat, right? So, that we've got a
+4:49 plan north versus a true north, right?
+4:51 So, our true north is going to be
+4:53 straight up and down right now according
+4:55 to the map. But, we need to rotate that.
+4:57 So, I want to get in and
+4:59 the easiest method I find for this is
+5:01 just drawing out a CAD line and then
+5:03 drawing out another CAD line to match
+5:05 the angle of the building. Okay? And
+5:08 then we're going to take our angular
+5:10 dimension tool and make sure you switch
+5:11 to a dimensioning default that can do
+5:14 CAD lines.
+5:15 And then you can see here we got 36
+5:19 and
+5:20 what I'll do is I'll uncheck use default
+5:22 angle style and we'll just go to degrees
+5:25 in this case. So,
+5:27 36.803.
+5:29 So, what I'm going to do here now is
+5:32 take this map
+5:34 and we can rotate this.
+5:37 We can use transform replicate rotate.
+5:45 There we are.
+5:46 Perfect. Now, I can position this and do
+5:49 a point to point if you'd like to get
+5:51 this right up
+5:53 on your building.
+5:54 Just like that. And now we can go ahead
+5:57 and well, one thing I might want to do
+5:59 is
+6:00 might want to put this on a layer that's
+6:02 on a terrain layer, right? So, maybe we
+6:04 open this up. Line style, picture PDF
+6:07 boxes, who knows? Maybe I want to put
+6:09 this on that plot plan.
+6:12 So that when I switch to my working
+6:14 terrain view, that shows up.
+6:18 Now that I have this, I can obviously
+6:20 conform my site. Now I always model my
+6:24 terrain itself
+6:26 separate
+6:28 from my lot
+6:29 uh polyline. Okay? So, I'm not too
+6:33 worried about what the terrain looks
+6:34 like.
+6:35 It doesn't need to look like my actual
+6:37 lot. It just needs
+6:39 to encompass all the terrain features
+6:41 that I'd like it to encompass. Sometimes
+6:43 I will shape it, sometimes
+6:45 totally up to you. And then,
+6:47 here we just get to trace, right? This
+6:49 should be a simple process. So, we can
+6:51 come in here,
+6:52 come in here with our
+6:55 line tool,
+6:57 just kind of go crazy here.
+7:02 And up to you how you like to approach
+7:04 this. It might be that you just draw all
+7:06 the lines first.
+7:14 I'm obviously not being
+7:15 extremely accurate. And you might figure
+7:17 that you want, you know, certain majors,
+7:19 minors.
+7:22 So, I might skip a few.
+7:32 I'm actually going to skip a lot for the
+7:33 purpose of speeding this video up. We'll
+7:36 pause and come back.
+7:37 Now I have some of these contours drawn
+7:39 in. It's just a simple matter of opening
+7:42 this up and you can see here our graph
+7:45 didn't quite meet this true red up here,
+7:47 but I'm going to assume just by the
+7:49 increments here that we're at about 875,
+7:52 880, something like that.
+7:55 Again, if you need it more accurate than
+7:57 this, I'd almost just suggest getting a
+7:59 survey, so. And this can coordinate with
+8:02 some other data, something like, you
+8:04 know, maybe you're utilizing Moasure or
+8:05 something like that.
+8:11 I like to sometimes turn this data into
+8:14 something that's a lot brighter and
+8:15 easier to see. I do that on the fly. I
+8:17 don't have it set like that as default,
+8:19 but sometimes we'll just do this on the
+8:21 fly. I'll turn that line weight on. I'll
+8:23 crank this up to something like 250.
+8:25 Really easy to see that data then.
+8:28 All right.
+9:01 Make sure you
+9:02 catch in all these lines here.
+9:16 No data left unturned.
+9:19 And then let's just take a look.
+9:21 Maybe I got this right. Maybe I got this
+9:22 completely wrong.
+9:25 There we go. That looks like a hillside
+9:27 lot.
+9:29 Simple enough.
+9:33 And And in fact, this is true.
+9:36 My road comes up and kind of banks in
+9:39 like this and goes on up the hill. So,
+9:41 and then this is outside of the balance.
+9:43 If we edit that active view and we turn
+9:45 off that extend terrain to horizon,
+9:48 going to cut off
+9:50 appropriately. And yeah, this is where
+9:53 my street is and my street continues on
+9:55 up the road just like this. So, it wraps
+9:57 around. It does fall off on this side.
+10:00 It does fall off on this side and then
+10:02 it does do a very, very heavy decline
+10:05 from here. So, this looks very accurate.
+10:09 So, there you go. Contour map generator
+10:10 taking the straight and the chief and
+10:12 you can see this is done very, very
+10:13 quickly. The video was 10 minutes long,
+10:15 but in actuality it probably took me
+10:17 about 12 and 1/2 minutes.

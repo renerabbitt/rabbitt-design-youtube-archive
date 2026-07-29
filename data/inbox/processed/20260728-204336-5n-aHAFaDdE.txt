@@ -1,0 +1,784 @@
+Title: Texture Baking Assets FAST For Chief Architect
+URL: https://www.youtube.com/watch?v=5n-aHAFaDdE
+Visibility: public
+
+0:03 What's going on, VIP?
+0:03 Um, yeah. What are we going over in this
+0:07 one? Texture baking. Do you know what
+0:08 that
+0:08 is? Maybe you do, maybe you don't. You
+0:12 probably don't. Maybe you
+0:12 don't. Stick around. Um, but I have a
+0:20 story to tell first, and that is that
+0:20 once upon a time, I was the best video
+0:24 game player in the
+0:24 world. I was I was just I was top of the
+0:30 top. I broke every record in a couple of
+0:34 games. And that was my life when I was a
+0:37 really young kid. And I was so obsessed
+0:41 with video games that I got into the
+0:41 hacking community that would hack video
+0:45 games to make them the way they wanted
+0:48 them to be. And that included making
+0:48 models. And then I became really good at
+0:54 making models because I wanted my stuff,
+0:56 my ideas in the video games that I
+0:56 liked. And I got so good at creating
+1:01 models that I got
+1:01 um I got offered a job over at Pixar.
+1:05 Now, I didn't know what Pixar was. Shame
+1:11 on me. So, I turned it down and that
+1:13 ship has sailed. But I have these
+1:13 thoughts that what if what if I could do
+1:17 it all over again and I could get into
+1:19 Pixar. And I still have these kind of
+1:22 dreams that at some point, maybe in
+1:22 retirement, I get to make assets for
+1:25 video
+1:25 games. And that leads me to this video,
+1:31 which is what is texture baking and how
+1:33 can we utilize it to make the perfect
+1:35 asset? If I wanted to make assets for
+1:37 video games, texture baking is a
+1:38 necessary part of that process. And I
+1:40 think I have a really efficient workflow
+1:45 to get you into the beginner state of
+1:45 this. Now, it requires some software. um
+1:50 not requires, it's just that it would be
+1:53 a lot easier with some software, namely
+1:54 Substance Painter, and we're going to
+1:54 get into that. But here we go. I'm using
+2:00 Meshi. You've seen me use this in some
+2:05 other apps. Um and I've um I went to
+2:08 went to Concrete Designs. And by the
+2:08 way, awesome company. They were at Kbiz.
+2:13 I went and toured their booth. Okay. Um
+2:15 concret
+2:15 concretesigns.com. and they make all
+2:20 these handmade sinks and all these
+2:23 handmade planters and and pots and
+2:23 they're gorgeous. And um in terms of
+2:26 commercial grade and and versus consumer
+2:31 grade, you know, you might argue that
+2:31 this is more on the consumer grade just
+2:35 because
+2:35 um and this is a definitely an arguable
+2:40 point which is that they're not coming
+2:40 back and back filling in the pitting and
+2:44 little imperfections in their concrete
+2:46 work and forms. they're letting that
+2:46 kind of live there. There's there's some
+2:50 polishing happening for sure, but but
+2:50 some of the pitting still stays behind
+2:52 and and I actually really like that. Um,
+2:57 so I really enjoy that part of it. And
+2:57 then the other big part of this is that
+3:00 they're a woman-owned and operated
+3:00 company and I think that's fantastic and
+3:05 I like to support those kind of things.
+3:05 Um, which brings us to some really weird
+3:10 metrics. 95% of you out there are men or
+3:12 at least that's what it YouTube's
+3:12 telling me and I don't know what you
+3:14 know everything else is. That's the only
+3:17 metric they're showing is specifically
+3:20 male. Um and so that's that's an
+3:20 interesting thing. So hey, go talk to
+3:23 all the other genders out there and say
+3:26 come on in, hang out. We want to show
+3:27 you guys this too because we feature
+3:27 stuff like this company. Anyways, that's
+3:33 enough about that. I'll uh I'll continue
+3:36 on and just say that I love this company
+3:37 and I love what they're doing and I love
+3:39 this style that they're bringing in and
+3:39 and so I'm want to recreate some of this
+3:48 Um so what did I do? The other great
+3:49 part of this is they're all white
+3:49 backgrounds. Easy to screen clip. Bam.
+3:54 Screen clip it. Send it. And we get to
+3:57 bring it into Meshi. And Messi in the
+3:57 other videos I was always telling it to
+4:01 do a really low polycount thing. Well,
+4:01 this time I'm telling it to do a really
+4:08 really high polyc count thing. And that
+4:08 brings us to what is texture baking? And
+4:14 and can I kind of summarize that in a
+4:14 way that that is palatable for someone
+4:17 that's brand new to the concept, which
+4:17 is we want to take a really high poly um
+4:24 count model where it's really detailed,
+4:27 really realistic, right? And then what
+4:30 we're doing is we're figuring out how
+4:33 that it's got to be UVmapped, meaning
+4:36 that there is some texture applied to
+4:36 that model. So there's um there's a way
+4:42 of mapping all of the tries or quads
+4:42 that make up all the polies that make up
+4:48 that mesh and as it applies to a
+4:48 two-dimensional image. Okay? And then
+4:50 what we're doing is we're analyzing when
+4:55 we're baking. We're analyzing that mesh
+4:58 and basically saying something like,
+4:58 hey, there's a soft radius in this part
+5:02 of the mesh and it's mapped to this part
+5:08 of the two-dimensional map. Okay, so our
+5:12 texture now knows where there's more
+5:12 features in the 3D aspect of it. It's no
+5:18 longer just some poly count. It's kind
+5:20 of an overlay of saying, "Hey, here's
+5:21 where these edges are. Here's where
+5:24 these little indentations are." So,
+5:24 we're taking a high polycount model and
+5:29 saying, "Hey, we've got all these
+5:29 details in the high polycount model.
+5:31 Now, let's take in something that's just
+5:36 a bunch of squares and apply
+5:36 texture-based features such as ambient
+5:39 occlusion or normals to these parts that
+5:47 we know are really refined edges because
+5:49 we know that because we baked this high
+5:51 polycount mesh. So, what I mean, I've
+5:54 got this curve and it's a really soft
+5:56 curve, right? And this is my high
+5:56 polycount model. And then and we're
+6:01 figuring out in terms of the
+6:01 two-dimensional mesh when the
+6:02 two-dimensional image is just applied to
+6:06 this 3D mesh, excuse me, not
+6:07 two-dimensional mesh, two
+6:07 two-dimensional map, when that's applied
+6:12 to this, right, as an image, we know on
+6:15 on this part of the image, there's some
+6:18 kind of soft radius. So that when we
+6:21 replace it with something that is a
+6:21 really sharp edged angle, we can fake
+6:28 that this has bump or normal. We can
+6:31 fake that this has oluded shadows,
+6:31 right? We're we're basically creating
+6:36 shadows where there wouldn't be some
+6:38 otherwise that look like there's a
+6:38 radius there even though it's a solid
+6:42 square.
+6:42 Okay, hopefully that explains a little
+6:44 bit, but let's see it in action and see
+6:49 what we're even talking about. So, here
+6:52 we go. I've got this really high polyc
+6:55 count sync and it's from Concrete,
+6:55 right? We're recreating a Concra sync.
+6:57 And I don't care about what the map is.
+7:01 That part doesn't matter. And then I
+7:03 downloaded it as an OBJ file. I
+7:03 extracted the contents and now we're
+7:05 back in Blender. And Blender's free. And
+7:09 I've been saying in some of my other
+7:10 videos, I'm learning Blender. So, if
+7:10 you're learning Blender from this video,
+7:14 you're learning it with me. And you're
+7:15 going to see me struggle through some
+7:17 stuff occasionally. So, let me delete
+7:17 the source object that's always there.
+7:21 And let's just do a little file import
+7:24 and this way from object. And I've got
+7:27 to find that particular guy that I
+7:27 just unzipped, which I don't know what
+7:31 it's called. So, I might need to go
+7:31 check it out. Stone Basin Sync. I think
+7:35 that's what it's
+7:35 called. And let's go open this bad boy
+7:40 up. Cool.
+7:40 So, we know it's already UVmapped. And
+7:42 it happens to be that this particular um
+7:47 Java Pro Meshi didn't didn't build in
+7:47 some kind of geometry for um this hole
+7:52 in the sink. So, that's good. I like
+7:54 that. Um so, this is a pretty clean
+7:56 mesh. And in
+7:56 fact, I think it's great just how it is
+7:59 right now. And so, we get to use this as
+8:06 the high poly version when we bring it
+8:09 into Substance Painter to bake it. and
+8:10 we'll see that
+8:10 momentarily. Next part is I'm going to
+8:12 just hit the modifiers for this and add
+8:17 a scene modifier. That's
+8:17 decimation. And so we'll decimate this.
+8:21 Right now it's
+8:21 299,000 poly. And so I want to decimate
+8:25 using collapse. And I want to
+8:25 triangulate as well. Okay. And then I
+8:28 can just click and drag this slider down
+8:32 and let
+8:32 that start
+8:35 decimating. And we're getting it down to
+8:41 40,000 9,000 now. And let's start seeing
+8:43 what happens to the geometry of this.
+8:43 And at 1300, we're losing some things,
+8:46 right? We're losing some definition here
+8:50 in the tray. We're losing some things in
+8:51 the corner. So, we know we're not going
+8:53 to get as low as 1300. We're going to
+8:55 take this back up a little
+8:55 bit. And I'm just clicking and sliding.
+8:58 And I have a very fast computer, so keep
+9:04 in mind that that does um affect this.
+9:07 Now, this is 30,000 poly. That's still
+9:07 too high. I'm actually going to punch in
+9:10 the number because the ratio is so
+9:10 strong. We started from such a strong
+9:15 thing that it's really hard um to get
+9:15 these little finite changes. So, this is
+9:20 at 0.1. We're going to go at let's just
+9:22 call it
+9:22 003. And then I'm going to hit enter and
+9:25 see what
+9:25 happens. And so, now we're at 8,000
+9:28 poly. And it still looks decent enough.
+9:36 And let's go 0.0. 0. Let's go.
+9:36 02. See where we're at. And that should
+9:38 get us down to 6,000 poly. Still got all
+9:43 the details that I know that I need
+9:43 here. The sync cutout's not bothering me
+9:47 at all. Um, let's take it down a little
+9:49 bit further. And you're just going to
+9:51 have to be patient with me here. And
+9:51 001. What's this get us to? This gets us
+9:56 to 3K. And I'm losing this corner. And I
+9:58 don't like that. Right. And really
+9:58 sharpened that corner as well. So, even
+10:02 if I wanted to try to use the sculpt
+10:02 tools inside of Blender, I would have a
+10:09 hard time recovering that corner in
+10:09 particular. Um, yeah. So, we're going to
+10:13 keep it a little bit higher than that.
+10:15 So, we're going to go
+10:15 00015. How about that? And hopefully we
+10:20 get this little corner back. We do. And
+10:20 then there are some little fixes I could
+10:25 do here. So, I'm going to apply this.
+10:25 All right. So, I click the down arrow,
+10:30 click apply.
+10:30 And now that's this is our new mesh. And
+10:36 then I think I get to hit control and
+10:38 tab and move down to the number two
+10:38 position here. And I can hold shift and
+10:43 this will flatten this little section
+10:43 here. That's a smooth sculpt. Okay. And
+10:49 it's not affecting the backside. And do
+10:49 I want to touch any of this other stuff?
+10:52 It probably could. You could probably
+10:52 touch this whole section here. Probably
+10:56 doesn't need to have any movement um in
+10:58 this section. We don't want to move
+11:00 these pixels around too, excuse me,
+11:00 these um faces around too much. The rest
+11:06 of this, we'll just leave that the way
+11:08 it is. We could try a red decimate and
+11:11 that would be kind of tricky, but um
+11:13 starting to get a little bit of, you
+11:13 know, artifacting here. So, if we smooth
+11:17 this, look at what happens. It kind of
+11:20 messes up that that corner. Let's try
+11:20 just a little bit more. Yeah, it's not
+11:25 too bad.
+11:25 Yeah, I'm not mad at that. Now, I do
+11:31 want to re UUV map this because we
+11:31 decimated it with um a modifier that
+11:33 didn't keep its UV mapping. So, I'm just
+11:39 going to hit um I think I get to hit
+11:41 just tab and that gets us into edit
+11:41 mode. And then this guy gets us to face
+11:44 select and I can select all faces and UV
+11:50 smart UV project. And I could probably
+11:50 just press okay. But if we wanted to see
+11:54 what this was doing, we could go UV
+11:54 editing and we could see that that's
+11:56 what it did is it just project. It did a
+12:02 um it took the average surface direction
+12:04 of all the normals, meaning the normals
+12:06 for this sink are all the surfaces that
+12:08 are facing us and it took the average
+12:08 surface direction and then took that as
+12:13 a projection and projected it onto our
+12:15 2D texture. And so that's how it's
+12:15 mapping. All right. And the great thing
+12:20 about a sync is we only get one texture
+12:21 out of this. So we're going to use some
+12:23 smart materials to get a texture that's
+12:23 going to be all white, but it's going to
+12:26 have all these features in it so we
+12:26 could blend with material within Chief
+12:31 Architect and get all the full color
+12:31 palette of this particular model sync
+12:35 and still have it look really
+12:35 realistic. All right, now that I've got
+12:40 this all done, I can just do a little
+12:40 file export. And we're going to export
+12:45 as a wavefront object. I don't care
+12:45 about fixing the axis in this case. Um,
+12:47 even though this is incorrect for Chief,
+12:52 it is correct for Substance Painter. So,
+12:54 we're just going to correct it in Chief.
+12:56 And the scales off as well. I'm not too
+12:56 worried about it. And so, I'm just going
+13:00 to export that wavefront object in a
+13:00 place of my choosing, which is going to
+13:04 be in bathrooms sinks. Make a new
+13:04 folder. And this one's going to be
+13:06 concreti. And shoot, I don't know what
+13:09 the name of this one was. So, we're just
+13:13 going to look real quick. Do our
+13:14 homework.
+13:14 Which one was this? This
+13:21 is Monteray. Monteray. It's just down
+13:21 the road for me. So, do I get to rename
+13:25 this? No, I don't. We'll have to do it
+13:27 later. So, this is a
+13:29 Monteray
+13:29 OBJ. And this is decimated.
+13:33 Okay. And let's just or well, we should
+13:41 just say Monay low low and press export
+13:44 wavefront object.
+13:44 Bam. Um, what happened
+13:48 there? There we go. So, the next part of
+13:55 this is I need to make sure I know where
+13:57 the original sync is, which it's right
+13:57 here. And I can take the material and UV
+14:03 mapping, all this with it. And I could
+14:05 bring it back
+14:05 into that main
+14:07 folder, which is
+14:10 bathrooms, sinks.
+14:14 and this
+14:14 one. Let's go ahead and name this
+14:23 Monteray. And we're going to name this
+14:25 other OBJ
+14:26 file
+14:27 Monteray
+14:30 I.
+14:30 Okay, now we get to get into Substance
+14:34 Painter. And we're going to do file,
+14:37 new, select. And it would have been
+14:37 great if I saved this location. Let's
+14:42 make sure we do that.
+14:42 across all the programs, easier to
+14:44 navigate. And we're going to bring in
+14:48 the low poly count that we just
+14:50 exported. And if we UVmapped it
+14:50 correctly, then it should be that
+14:52 document resolution 1024. We want a
+14:57 really low resolution maps for our
+14:57 asset. And then don't check auto unwrap.
+15:02 Press okay. And there we go. We've
+15:02 brought in this sync. Now, here is where
+15:07 the kind of magic gets to happen is if
+15:07 we just applied some smart materials to
+15:11 this, it would do okay. And what I mean
+15:13 by that is if I just applied a fill to
+15:16 this, and the fill I made some darker
+15:17 colors so we could really see it. And
+15:19 then we got into
+15:19 some masks here, um, like some of these
+15:26 masks like concrete or cavity rust
+15:26 or let's do dust occlusion and put it in
+15:32 this fill. Notice that our map's not
+15:32 baked. So, it's not all that it's not
+15:36 doing anything. Okay, that's because
+15:39 this is a smart mask and it needs to
+15:39 know where the curvature of the sink is
+15:42 based on the geometry. It needs to know
+15:45 ambient occlusion, normals, etc. So, we
+15:45 have to bake this first. Now, let's bake
+15:49 this without doing anything with the
+15:50 high poly count
+15:50 thing. All right, so it's kind of
+15:52 figuring out what the sync is, and that
+15:55 looks like it did a pretty good job.
+15:55 Let's return to the painting mode. Now,
+16:00 all of a sudden, that little smart mask
+16:00 that we applied here is doing something.
+16:05 And it is picking up some dirt in the
+16:05 corners and doing all right with that.
+16:09 Let me remove this mask. Let's try a
+16:09 different one that has maybe a higher
+16:14 effect to it. And look at that. It's
+16:14 just picking up where some maybe sharp
+16:19 edges are. Let's try a different one.
+16:23 Right. It's doing okay. Edges. Uber.
+16:28 Let's try that one. It's doing
+16:28 something. Let's try baking the map now
+16:33 with our high poly count object.
+16:33 And it's this little button right here
+16:36 in case you missed it cuz I've missed it
+16:42 a bunch of times. It's this little tiny
+16:43 itty bitty button right
+16:43 here. And so you got to hit that. And
+16:46 now we get to find that Monterey High.
+16:48 And then we get to change well you could
+16:54 try um in terms of the cage you could
+16:54 try automatic or you could try to change
+16:59 your max frontal distance. And what you
+17:01 do is you slide this until you see that
+17:01 red coming through. And you want to look
+17:05 around and make sure that there's no
+17:08 other issues where that red's coming
+17:09 through. And so you're going to see
+17:12 that. Yep. There we go. So this is
+17:12 pretty good. Now let's bake the selected
+17:17 textures. And I don't know if you can
+17:17 tell just by looking at what's happening
+17:21 right now, but it's picking up curvature
+17:22 in a way that it wasn't before when we
+17:22 baked it. Let's return to painting mode.
+17:28 And now we're going to be doing a little
+17:30 bit of a different thing with our mask
+17:32 here. Let's go ahead and remove this
+17:34 mask. Let's try one of these again.
+17:34 Let's just try as is strong. It's still
+17:40 kind of just doing all right on our
+17:48 But when we look at one of these masks
+17:52 like this is look at this. Even though
+17:54 we smoothed this
+17:54 out, we smooth this out in our low poly
+18:00 count model. See how it's showing up in
+18:03 high poly count, right? If we take this
+18:05 away, take this filter away, still
+18:07 showing our high poly count in our
+18:09 preview here. That's because we're
+18:09 utilizing it to be able to paint onto
+18:11 this thing. So, we're kind of seeing an
+18:14 overlap of of two different things
+18:14 happening right now. So, what's my next
+18:19 step? Let's go bring this into Chief
+18:19 Architect and see what all this means,
+18:21 right? What are we getting out of this?
+18:24 So, first of all, let me just go ahead
+18:27 and get something like like this
+18:27 concrete cast. I just get to apply this.
+18:32 Bam. And that looks pretty fantastic
+18:32 right off the bat. See, it's figuring
+18:34 out where that curvature is as well. And
+18:40 it's applying based on that curvature.
+18:41 It's going to pick up all the little
+18:41 details that we got from that high poly
+18:43 count item. Right. And the one thing I'm
+18:47 going to do here is I'm probably going
+18:49 to change in its technical parameters,
+18:49 its height range. We're going to kind of
+18:54 dumb that down just a little bit so it's
+18:56 just not so so it's not just standing
+18:56 off so much. And we could always try a
+18:58 different one. Here's a concrete course.
+19:03 And for this one, it might be that we're
+19:04 going to, you know, mess around with the
+19:07 color variation. And maybe we need to
+19:09 mess around with the tiling size. so
+19:09 that it gets a little smaller, bigger,
+19:15 etc. Um, that height's definitely not
+19:15 something I like, so it would probably
+19:16 get rid of that one. And let's try let's
+19:21 try one more thing. We've got some smart
+19:23 materials
+19:23 here. There's a bronze statue. Sounds
+19:29 kind of cool.
+19:29 And these smart materials are using
+19:34 those baked maps like curvature and
+19:34 ambient occlusion to try to figure out
+19:39 where it should be putting its it's um
+19:42 its features, if you
+19:42 will. Let's see if anything else would
+19:46 look good as a
+19:48 cast
+19:48 sink rubber steel. We don't want any
+19:51 steel stuff. And then on top of that,
+19:53 you can go check the community and see
+19:55 what they have as well. So, um, there's
+20:00 all kinds of stuff you could check out.
+20:03 Plastic, used, shiny, or soft. Check
+20:05 that out. Boy, that looks pretty
+20:05 good. That looks pretty good. And so,
+20:10 I'd open the folder for this. And
+20:10 somewhere in here is something that's
+20:12 specifying the base color. And we want
+20:17 it to be a white base color, right? We
+20:18 don't want to have too much color
+20:18 because we want to be able to blend with
+20:23 other textures. So, that right there
+20:23 looks fantastic. Now, something we could
+20:27 do with this because it's already kind
+20:27 of telling the story of where there are
+20:30 shadows and everything is we could
+20:30 export this and use this as the ambient
+20:35 occlusion map in Chief Architect, which
+20:37 would tell Chief Architect, let's put
+20:37 false shadows in this area. So, that's
+20:40 something. And then in terms of this, we
+20:46 can always kind of bring the opacity
+20:46 down and get a blend of the two, right?
+20:50 If we like some effect from the first
+20:53 one versus the second one, you know,
+20:53 somewhere in there. Actually really like
+20:58 this. I think this looks pretty good. On
+21:01 top of that, we could do something like
+21:03 affect the height map where let's just
+21:07 do a fill. And in this fill, I'm going
+21:08 to
+21:08 do Let's see. Let me go back a little
+21:12 bit. Let me make sure I'm on this guy
+21:14 right here. So, I got a new fill. And
+21:16 this fill is only going to affect
+21:16 height. And in the height, I'm going to
+21:18 change the overall height of this thing.
+21:22 And I'm going to use one of those smart
+21:25 masks and get something that just gives
+21:29 me some subtle dimpling and stuff,
+21:29 right? So maybe we get edge, dirty,
+21:35 crack. No, it's a little
+21:35 aggressive. I want something that's got
+21:39 like some
+21:39 surface cavity
+21:42 rest. What happens when we do this?
+21:47 Isn't that crazy?
+21:47 That's pretty wild,
+21:49 right? Cavities. This is going to give
+21:57 us. It's fun to come in here and just
+21:57 kind of check some of this out. And so
+22:01 that's that's a positive height value,
+22:02 right? If we took it to a negative
+22:02 height value, now we've got, look at
+22:11 dimpling. Right? Now, I want fewer
+22:12 dimples.
+22:12 So, I already got
+22:15 two. So, let's let's do let's see dirt
+22:23 spots. I want something real. So, edge
+22:26 damage kind of describes what it's
+22:26 doing. Just some damage to the edge. You
+22:30 know, that's just a that's almost subtle
+22:33 enough for me. I like that. Let's try
+22:34 just a couple more. I want to remember
+22:41 one. Paint old small cracks. That sounds
+22:44 like it might be good. Yeah, that's the
+22:46 one. Look at that. Can you tell? Little
+22:49 dimples. Little dimples right here. So
+22:50 that if we come back to the base color
+22:53 and change the height, you can really
+23:02 perfect, right? So maybe
+23:02 um maybe we can do a little transform on
+23:08 this or maybe there's a way to change
+23:16 scatter. There's Oh, look at that. Some
+23:18 kind of imprint.
+23:20 Interesting.
+23:22 Scratches.
+23:22 Okay. Not sure what top down gradient
+23:24 is. Oh, it removes a couple of them. I
+23:27 want to get something that might get to
+23:32 to a scale. There we go.
+23:34 Scale. Look at this.
+23:34 And so, I mean, this is what we're
+23:36 talking about when we're doing just
+23:40 really quick and
+23:43 easy mapping
+23:43 to models that can make them look
+23:52 extremely realistic with not all
+24:00 input. Yeah, I think I like that just
+24:00 the way it is right there. So, what do I
+24:07 get to do now? Export textures, right? I
+24:08 have a particular one that I built out
+24:12 just to match our typical export uh
+24:12 naming conventions in Chief Architect.
+24:16 And then I get to just export to this
+24:18 file location. Bam. It's going to get
+24:18 rid of all those. Actually, I don't want
+24:23 them named material. I wish I renamed
+24:23 that. I'm going to rename this to um um
+24:33 Monteray create texture.
+24:36 And let's just export
+24:36 again. Bam. Just like that. And then the
+24:40 last thing, we do get to export an
+24:48 from that came from the baking AO. I
+24:48 think I just get to search AO. And there
+24:53 it is. I know it doesn't look like much,
+24:56 but look at this. That looks exactly
+24:58 like this. So, you should be able to
+25:00 tell that that's our AO map. You can
+25:00 rightclick export resource and then just
+25:06 bam. And so now what are we doing? We're
+25:10 in Chief. Cool. And we get to bring up
+25:10 this file, this folder. Let me just kind
+25:15 of dock it right here. And I'm going to
+25:17 bring in that low poly count
+25:17 object. Just like that. And so, you
+25:21 know, the size of this is wrong. We're
+25:25 going to have to come back to the web
+25:25 and figure out what the actual size of
+25:29 this is.
+25:30 Let's see. 20 by 19 by 4 and a half. You
+25:34 know, meshi is not perfect, so it's not
+25:36 going to get this exactly right, but
+25:36 we'll see in a second here. I'm going to
+25:40 rotate this like we're swinging around
+25:40 the X-axis. So, rotate that 90 just like
+25:46 that. The mesh looks pretty good. And
+25:46 then I can get back into general, retain
+25:52 aspect ratio, and we knew that this was
+25:52 20 by 19. So, this number is going to be
+25:59 20. And we're pretty close. We're almost
+26:01 on the money with this sink. All right.
+26:01 So, it's almost just a recreation. We're
+26:05 going to generate the sink block. We're
+26:08 going to end up editing this sink block
+26:10 possibly um to create a proper sink
+26:13 hole. And
+26:13 um I want to just place this first
+26:15 because I'm going to recreate it once we
+26:19 fix some things on it. So, first of all,
+26:21 we need to fix the map. What's happening
+26:23 here is this map is came coming from
+26:23 meshy whereas the mesh itself has been
+26:27 reuvextured. So that map's incorrect. So
+26:32 we get to use the adjust material tool,
+26:32 rainbow bacon tool and we get to say now
+26:45 mat. And let's go pick our texture that
+26:46 we
+26:46 created. And let's see. There's the
+26:50 Monteray. And I'm going to get rid of
+26:59 those. I like this one better. There we
+27:02 go. Monteray concrete texture. And we
+27:02 could do Monteray bump. And then we have
+27:07 this
+27:07 AO. And that's going to look crazy,
+27:10 right? And then we've got this roughness
+27:15 map.
+27:15 And let's press okay and see what we
+27:17 got. Look at that beautiful, beautiful
+27:30 incredible? I don't see a lot of the
+27:33 bump map happening here. I'm curious
+27:33 about that. Let's get rid of the Oh, you
+27:37 know what? We only just got to set the
+27:39 number a little higher. There we
+27:39 go. Isn't that wild? See what happens
+27:43 when we get rid of the bump map and
+27:43 instead use the normal map. Sometimes
+27:51 results. Keeps it down nice and subtle.
+27:56 Yeah, looks looks fantastic. It really
+27:58 does. And
+27:58 so what are we at? We're at 4,400 poly
+28:05 count. It's not bad. It's really not
+28:08 bad. That's a low light symbol. Um
+28:08 lightish symbol. We're going to call
+28:12 this
+28:12 concrete one array
+28:16 sync.
+28:18 Okay.
+28:18 And actually, I don't even need to name
+28:21 it right now because we're going to
+28:21 reconvert it. We're going to reconvert
+28:25 it to a sync. And we do need to change
+28:25 for syncs. You have to fix um their sync
+28:30 cutout. And I'll show you why in a
+28:30 second here. So, let me just reconvert
+28:34 it. The reason I'm reconverting it is
+28:37 this. When you just open this
+28:37 up, if you accidentally reset object
+28:40 size, it's going back to its origin. If
+28:42 you suddenly go change the Z position by
+28:48 one inch, that's not one inch. Why is
+28:49 that? Because it's going based on its
+28:51 original object size. So, we want to
+28:51 reconvert it to get um this back to a
+28:54 square one state. Okay. So, convert this
+28:59 fixture interior. We're going to show
+29:02 advanced options in this case.
+29:02 Now we have this as our base size.
+29:10 Okay. And let's go. And here's our
+29:16 it. And then here's our opportunity to
+29:18 drop the basin down just a hair. Maybe
+29:19 maybe not. Maybe we'll leave it right
+29:20 where it is. Um and then we will end up
+29:25 fixing this CAD block. So let's just
+29:25 press okay. Oh, one more thing. Options.
+29:30 And this is going to insert into a
+29:30 countertop. And then it's going to be a
+29:35 sink for
+29:35 bathroom. And there we go. It's in our
+29:40 library. Now, when I click to place
+29:40 it, one saying it's much larger than our
+29:53 this. Here's what's happening is our
+29:53 sinkhole is being cut to the extent of
+29:58 the geometry of the sink itself.
+29:58 So, we have to fix that. Okay. So,
+30:01 here's what we're going to do. Got to
+30:03 get back to 2D view. We want to get this
+30:09 CAD um box here. So, let's edit the CAD
+30:09 box. Let's grab all this. Let's copy it.
+30:17 Let's bring it back to our 2D plan here.
+30:19 Let's paste
+30:19 it. Look at that. It's super tiny.
+30:25 You don't know why it's
+30:25 tiny, but I'm just going to line it up
+30:34 right. Size right. Yeah, that's sized
+30:38 right. Okay, now is my opportunity to
+30:38 just draw a polyline. Just going to draw
+30:42 a polyline inside of this sink.
+30:42 Something like this. That's it. And I'm
+30:46 going to convert this into a countertop.
+30:53 Press okay.
+30:53 designate that this is hole in
+30:56 countertop. All right, that's this guy
+31:01 right here. Press okay.
+31:01 Now, select all this, block
+31:05 it, and let's just rename it Monray add
+31:11 block. Why do we do that? Because now we
+31:16 get to come into the library, open the
+31:19 object, and in the 2D symbol panel,
+31:19 we're going to find that Monteray CAD
+31:21 block. Press okay. Once we've done that,
+31:28 when we click and place this and replace
+31:32 this, there we go. Our sync cutout is
+31:35 correct. And dang, if that isn't just
+31:37 gorgeous. 31
+31:37 minutes. Not terrible. You know, would I
+31:44 do this on every object? No. But is this
+31:46 one going to be a staple in my library?
+31:47 Absolutely. I mean, that just looks so
+31:51 cool, you know. And what's great about
+31:51 this workflow is we can go back and mess
+31:56 around with this and and just reexport
+31:58 these textures and get it back into
+32:00 place. I think it's so interesting,
+32:00 right? Look at this. I mean, we proved
+32:05 that we smooth this mesh out here, but
+32:07 it looks like
+32:07 there's a uh, you know, a dimple in
+32:10 this, right? So, if we were to take this
+32:18 right here and open this up and go 2D uh
+32:20 excuse me, 3D panel and say zero
+32:23 smoothing.
+32:23 Okay. And then we're going to change
+32:34 view. Have I lost my mind? It doesn't
+32:37 look like that's smoothed out. Funny.
+32:37 Yeah, it's definitely smoothed out, but
+32:42 because of that
+32:42 mapping, it just looks so so
+32:46 indented. Isn't that neat? And hope you
+32:52 learned something on this one. Um, I
+32:54 know I've been going down this path.
+32:54 I've been making a lot of assets for my
+32:58 library for the next version of this.
+33:00 Um, I I need to have feedback if you
+33:00 guys like this stuff and you want me to
+33:04 continue doing some of this mesh
+33:04 creating stuff because we can keep doing
+33:08 this or or model creating stuff. If
+33:10 you're getting hired to make oneoff
+33:10 models and you want a really efficient
+33:12 workflow, I mean, how else are you going
+33:16 to model a sync that looks as good as
+33:16 that sync does in this amount of time?
+33:21 30 minutes and you're and you're
+33:21 producing this for a client. I mean,
+33:23 that's that's pretty far out there. So,
+33:29 cool. Thanks for joining. I was the
+33:29 best. I was the best video game player
+33:30 in the world. I swear you couldn't beat
+33:39 incredible. Doubt me for one second. I

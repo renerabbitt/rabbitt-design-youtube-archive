@@ -1,0 +1,261 @@
+Title: Building A Flat Roof With Curb And Drainage In Chief Architect
+URL: https://www.youtube.com/watch?v=gnV2aNd-5gQ
+Visibility: members-only
+
+0:01 What's going on VIP? I've got a video
+0:03 here that's going to be kind of a unique
+0:05 one for roofs.
+0:07 So, more on that roof tips playlist.
+0:11 Um here's what I've got going on.
+0:12 Someone's asking about how do we create
+0:14 this roof? And
+0:15 I'm actually going to approach this in a
+0:17 different way. Even though we're calling
+0:18 this roof, it is a roof. I'm going to
+0:20 build this in a little bit of a
+0:22 different way because we notice one
+0:23 thing here is that we've got a scupper
+0:27 here, right? The little
+0:29 um
+0:30 the a way to drain this roof.
+0:33 So, what I'm thinking instead is we're
+0:36 going to
+0:37 uh turn this into a parapet. So,
+0:39 how we would do that, go ahead and build
+0:42 out
+0:43 the first level,
+0:45 build out a new floor.
+0:53 And on that new floor, I'm just going to
+0:55 take a railing wall, right? So,
+1:00 a railing walls.
+1:03 Same my railing walls.
+1:05 I already have a link for that. There we
+1:07 go.
+1:11 Like so.
+1:14 I'm going to go ahead and make these
+1:15 solid.
+1:17 So, underneath the rail style, solid.
+1:20 I'm going to in the newel's baluster's
+1:22 panel, I'm going to set these to be only
+1:24 about 4 in tall.
+1:26 And you can leave the cap on there if
+1:27 you want to. If you've seen one of my
+1:29 previous videos where we create a
+1:31 parapet builder, uh maybe you have that
+1:34 as well. So, I'm just going to come in
+1:36 here and search parapet
+1:38 in my library.
+1:41 Add it to my library. There we go. And
+1:43 I'm just going to get to spray this
+1:44 room.
+1:45 So, that part's done. If we were to go
+1:47 pull a 3D view,
+1:50 the floor structure is essentially going
+1:53 to dictate how this looks, okay? So, um
+1:56 for one, let's we're going to say that
+1:57 there's no ceiling above this room,
+1:59 right? Flat ceiling over this room.
+2:01 Okay? And then
+2:03 for two, is the wall type of my railing
+2:06 determines what the skirt looks like.
+2:09 So, I could get into these railings
+2:12 and get into the wall type, define
+2:15 and make a little copy and say that this
+2:17 is my parapet wall.
+2:22 And in that way, I could set up the
+2:25 default textures here.
+2:27 Match whatever I want. Maybe I'm going
+2:29 to do some kind of metal.
+2:32 Black slate, sure.
+2:34 And I could just insert above, move this
+2:37 up the stack. So, I was worried about
+2:39 this being on exterior versus interior.
+2:41 There we go. So, I've got a new wall
+2:43 type called the parapet wall. And so,
+2:45 that's going to change the material on
+2:47 this outside edge, like that. Right? And
+2:51 then I might take that material and just
+2:53 paint the outside of my railing wall
+2:56 here.
+2:58 But actually, what we're seeing here is
+3:00 this is just part of my assembly
+3:03 that was generating
+3:05 from the roof parapet painter is you're
+3:09 seeing part of the molding come through.
+3:10 That's what you're seeing right there.
+3:12 So,
+3:13 I course adjust this to be taller if I
+3:15 want.
+3:17 Back in that newel balusters, let's
+3:19 actually make it
+3:21 8 in. And if I accentuate that height,
+3:23 and there we can see the moldings coming
+3:25 from my parapet builder. So, I'd have to
+3:27 get into my room and get rid of some of
+3:29 these moldings if I don't want to show
+3:31 them. So, that's just going to be in my
+3:32 room set up here.
+3:33 So, this is a stack molding. This is a
+3:35 meant to be a cap.
+3:37 So, then maybe I don't actually need the
+3:39 lower section of molding.
+3:42 Here, so we can delete that.
+3:45 Keep the cap.
+3:46 There we go.
+3:48 Pretty simple. And then on top of that,
+3:50 you could drop a window in here.
+3:51 Wouldn't that be cool? In fact, you
+3:53 could just drop a little pass-through
+3:54 window in here. That's going to generate
+3:56 a hole and then make this so that it's
+3:58 got no casing, right?
+4:01 Shrink this down.
+4:03 If you wanted to get really clever to
+4:05 match the source picture, is we're going
+4:08 to get in here. I'm going to turn off
+4:11 use exterior sill. I'm going to turn off
+4:13 casings.
+4:15 I'm going to turn off um frame and then
+4:19 I could make this an arch and then
+4:22 um
+4:24 Let's see. Make this an arch.
+4:27 Broken arch and reflect. Um if I was
+4:30 doing it as an arch, it'd have to be the
+4:32 same height.
+4:33 Right? It'd have to be like this.
+4:37 Round top arch and reflect that. And
+4:40 that's just a round hole now. Isn't that
+4:42 kind of crazy?
+4:43 It's simple and then just kind of drag
+4:45 this in place.
+4:46 That would look
+4:48 pretty much like and turn that. So,
+4:50 look, you know, it looks like I got to
+4:51 make that a little bit smaller, but you
+4:52 know, I could do that as well.
+4:54 So, that's getting pretty close. Now,
+4:56 the next part of this is
+5:00 um that I want basically some skylights
+5:03 in this. And so, what I'm going to do is
+5:06 I'm going to use the roof plane tool,
+5:09 draw out a roof plane, set this roof
+5:11 plane to be a 0-in
+5:14 pitch.
+5:16 Right?
+5:17 And from there, I could just I love just
+5:20 using the polyline tool. For me, it's a
+5:22 lot easier than doing some other things.
+5:24 So, we can convert this to a skylight if
+5:27 we wanted to.
+5:28 And from here, since it's now converted
+5:31 to a skylight, let's just assume that
+5:32 this is the right size, I can convert
+5:35 this instead
+5:37 to a fixture
+5:40 and let's just call it fixture exterior
+5:42 and I want to show advanced options. And
+5:45 I don't necessarily need to add this to
+5:46 my library because I'm going to place it
+5:48 immediately. And then the options
+5:51 panel
+5:53 What can I say? Can I say this?
+5:57 Things on wall fits under wall inserts
+5:59 inserts.
+6:00 That's reference surface floor.
+6:03 That's reference surface floor. So if I
+6:06 get to the general panel, it's going to
+6:08 tell me the overall height of this is 4
+6:11 in.
+6:11 Then that options panel, I could just
+6:14 say Well, I could just say cut the
+6:15 entire assembly. So this is going to cut
+6:18 the entire floor assembly all the way
+6:19 through.
+6:21 All right? And then we could change the
+6:22 insert depth if we wanted to kind of
+6:24 sink that into the floor a little bit.
+6:26 In fact, I do. I want to sink this in
+6:28 based on the assembly. In this case,
+6:30 maybe maybe not actually. That's totally
+6:33 up to you. Just know that that's an
+6:35 option.
+6:36 And so now when I place this, this
+6:38 should in fact have cut the floor
+6:40 surface
+6:41 all the way through. If we could take a
+6:42 look,
+6:43 should see through to the floor below.
+6:45 Ah, not quite.
+6:47 Why not? What's happening there? It
+6:49 might be that we're picking up
+6:55 We might need to set a room below here
+6:57 just with invisible walls. Um which
+7:01 would make sense in this case anyway. So
+7:03 let me grab these railing walls. Let me
+7:05 go down to the floor below. Let me paste
+7:08 them in place. I'm going to make them
+7:10 invisible. I'm going to set this to be
+7:12 um just a slab.
+7:17 And then in the structure panel,
+7:19 I'm going to say that this has no
+7:21 ceiling finish by deleting that ceiling
+7:23 surface.
+7:24 Is that going to fix what I need fixed
+7:26 here? I'm not sure.
+7:30 Oh, it does look like just a redraw got
+7:32 rid of my issues or just the fact that
+7:34 we had a floor here. If I go undo, we
+7:38 can see that it is in fact cutting that
+7:40 floor surface.
+7:41 It might be impactful to change the
+7:44 overall height of this or even add a
+7:46 little bit of a solid to generate that
+7:49 shaft because with this option, we're
+7:51 not going to automatically generate that
+7:53 shaft. So, that's part of the problem
+7:54 here.
+7:55 Um so, what I could do is I could come
+7:58 into the 3D panel
+7:59 and I could just change the height of
+8:01 this. If I got into advanced sizing, it
+8:04 would be helpful if I put a little
+8:07 stretch plane in here, set it maybe 1
+8:10 in. So, that's just going to stretch the
+8:12 frame of this without touching the glass
+8:15 of this.
+8:16 So, now that I have that stretch plane
+8:18 in, I could set this height to the
+8:20 overall assembly. Let's just assume that
+8:22 it's 18 in. We can see what that did
+8:24 there. So, that's going to And the last
+8:27 part of this is going to change We need
+8:29 to change our offset here. Back into
+8:30 that options panel, insert depth. Now,
+8:33 we can insert that 18 in. So, that
+8:35 should dive that
+8:36 So, that should dive that back to the
+8:38 frame.
+8:39 There we go. So, then I would just do a
+8:40 few adjustments here, but there we go.
+8:43 That's a way that we can actually get a
+8:44 fixture in there that
+8:46 looks like it has glass in fact and then
+8:48 cuts through us entire floor assembly.
+8:51 And then from, you know, this view,
+8:53 we're we're essentially getting back to
+8:56 that source subject here, which is This
+8:59 is what we're looking to achieve.
+9:01 So, not all that far off. A couple
+9:03 little quick tips and tricks for you
+9:05 there. Obviously, I need to fix, you
+9:07 know, no molding on this wall for the
+9:09 exterior side to get rid of this coming
+9:11 from the directive of this room. And
+9:14 then, you know, change that material,
+9:16 etc.
+9:18 Build this out to slab and
+9:20 correct this.
+9:21 The most part,
+9:23 all I wanted to do. Cool. Thanks for
+9:25 watching.
+9:45 >> Oh.

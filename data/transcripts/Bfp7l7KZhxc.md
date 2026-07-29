@@ -1,0 +1,215 @@
+---
+videoId: Bfp7l7KZhxc
+title: Pro Plan Callout Tool
+url: "https://www.youtube.com/watch?v=Bfp7l7KZhxc"
+status: imported
+---
+
+# Transcript
+
+0:02 we're going to go over the special call
+0:04 out tools that are included in your Pro
+0:07 Plan package and are in your toolbars
+0:07 and those callout tools only really work
+0:13 to their full potential once you've got
+0:13 uh the layout opened you've watched that
+0:18 video that we've got which is first time
+0:22 opening layout which means you've relink
+0:25 your plan files meaning an asilt plan
+0:25 file or a new plan file and once you've
+0:29 relink those now we've got that
+0:30 established and linked to our layout
+0:32 file so what does that mean now we can
+0:36 go into the toolbar and use one of the
+0:36 two call out tools and how do these work
+0:40 well just going to go ahead and click
+0:40 this call out into place here and then
+0:42 I'll use that second call out and as we
+0:46 hover close to a wall you're going to
+0:46 see that this actually acts as a section
+0:52 arrow and this is another way of doing a
+0:54 call out where we're kind of calling out
+0:57 maybe a wall detail roof detail Etc now
+0:59 the use of that first call out is
+0:59 typical when we're going to be pulling
+1:03 some kind of a cross-section view this
+1:03 second one's a little bit different all
+1:08 I'm going to do here once I have layout
+1:08 open and I've established that this plan
+1:13 file that's open right now is linked to
+1:13 that layouts referenced files meaning we
+1:18 have layout open here over on the
+1:18 sidebar here we can choose reference
+1:20 plan files and we can see I've got the
+1:22 correct file is open right now and it's
+1:25 linked there all right so what does that
+1:29 mean that means that when I link this
+1:30 this to a cad detail in that same plan
+1:33 file right so maybe I'm going to go look
+1:39 for detail typical wall something like
+1:41 that press okay it's going to pick up
+1:41 that that detail is detail 38 on a11 on
+1:47 layout this is a special bit of magic
+1:49 that's happening here so that when we
+1:52 get to that a11 we can see there's
+1:52 detail 38 now if I don't want it to be
+1:57 detail 38 I want it to be detail 1
+1:57 there's two ways we can do that we could
+2:03 delete detail one and move detail 38
+2:04 into that detail one spot and you can
+2:08 see it's automatically updating to
+2:08 detail one and if we go back to plan
+2:11 view it's automatically updating that as
+2:16 well this is the magic of what happens
+2:16 in the layout in Pro layout and Pro Plan
+2:20 when they're all linked together and we
+2:24 are using these call out tools so that
+2:24 works really really well another way we
+2:27 could do this is let's just say this
+2:28 doesn't exist anymore and I wanted to to
+2:32 be detail 10 we could actually take this
+2:36 detail 10 layout box window and relink
+2:38 the view to whatever detail I was
+2:38 looking for in this case that typical
+2:43 wall detail again and we can see here
+2:43 it's updated to detail 10 and so long as
+2:48 this call out's linked there you go it's
+2:50 updated so there's two ways that we
+2:50 could use that section call Out tool
+2:53 right there now the next thing that I
+2:57 like to do is I'll build out a
+2:57 crosssection view so I'll do a back
+2:59 clipped cross crosssection through the
+3:00 center of the building I'll build all my
+3:06 framings all right and then I might edit
+3:08 the active View and even do a little
+3:08 side clip here so I might clip the sides
+3:13 this will ask me if I want to turn on
+3:13 the clip lines in this view which I can
+3:17 say yes or no and I can go ahead and
+3:19 move this clip line in so that I'm
+3:19 clipping this view side clipping on
+3:23 either side right so that's kind of
+3:23 clever and then I might turn those clip
+3:27 lines off and this is what that view is
+3:28 going to look like the next thing I
+3:28 might do is I might do an auto detail
+3:31 which is right here in this top row here
+3:35 so right next to build all framing is
+3:35 auto detail and you might even want to
+3:40 do some kind of automatic dimensioning
+3:40 so you could of course move this left to
+3:45 right maybe it comes in on this side
+3:45 totally up to you you know clean up some
+3:49 of these measurements totally up to you
+3:49 you might want to do auto detail in this
+3:54 case before you actually do any kind of
+3:56 CAD block work because sometimes it'll
+3:59 pick up that CAD block work so you can
+4:01 always if you need to redo your CAD
+4:01 choose rectangular polyline shift select
+4:07 all that CAD delete it do that auto
+4:07 story pull again you can see here we
+4:09 picked up a lot of a lot less you know
+4:12 kind of that all that CAD stuff going on
+4:16 there and then I pick up this auto
+4:16 detail this is looking like it's almost
+4:18 done well this is what I like to do when
+4:22 I'm setting up my layouts is I use that
+4:25 same call Out tool and I'll click it in
+4:28 here I'll take it draw out an arrow
+4:28 which in this case is defaulting to a 25
+4:34 in Arrow and so once I've linked this to
+4:36 that detail and watch I'll just look for
+4:38 that detail here I'm going to look for
+4:38 this detail in my example details maybe
+4:40 I'll get into something like this detail
+4:44 would be a perfect representation of
+4:44 maybe something that's going on there
+4:46 and we know that once that's linked and
+4:51 we get into layout it's going to be
+4:51 updating this view once it's you know
+4:55 seeing that that's in layout this
+4:55 particular one is not in layout so I
+4:58 need to be relinking it to something
+5:02 that is in layout out um and in this
+5:02 case some kind of framing roof to trust
+5:06 detail that might be a standard one
+5:06 something like this one we're going to
+5:10 pick up something there right and so I
+5:13 can just copy this down draw out a new
+5:13 Arrow this is going to pick up just that
+5:17 typical wall detail if I don't want to
+5:19 pick up snaps I can hold s so I don't
+5:21 pick up any of these snaps so it's
+5:21 easier to place right so as I draw this
+5:25 out I can hold s it's not going to pick
+5:27 up any snaps that way I can really
+5:27 easily Center it on this wall and then
+5:32 reink this view to that typical wall
+5:32 detail in this case or maybe you've got
+5:38 continuous insulation see how simple
+5:38 that is then I'm going to do this one
+5:39 more time I can hold my S key draw this
+5:44 out obviously this is going to be some
+5:46 kind of foundation detail I'm going to
+5:46 relink this get into Foundation details
+5:49 maybe I've got a slab on grade who knows
+5:53 so there we go there's my cross-section
+5:56 view super simple just using these two
+5:58 call out tools I've got this full
+5:58 section View come back into the floor
+6:03 plan we've got a cross-section camera
+6:06 you don't necessarily need to use a
+6:06 cross-section camera you could instead
+6:12 use this call Out tool one more time
+6:12 link this to that camera that we just
+6:15 created that cross-section camera that
+6:19 we just created right so it's another
+6:19 way that we could do this and then send
+6:23 that to view so pretty Dynamic tools
+6:25 that are just automating for you the
+6:25 best part about this is we're limiting
+6:30 liability by potential eror in
+6:30 annotation this system works off of a
+6:35 grid I want to note one more thing to
+6:35 you in case you're not using the default
+6:41 ancd setup here let's just say that our
+6:41 sheet size is in fact quite a bit larger
+6:46 than this and we've got more details or
+6:48 the size of these details are a little
+6:50 different this next part's a bit
+6:50 Advanced we'd have to get into text
+6:52 macro management okay and then there's a
+7:00 macro here called DLR you'd have to edit
+7:02 this again this is very Advanced this
+7:02 isn't for all users but this is in the
+7:07 case that you have um a sheet size
+7:07 that's different than that default sheet
+7:12 size we're using so what we're doing is
+7:12 we're just looking for the XY coordinate
+7:18 of D1 and that can be found down at the
+7:20 bottom here when we hover over the
+7:20 center of our D1 placement depending on
+7:26 the sheet size we just need to punch in
+7:30 that x value and Y value here and then
+7:31 this is just designating how many
+7:31 details wide do we have and what's the
+7:34 width of that details layout box so this
+7:40 system is dynamic meaning you can change
+7:42 it that auto numbering it can change you
+7:45 would have to plug in those numbers you
+7:45 need some help with that if you've got a
+7:48 different sheet size that you're working
+7:49 with and you want some help with this
+7:49 automatic detail system rewriting that
+7:52 little code please post in the forums or
+7:56 somewhere else if you're in the Pro Plan
+8:01 dated past um 24 122 that means right
+8:02 here is a link to the Forum that way you
+8:08 can just post in the Forum or disc
+8:08 Discord plan sharing you could post
+8:11 there if you need help with that
+8:11 particular uh macro all right and
+8:15 hopefully that answers a bunch of
+8:15 questions for you about those call out

@@ -1,0 +1,89 @@
+Title: CA SHORTS-Callout Linking Part 1
+URL: https://www.youtube.com/watch?v=pGnHAGNIYFE
+Visibility: public
+
+0:04 let's use a call out to create
+0:04 a note about a detail that links to our
+0:09 layout and automatically parses label
+0:12 information using the new x14 linking
+0:14 features
+0:14 minix14 now
+0:16 I'm going to place a call out I'm going
+0:18 to do a couple things with this call out
+0:21 one is I want to include a section Arrow
+0:23 this call out is going to be linked to a
+0:25 detail that is about a typical wall
+0:28 framing assembly
+0:28 I'm going to label this call out D1
+0:35 in the text below line box if I click on
+0:38 macro and into object specific what I
+0:41 can get to here is linked view layout
+0:45 page label my layouts are driven by a
+0:46 page label
+0:46 that has an automatic labeling macro
+0:48 with a prefix that I pick out so this
+0:52 particular sheet I'm going to send it to
+0:55 is an a sheet so it's going to be a
+0:55 maybe three or something like that so
+0:57 I'm going to place this in you're going
+1:01 to see nothing is populated but it does
+1:01 show us that there's a text below a line
+1:04 here
+1:04 now I want to click this and in my edit
+1:09 toolbar I'm going to link this View and
+1:10 I'm going to search in my cad details
+1:10 for that particular CAD detail which is
+1:16 detail framing typical wall
+1:16 now that we've got this linked if I just
+1:20 double click on my call out it's going
+1:20 to take me straight to this detail next
+1:24 thing up is I want to send this detail
+1:32 now it's in my layout page
+1:32 I'm going to drag it up onto this part
+1:33 of the screen so that we can see what's
+1:40 you can see here framing typical wall is
+1:42 the title with a scale I'm actually
+1:42 going to remove some of that stuff in
+1:45 the information so I'm going to open
+1:46 this
+1:46 I'm going to edit the call out
+1:49 and for the call out label I want to get
+1:55 into my macros object specific and I'm
+1:58 going to use referenced view call out
+1:59 label
+1:59 you're going to see it automatically
+2:00 parses that label that I input which was
+2:05 D1 and then text below line I'm going to
+2:07 leave blank I don't need to show what
+2:09 pages is on because it's on this page
+2:10 now
+2:10 I'll include a circle from my call out
+2:14 and in my line style I'm going to make
+2:16 sure that something's checked so that
+2:18 that line shows up a little bubble
+2:19 Circle there
+2:19 and a couple of little clean up things
+2:22 I'd like to do
+2:22 in particular I'm going to remove my box
+2:25 scale
+2:25 and then I might change this
+2:29 and just
+2:29 change this to typical wall
+2:35 something like that
+2:36 I could say just no scale underneath
+2:40 there we go the last bit that I want is
+2:43 I want a y offset I'm going to actually
+2:46 offset this by well let's try something
+2:48 first let's just try a negative half an
+2:51 inch you can see it moved that
+2:53 label
+2:53 up from the bottom about a half an inch
+2:57 now wherever I place this that label
+2:58 goes with it
+2:58 it's dynamically linked so if I double
+3:01 click it it's going to bring me to this
+3:06 right if I'm back in my floor plan
+3:12 now you could do some Advanced things
+3:14 but that's that was the end of this
+3:15 video
+3:15 hopefully you gathered some good

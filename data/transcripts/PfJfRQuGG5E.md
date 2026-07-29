@@ -1,0 +1,166 @@
+---
+videoId: PfJfRQuGG5E
+title: Realistic Shadows Using Photoshop
+url: "https://www.youtube.com/watch?v=PfJfRQuGG5E"
+status: imported
+---
+
+# Transcript
+
+0:00 VIP, I was making you a little bit of
+0:02 cover art for your last video that you
+0:05 got and then I thought, "Hey, you know
+0:07 what? I've run into something that you
+0:09 might actually enjoy knowing about
+0:12 Photoshop, some methods that I employ."
+0:15 And so, what I want to do is I want to
+0:16 produce a shadow on these coffee tables
+0:19 and it's a pretty simple process for the
+0:22 most part. Um it just takes some
+0:24 know-how and so, hopefully this just
+0:26 teaches you how to do that if you're
+0:27 using Photoshop. So, I'm going to take
+0:30 these tables right here, which I used
+0:32 the remove background tool on and then
+0:35 after I used the remove background tool,
+0:37 I then grouped and then stamped that
+0:40 layer. It's just a really fast and easy
+0:42 way of committing that kind of change uh
+0:46 for that remove background. And so, here
+0:48 I go. I've got this. I'm going to
+0:49 control-click on that layer, which is
+0:51 going to highlight
+0:53 the pixels of that layer, okay? So, it's
+0:55 going to select those and so now we have
+0:58 kind of a bounding box of selection for
+1:00 those pixels. And
+1:02 I'll just go ahead and do a new
+1:04 adjustment layer and I'll do a solid
+1:06 color adjustment layer and we'll just
+1:08 throw it all the way to black, okay? And
+1:11 from here, I'm going to do that same
+1:13 thing. If we look at this in my stack,
+1:15 if I just hit control G, control E, I
+1:18 have now stamped this as a raster-based
+1:20 layer with no mask anymore and I'm going
+1:23 to drop this below
+1:26 my existing coffee tables. The next
+1:29 thing that I need to do is I need to get
+1:32 into the edit menu and I'm going to do a
+1:35 perspective warp and so, I'm going to
+1:37 draw out a little grid here and with
+1:39 this grid, I'm going to match the
+1:41 perspective of these chairs as closely
+1:45 as I can. And so, from what I can tell,
+1:47 I'm looking at something about like this
+1:50 for the one side. They're just slightly
+1:53 angled and if I throw this in like that,
+1:55 look at that. That just kind of snaps to
+1:57 it. And so, I'm going to match that same
+1:59 setup on this other side. You don't need
+2:01 to make them this tall. If it's easier
+2:04 for you, make this a little bit lower so
+2:06 that you kind of understand the
+2:07 perspective, by all means, do that. And
+2:10 so,
+2:11 again, I'm just matching the two-point
+2:13 perspective here.
+2:16 And we can see that this
+2:17 table is a little bit angled, that's a
+2:19 little bit angled, this is a little bit
+2:22 angled.
+2:23 Perfect. Now that I have that, and keep
+2:25 in mind, I am on that black image,
+2:29 right? I'm on that shadowed layer that I
+2:32 created.
+2:33 I'm going to hit warp. And from warp,
+2:37 now I get to kind of change this, right?
+2:40 So, I get to actually move this around,
+2:41 and look what happens. We're moving that
+2:43 black underlying layer. And so, it's
+2:46 really easy when we've got this kind of
+2:48 two-point setup here to just adjust this
+2:51 as we need it. And I just kind of get to
+2:54 move this around, and I'm just going to
+2:55 get it close. That's all I'm looking for
+2:58 is I just want to get this close. And
+3:01 so,
+3:02 I think I'm going to make this shadow
+3:04 kind of
+3:05 maybe go way off in the distance over
+3:07 here, maybe.
+3:09 Something like that.
+3:13 I'm not too worried about the legs. The
+3:15 legs I'm going to clean up. Really, I
+3:17 was looking for a true perspective on on
+3:20 this part is what I wanted. And so,
+3:22 that's looking pretty dang close to what
+3:25 I need, okay?
+3:27 Now,
+3:28 let's go ahead and commit that change.
+3:31 And we'll throw on a little layer mask.
+3:33 And so, in the layer mask, I'm going to
+3:34 just make a hard brush and just pop this
+3:37 away, and maybe I'll just um do the same
+3:40 over here, and limit this a little bit
+3:43 just to what I need. I didn't need to be
+3:45 perfect with this. I could have kept
+3:47 going to make this absolutely how I
+3:50 needed it to be, but instead, I just I'm
+3:53 going kind of quick and sloppy. So, I'm
+3:55 going to fake in a little shadow in
+3:57 here. It's got me really close. Bang.
+4:01 That's pretty close. Okay. I'm going to
+4:03 also just Ctrl G Ctrl E stamp that
+4:06 forward again. That's a very destructive
+4:08 workflow, mind you. And then I can do a
+4:12 layer mask and in that layer mask, I can
+4:16 use a gradient fill just from black to
+4:18 white or black to nothing, what have
+4:19 you, and draw a big gradient like this.
+4:22 And look at that, it kind of fades it
+4:24 out. Isn't that cool? And while I've got
+4:26 this layer mask selected, I could then
+4:30 also do a little feather if I wanted to.
+4:32 And the way the feather would work is
+4:35 this. I'm going to commit this change
+4:36 again. I'm going to go ahead and leave
+4:38 this. This is very destructive, mind
+4:40 you. I could commit the change or if I
+4:42 wanted to be non-destructive, I could
+4:44 convert this to a smart object. And from
+4:47 here, I could produce another layer
+4:49 mask. And before I even got that far, I
+4:52 might have been able to do something a
+4:55 little bit clever, which is let's go
+4:56 back a few steps. Before I did that
+4:59 gradient, if I control selected my
+5:01 pixels, and now I've got my mask, and I
+5:03 do that gradient, the gradient is now
+5:05 just inside of that range. And so, since
+5:10 it's inside of that range, and I get to
+5:12 select this now, now when we hit
+5:14 feather, we actually are getting an
+5:17 effect coming from that gradient, right?
+5:20 So, that feather range is there. But I
+5:22 want to keep this selection, and I'm
+5:24 going to go ahead and Ctrl G Ctrl E to
+5:26 stamp, and I still have that selection
+5:29 to make a new mask that then I might be
+5:33 able to do some feathering. And isn't
+5:36 that cool? Now we're really getting a
+5:38 great little shadowed effect. And I
+5:41 might need to tweak just the pixels on
+5:43 this just a little bit. Of course, you
+5:46 know, just like before, we could turn
+5:47 this into a smart object or we can just
+5:49 stamp this forward and do a little
+5:52 Control T to kind of fix some of the
+5:54 edges here. There we go. Get that
+5:56 alignment in and boom. That's looking
+5:59 pretty sharp. Now of course, you can
+6:01 stack on one more mask if you wanted to,
+6:03 put a nice fat soft brush and just kind
+6:06 of feather the very top of that out. And
+6:08 look how sweet that looks.
+6:10 Anyways, quick little tutorial for you.

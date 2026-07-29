@@ -1,0 +1,1123 @@
+Title: Photoshop Making Seamless Materials For 3dArchitectural Programs Like Twinmotion Or Chief Architect
+URL: https://www.youtube.com/watch?v=L-_W3fnnsuk
+Visibility: members-only
+
+0:00 what's going on VIP um let's do a couple
+0:03 Photoshop videos right why not I need to
+0:07 make a seamless texture of three
+0:11 different materials actually um and so
+0:15 this is going to be challenging
+0:16 especially because I don't know where
+0:18 the heck I have those materials there
+0:20 they
+0:21 are there are these selections right
+0:23 here and um thankfully someone provided
+0:26 me with the links to the source image
+0:29 and so now I'm in Photoshop and this is
+0:31 one of those Source
+0:33 images and so I think the first thing
+0:37 I'm going to do is I'm just going to use
+0:38 my book match action which all this does
+0:42 is um it comes up to Canvas size it sets
+0:47 a left top anchor and then sets percent
+0:52 to 200% okay so I'm just going to hit
+0:55 the play action on
+0:57 that there we go so that's what it did
+1:01 and the next thing I want to do is I
+1:02 want to just select this with our move
+1:04 tool and then alt click and I can drag
+1:08 out a copy and I'm going to hold control
+1:10 to kind of override some snap settings
+1:13 and I just want to line this up a little
+1:15 bit so that this one's such a
+1:17 challenging texture in a few ways I want
+1:20 to kind of make sense of this as it
+1:23 tiles and and that's going to be it's
+1:26 just going to be difficult um there's
+1:28 going to be some manually edited
+1:31 elements here that are just going to
+1:33 have to happen I think this gets the
+1:35 stack top and bottom so maybe I will um
+1:40 switch the canvas and and shrink it down
+1:43 or maybe I will just edit utilizing what
+1:47 I'm showing here in a way that I can
+1:50 finally crop this back down to its
+1:51 original size and do something with it
+1:54 in that way so um I'm just making a
+1:56 couple copies here kind of placing these
+1:59 cies to try to fill in those voids in a
+2:03 way that may or may not make sense there
+2:05 we go something like
+2:08 that and so that's getting close to what
+2:12 I want and now I'm going to go back to a
+2:15 crop I'm going to clear any kind of
+2:17 ratio I have there so that I can
+2:21 manually crop
+2:25 this kind of around these splits
+2:30 and it's going to snap because that's
+2:32 the original resolution of this image
+2:35 except for the bottom I'm going to have
+2:36 to override by holding
+2:38 control and all right here we go this is
+2:41 something to work with where we've got
+2:43 some
+2:44 infill and then I want to get into view
+2:47 and get into pattern preview and it's
+2:49 going to warn us that this isn't a smart
+2:50 object so maybe that's not the best
+2:52 thing and let's just take a mile away
+2:55 preview of this ah it looks okay you
+2:58 know there's some things to fix in here
+2:59 here so I'm going to come in here and
+3:02 try to kind of line up some of these
+3:04 elements right and so how do we even do
+3:07 that well this is coming here's our
+3:10 split right here if I were to draw a
+3:12 guideline right there's our split okay
+3:15 and so this is coming from the left side
+3:19 so I might take this stamp tool and I'm
+3:22 going to switch my brush to a round
+3:24 brush and use this as a preview and then
+3:27 bring this over to the other side and
+3:29 able to draw this in now keep in mind
+3:31 this was at the edge so that becomes
+3:35 problematic can you stamp from the right
+3:37 side turns out you cannot unfortunately
+3:40 I wish you could um I also want to make
+3:42 sure that I'm working on the correct
+3:44 layer so I'm actually going to just
+3:46 group all of these layers together as
+3:48 you can see over here I'm just going to
+3:50 merge this group I'm not too worried
+3:51 about screwing things up here so merge
+3:53 layers that gets me one group can I
+3:55 stamp yes I can so I can stamp from the
+4:00 um the preview of this pattern being
+4:03 duplicated over and over again and so
+4:05 what I'm doing now is I kind of want to
+4:07 rotate this so and I'm going to rotate
+4:11 the Clone stamp so if we get into window
+4:15 and we look here and there should be
+4:17 clone source and that's going to add
+4:19 this over on the right hand sidebar and
+4:22 I'm going to click and drag my rotate
+4:25 handle now there's a hotkey for this but
+4:27 I'm going to click and drag that rotate
+4:28 handle so that I can kind of match up
+4:31 the rotation
+4:33 here I think I need to go the opposite
+4:35 direction there we go and so you see
+4:37 what I'm doing is I'm I'm making it so
+4:40 that this piece right here kind of
+4:44 continues and doesn't have that little
+4:47 jog so just a little bit of stamping
+4:50 will get me fixed right there let's do
+4:52 the same thing here little bit of
+4:54 stamping gets me fixed
+4:56 there let's let's narrow down on this
+5:00 brush Harden it up a little
+5:02 bit and a little bit of
+5:04 stamping starts to fix me there there we
+5:08 go that's pretty
+5:10 good and then this is difficult we've
+5:13 got a sliver going on here right and
+5:16 really we need to honor the one side or
+5:19 the other so we're going to honor the
+5:21 right side in this case and so I kind of
+5:24 want this sliver has to translate and
+5:27 come all the way over or this needs to
+5:29 be kind of a butt joint now the benefit
+5:31 of this particular texture is that we
+5:33 could actually come in here and round
+5:35 this off to make this the end of a rock
+5:38 there we go see what happened there and
+5:40 actually you see as we're drawing it's
+5:42 drawing on that other side which is
+5:45 great great thing about this tool is
+5:47 that we can draw and we're actually
+5:49 drawing on both sides of the texture
+5:53 right so if we were to go and look on
+5:55 this left side it is in fact drawing the
+5:57 pixels in here on that side so you you
+5:59 can draw on either side here and it's
+6:01 going to honor that um which is a really
+6:03 nice thing about this this makes this
+6:05 creating seamless textures way way
+6:09 easier because we can come in here and
+6:11 kind of fix some of this stuff I'm going
+6:13 to harden up my brush there it seems
+6:14 like these need to be a little bit more
+6:16 hardened
+6:20 edges so this becomes really really easy
+6:23 so hats off the Photoshop here I'm going
+6:25 to use the paint bucket tool to kind of
+6:26 paint in these invisible Pi pixels
+6:29 actually what happens here is I've got a
+6:30 layer style so I want to get rid of that
+6:32 layer style I'm going to convert this to
+6:33 a Smart object then rasterize it and now
+6:37 I should be able to paint inside of
+6:38 these pixels maybe no so the paint
+6:41 bucket tool doesn't seem to be working
+6:42 there so maybe I need to be in the
+6:45 original here here we go so now I'm in
+6:48 that original space so the paint bucket
+6:49 tool wouldn't work but the brush tool
+6:53 does maybe that'll be a future future
+6:56 fix for them who knows
+7:02 so this kind of detail work just takes
+7:04 time and this is where I really want to
+7:06 have um my pen right I'm going to turn
+7:08 my smoothing down so this draws a lot
+7:11 faster I had smoothing turned up
+7:13 sometimes that's helpful when you're
+7:14 drawing with a mouse um to help make
+7:16 those really straight
+7:19 lines now I should be able to draw
+7:21 pretty quickly and just break this up
+7:24 and then I can go back and and take a
+7:26 look and is that creating too much of a
+7:29 repeat pattern who
+7:32 knows let's paint this
+7:35 in brush it
+7:38 in get rid of all that white
+7:41 there maybe we want to expand this so
+7:45 maybe we can stamp some real large part
+7:47 of some other part of this texture and
+7:50 kind of fill this in that's that works
+7:52 pretty well right
+7:57 um that stamp tool doesn't want to cross
+7:59 the bound so really uh that only works
+8:03 for that brush tool
+8:06 unfortunately so here we go going to
+8:09 bring that across and then we can use
+8:11 that brush
+8:13 tool and to split this up and that's
+8:16 looking pretty
+8:18 good right and then you can see here
+8:21 this is mesh for the backing of that
+8:23 stone and that's going to be really
+8:25 difficult to get rid of that mesh
+8:27 through and through this whole texture
+8:30 so there's going to be a lot of manual
+8:31 work in this unfortunately unless we can
+8:34 kind of use a curves adjustment and
+8:36 really try to Target some certain
+8:39 colors and work backwards in that way
+8:42 maybe that'll help out we'll take a look
+8:45 at that in just a second so we've got
+8:47 some overlap there this is
+8:50 looking this is looking a lot better
+8:52 we're getting close right and so let's
+8:56 try to do that curves adjustment
+9:00 and so maybe we can Target this kind of
+9:02 in between
+9:05 texture it's going to be really tough
+9:08 because so much of this is is just a
+9:10 gray texture maybe we bring it really
+9:13 high up no I'm really not going to be
+9:15 able to get that that in between section
+9:18 right those grids that that
+9:23 mesh that kind of isolated it in a way
+9:28 um so you might make a duplicate and try
+9:32 to do that curves adjustment and
+9:35 isolate and then use your isolation as a
+9:39 selection so you see all that's left
+9:42 over here is those white real white
+9:44 sections so we'll do a second curves
+9:46 adjustment where we just get that white
+9:50 to show up right and so maybe we can
+9:53 with that white showing up maybe we can
+9:55 select that and fill it or something
+9:58 like that so let's try control select
+10:01 and control shift I to invert the
+10:03 selection maybe that's picking up just
+10:06 those white sections
+10:10 um so that what happens when we put just
+10:13 a solid color
+10:16 underneath to see if those selections
+10:18 shine through ah they do and they don't
+10:22 um so it's not
+10:25 perfect maybe we can make it so that
+10:28 that green just fects the white below
+10:30 and nothing else so let's get rid of
+10:32 this mask there's that green and double
+10:35 click it layer Styles underlying layer
+10:39 let's take that slider and there we go
+10:41 now that green is just filling right and
+10:45 so that Green's filling we can stamp
+10:47 this forward and use the um select color
+10:51 range and pick up just that
+10:54 green and turn that fuzziness way up so
+10:57 we get all that selection bam now we've
+11:01 selected those items we can hide the
+11:03 display of those layers get back to this
+11:06 right here and maybe just maybe we can
+11:10 do a new mask where it's a solid color
+11:14 black and now we've filled in some of
+11:17 those gaps ah didn't quite get there you
+11:19 know we tried but nice to see those
+11:22 methods right nice to see you know just
+11:25 thinking outside of the box with the
+11:26 tools that we have to kind of infill
+11:28 these white sections and so one more
+11:32 thought is maybe we'll just do um an
+11:36 adjustment replace color and we pick up
+11:38 that white set the fuzziness really low
+11:41 and set our
+11:43 lightness real high and so I need to
+11:46 select that just blank there we
+11:49 go kick the fuzziness
+11:52 down maybe we can add to that
+11:56 selection yeah pretty tough to isolate
+11:59 just those grid areas right um last
+12:03 thought would be dup this forward again
+12:05 filter other and sometimes you can get
+12:09 away with a high pass and depending on
+12:12 your settings on this High Pass maybe
+12:14 again we can isolate just those white
+12:16 sections
+12:17 but still pretty challenging to just get
+12:20 those white
+12:22 sections adjustment replace
+12:25 color get that real light section turn
+12:28 fuzziness way down turn
+12:30 lightness and just crank fuzziness until
+12:34 maybe you get in here just in this
+12:37 selection yeah we got a little bit
+12:43 close pretty tough so I might have to go
+12:46 through and hand draw a lot of this
+12:48 stuff you know that might just be what
+12:50 ends up happening with this particular
+12:52 one so um we can try infill with the not
+12:56 affecting the underlying layer
+13:02 so doing the in there we go invert that
+13:05 yeah still not quite there I really
+13:08 think I'm just going to have to draw
+13:09 this in too bad sometimes you win
+13:11 sometimes you lose so this is really
+13:15 really where I want to have my brush
+13:16 tool that's just the the fact of the
+13:18 matter for me here is excuse me a stylus
+13:22 Stylus is just going to be so much
+13:24 faster to to whip this out real quick
+13:26 with a kind of a graphical touchcreen
+13:28 because
+13:29 um this is just
+13:31 slow sometimes you can find the same
+13:34 Rock and in a color so then we're
+13:36 isolating the color from from these
+13:39 sections that have the that mesh
+13:41 backdrop of the tile itself so go back
+13:44 to the to the line that you um you got
+13:47 the source image from so here's my
+13:49 source image gray
+13:52 sliced and if you're lucky they might
+13:54 have another finish option right other
+13:57 colors but you can see here other colors
+14:00 has a different pattern on it so that's
+14:02 not very
+14:03 helpful but there's an idea as
+14:07 well so I'm going to pause finish
+14:09 painting this out and I'll be right back
+14:12 okay so I finished painting that out and
+14:14 something you're going to notice is that
+14:16 this really does repeat but that's
+14:18 actually true for this tile is that yeah
+14:21 it has this little overlap thing and
+14:23 hopefully that kind of gets hidden when
+14:25 you apply grout Etc so even though this
+14:28 is doesn't make for a great seamless
+14:30 texture it is true to the tile itself so
+14:34 you kind of got to leave it right and
+14:36 then the last kind of thing I want to
+14:39 take a look at is just zoom real far out
+14:41 and see if there's any really strong
+14:42 repeating elements and there is and it's
+14:45 and it's pretty obvious that it's right
+14:47 here it's on this particular tile so I
+14:50 want to add in an exposure adjustment
+14:54 okay and then I want to pump up that or
+14:57 pump down that exposure in this case so
+14:59 I can really see it okay and then I want
+15:03 to invert my mask control I inverts The
+15:06 Mask now I come in here with a brush
+15:09 tool and making sure foreground
+15:12 background is correct there we go that's
+15:14 kind of that line that I want to get rid
+15:16 of is that this is just a little bit too
+15:20 light right and so now I can come back
+15:23 in here with my exposure adjustment and
+15:25 dial this back just so that it starts to
+15:28 disappear appear and just zoom out
+15:31 really far and just get it right to the
+15:33 point where it starts to
+15:35 disappear and there we go I mean that's
+15:38 pretty much it we've got a good tile
+15:40 let's go look at our view we can undo
+15:43 pattern preview and there we
+15:47 are got a few things to fix in here the
+15:51 next part is understanding from the
+15:52 client side what's the color of the
+15:55 grout here I actually don't want this to
+15:57 be pitch black unless we're really
+15:59 trying to sell the look of something
+16:02 that's got some depth and so maybe we do
+16:05 in fact do some kind of final curves
+16:07 adjustment so I'm going to stamp this
+16:09 forward control shift alt e and that
+16:12 made a copy and then we can do our just
+16:17 little finite edit and so I just want a
+16:20 little bit more texture in here and even
+16:23 though it might not be true to the
+16:25 original picture this is helping kind of
+16:28 sell that that depth if you will and
+16:32 just for Giggles why not let's come in
+16:35 with a high pass let's do a a duplicate
+16:37 contrl J and then filter high pass and I
+16:40 want to see if the high pass can give me
+16:43 um another little bit of sense of depth
+16:47 right I'm going to kick this kind of way
+16:48 up and I'm looking at this I don't think
+16:51 that's doing what I wanted it to do let
+16:53 me try some of our filters so I'm going
+16:55 to get into the filter Gallery I want to
+16:57 look at a few things here and what I'm
+16:59 trying to do is see if one of these
+17:01 filters provides a little bit of
+17:04 roundness to or Texture to this Fresco
+17:07 kind of does that in this case and I
+17:10 don't use this application to its full
+17:13 extent so much so to the point where I
+17:15 would know exactly where to go in these
+17:17 filters so I really do just click
+17:19 through them I like doing this because
+17:21 it also just gives me ideas over time
+17:24 right it it kind of Sparks a memory that
+17:27 hey there might be something interesting
+17:29 here so I'm going to go to this Fresco
+17:31 I'll change the brush size a few
+17:34 times take a look at what it
+17:37 does brush detail may want to pump that
+17:40 up brush texture may want to pump this
+17:42 up or down up let's see so that was one
+17:47 that was
+17:48 interesting kind of the other one that I
+17:50 saw I think was interesting was this ink
+17:55 outlines and the ink outlines take the
+17:58 stroke length way down Darkness
+18:01 intensity now we're getting some
+18:04 more kind of variation in this tile and
+18:08 what I'm going to do I'm going to press
+18:09 okay this is not going to be my final
+18:12 texture I'm going to change the blend
+18:13 mode and I'm going to kind of cycle
+18:15 through these to see if any of these
+18:17 brings out a little bit of depth in this
+18:20 texture right cycle through them this
+18:23 kind of does so if we turn this layer
+18:25 off on off on yeah there's a little bit
+18:28 of Dynamics there and you can mess
+18:30 around with the opacity or the fill to
+18:33 kind of strike a
+18:34 balance and so I don't know I like this
+18:37 right here let's go ahead and Export
+18:39 this real quick and take a look now it
+18:41 just so happens to be that this texture
+18:43 map could also maybe be used for a
+18:45 roughness map so let's export this I
+18:48 want to limit the texture resolution
+18:49 typically but this one is for a client
+18:52 so in this case I'm just going to tell
+18:53 them hey I kept this a higher texture
+18:56 resolution I could limit this down I
+18:58 might even export two copies of this and
+19:00 then just make sure you're organized
+19:02 with your exports so in this case this
+19:04 is going to go into my stone I should
+19:06 have a folder that's called stacked
+19:08 stone I don't so let's make one control
+19:11 shift n if you're on a PC for a new
+19:14 folder and then stacked stone I like to
+19:16 make generalized categories where I can
+19:19 put multiple different textures in here
+19:21 and we're going to call this stack stone
+19:25 one right now that's stack stone one and
+19:27 then we'll also export this at a 1024
+19:30 resolution make sure transparency is
+19:33 unchecked I think I didn't do that and
+19:34 let's go stackstone one and we're going
+19:37 to actually say that this is Dash low
+19:40 res or maybe we'll just throw 1024 in
+19:45 there and then one more time just make
+19:48 sure transparency was unchecked and set
+19:51 this back up to 100 and I want to
+19:53 replace that first one I did just to
+19:55 make
+19:56 sure now let's bring this over to Chief
+19:59 and let's do a little test on this guy
+20:00 we're going to pull a rendering
+20:03 view it's always helpful to have a test
+20:07 scene if you don't have a test scene um
+20:10 it's always a helpful thing to do I like
+20:11 to throw in a backsplash in
+20:14 here I don't know what's going on but I
+20:17 get a lot of slow down right now I might
+20:18 need a
+20:20 reboot let's open this
+20:23 up go find that stock Stone I've say
+20:26 this a million times in all of my videos
+20:28 say the location of where you just
+20:30 exported something to so it's much
+20:32 easier to get
+20:34 to just like this bam copy that URL in
+20:38 your clipboard so you can get to that a
+20:40 little bit quicker so here's that stock
+20:42 Stone and I'm going to actually copy
+20:45 this control all paste I'll even put
+20:48 that in the AO map in this case and
+20:51 we're going to kick off roughness and
+20:53 use some generic roughness in the slider
+20:56 let's look at the scale of this is a
+20:58 little off
+21:00 texture resolution scale let's go into
+21:03 oh I don't know probably half that
+21:06 scale and yeah that looks okay there's a
+21:09 little bit of repeat going on
+21:11 there
+21:13 um boy we might have to do a second
+21:16 video because I've getting a lot of
+21:18 slowdown from my my 3D mouse let's see
+21:21 if I can't turn that off and on again
+21:23 and get some kind of nope that's still
+21:26 doing something funny when this happen
+21:28 sometimes I got to reboot Chief who
+21:30 knows the other thing you could try to
+21:32 do by the way I'm speaking specifically
+21:35 about that kind of glitchy lag I'm
+21:37 getting from my 3D mouse navigation is
+21:39 you could stop the driver for your 3D
+21:42 xware let that take hold it takes a
+21:45 second to stop
+21:47 it you can always test that by trying to
+21:49 use your move your 3D mouse and then
+21:52 start that 3D xware
+21:57 again let that kind of fire up there we
+22:00 go and if it's still glitching you might
+22:03 just need to shut down Chief and open it
+22:05 up
+22:06 again yeah look at that that's fun to
+22:09 working all right so this stack stone
+22:11 actually want to add this to the
+22:14 library and then let me turn off Chief
+22:16 and reevo it
+22:31 see if it works this time no still
+22:33 getting a glitch I'm going to have to
+22:34 reboot my whole system what a
+22:37 pain all
+22:41 right there's that stack
+22:46 stone I have to get used to navigating
+22:48 in 3D this way not used to it at
+22:53 all so we're definitely seeing heavy
+22:56 repeat here um the really nice thing
+22:59 about this workflow is that we could
+23:00 come back to photoshop kick that
+23:02 overlapping layer on let's go look at
+23:05 that pattern preview
+23:08 again yeah there's definitely a Darkness
+23:11 there that wasn't there before let's
+23:13 come in and kick that exposure
+23:17 off I think that exposure setting was a
+23:20 little too
+23:24 strong we'll just do a little subtle
+23:26 take on that and let let's export this
+23:29 again overwrite the first come back into
+23:32 Chief and all you have to do is use your
+23:34 adjust material tool and press okay and
+23:36 that should update right and that got
+23:39 rid of a lot of that repeating pattern
+23:40 from top to bottom now we do see the
+23:43 repeating pattern from left to right but
+23:45 again I think that is actually true to
+23:47 this tile and so I am going to have to
+23:50 go tell the client about that you know
+23:52 do you want me to fix it and have it be
+23:53 a little bit unrealistic or not right so
+23:57 there we go there's our
+23:58 main tile let's kick this sun on and
+24:01 just see what's happening in the bump
+24:03 map because we might want to go use
+24:04 something like Shader map 4 which is a
+24:06 free software to do a normal map for
+24:11 this you just have to get past this
+24:13 initial license review click on open
+24:16 what do we get to do here I'm going to
+24:18 use my window key V for clipboard
+24:20 history so I could get to that stock
+24:22 Stone real quick bam bring that up and
+24:25 then let's click into that normal map
+24:27 take a look what's going on there I'm
+24:29 going to change this from a cylinder to
+24:32 a
+24:33 cube there we
+24:38 go and now I can kind of mess around
+24:41 with the
+24:42 intensity that's certainly high
+24:44 intensity maybe want low low detail on
+24:47 the high
+24:51 end there we go low detail on the middle
+24:55 end but we're getting some depth there
+24:57 that I like and so that's looking pretty
+25:04 good I mean we want to sharpen it up
+25:06 just a little bit yeah I kind of like
+25:09 this I think that looks pretty good just
+25:12 hit the save button and it's going to
+25:14 save exactly where this material is
+25:15 brought up if you set up your settings
+25:17 correctly you should have a PNG format
+25:21 right otherwise you click these left and
+25:22 right arrows to hit that PNG format it's
+25:25 saving in the same location it's going
+25:27 to automatically te Al call it
+25:28 stackstone oneor Norm all right so hit
+25:32 save come back into Chief let's try to
+25:36 maybe turn off the bump
+25:39 map we could of
+25:41 course copy this paste it into the
+25:44 normal map and then actually hit browse
+25:47 and it's going to bring us to that
+25:48 folder anyways and then there's our
+25:50 stack
+25:51 stone let's take a look at what that did
+25:54 maybe we'll kick on the sunlight
+26:03 and just see what you think now it looks
+26:05 like I've
+26:07 inverted here so I might need to get
+26:10 back into Shader map 4 and in the normal
+26:13 section here go ahead and click on
+26:15 invert click on that save again it
+26:18 should overwrite what was already there
+26:20 I believe so let's just let's give it a
+26:23 shot if we use adjust materials and just
+26:25 press okay does that flip yeah it did
+26:28 super easy super fast there we go that
+26:31 Stone's looking pretty good I'll send it
+26:33 to them see if they want to edit that
+26:35 left to right issue
+26:38 cool now let's go on to my next
+26:42 one so next one is this particularly
+26:47 challenging um we could utilize this map
+26:51 or they have a bunch of individual
+26:54 boards that you could try to piece
+26:56 together um it'd be difficult to use any
+26:59 kind of substance designer or Player
+27:01 plugin to get this to work um maybe
+27:05 we'll try with this but we can see this
+27:07 is clearly not repeating you might be
+27:09 able to do a book match to make this
+27:12 work so we could try that um and then
+27:15 even use generative fill to kind of make
+27:18 some variation so let's just copy the
+27:20 image bam control n for new leave it on
+27:23 clipboard hit create crl V to paste and
+27:27 then let's use that same action we
+27:29 created for book
+27:31 match which is going
+27:34 to create a larger canvas here I should
+27:37 be able to V key just drag this over and
+27:41 then controlt to transform hit this flip
+27:46 horizontally right and that does not
+27:48 look like any kind of flooring you'd
+27:50 want to do right so there is kind of the
+27:53 problem and so let's go back a few steps
+27:56 hit enter to commit that transform and
+27:58 then I can go undo this and so we're
+28:01 just left with kind of a copy let's get
+28:03 back into that view and pattern
+28:06 preview so here's our pattern preview
+28:09 and so obviously we need to kind of
+28:11 expand this section here from that from
+28:16 the end here we might just take that
+28:18 stamp tool and so here's what we could
+28:22 do we can sample this
+28:26 side and we want to get right in between
+28:28 a split so it's really easy to line this
+28:30 up and maybe increase the size and make
+28:35 sure that you've got no degree change in
+28:38 your clone Source all right and so you
+28:41 can see I'm picking up this Edge and I
+28:44 going to you know change the hardiness
+28:46 hardness of my brush all right so as I
+28:50 kind of line this up should just be able
+28:53 to draw in here just like that now keep
+28:56 in mind I don't want to fect the slat
+28:59 below so it might be that I need to draw
+29:01 in a ruler here right on my
+29:04 slat okay so that I'm just
+29:10 using a selection in between these slats
+29:13 so I'm going to line that up perfect
+29:16 make a little Marquee the Marquee will
+29:18 snap to those
+29:20 guidelines stamp stamp from over here
+29:24 this is just to help me line up slat to
+29:26 slat and kind of bring this
+29:30 in like so and you can see what's
+29:33 happening on the left hand side now
+29:35 something that funny that happened is
+29:37 that actually painted up on to the
+29:39 pixels on this side even though that
+29:41 Marquee should have limited that right
+29:45 so what I'm going to do here is I'm
+29:47 going to change that Marquee just a
+29:48 little bit I'm going to bring it way
+29:50 over here so that we don't have that
+29:52 issue and look it still kind of drops in
+29:55 a Marquee in this in this spot right
+29:58 here that's interesting so I'm learning
+30:00 this tool this is new so I just alt D
+30:03 selected but it seems to me that that
+30:06 doesn't seem to
+30:08 matter so maybe draw one more guideline
+30:12 have it snap to the edge here and let's
+30:14 see if I
+30:15 can't does that help yeah that seem to
+30:18 work there seem to be a glitch there who
+30:24 knows all right so we're going to try
+30:26 this one more time so what we're doing
+30:29 here is just repeating that
+30:32 length right and it might be that we
+30:35 need to draw in some
+30:37 sections because this length is already
+30:41 correct so let's use Marquee to kind of
+30:43 deselect some things so I want to not
+30:47 paint out this slot at all that is an
+30:52 appropriate length I think and then I
+30:55 want to not paint out
+31:00 maybe just part of this next
+31:07 slot and let's see how this works out as
+31:10 I get into this and then let's just go
+31:12 ahead and make a hard line maybe right
+31:15 about here where we're not painting out
+31:18 any of that as well so one more time
+31:21 here stamp get this lined
+31:25 up just get to paint in Freely
+31:28 there and what does this end up looking
+31:30 like when we
+31:32 deselect there we go that worked a
+31:35 little
+31:37 bit this particular texture is going to
+31:39 be really challenging I know it
+31:42 is let's get rid of those guides view
+31:46 guides clear guides okay here's our main
+31:50 preview here really hard to see actually
+31:53 and so this is going to take some
+31:54 working to kind of get this stuff in
+31:56 here right um it's challenging this is a
+32:00 challenging
+32:01 texture boy we we picked the wrong ones
+32:03 to do a a tutorial on that's for
+32:07 sure so I think it's just going to be
+32:09 more of that Marquee selection and kind
+32:11 of working through this and it really
+32:14 does help with the guides because it
+32:15 helps you kind of pinpoint the exact
+32:17 pixels you need to be working with so
+32:19 you're just clicking on the ruler
+32:21 dragging down a guide right onto the
+32:23 slot you need and so I need this texture
+32:25 on the left to repeat to the right
+32:28 right here right so I'm going to make a
+32:31 really tight
+32:34 selection something like that and then
+32:38 again kind of stamp this over I could
+32:40 stamp in the middle for this one that'd
+32:42 be
+32:44 fine there we
+32:48 go uh let's
+32:50 see yeah I think that blends a little
+32:52 bit better deselect bam there we go
+32:56 that's now tiling
+33:00 guides you use something often enough
+33:03 remember you can come into our edit
+33:06 preferences or actually keyboard
+33:08 shortcuts is right here and the shortcut
+33:10 menu for this is really robust and
+33:12 pretty cool so there's our shortcut
+33:17 menus you can add or delete
+33:20 shortcuts um you can search out things
+33:23 here search in application
+33:26 menu I'm not sure if you can search
+33:30 shortcuts doesn't look like you can but
+33:33 you can of course search all the tools
+33:35 and add some shortcuts for like that
+33:38 clear clear
+33:40 guidelines I think this one just wants
+33:42 to wrap maybe I also think that the
+33:45 sample of this is just too small that's
+33:47 a big problem here um so you're going to
+33:51 get some funny like kind of repeating
+33:53 things going on but let me go ahead and
+33:55 work through this I'm going to do exact
+33:58 what I just showed you it's just going
+33:59 to be a little bit tedious and there you
+34:04 go okay went through I did all that
+34:08 let's take a look at the pattern
+34:16 preview what do we have here we have
+34:20 something that didn't commit my
+34:23 changes dang it there it is there's my
+34:26 changes
+34:28 so that's before and this is
+34:31 after and we take a look out yeah that
+34:35 works now it's a pretty strong check
+34:39 pattern going on with where the dark is
+34:42 located right so maybe that's not a good
+34:45 thing maybe we need to break up one of
+34:46 these maybe we need to flip one of these
+34:49 so what can we do there um let's turn
+34:52 off pattern previews so that we're
+34:55 not um crossing the bounds of or there's
+34:59 probably a setting to not do that let's
+35:01 do that let's just Che take a look is
+35:03 there a setting I'm not sure so I'm
+35:06 going to turn off pattern preview I'm
+35:09 going to use the stamp tool I want to
+35:11 flip this section actually we don't need
+35:14 to use the stamp tool we'll just use a
+35:15 marquee Marquee this selection right
+35:18 here I'm just going to contrl J this
+35:21 control T flip
+35:23 horizontal should be as easy as that
+35:27 that should be really simple
+35:29 process all I did was just flip this
+35:31 section um except for that we're still
+35:34 looking
+35:36 at we're looking at something that was
+35:40 made to be
+35:42 seamless yeah I think so so let's take
+35:44 this
+35:45 forward actually don't want to flip that
+35:47 section I want to flip the next one
+35:48 let's flip this next
+35:50 one I thought that I had grabbed this
+36:01 and throwing it over here I think that's
+36:04 what I wanted there and
+36:07 then let's just stamp this all
+36:10 forward Marque it's a very destructive
+36:14 workflow but I'm not too worried about
+36:16 it contrl t flip it
+36:21 horizontally yeah and maybe we want to
+36:23 mess around with this just a little bit
+36:26 um just because this this is such a
+36:28 harsh check maybe not yeah no I would
+36:31 rather be on thirds or something like
+36:33 that so we might want to do something
+36:35 about this maybe we'll just stamp and
+36:38 bring this section forward just a little
+36:40 bit right and do a real hard
+36:45 line
+36:47 shift hold your shift draw up and down
+36:50 to get a real hard line in there there
+36:52 we go now let's go take a look at this
+36:54 texture and see what happens when we
+36:56 throw it into chief just as it is and I
+37:00 want to make sure that I've got the name
+37:01 correctly this
+37:04 is PA America product warm 85 let's hit
+37:08 the X here worm 8547 all right sure kind
+37:12 of a funny name let's get
+37:15 materials this is going to go in my
+37:17 flooring wood okay this is a plank
+37:21 material paste that warm 8417 let's copy
+37:26 the file pth pathing that's okay let's
+37:29 get back into Chief let try to get into
+37:32 the indoors
+37:38 here maybe we'll throw just a grid of
+37:41 Lights in here so we can
+37:51 see let's throw in a multiple copy
+37:54 interval let's just say two and two one
+37:57 our two and three is fine rightclick
+38:00 draw out span this out now we've got
+38:02 lights we could of course just select
+38:06 those lights Center them up if you
+38:11 want uh
+38:13 oops I do wrong let's try that
+38:18 again all
+38:23 right and I'm going to clear out normal
+38:26 map AO map get into this roughness map
+38:28 Etc we just want to start with that base
+38:31 color let's paste that
+38:33 location here's Plank and we get down
+38:37 into that
+38:38 warm here it is warm 8X 47 let's see
+38:42 what this is so let's assume this is a
+38:45 well it's an eight 8 inch plank so 1 2 3
+38:48 4 5 6 7 8 9 10 so in our y scale we need
+38:54 10 by 8 that should be the appropriate
+38:57 scale for for
+38:58 this oh except for that
+39:00 it's it's
+39:04 turned and actually this should been 80
+39:07 by
+39:11 80 there we
+39:13 go and how does that
+39:21 look that seems to be seamless but we
+39:23 got this heavy checkered pattern that we
+39:25 don't like so I want come in here and
+39:28 maybe just maybe we'll we'll just
+39:31 Marquee
+39:33 this going to Marquee in this board
+39:36 right here and I'm going to replace this
+39:39 with this up here like that would be but
+39:43 so want to get right next to that corner
+39:45 so it's easy to line that up there we go
+39:48 there's that corner bam and just paint
+39:51 that in and then just to fix this little
+39:56 detail right here
+40:00 paint this section
+40:02 into shift select bam do a real soft
+40:06 feather kind of pump it up a little bit
+40:08 that'll help blend this
+40:10 area same
+40:12 thing hard feather line here real small
+40:15 brush paint this in shift down oops oh
+40:19 we have a looks like it's a flipped
+40:22 stamp
+40:30 there we go hard line there that's
+40:33 looking a lot better export it overwrite
+40:36 your last
+40:43 one see if we got rid of that kind of
+40:46 checkered pattern
+40:47 here that's okay there we go that's
+40:51 looking a lot better this is looking a
+40:52 lot more random now the tough part we
+40:56 have to make a bump M for this and
+40:59 that's going to be challenging for this
+41:00 one so let's get back into Photoshop I
+41:02 think probably the easiest thing to do
+41:07 is I think we could just paint in some
+41:10 gutters here
+41:13 um to get our side by side lines or you
+41:16 could just come in with a brush tool
+41:18 make a new
+41:20 layer let's just pick neon green let's
+41:23 change the diameter here of our main
+41:27 line to I don't know something like four
+41:30 or five pixels and you should be able to
+41:33 just come in here and hold shift and
+41:36 just draw this out and this is on its
+41:39 own layer
+41:43 right so so far the textures we've been
+41:47 doing have a lot of manual work going on
+41:54 here which people wonder why my library
+41:58 is so expensive some of my textures are
+42:00 like this where it takes 40 minutes to
+42:03 get some of these textures
+42:05 done for one texture you got to hope
+42:09 it's worth it and I don't charge enough
+42:11 for these textures and this whole pack
+42:13 was going to be about 30 bucks for three
+42:14 textures and already we killed any kind
+42:17 of profit we might have had on that
+42:21 right throw a little bit of a line here
+42:23 a little bit of a line down here at the
+42:26 bottom and then we got to do our
+42:28 verticals and so the verticals are
+42:31 little more
+42:36 challenging and we do have to kind of
+42:38 determine whether or not we want this to
+42:41 be so pronounced because right now these
+42:43 are pretty hard lines right so we might
+42:46 need to shrink these
+42:55 down holding my shift key and drawing
+42:58 holding my shift key and drawing that's
+43:00 what I'm doing
+43:05 here so much e easier to do this with a
+43:09 stylist though I'm using a
+43:18 mouse stus and touchcreen you just get
+43:21 in there and lean over your screen and
+43:23 just dot this and go
+43:35 alternative to making this in this setup
+43:37 would have been using substance designer
+43:39 with a really complicated node based
+43:42 stack and you can look up exactly what
+43:45 I'm talking about
+43:47 there that's something that um Dustin
+43:50 over at Chief Architect does for his
+43:52 textures and let me take a look at this
+43:54 did I miss anything so you got to look
+43:56 at the wrap so here's the wrap around
+43:59 there's the wrap around nope see there's
+44:01 an end right here so this needs to have
+44:03 an
+44:04 end so miss that
+44:12 right um there's a wrap wrap wrap wrap
+44:16 wrap wrap wrap and then there's an end
+44:20 at the top
+44:22 here oops
+44:30 get right on that let's
+44:32 just make it a little easier there we go
+44:36 bam and so if we alt click that layer
+44:39 it's just going to leave that green that
+44:41 green left over right and so you could
+44:45 just replace the color green or you
+44:47 could do something like this where we do
+44:49 a solid color black and we clip it to
+44:51 the layer below and then we do a solid
+44:55 color white
+44:57 and there's there's a bump map if you
+45:00 wanted to and not only that but you can
+45:02 even take your main uh texture layer
+45:06 here draw that up above that stack let's
+45:10 do something destructive we're going to
+45:11 make a copy of it
+45:13 actually we'll pull all the saturation
+45:16 out of this um we're also going to do a
+45:18 little high pass here to kind of
+45:21 normalize the texture let's kick it it
+45:23 to a higher pixels something like that
+45:26 let's get a little more dramatic with
+45:28 our curves adjustment to really make
+45:30 some of this stuff pop and then let's
+45:33 change the blend mode and now we're
+45:35 going to just add a little bit of bump
+45:37 to that layer
+45:40 below probably going to be a
+45:45 um darker color blend
+45:48 mode and then change that opacity down
+45:52 way down something like that so we just
+45:53 got a little bit of height little bit of
+45:56 grain in the surface of these planks
+45:59 let's export this make sure you're
+46:01 unchecking
+46:03 transparency and we're going to type in
+46:06 that warm 8X 47 and just
+46:11 Dash
+46:13 bump okay and it might be that this
+46:16 needs to be that roughness map as well
+46:19 um I think not I think we'll just do
+46:21 another little edit for the roughness
+46:23 map where
+46:27 I'm going to change just the opacity
+46:29 here and bring that back
+46:31 out and then so this could be that could
+46:34 be the roughness
+46:35 map I think so why not let's do it let's
+46:39 throw that out
+46:46 there roughness PNG bam and then the
+46:50 last thing I want to do here is I'm
+46:52 going to export this as an AO map
+46:56 now I typically would limit the
+46:59 resolution of all these secondary
+47:03 Maps so I might do that off
+47:08 camera so here's the magic right we get
+47:11 to bring in that new roughness map
+47:16 warm excuse me bump
+47:22 map bring in that AO
+47:29 and
+47:36 this what do we get we get a little bit
+47:39 of depth here let's just take a browse
+47:42 around take a look at
+47:44 this change a few lighting conditions
+47:47 let's change that light set um so we're
+47:50 going to turn off that light set so
+47:52 let's just do a new light set all off
+47:58 there we go let's try that
+48:01 sunlight peing in through here there we
+48:05 go we can really see those slots coming
+48:08 out let just change our rendering view
+48:10 here turn off performance get it to
+48:13 Native resolution and maybe we'll even
+48:15 kick up our sample right but I don't
+48:17 know that looks pretty
+48:20 good let's try with just the backdrop
+48:31 yeah I'm liking that floor that looks
+48:33 pretty good we can maybe get rid of um
+48:36 the AO map or another thing we could do
+48:39 is just lighten
+48:41 this scale of the bump map down a little
+48:44 bit so that's going to even this out a
+48:46 little bit more let's kick that sun back
+48:49 on why not
+48:59 yeah I think that's a pretty good
+49:00 texture on to the next
+49:03 one what do we got
+49:09 left here's our last one oh man it's
+49:11 another tough one this is a tough one I
+49:14 think I'm going to skip this because
+49:15 this is almost identical in terms
+49:18 of what we did for this it's almost the
+49:22 same exact
+49:24 situation this time around I'm might
+49:27 really pump up the saturation so let me
+49:30 okay let's just see if this works new
+49:33 image clipboard paste it and then I'm
+49:36 going to add a hue saturation adjustment
+49:38 layer and I'm going to pump the
+49:40 saturation up and the reason I'm doing
+49:43 that
+49:45 is now I can stamp this
+49:48 forward and try to isolate that that
+49:52 grout texture right so that I'm
+49:56 replacing this color fuzziness
+50:00 Etc with something
+50:03 that's super light let's just add to the
+50:07 selection there we go and now am I
+50:09 isolating that grout in a way that makes
+50:11 sense
+50:13 maybe I'm adding to my selection here
+50:17 let's change the fuzziness down hope
+50:20 that last add to to selection didn't
+50:22 quite work out for me something right in
+50:25 the middle here bam bam like
+50:29 that
+50:35 no that's pretty
+50:38 good and then could we do a layer style
+50:42 and here's what I'm going to do I'm
+50:43 going to put a solid color underneath it
+50:45 something that's really easy to see neon
+50:47 green sure drag it underneath double
+50:51 click your layer for layer style
+50:52 underlying layer drop that white slider
+50:55 until we see that green pop
+50:59 through excuse me drop our current layer
+51:03 slider until we see that green drop
+51:05 through there we go and maybe that helps
+51:08 us isolate our selection of grout
+51:13 right how does that help what I don't
+51:15 know actually I can't think of right
+51:18 now with this as my um selection now if
+51:22 we go into channels
+51:24 RGB and we turn off
+51:27 everything but the
+51:29 green what does that get
+51:35 us does any of this help us really
+51:38 isolate
+51:42 selections yeah probably just come into
+51:44 layers in this one and select a color
+51:47 range so select color range pick up that
+51:54 green bam right right come back to our
+51:57 original
+51:59 texture and maybe we control J It
+52:01 Forward alt click it what do we get oh I
+52:05 need to invert my selection let's go
+52:10 back select this control shift I to
+52:14 invert selection control J forward there
+52:17 we are that did a pretty good job of
+52:20 eliminating all that in between stuff
+52:22 and you'll see that because we dropped
+52:23 that green below this again
+52:27 and yeah almost that almost worked out I
+52:31 don't know a couple tips and tricks
+52:35 there but I'm going to go ahead and do
+52:36 that same work I did on that first
+52:39 texture
+52:40 um feel like this was a fastpaced kind
+52:44 of tutorial um let me know if you've got
+52:47 questions really curious to see what you
+52:49 think about this kind of stuff does this
+52:51 help does this help you at all do you
+52:53 like these kind of videos let me know if
+52:55 you're delving into Photoshop um yeah
+52:58 I'm really curious what questions you
+53:00 run into for this cool
+53:04 [Music]

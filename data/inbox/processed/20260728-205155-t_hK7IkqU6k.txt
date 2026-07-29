@@ -1,0 +1,160 @@
+Title: Price Cabinets instantly in Chief Architect X15
+URL: https://www.youtube.com/watch?v=t_hK7IkqU6k
+Visibility: public
+
+0:04 it's Renee rabbit of rabbit design and
+0:05 what happens when you want to price
+0:07 something in Chief Architect
+0:07 particularly those people that are using
+0:12 Chief Architect that are cabinet vendors
+0:16 or interior designers that have um some
+0:16 kind of affiliation with a cabinet maybe
+0:21 you're a cabinet reseller um how do we
+0:23 price things and can we use chief for
+0:24 that or do we have to move to another
+0:27 software like 2020 um in fact you can
+0:30 price things and um I could show show
+0:30 you how to do it yourself or you could
+0:32 certainly hire me to do it for you and I
+0:37 wouldn't be mad at that I enjoy this
+0:38 process actually um it's it's a nice
+0:40 little fun challenge to do because
+0:40 people price things differently and so
+0:45 I've been commissioned to set up a
+0:45 system for a cabinet vendor that is
+0:47 pricing in a very specific way and it's
+0:53 not um it's a pretty complex system but
+0:53 we're capable of doing complex things in
+0:58 terms of pricing when it comes to Chief
+1:00 Architect because cabinets are
+1:00 Publishers within this software and they
+1:04 publish a lot of data and we can take
+1:04 that data to set up parameters and then
+1:07 take variables such as pricing variables
+1:11 or a pricing system and apply it to
+1:13 those you know utilizing those
+1:13 parameters setting up a system based on
+1:18 your variable pricing so um let's do a
+1:19 quick run through of what we're even
+1:19 looking at here and before I even start
+1:24 I'll show you this is the overall
+1:24 material list of all cabinets because
+1:26 this is a cabinet vendor specifically so
+1:31 this gives them a total cost at the end
+1:34 and it also tells them exactly how we
+1:36 derived that cost so that they have a
+1:38 little bit of a guess and check there
+1:40 this can also produce a log that is
+1:40 telling you if there are errors in its
+1:45 calculations or omissions so I can do
+1:47 all of those things within Chief
+1:47 Architect so if you thought the Chief
+1:51 Architect can't do pricing well guess
+1:51 what you can you can do some re really
+1:53 robust systems this way so um here we go
+2:00 this particular um setup came out to
+2:00 19,000 and then the cabinet vendor puts
+2:02 a mark up on this and this was within 1%
+2:07 of the pricing of this actual job we
+2:10 took a job and I blindly went in
+2:10 established a system and then put it
+2:12 against the numbers and then looked at
+2:14 the numbers and it turns out it's right
+2:17 on the money so we know that it's
+2:18 working and let's just take a look at
+2:20 what exactly it's doing this system is
+2:23 taking in account how we're even cutting
+2:30 the plywood for this cabinet okay which
+2:31 means that it's taking into account
+2:31 Remnant pieces it's seeing if we can use
+2:37 Remnant pieces for cuts um it is on a
+2:37 per box basis but that's how the cabinet
+2:44 vendor wanted it anyways so um it's it's
+2:46 figuring out how it's going to cut the
+2:46 plywood in order to you know price that
+2:49 out accordingly and then it's looking at
+2:53 conditions where maybe the box size or
+2:55 something's reporting in a way that it
+2:56 doesn't actually seem like there's any
+2:58 plywood involved and we're going to
+2:58 bypass that step the next thing it's
+3:00 going to look at is the type of doors
+3:02 and drawers are they small drawers are
+3:05 they large drawers and then we're going
+3:08 to price by the drawer box and then
+3:08 we're also going to price by the panel
+3:12 itself is this a panel is it a five
+3:12 panel um door is it a slab door we're
+3:16 going to price by that and then we're
+3:16 going to price by what the Finish is is
+3:22 this a wood grade uh finish is a paint
+3:22 grade finish Etc and I'll just give you
+3:24 an example let's kind of zoom in on this
+3:29 right here and and I believe right now
+3:29 this is a paint grade finish Island and
+3:35 so I give you a set of tools on top of
+3:37 establishing the system and the set of
+3:38 tools are very similar to my kitchen
+3:38 tools but they're more specific to your
+3:44 pricing model so we'll give a a typical
+3:46 four-d drawer painter base three drawer
+3:48 painter base garbage pull out and it
+3:48 will price accordingly also I give you a
+3:54 a wood finish um versus a paint grade
+3:56 finish so if we use this Marquee tool
+3:56 here and we draw Marquee over this whole
+4:01 island setup it's going to change this
+4:03 to Wood grade finish and you saw the
+4:03 pricing change right uh versus like a
+4:08 typical four-d dra base Panner we see
+4:08 that this is just a base 24 cabinet well
+4:13 if we spray this and now it's a four-d
+4:13 drawer base 24 saw the pricing change so
+4:17 this is a pretty robust system and then
+4:19 on top of that I can build you a
+4:19 schedule that's reporting anything that
+4:23 you like and in this case this was a
+4:23 guess and check it's telling us exactly
+4:28 why we added pricing what per square
+4:28 foot cost and then I give you a way to
+4:34 change your variable pricing meaning
+4:34 that you set your per unit pricing so
+4:37 this per unit pricing is for this case
+4:39 is we've got a five panel and that five
+4:42 panel should be a per unit price of 34 I
+4:47 give you the ability to change that down
+4:50 the line to account for inflation Etc
+4:50 and you don't need to learn coding for
+4:52 that you simply replace some text which
+4:55 makes it very simple for you to maintain
+4:59 the system without too much modification
+5:02 from my end we build it once and it
+5:02 should be very minimal on my end to kind
+5:07 of do some updates so and that keeps
+5:07 cost low on both sides it keeps timelin
+5:13 real tight feel like this is a pretty
+5:13 cool system for those people that need
+5:16 it if you're a cabinet vendor or you
+5:16 know you're a reseller this is something
+5:20 you should absolutely be taking
+5:20 advantage of and if you just want to
+5:21 know how to build this system yourself I
+5:26 do training for that I could absolutely
+5:28 train you on how this system was built
+5:30 it's a complex business code but I got
+5:30 there in a very iterative and simple way
+5:35 so could train you on that if you're
+5:35 interested in that and then those people
+5:40 that don't think you can price this is
+5:42 absolutely proof we can price and in
+5:45 fact I can even take this um pricing
+5:47 model and I can have it be produced
+5:47 within the cabinet schedule itself aside
+5:51 from the material list and then you just
+5:53 simply take a schedule and you can
+5:53 export that schedule as a CSV we can
+5:56 pull this up in Excel and add a bunch of
+6:01 of other modifiers that you might need
+6:01 to do internally so um some pretty cool
+6:06 stuff anyways thought I'd share this I
+6:06 know a lot of people have been wondering

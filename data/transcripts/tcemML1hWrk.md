@@ -1,0 +1,111 @@
+---
+videoId: tcemML1hWrk
+title: Roof Shorts - A Roof Intersection Trick For Chief Architect
+url: "https://www.youtube.com/watch?v=tcemML1hWrk"
+status: imported
+---
+
+# Transcript
+
+0:00 This video is just one video in a
+0:02 playlist of super fast short
+0:05 quick roof tips. Go check out the
+0:07 playlist.
+0:08 Top of the screen.
+0:12 Let's say we've got a round room, all
+0:15 right? So, I'm just going to
+0:16 made a quick round room. This is going
+0:18 to get automatic roofs built. I'm going
+0:20 to switch to my roof plan here.
+0:23 See it?
+0:25 And then, let's also say that I have a
+0:28 roof that kind of
+0:30 intersects here, okay?
+0:33 So, what do I need to do? I need this
+0:35 roof to kind of butt against all these
+0:38 roof planes. And this roof's going to be
+0:40 higher than those roof planes. Isn't
+0:42 that funny?
+0:44 Right? So, let's just say for argument's
+0:46 sake that
+0:48 our baseline is actually a lot higher.
+0:51 Say it's uh up 48 in.
+0:53 So, how do we get it so that this roof
+0:55 intersects and interacts with this roof?
+0:58 Well, we're going to need a bunch of
+1:00 break points here. So, I'm going to take
+1:02 this roof plane. I'm going to use the
+1:03 break tool. I'm going to sticky mode it.
+1:06 I'm going to create a bunch of breaks.
+1:09 Something like this.
+1:12 Okay?
+1:13 Now, I can unsticky.
+1:15 First thing I want to do is I want to
+1:17 just grab this first segment. I know
+1:19 that this roof intersects with this
+1:22 little sliver right here. So, I need to
+1:24 use this tool, place roof intersection
+1:26 point. As I hover over,
+1:29 we're going to see Well, there's no
+1:30 intersection points. So, I don't have
+1:32 this set up very well in the first
+1:34 place.
+1:35 See what's actually going on.
+1:37 Just so happens to be that this roof is
+1:39 way taller than the other roof. Let's
+1:40 fix this real quick.
+1:42 Let's just get in the
+1:44 Actually, let's get the roof tool. Let's
+1:46 grab this. We're going to lock all those
+1:48 baselines and we're going to make this
+1:52 roof.
+1:53 Now, when I take this little segment
+1:55 here,
+1:57 there, that's a little edge.
+1:59 Place that intersection point. Look what
+2:01 happens.
+2:02 And so I can keep using this tool.
+2:05 Okay? And it doesn't necessarily mean
+2:08 that I needed to break that because look
+2:10 what's happening.
+2:11 I get to just keep using this tool over
+2:14 and over and over again.
+2:16 What is this doing? This is giving me
+2:18 intersection points.
+2:20 Okay? How does that work? Well, check
+2:22 this out. I get to then kind of just
+2:25 grab this. We're going to grab this
+2:27 section right here.
+2:28 Drag this out. We're going to snap this
+2:30 piece right here. We're going to do the
+2:31 same thing here.
+2:34 One by one.
+2:36 I'm going to line this up.
+2:43 Till the point.
+2:46 We're going to do this. Now, you know,
+2:48 this roof is actually going to extend
+2:50 out over here. It's let's just call it
+2:52 the say that it was like a 45 or
+2:54 something like that, but
+2:55 take a look at this.
+2:58 Look how that cleanly lines up and
+3:01 intersects with our roof. Isn't that
+3:03 cool?
+3:05 Super easy, super fast. Hey, let's just
+3:07 take this last segment here and we'll do
+3:10 the same thing.
+3:12 Right? So, all we're doing here is we
+3:14 could just take a reference point. We
+3:16 can just grab a line, drop between these
+3:18 two points, grab this. You can see that
+3:21 that's one point. Where's another point?
+3:23 We'll make one real quick.
+3:25 This is just snap this in place and I
+3:27 can drag this over, snap that to that
+3:30 one.
+3:32 See that this all tightens up just like
+3:34 that.
+3:36 Super fast, super easy. That's how we
+3:38 can get this intersection to work. Hope
+3:40 that helped you out.
+3:58 >> Mhm.

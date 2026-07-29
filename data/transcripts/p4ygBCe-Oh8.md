@@ -1,0 +1,180 @@
+---
+videoId: p4ygBCe-Oh8
+title: Apple Mac M2 and M3 Raytracing Tips For Speed in Chief Architect Premiere X16  Raytracing
+url: "https://www.youtube.com/watch?v=p4ygBCe-Oh8"
+status: imported
+---
+
+# Transcript
+
+0:03 hey Mac users I got some really cool
+0:03 tricks for you I'm going to help you set
+0:08 up so that you can see a ray trce
+0:08 preview pretty quickly even on your old
+0:14 M2 Chip I know I'm sorry I got to call
+0:14 it old although that Hardware just isn't
+0:20 as powerful as the equivalent Hardware
+0:20 in PCS so you're getting about you know
+0:24 12th or 130th of the performance of some
+0:29 of the top tier cars in PCS but guess
+0:29 what we can still utilize the technology
+0:34 to get some previews while you're
+0:34 designing live so that you can get an
+0:37 idea of the lighting quality of your
+0:37 scene and maybe that helps you design a
+0:42 little bit better I personally love
+0:42 designing in a ray Trace view because it
+0:47 helps me just see the materiality the
+0:47 way that the lighting bounces around the
+0:52 room it really does improve my designs
+0:53 overall if I'm working in a ray Trace
+0:56 view so let's set up your Mac so that
+0:56 it's utilizing some of these techniques
+1:00 okay so first thing I want you to do is
+1:03 I want you to create a tiled window
+1:03 system the way rate tracing works is it
+1:07 actually matters what the resolution of
+1:10 your monitor is because the more pixels
+1:14 we have actually that's the
+1:14 more performance degrading things that
+1:17 we have to sample out for okay so um it
+1:21 adds a lot of calculations so the higher
+1:26 the pixel density the greater the
+1:26 calculations okay the other part about
+1:28 this is the higher the samp sample rate
+1:32 the greater calculations before we get
+1:34 to a denoised view and on a Mac that's
+1:36 going to be really really slow but we
+1:36 can still set this up so that it works
+1:38 very very well okay so go ahead and tile
+1:44 your views I want you to do a standard
+1:46 rendering technique as a full camera
+1:46 that you're going to be designing in and
+1:51 then a plan view window and then tile
+1:51 below that a ray Trace camera okay once
+1:56 you have that set up let's get into the
+2:00 ray Trace settings so I want to click
+2:02 this as my active camera this little
+2:04 rate Trace camera down here right so
+2:06 that's now my active window and I'm
+2:06 going to get into rendering technique
+2:11 options now you can doubleclick your
+2:11 rendering icon and that will get you to
+2:13 technique options as well and here we go
+2:17 we've got my rendering technique options
+2:20 for the physically based rate Trace view
+2:22 now make sure use rate tracing is
+2:25 selected and opaque bounces and
+2:25 transmissive specular bounces actually
+2:30 don't matter in this view what we're
+2:30 going to do instead is check approximate
+2:35 additional bounces and this basically
+2:35 sends this back to the rate Trace engine
+2:40 technique that was in X15 do keep in
+2:40 mind that over time they may actually
+2:46 take away this check box and move
+2:46 towards just rate tracing only where we
+2:51 don't have this option so in Li of this
+2:51 option you would set your opaque bounces
+2:55 to one and one because that's really
+2:59 going to lower the overall um
+2:59 performance needs from your system okay
+3:02 the next thing I want to do is I want to
+3:05 set this sample rate to something really
+3:08 really low keep in mind in general this
+3:08 is going to make for somewhat of a muddy
+3:13 looking View and at times you're going
+3:15 to have issues with the automatic
+3:15 exposure setting which is why the next
+3:20 thing I say is go ahead and uncheck
+3:20 automatic exposure because automatic
+3:23 exposure is similar to metering in that
+3:28 we're taking the frame of the camera
+3:28 it's actually not calculating anything
+3:33 else this is its um this is its own
+3:33 Shader that's built onto the graphics
+3:35 card okay and so what it's doing is it's
+3:39 just taking the frame of where the
+3:39 camera is fixed and qualifying you know
+3:43 all the light sources based on the pixel
+3:48 that we're sampling and then adjusting
+3:50 all the pixels according to how much
+3:53 light is in the scene and and back
+3:53 scaling from there it's kind of hard to
+3:57 explain without me having written
+3:57 anything for the software I'm only
+3:59 specul in from the knowledge that I've
+4:01 picked up from talking to the developers
+4:06 Etc so thanks again for talking to me
+4:09 Ryan over here at Chief Summit 2020
+4:09 Excuse Me Chief's training event 2024 in
+4:14 Idaho so I've got this set to manual
+4:14 exposure you're going to want to adjust
+4:16 this and you're going to see as I adjust
+4:18 this you're going to see this in the
+4:20 right hand window okay so this is
+4:22 adjusting on the Fly get this to
+4:22 something that seems to be like that
+4:24 median ground and then again we've got
+4:29 our maximum sample right here your
+4:29 daytime time backdrop intensity you're
+4:32 going to have to change this depending
+4:35 on uh what backdrop that you're using
+4:37 all right and then adjust your manual
+4:39 manual exposure from there and then I
+4:39 really love to check use only backdrop
+4:41 for lighting cuz the quality that I get
+4:45 from that is really really nice this is
+4:48 only available in nx6 so let me press
+4:48 okay the next thing I want to do is edit
+4:53 the active View and that's this little
+4:53 pencil icon right here and so I'm going
+4:58 to edit the active View and in the
+4:58 camera panel down in the AMD Fidelity FX
+5:03 section we want to set our super
+5:03 resolution to Performance and maybe kick
+5:08 up sharpening it a bit and so what this
+5:11 is going to do is it's a special um
+5:12 Shader built by AMD that's added onto
+5:15 our graphics card again and it's um it's
+5:21 kind of splitting and guessing at what
+5:21 neighboring pixels are so let's just say
+5:25 that maybe it's and again this is me
+5:25 guessing at what exactly the Shader map
+5:29 does but um my best guess is is that
+5:29 it's taking something like quad pixels
+5:33 splitting it into one and then
+5:33 simulating and guessing what neighboring
+5:37 pixels are I might be wrong on that I
+5:37 love it if a developer timed in and told
+5:42 me the correct um thing that's happening
+5:45 in that Shader map so let me press okay
+5:48 now and so yes the scene is Muddy but
+5:48 guess what it is the fastest preview we
+5:54 could possibly produce for this right
+5:54 the more we limit the pixel resolution
+5:58 the faster this will be and so what
+5:58 happens we get the design in in this
+6:00 view so I could do something like copy
+6:04 paste
+6:04 some some stools here and see that
+6:07 update live in our view over here and
+6:12 then of course as I'm designing I'm
+6:12 going to be rolling around in this View
+6:16 kind of editing things on the Fly maybe
+6:16 I want these apples to be somewhere else
+6:21 maybe I want to duplicate these apples
+6:22 and place them over here and you can
+6:22 just just see that it's just updating in
+6:27 that 3D View and we can always click
+6:27 into that 3D view adjust the light sets
+6:30 the lights that we want turned on adjust
+6:34 our camera view very easily and it's
+6:36 going to pick this up as fast as
+6:36 possible on that Mac so if you really
+6:38 want to see just the lighting quality of
+6:42 your shot this is a great way of doing
+6:44 that give me some feedback on this I
+6:44 don't own a Mac so you have to try this
+6:49 on your end and let me know what you
+6:49 thought when you set this up see if it

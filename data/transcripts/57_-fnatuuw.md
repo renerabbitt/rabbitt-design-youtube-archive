@@ -1,0 +1,511 @@
+---
+videoId: 57_-fnatuuw
+title: Custom Hood Symbol In Chief Architect X15 1 of 2
+url: "https://www.youtube.com/watch?v=57_-fnatuuw"
+status: imported
+---
+
+# Transcript
+
+0:00 what's going on VIP I'm going to make a
+0:02 very custom hood into a fixture and I
+0:04 need to do it just so that I can work
+0:07 around it really without having to do a
+0:10 bunch of custom layers to make elements
+0:12 of it disappear I'd much rather just
+0:14 have one solid fixture to work around
+0:17 what I mean by that is in my plan view
+0:20 when we go look I've just got a lot of
+0:22 elements here and I'm working on a 45
+0:24 degree tilt so it just makes it really
+0:26 really difficult to work on the cabinets
+0:28 Beyond This Hood
+0:30 so let's make a fixture out of this Hood
+0:32 now I started by just doing a
+0:36 solid with a um two little solid buttons
+0:40 that are round okay and I did this in a
+0:42 wall elevation because it's much easier
+0:44 to do it in that wall elevation so
+0:46 that's this view right here and if I
+0:48 just turn off uh my colors you can see
+0:52 that's exactly what I did I drew a solid
+0:54 Drew these two little buttons and then
+0:56 added that to the library now if you add
+0:59 it to the Li as a molding then it's a
+1:02 repeatable thing right so it's going to
+1:04 add these rivets every time it repeats
+1:07 so that's something to keep in mind the
+1:10 next part of this that's kind of uh
+1:12 important is that you need to come in
+1:15 here and set some stretch planes in case
+1:17 you want to change the segment length of
+1:20 this you might need to put in some
+1:23 stretch planes so um in the case of a 3D
+1:26 molding though it's a it's a different
+1:29 Di dialog box so we've got our sizing
+1:32 panel over here 3D panel materials panel
+1:35 so the sizing panel is the top panel on
+1:37 a 3D molding so here's where we get to
+1:39 our stretch planes and where I want to
+1:41 add that stretch plane is in the width
+1:43 and I can just do one right down the
+1:45 center here that means if I change the
+1:47 overall width of this it's going to
+1:49 change it it's going to stretch the
+1:50 middle of the plate meaning that it's
+1:52 going to leave my buttons intact okay
+1:56 kind of the same thing with a height so
+1:57 overall Height's 3 in if I set something
+2:00 at 1 and2 in it's just going to stretch
+2:02 in between those two buttons perfect
+2:04 it's exactly what I want so that's the
+2:06 band that I'm going to use to wrap
+2:08 around this particular fixture and then
+2:10 the other part of this fixture that I'm
+2:12 working on is that well it's called a
+2:14 solid base underneath I want my banding
+2:17 to come across in this section I also
+2:20 want some banding done into this section
+2:23 and then inside of this I've got this
+2:26 fixture which is a big duct vent right
+2:30 now I actually want to stretch this but
+2:31 I want to leave the vent part intact we
+2:34 don't want to stretch a so we want to
+2:36 stretch on either side of the vent also
+2:38 don't want to stretch this in any way
+2:39 that messes up the fins messes up the
+2:42 controls messes up these lights right
+2:45 another thing you might consider doing
+2:47 is you might actually convert this to an
+2:49 electrical symbol where we can add
+2:51 lights to it doesn't need to be on the
+2:53 electrical layer it could be on a
+2:54 fixture layer but adding it to the
+2:57 electrical symbol class will allow us to
+2:59 add lights to it in case we want to add
+3:01 lights to this portion of this symbol so
+3:04 I'm going to open this up and set a
+3:06 couple stretch planes here as well and I
+3:07 need to kind of study this to understand
+3:09 what I'm even looking at I think I want
+3:11 to stretch if I stretch down the center
+3:14 we're going to have a large flat spot
+3:16 down the center where these grills are
+3:18 okay and I kind of like the look of the
+3:19 grills so instead I want to stretch in
+3:22 between this section right here but I
+3:25 need to do that on either side so I need
+3:27 two separate stretch planes in width
+3:29 okay so I can just check off two
+3:31 different width planes there now is the
+3:34 time where we want to take this overall
+3:36 width to understand where these stretch
+3:38 planes might lie so 58 if we just divide
+3:42 it by two you know you can do it the
+3:44 math right here you can divide it by two
+3:46 and it's going to show us this 29 316 I
+3:48 could copy this and then just reset the
+3:50 object size perfect that's easy enough
+3:53 so notice that there's there's that WID
+3:55 plane I'm going to go ahead and I can
+3:58 paste this and then back this down maybe
+4:00 an inch or something like that and it's
+4:02 going to show us there's where that
+4:03 stretch plane landed all right let me
+4:05 back it down one more inch that works
+4:08 for me okay and then I can copy this and
+4:10 then because in the width the stretch
+4:13 planes are about Center so it's either
+4:16 positive or negative x value that means
+4:18 we've got to put that negative value
+4:20 here that's going to give us our second
+4:22 stretch plane over here all right
+4:25 there's our next part depth well the
+4:27 depth is set based on the top of the
+4:29 this guy when you stretch it it
+4:31 basically stretches the top part of the
+4:33 symbol it's kind of like making it a
+4:34 square top if you will um which is an
+4:37 interesting approach to that I like it
+4:40 um that was someone being clever on
+4:42 whoever symbols this is I think it's
+4:44 Viking so the only other thing to look
+4:48 at here would be that depth parameter do
+4:51 I want to possibly stretch this rear
+4:54 rail well maybe why not let's just throw
+4:57 it in there so there it is at
+5:00 0 in if we do negative half that brings
+5:03 it right into the center of that rail
+5:04 I'll show you what that looks like when
+5:06 we stretch the symbol
+5:09 now so I'd like to take a census of
+5:12 where exactly this the symbol is in
+5:14 terms of distance in between this area
+5:17 right in between our um our style or our
+5:20 rails excuse
+5:22 me how can we do that well I might be
+5:24 able to just do it from you know the 2D
+5:27 CAD symbol here so I might be able to
+5:29 just take a line kind of get it lined up
+5:31 close enough and do it that way but
+5:33 really it's simple enough to just hold
+5:36 my concentric which for me is going to
+5:38 be um the comma key or the c key and
+5:44 then there we go I'm bringing it just
+5:46 inside those rails and then let's let's
+5:48 stretch this in the depth and see what
+5:51 it looks like see what
+5:56 happens now keep in mind the height of
+5:58 this is well above
+6:00 where we are with this fixture right so
+6:02 we do want to drop this down to the
+6:03 point where it's breaking the plane here
+6:05 and how can we do that very easily well
+6:07 I like to just bring in section cameras
+6:09 so I'll bring in a section camera in
+6:12 this case we could even do a wall
+6:13 elevation camera if we wanted to and
+6:15 just snap it right here and we're going
+6:17 to be able to see those fixtures and how
+6:19 they line up so there's that fixture I
+6:22 want to bring this down and if I'm
+6:24 looking and understand this view
+6:25 correctly and it might be that you want
+6:27 to um turn off color for this
+6:31 we can see that just here at the bottom
+6:34 it seems to be the bottom of this symbol
+6:36 right here where that flat plane is so I
+6:38 want this to be lined up with that there
+6:41 we go now while I'm here I'm going to
+6:44 end up deleting that surface that
+6:46 creates the bottom of this and replacing
+6:48 it with something that wraps around the
+6:51 size of this fixture here okay so while
+6:55 I'm here there's no problem just
+6:57 throwing in a solid or sometimes I like
+6:59 to throw in a solid from the Top Hand
+7:01 view because if you start editing in
+7:03 multiple views with a solid sometimes it
+7:06 becomes a problem when you're trying to
+7:07 do a Boolean operation to get rid of
+7:10 part of that okay um just trust me on
+7:14 that I don't really have a great example
+7:15 of it right now but sometimes it's
+7:17 beneficial to edit in the view that
+7:19 you're going to end up doing most of
+7:21 your edits from so in this case plan
+7:23 view for me so then if I pull back to
+7:26 that cross-section view now I can kind
+7:28 of take this and line it up or I can
+7:30 just take the value from bottom to this
+7:33 and add an eighth of an inch right so we
+7:35 can look at the general tab 67 to the
+7:38 Floor come back here and let's just go
+7:41 67 and
+7:45 E there we go and then I'm going to
+7:48 shrink this down to something like uh
+7:50 let's just go it's going to be a half an
+7:52 inch panel or something like that um now
+7:55 notice I stretched this a little bit
+7:58 beyond what it needed to be stretched to
+8:00 we're going to be just inside the rails
+8:02 here so I'm just going to concentrically
+8:03 move this and since that seemed to have
+8:06 been a problem there let's go ahead and
+8:08 make sure that it's not a problem going
+8:10 this other direction as
+8:15 well here we are it does in fact look
+8:18 like it's just outside of the bounds of
+8:19 where I want it to be I want it right
+8:21 here there we go and I did that
+8:23 concentrically
+8:24 okay now back to the camera view let's
+8:27 take a look at what we've got going on
+8:28 here so same kind of thing here this is
+8:32 stretched a little bit beyond the
+8:34 balance of what I want I'm going to
+8:35 concentrically bring this in a little
+8:37 bit I'm not being that precise you know
+8:40 I have I have the ability to be precise
+8:42 a little bit later if I want to um this
+8:45 is looking pretty good I'm going to end
+8:46 up cutting a hole around this so
+8:48 something I love to do is take a fixture
+8:51 move it a known Dimension so hit my tab
+8:54 enter and then just put at some
+8:56 Dimension that I'm going to remember so
+8:58 it's 80 in off set now and now I can
+9:01 really take a look at what I've got here
+9:02 and we can get back to that plane view
+9:04 and cut a hole in that solid that's the
+9:06 same size as what we've got going on
+9:08 here now doesn't necessarily need to be
+9:11 a hole in this instance we could have
+9:12 done it a number of different ways but
+9:14 um it is easy enough to draw a new solid
+9:17 in here and you do this a number of
+9:19 different ways you can just draw a new
+9:20 solid and select that solid open it up
+9:23 and we can actually
+9:26 say actually something I like even
+9:28 better than this is let's just take our
+9:30 rectangular polyline snap that in place
+9:34 select it convert it and say 3D solid
+9:38 hole
+9:40 okay at 3D solid hole it's going to
+9:43 generate that hole in our platform
+9:45 perfect now when we go look at our
+9:47 camera view there we go so when this got
+9:51 stretched we can see that back rail got
+9:53 stretched okay and then these side
+9:55 sections got stretched so that's kind of
+9:58 what I intended with so this looks
+10:00 pretty good now I have to make the
+10:02 decision do I want to make this all
+10:04 looking stainless or do I want to
+10:05 incorporate some of these wood features
+10:07 from
+10:08 this and I think I think we should make
+10:12 it just this wood but you know what
+10:14 another thing we can do is make sure
+10:16 that we since we are converting this to
+10:18 a symbol if we introduce a new material
+10:21 it gives us the option to repaint this
+10:24 later if you gave it the same material
+10:27 as something that's already here it's
+10:28 going to paint with the other items that
+10:31 are going to be there so it's a good
+10:33 idea to paint it with a new material in
+10:34 this case all right next up let's move
+10:37 this back that 80
+10:42 in there we go and I want to use the
+10:45 delete Service Tool to get rid of some
+10:46 of this stuff so I'm going to end up
+10:48 putting a metal band around this
+10:51 and let me go ahead and do that I'm
+10:53 going to end up converting this symbol
+10:55 twice is what I'm going to do because
+10:56 I'm not going to do the banding just yet
+11:00 so here we go I'm getting rid of the
+11:02 outside portion and this is just to kind
+11:04 of clean up the poly count maybe not
+11:07 necessary and then let's get rid of that
+11:09 lower face there that got in the way of
+11:11 things there we go that's looking pretty
+11:13 good let's look inside of this thing
+11:15 that looks pretty good so let's convert
+11:18 this one time need to make sure I'm
+11:20 selecting all items here convert it to a
+11:23 symbol I don't need it to add it to the
+11:25 library it can just be a fixture class
+11:27 here interior and I'm just going to
+11:29 press okay and I'm not going to do any
+11:31 other Advanced parameters because I'm
+11:32 going to place it this is just like a
+11:34 stepping stone if you will so we can
+11:37 bring this up you can bring it to
+11:38 wherever you want really it's fine right
+11:40 here it's right off the floor um I might
+11:43 in fact even drop this into the floor so
+11:45 that when I paint my molding polyline it
+11:48 just lines up like could do it that way
+11:50 if we wanted to totally up to you so get
+11:54 back to my plan view I'm going to get
+11:56 into my library I'm going to select that
+11:58 banding that I have had and then I'm
+12:00 going to select the trim tool okay and
+12:03 so that's going to be uh alt B and then
+12:07 oops not quite in here let's see alt
+12:11 B that's not not giving me my there we
+12:14 go and then t for trim and then we're
+12:17 just going to do a molding line so
+12:19 that's the L key so since we had this
+12:22 selected in the library first it's going
+12:25 to draw
+12:27 with um with what we had uh selected in
+12:30 the library so now here's the part that
+12:33 I always get confused extrude inside or
+12:36 extrude outside it always extrudes
+12:39 inside the polyline to start and what
+12:42 side is our inside versus our outside
+12:46 that always confuses me so if you happen
+12:48 to remember this then you would know
+12:50 which way to draw first right I don't
+12:53 remember this so I drew it the wrong way
+12:55 first I'm sure
+13:00 so there's our polyline let's see it
+13:02 looks like it did in fact extrude about
+13:04 the outside let's go take a look at this
+13:06 in
+13:09 3D and what do we have oh I drew it on
+13:12 the old old symbol here now what I'm
+13:14 looking for is are these buttons on the
+13:16 outside or are they on the inside that's
+13:18 really what what I'm paying attention to
+13:20 right now and you might have to get to a
+13:22 vector line or rendering just to even
+13:25 see yeah buttons are on the outside in
+13:27 this case so that's actually perfect
+13:30 so with all that let me move my big
+13:34 assembly out of the
+13:35 way let's
+13:38 see see if we can do it
+13:40 easily just want to get to
+13:44 that that trim piece there we go here's
+13:48 that solid we didn't need that there's
+13:50 that trim piece so I'm going to Center
+13:52 this up Center this up let's go take a
+13:54 look see what edits we need to do this
+13:57 should be
+14:03 there it is 78 off the off the ground so
+14:06 what happens then if I move this by its
+14:08 overall profile let me take a look in
+14:13 elevation so we look in elevation
+14:16 there's our trim piece this is where I
+14:18 like to just snap a line and kind of
+14:20 figure out how far I need to move this I
+14:22 need to move this fixture two and 1316
+14:25 so I can just contrl C copy that and
+14:28 then drag this down by that
+14:34 amount that actually didn't catch the
+14:36 direction we can just do it in our
+14:39 transform
+14:42 replicate there we go so if I select
+14:44 this banding and it looks like that
+14:46 banding is right in the right place
+14:48 maybe not though let's take a quick look
+14:51 at it I want to look at this a little
+14:52 bit closer so I'm selecting the banding
+14:56 right now and I'm selecting the fixture
+14:57 and I should be able to move both of
+14:59 these up move them up 5 in why
+15:04 not and in fact we can even drag and
+15:08 grab so that banding at 3 in is lined up
+15:12 perfectly it's just that that banding is
+15:14 not quite as tall as I want it to be so
+15:17 and sometimes with these 3D moldings if
+15:19 they're not set correctly you don't have
+15:22 options to resize them but I do believe
+15:24 I do have the option to resize this so
+15:27 that's at a 5 in so really my overall is
+15:29 between this point and this point which
+15:31 is 4
+15:33 in and because I put my stretch planes
+15:35 in my molding should be that I just type
+15:37 in my 4 in it doesn't stretch my little
+15:41 rivets my buttons and there we go that
+15:44 looks pretty good so let's go take a
+15:45 look at what this looks like in 3D in
+15:47 fact let's even put on a little
+15:49 rendering
+15:52 view that's looking pretty sweet now I
+15:55 might want to band at the very top of
+15:56 this but for now I'm going to stick with
+15:58 what I've got here so I just need to
+16:00 select this molding and select this
+16:02 fixture together and convert and I want
+16:04 to convert it to an electrical symbol
+16:07 all right this time I want to add it to
+16:09 the library and this is going to be RB's
+16:12 Hood with lights and then in parentheses
+16:16 I like to put what type of symbol class
+16:18 it is if it's not the expected symbol
+16:21 class okay so next thing I want to do
+16:25 options I want this to be ceiling
+16:27 mounted and then
+16:29 because it's ceiling mounted now uh
+16:31 Chief automatically puts in a z position
+16:34 here that we don't want so set that back
+16:35 to zero and then get into our light data
+16:38 and we get to specify as a light a't
+16:41 that
+16:42 cool this is also the opportunity to
+16:45 change the material of that Underside so
+16:48 that since it's saved in your library
+16:49 it's in the right spot but I want to
+16:51 show this position of this light and
+16:53 camera view we know that this is a 31in
+16:55 overall fixture let's
+16:57 go28 in here that's going to bring that
+17:00 light yep we see it right now in that 3D
+17:03 viewer you can always window key up to
+17:06 kind of increase the size of
+17:09 this and that's if you're on Windows
+17:11 sorry Mac I still don't know how to do
+17:13 that in a Mac right so there's my light
+17:16 okay now something I didn't really keep
+17:19 in mind and I wish I had before I went
+17:21 this far into it was that I actually
+17:23 don't like the location of where I've
+17:25 got this I actually want it tucked in
+17:26 further uh to one side but
+17:29 that's okay I'll end up redoing this so
+17:32 now we're looking at our XY parameter X
+17:35 is facing us Y is facing this other
+17:37 direction that means we need to move the
+17:39 Y position of our light source probably
+17:41 about I don't know let's call it 7 in or
+17:44 so that got pretty close let's call it 8
+17:47 in there we go now if we look in our XY
+17:51 our positive X is to the left because
+17:54 that's the direction of the leg of the X
+17:56 okay so that means I need to
+18:01 go maybe probably about 6 in let's call
+18:04 it 8 in there we go so there's Light
+18:06 number one ain't that cool and it could
+18:08 be a point light it can be a spotlight
+18:10 in this case I think it needs to be a
+18:12 spotlight the Tilt Direction matters
+18:15 here all right tilt direction is going
+18:16 the wrong way this needs to be tilted
+18:18 90° to go straight down and then our
+18:21 cone these are pretty sharp lights so
+18:23 maybe 80 and our drop off rate is going
+18:25 to be pretty fast drop off rate these
+18:28 lights get fused real quick so something
+18:30 like 20 okay so 2080 1200 intensity
+18:35 let's copy that light and then all we
+18:37 have to do is move the X position in
+18:39 this case and it's going to be probably
+18:41 20 in that got us right on spot and then
+18:45 copy this light one more time and this
+18:47 time we're going to make this let's call
+18:49 it - 20 in let's call it -
+18:53 203 oops
+18:56 -23 there we go
+18:59 perfect so now that's in the library
+19:02 when we place it it's going to be an
+19:04 electrical fixture now keep in mind if
+19:06 you want this to show up on your
+19:07 fixtures layer you have to do that in
+19:09 the library but here we go that thing is
+19:13 shining down it's picking up some
+19:16 Reflections and this is just Chief doing
+19:18 Chief things but it's picking up
+19:19 Reflections from that pink and also we
+19:22 don't have enough light sources in this
+19:25 room so let's pull in some windows let's
+19:28 take a look at this
+19:36 thing yeah all in all I'm pretty happy
+19:38 with that that's a fully integrated Hood
+19:41 assembly with a band across it looks
+19:44 pretty
+19:46 slick you know the the bump map normal
+19:49 Maps fighting us here it's mainly
+19:51 because we don't have enough lights in
+19:52 the scene a lot of things change once
+19:54 you actually put a grid of Lights in
+19:55 here so you can just come in here um
+19:58 whenever you're building stuff out I
+20:00 like to just make a big fat grid of
+20:02 light so we'll just do a four and
+20:04 four and then that way just right click
+20:07 which is your alternate draw mode un um
+20:10 unclick and then click again as you drag
+20:12 down and that'll give us all these
+20:14 lights and then maybe it'll improve the
+20:16 shot here but maybe not
+20:28 all right hope you learned something
+20:30 from that it's Valentine's Day I got to
+20:32 go do the Valentine's Day thing enjoy
+20:38 [Music]

@@ -1,0 +1,504 @@
+---
+videoId: _BIesg3ukMM
+title: Photoshop Club - Pen Tool and Masking With A Layer
+url: "https://www.youtube.com/watch?v=_BIesg3ukMM"
+status: imported
+---
+
+# Transcript
+
+0:04 what are we doing
+0:06 here this is going to be a funny one
+0:08 Photoshop
+0:09 Club um I'm getting some rabbit design
+0:12 hats made and this is the person making
+0:16 them and my experience with this person
+0:19 th far has been really awesome and I'm
+0:22 like just I don't know I love it when
+0:26 those things are like awesome so what I
+0:30 feel like doing I feel like helping them
+0:31 out and I told him I was a graphic
+0:33 designer and so I did um I did my logo
+0:37 in a particular format that he needed in
+0:40 order to get the embroidery done so I
+0:41 cut a lot of work out for him um and so
+0:45 he discounted but more so than that it's
+0:48 just an awesome dude to deal with and
+0:51 and so then he asked me what do you
+0:54 think about redoing my logo and I well
+0:56 hey all right let me just throw it
+0:58 through some of these free AI generators
+1:00 and I'll see if any of those are cool to
+1:03 you just have them whatever and then I
+1:07 was looking at his his site and here's
+1:11 what I'm seeing and this isn't
+1:15 good it's not
+1:18 good it's cool stuff this all but it's
+1:21 all gray right so that's not doing doing
+1:24 much for us and
+1:27 then very cool this veteran owner
+1:29 operator and I get that we want to sell
+1:31 that but I think we could do it in a
+1:32 different way and I think we could sell
+1:34 the hats in a different way and he's
+1:38 open to having a font change in the in
+1:41 you know his branding it's open to
+1:43 having a different
+1:44 logo
+1:46 um so let's say this is take one I don't
+1:49 know how far I'm going to get on this
+1:51 but I feel like this is fun content is
+1:54 one thing it's something I feel like
+1:57 doing it's after hours why not
+2:00 it's what I feel like doing it was
+2:02 either that or draw some in in blender
+2:04 so I feel like doing this and so let's
+2:08 just see what we can do see if we can't
+2:10 make something very cool out of this um
+2:15 let's see what we get so I'm using mid
+2:17 journey to generate some images I'm also
+2:20 using chat gbt to generate some images
+2:24 see what chat gbt came up with let's
+2:27 just bring this on the screen
+2:33 um yeah this is okay it looks a bit
+2:37 cartoony but I think I could work with
+2:39 that it'd be great if these were tilted
+2:42 up these foreground ones would have been
+2:44 awesome if they're tilted up funny we
+2:46 got a backwards brim right
+2:48 here I might ask it to do just another
+2:52 another go at this but I like this so
+2:54 far so let's download this um I have a
+2:58 Naz setup now you can ask me about that
+3:01 uh Brad SMI who is in our groups was
+3:04 kind enough to give me an old unused Nas
+3:07 I upgraded it with some some RAM and I
+3:09 put some old drives that I had in there
+3:11 so I'm running from that that's super
+3:15 cool all right so there we go there's a
+3:17 little a little dolly and then let's
+3:21 just hit a regen on that and I want to
+3:24 take a look at Mid Journey from Discord
+3:27 and let's just take a look at this see
+3:29 what came up with um there's a few good
+3:32 ones in
+3:33 here and in fact there's a few that I
+3:36 feel like I could mix and match I like a
+3:38 lot of this and that'd be really cool if
+3:40 we can somehow get this into the banner
+3:43 and then on top of that I think we could
+3:45 do something in terms of just a symbol
+3:49 for you know stating that it's a veteran
+3:51 in case we can't incorporate the flag
+3:54 per se maybe we can instead give a
+3:57 really strong symbol and an indication
+4:00 that's just clear and concise and you
+4:02 can't you
+4:03 know it's easy to to read right so um so
+4:07 first of all we're going to do a little
+4:09 upscale on Discord I'm looking down by
+4:12 the way but because my I'm going to be
+4:15 drawing on my tablet this time around
+4:17 I've been enjoying drawing on it so I'm
+4:19 drawing on it the other cool thing is
+4:20 I've got a brand new mechanical keyboard
+4:22 it's very Dynamic and I have it on a
+4:25 raised platform so that it's above my
+4:28 drawing tablet so not not only am I
+4:30 using my space Mouse in my left hand but
+4:32 I'm also using um and that's to zoom and
+4:36 everything and and hit some radial menus
+4:38 for Photoshop but in case that's not
+4:40 enough I've got the keyboard on the
+4:42 right hand and it's above my drawing
+4:44 tablet so it's first time I've ever
+4:47 trying this so we're seeing if it's
+4:48 awesome or not I'll let you know so I'm
+4:50 looking down at my screen so I'm looking
+4:52 at what you're seeing on the screen
+4:54 which is we're seeing Discord and so I
+4:57 need to figure out a way to get this mic
+4:59 kind of out out of my face but I think
+5:01 that's I'm just stuck with this um all
+5:03 right so I think we were just going to
+5:05 upscale one and we're going to upscale
+5:09 probably
+5:11 two probably going to just upscale all
+5:14 three of them or all four of
+5:21 them because I think we're going to grab
+5:23 some people from every one of
+5:25 these so let's
+5:28 just
+5:32 oh my buttons aren't working let's try
+5:34 this let's save image
+5:37 okay and that's going to bring in that
+5:41 send and delete folder we're going to
+5:43 bring all our assets into one area here
+5:45 so save
+5:51 here these are a little bit cleaner than
+5:54 the dolly ones which I
+5:58 like
+6:06 um funny that it keeps bringing me to an
+6:07 old
+6:10 folder I don't think I'm going to use
+6:13 anything from this one but we'll still
+6:14 save it maybe maybe some background
+6:17 element or
+6:20 something and then let's just open that
+6:23 folder get it onto the
+6:25 screen I've been redoing a logo um part
+6:28 of this video is I want to show you how
+6:30 to use the pin tool really effectively
+6:32 so um and that's part of the reason I
+6:35 want to get on the graphics tablet for
+6:37 that so here we go we got a bunch of
+6:39 images and we know that these are all
+6:41 1024 images we also want to take a
+6:43 screen clipping of the banner to kind of
+6:46 get an idea of the width of this so
+6:49 let's do our windshift S screen clipping
+6:52 or just print screen print screen works
+6:55 as well I keep forgetting that so
+6:58 there's our Banner
+7:00 and so we know if we start a Photoshop
+7:02 document based on that Banner
+7:04 size
+7:06 then
+7:07 um when we drag in those 1024 elements
+7:11 they're going to scale accordingly let's
+7:13 see so we're opening Photoshop beta
+7:15 we're on Photoshop beta
+7:18 25.5 right now that's the version I'm
+7:24 on and so new and we know from new we
+7:28 get new document this is all on my
+7:31 second screen right now new document
+7:33 from clipboard and then control+v to
+7:35 paste there's our Banner that we're
+7:36 working with that we would like to
+7:40 fix and then and then let's bring in my
+7:44 send and delete folder here and we know
+7:47 that we've grabbing all these pretty
+7:50 much all these in fact you can always
+7:52 control mouse wheel up to get a nice big
+7:54 fat preview there and want to bring in
+7:58 all these these are all going to come in
+8:00 as smart objects and notice that they
+8:02 scale to the bounds of the height of the
+8:05 The Source image so I'm just pressing
+8:07 enter and it's loading these up
+8:10 okay there we go and so let's see what
+8:13 we can do about cleaning up some of
+8:15 these guys here and see if we
+8:18 can't um pick out some elements that we
+8:21 want so I'm using space Mouse to zoom in
+8:23 and
+8:25 everything so I know that I like the
+8:28 composition here we are getting at least
+8:30 two hats and maybe we can slip in one
+8:32 more so I kind of feel like this one is
+8:35 my main one so I'm going to drag it to
+8:38 up to the top of the stack and then
+8:41 let's look below we might be able to
+8:43 snip this guy in the middle and maybe
+8:44 the guy on the left
+8:47 there or we might be able to snip this
+8:49 guy right dead center and that's it so
+8:53 let's try this guy first this one's
+8:55 simple enough so we're going to use my
+8:57 quick selection tool and then we can
+8:59 even just click on select subject and
+9:02 see what happens so that grabbed all the
+9:05 subjects and I just like to do I mean we
+9:08 could do a mask that would be simple
+9:10 enough a lot of times I just like to
+9:11 control J but let's do a mask CU I
+9:15 actually think I might want to steal
+9:17 this canteen or maybe just lasso tool
+9:20 and then let's
+9:21 shift shift lasso tool to just draw in
+9:25 this canteen if it'll let me oh I was
+9:28 using the wrong
+9:30 tool I needed to be in the
+9:33 lasso mode double clicked there we go
+9:37 now I want to control J this and then
+9:40 bring this up to stack and let's see
+9:43 what we're looking like that's kind of
+9:45 cool I don't mind that except for this
+9:47 guy's out of focus so we need the guy
+9:50 below him to be more in
+9:56 Focus so let's just throw a mask on this
+9:59 real quick and get into our let's got it
+10:03 um let's just draw out some of these
+10:07 guys real
+10:09 quick right so I like that guy that was
+10:13 real big in the
+10:15 frame but let's get rid of these for now
+10:19 and just see what we've got left
+10:22 over and then that
+10:24 canteen um I do have let's see I do have
+10:28 quick switching on my Pro 3D connection
+10:31 Mouse there so that I can get that kind
+10:33 of canteen in there so I'm just doing
+10:35 composition right now you know we got
+10:36 some problems to solve here um the leg
+10:39 being disappeared
+10:42 right right for this little part that's
+10:45 got to get adjusted we want him behind
+10:48 so something I could do right
+10:51 now I
+10:53 could could just
+10:56 control J this forward
+11:00 and let's
+11:01 try actually no I'm going to control
+11:05 click and make the selection and then
+11:09 control shift I to invert the
+11:12 selection what's that going to get me
+11:15 that's not going to get me anything
+11:16 because we're not specifically selecting
+11:18 this guy right whereas I want to be
+11:20 selecting this guy so um and why didn't
+11:24 that get me there I feel like it should
+11:27 have so instead let me just turn this
+11:30 layer into a smart object we'll do
+11:37 this convert to Smart
+11:39 object and
+11:43 then now let's try control click so
+11:46 there we go we've got a a better look
+11:50 here let me just come in here and get
+11:53 rid of some of this stuff so we double
+11:55 click to get into this right and then we
+11:57 can just and and this is a destructive
+11:59 workflow now I'm just erasing some
+12:02 elements I want to get rid of this stuff
+12:04 I don't need it so then when I close it
+12:06 it's going to ask if I want to save it
+12:07 yes I do and now when I control click on
+12:10 this it's a little tighter in the bounds
+12:12 right and so what I'm doing here is I
+12:16 want to see the selection of
+12:18 him and then make him
+12:21 disappear and then I want him behind
+12:24 this guy okay so I don't need the
+12:28 selection of this guy just yet but I
+12:30 wanted to
+12:31 see where these guys lie first all right
+12:35 so now I'm going to control d d selct
+12:38 and let's do our lasso again and select
+12:44 subject okay so now we have these guys
+12:50 selected and I think I'm just going to
+12:54 subtract this
+12:57 selection right
+13:05 oops there we
+13:08 go kind of clean that guy
+13:16 up some reason it keeps want to deselect
+13:18 this guy's hand we're g to get him we're
+13:21 gonna get that hand in
+13:26 there and so what I'm doing here what I
+13:30 think I'm doing here kind of losing
+13:32 track actually if I'm being honest I
+13:35 think that I am making a mask for
+13:39 this and then inverting the mask which I
+13:43 think I have a hotkey for let me see if
+13:45 I have a hotkey for this do we have an
+13:48 invert maybe that's an invert no it's
+13:52 not wanted to
+13:55 invert there we go so now he's behind
+13:59 hm and is that helpful at
+14:02 all I don't think he is he's out of
+14:04 scale first of all like needs to be
+14:08 scaled way down this is more the scale
+14:13 so before we even mess with that before
+14:15 we mess with scale let's try this we're
+14:18 going to unlink if we just take a look
+14:19 at this we're going to unlink this
+14:23 okay unlink
+14:26 that and then when we we select our
+14:31 layer and
+14:33 transform when we're moving him the The
+14:37 Mask stays in place so now we're scaling
+14:40 independently of the Mask Isn't that
+14:43 cool there we go so now we're able to
+14:46 kind of put him into place that might
+14:50 make
+14:51 sense looking at the size of his face
+14:53 he's going to be a little bit more in
+14:55 the uh background cuz he's blurry and
+14:58 then we'll improve proove the mask from
+14:59 there so now what I'm getting out of
+15:01 this is I'm getting three hats that I
+15:03 could potentially put logos on that were
+15:07 done previously and we might replace
+15:09 this hat with a backwards cap that's
+15:11 what I'm getting
+15:18 at so let's make him disappear again and
+15:22 let's work on that mask a little
+15:25 bit and what we can do is I want to alt
+15:28 click into
+15:30 this that's going to show me this let me
+15:32 contrl a let me contrl c let me go new
+15:38 and paste this is showing me my layer
+15:41 now let's go and switch this
+15:44 to a
+15:49 um
+15:51 multiply which means it's only showing
+15:53 us black all right pretty wild right
+15:58 watch what happen happens next now we're
+15:59 going to come in with a
+16:02 brush and we're going to paint with
+16:05 black okay going to paint with black
+16:08 along this Edge and get kind of want a
+16:11 little bit of a feathers so just a
+16:13 little bit of softness in the edge all
+16:15 right this is going to help so a little
+16:17 bit of softness in the edge I'm going to
+16:18 get rid of the pixels of his shirt just
+16:20 a little
+16:22 bit and this is when having the pen is
+16:25 everything and this is enjoyable too for
+16:28 me I love hand drawing in when I feel
+16:32 like I'm not under the gun when I'm just
+16:35 casually doing
+16:37 things I love doing this this is
+16:43 fun helps me practice my line work like
+16:46 just being able to draw quickly think on
+16:49 the Fly
+16:51 just touch up with a pen invert invert
+16:57 Etc
+17:02 so we only need a little bit of this guy
+17:06 so that we're clipping the guy
+17:07 underneath
+17:09 but not paying attention to that right
+17:15 now and yes we could do a select subject
+17:19 but this is just another method to show
+17:25 you we could use select subject and we
+17:27 could do a refine Edge right that would
+17:30 be a really easy way of doing this for
+17:32 this particular image
+17:34 anyways but this is another method that
+17:37 works very well and sometimes I feel
+17:40 like it's even more
+17:45 accurate and it's just good to get these
+17:47 skills built up right ability to just
+17:51 move your brush on the Fly resize it Pan
+17:55 the image um I love getting up um the 3D
+17:59 connection Mouse setup on this because
+18:00 it's so nice and
+18:04 quick um you get really in tight to
+18:07 understand not only do you start to
+18:10 understand what's happening in the scene
+18:11 in terms of graininess in terms of
+18:14 sharpness um but you also kind of see
+18:16 more when you're doing this kind of work
+18:18 yourself right you notice details you
+18:21 wouldn't otherwise notice if you just
+18:22 use the select and
+18:25 mask so things you might want to fix
+18:28 things you might like things you might
+18:29 want to work from stuff like that okay
+18:34 so I've got him kind of blacked out and
+18:37 then we're going to kind of fix some of
+18:38 this right same
+18:41 thing and his goofy little fingers and
+18:45 get in here real tight on the pixels
+18:47 real easy to get in tight on
+18:57 these
+19:02 right look how fast this ends up being
+19:04 so let's show you another trick let's
+19:06 use the pen tool here we go we're going
+19:09 to start and so with the pin tool here's
+19:13 what I like to do click and drag in the
+19:15 direction that it needs to curve
+19:19 okay and you can just do this real quick
+19:23 so it's click and drag versus just kind
+19:26 of poke right so this is click and drag
+19:28 click and drag click and drag and I need
+19:30 to zoom out a little bit just to see
+19:32 click and
+19:32 [Music]
+19:36 drag and then seal it up and in this
+19:40 case I'm going to just make it a
+19:42 selection press enter brush key and I
+19:45 can just draw in right and then controll
+19:48 D to get rid of it look how fast that
+19:52 was right how quick was that so same
+19:55 thing let's set P for your PIN tool and
+19:58 click click and drag I'll show you what
+19:59 I mean by click and drag I want to turn
+20:01 this corner right here so I'm going to
+20:03 turn this corner click and drag and I
+20:05 want to pull this almost to the midpoint
+20:08 of the next Apex of a curve right and
+20:12 then same kind of thing now sometimes
+20:14 you can't get that set up right so you'd
+20:16 have to hold your I believe it's control
+20:18 key maybe it's ALT key and then bring
+20:21 this back so that it's not going over
+20:23 the bounds of this next section so that
+20:25 I can click right here drag real far get
+20:29 a real tight turn there and then same
+20:31 thing bring this back midpoint of the
+20:34 apex of the next turn oops and drag this
+20:37 up right so real quick and easy ways of
+20:41 doing this now keep in mind this section
+20:44 needs to change a little bit it's going
+20:46 to curve up
+20:48 here right so you can see that I'm
+20:50 editing the shape of this on the
+20:57 Fly look at that Isn't that
+21:03 cool oops and we rotated that last piece
+21:07 just need to go back a little
+21:16 bit fast easy easy peasy so control a
+21:22 control C alt click
+21:25 in let's see there we go I'll click in
+21:30 and so what do we have here well I
+21:33 should be able to control d contrl v
+21:35 paste look at that I paste it into our
+21:38 masks so what happens when we show this
+21:42 now look at our mask it's nice and clean
+21:45 Isn't that
+21:46 cool and so there's some things I got to
+21:48 fix here the hands don't make sense here
+21:50 you know so there's a little bit of
+21:51 editing going on
+21:54 here let's flip that oops I was hitting
+21:58 the wrong button for that let's flip
+22:00 this up a little
+22:01 bit soften this
+22:08 brush and turns out that we needed I
+22:11 didn't quite understand the pixels here
+22:13 is what
+22:15 happened and this hand is kind of
+22:21 funny but there we go getting
+22:24 there there we go there we go
+22:31 and no one's going to be looking that
+22:32 close at the hand we're looking at some
+22:33 other stuff
+22:35 right soften soften soften let's just
+22:38 get rid of some of this Haze that's
+22:40 there that doesn't make sense now there
+22:42 we go some of this Haze right here
+22:44 doesn't make sense there's some haloing
+22:46 if you will now you can do this with
+22:48 selection but man when you got a brush
+22:50 in your hand I just don't feel like
+22:52 lifting the brush so if I can use the
+22:54 brush I'm going to use the brush look
+22:56 how beautiful that looks that guy looks
+22:58 like he was always in that scene isn't
+23:00 that great even his shoe needs well shoe
+23:03 needs a little edit doesn't it doesn't
+23:05 seem like that's coming from us though
+23:07 but all right so this is very cool this
+23:10 is
+23:12 working I think I might stop this video
+23:14 and make that part one because I think
+23:16 you just probably learned something
+23:17 really cool just by watching that short
+23:19 little bit so um let's see what we've
+23:24 yeah I think so you have to leave some
+23:26 comments let me know
+23:29 um I'm probably going to keep going on
+23:32 this and so we'll make another video and
+23:34 so come back and check this
+23:38 [Music]
+23:45 out

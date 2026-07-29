@@ -1,0 +1,198 @@
+Title: Chief Architect X14 Mailbox Challenge Contest Entry
+URL: https://www.youtube.com/watch?v=kbdlI5A0z9o
+Visibility: public
+
+0:04 okay here goes Little Chief challenge
+0:04 um looking at this on my side screen so
+0:08 that's what I'm referencing
+0:08 all right so I know already I need a
+0:18 and that's going to be my molding P line
+0:20 and from there
+0:20 let's convert this to
+0:22 3D molding polyline yeah let's replace
+0:28 this let's find that OG
+0:28 I'm going to make this six inches by one
+0:32 inch
+0:32 and I don't want to extrude inside
+0:37 polyline so there we go
+0:37 that's uh that's our 24 and then we can
+0:42 copy paste hold
+0:42 simplify convert to
+0:45 3D solid and it looks like these are two
+0:51 and a quarter inch so
+0:52 uh
+0:52 2.25 and finish floor to bottom is going
+0:57 to be
+0:57 um six inches for this guy
+1:00 I want to copy this guy over and figure
+1:05 out what this angle is so
+1:06 I'm gonna do multiple copy and I've got
+1:08 my object set to 12. and then take it 90
+1:15 degrees so that I can take one of these
+1:17 and simplify
+1:17 and break this
+1:20 and grab what this angle is copy
+1:23 okay so now I can take this solid and
+1:28 let's make 12 copies of this let's move
+1:34 it in the Z Delta 2.25 and we're going
+1:36 to face that angle
+1:38 there we go so
+1:38 now I want to take this molding right
+1:43 here and I'm actually just going to
+1:43 convert this real quick to a fixture
+1:45 interior let me place it back in plan
+1:52 Center it up again
+1:53 um
+1:53 just make sure it's zero to bottom yes
+1:57 and then
+1:57 we'll make a copy of it
+2:04 paste hold that's fine I did this a
+2:07 little goofy but 41.25
+2:07 and let's pull a camera see where I'm at
+2:17 okay so this needs to go down six inches
+2:26 this is where Chief kills me man these
+2:33 okay that's that
+2:33 um let me just I'm gonna type in an
+2:35 already brick I don't know what material
+2:38 that is you didn't provide that material
+2:40 for me so
+2:40 uh we're just gonna have to do it this
+2:44 way
+2:44 all right so now I want to place that
+2:49 mailbox and I might have time to do
+2:49 something kind of goofy with this let me
+2:53 place this mailbox and
+2:53 let me open up the symbol class and
+2:55 maybe we'll get into smoothing and set
+3:00 this to 360 and then use my delete
+3:02 surface tool
+3:02 set my rendering a little different I'm
+3:06 going to get rid of all this
+3:06 junk and maybe we'll turn this into a
+3:08 cabinet we'll be super trick with this
+3:14 so let's convert this to cabinet door
+3:16 drawer add the library show Advanced
+3:18 options
+3:18 and I want my bounding box to be inside
+3:22 of this thing also first of all I need
+3:22 to rotate this a couple times and I need
+3:26 to offset this by the depth
+3:26 15 and 5 16 and actually I need to
+3:32 subtract
+3:32 um three quarters of an inch from that
+3:39 right so
+3:39 and maybe actually we'll add 3 8 of an
+3:43 inch kind of bring It
+3:49 reverse
+3:49 there we go something like that okay so
+3:54 next thing is sizing wise
+3:54 uh let's go minus inch and a half from
+4:00 this and minus three quarters
+4:02 or three
+4:02 I don't know 3 8 from there
+4:05 see what that bounding Box is doing okay
+4:08 so it's giving me a little bit of frame
+4:10 now I need to
+4:10 minus from the width let's go minus inch
+4:14 and a half now I know that this is going
+4:16 to be inside of that but yeah this looks
+4:18 pretty good
+4:19 um
+4:19 what is this this is a 12 by 12 by what
+4:27 15. so let me drop this in here
+4:27 let's go let's delete this molding
+4:31 let's make this
+4:34 uh 12 12 15.
+4:34 aux construction is going to be let's go
+4:40 frameless I guess inset
+4:40 I'm sure we're just going to do the
+4:41 quick and dirty version of this let's go
+4:47 top hinge hinge bottom actually let me
+4:52 set this open to 76 degrees and then
+4:54 uh let me split this
+4:54 and I want to make sure that these are
+4:56 slab doors and then that they've got no
+5:03 door handle uh let's delete this blank
+5:03 area here back in box construction what
+5:07 do we have frame I'm gonna actually make
+5:10 this like quarter inch something like
+5:11 that
+5:11 that looks oops missed it quarter
+5:14 quarter inch something like that okay
+5:20 now I want to go to the back make a
+5:20 custom face I'm going to set this to a
+5:24 door panel
+5:24 uh let's see what that looks like
+5:31 let's go floor to bottom actually wants
+5:33 to be 41 point
+5:35 two five
+5:35 there we are cabinet door drawer let's
+5:41 get in the component replacement mode
+5:44 I think that's pretty slick
+5:46 um I'm gonna actually
+6:02 that right yeah no this is right okay so
+6:06 uh let's just go full room full plan why
+6:09 not let's paint the whole thing
+6:11 um this needs to go up
+6:17 it should Center on
+6:19 right there
+6:19 why not Center on there uh then we gotta
+6:24 get some solids in here
+6:24 there's there's a kind of a goofy solid
+6:29 right here that's all over the place
+6:31 um looks like whoever Drew this
+6:31 originally was a little bit off with
+6:33 theirs too so not too worried about it
+6:45 there we go and let me draw one more of
+6:47 these angled solids
+6:47 um let's just draw it in well we could
+6:59 so let's go looks like this is gonna be
+7:02 one inch
+7:02 and let's make this I don't know
+7:07 something like 14
+7:07 okay and then this particular line I
+7:09 want to open this up and we know that
+7:11 the angle of this line is going to be 2
+7:15 and 12.
+7:15 right and so we could take that second
+7:20 angle
+7:20 dupe it over
+7:23 um
+7:23 let's just make sure that this is
+7:27 two inches
+7:27 actually we want it to be one inch
+7:34 one inch
+7:34 means it's snapping all the way up there
+7:40 now we can convert this to a 3D solid
+7:42 yep
+7:42 okay
+7:43 get back to that camera view I like this
+7:55 trying to get the center I hate how
+7:55 difficult it is to get the center in
+7:57 this program
+7:57 why why can't I get it come on
+8:01 nothing nothing references there we go
+8:04 and let's go floor to bottom is going to
+8:28 yeah that looks about right
+8:28 I want to copy paste hold I'm going to
+8:32 take this
+8:32 subtract this one
+8:35 that's fine
+8:35 I'll be able to delete that
+8:37 face hold this move it up one inch
+8:45 and resize it
+8:50 okay
+8:50 what do we got
+8:56 last bit was
+8:56 needed to do this
+8:58 and let's take a little steel from this
+9:09 oh and we had that leftover molding
+9:11 there we go people
+9:11 bam what's our time tracker at
+9:21 nine minutes and seven seconds got one
+9:23 minute to do this right here
+9:26 open that up
+9:26 and paint this interior
+9:33 pretty slick
+9:33 pretty slick people pretty slick
+9:47 and we get to stop this time tracker

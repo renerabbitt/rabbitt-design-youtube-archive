@@ -1,0 +1,826 @@
+---
+videoId: FSbxh7JW1bc
+title: Chief Architect X16 Plot Plan Tips and Tricks
+url: "https://www.youtube.com/watch?v=FSbxh7JW1bc"
+status: imported
+---
+
+# Transcript
+
+0:00 all right VIP I got a really good video
+0:03 here I know it's a good video because
+0:05 I've been asked this over the years so
+0:06 many times how do we do our lot area um
+0:10 if you're using my Pro Plan and you're
+0:12 utilizing the um various coverage macros
+0:15 in here um I've gone over how to use
+0:18 those before but the lot area setting
+0:20 this up to be really accurate can be
+0:22 challenging and so I'm going to try to
+0:24 show you how to do that because I got
+0:25 one I've got to do right now so might as
+0:27 well might as well take the opportunity
+0:30 so here's what I've got I've got a I
+0:33 want a GIS okay and Global Information
+0:37 Systems satellite view right and here is
+0:41 my lot now I want to zoom in just to the
+0:44 point you can change your um Zoom Levels
+0:48 by changing you know how your mouse
+0:50 works in this case but really I want to
+0:53 zoom in as far as I can while I can
+0:54 still see the lot and that's that's the
+0:57 main focus here okay so I'm going to get
+1:00 about to about right here now if I zoom
+1:02 in more it's clear that we get a little
+1:04 bit more accuracy and maybe we can still
+1:06 utilize this right and so how I would
+1:09 utilize this is I'd scroll down a little
+1:11 bit and we're seeing in the bottom
+1:14 leftand corner I've got a foot marker
+1:16 here and that's important when I
+1:18 screenshot this I need to make sure that
+1:20 I'm picking up that foot marker now I
+1:23 like using Photoshop and doing things
+1:25 like turning on transparency for this or
+1:28 I might even overlay Photoshop and get
+1:30 in real tight and do some things that I
+1:32 can't do in some other program I'll just
+1:34 show you what that looks like just so we
+1:36 can even take a look I'm going to boot
+1:38 up photoshop on my other screen and just
+1:40 give you an idea this is the kind of
+1:42 stuff I go over in the Photoshop Club so
+1:46 um if you're part of that club you know
+1:48 you already kind of know this but if
+1:49 you're not part of that club I go over
+1:52 tricks and tips for Drafting and for
+1:54 material creation and for rendering and
+1:56 stuff in the Photoshop Club so here we
+1:58 go I've got photoshop on my second
+2:00 screen
+2:01 now and I'm going to switch this over
+2:05 our feed you're going to see duplication
+2:07 for a second and I'm just going to do a
+2:10 new document based on um the clipboard
+2:14 okay and then from here I just get to
+2:16 paste this in now what I'm trying to do
+2:19 here is I want to isolate some things
+2:21 we're looking at a goofy brush here so
+2:23 we'll just get that off the screen I
+2:24 want to isolate some things namely I
+2:27 want to draw a path and and I mean so
+2:29 this is a pretty simple thing to do I
+2:31 can just do a new layer and do a path so
+2:35 I'm going to use my pen tool and I'm
+2:37 using my space Mouse and I'm just
+2:40 dragging this around and really I'm not
+2:43 too worried about where this ends up
+2:46 because I'm just going to use this
+2:48 initial
+2:50 path in order to take the data from the
+2:53 gis and scale it and that's just so that
+2:56 I can place the house that I need to
+2:58 place okay so there's path number one
+3:01 and so what I'm going to do with this is
+3:03 I'm going to take the brush stroke here
+3:05 and in this case we're going to shrink
+3:06 it down to something that's real small
+3:09 one or two pixels let's just say it's
+3:11 two pixels and if I go back to the pen
+3:14 tool this is just again this is things
+3:16 you can do in Photoshop so you can skip
+3:18 forward if you just want to get past
+3:19 this but if you're interested take a
+3:21 look so I'm making this a stroke path
+3:23 okay and so now I have a layer that has
+3:26 that stroke path now it used pencil I
+3:28 want to use the brush so let me try that
+3:30 again I'm going to do stroke path and
+3:33 we're going to switch this to brush okay
+3:36 and there we go we've got a very fine
+3:38 stroke path there so now I'm going to
+3:40 use that pin tool and I'm going to get
+3:42 in here tight as tight as I can as tight
+3:44 as I can understand anyways and start
+3:47 tracing the building itself
+3:54 okay all that um Photoshop is doing with
+3:58 the space Mouse in this case
+4:00 is it's taking it and hitting the left
+4:02 and up and right arrow key so that's why
+4:05 you see kind of jittery if I try to go
+4:06 diagonally if I just go straight down
+4:09 it's a lot easier but you know what I
+4:11 like going diagonally it doesn't bother
+4:13 me and so then the rest of this is just
+4:15 kind of guesswork I'm not really sure
+4:17 where the rest of this building is but a
+4:19 couple of these marks will help me just
+4:21 find what I'm looking for okay so next
+4:25 thing from here let's go ahead
+4:27 and again we're going to make this a
+4:30 stroke sub path we can do that in fact
+4:34 use that brush and then if I turn off
+4:36 the layer underlying and I go through
+4:39 and just turn off that working path or
+4:41 delete that working path it leaves me
+4:44 with just this and then from here I can
+4:47 actually double click on this layer and
+4:49 apply a layer style where we're deleting
+4:53 anything that's white in the current
+4:55 layer okay so we're deleting anything
+4:57 that's white in the current layer we're
+4:59 going to turn off off this background
+5:00 and we're going to export this as a
+5:04 PNG so there we go we basically made it
+5:07 a trace path now something I might want
+5:09 to do before I do um before I export
+5:12 this is I might actually want to apply a
+5:14 neon green color to make it easier to
+5:16 see this so I'm going to apply a solid
+5:17 color I'm going to set this to neon
+5:20 green and then alt click in between the
+5:22 layers and it's applying it so now I
+5:24 have neon green lines and now I'll
+5:26 export this as a
+5:28 PNG
+5:30 PNG and we need to make sure
+5:31 transparency is
+5:34 checked here we go and let me get to my
+5:37 project in this case I can just type it
+5:39 out there we go type it out and then 23
+5:44 23 23 there we go and here we go so I'm
+5:49 going to say that this is building
+5:54 overlay so now that I have the PNG let
+5:56 me just switch back and let's get back
+5:58 to Chief here main with cursor so there
+6:00 we go now we're back in our main screen
+6:03 and the other thing I'm going to do is
+6:04 I'm going to take this PDF and bring
+6:06 this in as well right and so this is
+6:08 going to provide that extra data that I
+6:10 need and then I can kind of Trace from
+6:13 here so let me get into Chief and let's
+6:16 drag and drop a couple things so I need
+6:18 to get into my project file find where
+6:20 that project file is and this is a good
+6:22 idea to always save your project file
+6:25 pathing as you go as you're adding
+6:27 assets because it's easier to just
+6:29 navigate back to this
+6:31 right so a couple things we're dragging
+6:34 in one is and let me just get this off
+6:36 screen we're going to drag in that
+6:38 building
+6:40 overlay and we will show pictures there
+6:43 you go that's how that shows up real
+6:44 nice looks real nice okay now we don't
+6:47 know what the size of this is yet right
+6:49 but we will we will shortly another
+6:52 thing we could have done is rotated this
+6:54 in a way that um would help us to scale
+6:57 it correctly right so that that's that's
+7:00 another thing that would have been nice
+7:01 here um so and and in fact that's going
+7:05 to come into play this is going to be a
+7:07 challenge for us but we can show you a
+7:08 little quick way around that I think so
+7:10 let me try a couple things here so next
+7:12 is I'm going to drag in the successors
+7:14 map and it's just one page press okay so
+7:17 the accessors map we actually have
+7:19 something to Scale based on right we're
+7:21 hoping
+7:24 anyways and the one thing is uh I said
+7:27 about screenshotting that other one I
+7:29 kind of clip that scale out and maybe
+7:31 that was a bad idea maybe that was
+7:32 something I should have left in there so
+7:34 might be worth exporting again and and
+7:36 reimporting
+7:38 because the only thing that we have to
+7:40 scale on are these markers that are not
+7:42 going left to right and that's the
+7:44 problem in Chief is we can't scale um
+7:47 without a left to right linear scale or
+7:50 vertical linear scale right so let me
+7:52 just jump back in this is why it's
+7:54 really powerful to have Photoshop in
+7:56 your workflow I can't tell you how often
+7:58 I use it and how
+7:59 um it makes my life easier so this is a
+8:02 big thing for me so I'm going to switch
+8:03 back to that photoshop workflow and here
+8:06 we go um couple things we wanted to come
+8:09 in here and we wanted to make sure that
+8:10 we had that scale on the bottom so I'm
+8:11 going to just turn on a mask invert the
+8:14 mask kick into a brush resize that brush
+8:18 and then there we go there's our scale
+8:22 so easy enough now we can actually Scale
+8:25 based on that so what Watch What Happens
+8:28 can we get the done with just this part
+8:31 with just adding that scale could we get
+8:33 this done it is possible um I think it'd
+8:36 be better to add the PDF and actually
+8:39 scale that up so let's go ahead and open
+8:40 up that PDF and again this is great when
+8:44 we've located where we're saving our
+8:47 project it's nice if you copy this to
+8:48 the clipboard because it's going to make
+8:50 a difference when you go to open things
+8:51 so like I'm going to open something on
+8:53 my computer right now
+8:56 and let's just get in here and head
+8:59 shots I'm going to paste it so it's
+9:00 really easy for me to get back to this
+9:02 right so there's that assessor map and
+9:05 takes a little bit of time for Photoshop
+9:07 to open this up press
+9:09 okay and here's where I want to rotate
+9:12 this I want to rotate everything I want
+9:13 to rotate so that it's on a grid right
+9:16 so that's a precise Dimension if you
+9:18 will so something that we could have
+9:21 done is we could have figured out
+9:23 exactly what the angle of rotation is
+9:25 and there's probably a way you could do
+9:26 that in Photoshop but since I've got um
+9:28 Chiefs just sitting here right in front
+9:29 of me and I've already loaded in that
+9:32 PDF let's just take a look what happens
+9:34 when we just draw a line and what I want
+9:37 to do specifically is I want to make the
+9:40 lot this particular lot okay I want to
+9:43 make this um the back end perpendicular
+9:47 all right I want to make that flat
+9:50 um it's really the front it's really the
+9:53 front that's going to need to be flat so
+9:55 but the front's a little bit more
+9:56 challenging on this one and I think that
+9:57 it kind of aligns with the back so I'm
+9:59 just going to use the back so I'm going
+10:00 to use the line tool and hold control
+10:04 and
+10:05 then I'm going use that line tool again
+10:08 and from here I'm going to switch to my
+10:10 macros CAD Dimensions take up that
+10:13 angular Dimension tool and dimension
+10:16 manual I have to kick that on real quick
+10:18 and we're going to see here 28 degrees 1
+10:21 and 56 now if you click on this and open
+10:24 it you can
+10:25 change what it's displaying here so we
+10:27 can just do this in degrees right so
+10:30 this is 28.0 3 all right so let's switch
+10:34 back to our Photoshop and so what are we
+10:36 going to do we're going to contrl
+10:39 T right in order to well actually let me
+10:42 just contrl all so contrl a contrl j and
+10:46 then I'm going to turn off the layer
+10:47 below sometimes this makes it easier to
+10:49 con um do a little edit and then I'm
+10:52 going to start rotating this right I
+10:55 want to rotate it this
+10:57 way so you're noticing here at the top
+11:00 of the screen that we see the degrees
+11:02 there and so what does this correspond
+11:04 with you guessed it so we need this to
+11:06 be 28.0
+11:10 32199 there we go now that's perfect
+11:13 here's the lot I need right so let me
+11:17 press okay let me export this this is
+11:20 going to be a really high resolution
+11:21 image in this case it's actually not as
+11:23 high as I thought it was going to be
+11:25 5,000
+11:27 pixels and we're already in that same
+11:30 section there there's the assessors map
+11:32 PNG
+11:34 file now I can come back main with
+11:37 cursor let me come back in
+11:40 here and we're going to ditch this we're
+11:42 going to ditch this PDF because I not
+11:44 worried about it
+11:46 anymore and
+11:48 instead we're going to bring in that
+11:51 accessors map
+11:54 PN there we are and it's lined up
+11:58 perfectly
+11:59 that's what's important right now it's
+12:01 lined up perfectly so the other thing we
+12:05 know is that this particular item needs
+12:07 to rotate how much that 28.0
+12:11 31999 or something like that so here we
+12:14 go rotate and relative angle
+12:18 28039 91 I think is what it was right
+12:21 and I did it the wrong way so let's go
+12:23 back a little bit we need to do a
+12:25 negative
+12:27 rotation
+12:32 and actually before we even do that we
+12:34 can scale this right so we do have that
+12:37 little section here at the bottom where
+12:39 we can say that this is the center of
+12:41 this line to the center and we need to
+12:44 get in tight here because it's close to
+12:45 an edge so we don't bind up that's
+12:49 supposed to be 20
+12:53 feet all right so supposedly that's the
+12:57 correct and then
+13:00 then let's just oops make sure we're
+13:04 selecting
+13:05 this and here's that negative negative
+13:09 2.03
+13:11 991 I think is what that was bam and
+13:16 then just uh kind of set this up I don't
+13:19 need that to be as accurate as I need
+13:20 this to be accurate right so here we go
+13:23 we get to get in here tight now if you
+13:24 got a space Mouse it's really easy to
+13:26 get here and get precise right in the
+13:29 middle of that right there and all the
+13:32 way on this other side and we're going
+13:33 to see here that this is 20 240
+13:36 ft10 24010 feet all right so
+13:41 24010
+13:46 feet all right and that made it pretty
+13:48 large now we can take this image over
+13:51 here get that point topoint move
+13:55 in real tight let's see if we can get in
+13:57 real tight here
+14:00 zoom out kick over zoom in and we're
+14:04 trying to put it right
+14:06 here and that should oh you know what
+14:09 we're selecting this this guy up here
+14:12 sometimes you got big images overlaying
+14:13 each other it's hard to get the right
+14:15 selection so let's try that one more
+14:18 time right in the corner there Zoom way
+14:22 out and get right in the corner here now
+14:25 the whole point of this is that I'm
+14:27 placing what am I placing I'm placing my
+14:30 building now the rotation here of this
+14:32 one is a little off and we're going to
+14:34 fake it I'm not too worried about
+14:37 it because a lot of times these maps are
+14:40 a little bit off of the actual assessor
+14:43 right let's try to get this right in the
+14:45 middle and all this is doing is placing
+14:48 my building on the lot that's all I'm
+14:50 doing right now okay I'm not doing
+14:53 anything else but placing my building on
+14:55 the lot so what can I do from here well
+14:58 this is the roof lines mind you and so
+15:01 it's going to be a little tricky for me
+15:02 to figure out exactly where this is
+15:04 going to be but basically to my front
+15:06 edge roof line from that
+15:09 corner and it's going to be this 1,8
+15:12 716 okay so I can very easily come
+15:18 in and I'm not displaying roof lines
+15:20 right now it'd be easy enough to just
+15:22 turn that
+15:27 on
+15:34 and what did we say that amount was well
+15:36 I saved it to my clipboard
+15:38 thankfully and I'm not seeming to get my
+15:40 line tool okay there we go so tab or
+15:42 enter
+15:44 paste okay that's the essentially the
+15:47 corner of the lot right there except for
+15:49 I'm doing it off the wrong side and I
+15:51 have this um front of the building is
+15:54 over here so I need to do it off of this
+15:57 right here
+16:07 now does that look correct about th8
+16:09 yeah okay so actually does not look
+16:13 correct to me let me just double check
+16:22 this4 yeah all right fine now the next
+16:26 thing we might check is from this side
+16:29 lot right from the side here this is 543
+16:33 so we're going to copy that to the
+16:39 clipboard and same thing from this
+16:44 side
+16:45 543 oops paste just paste there we go
+16:50 that's the path of my lot now I'm not
+16:54 really worried about this building
+16:55 anymore location of the building anymore
+16:57 we could check one more side just a
+16:59 double triple quadruple check um
+17:02 especially because let's see this
+17:05 backside is the one we were having
+17:06 trouble seeing in the satellite image
+17:07 these are the ones that I'm more um
+17:10 confident in so I'm think I'm okay with
+17:13 what I've got going on here so let's
+17:14 just get rid of this
+17:16 PNG oops what happened there oh boy lost
+17:21 a couple
+17:26 things going to get rid of this p
+17:29 now we get to start drawing this
+17:31 guy and I don't need it to be right on
+17:34 the money where this building is I'm
+17:36 going to just take my existing lot which
+17:39 is here and start shaping this now
+17:43 something to note these numbers aren't
+17:44 going to correspond until we put in a
+17:46 North pointer so in CAD going to get
+17:49 this North pointer and get in real
+17:51 precise and notice that the north
+17:54 pointer it's nice to kind of look at
+17:57 this to see exactly how it's going to be
+17:59 it does look like it get to get right on
+18:01 this Edge there's no line to be in
+18:03 between so and the longer you out you
+18:06 draw this the more accurate it's going
+18:08 to
+18:10 be all right so there's my North pointer
+18:13 so what happens now well my Lots
+18:16 shouldn't be 90 degrees anymore right
+18:18 they look a lot different now now I like
+18:20 to just start shaping this and an easy
+18:23 way to do that you can left right left
+18:26 click and then hold control this is easy
+18:27 enough going to get real close this
+18:30 way but we can also just punch in the
+18:32 numbers as
+18:42 well G have a break right
+18:47 here and have a break right
+18:55 here and then we got a little Arc right
+18:58 here
+19:02 here okay now let's start looking at
+19:04 these numbers what's happening now if
+19:06 you're if you've got in your preferences
+19:08 that you're showing start and end
+19:09 indicators that's a big thing here so
+19:11 let's just let's also just open up this
+19:15 polyline in line Styles we've got show
+19:18 length we've got show angle that's an
+19:21 important thing got no fill in this
+19:27 case
+19:29 now we're going to look at start and end
+19:31 points in order to kind of place things
+19:34 out right and we need to know which
+19:35 sides our start point which sides our
+19:37 end point so we need to have that set in
+19:43 preferences okay so let's get into
+19:47 preferences and we're very specifically
+19:49 going to get into the edit panel and so
+19:52 we need to check on show start and end
+19:54 indicators show start and end indicators
+19:57 now you see a little S at the end of
+19:59 this so that's the start side so when I
+20:02 want to edit this and I want this to
+20:04 look like what I've got here that's what
+20:06 I need to be paying attention to now
+20:08 something to note here we've got a
+20:10 different bearing um on one side to the
+20:14 next and that's the only one so we're
+20:16 going to make that the last thing that I
+20:18 designate so what I want to keep in mind
+20:20 here is here's my end point so I'm going
+20:22 to start by locking my end point and
+20:25 then conform this this particular Edge
+20:28 to my parcel map now let's get this off
+20:30 to the side so we can see it over here
+20:33 and I'm going to change my number style
+20:35 and this is going to become decimal feet
+20:36 is going to be a lot easier to punch in
+20:39 now okay so oh the other thing is number
+20:42 style let's Chang this to quadrant
+20:44 bearing so now this punches in here as
+20:47 well right so if you can see this there
+20:50 we go that's what we're looking at so
+20:52 first up I want to make sure locking end
+20:55 point we're going to say it's
+20:57 14435 easy right and then it's sou 50
+21:02 12
+21:05 55 bam so it's going to move that
+21:08 endpoint right there easy go to the next
+21:10 one make sure you're selecting that next
+21:12 Edge okay let's open this up we want to
+21:15 lock that end point still locked right
+21:18 we're going to go around this I'm just
+21:19 going to go around this counterclockwise
+21:21 I don't know that it matters it's
+21:23 totally up to you and then I mean I kind
+21:25 of shared what my logic was there um and
+21:28 then let's go 56 and
+21:31 then let's
+21:33 go
+21:36 09 right that's correct and
+21:39 123 123.
+21:42 38 significantly shorter than what I had
+21:45 it right so that moved this that moved
+21:48 that quite a bit and that and that
+21:50 usually causes a problem for me so
+21:53 that's when I want to go look at this a
+21:54 little bit closer and wonder why is that
+21:57 so far In from from what's going on here
+22:00 that's very strange that it moved it in
+22:02 that far right so 123. 38 could be
+22:06 incorrect I'm not sure let's select this
+22:10 next section we're going to lock that
+22:11 end point
+22:12 still and we do have a bearing here that
+22:14 makes sense we're going to say that this
+22:17 is
+22:19 61
+22:23 49 and 5 out now there is a way to get
+22:26 this degree marker without having to
+22:28 type in the degree key somehow it's been
+22:31 a while since I've tried this so I'm
+22:32 going to just copy this real quick and
+22:34 instead I'm going to just go in 61 foot
+22:38 49 foot 50 inch East and does that get
+22:42 me
+22:46 this this is not a valid angle there is
+22:49 some way I think it might just be a
+22:51 space so if you leave a space there
+22:54 there you go let me try that again let's
+22:57 just goes
+22:58 61
+23:01 49 and then 50 will that input yes it
+23:07 does all you need is a space character
+23:08 it's automatically going to figure out
+23:10 that that's degrees okay so that's an
+23:12 important one to note and then because I
+23:14 can't see this is what
+23:16 2232
+23:19 2232 let's try that out what is this I
+23:23 can't actually see that can always do
+23:25 this just to see oh it's 22 .02
+23:34 okay 2
+23:37 2.02 all right now this next one is
+23:40 radius and we're going to pick up this
+23:41 radius from here
+23:44 um and this
+23:46 becomes challenging we really need that
+23:49 lower portion to be locked and set right
+23:52 because um we don't have any reference
+23:56 point for the length here
+23:58 okay so that's the biggest problem so
+24:01 we're going to have to pick one of the
+24:02 other and this time I want to lock my
+24:05 start Point all right notice the starts
+24:08 on the right hand side so length is
+24:10 going to be
+24:12 24.1 and then we're going to go south 64
+24:16 space
+24:17 56. 44 in
+24:21 West and look at how easy that was and
+24:24 that looks very correct so then this
+24:26 next part we're still going to keep that
+24:28 starting point locked right and let's
+24:31 look at what is this 357 is this full
+24:33 length versus we've got the 281 okay so
+24:36 let's open this up and we've
+24:40 got North six space
+24:44 50 I think you can just do space again
+24:47 let's try that 501 W in fact I don't
+24:50 even know you need to put W maybe let's
+24:53 tab yeah that worked like a charm so you
+24:55 don't even need to put the characters
+24:57 281.50
+25:00 3 this couldn't be easier right this
+25:03 couldn't be easier now look at where
+25:05 this Arch is ending up so definitely
+25:08 seems like something's wrong in this
+25:10 Dimension but we're going to leave it
+25:11 because that's what it says on the
+25:12 parcel map right so next up is I've got
+25:17 our radius selected Arc and our radius
+25:19 is set to
+25:22 1703
+25:23 um we should be able to lock our cord
+25:28 length this time right and then change
+25:31 the radius to
+25:32 170 and
+25:35 that's that's it there we go so there's
+25:40 our lot now let's move
+25:46 this and where the heck do I have the
+25:48 building oh I put it right next to it
+25:51 fun we're going to move this and we need
+25:54 to rotate it right so we need to rotate
+25:55 at 90° we need to make sure we're
+25:57 rotating the north Arrow at the same
+26:00 time okay and there's our
+26:06 90° right so the next thing is we can
+26:10 kind of line up we know
+26:14 that this point makes it right there
+26:19 except for we didn't know what the
+26:20 reference is there and then we just know
+26:23 the length so it lines up in the
+26:25 lengthwise but now we need to just bump
+26:27 this so that this lower
+26:29 Arrow lines up as
+26:32 well so we can actually just come in
+26:34 here real
+26:36 tight and go like
+26:40 that that's it that's it that's all I
+26:44 needed bam we'd shrink that North Arrow
+26:47 way
+26:50 down so it's um showing us the lot areas
+26:54 38650 let's take a look at how close we
+26:56 are in the GI
+27:05 38740 and I'm at
+27:07 38650 we're very close and it might just
+27:10 be that weird little discrepancy up in
+27:12 here in the corner now let's take this a
+27:15 little bit further I'm going to go back
+27:16 a level and we're going to see that
+27:18 maybe some of these um Direction arrows
+27:21 are the wrong way right so let's just
+27:23 take a look at this I'm going to shrink
+27:25 this image down first saw shrink this
+27:29 way
+27:30 down just so that we just see our lot
+27:33 only cuz that's all I care about now
+27:35 there was no easements we didn't have to
+27:37 do anything with that in this case and
+27:39 then let's rotate this see what we
+27:43 had um and so what's the bearing showing
+27:46 we're showing North yep we got Northwest
+27:49 right down here we're showing Northwest
+27:51 down here we're showing Southwest okay
+27:54 so here's kind of the trick one is I'm
+27:56 going to make a copy this and paste
+27:59 hold all right and actually I don't even
+28:01 need need to do that what I could do
+28:03 instead
+28:05 is I can I can do a multiple copy let's
+28:09 do this multiple copy interval even
+28:12 distribute I'm going to
+28:14 do actually offset and let's change our
+28:16 number style
+28:20 back and then I'm going to say that this
+28:22 is 20 ft
+28:25 offset right so when I bring this note
+28:27 in that's an offset of 20t okay same
+28:31 thing let me just do this again
+28:35 oops this time I'm going to say it's 10
+28:39 feet so when I bring this note in that's
+28:41 a 10 foot offset okay could have just
+28:44 done five five5 five right that would
+28:46 have been easier but
+28:50 whatever that's 25
+28:53 ft so whatever my setbacks are I now
+28:57 have the offset setbacks to join
+28:59 together okay I'll explain that in a
+29:01 minute so I could just control select
+29:04 these open them up and make sure that we
+29:07 are not showing length or angle because
+29:09 I don't need to see that right should
+29:13 have been that it affected all these it
+29:14 didn't seem to it's very
+29:18 strange show length and angle shouldn't
+29:20 be showing length and angle isn't that a
+29:23 funny little
+29:25 glitch what happens when we get rid of
+29:27 it
+29:28 oh funny I have multiple
+29:35 here let's just change my selection mode
+29:39 so I can select all anything that's here
+29:42 and then show length the
+29:44 angle there we go now we only have that
+29:47 outside one shown length the angle now
+29:49 what I'm going to do with this outside
+29:50 one is kind of funny I'm going to break
+29:53 up I'm going to break this
+29:56 up right right so the one that I needed
+29:58 to show here notice it's no longer
+30:01 showing its length and angle I want it
+30:03 to show its length and angle so I need
+30:04 to go back in there and check okay but
+30:07 the other thing I want to do is this is
+30:09 showing Southwest now bam that's exactly
+30:12 what I needed to see okay so if I'm
+30:14 trying to match this up let's look at
+30:17 this one Southeast we're showing
+30:19 Southeast let's look at this one
+30:20 Southeast we're showing Southeast what's
+30:23 this one say it says Northeast we're
+30:24 showing Northeast so in this case we're
+30:27 showing everything correctly now if we
+30:28 needed to show this a different
+30:30 direction you're just going to change
+30:31 the start and end points so reverse
+30:34 Direction and you're going to notice
+30:35 that that just changed to Northeast by
+30:37 reversing the direction so if you need
+30:39 it to report correctly that's a trick
+30:41 for doing that okay the other part of
+30:44 this that I would keep in mind is now
+30:46 you don't have the lot area analysis
+30:49 which you might need right so in this
+30:50 case I'm not too worried about the
+30:52 direction because no one's actually
+30:53 going to check it in my County what I am
+30:55 more concerned about is that this is a
+30:58 closed polyline so I want to make sure
+31:00 that it's closed okay and there's that
+31:04 38,000 again notice some of these other
+31:08 ones are still reporting areas so you
+31:10 also got to make sure that when you're
+31:11 selecting these you got to get rid of
+31:14 that label macro when you're duplicating
+31:16 some
+31:17 stuff
+31:19 okay and then setting the offsets and
+31:22 back um the um our set backs can be a
+31:28 challenge I know that I'm going to have
+31:30 a 20-ft setback and I'm probably going
+31:31 to have a 10ft and 10ft aggregate right
+31:34 so what I would need to do is break this
+31:36 up again okay so I'd be breaking this up
+31:39 and I'd also be breaking this up and
+31:41 I've shown this before um but let's just
+31:43 look at it anyways now I can take this
+31:45 line and use our extend tool to extend
+31:48 it to our 20 foot right same thing I can
+31:51 take this line and actually need to
+31:53 disconnect this Edge but I can take this
+31:56 line and make it meet with our Edge and
+32:00 actually it's this Edge right here that
+32:04 I need to meet with so I need to
+32:06 disconnect that and then we're going to
+32:10 have it meet up there we go so perfect
+32:15 now I've
+32:17 got this gu is all connected we can of
+32:20 course use the extend tool and draw a
+32:22 line through here and that should got
+32:26 some things happening here so we need to
+32:28 get rid of some of this other stuff
+32:33 but there's a couple of these in place
+32:36 oh no there isn't funny yeah I had a
+32:38 duplication issue here so some issue is
+32:41 happening here so if we delete
+32:46 that yeah this is what we were trying to
+32:49 get done
+32:51 here there we go and we want to delete
+32:56 this
+32:57 yeah some duplication things going on
+32:59 here I don't know what that's about but
+33:02 and I this is already connected but
+33:05 maybe not there we go so there's my 20
+33:07 foot setback with 10 foot side setbacks
+33:10 and then if we needed to take that step
+33:12 further and say maybe one side is a five
+33:14 foot setback we could add to that five
+33:16 foot setback line the last kind of Step
+33:19 that I like to do every once in a while
+33:21 is I like to create this fill right so a
+33:23 way to do that fill is you're going to
+33:25 copy paste hold your lot open it this is
+33:30 where we're going to not show length and
+33:33 angle and we're going to delete our
+33:35 macro and then we can take this and
+33:39 subtract it from that main one right so
+33:42 one of these is reporting these numbers
+33:44 the other one is not so here's our
+33:46 subtraction there we go now we can take
+33:49 this and create a fill from that
+33:53 right so maybe you want to have an
+33:55 angled hatch fill
+33:57 that's maybe 12 in width and a
+34:00 transparent background um and in this
+34:03 case I didn't grab the right
+34:06 one there we
+34:12 go oh and this already has a fill look
+34:14 at that no transparent background bam so
+34:17 here we go here's our lot we've got our
+34:21 designations on there there's one that's
+34:23 duplicate on there keep that in mind
+34:26 somehow that's still showing up some
+34:28 numbers that I don't want it to show
+34:33 up there's a one more in here that's
+34:36 what's
+34:37 happening you can always move this stuff
+34:40 out of the way if you need to right we
+34:43 can always move this some known
+34:45 amount 6,000 sure just so we can see
+34:49 where that duplicate number is
+34:51 happening and in this case I actually
+34:54 don't see a duplicate number so maybe
+34:56 I'll see
+34:59 things here we go so that's looking
+35:03 pretty sharp now I happen to not need
+35:05 these setbacks so I'm just going to get
+35:06 rid of them I only needed that
+35:08 lot that's all I needed in fact I don't
+35:11 even need to show a site map at all for
+35:14 this one I'm only using this for
+35:16 analysis just to show in existing
+35:19 conditions so if I did it
+35:23 right um I deleted the portion that that
+35:27 shows the calculation percentage of
+35:29 coverage assistant coverage new coverage
+35:31 yeah I'm not showing my far area reach
+35:34 so all right hopefully you learned
+35:36 something from that um that was a lot
+35:38 that's pretty extensive video there so
+35:40 um let me know if you've got any
+35:42 questions if you're running into any
+35:44 issues using anything that we outlined
+35:53 [Music]
+35:55 there

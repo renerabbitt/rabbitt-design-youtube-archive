@@ -1,0 +1,753 @@
+Title: Add Render To Google Street View In Chief Architect X16 and Photoshop
+URL: https://www.youtube.com/watch?v=Y_OBWKT-pl8
+Visibility: members-only
+
+0:00 what's going on VIP um let's do a little
+0:04 let's see if we can't do a little Google
+0:06 Street View replace for a client just to
+0:09 do a quick visualization that looks
+0:12 pretty good we're going to be using
+0:13 Chief Architect we're going to be using
+0:16 Photoshop and I want to do this and I
+0:18 only want it to take 15 minutes and so
+0:22 what do I do to make something only take
+0:24 15 minutes um I'm going to pull a view
+0:27 I'm using the Pro Plan stuff's a little
+0:30 set up in the Pro Plan I'm using my full
+0:32 Library got a lot of great materials
+0:34 there so when I pull an exterior
+0:36 rendering um it's it's going to look
+0:40 good enough for what I need so my end
+0:43 result here is that I want to take a
+0:45 view and take a shot and then um overlay
+0:50 this on top of um the actual street view
+0:53 of the property okay and so I got to do
+0:56 a couple things to set up in this
+0:57 particular shot um I have plants turned
+1:01 off so I've got a few plants in the
+1:03 front yard here I don't know that it
+1:04 matters to have them on or off because I
+1:06 might not include them but let's just
+1:08 check that out and then want to get into
+1:10 my Google Street View and so there it is
+1:13 this is where this project is going and
+1:16 so I specifically want to um kind of
+1:20 push this shot around to get it to be
+1:23 almost a parallel shot like I'm looking
+1:26 at this telephone pole on the left hand
+1:28 side even though it's very barely
+1:30 visible um and then you can't really
+1:33 position yourself to square up to the
+1:35 house unfortunately so that's something
+1:39 I might have to do in Photoshop after
+1:41 the fact so what I'll do first is I'll
+1:45 just take a screenshot of this and we
+1:47 can go ahead and screenshot the whole
+1:49 thing cuz it's always nice to be able to
+1:51 come back and crop things out or cover
+1:52 things up as needed and then I'm going
+1:54 to switch to photoshop contrl n for new
+1:58 and we're going to see that the
+1:59 clipboard
+2:00 is what's shown here which is an awesome
+2:02 thing in Photoshop so we just get to hit
+2:04 enter and controller command V if you're
+2:06 on a Mac um and there we go we got the
+2:09 street view and it's put in place now
+2:10 the next thing I want to do is I kind of
+2:12 want to straighten this out there's a
+2:14 number of different ways you can do that
+2:16 um I'm going to get into the filter menu
+2:20 and then you could do adaptive wide
+2:21 angle or do lens correction actually
+2:24 prefer lens correction for this
+2:25 particular workflow let me shrink this
+2:27 down so we get it in the screen and then
+2:29 I'll come over here to custom okay and
+2:33 what I'm looking for here is I want to
+2:35 make sure that this house looks squared
+2:38 up to my shot now right now the street
+2:41 actually looks pretty squared up the
+2:43 house actually looks pretty squared up
+2:45 as well so the thing I might do is it
+2:48 looks like it's got a little bit of an
+2:49 angle here maybe 05 and let's go
+2:52 negative .5 or you can click and drag
+2:55 there we go now my roof line is a little
+2:57 bit better and then this is kind of
+3:00 showing us
+3:02 that that street is a little bit off and
+3:05 so what I'm going to do is I'm going to
+3:06 move this in the horizontal perspective
+3:09 okay and it shows you preview if you
+3:12 drag to the left it's going to pitch
+3:14 that left side away from you as the
+3:16 viewer drag to the right it's going to
+3:18 pitch that right side so I actually want
+3:20 to pitch that right side in away from
+3:23 the viewer okay so I'm going to click
+3:25 and drag right just a little bit and
+3:27 I'll I'll kind of exaggerate this so you
+3:29 see
+3:30 actually it's not all that bad the house
+3:33 is really looking squared up it's just
+3:35 the street that's not looking squared up
+3:37 so if you have this kind of an issue
+3:40 there are some other ways around this
+3:41 let me go the other direction just to
+3:43 show
+3:45 you and here you can kind of see that
+3:48 the house is pitched away from us on the
+3:51 left hand side now considering we're
+3:53 going to overlap this with our new image
+3:56 that might not be a bad move it might be
+3:58 a better move to make sure that the
+3:59 street lined up that telephone Po's
+4:01 lined up and leave everything else the
+4:03 way that it is let me press okay and I'm
+4:06 going to show you another way you can
+4:07 mess around with this is you can get
+4:09 into filter and get into adaptive wi
+4:12 Angle now I have not used this tool in a
+4:15 very long time
+4:17 know generally speaking how it works but
+4:20 I haven't used it in so long that I'm
+4:21 not sure that I'm very proficient in it
+4:23 so I'm going to click and drag with the
+4:25 active tool and the active tool is in
+4:27 the top leftand corner here constraint
+4:29 tool and what this does is it makes it
+4:33 so that we can pitch and kind of roll a
+4:36 guideline right so here we go I get to
+4:39 hover over this little tiny node and
+4:42 rotate and what you'll see here is
+4:44 that's actually rotating the whole image
+4:46 isn't that crazy so you can sit here and
+4:49 make a few guidelines and just by not
+4:53 touching this particular one means I can
+4:55 draw a new one in down kind of at this
+4:58 um at this section down here where I can
+5:02 pitch this
+5:05 up into being a little bit level and
+5:08 hopefully come back and Pitch this guy
+5:10 up to being a little bit level as well
+5:12 so you're almost skewing this in a way
+5:15 so you can see here this little
+5:16 retaining wall is now kind of lined up
+5:19 with that roof line right and so we're
+5:21 going to have to crop out some stuff now
+5:23 there is a crop factor you can push that
+5:25 crop factor up or down and get to the
+5:28 point where you're cropping out any kind
+5:29 of De pixels or stuff like that we're
+5:33 actually changing that focal length as
+5:34 well so we are kind of squaring up this
+5:37 front section and so maybe it's good for
+5:39 me to remove the street who knows I
+5:42 could use that tool one more time place
+5:44 this along the street and then do the
+5:47 same thing where I'm rolling that down
+5:50 to a point that's
+5:54 level and there we go now we've got the
+5:56 street level we've got that retaining
+5:58 wall level that roof Line's ah it's a
+6:01 little bit off I could probably rotate a
+6:03 little bit but I'm just going to press
+6:05 okay there we go now we can come in here
+6:08 with a crop and I want to make sure I'm
+6:09 doing a 169 ratio crop because that's
+6:12 going to be what's going to work for my
+6:14 socials that works pretty well right and
+6:17 then maybe we want to Center up the
+6:18 building now it happens to be that my
+6:20 new building is actually almost centered
+6:22 on this shot so I only want to move this
+6:24 crop over just a little bit and then I
+6:26 want to shrink this down I don't want to
+6:28 do a generative expand in this case I'm
+6:30 just going to shrink it down a little
+6:32 bit I've got some room to crop some
+6:33 things out and still get what I want to
+6:35 get so let's just press okay now bam so
+6:39 we've got a really good starting point
+6:40 now the next thing to do is we got to
+6:43 study this picture which way is our sun
+6:46 direction right so our sun direction is
+6:48 top right and it's projected towards the
+6:51 house so we want to match that and we
+6:54 also even want to match the intensity
+6:56 with our rendering now if we're really
+6:57 flying on this that last part really
+6:59 only should have taken like four minutes
+7:01 something like that okay so in my edit
+7:04 toolbar if you've got my toolbars the
+7:06 move Sun tool is down here and it's
+7:07 going to warn you that this is going to
+7:09 turn off used backdrop only all right
+7:12 and then we can click and drag our sun
+7:15 until we kind of match up that direction
+7:18 of the sunlight and you want to switch
+7:19 back and kind of see what's happening
+7:21 here I've got Long Shadows so really my
+7:25 Sun's going to be kind of looking like
+7:27 this a little bit there we go I think
+7:29 that's about right now another thing to
+7:32 note is in this shot I actually have a
+7:35 tree that's in front of my house line
+7:39 okay so it might be worth my time to
+7:42 come drop in a tree in this shot now I
+7:45 like the composition of this shot I'm
+7:47 actually just going to copy this camera
+7:48 so that I can move a new camera freely
+7:51 so I'll go ahead and get back into this
+7:53 view right here and it looks like I
+7:56 can't see that camera for some reason
+7:58 have some kind of my camera's turned off
+8:00 or something oh you know what it's
+8:01 probably way over here there it is way
+8:04 over here and I do have a copy already
+8:06 so let me open that
+8:08 up after we open this up we'll just drop
+8:11 a tree in and you have to drop a tree in
+8:13 on terrain so even though I don't really
+8:15 need the terrain in this shot I'm going
+8:18 to utilize it to be able to place the
+8:19 tree since I would like working in 3D
+8:22 and so I'm going to just type in Rd tree
+8:25 I believe I've tagged all my trees with
+8:27 that so it should be really easy to find
+8:29 and this is off to the side and um and
+8:33 there we go so I've got some trees here
+8:35 and I just need something that's going
+8:36 to create a big Shadow so you want
+8:38 something kind of tall so I'll pick a I
+8:41 got kind of a big Cedar but I want
+8:43 something really
+8:45 big if you got my tree and plant package
+8:49 remember to keep suggesting new ones um
+8:52 it's very therapeutic for me to make
+8:54 trees I enjoy it so please keep uh keep
+8:58 recommending trees trees for me to make
+9:00 and I'll keep adding to the system so
+9:02 here we go that's one tree we want to
+9:04 make sure that it's producing a shadow
+9:06 in the place that I need it to be okay
+9:08 so we need a heavy Shadow here in fact I
+9:11 might just go with a different tree
+9:13 that's got a little bit more on the
+9:18 top there we go these Cedars got a
+9:20 little bit more on the top we'll just
+9:23 replace the object hover over click and
+9:25 replace and maybe we'll just cheat and
+9:27 really pump up the size of this thing
+9:38 all right and then we can I got a hot
+9:41 key to select next side and then I can
+9:43 right click and drag which is going to
+9:45 keep that bound to that um orthogon
+9:50 projection right so it's going to move
+9:52 it um in that xplane and just keep
+9:56 working on this until I get it so that
+9:58 it's kind of covering that roof
+10:00 in a way that makes sense from the
+10:01 street view right so there's the street
+10:04 view it's heavily covering this up so we
+10:07 might even make a little copy bring that
+10:11 forward and another thing to note is you
+10:14 can always click on these select next
+10:17 sides until you get to that top side and
+10:19 then if you hold your period key or your
+10:22 X key if you haven't already changed
+10:24 your X to something else this is our
+10:27 resize option so I'm I'm uniformly
+10:30 changing the size of this tree pumping
+10:32 it way up and then let me select next
+10:34 side again right click drag and there we
+10:37 go now I've got some Shadows on top of
+10:39 this building that's looking pretty good
+10:43 all right now the next thing I want to
+10:45 do is just study the shot one more time
+10:47 get the angle right get kind of the
+10:49 height right I'm going to switch back to
+10:51 my other camera that had the sun
+10:53 Direction the way I needed it to
+10:56 be know that's looking pretty good
+10:59 let's
+11:02 say move this down just a little bit
+11:06 upward angle bam something like that
+11:09 looks pretty sharp and so what's our
+11:11 next step let's check on our settings I
+11:14 want to make sure my sample rates high
+11:16 enough 200 seems to be enough for this
+11:18 particular shot make sure your opaque
+11:19 bounces are up make sure that if you're
+11:21 in the edit active view that you've got
+11:23 your uh AMD F Fidelity FX up to that
+11:27 native resolution 1.0 maybe you want
+11:29 some sharpening or maybe we'll do some
+11:31 sharpening within Photoshop itself and
+11:34 then you could just do a screen clipping
+11:36 if you wanted to just make this bang
+11:37 bang super fast you know that would be a
+11:39 really easy way of doing it especially
+11:41 because Google Street View is really low
+11:43 resolution right so I might just do a
+11:46 little screen clip in this case I don't
+11:49 care about the backdrop maybe that's
+11:51 something that's nice about the backdrop
+11:52 versus a screen clip we'll show you what
+11:54 a screen CP looks like here bam now
+11:57 let's show you what an export does
+12:03 on the export I can choose transparent
+12:06 background if i' like okay first of all
+12:08 it's use active window size then we
+12:10 could pump it up if we really want to
+12:11 increase the resolution even it's going
+12:13 to look it's going to be you know a
+12:15 disparaging level of pixel density when
+12:18 we're comparing it to the street view
+12:19 one but um choose transparent background
+12:23 but then when you do a save file as you
+12:25 need to make sure that you're
+12:27 designating it as something that
+12:28 supports transparency like a PNG so here
+12:31 we go this is going to be
+12:34 Hawthorne before why not and let's just
+12:38 kick this into my downloads folder where
+12:40 where I save everything it's going to
+12:42 resolve our
+12:43 samples and then I should be able to
+12:46 just do a little drag and drop so this
+12:49 means I'm going to get into my downloads
+12:51 and I get the drag and drop which you
+12:52 can't see but I'm clicking on the file
+12:55 dragging and dropping into my scene
+12:57 there we go now this automatic Al should
+12:59 be turning that into a smart object I
+13:02 believe Maybe not maybe I'm incorrect no
+13:05 yeah automatically that's a smart object
+13:07 which is non-destructive workflow you
+13:09 can see that the tree is in the
+13:11 foreground but the background itself is
+13:13 gone which may be a nice little thing
+13:16 here because it makes for Less work but
+13:19 also note we've still got our full
+13:20 terrain so no matter what you're going
+13:21 to have to do some selection here let's
+13:23 go ahead and make our selection I'm
+13:25 going to use our object selection tool
+13:28 and and just kind of hover over this
+13:30 house and look at that makes that
+13:31 selection super easy then hit the L key
+13:34 for our lasso if we want and so I can
+13:37 just hold plus and just kind of lasso
+13:39 around this section that didn't quite
+13:40 get grabbed right and I'll make a mask
+13:44 we don't need to delete pixels we'll
+13:46 make a mask so we can edit it later if
+13:48 we need to and then hit our V key as
+13:50 invictor so that we can kind of drag
+13:52 this into place and take a look now this
+13:55 is scaled incorrectly for this lot you
+13:57 know the scale this is probably going to
+13:59 be something a little bit more like that
+14:01 okay and keep in mind this is not
+14:04 supposed to be a final picture I was not
+14:07 expecting to have to get a perfect shot
+14:09 here so you know it's going to have some
+14:11 problems with it and that's okay we're
+14:13 just trying to give the client a quick
+14:15 visual that's it so the next thing I
+14:19 want to do is I want to add an
+14:20 adjustment layer and so I'm going to get
+14:22 in and let me just switch my camera over
+14:24 on the other side I'm going to get into
+14:26 the bottom here where I'm adding an
+14:28 adjustment layer here and for this case
+14:31 I actually want to use our let's see
+14:35 color balance adjustment layer okay and
+14:38 so we'll click into that we'll see over
+14:40 here red Scion magenta watch as I start
+14:43 dragging this but before I start
+14:45 dragging this I want to make sure that I
+14:46 clip to the layer below only okay we
+14:49 want to make sure it's clipped to just
+14:51 the layer below you're going to see this
+14:52 little icon here another way to do that
+14:53 is hold alt and click in between the two
+14:56 layers and that makes it so this
+14:58 adjustment layer is only only apply to
+14:59 the layer below and then I can start
+15:01 moving my red Scion sliders and what I'm
+15:04 trying to do is I'm trying to adjust the
+15:06 colors so that it matches the scene and
+15:08 there you go you see as I add a little
+15:10 bit more green this starts to really
+15:12 blend in with its surroundings okay and
+15:15 that's that's really important and then
+15:18 the last thing that we might do to this
+15:20 particular shot is maybe we'll take the
+15:22 color saturation down um something's a
+15:24 little bit off in this not quite sure
+15:27 but yeah play around with this see if
+15:29 you can't get it to line up perfectly
+15:31 preserve luminosity and then of course
+15:34 you can always turn down the opacity of
+15:36 that effect right kind of jump up so if
+15:40 you just highlight the opacity and use
+15:42 your mouse wheel you can use your mouse
+15:44 wheel to click through this have a g604
+15:47 remember that you got a button here to
+15:48 make it infinite scroll or click scroll
+15:51 so you can click scroll if you've got
+15:53 one of these series of mouse
+15:56 and you can't hear me clicking but there
+15:58 we go I can adjust the intensity of that
+16:01 filter until I feel like it's right
+16:03 about there right and then I'll click
+16:05 back into the mask hit a paint brush
+16:08 tool come in here um I like to use kind
+16:11 of a sponge brush when I'm doing these
+16:14 kind of rough fade so maybe an oil
+16:16 pastel brush would do the job and so I
+16:19 can come in here and just make sure that
+16:22 you're in The Mask I was
+16:24 not there we go invert my mask and kind
+16:27 of get rid of some of this stuff and
+16:29 just make it blend as much as it can it
+16:31 doesn't need to make sense again we're
+16:33 just trying to give a visual really
+16:35 right you know obviously the staircase
+16:38 isn't something that's going to work in
+16:39 this particular shot you might go down
+16:41 to the street view layer itself grab a
+16:44 little lasso here and then do like a m
+16:47 you could do our patch tool and so if
+16:51 you click and hold on the spot healing
+16:53 brush you can get to the patch tool and
+16:55 click and drag a
+16:56 selection and so here's what we would do
+16:59 is we'd actually lasso the stairs in
+17:01 this
+17:02 case and then switch to that patch tool
+17:06 click and drag that selection over to
+17:08 this Greenery look how quick that is
+17:10 Isn't that cool right so we got rid of
+17:12 those stairs that weren't part of the
+17:14 structure here so super fast and easy
+17:17 getting to something that looks pretty
+17:19 good maybe I'll switch to this brush
+17:20 again mask out just part of this so that
+17:23 it's like looking like the tree is
+17:24 overhanging just a little bit right that
+17:27 works pretty good we obviously have
+17:29 these power lines this is when I really
+17:31 like switching to my little stylus and
+17:34 I'll actually draw on the screen right
+17:36 so I actually take my um drawing pad and
+17:40 my drawing pad is set up so that I can
+17:42 draw onto my main screen as oppos the
+17:45 drawing onto the second screen here so
+17:48 um oops and my hot keys are screwed up
+17:51 for my brush size but here's where I get
+17:53 to kind of brush this
+17:56 in right so and this is this is when I
+17:59 really like my job feel like this is
+18:02 just a nice little thing that I do um
+18:05 then I got the brush sized completely
+18:07 wrong TR
+18:10 this I'll get that power line in there
+18:13 and I'll probably come back with um just
+18:16 a solid hard brush to make this a little
+18:18 bit
+18:18 easier get
+18:21 into there we go something like that and
+18:24 now I should be able to just line this
+18:26 up um I like to have a glove on my hand
+18:29 so that you know hot days my hands not
+18:31 sticking to this
+18:36 thing and there you go I just have a
+18:39 much smoother stroke with this now if
+18:42 you don't have a stylus what you can do
+18:45 and we'll just test this out without a
+18:48 stylus is I can come in and adjust the
+18:52 um the brushes smoothing this will help
+18:55 you make straight lines so that when I
+18:58 click here there's going to be a little
+18:59 bit of lag when you use it which might
+19:01 feel strange to you but that's um on
+19:03 intent that's because I believe the
+19:06 processor is picking up the load of
+19:08 automatically smoothing your Strokes
+19:10 which makes it a lot easier to draw
+19:12 these straight lines and then also don't
+19:14 forget that you can do a click and shift
+19:16 click and that will make straight
+19:19 segments as well that's another way we
+19:21 can do this utilize this and then I do
+19:24 want to kind of get rid of some of this
+19:26 for that tree line
+19:29 you know that's about as close enough as
+19:32 I need it to be okay um last thing here
+19:36 is I might drop a little bit more of an
+19:39 exposure adjustment layer on um my
+19:43 rendering so I can come in here and add
+19:45 an exposure adjustment layer maybe I'll
+19:47 drop down the exposure just a little bit
+19:50 to kind of match the scene um you might
+19:52 want to do a little gamma correction
+19:54 which would help in which case you could
+19:56 have kick that exposure back up this is
+19:58 a really blown out shot in street view
+20:00 so um this would be a kind of a
+20:03 necessary step if you wanted to use
+20:04 street view and then once I have all
+20:06 this I'm going to do something that is a
+20:09 destructive workflow it's just something
+20:11 that I've got a habit of doing and I'm
+20:12 fine with it control shift all e makes a
+20:15 stamp of that whole entire scene a
+20:18 non-destructive workflow would be to
+20:20 select this whole entire scene and
+20:22 convert it to a Smart object instead
+20:25 okay so two different ways of doing that
+20:27 I'm just used to doing the stamp method
+20:29 but certainly could do it the way I just
+20:30 did it which is make a smart object and
+20:33 then it's non-destructive and then
+20:35 control shift a and that gets us into
+20:39 our camera raw filter let's go browse
+20:41 through some filters why not you know
+20:43 I've got some filters that I give away
+20:45 in VIP if you got those installed look
+20:48 at this I mean this is looking pretty
+20:50 good right um a few others in here
+20:53 there's one that adds a little bit of
+20:55 parallelism automatically um cin itic
+20:59 might have some interesting ones um it's
+21:01 kind of interesting you know this again
+21:04 looks like a street view shot I looks
+21:06 pretty good you know a number of ways
+21:08 you can just go through the these
+21:09 filters and really bring this back in
+21:13 right make it look accurate Isn't that
+21:16 cool so I'm going to stick with
+21:19 um stick with one of my own filters kind
+21:23 of like this one it really does look
+21:25 like it's just a street view shot it has
+21:27 a little bit of grain in there
+21:29 it's pretty cool um and then I might
+21:31 come in here adjust a few things
+21:34 honestly this looks pretty good to me
+21:36 you know it's it's just as much as I
+21:38 needed that's it like this totally sells
+21:41 the look of this house press okay sure
+21:46 sure and so let's export
+21:48 it now I want you to notice just over
+21:51 here on the right as we use the smart
+21:53 object it adds that camera raw filter so
+21:56 if you wanted to see a before after you
+21:57 can turn off the camera ra filter turn
+21:59 it back on look at that look what a
+22:01 difference that makes right the other
+22:03 thing that we could do is we come in
+22:04 here and edit and do a little Sky
+22:06 replacement so don't be afraid to try
+22:09 that out there's a little Sky
+22:11 replacement a number of different Skies
+22:13 try them out see what it does to your
+22:16 shot so let me just control shift alt W
+22:19 uncheck transparencies habit on mine um
+22:22 this is a lossless format so that's this
+22:25 is always going to be a larger file file
+22:28 size but but it's also going to have no
+22:29 compression on it if you need something
+22:31 that's more suitable for web maybe
+22:33 switch to jpeg let's export this
+22:36 Hawthorn
+22:40 after and then one last thing to note is
+22:43 if you do have the topaz lab Suite which
+22:45 I've showcased before I've shown you the
+22:47 video AI this is photo AI um I'll show
+22:51 you some very cool stuff about photo AI
+22:55 give you an example shot real quick I'll
+22:57 show you just uh
+23:00 why not let's show you this picture
+23:01 right here it's a picture of me as a
+23:03 little kid and my mom just to show you
+23:05 how incredible this software is in case
+23:06 you're interested um this is doing a
+23:09 little bit of work behind the scenes
+23:10 it's going to update in just a
+23:17 second and check that out now I could do
+23:21 a little bit of work and update this
+23:23 myself but look at this and that is my
+23:26 mom back in the 1980s that's what she
+23:30 looked like to a t did a really
+23:33 fantastic job this is my goofy butt
+23:36 right here to the right so very cool
+23:38 software so check this out I'll open an
+23:40 image I'm going to go find my export
+23:45 here Hawthorne after and maybe it'll do
+23:48 a little bit of magic who knows know I
+23:50 like to just come in here remove noise
+23:53 we can sharpen up a little bit can
+23:56 enhance the resolution if we like that
+23:58 really did seem to sharpen the garage
+24:00 doors in a way even though it added a
+24:02 few artifacts it did seem to sharpen
+24:04 everything up in a few ways and I'll
+24:07 show you one last trick hopefully one
+24:09 last trick because I feel like I could
+24:10 go on forever um let's save the image
+24:15 it's going to save it in its same
+24:18 location and then I'm going to open up
+24:20 Photoshop I'm going to get into my
+24:22 folder I'm going to drag this new
+24:25 sharpen image right on top of my other
+24:27 image and so if there's parts of this
+24:30 that I don't like like I know it added
+24:32 some artifacts here it's really easy for
+24:34 me to add a mask and then paint those
+24:37 parts out okay and get back to the
+24:40 original so this means that we can kind
+24:42 of just do some spot sharpening if you
+24:45 will if we don't like what it did to
+24:46 this tree we could take this back to
+24:48 some kind of fuzzy little thing right
+24:51 and then okay swear this is the last one
+24:55 I'm going to do a stamp this time and
+24:56 get back into camera raw I really do
+24:59 always love to check what happens if
+25:00 you're in camera raw to check out lens
+25:04 blur so we're clicking on lens blur it's
+25:07 trying to figure out what the shot
+25:08 should be it's figuring out that there's
+25:10 a focal length we're picking up the
+25:12 house in this case and so we get a
+25:14 visual representation of the focal range
+25:16 here we can visualize the depth here and
+25:19 we can even paint in Focus or blur if we
+25:23 wanted to manually adjust this um so
+25:26 maybe we'll save that for another
+25:27 another day but that's pretty cool
+25:29 that's a prettyy cool shot I want to
+25:31 definitely turn down my blur amount it's
+25:33 just going to do just a little bit which
+25:35 I think adds to this just a little bit
+25:38 and there we go final shot of course I
+25:42 should use our lasso tool get rid of
+25:45 these little artifacts over here CU
+25:47 that's going to make a big difference do
+25:50 our gender fill just don't even put
+25:53 anything in the prompt let it go it's
+25:55 going to automatically fill in based on
+25:58 the fact that we've fully encompassed
+25:59 those two elements so it knows that
+26:01 we're going to be replacing those two
+26:03 elements and then hopefully you're
+26:05 building out your library and one of the
+26:08 things you should have in your library
+26:10 is a bunch of different stacks of your
+26:12 logo so that you're always putting your
+26:15 logo stuff on here so in my library I
+26:17 definitely have well I should have a new
+26:20 version of my logo in here hopefully I
+26:21 do otherwise I need to add my new
+26:24 version of logo let's do it saying one
+26:27 more thing but here we go we got one
+26:29 more thing I like to keep my stuff very
+26:32 very organized we'll just show you the
+26:34 file structure real quick here I've got
+26:37 assets within assets I've got images
+26:40 within images I have logos and then I
+26:43 have other people's and rabbit designs
+26:45 logo so I specifically want a new style
+26:49 of logo I've been using which is these
+26:51 big ears right
+26:52 here and we can just click and drag on
+26:55 the Photoshop bam right into place like
+26:58 this this and just to make this um a
+27:01 little bit more Dynamic we know that
+27:02 this is a smart object now cuz we just
+27:04 dragged it onto the shot um so what we
+27:08 can do and I'm going to rotate that just
+27:10 slightly is because it's a smart object
+27:13 double click it get into layer Styles
+27:15 and I want to throw in a little bit of a
+27:16 drop shadow so that pops I do not want
+27:19 the size of it so large I just want it
+27:22 kind
+27:23 of just a small effect there turn up the
+27:27 opacity a little bit
+27:28 good kick the spread on totally up to
+27:31 you um maybe I'll turn down the opacity
+27:33 now so that pops and then once you have
+27:36 this set up you can just save this to
+27:38 your library in fact I would say um I've
+27:41 got an icon section here so it's easy
+27:43 for me to just drag this into Library
+27:45 make sure you name the layer first so
+27:47 that it's a layer that makes sense and
+27:50 then uh photoshop's going to prompt you
+27:52 to save it now I get to just drag this
+27:54 on as many times as I want on any other
+27:56 shot that I need so boom super super
+28:01 easy finally I'll make some cover art
+28:03 out of this
+28:05 um show you how to I'm doing my cover
+28:08 art so um I'm going to pull the rabbit
+28:10 out of this for cover art so we'll just
+28:12 turn that layer off export this real
+28:17 quick and we'll do
+28:19 Hawthorn
+28:21 final I typically name these the same as
+28:25 um the folder structure for the version
+28:27 history of of that stage of the project
+28:29 so these are unconventional names for me
+28:32 and then I'm going to open up something
+28:33 that is stored in the cloud which is my
+28:36 YouTube cover Builder and then if you
+28:39 have um my full library and you've
+28:42 installed my actions you should be able
+28:45 to just use V or move tool to select
+28:49 this background in this case and then I
+28:52 can use the action fit clipboard item to
+28:56 Canvas and press play it's going to
+28:58 automatically take a clipboard item and
+29:01 clip it to this so instead of exporting
+29:03 this shot I could actually and it
+29:05 doesn't matter about resolution because
+29:07 YouTube's going to be 1280 by 720 so
+29:09 this is already higher resolution than
+29:11 you need there we go fit clipboard to
+29:13 Canvas automatically going to fit that
+29:16 to this canvas and then all I get to do
+29:18 is just change title that's pretty super
+29:21 simple right um I change I have in this
+29:24 layer stack it's a complicated layer
+29:26 stack but I've got a a great rent fill
+29:28 here and so I'll come in here and kind
+29:30 of just work through some of these
+29:33 gradients it might be nice to have
+29:35 orange complimented color to Green which
+29:37 is the dominant color in this shot so
+29:40 having um orange text on top of it
+29:42 although I don't like these colors of
+29:45 orange but um and it's not quite popping
+29:48 so I might just come into greens maybe
+29:50 we'll do monochromatic that looks pretty
+29:52 nice bam and you can see that it's
+29:54 modifying all these things V key to move
+29:57 elements on the the screen as you need
+29:58 to work around fonts and then got to
+30:01 come up with a
+30:04 name heck I don't know but I just work
+30:08 through this into the point where it
+30:09 makes sense and I make sure that I try
+30:12 hard enough to make this thing look like
+30:13 it's should pop off the screen so
+30:16 sometimes I might you know come in here
+30:18 and make like a before after thing so
+30:20 there you go I hope you got something
+30:22 out of this video and see you next time
+30:27 [Music]

@@ -1,0 +1,1183 @@
+Title: Tricks for Forcing Ai to Add Realistic Elements Using Clip Art In Photoshop
+URL: https://www.youtube.com/watch?v=DEf1pJsgumw
+Visibility: members-only
+
+0:00 what's going on VIP I get so many
+0:02 requests for renderings nowadays that
+0:04 we're just going to keep on with this
+0:06 series and pump in some more stuff and
+0:08 also it's exciting to do these things
+0:10 with kind of like some new AI workflows
+0:13 that really help the efficiency of
+0:15 getting a rendering done very quickly
+0:17 and so here we go I've got a um a
+0:20 screenshot here this is from a friend of
+0:21 mine named Daniel Corbin he lives over
+0:23 in Hawaii he's got a team over there
+0:25 that I met over at at kiz a couple years
+0:28 ago and he posted this to a Facebook
+0:32 group now I thought why not go ahead and
+0:36 challenge myself because there are times
+0:38 when we get stuff like this and we have
+0:40 to figure out how to make this look good
+0:43 and can we and heck yeah we can um and
+0:46 so I've got some methods here and let's
+0:48 just go over them and and my workflow
+0:51 has changed drastically since the
+0:53 introduction of firefly within Photoshop
+0:55 or whatever they're calling their AI now
+0:57 and then also just utilizing Crea AI
+1:00 which I have a seat in and I I've got a
+1:02 lot of you know design hours in that so
+1:04 um so I'm just going to start one I want
+1:07 to fix the parallelism in this shot now
+1:09 you could do it a couple different ways
+1:11 um you could obviously come into our um
+1:15 our filter and get into let's see I
+1:18 believe it's lens correction or adaptive
+1:19 wide angle I always forget which one's
+1:22 which let me bring this shot into place
+1:24 and then we're going to get into custom
+1:26 and I can change the vertical
+1:28 perspective and mind you I want to zoom
+1:29 zoom out so I'm just holding alt and
+1:31 mouse wheel is is letting me to zoom out
+1:34 okay and then from here we get to go
+1:37 into our transform vertical perspective
+1:39 or horizontal perspective so I get to
+1:42 just take this slider up and there we go
+1:44 we're fixing that parallel
+1:47 parallelism the other way we could have
+1:49 done this is that we could have gone
+1:51 through and and done a perspective crop
+1:54 um I think what we just did is probably
+1:56 an easier way of doing it um the other
+1:59 thing is that this shot is is really
+2:01 long so it's like um as if this was a
+2:04 real long lens so you might want to mess
+2:06 around with horizontal perspective you
+2:08 can see one way it's going to kind of
+2:10 stretch that out the other way um I I
+2:12 think it quite improves this and then um
+2:16 notice that we lost a lot of the pixels
+2:18 right so in losing now I'm looking at
+2:21 two things I'm looking at the building
+2:23 because the building is what I want to
+2:25 look a little less long but I'm also
+2:27 looking at the car in the driveway and
+2:31 we're doing the opposite action in there
+2:33 I don't like what it's doing to the car
+2:34 so I'm just going to kind of like split
+2:37 the balance here the next thing I'm
+2:39 going to do is I'm going to decrease uh
+2:42 the scale of this and so that's going to
+2:44 bring this image fully back into the
+2:47 Forefront where you know we were
+2:48 cropping some stuff before now we're
+2:50 getting back and not cropping anymore
+2:53 and so then what we'll do is we'll just
+2:55 do a generative fill on those areas to
+2:57 get that back okay so that kind of fixed
+3:00 the parallelism I'm liking how this is
+3:02 looking let me go ahead and press
+3:05 okay and then we can obviously take um
+3:07 our tools like the the um let's see just
+3:12 a magic wand tool which is boy I don't
+3:16 know why I'm feeling a little rusty or
+3:18 hazy today there we go magic wand tool
+3:20 so you could to hit shift w a couple
+3:22 times to get to that and there we go I'm
+3:24 selecting that blank area and then I can
+3:27 just do a generative fill and I don't
+3:29 actually need to let me select that area
+3:31 do generative fill I don't actually need
+3:33 to put any kind of prompt we could just
+3:35 let it go and so it'll fill based on
+3:38 what it sees you know in their
+3:39 surrounding area now there's a couple of
+3:42 things I know about Ai and and kind of
+3:46 the problems with AI and and where AI is
+3:48 going to get very confused about what
+3:50 it's even looking at and so I want to
+3:53 kind of fix those things and that look
+3:55 at that that Phil did a pretty good job
+3:57 on the whole um so one is that we could
+4:02 try to gen fill in some plants here it's
+4:05 been my experience and you know correct
+4:08 me if you're better at this than I am
+4:10 I'm I'm fine with that but it's in my
+4:12 experience that if I gen fill some area
+4:14 here with something that didn't exists
+4:16 there it's not going to do that great of
+4:17 a job so if I took the lasso here put in
+4:21 that I want a yucka cane
+4:24 plant I think it's probably going to do
+4:27 an awful job and and that's just been my
+4:31 experience maybe it's that I need to
+4:34 learn how to do better prompts for um
+4:36 photoshop's gen AI but I have other
+4:40 methods for this that can improve this
+4:42 it actually did better than I thought I
+4:44 thought it was just not even going to do
+4:45 anything at all tell you the truth um
+4:48 but it's still not what I want what I
+4:50 want is a kind of thick brush yucka cane
+4:53 like a lot going on there and then I
+4:56 also don't think it's going to figure
+4:58 out kind of this potted plant that we've
+5:00 got going on here so what I'll do is
+5:03 because I know Korea's AI is really good
+5:06 what I'll do is I'll just bring in some
+5:09 like screen clipping stuff that I'm
+5:11 going to find on the net so this would
+5:13 be a different way of doing this and
+5:14 this works well like I know that this
+5:16 works well so this is something I've
+5:18 done for a very long time um let me just
+5:21 do that search real quick uh very long
+5:25 time where I've taken kind of like um
+5:28 clip art and brought into a scene and
+5:30 then adapted uh via color balance via
+5:34 exposure
+5:35 um doing a little highlights I've made
+5:38 something fit the scene and look
+5:40 realistic now that's very timec
+5:42 consuming but this is where that AI
+5:45 really brings in um some efficiencies so
+5:49 and what I want is yucka exterior
+5:52 foliage or something like that and we're
+5:55 just going to get like some some kind of
+5:58 dense scene somewhat like
+6:01 this
+6:03 um let's see I'm going to look through
+6:05 just a couple of these there we go I
+6:07 kind of like this right here it's really
+6:09 low resolution so keep that in mind but
+6:13 the AI stuff will kind of fix that
+6:15 anyways so I'm not too worried about it
+6:18 um so I could grab any one of these
+6:21 let's just copy this image right just
+6:24 hit copy image switch back to my
+6:26 Photoshop scene paste it in here um I'm
+6:29 going to contr T to transform it I'm
+6:31 going to flip it horizontally and I'm
+6:33 going to get it into this shot over here
+6:35 is where I want it and let's scale it
+6:37 down a little bit and so it's going to
+6:39 be just in this little area over here is
+6:42 what's going to happen now I'm on my pen
+6:45 tablet and that's going to make things a
+6:47 lot easier for me um because I'm going
+6:49 to have to kind of Trace some stuff out
+6:51 but in the meantime let me get the
+6:54 object selection tool and let me see if
+6:56 I can extract kind of the yucka cane
+6:58 from this and then create a mask okay so
+7:02 that masked that out it did an okay job
+7:05 um and now I'm going to take my my
+7:08 stylus and I'm going to do a little bit
+7:09 of hand um drawing here and just hit my
+7:12 b key and I'm going to paint into this
+7:14 Mask real quick and mind you if I'm
+7:17 going for you know efficiency there's
+7:20 probably some other ways to do this like
+7:21 the refined selection tool but I have a
+7:24 3D mouse in my left hand I have my
+7:26 stylus in my right hand this is so easy
+7:29 for for me to come in here if I've got
+7:31 this set to pressure sensitivity I could
+7:33 just kind of scale this down and just do
+7:36 a light little brushes like this and do
+7:39 little whips like this and kind of just
+7:42 catch this out now I don't need to be
+7:44 perfect with this that's the beauty
+7:47 right is because we're going to send
+7:48 this to ai ai is going to figure out how
+7:51 to fix this so it used to be that I
+7:53 would have to be really really diligent
+7:55 about making this perfect nowadays I
+7:58 just don't need it because I just get to
+8:00 let it do its work so I'm just going to
+8:03 do some quick
+8:04 little kind of spikes there that's real
+8:10 easy and I love anytime I don't do a lot
+8:14 of videos where I break out my graphic
+8:16 pen tablet but when I use this boy I'm
+8:19 just happy it's very fun to
+8:22 use and it's you know relatively inex um
+8:25 inexpensive for what it was and if
+8:27 you're a rendering artist and you're
+8:29 using in Photoshop it's just that is the
+8:32 next upgrade right is a pen graphic pen
+8:35 tablet so I get to just draw right on
+8:38 the screen right at what I'm looking at
+8:40 so this is a really cool
+8:42 thing and you can see here I'm just
+8:45 making sure that we still kind of see
+8:47 spikes that part's going to be
+8:51 clear
+8:53 right and so there we're getting there
+8:55 let just get rid of some of this stuff
+9:00 the last part of this and actually let
+9:02 me just switch
+9:05 my only problem with my graphic pen
+9:07 tablet is I can't see
+9:09 underneath can't see underneath my
+9:11 screen to kind of see the buttons I need
+9:13 to press sometimes I don't have them on
+9:15 my on my little setup here so there we
+9:20 go right and so the next thing I want to
+9:23 kind of do from there is I just masked
+9:25 that we want to make this improved we
+9:27 could do a couple things we could and
+9:29 this just sets us up for Success mind
+9:31 you is that I'm going to come in here
+9:33 and do color balance okay and then we're
+9:36 going to make sure that it's um clipped
+9:39 to the layer below only and or we could
+9:42 have done Hue saturation but there we go
+9:44 I'm bringing that color back into kind
+9:46 of what's happening in the scene here
+9:48 and really probably could have done all
+9:50 the work just with a hue saturation
+9:51 adjustment layer so we're going to clip
+9:53 that down there as well and then pull
+9:55 that saturation kind of out and then
+9:57 maybe we're even lightening this up just
+9:58 a little bit B to kind of match that
+10:02 scene there we go one last thing I want
+10:05 to do is I want to select the mask and
+10:07 then in my uh properties panel down here
+10:09 which my face is covering let's see if
+10:12 we can't fix
+10:13 that
+10:15 um let's kick there there we go um so
+10:18 down here at the that um properties
+10:21 panel we can just ride this feather up a
+10:24 little bit okay and Watch What Happens
+10:26 is it's just going to soft soften that
+10:30 that mask up around these leaves it's
+10:32 pretty
+10:35 cool I think I'm okay with how this
+10:37 looks right now that's fine if you
+10:40 really wanted to go a little bit
+10:41 overboard I'd say come in with the blur
+10:43 tool and you would just blur a little
+10:46 bit on this
+10:49 guy now I'm blurring way too much need
+10:52 to take that strength way down but yeah
+10:55 I would just come in and just blur just
+10:56 a little bit and it softens it to the
+10:58 scene and now it looks like it's part of
+11:01 the scene and that's all we needed we
+11:04 didn't need it to be perfect because the
+11:06 AI is going to figure out what to do
+11:08 there sweet let's switch to a little
+11:11 lasso grab this let's say it's a potted
+11:21 plant that'll be done in just a second
+11:32 that was a terrible that was
+11:36 terrible um yeah let's try that
+11:40 again large
+11:43 potted um plant native to
+11:50 Hawaii at first attempt man it was a bad
+11:53 but adobe's gen Phil really could use
+11:56 some help I'm telling you um and mind
+11:59 you it's it's being put underneath this
+12:02 layer stack so it's getting clipped and
+12:03 affected by those adjustment layers so I
+12:05 need to recp those a little bit right
+12:09 and
+12:11 so what's going on with our parted plant
+12:13 this
+12:14 time and we're not getting much out of
+12:16 this that I like um but we can leave
+12:20 this this might be another perfect
+12:22 example of of a clip art so we can just
+12:25 do a large botted
+12:29 tropical plant
+12:33 exterior and another thing that you
+12:35 could try to search for is just um
+12:38 landscaping design right where you're
+12:40 just looking at someone else's
+12:42 Landscaping instead but I don't know I
+12:44 kind of like
+12:46 this almost you know it's not the quite
+12:49 the right perspective though so that's a
+12:51 little bit tough um we could try to fake
+12:53 it into place and see if the AI will fix
+12:56 it that would be a good challenge for
+12:57 the AI but really you're going to get um
+13:01 a better run for it with something like
+13:03 this right so let's just copy this
+13:08 image paste this in there we go uh let's
+13:12 do a little automatic selection
+13:15 right and now I'm just going to control
+13:18 J It Forward which is destructive okay
+13:21 and so that's what I got left
+13:23 with
+13:25 oops and then control T get this into
+13:28 place
+13:29 something like that um kind of the same
+13:33 thing we could try to get it to fit the
+13:35 scene or not you know um doesn't really
+13:39 matter right and if I kind of get rid of
+13:42 this and just um do a little stamp
+13:46 over I'm going to stamp this
+13:50 original and again I'm going to go very
+13:53 destructive workflow which is control
+13:55 alt shift e I'm stamping the whole scene
+13:57 forward that just is basically saying I
+14:01 I don't care about the state of the
+14:02 scene before I just did that it's not
+14:05 very great if you want to share your
+14:06 work and share um your whole stack
+14:08 something like that so it's it's ill
+14:10 advised is what I would tell you but I
+14:13 don't care um because I know where I'm
+14:15 going to end up with this I'm going to
+14:16 end up in a pretty good spot so um here
+14:20 we go I'm just kind
+14:21 of just kind of Faking this thing out of
+14:27 there right I'm doing a really bad job
+14:31 of just making that all disappear and
+14:33 maybe I just pick up some plants from
+14:36 over
+14:38 here right something like
+14:41 that and you can see here terrible job
+14:44 right doesn't matter it's going to get
+14:47 fixed that part's going to get fixed
+14:49 same with
+14:51 this all this is going to get
+14:57 fixed there we go
+14:59 so I just got rid of that
+15:01 plant going to drop in this one
+15:04 instead
+15:05 right um kind of the same thing as I
+15:08 could take these
+15:09 plants control Jam
+15:12 forward bring it up the stack bring it
+15:15 over
+15:17 here
+15:19 and I'm just going to alt it over contrl
+15:24 T flip it horizontal make it Matt up
+15:28 with it itself and we're just faking
+15:31 some additional plants
+15:33 here and shrink it down get this foliage
+15:37 in
+15:39 here shrink this
+15:42 down and there you
+15:44 go I just got like a corner little plant
+15:47 set up now right super simple super easy
+15:51 let's join these together group them
+15:54 stamp it and I can mask
+15:57 it by the way that's contrl
+16:00 G um control e and then I came in with a
+16:04 mask just to get rid of this these
+16:06 little parts right here all right how we
+16:09 looking so far this is pretty
+16:13 good I know that sounds funny I'm saying
+16:16 it looks pretty good but it looks pretty
+16:17 good because I have an idea where this
+16:19 is going to go so um let me get rid of
+16:22 this galaxy
+16:27 s24 right we got the little Ferrari down
+16:30 here cool um I'm not too worried
+16:34 about this but let's just kind of get
+16:37 rid of
+16:39 that okay last thing I want to do let me
+16:42 go ahead and stamp this again forward
+16:44 control shift e stamping that forward
+16:45 control shift a I'm going to take this
+16:47 into a camera raw filter let's get the
+16:49 camera raw filter on our screen so we
+16:51 can see it and then I want to get down
+16:53 here and I really want to kick up noise
+16:55 reduction I'm going to try to get rid of
+16:57 this striation which is coming from some
+16:59 taking a picture of their screen right
+17:02 and so we're going to take color noise
+17:03 reduction way way up and and so this
+17:06 really just softens the whole scene
+17:10 scene looks terrible right now right but
+17:13 that's okay I'm trying trying to get rid
+17:15 of that little station because we don't
+17:17 want to pick that up in the AI we want
+17:19 the AI to understand that it's not
+17:20 supposed to be doing that right and then
+17:23 we'll kick up sharpening now to try to
+17:25 get some of this um foliage back and we
+17:28 might pick up texture as well and
+17:30 Clarity to try to get all that back as
+17:32 well um not worried that it's overdone
+17:35 here that's okay and then you know um
+17:39 get some Dynamics in the shot and then
+17:42 here's an opportunity to do um a sky
+17:45 replacement right now so that then the
+17:47 AI is working with the sky replacement
+17:51 so little bit of Sky
+17:54 replacement nice sunny cloudy day that's
+17:57 looking pretty good
+18:00 um I do like that one as
+18:03 well maybe not so
+18:08 blue that looks pretty nice I'd say I
+18:12 like it sure and so let's kick this out
+18:16 and see what it does now let me fix one
+18:18 more thing real quick just going to get
+18:21 rid of this little spot
+18:22 there um I wish this looked more like a
+18:25 driveway entry but I'm not too worried
+18:27 about it we're going to see you know
+18:29 what that does later on um I'm going to
+18:32 try to just do a soft brush into this
+18:35 little section here CU it just looks a
+18:38 little bit messed up I'm not sure what
+18:41 that is but I'm sure that it's glass so
+18:43 we're going to try to pick up that
+18:45 that's glass
+18:47 maybe or oh you know what it is it's
+18:50 sunlight hitting that portion of the
+18:52 glass from Beyond so that's what's going
+18:54 on there so let me export this control
+18:57 shift w that's on a second screen mind
+19:00 you I'm exporting it as a PNG file I'm
+19:03 saving it as a
+19:05 screenshot
+19:06 prep don't worry about that it's getting
+19:09 saved on um to another screen and we're
+19:11 just going to bring in um r.
+19:17 a go into the dehance now mind you I've
+19:20 done a workup on this before so you're
+19:21 going to see a little bit of that but
+19:24 let's get in and do here's that
+19:26 screenshot
+19:27 prep I was doing a different a night
+19:31 scene with it but this time we're just
+19:32 going to stick with the day scene and so
+19:35 here we go I'm going to pump up strength
+19:37 I'm going to leave resemblance down just
+19:39 a little bit um because we need it to
+19:41 kind of fix some things right and then
+19:44 Clarity let's leave it up let's do one
+19:47 let's do one with Clarity down let's do
+19:49 one with resemblance up let's do one
+19:52 with resemblance way way down and I like
+19:56 to do these couple different shots
+19:58 because
+19:59 it's a true pixel toxel ratio so that
+20:02 means I can drop in these things and
+20:04 just mask out parts so one where we've
+20:08 got um resemblance way way down it might
+20:11 be that we catch something in there
+20:13 that's really interesting and looks good
+20:16 and is accurate for just one part of it
+20:18 all right and so then we can mask that
+20:20 in so that's a really cool part of this
+20:23 in
+20:24 workflow let's review while this is um
+20:28 busy doing its thing is that we took a a
+20:31 shot that was a screenshot right we um
+20:35 fixed the perspective on it we kind of
+20:38 pushed the perspective a little bit so
+20:40 that we're getting a little bit more of
+20:42 like an Pro architectural shot it's not
+20:44 such an elongated lens okay not like a
+20:48 telephoto lens or something like that we
+20:50 brought in some foliage where there was
+20:52 just grass and that was just a screen
+20:54 clipping right we grabbed that screen
+20:57 clipping put it on the other side as as
+20:58 well uh we fixed a little you know uh
+21:02 some logo from the Galaxy s24 that the
+21:05 phone you know shot was taken from um we
+21:07 fixed some foliage on the right hand
+21:09 side we replaced the sky notice I did a
+21:12 terrible job of replacing the sky look
+21:13 at the palm trees over here didn't get
+21:15 fixed um and so that's that's where
+21:18 we're at and then we kick this into AI
+21:21 let's go take a look at what AI
+21:26 produces all right this is looking good
+21:30 so um this is very painterly you know it
+21:33 it fixed that problem that I didn't fix
+21:35 in the palm trees up in here in the left
+21:37 hand side so that's really cool um it
+21:41 did a pretty good job of of all this the
+21:44 plants on that right hand side um it
+21:46 stayed very true to the overall shot
+21:49 that's really cool um you know that I
+21:52 don't really like what's going on here
+21:54 something's a little bit off over here
+21:55 but that's easy enough to fix so this is
+21:57 that first one looks pretty good um we
+22:00 can see that striation that that texture
+22:04 in um right here in the in the pavement
+22:08 right so that's not good we should have
+22:09 gotten rid of that let's take a look at
+22:11 this next
+22:14 one next one's good I mean look at this
+22:18 it fixed the floor here that's good this
+22:21 is with Clarity down okay so it fixed
+22:24 the floor great
+22:31 again this is a little little too
+22:33 painterly for me I don't like this
+22:35 one take a look at this last one whoa
+22:38 and then it went a little bit overboard
+22:39 here this is what we're talking about
+22:40 his resemblance has kicked way way down
+22:42 on the shot but what I love is this over
+22:45 here look at the plant look at that look
+22:48 at that this area over here which looks
+22:50 pretty good in this
+22:52 shot yeah it does look really good in
+22:54 this shot
+22:56 but I don't know something about this I
+22:58 immediately like very doomsday esque
+23:01 over here it's very industrial um the
+23:05 other thing that I love love love love
+23:08 about this shot is look at this whole
+23:11 section here this looks really good all
+23:15 right in here so good opportunity to
+23:17 kind of steal some of this and bring it
+23:19 in so we're going to download this
+23:22 one
+23:24 and I think we're definitely downloading
+23:26 this one
+23:29 and then let's just take a
+23:33 look wa this one's real clear I like how
+23:35 clear this is let's download it as
+23:39 well I'm going to end up just starting a
+23:42 new Photoshop file with this I don't
+23:44 think I need to grab from the original
+23:46 at
+23:47 all
+23:48 um here's the original did it lose
+23:51 anything in the original I don't think
+23:54 so so I think we just get to start a new
+23:56 file a lot of times we want to leave the
+23:58 original one we're going to AI because
+23:59 we might need to mask in something from
+24:01 the original that the AI screwed up in
+24:04 this case I'm not going to be worried
+24:06 about it so we're going to grab this
+24:07 enhanced one there we go that's that
+24:11 kind of crazy looking one and then I
+24:13 just get to come in here this is my
+24:16 method this is how I've been doing it
+24:17 for years um there might actually be an
+24:20 import function I've just never used it
+24:23 so I always just come to my folder
+24:25 structure and then drag and drop okay
+24:27 and I just get to hit enter and get back
+24:30 to that folder structure and drag and
+24:32 drop again all right so there's that
+24:35 last one so this is probably the good
+24:36 one here um let me unlock that
+24:38 background layer let me bring it up this
+24:40 is the crazy one and we're just going to
+24:42 do a mask right off the bat we going to
+24:44 invert the mask and I want to just start
+24:47 painting in over here because this is
+24:50 where I was really interested in what
+24:52 was going on
+24:53 so yeah love love love love that what's
+24:58 going on there and same thing all this
+25:01 over here you know and I'm not using my
+25:04 pencil or my stylus I will be in a
+25:07 second um to get this real tight but
+25:10 just going to go kind of loose right
+25:13 now and yeah that just looks that just
+25:17 looks really
+25:18 good right it just looks really good so
+25:22 I like what's happening there obviously
+25:24 going you know fix that mask let's grab
+25:27 over here
+25:30 kind of like what's happening there as
+25:33 well um we can't go overgrown so we're
+25:37 going to have to kind of cut that back
+25:40 and then what do I get to do
+25:42 here yeah I think I really liked What's
+25:45 Happening
+25:47 Here look at
+25:49 that what does that look cool already
+25:53 this is looking very
+25:55 cool
+25:57 so something I can do with the sky and
+25:59 this whole section here right is I can
+26:02 just change the opacity so I'm going to
+26:04 flip um just the X key so you know this
+26:08 is what I'm doing I'm flipping X key X
+26:10 key X key X key right and then the next
+26:12 thing I'm doing in case you didn't know
+26:14 is I'm going to hit the three key gives
+26:16 me 30% 4 key gives me 40% so that means
+26:20 opacity of this brush and then soften
+26:23 this brush up right I'm holding alt
+26:25 right click dragging my cursor up to get
+26:28 a real soft brush get in real tight here
+26:31 and then I'm soft brushing this and I'm
+26:33 clicking it a couple times to get that
+26:36 portion of foliage back in and I'm just
+26:39 look at that I'm blending that hard line
+26:42 that was coming from the tree there and
+26:46 this section right here and just blend
+26:48 this back um obviously I got to switch
+26:51 this up hit the zero key to get rid of
+26:53 this kind
+26:55 of palm this is where I really want to
+26:58 come in with my
+27:00 stylus
+27:01 right come in with a stylus get that
+27:04 nice and tight X key three
+27:08 key soften that brush
+27:10 up and hit this a couple times until it
+27:14 Blends really nicely now another thing
+27:16 to note about this workflow is what I'm
+27:19 what I end up doing is I end up coming
+27:22 back to the
+27:23 AI and reprocessing it once I've got my
+27:27 shot all
+27:29 done okay so once I feel like my shots
+27:32 complete and I've got it exactly the way
+27:34 I want it to be I'm I'm leaning on the
+27:37 AI to fix other little discrepancies
+27:39 that I don't want to take the time to
+27:41 perfect is typically I would have to sit
+27:44 here and really perfect these masks in
+27:47 so there we go like this little guy
+27:49 right here where we've got some kind of
+27:51 Branch here I could probably just leave
+27:54 that to Ai and it's going to fix
+27:56 it right so I don't have to worry about
+27:59 this too much makes it just really
+28:02 really
+28:03 simple look at that that looks
+28:07 great and the same thing over
+28:11 here just using my mouse this time just
+28:14 clicked it a couple times got rid of
+28:15 that cool now this isn't perfect see
+28:18 that's not a perfect blend but because
+28:21 we're going to send it back to AI that
+28:23 AI will fix it right and then obviously
+28:27 we're going to come in here with a
+28:28 let's start with a just a sharp line
+28:30 here and I'm going to use my
+28:32 stylus
+28:34 and get a real hard
+28:40 brush and oh that's too bad look at that
+28:44 it's going to be a tough one so I'm
+28:46 going to use a stamp right when I hit
+28:48 the bowl right there is when I hit that
+28:51 bowl we use a stamp to fix
+28:54 that so we just want that
+28:58 this to look like there's a path
+29:02 here and we can kind of blend these
+29:09 two and can we get some cut between the
+29:12 two here let's just try to find a happy
+29:15 medium where these all
+29:20 coexist we want
+29:23 this this to live here
+29:31 so again because I'm sending this back
+29:33 through AI I don't need this to be
+29:36 perfect I can get the AI to figure out
+29:40 how to make this look right right so
+29:44 that's all I need I just need it to look
+29:45 like there's a path there so then when
+29:48 we send it back to AI it'll fix
+29:51 it
+29:52 okay and then I think we
+29:55 liked think we liked our road better
+30:05 before here we
+30:07 go right I think we like this road
+30:09 better on the kind of the DraStic one
+30:12 let's get away from this car a little
+30:16 bit yeah that road looks better
+30:19 certainly
+30:36 beautiful yeah don't need to do perfect
+30:39 here don't just need it to look good
+30:43 enough for that AI to figure this
+30:51 out right this isn't perfect this is not
+30:54 perfect
+31:06 and so something I want to do here um to
+31:08 kind of bring this up a little bit oh
+31:10 look at this
+31:11 goofiness
+31:21 just you know this is a great um
+31:24 opportunity to get in and get like a
+31:26 foliage brush
+31:29 and you can find these online for free
+31:32 um let's see oil brush Wet Brush special
+31:34 effects brushes let's see if I can find
+31:36 one real quick dirt dust and grunge will
+31:38 a lot of times get me
+31:41 there fog
+31:45 clouds lighting effects no moons and
+31:48 planets
+31:50 plants here we well that's not going to
+31:54 get it I think rain will actually get me
+31:57 there
+31:59 this rain is literally this there we go
+32:02 right so I can come in here with a brush
+32:07 and maybe maybe that just cuts in and
+32:11 leaves some of that foliage
+32:13 right a little easier to kind of cut
+32:16 this up um it's nicer if you have
+32:19 something that follows
+32:21 directions so like one of these flat
+32:25 points
+32:28 here we go this is a directional Point
+32:32 tool so depending on which way you're
+32:35 drawing your brush it will adjust its
+32:39 points
+32:43 accordingly there we go so making it
+32:45 really easy to mask things like all this
+32:47 foliage right here I using the right
+32:50 term foliage is the right term I'm using
+32:52 it I'm leaning on it heavy so that makes
+32:55 me doubt that I'm saying it right
+32:58 okay so that's all looking pretty good
+33:01 this is almost ready to send back into
+33:03 AI all right now the next thing I want
+33:05 to do is I'm going to take a little
+33:07 screenshot here of let's just screenshot
+33:10 this
+33:11 whole yeah screenshot this whole section
+33:14 here okay and then I'm going to paste it
+33:17 back in which I don't know why that
+33:19 didn't save to my clipboard just try
+33:22 that again paste it back in all right
+33:24 now here's what I want to do is
+33:29 let me just make this disappear for a
+33:31 second I'm going to to the lasso tool L
+33:34 key um shift L and this is going to get
+33:37 me to this guy right
+33:40 here where this is all glass right this
+33:44 is all
+33:51 glass so I want this reflection of this
+33:56 this Porsche to be in that that glass
+33:58 that's what I
+34:00 want so I've got that selection made I
+34:04 get to mask okay and then now that I
+34:07 have the mask let's unlink the mask and
+34:11 what does that make it
+34:12 so what does that do it makes it so that
+34:15 we can transform the source oops make
+34:18 sure you select the
+34:20 tech I don't know when I paused but I
+34:22 paused a while ago I'm pretty sure I hit
+34:24 the wrong button and I paused and so
+34:27 I've been talking this this whole time
+34:28 and I don't know where I left off and
+34:30 that's just such a
+34:32 shame um but I'll try to catch you
+34:36 up I don't know if it's worth posting
+34:39 this video now because I paused a long
+34:41 time ago trying to hit the wrong
+34:47 button so I'm in a camera raw filter
+34:50 here
+35:13 I'm just doing a couple little touches
+35:15 before I send this to
+35:17 Ai and just tweaking
+35:22 highlights let's
+35:25 go a little bit of warm tones in there
+35:27 want in the
+35:29 shadows what do we want I like to go
+35:32 kind of extreme first to kind of see
+35:34 where I'm
+35:35 at
+35:40 then I want to do Shadows last actually
+35:43 let's go midtones
+36:00 I'm want to stay in the blues for the
+36:03 midtones keep it kind of
+36:15 subtle Shadows I don't know that I
+36:18 should even
+36:20 touch and then
+36:22 blending just kick it down just a little
+36:25 bit and balance
+36:30 yeah that looks pretty good kick
+36:33 sharpening up a little bit more so I'm
+36:36 not sure where I paused let me try to
+36:38 come back and kind of explain the last
+36:41 few things I did um I definitely came in
+36:45 and um I did a screen clipping of the
+36:51 Porsche and then I put a mask on this
+36:55 glass and from there I
+36:58 unlined the glass layer from that image
+37:02 the screen clipping of the Porche so
+37:04 that you can sit here and move it and
+37:06 it's only ever going to be Clips to that
+37:10 glass all right and you not only that
+37:12 but you can resize
+37:14 it right so you're resizing it to that
+37:17 glass and that's all to just get this
+37:19 kind of reflection there that's all I'm
+37:21 looking for so that's pretty slick right
+37:26 um let's go ahead and kind of put
+37:35 that put that back in and I'm going to
+37:37 I'm going to stamp this one more time
+37:39 because I actually like this reflection
+37:40 I just created better than the one I had
+37:48 previously I kind of like that
+37:50 perspective and so I can control shift e
+37:53 stamp this forward and I can just go
+37:55 into filter and select camera ra filter
+37:57 and it's going to apply that last filter
+37:59 that I just did so there's our shot and
+38:03 there's so there's some problem areas
+38:05 couple things to note you know there's
+38:07 big problem areas right here where we
+38:09 didn't just we just didn't clean it up
+38:11 that well um we softened a lot of things
+38:14 you know obviously some problem areas
+38:16 here we could just come in with a blur
+38:18 brush real quick and try to just kind of
+38:21 touch those up and set that strength to
+38:24 something real high and heavy so that it
+38:26 just
+38:28 gets rid of that or just stamp it if we
+38:30 want to and just get rid of
+38:34 that right that's going to clean that up
+38:36 real
+38:43 easily and so there's some problem areas
+38:46 in the foliage
+38:48 here um and then problem area up in the
+38:50 sky right here probably stamp this
+38:53 forward as well let's get a nice soft
+38:55 brush let's take the opacity down and
+38:59 get that real
+39:00 close right and then so now that we've
+39:03 got this kind of
+39:04 shot um and actually we can use our real
+39:08 quick adjustment um brush tool which is
+39:13 this guy
+39:15 no always forgetting where this is color
+39:17 replacement tool mixer brush tool here
+39:19 it
+39:20 is and so I can come in here and we're
+39:23 going to change um Hue saturation and so
+39:26 this just a mask I'm just drawing in
+39:29 with a mask right there so I get to just
+39:32 change
+39:34 that and lighten it there we go so I'm
+39:37 just painting in lightness right here
+39:39 super simple
+39:41 easy right that's enough to let the AI
+39:45 know what to do here and then I'm going
+39:48 to do a color balance on this whole
+39:49 thing because I actually don't like
+39:51 color that I got going on here so let's
+39:54 go color balance and let's bring this
+39:56 more toward
+39:59 words there we go I like that export it
+40:03 let's kick it into AI
+40:08 again it's nice high
+40:11 resolution um very destructive I just
+40:14 overwrote the last AI that we brought in
+40:17 so um this is you know when you're doing
+40:20 a destructive workflow you really got to
+40:22 have confidence in your skill sets right
+40:25 and I almost encourage people to do
+40:27 destructive workflow sometimes just so
+40:30 that they um are forced to fix things
+40:34 you have to right once you destroy
+40:36 things you got to fix them um so I mean
+40:40 that's kind of that's kind of fun in a
+40:42 way and so here we go we get to kick
+40:45 this on again let's kick that strength
+40:46 way up let's keep the resemblance up
+40:48 let's Clarity where it's at let's kick
+40:50 Clarity down do another one let's take
+40:53 enhanced or resemblance down let's do
+40:56 another one
+40:57 and then one more with Clarity up and
+41:00 let it do its thing here by the way was
+41:03 that screen clipping so while we're
+41:05 waiting for this I'll just tell you that
+41:08 I took this screen
+41:09 clipping just to show you this process
+41:12 again in case this got Mi missed when I
+41:14 paused by accident and so before we just
+41:18 had black window here so if we go back
+41:21 through our layer stack this is what was
+41:24 happening is we had black window I just
+41:27 pasted this image in all right I'm can
+41:31 hide that layer for a second I basically
+41:34 took the polygon lasso tool I drew in
+41:37 here like this um or another way of
+41:40 doing this is
+41:42 um let's take the take the quick
+41:46 selection tool would be another way to
+41:47 doing
+41:48 this and we're just on a bad layer here
+41:51 for c section there we go right that
+41:54 would be a way of doing this is holding
+41:56 all for for negative so we're getting
+41:58 right up next to that
+42:00 Porsche right so that's not affecting
+42:02 the Porsche
+42:07 there that's getting pretty close to
+42:09 selecting the
+42:10 glass you know more or less not quite so
+42:15 and then get back to that polygon lasso
+42:18 tool and hold our shift key
+42:30 right that just helped us get around the
+42:33 Porsche that was it that was all that
+42:43 did so now that we have that masked we
+42:46 can come in here select this mask it and
+42:49 then you get in in between the two and
+42:52 you click to unlink it and then this is
+42:55 when we can now um with with the texture
+42:58 or the copi art selected this is where
+43:01 we get to move this around and skew it
+43:03 and change some things right um and in
+43:06 this case I've never actually tried this
+43:09 before but I think we get to do lens
+43:11 correction on just our screen clipping
+43:13 we do so we could in fact come into this
+43:16 custom just like we did in the beginning
+43:17 of this video and try to like skew the
+43:22 perspective here which would make a lot
+43:25 of sense we want to basically elongate
+43:28 it like
+43:31 this
+43:38 right let's see if we're looking kind of
+43:40 upwards at
+43:42 this what would the perspective be yeah
+43:45 kind of long and narrow like
+43:47 that Isn't that cool so now I'm just
+43:51 going to shrink the size of this
+43:57 and hold control and kind of skew
+44:07 it like that there it is that's what we
+44:11 want and so the last thing I did here
+44:14 was change this to an
+44:16 overlay and look at that doesn't that
+44:18 look like a reflection right we get to
+44:21 kind of move it around and place it the
+44:22 way you want to so looks like a
+44:25 reflection now very
+44:27 cool Sweet let's go look at what the AI
+44:30 did for
+44:34 us AI number one did not pick up that
+44:37 this was some kind of a
+44:40 mirror so that got screwed up in here um
+44:45 this is
+44:47 with low
+44:53 resemblance this is kind of high clarity
+44:58 kind of an interesting
+45:03 one well that looks very painterly
+45:06 that's low
+45:13 Clarity really screwed that reflection
+45:15 up here this looks very painly as
+45:20 well I actually probably like this first
+45:22 one the
+45:25 best but we're going to have to kind of
+45:27 detune
+45:29 it definitely got some big painted
+45:33 effects going on
+45:34 here but on the
+45:38 whole on the whole this this is pretty
+45:42 impressive
+45:44 right let's try one more time we're
+45:47 going to um take the strength down a
+45:49 little bit we're going to take Clarity
+45:50 down a little bit going to keep um
+45:52 resemblance up and let's up the scale of
+45:57 this and let's see what it will do with
+46:00 um more opportunity in the scale just in
+46:03 number of
+46:05 pixels and see if it improves it at
+46:15 all um let's see time marker on this
+46:18 video 46 minutes so you know this stuff
+46:20 takes a little while it does um I would
+46:24 say
+46:27 for the level of quality that we're
+46:29 getting out of this it's an appropriate
+46:32 amount of time um considering what our
+46:35 source image was and like just a
+46:37 reminder of back what our source image
+46:39 was if we can get to it
+46:43 is that let's just open it let's open
+46:45 our original Source
+46:53 image oh and it thinks this is it so I'm
+46:55 going to just close this down
+46:58 let's open
+47:00 it I mean that's our source
+47:03 image right that's what we started with
+47:06 let's take a look at this little do a
+47:08 little pixel peeking look at the super
+47:11 low resolution palm
+47:13 trees this block planter just this grass
+47:17 with the curb Edge um very
+47:20 nondescript curb here you know the
+47:23 vehicles are the best looking things in
+47:25 this shot you know
+47:27 realistically um kind of nondescript
+47:31 Palm on the right hand side This Grass
+47:33 area I mean this is this is an okay shot
+47:37 conceptually it's great right but if you
+47:41 got 45 minutes you're watching a movie
+47:44 whatever and and you know your stuff in
+47:47 Photoshop you can end up like this
+47:52 shot and I mean I would not be mad at
+47:55 that
+47:57 this is something I would share with a
+47:58 client and it took 45
+48:01 minutes very very
+48:04 cool um definitely still has kind of a
+48:08 painterly look let's see if we can do
+48:10 something in camera raw and just bring
+48:12 it back in with camera raw so we'll
+48:14 download
+48:15 this get back to photoshop let's get
+48:18 back to our main shot we might be able
+48:20 to mask some things
+48:22 out
+48:24 um so here's our our new
+48:29 shot right let's just throw a mask on it
+48:32 real quick let's see where there's maybe
+48:34 some areas where
+48:37 um we want to leave the
+48:40 original so here's hard round me do
+48:43 little inverse you know that cleans this
+48:45 car up real nice is if I get back to the
+48:48 original shot I cleaned it up um I kind
+48:51 of like this this nicer Shadow there so
+48:54 I leave that there but take everything
+48:57 else away
+48:59 um and don't really like what it did to
+49:02 the
+49:07 curb so we kind of take that
+49:10 away
+49:14 um and take
+49:19 this yeah I'm going to take that portion
+49:21 away as well I like our our old
+49:25 reflection a little bit better
+49:30 right um we could probably brighten that
+49:32 up so let's just throw a little um
+49:38 exposure and kick the exposure up and
+49:41 then invert it and then brush this
+49:46 in right so we're getting an exposure
+49:48 back in
+49:50 that um oh you know what I'm using the
+49:52 wrong brush
+49:53 tool here we go
+50:03 and kick that exposure back down now
+50:06 there something like
+50:08 that um I believe I missed something
+50:11 there I think I missed that there was a
+50:12 grid or something there not
+50:15 sure um how's the shot looking
+50:18 now yeah I'm liking
+50:24 it there's the old
+50:27 driveway I kind of like the old
+50:30 driveway so we can just um I just took
+50:33 the opacity on my brush down a little
+50:35 bit to
+50:37 unmask that looks
+50:42 nice got some little problem area here
+50:45 but that's
+50:47 okay and this looks pretty good let's do
+50:50 a final stamp
+50:52 forward final camera
+50:54 raw I'm going to Dune this a little
+50:56 little bit and what I mean by that is
+50:57 I'm going to take the contrast down just
+51:00 a little bit okay um these these few
+51:05 settings are going to um coincide so we
+51:09 can take the contrast down a little more
+51:11 than we think necessary so that we can
+51:14 bring texture up just a little bit and
+51:17 also Clarity start messing around with
+51:19 Clarity just a little bit and then the
+51:22 last kind of thing we get to mess around
+51:23 with um that that kind of counteracts
+51:26 that is that color noise
+51:29 reduction and just noise reduction as
+51:32 well and then
+51:35 sharpness right so those those two
+51:38 settings really um kind of affect each
+51:40 other and then dehaze is one more where
+51:43 we might be able to bring you know that
+51:45 the Shadows back in and start messing
+51:48 around with the
+51:50 blacks and
+51:57 our
+52:00 highlights and then bring that slowly
+52:03 bring that contrast back up and down
+52:05 again to just see where that sweet spot
+52:11 is those blacks are really
+52:19 bright might even come in and do
+52:32 little curves boy this really is up to
+52:34 you I mean you know this is where my eye
+52:37 has a particular style is um is what
+52:40 ends up happening with
+52:43 me and then
+52:46 my saturation and I'm going to Target my
+52:49 greens and I want to pump maybe those
+52:52 greens up a little bit
+53:09 still don't like what's happening with
+53:10 my
+53:23 contrast I'm going to Target my curves
+53:29 means I just get the pick right take the
+53:32 Picker and kind
+53:39 of there we go that darker portion real
+53:42 low in the dark channels and brought
+53:44 some definition back in some of
+53:49 this um let's take that
+53:53 blue saturation
+53:55 down little
+54:01 heavy yeah it's getting
+54:12 there what do you think I wish we were
+54:15 doing this
+54:16 live get some um dialogue going with you
+54:19 guys that are watching this so you can
+54:22 kind of ask questions and see what's
+54:24 going on now there's nothing stopping
+54:27 you from masking out certain effects
+54:30 right we could actually mask this color
+54:32 raw filter so that we're not you know
+54:35 touching parts of the building if we
+54:36 wanted to
+54:39 um we don't always have to have the
+54:41 camera raw fil or apply to everything
+54:43 that's in the shot and that that part's
+54:46 certainly true so just keep that in
+54:51 mind and then I'd say on the whole this
+54:54 looks pretty dang good
+54:57 now something you can try is I'm going
+54:59 to press okay I'm actually going to
+55:05 um see let's come back
+55:11 to Let's drop this back
+55:16 in or let's see that was a stamp so
+55:19 we're going to stamp again going stamp
+55:22 again we'll try a different camera raw
+55:24 just to try it out why not and we'll try
+55:27 one of these pre-done filters here's my
+55:29 dtune but it also brings a lot of warmth
+55:32 into the shot I have two different Dunes
+55:34 one's a little bit more drastic than the
+55:36 other you know it takes away a lot of
+55:38 that um heavy you know contrast if you
+55:43 will detune white and hot so I have a
+55:46 couple pre-done filters that sometimes
+55:48 can um fix some things this painterly
+55:52 filter is actually prettyy nice you can
+55:54 almost use this as an overlay on the
+55:56 other one that we did um and kind of
+55:59 blend the
+56:02 two this High texture low
+56:08 contrast kind of a funny one seems to be
+56:11 slowing my computer down as it's trying
+56:13 to process
+56:15 it mind you I ended up this is an 8K
+56:18 image so that's what's happening
+56:20 here and it looks
+56:22 like my computer is getting fried
+56:26 because we lost my camera didn't
+56:37 we oh we get our camera
+56:41 back no it's
+56:49 crashing having all kinds of troubles
+56:52 this show
+57:00 well I better stop this before I lose my
+57:02 whole
+57:06 video see you next time
+57:19 [Music]

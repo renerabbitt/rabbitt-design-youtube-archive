@@ -1,0 +1,65 @@
+Title: CA SHORTS- Manual Dimension Tool Tips in Chief Architect
+URL: https://www.youtube.com/watch?v=G7PLkCMd_cY
+Visibility: public
+
+0:02 let's see if we can't supercharge a
+0:02 workflow using the manual Dimension tool
+0:07 if you have the active Dimension
+0:08 defaults control in your toolbar or if
+0:12 you don't you can obviously add this
+0:12 just by customizing toolbar and adding
+0:16 this check out my other video on
+0:18 customizing your
+0:18 toolbar then you can do a drop- down
+0:20 menu and pick whatever default toolbar
+0:22 that you want to use at the time in this
+0:26 particular view so I've got my manual
+0:26 Dimension tool active here's my remodel
+0:30 tool and notice I just get the drag
+0:32 through there and it's picking up
+0:34 surfaces and if I get close to my
+0:34 windows notice it picks up those windows
+0:38 as well so it's really fast and easy way
+0:40 of picking up exactly what I want now
+0:42 watch as I switch down to my new
+0:42 construction and I drag through and all
+0:46 of a sudden I'm dimensioning to the
+0:49 exterior Framing and the interior
+0:49 framing here so just easy as that I can
+0:54 pick up exactly what I want here I go
+0:56 I'm picking up that Framing and those
+0:59 windows all right and this is just a
+0:59 matter of setting up your defaults in a
+1:01 in a way that makes sense now watch as I
+1:05 switch to my cabinets default and this
+1:07 is going to send my Dimensions to a
+1:07 different layer that uses a different
+1:08 Tex style because I send my kitchen uh
+1:15 plans at a half inch scale so now I'm
+1:15 picking up just my Cabinets Now with the
+1:19 manual Dimension tool still active you
+1:22 can actually edit some of this so I'm
+1:22 going to draw back over the top of this
+1:26 section and remove that section same
+1:26 thing I'm going to draw back over the
+1:29 section here and remove that section
+1:32 section I can even go in between two
+1:34 points if I'd like to so pretty cool
+1:34 pretty clever how you can edit that out
+1:38 right and so let me just get back in
+1:39 here and I'm going to pick up this
+1:39 diamond and pick up the center line of
+1:43 the Sync here and then click on the
+1:43 center line extension and in my edit
+1:48 toolbar I now have this icon Mark as
+1:48 Center Line so I can quickly mark this
+1:53 as a center line now if I wanted to I
+1:53 could also come in here and click on the
+1:58 add additional text and hover over one
+1:58 of these texts and then I could suppress
+2:02 this Dimension value if I wanted to and
+2:05 put EQ same thing click on that button
+2:05 again suppress that Dimension value put
+2:12 EQ a number of different ways that you
+2:12 can on the Fly use that manual Dimension
+2:17 tool to do some pretty Dynamic things
