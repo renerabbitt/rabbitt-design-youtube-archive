@@ -269,15 +269,18 @@ h3 {
   font-weight: 600;
 }
 
-.chapters-panel.is-collapsed .taxonomy {
+.chapters-panel.is-collapsed .taxonomy,
+.playlists-panel.is-collapsed .playlist-list {
   display: none;
 }
 
-.chapters-panel .panel-heading {
+.chapters-panel .panel-heading,
+.playlists-panel .panel-heading {
   margin-bottom: 1rem;
 }
 
-.chapters-panel.is-collapsed .panel-heading {
+.chapters-panel.is-collapsed .panel-heading,
+.playlists-panel.is-collapsed .panel-heading {
   margin-bottom: 0;
 }
 
@@ -286,11 +289,13 @@ h3 {
     pointer-events: none;
   }
 
-  .chapters-panel.is-collapsed .taxonomy {
+  .chapters-panel.is-collapsed .taxonomy,
+  .playlists-panel.is-collapsed .playlist-list {
     display: grid;
   }
 
-  .chapters-panel.is-collapsed .panel-heading {
+  .chapters-panel.is-collapsed .panel-heading,
+  .playlists-panel.is-collapsed .panel-heading {
     margin-bottom: 1rem;
   }
 }
@@ -311,9 +316,14 @@ h3 {
   font-weight: 900;
 }
 
-.taxonomy {
+.taxonomy,
+.playlist-list {
   display: grid;
   gap: 1rem;
+}
+
+.playlist-list {
+  gap: 0.5rem;
 }
 
 .chapter-group h3 {
@@ -679,16 +689,20 @@ mark {
     overflow: visible;
   }
 
-  .chapters-panel {
+  .playlists-panel {
     order: 1;
   }
 
-  .content {
+  .chapters-panel {
     order: 2;
   }
 
-  .stats-panel {
+  .content {
     order: 3;
+  }
+
+  .stats-panel {
+    order: 4;
   }
 
   .taxonomy-toggle-hint {
@@ -703,28 +717,33 @@ mark {
     padding: 0.7rem 0.85rem;
   }
 
-  .chapters-panel:not(.is-collapsed) .taxonomy-toggle {
+  .chapters-panel:not(.is-collapsed) .taxonomy-toggle,
+  .playlists-panel:not(.is-collapsed) .taxonomy-toggle {
     border-color: var(--accent);
     background: var(--accent-soft);
   }
 
-  .chapters-panel .panel-heading {
+  .chapters-panel .panel-heading,
+  .playlists-panel .panel-heading {
     align-items: stretch;
     gap: 0.65rem;
     margin-bottom: 0;
   }
 
-  .chapters-panel:not(.is-collapsed) .panel-heading {
+  .chapters-panel:not(.is-collapsed) .panel-heading,
+  .playlists-panel:not(.is-collapsed) .panel-heading {
     margin-bottom: 1rem;
   }
 
-  .chapters-panel .text-button {
+  .chapters-panel .text-button,
+  .playlists-panel .text-button {
     align-self: center;
     min-height: 2.75rem;
     padding: 0 0.5rem;
   }
 
-  .taxonomy {
+  .taxonomy,
+  .playlist-list {
     max-height: min(60vh, 28rem);
     overflow-y: auto;
     overscroll-behavior: contain;

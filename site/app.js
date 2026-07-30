@@ -2,6 +2,7 @@ const state = {
   data: null,
   query: "",
   subchapterId: "",
+  playlistId: "",
 };
 
 const mobileQuery = window.matchMedia("(max-width: 980px)");
@@ -12,6 +13,10 @@ const elements = {
   taxonomyToggle: document.querySelector("#taxonomy-toggle"),
   taxonomyToggleHint: document.querySelector("#taxonomy-toggle-hint"),
   chaptersPanel: document.querySelector(".chapters-panel"),
+  playlists: document.querySelector("#playlists"),
+  playlistsToggle: document.querySelector("#playlists-toggle"),
+  playlistsToggleHint: document.querySelector("#playlists-toggle-hint"),
+  playlistsPanel: document.querySelector(".playlists-panel"),
   resultsSection: document.querySelector("#results-section"),
   results: document.querySelector("#results"),
   resultsTitle: document.querySelector("#results-title"),
@@ -21,6 +26,7 @@ const elements = {
   searchForm: document.querySelector("#search-form"),
   searchInput: document.querySelector("#search-input"),
   clearFilter: document.querySelector("#clear-filter"),
+  clearPlaylistFilter: document.querySelector("#clear-playlist-filter"),
   template: document.querySelector("#result-template"),
 };
 
@@ -28,13 +34,22 @@ function isMobileLayout() {
   return mobileQuery.matches;
 }
 
-function setTaxonomyOpen(open) {
-  if (!elements.chaptersPanel || !elements.taxonomyToggle) {
+function setPanelOpen(panel, toggle, open) {
+  if (!panel || !toggle) {
     return;
   }
-  elements.chaptersPanel.classList.toggle("is-collapsed", !open);
-  elements.taxonomyToggle.setAttribute("aria-expanded", open ? "true" : "false");
+  panel.classList.toggle("is-collapsed", !open);
+  toggle.setAttribute("aria-expanded", open ? "true" : "false");
+}
+
+function setTaxonomyOpen(open) {
+  setPanelOpen(elements.chaptersPanel, elements.taxonomyToggle, open);
   updateTaxonomyToggleHint();
+}
+
+function setPlaylistsOpen(open) {
+  setPanelOpen(elements.playlistsPanel, elements.playlistsToggle, open);
+  updatePlaylistsToggleHint();
 }
 
 function updateTaxonomyToggleHint() {
@@ -54,6 +69,47 @@ function updateTaxonomyToggleHint() {
     : "Tap to browse chapters";
 }
 
+function updatePlaylistsToggleHint() {
+  if (!elements.playlistsToggleHint) {
+    return;
+  }
+  const filter = findPlaylist(state.playlistId);
+  const open = elements.playlistsToggle?.getAttribute("aria-expanded") === "true";
+  if (filter) {
+    elements.playlistsToggleHint.textContent = open
+      ? `Selected: ${filter.title}`
+      : `${filter.title} · Tap to change`;
+    return;
+  }
+  elements.playlistsToggleHint.textContent = open
+    ? "Pick a playlist to filter videos"
+    : "Tap to browse playlists";
+}
+
+function clearActiveButtons(selector) {
+  document.querySelectorAll(selector).forEach((button) => {
+    button.classList.remove("active");
+  });
+}
+
+function clearChapterFilter({ rerender = true } = {}) {
+  state.subchapterId = "";
+  clearActiveButtons("#taxonomy .chapter-button.active");
+  updateTaxonomyToggleHint();
+  if (rerender) {
+    renderResults();
+  }
+}
+
+function clearPlaylistFilter({ rerender = true } = {}) {
+  state.playlistId = "";
+  clearActiveButtons("#playlists .playlist-button.active");
+  updatePlaylistsToggleHint();
+  if (rerender) {
+    renderResults();
+  }
+}
+
 function revealResults() {
   const target = elements.activeFilter?.classList.contains("hidden")
     ? elements.resultsSection
@@ -66,7 +122,9 @@ async function init() {
   state.data = await response.json();
 
   setTaxonomyOpen(!isMobileLayout());
+  setPlaylistsOpen(!isMobileLayout());
   renderStats();
+  renderPlaylists();
   renderTaxonomy();
   renderResults();
   elements.searchHelp.textContent = `Search currently covers ${state.data.stats.readyVideos} imported transcripts and summaries.`;
@@ -86,14 +144,16 @@ async function init() {
   });
 
   elements.clearFilter.addEventListener("click", () => {
-    state.subchapterId = "";
-    document.querySelectorAll(".chapter-button.active").forEach((button) => {
-      button.classList.remove("active");
-    });
-    renderResults();
-    updateTaxonomyToggleHint();
+    clearChapterFilter();
     if (isMobileLayout()) {
       setTaxonomyOpen(true);
+    }
+  });
+
+  elements.clearPlaylistFilter?.addEventListener("click", () => {
+    clearPlaylistFilter();
+    if (isMobileLayout()) {
+      setPlaylistsOpen(true);
     }
   });
 
@@ -105,11 +165,21 @@ async function init() {
     setTaxonomyOpen(!open);
   });
 
+  elements.playlistsToggle?.addEventListener("click", () => {
+    if (!isMobileLayout()) {
+      return;
+    }
+    const open = elements.playlistsToggle.getAttribute("aria-expanded") === "true";
+    setPlaylistsOpen(!open);
+  });
+
   const syncLayoutMode = () => {
     if (isMobileLayout()) {
       setTaxonomyOpen(false);
+      setPlaylistsOpen(false);
     } else {
       setTaxonomyOpen(true);
+      setPlaylistsOpen(true);
     }
   };
   if (typeof mobileQuery.addEventListener === "function") {
@@ -126,12 +196,60 @@ function renderStats() {
     ["Channel Videos", stats.totalVideos],
     ["Search Ready", stats.readyVideos],
     ["With Transcript", stats.transcriptVideos],
+    ["Playlists", stats.playlistCount ?? (state.data.playlists || []).length],
   ].forEach(([label, value]) => {
     const term = document.createElement("dt");
     term.textContent = label;
     const detail = document.createElement("dd");
     detail.textContent = value;
     elements.stats.append(term, detail);
+  });
+}
+
+function renderPlaylists() {
+  if (!elements.playlists) {
+    return;
+  }
+  elements.playlists.innerHTML = "";
+  const playlists = state.data.playlists || [];
+
+  if (!playlists.length) {
+    const empty = document.createElement("p");
+    empty.className = "muted";
+    empty.textContent = "No playlists imported yet.";
+    elements.playlists.append(empty);
+    return;
+  }
+
+  playlists.forEach((playlist) => {
+    const count = playlist.indexedCount ?? playlist.indexedVideoIds?.length ?? 0;
+    const total = playlist.videoCount ?? playlist.videoIds?.length ?? 0;
+    const button = document.createElement("button");
+    button.className = "chapter-button playlist-button";
+    button.type = "button";
+    button.dataset.playlistId = playlist.id;
+    if (state.playlistId === playlist.id) {
+      button.classList.add("active");
+    }
+    const countLabel =
+      count === total
+        ? `${count} indexed video${count === 1 ? "" : "s"}`
+        : `${count} indexed · ${total} in playlist`;
+    button.innerHTML = `${escapeHtml(playlist.title)}<span>${escapeHtml(countLabel)}</span>`;
+    button.addEventListener("click", () => {
+      clearChapterFilter({ rerender: false });
+      state.playlistId = playlist.id;
+      clearActiveButtons("#playlists .playlist-button.active");
+      button.classList.add("active");
+      renderResults();
+      updatePlaylistsToggleHint();
+      if (isMobileLayout()) {
+        setPlaylistsOpen(false);
+        setTaxonomyOpen(false);
+        revealResults();
+      }
+    });
+    elements.playlists.append(button);
   });
 }
 
@@ -157,17 +275,20 @@ function renderTaxonomy() {
       button.className = "chapter-button";
       button.type = "button";
       button.dataset.subchapterId = subchapter.id;
+      if (state.subchapterId === subchapter.id) {
+        button.classList.add("active");
+      }
       button.innerHTML = `${escapeHtml(subchapter.title)}<span>${count} indexed video${count === 1 ? "" : "s"}</span>`;
       button.addEventListener("click", () => {
+        clearPlaylistFilter({ rerender: false });
         state.subchapterId = subchapter.id;
-        document.querySelectorAll(".chapter-button.active").forEach((active) => {
-          active.classList.remove("active");
-        });
+        clearActiveButtons("#taxonomy .chapter-button.active");
         button.classList.add("active");
         renderResults();
         updateTaxonomyToggleHint();
         if (isMobileLayout()) {
           setTaxonomyOpen(false);
+          setPlaylistsOpen(false);
           revealResults();
         }
       });
@@ -182,26 +303,34 @@ function renderTaxonomy() {
 function renderResults() {
   const results = getResults();
   const queryLabel = state.query ? ` for "${state.query}"` : "";
-  const filter = findSubchapter(state.subchapterId);
+  const chapterFilter = findSubchapter(state.subchapterId);
+  const playlistFilter = findPlaylist(state.playlistId);
+  const filter = playlistFilter || chapterFilter;
 
   elements.resultsTitle.textContent = filter ? filter.title : "All Indexed Videos";
   elements.resultsCount.textContent = `${results.length} result${results.length === 1 ? "" : "s"}${queryLabel}`;
 
-  if (filter) {
+  if (playlistFilter) {
     elements.activeFilter.classList.remove("hidden");
-    elements.activeFilter.textContent = `Filtering by ${filter.title}: ${filter.description}`;
+    const total = playlistFilter.videoCount ?? playlistFilter.videoIds?.length ?? 0;
+    const indexed = playlistFilter.indexedCount ?? playlistFilter.indexedVideoIds?.length ?? 0;
+    elements.activeFilter.textContent = `Filtering by playlist ${playlistFilter.title} (${indexed} indexed of ${total} videos).`;
+  } else if (chapterFilter) {
+    elements.activeFilter.classList.remove("hidden");
+    elements.activeFilter.textContent = `Filtering by ${chapterFilter.title}: ${chapterFilter.description}`;
   } else {
     elements.activeFilter.classList.add("hidden");
   }
 
   updateTaxonomyToggleHint();
+  updatePlaylistsToggleHint();
 
   elements.results.innerHTML = "";
 
   if (!results.length) {
     const empty = document.createElement("p");
     empty.className = "muted";
-    empty.textContent = "No videos match the current search and chapter filter.";
+    empty.textContent = "No videos match the current search and filter.";
     elements.results.append(empty);
     return;
   }
@@ -213,11 +342,19 @@ function renderResults() {
 
 function getResults() {
   const terms = normalizeTerms(state.query);
+  const playlist = findPlaylist(state.playlistId);
+  const playlistIdSet = playlist
+    ? new Set(playlist.videoIds || playlist.indexedVideoIds || [])
+    : null;
+
   const filtered = state.data.videos
     .map((video) => ({ video, score: scoreVideo(video, terms) }))
-    .filter(({ video, score }) => {
+    .filter(({ video }) => {
       if (terms.length && !terms.every((term) => video.searchText.includes(term))) {
         return false;
+      }
+      if (playlistIdSet) {
+        return playlistIdSet.has(video.id) || (video.playlistIds || []).includes(state.playlistId);
       }
       if (!state.subchapterId) {
         return true;
@@ -358,6 +495,13 @@ function findSubchapter(id) {
     }
   }
   return null;
+}
+
+function findPlaylist(id) {
+  if (!id || !state.data) {
+    return null;
+  }
+  return (state.data.playlists || []).find((playlist) => playlist.id === id) || null;
 }
 
 function isMembersOnly(video) {

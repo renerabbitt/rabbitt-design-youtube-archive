@@ -63,6 +63,19 @@ py -m yt_dlp --flat-playlist --dump-single-json "https://www.youtube.com/@rabbit
 py scripts/import_youtube_catalog.py
 ```
 
+## Refreshing Playlists
+
+Fetch channel playlists (titles + video membership) into `data/playlists.json`:
+
+```powershell
+py scripts/import_youtube_playlists.py --refresh
+py scripts/build_site_data.py
+```
+
+`--refresh` re-downloads the playlists tab; omit it to reuse `data/channel-playlists.raw.json` and only refresh each playlist's video IDs.
+
+The site sidebar lists these playlists (Terrain, Roofs, CA Shorts, etc.) and filters the indexed video list when one is selected.
+
 ## Building The Search Website
 
 Generate the static search index:
@@ -85,10 +98,12 @@ http://localhost:4173/
 
 The current site is a GitHub Pages-compatible static site in `site/`. It includes:
 
+- YouTube playlist browsing in the sidebar (filters to playlist membership).
 - Chapter and subchapter browsing.
 - Search across titles, summaries, topics, keywords, chapter titles, and full transcript text.
 - Video cards with YouTube embeds and timestamp chapter links.
 - Shared taxonomy in `data/taxonomy.json` used by both ingest and site build.
+- Playlist membership in `data/playlists.json` (refresh with `scripts/import_youtube_playlists.py`).
 
 Important: several imported transcripts are members-only/VIP content. Publish only when you are comfortable making that content searchable.
 

@@ -13,6 +13,14 @@ def load_taxonomy() -> list:
     return json.loads((DATA_DIR / "taxonomy.json").read_text(encoding="utf-8"))
 
 
+def load_playlists() -> list[dict]:
+    path = DATA_DIR / "playlists.json"
+    if not path.exists():
+        return []
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    return payload.get("playlists") or []
+
+
 TAXONOMY = load_taxonomy()
 
 
@@ -97,9 +105,17 @@ def read_text(path: Path) -> str:
 def build_index() -> dict:
     catalog = json.loads((DATA_DIR / "videos.json").read_text(encoding="utf-8"))
     ready_videos = [video for video in catalog["videos"] if video.get("status") == "ready"]
+    playlist_membership: dict[str, list[str]] = {}
+    for playlist in load_playlists():
+        playlist_id = playlist.get("id")
+        if not playlist_id:
+            continue
+        for video_id in playlist.get("videoIds") or []:
+            playlist_membership.setdefault(video_id, []).append(playlist_id)
 
     videos = []
     taxonomy = json.loads(json.dumps(TAXONOMY))
+    ready_ids = {video["id"] for video in ready_videos}
 
     for video in ready_videos:
         summary_path = ROOT / video.get("summaryPath", "")
@@ -118,6 +134,7 @@ def build_index() -> dict:
                 if subchapter["id"] in subchapter_ids:
                     subchapter.setdefault("videoIds", []).append(video["id"])
 
+        playlist_ids = playlist_membership.get(video["id"], [])
         videos.append(
             {
                 "id": video["id"],
@@ -131,6 +148,7 @@ def build_index() -> dict:
                 "topics": key_topics or video.get("topics", []),
                 "keywords": keywords or video.get("tags", []),
                 "chapters": chapters,
+                "playlistIds": playlist_ids,
                 "transcript": transcript_body,
                 "searchText": " ".join(
                     [
@@ -146,6 +164,28 @@ def build_index() -> dict:
             }
         )
 
+    playlists = []
+    for playlist in load_playlists():
+        playlist_id = playlist.get("id")
+        if not playlist_id:
+            continue
+        video_ids = [video_id for video_id in (playlist.get("videoIds") or []) if video_id in ready_ids]
+        # Prefer indexed membership order from the playlist itself; fall back to all listed IDs.
+        all_ids = list(playlist.get("videoIds") or [])
+        playlists.append(
+            {
+                "id": playlist_id,
+                "title": playlist.get("title") or "",
+                "url": playlist.get("url") or "",
+                "description": playlist.get("description") or "",
+                "thumbnail": playlist.get("thumbnail") or "",
+                "videoIds": all_ids,
+                "videoCount": playlist.get("videoCount") or len(all_ids),
+                "indexedVideoIds": video_ids,
+                "indexedCount": len(video_ids),
+            }
+        )
+
     return {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "channel": catalog["channel"],
@@ -153,8 +193,10 @@ def build_index() -> dict:
             "totalVideos": len(catalog["videos"]),
             "readyVideos": len(videos),
             "transcriptVideos": len(videos),
+            "playlistCount": len(playlists),
         },
         "taxonomy": taxonomy,
+        "playlists": playlists,
         "videos": videos,
     }
 

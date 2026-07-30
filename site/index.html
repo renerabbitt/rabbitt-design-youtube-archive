@@ -24,7 +24,7 @@
           <h1>Find the exact Chief Architect topic inside every video.</h1>
           <p class="lede">
             Search titles, summaries, topics, chapters, keywords, and full transcript text.
-            Browse by chapter and subchapter when you know the general category but not the video.
+            Browse by YouTube playlist, chapter, and subchapter when you know the general category but not the video.
           </p>
           <div class="hero-actions" aria-label="Rabbitt Design links">
             <a class="primary-link" href="https://www.rabbittdesign.net/videos" target="_blank" rel="noreferrer">
@@ -57,6 +57,23 @@
         <section class="panel stats-panel">
           <h2>Archive Stats</h2>
           <dl class="stats" id="stats"></dl>
+        </section>
+
+        <section class="panel playlists-panel">
+          <div class="panel-heading">
+            <button
+              class="taxonomy-toggle"
+              id="playlists-toggle"
+              type="button"
+              aria-expanded="true"
+              aria-controls="playlists"
+            >
+              <span class="taxonomy-toggle-label">Playlists</span>
+              <span class="taxonomy-toggle-hint" id="playlists-toggle-hint"></span>
+            </button>
+            <button class="text-button" id="clear-playlist-filter" type="button">Clear</button>
+          </div>
+          <div id="playlists" class="playlist-list"></div>
         </section>
 
         <section class="panel chapters-panel">
