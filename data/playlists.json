@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T05:14:46.956741+00:00",
+  "generatedAt": "2026-08-03T19:26:42.212177+00:00",
   "channel": {
     "name": "Rabbitt Design",
     "url": "https://www.youtube.com/channel/UCbkgwAcrZQP0Ek0bNmqpgAQ",
@@ -284,9 +284,11 @@
         "18dD5yi_5p0",
         "Fg4flO2FbeQ",
         "iAPoRXjVV7s",
-        "64w3zBWVSKY"
+        "64w3zBWVSKY",
+        "MS2Sj4YNfPM",
+        "UzdeQhEGNps"
       ],
-      "videoCount": 79
+      "videoCount": 81
     },
     {
       "id": "PLZvWFHWGuNHEVYnWhH3W2S4y3lx6imDKm",
@@ -547,6 +549,35 @@
         "v_larzutTDA"
       ],
       "videoCount": 3
+    },
+    {
+      "id": "PLIdU8Qsb5hDA",
+      "title": "Template Tuesdays",
+      "url": "https://www.youtube.com/playlist?list=PLIdU8Qsb5hDA",
+      "thumbnail": "https://i.ytimg.com/vi/ZbK2XV9B5rs/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBVfbdKw0008gsfOQKswpvXtjDA0Q",
+      "description": "",
+      "videoIds": [
+        "ZbK2XV9B5rs",
+        "DiAxT3ibWVw",
+        "_dTDaL9CKj4",
+        "HvORLs-sLUo",
+        "XxfKP1G_9ss",
+        "hwT7IMHYdgM",
+        "I5kJjHYoCLY",
+        "18gCHU7JnAw",
+        "xh69YsvOw4c",
+        "mTsmUX9tjvA",
+        "_SGKitmxZMM",
+        "oJIATz_iGpc",
+        "Tclcg4Ipf4E",
+        "HzB6Y74St4I",
+        "bEGRPhYTMlI",
+        "IUDYscYrIsw",
+        "OeHDnzN-EvQ",
+        "uwN0QHEy8yY",
+        "jXgwoYBfQVg"
+      ],
+      "videoCount": 19
     },
     {
       "id": "PLZvWFHWGuNHG0TTwHdIuhjimE5yDTMRQc",
