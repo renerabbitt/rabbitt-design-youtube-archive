@@ -1,0 +1,1617 @@
+Title: Template Tuesdays #30 - Spherical Renderings With Chief Architect, Ai, and Kuula
+URL: https://www.youtube.com/watch?v=KLbTBt1ao4w
+Visibility: public
+
+0:03 Hello, hello, hello.
+0:05 Welcome another template Tuesday.
+0:08 I believe this is number 30. I think
+0:11 it's number 30. Welcome, welcome,
+0:12 welcome.
+0:13 Uh
+0:14 we've got someone in the chat already.
+0:16 Mr. Shane Pitman, let's go.
+0:19 I like that. I like that attitude. Let's
+0:21 go.
+0:23 Um
+0:24 Yeah, I've got a funny one here. I'm
+0:25 curious to see who'll be interested in
+0:28 this. Um I suppose it's always fun to
+0:30 just learn, right? And and play around
+0:33 and
+0:34 and not only that, but I love getting
+0:37 into things that I
+0:39 don't do that often to remember it that
+0:43 if we want to keep this fun and playful,
+0:46 that sometimes
+0:48 we can get in the software and be off
+0:49 the clock and mess around and try to get
+0:53 to this point of
+0:55 just enjoying what we do and and
+0:57 appreciating what we do and and and
+1:00 doing a little bit of discovery. So, I
+1:02 think one of the things in Chief
+1:04 Architect that's really fun to discover
+1:06 is its ability to do
+1:09 spherical renderings. And being able to
+1:12 show a client that as a product is is
+1:15 really fun. So, you know, you got to
+1:18 play around with it to be able to learn
+1:19 it, to understand how it works.
+1:22 Um
+1:23 And on top of that, I have a couple
+1:25 tricks to make your spherical renderings
+1:27 really, really shine. And so, um I've
+1:31 got a project here where I have the need
+1:33 for a couple spherical renderings
+1:35 because I'm going to do
+1:37 a point-to-point
+1:39 VR walk-through is what you might call
+1:41 this, where
+1:43 this is very similar to um something
+1:44 that kind of Matterport introduced years
+1:46 ago,
+1:47 uh where you have a fixed point
+1:50 spherical shot, where you can look
+1:53 around the room. If you've got a VR
+1:55 headset, you can look around the room if
+1:57 you've got a device that has gyroscopic
+2:00 features.
+2:01 And so that you're just panning with
+2:03 your your device. And that makes it
+2:06 really really fun for someone if you
+2:07 take an iPad to them.
+2:09 Um the VR headset's a little cumbersome.
+2:11 You really got to um talk someone into
+2:13 it and get them enthusiastic about using
+2:15 a VR headset and sticking that on their
+2:16 head. And um so that's a little bit bit
+2:19 more challenging in my experience with
+2:21 clients. But something that's less
+2:23 challenging is sticking a big iPad in
+2:25 front of them. And with the iPad, they
+2:28 just get to grab it. And because it's
+2:30 got gyro features, they get to just take
+2:32 it, you know, around
+2:33 and and spin around in place and get an
+2:36 idea of what their space looks like from
+2:38 that perspective. It's like they're
+2:40 holding a little viewport into their new
+2:42 home. And so, I really love this
+2:44 feature.
+2:46 And so, I'm going to show you how to do
+2:49 this. I'm going to show you how to
+2:51 create a spherical rendering. Um I'm
+2:53 going to show you how you can load it
+2:54 into a website for client viewing such
+2:57 as Kuula. And then, I'll show you how we
+3:00 might be able to um
+3:03 improve that rendering using a little
+3:06 bit of AI and some Photoshop. Okay?
+3:10 And so, here's what I'm going to do is
+3:13 I've got a camera in this project that
+3:15 I'm just going to move around a little
+3:16 bit.
+3:17 And I like to set up this camera
+3:21 in my plan view.
+3:23 And I do that because it's easy With a
+3:26 spherical rendering, you want a couple
+3:27 of things to be true. You want your your
+3:30 pitch and your direction to just be,
+3:33 you know, on 0 0.
+3:35 Basically. And so, it's easier to do
+3:38 that in a top-down view to start. So, if
+3:42 I just pull this camera and make sure
+3:44 that it's
+3:45 um
+3:46 perfectly level, that's a good starting
+3:49 point. And then, I can use the center
+3:51 object tool on it to center it on this
+3:54 range. And so now I know it's centered.
+3:57 And
+3:58 easy for me to see that if I pull this
+4:00 camera back, it's going to be centered
+4:02 of this hallway as well. So maybe I get
+4:04 to see down this hallway. Because
+4:07 remember that spherical rendering's
+4:09 going to be you know, all views from
+4:12 wherever your camera is established. So
+4:14 setting up that camera is kind of a step
+4:16 one.
+4:17 And let's see, Merlin says good morning,
+4:19 Renee.
+4:21 I don't tell all my clients, but they
+4:22 pay me to play.
+4:23 >> [laughter]
+4:24 >> Nice. Yeah, good.
+4:26 And then Carol P,
+4:29 good morning. Good morning.
+4:31 Carol, we saw you were on a trip
+4:32 recently.
+4:34 How was the trip?
+4:36 Was that successful? Looked like you
+4:37 might have been working on that trip.
+4:39 I'm wondering what that was about. And
+4:40 good morning, Victor.
+4:43 All right. So,
+4:45 um
+4:46 and before I go any further, I want to
+4:48 you know, I always like to say, "Hey,
+4:51 I'm I do these lives so that you can see
+4:54 them for free, get this information for
+4:56 free. They do go into my membership
+4:58 area. So if you want to go find this
+5:01 information later, you do have to you
+5:02 know, it's behind a paywall. You got to
+5:05 pay $35 and you can go see
+5:08 hundreds of hours of videos if you like,
+5:11 but it's 35 a month.
+5:12 You don't want to pay 35 a month, cancel
+5:14 it.
+5:15 And then come back when you need it
+5:16 again.
+5:17 Um so that's there. That's what these
+5:19 videos are about. I'm trying to give you
+5:21 some of my best information. And so if
+5:23 you're joining in the lives, you're
+5:25 getting that information. Cool.
+5:27 Uh and then the next part about this is
+5:29 I sell templates.
+5:31 So that's what this is called template
+5:33 Tuesdays. This is an opportunity for me
+5:35 to um in the spirit of sharing still be
+5:39 able to tell you that I have things that
+5:41 you know, help me monetize and be able
+5:43 to continue to do this for the
+5:45 community.
+5:46 And um let's see. I felt like I had one
+5:50 more thing to say, but I guess I don't.
+5:52 So, let's keep going.
+5:53 So,
+5:54 uh
+5:55 let me open up this camera and
+5:57 kick-start this show.
+6:01 And we'll do a little spin around just
+6:03 to see what we've got going on in here.
+6:06 Um
+6:07 and
+6:08 by spin around, I could
+6:11 um if I didn't want to mess up that
+6:12 camera view because I already had it
+6:14 established, I could do a little quick
+6:17 save active view as, this little icon
+6:21 right here. I could do the little save
+6:22 active view as to have a new camera, and
+6:25 that way I'm not messing up the camera I
+6:26 just established.
+6:28 Um
+6:29 this project I did a a couple little
+6:31 extra things. I went that extra mile.
+6:34 This is something I'd love to know if
+6:35 people want to know about is I use
+6:37 extra software. I use other software
+6:39 that I pay for. One of a them is
+6:42 Substance Painter. It allows me to
+6:45 texture things in a way that makes them
+6:46 look really, really good out of the box
+6:49 in Chief Architect. I know we're all
+6:50 using AI, but you'll find that even
+6:53 though we're using AI, if you really
+6:55 want the best quality product, the best
+6:58 quality output and rendering, it still
+7:00 is important to have base models that
+7:02 look really, really good. So, I do take
+7:05 the time occasionally to
+7:07 um
+7:09 to make things look really, really good.
+7:11 And one of those things is I just built
+7:12 this hood. Isn't this cool? It's a
+7:15 really low poly count hood. Um
+7:18 and
+7:20 and you can see here in things like
+7:22 Substance Painter, you can do things
+7:24 like paint on
+7:26 these seams that look like they're
+7:28 welded, you know, paint on um this this
+7:33 detail here that you're seeing in the
+7:35 metal to make it look really realistic.
+7:37 So, um that's something that I could
+7:39 show you in a future show if you want to
+7:41 see how this was done. If you want to
+7:42 see how this was modeled, and I did it
+7:44 in a very fast way as well.
+7:47 And then
+7:48 just working on textures in this
+7:50 particular file using some of my other
+7:53 models that I've gone through and
+7:55 and spent the time to make look
+7:57 realistic like these
+7:59 these sofa chairs.
+8:02 And building low poly count molding
+8:05 lines to do things like this. This is
+8:07 just a molding line so I can stretch
+8:09 this out and all of a sudden
+8:11 just a longer curtain.
+8:13 You know.
+8:14 Um and it's a low poly count curtain,
+8:16 believe it or not.
+8:18 Which is kind of crazy.
+8:21 I don't need that curtain coming into
+8:22 the room. And then just detailing,
+8:24 detailing, detailing, creating textures.
+8:27 This is all stuff I do for clients when
+8:29 they need um a better product for this
+8:31 to look good so that hey, maybe we don't
+8:34 need AI. Maybe we just get the schedule
+8:36 console and walk through through this
+8:38 and they can really see their project.
+8:40 And yeah, it's it's looking pretty good.
+8:42 Yeah, AI is going to make this look a
+8:43 little bit better, but
+8:45 you know, out of the box chief, looking
+8:47 pretty good.
+8:48 So, that's what this project is. Let me
+8:50 just close down this camera.
+8:54 I don't even need to save it.
+8:56 And so, there we go. There's this
+8:58 camera. We kind of saw what was going on
+9:00 with it. You can always open your
+9:02 camera. You can get to the positioning
+9:05 panel. This is kind of an important
+9:07 detail. Tilt angle you could see was set
+9:10 to -2°. We want to zero that out, okay?
+9:13 You can get to this dialogue box from
+9:15 within the camera view if you hit edit
+9:18 the active view. It's the same dialogue
+9:21 box. Okay, so if you're inside your
+9:23 camera, you're viewing the space in 3D,
+9:26 then if you hit the edit the active view
+9:29 button, which is this button up here.
+9:33 Then you can get to this dialogue box
+9:35 where we could positioning panel and you
+9:37 could zero out that tilt angle. You
+9:39 could
+9:40 put 180 on that camera angle, and you
+9:42 can even set the height above the floor.
+9:45 In this case,
+9:46 um
+9:47 you know, maybe I'll put 5'9" or
+9:49 something like that.
+9:51 Okay?
+9:52 And let me press okay.
+9:56 Uh good morning, Anthony. Good morning,
+9:57 Sharon. The welding lines are crazy.
+10:01 Yeah, it's um
+10:02 that's a really fun fun software. It
+10:05 feels like you're playing. It feels like
+10:07 you're creating art in that software.
+10:09 So, um just to show just to say out loud
+10:13 how those welding lines are created is
+10:16 that you've got you've got your hood,
+10:17 you get to rotate that hood as if you
+10:20 were holding it in your hand and draw
+10:22 things on it, but what that welding line
+10:25 is is that
+10:26 in materials, we have what are called
+10:28 bump maps or normal maps. Bump maps in
+10:31 particular are a um white and black or
+10:35 rather grayscale map where, you know,
+10:37 black represents um
+10:40 maybe a um
+10:42 an elevation, a height, right? And white
+10:44 is um something that's
+10:47 um
+10:48 recessed,
+10:50 etc. So,
+10:51 uh so, yeah. What you're doing then is
+10:55 you're stacking on layers. Just like we
+10:57 stack on layers in Chief Architect,
+10:59 we're stacking on layers. And a layer
+11:01 that you might stack on to texture as
+11:04 you're applying to a mesh is that you
+11:07 might stack on something that has a
+11:09 parameter that says it's going to be
+11:11 really high. It's going to produce
+11:13 height in the material itself.
+11:15 And so, I did something where I'm
+11:18 producing height,
+11:19 and then I added a mask. The mask is a
+11:23 black and white map as well, where black
+11:27 we're letting through that height onto
+11:29 the mesh. White, we're not letting
+11:31 through anything, so there's no height
+11:33 on the mesh. So, you put a an inverted
+11:36 mask on there, where we're not letting
+11:38 anything through, and then you use a
+11:41 vector-based
+11:43 point-to-point path.
+11:45 And the point-to-point path has a brush
+11:49 tool loaded into it. Basically, it has a
+11:50 profile that has smart parameters, and
+11:53 that profile is the shape of a weld, the
+11:57 size of the weld, the burn-off rate, um
+12:00 any kind of stippling
+12:02 that's happening, all right? And then
+12:04 that just creates along that path and
+12:06 relieves
+12:08 um it it um it
+12:11 basically, it it lets that bump come
+12:14 through. It lets that height come
+12:16 through. So, we're just painting on a
+12:18 weld with a path tool. Very, very fun,
+12:21 and it's very fast. Um so, yeah, it does
+12:23 feel like playing. So, if anybody ever
+12:25 wants to see me work in that software,
+12:27 I'm happy to do that on a template
+12:28 Tuesdays. I think that's adjacent to
+12:31 what we do, if if you're getting into
+12:32 the more creative side of creating
+12:33 materials that are advanced materials.
+12:36 All right, let me get back to this.
+12:38 So, I have my camera, and I can do a
+12:41 number of different things from here
+12:43 with this. I can create an orbital
+12:44 walk-through path, which is great if
+12:46 you've set up a camera exactly the way
+12:47 you want it, and you want to create
+12:49 walk-through paths. That's what these
+12:50 are right here. Um they'll record short
+12:53 little snippets of of videos, especially
+12:56 if you have an Nvidia card uh with DLSS,
+13:00 um then it's able to render those videos
+13:02 very, very quickly. I'm hoping at some
+13:04 point AMD I know AMD's working with
+13:07 Chief on this, but hopefully AMD will
+13:09 have their DLSS
+13:11 um
+13:12 ray tracer as well, their version of it,
+13:14 anyways. It's called a little something
+13:15 different.
+13:16 So, I've got this camera, and I want to
+13:19 export a spherical rendering from it.
+13:22 Okay?
+13:23 Except for this is grayed out. What does
+13:25 that let you know? Well, you actually
+13:26 have to open the camera up.
+13:29 So, I'm going to open this camera up.
+13:31 Morning, Kenny Crocker.
+13:35 One of the Kens is here.
+13:37 The The ants and the Kens is what I call
+13:40 them. Kenny Crocker, Ken Latham. I
+13:42 don't think we've seen him in here in a
+13:44 while and then Anthony Reed, Anthony
+13:46 Hayes.
+13:49 And so,
+13:50 just to double-check my numbers, I'm
+13:52 going to edit the active view
+13:53 positioning. Oh, I did open the wrong
+13:55 camera.
+13:57 Oh, 180. Yep, yep, yep, yep, yep, yep,
+13:59 69. Yeah, there.
+14:02 I'll bump me up just a little bit. Okay.
+14:05 And from here, now that we're in the
+14:08 camera, we get to do file
+14:11 export, export 360 panorama. Now, if you
+14:16 watched my last
+14:18 week's show, you'll know I love teaching
+14:21 and using mnemonic keys on a PC.
+14:24 And so, that means we tap alt. We're
+14:26 going to hit the F key for the file
+14:28 menu. We're going to hit the E key for
+14:29 the export menu. Notice I'm not even
+14:32 looking at the screen right now cuz I
+14:34 know what these are already. We're going
+14:35 to hit the three key for 360 panorama.
+14:39 Why do I know that? Because I've been
+14:40 practicing this for a year and a half
+14:43 and that's about how long it took me to
+14:45 remember
+14:46 almost all the menu items. And remind
+14:49 you, these are not hot keys. They exist
+14:52 alongside of hot keys. You can still
+14:55 program all the hot keys you want and
+14:58 still remember all the mnemonic keys so
+15:00 that maybe you have devices in hand and
+15:03 devices in hand, you're using hot keys
+15:05 to keep your wrists and keep everything,
+15:08 you know, no carpal tunnel, all that
+15:11 stuff, right?
+15:12 So, keep your wrists on your devices.
+15:14 Set up hot keys for your devices. If
+15:16 your wrists are back on your keyboard,
+15:18 learn mnemonic keys because then you
+15:20 don't have to sit there and remember a
+15:22 bunch of hot keys that might be
+15:23 challenging to remember. You can just
+15:25 follow the menu underlined letters.
+15:28 All right, so from here I'm going to set
+15:30 this to I'm going to type in 10,000
+15:32 because that's greater than the highest
+15:35 amount of width that this will export.
+15:36 It will automatically knock it back down
+15:38 to 8K resolution. And then I do not want
+15:42 to save it to project. I don't want to
+15:44 save it to my assets. I want to save it
+15:47 to a file.
+15:48 So, you can either edit path or shift to
+15:52 browse.
+15:53 And so I'm going to shift to browse and
+15:55 then
+15:56 I'll save it here. And I'm going to name
+15:58 it.
+15:59 Now,
+16:00 I would say go ahead and stay away from
+16:04 naming it the room that it's based on.
+16:06 Let it just live as the name of the
+16:09 project. Why? Because if you make more
+16:12 of these,
+16:13 Chief will automatically add the suffix
+16:16 1 2 3 4 to your file name so that you
+16:21 don't have to sit here and
+16:23 punch in the name every time cuz that
+16:25 would be pretty cumbersome. So,
+16:27 I'm just going to call this Vanderbuilt.
+16:30 Or actually, this is Vandergrift.
+16:32 Vandergrift.
+16:35 Okay.
+16:37 And bang.
+16:41 And then
+16:43 I'm just going to press okay.
+16:45 Now, actually, I'm sorry. Before I press
+16:47 okay, it's going to render in the
+16:50 current style that we are rendering
+16:51 from, which means right now in my
+16:54 rendering technique options, I'm using
+16:56 DLSS real-time denoising. Again, this is
+16:58 only for Nvidia cards. So, I want to
+17:00 uncheck that because
+17:03 um although this is great for real-time
+17:05 walking through the project,
+17:08 it's a lot better if I set it to these
+17:10 samples instead. I'm going to get a much
+17:12 better product out of this. I also want
+17:14 to double-check by edit my active view
+17:17 that in the camera I'm not
+17:20 using super resolution, which is a
+17:22 neural networks AI based thing from AMD
+17:26 that is
+17:27 um
+17:29 basically interpolating pixels for us.
+17:31 And so I want to leave this back to
+17:33 native resolution. This is going to give
+17:34 me the best possible
+17:36 output. Okay, and then I'm going to
+17:38 press okay.
+17:39 And so now I can do that.
+17:42 Export.
+17:46 And let's see. So pump this up again.
+17:49 Save to file.
+17:52 Here we go.
+17:54 And let me press okay.
+17:59 Oops.
+18:08 Um I'm not sure why that's saying it's
+18:10 saving as a JPEG, which typically adds
+18:13 some compression.
+18:16 I'm going to see if I can force it to
+18:18 PNG.
+18:21 Yeah, I could. So that's good. Something
+18:24 to note.
+18:26 Um yeah.
+18:30 Okay, let's let it do its thing.
+18:43 And man, Chief Architect has to be doing
+18:44 some cool stuff under the hood cuz
+18:47 um a couple years ago at 250 samples,
+18:50 that's not light, you know, and it's
+18:52 still moving pretty quick even with uh a
+18:55 40 series card.
+18:59 So while that's going, I'm going to get
+19:00 something else prepped up here. I'm
+19:02 going to use an AI service called Creai.
+19:06 Um that's one of my favorites.
+19:08 At least one that I pay for anyways. And
+19:11 so I'm going to use Korea to be able to
+19:14 um get some AI
+19:18 upscaling is one thing. Really, what I'm
+19:20 looking for is is that it um
+19:23 it improve the look of this.
+19:27 Now, one of the models that I'm going to
+19:28 use is is certainly, I think, better
+19:31 than others, but I think that it might
+19:33 be capped
+19:34 at
+19:36 4K, which would be that, you know, now
+19:39 we're downscaling this image,
+19:41 you know, not my favorite.
+19:43 But,
+19:45 even though we're downscaling the image
+19:47 at 4K, it might still be worth it
+19:50 because it might be giving us something
+19:51 that um
+19:53 uh
+19:54 looks better than some of the other
+19:56 models I'm going to be using. What I
+19:57 mean by models is
+19:59 uh large language model,
+20:02 and a large language model is trained on
+20:04 a subset of data. It's It's got
+20:06 parameters in order for it to um
+20:11 best produce its output, right? It's
+20:13 trained on specific data that
+20:16 that these people are training things
+20:17 on. So,
+20:20 my favorite model is one that they call
+20:23 Korea Legacy.
+20:25 And Korea Legacy, unfortunately, I think
+20:27 might be capped. We're going to see in
+20:28 just a minute here.
+20:34 And then the next thing I want to do is
+20:36 I'm just going to show you out of the
+20:37 box what Chief produces.
+20:40 And so I'm going to get to my Kuula
+20:41 account.
+20:45 And I'm logged into this. See, this is a
+20:47 virtual tour,
+20:49 right? So, this is what it looks like.
+20:51 As you get the upload spherical
+20:52 rendering like this, and what's really
+20:55 fun about this is on a device that has
+20:58 gyro, you can just sit here and and move
+21:01 your, you know, tablet up and down, and
+21:04 it will pan this for you. Okay?
+21:07 And so let me just upload just so we can
+21:09 see single image.
+21:13 I'm going to upload that panoramic file
+21:15 that we just did.
+21:16 And so look at this. This blue node in
+21:19 cool uh represents the starting view. So
+21:22 if you want the starting view to be
+21:24 something else, you get to just rotate
+21:26 around and
+21:28 the point where you want this to be
+21:29 started at, okay? And so here's this is
+21:32 coming right from Chief 8K resolution.
+21:35 All right. Now, I've run into this
+21:38 before. This is a little glitch. I'm
+21:40 surprised this is still there. Um we can
+21:42 see here that the reflection off the
+21:44 window
+21:46 is being placed into this space.
+21:50 Um I do not know what the work around is
+21:53 other than maybe I'll go try and
+21:55 re-render it.
+21:57 So that's a funny little thing, right?
+22:00 Kind of messed up, but um
+22:03 also maybe we can get AI to just ignore
+22:06 that. Who knows?
+22:10 Cuz otherwise, you know, out of the box,
+22:12 this looks pretty good. And this might
+22:13 be good enough for a lot of people, but
+22:15 not everybody has my full library of
+22:17 textures and tools. So maybe your
+22:20 renderings aren't looking quite as good
+22:22 as this. It takes a long time to build
+22:24 out textures that look this good. It
+22:26 requires a bunch of
+22:27 um knowledge in in terms of creating the
+22:30 maps to make everything look like this.
+22:32 So
+22:34 Um and then we get to do a couple things
+22:36 here. HDR tone mapping,
+22:40 sharpness.
+22:41 Maybe maybe
+22:43 maybe you'll be able to, you know,
+22:44 create a little bit more sharpness if
+22:45 we've got soft edges, etc. Play around
+22:48 with that setting. And then zoom
+22:50 setting's kind of an important one.
+22:52 Um sometimes I like to zoom this in a
+22:54 little bit more. Makes it look
+22:56 a little bit more true to life. As if I
+22:59 zoom that in.
+23:00 All right. So that's what that looked
+23:02 like out of the box. Now, let's do
+23:04 another thing. We're going to go to
+23:05 Korea's enhancer and see what happens
+23:07 when we upload that image.
+23:15 Nothing, apparently.
+23:21 Did that do anything? It didn't look
+23:22 like it did anything, huh? Or maybe I
+23:24 froze it.
+23:35 Yeah, looks like my Chrome just got
+23:36 blown up.
+23:40 Dang it.
+23:52 Well, everybody gets to take a break.
+23:55 While I restart Chrome.
+23:58 Try that again.
+24:16 There we go. That's starting.
+24:22 Okay, so Korea enhance, let's see, set
+24:26 to max resolution.
+24:27 Um, and then
+24:30 my favorite is Korea enhance legacy.
+24:34 And max resolution is
+24:38 Yeah, unfortunately, it's 4K.
+24:40 And that's really that's a really big
+24:42 bummer.
+24:44 Um, but I still want to show you what
+24:45 that looks like because
+24:47 um, this is definitely their best model
+24:49 for Chief Architect renderings, by far.
+24:52 If you're someone that has my architect
+24:54 AI, I'd love it if you try this out, see
+24:56 what happens.
+24:58 See if it's capable of doing um some
+25:00 really good up scales on a spherical
+25:02 rendering. It's a little bit
+25:03 challenging. I'm going to switch models
+25:05 to their default create enhance.
+25:08 I'm going to pump up maybe the AI
+25:09 strength a little bit.
+25:13 And then we still want resemblance up
+25:15 to, so
+25:17 try that. I have
+25:21 I think the basic package now. I
+25:22 downgraded because I wasn't doing as
+25:24 many of these, but basic package I think
+25:26 I can do
+25:28 two at a time.
+25:31 And
+25:33 it looks like
+25:35 re-enhance legacy just finished up.
+25:38 And so it did ah, it still left that
+25:41 dang reflection. I can see it right
+25:43 there.
+25:46 But maybe it did a few other things that
+25:47 might be nice, making this look a little
+25:50 bit more realistic. Who knows?
+25:52 So, let's download this.
+25:55 And then the next thing I want to do is
+25:56 I want to load up Photoshop.
+26:02 Um I know that there I know that I
+26:04 mentioned last week that there is a
+26:07 um
+26:08 there is an AI generated I'd almost call
+26:12 it a port um but a a
+26:16 a recreation of Photoshop out there on
+26:18 the market right now. And I know that
+26:20 Adobe just responded, so I don't know if
+26:22 you have access to it or not. I don't
+26:24 know the current state of things, so if
+26:26 you don't have access to it, then
+26:27 Photopea is another Photoshop
+26:29 alternative.
+26:30 Um if you have Photoshop, great. I think
+26:33 you should have Photoshop if you're
+26:34 doing any kind of if you are a rendering
+26:37 artist at all.
+26:39 So, here is my original
+26:42 and I'm going to set this up in a couple
+26:44 different ways. I'm going to set this up
+26:46 for success here, which is that we need
+26:49 to do a little control J. That's going
+26:51 to copy this layer forward. I'm going to
+26:54 hit the V key. That gets me into the
+26:56 move tool, okay?
+26:59 With the move tool, I'm going to slide
+27:00 this over.
+27:03 I'm going to slide this over so that it
+27:04 snaps to the center line.
+27:07 Now that I have that, with the Alt key,
+27:09 I'm going to slide this over. Now, I've
+27:10 noticed a glitch with Photoshop recently
+27:13 that typically in the past, I could keep
+27:14 sliding this over till it's almost off
+27:16 the screen. There's some glitch where
+27:18 when I slide this to the point where
+27:20 it's over the interface, it glitches out
+27:22 and locks up Photoshop. So, try to avoid
+27:24 that. You might have to move it twice.
+27:27 So, there we go. Now it's snapped. Now,
+27:30 understand what I just did.
+27:32 I just snapped this so that this is the
+27:35 seam. This is the repeating part of the
+27:37 sphere, okay? This is when the sphere
+27:40 wraps onto itself and meets as a stitch
+27:43 line.
+27:44 We need to know where that is because
+27:46 what's AI going to do? AI doesn't
+27:49 understand that this is a continuous
+27:51 picture. So, it renders it without that
+27:55 knowledge. So, it renders it um
+27:58 potentially with a screw-up at the
+27:59 stitch line.
+28:01 And so, now let's come in and dump our
+28:05 AI-based
+28:08 output.
+28:12 If I can find it.
+28:18 And so, there we go.
+28:20 And so,
+28:21 notice that this is 4K. It's not 8K. So,
+28:24 that's why it's
+28:26 smaller.
+28:27 I'm going to hold the Shift key while
+28:28 I'm resizing this.
+28:31 Down in the diagonal here. Hold the sh-
+28:33 Let's see. Actually, I don't even need
+28:34 to do that. I could just drag these and
+28:36 snap them.
+28:37 That'd be one way to do it. Hit the
+28:39 Enter key to commit that and then slide
+28:42 this over to that halfway point.
+28:44 And then
+28:46 Alt key to drag out a copy from there.
+28:49 Find it over to the halfway point. Now,
+28:51 now you can really see what I'm talking
+28:53 about. At that stitch line, we've got
+28:56 all kinds of problems. See that?
+29:00 The next thing I'm going to do is I'm
+29:01 going to join these two, right? So, I'm
+29:03 going to shift select these two layers.
+29:06 Control G to group them. And I can even
+29:08 control E to make them one single layer.
+29:12 On top of that, I'm going to add a mask.
+29:15 I'm using the correct terminology, by
+29:17 the way. So, if you have questions about
+29:20 this, you can always take the transcript
+29:22 of this video, send it into AI, or you
+29:24 could just Google the terms I'm using.
+29:26 So, mask is a term in Photoshop, right?
+29:28 The move tool, term in Photoshop. So, I
+29:31 just added a mask. I'm going to invert
+29:33 that mask. Control I. It's going to make
+29:35 it black. What does that do? Black mask
+29:37 is going to make it so that none of
+29:39 those pixels come through.
+29:41 I control I again, all those pixels are
+29:43 coming through. So, watch what happens
+29:45 when I switch to the brush tool.
+29:47 And I am brushing with a white color on
+29:51 a black mask.
+29:53 Or excuse me, on a white mask. I'm
+29:56 brushing with a white brush on a white
+29:57 mask. It's not doing anything for me.
+29:59 I'm going to switch my foreground and
+30:00 background colors.
+30:02 My background color is black. So, the X
+30:05 key switches those. So, now I'm painting
+30:08 with a black on a white mask. And you
+30:10 can see here, I'm revealing
+30:13 the original shot.
+30:15 All right.
+30:16 And so, what do we do with this?
+30:19 What do we get to do with this? Well,
+30:21 we kind of make a really soft brush
+30:25 and try to fade it into the floor.
+30:28 Right? So, that we get that stitch line
+30:30 back, so that that looks accurate still.
+30:33 Okay?
+30:34 That's all I was doing there.
+30:36 And so, now we still have all the
+30:38 benefit of that AI rendering that it
+30:40 improved.
+30:42 You know, it might have done some things
+30:44 that really make this look good. It
+30:46 might have also done some things that AI
+30:48 tends to do, which is
+30:49 you know, have a reflection of the floor
+30:51 on the wall for some reason, you know,
+30:53 and we want to get rid of that. Right?
+30:56 You got to fix these things.
+30:58 You got some weird
+30:59 things happening because it's trying to
+31:01 um figure out, you know, what that
+31:03 reflection was coming from Chief.
+31:05 And unfortunately, that was just a
+31:07 problem with Chief on this one. I should
+31:08 have re-rendered it starting from there,
+31:10 but here you go. It kind of got rid of
+31:12 the tufting on these chairs. I only want
+31:15 to use AI for the things that it does
+31:17 well at, right? I only want to get out
+31:19 of AI the things that it improved. I
+31:22 don't want its slop. I don't want the
+31:25 stuff that it messed up.
+31:27 Okay?
+31:28 Um oh, I left the table in there.
+31:33 That was my fault. I left a little table
+31:34 in here, shouldn't have done that. Oops,
+31:36 oh well. Um you know, my texture was
+31:38 better than what AI produced, so I'm
+31:41 going to bring that back. And this is
+31:43 again, this is the power of having a
+31:45 great textures in Chief Architect is
+31:48 that if you have great textures, you get
+31:50 to choose which thing you want, you
+31:51 know? You get to say, "Hey, I want to go
+31:53 back to my great texture because AI did
+31:56 a terrible job with it."
+32:01 Oh, I think that was actually pretty
+32:03 good. I'll leave that.
+32:04 And then, what did it do with the stone
+32:06 at the fireplace? It did okay. It
+32:08 changed my photos. I don't want it to do
+32:11 that. I like my
+32:12 my paintings that I had there.
+32:14 You know, you So, you really got to
+32:16 study this. It did some funny things
+32:17 with this chair cuz it didn't understand
+32:19 what that was. That's okay. We can just
+32:21 mask that back out. So, you can see
+32:23 here, you can get back to
+32:26 things that make sense.
+32:27 >> [laughter]
+32:28 >> I put the hood over there cuz I was
+32:30 working on that hood
+32:31 and forgot to remove it. So, you know,
+32:34 some of this is my fault.
+32:37 So, really, again, I only want to steal
+32:40 from AI what it improved. And most of
+32:43 what it improved is was right in front
+32:45 of it. Right? A lot of this stuff, you
+32:48 know,
+32:50 it didn't improve at all. I might just
+32:52 take it right on back.
+32:55 Isn't that funny?
+32:58 So the things that it does the best job
+33:00 on are the things that might be right in
+33:02 front of it, which is the chairs, the
+33:03 hood, etc. Um in fact, I don't think I
+33:06 like the what it did to my hood, so I'm
+33:08 going to bring that back, too.
+33:12 Okay. Let's just assume the rest of this
+33:14 looks great. So let's go output this.
+33:18 Control Alt Shift W, export this
+33:22 as a PNG file.
+33:24 There we go.
+33:25 High resolution.
+33:27 Now, something I like to teach people
+33:29 when I'm doing training on rendering
+33:32 is
+33:37 um is that you can always take an export
+33:41 where you've masked out the problem
+33:44 areas,
+33:46 right? Like we just did. We masked out
+33:48 the problem areas. We exported. There's
+33:50 nothing keeping you from taking this
+33:53 back to Crea to look at what the the
+33:56 other model did with Crea.
+33:58 This is the other model that preserves
+34:00 the AK. Yeah, it adds too much texture.
+34:03 I've noticed this in this model. I don't
+34:05 I'm never
+34:07 um fixed this. So I'm not impressed by
+34:10 that. But here, I can do a new session.
+34:12 I can re-upload my enhanced version, and
+34:15 then I can use a different model to
+34:18 upscale this. So Topaz Image Upscale,
+34:22 we'll give it a shot.
+34:25 And we might even be able to
+34:27 um improve this to a greater resolution
+34:29 than it was.
+34:35 >> We'll see what happens with that. In the
+34:37 meantime, let's go check this out in
+34:39 cooler.
+34:58 I mean, that just looks looks great. I
+35:00 feel like I could do a few more things
+35:02 with this.
+35:03 That looks pretty good. Notice what
+35:04 happened with the sink. Sometimes it's
+35:06 just hard to get the preview on on this.
+35:08 So, sometimes you're just getting some
+35:09 goofy things. It messed up all my
+35:11 cabinets there. So, those Again, those
+35:13 are things I want to mask back back out.
+35:15 Really, all I got from this thing was
+35:19 the countertop and chairs.
+35:21 The rest of it didn't improve all that
+35:24 much. Um, you know, the beams look
+35:26 pretty good.
+35:30 Yeah, other than that, I think my
+35:32 out-of-the-box rendering was
+35:35 was all right.
+35:37 Isn't that funny?
+35:40 So, your mileage may vary on this AI
+35:42 stuff. I know that it did some nice
+35:44 things with the backdrop. I know that's
+35:46 part of it. Um, it also did some really
+35:48 goofy things with my cable railings and
+35:50 stuff like that. The other thing that
+35:52 you can always do in your Photoshop,
+35:55 and this is, you know, kind of what I
+35:56 call pixel peeping. Um, oh, apparently I
+35:59 left
+36:00 a sample of stone out there.
+36:06 Isn't that funny?
+36:12 Yeah, it messed up a lot of things.
+36:13 Honestly, AI didn't do that great of a
+36:15 job. The out-of-the-box rendering was
+36:17 better.
+36:19 Um, I think the countertop is really the
+36:21 only thing it gave me that was worth a
+36:22 dang cuz, hey, even the slide fixtures
+36:25 look better.
+36:26 Just as the true models.
+36:29 So, you can get a combination of things,
+36:30 use that. Um the other thing that I love
+36:33 to do, which is what I was going to say,
+36:34 is I will come stamp this forward in
+36:37 Photoshop. This is control alt shift E,
+36:40 and then control shift A will bring this
+36:42 into camera raw filter, and this is
+36:45 really where you can do some magic.
+36:48 And mess around with some of the
+36:49 settings. Typically, AI brings in too
+36:51 much um contrast, too much
+36:55 in terms of its blacks. So, I'll bring
+36:57 the uh contrast back down. I'll send
+37:00 dehaze up. Um I'll mess around with
+37:03 clarity to see if I like that. Sometimes
+37:05 clarity and texture needs to be dropped
+37:07 down in an AI rendering.
+37:10 Um
+37:12 And then you can introduce a little bit
+37:13 of grain. You can mess around with the
+37:16 shadow levels,
+37:17 um if you want more of a dramatic look,
+37:20 right?
+37:21 Um you can mess around with those white
+37:23 levels.
+37:25 Then
+37:26 get into even color grading, where we're
+37:29 targeting colors to
+37:31 uh change their saturation, um targeting
+37:33 colors to
+37:35 uh make things more vibrant or not, or
+37:37 shift them in hue, stuff like that. So,
+37:40 you can do some really cool stuff in
+37:42 here, and then do some sharpening. You
+37:44 can also do some noise reduction, which
+37:46 will help the shot a lot, and sharpening
+37:49 on top of that. Um anyways, this is an
+37:52 opportunity for you to really dial in
+37:54 some settings, and make this
+37:56 pop off the screen. So.
+38:01 Yeah, yeah, yeah. Let's go take a look
+38:03 at what
+38:06 our enhancer did.
+38:08 And
+38:13 enhancer did some nice things,
+38:15 certainly.
+38:17 It improved that fiddle-leaf fig.
+38:20 It improved our light fixtures.
+38:23 Um our goofy sink is still messed up.
+38:31 It's like it improved that fire quite a
+38:33 bit, actually.
+38:36 Yeah, and some of the pictures.
+38:39 Yeah, in fact, it did a lot. Um that's
+38:41 nice.
+38:43 Let's download this. Let's dump it in,
+38:44 even though we know it's got some
+38:45 problem areas.
+38:56 Uh let's see.
+38:57 Aaron says, "I'm way late. I'm using
+38:59 HDRI
+39:02 to take 360° HDRI files at job sites."
+39:08 Uh yeah, that's a whole different That's
+39:10 a whole different workflow, isn't it? Um
+39:14 Yeah, when we were in Coeur d'Alene,
+39:15 Idaho, at the Chief event, when we were
+39:18 walking, we um
+39:21 wandered upon an empty lot. If you see
+39:23 an empty lot that is ungated, meaning
+39:26 you can walk on that lot, there's your
+39:28 opportunity. If you work in an urban
+39:30 area, that is the best opportunity you
+39:33 could possibly get to get one of the
+39:35 coolest backdrops you could want, which
+39:38 is an empty lot backdrop. Spherical
+39:41 empty lot backdrop. And if you want to
+39:43 take that a step further,
+39:45 send it to me,
+39:47 and once you send it to me, what I will
+39:50 do is I will create a a radiance channel
+39:54 in that HDRI backdrop, and I'll make it
+39:58 so that there is actually a light
+40:00 emission happening. So, like sunlit,
+40:04 okay? So, that when you drop that into
+40:06 Chief, it's actually lighting the scene
+40:08 from a directional sun, uh making it
+40:11 look about as realistic as possible. So,
+40:14 um that's a very cool little workflow,
+40:17 and it certainly takes some practice and
+40:19 some knowledge to get that to work. So,
+40:21 yeah, if you've got an empty lot um
+40:24 spherical
+40:25 camera shot or even a pano um pano's a
+40:28 lot more work for me, but I can still
+40:29 work with a pano.
+40:31 Um the best way to shoot one of those is
+40:33 of course on a tripod, but hey, we don't
+40:35 always have tripods. Um so, set your
+40:38 camera to um
+40:41 to a panorama. If your camera is capable
+40:44 or if you can find an application to do
+40:46 this, you should shoot in the widest
+40:49 aperture possible so that it's capturing
+40:52 more in terms of its height as you go
+40:55 around and do a a little pano, right?
+40:59 Um
+41:00 So, we're getting more of that height.
+41:03 When we get more of that height, then I
+41:04 have less to fill in because I'm going
+41:06 to have to fill in with AI, probably
+41:09 fill in the sky, fill in the ground
+41:11 where your camera didn't capture those
+41:13 things, and then we've got a photosphere
+41:16 that I can then add a radiance channel
+41:18 to. So, um I would love to show some
+41:21 people that. So, if you've got one of
+41:22 those, uh shoot it my way, please. Email
+41:25 me.
+41:26 Uh okay. We're back on Coola. Let's
+41:30 close this out. We're going to discard
+41:32 this. We're going to try that other
+41:35 other image.
+41:39 Uh which I believe is this one. Let's
+41:41 check it out.
+41:42 Oh, yeah, that looks nice and sharp.
+41:45 Cool. Super high resolution.
+41:48 Um
+41:49 you know, few problem areas still.
+41:52 Again, this was working from a problem
+41:55 that we didn't fix. Um so,
+41:58 all things considered, this looks nice
+42:00 and sharp. So, that's a good model to
+42:02 remember.
+42:03 You get a creative model to get you what
+42:05 you want and then
+42:08 um and there's that stitch line that
+42:09 we'd have to fix.
+42:13 And then you get a digital upscaler.
+42:15 Yeah, this looks
+42:17 This looks really clean.
+42:19 It's great that you can see all this
+42:20 detail over here. That's awesome.
+42:25 So,
+42:26 the next part about this is uploading it
+42:28 to Facebook. You want to share this. If
+42:31 you don't If you're not doing a
+42:32 point-to-point tour, a point-to-point
+42:33 tour means that I get to put a little
+42:35 hotspot marker here and then that
+42:37 becomes another spherical rendering. And
+42:40 that spherical rendering would be from
+42:41 that living room. So,
+42:43 um that's so that
+42:44 the end user can just click on that
+42:46 point and it automatically navigates
+42:48 them to that. So, that's what's really
+42:50 cool about Kuula. But, if you want to
+42:52 share this on Facebook, there's a few
+42:53 things that you have to do. There's an
+42:54 old trick. I would say go ahead and
+42:56 Google this or use AI to tell you how to
+42:59 do this, but we need to edit the
+43:01 metadata
+43:03 of the image. And the metadata you're
+43:05 going to
+43:06 um basically
+43:09 say that the image is produced from a
+43:11 360 camera and that Facebook recognizes
+43:15 as a 360 camera. So, that when you
+43:17 upload the photo, um
+43:20 Facebook sees it as one of these
+43:22 spherical renderings and will render it
+43:24 as such. Really great way to share a
+43:27 cool project on Facebook, especially in
+43:29 our Facebook groups. Um they always
+43:32 track better than still images. Is if
+43:34 you upload a 360 uh image, people are
+43:37 just ecstatic about it. So, maybe I'll
+43:39 go would take the time to look make this
+43:41 look as
+43:42 good as possible because I'm not going
+43:44 to have time to do that in this show.
+43:46 And I'll upload it into Facebook and um
+43:49 um into the users of Facebook group. So,
+43:52 if you're not familiar with that group,
+43:54 get on the Facebook. We have a great
+43:56 group for you.
+43:57 Bunch of resources, so.
+44:00 Um if you're not familiar, I do have uh
+44:02 the Rabbit Design Feed. This is where I
+44:03 post
+44:04 all things on my brain that are, you
+44:06 know, largely business-related uh tools
+44:08 that I use, and things that I'm
+44:10 interested in, things that I'm
+44:15 You know, I I I post tutorials. I post
+44:18 these lives here.
+44:20 And then you know, people are asking
+44:22 questions here. So, if you want to come
+44:24 join the Rabbit Design feed. If you go
+44:26 dig through the archives on this, I got
+44:27 some really cool information I've shared
+44:29 in the past. And then some of the other
+44:32 groups here, let's just
+44:34 check this out. Users of Chief
+44:36 Architect. If you didn't know about
+44:37 this, go join this group. We're up to
+44:39 16.8 thousand members. And yeah, I think
+44:43 once I finish one of these spherical
+44:45 renderings, I'll go post it there.
+44:47 Now, I see a couple cool things in the
+44:49 comment here. Um Rab, I highly suggest
+44:52 switching from Korea to Arch Synth.
+44:55 Use the tool
+44:57 add realism. It doesn't add any
+44:59 artifacts and just enhances the image.
+45:01 Okay? I'm familiar with Arch Synth. I've
+45:04 used it before. I found that Korea's
+45:06 legacy model was about the same as Arch
+45:08 Synth model
+45:09 for all the things that I was doing.
+45:11 Keep in mind, I know that this scene was
+45:14 going to be tough. Why? Because it has
+45:16 so much texture happening.
+45:20 Right? There's texture in this tile
+45:23 that's so subtle. There's texture in
+45:25 this wood that's so subtle.
+45:27 Right? There's so There's so many knots
+45:29 in all of the wood. Um there's all these
+45:33 thin elements that are running through
+45:36 right in the middle of something that
+45:37 also has texture right behind it. So,
+45:41 there's cable railing.
+45:43 You can't tell me there's an AI out
+45:45 there that doesn't have a problem with
+45:47 cable railing. Um any kind of you know,
+45:51 um
+45:51 largely slatted textures things tend to
+45:55 have a problem with.
+45:56 I don't know what the heck this is. This
+45:58 looks like a wall niche.
+46:02 Shut up there by accident, I guess.
+46:05 Whoops.
+46:06 And then
+46:07 and then my other version of this hood
+46:09 is over here.
+46:11 Um I just found a hood liner catalog
+46:13 with
+46:14 um
+46:16 the liner and the actual duct.
+46:19 Um they're separate entities. That's a
+46:21 really cool
+46:24 I go look at the library browser. It's a
+46:26 really cool manufacturer catalog called
+46:28 VMI Inc. So, just know that that exists.
+46:31 That's a That was a cool one. That was
+46:32 how I did the liner really easily.
+46:38 I realized that.
+46:42 Oops.
+46:43 Um and then ACRI is an iPhone app, $4
+46:47 per skin. Yeah, so that sounds like that
+46:49 app might do something where it
+46:51 completely fills the HDRI um spherical
+46:55 image, so.
+46:57 Thank you, Aaron. That's a That's nice
+46:58 to call out.
+47:01 And then Aaron says, "I just took one
+47:03 from the roof of an existing
+47:05 single-story house to show what their
+47:06 second story addition views will look
+47:08 like." Hey, nice. Great idea. That's
+47:10 really cool.
+47:13 How'd you get up on the roof?
+47:15 Be safe out there.
+47:16 >> [laughter]
+47:20 >> All right. Um let's see. We've got
+47:22 another 12 minutes. It's very rarely
+47:24 that that I'm like ahead of the game
+47:26 here, that I'm ahead of the mark, so
+47:27 that's
+47:28 that's uh that's good for me. Um
+47:31 All right, well, then I'll just make a
+47:32 quick announcement and talk about some
+47:34 of my products for just a second. I just
+47:36 uh put it out there on my Discord
+47:38 server. Discord is where we've got a
+47:40 community of people that help each other
+47:43 out, that use my products. Um
+47:48 you know, and people are posting all the
+47:49 time. Looks like I've got an update here
+47:51 from Brad at Harmony. He's seeing some
+47:53 things in X18. Um there is just things
+47:55 that are posted all day, every day. This
+47:58 community is a really fun group. Uh,
+48:00 they're so knowledgeable. I learn from
+48:02 them all the time.
+48:04 Um, and they're just going through
+48:06 questions on how to use my product, but
+48:08 they also introduce new information um,
+48:11 that isn't related to my stuff as well.
+48:13 So, it's a nice community. There's a
+48:16 rolling feed that's just called
+48:17 information and chat. There's automatic
+48:19 links from YouTube, so you get um,
+48:23 uh, notifications for when I post
+48:24 videos, when Chief Architect posts
+48:26 videos, when some of our other community
+48:27 members post videos, like Tim Schrock or
+48:29 something like that. And then,
+48:31 um, there's a suggestions part, which I
+48:34 go through and I actually clean out and
+48:36 implement suggestions that people use. I
+48:39 review these every time I go put out an
+48:41 update for my templates. I update my
+48:44 templates
+48:45 um, I want to say about 40 times a year.
+48:48 And then, or during the development
+48:50 year, I should say. There's bug
+48:53 reporting, so in case someone's um,
+48:56 noticing something that's missing. I
+48:59 clear up bug reporting, like this one
+49:00 from Sharon, who's in the comments.
+49:02 Thank you for reporting this. I actually
+49:04 fixed this in the update that went out
+49:06 yesterday.
+49:08 Um,
+49:10 I did not fix Merlin Phillips, so I need
+49:12 to make sure I go do that. But, yeah.
+49:16 And And so, then the last part about
+49:18 this is in the announcement. You may
+49:20 have missed it, but yesterday I had a
+49:23 pretty big announcement, which is I
+49:27 updated the pro plan with a big update
+49:30 that includes library update, that
+49:32 includes new toolbar configurations,
+49:36 um, or an update to the existing toolbar
+49:38 configurations. And on top of that,
+49:40 anybody that has my full library, which
+49:42 is
+49:43 um, now 6,700
+49:46 items,
+49:47 um, the library just increased by 61
+49:50 items. So, I I added some things, I
+49:53 removed some things, and so
+49:57 um
+49:59 And then it's a listing of those items
+50:01 and where you might find them.
+50:03 So, there's a bunch of new materials
+50:05 that I added in there. Um I added some a
+50:07 bunch of distribution paths for the
+50:10 landscape package. So, those of you that
+50:12 just have my landscape package, you
+50:14 don't have the full library, you just
+50:15 have the landscape package, know that
+50:17 I'll push out an update pretty soon
+50:18 because uh Chief Architect in X18 made
+50:22 it so that we could save distribution
+50:24 paths to our library directly without
+50:26 blocking them. So, I added a bunch of
+50:29 distribution paths to make landscaping a
+50:31 lot easier.
+50:33 Um I did a ton of work at the beginning
+50:35 of this year
+50:36 using the new gradient fill style
+50:39 capability in X18 to make all my
+50:42 landscaping packages look nicer. And
+50:45 then uh let's see, what else did I add?
+50:47 I added some new 3D cladding. These are
+50:49 hard to make, they're time-consuming.
+50:51 You should seen a couple episodes ago, I
+50:53 created a 3D cladding. Um I'm
+50:55 continuously making these, and so I just
+50:58 made some ledge rock. Um one that was
+51:00 made in the show is now in the library,
+51:03 and then a couple of other ones as well.
+51:05 Um
+51:06 I added some new
+51:09 text-based macros that work with my
+51:12 templates.
+51:13 I added um and that's the designate
+51:16 beams.
+51:17 Um I added
+51:20 the that new copper hood that you saw in
+51:22 two varia- three variations.
+51:25 Um I added some new moldings, some new
+51:27 style palettes. Um something that
+51:29 someone put in the in the suggestion was
+51:32 that they wanted um a base 21 cabinet.
+51:35 So,
+51:36 uh base cut 21 cabinet tool. And what
+51:39 that means is what?
+51:41 Um
+51:42 if you didn't check my YouTube recently,
+51:44 I had a skills challenge. I'm going to
+51:45 start creating more of these skills
+51:47 challenges where we come in here and how
+51:50 quick can you build out a two sink
+51:53 vanity? And so this tool right here
+51:56 depth the 21 should just be able to come
+51:59 in here and spray this. It changes that
+52:01 depth to 21. Now in my templates, I
+52:04 updated my templates as well. There is
+52:06 now a um user base setting for bathrooms
+52:10 where you set your depth threshold so
+52:12 that it doesn't show the depth. So if
+52:15 your allowed depth in all options is set
+52:18 to 21, it's not going to show that depth
+52:21 here, okay? So if this wasn't 21, it's
+52:24 going to show that depth. So if you've
+52:26 set that threshold, there it is. So out
+52:28 of the box it's set to 21. So there
+52:30 There you go. I got our base cabinet. I
+52:32 showed in that video, hey, we can shrink
+52:33 this down to 12. We can copy this over
+52:36 12.
+52:37 We can shrink this back up to 21. We can
+52:41 do a little three drawer base on this
+52:44 tool. Copy, paste, reflect about. Use
+52:48 our sink base right here. We can even
+52:50 throw a mirror in here.
+52:53 We can
+52:55 resize that mirror if we want. We can
+52:58 throw our default vanity
+53:00 on there as well. And now we've got
+53:04 almost a dang Oops.
+53:09 Almost a dang dual
+53:11 vanity sink set up.
+53:13 Bam, just like that, right?
+53:18 Quick and easy to get to this.
+53:21 Throw a little
+53:22 light and ceiling.
+53:29 How simple that is.
+53:35 Very, very cool. Very cool.
+53:40 Uh let's see.
+53:46 I just sent you a link to download my
+53:47 HRI HR file I took in Idaho. Cool.
+53:51 Let's go check it out.
+53:58 I only got a couple minutes, but we'll
+53:59 see what you did here.
+54:06 Nope, I don't see anything from you,
+54:07 Aaron.
+54:10 Not in the email, anyways.
+54:16 Nope, don't have it yet.
+54:18 All right.
+54:21 Let's see. Please how uh
+54:23 Please, how can I export Chief Architect
+54:26 X17 file
+54:28 or drawing to SketchUp software?
+54:30 Benjamin
+54:31 Benjamin Bonds
+54:33 Bonzi. Benjamin Bonzi. Um, your export
+54:36 would be file You need to pull a 3D
+54:38 view.
+54:39 That's the first part. Pull a 3D view
+54:41 first.
+54:43 Get into the export menu.
+54:45 And there are two different file types I
+54:47 would tell you to export as.
+54:50 Um, you'll see in the industry they're
+54:52 often calling out the Collada file.
+54:54 That's a DAE file. Okay, that's this
+54:57 one. Export 3D Collada. All right.
+55:00 I do not prefer this method. The reason
+55:03 people do that is because there is a
+55:06 vertice limit on 3DS file types.
+55:10 But, 3DS file type will retain all of
+55:14 your component-based models. Meaning
+55:17 that it will not group together models
+55:19 like DAE does.
+55:21 DAE Collada file groups things together
+55:25 by similar materials being applied,
+55:28 okay? So, that if all of your walls have
+55:31 the same interior material, how SketchUp
+55:34 will view it is
+55:36 all of your walls with that same
+55:38 material will be seen as one mesh.
+55:42 That's not desirable if in SketchUp you
+55:45 want to go change the color of one room
+55:48 separate from another room.
+55:51 That's why DAE is a less desirable
+55:54 export.
+55:55 Um so what I prefer to do and it's more
+55:59 work is I export as 3DS. That means it's
+56:02 going to break everything up. Base
+56:04 cabinet's going to be separate from each
+56:05 other. Meaning if this run of vanity
+56:07 cabinets right here is all one color, if
+56:10 I export that it will all be one model.
+56:13 We'll just show you this real quick.
+56:16 Export.
+56:17 A lot of my
+56:19 Okay. Example. In my downloads. We're
+56:22 going to fire up. I don't use SketchUp,
+56:25 I use Blender. I encourage anybody using
+56:27 SketchUp to switch to Blender. It's a
+56:29 more powerful tool
+56:31 and it's free.
+56:34 A much more powerful tool and it's free.
+56:37 And it handles really large poly count
+56:40 models a lot better than SketchUp. Um so
+56:43 I'm going to import that DAE file. Um
+56:46 sometimes you have to
+56:47 add in some plugins.
+56:49 Um
+56:50 because it's open source, you've got all
+56:52 kinds of people writing plugins for this
+56:53 thing. You know, you can write plugins
+56:56 for SketchUp. I find that the plugins
+56:58 path workflow is a lot easier in Blender
+57:00 as well. Um so I think it's worth
+57:02 learning. And then
+57:04 Uh where am I just not seeing Collada
+57:07 here. Import.
+57:10 Collada legacy. Gotcha.
+57:13 And here's our example DAE. And so let's
+57:16 just get into inside of the building
+57:19 here.
+57:20 And so when I click on this, notice this
+57:23 is not individual cabinets so I can no
+57:26 longer edit them individually. It's all
+57:29 one object because that was all one
+57:31 material. Okay? I'm going to select the
+57:34 window
+57:35 casing. Notice that it's selecting the
+57:37 baseboard. Why? Because it's the same
+57:40 material.
+57:41 So, that's This is why. This is why I
+57:43 don't like Collada export. Let's go try
+57:46 that
+57:48 3DS.
+57:54 And I'm going to create a subfolder for
+57:57 this because otherwise it's going to be
+57:58 a pain in the butt.
+58:00 Do that. There we go.
+58:02 Um I do see Aaron Roses
+58:06 EXR spherical.
+58:08 That opened up as well.
+58:11 And then
+58:13 Blender. Let me just do new file. Why
+58:15 not?
+58:21 So, import.
+58:24 3DS.
+58:29 folder.
+58:34 Okay. And so, this When I click on this,
+58:37 this is an individual thing. This is an
+58:39 individual thing. These are all
+58:41 individual things that can be edited
+58:42 separately. Look, it's component base.
+58:46 We get every individual component. So,
+58:49 we can do better modifications this way.
+58:52 Anything
+58:53 that is a component in chief retains its
+58:56 component information here. Now, notice
+58:58 that the sash is um
+59:01 or let's see.
+59:02 There is something separate from one
+59:04 here. No? Yeah, the window is one
+59:06 component. All right.
+59:08 So,
+59:10 it also makes it easier to edit if
+59:11 you're actually doing actual mesh work
+59:13 modeling work. Makes it easier to edit.
+59:16 So, the trick here then is export as
+59:19 3DS. If you hit a vertice limit, then
+59:22 put those items that it hits the vertice
+59:25 limit onto a separate layer. You want to
+59:28 know what the vertice limit is, you go
+59:30 export your logs. Export your logs, go
+59:34 look at the messages text. It'll be a
+59:36 list of the items that hit the vertice
+59:38 limit. You find those items in your
+59:40 plan, put them on a unique layer
+59:43 on maybe on the all off layer set.
+59:46 And then export those individual items
+59:49 as DAE and import them into your scene.
+59:52 So you retain all that component-based
+59:54 export and then you have a few items
+59:56 that are just DAE material-based
+59:58 exports. Just make sure that they are
+1:00:00 painted different materials from each
+1:00:02 other. It should only be five, six,
+1:00:03 seven items or something like that that
+1:00:05 hit that vertice limit.
+1:00:07 And we're at 10:00, but let's just go
+1:00:09 look real quick to see what
+1:00:13 Aaron's photosphere looks like.
+1:00:20 Huh, funny.
+1:00:22 >> [laughter]
+1:00:22 >> This is cool.
+1:00:24 Yeah, cool.
+1:00:25 Uh, let's just do a little edit on this.
+1:00:28 We'll take this into camera raw. We'll
+1:00:30 lift this a little bit. Pump up the
+1:00:32 exposure I think just a little bit.
+1:00:33 Yeah, there we go. Something like that.
+1:00:36 Look at that guy. We know this guy.
+1:00:38 That's Al Fry. That is You think that I
+1:00:42 have a lot of toolbar icons. That's what
+1:00:44 he is mainly known for, but he's been
+1:00:45 there since the beginning.
+1:00:48 So I'm always happy to see him.
+1:00:53 Yeah, this is from the class.
+1:00:58 Wait, this got pretty fuzzy, didn't it,
+1:00:59 Aaron? Dang it.
+1:01:02 But yeah, a little sharpening maybe, a
+1:01:04 little noise reduction.
+1:01:06 Hard to get rid of the
+1:01:08 the doubling duplication effect. Also,
+1:01:12 uh, it's stitch lines up in the ceiling.
+1:01:14 Not doing a great job. We'd have to fix
+1:01:16 those.
+1:01:17 Uh, we'll see what this looks like
+1:01:19 when we export this.
+1:01:24 Um, also you might be able to take this
+1:01:26 into AI and get it to
+1:01:29 um
+1:01:30 fix a few things.
+1:01:40 Such as I have Gigapixel. Let's see what
+1:01:44 happens if Gigapixel can do anything
+1:01:46 with this.
+1:02:04 Yeah.
+1:02:12 Maybe, maybe not. Actually, this is not
+1:02:14 RTX GI. This is Let's go standard.
+1:02:32 And let's bring that back. Whoa.
+1:02:50 Yeah, does not It didn't We didn't quite
+1:02:52 have that on a
+1:02:54 even plane.
+1:02:55 But this view is pretty good.
+1:02:57 It's when it rotated back around here
+1:02:59 that it had some problems.
+1:03:01 Yeah.
+1:03:02 Fun though.
+1:03:03 Fun to play around with.
+1:03:07 Okay.
+1:03:08 Uh thanks as always for joining me.
+1:03:10 Let's see, did I miss anything?
+1:03:15 Oh, in case you're ever trying to text
+1:03:16 me, don't do that.
+1:03:18 >> [laughter]
+1:03:20 >> I'm
+1:03:21 text to me is a way that you're just
+1:03:24 basically throwing a message in the
+1:03:25 trash.
+1:03:26 >> [laughter]
+1:03:27 >> I just I can't track them. You know why?
+1:03:29 Cuz I have sisters. And those sisters
+1:03:32 put me in 5 million group messages all
+1:03:35 the time and I can't even track them.
+1:03:37 Your message is just disappear. So, you
+1:03:40 got to be pretty special if I'm
+1:03:41 messaging you through text. And um
+1:03:45 Anyways, I um
+1:03:47 I'd like to track everything
+1:03:49 on my email. It's how I can apply
+1:03:52 um some AI tools to help me track all
+1:03:54 the emails that I get. Yeah.
+1:03:56 And and try to reply [clears throat] to
+1:03:58 everybody and try to get everybody's
+1:03:59 message. So, always, if you're trying to
+1:04:01 get a hold of me, shoot me an email. If
+1:04:03 you're really, really, really trying to
+1:04:05 get a hold of me, shoot me a phone call.
+1:04:07 You know? And if I've got some free
+1:04:08 time, I'll chat with you.
+1:04:10 Um thanks as always for joining the
+1:04:12 show.
+1:04:13 And uh oh yeah, I'll see you next
+1:04:15 Tuesday.
+1:04:21 Oh, maybe next Tuesday
+1:04:24 I'll show you how I'm going to use some
+1:04:26 of our tools
+1:04:27 to go
+1:04:28 May- maybe we can design a Halloween
+1:04:30 house and then get it 3D printed. That'd
+1:04:33 be pretty wild.
+1:04:35 We'll think about it.
+1:04:37 Cheers.
+1:05:02 Hey, look at Sharon.
+1:05:04 Thank you. Thank you. Thank you, Sharon.
+1:05:05 This guy needs a little poking and
+1:05:07 prodding.
+1:05:08 She goes
+1:05:12 We can all do it together sometimes that
+1:05:13 uh okay, especially when Shane finally
+1:05:15 gets the pro plan. Shane,
+1:05:17 you know you want it, man. Go get the
+1:05:19 pro plan.

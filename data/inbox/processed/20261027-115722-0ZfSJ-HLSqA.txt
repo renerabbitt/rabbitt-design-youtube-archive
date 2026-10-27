@@ -1,0 +1,525 @@
+Title: First Impressions of Chief Architect Agentic Ai with Built-in MCP server
+URL: https://www.youtube.com/watch?v=0ZfSJ-HLSqA
+Visibility: public
+
+0:00 Okay, I have
+0:02 um Codex running on
+0:06 I TPG Codex. Oh my gosh.
+0:09 And it just started drawing a house.
+0:17 I told it to draw it's in my pro plan
+0:19 template. No way. I told it to draw in
+0:21 my templates.
+0:23 A single story house, two bedroom, two
+0:25 bath, laundry room, garage.
+0:31 This is [laughter] so cool.
+0:38 Imagine it's naming the house. This is
+0:40 already moving a lot faster than I
+0:41 expected it to.
+0:52 It's kind of hung up on changing the
+0:55 the room label right now.
+1:02 Oh, here it comes.
+1:06 Um it's making up its own room names.
+1:10 Which I don't like, so I'll have to
+1:12 correct it for that.
+1:15 Cuz it's forcing all caps, basically re-
+1:18 renaming.
+1:31 And we'll see what it's going to do past
+1:32 this if it um
+1:36 if it adds doors and windows.
+1:43 I'm also really curious to see
+1:46 I imagine I can get it programmed so
+1:48 that it uses the hot keys that I want.
+1:50 Look at that, it's adding doors.
+1:53 This is just wild.
+1:58 I mean, this is our hour zero. You're
+2:01 seeing this as I'm seeing this. This is
+2:03 my first experience with this.
+2:14 I'm putting in 10 bedroom.
+2:17 Linen storage is real strip the real
+2:19 strange.
+2:20 The walk-through primary bath to walk-in
+2:22 closet.
+2:23 Bath two is a whole bath. Bedroom two is
+2:26 small closet, bedroom three small
+2:28 closet, but I mean, still workable.
+2:30 Living dining kitchen living dining
+2:31 kitchen.
+2:33 I mean, they're just even putting in
+2:34 invisible walls.
+2:36 Yeah, no kidding.
+2:38 I wonder what it's doing with the garage
+2:39 door. Maybe making it a double wide now.
+2:44 This is just crazy.
+2:54 My curious question is, you know, from
+2:57 Yeah, 16-ft wide, maybe 9-ft tall.
+3:01 Or eight eight-ft tall, who knows.
+3:07 Why is it on the label field? I'm not
+3:09 sure.
+3:10 Label panel.
+3:14 Oops.
+3:15 Man, we got a problem.
+3:17 Okay.
+3:20 It just tried to override my labels.
+3:22 That's interesting.
+3:31 Man, I can't wait to play with this some
+3:33 more.
+3:34 This is just wild. I'm really curious to
+3:37 see if I dropped in some construction
+3:39 lines and some explicit instructions, if
+3:42 it would know how to potentially
+3:44 just add
+3:46 you know, put on additions, etc.
+3:49 I mean, it's changing all my labels, so
+3:50 I'm going to stop what it's doing real
+3:52 quick.
+3:58 I mean, even though I stopped
+4:01 Codex, it's still doing things.
+4:08 Yeah, it's setting all my labels to be
+4:09 default, which is
+4:13 very strange.
+4:20 Um and
+4:23 seems to be still just going without me
+4:24 here. Okay, finally it stopped.
+4:28 Um you just removed all my default
+4:30 labels. That is not what I want. Those
+4:31 are there for a reason. I run a custom
+4:34 set of macros in my templates. So,
+4:35 please do not modify any of my labels
+4:38 ever. The other thing that you did was
+4:40 you overwrote the naming conventions for
+4:43 all the room types. You don't need to
+4:45 name things. Keep the room types back to
+4:47 their defaults, okay?
+4:50 And so, the room name should be set to
+4:52 default, which is typically a wrench
+4:55 icon that has a check mark when it's
+4:57 clicked. So, set all my rooms back to
+5:01 default. In fact,
+5:02 if you don't do it, I'll do it, but set
+5:04 all my rooms back to default and set all
+5:05 my labels back to a specified label
+5:08 where I had the macro inside of those
+5:11 labels. You need to revert those back to
+5:13 what they were before. So, if you need
+5:14 to go back and do an undo, then by all
+5:17 means do that.
+5:18 Then, another thing that I want you to
+5:21 do is I want you to pull construction
+5:24 lines and they are already set up to be
+5:27 automatic construction lines. Put them
+5:29 at every major wall at the dimension
+5:34 uh extension line. So, extend a
+5:37 construction line out from every major
+5:40 wall
+5:42 um according to where the dimension line
+5:44 shows those walls, so that we can
+5:46 communicate where I want you to make
+5:48 edits between specific construction
+5:50 lines.
+6:04 for
+6:09 Boy, I'm going to have to go buy the
+6:11 updated package for more
+6:14 more credits cuz
+6:16 I'm just going to burn through credits
+6:17 now.
+6:20 I'm just going to rip through credits
+6:22 now.
+6:24 Yeah.
+6:26 Um so I think that my first thought is
+6:28 that, you know, using construction lines
+6:30 that we
+6:32 um
+6:36 Boy, I used my compressed recording for
+6:38 this thing and I wish this reaction was
+6:39 upscaled. I used a very compressed
+6:41 recording, sorry. And bit rate's real
+6:43 low.
+6:44 Um
+6:45 my first thought is that we put in
+6:46 construction lines so that we
+6:47 communicate how we can want to do an
+6:49 addition, remodel, etc. Um so that I
+6:52 could say, "Hey, between the quadrants
+6:53 of AB and 3 4, I want you to add a
+6:56 bathroom."
+7:02 Also very curious if you could send a
+7:04 picture to this and say, "Hey, I need
+7:06 you to adjust my manual roofs
+7:08 to match this."
+7:10 Um cuz that's going to be the real
+7:11 challenge, you know, it's cool that this
+7:12 can do
+7:15 do some wall stuff, but very curious to
+7:17 see
+7:19 what else it can do. Curious to see if
+7:21 it can update macros.
+7:26 Cuz that would save me some time.
+7:28 Allow chat to use Chief Architect
+7:30 Premier? Yep, allow the chat. Go for it.
+7:34 I don't know why it's asking me that.
+7:46 That must be that so the MCP That must
+7:49 like release some tools in the MCP
+7:52 server and then maybe why it's asking me
+7:54 if it can use Chief Architect is so that
+7:55 I can do things such as click on that
+7:58 gear icon.
+8:00 That wrench icon, that's what it did.
+8:01 That's what it was asking me for.
+8:05 Man, I'm so sorry. I mean, I want to
+8:06 publish this. I'm so sorry that it I
+8:08 chose a lower bit rate model. I think
+8:10 it's important to see a first reaction
+8:12 to things.
+8:13 So, it's taking control of my screen
+8:15 right now is what it's doing. That's why
+8:17 we're seeing a blue. You might not see
+8:19 it in the recording, but there's a blue
+8:21 halo over
+8:22 um all of my screens. So,
+8:25 the Codex is taking control over that.
+8:27 And then,
+8:29 under specify label, I just I don't know
+8:31 if it's going to be able to revert back
+8:34 to
+8:35 Oh, it did. There you go.
+8:38 Wow, followed my instructions. Let's see
+8:40 if it does the construction lines.
+8:45 This is just wild. I have so many phone
+8:47 calls to make.
+9:09 Sure it's it it is saying that it's
+9:11 working.
+9:12 I'm also just curious.
+9:16 You know, I'm on um
+9:18 Chat GPT 6.1 Soul Light because it takes
+9:21 less tokens.
+9:23 And so far, it's doing great. Um so,
+9:26 just know that, you know, maybe you're
+9:27 on a
+9:29 on a cheaper model.
+9:31 And maybe it still works to do things
+9:33 like this. So,
+9:36 and I'm curious to see if I could get it
+9:37 to set to change the default set from
+9:42 from master to a different default set
+9:44 that I use.
+9:45 Curious to see. I'm fairly certain I can
+9:48 get it uh programmed to understand my
+9:50 hotkeys so that it can use custom tools
+9:53 in my toolbars.
+9:54 Uh because we just learned that we could
+9:56 do that, that we could program
+9:58 hotkeys to custom tools so long as
+10:00 they're in the toolbars.
+10:07 Uh I I took a screenshot of the screen
+10:09 to understand something probably that
+10:11 it's
+10:13 Look at how's the construction line tool
+10:15 active?
+10:19 Oh, there it goes. I see that it drew
+10:20 one.
+10:25 It doesn't need to open the dialog box.
+10:27 So, we'll just correct it.
+10:34 Um I'm just going to tell it
+10:37 You do not need to open the dialog box
+10:39 to draw construction lines and I only
+10:41 need it on
+10:43 the top of the building and the left
+10:44 side of the building. I don't care about
+10:46 it running through to the bottom and the
+10:47 right side of the building.
+10:53 And I want that construction line
+10:55 aligned with the dimension extension.
+10:57 Right now, you have it aligned with the
+11:00 outermost surface of the wall. Instead,
+11:02 it should be aligned with the dimension
+11:04 extension line where the tick marks are.
+11:12 Woah.
+11:13 It just did that.
+11:23 Look at that.
+11:39 Oh, what did it just do?
+11:45 Let's see.
+11:47 History, construction line transform.
+11:50 Okay.
+11:57 And it's done.
+12:00 >> [snorts]
+12:00 >> Boy.
+12:02 Boy, oh boy.
+12:05 Doesn't get much better than that.
+12:08 Um go ahead and buy my Pro Plan
+12:10 template. It's going to make it so that
+12:12 you can get to a construction document
+12:14 set like this
+12:17 very, very quickly. I have no shame in
+12:20 telling you that
+12:21 because
+12:23 um
+12:25 yeah.
+12:26 Because look at this. This is going to
+12:28 be already almost built out.
+12:33 This is just wild. Just got to update a
+12:35 couple views.
+12:41 Um we'll try one more test on this
+12:42 video.
+12:53 I have a set of schedules in this active
+12:55 tab right now, and all these schedules
+12:57 dictate what the annotations will be for
+13:01 all of my details for a plan. And so,
+13:03 what I would like you to do is the
+13:05 action to set a preferred annotation is
+13:09 by selecting a schedule, and then
+13:12 grabbing a row item and sliding it into
+13:14 the number one position. And so, what I
+13:17 would like you to do is inspect these
+13:18 schedules so you know what all the names
+13:20 of them are, and then adjust things
+13:22 accordingly. So, for roof framing, I
+13:25 want to set this
+13:26 um
+13:28 preferred annotation to manual truss at
+13:30 24 in center. Wall framing, go ahead and
+13:33 give me 2 by 8 at 16 in center.
+13:37 Floor framing, go ahead and give me 11
+13:39 7/8 TGI at 16 in center. Ceiling joists,
+13:43 go ahead and set my 2 by 8 at 16 in
+13:45 center. My preferred beam is just going
+13:48 to be the annotation header per plan.
+13:50 Let's just do those so I can test that
+13:52 this is working.
+14:12 Sit back and wait for a little bit.
+14:16 Should have just gone live.
+14:18 I had no idea it was going to be this
+14:20 good.
+14:22 Holy crap.
+14:26 Boy, if you work in an office, keep this
+14:27 a secret for a little bit. Go get a
+14:28 raise.
+14:29 >> [laughter]
+14:32 >> Oh, man.
+14:39 That that $100 a month chat GPT is
+14:41 looking mighty fine right now.
+14:45 Yeah, it's expensive, but we can do
+14:47 this.
+14:50 Hey, let's see what it does. It's
+14:51 picking the right schedule. I found the
+14:53 right one.
+14:55 Let's see if it figure it figures out
+14:56 how to move.
+15:01 Um and what's great about this is
+15:04 I don't need to be here. I can walk off.
+15:07 >> [laughter]
+15:08 >> I can go get a
+15:09 go get a drink and come back.
+15:11 Man.
+15:15 I could I think I get to be you know,
+15:17 until it needs to control the computer,
+15:19 I could literally be like right now it's
+15:21 controlling the computer. So now I can't
+15:24 go work on something else. So there is
+15:26 there is that. You know, I have a second
+15:29 computer. I could go work on something
+15:31 else on the second computer, but
+15:33 um
+15:37 Yeah, just hanging around telling it
+15:39 what to do and working on something
+15:41 else.
+15:42 That's pretty compelling.
+15:44 And boy, I almost want a second license
+15:46 in Chief Architect. I could have two of
+15:47 these going at the same time.
+15:51 >> [laughter]
+15:52 >> Just I you know, I got four computers in
+15:54 the house. Give me four licenses, I get
+15:56 four projects going at once. Great.
+15:59 I'll just be sitting back here and
+16:02 talking crap.
+16:09 You know, we needed this, Chief. We
+16:11 needed this from you. So
+16:13 hats off to the team. Jason Troy, I know
+16:16 you were
+16:18 the big big cheese over there for this,
+16:20 so
+16:22 thank you. Thank you. Thank you. Thank
+16:23 you.
+16:28 And you got it to us quicker than we
+16:30 thought. So, that's exciting.
+16:32 This is my excited face.
+16:42 Struggling a little bit with this. So, I
+16:44 mean, obviously, it's going to do things
+16:45 like draw walls a lot better because
+16:46 that's where the MCP server comes into
+16:48 play. Right now, it's doing like an
+16:50 agentic screen control thing that it's
+16:53 just it has to take a screenshot of the
+16:55 screen to understand what it's going to
+16:56 do and how it's going to move and
+17:00 and so that's going to be a slower
+17:01 process. So, really, it's going to be a
+17:02 lot faster in any
+17:04 using any kind of build tools, I'm
+17:06 assuming. Um we should see if we can get
+17:09 it to design a kitchen.
+17:41 Yeah, it's zooming in on this manual to
+17:44 try to
+17:45 probably figure out how to get that menu
+17:47 truss
+17:48 into place.
+17:51 And then as I showed,
+17:53 you know, hitting the stop button
+17:56 um doesn't stop it immediately, so
+17:58 that's something to keep in mind.
+18:08 Yeah, this part's painfully slow.
+18:10 This is definitely one of those where
+18:11 you just leave and come back.
+18:13 Although, this would just be way faster
+18:15 to just do myself.
+18:21 It's trying to drag it up. You can see
+18:23 it moving the cursor.
+18:27 All right, let's skip this.
+18:34 Okay, so that stopped it. Let's go back
+18:36 to this.
+18:38 And I want it to
+18:44 flip-flop the location of the dining
+18:46 room with the kitchen, and then I want
+18:48 you to design a kitchen. Um please note
+18:51 that you have access to hot keys for
+18:53 tools that I have from a different
+18:56 conversation.
+18:57 And so the hot keys that you have are
+19:00 some of the programmable tools that I
+19:01 have in my toolbar. And one of those
+19:04 tools is my range, my dishwasher, my
+19:07 refrigerator, a double oven. I want you
+19:10 to use those tools cuz it'll be a lot
+19:12 faster to use those tools
+19:15 to apply settings to things, I think.
+19:18 Actually, that's not true. Let's just
+19:20 test it out on a box.
+19:21 Let's go this way.
+19:23 Flip-flop the kitchen for the dining
+19:24 room, and I want you to design a
+19:25 kitchen. Need to make sure that you have
+19:27 an 18-in
+19:29 garbage pullout next to a 36-in sink
+19:33 base. The sink base should be aligned
+19:35 with the window.
+19:37 So you might need to shift that window
+19:38 over because I like to burn my corners.
+19:41 I like to burn my corners for 24 in
+19:43 with a 3-in filler. Go ahead and put a
+19:46 18-in
+19:48 garbage pullout. And then next you're
+19:50 going to do your 36-in sink base. Align
+19:53 the window wherever that sink base lines
+19:55 up then. And then on the right side
+19:57 of the sink base, you're going to put a
+19:58 dishwasher, and then next to that you'll
+20:01 put one more cabinet, and that will
+20:02 become a return peninsula. And then I
+20:05 want you to return four two-drawer packs
+20:09 on that return peninsula. And then on
+20:11 the other side wall, so on the side wall
+20:13 that's facing the exterior where the
+20:15 window there, go and remove that window
+20:18 and build out a whole range run ending
+20:21 with the refrigerator.
+20:28 All right. I mean, you're you're with
+20:30 you're in it with me now.
+20:32 This works.
+20:33 >> [laughter]
+20:46 >> I'm going to go look at I just announced
+20:48 this on
+20:52 on uh
+20:54 the users of Chief Architect group.
+22:20 It just took control again.
+22:38 >> It seems like maybe I do get to control
+22:40 the computer while it's controlling the
+22:41 computer.
+22:43 It just waits for me to stop or
+22:44 something. I'm not sure. I don't have
+22:45 enough experience with that.
+22:47 I just assumed I couldn't. All right, so
+22:49 it's going to get rid of that window.
+23:14 And then start laying out my cabinets.
+23:15 I'm hoping it gets it done as fast as it
+23:17 did all those
+23:19 walls. It did those walls so fast. I
+23:21 mean, you saw that in real time. I'm not
+23:22 editing this.
+23:24 You can see for yourself how long things
+23:25 take.
+23:39 This happened.
+23:44 Mhm, crashed.
+23:47 Or shut down.
+24:05 Um, it's Okay, it's going to reopen it
+24:08 for us.
+24:09 I don't know that it knows how to find
+24:10 the same project.
+24:14 Maybe it does just by going to recents.
+24:18 Um, but let's just open it for him so
+24:20 that it knows.
+24:25 What?
+24:32 >> I'm just going to do the window for it.
+24:34 Just want to see if it'll do those
+24:35 cabinets.
+25:42 Um so the next question I want to ask
+25:44 the chat is what it actually has access
+25:45 to because
+25:47 right now it's doing quite a bit of
+25:51 just
+25:52 um controlling the screen and I'd rather
+25:55 it be
+25:56 using the MCP server instead.
+26:25 I'm not sure why I put a cabinet in the
+26:27 corner. Oh, and it crashed again. Dang
+26:29 it. Okay, well,
+26:31 um let's stop it real quick.
+26:34 And then
+26:36 What do you have access to on the MCP
+26:39 server? What tools have been made
+26:40 available to you? I've noticed that
+26:42 you're controlling my screen a lot
+26:44 instead of using the tools that are
+26:45 available to you.
+27:05 Um, let's see. So, a couple of So, I'll
+27:07 just show this to you all.
+27:10 Um
+27:15 Select the plan select and execute edit
+27:18 dialogue boxes document and views
+27:20 project browser output.
+27:23 A help and effort. Okay, it's and then
+27:31 Um
+27:34 Some visible mouse movement was MCP. It
+27:36 includes a can canvas gesture tool.
+27:39 Interesting.
+27:55 Um, let's see.
+27:57 Do you have a tool to place and
+28:00 manipulate cabinets?
+28:26 Uh, yes through MCP. Okay.
+28:30 Go ahead and finish just the cabinet
+28:32 layout. I want to see how quickly you
+28:33 can place these cabinets. The room has
+28:36 already been adjusted. The window has
+28:37 already been deleted. So, just place
+28:39 cabinets using the MCP server only,
+28:42 please.
+29:03 Bam. Okay. [clears throat]
+29:18 So, I mean so far
+29:20 and everything else is underwhelming.
+29:31 The real win was the windows, doors, and
+29:34 layout.
+29:38 Oh, there we go. See, that's what I'm
+29:40 talking about. I want that speed.
+29:41 Although, the cabinets are all facing
+29:43 the wrong direction.
+30:24 That's funny. That's a funny way
+30:27 rotating those. [laughter]
+30:30 Those.
+30:33 Uh you're you're rotating it as a block,
+30:36 not as individuals. That's funny. I use
+30:38 the transform replicate for that. Didn't
+30:40 understand it. It's cool.
+30:45 All right. Well, we got some more to
+30:47 play with here. I'm going to stop this
+30:49 and and stop this recording and and
+30:52 and we'll talk about this next week.
+30:54 Template Tuesday.

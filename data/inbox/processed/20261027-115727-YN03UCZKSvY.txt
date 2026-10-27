@@ -1,0 +1,470 @@
+Title: 3D Detail Wall Cutaway in Chief Architect
+URL: https://www.youtube.com/watch?v=YN03UCZKSvY
+Visibility: public
+
+0:01 Someone asked me how we could do a
+0:03 cutaway against siding to kind of show
+0:05 the layers of a wall. And I had an idea
+0:08 about this. So, we're going to try that
+0:10 idea. Going to start in Photoshop. And
+0:13 so, I'm just um taking a brush here. And
+0:16 then I'm just going to I'm going to
+0:19 create a opacity mask. I'm going to
+0:23 create actually about four different
+0:25 opacity masks. Okay. And the way we're
+0:29 going to do that is
+0:31 um I'll just start by drawing the
+0:33 smallest of those. And so this is going
+0:34 to be my cutaway. And so my cutaway I
+0:37 think is just going to start from
+0:40 um
+0:42 the top texture.
+0:45 This is going to be a little bit
+0:46 complex. We'll see how this goes. Going
+0:49 to start from the top texture. And so
+0:51 here is my top texture cutaway. There's
+0:53 something about this that I already know
+0:55 is going to be problematic, but that's
+0:56 okay. Okay, we'll figure it out as we
+0:58 go. Then I'm going to duplicate this and
+1:01 do a little bit more of a cutaway.
+1:05 Duplicate it again.
+1:08 Do a little bit more.
+1:10 In fact, I'll do maybe even a more.
+1:15 Okay. And then let's duplicate it one
+1:18 more time.
+1:21 And same thing. Do a little bit more.
+1:28 And I'm not too worried about the shape
+1:30 right now. Might refine this over time.
+1:32 And I'm going to lay um label these. And
+1:35 we'll just do it one by one. So cut away
+1:38 one. Should have just done that from the
+1:40 get- go because then duplicating it
+1:42 would have just automatically added the
+1:45 names.
+1:55 And then we should be able to select all
+1:57 these and quick export as a PNG file
+2:01 downloads.
+2:02 All right. So now we have that. Now
+2:05 let's get into Chief Architect. I'm just
+2:07 going to make a copy of my plan template
+2:09 so I can work from it.
+2:11 Open that up.
+2:14 Draw a little four four wall house. Um,
+2:18 that's interesting.
+2:22 That means that I screwed up somehow
+2:25 and dropped a plan file in here where I
+2:28 did not mean to. Dang, that's too bad.
+2:31 Okay.
+2:34 Well, so we got a building to work from.
+2:35 Let's go check it out.
+2:43 And so here's the thought process
+2:46 is I'm going to drop in a material
+2:49 region is the first thought. So I can't
+2:52 remember what all a material region can
+2:55 cut. So material region
+2:58 draw this out on this wall and we're
+3:01 going to say that this cuts
+3:04 the finished surface.
+3:07 that finish layer of finish layers,
+3:11 multiple layers. I think that's the
+3:13 important distinction here. I think
+3:14 that's why this will work. Okay. So,
+3:16 that's going to cut into
+3:19 right. Yeah. And so, here's the next
+3:22 thought. Let me open this up. What do we
+3:24 need? We need four layers,
+3:28 give or take. Um, maybe not,
+3:32 but I think that I think that's about
+3:34 right. Four layers. So, um, let's just
+3:37 do three to start. Why not? So, we're
+3:39 going to go just insert above, insert
+3:41 above.
+3:42 My base one's going to be like 7/16.
+3:45 It's plywood. I'll go ahead and make
+3:46 this a plywood texture.
+3:49 But instead of just choosing the plywood
+3:51 texture, let me just type in OSB. I'm
+3:54 going to copy it.
+3:58 And then
+4:00 in that copy in the properties panel,
+4:04 I'm going to
+4:07 put an opacity map and we're going to
+4:09 import this. And so this is the first
+4:13 cut cutaway four in this case. So that's
+4:16 cutting things away. Here's where the
+4:18 problem lies. This will repeat itself
+4:20 after 96 in. So there's where that
+4:23 problem is, but we're going to handle
+4:25 this, you know, as we go. So there we
+4:28 go. There's my cutaway OSB sheathing.
+4:30 Let's go ahead and see a preview here.
+4:33 Standard view. And we can see what's
+4:36 happening there,
+4:38 right? And so the orientation maybe is
+4:41 bad. We'll check on it shortly. Next
+4:44 part. Maybe we have building wrap. Okay.
+4:46 So
+4:48 let's see. Do we have house wrap? Same
+4:51 thing. Copy it.
+4:55 Properties. import that opacity mask.
+4:58 We're going to go opacity mask three.
+5:01 This one repeats every 20 in. There's
+5:04 the problem. We're just going to make it
+5:06 at 96. We're just going to give a proof
+5:09 of concept to see if we can even get
+5:12 close. Okay.
+5:17 And so that should update.
+5:20 And then let's just double check this
+5:23 this texture that it's not rotated. We
+5:25 want to make sure we're not rotating any
+5:27 textures.
+5:30 So 0° angle. That's good. That's
+5:33 correct.
+5:37 All right. Let's just do one more
+5:39 texture. That's it. In this case, um, in
+5:43 this case, really, we want it to be that
+5:45 siding profile. But maybe not. Maybe we
+5:48 just get to shape the material region.
+5:50 So maybe we only need two for this use
+5:52 case. All right. So, let's get rid of
+5:54 this last one.
+5:56 Um, overall, this should be the same
+5:59 thicknesses of your actual wall
+6:01 assembly. So, keep that in mind. So,
+6:04 maybe we do insert one above. And for
+6:07 this texture, we'll just do an air gap.
+6:09 And so, that's just see-through. And so,
+6:12 this will be the same thickness as our
+6:16 um
+6:17 as our last outer layer. Okay. So, maybe
+6:21 this is inch and a quarter. I don't
+6:22 know. I'd have to go check.
+6:25 So, let's see what happens here. See
+6:27 what this looks like.
+6:34 Okay. So, the cutaway on this is not
+6:38 working quite right. Let's do the
+6:40 interactive material editor so we can
+6:42 edit this. Um, we are editing the
+6:46 glass layer right now. So, that's not
+6:48 very helpful. So, we need to get that
+6:50 out of the way for a second.
+6:53 Let's just move it down
+6:56 temporarily till we get some stuff in
+6:58 place.
+7:01 And so now interactive material editor
+7:03 should edit the chief architect piece.
+7:07 Yeah. And we're seeing it move. Now
+7:09 we're not seeing
+7:11 the opacity mask move with it.
+7:17 And I think the height of this texture
+7:20 is going to be a little off.
+7:23 And so maybe
+7:26 make this make a little bit more sense,
+7:30 instead of leaving that chief architect
+7:31 building wrap there, let's trade this
+7:33 out. Let's instead
+7:37 just choose the cutaway so we can place
+7:39 it based on itself.
+7:41 So this cutaway was this one
+7:46 or
+7:50 Now
+7:52 cut away three. Cut away three. Yeah. So
+7:55 this should match itself.
+8:01 How does that help? Does that help in
+8:03 any way?
+8:06 We're not for some reason we're not
+8:07 seeing
+8:09 it did not get updated. Sure. Why?
+8:13 Um,
+8:15 if we were to use stretch to fit,
+8:20 that might work.
+8:29 You can see where it's cutting. It's
+8:31 doing something kind of interesting
+8:33 there. I don't know why it's flipping on
+8:35 itself.
+8:39 It's because of how the material region
+8:41 is getting triangulated.
+8:44 We're seeing a backside face.
+8:47 That's what's happening.
+8:50 And so that's not as helpful,
+8:54 right? So the alternative to this would
+8:58 be this. Um the material region tool is
+9:01 not going to work because we're seeing a
+9:02 backside face. We're seeing through this
+9:05 to itself. We're seeing a back culling
+9:08 it's called. We have no option in a
+9:10 material region to say it's only single
+9:12 faced.
+9:14 Um so the alternative would be to build
+9:18 this out of faces instead. So you're
+9:21 seeing me go through a failing think
+9:23 through the tools that we have and then
+9:26 do a little pivot. So I'm going to make
+9:28 a square face. Let's just make it even.
+9:33 Let's just make it 96 by 96. Why not? Or
+9:36 maybe we'll do 96 by 40. Yeah, let's do
+9:39 let's make it square. Make it easy.
+9:42 Okay,
+9:44 I'm going to do something a little
+9:45 different now. Then I'm going to
+9:48 duplicate this. Make a copy. I'm going
+9:51 to move that copy up. Um, let's call it
+9:55 1/16th of an inch.
+9:59 Okay.
+10:01 Now, from there,
+10:03 that's kind of my topmost layer. Let's
+10:05 just stick with the two-layer approach.
+10:07 Let's go take a look at this. We're
+10:09 going to use the uh eyropper tool, and
+10:13 I'm going to paint the lower layer.
+10:16 Going to be hard to get that lower
+10:17 layer, especially because I've got a
+10:19 little clipping going on here. Let's
+10:22 undo my clipping so I can get nice and
+10:24 close.
+10:30 And
+10:31 at zero clip, this won't cut away. So, I
+10:34 need to be really tight with this. And
+10:37 it's just easier to paint the underside.
+10:39 How about that?
+10:41 So, there is our first map. And then our
+10:45 second map. We actually need to get past
+10:50 this to the layer below. Or we can just
+10:53 adjust our layers again.
+10:59 Move this down. Get to that plywood one.
+11:05 Object eyropper.
+11:11 Plywood.
+11:15 And we'll do a little stretch to fit on
+11:17 this.
+11:20 We've got stretch to fit on both.
+11:24 So, what does this give us?
+11:31 That's kind of looking like what I think
+11:33 it should look like. So, I'm going to
+11:34 select these two, convert the selected
+11:37 to a symbol. We'll leave it as a
+11:38 fixture. We'll add it to the library.
+11:40 We're going to show advanced options.
+11:42 We'll flip this up on itself. Let's show
+11:45 a little standard view and kind of see
+11:47 what's happening there. It doesn't look
+11:49 like I selected both items.
+11:53 So, we just want to make sure we're
+11:54 getting both in that conversion.
+12:00 So, we'll just highlight like this.
+12:02 There we go. We'll do this again.
+12:08 Yeah, there we go. That's looking like
+12:10 more of what we want. And so, the last
+12:13 part about this is in the options panel,
+12:16 we want to um hangs on wall. Then we
+12:21 want to cut reference surface wall by
+12:24 the depth of the assembly.
+12:28 Now really we want to know
+12:34 we could change insert depth too but
+12:36 really we want to know what the depth of
+12:38 the assembly is. Um but in this case
+12:43 let's just take itself just put itself
+12:45 back into this. So um its total depth is
+12:50 116th.
+12:52 We're just using this to test. So 116th.
+12:56 Okay.
+13:00 Now that we've done that, [music]
+13:02 we should be able to
+13:08 place this against an exterior wall and
+13:10 have it cut those finished layers. Now,
+13:12 I've never tried this with a cladding
+13:14 profile, so we don't know how well this
+13:15 is going to work with a cladding
+13:16 profile. in place.
+13:20 Um, and I've got [clears throat] no real
+13:21 clean walls, but let's just give this a
+13:23 shot.
+13:29 Okay. Is this cutting?
+13:32 It's only inserting by a 16th. Let's see
+13:34 what happens if we insert it by more
+13:37 than that. Does it get buried? So, let's
+13:40 go 3/4.
+13:43 Believe it would get buried.
+13:56 Interesting. That just changed.
+14:00 Oh, let's see. That just changed its
+14:02 setting, but it didn't necessarily do
+14:04 anything. Let's see if we can't
+14:10 little copy paste.
+14:18 So, is that cutting into our cladding
+14:20 profile? No, it's not.
+14:25 Not in the way that I thought it would
+14:27 be. Let's change this by its bounding
+14:31 box. So, advanced sizing, uncheck update
+14:34 when dimensions change, and let's make
+14:38 this a thicker assembly. So, we're going
+14:41 to make the depth of this be, let's just
+14:42 call it inch and a half. And that way
+14:46 in the options, it's going to be
+14:48 inserted by an inch and a half.
+14:53 Now, this is the cut depth. Seems that
+14:56 we have a separate setting for insert
+14:59 depth. So, let's do that as well.
+15:05 Okay.
+15:07 Kind of getting somewhere here.
+15:11 so let me actually figure out what the
+15:14 full assembly is here
+15:17 so that I can understand this.
+15:26 If we were to take this and zero this
+15:28 out because we want to do some quick
+15:29 math. This tells us this is our overall
+15:32 dimension inch and 1316.
+15:36 Let me cancel out of that. Let me take
+15:38 this item back
+15:40 and say that it's an inch and 1316.
+15:47 Um, and I probably could make the cut
+15:51 depth greater. Why not just make it 2
+15:53 in?
+15:59 And look at that. If we built all
+16:01 framing
+16:10 Now, because it's cutting in all the way
+16:12 to the framing, it's not showing the
+16:15 framing in that area. So, let's see
+16:18 here.
+16:21 Ignore framing layers
+16:25 and let's try a reframe.
+16:28 So, the framing members will probably
+16:29 show up through
+16:36 Yeah. Through our assembly just a little
+16:38 bit.
+16:44 Okay. So, cut that. Let's just make it
+16:47 inch and 1316. Why not?
+16:52 See if gets around those framing layers.
+17:02 Not quite. Maybe it needs to be a little
+17:06 bit less than that.
+17:09 Yeah.
+17:13 Not.
+17:22 So, we're still seeing.
+17:26 Yeah, this needs to be right on the
+17:27 money or it's not going to cut that
+17:29 plywood.
+17:33 Could cut the entire assembly, but
+17:35 that's going to cut the drywall on the
+17:36 back side. Maybe you don't want to do
+17:38 that.
+17:41 So, I think as a proof of concept,
+17:45 not bad.
+17:50 Oh, now I'm not able to select it. Here
+17:52 it is.
+17:58 It's not quite letting me select it.
+18:01 There's my object.
+18:24 Yeah, proof of concept. Not bad.
+18:27 I think you can understand how to make
+18:29 this work a little bit better. One, we
+18:31 could have shaped the um the faces
+18:34 themselves so that they look more carved
+18:36 like this, right?
+18:39 Um entire assembly ignoring the framing
+18:42 layers. That's going to get rid of the
+18:43 drywall and the interior side
+18:47 like that.
+18:51 Um
+18:53 so
+18:55 depth
+19:02 Yeah, just this almost wants to be 64.
+19:04 So, it almost needed a little bit of an
+19:05 air gap or something like that to really
+19:08 make it not cut into that or or give the
+19:12 um
+19:15 or change a little bit in terms of the
+19:17 bounding box. Let's get back to that
+19:19 advanced sizing panel. Uncheck this.
+19:21 Notice that it put all that bounding box
+19:24 space. If we're to go look at the
+19:25 bounding box in the front of the
+19:26 assembly and in fact this would make it
+19:28 a lot easier if we put it in the back of
+19:30 the assembly. So we could copy this set
+19:34 zero and put it in the back assembly. So
+19:38 that's going to make that stand proud of
+19:39 that framing.
+19:43 There we are.
+19:46 And then it's just a matter of placing
+19:47 this in a way that makes sense.
+19:55 Right. Not bad. You know, going to get
+19:58 rid of this window because that doesn't
+19:59 make sense. And we'll do this for a
+20:01 little screen art.
+20:04 So, if I were to do this all over again,
+20:06 do it real fast. Right. Here's what we
+20:09 would do a little bit differently. Is
+20:10 that we could Let's just draw with a
+20:13 spline tool. By the way, draw with a
+20:16 spline. Do a little click click click
+20:19 click click click click click click.
+20:24 Doesn't matter. Convert this to a
+20:26 polyline.
+20:27 Close it up.
+20:29 Fence tool. Select everything that's
+20:31 fenced. Subtraction. Subtract that
+20:34 polyline.
+20:36 Um fence tool doesn't seem to be working
+20:38 for that though. I'm not sure why.
+20:42 Intersected.
+20:46 Oh, not a closed poly line. It should
+20:48 be.
+20:50 So, one more time.
+20:53 Um, subtraction's not seeming to work.
+20:55 So, instead, we'll just use
+20:59 see if we can get trim object to work.
+21:01 No, it does not work. So, these need to
+21:02 be
+21:04 um
+21:06 maybe this needs to be a
+21:12 base.
+21:17 3D solid. 3D solid face.
+21:20 Just make it a 3D solid because
+21:22 essentially a face is also a 3D solid.
+21:25 Finish floor bottom. Let's go negative
+21:28 one and 11. Sure.
+21:32 So now
+21:34 there we go.
+21:36 Oops. Let's make a duplicate of this so
+21:38 we've got two of them.
+21:48 there. So that's my new assembly. It's
+21:50 got a little bit of a cutaway going on
+21:52 here. So maybe this is a little more
+21:55 aesthetically pleasing. So just go
+21:56 through this again. Convert selected to
+21:58 symbol picture advanced options. Rotate
+22:01 it up on the X
+22:03 right
+22:07 there. Like that. give a little preview
+22:09 to yourself so you see what's happening.
+22:12 Okay. Um I did this an opposite way. I
+22:17 wish I hadn't.
+22:19 Dang it. Uh yeah, invert surface
+22:24 direction is not going to help there.
+22:26 Dang it. Dang it.
+22:30 I don't think rotating in the Z helps.
+22:32 No, it doesn't. So, I just clipped the
+22:34 the opposite side. We're just going to
+22:36 have to flip the orientation of the
+22:37 material. That's fine. But yeah, this is
+22:41 how I would have done it is do a little
+22:43 shaped piece there. That way it'll look
+22:46 shaped against the wall so that it's
+22:48 kind of matching, right?
+22:54 Yeah. So, if you want to do some kind of
+22:55 a 3D deal, then combine that with the
+22:58 cross-section slider tool. And we're
+23:00 going to cut the front of the house out.
+23:04 the other front of the house out.
+23:09 Live tool
+23:11 being hung up.
+23:25 Making my graphics card work a little
+23:27 overtime.
+23:38 Um, if you point your cursor
+23:42 something and look in the
+23:45 axis information,
+23:49 the y is -49 right there.
+23:54 There we go.
+23:56 Perfect.
+24:01 And there's going to be my cover,
+24:04 right?
+24:11 Hope that helped you out. Kind of fun
+24:13 thinking outside of the box. Cheers.

@@ -1,0 +1,1885 @@
+---
+videoId: tjJvv5KcLps
+title: Make More Money with Chief Architect - Designers Show #173
+url: "https://www.youtube.com/watch?v=tjJvv5KcLps"
+status: imported
+---
+
+# Transcript
+
+0:01 Hey everyone.
+0:02 Oops.
+0:05 Oh, hi.
+0:06 Who did we lose? Some streams were
+0:08 deleted on Facebook for some reason.
+0:10 Hmm.
+0:12 I'm getting an error message, Renee, for
+0:13 both of us.
+0:15 >> I don't know why. Anyway, welcome to the
+0:16 Designer Show, everyone.
+0:18 Um if you're on Facebook, you're not
+0:19 seeing us, so I guess I won't say
+0:21 anything cuz you're not seeing us. Uh
+0:24 Um I don't know why it's doing that.
+0:25 We'll have to look into that after the
+0:26 stream, but anyway,
+0:28 >> [snorts]
+0:28 >> uh thanks for being here to everybody,
+0:30 and welcome to uh May Day. It is May
+0:32 1st, so when you guys were kids, did you
+0:35 do little May Baskets for your and for
+0:37 your friends and Yes. lovers?
+0:40 >> Yes. Yeah. Yes. I'm kind of remembering
+0:43 that here today. It's like, "Oh, I
+0:44 haven't done that for a long time." Um
+0:47 Anyway.
+0:48 >> [clears throat]
+0:48 >> But yeah, here we are. Month number
+0:50 five.
+0:52 Boy, the year's going fast, isn't it?
+0:53 >> Yes, it is going fast. It just keeps on
+0:56 moving on, so
+0:57 but anyway, Hey, Kenny's here, you guys.
+1:00 And so is Bruce. Bruce and Kenny are
+1:01 here.
+1:02 Hi, you guys. Hello, everybody.
+1:05 Awesome. Thanks for being here, you
+1:07 guys. You know, good people a little
+1:08 bit. I don't know how this topic I mean,
+1:10 we usually talk about Chief Architect
+1:11 stuff, and this is like sometimes let's
+1:13 just throw in some other topics and and
+1:15 why not? Because we're all here to uh
+1:17 to learn and to
+1:19 figure out ways to
+1:21 do better for our family. I guess that's
+1:23 kind of how I
+1:25 spin all of this. It's just like, "Why
+1:27 are we doing this?" Well, yeah, we got
+1:29 to pay our bills. We got to take care of
+1:31 our family. I mean, isn't that kind of
+1:32 the bottom line? No, but I do it just
+1:35 for fun. Well, yeah, I know you do, but
+1:37 I I do it to pay bills.
+1:39 >> [laughter]
+1:41 >> But
+1:41 fortunately, I I do it
+1:42 >> to buy shoes. Yeah. It's just shoes,
+1:44 [laughter] right?
+1:45 And oh man, what a shoe collection you
+1:48 have.
+1:48 >> Yeah, you do have a lot.
+1:49 >> oh, you'd love this We um did a closet
+1:52 We renovated our closet, and I put in a
+1:54 shelving system that holds 60 pairs of
+1:57 Yeah, I can't believe that.
+1:58 >> So, I put all my shoes up, and my
+2:00 husband has two shelves. I said, "Oh,
+2:02 honey, you have two shelves." And he's
+2:04 like, "Oh my god, I have two shelves."
+2:05 And I'm like, "Don't get comfortable."
+2:08 >> [laughter]
+2:09 >> Yeah. Don't get used to it. You're going
+2:11 to have that little one over there on
+2:12 the floor. Don't piss me off. Yeah,
+2:15 anyway.
+2:16 But yeah, so
+2:18 so I I thought let's just talk about We
+2:20 talk about this. We've talked about this
+2:21 before. And uh I thought well, let's
+2:24 just talk about it again. So, there's
+2:25 lots and lots to talk about. And you
+2:29 know,
+2:30 you guys on the show,
+2:32 chime in, please, cuz we'd love to hear
+2:34 what you have to say as well as we go
+2:36 through. This is real free form. I
+2:38 haven't prepared a ton of stuff other
+2:40 than
+2:41 go to my good old buddy AI and and ask a
+2:44 few questions, and I'll I'll kind of
+2:46 review some of those with you here in a
+2:48 little bit.
+2:49 Um
+2:50 and it's just like, you know, what used
+2:53 to take me 3 hours to prepare for a show
+2:55 like this took me 5 minutes today.
+2:59 Um thanks to AI, and I think there's
+3:02 some really interesting things that came
+3:03 up
+3:04 from it. And I think part of that, too,
+3:06 is I've really trained my AI. I use
+3:09 ChatGPT pretty well in the last year
+3:12 about my business and what I do in
+3:14 design and construction and Chief
+3:15 Architect and what I do and how I like
+3:17 to do it. Um and that really helps, so
+3:20 Mhm. where that's all hidden,
+3:22 I don't know. I just know right now it
+3:24 works really well, and I really enjoy
+3:26 using it. Uh it helps me with a lot of
+3:28 different tasks that I do regularly.
+3:30 So,
+3:32 and with that, um
+3:35 And and by the way, welcome back, Kevin.
+3:37 Kevin hasn't been here for a while. I
+3:39 did a round-the-world cruise, and uh you
+3:42 know, then I went out to outer space for
+3:44 a little while.
+3:46 Yeah.
+3:48 Did you wear that hat that Renee got for
+3:50 you made for you? Uh-huh. You wore that
+3:52 hat to protect yourself from the
+3:53 radiation. I'm glad to hear
+3:54 [clears throat] that. Yes. Yeah. Yes,
+3:56 good. I'm glad.
+3:58 And then Robin, too, you've been you've
+3:59 been busy with your school stuff, so I
+4:02 have. Thank you, Margaret. Thank you.
+4:04 Cut it all off.
+4:06 Um yeah, I've been really busy with
+4:08 school, so it's And we were on strike
+4:10 for the almost 3 weeks, so that was a
+4:12 big deal. Wow. And you got a little bit
+4:14 more than you're asking for, so that was
+4:16 cool.
+4:17 Um Yeah, and but it You know what? I
+4:19 don't think it was worth it. I wish that
+4:21 we would have resolved beforehand
+4:23 because I think it caused more problems.
+4:25 Usually strikes are like that. It's I
+4:28 >> [clears throat]
+4:28 >> would have taken less to make to less to
+4:31 make it
+4:32 to create to create a better
+4:33 environment. Yeah. Yeah. Anyway,
+4:36 at least it's over. You're back to work.
+4:38 Everybody back to work, and Yes. and
+4:40 they're learning, and it's all good, so
+4:42 I was really surprised to find out how
+4:43 big um
+4:44 uh your community college is there, so
+4:47 >> It's actually the either the fourth
+4:49 largest or the sixth largest college
+4:51 university in the entire country. Wow.
+4:54 It It It depends upon how you count
+4:56 full-time enrollment, um whether the
+4:58 fourth largest or the sixth largest in
+5:00 the entire country of colleges and
+5:02 universities. That is amazing.
+5:05 >> Yeah. Wow. It's
+5:06 huge.
+5:07 Wow. Yeah, so Portland Community
+5:09 College.
+5:10 Yep.
+5:11 All right. Um
+5:13 and with that, let's uh
+5:17 jump into what we want to talk about
+5:18 today. Um but [clears throat] first, let
+5:21 me share my screen.
+5:23 And uh a couple things.
+5:25 Uh I got a seat or two available in
+5:29 Rockville, Maryland, if you're
+5:30 interested in coming to do some Chief
+5:32 Architect training next week. Um it does
+5:34 say it's sold out, but I just got a call
+5:36 right before this meeting that one
+5:37 person can't make it. So, I do have one
+5:40 spot available now, so for all 4 days,
+5:42 if you're so inclined. Um so, check it
+5:45 out. Uh we're really fortunate that uh
+5:50 a lot of interest. So, I'm really
+5:52 thrilled about that. So, it's it's
+5:54 exciting and and
+5:56 really rewarding to teach people how to
+5:58 really use Chief Architect to its
+5:59 fullest potential. And uh
+6:03 both John and I love I know all you guys
+6:05 love doing that, so John and I will be
+6:07 there, and and we just really have a
+6:09 good time doing that. So, and Rockville
+6:10 is a beautiful beautiful area. It's
+6:12 really really cool. So, come on out
+6:14 and check it out. And then we'll also be
+6:16 in Denver next month,
+6:17 uh 15th to 18th, so
+6:20 nice little hotel right near the
+6:22 airport. So, if you want to same kind of
+6:24 deal that we have, the 4-day training
+6:26 class, where um you can take 2 days of
+6:28 just kind of a beginner intermediate
+6:30 intermediate and or you can do the last
+6:32 2 days where you can dive deep into a
+6:33 little bit more.
+6:35 Someone's calling there. What is that
+6:37 noise? Somebody's noise. Computer's
+6:39 making noise. Yeah, something.
+6:42 Um thank you. Uh So, anyway, check that
+6:44 out, too. So, and then again, as usual,
+6:46 we have the Pro Academy, so which we're
+6:48 going to have just a ball uh with the
+6:50 Pro Academy going through our
+6:52 twice-a-month live calls, and uh we
+6:55 cover so much good information in those
+6:57 calls. It's really exciting.
+6:59 And
+7:01 there you go. So, that's what we got
+7:03 going on right now. And as usual, John
+7:05 and Renee, uh
+7:07 check out their websites. Renee is Renee
+7:10 Rabbit
+7:12 .net. No. RabbitDesign.net.
+7:15 RabbitDesign.
+7:16 >> [laughter]
+7:17 >> R A
+7:19 R A B B I T Design.
+7:21 I think you do the same thing I do. When
+7:23 I say something, even if it's wrong,
+7:25 it's still in the memory, like and then
+7:28 I can't remember which one was the right
+7:29 one. Uh-huh. I put them both, you know.
+7:31 >> [laughter]
+7:32 >> I knew I said it wrong right when I said
+7:33 it, so I think the thing that's hardest
+7:35 with your name is to remember two Bs and
+7:37 two Ts. Yeah.
+7:39 >> Yeah. R A B B I T T.
+7:41 And uh check it out. And John with
+7:43 Imagine-Drafting.com.
+7:45 Uh if you're looking for help with plans
+7:47 or some training, check him out. And
+7:48 Robin, you've got a class coming up in
+7:50 Portland. Uh
+7:51 >> I do. May? End of May. Yes, and there's
+7:54 still seats available. We keep our class
+7:56 really small. We really like to keep it
+7:59 no more than 12.
+8:00 So, um So, 2-day class, and where would
+8:02 people find out about that? Um you know,
+8:05 I'll put it in the chat. Um cuz it's I'm
+8:08 I'm through Betsy's um Betsy's What's
+8:11 her
+8:12 It's Design No, it's just
+8:14 >> Oh, Designer Designer Sanity. Yeah,
+8:16 that's right.
+8:17 >> No S. DesignerSanity.net.
+8:20 .com. .com, sorry. Sanity Designer
+8:23 Sanity.com.
+8:27 Yes. And yeah, so Betsy will be there,
+8:30 and there's a little link right here.
+8:33 >> to Events, you'll see it there. Yes.
+8:35 Yeah, it's listed right there at the top
+8:36 of the screen, so you guys check it out.
+8:38 It's a weekend uh class for 2 days. Um
+8:41 and if you Robin is
+8:45 a true blue star at uh Chief Architect,
+8:48 so check it out, and you will learn a
+8:50 ton when you go to this class, so
+8:53 Yeah, there's There must be a picture of
+8:54 your last class that you did. Yeah, I
+8:57 think we had a I'm thinking about making
+8:58 [clears throat] a surprise appearance to
+8:59 that.
+9:00 I know, it'd be really great to have you
+9:01 come make a surprise appearance. Yeah.
+9:03 Now, it's not so much of a surprise, but
+9:05 it'd still be wonderful to have you.
+9:07 Cool. So, check it out. There she is in
+9:10 her little leopard outfit, whatever that
+9:12 is.
+9:12 >> Someday I need a new haircut or a new
+9:14 picture. Yeah, one day. All right. That
+9:17 one still works. Anyway, um cool. So,
+9:19 let's dive into How do you make money
+9:21 with Chief Architect? And this is where
+9:24 I just
+9:26 You know, I've done this We've all done
+9:27 this so many times, and we're all going
+9:28 to go through this How do you make money
+9:30 with this program? And um how do you get
+9:32 paid fairly for the services that you
+9:35 offer?
+9:36 So, there's kind of In my book, there's
+9:38 a couple ways to look at that.
+9:41 Um you know, how much do you get paid
+9:42 for the services you offer? But what's
+9:44 Let's back that Let's reverse that
+9:46 questions and say, "What services do you
+9:48 offer that you get paid for?"
+9:51 So, kind of another way to look at it.
+9:53 And so, when we think about doing
+9:56 design, we think about well, we're going
+9:58 to draw plans for a house.
+10:00 But, when you break it down,
+10:03 there's so many other aspects to that
+10:05 that come into play.
+10:07 And, where do you
+10:10 where do you fit in that? Or, you know,
+10:11 what do you What is your
+10:13 What is your brand? What is it you're
+10:15 selling? What is it that you like to do?
+10:17 What is you don't like to do?
+10:19 Cuz we all have both of those things. Um
+10:22 And, I've talked many times about I'm
+10:24 not real thrilled about doing real
+10:26 detailed types of drawings like Renee
+10:29 has to do in California.
+10:31 Um you know, I just when someone calls
+10:33 from California, I say, "Well, give
+10:34 Renee a call." Uh
+10:36 >> [laughter]
+10:37 >> because yeah.
+10:38 >> details.
+10:39 >> I know you do.
+10:40 Like Aaron, too. I know Aaron uh Rose
+10:43 loves to do that stuff cuz she's really,
+10:45 really good at it. And, Renee, you've
+10:47 got all your stuff so well
+10:50 put together that you can do those kinds
+10:52 of plans really quickly.
+10:53 >> Yeah, usually if I I get a detail I've
+10:55 never seen before, I'm like, "Ooh, I get
+10:56 to add to my details." There you go.
+10:59 There you go. So, um
+11:01 it's not that I don't like drawing
+11:02 details and figuring stuff out. I just
+11:04 don't like doing those plans that
+11:06 require all that extra stuff that you
+11:08 have to do. Anyway,
+11:10 um
+11:11 let's just run through this list real
+11:13 quick and see if we can So, so part of
+11:15 the goal here is to maybe nudge your
+11:17 thinking a little bit into, "Hmm, maybe
+11:19 I could expand my services or do
+11:21 something a little bit differently
+11:23 uh where I could um
+11:26 make that
+11:27 uh another kind of a service I offer, or
+11:30 maybe the way you market your services.
+11:33 Maybe you break things up a little bit.
+11:35 Um there's a company in town here,
+11:37 Castle Building and Remodeling, used to
+11:41 I think I think they're still kind of
+11:42 doing it like this, but they would sell
+11:43 their pack their their their design work
+11:47 in three phases.
+11:48 One would be the, you know, the as-built
+11:50 and conceptual types uh drawing where
+11:52 you're just getting ideas. And then, if
+11:54 that worked, you'd move forward into
+11:55 more of the more detail and putting
+11:57 things together, more um
+11:59 you spend more time on a little bit of
+12:01 selection, things like that. And then,
+12:02 the final phase would be all of the
+12:04 selections and the the complete
+12:06 construction documentation, all of the
+12:08 proposals, the contracts, all of the
+12:10 different things that you need to put
+12:12 the project together. And we think about
+12:14 everything involved in that whole
+12:16 scenario, there's a lot of work. I mean,
+12:19 it's
+12:20 >> that's a standard AIA three-phase, and
+12:22 you named it right. Schematic design,
+12:24 design development, and construction
+12:25 documents. Yeah. Yeah.
+12:28 Um so, so that's all part of it. But,
+12:30 you know, I know people that all they do
+12:31 are as-builts. And, if if I wanted to
+12:34 make a good living for my family, and
+12:36 that's all I offered, I could do pretty
+12:38 well at that because people hate doing
+12:40 as-builts. Now, with the technology
+12:42 getting better, you scan the job and
+12:44 you're getting It's getting there, slow
+12:46 but sure. John's really good with his
+12:48 Matterport. If you need If If you need a
+12:51 scan and you're in Minnesota or wherever
+12:53 John's going to be,
+12:55 let him know and he can come Matterport
+12:57 your your project. And, he's gotten
+13:00 pretty good at creating
+13:02 designs from the cloud point cloud that
+13:06 you get from the
+13:07 Matterport also has a list of providers
+13:10 all over the country.
+13:11 Yes. But, if you do do something like
+13:14 that, I'd love to talk to the person
+13:16 who's going to do the scan because it's
+13:17 a different type of scan than you want
+13:19 to do
+13:21 for a marketing
+13:22 real estate sales.
+13:24 You just have to position the camera in
+13:26 different places and stuff like that to
+13:27 get an accurate
+13:29 scan to do a as-built off of it. You
+13:32 know, and there you go. So, and that's a
+13:33 service that you offer separate from
+13:35 this doing plans is the Matterport
+13:38 scanning. Um and and the as-built
+13:40 service where you just Matterport you
+13:42 just do the scan if that's all people
+13:44 wanted, but you'd also do the as-built
+13:45 drawings from the scan.
+13:47 Right.
+13:47 >> So, that's a great
+13:49 >> the We're using a different uh
+13:51 kind of a cheap CAD program right now to
+13:53 get
+13:54 CAD details off of the point cloud
+13:56 instead of using the
+13:58 OBJ file. I just I feel like we're
+14:00 getting a little bit more accuracy out
+14:01 of that. Cool.
+14:03 Um I You can also do it off of OBJ file,
+14:05 too.
+14:06 I want to mention, too, that uh
+14:09 I don't know if you if John and Dan, you
+14:11 still do this, but
+14:14 it's really difficult to coach
+14:16 our methods for doing an as-built in the
+14:18 field when we're sitting at a computer
+14:20 desk. But, if you go to the live classes
+14:24 and you post poke poke them a little
+14:25 bit,
+14:26 um they'll demonstrate for you how they
+14:29 do an as-built in the field, and it will
+14:30 really make a difference for you cuz
+14:32 there's a lot of good tricks. I went
+14:34 from going, you know, maybe 8 hours to
+14:36 do a 2,000 square foot home,
+14:38 um and now it's takes me maybe 2 to 3
+14:40 hours. And Dan, I I know you go way more
+14:44 elaborate than I do in the field, but um
+14:46 Yeah, but again, I can I I just did a
+14:49 house here last uh
+14:51 fall, actually winter during the winter.
+14:53 No, it's I don't know, it was a while
+14:54 ago. Um about a 3,000 square foot house,
+14:58 two levels and a basement. Um took me 6
+15:02 hours, I think, to do the whole thing,
+15:04 to have the as-built done.
+15:05 Uh and that was all I did.
+15:07 >> completed. Yeah.
+15:08 >> Yeah. Yeah.
+15:09 >> [clears throat]
+15:09 >> So, you
+15:10 pretty good. And I measure on site with
+15:12 my laptop. So, it's just like
+15:14 when I leave the project, I'm mostly
+15:16 done with the as-built, and I know it's
+15:18 100% correct to down to probably within
+15:20 the inch.
+15:21 So, uh
+15:23 I have no qualms about my as-builts.
+15:25 That's really nice. Work really well.
+15:27 And I get I charge 150 bucks an hour to
+15:29 do that,
+15:30 which is too cheap, but that's what I
+15:31 charge. So, don't give me any crap.
+15:34 Um
+15:35 So, And And we should tell you, don't
+15:37 charge per hour cuz you've sped up, and
+15:39 now you're losing money.
+15:40 >> True. True.
+15:42 >> money.
+15:43 Yeah, but I don't do my I don't do them
+15:45 anymore, so.
+15:46 Can you put up Bruce's comment again?
+15:49 Um Bruce, the newest guidelines are not
+15:52 So, they're they're still the old
+15:54 guidelines are available um on the
+15:57 website. There's a new revision of the
+15:59 guideline, and it hasn't come out yet in
+16:01 print. So, I It was supposed to be out
+16:03 for the builder show.
+16:05 It hasn't come out yet. Um but, I will
+16:07 check, and I'll make sure that we send
+16:09 that information out, Bruce. I'll check
+16:11 and see when that's coming in.
+16:14 Cool.
+16:16 Uh Well, you know, the thing is about um
+16:18 so many designers are working all over
+16:20 the country, right? And um I did a
+16:23 project on the East Coast, and I had to
+16:25 find somebody who could do my site
+16:27 measures.
+16:28 You know, and as a team, you know, as a
+16:32 if we look at
+16:34 um the industry as a whole as as a team,
+16:37 right? I mean, if if there's a designer
+16:39 on the East Coast that's going to do in
+16:41 a project in Portland, I'd be happy to
+16:43 help them. You know, I'd I'd be happy to
+16:44 go over and site measure and do all the
+16:46 site documentation for them so that way
+16:48 they can be successful, right? Um
+16:51 And you just have to be able to The
+16:53 biggest problem is with that is trusting
+16:55 somebody to go in and represent you on
+16:58 the other side of the country, you know?
+17:01 Cuz you have to be honest. You have to
+17:02 be able to go in and say, "I'm here just
+17:04 to represent them. I'm not giving you my
+17:06 business card." You know, or if I give
+17:08 you my business card, it's not because I
+17:09 want to be
+17:11 your designer. They're your designer.
+17:13 You have to be You know, that's that's
+17:15 kind of the scary thing is you give
+17:17 somebody all the contact info, they go
+17:19 out into the project, and then what
+17:21 happens for you, you know?
+17:23 >> [clears throat]
+17:24 >> So,
+17:25 it's just an issue to be aware of. Yeah.
+17:28 Yeah. You know, you build the trust
+17:29 level with people, and you you know,
+17:31 when I work for a contractor,
+17:33 I'm representing them, period. I mean,
+17:36 yeah, I'm not going to do anything
+17:38 without working with them. So, that's
+17:40 just the way it goes. Anyway, as-builts
+17:42 are a really good way to to to
+17:44 you do services and get paid for them
+17:46 cuz they take time. It's the biggest
+17:48 choking point in a good design for a
+17:51 remodeling project. If you have a lousy
+17:53 as-built, you're going to have a lousy
+17:54 plan, which can then result in a lousy
+17:56 project.
+17:57 So, Yeah, I'd I'd go on to say that
+18:00 that's the most important thing in the
+18:03 in the drawings cuz
+18:06 if you get the as-built wrong,
+18:08 everything else is
+18:10 >> Absolutely. Oh my gosh.
+18:12 >> [clears throat]
+18:13 >> My experience
+18:15 In my experience, it's also a field, you
+18:17 know, the remodeling field is also a
+18:19 field that tends to pick up if new
+18:21 construction drops down. Yeah. Yes.
+18:23 >> Because people or even if new
+18:25 construction prices go up,
+18:27 the remodel picks up a little bit.
+18:29 >> talk about interest rates right now.
+18:30 People aren't moving because so many
+18:33 people have,
+18:34 you know, 3.2% interest rates, and how
+18:37 can you afford to move into a house even
+18:39 though it's dropped, I think what is it
+18:40 at like 6.5? Yeah. People can't afford
+18:43 to sell their house to go buy a house
+18:45 with a bigger interest rate unless you
+18:47 pay cash, right?
+18:48 >> So, let's extend that out to the macro
+18:50 level. The
+18:51 The The thing about that is and when
+18:53 while we're talking about services that
+18:55 you could offer,
+18:56 um
+18:57 if that happens and if remodeling picks
+19:00 up, it also means that builders enter
+19:02 the remodeling business. It also means
+19:04 that new people jump in that think they
+19:07 can do remodeling, and all of them are
+19:11 um going to fail if they don't have
+19:12 great as-builts. So, one of the things
+19:14 that, [clears throat] you know, we're
+19:16 one of the things that Dan you said
+19:17 early on was that as-builts and
+19:19 conceptuals, and you lumped it into one
+19:21 thing. I believe that you can offer a
+19:23 service of doing only as-builts, and
+19:26 it's a viable service. It's something
+19:27 you can get paid for to go work for
+19:29 anybody or provide as-builts for your
+19:32 industry. You know, you find a good
+19:33 handful of contractors and designers
+19:35 that need that service and are good at
+19:37 charging for their services
+19:39 um where they can do a decent charge for
+19:41 the as-built where you can, you know,
+19:43 make a you you can make a decent living.
+19:46 You could make a six-figure living
+19:48 easily just doing as-builts. It's a lot
+19:50 of Yeah. It's a lot of work, but it
+19:51 could be done. Yeah, we've we've met
+19:54 some of them at the at the Chief events
+19:56 in in
+19:57 Coeur d'Alene, Idaho, who that's all
+19:59 they do is as-builts and they that is
+20:01 their business. Oh, yeah. Yeah.
+20:02 >> That's quite a business. You know, once
+20:04 you become efficient at that and you are
+20:06 known among the building industry, you
+20:07 don't even have to worry about doing
+20:09 detailed drawings. Yeah. Right.
+20:11 Just go measure the existing house.
+20:13 Exactly. But, you know, I have a few
+20:16 friends who are now designing um
+20:18 they're doing the drawings for other
+20:20 designers.
+20:21 So, there's a few just um designers that
+20:23 I have friend that I'm friends with that
+20:26 they don't want to
+20:27 deal with the client. So, they just work
+20:29 for designers all over the country
+20:31 and they do their drawings for them. So,
+20:33 the designer goes out and does the
+20:35 measure, does all the, you know,
+20:36 collects all the initial information,
+20:39 sends it to
+20:41 um the designer on another part of the
+20:43 country, they work up the as-built, send
+20:45 it back, the designer does their
+20:47 drawings, sends it back. And they make
+20:49 good money, but they have different
+20:50 price points based on whether they're
+20:52 just doing design, they're just doing
+20:54 the drawings, or they are doing the
+20:57 specifications. So, if they're taking
+20:59 the drawings and then now send me all
+21:01 your specs and I'll put them in the
+21:03 drawings and I'll make sure everything
+21:04 is accurate, then they charge more for
+21:06 that. And you know, it's a nice way to
+21:09 make money without having to leave your
+21:10 house. You can just stay on your
+21:11 computer.
+21:13 And, you know, they're making most of
+21:15 those designers are making between 100
+21:16 and 150 an hour just drawing.
+21:20 There's and they're doing really well.
+21:22 I'd like to respond to this comment
+21:23 that's up right now.
+21:25 It doesn't have to do with your comment,
+21:26 Robin, sorry, but I I knew that that
+21:28 comment was about to leave.
+21:31 The idea of tons of pictures and don't
+21:33 rush to leave is is it's true, it's
+21:36 important, but it's also more of a
+21:39 archaic art and that's not the right
+21:41 word. An older way to look at things
+21:43 than what you can do now with your
+21:45 phones the way they are now. If you
+21:47 stand in a room and turn 360° with your
+21:50 video on, you capture every detail. You
+21:53 don't end up back home going, "I didn't
+21:55 catch what was behind that new couch."
+21:58 I'll argue with you on that. I do not I
+22:00 do not like reviewing videos. I would
+22:03 much rather review pictures. Really?
+22:05 Why? I would rather I I take very
+22:07 detailed pictures and then I do a video
+22:10 just in case. I do both.
+22:12 I'm trying to hunt for the one detail
+22:14 I'm looking for through a video is
+22:16 [clears throat]
+22:17 is torture to my brain. I [laughter]
+22:19 just
+22:20 I just go down to the slider and scroll
+22:22 to that image which becomes an
+22:24 individual image. But, yeah, I get your
+22:25 point. I I find that it's a I find that
+22:28 I end up capturing things like, "Oh,
+22:31 heck, I didn't know there was an HVAC
+22:32 vent above that refrigerator." You know,
+22:35 I'm going to have to worry about that. I
+22:38 I left that comment up there because I
+22:40 had some some thoughts, too. I don't
+22:42 like pictures or videos.
+22:45 >> [laughter]
+22:45 >> What do you do?
+22:47 I think it's worth the the money to
+22:48 spend to get a good Matterport scan
+22:50 because then you can go to exactly where
+22:52 you want to look at it. And again, you
+22:54 need to train the Matterport person
+22:57 to take the scan to look for details
+22:59 like outlets in the wall and vents on
+23:02 the floor and all those kind of stuff,
+23:04 set the camera where it can see that
+23:05 stuff, not for marketing real estate.
+23:08 And the nice thing about Matterport,
+23:10 too, is you can do the outside of the
+23:11 house, too, now. So, that's pretty cool.
+23:13 But, regardless of what regardless of
+23:16 what method you use,
+23:17 do that first before you start measuring
+23:20 the house.
+23:21 >> [snorts]
+23:21 >> Take your pictures, video, or Matterport
+23:23 before you start measuring because it's
+23:26 going to give you a really good sense of
+23:27 the project and because usually what
+23:29 happens at the end of the you're done
+23:30 measuring and you got to rush because
+23:32 you got to get to the next appointment,
+23:33 so you take a few pictures and you're
+23:35 going to miss the things you really
+23:36 need. So,
+23:37 So, I'd like to add I think your video
+23:40 or your photo commentary of the project
+23:44 is more important than what you captured
+23:45 because when when the missus says she's
+23:48 got to run off and pick up the kids, can
+23:49 you leave now, you don't have any time
+23:52 to capture that, so you miss every
+23:53 detail that you would have stuck around
+23:55 for. So, I agree with Dan, do all that
+23:57 first and then do your measurements. And
+23:59 then you have a good sense of the
+24:00 project, too, when you start measuring.
+24:02 So, I'm teaching a class right now where
+24:04 it's our senior class and they actually
+24:07 have real clients that they're working
+24:10 with, right? So, they're going and doing
+24:11 site measures. And I have been teaching
+24:15 it is amazing. Some of my students are
+24:17 amazing doing their drawings. They do a
+24:18 great job.
+24:19 But, I was with three students the other
+24:21 day teaching them how to measure and
+24:24 their lack of
+24:27 being systematic was crazy. I'm like,
+24:31 "How the hell can you Why are you
+24:32 measuring here and then over here?" And
+24:34 it was I had to
+24:36 Oh my god, I had them stand in the
+24:38 middle of the room, you draw it out, you
+24:41 do your length and your width,
+24:43 then you measure every single wall, then
+24:45 you add up that wall and make sure it
+24:46 matches the overall dimension before you
+24:49 go to the next wall. You have I mean,
+24:52 There's a workflow that definitely is is
+24:54 important with doing as-builts.
+24:55 >> gosh. They don't even know how to hold a
+24:57 tape measure.
+24:58 >> [clears throat]
+24:58 >> They don't and they have the wrong tape
+25:00 measure.
+25:01 The wrong tape measure. And if you're
+25:03 OCD, you're going to go do that anyway.
+25:05 You're going to do that room and then
+25:06 you're going to do that room and maybe
+25:07 you go upstairs. [laughter]
+25:08 I'll say that
+25:11 in my contracts, I I want a helper when
+25:13 I go measure
+25:15 and and it speeds me up a great deal.
+25:18 And my contracts, I like to mention
+25:20 this, is I got a line item in my
+25:21 contract. It It's difficult to get a
+25:24 college student to sign up for a 4-hour
+25:27 gig in the middle of the week. It just
+25:29 is. So, because of that, I spell that
+25:32 out in my contract and I say this is an
+25:35 aspiring student. It's difficult to get
+25:37 someone in the middle of the day for
+25:38 just a short gig, so they're getting a
+25:41 line item that's they're getting paid at
+25:43 a greater rate than I am and all that
+25:46 goes to their education to them for, you
+25:48 know, furthering what they're doing.
+25:50 And everybody's happy with that. And
+25:53 then they show up and they've got a
+25:54 Bluetooth measure, they got a tape
+25:56 measure, but I got to teach them how to
+25:57 do that.
+26:01 I had to I had to teach the fence guys
+26:03 today how to use a speed square. That
+26:05 cracked me up.
+26:06 >> [laughter]
+26:10 >> Um hey, I
+26:12 I think it's really funny how we get
+26:14 together. This is like a if you put five
+26:16 designers in a room and ask them to
+26:17 design the room, you get five different
+26:19 designs.
+26:20 We're we're supposed to be talking about
+26:22 how to make money in Chief, but as
+26:24 usual, we went right down the rabbit
+26:26 hole and we're talking about
+26:27 specifically as-built drawings and how
+26:29 to capture them. Yes, trying to move
+26:30 forward here. Thanks, Kevin.
+26:32 >> [laughter]
+26:34 >> Any one of these 20 topics that came up
+26:37 here from chat, we could probably do an
+26:40 hour on each of them. Absolutely.
+26:43 Why don't you just run through them
+26:44 quick and and list them all out and then
+26:46 we can get some comments going and Yeah,
+26:48 what we're answers only. Yeah, so
+26:50 [laughter] again, you're measuring
+26:52 and I love this list. I think it's
+26:54 really really well done. Concept design
+26:57 services. So, there again, that's
+26:58 separating the two, as-built and
+27:01 concepts. So, you work with the client
+27:03 to give ideas on what the project's
+27:05 going to be after you have the as-built.
+27:07 I mean, you can even do concepts with
+27:09 just kind of a really rough as-built. Um
+27:11 I've done it before where I've measured
+27:13 off from a Google Earth image.
+27:15 I can get this kind of the size of and
+27:18 then if you want to show an addition and
+27:19 I can kind of see the roof and get it
+27:21 pretty close.
+27:22 So, you don't even have to do an
+27:23 as-built until you get a concept done.
+27:25 And then what if that flies and you get
+27:27 some decent numbers, then you go ahead
+27:28 and start the project from scratch. But,
+27:30 that should be a
+27:31 that should not be a free service
+27:33 because you're going to have a bunch of
+27:34 time in that.
+27:35 I would say it's in today's market, why
+27:37 don't you start billing and advertising
+27:40 to, "I will take your AI conceptual
+27:42 designs and improve them." Yeah. Yes, we
+27:46 got a lot of people just punching in the
+27:48 AI to look at
+27:49 concepts. Why would anybody do any
+27:52 [clears throat] of this work without
+27:53 getting paid? Yeah, there you go. That's
+27:55 where I But, let's I want to start that
+27:57 concept is you should
+28:01 not be doing That comes down the list
+28:04 here where I asked AI, "Why do people
+28:07 Where did that go here? I'll post this
+28:09 on the blog, too, when we post the
+28:11 video, so you guys will be able to go
+28:12 look at this list. This is really
+28:13 excellent. Um I went down here.
+28:17 Why do so many people have a hard time
+28:18 charging for what they're worth in this
+28:20 industry?
+28:22 Okay, and then it just, you know, gave
+28:24 me a whole bunch of reasons why. I have
+28:27 designers who are charging $50 an hour
+28:30 to do and I'm like, "Why? You're
+28:33 you're Let's look at just the cost of
+28:35 your computer every year and your CAD
+28:38 and your business license. You're making
+28:41 $5 an hour. At 50 bucks an hour, you're
+28:44 making five or 10 bucks an hour. That's
+28:46 ridiculous.
+28:47 I I just don't even understand that.
+28:49 I don't understand why people can't
+28:51 don't charge appropriately. I think it's
+28:54 I think it's a combination of insecurity
+28:55 and inexperience and and those two
+28:57 things are very powerful. And until you
+28:59 can overcome both of those, especially
+29:04 the insecurity, then
+29:06 you tend to hesitate. You always feel
+29:08 like,
+29:09 "That's too much.
+29:11 I won't get the job." or whatever.
+29:13 Kevin, I agree with you, but I I I have
+29:16 met
+29:16 people
+29:17 Those of us who have been down the path
+29:19 for a while
+29:20 know that
+29:22 if you don't charge for things, you end
+29:26 up doing a whole bunch of free work
+29:27 wondering why you can't pay your grocery
+29:29 bills. If you do charge for them, you
+29:31 may lose some of the low-end clients,
+29:34 but you're going to gain the high-end
+29:36 clients. You know,
+29:38 I agree with what you're saying. I have
+29:40 met and I agree that sometimes it's the
+29:42 inexperience designer or the person who
+29:45 has the lack of self-confidence who
+29:47 doesn't charge enough. But I have
+29:49 literally met really good designers who
+29:52 charge so little
+29:54 and they'll charge I mean in Portland in
+29:56 Portland average price for designers is
+29:58 two most designers are charging around
+30:00 the 200 to 250 an hour
+30:04 and that's that's pretty consistent,
+30:05 right? But I've met designers who charge
+30:09 "Oh, I'm only going to charge $75 an
+30:11 hour because I really want people to be
+30:12 able to get really good design and I
+30:14 really like doing this and I don't
+30:16 really need the money."
+30:17 And I my response to them is you are
+30:20 hurting our industry. If you expect our
+30:24 industry to be a level of
+30:26 professionalism and to create a living
+30:28 wage, you have to charge appropriately.
+30:31 You can't do that because you're
+30:32 injuring the entire when one person
+30:35 isn't is lowering their rate,
+30:38 you're not you're injuring the entire
+30:41 industry. You're inju- injuring the
+30:44 entire industry. You're hurting us all.
+30:47 So, we have to be appropriate for it.
+30:49 Get paid for what you do. And you know,
+30:52 as a designer whether you're just
+30:53 whether you're doing um
+30:55 plans only or you're doing interior
+30:58 design or you're doing
+31:00 specifications and and material
+31:02 selections,
+31:03 you need to be paid for every single
+31:05 section every time everything. You You
+31:08 know, attorneys I've gotten a I've
+31:10 gotten bills from an attorney for 11
+31:12 minutes. Yep. You know? We should be We
+31:15 should be doing. We should be. Anyway,
+31:17 okay, we're doing enough.
+31:19 What's that?
+31:20 Oh, it's a phone call. You know, it's a
+31:22 phone call attorney bill, you know?
+31:25 You it's
+31:26 Yeah, you should be charging.
+31:28 Real quick, back on my website on the
+31:30 homepage, scroll down you can get this
+31:32 little handout I put together a long
+31:33 time ago and I've been updating a little
+31:35 bit. Um looks like I need to update it
+31:37 again. Uh but it's just common sense why
+31:41 you get deserved to get paid for your
+31:42 services. Um all right, 3D visualization
+31:45 visualization
+31:47 Can I back up just a second and make a
+31:49 comment about that? Hurry up.
+31:51 >> [snorts]
+31:51 >> Um
+31:52 >> [laughter]
+31:54 >> I don't I struggle I struggle to charge
+31:56 enough for my charge for everything that
+31:58 I do when I'm the one in charge of
+32:01 making the bill out.
+32:03 If I just write it down and in this this
+32:05 case my wife does the billing,
+32:08 Mhm. if I just write it down and let her
+32:10 take care of it, it takes the emotion
+32:13 and the I want these people to have the
+32:14 best thing, takes it all away. Yep. So,
+32:17 if you
+32:18 really think, find somebody
+32:21 other than yourself that can do the
+32:23 billing, you'll have enough to pay that
+32:24 person and you'll be making more money
+32:26 than you than you That's a really good
+32:29 point. But body doubling
+32:31 >> good point.
+32:33 I think that's what I was
+32:33 >> you say? I remember years ago listening
+32:36 to Walt Stoeppelwerth and he talked
+32:38 about when you hire sales people to go
+32:41 sell your jobs, don't let them do the
+32:43 costing.
+32:44 Just give them the number of what it
+32:47 they should
+32:48 sell.
+32:49 Because if as the people doing the
+32:52 estimating,
+32:53 you know, and then you add your markup
+32:55 on which we always feel guilty about
+32:57 because it's like really that's a lot of
+32:58 markup, but
+33:00 that's what we need to run our business
+33:02 and stay in business and make a small
+33:03 profit. Um
+33:06 so if you just hand that off and say
+33:08 here go sell this and you get a good
+33:09 professional salesperson, they don't
+33:11 know what the real cost is, doesn't
+33:13 matter because the real cost is whatever
+33:15 that is and that's what you need to stay
+33:16 in business. Anyway, so
+33:17 >> You know what else I'd like to make a
+33:18 great point, John.
+33:19 I'd like to make another point on this
+33:21 one is even if you're charging flat fee,
+33:24 if you're charging flat fee, track your
+33:26 hours. Absolutely track your hours even
+33:29 if you're charging flat freight fee.
+33:31 Boy, that's a hard one to say. Um
+33:34 if because you will realize that after a
+33:37 while you get faster and faster
+33:38 especially as your skills get better
+33:41 with Chief. Um as your skills get better
+33:44 and you're using you know, like if you
+33:46 start using Renee's plan system, you're
+33:48 much more organized and much more um
+33:51 things become more automatic. Um your
+33:54 time is going to get faster and you're
+33:56 not charging what you should be doing,
+33:58 right? You're now losing money. Because
+34:00 you can look at it two ways is I can
+34:02 keep charging this money this amount and
+34:06 get
+34:07 get all the work done faster and take on
+34:08 more work or I could make this much
+34:11 money for this one job and take on less
+34:14 work, you know? Uh so really track your
+34:17 time. I use a program called Harvest
+34:20 and I put all my clients in and then and
+34:23 it's on my phone and if I'm
+34:25 you know, even thinking about their
+34:27 design, I turn it on and charge them.
+34:29 Because if I'm thinking about their
+34:31 design, like what can I do to make their
+34:33 project better,
+34:34 I'm working, right? And you should be
+34:37 getting paid for that. Yeah.
+34:39 So, when you're at sleeping at night and
+34:40 dreaming about the project, does that
+34:42 count, too? If you come up You know how
+34:44 you wake up in the You wake up in the
+34:45 morning and you go, "Oh my god, I have
+34:47 the right idea."
+34:48 >> Uh-huh, I do.
+34:49 That's you should pay you should get
+34:51 paid for that.
+34:52 >> Yeah, yeah. I built I built I built
+34:54 somebody's house in my dreams one night
+34:56 and they didn't go for it.
+34:58 >> [laughter]
+34:59 >> Okay, well, it's got to be a good
+35:01 design, John. It can't just be any idea.
+35:03 >> I'm not saying design. I built their
+35:05 house in my dreams.
+35:07 >> [laughter]
+35:07 >> It was A DONE PROJECT.
+35:11 ANYWAY, NOW I'M product selection.
+35:14 Product selection. Who's going to help
+35:15 you choose products? With everything out
+35:17 there now, it's just like, yeah, there's
+35:18 a lot of that's a take a lot of time. Um
+35:21 Well, it's not just product selection,
+35:23 then it's the writing the specs and
+35:24 making sure that that product works in
+35:26 the project, right? I mean
+35:29 >> it and da da da da da da the list goes
+35:30 on and on and on, yeah. I was designing
+35:33 for another designer. Um I was doing her
+35:35 drawings for another designer and she
+35:38 sent me her material her appliance list
+35:41 and I was able to realize that there was
+35:44 a problem with the design with one of
+35:45 her appliances. It wouldn't work the way
+35:47 she wanted it because when I started
+35:49 reading the specs, I realized there's an
+35:51 issue here. You have to change the
+35:53 design, right? So, my serv- my fees
+35:57 because I did that for her, I charged
+35:59 her more because if I was just throwing
+36:02 her stuff in without reviewing the
+36:04 specs,
+36:06 she would have ended up with a project
+36:07 that had an error in it and it could
+36:08 have cost the client more.
+36:10 >> I charged her more for that when I was
+36:12 just doing drawings for her.
+36:13 >> of a good plan. I mean, you're providing
+36:16 a service that's going to help catch
+36:18 many of those errors and that can be
+36:21 worth a ton of money. On the on the
+36:23 topic of how do you make money with
+36:24 Chief, um
+36:26 uh
+36:27 the divisions of the services that you
+36:30 alluded to at the start, well, I
+36:31 actually listed out at the start, um can
+36:34 be extended to any one of these topics.
+36:36 For instance, Absolutely. I I may not
+36:39 want to be um the person who's fluffing
+36:42 the pillows and picking the couch
+36:44 cushions and and whatever else. That may
+36:45 not be what I want to do. That's
+36:48 something that I could farm out to
+36:50 someone else as a as a selection service
+36:52 if they wanted to use me for that, but
+36:54 it's still important that I understand
+36:57 how the pieces go together, how the
+36:59 aesthetics of the room need to turn out,
+37:01 you know, what I'm going to do. So, part
+37:02 of the part of the idea of making money
+37:04 with Chief is to say which parts of the
+37:07 entire process are interesting to me,
+37:10 which parts do I want to include, which
+37:12 parts can I hand off to somebody else.
+37:14 And don't do the parts that you're
+37:16 either bad at or not interested in, but
+37:19 find a way to make money in other parts
+37:21 that remain. So, if you take this giant
+37:23 list and you sort of check mark the
+37:26 pieces of it that you want to do and the
+37:28 pieces you don't want to do, you end up
+37:30 with a list of things that you then
+37:33 could charge services for.
+37:35 Rightfully, people will pay you to do
+37:38 that service. Yeah.
+37:40 Something that we um have as a
+37:42 profession in California because it's
+37:44 very valuable here versus some other
+37:46 states is
+37:48 um being a GC consultant and you become
+37:51 the glue between an architect and a GC
+37:54 that handles um problems like Yeah.
+37:57 for instance, maybe you've got, you
+37:59 know, you got to get a quarter inch
+38:00 slope on a herringbone tile that pitches
+38:03 four ways and and extends from the back
+38:05 of the property in a couple different
+38:07 ways and the architect didn't handle
+38:08 that and who who [clears throat] handles
+38:10 this kind of questions? Mhm. Cuz because
+38:12 if you don't, the tiler is going to and
+38:14 it's not going to turn out the way you
+38:16 wanted [laughter] it.
+38:18 Generally, that is correct.
+38:20 So, cool.
+38:21 Um cabinet and interior layout services,
+38:24 you know, that's
+38:25 you know, that's kitchen design, bath
+38:27 design, all of that. I mean, Robin,
+38:29 you're the pro at that one.
+38:30 >> [clears throat]
+38:30 >> So,
+38:32 I mean, the most important rooms in the
+38:33 house.
+38:34 So, um
+38:36 yeah.
+38:36 >> Well, you know, and then
+38:38 position yourself I find it hard like
+38:41 here's what I would want to know from
+38:42 you, Robin. It would be a good
+38:45 feed you a topic is how does someone
+38:48 position themselves to distinguish
+38:51 themselves between what they offer as a
+38:53 service as a kitchen designer versus why
+38:56 wouldn't I just go down to my local shop
+38:58 and they do it for free
+39:00 and I can buy my cabinets direct from
+39:01 them?
+39:03 What's the difference? You know, You
+39:05 know the difference, but not
+39:07 how to get themselves um
+39:11 uh mindset You know, that not only that,
+39:13 but
+39:14 how do you present and get in front of a
+39:16 client that that's what their line of
+39:18 thinking is in the first place? Well,
+39:20 there's two different things because a
+39:21 cabinet
+39:23 a cabinet make builder, you know, his
+39:26 focus is just selling the cabinet. It's
+39:28 not really analyzing how you live in
+39:30 your home, right? I have a great example
+39:33 of a story about this is I met with this
+39:34 couple. She wanted a white kitchen and
+39:37 they had they had um like two kids and
+39:40 they had one dog and every time I went
+39:43 over there there would be more dogs in
+39:45 their house and more kids in their
+39:46 house. And they were the kind of people
+39:48 that oh those these people they're going
+39:51 through a divorce we decided to keep
+39:52 their kids staying with us for a few
+39:53 days and oh these people were on
+39:55 vacation and their two big dogs we
+39:57 didn't want them to go in a kennel so we
+39:59 decided to keep them. So did you talk
+40:01 them out of a white kitchen?
+40:02 >> [laughter]
+40:02 >> Absolutely. They're not a white kitchen,
+40:04 right? They're not a white kitchen. So
+40:07 we talked I talked to them and I said
+40:09 you know we're going to do white
+40:10 cabinets up above and we'll do wood
+40:12 cabinets down below and I talked to them
+40:13 about how they lived in their home.
+40:15 Well, I met her at the cabinet shop,
+40:18 right? And the cabinet guy the client
+40:20 got there about a half hour before me.
+40:22 We had the design all done and the the
+40:25 cabinet guy said oh we already you know
+40:27 we have all the decisions made and I
+40:28 said what and I he said oh she wants all
+40:31 the white cabinets and we're going to do
+40:33 this and we're going to do that and I
+40:34 said well first of all It doesn't matter
+40:36 what she wants it matters what I want.
+40:38 Well it does it you didn't have you ever
+40:40 been to their house, right? And the
+40:42 cabinet maker made a change on a cabinet
+40:45 and I when I was looking at the drawings
+40:47 I said their their coffee machine is not
+40:50 going to fit in this cabinet. It's not
+40:51 going to fit. And they said oh no this
+40:54 is going to be better we're going to go
+40:55 ahead and do it and I made I wrote on
+40:58 the drawings that if the cabinets don't
+41:00 if that does not fit
+41:02 he's paying to redo that and all the
+41:04 tile work there's like custom tile work
+41:06 on it. Well they he put the cabinet in,
+41:08 right?
+41:09 And um
+41:10 it didn't fit.
+41:12 And we ended up obviously the the coffee
+41:14 machine did not fit in that space.
+41:16 And
+41:17 it was a problem but I think the
+41:19 difference between a cabinet shop,
+41:21 right? And I would never work with those
+41:22 people and I've told all my friends like
+41:24 don't work with those that company. But
+41:27 um the difference between a cabinet shop
+41:30 or even going to like a Home Depot and
+41:32 buying product
+41:34 they don't know you. They don't you know
+41:36 usually a designer is spending months
+41:38 with a client before they ever That's
+41:41 that old you get what you pay for deal.
+41:44 Absolutely. But you know the other thing
+41:45 that we do is we analyze how do you
+41:47 cook? How do you what kind of equipment
+41:49 do you have in your house? You know
+41:51 who's in that house? How do you
+41:53 just how do you live and that's what we
+41:56 do and we also do all the materials,
+41:59 right? We choose the flooring and the
+42:01 countertops and the tile and the
+42:02 lighting and cabinet shops just do
+42:04 cabinets. They're important.
+42:06 They're an important part of the team
+42:08 but they're not the
+42:10 place to stop designing, right?
+42:14 Who's fishing for compliments? K- Kevin
+42:17 is.
+42:17 Um
+42:19 Comments not [clears throat]
+42:20 compliments. Comments, okay.
+42:22 >> [laughter]
+42:22 >> Compliments too. And then question guns.
+42:25 Um
+42:27 So construction drawing services um
+42:30 this is the part that
+42:32 can be so time consuming, you know all
+42:35 the permit drawings, the builder sets,
+42:36 you got to get the
+42:38 you got to do the calculations for the
+42:40 hardscape, you got to do the drainage,
+42:41 you got to do the sun studies if you're
+42:43 doing that. I mean on and on and on and
+42:46 and how much knowledge does it take to
+42:48 do this kind of stuff?
+42:50 What's the value of that knowledge? A
+42:52 lot. A lot. So
+42:55 um so anyway
+42:57 And I would say and I would say that the
+42:59 uh
+43:00 the reality is uh some people I E me
+43:03 would much prefer doing things at the
+43:05 artistic conceptual level than doing
+43:07 things at the at the final detail level.
+43:10 So I would rather hire somebody else to
+43:12 do the detailed drawings and allow me to
+43:15 do things through concept and and
+43:17 creation. Exactly.
+43:19 Can somebody [clears throat] pull up
+43:20 Cody Starr's comment?
+43:22 >> real quick how do you get the list on
+43:23 the screen? I did post a link
+43:26 uh to this list. So um it's it should
+43:30 uh someone got it I think but you can
+43:32 copy and paste that link.
+43:34 It's came from me. Uh It's up there
+43:37 scroll up in the comments.
+43:38 >> Yeah. So it should be there a few times
+43:40 but it gives you a link right to this
+43:42 list.
+43:44 Would somebody pull up Cody Starr
+43:46 comment? He wrote they wrote um no the
+43:50 the one before it it says and then the
+43:52 designers complain that they don't make
+43:53 enough yet they feed their plans to the
+43:56 same five or six sites which most of
+43:58 them are owned by the same company.
+44:01 And that's something that's a copyright
+44:03 issue.
+44:04 So it's um it came in on my thing at
+44:07 10:32 at 32 minutes after the hour.
+44:10 Anyway his comment was their comment is
+44:13 and then the designers complain that
+44:14 they don't make enough yet they feed
+44:16 their plans to the same five or six
+44:18 sites which most of them are owned by
+44:20 the same company. And that's a copyright
+44:22 issue. So if you have a copyright
+44:25 on your drawings that say this is only
+44:28 good for this site
+44:30 then it is illegal for them to use that
+44:33 same plan on another project. I've seen
+44:36 that on other projects, yeah. I have
+44:38 them on my plans. They're doing it
+44:40 though cuz you
+44:41 >> what though? I had a contractor take
+44:44 >> [laughter]
+44:44 >> Yeah I had a contractor who did he took
+44:46 one of my plans and used it again on
+44:48 another project. Stupidly he posted his
+44:51 drawings and I sent him um I had my
+44:54 attorney send him a letter and they paid
+44:56 me.
+44:57 >> [snorts]
+44:58 >> So because but you have to put a
+45:00 copyright on your plans and you have to
+45:02 say that the copyright is only good for
+45:05 this specific address or this lot
+45:07 number. Let me let me change that just a
+45:09 bit. You don't you don't have to put a
+45:12 copyright on your plans but your copy
+45:14 your plans are copyrighted by default in
+45:16 the United States. But you do have to
+45:19 indicate to somebody that they are
+45:21 copyrighted. So you need a note to that
+45:23 effect. Well you can you know you just
+45:25 type it but that's how you can protect
+45:27 yourself. Yes.
+45:29 But you can also say to the contractor
+45:32 you know that that contractor I'm going
+45:34 to sell this plan to you and if you use
+45:36 it you know any additional times then
+45:38 I'm not going to charge you this fee
+45:39 I'll charge you a smaller amount.
+45:42 Yeah absolutely. I think I think if
+45:44 you're going to do a reuse fee then you
+45:46 can determine like you want to if you
+45:48 want to put this in a a tract housing
+45:51 division and build it 14 times okay the
+45:54 price of the first one is this second
+45:55 one is that by the time you get to third
+45:57 or fourth I reduce the price to here.
+45:58 You know you can produce a tiered list
+46:01 of charges for reusing that plan. Yeah.
+46:05 I'm going to show this from Cody on the
+46:06 screen again. He says I wasn't referring
+46:08 to copyright issue. Cody reach out to
+46:10 Kevin before the show he figured out how
+46:13 to filter just Robin and no one else.
+46:15 >> [laughter]
+46:16 >> Really well
+46:18 he couldn't hear her at all.
+46:20 Oh shut up. Then what were you talking
+46:23 about Cody because if that was the issue
+46:25 what were you talking about? Because it
+46:27 sounded to me that you were saying
+46:28 something to the effect of
+46:31 not
+46:33 of not having the plans be used.
+46:36 Oh stock plans.
+46:38 Well it's the same thing. Yeah that's
+46:40 Stock plans have the same issue.
+46:42 But you do need to figure out how you're
+46:43 going to price for them because if you
+46:45 just offer them as a build it and use it
+46:48 you don't really have any
+46:50 recourse.
+46:52 Yeah.
+46:53 Anyway
+46:54 uh site plan terrain work, you know
+46:57 again Chief's
+46:59 not necessarily meant for that. I mean
+47:01 you hire people to do surveys and and
+47:03 that kind of thing but you know you can
+47:05 lay out all sorts of cool landscaping
+47:08 and all of that and and uh
+47:10 we'll see what happens in the next
+47:12 version there might be some real
+47:13 opportunity there for people depending
+47:15 on what they add to the software. We I
+47:17 haven't seen it yet so we don't know and
+47:19 I can't really talk much more about it
+47:20 but um they've got some cool things
+47:22 coming. Remodeling strategy plans. I
+47:25 love the I love doing remodeling
+47:26 strategy just just what can we make fit
+47:29 this house that makes it look like it's
+47:31 always meant to be there. And to me
+47:33 that's really important so I'm I'm
+47:35 really good at that kind of thing in
+47:36 space planning and all of that so I like
+47:39 looking at it like what can I do to this
+47:42 house that everybody thinks can't be
+47:44 there.
+47:45 >> [laughter]
+47:45 >> Well that that would be the way you
+47:46 would think, yeah. So we did that.
+47:49 And then you always create something
+47:50 that's so freaking amazing everybody
+47:51 goes wow.
+47:52 >> [laughter]
+47:52 >> Exactly.
+47:53 Yeah. Never saw that one coming. I know
+47:56 no you you do amazing things that you've
+47:59 done. Um sales and presentation
+48:01 packages, you know helping clients put
+48:04 together
+48:06 uh a portfolio.
+48:08 I mean have and designers are thought of
+48:10 that working with contractors to just
+48:12 help them create either an online or
+48:14 even a printed portfolio. I mean those
+48:16 printing things still works. Um
+48:19 you can do all sorts of that kind of
+48:21 thing uh using Chief Architect and all
+48:24 the things that that people do. Um
+48:28 I love used Chief Architect to do so
+48:30 many things. I mean
+48:32 I used to coach soccer and I had a
+48:33 soccer field on the screen and I would
+48:35 have
+48:36 things I could move around that look
+48:37 like people and I would create different
+48:39 plays and you know show talk about
+48:40 positions just using Chief Architect.
+48:42 It's great for doing that.
+48:44 Um Oh I like what Michael Powell says.
+48:47 I like that.
+48:49 >> [clears throat]
+48:51 >> I would just play it on Zoom if they
+48:53 don't want her copy a charge. Yeah
+48:55 that's great. I know a lot of people
+48:57 that
+48:59 um
+49:01 Yeah they don't you don't leave anything
+49:03 with a client. Some I know some people
+49:05 don't leave things with the client even
+49:06 when it's paid when they're paying until
+49:08 the job's done if they paid for it.
+49:10 There's all sorts of different ways to
+49:11 approach that. Architects
+49:14 a lot of times won't they won't give the
+49:16 files to anybody and it's one of the
+49:18 nice things about Chief is we can we can
+49:21 offer 3D walk-throughs that people can
+49:23 look at on their computer but they don't
+49:25 get the plan they don't get measurements
+49:26 they don't get any of that kind of
+49:27 information. So it kind of protects the
+49:30 person doing the design.
+49:32 Um
+49:33 estimating and material support. That's
+49:35 a
+49:35 that's a tough one. Of course AI is
+49:37 getting better at that. I was just going
+49:39 to attend a
+49:40 seminar the other day for a guy I know
+49:41 that has an estimating system that just
+49:44 can take a you know one day estimate to
+49:47 10 minutes.
+49:48 Um
+49:49 that we're going to start seeing a lot
+49:51 of. I think that's a given. So, we're
+49:54 going to start seeing really good tools
+49:55 that can really give you good estimates
+49:57 on material.
+49:59 And then you [clears throat] can train
+50:01 the AI to your way of building, too. So,
+50:03 when you're doing those estimates As a
+50:06 as a reality check, I do believe all
+50:07 that that stuff is coming. I do also
+50:09 believe that if you were to do it today
+50:11 and say, "Isn't this an amazing thing?"
+50:13 You may or may not get something that's
+50:16 accurate and because because the
+50:17 technology is coming, it is evolving,
+50:20 but you can't necessarily trust it. You
+50:23 you it might get, you know, 90% of it
+50:25 right. But that 10% might be really
+50:28 important, you know, so you do have to
+50:30 review everything, even though it looks
+50:32 really good, you still have to review
+50:33 everything. Yeah. Yeah.
+50:36 Um and again, if if you're a little if
+50:38 you're good with Chief, you know,
+50:40 setting up templates of things for
+50:41 contractors and designers, how do you do
+50:43 that? Can be a lot of work as I've
+50:46 learned over the years and Renee, you
+50:47 did, too. So,
+50:49 uh training and coaching, that's what we
+50:51 do. So, um by any means, if you need
+50:53 some help, but if you're good at Chief,
+50:55 why not go teach others?
+50:58 Um good good way to learn the program is
+51:00 to teach it. Yeah. And um
+51:03 so, go for it.
+51:05 Outsource Chief drafting support.
+51:08 Um you know, if you're
+51:12 running a little slow
+51:14 and you just need to get some work in,
+51:16 contact some other design other
+51:17 contractors and designers, see what you
+51:19 can come up with.
+51:20 Interior design support, you know,
+51:22 product selection, but interior design
+51:24 is a whole another animal cuz that's
+51:26 that's your fabrics and colors and items
+51:29 and plants and all you know all the
+51:30 different tile layout all that different
+51:32 things that you do.
+51:34 Um that's a whole business all by itself
+51:36 and that's why they have interior
+51:38 designers. So, Also, um
+51:41 also, I I have a couple of different
+51:44 interior designers that I work with
+51:47 uh and I provide them help with their
+51:50 Chief work because they don't need to be
+51:52 that advanced, you know. And so, instead
+51:55 they say, "I can't get this ceiling to
+51:58 work." And it may be something that's
+51:59 fairly rudimentary to somebody who's
+52:01 well versed in the program, but to them
+52:03 it's not. So, there's another avenue to
+52:05 make money with Chief Architect. Yeah.
+52:08 You know, I'm it's a Kevin, actually,
+52:09 I'm meeting more and more designers who
+52:11 just say, "I don't want to do CAD at
+52:13 all. I don't want to do it. I just want
+52:15 to do all of this. I want to do all of
+52:18 this part of it and I want somebody else
+52:20 to do all of my drawings. I just don't
+52:22 want to I don't want to spend the time
+52:23 to learn it. I don't want to go through
+52:25 the learning curve. I don't want to do
+52:26 that process. I just want to hire
+52:28 somebody to do that for me and more and
+52:31 more designers are saying, "I don't want
+52:32 staff. I would rather hire have somebody
+52:36 offsite do it for them." And it works
+52:38 well. I mean, it can work well.
+52:41 You know, it can work well. Kind of like
+52:43 doing as builts. Nobody wants to do as
+52:45 builts.
+52:47 But you have to have
+52:48 you have to have them.
+52:49 Yeah, yeah.
+52:50 Yeah, so
+52:51 >> There's a certain satisfaction in being
+52:53 able to replicate the thing. So, there
+52:54 are some of us sickos that do kind of
+52:56 like doing as builts, but
+52:57 >> I I love it. I mean, to me it's
+52:59 [laughter] like a little to me vacation
+53:01 away from all the distractions of
+53:02 everything else going on in the world.
+53:03 You just go focus on
+53:05 >> doing the the construction documents.
+53:08 Oh, yeah. Definitely easier, yeah.
+53:09 The construction documents is like,
+53:11 "Don't talk to me for 2 weeks. Just let
+53:13 me get the drawings done." And it's a
+53:15 great way to learn Chief. And to the
+53:17 concept of how to make money with Chief
+53:19 and what Robin was saying, you know,
+53:21 there's an entire body of people out
+53:23 there, interior designers are just one
+53:25 of them, who could use
+53:28 the ability to do 2D and 3D drafting for
+53:32 whatever it is that they're trying to
+53:33 do. Chief can do that stuff. It may not
+53:36 be specifically designed for
+53:39 uh you know, an apartment building or
+53:40 whatever, but you know, you can do it
+53:42 and and so if you tap that market in
+53:45 your area, there may be opportunities
+53:47 there to make money that way, too.
+53:49 >> I mean, here's a big one coming up,
+53:50 ADUs. Sure. Yeah. You get good at ADUs,
+53:54 you're going to you do well. Um light
+53:56 commercial services, you know, um
+53:59 you know, any commercial building up to
+54:00 three stories tall or
+54:03 you know, unless you're a registered
+54:04 architect, of course, then you can do
+54:05 anything. Um but uh
+54:08 yeah, Chief works great for commercial.
+54:10 I've done lots of commercial projects.
+54:12 Outdoor living and accessory structures,
+54:14 I mean, yeah. I mean, decks, porch,
+54:16 patios, porticos, I mean, you name it.
+54:20 Chief can do it. I mean, it's
+54:22 old blown CAD program 3D modeling. I
+54:24 mean, you get good at Chief, you can
+54:25 draw anything.
+54:27 And then problem solving.
+54:29 Um you know, fixing bad Chief plans, you
+54:32 know, not cleaning up messy plans. You
+54:35 know, a lot of people like to
+54:38 um
+54:39 a lot of people are really good at
+54:40 laying out things and getting the
+54:41 concepts right.
+54:43 But the plans are usually a mess. I get
+54:45 I work with plenty of clients like that
+54:47 and that's fine. I mean, they're they're
+54:48 they're just trying to get what their
+54:50 concepts down and let someone like me or
+54:53 John or anybody on this call clean up
+54:55 the
+54:56 the details and so we do that all the
+54:58 time. It's another great service.
+55:00 And then specialty drawings, you know,
+55:02 deck being all the different types of
+55:04 projects. Of course, that
+55:05 kind of leads back into any kind of
+55:07 plan, but it was pretty good list. It
+55:09 was really that's just from asking one
+55:11 question. And I did put put the link in
+55:13 here so you can see this list. And can I
+55:17 can I make a comment? This is really
+55:19 more of a comment to the women in the
+55:20 room. There's a really good book called
+55:23 The Confidence Code.
+55:25 And it was written by these two women
+55:26 from um The Washington Post.
+55:30 Anyway, they it's it's a great book. I
+55:32 highly recommend it for everybody, but
+55:33 specially for women. And one of the
+55:35 studies that they did is women will
+55:37 typically ask for less money
+55:40 um than their when they're offered a
+55:42 raise. A man will typically ask for
+55:44 $10,000
+55:46 more than a woman will ever ask for.
+55:49 So, I had listened to and it's it's
+55:51 true. So, I recommend reading the book,
+55:54 but let me tell you what happened with
+55:55 this is when I was offered my job at the
+55:57 college, um my fantasy job, I wanted to
+56:00 be full-time for years and I finally was
+56:02 got a phone call from my dean and he
+56:04 said, "I want to offer you the job." And
+56:05 I said, "Okay." And he tells me what it
+56:07 was and I paused and he said, I didn't
+56:09 respond and he said, "Well, do you want
+56:12 the job?" And I said, "Well, I want the
+56:13 job, but I don't accept the pay."
+56:16 And he said, "How much do you want?" And
+56:18 I said, "I want this much money." And
+56:19 they came back with more.
+56:22 Wow.
+56:23 So,
+56:24 I want you, especially women in the
+56:26 room, cuz we spend a lot more time not
+56:29 thinking about what our value is and I
+56:31 really recommend that you women in the
+56:35 women who are here or any man who is not
+56:38 feeling confident, anybody who's really
+56:39 not feeling confident, but women in
+56:41 general, read the book The Confidence
+56:43 Code.
+56:45 There you go. That's it. Guys should
+56:47 read that, too. I should read that, too.
+56:49 >> It's a good book. I highly recommend it.
+56:51 So, anyway, again,
+56:53 we're just about out of time here, but
+56:55 you know, and I asked it
+56:58 I just asked chat real quickly, you
+57:00 know, what about some pricing?
+57:02 And I was pretty I I like what it said.
+57:05 Um
+57:07 I think I think those numbers are real.
+57:08 >> I agree with those numbers, yeah.
+57:10 Absolutely. So, um don't undersell
+57:13 yourself.
+57:13 >> Entry level drafting help, would that
+57:15 $40 to $65 would be an employee. That
+57:17 would not be an independent designer.
+57:19 Right, exactly.
+57:20 >> That would not be you can't cover your
+57:21 wages, but in this you couldn't cover
+57:25 you can't have a living wage at $40 an
+57:27 hour, but a competent Chief drafter, I
+57:29 recommend I agree with all those
+57:31 numbers.
+57:32 >> Yeah. And then you know, measuring as
+57:34 builts. I'm I'm looking at these numbers
+57:36 and they look pretty good to me. I mean,
+57:38 that's kind of where I'm at with my my
+57:40 as builts in a lot of places, so um
+57:43 take it to heart. I don't ever do square
+57:45 foot pricing. I just have never gotten
+57:47 into that. But um
+57:49 you know, by the project or by the hour.
+57:51 I've added man, I think those are decent
+57:53 pricing. Concept design packages, again,
+57:56 you could sell it that way if you want
+57:57 to, you know, sell it in stages. Do all
+58:00 that on on estimating, taking
+58:03 historical data and
+58:05 Yeah. Yeah, but you know what? You have
+58:06 these prices here, kitchen kitchen
+58:09 kitchen and bath projects, Chief is
+58:11 wrong. 10 to 15,000. What you says
+58:14 concept. Okay. But even the whole house
+58:17 a whole house okay, concept. Yeah, yeah.
+58:19 Yeah.
+58:20 >> A full on kitchen project is usually 10
+58:22 to 15,000. Yeah, so yeah, they I mean,
+58:24 they even there. So,
+58:26 they didn't do anything with
+58:28 percentages, which you see a lot of
+58:30 times people do 3%, 5%, 10%, 15%,
+58:34 whatever.
+58:35 Um I don't see any of that pricing here,
+58:37 so that's something that that'd be a
+58:39 good question to ask, you know, what
+58:40 kind of percentages
+58:42 um should we be taking a look at that
+58:44 look at? Product selection,
+58:46 cabinet layout, so you know, it's just
+58:50 these are all real. I mean, when you
+58:51 start adding up the amount of time it
+58:53 takes to do these kinds of plans and the
+58:56 things that we do,
+58:57 um and even if you do a simple divide
+59:01 the the number by your you know, your
+59:03 hourly rate and how many hours is that?
+59:05 Can you do it for that? I mean, it's
+59:07 just another way to look at. There's so
+59:08 many different ways to look at this
+59:10 stuff. Um it is what it is, so
+59:13 um
+59:14 templates, library work.
+59:17 So, anyway, so this is what I came up
+59:18 with and I agree with a lot of this. So,
+59:20 I don't have any problem sharing it. I'm
+59:22 I'm sure you guys do, too. So,
+59:25 sales presentations.
+59:27 So, did a pretty nice job.
+59:30 You want to post [clears throat] that
+59:30 link again at the bottom of this comment
+59:33 stream? Yeah,
+59:35 and I'll post it um
+59:38 share and copy link.
+59:41 >> what? Somebody else had made a note here
+59:42 that said um
+59:44 it's Alpha Investments said a big
+59:47 service out there is just making site
+59:48 plans.
+59:49 Oh my gosh, there's luckily we have a
+59:51 place here in Portland that'll do site
+59:53 plans for $175. It's like, thank you
+59:55 God. I hate doing site plans. Yeah, well
+59:59 >> detailed site plans um for a basic
+1:00:02 residential lot. Nothing and nothing
+1:00:05 huge, just basic.
+1:00:07 >> is like two lunches. That's great, you
+1:00:09 know.
+1:00:10 It's amazing and Kevin, I get them in
+1:00:13 like 20 for 48 hours. It's like 48 hours
+1:00:15 we get them.
+1:00:17 >> So obviously they have all that stuff
+1:00:19 pre-done, pre-canned, all that and and
+1:00:21 yeah.
+1:00:22 >> It's so nice. Like, don't waste your
+1:00:24 time doing site plans. Why do we
+1:00:26 undercharge? Okay.
+1:00:29 Okay, they just think they're selling
+1:00:31 drawings. So, read this stuff carefully.
+1:00:32 They compared themselves to low-price
+1:00:34 drafters.
+1:00:35 Um don't ever compare yourself to
+1:00:37 others. Just compare yourself to what
+1:00:38 you do and the services that you offer
+1:00:40 and the help that you give your clients
+1:00:42 to do a better project. So,
+1:00:44 um
+1:00:45 One There's a lot of things. One comment
+1:00:47 on that, which is just a something that
+1:00:49 I've lived by for years.
+1:00:51 Uh somebody told me when I was first
+1:00:53 getting started and I was struggling
+1:00:54 with how to charge and how much to
+1:00:56 charge, they said mm they said never
+1:00:59 compete with a guy in a rusty pickup and
+1:01:01 a dog unless
+1:01:03 who lives in a trailer and has a rusty
+1:01:05 pickup and a dog unless you want to live
+1:01:06 in a trailer and have a rusty pickup and
+1:01:08 a dog.
+1:01:08 >> Yeah, if you
+1:01:10 >> [laughter]
+1:01:10 >> I thought that was a great way to look
+1:01:11 at it. Like, you got to compete at the
+1:01:13 level you want to be.
+1:01:15 If you want to be truckin' a truck
+1:01:17 >> [clears throat]
+1:01:17 >> Yeah. do as truckin' a truck does. Um
+1:01:20 so,
+1:01:22 great comments. I mean, or you could use
+1:01:23 yellow sticky notes that you put all
+1:01:25 over your house.
+1:01:26 >> [laughter]
+1:01:27 >> Diff- different story, yeah. Yeah, I
+1:01:29 know. Anyway, we're out of time here,
+1:01:30 you guys. Thanks for joining in and I
+1:01:33 hope some of this was helpful and gives
+1:01:34 you food for thought.
+1:01:36 >> Um again,
+1:01:38 everybody here works hard for a living.
+1:01:40 We we work hard to learn what we're
+1:01:41 doing. We we work hard to do what we do.
+1:01:45 We work really hard to please our
+1:01:46 clients almost all the time. You always
+1:01:48 going to run into clients that don't I
+1:01:51 mean, once in a while I said you're
+1:01:52 going to have one in 10 clients that
+1:01:53 won't let you make a profit.
+1:01:55 And that probably holds true in design,
+1:01:57 too. But, the good thing about design is
+1:01:58 you can get out of the project early on.
+1:02:01 You don't have to get in to start
+1:02:02 pounding nails and boards um before you
+1:02:04 find that out. So, that's another thing
+1:02:06 about doing, you know, doing design
+1:02:07 services if you're a contractor.
+1:02:10 Um But, yeah, take it to heart. Um you
+1:02:12 guys work hard to deserve to make a good
+1:02:14 living for you your family and your
+1:02:15 business.
+1:02:16 Um just do it. Just do it. It's an old
+1:02:19 Nike thing.
+1:02:21 >> [clears throat]
+1:02:21 >> You guys got any last comments?
+1:02:24 Love being back.
+1:02:26 >> [snorts]
+1:02:26 >> Yeah, it's nice seeing everybody. Yeah.
+1:02:29 Uh next time we're going to talk about
+1:02:30 marketing. Jolene's going to join us
+1:02:33 and uh we'll get into some just
+1:02:35 some of the
+1:02:36 new marketing techniques or marketing
+1:02:39 thought process that you might want to
+1:02:40 use in your business. And uh we'll talk
+1:02:42 a little bit about that.
+1:02:44 And then after that we'll get back into
+1:02:46 some chief stuff. Then we'll just keep
+1:02:48 the fun, the goodness rolling. So,
+1:02:50 anyway, everybody thanks for being here.
+1:02:52 We'll see you the next time on the
+1:02:54 the design show.
+1:02:55 See you, guys. Bye, everyone.

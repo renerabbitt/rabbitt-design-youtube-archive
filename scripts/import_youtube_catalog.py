@@ -3,14 +3,27 @@ import json
 from pathlib import Path
 
 
-def normalize_catalog(raw_data: dict, channel_url: str, handle: str) -> dict:
+def normalize_catalog(raw_data: dict, channel_url: str, handle: str, existing: dict | None = None) -> dict:
     entries = raw_data.get("entries") or []
     videos = []
 
-    for entry in entries:
+    # Channel-root exports contain nested Videos, Shorts and Streams tabs.
+    def flatten(items):
+        for item in items:
+            if not item:
+                continue
+            if "entries" in item:
+                yield from flatten(item.get("entries") or [])
+            else:
+                yield item
+
+    previous = {v["id"]: v for v in (existing or {}).get("videos", [])}
+    seen = set()
+    for entry in flatten(entries):
         video_id = entry.get("id")
-        if not video_id:
+        if not video_id or video_id in seen:
             continue
+        seen.add(video_id)
 
         thumbnails = entry.get("thumbnails") or []
         thumbnail = thumbnails[-1].get("url", "") if thumbnails else ""
@@ -33,6 +46,17 @@ def normalize_catalog(raw_data: dict, channel_url: str, handle: str) -> dict:
                 "status": "needs-transcript",
             }
         )
+        if video_id in previous:
+            # Keep curated metadata, visibility and transcript state intact.
+            merged = dict(previous[video_id])
+            for key in ("title", "url", "durationSeconds", "viewCount", "thumbnail"):
+                value = videos[-1].get(key)
+                if value is not None and value != "":
+                    merged[key] = value
+            videos[-1] = merged
+
+    # Public listings omit member/unlisted videos; absence is not deletion.
+    videos.extend(v for video_id, v in previous.items() if video_id not in seen)
 
     return {
         "channel": {
@@ -59,7 +83,8 @@ def main() -> None:
     out_path = Path(args.out)
 
     raw_data = json.loads(raw_path.read_text(encoding="utf-8-sig"))
-    catalog = normalize_catalog(raw_data, args.channel_url, args.handle)
+    existing = json.loads(out_path.read_text(encoding="utf-8")) if out_path.exists() else None
+    catalog = normalize_catalog(raw_data, args.channel_url, args.handle, existing)
 
     out_path.write_text(
         json.dumps(catalog, indent=2, ensure_ascii=False) + "\n",

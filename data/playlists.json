@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T19:26:42.212177+00:00",
+  "generatedAt": "2026-10-27T18:56:04.250407+00:00",
   "channel": {
     "name": "Rabbitt Design",
     "url": "https://www.youtube.com/channel/UCbkgwAcrZQP0Ek0bNmqpgAQ",
@@ -177,16 +177,17 @@
       "id": "PLZvWFHWGuNHGVVBVZeHiCWTW3wpzl4kSf",
       "title": "Chief Architect Cabinets",
       "url": "https://www.youtube.com/playlist?list=PLZvWFHWGuNHGVVBVZeHiCWTW3wpzl4kSf",
-      "thumbnail": "https://i.ytimg.com/vi/8cHcJ0hu8T0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAciNFQksEVd1HaKwWS36NotWWECg",
+      "thumbnail": "https://i.ytimg.com/vi/xjIQPbGZoNo/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB8bVuolhXmZ-oI5ZJ2j43kwYnQpg",
       "description": "",
       "videoIds": [
+        "xjIQPbGZoNo",
         "8cHcJ0hu8T0",
         "sAFqKafzcNU",
         "OsMtaQQRK1I",
         "aMdYs-EVthE",
         "xS1QtT6bAec"
       ],
-      "videoCount": 5
+      "videoCount": 6
     },
     {
       "id": "PLZvWFHWGuNHFFSmkswJQ43s4i2rCqgYS_",
@@ -286,9 +287,12 @@
         "iAPoRXjVV7s",
         "64w3zBWVSKY",
         "MS2Sj4YNfPM",
-        "UzdeQhEGNps"
+        "UzdeQhEGNps",
+        "bBw6dTn6yKM",
+        "YN03UCZKSvY",
+        "rmWGssEN2aY"
       ],
-      "videoCount": 81
+      "videoCount": 84
     },
     {
       "id": "PLZvWFHWGuNHEVYnWhH3W2S4y3lx6imDKm",
@@ -554,30 +558,32 @@
       "id": "PLIdU8Qsb5hDA",
       "title": "Template Tuesdays",
       "url": "https://www.youtube.com/playlist?list=PLIdU8Qsb5hDA",
-      "thumbnail": "https://i.ytimg.com/vi/ZbK2XV9B5rs/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBVfbdKw0008gsfOQKswpvXtjDA0Q",
+      "thumbnail": "https://i.ytimg.com/vi/Jc8p2h9DIWI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCpcmGX26S6faf5JXeOHPPvE5yiHw",
       "description": "",
       "videoIds": [
-        "ZbK2XV9B5rs",
-        "DiAxT3ibWVw",
-        "_dTDaL9CKj4",
-        "HvORLs-sLUo",
-        "XxfKP1G_9ss",
-        "hwT7IMHYdgM",
-        "I5kJjHYoCLY",
-        "18gCHU7JnAw",
-        "xh69YsvOw4c",
-        "mTsmUX9tjvA",
-        "_SGKitmxZMM",
-        "oJIATz_iGpc",
-        "Tclcg4Ipf4E",
-        "HzB6Y74St4I",
-        "bEGRPhYTMlI",
-        "IUDYscYrIsw",
-        "OeHDnzN-EvQ",
+        "Jc8p2h9DIWI",
+        "1-BOFnEdcf0",
+        "jXgwoYBfQVg",
         "uwN0QHEy8yY",
-        "jXgwoYBfQVg"
+        "OeHDnzN-EvQ",
+        "IUDYscYrIsw",
+        "bEGRPhYTMlI",
+        "HzB6Y74St4I",
+        "Tclcg4Ipf4E",
+        "oJIATz_iGpc",
+        "_SGKitmxZMM",
+        "mTsmUX9tjvA",
+        "xh69YsvOw4c",
+        "18gCHU7JnAw",
+        "I5kJjHYoCLY",
+        "hwT7IMHYdgM",
+        "XxfKP1G_9ss",
+        "HvORLs-sLUo",
+        "_dTDaL9CKj4",
+        "DiAxT3ibWVw",
+        "ZbK2XV9B5rs"
       ],
-      "videoCount": 19
+      "videoCount": 21
     },
     {
       "id": "PLZvWFHWGuNHG0TTwHdIuhjimE5yDTMRQc",

@@ -1,0 +1,1462 @@
+---
+videoId: jXgwoYBfQVg
+title: Template Tuesdays #19 - Advanced Project Management
+url: "https://www.youtube.com/watch?v=jXgwoYBfQVg"
+status: imported
+---
+
+# Transcript
+
+0:00 All right. Good morning,
+0:04 boy. That's really nice having a few of
+0:06 you just in the chat already. Very, very
+0:09 cool. I like that. Um I don't know what
+0:14 episode we're on. I should start putting
+0:15 the episode numbers in there. That'd be
+0:17 nice. Uh just to to keep track of this
+0:19 cuz it's it's growing. I think we're
+0:21 getting some more participation. That's
+0:22 pretty cool. Um, today I wanted to talk
+0:25 about some things I was just running
+0:26 into, but um,
+0:29 I imagine I can full fill a full show
+0:32 with this topic, but I also am um, open
+0:35 to talking about some other things as
+0:37 well. Um, because I could make this a
+0:40 shorter segment, which is, you know,
+0:42 advanced project management techniques,
+0:45 um, and how to organize your projects
+0:46 and maybe come up with a system for
+0:48 organizing those projects and and how I
+0:50 organize my projects. Um, but also
+0:53 fixing, you know, kind of broken and
+0:55 mangled projects, if you will, or
+0:57 transferring files from one project to
+1:00 another. That's what I wanted to touch
+1:01 on today. And, uh, which means I'm going
+1:04 to be using a lot of the zoom key
+1:06 because, you know, my text on the
+1:08 screen, I forgot to scale it before I
+1:10 started this stream. Um, so it's just
+1:12 small text for everybody, you know, so I
+1:15 got to use the zoom key. Um, before I
+1:17 get too far into that, I want to propose
+1:19 something to anybody that's watching
+1:21 this, which is
+1:24 I have thought about the idea of
+1:27 creating an application that I need and
+1:31 I think it might be a complex
+1:33 application, but in today's world of of
+1:37 vibe coding, maybe it's not complicated.
+1:40 And I would love to know uh I know a few
+1:42 of you out there have some coding
+1:43 experience and maybe even um some
+1:45 development experience for for
+1:47 applications. The application I want is
+1:49 simple. It's a new um
+1:53 meeting application for people that
+1:55 train other people. And I have a a
+1:58 laundry list of things that that
+2:00 application has to do. And so far as I
+2:03 know there's nothing else on the market
+2:05 that even touches that. So,
+2:09 um, it it doesn't even come close. Zoom
+2:12 is too complicated for most users,
+2:14 especially older generations. Um, sorry,
+2:18 shouldn't use the word older,
+2:21 you old folks. And uh, and so, Zoom's
+2:25 too complicated. It's too complicated
+2:26 for even me. The interface is absolutely
+2:28 just crazy. Doesn't it's not intuitive.
+2:31 Um, it just needs simple buttons and
+2:36 just only a couple of them. Um, and
+2:38 there's a few other things that I need
+2:40 from one of those applications.
+2:41 Perpetual meeting link. It needs to be
+2:44 the same meeting link for every single
+2:45 person so that I don't have to do a
+2:47 bunch of automations every time I want
+2:49 to schedule a training so that people
+2:51 can schedule from my scheduler and I, as
+2:54 the trainer, get to show up in one room
+2:57 all day and just stay there. That part's
+2:59 simple. That part's really nice. Needs
+3:02 the ability to kick people out of the
+3:04 room. A lot of the these applications
+3:06 that do have the ability to do perpetual
+3:08 meeting links don't give you the ability
+3:10 to kick someone out so that they're just
+3:12 in there regardless if you want them in
+3:15 there or not for your next meeting
+3:17 because you're using a perpetual meeting
+3:18 link. Um it would be nice if you have
+3:22 the option to let someone in uh in that
+3:24 case would be nice. Um, but there's a
+3:27 few other notes that I have as well. And
+3:30 I've searched long and hard for this and
+3:33 there's a few applications that get
+3:35 close um that do all right. There's one
+3:37 called pop.com. If you haven't checked
+3:39 that out and you're doing training, so
+3:41 far I've I've been enjoying that. Um,
+3:44 the previous application I used didn't
+3:47 have the ability to kick someone out,
+3:49 but other than that, it checked all the
+3:51 boxes and they just closed their doors
+3:53 and that was co-screen. So, um just
+3:56 curious out there if you're happen to be
+3:58 watching this and you have an interest
+3:59 in talking about um creating an
+4:01 application and what it would take and
+4:02 if it's even feasible, let me know.
+4:04 Shoot me, uh shoot me an email. All
+4:07 right, so let's see. Uh got some
+4:10 comments already. Can you show me your
+4:11 full library because I couldn't find
+4:13 that landscaping? Um Victor, keep your
+4:16 tech support calls to tech support
+4:18 channels for me, please, my friend. This
+4:20 is for everybody here. I don't want to
+4:22 do tech support on these calls. Uh, and
+4:24 like I said before, you don't have your
+4:26 full library. From what you were showing
+4:28 me, you just have the pro plan library.
+4:31 So, uh, the full library has a bunch of
+4:33 additional folders such as the models
+4:36 folder that has a bunch of subfolders
+4:38 like this. Your screenshot didn't even
+4:40 show a lot of these items. So, yes, the
+4:42 landscaping package is in there. It is
+4:44 in the full library. You don't have it
+4:46 installed. Go check that out. Um,
+4:50 and then good morning Merlin and good
+4:52 morning Mr. Pitman and good morning
+4:55 Anthony. Cool. So, let me start off by
+4:58 just making a duplicate in my project
+5:01 browser. First of all, if you didn't
+5:02 know this trick, you can undock any of
+5:05 the side windows on a Windows machine. I
+5:08 do not know um the equivalent function
+5:11 for this on a Mac, but on a Windows
+5:14 machine, you can bring this out and you
+5:17 can hit the window key and left or right
+5:21 and and it will fill half the screen. Um
+5:24 I have a wide screen so filling half the
+5:26 screen means it's filling, you know, a
+5:28 part of the screen. I'm not recording,
+5:29 but uh there you go. it can become a
+5:32 very large project browser. If you
+5:34 wanted to then dock this again just the
+5:37 way that it was before, what you could
+5:39 do is just doubleclick the top heading
+5:41 and it's going to dock it back on the
+5:43 sidebar here. All right. So again, just
+5:47 bringing this out, window key left or
+5:49 window key right will expand this a
+5:51 great deal. And so that's pretty nice.
+5:53 And then in a previous template
+5:55 Tuesdays, I showed you how you could use
+5:57 Power Toys on a Windows machine to
+5:59 create docking areas. Now,
+6:01 unfortunately, these side windows don't
+6:03 um aren't seen by this application as a
+6:06 docking window. So, that doesn't work
+6:08 for this. Um so, the best trick is just
+6:10 using that Windows key. Uh if you're on
+6:12 a Mac and you know an equivalent uh key
+6:14 combination, let us know. We'd love to
+6:16 know. I love helping out people on the
+6:18 Mac. I just don't have a Mac to be able
+6:20 to test these things. So, there you go.
+6:23 Um, and then let's see. So, I'm going to
+6:27 make a copy of my template project. You
+6:29 know, I sell these pro plan templates.
+6:32 Um, they're pre-built to to get a lot of
+6:34 the work done for you. I know I mention
+6:36 it every show. I'm going to keep
+6:37 mentioning it. Uh, the way this works is
+6:40 instead of going to a new project when I
+6:42 want to start a project, I'm making a
+6:44 copy of a project. And, um, usually I'm
+6:47 actually coming into the many different
+6:48 layouts that I have in this template
+6:50 project and choosing the one that I
+6:52 want. and instead choosing make a copy
+6:54 with links to a new project because that
+6:57 just brings in just that layout file and
+7:00 only the files that are linked to it.
+7:02 Okay. And I would say that's kind of an
+7:04 advanced thing. So I'm going to make a
+7:07 copy with links to a new project. And
+7:10 I'm going to click on the new project
+7:11 button. So that just created a new
+7:13 project and it brought in only the files
+7:15 that are linked to that layout. Now,
+7:18 every one of these layouts is linked to
+7:20 those same three plan files. So, um it's
+7:24 just an option thing. I just happen to
+7:26 want this layout, which has got a
+7:28 different title block style and a
+7:29 different sheet size than the other
+7:31 layouts that are there. So, that being
+7:35 said, let's say I go through and start
+7:37 drawing. So, let me just open this up
+7:40 and we'll just dock this project browser
+7:42 for a second.
+7:45 And I'm just going to draw some walls in
+7:47 here so that we see that we've drawn
+7:49 something.
+7:52 And let's just say for argument's sake
+7:54 that this house ends up being much
+7:57 larger than what I can fit within that
+8:01 archd size. I have um a little CAD block
+8:04 here to let me know what that archd size
+8:07 is. Okay. And so let's just say, you
+8:09 know, my dimensions are now past the
+8:11 bounds of this. If I had some windows
+8:13 and stuff like that, it's going to push
+8:14 those dimensions even further. Um, you
+8:17 know, some jogs in the walls like that,
+8:19 it's going to push those dimensions even
+8:21 further. So, this is too big for this
+8:24 layout. All right. And that's the layout
+8:26 that I choose to send this to. So, that
+8:28 when I get it into the pages that
+8:30 actually show this, you know, on the on
+8:32 the sheet, we're going to see that maybe
+8:34 some of these pages aren't aren't
+8:37 fitting on the screen. And so I need to
+8:39 size my sheet size up in this case or at
+8:41 least that would be my preferred method.
+8:43 Okay, so I'm going to sh size my sheet
+8:45 size up. But how do I do that now?
+8:48 Right, I already picked the layout that
+8:49 I want. And unfortunately that's not
+8:52 going to work out. So what would be nice
+8:55 is if I could just come up here and
+8:57 choose that Archie instead and drag and
+8:59 drop this into my project. And there we
+9:02 go. Okay, that would be great.
+9:05 Unfortunately, look at what happens
+9:07 here.
+9:08 these additional links will be moved as
+9:10 well. It wants to pull every layout file
+9:12 I have as well as a whole new set of
+9:15 plan files. Right? So, that's not a
+9:17 great method. Do I want to continue?
+9:19 Heck no, I don't. So, I'm going to say
+9:22 no. The method then for this would be um
+9:26 I think it's fairly simple and
+9:28 straightforward, but it is a process
+9:30 that you have to know about. and and I
+9:32 see a new comment that I'll look for in
+9:34 just a second here. But um the process
+9:37 is this is I would go ahead and make a
+9:41 folder here. And that's just to
+9:42 distinguish these files from some other
+9:45 files we're going to bring in in a
+9:46 second. So I'm going to rightclick and
+9:49 say um they're calling it document
+9:52 folder and that's because we have the
+9:54 unfortunate name of calling these kind
+9:56 of tag folders just folders. And um so
+10:00 we need a new document folder. And so
+10:02 this is going to be, you know, main
+10:04 files. Okay. And this is kind of just a
+10:07 temporary thing for me, but I'm just
+10:09 going to drag these into this main file.
+10:11 And do I want to save that? Sure, why
+10:12 not? All right. So I drag those all into
+10:15 that main file. Here's what I want. I
+10:18 need this arch E. I need to trade that
+10:21 out for the one that's in that main
+10:23 files here. So I'm going to do the same
+10:25 thing. I'm going to well I could just
+10:27 make a copy. Okay, but that ends up
+10:31 being the same problem. I just need to
+10:33 do this again. Make a copy with links to
+10:35 project. And this time I'm going to
+10:37 choose my existing project here. Okay.
+10:40 And hit select. And so here's what
+10:42 happens is it brought those files in
+10:45 again just like it did last time. So all
+10:49 I want to do then is I want to grab this
+10:51 and just throw it in here for now.
+10:53 That's just helping my brain keep
+10:54 organized. These three files I don't
+10:57 need. They came from that arch E that
+11:00 came over from make a copy with links to
+11:02 project. I don't need them. So, I'm
+11:04 going to delete them. Here's what's
+11:06 going to happen is look what just showed
+11:09 up. You see the little tiny itty bitty
+11:12 question mark that just showed up? This
+11:14 is letting you know that this file has
+11:17 broken links. All right, which means
+11:20 that when we open this up, it's going to
+11:22 say, "Hey, we're missing a bunch of
+11:23 stuff." Well, this just so happens to be
+11:26 a really easy way to link this to the
+11:28 things we need to link it to. We just
+11:30 get to hit replace reference. And in
+11:32 replace, we'll find in our main file is
+11:35 the same named file. So, we're just
+11:38 replacing it with what's already there.
+11:44 Simple
+11:50 as that. Now, notice that the question
+11:53 mark still exists there, but we did just
+11:55 get a bunch of views populated. If we're
+11:57 going to scroll through and now this is
+11:58 an arch E. Um, we can see, look at that.
+12:02 There's that drawing and it actually
+12:04 does fit on the sheet now, right? And
+12:06 that's great. This is exactly what I
+12:08 wanted. But that question mark still
+12:11 exists. I want to show you a little
+12:12 closeup of this. If I just hit, you
+12:14 know, on a PC, controls S for save.
+12:18 Look what happens. Question mark goes
+12:20 away. We're just committing that change
+12:22 that we replaced the references. And now
+12:24 that question mark goes away. And we
+12:26 could just go get rid of this guy. We
+12:28 don't need him anymore. So, we've rel.
+12:32 Now, that was just one way of doing
+12:34 that. Another way of doing that would
+12:36 have been that we could have opened that
+12:37 layout file, ignored that replace
+12:39 reference dialogue box. In the case that
+12:41 we did that by accident, you could have
+12:43 gone instead to tools layout and then
+12:46 down at the bottom reference plan
+12:49 layouts to replace those links. So this
+12:52 is a really easy way to trade things
+12:54 out. Now, this should let you know that
+12:56 if you've come up with a bunch of
+12:58 planbased
+13:00 design iterations and you have a main
+13:03 layout file that you've populated a
+13:04 bunch of views from that, you could
+13:09 easily trade out which design iteration
+13:12 is being linked to this layout. That
+13:14 would be one way of managing additional
+13:17 designs and having them get to a print
+13:19 set, right? To get to our layout. So,
+13:23 that's one method. A different method
+13:25 for this would be pretty simple for me,
+13:27 which is I've got everything in this
+13:29 folder right here. I'm going to rename
+13:31 this to something that might be helpful
+13:32 to me. I'm going to name it to today's
+13:34 date, which is 260728. So that's year
+13:37 year month day day. This creates a
+13:40 hierarchy for me. So for this, I'm going
+13:42 to just say that this is design review A
+13:44 or maybe version one or version A, what
+13:47 have you. The name of the project, let's
+13:49 just call it Scott. And then my
+13:52 initials. I do this for when I'm working
+13:54 with other individuals to let them know
+13:57 that whatever copy they got, I was the
+14:00 one in the office that worked on it.
+14:02 Those are my initials. And that way when
+14:04 someone imports this, they know who to
+14:07 talk to if there was a question about
+14:10 some changes. That's for specifically
+14:12 for office environment or if you're
+14:14 just, you know, working back and forth
+14:16 with another technician. All right. So
+14:18 that's my naming convention that I would
+14:21 use. And then if I want to create a new
+14:24 design iteration, my preferred method is
+14:27 let's keep all this stuff linked. And so
+14:29 instead I'm just going to do this. I'm
+14:31 going to say, hey, make a copy with
+14:34 links to a new document folder. Okay.
+14:38 And that's that weird name again,
+14:39 document folder. So there it goes. Just
+14:42 created a new document folder. I'm going
+14:44 to use the same date. This one's going
+14:47 to be design review B Scott RR.
+14:52 Now, the other thing that might help you
+14:53 out is if you're working on two of these
+14:55 at the same time, then you might
+14:57 actually want to go through and rename
+14:58 the individual files as well, just so
+15:00 that the headings at the top of the
+15:03 screen tell you something more important
+15:05 than this, right? Is that this is
+15:07 probably going to get confusing as we
+15:09 open two of those. So, you might want to
+15:11 put that design review A, design review
+15:13 B inside of there. Okay. And so that
+15:17 should right there kind of point you
+15:20 towards most of the problems you might
+15:22 run into on such a workflow like this.
+15:25 So let me put this in practice. And I
+15:26 actually have a plan file that um
+15:28 someone is requesting that I do a little
+15:30 bit of an overlay with where we made
+15:33 some design changes from one version to
+15:35 the next. So I'm going to give you an
+15:37 actual practical use case of this. And
+15:39 let me go ahead and delete this project
+15:41 real quick. And also, let me check a
+15:44 take a look at the chat. Uh, it's the
+15:47 same thing doing for Mac. Victor, uh,
+15:50 what um is does that mean that if you
+15:52 hit your What do you guys have? You guys
+15:55 don't have a a Mac key in your keyboard,
+15:58 do you? Whats are you pressing um to
+16:01 expand your window to um make that
+16:03 window large? You're saying it's the
+16:06 same thing for the Mac, but I didn't
+16:07 think Mac had a a Mac or an Apple
+16:10 specific button on the keyboard.
+16:12 And then Olay, can you talk about
+16:14 bracing? I see on the layout template.
+16:17 Not sure if bracing working. I never
+16:19 used this before. First time reviewer
+16:21 asked to complete bracing if possible.
+16:26 And Mr. Pitman saying command on the
+16:28 Mac. So command and arrow key might get
+16:30 you to be able to expand those side
+16:32 windows after you have them undocked. So
+16:35 process is undock a side window, meaning
+16:38 you're just dragging it away from its
+16:40 docked position to the point where it's
+16:42 floating like this. And if you hit
+16:44 command and left arrow or command and
+16:47 right arrow, that might um increase the
+16:50 size of that to half your window screen
+16:52 size.
+16:57 And then double clicks working. But
+17:00 let's see. He he says he have an an app
+17:02 download that that I have shortcuts in.
+17:06 Put it back. And then what do you want?
+17:08 Uh so Victor, what we're asking is do
+17:09 you have an equivalent function that for
+17:11 me on a PC I get to hit window key and
+17:14 write and you see that the project
+17:16 browser just expanded to nearly half my
+17:19 screen. So that's that's what I'm
+17:21 looking for is if you have some kind of
+17:22 equivalent function on the Mac for that.
+17:26 There we go. And then the other one I'm
+17:29 always asking for for people that are on
+17:31 u Mac is if you've figured out some way
+17:34 to doing pneummonic keys. And pneumonic
+17:37 keys means that I get to hit my alt
+17:39 button. And you see how H for help is
+17:42 highlighted. I get to hit H to to bring
+17:46 that menu down. We'll see that Chief
+17:48 Talk for instance has a T highlighted.
+17:51 So I get to hit T and that will bring
+17:53 open Chief Talk on my other screen. Um,
+17:56 so that's pneumonic keys is the alt
+17:59 button is is a a trigger button that
+18:01 gets us to, you know, being able to and
+18:04 that's for every program on a PC, by the
+18:06 way. All right. So, here's what I've
+18:08 got. I've got a a client that I've got
+18:12 an old version of a project and I've got
+18:14 a new version of their project. And so,
+18:16 I'm going to open up both.
+18:19 So, let me get in here. projects and
+18:21 we'll just show you the folder
+18:23 organization for this is here's the
+18:26 project I'm looking for. Here's the
+18:27 project files. We can see that same
+18:30 dating convention is here. We can see
+18:32 I've got an archive full of older files
+18:35 that I have set to, you know, keep
+18:37 offline. That's what this cloud
+18:40 icons for. And so these, you know, I
+18:42 could do the same thing with these.
+18:43 Shift select these. I'm using Dropbox,
+18:46 so it's very easy for me to say, hey,
+18:48 make online only. That takes that out of
+18:50 my storage. It doesn't store it on my
+18:53 hard drive anymore. And I can just
+18:55 double click and open this or just
+18:56 rightclick and open with Chief Architect
+18:59 X18. So that's going to bring that in.
+19:01 The next thing that I want to do is I
+19:03 want to go back to the archive and I'm
+19:05 looking for an older project file,
+19:07 something like this one right here. And
+19:09 I also want to open that. Okay, let me
+19:12 open both of those in X18. Let's see
+19:14 what happens. Um, we'll see if that
+19:17 cues. I've never tried opening two
+19:19 things at the same time in X18's project
+19:21 management. I'll see how that does. But
+19:24 you can see that it's processing
+19:25 resources. What it means by resources is
+19:28 that it's looking at all the image files
+19:30 and processing them and then getting
+19:32 them, I believe, into a temporary write
+19:35 cache and then encrypting them and
+19:36 sticking them in our encrypted managed
+19:40 files, I think, is what's happening
+19:42 right now. So, we'll wait for that for a
+19:45 second.
+19:49 Uh, Mr. Pitman says, "Function control
+19:53 left arrow will dock to the right side."
+19:57 Okay. And that's docking or that's
+19:59 that's expanding. Let me know.
+20:05 And then, oh, we have a different Olay.
+20:08 Oh, is that how you say that name? Is
+20:10 that how you pronounce it? I'm so
+20:11 curious. New way to release back the 8
+20:13 hour video. A lot of information there.
+20:15 Um, unfortunately, no. Um, if I were to
+20:17 do that, I'd have to pay a lot of money
+20:19 to get a lot of information redacted.
+20:20 Um, it's in my contracts to be able to
+20:23 um do social sharing on on stuff, but
+20:25 unfortunately, uh, that was a word of
+20:27 mouth contract and and I didn't, it was
+20:31 my failure to reiterate that that was
+20:33 part of, you know, my expectation was
+20:35 that I would get to stream that info.
+20:37 There was an 8-hour video. I covered a
+20:40 lot of ground in that eight hour video
+20:41 and unfortunately I can't share it
+20:43 without redacting a lot of u the
+20:45 client's personal information and that's
+20:47 just a ton of work and I don't think
+20:49 it's going to be worth it for me. So I
+20:51 will try to do that again. That was a
+20:52 lot of seat time for me but but I am
+20:54 going to try to do it again.
+21:00 Okay. So um I'm just going to click okay
+21:04 on that. I don't need to open it. It
+21:05 does not look like it opened both files.
+21:08 It just opened the newer file. So, I'm
+21:09 going to have to go back and try to open
+21:12 this older file.
+21:14 Um, hopefully a lot of the
+21:17 assets are already in here now.
+21:21 So, we'll see if that process goes a
+21:22 little faster.
+21:27 Nope. Doesn't look like it's going to go
+21:28 any faster.
+21:41 All right. So, there we go. So, here's
+21:44 what I have. I have two different
+21:46 projects now. One is an older version.
+21:50 All right. I want to grab this, bring it
+21:53 into this file. Can I do that? What's it
+21:56 linked to? Right. Does is there anything
+21:58 linked to it? So, if I bring this in
+22:00 here like this
+22:02 and it looks like design iterations was
+22:04 already thing. If I try to bring that
+22:06 in, it wants to bring in all these
+22:08 additional files.
+22:10 No, I do not want to do that. So, that's
+22:12 just letting you know. It's not always a
+22:14 simple drag and drop. You're and you're
+22:16 going to end up bringing in a lot of
+22:18 other files that we might not want.
+22:20 Right?
+22:21 This is the newer version. Obviously,
+22:23 this convention is very helpful in this
+22:26 scenario because if we didn't have this,
+22:28 it would just both say Lake View lot and
+22:31 how would you know which one is the most
+22:33 current one without opening it up? So,
+22:35 it is helpful to kind of do your design
+22:38 iteration
+22:40 stuff inside of your naming convention.
+22:42 I think that's just my personal take on
+22:45 it. And so, what I want to do, I'm going
+22:48 to make a copy of this and let's see if
+22:52 we can't drag that copy in. Does that
+22:54 give us what we want? No. Now, it wants
+22:56 to move everything as well. So, what do
+22:59 you do here? Um,
+23:01 I think I'm just going to do that same
+23:03 thing. make a copy with links to a
+23:06 project.
+23:09 And then when I do that, we're going to
+23:11 pick that other Lake View lot. I select.
+23:14 All right. So that time, what did it do?
+23:19 It just brought in
+23:22 I believe it just brought in Yeah,
+23:24 that's all it did. So for some reason,
+23:27 dragging and dropping wants to bring in
+23:29 anything that it's sent to. But making a
+23:32 copy with links to project since there
+23:34 was nothing linked to it just brought in
+23:38 that file only. So what I'm going to do
+23:41 here is I'm going to rename this to
+23:44 original
+23:46 so that I can clearly understand what it
+23:49 is.
+23:53 And I might even go steal the
+23:57 dating convention we use to reference
+23:59 it. So that was 260513.
+24:03 So here we go again. I'm just going to
+24:05 rename this 260513.
+24:09 Thank you. Original layout. This is
+24:11 going to let me know very clearly what
+24:14 that is inside of here. And then
+24:17 obviously I did something where I was
+24:19 showing that same workflow with design
+24:21 iterations. So we can just drag this
+24:23 back out and pick this up and delete.
+24:27 And so here we go. like view lot 303. I
+24:30 don't need this anymore. I got what I
+24:32 needed out of that, which was that
+24:33 reference plan file. So, I'm just going
+24:35 to delete it.
+24:37 And so, here's the next thing that I was
+24:39 tasked with doing here is I'm going to
+24:42 go ahead and open up the Lake View plan.
+24:49 And what my client was asking for was,
+24:51 can we show where the foundation was in
+24:54 the original design versus the
+24:56 foundation in the new design? So, I'm
+24:58 going to switch to my foundation plan.
+25:00 I'm going to use the reference display.
+25:02 I'm going to change the reference and
+25:06 drop down and find that original lake
+25:09 view plan. Switch it to the foundation
+25:11 level and leave this on reference
+25:14 display. And we should be able to see.
+25:18 There we go. And if I want to be kind of
+25:22 clever with this, maybe in the reference
+25:24 display, we'll turn on X overR. This
+25:28 means that if there are lines in the
+25:30 reference display that line up with
+25:33 something in our our main plan here,
+25:37 then it's going to change the color of
+25:39 those lines. And so, you know, now the
+25:41 blue lines mean that things are
+25:43 perfectly aligned. The red line means
+25:46 that something kind of shifted. Okay.
+25:49 So, you can clearly see now which
+25:54 parts of the foundation align with the
+25:57 original versus which ones have shifted
+25:59 out of place. Right? So, there's been
+26:02 some changes here. Um, this guy knows
+26:06 knows who he is. I remind him
+26:08 constantly, don't start building before
+26:10 we finish the design. and he always
+26:14 starts building before we finish the
+26:16 design. So, he's going to have to move
+26:18 some stem walls because we found out
+26:20 that, hey, we could come up with a much
+26:22 better layout when we're not so
+26:25 pressured to design on the fly. So, he's
+26:29 got to go pay some money to go redo some
+26:31 stem walls is what's happening here. Um,
+26:34 so he's got some new stem walls, but
+26:35 he's got some existing ones and he's got
+26:37 to figure out, you know, uh, in
+26:38 particular this little section here. He
+26:40 needs to figure out how to bury that.
+26:42 fun. [laughter]
+26:44 Uh hopefully the concrete's still fresh
+26:46 and it breaks out real easy in case he
+26:48 needs to break it out.
+26:50 So, this is kind of the full scope thing
+26:53 that I just did was that I brought in
+26:55 two different projects. I transferred
+26:57 over a plan from one project to another
+27:00 without bringing all the links that I
+27:02 didn't need. And then I get to go
+27:04 reference this. And there we go. I've
+27:06 got a a project that's all packaged up
+27:09 nicely now. And when I go to export this
+27:12 to someone, well, for one, I'm going to
+27:14 change the date because we've just
+27:16 improved this set, right? So, we need to
+27:18 go take this to the 28th, right? So,
+27:21 that's going to make that clear. This is
+27:22 the original layout. Okay, this is our
+27:27 Let's just call it current.
+27:30 Why not? Hopefully, that just makes
+27:32 sense to them. Notice that I was using a
+27:35 referenced DWG from an architect. uh we
+27:39 ended up redesigning from an architect's
+27:41 original plans and so um and with their
+27:44 permission and then uh and so this is
+27:47 used as well. So anytime I need to if I
+27:49 want to reference the um the original
+27:52 design I can
+27:55 and then let's talk about these folder
+27:58 tags. If you're not seeing something
+28:01 that looks like like kind of a blank
+28:03 section here and if we turn the headings
+28:06 on um just by hitting our gear icon.
+28:10 So section title bars section title bars
+28:15 would tell you that these are project
+28:16 folders. Okay. And how can we create a
+28:20 system that's going to make sense for us
+28:21 in terms of project folders to help us
+28:23 keep organized, help us filter down to
+28:25 what we need, etc. So, um, a couple of
+28:28 ideas that I have that I share with
+28:30 people is that maybe you want something
+28:31 that says hold, maybe you want something
+28:34 that says active,
+28:36 um, maybe you want something that says
+28:39 file and archive,
+28:42 something like that. Um,
+28:45 you know, those are some examples of
+28:47 things that you might do. So, I have one
+28:49 that's called clients. And then
+28:50 underneath clients, I could do a new
+28:53 project folder where I'm saying, all
+28:55 right, this is, you know, another
+28:57 client's name. And I can drag this whole
+29:00 file onto there so that I can find it
+29:01 very easily. Um, that way when I click
+29:04 on this, this becomes a tag filter. You
+29:07 can see up here that it becomes a
+29:08 filter. We can hover over it, hit the X
+29:10 to stop applying that filter. But there,
+29:12 it's only showing me projects that that
+29:15 filter is applied to. And then I can
+29:17 close that out. Right. And I do believe
+29:20 that when you export this and then bring
+29:22 this back in, it will bring in that
+29:24 folder tag with it. Um I'd have to
+29:27 confirm that. I'm not I'm not 100%
+29:30 positive. I know that if you already had
+29:33 um one of these project folder tags in
+29:36 existence, then it would just, you know,
+29:39 fit within that tag if you bring it in.
+29:42 So, I know that part works, but I do
+29:46 think that tags come with the project so
+29:49 that when you load it up, it would come
+29:50 with. So, for me, when I'm done working
+29:53 on a project, because I've um taken um
+29:56 more of an interest in in creating more
+29:58 backups, as I'm in kind of a production
+30:00 phase of of the products that I sell um
+30:04 and in managing those, I have to create
+30:05 a bunch of backups, and I want my
+30:07 backups to go as fast as possible. And I
+30:10 don't love a a cluttered project
+30:13 directory. I just export my projects the
+30:16 same way that we would do a save as
+30:18 before. All right. And that just makes
+30:21 it really easy. I'm basically using
+30:23 project management as just a tool to
+30:26 package everything up in a single file,
+30:29 but I'm using it the same way I used to
+30:31 use Chief Architect before project
+30:33 management even existed. Meaning that
+30:35 I'm just going to export and delete this
+30:37 dang thing. That's all I want. So, I'm
+30:39 going to hit the delete key, export and
+30:41 delete.
+30:43 Um, let me come into project files.
+30:45 Yeah, the date is current. I don't need
+30:47 to change the date. It's exactly as I
+30:49 want it here. That's how it's going to
+30:50 show up in this um in this folder tree.
+30:55 Let me hit save. That'll export it.
+30:59 And then it will also delete it.
+31:02 So, that keeps it so that my um project
+31:05 listing over there is very minimal. Now,
+31:07 if you're working on a bunch of projects
+31:08 at one time, you know, finish them up.
+31:11 Wait till you're finished, right? If
+31:13 it's like an everyday thing and you're
+31:14 working on them, sure, by all means,
+31:16 keep them in your project mansion. I
+31:19 just um I find it so easy to import and
+31:21 export these things that I would rather
+31:24 just keep them on my Dropbox. That way,
+31:27 I know I can access them from other
+31:28 machines very, very easily if I needed
+31:30 to. The next thing that I personally do
+31:34 to keep my files nice and clean and to
+31:37 keep my storage um at a minimum, keep my
+31:40 back my backups faster is that you can
+31:43 come into asset management. Every time
+31:46 you bring in a project and you apply
+31:49 materials to it or that project has
+31:52 materials that didn't exist in your
+31:54 asset manager, then it's going to import
+31:58 those materials into asset manager. and
+32:00 they will just live there. So, if you're
+32:02 someone that's doing training calls or
+32:04 you're someone that's working with a
+32:06 team and you're just trying to limit
+32:09 your backups to to make them go faster,
+32:12 here's what I would do is if you click
+32:15 on owned by you or excuse me, owned by
+32:19 and you uncheck owned by chief
+32:22 architect, here's what we can do. We can
+32:25 delete things owned by you. We cannot
+32:27 delete things owned by Chief Architect.
+32:30 Okay, so here's all my files that are
+32:32 owned by me. If I were to hit Ctrl A to
+32:36 select all of these files and hit
+32:39 delete, I know that sounds pretty scary,
+32:41 right? Here's what happens. The dialogue
+32:44 box comes up and lets me know that, hey,
+32:46 I have a massive library and in the
+32:49 asset manager, I've got 83,000 image
+32:52 files and they cannot be deleted because
+32:55 they're in your library or they're in an
+32:56 active project. But what's that other
+32:59 362? I'll tell you what that is. That
+33:03 362 is coming from other projects that I
+33:06 brought in. I worked on them. It
+33:08 imported the assets for those projects
+33:11 so that when I pulled the 3D view that I
+33:13 had all the materials that I needed,
+33:15 right? Well, those image files still
+33:17 live in my asset manager. I no longer
+33:19 need them. Why? Because I worked on that
+33:21 project and I exported that project. And
+33:23 we know that if we were to go back to
+33:26 this project that we just exported, you
+33:30 saw me just export this. If I go open
+33:33 this in just an archive utility like
+33:35 sevenzip file manager, we're going to
+33:38 see as I kind of drag this up here and
+33:41 dock it, we're going to see that
+33:45 assets, you know, here's all those image
+33:48 files. That's everything that existed
+33:51 um that created the materials in that
+33:53 particular project. Okay. Um, it's also
+33:56 a good opportunity to look at this and
+33:58 go, "Hey, material one bump map is 35
+34:01 megabytes and that's huge and you might
+34:03 want to go reduce that because that's
+34:05 pretty ridiculous." If you wanted to,
+34:07 since we're in sevenzip, we could even
+34:09 go grab the first 10 here that seem to
+34:12 be very large in file size and we could
+34:14 go dump them into another folder such as
+34:18 my downloads folder. And if you saw one
+34:21 of my previous episodes, you know that
+34:23 my downloads folder has an active
+34:25 listener that will immediately start
+34:28 converting things to WEBP format, which
+34:31 will then reduce the file size on them.
+34:33 So, I could dump them and then all of a
+34:35 sudden get these WEBP formats and go
+34:38 through the time process of replacing uh
+34:41 those files inside of Chief Architect's
+34:44 asset manager specifically. So, um,
+34:47 that's just to let you know some really
+34:49 kind of advanced things you can do. But
+34:52 here we go. Those assets came with the
+34:55 project. The point of mentioning that is
+34:58 that is it okay then for me to delete
+35:00 these additional assets? Yes, because
+35:03 the next time I open that project, it's
+35:06 just going to bring those assets back in
+35:08 instead of recognizing that I already
+35:10 had them. But what this helps me do is
+35:13 it helps me speed up my backups because
+35:15 I'm not storing a bunch of files. If you
+35:17 bring in like six or seven different
+35:19 projects, you're going to have quite a
+35:21 bit of additional files. And those files
+35:24 all take time to back up. So, do I want
+35:26 to delete these? Yeah, I'm going to
+35:28 delete these. And it's going to take a
+35:30 couple minutes.
+35:34 Let me take a look at what we got here.
+35:39 Merlin says, "Thought that I was the
+35:40 only one who had clients like that."
+35:43 [laughter]
+35:43 No, definitely not. I have a few of them
+35:46 like that. Tell you the truth, we used
+35:48 to do that as well when I was working as
+35:50 a general. Um,
+35:53 I say we because I was the one in
+35:55 charge. So, I used to do that as well.
+35:57 [laughter]
+35:59 So, I know all about it, you know,
+36:01 trying to catch up to those decisions.
+36:03 And I can tell you it bit me in the ass
+36:06 quite a few times. I'm not going to lie.
+36:08 Uh where it's like, oh, you know, if we
+36:10 had just waited, we would have come up
+36:12 with this better idea. Um usually hinged
+36:16 around like moving utilities and stuff
+36:18 or it would have been much better to
+36:20 install something on one side of the
+36:22 house versus another, stuff like that.
+36:25 Um all right, so we're on hold right
+36:27 now. It's deleting these files. Uh
+36:30 again, I think the way that Chief
+36:31 Architect does this is it uh it decrypts
+36:33 the files to a cache directory and then
+36:35 deletes them. I'm not entirely sure. I
+36:38 haven't done enough research on that,
+36:40 but sometimes this could take a little
+36:41 bit of time to get rid of those. Um so
+36:44 if you've got questions, now would be
+36:45 the time.
+36:47 And then I'm not releasing the file till
+36:49 I finalize what the client is even
+36:51 asking. Yeah, absolutely. I'm with you.
+36:54 Um
+36:56 there's been some design changes that
+36:59 would really benefit this particular
+37:00 project. Um and unfortunately we can't
+37:03 do them because it it's going to cost so
+37:06 much extra money to redo those stem
+37:08 walls. So it's really unfortunate. I've
+37:11 been I've been beating the guy up over
+37:13 it on this one. Like buddy, you should
+37:16 have let us have a little bit more time
+37:17 with this. So um but I know how it is
+37:21 sometimes. You know, you got a crew
+37:23 sitting there ready to work and they
+37:25 need to work and you had another project
+37:26 to cancel and all of a sudden all your
+37:28 crew is just sitting there ready to work
+37:30 and it cost you so much a day or you
+37:33 lose your crew and that's not worth it.
+37:36 So, what do you do? You go start a
+37:37 project that's not fully designed yet. I
+37:40 know. I know that game. Um
+37:43 Yeah. Yeah. Yeah. Yeah. I've been there.
+37:46 It's It's funny. I get some comments
+37:48 from you guys. You know, I am a desk
+37:50 jockey now. That's what I do. The only
+37:52 thing I work on is my house. But, you
+37:55 know, I've had some experience when I
+37:58 tell you stories like that. I've been
+38:01 out there with you.
+38:04 Let's see. I have a friend asked me to
+38:05 get just for the bank and sending to the
+38:08 contracts. Is that planned? Yeah,
+38:09 exactly. Yeah. I just need it for the
+38:11 bank so I can get my loan approval. Oh,
+38:13 and by the way, we started it. Sorry.
+38:15 [laughter]
+38:18 Exactly. Uh, yep. Exactly. Exactly.
+38:21 Design build. Yeah. Yeah. That's that's
+38:23 what I was on, Anthony. Um I was running
+38:25 a design build company uh companies. Um
+38:29 in my in my field career, I was always
+38:32 on design build teams or I became the
+38:35 design build. Um it used to be that I
+38:37 would come in and just say, "Hey, you're
+38:39 just a contractor. I can make you a
+38:41 design build contractor. Leave it up to
+38:43 me." So, um, but I would manage those
+38:48 projects, um, in the field. I'd be
+38:51 designing in the field because I was
+38:52 also a super and and and we were trying
+38:55 to teach everybody to self-perform
+38:57 electrical um, and a few other trades
+39:00 that otherwise we would sub out. So, I
+39:02 was teaching people how to do that kind
+39:04 of stuff. Oh, boy. Chief's taking a long
+39:06 time to delete those 300 items. So, you
+39:10 guys are stuck just talking to me.
+39:14 Design build as you go.
+39:17 Yeah, design build as you go. Oh, that
+39:19 takes away the chat window, doesn't it?
+39:22 That'd be nice if I figure that out.
+39:27 I don't think I'm going to figure that
+39:28 out. Let me see if I can figure that
+39:29 out. How do I do that?
+39:33 Yeah, that doesn't work at all.
+39:36 Oh well.
+39:38 Oh, yeah. I love showing when Chief's
+39:41 slow, you know? I feel like they ever
+39:43 catch catch this, they'll they'll go,
+39:45 "Oh, we can't let that happen again."
+39:47 Not while this guy's streaming live. We
+39:49 can't make our program look this slow.
+39:53 Cuz deleting 300 textures on a machine,
+39:56 you know, outside of Chief takes all of
+39:58 two seconds.
+40:02 Oh, do I force quit? That'd be a pain.
+40:06 Uh, let's see. We had some other
+40:08 question. Some other question was about
+40:13 when you talk about bracing I see on the
+40:15 layout template. Not sure if bracing.
+40:17 Okay. So on my templates in X18
+40:21 um I know that there's [music] a problem
+40:24 with my bracing tools. Here we go. That
+40:27 just finished.
+40:30 Um and that is just that
+40:34 something about countertops. If
+40:36 countertops aren't displayed, then
+40:38 hatching doesn't display on a cabinet or
+40:40 something like that. Something along
+40:41 those lines. But my brace wall system is
+40:44 only a partial system. I actually do
+40:46 need to rebuild build a more robust
+40:49 system. And and here's the thought
+40:51 process with that. Let me just make a
+40:52 copy of this plan so I can mess around
+40:54 with this.
+40:56 Let's take a look at this. Let me get
+40:58 all the side docking out of the way. Um,
+41:02 and I have
+41:05 linked to my toolbars brace wall panel
+41:08 tool. And what this is is it's just a
+41:11 cabinet. But what's nice about a cabinet
+41:13 is we get some reported values here. If
+41:15 you have my templates and you have my
+41:17 toolbars installed, then there is a
+41:20 utility up here. Rabs macro search. You
+41:24 ever want to check out what this does?
+41:26 You can just click this in plan
+41:28 somewhere and it brings up a text box.
+41:30 Okay. And then there's a search term
+41:32 parameter here. So what you see here
+41:36 inside of the quotes is what we are
+41:38 going to search for inside of that
+41:41 cabinet. All right. So in this case,
+41:45 this means um terms that might be NVPs.
+41:51 NVP meaning name value pair. That's kind
+41:56 of a Ruby language. Okay. Okay. So,
+41:58 we've got a name which could be a
+42:01 variable name var one. All right. And
+42:04 then var one carries a value. Var one
+42:08 could be we define it as check this out.
+42:11 So that's a name value pair. Var 1
+42:14 equals check this out. All right. So um
+42:18 this will search for name value pair
+42:20 names and values. anything that you know
+42:25 measurement shows up in or it searches
+42:29 classes. Classes would be in in Ruby
+42:31 scripting it would be a string that
+42:33 would be a float value. So a number
+42:36 integer would be like you know whole
+42:38 number. Um, and in the case of Chief
+42:42 Architect, they have a special class
+42:44 that's built into the software, which
+42:46 makes it really hard to learn this
+42:48 outside of Chief Architect when you're
+42:50 looking up, you know, Ruby document
+42:51 books and everything is measurement.
+42:53 There's a measurement class inside of
+42:55 Chief Architect that is, you know,
+42:57 that's something that they made up, they
+42:59 implemented in their version of Ruby.
+43:02 All right. So, this is looking
+43:04 specifically for anything that's a
+43:06 measurement class or has the name
+43:08 measurement in it. So, when I connect a
+43:10 leader to this text box, from this text
+43:13 box to this cabinet, what is a cabinet?
+43:16 Then, it's going to show us all of the
+43:19 measurements, specifically something
+43:21 that's a measurement class coming from
+43:23 that cabinet to let us know here is the
+43:26 name value pair. What's the name? Depth.
+43:29 What's the value? 4.4375. 4375 in. And
+43:33 this is a measurement. What does that
+43:35 mean? That means that I could write in a
+43:39 text box, grab that name, put it inside
+43:43 of opening and closing calls, which
+43:46 Chief Architect uses percentage signs
+43:49 for, and then connect a leader to this
+43:52 to get that referenced value, 4.4375.
+43:57 There we go. So that's that depth in
+44:00 inches. So that's how you can kind of
+44:02 take a look at what's being produced
+44:04 from these cabinets. Now when we look at
+44:06 all the measurements that are coming
+44:08 from this cabinet, a few important
+44:09 things come to mind. One is that the
+44:12 width of the cabinet that was important
+44:16 just kind of reverse engineering how and
+44:19 why I created a braced wall panel
+44:22 system. One is that we know that objects
+44:25 report to schedules. Okay, so I want to
+44:29 produce a schedule from this object that
+44:31 gives information about a braced wall
+44:33 panel system. When I go to my edit
+44:36 toolbar to find where the schedule is
+44:38 for this object, that's this button
+44:41 right here. It's one of my favorite
+44:42 buttons that they added because
+44:43 otherwise you'd have to go dig through
+44:45 your CAD details if in fact you were
+44:47 storing your schedules and CAD details,
+44:48 which you should be. And so find
+44:51 schedule from object is going to bring
+44:52 me to the CAD detail that this is
+44:54 reporting to. And then we can see I've
+44:56 got a couple other schedules here that
+44:57 needed to be kind of bumped down, etc.
+45:00 So, what this is doing specifically is
+45:03 it's letting me know that this is the
+45:05 number. So, that's basically the
+45:06 schedule number. So, you can see if we
+45:08 open up this schedule and we come to the
+45:10 labels, it's got a prefix that's BWP.
+45:13 All right. So, BWP1 is the schedule
+45:16 number. Brace wall panel method is the
+45:20 type of wall panel method that we're
+45:22 using. This is coming from an internal
+45:24 system that I created which is part of
+45:27 my detailed designations system. So if I
+45:29 get to the top heading here and double
+45:31 click this which is just a call out and
+45:35 this call out is linked
+45:38 to a CAD detail. So if I double click
+45:41 this call out it's going to take me to
+45:42 that CAD detail and in this CAD detail I
+45:45 have a bunch of schedules. Here's my
+45:46 brace wall panel method tool. This is
+45:50 just a a set of scripts that says, "Hey,
+45:52 if this object is in the schedule one
+45:55 spot, commit it to this macro." Now,
+45:59 this dollar sign lets you know that this
+46:01 is a global macro. Meaning that anywhere
+46:04 that we are um inside of any plan or any
+46:09 project or anywhere, if we use that
+46:13 global call out, it will report its
+46:15 value. Doesn't matter what plan or
+46:18 layout file you have open. So if I go
+46:20 open up some other plan and I put in a
+46:22 text box um percentage sign
+46:26 and then BWP percentage sign. Look at
+46:29 that. It's pulling that from that other
+46:31 plan because it's using a global. The
+46:34 global is that dollar sign. All right.
+46:36 Now I'm not describing this perfectly.
+46:38 I'm just doing this on the fly, but u
+46:40 most of my information is pretty good. I
+46:42 might be using the incorrect syntax at
+46:44 times. So just keep that in mind because
+46:47 I only know Ruby as far as diagnosing
+46:50 Ruby and I know a little bit of
+46:51 scripting now, but really I use AI to do
+46:54 a lot of the scripting for me. And so I
+46:57 know just enough to be dangerous, right?
+46:59 So what happens then if I go commit a
+47:02 change here and slide this up into that
+47:05 number one spot, which is when we go
+47:07 back to look at the schedule, notice
+47:09 that that changed the brace wall panel
+47:12 method. All right. What it also did was
+47:16 change the values coming from that
+47:20 cabinet object. So the minimum panel
+47:22 length, edge nailing, plate anchor size,
+47:25 all these things just changed as well.
+47:28 Okay. Now, here's a problem with uh the
+47:32 system right now is that I went through
+47:34 and tried to update all of my um files
+47:38 in my library and I and in in that
+47:41 process I broke the brace wall panel
+47:43 tools reporting to edge nailing plate
+47:46 anchor size etc. So, I need to go fix
+47:48 those things because it's not working
+47:50 right now. But this should show you um
+47:52 the appropriate values in those
+47:55 particular fields. Okay. And
+47:59 and so that's how that system works is
+48:01 we've got something that's determining
+48:03 somehow someway I have my own method
+48:05 something that's determining the brace
+48:07 wall panel method and then it has an
+48:09 index of values for how depending on the
+48:11 brace wall panel method that your plate
+48:13 anchor size is that your edge nailing is
+48:15 you know that kind of thing so that it
+48:18 dynamically switches when you've changed
+48:20 what the method is. And then the last
+48:22 part of this is that as we change the
+48:26 width of this, it's going to change some
+48:28 values as well. And it will even kind of
+48:31 tell you, you know, what it is. But
+48:33 again, I broke it. So, you know, it's
+48:36 using my cabinet conventions where it
+48:38 thinks this is a cabinet and it's
+48:39 calling it an end panel because it's so
+48:41 narrow. So, it's something I have to
+48:42 fix. Um, but you can see kind of why in
+48:48 the first place that we might choose a
+48:49 cabinet as an object is because we've
+48:52 got the object information panel which
+48:55 is this so that we can assign a bunch of
+48:57 values here. All right. And then the
+49:00 next thing that we get out of this is
+49:01 width which we need in terms of the
+49:04 brace wall panel. And [snorts] then uh
+49:06 it might even be nice to have height
+49:08 which you also get from a cabinet. The
+49:11 other thing that's kind of clever about
+49:12 this is if we open this up is we can see
+49:15 that this is a zerobox cabinet. Meaning
+49:17 the box of the cabinet itself is
+49:19 invisible and all we're seeing is the
+49:21 door. And so if you fashion the door to
+49:25 look like an X like this, then if you
+49:29 place this in a plan and pull an
+49:33 elevation view and if you have your wall
+49:36 types set up that your exterior layers
+49:40 up to your sheathing are on different
+49:43 display layers, you could turn off those
+49:46 display layers to reveal where those
+49:49 brace wall panels are in a section view,
+49:52 which would be pretty helpful. Okay, so
+49:55 um I don't know that this is working
+49:58 right now. Again, we're in beta. Some
+50:01 things changed, so some of these tools
+50:03 got kind of blasted and I'm just um
+50:06 people are dealing with me putting out
+50:08 updates every two seconds. Uh and so if
+50:12 I were to place this in a way that let's
+50:15 just select this wall for a second.
+50:16 Let's turn on Aldo
+50:19 and
+50:22 up and do main layer only so we see
+50:25 where the main layer is. And then if I
+50:27 just snap this
+50:29 to my corner here. There we go. Now I
+50:32 know that that um wall hatching is just
+50:36 outside of the main layer. So I need to
+50:38 move this, you know, 3/4 of an inch or
+50:40 something or 38 of an inch, 7/16,
+50:42 something like that. So that if I were
+50:44 to go pull a view
+50:48 like so
+50:50 and if in this view we are hiding the
+50:54 display layers of the exterior side of
+50:55 this wall. I'm just going to kind of
+50:57 blow up this plan for a second just to
+50:59 show this exterior layer one. Exterior
+51:03 layer two will reveal my plywood. And
+51:07 then I would need to make sure that
+51:09 cabinets are turned on because I used
+51:11 the cabinet. I used a base cabinet. And
+51:13 then we also need to make sure that
+51:15 doors and drawers are turned on. And so
+51:21 last thing I need to do is I have that
+51:23 on a particular layer. So CAD BWP. And
+51:27 there she is. And obviously she wasn't
+51:30 placed directly on the ground. Absolute
+51:34 value. Elevation at bottom 0 in. Let's
+51:37 make it that. So now it's sitting on the
+51:40 flooring in this case. Now, I could make
+51:42 it, you know, stretch all the way down
+51:44 here. But this is what's great in this
+51:46 view. I just get to kind of expand this
+51:47 up. Now, you might do a little um a
+51:51 little clip so that you don't show these
+51:54 roof planes. So that you actually show
+51:56 this extended all the way to the top or
+51:57 maybe just turn off your roof planes,
+51:59 you know, hide that layer. But this
+52:02 would be a way that we could come in
+52:03 here,
+52:05 add everything I don't need, and be able
+52:07 to show a brace panel playing like this.
+52:11 Now, here's the next step of this. The
+52:13 reason I haven't fixed those things yet
+52:15 is because I'm trying to make this
+52:16 system a little bit more robust. Um, and
+52:18 that is that we need to introduce
+52:20 something that is a braced wall line.
+52:23 So, the braced wall line will tell us,
+52:25 you know, if we've got a jog and it's
+52:26 within um 4T, that technically that's a
+52:30 single
+52:32 continuous line. Let me just try to fix
+52:36 this a little bit. Boy, that was a dumb
+52:38 dumb path to take. So what I mean by
+52:40 that is that essentially this is a
+52:43 single brace wall line because our
+52:46 difference here is less than 4T. This is
+52:48 considered one exposure. Okay. And so
+52:51 our brace wall paneling is calculated
+52:54 based on that brace wall line. And then
+52:56 it takes into effect some other things
+52:57 like number of stories etc. The trick is
+53:01 to be able to try to get a system that
+53:02 works without using poly lines because
+53:04 poly lines are something that takes a
+53:06 lot more user input and is more of adv
+53:09 advanced system. What I mean by using
+53:12 poly lines is is that maybe we're
+53:14 needing to get the area from something
+53:16 in this calculation. And an easy way to
+53:18 do that would be from utilizing just
+53:20 drawing a closed polyline. Closed
+53:24 polyline would be this.
+53:28 Right? And so we can easily get area
+53:30 from this 72 square foot and use it in
+53:34 some kind of a calculation.
+53:36 Um, so anyways, that was a really long-
+53:39 winded explanation of how that works.
+53:42 And I feel like we're
+53:44 almost over here. Uh, let's see. What do
+53:48 we have here? I'm sure you guys have a
+53:50 lot of questions. Let's see.
+53:53 Yeah. And then you put your name on it.
+53:55 Victor's a bad designer. [laughter]
+53:58 That's
+53:59 absolutely I've seen that. I've
+54:01 definitely told people to get my name
+54:02 off your document if you're going to do
+54:04 that. Yeah. [laughter]
+54:07 Uh any word on if there will be any
+54:09 additional features in the official
+54:11 release of X18? Uh no idea, but I have
+54:16 my guesses.
+54:18 Um,
+54:21 I know that people have seen that
+54:22 dialogue box come up where it's showing
+54:24 that it's missing a font and and that's
+54:26 because Chief Architect introduced
+54:29 subfamilies of fonts. Subfamilies and
+54:33 they changed the way fonts uh were
+54:36 recognized I think for just uniformity
+54:38 across um PC and Mac because they were
+54:42 they were utilizing different parameters
+54:44 when you imported a font. But my
+54:47 inclination, my guess would be that, you
+54:50 know, we've been asking for rich text in
+54:52 room labels for so long. I think that
+54:55 whole font subf family thing might have
+54:58 been a stepping stone to be able to get
+55:00 rich text into things like labels. Boy,
+55:03 would I hope. Um, so that's my that's my
+55:06 private hope that maybe that makes it
+55:09 into the final version. Other than that,
+55:11 um I've reported a ton of glitches and
+55:14 and the response from the team as always
+55:16 is like, "Hey, we're going to fix that
+55:18 before we release it into final
+55:19 version." So, I just know that they're
+55:21 going to be fixing a lot of things that
+55:23 I needed them to fix. I'm very excited
+55:25 about that. Um and then my other
+55:28 personal hope is that we get some kind
+55:30 of way to export toolbars as well as
+55:32 some additional management tools in the
+55:34 asset manager. But, you know, I couldn't
+55:37 tell you if there's new features or not.
+55:39 It's been pretty radio silent on that
+55:41 front.
+55:43 Um
+55:49 I Let's see. Victor, I'm not seeing what
+55:51 this comments are in regards to. Can you
+55:53 delete it from the folder? Not through
+55:54 the chief, but on the outside. I'm not
+55:56 sure what that comment is. By the way, I
+55:58 have a meeting right at 10:00. So, I'm
+56:00 going to have to call this early,
+56:01 unfortunately. And then any word on if
+56:04 there Let's see. No, deleting 6500
+56:06 library last night. 100 at a time. Oh,
+56:09 yeah. Yeah. I mean, I imagine they're
+56:12 going to fix that problem. If you didn't
+56:13 know this, deleting certain people's
+56:16 libraries,
+56:17 go update them is really challenging.
+56:20 What I would love to have happen is the
+56:22 ability to replace library objects as
+56:25 opposed to having to delete them in
+56:28 order to replace them. Um, because right
+56:30 now it's really hard to delete the
+56:32 libraries and it takes a really, really
+56:34 long time. And the best method that I
+56:36 have for deleting libraries, if you need
+56:38 to do that, is um just go to your
+56:41 filtered results, grab like, you know,
+56:43 three, four, 500 at a time and and
+56:46 delete them. Seems to be the fastest
+56:48 way. Um but what a pain in the butt.
+56:53 Uh I have a place on my plan that shows
+56:55 the stage, concept, progress, final
+56:57 review, bid only, or permit plan. That's
+57:00 cool. um design guy, have you built that
+57:03 into like kind of a macro system?
+57:05 Because that would be very cool. I
+57:07 wonder what we have accessible to us in
+57:09 that regard if we're just go bring a
+57:11 text box, go to global, go to project
+57:14 info, document info, um you know,
+57:19 project name would be a way that you
+57:21 could do that pretty easily. Um,
+57:30 view name, drawing, scale, living area,
+57:32 layout info.
+57:34 Yeah, I would think project name might
+57:36 be a way that you can put a conditional
+57:39 thing in there to check, you know, what
+57:41 it is, right? So, if we do um project
+57:44 name, but we're parsing
+57:47 um something from this. I can't remember
+57:49 if we can do this directly or not and
+57:51 and what the syntax is because I'm gonna
+57:53 screw this up real quick, especially
+57:55 when it's an internal macro like this.
+57:58 So, it might be that Let's see if I can
+58:01 get tricky real quick.
+58:07 Um, can I
+58:11 just get
+58:17 what's the syntax? I don't know what the
+58:19 syntax is. I was just trying to get a
+58:20 part of that project name. I know
+58:22 there's a way to do it. Um, so that
+58:25 would be coolest if you put um concept
+58:27 in the name itself and we're be able to
+58:29 just pull that in automatically.
+58:32 Maybe that'd be helpful. I don't know.
+58:33 We'll have to discover that. Speaking of
+58:37 schedule, is there a quick way to update
+58:38 the view in layout to reflect the new
+58:41 schedule size?
+58:44 A quick way to update the view in layout
+58:47 to reflect the new schedule size?
+58:51 I'm not sure what you mean. Tell me more
+58:54 about that.
+58:57 And can you lock the width if it
+58:59 iterates downward?
+59:04 Yes, absolutely.
+59:06 Um,
+59:08 but you have to manually resize your
+59:10 columns
+59:11 for that to commit.
+59:14 Um, that is why I have, you know, I'm
+59:16 sorry, I want to hit all these
+59:17 questions, but I have a meeting right at
+59:19 10:00. Um, in my schedules, when you go
+59:22 look at my um all of my schedules, there
+59:25 is
+59:28 there is a
+59:31 non heading here that has a certain
+59:35 amount of blank character spaces that
+59:38 det that makes every column the same
+59:40 exact size. That was my method for doing
+59:43 that. So that no matter how many
+59:44 cabinets in here you've got, it's going
+59:46 to, you know, pull correctly. So, um,
+59:50 just to keep that in mind.
+59:52 Okay.
+59:54 Uh, let's see. What is the best way to
+59:56 find a texture that is slowing down a
+59:57 current plan?
+1:00:00 Um, go pull a 3D view and go see what
+1:00:03 what textures is um, got a custom
+1:00:06 pattern file on it and get rid of it.
+1:00:09 Get rid of that custom pattern file.
+1:00:12 I use the baked in glass panel door, but
+1:00:14 what we prefer is have a panel or two
+1:00:16 panels at the bottom. You know what? I'm
+1:00:18 not going to be able to get to the the
+1:00:19 rest of these. I'm so sorry guys. I got
+1:00:21 to shut the show down. I will change my
+1:00:23 scheduleuler so that people can't book
+1:00:24 right at 10:00. Um, and that way that'll
+1:00:28 help everybody out. So, sorry, sorry,
+1:00:31 sorry, sorry. I want to touch on these.
+1:00:33 Try to uh jot these down for next time
+1:00:36 and ask me again because I'll definitely
+1:00:39 come back and answer these.
+1:00:42 Yeah. Thanks for watching though. I
+1:00:44 appreciate it. See you next time.

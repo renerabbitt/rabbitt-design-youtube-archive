@@ -99,12 +99,12 @@ def youtube_embed_url(url: str, video_id: str) -> str:
 
 
 def read_text(path: Path) -> str:
-    return path.read_text(encoding="utf-8") if path.exists() else ""
+    return path.read_text(encoding="utf-8") if path.is_file() else ""
 
 
 def build_index() -> dict:
     catalog = json.loads((DATA_DIR / "videos.json").read_text(encoding="utf-8"))
-    ready_videos = [video for video in catalog["videos"] if video.get("status") == "ready"]
+    ready_videos = catalog["videos"]
     playlist_membership: dict[str, list[str]] = {}
     for playlist in load_playlists():
         playlist_id = playlist.get("id")
@@ -150,6 +150,7 @@ def build_index() -> dict:
                 "chapters": chapters,
                 "playlistIds": playlist_ids,
                 "transcript": transcript_body,
+                "transcriptAvailable": bool(transcript_body.strip()),
                 "searchText": " ".join(
                     [
                         video.get("title", ""),
@@ -192,7 +193,7 @@ def build_index() -> dict:
         "stats": {
             "totalVideos": len(catalog["videos"]),
             "readyVideos": len(videos),
-            "transcriptVideos": len(videos),
+            "transcriptVideos": sum(v["transcriptAvailable"] for v in videos),
             "playlistCount": len(playlists),
         },
         "taxonomy": taxonomy,

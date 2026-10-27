@@ -1,0 +1,1541 @@
+---
+videoId: 7SUobeky1a8
+title: Template Tuesdays #29 - Programming A 3d Connexion Mouse with ChatGPT Part 2
+url: "https://www.youtube.com/watch?v=7SUobeky1a8"
+status: imported
+---
+
+# Transcript
+
+0:00 Uh, we're live. Round round two of
+0:03 programming the 3D connection mouse. Uh,
+0:05 if you're not if you didn't watch the
+0:07 last episode, know that these template
+0:09 Tuesdays, they get put into my
+0:11 membership area. Um, I left quite a few
+0:14 of them up in the public side for a
+0:15 while, but they just got put into the
+0:16 membership area. So, um, hope you're
+0:19 either watching it live or you're a
+0:21 member and then you can go watch this
+0:23 stuff. The previous the part one video.
+0:27 So, that's in the membership area. And I
+0:29 was going over just programming the 3D
+0:31 connection mouse. And if you were there
+0:33 for that, just know that um I had some
+0:36 problems along the way that I've since
+0:38 fixed. Sometimes it's easier to just me
+0:41 get in what I call get in the lab and
+0:43 and mess around and fix some things. And
+0:46 so, I'm going to talk about what I fixed
+0:48 and then I'm going to talk about what a
+0:50 community member discovered and brought
+0:52 to my attention. and and what an awesome
+0:56 awesome thing that discovery was, but
+0:58 I'm going to wait till a few people get
+1:00 in here before I let you know what that
+1:01 discovery was and how it works. And
+1:05 yeah, so let's just kick off. Uh we see
+1:07 some one person in the chat. Um that's
+1:10 Mr. Shane Pitman. Thank you for being
+1:12 here. And oh, that was funny. Time
+1:16 tracker just popped up as I was trying
+1:17 to move my window.
+1:20 Collaboration. Yes, collaboration was um
+1:23 I love when when the community brings to
+1:27 my attention something I've never seen
+1:29 before or didn't think of to go check
+1:31 before. Um it's it's not super common,
+1:34 but it happens every once in a while and
+1:36 it's exciting. Um it really is sometimes
+1:40 the community brings you stuff that just
+1:43 uh man just such cool stuff. So I love
+1:48 that people are out there experimenting.
+1:50 I love that. Maybe somehow these videos
+1:53 are encouraging you to go try some
+1:55 things out, to learn some new tricks,
+1:57 etc. I do also have a new video in the
+2:00 public area of my website, and it's um
+2:03 what we see in front of us right now is
+2:04 this little double vanity. I do a little
+2:07 skills challenge just to show you how we
+2:09 can use hotkeys, but more than that,
+2:12 just practice workflows that get us to
+2:14 an end result much faster. So, if you
+2:16 didn't get a chance to go check that
+2:17 out, please go check that out. I just
+2:19 build this uh whole assembly right here
+2:22 about four times and I show you the
+2:24 different ways of doing it kind of
+2:25 beginner, intermediate, advanced and
+2:27 then advanced with my tools. Uh just to
+2:30 show you how to build this in just a few
+2:32 minutes time. So I think I built this in
+2:35 I don't know couple minutes uh just
+2:37 using utilizing the tools that we have
+2:40 at our disposal for hotkeys etc. So, um,
+2:44 it starts off with like, um, you know,
+2:47 the beginner level is probably more like
+2:49 five, six minutes to build this. Uh, and
+2:51 still that's fast. That's just utilizing
+2:55 some of the tools we have, um, that we
+2:57 could take advantage of. So, namely
+2:59 copy, paste, reflect about, awesome,
+3:01 awesome tools that that they've got in
+3:03 the software. So, go check that out. And
+3:06 then, of course, this template Tuesday
+3:08 is always a chance for me to say, "Hey,
+3:11 I sell things. Go check them out on the
+3:13 shop on my website. It's probably link
+3:14 in the description of this video. So,
+3:17 um, I sell things to make your life just
+3:19 be easier, more efficient, um, less
+3:22 liability, all that stuff, all the good
+3:24 stuff. Okay, hotkeys.
+3:28 So, what I discovered from last time,
+3:32 uh, when we were kind of digging around
+3:34 in a file explorer, and let me just get
+3:37 a file explorer up in our window here.
+3:40 when I was digging around in File
+3:42 Explorer, getting into um the app data
+3:45 on a PC app data folder. And mind you, I
+3:49 don't have a Mac. I don't know how to
+3:50 tell you how to do these things on a
+3:52 Mac. Um I don't have that operating
+3:54 system. Just know that a Mac, I believe,
+3:57 uses Plisted
+3:59 an XML file for its configurations. So,
+4:04 um, maybe you go take that information
+4:06 and try to translate it in your AI to
+4:09 understand how you might be able to
+4:10 modify this kind of stuff on the Mac. I
+4:12 know that it's possible at the root core
+4:13 of everything that's in the 3D
+4:15 connection, you know, config files is
+4:17 that it is configurable. You should be
+4:19 able to edit these things. They are
+4:20 simply um, they're simple written, you
+4:24 know, programming language. So, you
+4:25 should be able to do everything I'm
+4:26 doing here on the Mac side as well. So,
+4:30 in the app data folder, I had a number
+4:34 of different XML files that were um that
+4:37 were here and outdated. And then on top
+4:40 of that, in the program files folder,
+4:44 just get program files
+4:47 and into 3D connection, I also had a
+4:51 cheat um chief architect in the 3DX wind
+4:54 core folder. Okay.
+4:59 um and in the config folder here.
+5:04 And so I had a chief architect version
+5:05 here. And so something was happening in
+5:08 my chat GPT written um config files
+5:12 where it was not reading those files.
+5:14 And so it was skipping past the file
+5:17 that's in the app data folder and going
+5:20 back to the 3DX wind core uh folder
+5:23 that's in my program files. And so it
+5:25 was finding a chief architect XML that
+5:27 shipped with the software there. Okay,
+5:30 here's what the problem was. I was using
+5:32 a really outdated version of the XML
+5:35 file. And so when chat was trying to
+5:37 rewrite it, it was rewriting it
+5:39 according to some of the newer
+5:40 parameters while still leaving some of
+5:43 the older parameters and it was just
+5:44 becoming an invalid file. So I pretty
+5:48 much just kind of like started over with
+5:51 that thought process and I had to give
+5:52 chat that info to get it to write.
+5:54 Here's what we know. 3D connection will
+5:57 read from that app data folder first if
+6:00 it has a valid XML file that will
+6:02 supersede any XML file that comes with
+6:05 the program that's shipped in the
+6:06 program files directory. All right. So,
+6:09 so long as you have something valid,
+6:12 that's how you would test it. And a
+6:14 really easy way to test if your system
+6:16 is working is you come into tools,
+6:19 hotkeys. And I'm just going to show you
+6:21 this utilizing pneumonic keys, which we
+6:24 have on the PC side. Mac users, you do
+6:27 not have this. I wouldn't even try going
+6:29 and figuring out how to recreate this.
+6:31 It's not possible. I've tried at least
+6:34 three times a year for the last 5 years.
+6:37 So, on a PC side, pneumonic keys is if
+6:40 you tap your alt key, and I'm going to
+6:42 just show you this zoomed in. Tap your
+6:44 alt key. We're going to see some
+6:46 underlined letters here. From those
+6:48 underlined letters, I can see that I can
+6:50 hit the T key for tools, the K key for
+6:53 hotkeys, and yet again the K key for
+6:56 customize hotkeys. Notice that the K is
+7:00 underlined. Here's the thing about this.
+7:03 I found that in training this in real
+7:05 time, in person with people, they tend
+7:08 to still try to use their mouse. That's
+7:10 the point of all this. Don't touch your
+7:12 mouse. It's just going to confuse this
+7:14 system. All right? Keep your mouse far
+7:16 away from this. just use the underlined
+7:18 keys instead from your keyboard. So, K
+7:21 key, K key. That's going to get me to
+7:23 customize hotkeys. And then when I want
+7:25 to test that my macro is actually
+7:28 working in my 3D connection mouse, click
+7:30 on something. Doesn't matter what, click
+7:32 on the assign and then use your radial
+7:35 menu and it will punch in those hotkeys
+7:38 for you. Whatever you had it programmed
+7:39 to do, right? So, you can see here I've
+7:43 got a few things programmed.
+7:46 Being able to punch these things in,
+7:47 check, take a look what they're doing.
+7:49 Okay. Now, that just lets me know that
+7:52 my hotkey is working. I want you to um
+7:56 there's some new information here. And I
+7:58 have not created an order list of this
+8:00 yet. But in X18, there are some
+8:04 combinations that no longer work. They
+8:06 don't even register. And and some of
+8:09 those combinations have to do with shift
+8:11 as a modifier. Um I couldn't even tell
+8:15 you which ones they are, you know,
+8:16 without having to go through every
+8:19 possible combination to see which ones
+8:22 won't even show up when you use them,
+8:26 but they are there and and they have
+8:28 more to do with sequential keys where
+8:30 I'm just doing, you know, a shift H,
+8:32 shift J, something like that. So there
+8:34 are some that just don't work anymore.
+8:36 Um, I don't know what's going on that
+8:38 with that. They're reserved or something
+8:39 like that. Some kind of internal
+8:40 program. So, just know when you're
+8:42 testing these things, some hotkey
+8:44 combinations just flat out won't
+8:46 register. They won't work or they'll be
+8:48 conflicting or something like that. So,
+8:50 it might take a little bit of testing
+8:51 for you to build out a list of hotkeys
+8:53 that are available and that actually
+8:55 work in the software.
+8:57 Uh, let's see. Morning. Let's just look
+8:59 at the chat for one second here.
+9:03 Bye-bye, Shane. Yeah. All right, we've
+9:06 got Sharon's in here. Nice. Sharon,
+9:09 you're a member. Cool. Welcome to the
+9:12 fold. Hopefully find some good stuff in
+9:14 there. Uh, and Merlin's been a member
+9:17 for a long time now.
+9:20 And then I think Alpha Investments is is
+9:22 that Pino? I can't am I saying your name
+9:24 right? And then Mr. Peek, held off
+9:27 redoing all my hotkeys and space mouse
+9:29 till this day. And then good morning
+9:32 Douglas. And good morning, Anthony. Um
+9:36 Todd, I am so glad you're in here and I
+9:39 am so grateful for you. Um Todd is the
+9:42 community member that helped find this
+9:44 little trick that we're about to share.
+9:45 We might as well share it, right? Um he
+9:49 found this trick. And what a cool trick.
+9:52 And here's what it is is that uh you
+9:55 have the ability to import or export
+9:58 hotkeys. Okay? And um that hotkeys file
+10:03 is similar to the config files for the
+10:05 3D connection mouse. They are XML files.
+10:08 Okay,
+10:10 let me see if I can go find this. Let's
+10:12 just open up another browser window. And
+10:14 so wherever you might have stored your
+10:18 um if you get into Chief Architect and
+10:21 you want to go look at
+10:23 preferences, folders,
+10:25 the folders panel. Okay. And then you
+10:29 could show all program paths and you can
+10:31 see things like where your root data
+10:33 folder is. Okay. And so your root and
+10:37 another easier way to even see that is
+10:39 unmanaged data folder. Okay. Wherever
+10:43 that location is is going to be a
+10:45 location for userbased hotkeys.
+10:50 Let's go find mine. Mine's in my C
+10:52 drive. I keep it off of any cloud
+10:54 service. Um, I find that it just messes
+10:56 with things. So, I don't want that. I
+10:58 put my backup in a cloud service. So, I
+11:01 can always back up to my use that to
+11:03 back up. So, I don't need my core data
+11:06 files in a cloud service. Uh, it just it
+11:09 confuses things, complicates things. So,
+11:12 X18 and then I've got a hotkeys folder
+11:15 here. User hotkeys XML. Now, let's go
+11:18 look at this.
+11:23 And where is it on my screen? I got to
+11:25 go find it.
+11:27 Oh, funny. It's a little tiny thing.
+11:29 There we go. Here we are. Here we're
+11:31 looking at it. Now, I'm using a software
+11:34 called Notepad++. This is a great
+11:36 scripting software because you can
+11:38 change the language that's being
+11:40 utilized. So, if I'm coding in Ruby, I
+11:43 can switch to Ruby. And what it will do
+11:44 is it will do things like this where
+11:46 it's, you know, creating a um an open
+11:50 and close parameter. so we can minimize,
+11:52 truncate things um so that it's easier
+11:54 to code. It's also going to color code
+11:55 things to make it a lot easier to
+11:58 understand. Now, here is what is
+12:00 interesting about this, and I'll and
+12:01 I'll tell you the path I think that Todd
+12:03 took to get to here, which is I believe
+12:06 um and correct me if I'm wrong, Todd,
+12:10 but uh I believe that he just sent this
+12:13 into chat GBT or Claude and said, "Hey,
+12:16 just assign a hotkey, any available
+12:19 hotkey to every single ID in this
+12:22 hotkeys list, and then I'll import it."
+12:24 And then in testing it, he found out
+12:27 suddenly, drum roll please, suddenly
+12:31 some of the custom toolbar items that I
+12:34 have on my toolbars
+12:36 could be accessed from those hotkeys.
+12:39 And he's like, I discovered something. I
+12:41 don't know how this works, but this is
+12:43 or maybe you didn't know how it works,
+12:44 but you know, here we are. I've somehow
+12:47 been able to assign a hotkey to things
+12:50 that are on your toolbars, which are
+12:51 library items. Okay. So, let's talk
+12:55 about how this is working. If I scroll
+12:58 down all the way to the bottom of this,
+13:00 I want you to notice something. We've
+13:02 got
+13:04 we've got some key codes here. Actually,
+13:06 this is not is this correct? Yes. We got
+13:09 some key codes here that their IDs are
+13:12 in the 2300 block. Well, the 2300 block,
+13:16 I knew this as soon as he told me this.
+13:19 I knew this because I've been scripting
+13:20 my own toolbars for a really really long
+13:22 time. 2300 block is custom tools on your
+13:26 toolbars.
+13:28 How do we know this? We can get into
+13:32 backup. Okay, so we go file backup,
+13:34 backup and restore, backup, manage
+13:36 resources. That's going to create a
+13:38 backup. Um, this could take anywhere
+13:40 from 15 minutes on up to an hour or two.
+13:43 It depends on how many projects you have
+13:44 in your project browser. Okay. And then
+13:48 let me go look at where my backup is.
+13:50 Let's go open up a fourth location
+13:52 projects. And let me get into project
+13:55 backups. And so here's the last backup
+13:57 I've done. And so inside of the backup,
+14:01 this is just a zip archive. Inside of
+14:03 the backup is our settings folder.
+14:05 Inside of the settings folder, these are
+14:08 all your toolbar configurations. Not to
+14:10 me uh not to mention that it has um a
+14:14 couple JSON files in here. and um and
+14:17 some data files in here that have to do
+14:19 with how a custom library object um how
+14:25 it's identified. Okay. And then on top
+14:27 of that, it's got a bunch of images if
+14:29 you have assigned an image to your
+14:32 toolbar icon, which I make my own um
+14:35 toolbar icon. So all these guys, all
+14:38 these right here, these are all things
+14:39 I've drawn.
+14:41 I don't know why I said it like that.
+14:43 Drawn.
+14:44 These are all things I make. Um I do
+14:47 these on airplane flights. They're very
+14:50 um therapeutic for me to do. So I I drew
+14:52 all these. Anyways, that's what all
+14:54 these image files are in here. Okay. And
+14:57 then and then you've got your if we
+15:00 expand this, if we sort this, let's just
+15:03 group this. I'm going to group this by
+15:04 type so we can see this. Um and I'll
+15:07 minimize a couple things here. So then
+15:09 we've got our toolbar files. Now, if you
+15:11 were to go open up one of these toolbar
+15:13 files, and mind you, this is in a zip
+15:15 right now. So, it's a good idea to just
+15:17 extract all of this data. So, you
+15:19 extract all this data and you go take a
+15:22 look at what's in here. And let me just
+15:23 open up one of these. Okay. And what
+15:26 you'll see here, I'm going to see if I
+15:28 can line this up with something that's
+15:30 um already exists in my toolbars, is uh
+15:33 for one, they're in alphabetical order.
+15:35 That changed at about x15 or x16, I
+15:38 think. Um, I think it was X16 they
+15:40 switched this. So everything's in
+15:42 alphabetical order. So if you get into
+15:45 your toolbar configurations
+15:49 and instead of just letting Chief
+15:51 autoname your toolbars, you could in
+15:54 fact come in here. Just see if I can
+15:56 expand this a little bit. You can in
+15:59 fact come in here and name these
+16:01 anything that you want. You just get to
+16:02 click on these, click on it a second
+16:04 time, rename it or click on it. Um the
+16:07 F2 key for some reason does not work in
+16:08 this view. So you have to single click
+16:10 and click again and then rename these.
+16:13 These will now be named in your backup
+16:16 according to what your naming convention
+16:18 is here. Okay. And so if I get into
+16:20 where my kitchen um let's just say
+16:23 kitchen appliances are. Here's where
+16:26 we're seeing these key codes. And so
+16:28 what I can tell you is the 100 is a
+16:31 blank space.
+16:33 Okay. 330. This is going to be in um
+16:37 some default tool in Chief Architect.
+16:39 Any number like this 643, that's some
+16:41 default tool in Chief Architect. The
+16:43 2300 blocks are custom tools. You can
+16:46 have from 2300 to uh let's see what
+16:51 would it be? I'm excuse me, 23,000. I
+16:54 keep calling it 2300. You could have
+16:56 from 23,000 to 23,400. So 400 um
+17:00 possible custom toolbar icons and then
+17:04 everything else is just a built-in tool.
+17:06 So this 23229
+17:09 in let me just go to kitchen appliances.
+17:12 Let's go 23161
+17:14 kitchen appliances
+17:16 quite literally is this item right here.
+17:20 Okay. And so how do I know that? Well,
+17:24 thankfully in that same config, if you
+17:26 get down to the bottom and let's just
+17:29 search this 23160. Okay, I'm going to
+17:31 copy this. CtrlF is a very common key
+17:36 um combination for find. Um and so I'm
+17:40 going to just search for that 2361.
+17:43 And we're going to see here there it is.
+17:46 And in this listing, it shows us what
+17:48 this is dishwasher.
+17:51 So you have an index of what all those
+17:53 codes are within the same file. So if
+17:56 you take this from an editor and explain
+17:59 this to something like chat GBT and say,
+18:01 "Hey, every one of these key code
+18:03 combinations um these key combinations
+18:06 starting in the 2300 block,
+18:09 uh 23,000 block, excuse me, there's a
+18:12 listing an index of what that item is."
+18:15 Okay? And what that item is and how we
+18:18 understand that is that it's the it's
+18:20 the code number and then directly
+18:22 following that it's the item and then
+18:25 there is no space between the next code
+18:27 number. So explain that to your chat so
+18:29 that it understands what every one of
+18:32 these is. So to just take this full
+18:34 circle here's what's happening. We make
+18:37 a custom toolbar configuration. We go to
+18:40 customized toolbars. We use the place
+18:43 library object tool.
+18:46 So, in tools,
+18:49 search place library object. It's this
+18:52 guy right here. You can click, drag, and
+18:55 place this guy onto your tools. If you
+18:58 place it on top of an existing icon,
+19:00 which is what I'm doing right now. I'm
+19:01 right on top of it. It's going to remain
+19:03 in this toolbar. If I place it to the
+19:06 right of this, it's going to start a new
+19:08 toolbar that I will then go rename. All
+19:12 right. So, if I place it right on top,
+19:14 there we go. That would be in my custom
+19:15 place library object. I can close this
+19:17 out. I can link this to some library
+19:20 object. Name it according to what I'd
+19:22 like to name it. I could browse to
+19:24 change what the button icon is. And then
+19:27 it will be listed in my toolbar
+19:30 configuration when I go do a backup and
+19:33 extract that those um toolbar
+19:35 configurations.
+19:37 So once you have those extracted and you
+19:40 want to in install them because you've
+19:42 um you've done a few edits if you're
+19:45 getting bold enough to do edits in some
+19:48 kind of an editor like that which is the
+19:50 only way you can transfer one toolbar to
+19:53 another toolbar configuration. It's the
+19:55 only way you can do it besides just
+19:58 creating a configuration that has all
+20:00 possible toolbars, duplicating it and
+20:02 turning other toolbars off. That would
+20:03 be one other way of doing it which is
+20:05 very timeconuming. So if you want to
+20:07 transfer something, the way you have to
+20:09 transfer it is you have to just
+20:11 basically start by creating some toolbar
+20:15 in every configuration and then you
+20:17 could go into a text editor, copy them
+20:19 over and then get into customized
+20:22 toolbars and reimpport. So if I had
+20:24 extracted all those toolbar
+20:26 configurations, I could just reimpport
+20:28 them even if I've edited them. Just keep
+20:30 in mind you might have broken, you know,
+20:32 the edit by doing something wrong. Maybe
+20:35 your syntax is wrong. So, um, just bear
+20:38 in mind anytime we're modifying software
+20:40 outside of the software, Chief
+20:41 Architect's not going to help you with
+20:42 that. You might need to reset some
+20:44 things. Um, so that's that's my that's
+20:48 my like logistical warning to you. You
+20:51 know, if you're going to edit some of
+20:52 this stuff, just bear in mind, keep some
+20:53 backup copies, right? So that we're not
+20:55 breaking our software. So, that being
+20:59 said, now we know that 161, that's the
+21:02 de the the dishwasher. All right. When
+21:05 we go look at our user hotkeys, I could
+21:09 go search for that same thing. 23161.
+21:12 There it is. And now I get to assign
+21:16 some hotkey to this. And so what happens
+21:19 when we import hotkeys and the only way
+21:22 you can import hotkeys, by the way, is
+21:26 that you have to have a plan file open.
+21:28 Otherwise, the file menu will not give
+21:30 you the import button here. Okay? with
+21:34 no file open, you don't get the import.
+21:36 Keep that in mind. That's something that
+21:38 you could miss if you know if I didn't
+21:40 otherwise state it. And so then we get
+21:42 this import hotkeys.
+21:44 All right. So what I did was I modified
+21:47 my hotkeys according to that key coding.
+21:51 So once again, we've got a custom place
+21:53 library object
+21:55 that gets a uniquely assigned ID in your
+21:58 toolbar configuration. we have to create
+22:00 a backup to get access to that toolbar
+22:02 configuration. Okay, so we even know
+22:04 what to look for. We can take that um
+22:08 that those toolbar files, go examine
+22:11 them, find out what the coding is. All
+22:14 right, then you go into that hotkeys XML
+22:17 and assign keystrokes to those
+22:20 associated codes. I would say you're
+22:23 going to want to use some kind of AI for
+22:25 this. It's going to it's going to make
+22:26 this process a lot more simple,
+22:28 especially if you're doing some kind of
+22:31 agentic AI, right? That's just going to
+22:34 make it really easy. I just get to do
+22:36 voice to text and tell it, hey, I would
+22:38 like to assign this radio menu on my 3D
+22:41 connection mouse with that hotkey, and
+22:44 it does it for me. Now, if you've seen
+22:47 my hotkeys series, which is several
+22:49 years old now, you'll know that I do
+22:51 what I call a stack. So a stack to me is
+22:55 one swipe past the bounds of this pi
+22:57 slice here and it's going to what is it
+22:59 going to do? It's going to do the action
+23:01 of that pi slice which is there's some
+23:03 hotkey attributed here. We saw this if I
+23:05 use pneumonic keys alt kkk gets me in
+23:08 hot keys and I pick something here and I
+23:10 do that same swipe. Here's what happens.
+23:13 BD. Okay. So what's the next part of
+23:18 what I call a stack? Well, if I hold
+23:21 control on, if you're looking at my
+23:23 camera on the I have control and shift
+23:25 programmed to the side of my mouse.
+23:28 They're right here at my thumbs. I got
+23:30 six but or yeah, six buttons over here.
+23:32 So, two of them are See, can I get that?
+23:35 There we go. Two of them are control and
+23:37 shift. Okay. So, if I hold control while
+23:40 I swipe through that same thing, we
+23:43 already see that this is BD. We
+23:45 understand that. So, if I hold control
+23:47 with it, there we go. Crl + B. Crl + D.
+23:50 Same thing. That right mouse, my thumb
+23:53 is on the shift button now. There we go.
+23:55 Shift Bd. Now my thumb is on control and
+23:59 shift together. Yeah, I can actually do
+24:01 that on this mouse. Now I've got
+24:02 control, shift, controlB. So that to me
+24:04 is a stack. It's a four position stack.
+24:07 All right, that means I get four hotkeys
+24:10 out of one pie slice. Pretty cool. So
+24:15 just showing this in action. There's my
+24:16 base cabinet. Here's my full height
+24:20 cabinet. Here's my wall cabinet. Right.
+24:24 Makes it really easy to just drop things
+24:25 in here. Here is where we finally get to
+24:28 that customized
+24:30 um where we get to access some of these
+24:33 tools that are just library objects that
+24:35 you otherwise could not get hotkeys
+24:37 assigned to it. Don't even try looking
+24:39 these up in the hotkeys assignment list.
+24:42 Here's what's funny about it. Okay,
+24:44 we're going to show you this. Let's get
+24:46 that altkk again. Hot keys, assignment,
+24:48 3D solid feature. Let me do this. I'm
+24:51 going to
+24:53 let's see. I'm going to get to one of
+24:56 these customize assignments. Look, I've
+24:58 got that same icon for my dishwasher
+25:00 loaded up. YP assign. Look what happens.
+25:05 Chief recognizes that this is assigned
+25:08 to this dishwasher, but you will not
+25:11 find it in that list. So, Chief's
+25:13 recognizing it. you won't find it in the
+25:15 list. Okay. Um, here we go. Bam. I
+25:21 finally have the ability to place my own
+25:25 custom dishwasher without needing to go
+25:28 click on it, which just saves me so much
+25:30 time. So, I'm just now building out a
+25:33 bunch of different hotkey assignments,
+25:37 making life so much easier. And I'm
+25:39 still doing a level stack. So holding
+25:41 control through this gets me something
+25:43 else, right? See that? That picks up a
+25:46 range. I'm staying in series. These are,
+25:48 you know, those are ranges for example,
+25:52 like, excuse me, these are appliances,
+25:53 for example. So, control shift go
+25:55 through there. What do I have now? Got
+25:57 another appliance, right? So, I'm just
+26:00 kind of staying with sequence. You want
+26:03 to just do a quick review of my first
+26:05 batch of hotkeys. I could just show you
+26:07 all the different radio menus. I am
+26:09 using the Space Mouse Pro wireless. All
+26:12 right. Um on my other machine, I'm just
+26:15 using the the single puck. And so that's
+26:18 my road machine. So the single puck is
+26:21 going to have some of my more um basic
+26:23 items, right? But the Space Mouse Pro
+26:26 Wireless with a lot more buttons, that's
+26:28 going to make it so that I can assign a
+26:29 bunch of things. So um I'll just tell
+26:32 you what I'm doing with these. So F key,
+26:35 this is the F key on your Space Mouse
+26:38 Pro wireless if you have that one. So
+26:40 this is just one of the button
+26:41 configurations. This is going to be
+26:43 delete. And then I'm using the X key for
+26:47 delete. Please keep in mind that the X
+26:50 key is a um custom assigned item inside
+26:55 of Chief Architect. If we go look at
+26:58 edit behaviors, you can see that this
+27:01 shows resizes X or the period key. If
+27:05 you assign a hotkey for any of these
+27:08 items, what happens is it no longer it
+27:11 it makes that key invalid for doing its
+27:14 default internal default thing that it
+27:17 was assigned to do. So all these all of
+27:21 these like C for concentric, F for
+27:24 fillet, X. Okay, notice that it does say
+27:27 X or period. So I was not worried about
+27:30 taking up the X key because I could use
+27:31 the period key instead to do the resize
+27:35 action in case I wanted to. Please note
+27:38 there are a couple of key assignments
+27:40 that are not listed here that are
+27:42 internal keys such as the S key. The S
+27:46 key makes it so that you are not um
+27:48 picking up additional
+27:51 um snaps as you are dragging items
+27:54 through uh areas where it could pick up
+27:56 additional snaps. Okay. It also does
+27:59 something unique for the dimension tool
+28:01 now in X18.
+28:03 So, back to what I've got going on here
+28:05 is I've got four different wall types,
+28:08 four different cabinet assignments. Line
+28:10 space cabinet, wall cabinet, full height
+28:12 cabinet, backsplash. got four different
+28:14 door assignments, four different window
+28:16 assignments. So, pass through, niche,
+28:19 that kind of thing. The X key for delete
+28:22 is great because then if you hold
+28:23 control and X, that is a default action
+28:27 across all programs, just like command
+28:30 X, controlX on the PC side, control X is
+28:33 the cut action. So, it's nice if you
+28:36 don't take away that system parameter.
+28:38 So that's why I have delete as X, Ctrl X
+28:41 is cut, which is very similar to delete.
+28:44 I then even have it so that I believe
+28:47 shift X for me um is make wall invisible
+28:52 because that feels like I'm deleting
+28:54 something. So
+28:57 and then I've got, you know, a layer
+28:59 stack of lights. So I've got lights,
+29:01 I've got the uh switch electrical
+29:03 connection tool, and then rope lights.
+29:06 So that's the stack for this. This is
+29:08 going to be standard camera, perspective
+29:10 overview, a cross-section view, and wall
+29:13 elevation camera. All right, so that's
+29:15 the first
+29:17 uh radio menu. Second radio menu. Now
+29:20 that I get this assigned, these custom
+29:21 toolbar icons, which I just love. And
+29:25 again, Todd, you are the man for finding
+29:28 this. Uh, now I've got my exterior wall,
+29:33 interior wall, interior wall, six, room
+29:36 divider, brick wall,
+29:39 uh, board and batten wall, pony wall,
+29:42 and then layer painter. I'll show you
+29:44 why I have layer painter. And this is
+29:46 new and I haven't done any videos on
+29:48 this so people that have my prop plan
+29:50 templates don't know about this, but my
+29:53 walls by default in Chief Architect are
+29:57 um they use layer colors based on the
+30:02 layer fill that the wall lives on. So,
+30:05 the reason I have this is that I no
+30:07 longer need to draw a wall as a new wall
+30:10 where it's a wall on a custom layer such
+30:13 as new wall layer or demo wall or
+30:16 something like that. I no longer need to
+30:18 do scoped walls because instead I could
+30:21 just get to the layer painter and I
+30:23 could do something like choose the demo
+30:25 layer and just spray this wall.
+30:29 And there we go. That clearly is a
+30:33 different wall type. Okay, so same
+30:36 thing. I could just get to that layer
+30:38 painter again and type in new
+30:42 and the search parameter and find walls
+30:45 exterior new right here and just spray
+30:48 this wall. And so that's going to be my
+30:50 new wall instead because I'm just
+30:52 changing the layer it's on and the main
+30:55 wall layer. If I actually just switch
+30:57 some things around here, I'm just going
+30:58 to change this. We can see here that
+31:02 main wall layer is, you know, based on
+31:05 or that main fill style is based on the
+31:07 layer that it's on. All right, so it's
+31:10 really easy for me to just spray all my
+31:12 new walls. Quick and easy, super fast.
+31:16 All right, let's go through what else
+31:18 I've got in here. Okay, so that was the
+31:20 R key. So F key, R key, that's right on
+31:22 my thumb on the space mouse. Above that
+31:25 we've got the T key. This is a lot of
+31:28 just CAD stuff for me. So um closed
+31:30 polyline and then it's going to be some
+31:33 um then it's going to be union
+31:36 subtraction intersection tools. So that
+31:38 which would make some sense. So close
+31:40 polyline. By the way, you can always
+31:42 click on the pi slice. You don't have to
+31:43 swipe past the bounds. But here you go.
+31:45 Close polyline. Close polyline. Select
+31:47 one. I'm going to use that same key,
+31:49 that same uh same hotkey and control.
+31:52 And we can see here that it's some kind
+31:55 of action. In this case, it's union,
+31:57 right? So that's what I'm using that
+31:59 for. So this is the T key on my space
+32:03 mouse pro. But then I've got the line
+32:05 tool and some other actions. Then I've
+32:08 got um trim object, extend object. So
+32:11 here be a line tool. Line tool. Why not?
+32:13 Let's select this line. Trim objects.
+32:16 Trim past that line. There we go. Right.
+32:20 Or line tool. selected. Same hotkey,
+32:24 hold control, and there we go. That's
+32:27 extend. So, you can tell what I'm doing
+32:30 there. Similar actions. They're easier
+32:32 to remember since we don't have a
+32:33 graphical user interface, it's going to
+32:35 pop this up. If you are um instead if if
+32:40 you're not using radial menus and
+32:42 instead you are using a combination of
+32:44 the 3D connection mouse with uh
+32:47 softwares like auto hotkey, I do believe
+32:50 you have the ability to make a graphic
+32:53 user interface where it changes if you
+32:56 click a modifier. meaning that you could
+32:58 get the visual um guey on this
+33:03 uh if you used auto hockey in conjun
+33:06 conjunction with the 3D connection mouse
+33:08 that's just a little bit more than I
+33:10 want to deal with and I and I haven't
+33:11 had any problems uh remembering what the
+33:13 level stack is just from the base level
+33:16 item. Um so then from here this is just
+33:21 um convert a polyline to something else.
+33:24 Right? This is uh the fillet tool
+33:28 separate from just holding the F key.
+33:30 And then I've got just a duplicate of my
+33:32 delete objects. And then I've got a
+33:34 series of solid tools and series of
+33:36 circle tools. So that's on the T key.
+33:39 And then we have the key that looks like
+33:41 a box with a little um rotate arrow. And
+33:45 so in there I'm doing material region
+33:48 stuff. So backsplash default wall
+33:50 material region born batten material
+33:52 region. If you didn't know this, you can
+33:56 just get into a 3D view.
+34:00 Let's come out here. I think I still
+34:02 have
+34:04 auto build roofs turned on. Here we go.
+34:07 So let's try this up. So
+34:11 I can just throw a material region on
+34:13 the end of this. It's set up for board
+34:15 and batten. Pretty cool, right? Do this
+34:18 again. Just a default material region.
+34:22 And I can do something like this.
+34:24 This makes it really easy to set this
+34:26 up. So you can do 3D cladding on top of
+34:29 your wall material regions. Then you can
+34:31 save them to your library. Then you
+34:34 could assign them to some toolbar icon
+34:36 which then makes it so you can assign it
+34:38 to a hotkey. Right? So that's the full
+34:41 process on that one. So yeah, I've got a
+34:44 bunch of different material regions
+34:45 here.
+34:47 Um then we have the rotate puck button
+34:53 and that is um some of the core edit
+34:56 functions. Now I have it set so that my
+35:00 multiple copy actually plugs in multiple
+35:03 copy and multiple copy intervals. So if
+35:05 I just place a cabinet here, um watch
+35:07 what happens when I get into multiple
+35:11 copy right here. Multiple copy goes bam.
+35:13 It goes hotkey for multiple copy. It
+35:16 puts a delay in and then it does
+35:18 multiple copy intervals. So that's two
+35:20 separate hotkeys you need. And so the
+35:23 purpose of this is that
+35:26 on my thumb on my mouse is the enter
+35:29 key. Okay. And
+35:33 here's what's to note about this. If you
+35:36 are new to hotkeys and you have not set
+35:38 this up and you weren't, you know, on
+35:40 board with me on hotkeys from years ago,
+35:43 I would have done one thing differently.
+35:46 I can't bring myself to do that thing
+35:49 anymore. I'm too trained and it's really
+35:51 really hard to train out of it. Is that
+35:54 And I know we can't see my mouse. See if
+35:56 I can get
+35:59 Let's see if we can pump up the light
+36:01 here.
+36:03 is,
+36:05 and you're probably going to hear my
+36:06 voice a little bit louder now. Right
+36:08 now, I have this as the enter key.
+36:10 That's where my thumb sits. Okay. The
+36:13 impact of that is that the enter key
+36:15 does all the same things that the tab
+36:17 key does, plus a little bit more. And
+36:21 so, it's really powerful to have the
+36:23 enter key on your mouse. I have it in
+36:25 this center position. That's where my
+36:27 thumb lives, and that's the button I hit
+36:28 the most. Now I have this as control
+36:31 shift. These two forward keys. My nail
+36:34 is broken. This looks funny. So these
+36:36 two forward keys. That's my control
+36:38 shift. If I were to do it all over
+36:41 again, I would have put the control and
+36:43 shift in the middle. Why? Because I can
+36:46 hit the shift plus this forward button
+36:48 together. I can hit the shift plus this
+36:50 backward button together. I would have
+36:52 gotten more out of out of this if I had
+36:54 started with that. All right. I would
+36:57 have been able to just do more. So
+36:59 that's just something to keep in mind.
+37:02 I'd still need the enter key on here.
+37:03 So, you know, the control modifier
+37:05 wouldn't be as useful. We'd still get
+37:07 control and one other button, but with
+37:08 the shift, we'd get a little bit more.
+37:11 All right. So, if I were to do it all
+37:12 over again, that's what I'd do.
+37:16 So, back to why why the enter key, why
+37:20 that's impactful. For one,
+37:23 edit preferences.
+37:25 the very first item in preferences under
+37:28 appearance.
+37:29 Uh, excuse me, not the first item in the
+37:32 text panel.
+37:34 Uncheck enter key and text field. Create
+37:37 new line. Okay. What is this doing?
+37:41 Well, when this is unchecked, the enter
+37:43 key no longer starts a new line in a
+37:46 dialogue box. All right. So, you're
+37:48 typing something out, you hit enter for
+37:50 a new line. That's no longer how you get
+37:52 a new line. You get a new line by
+37:54 holding shift plus enter. What does that
+37:56 mean? That means the enter key now can
+38:00 hit whatever button is highlighted.
+38:03 See my okay button. It's highlighted. So
+38:06 my hand is on the thumb. Bam. Enter key.
+38:10 What does that also mean? Enter key does
+38:12 all the things that tab does. I want to
+38:14 select something here. I could hit the
+38:16 enter key to select something else.
+38:18 Okay. If I want to move this a specific
+38:22 distance, I could hit the enter key to
+38:24 bring up enter coordinates. I could type
+38:27 something in with my left hand and I
+38:29 could hit that same button on my mouse,
+38:31 enter key to hit this. Okay. So, it just
+38:34 makes it a powerful tool. So, back to
+38:38 what I'm doing with just multiple copy.
+38:41 I'm just doing the multiple copy and
+38:43 then multiple copy interval because if
+38:47 that number right there is the number I
+38:50 need, I just get to quickly hit my thumb
+38:52 button to say okay and start dragging
+38:55 everything out at 24 in. Right? So, show
+38:59 you how quick that is. I just get to hit
+39:01 that again. Bam. And I get to hit enter
+39:03 on my keyboard already because I already
+39:04 knew it was 24. If it wasn't 24, that
+39:08 gives me the opportunity to specify it.
+39:11 So that's what I'm doing with my
+39:12 multiple copy interval.
+39:15 Go take a look at what else I've got
+39:17 here. Then I've still got that layer
+39:19 painter just as a duplicate. I've got,
+39:22 you know, u make parallel perpendicular.
+39:25 Uh I've got um cycle through windows so
+39:29 I can, you know, quickly go through
+39:30 windows. If I hold shift, I'm going
+39:32 backwards through my tabs. Not windows.
+39:34 Sorry. So, cycle through tabs. That can
+39:37 be a pretty quick one if you didn't know
+39:39 this. Control tab on your keyboard
+39:40 cycles through your tabs. Control shift
+39:42 tab is going to go back a tab. Okay.
+39:46 And that goes for every software, by the
+39:48 way. Control tab is going to cycle
+39:49 through your windows or your tabs.
+39:53 Okay. What else do I have here? I've got
+39:56 um our transform replicate select
+39:59 marquee similar and then and then that's
+40:02 it. So, that is the rotate puck icon on
+40:08 the Space Mouse Pro.
+40:11 And then I've got a free button still.
+40:13 That's always nice. I've got paint scope
+40:16 modes. These are challenging because
+40:17 scope modes change um because we've got,
+40:20 you know, material scope modes, we've
+40:22 got object scope modes, we've got style
+40:24 pallet scope modes. So, there's a ton of
+40:26 hotkeys you have to assign. If you want
+40:28 to get really tricky with it, you could
+40:30 try to assign all those hotkeys to one
+40:33 position as a, you know, delayed in
+40:36 between those so that you're just
+40:38 cycling through these hotkeys to get to
+40:40 the thing you need. So, for instance, if
+40:42 I go hit my hotkey for um two drawer
+40:46 painter and then try to cycle through
+40:49 this to get to the object tool. Yeah,
+40:51 it's not working right now. I haven't
+40:53 fixed it. So, um, maybe that would have
+40:55 been a way for me to get to object scope
+40:57 mode.
+40:59 And then my next one has to do with, you
+41:01 know, 3D views. So, cross-section
+41:03 slider, different rendering techniques,
+41:06 ey externally facing walls, uh, our
+41:09 rainbow bacon tool, delete surface tool,
+41:12 adjust lights, um, adjust sunlight, and
+41:15 then I'm not sure what that one does.
+41:18 Nothing. Haha. So yeah, couple of these
+41:22 need to be updated.
+41:24 So that was my two key.
+41:27 Excuse me. This is my one key. My escape
+41:30 key is currently unassigned, which is
+41:32 nice. That's a decent place. And then
+41:35 I've got my kitchen tools are on the
+41:37 shift key on the 3D space mouse. The
+41:40 control key is my cabinet tools. So
+41:44 pillars,
+41:46 backsplash, sophet. Okay.
+41:50 And then
+41:52 my alt key is not assigned. And then I
+41:55 believe that
+42:00 believe that the fit key is my F key for
+42:03 fillet. So yeah, see we got anything in
+42:07 the comments. I've been going through a
+42:08 lot.
+42:13 Yes, Pino. Pino bought a Space Pro six
+42:16 months ago and have yet to program it.
+42:17 Yeah.
+42:20 Yeah. Get it working. And and the thing
+42:22 I like to note is um once you start,
+42:25 jump into your other programs as well.
+42:27 There's nothing keeping you from um
+42:30 assigning hotkeys. Uh same thing here.
+42:32 Look at this. I started to I haven't
+42:34 made the graphics for it yet, but I
+42:36 started to assign hotkeys so that I can
+42:39 quickly get to specific folders that I
+42:41 need to get when I'm in Windows
+42:43 Explorer. And something that you can do
+42:45 is you can assign a radio menu so that
+42:48 um for every single program that is a
+42:52 duplicate radio menu to get to another
+42:54 program. So you could do that as well.
+42:56 That can make it really easy to navigate
+42:58 when you've got multiple programs open.
+43:01 So easy for me to just bing click that
+43:03 and I'm in the app data folder. Pretty
+43:05 cool, huh? Um I'm not sure what these
+43:08 some of these other ones Oh, my
+43:09 downloads folder. Yeah, really easy for
+43:12 me to just get navigate to these things
+43:13 that I might need my assets folder. So,
+43:17 I do this for every program. Start
+43:19 writing these radio menus for every
+43:20 program. Um, ramp up your efficiency.
+43:22 It'll make a big difference. I know that
+43:24 I have a custom script for looking at
+43:27 PDFs inside of um Microsoft Edge because
+43:32 it's one of the faster PDF viewers. So,
+43:35 if I get to my downloads folder, see if
+43:37 I've got a PDF.
+43:39 And I do. And this brings us up in
+43:42 Microsoft Edge. And so I have a custom
+43:45 script in here um for using the 3D mouse
+43:48 to navigate this stuff and be able to
+43:50 zoom in and pan left and right. This is
+43:52 all 3D mouse action right now. Doesn't
+43:54 get faster than that for reading a PDF.
+43:56 And to me, Microsoft Edge is the
+43:59 absolute fastest at rendering these
+44:01 pages, even after a zoom in and zoom
+44:03 out. So you can see just how powerful
+44:06 utilizing this can be. Um, I might be
+44:09 able to share this script in uh in the
+44:12 members area so that you can load this
+44:14 up on your side so you can have the
+44:15 script to to be able to navigate PDFs
+44:18 specifically in Microsoft Edge.
+44:25 Okay, what else we got? Adukan.
+44:30 Uh, yeah,
+44:34 Mortal Kombat. Wait, did someone say
+44:36 Mortal Kombat before Sharon busted out
+44:38 with that?
+44:45 Yeah, I'm just working on the comments
+44:46 right now. Yeah, with Man.
+44:50 Oh, reminds right about reminds me of
+44:52 Mortal Kombat Street Fighter power
+44:53 moves. Yeah.
+44:57 Yeah. Um, part of part of the memory
+45:00 thing to me, Shane, is just that you're
+45:02 just doing similar actions in every
+45:05 slot. That's the memory thing for me.
+45:08 I'm not going to go swipe this door and
+45:10 then hold control and have it be a
+45:12 window. That's going to be complicated
+45:13 to remember. You're not going to
+45:14 remember that. So, I think it's
+45:17 impactful to just
+45:20 um have it be similar similar things
+45:23 happening. And then I might
+45:28 have made a yeah I made a graphical
+45:31 keybind plan a long time ago to just
+45:34 remind myself
+45:36 what these things are. This is outdated.
+45:39 I have not updated this in a while. But
+45:41 this is how I um scripted this out so
+45:45 that I can remind myself what each
+45:47 position was and what conflicting keys
+45:49 were etc. And then this was, you know,
+45:52 just showing myself what the various
+45:54 tools were. All right. So, I'm a little
+45:57 bit out of memory on what these tools
+45:59 were, but now I can see it very clearly
+46:01 is this was um our trim polyline, extend
+46:05 polyline, fence tool, and then uh join
+46:11 lines at a corner.
+46:16 So sometimes this can be helpful to just
+46:18 help yourself memorize what these things
+46:20 are
+46:31 button blasting chief.
+46:38 Can you open actual programs? Um yes you
+46:40 can. Um,
+46:43 you know, we got another 10, 15 minutes
+46:46 or something like that. Let me just talk
+46:47 about a couple things that you could do
+46:48 across all programs in PCs. Mind you
+46:52 that if you're on a Mac, most of what
+46:54 I'm going to say here is the same on a
+46:56 Mac. It's just that you're using a
+46:58 command key instead of control.
+46:59 Although, I've noticed sometimes that
+47:02 that's not true. Sometimes it is the
+47:03 control. So, double check this. But, let
+47:07 me just go down, you know, the keyboard.
+47:09 Um,
+47:11 so a uh control q in many programs
+47:15 across the software is going to be quit.
+47:18 Um, control W is going to be close tab.
+47:21 So I've got this tab open right now. If
+47:23 I hit control W, it's going to close
+47:25 that tab. Okay. Um, I've got
+47:30 here we go. I've got a tab open right
+47:32 here. Right. Control W closes that tab.
+47:35 So you can see it's the same across
+47:37 multiple programs.
+47:39 A uh control A is going to be select
+47:42 all. So if I hit control A in this
+47:44 viewer, look, it's selecting everything
+47:46 on the screen. Same thing if I get in
+47:49 here, control A, it's going to select
+47:50 everything on the screen. All right. Um
+47:56 your control S typically save, you know,
+47:58 with Chief Architect is a little
+47:59 different nowadays in managed mode. Uh
+48:03 but yeah, Ctrl S is going to be save,
+48:05 control Z is going to be undo. Um if
+48:08 it's a more of a modern program, control
+48:11 shift Z is going to be redo. If it's an
+48:15 older program, controll Y is going to be
+48:18 redo. Crl X is cut. So if I wanted to
+48:24 cut an item, let's just say I'm going to
+48:25 cut this right here. And then I can
+48:28 paste that item, right?
+48:32 Same thing. It's going to be the same
+48:33 way on some other programs. So, let's
+48:36 just say I've got notices. Ctrl X. Well,
+48:40 in this case, it's not going to cut
+48:41 anything, but it should should be able
+48:44 to paste that if it was just a text
+48:45 note.
+48:47 And then um C is going to be copy. Ctrl
+48:50 +V is going to be um paste. Control
+48:53 shiftV is some kind of paste modifier.
+48:56 Paste as in most programs. Uh, control N
+48:59 is going to be new.
+49:01 Crl O is going to be open. Crl P is
+49:04 going to be print. Um,
+49:07 let's see what else we got here.
+49:10 F typically is find.
+49:16 What else?
+49:19 Maybe that's all I got in my memory
+49:21 banks. Control tab is going to be switch
+49:23 and tab. Um, in some modern programs,
+49:25 control shiftw is close all tabs. That's
+49:28 what I have programmed in my Chief
+49:30 Architect. So, if I want to just close
+49:31 all tabs, save everything, I just hit
+49:34 control shift W and I start jamming
+49:36 enter for save, save, save, save, save
+49:38 save. It's an easy way to shut down
+49:40 Chief if you need to and save
+49:41 everything. Um, so those are some of the
+49:43 main F2 is going to be rename. So, if
+49:46 you have the ability to rename
+49:48 something, F2 is usually what that is.
+49:50 So, if I get to the library and choose
+49:52 something in the library here I want to
+49:55 rename. Yeah, if I hit F2, that'll
+49:58 rename. Um, this is a newer trick that I
+50:01 didn't know about is if you are, let's
+50:03 just say we're targeting the library,
+50:05 for instance. So, let's say I've clicked
+50:07 in here. So, we know we're in our sheet
+50:09 space now. I want to get to my library.
+50:11 I believe mine is
+50:14 Oh, I don't is for my library. Oh, there
+50:17 it is. Must have just hit it. No. Layer
+50:21 display. No. How about this? There it
+50:23 is. Mine's alt U for some reason. This
+50:27 just got me to my library. Can I then
+50:29 get to an library object here somehow?
+50:32 Can I tab into it? I believe so. Yeah, I
+50:36 just tabbed into my library. I'm not
+50:38 using my mouse right now. So, I hit a
+50:41 hotkey to get my get to my library. So,
+50:43 again, I'll start from the beginning.
+50:45 I'm on my cabinet. I got to my library
+50:48 by using the hotkey for it twice. Tab,
+50:52 tab, tab,
+50:54 tab, maybe tab, tab, tab. One of these
+50:58 tabs will get me there.
+51:00 There we go. Now I'm in here. Shift F10.
+51:05 Shift F10 will get you a menu for that
+51:10 library object. And then you can use the
+51:13 underline keys. You'll notice that
+51:15 there's underlined keys here. If I can
+51:17 get this in the screen. So, O for open
+51:21 object, for example. So, if I hit shift
+51:24 F10, O for open object, then I can edit
+51:26 it without ever getting there utilizing
+51:28 my mouse. So, for those of you that are
+51:30 trying to um automate more in your
+51:32 library, that's a way you could do
+51:34 something. So if you want to get really
+51:35 crazy, you basically target your library
+51:38 twice, control A to select all, just so
+51:41 you can type in some new search
+51:44 parameter and tab into it and do any
+51:47 number of other things that you might
+51:48 want to do. So maybe you're having to go
+51:51 through and delete a bunch of text
+51:53 macros from objects that accidentally
+51:56 got injected into the library. Ask me
+51:58 how I know about that.
+52:00 Yeah.
+52:03 Um,
+52:05 okay.
+52:10 And oh, and so the question was, can you
+52:12 open actual programs? Yes. Um, in my
+52:17 taskbar in the bottom of Windows, I I
+52:21 have pinned my programs to my taskbar. I
+52:24 know it's not showing in this view, but
+52:27 I do have a taskbar underneath what
+52:29 we're seeing as Chief Arctic right now.
+52:32 every one of those pinned programs is a
+52:36 assigned slot so that if I hit um so for
+52:40 me chief architect is 1 2 3 4 5 6 7
+52:44 eight programs in it's eight programs in
+52:47 so if I hit the window key plus the
+52:49 number eight key there you go so you can
+52:54 program that the other way to do this is
+52:57 3D connection did a little bit nicer job
+52:59 if you get into its properties these.
+53:02 Let's just open up this, get it on the
+53:05 screen so you could see it. And let's
+53:08 just assign buttons. And I'm going to go
+53:10 button number one because it has nothing
+53:12 really assigned to it right now. Or
+53:15 yeah, button number one has something.
+53:18 Let's see. Button number three is pretty
+53:19 much nothing. Okay. So, but number
+53:23 three, I could do a radio menu or skip
+53:26 the radio menu. Go applications. This is
+53:28 a listing of your open applications.
+53:31 or installed applications it seems.
+53:35 Yeah. So you can open up an application
+53:37 in this way as well, right?
+53:42 So for instance, if I just did Notepad++
+53:45 and that number one slot and then I kick
+53:48 back on Chief and I hit that same slot.
+53:52 There we go. Problem is now this is the
+53:55 targeted program. So hitting that same
+53:58 button is not going to get me a radio
+54:00 menu. All right. So you'd have to
+54:03 program that so that every single
+54:05 program had that same radio menu of
+54:08 getting you to different programs. Ask
+54:10 me if I'm going to do that myself. Yes,
+54:12 I am. I think that's a really powerful
+54:14 way of navigating your machine very very
+54:17 quickly.
+54:19 Um
+54:20 and then just keep in mind this is going
+54:22 to take practice, months, couple months.
+54:24 I feel like takes practice getting used
+54:26 to these things. Once you have it
+54:28 though, you really don't want to leave
+54:29 it behind. Um, I need practice. I'm out
+54:33 of practice. I stopped using them
+54:35 because
+54:36 um because I was getting calls from
+54:38 chief architect saying, "What the heck
+54:40 is this radio menu?" And then I was also
+54:42 just getting calls from people saying,
+54:43 "Hey, we're trying to recreate what
+54:45 you're doing, but we don't understand
+54:46 what buttons you're hitting and what
+54:47 you're doing." So, felt like it was
+54:50 helpful to stop using the radio menus. I
+54:52 think I'm going to go back to using them
+54:54 and just describe what I'm doing as I go
+54:57 so people can follow along.
+55:00 Yeah.
+55:05 Uh Todd says, "If you copy this radio
+55:08 menu into AI, it will build yours out
+55:12 with what your XML file has for
+55:14 shortcuts. This used to take hours."
+55:16 Yes. So much faster now. It did used to
+55:20 take hours. Um, I have spent so many
+55:23 hours, so many scripting these things
+55:25 and building a system that makes sense
+55:28 um to me anyways or if it doesn't make
+55:31 sense to you.
+55:34 There's a lot there's a lot in my head
+55:36 that doesn't make sense to most people.
+55:40 Um,
+55:43 and that was it. That's pretty much all
+55:44 I got here. Anybody have any questions,
+55:46 drop them in the comments. We got
+55:47 another four minutes or something like
+55:48 that. Um, I could sit here and talk your
+55:51 ear off all day, but should probably go
+55:54 get some work done,
+55:56 find some things to do. Um,
+56:00 yeah, there is, you know, speaking of
+56:02 the Mortal Kombat stuff, you can you can
+56:05 absolutely program this 3D mouse, there
+56:08 is a there's a series of different
+56:10 default configurations that you could go
+56:12 discover
+56:14 in the config files within program
+56:17 files. There are some core
+56:22 or files in here
+56:25 that
+56:28 you might have to dig around a little
+56:29 bit to understand them. But app default
+56:32 config files and these are very common
+56:35 controller schemes. Okay, so this is
+56:39 would be keyboard mouse joystick KMJ.
+56:43 So this is a config file. You could get
+56:45 AI to study to understand a controller
+56:49 fig so that you can you can set this up
+56:52 to play a game with it so that it's a
+56:54 sixaxis joystick with buttons. You
+56:57 absolutely can do that. Um for those
+57:00 that you um of you that are on like
+57:02 Microsoft Flight Simulator, there's no
+57:05 reason you can't, you know, program this
+57:07 for that program. If you're on like, I
+57:10 don't know, Star Wars Squadrons, you
+57:12 know, you can make this puck be a pretty
+57:14 cool device.
+57:21 What are my thoughts on the new convert
+57:24 to 3D cladding tool in Chief? What are
+57:27 my thoughts? I've been utilizing it. Um,
+57:29 if you saw a couple couple shows ago, I
+57:33 did a stone 3D cladding. Um,
+57:39 and there's a few things that
+57:42 work well with that. Um,
+57:45 let's go. Let's Hey, let's see. See if I
+57:48 can't use my figure out what my new
+57:50 radial menu is. Here we go. So, this is
+57:53 going to be a a cladding profile.
+57:56 Oops. Is that my backsplashes? Those are
+57:59 my backsplashes. Where's my walls? There
+58:01 we go.
+58:04 Oh, I just love that that works.
+58:07 Everybody go kiss Todd.
+58:11 You see him in the wild, you got to go
+58:13 thank him. Um, so here we go. Is you
+58:18 could very easily come in here with the
+58:22 adjust 3D cladding or interactive 3D
+58:24 cladding editor and be able to slide
+58:26 these things over just like that. Isn't
+58:28 that cool?
+58:30 If you want to get really clever,
+58:32 instead of doing
+58:34 instead of doing this as let's just use
+58:37 the
+58:39 the adjust tool. Notice that I use just
+58:42 a square profile here. All right. Well,
+58:45 now we're going to run long. Everybody's
+58:46 gonna blame um Shane for this because
+58:49 we're gonna run long because I'm gonna
+58:51 show you something is if you wanted it
+58:53 so that this um that if you change the
+58:57 spacing in between these by just
+59:00 changing the scale, you could
+59:02 potentially change the spacing without
+59:05 changing the profile. And the way you
+59:07 would do that is you would make a 3D
+59:10 molding for this. And so I would do
+59:13 something like, let me get used to my
+59:15 tools here.
+59:17 Find it. There we go. There's my solid
+59:19 tool. Draw out a solid. Let's just make
+59:22 this
+59:24 I'm going to make this a two and a
+59:25 quarter
+59:27 75.
+59:29 Okay. And then on top of that, I'm going
+59:32 to put something behind it.
+59:34 I'll just make this
+59:38 paint. All right. And what am I going to
+59:41 do? I'm going to do
+59:44 just make this 12 inches.
+59:47 So
+59:49 12 inches plus half of that. So what was
+59:52 I doing? 1 point.
+59:55 I don't know. Spacing out now.
+59:59 That's wrong, but whatever. I don't
+1:00:01 care. So if this becomes a molding
+1:00:04 profile by converting this to a molding
+1:00:12 show advanced options,
+1:00:14 this is what it looks like now. Bam.
+1:00:16 Okay, this is correct. Advanced sizing.
+1:00:21 Set a stretch plane. Remember that this
+1:00:23 is just a cutting plane. Wherever this
+1:00:26 cutting plane exists, it just creates an
+1:00:28 extrusion profile that it continuously
+1:00:30 extrudes. Notice that I have that
+1:00:32 cutting plane in the flat area here.
+1:00:35 What does that mean? When this molding
+1:00:37 gets resized, what gets resized?
+1:00:41 This is a parametric method, meaning
+1:00:45 we've got something that will always be
+1:00:46 locked in size. The batten will always
+1:00:50 be locked in size. The board is what
+1:00:53 will stretch. Okay.
+1:00:56 So, with that in mind, I should be able
+1:00:59 to um come in here with the interactive
+1:01:03 editor, replace it
+1:01:08 with that
+1:01:10 molding I just created and did not name.
+1:01:13 There we go. Okay. Um,
+1:01:18 also keep in mind I'm I was going to
+1:01:20 need to
+1:01:23 rotate this 0 degrees. There we go. All
+1:01:26 right. See how this works. Now, if I use
+1:01:30 the interactive cladding editor and I
+1:01:33 change Oh, you know what? It doesn't let
+1:01:35 us change the scale.
+1:01:37 Isn't that funny?
+1:01:39 Oh, and look at this. It even does it by
+1:01:41 row. Boy, I just learned something new.
+1:01:43 I didn't know that could do by row.
+1:01:47 That's fascinating.
+1:01:51 I wonder what use case we could have for
+1:01:52 that.
+1:01:55 Um, I did think that this was the
+1:01:56 ability to scale much like our material
+1:01:58 editor does, but apparently it's not.
+1:02:03 Oh yeah, we're getting weird now.
+1:02:06 Cool.
+1:02:08 Well, I was going about, you know, just
+1:02:10 showing a theory, but it turns out we
+1:02:11 don't have the ability to scale in the
+1:02:13 interactive material editor. Oops.
+1:02:19 Um, Ricky, you asked, "Has Adobe made it
+1:02:22 possible?" Yes, it has always been
+1:02:24 possible in Adobe. Um, you just needed
+1:02:27 to follow the instructions to load that
+1:02:30 tool up. It ends up getting loaded up
+1:02:32 as, I believe, a script.
+1:02:45 Yeah, it loads up as
+1:02:57 in our automate.
+1:03:00 Nope. Scripts.
+1:03:04 I think it gets loaded up as a script.
+1:03:06 No, here it is. So, 3DX Photoshop. So,
+1:03:09 um there's instructions online how to do
+1:03:11 that. I couldn't tell you off the top of
+1:03:13 my head, but yeah, you can absolutely
+1:03:15 load it up for Photoshop so that you can
+1:03:17 zoom in. Um, also if you get into
+1:03:20 developer, if you want to talk about
+1:03:21 Photoshop for a second, if you get into
+1:03:23 developer options, I want you to um know
+1:03:26 one of my most powerful things that I've
+1:03:28 done for Photoshop personally is this is
+1:03:32 um let me type in developer Adobe UXP
+1:03:36 developer tools.
+1:03:40 I wrote a script here that's relative
+1:03:43 brush. Okay, I'm going to load that
+1:03:46 script up now. So, this just got loaded
+1:03:48 into Photoshop. Here's what this tool
+1:03:50 does. Please note the size of my brush
+1:03:54 right now. Note the size of my brush.
+1:03:56 Okay, I want the size of the brush to
+1:03:59 maintain its size according to whatever
+1:04:02 zoom level I'm at because it makes that
+1:04:04 3D mouse be 10 times more powerful. What
+1:04:08 do I mean by this? Let's just say I'm
+1:04:11 trying to fill in things. Okay, I'm just
+1:04:13 trying to fill in and I want to get real
+1:04:15 tight. Let me change my smoothing to
+1:04:18 zero so it goes a little faster. I want
+1:04:20 to get real tight to this window. Now,
+1:04:23 when I get close to this window, all of
+1:04:25 a sudden, this brush is too big for me
+1:04:27 to get real tight, right? So, if I zoom
+1:04:29 in, watch what happens. My brush size
+1:04:33 did not change. It's the same size at at
+1:04:37 this zoom level as it is at this zoom
+1:04:39 level. Okay. What I'm doing is as I'm
+1:04:43 zooming, I have a scale modifier on the
+1:04:45 brush size. It's changing the brush size
+1:04:48 according to my zoom level so that it's
+1:04:51 easy for me to get big expansive brushes
+1:04:54 in here. And when I need to get tight,
+1:04:56 it's still got this tiny little detail
+1:04:58 brush that I can use and then zoom out a
+1:05:00 little bit to fill in a little bit more
+1:05:02 because it gets a little bigger. Then
+1:05:03 zoom in to get real tight and I'm never
+1:05:06 having to go change the brush size. It's
+1:05:08 doing it automatically for me. So, uh,
+1:05:10 recreate that because it works really
+1:05:12 well. Um, cuz out of the box that's not
+1:05:14 what the setting is. As you zoom in, the
+1:05:17 brush, you know, stays its same size.
+1:05:19 So, relative to the zoom level, it stays
+1:05:22 large. Okay. Um, so that's something
+1:05:25 that I love that I did on this. So, yes,
+1:05:26 the 3D mouse definitely works in
+1:05:28 Photoshop. And then for those of you
+1:05:31 that aren't aware, aren't staying in the
+1:05:33 in the no here, um, let me just deliver
+1:05:37 this to you. If you don't feel like
+1:05:42 paying for Photoshop's products, there
+1:05:46 is. Boy, I thought it was Photocross.
+1:05:48 I'm getting it wrong.
+1:05:51 Opensource
+1:05:53 Photoshop
+1:05:55 AI duplicate. There is a new suite of
+1:05:58 tools. Photocraft.
+1:06:01 Look up PhotoCraft.
+1:06:06 Photocraft is an open-source
+1:06:09 AI based vibecoded duplicate of
+1:06:14 Photoshop. It's supposedly got, you
+1:06:17 know, 90% of the function of Photoshop
+1:06:20 with all the same hotkeys and
+1:06:21 everything. And I even think it has
+1:06:23 Camera Raw support, which is wild. Um,
+1:06:25 so if you want to go learn Photoshop
+1:06:28 without paying for it, there you go. Um,
+1:06:32 give that a shot.
+1:06:34 All right, I think we're done for the
+1:06:35 day.
+1:06:38 Ricky said, "Does it work well with PDF
+1:06:40 files?" What I said earlier that you
+1:06:42 might have missed is it works extremely
+1:06:44 well um if you do a custom script for
+1:06:47 Microsoft Edge. To me, there's nothing
+1:06:49 better than that setup for uh looking at
+1:06:52 PDFs.
+1:06:56 Um Todd, I see that you say please, but
+1:06:58 I'm not sure what you're saying. Please,
+1:07:00 too.
+1:07:03 And yeah, thanks for coming to my TED
+1:07:05 talk.
+1:07:07 Cool. Everyone, thanks again for uh for
+1:07:09 being here. Um yeah, we'll see you next
+1:07:13 Tuesday.

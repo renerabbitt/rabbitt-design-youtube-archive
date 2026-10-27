@@ -56,6 +56,28 @@ Cookie-file export remains an optional fallback only.
 
 ## Refreshing The Video List
 
+Install the Python dependencies with `python -m pip install -r requirements.txt`.
+Refresh all public tabs (Videos, Shorts, and Streams) without removing existing
+member/unlisted entries or resetting transcript status:
+
+```powershell
+python -m yt_dlp --flat-playlist --dump-single-json "https://www.youtube.com/@rabbittdesign8482" | Out-File -Encoding utf8 "data/channel-refresh.raw.json"
+python scripts/import_youtube_catalog.py --raw data/channel-refresh.raw.json
+python scripts/fetch_public_transcripts.py
+python scripts/import_youtube_playlists.py --refresh
+python scripts/build_site_data.py
+```
+
+`fetch_public_transcripts.py` uses YouTube captions through `youtube-transcript-api`,
+preserves ready entries, and reports failures to `../caption-refresh-report.json`.
+It stops if YouTube blocks requests. Members-only videos still need the signed-in
+workflow below. Review changes, commit, and push to `main` to publish the rebuilt
+`site/` folder. GitHub Pages deployment does not fetch new uploads automatically.
+
+All catalog entries appear in search. Videos without imported captions show
+"Transcript pending" and match only their title and available metadata. Transcript
+counts are shown separately. Title phrases rank above repeated transcript words.
+
 Export channel metadata with `yt-dlp`, then normalize it:
 
 ```powershell

@@ -1,0 +1,1191 @@
+---
+videoId: _JrhcmYBcv8
+title: Template Tuesdays #28 - Programming A 3d Connexion Mouse with ChatGPT
+url: "https://www.youtube.com/watch?v=_JrhcmYBcv8"
+status: imported
+---
+
+# Transcript
+
+0:00 Oh,
+0:01 happy taco Tuesday.
+0:04 Yeah.
+0:08 Uh, hello from Carmel. Hello, Aaron.
+0:10 Good morning.
+0:13 You look like you're the only one in
+0:15 here so far. Um, this Tuesday I thought
+0:19 it would be fun to um try to set up and
+0:22 get like a whatever AI you might have to
+0:26 do um the config file for a 3D mouse.
+0:31 Um, so if you don't know what a 3D mouse
+0:34 is, it's not the right-handed mouse like
+0:37 this guy. Let me actually just get this.
+0:41 Let me get myself way up on here. There
+0:43 we go. It's not the right-handed mouse.
+0:45 it's a left-handed mouse or, you know,
+0:49 vice versa if you're one of those weird
+0:51 left-handed people. And so
+0:54 that's that's an example of a 3D mouse.
+0:56 I wish I had had um wherewithal to go
+1:00 get my other 3D mouse that's just just
+1:02 the puck part, just this part. Um
+1:05 because there's multiple of these
+1:06 different types of mice. Um, so if you
+1:09 don't have one of these, I would say
+1:11 this was arguably one of the the best
+1:14 things I had ever purchased for myself
+1:16 uh for using not only Chief Architect
+1:19 but other software as well. Um, the
+1:23 thought on this is that it's a what is
+1:25 it? Six six a six axis mouse something
+1:28 like that. Um, you can pull up on this,
+1:31 push down on it, you can pull it
+1:33 forward, backwards, left or right, you
+1:36 can twist it, you can roll it. Um, so
+1:39 it's got a bunch of different functions
+1:41 based on that. Uh, and when it comes
+1:44 down to it,
+1:46 it's it's a little bit of an open-
+1:49 source thing. Not quite, but the config
+1:51 files can be configured um for uh
+1:55 different types of applications. One of
+1:58 which is being able to utilize it to
+2:03 take the action of of an actual
+2:05 right-handed mouse or take the action of
+2:08 some kind of a joystick controller. But
+2:10 for Cheap Architect, it's just built in
+2:12 as a as a flyound basically. And it's
+2:16 just a it's a really fantastic device.
+2:19 It has a lot more capabilities when it
+2:22 comes to being able to program the
+2:25 buttons for this device. Now, I don't
+2:28 use
+2:30 the button configurations that I've got
+2:33 built for this very often in my videos
+2:35 anymore because it was causing a lot of
+2:37 confusion is because uh you were seeing
+2:40 radial menus on the screen um in my
+2:43 training videos and people were asking,
+2:45 well, where are those radial menus
+2:47 inside of Chief Architect? To the point
+2:48 where Chief Architect actually called me
+2:50 and said, "What the heck is this radial
+2:52 menu?" And so I kind of stopped using it
+2:54 because it um it it created a divide
+2:58 between me and people that I were I was
+3:00 training and just it created some
+3:03 confusion. But when I'm working on Chief
+3:05 Architect by myself, I use it all the
+3:08 time because it's really really
+3:10 efficient between my two devices. It's
+3:13 there's something like 500 hotkeys that
+3:15 could be utilized and they're easy to
+3:18 remember because some of it is a little
+3:20 bit visual. All right, let me just check
+3:22 this comments real quick. Morning from
+3:24 Montgomery. Good morning, Shane.
+3:26 Montgomery. Happy Taco Day and happy
+3:28 birthday. Thank you. It was my birthday
+3:30 yesterday. Um, I had a great time. Thank
+3:32 you. Thank you. Thank you. Um, 40. I'm
+3:36 45. Man, probably shouldn't put that in
+3:39 a in a show. Don't admit defeat. Um,
+3:43 and then, uh,
+3:46 Miss Sharon Mitchell. Sharon with a V. I
+3:48 like that. Good morning. [snorts]
+3:51 Hello from Kansas. Uh, so good. Not
+3:54 afternoon. Not afternoon yet. Yeah, good
+3:57 morning. Um, yeah, I just woke up. I'm
+4:00 barely functioning. I don't even know
+4:02 what time of day it is. Was hard getting
+4:04 to sleep last night. Let's see. Those
+4:07 birthdays, they're exciting. Is Is the
+4:10 3DX working for Mac Chief yet? I recall
+4:12 it was buggy a while back, so I haven't
+4:15 tried it. Um, I would say that I know
+4:20 some people that have success with a 3D
+4:22 mouse now that that some things were
+4:24 fixed, that they've got it working. I
+4:26 know that with a Mac, you know, anytime
+4:29 you're having trouble with some device,
+4:32 uh, on a Mac, and it's a device. Let's
+4:35 just put those two together. You're
+4:36 going to say device, you're going to say
+4:38 Mac. I already know what what the
+4:40 problem's going to be. Security and
+4:42 preferences, settings.
+4:44 uh Mac is so buttoned up on its security
+4:47 and for a device that controls
+4:50 um so many different hardware functions,
+4:53 I'm sure that opening that up in its
+4:55 security settings is a big problem. The
+4:57 other part of it is that
+5:02 I believe that Mac sees this um
+5:05 sometimes as an idle timeout issue,
+5:07 meaning that it's seeing a device and
+5:09 it's um and it's not moving or it's not
+5:13 doing anything and so it um it turns off
+5:17 the driver for it
+5:19 is another thing that might be happening
+5:21 with a Mac if you can't get this device
+5:24 to work on the Mac. That being said,
+5:28 sorry Mac people, I don't have a Mac.
+5:31 Until someone wants to donate a Mac to
+5:33 me, I don't have any way of testing this
+5:34 stuff out. So, I got to lean on the
+5:37 community to kind of help each other out
+5:38 for that. So, if you are in the
+5:40 comments, which [snorts] um off the top
+5:42 of my head, I know that
+5:45 um if you see the the username Paracad
+5:48 in the comments right there, I know that
+5:50 they operate from a Mac. Know that Aaron
+5:53 operates from a Mac. Um, there are a few
+5:55 others that might be in here that I
+5:57 could probably point out that I think um
+5:59 might know some stuff about Max, but uh
+6:02 I know that uh John Schrader of uh of
+6:06 the Chief Experts team and I think he's
+6:10 imagine drafting. I know that he's done
+6:12 extensive work on a Mac with the device
+6:15 and gotten it working and functioning
+6:17 properly. So maybe reach out to him and
+6:24 yeah. Okay. Like you're falling off a
+6:26 cliff. Nice,
+6:28 nice, nice.
+6:34 Uh man, I love this. By the way, I'm
+6:37 just seeing this. I love it when um you
+6:39 know a couple people have have met in
+6:41 person now at some of these events and
+6:44 saying hello across the board in the
+6:46 chat in here. Just feels like community.
+6:49 Isn't that cool? Uh Sharon and Shane sat
+6:52 next to each other. Yeah. And then and
+6:56 then Aaron met Sharon as well. Yeah. All
+6:58 you guys were over at that chief event.
+7:00 This is why we like going to that chief
+7:01 event. It's really cool to just be able
+7:03 to stay in touch with people and and
+7:05 network like that and and help each
+7:08 other out. So cool. Um, okay. Let me get
+7:11 to let's get some business done here.
+7:13 Let's try to figure this out. Here's
+7:14 what I'm thinking is let me just show
+7:17 you real quick what we're after. In
+7:20 Chief Architect,
+7:22 we can, if I were just to open a plan
+7:24 file here, we can program these devices
+7:27 so that one of the buttons on here when
+7:29 you press it will bring up a radial menu
+7:32 like this. All right. The way this works
+7:35 is wherever your mouse is, wherever your
+7:38 mouse is, that radial menu, when we
+7:41 press a button, it pops up. What does it
+7:43 do? Well,
+7:46 and you can see I've got several
+7:47 different buttons. So, I have several
+7:49 different radial menus. What it does is
+7:51 when I swipe my mouse, my right-handed
+7:54 mouse through the bounds of one of these
+7:56 pi slices and past it, when I go past
+7:59 it, it will activate whatever I have
+8:03 programmed for that pie slice. In this
+8:05 case, I have programmed a hotkey for
+8:09 that pie slice, which means I now
+8:12 activated the wall tool. Let me show you
+8:14 this again. Wherever I'm at, I just get
+8:16 the swipe. There's my base cabinet tool,
+8:18 wall tool. Here's my window.
+8:23 Right. So, I'm not needing to hit
+8:26 hotkeys. My hands left and right stay on
+8:29 my device. This is really nice for
+8:32 ergonomics as well. I don't need to lift
+8:34 my hands off of my devices to get to my
+8:37 keyboard.
+8:38 Okay. So, it's a pretty cool thing. If
+8:42 you've seen my oh, I don't know. I think
+8:45 it's a five-part series on hotkeys. Um,
+8:50 it's hours of content about how I
+8:52 develop hotkey systems. Um, to try to
+8:55 keep with ergonomics and the methodology
+8:58 that goes into that. Then you would
+9:00 understand that for every one of these
+9:03 pie slices, we could add a modifier from
+9:07 the right-hand mouse. My right-hand
+9:09 mouse has the control button and shift
+9:13 button programmed into it. So if I hold
+9:16 control and I drag through this base
+9:19 cabinet, now I've got a wall cabinet. If
+9:21 I hold shift, now I've got this. So all
+9:24 we're doing here is think about it this
+9:26 way. Let's just um take um the I don't
+9:29 know J key for instance. Let's just say
+9:32 that our cabinet is the J key and then
+9:35 our wall cabinet is the control and J
+9:39 key and then our full height cabinet is
+9:42 a shift and J key. So that's all we're
+9:44 doing here is I'm holding a modifier.
+9:46 I'm holding control swiping through this
+9:48 and all that's doing is adding the
+9:50 control button to that I slice hotkey
+9:53 which is just let's call it J. So
+9:55 control J. There we go. That's how that
+9:57 works. That's how we get a compounded
+10:01 like a level stack if you will. All
+10:03 right. Now, it's we're not getting um
+10:06 graphic feedback there. All we're
+10:08 getting to see is the first level pi
+10:10 slice. It's not like I'm holding control
+10:12 and we get to see that this switches to
+10:14 a wall cabinet. That's just in my head.
+10:16 So, there is some memory that we have to
+10:17 commit to this. But, um anyways, that's
+10:20 how this system works. So to program
+10:24 this, we would typically open up
+10:26 settings. On a PC, you're going to have
+10:29 a system tray. And in that system tray,
+10:31 you're going to have that 3D connection
+10:35 little icon, and you'd have to open 3D
+10:37 connection settings. Now, if you don't
+10:40 have your 3D connection icon and you're
+10:42 on a PC, I want to show you a couple
+10:44 things. Let's rightclick on your
+10:46 taskbar, get to taskbar settings.
+10:50 Okay. And then I'm going to get to other
+10:54 system tray icons.
+10:58 And we have the ability to turn on some
+11:01 of these system tray icons so that they
+11:04 are always present in your bottom tray.
+11:07 Um, a really good one that I like to
+11:08 have on there is I like to have my
+11:10 Dropbox on there so that I can see what
+11:13 live files are being uh synced up. But
+11:16 the other big one for me is the 3D
+11:18 connection mouse. Why is that? Because
+11:20 when I switch from um one
+11:25 program to another, you can hover over
+11:28 this and my my webcam is blocking this,
+11:31 but you can hover over this
+11:36 and you can see what's being loaded into
+11:39 the device because the device does
+11:42 switching based on the program that's
+11:44 active. That's what's in the driver
+11:46 package for this. So, not only can we
+11:49 build radio menus that do things for us
+11:51 in Chief Architect, but you can build
+11:53 them so that they do things for you in
+11:55 other software as well. For example, I
+11:58 know that in the Discord server right
+12:00 now, um, which is where I kind of have a
+12:03 community of people that support each
+12:04 other for people that use my products
+12:06 and help each other out when I'm not,
+12:08 you know, always available, is that they
+12:10 were talking about PDF readers. And what
+12:13 I would tell you is one of the best PDF
+12:16 readers on the market is Microsoft Edge.
+12:20 Even though I use Chrome as my web
+12:23 browser, Microsoft Edge is a faster web
+12:27 um browser for reading PDFs. Let me see
+12:31 if I can load one up real quick um on
+12:33 the fly. Working website. Let's see.
+12:36 Example PDFs. I'm going to um one of our
+12:40 users that I know will catch this show
+12:42 at some point. I am always such a big
+12:46 fan of his
+12:50 plan sets.
+12:53 And so this is Richard.
+12:56 Believe I'm going to say that right.
+12:58 Took me a while to learn it, but here we
+12:59 go. Um so by default I have Microsoft
+13:03 Edge handling this for me. Okay. And so
+13:07 this is just it's just really fast and
+13:09 seamless. The zoom speed is just it just
+13:12 blows like Adobe out of the water and a
+13:14 lot of the other programs out of the
+13:15 water. But I went and took the time to
+13:18 do a custom config file for my 3D mouse
+13:22 so that my 3D mouse could scroll and
+13:25 move and pan and do all those things for
+13:27 me and so that I don't have to um try to
+13:30 navigate this with my other mouse. So
+13:33 really really a great implementation and
+13:36 you know this is just it's lightning
+13:38 fast. So it's easy to come in and zoom
+13:40 in. Um we're going to go zoom in on
+13:43 probably one of my favorite parts of
+13:44 this plan set which
+13:47 uh is where? Let me see here. This one
+13:51 right here. Think maybe.
+13:54 Yeah. He's got this really cool detail
+13:56 where there's like a viewing window. Um
+13:59 I think underneath a
+14:02 in a hall, I guess. Yeah. Where you get
+14:04 to just look down to someone walking
+14:06 below you.
+14:08 Just fascinating.
+14:11 Anyways, so we want to program this. We
+14:14 got to get into the 3D connection
+14:16 settings. Okay. Open 3D connection
+14:19 settings. What I want to do first is I
+14:22 want to get a radio menu established
+14:25 first up. And boy, we got a problem.
+14:29 This looks like it's uh looks like like
+14:31 it got broken there. Hold on one second.
+14:33 Let's try to get this again. Open 3D
+14:35 connection settings. There we go. And so
+14:38 let's switch to our device.
+14:42 And we want to we want to target what
+14:46 we're programming for. So, I need to
+14:48 target Chief Architect. Bring 3D
+14:51 connection back up. Now, you can see
+14:52 that it's targeted. Once it's targeted,
+14:55 when you click on buttons, now we're
+14:57 locked into Chief Architect. Doesn't
+14:59 matter that I am clicking on Chrome now.
+15:02 Oh, I guess it does. Look at that. It
+15:04 actively switched. Um, it didn't used to
+15:06 do that. So, uh, let me minimize Chief.
+15:11 Let me bring it back up.
+15:13 Switch.
+15:16 Yeah, it's a little tricky to get this
+15:18 on the same screen at the same time. So,
+15:19 I'm going to drag Chief over into a
+15:21 second window so we know that it's being
+15:22 programmed. Okay, here's the next part.
+15:26 We got to program a button for this.
+15:28 Even though mine already has a bunch of
+15:30 programming done, we want to make sure
+15:32 that we're programming at least one
+15:34 radio menu. Why? Because the goal of
+15:37 this is to be able to
+15:40 um tell a chat GPT or whatever AI that
+15:44 you have that we've got a config file.
+15:47 There's already a radial menu in that
+15:49 config file that so that it could use it
+15:52 as an example so that we can get it to
+15:55 rewrite the whole radial menu for us.
+15:59 All right. So to do that, let's let's
+16:02 pick a button. It looks like
+16:08 It looks like I'm just going to use the
+16:11 menu button. Why not? And so you can see
+16:14 here I have many buttons. If you are if
+16:17 you just have the puck, you're only
+16:18 going to have two. If you have the
+16:20 enterprise version, you're going to have
+16:21 more buttons than this. Um I prefer this
+16:24 pro wireless version. And so I'm going
+16:27 to click on the menu here, the right
+16:29 arrow, and I'm going to go down to the
+16:31 radial menu section. And I'm going to do
+16:34 and scroll down and get to new radial
+16:37 menu.
+16:39 And so for Mac, you are limited to a
+16:41 four position radial menu, I believe,
+16:44 still. And then uh for a PC, we can have
+16:48 as many as eight positions. Okay. And so
+16:52 here we go. I think we only need to
+16:54 program one of these. And I think it
+16:56 would be a good starting point so that
+16:58 your AI understands a few things if you
+17:01 create a macro for this. Okay. And so a
+17:04 macro is going to be something where we
+17:06 get to do some hotkey action.
+17:09 And so scroll down. Get to new macro.
+17:14 Enter your name.
+17:18 Boy, I don't even know what I want to
+17:19 do. What do I want to do in Chief to
+17:21 start? I mean, for most of you, it
+17:22 should be like the wall tool, right? Um,
+17:25 for me, because I already have the wall
+17:27 tool programmed,
+17:30 let me
+17:33 I don't know
+17:35 of all the times to draw a blank. Oh,
+17:37 let me get to text macro management.
+17:39 There we go.
+17:44 And so, the next thing is I got to
+17:46 figure out what hotkey I want to use.
+17:49 Now, I have some strong opinions about
+17:51 what hotkeys to use, and I'm just going
+17:53 to share those opinions with you right
+17:54 now. um is that and let me just kick
+17:58 this back to just talking out loud is um
+18:02 it is my preference if you're going to
+18:04 do what I would call a stack where we're
+18:07 doing um a letter and then control plus
+18:10 that letter, shift plus that letter,
+18:12 control shift plus that letter, then it
+18:14 would be great if you stayed away from
+18:17 all of the left-handed keys. It's also
+18:19 great if you stay away from all the
+18:20 left-handed keys because um not only are
+18:24 there from the standpoint of ergonomics
+18:27 and convenience where you're using a
+18:28 right-handed mouse and you've got your
+18:30 left hand on the keyboard and you can
+18:31 press some hot keys. That'd be a great
+18:33 way because we don't need to utilize
+18:35 that as we're going to use the device to
+18:39 do um these actions. It would be great
+18:41 if you stayed away from those
+18:42 left-handed keys. you know, then they it
+18:44 leaves them open to use them for other
+18:46 things where we stay in that path of
+18:49 staying in ergonomics. I've already got
+18:50 to lift my left hand to hit the
+18:52 keyboard. Now I can utilize those
+18:54 left-handed keys to do other things that
+18:57 we're not doing in the 3D mouse. The
+18:59 other part of this is it's great if you
+19:01 learn all of the systemwidebased
+19:04 common key presses, which is um you know
+19:09 your control Z is undo. A lot of modern
+19:12 programs do control shift C for redo or
+19:15 they still do the old school way of
+19:17 doing it which is control Y for redo. Um
+19:19 control A is select all. So you're
+19:22 selecting everything on the screen. Um
+19:25 Ctrl S would be a save. Control Q might
+19:27 be a quit program. W is going to be
+19:30 close the tab. Um control tab is switch
+19:33 tabs. Control shift tabs is go back a
+19:35 tab. So there's all these keys that are
+19:37 already programmed systemwide and
+19:40 they're common and they're even common
+19:42 across both uh systems. So Mac is going
+19:44 to have like a command A, command S,
+19:47 etc. So it's great if you stay away from
+19:49 those keys.
+19:51 So if I were to encourage you to do
+19:52 anything, it would be let's go ahead and
+19:55 get chat GPT to map out keys that you
+19:57 can utilize that don't conflict with
+20:00 these systemwide keys. get it to
+20:02 discover the hot key that you're going
+20:04 to use because that would be a great
+20:06 approach. The next thing that it's
+20:08 important to know is that in Chief
+20:10 Architect, we can do sequential key
+20:12 presses, meaning I can hit the P key and
+20:15 then I can hit the P key again and Chief
+20:18 Architect will recognize that as a
+20:20 hotkey. Okay, so sequential keys give us
+20:24 um more complexity in the stack that
+20:27 where we might be able to avoid
+20:29 overwriting some other key configuration
+20:32 that we've got. So that's another thing.
+20:35 Then uh the last thing to note if you
+20:38 are programming a right-handed mouse at
+20:40 the same time, I just like to note my my
+20:43 current um method for uh moving left to
+20:49 right in Chief Architect. So you think
+20:51 about going left to right in orientation
+20:56 um in a layout file meaning like going
+20:58 forward a page going back a page. So
+21:01 pressing my mouse to the left to the
+21:03 right. All right. Pressing my mouse to
+21:07 the right that that gets me forward and
+21:10 back in Chief Architect. I use the home
+21:13 key and the end key because that also
+21:15 gives me the ability to go forward in a
+21:19 text box to the um excuse me go to the
+21:22 end of text in a text box or going to
+21:24 the front in a text box. Isn't that
+21:27 funny? I hit the left and right key and
+21:29 it sent us to the my B uh right back
+21:33 fade out recording software setup.
+21:37 Okay, let's start programming. I'm going
+21:41 to do I'm just going to do a gh. I
+21:43 actually don't know if that even works.
+21:45 So I'm going to type in a shortcut G.
+21:47 I'm going to add another command and
+21:50 type in a shortcut H. All right. So this
+21:53 is my macro. Now the next thing that I
+21:56 want to make sure that I'm doing here is
+21:58 I want to add an image. And I want to
+22:01 add a custom icon. I want to add a
+22:04 custom icon from Chief Architect's icons
+22:07 so that it pops up and shows me
+22:09 something that looks familiar. So for
+22:11 Chief Architect, and if you're on a PC,
+22:14 this is going to be in program files is
+22:16 where they store their buttons. So um
+22:18 program files, Chief Architect, then the
+22:20 version number that you're in, and then
+22:22 get into resources and buttons. And in
+22:26 the case of X18, we're going to have
+22:28 dark and light buttons. And so I'm going
+22:31 to go find
+22:33 um at least this time around in the
+22:35 light buttons. I'm going to go find text
+22:37 macro management if I can.
+22:43 And I can't immediately find that. And
+22:46 oh, there it is right there. Manage
+22:48 macro. Bam. Okay. The next thing that I
+22:51 want to do before I get too far in this,
+22:54 I load that up and hit select, is I get
+22:58 back to that custom icon. I just want to
+23:02 store where this location is.
+23:05 Okay. Um, so let's get back there real
+23:09 quick.
+23:17 I'm going to check the chat here in a
+23:18 second. and see if anybody's got
+23:19 questions so far. Um, so I'm going to
+23:22 store where this where these icons are.
+23:26 I'm going to copy this to my clipboard.
+23:28 I'm then going to come bring it to my
+23:30 chat GPT and dump that in. I'm just
+23:33 going to paste it there. Okay.
+23:36 And then I'll do it some voice
+23:38 instructions in just a second.
+23:40 So,
+23:42 oops, lost my custom icon.
+23:48 go
+23:50 and hit save. Now we've got one single
+23:53 radial position. We need to name the
+23:56 radial menu. In this case, it's going to
+23:58 be for me macro radial menu
+24:04 and hit save. Okay, now we have one
+24:08 radial menu programmed.
+24:11 That's important. That's a big part of
+24:13 this. I'm going to hit close now.
+24:18 So the next part about this is for a PC
+24:22 the config files for these radial menus
+24:26 live in app data. So percent sign
+24:29 percentage sign this is a replacement
+24:32 text call. Okay. And so between the
+24:35 percentage signs I'm going to type in
+24:36 app data. And that's going to get me to
+24:40 my roaming app data in my PC. And then
+24:44 I'm going to get into the 3D connection
+24:46 3D Xware subfolders config
+24:50 cfg subfolder. Okay. And here is where
+24:54 those XML files live. And we can see
+24:56 here I even have a copy of my Chief
+24:58 Architect one. Right. So we can see
+25:01 Chief Architect Premiere XML Chief
+25:03 Architect XML. Uh-oh. Which one is mine
+25:07 using? Well, a simple way to find out. I
+25:10 click on Chief Architect so that it's
+25:12 the active window. I hover over 3D
+25:14 connection settings at the bottom of the
+25:16 screen.
+25:19 Do that again because we're in Zoom.
+25:21 That's pretty tough.
+25:23 And it's going to tell me that we're
+25:25 using Chief Architect pre uh Chief
+25:28 Architect.XML.
+25:31 So, it's not using this Premier one or
+25:34 this this other Premier one. It's using
+25:36 Chief Architect XML. So, I want to note
+25:38 that I can rightclick on this and I can
+25:43 um try that again. Right click on this.
+25:46 There we go. Copy as path. Let's bring
+25:49 that to our chat GBT and paste that in
+25:52 as well. Now, right now I'm in a chat
+25:54 mode. In a chat mode, it's not going to
+25:58 replace this file for me like I might
+26:00 want it to. So, I might want to switch
+26:04 to a work mode. a work mode, at least in
+26:07 Chhat GPT and most other AI softwares,
+26:11 is going to take up some of your um your
+26:14 credits and and I'm okay with that. I've
+26:17 got enough credits they they reset in a
+26:19 week anyways. So, I I'm going to switch
+26:21 to a work mode.
+26:26 And so, in work mode now, I can tell it
+26:29 to go replace some things for me. Before
+26:32 we replace those things, what you want
+26:34 to do is you want to stop the driver
+26:36 package. When you stop the driver
+26:39 package, please note it will crash Chief
+26:42 currently as of today's date, whatever
+26:44 we're in. Well, it's day after my
+26:46 birthday, October 6th, and we're in
+26:49 2026. So, if you're watching this in the
+26:51 future, hi. Um, it will crash chief if
+26:55 we stop the 3D driver package. So, make
+26:57 sure you save your work before you do
+26:59 that. And so I'm going to do the same
+27:01 thing. I'm going to hit my on a PC I get
+27:05 to hit my start menu and type in stop
+27:07 and we're going to see stop 3DXware. And
+27:10 so that's a way to stop that driver
+27:12 package. Believe you can also, you know,
+27:14 click in your system tray. I do not know
+27:16 how you stop that driver package
+27:18 elsewhere.
+27:24 Um, and it looks like
+27:28 not add the icons. Uh, can anyone else
+27:31 confirm that
+27:35 you can't add the icons?
+27:43 Yeah, sure. Okay, next part of this.
+27:48 Let me go ahead and do some voice to
+27:50 text.
+27:55 I'd like you to edit this XML file and
+27:58 add additional radio radial menu
+28:03 hotkeys.
+28:05 The radial menu I want to edit is my
+28:08 text macro management radial menu.
+28:13 I want you to go ahead and add one
+28:15 additional slice where we add a hotkey.
+28:18 And the hot key we're going to use is
+28:20 the U key followed by the Y key.
+28:25 And
+28:27 please go ahead and load up
+28:31 an image from the location I provided
+28:35 for
+28:39 an icon that might have the name Ruby in
+28:42 it.
+28:44 And so you're going to modify that XML
+28:46 file. You're going to find the correct
+28:49 radio menu. You're going to add
+28:52 additional radio menu position
+28:58 and then put in that hotkey according to
+29:01 what I said and make sure that you
+29:04 analyze it so that you understand how
+29:06 you can add an image to that hotkey
+29:09 position.
+29:14 I don't know. That was terrible. But
+29:16 we'll see what it does. [laughter]
+29:19 So, we've got the driver package
+29:21 stopped. Um, it should, if you have
+29:24 given your codeex permissions to write
+29:28 files to the app data folder, then
+29:30 great, maybe this works. Um, maybe it
+29:33 doesn't. Maybe instead it's got to make
+29:35 a a backup or something like that. Let's
+29:37 see what this says. Um, those C paths
+29:40 aren't accessible from this workspace.
+29:42 So, I can't inspect or change Chief
+29:44 Architect XML directly.
+29:48 And I and I believe that's wrong. I love
+29:50 arguing love arguing with my chat. GPT.
+29:53 I'm in GPT6 Soul Light. I'm going to set
+29:57 it up to medium. GPT6 Astro medium. I
+30:02 want you to double check that you can't
+30:03 analyze those XML files. I am fairly
+30:05 certain that you can analyze any files
+30:07 across the entire system. And so maybe
+30:11 take another look at it.
+30:28 Yeah. Victor says, "Use Astro." I just
+30:31 switched it. It's Astra.
+30:33 I just switched to Astra.
+30:43 And so it says upload it here. Um, yeah.
+30:47 I really love fighting with this thing
+30:48 because it'll tell you lies. It'll lie
+30:51 to you.
+30:53 If you can analyze it, copy it yourself.
+31:04 And what are you talking about? that my
+31:06 C isn't mounted. And no, you're not
+31:08 running off of a separate Linux system.
+31:10 You are a desktop application that runs
+31:13 from my PC.
+31:19 Heck is it getting this info from? You
+31:22 knew, you know, you're always maybe
+31:24 going to have a fight on your hands.
+31:25 Love when people say, um, these AI is
+31:28 going to take over my job and can't even
+31:30 get it to do really simple edits
+31:32 sometimes.
+31:41 Um, I think you're lying to me because I
+31:43 know that I've done this before
+31:46 and uh and you should stop lying to me
+31:48 and you should do what I say because
+31:52 this is a dictatorship.
+32:05 All right. So, it's not gonna it's not
+32:07 going to let me do this.
+32:10 [laughter]
+32:11 Fine, you jerk. Man, I hate fighting
+32:15 this thing.
+32:20 So, I'm going to edit this with Notepad
+32:22 just to copy this in. And I'm going to
+32:25 reiterate that it's wrong. I just don't
+32:27 want to fight on this live call. I'll
+32:29 fight afterwards. I might end the rest
+32:31 of my day on this. We'll see.
+33:02 Okay, it's going to inspect the XML.
+33:04 Let's see what happened.
+33:14 Yes, Codex is feeling very feisty this
+33:17 morning.
+33:18 We have a complicated relationship.
+33:22 It's true.
+33:28 Oh, and hopefully I got the right XML.
+33:32 Of course, I would pick the wrong one.
+33:33 Maybe. No, I think I got it right.
+33:39 Yeah,
+33:42 that's the right one. That's the right
+33:44 one.
+33:53 All right, it seems to be doing its
+33:55 thing.
+33:59 Talk amongst yourself. Coffee talk.
+34:05 Let me go.
+34:07 Scroll through the
+34:09 Logitech MXM has a 8 pi slice radio
+34:13 menu. I do know that. Yep.
+34:20 Okay, we've got this XML file. Let's
+34:22 open it up.
+34:25 And we're just going to do a little bit
+34:28 of manual work this time. I'm just going
+34:29 to control arr C. You should know those
+34:32 hotkeys cuz we discussed them earlier,
+34:34 right? And then do the same thing here.
+34:37 Paste that in. Hopefully it didn't screw
+34:39 that up.
+34:42 [clears throat] I could always go grab
+34:43 the original code if needed. Hit a
+34:45 little controll to save it. Now start
+34:50 menu. Let's start our 3DXware package.
+34:54 Okay.
+34:57 And on a PC that means you'll see the
+34:59 little hourglass for a second. Then it's
+35:00 loading up 3D connection. Then I see it
+35:02 in my bottom tray. Let's fire up Chief
+35:05 Architect
+35:16 and we'll see how bad chat wants to
+35:19 fight me because I'm going to hit that
+35:21 button now that I need to hit
+35:27 and it's doing nothing.
+35:30 So, what does that tell you? Believe
+35:33 that tells you that it screwed up the
+35:36 code.
+35:39 Dang it. Dang it. It was gonna be a
+35:42 fight. [laughter]
+35:46 Shouldn't be. It's such simple coding.
+35:50 You broke something because now it
+35:52 doesn't work at all. So, please inspect
+35:57 what you changed, how you changed it.
+36:00 inspect
+36:02 the other radial menu programming to see
+36:04 what you may have done wrong.
+36:13 That's kind of what the fun of these
+36:14 live shows, right? They just don't go
+36:16 perfectly, do they?
+36:29 This one's timely. Merlin, you've been
+36:32 working with uh
+36:40 working with the 3D connection.
+36:46 Todd K here. Todd K, you're Todd, you're
+36:49 also in
+36:52 uh Carmel, right?
+37:01 Not the only one that argues with chat.
+37:02 Absolutely. Oh man, I am
+37:06 I am my worst version of myself when I'm
+37:08 in this stupid chat GPT. I say some
+37:13 really obnoxious stuff to my little my
+37:16 little pet animal.
+37:27 All right. So, we know we're going to
+37:28 crash Chief. I would rather not crash
+37:31 Chief. Let me go ahead and stop the
+37:32 driver package again. That's so we can
+37:35 copy paste in.
+37:39 Open the file. Let's grab everything.
+37:41 Copy it. Get over to
+37:45 my editor.
+37:49 Paste it in. Save it.
+37:54 Start it again.
+37:58 Should pop up in my tray. It just did.
+38:01 Let's fire up Chief. Um, boy, this would
+38:04 not have been fun to fire up Chief in
+38:06 X17 because it would take so long.
+38:08 I'm still loving how quickly X18 boots.
+38:18 No radial menus whatsoever.
+38:24 What is that one? Okay, so something
+38:26 happened here. We have
+38:30 Chief Architect Premiere Chief Architect
+38:33 XML is the active XML.
+38:37 Nothing
+38:38 is working correctly. So, let me get
+38:41 into settings. See what's happening. Do
+38:43 a little inspection.
+38:46 Buttons for chief architect
+38:48 are using. So, this is utilizing some
+38:51 other XML. If this is happening to you,
+38:55 it might be that the XML is corrupted
+39:00 and so instead of using the one that's
+39:02 in app data, it switches to using one
+39:06 that is in
+39:09 see if
+39:13 service log data
+39:17 local
+39:20 3DXware config
+39:24 menu and new config extensions, it might
+39:27 be um forced to use another one that's
+39:31 in program files or something like that.
+39:34 So that's kind of what's happening to me
+39:36 here
+39:40 is even though it says it's using the
+39:42 correct XML and our XML is coded, um it
+39:46 doesn't represent that when I'm clicking
+39:48 on it, right?
+39:56 So
+39:58 somewhere
+40:00 buried deep in here is
+40:05 Aha. I feel like I'm about to say aha is
+40:08 this.
+40:10 Let me do a little stop again. Seems
+40:13 that through corrupting that XML file
+40:16 the first time around, it created
+40:18 another one inside of program files.
+40:25 It did
+40:28 a little jerk.
+40:30 So, what happens if
+40:33 I paste that here?
+40:38 I get to save that. I think I did.
+40:41 Start this bad boy up again.
+40:45 We're surprised that Chief Architect
+40:47 didn't crash.
+40:50 Boy, if they fix that, that'd be cool.
+40:52 Anybody can confirm that. That's pretty
+40:53 cool. Um,
+40:56 radio menu still not working.
+41:04 Huh.
+41:08 Great show,
+41:12 bringing up new tabs.
+41:17 Anybody following along, getting it to
+41:18 work on their end? That'd be cool.
+41:21 At least I know that I'm giving some
+41:23 good instructions even if I'm not
+41:25 getting the same results.
+41:30 This is a wrong XML. Dang it. Dang it.
+41:36 And what happens if I just delete that?
+41:38 Let's try that. I'm just going to force
+41:40 force the issue. Why not? Let's break
+41:42 some things. I like breaking stuff.
+41:46 I'm going to
+41:48 delete that config file cuz the worst
+41:51 thing that could happen is it just loads
+41:54 some generic XML. So, we'll get rid of
+41:56 it.
+41:58 Bam. Aha.
+42:02 you test that out.
+42:11 And just so I'm organized, let's get rid
+42:15 of these other Look at this. This looks
+42:18 like some kind of automatic thing that
+42:20 it build. Get rid of all these. Don't
+42:23 need them anymore. Just left with this
+42:26 one.
+42:29 So, we're doing a little bit of
+42:31 experimentation.
+42:33 Start 3DX. Where
+42:37 me make this so I can see this chat
+42:39 here. Uh Sharon says, "Mine is working
+42:42 through the menu radio menu just fine.
+42:44 Have you tried saying please and thank
+42:45 you?" Boy, Sharon, um if you want to
+42:48 really help out the chat and be
+42:50 everybody's hero, then um
+42:55 maybe you can get your chat to give a
+42:58 instruction set to the rest of us and
+43:00 share it in the chat. Be cool. Or share
+43:02 your email and send it off to people or
+43:05 something like that. Who knows? And put
+43:07 you to work. Haha. You had success.
+43:11 Share it. Share it. Share it, Sharon.
+43:17 Okay,
+43:19 started it up again.
+43:21 Fire up Chief. See what happens.
+43:30 Brock and I had a two-hour chat
+43:31 yesterday, huh? It won. [laughter]
+43:34 I like that. I need to find a way to pin
+43:36 comments. That's a good one.
+43:41 Still nothing.
+43:43 Dang. What is happening here? Where are
+43:46 you getting this junk from 3D
+43:49 connection?
+43:52 Yeah, it just defaulted to some new
+43:55 thing
+43:57 you can see. Well, I almost have to
+43:59 screenshot it because my webcam's in the
+44:01 way. Or let me kick my webcam off for a
+44:03 second.
+44:04 As I hover over this,
+44:10 you can see that now it's no longer
+44:14 booting with that Premier x18
+44:17 um XML file. Instead, it's doing app
+44:20 default config kmj. It's not recognizing
+44:24 a usable file is what's happening.
+44:28 All right. So, my chat messed up that
+44:31 config file. I know that.
+44:35 Let's go back and see if it'll fix. I'm
+44:37 going to set this up to a little bit
+44:38 higher now. Medium. Get it up to
+44:43 How do you get it up to high now? I
+44:45 don't see a way to do that. The slider
+44:47 doesn't go past Oh, it's right at the
+44:50 beginning. That's weird. That's real
+44:52 odd. Okay.
+44:56 Somehow you're making this XML file
+44:59 invalid.
+45:01 So I need you to go back to the one that
+45:04 I provided and start from the beginning
+45:07 to add my hotkeys that I need
+45:10 and copy the method that is used
+45:13 elsewhere to add that hotkey. This is
+45:16 not functioning now. It won't even load
+45:18 this driver package.
+45:31 I feel like once you get this set up,
+45:34 you can get chat GPT to give a
+45:36 description to itself, but also this is
+45:39 a somewhat of a training if you will. So
+45:41 once you get it set up once, then it's
+45:43 done. And and the goal of this was to be
+45:46 able to um create a key mapping that you
+45:50 can draw from and that chat can draw
+45:52 from and then just be able to do like a
+45:53 voicetoext deal where you just get to
+45:56 say, "Hey, I want to add a new hotkey to
+45:59 such and such radial menu and and do it
+46:01 and just have it be done." Um the other
+46:03 part of this is that I really do think
+46:05 it can author files uh to the location
+46:08 that I told it to. So, I'm going to
+46:10 fight with this off the off the call
+46:12 today so that I get that working. Um,
+46:15 and that way I really can just go to a a
+46:18 pinned chat because you can pin a chat
+46:21 um in chat GPT. So, go to that pinned
+46:24 chat and just drop in my instructions to
+46:28 add new hotkeys. And still keep in mind
+46:32 you can do these radio menus for any
+46:33 program you want. Now, you probably
+46:35 wouldn't do it for a lot of the programs
+46:36 because it's too timeconuming. So that's
+46:38 the point of this is that this is should
+46:40 not be timeconuming once we have it set
+46:42 up
+46:49 xware
+47:04 in
+47:10 boy. It doesn't look like a single line
+47:11 of code changed. So that
+47:15 me concerned.
+47:23 me go back to opening this up just in
+47:26 case
+47:32 to see when was this rewritten. Uh, it
+47:35 was not. It still says 938. So, we know
+47:38 nothing has changed. I like that.
+47:56 I'm just going to check how many lines
+47:57 of code in is in this.
+48:00 3,200 lines of code.
+48:05 3236.
+48:08 32 36. There we go.
+48:12 Hit save. And I go look at the
+48:14 timestamp. There we go. And updated. So
+48:17 maybe I wasn't saving it properly.
+48:22 Start 3DXware.
+48:24 Um,
+48:26 it looks like Chief is not crashing. So
+48:28 hats off to Chief if you fix that.
+48:29 That's been a long-standing bug. Very
+48:32 cool.
+48:36 And so
+48:42 still not loading the correct XML.
+48:50 Too bad.
+48:56 I got some repair work to do on my end.
+49:48 36. Yeah, something wrong.
+49:58 What would we say in the comments? Let's
+50:00 see.
+50:19 Oh. Um, what I'd love Sharon is if you
+50:21 just got your chat GBT to give um
+50:26 complex instructions for another chat
+50:28 GBT to follow and that way hopefully it
+50:31 doesn't mess up things that it's not
+50:33 supposed to mess up would be the thing
+50:35 that I'm thinking. Um, just to kind of
+50:39 reiterate what's happening is
+50:42 according to when I have Chief Architect
+50:45 targeted and I hover over
+50:48 my 3D connection, it says that it's
+50:50 loading up a different config file. So,
+50:52 for some reason, it's just not firing
+50:55 the correct config file. Um, which
+50:58 usually means that the config file is
+51:01 not valid. So, there's something wrong
+51:03 with it. Um,
+51:07 and a way maybe around that is just to
+51:10 delete all those config files. Keep in
+51:12 mind I have the original config um,
+51:14 backed up somewhere. I also have it in
+51:17 the chat, so I can always go back to the
+51:18 chat and go grab it there. Um, so I'm
+51:21 going to try this one more time. I'm
+51:23 going to hit stop on my 3DX. Um, I have
+51:26 definitely gotten this working before.
+51:28 So, it's really disheartening to say
+51:30 that I can't get this working on the
+51:32 live because that's really what I wanted
+51:34 to do. And I might send this to Claude
+51:38 instead cuz hey, sometimes me and chat,
+51:41 we just don't get along.
+51:44 So, let me delete this XML file here.
+51:50 And I'm going to delete the XML file
+51:52 here as well.
+51:56 I'm going to go to a
+51:59 quad session.
+52:03 I'm going to go back to my original chat
+52:05 discuss discussion here.
+52:18 Um
+52:20 Oh, I deleted my X. I don't have my
+52:22 original XML. Dang it. Just got rid of
+52:24 it. [laughter]
+52:26 It's okay. I'm gonna fix all this and
+52:28 then
+52:44 let me um we might just start from a a
+52:47 root one like we're brand new. That
+52:51 might actually be helpful just to show
+52:52 it being implemented. So start 3dxwhere.
+52:59 Let's see what happens when I've deleted
+53:01 the previous XMLs now.
+53:06 What's it loading up? It's still loading
+53:08 up app default config kmj. I don't know
+53:11 why it's not um creating a chief
+53:13 architect xml. So I feel like I've got
+53:16 to create one for it to load one
+53:18 correctly.
+53:23 And I feel like I might be a little bit
+53:25 dead in the water until I restore that.
+53:27 So,
+53:31 thankfully the clock is going to bail me
+53:32 out. This is uh this is my second worst
+53:36 show I've ever done.
+53:45 This
+53:52 Yeah. Chief Arctic Premiere XML virtual
+53:54 keypad
+54:02 config. Funny.
+54:37 So, I just made a new radial menu. I'm
+54:40 going to see
+54:42 that just created a new XML. Just
+54:45 creating a new radio menu created a new
+54:47 XML. Um, let's go find where that
+54:50 created it.
+55:02 It created it here and this is in the
+55:04 app data config. Okay. Now I'm going to
+55:08 copy as path
+55:20 and I'm going to see if Claude does a
+55:21 better
+55:41 Uh, let's see. Victor says, "Like what
+55:44 you're doing, we don't have that option
+55:46 on the Mac." Say more about that,
+55:48 Victor. Um, I know that the interface
+55:50 looks very different on the Mac, but you
+55:52 still have the ability to edit um the
+55:55 files. It's just that it's not an XML
+55:57 file. It's going to be whatever file
+55:59 type Mac uses. Maybe uh maybe it uses
+56:05 Plist
+56:07 file type. Do a little Google search on
+56:09 that. But um you know, you're you have a
+56:13 driver package just like we do. It's
+56:15 just utilizing a different file
+56:17 extension name. and but it's still um
+56:19 capable of being edited in a default
+56:21 text editor, which means you can edit it
+56:23 in um some kind of um chat as well. So,
+56:29 don't quote me on this, but I think the
+56:31 file type is called P list.
+56:39 Um, I don't know if you feel like
+56:41 sharing it, Sharon. And um, if you feel
+56:46 comfortable, maybe share your email for
+56:48 anybody that wants to reach out to you
+56:50 and and get that um, yeah,
+56:56 if you feel like it,
+56:59 let's see. Check. And this chat isn't
+57:01 linked to your PC, right?
+57:16 And so I'm telling um Claude now to do
+57:19 the same thing. So we've recreated the
+57:21 XML from just a blank keyboard mouse
+57:24 kind of setup. I created a radial menu
+57:26 so that I could see a radial menu. And
+57:29 then I'm trying to get
+57:33 trying to get Claude to this out for me.
+57:38 Oh, I do have my original XMLs here. And
+57:40 this is the reason I like Notepad++, by
+57:42 the way, because it will keep old copies
+57:45 of things in here,
+57:48 even if they've been rewritten. So,
+57:51 that's pretty cool.
+58:13 Okay. So, let's try this again. Stop
+58:15 3DX.
+58:20 Yeah, Chief is not crashing, man. Hats
+58:23 off, developers.
+58:25 We know you're working behind the
+58:26 scenes. Don't always see it, but it's
+58:29 happening. Take my word for it. They're
+58:31 working on stuff. Very cool. until they
+58:34 fix that.
+58:37 Okay, so I got some new config file.
+58:47 We're going to save it and see what
+58:49 happens when I load up. Let's see if
+58:50 it's valid now.
+58:53 Um, let's just make sure that actually
+58:55 saved.
+58:58 958. Yeah, that actually saved.
+59:04 Start it up.
+59:08 Get chief active. I'm going to check my
+59:10 tray. Yep, it's loaded the correct
+59:13 thing.
+59:15 Let me hit some buttons.
+59:18 There we go.
+59:20 Cool. It did not add the graphics, but
+59:23 it did maybe write a button. How can you
+59:26 test this? Very easily. Check this out.
+59:29 Get into tools, toolbars, and hotkeys.
+59:31 customize hotkeys.
+59:33 And then um I'm just going to go program
+59:36 this for Ruby console hotkey. And now I
+59:39 just get to hit that radio menu in the
+59:42 assign section.
+59:44 And so slide this through. If it was
+59:47 working, it would type something out.
+59:49 It's not working. So it's not typing
+59:50 something out. The one that I did is
+59:52 typing something out. The one that they
+59:54 did is not typing anything out.
+1:00:00 So, let's just do a little inspection to
+1:00:02 see what it did. So, it got, you know,
+1:00:03 it got part of it right. We're getting
+1:00:05 somewhere.
+1:00:17 I'm going to see what it did wrong here.
+1:00:21 Test radio menu.
+1:00:25 Edit it.
+1:00:32 And it put this ruby uy in here.
+1:00:39 But you ruby u actually this looks
+1:00:42 correct. It shows ln and m
+1:00:48 interesting.
+1:00:56 So,
+1:00:59 why isn't it typing L&M?
+1:01:08 Something with the way that it's coding
+1:01:09 that L&M is not working.
+1:01:12 Coded the same exact way that the other
+1:01:14 one is. So,
+1:01:16 I'm not sure.
+1:01:23 Yeah. Well, if you get it figured out,
+1:01:25 I'd love to hear about it. Maybe we'll
+1:01:27 revisit it in the beginning of next show
+1:01:29 to see where I ended up and see how I
+1:01:31 got there and see how I corrected some
+1:01:33 things to get this really uh working the
+1:01:36 way that I wanted to. Um, yeah,
+1:01:40 not every show is a winner. [laughter]
+1:01:45 I uh
+1:01:47 I hope you guys have a wonderful Taco
+1:01:49 Tuesday.
+1:01:51 I'm going to go beat my head against the
+1:01:54 wall and have a fight. We're going to
+1:01:56 have a fight. We're going to go 12
+1:01:57 rounds. So, with my little chat, we're
+1:02:00 going to talk about, you know,
+1:02:03 I need you to focus when we're on the
+1:02:04 live show so that you don't make
+1:02:06 embarrass me in front of all my people.
+1:02:10 Thanks again for being here. Thanks
+1:02:11 again for being um interactive in the
+1:02:15 chat. This is just getting to be a
+1:02:16 really good show. I love how active
+1:02:18 everybody is. I want to see if um
+1:02:20 somehow I can facilitate more of that
+1:02:22 because
+1:02:24 that's really that's really fun to see
+1:02:26 you guys chatting back and forth. All
+1:02:28 right, everybody. Thank you again. Thank
+1:02:32 you.

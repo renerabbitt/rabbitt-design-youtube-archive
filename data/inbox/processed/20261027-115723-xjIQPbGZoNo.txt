@@ -1,0 +1,406 @@
+Title: Skills Challenge - Double Vanity with Lights and Mirrors in Chief Architect
+URL: https://www.youtube.com/watch?v=xjIQPbGZoNo
+Visibility: public
+
+0:01 Okay, this is a skills challenge. We're
+0:03 going to design a double vanity with two
+0:05 mirrors and two vanity lights, all
+0:08 right? And so this is going to be a
+0:10 multiple level challenge.
+0:12 First level is going to be in a plan
+0:14 view with our default tools. Second
+0:17 level will be in a wall elevation view
+0:20 with our default tools.
+0:22 Third level will be in a 3D view with
+0:25 our default tools. And then the fourth
+0:27 level will just be a combination of all
+0:29 three using the Pro Plans tools in the
+0:32 kitchen tools toolbar, okay? So let's
+0:35 start this off. This is that beginner
+0:37 level. We'll be going, you know, kind of
+0:38 slow on this. I'm going to start timer
+0:40 just so you get an example of how much
+0:43 time we're spending at this. So here we
+0:44 go, let's start the timer. We're going
+0:46 to get our base cabinet tool ready, all
+0:48 right? And we can go ahead and place
+0:50 that base cabinet tool.
+0:53 Let's get in tight to this. We're going
+0:55 to start shrinking this. We want this to
+0:58 be a 12-in three drawer base. So we're
+1:00 going to start shrinking this. Now
+1:02 something to get in the habit of is as
+1:04 you are shrinking this, go ahead and hit
+1:07 the tab or enter key.
+1:09 It will bring up the enter coordinates
+1:11 dialog box.
+1:13 I want you to check the box for polar,
+1:16 okay? That's what we're going to do.
+1:17 Check this box for polar.
+1:19 Then
+1:21 we'll punch in our dimension. We just
+1:23 want to make sure that this is a nice
+1:24 whole number. 9 in is the correct
+1:27 dimension here. Actually, it's going to
+1:28 be 12 in in this case. And there we go.
+1:31 I've got a base 12 cabinet. Now we'll
+1:34 open this up and we're going to make
+1:35 this into a three drawer base.
+1:37 I'm going to in the preview here click
+1:40 on this front door and then I'll change
+1:43 the item type to a drawer. And then
+1:46 we'll split this horizontal, okay? Now
+1:50 you can go ahead and designate these
+1:51 however you like. For the purpose of
+1:53 this, we're not going to get into too
+1:54 much detail here. We just want to make
+1:56 sure that this is a three-drawer base.
+1:58 All right? Let me press okay. Now, I
+2:01 still have the base cabinet tool active,
+2:03 so I'm going to just click somewhere and
+2:06 then click to place. Notice where my
+2:08 mouse cursor is.
+2:10 Okay? Bumps are turned on.
+2:13 That means this cabinet is going to bump
+2:15 to the previous cabinet.
+2:16 There we go. 24-in cabinet. Let me go
+2:19 ahead and shrink this up by 21. Just
+2:22 make it a habit of hitting that tab or
+2:24 enter key so that we're punching in
+2:26 numbers with specificity. So, all I did
+2:29 was grab an edit handle, start to drag
+2:32 it. As I start to drag it, I could
+2:35 hit that tab or enter, and then bam.
+2:38 Type in three, I'm back to base 24.
+2:41 Okay? So, there's my base 21.
+2:44 Now, from here, I'm going to take this
+2:47 cabinet and your edit toolbar down at
+2:50 the bottom of the screen, I'm going to
+2:51 copy paste, and then a sub edit toolbar
+2:55 comes up here, and I'm going to reflect
+2:57 about. And I'm going to reflect about
+3:00 this cabinet here.
+3:01 Okay.
+3:03 Now, the next part about this is that
+3:04 you're going to want to find a sink in
+3:06 your library. All right? And let's just
+3:09 break out the library right here so we
+3:11 can see it.
+3:14 And so, I'm just going to do bathroom
+3:15 sink.
+3:16 And you don't need to do uh complete
+3:18 searches. You can just do bat sink, and
+3:21 you'll get there from that.
+3:24 So, there's a bathroom sink. I happen to
+3:26 have one that has a sink and a faucet
+3:27 integrated. I'm going to click, and
+3:29 that's going to place inside of this
+3:30 cabinet. Now, the next thing I want to
+3:32 do with this cabinet is something that's
+3:33 kind of common in my area is that we
+3:35 might have a full height double door.
+3:38 So, I'm going to click on the door. I'll
+3:40 click delete,
+3:42 and then with this single door, I'm
+3:44 going to switch this
+3:46 to a double. Okay?
+3:49 There we go.
+3:51 Next part about this, let's go ahead and
+3:53 get that mirror up. Let's see if we can
+3:55 find a mirror in the library.
+3:57 And so something that you could do after
+3:59 you type in the text for mirror is that
+4:01 you could say
+4:03 fixture and choose type fixture.
+4:08 interior
+4:10 And so here we go. We're finding
+4:12 mirrors, right? Maybe you need to go
+4:13 download a catalog for that mirror, what
+4:15 have you. So I've got a mirror here.
+4:17 Should be able to just place this.
+4:18 Notice that as I get close to the middle
+4:21 of that cabinet, I pick up a snap. So
+4:23 I'm able to just place that mirror based
+4:25 on that snap.
+4:27 Right?
+4:28 Exactly what we wanted.
+4:30 Now, I need a vanity light. So I can
+4:34 leave fixtures interior. I could just
+4:36 type in
+4:37 van l i g
+4:41 and maybe we'll get rid of fixtures
+4:43 interior. It probably wants to be an
+4:44 electrical item instead. And there we
+4:47 go. I've got a vanity light. I'm going
+4:48 to go ahead and place this. Same thing.
+4:50 I'm picking up that midpoint snap, okay?
+4:54 Now, if you're new to Chief Architect, I
+4:57 would encourage you in to get into edit
+4:59 preferences and
+5:03 in the edit panel over here, switch to
+5:06 select contained objects.
+5:09 Okay?
+5:11 And what does that do? That makes it so
+5:13 that we could
+5:15 just draw a marquee selection here.
+5:19 Draw a marquee selection over all these
+5:21 things right here, fully containing
+5:23 these objects.
+5:24 What it won't do is it will not select
+5:26 the wall because the wall is not fully
+5:28 contained. In intersected mode, it would
+5:30 selected the wall. This time, we're just
+5:33 selecting the things that are fully
+5:34 contained in this marquee. What does
+5:36 that mean? This three drawer base 12 is
+5:39 not going to be selected. Now before I
+5:41 go and duplicate this across the center,
+5:44 I actually want to change this three
+5:45 base 12 to three base 15. So, go ahead
+5:48 and start a to slide it over. Maybe I'll
+5:51 make it an 18.
+5:52 And hit that tab or enter key, type in
+5:54 six, there we go.
+5:56 Right? And so, with this selected, just
+6:00 so you know, if I want to deselect this,
+6:02 I could hold control and draw a marquee
+6:05 over this. Well, if I wanted to deselect
+6:08 this and select everything else, I could
+6:10 hold control
+6:13 right there, that would deselect our
+6:15 cabinet 03.
+6:16 If I keep going, it's going to select
+6:19 everything else that is not selected,
+6:21 which is exactly what I want. Okay? I've
+6:24 selected everything else. In my edit
+6:26 toolbar, copy, paste,
+6:29 reflect about, reflect about that center
+6:31 cabinet.
+6:33 Here we go.
+6:34 Now, notice our vanity light did
+6:36 something different. We might have to
+6:37 just bring that to the other side of the
+6:39 wall, isn't that goofy?
+6:41 And get it in place.
+6:43 But there we are. There is our whole
+6:46 assembly. Let's go take a look at it.
+6:56 That's pretty much what I wanted, except
+6:57 for these vanity lights, right? They
+6:59 need to be moved up
+7:01 in this case. But there we go. We did
+7:03 that very quickly.
+7:05 Okay.
+7:06 Now, let's do another try. We're going
+7:08 to do this out of an elevation camera.
+7:12 So, we can go ahead and get rid of this.
+7:14 Let's pull that elevation camera.
+7:17 A wall elevation here.
+7:20 And so, this is just to show you that
+7:22 you can do the same thing in an
+7:23 elevation.
+7:25 Choose that base cabinet tool, place
+7:26 this.
+7:28 Go ahead and start shrinking this up,
+7:30 right? What do we want it at? 12, so
+7:32 we're going to hit that tab or enter,
+7:33 hit 12.
+7:34 Okay? Next time we do that, we're going
+7:36 to do it a little bit faster.
+7:38 Open this up.
+7:39 Make sure we switch this to a drawer.
+7:41 split it horizontally,
+7:43 press okay. Base cabinet tool still
+7:45 active, so I just clicked and then I
+7:47 clicked to place.
+7:49 Let's do the same thing.
+7:50 Hit the delete key this time.
+7:53 And then
+7:54 we're going to make this a door double.
+7:58 All right.
+7:59 Next up, copy paste, reflect about, and
+8:03 hover over the center of this cabinet.
+8:06 So, again, it was copy paste, reflect
+8:09 about, enter, hover over the center of
+8:12 the cabinet. We want this to be an 18,
+8:15 right? So, we're going to drag this out
+8:16 six. We could just hit tab six enter.
+8:19 There we go. Quick, right?
+8:22 Let's get back into that library
+8:23 browser.
+8:25 We wanted Well, I've already got the
+8:27 vanity light in here. I could just click
+8:28 it anywhere. I could use in the edit
+8:31 toolbar the center object tool.
+8:33 Hover over this cabinet. That's going to
+8:35 use inference to center this object
+8:38 based on that cabinet. We can go back in
+8:40 our search parameter to find our
+8:42 previous search result of our mirror.
+8:45 We can click on this.
+8:47 If we wanted to when we were placing
+8:49 that, we might be able to,
+8:51 right? Click and infer the center from
+8:55 the cabinet below. Notice what I did
+8:57 there.
+8:58 I picked up a snap here and now it's
+9:00 inferring that. So, it will be centered
+9:03 based on that.
+9:05 And we could just drag this vanity light
+9:07 up. Okay?
+9:09 Now, I could just hold control
+9:12 and select additional objects, copy
+9:15 paste around the other side. Now, I'm
+9:17 missing something. I didn't place my
+9:18 sink yet.
+9:20 So, let me grab my sink. With the sink,
+9:22 it's a little bit trickier. Kind of have
+9:24 to click at the top of the counter top.
+9:25 All of a sudden that'll be placed.
+9:27 So, here we go. We get to just hold
+9:29 control, select these objects,
+9:31 copy paste, reflect about center.
+9:37 All right.
+9:39 8 minutes in, we've done this twice. Not
+9:41 too bad.
+9:43 You know, nice little marker there.
+9:45 Keep track of your time. So, next thing,
+9:48 we'll just recreate this one more time.
+9:50 Let's recreate this one more time, okay?
+9:53 I'm just going to select everything in
+9:55 here, delete it. Let's get into this 3D
+9:57 view.
+9:59 All right, we'll go a little faster this
+10:01 time. It's a little trickier here.
+10:03 Um
+10:04 going to get into base cabinet tool.
+10:09 Here we go. We know we're sliding this
+10:11 over 12.
+10:13 All right, open this up.
+10:16 Click here. We could just type in
+10:18 drawer.
+10:20 Okay? All I did, real quick, just typed
+10:23 it in real fast.
+10:25 There we go. Click somewhere.
+10:27 Click to place. Open this up.
+10:31 Hit the delete key.
+10:35 And this time, we're just going to hit
+10:36 the down arrow one time. We could have
+10:39 just used our mouse wheel down if we
+10:40 wanted to.
+10:42 All right, we've got our sink loaded up
+10:44 right here.
+10:45 Click that, kind of the top of the
+10:47 counter top there. It takes a little bit
+10:48 of practice to do that. I still have the
+10:50 sink loaded up, but I could right click
+10:53 on this object here
+10:54 if, and only if, in preferences
+10:59 that I have
+11:01 in the appearance tab, contextual menus
+11:03 is turned off. That enables us to,
+11:06 regardless of having a tool loaded up,
+11:08 right clicking on an object to select
+11:10 it. So, I'm going to right click this
+11:12 object. We're going to do a little copy
+11:14 paste, and reflect about, and we'll
+11:16 reflect about center here. Drag this
+11:19 out, tab 6 in.
+11:22 There we go.
+11:24 Let's go to our
+11:25 next searched item.
+11:28 Find that mirror.
+11:30 I'm just going to click it, place it,
+11:32 use the center object tool to center it
+11:35 up.
+11:36 Let's go find that vanity.
+11:39 Click it, place it.
+11:42 Center object to center it up.
+11:44 I'm using hot keys for that. No longer
+11:46 using the toolbar, right?
+11:49 And then we just get to
+11:53 click,
+11:54 copy, paste. Now, I used right click on
+11:56 that. I used right click and control to
+11:58 keep continuously selecting things.
+12:01 And we copy, paste, reflect about, hover
+12:03 over kind of the top front edge of this
+12:05 cabinet, and there we go.
+12:08 So, pretty quick, right?
+12:11 So, we just built that three times. Now,
+12:13 let's do it with my own tools, okay? So,
+12:15 I've got some specialty tools to make
+12:17 this job even a little bit faster.
+12:20 So,
+12:22 we'll just select all this, get rid of
+12:24 it.
+12:25 And this time around,
+12:27 we're going to go a little quicker,
+12:28 okay? So, I'm going to use my I'm
+12:30 actually going to use some visual hot
+12:32 keys, like this. These are radial menus
+12:34 that I've got programmed in, so just let
+12:36 you know, you can get very, very
+12:38 advanced in this software. So, here's my
+12:40 base cabinet tool. I get to just click
+12:42 that. Okay, we're going to shrink this
+12:44 up 12 in. I've got a three-drawer base
+12:47 painter. I get to spray that. I get to
+12:50 cycle back a tool to
+12:52 place that cabinet. I got a full-height
+12:55 double-door tool here. I've got a sink
+12:57 and faucet in here as well. I just get
+12:59 to click that in place
+13:01 and copy, paste, reflect this about,
+13:04 drag this over six.
+13:07 Okay. Um my vanity light is built in to
+13:11 my lights as my sconce.
+13:14 So, I just get to use the default tool
+13:15 for that. Center this up, and we're
+13:18 going to go find that mirror one more
+13:20 time.
+13:26 And there And there There's our mirror.
+13:29 And center this up.
+13:32 Drag this up a little bit. Maybe you
+13:33 want to move that with some specificity.
+13:35 Be able to right click with control key,
+13:38 copy paste, reflect about the center.
+13:40 And then we could even do some other
+13:42 cool stuff like might be able to just
+13:45 drop in a closed toe with my tools and
+13:48 apply that. Give it a little bit of
+13:50 nicer of a look. Add an eased edge with
+13:52 my tools. Add that eased edge to
+13:54 everything that's here. And then I could
+13:57 go and do something like
+13:59 um change that eased edge profile to an
+14:01 OG style profile.
+14:05 Give a little extra touch there. And
+14:07 let's switch this to a ray trace view.
+14:10 And we might even just
+14:12 come into a top-down view and drop in
+14:15 some lights.
+14:16 Right? Really nice and easy to drop a
+14:19 light, copy paste, reflect about, copy
+14:21 paste, center object. Select all lights,
+14:24 copy paste, reflect about. Now we got a
+14:26 room full of lights. Control tab to get
+14:28 to your next tab over. And there we go.
+14:31 We got our vanity assembly. Maybe we
+14:34 want to paint it with a different color.
+14:38 So,
+14:39 this is the first skills challenge.
+14:41 Get after it. See how quickly you can do
+14:43 this. Just practice this. Practice this
+14:45 over and over and over again, right?
+14:47 Practice this this till it feels like
+14:49 it's second nature. We're missing
+14:50 something here. We got a little
+14:51 backsplash. So, I'm going to just use
+14:53 the backsplash tool and just depends on
+14:56 how you draw it out.
+14:58 There we go.
+15:00 And I can then use
+15:01 a material eye dropper to spray that
+15:04 same material on the back there.
+15:06 Pretty cool. Thank you for watching.
+15:23 >> Mhm.

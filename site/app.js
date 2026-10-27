@@ -127,7 +127,7 @@ async function init() {
   renderPlaylists();
   renderTaxonomy();
   renderResults();
-  elements.searchHelp.textContent = `Search currently covers ${state.data.stats.readyVideos} imported transcripts and summaries.`;
+  elements.searchHelp.textContent = `Search covers ${state.data.stats.readyVideos} videos; ${state.data.stats.transcriptVideos} have full transcripts. Others are searchable by title and available metadata.`;
 
   elements.searchForm.addEventListener("submit", (event) => {
     event.preventDefault();
@@ -372,10 +372,12 @@ function scoreVideo(video, terms) {
     return 1;
   }
 
+  const title = video.title.toLowerCase();
+  const phraseBonus = title.includes(terms.join(" ")) ? 200 : 0;
   return terms.reduce((score, term) => {
     const matches = video.searchText.split(term).length - 1;
-    return score + matches;
-  }, 0);
+    return score + Math.min(matches, 20) + (title.includes(term) ? 10 : 0);
+  }, phraseBonus);
 }
 
 function renderVideoCard(video) {
@@ -399,9 +401,14 @@ function renderVideoCard(video) {
 
   meta.append(createBadge(formatDuration(video.durationSeconds)));
   meta.append(createBadge(membersOnly ? "Members Only" : "Public", membersOnly));
+  if (video.transcriptAvailable === false) {
+    meta.append(createBadge("Transcript pending"));
+  }
 
   title.textContent = video.title;
-  summary.textContent = firstParagraph(video.summary);
+  summary.textContent = firstParagraph(video.summary) || (video.transcriptAvailable === false
+    ? "Searchable by title. Full transcript search is pending."
+    : "");
   actions.append(
     createActionLink("Rabbitt Design Videos", "https://www.rabbittdesign.net/videos", true),
     createActionLink("Chief Search", "https://www.rabbittdesign.net/chiefsearch"),
@@ -433,6 +440,7 @@ function renderVideoCard(video) {
   });
 
   snippet.innerHTML = highlight(buildSnippet(video), state.query);
+  node.querySelector("details").hidden = video.transcriptAvailable === false;
   return node;
 }
 

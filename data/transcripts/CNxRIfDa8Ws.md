@@ -1,0 +1,2085 @@
+---
+videoId: CNxRIfDa8Ws
+title: Chief Architect X18 OFFICIAL is *LIVE* First Preview Of Patch Notes
+url: "https://www.youtube.com/watch?v=CNxRIfDa8Ws"
+status: imported
+---
+
+# Transcript
+
+0:02 Hello, hello, hello, hello. Something
+0:06 just happened. X18 official, I believe.
+0:10 Official just released an hour ago. It's
+0:14 uh 4:34 p.m. Pacific Standard Time. So,
+0:17 an hour ago, they announced on Chief
+0:19 Talk. This is the official release notes
+0:21 I'm looking at right now. Uh before I
+0:25 actually install it, actually, maybe
+0:26 I'll just install it. Hoping it doesn't
+0:28 break anything for me.
+0:31 And then you're just in it with me live.
+0:33 If you're in here, um, cool. I This is
+0:36 not something that's announced. They
+0:37 didn't give us any warning. So, I didn't
+0:38 give you any warning. So, if you're in
+0:40 here, that's a miracle. Cool. Um,
+0:42 hopefully we're not taking up too much
+0:44 of your evening. And I'm just going to
+0:47 get into my downloads folder so I can
+0:48 start installing this because I backed
+0:50 up the things that I like to change to
+0:53 my Chief Architect. And I'm hoping this
+0:56 is really easy. And I'm really, really
+0:58 hoping it solved a couple of problems I
+1:01 was having. So, we'll see how it goes. I
+1:05 probably should have backed up my system
+1:08 first.
+1:09 That would have been a good idea. I
+1:11 didn't. I encourage you to. Um, I have a
+1:15 backup from a couple days ago, so not
+1:16 the end of the world.
+1:19 And we'll let that install. Meanwhile, I
+1:21 want to look at the the the log.
+1:25 See what's happening here.
+1:30 Let's get this zoomed in so you could
+1:32 see it if you're in here. Uh,
+1:38 basic math is now supported in angle
+1:43 angle text boxes.
+1:46 Okay,
+1:48 I guess that wasn't true. Yeah. All
+1:50 right. enable disable table cells from
+1:53 displaying consistently in dark mode.
+1:56 That's a great one. Um because that was
+1:58 not fun for me. That was uh whenever I
+2:01 wanted to apply tags, I had a problem.
+2:06 Fixed a problem that prevented a
+2:07 specific plan file from opening in the
+2:09 Windows version of the software. Okay.
+2:11 Um I I ran into a couple of those. Notes
+2:14 can now be added to projects, plans, and
+2:18 layouts in the detail panel of the
+2:20 project browser. That's actually very
+2:23 cool.
+2:25 That's very cool. I can't wait to check
+2:26 that out. Uh that would um make it so
+2:30 that I actually want to display the
+2:31 details panel because right now I don't.
+2:34 Boy, I thought it installed already.
+2:35 That was fast. There's no way. Oh, it
+2:37 wants me to me to close. Gee, that would
+2:40 make sense, wouldn't it?
+2:42 Um,
+2:44 of course, close this thing. Close it.
+2:48 Yeah, that would make sense. You want me
+2:50 to close that? Sure, why not?
+2:54 Back to this.
+2:59 Fixed an issue that prevented plan
+3:01 previews from displaying in the project
+3:02 browser if the plan was closed. Yes,
+3:05 that's awesome. I definitely had that
+3:07 one. I don't think I reported that one.
+3:08 I'm glad that's fixed. Uh, fix the
+3:11 problem that prevented the templates
+3:12 list in the project browser from
+3:14 updating when the template units were
+3:15 switched in preference dialogue. How's
+3:18 it going, Cody? Welcome in.
+3:21 Uh, let's see. Project planning. All
+3:23 properties of the default exterior and
+3:26 interior walls are now used when the
+3:30 space planner built. Yes.
+3:34 Yes, that is a big one. That is one I
+3:37 reported for sure. That is awesome.
+3:40 Um, before if you used the space
+3:42 planning tools, if you had macros built
+3:44 into your default exterior, interior
+3:47 wall or you had them reporting to
+3:50 specific layers the way that you wanted
+3:52 them when you used the space planning
+3:55 tools, they did not follow those
+3:57 defaults. So, you got walls that had no
+4:00 macros, you got walls that had no custom
+4:02 fields, you had walls that weren't
+4:04 following your custom layers. So, that's
+4:07 really cool. another reason to start
+4:08 using that space planning tool. I'm
+4:10 telling you, if they keep developing
+4:11 that tool, it's going to be a gamecher
+4:13 in the long run for people designing new
+4:15 construction. Um, it [snorts] needs a
+4:18 few more tweaks, I think, and I plan on
+4:20 going and talking to the guys that are
+4:23 doing that. They had um a relatively
+4:25 newer developer in the in the chief
+4:28 architect team is handling that space
+4:29 planning tool and uh and I hope to go
+4:32 chat with them uh in coming up next
+4:34 month. So, um, that's going to be a
+4:37 thing. I'm going to start producing
+4:39 content around that space planning tool.
+4:41 I think it's going to be really valuable
+4:42 in the long run.
+4:44 Uh, let's see. The new use dark mode
+4:47 toolbar button options and preference
+4:49 dialogue for color themes. That's great.
+4:51 Um, I had to force the the flip of which
+4:54 icons we're using in dark mode because
+4:56 it just uh didn't work with my custom
+4:58 color theme. So, um, I'm assuming that
+5:01 this kind of fixes that issue.
+5:04 Uh, toolbarss and hotkeys. New select
+5:06 current tab toolbar drop-down list lets
+5:11 you select and switch to any open view.
+5:14 I'm not sure what that means. Hold on.
+5:17 New select current tab toolbar
+5:21 drop-down list lets you select and
+5:24 switch to any Boy, I don't know what
+5:26 that means. That's kind of obscure
+5:28 wording. Um, improved the export import
+5:32 tool icons. Does not look like we got an
+5:35 export tool bar configuration
+5:39 yet. Dang it. Um,
+5:44 improved it. Well, let's see if this is
+5:46 Let's see if this is finished
+5:47 installing.
+5:48 We'll launch it. We could test a couple
+5:50 of these things.
+5:52 um fixed a problem that caused Maybe
+5:55 I'll just drag and drop this PDF in
+5:57 there so we could just look at it right
+5:58 in the plan view. Huh, that would make
+5:59 sense. Let's see if my pro plan for
+6:03 those of you in my pro plan. I know
+6:04 Cody, you're in the chat here. You've
+6:07 got my pro plan. Let's see if this thing
+6:09 freaking works out of the box. Would be
+6:11 awesome if it just worked. That would be
+6:14 great.
+6:16 Um, one of the things that was not
+6:19 working very well was
+6:22 deleting library folders.
+6:24 So that if I made a copy of this folder
+6:27 or duplicate this entire folder, see
+6:30 what happens. Probably um, in the past
+6:32 this would just in the beta this would
+6:35 just hang the system up terribly.
+6:39 Um, that's not going slower than
+6:42 molasses. That's actually that's faster.
+6:44 So maybe they made some improvements on
+6:46 the back end on this. This definitely
+6:47 seems faster. And what I'm really
+6:49 interested in is seeing how quickly it
+6:51 deletes because currently we have no
+6:53 option to import a library if we updated
+6:56 that library to overwrite an existing
+6:59 library. So the process is cumbersome.
+7:02 You have to delete the existing library,
+7:04 empty your trash in order to bring in an
+7:08 updated library that has established
+7:10 links to toolbar icons and everything
+7:12 like that. So, um, the step one here,
+7:15 the fact that this is duplicating at a a
+7:17 little bit faster speed than it was
+7:19 before tells me they maybe did something
+7:21 on this. Maybe this is just a placebo
+7:24 effect for me. [laughter]
+7:26 Traumatized.
+7:27 Um, everything is so fast in this
+7:30 software compared to X17 except for
+7:33 library management stuff. So, if they if
+7:36 they fixed a few things here, I will be
+7:38 very excited. So, the test right now is
+7:41 just going to be
+7:43 um I duplicated this. In case you didn't
+7:45 know, in case you don't have my full
+7:46 library, in case you don't have my pro
+7:48 plan, if you want to go download a
+7:50 package full of library objects, there's
+7:52 I think over 275 library objects that
+7:55 I'm giving away for free. So, you can go
+7:57 test some of the systems that I built.
+8:00 Um yeah, 278 library objects that is on
+8:03 the website in the free symbols section.
+8:06 It's one single file to download.
+8:08 Anyways, let's see what happens when I
+8:09 hit delete on this whole thing. Um,
+8:12 because before it would just crash the
+8:13 system. But, uh, even if you were to
+8:16 select all 278 objects and try to delete
+8:18 them, it would take a really, really
+8:20 long time. So, we'll see if this gets
+8:23 through. Um,
+8:25 it seems to be working so far. So,
+8:27 that's a big big plus for me and people
+8:30 that have my stuff. All right, so let's
+8:33 get back into this to take a look.
+8:36 Actually, it started looking like it was
+8:37 moving pretty fast right there.
+8:40 Um, well, we wanted to see what this is.
+8:42 New select current tab toolbar dropdown.
+8:45 Boy, that's a mouthful.
+8:48 Um, okay. Improve the way text in the
+8:51 layer display options dialogue is
+8:53 truncated when columns in the tabs are
+8:56 resized. Okay, maybe they're showing us
+8:59 um beginning and end would be cool.
+9:02 Take a look at that once this finishes
+9:04 up.
+9:08 If that deletes, no problem. That's
+9:09 That's great. That's really great for
+9:13 me. So,
+9:17 okay. Fixed a problem that caused some
+9:20 types of closed polyline based objects
+9:23 to be too easily selectable when their
+9:25 fill style was set to user layer and
+9:28 their layer was set to use no pattern.
+9:31 Interesting. I don't think I ran into
+9:32 that one.
+9:34 Um,
+9:36 oh, you still need to upgrade to the X18
+9:38 versions. Yeah. Uh, boy, I do I love the
+9:42 X18 versions. I don't think I I don't
+9:44 think someone could pay me enough to go
+9:46 back to the X17 versions. No offense to
+9:50 myself, but that guy didn't know what he
+9:51 was doing. When you look at the X18
+9:54 versions, it's like it's like someone
+9:57 entirely different developed them.
+9:59 [laughter]
+10:00 All right, that was cool. That deleted
+10:02 that. Thank you, chief. Let's see how
+10:05 fast it deletes our trash. Maybe that
+10:08 goes real quick.
+10:10 I have the fastest hard drives on the
+10:13 planet in RAID configuration. So, yeah,
+10:15 that should go quick. Um, I wish you
+10:19 kind of just like you guys created a
+10:20 cache system so that we were just only
+10:23 caching that in a temp directory in the
+10:25 trash and only commit it to to an actual
+10:28 directory like the user catalog. if we
+10:31 close the program down because then
+10:33 deleting the trash would just empty
+10:35 immediately. So developers, let me say
+10:37 that again. If you cached the delete to
+10:42 your temp directory, which you already
+10:43 have a system for, I know this. I've
+10:46 looked it up. Um, so cache the deletion
+10:49 to the temp directory. Leave it there.
+10:52 That way if I empty trash, you're just
+10:54 ditching the temp directory. That's it.
+10:57 So you don't have to sit there and go
+10:58 one by one in empty trash. So note to
+11:01 the developers, if I close the program
+11:04 down, by all means, pull the temp
+11:06 directory into the trash uh catalog.
+11:10 Right? That's a simple approach. Makes
+11:12 it way faster for us to empty trash or
+11:15 just please give us a freaking ability
+11:19 to overwrite library objects from a new
+11:22 import. Please, I'm begging you. Okay,
+11:25 enough rant.
+11:27 um
+11:28 and allow us to export toolbar
+11:30 configurations. Let's just see if by
+11:32 some miracle they gave us that ability.
+11:36 No, there's no export button here. Dang.
+11:39 One could hope, you know. Uh okay. What
+11:42 is this? What is this new thing you guys
+11:44 are saying?
+11:48 I don't see
+11:51 I don't see this. If someone can figure
+11:53 what this is out, uh, kudos to you.
+11:56 Select current tab.
+12:00 New select current tab toolbar dropdown
+12:05 list lets you select and switch.
+12:10 Let you select and switch to any open
+12:12 view. Let's add a tab.
+12:22 I don't see I I'm not sure what that's
+12:25 referring to. Hopefully that's in
+12:32 Hopefully that's in the documentation
+12:34 somewhere. I don't quite understand what
+12:36 that's talking about. So, I'll have to
+12:39 go play around after this show. We'll
+12:42 get back to that.
+12:44 Um, oh, uh, Aldo. Oh, let me just drop
+12:47 the drop drag this into Chief so we can
+12:50 just read it straight from Chief.
+12:54 And we'll throw this in downloads. And
+12:57 then we just drag and drop to Maybe we
+13:01 can drag and drop to this tab. No, we
+13:03 can't. Try that again.
+13:07 Can I drag and drop this to this page?
+13:10 Yes, we can. uh current page and we're
+13:13 actually on not the current page, page
+13:17 two.
+13:20 Okay.
+13:23 So,
+13:27 um, when this is shrunk down,
+13:32 and that shrunk down as far as it goes,
+13:36 and we have a really long layer. They're
+13:40 just saying that this is improved
+13:41 somehow, that the display of this has
+13:44 improved. Oh, look at this.
+13:47 This feels new to me. I don't feel like
+13:48 I've ever seen this before.
+13:53 So that's the full text. Um,
+13:57 okay.
+13:59 Cool. Thanks. [laughter]
+14:02 What can you say? Cool. I like it. Okay.
+14:08 Fixed a problem that fixed a problem
+14:10 that this is one I reported. Fixed a
+14:12 problem that prevented the center object
+14:13 edit tool from working as expected in 3D
+14:15 views. This is something that I um is am
+14:18 just romantically
+14:22 intimately
+14:23 intimately experienced with uh which is
+14:26 that if you had some object that didn't
+14:28 have perfect front-facing planes um like
+14:32 a hood. Okay, let's say I wanted to
+14:34 center this based on this hood. Couldn't
+14:36 do it in beta. So, well yeah, now you
+14:39 can. That's awesome. Thank you, Chief.
+14:42 Thank you. Thank you. Thank you. That's
+14:44 really, really awesome. That gets us
+14:46 back to that um super fast flow state of
+14:49 designing kitchens very very quickly
+14:50 when we can use that center object tool
+14:53 easily like that. That's super cool. Um
+14:56 let's just throw a big globe on the on
+15:00 the floor. Can I center this based on
+15:02 this globe? Yeah, I can. That's pretty
+15:05 Well,
+15:08 maybe I was asking for a little bit
+15:09 [laughter] much there,
+15:12 but you know what? That's That's really
+15:15 cool. Thank you, Chief. I really do
+15:17 appreciate that. I can't tell you.
+15:19 That's just awesome. Um, makes a huge
+15:22 difference. So, good one.
+15:27 Uh,
+15:30 fix an issue that caused an undo to be
+15:32 recorded in error with screen capture
+15:34 setup. Wow, I did not run into that one.
+15:36 Um, okay.
+15:38 corrected an issue that prevented the
+15:40 preview in the style pallet dialogue
+15:42 from updating when the table
+15:44 was navigated using the arrow keys.
+15:49 Huh.
+15:50 Style pallet dialogue from updating when
+15:53 the table was navigating using your
+15:54 keys. Interesting. Okay.
+15:58 I don't know how someone found that one.
+15:59 Cool.
+16:01 Fixed an issue that caused schedules
+16:03 added to CAD blocks to jump to a
+16:05 different location. I did run into that
+16:07 and I did not report that. Um, nice.
+16:11 Fixed an issue in which door symbols in
+16:14 library browser which much slower to
+16:16 load than other objects. Well, that's
+16:18 great to know cuz I have a ton of those.
+16:21 So,
+16:22 um, anything you're doing to speed up
+16:24 the library is good in my book. What'
+16:27 you say, Cody? Sounded like you're
+16:28 allowed to pick one of the open tabs in
+16:31 dropdown form.
+16:34 Yeah, that's a big win. I know. That's
+16:35 what I was thinking too was
+16:38 can you but where
+16:42 uh you know that's what I'm not
+16:43 understanding. I'm going to have this on
+16:45 the sidebar to look at that again.
+16:48 Um,
+16:50 new select current tab.
+16:53 Current
+16:55 tab. Let's try typing in tab.
+16:59 Tab windows layout page tab. Search for
+17:01 plans allow toolbar and create plane
+17:03 touches. Select new. Select current tab
+17:08 toolbar
+17:11 drop-down list.
+17:15 Select and switch to any open view
+17:22 tab.
+17:26 Select current tab. Here it is.
+17:29 Oh, baby.
+17:32 Yes, please.
+17:38 That is cool. That's very cool.
+17:45 Oh man. Um,
+17:49 okay. So, here's a test. Sorry, Chief.
+17:51 You know me. I want to break things that
+17:53 you're not giving me. So, I want to
+17:55 break something that you're not giving
+17:56 me. And so, let's do this. I'm not going
+18:00 to say this right now. Is,
+18:04 you know, sorry. Sorry, guys. Yell at me
+18:07 in person for this is all I can tell
+18:10 you. Um,
+18:12 give us some dang colorcoded
+18:16 color. What am I looking for? Program
+18:18 files. Colorcoded um, graphics, please.
+18:23 So that we can distinguish between view
+18:25 types easily visually. So I'm going to
+18:28 get into resources and graphics, and I'm
+18:31 going to replace these with the ones
+18:33 that I want.
+18:35 Um, which is I'm going to get some
+18:37 colorcoded stuff in here.
+18:40 Bam.
+18:43 And we'll see what happens.
+18:48 Since we're here, let's do
+18:52 this guy. No, that's what
+18:59 I want this guy.
+19:07 Yep.
+19:08 Okay. X18. Bam. Bring it up. Let's see
+19:12 what it's got.
+19:14 My life just got easier. I know. That
+19:16 was cool. That's a cool feature. Um,
+19:20 didn't see that coming. Super cool.
+19:23 Especially when you're on a call where
+19:25 you got so many plans open. Sometimes it
+19:28 happens.
+19:32 Okay. So, let's see this. Does it
+19:34 follow? If I pull up in another view,
+19:37 does it follow this new colorcoded stuff
+19:39 I just dropped? It does. So, it just
+19:41 pulls the same icons. So, I changed the
+19:44 color of my icons on purpose because it
+19:47 makes me visually be able to see that
+19:49 better. So, now it's also following
+19:51 those same icons here. That is awesome.
+19:54 Chief, please don't take away my access
+19:57 to changing those. I'm begging you.
+20:00 We're not breaking the system. We're
+20:01 just modifying it just a little bit.
+20:03 It's like modifying our favorite video
+20:04 game. So yeah, now I have colorcoded.
+20:07 Oh, that is so cool. And you know the
+20:10 full name in there. Not to mention, I
+20:12 love that this is very smart. Um,
+20:16 something you picked up on, Chief, is
+20:17 that I actually renamed all of my plan
+20:21 views, my layer sets, everything to be
+20:23 shorter names because you were forcing
+20:25 the width of these to be wider. Notice
+20:28 that the width of this does not need to
+20:30 be wider. That they give you the full
+20:32 width dropdown. That's brilliant, chief.
+20:35 Great job. Great job.
+20:38 Okay. Um,
+20:41 what's up next? Oh, I lost my little my
+20:44 little guy here. Dang it. That was dumb.
+20:47 Let me get that back for us.
+20:50 Where's that PDF?
+20:55 We're probably in page three, I think.
+21:00 Okay. Um,
+21:14 I think I missed the page. Let's see.
+21:16 I'm going to look on my side screen for
+21:18 a second.
+21:20 Fix an issue that caused an undo to be
+21:22 recorded. No. Correcting an issue that
+21:24 prevented the pre. No. Fixing the issue
+21:27 that caused schedules added a CAD
+21:28 blocks. Yeah.
+21:30 and door symbols. Okay, so we're on the
+21:32 correct page. Fixed a problem that
+21:34 caused CAD block offset to be incorrect
+21:36 if the symbol had been resized.
+21:39 Interesting. Fix an issue that prevented
+21:42 the lock options in the line
+21:44 specification dialogue from working
+21:47 correctly. Okay.
+21:50 Um,
+21:52 fixed a problem that could cause
+21:54 interior wall edge lines to be missing
+21:57 in wall elevations. All right.
+22:02 Fixed a specific case in which portions
+22:04 of a wall material region using 3D
+22:06 cladding did not generate when applied
+22:08 to an attic wall. Well, that's a good
+22:09 one because I do have a 3D cladding
+22:11 board and batten material region tool.
+22:14 Um, in case you didn't know that, you
+22:16 can create your own cladding very
+22:17 easily. And so you got a little building
+22:21 here. And let's just say that this these
+22:23 two are little gable end walls. And we
+22:27 go pull this camera view, which we could
+22:29 have gotten to from the new drop down.
+22:31 Thanks again. And I've got a wall
+22:34 material region here that draws with
+22:36 born batten hopefully very easily,
+22:42 which it did not seem to be doing very
+22:44 easily right then.
+22:47 There it is.
+22:49 And there it goes. And so if I were to
+22:52 rotate this backdrop so we can see it.
+22:56 Maybe we'll even rotate the sun so we
+22:58 could see it. Yeah, just like that.
+23:03 Cool,
+23:05 cool, cool, cool. Let me get back to my
+23:07 plan view. Boy, that's so cool. Okay.
+23:10 Uh,
+23:12 I wonder what happens if you open up
+23:13 another file um that's named differently
+23:17 such as this. What is this? Alphabetical
+23:22 or is it order of tabs?
+23:25 It's alphabetical. I like that. I prefer
+23:28 that.
+23:31 Cool. Chief, that's off.
+23:38 Okay.
+23:43 fix an issue that caused editing
+23:44 feedback on walls to jump when wall size
+23:47 would edit in 3D views. I have seen that
+23:49 um especially if you went and watched my
+23:52 most recent template Tuesday's video
+23:54 where I'm showing you how to do a
+23:56 walkout basement. Um, you probably
+23:58 caught at some point that that did in
+24:00 fact jump when I was um when I was doing
+24:03 something uh something I did not report
+24:07 or I reported a long time ago. I'm
+24:09 curious to see if they fixed. I'm just
+24:11 going to skip some things just because
+24:14 I'm thinking of it now. So I want to see
+24:16 if it worked. is
+24:19 I could not get in an elevation view
+24:22 specifically this to copy paste and move
+24:26 up 48
+24:29 accurately. They fixed that. And so now
+24:31 you can do
+24:33 your transom setups in elevation which
+24:36 is the best way to do it. And
+24:39 brilliant chief. Again, good job.
+24:45 Good job.
+24:47 You fixed that. It must be in the list
+24:49 somewhere.
+24:52 Cool.
+24:54 Um, okay.
+24:58 Oh, I forgot that I built this into the
+25:01 mold unit around top. Yeah, cool. Okay,
+25:04 so where are we at?
+25:08 Fixed a problem that resulted in extra
+25:10 lines being added below attic walls when
+25:13 sending elevation views to layout as
+25:15 plot lines. Okay.
+25:17 Fixed a specific case in which railing
+25:19 was extended too far into a wall in 3D
+25:23 views. Um, another one that you know
+25:25 might be considered um is if I used a
+25:32 straight terrain retaining wall.
+25:34 Sometimes this would dive into these
+25:37 walls in a in a way that didn't make
+25:39 sense. So that actually looks like it's
+25:42 functioning better there. Let's see how
+25:44 it functions here.
+25:46 Yeah. So if you set this to partition,
+25:49 it should technically just be buted. You
+25:52 might have to make a duplicate of this
+25:53 wall type
+25:55 and call it a partition wall and it will
+25:57 still be a terrain retaining wall, but
+25:59 it won't be butdding in there. All
+26:00 right. So it's all functioning.
+26:05 Fix an issue that prevented recessed
+26:07 openings from cutting out additional
+26:10 framing layers correctly.
+26:13 Okay,
+26:15 they they've been busy. There's a reason
+26:17 it's taken them a couple months.
+26:20 Corrected a problem that sometimes
+26:23 prevented the wall hole associated with
+26:25 an opening in an attic wall from
+26:28 immediately updating when the opening
+26:30 was moved. Okay.
+26:33 These are all patch fixes. We've only
+26:34 seen one feature, right? Uh, corrected a
+26:38 specific case in which a wall's drywall
+26:40 was not extending all the way down when
+26:42 roof cuts wall at bottom. All right. Um,
+26:45 adjusting 3D cladding tool on a wall's
+26:47 exterior side caused the cladding to be
+26:49 applied to the other side. Interesting.
+26:55 Okay, I didn't run into that one.
+26:58 fix the case in which deck border planks
+27:00 Oh, and by the way, I didn't even pick
+27:02 up on the fact that my icons look
+27:04 correct right now. That is awesome. You
+27:07 fixed that, Chief. Uh, and so the other
+27:08 thing that was a problem was when I
+27:10 would go to something in my user catalog
+27:14 and rightclick and get into the tag
+27:17 section. Uh, this is not fixed.
+27:20 So,
+27:21 um, you're being, you know, blanked up
+27:23 by my webcam.
+27:25 is that if I get into
+27:28 right-click tags, this is still showing
+27:33 whited out. And the other thing that was
+27:35 happening for me was if I change my
+27:37 preferences so I could finally see that,
+27:39 which is my table input background to
+27:42 something that's at least medium gray
+27:44 now, which is not what I want. Um, then
+27:47 I can finally read this because there is
+27:49 the font being shown up, right? Um,
+27:53 but when I would close Chief down, it
+27:56 would revert back to this being white
+27:59 again. And I don't know why. Um, so when
+28:03 we close and reopen Chief, we'll have to
+28:05 test to see if that's true.
+28:10 Uh, let's see.
+28:17 Fix the case. Deck border planks did not
+28:19 generate when no border against walls
+28:22 and herring bone pattern were both
+28:24 specified. Oh, you're building fancy
+28:25 decks out there. Gotcha.
+28:28 Uh, fixed a problem that caused auto
+28:30 elevation dimensions in a wall elevation
+28:32 to offset too high if the highest ridge
+28:35 mark was specified. Well, the other
+28:36 problem I was having with auto
+28:38 elevations in
+28:41 um the wall elevation tool is that it
+28:43 was picking up it was doubling up my
+28:48 molding profile
+28:51 in the auto dimensions which you know
+28:55 took a little bit of cleanup to get rid
+28:56 of. So when I hit auto dimension
+28:59 hopefully this just works. It does.
+29:01 Great. This was doubling and tripling up
+29:03 this dimension for some reason. So now
+29:05 it's back to just sweet working out of
+29:08 the box and and with the fixes that they
+29:11 seem to have done in elevation views,
+29:13 this is going to bring me back to
+29:14 drawing my cabinet elevations in an
+29:18 elevation. It's actually very easy when
+29:20 you get used to it and you have some
+29:21 tools built like this um so that I can
+29:24 quickly draft out my stuff. In fact,
+29:28 let's even see if we can get a sink into
+29:31 this base would be awesome.
+29:37 No, it's like, oh, it let me. And that's
+29:40 really cool. Um, so yeah, you can build
+29:43 if you want to design your kitchens in
+29:45 this view. It looks like you can do it
+29:48 now.
+29:49 That's very cool.
+29:51 Um,
+29:54 yeah, that's very cool. Look at that.
+29:58 Auto KBA. Bam.
+30:01 Chief, you're looking sweet, baby. You
+30:04 are looking sweet. Um, notice I punched
+30:06 in I swear I punched in 36 and this
+30:08 didn't do anything. Okay, so we still
+30:10 have this problem. That's a glitch. I
+30:13 still need that fixed. Mr. Chief, Master
+30:16 Chief, um, that's still a problem.
+30:19 Unless maybe I pull it up like this and
+30:20 do it.
+30:22 Okay, I had to pull it up. So, something
+30:24 about bumps is stopping that. Let's just
+30:25 double check that. I'm going to bring
+30:26 this back. Yeah, it's bumping into
+30:30 something in that was causing an issue.
+30:32 So, if we go back twice, which by the
+30:35 way, that undo action looked like it was
+30:38 working really fast. Um, edit behaviors.
+30:42 Let's kick off or snap settings. Let's
+30:44 kick off bumping pushing. And so,
+30:46 something's keeping this from moving.
+30:49 And yeah, bumping pushing turns it off.
+30:50 There we go. Now, it's working great.
+30:53 Yeah, I'll start designing an elevation.
+30:55 Thank you.
+30:59 So cool.
+31:00 Boy, this software is just becoming a
+31:02 joy to work in. Really is. I'm excited.
+31:09 Uh where are we at?
+31:12 Improve the project information dialogue
+31:14 to allow embedded multi-line inputs.
+31:19 Tabing to all names and values. Yes.
+31:22 Yes. Yes. Yes. Um, if you are a pro plan
+31:26 user, you know that we are driving all
+31:28 of our title block information, all of
+31:30 our criteria for our project.
+31:32 Everything's driven from what we would
+31:35 call a warehouse plan. And so title
+31:37 block and spec is that plan. So if we
+31:39 use the project information field and
+31:41 you were trying, you know, we would get
+31:43 tab. Well, now you can. That's cool. Now
+31:46 you're actually tabbing not only to the
+31:48 name but the field. I like that they
+31:50 highlighted the built-in fields.
+31:53 That's cool as well. Um, if I hit the
+31:56 enter key, to me, this should close the
+31:58 dialogue box. And it did not before. It
+32:01 still does not. It should. Um, because
+32:04 that's what I have this set to. Okay. Is
+32:06 highlighted. Enter key should do that.
+32:08 Control enter should do new line. So,
+32:10 that's still not working correctly as
+32:12 far as I'm concerned. Uh, let's go some
+32:14 shift tabs. Can we get to all fields?
+32:18 And then we also still have no way to
+32:20 sort
+32:21 our categories over here. But I do like
+32:23 that we could tab to this. This was a
+32:25 request I had being able to tab to every
+32:27 input so that you don't actually need to
+32:29 use your mouse. This is particularly
+32:31 great if you decide that you want to go
+32:34 build some kind of script such as a
+32:37 Python script for you to tab through
+32:39 everything and dump something that's
+32:41 pre-established from on your computer
+32:44 somewhere and have it automatically tab
+32:47 through this menu and input stuff for
+32:49 you. That's really great if you're
+32:51 trying to, you know, update from a base
+32:53 system that you're working from or
+32:55 something like that. So, um, very cool.
+32:59 It does look like it's just auto sorting
+33:01 by
+33:03 interesting. The fields are auto sorting
+33:05 by
+33:07 by name now
+33:09 alphabetically.
+33:11 We click on this. Oh, we have sort
+33:13 options.
+33:15 Nice, chief. We just don't have them
+33:17 over here. Um, did we have those before?
+33:20 I don't think we did. Nice.
+33:24 Okay,
+33:27 cool. I'll take anything, you know. Very
+33:32 cool.
+33:34 Uh yeah, yeah, yeah, yeah.
+33:37 What? Did I ruin my title block uh info?
+33:40 I did. I I wrecked this by accident. I
+33:43 put someone else's title block info
+33:44 [laughter] in there. I know exactly when
+33:46 I did that earlier today. Oops. Uh let's
+33:50 see. All right, let's get to the next.
+33:52 What else did it say here? Tabing to all
+33:54 names and values in both name and value
+33:56 columns to be alphabetical sortable.
+33:57 Yeah. So cool. Thank you.
+34:03 Fixed a problem that could cause the
+34:05 bold and italic checkboxes to be an
+34:07 incorrect state. Okay. When text objects
+34:11 using custom text styles were edited.
+34:16 Fixed an issue that resulted in the
+34:18 wrong font family from being used for
+34:20 some fonts when save as PDF was used. I
+34:23 was also I'm just also getting mix match
+34:25 of font from subf family font all that
+34:27 stuff from particular fonts where um the
+34:31 embedded information for for the family
+34:33 of the font is not the way chief wants
+34:36 to receive it. So it means I got to go
+34:37 modify one of my font files. Um I don't
+34:42 know if who who that's on but yeah
+34:46 whatever. That's small small potatoes as
+34:49 they say.
+34:51 Uh, fixed an issue that could cause
+34:53 highlighted text to lose its bold. Okay.
+34:55 Uh,
+34:59 fix an issue in which pasting text in
+35:01 text macro management dialog could
+35:03 result in the wrong font being used.
+35:04 That's true. They had some really weird
+35:06 font in here. Still has a weird font in
+35:09 here. unless they made this change on
+35:11 purpose. But when I pasted from um some
+35:14 editor that I'm using, it was all of a
+35:15 sudden pasting like Ariel alongside of
+35:17 whatever that um font was that they have
+35:21 in text macro management. So that was
+35:22 kind of funny.
+35:26 Um
+35:29 what did you say here, Cody? Haven't
+35:30 used it yet, but this is looking to be
+35:32 the best release since I started using
+35:33 which I think was X14. I agree. You
+35:36 know, I I hammered it into the forums. I
+35:39 said it at least four times in
+35:40 suggestions. If you did nothing else but
+35:42 just polish this thing, we're going to
+35:44 be so happy. And that's what that's what
+35:47 they did. And it's so it's so nice to
+35:50 have some of these little nagging
+35:52 details worked out. It just makes a huge
+35:56 user experience difference. It's
+35:59 awesome.
+36:01 Um,
+36:03 improved recessed in the wall settings
+36:04 for doors and windows provided more Oh,
+36:08 there's a feature, baby. There is a
+36:11 feature. Oh, yeah. Oh. Oh, yeah. Tell me
+36:15 this isn't true. Oh, man. I'm talking to
+36:18 you, Phil Herdwell, over there in the
+36:20 UK. You're going to love this, my
+36:23 friend. Um,
+36:26 let's see what this looks like. What is
+36:28 this? options recessed into and you get
+36:31 to pick which layer. Wow, chief.
+36:35 [laughter]
+36:36 That is awesome, man. Million-dollar
+36:40 idea right there. Absolutely awesome.
+36:45 Wow. All right, I'm going to go make
+36:47 some new wall types.
+36:50 That is cool,
+36:52 man. Is that cool? I can't tell you.
+36:55 That's just,
+36:58 you know, let's let's do something with
+37:00 that. Let's um draw out a brick wall
+37:06 right into that door. [laughter]
+37:10 Right into that door. Um
+37:15 man,
+37:16 so cool.
+37:29 Well, oh, I overwrote my build
+37:31 foundation dialogue clearly. Here we go.
+37:33 Let's try that again.
+37:39 Okay.
+37:43 And so if we
+37:49 Yeah. the casing sitting on top here.
+37:53 Um,
+37:55 let me see here. So,
+38:03 delete the casing.
+38:06 What just happened there?
+38:08 It is recessing to the brick, but it's
+38:10 going to have problem with the cladding.
+38:12 But there it goes. It just recessed to
+38:14 the brick. Just didn't recess the casing
+38:17 with it. So that's kind of interesting.
+38:22 Interesting.
+38:29 Oh no, there it goes.
+38:33 Okay, I might need to report that cuz
+38:35 that looked like it might have been
+38:36 still a little bit of a glitch. But
+38:40 cool. Um I'm not sure why.
+38:43 Look, it's changing the
+38:47 It's changing. I'm gonna have to report
+38:49 this. It's changing the material scale
+38:52 on the inside of this brick.
+38:56 Okay.
+38:59 Still very exciting.
+39:06 up.
+39:09 Fixed an issue that caused the window
+39:10 frame material to display incorrectly on
+39:12 a window with window size excludes
+39:15 frame. Okay. Fixed an issue that
+39:18 resulted in legacy plan being reported
+39:20 as corrupt due to the default window not
+39:22 being eligible to make a mold unit. All
+39:25 right. Um, I am going to mention
+39:27 something here that I have not sure if
+39:29 we've seen it yet, but I have um a
+39:32 backup file that will not restore to
+39:33 certain machines in my house. So, they
+39:36 did say that that's going to get fixed
+39:37 in this release as well. Um, there's no
+39:39 way I'm going to be able to test that on
+39:41 the call today. Um,
+39:44 fix a case in which cabinet moldings
+39:47 failed to merge.
+39:50 Fix a problem that caused could cause
+39:52 incorrect data about waterfall
+39:54 countertops to be reported in the
+39:55 material list. Okay.
+40:00 Issue that prevented cabinet fill styles
+40:02 from working when the countertops layer
+40:04 was not displayed. That's one of mine.
+40:07 Yes. Thank you again.
+40:10 You know, I'm going to be excited when
+40:11 they fix stuff that I'm asking for.
+40:13 Sorry. You know, big ego over here.
+40:16 [laughter] It's all about me.
+40:19 Hope you guys got your things done. I
+40:21 know I got mine. [laughter]
+40:23 Um, so this is very cool. Uh, if I
+40:26 switch to the working, you know, anybody
+40:28 that has my stuff, um, you should be
+40:30 happy about this. It just means that the
+40:32 brace wall panel tool can move forward
+40:35 um, with some things. This was not
+40:37 showing its appropriate fill style if a
+40:39 countertop layer was not turned on. So,
+40:41 I'm using cabinets to dictate race wall
+40:44 panel systems. Um,
+40:47 and that's just cuz it's the right tool
+40:49 for the job. Just don't think of it as a
+40:51 cabinet. Anyways, it's reporting and
+40:53 creating schedules for me that come up
+40:55 with, you know, all my required IRC,
+40:59 CBC, CRC, brace wall systems. Um, and
+41:03 this is all derived from cabinet. So, it
+41:05 was just that the cabinet set to use
+41:07 layerbased fill styles so that I can
+41:09 control the look of this easily from
+41:11 Aldo. being able to come in here, select
+41:14 this. It's on its own layer, CADBWP.
+41:17 It's not reporting to the cabinets
+41:19 layer. Um, so now we can come in here
+41:21 and and change this to an angle hatch or
+41:24 something like that. And it's following
+41:25 suit and we don't have to have the
+41:27 countertops layer turned on, which
+41:29 that's what the glitch was was you had
+41:31 to have the countertops layer turned on
+41:32 for that to work.
+41:35 So, they fixed that. Thank you. Thank
+41:37 you.
+41:39 Okay. BWT doesn't need to be shown in
+41:41 this view. Okay.
+41:45 Uh
+41:49 fix error that could potentially occur
+41:51 when splitting a drawer in the cabinet
+41:53 specification dialogue box. Okay.
+41:56 Agained electrical objects will now use
+41:58 the highest wall offset of the
+42:00 individual electrical objects.
+42:03 Interesting.
+42:05 I wonder why that is.
+42:12 Wonder why you would use the highest,
+42:14 but okay.
+42:16 Um, as long as it um, that's cool. It
+42:19 just means that, you know, if you have
+42:21 multiple
+42:23 objects here, and let's just say one of
+42:25 them is lower than the other.
+42:28 So, 48 40 in to center. And we're going
+42:31 to gang these using the gang tool.
+42:36 They must be within 36es and they must
+42:38 have the same width and height. Um,
+42:44 they are within 36. So, I'm not sure why
+42:47 that went gang then if I was
+42:49 understanding that note correctly. Huh.
+42:51 Okay.
+42:53 Uh, let's see.
+42:56 The next page
+43:02 fixed an issue in which reverse plan did
+43:04 not work. correctly for electrical
+43:05 objects not attached to walls.
+43:13 Okay,
+43:15 here we go. There's an electrical object
+43:17 not attached to a wall. Reverse plan
+43:24 seems to worry working there. Let's go
+43:26 back. Reverse.
+43:28 Reverse.
+43:31 Just do an undo.
+43:36 Oh, this was one I reported and they
+43:38 said they couldn't recreate this. They
+43:40 must have been able to recreate it. Um,
+43:43 fixed a problem that sometimes cause
+43:44 electrical items to sometimes generate
+43:46 behind backsplashes instead of on them.
+43:49 Yeah, that's um I had a backsplash where
+43:52 I had um I was trying to gang it and
+43:56 have it be on the top of the backsplash
+43:58 and for some reason it was causing it to
+44:00 be behind it. So
+44:03 change the name of the height to center
+44:05 setting in the symbol specification
+44:06 dialogue for symbol with sits on
+44:09 cabinets or table specified
+44:12 to offset from center from surface.
+44:15 Excuse me. Okay.
+44:18 So it's possible to you know I never
+44:20 thought about that. It's possible to put
+44:21 an electrical object that is technically
+44:23 sitting on top of base cabinet and then
+44:27 you are doing height to center is offset
+44:30 from surface. That's kind of neat
+44:33 actually. Um so if we were to take this
+44:35 electrical object and say that the
+44:38 options is
+44:41 uh floor mounted
+44:44 no excuse me um
+44:48 sits on cabinet or table
+44:52 then offset from surface. Cool. I like
+44:56 that. Makes sense.
+44:59 Okay.
+45:04 Fix an issue that sometimes prevented
+45:06 scheduled callout labels from updating
+45:08 in open camera views.
+45:14 Okay.
+45:16 Fixed a problem that prevented room
+45:18 labels from moving with their rooms when
+45:21 using edit area. Yeah, that is one I
+45:24 reported.
+45:28 Um, and you know what? They said it's
+45:29 always been like that.
+45:31 No, you know what? I just ran into that
+45:33 problem today. I ran into that problem
+45:35 today. Um, yeah, I got something from
+45:37 Twindo that someone wanted to bring into
+45:39 the pro plan and I used edit area to
+45:41 move and not all the labels came with.
+45:43 But thankfully, they added a bunch of
+45:46 label specifications to uh the style
+45:49 pallet abilities. So, I just got to
+45:50 swipe a style pallet and fix all that.
+45:52 Um, which is resetting the labels to
+45:54 automatic
+45:55 um in terms of their placement.
+46:03 Uh, fix an issue that caused copied and
+46:05 pasted picture boxes to lose their label
+46:08 text style information. Okay. Corrected
+46:11 a problem that could cause the label
+46:13 character height of group selected roof
+46:16 planes with different label character
+46:18 heights to be set to zero. No. Change
+46:20 your character heights of your roof
+46:22 labels. Come on. Standardized text.
+46:24 Figure it out.
+46:27 Uh, okay. That's cool. Uh, improve some
+46:30 setting labels on the label panel in
+46:32 various specification dialogue boxes.
+46:35 All right. So, edit this label just gets
+46:39 us to the subedit menu. Open label gets
+46:43 us to not the label panel. Get to the
+46:46 label panel.
+46:49 And I don't immediately see anything
+46:51 different except for maybe up here.
+46:57 Not sure. Boy, it's tough reading with
+46:59 that dark background here. I have to
+47:02 change that back temporarily. We still
+47:05 need to test if this works or not. We'll
+47:07 make it a little lighter gray.
+47:14 Fixed an issue that prevented the follow
+47:16 label settings for schedule callouts
+47:20 from working when for callouts assigned
+47:24 to a custom layer.
+47:27 Working when for callouts assigned to a
+47:30 custom layer. Um way that's written is
+47:34 kind of difficult to understand but
+47:36 okay.
+47:38 fixed an issue in which label margin
+47:40 values were not converted to metric
+47:42 correctly when the owner object was
+47:44 placed into a metric plan. If you gave
+47:46 us a way to to um convert margins
+47:50 automatically for metric, that will help
+47:53 me tremendously continue to build my
+47:56 metric pro plan. That's the biggest
+47:58 problem with with building in the metric
+48:01 is when you copy paste half the time it
+48:03 tells you it's not compatible. So you
+48:05 can't copy paste things that you built
+48:06 in one into the other making it you have
+48:10 to build all this stuff from scratch
+48:12 then and it's so time consuming when you
+48:14 got a system as as overly developed as
+48:17 mine. Um
+48:22 fix an issue that caused label text
+48:24 style settings to be lost when simil
+48:26 objects were added to the library.
+48:28 Interesting.
+48:29 Uh, room labels with absolute label
+48:32 positions now reset to their default
+48:34 relative positions when the reverse plan
+48:36 tool is used. Okay, makes sense.
+48:40 Fixed an issue in which the X and Y
+48:42 offset for room labels did not follow
+48:44 their respective X and Y axis in camera
+48:47 views for Yeah, if you're having those
+48:49 labels turned on
+48:52 and in a camera view, it makes sense.
+48:54 Um, I don't I I use the automatic just
+48:57 because in the pro plan I I built it
+48:59 specifically so that this does a bunch
+49:01 of Oops, that was not what I wanted. Um,
+49:06 we get to Geral
+49:10 where G. There we go.
+49:14 Just use my mouse. Um, yeah, when this
+49:17 gets resized, it's just automatically
+49:20 abbreviating my labels and pushing them
+49:22 where I want them to
+49:25 be, you know, and that just works
+49:28 really, really well, chief. Um,
+49:31 continued to be impressed by this. So,
+49:34 thanks. The only time I would move this
+49:36 is if it got down to that super small
+49:39 size and was still displaying up to the
+49:41 point where it no longer displays.
+49:44 And so the only reason I would move it
+49:46 is if I wanted to then be able to drop a
+49:49 little leader in here. Use the edit. Um
+49:52 if we use the edit toolbar, you should
+49:54 give us a diamond for our arrow leader.
+49:56 So we never actually have to use the
+49:58 arrow tool. That would be really cool.
+50:01 Um
+50:02 yeah,
+50:04 that's a dumb arrow.
+50:07 Yeah. Yeah. Yeah. Okay.
+50:11 that
+50:22 I fixed a problem that caused callouts
+50:23 and schedules to display incorrectly
+50:25 when the schedule rotated and rotate
+50:28 with plan was unchecked. Okay. Boy, a
+50:30 lot of people move shifting their plans
+50:33 around and reversing their plans, huh?
+50:37 This is just a short beta period. Be
+50:40 reversing your plans already. I guess
+50:42 for you know development projects
+50:44 multiplex stuff fixed an issue where
+50:47 some electrical objects could prevent
+50:49 remove callout labels displaying an
+50:52 electric
+50:53 in an electrical schedule. Some
+50:56 electrical objects could prevent remove
+50:58 callout labels displaying an electrical
+51:01 schedule.
+51:03 Sure about that one. I'm on the hunt for
+51:05 these features. I can't wait to see if
+51:08 there was a couple more. If I if there's
+51:10 one more hidden feature in here, I'd be
+51:12 happy.
+51:13 A kid in the candy store. The auto
+51:16 adjust text direction schedule call out
+51:19 setting can now be enabled for all
+51:21 callout shapes. All right.
+51:26 Spec uh roofs fixed a specific case in
+51:29 which 3D cladding did not generate on
+51:31 portions of some roof planes. I did
+51:33 notice that one one time.
+51:37 Cool.
+51:38 Fixed an issue in which the new roofs
+51:41 valleys flashing layer was turned off in
+51:43 the materialist layer set in legacy
+51:46 plans.
+51:48 Yeah, you know, it used to be we need to
+51:50 rebuild all this stuff from a legacy
+51:51 plan and that's just um still
+51:54 complicated. So, I'm very appreciative
+51:56 of them making it so I can bring a plan
+51:59 forward that's my template plan and not
+52:01 have to go try to rebuild it from
+52:03 scratch because it that's just not even
+52:05 feasible anymore for me. Um,
+52:12 fix the crash that occurred due to a
+52:14 skylight in a bad state in a specific
+52:17 case. Okay.
+52:20 uh corrected an issue that allowed
+52:22 warning icons for joist direction lines
+52:25 to display when the joist direction
+52:27 lines themselves
+52:29 were not
+52:33 oh when they were not displayed.
+52:35 Interesting. Oh, like the warning tag
+52:37 was there but the the choice direction
+52:39 line was on the layer that wasn't
+52:40 displayed. That's a funny one.
+52:44 um
+52:46 fixed a specific case in which floor
+52:48 framing did not generate below interior
+52:51 walls when specified to do so.
+52:56 Right. Uh fixed a problem in which
+52:59 materials used by manual framing
+53:01 defaults were not correctly marked as
+53:03 being in use in the plan.
+53:12 Fix an issue that prevented wall
+53:14 blocking from being automatically
+53:15 assigned. The wall bridging role when
+53:17 drawn.
+53:20 Ethan Ashby gonna help you out. Fixed an
+53:24 issue in which the extend layers
+53:26 attribute
+53:28 did not work for framing layers in pony
+53:31 walls
+53:37 when the upper and low wall layers were
+53:40 the same. Huh. Why are you doing a pony
+53:43 wall when the upper and lower wall
+53:46 values are the same? Why would you do
+53:48 that? Maybe different cladding or
+53:50 something
+53:52 interesting.
+53:57 Uh corrected a problem that prevented
+53:58 beams from being created in plans when
+54:00 all platform defaults were set to use
+54:03 trusses. Oh, yeah, that'd be a problem.
+54:05 [laughter]
+54:06 That held somebody up that that really
+54:09 wanted, you know, robust framing plans.
+54:12 They probably just had a draw on a piece
+54:14 solid. Fixed an issue in which the
+54:16 incorrect material is being assigned to
+54:18 framing members when selecting use
+54:20 default in the select materials dialogue
+54:22 box. Boy, I would love it if they um
+54:25 made some changes to default materials
+54:27 versus where we can specify materials
+54:30 such as this just came up. That would be
+54:32 great if we could specify the materials
+54:33 for your cell, sole plate, etc. um do
+54:37 specific things where we're setting it
+54:38 to, you know, a treated. Making it so
+54:41 that if you check treated that it
+54:42 actually produces something that looks
+54:45 treated would be nice. Um and then
+54:47 adding user configurable material
+54:49 defaults would be awesome so that we
+54:51 could set up library objects to follow
+54:53 our own user configurable defaults in
+54:56 our plan would really be awesome. I'm
+54:59 going to push for that next uh September
+55:03 in Cordelane.
+55:05 Um,
+55:08 fixed an issue that caused the framing
+55:10 member defaults dialogues to have
+55:11 incorrect titles.
+55:14 Um, hip jack corner truss now base their
+55:17 roll out on the downs slope edge of the
+55:20 girder truss rather than the center
+55:22 line. Boy, Mike
+55:25 M, I think you got something you asked
+55:28 for there.
+55:30 That would be the correct way of doing
+55:32 it.
+55:33 Cool. Oh, but you do stick framing. Um,
+55:39 trust rather than the center line. Yeah.
+55:40 All right. Fix the problem that in some
+55:43 case cause trusses to draw at the wrong
+55:46 height for roofs marked as overframed.
+55:50 Okay.
+55:51 Fix an issue that caused rim joist to
+55:53 always split at wall breaks. Yeah, that
+55:56 would bother me.
+55:59 Molding profile tables can now display
+56:01 fractions with one. Wow. Okay. With
+56:04 164th accuracy.
+56:07 Um,
+56:09 I don't think my tape measure has 164th
+56:12 accuracy. So, I don't know what you need
+56:15 that for,
+56:17 but I'm glad you got it, wherever you
+56:19 are.
+56:22 I am who I am. All right. Don't hate me
+56:24 for hating on you.
+56:30 New trim wall layers checkbox on the
+56:32 general panel of the molding polyline
+56:36 specification dialogue.
+56:40 New trim wall layers.
+56:51 Trim wall layers. New trim wall layers
+56:54 checkbox on the general panel of the
+56:56 molding polyline.
+56:58 Okay, let's figure this out real quick.
+57:01 We're going to convert this to molding
+57:03 polyline base. Yes. Open it up.
+57:08 Trim wall layers. Let's bring up our
+57:10 interactive help to see if it helps.
+57:21 They have not updated this graphic yet.
+57:35 They haven't updated the help menu yet.
+57:38 Um,
+57:42 trim wall layers.
+57:50 Does that mean we can recess this?
+57:54 Is that is that how we're interpreting
+57:56 this?
+58:01 Because that would make us get a flush
+58:02 base if that's true.
+58:05 That'd be crazy work, man.
+58:08 Hold on.
+58:13 No way. No way. What? [laughter]
+58:20 Yo, Jeep.
+58:24 You just want to slip that in, huh? You
+58:26 didn't really like even tell us what
+58:28 that means. There's your flush base with
+58:31 reglet and everything. Hold on.
+58:35 Don't get me excited, man. [laughter]
+58:37 Wait a minute here. So, how do you do it
+58:39 with the casing, though? You still got
+58:42 to manually draw the casing, right?
+58:46 There's no trim wall layer here,
+58:49 Chief. You got to give us the casing,
+58:51 too. Sorry. Sorry to put more on your
+58:53 plate, but it doesn't make any sense for
+58:54 us to do a, you know, flesh base without
+58:57 our flush casing. If we're going to
+58:58 spend all that money, we might as well
+59:00 get both. Um, but hey, really cool.
+59:04 Really cool, chief. That's a big one.
+59:09 Yeah. Nice.
+59:13 Okay.
+59:19 Uh man, that made me lose my place.
+59:21 Where am I? Um that was right at the
+59:24 top. Okay. Uh, tabbing through the cells
+59:27 in the table on molding profile rails
+59:30 panels no longer loops through cells
+59:32 instead of exiting the table. Through
+59:33 the cells in the table on the moldings
+59:37 profile rails panel.
+59:42 Oh, nice.
+59:44 Nice. That's one I asked for. Thank you,
+59:47 Chief. Um, so let's go back a couple
+59:50 steps. Let's get our or maybe we'll just
+59:53 make our kitchen be big again, you know.
+59:57 Um, is there a way to set this back to
+59:58 automatic? Let's see. Edit. And I pretty
+1:00:02 much have to just click open. There it
+1:00:04 be nice if it was a checkbox to set this
+1:00:06 back to label set to automatic.
+1:00:09 Um, location
+1:00:13 no longer relative. Let's go
+1:00:18 offset relative. Yeah. Throw that back
+1:00:20 in the beginning. Yeah. Okay. So, if we
+1:00:23 were to open this up and get into the
+1:00:26 moldings, usually when you tab through
+1:00:29 this, it's just tabbing.
+1:00:33 It's just tabbing through this. Now,
+1:00:34 it's tabbing outside of that window.
+1:00:36 Yes. Thank you, Chief. Thank you. Thank
+1:00:38 you. Thank you. This is, you know, in
+1:00:40 the in the dawn of the AI era where we
+1:00:43 can get stuff outside of the program to
+1:00:45 do redundant tasks for us inside of the
+1:00:48 program. We need to be able to tab
+1:00:49 through everything because it's faster.
+1:00:52 It's a better improved workflow. We
+1:00:54 could get a Python script to do
+1:00:56 redundant tasks for us infinitely. Not
+1:01:00 infinitely, but you know, um, so much
+1:01:03 faster than we can even click. So, if
+1:01:06 we've got something where we're trying
+1:01:07 to automate a process to quickly change
+1:01:09 out, let's say, all the materials, um,
+1:01:12 all the trim across, you know, this
+1:01:14 entire plan room by room, that's all set
+1:01:16 to custom, this would be a way that you
+1:01:18 could do it because you could finally
+1:01:19 tab through all this stuff. That's
+1:01:21 amazing, Chief. Thank you. Thank you for
+1:01:23 hearing me and whoever else might have
+1:01:26 reported that. Um,
+1:01:29 yeah, boy, you guys make me
+1:01:31 [clears throat] happy when this stuff
+1:01:32 comes. It's so exciting. You know,
+1:01:34 people say your suggestions never make
+1:01:36 it through. They do. Um, you just you
+1:01:39 got to hit hard with them sometimes. Um,
+1:01:42 but yeah, very cool.
+1:01:46 Okay. Architectural blocks fix an issue
+1:01:48 that caused cabinet connections to be
+1:01:50 incorrect in architectural block
+1:01:52 specification dialogue previews. Oh,
+1:01:55 that's good. Yeah, sometimes um you know
+1:01:58 these things are referencing a finished
+1:02:01 floor layer or something like that. When
+1:02:03 you make an architectural block, what's
+1:02:05 it based on? It's based on some default
+1:02:07 room or something like that in terms of
+1:02:08 its preview in the library and
+1:02:10 everything. And it used to be that
+1:02:11 occasionally the architectural blocks
+1:02:13 had something that was referencing, for
+1:02:15 instance, ceiling and and so then it
+1:02:18 wouldn't look correct in the
+1:02:19 architectural block as it's saved to the
+1:02:21 library. So, I'm pretty sure that that's
+1:02:23 what we're talking about here. um is
+1:02:25 that they fixed that. I don't run into
+1:02:26 it a ton, but that's that's nice. Like
+1:02:28 when I save preconfigured islands with
+1:02:31 all of its electrical symbols and
+1:02:33 everything else that I could block in
+1:02:34 with that island, um then it you know,
+1:02:37 the the architecture block looked pretty
+1:02:39 funky. And uh anyways, it sounds like
+1:02:42 that may have fixed that issue.
+1:02:45 The library, I'm very interested in the
+1:02:46 library uh because I was having
+1:02:49 problems. So,
+1:02:51 um, cause terrain parameters added to
+1:02:54 library to have blank thumbnails. I
+1:02:55 didn't know you could add terrain
+1:02:56 perimeters to library. So, that's
+1:02:58 awesome because you can't just copy and
+1:03:00 paste them. So, that means that if I
+1:03:02 wanted to grab someone's terrain
+1:03:03 perimeter to transfer it to a new plan
+1:03:05 file, I could just save it to the
+1:03:06 library, apply it from the library.
+1:03:09 Cool. I appreciate that. Um, just
+1:03:12 doesn't mean that you could paste hold
+1:03:13 position, but I could paste hold
+1:03:15 position. It turns into a polyline and
+1:03:18 then I could place the terrain based on
+1:03:19 that. Yeah, that works. It would be nice
+1:03:22 if we could just copy paste terrain
+1:03:24 parameters though, honestly.
+1:03:26 Um, fixed an issue that prevented
+1:03:28 previews for line styles in the library
+1:03:31 browser from displaying. Okay.
+1:03:35 fixed the problem that occurred when a
+1:03:36 tool was selected and a material image
+1:03:40 was clicked on
+1:03:43 rather than its text. Boy, this is
+1:03:45 difficult to understand. Fix the problem
+1:03:48 that occurred when a tool was selected.
+1:03:50 Okay, a tool is selected cabinet and a
+1:03:53 material image was clicked on
+1:03:56 rather than its text in the library
+1:03:59 browser filter results. So, library
+1:04:01 browser filter results
+1:04:04 and let's just get a sort folder up
+1:04:06 here. I have a tool selected and then
+1:04:12 material image. So, we need a material
+1:04:15 for this to work
+1:04:19 sort through a billion things here.
+1:04:21 Material. And so, then
+1:04:24 it would not turn on the painter for
+1:04:26 that. Um,
+1:04:31 so technically this should be a painter.
+1:04:32 Okay, well that works. So yeah, gotcha.
+1:04:37 Fix the crash that occurred when
+1:04:38 deleting entire folders from the user
+1:04:40 catalog. Yes, thank you, Chief. We
+1:04:42 confirmed that that works. That was one
+1:04:43 of the first thing we checked in this
+1:04:45 video. So yeah, that's a huge one for
+1:04:47 me. Thank you. Remove the plus sign from
+1:04:50 the advanced search button icon in the
+1:04:53 library.
+1:04:58 Advanced search button. What's the
+1:05:01 advanced search button? Someone know
+1:05:03 what the advanced search button is? I've
+1:05:04 been just using the search button.
+1:05:08 What does that mean? Blah blah blah.
+1:05:12 What is the advanced search button? I
+1:05:14 don't have that button.
+1:05:18 What you guys talking about?
+1:05:24 Okay.
+1:05:25 Is it one of these
+1:05:27 chooser?
+1:05:29 Never heard of the advanced search
+1:05:30 button. Okay.
+1:05:33 Uh Mike, you're in here. Cool. Uh you're
+1:05:38 literally surgeon when it comes to
+1:05:39 chief. Thanks for going through. Yeah.
+1:05:40 Line by line. All right. Good. I'm glad
+1:05:43 I'm glad you guys are appreciated. I was
+1:05:44 hoping this isn't just boring as all
+1:05:46 heck, but maybe you learned something
+1:05:48 from it. Maybe I learned something from
+1:05:49 it.
+1:05:52 uh fixed an issue where having a
+1:05:53 distributed object that contained a
+1:05:55 symbol marked to cut reference surface
+1:05:59 would cause walls floors to not build in
+1:06:02 3D. Oh yeah, that would be a problem.
+1:06:04 Good. I haven't started building out all
+1:06:05 the distributed objects that I want to
+1:06:07 build yet. And one of them is something
+1:06:09 that cuts a surface. my default
+1:06:11 distributed objects tool. If I double
+1:06:14 click, this should actually be something
+1:06:16 that cuts surface now because it should
+1:06:18 be my LED that I want to use.
+1:06:22 And so,
+1:06:24 um,
+1:06:29 what do I know? I know I can just click
+1:06:32 on lights here and find the one that I
+1:06:34 want.
+1:06:38 A light. like highlights
+1:06:44 this. Okay.
+1:06:48 Um, so that cuts
+1:06:51 that cuts my wall.
+1:06:54 So that
+1:06:56 Let's just expand this kitchen again.
+1:06:59 The default distributed objects now just
+1:07:01 generates LED lights. That makes a lot
+1:07:05 of sense to me.
+1:07:08 So,
+1:07:10 these technically should work. They
+1:07:13 don't until you explode them. I really
+1:07:15 wish that emitters in distributed
+1:07:17 objects were allowed to work
+1:07:21 without you exploding them.
+1:07:24 Um, because that just proved that they
+1:07:26 are not have to explode them in order
+1:07:28 for them to turn on. If I explode all
+1:07:32 these, then suddenly this is working in
+1:07:35 a 3D view. be nice if it we didn't have
+1:07:37 to explode it. So yeah, there's going to
+1:07:40 be a little suggestion I throw out
+1:07:42 there.
+1:07:53 Oh well idea. Um
+1:08:02 the obsolete specular setting was
+1:08:04 removed from the defined material. Okay,
+1:08:06 cool. Yeah.
+1:08:08 Uh, added the ability to name 3D
+1:08:11 cladding definitions in their
+1:08:12 specification dialog before adding them
+1:08:14 to the user catalog. Thank you. That
+1:08:17 would also be nice if if we use the
+1:08:20 function in project browser to um copy a
+1:08:24 particular
+1:08:26 file with links to a new project that
+1:08:28 you added the ability for us to name the
+1:08:30 project. It's going to be another
+1:08:32 suggestion I need to send in. Hopefully,
+1:08:35 I'm going to grab the transcription from
+1:08:36 this and get AI to tell me what all my
+1:08:38 suggestions were.
+1:08:40 Uh, let's see. Default materials can no
+1:08:43 longer be applied
+1:08:45 to 3D cladding. Why not
+1:08:49 interesting
+1:08:53 wonder what the reason is for that? uh
+1:08:56 adjust the 3D cladding now has its own
+1:08:58 scoping modes rather than adjust and
+1:09:02 then sharing the adjust material scoping
+1:09:05 modes.
+1:09:08 Okay.
+1:09:11 And and does that mean it's more hotkeys
+1:09:14 that uh we don't have uniform?
+1:09:18 I like it when they make it so we need
+1:09:20 less hotkeys than more hotkeys.
+1:09:24 They got a reason.
+1:09:26 Fixed an issue that allowed all 3D
+1:09:28 cladding profiles in the 3D cladding
+1:09:30 specification dialogue to be grouped,
+1:09:32 selected, and deleted.
+1:09:39 Huh. Okay. Uh, fixed a memory leak.
+1:09:42 That's always good news that can occur
+1:09:44 when making changes in the material
+1:09:46 builder dialogue. Ooh, okay. So, we
+1:09:50 tracked down a memory leak. um because I
+1:09:53 definitely experience them. So, I'm glad
+1:09:56 you figured that out.
+1:09:58 I have to restart my machine sometimes
+1:10:01 because of it.
+1:10:03 Got two more pages, guys. Two more
+1:10:05 pages. Material builder no longer adds
+1:10:08 maps to materials in cases where they
+1:10:10 won't do anything. Hey, good job,
+1:10:12 Dustin. Thank you. Um that's, you know,
+1:10:15 like creating just a black metal map,
+1:10:18 right? Uh 3D views. The sun moon
+1:10:22 position indicators are now
+1:10:23 semi-transparent. So the sun moon can be
+1:10:25 seen behind the house icon.
+1:10:31 Okay.
+1:10:34 Fix the problem that prevented the zoom
+1:10:36 tool from working correctly in
+1:10:37 perspective camera views. I did not know
+1:10:39 that it wasn't working correctly. I use
+1:10:41 a 3D mouse, so that doesn't affect me,
+1:10:43 but
+1:10:44 nice. um fixed an issue that allowed
+1:10:47 objects clipped by the cross-section
+1:10:49 slider to be selected. I did run into
+1:10:52 that. So, thank you. I was def I
+1:10:54 definitely ran into that. I don't think
+1:10:55 I reported that one. Um
+1:10:59 fixed a problem that caused camera views
+1:11:01 to display incorrectly after being sent
+1:11:03 to layout as plot lines on high
+1:11:06 resolution 4K monitors.
+1:11:10 Um, we've run into that a couple times
+1:11:12 where the plot lines are offset from the
+1:11:15 camera itself. Definitely seen that. Um,
+1:11:19 I've only run into it like once, but we
+1:11:20 saw a report of that in the users of
+1:11:22 Chief Architect group.
+1:11:24 Okay. 3D rendering fix an issue that
+1:11:28 prevented the inuse column in the adjust
+1:11:30 lights dialogue from updating correctly.
+1:11:33 Well, that's certainly nice.
+1:11:36 uh corrected an issue that caused
+1:11:37 billboard images to appear too dark when
+1:11:39 placed inside a room that did not have a
+1:11:42 flat ceiling. That's such a unique
+1:11:43 scenario. Uh okay.
+1:11:47 What do people use the billboard for?
+1:11:48 Drop it in the comments. I'm curious if
+1:11:50 they're getting kind of clever with
+1:11:52 billboard images. Excuse me. It's kind
+1:11:54 of an old school method.
+1:11:57 Fix a rendering error that could occur
+1:11:59 when changing the size of the access
+1:12:01 indicator. Did not do that. So, I didn't
+1:12:04 know about that one. Fixed a problem
+1:12:07 that prevented saved cameras from
+1:12:09 updating if a new sun angle was added to
+1:12:11 a plan. Interesting. Well, you guys do
+1:12:14 some interesting things in your
+1:12:15 workflows to be able to even be able to
+1:12:17 find these errors.
+1:12:20 Fixed an issue that caused translucent
+1:12:23 materials to appear to emit light
+1:12:25 despite having no emissive settings.
+1:12:28 Boy, I didn't have not experienced that.
+1:12:30 I have quite a few translucent
+1:12:32 materials.
+1:12:34 Um, fixed an issue in which raycasted
+1:12:36 sun shadows did not work with 3D
+1:12:39 cladding. Oh, I don't know if I noticed
+1:12:42 that.
+1:12:51 Boy, kind of hard to tell. Let's crank
+1:12:54 up Let's crank this way up to just be
+1:12:57 crazy with it.
+1:13:00 Look at that. You seeing the little jump
+1:13:02 bumpouts on my brick there, right?
+1:13:07 Seeing the edges there. Very cool. Hey,
+1:13:10 hats off to Ryan and Dan and whoever
+1:13:12 else is in your team over there,
+1:13:13 rendering department. You guys are just
+1:13:15 on, I don't know, a year whatever of
+1:13:17 just kicking butt. So, good job.
+1:13:28 Fixed raycasted sun shadows in the Mac
+1:13:30 version of the software. Right.
+1:13:34 Corrected a problem in which editing the
+1:13:36 base technique for watercolor renderings
+1:13:38 in the render technique defaults
+1:13:40 dialogue would incorrectly prompt a
+1:13:42 warning saying raid tracing was not
+1:13:44 supported. Interesting. So you're
+1:13:46 getting into watercolor techniques and
+1:13:49 you're changing some setting and it was
+1:13:52 popping up and saying not supported.
+1:13:56 That boy performance-wise, that's uh
+1:13:58 that did that watercolor super fast,
+1:14:02 man.
+1:14:06 It's using DLSS. That's cool. Sorry,
+1:14:08 Mac. You guys don't have that feature.
+1:14:12 Don't worry, you you everything else is
+1:14:15 faster in your version of the software.
+1:14:17 I get to rub in the ray trace stuff.
+1:14:20 Um,
+1:14:25 fix an issue that prevented changes to
+1:14:27 the sun angle color from updating
+1:14:29 correctly.
+1:14:30 Okay,
+1:14:34 test it. Why not? We're getting closer
+1:14:38 to the end.
+1:14:40 Yeah, updated right away.
+1:14:46 Fix a set of issues related to the
+1:14:48 presence of a tray ceiling rope. apply
+1:14:49 it with no strip profile specified.
+1:14:58 I know I want to set that up right now.
+1:15:00 Ceiling. Open it up.
+1:15:04 Rope light. Add new.
+1:15:07 And no profile.
+1:15:09 Um I have a profile so
+1:15:14 guess I could delete it. I want to
+1:15:16 delete it.
+1:15:18 What does that do?
+1:15:21 I don't know how that works.
+1:15:24 Huh?
+1:15:29 It shows like there's LEDs. Let's see
+1:15:30 what happens.
+1:15:33 Where is this? Is this this?
+1:15:36 Yeah, that's uh
+1:15:39 doing something. If I edit the view and
+1:15:42 kick on the default light set, what do
+1:15:45 we got?
+1:15:49 That's just my crown lights. Ground
+1:15:52 lights coming through. I'm not sure
+1:15:54 what's happening here. It looks like
+1:15:56 it's lighting up. Strange. All right.
+1:16:00 Whatever.
+1:16:04 Uh, importing certain DWGs. I did
+1:16:06 experience a DWG crash, so thank you if
+1:16:10 that fixed it. Final page. We're there.
+1:16:15 Uh the layer that walls, doors, windows,
+1:16:16 and annotations will be drawn on can now
+1:16:20 be selected in the import chief asbuilt
+1:16:23 file. I haven't messed with the asbuilt
+1:16:25 stuff yet. I was on beta and I failed to
+1:16:28 test it even though I have all the right
+1:16:29 equipment, so I know that I need to do
+1:16:31 that to catch up to everybody. Uh casing
+1:16:35 width for openings is now included when
+1:16:37 importing chief asbuilt files.
+1:16:40 That's that would be very helpful. Yeah.
+1:16:44 material list ID column on the
+1:16:46 components panel of the framing member
+1:16:48 defaults dialogue now indicates whether
+1:16:51 a formula is being used to determine the
+1:16:54 ID.
+1:16:59 Hold on.
+1:17:01 What
+1:17:03 did you say?
+1:17:11 Oh.
+1:17:14 Huh.
+1:17:17 We can build a formula into this
+1:17:20 and it will indicate.
+1:17:23 Um,
+1:17:27 let's just go equals comment.
+1:17:31 I just type in something.
+1:17:35 I was under the impression I could put a
+1:17:37 formula in here. Can I not?
+1:17:40 Does not look like I can
+1:17:51 cut that. Paste that. No. What are they
+1:17:54 talking about?
+1:17:56 What's this again? is in the material
+1:18:00 list ID column on the components panel
+1:18:03 of the framing member defaults
+1:18:06 dialogues now indicate whether a formula
+1:18:08 is being used to determine the ID for
+1:18:11 framing
+1:18:12 using that default. I'm not sure what
+1:18:15 that means.
+1:18:24 only know material lists enough to be
+1:18:26 dangerous.
+1:18:29 Uh okay.
+1:18:32 Corrected problem that prevented layout
+1:18:34 view set to update always from doing so
+1:18:36 after where after the layout was
+1:18:39 printed. Uh doing so after
+1:18:43 after the layout was printed.
+1:18:46 Um
+1:18:48 okay.
+1:18:49 Yeah. If I go to print, I hope you're
+1:18:52 auto updating if I have it set to auto
+1:18:53 update. Um, I have my template set not
+1:18:56 to auto update just in case you, the end
+1:18:58 user, don't have a super fast computer.
+1:19:01 Um, but I set it to auto update before I
+1:19:06 print out of habit. So, this isn't going
+1:19:08 to affect me as much, but it is nice
+1:19:10 when you get to just click print and
+1:19:11 have it auto update.
+1:19:15 Um, improved performance when zooming
+1:19:18 and panning in layout views when live
+1:19:20 views set to update always are present.
+1:19:23 Oh, good for you guys. Nice. I don't use
+1:19:25 the live views, but that's um certainly
+1:19:28 has always been a big slowdown and one
+1:19:30 of the reasons I don't use live views.
+1:19:37 All this upgrading is going to cut into
+1:19:39 my sleep schedule. What the hell? Yeah,
+1:19:40 no kidding. Are Hey, I heard a sale come
+1:19:43 through. Cody, if that's you, don't
+1:19:45 update yet. I have to put out I have to
+1:19:47 put out an update um at least for the
+1:19:50 help menu,
+1:19:52 which will be tomorrow. So, maybe just
+1:19:54 do the help menu thing tomorrow anyways.
+1:19:58 Um yeah.
+1:20:01 Oh, that was not you. That was someone
+1:20:02 else.
+1:20:04 Aha. I'm gonna have to shoot emails to
+1:20:06 those people. Give me one day. I got to
+1:20:08 catch up. Yeah, I got to make sure all
+1:20:11 my stuff works perfectly the way it
+1:20:13 currently does. This version of the pro
+1:20:15 plan right now that got released like a
+1:20:18 day ago, um the 50 millionth update I've
+1:20:21 put out, uh is just
+1:20:24 fantastic. So, um this being the full
+1:20:29 release of this, I got to go update all
+1:20:31 my infrastructure stuff. I got to go
+1:20:33 update,
+1:20:34 um my manuals and stuff. I got to p pull
+1:20:37 the word beta out of everything and then
+1:20:39 I got to do a little bit of testing. And
+1:20:41 so I'll put out a really quick
+1:20:42 preliminary set that says, "Hey, this
+1:20:44 is, you know, pre-final update and then
+1:20:47 I got to just go test for a little bit
+1:20:49 and make sure everything's working
+1:20:50 correctly." Um, yeah, for instance, I've
+1:20:54 got an interactive help menu. So, fix an
+1:20:58 issue where in certain situations
+1:20:59 terrain Oh, wait, hold on. added the
+1:21:02 ability to search for specific words or
+1:21:04 materials in material lists. That's
+1:21:06 nice. Especially if I'm assuming that
+1:21:10 that has to do with also just being able
+1:21:12 to um update macros and stuff like that
+1:21:15 using the find and replace feature. So
+1:21:17 find replace text will work in
+1:21:20 materialist. Now,
+1:21:25 uh, layout fixed an issue where in
+1:21:27 certain situations, terrain features
+1:21:29 with transparent materials could prevent
+1:21:31 certain lines behind them from
+1:21:33 generating in layout views. Okay.
+1:21:38 A problem that prevented layout views
+1:21:40 set to update always from doing so.
+1:21:42 Yeah. Yeah, we read that one. Oh, sorry.
+1:21:44 I read these a couple times. Fix the
+1:21:47 problem in which views did not update
+1:21:49 correctly when relinking a plan in
+1:21:51 layout.
+1:21:53 And then finally, fix an issue that
+1:21:55 sometimes cause lines in the layout to
+1:21:58 disappear when replacing the reference
+1:22:01 file.
+1:22:03 Wonder if that has something to do with
+1:22:04 the edit lines tool. And that is it. Uh
+1:22:07 we had a couple big winners in here.
+1:22:10 that that molding
+1:22:12 cutting cutting the surface is. Man,
+1:22:16 that was a surprise. You hit me with
+1:22:17 that one. And then this drop down. You
+1:22:19 hit me with that one, too. That's
+1:22:20 surprising. I got to go update all my
+1:22:22 toolbars now. All my configs. If you
+1:22:25 made it easy for me to export those
+1:22:26 toolbars and configs, I could do it very
+1:22:28 quickly.
+1:22:30 Dang it. [laughter]
+1:22:32 But I'm very happy that you gave us
+1:22:34 this. It's very nice. I want to kind of
+1:22:37 figure out
+1:22:39 where I want that. I almost feel like I
+1:22:41 want that just on a
+1:22:43 on a bottom
+1:22:45 toolbar in the middle of the screen, you
+1:22:48 know? Would be nice to be able to just
+1:22:52 have it be some special docked thing.
+1:22:55 Yeah, if it's just right here, it would
+1:22:57 be sweet. Um, I'm going to have to
+1:23:00 figure out where I want that.
+1:23:04 to get clever. That's a really cool one.
+1:23:07 And I already forgot the other big big
+1:23:09 win. There are couple big wins in this.
+1:23:17 Yeah. 50 million one. Yeah. We're going
+1:23:19 to have the perfect perfect version of
+1:23:21 my my product. You know, it's tough. You
+1:23:24 you you look at stuff and last year I I
+1:23:27 saw where I could improve. this year.
+1:23:30 Right now, I feel like man, the window
+1:23:32 for improving this product is getting
+1:23:33 pretty slim. Um, adding some library
+1:23:36 tools, adding some cladding profile,
+1:23:38 library stuff can improve, but as far as
+1:23:41 the function of the plan,
+1:23:44 boy, it just works so well. I could see
+1:23:46 a little bit of stuff I could still
+1:23:47 improve, you know, for next year's
+1:23:50 version, but it's just getting so good.
+1:23:52 It's just great. Um, you didn't know it,
+1:23:55 I have a full manual. I have a live
+1:23:58 updating help thing. I have a version
+1:24:01 comparison tool that will show you what
+1:24:03 things have been updated from previous
+1:24:05 versions in case you want to pick and
+1:24:07 choose what you're updating from and to
+1:24:10 for all these free updates I put out
+1:24:12 where I'm continuously improving this
+1:24:14 throughout the year. Um, a link to the
+1:24:18 user manual and it's got a nice indexed
+1:24:23 clean layout system for understanding
+1:24:25 how everything works. Um, it's got some
+1:24:29 really cool features, some job thread
+1:24:31 builder trend integration stuff. Um,
+1:24:34 yeah, go pick it up. I don't have any
+1:24:37 problem selling it anymore. I don't like
+1:24:39 being a salesman. So easy for me to sell
+1:24:41 this product. It is the best thing that
+1:24:43 I could imagine using in Chief
+1:24:45 Architect. So, yeah, go use it. Go buy
+1:24:49 it. Go pick it up. Help me out. Um,
+1:24:54 join our join our club. I feel like I'm
+1:24:56 part of the club, too. Honestly, I just
+1:24:58 feel like I'm one of everybody else that
+1:25:00 uses it.
+1:25:02 Uh, it's as as exciting for me as it is
+1:25:04 for other people to use.
+1:25:07 Uh, yeah. Oh, yeah. Fixed all the dark
+1:25:09 mode stuff. fix the library stuff.
+1:25:11 That's just all really big ticket stuff
+1:25:14 for me. So, fixing the ability to delete
+1:25:16 libraries, that's just a big ticket
+1:25:18 item. Um,
+1:25:22 awesome. That's all I could say.
+1:25:24 Awesome. Thank you, Chief. Thank you for
+1:25:28 um your official release. Thank you for
+1:25:29 your hard work. it will be really
+1:25:32 exciting to um I'll try to push this out
+1:25:34 to the community for you so that they
+1:25:37 see that it's out there so people start
+1:25:39 using it so people start feeling like
+1:25:41 it's solid. I've been using it for
+1:25:43 months aside from a couple little
+1:25:46 glitches. It's been very solid. I've
+1:25:47 completed plans with it no problem. Um
+1:25:51 I'm looking forward to meeting with
+1:25:53 people out in Cordelane at your event um
+1:25:57 for you know the in-person training.
+1:25:59 I'll be maybe floating from room to
+1:26:02 room. I've been told I could do that
+1:26:03 this year, which is Thank you very much,
+1:26:06 Chief, for allowing me to do that. Um, I
+1:26:09 wanted to just go check out what people
+1:26:10 are learning, how they're learning, how
+1:26:12 teaches, um, how Chief is teaching. And
+1:26:15 then, um, I love sitting down, uh, next
+1:26:19 to people at these training events, and
+1:26:22 it's really fun if they don't even know
+1:26:24 who the heck I am, and I show them
+1:26:27 something that helps their workflow and
+1:26:28 improves their experience. So, it's
+1:26:31 really fun for me. [laughter]
+1:26:32 I'll just tell you that. Um, it's it's
+1:26:35 super cool to just show show them how to
+1:26:37 use the software um and how it's
+1:26:39 intended to be used. And then I'm a I'm
+1:26:42 a fan, you know, it's hard to hide it.
+1:26:45 Um, this is made my career this
+1:26:47 software. Dang it. You know, it's just
+1:26:50 exciting when they release this new
+1:26:51 stuff. So, uh, this is a lot of hard
+1:26:54 work represented here in X18. Like, uh,
+1:26:57 Cody said in the in the chat there in
+1:26:58 the live chat, um, this is the most
+1:27:01 exciting release I feel like has ever
+1:27:03 been. Uh it's given us some really huge
+1:27:07 huge um features and you know a part of
+1:27:11 of these releases where they're not
+1:27:15 giving you the feature that you need and
+1:27:17 you're not understanding what the impact
+1:27:19 of the feature is that's there is, you
+1:27:21 know, hey, maybe you can't afford my
+1:27:24 templates. I get it. I'll still make
+1:27:26 videos to tell you how those templates
+1:27:28 are built so you can take advantage of
+1:27:30 some of these features because that
+1:27:32 project information tool by itself is
+1:27:35 saving hours
+1:27:39 just saving tons of hours. You know,
+1:27:42 it's it's just a welllaidout system that
+1:27:44 you can utilize now if you spend a
+1:27:46 little bit of time um you know after
+1:27:49 your work for the day to set up that
+1:27:51 project information system. So that's
+1:27:53 tools, project information. Build this
+1:27:56 out to solve a problem for yourself, you
+1:28:00 know, on the administrative side. That's
+1:28:02 going to make a huge difference.
+1:28:04 Layerbased fill styles, that's
+1:28:06 something, you know, that's kind of a
+1:28:08 niche thing. I love it because it allows
+1:28:11 me to display very different views from
+1:28:13 view to view. Um, if I go build all my
+1:28:16 framing and see, you know, this is the
+1:28:18 way I want it displayed in this
+1:28:20 particular view versus another view
+1:28:22 where I'm showing it, you know,
+1:28:24 highlighted in specific ways. Layer base
+1:28:27 styles is cool. Cladding profiles really
+1:28:30 awesome for those pulling, you know,
+1:28:32 cross-section views, back clipped
+1:28:34 cross-section views where you're trying
+1:28:35 to show more accurate cross-section
+1:28:37 views where you're seeing the cladding
+1:28:39 profiles in your cross-section views.
+1:28:42 Yeah, that's a big win for me, too. You
+1:28:44 know, take the time to take advantage of
+1:28:46 some of the stuff that's in Chief, like
+1:28:48 more elaborate flashing and counter
+1:28:51 flashing details and gutter profiles and
+1:28:53 looks like I need to change my gutter
+1:28:55 offset and and the way your cladding
+1:28:57 runs and shadow boards and sophets and
+1:28:59 all that stuff, you know, take the time
+1:29:01 to go set that up so you get some really
+1:29:03 good automatic detailed views like this.
+1:29:06 But again, layerbased fill styles
+1:29:08 driving a lot of things on this
+1:29:10 particular section view and the way that
+1:29:12 they're displayed makes for cleaner
+1:29:15 setup. And um you can go check take a
+1:29:18 look at the other video that I produced
+1:29:20 that was um previewing all the features
+1:29:22 in X18. This was kind of looking at just
+1:29:25 the patch notes for the official
+1:29:27 release. So yeah. Um Cody, no more uh
+1:29:32 global variables. Not true. still using
+1:29:35 global variables to capture those to do
+1:29:38 some things. So, um, with my system, you
+1:29:42 have a you have a a plan that we would
+1:29:45 call a warehouse plan where it's
+1:29:47 establishing all your title block
+1:29:48 information. And from there, it's also
+1:29:51 doing some automated things. So if I
+1:29:55 were to go open up this layout for
+1:29:57 example,
+1:29:59 um what it's doing is it's automatically
+1:30:02 generating this spec based on um what
+1:30:06 you know code criteria you put in. So
+1:30:08 it's gener it will change the spec to
+1:30:11 CRC, CBC, NBC based on what information
+1:30:14 you put in there. So that requires you
+1:30:16 know that we capture the internal global
+1:30:18 coming from chief and assign it to um
+1:30:21 our own global so that it can be used
+1:30:23 and parsed for other information in
+1:30:25 other places. But also if I come into
+1:30:27 this project information or the layout
+1:30:30 and come in here and turn layout options
+1:30:32 such as walk out true false the true for
+1:30:36 instance and now this is being seen as a
+1:30:39 walkout basement and it's automatically
+1:30:42 labeling things as existing basement
+1:30:45 proposed basement etc. Then if we were
+1:30:48 to go take a look at that plan view and
+1:30:51 get into our
+1:30:53 area analysis, this is still using a
+1:30:55 global system that automatically changes
+1:30:57 the area analysis name. So um again I'm
+1:31:02 coming to that zero modification, zero
+1:31:05 input state in these templates where
+1:31:08 people don't need to annotate anything.
+1:31:11 So that's really cool. I do plan on for
+1:31:15 those of you that know my system
+1:31:17 specifically and know the annotation
+1:31:19 tool and maybe have even built out the
+1:31:21 annotation tool to do some really cool
+1:31:23 things. Um I can now build the
+1:31:26 annotation tool to pull from project
+1:31:28 information as well. So maybe we want to
+1:31:31 pull something from your spec writing or
+1:31:34 maybe want to pull something from your
+1:31:36 municipality some specific code note
+1:31:38 automatically. Um, so there's some ways
+1:31:41 we can expand some of the features of
+1:31:44 some of the stuff that's in here. And
+1:31:45 again, get to that zero input level
+1:31:48 where you need no training to use this
+1:31:50 template, where you need not to look at
+1:31:52 the manual. Um, hopefully the
+1:31:54 interactive help menu just gets you
+1:31:56 right through drawing from beginning to
+1:31:58 end. And as soon as you open up layout,
+1:32:01 your your stuff is complete and it's
+1:32:05 done.
+1:32:07 We're off to the races and go make some
+1:32:09 money. So, um, thank you for joining in
+1:32:12 on this. This was an impromptu little
+1:32:14 review. Um, I'm so excited to
+1:32:19 to get this all buttoned up. Um, if
+1:32:21 you've purchased previous pro plan, get
+1:32:24 to the account tab on my website, log
+1:32:26 in. There is uh in the account sidebar,
+1:32:29 there is automatically generated codes
+1:32:32 for you to get your discounts. because
+1:32:34 you purchased previously, you're going
+1:32:36 to get at least 40% discount, if not
+1:32:38 more, depending on when you bought. So,
+1:32:41 um, if you've skipped a few versions,
+1:32:43 you're going to get 40% off that new
+1:32:45 product. Cool. Thank you for being a
+1:32:48 customer.
+1:32:50 Sweet, sweet, sweet. Um, yeah, Todd,
+1:32:53 man, I'm with you. It feels um, it feels
+1:32:58 special how far this has all come. It
+1:33:01 really does. So,
+1:33:03 I'm uh I'm excited to work. Then that
+1:33:06 should mean something, right? You
+1:33:08 excited to do your job? I'm excited to
+1:33:10 do my job. That's cool. Uh can't wait to
+1:33:14 go get a project. Someone hand me a
+1:33:15 project. I want to chew it up. I want to
+1:33:17 chew it up. So, uh thanks again. I'm
+1:33:21 going to take off. Cheers.

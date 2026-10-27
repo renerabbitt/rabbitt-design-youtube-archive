@@ -1,0 +1,1681 @@
+---
+videoId: c8uxol-1wwo
+title: Do This First: Marketing for Small Teams That Works - Designers Show 174
+url: "https://www.youtube.com/watch?v=c8uxol-1wwo"
+status: imported
+---
+
+# Transcript
+
+0:02 And here we are. We are live. Welcome
+0:05 everyone to the designer show on this
+0:08 lovely
+0:10 what is it? May May 15th. It's hard to
+0:12 keep track anymore because the time goes
+0:14 so damn fast these days.
+0:16 >> It's just crazy, isn't it?
+0:19 Time keeps flying, but that's okay.
+0:21 That's what it happens. That's what it
+0:22 is.
+0:23 >> Um anyway, welcome. And uh we're going
+0:27 to have a little fun today talking about
+0:28 some marketing with our guest Jolene
+0:30 from Big Raven Media. And Renee is here
+0:33 to join us as well. John and Robin and
+0:35 Kevin will not be here today. So they're
+0:38 all out doing different crazy things.
+0:42 [clears throat]
+0:43 Yeah, John's out traveling in his new
+0:45 RV. And um Robin's got big school
+0:48 meetings today. And I don't know what
+0:50 Kevin's doing. He said John got a got a
+0:54 uh like an ambulance.
+0:55 >> Yeah. Yeah. He he's bought these
+0:59 Sprinter vans and he fixed it up into a
+1:01 camper and they've been he and his wife
+1:04 drive around the country. I think they
+1:05 spent six to eight months on the road
+1:07 last year. Um it's kind of what they've
+1:09 been doing. They've got kids all over
+1:11 the United States. So they just kind of
+1:13 hop around, go visit visit other people.
+1:15 They just love the road life. And uh
+1:18 recently they had their the motor
+1:20 replaced on the thing and the mechanic
+1:22 screwed something up and uh this DEP
+1:27 stuff it's called from the it's got
+1:29 something to do with the diesel system
+1:32 but this DEP is highly corrosive and got
+1:34 under the whole bottom side of his RV
+1:36 and just destroyed it. So you know all
+1:40 the wiring was eaten through and all
+1:42 this stuff. So like it was really bad.
+1:44 So they don't they're not gonna drive it
+1:46 anymore and um
+1:48 >> heard of something like that.
+1:49 >> I know. Isn't that crazy?
+1:51 But anyway, so they went out and bought
+1:53 a instead of getting a sprinter this
+1:54 time, they bought a what? Paramedics um
+1:58 vehicle. They're fixing that up. So be
+2:00 interested to see how that comes out.
+2:02 >> Yeah. So he's saying, yeah, that people
+2:04 stay away from him when he's driving
+2:06 down the road. [laughter]
+2:08 It's still still got the ambulance on
+2:10 it, which they're going to take off.
+2:12 They also probably like panic and slow
+2:14 down. And
+2:18 >> I think I'd be tempted to leave it on.
+2:19 Like that [laughter] seems
+2:23 >> got all the lights on it too. You just
+2:24 flip the switch.
+2:25 >> I had a friend that that bought
+2:27 something that looked like a police
+2:28 vehicle and he would just say like it
+2:31 would slow the whole freeway down and I
+2:33 don't want you to do that.
+2:34 >> Yes. Yeah. You know, you see
+2:36 >> he thought everyone was just going to
+2:37 get out of the way. It was the total
+2:38 opposite. They all just slowed way down.
+2:41 [laughter]
+2:42 >> Anyway,
+2:42 >> kind of like makes me think of like a
+2:44 Ghostbusters car, you know, like that
+2:45 could be so cool. [laughter]
+2:48 >> Well, anyway, um, welcome everyone. Uh,
+2:51 we got Paul from Boston and Iowa. Jeff,
+2:56 how you doing?
+2:58 And we got architectural craftsman. This
+3:01 would be Mary. How you doing, Mary? Nice
+3:03 to see you. There's Mike. How you doing,
+3:05 Mike? Thanks for being here. And there's
+3:08 Makam Moore. All right, thanks everybody
+3:11 for being here and u hopefully we'll get
+3:13 few more people in. So our guest today,
+3:15 Jolene Emmery is uh she's actually helps
+3:18 me with my marketing and my business.
+3:20 We've been working together what eight
+3:22 years now, nine years.
+3:23 >> So eight or nine.
+3:24 >> Yeah, it's been a while. So we meet
+3:26 every week and we discuss what's
+3:28 happening and the strategy, what needs
+3:30 to be updated and you know all of that.
+3:32 So uh been really a great relationship
+3:34 and I just love working with you Julian.
+3:36 So
+3:36 >> same. Thanks. And um Jolene has
+3:39 graciously agreed to share some of her
+3:41 marketing knowledge here with our group.
+3:44 And we're going to do a little spin the
+3:46 wheel. We got a whole bunch of topics on
+3:48 the wheel and we're going to uh just
+3:51 spin it up and we're going to chat about
+3:54 uh the different topics that come up. So
+3:57 [clears throat] I um let's get into it
+3:59 in just a second. Before I do that, um I
+4:03 just want to let everybody know we do
+4:04 have a a session coming up
+4:08 uh next month in Denver, Colorado. Uh
+4:11 John and I just finished a week-l long
+4:14 training in Rockford, Maryland. That
+4:16 went great. Uh we actually drove out
+4:18 there, which was bit of a haul, but we
+4:21 really had a nice drive and it was
+4:22 really enjoyable. And uh we're going to
+4:25 head to Denver here next month. So love
+4:27 to have you in our class. So check it
+4:29 out. Give me a call if you have any
+4:30 questions. Would love to have you there.
+4:32 We we've got uh two days of beginner
+4:35 intermediate and then two days of
+4:36 intermediate advanced and typically
+4:39 about twothirds of people that sign up
+4:41 take all four days because we kind of
+4:43 just progress through the whole program
+4:45 um from start to finish in those days.
+4:47 But if you just come for the first two
+4:49 days, you're going to get a really good
+4:50 overview of Chief and how it works. And
+4:53 if you come for the last two days, we're
+4:55 you get to dive into some of the other
+4:57 topics we don't talk about the first two
+4:58 days. Plus, we dive deeper into all the
+5:01 different areas of the software on those
+5:03 last two days, too. So, um it's been
+5:05 working out really well. So, we've
+5:07 really been enjoying that format. So,
+5:09 love to have you there. But, yeah, check
+5:10 it out and uh we got it all listed on
+5:12 the website.
+5:14 And with that, um you got anything to
+5:18 add to that?
+5:19 >> You're welcome. [laughter]
+5:21 >> Yeah.
+5:24 I know Julian does all this wonderful
+5:26 marketing stuff. [laughter]
+5:27 Thank you.
+5:29 And then uh the Pro Academy is still
+5:31 going strong. Uh we meet every live
+5:33 first and third Wednesday of every
+5:35 month. Uh we do four sessions on each of
+5:38 those days covering different topics
+5:39 related to design and chief architect.
+5:41 And we've been having a ball with that.
+5:43 So we really welcome you to join that.
+5:45 Um I post all of those videos online. Uh
+5:49 they're all timecoded so you can go to c
+5:52 certain parts of the videos. Plus we've
+5:54 got all sorts of other content on there
+5:55 and I'm working on a whole new litany of
+5:58 content for the coming years. So um it's
+6:01 going to be fun. Just going to keep the
+6:03 goodness rolling in the pro academy. So
+6:05 if you're looking to get into the chief
+6:06 world, that's going to be your place to
+6:09 do it to get all the real answers that
+6:10 you need on how to run that software. So
+6:13 she's the one who fills my email box.
+6:15 >> That's what I was saying. You're welcome
+6:17 to. [laughter]
+6:18 >> Ah, got it. Okay. [clears throat]
+6:22 >> I hope you enjoy some of those. Although
+6:24 I I I will be posting some emails here,
+6:27 too. I'll give you little tips. Um, that
+6:29 that tend to that's what I used to do is
+6:31 my emails that would always include
+6:33 tips. So, you know, you read my emails,
+6:35 you're going to learn something. Plus,
+6:36 we get to market the things that we have
+6:38 on the, you know, that we have
+6:40 available. So, Jolene is just more of
+6:42 the marketer.
+6:44 She puts all that good content in your
+6:47 full in your thing about things that we
+6:48 have coming up. So,
+6:49 >> and I'm gonna take a screen grab right
+6:51 here of Paul's comment.
+6:55 >> Pro Academy was the best investment
+6:57 ever. That's awesome.
+6:58 >> Thanks, Paul. I appreciate that.
+7:00 >> That's nice.
+7:01 >> Yeah. So, again, we do share a ton of
+7:04 information and content at the Pro
+7:06 Academy and and we're just getting
+7:08 warmed up. So, um we're looking forward
+7:11 to a lot more coming up. So, thanks
+7:14 Paul. Appreciate that. [clears throat]
+7:15 With that, let's jump into what we've
+7:18 got planned for the day, and that is to
+7:21 spin that little wheel. Um, what do we
+7:23 have? A dozen topics on here, and
+7:26 obviously going to take more than just
+7:29 [clears throat]
+7:30 >> 10.
+7:30 >> 10. 10 is what it was. Okay. Well, let's
+7:32 just spin it up and see where we land
+7:35 >> and
+7:37 we'll go from there.
+7:39 wasting time on bad marketing.
+7:43 >> All right. So, I'm gonna finish that
+7:45 one. So, Jolene, go ahead and tell us
+7:49 about wasting time on bad marketing.
+7:51 >> Yeah. So, I think that, you know, bad
+7:53 marketing might be the wrong It's kind
+7:56 of strong, but what I mean by that is um
+7:59 sometimes we do the things that we think
+8:02 that we're supposed to do and not the
+8:04 things that you have to do. And
+8:07 >> some examples.
+8:08 >> Yep. For many of us, you know, we are
+8:10 small businesses and don't have a
+8:12 marketing team. So, if you are spending
+8:15 a lot of time worrying about your social
+8:19 media content or trying to create social
+8:22 media content, but you haven't yet
+8:24 established your Google business
+8:26 profile. Well, that would be an example
+8:28 of bad or upside down. Like, we have to
+8:31 build a really good foundation. Good
+8:34 foundation starts with your Google
+8:36 business profile first. first and
+8:38 foremost. And then after you get that
+8:41 built, then treat that like any other
+8:43 social media platform and post to it
+8:46 weekly. You know, you want to feed the
+8:49 machine. And the machine that customers
+8:51 use to find you is Google. So if you set
+8:55 that up, then that would be an example
+8:57 of how we're a little bit upside down.
+8:59 And that's what you should do first.
+9:01 >> Yeah. So how does AI AI AI AI relate to
+9:05 Google? Is that a different marketing
+9:07 stream?
+9:07 >> Well, I think that there are lots of
+9:10 ways you can use AI to help you with
+9:12 your marketing, but until you've got the
+9:14 basics done, you know, you need to enter
+9:17 the information. You need to set up the
+9:20 profile. You need to try to get reviews
+9:22 and respond to reviews. Until you do
+9:25 that, we don't even want to diddly
+9:28 around in AI. Like, we got to do the
+9:30 basics first. And I think it's a great
+9:32 question, friends, like how many of you
+9:34 have your Google business profile set
+9:37 up?
+9:39 >> You got your Google profile set up?
+9:41 [laughter]
+9:43 >> Rene.
+9:46 >> See, I think that's a
+9:47 >> Shall we check it? [laughter]
+9:50 >> Um, yeah, I know I have I know I have
+9:52 one because uh Well, what's funny is
+9:54 it's my house. So, when people look up
+9:56 my address, it's my house. Well, and
+9:58 Rene, [snorts] that's a really good way
+9:59 to check because so [clears throat] when
+10:02 you have it set up, you will
+10:04 automatically have the profile box. Um,
+10:08 it's kind of like a split screen. You'll
+10:09 have it on the right and the left. And
+10:11 so that means that your profile is
+10:14 indeed set up. Um, but if you haven't
+10:17 set it up, friends, that's really and
+10:19 truly step one. Like, let's get that
+10:21 done.
+10:23 >> So, what do we got?
+10:24 >> Showing everywhere. You're showing the
+10:26 people where to send the bombs right
+10:27 now. [laughter]
+10:29 >> Well, that
+10:31 >> the other thing to know is that you
+10:33 manage and operate your Google business
+10:35 profile from Google Maps. Um, Google My
+10:38 Business used to be a separate product
+10:41 inside the Google sphere. Um, but now it
+10:44 resides inside of Maps. So, if you're
+10:47 having a hard time finding it, go to
+10:50 Google Maps and then type in your
+10:52 business. And then if you've got it set
+10:54 up where you are the admin, it the
+10:57 control panel will pop up for you
+10:59 immediately.
+11:00 >> Cool.
+11:01 >> Yeah.
+11:02 >> So there it is. And you're on there,
+11:05 Renee. You got five
+11:06 >> five star re reviews. Way to go.
+11:09 >> That's funny. I know it's just five. I
+11:11 know I have more than that. Well,
+11:13 Andrea, you should have so many, you
+11:15 know, like every time we do like a
+11:17 summit or something like I think that
+11:19 should be a behavior that we start to do
+11:21 that we ask for reviews and guide folks
+11:24 to it before they even leave.
+11:26 >> Yeah.
+11:26 >> And there's 40.
+11:27 >> You don't get to leave here until you
+11:28 give me a review.
+11:29 >> Exactly. Exactly.
+11:31 >> Let's see. Can we see Rene sitting on
+11:33 his deck here? Let's see. [laughter]
+11:36 >> Oh, you know that's been updated because
+11:37 my deck's got taken out by a tree. if
+11:39 you've seen any of my um house videos.
+11:42 >> Okay.
+11:43 >> Wow.
+11:44 >> So, that's your ADU up here or what is
+11:46 that?
+11:46 >> Uh yeah, that's Well, that's my garage
+11:48 and then there's ADU underneath it.
+11:50 That's my dad lives underneath there.
+11:52 >> Oh, okay. Yeah. Kind of see that.
+11:55 >> Cool. You're a big hill there, aren't
+11:56 you?
+11:57 >> Yeah.
+11:58 >> So, the reason that this is so important
+12:01 is because most of our customers go to
+12:04 the well of wisdom to get the
+12:06 information that they need. And the well
+12:09 of wisdom is Google. And if you're not
+12:11 feeding the well, if you're not feeding
+12:14 the machine, it's really, really hard to
+12:17 be discovered or found. And so I think a
+12:20 part of your weekly, monthly practice
+12:24 should be making sure that you've got
+12:26 that set up because if you don't, you
+12:28 really are missing a huge opportunity.
+12:31 >> Yeah, absolutely. So, um,
+12:33 [clears throat] what would be a good way
+12:35 would would you recommend hit AI up and
+12:37 ask, "Hey, how can I improve my my
+12:40 Google My Business page?"
+12:42 >> Well, I think that you first have to set
+12:44 it up and it's a lot of questions. It
+12:46 doesn't really take very long, but you
+12:48 also need to get your business verified
+12:50 and there are a couple of ways that. So,
+12:53 again, AI, we wait until you've done the
+12:56 good work. Hello, Scott. You've done the
+12:59 good work of getting it set up first.
+13:02 So, set it up, you know, um, feed it
+13:04 some pictures, talk to previous
+13:07 customers about leaving reviews. And the
+13:09 thing about reviews is that it is
+13:11 tricky. It is tricky to get them. Um,
+13:14 but I think you need to come up with a
+13:16 strategy. Um, and you probably have seen
+13:19 out in the wild lots of ways that
+13:21 businesses get reviews. In one of my
+13:24 businesses, what we do is we make a
+13:27 promise um that when someone leaves a
+13:30 review for my retreat center um I will
+13:34 send them my husband's digital cookbook
+13:36 and as many of you know my husband is a
+13:38 chef and so they want access to his
+13:42 expertise and so they leave the review,
+13:45 I send the cookbook and we have kind of
+13:47 this lovely carrot and the stick kind of
+13:49 thing. Now, I know that doesn't work for
+13:52 everyone, but there are lots of ways you
+13:54 can think of incentivizing folks for
+13:57 that. I've even been at um um service
+14:00 businesses where if I leave that Google
+14:03 review before I even leave their
+14:04 business, they'll take $20 off of the
+14:07 service that I got that day.
+14:09 >> Again, you might not be able to do that
+14:11 exactly, but you should think of what
+14:14 you are going to do. Something
+14:16 >> cool.
+14:17 >> Even asking for them, right? asking for
+14:19 them. Um, and I think too being very
+14:22 transparent and saying, "Listen, I know
+14:26 that leaving a Google review is a little
+14:28 bit of a pain, but boy, it sure does
+14:30 help me in this world when you do a
+14:33 little bit in that world and I
+14:35 appreciate it so much." Like, I would
+14:37 frame it in the context of how much it
+14:40 helps your business grow
+14:42 >> and just get in the habit of asking. I
+14:45 was just on the call with you guys
+14:47 before this and I was telling Dan that
+14:49 um I had a window replaced on my car
+14:51 that ended up they screwed up and they
+14:53 ended up leaking into the car and
+14:56 >> we've been fighting it for a while. That
+14:57 window replacement has turned into like
+14:59 a $2,000 fix for them.
+15:01 >> Oh my gosh.
+15:02 >> For them. And they just call me to tell
+15:05 me it's done and they're going to bring
+15:06 it by and I go, "Do I owe you any
+15:08 money?" And they're like, "No,
+15:08 absolutely not." And I go, "Man, you
+15:10 better go give me the link to your
+15:12 >> company because I'm going to go write a
+15:14 nice review for this."
+15:16 >> Well, and Renee, I'm so glad you said
+15:17 that because inside your Google profile,
+15:21 you can get a shortcut link and that
+15:24 shortcut link, just copy and paste it
+15:26 and keep it where you keep your
+15:27 important links so that when you send it
+15:30 out to customers, they already have the
+15:32 shortcut link. So, you don't want to
+15:34 say, "Go to Google and leave me a
+15:36 review." because that's some folks can
+15:38 get lost in the weeds, right? You want
+15:40 to grab that shortcut link and send them
+15:44 that because no matter where they are,
+15:46 that's going to take them to the right
+15:48 spot.
+15:48 >> And then of course, Renee, their job
+15:51 after you leave that review would be
+15:53 they should make sure they respond to
+15:55 it. Like responding to reviews is so so
+15:58 so important, even bad ones.
+16:01 >> I've got a question for you. So my I
+16:03 host my website on Squarespace and
+16:06 >> I have a ton of reviews from
+16:09 Squarespace.
+16:10 >> Is there any way to link those two up?
+16:13 No.
+16:13 >> No, I'm afraid not. So inside the Google
+16:16 sphere, you need to leave the review
+16:19 inside of their product. Um, and that's
+16:22 for like verification and to make sure
+16:24 that like actual customers left actual
+16:26 reviews. Um because if you could link
+16:28 them, we could, you know, jin them up
+16:31 [laughter] and then just feed the
+16:32 machine that way. So Google's held
+16:34 pretty tight to the fact that you have
+16:36 to log [clears throat] to Google to
+16:38 leave them.
+16:39 >> But couldn't you do a quick Loom video
+16:41 showing that review and just commenting
+16:42 on it and then post a little short video
+16:45 >> or something like that?
+16:46 >> It's a different space. It's a different
+16:48 space inside of Google, Dan. like it has
+16:50 to be like like Google has everything in
+16:53 these separate buckets
+16:55 >> and so the reviews are their own bucket
+16:58 and you can't affect the bucket unless
+17:00 you go into that product.
+17:03 >> So even if you made a video it would
+17:05 live in your content but it wouldn't
+17:07 live in your reviews.
+17:08 >> Okay.
+17:09 >> Yeah.
+17:09 >> Huh.
+17:10 >> Great questions.
+17:12 >> Anybody else have questions on this
+17:13 Google review business?
+17:16 >> Excuse me. It's um I'm sure there'll be
+17:18 some, but yeah, it's probably the number
+17:20 one thing you have to do.
+17:21 >> It's so important.
+17:23 >> And then posting regularly, which you
+17:25 know, again, we're doing okay. Um
+17:29 >> we could probably post more. I could
+17:30 post more. Uh it's just post. It's just
+17:33 like posting something
+17:35 >> pictures of a project.
+17:37 >> Yep. We treat it just like a social
+17:39 media space and we post once a week.
+17:42 >> Yeah.
+17:43 >> You're posting on your Google page.
+17:45 >> Yes. Yep. Yep. Yep. And you could I mean
+17:49 you could do pictures um you can do
+17:52 articles, you can do promotions, you can
+17:55 link to your blog posts. Like the idea
+17:58 is that you are just feeding the machine
+18:01 because when people want your services,
+18:04 right? Design services in my area or
+18:08 design build services in my area or
+18:10 whatever your keywords are. If you
+18:12 haven't told the machine what you do,
+18:15 it's going to be really really hard to
+18:17 find you. So you have to feed the beast.
+18:20 give it the information it needs to
+18:23 scoot out as the answer to a problem
+18:26 your customer has that you can solve.
+18:29 Um, and Michael, the last place you
+18:31 worked had business card to hand out
+18:32 that included all the information. Yeah,
+18:34 a QR code. Brilliant. Right, too. And
+18:38 that is the shortcut link that has been
+18:40 made into a QR code. That's a great
+18:42 idea. That's a brilliant idea. Yeah,
+18:45 >> for anyone that that doesn't know like
+18:47 me, I've tried doing QR codes before and
+18:50 the services that I use end up um the QR
+18:53 code becomes invalid over a time
+18:56 >> clearly not going to the right place or
+18:58 something.
+18:58 >> Rene, I recommend Canva. Um we use the
+19:02 generator inside of Canva. Now, I have
+19:05 the paid version of Canva, so it might
+19:07 be might be that mine don't expire
+19:10 because I'm paying an annual fee. Um,
+19:12 but that's what I use is Canva because
+19:14 I've had that happen to me too where,
+19:16 you know, you have to click something
+19:18 and then you gota, you know, just
+19:20 nonsense. Just absolutely
+19:21 >> like great. I got 500 cards that do
+19:24 nothing,
+19:24 >> right?
+19:25 >> No,
+19:26 >> this is wonderful. Yeah. Yeah. So, we
+19:28 use Canva.
+19:30 >> Michael says, "Is this pretty um the
+19:32 Google page and everything? Is that
+19:34 pretty easy to set up?"
+19:36 >> Yeah. So, it's it's not bad at all. It
+19:38 is like
+19:39 >> It's terrible. you should go hire
+19:41 Jolene, [laughter]
+19:43 >> right? You need someone like me,
+19:44 Michael. Yeah,
+19:45 >> it's not bad at all. You're gonna fill
+19:47 out the prompts, you know? It's just
+19:48 like filling out a spreadsheet. Um give
+19:51 it all of its information, but just
+19:53 remember like you're going to want to
+19:54 set a reminder because the verification
+19:58 um has to happen before it goes live.
+20:01 So, they change up how they verify. It
+20:04 used to be a postcard, sometimes it's a
+20:06 phone call. It just really, really
+20:08 depends. But you can't really do much
+20:11 until you get it verified. So get
+20:14 started, get it verified, and then keep
+20:16 adding to it for sure. But no, it's not
+20:18 hard.
+20:19 >> Scootly doot a technical.
+20:22 >> It is. Scootly doot is kind of like
+20:24 processing, right? [laughter]
+20:26 Like the machine is thinking. Thank you,
+20:29 Scott. You know it's a real He knows
+20:30 it's a real word.
+20:33 >> Very good. Anyway, so if someone's
+20:35 searching for a chief architect help in
+20:37 Oakland, California in Google Maps,
+20:40 >> Rene, you're fifth.
+20:42 >> That's not bad.
+20:44 >> And I would say too that your customer
+20:47 maybe not so much Renee because and Dan
+20:49 because your customers are chief
+20:52 architect users, but for designers,
+20:54 designers, builders, I don't think they
+20:56 necessarily know the software that you
+20:58 use to design their pretty buildings. I
+21:00 would say stick more to keywords in your
+21:03 lane. Design, build, um, ADU,
+21:07 um, you know, uh, luxury homes, you
+21:11 know, whatever. Design for your vision,
+21:13 whatever your words are. Um, that's what
+21:16 you want to make sure that you are
+21:17 adding in your profile.
+21:19 >> Cool.
+21:19 >> Yeah.
+21:20 >> All right. Awesome. Let's spin up the
+21:21 wheel.
+21:23 >> Oh, yeah. Michael, that's great. Yes.
+21:25 They ask for a picture of your sign in
+21:28 front of your building. That's another
+21:29 way they verify. They have lots of ways.
+21:32 >> Google might Google Google business does
+21:34 that, Dan. Like in the verification,
+21:36 they'll say, "Go outside and take a
+21:37 video of you in front of your building."
+21:39 They do.
+21:40 >> Yeah. It's not too tricky, though.
+21:43 >> Um, what is a good number of Google
+21:45 reviews? Oh gosh, Pippen, I don't know
+21:48 that you're going to like my answer, but
+21:51 um [clears throat]
+21:52 so have you ever heard if you get like
+21:55 five marketers in a room, we're all
+21:57 going to tell you a different tale? Like
+21:59 we're all going to have a different
+22:00 answer to the same question. Um I
+22:05 believe that once you get to 100, your
+22:09 customer base and the machine treats you
+22:12 different differently. like I don't have
+22:14 any empirical data on that. I just have
+22:17 marketers in a room talking about what
+22:19 they think is working. Um so for me in
+22:22 my business getting to 100 was a
+22:24 milestone that I tried really really
+22:26 really really hard to get to. Um, and
+22:29 then it's funny because once I got to
+22:30 100, I'm now at like I don't know 160 or
+22:34 165 or something and I've kind of
+22:36 chilled out a little bit because I feel
+22:38 like there's really great data there for
+22:41 other people to make a decision. And so
+22:44 I would imagine a lot of us would start
+22:46 to feel that way. Maybe even, you know,
+22:48 50 would be great, right? And in your
+22:51 businesses it's so different. you don't
+22:53 have as many customers in a calendar
+22:55 year as I do because I own a retreat
+22:58 center as well, right? So, I have got
+23:01 hundreds of guests and I've just got a
+23:03 bigger pool of candidates. Um, but in
+23:06 your industry, I would say let's at
+23:07 least strive for 25 or 30 and keep
+23:10 working our way up to 100.
+23:12 >> Jenny, Jenny, you've got 17 five star
+23:15 reviews.
+23:16 >> That's awesome. We will take that.
+23:18 That's great. And with what you do,
+23:20 Jenny. Yeah, you should have a lot more.
+23:22 So, you should let people know about
+23:23 that. Jenny's a rock star in the design
+23:26 world. She just does some amazing stuff.
+23:28 You've got so many awards and all these
+23:31 things, Jenny. You should get those
+23:32 posted on your Google My Business page.
+23:34 >> Well, and I would say too that it's the
+23:36 habit. It's the habit of asking for the
+23:38 review. So, for me, I have a workflow
+23:41 and in that workflow, I ask every
+23:44 customer for that review. So you have to
+23:47 figure out what your workflow is to make
+23:49 sure you don't forget.
+23:50 >> Yep. So as you know I I only have eight.
+23:54 Rene has five. So we're not really good
+23:56 askers. So
+23:57 >> No.
+23:58 >> Yeah. So we need to work on that more.
+24:00 >> Yes, we do.
+24:00 >> But we do a lot of work in other areas.
+24:03 So So that makes up for it to some
+24:06 degree. But yeah, good question.
+24:07 >> Look at my I'm curious about my dad's.
+24:09 Look at my dad's for a second. Dan
+24:11 Martinez construction.
+24:14 >> Do you think he's got his head up with
+24:15 it?
+24:16 I think Dan was beat
+24:18 >> Martinez
+24:21 instruction. I spell that right?
+24:24 >> It's right there. That first one.
+24:25 >> Okay,
+24:27 >> he's got one
+24:28 >> Oh, he's got one on one star review.
+24:30 >> Oh, no. [laughter]
+24:33 >> Well, and you know, you got to watch
+24:34 though is because
+24:36 >> I mean, he's been retired for a little
+24:37 bit, but uh it used to be that he'd have
+24:40 um like 40 or 50.
+24:42 >> And is that two years ago it said?
+24:44 >> Yeah. So, they do get removed.
+24:46 >> They do. And also, um, if you
+24:50 set a reminder to make a little
+24:53 complaint, um, the squeaky wheel gets
+24:55 the grease in the land of Google. Um, I
+24:58 had one for someone who never bought a
+25:00 product or service from me. Um, and they
+25:02 left a one-star review. And so, um, I
+25:05 just continually bugged and bugged and
+25:07 bugged and bugged until they took it
+25:09 down.
+25:09 >> Yeah,
+25:10 >> Victor's got seven. There you go,
+25:12 Victor.
+25:14 Seven. What? One or five? Come on.
+25:16 [laughter]
+25:16 Let's have the truth here.
+25:18 >> I had a bad review as well where um the
+25:21 person was emailing the incorrect email
+25:23 address and and gave me a onestar review
+25:27 and I'm like never worked with you
+25:28 before.
+25:29 >> Yeah. Did you say did you say that
+25:31 Renee?
+25:32 >> Yeah.
+25:33 >> Yeah.
+25:33 >> Like man I've never never even heard of
+25:35 this person before. Yeah.
+25:37 >> Well, and I think that in the response
+25:39 to reviews, like we've all gotten so
+25:42 nosy, like we love to watch the drama
+25:45 unfold in the reviews. So, you know, in
+25:49 my situation where I had that one star
+25:51 review, I just said, "I have no record
+25:53 of you being a guest here. Um, and if
+25:57 I've missed something, boy, I sure would
+25:59 love the chance to talk to you about
+26:00 your experience." Of course, crickets,
+26:02 you know, nothing happened, but like we
+26:04 all grab the popcorn and we like to
+26:06 watch that unfold. So, do not be afraid
+26:08 if you have a one or a two star review.
+26:11 That is not the end of the world. Your
+26:14 redemption story and how you respond to
+26:17 it. That's that's the story arc that
+26:20 people are looking for.
+26:21 >> By the way, I know Victor's got all five
+26:23 star reviews.
+26:24 >> Yeah. I um when I look at those Amazon
+26:27 reviews, I'm always like flabbergasted
+26:29 that people like will give a product a
+26:32 one-star review when the delivery was
+26:34 their problem.
+26:36 >> It has nothing to do with the product.
+26:38 You're just going to sink this poor
+26:39 company.
+26:40 >> I know. I know.
+26:41 >> You know, Rene, it's funny. My um my
+26:44 oldest son and I, we have talked about
+26:45 starting a podcast called Jack and
+26:48 Jolene Read Reviews because some reviews
+26:51 are so funny and they're just like I
+26:54 mean they have like the whole you know
+26:57 drama arc like some are so good. In
+26:59 fact, I'll I'll let you the ones I
+27:02 recommend are the Lady Bick pen,
+27:05 [laughter]
+27:05 the sugar-free gummy bears. Um, and
+27:09 yeah, those two start there.
+27:12 >> Interesting. Anyway, moving on. So,
+27:15 we've got uh where am I here? We've got
+27:19 social media driving business.
+27:21 >> Yep.
+27:22 >> So, social media, I think we get it
+27:26 confused because we're in a deluge of
+27:29 social media information. And does your
+27:33 social media behavior drive your traffic
+27:37 and customers or is it just a place to
+27:40 hang your brand and let folks know you
+27:43 exist? So unless you are tracking where
+27:47 your leads come from, social media is
+27:50 really just like a sign in the yard
+27:53 because there's just so much of it. So
+27:56 again, I would say let's not focus on
+27:58 that unless you have a strategy that is
+28:01 working, you love making the content,
+28:04 you're getting engagement, you're
+28:05 getting reviews, but if it's just going
+28:07 by and folks are just not doing anything
+28:10 with it, I would say let's focus more on
+28:12 Google. Now, for all of my clients, I
+28:15 still post on their social accounts and
+28:18 we still hang our hat, but it's more
+28:21 brand awareness than it is lead
+28:24 generation. So I think it's important to
+28:27 keep those ideas separate in your mind.
+28:30 Um unless you have a fully thought out
+28:34 and articulate social media strategy
+28:36 which honest to say friends that would
+28:39 in like that's you like you need to make
+28:41 it. You need to be the one who is the
+28:44 talking head, the expert, the voice.
+28:47 It's really hard to hire someone like me
+28:50 to do that for you. um because we're
+28:53 talking about what you are great and
+28:55 amazing at. Now Dan, it's easy because
+28:57 we have so much Dan content that we can
+28:59 pull stuff out that he's done in the
+29:01 past. But for most of us, when we're not
+29:04 creating content, unless you have the
+29:06 time to start, that's not what I would
+29:09 do first. I would focus on Google.
+29:11 >> Well, and remember that social media is
+29:14 just hanging up your hat, your brand.
+29:15 social social media content. It's just
+29:17 it's just a something you do regularly,
+29:20 you know, just share share good ideas,
+29:23 good projects, good things that you got
+29:25 in your mind.
+29:26 >> Um, anything that can help other people,
+29:29 >> right? So,
+29:29 >> that's where you should be giving. Give
+29:31 give, right?
+29:33 >> That's where
+29:33 >> give ideas, give Yep. But if your
+29:36 strategy is, "Oh my gosh, we have to be
+29:38 on social." And if you're not on Google,
+29:41 the answer there is no, no, no, Google
+29:44 first.
+29:45 >> Yeah,
+29:45 >> Google first and then everything else.
+29:48 [clears throat] Um, and I have a
+29:49 question about the um, small town local
+29:52 promoter is offering 100 spots on local
+29:55 radio and electronic billboards for 250
+29:58 through July. Are these 15-second views
+30:01 worth the investment? Boy,
+30:04 I I think the best way to answer that is
+30:09 do you find yourself like do you call up
+30:13 businesses that you've seen on
+30:16 billboards,
+30:18 right? Are you inspired, incentivized?
+30:21 Do you remember from when you're driving
+30:24 to later when you could do something
+30:26 about it?
+30:27 >> And I would imagine for most of us the
+30:29 answer is no. But again, just like
+30:32 social media, these things work as
+30:35 reminders and they're brand awareness
+30:38 where we're just trying to keep our
+30:40 brand top of mind for our customers.
+30:42 >> Yeah. I mean, we have clients around the
+30:44 Twin Cities, Cella Remodeling, and a
+30:47 couple others that do those little short
+30:49 spots. Um, and they do it really well
+30:51 and they've been doing it forever. So,
+30:54 I'm sure it works well for them. Mhm.
+30:56 >> But again, they're doing it all the time
+30:59 forever,
+31:00 >> right?
+31:00 >> They don't do once in a while they'll
+31:02 throw in a longer commercial, but
+31:05 >> um I guess it's just if you're trying to
+31:07 build brand awareness, that'd be a way
+31:08 to do it.
+31:09 >> Yeah. And if it's in the if it's in the
+31:11 budget, you know, but I mean I would I
+31:13 would have kind of low expectations,
+31:15 [laughter]
+31:17 you know, because again, [clears throat]
+31:19 you know, when we interact with a
+31:21 billboard, it's kind of like when it is
+31:23 singular in focus and it's just telling
+31:25 us one thing, we are more likely to
+31:29 retain that information than something
+31:31 that's a spot and that might flash.
+31:33 >> And the other thing is, you know, yeah,
+31:35 100 spots for 250, but what's the
+31:37 content going to be? who's going to make
+31:39 that, who's going to pay for that? Um,
+31:41 >> how big is it? How long will it take?
+31:43 >> How long how much time will you put into
+31:45 that? It it's so it could be a good
+31:47 deal, but you know, it's something you
+31:48 want to think through and think through
+31:51 your other marketing options.
+31:53 >> Yeah.
+31:53 >> And put your effort into those. So,
+31:55 >> yep.
+31:56 >> Um, you know, start by emailing all your
+31:58 past clients and say, "Hey, how you
+32:00 doing? We got work, you know, we got
+32:01 some room in our schedule. you know,
+32:04 >> that is such a great idea because so
+32:08 there is a there's a marketing equation
+32:11 that's about the cost of a customer and
+32:14 it costs, you know, like 12 times more
+32:18 to go get a new one than it does to just
+32:22 contact the ones you've had in the past,
+32:24 right? Like you've already they already
+32:27 know, like, and trust you, right? They
+32:30 already have a relationship with you.
+32:32 you're not starting at square one like
+32:34 you're starting from experience and
+32:36 comfort and so those are the folks and I
+32:40 would imagine a lot of time they'd be
+32:42 like h I'm so glad you called I've been
+32:44 thinking about XYZ
+32:47 >> and that's called relationship marketing
+32:49 which is different than digital or
+32:50 content but it's an important part of
+32:53 your marketing mix for sure. Yeah,
+32:55 >> absolutely. Cool.
+32:57 >> Let's uh spin it up here.
+33:04 I love the wheel. It's kind of fun. We
+33:05 got to get back into the wheel, Renee.
+33:09 Clients come in without marketing. What
+33:11 does that mean?
+33:13 >> Clients come in without marketing.
+33:16 I think the rest of the question was,
+33:20 "Are you doing any marketing?"
+33:23 [laughter]
+33:24 like you and your business right now at
+33:27 this moment. What are you doing to
+33:30 market
+33:31 >> talking?
+33:32 >> Well, it's not the referral one because
+33:33 that's a separate question. But um
+33:37 I don't know what that would mean. Join
+33:40 >> that's my question to the group, right?
+33:42 Like what are you doing right now?
+33:45 >> Word of mouth.
+33:46 >> Word of mouth. And that's very common in
+33:48 your industry. Very common. Um, the
+33:52 thing about referrals is that's kind of
+33:55 in the bucket of wish marketing. Like I
+33:58 wish and I hope and I want, you know,
+34:03 people who've worked with me to tell
+34:04 other people about me. Um, it's not so
+34:07 much a strategy
+34:09 um as it is wishing and hoping. So I
+34:13 think if you can pair that, yeah, put it
+34:15 together with something else. And I'm
+34:19 not talking like super hight touch like
+34:21 not necessarily where you need to hire a
+34:23 a Jolene, but something that you can do
+34:26 and manage and start right away, which
+34:29 would definitely be Google for sure,
+34:32 without a doubt. Um, and then what about
+34:34 Yelp? So, Jeffrey, I think that like
+34:38 Yelp, Google, all of them. Um, I think
+34:41 that the takeaway from that is that
+34:44 people like to go where there's some
+34:47 social proof.
+34:48 like if there is some data about what
+34:51 it's like to work with you, like they go
+34:53 to Yelp and they check it out or they
+34:55 look on Yelp. Um I think it's good to be
+34:58 there, but I think that the more trusted
+35:01 and more often used source would be
+35:04 Google.
+35:05 >> Yeah. I mean, I've heard stories of
+35:07 people having good results from Yel.
+35:08 >> Yeah.
+35:08 >> Um and from some of those other, you
+35:11 know, social channels. What's that one?
+35:12 Um, uh,
+35:15 >> house.
+35:17 >> Well, there's house and then there's
+35:18 another one. What's the used to be the
+35:21 name? Then they changed it to one name.
+35:23 Whatever. Um, I don't remember. I don't
+35:25 remember right off hand.
+35:27 >> Speaking Dan at this moment. I don't
+35:28 know [laughter] what that was.
+35:29 >> I can't remember what it was called.
+35:31 It'll come to me when I'm not thinking
+35:32 about it.
+35:33 >> Uh, I've heard good and bad things about
+35:35 that kind of stuff, too. So, it's just
+35:36 like
+35:37 >> I don't know. You have to make that kind
+35:38 of decisions if it's part of your
+35:40 marketing strategy or not. And the thing
+35:42 about word of mouth and referrals is
+35:45 that that too it's relationship
+35:47 marketing. Like that's exactly what that
+35:50 is. But I would give that just a little
+35:52 bit more thought and and maybe you are.
+35:56 But what I mean is is let's say a
+35:58 project is just delivered. The project
+36:00 is delivered. They've taken the photos.
+36:03 They've had the you know the move in and
+36:05 whatnot. And let's just say and some
+36:08 awesome clients of mine did this. They
+36:11 showed up with a bottle of wine and a
+36:13 house warming or a new room celebration,
+36:17 whatever. Um, and they just said, "We
+36:19 absolutely loved working with you and
+36:21 we'd love to work with you again. Here's
+36:24 the wine or here's the gift card to
+36:26 dinner or whatever." And the thing about
+36:28 the cost of those items is
+36:32 think about the lead generation. So, if
+36:36 it costs you a hundred bucks to get a
+36:38 $100,000 gig or $30,000 gig, you're
+36:42 going to do all day long, right? Like,
+36:45 you're going to do that.
+36:46 >> It's just getting comfortable with that
+36:48 expense of maybe it'll work, maybe it
+36:51 won't. But if it did, what a great
+36:53 gamble, right? So, I think it's setting
+36:55 budget for that kind of relationship
+36:59 marketing.
+37:00 >> Yeah. So, again, should you try it or
+37:02 not? I don't know. Angie is what I was
+37:04 thinking of, by the way.
+37:05 >> Oh, yeah. Angie's
+37:07 >> Angie's List again. I've heard horror
+37:09 stories about that.
+37:10 >> Yep. And now she's just Angie's. Yep.
+37:12 That's what you were going with from two
+37:14 names to one name.
+37:15 >> Yes. Exactly. Angie's list to Angie.
+37:17 >> Yep.
+37:17 >> And uh Yeah. So, I don't know. Same
+37:20 thing with Holl. I've heard people have
+37:21 good results. Other people just like
+37:23 waste of money.
+37:24 >> They broke it. [laughter]
+37:25 >> They sure did. And it grew up into just
+37:28 being like,
+37:30 >> but oh well. I'm sure they came out
+37:33 pretty well on the other end. [snorts]
+37:35 Um, all right, let's spin it up here.
+37:41 >> Do you look trustworthy online?
+37:45 >> So, do you look trustworthy online? And
+37:48 what does that look like? What that says
+37:50 to a customer is when I look at you on
+37:53 Google or Facebook or your website, do
+37:56 you look the same? Do you have
+37:58 continuity? Have you taken care of your
+38:02 digital real estate? Um so so so many
+38:05 times um we will see different logos,
+38:08 different phone numbers, different URLs
+38:11 because we
+38:12 >> copyright 10 years old.
+38:15 >> Yep. Yep. We forget to update the
+38:18 digital profiles that we've created. And
+38:21 that's the thing about if you create too
+38:23 many like, oh my gosh, I have to go to
+38:24 Yelp and Facebook and Instagram and Tik
+38:27 Tok and Google Business and you know and
+38:29 so on and so on and so on. But for your
+38:32 own digital health and taking care of
+38:35 your real estate, you want to make sure
+38:38 that you are making a good first
+38:40 impression. And so those are the things
+38:43 that I would encourage you to look at.
+38:45 Um, also, you know, like when you make
+38:48 your Facebook banner or when you have
+38:51 um, you know, the hero page on your
+38:53 website, is everything responsive? You
+38:56 know, I mean, most of you are designers,
+38:59 right? So, you've got to knock my socks
+39:01 off with your design. Like, design that,
+39:04 right? Like, have some aesthetic to it.
+39:06 Have some vibe to it. It would be like
+39:09 It would be like if Renee had a broken
+39:10 down car as his like picture. Like that
+39:14 doesn't make any sense. That's not on
+39:16 brand. Like you want to have your
+39:19 customers experience who you are right
+39:22 away. So do you look trustworthy is
+39:24 about that.
+39:26 >> Yep.
+39:27 >> You know, if if you're a contractor,
+39:30 marketing quality and construction,
+39:31 you're probably not going to stand in
+39:33 front of your rusty pickup,
+39:34 >> right? [laughter]
+39:35 >> You know, take a picture chucking a
+39:37 truck, you know,
+39:38 >> right? [clears throat]
+39:39 >> I mean, if it's ironic, it could be
+39:41 really cool, but if it's Maybe.
+39:44 [laughter]
+39:45 >> Yeah. Of course, like Mary, she she in
+39:48 Kansas, she's got a vintage, I don't
+39:51 know, 1940
+39:53 50 pickup truck with all
+39:57 on point. Like, [clears throat] it looks
+39:58 great. Absolutely.
+39:59 >> And their and their business does
+40:01 restoration. What a great image for your
+40:04 business as an old pickup truck that's
+40:06 in cherry condition with your company
+40:09 logo on it and you drive it around to
+40:10 meetings. I mean, right, that's really
+40:13 cool. So,
+40:13 >> well, and I would say too, Dan, that if
+40:15 you are going for high netw worth
+40:18 clients that have great big projects,
+40:21 well, then you need to look luxurious.
+40:24 >> Panel truck. Yeah, there it is. Right
+40:26 there. There's
+40:28 >> Yeah,
+40:28 >> like you need to attract be attractive
+40:31 to whom you're trying to attract.
+40:34 >> Yes, [snorts] it only makes sense.
+40:36 >> So, cool. All right, let's spin her up
+40:40 again.
+40:48 >> Posting often
+40:50 off.
+40:50 >> Um, if you are posting once a week, I
+40:55 think that's great. If you can post more
+40:58 than that and it's quality content also,
+41:01 that's great. But in the land of what's
+41:04 nice to do and what you have to do, what
+41:07 you have to do is establish your Google
+41:10 presence. I I'm so sorry to be a broken
+41:12 record, but what I do know is I know
+41:14 that not everybody has enough time to be
+41:18 content creators. So, if you can't
+41:20 create content, Lyn, let's not worry
+41:22 about that. Let's focus more on Google,
+41:26 your website. Um, making sure that you
+41:29 have a strong landing page on your
+41:31 website. Meaning like this is who you
+41:34 are, this is what you sell, and this is
+41:35 how they get to you, right? Simple
+41:37 landing pages that take a consumer 3 to
+41:41 five seconds to figure out who you are
+41:43 and what you're about.
+41:45 >> Hire hire your kids to do it for you.
+41:48 [laughter]
+41:48 >> Yeah. How does marketing manage tire
+41:50 kickers effectively? Well, I have a
+41:52 really strong opinion about that and I
+41:55 think that you need to repel who you
+41:59 need to repel so that you can attract
+42:01 who you need to attract. So, for
+42:03 example, when I've had clients in the
+42:06 design space put down their we do
+42:10 projects only over what's it Dan 100
+42:12 grand or something like
+42:14 >> Oh, yeah.
+42:14 >> Like that's where our projects start.
+42:17 They got rid of the tire kickers and
+42:19 their lead volume went down, but it
+42:22 didn't matter. They didn't want those
+42:23 projects anyway.
+42:25 >> So, some of it is courage. [laughter]
+42:27 You need to have the courage to say what
+42:29 you want to say. Now, the caveat to that
+42:31 is is that your consumer is stupid,
+42:34 honestly. Like, they don't know how much
+42:36 these projects cost, right? And so
+42:39 sometimes there is a teachable moment
+42:43 that I might come in thinking I'm going
+42:45 to get a bathroom for $15,000 and you're
+42:48 like, "Oh my gosh, no, no, no, no, no."
+42:49 Like it because of this, that, this, and
+42:52 that, it actually costs this. So if you
+42:54 come out of the gate strong and you say,
+42:56 "We only do projects over this amount."
+42:59 There is that teachable moment that is
+43:01 the risk that you might not have those
+43:03 folks, but there's also a high
+43:04 likelihood that those folks are the tire
+43:06 kickers anyway. You know, the thing I
+43:09 did in the it was [snorts] in my my days
+43:13 in construction for years and years, I
+43:15 did all the design and estimating stuff
+43:17 for free. Soon as I started charging for
+43:19 my design services and marketing it that
+43:22 way that Yeah. It's going to cost money
+43:23 for me to come out and do your plans for
+43:26 you.
+43:28 >> Oh my god. Yeah. And it should because
+43:29 it's a service that that we offer. It's
+43:32 what we do.
+43:33 >> Yep.
+43:33 >> And you know, as soon as I did that, you
+43:35 know, so I always tell a story. I I'd go
+43:38 I'd get 10 leads and I'd do 10 bids and
+43:40 10, you know, 10 plans, 10 estimates, 10
+43:42 everything. And I'd be spending ungodly
+43:44 amounts of time doing it. And I would
+43:46 get three of those jobs. I'd get 30% of
+43:48 those jobs.
+43:49 >> Three out of 10 was three or four out of
+43:51 10 maybe on a good day.
+43:53 >> Um, once I started charging something
+43:56 for my plans, even it was just a hundred
+43:57 bucks. Um, my all of a sudden now I'm
+44:02 doing plans for three or four people
+44:04 that I'm getting paid for. M
+44:07 >> and I'm going to get 90% of those
+44:09 projects or more because I built that
+44:11 relationship through the design process
+44:14 plus I was getting paid for it.
+44:15 >> So my my work went way down and I was
+44:18 getting paid for it. So for me that was
+44:20 a great way to you know get rid of tire
+44:23 kickers.
+44:24 >> So
+44:24 >> well and in this in this you know range
+44:27 that I was telling you about um these
+44:29 clients what we did for them is we made
+44:32 packages. We made like gold, silver,
+44:34 platinum or whatever. And then the price
+44:37 range in those packages was pretty
+44:39 broad. It was probably like $20,000. So
+44:41 it's like in the who who are our clients
+44:45 or what kind of work do we do? We did
+44:47 this package description so that if
+44:50 there is a project where you're like
+44:52 nope, too low, then that's where you
+44:54 start. Um and then you can build out
+44:56 that information. again, repel who you
+44:59 want to repel so there's room for the
+45:01 folks you want to attract to get
+45:03 through.
+45:03 >> Yeah. Mike says, um, Loom is a program
+45:07 you can use that you can have on your
+45:08 phone and you can do recordings on site.
+45:11 Um, you know, you find an interesting
+45:13 framing issue, loom it and then post
+45:15 that online. You find a you got a good
+45:17 cool kitchen you just did and something
+45:19 interesting in one of the cabinets
+45:21 that's kind of unique. Loom, you know,
+45:22 do a quick Loom video for 36 30 to 60
+45:26 seconds and I believe with Loom we can
+45:28 post it automatically. You can edit it
+45:30 and post automatic. It's super easy to
+45:33 use. Check it out. It's loom loom.com I
+45:36 think will get you there. It's 180 bucks
+45:38 or I think it's 180 a year.
+45:40 >> I think so.
+45:41 >> You can do a whole bunch of looms for
+45:42 free and then you have a time limit.
+45:45 >> Yeah, you have five minute time limit. I
+45:46 think you can do 25 for free and then
+45:48 after that that you would have to pay
+45:50 for it and they have personal plans that
+45:52 are really cheap. So, um definitely good
+45:54 good thing, Mike. I'm glad you brought
+45:56 that up. Good way to market. So,
+45:59 >> um cool.
+46:01 >> Yes, Victor. We agree. [laughter]
+46:05 >> All my built projects come after design
+46:07 project happens. There you go.
+46:10 >> Um okay, let's uh go back to our good
+46:12 old spinner wheel. We're We're doing
+46:15 pretty well on the timeline.
+46:21 >> No.
+46:23 No. Your last five client sources.
+46:26 >> Yep. Do you know where your last five
+46:28 clients came from? And I don't mean
+46:31 referrals. So, are you tracking where
+46:35 your leads are coming from? Um, that
+46:39 will tell you where you could spend a
+46:40 little bit more time. Um, and so if you
+46:43 don't know how to get that information,
+46:46 so just know that Google is in the
+46:49 Google sphere, they're all separate
+46:51 products. So once you get your Google
+46:53 business profile set up, the next thing
+46:55 you want to do is take care of your
+46:57 Google Analytics. Your analytics is
+47:00 separate from your Google [snorts]
+47:02 business. And you want to make sure that
+47:04 your Google Analytics is hooked up to
+47:06 your website. I love the data that this
+47:08 gives us because we can know what pages
+47:11 people are landing on, how long they're
+47:14 staying there. You can figure out which
+47:16 of your pages is converting. You can
+47:18 figure out your bounce rate. Like if
+47:20 people are taking a look at that and
+47:21 like boop, I'm out of here. So, it'll
+47:24 help reveal what are your hooks, you
+47:26 know, how do you need to keep people on
+47:28 your page. Um, so I would say that. Um,
+47:32 and then also when folks come in, again,
+47:35 it's the ask. Are you asking them how
+47:38 they heard about you? And I know it's
+47:39 [clears throat] awkward. I know it's
+47:40 awkward, but we need the data because
+47:42 then you can do more of that thing. That
+47:44 worked well.
+47:45 >> Oh, I used to ask back in my day when I
+47:47 was doing contracting, I asked everybody
+47:49 how they heard me about me.
+47:50 >> Yep.
+47:50 >> It was a lot easier pre- internet.
+47:53 [laughter]
+47:53 >> Yeah.
+47:54 >> You know, oh, job sign. Oh, referral.
+47:56 Oh, yellow pages. Remember yellow pages?
+47:58 Um, you know, those were always my worst
+48:00 leads. Those are the ones that I would
+48:02 qualify instantly by saying, "I charge
+48:04 for design services." And they go, "Um,
+48:06 okay, we're just thinking about it.
+48:07 We'll call you back." Right. Of
+48:08 >> course, they never do. So, um, so yeah,
+48:11 if you can know where your leads are
+48:12 coming from, it helps you put more
+48:14 marketing, more effort into those areas.
+48:16 >> Yeah. And if and if Yelp is getting you
+48:19 traction, it would be great to know that
+48:22 um so that you can feed that beast,
+48:24 right? Give it the information that it
+48:26 needs um so that you can get more
+48:29 traction from there. So I think a lot of
+48:32 us we don't ask because it's awkward but
+48:34 I would say let's ask let's find out and
+48:37 keep track of it somewhere.
+48:38 >> Yeah. You know and then we were just
+48:40 reviewing our analytics here the other
+48:41 day that was really insightful. So to
+48:44 know you know how many people are
+48:45 visiting our site organic or coming from
+48:48 social media or you know things like
+48:50 that and how long they're staying and
+48:52 all of that. It's really cool
+48:54 information that we need to know.
+48:56 >> Yes. A website contact form. Yes Mary
+48:59 thank you. So on your websites like you
+49:02 should definitely have a form. I am from
+49:04 the school of thought that your phone
+49:06 number should be above the fold because
+49:08 sometimes folks don't want to weed
+49:09 through your website. They just want to
+49:11 call you and talk to you. So let's have
+49:13 that above the fold. Um but then there
+49:14 are others who like maybe it's late in
+49:16 the evening and they're cruising and
+49:18 they're looking and they want to talk to
+49:21 you about what you do. So having a
+49:23 contact form that gets you that
+49:25 information right away. It either sends
+49:28 you an email, gives you a text message,
+49:31 whatever. Just make sure that you have
+49:32 that set up and that you're checking it.
+49:35 >> Yeah. Yeah. Absolutely.
+49:37 >> Cool.
+49:39 [clears throat and cough]
+49:45 >> I was just thinking about that and I had
+49:47 not seen that yet. [snorts] So, have a
+49:49 follow-up system.
+49:51 >> Yep. So, I think that's part of the
+49:53 workflow. Do you have a workflow for
+49:55 asking for a Google review? Do you do it
+49:58 every single time? Do you have a process
+50:01 of finding out where your customers come
+50:03 from and then keeping track of it? Um,
+50:06 when you get a lead and they ask you a
+50:08 question, do you keep asking until they
+50:10 tell you to stop asking? Like some of
+50:12 that is just it's not so much marketing
+50:14 as it is a sales strategy. But what I
+50:16 found is that people get busy and they
+50:18 forget and then you call them and like,
+50:20 "Oh my gosh, you've been on my list. I'm
+50:23 so glad we're talking about it again.
+50:24 But it's the leads that fall through the
+50:26 cracks that still have opportunity. And
+50:29 I think it's important to just keep
+50:31 track of where they are.
+50:33 >> Yeah. Yeah. Somehow someway.
+50:35 >> I mean, boy, to have an automatic email
+50:39 system that could, you know, if you talk
+50:41 to someone and then you put them in the
+50:42 system and boom, it's going to send send
+50:44 them a thank you and then it's going to
+50:45 send, you know,
+50:47 >> u there's so many ways that could go. Of
+50:49 course, you know, if it's just a single
+50:52 call, then you know, you're supposed to
+50:54 call them back, call them back. I mean,
+50:57 >> and you can have a CRM, right? A
+51:00 customer relationship marketing
+51:01 management tool, or you can have a
+51:03 spreadsheet
+51:04 >> that you use and you keep open all the
+51:07 time. Um, that's typically what I do.
+51:10 Um, because then I know I'll do it
+51:12 because it's just right there.
+51:14 >> Yeah.
+51:14 >> Yes.
+51:15 >> Victor does. Thank you. Nice way to do
+51:17 it. Way to go, Victor. Exactly, Victor.
+51:20 Exactly.
+51:21 Exactly.
+51:24 >> Might have to there to help him.
+51:29 >> Not sure what you mean by that, but
+51:31 yeah, [laughter]
+51:33 >> not good enough framers.
+51:35 >> Oh, they hired you to frame.
+51:38 >> Yeah. Yeah. Mike is a meticulous
+51:43 contractor. So,
+51:45 >> yeah. Well, and this, you know, I've
+51:47 seen that a lot in your industry because
+51:49 you spend so much time with these folks
+51:50 that it's easy to become friends and
+51:53 friendly. Um, and I think that making
+51:55 sure that the billing um doesn't seep
+51:58 into that pretty important because
+52:01 you're talented and you deserve to be
+52:02 paid. [laughter] So, let's separate that
+52:05 and get you your money.
+52:07 >> I love doing my friends all the time
+52:10 [laughter]
+52:11 can. So, Right.
+52:12 >> It's just an adjustment in mindset.
+52:14 Yeah. In fact, I have a I have a sign
+52:17 that I'll have to post to share with
+52:19 you. My my son Charlie used to set up a
+52:21 lemonade stand um on this really busy
+52:24 day in our neighborhood. And he wrote on
+52:26 the sign he said um no discounts for
+52:30 friends or family, so don't even ask.
+52:32 >> Yeah. Pay double.
+52:34 >> Good job, Charlie.
+52:35 >> Friends, you're paying double.
+52:37 >> Yeah. And then he even said 50 cents to
+52:39 pet my dog. Like, you know, you got to
+52:41 always work your angles. [laughter]
+52:43 >> Yes. There you go. But yeah, um you
+52:46 know, you know that's Mike, you're a
+52:49 nice guy. That's a I'm like that too.
+52:51 I'm a nice guy. So I always like to do
+52:53 things for free for people
+52:55 >> and I shouldn't. And but you know, do
+52:57 what you're comfortable with and right
+52:59 >> keep in mind that if you're doing
+53:00 something that's a service, you deserve
+53:02 to be paid for it. So as a friend, they
+53:04 should be wanting to pay you. So that's
+53:07 the other way to look at that.
+53:08 >> Yeah. Um anyway, but good comment,
+53:14 Victor.
+53:15 >> Create a link for what service the
+53:17 customers need. There you go. You know,
+53:20 I I did a when I was doing my roof five
+53:22 years ago, I thought I'd just type on,
+53:25 you know, go to some of the roofing
+53:27 companies around here and I I filled out
+53:28 their form and some of them had really
+53:31 great follow-up systems where it kicked
+53:33 me an email and then I got this and I
+53:36 got a phone call and then I got this and
+53:38 just kept I mean, they had a really good
+53:39 flow on how it worked. I didn't hire any
+53:41 of them because they're all too
+53:41 expensive, but um they were really good
+53:44 at what they did. Um anyway, let's do
+53:47 >> I think to Victor's point, it's like a
+53:49 process. It's a workflow. So instead of
+53:52 like writing it down in a different
+53:53 place every time, there's a place for it
+53:55 to go. Um and I think that that
+53:58 organization, especially in your busy
+54:00 lives is really important. The workflow
+54:04 >> All right, we only got three left, so
+54:06 we're doing really well.
+54:07 >> Um website
+54:10 clear in 10 seconds. What does that
+54:12 mean? Well, I I think what I'm trying to
+54:15 say is, do I understand who you are and
+54:18 what you sell under 10 seconds? And I
+54:21 mean, really, it's like 3 seconds,
+54:23 honestly. Like, our brains stop. Like,
+54:27 if I don't know and if I don't know
+54:28 fast, I'm out of there.
+54:30 >> So, your website, your homepage, above
+54:33 the fold, right before you start
+54:35 scrolling, really valuable and important
+54:38 real estate. You want to be putting the
+54:40 impression you're trying to make right
+54:42 there and being so so so so so so clear.
+54:48 >> Yeah,
+54:48 >> that's what I mean by that.
+54:49 >> If someone wants to learn more about
+54:50 Revit, they're probably not going to
+54:52 call me from my website. [snorts]
+54:56 >> They don't do anything with Revit. Um,
+54:58 right. Anyway,
+55:00 >> so if you want chief architect now, I'm
+55:01 your guy. Well, and I would say too that
+55:04 like what we need in this space is we
+55:06 need friends and allies who like you
+55:09 have to ask somebody. It can't be you.
+55:11 Like you can't be the one deciding. Um
+55:14 especially if you designed it and put it
+55:15 together because you know what it's
+55:17 supposed to say. So you need a neutral
+55:19 third party to take a look at it and be
+55:21 like, "Oh, okay. I get it." Or you might
+55:25 need to work on this.
+55:26 >> Yes.
+55:26 >> We got two more things to cover, but
+55:28 before I go, we go do the one of those.
+55:31 Um, again, check out our Denver class if
+55:33 you're out west. That's where we're
+55:35 going to be. Probably won't be doing any
+55:36 more sessions till fall or winter. So,
+55:40 um, if you want to get in a live class,
+55:42 that's going to be your opportunity. And
+55:44 >> Dad, they've been asking you to go west.
+55:46 So, here you are.
+55:47 >> I know. So, here you are. Yeah. So, I
+55:49 got to I got to get to where Rene is one
+55:51 of these days, but I got really west.
+55:54 >> Yeah.
+55:54 >> Not going that far yet. And Renee, um,
+55:57 what do you got going for everybody
+55:58 these days?
+56:00 Oh, I'm just in my development cycle for
+56:05 X X18's pro plan template.
+56:09 >> Yeah, you were mentioning that the other
+56:10 day that you you're adding all sorts of
+56:11 new features to your template. So,
+56:13 >> yeah, it's fun.
+56:15 >> Yeah. And
+56:16 >> fun torture.
+56:17 >> There's some really cool things coming
+56:19 down the pike with 18. So, be excited
+56:21 when we can start sharing that
+56:23 information.
+56:24 >> Some cool stuff. And cool,
+56:25 >> you know, it's the I love the
+56:27 development um period because um I
+56:30 always try to go develop in the previous
+56:32 version as far as I can, you know, up to
+56:35 the limitation of new features coming in
+56:38 the next version. But um because it it
+56:41 allows me to keep working with clients
+56:43 and and use my new ideas
+56:47 and and so it's fun. So like my all my
+56:49 recent jobs are pretty fun because I'm
+56:51 taking advantage of new things I've I've
+56:53 built in. So, it's kind of
+56:56 >> cool.
+56:56 >> A good time. Yeah.
+56:58 >> Um,
+56:59 >> other than that, just trying to keep my
+57:01 head above water.
+57:03 >> Yeah. Pro Academy. Join it. Don't be
+57:05 scared. We don't bite. [laughter]
+57:09 Except my he might bite a little bit,
+57:10 but
+57:12 >> And I saw the idea, too, about running
+57:14 your websites through chat. I think
+57:16 that's a great idea. I would just go
+57:17 page by page. Um, just do it a little
+57:20 bit at a time. Otherwise, it can be a
+57:22 little bit overwhelming. Oh, sure.
+57:24 >> Um, and then also to ask a human. Um,
+57:27 because AI knows more than a human knows
+57:29 and you're trying to attract humans. So,
+57:32 I would just, you know, make sure to
+57:33 also ask a person like what's the vibe
+57:36 check? What do you how do you feel when
+57:39 you land here? Um, and try not to sway
+57:42 what they say so that we can get good
+57:44 data.
+57:45 >> I will say chat GBT will stop on the
+57:48 first thing that is an addressable
+57:50 comment that they can make. So, it's not
+57:52 a true review of your website. It's a
+57:56 >> um I mean those models are built to
+57:58 satisfy your insatiable need to get
+58:00 immediate responses and
+58:03 >> right
+58:04 >> it's it's not a true like thorough
+58:06 overlook of your correct website.
+58:10 >> Yeah. So, we got two left here. Let's
+58:12 answer them both. Surviving on referrals
+58:14 alone with consistent marketing.
+58:17 [laughter]
+58:18 >> Marketing consistent.
+58:19 >> Yeah.
+58:21 So, if you're not doing anything with
+58:24 your marketing plan and or strategy, you
+58:27 know, even though it's May and we're in,
+58:29 you know, the fifth month of the year, I
+58:32 think it's a good idea to think about
+58:34 what you're going to do and how, like,
+58:37 what are your goals? Do you want brand
+58:39 awareness? Do you want more people to
+58:41 know you exist? Do you want more leads?
+58:43 Is lead generation your thing? Um, if
+58:45 lead generation is your thing, well,
+58:47 let's figure out how you're going to do
+58:49 that and let's double down on that.
+58:51 >> Um, and I'm not saying, you know, let's
+58:53 go because every time I've got folks in
+58:57 Dan's community that say, okay, I'm
+58:59 going to do this, this, this, this, and
+59:01 this. You get busy with your customers
+59:03 and clients and you don't actually do
+59:05 those things. So, let's just take a
+59:08 smaller bite, right? let's take a
+59:10 smaller bite and decide what you want
+59:13 and then from there let's make five
+59:15 action steps of how you're going to get
+59:16 that. Um and then you can be consistent
+59:20 instead of it's like you know when you
+59:21 put your foot on the gas and you don't
+59:23 use your gas as efficiently. It's like
+59:25 that right the start stop start stop.
+59:27 So, as I've been telling Dan for years,
+59:30 consistency
+59:31 compounds. Like the more consistent you
+59:34 are, the more you stick with it, the
+59:36 better you're going to do, and the more
+59:38 you will be rewarded for that
+59:40 consistency.
+59:41 >> Yes, absolutely.
+59:44 That's why we keep doing what we do. Y
+59:46 people know about what's going on. So,
+59:48 >> Yep. And we do not stop. We don't break.
+59:50 We just keep going.
+59:52 >> Yeah. Yeah. Sometimes we might hit
+59:55 someone at the right message at the
+59:57 right time.
+59:57 >> Yep.
+59:58 >> And sometimes not. So, but we keep doing
+1:00:01 it.
+1:00:02 >> Exactly.
+1:00:03 >> Cool.
+1:00:03 >> Yeah.
+1:00:04 >> Jolene, thank you.
+1:00:06 >> You're welcome. Thanks for having me.
+1:00:08 >> This was fun. Um,
+1:00:10 >> I really appreciate it.
+1:00:11 >> The dictation filled me.
+1:00:13 >> And I saw lots of familiar names in the
+1:00:16 list, so that was also nice.
+1:00:17 >> That was really cool. Yeah. Everybody,
+1:00:19 thanks for being here today. It was fun
+1:00:20 to talk a little bit about this topic.
+1:00:22 It's something we try to talk about
+1:00:23 every year, maybe even a little bit more
+1:00:26 than that. But,
+1:00:27 >> you know, you got to keep keep getting
+1:00:29 the leads coming in. So, you can't if
+1:00:31 you're relying on referrals alone,
+1:00:32 that's like [snorts] you might want to
+1:00:34 consider just continually, but that's
+1:00:36 that marketing consistency. So, those
+1:00:38 two last things actually go really well
+1:00:40 together because um you know, at some
+1:00:43 point you might not have any referrals
+1:00:44 and then what? So, how else is are
+1:00:46 people going to find you? So, keep keep
+1:00:49 up the good work. So cool. All right.
+1:00:52 With that, we're going to say goodbye.
+1:00:53 We'll see you
+1:00:55 not um what is the calendar? I think
+1:00:58 >> I'll see you in June.
+1:01:00 >> That's right. Yeah. Is this a fifth
+1:01:02 week? Is this a fiveweek month?
+1:01:04 >> It is.
+1:01:06 >> Um Oh, yeah. So, we will be three weeks
+1:01:09 from now. So, we're not doing the 29th.
+1:01:11 >> I'll be on
+1:01:12 >> June five.
+1:01:14 >> It works out perfect. I'll be on
+1:01:15 vacation that week, the 29th. So, um,
+1:01:19 we're going up north to a place called
+1:01:20 Cailluna where they have hund lots and
+1:01:22 lots of bike trails, mountain biking
+1:01:24 trails. Used to be strip mining that is
+1:01:25 filled up in all the big freshwater
+1:01:27 lakes and they built mountain biking
+1:01:28 trails all around it and 100 miles of
+1:01:30 paved trail and it's just like really an
+1:01:32 awesome place to go. So, cool. Um,
+1:01:37 do I Dan, [clears throat] I export a
+1:01:38 project without having to delete it.
+1:01:40 Mike, I don't know what you're talking
+1:01:41 about. Can I [laughter]
+1:01:43 project darn dictated? Yeah, you can
+1:01:45 export projects without deleting them.
+1:01:47 Um, absolutely. Or you can export it and
+1:01:49 then delete it. Just watch the prompt.
+1:01:51 It'll tell you what you're going to do.
+1:01:52 So, anyway, we got one chief question
+1:01:55 in. All right. Way to go. All right.
+1:01:58 We're going to take off. We'll see you
+1:01:59 guys later. Thanks, everybody. Bye,
+1:02:00 everyone.

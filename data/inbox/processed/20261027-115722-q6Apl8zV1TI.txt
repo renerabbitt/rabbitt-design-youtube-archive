@@ -1,0 +1,2297 @@
+Title: What's New in Chief Architect X18 - Designers Show #178
+URL: https://www.youtube.com/watch?v=q6Apl8zV1TI
+Visibility: public
+
+0:00 Here you go. Hey, everyone. Welcome to
+0:02 the Designer Show. I see Mike is on here
+0:04 already and Mike, way to go.
+0:07 I don't know why. For some reason, he
+0:09 just he's got it ingrained in him now
+0:11 that he knows this time of the
+0:13 uh
+0:14 Designer Show each every
+0:17 two times a month. Anyway, welcome Mike
+0:18 and welcome everybody.
+0:20 Hey Hi, guys. How you doing?
+0:22 John, Renee, Robin.
+0:24 >> Doing really well. I'm on day not even
+0:27 my second week of my knee replacement
+0:28 surgery and
+0:30 I'm
+0:31 moving along just really well. I'm and
+0:33 >> Excellent.
+0:34 >> just taking Tylenol. It's amazing.
+0:37 >> Cool.
+0:37 >> it's been 9 days. It's [snorts] pretty
+0:39 incredible.
+0:40 >> Excellent.
+0:41 >> Science is amazing.
+0:43 >> You going to be ready to ride bike at
+0:44 the end of August?
+0:46 >> Actually, I think I will be. I'll
+0:47 probably have to get a regular standard
+0:49 bike, not a road bike, but I think I'll
+0:51 be ready.
+0:52 >> Awesome. You can get a walker now.
+0:54 >> Robin, I'm I'm tapped into all these
+0:56 back packing videos and
+0:58 >> Uh-huh.
+0:58 >> Um and here's another part of the story,
+1:00 is my dad has trouble walking. Anyway,
+1:03 they make
+1:04 bionic exoskeletons now that lift your
+1:07 legs for you and
+1:08 really help on the physical therapy side
+1:11 of the knee replacement.
+1:12 >> Really?
+1:13 >> I'm thinking about getting one for him.
+1:15 >> That's really kind. That's really kind.
+1:17 >> [laughter]
+1:18 >> That's great.
+1:19 >> It's pretty amazing.
+1:20 >> marching. It makes your feet just like
+1:22 makes your legs like lift up super high.
+1:24 >> That's pretty cool. I hope to be back
+1:26 using my whole body on my own. So,
+1:28 that's my goal is to be using my whole
+1:30 body the right way. So,
+1:33 uh yeah.
+1:33 >> You don't You don't want to be bicycling
+1:35 with bionic legs and have a little solar
+1:37 panel off your back to charge it all and
+1:39 >> Wouldn't that be But you do realize now
+1:41 I am
+1:43 But you do realize I am semi-bionic
+1:45 right now.
+1:46 >> [laughter]
+1:46 >> E-bike with bionic legs, I think you hit
+1:48 like 60 miles an hour no problem.
+1:50 >> That would be amazing. [laughter]
+1:52 >> It comes with the sound effects, too,
+1:53 huh?
+1:55 >> I love that. I definitely want the sound
+1:57 effects. I [snorts] don't know if Renee
+1:59 even gets that. Do you even get that?
+2:01 >> I don't know.
+2:01 >> No. The sound? Oh, [laughter] you have
+2:03 to watch the guy.
+2:04 >> man. Look it up.
+2:06 >> You have to watch the $6 million man.
+2:09 >> These youngsters. These youngsters here.
+2:11 [laughter]
+2:12 >> That's awesome.
+2:13 >> All right.
+2:14 >> Morning guys. Nice to see everybody.
+2:16 >> Yeah, it was nice to see everybody. And
+2:18 uh
+2:18 Thanks for showing up. So, Norton Alaska
+2:22 >> Doug Norton's pick six. Pick six.
+2:25 >> Okay.
+2:26 >> Hi Chad.
+2:27 >> Cool.
+2:29 Hello Chad.
+2:31 >> You know the picture?
+2:32 His new His new picture, the black and
+2:34 white of his mustache?
+2:35 >> Oh, look at that.
+2:36 >> Isn't that his Isn't that his mustache?
+2:37 >> How can you I don't know. I don't even
+2:39 know how you can tell what that is.
+2:41 >> It is. Yeah, he If you have not met
+2:43 Chad, you have to meet him sometime. He
+2:45 has an epic It is actually a world-class
+2:48 mustache.
+2:49 >> Yes.
+2:49 >> technically is. It's an award-winning,
+2:51 world-class mustache.
+2:53 >> It is. So, yeah. That's Chad. [laughter]
+2:55 Chad's branding is the best I've ever
+2:56 seen. So, way to go, Chad.
+2:58 >> Absolutely.
+2:59 >> Anyway.
+3:00 >> Absolutely.
+3:01 >> Welcome everyone. So, today we're going
+3:03 to continue spinning the wheel on new
+3:04 features in X18, which we were just
+3:06 talking about a few things ahead of
+3:07 time. We were mostly complaining though
+3:09 about things they haven't done yet, but
+3:11 that's okay. We'll continue to do that
+3:13 forever. So, that's just part of what we
+3:15 do.
+3:16 But, we [clears throat] will talk about
+3:17 the good things that they've done cuz
+3:19 they've done a lot of good things in
+3:20 X18, which is really, really quite
+3:22 exciting. So, um I've I've been loving
+3:25 using it.
+3:26 Um We're just talking about the speed uh
+3:29 of the of the program
+3:31 has increased dramatically,
+3:34 I think. I mean, everything I do now is
+3:36 just poof. It's just working.
+3:38 >> That's great.
+3:39 >> So,
+3:39 um other than John had some problems the
+3:41 other day with a a project you're
+3:43 working on being a little bit laggy, um
+3:46 but you know, you got all those curved
+3:48 roofs in that plan again, which
+3:49 >> Yeah, and his His plans are always
+3:51 laggy. I need to figure out what's in
+3:52 them that's causing it.
+3:54 >> I agree.
+3:56 >> No, it's the curved roofs.
+3:58 >> And he's got a lot
+4:00 He's got a lot of elaborate crown
+4:02 molding and stuff in them, too, and
+4:04 stuff like that, so.
+4:05 >> How's the surface column?
+4:08 >> I don't I haven't even looked.
+4:10 >> That's probably
+4:11 >> To To me, the first
+4:12 >> That's probably the problem. First thing
+4:14 you check is patterns.
+4:17 That's the first thing, cuz if the you
+4:19 already did pattern from texture on
+4:20 anything, especially if you got like a
+4:22 stone facade,
+4:23 >> Yeah.
+4:24 >> to
+4:25 killing it.
+4:26 >> All the line
+4:27 >> about
+4:29 >> Yeah, it's all pretty I think it's the
+4:30 curved roofs. I mean, if you pull the
+4:32 roofs off,
+4:33 um it probably works a lot better.
+4:36 >> They're not only roofs, but they're also
+4:38 different pitches joining into each
+4:40 other and stuff like that, and that
+4:42 sounds like it tends to cause problems.
+4:44 >> Do you import a lot of pictures or PDFs
+4:47 into these projects, John?
+4:48 >> No. If I do, they're going into CAD
+4:50 details.
+4:51 >> Okay.
+4:52 >> I'm putting them in the plans.
+4:53 >> Sometimes, like I do that a lot, where
+4:55 I'm bringing in pictures that I don't
+4:57 want to work on,
+4:58 and if the pictures themselves are
+5:01 really large to start out, you know,
+5:03 like 5 6 7 8 megabytes each, that adds
+5:06 to the file size, and a PDF are also
+5:09 going to slow it down even a lot more,
+5:11 because a lot of PDFs the the math
+5:14 involved in generating the PDFs is still
+5:17 there. So, Chief has to calculate that
+5:20 math along with the PDF to show it. So,
+5:23 those will slow it down, so it's all
+5:24 about the numbers, I guess.
+5:26 You know, the more surfaces, the more
+5:28 math the program has to do to to to um
+5:32 calculate everything that's going on,
+5:34 and the lower it's taking, you know,
+5:37 course the computers we have now are so
+5:38 fast that most of the time we don't even
+5:40 notice it.
+5:41 >> I did I did re- find out that if I lock
+5:44 the roofs, if I lock the roof layer,
+5:47 >> Mhm. [clears throat]
+5:48 >> it tends to work a little faster.
+5:50 >> Oh, okay.
+5:51 >> So,
+5:52 >> Why would that do it? Why would locking
+5:54 something do that?
+5:56 >> Because it's not redrawing. [snorts]
+5:57 It's still visible, but it I expose it's
+5:59 not redrawing it. I don't know.
+6:00 >> That shouldn't be. It should still
+6:02 redraw.
+6:03 >> Yeah, you would think cuz every time you
+6:05 do anything, I mean, you you move a
+6:07 window, you add a line, I mean, you do
+6:09 anything, you open and close a dialogue,
+6:11 it's going to regenerate the 3D that's
+6:13 involved in your entire model.
+6:15 >> Yeah.
+6:16 >> And that's what can really slow the
+6:17 whole process down. They used to have a
+6:18 button under the the 3D
+6:21 um 3D view defaults. Used to have a line
+6:23 here that said
+6:25 um don't rebuild
+6:27 uh
+6:27 floors and you know, don't rebuild your
+6:29 model automatically.
+6:30 >> Um
+6:30 >> And they removed that for some reason,
+6:32 and I don't know why. Cuz I would use
+6:34 that every now and then on a big project
+6:36 that was super slow. Uh and
+6:39 >> Yeah, if if you know what If you know
+6:41 what you're doing in 2D and you know
+6:43 what the result's going to be in 3D,
+6:45 >> Yeah.
+6:45 >> great to go change a lot of 2D stuff and
+6:47 then rebuild it one time.
+6:49 >> Yeah.
+6:50 >> So, put it back.
+6:51 >> So,
+6:51 >> Anyway.
+6:51 >> Anyway.
+6:52 >> Uh
+6:53 it's always something.
+6:53 >> Sorry if I sound a little grumpy there
+6:54 in my tone. Sorry, people.
+6:57 >> Um
+6:58 >> Just uh to help diagnose problems like
+7:00 that, by the way, I got two tricks. Um
+7:03 if it's a pattern file issue, all you do
+7:05 is you get into your 3D menu into
+7:08 materials into plan materials and merge
+7:10 all your materials into one and then
+7:13 open your view. And if that
+7:16 gets rid of the slow down, then you know
+7:18 it's pattern file.
+7:20 So, so you would select everything and
+7:22 keep in mind, you don't want to save.
+7:23 You're going to want to undo if it
+7:24 didn't do this, but you would select
+7:26 >> Oh, okay.
+7:27 >> control A, select all, and merge them.
+7:29 >> Merge all those materials into one
+7:32 material?
+7:33 >> Yep. And that just eliminates all the
+7:35 patterns in your plan, right? Cuz it
+7:37 just makes everything one material.
+7:39 >> Okay.
+7:39 >> Um so,
+7:40 >> So, then if your plan moves faster, you
+7:42 know it's a pattern file.
+7:44 >> Yeah.
+7:44 >> Brilliant.
+7:45 >> On the flip side, if it's an object,
+7:48 then if you just
+7:50 um
+7:51 make a schedule with the only column
+7:53 being quantity, and you include
+7:55 something like fixtures and furnishings,
+7:58 then you select the row object, which
+8:01 ends up being all fixtures and
+8:03 furnishings, you make it an
+8:04 architectural block, and you turn off
+8:06 architectural blocks in your 3D view.
+8:09 Now, if your plan moves quickly, you
+8:11 know it's a fixture or a piece of
+8:12 furniture that's doing it.
+8:14 >> So, we can do that.
+8:15 >> And then you have to analyze which one.
+8:17 >> And then you just have to figure out
+8:18 which one you need to do that. Yeah.
+8:20 >> Got it.
+8:22 Oh.
+8:22 >> Interesting.
+8:23 >> I've done stuff in the past where I
+8:25 would make a copy of the plan, and then
+8:27 I would just start,
+8:28 you know, I'd delete that part of it
+8:30 using the you know, use the edit area.
+8:33 >> Edit area and just
+8:34 >> all floors.
+8:35 >> [laughter]
+8:35 >> Just start taking out chunks of it. And
+8:37 this is mostly for if something was
+8:39 crashing or problems are happening. Just
+8:41 delete
+8:42 delete a little bunch at a time, and
+8:43 when you get oh, there's a bug in this
+8:45 area because now it works fine. Or you
+8:47 know, if if you delete that, and now it
+8:49 works fine, so you know it's that spot
+8:51 right there. So, you just start
+8:52 searching in that area to find what's
+8:54 going on.
+8:55 >> Yeah.
+8:55 >> Again, I haven't really had I I I
+8:58 they I don't know. I don't get very many
+9:00 crashes or problems. They really They've
+9:03 really strengthened the software a lot.
+9:06 Yeah. So,
+9:06 >> But I think that this is this is like
+9:08 totally worth
+9:10 I think most people are going, "Oh,
+9:11  This is brilliant." right here. Um
+9:14 this lets you know if the prob the the
+9:17 problem is your model.
+9:18 >> [snorts]
+9:19 >> If it's still happening after that, then
+9:20 you need to upgrade your your your um
+9:23 graphic card.
+9:24 You know, that way you know it's not
+9:25 it's software problem, it's not hardware
+9:27 problem. Um but at a certain point, you
+9:29 have to make sure you're updating your
+9:31 graphic card on a regular basis.
+9:33 >> The other thing I would do
+9:35 in relation to deleting things is I
+9:37 would delete each floor. So if you have
+9:39 a multi floor, delete the floor.
+9:42 Delete the foundation. Is it still
+9:43 bugging out? Delete the second floor. Is
+9:45 it still bugging out? Then start
+9:47 deleting parts of the first floor. And
+9:49 then you're kind of isolated from that
+9:50 way. Now, in relation to what you're
+9:52 just talking about about updating your
+9:55 video card, you'll notice that in the
+9:57 past we used to go into preferences and
+9:59 we used to go down to render and there
+10:01 would be a video card status here.
+10:04 And next thing you know, that's not
+10:05 there anymore. You have to go up to the
+10:09 help menu and you're going to look for
+10:11 system information under help. So go to
+10:14 help. System that's going to tell you
+10:16 all about your whole computer, not just
+10:18 your video card. Excellent. I love that
+10:21 they did this because now I I can look
+10:24 at this and I can look at anybody's
+10:25 computer and say, oh, yeah, you got a
+10:27 nice system or you know, time to upgrade
+10:30 or something like that. So um my driver
+10:34 dates 423.
+10:36 So
+10:39 >> Was it X17 or X18 or both that Nvidia
+10:42 was having the latest Nvidia update?
+10:44 >> X17.
+10:45 >> the problems? X17.
+10:46 >> It
+10:49 >> just the other day and they still
+10:50 haven't fixed it yet. So if you're on
+10:52 X17, don't update your drivers.
+10:54 >> Yeah. I had to roll the April version is
+10:57 about the right one you want to be at.
+10:58 >> I I had to roll back that version to get
+11:01 mine to work again cuz it was crashing.
+11:03 And and I've helped other people update
+11:05 and it works fine. So
+11:07 go figure. But um yeah, I had someone on
+11:11 here that their drivers were 2 years
+11:12 old. So I said, well, let's try updating
+11:14 and we did and it worked fine.
+11:16 Um so and it's you can go to the Nvidia
+11:19 website and and find
+11:21 the list of drivers. You just search
+11:23 for, you know, um older Nvidia drivers
+11:26 and it'll take you to a page and you can
+11:27 select an older version to install and
+11:29 it works fine.
+11:30 So but anyway, I love this that, you
+11:32 know, now we get the whole scoop on the
+11:34 whole your whole system.
+11:36 >> So, can do we have any idea when they're
+11:38 going to release X18 as a full-on
+11:41 program and get out of beta?
+11:43 >> Someone said end of July.
+11:45 >> Oh, so pretty soon.
+11:47 >> Mhm.
+11:48 >> Okay.
+11:49 >> Yeah, which which is a bummer because
+11:52 that leads me to believe they're not
+11:54 going to put the new terrain tools in or
+11:56 the online project development project.
+12:00 >> be awesome.
+12:01 >> Yeah, so
+12:02 >> The terrain tools dev department is who
+12:04 did the cladding, so I figure they
+12:06 probably got all their resources eaten
+12:08 up in that.
+12:09 >> Yeah, sure.
+12:11 Anyway.
+12:11 >> Um, what was that comment you pinned?
+12:14 Uh
+12:15 John.
+12:16 >> What's that?
+12:17 >> There's a comment you pinned that had my
+12:19 name.
+12:20 >> Oh, up here, um
+12:21 >> It was up a little bit further.
+12:23 >> This one here?
+12:25 Go ahead.
+12:25 >> Renee, did you mention something about
+12:26 making images smaller on your channel?
+12:28 Is that it? Is it a new file size?
+12:31 >> Yeah, yeah, new
+12:32 >> it cheaper.
+12:33 >> That's a WebP file. Um,
+12:36 you know, people are on here, they're
+12:37 getting into AI. If you have a grip on
+12:40 how to use AI, you could um
+12:43 write a script. I don't know how to do
+12:44 this for Mac, but I know how to do it
+12:46 for PC is um
+12:49 my screen clipping utility
+12:52 it it sends screen clips to my downloads
+12:55 folder.
+12:56 And then my downloads folder has a
+12:59 is being monitored and every time it
+13:01 sees a PNG, it automatically converts it
+13:04 to WebP, which is cheaper and actually
+13:07 >> Yeah, it X18 now allows this format in
+13:11 in your files.
+13:12 >> Yeah, let me let me share my screen real
+13:14 quick, Dan.
+13:14 >> It's a it's a much smaller file size.
+13:16 Yeah, go ahead.
+13:17 >> Um, let me go there.
+13:19 >> There you go.
+13:19 >> So, if I just did a a screen clipping of
+13:22 us, we'll just do us right now.
+13:25 And
+13:27 and so in downloads folder, that was
+13:30 here.
+13:31 Right?
+13:32 And the file size is
+13:35 Okay, 653.6
+13:37 megabytes, basically.
+13:39 And then this is already being
+13:41 converted. And so there's the WebP
+13:43 version, and it's 1.
+13:45 It's, you know, 150 megabytes, so it's
+13:47 >> Yeah.
+13:49 >> Yeah.
+13:49 >> Can you six smaller?
+13:51 >> That's a big reduction.
+13:52 >> Yeah.
+13:53 >> Can you convert PDF to that too without
+13:55 losing quality?
+13:57 >> Um if you got the PDF large enough on
+13:59 your screen or if you exported the PDF
+14:01 as a PNG from something like, I mean,
+14:03 Photoshop can do that. So yes.
+14:06 Um I'll do that. I'll show you what the
+14:07 size is in a second here. I'll do it
+14:09 while you guys keep talking.
+14:11 >> Okay.
+14:13 So the uh
+14:14 WebP files are what you use on websites.
+14:17 Now, it just makes your websites load
+14:19 faster. I'm really glad that Chief is
+14:21 allowing those to be used within the
+14:23 program now.
+14:24 So
+14:25 just make a big difference.
+14:28 And while Randy is doing that, by the
+14:30 way,
+14:31 >> Okay, now we need to start into our
+14:33 Yeah, that'd be great.
+14:34 >> Huh?
+14:36 >> Oh, we need to start spinning the wheel.
+14:38 >> I do commercial, do I?
+14:41 >> Oh, you get to do that later.
+14:44 >> Uh
+14:45 yeah, we'll be doing commercial. We'll
+14:47 be busy jabbering then we won't. Um
+14:49 couple of things. Uh Pro Academy, you
+14:51 still
+14:52 we're having so much fun in there.
+14:55 Um
+14:56 So when you go over to Chief Experts, uh
+14:59 you know, check out the Pro Academy.
+15:01 We're uh
+15:02 doing our live calls. We just had a call
+15:04 on Wednesday. We covered some really fun
+15:06 stuff on Wednesday. We do that every
+15:08 every show. It's just we're getting into
+15:09 some neat stuff and I I just love that.
+15:12 We're educating each other all day long
+15:14 and and uh it's really a lot of fun. And
+15:16 all those are recorded and you can go
+15:18 back and review them anytime.
+15:21 And when you go into the Pro Academy
+15:23 uh
+15:24 I just want to point out a couple of
+15:25 quick things.
+15:27 And
+15:28 there you go. You would join that.
+15:32 When you go in there and you've got the
+15:34 whole menu here and here's our live
+15:37 session replays. So I each of those are
+15:40 each of those get posted by month and
+15:44 you can go back and watch the recordings
+15:46 anytime you want. And so here's July and
+15:50 you click on them
+15:52 and you can get to the topics. You can
+15:55 search the index. Um there's all sorts
+15:58 of things you can do. Now the other
+15:59 thing you could do that we've added to
+16:01 the that we've added a community so we
+16:02 can get in there and it's much like
+16:05 TikTok only
+16:07 um it's newer so there's not as many
+16:08 people by a long shot but um we're
+16:10 having some fun in there and I'm I'm my
+16:12 goal is to get you guys interacting with
+16:14 that. And also we've added a um agent
+16:18 here. So when you go into something and
+16:21 you're searching for something you can
+16:22 type in your question here and you get a
+16:25 AI answer and um
+16:27 to
+16:29 groups.
+16:30 And um
+16:32 you know, the better
+16:34 can't spell today, can I?
+16:36 So the better you prompt it the uh
+16:39 you the more hot to do roofs the more
+16:42 you're going to get um
+16:44 information about what you're looking
+16:45 for plus it's also going to give you
+16:46 some references to the videos and it'll
+16:49 take you right to certain spots in the
+16:51 videos
+16:53 where you can look you can you'll find
+16:55 the information that you're looking for.
+16:56 So there it took you right to the
+16:57 information.
+16:59 >> It it's just it's really working well so
+17:01 um I encourage everybody to check it
+17:03 out. Pro Academy, check it out. Um we're
+17:05 having a lot of fun there so
+17:07 um also we've got some live classes
+17:09 coming up. So in October we're going to
+17:12 be in um Bloomington or Colorado early
+17:15 October and then Bloomington in late
+17:18 October. And then in January, we're
+17:20 looking to go to California. We're
+17:22 getting closer to finding a spot. All
+17:25 right. Um
+17:27 probably in that area.
+17:29 >> There's still a Facebook ad out there,
+17:30 Dan, that says San Diego.
+17:33 So
+17:33 >> [clears throat]
+17:34 >> I guess we better find that.
+17:35 >> right there.
+17:36 >> No, it's going to be Aaron, what's that
+17:38 place by Carmel we're looking at? Um
+17:41 >> Monterey.
+17:42 >> Monterey, I think somewhere in that
+17:44 area. So
+17:45 >> That sounds fabulous.
+17:45 >> We found some neat places there that
+17:47 we're looking into, so that's probably
+17:49 more the area that we're going to look
+17:50 at. So, um
+17:52 and amazingly affordable. So
+17:55 Um that surprised the hell out of me.
+17:57 Anytime you see the word California, you
+17:59 think, "Ooh, big bucks."
+18:00 Um
+18:02 Renee said, "Hopefully uh
+18:04 as El Moro as El as El as El Moro." Is
+18:07 that a town or a hotel?
+18:09 >> [laughter]
+18:11 >> Anyhoo, uh enough of that commercial.
+18:12 Let's get into spinning the wheel. So
+18:15 And again
+18:16 go check out Renee's site, Renee um
+18:19 rabbittdesign.net.
+18:21 John at um imagedraftingdesign.com.
+18:24 >> imagine-drafting.com.
+18:26 >> Yeah, if you go to the homepage, you can
+18:28 find all of us here, and
+18:30 um I think Kevin's retired, so he might
+18:33 not be here long.
+18:33 >> Dan, I'm sending you a new picture. I
+18:35 really hate the picture of me.
+18:38 >> I am sending you a new picture.
+18:40 >> Well,
+18:40 >> [laughter]
+18:40 >> I don't know what that is.
+18:42 All I got to do is
+18:43 All I got to do is put up a really bad
+18:44 picture and you'll send me a new one.
+18:45 There we go.
+18:46 It worked well. Good trick.
+18:48 >> We love you, Dan, but definitely need a
+18:50 new picture.
+18:51 >> Well, [laughter] send it to Jolene, by
+18:52 the way. She's the one that did it. So,
+18:54 anyway.
+18:54 >> Here, Dan, I'm going to show you this.
+18:56 This is So, this
+18:57 reduced to 14 megabytes from 21.
+19:01 >> That's beautiful.
+19:03 >> That's um
+19:04 And yeah, could still read it.
+19:06 >> Nice. So, really good quality.
+19:09 >> Yeah.
+19:09 >> Love the rendering. It's beautiful.
+19:11 >> This is my Pro plan template. This is
+19:13 someone else using it. Um and
+19:16 and it includes instructions on how to
+19:19 get chat GPT to give you this watercolor
+19:21 rendering.
+19:22 >> Nice.
+19:22 >> Really beautiful. Really looks lovely.
+19:24 >> Back to the AI program, all right.
+19:26 Speaking of AI, we're going to be doing
+19:28 on
+19:29 we're supposed to be taking August off.
+19:30 We just couldn't do it. But the designer
+19:32 show is on the 23rd, we're going to have
+19:34 an AI guy here. We're going to be
+19:36 showing um myarchitect.com.
+19:39 Cool, cool program. I think you guys
+19:41 will enjoy it, so.
+19:43 >> That's very cool. You know, I just read
+19:44 an article I just read an article about
+19:47 um I'm going to send it to you guys that
+19:49 I have a copy of it of clauses to put in
+19:52 your program that um
+19:55 about AI and about your clients using AI
+19:58 to ren- redo your drawings, some things
+20:01 that you should have in your drawing. It
+20:03 should have it you should have it in
+20:04 your contract. I mean, you know, it
+20:06 needs to be there.
+20:07 >> I'm going to write that down. Good good
+20:09 tip.
+20:10 >> I will send it to you, Renee. I'll send
+20:11 it to all you guys. I I just got it the
+20:13 other day. I haven't fully read through
+20:15 the whole thing, but there's some things
+20:16 you need to do to protect your drawings.
+20:19 >> Nice.
+20:21 >> Yes, I'll send it over.
+20:22 >> Um and another
+20:24 Okay, hold on. One more quick tip before
+20:26 we go forward. Um
+20:28 if you guys are using AI,
+20:31 go to promptcowboy.ai
+20:35 and use this. Type your questions in
+20:38 here, your prompt the call prompts. What
+20:41 do you want What do you want your AI to
+20:42 do? And this will spit out an amazing
+20:47 um prompt that you then copy and paste
+20:50 into your AI
+20:51 and it's going to help give you the
+20:53 instructions to your AI
+20:56 um so you'll get more of what you're
+20:57 looking for.
+20:59 So, it really works well. You can do it
+21:01 for free, I think up to 10 prompts a day
+21:03 or something like that. I'm on the pro
+21:06 plan, which is $105, $108 a year
+21:08 something like that. So, I use it a lot
+21:10 and it's really really helpful. I just
+21:12 go put in my gobbledygook into um
+21:16 what I want to say,
+21:17 hit uh prompt and it spits out a nice
+21:20 clean prompt for the AI. So,
+21:22 >> Perfect.
+21:23 >> Yes, anyway. Okay, spin the wheel. Spin
+21:25 the wheel, Dan, damn it.
+21:27 And then we burned 20 minutes. I know,
+21:29 but that was fun 20 minutes.
+21:31 Um
+21:32 >> One day we're going to get through all
+21:33 of these. This is honestly the advantage
+21:35 of having all of these things here is we
+21:37 never have to think about what the show
+21:38 is going to be about.
+21:40 >> [laughter]
+21:42 >> Um anyway, wall end auto connect.
+21:45 You got to tell me that you know this
+21:47 one because I don't.
+21:49 >> Uh wall end auto connect?
+21:51 >> Yes, there's something we can improve.
+21:53 >> Is this an AI summary thing?
+21:56 Probably. Um
+21:57 >> Does it take away that arrow that angle
+22:00 error issue?
+22:02 >> Well, so I think what you're what it's
+22:04 talking about cuz I I imagine that
+22:06 that's just an AI and it's a little off.
+22:08 Um
+22:09 >> No, that's
+22:11 It is something in here that they were
+22:13 doing.
+22:14 >> your do your wall connection tool.
+22:17 >> Uh you know what it was and I apologize.
+22:20 I should have
+22:21 That's one I intended to look up, but if
+22:23 you start doing all sorts of
+22:25 crazy walls coming together and you get
+22:27 something not working quite right like
+22:29 that.
+22:30 Um it was my understanding that they
+22:32 have something
+22:33 >> know what it's doing is it's taking off
+22:35 that It's taking off that You know when
+22:37 you do a neo angle shower and it creates
+22:38 a point in the framing, it takes that
+22:41 off. That's what it fixes.
+22:44 >> Okay, let's look at that for
+22:46 >> Make a neo angle shower.
+22:47 >> All right.
+22:48 >> Yeah.
+22:48 >> So, that would be
+22:49 >> And that's it's the framing for the neo
+22:50 angle shower is where the biggest
+22:52 problem is.
+22:53 Love it that I knew that.
+22:54 >> Or bay windows or anything like that.
+22:56 >> in. Now put a door in there.
+22:59 >> Okay.
+23:00 >> But you need to make it smaller. Right?
+23:02 You know you make a really small neo
+23:03 angle, it was creating that problem.
+23:06 You know, you're creating that little 42
+23:08 by 42 neo angle and it created that
+23:10 really weird
+23:12 See, it's it's fixed it now.
+23:14 >> What it's doing it it's something that
+23:16 you can manipulate too. It's what it's
+23:18 doing is changing the way the end of the
+23:20 wall
+23:22 looks.
+23:23 >> Yeah, it well when you put a neo angle
+23:26 in previously what would end up
+23:27 happening, make the door the full width,
+23:29 Dan.
+23:31 Please. Don't mean to just like demand
+23:33 it. Make it the full width of that
+23:34 space.
+23:35 >> Oh, come on, Rob.
+23:36 >> How big do you want it?
+23:37 >> Well, make it as wide as the wall is.
+23:40 So, what would typically happen when
+23:42 you're looking really closely I I'm
+23:43 pointing to the screen, right? So, you
+23:44 can see what I'm saying. Um in that
+23:47 corner space, what that would do is it
+23:49 wouldn't frame out properly. It would
+23:50 leave a really weird corner.
+23:53 >> All right.
+23:53 >> And I don't I I think that's what it's
+23:55 fixing is that really weird corner
+23:57 space.
+23:58 >> It fixed it on one for me, but not the
+23:59 other.
+24:01 All right. So,
+24:02 >> create a We're able to fix it in the
+24:04 program?
+24:05 >> Yeah. There's a
+24:07 Did you use a tool for that? There was a
+24:09 tool that they showed in one of their
+24:10 videos for that.
+24:12 >> I can't find it. I've been looking all
+24:14 over for it.
+24:15 >> auto connect?
+24:16 >> It's not there.
+24:18 >> Is it another Is it an extra button on
+24:20 the end of the wall? Maybe click on
+24:22 select the wall.
+24:24 >> Um the other the
+24:27 >> Yeah, that wall there.
+24:28 >> Okay. We're not We won't We won't dwell
+24:31 on it much longer, but if anybody knows
+24:34 um
+24:35 >> Oh.
+24:35 >> let us know. That's just Oh, what is
+24:37 this one? Okay, what is that?
+24:39 >> That's it right there.
+24:41 >> What do you do with that?
+24:43 >> Uh grab it and move it. There you go.
+24:46 Well, I just changed it.
+24:47 >> That just locks the end of your wall.
+24:49 >> Yeah, the jet So, you have to unlock the
+24:51 end of You have to unlock the end of the
+24:52 wall to do it. I think that's what the
+24:54 deal was.
+24:55 >> Enable auto connect.
+24:58 Oh, oh, oh, oh, hold on. Hold on.
+25:01 Maybe maybe it's the deal here where
+25:05 Okay, what's a good good example of this
+25:08 where
+25:08 >> We're back to what I thought it was.
+25:10 It's just that lock button.
+25:12 >> It's what?
+25:13 >> It's the lock button. You can keep a
+25:15 wall exactly where it is right now even
+25:18 when So, when you turn on auto connect,
+25:21 Chief Architect's going to take two
+25:22 walls that are close to each other and
+25:24 connect them.
+25:25 >> Right.
+25:26 >> Um so, if you edit your wall
+25:28 intersections and you get that big
+25:30 magnet icon then if you click on it,
+25:33 you're turning off auto connect. Now, if
+25:35 you move the other wall,
+25:38 that wall you just No, move the other
+25:40 wall, Dan.
+25:41 >> Okay, yeah.
+25:43 >> Okay, I mean this Okay, it's still
+25:45 locked.
+25:45 >> Not that Yeah, and that wall you
+25:47 unconnected.
+25:49 >> Um
+25:52 So, now I can move it.
+25:54 So, now it's
+25:55 >> Yeah, so that one's still set to auto
+25:56 connect, too. But
+25:58 >> You have to unconnect both of them.
+26:00 >> Yeah, let's just
+26:01 >> Unconnect the other one, Dan.
+26:02 >> Hang on, let's do this again. So,
+26:08 What is that tool?
+26:09 >> That reverts it back for both walls.
+26:13 >> Oh.
+26:13 >> Yeah, that tool is on the wall itself.
+26:16 So, unconnect it You have to I think you
+26:18 have to unconnect both ends.
+26:20 >> Yep.
+26:21 >> Enable
+26:23 Okay, now I think you can move it.
+26:25 >> Yeah.
+26:27 >> Yeah, you still have You still have it
+26:28 turned on on one of those walls.
+26:32 >> So, now we got it on both ends.
+26:35 >> Do you have both of them locked?
+26:36 >> Unlock the north end.
+26:39 >> The Yeah, the top one.
+26:41 >> Yeah, unlock that one.
+26:42 >> Lock it or unlock it?
+26:44 >> Unlock it.
+26:46 >> All right.
+26:47 Now, it's locked.
+26:49 Now, it's unlocked. Let's see. Enable
+26:52 auto connect.
+26:54 And now it's unlocked.
+26:55 >> Okay.
+26:57 >> Now what?
+26:58 >> So we don't we want we don't want it to
+27:00 auto connect. That's what you're trying
+27:01 to do.
+27:02 >> Okay.
+27:03 >> So that's unlocked with the red, right?
+27:08 But you
+27:08 >> Uh-huh.
+27:09 >> [clears throat]
+27:10 >> So so I've had situations, okay, now I'm
+27:12 not quite sure yet.
+27:14 And I apologize for not knowing this
+27:16 right off the bat, but I've had
+27:18 situations where I want to have a short
+27:20 wall. I want this wall to be, you know,
+27:22 really short.
+27:24 Or what's another another use of that?
+27:26 Um Bay windows.
+27:29 >> Bay windows, how you how you want those
+27:31 to come in
+27:32 Um are
+27:34 problematic.
+27:37 And this this tool will help with that.
+27:39 >> Uh look at that. Okay, so I was able to
+27:41 make that wall really short now without
+27:43 having it connect back it without it
+27:45 like going away, basically. Usually if
+27:49 let's try this before where I have
+27:51 two walls and I want to make this one
+27:53 really short, okay? Like that.
+27:56 And now it's going to
+27:57 Now it's going to stay short now.
+27:59 >> And
+28:00 actually actually a that a lot of the
+28:03 situations would be you want this the
+28:05 horizontal wall to go past the one
+28:07 that's joining into it.
+28:09 >> Just a tiny bit.
+28:10 >> of inches, you know, without
+28:12 >> So take the horizontal wall. Yeah, take
+28:14 the horizontal wall and pull it out like
+28:16 4 in.
+28:17 Not the vertical wall, the horizontal
+28:18 one, the other one.
+28:19 >> Pull that past the the ver- the
+28:21 >> like that. No. But you think it has to
+28:23 be unlocked?
+28:24 >> That's auto snapping, so you need to
+28:25 unlock it so it won't auto snap.
+28:28 >> Okay.
+28:29 All right, we will experiment with
+28:31 >> Whichever way it goes.
+28:32 >> It wasn't locked. So now it's locked. So
+28:35 now can I pull it past? No, I can't. Let
+28:38 me click on it.
+28:40 Can I push past?
+28:42 Oh, that's what I was
+28:44 saying.
+28:44 >> That's that's it right there.
+28:46 >> Look at that you guys.
+28:48 >> That's pretty cool.
+28:50 Takes us a little while, but you know,
+28:51 we get there eventually. That's pretty
+28:53 cool.
+28:54 >> of admission right there.
+28:55 Um
+28:57 Um cool.
+28:59 Because that's
+29:01 >> Dan
+29:02 open one of those walls up and make it a
+29:04 pony wall.
+29:08 Go on.
+29:08 >> [clears throat]
+29:09 >> Open that.
+29:11 Make it a pony wall.
+29:14 That's okay.
+29:18 And then edit your wall intersection.
+29:21 >> So I'm on my editing. What am I doing to
+29:23 it?
+29:24 >> Hit the edit the wall intersection tool.
+29:27 >> This one? Okay.
+29:28 >> Notice that in your
+29:30 if you can zoom in on your edit toolbar
+29:33 >> All the way down at the bottom.
+29:35 >> Oh, look at that. Okay.
+29:37 >> You can edit the intersection of the
+29:39 upper wall.
+29:41 >> I know.
+29:42 >> That's edit layer intersection for the
+29:44 lower wall.
+29:45 >> Yeah, it's whichever one's displayed in
+29:48 your in your um
+29:50 >> You know what
+29:51 You know what that means?
+29:54 We should be able to have a wall draw
+29:57 the stairs and then redraw the wall so
+29:59 that a wall breaks halfway on a tread.
+30:04 >> Oh.
+30:05 >> Yeah.
+30:05 >> That'll be great.
+30:07 Can you do that real quickly? Can you do
+30:09 that real quick? Show that. I mean,
+30:11 we're probably only going to get through
+30:12 two of these, but you know, again, total
+30:15 security. Total job security. But
+30:17 everybody has this problem, so it's not
+30:19 like this is crazy.
+30:21 >> So you want to You want the
+30:22 >> Break Break it in the middle of the
+30:24 stair.
+30:25 >> Well, no.
+30:26 You'll have to You have to break the
+30:27 stair first to bring it over. So you
+30:30 know, do a complete break so you can
+30:31 bring it over.
+30:34 And it's going to redraw the wall
+30:36 according to the risers, right?
+30:38 >> right. So now pull it over to to right,
+30:40 you know, 4 in whatever.
+30:42 >> So now it's going to break the wall
+30:43 right there. Now, you should if with
+30:45 that tool, if it works the way it sounds
+30:46 like it works, you should be able to
+30:48 grab the top part of that wall,
+30:50 set your pony wall the right height for
+30:52 the tread, and then break the top, and
+30:55 pull the top part over top of the tread.
+30:59 >> You want to break the wall here.
+31:01 >> Yep, right there.
+31:03 And make the
+31:04 high side
+31:06 make break
+31:07 make make the high side wall a pony
+31:10 wall.
+31:12 >> All right, I just want to see if I can
+31:15 So, it is
+31:16 Yeah.
+31:17 It did allow me to put it away.
+31:20 All right.
+31:21 We'll play with that.
+31:22 >> with, something to play with, yeah.
+31:24 >> Yeah, so
+31:26 So, the stairs are always going to break
+31:29 at a tread. I can't break the stairs in
+31:31 the middle of the tread. That's that's
+31:33 built in. That's fine.
+31:35 >> Well, that's a safety issue.
+31:37 >> Yeah.
+31:38 Anyway, okay.
+31:39 >> Here's a
+31:39 >> That's a good question.
+31:41 Yeah.
+31:41 >> Here's a good question we should Where
+31:42 did this option to set the grade as the
+31:44 elevation reference go in X18?
+31:47 It made things much simpler in X17. It's
+31:49 in the plan
+31:50 defaults.
+31:52 >> They got rid of that?
+31:53 >> No, they moved it to the plan defaults.
+31:55 It's right down there at the bottom.
+31:57 >> Really?
+31:57 >> So, the whole dialogue, right?
+31:59 >> Let's talk about that for a second cuz
+32:01 we did discuss this the other day, John.
+32:04 Um
+32:04 >> Yep.
+32:05 >> So, when you're working on your your
+32:07 terrain,
+32:08 um
+32:09 All right. Um let's see.
+32:11 Okay. So, so the the thing about Think
+32:14 about the reason they put it here
+32:16 instead of where it was
+32:18 is because
+32:20 um when you're doing your
+32:22 story pole,
+32:24 and that's what it's all about, right?
+32:26 It's a story pole.
+32:27 >> It's a story pole function, yeah.
+32:28 >> So,
+32:30 so we can now get to this from any view
+32:33 versus what we did we have to do before.
+32:37 >> And you into the camp into the automatic
+32:39 auto story poll.
+32:41 >> Yeah.
+32:42 >> poll
+32:43 >> Yes.
+32:44 This So now we can So now let's just go
+32:47 bring this up and I'll do a story poll
+32:49 on this.
+32:51 Let me throw a story poll on here in
+32:53 this view.
+32:54 Um
+32:55 What [clears throat] are your
+32:55 dimensions?
+32:57 auto story poll
+32:59 You can do this in elevation or in 3D
+33:01 like this. Okay.
+33:02 So there it is. And so right now
+33:05 the top of
+33:07 What's the grade?
+33:09 >> Grade level's way up there about 5 from
+33:10 the bottom.
+33:11 >> Grade level is zero right now. Okay.
+33:14 This is look a lot better in elevation,
+33:16 but it's fine. We'll just do it from
+33:18 here. So now I want to change that.
+33:20 Where do I go change that? Well, I
+33:21 suppose I could have gone into the
+33:22 defaults for the
+33:24 for the
+33:25 dimensions, but now I just double click
+33:26 on them. Plan view
+33:29 button
+33:31 And now I can set that to say
+33:33 the grade level markers are at zero
+33:35 right now, but I really want that to be
+33:37 down
+33:38 or up somewhere else.
+33:40 >> Yep.
+33:40 >> Okay. So I would now
+33:43 So if we go minus 48 for example.
+33:45 >> Yep. And then the next buttons down
+33:47 there
+33:48 whichever one of those checked is going
+33:50 to be zero.
+33:52 >> Yeah.
+33:52 >> The elevation reference is going to be
+33:54 whichever one you check there is going
+33:55 to be zero.
+33:56 >> So now the grade
+33:58 moved to moved
+34:01 to
+34:02 >> It's underneath your terrain.
+34:05 >> Okay.
+34:06 >> [clears throat]
+34:06 >> Yep.
+34:07 >> There it is. So I went a little too low.
+34:10 Um
+34:12 Well, that's not there. Uh did you Did
+34:14 you rebuild it? Maybe it just went away.
+34:17 >> I did not
+34:18 >> Rebuild it. Redo your
+34:19 >> Let me delete it and redo the story
+34:21 poll.
+34:22 So we're going to build a new story
+34:24 poll.
+34:26 And now it's going to say grade level.
+34:29 >> The grade level
+34:30 >> level at
+34:31 >> Yeah. So the top of your
+34:33 top of your subfloors at 4 ft cuz you
+34:35 have the grade level selected.
+34:37 >> Yeah. So,
+34:39 why they moved it there I'm I'm only
+34:41 assuming that's the reason cuz they're
+34:43 at the easier to get to.
+34:45 Um
+34:46 plus the other things that they put in
+34:48 here.
+34:49 Um
+34:51 I don't know. It's just what it is.
+34:53 Opening indicators,
+34:55 ignore casing when resizing. It's like I
+34:58 never understood why they never put this
+34:59 one in the windows and doors.
+35:01 Um
+35:02 >> Yeah.
+35:02 >> So, if you want to put your casing your
+35:04 jam against the wall versus the casing
+35:06 against the wall, you have to turn that
+35:07 on.
+35:08 >> Yeah.
+35:10 >> That's what it is and
+35:12 um your guess is as good as ours is why
+35:13 they put it there other than I think
+35:15 it's just easier to find and get to.
+35:18 But why didn't they just leave it where
+35:20 it was, too?
+35:22 >> [laughter]
+35:23 >> Who knows? They're engineers.
+35:26 >> I don't know either. They had a reason,
+35:28 I'm sure.
+35:29 All right, let's go to the next one.
+35:31 I I doubt I'm glad we spent the time on
+35:33 that little wall thing cuz I was playing
+35:35 with that one day and I thought, "What
+35:36 the heck is this all about?" But you
+35:38 have to click the wall button first. So,
+35:40 that makes good sense.
+35:42 Um
+35:44 By the way, you guys, um if you go to
+35:47 Chief Experts
+35:50 and we'll come back in a second. Go to
+35:52 Chief Experts, go to my blog and here's
+35:54 an article that um based on what Renee
+35:56 did did a YouTube video uh 2 weeks ago
+36:01 and it's all of the different things
+36:02 that we're talking about.
+36:04 Um
+36:05 I forget what number that was that we
+36:07 were just talking about. Line connect to
+36:08 49ers would say down here.
+36:10 >> Yep, that's it.
+36:11 >> Uh how do you say it?
+36:15 You see the show the icon disable
+36:16 enable.
+36:19 New wall layer intersection by condition
+36:21 in case for Chief or connects walls.
+36:23 >> And it's somewhat marked out so you can
+36:25 easily get to those spaces pretty
+36:27 quickly. So, it's a good way to go back
+36:29 and refresh.
+36:30 >> there's been a ton of times when I
+36:31 wanted to have it just a short piece of
+36:33 wall or something like that, and it
+36:34 wouldn't work and it's like, oh, come
+36:36 on.
+36:37 All right, collated collated layout set
+36:40 printing.
+36:42 All right, let's go see what that one
+36:43 says.
+36:45 Um
+36:46 again.
+36:47 >> That just lets you print all It just
+36:49 doesn't let you just print like all of
+36:50 page one, all of page two, all of page
+36:52 three.
+36:53 Or
+36:54 >> It's number 25.
+36:57 >> Oh, [clears throat] I didn't know what
+36:58 that was when it came up, but someone in
+37:00 my comments section got it right, I
+37:02 think.
+37:05 >> I used a work post not demonstrated.
+37:07 See, it even found that you didn't
+37:09 didn't get it.
+37:10 Um you know now?
+37:12 >> Um no, I don't.
+37:15 >> Okay.
+37:15 >> Collated printing.
+37:18 >> I think it is if you're printing to a
+37:21 printer,
+37:22 that's when that
+37:23 matters.
+37:25 >> Okay.
+37:26 Well, we're going to just get past that
+37:27 one cuz we don't know.
+37:29 Um we'll learn about it sometime. Um
+37:31 I'll leave it on the list.
+37:33 >> [laughter]
+37:33 >> It's getting done. We'll come back to it
+37:35 someday. Someday.
+37:40 >> Or not. So, one of you guys will figure
+37:41 it out and let us know.
+37:45 >> Layer filling sections, number six.
+37:47 >> Uh
+37:48 >> What the heck is that mean?
+37:49 >> about this last. This is like Renee's
+37:51 favorite thing.
+37:52 >> No, that's fill style.
+37:55 >> Number six.
+37:58 Um that was um layer base fill in cross
+38:01 section.
+38:02 Layer base fill in cross section. Auto
+38:04 detail auto detail.
+38:06 Okay.
+38:07 >> Yeah, if you use auto detail, you could
+38:09 either do um the older method of just
+38:11 having um
+38:13 the CAD defaults do the fill, or you
+38:16 could do fill based on the layer
+38:18 setting. And the layer settings could be
+38:20 driving
+38:22 your layer-based fill styles. So, for
+38:24 instance,
+38:25 um
+38:27 your walls
+38:28 can be sent um every component of a wall
+38:31 can be sent to a different display
+38:32 layer,
+38:34 which is our layers.
+38:35 And then when if you do that, if you
+38:37 break up your walls and layers in that
+38:38 way, then you can get a really pretty
+38:40 detailed fill in auto detail function
+38:44 based on the layer-based fill style of
+38:47 your walls.
+38:49 >> Are we talking about
+38:52 the putting different layers of your
+38:54 wall
+38:55 >> it'll probably be easier for me to show
+38:56 this cuz mine's already set up for that.
+38:58 >> Please. Please do. Yes, go for it.
+39:00 >> Yeah, let me just get something going
+39:02 here.
+39:07 >> So, your different wall types in
+39:09 cross-section
+39:11 can now have different fill styles in
+39:13 them.
+39:14 >> Yeah.
+39:15 >> Your 6-in walls could be blue and your
+39:17 orange walls could be yellow and in
+39:20 cross-section, then you go to framing
+39:21 view and they could switch to a
+39:22 different color.
+39:24 Um
+39:25 I I don't know if I'm even on the right
+39:27 track with what you're going to show us,
+39:28 so.
+39:32 >> Okay, let me just build all framing.
+39:36 And so, the auto auto detail now
+39:39 every part of this wall is following the
+39:42 fill style of the wall type that I'm
+39:44 using.
+39:45 So, my wall type, if I were to go open
+39:47 this up,
+39:49 you're going to see that
+39:53 every layer here is on its own
+39:56 Chief Architect layer, which they call
+39:58 display layer here, which is very
+40:00 confusing cuz to us those are layers,
+40:03 but these are also layers, so.
+40:06 >> Yeah.
+40:07 >> It's all redundancy check Chief
+40:09 Architect always does.
+40:11 Um anyways, I have these individual wall
+40:15 layers sent to different layers so that
+40:18 I can control them and their fill style
+40:20 independently. If I were to select all
+40:23 these and go edit layer, now I'm editing
+40:25 all these at once and I have all of them
+40:28 following the defaults of the layer that
+40:30 they reside on including the fill style
+40:33 following use layer.
+40:35 >> So you had to create what layers you
+40:37 wanted to call them out. You had to call
+40:39 out the layers. Got it.
+40:40 >> Yeah, [snorts] so my system was that I
+40:42 needed an exterior display layers one
+40:44 through four and I needed an interior
+40:46 display layers one through two and
+40:48 that's for existing walls and then I
+40:50 have separate ones for new walls.
+40:53 So that when I flip from one plan view
+40:56 to another, I can change the complete
+40:58 look and style of
+41:01 those walls.
+41:03 >> Oh, yeah.
+41:03 >> independently very easily.
+41:06 Um
+41:07 so that you know
+41:09 like totally different display on a save
+41:13 plan view by save plan view basis.
+41:15 >> Yeah, the floor was always the same all
+41:17 the time.
+41:18 >> Yeah.
+41:19 >> You either had
+41:20 you either had a a blue wall
+41:22 >> with the fill in it.
+41:24 >> Right.
+41:28 >> Yeah.
+41:29 >> So this just means you get finite
+41:30 control over how this all displays.
+41:32 >> Yeah.
+41:33 >> And the only
+41:34 the only thing that's kind of funny is
+41:36 that you don't have control over the
+41:38 insulation cuz there's no insulation
+41:40 layer that you can send wall types to.
+41:44 >> I know.
+41:44 >> So that's kind of silly, you know? Um it
+41:47 just deals with the assembly that it
+41:48 comes from. So.
+41:50 >> [clears throat]
+41:51 >> You still have to
+41:52 >> There ain't tool that insulation tool. I
+41:54 wish they would give us a little more
+41:56 functionality with that.
+41:57 >> Yeah.
+41:58 >> It is what it is.
+42:01 >> Oh, so does all insulation does all
+42:03 insulation has the same symbol? So if
+42:05 you had different types of insulation,
+42:07 different types of walls, it's all going
+42:09 to be called out symbol wise the same.
+42:11 Is that what you're saying, right?
+42:12 >> Uh no, the insulation from auto detail
+42:15 builds from the assembly that you have
+42:17 checked as detail as insulation. And so,
+42:20 each of these insulations live on their
+42:22 own
+42:23 you know, layer that has nothing to do
+42:25 with how I would change the general
+42:27 display of insulation. So,
+42:29 >> You know,
+42:30 in our wall in our wall definition, if
+42:33 we could have a wood wall set up for
+42:35 fiberglass style and then we could have
+42:38 uh for our ICF, so we'd have insulation
+42:40 set up as a dash line for foam
+42:42 insulation.
+42:44 >> Yeah, Chief does it all the same. It's
+42:45 always going to use the squiggly lines
+42:47 for anything that's marked as
+42:48 insulation.
+42:49 >> Got it. Yeah, so you have to be really
+42:50 specific if you're using different kinds
+42:52 of insulation. You have to note it
+42:54 differently.
+42:55 >> Yeah. So, thinking about ICFs, if you
+42:57 don't label it as an insulation layer
+43:00 and just put a fill in it, that would
+43:02 take care of that, wouldn't it, Renee?
+43:04 >> Say it again.
+43:05 >> If you don't check the button this is an
+43:08 insulation wall
+43:09 and just put a fill in there to
+43:12 to show the insulation. Like for an ICF,
+43:15 instead of saying that the foam is an
+43:17 insulation layer, just put in a fill for
+43:19 that.
+43:20 >> Well, like so something you could do
+43:22 along the lines of what you're saying is
+43:24 is if you like you said, if you didn't
+43:26 check it as insulation
+43:28 you could set it so that your wall
+43:30 framing had a fill that was looked like
+43:33 insulation.
+43:35 You know.
+43:36 >> That's a lot of Mickey Mousing around,
+43:37 though.
+43:38 >> It is kind of funny.
+43:39 >> So, uh part of that button check as
+43:41 insulation is also part of the checking
+43:44 for energy specs and stuff, sending that
+43:46 to
+43:47 Well, I don't forget what what you can
+43:48 send that to to
+43:50 have it check it.
+43:52 But, that's also part of that, right?
+43:54 >> Yeah. Yeah, if you're using REScheck or
+43:56 or other
+43:58 easy frame or whatever.
+44:00 >> Yeah.
+44:02 >> So, yeah,
+44:03 let me
+44:04 let me take the screen for a second here
+44:06 and I'll
+44:07 comment on something real quick. So
+44:09 So when you do a cross section and Chief
+44:11 does the auto dimension like this and if
+44:13 you wanted to show that insulation
+44:14 hatching as angled milling
+44:17 foam
+44:19 you can take what Chief put in there and
+44:20 again what Chief does is it just fills
+44:22 in with a bad box. It's nothing magical.
+44:25 It just kind of put that on top of the
+44:26 item.
+44:27 You can make whatever you want. So you
+44:29 can take those at any time and open the
+44:31 dialogue, switch them back to normal
+44:34 and then you can put a different fill
+44:36 style.
+44:37 So if you wanted an angle hatch, you can
+44:38 do that. So to change it you just have
+44:40 to
+44:42 open it and switch it to a different
+44:43 kind of box.
+44:45 And then you're good to go. The
+44:46 insulation hatching we don't have the
+44:48 options.
+44:49 >> Right.
+44:50 >> Anyway.
+44:51 >> Okay.
+44:52 >> Uh we got a question about terrain about
+44:54 the reference marker.
+44:56 >> Yep.
+44:57 >> I'll
+44:59 do that real quick so we can get back to
+45:00 spin the wheel.
+45:01 >> Okay.
+45:05 >> So you're just going to want to get to a
+45:07 view where your terrain is shown
+45:10 and then you can click on it, open.
+45:13 If you uncheck automatic
+45:16 and you set reference point instead and
+45:19 press okay, the reference point will
+45:21 display on your screen.
+45:23 And now you can move this around to
+45:25 wherever you need it to be.
+45:26 >> And then how do you set that to
+45:27 reference the the terrain?
+45:30 How does that work with the house the
+45:31 house between the house and the terrain?
+45:33 How does that work?
+45:34 >> Okay and and also if you select a
+45:36 terrain in a 3D view it also shows it to
+45:38 you here. So you can move it around here
+45:40 too.
+45:40 >> That's excellent. I love that.
+45:42 >> Um so then if we open the terrain and I
+45:45 say hey right now surface reference
+45:47 point is
+45:48 negative 13. I want it to be at negative
+45:50 24 because I'm going to update my
+45:53 automatic foundation to be that much
+45:55 lower. There you go. That just
+45:57 sets the count you had
+45:59 >> If you could have contouring go on you
+46:01 could move that reference point to that
+46:03 lower contour and it would adjust the
+46:05 terrain from there.
+46:06 >> And remember that, you know, our
+46:09 automatic
+46:10 um
+46:12 section cut slider is a non-modal dialog
+46:15 box, so you can have this open and still
+46:17 move around in case you want to take
+46:19 this and
+46:21 you know, reference and kind of
+46:22 understand where your floor is compared
+46:24 to that.
+46:25 >> Right. Good point.
+46:26 >> So, my workflow for that is I move that
+46:29 reference point to the front of my
+46:31 garage
+46:32 and then whatever my garage floor height
+46:34 is minus one, so if it's minus 14, set
+46:37 that at minus 15.
+46:39 >> Yeah.
+46:39 >> Now your driveway that sticks 1 in above
+46:41 the terrain will come up and flush up
+46:43 with your garage floor.
+46:44 Perfect.
+46:45 >> Yeah. So, if you get into your build
+46:46 foundation dialog box and you go garage
+46:49 floor to stem wall top and I want this
+46:50 at 24 in and then
+46:52 there you go. That's going to drop that
+46:54 garage down and then I can take that
+46:55 reference point and like John said, put
+46:57 it at the front of the garage.
+46:59 >> Yeah.
+47:01 That works. It This is so much easier
+47:03 than what we used to have to do.
+47:04 >> Yeah.
+47:05 >> I'm really glad they did that and
+47:07 and I don't remember if it did it in X17
+47:08 or not, but if you put a house on a
+47:10 terrain
+47:12 or bring a terrain into a house, it it
+47:14 matches them up now instead of dropping
+47:17 like your house is at zero and before
+47:19 you if you did
+47:20 you know, mountain type elevations like
+47:22 5,000 ft
+47:24 the terrain would be 5,000 ft in the
+47:25 air, right?
+47:27 But it's bringing the two together more
+47:29 automatically now and that's pretty
+47:30 cool.
+47:32 >> Yeah, and still waiting for the new
+47:34 terrain tools to see what we get there.
+47:37 What they showed us last August was
+47:38 pretty cool.
+47:41 Pin projects in the browser.
+47:44 >> Cool.
+47:45 >> Oh yeah, that's that's an easy one.
+47:47 >> I think we can cover that one in less
+47:48 than a minute here.
+47:49 >> We can do that one in less than a
+47:51 minute.
+47:52 >> So, if you have a
+47:53 >> Well, we could pin the projects before
+47:54 we couldn't pin um files inside of the
+47:57 project.
+47:59 >> So, if you
+48:00 >> And so, that's what
+48:01 >> any project and you get pin.
+48:03 And that's going to keep it at the
+48:05 the little bitty icon, the pin thing
+48:08 there.
+48:08 >> Keeps it up at the top.
+48:09 >> Yeah. So,
+48:11 >> But, now what you're saying is it keeps
+48:12 the layout and your PDFs and all your
+48:14 assets all together.
+48:16 >> Um, well, no. This is the new feature is
+48:19 click on one of those files and now you
+48:21 can pin one of those.
+48:23 >> Yeah. So, if you have
+48:24 If you have version 1 through 10, you
+48:26 could, you know, pin your latest version
+48:29 to the top of the list.
+48:30 >> Yeah.
+48:31 >> Within the project itself.
+48:33 >> And then, something that Chief changed,
+48:36 which I don't like and I would love it
+48:37 if everybody put this in suggestions, is
+48:40 when you export your project with a pin
+48:42 in it,
+48:43 in X17, it would import with that pin.
+48:46 In X18, it removes the pin when you
+48:49 import it.
+48:50 And I don't I don't like that.
+48:52 >> Um, no, because then you got to go
+48:54 search for it on your list.
+48:55 >> Yeah. So, if you're sharing with a team
+48:57 and you're trying to get them to work
+48:58 on, you know, this new thing that should
+49:00 be pinned to the top of their screen,
+49:02 you can't do it.
+49:02 >> Yeah. The other thing I end up doing
+49:04 though is looking for the little green
+49:05 check marks when I import a project and
+49:08 I've opened one of the plans.
+49:10 So, that I get to search my list now to
+49:12 find those little check marks. That
+49:14 means that project's open on your
+49:15 screen.
+49:16 So, that's one way that you can find
+49:18 what you're looking for when you have a
+49:20 lot of stuff on your list. Um,
+49:23 and
+49:24 So, when you get a lot of stuff, just
+49:26 look for the little green check mark
+49:27 and that helps a lot.
+49:29 The other thing to keep in mind with
+49:30 those little bitty buttons, when you're
+49:33 in your templates and you want to see
+49:34 what are your defaults, you can have
+49:36 you'll have a little D next to the
+49:39 um, item that is your default.
+49:43 Just little things. Okay, that took for
+49:45 more than a minute. Um,
+49:49 >> Spin the wheel.
+49:49 >> is going to take a little longer than we
+49:50 think.
+49:52 Well, we just keep rewinding to complete
+49:54 on what we're talking about.
+49:56 >> Wait, wait, you mean no border callout
+49:58 option?
+49:58 Oh.
+50:01 >> [clears throat]
+50:02 >> Who knows what this one is?
+50:03 >> No border callout option.
+50:05 >> I know that one.
+50:06 >> Yeah, go for it, Renee.
+50:08 >> Um
+50:10 so you can
+50:11 uh let's do a little
+50:14 notes here.
+50:19 Okay, so I've dropped a note in the
+50:21 plan. The note is deriving its callout
+50:23 from the schedule that it's on. I go
+50:25 find the schedule
+50:27 and I open it up and I get into labels
+50:30 panel,
+50:31 then there is this option now.
+50:34 >> No, that's nice.
+50:37 >> So it just could be
+50:39 um there you go.
+50:40 >> goes away.
+50:41 >> So I just made a tool for my um
+50:45 my templates. I'll just show you this
+50:47 real quick.
+50:48 >> So, Renee, was that a schedule or is
+50:49 that a note?
+50:51 >> Um the schedule drives the callout.
+50:54 >> Got it.
+50:55 >> but a callout also has its own setting
+50:57 for no border.
+51:00 Sorry, I need to get rid of this stupid
+51:02 thing.
+51:03 Just cha- cha- oops.
+51:06 >> So you can have no border on the callout
+51:07 and on the list on the schedule?
+51:10 >> Yeah. Yeah.
+51:11 >> Or either or or both?
+51:13 It's either or it's all or none.
+51:16 >> I think it's all or I think it's all or
+51:17 none.
+51:19 It's what it looks like cuz it went away
+51:20 in the schedule and it went away on the
+51:22 scre- on the drawing.
+51:24 >> So something I just built like
+51:26 >> an all or none.
+51:27 >> I like the look of this is that um
+51:30 I've got a tool here that builds out a
+51:32 panel schedule um and I just like
+51:34 [clears throat]
+51:34 that that's how it looks. I don't want
+51:36 to callout around it. It's never
+51:38 displayed, it's never printed, but it's
+51:39 clear to me what that is.
+51:41 It distinguishes itself. This is kind of
+51:44 cool. I built something that
+51:45 automatically generates um an amp and
+51:48 panel schedule.
+51:50 >> Oh, look at that.
+51:51 >> Oh.
+51:52 >> Yeah.
+51:52 >> That's nice.
+51:55 >> All right, back to you, Dan.
+51:56 >> Well done.
+51:58 >> And that was fast. Oh, we're getting
+51:59 through more than we thought.
+52:01 We still have a few more minutes.
+52:07 >> Choice directions, best specification.
+52:10 Okay.
+52:11 So
+52:12 >> I got some I got a gripe about this one.
+52:14 >> Okay. Go gripe away.
+52:17 Go ahead.
+52:18 >> I'll do mine again.
+52:20 Uh so,
+52:23 something is great about this, but also
+52:26 something is not so great about this.
+52:29 Um I'm going to put an intermediate
+52:30 bearing wall here at the mid span, okay?
+52:33 I'm going to open this up and I want to
+52:35 set this in the structure panel to
+52:37 bearing wall.
+52:39 What that does is if I have automatic
+52:41 foundations built, that builds this
+52:44 foundation wall. Okay?
+52:45 >> Right.
+52:46 >> Chief Architect does not automatically
+52:49 set this stem wall as a bearing wall.
+52:52 >> Oh.
+52:52 >> Which it should.
+52:54 And that would make the joist direction
+52:56 tool work really, really well. Your only
+52:58 solution is you have to go and edit this
+53:00 wall, which turns off automatic
+53:02 foundations.
+53:04 So, this is another one where I would
+53:06 love it if people threw in the
+53:07 suggestion because if I go use the
+53:10 joist direction tool, so I'm going to go
+53:12 direction this way
+53:14 and I'm going to go direction this way
+53:17 and then let's build all framing.
+53:21 Let me just switch to a framing view.
+53:26 Is
+53:26 >> But that
+53:28 that bearing wall you checked on the
+53:30 first floor, Renee, is not a bearing
+53:31 wall for the floor.
+53:33 It's a bearing wall for the roof. Or the
+53:35 ceiling.
+53:35 >> Bearing wall for the roof, but it
+53:36 automatically builds a stem wall to
+53:38 transfer that load down. So, why
+53:40 wouldn't it just be automatically
+53:41 checked as bearing and let me check it.
+53:44 >> So when you checked it, did it auto
+53:45 automatically make it a foundation wall
+53:47 under the general tab?
+53:48 >> Yes.
+53:49 >> Yeah.
+53:49 >> Okay.
+53:50 >> Yeah. And so this should
+53:52 This should automatically be bearing.
+53:53 Now notice the joist direction tool has
+53:55 errors on it and if I clicked on them it
+53:57 would tell you you've got two different
+53:59 lines and you've got no no change of
+54:01 bearing. Or you have no bearing.
+54:04 >> if you if you call that wall if you
+54:05 check that bearing on that wall now,
+54:07 will it fix your joists?
+54:08 >> Yes, but as soon as I open this it's
+54:10 going to tell me
+54:12 or as soon as I change the setting it's
+54:13 going to say, "Hey, we need to turn off
+54:15 automatic build foundation." So if I
+54:17 check this as bearing now
+54:19 Um
+54:19 >> Well, we're still in beta.
+54:22 Scream at him.
+54:24 >> Yeah, well you need more people. It
+54:26 takes more than one.
+54:27 Um so notice now we don't have the
+54:29 errors, but I do have to rebuild the
+54:31 framing. It's not actively I I just
+54:33 don't have automatic framing turned on.
+54:35 And so there you go. Now it's
+54:37 doing this two different
+54:39 >> Okay. Well, other than that um
+54:42 the joist direction lines can be either
+54:44 way now.
+54:45 So if you click on the joist direction
+54:47 line and open its dialogue box
+54:51 >> Yeah. [clears throat]
+54:52 >> And now you can tell it to be
+54:54 um
+54:56 >> You can tell it to the type you can even
+54:58 change the the joists for a structure by
+55:00 the way, which is I found really
+55:01 interesting. You can circumvent the
+55:03 rooms
+55:05 um settings and instead set this up to
+55:09 be
+55:10 you know, a different joist setup. So I
+55:12 could say that this is I-joist in this
+55:14 section now. And if I go rebuild this,
+55:15 that's what it's going to do.
+55:17 I can even change the size of them.
+55:19 >> Yes.
+55:20 >> It's kind of trippy.
+55:22 >> That's pretty cool.
+55:24 And then you can
+55:27 but you could get it to go
+55:30 the opposite direction too.
+55:32 >> Yeah, you can. There's a setting
+55:33 somewhere for that. I saw that earlier.
+55:35 >> seen that yet.
+55:36 >> I don't remember where that is though.
+55:39 >> Yeah,
+55:39 >> was just looking here. I don't either.
+55:42 Show angle.
+55:46 >> Would it be under labels? Label for the
+55:48 framing maybe?
+55:52 >> Is that a
+55:55 Maybe that's a default or all or all or
+55:57 none.
+55:59 >> Yeah, you wouldn't have want to have it
+56:00 both ways on a plan. It'd have to be one
+56:02 or the other.
+56:03 >> Right.
+56:07 Well, it's there somewhere so
+56:09 I won't
+56:10 spend time hunting for it but I
+56:12 >> It'd be nice if they'd let us put it
+56:13 across there at a slight angle so you
+56:15 can tell it's not part of the
+56:17 not something else, you know.
+56:18 >> I've been saying that for years. This is
+56:20 This is the engineering standard as you
+56:22 go diagonal this way and you have
+56:24 another line crossing that and that's
+56:27 standard. You know, like I've been
+56:28 telling [clears throat] them that for
+56:29 years.
+56:33 >> Well, they're not engineers.
+56:35 >> That
+56:36 >> construction engineers, software
+56:38 engineers.
+56:39 >> They're computer geeks.
+56:41 >> [clears throat]
+56:42 >> And when I speak, by golly, they should
+56:44 listen.
+56:46 >> [laughter]
+56:47 >> Oh, I'm wrong.
+56:49 I'm wrong
+56:50 for sure.
+56:50 >> Well, they'll The good thing about them
+56:52 is if you tell them something, if you
+56:54 can catch their ear, they'll explain why
+56:56 that's tough to do or you know, why it
+56:58 doesn't work or something like that. So,
+57:00 they're good about it.
+57:01 >> Well, cuz Dan, this is what you really
+57:03 want, right?
+57:05 >> Yeah, there you go.
+57:06 >> Yeah. [laughter]
+57:08 >> That'll be cheap.
+57:09 >> All right. It's time for one more spin.
+57:11 One more spin.
+57:14 >> [snorts]
+57:14 >> Um
+57:23 >> Oh, here's another one I got to gripe
+57:24 about.
+57:25 >> [laughter]
+57:25 >> All right, gripe away.
+57:28 >> Um so, this in In print dialogue, if
+57:31 you've got a layout and you're opening
+57:33 that up, see, and you go print from
+57:36 this,
+57:38 um there's an option to match your print
+57:41 source.
+57:42 But,
+57:44 that's matching anything you have on the
+57:46 screen,
+57:48 including things you might have off the
+57:51 of your of your sheet.
+57:52 >> Oh.
+57:53 >> Oh.
+57:54 >> Oh. That could be a problem.
+57:55 >> Which is really dumb for people who have
+57:58 stuff off the side. So,
+58:00 >> Everybody stores stuff off the side.
+58:02 >> I know. So, look what it does. It it's
+58:04 going to size it based on all this other
+58:06 junk I got off the screen.
+58:08 >> Uh-huh.
+58:09 >> And it's like, all right, you guys
+58:10 didn't think that one through very well.
+58:12 >> Oh, you know what? Does that work when
+58:14 you're in layout?
+58:15 >> You know what? That looks right. This
+58:17 looks right.
+58:18 >> It does. Maybe they fixed it. Maybe they
+58:20 >> Maybe they fixed it. Cuz when I tested
+58:22 it, it was showing all my stuff off the
+58:24 screen and
+58:26 >> But, why would it know the difference
+58:27 than where your plan is versus versus
+58:31 other stuff?
+58:34 >> Yeah, I don't know. They must have
+58:35 >> know either. All right.
+58:36 >> All right, good.
+58:38 >> Okay, cool.
+58:40 >> All right, we're going to go next.
+58:43 Pumping through.
+58:44 >> By the way, uh
+58:45 >> This is our last one.
+58:47 >> [snorts]
+58:48 >> Aaron says she's still expecting prizes
+58:50 when we spin the wheel because of the
+58:52 summit.
+58:53 >> Yes.
+58:53 >> [laughter]
+58:54 >> I like that idea.
+58:55 >> Oh, you know what? I know what it is.
+58:57 When you check when you check plot at
+59:00 half scale, that's when it picks up
+59:02 stuff
+59:04 >> [laughter]
+59:04 >> off the screen.
+59:06 >> Okay.
+59:07 >> You see
+59:08 it now?
+59:11 >> Oh, yeah.
+59:12 >> Because you Yeah, cuz you're not How
+59:13 about if you went and changed your
+59:14 printer your PDF to do 11 by 17 or
+59:17 whatever size that is, would it still do
+59:19 it?
+59:19 >> That still works, but then you're not
+59:21 matching the print source anymore.
+59:23 >> Right.
+59:24 >> Yeah.
+59:25 >> So,
+59:25 >> Interesting.
+59:25 >> Yeah, I just need to report that then.
+59:27 >> [clears throat]
+59:27 >> That's what it
+59:29 >> Super resolution rendering support.
+59:34 >> Oh, okay.
+59:35 I'm okay. I don't remember doing that
+59:37 one.
+59:39 >> That export of image going to give you a
+59:41 higher resolution. I thought you could
+59:43 do that anyway.
+59:45 >> I don't know what that is at all.
+59:47 >> Export picture.
+59:50 I mean, I yeah, I thought we could set
+59:51 this to whatever the heck we wanted.
+59:52 >> Yeah.
+59:54 Super resolution. Maybe we didn't have
+59:56 super resolution. Anyway, let's let's do
+59:58 what we'll skip past that one. Do one
+1:00:00 more, even though we're running late.
+1:00:02 All right.
+1:00:06 >> Oh, yeah. Cool. You can save distributed
+1:00:09 path to the library now.
+1:00:11 >> So, explain.
+1:00:13 >> Um
+1:00:15 um for me, a great use of this would be
+1:00:18 um a set of
+1:00:20 uh bushes that you want on a distributed
+1:00:22 path.
+1:00:23 And so, now you can save all your
+1:00:25 different bushes on distributed paths
+1:00:27 and just be able to draw them out and
+1:00:28 and get to [clears throat] a landscape
+1:00:30 really quickly, for example.
+1:00:32 >> me show what a distributed path is?
+1:00:35 >> Yeah, so
+1:00:36 I'll just get into the build menu,
+1:00:38 distributed objects, and then polyline
+1:00:41 distribution or spline distribution
+1:00:43 path, either one.
+1:00:45 >> Oh.
+1:00:45 >> A spline might be nice, but you know, I
+1:00:47 just draw this out. Right now, I don't
+1:00:49 know why it's on the electrical layer.
+1:00:51 Oh, that's cuz this is my default
+1:00:53 distributed path is LED lights.
+1:00:55 >> Oh, yeah.
+1:00:57 >> But, if I get into my library and go
+1:01:00 find some
+1:01:02 >> But, you can put that in your library
+1:01:03 now and have it when you need the
+1:01:05 distributed light path. It would be
+1:01:07 there. You can set up different paths
+1:01:09 with different items attached to it.
+1:01:11 >> Yeah. And so, this would be
+1:01:14 probably my favorite use case of it, if
+1:01:17 I could get this set up right. Yeah, it
+1:01:19 is. If I knew what this was. Exact
+1:01:22 spacing.
+1:01:24 >> So you can you can attach one item to a
+1:01:27 line and it will follow the line based
+1:01:30 on how many you tell it to be or the
+1:01:31 spacing. I think you
+1:01:32 >> Yeah.
+1:01:34 >> Yeah, so you
+1:01:34 >> Only one item though. Only one item.
+1:01:37 >> Yeah, you can't mix and match I don't
+1:01:39 think.
+1:01:40 >> Um you
+1:01:41 you kind of can.
+1:01:43 Um
+1:01:45 but yeah, that would be This is a
+1:01:47 distribution of of this boxwood.
+1:01:50 >> Yeah.
+1:01:51 >> Got it.
+1:01:51 >> Right? And so before you could not save
+1:01:53 this to a library, now you can.
+1:01:56 So
+1:01:56 >> And with that already detached to it.
+1:01:58 >> Yeah. And so it would just be really
+1:02:01 easy to build a a landscape plan that
+1:02:03 way. For example.
+1:02:06 >> If it's a mono- monoculture plan, but
+1:02:08 yeah, I understand what you're talking
+1:02:09 about.
+1:02:10 >> Okay.
+1:02:10 >> Okay.
+1:02:12 >> Got one more quick question here.
+1:02:17 For Renee.
+1:02:19 >> Can you confirm?
+1:02:20 >> Um my workflow on that, yes, is I'm
+1:02:23 using Photoshop to change PDF to a PNG,
+1:02:26 but I bet you you could use
+1:02:27 convertio.co.
+1:02:29 We can get Dan to do it and see if he
+1:02:31 could test it and then
+1:02:33 I just have um [clears throat] on a PC
+1:02:36 there's something called task scheduler.
+1:02:38 So I have a task scheduled at the start
+1:02:41 of my boot that looks at my downloads
+1:02:43 folder and anytime there's a PNG file
+1:02:46 present there, it will convert it to a
+1:02:47 webp.
+1:02:48 Just makes it really easy. I don't have
+1:02:50 to do the any kind of export process,
+1:02:52 nothing. As soon as I screen clip or as
+1:02:54 soon as I export to that downloads
+1:02:56 folder, it's going to get converted.
+1:02:58 Now here's Dan and see if you can
+1:03:01 convert
+1:03:02 something a PDF to a
+1:03:04 uh PNG. You might even be able to
+1:03:06 convert to a webp right from this
+1:03:08 um web app.
+1:03:10 >> And you have to click on convert.
+1:03:12 >> Click on the two down drop down box,
+1:03:15 yeah.
+1:03:16 >> Wait, where was that? There it is, right
+1:03:17 in the middle. Right right in the middle
+1:03:18 there was an MP or a W
+1:03:20 >> Third one down in the in the middle.
+1:03:23 Okay.
+1:03:23 >> And it'll probably take a while cuz PDFs
+1:03:25 are huge.
+1:03:27 >> I don't even know what this one is, but
+1:03:29 it's going pretty quick.
+1:03:31 I've not used this service. This looks
+1:03:33 like a really good one.
+1:03:35 It looks
+1:03:38 Is it
+1:03:38 >> Still updating.
+1:03:40 >> So first part was uploading.
+1:03:42 Yeah, this might take a while cuz those
+1:03:44 are Oh, there you
+1:03:45 >> No, it looks like it's done already.
+1:03:46 >> Yeah, now download. Oh, you
+1:03:48 >> [clears throat]
+1:03:48 >> clicked on something.
+1:03:49 >> You just clicked on that.
+1:03:50 >> I I clicked download.
+1:03:52 >> No.
+1:03:52 >> up.
+1:03:53 >> That was an ad.
+1:03:55 >> Oh, shoot. Okay, sorry.
+1:03:57 Um
+1:03:57 >> Click Go back to download your
+1:03:59 >> I'm trying. It's stuck.
+1:04:01 >> Next tab. Previous tab.
+1:04:03 >> Okay, here we go. Um
+1:04:05 Get out of here. Come on.
+1:04:07 I open a new tab and it's still stuck.
+1:04:10 >> Oh, you're frozen.
+1:04:13 >> What? Here's a question. How can I
+1:04:15 change the color of my tool icons? No
+1:04:17 contrast.
+1:04:22 Isn't that a function of the preferences
+1:04:24 colors?
+1:04:25 >> Yeah, it's stuck.
+1:04:27 >> Oh, I have a trick for that and Chief
+1:04:29 won't like that.
+1:04:30 >> Download. Go ahead and download.
+1:04:32 >> I'm trying.
+1:04:34 It's this
+1:04:35 Something's stuck.
+1:04:36 >> You're frozen, huh?
+1:04:37 >> Yeah, a little bit.
+1:04:38 There's moving a little bit.
+1:04:42 Okay.
+1:04:42 >> There it goes.
+1:04:43 >> Um just had to be patient.
+1:04:46 Can have very little of these days,
+1:04:48 right?
+1:04:52 So then we go here and
+1:04:54 we hit that and
+1:04:57 Okay, there's that brush.
+1:04:59 >> go. It was a PDF, now it's a now it's 3
+1:05:02 megabyte 7
+1:05:03 >> That worked well.
+1:05:04 >> It worked really well.
+1:05:05 >> fast. That's pretty fast.
+1:05:08 >> Convertio, huh?
+1:05:10 >> Yep.
+1:05:10 >> Convertio.
+1:05:10 >> There we go, another one.
+1:05:12 >> I have an answer for Joe and Joe,
+1:05:15 Chief's going to yell at me for telling
+1:05:16 you this.
+1:05:18 >> Just remember anything like Renee tells
+1:05:20 you, Chief won't support it, so.
+1:05:22 >> Yeah, they're not going to because of
+1:05:24 Renee. It's on it. They're on it.
+1:05:25 They're going to they're going to say
+1:05:26 no. Uh Dan, go to your
+1:05:29 File Explorer.
+1:05:30 >> Hang on.
+1:05:31 Okay.
+1:05:32 >> Windows Explorer.
+1:05:34 >> All right, here I am.
+1:05:37 >> And go to um go into the address at the
+1:05:41 top there.
+1:05:44 >> Um
+1:05:45 >> Or actually just go to your C C drive.
+1:05:47 It's fine. Go to C drive.
+1:05:50 And Program Files
+1:05:53 and Chief Architect
+1:05:57 Past it.
+1:06:00 And X18
+1:06:03 and Resources
+1:06:07 and Buttons.
+1:06:09 >> Buttons.
+1:06:10 >> And it's all your buttons, dark and
+1:06:11 light.
+1:06:11 >> Well, this is new, right? This is new.
+1:06:14 Light and dark.
+1:06:16 You could back up
+1:06:19 the
+1:06:20 uh dark versions, make a backup
+1:06:25 of these
+1:06:26 and then replace the dark folder with
+1:06:30 the light folder. So, take all the icons
+1:06:32 from the light folder, take them into
+1:06:34 the dark folder.
+1:06:36 And that will put it back to the
+1:06:39 standard icons, no matter what your
+1:06:42 Windows or Mac theme is, dark mode or
+1:06:45 light mode. It will make it all the
+1:06:46 same.
+1:06:47 That's what I had to do. What he's
+1:06:49 talking about is if I share well,
+1:06:52 >> So, you're using the same file for both
+1:06:54 light and dark.
+1:06:56 >> Yes.
+1:06:57 Yeah, because right now if your
+1:07:01 uh machine is in dark mode, Chief
+1:07:03 Architect is switching all the icon
+1:07:05 colors so that black becomes white and
+1:07:08 they are very hard to see and understand
+1:07:10 and it's not a happy thing.
+1:07:13 >> But the dark mode is really nice for
+1:07:14 everything else.
+1:07:16 As far as strain on your eyes and stuff.
+1:07:19 >> Yeah, I like my PC in dark mode but it's
+1:07:21 using these icons and I can't see them
+1:07:23 because
+1:07:24 >> Right.
+1:07:25 >> They're white against the light
+1:07:27 background. I don't I don't want a dark
+1:07:29 background in Chief in the interface.
+1:07:31 >> So what are you doing? You're putting
+1:07:33 all the icons in the same
+1:07:34 >> All the light icons into the dark folder
+1:07:36 and letting them override it.
+1:07:38 >> Could you just change the name of the
+1:07:39 folder?
+1:07:41 >> Um you could but you'd have to you still
+1:07:43 need a dark mode cuz Chief's going to
+1:07:44 look for it or it's going to recreate
+1:07:46 it.
+1:07:46 >> Uh
+1:07:48 Okay.
+1:07:49 So that PDF changing it to WebP, I
+1:07:52 assume you can select more than one file
+1:07:54 at a time for
+1:07:56 conversion, right?
+1:07:57 In Convertio?
+1:07:59 >> I mean you you could do that if you just
+1:08:01 wanted to have a smaller file size. I
+1:08:04 guess that's not the worst thing but you
+1:08:06 you it'd be a bunch of individual pages.
+1:08:09 So I don't know if that's helpful.
+1:08:11 >> But uh
+1:08:12 Like a PDF of a set of plans and stuff
+1:08:16 like that. You could do all the pages in
+1:08:17 that PDF at one time. You wouldn't have
+1:08:19 to do each page individually.
+1:08:21 >> you have to do it each page individually
+1:08:23 in Convertio.
+1:08:24 >> Really?
+1:08:24 >> Yeah, I think you have to pick the page
+1:08:26 that you want.
+1:08:27 >> There's might be some other things that
+1:08:29 you could search for online online. Just
+1:08:31 just search for PDF convert PDF [snorts]
+1:08:34 to WebP.
+1:08:37 I do that all the time for converting
+1:08:38 stuff.
+1:08:39 >> Yeah, okay.
+1:08:40 >> You know, to a certain different file
+1:08:41 format.
+1:08:45 >> So when is the next um
+1:08:49 Pro Academy meeting? So it's not until
+1:08:51 next month, until August, right?
+1:08:55 Cuz it's the first and third Wednesdays
+1:08:57 of the month.
+1:08:58 >> Oh, right. Yeah, we're going to
+1:09:00 we're not going to be doing Pro Academy
+1:09:02 in August. We'll be back on September
+1:09:04 2nd.
+1:09:05 >> So, September 2nd and September 16th,
+1:09:07 those are the dates.
+1:09:08 >> For the Pro Academy and the designer
+1:09:10 show.
+1:09:11 >> Aren't we in We're in Coeur d'Alene
+1:09:13 Yeah, we're in Coeur d'Alene.
+1:09:14 >> On September 2nd.
+1:09:15 >> Yeah, so you won't have it on September
+1:09:17 2nd.
+1:09:18 >> Oh, I'll have to look at that. Maybe
+1:09:19 I'll move it to a different day then.
+1:09:22 But, we'll have it early September. Um
+1:09:25 and then Oh, yeah, that's right.
+1:09:28 All right.
+1:09:29 >> And what And are we doing designer show
+1:09:31 at all in August? We're not.
+1:09:34 >> Um
+1:09:35 Yeah, we're going to do it on the 23rd,
+1:09:37 but I got a guest speaker that's going
+1:09:38 to talk about
+1:09:39 my architect AI.
+1:09:41 So, how to do renderings.
+1:09:43 >> 23rd of August, which is a Saturday
+1:09:45 Sunday.
+1:09:46 >> Um whatever
+1:09:48 the 21st is.
+1:09:49 >> 21st.
+1:09:50 >> 21st, yeah.
+1:09:50 >> Okay.
+1:09:51 >> 21st. And then
+1:09:52 >> So, we'll have a designer show on that,
+1:09:53 but we're not doing the 1st and the 3rd
+1:09:56 that month.
+1:09:57 >> No.
+1:09:58 >> Okay. You're going on vacation.
+1:10:00 >> Um kind of
+1:10:02 vacation. Um
+1:10:04 >> Nice.
+1:10:04 >> Just take We're just going to take a
+1:10:05 breather, okay.
+1:10:07 >> Yeah.
+1:10:07 >> We'll be fine. We'll be back before you
+1:10:09 know it.
+1:10:10 So, not a big deal.
+1:10:12 >> Perfect. Perfect.
+1:10:12 >> Yeah, cool. But, um
+1:10:15 But, uh awesome. Well, we're way over,
+1:10:18 but you guys have a lovely
+1:10:20 um rest of the month here. What?
+1:10:23 >> Yeah, have everybody have a great day
+1:10:25 and
+1:10:26 >> And we'll be in Coeur d'Alene in the
+1:10:29 next month already.
+1:10:31 >> Yeah, we'll be looking forward to it.
+1:10:35 >> Um it looks like that sounds like fun.
+1:10:38 It's come on.
+1:10:39 >> Hey, we're we're
+1:10:42 Uh
+1:10:43 >> Oh, that sounds like fun.
+1:10:44 >> Oh, man.
+1:10:45 >> sounds like a lot of fun.
+1:10:47 >> Wait a minute.
+1:10:47 >> That's awesome.
+1:10:48 >> Yeah.
+1:10:49 >> That's I want to go to that.
+1:10:52 >> That sounds like a lot of fun. Vicky's
+1:10:53 going to have a great time.
+1:10:55 >> Way to you Vicky. Go have some fun. All
+1:10:58 right, everybody else.
+1:10:58 >> It's hot. Let's have a great time. Take
+1:11:00 care, everybody.
+1:11:01 >> We'll be talking to you guys soon. Take
+1:11:02 care.
+1:11:03 >> Bye.
+1:11:03 >> Bye now.

@@ -1,0 +1,183 @@
+Title: Broken Stile Cabinet Doors in Chief Architect
+URL: https://www.youtube.com/watch?v=rmWGssEN2aY
+Visibility: public
+
+0:00 All right, someone called me out on this
+0:03 post.
+0:07 And how do we create these
+0:10 cabinet drawers, right? We need three
+0:12 different drawers for this. How do we do
+0:13 this easily? It is actually pretty easy,
+0:15 believe it or not. Use your countertop
+0:17 tool. Bam, draw this out. Let's specify
+0:20 this. Oops.
+0:22 Now, let's just make this 24.
+0:26 And then you can just select next edge
+0:28 and 24.
+0:31 There we go.
+0:32 Right? Or if you want to be really
+0:34 clever, draw this out and uncheck polar
+0:37 and say 24 by 24. Bam, just like that.
+0:40 Then I'm going to use a tool that's in
+0:41 my library um and in my tool bar is that
+0:44 is just add a molding profile to a
+0:46 countertop. That's what I just did, but
+0:47 you could open this up, get to the
+0:49 molding panel, add a molding profile.
+0:51 Now, I'm going to do this. I'm going to
+0:53 do
+0:54 EM for edge molding and I'm going to
+0:57 type out moldings and profiles.
+1:02 And then I'm going to find the molding
+1:03 profile that I want, which we're just
+1:05 going to say it's this ease edge molding
+1:07 profile. I'm going to right click it and
+1:09 the one of the menu items is place
+1:11 molding profile. So, I'll drop this in
+1:13 place, okay? Let's just rotate this real
+1:16 quick.
+1:17 I'm going to add a polyline to this.
+1:20 Right? I can just hit tab while you're
+1:23 dragging your polyline. And so, this is
+1:26 going to be um
+1:28 in the Y position, I don't know. Let's
+1:29 go like 3 in in this position.
+1:31 [clears throat] Let's go -3/4,
+1:33 okay? Now, I can take these two, select
+1:36 them together, and this option right
+1:38 here, add to library as stacked molding.
+1:42 This now became a stacked molding. I'm
+1:43 going to pull a 3D view. It's still
+1:46 selected from my library.
+1:48 I'm going to hover over
+1:51 this and that's going to toggle
+1:53 replacement molding and place that
+1:55 molding. Isn't that cool?
+1:57 Simple, right? Now, let's do a few
+1:58 edits.
+2:00 I'm going to set thickness from cabinet,
+2:02 uncheck this, make this 3/4 of an inch.
+2:06 Okay? Now, our stacked molding needs a
+2:09 little bit of an offset. So, the offset
+2:12 here is going to be
+2:16 3/4 of an inch.
+2:18 We can see what's happening here. Okay?
+2:20 Now, the last part about this is I need
+2:22 to explode this stack. Why? Because I
+2:24 want to paint this stack one part
+2:27 separate from the other, and you can't
+2:29 do that when it's a stack. So, I'm going
+2:31 to explode the stack. Let's press okay,
+2:34 and now let's color code some things.
+2:36 We're going to color code the center
+2:37 panel and that outside section. And so,
+2:40 here you go. This is what I've got going
+2:42 on. Now, to kind of finish this up, to
+2:44 make our first guy here, so I'm going to
+2:47 select this edge. Note that this portion
+2:51 past the countertop is just the molding,
+2:53 okay? So, here is where the selected
+2:55 edge is. Watch what's going to happen.
+2:58 And in my edit tool, we're going to
+2:59 choose remove molding from selected
+3:01 edge. You can see what's happening here.
+3:04 Now that I have this,
+3:06 let me go ahead and convert the selected
+3:08 to symbol.
+3:09 Cabinet door drawer is the type of
+3:11 symbol. We do want to show advanced
+3:13 options. And we've got a few things
+3:15 we've got to do now. One is we're going
+3:17 to turn this up on the X 90°. We need
+3:20 the front face to be facing the negative
+3:22 Y direction. That is correct. Then in
+3:25 advanced sizing, we need a stretch
+3:27 plane, center down the right down the
+3:29 middle of this, so that when this
+3:31 stretches, it's going to duplicate its
+3:34 extrusion based on where that cut line
+3:37 is. So, our stretch plane is at 0 in.
+3:40 We're cutting through that. Whenever
+3:41 that cut creates an extrusion, it's
+3:43 going to continue that extrusion. Okay?
+3:47 And then we also need something in the
+3:49 height. All right? And we want it kind
+3:51 of close to our rail, but not quite all
+3:55 the way there. So, you could in the
+3:58 preview menu [clears throat] items over
+3:59 here choose
+4:02 relocate stretch plane, click on the
+4:04 stretch plane, and drag this up pretty
+4:06 close to the top. All right? That means
+4:08 that when this resizes, it's going to
+4:10 keep stretching about this stretch
+4:12 plane.
+4:13 Okay?
+4:14 And um it might be helpful to actually
+4:16 put this towards the middle. Who knows?
+4:19 We'll leave it right there. Actually, I
+4:21 would say sometimes it might be pretty
+4:23 small, so we'll leave it there.
+4:24 Okay? The last thing I want to do is
+4:26 materials. I want to make sure that that
+4:28 slab section, if we just take a preview
+4:30 of what's looking on here, my UV mapper,
+4:33 I want to make sure that this is just
+4:34 following the default, and then I want
+4:36 to give the option to make that molding
+4:39 profile not be the default. So, that's
+4:41 what I was thinking with this. So, you
+4:43 can go to material defaults, cabinet
+4:45 door drawer, choose that. That will
+4:47 always then follow the material
+4:48 defaults, and so you'll be able to
+4:51 um paint that edge molding profile
+4:52 separate from everything else. Let me
+4:54 press okay.
+4:56 Now we have that. Here is our top custom
+5:01 door. Okay? Now we can duplicate this.
+5:06 Okay? Let's just duplicate this object.
+5:09 We're going to make this our bottom
+5:10 custom door.
+5:13 And let's go open this. You can hit
+5:15 Shift F10 if you want to get to a menu
+5:17 like this and hit O for open.
+5:20 And then we're going to get to our 3D
+5:23 panel, and we're going to rotate this in
+5:25 the Y this time. So, we're going to
+5:27 rotate it twice.
+5:29 And then we could use the stretch plane
+5:31 tool
+5:33 to just click on this and drag this
+5:34 down.
+5:36 There we go, and press okay. That one's
+5:38 done now. Both top and bottom. All
+5:40 right? Let's do one more duplicate. No,
+5:44 we don't need to do a duplicate. This
+5:45 time, select this edge. No molding on
+5:48 that edge. Convert the selected to
+5:50 symbol. Cabinet door drawer.
+5:54 Hit to that 3D panel. Rotate this in the
+5:56 X so that it's standing upright.
+5:58 Advanced sizing, we need it to be in the
+6:01 width. We don't really care about the
+6:02 height
+6:03 this time. Okay. And then those
+6:06 materials, same thing.
+6:08 Let's just select that default material
+6:10 cabinet door drawer. Bam. Okay.
+6:13 So, what happens now when we get a
+6:17 cabinet in place.
+6:20 And let's just make it a three drawer
+6:21 base.
+6:25 And so, component base bottom. Here's
+6:27 the middle. So, I can choose this
+6:29 cabinet door, component based, switch
+6:32 out the middle. All right. Now, I'm
+6:34 going to do that bottom one, component
+6:36 base, switch out that bottom. Now, I'm
+6:38 going to do that top custom door, switch
+6:40 out that top. And look at that.
+6:43 Beautiful, right?
+6:47 Perfect, perfect, perfect. Hope that
+6:49 helped you out.
