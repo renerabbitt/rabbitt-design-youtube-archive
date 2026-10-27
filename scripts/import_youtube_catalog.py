@@ -44,6 +44,7 @@ def normalize_catalog(raw_data: dict, channel_url: str, handle: str, existing: d
                 "transcriptPath": f"data/transcripts/{video_id}.md",
                 "summaryPath": f"data/summaries/{video_id}.md",
                 "status": "needs-transcript",
+                "visibility": "members-only" if entry.get("availability") == "subscriber_only" else "public",
             }
         )
         if video_id in previous:
@@ -54,6 +55,8 @@ def normalize_catalog(raw_data: dict, channel_url: str, handle: str, existing: d
                 if value is not None and value != "":
                     merged[key] = value
             videos[-1] = merged
+        if entry.get("availability") == "subscriber_only":
+            videos[-1]["visibility"] = "members-only"
 
     # Public listings omit member/unlisted videos; absence is not deletion.
     videos.extend(v for video_id, v in previous.items() if video_id not in seen)
