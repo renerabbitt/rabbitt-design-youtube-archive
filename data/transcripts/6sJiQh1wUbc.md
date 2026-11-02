@@ -1,0 +1,1632 @@
+---
+videoId: 6sJiQh1wUbc
+title: Lessons Learned from the 2025 Summit - Designers Show #148
+url: "https://www.youtube.com/watch?v=6sJiQh1wUbc"
+status: imported
+---
+
+# Transcript
+
+0:02 Hey everyone, welcome to the designer
+0:04 show. Yeah, the unruly cat. We just
+0:07 learned Renee has an unruly cat. So,
+0:09 yes, I do. You don't want an unruly cat
+0:12 torturing me right now. Is he the kind
+0:15 that wants to take over your keyboard?
+0:18 Uh, Alex just he's just uh barking is
+0:20 what I call it.
+0:23 Cat barks. Yeah. Cool. Cool. Anyway,
+0:26 welcome to the show. Hey, Eric Norby.
+0:28 Thanks for signing up. Yeah, we also
+0:30 miss you, buddy. Yeah, Eric had a boy.
+0:33 Agreed. Eric with an A. U. Eric, thanks
+0:37 for that wonderful email you sent the
+0:38 other day. That was really um
+0:40 heartwarming. So, I appreciate that a
+0:42 lot. Eric was at the summit with uh with
+0:46 us and it was really good, really great
+0:48 to get to know. There's Cassidy.
+0:49 Cassidy, how did your daughter do in the
+0:51 uh in the volleyball tournament? I'd
+0:54 like to know
+0:55 that. That's why she wasn't there. She
+0:57 was busy doing volleyball with her
+0:59 daughter. So I get it. And Gina, hi Gina
+1:02 from Topeka.
+1:04 All right, Bruce. Haven't seen you in a
+1:07 long time. Nice to see you. Or at least
+1:09 see your name. Well, welcome everyone.
+1:12 And we got a special guest today. Uh
+1:14 meet Kenny. He is We'll see him on the
+1:17 chat, but today he gets to be live with
+1:19 John's. John is out on the road and he
+1:21 stopped by Kenny's house. And uh Kenny's
+1:25 uh he's part of our team. So, what can
+1:27 we say? Kenny, welcome to the show. Hey,
+1:29 good to be here. Good to be here. And uh
+1:33 so, uh yeah, we got some things we're
+1:34 going to share today. We uh the summit
+1:36 was a was a blast. We had an amazing
+1:38 time. I'm going to share some pictures
+1:40 here in just a second that we'll run
+1:42 through. Uh it won't take that long. And
+1:45 uh it
+1:47 was it was like a blur, of course, when
+1:50 you do those kind of things. Everything
+1:51 just it's got it's here. The
+1:54 anticipation is amazing. Then it's here
+1:56 and then it's like what where' it go?
+1:57 What happened? It was so fast. But we
+1:59 had a wonderful time. Uh we had 41
+2:02 people alto together. Let me just
+2:03 actually I'll bring up my slideshow.
+2:05 Just share. Yeah. Can I say something
+2:07 just real quick? Oh yeah. Go ahead and
+2:08 talk while I around the show. What we're
+2:11 talking about today is what we took away
+2:13 from the summit. So anybody that was
+2:16 there, if you want to put something in
+2:17 here that you'd like to share, just type
+2:19 something up and we'll Oh yeah. If
+2:20 you're at the show, right at the summit.
+2:25 Um, great. I just lost my pictures.
+2:28 Where'd they go? I had everything queued
+2:30 up so nicely. Then I think I closed my
+2:33 picture folder. Give me one second. I'll
+2:35 be right there.
+2:39 Um, Robin said she'd be here, so I'm not
+2:41 sure where she is right now. So, we'll
+2:43 give her She'll join us. I think she's
+2:45 got some things she'd like to share,
+2:46 too. So, all right. Almost back here.
+2:49 These comments are great.
+2:58 All right. What a what a good crew this
+3:00 was. That was a that was a big surprise.
+3:02 We had a bunch of new people this year
+3:04 and mixed in with some returning people
+3:06 and Yes. Awesome. Yeah. And this is uh
+3:09 this is the team that put this summit
+3:12 all together. Oh, we're not showing your
+3:14 screen if that's where you're talking.
+3:15 Oh, yeah. Could you show my screen?
+3:17 Trying to but it's Am I not queued up to
+3:20 show my screen? Let me check here.
+3:22 should be. Yeah, you're you're good. Go
+3:25 ahead. You got it. Oh, okay. Thanks.
+3:27 Sorry.
+3:28 Um, let's see. Where did I go? Hi,
+3:31 Cassidy. You've been to any dance
+3:33 competitions?
+3:36 So, there's a gang. We had a bunch of
+3:37 us. Uh, um, some of us, some were in the
+3:40 kitchen, some were teaching. So, a good
+3:42 crew. Here's everybody that was there.
+3:44 So, we had again 41 of us all together,
+3:46 plus Luna. Luna the dog. Laura brought
+3:49 her lovely dog with. It was really fun
+3:51 to have a A9. It's always that's so
+3:56 wonderful. You love you love that. So
+3:58 that was pretty cool. U let me just run
+4:00 through. I got a bunch here. There's Oh,
+4:02 speaking of Laura with the Luna right
+4:04 there for bringing Luna. And we
+4:09 got uh looks like we're getting ready
+4:11 for one of the big games that we play
+4:13 the left right center game. Uh here's
+4:15 pizza night. and uh they were getting
+4:18 their pizza ready to go and here we are.
+4:22 This is the left right center game. We
+4:24 had uh 34 people playing one night or 35
+4:27 something like that. It gets to be a a
+4:29 lot of fun as you can see with John who
+4:31 won that game. Way you go John.
+4:37 And here's the room. We're uh all all
+4:40 geared up here to get ready. We're
+4:41 starting the training. So, uh Renee and
+4:44 I are in there talking as well as
+4:46 everybody else. So, we're having a a
+4:48 good time just getting things started
+4:49 out. There we
+4:52 are. Kevin and I on the day, one of our
+4:55 afternoons or day off, we took a bike
+4:57 ride out to the beach, which was not
+4:59 that far from where we were staying. So,
+5:00 that was really nice. I'm jealous. Yeah.
+5:03 Yeah. I didn't get to the beach this
+5:04 time. Ah, but you didn't. Oh, man. That
+5:07 looks like a beautiful day out, too. It
+5:10 was in the 70s. It was in the 70s that
+5:12 day. It was gorgeous. So, and of course
+5:15 there's John and Patty and Luna. So, you
+5:18 two take such lovely pictures, John.
+5:21 John and Patty. So, very nice. Here's
+5:23 everybody again. We're doing a little
+5:25 gaming. Yeah, we did. We did have fun as
+5:27 well as worked hard. So, uh we did have
+5:30 a great time. Here's John with his
+5:32 Matterport 3 uh up scanning. That's
+5:35 Kenny. Oh, Kenny's Matterport. That's
+5:37 right. And uh so Kenny, you get out and
+5:39 do that a bunch. Do you uh do metaphors
+5:42 for people? I'm learning. We're going to
+5:44 do some here at my house. That's why
+5:45 part of whyway stopped by just to learn
+5:46 a little bit more about it. Awesome. And
+5:48 what city are you in? Got it. It's the
+5:50 Pro three is what I got. What city are
+5:52 you in? Kingsland, Georgia. All right,
+5:54 you guys. If you're near Kingsland,
+5:55 Georgia, give Kenny a call. So, um
+5:59 Kenny, how can they find you? Uh email
+6:02 kenny crockergmail. Kenny
+6:04 Crockergmail.com.
+6:06 Kenny said you didn't need any more
+6:07 work. We don't need to plug him.
+6:11 That's right. Sorry, Danny. Now you're
+6:14 gonna get
+6:16 So, here's Renee in his room. Uh Rene,
+6:19 you're recovering tags in this session,
+6:21 it looks like. So, you do have quite a
+6:23 robust tag uh uh collection in your
+6:27 chief architect. That's pretty cool. Uh
+6:30 you had a really Robin requested to go
+6:33 over tags and then she left the room.
+6:36 You had a really great group this year.
+6:37 a lot of people um moved into the more
+6:40 advanced training that you were doing.
+6:41 So, that was really fun to see. So, it's
+6:43 it's nice to see people stepping up to
+6:45 that next level, which is what you
+6:46 cover. Uh here you are hard at work
+6:49 explaining something. We don't know
+6:50 what, but uh everybody intrigued. No, I
+6:54 never before. I I point with my pinky a
+6:57 lot. That works well. That works. It's a
+7:00 nice pointer.
+7:03 And here's our friend Margaret going
+7:05 over a set of plans with Kevin.
+7:06 Margaret, if you're on the call, hi
+7:07 there. Nice to see you again. Uh, here
+7:10 we are in the room. This is Kevin doing
+7:12 a little bit of business talk. Kevin, I
+7:13 wonder you might have been talking about
+7:15 I don't know what you were talking about
+7:16 this night. I'd have to go back and look
+7:18 at the date, but you had some great
+7:20 topics that you covered. So, it's really
+7:21 cool to have you there and we got really
+7:23 good turnout in the evenings because we
+7:24 do the business sessions in the evenings
+7:28 and uh, you know, it gets to be a long
+7:30 day of of learning and just, you know,
+7:33 interacting with everybody. Uh this is
+7:36 Jolene talking about I believe she's
+7:38 talking about SEO uh in this room or
+7:41 Google or something. She she's a a
+7:43 marketing expert. So she information was
+7:48 an awesome addition to this was really
+7:50 nice having her there. It really was.
+7:53 Yeah. She's amazing. Yeah. Her husband
+7:55 Darren too. I was actually if you flip
+7:58 back there. Yeah. I'm you can barely see
+8:02 me, but I'm um kind of on the floor
+8:05 there by one of the plants and I was Oh,
+8:08 yeah. I see your hat. Yeah. And I was
+8:10 just listening in and uh and there was
+8:13 some dead air um because no one was
+8:15 asking questions and Jolene just kind of
+8:17 kicks my foot.
+8:21 What about SEO?
+8:25 Cool. Well, SEO is a weird topic not a
+8:28 lot of people know about and as you
+8:30 know, everybody's busy doing their
+8:31 thing, so why would they? Yeah. So, here
+8:33 we had our Wednesday evening
+8:35 Thanksgiving meal. Linda did turkey and
+8:38 stuffing, mashed potatoes, corn, all the
+8:40 traditional Thanksgiving thing. That's
+8:42 my sister Linda holding the foil there.
+8:44 He did all the cooking. She kind of
+8:46 managed all the cooking. There was a
+8:47 whole team that did the cooking. So, it
+8:49 was really cool. Here we are on I think
+8:52 this is the second day that we was a
+8:54 really nice day. So, we went out and
+8:55 took our group picture. That was cool.
+8:57 Here I've got, you know, kind of line up
+9:00 so we can get everybody dancing. That's
+9:02 music track to us. Yeah. Nice. And
+9:06 again, there's a whole gang and there's
+9:08 the kitchen crew working away. They did
+9:11 an amazing job. I mean, I can't thank
+9:13 them enough for everything that they do.
+9:16 You know, I've always known that I I
+9:18 like, you know, in the later hours in
+9:19 the night, I like hanging out in the
+9:21 kitchen with the kitchen crew. And then
+9:23 this year really set it home because we
+9:25 had a bunch of uh our guests were in
+9:28 there hanging out. You just hear
+9:29 laughing coming in from the kitchen.
+9:31 Linda always says she's place to be in
+9:33 in the whole place and we're all hanging
+9:35 out in there. Linda's going to said
+9:37 she's going to put up a sign next time's
+9:39 in
+9:42 you get in the kitchen and you're
+9:44 drinking wine playing cards and there
+9:46 everything comes out. So it's almost
+9:47 like a session. So it's kind of fun. And
+9:50 our whole our whole week was like that.
+9:53 Here's Judy talking to a few people.
+9:55 Mary, that was her private office. She's
+9:57 she Yes. Everyone went to Judy in in
+10:01 that space. Judy's corner. Nice. Yeah.
+10:04 Everyone kind of knows that's my table.
+10:06 They stop by regularly and I answer all
+10:09 kinds of business questions. and had
+10:13 quite a few people this time that were
+10:15 uh thinking of or either in the process
+10:17 of starting new businesses or um had
+10:20 just started. So, I was kept pretty busy
+10:23 most of the time. Yeah. And that's one
+10:26 of my lunch sessions there.
+10:29 I love Kevin and Judy Stein's
+10:32 and Judy was talking about AI in this
+10:34 one. Okay.
+10:36 What makes great design? Selling is
+10:39 easier than you think. Uh, your greatest
+10:42 challenge is you. I can help you or
+10:44 teach you. I've never seen I've never
+10:47 seen Kevin make that face
+10:49 before. That's my favorite. A good
+10:53 one. And here's Darren and Jolene in the
+10:56 kitchen. Jolene is the person that does
+10:58 all of my marketing and graphics and
+11:00 everything for me. And she's helped a
+11:01 lot of uh clients uh just really improve
+11:04 their brand and their business. She's
+11:06 all about branding and um you know even
+11:09 if you're not even if you don't need
+11:10 work you should always be working on
+11:12 your brand to improve it to just get
+11:15 make yourself stand out from the
+11:16 competition. So it's pretty cool how she
+11:19 has done such a nice job with me. I've
+11:21 worked with her for eight years. We meet
+11:22 every week and we talk about the
+11:24 strategy for the week and what we're
+11:26 going to talk do and market and all that
+11:28 stuff and it's just it's really been a
+11:30 blessing. So very cool. Can't recommend
+11:32 her enough. She's with Big Raven Media.
+11:34 big raven media.com if you want to look
+11:36 up
+11:37 Jolene. And here we are, one of our deep
+11:41 thought
+11:42 sessions over over at adult beverages.
+11:46 So, it's amazing what what we can solve
+11:49 right there at the beverage center. All
+11:52 of the problems right there, done.
+11:55 And here's when we were checking in. We
+11:57 were moving in, setting up. It rained
+11:58 like cats and dogs that day. So Wes was
+12:02 helping us out keep us dry while we're
+12:03 bringing things in the house. And
+12:04 there's Kenny and Doug supervising
+12:07 really well. Although they helped out
+12:09 too. So everybody was very helpful. Boy,
+12:12 his his introduction. We have an
+12:13 introduction day at the summit.
+12:14 Everybody kind of talks about themselves
+12:16 real quick, what they're doing, why
+12:18 they're there. And Wes's introduction
+12:21 just had us cracking up. I can't even
+12:22 remember what he said, but man, that was
+12:24 a good one. He's funny guy. And Doug,
+12:27 too. I mean, things that have gone on
+12:29 him. You are enjoying a meal together
+12:32 back in the kitchen. Linda Oh, Linda
+12:35 makes the best soup. Oh my god, it's
+12:36 just to die for. So, I think that's all
+12:38 I got. So, that's uh gives you a little
+12:40 taste of the summit and what we had
+12:42 covered. So, it was a it was an amazing
+12:45 time. But, we do have some things to
+12:47 share. Thanks for listening to that.
+12:48 That's always fun to share that. I've
+12:50 got hundreds of other pictures. If you
+12:52 want to go through them, I certainly
+12:53 could.
+12:55 Um, I do I do tend to take a lot of
+12:57 pictures, so uh, but it's always fun to
+13:00 go through and look at them and and
+13:02 couple of things really stood out for
+13:03 me. Um, Jeie, if uh, here I'll show you
+13:08 Genie real quick. Here's all the people
+13:11 that were there. This is what I put
+13:13 together. But
+13:15 Jeanie, every picture smile was there.
+13:19 Every I don't think there's a picture in
+13:22 that I've taken. And I think there she
+13:24 was in a bunch of them. Great smile. But
+13:26 then again, we had the whole group and
+13:28 everybody was everybody was amazing.
+13:31 Just it was really amazing. Um, okay.
+13:35 So, uh, moving forward, we do have a
+13:39 class coming up in Rockville, Maryland.
+13:42 I did send another email earlier in the
+13:44 week that said Rockville, MA, um, Luno,
+13:47 Maryland. And, uh, it's going to be a
+13:50 it's two two-day classes. The first two
+13:53 days will be uh introductory
+13:57 intermediate and then we kind of roll
+14:00 into intermediate advanced. So not Renee
+14:03 advanced stuff but advanced for getting
+14:07 your plans done. So I'd have to add two
+14:09 more days to get to Rene's advanced
+14:12 stuff. So I'll have to do that sometime
+14:14 Renee because I think that would be a
+14:16 big hit because some of the things you
+14:18 teach are just absolutely fantastic.
+14:20 will be meeting in the Rock Ferguson um
+14:22 training room in Rockville, Maryland. Uh
+14:25 John and I will be there May 13, 14, 15,
+14:28 and 16. Uh there are lots of hotels
+14:31 nearby that you can click on the links
+14:34 here to check them out. Uh you'd come
+14:36 into uh there's three airports that are
+14:39 all about the same distance. You'd come
+14:42 into, if you're flying in, you'd come
+14:43 into Baltimore, Washington
+14:46 International, the Ronald Reagan or
+14:48 Dallasos, and they're all about the same
+14:51 distance from this location. Yeah. So,
+14:54 whatever come whatever you get the best
+14:55 price at. So, check it out. Uh, we'd
+14:57 love to have you there. Um, it be a
+14:59 small group training, so we have a and
+15:01 we always have a great time at these
+15:03 events. you you get the sponsors will
+15:06 supply our morning and afternoon meals
+15:10 and they it's really the people at
+15:12 Ferguson are amazing. They really really
+15:14 we did this last year and they took
+15:16 great care of us. So that's pretty cool.
+15:19 Check it out. I'd love to have you
+15:20 there.
+15:22 Mike has a couple comments here. Do you
+15:23 solve challenging modeling or discover
+15:25 new something new? Um, say again, I'm
+15:29 just going over what Mike has been
+15:31 saying here about about what we cover.
+15:34 We would cover this kind of stuff in the
+15:35 second two days. If you got challenging
+15:37 modeling situations, we'd cover, you
+15:40 know, you bring them up. We'd cover that
+15:41 kind of stuff on the second. By the way,
+15:43 John, were you showing my screen when I
+15:44 did all that talking? Yes. Yes, it was.
+15:48 Thank you. Because I'm not paying
+15:50 attention to that.
+15:52 Yeah, we we cover a lot of stuff there
+15:54 and we'll even we'll stay later and help
+15:56 you with questions that you might have.
+15:58 So, you know, we're that's that's what
+16:00 we do. We love helping you guys and uh
+16:02 Chief is the tool that we like to teach
+16:04 and we use and we all know how well that
+16:05 that works for us in our business. All
+16:07 right, let's move on a little bit to
+16:09 some of the things that we u either
+16:12 learned or we'd like to share with you
+16:14 guys. So, we're going to start out with
+16:16 Mr. Kenny. Kenny, what did you uh what
+16:19 did you pick up at the summit? Uh it was
+16:22 very good. Very good. Enjoyed it. Uh I
+16:24 went two years ago and from that time to
+16:27 this time the the learning was a lot
+16:29 different. I really enjoyed it and Renee
+16:31 taught a great class and I didn't was
+16:34 not in Dan's class, but I did check out
+16:36 some videos after I left that he had
+16:37 done and time stamped all. I like what
+16:39 he's done. Um Renee taught me a lot
+16:42 about good bit about uh style pilots I
+16:44 didn't know and I did did enjoy that a
+16:46 lot and I all I can say is I I'll come
+16:49 again sometime future. You learned some
+16:52 macros too. Yes, I did. Yes, that's what
+16:55 I want to learn. He did. That is right,
+16:57 Renee. You sure did. You you actually
+16:59 made it for each person there. You did
+17:00 something for each one of us, I think.
+17:02 Really did. So nice. Thank you guys.
+17:05 Cool. Well, it was really great to have
+17:07 you there. So, and you look really good
+17:08 in a chief expert shirt. So, what a boy.
+17:12 Um, have you It's great to have you
+17:15 there. Uh, and speaking of style
+17:19 pallets, Renee, I know you covered that
+17:21 in your training there, didn't you?
+17:23 Yeah, absolutely. Talk about a little
+17:26 bit for our chief users out there. That
+17:28 Sure. Let me get my How do I get a
+17:31 screen up? Let's try that. How about
+17:33 that? Oh, John looked like he was doing
+17:35 it for me. Cool.
+17:37 um style pallets. Which one did we
+17:39 learn? We learned a couple of different
+17:40 ones. We went through two different
+17:42 style pallets that we built. So, you got
+17:44 to help us out by zooming in whenever
+17:46 you can. Yeah, no problem. Um so, we did
+17:50 a couple of style pallets and and let me
+17:53 just I'll just talk for a second.
+17:55 Um, so the power of a style palette or
+17:58 what even is a style palette for those
+18:00 that that don't know um let's just go
+18:03 all faces for a second and uh is that we
+18:06 have the ability to save uh particular
+18:09 attributes about a number of different
+18:11 um symbol types which is that we can
+18:14 save attributes for windows, interior,
+18:17 exterior doors, uh base cabinet, full
+18:20 height cabinet, wall cabinet and then
+18:23 backsplashes and rooms. We can save some
+18:25 attributes for those and you can save
+18:28 them on an individual basis where you're
+18:30 just saving some some amount of
+18:34 specificity for just a door for instance
+18:36 as one style pallet. It becomes a
+18:39 library object. It makes it so that you
+18:41 can click this library object and apply
+18:43 those attributes to that thing in your
+18:46 plan. So let's just say for instance you
+18:50 want to have a particular exterior door
+18:52 type that's that you spray occasionally,
+18:55 that you use occasionally. Where your
+18:57 template has one door type, you have a
+18:59 style pallet that's a different door
+19:01 type, and you want to be able to apply
+19:02 it with one click to existing doors or
+19:06 even a group of doors or all the doors
+19:08 in the plan. So, that's kind of the
+19:10 power of style pallets and it's um it's
+19:13 what I build a lot of tools off of is
+19:15 the style pallet tool. And so, let me
+19:17 just show you one that we did, which was
+19:20 um got a base cabinet
+19:24 drawing a base cabinet and a wall
+19:26 cabinet and we just changed some
+19:28 attributes for these and then we saved
+19:31 it. So we opened up this base cabinet,
+19:35 we set this to a drawer and maybe we
+19:39 just split it one time horizontally and
+19:42 we got a three drawer base. Right? So
+19:44 that's my three drawer base. And then
+19:46 what we ended up doing was making a full
+19:50 height cabinet match our three drawer
+19:53 base of the other cabinet. So made this
+19:56 into a drawer, split it, split it again,
+19:59 and we got a three drawer base. Now, we
+20:01 took the time to actually make sure that
+20:03 these uh drawer faces lined up from the
+20:05 base cabinet to the full height cabinet.
+20:08 On top of that, we even took a wall
+20:09 cabinet and made that, you know, a wall
+20:12 cabinet that stacks on the counter and
+20:13 has um a couple cubby drawers as well.
+20:16 And so then we get to save all of these
+20:19 objects together. And in our edit tool,
+20:22 of our mine's on the right right now is
+20:24 add object to style pallet is the tool
+20:26 that we're using. And it brings up a
+20:29 dialogue. And if you've never used the
+20:32 style palette or made a style palette
+20:33 before, you won't see this dialogue. But
+20:35 since I've made some before, it's going
+20:37 to ask me if I want to add to
+20:39 existing. This box is a way that you can
+20:42 replace. Everybody will see that all the
+20:44 time. Right. This this box is a way you
+20:46 can replace some of the attributes of an
+20:49 existing style pallet in case you wanted
+20:51 to update one. But what are the things
+20:52 you could put on a style pallet? What
+20:54 are they limited to? Um, well, I'll show
+20:57 you right now. So, we get this dialogue
+20:59 box and here's our set properties. And
+21:03 when we hit this set properties, it
+21:05 shows us all the various properties we
+21:07 can have checked. Now, out of the box,
+21:10 Chief thinks you want to have these
+21:11 items checked because they think you're
+21:13 going to want to change the look of your
+21:15 cabinet to match the look of this
+21:18 cabinet. You were going to ask
+21:20 something, Dan. Nope. You're doing good.
+21:24 Um, anyways, all we ended up doing for
+21:26 this is copy face configuration in this
+21:30 case. And so then if I have a bunch of
+21:32 just default base cabinet doors in my
+21:35 plan and I want to suddenly want I want
+21:38 to make all these a three drawer base, I
+21:40 get to go find that style pallet that I
+21:42 have in my I just created. This is what
+21:44 it just added. Of course, you're going
+21:46 to want to rename it. And I get to just
+21:49 click on that in my library.
+21:52 my edit toolbar changes to our various
+21:54 painter modes where we can paint just a
+21:56 single object. Um, marquee around a
+21:59 bunch of objects, paint in room painter
+22:01 mode. So, I'm going to marquee all these
+22:03 cabinets here. And there we go. I just
+22:05 applied a three drawer base to all these
+22:06 cabinets. So, that's a quick example of
+22:09 what a style palette can do and why you
+22:11 might want it and how fast and efficient
+22:12 it can be. So, you can you can add
+22:16 doors, windows, room moldings, colors,
+22:20 flooring. Yeah, quite a bit. That's all
+22:23 part of the room uh room elements. So,
+22:25 yeah, there is quite a few things you
+22:27 can add to style pallet. And if you go
+22:29 to Chief's library, you'll find one
+22:31 under the architectural library, I
+22:33 believe, that you can look at and get
+22:34 some ideas. Yeah, it comes with a bunch
+22:36 of style or maybe No, that's in the
+22:37 bonus library. That's right. Yeah. If
+22:40 you're searching in your library and you
+22:41 start typing style pallet, you can
+22:43 always click on this right here and this
+22:46 limits to just style pallets. And then
+22:48 we can see like you said, yeah, there's
+22:50 a whole bonus library here. Full of
+22:52 style pallets. Now, these are to change
+22:54 the look and feel of your of your room.
+22:57 So, that's nice. Yeah. Yeah. I'd say go
+23:00 download those. Yeah. Go download the
+23:03 bonus library style pallets and you can
+23:05 get an example of what's in the style
+23:07 pallets and then all you got to do is
+23:08 click in a room and poof, everything in
+23:10 the room will change to whatever is in
+23:11 that style palette. So, they're very,
+23:13 very powerful, very cool. A lot of
+23:14 things you can do with them. Um, hey
+23:17 Laura. Late to the party. Where's your
+23:22 doggy? All right. Um, thanks Renee. That
+23:25 was helpful. Uh, Judy. Yeah, that was
+23:28 that was a really good session on the uh
+23:29 on the style pallets. Everybody really
+23:31 enjoyed it. That was one of the things
+23:32 that I liked most about the summit was
+23:35 the transformative growth that uh we saw
+23:38 the light bulb moments where people
+23:40 recognized something that was really uh
+23:43 something that had been in the system
+23:45 but they hadn't really made use of and
+23:47 suddenly they not only saw how to do it
+23:49 but they were thinking oh my god I could
+23:51 use this everywhere. Those moments are
+23:54 really really interesting for us. And
+23:56 then we're an environment where we can
+23:59 continue to uh to teach. If somebody
+24:02 wants to know more about it, we're all
+24:03 available to pull aside and we can
+24:06 continue to teach one-on-one, help
+24:08 somebody understand more about it. And
+24:10 while the person who's doing the primary
+24:12 instructing moves on to the next topic,
+24:14 there's, you know, a whole houseful of
+24:16 us that can break off and help out with
+24:18 the individual things. It's really
+24:20 great. Yeah. I love these light bulb
+24:22 moments. Yeah. So, Kevin, what I'll get
+24:24 We'll go back to Judy. She just stepped
+24:26 away, but uh give us a tip. Give
+24:28 everybody a tip about something that uh
+24:30 you want to share about the summit.
+24:32 Yeah. Um the uh I think I think the
+24:36 thing that I was just talking about was
+24:38 that idea that we we're there and we're
+24:42 held captive in this space for the week
+24:44 and we uh we teach all the way from
+24:46 morning till night that you can have as
+24:48 much or as little as you choose of that.
+24:51 But the the idea is you know the magic
+24:54 is in the time that we have together.
+24:56 Unlike a traditional uh unlike a
+24:59 traditional teaching environment in a
+25:01 hotel or corporate environment or
+25:03 whatever, um the teaching goes on in the
+25:06 individual moments. And we saw some I
+25:08 saw some things in particular uh where
+25:10 people came in with either a perception
+25:12 of their own abilities that really
+25:14 wasn't accurate or some insecurities or
+25:17 whatever else. And my one of my favorite
+25:19 takeaways of the whole event was um was
+25:23 that helping helping to recognize
+25:26 something and help somebody through it
+25:28 and build uh their confidence and their
+25:30 projection of their own future into
+25:32 something that went far beyond what they
+25:35 thought when they came in. I love that
+25:37 part. Yeah, that was cool. That was very
+25:38 cool. And uh you know, you're so right.
+25:41 I mean um I think the the term I like to
+25:44 use is people don't know what they don't
+25:46 know yet. So you come to these sorts of
+25:49 events and you're going to learn a lot
+25:50 about those things that we've spent
+25:52 years and years learning and honing our
+25:55 skills and then we get to share that
+25:57 with everybody. So that's what it's all
+25:58 about. We have these we all have we all
+26:01 have these different levels of of what
+26:03 we teach. Like Robin tends to
+26:05 concentrate more on uh zero to you know
+26:08 zero up and uh Dan of course has always
+26:12 dealt all the way from the beginner
+26:14 through the intermediate level. Uh Renee
+26:16 works at the advanced level. John works
+26:18 probably I would say intermediate
+26:20 advanced level. Um I'm I'm upper me
+26:23 intermediate uh uh level and uh and we
+26:28 can we're all available for anybody at
+26:30 any level. That's awesome. Yeah, Kevin,
+26:32 you're ready to cross over into that
+26:34 advanced world. I think you're already
+26:35 there actually. Well, um
+26:39 Judy muted. Yes. Yes. Yes. Go Judy. So,
+26:44 I have three things I want to talk
+26:46 about, and I'll try and make it quick
+26:47 because I'm sure I'm probably on some
+26:49 kind of time limit, but um one of the
+26:53 first things I want to make sure, and it
+26:54 might seem like, gosh, that's so basic,
+26:57 but not everybody is using a chatbot,
+27:01 and you should. Um I helped somebody at
+27:04 the uh summit who had never heard or
+27:07 seen of it, and it was like opening up a
+27:10 whole new world to her. Um, my favorite
+27:14 is Chat GPT. I know Kevin and Dan use
+27:18 that a lot, but others are Claude and
+27:21 Gemini and C-Pilot. And there's on and
+27:24 on and on. And I know we all use
+27:27 AI every day and all the tools,
+27:30 technology tools we're using, chatbot,
+27:34 once you start using it, it'll be your
+27:36 best friend. And I use it all day, every
+27:38 day. I hardly ever do an internet search
+27:42 anymore. I have chat GPT do it for me.
+27:46 Yeah. And it summarizes the information
+27:48 coming back.
+27:50 It'll just save you so much time. So, if
+27:53 you're not using one of those, you
+27:55 should be. So, learn about it. Um, I'm
+27:58 happy to help. If somebody wants to get
+28:01 started on those, just type those in on
+28:04 your URL line and it'll come up. Oh, you
+28:07 are. You're using it right now, Laura.
+28:09 Okay, so that's the first thing I want
+28:11 to tell everyone. Make sure you're using
+28:14 one of those chat bots. It can, you
+28:16 know, reward things for you. Check your
+28:18 wording. I put someone's contract in
+28:21 there and it found some some address
+28:23 errors or inconsistencies in it. So, you
+28:27 know, it it can really be your
+28:29 assistant, Judy. Yes. Does it check your
+28:32 spelling, too? Yeah. Cool. Why did I
+28:36 Why?
+28:37 because Lauren Lauren Lauren spelling.
+28:41 Uh, she didn't put that. She didn't
+28:43 check. Yes, I know. And you know what?
+28:46 When the thing is when you put a
+28:48 question in in a chat pot, you don't
+28:50 have to spell correctly. She could have
+28:52 put that in there and it knows what
+28:54 you're talking about. Yeah. So, it gets
+28:57 gets to know you. Really, really cool.
+29:00 Um, and I could go into I could talk all
+29:03 day about it, but I know I don't have
+29:05 all day. Dan would mute me. But the
+29:08 second thing I want to talk about um is
+29:12 um I want to get make sure I get this
+29:15 right. Um you everybody's heard the
+29:18 saying, give a man a fish and you feed
+29:21 him for a day. Teach a man to fish and
+29:23 you'll feed him for a lifetime. I'm a
+29:26 big believer in that. Huge believer in
+29:29 that. So, anyone um that is starting a
+29:33 new business, has an existing business,
+29:36 has business questions, you can always
+29:38 find a business consultant like me or
+29:41 others, but there are free resources
+29:44 that are completely amazing. One is
+29:48 called SCORE and um SCORE originally
+29:53 stood for service of retired executives.
+29:57 That's not really the case anymore. It's
+30:00 um really um executives, small business
+30:05 owners. They provide consulting for
+30:08 small businesses, no charge. And um the
+30:12 other one is small business development
+30:14 center. Each state has a small business
+30:17 development center. Um again, they have
+30:20 advisors. They
+30:21 offer um all kinds of advising,
+30:25 consulting resources and so on. SCORE
+30:29 has tons of webinars out there on every
+30:32 business topic you can imagine. So those
+30:36 two are amazing resources for
+30:38 businesses. I know this is a designer
+30:40 show, but you know um I was at the
+30:43 summit and provided a lot of business um
+30:46 information. And the one and last thing
+30:48 I want to mention is everyone who owns a
+30:51 small business should keep their eye out
+30:53 for grants. So, um, my relationship with
+30:58 the Small Business Development Center
+30:59 advisors, they notified me of a grant
+31:02 that came up about maybe about two years
+31:05 ago. They thought I should apply for it.
+31:07 So, I did. It was a $20,000 grant and it
+31:11 was only um given to like or only the
+31:14 first hundred applicants or something
+31:16 was considered. So I made sure I got my
+31:19 application in on time and I was denied.
+31:22 And I asked them what happened, why was
+31:24 I denied? And it was based on your um
+31:28 revenue had to decrease 35% between
+31:33 certain years. Well, mine didn't, but my
+31:37 um my gross profit declined. So,
+31:40 wouldn't that seem more likely that I
+31:42 should receive a grant? And I I
+31:45 explained to them the difference between
+31:48 the revenue, that's just your sales,
+31:50 what you sold, but the gross profit is
+31:53 is the difference between your sales and
+31:56 what I paid my subcontractors and what I
+31:59 paid my vendors. That had decreased 35%.
+32:03 And I made my case to them that I kept
+32:06 all these people working and employed
+32:09 and I gave them some of my revenue.
+32:11 Shouldn't I be the one receiving the
+32:13 grant? Well, they they gave it to me.
+32:17 So, there you go. Make your case. Keep
+32:20 your eye out for grants. Make your case.
+32:23 Thanks, Judy. That's great. And you can
+32:25 reach Judy and Kevin at
+32:26 designbuildexperts.com.
+32:29 Now, you can mute me. So, there was a
+32:30 question. You can mute. You can mute
+32:32 yourself. About
+32:34 a work paying for to subscribing or just
+32:39 um every one of those has a free
+32:41 version. Um chat uh GPT has a free
+32:45 version. You can pay I think most of
+32:48 them are $20 a month to get a more
+32:50 beefed up version. Some when I'm using
+32:52 the free one, I'll run into, oh, you've
+32:56 used this a lot today. you need to get
+32:58 you're going to be bumped out till 6:00
+33:00 p.m. Yeah. Well, that makes me crazy.
+33:03 So, I pay the $20. But if you're just
+33:06 using it occasionally and learning, the
+33:08 free ones are perfect. Yeah. Get started
+33:10 with it and try it. I I pay 20 bucks a
+33:12 month and it's worth a hundred times
+33:14 that. I mean, as much as I use it. So,
+33:18 absolutely. Uh check it out. See what
+33:20 you think. It really is amazing what you
+33:21 can do with it. It's here to It's here.
+33:23 It's here to stay. It's not going to go
+33:24 away. you might as embrace it and use it
+33:25 in your business to take advantage of
+33:27 it. That's my thought. That's my proc
+33:29 thought process on it. So, can I can I
+33:31 add something to Judy's about the
+33:32 executive or the the executive training
+33:35 or whatever you called it? I I think
+33:38 it's important that everybody also get a
+33:39 cheer find a cheerleader, somebody
+33:41 that's going to cheer them on, that's
+33:43 going to say you're worth what you're
+33:45 doing. You know, keep it up. You're
+33:46 doing a great job. Um and whether you
+33:51 they're not doing a great job. Help them
+33:52 understand why not. Whether you get a
+33:54 mentor through SCO score or an advisor
+33:57 through the business development center,
+33:59 both of them are great. The mentors
+34:02 through SCORE, they will follow you for
+34:05 a year or whatever you need. The
+34:07 advisors from Kansas small dis uh
+34:10 develop or I keep saying Kansas because
+34:12 that's where I'm from, small business
+34:14 development centers. They're more of a
+34:16 okay, what do you need to get up and
+34:18 going? Oh, you have this issue. Let's
+34:20 solve it. But, um, the SCORE mentors,
+34:23 they'll hang with you and make sure you
+34:25 succeed. Both of them are great
+34:27 resources. Use both of them. Cool. I
+34:30 just like to add to that, too. If you
+34:31 find a mentor, because I tried SCORE 30
+34:33 years ago, it was not a good experience
+34:36 for me. So, and I gave up on it. So, if
+34:38 you don't have a good experience right
+34:40 away, try again with somebody else. Yep.
+34:43 change change mentors, but there's tons
+34:46 of uh webinars online, tons of
+34:49 education. You're right, Dan. Switch
+34:52 your mentors if it's not working out for
+34:54 you. Yes, good good point, John. I had
+34:57 that same experience and I didn't try
+34:58 someone else. So, right. Anyway, so I
+35:01 joined a group called the Entrepreneurs
+35:02 Network. That was amazing. Anyway, find
+35:05 a group that you can be part of and that
+35:07 you'll learn from each other and that's,
+35:08 you know, that's part of what what we do
+35:10 and that's why we're here. So, all
+35:11 right. Uh my turn to share something
+35:13 real quick. Um one of the favorite
+35:15 things I learned at the summit and I
+35:17 learned this and I knew it was there but
+35:20 I learned it and I'm going to put it to
+35:21 use. I'm going to add it to my template
+35:23 actually and it's this OSHA
+35:25 presentation. I talked about it two
+35:27 weeks ago when we were um when we were
+35:31 sharing some information at the summit
+35:34 and uh in the designer show and it's
+35:38 really easy to set up and and it's if
+35:40 you go here and I assume you're showing
+35:42 my screen John thank you if you go here
+35:45 and click on this in any floor plan view
+35:48 or cross-section view you'll see this
+35:50 option for poche okay um and you can
+35:54 turn that on and what that does It's
+35:56 going to put a uh whatever color you
+35:59 want over the top of your walls or if
+36:01 you're doing a cross-section where the
+36:02 walls are cut where you're cutting
+36:04 through the cross-section. So, I I like
+36:06 it so much that um I I'm going to use
+36:08 this whenever I'm presenting with a
+36:10 client because I can switch up what it
+36:12 is that I'm that we're talking about. I
+36:14 can make the plan very simple. Uh I'm
+36:17 changing up the font so the rooms are a
+36:19 little different, bigger, the labels are
+36:20 a little smaller. just makes it easier
+36:23 to show on screen what we're talking
+36:26 about. So, uh I'm I'm creating that as a
+36:30 u a plan view and uh setting that up in
+36:33 my template. So, that's kind of cool.
+36:35 But even if you don't do that, it's just
+36:36 a matter of whatever view you're in. And
+36:38 and again, I use a view called as built
+36:41 plan. Uh makes it nice and simple. And
+36:43 then I could just go here and turn the
+36:44 porch on and boom, you're there. So,
+36:47 it's pretty cool little setting. And you
+36:48 can change the color of that to whatever
+36:49 you want. The other thing I learned real
+36:50 quickly is uh I knew this but I had to
+36:54 be reminded of it and that's part of the
+36:56 reason you come to these trainings is
+36:57 because yeah you learn things but you
+36:58 forget. Uh whenever you have a group of
+37:00 something group of windows a group of
+37:02 cabinets a group of furniture it's
+37:04 called architectural block. Whenever you
+37:06 have one of those you know it's like oh
+37:08 I have to undo that to modify anything.
+37:11 Well, no you don't because you can use
+37:13 the next button, the next button down
+37:16 here uh to get to items within the
+37:18 architectural block or the tab key tab
+37:21 key on your keyboard. That'll take you
+37:23 to items in your in your deal. So, if I
+37:25 go here and I click on the top of one of
+37:26 these uppers, hit my tab key, I can now
+37:29 get to that upper and edit it and make
+37:32 changes to it just like it's not part of
+37:34 a group. So, uh, you know, maybe I want
+37:36 to split the doors, uh, do a bunch of
+37:39 things like that. And so, you could do
+37:42 that within the the block that you've
+37:44 got specified without ungrouping it.
+37:46 Same with windows. Now, you're still
+37:48 going to have a few limitations here,
+37:50 but I can hit my tab key. Let's say I
+37:53 wanted to change the way that center
+37:55 window looks. So, if I hit my tab key,
+37:57 now I've got the center window even
+38:00 though it's mauled together. And I could
+38:02 make changes to that. So, maybe I want
+38:04 to make that a
+38:05 a hopper. Double. I'll do a double
+38:09 hopper and make the bottom one.
+38:12 I feel a rabbit joke coming on. 24. Huh?
+38:17 Felt a rabbit joke coming on with that.
+38:20 Double hopper.
+38:23 Yeah, you got it. All right. Cool. So,
+38:26 anyways, so ju that those are a couple
+38:28 of the things that I really uh uh wanted
+38:31 to share with you guys. So, uh, keep
+38:33 that in mind. You can edit a mold unit
+38:36 or grouped item. It's true with CAD,
+38:39 too. Well, with CAD is a little
+38:40 different. You're going to have a
+38:41 different icon for that. So, those are a
+38:43 couple things that I um wanted to share
+38:45 with you about the summit that actually
+38:47 I picked up on. So, yeah, I'm telling
+38:49 you, those light bulb moments, they
+38:51 never get old.
+38:53 Laura even had one. She said she's got
+38:55 it. She got it now. Laura, I love that.
+38:58 Uh, this Let me shut this John. Oh,
+39:01 Renee, you got something? Um, talking
+39:03 about light bulb moments. I call them
+39:05 aha moments, but this picture was taken.
+39:09 You know that for the people that did
+39:10 attend the summit, just know that when
+39:13 you guys left, this is us in the late
+39:15 hours. We've been cleaning this place
+39:17 all day. Yeah. And we finally sat down
+39:20 and we're just talking about our
+39:22 experiences and and this is when this
+39:25 picture was taken and we were just
+39:26 talking about our various we were
+39:28 getting messages coming in from some of
+39:30 the people in the summit that were
+39:32 sharing you know nice little successes
+39:34 already and they had just left like
+39:36 hours before and I mean we sit down and
+39:40 we just we just have a great time
+39:42 talking about the experience from our
+39:44 end as well and we're learning we had a
+39:46 good meeting the other day talking about
+39:48 you some of the things that we could
+39:50 have done better. So, uh we're always
+39:53 looking about making things better.
+39:55 That's why we're all here. Yeah, there's
+39:58 there's some bumps and bruises along the
+39:59 way with with each of these things, but
+40:01 uh you know, we we continue to try to
+40:04 morph those into the next time and try
+40:06 to do better at that. and appreciate the
+40:09 uh understanding from those of you who
+40:11 got bumped and bruised. But um but
+40:13 overall it was we had a pretty great
+40:16 response like Kenny's.
+40:19 And speaking of bumps and bruises, no
+40:21 positive thing. John,
+40:26 no, you didn't have any bumps and
+40:27 bruises. So we need some info from you,
+40:30 buddy. What did you uh what do you want
+40:32 to share? Well, I want to second what
+40:33 Kevin said before. I mean, it's just
+40:35 great to those aha moments or just
+40:39 having somebody come in at that's we had
+40:41 a few people that were really struggling
+40:43 with Chief and after spending a little
+40:45 bit of time with them one-on-one and
+40:47 looking at what they're doing and stuff
+40:49 like that, you could just see the weight
+40:51 go off their shoulders. Yeah. And I
+40:53 remember that feeling when I first
+40:54 started using Chief,
+40:56 how difficult it was to try to stick to
+40:59 a a deadline and get done what needed to
+41:01 be done and that kind of stuff. and I I
+41:03 do something and I have to go redo it,
+41:05 all that kind of stuff. Um it it's just
+41:08 great to see that happen in people's
+41:10 lives. Um yeah, we do learn from our
+41:12 bumps and bruises. We learn a lot more.
+41:15 Yep.
+41:16 Um, I did learn something on Facebook
+41:19 the other day though or was reminded and
+41:22 that is if you have a a two flight two
+41:25 flights of stairs and you need to
+41:27 manipulate one flight different than the
+41:29 other flight, whether it's a carpet
+41:31 runner or a railing or anything like
+41:32 that. If you hold the control key down
+41:35 and then select a flight of stairs, you
+41:37 can get into those things just for that
+41:38 single flight. Shift key or shift or
+41:42 control, either one work. Oh, really?
+41:45 made me wonder, Dan, if you could bring
+41:46 those windows back up again. I wonder if
+41:48 you can do the same thing with those.
+41:50 Um, instead of hitting the tab button,
+41:52 if you just hold the control or shift
+41:54 key down, John, I didn't know the
+41:55 control key worked with that. I just
+41:57 learned something new,
+42:00 you know, they probably do something
+42:02 different, you know, because the control
+42:03 key, you can select and unselect with
+42:05 stuff when you're selecting. Shift key,
+42:06 you can only select stuff. Yeah. So,
+42:09 there's my group. If I hold my control
+42:11 key down, nothing happens. Nothing
+42:14 happens on that. Well, tab control. No.
+42:19 All right. So, it is a different
+42:20 function. Yeah. It just would have been
+42:22 cool if it was the same same tool. So,
+42:25 was referring to is if you have a
+42:27 stairway and you've um you've done a
+42:31 what's called a clean break on that
+42:33 where you hit the break tool or a
+42:35 U-shaped stair or whatever. Oh, okay.
+42:37 Yeah, exactly. Um so, I'm going to break
+42:39 the line that forms this stairway by
+42:41 doing a clean break. That's this one
+42:43 right here. Complete break. Yeah,
+42:44 complete break. A complete clean break.
+42:47 There we go. Um, so now I've got really
+42:50 two sets of stairs here. Now, if I want
+42:52 to just turn off the railing on this
+42:54 step, was it the control key?
+42:57 Just that. Open the dialogue and I could
+43:00 turn the railing off on that. Um, just
+43:03 like this. And that part won't have
+43:05 railing anymore, but the rest will. So,
+43:08 oops. Get out of there. Wow. I just
+43:10 learned something new. There you go.
+43:12 See, we're always that's how we help
+43:13 that's how we um that's how we roll.
+43:15 Always learning from each other. So, but
+43:19 that is a really nice function. So, when
+43:21 you need to turn the railing off on one
+43:23 side, but not the whole both of the
+43:25 other ones, there you go. Just do a
+43:27 clean a complete break and you're good
+43:29 to go. Man, I could I could see a
+43:31 hundred circumstances right off the top
+43:33 of my head where that would be helpful.
+43:35 Yes. Or would have been helpful had I
+43:37 known it then.
+43:40 But you will from now by gully. Uh yeah,
+43:44 you can like here I could even resize
+43:46 that bottom step. So if you need to wrap
+43:48 a stairway around the wall, that's how
+43:49 you do it. You do a complete break. Then
+43:52 you can wrap that stairway so that the
+43:54 railing comes into the wall. I wish I
+43:56 could remember who shared that the other
+43:58 day on Facebook, but that you know Tim
+44:01 Tim Shrock and Joey Martin. Okay.
+44:06 I taught that in my class at the summit.
+44:07 Weren't you guys listening? No. It was
+44:10 that time that I fell asleep. I mean, I
+44:12 fell in my class, too. Yeah. Right,
+44:14 Jenny? Yeah, I've known that one for a
+44:17 long time. No, the part that the part
+44:19 that I really liked about that was the
+44:20 idea that when you've got um you know,
+44:22 three or four treads coming down uh that
+44:25 on one side the last three or four are
+44:26 exposed, so you still need a rail, but
+44:28 on the other side you still have to have
+44:30 a full continuous rail. That would come
+44:32 in really handy to just break it off at,
+44:35 you know, say two treads and let it come
+44:36 down. Right. Awesome. So Rene, you've
+44:39 been uh doing some things on the screen
+44:41 in the background there. What what you
+44:43 got something you want to show people?
+44:45 Oh, I was playing
+44:47 around here. I'll show you here. I
+44:49 thought you were preparing for some big
+44:52 thing that we're all gonna blow our
+44:53 minds. Well, so um Nicole Adair, I don't
+44:57 know how to say her name. Adair, I
+44:58 think. Yeah, she she uh we did a little
+45:02 giveaway and she won my tree and plant
+45:04 package and then she reached out and
+45:06 said, "You don't have any Douglas fur in
+45:08 your package. What the heck usees this
+45:09 thing?" And so I went and made Douglas
+45:12 fur. Um for those that don't know, my
+45:16 tree and plant package is a passion
+45:18 project for me. I really enjoy working
+45:20 in this program. And so um once you
+45:24 build it's all um what we would call
+45:27 like a nodebased. So it's generative. So
+45:30 if you look at the this top little
+45:31 section right here is that everything
+45:34 plugs into something else. And so you
+45:36 can say that these branches are always
+45:40 going to be a percentage of of length
+45:42 and radius of the trunk. So that if you
+45:46 change the size of the trunk, it changes
+45:48 the size of all of the child objects. So
+45:52 that you can just grow a tree. You can
+45:55 make a million different trees. That's
+45:57 awesome. And I have a lot of fun
+45:59 building in this software. And the
+46:01 challenge, which is really fun, like a
+46:03 puzzle, is trying to get this number
+46:04 under 10K. And yeah, surface. And so
+46:08 yeah, that's what I was playing around
+46:09 with in the background. I I know you
+46:10 don't you you tend to use uh other tools
+46:13 besides just uh just a text uh messaging
+46:16 deal, but I sent you a message yesterday
+46:18 or today saying, "Hey, I got another
+46:20 idea for your passion project." We were
+46:23 in uh we went on to Raleigh and visited
+46:25 some friends and North Carolina's full
+46:27 of trees, right? But a lot of them are
+46:28 just backing up to woods and it's just
+46:30 scrub and underbrush and and dead
+46:33 branches and leaves and boulders. And I
+46:35 was thinking there's something for your
+46:37 passion project. We need that. They're
+46:39 deciduous trees and stuff. Okay.
+46:41 Seasonal. Yeah, that'd be fun. Cuz
+46:45 everybody wants dead trees in their
+46:47 rendering. Hey, you know the the thing
+46:49 about it is it's a whole lot earthier
+46:51 than the golf course look, you know? I
+46:52 mean, it's not everybody backs up to a
+46:55 golf course. Wait, here. I think I have
+46:57 something for you, Kevin. I could be the
+46:58 You know, there you go. There you go.
+47:00 After the fire. That wasn't quite what I
+47:03 had in mind, but okay.
+47:06 Yeah, that's what it looks like when the
+47:08 fire's out. Um Yeah, I should put some
+47:11 some burn texture on there. Yeah, that'd
+47:14 be good. Oh my.
+47:17 You guys be sure to check out
+47:19 rabbitesign.net. Um I have put the thing
+47:21 up there because Renee markets all of
+47:23 those symbols he produces and um he does
+47:26 some amazing stuff. Some of the
+47:27 furniture you've been doing are just
+47:28 killer. I mean Oh, I do have some
+47:30 something I want to show. I haven't done
+47:31 a video on this yet.
+47:34 Um and it should take all two seconds if
+47:36 I figure out what I'm doing. And I did I
+47:40 do I have I have a new package that I
+47:43 finally put the listing up for on my
+47:46 website and it's just a bunch of
+47:49 um resizable easily resizable easily
+47:52 click to place
+47:54 um preconfigured showers. Oh yeah, those
+47:57 are amazing. You're showing those at the
+47:59 summit.
+48:01 I just redid all my toolbar so I don't
+48:03 know where anything is but let me just
+48:04 stick some lights in here. Why did you
+48:07 do that? Oh, you know, I like to change
+48:09 it up to see if I can make it better and
+48:12 then it's really hard to learn again.
+48:14 But yeah, all these are Let me just hide
+48:18 exterior facing walls.
+48:22 You guys will never ever guess what this
+48:23 stuff's made out of.
+48:26 Yeah, because I never use this tool ever
+48:28 for anything. Yeah,
+48:32 the cabinet tool. Yeah. But yeah, these
+48:34 are all just easily click to place
+48:37 showers and I've built every different
+48:40 shower type I could think of. Um, and
+48:43 they're easy to just
+48:46 expand and because they're just cabinets
+48:48 and they even have a little slope floor.
+48:50 They slope to a drain and because
+48:52 they're cabinets, you can lock
+48:54 particular um parts of them. So, I have
+48:56 the doors locked um versus the back side
+49:00 and the backsplashes are not locked. So,
+49:02 as you expand this, the glass stays the
+49:04 same height. Backsplashes go up. You can
+49:08 obviously come in here and change out
+49:10 and reconfigure components and change
+49:12 the width of components and stuff like
+49:14 that because it's just a cabinet. And it
+49:16 uh it just makes it really easy to um um
+49:21 to place showers and and I've even had
+49:24 projects where I don't even bother
+49:25 placing a shower. And now cuz it's just
+49:27 click to place. It's just simple. I've
+49:29 just been dropping these in um even for
+49:32 my Aselt stuff. Yeah, those are great.
+49:34 And uh I'll tie into something I
+49:36 learned. I always have contextual menus
+49:38 turned off and I have that for a very
+49:41 specific reason. I use my right click
+49:43 button a lot for movement because it
+49:46 binds things in 3D um orthogonally or
+49:49 polarly. Um but I didn't know you could
+49:52 have it click twice to display. So I'm
+49:54 trying to learn how to use the
+49:56 contextual menus now instead. So this is
+49:58 a this is a single right click. I often
+50:01 select with a right click. Another
+50:03 reason I do this is because I could have
+50:05 some tool. Notice that the wall tool is
+50:08 selected right now. Well, I can still
+50:11 select a cabinet even though the wall
+50:13 tool is active if I right click. So
+50:16 that's why I'm always right clicking
+50:18 things. So you know that function in the
+50:20 preferences where you turn that on and
+50:22 off. Yeah. at my suggestion to Jack
+50:26 Simpson back in version two, he added
+50:29 that click twice to display button for
+50:31 me. Oh, really? Okay. So, I actually got
+50:33 something done. Yeah, it's helpful to
+50:36 have this. Oh, I love that. Yeah,
+50:37 because the first time you right click
+50:39 on something, you get the menu, it's
+50:40 always in the way. Uh but sometimes you
+50:42 need it. So, it's always available in
+50:44 the second right click. Yeah. So, it
+50:46 really is a handy tool. This idea, this
+50:49 idea that Gina is bringing up here right
+50:50 now is huge.
+50:54 light bulb moments. The windows,
+50:56 cabinets and windows and anything could
+50:58 be made into something and trained into
+50:59 a symbol. So, it can be something that
+51:01 it's not. Yeah. Yeah. Yeah. Someone
+51:04 asked if if you want to make a curbless
+51:06 shower, this system just because it's
+51:08 cabinets and everything's based on some
+51:10 kind of mill work symbol or something
+51:11 like that. is is that you know this is a
+51:14 door as far as Chief's concerned and in
+51:18 this case the slope shower floor is is
+51:20 just a mill work symbol that's being
+51:21 applied as a shelf and so if I turn off
+51:25 that shelf if I set it to zero it makes
+51:28 that floor go away and then I'm just
+51:30 deleting this blank area and now I have
+51:32 a curbless shower. Very cool. So it's
+51:35 very quick to modify. Um, takes a little
+51:39 bit of, you know, playing around with
+51:40 it, but system's pretty
+51:45 cool. Sweet. Where are we? Back. Yeah, I
+51:49 forgot to turn that banner on. So, if
+51:52 you guys need help, you can call John,
+51:54 too. And drafting. You can call John and
+51:56 he might even come visit you at your
+51:58 house. If you're If you're on our way,
+52:00 I'd love to stop and say hi. There you
+52:02 go. You And that's not even your first
+52:05 stop after the summit just ended. What?
+52:08 Couple weeks ago. Yeah. And you made
+52:10 another stop, too, right? You went to
+52:12 Jill. Jill Hunter.
+52:15 What's that? Yeah, we we went to see see
+52:16 Margaret. You saw Jill.
+52:21 Yep. Stopped again. Your sisters again.
+52:25 We enjoy him. We do.
+52:29 Yep. Uh, cool. Anybody? What else? We
+52:32 got a few more minutes left. What else
+52:33 you guys got?
+52:35 Rene, you got anything else? Show the
+52:37 explain real quick. I know this is hard
+52:39 for you, but explain real quick um how
+52:42 the lighting of the backdrops work. Oh,
+52:46 I need to talk. I'm I'm I'm ready to
+52:47 come. Did one long trip today. I didn't
+52:50 ever think I'd Or not today, but this
+52:52 last fall. Never thought I'd go out of
+52:53 the country, but I'm ready to come. So,
+52:55 let's talk about it. Auckland. All
+52:57 right. Next time we'll see John with
+52:59 that fish. Yeah. Can you invite me on
+53:01 that one, too?
+53:04 And how are you going to get that van
+53:05 across the water? I'm curious. I'm gonna
+53:07 leave it here. Okay.
+53:10 Probably.
+53:12 Uh let's see. Uh your question was let's
+53:16 why do why do backdrops affect the
+53:18 rendering lighting so much versus Well,
+53:21 especially especially in X16, we have
+53:24 the ability to say that the only thing
+53:26 that we want to light our scene is a
+53:28 backdrop. And um and so something I'm
+53:31 always telling people when they want to
+53:33 learn renderings, they want to improve
+53:34 their renderings. Um I'm always saying
+53:37 that it's not really about the lighting
+53:39 settings so much as it's about the
+53:41 materials that you're using. Um
+53:45 so still trying to figure out my new
+53:47 toolbarss. There we go. Um another thing
+53:50 is
+53:51 that automatic exposure is always going
+53:54 to affect your scene based on where
+53:55 you're rebuilding your scene. So, um,
+53:58 sometimes you might have a scenario
+54:00 where it's it's not picking up its new
+54:02 exposure on the exterior because you did
+54:04 something like delete my terrain and
+54:08 it's going to rebuild the scene based on
+54:09 the exterior versus the interior. And
+54:11 so, you might have a discrepancy. That
+54:13 was another thing I learned. Now I know
+54:15 why it does that. Yeah. Because it you
+54:18 go to a different part of your plan,
+54:20 it's got needs to re because what I
+54:22 always do is I open and close something
+54:24 and that rebuilds the scene. I didn't
+54:25 know why, but it just, you know, you
+54:28 open, you go into the inside and it's
+54:29 dark. You open the window and close the
+54:32 dialogue and it fixes it. It light
+54:35 again. Now I know why. So nice. Um, so
+54:40 I'm going to go to technique options.
+54:42 And this is what you were telling me
+54:43 talking to me about was we have this
+54:46 setting in the physically based ray
+54:48 trace. We have this setting use only
+54:50 backdrop for lighting. And this will
+54:52 turn off your sun in this case. And um I
+54:57 just really like the what happens when
+55:00 we use this setting and even turn off
+55:02 all of our interior lights. And in case
+55:04 you didn't know this, interior lights um
+55:07 they cause a lot of other calculations.
+55:10 And I won't get into the details of why.
+55:12 Just know that when you the more lights
+55:14 you have on in a scene, the longer your
+55:16 rendering is going to take, the more
+55:17 it's going to be affected by that. So,
+55:20 um, I'm going to make a new light set
+55:21 real quick, just so I have all my lights
+55:23 turned off. And we can see here that I
+55:26 mean, this is this is decent enough to
+55:29 go send this out to render if we turned
+55:31 our sample rate up a little bit. And
+55:34 then on top of that, you know, we can
+55:35 just change our backdrop. If you want to
+55:37 go to some free resources online, look
+55:41 for
+55:43 HDRI. HDRI. I'm not going to even try to
+55:46 remember what that stands for. high
+55:48 dynamic range I image image. Okay. And
+55:53 then um and we get to pick up some more
+55:56 backdrops and you can right click in
+55:59 your user catalog and go to new and go
+56:01 to backdrop and import that. Just know
+56:03 that you want a spherical HDRI image.
+56:07 And so I have a collection of these. And
+56:10 when I click on the backdrop in my
+56:13 library, then my cursor changes once I
+56:17 bring it into the scene. And you notice
+56:18 my cursor changed to this kind of
+56:20 landscape cursor. That just means now
+56:22 I'm using that backdrop instead. So, and
+56:26 it can really change the overall
+56:28 lighting of your scene very quickly.
+56:30 Yeah, that makes such a huge difference.
+56:33 So, yeah, thanks for sharing that little
+56:34 tip. That's amazing. So that little tip
+56:37 is a big tip that takes a few times
+56:39 before you can really grasp it, I think.
+56:41 Yeah. Yeah. Maybe we need to talk Renee
+56:44 into doing some advanced classes on that
+56:46 kind of stuff. Huh. Yeah.
+56:50 Well, it got dark.
+56:54 So Renee, is there a way to make a light
+56:57 look like it's turned on without it
+56:59 doing anything?
+57:06 Um, not really. Sometimes it's it's just
+57:10 you look at a ceiling with can lights in
+57:12 it and stuff. It'd be nice to have them
+57:13 turned on, but if they're causing all
+57:15 this extra calculations and stuff, if
+57:17 you could just show that they were on
+57:20 instead of having,
+57:22 it could look like that if you didn't
+57:24 have bloom turned on in your view
+57:27 because all these lights are going to
+57:28 create bloom. Um, that's this setting
+57:30 right here in edit the active view. So,
+57:33 if you did a rendering where you have
+57:34 that turned off, then maybe you could
+57:37 fake emissive texture. Um, but now just
+57:41 by default, as soon as we apply
+57:43 something that is an emitter. Okay. All
+57:46 right. I got a solution for you. We
+57:49 would do this. I'm just going to drop in
+57:51 something into the ceiling. Let's see.
+57:53 We'll just throw a solid in here.
+57:58 And we'll say that this is mounted to
+58:00 the ceiling from ceiling is 0 in. And
+58:05 then we'll apply a little light texture
+58:07 to
+58:09 it. Right? And so that's affecting the
+58:12 scene clearly, right? We see all this
+58:14 light coming from it. But we could use
+58:16 our little rainbow bacon tool and edit
+58:19 this texture and in the properties under
+58:22 emissive set this to just one or
+58:26 something. or maybe a little higher than
+58:28 that, but something very low. And then
+58:31 so then it won't be affecting the scene
+58:33 so much, right? But it will look like
+58:35 it's turned on.
+58:37 Yeah, that looks nice.
+58:41 Say, Mike, you just sent me a file. I'm
+58:43 not understanding your question. Can you
+58:46 explain it a little more?
+58:48 Was it about the stairs? Yeah. He's
+58:51 wanting a a It looked to me like he was
+58:55 wanting a like a closed end stair using
+58:58 a heavier
+59:01 uh
+59:03 stringer.
+59:05 And the other one was making concrete
+59:07 stairs. So, you just make them all
+59:09 closed in and change the materials to
+59:10 concrete.
+59:14 Okay. So, so hang on. Right here. Where'
+59:18 it go? There's what he had
+59:22 done. So, what is what does he want to
+59:25 do now? So, make it a
+59:27 solid Actually, it looks like he already
+59:30 did it.
+59:32 Yeah. I don't know if he if he's looking
+59:34 for it to be solid risers or he's Yeah,
+59:38 he's looking for it to be a a timber
+59:40 frame structure, timber frame steer
+59:42 structure. So, you need to change your
+59:43 skirts and structure and uh and
+59:45 stringers to heavier timbers as opposed
+59:48 to uh you know a one by or a two by.
+59:51 Well, looks like what he did um the
+59:53 railing is off to the edge. You can
+59:55 offset the railing so it comes in the
+59:57 center if you're looking to do that by
+59:59 going also you're also not you're also
+1:00:01 not seeing any stringers if he's if he's
+1:00:03 doing open uh
+1:00:06 open. Um, so can we just turn the
+1:00:08 stringers on
+1:00:10 and then resize them? Stringers, uh,
+1:00:14 custom stringers.
+1:00:17 Want risers. We want risers though,
+1:00:19 don't we?
+1:00:22 Turn open risers
+1:00:24 off. If he wants risers.
+1:00:29 Oh, you want outboard railing, Mike? Is
+1:00:32 that what you're looking for? The
+1:00:33 railing comes down along the side. Yeah.
+1:00:35 Yeah. Then he needs just an offset in
+1:00:36 the newles. Yeah. Then we got to go open
+1:00:40 this. We go to offset under general. No,
+1:00:43 where is it again?
+1:00:46 Um
+1:00:47 Oh, his two places. It's under I just
+1:00:51 did it a second ago. Where'd it go? Um I
+1:00:53 did an offset under railing. So you
+1:00:56 could go like
+1:00:57 minus Let's just get it out there ways.
+1:01:00 So now I'm sticking I'm not too far
+1:01:02 past. Let's go minus two.
+1:01:05 Then we can extend those down by going
+1:01:08 to newles ballasters and where is that
+1:01:11 setting Renee? Well, we don't have it
+1:01:13 because it doesn't have nules posted. So
+1:01:15 instead of using ballusters, use nules,
+1:01:18 set your nules to be the profile of your
+1:01:20 ballusters and then set your spacing of
+1:01:23 the nules. So making making an open
+1:01:26 railing instead
+1:01:29 if you wanted all those ballusters to be
+1:01:31 outboard like you're going to attach all
+1:01:33 those which would be a ton of work.
+1:01:36 Um I thought we could do that right here
+1:01:38 without doing what you're talking about
+1:01:40 but um yeah the only offsets we have are
+1:01:43 in nules. So you're faking nules as so
+1:01:46 you set style to open railing. So, under
+1:01:48 railing
+1:01:49 panel, go to o uh go to open and style.
+1:01:54 Uh, open. Yep. Now, go back to new
+1:01:58 ballasters. Set spacing like 4 in
+1:02:03 under here. Yep. Okay. We need to make
+1:02:07 those. Oh, yeah. There we go. So, now it
+1:02:09 comes downward spaced new. Yep. You
+1:02:12 can't angle the bottom or anything, but
+1:02:15 um you can get it to come down like you
+1:02:17 could do that with the railing along
+1:02:18 your deck, too. But that's where it's a
+1:02:20 little bit different. The railing on the
+1:02:22 deck, I think, has both nules and the
+1:02:24 ballasters can be offset. The stairs
+1:02:26 only the um only those can be offset.
+1:02:29 So, all right, there's our question of
+1:02:31 the day. I think Mike, I hope that was
+1:02:34 helpful. If you need more help,
+1:02:37 huh? He loved it. He loved it. All
+1:02:39 right, there boy. Okay, I think we're
+1:02:41 done. Uh, check thing. This one here we
+1:02:43 got to take care of. How do you get the
+1:02:44 view to autod noiseise on our machine?
+1:02:46 We have to d noiseise manually. Um, if
+1:02:48 you're bringing forward templates on an
+1:02:50 update, meaning you're migrating um more
+1:02:54 the the likelihood is that you have old
+1:02:56 settings in there that we aren't using
+1:02:57 anymore, which means your sample rate on
+1:02:59 your default cameras is probably a
+1:03:01 thousand, which is what they used to be.
+1:03:04 We don't need them that high anymore,
+1:03:05 especially when we're just working. So,
+1:03:07 if we're just working, we only need a D
+1:03:09 noiseise like 10. Um, and then if you
+1:03:12 want a final render, then you're going
+1:03:13 to push it up to maybe 150, 200,
+1:03:15 something like that. So, for that
+1:03:18 question, which is this guy, um, I'd say
+1:03:22 make sure your camera's um, rendering
+1:03:24 technique options, sample rate is set to
+1:03:27 something like 40. Yeah, I think I think
+1:03:30 that's probably uh, one of the biggest
+1:03:32 frustrations with rendering is the
+1:03:34 sample rate. And if people knew that you
+1:03:38 can actually get workable drawings with,
+1:03:40 you know, five or 10 um before you're
+1:03:43 doing your final and even then a low
+1:03:45 much lower number, they'd be much
+1:03:47 happier at with the tools.
+1:03:50 Yeah. You have to explain what a sample
+1:03:52 rate even is.
+1:03:55 Oh, yeah. Show. Yeah. Another show.
+1:03:58 Yeah.
+1:03:59 Okay. So, are we out of time? Yeah,
+1:04:02 that's it. You are out of time. five
+1:04:04 minutes ago. Um,
+1:04:07 but we never run over ever. So, we're
+1:04:10 we're um we appreciate everybody being
+1:04:12 here. I hope this was helpful. Uh, stay
+1:04:16 with us. You know, if you have some
+1:04:17 topics you'd love to you'd like to have
+1:04:19 us explore, send me an email,
+1:04:21 dan@chiefexperts.com or any of us, uh,
+1:04:23 which you can find us. You know, we're
+1:04:25 all independent. Um, Chief Experts is
+1:04:27 what hosts and and does all of this. So,
+1:04:30 um, we're all independent businesses, so
+1:04:33 you can contact any of us to work with
+1:04:35 us in different capacities. We'd love to
+1:04:38 help you. So, thanks for being here.
+1:04:40 Thanks, Dan, for hosting us. Yeah, you
+1:04:42 Oh my god. Yeah, thank you guys, too.
+1:04:44 So, yeah, you're welcome. And thank you
+1:04:46 for being here. So, it's really fun to
+1:04:49 share with everybody. So, and you guys
+1:04:50 are amazing. Yeah, it was amazing to be
+1:04:53 with you in the summit, too. But just
+1:04:54 you guys are you guys are you're a hoot
+1:04:58 and you're fun to be with and you know
+1:05:02 you just you're just good people and
+1:05:04 that's what we're all about. We just
+1:05:05 like being around good people. So thanks
+1:05:08 again. Much appreciated. All right you
+1:05:11 guys, we'll see you all next time on the
+1:05:13 Designer Show. Bye everyone. Bye
+1:05:15 everybody. Bye.

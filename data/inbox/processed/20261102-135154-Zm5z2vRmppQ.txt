@@ -1,0 +1,1483 @@
+Title: What's New in Chief Architect X16 Plus Spin the Wheel - Designers Show #128
+URL: https://www.youtube.com/watch?v=Zm5z2vRmppQ
+Visibility: public
+
+0:01 there all right here we are we're live
+0:03 the designer show welcome everyone uh
+0:05 Dan here with our wonderful gang let me
+0:09 uh just get to the screen here you can
+0:10 see everybody's beautiful face uh good
+0:12 morning everyone good afternoon whatever
+0:14 you're wherever you are good evening I
+0:15 don't know wherever you at
+0:18 um John Tahoe man I wish Bruce is here
+0:23 you guys hi
+0:25 Bruce Bruce okay cool well welcome
+0:28 everyone uh thanks for being on the show
+0:30 today uh fun show today it's it's I
+0:34 always enjoy I always enjoy doing these
+0:37 update shows because there's
+0:40 uh updates to there's new and groovy
+0:43 things to talk about it's a kid in the
+0:44 candy store kind of a deal right who's
+0:47 here there's there's Mr Kevin good
+0:49 looking how are you hey everybody yeah
+0:52 hey I just want to call out um one of my
+0:54 students is here UMO Todd yeah one of my
+0:58 students is here you guys Todd St
+1:00 welcome back actually a pretty big he's
+1:03 really has embraced Chief and is doing
+1:05 an amazing job so welcome cool good job
+1:08 welome welcome to the club um so we're
+1:11 going over x16 features today and I
+1:15 gotta say when I first caught you know
+1:18 we're some of us are in the beta or
+1:20 maybe all of us um and when I first
+1:22 caught the change list I was like n
+1:25 wasn't all that excited boy looking at
+1:27 the list right now there's some really
+1:29 cool stuff in here there is yeah there
+1:32 is and that's what we're going to go
+1:34 through I was going to like I talked to
+1:35 you guys I was going to do the spin the
+1:36 wheel thing but that takes too much time
+1:39 you know we don't want to have to let
+1:42 let me share my screen here so um you
+1:45 know it it kind of looks like that it's
+1:47 like uh that's too much stuff let's just
+1:49 go through it and let's hit it hard and
+1:53 uh have added I got to get this screen
+1:55 out of the way so first of all just be
+1:58 aware if you're on the show page uh
+2:01 you'll see that we have our ad up for
+2:03 the um Summit for next year so check it
+2:06 out it is uh ready for you to sign up
+2:09 we've got so far nine people coming back
+2:12 from last year so that's pretty exciting
+2:14 here's our gang that we had there uh we
+2:18 had it was a wonderful time man I gotta
+2:20 tell you this it just every year it gets
+2:22 better and better and I'm really excited
+2:24 about next year because I think we're
+2:26 just really starting to gel big time
+2:27 with this stuff so um
+2:30 had some I've heard some really good
+2:32 things from people so uh about how
+2:35 they've really taken their business to
+2:37 the next level just as a result of
+2:39 hanging out with us for a week and you
+2:41 haven't told us about any of
+2:43 that I told
+2:48 Kevin yeah I guess I probably
+2:51 should I know I'm sorry this en Joy
+2:54 being too busy right so anyway um check
+2:57 it out uh we won't talk too much more
+2:59 about it right now now uh because we got
+3:00 too many updates to discuss so but it
+3:04 was fine we had a great time and next
+3:06 year it's a couple weeks later into
+3:08 March so weather should be a little
+3:10 nicer and you know we plan some time off
+3:13 for people to get out there and hang out
+3:15 so there's some distance between it and
+3:17 IBS too
+3:19 correct yes um two and a half weeks I
+3:23 think so we put a little Gap in there so
+3:26 if you're so inclined to attend IBS you
+3:28 can take a few weeks and come back to
+3:30 the deal so there you
+3:33 go all right and let's dive into this so
+3:39 uh first of
+3:41 all um if you're on the show page you'll
+3:44 see a link at the right below this video
+3:47 or this live stream where you can click
+3:49 to go to this page on Chief architect's
+3:52 website if because you won't see this
+3:55 page yet on their um on their homepage
+4:00 not the x151 the x16 all you have to do
+4:03 is put an x16 up here in the search bar
+4:06 on Chief architect's website and you'll
+4:08 find the new features and x16 page and U
+4:13 it's pretty typical they do this every
+4:14 time so you can scroll down this page a
+4:17 little video at the top it's a half hour
+4:19 video that I think Teisha did um she
+4:22 always does a nice job on those they go
+4:23 through it pretty quickly so we're going
+4:25 to dive in a little bit deeper than that
+4:28 um it's good l list and there's some of
+4:31 the stuff is really obvious what they've
+4:33 added so they've done some nice things
+4:36 so check this out they always do a nice
+4:38 job putting the stuff together and looks
+4:41 like know they've even added little
+4:42 features little videos below these
+4:44 things so this will be a place for for
+4:46 you to come and find out a little bit
+4:48 more but we're going to cover some of
+4:50 the highlights here today the other
+4:51 thing you could do is right below this
+4:53 first item you'll see a new features
+4:55 list here this is the PDF that I've
+4:58 linked to um that you can open and it
+5:01 looks just like this so here's your list
+5:04 of items um in X6 it's four pages long
+5:09 um I've seen some of these come through
+5:11 with a lot more pages so seems like each
+5:15 version they're kind of tightening
+5:16 things up you kind of see that guys I
+5:19 mean of course we won't get in the piss
+5:21 and moan session right now um as we
+5:24 always do when we get together they
+5:26 didn't do this and they didn't do that
+5:28 but they did a lot of good things so
+5:30 that's what we're going to focus on here
+5:32 today and they also do a lot of things
+5:34 that they don't list little bug fixes
+5:37 little enhancements um you yeah in our
+5:40 beta group um it's fun to try to find
+5:43 those little fixes and then we note you
+5:46 know what they did and it's they're tiny
+5:48 little things but exactly what it feels
+5:50 like is tightening it up exactly and um
+5:54 as I was going through this list kind of
+5:57 you know researching every piece that
+5:59 they've list listed here I was Finding
+6:01 lots of those little fixes that you're
+6:02 talking about so um we'll see some of
+6:05 those as we go through this so let's
+6:06 just start from the beginning um undo
+6:09 history what is that so I'm going to
+6:11 just switch back and forth between that
+6:12 PDF and this so I got a little plan
+6:16 started here that we can do some things
+6:18 and and guys feel free to chime in
+6:19 anytime you want um under um it's under
+6:24 uh
+6:25 view you've got a little thing here
+6:27 called action history and and this is
+6:32 exactly what it says when you perform an
+6:34 action Chief is keeping a history of it
+6:37 so you can open this sidebar and as you
+6:39 do things in your plan it's going to add
+6:42 it to the list and you can just keep
+6:44 this list going and going so this is
+6:46 really becomes your undo list if you
+6:47 want to go back to a point right like
+6:50 right here so that sidebar is showing
+6:53 you what was just done right exactly so
+6:58 can I can I ask a question on that you
+6:59 can't just delete that if there was that
+7:01 one thing you wanted to delete you can't
+7:04 just delete that and keep everything
+7:06 else no I've never
+7:08 tried everything okay this just shows
+7:12 the history it cancels everything that's
+7:15 above everything that's above the thing
+7:17 you selected got it okay that makes and
+7:19 if you see if you see that you got it
+7:22 you selected something you went too far
+7:24 you can go back up and select something
+7:26 up higher and it all correct it to that
+7:29 point
+7:30 most most current at the top the oldest
+7:33 is at
+7:34 the
+7:36 so click halfway down on there Dan so
+7:40 everything above the line now is going
+7:42 to get deleted but if you click on it
+7:44 again up higher it'll restore things
+7:46 that are below it oh that's actually
+7:49 really cool okay oh so noticed I've
+7:53 noticed some things take a little longer
+7:56 than than others well you know you think
+7:59 about how works it probably puts all
+8:00 those in your memory and it has to go
+8:02 search through the memory of each of
+8:04 those I don't know how it works but
+8:06 based on past experience the uh thing
+8:10 about this when you save and close your
+8:12 plan the list goes away you know it
+8:15 doesn't stay there forever it's only
+8:16 there while you're working on your plan
+8:19 so that's the action history list and uh
+8:23 it works so that's kind of cool to see
+8:26 so let me just ask you guys a question
+8:28 you said if if you go to a spot on the
+8:30 list you delete everything above it
+8:33 delete it just undo delete it UND
+8:35 everything above it just un the undo
+8:38 function Z yeah okay you can't pick a
+8:41 single item to undo and not have it
+8:44 affect everything that happened
+8:46 afterwards that makes sense so so when I
+8:49 click this and I hit undo am I undoing
+8:52 just that item no no no you're undoing
+8:55 that and everything newer than that no
+8:57 the when you click you are
+9:00 performing that undo
+9:02 action but you can't so it gives you a
+9:04 preview of what it's doing what it's
+9:06 going to do if you keep going you can't
+9:08 just undo the electrical connection you
+9:10 have to undo everything that's that
+9:12 happened after that electrical
+9:14 connection above it so it's everything
+9:16 above it let's try let's try something
+9:19 select that what you have and then hit
+9:20 redo and see if it'll just go up
+9:24 one okay
+9:27 yeah oh there you go not anything other
+9:30 than selecting it I know it's like it's
+9:32 not no it's redoing it's going up the
+9:34 stock because you can watch it happening
+9:36 on the uh in the drawing yeah well
+9:40 that's effectively doing exactly what we
+9:42 just said we probably couldn't do right
+9:44 because it's it's taking the actions for
+9:46 each of those steps and redoing them on
+9:48 top of the action that was removed yeah
+9:51 that's cool I didn't know to do that
+9:53 Ethan keep quiet
+9:56 Ethan yeah this isn't what what was it
+9:59 not a pissing morning morning session
+10:04 yeah morning session is next Tuesday at
+10:08 4day at 4 I think if we go back to all
+10:12 aund however many of these sessions
+10:14 we've done that's the first time that
+10:16 one of our visitors has been called on
+10:19 the
+10:21 carpet but it's Ethan we can call
+10:24 it so all right let's move on here um uh
+10:30 layer painter customization so what is
+10:33 the layer painter you might ask um I
+10:36 have that on my toolbar usually I don't
+10:37 have I'm still using the chief standard
+10:39 toolbar right now layer painter is under
+10:42 Tools layer setting layer painter and it
+10:44 is what it says it is so what you could
+10:46 do is you can select a layer and paint
+10:50 it onto other items in your plan now in
+10:54 X15 we had um none of this stuff okay
+10:59 this this is not in this dialogue in X15
+11:02 all you could do is pick a layer in this
+11:04 version now you can not only pick a
+11:06 layer but you can add a layer change a
+11:08 layer do whatever you want to the layer
+11:11 and then once you select it you know if
+11:13 I want to put something on a framing
+11:15 layer I could click okay and then just
+11:17 paint things and that's going to put it
+11:19 on that framing layer so that's what
+11:22 that does um it's really a nice tool
+11:25 again I usually add those to my custom
+11:28 toolbar give a great use case it just
+11:30 came up the other day is um got fixtures
+11:33 all kinds of fixtures and then someone
+11:36 wants to make a plumbing uh connection
+11:38 plan so they use the layer painter to
+11:41 paint just those fixtures that are
+11:42 supposed to be on some kind of unique
+11:45 Plumbing fixture
+11:47 only sprayed the P fixtures they needed
+11:49 on that plumbing plant some place where
+11:51 I use that um sometime what place where
+11:54 I use that layer painter tools quite a
+11:56 bit in fact let me change mine to my
+11:58 toolbar so I actually have those tools
+12:00 on my custom know I'm not like Renee I
+12:02 keep my custom tool bar pretty simple um
+12:05 that's about all I ever add to a toolbar
+12:08 um layer Hider layer painter layer ey
+12:11 dropper so when I draw a cadline that
+12:15 I'm dimensioning to and I want that to
+12:16 be on the same layer as the dimension
+12:20 I'm going to go layer eyedropper pick my
+12:22 Dimension and I'm going to paint it onto
+12:24 that line so now that line is part of my
+12:27 Dimensions so because I've painted it on
+12:29 there so that's just what Renee was
+12:31 talking about too so oh that's cool yeah
+12:34 very nice
+12:36 tool all right so that's that's nice to
+12:39 be able to um customize what it is
+12:43 you're going to spray on something it's
+12:44 kind of like a material picker pick a
+12:46 material you're G to spray it on things
+12:48 or click it onto things I
+12:51 guess all right next item was Auto
+12:54 numbering for construction lines you
+12:56 guys use construction lines y these
+12:58 things yeah numbers this is pretty cool
+13:01 what they've done so what you could do
+13:04 is you go to
+13:06 um let's
+13:08 see line is your construction line
+13:13 option right here you can double click
+13:15 on that or you could go to the layer
+13:17 icon and you can then um
+13:21 Define so you want to Define your rules
+13:24 so this is pretty cool see they come
+13:25 with three rules already you could add
+13:27 more if you want but you'll want want to
+13:30 um we want to do what we want
+13:33 to go
+13:36 and uh you could change those the
+13:40 verticals to ABC change what you want to
+13:42 do is include in automatic
+13:44 ordering that's what we want to do and
+13:46 then call outs check that as automatic
+13:49 as well wonder why it doesn't they I'm
+13:51 surprised they didn't set up actually
+13:53 this is my template so maybe M set up
+13:55 automatic for that Chief waser did you
+13:58 use Chief's
+13:59 template I don't know if the one that
+14:01 comes with Chief if they've set it up
+14:03 automatic or not but anyway so you have
+14:06 to set those two settings to make it
+14:07 automatic so then when you add more of
+14:11 these okay there's four but if I decide
+14:13 no I'm going to put this one over here
+14:15 now it's going to rumber them
+14:17 automatically and same up and down that
+14:19 might be your ABCs going up and down and
+14:22 uh oops I do have to be straight to work
+14:26 there's see I didn't change the rule
+14:29 that should be a letter you didn't
+14:31 change the rule in there yet no not yet
+14:33 so so that's how that works and then
+14:37 when you bring that up in a like a
+14:40 cross-section that's what's pretty cool
+14:42 about these things so when we do our
+14:43 cross-sections through here we're going
+14:45 to see our construction lines wear those
+14:47 cross-sections so that cor correlates to
+14:49 the floor PL and it can be a little bit
+14:52 confusing when the construction lines
+14:54 extend past the screen image because
+14:56 they will um the the uh call outs will
+14:59 end up at the top and bottom of the
+15:01 screen or lay over the top of your
+15:03 drawing which is crazy but it's actually
+15:05 cool because you can always see the
+15:07 label no matter what you're doing and as
+15:09 you pan or uh Zoom then um then they
+15:14 they take their rightful positions where
+15:16 they belong yeah yeah you guys use these
+15:20 a lot I don't use them a lot when I them
+15:23 yeah when I need them they're really
+15:25 nice now that they're automatically
+15:27 labeled that'll be even extra nice
+15:29 okay so this is an interior design
+15:31 question I don't use them why would I
+15:33 use
+15:34 them um how do you use them so uh
+15:38 oftentimes when I'm talking to a builder
+15:40 or if I'm talking to a client and we're
+15:43 looking at the screen and they say move
+15:45 that door and I go what door and it's in
+15:49 between grid line One and Two and A and
+15:51 B okay you can you can reference
+15:54 positions on your drawing to someone
+15:56 you're communicating with very easily
+15:59 just uh it's sort of like playing
+16:00 Battleship when you were a kid you know
+16:01 you could just reference the position
+16:03 that's a
+16:06 great I also use it to note bearing
+16:08 lines to my engineer just makes it
+16:11 really easy quick and simple so part of
+16:14 it depends on the complexity of your
+16:16 plan if you got a super duper Simple
+16:18 Plan no big deal but so in this kind of
+16:21 a case you know you you would you could
+16:23 take an elevation of that and say yep
+16:25 we're going to move that door between a
+16:26 and
+16:27 b in that elevation view you could set
+16:31 up different standards for elevation
+16:32 than plan although I'm not sure that
+16:34 you'd want to and then um the you can
+16:38 also set up standards for diagonal lines
+16:40 um so you can do new rule sets for
+16:42 diagonal lines too isn't it just to 45
+16:44 degrees no it's multiple different
+16:46 degrees really
+16:49 okay cool Robin got removed I don't know
+16:52 why she didn't like our answer huh got
+16:55 put in
+16:56 timeout sorry I didn't even hear it I
+16:58 had internet issue
+17:00 so yeah so I didn't hear your answer but
+17:03 I'll go back and listen later all right
+17:06 okay uh next up on our list was capture
+17:10 view to clipboard this is kind of like
+17:12 okay well why would you want to do that
+17:14 but um under the it's under the tool
+17:19 let's see no actually it's not even on
+17:20 any pull down I couldn't find it 3D menu
+17:23 Isn't it huh it's in the 3D menu Isn't
+17:26 it or no capture the screen uh if it is
+17:29 I I didn't see it no it's I have it on
+17:32 my toolbars yeah you have to add it to
+17:34 your toolbar um it's uh if you wanted to
+17:38 add it your toolbar you would go to um
+17:41 tools um toolbars and hotkeys customiz
+17:46 hotkeys and toolbars then you're
+17:49 searching for
+17:51 um just a second Norman this is the
+17:54 answer to your question go ahead
+17:56 Dan and then I would add that to my
+17:59 toolbar pull that up hot I'm in hot Keys
+18:03 wrong place sorry tools toolbar hot keys
+18:06 and I want to customize
+18:08 toolbars and now I would search for um
+18:12 capture and then I would pull this up
+18:14 onto my toolbar my custom toolbar right
+18:17 on top of the icons and there it is so
+18:19 now it's on my toolbar so now when I
+18:21 click that so I can have things
+18:23 highlighted on my screen I could do this
+18:26 and do that and the thing that's
+18:28 different than other screen captures is
+18:30 you're only capturing the actual screen
+18:33 of the drawing you're not capturing all
+18:34 the icons and everything else on your
+18:36 screen yeah and if you have stuff
+18:38 highlighted you're capturing that you
+18:40 want to go paste that in the email or a
+18:42 word doc um so I could just go to my
+18:46 email now and paste that screen capture
+18:50 right into there and there you go so I
+18:53 do find it funny that it includes the XY
+18:56 indicator it sure does well guess if
+18:59 you're looking at the plan maybe you
+19:00 want to know it's part of that um as a
+19:04 point of reference I Know Dan in a
+19:05 previous uh communication you said um
+19:09 different than the way the mac and the
+19:10 PC work by default the Mac does do this
+19:13 by default uh I have no idea about PC I
+19:17 it just captures the screen not the
+19:18 whole icons and everything well you can
+19:20 do it either way yes but
+19:23 yeah so can you try something for me I
+19:26 haven't had a chance to try this yet can
+19:27 you open up a open up a dialogue for
+19:29 something click on a wall or something
+19:31 and open the dialogue and see if that
+19:32 screen capture is still available no
+19:34 because I won't be able to click on it
+19:35 when there's a dialogue
+19:37 open I can't click on that icon manual
+19:41 yeah need something for that so that's
+19:43 where you're gonna use your snag it or
+19:45 your print screen icon you got the print
+19:48 screen on your keyboard you could click
+19:49 and that'll capture the whole screen
+19:51 print screen or Windows shift s yeah
+19:55 yeah um all right reset save let's move
+19:59 on to the next thing
+20:01 uh I want to make one comment to Norman
+20:03 Norman when you put a new icon when you
+20:06 grab an icon and you put on your toolbar
+20:08 you want to make sure you put it on top
+20:09 of another tool another tool icon
+20:12 otherwise you're going to create a
+20:13 separate toolbar and you have all these
+20:15 little separate toolbars so put it on
+20:17 top of something and that way you'll
+20:19 have it in one big block of tools yes so
+20:21 look you know you see the dots in front
+20:23 of these different toolbars so when you
+20:26 set icons on top of icons it adds the to
+20:28 that same toolbar that it's called the
+20:31 block of tools whatever it not only adds
+20:33 it it not only adds it to the same place
+20:35 or same toolbar it adds it following the
+20:38 icon that you clicked on so it's immed
+20:40 it's positioned uh in that toolbar at
+20:44 that point that you clicked in it and um
+20:46 you don't need to only customize your
+20:49 custom toolbars you can customize any
+20:51 toolbar yes yes you can take things out
+20:53 that you never use and then what you can
+20:56 also do is if you've created a little
+20:57 toolbar and you want it to to be on
+20:59 different PL different views that you
+21:01 work with for CAD details floor plans
+21:03 3DS layout Pages you can turn those on
+21:07 and off on those different kinds of
+21:09 views so that's under the toolbar
+21:12 customization toolbar that's what this
+21:14 whole chart's all about and as long as
+21:17 we're still on that topic until I shut
+21:18 up the um uh is if you are uh space
+21:24 constrained like like me you work
+21:26 primarily on a MacBook or on a notebook
+21:29 of some sort then you can set up
+21:31 different tool configurations based on
+21:34 the type of work that you're currently
+21:35 doing and swap between those and that's
+21:37 where that little chart comes in that
+21:39 Dan just showed because something might
+21:41 be relevant to um you know three or four
+21:44 of your different configurations but not
+21:46 the rest so you can tell it this toolbar
+21:48 appears here but not there so so uh and
+21:52 then wouldn't it be nice if someone had
+21:54 ever made a suggestion that if you
+21:56 switch to your electrical save plan View
+21:58 it switched to an electrical toolbar
+22:00 configuration wouldn't that be nice but
+22:02 come on everyone here go make that
+22:04 suggestion right now please okay all
+22:07 right
+22:10 cool notice I didn't say anything badly
+22:13 because I've that's a good suggestion
+22:16 let's go everybody go vote on that one
+22:18 um so when you right click on any icon
+22:21 you can go to the toolbar configurations
+22:23 and here they are so if you customize
+22:25 your toolbars you can take a
+22:26 configuration and you can copy it and
+22:29 then customize that one so you could
+22:31 basically have a whole bunch of
+22:33 different toolbars that you could switch
+22:35 between and yes it would be nice if you
+22:37 could tie that into your plan view so
+22:40 that when you switch to a layer when you
+22:42 switch to an electrical view it's brings
+22:44 up all your electrical items that's a
+22:46 really great idea Renee everybody get on
+22:48 that wayel um okay we only got an hour
+22:52 we got to keep moving here guys um reset
+22:55 save plan view have you ever gone to a
+22:57 layout page and double clicked on your
+22:58 view to open it and forgot that that was
+23:01 it on layout page and you switch it
+23:03 around like this and you go oh oh dang
+23:05 it now I have to go redo it on my layout
+23:07 page I haven't done that since yesterday
+23:11 but um but now under the uh reset saved
+23:15 camera view it's under the 3D menu it's
+23:18 under view Direction and it says restore
+23:20 original view it'll set it back to where
+23:23 it was before you made all those
+23:26 movements it's a good one so I like that
+23:28 one yeah because I do that all the time
+23:30 just
+23:31 like you could do that next 15 too if
+23:34 you didn't save the
+23:36 camera after you did
+23:38 it did it really not save that position
+23:41 it wouldn't save that position it would
+23:42 not even update on a
+23:45 layout I'd never experienced that um I
+23:48 guess I never upate on a layout until
+23:49 you saved it I thought once I moved it I
+23:52 was done um what it used to be that's
+23:55 way it used to be okay um any anyway
+23:58 that one's a nice little one uh reset
+24:01 resize or that reset your safe camera
+24:04 views um concentric resize if you have
+24:09 something that you need to resize
+24:11 concentrically Chief has added that icon
+24:14 on the edit toolbar now that's nice
+24:16 because we always had to go click other
+24:19 you had to click on this one and then
+24:21 you had to open its dialogue and but
+24:23 this allows you to click on it now I can
+24:25 just pull on it and resize it
+24:27 concentrically or can go set a jump now
+24:29 after I do that by clicking over here
+24:32 and setting the jump that I want to uh
+24:36 do for my concentric so when I do that
+24:39 click on that now it's jumping every 24
+24:42 inches so and you've got all of these
+24:46 other um actually where do they go now
+24:48 when you're changing the jump distance
+24:50 is that changing the entire plan jump
+24:53 distance so if you were to go uh
+24:55 concentrically resize a window is it
+24:57 going to jump by 12
+24:59 um it's I haven't checked that one yet
+25:01 let's go find out so if I click on a
+25:03 window and I'm grabbing this yes it's
+25:06 the same as it used to be where once you
+25:09 set that you're going to have to go back
+25:11 and reset it back to um at zero this is
+25:15 one of my suggestions that they brought
+25:18 through but I wish it was
+25:20 independent it should be independent it
+25:22 should just be part of this tool and not
+25:24 the whole Dar program and that stems
+25:27 from up here under your CAD um the
+25:30 general cad see where do they actually
+25:32 put that again preferences um that's
+25:34 right preferences I forgot um that's
+25:37 part of this right here y this jump
+25:40 distance so that's interesting it
+25:42 doesn't show 24 there did you change it
+25:44 to zero I Chang it back to zero so but
+25:48 it left it checked as concentric so um
+25:53 yeah so it's still doing it um so if I
+25:57 move that window now yeah see we're well
+26:00 that no that's not what it's supposed to
+26:01 do it's only supposed to move an edge so
+26:04 you actually have to go back in
+26:05 here you can't even turn it off here so
+26:09 now how do we go turn the damn
+26:11 concentric off it's it goes off
+26:13 automatically doesn't it it didn't stays
+26:17 attached not it's set to zero but when I
+26:20 resize that window it's still
+26:22 resizing now you got to go back to the
+26:24 edit menu yeah so now you gotta you
+26:27 actually have to go back to this one or
+26:30 maybe it's because I have that one
+26:31 selected that's probably why it's doing
+26:33 it um yeah that was my it was operator
+26:36 air so this at least this has been
+26:39 detached from this so if I'm doing it
+26:43 from here it's not keeping it locked on
+26:45 concentric what um Mike brings up
+26:48 something that I do which is will you
+26:50 concentrically resize that window again
+26:53 without a jump distance no okay set it
+26:56 to zero
+26:58 um so so hold your c key no just hold
+27:02 your c key in this instance is
+27:05 fine C or
+27:08 comma and let go of the c or comma and
+27:12 then hit tab or
+27:14 enter oh while you're
+27:18 dragging and if you can hold your left
+27:21 foot
+27:21 up right finger does that tab or enter
+27:27 so so start concentrically resizing
+27:31 this all right okay now let go of the
+27:33 concentric but don't let go of there you
+27:35 go and then I have po checked and then
+27:39 set this to six inches now we've resized
+27:42 the whole window now you've completely
+27:44 forgotten why you were resizing the
+27:46 window but you got it resized yeah I do
+27:50 I do the same thing Mike
+27:52 does okay um let's move
+27:55 on uh
+28:00 delete Dimension tool okay so you that's
+28:03 such a favorite of mine yeah um this
+28:06 little icon right here um that will
+28:09 delete all your dimensions for this plan
+28:11 view that you're on right now um if you
+28:14 have Auto Dimensions turned on it's
+28:16 going to turn it off for all of your
+28:17 views all of your plan views it's like
+28:21 what why all of them why not just the
+28:23 one I'm on okay now I'm P now I'm
+28:26 complaining a it but anyway so I'm gonna
+28:28 have to click yes and now I don't have
+28:30 any auto dimensioning going on I'll have
+28:32 to reset that uh which is fine but the
+28:35 other way to do that that we you know
+28:38 that I've always talked for years is the
+28:40 uh is the uh highlight any ruler icon
+28:44 and draw mark key and then hit delete
+28:46 same kind of deal but now we have an
+28:48 icon to delete all our Dimensions yeah
+28:51 it's really great for if you're just
+28:52 working through some templating or
+28:54 working through setting up Dimension
+28:56 defaults it's very helpful
+28:58 and does it delete does it delete all
+29:00 Dimensions or just those that are
+29:02 current currently shown currently
+29:04 visible uh just plan view they'll still
+29:07 be there for your other plan views so if
+29:09 I have Dimensions here so if I have
+29:12 Dimensions here in this plan View and
+29:15 and I um go back to this plan View and I
+29:18 hit delete Dimensions it um it will only
+29:21 delete the dimensions for that blind
+29:24 view even if they're Auto Dimensions
+29:26 because you made a comment that if they
+29:27 were Auto Dimensions it deletes
+29:29 everything all your drawings did it
+29:31 delete all of them well you said that
+29:35 comment okay so I got some on my half
+29:37 inch oh that's because these are on the
+29:39 same layer probably let's go to my
+29:41 electrical plan and add some and now
+29:44 let's go delete these go back to that
+29:49 okay yeah just the plan view you're on
+29:51 okay the way I have my template setup
+29:52 these are all using the same
+29:55 layer so that's that's why that did that
+29:58 that uh okay the uh um convert polyline
+30:03 to terrain curb or wall That's the
+30:07 uh that's one of their tools that
+30:10 they've added so if you draw a line
+30:12 somewhere and you make it an arc
+30:15 whatever make whatever you want um you
+30:17 can convert that now using the magic one
+30:20 tool convert
+30:21 tool and you can convert that to
+30:24 whatever you want now notice they've
+30:26 changed this dialogue of fair amount so
+30:28 it's more srly pulley and I would assume
+30:31 that because they're going to add more
+30:32 things to it but we have our whole train
+30:34 you know it is nice to kind of you know
+30:36 broken it down a little better but I
+30:39 could make that a train wall or train
+30:41 curb um and have it follow the terrain I
+30:45 haven't played with the terrain wall
+30:47 thing much have you done that ter will
+30:48 you do it I'll show you a trick on this
+30:50 that I like okay do the terrain oh sure
+30:54 I did the terrain curb okay now
+30:59 um convert this back to plain
+31:04 polyline
+31:05 okay we go back here and we click on
+31:08 this tool and we're going to select
+31:10 plain poly they got rid of the yeah the
+31:12 icon that switches it to plain polyline
+31:15 now you have to just go in here and
+31:16 click okay and now it's a plain polyline
+31:19 again so press okay so here's what I
+31:21 like notice now it's a square right it's
+31:24 a rectangle yep so you can take a single
+31:27 line make a really organic shape and if
+31:30 you needed it to be a closed rectangle
+31:33 of some size you could convert it to a
+31:35 Terrain wall and convert it back that's
+31:37 what this is the same kind of a deal so
+31:41 yeah so you could once it's converted I
+31:43 mean then so if you needed to model
+31:45 something that was you know a solid that
+31:48 was an edge like that this is a really
+31:50 fast way of doing
+31:52 it or you could use it do what it's
+31:55 supposed to do which is make a Terrain
+31:56 curb yeah
+31:59 but again I haven't played with the
+32:00 terrain wall function that much so but
+32:03 that's a really great idea if you're you
+32:05 know if you're taking a line and you're
+32:07 making it you know you're breaking it
+32:09 and you're doing all sorts of crazy
+32:11 stuff with it again I'm just holding my
+32:13 right Mouse button down to bend it like
+32:15 this and I convert that to a a wall or a
+32:19 curb going to make it into a
+32:22 box Ian make the make the width huge or
+32:25 something yeah I could make the width
+32:27 bigger if I want to and now if that's
+32:31 the shape I need it to be for something
+32:33 else in my plan um now I just make it
+32:35 back into a plain line or you could even
+32:38 convert it to a solid right from here I
+32:40 mean that's cool yeah true I could
+32:42 convert it to any of the things that are
+32:44 highlighted there but there you go so
+32:47 that's pretty cool
+32:50 yeah did anybody else catch that
+32:53 technical term that Dan just created
+32:56 yeah did besides me I'm glad Norman P
+32:59 pulled that
+33:00 up scly poy yeah scly
+33:05 poy that's like my term that's like my
+33:08 term for refreshing the
+33:11 3D you gotta jiggle
+33:14 something says where's the clipboard
+33:16 things are sent to that's your systems
+33:18 clipboard yes Mac OS or PC that's your
+33:23 system hey what's this key stroke to see
+33:27 what's in that in that hierarchy or list
+33:30 of things you've you've on a PC if you
+33:33 turned clipboard history on then it's
+33:36 the Windows button plus V as in Victor
+33:41 okay so whenever I wanted to reflect
+33:46 something about an angle I always had to
+33:49 draw a cad line oh this is my favorite
+33:51 one this and I could hit my reflect I
+33:54 could hit copy and reflect about and
+33:57 then I could click on that line well we
+34:00 don't need the line anymore so Chief has
+34:02 made it so that they're going to snap to
+34:04 that corner so I could hit copy and now
+34:07 I could hit reflect now I could just
+34:09 click on that corner and I get my
+34:11 reflect without drawing that line so it
+34:13 saves me a step that's kind of cool if
+34:16 you're doing that if you're doing you
+34:17 know steps on the edge of a you're doing
+34:20 steps with that you want to have
+34:24 a I'm G to snap that to the corner of my
+34:27 deck
+34:28 then I'm going to
+34:29 click copy reflect that around get to
+34:33 get on that corner come on it's really
+34:36 touchy though sometimes I might have to
+34:38 draw a line stair away from this corner
+34:41 yeah pull your stairs there you go there
+34:43 it is so there I got it so gotta get on
+34:45 the corner can I share mine real quick
+34:48 yeah go ahead G show why I love this one
+34:50 so
+34:53 much so here we go I've got a I'm in 3D
+34:57 view I like to work in 3D view a lot so
+35:01 I've got a roof plane here just a single
+35:03 roof plane and it's easy for me to copy
+35:06 reflect about pick that corner up and I
+35:09 mean you have to be a little bit precise
+35:11 with it so that's a little finicky but
+35:13 once you've got that then I can use the
+35:16 join roof planes tool and join these two
+35:19 Done Right need to be perfect right so I
+35:22 can just keep coming around this corner
+35:24 like this do that same thing make sure
+35:26 the selected Edge handle this one join
+35:29 the two roof planes
+35:31 okay that's worth the price of admission
+35:34 right there you're just building that
+35:36 roof out real fast um that's such a big
+35:40 one to me
+35:42 yeah yeah I I use reflect a lot so
+35:46 that's going to save you know just save
+35:47 me a few extra minutes I'm not having to
+35:49 draw lines but um yeah reflect is one of
+35:52 those really really nice Tools in Chief
+35:55 reflect about um on CAD boxes
+35:59 too CAD box should work on anything
+36:03 anything that's got a corner on it right
+36:06 yes it's it's fabulous it's I've been
+36:09 using that it's makes life a lot
+36:11 easier all right merge Lin Stu we're up
+36:14 to number 10 out of 50 it's like nice
+36:18 we're not going very fast uh we're gonna
+36:20 have to do another show but we're
+36:22 covering a lot of great stuff so yeah
+36:24 the fun thing I like about what we do is
+36:27 we talk about alternative ways to do
+36:30 things and use things and you know some
+36:32 reasoning why you need it and why you
+36:34 don't uh I i' really enjoy that part of
+36:37 our conversations that we have uh the
+36:40 next thing is
+36:42 um um man um merge line
+36:46 Styles and I don't know why I would ever
+36:49 use this but U maybe Renee has or one of
+36:52 you guys has a reason why say you have
+36:54 some different line Styles and you want
+36:56 to merge them into one line style uh I
+36:59 don't even know what that means well you
+37:02 can go to your CAD tools go to lines and
+37:06 there's a line style management tool
+37:09 yeah and what Chief will do is it'll you
+37:12 could click the used icon here okay and
+37:15 it'll start your list out and you can
+37:17 see the lines that you've used in your
+37:19 plan well let's say well you know what I
+37:22 just want all those to be on line style
+37:24 so I'm just going to merge those all
+37:26 together like mer merging layers so now
+37:29 those will all be the same line style
+37:31 how did it pick which one it was going
+37:33 to which one was probably on the top of
+37:36 the list so let's go look at that real
+37:38 quick so we got you can do your
+37:42 action Lines line sty management sort by
+37:47 that um I don't know that I can move
+37:50 them but yeah that was the one on the
+37:52 top of the list okay there you go yeah
+37:58 move something oh move something
+38:00 completely changed the the sword order
+38:02 you dropped it so let's try this let's
+38:05 see if I let's see if it converts it to
+38:07 the center
+38:08 line if I merge
+38:10 them yeah it did looks like it did so
+38:13 whatever's on the top of the list I want
+38:15 220 volt center
+38:19 lines go ahead I mix the water and the
+38:22 electric ones
+38:25 together yeah then water and gas would
+38:28 Gas and Electric could be a good mix I
+38:30 wish I could merge Kevin and Robin
+38:34 together you know I didn't um scary Chad
+38:39 says
+38:42 next next speak speaking of merging
+38:45 crazy things
+38:49 um uh I didn't see this on the list but
+38:52 they did add this was this an X15 the
+38:55 ability to merge layers
+38:59 uh no that yeah that's in previous
+39:01 versions it was okay that's why I didn't
+39:03 see it on the list then I guess i' never
+39:05 really noticed it before so so if you
+39:07 have things on different layers and you
+39:09 want to put them on one layer you could
+39:10 you know you could select them and merge
+39:13 them into one well that's really great
+39:14 if you happen to have made copies of the
+39:16 same thing and your lines are on the
+39:17 same and you're like oh what a mess it's
+39:20 easy way to clean up your things the
+39:21 next one's really a good one let's go on
+39:24 skip the next one and go to 12 and then
+39:25 we'll come back to 11 yeah let me do let
+39:27 me topic let me turn off all these goofy
+39:31 lines I have on my plan wait you're
+39:33 gonna mix okay
+39:34 you're okay got it so so whenever you
+39:38 type text in your plan okay no no we're
+39:41 gonna skip that one go to the next one
+39:43 and then we'll come back what finding
+39:45 plan by layer yeah because it's kind of
+39:47 in that same realm oh okay sorry um so
+39:52 if I go into my
+39:53 layers um actually I have to use the
+39:55 side panel for this I didn't see that in
+39:59 that panel um so if I go to my layers
+40:02 over here and I turn on all my tools
+40:07 unless I'm missing something I didn't
+40:09 find that item there so if I go to
+40:11 display and I search U you know look for
+40:14 the plus sign used if you yeah
+40:17 so um let's just go to my let's just do
+40:20 it like this all right let's go my names
+40:23 let's go to my walls so I've got a bunch
+40:25 of walls um walls normal where' they go
+40:28 okay so I could find all those walls on
+40:31 that layer in my plan and um which plan
+40:36 the
+40:37 floor it's select now I've just selected
+40:40 all the items on that layer if you've
+40:43 got some custom layer and you can't
+40:45 delete it and you don't know why and
+40:47 you're trying to find it and it's hidden
+40:50 inside of a cad block that's inside of a
+40:52 cad block this will find
+40:54 it that's Wonder really curious why do
+40:58 they didn't put that on this menu here
+41:01 too yeah they didn't put it in the layer
+41:03 display options yeah they must have
+41:05 forgot about it here it's only in
+41:07 Aldo yeah it's only in the right side
+41:10 panel so okay yeah I do like that one
+41:13 I'm just like Legacy CAD blocks that
+41:17 like hide these custom layers I used to
+41:19 use all the time and and it's hard to
+41:22 like Purge
+41:25 those Robin you were gonna say something
+41:27 yeah well I was just looking down and um
+41:30 we can add schedules to a library now oh
+41:32 my God now I'm really happy you're
+41:34 jumping ahead on us come on I I am I'm
+41:36 sorry I know you're a schedule freak but
+41:38 that's
+41:39 okay we'll get to that at some point yes
+41:41 that is a really cool feature that you
+41:43 can create your own custom schedules at
+41:44 the library and use them anytime you
+41:45 want yeah but converting the text to
+41:47 notes this is amazing this is f yeah so
+41:50 you could select one item or a group of
+41:52 items and you have a little icon down
+41:54 here now it's going to convert little
+41:56 magic mag wandy thing it's going to
+41:59 convert whatever text you've selected
+42:00 into a notes um that you can put on a
+42:03 notes schedule so you could pick out
+42:06 your schedule if you don't have one made
+42:08 you'd have to make it first we don't
+42:09 have the option to add a schedule here
+42:12 so if this were all my ad built notes
+42:14 and I click okay now they're all the
+42:17 same because they're all the same let me
+42:20 go add something different um and then I
+42:23 could then convert that to a note as
+42:25 well I'll do the same thing built notes
+42:27 that should be number two now and now
+42:30 unless I don't have a schedule anywhere
+42:32 so when I click on one of these notes
+42:35 it's going to allow me to now go create
+42:37 a note schedule for that item and that's
+42:40 where you can customize it that's where
+42:41 you can create your new schedule yes
+42:44 okay call it your as built notes yep so
+42:47 there's my as built note schedule now to
+42:49 go with those things and I can put this
+42:51 anywhere in a cad detail anywhere I want
+42:54 to in my plan you can change it too so
+42:57 can you go to that then and change that
+42:59 note schedule to a new schedule no it's
+43:02 not going to let you create a new
+43:04 schedule at that point you have to go
+43:05 and create the schedule name first if
+43:07 it's a new schedule yeah it won't be on
+43:11 this it won't be on this
+43:13 list oops actually
+43:16 create create a new thing but yeah
+43:19 that's the idea yeah but that's fabulous
+43:21 especially for people like I do on my
+43:23 asilt plans I write all my notes on it
+43:26 yeah and it's done it's that's great
+43:28 that's fabulous they announced this
+43:31 feature at in cordelane when we were
+43:33 there which by the way I think most of
+43:35 us are going again this year if you
+43:37 Haven sign everybody on this call will
+43:38 be there you yeah they're running out of
+43:40 seats real quick on that so if you're
+43:42 you know if you don't know about that
+43:44 event that's the event at Chief
+43:45 Architect um but they announced this and
+43:48 I remember Kevin almost jumping out of
+43:50 his seat yeah this this this is
+43:52 something I've been excited about for a
+43:53 long time because I capture all of my
+43:55 scope of work in the drawing that I'm
+43:58 presenting to the client as as
+44:00 individual comments and so this now
+44:02 allows me to create a scope of work
+44:05 effectively schedule that becomes the
+44:07 scope of work I can then turn into a
+44:09 document to give to my clients I have
+44:12 them sign off
+44:14 on very cool so see see they don't
+44:17 always do bad stuff I do things that get
+44:19 you excited too come on absolutely yeah
+44:22 so if you wanted to add that text back
+44:24 to your plan you would just open up the
+44:25 note copy it and paste it back into a
+44:27 text box um yeah or could I convert this
+44:30 back to plain old text I don't know no
+44:33 you can't no okay but I could convert my
+44:35 schedule to a pine text box well and
+44:38 well take take it back from the start
+44:40 you can also take all of those text
+44:41 boxes that you created just simply copy
+44:44 them in place and put them on a
+44:45 different uh a different uh layer and
+44:48 now you can convert that one or if you
+44:50 forgot to do that you could use action
+44:52 history to go back there you go that's
+44:55 good good one nice Renee where' It Go
+44:56 Guys guys way to
+44:58 go um this next one's huge for me
+45:00 because I keep my schedules in a cad
+45:02 detail and being get super fast find and
+45:07 plan by layers that what
+45:09 you find schedule from an object yeah so
+45:13 if I click on a window and I want to
+45:14 find my window schedule I can do that
+45:17 now by clicking this icon right here
+45:20 that's a little main little magnifying
+45:22 glass with word schedule on it and that
+45:24 will actually go on that schedule
+45:28 cool so you can have that anywhere in
+45:31 your plan doesn't matter I keep some I
+45:34 keep mine in my cad detail windows so U
+45:37 that allows me to go find it really
+45:39 quickly yeah and then I love how you can
+45:42 find things from the schedule on your
+45:44 plan so if I wanted to find that
+45:47 window I just click on it and then I
+45:50 could go here actually I could go here
+45:53 and open the dialogue for that item
+45:57 that's on the schedule or I could go
+45:59 find it in my plan by clicking this
+46:01 little magnifying glass and that will
+46:03 take me to that item or or that items in
+46:06 my plan so they really made it easy to
+46:09 switch back and forth to whatever you
+46:10 want there so I really like that a lot
+46:13 can I do a little sidebar and show a
+46:14 trick go go for
+46:17 it let
+46:19 me all right so in case anyone didn't
+46:23 know I I keep all my stuff um uh in CAD
+46:26 details all the time and you know what
+46:30 you're going to have to take it back
+46:31 from me my mouse just
+46:33 died what now my mouse just died so
+46:38 back batteries out you can remove me for
+46:41 a
+46:44 second I think we should just have a a
+46:47 reference in these sessions we just call
+46:50 the Rabbit Trail because you
+46:54 know mind if I have a little sidebar
+46:56 show you something you were not
+46:58 expecting
+47:00 yes I love how reneo said um we'll be
+47:04 back he'll be back
+47:06 um to libraries sched to libraries yep
+47:10 just like it says you can click on any
+47:12 schedule now and you'll see the little
+47:13 book icon to add that schedule to your
+47:16 library you can have unlimited schedules
+47:19 in your library different layouts
+47:20 different types that you could add to
+47:22 your plan now you can't add the same
+47:24 window schedule to your plan more than
+47:26 one once or you're going to get double
+47:28 lettering unless Renee has some magic
+47:30 trick for that well you just have to
+47:32 divide it by by floor or L you could do
+47:36 that yep you could do that but having
+47:39 that then takes because I keep all my my
+47:42 schedules and they're all separated in
+47:45 CAD details and um it'll be nicer having
+47:49 them in your schedule in your um Library
+47:52 Michael i' love for notes look at this
+47:54 huh is that brilliant or what
+47:57 cool wow that's gorgeous well done took
+48:01 a little bit of work ni job who's is
+48:04 that Michael Morrison Michael yeah wow
+48:07 very nice he's in here this is him mm2
+48:10 him yeah you need to come to our Summit
+48:12 dude um all right can I show that
+48:15 trick go for it all
+48:19 right oh we add me to
+48:24 Stage so if we just drop in a call out
+48:30 anywhere and um I'm going to put in here
+48:34 in the call out label okay I'm going to
+48:37 put in here object specific and I'm
+48:39 going to say um linked view call out
+48:44 label okay linked view call out label
+48:47 and I'm also even going to switch this
+48:49 to like a rectangle or a capsule or
+48:52 something now once I have that I can
+48:54 just kind of put it off to the side in
+48:57 our edit toolbar we can link that view
+49:00 and I'm going to link it to some CAD
+49:01 detail that I'm working on consistently
+49:04 or want access to right so I'm going to
+49:07 link it to a cad
+49:10 detail and let's see I must have gotten
+49:12 the the link name wrong because it's not
+49:15 showing up link view call out
+49:17 label link
+49:19 view link view layout page label link
+49:22 view name there it is sorry link view
+49:25 name so this is telling me what it's
+49:27 linked to and so this is a call out so
+49:30 I'm working on my plan Etc and I want to
+49:32 get back to that CAD detail very quickly
+49:34 without even have to think about going
+49:35 through my project browser and searching
+49:37 through a bunch of CAD details I can
+49:39 just double click this call out and it's
+49:41 going to take me right to that CAD
+49:42 details that's beautiful so yeah quick
+49:45 quick little tip there thank you Renee
+49:49 yeah that's a good one thanks that's a
+49:50 really good one
+49:52 cool um all right we're down to 10
+49:55 minutes nine minutes by the way you guys
+49:57 go byy Rene he's got a lot of good
+49:59 stuff I'm sorry I swear I wouldn't I
+50:02 swear I wouldn't swear so go
+50:08 by yeah check out his websites it's
+50:11 rabbit design. net right
+50:16 yes just takes me a few years to get
+50:19 some things down here um what am I doing
+50:21 here I'm back in my plan and I'm looking
+50:23 for my list where' it go here we are
+50:27 um so we're up to uh number 15 Library
+50:32 we're going to have a couple more
+50:34 shows um okay um Chief added a little
+50:38 tool called toolbar feature
+50:40 search uh which is pretty cool uh if
+50:43 because you know there's over I think
+50:46 there's over 1300 icons now there's
+50:48 really close to 1300 icons and sometimes
+50:52 you just don't know where they are what
+50:54 we could do here is we could go
+50:55 customize our toolbar and we could go to
+50:59 uh tools and find the uh which one is it
+51:03 it's customized it's just search for
+51:06 search um no that's not it what am I
+51:09 looking for to
+51:12 customize is that right toolbar uh no
+51:16 it's it's um what am I looking for yet
+51:21 it's hard to find oh toolbar thank you
+51:24 if I could spell we'd be in great shape
+51:26 tool search is what it's called yeah not
+51:28 tool tool Search tool it would have been
+51:32 nice for it to be called there it is
+51:34 tool search and we can add that to our
+51:36 toolbar I'm just going to drop it on on
+51:38 the screen
+51:39 here and there it is so I don't have
+51:42 room for it on my my toolbar um maybe I
+51:45 could but I'm not going to put up there
+51:47 right now so there it is so anytime I
+51:48 want to search for a tool what let's go
+51:50 to search for the roof tools here's all
+51:52 my roof tools okay so um all my wall
+51:56 tools you could search for walls just by
+51:58 typing in the name that's pretty cool
+52:00 this is a great one for people learning
+52:01 the software too yeah and if you if
+52:04 you're using that then here's your
+52:06 teaser can you then click on the
+52:08 something in the list and it take you to
+52:10 that functionality of that tool yeah
+52:14 yeah um so wall hatching so here it's
+52:17 selected the wall hatching tool yeah it
+52:19 takes you right to that um only if it's
+52:22 available right like wall break
+52:23 shouldn't work because we don't have a
+52:25 wall because I don't have a wall
+52:26 highlighted so if we go back to that no
+52:30 it didn't do anything so but if I
+52:32 highlight a wall and then select wall
+52:34 break then I have it available okay so
+52:38 in fact it narrowed it down to only wall
+52:41 break when I selected a wall so let me
+52:44 undo that so if I select the wall so if
+52:46 I go in here and I search wall okay and
+52:49 now it gives oh so I do have the wall
+52:51 highlighted but it is only giv me that
+52:53 but it does work yeah so they're live
+52:57 but nice nice addition to the to that
+53:00 space planning room
+53:02 boxes we're commenting on this a little
+53:04 bit before yeah if you right click on
+53:07 any icon toolbar configuration go to
+53:09 space planning configuration you're
+53:11 going to get this Chief has done some
+53:13 work on this where they take take they
+53:16 got rid of their little uh their little
+53:19 wizard thing which yeah the Wizard's
+53:21 gone yeah so we can add all these
+53:24 different they hir a new developer
+53:25 that's working on this so now we can
+53:28 break these just like any other polyline
+53:32 box which is nice so you could reshape
+53:35 things and it kind of shows you a little
+53:36 bit of where the walls will be U
+53:39 actually it does a really good job of
+53:41 showing you where the walls are going to
+53:43 be and even especially if draw it
+53:46 against your existing
+53:52 building is that what you
+53:54 meant well yeah but like when you adjust
+53:57 the bath there it's it will show how
+53:59 it's going to integrate with your
+54:00 existing wall so there I just put a
+54:03 garage in there and it's integrating it
+54:05 into the plan so when I build the walls
+54:08 so I click this little wizard icon up
+54:11 here this one the magic one that's going
+54:13 to build the walls now once you build
+54:15 them you're done you don't have any more
+54:19 access to those boxes you just replace
+54:22 those boxes with walls and I see it did
+54:25 not trim that out of there um no thought
+54:27 there was an icon to do that um that's
+54:30 just if you're just doing space planning
+54:31 only you should show that too because we
+54:34 can clip a box from another
+54:37 box U oh when
+54:40 we but I thought it kind of did that
+54:42 automatically when we overlap it clip it
+54:45 does but it say that you wanted to clip
+54:47 it going the other way and you can do
+54:50 that as well clip it so ohry get a
+54:54 little bit as it overlaps the entry you
+54:56 can choose one have it cut the other
+54:59 yeah I'm getting this that icon down
+55:01 here so that's your so that one actually
+55:05 just Clips your active one to whatever
+55:07 is overlapping it so now that one's
+55:09 shaped you see instead of it being
+55:11 square but you could choose the entry
+55:14 one and have that then clip the garage
+55:18 and the enor it's the second icon there
+55:20 yeah yeah didn't do anything oh you got
+55:23 to hover over um you know another
+55:26 another box
+55:27 then that adjacent Room box but you've
+55:30 already you've already done it so it's
+55:31 not going to work in this case let's try
+55:33 it again let's
+55:34 do office and so if I hover this and
+55:39 remove
+55:40 overlap the second one overlap adjacent
+55:43 room yeah so you choose the garage first
+55:47 and then choose the tool to overlap the
+55:49 office and now hover over the
+55:52 office no choose the garage first
+55:56 now use that tool hover click this oh
+56:00 got it we got to do it's a two action
+56:02 step okay got it that's the same as the
+56:06 uh what are those tools they call them
+56:09 again the union subtraction exactly
+56:11 those tools right here you got the two
+56:13 actions all right cool um all right um
+56:18 railing newal spacing anybody like that
+56:22 new tool what's this from Chad what's he
+56:25 asking be great if you could give dollar
+56:27 to each space for programming totals I
+56:30 think as you're as you're laying out the
+56:32 space if you could put some dollars to
+56:33 it for your
+56:37 budget or is
+56:39 that I bet your has a macro for that
+56:42 yeah that's what I thinking that sounds
+56:43 like macro territory yeah
+56:47 okay all right let's get back to our
+56:50 extended tool and I've got a little deck
+56:53 drawn on here so Chief has added the
+56:55 ability to customize where the nles are
+56:57 so one of the first things I'm going to
+56:59 do of course I'm going to click on the
+57:00 railing I'm open its dialogue I'm going
+57:02 to go to NES and balls and uncheck use
+57:06 default and turn the fill style to no
+57:08 pattern that's probably my template
+57:10 that's set up that way now I can see
+57:12 where all the NES and the U the balers
+57:14 and NES are in that railing and now when
+57:18 you click on a
+57:19 railing you'll see a new icon down here
+57:24 looks like this called move NES so when
+57:28 you click on that you can then click on
+57:31 your nles and move them around in your
+57:33 railing which is all Allelujah nice yes
+57:38 so plus I could hit um can I copy that
+57:42 one no I have to go add a new add a
+57:44 newal now I could go put more newes in
+57:46 if I wanted to and then I could put
+57:48 those wherever you want so they'll
+57:50 Dimension out nicely um just really a
+57:53 nice way to do it now what you can't do
+57:55 is have different kinds of newal that
+57:58 you put in here so you I was wondering
+58:00 if you know if I could have like
+58:03 um a situation where whoops my there
+58:09 so if I could have a situation where I
+58:11 have a beam up here and I have you know
+58:14 a tall post here and then maybe short
+58:16 nle here can't do that yet um maybe next
+58:20 version I don't know but at least we can
+58:22 move
+58:23 them you can also do it just by clicking
+58:26 your tab key there is a way to do it
+58:28 with a deck railing versus a interior
+58:30 railing and you're overlapping
+58:33 them or couldn't you just do that using
+58:37 uh a breake wall tool and specify two
+58:39 different railings railing walls I
+58:41 suppose yeah there's ways to do it I was
+58:44 just looking for a nice simple way to do
+58:46 same
+58:47 really can you just add a can you just
+58:49 add a nle randomly that's using the same
+58:52 nles you would be using in like on the
+58:54 stairs
+58:56 you mean like out the yard copy one and
+58:58 put it wherever you want it you're just
+59:00 talking about a mill work symbol just
+59:02 placing yeah but it's the railing won't
+59:06 won't change its you know spacing based
+59:08 on that right
+59:11 right you do a nice set of plans dude
+59:14 yeah very very beautiful nice yeah
+59:18 you're the
+59:22 man
+59:25 huh put a lot of um wow lot of thought a
+59:28 lot of care into your plans that's nice
+59:31 do your Builders need that much help or
+59:33 are you just doing it to be kind Mike uh
+59:36 literally does cut sheets from Chief
+59:38 that are he cuts from literally cuts
+59:42 from
+59:43 yeah wow guys we made it to
+59:49 uh 15
+59:52 uh 16 no we made it to seven
+59:56 17 we'll pick it up again next time
+59:59 we're gonna end up doing couple more
+1:00:01 shows before we leave I have a question
+1:00:04 I have a question Mike said I look like
+1:00:07 I'm in a what I can't find it a Maybach
+1:00:10 a Maybach what is that Maybach what's a
+1:00:13 my that's a gonna say something
+1:00:16 derogatory that's like a rapper's
+1:00:19 [Laughter]
+1:00:21 car mybach is uh it's a really highend
+1:00:24 is it a Ben's derivative b or not I'm
+1:00:27 not sure um it's like it's on the upper
+1:00:29 line though yeah anyway I'm in my van
+1:00:33 normally I have a background so you guys
+1:00:35 can't tell I'm in my van but I'm in my
+1:00:37 van today yeah PL old Ford Transit I've
+1:00:41 got tell I got to tell you with the
+1:00:43 protruding things and the strange angles
+1:00:45 and things I I thought it was a green
+1:00:47 screen and I thought you were in the
+1:00:48 space shuttle or in the
+1:00:52 space he's in orbit right now
+1:00:57 all right you guys check out Chief
+1:00:59 architect's website remember just search
+1:01:00 re 16 up here and they'll bring you to
+1:01:03 this page um watch the little videos
+1:01:05 I've got here they're good you'll get
+1:01:07 some good tips and then come back to our
+1:01:08 show next time and we'll give you more
+1:01:11 ways to use these tools which are even
+1:01:13 better yet so uh every time you watch a
+1:01:16 video You're G to learn something about
+1:01:18 Chief every time you hang out with us
+1:01:19 you're gonna learn something about Chief
+1:01:20 and hopefully about your business too so
+1:01:22 that's what we're all about we're here
+1:01:24 to help and uh we enjoy the heck out of
+1:01:26 helping you guys yeah we do any any
+1:01:29 other comments Rene you got any new
+1:01:31 things any sales going on that people
+1:01:32 should know about not sales right now um
+1:01:36 but just been heavily improving my my
+1:01:38 Pro Plan so that thing yeah that thing's
+1:01:41 up there um yeah check out Rene's site
+1:01:44 um rabbit
+1:01:46 design.net um people wanted to see uh
+1:01:49 like demonstrations on some macro stuff
+1:01:53 um at another session down we'd have to
+1:01:56 know what they want though yeah um John
+1:02:00 just got himself the metaport 3 camera y
+1:02:04 next week yeah he'll be letting you know
+1:02:07 about that so that'll be exciting um
+1:02:10 been looking at been talking about that
+1:02:11 for a little while now so I'm pretty
+1:02:12 excited that you got that and we'll see
+1:02:14 how you do with you know making those uh
+1:02:18 manaport models work in Chief yeah I'm
+1:02:20 excited you guys have done it so
+1:02:22 hopefully the manaport 3 models will
+1:02:24 give you better CL points than they used
+1:02:25 to
+1:02:26 that would be cool I'm going to show you
+1:02:28 a little funny one before we leave okay
+1:02:30 talking about macros we get some new
+1:02:32 capabilities and some fun things but
+1:02:34 here's an example I got a cad box here I
+1:02:38 got a note here watch
+1:02:41 this it's inside of the box it's outside
+1:02:43 of the box nice and I can reshape the
+1:02:48 Box you use that as a
+1:02:51 trigger think about
+1:02:53 that yeah I love it that's
+1:02:57 cool very
+1:02:59 cool all right so we'll see you in
+1:03:02 couple weeks and uh we continue the fun
+1:03:04 and joy of deep architect new features
+1:03:07 in
+1:03:09 x16 bye everyone everybody
+1:03:12 everyone talk to everybody soon

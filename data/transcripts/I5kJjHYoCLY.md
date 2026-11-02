@@ -1,0 +1,1661 @@
+---
+videoId: I5kJjHYoCLY
+title: Template Tuesdays #7 - Schedules
+url: "https://www.youtube.com/watch?v=I5kJjHYoCLY"
+status: imported
+---
+
+# Transcript
+
+0:02 All right. Good morning.
+0:04 Um I was really late to set up this
+0:07 template Tuesdays and that's because I'm
+0:10 feeling very under the weather today. In
+0:12 fact, I've been losing my voice.
+0:14 So, good morning.
+0:19 Uh
+0:19 and so the since this was so last
+0:22 minute, the thing I picked to kind of
+0:23 look at was
+0:25 schedules. I figured everybody could use
+0:28 some information about schedules.
+0:31 Why not?
+0:33 Um but I'm feeling really out of it. So,
+0:35 we'll see how this goes.
+0:40 Um I want to start with just talking
+0:42 about
+0:45 Let's see. How do we even get into
+0:46 schedules? Schedules are so much more
+0:49 capable than I think people are are even
+0:51 aware of in Chief Architect um because
+0:53 you can
+0:54 utilize the schedule tool in Chief to
+0:58 create calculators.
+0:59 Um I'm going to start with my just
+1:01 opening up my template to just show you
+1:03 a couple of schedules that are built
+1:05 into my template so that you can get an
+1:07 idea
+1:08 of of just how cool they can be when you
+1:10 get them set up correctly.
+1:13 First of all, I'll make a copy so we can
+1:15 mess around with this. Mess around.
+1:20 And then I'll make it so that it's not
+1:21 half of my screen. That project
+1:23 browser's huge right now.
+1:27 So, if you're in the comments,
+1:29 um I'm impressed because I didn't do any
+1:32 work to get you here.
+1:35 And so I'm going to be just talking to
+1:37 the wall this morning.
+1:39 Uh let's
+1:40 take a look at the various schedules.
+1:42 Actually, I guess I will expand my
+1:43 project browser because there's a couple
+1:45 different ways you could get to
+1:46 schedules if in fact you've built this
+1:49 into your templates. And
+1:51 which is a a really
+1:53 pretty cool thing you can do to to of
+1:55 help automate your process is dropping
+1:58 in schedules in some CAD details so that
+2:01 as soon as you open up your template
+2:04 then those schedules are already there.
+2:05 They're already being produced through
+2:07 the way that you set them up, through
+2:08 the way that you want them.
+2:10 And so that can be a pretty impactful
+2:11 thing to do.
+2:13 And so if we were in the project browser
+2:15 now and we expand and take a look at
+2:18 what's in here and in my CAD details,
+2:20 you know, there's a few different ways
+2:21 that you can organize this.
+2:25 I like to actually even drop in
+2:26 schedules in here where all I'm doing
+2:28 here when I say inactive schedule is
+2:32 that it's a schedule that's set up all
+2:33 my parameters, but in the end if I go
+2:36 open this up
+2:40 we'll see that the schedule itself
+2:44 um
+2:45 often times has
+2:47 just nothing to include in this case.
+2:49 Something got checked somehow, but for
+2:51 the most part I've got just nothing to
+2:53 include, but I do have the schedule set
+2:55 up
+2:56 so that it's there in case I want it and
+2:59 it's doing what I want it to do.
+3:01 So know that, you know, I've got a
+3:03 couple goofy little quirky ideas here,
+3:05 but that one's
+3:07 um set up so that you can just
+3:09 immediately get some things
+3:12 um
+3:13 working and set up for the use case that
+3:15 you might need to use it later. Course
+3:17 you could just drop it in your library,
+3:19 but what's nice about having it built
+3:20 into your template project is
+3:23 if you draw it in the same XY space
+3:27 so this schedule has a couple of
+3:30 um temporary points here. Then in layout
+3:34 if I have a place in layout where I have
+3:36 already sent my schedule so that when I
+3:39 start drawing that schedule's populated
+3:41 in layout then I could copy paste that
+3:45 schedule to some other sheet and then
+3:48 just relink it to something like this
+3:50 schedule and activate this schedule.
+3:53 I'll show you what I mean by this.
+3:56 Feel like I'm already going off the
+3:57 rails.
+3:58 Uh, let's see. Let's go layout and I'm
+4:01 going to pick one of these
+4:03 layouts right here.
+4:07 And we'll see on this page
+4:09 go forward a few pages. Here we go.
+4:11 Here's an example of the schedule that's
+4:13 already sent. All right, this is for
+4:15 keynotes.
+4:17 That's really easy for me to just copy
+4:18 paste this,
+4:20 bring this down,
+4:22 and then use the tools to relink it. And
+4:25 we're going to see I can get to that
+4:26 inactive schedule wall legend
+4:29 and link it. And because it's in the
+4:31 same XY, it just shows up perfectly
+4:33 exactly where I need it to be. And
+4:34 that's how simple that is.
+4:36 So, it's kind of cool to set up some
+4:38 schedules. Get it
+4:40 Take every schedule you've ever built
+4:42 and then store it in your plan and set
+4:44 it up and get it into the same XY space
+4:47 and that way you can utilize it later on
+4:49 and you can check the blank things that
+4:51 you need to include.
+4:53 Now,
+4:54 again, I got off the rails on that.
+4:56 Let's take a look at some of the
+4:57 schedules I've already built and see
+4:59 what they do. And then it does look like
+5:01 the comment section's coming in and
+5:02 that's awesome, guys. Thank you so much
+5:04 for joining me this morning.
+5:08 All right.
+5:11 Yeah, feeling a little
+5:13 Yeah, you're at it. You're at it
+5:15 plus. Thanks, Todd.
+5:18 I know. I've been really busy at the
+5:20 last couple of days.
+5:22 Um,
+5:23 okay, so
+5:27 start just by imagining a few things and
+5:30 maybe imagining a few things means that
+5:32 we're looking at, you know, some things
+5:34 that you didn't otherwise know that you
+5:35 could do in Chief.
+5:37 I'm going to actually let me shut this
+5:39 all down so we could just do a
+5:41 an example project here.
+5:44 Make a copy.
+5:47 Save
+5:48 project.
+5:58 And so, let's draw a few things out and
+6:00 see what my schedule start doing.
+6:30 So, right off the bat, I'm going to show
+6:33 you one of the most advanced schedules
+6:35 that I have, which is this automatic lot
+6:38 analysis here.
+6:39 And
+6:41 this is actually a series of schedules.
+6:43 This should really get your mind going.
+6:45 And if you if you can think about this,
+6:47 is
+6:48 now that we're picking up a lot of new
+6:51 people watching my videos that are very
+6:53 interior design focused.
+6:55 And
+6:56 and so, when you're looking at some of
+6:57 this stuff,
+6:59 and this might not be something that's
+7:00 required in your um local jurisdiction,
+7:03 think of it in this way. Think about the
+7:05 capabilities of what we're showing you,
+7:07 not necessarily um
+7:09 so strictly, you know,
+7:11 exactly what it's doing here, but what
+7:13 it's doing in terms of um conceptual
+7:16 design.
+7:18 >> [laughter]
+7:20 >> So, in this case, if we go open this up,
+7:23 this is in fact a bunch of different
+7:25 schedules meant to look like a single
+7:28 schedule. If I were to click on this, we
+7:30 could see that these are
+7:32 separate little schedules. Some of these
+7:34 are just one line item schedules.
+7:37 How do you get a one line item schedule?
+7:40 You open this up. If we're going to take
+7:42 a look in the very first column, excuse
+7:44 me, in the very first panel, general
+7:46 panel.
+7:48 I don't have the main title set to
+7:49 display.
+7:52 And so in columns and rows,
+7:55 I don't have um
+7:56 let's see, what do I have?
+7:58 Columns and rows, excuse me, attributes,
+8:01 display borders display. Yeah, I'm not
+8:03 displaying my borders.
+8:05 Right? I'm not displaying the grid
+8:06 lines.
+8:07 So I've got a polyline around the entire
+8:10 grouping of all these schedules to kind
+8:12 of make it look like one schedule, but
+8:13 I'm not displaying those borders.
+8:16 So So what you can do this where
+8:18 um
+8:19 display column headings in schedule. I
+8:21 am displaying column headings and I've
+8:24 renamed the calling at column heading.
+8:26 And we're going to show you that just a
+8:28 second. So this is just a schedule with
+8:30 one item.
+8:32 And when you do a schedule with one item
+8:35 and you choose group similar objects,
+8:38 group similar objects will group based
+8:42 on similar parameters. So if you have
+8:45 something that's just reporting one
+8:47 value and it's a similar value to
+8:49 something else, it will group it as one
+8:51 line item.
+8:52 So even though this particular schedule
+8:54 has many different rooms reporting to
+8:57 it, because we've only included one
+8:59 column, that means it's only going to
+9:01 show one output. It's not going to split
+9:03 up into a bunch of different rooms. Show
+9:05 you what I mean.
+9:07 If I copy and paste this
+9:09 over to the side here,
+9:11 let's do a few things.
+9:12 One is I'm going to turn on the display
+9:14 of the title, so we can see it, right?
+9:17 So there we go. There's our display
+9:18 title. Let's just turn on those
+9:20 attributes where we're showing
+9:23 uh border and grid lines. Let's get
+9:24 familiar with this. Make this look like
+9:26 what we're used to seeing in terms of a
+9:28 schedule.
+9:29 And then I'm going to actually take that
+9:32 column to include and I'm going to do
+9:34 what's called a reset on the name. I
+9:36 renamed this. I took this function of
+9:38 renaming. So, if I reset this, we see
+9:41 that this is actually just coming from
+9:43 some really weird name you probably need
+9:45 never seen before. And where the heck is
+9:47 that coming from? And we'll get to that.
+9:50 So, let me just press okay.
+9:54 All right. And so, now we're seeing,
+9:55 okay, this is looking a little bit more
+9:57 familiar.
+9:58 Next thing I'm going to say is what even
+10:00 is this schedule? Well, it's picking up
+10:04 um
+10:06 It's picking up from
+10:09 rooms, slabs, and some custom category.
+10:13 Custom category. Getting a little
+10:15 advanced in there.
+10:17 But we know that at least it's coming
+10:18 from it's picking up some information
+10:20 from rooms.
+10:21 So, what is it picking up?
+10:24 So, let's just uh let's open this up and
+10:27 say, "Hey,
+10:29 it's actually um doing new column to
+10:32 include." And so, I'm going to say,
+10:34 "Maybe we tick on room name." So, we can
+10:36 really see this.
+10:38 So, now we're going to bring in
+10:40 something where the output from those
+10:43 different rooms is going to be different
+10:45 because I'm going to have a room maybe
+10:46 called living room versus a room called
+10:48 bedroom. And those two are not the same.
+10:51 Because they're not the same, it will
+10:52 produce some new data, right? They will
+10:55 no longer be grouped together. See?
+10:58 So, we've got some room called
+10:59 unspecified, and we've got some room
+11:01 that's just unnamed. So, suddenly
+11:04 I got a whole new column.
+11:06 Because the data's not all the same. So,
+11:08 now this is looking more and more just
+11:10 like a regular schedule of what we're
+11:12 we're used to looking like.
+11:14 So, you can kind of delimit the values
+11:16 that are coming from these items when
+11:19 you think about structuring a schedule
+11:21 to build something like a calculator,
+11:23 which this is that's essentially what
+11:25 we're doing here.
+11:27 Is
+11:28 all I'm doing in this case is
+11:30 I'm going to
+11:32 draw on
+11:33 a just a polyline. Okay?
+11:36 In this polyline, we'll do a couple
+11:38 things.
+11:39 I'm going to open this up.
+11:42 And I'm going to get to the object
+11:44 information panel.
+11:45 This is one of the most powerful things
+11:48 you could go and learn. Cuz this is a
+11:50 way that we can get some really um
+11:52 advanced things like building some
+11:54 automation into our schedules.
+11:56 So, in object information panel, there's
+11:58 um a section here called custom fields.
+12:01 This is your opportunity to make some
+12:03 custom fields that will report not only
+12:05 to the schedule you're building to all
+12:07 schedules. So, keep that in mind.
+12:10 Now, because I'm utilizing schedules for
+12:12 a ton of different [clears throat]
+12:13 things, I need a ton of different
+12:15 schedules for the level of automation
+12:17 I'm looking for.
+12:19 I came up with a system that had a bunch
+12:21 of generic labels because anything that
+12:23 you put here lives across all schedules.
+12:27 And so, in columns to include when you
+12:30 go to build a new schedule, it will list
+12:32 everything that's here.
+12:34 Because of that, I wanted some generic
+12:37 names that could be used across
+12:40 different schedule types for different
+12:43 types of objects.
+12:45 That's getting very advanced. I want to
+12:47 kind of skip past that part. You might
+12:49 get to that point of needing that
+12:51 information later on, and then I would
+12:53 say, "Hey, let's ask about that in
+12:55 forums, etc."
+12:57 So, for the purpose of this, I'm going
+13:00 to create a new field, and I'm going to
+13:02 say um
+13:04 example area.
+13:08 Or in this case, let's just go example
+13:10 perimeter.
+13:13 Now, there's a really important
+13:15 designation here, which is this format
+13:17 as number.
+13:19 When you want to build a calculator,
+13:21 something that's accumulating values, we
+13:24 need to make sure to check this box to
+13:26 format it as a number.
+13:29 What this does mean though is that
+13:32 if what you put in the field of this
+13:35 custom field that we're putting if if
+13:37 what you put as the value is not some
+13:39 number, is not a float, it's not an
+13:41 integer, then Chief will recognize it as
+13:44 an error and it will not produce
+13:47 your output correctly. So, keep that in
+13:50 mind.
+13:51 Format as a number. Let me press okay.
+13:54 So, I'm going to take this existing
+13:56 schedule that I have now
+13:58 and I'm going to change a few things
+14:01 here.
+14:02 Let's get rid of these two
+14:04 right here.
+14:06 Right and find
+14:08 um that
+14:10 example perimeter. Put there.
+14:12 And add that in columns to include.
+14:15 The next thing that I need to make sure
+14:16 is I need to make sure that that object
+14:19 that I just created actually is being
+14:21 reported to the schedule. So,
+14:24 go ahead and get into general, uncheck a
+14:26 few things.
+14:28 And we're going to make this really
+14:29 simple is I'm going to just check
+14:30 polylines.
+14:32 Now, what would be the problem with
+14:33 this?
+14:35 Is maybe I have several different
+14:38 polylines. So, let me just copy another
+14:41 polyline over here.
+14:44 Put this one right here.
+14:45 And so, for this polyline that I want to
+14:48 report to schedule, I'm going to put
+14:50 some information in that example
+14:51 perimeter.
+14:52 In this case, I'm going to shoot choose
+14:55 that custom field, make sure I do that
+14:57 and then we're going to put some kind of
+14:58 number here.
+15:00 Now, this macro drop down is something
+15:02 I'm going to utilize here because
+15:05 it's going to let me know that there's
+15:06 some object specific stuff that I can
+15:08 get in here. And there we go. This is
+15:11 what I'm looking for. I'm looking for
+15:12 the perimeter value. This is the length
+15:14 of all the sides of that polyline.
+15:17 So, I'm going to press okay.
+15:19 I I you note something. When I did that,
+15:26 everything is
+15:27 looks pretty normal. Nothing stands out.
+15:29 If instead, I'm just going to take this
+15:31 and cut this for a second and do this.
+15:33 Look at this. See this little
+15:35 exclamation mark?
+15:37 That's letting me know this field
+15:39 expects some kind of numeric value and
+15:41 we're not producing it, all right? But,
+15:44 when I did put in parameter, it
+15:45 recognized that this is some kind of
+15:48 numeric value. So, so far we're doing
+15:50 pretty good.
+15:52 So, I've got example parameter and look
+15:54 what's happening. We don't have anything
+15:56 outputting here, right? Put that in the
+15:58 example parameter, output field value,
+16:01 press okay.
+16:03 Nothing seems to be happening.
+16:05 So, we'll take a look at a few things.
+16:07 One is, let me open up this polyline.
+16:10 Let's look in the schedule column and
+16:12 look at that.
+16:13 It says, doesn't include in schedule.
+16:16 So, I'm going to check include in
+16:17 schedule and it's auto schedule
+16:19 category, polylines, right? So, I'm
+16:21 going to do the same thing over here.
+16:24 And so, open that up.
+16:27 Put in schedule,
+16:28 etc.
+16:29 So, here's where some complexity comes
+16:32 in is all of a sudden we've got some new
+16:33 column area here. That new column is
+16:36 coming because this polyline has no
+16:38 field value in that example parameter.
+16:41 So, this is where those custom
+16:43 categories come into play.
+16:45 Which is that I actually don't want to
+16:47 include polylines. I want to include
+16:48 some custom polyline that I'm building.
+16:51 I want to include something that's very
+16:53 specific to the type of schedule that
+16:55 I'm building, all right?
+16:57 So, this is where I'm going to open up
+16:58 this polyline and I'm going to
+17:01 include as schedule as
+17:04 uncheck this and at the bottom we've got
+17:07 new custom categories.
+17:09 So, this is just going to be
+17:11 example parameter
+17:13 polyline.
+17:22 >> Okay.
+17:24 And so there we go. That just made a
+17:26 little bit of a change. Why is that?
+17:28 What was the change? Well, we lost our
+17:30 value because all of a sudden we've got
+17:31 to update this schedule.
+17:33 And so we're going to uncheck polyline
+17:35 and just as quickly as that is we should
+17:37 see in here. There we go. Example
+17:39 perimeter polyline.
+17:41 All right. This is
+17:43 starting to move forward, starting to
+17:45 look like something. So now if we had
+17:47 some new polyline based on this one and
+17:49 it's got some new shape, it's got some
+17:51 new perimeter value.
+17:53 There we go. We've got some new
+17:55 heading here.
+17:56 Now why is that? Why did it just Why
+17:59 didn't it accumulate?
+18:01 Right?
+18:02 Why did we suddenly get some new column
+18:04 from this? And so there's some new
+18:06 things we need to set up in this
+18:08 schedule if we're trying to build
+18:09 something that accumulates, okay?
+18:12 So
+18:14 in columns and rows
+18:16 for this column to include we've got
+18:20 calculate total, sum similar rows, okay?
+18:25 If we click on sum similar rows or if we
+18:27 even just hover over this, does it do
+18:28 anything? No, it doesn't. You'd have to
+18:30 check the help section. But if we click
+18:32 on sum similar rows, what happens? Look
+18:35 at that. Now we've got an accumulating
+18:38 total. So for that category, it's now
+18:41 going to add anything that's of a
+18:43 similar category, right? So we're
+18:45 That's exactly what that means.
+18:48 I think we could work on the terminology
+18:49 there to make it a little bit more clear
+18:51 that that's what that means, but here we
+18:53 go. So this think of this as like a
+18:56 subtotal. But in this case
+18:58 since I'm only accumulating one thing, I
+19:00 really only need that subtotal. It's
+19:02 becoming a total.
+19:05 But let's take a look at this one more
+19:07 time. Let's go
+19:09 What if we did calculate total?
+19:11 What if we also include that,
+19:13 this is going to do is it's going to
+19:16 give us a total um
+19:19 column, but only if we're including some
+19:21 other category. And this is kind of a
+19:23 tricky thing to know. So, like
+19:26 let's just say for instance
+19:31 I don't even mean I can't even think of
+19:32 a good thing here.
+19:34 Um I guess we're going to have to take
+19:36 some new field value. Let's add this new
+19:38 field value macro input one.
+19:42 What happens with macro input one?
+19:45 And then actually I'm not remembering
+19:47 why I'm not getting the
+19:48 row total. That's why, right there.
+19:50 Display total row. Let me take out macro
+19:52 input one.
+19:55 There. There's our row total. But we
+19:57 don't have a title that says row total.
+20:00 And so this is kind of a limitation of
+20:03 Chief Architect in this case I I believe
+20:05 is I believe you do need one more value
+20:08 to be able to get that row total
+20:12 name. Oh, you know what? I'm forgetting
+20:14 how I get a row total name.
+20:16 Display row totals, minimum rows.
+20:20 Shoot. I'm losing my mind. I don't know.
+20:23 I don't remember.
+20:25 That's okay. I want to keep moving
+20:26 forward.
+20:28 So, the next thing I want to talk about
+20:30 here is this might not be in the number
+20:33 format that you're looking for. And so
+20:35 let's just do the simple approach of it
+20:37 modifying this is just let's just say
+20:40 that we're looking for decimal inches in
+20:41 this case.
+20:43 So, what we get to do here is open this
+20:45 up one more time. And we're going to get
+20:47 into this panel number formatting.
+20:50 And so here is our example perimeter
+20:53 field and there's the preview of the
+20:54 format. So, we get to change this units.
+20:58 And so we could change this units to
+21:00 um inches in this case and we could
+21:03 change it to decimal places two and
+21:06 press okay.
+21:07 Here we go.
+21:08 457.66
+21:10 Notice it it does the conversion factor
+21:12 for us. Well, that's pretty interesting,
+21:14 right? So, okay. What if we took example
+21:17 perimeter and we changed it to foot and
+21:19 we kept that decimal places and maybe we
+21:22 can change it to five decimal places. Is
+21:25 it doing the math for us? All right.
+21:26 Well,
+21:28 there's a problem.
+21:30 What was the problem that you saw?
+21:32 Should have been pretty clear.
+21:34 It's actually not doing the conversion
+21:35 for us. It's just
+21:37 Boolean operator. It's just saying,
+21:39 "Hey, you had some fraction. I don't
+21:42 know if it's foot or inches. I'm just
+21:44 going to, you know, convert the way it
+21:46 displays. I'm not actually going to take
+21:48 that and do the division for you and
+21:50 come up with the correct value."
+21:52 So,
+21:53 keep in mind that's still inches even
+21:55 though it displays as feet. So, this is
+21:58 kind of a dangerous [clears throat]
+21:59 little thing that we just did, right?
+22:02 But, it should let you know that it does
+22:05 give you a little
+22:07 bit more in terms of function, believe
+22:09 it or not. It makes it so that you can
+22:11 do um some things that are a little bit
+22:13 out of the box because all this is doing
+22:16 is just just changing the display.
+22:19 You're in charge of handling how this
+22:21 shows up in in terms of its value. Okay?
+22:25 So,
+22:26 that means we can go do some pretty
+22:28 curious things like make this look like
+22:30 percentage.
+22:32 All right. So, let me take a look at
+22:33 what that looks like. We get in here,
+22:36 let's go look for percentage.
+22:39 Isn't this funny? Now, I can't remember
+22:41 if percentage is something that I
+22:42 created or if it was there out of the
+22:44 box. I think it's something I actually
+22:46 created.
+22:47 So, now we're getting into some really
+22:49 pretty cool and robust things in Chief
+22:51 Architect that I don't think are all
+22:53 that well documented.
+22:56 And let me let me also take a look at
+22:57 the comments here real quick.
+22:59 See if if do my job.
+23:01 Um
+23:02 When will I release X18 Pro plan? Oh,
+23:05 well, that's a good question. Uh when
+23:07 they release X18, and that's going to be
+23:10 a while. And I'm really excited for
+23:11 that. I'm really excited to show people
+23:13 what I've been working on for that cuz
+23:14 I've got some good advancements for that
+23:17 template.
+23:19 And then uh
+23:21 it's always wall that is checked,
+23:23 especially on my room schedules where
+23:25 I'm showing square footage.
+23:27 Um are you using all your macro inputs
+23:30 already, or are those for us as Pro plan
+23:32 users to use in our systems? I use them
+23:35 already. And
+23:37 and I again, I think that's kind of
+23:38 advanced and I and I want to show that
+23:41 if we've got time.
+23:42 Um which we might run out of time, so
+23:45 um schedules are a big big category for
+23:47 me cuz you can do so much with them.
+23:50 And then totaling all the numerical
+23:51 values in a row.
+23:53 Yeah, so I mean, we're totaling values
+23:55 in a row right now. Um
+23:58 and I'll show you some other examples of
+24:00 of doing those row totals. You can
+24:02 really build some pretty dynamic
+24:04 [clears throat] calculators this way, so
+24:06 um I'm going to get into preferences
+24:08 real quick and just show you that
+24:10 in preferences,
+24:12 this is tucked in here.
+24:14 It's this funny little item that most
+24:16 people don't see.
+24:18 Unit conversions.
+24:20 Maybe you dug through your preferences
+24:22 to just take a look and you've stopped
+24:23 here and you go, "Oh, okay, cool.
+24:26 I have no use for this."
+24:28 And what's really interesting about this
+24:31 is
+24:32 um I'm going to add a a category here.
+24:34 I'm going to add a a unit value.
+24:37 And so, I'm going to name this unit
+24:39 value
+24:41 farts.
+24:42 Why not?
+24:43 All right? And it's going to equate to
+24:46 some kind of length. That's going to be
+24:49 um four times inches in this case. So,
+24:52 one fart is equal to four inches. All
+24:54 right? And let me press okay.
+24:58 Now I have this as a category here. I'm
+25:00 going to press okay. I'm going to get to
+25:02 this schedule. I'm going to open up
+25:04 number formatter example parameter. I'm
+25:07 going to hit this drop-down menu. And
+25:10 look at this, it's available.
+25:12 parts Here we go.
+25:15 And so
+25:17 just as simple as that. I can convert to
+25:19 some um local metric that you might
+25:22 have, you know.
+25:24 Um I I probably should have changed this
+25:26 to some kind of volume metric
+25:28 conversion, right?
+25:30 >> [laughter]
+25:31 >> And so
+25:33 really quite a dynamic system. So, you
+25:35 can add percentage for one. You can add
+25:37 acreage for one, right? You can add any
+25:40 unit that you come up with out of your
+25:42 crazy brain.
+25:43 And have this report to that schedule
+25:46 and be accumulating.
+25:48 Um
+25:49 I want to get into what Cody was
+25:51 mentioning, which is let's talk about,
+25:53 you know, these generic name inputs that
+25:55 he's always using and and how I use
+25:57 them. And I'll do that just by getting
+25:59 to another schedule that I build out
+26:00 automatically. And
+26:02 I'm going to get into layout and scroll
+26:05 through here.
+26:06 And we'll get to a couple of the
+26:08 automatic calculators that I'm doing.
+26:10 So, let me get to my
+26:12 roof framing set up here.
+26:14 So, in roof framing, I'm actually
+26:17 building in something that automatically
+26:19 is calculating
+26:20 uh the amount of attic area, the amount
+26:22 of total NFA uh work net free area
+26:25 required for that attic area.
+26:28 Um and this is based on calculation
+26:31 method of 1/300.
+26:34 And so, this is the number of attic
+26:36 vents or um you know, ridge vent or
+26:39 combination of the two that is required
+26:42 for this roof. And it's being built
+26:44 automatically. What we mean it's being
+26:46 built automatically. Let me just tile
+26:47 this side by side. We can take a look at
+26:50 this schedule real quick. We'll get over
+26:52 to my working plan and we'll add an
+26:55 additional room and we'll see that as I
+26:57 add this additional room and finally the
+26:59 roof gets rebuilt. Look, the numbers
+27:02 changed. This is dynamically updating,
+27:04 okay?
+27:06 And so that's a pretty powerful tool.
+27:08 And all this is is just a bunch of
+27:10 accumulation totals with those units set
+27:14 to the unit that I need.
+27:16 All right? And that's it. And because
+27:18 everything here has a like parameter
+27:22 then it's doing its job. As soon as I
+27:24 draw as it soon as I draw some new roof
+27:26 plane, it's producing this.
+27:28 So if I get into my automatic
+27:31 uh lead build roof
+27:32 dialogue here
+27:34 and we get into object information, as
+27:36 we scroll through this stuff, I've got
+27:38 some kind of calculation happening in
+27:40 these, right? And here's my numbers.
+27:42 I've got some kind of calculation
+27:44 happening in in all of this.
+27:46 And this is my default roof plane.
+27:48 And so when I start drawing, it's doing
+27:50 this calculation.
+27:52 So what can you do that's similar?
+27:55 You could put some value in your
+27:56 cabinets and as soon as you started
+27:58 drawing with them, they would just be
+28:00 accumulating.
+28:01 Let's just show this.
+28:03 I'm going to double click the base
+28:04 cabinet tool
+28:06 and I'm going to get into object
+28:07 information. I'm going to use one of
+28:09 these generic fields, all right? And I'm
+28:12 just going to put the number 34. Why
+28:14 not?
+28:16 So now this is my default cabinet for
+28:18 this.
+28:19 And so let's go ahead and build a funny
+28:20 little schedule.
+28:23 Let's
+28:26 cabinet schedule and we'll just fashion
+28:28 this to do something very specific.
+28:34 So we're just going to find that macro
+28:36 input that I just utilized. I think it
+28:39 was three. Maybe it was two.
+28:42 Take a look what this looks like.
+28:45 And select these two, sum of similar
+28:47 rows, calculate total, right? Display
+28:49 the totals row. Let me press okay.
+28:55 And then
+28:59 this cabinet in here.
+29:02 There's that 34 showing up. So, it's
+29:04 macro input three is what I use.
+29:09 So, cool. Oops, wrong one.
+29:15 macro number
+29:17 Here we go.
+29:19 And so, there we go. There's that 34.
+29:21 It's placed automatically, right? That's
+29:23 my That's my out of the box cabinet that
+29:26 I'm using.
+29:28 So, why is it not accumulating this
+29:30 time?
+29:33 But, what Look at what's happening. I
+29:34 needed to some similar rows. There we
+29:37 go. So, now it's accumulating again.
+29:40 So, it's simple as that. You could just
+29:41 be calculating stuff just out of the
+29:43 box.
+29:44 And this is where
+29:46 getting to know macros and some of the
+29:48 really simple processes in macros, um
+29:50 just a really simple accumulating total,
+29:52 something like width * height * depth
+29:55 can come in handy.
+29:57 Let's just do this real quick. Let's get
+29:58 rid of these cabinets.
+30:02 Let's open this up. Let's get into that
+30:04 same macro number input three, all
+30:06 right? And I'm going to hit this macro
+30:08 drop down and look at object specific.
+30:11 These are values that are built in the
+30:12 cabinet. Just as simple as that. So, we
+30:15 could do something like width,
+30:17 right? And then these percentage signs
+30:21 are opening and closing calls. Okay?
+30:24 This is calling some variable. So, if we
+30:28 want to do some calculation within here,
+30:30 we're going to have to do something
+30:31 within those percentage signs. But,
+30:32 let's just take a look at some of the
+30:34 other things that are available. So, we
+30:36 have height, right? And we have depth.
+30:39 So, we could very easily do with
+30:43 and
+30:45 times height
+30:47 times depth.
+30:49 And notice that we've got no exclamation
+30:51 mark when we typed it out correctly.
+30:54 Width times height times depth.
+30:57 Right? That would be volume.
+31:00 So that's in our default cabinet. Now I
+31:02 place this, I've got something that's
+31:04 accumulating volume for me. It's letting
+31:06 me know the box volume of this project.
+31:09 So once I've designed out my kitchen, I
+31:11 could let someone know, "Hey, this was
+31:13 the volume of your cabinets before I
+31:15 touched your kitchen. And even though
+31:17 you think that you don't have as much
+31:18 storage, I could prove to you that you
+31:20 have more storage."
+31:22 I actually have this in my template
+31:23 because I've had to have that exact same
+31:25 conversation, believe it or not.
+31:31 My parts have volume. It's okay.
+31:33 Exactly. You know, and then you might
+31:36 change the unit for this.
+31:38 Number formatting. Right? We've got a
+31:40 lot of volume here.
+31:44 So,
+31:45 um
+31:46 kind of the next maybe interesting thing
+31:48 about this is that
+31:50 you know, the way I'm using this is it's
+31:52 always available to me no matter what
+31:54 schedule I'm using. So that macro number
+31:57 input three means something to me. It
+31:59 just keeps me um a little more
+32:01 organized, a little easier for me to
+32:02 manage all these unique headings for me
+32:04 to remember
+32:06 how they were built. And so, to give
+32:08 myself a better memory of this is we can
+32:10 actually script some pretty advanced
+32:12 stuff into schedules. So this is a
+32:14 little bit more for you advanced users
+32:15 that understand a little bit about
+32:17 macros, but you know, even if you don't,
+32:20 you can try this out for yourself and
+32:21 just um open your mind to some thoughts
+32:24 about this, which is I'm going to open
+32:25 the schedule up and
+32:28 um we know that we can rename this, but
+32:31 we can actually rename this to something
+32:33 that's a little bit more advanced that
+32:34 might help us understand what this is,
+32:36 which is that
+32:38 I could do a little bit of scripting
+32:39 here.
+32:40 And so we've got an opening and closing
+32:42 percentage call
+32:44 to give us some value, and then
+32:47 what this is going to do is I'm going to
+32:50 create basically two outputs here, and
+32:54 um
+32:55 I sometimes forget what the order of
+32:57 this is, but one of these outputs is
+32:58 what's going to be the display output.
+33:01 And so one of these is a value.
+33:04 We've established that it's a value.
+33:06 Macro number input one is a value.
+33:08 And
+33:09 in this case,
+33:11 oops,
+33:12 I held the shift key too long. It's
+33:14 warning me that I'm holding the shift
+33:16 key too long, and oh no, I can't
+33:19 say no. There we go.
+33:21 Um and so I'm going to say no parts.
+33:25 There we go.
+33:28 And so this lets me know when I come
+33:30 into the schedule what this value is
+33:32 coming from, but if I'm displaying the
+33:35 column heading,
+33:36 then
+33:38 uh
+33:39 and if I did this right, then it should
+33:41 display correctly. See, so I need to
+33:45 put a little
+33:47 quotes in there, semicolon,
+33:51 and there we go. Now it's written
+33:53 correctly.
+33:54 So when I open this up, it's really
+33:56 simple for me to see, "Hey, this is
+33:57 where this is coming from."
+33:59 Right? In quotes, okay? Semicolon in
+34:03 between, then in quotes what I actually
+34:06 wanted to display.
+34:08 All right.
+34:10 Now,
+34:12 touch on something that
+34:15 is kind of unique to my templates and
+34:17 and is really, really simple in concept,
+34:21 is that I've got a very, very simple
+34:23 column um
+34:26 designation in my windows, so that when
+34:29 I have a bunch of or cabinets, so that
+34:32 when I have a bunch of windows or I have
+34:33 a bunch of cabinets
+34:35 and they're reporting the schedules,
+34:37 that what we'll see here
+34:39 is if I were to open up this
+34:42 schedule,
+34:46 we're going to see that all of my
+34:49 column widths are exactly the same.
+34:52 And I want to show you what it would
+34:54 look like they weren't the same.
+34:56 So, then I'm going to open up this
+34:57 schedule.
+35:00 I'm going to get to a section here that
+35:02 I call auto column width.
+35:04 All right? And notice we got that unique
+35:06 naming convention here again.
+35:08 What's happening here is
+35:10 auto column width is a custom field that
+35:12 I've created. And I've got that
+35:14 semicolon to let us know that this is
+35:15 actually the heading that we want.
+35:17 And all I have here is two quotes. Well,
+35:19 there's nothing in between those quotes,
+35:21 so what it's displaying is just blank.
+35:23 So, we're not seeing it. So, if I get
+35:25 down in here, what we're seeing is
+35:28 there's a blank section right here.
+35:29 That's what this is.
+35:31 All right? And so, how is this working?
+35:34 All auto column width is doing, let me
+35:37 remove this.
+35:38 All right? Let me remove that and press
+35:40 okay.
+35:42 And then if I reset the column width,
+35:45 look what happens.
+35:47 I don't get uniform.
+35:49 There's no uniformity here anymore. If
+35:52 we were to have something
+35:54 that had a text value was much wider
+35:57 than other um
+35:59 um
+36:01 than other similar uh objects, then
+36:04 watch what happens. I'm going to get
+36:05 into
+36:06 um
+36:09 Let's just go macro input one for
+36:11 instance, this info heading.
+36:13 I'm going to get into macro input one
+36:15 for this item.
+36:17 I'll open that.
+36:19 In case you didn't know this tool, this
+36:20 is my edit toolbar right now. I'm going
+36:22 to open the row object. So, I have a
+36:26 In this case, it's a incorrect name
+36:28 because it's a column object. We just
+36:30 have columns and rows swapped, but I'm
+36:32 going to open this column. So, I'm
+36:34 opening this object that I have selected
+36:36 and highlight.
+36:39 Now that I'm doing that, I'm going to
+36:40 get into that object information macro
+36:42 input one, and I'm going to put some
+36:44 crazy amount of value here, right? I'm
+36:46 going to put some long string.
+36:50 And so that doesn't do any kind of
+36:51 automatic schedule wrapping. It doesn't
+36:53 do anything that um
+36:55 you know, limits it and and
+36:56 automatically wraps it so that it's the
+36:58 same column width as everything else.
+37:01 And then so that should give you an idea
+37:03 of the approach of what I was doing when
+37:05 I'm doing a column width macro.
+37:07 Really, really simple concept. It's take
+37:10 a census of the information that you're
+37:13 putting out from a schedule,
+37:15 and
+37:17 from that information, figure out what
+37:19 the max character length is of any
+37:21 column that you're including
+37:23 of some field value. Okay?
+37:26 Once you figured out that field value of
+37:28 how many characters are there,
+37:30 I ended up writing a really, really
+37:32 simple script, which was just hey, if
+37:35 this is a window or a door,
+37:38 I just want you to put 70 character
+37:40 spaces.
+37:42 That's all that I'm doing there. And the
+37:44 benefit of that to me is that no matter
+37:47 what I'm placing, windows or doors,
+37:49 whatever field values are there,
+37:51 field values are never going to exceed
+37:54 that 70 characters. So, what that does
+37:57 is it forces the column width to that
+38:00 width of 70 characters, so that no
+38:02 matter what, my schedules always look
+38:04 uniform. They will always be lined up.
+38:07 So, if I go back a few steps and get
+38:09 that column back in there, that
+38:11 automatic width, look how uniform this
+38:14 looks. If we were just automatically
+38:15 wrap this for a second,
+38:18 All right, so let's do an automatic wrap
+38:21 at two rows.
+38:25 Did I do Did I do that wrong?
+38:28 It's minimum rows.
+38:32 Look at that. They line up perfectly.
+38:35 It's all based on those number of
+38:37 characters in there. Pretty simple.
+38:40 I just saw some stuff posted in the
+38:42 comments. What do we got?
+38:44 Can you square foot of room for count of
+38:47 drywall? Let's take a look at that.
+38:49 Um maybe a little bit more advanced only
+38:52 because of the way walls report drywall.
+38:54 So, it's a little bit more of an
+38:55 advanced macro, but yes, I think we can
+38:58 do that.
+38:59 Um
+39:01 So, is that column naming convention
+39:03 with the variable name display name a
+39:05 Chief thing or is that just triggering a
+39:07 macro on your system somewhere? No,
+39:08 that's a Chief thing. We're just
+39:10 scripting directly in the columns.
+39:12 There's several places in Chief that you
+39:13 might not be aware of that you can
+39:15 script some stuff into. In fact, you can
+39:18 even do that inside of um
+39:20 >> [clears throat and cough]
+39:22 >> You can make something conditional that
+39:23 actually looks at your project's name
+39:27 and change the name based on that. So,
+39:29 I'll give you an example of that as well
+39:32 um if I can on the fly. Let me
+39:36 Let me get into layout. This is another
+39:38 kind of an advanced question.
+39:41 But, we'll see that.
+39:44 I have callout keynotes floor plan.
+39:47 Okay, let's open this schedule real
+39:49 quick.
+39:50 And so, what I'm going to do here is
+39:53 in my template I have something I call
+39:55 the annotool. I'm going to put a little
+39:57 staircase here. I'm going to
+39:59 um
+40:00 use my note tool
+40:02 and just attach this to this staircase
+40:06 and then we'll see in the keynotes that
+40:09 this picks up a bunch of information
+40:10 about that staircase, okay?
+40:13 And so,
+40:15 here um would be a good example of where
+40:18 we might be able to do some really cool
+40:19 conditional things. And so, I'm going to
+40:22 change the name of my project in this
+40:25 case.
+40:26 And right now, the name of my project
+40:28 has a dash N, and let me change it to a
+40:30 dash AB. Dash N was for new. Dash AB
+40:33 would um AB would be for as built. Now,
+40:36 this might not fire off right off the
+40:38 bat. Um, it might take a little bit of
+40:40 reload of the software or sometimes some
+40:41 of this stuff, um,
+40:43 takes a little reload, but uh
+40:46 in this column, what I have going on in
+40:49 in I've done a lot of new scripting, so
+40:50 this system might not exist anymore cuz
+40:52 I'm on a complete version, but
+40:55 um, what I'm saying here is if this is
+40:57 existing, so I've created some condition
+40:59 that says existing or not, basically.
+41:02 And if it's existing, then I want the
+41:04 heading to say keynotes demo. If it's
+41:07 new, I want it to say keynotes floor
+41:09 plan. So, this would be a a way that we
+41:11 can dynamically rename this. Now, I
+41:14 think that existing is disappeared as a
+41:16 parameter, but that's just an
+41:18 an example. It's it's not being executed
+41:21 in this case,
+41:22 um, cuz it's probably still seeing that
+41:24 this is
+41:25 um, not updating or I don't have that
+41:27 macro anymore, but that's where we can
+41:29 do some conditional heading changes.
+41:34 Yeah, Colin.
+41:38 Yeah, you can inline you can inline Ruby
+41:41 code right in there, exactly. Um
+41:45 and
+41:46 boy, there's a a few other cool places,
+41:48 and I can't think of them right now. And
+41:50 and I know you would like that, Cody.
+41:53 Yeah, where are all the other secret
+41:55 spots? There is a few of them. You just
+41:57 you got to kind of dig for them.
+42:02 >> [clears throat]
+42:04 >> What I actually showed something else
+42:05 about this that can be pretty cool is
+42:08 I'm going to get into my window
+42:09 schedule. We're getting a convoluted
+42:11 looking plan here and getting off the
+42:12 rails, but let me open up the schedule
+42:14 again.
+42:15 I'm going to say in this case that I
+42:17 want to open this up. You're going to
+42:19 see that my
+42:20 We go back, we look at my window
+42:21 schedules. I'm doing some kind of
+42:22 advanced stuff with my window schedules.
+42:24 They have a lot of really cool dynamic
+42:27 things that they do. And what I'm using
+42:29 is the label system for my windows. All
+42:32 right, I'm not using a callout. That's
+42:34 pretty much clear.
+42:35 My windows do some things like they
+42:37 dynamically resize based on the width of
+42:40 the window and the character size of the
+42:43 label. They figure out what the labels
+42:46 total overall name is, right?
+42:50 And then it will shrink based on the
+42:52 character size of that. You can see as
+42:54 soon as this window gets to be a certain
+42:56 width, it doesn't shrink anymore. This
+42:58 just makes it really easy so we can
+42:59 stack windows next to each other without
+43:01 those labels overriding each other. And
+43:03 then I've got some additional tools that
+43:05 are for scoping tools and stuff like
+43:06 that or um it sees this as an as-built
+43:10 plan now and so it's picking up that
+43:12 this is a to be removed condition
+43:14 versus, you know, renaming this back to
+43:17 new and this is going to have to rebuild
+43:19 one time, but, you know, in a new plan
+43:21 this is just going to say, "Hey, that's
+43:22 an existing window and this is out of
+43:25 scope." And so if we show the window
+43:27 order overview, we're going to show a
+43:29 schedule number versus not applicable.
+43:31 And if we go look at this
+43:33 in our schedule, it's going to pick up
+43:35 that this particular window
+43:37 um
+43:38 for header it's not applicable, for
+43:40 rough opening size not applicable cuz
+43:42 it's out of scope. We're going to
+43:43 remodel, so.
+43:44 All right, so done some dynamic stuff
+43:46 and that's tip of the iceberg of what my
+43:48 window labels do.
+43:49 But, something that you can do is if you
+43:51 want to get some kind of dynamic label
+43:53 that's just a text label like what I've
+43:55 got here, you can also use a callout as
+43:58 well in certain views if you want to
+44:01 make a really simple approach to showing
+44:03 this,
+44:04 you know, in um
+44:06 in terms of its long text length and
+44:08 then showing this in a different way,
+44:10 say in like an elevation.
+44:12 So, if I were to go open up the window
+44:14 schedule,
+44:18 >> [clears throat]
+44:18 >> and then
+44:19 get into the labels panel and say, "Hey,
+44:23 I actually want to use both a callout
+44:26 and a label. Let's just make this a
+44:28 rectangle in this case."
+44:30 And then
+44:31 I want to designate the callout layer to
+44:34 use something different than the label
+44:36 layer.
+44:37 Why?
+44:38 Because there are times when I don't
+44:41 want to show the callout
+44:43 and I will only want to show the label.
+44:45 Or there might be a time where I just
+44:48 want to show the label and I don't want
+44:50 to show the callout. So, inverse, right?
+44:53 So, I'm going to use a custom layer in
+44:54 this case and let's go to find that
+44:56 layer.
+44:58 >> [clears throat]
+45:00 >> So sorry, I'm losing my voice.
+45:05 So, let's go window.
+45:06 Just filter this down. Here's window
+45:08 labels. Make it really easy to kind of
+45:10 rename it to something pretty similar
+45:13 here. So, windows labels and then let's
+45:15 just put a comma, callout.
+45:18 Okay? And I'm going to press okay. So,
+45:21 now the callout is being reported to
+45:26 this layer, all right?
+45:28 So, okay.
+45:31 From here, I'm going to get into active
+45:33 layer display options. We can see
+45:36 windows labeled callout, okay? I'm going
+45:39 to modify all layer sets so that I
+45:44 turn this on just to say, "Hey, all
+45:47 layer sets, we're going to turn this on
+45:48 for a second just so we're all uniform,
+45:50 so we're all the same." And then I'm
+45:52 going to turn it back off.
+45:55 So, we just made sure that we just
+45:56 turned off that layer in every layer
+45:58 set.
+45:59 Now, the next thing that I'm going to go
+46:02 do is I'm going to go open this up
+46:05 in some elevation.
+46:07 Okay, so I've got some cameras here that
+46:09 I've already established. Let's go look
+46:10 at these.
+46:13 And so we're seeing that this is showing
+46:15 our label. I'm going to select this and
+46:17 I'm going to turn off the label, but
+46:20 I'm going to turn on my brand new labels
+46:22 callout layer.
+46:24 So, look at that.
+46:26 So, in this view specifically,
+46:29 I'm not showing that label.
+46:31 I'm not showing that, you know, kind of
+46:33 robust label. I'm just showing a simple
+46:35 label.
+46:37 Right? This is very much simplifying the
+46:39 way that this displays. So, here in
+46:42 elevation, we've just got simple clean
+46:44 data, real simple references to those
+46:47 schedule numbers. You could even um send
+46:49 this to view in a very, you know, mini
+46:52 way. You can even establish that the
+46:54 text size of this is larger for this
+46:58 view, and it's not going to affect other
+47:00 views because we're in a unique layer
+47:02 set, unique to my cameras, which is the
+47:05 elevation view layer set in this case.
+47:08 So, I could come here to that Windows
+47:10 labels callout and drive the size of
+47:13 this based on that. And so, I could say,
+47:15 "Hey,
+47:16 I want to see a large label style here."
+47:19 Not necessarily, you know, the best
+47:21 display of this. I've got transparency
+47:23 turned off, right? Um it's not a great
+47:25 look, but this means that I could send
+47:27 this
+47:28 to right next to a really large schedule
+47:31 on a sheet at a very small scale so that
+47:34 it's just a reference for what this
+47:35 window is in both elevation and in
+47:38 overview. So, if I were to go look at a
+47:40 layout, I'd do something kind of similar
+47:43 as when we come into where my window and
+47:45 door schedules are.
+47:47 I may have already passed them. Let's
+47:49 see.
+47:50 Yep, here we go.
+47:52 Is that I'm just showing this this
+47:54 little guy here
+47:56 as a reference. This is where we switch
+47:59 to just hey, I'm just I just want to
+48:01 show that schedule number. That's it. So
+48:04 way I could do that. This is a unique
+48:06 layer set. I could just show the callout
+48:08 instead, right? I could make the line
+48:10 style of the callout blank. Let's do
+48:12 this. Let's see how we could do this.
+48:15 Let me open this up.
+48:17 Get in here. It's the same thing. Turn
+48:19 off window labels. Turn on that windows
+48:21 labels callout.
+48:23 With that
+48:24 and so for windows labels callout, I
+48:26 could change the line style to a blank
+48:30 line style and that label is set to have
+48:33 transparent fill.
+48:35 And look at that. That's pretty simple.
+48:37 Now it's no longer doing that dynamic
+48:39 thing that I've scripted in that says
+48:41 that this is not applicable because it's
+48:43 an existing window. That That's going to
+48:46 take some Ruby. That's going to take
+48:47 some macro scripting. But this is a
+48:50 simple way that you could do without any
+48:52 scripting some kind of an overview where
+48:55 it's just the schedule versus something
+48:57 that's more robust like some text input
+49:00 in the label.
+49:01 And so that makes it really easy for us
+49:03 to come into that
+49:05 layout and see
+49:06 and this overview of the schedule.
+49:09 Maybe you got a um
+49:10 a second floor. Make a copy of this.
+49:12 Change the reference to second floor,
+49:14 etc.
+49:16 So
+49:17 and look at this common condition that
+49:19 you might be running into.
+49:21 Hope you know that there's a really
+49:22 simple workaround for this as well.
+49:25 Either increase the number of
+49:27 of entries that I want per per section
+49:30 here or you kind of just do a little
+49:32 copy paste where you do something like
+49:34 this. You would just do a little copy
+49:35 paste.
+49:37 Drag this over. It would be pretty
+49:39 simple for me to drag these contents up
+49:41 like this. Get them all aligned.
+49:47 There we go. There's a continuation of
+49:49 the thing. Pretty simple.
+49:54 >> [clears throat]
+49:58 >> How do your brain exploding right now?
+50:00 Nice.
+50:02 >> [snorts]
+50:03 >> Yeah, I know I'm I'm uh
+50:05 I don't feel sick. [clears throat] I
+50:06 just feel beat up. I don't know what's
+50:08 going on, but yeah, I'm losing my voice.
+50:12 In Design Build It Solutions, I feel
+50:14 like I know that. Oh, who's that? That's
+50:15 Tim Schrock. Oh, I'm so glad you made
+50:18 it, man.
+50:19 And I have I want to have you on the
+50:20 show one of these times. That would be
+50:21 great cuz I feel like you'd have some
+50:22 really good questions for this.
+50:29 See, what are we How are we doing on
+50:30 time? I got a meeting right at 10:05, so
+50:33 I got to cut this right on time today. I
+50:35 know I usually run a little bit over.
+50:38 Um I'll just show you a couple other
+50:41 cool things that you can do with this.
+50:43 And this time I want to get in and and
+50:45 kind of help out um some of the design
+50:47 people that might be catching this show.
+50:49 I know I came in late to this thought,
+50:51 but um
+50:52 you can actually uh let's say you
+50:55 finished out spec on a particular
+50:57 project, okay? I'm going to shut all
+50:59 this down real quick.
+51:05 Say that you've
+51:07 finished out your spec, you've got your
+51:09 um fixture schedules, etc.
+51:13 And so we're going to show you how you
+51:14 can do something pretty wild is that you
+51:16 can actually make a copy of your plan.
+51:20 And this is saying you're done. You're
+51:21 ready to print. Everything's finished.
+51:24 You've specked out everything, but you
+51:26 want more of a graphical representation
+51:28 for your client for all of your spec.
+51:31 And so let's just say I've got a couple
+51:33 of appliances in here.
+51:37 And in this case, I'm just going to drop
+51:39 them straight up.
+51:41 Um as free standing objects just to get
+51:43 to this just so we could show this,
+51:45 okay?
+51:48 And so, towel bar or something like
+51:50 that. Now, I'm going to go and reference
+51:53 the actual spec from a website, right?
+51:55 Let's just go Toto
+51:58 toilet in this case, just so we can get
+52:00 an image like this.
+52:02 And images, sure.
+52:04 And let's just
+52:05 do a quick little screenshot, just so we
+52:07 get an example of what I'm talking about
+52:09 here.
+52:10 Do a little screenshot here.
+52:13 And then, let's just go
+52:16 Um
+52:17 What do we want?
+52:19 Toilet seat.
+52:24 Well, let's get a little image shot of
+52:26 this here.
+52:29 So, I've made a copy of my plan. My
+52:31 plan's done. I have a copy of it now,
+52:34 okay?
+52:35 In that copy, these fixtures are being
+52:38 reported to some schedule, okay?
+52:41 There's my schedule. Let's just get this
+52:43 on the page. I'm going to cut this and
+52:44 bring this back
+52:46 in here. Just paste it, so we can see
+52:48 this side by side.
+52:50 Okay?
+52:51 And so, I've got a 3D preview of these,
+52:53 but I'm actually going to change this.
+52:55 I'm going to change this to the 2D
+52:57 symbol, instead of that 3D, right? So,
+53:00 we're going to get that top-down view.
+53:02 This is that 2D representation of that
+53:04 symbol.
+53:05 I'm going to show you this.
+53:06 Let's go ahead and open up the CAD
+53:09 detail, the CAD block that represents
+53:11 this symbol, and
+53:14 what can I do with this?
+53:16 I'm going to get into my downloads,
+53:17 where I've got my screenshot here, and
+53:19 kind of drag this
+53:21 and drag this into
+53:23 Here we go.
+53:25 This. And let me take these lines away.
+53:28 Let me select this. Let me shift-select
+53:30 this. This is going to give me this edit
+53:32 node to kind of automatically resize
+53:33 this, right? Get this into place,
+53:35 something like that. And then, I'm going
+53:36 to take the line tool and just kind of
+53:38 get rid of all the lines here,
+53:39 except for
+53:41 Let's see.
+53:43 Cool.
+53:45 This and then control select. There we
+53:47 go.
+53:48 And then, let me close this down and hit
+53:50 save.
+53:52 And only this instance in this case.
+53:55 Look at that. That's my toilet. Isn't
+53:56 that funny?
+53:58 Get to move that around. Well, actually,
+53:59 I wouldn't want to move it around
+54:00 because why? We're already done.
+54:03 All right. This is not a dynamic thing.
+54:05 It's somehow linked back to our plan.
+54:07 This is something that you are manually
+54:09 managing, which means you have a higher
+54:11 likelihood of making some mistake here.
+54:14 So, be careful with what you're doing
+54:15 and be really diligent about checking
+54:18 your work here. But what happens with
+54:20 this is
+54:22 look at that.
+54:23 I bet you've been wondering a long time
+54:25 how you could get something looking like
+54:27 this in your schedule if you're doing
+54:28 spec for your clients in Chief
+54:31 Architect.
+54:32 It's exactly this way. It's exactly how
+54:34 you do it. We can do it again. Add a CAD
+54:36 detail. Really simple.
+54:38 In fact, uh I got to do a little trick
+54:40 here.
+54:41 I downloaded some new thing for
+54:44 software that could let me add a tab and
+54:47 it's not working, of course.
+54:49 Always broken when I need
+54:53 See here. Just get back folder here.
+54:57 That sync
+54:59 that into my taskbar right on there.
+55:02 Cool.
+55:04 That's pretty much the size I needed.
+55:09 And close this down.
+55:11 Save it. This instance.
+55:14 And so, as simple as that, I'm producing
+55:16 some kind of spec this way.
+55:18 And so, we know a few things about this.
+55:21 Is that
+55:22 you know that you could go plug in
+55:24 values.
+55:26 You know that you could go plug in a
+55:27 price.
+55:28 You could actually pick up the SKU
+55:30 number. You could actually accumulate
+55:33 totals on price.
+55:35 Look at this D&E.
+55:37 Just take a look at this. D in this case
+55:39 is coming from macro input. Let's do a
+55:41 new one. Let's do macro number input.
+55:44 All right, there's that generic naming
+55:47 again.
+55:48 I'm going to do this just as a practice
+55:50 so that you can see me doing it again.
+55:51 So, I'm going to do that opening and
+55:53 closing percentage sign. All right,
+55:55 we're going to put this in quotes.
+55:59 You know that this is a numerical value.
+56:01 I'm going to put dollar sign
+56:03 in here. Money. How much is this?
+56:08 Okay, so we know it's coming from macro
+56:11 number input one.
+56:13 What are we going to do with this? We're
+56:15 going to go open these up, get into that
+56:16 macro number input one.
+56:22 And I have $45. It's a very cheap Toto
+56:25 the cheapest toilet Toto toilet ever.
+56:29 >> [clears throat]
+56:31 >> Here we go.
+56:33 Oh, look, I did the name wrong.
+56:35 It's not reporting correctly.
+56:37 Okay, so
+56:39 we know we can accumulate totals on
+56:41 this, calculate totals. In this case,
+56:44 I don't want to sum similar rows. I just
+56:47 want the total. I don't want this to be
+56:48 grouped. I just want the total. Here we
+56:51 go.
+56:52 Now, the next part about this is number
+56:54 formatting.
+56:55 Macro number input one. I knew needed to
+56:58 have created a unit for dollars, right?
+57:04 Okay, so we've got USDA. We're going to
+57:07 say decimal places, okay?
+57:09 And do we want to see the unit
+57:10 indicators? In this case, yeah, there's
+57:12 the preview. We're going to show the
+57:14 unit indicators, okay?
+57:19 Bam, just like that.
+57:21 And that's simple.
+57:23 Got a total
+57:25 here.
+57:26 All right, let's make one of these a
+57:27 different value.
+57:36 >> Pretty simple. This could be just
+57:38 something internal for you. Something
+57:40 that you're pulling together just so
+57:41 that you understand, you know, that
+57:43 you're within a budget.
+57:45 So, then when you're ready to, and you
+57:47 need to make sure that you
+57:48 you do this, is that you would remove
+57:50 that. You would remove that so you're
+57:52 not showing your client in case that
+57:54 doesn't have a markup. But, there's
+57:56 nothing keeping you from calculating a
+57:58 markup inside of this in the case that
+58:00 you do want to show this to your client
+58:02 to let them know, you know, budget
+58:05 and etc. So,
+58:06 um you could put the markup as a totally
+58:09 separate line item.
+58:10 Um
+58:12 and and have it total that as well.
+58:14 And so then we're getting into even more
+58:16 advanced schedules.
+58:17 Um it is 10:00. I do have a call right
+58:20 after this, so I got to end it promptly.
+58:22 Um I think I lost my
+58:24 my chat section here when I put this
+58:26 back together. I certainly did.
+58:30 What are you guys saying here? Mike,
+58:32 thank you for joining us.
+58:36 See.
+58:40 How do I differentiate existing windows
+58:42 and doors? Um in my case, it's it's
+58:46 coming from
+58:47 um the fact that I'm naming
+58:49 I have a macro, Tim, that's um
+58:52 it's picking up the name of my plan. So,
+58:55 in this case, this {dash}AB versus
+58:57 {dash}N, that's picking up whether or
+58:59 not something's existing versus new. So,
+59:02 it's looking at the plan name that's
+59:04 stored in and that from there
+59:07 I'm using a global. I know as you're
+59:09 getting into macros, it's really fun to
+59:11 to script in a in a very linear way,
+59:14 um utilizing some of the AI stuff that's
+59:17 out there. Uh but just know that the
+59:19 more scripting you do, the more you're
+59:21 potentially slowing down the program.
+59:23 And so there are some ways around that.
+59:25 And um
+59:28 and it's And it's about creating an
+59:29 instruction set um that can be accessed
+59:34 in a way that's basically a global
+59:36 saving and instruction set. You put that
+59:38 into ChatGPT, that might be able to um
+59:41 kind of This is called vibe coding.
+59:43 Using ChatGPT when you may not know a
+59:45 lot about coding is using the utility to
+59:48 code is
+59:49 um if you put that into ChatGPT, say
+59:52 that I want to create a instruction call
+59:55 from a global so that every object can
+59:58 execute its own script without hitting
+1:00:01 the text macro management console.
+1:00:05 A lot of advanced info right there.
+1:00:08 And that's what I'm doing is um I've got
+1:00:09 an instruction set that's looking at the
+1:00:11 names of these and then so my window
+1:00:13 labels then
+1:00:14 understand is this an existing plan
+1:00:16 versus a new plan so that it labels
+1:00:18 accordingly. And so it's just you know,
+1:00:20 it's just taking two paths. An early
+1:00:23 conditional statement.
+1:00:30 Let's locate a real toilet for Joyce.
+1:00:32 >> [laughter]
+1:00:32 >> Yeah.
+1:00:34 Yeah, I mean Mike
+1:00:36 you know, this would be an opportunity
+1:00:37 for you to
+1:00:38 you know, show look of hardware or
+1:00:41 something like that if you really wanted
+1:00:42 to get into that or
+1:00:44 I don't know.
+1:00:45 You could even You could even show some
+1:00:47 kind of um
+1:00:49 connection detail like in the schedule
+1:00:52 itself, right? If you're listing a
+1:00:55 hardware item or if you're Yeah, I mean
+1:00:58 you
+1:00:58 say we're listing some kind of Simpson
+1:01:00 connector. You could actually just draw
+1:01:02 a detail out, drop that in as a the CAD
+1:01:05 detail. There's nothing keeping you from
+1:01:06 doing that.
+1:01:07 Um
+1:01:11 Boy, I wish I could um go further on
+1:01:12 that, but yeah, I really do have a call
+1:01:14 in 2 minutes.
+1:01:15 Anyways,
+1:01:16 thank you guys. Thanks for joining me.
+1:01:18 Um maybe we'll do another one on
+1:01:19 schedules cuz there's a lot more to
+1:01:21 cover. I got a lot more um
+1:01:23 in terms of the schedules that I utilize
+1:01:25 and the things that they automate for me
+1:01:26 and just how powerful they can be. So,
+1:01:29 uh
+1:01:30 until next time. Thanks, everyone.

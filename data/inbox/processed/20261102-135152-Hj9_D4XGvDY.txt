@@ -1,0 +1,1518 @@
+Title: Mastering Schedules in Chief Architect Part 2 - Designers Show #141
+URL: https://www.youtube.com/watch?v=Hj9_D4XGvDY
+Visibility: public
+
+0:00 right and we're live good afternoon good
+0:02 morning wherever you're hailing from uh
+0:04 Dan here with Chief experts on with
+0:07 Renee Robin and John and maybe Kevin at
+0:11 some point how you doing guys hi guys
+0:14 good Merry Christmas you guys we were
+0:16 just discussing that if you um skip your
+0:19 heating bill for you know a month and a
+0:22 half you could go buy a fur coat and
+0:23 wear out
+0:25 instead you must have some pretty big
+0:28 heating bills
+0:32 those polyesters are really
+0:34 expensive yeah all right we got uh hi
+0:38 guys Paul Bill Paul Bill Merry Christmas
+0:43 we got Val guy from Noosa Canada welcome
+0:47 to the show and Bill M what did Bill
+0:50 what was Bill's comment we'll get to
+0:52 that in just a second here so uh we'll
+0:55 get going here in just a little bit give
+0:57 people a chance to log in it's just a
+0:59 little afternoon so you guys are ready
+1:00 for the big
+1:02 holiday yeah yeah keep it be different
+1:05 for us this year different for us
+1:08 because we're SP the first time was
+1:09 we're spending it down south away from
+1:12 kids no
+1:14 snow wow one daughter pictured uh did
+1:18 pictures of snow the other day and I
+1:20 told Patty I've had my f of snow I saw
+1:25 pictures oh we had four inches yesterday
+1:27 John so you're not missing anything
+1:29 you're supposed to get like six to
+1:31 something six or more up in your end of
+1:32 the
+1:33 world what I saw was four inches in the
+1:35 cities there cool well we won't we pract
+1:39 well it's not true we got
+1:40 snow um a few years ago which was
+1:43 actually pretty cool on Christmas and we
+1:45 had a decent amount we actually had
+1:46 seven inches which is rare for Portland
+1:49 now it is um yeah wow yeah so it just
+1:53 rains you know you come here it's
+1:55 raining it's actually I didn't went
+1:57 outside today without a coat on
+2:01 you could get together with her and
+2:02 exchange uh for Coach there
+2:06 Mar polyester although that does not
+2:09 look like polyester Rene's looks like a
+2:11 real dead
+2:14 animal okay okay guys um so uh today
+2:20 we're gonna chat a little bit about uh
+2:22 schedules we have a question about
+2:24 default sets which Renee and I have
+2:27 different ideas on how they work and I
+2:29 make excited to see what Renee has to
+2:31 say because I've never really understood
+2:32 his way of doing it and we're GNA you
+2:35 know if you guys have questions by all
+2:37 means feel free to chime in with your
+2:39 questions at any time so I know you guys
+2:41 have talked about schedules a little bit
+2:42 last week and I'm guilty I have not I
+2:44 did not go back and look at what you
+2:45 guys talked about because I wasn't here
+2:48 um so it was my understanding that you
+2:50 did get off topic not off topic but you
+2:52 went on to some other topics and talked
+2:54 about those uh some a little bit more
+2:57 than you did about schedules so that's
+2:59 macros we got into talking about macros
+3:02 and schedules which is helpful it it is
+3:05 so that's why I thought it be nice to go
+3:07 back around and let's talk about
+3:08 schedules a little bit more so um I'm
+3:11 I'm I'm the simple guy I don't get into
+3:13 a lot of macros and things like that so
+3:16 I keep things fairly simple in my
+3:18 process Renee I know you're heavy in the
+3:20 macros and you found lots of different
+3:22 ways to do lots of different things so
+3:24 uh come on we need to come together in
+3:26 the middle there make it work for
+3:28 everybody but in the meantime um you
+3:31 guys feel free to uh head over to chief
+3:33 experts.com after the show and check out
+3:37 um check out a couple of things actually
+3:39 let me share my screen here real
+3:42 quick and I just W
+3:46 to do this entire screen and share I
+3:51 just wanted to point out over at Chief
+3:54 experts.com if I could spell that would
+3:57 be
+3:58 great I still can't spill let me do this
+4:01 again I try to go too fast sometimes uh
+4:06 check us out for our Summit here again
+4:08 we still have space available we uh we
+4:10 talked a little bit about this I talked
+4:12 earlier in the week on a show with Kevin
+4:14 where we talked about 10 mistakes Chief
+4:16 users make and we talked a little bit
+4:17 more about the summit uh and uh please
+4:21 check it out give us a call if you have
+4:23 questions we'd love to have you
+4:24 there but the other thing I want to talk
+4:26 about too is be sure to get on the wait
+4:28 list because next month month we'll be
+4:30 going live with the uh new Pro Academy
+4:32 if you guys are a member of the pro
+4:34 Academy already you'll be good to go uh
+4:36 you don't have to do anything but if
+4:37 you're interested in finding out about
+4:39 more join the waight list just click
+4:41 that little link there put your name and
+4:42 email and it will keep you informed
+4:44 about everything else coming up at the
+4:45 pro Academy it's going to be uh there's
+4:47 going to be a lot of stuff going on in
+4:49 there so it's uh pretty excited about it
+4:51 I've had that up there for a long time
+4:53 and we're going to relaunch it with a
+4:54 whole
+4:55 new Aura whole new way of doing things
+4:58 so uh it'll be a lot of fun
+5:00 lot of live uh live activity will be
+5:03 going on there so with that in mind
+5:06 let's move forward here so Renee you
+5:08 were gonna you were gonna answer uh
+5:12 Bill's question right away how do you
+5:13 save changes to
+5:15 your correct name Bill's question would
+5:19 you show how to save changes to your
+5:22 default set to reflect the correct name
+5:26 instead of the name active
+5:28 defaults and and so what we're talking
+5:31 about here is um if you're a longtime
+5:33 Chief user we used to have what are
+5:35 called annotation sets and annotation
+5:38 sets annotation sets um are what drove
+5:43 whatever active tool that you wanted so
+5:45 let me just take a look at my active
+5:48 defaults right now is that I was using a
+5:51 particular Dimension
+5:55 um as well as Rich Text texts callouts
+5:59 even the current CAD layer this was all
+6:01 coming from what used to be called
+6:04 annotation sets now called default sets
+6:07 so for a particular view we knew that so
+6:11 long as quarter inch scale text defaults
+6:14 were in the active set that when I went
+6:17 to go type with the text tool it was
+6:19 using those defaults which includes what
+6:25 layer that that text might be on and
+6:28 this is a really important kind of thing
+6:30 to understand is that when we want to
+6:33 illustrate you our main plan view we
+6:36 want text to be on for that view well if
+6:39 we want to illustrate a framing view we
+6:41 don't want that text to be on the
+6:43 framing view so we're kind of organizing
+6:46 this by layers right so if I'm switching
+6:50 to my framing default set then all of a
+6:53 sudden this text might be living on a
+6:56 text framing layer so that we're not
+6:59 seeing
+7:00 you know multiple groups of text on one
+7:03 saved plan view now when uh I want to
+7:07 say
+7:07 x13 X12 came out I think X12 probably
+7:11 came out with um saved plan views yeah
+7:14 something like saved plan views
+7:16 now we've got kind of a duplicate thing
+7:19 happening here in selected defaults you
+7:21 can see it's this same exact panel as
+7:25 what was happening in the default set
+7:28 right which means that you can determine
+7:32 what is active the same way we used to
+7:35 in default sets or annotation sets in
+7:38 the save plan view itself so that when
+7:40 we switch a save plan view it's
+7:42 switching what defaults we're using on
+7:45 top of that the nice thing about um
+7:47 saved plan views was we're able to save
+7:50 whether or not we're showing certain
+7:52 wall outlines on a particular view or um
+7:55 determining whether or not we want to
+7:57 always save or prompt to save we've made
+8:00 some kind of change by accident and we
+8:03 can even be referencing certain floors
+8:05 or lock in the floor or remember a zoom
+8:08 or rotation so these are all a bunch of
+8:11 extras on top of what default sets used
+8:14 to do that stuff I I have leave mind set
+8:18 to show off lowers and you know I don't
+8:20 zoom in anything do you use any of that
+8:22 stuff um I used to use remember Zoom um
+8:26 for my kitchen view so that it was just
+8:29 automatically zoomed on on my kitchen I
+8:32 don't do that anymore I um for most of
+8:36 my save plan views will use any floor
+8:38 because when we send it to
+8:41 layout if we're in layout and we copy a
+8:44 view forward we don't need to relink to
+8:48 a new view if us any floor is there if I
+8:51 wanted floor one and floor two I've had
+8:54 clients that have tried to create say
+8:56 plan views for you know architect tal
+8:59 floor zero floor one floor two so they
+9:02 would have all these extra so they have
+9:04 all these extra things for every oh my
+9:08 God it was just a nightmare so yeah so
+9:11 here I go I've got a I've got a um
+9:13 single floor building here but let me go
+9:15 ahead and um create a new floor so now I
+9:19 have a two floor building okay and
+9:22 because that saved plan view which was
+9:25 called you know floor plan view is set
+9:28 to use any floor I could just come in
+9:31 here and right here just scroll down one
+9:35 and there we go I've now changed it to
+9:37 the second floor as a reference we don't
+9:39 have to mess with all of that stuff we
+9:41 don't have duplicate save plan views
+9:43 duplicate default sets all that kind of
+9:45 stuff so that's really helpful um if you
+9:50 were to go in into your active defaults
+9:53 or or um you could actually do this in
+9:56 in another way that would be a lot
+9:57 easier to work with but you could delete
+10:00 all your default sets except for one and
+10:05 switch over to using saved plan views to
+10:07 set up your defaults and so that would
+10:10 be a way of doing things where I could
+10:14 use default sets now to do something
+10:16 else for example I can switch I'm in a
+10:21 let's just say I'm in a print um plan
+10:23 view that I've got here floor plan and
+10:26 on the Fly I want to drop in some notes
+10:29 on a layer that's not shown I could just
+10:32 switch to my redlines default set and
+10:35 now when I use text I'm dropping in some
+10:39 kind of note it's going to ask me do I
+10:41 want to turn on that layer I just say no
+10:44 and that's just a note for me for later
+10:46 so when I switch to my Redline save plan
+10:51 view there it is this I had dropped in a
+10:55 note on the Fly because I used default
+10:57 set to switch what the active default
+10:59 was on the Fly and it's not affecting my
+11:03 print plan views so I didn't I didn't
+11:06 change anything there cool regarding his
+11:08 question about making it so that it's
+11:11 active defaults versus um um whatever
+11:15 default set you wanted to have that
+11:18 would just that just means that bill you
+11:20 change something that doesn't align with
+11:24 active defaults so you might have
+11:27 changed what dimension that you're using
+11:29 you might have changed what active text
+11:32 you were using and you might have done
+11:34 that from the saved plan view because
+11:38 you can do that so I'll just give you an
+11:40 example I'm in my Redline save plan view
+11:44 it is using my Redline default set okay
+11:49 if I were to go in and edit the active
+11:52 View and then I did something like
+11:56 changed something here let's just say
+12:00 one inch scale Rich Text default I want
+12:03 you to notice what happens up here if
+12:05 I'm thinking about this right this
+12:06 should change to active
+12:09 defaults
+12:10 see so I changed something in the plan
+12:14 view so it's no longer aligned the
+12:16 defaults in the plan view will always
+12:18 override the defaults in the default set
+12:22 all right so because I changed something
+12:23 in the plan view now it's not matching
+12:26 the default set so it's just saying hey
+12:28 we're using whatever Act defaults you've
+12:31 now made a change to in your saved plan
+12:34 view in your editing the active
+12:39 view so let me let me just talk about
+12:42 that for a second Bill might be using my
+12:44 template maybe maybe not I don't know um
+12:47 you want to bring your screen up yeah
+12:48 I'll bring it up here and where it
+12:52 go at the stage there it is and let me
+12:56 switch to Chief so Bill if you're using
+12:59 the template that you've that I produced
+13:02 we're seeing your streamyard there you
+13:03 go cool you seeing my chief you know
+13:07 yeah yeah okay good um I created again I
+13:12 started with this stuff way back um xx1
+13:16 I think where we started getting The
+13:19 annotation sets it was called we didn't
+13:21 have plan views all right so so we had
+13:25 to use our annotation sets to switch to
+13:28 the you know so if I switch to my
+13:29 electrical my layers switches when I
+13:31 switch to my framing that switches so we
+13:34 used to use those and I've just gotten
+13:36 so used to use them I just kept them in
+13:38 here I'll explore Rene using the plan
+13:41 view for that I just have never got to
+13:43 that because this works so dang well um
+13:47 so if you get into the situation where
+13:50 you've switched to something and this is
+13:54 switch to let's see what would I do to
+13:56 make that switch uh uh um change your
+14:00 layer set yeah change my layer set okay
+14:02 so if if you've done that and it changes
+14:04 it says use active defaults okay so now
+14:08 I'm I've got that in there because this
+14:10 doesn't match that all right what you do
+14:14 is get this set back to you know a lot
+14:18 of times if you just switch get it so
+14:19 they're all matching okay so all three
+14:22 of them should say the same thing and
+14:24 then make sure you hit this little icon
+14:25 right here the save button and that will
+14:29 save the settings so that next time you
+14:31 switch back to the quarter inch it'll be
+14:34 all the same so if that's was what your
+14:36 question was to that just kind of keep
+14:38 that in mind so but you know I totally
+14:39 get that the the defaults here are the
+14:43 same as the defaults up here okay so
+14:46 that's kind of how I populate my plan
+14:47 views is using the default sets that
+14:49 I've created up here so I've had it set
+14:51 up for years now where it's just
+14:53 whenever I change this to something all
+14:55 of these change to some to to match so
+14:59 all match I know they're good so change
+15:03 your set one more time Dan the layer set
+15:07 yeah change the layer set
+15:10 y yeah now you go back to save plan View
+15:14 and select that save plan view again
+15:17 click on the down arrow for the save
+15:18 plan
+15:19 views if you haven't saved you haven't
+15:22 saved your changes you can just go back
+15:23 and click on that again and it will set
+15:25 it back it'll switch it it'll yeah a lot
+15:27 of times it's like want to find
+15:29 something in my plan I don't remember
+15:31 what layer I put it on so I'll just
+15:32 switch to all layers on and then I'll
+15:35 find that item in my plan and go oh okay
+15:37 it's it's that layer so I use all layers
+15:40 on and off all the time and then again
+15:42 to switch back to where I was I just
+15:44 switch reset the the plan View and it
+15:47 all sets back so that works really well
+15:48 so I hope that helps bill so he says
+15:51 plan view has turned off so is that part
+15:54 of the extended toolbar where that come
+16:00 that's part of the plan view um when we
+16:04 when we edit the plan view you've got a
+16:06 an option here to
+16:09 save or you know prompt to save why save
+16:12 or never save I got mine to never save
+16:15 bill could you tell us what you mean by
+16:17 saying that it's the saved plan view is
+16:20 off I think he's said I think what he
+16:23 saying is it's not not seeing the menu
+16:25 not seeing the menu or maybe it's set to
+16:27 none
+16:35 you know you your toolbar maybe your
+16:36 toolbars got messed up and you're are
+16:38 you missing the drop
+16:41 down I guess that's we just need a
+16:43 little more information here so all
+16:46 right um that's what I asked but the
+16:48 save plan view is off the save plan view
+16:50 is
+16:51 off button is off what buttons off
+17:00 all right button is oh to save
+17:04 it so you've got these three buttons
+17:06 I've talked about this a number of times
+17:08 on our show um and these are amazing
+17:11 what you could do with these three
+17:13 buttons in any view that you're working
+17:16 on so if you're in a camera view you can
+17:18 make a cop you can make a copy of the
+17:20 camera or you can save the camera view
+17:22 name it if you make changes to it you
+17:24 hit the save button if you want to make
+17:26 a copy of it so you can you know have
+17:28 cameras View number two we uses that
+17:30 same with plan views so if you have a
+17:32 plan view that you want to modify just a
+17:34 little bit you could do that so you know
+17:37 I created a plan view to create dotted
+17:39 lines and that's part of my actual
+17:42 template
+17:44 um we you know if you make a change to
+17:47 something you know if you go in here and
+17:49 you make a change to it um are you going
+17:52 to create a new one I was making a copy
+17:54 so so here's what oh sorry go ahead yeah
+17:58 go ahead no go ahead
+18:00 um Bill if it if your button to save is
+18:03 off and it says using active
+18:06 defaults um at some point you save
+18:09 something that was different right than
+18:12 what was in the original template you
+18:14 could import default settings from Dan's
+18:17 template again and only check saved plan
+18:21 views or rather I think you get to just
+18:23 import save plan view from the menu is
+18:25 that correct or just bill give me a call
+18:28 and we'll fix it import saved plan views
+18:30 from the file menu so file import import
+18:33 saved plan views Target Dan's template
+18:36 and it will reset all those save plan
+18:38 views if you've never modified them
+18:40 before if you've never modified them
+18:42 that's the key so um that that it does
+18:46 work so I do that once in a while when I
+18:48 created a plan view somewhere else and I
+18:49 want to bring it in to a plan that I'm
+18:51 working on I could do that but um yeah
+18:54 any Bill if you if you can't figure it
+18:55 out give me a call I'm happy to walk you
+18:57 through it real quick
+18:59 I'm really interested in the way Renee
+19:01 did those default sets um because they
+19:03 showed something at Chief well I'm
+19:05 really interested in the way you did
+19:07 that because when we were at Idaho when
+19:09 we were in Idaho they showed a way to
+19:11 save um to work with like a different um
+19:15 annotation set Dimension set on a
+19:18 drawing so you had on an
+19:20 elevation on a kitchen elevation you
+19:22 could do some vertical detail elevations
+19:24 at a smaller um Tex size yeah you could
+19:28 change your
+19:29 your scale but Dan does that as well um
+19:33 I do that with some layer sets that I've
+19:35 created um and some of the you know
+19:37 different views that I've created and it
+19:39 works pretty well um Renee we'll put our
+19:42 heads together we'll get we'll come to a
+19:45 good medium here and I'd love to talk to
+19:47 you more about this so we can share more
+19:50 information with everybody but U no said
+19:53 it was your show and we're doing it your
+19:54 way and that's it what during during
+19:57 this during this show
+20:00 that doesn't mean in real life that
+20:01 doesn't mean we have to do that in real
+20:03 life um
+20:05 so I do want to I do want to explore
+20:08 your template more I mean it's just like
+20:09 one of those things that I've got my
+20:11 template I've used it for years and
+20:12 years it works great you have yours
+20:14 which is much more advanced than what I
+20:16 do um and I just want to I really want
+20:18 to learn more about what you're doing so
+20:20 that was a a really good segue um to
+20:23 that I have a Christmas sale going on
+20:25 right now you do oh my goodness why
+20:28 don't you so that's there for until
+20:31 Christmas and then on top of that if
+20:33 you're here watching this show right now
+20:35 today only the first five people to go
+20:38 buy something using this discount code a
+20:42 it's another 15%
+20:45 off thanks Renee that's sweet so you go
+20:49 to my website rabbit design.net you want
+20:50 to buy something there um it's it's
+20:53 locked in the first five people that use
+20:54 this code um are G to get another go to
+20:57 the Chief Architect shop yeah I love
+21:00 bman all right with two ends thank you
+21:03 yeah nicely done thank you reenee um
+21:07 Robin you gotta cue your screen aren't
+21:08 you gonna do
+21:09 schedules yeah I wanted to well I want
+21:12 to show something and then Renee I
+21:13 wanted you to kind of let me let me
+21:16 start with the schedules today okay and
+21:18 then we'll segue into you guys because
+21:20 you're gonna go probably more advanced
+21:22 than I'm going to talk about uh so I
+21:24 want to talk about some real basic
+21:26 things but you guys check out Rene's
+21:27 website he's got some great things there
+21:29 in fact you get your probably get your
+21:32 best price on your whole package Renee
+21:34 right where's that yeah where's your
+21:37 pack oh the first one the complete
+21:39 package is not on sale but you can get
+21:41 that 15% off on it so that'd be a good
+21:43 one you go nice
+21:47 cool
+21:49 uh we got x16 you're not Shing your
+21:52 screen down there you go well there we
+21:55 go show my screen there we go I'm on
+21:56 renei right now so check it out you guys
+21:59 um I love danam boming yeah that's
+22:01 that's the code I should something
+22:03 that's really sweet um okay back to
+22:07 Chief all right so
+22:09 schedules you guys um use schedules so
+22:13 um you I've got my template right now
+22:15 and I'm I'm about to make some changes
+22:17 to it where I've got a I've got the uh
+22:20 put a window in and I've got the windows
+22:22 the call the window size and the type of
+22:26 window and a call out and I I don't know
+22:28 why I set this up like this at one time
+22:31 uh but I've changed since and I do a
+22:33 really
+22:34 simple methodology when I do schedules
+22:37 again most of my clients like really
+22:40 basic stuff so I try to keep it that way
+22:42 so your schedules are going to be um
+22:45 part of this drop down here and I you
+22:48 know I'm going to create a window
+22:49 schedule now if I add a Windows schedule
+22:52 now I'm I'm going to get double call
+22:55 outs well I don't want that that means I
+22:56 already have a schedule in my plan
+22:59 somewhere of which I do I have one in my
+23:02 cad detail Library so my template I have
+23:06 a will you show how to find out that
+23:09 when you've got two schedules how could
+23:10 you find where the second schedule is
+23:14 um I don't know how do you do
+23:17 that um you know how I think of two two
+23:20 ways that I think are efficient will you
+23:22 drop a schedule there again yeah so I
+23:24 got another schedule in x16 click on any
+23:27 window
+23:29 yeah and at the bottom of the screen yep
+23:33 that one right there project so that's
+23:36 this icon down here find schedule from
+23:38 object okay yeah and so there they are
+23:42 okay nice that's a really easy way of
+23:45 finding it huh I've never used that
+23:47 before cool nice to know um otherwise if
+23:50 someone's more used to will you dropping
+23:52 in
+23:54 again um if someone's used to the
+23:57 project browser we open the project
+23:58 browser bet which I use all the time
+24:02 that is another way are really
+24:04 proficient with the project browser
+24:06 there you go in the you're in the
+24:07 schedules folder and it's
+24:09 showing so there they are yeah so if
+24:13 you're not using the project
+24:15 browser start using it it's really nice
+24:19 and I've showed again even if all you
+24:21 use it for our cameras um it's so nice
+24:24 to be able to create cameras and then
+24:27 just do all your sh all at once and then
+24:30 start applying them to your layout page
+24:32 there's some cool things going on there
+24:34 all right so let's talk about this I
+24:35 want to I like using schedules I like
+24:38 using call outs where I have the call
+24:39 out number Dash and then the Windows
+24:42 size it's just kind of a lot of the
+24:45 contractors I work with like that method
+24:47 so less
+24:49 cumbersome it's less it's less
+24:51 cumbersome
+24:53 it's so let me just cover a few things
+24:55 real quick here so so let's go to the
+24:57 schedule so I will open my schedule here
+25:01 on my template by the way we can now
+25:04 save schedules in the libraries and we
+25:06 can save we can also save as many
+25:08 schedules we want as part of our
+25:09 template let me grab this and tile the
+25:12 display and here's my schedule with all
+25:14 the different windows in my plan I just
+25:16 kind of pop this together and made
+25:18 Windows a whole bunch of different sizes
+25:20 so I've got it set up with a you know
+25:21 showing the window elevation call out
+25:25 number and the label number I want these
+25:27 two things to show up on my floor plan
+25:30 okay right now they do like you know I
+25:32 got the big call out there but here's
+25:34 what we need to do with the windows so
+25:36 I'm going to just I'm going to group
+25:38 select all the windows I'm going to
+25:39 highlight the window icon do a group
+25:41 select of all the windows by holding my
+25:42 shift key down open that dialogue in the
+25:46 label I'm just going to hit include
+25:48 schedule number I'm not going to do any
+25:50 macros nothing else I'm going to just
+25:52 turn that setting on and click okay now
+25:56 you'll see that you got the call out and
+26:00 the window now the other thing about
+26:01 that when you're in that dialogue also
+26:03 make sure you set up your your offsets I
+26:07 have my offsets at minus 10 so the text
+26:11 is 10 inches away from the window okay
+26:14 so you can adjust that so if you want it
+26:16 a little further from the window a
+26:17 little closer to the window you can
+26:18 change that setting but I don't want the
+26:21 call outs anymore so here I'm going to
+26:24 go to my actual schedule open its dial
+26:28 log and under labels I'm going to hit
+26:31 use label only don't use the call out
+26:35 right and then click okay now I've got a
+26:38 nice clean label W4 here's W4 here's the
+26:43 window size you see it is you know I
+26:45 don't even need the the call out column
+26:47 anymore because the label now includes
+26:50 the call out number so that works really
+26:53 well so now the other thing you could do
+26:56 with these things at any time
+26:58 um I just was going over this this
+27:00 morning with a client and we were he was
+27:03 saying you know he had a whole bunch of
+27:04 different Windows he likes the windows
+27:06 to be called out individually he doesn't
+27:08 want to group them so there's a couple
+27:10 of options there one is to go to your
+27:14 schedule and under general or column
+27:17 rows you could say group similar objects
+27:21 now the window some of the windows are
+27:23 the same size you'll get the same call
+27:25 out and it'll tell you how many of those
+27:27 that you have so window o02 it's like oh
+27:30 where are window o2s in my plan well I'm
+27:33 going to click on that item in the
+27:35 column and I'm going to go over here to
+27:38 um I'm going to go over here to the
+27:40 bottom and find that object in my plan
+27:44 okay so I can do that from here there's
+27:46 those two windows so you can click on
+27:48 any column find in your plan this is
+27:51 really nice the other thing you could do
+27:54 is go
+27:56 here what that um
+27:59 and you can find the schedule that
+28:02 that's in actually I want to go here I
+28:05 don't have to go click on the window say
+28:06 I want to change the I want to change
+28:08 something about these two windows so now
+28:10 I'm going to go over to this icon
+28:12 instead of open the dialogue I'm G to
+28:14 open the window I'm going to open the
+28:16 dialogue for those items from the
+28:18 schedule so I could click there now I
+28:21 could modify Windows who's making all
+28:24 that
+28:25 noise that Robin yeah my kid going
+28:30 outside okay um sorry and now I can
+28:34 modify those windows and it'll change
+28:36 them the other thing that you might want
+28:37 to do is to rearrange the order of the
+28:40 windows on the schedule so there's a way
+28:43 to do that by opening the schedule and
+28:45 you could say automatically sort by what
+28:48 label or descending you know label
+28:52 height room T room name let's just let's
+28:55 sort by room name for a second so now
+28:58 going to change the label numbers it's
+29:00 going to change the way everything's
+29:01 sorted on here by room name so label
+29:04 number let's let's go back to the
+29:05 individual labels for a second we're
+29:08 we're not grouping them because you got
+29:11 a whole bunch of things now so so now
+29:13 I've got window one two okay now I kind
+29:17 of want to label I want to get these so
+29:19 they're just all in order around my plan
+29:22 so that's where I might uh sort them by
+29:26 label and click okay now we got you know
+29:31 10 let's see does that work how does
+29:33 that work actually I've never done that
+29:36 actually so we got
+29:38 two no they're not in order okay so all
+29:43 right I want them in order on my plan so
+29:45 I might do you guys know how to do that
+29:47 so I could have one two three four you'd
+29:49 have to drag them in the yeah so that's
+29:51 where I'm going to go so I'm going to
+29:52 find window 10 and I'm going to drag
+29:54 that up to the first spot I'm going to
+29:56 find um turns off auto sorting that's
+29:59 fine so now I'm gonna window N9 is going
+30:03 to be this is where it's nice to have
+30:04 your screen tiled like this you know
+30:07 what actually the easier way to do that
+30:08 is if you would have had them you could
+30:10 have organized them by room can't you
+30:12 just click on the room and I did that
+30:15 yeah it sorts it doesn't sort them in
+30:17 order it sorts them by of I think the it
+30:20 sorts them I don't know if it sorts in
+30:22 by room alphabetically I'm not sure how
+30:26 I'm not sure how it sorts them by room
+30:29 let me can I show you it doesn't take
+30:31 that long to do yeah go ahead will you
+30:33 open the schedule and sort by room name
+30:36 again
+30:37 absolutely sort
+30:40 by
+30:42 name okay and press okay um notice that
+30:46 bedroom 2 is kind of um organized in a
+30:51 way that's the the width dimensions are
+30:55 um going from highest to lowest okay in
+30:59 the schedule yeah see the width
+31:00 Dimensions we start with 45 22 go ahead
+31:03 and open it again sort by
+31:08 width sort by width
+31:14 yep okay so that sorted by width you
+31:18 notice that sort by
+31:21 room still is grouped the rooms are
+31:24 still grouped why is that so if you went
+31:27 back now and sorted by room again then
+31:30 it would still keep uh it would still
+31:33 retain the sort by width and but is it
+31:37 remembering the last thing you did it's
+31:40 just that it sorted it right and then
+31:41 it's and now all it's doing is changing
+31:43 the parameter first sorting by width now
+31:45 it was descending but there you go it's
+31:48 it is sorted by width and then room is
+31:52 priority so like if you were really
+31:55 particular and you wanted to fix those
+31:57 couple little things that's that's
+31:58 something you could do um I want to show
+32:01 you an error that comes up um with
+32:04 people which is will you open this
+32:06 schedule and um flip the rows and
+32:10 columns swap rows columns which is right
+32:12 underneath automatically sort
+32:15 by what does that do press press okay
+32:19 got it got and so now we're we've
+32:21 flipped them basically it's it's
+32:22 inverted um right so you're going down
+32:26 you're reading down instead of reading
+32:27 ACR
+32:28 and so a problem people have with this
+32:31 is in this View and this is still an
+32:33 active glitch is if you're trying to
+32:36 manually sort some of these items
+32:38 sometimes it won't work and the fix is
+32:43 you have to swap rows columns back do
+32:46 your manual sorting and then swap it
+32:48 again and you'll have manually sorted
+32:51 how do I make this top column smaller
+32:56 um top huh the diamond at the top
+33:01 there those I want to make the height
+33:04 smaller yeah you're going to have to
+33:05 you're going to have to um well in your
+33:07 edit toolbar reset the sizes so at the
+33:11 bottom of the screen in your edit
+33:13 toolbar uh which one is is about the
+33:16 sixth one to the left I
+33:19 think seventh one keep going keep going
+33:23 reset column width yeah okay now it's
+33:26 making them all smaller but I can't
+33:28 change and this is just a plan view
+33:30 scale so you'd have to you know move
+33:32 those diamonds to to change the the plan
+33:35 scale or or go set that option in the
+33:37 schedule about the plan view scale but
+33:40 how do I change the height of this one
+33:42 column you'd have to you'd have to
+33:44 narrow all the window columns the
+33:45 windows are what is changing that or
+33:48 you'd have to change the scale so if you
+33:49 open it up right now open the schedule
+33:52 up and go to scale
+33:56 images at the bottom of the screen there
+33:59 okay and just press okay no you don't
+34:02 use plan VI scale there you go now if
+34:04 you um shrink one of those
+34:08 columns shr with the uh one of the ones
+34:11 that is a window so go further to the
+34:16 right you'd have to shrink all those
+34:18 columns until the point where I want I
+34:21 want to shrink the freaking height I
+34:23 know you have to shrink all of them you
+34:25 have to shrink all of them and that will
+34:26 change the height it's it's being
+34:28 dictated by your tallest window right
+34:31 now so if you if you zoom out of this a
+34:33 little bit so we can see the whole
+34:35 thing every one of those windows is that
+34:38 height you'd have to shrink every one of
+34:41 those columns in order to get it to
+34:43 shrink that
+34:47 row W I don't get it why don't they give
+34:50 op to shrink it up and down yeah go
+34:53 ahead and switch bring your screen up
+34:54 let's see so Renee when you're doing a
+34:57 cabinet schedule is there a way to
+34:59 organize them easier to do base cabinets
+35:03 because the way you should be doing your
+35:05 cabinets it should be base walls talls
+35:08 fillers in the same order right base
+35:11 walls talls and then your Bings can you
+35:14 pin that thought because I'm gonna lose
+35:16 track of what I'm showing okay um so Dan
+35:19 I only have one window so this is really
+35:20 easy for me I'm just going to take this
+35:23 one
+35:24 column and shrink it down and that
+35:26 shrinks My overall row height up until
+35:29 the point where it can't shrink
+35:31 anymore but it's still the width of it
+35:35 so if I open this up and scale images
+35:38 the height does not work at all like the
+35:42 no the when we have we have the schedule
+35:45 the other way when we have the schedule
+35:47 so that
+35:48 it's um what was that again that was
+35:51 swap row so this way I
+35:54 can grab I can
+36:02 and I shrink you know the the spacing
+36:05 around yeah so that that way I
+36:10 can sorry my dog is going up in the
+36:12 background
+36:13 here um yeah I we can't do that for the
+36:17 height we can do that here like this but
+36:20 we can't do it up and down that's what
+36:22 it has to have some kind of minimum
+36:23 spacing I don't think I've ever done a
+36:25 schedule with the windows the images at
+36:27 the I I prefer it this way because it
+36:29 looks like a lot of um the architectural
+36:32 plans that I work with so yeah um they
+36:36 don't them with the images at the
+36:39 top yeah because a lot of architectural
+36:42 sets I'm seeing right now um have that
+36:45 so if I'm trying to work with an
+36:46 architect and get a similar style that's
+36:48 what I'm using I think it's so
+36:50 interesting how it's so Regional
+36:53 everybody's designed you know it's like
+36:55 drawings we're I'm noticing a new detail
+36:58 that's happening around here in um
+37:01 elevations that I've never seen before
+37:04 and it's becoming so much more popular
+37:06 which is driving me crazy but that's a
+37:08 question I want to ask for you but in
+37:10 Cabinetry in a cabinet schedule the way
+37:13 cabinets are supposed to be ordered it's
+37:15 a really specific way you're supposed to
+37:17 list cabinets it's like you know full
+37:20 height based cabinets then cabinets with
+37:22 one drawer then cabinets with you know
+37:24 two drawers and three drawers and then
+37:26 you know any accessories you go all the
+37:28 way down this list right and then you go
+37:30 you go to base cabinets walls talls then
+37:34 all your fillers in that same order than
+37:36 your
+37:37 moldings so is there a way to get the
+37:40 schedule
+37:41 to um group them like that otherwise you
+37:44 have to actually literally go through
+37:46 and move them all around um where are
+37:49 you saying that that's a a standard I've
+37:52 never seen that as a standard did you
+37:54 have standard when you order cabinets
+37:57 well when you order cabinets that's what
+37:59 I was just asking is when you order
+38:00 cabinets you order cabinets like that
+38:02 when you do a cabinet order that's the
+38:04 way cabinets supposed to be done um you
+38:07 do one given manufacturer I've gone
+38:10 through at least five or six different
+38:11 manufacturers and they don't care about
+38:12 all that oh well every cabinet
+38:15 manufacturer I've ever worked with
+38:16 they've always done it that way but
+38:18 that's that's fine um so usually I
+38:22 usually order based on
+38:25 installation the way I want someone to
+38:27 start is cabinet
+38:29 one well yeah I mean when you're putting
+38:32 together an order and you're sending it
+38:33 to a manufacturer they want it a certain
+38:35 way because it's the way their system is
+38:36 set up but that's okay it's just
+38:38 something that I know that I've
+38:40 experienced and I'm you'd have to you'd
+38:42 have to manually order that well you can
+38:44 do it by type first so you could group
+38:46 it by type oh at least you can get that
+38:49 set up okay yeah okay is not a bad idea
+38:53 I'll show that real quick um so we're
+38:56 just saying we've got a couple different
+38:59 base cabinets uh and we've got wall
+39:02 cabinets and we got full height cabinets
+39:05 and we're going to go look at those
+39:07 schedules and I'm just going to ungroup
+39:09 similar objects so we see all those and
+39:12 so there we go we got a big cabinet
+39:14 schedule
+39:16 and so I'm going
+39:18 to sort by well I need to
+39:22 add type which Bo I guess they don't
+39:26 have a type column
+39:28 all right let me show you how to do this
+39:30 great question you would have
+39:32 label um yeah but we don't have type in
+39:35 particular and so if I were to go check
+39:38 out to see if Chief actually reports
+39:41 type and I wanted to see if this existed
+39:44 I'm G to just check this out real quick
+39:46 is that we do in fact have a type code
+39:49 coming from
+39:50 cabinets so I could go and take the full
+39:54 height cabinet tool shift select all my
+39:57 cabinets let's open this up um I'm going
+40:00 a little bit fast uh object information
+40:03 panel we're going to create a new
+40:05 field that field is gonna be
+40:09 type and then make sure you go Target
+40:12 that field because they don't do it
+40:14 automatically once you create a new
+40:15 field and I am going to literally put in
+40:17 percentage sign type percentage sign
+40:21 okay press okay let's get back to the
+40:26 schedule and and in the schedule I need
+40:28 to now
+40:30 include that new custom field I created
+40:33 type right so add it from The Columns to
+40:36 include let's just go ahead and move it
+40:38 up to the top there and then I should be
+40:40 able to say automatically sort by type
+40:43 let's just call it
+40:45 ascending and there we go
+40:49 brilliant cool that's a good
+40:53 one that wasn't actually that hard to
+40:55 figure out um I could probably figure
+40:58 that one
+40:59 out I like that good one
+41:04 Renee
+41:07 nice okay now I feel like probably do
+41:09 that you do that with any Windows
+41:13 Doors I know now I'm like oh that's
+41:15 pretty cool okay so now what was it you
+41:18 wanted to talk about well I wanted to
+41:20 show um but I have to figure out sorry
+41:23 you guys I have to figure out how to get
+41:25 to my screen how I apologize the bottom
+41:28 and click on the present button present
+41:31 button and then click on the oh I see
+41:33 it's down there click on the one way on
+41:34 the way on the right side to show your
+41:36 whole
+41:37 screen Mark come on Mark we don't get
+41:41 thick in the weeds what are you talking
+41:42 about hey Dan that's a perfect that's a
+41:45 perfect advertisement for your uh Pro
+41:48 Academy There You Go Pro
+41:51 Academy we take time get out of get out
+41:55 of the that's a good looking elevation
+41:59 yeah it's a pretty basic one um so no no
+42:02 laughing at any of the details on it
+42:04 because I didn't really this is a um
+42:08 pretty basic stuff anyway what I'm
+42:11 noticing a lot of designers in Portland
+42:13 are starting to noticing Architects and
+42:14 designers is they're starting to label
+42:17 put tags on every one of their
+42:18 elevations of where all the materials
+42:20 are which is actually kind of cool um
+42:23 but in the way I've been doing it I've
+42:25 been using notes and it's very com some
+42:28 so I've been creating something like
+42:30 this right so when I have done it what
+42:33 I've done is I took a note and I had to
+42:35 go in and I have to add the note in each
+42:39 one individually right so if I did that
+42:41 here then I open it up and I have to put
+42:43 information in it right so I have my
+42:44 finishes right here and then I have to
+42:47 add the information and here I might
+42:48 call this um cabinet right so I have I
+42:51 put a number here one and then I have to
+42:54 say you know what the detail is so this
+42:55 is uh
+42:57 design element
+43:01 design the note schedule and one part is
+43:05 a schedule created from a bunch of notes
+43:07 that you add to your
+43:08 plan's yeah so what it is is being so
+43:11 it's referencing here right um oh I
+43:15 didn't put it in that schedule sorry
+43:16 didn't get it into that the correct
+43:18 schedule so the C1 would be cabinet one
+43:21 yes please well what's your question
+43:23 it's really cumbers so the cumbers the
+43:26 idea is what I want to be able to do is
+43:28 put a whole bunch of different kind of
+43:29 finishes in one schedule on this so for
+43:33 example um f02 is PT is paint right so
+43:38 the coing and the ceiling is a different
+43:40 ceiling color right so I have to put a
+43:42 paint color there that elev that cabinet
+43:46 that has the warning sign on it is a
+43:48 cabinet detail so it's a I'm putting a
+43:51 special kind of a door Style on that
+43:53 that's different than everything else in
+43:55 the kitchen um and then that tile
+43:57 section you know F1 is the tile right so
+44:01 how do I have
+44:02 finishes that I can actually do finishes
+44:05 on an elevation and then create a
+44:08 schedule for it so that way the
+44:11 installer the contractor can look and
+44:13 say oh this tile goes on this elevation
+44:15 it's installed in this direction you
+44:17 know because we do that like I might
+44:19 have five different kinds of well I
+44:20 wouldn't never do that but I might have
+44:22 three different tiles on one
+44:25 wall okay and then we have different
+44:28 paint colors and we might have a
+44:29 wallpaper on this wall and then the trim
+44:31 is different or something so how do you
+44:33 create a custom schedule like that
+44:35 because I am seeing more and more and
+44:37 more designers who are putting all this
+44:40 information on their elevation so that
+44:43 way the contractor when they are putting
+44:46 this together when the contractor is
+44:47 doing it they can see oh they this tile
+44:50 goes on this wall this wallpaper goes
+44:53 here this paint color goes on this this
+44:55 cabinet door style is here
+44:57 because you know we're using like two or
+44:59 three different kinds of cabinet door
+45:00 styles two different finishes on a
+45:02 cabinet so how do we do
+45:06 that okay um let
+45:09 me so I'll stop sharing so you can show
+45:13 your
+45:14 magic I'm actually on I'm gonna try just
+45:18 figuring because the way I've been doing
+45:20 it it's really cumbersome and it's
+45:22 almost irrit it's so cumbersome that
+45:24 it's irritating to me to almost to where
+45:26 I want to just I just type it out you
+45:29 know so I just start doing the like I
+45:31 had here vertical divider spice pull out
+45:33 because it's so much easier but I'm
+45:35 seeing designers wanting that kind of
+45:39 detail okay
+45:42 so I got a cool little trick here for
+45:44 you I'm going to show my screen again
+45:47 yeah um I got a backsplash here yes okay
+45:52 it's got a material um what was one of
+45:55 the codes for one of your materials
+45:57 well so t for tile t for tile okay yeah
+46:01 c for cabinets PT for paint you know I'm
+46:04 G do this I'm gonna put T and then and
+46:08 then a little hyphen in my tile's name
+46:12 okay I'm press okay I'm want to save
+46:14 that tile to my library by the way add
+46:16 the library okay I always want to use
+46:18 that because now it's got this prefix
+46:20 that I've established t for tile all
+46:23 right
+46:25 um I'm going to
+46:30 I don't have this code right I'll get it
+46:32 right by the end of this but basically
+46:34 I'm given a code where it's just going
+46:36 to it's going to split this entire that
+46:39 entire name of the material about The
+46:42 Hyphen that I put in there and only put
+46:44 the prefix that it had okay so
+46:49 automatically next thing I'm going to do
+46:51 is I'm going to create a schedule for
+46:52 this because this can actually be
+46:54 included in a schedule because this is a
+46:56 backsplash
+46:57 if we open this up we see includeing
+47:01 schedule as backsplashes okay so what
+47:05 you would do is you come in and do a
+47:08 custom
+47:10 schedule and in that custom schedule
+47:13 it's going to
+47:15 be this this is how you avoid the double
+47:18 labeling thing double call out thing do
+47:22 you can have so what you're saying you
+47:24 can have different schedules report to
+47:28 different what because this would be
+47:31 backsplash and now I want cabinet
+47:32 finishes to report to that and I want
+47:35 paint finishes to report to that same
+47:37 schedule that's fine you can include
+47:39 those things as well you you want say it
+47:41 again you want so it's I want paint and
+47:44 you know like wallpaper paint um cabinet
+47:47 hardware to report
+47:50 to or accessories I don't know all those
+47:53 kind of things to report a couple
+47:55 different ways you can make a really
+47:57 complicated schedule where you're
+47:58 including multiple things or you can set
+48:01 up schedules where they look similar and
+48:04 you stack them up next to each other um
+48:07 oh sure okay that would be probably a
+48:10 little bit easier to set up is where
+48:12 you're doing a wall schedule where
+48:14 you're only reporting the walls interior
+48:16 finish you're doing a backsplash
+48:19 schedule where you're only reporting
+48:20 that and so this gets to I mean if you
+48:23 just wanted to do a wall schedule where
+48:25 it's just all your tile you could do
+48:28 that just by changing this prefix uh in
+48:31 the schedule number prefix to T and only
+48:34 including backsplashes that were custom
+48:37 backsplashes in the custom category okay
+48:40 so you know what that's kind of crazy it
+48:42 sounds like I want to be able to split
+48:44 that P the PT and all that that's what I
+48:47 want to split there's T1 and it's custom
+48:50 backsplash and I could report the
+48:52 material name in the schedule if I
+48:53 wanted to and then it would be fine if
+48:56 it report Ed to um if they reported
+48:59 different C schedules but if we knew
+49:03 that this was pt1 and then the you know
+49:07 why would you want them to report to
+49:09 multiple schedules well if it's easier
+49:11 you said you can either make a
+49:13 complicated schedule not multiple
+49:15 different
+49:16 schedules just be your backspash
+49:19 schedule and then I would do a wall
+49:21 schedule um in terms of the
+49:25 numbering that gets it's a little bit
+49:27 more complicated we have to do macros in
+49:31 order to eliminate duplicate
+49:34 numbers but oftentimes we don't need to
+49:38 show a schedule number so that doesn't
+49:39 matter like you're doing a wall finish
+49:41 schedule when are you ever going to show
+49:44 a Wall's schedule number so does it
+49:46 matter that it has duplicate schedule
+49:48 numbers because it's never being shown
+49:50 anywhere so that would be my case there
+49:53 is yeah go ahead and put backsplash on
+49:55 multiple different things and you can
+49:57 establish your own coding for it you can
+49:59 always create your own code for anything
+50:02 as well and just have that be a label
+50:04 you're just not going to get that call
+50:05 out symbol in this case okay okay I'm
+50:10 gonna play with that and then I'll let
+50:11 I'll I'll play with that idea so I want
+50:13 to figure out I'm G I'm just gonna show
+50:16 a resource that's on my site in case no
+50:19 one's ever seen this um there is I think
+50:23 it's called rabit design resources yes
+50:27 gets you to this page and if you haven't
+50:30 seen this this's a little segue this is
+50:32 a big one for me let me switch this so
+50:34 we can see this a little bit bigger is
+50:36 there a link on your homepage for that
+50:38 uh there is there's a link on the
+50:40 homepage so if you go back
+50:42 to design.net if you either from the
+50:46 hamburger menu or just move your mouse
+50:49 cursor all the way over to the right
+50:51 here is resources so if you see that
+50:54 drawer box that's resources
+50:57 um I'll show this one first because this
+51:00 is just one I think everybody could use
+51:03 um oh that's good and it doesn't come up
+51:06 with
+51:08 anything
+51:10 oh I don't know how people are finding
+51:12 that
+51:13 shoot um well this one way to figure it
+51:17 out now you need to fix up someone else
+51:19 share their screen real quick I'm gonna
+51:20 fix it
+51:30 how many I'd be curious to know how many
+51:32 people use schedules for anything other
+51:35 than Windows and Doors do you guys use
+51:37 room finish schedules using framing
+51:40 schedules um you know what kind of
+51:42 schedules are you guys using I'd be
+51:45 really interested in that uh how about
+51:48 you guys on the call here what schedules
+51:50 are you putting in
+51:52 plans uh lot coverage schedules
+51:55 sometimes okay
+51:57 um basically anything Let's see we do uh
+52:02 sometimes we'll we'll add a roof plane
+52:04 schedule so the the roofers and uh
+52:09 people Gathering materials can know how
+52:11 much square footage of roof there is
+52:13 with different with the different types
+52:16 of roofing that get used
+52:18 sometimes um here's somebody that says
+52:21 they're using them for steel penel
+52:25 clicked it at the same time
+52:27 yep we're fighting each other here um
+52:29 steel panel schedule Bill uses notes
+52:33 mainly okay I got it oh you guys were
+52:36 watching me that whole time oops you saw
+52:38 how I was editing my site so it seems
+52:40 like the people that are on the call
+52:41 right now are mostly building designers
+52:43 not interior designers and that's or
+52:45 Architects we have building designers
+52:46 and Architects on board right now so
+52:50 um yeah bill this is interior design
+52:53 what I'm talking about is build is
+52:55 interior design stuff you know
+52:58 there's a different world out there yeah
+53:01 Norman are you converting your like
+53:03 cabinet moldings to poly lines when
+53:05 you're using them for moldings that's an
+53:06 interesting
+53:07 one um all right I'm going to show this
+53:10 now so I'm on my resources page now if
+53:13 you click building code look up it's
+53:16 fixed and I've got I've got two things
+53:18 that are really cool here and and I've
+53:20 done a lot of work on making these as as
+53:22 nice as possible which is that um on the
+53:25 right hand side
+53:27 is a AI based code interpreter that's um
+53:31 got an instruction set from me and it's
+53:34 and so you could say um give me ESS
+53:39 requirements above
+53:42 staircase
+53:44 with with citation how about that and so
+53:48 it's going to go look in a few places
+53:49 and try to figure this out for you and
+53:52 there we go and so the other thing that
+53:54 I could do is I could take this resource
+53:58 here and on the left hand side is a
+54:01 custom search engine I built um also
+54:04 with its own set of instructions to try
+54:06 to help you out and so we can search and
+54:10 now it's just searching in the same side
+54:13 by side as the code interpreter so you
+54:16 can kind of go back and forth with this
+54:18 and hopefully get to some answers really
+54:20 really quickly cool so um check that out
+54:25 cool so it's a free us this several
+54:27 times and got to a code that I needed
+54:29 really quickly so it's been it's been a
+54:31 cool one that I've been working is that
+54:32 something you developed B yeah cool um
+54:36 so yeah I'll just take this back and
+54:38 forth and back and forth until I narrow
+54:39 down you know my need here when you do
+54:42 click on a link it's going to take you
+54:44 you know um outside of that window and
+54:47 it's gonna bring you to a new window
+54:49 yeah so that you can still keep coming
+54:51 back to that page and and work
+54:54 progressively um was the thought there
+54:57 so that's one thing and then the other
+55:00 thing which I'm going to show here let
+55:02 me just get up see lost my
+55:13 page is I've got a ruby scripting helper
+55:16 here with some instruction sets and now
+55:19 um if you've used this before now it
+55:21 what's built in here is after so many
+55:23 instructions it's going to ask for your
+55:24 email and it sends me log and I will
+55:27 look at the logs over time and um if I
+55:30 see someone's email and I see they're
+55:31 struggling with understanding something
+55:33 I'll shoot them an email um I don't know
+55:35 if Tim shrock is around here but he's
+55:38 been using it a lot and so yeah I had a
+55:40 quick little shout out to him to tell
+55:42 him that he ran into a limitation in
+55:44 Chief um um so people are using
+55:47 schedules for a lot of different things
+55:48 so that's pretty
+55:51 cool I'm going to do a little
+55:53 instruction based on what we were just
+55:54 doing so I want a ruby script
+56:00 to
+56:01 um give me
+56:04 only the text in front of a minus symbol
+56:12 coming from the
+56:14 variable
+56:16 automatic
+56:18 automatic
+56:22 label make it a single line code
+56:27 and so I know a few things that I'm you
+56:30 know instructing it's going to give me
+56:32 some success here and so it's asking me
+56:36 is automatic label the actual um
+56:39 referenced variable and it will instruct
+56:42 you on how to find that if you ask it to
+56:45 so in case you don't have that knowledge
+56:46 it'll tell you how to and then there you
+56:48 go it's telling us how to get this out
+56:51 of script and then you should be able to
+56:54 do um takes a little bit of knowledge
+56:57 base but this works pretty well I'm
+57:01 sorry what were you
+57:04 saying Robin no you were pulling down
+57:08 something that showed all the items that
+57:10 was reporting to that one object when
+57:13 you were saying you how did you pull
+57:15 that down um that's something I gave
+57:19 away for free at some point and
+57:24 um it points to a so it points to a li
+57:27 Library object um this comes in my Pro
+57:30 Plan by the way this whole toolbar comes
+57:32 in my Pro Plan there's a couple
+57:33 specialty items here but this is my
+57:36 macro Search tool I don't know where
+57:38 this might be in terms of it being free
+57:41 you know you can email me for this
+57:42 that's fine um by default it's searching
+57:46 for anything that's a measurement so
+57:49 because this is placed in the room right
+57:51 now it's reporting everything that's in
+57:52 a measurement from the room um what
+57:55 chief has a special class called
+57:58 measurement that doesn't exist in Ruby
+58:01 environment anywhere else it's just
+58:02 unique to Chief but what I can do in
+58:06 here is come in here and in between the
+58:08 codes quotes type in material or floor
+58:13 or um height and it's going to search
+58:18 all those terms in between those commas
+58:20 so comma separated Search terms and then
+58:23 it gives anything that it finds
+58:27 so see how this is few things going on
+58:30 in the background in this program huh
+58:32 what's that a few things going on in the
+58:34 background here aren't there yeah you
+58:36 could say so right pretty long goodness
+58:39 Chief thank goodness chief insulates us
+58:41 from almost all of that stuff so yeah
+58:44 because it can get overwhelming right oh
+58:45 my gosh yeah
+58:48 butes this is all the reporting values
+58:51 um limited to not reporting anything
+58:54 that has to do with the room it's next
+58:57 to and if you look at this it's a mile
+58:59 long that's everything that your window
+59:01 reports to the program so wow that's
+59:04 pretty that's pretty crazy when you
+59:06 think that is amazing you know all of
+59:08 the you know we look at this and it's
+59:10 like oh that's pretty simple stuff but
+59:12 in the background here these programmers
+59:14 are you know someone had to put all of
+59:17 those things in there yeah when you're
+59:19 going how come Chief doesn't listen to
+59:20 me and doesn't do my suggestion oh you
+59:22 know because they have to make all that
+59:24 work with a bunch of other stuff yeah
+59:26 yeah yeah I know like oh this should be
+59:29 easy right something that's good to kind
+59:32 of know when you get into a major
+59:34 project that's got a lot of
+59:36 surfaces Chief will
+59:38 rebuild anything that is affected by the
+59:42 thing you're modifying in 3D okay so if
+59:46 we're in 3D and I modify a cabinet and
+59:49 that cabinet's butt to a wall and you
+59:51 have automatic roofs on and you have
+59:54 automatic build foundation on when you
+59:56 modify that cabinet it's going to
+59:58 rebuild the wall it's going to rebuild
+1:00:00 the roofs it's going to rebuild the
+1:00:02 foundation yeah
+1:00:04 so if you've got a big big project like
+1:00:07 you're doing a multi-unit thing turn off
+1:00:10 if you if you built your roofs already
+1:00:12 and they're set you built your
+1:00:13 foundation you know what done turn them
+1:00:15 off turn off the auto rebuild because
+1:00:17 then it will rebuild the scene faster
+1:00:20 yeah absolutely I do that all the time
+1:00:22 that's under where's that again it's
+1:00:24 under um 3D yeah if you got automatic
+1:00:28 framing turned on yeah yeah you can get
+1:00:31 some real big slowdown with all uh yeah
+1:00:34 it's 3D view default so under the pull
+1:00:36 down menu 3D go to the bottom item and
+1:00:39 just turn off Auto Rebuild walls Flor
+1:00:41 ceilings and that'll turn a lot of that
+1:00:42 off so if you get a big plan and you're
+1:00:44 waiting between every time you do
+1:00:46 something yeah just turn that off yeah
+1:00:49 that's a way to do it right that's a way
+1:00:50 to do it you got to remember though when
+1:00:52 you're looking at a 3D view if something
+1:00:54 looks weird got to remember to re build
+1:00:56 the 3D by hitting
+1:00:57 F12 or click on the icon to rebuild
+1:01:00 walls floor
+1:01:01 ceilings yeah anyway we were we're done
+1:01:05 here um thank you guys that was good
+1:01:09 stuff for uh hang on though just before
+1:01:12 we get off what did Peno say he I I
+1:01:15 don't know if peno's a woman or a man so
+1:01:17 I apologize um there they are um
+1:01:21 redrawing all I mean it seems like
+1:01:23 there's some support that we could help
+1:01:25 here
+1:01:28 I'm doing it manually Now by drawing
+1:01:29 small sections of
+1:01:32 wall same
+1:01:37 attributes for what exactly I'm not sure
+1:01:41 I'm not yeah are you making are you
+1:01:43 making schedules is this for schedules
+1:01:46 Pino how are you what are you doing all
+1:01:47 this
+1:01:51 for yeah because we have uh wall
+1:01:54 schedules that we could use
+1:01:57 um the other thing is I don't know what
+1:01:59 the fill is about but we do also have
+1:02:01 the wall hatching
+1:02:08 tool oh okay so walls we have a wall
+1:02:11 schedule so you'd build a wall schedule
+1:02:13 and you would show the 3D symbol um and
+1:02:18 then Pino I think I've seen you on
+1:02:20 Facebook before are you using x16 or are
+1:02:23 you on an older version that would be
+1:02:25 important to knowe um let's see and then
+1:02:29 property lines um showing property lines
+1:02:32 would be a polyline schedule which we
+1:02:33 got I think an
+1:02:35 x14 um would be an easy way to do that
+1:02:38 if you wanted to show
+1:02:40 that he's on X oh x16 yeah so we've got
+1:02:44 polyline schedules that you can create
+1:02:47 um some of those things don't have a
+1:02:48 dedicated schedule in the drop-down menu
+1:02:51 of tools so we don't have a dedicated
+1:02:53 polyline schedule so you would create a
+1:02:55 custom schedule and then once you drop
+1:02:58 that in and and open this up then you
+1:03:01 would go ahead and designate in the
+1:03:03 general panel that you want to include
+1:03:07 polylines so that would be a way of
+1:03:09 doing that um so if I want to include
+1:03:12 poly lines and then I've got you know
+1:03:15 here's my
+1:03:19 polyline I could they're not going to
+1:03:21 show up into one schedule you know that
+1:03:23 was kind of what we were talking about
+1:03:24 when you're creating so many different
+1:03:26 ideas Renee made the comment if you size
+1:03:28 them correctly and you kind of put the
+1:03:30 same information in each object thing
+1:03:34 then you can lit um stack them on top of
+1:03:36 each other to make them look like it's
+1:03:39 one schedule but Renee said that if you
+1:03:41 add different items like that into one
+1:03:44 schedule then it's going to be really
+1:03:45 cumber I mean it's a it's something
+1:03:47 you're gonna have it would suggest
+1:03:49 talking to Rene and having him create
+1:03:51 something for kind of convoluted yeah um
+1:03:55 so like this is
+1:03:56 this is even though this looks like
+1:03:58 maybe one schedule this is three
+1:04:00 different schedules and they are
+1:04:02 reporting different one's doing a room
+1:04:05 schedule one's doing a polyline schedule
+1:04:08 um so that was a method I was giving you
+1:04:11 Robin where you just make your schedules
+1:04:12 look very similar and and align their
+1:04:15 rows and columns and everything like
+1:04:17 that and now this looks like one big
+1:04:18 reporting schedule no and that makes
+1:04:21 more sense and seems easier to deal with
+1:04:24 cool yeah all right awesome I think
+1:04:25 that's the same thing you need to do
+1:04:28 yeah okay I think that's it for the day
+1:04:31 you guys thanks again be sure to head
+1:04:32 over to chief expert.com sign up for the
+1:04:35 uh get onemy Pro Academy check out our
+1:04:39 Summit and go to Rene rabbit. net R
+1:04:43 rabbit design r a BB TT
+1:04:47 design.net and take advantage of robins
+1:04:51 Rene's special that he's got on today
+1:04:53 with the what was that uh I love
+1:05:00 danman someone used it so cool all right
+1:05:04 that means people are watching the show
+1:05:05 that's good to know all right thanks you
+1:05:07 guys also John's got a website up now
+1:05:10 too and if you need plan help and advice
+1:05:13 and want a cheerful disposition on the
+1:05:16 other end of the phone give him a call
+1:05:20 getting
+1:05:20 H yes everyone you guys a great holiday
+1:05:25 we'll see you happy holidays see you
+1:05:26 later see we'll see you next year see
+1:05:29 you guys next year bye guys bye guys

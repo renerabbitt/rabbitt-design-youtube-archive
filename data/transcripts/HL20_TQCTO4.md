@@ -1,0 +1,1963 @@
+---
+videoId: HL20_TQCTO4
+title: Productivity Hacks Every Chief User Should Know - Designers Show #156
+url: "https://www.youtube.com/watch?v=HL20_TQCTO4"
+status: imported
+---
+
+# Transcript
+
+0:00 Okay. And I think we are live. Welcome
+0:03 everyone
+0:04 >> to the designer show. And speaking hi
+0:08 everyone. And of course Chad um Mike
+0:10 speaking of not knowing what we're going
+0:12 to talk about today. You just us. Okay.
+0:14 No Renee, no Robin, no Kevin. So
+0:16 although Kevin might pop in, who knows?
+0:18 But hi everybody. Um we got a lot of
+0:21 names we recognize here. Mike, nice to
+0:23 see you. Chad, glad you could make it.
+0:25 Mary, well early birds, way to be here.
+0:28 Aaron, how you doing? Aaron, we got to
+0:30 talk. I'd love to catch up with you,
+0:32 Erin. Um, I hear some changes are
+0:33 happening in your world. So, Mr. Kenny,
+0:35 Mr. Crocker, how are you, buddy? Mike
+0:38 again and Chad, Vicki, Aaron, you guys
+0:42 are great. I I really appreciate that
+0:44 you guys show up. It's uh John and I
+0:45 were just talking about we started this
+0:48 show,
+0:49 what did I say? Uh May
+0:52 >> 2020.
+0:54 >> Yep. May 2020, right during the height
+0:56 of COVID or the start of COVID, I guess.
+0:58 Um, you know, no one could go anywhere
+1:01 or do anything. It just seemed like a
+1:02 good thing to do and here we are. So,
+1:04 over five years later and we're just
+1:06 still having fun doing this. So,
+1:07 appreciate you guys being here. We will
+1:09 do our best to uh partake some some
+1:12 knowledge or of something. I don't know
+1:13 what. But, hey Jeeoff, good morning.
+1:15 Doug,
+1:16 >> I was just going to mention, Dan, every
+1:18 time you do that, go through everybody's
+1:20 name.
+1:21 >> Yeah. It takes me back to my childhood
+1:22 when I was six or seven and the good old
+1:25 show called Romper Room.
+1:28 >> I see
+1:29 >> and I see Sally and I see
+1:34 >> and then I suppose if we have to do the
+1:36 birthday thing with Casey Jones, happy
+1:39 happy birthday to all the boys and
+1:40 girls. Then we get to look in your lunch
+1:42 bag or grab bag.
+1:45 This would be for some of the older guys
+1:47 on the call here.
+1:49 Anyway, all right. So, uh, uh, we're
+1:53 gonna go over some things today, uh,
+1:55 called hacks. And I was just telling
+1:57 John, you know, what is a hack? I mean,
+1:59 it's just really something in Chief that
+2:01 you just haven't learned yet, haven't
+2:02 seen yet, or how does it work or I don't
+2:05 know, it's just all about education. So,
+2:07 Chief's got so many tools coming and so
+2:09 many different ways to do things. It's
+2:11 just like, okay, well, what's the best
+2:12 way to do that or how do you do
+2:14 something like that? So, um, Chad said,
+2:17 not that old. Yeah, that little boy. Uh
+2:21 uh so if you have questions, this is
+2:24 kind of open form. So we're here to
+2:26 answer any questions you might have as
+2:28 well, but you know, I've got some things
+2:29 I'll cover and uh we'll get into that.
+2:32 So I I got a little list that I just
+2:35 threw together here before the show and
+2:37 we'll just kind of step through that. So
+2:39 again, please feel free to ask questions
+2:41 if you have questions.
+2:42 >> Yeah.
+2:43 >> Dan doesn't need to whole list. So if
+2:45 you got questions, make sure you start
+2:46 asking them. Yeah. And John and I say,
+2:49 "Yeah, we could just we'll come up with
+2:50 stuff to talk about whether we like it
+2:52 or not. It's just how it is." Kenny
+2:54 remembers Romper Room. Wow. I don't
+2:57 remember Romper Room. I must not have
+2:58 watched that one.
+3:00 >> Anyway, lol Romper Room, Aaron.
+3:05 Uh that could be a We could do a game on
+3:08 that these days, too. Huh? Romper room.
+3:10 >> That'd be fun.
+3:10 >> Uh
+3:12 let's see here. Uh it's been a good
+3:14 summer so far. John, how about you?
+3:15 You've been you've been moving around
+3:17 quite a bit.
+3:18 >> Yeah, I've been busy moving kids here
+3:20 and there.
+3:21 >> Wow. Yeah, that's thing when you have
+3:23 family, you got to take care of them.
+3:25 So, you got the wherewithal to do it.
+3:27 That's nice that you can help out.
+3:29 >> Yep.
+3:30 >> I can't believe it. August state fair is
+3:32 going to start next week. It's like
+3:34 what? That can't be right. Oh, by the
+3:36 way, we're going to be in Celane um for
+3:40 the C chief architect event and we have
+3:44 an Airbnb and I have a room available if
+3:48 someone wants to come and stay with us
+3:49 if they're going to that event. 500
+3:52 bucks for the whole week. Uh you'd have
+3:54 your own private bedroom. I don't think
+3:55 not sure pro probably not a private
+3:57 bath, but you'd have your own room. and
+3:59 uh would welcome uh if if you want to
+4:01 come and join us, just give me a email
+4:03 or call and I'd be happy to talk to you
+4:05 about it. Uh it'll be fun. Those events
+4:08 are, you know, the chief architect does
+4:09 a nice job with those events. I got to
+4:11 shred. I got to call them, too. I want
+4:12 them to take me off that stupid contest
+4:14 they do. Um
+4:16 I'd rather just watch. I don't want to
+4:18 participate.
+4:18 >> Let them know that I don't want to do it
+4:20 either.
+4:20 >> All right, I'll mention it to them.
+4:22 Yeah,
+4:23 >> let let everybody else have the fun. We
+4:25 don't need to do that anymore. Yeah,
+4:26 >> they do a contest where they you have
+4:28 teams and you have to do this thing in
+4:31 five or 10 minutes that they put up
+4:32 there and it's it's it's just kind of a
+4:36 pain. Um they have fun with it, but I
+4:39 don't want to do it anymore. So anyway,
+4:40 speaking of that, um so if you guys are
+4:43 going to be there, if you're not going
+4:43 to be there and you got already got a
+4:45 place to stay, look us up. Uh we'd love
+4:47 to to meet up with you. We will be there
+4:48 Tuesday afternoon. If you're downtown
+4:51 Cordel Lane on Tuesday afternoon about
+4:54 1ish, look for us on Main Street. We'll
+4:57 hopefully if the weather's nice, be
+4:58 sitting out at a table having lunch.
+5:00 We've done that just about every time
+5:02 we've gone there, I think. And it's
+5:04 always a lot of fun. We just we'll sit
+5:06 out there two, three hours, four hours,
+5:08 whatever it takes so we can get till we
+5:09 get into our Airbnb. And and uh it's
+5:12 just fun to meet with every I think we
+5:13 had about 18 people show up one year.
+5:15 That was really cool. And uh join us. be
+5:19 fun to see there. All right, so let's
+5:21 get into Chief and um talk about some
+5:24 stuff.
+5:26 Chief's CAD program. All right, I I've
+5:29 done these hacks before, these this 10
+5:32 mistakes, all this crap. And I'm always
+5:33 going to start out with this because
+5:35 I I think a lot of people, especially
+5:37 when they get into it, they think you're
+5:38 building a house on your computer. And
+5:40 you are kind of kind of you're building
+5:42 a 3D representation of a house, but
+5:44 she's a CAD program. It's a 2D 3D CAD
+5:46 program that does rendering, does all of
+5:48 this cool stuff for you. Um, learn to
+5:51 take advantage of the CAD functionality
+5:53 within the program. Don't shy away from
+5:56 it. Don't become scared of it. When you
+5:58 see this XYZ thing and you go, "What the
+6:01 heck is that?" Okay, so if you guys that
+6:03 have been with the program for a while,
+6:04 you get it. You know exactly what all
+6:06 that stuff is. But if you haven't been,
+6:08 if you're new to Chief, uh, and you're
+6:10 learning what this CAD program can do,
+6:12 X, Y, and Z is simply how things move on
+6:15 the screen. So X is back and forth on
+6:18 the screen. All right? So if you look at
+6:20 the little um, what we call that thing
+6:22 down here, the coordinates system down
+6:25 here, that's the coordinate numbers are
+6:27 over here, but that's the coordinate
+6:29 pointer. So X and Y are, as you are
+6:32 looking at your screen, X is back and
+6:35 forth. Here's your positive x. So if you
+6:37 think there's if you put a little arrow
+6:38 on the end of that line there,
+6:41 x would be this way. So if you want to
+6:43 move something that way, just type in a
+6:45 positive number. If you go the other
+6:47 way, you would type in a negative
+6:48 number. Go minus x. And same with y. Y
+6:51 is up. Okay? Positive y is up. And if
+6:55 you're going down a negative y is down.
+6:57 So when you want to move something, so
+6:59 if I want, say I wanted to move this
+7:01 window over 2 feet. All right. So, I'm
+7:04 going to click on that. And there's lots
+7:06 of different ways to move things in
+7:08 Chief. I could just click on the number
+7:09 obviously and change the dimension here.
+7:11 Or I could just start moving it. Oops. I
+7:15 could start moving it. And here's the
+7:17 tab key. Here's that one of those
+7:19 keystrokes that I don't see enough
+7:20 people using. So, as I start moving it,
+7:23 or you don't even have to start moving
+7:25 it, just get the get your cursor and
+7:27 hold down on that center button and then
+7:29 hit tab. And I could say I want to move
+7:32 this to the right x 2 feet. Okay. And if
+7:36 you're moving it, then you can start to
+7:38 see the number. Okay. So, I'm just going
+7:40 to change that minus 24. I don't have to
+7:43 worry about why because it stuck it
+7:45 within a wall. But if that were a CAD
+7:46 box or something, I'd go back and make
+7:48 that zero because when I moved my but my
+7:51 cursor over, it moved it down a little
+7:53 bit. Um, but I can't move the window out
+7:56 of the wall anyway. So anyway, I'm going
+7:58 to I type minus 24 to go left, 24 to go
+8:01 right. There I've moved it 24 in. So uh
+8:04 that's an easy way to do that. XY. So
+8:07 understand those things. And with
+8:08 Chief's coordinate system too, um when
+8:12 we go into a 3D view, this has been
+8:15 really nice because you know, you go
+8:16 into 3D view like this and you go, well,
+8:18 I want to move that window over and
+8:20 which way is X or Y? And now we can see
+8:23 it. Okay, because when I look at the
+8:25 coordinate system down here, I can look
+8:27 at this and see that, oh yeah, x
+8:29 positive x would be that way. Posit
+8:32 minus x would be that way. So, I can
+8:34 just look at that now and I could move
+8:36 this over whichever way I want and I
+8:39 could know which way I'm moving it. So,
+8:41 if I go if I start moving it to the
+8:43 right and I hit tab, I'm going to have a
+8:45 minus x number there. So, if I go
+8:47 minus4, there we go. So that's your
+8:50 coordinate that the tab key moving
+8:53 things in chief using that John all the
+8:56 time.
+8:59 >> Sorry I wasn't paying attention. I was
+9:00 looking
+9:01 >> Oh,
+9:04 huh.
+9:04 >> Tab move. Tab tab key move is what I
+9:06 heard.
+9:07 >> Yeah, that's that's what we're doing all
+9:10 the time now, right?
+9:11 >> Yep.
+9:13 Um,
+9:15 now X17 offers us some new tools as well
+9:18 to move things into place and we don't
+9:20 need to know XY. That's the 3D
+9:23 dimensioning. Now we're able to draw
+9:24 things more and more in 3D. By the way,
+9:26 if you don't have a 3D mouse, you got to
+9:27 get a 3D mouse. So, uh, that's what I'm
+9:30 moving around in here.
+9:31 >> Unless you have a Mac. Unless you have a
+9:33 Mac. The Macs still aren't playing.
+9:35 >> They still haven't got it figured out.
+9:36 Why? Why wouldn't they have that figured
+9:38 out? Makes no sense.
+9:41 >> I know. All right. Well, whatever. All
+9:43 right. So, that's your XYZ. Um, you
+9:46 know, in 3D, of course, you got Z.
+9:47 You're going up and down. So, if you
+9:49 want to move your roof up, you know, if
+9:51 you if you look here, now I can see the
+9:53 Z. Now, if you want to, if you're just
+9:55 getting getting into this and you want
+9:57 something that's a little bit more
+9:58 prominent on the screen, just go into
+10:00 your preferences and go to your
+10:03 coordinate system. And that's not it.
+10:06 Uh,
+10:07 yeah, here it is right here. And you can
+10:09 change the uh way that little thing
+10:12 appears in the bottom corner. So if I
+10:14 let's go say I go 8 feet t tall tall and
+10:16 I make my text 24 in tall. So now you
+10:19 can see of course if I did feet that
+10:22 would be good not inches. So let's go
+10:24 back into that. I want to go 8 feet and
+10:28 24 inches. Now you're going to get Why
+10:31 is that not working John?
+10:33 >> I don't know. There you go on the right
+10:35 one. There's another one that's in the
+10:36 center that you don't have showing
+10:37 there.
+10:39 You got you're Are you working on the
+10:40 one off to the bottom left corner or the
+10:42 one that's in the center of the screen?
+10:44 >> This one? Oh, is there one on this?
+10:46 There's not one.
+10:47 >> There's another There's another one that
+10:48 comes up in the center of the screen, I
+10:50 believe.
+10:52 >> I don't
+10:52 >> I don't know if it comes up in 3D all
+10:54 the time or not.
+10:56 >> Let's go back to the floor plan and see
+10:57 if it changed there. No, change it to 8
+10:59 in.
+11:01 Uh, let's go 96 in then. See, maybe it
+11:04 just doesn't like the foot sign there.
+11:06 Yeah, they got a bug there.
+11:08 didn't like the foot sign. See, there we
+11:10 go. So, now it's a little bigger and
+11:11 easier to see. Um, so interesting,
+11:16 huh? Let me try that one more time just
+11:18 for the heck of it. So, if I type 8 ft,
+11:22 it hit tab. It doesn't like the foot
+11:25 sign. So, you have to type it in. You
+11:27 have to type it in inches here kind.
+11:30 Maybe that's the way it is. I don't
+11:31 know. I'll leave that set up there
+11:32 bigger so you guys can see it while
+11:34 we're talking. Um, anyway, that's
+11:35 recording system. So, I I like using
+11:37 that a lot. She's CAD program. Learn to
+11:40 use it like that. Okay. Where'd I go
+11:42 here? I lost some things. Why did I lose
+11:45 some things, John?
+11:47 Because I'm in the wrong plan. That's
+11:48 why.
+11:50 Here we are. Okay. Uh,
+11:55 you know, think through the drawing
+11:56 before you start. Again, for those you
+11:58 new into Chief, um, a lot of people just
+12:00 open and start drawing. You know, think
+12:02 about what it is that you're you're
+12:04 doing. Um, I talk to people all the time
+12:08 about some of the techniques I use when
+12:10 I start a plan. If you're working on a
+12:13 plan and you've got a lot of
+12:15 heights because, you know, you're not
+12:17 just drawing a floor plan, you're
+12:18 drawing a 3D object as well. So, you
+12:21 need to have in your brain, at least for
+12:25 me, in my brain, what are the numbers I
+12:27 need to be aware of when I'm doing my 3D
+12:29 model? So, as I'm getting into this, you
+12:32 know, every plan that you start starts
+12:33 on zero zero inches on the top of the
+12:36 plywood on the first floor. That's where
+12:38 everything starts. That's Chief's zero
+12:41 world in the 3D world in the Z-axis. So,
+12:44 when you talk about coordinates, that's
+12:46 what the zero would be in your Z. Okay?
+12:50 So, as you go up in your plan and you
+12:53 start adding floor systems, which have a
+12:56 height to them, I always talk about if
+12:58 you don't change anything else in your
+13:00 preferences when you get started, get
+13:02 into these defaults. Get into your floor
+13:04 system and change that first floor
+13:08 structure so that you can set it up so
+13:11 that your cross-sections are going to be
+13:13 correct. Correct. So, your dimensions
+13:15 are going to be correct for the model
+13:16 you're trying to create. Um, it's just
+13:18 something that I teach everybody uh as
+13:20 we get into this. If you don't do
+13:22 anything else, at least do that and then
+13:24 change your ceiling height, too. Because
+13:26 if you're drawing a plan that's all 8
+13:28 foot or 9 foot ceilings, set it up for
+13:30 that. And then as you're adding rooms,
+13:32 they'll be that way. So, that's just a
+13:35 good way, good rule of thumb to do that.
+13:37 So, do these 2D drawings and, you know,
+13:39 as you get into Chief and you start
+13:41 learning how to use the CAD tools, you
+13:42 know, I can draw that in about two,
+13:44 probably less than two minutes. that
+13:46 whole section that you see there because
+13:48 of the way that you use the tools. All
+13:51 right, John, you got anything you want
+13:53 to add to that?
+13:55 >> Um,
+13:57 seems like I thought of something while
+13:59 you were talking and now it lost me.
+14:02 >> Supposed to write that stuff down. Dude,
+14:04 >> I know. I don't have my iPad here that I
+14:06 can write on. Rick, right?
+14:08 >> Okay. You ever heard of You ever heard
+14:10 of this thing called paper?
+14:11 >> Paper? You know, me and paper are
+14:13 allergic to each other. We we just repel
+14:15 each other like oil and water. Always
+14:17 have.
+14:19 [Music]
+14:20 >> Guys did a good job. Designer show
+14:22 number 30. All right. What do we talk
+14:25 about in designer show 30, Doug?
+14:27 >> Um I think it was probably one of those
+14:30 like hacks like this. I think that might
+14:32 have been one where I did talk about
+14:34 that shortcut keys. Let's talk about two
+14:36 of them. All right. I have a whole slew
+14:38 of shortcut keys I use all the time. If
+14:41 you only use the first one, open
+14:43 dialogue boxes. Every time you click on
+14:45 something, you're probably going to be
+14:48 opening the dialogue box. Okay? You're
+14:49 going to click on the little open door
+14:51 icon. Now, Chief's default, I mean, you
+14:55 can go down there and click on the door.
+14:56 Chief's default keystroke is control E.
+14:58 Controlled edit dialogue. Now, um, this
+15:02 is one of the few keys where I only use
+15:04 a single keystroke to do something in
+15:06 Chief, and that's E. because you're
+15:08 going to use it hundreds of time every
+15:10 day, times every day as you're drawing
+15:13 things. Why not set it up so it's easy
+15:15 to use? Now, I've had other people use
+15:17 different keystrokes. What was one
+15:19 somebody did? Um, O for open. Um, what
+15:24 was another one someone told me once
+15:25 that they used? I don't remember. But
+15:27 all you do is go up to tools, toolbars,
+15:29 and hotkeys, customize hotkeys. You
+15:32 know, again, I've talked about this in
+15:33 other hacks. I'm going to talk about
+15:34 again because it's one of the best
+15:36 keystrokes that I've that I give to
+15:38 people. So, just type the word open.
+15:40 Just go in here and search for the word
+15:42 open.
+15:43 Look for it where it says open object.
+15:45 Okay? You're looking for this item right
+15:48 here. And it's going to say control E
+15:50 over here. And all you're going to do is
+15:52 go down here, type in E, and you're
+15:55 going to hit assign. So, make sure you
+15:57 have that highlighted. Type E and hit
+15:59 assign. And now you're going to be have
+16:02 that hotkey assigned. So anytime you
+16:04 click on anything and you hit your E
+16:06 key, you're opening the dialogue box,
+16:08 saving you the endless trips down to the
+16:10 open door icon. So that's a keystroke
+16:13 that I like to use. And snapping, too. I
+16:15 use snapping a lot because chief, a CAD
+16:17 program, you want to snap things
+16:18 together. So I I've just the
+16:21 pointto-point move right here. This tool
+16:24 right here, I make that a S for snap.
+16:26 So, those are the two keystrokes that I
+16:28 have one key controlling. Um, everything
+16:32 else going to be two keys. So, when I
+16:34 hit my S key, now my points go away.
+16:36 Now, I can take and snap that exactly
+16:38 where I want to put it. So, it just
+16:40 makes it super easy to move things
+16:42 around, get them exactly where you want
+16:43 them to go. Tom, what do you set up? Are
+16:46 you a USS or what did you set yours up?
+16:49 >> I don't remember. I think I'm just S. I
+16:50 I reverted back to that. But I just
+16:53 wanted to mention that if you do use a
+16:54 single letter for a hotkey that's the
+16:57 only time it can be used
+16:58 >> for starting a hotkey sequence. Yes.
+17:01 >> Right. If you use two letters then you
+17:03 can use it more than once.
+17:04 >> Yes. So if I use S for something I
+17:07 cannot start another hotkey with the
+17:09 letter S. Period. I mean chief so one
+17:11 hotkey system. I haven't checked that in
+17:14 X17 but I can't imagine it's changed.
+17:16 So,
+17:16 >> so, so Dan and I had a nice debate at a
+17:19 at a live class one time whether it
+17:21 should be S or SS. We just had a great
+17:23 that it was a lot of fun.
+17:25 >> Yeah. Yeah. And you know, if you're
+17:27 going to create a bunch of other S
+17:28 hotkeys that start with S, then we got
+17:30 to go SS or find something else to do
+17:33 with that. Um, but no, it's
+17:35 >> since I use it all the time, I just go
+17:37 S.
+17:38 >> And Chad's right. Double click on a
+17:40 single object will work do the same
+17:42 thing. Open the object.
+17:43 >> Well, absolutely. However, if I'm in
+17:46 wall mode, I can't double click on a
+17:48 window.
+17:48 >> Right.
+17:49 >> Okay. I can't
+17:51 >> if you select more than one thing. Like
+17:53 if you select more than one window that
+17:54 you want to change, you can't double
+17:56 click that. You have to use like
+17:57 >> Well, actually, you can, John. If you
+17:59 double click on that, you double click
+18:01 on that center button. Okay. And that
+18:02 that will open it. So, anytime you group
+18:05 select something, just find the button
+18:06 with four arrows
+18:08 >> and you can double click on that to
+18:09 open. So, so yes, that does work fine.
+18:12 I'm again of the mindset that I'd rather
+18:14 just hit E and I'm not having to worry
+18:16 about where I click on anything to open
+18:17 it. I don't have to worry about which
+18:19 mode I'm in. So if I'm in wall mode and
+18:21 I want to open a window, right click E
+18:24 and you're in the window dialogue and
+18:25 I'm still in wall mode ready to draw to
+18:28 draw more walls. So that to me that is
+18:31 about the quickest way you're going to
+18:32 get around the program for anything that
+18:34 you're working on at any time. But Chad,
+18:37 you are exactly right. So, however,
+18:39 whatever works for you to open a
+18:42 dialogue, go for it, dude. Um, I use
+18:45 four digits starting with 5,000 on every
+18:47 high key gets a number and live on
+18:49 stream deck. Yeah, there you go. Check.
+18:51 Mike's got it. I mean, he's he's uh
+18:55 if you can get yourself to use Stream
+18:57 Deck and you can program your keys for
+18:59 that. Yeah, Mike, I saw your hotkey list
+19:01 that you sent me that one time. That was
+19:02 excellent. You got it down, dude. So,
+19:05 you're doing the you're doing it the
+19:07 right way. Um, ste stream deck is a
+19:10 keyboard that has keys you can program
+19:12 to do different things and it'll even I
+19:15 think they might uh does it even show
+19:18 the icon on the keys for the different
+19:20 things? It's like each key has got its
+19:23 own little screen. I think
+19:26 >> you can also set it up with an iPad and
+19:28 use your iPad for the
+19:30 >> Oh, yeah. Yeah, good point. So again, I
+19:34 don't do those things personally because
+19:36 I I teach people how to use Chief and if
+19:39 I get into that mode of doing that, I'm
+19:41 going to be although especially all of
+19:44 the beginners and intermediate users, um
+19:47 I won't be able to find the icons I need
+19:49 to show people. So I remember I had we
+19:51 had uh Anthony teaching a class once at
+19:54 the Spanish Mansion. That was I think
+19:55 the year before your time, John. And
+19:57 >> yeah,
+19:57 >> and he he was a hotkey kind of a guy
+19:59 just all over the place. and he's trying
+20:01 to teach people how to do things and he
+20:02 go, "Oh, where's that icon again? I
+20:04 don't remember where that icon is." So,
+20:07 anyway, it's all good. Uh, tab key. We
+20:10 talked a little bit about the tab key
+20:12 again. So, anytime you want to move
+20:13 something, use the tab key to move it.
+20:15 So, if you want to move, here's a little
+20:18 here's a little trick for you uh with
+20:20 dimensions. Okay, I need another string
+20:22 of dimensions. And you don't have to
+20:24 draw another string of dimensions. Just
+20:26 hit your copy button. And again, I've
+20:28 changed the hotkey to control C, just
+20:31 like it should be in Windows, not Ctrl
+20:33 Alt C that Chief comes set up with. I'd
+20:36 never understood that one.
+20:38 >> Two different copies, Dan. They're two
+20:39 different copies.
+20:41 >> Yeah, I know. Butt control C does C in
+20:45 Chief Standard does not allow me to drag
+20:47 a copy off of something. Does
+20:49 >> Right.
+20:50 >> Right. You're right. It doesn't.
+20:52 >> Right.
+20:52 >> So that's I want to use copy just like I
+20:55 use in every other program on Windows.
+20:57 Right.
+20:57 >> Okay. Or or on a Mac, command C. So when
+21:00 I say control, your Mac users just think
+21:03 command. Okay. So if I hit control C and
+21:06 I start dragging that dimension up, I
+21:09 want to make that space 15 inches away.
+21:12 I'm going to hit my tab key and I'm
+21:14 going to type 15. I've just created a
+21:15 brand new dimension. It's all hooked up
+21:17 to everything that I can now move these
+21:19 dimensions exactly where I want them.
+21:21 So, not that I would do it in this case,
+21:23 but that's a really easy way to create
+21:26 dimensions and space them out exactly
+21:28 where you want them. Highlight, control
+21:30 C, start moving. Tab key, type in how
+21:33 far you want it to go. You don't even
+21:34 have to type in the tab key. Just grab
+21:36 it and move it. So, that's your control
+21:39 C hotkey. Again, you can just hit the
+21:41 copy button if you want to as well.
+21:44 I use command key and paste in place
+21:46 quite a bit because then I can use
+21:47 center or reflect and it moves the
+21:49 copied item appropriately. That is very
+21:53 true. Excellent.
+21:55 So, all right. Um, layers, you know, you
+22:00 know, if you've seen Rene's toolbar, you
+22:03 know that I'm not anything like Renee.
+22:06 I was just working with a client
+22:07 yesterday that had Rene's toolbar up
+22:09 there. I'm going, "Whoa."
+22:11 Um, yeah, he's got just about every icon
+22:13 on the screen, I think. So, it's uh it's
+22:16 pretty amazing. And I get it. I mean, as
+22:19 an advanced user, that's what you want
+22:21 to be doing, setting up things to work
+22:24 for you so you can draw things faster
+22:26 and cheap. Now, that being said, here's
+22:29 the icons that I add to my toolbar.
+22:31 That's the only changes I make to my
+22:32 toolbar. And again, most
+22:35 >> What are those icons?
+22:37 >> What are they? Which ones you have?
+22:39 >> You don't know which ones these are.
+22:41 Well, that's your hold pace hold
+22:42 position.
+22:43 >> Well, I know what they are, but I'm
+22:45 >> Okay, you're just leading me in. Thanks,
+22:46 John.
+22:46 >> I'm leading you in here.
+22:48 >> You're good at it. Um I figured you knew
+22:50 what they were. This is a hide layers.
+22:53 This is the layer sprayer, the layer um
+22:56 picker, the layer eyropper. This is your
+23:00 fill sprayer and your fill eyropper.
+23:02 This is your screen capture. And this
+23:04 one is What the hell is I forgot what
+23:06 that one is. That's your uh Oh, clip
+23:08 copy view to clipboard. Why did I put
+23:11 that on there? I never used that, but I
+23:12 suppose that could come in handy.
+23:15 >> That copy view to clipboard.
+23:17 >> I don't know. Um,
+23:20 >> is that the same thing as capture?
+23:22 That's not the same thing as capture.
+23:25 >> It is. Look at that. Huh. So, all I did
+23:29 was I if I zoom in here and I click that
+23:32 icon, copy view to clipboard. See the
+23:34 little down here at the bottom of the
+23:36 screen? All right. Now, now open up a
+23:39 dialogue. Open up a window.
+23:40 >> I could paste that anywhere. What kind
+23:43 of a window?
+23:44 >> Uh, select something and open the
+23:46 object.
+23:49 >> Can you do that? Can you do it with
+23:50 that?
+23:51 >> No.
+23:51 >> No.
+23:52 >> Because because I'm in here doing
+23:54 something. Yeah, I know. That would be
+23:55 nice, wouldn't it?
+23:56 >> Request to chief that they make it so we
+23:57 can copy our our uh
+24:00 >> Yeah, that would be nice. So, like when
+24:02 I'm doing uh stuff like this and I want
+24:05 to just I don't want to have to remember
+24:07 the numbers. I just do a screen capture.
+24:09 Um we can't do that when another
+24:11 dialogue is open and she chief. But
+24:12 that's a great suggestion, John. I like
+24:14 that one. I suppose we could use the
+24:16 screen capture screen the print screen
+24:20 Windows.
+24:20 >> You can also use the screen capture for
+24:22 Windows the the snip tool bit.
+24:25 >> Well, yeah. Yeah. Windows, if you just
+24:26 hit your print, print screen on your
+24:29 keyboard in Windows, I think 10 and 11,
+24:33 then you can just do this and you've got
+24:35 you've just captured that. And uh
+24:39 >> but it'll be so much nicer if it was
+24:41 just all within Chief.
+24:42 >> Exactly. I agree. Let's talk about a
+24:45 couple of those icons real quick. Hide
+24:46 layers. So I use this all the time when
+24:48 I'm working on things. So I put that the
+24:50 paste hole position. That's obvious.
+24:52 That's when you copy something from one
+24:54 floor to another, you use paste hold
+24:56 position. But hide layers, you you just
+24:59 hide hit that icon. It's under tools,
+25:02 layers, settings, um layer hider. Here's
+25:05 those icons. Layer painter, eyedropper
+25:07 hider, and you just click on that and
+25:09 you can hide layers uh at any time. To
+25:12 turn them back on, you do have to go
+25:14 into the layers and turn it back on. or
+25:16 sometimes I'll just hit control Z uh to
+25:20 undo it because I'm turning a layer off
+25:22 to do something, not turning it back on
+25:23 when I'm done with it.
+25:25 Um well, thanks uh Ched Pro Academy.
+25:29 It's coming.
+25:31 Uh
+25:33 and next one is layer paint. Let's go to
+25:36 layer eyropper. So let's say that I want
+25:39 to I want to draw a CAD line here. And
+25:42 I'm going to use that CAD line as a
+25:43 dimension. Okay, I'm going to dimension
+25:45 it for some reason, but I want that line
+25:48 that I drew to go on and off with my
+25:50 dimensions. So, if I turn off my
+25:52 dimensions, the line is still there.
+25:54 Well, now I could use this tool here,
+25:56 the layer eyedropper tool. This one
+25:59 right here. It's just like selecting
+26:00 materials, only you're selecting a
+26:02 layer. So, I'm going to click on that.
+26:03 I'm going to click on the layer I want.
+26:05 And then I'm going to click on what I
+26:06 want to paste it on. You see how it
+26:08 turns into a spray can. So, now I could
+26:10 spray that layer onto that line. So now
+26:13 when I hide my dimensions, that line is
+26:15 part of the dimension layer. So that
+26:16 goes off with that as well. So that's
+26:19 that um the layer
+26:22 that and this one here just allows you
+26:24 to select a layer and then you can start
+26:25 spraying it on different things in your
+26:27 plan just like you're spraying a
+26:29 material on anything. So you're just
+26:30 doing it with layers. This tool up here,
+26:33 the next one I like I use this once in a
+26:36 while. So, if you have some CAD boxes
+26:39 and you have a fill style in them, say
+26:41 you have a hatch pattern or something
+26:43 like that, you want to put that hatch
+26:44 pattern into some other areas. Um, I
+26:47 haven't tried it in rooms or anything. I
+26:49 don't know if it works for that. We
+26:50 should try that sometime, but I could do
+26:52 >> I could do a fill style eyropper. I
+26:54 will. And let's select that fill style.
+26:56 And then it turns into that spray can.
+26:58 Okay. And I could spray that onto that
+27:01 CAD box or I could spray it into that
+27:03 room. Look at that. So, I could do that
+27:05 with the CAD. If I have different rooms
+27:08 laid out in my plan and I have different
+27:11 patterns that I want to put in those
+27:12 rooms, I could use the uh I could just
+27:16 put it in one room. Let's just try that.
+27:19 So, I go to fill style. I put in a hatch
+27:22 pattern. Let's do angled hatch for the
+27:25 heck of it. Okay. So, now I have a fill
+27:27 style in there. So, if I select my
+27:29 eyropper tool, now I can put that in
+27:31 other rooms. Cool. I like that. That is
+27:34 cool. Can I move that pattern around
+27:37 like I can a material? I haven't checked
+27:40 that yet. You know how you can move a
+27:42 material on a wall now? Um,
+27:46 I don't see any icons that would allow
+27:48 me to do that.
+27:52 >> Nope. You know, I'm talking about moving
+27:54 a material on a wall.
+27:56 >> Uh, just with a material region. Are you
+27:58 talking about something else?
+28:00 >> Yeah. So, if you put a material in your
+28:01 plan, let's say that hardwood floor.
+28:03 >> Yeah.
+28:04 >> Um, and I need to I want to move it so
+28:06 that, you know, this edge is right
+28:09 against the wall. I can click on that
+28:11 material
+28:13 and Oh, shoot. Now, I'm mind blank here.
+28:16 Where did that go? What tool is that
+28:19 again?
+28:21 Uh,
+28:23 oh,
+28:24 >> wall material. There's a wall material
+28:26 tool.
+28:27 >> No, no, it's a material. Anybody know
+28:30 the tool I'm use I'm thinking of. So I
+28:31 can select that material and move it
+28:33 within the space that it's in. Where did
+28:36 that What is that again? Um
+28:39 Oh, for Pete's sake.
+28:42 I haven't used it for a while, so I
+28:44 don't remember. Automate it. It turns
+28:47 into a little triangle that you can do
+28:49 things with that material. It's got to
+28:51 be a material tool. It's under tools.
+28:54 Oh, I know where it is. It's not an
+28:56 icon. uh tools three uh 3D materials
+29:02 um material
+29:04 adjust materials adjust
+29:07 uh interactive material editor I believe
+29:11 that's it when I click on that material
+29:13 see you get this little triangle
+29:16 >> and I could grab the four arrows and see
+29:18 I can move that material around in that
+29:20 in that
+29:22 >> for like a tile shower or something you
+29:23 want to change where the pattern lays
+29:26 >> exactly
+29:27 So, plus I could grab one of the
+29:29 corners, make it bigger that way, make
+29:32 it bigger that way, or grab this line
+29:35 and make it bigger both ways. So, you
+29:37 can resize the whole thing. And uh
+29:39 that's pretty cool tool that they added,
+29:41 didn't she? So, if I were to go
+29:44 >> Huh. I know. I don't I wonder why they
+29:45 didn't put that up there somewhere. Um
+29:47 >> Well, it's got an icon. You sure it's
+29:49 not a It's not one?
+29:52 >> I I haven't seen it. So again, if we go
+29:54 to 3D uh adjust materials, it's
+29:57 interactive material editor. So I
+29:59 haven't really looked for that icon
+30:01 because I haven't used it that much, but
+30:03 it's there. So that's a pretty cool
+30:06 tool. So again, if you bring in a
+30:08 material and you want to size it, you
+30:10 could do that right from the screen
+30:11 here. Um that triangle, what? No way,
+30:15 Doug says. Yeah way. So let's try a
+30:18 different material. Let's go get Well,
+30:20 let's try one of the screen capture
+30:21 tools that I've added to my toolbar
+30:23 because uh why not? Okay, so I'm up
+30:26 here. There's the screen capture right
+30:27 here. I'm going to go get some tile. Um
+30:30 let's just go find something online real
+30:32 quick.
+30:33 Let me bring up a a window. Oh, by the
+30:35 way, look at that. We're having a class.
+30:37 Good interruption here, John. Uh we John
+30:41 and I are going to be doing a class here
+30:42 in Bloomington. uh beginner intermediate
+30:44 training October 6th and 7th and the
+30:46 intermediate advance October 8th and
+30:48 9th. Then if you want to get the most
+30:50 out of everything, come for all four
+30:51 days. So you can do that. Um but just go
+30:54 to chiefexperts.com. You can find out um
+30:57 all about that. Uh we do it in a hotel
+30:59 near the airport. You're like 5 minutes
+31:01 from the airport. It's a nice little
+31:02 hotel with reasonable room rates. Um I
+31:05 think hundred and I forget what hotel
+31:08 rates were these days. 51 days away.
+31:11 It'll be here before you know it. Uh,
+31:15 let's see.
+31:17 Thought I had the rates on the screen
+31:18 here. Maybe not.
+31:24 Oh,
+31:27 that's no good. I got to fix this
+31:30 >> cuz there's supposed to be a link here
+31:33 to go sign up for room with a better
+31:36 rate. Um, my bad. I'll get that fixed.
+31:40 But, uh, it it's fun class. John and I
+31:42 have a lot of fun with that. And they're
+31:43 usually small classes, 12 to 15 give or
+31:46 take. I mean, so it's a we always have a
+31:48 lot of fun with those. And you you'll
+31:50 learn a ton. And if you get some time,
+31:52 you can come. Uh, oh, here it is. Hotel
+31:55 website. See if it goes to a link.
+32:00 Um, I think the rooms are 120 bucks,
+32:03 something like that tonight. Pretty
+32:04 reasonable pricing. And it comes, of
+32:07 course, with the lovely free breakfast
+32:09 and all that good stuff. Okay. Uh, let's
+32:12 get out of that. And what was I doing? I
+32:13 was gonna go look for some tile.
+32:15 >> For a tile. Robin says go to the tile
+32:17 bar. She's paying attention here. And
+32:19 >> tile bar.
+32:21 >> Tile bar.
+32:22 >> It has a lot of tile on it.
+32:25 >> I'm just going to go to I'm just going
+32:26 to type in tile texture. Anytime you
+32:28 type in the word texture, um, you're
+32:31 going to find pictures of things that
+32:34 start and stop better. In other words,
+32:37 >> texting me, Dan.
+32:38 >> Huh?
+32:39 >> Now she's going to be texting me because
+32:40 you didn't listen to her.
+32:43 >> Tile bar. Is that like a bar when you go
+32:46 drinking? Um,
+32:50 tile bar. Okay.
+32:53 Go find something at the tile bar.
+32:57 Get free samples. All right. Let's see.
+33:00 >> That one there.
+33:02 >> Yeah.
+33:04 >> Okay.
+33:05 centered in the room.
+33:06 >> We'll go with this one. Can I get a
+33:09 bigger picture? All right, here it is.
+33:11 So, here's a a picture. And when you
+33:14 when you think of a texture, this ed
+33:16 when when I put a copy of this against
+33:19 here, they'll line up. All right. So,
+33:22 let's go capture that. Now, um I can't
+33:27 Can I do a copy? No. So, we're going to
+33:31 do a screen capture. It's going to have
+33:33 that little icon on there, which I don't
+33:35 like, but that's just the way it's going
+33:36 to be right now. So, I'm going to go in
+33:38 here and I'm going to go back to Chief,
+33:39 hit my icon. This is under tools, screen
+33:42 capture. And you always want to choose
+33:44 screen capture setup. Screen capture
+33:47 setup, not screen capture, just setup.
+33:49 And I'm going to click on that. And I'm
+33:51 going to capture a material. I want to
+33:52 make a material. Okay, make a material.
+33:55 I'm going to hide chief while I'm
+33:56 capturing because that image is behind
+33:58 the program. I'm going to hit capture.
+34:00 I'm going to go capture that image.
+34:02 Okay, I'm going to do the best I can to
+34:04 get it right where I need it. This is
+34:06 not the most perfect way to do it. See,
+34:08 I'm going to get a little white border
+34:09 there now because I'm not quite getting
+34:11 it just right. But this is a concept
+34:13 that use. So, Chief has automatically
+34:15 added that tile to my library. And I
+34:18 could now go and put that on that floor.
+34:22 Just like that. Of course, that floor I
+34:25 had put the diamond on before and I
+34:27 stretched it all out. I need to edit
+34:29 this material. So, let's go to the
+34:32 material in the library and right click
+34:34 on it. Hit show um hit um open object,
+34:38 open object,
+34:40 and I'm going to go to texture
+34:43 and I'm going to tell it to not stretch
+34:46 to fit. I don't want to stretch it to
+34:48 fit. I want it to be box. I want it to
+34:51 be so I can tile it over the surface
+34:53 that I'm putting it on. It'll just keep
+34:54 repeating itself much like wallpaper.
+34:57 So, I've got it 20 in x 20 in. Um, the
+35:00 pattern, this is the the CAD part of
+35:02 this. I could try to get a pattern from
+35:05 the texture. It's not too bad. Okay,
+35:08 that's a pretty clean image. Let's we
+35:10 can see how that looks in our plan. It
+35:12 might be a lot of CAD lines. It might
+35:14 slow your plan down, but that's okay.
+35:16 And we'll click okay to that. And now,
+35:18 let's put that back in the room. And now
+35:20 I get more of that tile texture. So you
+35:23 could see I could if I look close I
+35:26 could probably see that white line and
+35:27 see where it repeats. But you can see
+35:29 the different images coming. But see how
+35:31 simple that is to do uh when you use the
+35:33 right tools. So it works really really
+35:35 well. And again I could go in here. I
+35:38 could go up to my 3D menu adjust
+35:40 materials interactive material editor. I
+35:43 could click on this. I want to make that
+35:45 a little bigger or smaller. I want to
+35:47 move it um in the room to a specific
+35:51 spot. I can move it both ways. And I'm
+35:53 just moving it in this room. It's not
+35:55 going to move it anywhere else. Where in
+35:57 the old days, if you moved it someplace,
+35:58 it moved it everywhere in your plan. So,
+36:00 that's the interactive material editor,
+36:03 and that's what that screen capture
+36:06 thing does. I use a screen capture thing
+36:08 all the time. Uh, for a lot of different
+36:10 things. Google Maps, if I'm in Google
+36:12 Maps, I'll use it to capture a image of
+36:16 the of the house, you know, street
+36:18 views, all that kind of stuff. Little
+36:19 tip for that. When you're doing those
+36:21 images like that, um, roll in on your
+36:24 screen. So, you're zoomed way in. And
+36:26 when you do a screen capture, I'm going
+36:28 to capture a a picture, not an image.
+36:31 And I'm going to hit capture. And then
+36:33 let's pretend this is the map that I
+36:35 want to capture. There it is. I'm done.
+36:37 You know, I'm I've got that one. Let's
+36:38 go get another one. Um, I'll capture
+36:41 something else. Let's go capture this.
+36:43 Okay. So, now I'm done with this. Okay.
+36:46 So, now I've captured a couple images.
+36:49 And let's say you brought a couple
+36:50 images in from your from your computer
+36:53 and you've zoomed into a spot and you
+36:55 put those images so they're nice and
+36:57 tiny in there and you want to resize
+36:59 them. I love this. This tool here is one
+37:02 of my favorites for resizing things. So
+37:04 when I click on one thing and I hold my
+37:06 control key and click on it again, that
+37:08 little circle I get right there. Or when
+37:11 I group select something, I get a little
+37:13 circle. That's your resize handle. So
+37:16 you could grab that and you can resize
+37:18 this. So sometimes it hides under that
+37:21 triangle. It's a little glitch they
+37:22 should fix. If I want to hide, if I want
+37:24 to move that in 12 in, I'll hit my tab
+37:26 key, go minus 12. I'll just resize this
+37:29 thing 12 in. So anyway, that's your
+37:31 resize tool. Any anything that you can
+37:33 grab where you see that circle. So if I
+37:35 highlight that, there's that circle. I
+37:37 could resize that whole thing whatever
+37:39 size I want. Of course, it wouldn't be
+37:40 to scale if I do that, but that's the
+37:42 resize tool.
+37:48 Robin Robin says you did a good job,
+37:50 Dan.
+37:51 >> Thanks, Robin.
+37:53 Hope you're having a good day. I know
+37:54 you're hard at work getting setting up
+37:56 for your school. Robin runs a Portland
+37:59 Community College architectural program.
+38:01 Do you run the whole program, Robin, or
+38:03 just the chief architect part of it? Uh,
+38:07 that's really awesome that your school
+38:09 does that. Mike says he doesn't have an
+38:11 eye for that sort of thing. Yeah, I
+38:13 don't either. I don't decorate. You
+38:15 know, I tell people I have any color
+38:17 they want as long as it's tan. And
+38:20 that's the extent of my decorating. I do
+38:23 face planning. I do plans, working,
+38:25 drawing, structural, all of that stuff.
+38:27 I can do a little bit of colors, but you
+38:30 know, we leave that up to Kevin. Kevin's
+38:32 the magician for that stuff. And all you
+38:35 other really good designers out there.
+38:37 >> Yeah.
+38:38 >> Um, all right. Where we at, John?
+38:41 >> I envy that skill. I do too. That and
+38:44 landscaping. I I just landscaping has
+38:47 been one of those things that feel bad
+38:49 for my wife. She wants help and it's
+38:51 just like I don't know. Just let me I'll
+38:52 mow the grass. Okay.
+38:56 >> Um
+38:57 the mouse button. The mouse. Did you
+39:00 guys know the mouse does a ton of stuff?
+39:03 Not the 3D mouse, just a plain old plain
+39:06 old twob button mouse with a wheel.
+39:08 Okay. Um, I think I had Yeah, I threw
+39:11 this up here. So,
+39:14 you can do so many things. Let's talk
+39:15 about the right mouse button for a
+39:17 second. Okay.
+39:19 Uh,
+39:21 I need to add some things to this, too.
+39:23 I I have a list somewhere. I I couldn't
+39:24 find it right before this, but
+39:27 you know, to open a dialogue, right
+39:29 click, E key. Okay, done. Or right,
+39:32 double right click and hit open object.
+39:36 Pick and select any item. Okay. So, when
+39:38 you're working on your plan and you want
+39:39 to select things, the right mouse button
+39:41 allows you to select anything in your
+39:42 plan. It's called your pick button. So,
+39:44 you can click on anything without having
+39:46 to go into uh the dialogue into that
+39:49 item or clicking your space bar. This
+39:53 icon right here, if you hit your space
+39:56 bar, it'll select that icon. It'll take
+39:59 you out what it'll take you out of
+40:00 whatever mode you're in and put you into
+40:02 that which that does allow you to double
+40:05 click on anything in your plan or to
+40:07 just click on anything in your plan just
+40:09 much like the right mouse button. So
+40:11 that becomes the pick button as well.
+40:12 Plus behind that button when you double
+40:14 click on it, it's also got some settings
+40:16 for your plan. They've made it they put
+40:19 two grids on here or two tabs on here
+40:21 now. This used to be one. Um this one
+40:24 still bugs me. I still don't know why
+40:26 they don't change this. And that is um
+40:30 well actually liting for home designer
+40:33 products. If you're working with someone
+40:34 that has the chief home designer product
+40:36 and you have the pro uh the chief
+40:39 premiere, you can work back and forth
+40:41 within the plans. They won't see any of
+40:43 your layers that you add. I mean it's
+40:45 very limited on what you can do with it,
+40:47 but you could still do a lot. But this
+40:49 one right here in our casing before when
+40:51 resizing wall openings. Why, John? Why?
+40:56 And I guess we need to bring this up in
+40:57 quarter land this year. Why don't you
+40:59 put that in with the window defaults?
+41:01 Okay, because that's what it is. Windows
+41:03 and doors. Why would you put it here?
+41:06 It's been there since version one.
+41:08 >> It is with the Windows, too.
+41:10 >> Huh?
+41:12 >> Where?
+41:13 >> Ignore casing.
+41:14 >> It's in the Windows dialogue. Let's see.
+41:17 >> You're doing something different. You're
+41:19 You're saying something different.
+41:20 >> Well, let me show you what that tool
+41:22 does. Okay. So, it makes it so you can
+41:25 bump the bump the door past the casing.
+41:28 >> Exactly. So, if I put a door if I want
+41:30 to put a door in and I don't want it to
+41:32 I don't want the ca, you know, normally
+41:34 the casing bumps into the wall, but I
+41:36 want the jam to bump into the wall
+41:38 because I don't have a lot of room. So,
+41:40 I can double click on this and I could
+41:42 say ignore casing when resizing wall
+41:44 components. So, now I could push that
+41:46 door against the wall like that. Okay.
+41:48 >> Oh, did you hear what it said? Did you
+41:50 hear what it said?
+41:51 >> No. Did I hear what it said? casing when
+41:53 resizing wall components.
+41:56 >> Ignore casing when resizing wall
+41:58 components, items in a wall, windows and
+42:01 doors.
+42:02 >> Yeah, but also moving walls and stuff,
+42:05 too. You can't push a wall past the
+42:07 casing if you're trying to resize a a
+42:10 room or something.
+42:11 >> All right, let's try that. So, if I go
+42:13 here and I turn it back off. Oops.
+42:17 So, I guess that's, you know, that's the
+42:19 hack. I mean, if you want to do what I'm
+42:21 telling you where you want to put this I
+42:22 want to move this wall. See?
+42:26 Oh, there you go. I could move that. I
+42:28 do have it turned off, right? Ignore.
+42:30 Okay. So, that's one way to do it. Put
+42:32 the door and then to move the wall over
+42:34 the casing. The other thing you could do
+42:35 is to turn the casing off, I guess.
+42:37 >> How about if you hit
+42:38 >> What if you hit the control key
+42:41 >> uh to move it? I don't think that works.
+42:44 No, nothing. Just continues to bump. Not
+42:47 a big deal. Um, it's just one of those
+42:50 little things I've never understood.
+42:52 We're
+42:52 >> un You're right. It would be nice. It
+42:54 would be nice if it was in the door and
+42:55 window stuff so you could do a door.
+42:59 >> Give me an option. Exactly. Give me an
+43:01 option for moving that door.
+43:03 >> Yep.
+43:04 >> Not a big deal, but
+43:05 >> like a couple clo It's It's usually
+43:07 closets that that ends up being a
+43:09 problem.
+43:09 >> Exactly. Like a linen closet or a
+43:11 hallway
+43:12 >> closet or something. Yeah.
+43:13 >> Yep. Yep. I mean, you can turn the
+43:15 casing off and then move it. that that
+43:17 works too. But uh anyway, not a big deal
+43:21 >> or a heater door.
+43:23 >> Yeah.
+43:23 >> Yeah. Little room for a heater or
+43:25 something.
+43:26 >> Does anybody have any questions, John?
+43:29 >> Uh they're making comments mostly. Uh
+43:31 Vicki did have a question about where we
+43:32 meet in Cordelane and it's Crickets.
+43:36 >> Is that the name of the place? Crickets.
+43:38 >> Oyster and something. Oyster and
+43:41 something bar.
+43:43 >> Uh
+43:44 >> I got it right here. Oyster Restaurant
+43:46 and Oyster Bar. Crickets Oy Restaurant
+43:48 and Oyster Bar. It's right across the
+43:50 street from the the wire the metal
+43:54 framed rabbit. The rabbit's about 5t
+43:57 tall by 8t long, something like that.
+43:59 >> Sherman Street. Yep, that's the one.
+44:04 >> So, crickets,
+44:07 they got an outdoor seating area.
+44:09 That'll should help a little bit too to
+44:11 find it.
+44:12 Um,
+44:15 there it is. Yep.
+44:17 >> And we I was going to mention when you
+44:18 mentioned that before, we we get there
+44:20 about 1 and I think what we usually stay
+44:23 there till like 3 or 4 o'clock or later.
+44:25 >> Yeah. Typically, I mean, none of us can
+44:27 get into our VBOS's till, you know, 4:00
+44:30 anyway. But it's just we'll stay there
+44:32 as long as people want to stay in chat
+44:33 because it's just, you know, especially
+44:35 if the weather's nice. I mean, it just
+44:36 there was one day it was raining. I
+44:38 don't think we could do it. But all in
+44:39 all, it's it's pretty cool.
+44:42 So,
+44:43 that's where we'll be.
+44:48 Hey.
+44:53 Oh, okay. Erin, I'll hold that for you
+44:55 because you just mentioned it. Um,
+44:57 unless you call me and tell me
+44:58 different. Uh we get in on Tuesday uh
+45:01 about noon and it's about a 45 minute
+45:05 hour drive from Spokane airport to
+45:07 Cordelane and we'll just head right
+45:10 downtown to crickets and the Airbnb is
+45:12 available. V VBO is available from
+45:16 Tuesday through Saturday morning. We got
+45:18 to be out Saturday morning so we get the
+45:21 whole time there. Um the we're about a
+45:24 mile and a half from the training group
+45:26 where Chief is doing their training.
+45:30 All right. Um, but yeah, please uh
+45:32 please drop John or me or anybody any
+45:35 one of us a line. Uh, if you know, let
+45:38 us know you might be there and it'd be
+45:40 nice if we could expect you. So, it's
+45:41 always fun if we know people are coming.
+45:45 All right.
+45:46 >> So, that that little trick you were
+45:47 doing with the casing, does that work on
+45:48 the windows, too?
+45:49 >> Yes, it does.
+45:52 Now, windows and when you're in a
+45:54 corner, you can push those past the
+45:56 corner because when you want to make a
+45:58 corner window, you can, you know, do
+46:00 that. Now, it just creates a corner
+46:03 window. All I did was push it in there.
+46:05 I didn't hold the control key down or
+46:07 anything. Um, by default, it's going to
+46:09 add a post. And I believe, I don't know
+46:12 if you click on both or one of them, but
+46:16 you can tell the program to where is it?
+46:20 under frame I believe to get rid of the
+46:22 post or miter the corner. Okay. And that
+46:26 makes it just a you know like that. So
+46:29 there you don't need to use that tool to
+46:31 push it into the corner. Although it's
+46:33 going to move it past the corner. Um I'm
+46:36 glad to see they got this working a
+46:38 little better. That was
+46:39 >> I was going to ask have you noticed it
+46:41 working better? Because I know when they
+46:42 first came out with it, you get it
+46:44 working and then it quit working.
+46:46 Well, that's probably the first time I
+46:47 put one of those in since
+46:50 we talked about it last time. Uh anyway,
+46:53 but it last time I think we had trouble
+46:55 with it. Wouldn't work. So,
+46:56 >> right.
+46:58 >> And maybe if I open a different plan and
+46:59 tried it, it won't work there either.
+47:01 So, who knows?
+47:02 >> Maybe.
+47:03 >> Okay, guys. Let's see. Uh break in
+47:05 stairs. You know what I'm talking about,
+47:07 John? Right.
+47:08 >> I know what you're breaking. I know. I
+47:10 know how you're breaking the stairs.
+47:12 >> Yeah. Here, let me let me just get rid
+47:14 of that fill style here real quick. Let
+47:16 me select my fill style and paint in no
+47:19 fill style. So, let's draw some stairs
+47:21 going up. Okay, this will cover a couple
+47:24 of things uh that I want to show you.
+47:27 So, when we put in a stairway, we have a
+47:32 wall here. Let's just dimension
+47:36 this
+47:38 to 39. Well, 40, whatever. Let's go 40.
+47:43 Okay. And I'm gonna make a stair go up.
+47:46 All right. So, there's my stairs going
+47:49 up to the second floor.
+47:51 And of course, first thing you do is
+47:53 open a checked riser height, all that
+47:54 good stuff. But I want to make a
+47:56 stairway that wraps the stair wraps
+47:58 around the end of the wall here. And the
+48:01 ballisters go up against that right
+48:03 there. So, let me bring up a view of
+48:05 this.
+48:06 The right thing. I don't. Let me get out
+48:10 of here
+48:14 and let me go there. Okay. So, there's
+48:17 that stairway that I've just drawn. Let
+48:18 me t my display and pull that over.
+48:23 Okay. Stairs are one of those tools and
+48:25 chief that Yep. They're getting there.
+48:26 Slow but sure. Very slow but sure, but
+48:29 it it's starting to work. So, I want to
+48:31 make my stairs be have a railing on part
+48:34 of this here. Okay.
+48:36 So, what I would do is I'm going to
+48:39 break this wall. I'm not even going to
+48:42 break the wall yet. I'm just going to
+48:43 break the stairs. Now, stairs are
+48:46 created by drawing a CAD line. All
+48:48 right. So, when you draw stairs, you're
+48:50 basically drawing a line. Okay? When you
+48:52 click on the stairs, see that white line
+48:54 going down the middle? Same thing. All
+48:56 right? So, when you break a a line,
+48:59 you're breaking it and it does this.
+49:02 Okay? And if you did that to a stairway,
+49:05 nothing will happen. Okay? It just adds
+49:08 a break there. That doesn't do anything.
+49:10 But what you want to do is make sure
+49:12 you're when you're doing a stairway,
+49:14 you're doing what's called a complete
+49:15 break. So you're going to hit the brake
+49:17 tool and then you're going to look over
+49:19 here on the left and there's a little
+49:21 break tool with a C on it. Okay? See the
+49:23 C? That stands for complete break. So
+49:25 I'm going to click on the line. And now
+49:27 when you see that, you see a Oops, I
+49:29 guess I missed. Let's try that again.
+49:31 Draw a line. Click break. Complete
+49:34 break. Click on the line. And when I
+49:36 move that over, see how it completely
+49:38 separates it. It's another two separate
+49:40 lines. So that's what we're attempting
+49:41 to do when we're trying to create this
+49:42 kind of a stair. We're doing a complete
+49:45 break. So I'm going to do break complete
+49:47 break. I'm going to break it at one of
+49:49 the risers. Now I have two separate
+49:52 stairs. And if you hold your control key
+49:53 down and select one of them, I could put
+49:56 different railings, different treads,
+49:58 different anything on that piece
+50:00 separate from the other stair. but
+50:01 they'll stay hooked together. The other
+50:04 thing I can do is I can resize this
+50:06 piece separately from the other stair.
+50:08 So, I could drag that over the wall
+50:10 where Chief's going to cut off the wall
+50:12 automatically. I'll pull this wall back
+50:15 a little bit and get it so that that
+50:18 wall is back under the second riser.
+50:20 Now, we got it pretty clean looking down
+50:22 here. We got two problems with this yet.
+50:26 We've got the uh no sheetrock on the end
+50:30 of that. We'll fix that in a second. And
+50:31 we got the railing is not quite centered
+50:34 on the wall there. Chief will not yet do
+50:37 the old, you know, we got it has to wrap
+50:39 around like that. So, you're just going
+50:42 to have to point that out um with a
+50:44 drawing, you know, picture of something
+50:46 if you want to get that that way. So,
+50:49 here's what we do next. We're going to
+50:51 click on that piece of stair. Remember,
+50:52 we did a complete break. So, it's like
+50:54 working on two separate stairways now.
+50:57 So, I'm going to click on this bottom
+50:58 one, open its dialogue,
+51:01 and I'm going to go to the railing
+51:03 setting, and I'm going to do a
+51:05 horizontal offset.
+51:08 That's what will move the railing on to
+51:11 this wall. So, I'm going to go about one
+51:13 and a half inches. And if you look at
+51:15 the picture, when I click on a different
+51:16 box, you'll see which way the railing is
+51:18 moving. See how it moved in? That's the
+51:21 way I wanted it to go. Click okay. And
+51:24 now, I've just centered it on that wall.
+51:26 All right, next step is we got to get
+51:28 sheetrock on the end of that wall
+51:29 because that doesn't look very good. So,
+51:31 what I'm going to do is I'm going to
+51:32 click on the wall on the floor plan. I'm
+51:35 going to put a break right there with
+51:38 the break tool
+51:40 and you'll see that Chief will show the
+51:43 sheetrock there. Now,
+51:45 trouble with that, I mean that's great.
+51:47 Okay, so doing what it's supposed to do.
+51:49 Trouble with that is when I open and
+51:50 close the dialogue box,
+51:53 Chief's going to hook that wall back up
+51:54 into one wall. And now it's like, "Oh,
+51:57 rats gone." So, let's put that break
+51:59 back in there.
+52:02 And let's this time, let's flip the
+52:04 layer of the wall. So, again, walls are
+52:07 created with a CAD line. All right? So,
+52:09 they're created with a CAD line. So,
+52:11 right now, this CAD line is on the right
+52:13 side of the wall. I want to put the CAD
+52:16 line on the left side of this wall.
+52:18 leave the CAD line on the right side of
+52:19 that wall. So, I'm going to use the flip
+52:21 wall tool and that will make it so they
+52:24 can't those CAD lines cannot hook up
+52:26 again. And now they'll always be with
+52:29 the sheetrock. The wall will stay broken
+52:31 no matter what I do. And um you you
+52:34 eliminated that problem of get getting
+52:36 the sheetrock on the end of that wall.
+52:39 So, finally got that one figured out.
+52:40 John only took about 10 years.
+52:43 >> What? Flipping the wall over? uh getting
+52:46 a stairway in like this really easily.
+52:47 >> Oh, yeah. Yeah. Yeah. Yeah.
+52:49 >> Yeah. So,
+52:50 >> yeah.
+52:51 >> Um it's it's super not intuitive.
+52:56 I guess that'd be one way to put it.
+52:59 Let me do another railing thing real
+53:01 quick. That is super not intuitive.
+53:04 Let's do the old porch rail with the
+53:06 columns that set back. You know where
+53:09 I'm going with this, right?
+53:10 >> I think so.
+53:12 >> You think? You probably do because
+53:13 you've seen me do it many times. So, I
+53:15 just drew some railings out here. All
+53:17 right. So, I just I used interior
+53:20 railings. I could use deck railings. Um,
+53:23 doesn't really matter, but I'm going to
+53:24 group select all three of those walls.
+53:26 And I'm going to make this with columns
+53:27 to a beam. Um, I'll leave the railing on
+53:30 there. You can turn it off if you want.
+53:32 Let's open the dialogue for those three.
+53:34 Okay. Here's a trick to this. So, the
+53:38 first thing is the wall type. Okay. And
+53:41 see how this picture here shows
+53:42 sheetrock right here. I don't want that
+53:44 to happen against my concrete slab
+53:46 because I'm going to name I'm going to
+53:47 make this a concrete porch. All right.
+53:50 So, I'm going to turn that sheetrock
+53:51 off. So, let's go to our
+53:54 >> change it into concrete.
+53:57 >> Change that into concrete.
+53:58 >> Yeah.
+53:59 >> Oh, well, I could do that or I could
+54:01 just select a wall that doesn't have any
+54:03 sheetrock on it, like the the framing
+54:05 wall. Doesn't matter.
+54:07 >> There's a there's a reason for it. I
+54:09 can't put my finger on the top of it on
+54:10 it right now. But there's a reason why I
+54:12 do that. Why I chang
+54:14 think about it. Let me know.
+54:16 >> Uh I'll just typically click to a
+54:18 framing wall. It's just a just one. It's
+54:20 just two lines, nothing else. All right.
+54:22 Then I'm going to go to general. And
+54:24 this is where you got to start thinking,
+54:25 okay, so what size do I want my columns
+54:27 to be? Well, I want my columns to be 8
+54:29 in, but I want the column to stick back
+54:33 from the edge one inch on each side. So
+54:36 I need to change this thickness. Okay,
+54:38 you wonder what the heck does this mean?
+54:40 Because I already set all the thickness
+54:42 and stuff up under the wall types. Well,
+54:44 this has to do with what we're trying to
+54:46 create here. So, I'm going to re
+54:48 override that and just type in 10.
+54:51 All right. And then I'm going to go to
+54:52 my nules and ballasters. So, that's a
+54:55 big one right there. Thickness. That's
+54:57 the one that I think a lot of people
+54:59 don't realize what it's for. That's
+55:01 that's going to allow me to move the
+55:04 railing, the posts onto the concrete.
+55:08 Then I'm going to go into
+55:10 the rail um rail style renewals and
+55:14 ballasters. Well, rail style, I guess.
+55:16 I'm going to go make this open. I'll get
+55:18 I'll get rid of the railing all
+55:19 together. So, I'm going to turn off um
+55:22 my all my railing stuff. Now, I'm going
+55:24 to go post to beam. Um I'll make it so
+55:27 there is no post against the house.
+55:31 And then I'm going to go to my nules and
+55:32 ballasters. Make my post 8 in. don't
+55:36 care about the height because that's
+55:38 going to be determined by the room
+55:39 because we want post to beam. Then I'm
+55:42 going to go to my rails and I can make
+55:45 my beam whatever size I want. I'll make
+55:47 that 8 in as well and I'll make it uh 12
+55:50 in tall. And you can offset the railing
+55:54 up and down as well from the ceiling
+55:56 height. If you use these, this will
+55:58 offset it from the post. This will
+55:59 offset it from the ceiling height
+56:02 depending on where you want that to go.
+56:04 So that's the three things you got to
+56:05 do. Watch your that change your wall the
+56:08 rail style. Go to the nules and
+56:10 ballasters. Click okay. And now you'll
+56:13 see see how it's it's set back one inch
+56:16 from the edge of that room. Now I'll
+56:18 just go back into this room and I'll
+56:20 open its dialogue box and we'll go into
+56:23 the um room type under the my template.
+56:27 I have one called porch concrete.
+56:30 That'll just automatically put a
+56:32 concrete floor in. And now I've got a
+56:34 nice little concrete floor. There's your
+56:36 There's your uh post to beam. Pretty
+56:38 simple. And I love love love the tool
+56:41 that they added here where I can edit
+56:43 where the new posts are. I can add new
+56:46 posts in. I can delete new posts. That's
+56:48 this little tool right here. Move new
+56:51 posts. So when I click on the rail and I
+56:54 click on that tool, you see how I can
+56:56 select the new posts and move them. Um I
+56:59 got it too close to the corner, I guess.
+57:01 Now, let's put it back at the corner.
+57:03 So, now I've just got two. If I need
+57:05 another one, I could hit the plus sign,
+57:07 add another one, hit the plus sign, add
+57:10 another one. So, it's you got a ton of
+57:12 flexibility now where you can put those
+57:14 things. That is huge. How much we used
+57:17 to have I used to have to draw all this
+57:19 stuff out of slabs years ago. Um, till
+57:21 they added that tool. That's a nice
+57:23 tool. That one.
+57:25 >> You know what I used to do?
+57:26 >> What's that? if you uh to put to add
+57:31 posts in there, I would just put a break
+57:32 in the wall and flip flip one of them.
+57:34 >> Yeah. But you know, a lot of times
+57:35 though, you would get two posts then
+57:38 overlapping each other
+57:39 >> and you know, it never worked right for
+57:42 me.
+57:43 >> Seems like it only happened on the
+57:44 corner.
+57:45 >> Yeah. Yeah. Anyway,
+57:48 >> now show now show us the new tools that
+57:50 they have for it that they came up with
+57:52 in 15 or 16 where you can just offset
+57:54 the railing and still get the one inch
+57:57 reveal there.
+57:58 >> All right, one more thing. We got just a
+58:00 few more minutes left. Let me show you
+58:01 this thing here.
+58:02 >> There were a couple questions too that I
+58:04 found.
+58:05 >> Let me let me do this one quick. So,
+58:07 let's say that you're using the the tool
+58:12 up here for your um notes. Okay, you use
+58:16 a text the note tool and you click here
+58:19 and you add a note and it shows up on
+58:22 the note schedule. Okay, you click here,
+58:24 add a note, shows up on the note
+58:26 schedule. So, there's number one and
+58:28 two, number one and two. So, create a
+58:31 note schedule by going to note type
+58:33 management and you can create a new
+58:35 schedule if you want to. I've got a
+58:37 bunch in my template that I've created.
+58:39 I found I don't use note templates very
+58:41 much. Um, I thought I would use them a
+58:43 lot more. But let's say that you have
+58:45 plans that you kind of tend to add a lot
+58:48 of the same notes all the time, but
+58:50 maybe you have, you know, you here we
+58:52 have 10 different kinds of notes and you
+58:55 you know, in this particular plan, I
+58:57 need to use, you know, three or four of
+58:58 those. So I' I've added that. I've
+59:01 created that those notes. They're
+59:02 separate items. Okay. So if I let me
+59:05 just unblock this quick. So they're all
+59:06 separate notes. Okay. So if I take that
+59:09 and I block it and I add it to my
+59:11 library. So I'm going to click add to
+59:14 library. All right. Before I do that
+59:16 though, it's not anytime you're adding
+59:18 something the library, if you can open
+59:19 the dialogue and name it first, it's not
+59:21 a bad idea. Um let's call it my new
+59:24 notes. Click okay. Now I'm going to add
+59:27 it to my library. And there it is in my
+59:30 library. It's called new notes. Now
+59:32 anytime I need that, anytime if I need
+59:34 to change something that I don't have to
+59:36 put it my back in my plan and put it
+59:38 back in the library. Just right click on
+59:39 it, hit edit CAD block because that's
+59:43 what it is. It's a group of text. And I
+59:46 could go into this CAD block now and
+59:50 edit it. So, I could go in here and if I
+59:52 wanted to, I could edit this text and,
+59:55 you know, change it. I could click here
+59:58 and add another text in.
+1:00:01 So, you could just make all the changes
+1:00:03 you want to this all day long and
+1:00:06 without having to unblock it. Okay. When
+1:00:09 you're done, just close it. It's going
+1:00:11 to ask you to save it. Hit save. Yes. So
+1:00:13 now that's in my library under my user
+1:00:17 library
+1:00:18 under
+1:00:20 my library. Now it's going to see all
+1:00:22 the changes in there now. Hey, so put
+1:00:25 those notes just so when you want to add
+1:00:28 all you want to create all the notes for
+1:00:30 a room and you've already got a whole
+1:00:31 list of notes, bring it back into your
+1:00:33 plan. Unblock it. You do have to unblock
+1:00:35 it here. Then all I have to do is I say
+1:00:39 I want to use this one. I'm going to I'm
+1:00:41 going to click on this icon right here.
+1:00:43 I don't have a hotkey for this yet, but
+1:00:44 I might if I were to use this a bunch.
+1:00:47 Convert text to note. So, I can do this.
+1:00:50 What schedule though I want it to be on?
+1:00:52 Click that. I want this one to be on the
+1:00:55 schedule as well. Click that. Hit okay.
+1:00:59 I want this one. I don't think I can do
+1:01:01 m I haven't tried this with multiple,
+1:01:03 but you can try that if you wanted to.
+1:01:05 So, now I've added those. So now all I
+1:01:07 got to do is just move these numbers to
+1:01:08 where I want them to be in my plan. If I
+1:01:11 need extra, I could make copies of them
+1:01:13 and paste them. So really easy way to
+1:01:15 add those notes without without having
+1:01:17 to re retype something into your plan.
+1:01:20 So there you go. I like that one. That
+1:01:21 was kind of fun. I was with working with
+1:01:23 someone yesterday. We figured that out.
+1:01:26 What do you think? You like that one?
+1:01:29 >> I don't know yet.
+1:01:31 I'm wondering if you could just do the
+1:01:32 same thing with just a note schedule
+1:01:35 and block it. Can you put an Can you put
+1:01:37 a note schedule with the note icons into
+1:01:39 a library
+1:01:41 together?
+1:01:42 >> Uh, yeah, but not with the It's only
+1:01:45 going to put the format of the note
+1:01:47 schedule, not the notes. Okay, because
+1:01:49 those are separate.
+1:01:51 >> I like it. I like it.
+1:01:53 >> Yeah, because I did play with that one.
+1:01:55 So,
+1:01:57 >> anyway, what a a couple questions. What
+1:01:59 are we at real quick? There was a
+1:02:01 question about whether or not a beam
+1:02:04 can a beam top of a beam extend above a
+1:02:07 ceiling height
+1:02:09 >> uh in the railing like this.
+1:02:12 >> I assume so. Yeah,
+1:02:14 >> Mike's asking that. That's where your
+1:02:15 offset would come in. So, let me think
+1:02:18 about that. So, if we go here to uh
+1:02:21 rails, let me see if this works. So,
+1:02:23 what I would do is we do a vertical
+1:02:24 offset. Let's just go six. Um oh, okay.
+1:02:28 It It makes it six inches taller. But if
+1:02:31 I make it if I make it 18 inches high,
+1:02:35 will it bring it back down? No, it it's
+1:02:37 it's lowering that whole thing. Um
+1:02:44 I don't know if I have top rail, middle
+1:02:46 rail, top rail, middle, bottom, default.
+1:02:49 I'm just trying to think if there's a
+1:02:50 way to raise the posts that up to that
+1:02:54 because typically these kind of beams in
+1:02:57 this dialogue are controlled by the
+1:03:00 ceiling height of the room.
+1:03:04 So, I'm going to say off the top of my
+1:03:06 head, no, you can't extend the top of
+1:03:08 that beam past the ceiling height.
+1:03:11 You'd have to either draw that beam
+1:03:13 manually
+1:03:15 or just move your ceiling height up and
+1:03:17 then put a separate ceiling in using the
+1:03:19 ceiling tool. You know, the the roof
+1:03:22 plane tool, the ceiling plane tool under
+1:03:24 roofs. That would be another way to do
+1:03:26 it. Um
+1:03:31 I'm going to ask I'm going to give a
+1:03:32 firm I don't know on that one.
+1:03:36 All right. Uh anything else? Oh, there's
+1:03:38 Victor. Victor, you're the guy that I
+1:03:40 discovered those note things with. That
+1:03:41 was a good call we had yesterday.
+1:03:42 Thanks. Um, try the ballister option. I
+1:03:46 just tried that, didn't I? Let's Let's
+1:03:48 try that. Okay, we'll go into ballisters
+1:03:52 height. Oh, here. Let's go back here and
+1:03:56 we do a vertical offset of six.
+1:04:00 And we're making that 18.
+1:04:03 And we're going to go adjust our nules
+1:04:04 and ballasters up to
+1:04:07 um 9 ft.
+1:04:10 Yeah, that doesn't have any effect on
+1:04:12 the ballister height.
+1:04:14 >> Yeah, I discovered something the other
+1:04:16 day I wish they'd incorporate.
+1:04:18 >> Interesting.
+1:04:21 >> I wish they'd incorporate with the with
+1:04:23 the roof tool. And that is a railing
+1:04:25 that goes underneath a stairway will cut
+1:04:27 the top of the railing off and follow
+1:04:29 the pitch of the stairway. But if you do
+1:04:31 that in a roof, it won't do that. Or a
+1:04:34 ceiling won't cut the won't cut a
+1:04:35 railing off like it does for the wall.
+1:04:39 Offset the bottom.
+1:04:43 Oh, can play with that one.
+1:04:48 Worst case, I'd just draw it in with the
+1:04:49 slab tool. Uh good good suggestion, uh
+1:04:53 Erin. All right, let's see here. Uh
+1:04:56 another question real quick.
+1:04:57 >> Here's a question D had toward the
+1:04:59 beginning. When working in a plan, if I
+1:05:01 need to change a default, will the
+1:05:03 changes be made to all the drawings or
+1:05:06 only to the from the point where I made
+1:05:08 the change in the default?
+1:05:11 >> All right. Depends on what default it
+1:05:13 is. I do know I think like uh with
+1:05:16 windows and doors, if you change the
+1:05:18 trim and you're still using the default
+1:05:20 trim, they may change. The materials
+1:05:22 will if if you're still using the same
+1:05:24 materials on a window, it's a default
+1:05:26 and you change the default, it'll change
+1:05:27 those materials. um only for the plan
+1:05:30 you're working on. Nothing else. It's
+1:05:32 not going to, you know, once you open a
+1:05:33 new plan, it's all the defaults are just
+1:05:36 for that plan. There's no effect on any
+1:05:38 previous or future plans unless you add
+1:05:40 it to your template. So, you would have
+1:05:42 to add it to your template to make that
+1:05:43 work. Let's see.
+1:05:47 Did that answer it? I defaults are one
+1:05:49 of those things you really have to play
+1:05:51 with. Um, and I I'll cover one more
+1:05:53 thing real quick as long as we're in
+1:05:55 that, and that's when you are changing
+1:05:59 materials for something. Okay, I think a
+1:06:02 lot of people miss this. So, let's say
+1:06:03 that I want to put that lovely tile all
+1:06:05 over my cabinets. All right, so I'm
+1:06:07 going to click the eyropper tool and I'm
+1:06:11 going to click on that tile. And then
+1:06:14 what what sometimes what people do is
+1:06:15 they'll just start pasting it on
+1:06:17 different pieces of the of places where
+1:06:19 they want to put it. All right. So, when
+1:06:22 it comes to defaults, we don't have to
+1:06:25 change defaults to change a whole bunch
+1:06:26 of things at once. What we could do is
+1:06:28 just change the material to a different
+1:06:30 material. And we do that by using these
+1:06:32 icons in the bottom left corner. Okay.
+1:06:35 So, we want to be care you want to be
+1:06:37 sure to use these. So, this first one,
+1:06:39 the C is stands for the component. So,
+1:06:42 here on my cabinet, it might be that
+1:06:44 door panel. It might be a drawer panel,
+1:06:46 might be a side panel. Those are
+1:06:47 components. The object would be the
+1:06:49 whole cabinet. Okay. The R would be
+1:06:52 everything in the room. So, anything
+1:06:54 painted with this white material in this
+1:06:56 room would change to whatever I spray
+1:06:59 onto it when I select the R. F is an
+1:07:01 entire floor. P is for the entire plan.
+1:07:04 This allows me to make a copy of that
+1:07:06 material and change it and then add
+1:07:08 that. So, let's go try that real quick.
+1:07:11 So if I want to change all those
+1:07:12 cabinets really quickly to that tile and
+1:07:15 I go entire room and I click anything
+1:07:18 with that material will change in that
+1:07:19 room. The the the trim and the mill work
+1:07:22 are different color. So if I want to
+1:07:24 change all those for this room I could
+1:07:26 do that too. I could click on that and I
+1:07:28 guess the windows are a different color.
+1:07:30 So just keep that in mind. You're
+1:07:32 actually changing the material for a
+1:07:34 whole group of items at once. So it's a
+1:07:36 really simple way to change defaults in
+1:07:37 a plan. Not recommended to use that
+1:07:39 material on your cabinets and trim, but
+1:07:41 uh you get the idea, I hope.
+1:07:43 Uh
+1:07:45 Erin likes his hack stuff, huh? He wants
+1:07:48 to do it on the next designer show. Way
+1:07:50 to go, Erin. Good suggestion. Yeah, we
+1:07:52 could continue more of this. We could do
+1:07:53 some Q&A next time, too.
+1:07:56 >> All right, I think we're done. John
+1:07:59 >> Mike's wondering pros and cons about
+1:08:01 using the eyropper or paste material
+1:08:03 changes. Sometimes things get weird. Um
+1:08:07 >> um depends on where you're using it. Uh
+1:08:10 I don't like to use it on exterior walls
+1:08:13 for the eyedropper tool because when I
+1:08:15 change that that siding to a different
+1:08:18 material using the eyropper, I'm just
+1:08:20 putting that material over the top of
+1:08:22 the siding that's already there. So if I
+1:08:25 go to change the wall type, the wall
+1:08:27 type won't change because the concrete's
+1:08:29 covering it. So I always recommend, you
+1:08:31 know, for exterior walls, interior
+1:08:32 walls, no big deal. Paint the sheetrock,
+1:08:34 do whatever you want. exterior walls.
+1:08:35 This seems to be the big one. Um there
+1:08:38 I'm going to go in the wall type and I'm
+1:08:39 going to just change the material here.
+1:08:41 And then I'm going to create new wall
+1:08:43 types with the different materials on it
+1:08:45 and I'm going to replace the wall with
+1:08:46 that. That's how I tend to do all of
+1:08:48 those. Um but I do say, yeah, if you
+1:08:51 want to use material painter and it's
+1:08:52 just easier for you, go ahead. Don't
+1:08:54 worry about it. It's only going to be an
+1:08:55 issue if you try to replace the wall
+1:08:57 with a different wall and the materials
+1:08:58 don't change. The uh other than that, I
+1:09:01 I like material painter. works great on
+1:09:03 everything.
+1:09:04 >> The other thing to be aware of is the
+1:09:06 material painter will not change the
+1:09:08 thickness of things. Like if you had
+1:09:10 siding and brick,
+1:09:11 >> right?
+1:09:11 >> You just paint the siding, it's not
+1:09:14 going to change the thickness of it. So,
+1:09:15 you're
+1:09:15 >> It's not It's not not going to be a 4
+1:09:16 inch thick brick. Exactly. Good. Good
+1:09:18 point.
+1:09:19 >> Y
+1:09:20 >> the other tool you want to use a lot
+1:09:22 would be the material um rainbow bacon
+1:09:24 tool we call it. This used to be shaped
+1:09:26 like a rainbow, so we call it the
+1:09:28 rainbow tool. Then they flattened it out
+1:09:31 and now Renee calls it the bacon tool.
+1:09:33 So I just call it the rainbow bacon
+1:09:34 tool. Um
+1:09:36 anyway, that's probably not what it's
+1:09:38 called. It's called the define material
+1:09:39 tool. So here you can go in if I want to
+1:09:41 change all my blue siding to a different
+1:09:43 color all at once. I'm going to use
+1:09:45 rainbow bacon tool. I'm going to go into
+1:09:47 the texture and I'm going to hit the
+1:09:49 color here. I'm hit blend with texture
+1:09:51 and then I'm just going to go pick a
+1:09:53 color somewhere on my computer. I want
+1:09:55 that green right there. So I'll pick it.
+1:09:58 Now, it's going to keep because I click
+1:10:00 clicked blend with texture. It's going
+1:10:02 to keep the siding image, but it's going
+1:10:04 to change the blue color to that green
+1:10:06 color. I'll still have the siding and
+1:10:09 your house is going to glow like crazy.
+1:10:11 So, you could do that really. That's
+1:10:13 fine. You're just changing the material
+1:10:16 to a different color. You might want to
+1:10:18 change the name of the material, maybe.
+1:10:20 So, you could do that again using the
+1:10:21 rainbow bacon tool and just click and
+1:10:24 change it. you know, now it's my, you
+1:10:25 know, green sighting. Very green
+1:10:28 sighting. And that's another way to do
+1:10:30 that.
+1:10:32 All right, we've got to go, I think. So,
+1:10:34 everybody, thank you for being here.
+1:10:36 Appreciate it. Uh, let us know if you
+1:10:38 have any questions or need help with
+1:10:39 anything. And, uh, that's why we're
+1:10:42 here. So, our whole gang, I know Kevin
+1:10:45 was out on vacation. He was just in the
+1:10:46 Mina Islands. Uh, he just sent me this
+1:10:49 crazy picture that he thought even Renee
+1:10:51 could not draw, but maybe he could.
+1:10:54 was pretty cool. Here, I got to show you
+1:10:57 this. This is really something.
+1:11:01 I don't know if you can see that. You
+1:11:03 probably can't.
+1:11:04 >> Uh, pretty there. Right there.
+1:11:06 >> There you go. Yeah.
+1:11:08 >> I don't think Rene is going to draw that
+1:11:09 one.
+1:11:10 >> You only have to draw like six different
+1:11:11 items and just keep repeating them.
+1:11:13 >> I suppose be a piece of cake. He'd
+1:11:16 figure it out. I guarantee it.
+1:11:19 And again, uh, look us up in Cordelane
+1:11:21 if you're going to be there. Otherwise,
+1:11:22 we'll see you on I think the 1st, right?
+1:11:24 September 1st is the next Wednesday. Uh
+1:11:28 third. No, what what date is that? That
+1:11:31 would be
+1:11:33 Oh, we got five Fridays this week. So,
+1:11:34 it's going to be in the 5th of
+1:11:35 September. The next time we see you, you
+1:11:38 don't we don't do the fifth fifth
+1:11:40 Friday. So, you guys take care, have a
+1:11:42 great and lovely time, and we'll see you
+1:11:44 next time on the Designer Show.
+1:11:46 >> And if you're coming to Court Lane, make
+1:11:47 sure you say hi.
+1:11:49 >> Yes, please do. See you later. Bye guys.
+1:11:52 See you.

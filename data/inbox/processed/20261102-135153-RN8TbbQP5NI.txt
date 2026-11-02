@@ -1,0 +1,1801 @@
+Title: What's New in Chief Architect X16 - PART 3 - Designers Show #130
+URL: https://www.youtube.com/watch?v=RN8TbbQP5NI
+Visibility: public
+
+0:00 It's coming. And we're live.
+0:01 Now, we're live?
+0:03 We're live.
+0:05 Hi everyone.
+0:06 Is anybody here?
+0:08 No one's here. It doesn't show that
+0:09 anyone's here. We did something wrong.
+0:11 off week. We're on off week, so we might
+0:13 be able to
+0:13 people watching. Yeah, all right. Well,
+0:15 they
+0:16 Well, we're here. They got all the good
+0:17 tips. Yeah.
+0:18 Yes.
+0:19 Hello Benjamin.
+0:24 Wha- welcome back.
+0:26 Ev- two people.
+0:28 Welcome back.
+0:31 Welcome back. If you saw our
+0:33 There's Doug. Hey Doug.
+0:35 There's Doug. Cool.
+0:38 Yeah, we got one.
+0:39 They'll show up. They're just a little
+0:40 late and it's Everybody will show up, so
+0:42 we'll be good. It'll all be good.
+0:45 Benjamin, Benjamin, you signed up for my
+0:47 membership area on YouTube. Appreciate
+0:49 that. Um, it shows us in in big bold
+0:52 that you're here, so thank you.
+0:55 Welcome.
+0:55 Um,
+0:57 where were we at last time? So, we kind
+0:59 of ended on 3D dimensions. If you saw
+1:01 our last two previous shows, we've been
+1:03 going over the X16 features. It takes a
+1:05 long time to go through these, so
+1:07 that'll tell you, you know, it's always
+1:08 a good release from
+1:10 uh Chief Architect.
+1:13 And we stopped off at 3D dimensions.
+1:17 There's Kenny Crocker.
+1:19 Hey Kenny.
+1:19 Hi Kenny. We got people coming in. Cool.
+1:24 Um, John, you were talking about
+1:27 3D dimensions and then not having it
+1:30 snap to something that you needed to
+1:32 snap to.
+1:32 Yeah, do you have any tips on that?
+1:35 Um, let's just try it out cuz I'm not
+1:37 cur- I'm curious. I actually didn't know
+1:39 you could dimension to roof, so I don't
+1:41 know that you can though. I don't think
+1:43 you can. There is no setting in
+1:44 dimensions um defaults for for snapping
+1:47 to roofs, so that's kind of a fun one.
+1:50 But yeah, this is
+1:51 um
+1:52 this is showing my highlight color right
+1:54 now if you could see this on the screen
+1:56 and
+1:58 All right, that's my highlight. You
+1:59 notice when I highlight this wall, it's
+2:01 highlighting the entire geometry of the
+2:04 wall. I highlight this wall, it's doing
+2:05 the same. I'm highlighting the window.
+2:08 And so, this is
+2:09 basically giving you an indicator that
+2:11 this is in plane with what we are
+2:13 expecting to dimension to.
+2:15 So that if I then click my left mouse
+2:18 button,
+2:20 it puts a target on there,
+2:21 which you kind of like.
+2:23 And then I just get to drag through
+2:26 the building, and hopefully it picks up
+2:28 what I wanted to pick up.
+2:30 Um So it's still a hopefully thing. It's
+2:32 It's not necessarily a guarantee what
+2:34 you're picking up.
+2:34 So
+2:35 It Well, it should be because it's using
+2:37 your active dimension default for that
+2:41 view. So
+2:43 the view I'm in right now, um if I'm
+2:45 going to switch to just a regular tool
+2:46 bars, and we went to go hit the edit the
+2:50 active view button,
+2:52 Mhm. that's going to bring
+2:54 this dialogue up, and then we've got the
+2:56 selected defaults panel,
+2:58 right? And then that's going to let me
+3:00 know that, "Hey, my dimensions for this
+3:02 view But And this is my template, so I
+3:04 set it up so that it's doing kitchen
+3:06 dimension, cuz
+3:07 I figured that's the only dimension
+3:08 default I'm going to use in 3D.
+3:11 So you had it set up to measure from
+3:13 surfaces, cuz I noticed it looked like
+3:14 it was measuring from the siding.
+3:17 Yeah, it's set up to measure from
+3:19 surfaces. So this is kind of like a
+3:20 remodel workflow for me. So if I were to
+3:23 switch this then instead to
+3:25 new construction, right? And then press
+3:28 okay,
+3:29 then
+3:30 if I were to use that same tool, click
+3:32 on this wall, drag through,
+3:35 notice this time it's
+3:37 it's actually picking up my window. It's
+3:39 actually picking up um my interior
+3:42 main layer of the walls. And But you
+3:45 could change that, right? So you could
+3:47 get it to the exterior if you wanted.
+3:49 You could, yes. You do instead of um
+3:52 primary secondary side, you just do the
+3:54 primary side only and then notice that
+3:57 this dimension defaults using a
+3:58 different text style. So, one
+4:01 um has, you know, fill
+4:04 and the other one is transparent in the
+4:06 text.
+4:06 One's using inches and the other one's
+4:07 using
+4:09 Yeah, exactly.
+4:10 So, when you do
+4:12 you set the target using your your left
+4:14 mouse and then you have to hold your
+4:15 left mouse
+4:16 down to be able to drag it or once you
+4:18 set the target
+4:18 single click to set your um target and
+4:21 then you can just I believe yeah, you
+4:25 have to click and drag through. And then
+4:27 click again.
+4:29 No, just click and drag through and let
+4:31 go and then that, you know, sets your
+4:33 dimensions.
+4:35 But the target you have to you have to
+4:37 set the target first.
+4:39 Right.
+4:40 it. Yeah. Yeah, okay.
+4:42 And so, let me get rid of a couple of
+4:43 these. There's a few other tricks that
+4:45 we have with this is
+4:47 um when this tool is active, you're
+4:49 going to notice that the edit toolbar,
+4:51 which is usually at the bottom of your
+4:52 screen, has a few options here and one
+4:55 of those is do you want to draw on the
+4:57 surface or do you want to draw on a
+4:59 bounding box? Now, the surface would be
+5:01 the geometry of something versus the
+5:03 bounding box of that object. Okay? Can
+5:07 you show the difference?
+5:08 Um sure. Let's just place an object real
+5:11 quick.
+5:15 Well, the bounding box is going to be
+5:16 the outside of it. Right. So, if we look
+5:19 very closely to this cabinet, this is
+5:21 the bounding box.
+5:23 Right? That um that pink is a
+5:24 representation of the bounding box, but
+5:26 notice that the countertop overhangs
+5:28 that bounding box. That's the actual
+5:29 geometry of the object. So,
+5:32 and that would be the difference between
+5:33 the two.
+5:34 Well, and the door actually, the door of
+5:36 the cabinet is not part of the bounding
+5:38 box as well. Right, right.
+5:41 Um
+5:42 And by the way, I clicked on the cabinet
+5:44 tool and and not a ton of people know
+5:46 this, but I believe out of the boxes and
+5:49 escape John that will cycle through your
+5:51 previous tools.
+5:54 I think so, yeah.
+5:55 So, I'm just going to hit that a couple
+5:57 times and that'll get me back to that
+5:59 dimension.
+6:00 Right? I use that all the time. A lot of
+6:01 people forget that you can do that. You
+6:03 don't need to go click on a new tool.
+6:05 You could cycle back through your
+6:07 previous tools or cycle through your
+6:10 your tools as you cycle backwards.
+6:13 So
+6:15 I just want to mention I just want to
+6:16 mention to everybody that's watching
+6:18 right now. We're probably a short on
+6:20 attendance today because we're on an off
+6:22 week.
+6:23 It was supposed to be last week, but we
+6:25 changed it to this week because of 4th
+6:26 of July. Yeah. So, if you've got an
+6:28 itching question that you want to ask,
+6:30 this might be a good time to do it.
+6:32 good time, yeah. You have more time We
+6:34 can do whatever we want to do today. So,
+6:36 if you got a question, go ahead and put
+6:38 it out there.
+6:39 John, would you mind while I'm doing
+6:42 this too? Can you post our live feed
+6:44 into the users of Chief Architect group
+6:47 cuz um
+6:48 They took away Facebook took away the
+6:50 ability for us to stream directly to a
+6:52 group. So, we have to repost our live.
+6:55 So, how how do I do that? So, you'd go
+6:57 to either my channel or the Chief
+6:59 Architect's page or my page and then
+7:04 share the actual live over to one of
+7:06 those.
+7:09 All right. Oh, and there you go. There's
+7:10 a big problem. Bruce Robinson says the
+7:12 email link sends you to the last show.
+7:14 That's on Dan. And Dan's not here for us
+7:16 to yell at him.
+7:19 Thank you, Bruce.
+7:20 Thank you, Bruce.
+7:22 So,
+7:23 I've got that dimension tool still up
+7:25 and note that
+7:27 on bounding You're set on bounding box
+7:29 right now or not? Yes. I'm bounding box
+7:31 and then what I've got here is we can
+7:33 set our offset. Is this tool? Now, any
+7:37 tool in Chief Architect when you just
+7:38 hover over that tool for long enough, it
+7:42 should give you a preview of what that
+7:43 tool is doing.
+7:45 Um or what that tool is called. So, in
+7:48 this case, sometimes
+7:50 There we go. Draw on surfaces is what
+7:52 this one's called. And then hover over
+7:55 this, set offset. So, if I click on
+7:58 this, it's going to bring up a little
+7:59 dialogue box which popped up on my
+8:01 second screen here. And it's telling me
+8:04 offset from drawing surface. So, if I
+8:07 wanted my dimension to be offset by 36
+8:10 in instead of the 12, now when I click
+8:14 and drag through, this is going to be 36
+8:17 in away from the building as opposed to
+8:18 12.
+8:20 Nice.
+8:22 All right.
+8:24 So, the next thing about this is we've
+8:26 got a few settings that we can set up
+8:28 here. And if you just click on your
+8:30 dimension string, you can get to those
+8:32 settings. So, I'm going to open this
+8:34 object up.
+8:36 And I'm going to go ahead and define my
+8:38 dimension default.
+8:42 And then I have not practiced this, so I
+8:45 might need might need to look a little
+8:47 bit, but there is a way to set this up
+8:49 so that
+8:50 um
+8:51 our primary format for 3D
+8:55 should be facing us if we wanted it to.
+8:58 Like the text should be facing us in
+9:00 this case.
+9:01 And I'm not really sure where that where
+9:03 that is. Do you know offhand?
+9:07 Text for what?
+9:09 Uh the 3D dimensions text facing us.
+9:13 So that it's always facing us.
+9:16 Yeah, I'm not sure where it is.
+9:19 Uh yeah, that setting is buried in here
+9:20 somewhere. Not sure either.
+9:24 Extension markers.
+9:26 Well, we'll have to find that. Maybe
+9:27 we'll come back to it.
+9:29 But there is a way so that you can set
+9:30 this up so that your text is always
+9:32 rotating.
+9:33 Um so that it's always facing the
+9:34 camera. So, if you're setting up a
+9:36 particular view and you and it's a heavy
+9:38 angle like this, then your text will be
+9:40 facing you.
+9:41 And I did mention this in the last show,
+9:44 but if for some reason your text is very
+9:46 blurry like this right here, it maybe
+9:49 that you have um the AMD fidelity
+9:52 settings set up for this. So, that's in
+9:54 our edit the active view as well. So,
+9:56 I'd be clicking on edit active view,
+10:00 and then in the camera panel up here,
+10:03 if you have this set to performance
+10:06 because you're trying to maybe work on a
+10:07 slower machine and be able to see live
+10:11 that ray trace view, um then I suggest
+10:14 you put it on performance. But, for
+10:16 doing a final shot where you're trying
+10:18 to um render something with dimensions,
+10:20 you want to make sure you take this back
+10:21 to native resolution. And that's going
+10:23 to crispen this up, right? Because this
+10:26 is a raster-based image. So, this should
+10:29 help make this display a little bit
+10:31 better.
+10:32 Cool.
+10:34 That's good.
+10:35 Uh let's see. I said Mark Baity says,
+10:38 "General tab at the bottom label faces
+10:40 camera." Let's try that out. So, we're
+10:42 going to grab this.
+10:44 And thank you, Mark. That always helps.
+10:47 Um
+10:49 general tab and at the bottom label
+10:52 faces camera. There it is.
+10:55 Nice.
+10:57 So, with that clicked, you're going to
+10:58 see that this label does in fact rotate
+11:01 with the camera as I rotate around.
+11:04 Brilliant.
+11:06 So, there's a couple of Yeah, thank you,
+11:08 Mark.
+11:10 Love it when people interact with us and
+11:12 give us the solution. That's great.
+11:16 Uh there's a couple of edit handles you
+11:17 might um want to know in this particular
+11:19 view is is we've got um and it depends
+11:22 on what you have your edit handle colors
+11:24 set up as. And some of these edit handle
+11:26 colors only show up in um certain views.
+11:29 So, let me change mine real quick. If
+11:31 you didn't know how to do this, edit
+11:32 preferences on a PC and I think it's the
+11:35 Mac logo and preferences on a on a Mac.
+11:39 But in the colors panel
+11:42 I have selected edge handle fill and
+11:44 secondary handle fill. I'm going to
+11:46 change my secondary handle fill so we
+11:48 can really see this. I'm going to turn
+11:50 this into like a neon green here. And
+11:53 let me press okay.
+11:56 And so now when I select this, we're
+11:57 going to see there is that neon green
+12:00 showing up. There's very few items in uh
+12:03 Chief Architect where this shows up
+12:05 aside from the dimension strings. So, um
+12:08 here we go. That green handle, which is
+12:10 now my secondary handle, this will um
+12:14 move the dimension string further away
+12:16 or um further towards what it's
+12:18 dimensioning to. So, if I click and drag
+12:21 this, there we go. I'm moving that
+12:23 dimension string.
+12:24 And do keep in mind that tab or enter
+12:27 still work for us to offset this a
+12:29 particular distance. So, I'm still
+12:32 holding my left mouse and while I'm
+12:34 dragging, I'm going to hit tab. It's
+12:36 going to bring up
+12:38 this designation right here. And notice
+12:41 in 3D it's really difficult to drag
+12:43 linearly in its in a specific direction.
+12:46 So, if I'm dragging, let's see if shift
+12:49 works. Sometimes when you're holding
+12:50 shift, it'll drag in a a particular
+12:52 direction, but no, that doesn't work.
+12:54 So, I have to know the angle I'm going,
+12:56 180.
+12:58 And then I know the distance I'm going
+13:00 to drag it, 24 something like that. So,
+13:02 So, I just realized it's going to it may
+13:03 get to skew
+13:05 it may get skewed. Yeah, okay.
+13:07 Now our primary edge handle, that's this
+13:10 guy right here, this black one, that's
+13:12 going to change the height of that
+13:14 dimension string. So, that if I take
+13:15 this up above the roofline, notice that
+13:17 it even does a little
+13:20 little cut because it's trying to
+13:22 to dimension something um
+13:25 that this uh main line is is higher than
+13:28 that particular item. So it's going to
+13:30 make this little jog down to the
+13:32 extension line.
+13:34 Nice.
+13:36 And then
+13:38 we do still have the ability to
+13:40 draw back this dimension. Right? So I
+13:42 can bring that back level and if I draw
+13:45 through it's not going to do anything
+13:46 because I believe that's because my
+13:48 reach setting
+13:50 is so small that it's not going to pick
+13:52 up additional dimensions in this case.
+13:54 Only because you've moved it.
+13:56 Yeah. If you didn't move it, you would
+13:58 have been able to grab something.
+13:59 Well, no. It's It's I think it's
+14:00 actually because my extension because
+14:02 it's too far from the building. So if I
+14:05 if I move this closer to the building
+14:07 and then try that out, let's see if that
+14:09 works. Now you did two things there.
+14:12 You moved it up, down, and closer to the
+14:14 building. Yeah.
+14:17 And so now if I drag through, yes, it
+14:19 will in fact pick it up. And that I
+14:21 believe is because of my reach setting
+14:25 in manual.
+14:27 So general reach. That's this number
+14:30 right there. I think we could try it
+14:32 out. Let's go.
+14:33 Let's say 48.
+14:34 other thing when you're done with that.
+14:37 Try drawing your dimension underneath
+14:38 the window and see if it'll pick it up.
+14:42 Okay.
+14:43 So this is dragged out a little bit more
+14:44 than 48 inches. Let's get a little
+14:47 closer. There you go. So that yeah, that
+14:49 reach setting does in fact
+14:51 affect that in 3D.
+14:53 Nice. And then John, what did you want
+14:55 to do?
+14:56 Draw the dimension like a couple feet
+14:58 below the window and see if it still
+14:59 picks up the window.
+15:00 See if it'll pick it up. Um
+15:02 so let me go back and cycle back
+15:05 through.
+15:07 And then click this and I'm going to
+15:08 draw.
+15:10 All right. So it's picking it up there
+15:11 cuz my reach is set to 48. So if I went
+15:13 really far below,
+15:16 yeah, it's still picking that up cuz
+15:17 it's still
+15:20 And so if I just change this back to 8
+15:22 in then it's
+15:31 Yeah, now it's not picking it up. So,
+15:33 that reach setting still does affect
+15:35 things in 3D in terms of what you're
+15:38 reaching.
+15:40 And then you were talking about
+15:41 accurately picking up and and snapping
+15:44 to something. So, this is a little touch
+15:46 and go.
+15:46 A snap point that's Yeah, snap point
+15:49 that's not part of your dimension
+15:50 stream. So, we're
+15:53 even though it looks like we're in model
+15:55 space, snap points are in sheet space
+15:59 right now.
+16:01 Um
+16:01 I don't have I've never tried to define
+16:04 that on air or in a document, so I can
+16:07 try right now. So, model space would be
+16:09 considered that you know, we're um
+16:12 essentially in a 3D view. We've got an
+16:14 XYZ coordinate so that if I were to draw
+16:17 um say a cabinet, I can I can draw this
+16:20 cabinet and manipulate it in all the
+16:23 accesses, right? But anything that um
+16:27 is a polyline
+16:30 based object not anything some things
+16:32 that are polyline based objects are
+16:33 still um
+16:35 being are are still in sheet space in
+16:38 this view, which means that we're not
+16:40 getting true XYZ. So, that even though
+16:44 um it may look like this corner, I can
+16:46 click on this corner and accurately
+16:48 place something on this corner. In fact,
+16:51 all I'm doing is picking up an XY
+16:53 coordinate and the Z coordinate could be
+16:55 anything. Um
+16:57 it could be something way off in the
+16:58 distance. So, for
+17:01 um and just to give you an example this
+17:03 let me uh let me switch my
+17:06 my stuff so I can get to a
+17:08 a solid here. I'll draw a solid out.
+17:12 All right? And if I wanted to and I'm
+17:15 really trying to snap to this corner.
+17:20 Well, I'm not sure that that's actually
+17:22 going to pick up every time, especially
+17:23 if we start doing something like
+17:26 adding
+17:27 a molding polyline. We don't know that
+17:29 we're actually snapping to something.
+17:32 Cuz it just looks like I'm dragging this
+17:35 to the point where hey, maybe it's
+17:36 picking up this this part of the
+17:37 building, but look, it's not actually on
+17:39 the corner of the building.
+17:41 Yeah. Example, another example would be
+17:44 working with roofs.
+17:45 Working with roofs in 3D, you might get
+17:47 it, you might not. Right. Or molding
+17:49 polylines. That's when you can't,
+17:52 especially like if you separate the
+17:54 molding from your cabinets and you try
+17:55 to do it in 3D, sometimes it gets
+17:58 it gets off in a weird angle. Yeah, and
+18:00 and actually I reported this the other
+18:02 day, but they um grayed out molding
+18:04 lines in 3D. Um
+18:07 so,
+18:08 if you didn't uh if you were missing
+18:09 that, go report it. Hopefully that'll
+18:11 get fixed in the next update.
+18:14 Cool.
+18:16 So, in terms of snapping this dimension
+18:18 line, um the best success I have is when
+18:22 you decide you want to add, you know,
+18:25 um a dimension extension here and pick
+18:26 up something new, which is this edit
+18:28 handle right here,
+18:30 I just say that rotate your view so that
+18:31 you're a aligned with the
+18:34 the thing that you want to snap to, and
+18:36 that's hopefully going to help you out a
+18:37 little bit. So, I think that I'm
+18:39 snapping to the surface right now. And
+18:41 then
+18:43 and I'll just do a quick example.
+18:45 Right? So, it does look like I'm
+18:46 snapping to the surface, but maybe I
+18:47 want to snap to the main layer. Well,
+18:49 how do we do that? And so, that's that's
+18:51 the trick is like I'm not sure that we
+18:53 can do that without getting up into the
+18:55 building envelope and actually snapping
+18:57 to that main surface.
+18:59 So, what you're saying is your
+19:01 dimensions may be accurate. Maybe
+19:07 If the points are part of your dimension
+19:10 type
+19:11 that you have selected, like, you know,
+19:13 edge of window
+19:15 or surfaces stuff like that, they should
+19:17 be accurate.
+19:19 If you're trying to move it to a custom
+19:21 point, then it might be accurate.
+19:23 That makes sense. That makes sense. But
+19:25 ideally, these kind of detailed
+19:27 dimensions should really be happening in
+19:29 your plan view or an elevation view, not
+19:31 so much in 3D. It's more
+19:34 Well, you can't manipulate this
+19:35 dimension in a plan view, unfortunately.
+19:38 Um not that I know of anyways. So,
+19:41 you have to kind of um come into this
+19:43 view instead. And so, maybe you use the
+19:45 cross-section slider to kind of help
+19:47 with your accuracy so that if I were to
+19:49 take this dimension, pull it back again,
+19:52 pick up an extension, and try to pick up
+19:56 that wall.
+19:59 Got it.
+20:00 There we go.
+20:01 looks That's pretty good. Right. So,
+20:03 that's pretty good.
+20:04 Um the other thing to note is that we
+20:07 have an active dimension default
+20:09 control,
+20:10 and which I love having in my toolbars
+20:13 because I switch my defaults all the
+20:14 time. So, that's what this is right here
+20:16 is I've got a drop-down of the different
+20:18 dimensions I could be using at any time,
+20:20 right? My different defaults I've
+20:22 created.
+20:23 So, that's a fantastic tool for
+20:25 on-the-fly switching what I want to
+20:27 dimension to. So, if I want to switch to
+20:29 some kind of NKBA thing where I've got a
+20:31 bunch of cabinets in here and I want to
+20:33 dimension to them with that standard, I
+20:35 get to just switch this down to my NKBA,
+20:39 and then I can very easily use one of my
+20:41 dimension tools to dimension this the
+20:43 way I want to, and it's going to send it
+20:44 to the correct layer and everything the
+20:46 way I want it to.
+20:48 So, we don't have that in this view. We
+20:51 don't have that drop-down control. So,
+20:52 you do have to go in and edit the active
+20:54 view back to that selected defaults and
+20:57 change it here.
+20:59 Another option
+21:01 is you could use default sets to do that
+21:04 automatically. So, you could set up a
+21:06 default set previously called annotation
+21:09 sets and now I could drop this down to
+21:12 3D kitchen cabs and that's in that
+21:15 default set. I have a dimension default
+21:17 I've set up for this view.
+21:19 So that very quickly switches me to that
+21:21 NKBA dimension default on the fly.
+21:26 You got to answer you got any thoughts
+21:28 for Ethan here?
+21:29 So I love the look of 3D dimensions but
+21:31 in practice I have yet to find a use for
+21:33 them.
+21:34 I can answer this because I asked the
+21:35 question the other day and it's really
+21:37 more for interior space is where
+21:41 I think it would be helpful like when
+21:43 you're trying to explain how an interior
+21:46 space is going to work and give your
+21:47 clients more of an idea of how that
+21:49 space is going to live. It's easier for
+21:52 people your clients to be able to see
+21:55 things in 3D for that than for them to
+21:57 see them in 2D and I think that's how I
+21:59 would use them.
+22:04 Yeah, why not?
+22:05 Well, this is an old template so it's
+22:07 got some funny settings but
+22:09 maybe that's helpful maybe not. Um I
+22:11 think
+22:12 to get up closer to the cabinets of
+22:13 course but Yeah, I think um
+22:17 right now you could you know do a what
+22:20 is it? Alt C and CAD detail from view.
+22:25 Well, that's interesting.
+22:28 How come I can't do a CAD detail from
+22:29 view from a 3D view?
+22:32 If you can't
+22:33 you'd have to change it to a line
+22:35 drawing.
+22:36 Change your
+22:38 Change it to a vector view?
+22:41 Vector view or change it to a line
+22:43 drawing. So I mean you could do some
+22:45 orthographic details this way. I just
+22:47 don't I don't I don't like doing it to
+22:49 Well, that's an interesting thing. Let's
+22:51 go all window fill view.
+22:55 Well,
+22:56 boy that that that that's something to
+22:59 report, huh?
+23:00 What did you do? Hey, we have to also
+23:02 answer Doug's question. Ethan, I would I
+23:05 would as an interior designer would use
+23:07 it to be able to show clients
+23:08 space, not necessarily the cabinets, but
+23:11 walking areas. That's how I would use
+23:13 it. I think that would that might be
+23:15 helpful or for a client to be able to
+23:16 see
+23:17 um yeah, essentially how much to see be
+23:20 able to see the space. To me, I think
+23:21 it's more of a client-driven
+23:23 tool. Yeah.
+23:25 I I think in the future, I'm just
+23:28 guessing that we're going to get 3D
+23:30 annotations, and then you could do
+23:33 orthographic details, and that would be
+23:35 my use case for it, cuz I would I would
+23:37 do some orthographic details.
+23:40 And I I just think that so many clients
+23:42 say they know what a floor plan is and
+23:45 how a floor plan works, but in reality,
+23:48 I don't think most of them
+23:50 see things the same way. Um I'm always
+23:53 shocked when people tell me after
+23:55 something is built, "Wow, I had no idea
+23:57 how much space I was going to have
+23:58 here."
+23:59 You know, it's like, "Well, it's been on
+24:01 the plans for, I don't know, 6 months."
+24:03 Um but they still don't see it. So, I
+24:06 think that's where it's We do need to go
+24:07 back to Doug's question, cuz I think
+24:09 there's a video on that question. So,
+24:10 here's here's Doug's question. Can you
+24:12 explain the walls and wall layers?
+24:15 So, they're
+24:18 wall interior walls, exterior, when
+24:20 setting up is the correct method or for
+24:22 nomenclature,
+24:24 the layer placement, new, existing, etc.
+24:27 Okay.
+24:27 these questions. These are fabulous.
+24:29 Thank you, guys.
+24:31 Um I also wanted to just note for Ethan,
+24:34 sometimes it's nice to do a graphical
+24:36 overview of your plan like this,
+24:38 especially with the new
+24:39 uh poche fill
+24:41 feature, and so the 3D dimensions can
+24:43 actually show up on this view as well.
+24:46 Um
+24:47 so, that might be something to consider
+24:50 where you're doing a full floor plan
+24:51 with cuz this is a 3D view. So, you're
+24:54 doing a full floor plan with furnishings
+24:56 and everything, and then you can
+24:57 actually dimension it as well in that
+24:59 view.
+25:00 Oh, that's cool.
+25:02 That's a great idea.
+25:05 Okay, so the question is, can you throw
+25:07 that on the screen again, John?
+25:09 Yep.
+25:11 Walls and wall layers.
+25:13 There's walls interior, walls exterior.
+25:16 Well, so walls interior and walls
+25:18 exterior, Doug has my template. Um,
+25:20 that's specific to my template, and
+25:23 that's not out of the box. Um,
+25:25 I have it set so my interior wall goes
+25:28 to an interior wall layer, and my
+25:30 exterior wall goes to an exterior wall
+25:32 layer. And then I even have it set so
+25:35 that it goes to new versus existing.
+25:38 And I have a different wall type for
+25:39 new, different wall type for existing,
+25:42 right? Um,
+25:43 and that's really so
+25:45 it's easy then if I draw in some
+25:48 interior walls, and suddenly I need to
+25:50 make a change to all exterior walls in a
+25:52 got a really complex plan, there's a
+25:55 couple ways you can select all your
+25:56 exterior walls, but if you're
+25:59 automatically sending your walls to
+26:01 different layers, interior versus
+26:03 exterior, it's super easy to come in and
+26:05 say, "Hey, let's hide this layer, and
+26:08 now I can just easily select all my
+26:10 exterior walls to make some kind of a
+26:11 change."
+26:13 That's one benefit of it. Another
+26:15 benefit of it, and I'll just draw with
+26:16 what I call a new exterior wall type, is
+26:19 that I can isolate exterior from
+26:22 interior and drive that from the layers
+26:25 that those walls live on.
+26:28 So,
+26:29 um, that's one thing, and then if he's
+26:31 talking about layer assemblies, and this
+26:33 gets really complicated to teach, so I'm
+26:36 opening up a wall, I'm getting into the
+26:38 wall types panel, and I'm going to
+26:41 define my wall type here.
+26:43 There's a couple different ways you can
+26:44 get to this. I'm defining the wall type
+26:46 I'm already on. You can obviously go
+26:48 into the walls within edit default
+26:52 settings.
+26:53 So, we've got exterior layers, main
+26:56 layer, interior layers.
+26:58 Now, these are just names that Chief are
+27:00 giving our assembly stack, right? But,
+27:04 the thought here is that an interior
+27:05 layer would be on the interior side of a
+27:08 house. That changes a little bit once we
+27:10 are drawing an interior wall. But, um
+27:14 what's difficult about explaining this
+27:16 is we're calling this wall layers. A
+27:19 wall layer is on a layer within a wall
+27:21 as a wall type.
+27:23 And then, within that wall type are wall
+27:26 layers. And then, you've got exterior
+27:27 layers, main layers, interior layers.
+27:30 And then, you've got display layers.
+27:33 Everything is called layer. So, it's
+27:34 really difficult to teach this. We've
+27:36 bugged Chief about changing some of that
+27:38 in the future.
+27:38 display layer is new in X16, right? Yep.
+27:42 New in X16. And I have some of mine set
+27:46 by default to go to different display
+27:48 layers.
+27:49 Um
+27:51 the reason I'm doing that is for um a
+27:54 future release where I'm expecting that
+27:56 we get fill styles by layer.
+27:59 But, other than that, I don't have a
+28:01 reason to utilize this. I know um some
+28:03 of the users
+28:05 do utilize this. I know Ethan Ashby
+28:07 utilizes this.
+28:08 What's nice about sending something to a
+28:11 different display layer is you can turn
+28:14 off, say, in this case, I could turn off
+28:16 my vinyl siding. I could turn off my
+28:18 house wrap and just leave my OSB
+28:20 sheathing in case I wanted to show very
+28:23 specifically that I got a braced wall
+28:25 plan or something like that. So,
+28:27 I'll give you an example of this. I'm
+28:29 going to send this
+28:31 OSB
+28:33 to a new layer, right? We're just going
+28:35 to call it blank one.
+28:38 And then, I'm going to send
+28:40 every layer, you know, on top of that in
+28:43 the exterior stack to new layer as well.
+28:45 So, we'll just go blank
+28:47 And then this last one
+28:51 blank three. And right now I have it so
+28:54 that my layers, their fill styles are
+28:57 derived from the color of the layer that
+29:00 they reside on. So notice that in the
+29:02 preview all of those turned black
+29:04 because by default when you make a new
+29:07 layer, they are set to black. All right?
+29:10 So when I press okay
+29:13 and we're going to see I've got that
+29:14 black exterior layer. If I wanted to
+29:16 show um a sheathing plan, then I want to
+29:20 turn off that lap siding and that um
+29:24 and anything else. So I'm going to turn
+29:25 off that level two and level one.
+29:28 Right? And so that's just going to leave
+29:29 me with just sheathing. If I turned off
+29:31 my line weights, we're going to very
+29:32 clearly see this.
+29:34 So it's a way of showing a sheathing
+29:35 plan in this case. I'll show you even,
+29:38 you know, more than that is let's just
+29:39 say my sheathing is only required to go
+29:41 4 ft, right? So I make a break in the
+29:44 wall and I set this distance to be
+29:47 48 in. There we go. There we go. And now
+29:50 all I need to do is change this wall
+29:52 type to something that, you know, is set
+29:54 up differently. So maybe it's make that
+29:57 copy.
+29:59 Renee, you just broke Doug.
+30:02 I just broke Doug?
+30:06 So I mean if I if I then sent these
+30:09 layers specifically to new layer styles
+30:12 and turn them off, then it'd be very
+30:13 clear that I'm showing just bracing on
+30:15 this 4-ft section and nothing else,
+30:18 right? So that'd be one implementation
+30:20 of that.
+30:21 Um
+30:22 And this is already set up in your
+30:24 template.
+30:25 Um well, I'm just I just did this as an
+30:28 example. So no, this isn't set up in
+30:30 particular. I have new versus existing
+30:32 and and um exterior versus interior wall
+30:34 types. That's Got it. That's all that I
+30:36 have.
+30:37 And then on the um
+30:39 in terms of what's an interior layer
+30:41 versus an exterior layer or
+30:44 um
+30:46 on the interior walls is right now, if I
+30:49 go to default settings
+30:52 and get into walls, general wall, and we
+30:55 open up this dialog box,
+30:57 it's going to show us that by default
+30:59 this is set to main layer outside.
+31:02 I do a lot of remodels, so I have this
+31:04 set to inner surface, which means that
+31:07 my temporary dimensions resize based on
+31:09 that. Rene, you have the resize about
+31:12 set to that. We need to make that clear.
+31:15 Yes, resize about
+31:16 Resize about what you're talking about.
+31:17 Yeah.
+31:18 So,
+31:19 to understand this
+31:21 further, let's say that we had a
+31:23 um
+31:24 a 2 by 6
+31:27 exterior wall assembly,
+31:29 right?
+31:30 2 by 6 exterior wall assembly, and then
+31:32 this suddenly needs to change to 2 by 8.
+31:36 Here's what I know. I know that the
+31:37 interior dimensions were accurate in my
+31:40 plan.
+31:41 If I have this set to resize about inner
+31:44 surface, that means we are essentially
+31:46 locking the inner surface where it is.
+31:48 And so, if I changed the size of this
+31:50 wall, which you could do just from the
+31:52 general panel,
+31:54 I could change the size of this wall by
+31:55 adding 4 in to it, which adds 4 in to
+31:57 the main layer of that wall.
+32:00 You're going to see it kept that
+32:02 interior surface side. It resized about
+32:04 that interior surface side.
+32:08 Something to know about
+32:10 the um interior versus exterior in walls
+32:15 is that I'm going to put a door here.
+32:18 I'm even going to offset this label
+32:20 for this door.
+32:23 I know because my
+32:25 general wall defaults are set to inner
+32:26 surface that this side is considered the
+32:30 interior side of this wall, all right?
+32:34 If for some reason I wanted to flip
+32:35 this, and let's say I wanted this label
+32:37 on the other side, I could in my edit
+32:40 toolbar reverse the layers.
+32:42 And it's going to flip.
+32:44 Now the interior side is on the other
+32:45 side. Notice that the door didn't flip.
+32:48 But notice that the label did.
+32:50 If we open this up
+32:52 and show
+32:53 an expanded dialog box where we see this
+32:56 in 3D, it shows you this is the exterior
+32:59 side. You rotate this about, that's the
+33:02 interior side.
+33:04 And something that I like to help me out
+33:06 is I like when it shows me start and end
+33:08 indicators right here. And that's in
+33:10 your preferences.
+33:13 Renee, where was the resize about?
+33:16 Where was that? That's in default
+33:18 settings, wall, general wall.
+33:22 Doesn't that also affect how the walls
+33:24 line up when you're using the align
+33:27 above and below?
+33:30 Uh no, should not.
+33:36 All right. How far along are we? We're
+33:38 We're halfway through and we are still
+33:41 on the first item which we covered last
+33:43 show.
+33:46 Uh let's see. Okay, we we opened this up
+33:48 to questions. And that's what we're
+33:50 doing.
+33:51 So we're, you know, it's all good. Next
+33:54 week we're going to cover X16 um 3D
+33:57 rendering. So just come back. We've been
+33:59 bugged a lot for that one. So um
+34:02 before people are
+34:03 have to take just a quick break to talk
+34:05 about, since we're halfway through, to
+34:06 talk about the summit. So I know most of
+34:09 the people that are here are really more
+34:11 advanced, but we really want to stress
+34:13 that if you know people who are really
+34:15 learning Chief and just at the
+34:16 beginning, this is not just for advanced
+34:19 people. This is definitely the summit is
+34:22 broken is broken down for interme-
+34:25 beginner, intermediate and advanced
+34:27 people. So don't feel like um you can't
+34:30 recommend it to somebody. So
+34:32 it's really great and there's so many
+34:34 opportunities for one-on-one support. If
+34:37 you're having really need to learn how
+34:39 to do one special thing, we can break
+34:41 that out and work with you one-on-one.
+34:43 So, just realize that you can if you've
+34:46 been
+34:47 to it, if you came last time, I know
+34:49 that Ethan came. Bruce, you came the
+34:51 first year, right? Um
+34:54 make sure that you know, if you let
+34:55 people know about this, if they ask
+34:56 about it, it's not just for advanced
+34:58 people. It's for beginners,
+35:00 intermediate, and advanced.
+35:02 We've had people who just bought the
+35:04 program the week before.
+35:06 Absolutely.
+35:06 And they did it they did really well.
+35:09 Yeah, and people who are not just
+35:11 builders. I know most of you guys that
+35:13 came were builders and architects, but
+35:15 interior designers, too. So, don't you
+35:18 know, it's open to the whole thing. We
+35:20 work with all of you. We do not
+35:22 discriminate.
+35:24 I think we do a pretty good job at
+35:26 juggling it all, too. So, um Yeah, we
+35:29 do. Yeah. I have yet to hear anyone say
+35:32 that they didn't feel like they
+35:34 you know, got specific um training for
+35:37 what they needed.
+35:38 Absolutely. And you can move around. But
+35:40 hey, if you didn't, let us know.
+35:43 Yeah. Absolutely. Absolutely.
+35:46 So, there's still openings if people are
+35:48 interested.
+35:50 And there's still All right, a few left.
+35:52 Cool.
+35:53 Yeah, there are still a few left.
+35:54 Uh let's see. Cross section slider for
+35:57 any view is next up. Or dimension leader
+36:00 lines, sort of automatic leader lines
+36:02 for dimensions when there is
+36:07 I'm not sure what automatic Oh, I know
+36:08 what automatic leader lines are. That's
+36:10 this guy right here.
+36:11 Yeah.
+36:13 Oh, man, that's one of my favorites.
+36:15 That really made a big difference.
+36:17 Um
+36:18 for a big kitchen. Does it automatically
+36:20 put the curve in it or does it
+36:22 make it straight?
+36:23 Uh mine is set up to do that. So, if we
+36:25 open this up
+36:27 Let's open this up and let's just define
+36:29 our dimension style. Or, you know, you
+36:30 can always just double-click one of your
+36:32 dimension tools on your toolbar.
+36:35 And then
+36:36 um
+36:38 Let's see, that is in the general panel,
+36:43 and I have mine set to curve line as
+36:45 opposed to straight line.
+36:47 Nice. But, you also can do the square.
+36:49 You can also do an L-shaped. Yep. Mhm.
+36:52 Right. Yeah. Yeah. And that's under line
+36:55 style or what is that under? I can't I
+36:58 couldn't see it. I apologize. Can you
+36:59 It's under the general panel in your
+37:01 dimension default, and then it's in the
+37:03 leader line section on that panel.
+37:06 Perfect.
+37:07 And I like the curve line because I, you
+37:11 know, I've got so many straight lines
+37:12 going on in the plan. Um, I generally
+37:14 have curve lines for any kind of
+37:16 annotations and I know it helps me see
+37:18 it, so.
+37:20 Um, but
+37:21 Got a quick question here we we should
+37:22 probably tackle so I don't forget.
+37:24 What's the fastest way to get the side
+37:25 views of an object for a CAD detail
+37:28 such as a truss hanger from Simpson?
+37:31 Okay. Um, Simpson has a number of 3D
+37:35 objects, and so that would be your best
+37:37 bet is finding a a 3D hanger, so
+37:40 Um, let's see if we can actually find
+37:43 hanger. So, I'm going to type in hanger
+37:46 first, and then I'm going to highlight
+37:48 this and type in Simpson
+37:51 and drop down to
+37:53 manufacturer. So, this is limiting my
+37:55 search to just the Simpson Strong-Tie
+37:58 manufacturer. And here we go, we've got
+38:00 some hangers. I need to download that
+38:02 catalog, so I right-clicked and clicked
+38:04 on download, and that's a big old
+38:05 download. Dang.
+38:08 It's a huge catalog, 500 meg.
+38:11 Um, and then once I have that
+38:14 downloaded, I should be able to place it
+38:16 and pull a section view. And then, yeah,
+38:19 you could do a CAD detail from that
+38:20 section view.
+38:22 Nice. Hey, cool. This is showing us
+38:26 another one of our members here. Look at
+38:27 that, he's got a little tag on it.
+38:30 Thank you for signing up for membership.
+38:32 This is That's a membership for my
+38:34 YouTube channel, and I drop in a bunch
+38:36 of exclusive content there. Thank you.
+38:39 Uh all right. So, I've got this item,
+38:42 and let me see if I can place it.
+38:47 Hanger.
+38:52 Place it anywhere, and I'm just going to
+38:53 pull on this case, let's just pull a
+38:55 back clip cross-section so we can just
+38:57 see this very clearly.
+39:03 So, there's our hanger, right?
+39:05 Um something to keep in mind when you
+39:07 are pulling a CAD detail for this, so
+39:09 let's just do our
+39:11 CAD detail from view
+39:14 is that this is no longer going to be a
+39:17 closed polyline, right? It's going to be
+39:19 very segmented, meaning if I drag this
+39:21 out, look at that, that's just a line
+39:23 segment.
+39:25 So, if you want to try to get this to be
+39:27 Well, you could block it.
+39:29 Um keep in mind when you block this, you
+39:31 want to make sure that this is on a um
+39:34 Try to keep that on some kind of a
+39:35 default layer, cuz if you put it on a
+39:37 custom layer, and you put a block within
+39:40 another block within another block,
+39:42 it gets a little bit messy if you've got
+39:44 custom layers going on, so.
+39:46 Um I'm going to select this, and what I
+39:48 like to do is I use use the extend tool
+39:50 in our edit toolbar. So, extend objects,
+39:53 and then just draw a line or two. I
+39:56 might even do this a couple times. And
+39:58 that just makes it so any um
+40:00 disconnected CAD segments that share
+40:02 have shared end points might just
+40:04 connect.
+40:06 Um
+40:07 so, you can see here it was still broken
+40:09 at some point here. There's actual
+40:11 break in this.
+40:13 Um so, it's not perfect. You might have
+40:14 to do a little bit of cleaning up, but
+40:16 so, it might take a minute to get this
+40:17 to be one solid polyline based object.
+40:21 All right, Renee, you need to do that
+40:22 one more time because that was a cool
+40:24 trick. Right over here.
+40:27 So, I selected the whole item and then I
+40:30 wanted to use
+40:32 the Now, it's not blocked together right
+40:34 now, right? It's not blocked together,
+40:36 so I'm going to use Okay. extend objects
+40:39 and draw a couple of lines through. So,
+40:41 what this does, let me just give a
+40:42 better example of what extend does. Got
+40:44 a line here and I've got a series of
+40:46 lines here. I want all of these lines to
+40:50 have a shared endpoint that terminates
+40:52 at this line, all right? So, this line
+40:55 right here, I want all of these to
+40:57 extend to that line. So, I'm going to
+40:59 click on the line that I want to use as
+41:02 what we would call a fence,
+41:04 use that extend objects tool, that's
+41:07 this guy right here,
+41:09 and then I get to draw a line through
+41:12 anything that I want to extend.
+41:15 And notice it shows us a preview,
+41:18 right? So, there we go. We extended all
+41:20 those lines to that object.
+41:22 Take this and
+41:23 there and put another line down below it
+41:25 and select both lines, is that what's
+41:25 happening when you're doing the
+41:26 It's just
+41:27 finding each other, basically.
+41:30 Say
+41:31 It's just
+41:32 finding each other, basically.
+41:35 Say it again.
+41:36 So, if you drew another line down there,
+41:38 make make it so those lines are short
+41:40 again. So, hit undo once.
+41:43 Oh, well, here. We'll just do this. I'm
+41:44 going to draw I'm going to right click
+41:47 draw with my line tool, which gives me a
+41:49 continuous draw mode.
+41:51 And if I want to stop continuous draw,
+41:53 right and left click together.
+41:55 I'm going to take this and this time I'm
+41:57 going to use the trim objects tool and
+42:00 I'm going to draw a line through what I
+42:02 want to trim.
+42:04 Notice that we're highlighting those
+42:05 lines as I'm drawing through them.
+42:09 There we go. Trimmed to that object. And
+42:12 that object remains selected, so I could
+42:14 delete it.
+42:16 Right. So, now select the top and bottom
+42:18 line, the horizontal lines.
+42:20 And can you extend to both those lines
+42:22 at the same time?
+42:24 Um
+42:25 Oh. That's a good question. Yes, you
+42:27 can. You can.
+42:29 Wow. Although that first one is not Oh,
+42:31 because my line short, maybe? I don't
+42:33 know. I don't know why that first one
+42:34 didn't do it. It's interesting.
+42:37 But that's that's kind of what's
+42:38 happening when you select the whole
+42:39 thing
+42:40 and you draw the lines through it, it's
+42:43 it's doing it. It That's what it's
+42:45 doing. It's finding more than one thing
+42:48 and drawing to it.
+42:50 Yeah. And I mean, these tools exist in
+42:53 um many different sections. So, like if
+42:55 we had a line here and I chose that line
+42:58 and I wanted to extend object.
+43:01 Um let's see. Does that work on roof
+43:02 lines?
+43:04 No.
+43:05 I think it works if you have an existing
+43:07 roof selected. It might not be working
+43:09 because you
+43:11 um don't That point is not going to come
+43:13 together.
+43:14 It's going to go It's going to go past
+43:16 it so before you get to the line. Yeah.
+43:19 With what you were doing there. You can
+43:20 use a roof to trim something. So, there
+43:22 you go.
+43:24 Okay.
+43:25 Number of different ways to do that. Um
+43:28 utilize that. So, that's all I was doing
+43:30 here was I was
+43:31 selecting everything here and using the
+43:34 extend and drawing through that and
+43:36 using extend again and hopefully
+43:38 catching
+43:40 anything that had a shared end point and
+43:42 turning it into one object.
+43:44 So,
+43:45 it definitely has some breaks up here
+43:47 where this is considered a polyline up
+43:49 here.
+43:50 By the way, if you're ever trying to get
+43:51 into some detail work here and and
+43:54 you've got something like this going on
+43:55 where temporary dimensions are just
+43:57 overpowering your view, you could either
+43:59 turn off temporary dimensions or you
+44:02 could make a custom
+44:05 uh dimension default where it's I have
+44:07 one called macro zoom. Now when I click
+44:10 on something, this dimension should be a
+44:11 lot smaller.
+44:16 All right, we got some other questions.
+44:19 Uh nothing yet. They've just been
+44:21 talking about how you're frying
+44:22 everybody's brains.
+44:26 Okay.
+44:27 Sorry.
+44:28 You really broke Doug.
+44:32 That's funny.
+44:33 Oh, why don't we talk a little bit about
+44:35 your
+44:36 your smaller template that you have for
+44:37 sale? We were talking about that a
+44:39 little bit before the show.
+44:40 Oh, sure.
+44:42 Um
+44:42 You know, I have the my really expensive
+44:45 template that I use.
+44:47 Um Hang on one second. Mike wants to
+44:49 know did they fix the rich text zoom
+44:51 issue? And then talk about that.
+44:54 I don't know what the rich text zoom
+44:56 issue is. Let's draw some rich text.
+45:00 Uh sure.
+45:07 Can you explain it more, Mike?
+45:10 What's
+45:11 I don't know what he's
+45:13 talking about either. Did that was there
+45:14 an issue with resizing the
+45:16 the text
+45:18 on the fly?
+45:21 But you know, I'm using the I'm using
+45:22 the
+45:23 you. Um so
+45:24 if I shift select this text and then
+45:28 drag that out. No, that works. If I
+45:31 right click this text,
+45:34 that works.
+45:37 Give us a little more info, Mike.
+45:40 Yeah, I'm not sure either. Oh, it's a
+45:42 ray trace.
+45:45 Zoom change
+45:46 from 100% to 200%.
+45:48 To see better on 4K model monitors.
+45:51 Wow. In ray trace, change zoom.
+45:54 So
+45:55 so the text size wasn't changing
+45:57 He's saying ray trace. No, no, he's
+45:59 saying ray trace, not rich text. No,
+46:01 it's the
+46:03 The rich text
+46:05 Yeah.
+46:05 wasn't changing the size when you change
+46:07 your monitor resolution by just zooming
+46:11 it instead of changing the resolution.
+46:14 Oh, gotcha. Okay.
+46:15 think it's a would be a Windows thing as
+46:16 much as it would be a
+46:17 make me do a DPI change right now? Oh,
+46:19 man.
+46:21 It's the size of my computer.
+46:24 Let's see. That's why on a Windows
+46:26 machine, if I change my scale, which is
+46:29 since here
+46:31 DPI of all text-based objects.
+46:34 And now I come back into
+46:37 You're going in the wrong direction. No,
+46:38 you are. And Mike, I think isn't Mike
+46:40 aren't you using a Mac?
+46:42 I think Mike's on a Mac.
+46:44 In the ray trace box.
+46:50 And change the written Oh, change the
+46:52 zoom level, which I've never done. Okay.
+46:56 I don't I've never done that either.
+46:58 No, I've never done that either.
+47:00 Look in the menu.
+47:03 Under
+47:04 Open the rich text box and look at the
+47:06 menu.
+47:07 just did it. That changed the zoom
+47:08 level.
+47:09 Yeah.
+47:10 Seems to be working.
+47:13 Boy, there's so many levels to this dang
+47:15 program that I don't ever touch. It's
+47:17 just reviewing
+47:19 larger in the box. Yeah, no kidding.
+47:21 What I love is how everybody uses the
+47:22 program totally different. Yep.
+47:25 No two people use the program the same.
+47:27 He said it's broken on the Mac.
+47:30 Uh, gotcha.
+47:31 Okay, and no Mac jokes. No Mac jokes. I
+47:34 didn't say anything. I know, but you're
+47:36 all thinking it. I was actually talking
+47:38 to Kevin the other day. He's gotten me
+47:40 considering getting a Mac.
+47:41 I would love a Mac. Not for every Not
+47:44 for everything, but for when I'm on the
+47:46 road having a lighter lighter uh
+47:49 laptop than what I have now. Yeah.
+47:52 Anyway.
+47:56 Okay, go go to your tools when you have
+47:59 a chance. So
+48:00 don't listen to Kevin.
+48:05 That's key number one, right?
+48:07 Uh let's see. This is my essential
+48:09 template
+48:10 which
+48:12 um looks a lot like my Pro Plan template
+48:14 and it has a lot of the features that is
+48:17 in the Pro Plan, but it's stripped down
+48:19 and and a little bit more bare. So,
+48:21 doesn't come with my toolbars
+48:23 and it does not have um my detail system
+48:27 and it doesn't have some of the
+48:28 specialized schedules that I include and
+48:30 it doesn't include library items. But,
+48:33 it still is just an out-of-the-box
+48:35 template that works really well.
+48:37 So, we draw four walls. We've got
+48:39 automatic dimension defaults going on.
+48:42 We've got um
+48:43 we still have some automatic labeling
+48:45 conventions that stack labels and when
+48:48 you switch to different views, reformat
+48:50 for you.
+48:52 Um I've still got my dynamic
+48:56 room label system
+48:58 um which will hide plate heights in
+49:01 certain views versus showing plate
+49:03 heights in certain print views,
+49:05 including showing, you know, whether or
+49:07 not something's a vaulted ceiling or
+49:08 not, etc. So, it's got some special
+49:11 features in here. It has my
+49:13 um really complex cabinet labeling
+49:16 system
+49:18 in the essential plan. So, it knows when
+49:19 something's
+49:21 um
+49:21 a sub-standard size, it'll throw the
+49:23 depth in there. It knows when
+49:25 something's a three-drawer box,
+49:26 two-drawer box, garbage pullout, etc.
+49:29 So, But, it does not include your your
+49:32 kitchen tools. Doesn't include the
+49:34 kitchen tools and it um
+49:36 and it doesn't include library items,
+49:38 nothing like that. But, out of the box,
+49:41 this is a really simple template to draw
+49:43 in and it's very affordable. So,
+49:45 And is it available in metric? But,
+49:47 that's just something you would change
+49:49 on your system, right? No, it's not
+49:51 available in metric and I'm I'm working
+49:53 on that um Norman, but I'm having an
+49:55 issue um
+49:57 metric versus Imperial has some weird
+50:00 little funny things happening in next 16
+50:03 when you try to transfer stuff over. And
+50:05 I can't quite figure out what it is. Um
+50:08 that and um transferring default
+50:11 settings does not transfer all default
+50:14 settings. So I still have to go through
+50:15 one by one and and match default
+50:18 settings. So it's pretty complex to do
+50:20 um to build a metric template. I wish
+50:22 they just gave us better tools for um
+50:24 transferring that stuff over.
+50:27 What's weird is you can set an Imperial
+50:29 right now in X16 which I you couldn't do
+50:32 this before. You could set an Imperial
+50:34 template as your default metric
+50:35 template. So that's what's really
+50:37 strange. And I haven't discovered if
+50:39 that's saving me time or just causing me
+50:41 issues.
+50:45 Um
+50:48 one of the things that we talked about
+50:49 before the show Renee was the fact that
+50:51 I can use my I can use my toolbars and
+50:53 my
+50:55 save plans, views and things like that
+50:58 with your template with your with your
+50:59 smaller template anyway.
+51:01 Right?
+51:02 Yeah, you can import.
+51:04 I don't have to use your toolbars or
+51:06 anything like that. I can use your
+51:08 toolbars.
+51:08 the toolbars. Yeah, you can import your
+51:10 own save plan views if you like.
+51:13 Yep.
+51:14 Yep.
+51:15 Yeah, I mean
+51:17 the settings are supposed to make some
+51:18 things easy. Um I've already got
+51:20 rendering settings in this plan. So when
+51:22 you pull a um
+51:23 a perspective overview, this should
+51:25 already be a pretty
+51:27 pretty good looking rendering out of the
+51:28 box.
+51:30 Nice.
+51:33 Same thing with just the interior
+51:34 cameras that should look pretty good out
+51:36 of the box. It's set up for performance.
+51:38 So I have a video on
+51:40 cuz right now it looks very muddy.
+51:42 That's on purpose so that if you've got
+51:44 um
+51:45 a lower end card that it's not just
+51:47 killing that card and and hopefully you
+51:49 could actually design in this view, but
+51:51 I do have a video out there on how to
+51:53 get you to that finalized view that you
+51:55 want where um we're changing that NV
+51:58 fidelity setting and we're changing our
+51:59 sample rate. So, we'd be changing this
+52:02 back to native resolution. Maybe you
+52:03 want to kick on some sharpening.
+52:05 And then
+52:06 um we'd be getting into our ray trace
+52:09 rendering settings and kicking up the
+52:11 sample rate
+52:13 as needed and maybe you need to kick up
+52:15 the backdrop as well. Who knows?
+52:19 But we're going to learn all about that
+52:20 and we're all going to be pros next a
+52:22 week from Saturday. Yeah, in one show
+52:25 you're going to be a pro.
+52:26 learn all about it on Friday.
+52:28 And Saturday we're going to be a pro
+52:29 that pro at. I got to say it's really
+52:32 tough to you know, everybody just wants
+52:34 the
+52:35 like the special rendering settings that
+52:37 just make every shot look great and it's
+52:40 it's tough for me to wrap my head around
+52:42 that because it's that's not how it
+52:43 works.
+52:45 So, I'm going to give you some settings
+52:46 that will look pretty good out of the
+52:47 box. I say this more often than not,
+52:50 rendering is 90% materials. So, if you
+52:53 can source good materials, really
+52:55 doesn't matter what your technique
+52:57 settings are. It's going to look good.
+52:59 Um
+53:00 and then we've got some new features
+53:02 that um
+53:03 I feel like I can say I had a heavy hand
+53:06 in helping Chief with those features um
+53:09 cuz I did a little interview. I had a
+53:11 little post. I had a little sit-down
+53:13 discussion with them.
+53:15 Um and they implemented some really cool
+53:16 stuff. Uh that team is um particularly
+53:20 fun to to to talk to as well. So, if
+53:23 you're in Idaho,
+53:24 come sit down. We're going to talk
+53:26 rendering again, I'm sure. I'm going to
+53:27 go talk to those guys again.
+53:30 So, what's the next thing on the list? I
+53:32 don't see any more questions.
+53:34 Uh we've got
+53:37 um
+53:38 cross section slider for any camera
+53:40 view. That's really nice. Before we
+53:42 couldn't get that in a orthographic
+53:44 view. So, now in an orthographic full
+53:47 overview, we have
+53:49 this guy right here, cross section
+53:51 slider, which is in your 3D menu.
+53:54 And that's in camera view options, cross
+53:57 section slider.
+53:59 And that brings up this dialogue box.
+54:02 And so, I could just cut the ceiling off
+54:03 very easily.
+54:05 And you can do multiple cuts at the same
+54:06 time.
+54:07 And then on top of that, this is where
+54:10 you might use that new feature in the
+54:12 edit the active view display poche. I've
+54:15 got it set to black here.
+54:18 And there we go. It filled those section
+54:21 cuts.
+54:22 So, that's pretty cool.
+54:23 Nice. Um I would
+54:27 One more second. I would love it if
+54:29 everybody threw this suggestion. And
+54:31 this is going to be something I'm
+54:32 lobbying for big time when we head to
+54:34 the
+54:35 um Idaho for Chief's training event is I
+54:39 want
+54:41 um layers to have fill styles associated
+54:45 with them. So, that if you have a wall
+54:48 that's exploded to different layers,
+54:51 then we could automatically have the the
+54:53 poche fill
+54:55 fill according to that fill style, which
+54:57 means I could have a grid fill style on
+54:58 this wall. I could have a solid fill
+55:00 style on my sheathing. I could have a
+55:03 concrete fill style on the concrete
+55:05 here. And that would really make a big
+55:07 difference for some kind of um 3D
+55:10 detail.
+55:14 Yeah.
+55:16 I'm not sure what's going on with this
+55:17 question here.
+55:19 Baseline drift off the outside of a
+55:20 wall. Can you give us a little more
+55:22 detail on that?
+55:24 Baseline drift.
+55:27 I don't know if he's talking about
+55:28 Baseline is a roof baseline. I don't
+55:30 know what would drift either. I've never
+55:32 had a drift. I've had it
+55:36 Yeah, move. If I move a wall and you
+55:38 don't have your auto roofs turned on,
+55:41 Right.
+55:41 to move with the wall. Yeah.
+55:44 Here we go.
+55:51 Um that's that's cuz
+55:53 he probably did something wrong. Good
+55:55 old Larry.
+55:58 Renee play
+55:58 No, that's impossible.
+56:03 Okay, and then once you manually return
+56:05 them, that messed up all your roofs.
+56:07 Right? They probably stopped lining up.
+56:09 This is why I like doing roofs in 3D, um
+56:12 especially now when they have reflect
+56:14 about a diagonal. So, if I turn off
+56:16 these roofs and go pull a view,
+56:21 it's really easy now if you want them
+56:23 make sure your baselines are locked up,
+56:26 right? And they're exactly in the right
+56:28 correct position. I could just copy
+56:31 paste this reflect about
+56:33 diagonally about this corner. And now I
+56:36 know that baseline is in the correct
+56:39 location because I reflected about an
+56:41 object where the baseline was in the
+56:43 correct location.
+56:45 Yeah.
+56:46 If if you're not if you're if you're
+56:49 only modeling a roof
+56:51 and you're not looking for other
+56:52 information off of it like height above
+56:55 plate and that kind of thing, it doesn't
+56:56 really matter if your baseline is on the
+56:58 wall or not cuz you're going to be
+57:00 manipulating that roof
+57:02 with the fascia height and the ridge
+57:04 height
+57:05 and not off the baseline height.
+57:08 So, he's getting away with it because
+57:10 he's not
+57:12 I always like to tell people that to to
+57:14 learn um the baseline polyline base um
+57:19 modeling. Let's just say I've got a
+57:21 garage here, for instance,
+57:24 a very short garage.
+57:27 And so, I'm going to turn off my auto
+57:30 auto roofs. I'm going switch view and
+57:32 just kick these off real quick.
+57:33 Actually, no. I'm going to go to build
+57:35 roof,
+57:36 and then I'm going to say, make roof
+57:38 baseline polylines, okay?
+57:42 And so, let's say instead that this
+57:44 overhang lines up. And so, you get to
+57:47 manipulate a baseline polyline with
+57:49 this. So, I can just line this up with
+57:51 the with the garage roof here, and now
+57:54 I've got one single plane going all the
+57:56 way across. I mean, that's this is a
+57:58 really simple way of of modeling a roof.
+58:03 Right? So, this is that setup.
+58:05 Let me just stack these side by side, so
+58:07 we can see them.
+58:10 So, another thing that you could do in
+58:11 your auto build roof setting
+58:14 is that we could say, um
+58:17 same height eaves,
+58:19 right? So, that if you do have
+58:21 um some kind of overhang that you're
+58:23 that you're building, but you've got
+58:24 like a a gable stack going on. So, if I
+58:27 break
+58:30 if I break this plane again, oops.
+58:33 I break this polyline,
+58:35 and extend this forward,
+58:38 you'll notice that it picks up
+58:41 because we've got same height eaves. So,
+58:43 my eaves are set at the same height, but
+58:45 now I've created, you know, a different
+58:47 gable stack, if you will, which we see a
+58:50 lot in remodels.
+58:54 Unfortunately, making the baselines
+58:57 doesn't honor um setting a wall-based
+59:01 designation for a roof. So, setting the
+59:03 wall to be a gable end, that doesn't
+59:05 actually work. I have to come back into
+59:06 the plan view, and edit the polyline.
+59:09 So, I'd select this edge of this
+59:11 polyline, open it up, say that it's a
+59:14 full gable wall in this case.
+59:21 So, in a lot of ways, that was the that
+59:22 that this was the four
+59:25 forerunner
+59:26 system of doing automatic roofs.
+59:29 And now we have it so that we can do it
+59:31 off of a wall.
+59:32 Yeah, let me all right.
+59:34 Right. And I like this method. This gets
+59:36 you um
+59:37 some auto build roofs that that end up
+59:40 getting really really close to accurate
+59:42 without a ton of work.
+59:43 I'm going to just set this to extend
+59:45 slope downward, which is going to assume
+59:47 a lower plate height, and you see there
+59:49 that now extended this forward across
+59:51 the garage.
+59:54 Nice.
+59:55 Nice.
+59:57 Rene, can we go back to that comment you
+59:59 were talking about the layers having
+1:00:00 fill style? Um
+1:00:03 if somebody was making would that work
+1:00:05 for a material region, too? Where you
+1:00:07 could save a material region as for
+1:00:09 example, I think I called you about this
+1:00:11 one time we were trying to make a rug
+1:00:13 and then have it come in with a fill
+1:00:14 style and
+1:00:16 what is that will that be able to help
+1:00:17 that as well?
+1:00:20 Uh yeah. Yeah, if we it would be
+1:00:23 anything that has a fill style. You
+1:00:25 could set it to be fill style based on
+1:00:27 layer, and then the layer is designating
+1:00:29 the fill style, right? Perfect. Okay.
+1:00:32 would mean that you need, you know, your
+1:00:33 rugs on a particular layer, and I don't
+1:00:35 like making a ton of custom layers cuz
+1:00:37 it's really hard to teach or distribute
+1:00:40 or, you know, run that through an
+1:00:41 office, etc. Right. I try to keep my
+1:00:45 custom layers down to a minute. I think
+1:00:47 I maybe have like 12 custom layers now.
+1:00:51 Yeah.
+1:00:51 I know some people
+1:00:53 Jared Bomber
+1:00:55 Beamer. How do you say his last name?
+1:00:57 Bomber?
+1:00:58 Beamer.
+1:00:59 I think so.
+1:00:59 Beamer. It's Beamer like like the car.
+1:01:02 Yeah, he's got he's got so many custom
+1:01:04 layers. Yeah, he does. Make your head
+1:01:06 spin. Yeah.
+1:01:08 So, I don't know how he he teaches his
+1:01:11 his people.
+1:01:13 I think he just does it. For everybody.
+1:01:16 He's pretty much a genius. It's pretty
+1:01:18 cool.
+1:01:20 You're welcome, Mike.
+1:01:22 Wait, what? Why is Mike frustrated?
+1:01:26 He's frustrated with the the baselines.
+1:01:30 But if you cut from it, it would be
+1:01:32 wrong. I'm not sure what that wrong.
+1:01:33 has his he has a a cut system where he
+1:01:36 can pre-cut stuff in the shop and send
+1:01:38 it out to the job.
+1:01:38 Yeah.
+1:01:40 Yeah, and and um
+1:01:42 I made a macro for him once that
+1:01:44 adjusted that to be
+1:01:46 correct, I think, but I think it was
+1:01:48 still wrong in some of the stick framing
+1:01:51 elements. Um
+1:01:53 I think Chief for some reason changes
+1:01:55 the the rafter length.
+1:01:58 Um or portal rafter length.
+1:02:02 I would just save them all as different
+1:02:04 styles. styles. Five different kitchens,
+1:02:06 can that be the same for outside wall
+1:02:08 veneers and windows so you can have five
+1:02:10 options. So, well, uh um you can do a
+1:02:14 you can do a style palette for different
+1:02:15 kitchen styles. I mean, that works
+1:02:17 pretty well.
+1:02:17 talking about walls, though. He wants to
+1:02:19 do the same thing for walls.
+1:02:21 For exterior walls.
+1:02:23 Oh, can that be the same for outside?
+1:02:26 That I would I would put
+1:02:28 I just did a video on it.
+1:02:30 Yeah, you put the exterior walls on on a
+1:02:32 their own layer
+1:02:34 and then just select them all and change
+1:02:35 the wall type and it solves their at
+1:02:37 default they'll they'll all change.
+1:02:40 Well, another way that I did it and and
+1:02:42 this is how Jared does his is you can
+1:02:45 add, you know, 1/32
+1:02:49 layers into your wall layer stack and
+1:02:52 then put those each to their own display
+1:02:54 layer and turn off the display layer to
+1:02:57 show different
+1:02:59 That's cool.
+1:02:59 Um
+1:03:01 I don't know that it's all that
+1:03:02 different from just, you know, painting
+1:03:03 with the material painter. Yeah.
+1:03:05 Yeah.
+1:03:07 Yeah, but I mean, I just did this this
+1:03:09 video.
+1:03:09 not use the material painter. I would
+1:03:11 change the wall type.
+1:03:13 Well, I would do the same like you're
+1:03:15 saying the wall types, but these are
+1:03:17 just for sales pitch, right? Yeah. It's
+1:03:20 just for sales pitch, right?
+1:03:21 quick change in look. Yeah, I mean, you
+1:03:24 could
+1:03:25 you could do that a number of different
+1:03:26 ways. I'd probably just use a material
+1:03:28 painter if I was just showing different
+1:03:29 looks real quick.
+1:03:33 Yeah, I have a There's a post on
+1:03:35 ChiefTalk where I suggest some things
+1:03:37 for X17 that I think would be really
+1:03:39 easy, and one of them was just, "Hey, do
+1:03:41 any improvement to style palettes, and I
+1:03:44 would be happy. Any Any- anything."
+1:03:47 Cuz that's such a powerful tool. It's
+1:03:48 the closest thing we have to AI where
+1:03:50 you just like, "Me
+1:03:51 We click on something and change the
+1:03:53 entire look of a house."
+1:03:54 Yeah.
+1:03:57 All right, we made it. Yeah. We made it.
+1:04:02 So, next week Next week, we're doing
+1:04:04 rendering. Renee's going to
+1:04:06 compress
+1:04:08 6 months worth of training into an hour.
+1:04:10 Yeah.
+1:04:11 Real quick.
+1:04:12 don't do stucco in Oregon, either, in
+1:04:13 Portland. On the east side of them I
+1:04:15 don't Yeah, on the east side, but on the
+1:04:17 west side, too much rain.
+1:04:18 Yeah, don't do stucco in Alaska. Yeah,
+1:04:20 we do it here in California.
+1:04:22 Yeah, you guys do. You guys are famous
+1:04:24 for that.
+1:04:25 Well, thank you to the 20 people that
+1:04:27 stuck with us. That was cool. Thank you,
+1:04:29 guys. Yeah.
+1:04:31 Everybody have a great
+1:04:32 It's Friday.
+1:04:34 Yeah, come Come back next Friday. We'll
+1:04:36 be back. Just next Friday, next week.
+1:04:39 Yeah. All right, we'll see you. Bye-bye.
+1:04:42 Take care. Bye.

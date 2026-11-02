@@ -1,0 +1,1775 @@
+Title: Inside the New NKBA Guidelines with Robin Rigby Fisher, CMKBD, CAPS, CLIPPS - Designers Show #163 📱
+URL: https://www.youtube.com/watch?v=GnziAt9CPYg
+Visibility: public
+
+0:00 Perfect.
+0:01 >> Where'd you go, Renee?
+0:04 >> Oh, we lost Renee. Hi, guys.
+0:06 >> Rene. Hi, Robin.
+0:09 >> How [laughter] are you, John? I think we
+0:11 are live. We are live. No one's here,
+0:12 but we are live. So, John is supposed I
+0:15 mean, is Rene supposed to be back in
+0:16 just a second. Um, so
+0:18 >> everybody, if if we're live today, we're
+0:21 flying blind because I don't have the
+0:22 controls. Renee has them and he
+0:24 disappeared as soon as he said live.
+0:27 >> So, I don't know. Well, Chad's here, so
+0:28 he's hanging out. Hi, Chad. How are you?
+0:31 >> I clicked the go live button and then I
+0:32 kicked myself out.
+0:34 >> That was awesome. This is like Laurel
+0:37 and Hardy show.
+0:38 >> Yeah, [laughter] that's funny. Here you
+0:39 go.
+0:41 >> Okay.
+0:41 >> Me, too.
+0:42 >> Um, [clears throat] yeah. So, you just I
+0:44 just need to share my screen, right?
+0:45 Whenever you're ready, you're gonna go
+0:47 first and do your thing.
+0:48 >> I'm not doing anything yet. No, I'll
+0:50 wait to the end.
+0:51 >> Okay. Um, so, hi. I guess um I'm just
+0:55 going to go ahead and start. Hi, Chad.
+0:56 Chad's here. So, that's he's our our
+0:58 audience, but for those of you who are
+1:00 going to log in later, I'm going to do
+1:01 the um kitchen the bathroom guidelines
+1:04 up. Excuse me. And I pulled down the
+1:06 wrong one. So, give me a second. I have
+1:08 the wrong ones on my screen. I have the
+1:10 kitchen guidelines. Oh, I'm organized. I
+1:13 really apologize you guys. Sorry. Give
+1:15 me a second.
+1:17 >> While you're doing that, if any anybody
+1:19 else is out there, go ahead and say
+1:21 hello and let us know you're here.
+1:25 I did end up putting this on the the
+1:28 users of of Facebook group user chief
+1:31 architect. But um
+1:34 >> fabulous.
+1:35 >> I need to do a little bit more than just
+1:36 having the event. I think I got to go in
+1:38 there and say, "Hey, it's
+1:39 >> a second because I can't actually find
+1:41 the guidelines." So, give me God really
+1:43 bad organization, you guys. I'm so sorry
+1:46 that I don't have it right in front of
+1:48 me.
+1:49 >> We should do a show about organization.
+1:51 >> Oh, yeah. which Robin doesn't have
+1:53 today.
+1:54 >> Yeah, [laughter]
+1:55 >> that is really weird. Hang on a sec. I'm
+1:57 still
+1:57 >> Chad says, "Well, well, there's somebody
+1:59 else." Okay,
+2:01 >> good morning.
+2:02 >> Oh, hey Nikki. Hello, Nikki.
+2:04 >> Um, I've been getting I've been getting
+2:06 hired lately to um get one drive off of
+2:11 people's machines.
+2:13 >> Good for you.
+2:14 >> Yeah, [laughter]
+2:15 >> I wish I could get rid of it. You need
+2:17 to get it off of my computer. I hate it.
+2:19 Speaking of organization,
+2:21 >> it is a pain.
+2:22 >> You guys make it easy.
+2:23 >> I apologize. I can't find the
+2:25 presentation. I literally cannot find
+2:27 it. I have failed miserably. I am so
+2:30 sorry.
+2:31 >> Well, you wrote the thing, so you should
+2:33 have.
+2:34 >> Just take a minute, Robin. Breathe deep
+2:38 and Rene and I will talk about something
+2:40 else for a while.
+2:41 >> You guys talk and all talk among
+2:42 yourselves.
+2:44 >> Coffee talk.
+2:46 >> Oh my god.
+2:46 >> I make that joke, Robin. and and none of
+2:48 my friends get it.
+2:50 >> Coffee. Yeah. Talk among yourself.
+2:52 >> Yeah. [laughter]
+2:54 >> So again, Renee, you're going to have to
+2:56 post comments if if you want to put some
+2:58 up.
+2:59 >> He says that one drives a virus. He
+3:01 thinks
+3:03 >> I think it's a virus, too. I tell you
+3:05 what, I'm in agreement. [laughter]
+3:08 Just I think it's just a terrible
+3:10 service. Um
+3:12 >> I know what you have.
+3:13 >> You have to shoot it down with a
+3:15 registry fix. So, so the people I'm
+3:18 doing it for, I'm having to tell them
+3:19 like, I am messing around with your
+3:21 registry. You need to have had created a
+3:23 backup of your machine before I touch it
+3:25 cuz
+3:26 >> that's a real nightmare.
+3:28 >> That's actually logging into the machine
+3:29 and deleting keys basically.
+3:34 >> So,
+3:34 >> give me a second. I will have
+3:35 >> All right. This show has gone to a whole
+3:38 new level. Got somebody here wanting
+3:39 pizza.
+3:42 [laughter]
+3:45 Oh my goodness. Give me a second. I'm so
+3:47 embarrassed. This is so bad.
+3:49 >> It's uh it's getting to the end of the
+3:51 year, too. You got to keep all this
+3:53 stuff tightened up. Buttoned up.
+3:56 >> Yeah. You know,
+3:57 >> JT, we use uh we do use a Dropbox. Renee
+4:02 and I both do. I think Robin, you do
+4:03 too, don't you?
+4:04 >> Yeah, I use Dropbox. Actually, Dropbox
+4:07 and Google Drive. I've been moving a lot
+4:09 of stuff to Google Drive. Um, I really
+4:13 have been. It's been um Okay, you guys,
+4:16 I am so embarrassed. I literally
+4:18 >> I'm okay with Google Drive. All right,
+4:20 Robin, no more apologies. We got to talk
+4:22 while you're around over there. Um,
+4:25 >> let us know when you got it.
+4:27 >> Yeah,
+4:27 >> I will.
+4:28 >> Uh, I use Google Drive, but for me, the
+4:33 um redundancy algorithm stuff for
+4:35 Dropbox to me is there's nothing better
+4:38 than that. And um and we're talking
+4:40 >> say that again in plain l plain English.
+4:42 >> Yeah. We're talking about when you've
+4:44 when you are working on a file that's
+4:47 going to be syncing to the cloud in
+4:49 Dropbox for instance uh and and you shut
+4:53 down your computer and so maybe that
+4:55 file didn't completely sync or maybe you
+4:57 left your computer running and for
+4:59 whatever reason Dropbox is caching all
+5:01 of your files. It's and so it's not
+5:04 syncing that file actively. Then you go
+5:06 to another machine or you go to another
+5:08 device and you try to work on that same
+5:10 file. Now you have a conflicted copy
+5:12 because the first copy never fully
+5:13 synced.
+5:15 >> Dropbox's ability to figure out which
+5:18 one to sync and version in a way that's
+5:20 comprehensive I think is comparable to
+5:23 none. Google Drive doesn't do as good of
+5:25 a job.
+5:26 >> And I like Google Drive other than that.
+5:29 But but I'm someone that's working on
+5:31 multiple machines and switching back and
+5:34 forth and so that one's me.
+5:36 >> So I have some clients that use Google
+5:37 Drive
+5:39 and I've never I haven't spent the time
+5:41 to see if it'll do this or not, but can
+5:43 you what? Like with Dropbox, I never go
+5:45 to my I never go to any place but
+5:47 Dropbox to open up a file.
+5:50 Right. And then when I close it down, it
+5:52 goes right back into Dropbox.
+5:54 >> Yeah.
+5:54 >> And when when I open a Chief File, it
+5:56 puts a copy of it on my computer so I
+5:58 can work with it.
+5:59 Can I do that same thing with Google
+6:01 Drive?
+6:02 >> Yes.
+6:03 >> Okay. Yeah.
+6:06 >> So, we are going to have to spend time
+6:07 talking about this to everybody. I'm
+6:09 going to apologize about I can't find my
+6:11 guy my presentation at all. So, we are
+6:14 going to have to do this in two more
+6:15 weeks or Yeah. Um, go back and explain
+6:18 the situation with Google Drive that
+6:20 you're not happy with.
+6:22 >> Uh, the only thing I don't like about
+6:24 Google Drive, it's not that I don't like
+6:25 it. it it's just not as good as Dropbox
+6:29 um for conflicted copy resolution where
+6:34 uh and not only that but if you have a
+6:37 file being locked meaning you're using
+6:40 it you're operating you're you're doing
+6:42 something with it
+6:43 >> and Dropbox wants to force a sync to
+6:47 that file okay or your cloud service
+6:49 rather wants to force sync that file
+6:52 that you have locked and so it's it's
+6:55 like it's hitting a brick wall and it's
+6:57 trying to get through it and it can't
+6:58 get through it. Right. And
+7:00 >> this is Dropbox. Okay.
+7:02 >> And so Google Drive
+7:05 it has it has less um going for it in
+7:10 terms of um resolution of that issue.
+7:15 And so at some point it will just create
+7:17 a conflicted copy and and append a
+7:20 suffix to a to the file name. and now
+7:22 you have a second copy and you don't
+7:23 necessarily know it's there. One Drive
+7:26 is the worst at this. One Drive tries
+7:28 for five minutes and then it writes this
+7:30 additional file and and that file might
+7:33 not be readable because it's added
+7:35 something to the name where the program
+7:37 might be looking for a specific name
+7:39 next time you open it up. So for
+7:41 instance, we used to have chief
+7:43 architect x16 and prior by default it it
+7:48 was installed where your documents were
+7:49 on the documents folder and the
+7:51 documents folder was syncing to one
+7:53 drive and when you open up chief
+7:55 architect it's locking your library for
+7:57 instance and so then if one drive
+8:01 suddenly decides to cach its files and
+8:03 it says oh I need to rewrite to this
+8:05 file it was trying to rewrite your user
+8:08 library file and it would try for 5
+8:11 minutes and then it would give up and
+8:12 say, "All right, we're going to just
+8:13 write this file anyways and we're going
+8:14 to put a dash one there." Well, next
+8:16 time you open up Chief Architect, it's
+8:18 not going to open up that dash one. It
+8:20 doesn't even see it. So, it's just this
+8:22 copy. Over time, it could get
+8:26 flip-flopped where all of a sudden the
+8:28 conflicted copy is the one where you
+8:30 updated your library and added a bunch
+8:31 of things and then unbeknownst to you,
+8:35 you got a past copy and you didn't check
+8:38 it for a while and suddenly you lost
+8:40 data and you don't know why.
+8:42 >> And that's a one drive problem. So don't
+8:44 at all.
+8:45 >> One drive is the worst culprit of that.
+8:47 Google Drive does a better job. Dropbox
+8:50 does a better job than Google Drive. So
+8:53 that's that's why I've always just stuck
+8:56 with Dropbox until
+8:58 they show me that they're problematic as
+9:00 well. [laughter]
+9:01 >> Chad says it also snowballs and uses up
+9:03 your memory.
+9:06 >> Um I don't know about that, but yeah,
+9:08 he's got that experience.
+9:09 >> Yeah.
+9:10 >> Yeah, it my experience with one drive it
+9:13 it seems like it's even worse when
+9:15 you're collaborating with people.
+9:16 >> Yeah. not just between your own
+9:18 computers, but you're collaborating, you
+9:20 end up a whole another set of issues.
+9:24 >> Um, I see,
+9:25 >> yeah, I see JT's asking about AI
+9:28 classes. Um, I'm not I'm actually um I
+9:31 was thinking about
+9:33 putting together a live video series on
+9:36 AI. I've got a lot to say about AI and
+9:40 and I have a lot to say about AI that
+9:42 should make people feel secure with
+9:44 their jobs and the economy.
+9:47 Uh, so I don't know if you guys want me
+9:49 to go off on that. I can.
+9:52 >> You're gonna have to because we're we're
+9:53 ad living as we're going along.
+9:56 [laughter]
+9:57 >> We are because I absolutely don't have
+9:59 what information.
+10:00 >> Try to look at the camera a little bit.
+10:02 I don't have anything prepared for this.
+10:04 Um, I just, um, I watch my videos and I
+10:08 and I kind of, um, see where people are
+10:11 fearful of AI and and where it's headed
+10:15 and and obviously the economy's it is
+10:18 getting affected by it. There's layoffs,
+10:19 there's mass layoffs, but
+10:21 >> definitely
+10:22 >> um, we're kind of in this interim period
+10:24 and to talk a bit about AI, I have to
+10:29 explain some like base information about
+10:31 how it works. One is I I think it's a
+10:34 tragedy that we're calling it
+10:35 intelligence. That's just a marketing
+10:37 ploy. It has
+10:39 >> um it's a probability algorithm. It has
+10:42 nothing to do with intelligence. It has
+10:44 no cognitive ability. It can't work out
+10:47 something logically. It is just
+10:49 probabilities. That's it. And the way
+10:52 that it builds its probabilities and and
+10:55 mind you, I'm going to say something
+10:56 incorrect about this. It's not going to
+10:58 be succinct and absolutely true. you'll
+11:01 be able to fact check this. And that's
+11:03 part of the problem with AI that I'll
+11:05 try to tie back into if you guys remind
+11:06 me is that we tokenize words. So when
+11:11 you type out a sentence to AI, you're
+11:14 asking it a question. What it does is it
+11:17 creates a token for all the words in
+11:19 that sentence. It's not just like it's
+11:21 logically interpreting your sentence.
+11:23 It's not. What it's doing is it's
+11:25 breaking up words
+11:27 in and basically giving it, you know, a
+11:32 number if you will or code if you will,
+11:34 and then it's running probabilities to
+11:36 understand what you might be saying
+11:39 based on piecing together those words.
+11:42 >> Sure.
+11:43 >> In every probable way that it could
+11:45 think of piecing it together. And it
+11:47 will even take multi-yllable words and
+11:50 split them into multiple tokens. Okay.
+11:53 So, I'm going to give you an example.
+11:55 I'm going to say minus min and us. That
+11:58 would be two tokens. It's going to split
+12:00 that word and it's going to try to put
+12:01 it back together.
+12:03 The major inherent problem with the
+12:06 logic of AI is that you can easily
+12:10 create a loop where you have two
+12:12 conflicting parts of one instruction
+12:16 set. I'm going to here's my example. I'm
+12:18 going to say I want an output from a
+12:21 sentence I'm going to feed you. The
+12:23 sentence I'm going to feed you is some
+12:26 word the character space a minus sign
+12:30 the character space some other word and
+12:33 then beyond that minus sign some other
+12:35 word. Here's my instruction.
+12:38 Anything past character
+12:41 space minus character space I want you
+12:43 to admit. Anything past minus sign,
+12:46 replace the minus sign with a space.
+12:49 Here's the problem. If you manage to
+12:51 follow that, you might get to rewind the
+12:53 show for once. Here's the problem. We
+12:56 just gave it two instruction sets, and
+12:59 because it breaks it up into individual
+13:00 words, it's not going to understand both
+13:04 both instructions.
+13:06 >> It's kind of like chief and the terrain
+13:08 tools in Chief. [laughter]
+13:10 >> But Renee, you're using it for program.
+13:12 >> You're not wrong. That's actually a
+13:14 great analogy, by the way. Robin, I want
+13:16 to say you know what John just said.
+13:18 >> Absolutely true. And I'm I'm assuming
+13:20 you're talking about overlapping terrain
+13:22 data.
+13:22 >> Exactly. Y
+13:23 >> right. overlapping terrain data. We've
+13:25 got two conflicting issues in one
+13:27 presented problem. So AI does not know
+13:30 what to do with it. It creates a loop.
+13:32 So it's only going to follow one or the
+13:34 other of my issues. That's it.
+13:38 But you're talking about the example
+13:39 that you used was more programming data
+13:41 like you're because you're trying to get
+13:43 programming information. A lot of us are
+13:45 not using AI for that. For example,
+13:48 >> but it's the same issue.
+13:49 >> It's the same thing.
+13:50 >> And yeah, it's the same exact issue. If
+13:53 if you give it literally it's broken
+13:55 into words to try to understand the
+13:57 probability,
+13:58 >> okay,
+13:59 >> for an outcome that might be the likely
+14:02 outcome you want. And so if you tell it,
+14:05 I'll give you another example.
+14:07 I wrote down I asked a bunch of
+14:09 questions to diagnose my car in one, you
+14:12 know, chat GPD thread or something like
+14:14 that. And then I switched gears. I
+14:16 didn't decide to do a new chat. I
+14:18 switched gears and I started talking
+14:19 about um the state of investing in AI.
+14:23 And when I was done with talking about
+14:24 the state of investing in AI and I I
+14:27 predicted this would be the outcome for
+14:29 my next part here, I asked it to please
+14:33 ignore everything we were talking about
+14:34 with the car and give me the synopsis of
+14:36 everything that we talked about after
+14:38 the car. And I knew before I even asked
+14:40 that question that the fact that I had
+14:42 car
+14:43 >> in my question meant that it was going
+14:45 to go include all the stuff about the
+14:48 car. And because it's just running
+14:51 probabilities. Oh, he must be asking
+14:52 about the car part of this again and
+14:54 also wants a breakdown of the rest.
+14:56 >> Well, but I think S Renee, you use AI on
+14:59 a lot of for a lot a lot of times. I
+15:02 don't I use it um I re I used it a year
+15:05 ago to help write a class. Um I created
+15:09 a class. I spent probably 40 hours
+15:12 putting together an outline for this
+15:14 class. Um it was a custom furniture
+15:16 design class and I knew what I wanted to
+15:18 be included in the class. So I had done
+15:20 a whole lot of work. So then I put into
+15:24 chat GBT um create an 11week
+15:28 um college course for residential
+15:31 interior design program on custom
+15:33 furniture design. Include the following.
+15:36 So I said include the following
+15:37 principle and elements of design,
+15:39 ergonomics, sustainability,
+15:41 um repurposing furniture,
+15:44 um upholstery, foam, um I had like five
+15:49 more things in there and I said, "Okay,
+15:51 write this class." And it wrote an
+15:53 11week class for me. Some of it was
+15:56 crap, you know, and some of it was like
+15:58 a nightmare.
+15:59 >> Um like, you know, this didn't relate to
+16:01 this week and you know, the weeks were
+16:02 all screwed up, but whatever. But you
+16:04 could have you could have refined that.
+16:06 >> Oh, no. No. So, hold on. Hold on. But
+16:08 let me tell you what I ended up doing is
+16:10 that then I ended up taking that
+16:13 information and spending time on it, re
+16:16 reassembling it, putting in some lect
+16:17 some field trips that I knew we were
+16:20 going to do. Anyway, it helped me
+16:21 consolidate and we ended up having
+16:23 really decent lecture topics, right? Um,
+16:28 beginning lecture topics. Anyway, then I
+16:31 knew what I wanted my students to have
+16:32 as a final project at the end. And I
+16:35 knew that they were going to create a
+16:36 scaled model of a piece of furniture and
+16:39 we knew we were going to use ma
+16:40 makerpace and I knew all this stuff
+16:43 about it, right? And I had it take that
+16:45 and then break it into five steps. So I
+16:48 knew the I knew the final project. I
+16:50 said, "Break this into five steps."
+16:53 Anyway, it ended up giving me a really
+16:55 good outline that I was then able to
+16:59 give to an instructor who is going to
+17:01 teach it,
+17:02 >> who then spent time modifying it.
+17:05 >> But, you know, we don't a lot of people
+17:07 are not using AI on a regular basis. You
+17:09 know, we don't use it every single day.
+17:12 And there's a problem with using it
+17:13 every single day because every time you
+17:15 use AI, every time you use it, even if
+17:18 you use AI on your phone, you're using
+17:21 up one bottle of water. And the amount
+17:23 of electricity that is being used
+17:26 sustainably, it's not
+17:27 >> you're getting way off the path of my
+17:29 discussion here. [laughter]
+17:31 >> No, no, no. But those things are things
+17:32 that people need to pay attention to.
+17:35 >> And AI is a tool that we should have.
+17:37 And I I I'm
+17:39 >> fearful of it in certain ways of being
+17:42 completely 100% dependent on it. But on
+17:44 the other hand, we should be paying
+17:46 attention to it as far as the
+17:48 sustainability and what it is doing to
+17:51 our economy. So I do believe that
+17:54 there's it's a tool that we should use.
+17:56 We shouldn't be 100% reliant on it.
+17:58 >> Exactly.
+17:59 >> Okay,
+17:59 >> that's my point.
+18:00 >> Shouldn't be trusting it every every
+18:03 time you use it.
+18:05 >> You're what? Say
+18:06 >> you shouldn't trust it every time you
+18:07 use it. Just because it says something
+18:08 doesn't mean it's correct. You are so
+18:11 right. Absolutely.
+18:13 Absolutely.
+18:16 >> Thank you.
+18:19 I'm going to bring this back to what I
+18:21 wanted to kind of focus on with it,
+18:23 which was
+18:24 >> job security, future security, where
+18:27 we're at, where we're going to be. And
+18:29 >> and I want to mention something that
+18:31 that's happening right now is I think AI
+18:35 came too early. I don't think we had
+18:38 enough data. I think we jumped the gun.
+18:41 And so because we don't have enough
+18:43 data, we we've run out of data pools.
+18:45 The the data that we have accessible and
+18:48 abundant
+18:49 >> abundantly in the in the market is
+18:51 media. So pictures and videos that's
+18:54 going to continue to improve up until a
+18:58 point. For one, um you know, it
+19:01 recreating videos of people, live
+19:04 models, etc. It simply does not have the
+19:07 data sets for the mass quantity of
+19:10 different facial structures and facial
+19:11 gestures that are that people have. So,
+19:14 >> not now. No, it doesn't.
+19:16 >> Not going to run out.
+19:18 >> You're going to run out. Well,
+19:21 >> that's because people are taking it out
+19:23 of the out of true AI function and
+19:27 making programmatic changes. They are
+19:30 programming in things in lie of not
+19:33 having data. And so like the the
+19:37 compounded effect of how fast it's
+19:39 moving right now, it's going to slow
+19:40 down because it will run out of data.
+19:42 The other thing is to get that amount of
+19:45 data, we simply don't have the servers
+19:49 for it either. So
+19:51 >> I see industry, you know, slowing down.
+19:54 >> They're building like crazy. I mean
+19:56 blueco collar people that you know are
+19:59 in microenter stuff, chip silicone
+20:02 stuff, fiber optic stuff, you know,
+20:04 power infrastructure, all that stuff.
+20:06 Those markets are going to keep going
+20:09 up. So I think we're going to hit like a
+20:12 slowdown here. I really think
+20:13 everybody's job is secure, especially
+20:15 for those AI to home design stuff.
+20:19 I'm not worried about that for a very
+20:21 very long time, especially because so
+20:23 many so much of it regional.
+20:25 And it's like, go have it build me a
+20:27 house for Wisconsin and it's going to
+20:29 have like a lows slope roof with a bunch
+20:31 of crickets and you're going to have
+20:33 snow piles just punching through the
+20:34 roof lines and frost frost issues and
+20:38 all kinds of stuff.
+20:38 >> Well, there's always bad design and
+20:40 people who are going to rely on that. I
+20:42 mean, there's a lot of people who are
+20:43 going to use it to think that. I mean,
+20:45 we have people today, my nephew, who I
+20:48 adore to death. He's like the most
+20:50 smartest guy in the world. He's an
+20:51 engineer. Okay, I know I just said
+20:53 everything I needed to say about him,
+20:55 but he decides he's um he said to me the
+20:58 other day, he's going to build his ADU.
+21:01 Um because it's not that hard being a
+21:04 contractor.
+21:06 I literally, this was at Thanksgiving, I
+21:08 literally wanted to smack him.
+21:10 [laughter]
+21:11 He's an engineer and he's in his 20s and
+21:14 I adore him to death. I'm like,
+21:16 >> does he realize he has to
+21:18 >> Does he realize he has to work with
+21:19 people to do that?
+21:21 >> You know what? Um, it's he's Yeah, I I I
+21:26 worked with him on his kitchen remodel
+21:28 and I learned a lot about him and at a
+21:30 certain point I just had to say, "Wow,
+21:31 you need to stay in your lane, Renee."
+21:33 Or Renee, oh my god, so sorry.
+21:35 [laughter]
+21:37 >> I was due for one of those.
+21:41 Oh yeah, it was it was an interesting
+21:43 conversation. [laughter]
+21:45 Anyway, I do think that there's a lot of
+21:47 people out there who are going to rely
+21:49 think that AI is going to do everything
+21:51 for them and that I think there but
+21:54 those are the people that are going to
+21:55 do it themselves because being a
+21:57 designer can't be that hard and being a
+21:59 contractor isn't that hard. So that's
+22:02 not really going to affect our quality
+22:05 of work. Those people are going to come
+22:06 back to us the second time and go, "Wow,
+22:08 I screwed up." Right.
+22:10 >> Yeah. I I think there's going to be a a
+22:12 lull that that just returns. And I
+22:14 actually feel like that for anything. I
+22:15 mean, we already see all the markers of
+22:17 something that was produced by AI. It
+22:20 feels flat and dead and and there's just
+22:22 something a little off, right? And the
+22:25 other thing I was going to talk about is
+22:27 like just AI even in the market of
+22:29 customer support and service.
+22:32 >> Like the inherent problem with AI versus
+22:36 human interaction is humans use all the
+22:39 wrong terms. They don't describe their
+22:41 issue correctly. They're they think the
+22:44 issue is something else that has nothing
+22:45 to do with their actual issue and and
+22:48 they can't communicate it logically at
+22:49 all. and it takes a a human on the other
+22:52 line to get them to the logic of their
+22:54 issue. I mean, that's probably more
+22:57 common than someone actually calling and
+23:00 with succinctness using, you know,
+23:02 precise words describing their problem
+23:05 in life. And so, and AI is just working
+23:09 with, you know, something's wrong with
+23:10 this statement. Like, maybe they mean
+23:12 this. And I really just feel like it's
+23:15 it's going to return back to because
+23:18 companies are replacing people with AI
+23:20 right now. And
+23:21 >> yeah,
+23:21 >> I think it's going to return back.
+23:23 >> Chris Chris 1111 just said that he said
+23:25 recent commercials with AI. So he
+23:27 believes actors are at risk. That's why
+23:29 they strike they went on strike a few
+23:31 years ago. Actors and writers, they went
+23:33 on strike for those reasons. I think
+23:36 there you know what
+23:38 >> to some extent we're going to have a a
+23:40 period where they are at risk and then I
+23:43 think it's just going to return where
+23:44 we're just like we're dying for
+23:46 something that is not
+23:47 >> it depends there's got to be it depends
+23:49 upon our legal system and that's a whole
+23:52 another can of worms and we're not going
+23:53 to go there but at a certain point
+23:55 there's going to be regulation and right
+23:56 now it's running wild with no regulation
+23:59 and that's where we're going to have to
+24:01 have regulation on it at a certain point
+24:04 um and That's just kind of where we're
+24:06 going to have to be because right now
+24:07 it's running wild.
+24:09 >> Yeah.
+24:09 >> And but but again, it's a tool and I
+24:12 think that if we use it appropriately
+24:15 and we use it sparingly, we don't use it
+24:18 every single day and we use it um to
+24:22 support things, you know, like I write
+24:24 most of my emails. I write I write like
+24:27 95% of my emails. But when I have
+24:30 something that is a really complicated
+24:32 concept that I need to make sure that
+24:33 I'm saying it as politically correct as
+24:37 possible, then I'm going to take what I
+24:39 wrote and I'm going to ask AI to make it
+24:41 a little bit better or not be don't be
+24:44 as firm as I am because I could be a
+24:46 little harsh in my writing and you know
+24:48 tone it down or make it make it a little
+24:50 bit more firmer than I'm writing it. You
+24:52 know, then then that's where I will use
+24:55 AI. But I use it maybe once every other
+24:57 week. I mean, I don't use it on a daily
+24:59 basis. So, I think it's a tool that we
+25:02 as designers can use. And you use it a
+25:05 lot because you're always writing. Um,
+25:08 you're doing programming. I mean, you
+25:10 are totally using it.
+25:11 >> Um, I could I could do a breakdown of of
+25:14 what I'm using for currently. Um, I use
+25:17 it to, um, it will extract transcripts
+25:22 from my videos and then create chapters
+25:25 and then create description and tags and
+25:28 the social posts that I always end up
+25:30 editing the social posts. But that's one
+25:32 thing.
+25:32 >> Speaking of your most recent social
+25:34 posts, I do have to give you for those
+25:36 of you, this is a segue into Rene's
+25:39 video, the video that you did on the
+25:41 curved cabinet and the
+25:43 >> um, the set piece. Yeah,
+25:45 >> I used it in class and we ended up
+25:48 having
+25:49 >> but we broke it down. We really talked a
+25:51 lot. I had written your instructions.
+25:53 When I watch Rene's videos to everybody,
+25:54 I watch it probably five times, writing
+25:57 every instruction down first,
+26:00 >> okay?
+26:00 >> Because you always you always make you
+26:02 go, "Oh, no. Don't do it this way. Do it
+26:04 like that." Right? So, I write down all
+26:06 of the things and I get everything all
+26:08 written down and then I practice it and
+26:09 then I watch it again. But that's
+26:13 [snorts]
+26:14 but it's great and we used it in class
+26:16 and we end up having that really great
+26:17 conversation that you had with me when
+26:19 we were in Idaho about each tool and
+26:23 chief. I know we're going totally off
+26:25 that I'm totally talking off. But for
+26:27 those of you who are listening, this was
+26:28 an amazing conversation I had with
+26:30 Renee. This is like the best thing ever.
+26:32 We were talking about this programmer
+26:35 for um he's a modeler for Chief and he
+26:38 said um he was talking about a steel
+26:42 construction he was doing and that every
+26:44 single time he had to remodel the um
+26:48 steel beam because anytime there was a
+26:50 change obviously we know we have to have
+26:52 that there's all these details to it and
+26:54 I'm like I think you should be able to
+26:55 model that in Chief and he said no you
+26:58 can't. So I, this is the best part. You
+27:00 hang out with Renee and I said, "Can you
+27:02 do that?" He said, "Yeah." So he started
+27:03 talking to me about what each tool does
+27:07 in chief, what each tool does.
+27:10 >> And this was amazing. So I'm like,
+27:11 "Well, it's not a window. It's not a
+27:13 cabinet. It's not stairs, you know." And
+27:16 he started saying, "Well, think about
+27:17 something that you can move individual
+27:19 parts on it." And we ended up coming
+27:20 with railings. And it was like, "Oh my
+27:23 god." And Renee can create a steel beam.
+27:26 And you know how you have to change
+27:28 anytime you make a change, you have to
+27:29 change the holes that are going to be
+27:31 put in there. It was the coolest
+27:34 conversation about Chief that I had and
+27:37 it was so much fun to just sit and
+27:38 listen to how you
+27:41 >> think about how each object works.
+27:44 >> I um I guess
+27:46 >> so Rene is AI. So for somebody
+27:49 conversation for a second because I'll
+27:51 come back to AI. I'll just quickly say
+27:54 what I use AI for mainly now so that
+27:57 people just um
+28:00 um can think about that and maybe
+28:02 that'll catch up to the comments and
+28:03 then I'll switch to something I want to
+28:05 talk about home designer for a second.
+28:07 Um, but AI right now I use what's called
+28:12 uh cursor AI and that's on my machine
+28:15 and cursor AI I've mentioned this before
+28:17 but it can read and write files and so
+28:21 it's showing in it's in um Vicki Nikki
+28:24 says that it's showing in portrait mode.
+28:26 Can you change it to landscape?
+28:29 >> Showing in portrait. Can
+28:31 >> our screen is showing video is
+28:32 displaying in portrait mode. So
+28:34 everything you're sharing is on screen
+28:35 is very tiny. Is there a way to switch
+28:37 to landscape?
+28:38 >> She's got this Simocast Instagram thing.
+28:42 I don't I don't know what that is about.
+28:45 You're not seeing my screen on the right
+28:47 hand side. I'm going to stop sharing my
+28:48 screen. Maybe that'll be it. Vicki, I'm
+28:50 sharing my screen right now. Maybe
+28:52 you're not seeing that. Um,
+28:55 so let's just switch it back to the us
+28:58 on screen. Um
+29:01 I um I have this cursor AI uh has access
+29:05 to the API keys in my Google account. So
+29:08 it can re read through my emails and it
+29:10 can read through my calendar. And so
+29:12 that to me is huge because I can go hey,
+29:15 you know, show me everything I sent to
+29:17 Robin Fisher and tell me what I quoted
+29:20 her on some projects and list them all.
+29:23 And it'll just do that for me. Um so
+29:25 that's a big one. I have it running my
+29:27 budgets. I have it running investments
+29:29 for me, just tracking investments. I
+29:30 have it running um contracts. It has a
+29:33 list of 20 main contracts that I use.
+29:35 And so it will put together a new uh
+29:38 contract for me. And then um based on
+29:43 you know just what I tell it in a few
+29:44 sentences I have it looking at the
+29:47 config files for my mouse and my
+29:50 keyboard and multiple applications so
+29:53 that I can tell it hey I want in
+29:56 application A I want you to change it so
+29:59 that it's doing this with this button on
+30:02 my mouse. And so I don't actually have
+30:04 to go in and and do that in the program
+30:06 and [clears throat] do that to the
+30:07 mouse. So it'll just assign that for me
+30:09 because it's got access to the root
+30:11 files of those devices.
+30:13 >> Um I have it managing, you know, blogs
+30:16 and a schedule of blogs. Um, I have it
+30:21 it it will figure out a really complex
+30:25 um, hotkey established thing that I'm
+30:28 doing where it it figures out if there's
+30:30 some kind of conflicting hotkey across
+30:32 all programs that I use so that it knows
+30:35 which ones to use and how to put them
+30:37 together. Wow.
+30:38 >> Um,
+30:39 >> so I've got a bunch of stuff and then I
+30:40 build, you know, programs as just um I
+30:44 have all these ideas about programs I
+30:46 think we need and and so I'm just
+30:48 building prototypes. Um, so and then it
+30:51 does my taxes and and it does all the
+30:54 coding for my website and all kinds of
+30:57 stuff. So that's all kind of the stuff
+30:59 I'm doing with ARI. And then what I
+31:01 wanted to say was I want to switch gears
+31:03 because you mentioned something that
+31:05 that made me think about um the home
+31:07 designer line. If if no one knew this
+31:10 home designer line 2026 just switched to
+31:14 a subscription model and I know I would
+31:17 guess that everybody in here is is a a
+31:20 chief premier line person, but it's
+31:22 interesting to know that because you're
+31:24 getting an idea of where the company is
+31:26 is headed.
+31:27 >> Sure. And they also switched to giving
+31:31 the home designer line anyone that
+31:33 purchases it
+31:35 and on an annual basis gets almost like
+31:37 a 50% discount versus monthtomonth which
+31:41 to me tells you they're saying hey we've
+31:44 got people that just want to use this
+31:45 software every once in a while. So we're
+31:47 going to charge you more. And then we
+31:49 have people that are trying to make home
+31:51 designer be a professional tool and now
+31:53 we're going to stick you on this annual
+31:55 subscription. If you get the annual
+31:57 subscription, you get access to all the
+31:59 cataloges,
+32:01 >> which is a first time for them. And then
+32:05 uh and they get SSA, they get ray trace
+32:09 for the first time ever. Um they don't
+32:12 have access to bump and normal maps, but
+32:14 they get access to the catalog. So they
+32:15 have some, you know, ray trace materials
+32:18 in there.
+32:19 >> And then and then just a small list of
+32:22 other things. And the home talk is
+32:25 similar to chief talk. So that's home
+32:27 designers forum built by chief architect
+32:29 versus chief talk.
+32:31 >> Home talk you got there that are really
+32:33 I rateate that were hobbyists people
+32:34 that used the home designer line.
+32:37 >> Um
+32:39 >> that's
+32:40 >> you can probably count on one hand the
+32:42 the number of apps that you would use
+32:44 that you can actually get without a
+32:46 subscription now.
+32:49 >> Right. Everybody's going to
+32:50 subscription.
+32:51 >> Yeah. as Yeah. Just in general.
+32:55 >> Yeah. I don't think I have
+32:57 >> I kind of understand it, you know.
+32:59 >> Yeah. And I don't think I have an app
+33:01 that I use that I can think of that I
+33:02 pay for and I get forever.
+33:05 >> Yeah. Yeah. I saw a bunch of comments
+33:07 that was like this is a cash grab and
+33:08 they're greedy and and I'm like that
+33:10 this doesn't make them more money.
+33:13 I I think it's quite the contrary. Um,
+33:16 but it does,
+33:17 >> you know,
+33:19 understanding of their of their net
+33:21 >> coming in before they start their
+33:22 development cycle because I think
+33:24 nowadays they probably have to do
+33:26 exactly what Apple does, which is
+33:27 develop two, three versions out,
+33:30 >> right?
+33:31 >> Well, I think what it's doing is there's
+33:32 a lot of there's a few designers that
+33:34 I've worked with um who started out
+33:36 using Home Designer and then realized it
+33:38 can't do all the things they want to,
+33:40 >> so they end up switching to Chief. And
+33:42 it's probably like a um you know it's a
+33:44 gateway drug you know it's like a
+33:45 gateway drug right it's let's get more
+33:47 people to try it and then um
+33:52 um oh JT you can call us JT design one
+33:56 he says he really uses SSA calling all
+33:58 the time since he can't use you guys you
+34:00 can call us
+34:01 >> yeah you can call us
+34:02 >> so Dan told us to tell everybody what we
+34:04 do on this show so maybe this is a good
+34:06 time for that so Renee why don't you
+34:09 >> tell everybody
+34:09 >> what
+34:10 >> what you what you what you have for
+34:12 sale, that kind of stuff.
+34:13 >> Oh, what we do? Okay. Um I um I do a
+34:17 bunch of different weird stuff.
+34:19 [laughter]
+34:20 I I'm a designer. Uh so I'll do um full
+34:24 scope design, be it interior, kitchens,
+34:26 baths, you name it. I design additions.
+34:29 Um I've been designing new construction
+34:32 more just in the last two years. Um but
+34:36 mainly my game is remodels. I get hired
+34:39 a lot for in what I call infill design
+34:42 and drafting. So, I do a lot of the
+34:45 middle work of someone else's draft set
+34:48 or design. Um, I do a lot of live
+34:51 design. I'm fast enough in the software
+34:53 that I will sit with a designer and and
+34:56 go through the design live on a call.
+34:58 That gets that gets stuff done really
+35:00 fast and is very enjoyable. Um, but
+35:02 that's really for someone that uh
+35:06 instinctually has a lot of directives on
+35:08 what they want to do with the space. You
+35:10 know, that works well for them. Um, I do
+35:13 training and that's from I've been
+35:16 taking on more beginners, but that's all
+35:18 the way up to the power users and people
+35:20 that want to get really wild with Chief
+35:22 and other things. And then lately I've
+35:25 been doing stuff outside of Chief which
+35:27 is on you know um file organization
+35:31 cloud integration stuff um project
+35:34 management type things integrating into
+35:36 CRM stuff um doing stuff with like data
+35:41 sheet CSV any kind of automation any
+35:43 kind of systems building. I've got a lot
+35:45 of cabinet builders that want to build
+35:48 uh systems. So anyways I feel like I'm
+35:50 hogging the air. Go ahead. Well, and I
+35:53 do um training for um beginners in chief
+35:57 um beginners and intermediate people in
+35:59 chief. Um and I am a designer, but I'm
+36:03 um not well I can work with people on
+36:07 that. I'm a kitchen about designer
+36:09 certified master of kitchen about
+36:10 design. Um but yes, so but most of my
+36:14 job is full-time education now. So I do
+36:17 work with people working with them to
+36:19 help you if you have new people in the
+36:20 program that you are working with that
+36:23 need to learn how to do um chief then I
+36:25 work with people like that
+36:28 >> and you didn't talk about you didn't
+36:30 talk about your store and stuff that you
+36:32 sell did you?
+36:34 >> Oh no I don't um I didn't Yeah I spend
+36:37 now I spend three months out of the year
+36:40 developing templates and library items.
+36:44 um that's a solid 3 months that I spend
+36:47 on that. So
+36:48 >> um that is now a crowdfunded
+36:51 thing. U it's a it's become a passion
+36:54 project. The community really drives
+36:56 that forward. Man, do they feel like
+36:58 making me feel like it's worth it and
+37:00 it's fun and it's and it pays off. Um so
+37:03 it's really interesting to see that. Um,
+37:06 so I've got a very popular template
+37:08 package that I think is reasonably
+37:10 priced and then I'm converting it for
+37:12 metric and then after that I'm
+37:15 converting it for metric and Spanish.
+37:17 So, and I've got a partner on that.
+37:19 >> No,
+37:20 >> Rene doesn't sleep you guys, just so you
+37:22 know. I think JT said that too. Renee
+37:25 doesn't sleep.
+37:26 >> Really excited for the Spanish thing
+37:28 because I don't know. I just find that
+37:30 fascinating. I I'm curious to learn some
+37:33 some new stuff. So,
+37:34 >> yeah.
+37:35 >> Cool. And I I do basically the same
+37:37 thing that Renee and uh Robin do,
+37:40 training people, helping that, helping
+37:42 troubleshoot plans. We have a I have two
+37:45 other people working with me. Um that we
+37:49 we are subcontractors for other
+37:51 companies. We became their in-house
+37:53 design and and or drafting.
+37:57 >> Um
+37:58 >> that's been fun collaborating with some
+38:00 different companies to do that kind of
+38:01 stuff. So, we're all available to help.
+38:04 Um, and you can always get a find us or
+38:06 get a hold of us going through um
+38:09 Dan's Chief Experts if if you need to
+38:11 find us the first time, how to get a
+38:13 hold of us. Um, yep.
+38:15 >> So, you can go there. And Dan also
+38:17 wanted us to mention that we have a
+38:18 class coming up, Dan and I, in
+38:21 Minneapolis.
+38:22 I believe it's January 10th. You can go
+38:24 to chiefexperts.com to find out about
+38:26 that. January 10th in Minneapolis. It'll
+38:29 go till the 13th. No, the 11th to the
+38:33 14th.
+38:34 >> January 11th to the 14th.
+38:37 >> 12th to the 15th.
+38:38 >> 12th to the 15th.
+38:40 >> Yeah. For those of you who also haven't
+38:42 checked out um Rene's videos, I I did
+38:45 turn my students on in class to your um
+38:48 your channel and to your um
+38:52 uh Facebook page so that way users of
+38:56 Chief Architects so that way they can
+38:58 see your videos that you post there.
+39:00 >> Nice.
+39:01 >> You need really great little videos. Um
+39:04 you talk really fast so I really
+39:06 recommend you need to watch them a few
+39:08 times.
+39:09 You have to watch him a few times. Rene
+39:10 goes very, very fast.
+39:12 >> You can change the speed. You change it
+39:13 to one and a half and I'll
+39:15 do.
+39:17 >> You still are going fast, [laughter]
+39:20 but they're great. I do recommend them.
+39:22 Definitely.
+39:24 >> Yeah. I mean, well,
+39:26 >> I feel like I only want to make videos
+39:27 once I got the brain really moving. At
+39:29 that point, there's no, you know,
+39:31 derailing that train. [laughter]
+39:34 >> They're really great. Those of you who
+39:36 haven't watched the newest video, the um
+39:39 the curved cabinet one, he actually
+39:41 >> cabinet. Yeah.
+39:42 >> Yeah. The arch cabinet. You ended up
+39:43 giving away like the freebie stuff.
+39:46 >> It was really fun. I loved it making a
+39:49 wall first, you know, making it as a
+39:52 window.
+39:53 >> So, he started out for those of you and
+39:55 I geek out on this because I truly
+39:56 honestly spent about three hours on that
+39:58 video this week.
+39:59 >> We'll do it right now.
+40:02 He started with a 24 inch wall, one
+40:04 piece wall, and it was great. Nikki,
+40:06 this one was about 28 minutes.
+40:09 >> Um, but it was great.
+40:12 >> Let's see. So, cuz I just got a
+40:14 question. How do you build a cabinet
+40:16 that's got an angled top for underneath
+40:18 the staircase? And
+40:20 >> and it's the same approach. It's the
+40:21 exact I mean, you could even take the
+40:23 same file that I provide. I provided a
+40:25 file in that video, right?
+40:26 >> Yep, you did.
+40:27 >> Yeah. Okay. So you can open up an
+40:29 interior wall and
+40:33 set its thickness to say 24 in thick.
+40:37 >> Yeah.
+40:37 >> For instance. And this will represent
+40:40 the cabinet box. So we're going to throw
+40:42 a window in here. And we'll make it a
+40:44 fixed window.
+40:46 And then let's open this window up.
+40:49 That's 4 foot wide window. Um
+40:52 let's say it's fixed glass. And um
+40:57 what I do with this when we're going to
+41:00 place this under a staircase is place
+41:02 your stairs and then open your stairs,
+41:09 whatever they are, and note the rise
+41:12 angle, 30.25.
+41:15 Okay. And so with that rise angle, then
+41:18 I'm going to make this a gable end wall,
+41:22 just so that we're sure we've got some
+41:25 kind of slope happening that's in line
+41:27 with this window. All right. Um, let me
+41:31 delete this outside wall. I'll make this
+41:34 gable.
+41:36 And what I'm
+41:37 >> This wall, you made this wall um a
+41:39 single layer wall. It wasn't there's no
+41:42 >> I did. And that was that was just to
+41:44 stop from confusion in the video, but
+41:47 you don't need it to be a single layer
+41:49 wall. Um,
+41:50 >> so what I'm going to do is I'm going to
+41:52 set the roof pitch to be a pitch in
+41:53 degrees and make it 30.25, which is the
+41:56 exact same rise as the staircase,
+42:00 right? And so then we get to come into
+42:02 this window and we get to say in the
+42:05 shape panel, match roof.
+42:09 >> So now we're making that general shape.
+42:11 We get rid of the casings,
+42:14 right? We really just want to get rid of
+42:16 the sash.
+42:18 You turn this thing around. What does
+42:19 that look like? Looks like a cabinet
+42:21 box.
+42:23 So that
+42:24 >> if you want a face frame on it, you just
+42:26 put a frame on it and casing.
+42:28 >> You put the casing back on it. If you
+42:30 want, you just put a square casing on
+42:31 it.
+42:33 >> It's brilliant.
+42:34 >> You'd want to go to the general panel
+42:35 and say separate trim and materials on
+42:38 each side so that we could turn that
+42:39 casing off on one side.
+42:41 and
+42:42 >> change your offset, change your offset,
+42:44 your reveal offset so
+42:47 reveal zero inch reveal, you know, make
+42:49 this a square, etc. The other thing I
+42:52 want to mention, and I just did this to
+42:53 my own library the other day, is I'm
+42:55 oftenimes just looking for a square or
+42:57 round or pipe or cylinder or all that
+43:01 stuff. If you didn't know it, you can
+43:03 always go into any library item and add
+43:07 search attributes so that you find this
+43:10 casing easier when you're just looking
+43:12 for square. Add square, add rectangle,
+43:14 add cube, add anything that might come
+43:17 to your head when you're looking for a
+43:18 certain profile. I just did that to look
+43:20 for square. So that now when I search
+43:22 square, I actually find it in my catalog
+43:25 very quickly. Like square, yes, thank
+43:27 you.
+43:28 >> Did you had to save it to your library
+43:29 first, right?
+43:31 Um, I did. I like having control over
+43:33 it. That way there's no potential of it
+43:35 being overwritten and some standard
+43:37 being overwritten or something like
+43:38 that. But
+43:39 >> Sure.
+43:40 >> So, this looks like your cabinet box.
+43:42 And then the next steps just means that
+43:45 you're going to end up converting this
+43:46 item to a cabinet door and changing it
+43:50 the offset so that it applies on the
+43:52 back side of a cabinet that has no box.
+43:55 So yeah, I would go say watch the rest
+43:57 of that video, but this is how you would
+44:00 do an angled cabinet versus an arched
+44:04 cabinet.
+44:05 >> It's brilliant.
+44:09 >> It's brilliant. It's absolutely
+44:10 brilliant. Thank you.
+44:12 >> All right. Sweet. I think I Is this the
+44:15 point where I get to mention my little
+44:16 sister's thingy?
+44:18 >> Yes.
+44:18 >> I don't even know where the heck that
+44:20 is. I got to figure out how to find the
+44:23 John, you want to talk for a second? I'm
+44:24 going to figure out how to find the link
+44:25 for it.
+44:28 >> Um,
+44:31 perfect. I got the link.
+44:32 >> Got it. [laughter] Good job.
+44:35 >> That was awesome.
+44:37 >> I'm going to drop this in the comments.
+44:38 Um, I don't use my social groups for
+44:42 personal use. I mean, almost never. You
+44:46 know, I've I've got the users of
+44:48 Facebook group. It's got 15,000 people
+44:50 in there. uh other people break more
+44:52 rules than I do in that group and and I
+44:55 just say that to say that this is this
+44:57 one's important to me and I asked for
+44:59 permission from Dan in the group about
+45:01 this to see if it was on brand or not.
+45:03 I'm going to drop this in the comments.
+45:05 This is a GoFundMe and um this is for my
+45:09 little sister's dog. We just found out
+45:11 that this little Chihuahua who is just
+45:14 my sister's
+45:16 world it she's 30 years old. She's 31
+45:19 years old and she's had this dog for
+45:21 nine years. So, a lot of her adult life
+45:24 and it means the world to her. And this
+45:26 dog has a benign um now 3 cm tumor in
+45:32 her stomach and she that dog is getting
+45:35 it's a little chihuahua with a golf ball
+45:37 in it basically. And uh she's in the
+45:41 surgery operating room today. though,
+45:44 and it's an extremely expensive
+45:46 operation, and there was no question
+45:48 that she was going to get it done. And
+45:51 uh and she's just a broke little
+45:52 30-year-old kid. And if you feel like
+45:54 helping out, that's all I'll say about
+45:56 it. I'd appreciate it. Um I will say if
+45:59 you donate, shoot a message to me
+46:01 because I plan on giving out a digital
+46:03 package for anyone that felt like
+46:04 donating. I don't care how much it is.
+46:06 $5, $2, I don't even care. I'll give you
+46:09 a digital package. Let's make it be fun.
+46:12 Part of that digital package is going to
+46:13 be a 3D model of little Amaya who is in
+46:15 that GoFundMe and I appreciate it and
+46:18 thank you.
+46:19 >> Oh,
+46:21 that's really cute.
+46:25 >> Right.
+46:26 >> All right. We got to kill her for 15
+46:28 minutes still.
+46:29 >> Well, we should probably talk about the
+46:32 um
+46:33 um
+46:36 the academy would probably be a good
+46:38 idea.
+46:40 Pro Academy.
+46:41 >> How many people It would be really
+46:42 interesting to find out how many people
+46:43 are in the academy
+46:46 are using the Pro Academy. Yeah,
+46:50 >> you can't get to his website, right? So,
+46:52 that's actually just to talk about it.
+46:55 That's there's an open it's open and
+46:57 there's no wait list to get into the
+46:59 academy right now.
+47:00 >> Right. Okay.
+47:02 And we've had we've met uh five times,
+47:06 five days, I guess. We do uh I think it
+47:10 starts at 9:00. We do an hour and a half
+47:12 of just kind of what we do on the show
+47:15 here, but you get to interact verbally
+47:18 with us with Dan and I. I've been on
+47:20 everyone. Dan's been on everyone. I've
+47:22 been on everyone so far.
+47:25 Then at the second uh block of time I
+47:28 think starts at 11
+47:30 to 12:30 or something like that. Dan's
+47:33 doing a a specific teaching uh he's to
+47:37 train something is his goal. The
+47:40 afternoon session may be chief related,
+47:42 it may be business related, design
+47:45 business related. Um might have Robin on
+47:48 there sometime talking about something
+47:50 or other guest speakers in the
+47:52 afternoon. And then right now he's also
+47:54 been doing an evening one for our
+47:56 friends over overseas
+47:58 um so that they can get on during the
+48:00 day or people that work during the day
+48:02 and can't get on during the day can get
+48:04 on and have an hour and a half there.
+48:07 >> Even a few people overseas.
+48:09 >> That's awesome.
+48:10 >> I don't can't remember if anybody's been
+48:14 on the the evening ones yet, but I mean
+48:18 that's definitely there for them. Um,
+48:22 uh, what else was I gonna say? Oh,
+48:24 they're all recorded, so you have access
+48:26 to all the recordings for them. They get
+48:28 Dan post them right away and then I
+48:30 think his intention is to go back and
+48:32 clean them up a little bit and then
+48:33 repost them. Um, and they're all they're
+48:37 all so that you can click on a on a spot
+48:39 or find a time in the video to go find
+48:41 something.
+48:43 Um, so it's a really good value for what
+48:45 you're getting. I mean, you get uh Mike
+48:48 has been on there before and I think it
+48:50 was him that mentioned it's like going
+48:52 to a one-day boot camp because you you
+48:54 get like what is it? Six six to seven
+48:57 hours of training in that one day.
+48:59 >> It's crazy the amount of time you get
+49:02 involved in it and it's it's a big deal.
+49:04 He's doing it's a lot. It's like an
+49:06 almost the entire Wednesday, right? Once
+49:08 a month. Is that what it is?
+49:10 >> Twice a month. First and third Wednesday
+49:12 of the month. I think this month there's
+49:13 only going to be one. and then pick it
+49:16 up again um after the first of the year
+49:19 for for two times a month.
+49:22 I think he's he's guaranteeing uh 20 20
+49:26 of those days a year. So there'll be
+49:28 during the summer there'll be a couple
+49:30 weeks we take off and in the fall around
+49:33 this time a couple of days to take off.
+49:36 >> That is some dedication.
+49:38 >> Yep. and then uh
+49:40 >> he hasn't done it yet, but some
+49:41 impromptu meetings every now and then
+49:43 too are on the on the board. So
+49:47 um yeah, so it's been a good time. We've
+49:49 there's been about 10 to 12 maybe
+49:52 something like that per time. So you get
+49:54 some potential for some one-on-one time
+49:57 basically. So
+49:59 um or get your questions specifically
+50:01 answered.
+50:04 >> Nice.
+50:04 >> It's a good process. It's a great
+50:06 program to be involved in if you really
+50:08 want to increase your knowledge of the
+50:11 program.
+50:12 >> I mean, come on. And this is a really
+50:15 deep program. We all use it differently,
+50:18 right? I mean,
+50:19 >> oh, I'm still finding stuff I've never
+50:21 seen before. I did one the other day,
+50:23 too. Forgot to write it down, though.
+50:25 >> I love it when I'm teaching something in
+50:28 class and my students will say, "Oh,
+50:29 well, if you push this button, it'll
+50:31 work." It's like, who knew that button
+50:32 was there? You know, that's the thing.
+50:34 The thing that I learned more about
+50:36 hanging out with you guys and learning
+50:38 about the program, the thing I love the
+50:40 most about what Dan has always told me
+50:42 is um push a button. You have 50 undos.
+50:47 >> Seriously, how much can you mess
+50:49 something up
+50:50 >> when you have 50 opportunities to make a
+50:53 mistake? Um
+50:55 >> speaking of can
+50:58 icon package available of all chief
+51:00 icons. Um if you I could tell you where
+51:03 it is on a PC. I don't do not remember
+51:05 on a Mac. Um on a Mac you you would go
+51:08 to preferences and um folders and then
+51:11 look up the directories there and you
+51:13 want the program data folder. But on a
+51:15 PC you can go to uh program files chief
+51:19 architect x17 resources and then buttons
+51:23 and that's where all the icons live.
+51:26 >> You might need to say that one more
+51:28 time.
+51:29 >> And then Jamal
+51:30 >> do it one more time.
+51:31 >> I'm going to make people rewind our
+51:32 videos. You have to rewind and watch it
+51:34 again.
+51:35 >> You got to re You rewound this, didn't
+51:36 you? You rewound it. Thank you.
+51:38 >> I did. I rewind. Well, yours because she
+51:40 talks so fast. Jamal, um I don't know if
+51:42 I can put my my I don't know that I can
+51:45 put my um email address in there. But if
+51:49 you want to email me, um can you put
+51:52 that in Renee? My email address.
+51:54 >> You can also go find it on Chief
+51:55 Experts. All that
+51:56 >> contact
+51:58 and you'll get my email address. And
+51:59 Jamal, I would be absolutely happy to
+52:02 chat with you about that.
+52:05 >> Um, I see John, you helped someone with
+52:06 the dormer in real time. That's because
+52:08 he is the dormer wizard.
+52:12 >> I have gotten better at dormers and you
+52:15 and I credit you. That's
+52:17 >> Yeah. Well, I was doing one the other
+52:19 day and it was kicking my butt, so I
+52:22 changed [laughter] it up.
+52:24 Well, you know what's interesting is on
+52:26 on Facebook, and I'm not usually on
+52:28 Facebook very much, but somebody was
+52:29 talking about, you know, how you do a
+52:31 dormer and then that stupid little
+52:32 triangle doesn't fill in. Sometimes it
+52:34 does and sometimes it doesn't. And um I
+52:38 have had issues with it, right?
+52:41 Sometimes it works, sometimes it
+52:43 doesn't. And on chief on um the users of
+52:47 chief architect Facebook page, everybody
+52:50 was saying, "Oh yeah, sometimes it works
+52:52 and sometimes it doesn't." Just like
+52:53 give it a breath. Tell your clients it's
+52:55 not going to look like that.
+52:57 >> Well, it's you can fix it, but
+52:59 >> give up. [laughter]
+53:00 >> Yeah, just give up.
+53:03 >> Send them a picture of a dormer. It's
+53:05 fine.
+53:06 >> Well, [laughter] you know, you could
+53:07 just say it's ventilation. You know, you
+53:09 need ventilation in there, so it's a
+53:10 good thing.
+53:12 >> Right.
+53:14 >> Exactly.
+53:14 >> I'm gonna I'll show you a trick. I'm I'm
+53:17 going to set it up right now real quick.
+53:18 This one's for Robin because I know
+53:20 you're going to love this one.
+53:22 Um, actually, let me just share my
+53:24 screen right now.
+53:27 Feel like I already had my shared
+53:28 screen.
+53:29 >> This comment about today I was today
+53:31 years old when I found the hatch tool.
+53:33 That's one of mine and dad's favorite
+53:34 things is when we're in a live class and
+53:37 you show somebody something like that.
+53:40 >> Oh man, I've been there.
+53:43 >> The hatch tool for the walls.
+53:45 >> Oh, I
+53:46 >> Oh. Oh, you're talking about um Okay.
+53:50 putting a hatch in the in the walls for
+53:52 like an insulation wall or something
+53:54 like that.
+53:54 >> Yeah, I use that on my demo plants.
+53:56 >> Yes.
+53:57 >> Okay.
+53:58 >> That's what I always do.
+53:59 >> I love it when you I love it when you
+54:00 show somebody something and they've been
+54:01 using it for a long time. It's like,
+54:02 "How long has that been there?" It's
+54:04 always been there.
+54:05 >> Yeah. It's always been there. Yeah.
+54:06 That's the worst.
+54:08 >> But I get that, too. Sometimes I'll look
+54:10 at something. It's like, "How long? I
+54:11 didn't know that button was there."
+54:13 >> Yeah. When I'm doing demo plans, I'll
+54:15 I'll come in here. Bam. Hatch tool. Um,
+54:18 drop a little note
+54:20 and bam,
+54:22 there you go.
+54:23 >> It's great. Yeah,
+54:24 >> remove that wall. I love the hatch tool.
+54:27 I I I wish they would expand its
+54:29 capabilities. Um, I was going to show
+54:31 you this, Robin, because I know your
+54:33 students run into this problem, and I
+54:35 know you've run into this problem is,
+54:38 you know, here we go. Here's a 3D view.
+54:39 This tile looks great. And then we
+54:41 switch to those elevation views where
+54:43 it's vector
+54:44 >> and oh, what what the heck? That's not
+54:47 the tile we picked. Right.
+54:49 >> Right.
+54:50 >> Um and you probably at this point taught
+54:53 them how to um come into the texture
+54:56 panel and
+54:58 >> Yes.
+54:59 >> sit here and count the number of tiles,
+55:01 right? So, right.
+55:03 >> 1 2 3 4 5 6 7 8 9 10 11 12 13 and figure
+55:09 out, you know, divide this by 13, what
+55:11 the size of this thing is. It's inch and
+55:12 a 1516, whatever. um and revert it back.
+55:17 But the big one for me is we have a new
+55:20 tool where if if in the adjust materials
+55:25 property and I made a video about this
+55:26 so you can go watch it on my channel,
+55:28 but this keep pattern texture and sync
+55:30 when you finally have the pattern
+55:33 matching the texture. So let's just
+55:36 let's just say that it does for um an
+55:39 example sake. Let me change this to
+55:42 Oops.
+55:46 Let's just say it's close enough. Um, if
+55:49 that's unchecked,
+55:51 if you turn on the method of line
+55:54 drawing over texture. So, that just
+55:58 turned on the line drawing. Okay, let me
+56:01 switch this to standard view with a line
+56:03 over.
+56:05 So, there's the lines,
+56:08 right?
+56:10 If you use the new tool chief architect
+56:12 gave us this guy right here,
+56:17 you can move
+56:19 >> tool. Oh,
+56:20 >> it's the interactive material material
+56:22 editor that is in um
+56:26 >> adjust materials interactive material
+56:28 editor.
+56:29 >> Okay.
+56:30 >> Okay. You click on your texture in
+56:34 whatever scope you want. I'm in plan
+56:35 mode. And you get to move that texture.
+56:38 We'll notice because this material has
+56:42 keep texture and pattern synced is
+56:45 unchecked. It's not going to move the
+56:47 pattern with the texture right now.
+56:49 Which means I can get this
+56:51 >> line it up
+56:52 >> lined up here. And once I've got it
+56:55 lined up and I'm ready, then I'd go back
+56:58 into this check keep pattern and texture
+57:01 in sync. And then next time I go and and
+57:04 try to move that around, it will move
+57:06 that pattern with the tile.
+57:11 >> Nice.
+57:13 >> Yeah. And that's one.
+57:16 >> Yeah. We used to have to guess at that
+57:17 like a million times over just to try to
+57:19 get that all lined up. So
+57:22 >> yeah, there's my little there's my
+57:23 little designer tip. I I run into that
+57:25 with all the interior design people that
+57:28 I love it too when people were like, I
+57:31 put in the pattern two and six and it's
+57:33 not a two and six inch pattern in the 3D
+57:35 view and they and they don't understand
+57:37 that there's no real true correlation
+57:40 between the two,
+57:42 >> right? That's great. But it doesn't it's
+57:44 not lining up. If you look at the top,
+57:46 you have an extra line in there at the
+57:47 top and in the bottom.
+57:49 >> Oh, well, because I didn't actually put
+57:50 the right dimensions in.
+57:51 >> You didn't put the right size in, right?
+57:53 Okay. I don't know what size this tile
+57:54 is.
+57:56 >> It looks like that tile from Brosan.
+57:58 >> Maybe
+57:58 >> that or the really expensive stuff from
+58:00 An Saxs.
+58:02 >> This is one of those like 3D ones that's
+58:04 like some of them are 3D and some of
+58:06 them aren't.
+58:07 >> Yeah, it's a great tile. The Joian has
+58:09 that. That's really cool.
+58:12 >> Or is it like a wow tile? Probably. I
+58:14 don't know. I like that.
+58:15 >> Well, we did really well covering by
+58:18 chatting just about a lot of other
+58:20 things.
+58:22 >> Yeah.
+58:23 Can can you believe we are we already
+58:26 have just one more show for 2025?
+58:29 >> Oh, that's pretty wild.
+58:30 >> Yeah.
+58:31 >> Yeah.
+58:32 >> Oh my goodness.
+58:34 Yeah. Yeah. That's kind of crazy to
+58:37 think about that. That's where we are
+58:39 now.
+58:40 >> And it only it only took me to now to
+58:43 actually putting it in my calendar um
+58:45 for every first and third Friday.
+58:47 [laughter]
+58:51 Nicely done.
+58:52 >> I just figured out how to do that. I
+58:54 feel like we should share these kind of
+58:55 tips. I had no idea you could do that.
+58:57 Um I couldn't do first
+59:00 >> Yeah, I couldn't do first and third
+59:02 Friday, but I could do every first
+59:04 Friday as one event and every third
+59:06 Friday as another event.
+59:07 >> There you go.
+59:08 >> Yes, I think that's what it has to do.
+59:10 >> Yeah, man. There is so many life skills
+59:12 you got to know to be in this industry.
+59:14 It's crazy. I mean, we got to manage all
+59:16 kinds of stuff.
+59:18 >> You know what's so funny? I love it
+59:20 when, you know, finals week is next
+59:21 week, so my students are literally
+59:23 blowing up, right? And they're taking
+59:25 like three studio classes and then maybe
+59:28 an academic class. So, they have three
+59:30 big projects. And, you know, of course,
+59:34 they're learning in the whole bit. And I
+59:35 I I don't have a lot of empathy for them
+59:38 [laughter] because I'm like, in the real
+59:40 world, you're going to be running 20
+59:42 jobs at a time.
+59:43 >> Yeah. It's going to get harder
+59:44 >> easily. 20 jobs. And when I tell them
+59:46 that, their their brains just go, "How
+59:49 do you do it?" Well, then you have to
+59:50 explain you're not all at the same
+59:52 level, right? Um, but 20 jobs, right? I
+59:56 mean, that's pretty realistic. Most of
+59:58 us run between 15 and like 25 jobs
+1:00:01 depending upon the size of your
+1:00:03 business. You know, you're in talking
+1:00:06 about the, you know, you haven't signed
+1:00:07 a contract yet or you just signed the
+1:00:09 contract, you're just in design, you
+1:00:11 know, it's just in each different
+1:00:13 phases. And then some of them are you're
+1:00:15 waiting for to do photography. So some
+1:00:18 of them are like at the ends and they're
+1:00:19 not really
+1:00:20 >> do the photography. [laughter]
+1:00:22 >> Some of Yeah. Then of course you do your
+1:00:24 photography,
+1:00:26 >> you know, and then and then I did the
+1:00:27 post edits and then I put together the
+1:00:29 pamphlet and Yeah.
+1:00:31 >> Yeah.
+1:00:32 >> Um I actually want to mention another AI
+1:00:34 my good friend Melissa Nunes who's
+1:00:37 another designer that uses Chief. She
+1:00:38 came by the house yesterday and and um
+1:00:42 and we hadn't visited in a while. and we
+1:00:43 had worked side by side in a while and
+1:00:46 uh we were talking about AI and she's
+1:00:47 like uh I use this one called recall.
+1:00:50 Now I haven't checked this out yet but
+1:00:52 she was talking about it and recall AI
+1:00:55 is just supposed to be able to take
+1:00:57 everything that you've ever told it as
+1:01:00 context and information for the next
+1:01:02 thing that you might tell it. including
+1:01:05 um like even sending like Instagram
+1:01:08 posts to people and stuff like that.
+1:01:11 Like you can it can somehow just so if
+1:01:14 you're someone like me that doesn't
+1:01:15 remember the thing I said five minutes
+1:01:17 ago.
+1:01:19 I'm going to go check it out. I might
+1:01:20 buy it. There's but there's a free
+1:01:22 version.
+1:01:23 >> Well, that's
+1:01:26 encouraging to know Renee that you don't
+1:01:28 remember things you said five minutes
+1:01:29 ago because I feel the same way.
+1:01:33 But John, you're old and ready.
+1:01:36 >> So, thanks, Robin. So, I'm looking for
+1:01:39 something like that that's going to give
+1:01:40 me a synopsis of everything I said all
+1:01:42 day, even though I don't want something
+1:01:44 listening to me all day.
+1:01:45 >> Yeah. Right. Yeah. [laughter]
+1:01:49 >> That's so funny.
+1:01:50 >> Yeah. I'm I'm I'm going to check it out
+1:01:52 because next show I'll maybe I'll have
+1:01:54 some info and and share my experiences
+1:01:57 with it.
+1:01:59 >> I'm looking at Vickiy's comment here.
+1:02:00 It's encouraging to know that there are
+1:02:02 things in Chief that even you guys don't
+1:02:04 know were there.
+1:02:05 >> Oh yeah.
+1:02:07 >> I don't think there's anybody.
+1:02:10 >> Anybody even even people at Chief don't
+1:02:12 know the full capability of that this
+1:02:15 program?
+1:02:15 >> Absolutely not.
+1:02:17 >> Vicki there's you and we Vicki you could
+1:02:19 sit with us and show us something that
+1:02:21 we don't know because you use everybody
+1:02:23 uses the program so differently.
+1:02:26 Everybody uses a program so differently
+1:02:28 and you'll you're amazed, right? It's
+1:02:31 all it's such a huge program. That's the
+1:02:34 thing that's so much fun about it is
+1:02:35 because every day you every time you use
+1:02:37 it, you learn something new.
+1:02:42 >> Yeah, you should see my schedules. I did
+1:02:43 a I was working with somebody yesterday.
+1:02:45 I know we're over, but I was showing
+1:02:48 somebody how to do schedules yesterday,
+1:02:49 and I was like, "Oh, I didn't know I
+1:02:51 could do it like that." And I just I
+1:02:54 love schedules. Schedules are my happy
+1:02:56 place. I hate writing specs and chief
+1:02:58 schedules.
+1:02:59 >> Oh, you want to see you want to see
+1:03:00 something you didn't know you could do
+1:03:01 in schedules? I'll show you something.
+1:03:03 >> Let's see this. I've been putting my
+1:03:05 URLs in um in um my schedules and my
+1:03:11 contractors are so thrilled because
+1:03:13 everything, all my specs are right
+1:03:14 inside my schedule. And if you if you
+1:03:17 print a PDF that has a URL and it's and
+1:03:20 it's addressable URL, most PDF readers
+1:03:23 will click on it.
+1:03:24 >> Yeah, it's great.
+1:03:27 >> Yeah. Um
+1:03:30 I didn't know until this year that you
+1:03:32 can write macros into your schedules.
+1:03:36 So, for instance,
+1:03:40 I want you to notice that the heading of
+1:03:44 my schedule column is going to be info,
+1:03:49 but I put a macro in here that says,
+1:03:53 "Hey, this is actually where the input
+1:03:55 for this particular bit of information
+1:03:57 is coming from, but this is what's going
+1:04:00 to display in the schedule." And that
+1:04:03 executes. And I had no idea that that
+1:04:05 was true until this last year. Something
+1:04:08 else is that um
+1:04:12 for these uh schedule columns, I can
+1:04:16 even make it so that
+1:04:18 if my plan name has -AB in it for
+1:04:22 asbuilt, then my schedule heading would
+1:04:26 be like demo. But if it says dashn in
+1:04:29 it, then it says, you know, floor notes
+1:04:33 and like I didn't know that was
+1:04:35 possible. And now it is. And that's I
+1:04:37 mean that's pretty slick because you get
+1:04:38 to just use, you know, one template for
+1:04:40 both functions and
+1:04:43 the actual heading changes.
+1:04:45 >> Renee is king of macros. I want to know
+1:04:47 what a Dolly Parton fish is. Somebody
+1:04:49 needs to tell me what a Dolly Parton
+1:04:51 fish is.
+1:04:52 >> A Dolly Parton fish.
+1:04:54 >> Yes. A paracad.
+1:04:56 Oh, is that Mike? You changed your name.
+1:04:59 >> No, he's got a couple different ones he
+1:05:01 shows up with.
+1:05:02 >> Got it. I want to know what a Dolly
+1:05:03 Parton fish is. [laughter]
+1:05:05 >> I didn't know that it was or he's just
+1:05:06 teasing.
+1:05:09 >> Dolly Parton.
+1:05:11 >> I don't know if it's Dolly Part if it's
+1:05:13 a fish.
+1:05:14 >> I think he's just talking about Dolly
+1:05:16 Parton.
+1:05:16 >> Did he correct it already? Is it Varden?
+1:05:20 >> Varden. Dolly Parton. Okay, it is Martin
+1:05:23 Varden. [laughter]
+1:05:27 >> There you go. AI
+1:05:28 >> two different ways. Okay, you guys.
+1:05:31 >> He's talking in
+1:05:34 >> Thank you guys for staying and
+1:05:36 listening. This was a great
+1:05:37 conversation. It
+1:05:37 >> was fun.
+1:05:38 >> Um, have everybody have a great day.
+1:05:40 >> Yep. All right.
+1:05:41 >> Bye.
+1:05:42 >> Bye.

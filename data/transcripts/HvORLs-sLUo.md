@@ -1,0 +1,1458 @@
+---
+videoId: HvORLs-sLUo
+title: Template Tuesdays #4 - Material Lab 1
+url: "https://www.youtube.com/watch?v=HvORLs-sLUo"
+status: imported
+---
+
+# Transcript
+
+0:00 Welcome.
+0:01 Temple Tuesdays.
+0:03 I forgot to announce this one, but
+0:06 here we are.
+0:07 >> [laughter]
+0:09 >> Uh let's see. This Today I was just
+0:11 going to go over creating some materials
+0:14 and um
+0:16 I'm contemplating shortening these to 30
+0:18 minutes until we get um more live
+0:20 attendees, but uh we'll see we'll see
+0:21 how it goes. Let's see how I feel about
+0:23 that. I don't think I've ever done
+0:25 a live anything in less than 30 minutes,
+0:28 so I don't know if I can stick to that.
+0:31 Um let me switch to my main camera here
+0:34 and get the chat going. Good. All right.
+0:38 Um I realized from last last episode
+0:40 when I dragged my chat onto the screen,
+0:42 it doesn't actually record, so you guys
+0:44 couldn't see what I was looking at
+0:45 regardless.
+0:47 Uh so I got to find a way to pin some
+0:48 chat, but um
+0:50 I'm going to start with maybe a little
+0:53 bit more difficult of a texture to
+0:57 create and we're going to try to make uh
+0:59 this in Photopea. I've been really
+1:01 trying to get used to Photopea. It's so
+1:04 similar to Photoshop that it's not that
+1:07 much of a transition. Um Photoshop's way
+1:10 easier for me, but Photopea can still
+1:12 get the job done.
+1:13 So I'm going to start with Um this was
+1:15 posted on our users of Facebook Cheap
+1:17 Architect users of Cheap Architect
+1:20 Facebook group.
+1:21 And
+1:23 and so this is This is the texture I'm
+1:26 going to start with. Um
+1:28 I'm just going to start by doing a big
+1:29 screen clipping here.
+1:32 I'm going to get a big I just got a big
+1:34 sample here middle.
+1:36 Just open up Photopea
+1:40 a little paste.
+1:42 All we need to do.
+1:46 We're going to see how this show goes
+1:47 cuz my I can tell that my computer is in
+1:50 desperate need of a reboot.
+1:54 It's uh it's slowing down
+1:57 pretty significantly.
+1:59 See how that go.
+2:01 Um okay, so do a little paste action
+2:03 here. There we go. Now
+2:06 I'll start by doing um we need
+2:09 [clears throat] to make this seamless,
+2:10 so that's part of it. And then the next
+2:12 part about this is um making a normal
+2:14 map. And so this is really the reason
+2:17 that I think this is a difficult
+2:19 texture. You know, a lot of people will
+2:21 just do screen clipping and and maybe
+2:24 figure out how to
+2:25 generically get it to to be seamless and
+2:28 then leave it at that and and not worry
+2:30 about the quality of it um because
+2:32 they're just trying to get to the next
+2:33 project, right? But I like to make
+2:35 things that I can use over and over
+2:37 again and are going to look um
+2:39 excellent. They're going to be up to my
+2:41 standard of PBR textures, which is I
+2:44 want a normal map that makes a lot of
+2:45 sense. So
+2:47 um
+2:48 that being said, um that process is a
+2:50 little bit more complicated on stone,
+2:53 namely because you have all of this um
+2:56 all of this variation in color and
+2:58 everything in the stone, so that when
+3:00 you go and try to get a automatically
+3:02 generated normal map, it's pretty
+3:04 difficult to get some of this detail out
+3:06 of the stone so that the normal map
+3:08 looks as good as it could possibly look.
+3:11 Um
+3:12 and it's hard to just describe that
+3:14 without showing you.
+3:16 What I'm going to start with here is a
+3:18 perspective crop mode, okay?
+3:21 And uh and hello Anthony and hello
+3:23 Merlin Phillips. They're in the live
+3:25 chat right now and um
+3:27 and thank you for joining me.
+3:29 And so I'm going to get to the crop tool
+3:32 and from there I'm going to um
+3:36 hold on it, okay? And then we see that
+3:39 we can get to the perspective crop tool.
+3:41 Now another way to do this in Photoshop
+3:43 is you would hit C, but you would
+3:45 actually then hit shift C. Um so if I
+3:49 hit shift C, does that do anything? No,
+3:51 because in a web interface that's going
+3:53 to do something else. Um alt C doesn't
+3:56 seem to do anything. Shift alt C doesn't
+3:58 seem to do anything. Yeah, so we can't
+4:01 get to this through hot keys. You have
+4:02 to click and
+4:05 hold. So far that I can tell. Um there
+4:08 there may be some way of doing it, but
+4:10 uh so I want to get this into a
+4:14 perspective crop, so I'm
+4:16 I'm actually changing the bounds of the
+4:19 crop box to match the perspective of the
+4:22 shot that we screen clipped, okay? So
+4:26 what this will do is it will edit the
+4:29 pixels and crop uh
+4:32 the pixels outside of the crop area out
+4:35 and then um
+4:37 skew this image based on that
+4:40 um skewed crop box, okay? So you just
+4:44 want to try to get this as close to uh
+4:46 the
+4:47 the
+4:49 correct perspective of the shot.
+4:52 And then once we're done, just hit the
+4:53 check box up there and look at that. It
+4:56 does a really good job.
+4:58 And from here I want to just examine
+5:00 this texture and I'm what I'm looking
+5:02 for is [clears throat]
+5:04 some area that might be flat all the way
+5:06 across or close to it is my first look.
+5:09 And so we can see an area right here
+5:12 that's almost flat all the way across.
+5:14 And then I want to look down here and
+5:15 see if I can find a similar area. And
+5:18 really that looks like it right there.
+5:20 It looks pretty close. So that's going
+5:22 to make my life easier if I crop along
+5:24 those lines. So I'm going to
+5:26 hold on the crop tool again, get to the
+5:29 um original crop tool and I'm going to
+5:31 bring this down and I'm going to leave a
+5:33 little bit over in this case, like that.
+5:38 And on this down here
+5:41 and maybe I'll just cut right through
+5:43 that
+5:44 that grout line.
+5:46 Yeah, I'm going to cut right through
+5:47 this grout line like that. And down here
+5:50 I'm going to do something really close
+5:53 to that.
+5:55 Just hit enter and okay. It might be
+5:59 pretty close to a seamless texture.
+6:01 Let's take a look.
+6:04 So we're going to go into the view and
+6:06 then get into pattern preview.
+6:09 Just
+6:11 I'm looking at top to bottom right okay?
+6:14 So just top to bottom, that looks really
+6:17 good. Like once we get past where that
+6:20 image is coming from and we're just
+6:21 looking you know, if we look at this
+6:23 really close, we're just looking down
+6:26 this run right here. Can we see where
+6:28 it's cropped? Can we see where that seam
+6:31 is top to bottom? That's what we're
+6:32 looking for.
+6:34 So that seam top to bottom I mean I
+6:36 think I got it right on the money.
+6:38 That's pretty good.
+6:39 So for side to side we're going to do
+6:42 something a little bit different. So let
+6:43 me turn off that pattern preview and let
+6:45 me get back up into the window. Hold
+6:47 space bar and then left click your mouse
+6:50 to drag and pan your extents, okay? And
+6:54 you can hold alt and mouse wheel to zoom
+6:57 in, okay?
+7:00 And so now I'm going to do something I
+7:03 often do, which
+7:04 is let me switch to the rectangle
+7:08 rectangle select,
+7:10 okay? I'm just going to actually do a
+7:12 control A, control C copy. I'm going to
+7:16 do image canvas size and we're going to
+7:20 times two.
+7:23 And so that's just times two in the
+7:25 width this time. And we can put an
+7:27 anchor on the far left if we want. It
+7:30 would be easy to just control V paste.
+7:33 Hit the V key to move. Move this guy
+7:36 over like this.
+7:39 And then in Photopea it's control alt T
+7:42 to transform and right click
+7:45 and flip horizontally.
+7:47 And so what we're doing is we're faking
+7:50 a seamless texture. Now this is not a
+7:53 great
+7:54 representation of seamless texture. That
+7:56 middle section looks like we've got a
+7:58 waterfall effect. It's pretty strong,
+8:00 right? So it's not the not the best take
+8:03 on a seamless texture. What we might do
+8:05 instead, and this is going to be very
+8:07 destructive in terms of the workflow,
+8:10 and by destructive means we're
+8:12 destroying pixels. We're ruining this
+8:15 image in some way,
+8:17 is that I might try to crop this in the
+8:19 middle of all the big rocks.
+8:22 So I'm going to hit the crop again and
+8:24 we can see, you know, especially this
+8:26 really long one. Maybe we'll crop right
+8:28 to the middle of that.
+8:31 Um
+8:36 I think maybe right here would be
+8:42 Just examining everything here.
+8:45 All right, so let's do that instead. So
+8:46 let me try this one more time.
+8:49 Canvas size and this just this is
+8:52 experience. If I got this right, this is
+8:54 just experience. Um I've just done this
+8:57 so many times.
+8:59 So
+9:00 don't feel disheartened. Takes a little
+9:02 practice. You're going to have to mess
+9:03 around with this.
+9:09 So this should have
+9:11 Oh, when I used the crop tool, it did
+9:14 not delete um the pixels. So in the crop
+9:18 tool here at the top when you if you
+9:20 want to delete pixels that you crop, you
+9:23 have to check this box. By default it
+9:25 leaves them so that you see when we
+9:26 expanded the canvas um the texture
+9:29 underneath actually didn't have um a
+9:31 deleted portion.
+9:33 So that part where I split this one
+9:36 didn't actually get deleted. And so let
+9:38 me do my control alt T.
+9:42 Flip horizontally.
+9:44 So now we actually have some pixels to
+9:46 work with if we wanted to.
+9:50 So this is looking better.
+9:54 There. We're going to have some things
+9:56 to fix.
+9:59 But yeah, that looks better.
+10:02 So, the things to fix now is I'm just
+10:05 going to
+10:06 again this is destructive. We're
+10:08 destroying pixels.
+10:10 If you are ever curious about doing a
+10:12 workflow that is non-destructive where
+10:15 we can retain all of the original pixels
+10:18 and utilize them and change them you
+10:21 know and revert back to them. That's a
+10:23 different workflow. Um
+10:25 And and that's a safer workflow, but
+10:27 I've got a lot of experience. I kind of
+10:29 know I can repair anything I mess up.
+10:30 So, I'm often times in a very
+10:32 destructive workflow. And so, I'm going
+10:35 to take these two layers over here by
+10:37 shift selecting them both hit Ctrl G to
+10:39 group them Ctrl E to stamp them. So,
+10:42 I've just destroyed a bunch of pixels to
+10:44 create some new image. And so, this is
+10:46 my new image now.
+10:48 And so, I'm going to work from this.
+10:50 Now, I'm going to use the stamp tool by
+10:51 hitting S and I'm going to hold the Alt
+10:54 key to sample something. And what I'm
+10:57 going to do is I'm going to force a
+10:58 little grout line into here.
+11:00 Or I might even replace this section
+11:03 with some other tile with some other
+11:06 stone that I see in this shot. So, the
+11:09 other stone that I might replace it with
+11:12 is
+11:13 I'm just going to go with this. So, I'm
+11:15 going to Alt click here and now it's
+11:17 going to show me a preview of what I'm
+11:18 painting with.
+11:20 Okay, and so that's
+11:21 I wanted to replace
+11:24 this stone right here. And so, what I
+11:26 could do is I could do down at the very
+11:28 bottom of the screen I could do a new
+11:30 layer.
+11:32 And
+11:33 change the source to all layers in this
+11:37 case. So, I'm sampling from a different
+11:40 layer, but I'm painting on top of my
+11:43 existing. I'll show you why I'm doing
+11:45 that in just a second. But I'm going to
+11:47 start painting right here.
+11:49 Okay, and this gets me that stone.
+11:53 So, I'm swapping that stone out.
+11:56 Basically.
+11:58 All right, and I might just resample
+12:00 here.
+12:01 Bring this
+12:02 down a little bit.
+12:04 There we go. Something like that.
+12:06 Now
+12:09 I'll show you how
+12:12 I can clean this up is I'm just going to
+12:14 generate a mask on my painting layer.
+12:18 I'm going to switch to the brush tool
+12:20 and if I paint and switch my foreground
+12:23 and background brush to a black brush,
+12:25 look I get the paint away and clean this
+12:28 up
+12:29 via a mask.
+12:31 So, I'm just masking this back out to
+12:34 get this to look more accurate.
+12:36 So, there we go. Now, I've got a new
+12:39 stone in this area. It just needs a
+12:41 little bit of clean up.
+12:43 There we go. I could come back to this
+12:45 maybe one more time. And let me just
+12:47 make sure the mask is cleared up here.
+12:49 I'm going to make clear this mask out up
+12:51 here.
+12:52 But I can repaint
+12:54 some stone into this area.
+12:57 So, I'm switching back to my switch back
+13:00 to my texture as opposed to the mask.
+13:02 Selecting the texture now. I'm going to
+13:04 go back to that stamp tool. Stamping
+13:06 from right there.
+13:08 I'm just going to paint in right here.
+13:10 I'm going to Alt click
+13:12 right mouse
+13:14 drag my mouse up to soften my brush.
+13:19 Okay, softening my brush. There we go.
+13:22 I'm changing the size.
+13:23 So, I'm kind of feathering this stone in
+13:26 just like that.
+13:28 And I'm going to just over paint there.
+13:31 Get back to the mask.
+13:33 Burn that brush up.
+13:36 Clear this
+13:39 stamp tool. Clear that
+13:42 There we go.
+13:43 And so, that's just cleaning up just
+13:44 that one stone. So, we replace that one
+13:46 stone.
+13:47 Easy enough.
+13:48 And howdy Cody Starr. Thanks for
+13:50 joining.
+13:51 Um so, next thing up
+13:53 that got rid of that that that was
+13:55 great. We might do the same or similar
+13:57 thing right here where we're just going
+13:59 to take this as a stamp source.
+14:02 So, take that as a stamp source.
+14:05 Um
+14:07 There we go and we're going to get a a
+14:09 grout line in right here.
+14:12 And let's see why are we not seeing
+14:14 anything? Because
+14:16 Um you know what? Do a new layer.
+14:18 Just
+14:19 source all layers stamp there. There we
+14:22 go.
+14:24 Here.
+14:27 Clean this up.
+14:28 This.
+14:33 Honestly, pretty good.
+14:35 Oops, except for that part right there.
+14:43 This is where it's very helpful to have
+14:44 a graphic pen tablet. I actually do. I'm
+14:46 using my mouse right now. So, just to
+14:49 show you that you can use a mouse, but
+14:51 this is way easier to do with a graphic
+14:53 pen tablet
+14:54 I would say.
+14:55 Um
+14:57 Let's get a little action in here.
+15:01 Little guy up.
+15:02 Same thing here.
+15:07 Couple of times. This is nice when you
+15:08 do a nice soft stamp. You're going to
+15:11 get better blending with a soft stamp.
+15:18 Look better.
+15:20 Yeah, so and then we want to just break
+15:22 up a couple of these.
+15:23 So, that um
+15:29 This. Maybe get it off center a little
+15:31 bit. That's going to better.
+15:33 There we go.
+15:35 All right, it's getting there.
+15:39 Sometimes you might want to just
+15:41 completely replace with a section.
+15:44 So, that it just looks more natural.
+15:49 Experiment. Play around. See what you
+15:52 can get going on with this.
+15:56 And so, if we make this now, let's just
+15:59 do our pattern preview now.
+16:04 Okay.
+16:05 Now, we see a really strong pattern
+16:07 which is those really big stones. So,
+16:09 ultimately it'd be nice if we could get
+16:12 rid of some of those big stones.
+16:15 But other than that, this is looking
+16:16 pretty good.
+16:21 And so, is there a really quick way of
+16:23 doing this? You know, you could try some
+16:26 some generators that might have made
+16:28 this seamless.
+16:30 Ultimately, the best texture is going to
+16:32 be one that you make. Is it worth your
+16:33 time? Maybe it's not. And so, this is
+16:36 why
+16:37 I view this as almost like a hobby.
+16:41 Cuz I'm certainly not making money on
+16:43 generating textures like this, but
+16:45 you know, it's it becomes a passion
+16:47 project. I end up just enjoying doing
+16:50 this over time.
+17:03 So, we're going to see this completely
+17:05 complete hour. See this through to the
+17:08 end.
+17:11 Let me know what questions you have
+17:13 along the way.
+17:14 That really broke that up. Did a pretty
+17:16 good job honestly.
+17:20 Do a little here.
+17:22 Spot filling. Like the shape of this.
+17:26 There.
+17:29 Grout right there.
+17:31 Um
+17:32 This guy.
+17:35 So.
+17:36 Need to maintain the seamless part of
+17:38 this. So, got to make sure
+17:41 the line
+17:44 Up.
+17:53 I got work rid of one big rock. Let's go
+17:55 for another one.
+17:59 See, I'm looking at the shape of this
+18:01 and I'm looking for just something
+18:03 that's a stack that's a similar shape is
+18:06 what I'm doing when I'm doing the little
+18:08 stamp action here.
+18:10 Just trying to find something that might
+18:12 be a similar shape.
+18:14 Doesn't look like it would repeat too
+18:16 bad.
+18:17 So.
+18:20 See.
+18:21 Maybe we'll just
+18:23 take this stone.
+18:32 That.
+18:56 Remember you can always mask things out
+18:58 when you over paint.
+19:03 Reference here right here.
+19:06 Let's take a look at this.
+19:09 Really, you should get rid of all those
+19:10 big stones.
+19:12 No matter what they're going to look
+19:13 like.
+19:15 That's the biggest problem this texture.
+19:17 Big stone is going to look
+19:27 Unless you just
+19:28 made a much larger sample.
+19:31 Got rid of just a couple of those
+19:32 stones.
+19:35 So, do we do it? Sure, let's get rid of
+19:37 it.
+19:44 Our new
+19:46 sample.
+19:49 Big fat grout line here.
+19:57 There we go.
+20:02 Yeah, that breaks it up at least a
+20:04 little.
+20:41 Yeah, who needs therapy? Go make some
+20:44 textures.
+20:45 Very therapeutic.
+20:55 All right, I think I'm liking this.
+20:57 Let's see what this looks like.
+20:59 Yeah, that looks pretty dang good.
+21:04 Pretty dang good. Let's go and export
+21:06 this and
+21:07 take this out in
+21:09 We're going to take this and create a a
+21:10 normal map for this next, so
+21:12 export this as a PNG.
+21:17 And everything looks good there.
+21:19 Name it. We have no idea what the name
+21:21 should be.
+21:22 >> [clears throat]
+21:22 >> Um
+21:24 Yeah.
+21:28 Let's say stone. This is a terrible
+21:30 name. You should not do this. I'll put
+21:32 Tuesday stone.
+21:34 Go.
+21:35 Um that weird sliver, you know what? I
+21:37 got to fix that. I didn't see that
+21:39 before. I don't know what happened
+21:40 there.
+21:42 Fix that up.
+21:44 That weird sliver stone and a little
+21:46 baby stone. Why didn't you guys tell me
+21:47 that?
+21:49 You guys aren't paying attention in the
+21:50 chat. I know you aren't.
+21:52 Don't lie to me.
+21:53 >> [laughter]
+21:56 >> What happened there?
+21:57 Uh shoot. So, here's what I need. I need
+22:02 I need a new new layer.
+22:06 Yep, tool.
+22:08 Forget.
+22:10 This
+22:12 to extend this stone and create one
+22:15 stone out of it.
+22:21 So,
+22:23 so that we're continuing
+22:25 stone through.
+22:28 Get rid of that silly little sliver.
+22:31 And
+22:33 um
+22:36 Yeah, this would be a really long stone
+22:38 if we do this, but maybe
+22:42 Yeah.
+22:51 Yeah, thanks. Thanks, Cody. Cody just
+22:54 chimed in and says I have a giant stone
+22:56 a giant arrow head stone.
+22:59 Yeah, and somehow I messed up um look at
+23:02 this weird
+23:05 repeating thing at the top. I don't know
+23:07 somehow I messed that up. I don't know
+23:08 when I did that.
+23:10 I like stamped something on the top
+23:13 some point and screwed it up.
+23:16 Or the pattern preview is screwing up.
+23:20 Yeah, what is that coming from?
+23:26 Weird pattern preview is showing some
+23:28 weird stamping thing.
+23:31 That's not actually true. It's not in
+23:32 here. See it, so I don't know what
+23:34 that's
+23:35 from.
+23:37 Yeah.
+23:39 All right, we're going to run with it.
+23:40 See what happens.
+23:50 Okay, so I'm going to test this first in
+23:53 in Chief Architect just to see what it
+23:55 looks like.
+24:34 Import our new map.
+24:40 Size it the way you want. Let's see 1 2
+24:42 3
+24:44 about 25, so let's
+24:54 25 times.
+24:59 That seems like it might be large.
+25:02 Let's down it.
+25:06 Do it.
+25:12 That's stretched somehow.
+25:15 Oh, I'm inverted. That's why.
+25:30 Yeah, I mean that that does not look
+25:31 bad.
+25:34 Uh it's pretty good as a start.
+25:48 Yeah, I'm liking that. Okay.
+25:51 Uh next I'm going to use a free utility
+25:53 and if you're wondering where I'm
+25:54 getting these utilities cuz we're going
+25:56 to try a couple more textures is that
+26:00 you can go to my website,
+26:01 rabbitdesign.net.
+26:05 Yeah, uh Cody says and this is why
+26:06 making good materials takes a lot of
+26:08 time. It does. Um I would be very
+26:11 curious to see what we could have gotten
+26:13 from
+26:15 um
+26:16 I can get back to this. What we could
+26:18 have gotten from our base layer.
+26:20 Just this layer right here about
+26:23 making seamless.
+26:26 Cuz this was us just
+26:28 duplicating back on itself.
+26:30 Yeah, if we open up another instance of
+26:32 Photopea
+26:34 and we went to
+26:37 Oh, that's interesting. It just opens up
+26:38 your your active session.
+26:42 It's like cached or something. Maybe if
+26:43 I did a new incognito window, it would
+26:46 let me do a new one.
+26:48 Um
+26:49 That would be the trick. Let's just try
+26:51 that real quick. So, new in incognito
+26:53 window
+26:55 Photopea
+26:56 seems to be
+26:58 that works fine.
+27:00 And open from computer and let's just
+27:02 take that original screen clipping
+27:05 and we're going to do the perspective
+27:07 crop.
+27:09 Oh, you know what? Shift C did work. I
+27:11 just tried Shift C. When I said it
+27:12 didn't work earlier, it just worked for
+27:15 me, so just know if I hit Shift C, I'm
+27:18 cycling through the different crop
+27:20 modes.
+27:21 And so I'm going to crop right here,
+27:23 right? And then I'm going to just export
+27:26 this right now.
+27:29 Which can't do from a hot key. That's
+27:32 what I was doing. Export as a PNG.
+27:35 And let's try
+27:37 seamless test.
+27:41 And so I'm going to go to my website and
+27:44 use some of the resources there.
+27:47 So,
+27:50 in the menu
+27:52 down at the bottom, texture creating
+27:53 tools.
+27:55 And we'll see if we could have skipped
+27:57 the line and all that process that I
+27:59 just did by going here.
+28:01 Image online
+28:04 etc. And so, here we get to choose a
+28:07 file.
+28:12 Choose this file.
+28:15 Scattered edges, smoothed collage. Let's
+28:18 see restoring frames.
+28:21 Mainly for small stones, preferably for
+28:23 grout. We're going to stick with
+28:24 scattered edges.
+28:35 Output image is going to be PNG.
+28:39 Let's press okay. Let's see how this
+28:41 does.
+28:44 That wow, that processed
+28:46 really fast. Um open processed texture.
+28:51 So, apparently this is seamless now.
+28:55 Okay.
+29:00 Let's try it.
+29:07 And we'll come back to Chief. Let's see
+29:08 if we can cut all that work out that we
+29:10 just did.
+29:15 It's still a little different ratio.
+29:20 Does not look like it's seamless from
+29:21 here.
+29:22 >> [laughter]
+29:25 >> I mean,
+29:27 that's not terrible.
+29:32 Yeah.
+29:33 It did okay.
+29:36 I don't want it.
+29:38 >> [laughter]
+29:38 >> My other texture was better, but
+29:40 it did okay.
+29:42 Um maybe we could have started from
+29:44 there and cleaned that up.
+29:48 Yeah, I'm going to go back to mine. Mine
+29:49 looks better, but yeah.
+29:52 So, that resource is there if you want.
+29:53 We'll look at some of the other
+29:54 resources there. This is on that page is
+29:57 Shader Map Forest. It's a free
+30:00 um free tool to do a number of different
+30:03 things. I only use it for its
+30:05 capabilities of of doing normal maps um
+30:08 cuz I love the the adjustments
+30:11 that it gives us.
+30:17 Which one was the new one?
+30:20 Shoot.
+30:21 I don't know which one I
+30:22 There it is.
+30:24 Okay.
+30:26 Yeah, and so this is generating
+30:29 you know, roughness map that then
+30:31 generates a normal map
+30:34 and we get a good preview of it and now
+30:36 we get to just clean it up. So, you're
+30:38 going to click on this center map here.
+30:42 And yeah, I agree. Cody said, "Windows,
+30:44 doors, and other things can break up
+30:46 pattern and
+30:48 um
+30:49 Yeah, it's it's nice to kind of just get
+30:51 the experience of making these textures
+30:53 knowing what you're going to run into
+30:55 when you're going from an exterior
+30:57 texture to an interior texture and what
+30:59 might matter and how that shows up. So,
+31:01 um knowing that, you know, your walls
+31:03 are going to get broken up by a
+31:04 architectural features, so your stone
+31:07 doesn't necessarily have to be the most
+31:08 perfect thing.
+31:10 And so, here I love the test auto edge
+31:14 because um that can immediately get me
+31:17 some improvements in stone textures. So,
+31:19 we immediately saw that difference in
+31:22 auto edge.
+31:24 It is [clears throat]
+31:25 it seems to have
+31:26 normalized the bumpiness in the stone
+31:29 and really made the grout stand out,
+31:31 which I like.
+31:33 And then
+31:35 um
+31:36 scaling high pixels, you know, I I
+31:38 briefly looked at the software last
+31:40 Template Tuesday and explained what
+31:42 scaling high pixels is. We'll do it a
+31:44 little bit of it that again, which is if
+31:47 you've got a map that largely is dark,
+31:50 okay, scale Those are the high pixels,
+31:54 right? Those are the high values. Zero
+31:56 being white, 255 being black. And so,
+32:00 um if we take the the darker range and
+32:03 we scale them, we're basically shrinking
+32:05 the range. We're saying, "We're not
+32:07 going to go from 0 to 255. We're going
+32:09 to go from 0 to 100 now." You're
+32:11 basically splitting every number for a
+32:14 grayscale in half.
+32:16 And so, what you're doing is you're
+32:17 making it so that there's
+32:20 um a less of a gradient between, you
+32:22 know, white to black. And what does that
+32:25 do? Well, it kind of bunches things
+32:26 together or maybe groups things
+32:29 together. So, if you scale the high
+32:30 pixels, um
+32:33 we're going to get everything that was
+32:34 medium black to just straight black. And
+32:37 so, you see I'm kind of flattening the
+32:39 stone with that effect. So, if I take
+32:41 that those pixels all the way back up,
+32:44 we're flattening the grout in this case.
+32:48 And I think I like that cuz it looked a
+32:49 little too round before.
+32:53 There we go. You scale the low pixels
+32:55 and that's flattening the stone this
+32:58 case, which also think I like. I don't
+33:00 want too much bumpiness in the stone cuz
+33:02 I want that grout to really pop off the
+33:04 screen. Now, you could do some blurring
+33:07 in the case that you're getting some
+33:08 really sharp features that you don't
+33:10 want. And the post normalize um
+33:14 kind of normalizes um
+33:17 it's similar to scaling pixels in the
+33:19 way that it's just normalizing pixels
+33:22 that I think are in proximity to each
+33:24 other um and making them
+33:29 closer in appearance. So, I actually
+33:31 don't think post normalize is working in
+33:33 our favor on this one. You know what?
+33:35 Maybe it is.
+33:36 Yeah, and then this is a really gloss
+33:38 map.
+33:40 And so, um high clip plane, this is
+33:43 where we're clipping pixels. So, we're
+33:46 clipping anything past 255, which means
+33:48 you're going to suddenly see some things
+33:50 just completely flatten out to the point
+33:53 where they start disappearing. So, now
+33:55 look at the grout. It's clipping the the
+33:57 grout in this case and flattening it.
+34:00 Right?
+34:02 So, I could do a little bit of that if I
+34:04 wanted a a flatter feature grout. Low
+34:07 clip plane's going to flatten that
+34:08 stone.
+34:09 So, it's going to leave some sections a
+34:11 little bit more flat. And I'm okay with
+34:14 that. This is really making that stone
+34:16 look 3D. Okay? Um you do this so that
+34:20 you're generating things that look more
+34:23 3D with a texture map and it doesn't
+34:25 have as much weight when it comes to
+34:27 processing
+34:28 uh if you were to like actually generate
+34:30 a 3D stone.
+34:32 So,
+34:34 and then if I get into the normal map,
+34:36 here's where I've got some additional
+34:37 adjustments. You know, cranking the
+34:39 intensity up, we're going to see just
+34:41 how crazy the stone can look. Um
+34:44 you don't want like this really high
+34:47 contrast black that we're seeing here
+34:49 because that generally speaking that
+34:52 that just means we've blown this normal
+34:53 map out. So,
+34:57 take this back down.
+34:59 About there. I mean, this is looking
+35:01 really good. The other thing is I'm
+35:03 going to end up inverting this.
+35:05 So, then
+35:07 take a look at this with invert on.
+35:10 Now, the stone's popping off. That's
+35:12 good.
+35:14 We crank up high detail, what does it
+35:16 do?
+35:17 I'm cranking up the detail.
+35:21 Dropping low detail way way down makes
+35:23 the stones a little less
+35:27 crazy.
+35:28 So, yeah, somewhere in there I think is
+35:31 what I want.
+35:37 I think this looks probably pretty good
+35:38 right there. So, let's check this out.
+35:40 We're going to just going to hit save.
+35:44 And so, let's get back into Chief.
+35:48 Let's
+35:49 shift import, find that normal map
+35:52 texture. Let's press okay. What do we
+35:55 get? Bam! That suddenly looks a little
+35:57 more 3D.
+36:00 So, what happens when we just move the
+36:01 center around?
+36:05 Oh, yeah, look at that. We can really
+36:07 kind of see it, right?
+36:11 There you go.
+36:13 You know, so this stone's a little too
+36:14 glossy,
+36:16 but I like leaving it glossy at first
+36:18 just to get an idea of
+36:21 how it's looking in that normal map and
+36:22 then now we'll just go in there and edit
+36:25 that gloss.
+36:28 The roughness up a little bit.
+36:34 And if you want to get really fancy, you
+36:36 would
+36:37 um generate a real roughness map, too.
+36:40 This is looking really good. I What I
+36:42 like to do in a roughness map is I like
+36:43 to just uh Either I'm going to take the
+36:45 approach of putting something that's got
+36:47 some noise in the roughness map or I'm
+36:49 going to take the approach of putting
+36:50 some kind of noise in an ambient
+36:52 occlusion map. So, um
+36:54 it would be really cool if we did an
+36:57 ambient occlusion map for this and I
+36:59 could show you how to do that, too.
+37:00 Roughness map, I'm going to just select
+37:03 something that I already have and so,
+37:04 you can go to my website
+37:08 and um in the very top of this,
+37:11 let's just search Perlin noise
+37:15 seamless.
+37:18 And so, this is really probably very
+37:21 helpful
+37:23 for finding roughness maps that you can
+37:26 just throw in there.
+37:28 And so, for this stone, we want
+37:30 something medium to light gray
+37:33 and just has some random noise. Might be
+37:35 something like this.
+37:37 And
+37:39 I might be able to just take this and
+37:41 feel this right here.
+37:43 So, this is just bringing in just
+37:45 some random noise.
+37:47 Just even try renaming that.
+37:55 A noise one, why not? Bring that in.
+37:58 And all that was going to do is make
+38:00 this
+38:01 um not that glossy, but it's just
+38:03 bringing in just a little bit of
+38:05 movement in the noise.
+38:08 And so, you're just seeing a little bit
+38:10 of glossiness and hopefully it's pretty
+38:12 random.
+38:13 So, all that we're doing there. And then
+38:15 let me get back to see if I can find
+38:17 Photopea again.
+38:19 Yep, and so we're here.
+38:21 And so, with this um once we get past
+38:23 our whole stack, I can do a control alt
+38:26 shift E. That stamps all the textures
+38:29 for it. So, this is very destructive.
+38:32 And so, now I can edit right on top of
+38:34 this and what I'm going to do is
+38:38 I'm going to um [clears throat]
+38:39 try first I'm going to try adjustments
+38:41 threshold.
+38:43 And so, this might get me to an AO map.
+38:49 And that's kind of an aggressive AO map.
+38:52 Let's try another method, which would be
+38:55 um filter other high pass.
+38:58 And so, what I'm trying to do is isolate
+39:01 that
+39:02 the grout lines.
+39:08 And
+39:11 that's not really working. So,
+39:13 um let me do this. I'm going to to stamp
+39:17 my layer forward by hitting control J.
+39:20 I'm going to do that threshold.
+39:24 Okay.
+39:25 Just to isolate those grout maps. I'm
+39:28 going to invert it, control I to invert.
+39:31 I'm going to switch the blend mode. This
+39:33 is all kind of advanced. I'm going to
+39:35 switch the blend mode not to screen to
+39:38 um
+39:41 >> [snorts]
+39:42 >> It's the opposite of screen.
+39:45 Why am I forgetting?
+39:47 Not where it usually is, so I'm not sure
+39:49 what the
+39:50 is.
+39:52 Not a linear linear burn?
+39:55 It'd be a linear burn.
+39:57 That was called something different.
+40:02 Hm.
+40:03 We'll stick with linear burn. We'll
+40:05 stamp this forward again. And now I'm
+40:07 going to try that high-pass filter.
+40:11 So,
+40:16 go.
+40:20 Last thing that I'm going to do is I'm
+40:22 going to do what's called a curves
+40:23 adjustment.
+40:25 So, what I'm trying to do is just get
+40:27 the grout color a little bit darker
+40:29 and the stone some parts of the stone a
+40:31 little bit darker.
+40:33 So,
+40:35 this is the graph of all the pixels that
+40:37 we see on the screen right here from
+40:40 um
+40:41 from white to Excuse me, from black to
+40:43 white, okay? We've got a lot of pixels
+40:46 in the gray area. So, what I want is the
+40:49 darker gray pixels up here, I'm going to
+40:51 lighten them.
+40:54 I want to keep all the other pixels
+40:56 kind of back where they
+40:58 Excuse me, the darker pixels I want to
+41:03 want to keep dark. I want to lighten
+41:05 everything else.
+41:07 So, I'm trying to isolate
+41:18 something like
+41:22 I want to generate pretty light.
+41:27 See why.
+41:30 Go with that. Try this out.
+41:40 this.
+41:42 AO.
+41:44 This is adding kind of fake shadows
+41:46 where there are none. Where we're going
+41:48 to see it is
+41:50 back here where it's just ambient light.
+41:53 So, get into texture import inclusion
+41:57 map.
+41:58 There we go.
+42:01 So, just darkened up some of the grout.
+42:03 If we want to make this um more
+42:05 pronounced, let's just try it real
+42:07 quick.
+42:09 Just to show you exactly what AO is
+42:11 doing, so I'll do another AO just to
+42:13 exposure adjustment in this case. We
+42:15 could do
+42:16 um
+42:17 offset to really darken those grout
+42:19 lines.
+42:20 Exposure up.
+42:22 Offset.
+42:31 Do this.
+42:37 AO.
+42:44 So, hopefully this stuff's interesting.
+42:46 If you're someone that wants to get into
+42:48 these kind of things, um for a lot of
+42:50 you I'm sure you're like, "I'm not doing
+42:52 this. This takes way too much time."
+43:03 So, yeah. Just made the grout a little
+43:05 bit more dark with
+43:10 And all in all, that's a great-looking
+43:11 texture. Package it up.
+43:14 Go give it to your client. Bam, done.
+43:18 All right, so that's one.
+43:20 Um and we've got time for more. And so,
+43:23 I wanted to show you
+43:25 um
+43:26 let's show you
+43:28 Oh, and and and we need to come up with
+43:30 a game for every time I say um so I stop
+43:32 saying it.
+43:34 Um
+43:36 let's uh
+43:38 let's get into the tile builder. This is
+43:40 a big one. I wanted to specifically talk
+43:42 about using the built-in tile building
+43:44 tools
+43:45 um because
+43:47 um
+43:48 I know a lot of you are doing large
+43:50 format and you're doing large format
+43:51 with a really small grout line. Stop it.
+43:54 And
+43:56 um and you're doing large format in
+43:57 small bathrooms. Stop it. And you're
+43:59 doing large format everywhere.
+44:02 Let's get into the material builder. My
+44:04 material builder is going to look a
+44:05 little different than yours because you
+44:08 may not have known this, but you can
+44:09 dump in a bunch of um substance files
+44:14 that come from the web that you download
+44:16 into your substance folder in Chief
+44:19 Architect and your and then you'll
+44:21 populate all those tools here.
+44:24 And so, yours out of the box is only
+44:26 going to have three builders in here,
+44:28 but I have a bunch of other builders in
+44:30 here.
+44:30 I'm going to use the Chief Architect
+44:32 tile builder.
+44:35 And so,
+44:38 comment section, you guys are funny.
+44:41 Nice.
+44:42 Uh so, let's switch Here Here's the
+44:45 biggest problem with the large format
+44:47 tile. When I get to a um large
+44:51 2 by 1 tile, okay?
+44:53 And then we get into the grout controls
+44:55 and we shrink the grout all the way
+44:57 down.
+44:58 And this is supposed to be um a 24 by 48
+45:01 tile. Well, at a 24 by 48 tile, that's
+45:04 still a really large grout line.
+45:07 We understand that. Right? And so,
+45:10 what's happening here is this is the way
+45:11 Dustin Cruz programmed this design file
+45:14 is he's trying to get you
+45:17 um more in terms of the number of tiles
+45:19 on the screen so that you got more
+45:21 variations so that it looked a little
+45:23 bit more realistic. The problem with
+45:25 that is with more tiles,
+45:28 um it takes more resolution to create
+45:31 your grout line. So, even though we
+45:32 really want low resolution images like a
+45:35 1024 resolution image, there's not
+45:38 enough pixels for the number of tiles
+45:40 that's being generated to shrink the
+45:42 grout down any more than what's being
+45:45 shown. So, the only way to get a smaller
+45:48 grout line is to change the output size.
+45:51 We need more pixels.
+45:53 So, if you switch to a 4K resolution,
+45:56 all of a sudden now look how small
+45:59 the grout lines are. They're itty-bitty.
+46:02 And so, that might be closer to what you
+46:04 want with your large format tile. Now,
+46:06 if you don't need them that small, then
+46:08 shrink that resolution back down to
+46:10 something like 2048 and maybe this is an
+46:13 appropriate grout line for your tile.
+46:15 But that still looks like a quarter inch
+46:17 at least if not 3/8 inch of a grout line
+46:20 and there's You could do the math, but
+46:22 it's
+46:24 I don't want to, so sorry.
+46:26 I'll let you do that. But I'm going to
+46:28 switch to a 4K a 4K texture and you
+46:31 know, that just is what it is. And so,
+46:35 now I've got much smaller grout lines on
+46:37 it. This is something to work with. Now,
+46:39 I might up this just a little bit so
+46:41 that it looks closer to maybe like
+46:45 I'm thinking a fat 8 inch of grout. That
+46:48 looks
+46:49 It looks very close, I think.
+46:52 And so, then the next thing is I want to
+46:53 do some kind of Calcutta stone. And so,
+46:57 if you're trying to sample direct from a
+46:59 manufacturer, there is a mode in here
+47:02 that um
+47:03 I love to throw this out here. This is
+47:05 my input with Dustin. Dustin is my
+47:08 favorite Chief Architect person. Sorry
+47:10 all you other Chief Architect people,
+47:12 but he's my dude, man. I just enjoy
+47:14 hanging out with him.
+47:16 And so, every time I see him, it's we're
+47:18 always talking shop. Anyways, he did put
+47:21 in here something pretty cool, which is
+47:23 you can change the material that you're
+47:25 using. You know, he's got some preloaded
+47:27 materials in here that's going to make
+47:29 this tile look, you know, um
+47:31 pretty dynamic, but
+47:34 he put in here image input with
+47:36 adjustable color. And once you do that,
+47:39 you get this image input field where you
+47:41 get to select the file that you want to
+47:44 use. So, here's your opportunity to go
+47:46 back to the web and go find the stone
+47:50 that you're looking for.
+47:52 Like
+47:54 Cal
+47:55 Oh, here's that lag I was worried about
+47:56 where my
+47:57 computer is about to die.
+47:59 Should have restarted it.
+48:02 But uh
+48:04 I don't know.
+48:07 There.
+48:08 And so, here we go. I've got some image
+48:11 that I could go take a screen clipping
+48:13 of and
+48:15 his generator is going to tile and
+48:17 randomize this.
+48:18 Now, here's the one thing to note and
+48:21 Dustin, I think you screwed up on this
+48:22 one, big guy, is that
+48:25 when you screen clip this, you know, the
+48:28 the it's kind of like being striated in
+48:31 left to right, which we want that, okay?
+48:35 But I think his image generator rotates
+48:39 this.
+48:40 So, if I took a sample of this stone
+48:42 like this
+48:44 and bring it back to Chief,
+48:47 do that image input,
+48:48 I'm browsing to that little cut.
+48:51 I think his generator rotates it.
+48:55 No, actually,
+48:57 that did pretty good. I think it cuts
+49:00 and crops.
+49:01 I don't know exactly how it works cuz I
+49:03 don't have access to the design file
+49:06 that's um utilized being utilized here.
+49:10 So, if we took a smaller sample out of
+49:12 that,
+49:13 maybe that would look different. We'll
+49:15 try it a couple times. So, let's just
+49:17 take a smaller cut out of this.
+49:31 Okay.
+49:32 And then adjustable color meant that
+49:35 it's taking
+49:36 um
+49:38 It's taking that image, randomizing it,
+49:40 and then on top of that, you get to
+49:43 change the color of the tile.
+49:45 If you switch to image color only, now
+49:48 we're only taking the original images
+49:52 that color, and you see how crazy that
+49:54 looks.
+49:55 So, let's go back to my larger sample.
+50:02 So, we can see here, because our um
+50:05 resolution size is 4K, our screen
+50:08 clipping size you kind of want to get a
+50:11 screen clipping that's similar
+50:13 resolution, because you're going to get
+50:15 some graininess and fuzziness. This just
+50:17 doesn't look that clear. And so, what's
+50:20 really great is if you can get an actual
+50:23 tile image would be the best approach to
+50:26 this. Um
+50:28 and get super high resolution on it. So,
+50:31 um what you would probably want to do is
+50:33 get into the tools section of Google
+50:36 search, you're going to get into images,
+50:38 you're going to get into tools,
+50:41 and designate size as large. And so, now
+50:45 we're getting some higher resolution
+50:46 images, and that would be much better.
+50:50 So, let's pick this guy over here.
+50:53 So, yeah, this is
+50:55 um that's considered a large, 1,000 by
+50:58 1382,
+51:00 but
+51:02 you might also be able to It used to be
+51:05 that we could actually set a
+51:08 an actual resolution here.
+51:11 But, miss size large, any size, here we
+51:14 go, larger than And so, this is an
+51:17 advanced image search,
+51:19 and larger than 2 megapixels. This is
+51:22 going to get us some very specific size
+51:26 images.
+51:30 And let's just go with one of them.
+51:32 Let's do this one.
+51:40 And even though it says that's a high
+51:42 resolution, it's not. You can see the
+51:44 fuzziness in it. So, it's pretty
+51:46 challenging to find an image that's you
+51:48 know, you can just burn some time doing
+51:50 this kind of stuff.
+51:52 It just is what it is. Look at that.
+51:53 That's 5K texture.
+51:57 And so, something that I like to note is
+51:58 um even though it's a 5K texture, that's
+52:00 a source image, and so the website might
+52:03 not always display the image the same
+52:06 way that you need it to be. And just
+52:09 note that there's a trick. You can right
+52:12 click and click on inspect, and so if
+52:14 this was just a preview image, and it's
+52:16 not at the correct resolution, you could
+52:19 try and locate the source image, and
+52:21 this is getting a little bit hacky, but
+52:24 you can see here, there's the source
+52:26 image, and you can see that it's a some
+52:28 kind of thumbnail image, right?
+52:31 Um al- alternate source is what it is.
+52:35 And so, you could
+52:37 try to copy
+52:40 I can't remember how we do this, but
+52:43 you can actually copy a portion of this
+52:45 and paste it in your browser and just
+52:47 get that image.
+52:50 There we go. That's how you do it. And
+52:52 so, there we go. This is the source
+52:54 image. I was able to just
+52:56 um in the inspect window, it highlighted
+52:59 what I needed to. Let me just show you
+53:00 this again. So, in the inspect window,
+53:02 it's highlighting this, and I can hover
+53:05 over and click on it, and it brings up
+53:07 that source image, and then I can
+53:08 actually save this image.
+53:12 And this is JPEG file, downloads,
+53:15 thumbnail, and call it something that's
+53:17 useful for Chief Architect later for
+53:19 when you want to find it. So, Alacantra
+53:23 vein stone large resolution.
+53:30 So, that's something that might be
+53:31 useful the next time I load this into
+53:33 Chief Architect, because whatever image
+53:36 input you make here, I think that
+53:37 becomes the image the texture name in
+53:40 the material you're creating.
+53:42 So, I'm going to browse,
+53:43 find this.
+53:45 That's tons of resolution to work with.
+53:50 And that, boy, does that look nice and
+53:52 crisp. Now, I don't love the way that
+53:55 it's chopping this up.
+53:58 You know, it doesn't doesn't look all
+54:00 that great to me. Um
+54:04 yeah.
+54:06 And then, because we're working in such
+54:08 large resolution, my fans are kicking
+54:10 on, and this is kind of creating some
+54:12 things. You might be able to change I
+54:14 don't know if he gives us access to
+54:16 changing the seed number, where we get
+54:19 to re-randomize it. Let's see.
+54:21 Material scale. Um
+54:24 it is nice that he gives us a material
+54:26 scale, so we might be able to edit,
+54:28 you know, the look of this by just
+54:30 changing the scale up a little bit.
+54:34 At some point, you're going to get into
+54:36 the issue of it not being a seamless
+54:38 texture. So, if you could generate a
+54:41 seamless texture, you're going to get a
+54:43 better output for this.
+54:45 And how do we do that? We Well, we kind
+54:47 of already know is
+54:50 go back to my page.
+54:57 Back to that seamless section down here.
+55:06 See how it does with this very
+55:09 high resolution deal.
+55:15 Feel like that's going to take a minute,
+55:17 cuz
+55:18 much larger texture.
+55:21 While we're waiting for that, just want
+55:22 to note a couple things. Um Light Beans
+55:24 is just a great resource for PBR
+55:26 textures. Same with Architectures. Um
+55:30 this one uh requires a um a sub- uh
+55:34 subscription if you want to get into
+55:36 some of the um more advanced patterns
+55:38 that they have here. But, you can
+55:40 generate these textures right from the
+55:41 website if you want to, or just go
+55:44 straight through to Architectures.
+55:45 Here's a bunch of links to There's my
+55:48 Shader Map 4 that we're talking about.
+55:50 Um some other links to stuff here. And
+55:52 then, just texture known texture sites
+55:55 that you might be able to find textures
+55:57 from. And then, [clears throat]
+55:59 um maybe we'll do an episode uh one time
+56:01 about what bridges and dams and sim
+56:04 links are, in case you want to uh get
+56:06 into just organizing all of your
+56:08 textures.
+56:09 And what do we have here? Let's download
+56:12 this processed texture.
+56:16 No idea how crazy that's going to be,
+56:19 but
+56:22 back in Chief.
+56:26 It's
+56:28 It's
+56:29 close for texture.
+56:31 Here is Apparently, this is supposed to
+56:33 be seamless. It doesn't look like it did
+56:36 anything but change the edges.
+56:38 Um but maybe that gets rid of like this
+56:40 little line right there. Yeah, it did.
+56:42 So, that's That was a good move is
+56:43 making it seamless before we threw this
+56:45 together.
+56:49 And so, probably what I would would have
+56:51 done if I were to do this again
+56:54 is
+56:56 let's do
+56:59 do with Photopea.
+57:01 Open with Photopea.
+57:04 Here's the whole process is we're going
+57:05 to take this,
+57:07 we're going to crop this down to
+57:09 something that's not as crazy.
+57:13 Striation.
+57:15 Something like this.
+57:18 Right there, okay?
+57:20 We're going to export that.
+57:27 Photopea.
+57:36 And we could have taken this into
+57:39 set it to be seamless
+57:43 at the edges.
+57:45 Then we bring it back into Chief.
+57:48 So, I think this would be a better
+57:56 Huh.
+57:57 I don't know. Still looks pretty choppy,
+57:59 huh?
+58:02 Yeah, that vein just pops in there in a
+58:03 weird way.
+58:05 So, you kind of got to play around with
+58:07 it. I don't have much experience with
+58:08 this. I've used it a couple times in a
+58:09 in a bind, and it's really been helpful.
+58:12 I think I prefer our original.
+58:20 And yeah. So, we're going to add this to
+58:22 the library. You don't have to close
+58:24 this window. It's a modeless window. So,
+58:27 I added that to the library. I could
+58:28 drag it off into my second screen, and
+58:31 now here's that tile builder tile,
+58:33 right? Tile uh
+58:36 Alacantra
+58:37 vein
+58:39 transform at
+58:42 it to 24 by 48. Um
+58:45 and I can't remember what the scale of
+58:47 this needs to be to be correct for that.
+58:53 20 by 48, so
+58:55 um
+58:58 How does this work? 1 2 3 4 6 I think we
+59:02 get 12 of these in here. So, it's
+59:04 basically
+59:06 Um
+59:06 >> [clears throat]
+59:06 >> just retain aspect ratio.
+59:10 12 * 24.
+59:14 The 288. Yep.
+59:16 That's right. And then,
+59:18 um this is another awesome opportunity
+59:21 to in the properties panel, their
+59:23 roughness is going to be linear
+59:24 roughness. It's just going to be
+59:26 roughness based on the grout joint. So,
+59:29 you could come in here and just change
+59:31 this out.
+59:33 And this would be an awesome opportunity
+59:34 to use
+59:36 some kind of noise map to really get
+59:40 more dynamic looking. So, I want this to
+59:43 be somewhat gloss.
+59:46 Let's just try a pretty strong
+59:48 randomized noise.
+59:50 Press okay.
+59:52 Let's bring this into the interior.
+59:54 Let's throw a little window action
+59:58 light
+59:59 and
+1:00:03 girl.
+1:00:05 And look at that.
+1:00:10 Yeah. And from this view, not that bad.
+1:00:13 Looks pretty good, I think.
+1:00:21 Like to do different lighting
+1:00:23 conditions.
+1:00:30 And then look at that's the random noise
+1:00:33 map getting in there. So, the random
+1:00:35 noise map is 1024, so it it's blown up
+1:00:38 because our source texture is is 4K.
+1:00:42 That's what's happening.
+1:00:45 is random noise is giving us a real
+1:00:48 large splotches.
+1:00:51 And
+1:00:52 I think it kind of works for this tile.
+1:00:56 Another thing I could do is if you just
+1:00:58 take a large band
+1:01:00 um countertop material and turn it into
+1:01:03 a black and white map, that would be
+1:01:05 pretty good for this as well. So, I
+1:01:07 could just come in here.
+1:01:09 Let's just uh import something here.
+1:01:13 roughness
+1:01:16 And so, I have my catalogs of materials
+1:01:21 countertop materials
+1:01:23 and I just have a bump and roughness
+1:01:25 map.
+1:01:28 mixer spot here.
+1:01:30 So, this is maybe going to be a larger
+1:01:33 tile. Actually, originals are a little
+1:01:36 I shrink all my textures down.
+1:01:39 So, you want something that's square
+1:01:42 ideally. So, here we
+1:01:46 So, we'll see what this does.
+1:01:49 Yeah, definitely changed the look of
+1:01:50 that quite a bit. that
+1:01:58 Yeah.
+1:01:59 Sweet. Uh boy, I didn't get to all the
+1:02:01 tools that I wanted to get to. That's
+1:02:03 for sure. I wanted to get into
+1:02:04 architectures and stuff and that's just
+1:02:06 what happens when you're making
+1:02:07 materials. It takes some time.
+1:02:09 So, we already burned an hour. Remember
+1:02:11 at the beginning I said I only wanted to
+1:02:13 do this for a half an hour?
+1:02:14 Yeah, we didn't do that.
+1:02:18 You know, I was thinking that I'm going
+1:02:20 to run out of content if I keep doing
+1:02:21 hour shows every single week, but
+1:02:24 man, an hour goes by so fast.
+1:02:28 Let me know what you think
+1:02:30 in the comments if you want half an hour
+1:02:32 versus an hour.
+1:02:33 It'd be good to know.
+1:02:35 Other than that,
+1:02:37 thank you all for those of you tuning
+1:02:39 in. Looks like we're getting some some
+1:02:41 better attendance. I think uh over
+1:02:43 a couple months, we're starting to have
+1:02:45 a pretty active chat in here. It'd be
+1:02:47 pretty cool.
+1:02:49 All right, get back to work.

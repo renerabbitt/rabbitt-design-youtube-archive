@@ -1,0 +1,1753 @@
+---
+videoId: CwhXghgrtA4
+title: Template Tuesdays #27 - Ledge Rock 3d Cladding Material
+url: "https://www.youtube.com/watch?v=CwhXghgrtA4"
+status: imported
+---
+
+# Transcript
+
+0:02 All right. We're live.
+0:04 Let's do it. Template Template Tuesday
+0:06 is number 27.
+0:08 And what we got today is
+0:12 um
+0:13 I'm going to show you how to do
+0:14 hopefully I'm going to show you how to
+0:16 do a
+0:18 cladding
+0:19 for a stone wall.
+0:21 Um and it's kind of a challenging thing
+0:23 to do and I don't think that there's
+0:26 I don't think there's a whole lot of I
+0:28 don't think Chief has produced a video
+0:30 for this yet. Not that I I'm aware of
+0:32 anyways. Um
+0:34 probably because of just the
+0:35 complexities of creating certain
+0:37 cladding profiles.
+0:39 Uh it can be very complex to create
+0:41 these to generate these. And so I'm just
+0:43 going to start with a blank plan and
+0:44 draw four walls.
+0:46 Just so that's just kind of my habit.
+0:49 Um
+0:51 to kick this off. The one thing that
+0:53 we're going to need
+0:54 is and if you want to try to loosely
+0:56 follow along, I am going to be going
+0:58 fast. This isn't my my coaching pace.
+1:01 This is my live stream pace.
+1:04 Uh in case you didn't know, I offer
+1:05 training. Uh
+1:07 I did have a uh
+1:09 I I I'm always co-streaming with um Dan
+1:12 Bowman and Chief Experts. If you didn't
+1:14 know about that, that's the Designer
+1:15 Show first and third Fridays. I'm on
+1:17 that show.
+1:18 And I saw a comment on one of our live
+1:20 feeds that was basically talk- talking
+1:23 about my teaching style.
+1:24 And that
+1:25 basically that they liked Dan's teaching
+1:27 style. And I don't disagree. Dan's
+1:30 awesome at teaching. There's a reason
+1:32 he's been in business as as long as he
+1:34 has been in business.
+1:35 Um but to let you know, I can
+1:38 slow my pace down. But that's not for
+1:40 this show where you got to do a lot in a
+1:42 short amount of time because these
+1:44 cladding profiles take a long time.
+1:47 So I'll just tell you
+1:48 draw four walls, okay? You're going to
+1:51 pull out your
+1:53 uh cross section camera tool. We need a
+1:54 cross section.
+1:56 We're going to change the
+1:58 uh rendering technique to be
+2:01 a standard rendering technique so we can
+2:03 see the texture on the wall. And then if
+2:06 your walls have a clouding profile on
+2:08 them already, you should remove them.
+2:11 Now, which means you need to get into
+2:14 one of the walls specification dialog
+2:16 boxes, get into the wall types panel,
+2:19 click on define, and then um any role
+2:22 that's set 3D clouding, just set that
+2:24 back to standard. Okay?
+2:27 And so then I'm doing that just so I can
+2:29 see the side of this thing and then um
+2:31 in this
+2:33 uh standard rendering technique options,
+2:35 it's great if you can kick on the
+2:36 daytime ambient all the way to 100% so
+2:39 we can really see the texture that's
+2:41 here. This is going to just help us.
+2:45 Um this is kind of a helper view. I'm
+2:46 going to be doing a lot of what I'm
+2:48 doing in plan view, which is
+2:50 um you'll see
+2:52 in the last maybe 3 years of my videos,
+2:56 I started switching to doing modeling
+2:58 actions in plan view as opposed to doing
+3:00 them uh in an elevation view even though
+3:03 the thing we might be modeling seems
+3:05 like it would be um something that you
+3:07 would pull in elevation view, such as a
+3:10 profile that's going up on a wall,
+3:11 right?
+3:12 And so the next part of this, um which
+3:15 this is not a prepared stream by the
+3:17 way,
+3:18 is that I'm going to go find a texture
+3:21 that is some kind of a stone wall to to
+3:23 work from. And so I'm going to find that
+3:25 just by um in my library browser,
+3:29 making sure that we are searching the
+3:31 internet
+3:32 by including web results, okay? And then
+3:35 going and finding a catalog that might
+3:37 have something. Now, I do think, yeah, I
+3:39 did download Coronado stone. Um and so
+3:42 I'm going to start from there.
+3:44 If you're on a PC, I love to remind
+3:46 people of this little trick. If you are
+3:48 on a PC, you can bring out your library
+3:51 browser and then hit your window key,
+3:54 which might on some keyboards be a start
+3:57 key, um window key or start key and left
+4:00 arrow, and that increases the size of
+4:03 this thing to half the screen. So, just
+4:05 to show you that. There we go. That's
+4:07 half the screen, right?
+4:08 And so, this is really nice to just
+4:10 break this out. Now, when I wanted this
+4:12 to get, you know, back and docked, all
+4:14 you have to do is double-click on the
+4:16 top of the heading and that brings that
+4:17 back in. So, um again, window and right
+4:20 arrow or window and left arrow, and
+4:22 there we go. I just get a much larger
+4:25 preview. The other thing that I like to
+4:27 note is
+4:28 you know, they changed the way that we
+4:30 are previewing the library browser. A
+4:32 couple of things to see here is that you
+4:34 see these little triangular clippings in
+4:37 the top left corner. That's to show you
+4:40 the pattern file that exists in these
+4:42 particular uh textures. So, just in case
+4:46 you didn't know that. The other thing is
+4:48 we are um kind of a caching the display
+4:51 of a lot of the uh 3D models in your
+4:55 library. And that's just for um I
+4:58 believe for just faster browser
+4:59 experience, okay? So,
+5:02 I also think it has something to do with
+5:03 their integration with that, you know,
+5:04 the idea that they've got a future cloud
+5:06 service.
+5:07 So, um something that I saw on one of
+5:11 the forums was, you know, this preview
+5:13 is too small. I don't like it. And just
+5:15 know that you can hold your control key
+5:17 and mouse wheel to resize all the
+5:20 previews here. Um and so, that will make
+5:22 it much easier for you to see some of
+5:24 these things. Okay?
+5:26 Now,
+5:27 some of these Coronado stone textures
+5:29 have what I would call like a, you know,
+5:31 a fake shadow.
+5:33 And so, I'm I'm going to try to steer
+5:35 away from those because we're not going
+5:37 to need them if we're creating a 3D
+5:38 cladding. Um keep in mind, this might
+5:41 run the full hour. Um it's it quite
+5:45 possibly could take that long. I'm not
+5:47 sure yet. So, I'm going to keep this
+5:48 moving as quickly as I can.
+5:51 And
+5:52 and I just want to pick one that is one
+5:54 that I'm going to be using because this
+5:56 is such an extensive process, I would
+5:59 say. I definitely want to pick one that
+6:01 I like. And so, maybe I'll pick one,
+6:03 apply it, and just double-check that I
+6:06 actually do, in fact, like it. Um I want
+6:09 something with a little bit of color in
+6:10 it, that's for sure. Just to uh
+6:14 just to be a little bit different
+6:15 because I have one I've done already
+6:17 that didn't have color in it. And
+6:20 I think I want this one to really pop
+6:21 off the screen.
+6:23 Um I kind of like this via ranch.
+6:27 But, I really wanted to get more of like
+6:29 a ledge rock feel.
+6:31 And so, maybe something like this would
+6:34 work.
+6:35 And so, I could just double-click that.
+6:37 It's still the selected um item in my
+6:40 library. And let me go pull a 3D view.
+6:43 And
+6:45 um typically, I like to change the color
+6:47 of a material of a wall through the wall
+6:50 type editor instead. Um or you could
+6:53 change the default material at times,
+6:55 but um here we go. I'm going to just
+6:57 take this Oops, I picked the wrong one.
+6:58 Dang it.
+7:00 Which one was it? Do this one.
+7:02 And in plan mode, I'm going to spray
+7:04 this out. There we go. That's what this
+7:05 looks like. Now,
+7:08 I already see something I don't like.
+7:09 There's
+7:11 you know, it's a real hard
+7:14 seam line on this one.
+7:17 This one's very, very repetitive. So,
+7:20 you might, you know, go back, choose one
+7:22 that's a little less repetitive.
+7:24 I really don't want to see the
+7:26 repetition so, so
+7:28 in such a strong way.
+7:30 I mean, that's the the big difference
+7:32 between making a a great texture and a
+7:34 good texture is if you can't see that
+7:36 repeating pattern.
+7:38 Um so, choose carefully. Pick one that's
+7:41 really going to
+7:42 um that you really think stands out.
+7:46 I could do some color changing to this
+7:49 just to to take that kind of purple um
+7:52 stone down a little bit so that it
+7:53 doesn't repeat so much, but that's more
+7:55 Photoshop work. So,
+7:57 um again, I'm just taking my time at
+7:59 this stage only because I just want to
+8:00 make sure I'm picking one I'm going to
+8:02 really like.
+8:05 And
+8:09 I think that previous one I I like this
+8:11 one.
+8:12 All right.
+8:13 So, I've got this one. Keep in mind,
+8:15 this process might require that we do a
+8:17 little bit of Photoshop work or, you
+8:19 know, if you don't have Photoshop, you
+8:20 can bring it into Photopea. So, just
+8:23 keep that in mind. That might be part of
+8:25 this. Um it can be challenging to get
+8:27 around not, you know,
+8:29 get around using one of those photo
+8:31 editing softwares.
+8:33 Okay, now that I have this material, I'm
+8:35 going to use the material um adjust
+8:37 materials tool, which we like to joke
+8:39 and call this the rainbow bacon tool.
+8:40 It's the sky right here, right?
+8:43 And so,
+8:44 I'm going to pick
+8:46 Here we go. I'm going to pick my
+8:47 material. This is going to pop up here,
+8:49 and I'm going to get to the texture
+8:51 panel, and then I want to if your
+8:55 um button here on texture source says
+8:58 import, then you would hit shift,
+9:01 and shift would change it to select. If
+9:03 yours says select,
+9:05 then you wouldn't need to do anything.
+9:06 You would just click on it. If yours
+9:07 says import, you'd hold shift, and then
+9:09 that allows us to select this material.
+9:12 And specifically what I'm doing is that
+9:15 material is selected now even though it
+9:17 might not be clear that it's selected
+9:19 because sometimes it's hard to find in
+9:21 this massive group of other textures,
+9:22 but there it is. It's currently
+9:25 selected. I don't need to know anything
+9:26 other than the fact that that's
+9:28 selected. And so, from there, I get to
+9:31 click on export.
+9:34 And so, this gets this back onto my
+9:35 machine. We're exporting this texture,
+9:37 so I can work with it. Okay? So, that's
+9:40 one thing I want to work with.
+9:42 The next thing that I want to work with,
+9:44 hopefully, is that maybe your texture
+9:46 has an ambient occlusion map. Now,
+9:48 unfortunately, this one does not.
+9:51 That's one of those things where that
+9:53 might force me to needing to use um
+9:58 uh a Photoshop. Because what we really
+10:00 want to do with this is
+10:03 short of modeling every single stone by
+10:06 hand, which would take a really long
+10:08 time and not be a fun process.
+10:11 It's great if you could then get
+10:13 something like
+10:15 you know, an AI service to convert
+10:18 something into a DXF file, which is a
+10:21 CAD-based profile that we can then turn
+10:24 into solids. All right? That would cut
+10:26 this work down
+10:28 way, way, way much, all right?
+10:30 Boy, my grammar is just fantastic, huh?
+10:32 I need to start reading some books.
+10:35 Um
+10:36 Anyways,
+10:38 so
+10:39 it's great if we have an already black
+10:41 and white map, and so maybe that bump
+10:44 map is what we need. So, I'm going to do
+10:45 the same thing here, hold shift, hit
+10:48 select.
+10:52 Hit export.
+10:54 And so, hopefully, this gives us the
+10:55 bump map. It looks like it's the same
+10:57 exact map, unfortunately.
+11:00 It is. So, they used the texture map for
+11:02 the bump map.
+11:04 I've already picked a bad stone. This is
+11:06 going to be more difficult than I wanted
+11:08 it to be for this stream. And there's no
+11:10 roughness map to work from, either. So,
+11:12 really, this is not a great texture to
+11:14 begin with. Too bad.
+11:16 Um that means it's just going to put
+11:19 more work on me to get this to work
+11:20 right.
+11:22 And I'll show you what I mean by that.
+11:24 Let me go ahead and open up Photoshop.
+11:26 And I'm just going to drag and drop
+11:30 that file to open it up. Here we go.
+11:32 Um
+11:33 and you can do the same thing in
+11:35 photopea.com.
+11:37 And so,
+11:38 if you are someone that, you know, a
+11:40 couple um episodes ago we were talking
+11:42 about polygon and how to convert polygon
+11:45 textures into Chief Architect textures,
+11:48 those typically have
+11:50 additional maps, such as the AO map or
+11:53 such as a bump and roughness map. And
+11:55 so, that's going to make your process
+11:56 easier. Maybe you go source your stone
+11:59 from polygon instead. Um this is a
+12:01 really low-resolution image, too. So, if
+12:04 I really want to make this sing, I might
+12:07 actually go through and send this to AI
+12:10 to get this to digitally upscale, okay?
+12:13 So, I'm going to make a copy of this in
+12:14 Photoshop. It's Ctrl J to make a copy of
+12:17 this. And then, I'm going to do a couple
+12:19 things to just try to isolate where all
+12:22 these stones are. We're trying to
+12:24 kind of get a a lot more contrast out of
+12:26 this, and there's a couple different
+12:27 ways to do it. One would be that we get
+12:30 into the filter other and we go into
+12:34 high pass filter.
+12:36 And I'm
+12:38 not really sure where my high pass
+12:40 filter went. Oh, there it is right
+12:41 there.
+12:42 And so, in high pass filter,
+12:45 this might
+12:46 be able to distinguish where the stones
+12:49 are.
+12:50 Maybe, maybe not. It's not It wasn't
+12:53 looking great there.
+12:54 The next thing I might just try, and I'm
+12:56 just trying things before I commit to
+12:58 anything. Next thing I might try is
+13:00 replace color and try to come in here
+13:03 and target some colors that are there.
+13:07 And add and I'm adding to the selection.
+13:10 What is this doing? We're picking pixels
+13:13 in this case. We're picking actual
+13:14 colors coming from these pixels. So, I'm
+13:16 picking a really dark blue in this case.
+13:18 I'm trying to just isolate where all the
+13:21 shadows are. So, I'm adding to the
+13:22 selection with this add eye dropper
+13:25 tool. And you can see on the right-hand
+13:27 side, it's kind of letting us know where
+13:30 those pixels lie in in the terms of
+13:32 selection. And so, the fuzziness just
+13:35 means
+13:36 how far outside of the actual um
+13:40 HSL values of that pixel that we're
+13:43 going to allow for a selection based on
+13:46 our sampling. And so, again, this is
+13:49 difficult texture. In fact, it's such a
+13:50 difficult texture to do that I might
+13:53 switch it up and I might go to one
+13:54 that's a little less difficult.
+13:57 But, we'll see. I'm going to send this
+13:58 to AI and and see what it comes up with.
+14:00 So, I don't think I did a great job of
+14:02 isolating there. I'm going to go with a
+14:04 different approach.
+14:05 I'm going to now hit Ctrl U. I'm going
+14:07 to pull the saturation out of this
+14:09 image. And then I'm going to hit Ctrl M.
+14:12 And this is a curves adjustment. And
+14:14 I've explained this in certain shows
+14:16 before. Um
+14:19 I'll just take the time and mention like
+14:20 we're in a realm of doing stuff in Chief
+14:23 Architect that not a lot of people are
+14:25 going to touch. But, maybe you're here
+14:27 because you're just interested in this
+14:28 information and maybe this information
+14:31 comes up at some point
+14:33 down the line for you.
+14:35 Um so, come along for the ride.
+14:38 So, what I'm doing here, what I'm
+14:39 looking at here at curves adjustment is
+14:41 we've got a linear scale output
+14:44 currently. And what we're seeing in this
+14:46 graph is all the pixels on in this
+14:49 image. Okay?
+14:51 And so, um a small amount of pixels live
+14:54 in the very dark range, meaning they're
+14:56 dark gray to almost black. Small amount
+14:59 or a little bit more amount of pixels
+15:01 live in the very white range, they're
+15:02 almost white. And then this is all the
+15:04 median pixels, right? This is kind of
+15:07 we're in a lighter gray range here.
+15:09 There's a lot of pixels in lighter gray.
+15:11 So, if I wanted my lighter gray pixels
+15:14 to become even lighter, I would draw
+15:18 this
+15:19 point up. If I want these darker gray
+15:22 pixels to become darker, I would draw
+15:24 this down. So, maybe I want things that
+15:27 are almost black to be a little bit
+15:29 darker. And maybe I want things that are
+15:31 medium to be a little bit lighter. And
+15:34 you can kind of see what's happening in
+15:35 the um just in the sneak of the sneak
+15:38 peek of the background there. is
+15:40 Here's that real middle of the road
+15:43 gray.
+15:44 And not only can I bring this down, I
+15:46 can bring this kind of forward. I can
+15:48 make that middle of the road gray You
+15:50 can see here, it's making some of these
+15:52 pixels that were medium gray more dark.
+15:56 Okay? And really we're trying to just
+15:58 isolate this so it's it's almost like
+16:01 a photo copy.
+16:07 And so something like that. And when I
+16:08 press okay, what do we have?
+16:10 Yeah, it did an okay job. Again, I
+16:13 picked a really difficult texture to
+16:16 start with.
+16:17 Let me do one more attempt at this just
+16:20 just to show you what else we can do.
+16:21 I'm just going to um toggle the display
+16:23 of that layer. I'm going to make another
+16:25 copy of our base texture.
+16:27 is that
+16:28 I'm going to come into the filters and
+16:30 in filter gallery
+16:33 we might be able to get a good result if
+16:37 um we get into some of the
+16:39 uh I believe
+16:41 sketches sketch sections.
+16:45 Yeah, sketch section could be photo
+16:48 copy.
+16:49 And
+16:50 and we can see we've got a detail
+16:52 slider.
+16:54 And we can mess around with the details
+16:56 and darkness. And so this is kind of an
+16:58 inversion of what we need. And so maybe
+17:01 that works okay.
+17:02 Let me try one other.
+17:05 Um
+17:06 sometimes
+17:09 can get a good effect from Let's see.
+17:13 Watercolor spatter, sumi glass, charcoal
+17:16 is not going to get us there.
+17:18 Let me just click through cuz I'm
+17:19 forgetting which one. There it is, note
+17:22 paper.
+17:23 Sometimes note paper can get us there a
+17:24 little bit.
+17:29 And
+17:31 yeah.
+17:33 I'm going to try it note but note paper
+17:35 for a second.
+17:37 Cuz it gives us kind of a relief slider
+17:39 here that works really well.
+17:43 I don't want any graininess.
+17:49 Yeah, it didn't do terrible.
+17:53 Okay, so here's the next part.
+17:56 I'm really going to lean heavily on AI
+17:58 to hopefully get me something out of
+18:00 this.
+18:00 Um
+18:02 cuz I still don't think that looks
+18:03 great. I think this is actually a better
+18:05 output.
+18:07 So, I'm going to export this as a PNG.
+18:14 And then in my AI, I'm going to say
+18:20 Um I would like you to
+18:23 output a DXF file
+18:26 and I need this to be a one-to-one ratio
+18:30 because this DXF file is going to be
+18:34 used to generate
+18:35 solids.
+18:37 And it's based on the texture image I am
+18:39 providing. And then that texture image
+18:41 will be reapplied and mapped
+18:45 back to the DXF file. So, make sure that
+18:51 this all aligns. I'm providing you with
+18:55 an image I generated that's a black and
+18:57 white map
+18:58 to try to give you an idea of where
+19:02 the CAD lines should be placed because
+19:03 this is a stone texture. And so, I'm
+19:06 trying to model
+19:09 every stone.
+19:11 So, that's the purpose of the DXF file.
+19:13 I'm also going to provide you with the
+19:14 original
+19:16 image, the source image, so you have a
+19:18 better understanding and context.
+19:25 We'll see if any of that made sense.
+19:27 Okay.
+19:29 Fingers crossed. So, we're going to
+19:30 throw these two in there and
+19:34 and there we go. And now I've got just a
+19:35 second to go look at some comments, so
+19:38 and all I've got is a bunch of good
+19:39 mornings.
+19:40 Good mornings and thanks for sharing.
+19:42 Nice. Good morning, everybody. Good
+19:43 morning. There's There's a lot of
+19:45 familiar names in there.
+19:47 Cool.
+19:48 Uh let's see. Where Where Dosh? I don't
+19:51 recognize your name. Who are you?
+19:53 Um say hello.
+19:56 But I recognize the
+19:58 Mr. Kenny Crocker. It's been too long,
+20:00 my friend.
+20:03 Glad you guys are in here.
+20:04 Okay, I'm going to leave this up on a
+20:06 side screen and then
+20:09 I'm so tempted to set up a, you know, a
+20:12 better image than this, but we're going
+20:14 to keep working with this image. I'm
+20:16 going to open up a free software called
+20:18 Shader Map 4.
+20:20 One of these days I think I'm just going
+20:21 to buy the software. It's very
+20:22 inexpensive.
+20:24 Um and I've been using it for years.
+20:27 And so I'm going to open a source file.
+20:30 Open source from file. And so I'm going
+20:32 to find this texture right here. Open
+20:33 source from file.
+20:35 And so what I'm going to do with this is
+20:37 I'm going to generate a normal map.
+20:39 Not only are we going to do a 3D
+20:41 clouding profile based on this source
+20:43 image, but it would be nice if um our
+20:46 clouding is going to be made of really
+20:48 flat faced solids. All right? I do not
+20:51 plan on making them really detailed
+20:53 solids because that can
+20:54 pump up the mesh to too high of a poly
+20:56 count. All right? And so it would be
+20:59 nice if we had a pretty good normal map
+21:02 to give some texture to the front face
+21:04 of these stones. Now, out of the box, it
+21:06 already generated a normal map that's
+21:08 pretty dang good. This actually looks
+21:11 pretty good. That means the surface of
+21:13 any solid I might have might have some
+21:15 of these reliefs, little, you know,
+21:18 little sections there. The other thing
+21:20 that we want to do is I wanted to maybe
+21:23 digitally upscale this.
+21:25 And so, I might start another chat with
+21:27 that as well.
+21:29 Um
+21:30 This says that it's already finished.
+21:32 It's
+21:34 um
+21:36 It's DXF DXF file. So, we're going to
+21:38 download and check it out.
+21:42 It's giving me an error.
+21:45 Failed to get upload status.
+21:54 Try a download, it fails.
+22:00 I think.
+22:01 Failed to get upload status. Don't know
+22:03 what that means.
+22:05 And then, while that's going,
+22:09 Oh, maybe I got it this time.
+22:11 There we go. Got it.
+22:14 Okay.
+22:15 Can you digitally enhance the source
+22:17 image? It's low resolution.
+22:20 Keep in mind, it's seamless, so you need
+22:23 to be very careful about enhancing this
+22:25 as you can mess up the seamless aspect
+22:28 of the source texture.
+22:33 I don't know that I've ever had any
+22:34 success with ChatGPT keeping something
+22:37 seamless. I think it does a terrible
+22:39 job, typically.
+22:41 Um but yeah, we will end up coming back
+22:43 into here and trying to make
+22:44 a better normal map.
+22:46 Um in this software, normal maps are
+22:48 generated from
+22:50 um this middle displacement
+22:54 map. And the displacement map is
+22:55 something that was auto-generated from
+22:57 the source texture.
+22:59 So,
+23:00 that is keyed in
+23:03 to that normal map. And then we could
+23:05 see the connection up here, right? You
+23:07 can actually click and drag this so that
+23:09 instead it was, you know, keying in from
+23:12 our source texture, but for now this is
+23:15 the better approach. And so it does have
+23:17 a slider for intensity.
+23:19 You can see what that does. Obviously,
+23:21 we don't want to want that intensity
+23:22 that high. Um right now I have the
+23:24 normal map selected. It's got its own
+23:28 set of parameters and settings. That's
+23:30 what all these settings are for, but I'm
+23:32 actually going to
+23:33 change some of the settings for this
+23:35 displacement map, which affect that
+23:37 normal map. One of which is this auto
+23:40 edge tool to try to figure out where
+23:41 edges
+23:43 of surfaces are. So, you can move that
+23:45 slider around.
+23:47 You can also scale high pixels. What
+23:50 does that mean?
+23:51 We saw in that graph of texture, right?
+23:54 That all the different individual
+23:57 um
+23:58 pixels of the of that um
+24:01 of that map, that was the graph, right?
+24:04 Scaling that just means, "Hey, we're
+24:06 going to take the bulk of those, you
+24:09 know, darker gray
+24:11 gray, and we're going to kind of like
+24:13 shrink the sliding scale of that."
+24:16 Basically, bringing them closer
+24:17 together. So, our shader map force is
+24:19 using that same approach to kind of
+24:21 bring pixels together to affect the base
+24:23 map. And you can see if I bring this
+24:25 down low enough, it's
+24:28 taking the height right out of that
+24:30 front face of that stone and making it
+24:31 flat.
+24:33 Okay?
+24:33 And so scale low pixels, that means
+24:35 we've got a lot of low pixels in this
+24:37 thing. And so we can kind of flatten
+24:39 some of the details if it's a little too
+24:41 intense.
+24:42 And then that makes it so that we can
+24:43 change the intensity graph on the normal
+24:46 map one. And so we're getting rid of
+24:49 some of the more harsher details so that
+24:51 we can then ramp the intensity up.
+24:53 High clip plane and low clip plane means
+24:56 we're clipping pixels past a certain
+24:58 range. So, this will indeed flatten out
+25:01 the top of the stones very quickly.
+25:03 You can see here, it's almost like you
+25:04 took a
+25:05 a butter knife and cut through a piece
+25:07 of butter.
+25:10 And so, you can make some portions of
+25:12 the high points be flat in case you
+25:14 don't want like spikes to exist or
+25:17 something like that. And so, then when
+25:18 we switch back to the normal map and
+25:20 mess around with the intensity, it's
+25:23 it's going to look a little bit
+25:24 different. We can
+25:26 mess around with the overall intensity,
+25:28 but then we know we could take down the
+25:29 low detail and again kind of
+25:34 cut the middle a little bit.
+25:37 And so, it just takes a little bit of
+25:38 playing around to get used to this
+25:39 software to get the results that you
+25:42 want.
+25:43 Um and so, we'll come back to that.
+25:45 Now, we've got that DXF file.
+25:48 Let's get Chief Architect open and
+25:50 going.
+25:52 And what am I going to do? I'm just
+25:53 going to throw
+25:55 a solid on the ground for now, okay?
+26:01 And let's just make this a real thin
+26:03 piece, make it a quarter inch.
+26:08 I'm going to take our source texture
+26:10 file, spray it on this thing.
+26:13 Okay.
+26:14 The next thing I want to do is I'm going
+26:16 to come back to Photoshop for a second.
+26:21 I'm going to take that source texture
+26:23 map, copy it one more time, and this
+26:25 time I'm going to use the brush tool and
+26:27 I'm going to choose a very neon color
+26:31 and I'm going to use
+26:33 this guy right here is symmetry.
+26:35 And so, we're going to do a little dual
+26:36 axis symmetry. That's going to place a
+26:39 little you can barely see it, but
+26:40 there's a little axis in the middle of
+26:42 the screen there.
+26:43 And I hit enter to commit it. And now,
+26:46 when I use the brush tool
+26:48 and I'm going to hold shift so I draw a
+26:51 perfectly straight line.
+26:53 You can see here
+26:55 it's painting with symmetry.
+26:58 And there we go. Now, I want to export
+27:00 this.
+27:01 And what is this doing for me? Well,
+27:03 Chief Architect tiles its texture.
+27:06 That's why you need a seamless texture.
+27:08 It's just budding it end to end on all
+27:10 ends, okay?
+27:12 We actually want to know where this is
+27:14 getting tiled because it's going to help
+27:15 us align our DXF file. In the case that
+27:20 it actually did a good job of creating a
+27:22 DXF file. We don't know. We'll see.
+27:25 And so, I'm going to export this PNG.
+27:28 I'm going to very specifically add
+27:31 a suffix that says delete because I
+27:33 don't want this hogging up space. If I
+27:35 do this enough times, I want to get rid
+27:37 of anything I won't be using in the long
+27:39 run. So, I put delete in there so I can
+27:41 find it later in Chief Architect's asset
+27:43 manager. And so, I'm going to put that
+27:44 in downloads.
+27:46 And then come back to Chief. I'm going
+27:48 to trade out the source texture here.
+27:54 So, I get to click import this time.
+27:57 And so, this time downloads.
+28:01 There we go.
+28:03 And so, when I press okay,
+28:05 here's where we go. We can see where
+28:06 this is repeating.
+28:07 If you use the interactive material
+28:09 editor, you just get to click on this
+28:11 and you can really see what the
+28:12 interactive material editor does, right?
+28:17 Okay.
+28:19 Now, on the top end view, I've got my
+28:22 DXF file. I get to just drag that into
+28:24 Chief and I get to go through the
+28:25 dialogue boxes for importing it. I don't
+28:28 care if um the scale is correct or not
+28:31 because I'm going to end up scaling it
+28:32 myself, right?
+28:35 Um
+28:36 what would be helpful though as we place
+28:39 this we're going to place this. There we
+28:40 go. Why did that do a terrible job?
+28:45 That did really terrible job.
+28:47 >> [laughter]
+28:49 >> And I'm going to see if I can get chat
+28:51 to do a better job. Um
+28:55 You seem to have limited the number of
+28:59 edges to say eight or so. I want to
+29:02 increase that limit
+29:05 by at least
+29:06 three times.
+29:08 So, I'm going to go ahead and make it so
+29:10 that any stone can have 24 edges.
+29:14 Um what ended up being the output of
+29:16 triangular triangular-looking shapes and
+29:19 that does not look like stone. These are
+29:21 not triangular-shaped stones.
+29:26 Please give me a new DXF file.
+29:30 We'll see how that goes.
+29:32 It's pretty bad.
+29:33 Um so,
+29:36 the point of this was
+29:39 I want to get back into this plan view
+29:41 and I'm actually going to shrink this
+29:43 solid so that
+29:45 it's cut right in the middle.
+29:48 And so, we have an idea of a one-to-one
+29:50 scale for that DXF file. Just an idea,
+29:53 you know.
+29:59 Right in the middle of those green
+30:00 edges.
+30:03 If we did it on all four sides, we could
+30:05 just cut right in the middle.
+30:07 There we go.
+30:08 So, that is the size of our texture.
+30:14 It's like GPT hieroglyphs. No kidding.
+30:17 Boy, that was a bad output. We'll have
+30:19 to see. See what what it comes up with
+30:21 this time.
+30:23 Looks like it's got a new one ready for
+30:24 me. Good. I'm glad it's at least doing
+30:26 it pretty quickly.
+30:30 And there we go. Let's try that.
+30:39 Woo, that is still bad.
+30:42 I just picked bad stone. That's really
+30:43 what I did.
+30:44 >> [laughter]
+30:44 >> I really what it was.
+30:46 Um
+30:48 This is still a really bad output and
+30:50 looks nothing like the original source
+30:52 texture. I want you to
+30:54 make this far more realistic.
+30:59 It should be based on this image first,
+31:02 please.
+31:04 I'm going to reload that image.
+31:06 It's going to ruin the stream if I can't
+31:08 get this output. There's no way we're
+31:09 modeling that by ourselves.
+31:12 Too much work.
+31:14 Let me just see if I can't help it a
+31:16 little bit along. Um another possibility
+31:19 is this image did come with a PAT file,
+31:23 right?
+31:24 Let's see if we can
+31:26 work with that.
+31:32 So, honey ledge is the PAT file.
+31:36 Let's add this pattern to library.
+31:43 Um
+31:48 See if we can do anything with that. Can
+31:49 we export this?
+31:54 Exporting library isn't the same as
+31:55 exporting a PAT file.
+32:03 the option to
+32:04 I don't see that we have an option to go
+32:06 do that.
+32:08 So, instead, let's edit the pattern.
+32:12 In the CAD editor,
+32:14 let's double-click to shut off any kind
+32:17 of
+32:18 snap grid units or reference grid.
+32:21 And then maybe
+32:23 we will take a screen clipping.
+32:25 Um but
+32:26 this isn't that accurate of a PAT file.
+32:31 So,
+32:34 what are you guys doing?
+32:35 Cuz
+32:37 I'm not going to get anywhere and
+32:39 [clears throat] by trying to generate
+32:40 this
+32:41 by hand. It would just take forever.
+32:44 Um just to tell you what I mean by that
+32:47 is we'd have to come into this view like
+32:49 this and sit here and model each of
+32:51 these stones. And that would just take
+32:54 forever. It would just take too long.
+32:57 Um so I was really hoping we would get
+32:58 something generated out of ChatGPT.
+33:01 We're going to We're trying again.
+33:10 Okay, we got another round. See what
+33:11 this one does.
+33:17 Oh yeah, that one's terrible.
+33:19 >> [laughter]
+33:22 >> Dang it.
+33:24 So the the thing I wanted to get to to
+33:26 this, I guess I'm just going to switch
+33:28 gears and and bring you over to one that
+33:31 I've already done. All right? And at
+33:34 least that keeps us moving a little bit
+33:35 here.
+33:36 Is I've got a molding somewhere in here.
+33:39 There we go. This is what the molding
+33:41 ends up being.
+33:42 Is
+33:44 you end up just uh and and let's just
+33:47 place this real quick. We're going to
+33:48 place this as a molding, which is going
+33:50 to look kind of crazy.
+33:54 Yeah, that just created
+33:56 79,000
+33:58 and 93,000. This is per edge, I guess.
+34:06 Here we go. Is that That's what the
+34:07 molding by itself ends up looking like.
+34:10 Okay?
+34:12 Kind of wild, all right?
+34:15 And that's just the inside. Haha, look
+34:17 at the Look at this. It's just
+34:20 flipped about its polyline.
+34:23 Do not show me that message again on
+34:25 this session. I hope that was just this
+34:28 session.
+34:29 Let's say
+34:32 moldings, we want to
+34:37 outside polyline.
+34:41 See if that gets us what we want.
+34:44 There we go. Now it's on the outside.
+34:46 Cool.
+34:47 So, this is effectively
+34:49 effectively what we're doing is we're
+34:51 just creating a bunch of individual
+34:53 stones, and then we save those stones as
+34:57 a symbol. This is how this works
+34:59 is
+35:04 as an example,
+35:06 let's just use the 3D solid tool,
+35:08 and I'm going to do something very
+35:10 simple.
+35:11 Okay?
+35:12 I'll just copy this over like this. Copy
+35:15 this down like this.
+35:18 This,
+35:19 etc.
+35:21 So, this would be a very very
+35:24 rudimentary example is I'm going to take
+35:26 these four.
+35:27 One, I'm going to make them Let's just
+35:29 make them like 2 in in height, okay?
+35:33 And then I'm going to make one of them
+35:35 like an inch and a half in height just
+35:38 to show you.
+35:41 And so, when we take all
+35:44 all these together, we convert this to a
+35:47 symbol. Convert selected to symbol.
+35:49 Needs to be a symbol category molding.
+35:52 Example,
+35:55 filing.
+35:59 Here's what the preview ends up looking
+36:00 like. We need to rotate this.
+36:02 Where do we rotate it? We're going to
+36:03 get into the 3D panel.
+36:05 We want to rotate it as if it were
+36:07 swinging around the X axis.
+36:10 Okay?
+36:10 So, choose the X axis checkbox.
+36:14 Rotate it 90.
+36:16 There we go. Now it's up on its edge.
+36:18 Notice the spacing's incorrect. What do
+36:20 we have to do for that? We have to
+36:22 change the bounding box of the symbol. I
+36:24 want to preview the bounding box up
+36:25 here.
+36:27 Look what happens. It shows us how Chief
+36:29 views this.
+36:31 It's going to place and resize based on
+36:32 that bounding box. So, the next thing
+36:34 that we need to do is adjust that
+36:36 bounding box so that it tiles correctly.
+36:39 Now, you can adjust it evenly on either
+36:41 side or you can just adjust it on one
+36:43 side. I don't think it matters in this
+36:45 case. Um my habit is adjusting it on
+36:48 either side. So, in order to adjust it
+36:50 without affecting the source geometry,
+36:53 we need to uncheck this box. And you may
+36:55 have noticed that it just automatically
+36:57 checked bounding box spacing.
+36:59 And so, I'm just going to throw in some
+37:00 numbers here to guess. -2 and -2.
+37:04 And we can see that was a little too
+37:05 tight.
+37:06 But you can see here what's happening.
+37:08 The bounding box just shrunk. And so,
+37:11 again, this is placing based on the
+37:13 bounding box.
+37:15 Let me go -1.75
+37:18 and -1.75 on the other side. That's a
+37:21 little closer.
+37:22 That's certainly close enough. So, now
+37:24 you can see how this is going to tile.
+37:26 Okay?
+37:27 Let me press okay.
+37:29 There is actively a glitch in Chief
+37:30 Architect. I know we all know I'm good
+37:32 at finding these things. And so,
+37:36 I'll just uh I'll just tell you what
+37:37 that glitch is. Um
+37:40 is that when we apply a cladding, that
+37:43 bounding box spacing
+37:45 um ends up getting cut in half. And
+37:47 that's that's not
+37:49 that shouldn't be the way that it is.
+37:51 Okay? So, something's happening there in
+37:53 this case.
+37:55 Now, I want to apply this to this wall.
+37:58 This is just the way I know how to do
+37:59 this right now. I haven't discovered a
+38:01 better way, but I'm going to use the
+38:04 interactive or excuse me, the adjust 3D
+38:06 cladding tool. I have it in my toolbar.
+38:09 You could get to it just by getting to
+38:11 the 3D menu adjust 3D cladding adjust 3D
+38:14 cladding tool, clicking on our wall, and
+38:17 this auto generates some kind of of
+38:20 with the texture that's already there
+38:22 applied to it.
+38:24 Now, here's where I want to replace this
+38:26 automatically generated cladding.
+38:29 So, I'm going to click on the replace
+38:30 button.
+38:32 And I'm going to find my example tiling.
+38:37 And you can see what's happening here.
+38:40 Pretty cool, right? Now, I want you to
+38:43 notice something. See how my stones are
+38:45 overlapping?
+38:46 This is what I'm talking about. Even in
+38:48 our example tiling preview, our things
+38:50 are not overlapping. Unfortunately, the
+38:52 glitch is happening in what actually
+38:55 gets generated. So, you can click on
+38:58 edit directly from here if you'd like.
+39:01 That means you're going to edit this.
+39:03 And I do not believe that you're editing
+39:05 the source. I don't think you're editing
+39:08 it from your library.
+39:10 That might be an important distinction
+39:12 in the case that Chief Architect patches
+39:14 this behavior so that you don't have to
+39:16 go back to your library and fix a bunch
+39:19 of things.
+39:20 So, I'm hoping that that edit is
+39:22 actually just editing the molding as
+39:25 it's applied to this object. We could
+39:27 test this by changing these values.
+39:30 Remember, they're cut in half. Changing
+39:32 these values here,
+39:34 and then go checking our library to see
+39:36 if it was applying it to the original
+39:38 library item.
+39:39 So, I just did something. I just punched
+39:41 in a number and I did it before changing
+39:44 update when object dimensions change,
+39:46 and that's a mistake. All right, so I'm
+39:47 going to put that back.
+39:50 And then I'm going to make sure I
+39:51 uncheck that, and now I'm going to edit
+39:53 -7/8.
+39:55 In case that's the right math. Um I
+39:57 don't know what that just said to me.
+40:01 This is not a valid measurement.
+40:03 Interesting.
+40:04 Um
+40:06 Why not?
+40:08 Oh, there we go. I couldn't put a space
+40:10 before it.
+40:11 Interesting.
+40:12 Okay.
+40:13 Now,
+40:15 in preview, what do we see?
+40:17 Okay, that's pretty good. Notice
+40:18 something else.
+40:20 Bottom is stacked right on the top. We
+40:22 actually need to change the bounding box
+40:23 spacing in the top and bottom as well.
+40:26 All right? Now, it's two stack rows.
+40:29 Yeah, I could have just uncheck again
+40:31 and
+40:33 we might think that this is the same
+40:37 value that we need, right?
+40:42 Let's check it out. See what happens.
+40:45 Oh, I went the wrong way.
+40:52 Should have known that.
+40:55 There we go. It's a little heavy. A
+40:57 little heavy of spacing.
+41:01 Let's go 3/8 and 3/8.
+41:04 There we go. That's looking pretty
+41:06 close.
+41:08 I'm still a
+41:09 sizable gap in between. So,
+41:13 let's go negative half negative half.
+41:17 Hope that made it worse.
+41:20 I'm just guessing wrong all over the
+41:21 place.
+41:25 Okay. Let's stick with that.
+41:29 So, now you get to see what happens with
+41:30 this.
+41:34 Kind of crazy now. Rem- A reminder, I
+41:36 did make some of these stones at half
+41:39 inch more shallow than others. So, if we
+41:41 start to use the move sun tool and kick
+41:44 the sun around,
+41:46 should be able to kind of tell
+41:49 yeah, where some of those stones are a
+41:50 little
+41:52 more protruded than others, right?
+41:55 Pretty slick.
+41:58 Um all that to say
+42:01 that I did create a 3D cladding stone.
+42:05 If I click and replace here,
+42:07 here we go. There is the one that I
+42:09 generated.
+42:11 And that's a pretty wild looking,
+42:14 isn't it?
+42:21 Yeah.
+42:22 That looks really good. Looks really
+42:23 good on a wall like this.
+42:25 And then you you know, you get a stone
+42:26 cap.
+42:28 And this is extensive. So,
+42:30 um to get into the full process of this,
+42:33 I was hoping it was just going to be
+42:34 like a tutorial, but unfortunately I
+42:35 just picked a bad stone from the get-go
+42:38 and I should have done a better job of
+42:39 that.
+42:40 Um but to just get through that whole
+42:42 process is
+42:43 hopefully you have a stone that already
+42:45 has something isolated. Um again, let's
+42:49 maybe I can get something free out of
+42:50 polygon.
+42:52 Maybe we could do this in the next 15
+42:54 minutes. I doubt it. I'm I'd love it if
+42:57 anybody that had questions shot me some
+42:59 questions about this.
+43:01 If there's something we're kind of
+43:02 missing out on.
+43:03 Um let me go take a look at free assets.
+43:06 Let's see if we've got it. There's a
+43:07 stone wall right there. So, we might be
+43:09 able to get that one done.
+43:13 I'm going to pick one and just get
+43:14 rolling with it and see what happens.
+43:17 You know, a brick's going to be a lot
+43:18 easier than a stone wall.
+43:20 Um if you kind of understand the
+43:21 process.
+43:23 So, let's do let's do stone real quick.
+43:27 And
+43:30 it's a ton of assets there. Let's just
+43:32 go back to that one that was already
+43:34 there. Let's do this one.
+43:36 And so, I want to download 1K. Yes, I
+43:39 do.
+43:44 Here we go.
+43:46 I've got an automatic unzipper. That'll
+43:48 just take a second to get that unzipped.
+43:51 There we go.
+43:54 And then,
+43:56 let me see if I can get ChatGPT to do
+44:01 a new one.
+44:06 This is a completely new texture. Please
+44:08 do this one instead.
+44:10 The other outputs were really, really
+44:11 bad. I need you to make this as detailed
+44:14 as it needs to be to generate individual
+44:16 stones, please.
+44:18 So,
+44:20 remove any limits on edges for this.
+44:25 But, make a a max edge cap at
+44:29 40 per stone.
+44:35 Um all that's saying is that otherwise,
+44:37 it might produce a DXF that has a ton of
+44:39 tiny little details, and we don't want
+44:41 this to be too detailed because that
+44:43 creates a problem. So, I've got ChatGPT
+44:45 working on that on the side. Meanwhile,
+44:48 let's set this up. So, we're doing kind
+44:50 of something similar
+44:52 as I've got some new texture I just got
+44:53 from Polygon. Let's go ahead and build
+44:56 the texture first.
+45:00 So, we're going to adjust this stone
+45:02 texture.
+45:05 And
+45:07 uh this is stone split face.
+45:14 I click on import.
+45:20 Where am I?
+45:21 Right here.
+45:23 Uh so, here's our color map, base color
+45:25 map.
+45:27 Okay.
+45:28 Um we're going to kill the bump map.
+45:29 We're going to import the normal map.
+45:32 I have two different normal maps here.
+45:37 Not sure why.
+45:41 Okay.
+45:43 And it's got a roughness map on this
+45:44 one, too. And we'll switch this to a
+45:46 general material,
+45:49 and then import that roughness map.
+45:53 See, displace displace displace,
+45:57 reflection,
+46:00 gloss,
+46:01 and bump.
+46:04 Actually, it doesn't look like it's got
+46:05 a true roughness map.
+46:08 It's going to show this as very glossy.
+46:14 And then it does have an AO map, so
+46:16 we'll import that as well.
+46:19 Just take a look at what this looks
+46:20 like.
+46:22 Okay.
+46:23 Now, again, there's that high gloss,
+46:26 right?
+46:27 We might actually flip this.
+46:29 Invert it, so it's not so glossy. Next
+46:31 thing I want to do is going to get into
+46:34 Photoshop real fast. Let's just open
+46:36 this
+46:37 file up now.
+46:40 And I want to make a new
+46:43 feel here where we just do that little
+46:45 butterfly. Full axis symmetry.
+46:48 Commit it.
+46:49 Hold shift.
+46:51 Pull in my
+46:52 green edge.
+46:56 All right. Export this.
+47:02 And I'm going to add delete at the end.
+47:09 Back to Chief.
+47:11 Import that.
+47:20 And
+47:22 there it goes. It's the same exact size
+47:24 as before. That's great.
+47:28 And then let's import our DXF file on
+47:31 this.
+47:39 Which I'm just downloading that on the
+47:41 side screen.
+47:46 Okay. Okay. Okay. Where'd I get it?
+47:49 Stone brick split face. There we go.
+47:56 Oh, what happened? Error.
+47:59 No.
+48:00 >> [laughter]
+48:01 >> Dang it.
+48:03 Why?
+48:05 Why why why?
+48:08 Uh
+48:09 okay. [laughter]
+48:11 This was an invalid DXF file. Can you
+48:13 rebuild this again? It needs to be
+48:14 compatible with Chief Architect. This
+48:16 came up with a Deja error.
+48:37 Hey, welcome in, Sharon.
+48:40 Thank you for joining.
+48:45 Only import catalogs for the
+48:46 I'll try this again.
+48:52 All right, fingers crossed, everybody.
+48:59 Hey, look at that. That actually doesn't
+49:00 look too bad. We'll see.
+49:02 I'm just going to do a little
+49:03 point-to-point, get this up on our
+49:05 square.
+49:07 I think we might have enough time to do
+49:08 this if we get it right.
+49:10 And then
+49:12 Um looks like this
+49:15 scale of this is Well, it's based on the
+49:19 original scale, that source image.
+49:22 And so, I can see why this is being a
+49:23 problem.
+49:25 is
+49:27 This is a one-to-one. This should have
+49:28 been a one-to-one.
+49:31 So, you Let me use the
+49:32 material editor.
+49:37 And just get this to be
+49:39 95 and 95.
+49:44 And yeah, so I need to resize this.
+49:49 Is it a different texture?
+49:52 Look at this right in the middle like
+49:53 that.
+49:55 This right in the middle like this.
+50:02 There we are.
+50:03 Now we can see the size of this changed,
+50:06 which is what we want.
+50:08 One to one, so we should just be able to
+50:10 slide this down like that. Now we get to
+50:12 explode this.
+50:14 Right? Explode that CAD block. Got a
+50:16 bunch of individual stones.
+50:19 And
+50:21 um I need to distinguish what's the
+50:23 solid and what's not. This is just a
+50:25 polyline. I get to get rid of that.
+50:28 What's under um underneath that is our
+50:30 solid. So I'm going to select that. I'm
+50:33 going to hold control and this inverts
+50:35 the selection. This makes sure that I
+50:37 don't select the solid that's
+50:39 underneath. Instead, I'm selecting all
+50:42 these individual polylines. All right.
+50:46 Now with those selected, I should be
+50:47 able to convert them. But guess what?
+50:50 There's an old old old old glitch in
+50:52 Chief Architect, which limits the number
+50:54 of polylines you can select at once. So
+50:57 believe it or not, I'm in contained
+50:59 selection mode, meaning anything that is
+51:01 fully contained is selected, and this
+51:03 means I just have to convert a batch at
+51:05 once. Notice that this just showed up.
+51:08 Okay? It did not show up when I had more
+51:12 selected. Oh, well, actually, there it
+51:14 is. Hold on. Let's see how many we can
+51:16 get in here.
+51:17 This is a really old glitch.
+51:19 Yeah, see we couldn't couldn't quite get
+51:21 everything. We can do a bunch at once,
+51:24 but yeah, this disappears when I add
+51:26 this last row here.
+51:28 Okay? So just know there's a limit
+51:30 there.
+51:31 So I'll convert these. Convert these to
+51:33 3D solids.
+51:37 Let's make them about 1 in tall.
+51:43 And I should be able to hold control,
+51:46 invert my selection,
+51:48 and convert the rest.
+51:50 Even though we got some really strange
+51:51 highlighting issues happening there.
+51:54 Convert the rest to 3D solid. No, it's
+51:57 not going to let me. I've got a mix
+51:58 match.
+52:02 So, some of these are still not solids.
+52:06 Dang it. We might be able to do a little
+52:09 select marquee similar.
+52:12 Slide these up
+52:14 and just get them out of the way for a
+52:15 second.
+52:16 Slide them up 90 in. There
+52:19 There we go. There's my leftover.
+52:22 Hopefully, yes, I get to convert these
+52:24 to 3D solid.
+52:29 So, these 1 in as well. Slide these up
+52:32 90 in. Why not? That seems easy.
+52:40 Okay.
+52:42 Um and Anthony's saying that uh Light
+52:44 Beams has the follow map. It's the same
+52:45 as Polygon. They're the same maps. Um
+52:48 it's usually just that what Polygon
+52:50 calls a gloss map is just an inversion
+52:52 of the roughness map. It's just a
+52:54 different thing.
+52:55 Um
+52:56 and it's the same thing that I will
+52:58 will say about Light Beams that I say
+53:00 about Polygon, uh which is if you go
+53:02 back a couple episodes, is that the
+53:04 roughness maps in there um really leave
+53:07 a lot to be desired. They They end up
+53:09 making those materials look really flat,
+53:11 and I did do a little description of why
+53:13 that matters. So, it's just something to
+53:15 keep in mind with all these third-party
+53:17 uh texture sources.
+53:19 Okay. Um
+53:21 now I have a bunch of these individual
+53:23 pieces. Let's go look at the 3D here.
+53:26 We're going to run this show a little
+53:27 bit long.
+53:28 Um I don't have a meeting after this, so
+53:30 and then I am on a little bit of a
+53:34 um
+53:35 going to be off the clock this week.
+53:37 And so, there we go. We got all these
+53:38 little individual pieces. Watch what
+53:40 happens. We're just going to paint these
+53:42 pieces with this stone texture that
+53:43 we've got. So, we can paint everything
+53:45 in plan. Doesn't matter.
+53:47 This is just a throwaway plan anyways.
+53:52 And so, there we go. We've now painted
+53:54 this. Now, notice that the map is a
+53:56 little bit off. This is the reason why
+53:59 we put this green piece here. It's
+54:01 because we're going to have to adjust
+54:02 this.
+54:03 Okay, so
+54:04 um I'm going to use just the interactive
+54:06 material editor and slide this to the
+54:09 point where
+54:10 all those stones line up. You can kind
+54:12 of see what's happening here.
+54:13 There we go.
+54:14 That DXF is perfect. It lines up.
+54:17 And so, here's kind of the fun part to
+54:19 me is we get to go through here and pick
+54:21 the stones that we want to like raise
+54:23 up, right? And I just kind of do this
+54:25 randomly. Just hold my control key and
+54:29 um
+54:30 this piece down here, that's fine. We
+54:32 can just
+54:34 I'm just going to slide this out of the
+54:35 way for a second. We'll take this up to
+54:37 200 in or something.
+54:40 So, I'm just going to hold my control
+54:41 key and just randomly pick some stuff.
+54:44 Hopefully not the ground there.
+54:49 And so, all I'm going to do here is
+54:51 change the height. Now, I'm skipping a
+54:53 tap a step that I really need to pay
+54:55 attention to and we'll get to that in
+54:57 just a second.
+54:59 Um
+55:00 but this really is my favorite part of
+55:02 this process. It's making that depth
+55:04 really pop off the screen. So, I'm
+55:07 opening these up and I'm just changing
+55:08 the height by a little bit. Inch and a
+55:10 half, something like that.
+55:12 So, that's just making those stand up
+55:14 just a little bit.
+55:16 Now, the next part of this is because
+55:18 this was a seamless texture, it's
+55:20 wrapping from left to right.
+55:22 So,
+55:23 if you really want this to look perfect,
+55:26 you'd have to find the full extents
+55:31 of the of this 3D geometry. And so, I'm
+55:34 just using a CAD line to kind of
+55:35 understand where that full extent is.
+55:38 I've got a couple cad lines here. Now
+55:40 I've got a cad line that bridges between
+55:42 the two, which means I can pick my
+55:44 midpoint.
+55:45 From my midpoint, I can start taking
+55:47 things like this little piece on this
+55:49 side, I'm going to
+55:51 reflect to the other side. Um and I did
+55:54 something wrong there. It's not actually
+55:56 a reflect that I need to do in this
+55:58 case.
+56:01 In fact, I think it's just going to be
+56:04 what? I guess we need to do a point to
+56:05 point in this case.
+56:07 Um so,
+56:09 you just do a bunch of selections at
+56:10 once where these are split up.
+56:15 Get these stones that look like they're
+56:17 cut in half.
+56:19 And I'm looking at the right-hand side
+56:21 to understand more about what's
+56:22 happening on the right-hand side at the
+56:23 same time.
+56:27 Okay.
+56:31 And so I'm just taking this point to
+56:32 point over to the other side. You can
+56:35 kind of understand what why we just did
+56:37 that, right?
+56:38 Is now I get to take these two and union
+56:41 them together.
+56:49 I would love to say when this pops up,
+56:51 would you like to retain original
+56:53 objects? I would love to say remember my
+56:55 choice, but this is not on a procession
+56:57 basis. And sometimes you want that
+57:00 option to be the opposite of what you
+57:02 chose. So, this is the only way to get
+57:04 around it. I wish that was on a
+57:06 procession basis. If you agree with me,
+57:08 go send in a suggestion.
+57:13 Um and just so you know, you can always
+57:14 call in your suggestions. It makes it a
+57:16 lot faster and easier to do.
+57:21 Okay. Now I've got what should be
+57:24 somewhat of a seamless setup now.
+57:33 Cool. Cool. cool. Let's make a couple
+57:36 more stones just really pop off the
+57:38 screen.
+57:40 This guy.
+57:44 Make a couple of these just really stand
+57:46 out.
+57:50 So, we'll go 2 in with these.
+57:53 I know.
+57:54 Now, it's important to leave this here
+57:55 until you've really built it all out and
+57:58 gotten it tested, okay?
+58:01 With that in place, I'm going to slide
+58:03 this piece. This is going to become a
+58:05 backer for everything, all right? So,
+58:07 I'm going to slide this back down. I
+58:08 think it was 200 in. Yes, it was.
+58:11 Yes, it was. Um we want to see what the
+58:14 height to the bottom is here. Finish
+58:16 floor to bottom 13 3/4. Let's copy that
+58:18 and let's apply that to finish floor to
+58:21 the top of this underlying piece.
+58:28 So, that should should just back that
+58:30 right up. Now, you can see why this is
+58:33 kind of an important piece too as well
+58:35 as having a normal map is it just makes
+58:37 this all work together in the case that
+58:40 you might have some areas that are kind
+58:42 of shown through where the DXF didn't
+58:44 produce a stone and that's okay.
+58:47 Okay, so now that we have this should be
+58:50 able to just select everything. First of
+58:52 all, I'm going to get rid of my CAD
+58:53 lines just so they're out of my way.
+58:56 And then, I should just be able to
+58:57 select this whole thing and if I've got
+58:59 no CAD lines in there, this should be
+59:02 available to me. Convert selected to
+59:03 symbol.
+59:05 And so, we're going to create that
+59:06 molding. And we're doing the same thing
+59:08 that we had to do before. We're going to
+59:09 have to rotate this.
+59:21 I do believe that this is generating a
+59:23 high poly count. So, in a in a world,
+59:25 I'd go spend the time to to rectify that
+59:28 issue. Um I think the DXF just produced
+59:31 too many edges.
+59:32 Um
+59:34 it's what else? 15,000 faces. It's not
+59:36 terrible.
+59:40 Cuz it's a large um
+59:42 a large body, right?
+59:45 Right.
+59:47 This is so fun to me. I enjoy the heck
+59:50 out of this.
+59:51 Um we're going to get rid of that PAT
+59:53 file
+59:54 because our cladding will take the place
+59:56 of that PAT file. Just to show you what
+59:59 I mean. You see all these individual
+1:00:00 lines in there. It makes it look really
+1:00:02 confusing. So, if we get to the
+1:00:04 materials panel,
+1:00:07 and something is definitely slowing this
+1:00:09 up. And we hit select material,
+1:00:12 and we're just going to edit
+1:00:15 source material,
+1:00:16 and we're going to get to the pattern
+1:00:17 part and just choose no pattern.
+1:00:21 That'll make
+1:00:22 this move a little bit faster, too. Yep,
+1:00:25 it does.
+1:00:26 And so, here's where we're doing that
+1:00:27 same thing. We've got to do that
+1:00:28 advanced sizing. We've got to uncheck 3D
+1:00:31 geometry dimensions, and we've got to
+1:00:33 get some left and right action. And
+1:00:35 remember that it's going to be cut in
+1:00:36 half when it's applied as a cladding.
+1:00:39 So, let me go
+1:00:41 um -6 and -6 just as a test.
+1:00:46 That's not enough.
+1:00:49 12 and -12. I probably could have just
+1:00:51 done the math, but I'm not too worried
+1:00:53 about it. I'm going to press okay.
+1:01:03 10:00. Yeah, well, we're just going to
+1:01:05 go a little over. So, now we get to use
+1:01:07 the
+1:01:08 um adjust cladding
+1:01:10 tool.
+1:01:12 We get to replace this.
+1:01:19 Um I'm not sure that I named it. I must
+1:01:21 not have named it.
+1:01:26 Yeah, there it is right there.
+1:01:28 It'd be good if we renamed it.
+1:01:31 Um
+1:01:41 Okay.
+1:01:46 I kicked that around.
+1:01:50 Yeah.
+1:01:51 Got a couple problems in it.
+1:01:53 >> [laughter]
+1:01:54 >> We'll see. We'll see how it goes.
+1:01:56 Let's just press okay and see what
+1:01:57 happens.
+1:02:00 Honestly,
+1:02:02 not bad.
+1:02:04 I think there's some things I got to
+1:02:05 fix. Want to make sure that this has got
+1:02:07 the correct texture on it.
+1:02:10 And this is why we leave that green
+1:02:11 texture up.
+1:02:13 Yeah, something's overlapping. That's
+1:02:14 why you're seeing what's called
+1:02:15 Z-fighting here.
+1:02:17 That's what that offset That's what that
+1:02:19 offset's doing.
+1:02:20 So, our offset's a little off.
+1:02:30 You know, and it's going to be difficult
+1:02:32 to see this.
+1:02:33 So,
+1:02:35 edit.
+1:02:37 I can check.
+1:02:38 Let's try this -6 and -6.
+1:02:41 Why not?
+1:02:43 Okay.
+1:02:46 And this is just kind of a guess and
+1:02:47 check until they update and fix this
+1:02:49 little error.
+1:02:51 There's no way that I know around it
+1:02:53 besides just
+1:02:55 testing.
+1:02:56 Um and so this brings up a really good
+1:02:58 point is that backing piece is is really
+1:03:01 showing up here. So, we understand when
+1:03:02 it meets or not. And sometimes it's
+1:03:05 beneficial to let that backing piece
+1:03:07 overlap. Uh because you won't barely
+1:03:09 notice it, but it will help you kind of
+1:03:11 fill in and bridge gaps like this.
+1:03:19 Here we go. -9 seems to be maybe the
+1:03:21 sweet spot.
+1:03:24 So, once you've got this all dialed out
+1:03:26 and you get it the way you want, then
+1:03:28 you just replace the source texture with
+1:03:30 the one that doesn't have the green
+1:03:32 lines on it.
+1:03:36 And then once that's all done,
+1:03:39 you're pretty much set to go. Um
+1:03:42 we can see that there's a misalignment
+1:03:44 in the texture itself. I have found that
+1:03:49 you could use the interactive material
+1:03:51 editor to kind of adjust this.
+1:03:53 Um but the other thing that you might be
+1:03:54 able to do is
+1:03:56 choose global symbol mapping.
+1:04:03 Yeah, not quite. Still not quite hit not
+1:04:05 quite aligned. So, the texture is not
+1:04:07 aligned.
+1:04:09 Um and so then it's a matter of like
+1:04:11 figuring out exactly
+1:04:14 where that overlap is so that we can get
+1:04:16 the alignment correct. Um because it can
+1:04:18 be very difficult even even with this
+1:04:20 tool, it can be very difficult to get
+1:04:22 this aligned on your stone. You know,
+1:04:25 it's so hard to see the underlying
+1:04:27 stone. It looks like
+1:04:29 yeah.
+1:04:31 And so this part's tricky.
+1:04:33 Um because it did something when it
+1:04:35 created it the cladding profile. It
+1:04:37 basically moved our coordinates.
+1:04:41 And so this part's really difficult to
+1:04:43 like be able to see how this is supposed
+1:04:45 to line up. Cuz when it lines up, it's
+1:04:46 going to look great, right?
+1:04:48 Keep in mind, it's still
+1:04:51 um
+1:04:52 being edited here at the same time.
+1:04:56 All right? So, this stone is aligned
+1:04:58 perfectly, whereas the cladding is not
+1:05:00 the material
+1:05:02 on the cladding is not. So, there's some
+1:05:04 kind of adjustment that's that's
+1:05:05 happening when it's generating. Again,
+1:05:07 this is another glitch that shouldn't
+1:05:09 happen. It should keep its original
+1:05:10 mapping.
+1:05:12 Um
+1:05:13 So, hopefully you can just kind of see
+1:05:14 through that problem and understand that
+1:05:16 at at the end of this, you get a stone
+1:05:19 that that looks really realistic,
+1:05:20 perfect for like just a
+1:05:22 um like a pony wall ledge rock stone.
+1:05:27 Uh I think we should probably call it. I
+1:05:29 don't have any great solutions for
+1:05:31 aligning this
+1:05:32 off the top of my head.
+1:05:34 The fact that it's off. Um
+1:05:37 Except for I think that the cladding
+1:05:39 regenerates at the zero mark. So, at
+1:05:42 least you could find your top and bottom
+1:05:45 axis. Um so, if I
+1:05:48 kind of switch this to a standard
+1:05:50 rendering view,
+1:05:52 maybe.
+1:05:54 Turn up the brightness, daytime ambient
+1:05:56 so we can see.
+1:05:58 And then I'll adjust my clipping on the
+1:06:01 camera.
+1:06:03 Not.
+1:06:05 So, maybe we could see where the floor
+1:06:07 is.
+1:06:09 There we go. And because the this
+1:06:11 texture and this cladding, the way it
+1:06:14 was applied, is it should be aligned on
+1:06:16 the floor at least. So, at least we know
+1:06:19 that this should be
+1:06:20 down here.
+1:06:22 Hopefully,
+1:06:23 that helps me place it better.
+1:06:25 And actually,
+1:06:27 I don't know why, but that looks like it
+1:06:28 did it.
+1:06:31 Why wouldn't we have lucked out? Yeah,
+1:06:32 that actually looks like it lines up.
+1:06:34 Let's go check this out in the ray
+1:06:35 trace.
+1:06:37 Heck yeah, look at that.
+1:06:42 That looks brilliant.
+1:06:48 And so, here we go. Let's close out the
+1:06:49 show. We just get to
+1:06:52 hit select.
+1:06:53 There's our delete texture. Right next
+1:06:55 to our delete texture should be the
+1:06:57 original.
+1:06:59 There we go. That's how easy it was to
+1:07:00 swap that out.
+1:07:02 And at some point, I'll go into asset
+1:07:04 manager, delete everything that says
+1:07:05 delete.
+1:07:07 Sweet, we got it done.
+1:07:09 Ran a little bit long, but there you go.
+1:07:12 And now you know it's going to take you
+1:07:14 at least an hour
+1:07:15 to do one of these. So, choose your
+1:07:18 stone wisely.
+1:07:23 Cool. Cool. Cool.
+1:07:25 Um
+1:07:26 I want to thank you. Thank you for
+1:07:27 sticking through on this. I know this is
+1:07:28 um just outside of what most people need
+1:07:31 in this software, but you never know.
+1:07:33 This could be a really cool feature. You
+1:07:36 here that the normal map coming from
+1:07:38 polygon is pretty good. It's making
+1:07:39 these stones look really realistic.
+1:07:42 Um if you have a more simple stone and
+1:07:45 you want to get crazy,
+1:07:47 these are just solids. Remember that
+1:07:49 these are solids and what can we do with
+1:07:51 solids? You could use the chamfer tool
+1:07:53 or you could use the fillet tool to
+1:07:55 soften those edges or chamfer those
+1:07:57 edges. I would probably do chamfer. It's
+1:07:58 going to create less poly count, um but
+1:08:01 give you a little bit more realism.
+1:08:02 Maybe choose three or four rocks where
+1:08:04 you're just going to chamfer all edges.
+1:08:06 It might be something you do if you've
+1:08:08 got a really simple one to work from.
+1:08:11 Um so,
+1:08:12 sweet.
+1:08:14 Sweet. Sweet. Sweet.
+1:08:16 Uh thanks, all.
+1:08:19 Just a reminder, I sell templates. I
+1:08:21 sell library items like this one that's
+1:08:23 going to go in my library and uh
+1:08:26 and go ahead and subscribe to my
+1:08:27 YouTube.

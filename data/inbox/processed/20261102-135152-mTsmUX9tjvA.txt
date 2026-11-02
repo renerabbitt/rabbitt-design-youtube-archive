@@ -1,0 +1,1655 @@
+Title: Template Tuesdays #10 - Detail Drawing
+URL: https://www.youtube.com/watch?v=mTsmUX9tjvA
+Visibility: members-only
+
+0:03 Live.
+0:05 >> [laughter]
+0:06 >> 901, I barely made it.
+0:09 Uh, I did not announce this one, so
+0:11 we'll see who uh ends up showing up to
+0:13 this or not.
+0:15 Maybe I'll make a quick post real quick,
+0:16 but this one um
+0:18 kind of last minute decision to make
+0:19 this about uh doing some CAD detail work
+0:22 and
+0:23 uh this is actually a request that comes
+0:25 up quite a bit and
+0:28 and then I forget who requested it and I
+0:30 forget to tag them and I forget to get
+0:31 them all excited about it and so that
+0:33 they can come in here and ask questions
+0:35 about how do we draft CAD details in
+0:38 Chief Architect because it's very
+0:39 different coming from AutoCAD and
+0:42 missing some of the things that you had
+0:44 in AutoCAD and feeling like you know,
+0:46 Chief is a big let down in terms of its
+0:48 CAD abilities, but Chief actually has
+0:50 some really cool CAD tools. They just
+0:53 but it's a different workflow than
+0:55 AutoCAD, so
+0:56 it's hard to like let go of the AutoCAD
+0:59 workflow to get into that, you know,
+1:02 like learn Chief the way it's supposed
+1:04 to be used in terms of its CAD workflow,
+1:06 so
+1:07 it's a tough topic to cover and
+1:10 and you're going to get some heated
+1:12 debates about why it's not better or why
+1:14 it's worse or what have you, but um
+1:17 the best way that I can go about doing
+1:19 this is just to start drawing some of my
+1:21 own details so that we can show, you
+1:23 know, some of the tricks and and tips
+1:25 that I use for this.
+1:27 And I think
+1:28 probably trick and tip number one is
+1:33 I would say you need a few hot keys set
+1:35 up on some devices.
+1:37 If you've never set up any kind of hot
+1:39 keys cuz you just
+1:41 um have a you know, take it easy, go at
+1:43 your own pace kind of a thing. I totally
+1:46 get that. There are times where I don't
+1:48 really implement a lot of hot keys, but
+1:50 I still have a couple of staple ones
+1:54 that I use that um just
+1:57 feel like even if I'm doing a casual
+1:59 drafting session, I still need just
+2:01 those couple of ones that I am always
+2:04 going to use.
+2:05 And it's it's mainly um five
+2:08 hot keys.
+2:09 And so it's helpful if you've got a
+2:11 device that can that can handle that,
+2:13 right? If you've got a mouse that can
+2:14 handle that many hot keys.
+2:16 And so I use the G604 mouse. It's
+2:19 Logitech. It's um it's discontinued. Let
+2:22 me see. Can't get up the main webcam
+2:24 here for a second.
+2:26 And so what's this guy? And so we see
+2:28 we've got, you know, a number of buttons
+2:30 on
+2:31 the left-hand side of this thing. And
+2:32 then on the top of this thing, we also
+2:33 have a couple of additional buttons.
+2:36 Now, they have some other versions
+2:39 of of mice that are similar to this
+2:41 where they've got enough buttons like
+2:42 this, but this one in particular, one, I
+2:45 just think it's got the best ergonomics.
+2:47 And two is that it's anti-ghosting is
+2:50 really fantastic. You It's not even
+2:51 called anti-ghosting. It's something
+2:53 else. I can't remember what it's called
+2:54 right now, but I'm hitting two buttons
+2:56 at the same time, both of those will
+2:58 execute
+2:59 uh simultaneously. So, some
+3:02 mouse driver software
+3:05 doesn't implement that even though you
+3:07 might have enough buttons, it might not
+3:08 be that you could press two buttons at
+3:10 once. So, that's part of it, too.
+3:12 And so my main hot keys that I need to
+3:14 have even for a casual drafting session
+3:17 is copy paste. I need a a reflect about.
+3:21 I need center object. I need point to
+3:23 point. And I need the enter key.
+3:26 So, enter key is for doing tab input and
+3:28 closing dialog boxes.
+3:30 Um
+3:32 and then tack on to that a couple of
+3:34 them that I really enjoy about this
+3:37 mouse cuz we've got a left and right um
+3:39 kind of push on on the mouse wheel.
+3:42 And then on top of the push on the mouse
+3:44 wheel left and right, I've got a top and
+3:46 bottom. So, these feel a lot like
+3:48 going forward back or up and down and
+3:51 left and right.
+3:53 And so it makes sense to bind those to
+3:55 several different things where we've got
+3:57 that kind of similar action.
+3:59 And I can do a little bit of finger
+4:01 Olympics still. I don't quite have
+4:03 arthritis yet. And so I can actually hit
+4:05 a control button here or a shift button
+4:07 here or both at the same time and go
+4:10 up and down and left and right while
+4:12 hitting the modifier key. So I
+4:14 essentially have a ton of different um
+4:17 capabilities in this thing.
+4:19 How does that tie into CAD drafting? Uh
+4:22 I think that
+4:24 making the CAD drafting in Chief
+4:26 Architect enjoyable has to do with the
+4:28 fact that I can get to that copy paste
+4:31 reflect about or copy paste center or
+4:33 copy paste point to point workflow very
+4:36 very easily. And so I'll tell you if
+4:39 you're coming from AutoCAD and you want
+4:40 to do CAD details, that's going to be a
+4:43 big one for me is that just brings up
+4:47 just like the the the feeling that
+4:50 you're in control of what you're doing
+4:52 as opposed to kind of fighting to find
+4:55 things like where these buttons exist on
+4:57 the toolbar.
+4:59 And it becomes muscle memory so that I
+5:01 can just do copy paste reflect about and
+5:03 I know that, you know, that's so simple
+5:06 to me. It's so simple to get that action
+5:08 to work.
+5:09 And and so that's huge part of the CAD
+5:12 drafting process for me.
+5:14 Um another thing that I like to set up
+5:16 just right away is I don't want to draft
+5:18 with my line weights showing
+5:21 um because I find it to be very
+5:22 distracting. I want to go designate my
+5:24 line weights after I've kind of finished
+5:26 drawing. So
+5:28 um
+5:29 that's going to be another just a setup
+5:30 thing. Now, I have some details. People
+5:33 send me details when they have bought
+5:36 into my systems. When they have my
+5:37 template, you know, that there's that
+5:40 template comes with a ton of details,
+5:42 but doesn't have all details, you know,
+5:44 it's missing some stuff. So people will
+5:46 send me stuff
+5:47 and
+5:48 I get the option. I go say, "Hey, if you
+5:50 want to you want to draw your detail in
+5:52 the style that I've done details here
+5:55 and send me that detail, then I might
+5:58 take it that lot. That's going to
+6:00 it's going to skip the queue, basically.
+6:01 It's I'm going to take that extra time
+6:03 to get it, you know, that that 10% to
+6:06 get it up to my standard, and then it
+6:07 makes it into my product. That's cool.
+6:09 Everybody wins.
+6:11 And but there's occasionally times where
+6:12 I get a detail and it's not converted,
+6:15 so I got to start from scratch. So,
+6:17 that's what I was going to take a look
+6:19 at today is I probably have some details
+6:21 I can work with that I'd like to convert
+6:23 and see what happens there.
+6:25 And in the meantime, I got the chat
+6:27 window up. Good morning, everybody. Good
+6:29 morning, Victor. Good morning, Merlin.
+6:31 Good morning, Anthony.
+6:32 And uh
+6:35 yeah, if you guys know of it some of you
+6:37 have my full library. If you know of a
+6:39 detail in there that you'd love to get
+6:40 converted, let me know cuz there are
+6:42 there is a whole section in here that um
+6:45 um gentleman by the name of Mike um
+6:48 introduced Excuse me, not introduced. He
+6:51 he gave me his library of details. He
+6:53 said, "Please, anytime you want to
+6:54 convert these, go for it." So,
+6:57 um that was very very cool of him.
+7:00 So, I'm going to probably start with
+7:01 there, but I'm going to have to find
+7:02 those things where I kept them.
+7:05 I believe should be in a drafting
+7:06 specific folder
+7:08 called details. There we go.
+7:12 And there's the man with the plan, Mike.
+7:14 And
+7:15 so, I'll just be dropping a bunch of
+7:17 little hints here. If you catch one and
+7:19 you want to know more about it, let me
+7:21 know. On a PC, I can undock this library
+7:25 browser and I could hit the Windows key
+7:27 right, and you can see that this expands
+7:29 this quite a bit. And then if I double
+7:31 click the heading at the top, it's going
+7:32 to push it right back into my side
+7:34 window dock. So, that's just me
+7:36 expanding it, and I don't know if
+7:38 there's an equivalent for um
+7:41 uh
+7:42 for the Mac, unfortunately.
+7:45 So,
+7:46 if someone knows of an equivalent, let
+7:48 me know, cuz I love to know these
+7:49 things, no matter what system you're on.
+7:53 And so, I'm going to look through just a
+7:55 couple of these details and see what
+7:56 he's got separate from
+7:58 some of the things that I already have
+8:00 drawn, cuz
+8:01 I'm going to have a lot of these details
+8:03 similarly
+8:05 in my system.
+8:07 But, maybe there's something in here
+8:09 that's worth looking at. So, we can
+8:11 start from that.
+8:14 Well, that's good looking.
+8:16 I have my own color coding for these
+8:17 kind of things, but I wonder what the
+8:18 rule set is here.
+8:21 Why some of these are color coded and
+8:23 some are not.
+8:25 Detail drawings uh
+8:27 It's funny, there's I like some aspects
+8:30 of it, there's standards, but
+8:32 there's there's a little bit of wild
+8:33 west going on, where you get to just
+8:35 kind of do what you feel like doing.
+8:37 Uh
+8:39 I certainly do something,
+8:41 you know, unique in my details.
+8:45 The way I do break lines, I like the way
+8:47 I do break lines, which is just blank
+8:50 white space.
+8:52 Um but, let's just start Why not? We'll
+8:55 start with this one. Looks like a heel
+8:57 height. Yeah, energy heel truss.
+8:59 And so, we could just take this CAD
+9:02 block, throw it up in here, just like
+9:04 that. Now,
+9:06 I tend to not scale my details. And so,
+9:10 and and that's on purpose.
+9:12 Um
+9:13 I don't know if people know it, but
+9:15 there is a joke inside of my templates.
+9:17 It's inside of the CAD details section
+9:19 of the project browser. If you go expand
+9:21 the project browser and and dig deep in
+9:23 there, you know, this is pretty well
+9:25 organized. Is when you open up
+9:28 my template plan and you start looking
+9:29 in the CAD details, or you start looking
+9:31 in um schedules and everything, I have
+9:34 um subcategories and folders and
+9:36 everything's labeled.
+9:37 And so, we've got 4x4 grid detail.
+9:39 That's how I got to this
+9:41 portal
+9:42 detail. Um but, there is this joke here
+9:46 called the rabbit method.
+9:48 I go open this up and I
+9:50 and I love
+9:51 I'm a big prankster, so I love kind of
+9:53 throwing some shade at people, but all
+9:56 this is
+9:57 and I guess I don't need to zoom in it
+9:59 like that is
+10:02 um
+10:03 and this was taught to me by an engineer
+10:05 a long time ago. It was, "Look, I get to
+10:07 draw one detail, and if I make it
+10:09 somewhat ambiguous,
+10:11 then all you're going to look at is the
+10:12 annotation.
+10:13 And so, you're going to see per plan.
+10:15 And maybe per plan says, you know, 2x6,
+10:18 2x4, what have you."
+10:20 And then this was the joke versus the
+10:21 architect. And you know, if you're an
+10:23 architect and then in the comments,
+10:25 let me have it. Let's hear it.
+10:27 But that you might be drawing
+10:29 50 details, one for every possible
+10:31 condition imaginable versus, you know,
+10:33 this per plan
+10:36 And this is the basis of how my quick
+10:37 switching system works.
+10:40 And
+10:41 with that being said, I don't I don't
+10:43 really pay close attention to scale. All
+10:46 I'm trying to get my scale to do is make
+10:48 this be in a 4x4 space.
+10:51 And so, I'm actually not going to place
+10:52 this in in this detail. I'm going to
+10:54 start with some detail that looks pretty
+10:56 similar to it. So, I'm going to get into
+10:57 my framing details.
+10:59 I'll get into some
+11:01 maybe roof detail.
+11:03 And we'll just start by duplicating
+11:05 something I already have. So, I'm going
+11:06 to duplicate a detail.
+11:08 And in this case, we're going to call
+11:10 this
+11:12 us
+11:14 energy heel.
+11:20 Okay.
+11:21 Let me get back to my library.
+11:27 Somehow this is selected, but
+11:30 now it seems like it's not.
+11:42 That's a little pet peeve of mine for
+11:44 Chief. Is you can select something, it
+11:46 still shows in the preview window, but
+11:48 there's no way to place it. It's uh you
+11:50 also can't find it cuz it's no longer
+11:52 highlighted even though it's selected.
+11:54 So, you got to go find it again.
+11:57 Kind of dumb. There it is.
+11:59 Cool.
+12:01 And so, this is coming in as a CAD
+12:02 block.
+12:03 Right? And that's what this symbol is in
+12:05 our edit tool bar. Explode
+12:07 CAD block.
+12:09 And you can stretch a CAD block. Just
+12:11 know that when you go to explode a
+12:13 stretched CAD block, they cannot explode
+12:16 it cuz you changed the X and Y.
+12:18 All right. So, I'm going to
+12:20 undo that. But, stretching a CAD block
+12:22 is an an interesting trick for being
+12:24 able to space out elements at times that
+12:27 are static elements such as markers or
+12:30 notes.
+12:31 And so, with that you can do some pretty
+12:34 cool things where you're, you know,
+12:35 creating a zone and that anything in
+12:37 that zone [clears throat] can be
+12:40 manipulated. That's very advanced. We're
+12:42 not going to touch on that. But,
+12:44 um
+12:45 let me explode this CAD block.
+12:48 And it says, you know, some of these
+12:49 things are on layers that
+12:52 aren't displayed. Do you want to display
+12:53 those layers? Now, this is kind of a
+12:55 problem is
+12:57 you know, you might be getting a CAD
+12:58 detail from on the internet somewhere
+13:00 and they might be using unique layer
+13:02 names. And so, then when you go explode
+13:04 it into your template plan, you now have
+13:06 injected unique layer names into your
+13:08 template plan that you might have a
+13:10 difficult time tracking down later on.
+13:13 So, just keep in mind
+13:15 when we're finished making our CAD
+13:16 details, we want to clean up those
+13:18 layers and we don't want to save this as
+13:21 our template. We want to copy the CAD
+13:23 detail into our CAD details for our
+13:27 template. All right, so I do want to
+13:29 show these unique layers and then on top
+13:32 of that
+13:33 I still have everything selected right
+13:34 now. Here's a big trick in Chief
+13:36 Architect. If you're new to Chief
+13:38 Architect, you don't know about this,
+13:40 when you explode something, everything
+13:42 remains selected. Make sure you don't
+13:45 click off of this to lose that selection
+13:48 in case you want to go do something like
+13:50 this, which is I want to open up
+13:52 everything here and I want to send this
+13:54 to its default layer according to Chief.
+13:58 That's not some weird strange like
+14:00 brought over default layer that came in
+14:03 from wherever this CAD detail was drawn
+14:05 from.
+14:06 That's the default layers according to
+14:08 what your current CAD detail layer is
+14:11 and your current text layer is and so
+14:14 then any arrows that might be associated
+14:16 with that as well. So this is a really
+14:18 important part of this workflow. So if
+14:20 you're going to work from some detail
+14:22 that's already been drawn before and
+14:23 you're going to conform it, you want to
+14:25 make sure you get those layers correct.
+14:27 You want to make sure you know, it gets
+14:29 back to that. The other thing that I
+14:30 typically want to do is I want to make
+14:32 sure that um even my line styles
+14:35 and my weights are following the
+14:37 default.
+14:39 So, that's what I'm going to do here.
+14:45 All right, and then so there's there's
+14:48 kind of my starting point. These
+14:50 temporary points are representing kind
+14:52 of what I want in terms of
+14:54 you know, the size of this block. And if
+14:57 you want to
+14:58 get kind of clever with this, you could
+15:00 actually adjust your sheet size. So you
+15:03 could go into the drawing sheet options,
+15:05 which is in your file menu, print menu,
+15:07 um print sub menu and then drawing sheet
+15:09 setup. You can actually customize this
+15:11 and make a custom sheet size that's a 4
+15:14 by 4 size, right? We can actually come
+15:16 in here, say, "Hey, we want a new size.
+15:18 We're going to call it detail."
+15:20 And then width is 4,
+15:22 Height is four. Press okay.
+15:25 And then, we're going to switch to that
+15:26 detail.
+15:28 And watch what happens when we just
+15:30 display the drawing sheet.
+15:33 Is it didn't change anything.
+15:34 >> [laughter]
+15:36 >> Dang it.
+15:37 What happened here?
+15:39 Uh let's go back to that. There we go.
+15:41 There we go. There's my 4 by 4, right?
+15:45 It's just not where I've drawn up my 4
+15:47 by 4 grid size, you know? And you could
+15:50 move this over, slide this over. It's a
+15:52 selectable thing. You could do a little
+15:54 point to point like that. And there's
+15:56 our kind of a 4 by 4 with print margins,
+15:58 etc.
+15:59 Now, I don't do that. I just use these
+16:01 points, these temporary points. And
+16:02 that's in our CAD menu, points, place
+16:05 point. And they don't print. So, it's
+16:07 just a nice visual cue to let me know,
+16:10 you know, where I'm at on the sheet and
+16:12 and where I can't spill over with
+16:13 certain things. And
+16:16 and since they don't print, you know,
+16:18 that's easy. They These can remain there
+16:19 forever.
+16:21 Especially if someone wants to utilize
+16:22 this for something else, right? So,
+16:24 really easy for me to slide this out of
+16:27 the way, bring this into view, and start
+16:30 scaling this up to the point where it
+16:32 gets to the
+16:33 you know, the size I need it to be.
+16:36 All right. We're going to fill this box
+16:38 up a little bit. Leave a little bit of
+16:40 space for some things.
+16:43 Now, it's interesting. You almost not
+16:45 need a detail for this. There's very
+16:47 little information coming from this
+16:48 detail, right? And all we're getting is
+16:50 the minimum.
+16:52 That's it. So,
+16:53 um not a particularly useful detail cuz
+16:57 I could I feel like we could call this
+16:58 out somewhere else on some other detail.
+17:01 The other thing that I do is I don't
+17:02 typically bring in this scale and and um
+17:06 annotation here, this this label. I'm
+17:08 actually going to let the layout box, as
+17:11 it's sent to my layout, handle that kind
+17:15 of detail information. Because this is a
+17:18 static bit of information, right?
+17:20 Especially the scale. Versus I can get
+17:23 something dynamic coming from Chief
+17:24 Architect that's, you know,
+17:26 utilizing. It's not BIM, but we're just
+17:28 utilizing the buildings, I mean the the
+17:31 model's information in that case. So, in
+17:34 this case it would be the CAD details
+17:35 name is what's going to bring forward.
+17:38 Now, when you get into trying to
+17:40 organize your stuff,
+17:42 it might be that you have a certain
+17:43 naming convention that you want to
+17:45 utilize in terms of how it's organized
+17:47 in the CAD details within your plan.
+17:49 But, since we're using the layout box
+17:51 name coming
+17:53 from that CAD detail and that comes into
+17:55 the layout, maybe you want to name it
+17:57 something different when it hits the
+17:59 layout. And that's when we're going to
+18:00 get into some custom script macro stuff
+18:03 that automatically picks up pay. If your
+18:05 CAD detail has the name detail as its
+18:08 first part of the
+18:09 the label, we're going to omit that. So,
+18:11 you can do that in Chief Architect. You
+18:13 can do some um conditional formatting
+18:16 for labels in case you need to come up
+18:18 with a specific convention for naming.
+18:20 All right, so I'm going to get rid of
+18:21 this text. That part's simple enough.
+18:23 And then, the rest of this is just about
+18:25 kind of cleaning this up and making it
+18:27 really legible for me. And then, um I
+18:30 always want to revisit my standards in
+18:32 case I want to change those standards.
+18:34 It is nice if you get into some um
+18:37 custom layer stuff to to be able to
+18:40 drive color by layer and that way you
+18:42 make a uniform change. Like, I could
+18:44 have always put my insulation on its own
+18:48 layer, which it's not.
+18:50 And that way I'm always driving the
+18:52 color of the insulation of all details.
+18:55 The thing I try to stay away from now,
+18:58 especially when we're getting into
+18:59 scaling that um scaling your templates
+19:02 to maybe other people in your office,
+19:04 what have you, is that the more custom
+19:07 things that you do,
+19:09 potentially that's that's just making it
+19:11 more confusing, believe it or not.
+19:13 You're creating more of a process to
+19:15 create. We can no longer rely on
+19:18 going to, you know, generic videos about
+19:21 your particular template because you've
+19:23 now done something custom with it. So,
+19:25 that can be challenging. And
+19:28 so as much as I would love to drive all
+19:30 the insulation color based on, you know,
+19:33 one one color somewhere,
+19:35 that makes it more difficult for the end
+19:37 user. So, you got to kind of make that
+19:38 decision for yourself.
+19:40 And then let's actually get into some
+19:42 CAD detail work. I'm going to get rid of
+19:44 these brakes. I have my own methods for
+19:46 brakes.
+19:47 And then
+19:49 I mean, that means I wanted this to end
+19:50 up being some kind of a solid fill.
+19:53 I tend to like to
+19:54 use all the same color palette, right?
+19:56 So, a really quick and easy way of
+19:59 getting your color palette established
+20:01 and
+20:02 and having that be set in stone is
+20:05 here we go. I'm going to get into this
+20:07 color panel.
+20:08 And something I can do is I can
+20:11 actually drag this color.
+20:14 Like if you click in this box, notice
+20:16 when I click and hold, it's dragging
+20:18 that color. What's it doing? I can drag
+20:21 this color to one of these empty boxes
+20:23 over here, and it just assigned that
+20:25 color. Okay? That's what this is right
+20:27 here.
+20:28 And so once I've got that, then I could
+20:30 lock it if I wanted to. So, if I wanted
+20:33 to, I could just take up this whole row,
+20:34 and this is going to be my framing color
+20:36 right there, and I'm going to lock it so
+20:37 that it doesn't potentially get
+20:39 overwritten. And then I'm going to open
+20:41 up
+20:42 Let me open up this next color that I'm
+20:44 going to utilize.
+20:46 Right, same thing. I can click into
+20:49 here, drag this right next to the
+20:50 previous one, lock it up.
+20:53 Okay?
+20:55 And that makes this
+20:57 pretty simple process because now all I
+20:59 need to do is just come drop this down
+21:02 here in our CAD menu. We do have the
+21:04 ability or edit menu, we have the
+21:05 ability to close this polyline. Now,
+21:08 that's an assignable fill, and I can
+21:10 open up and assign the fill from that
+21:12 color block. The other thing that I
+21:13 could do is I could use the fill eye
+21:16 dropper, and so I have the fill eye
+21:18 dropper on my toolbars.
+21:20 Um where would that be otherwise? I
+21:22 imagine it's in the CAD menu.
+21:25 And
+21:27 boy, I actually don't know where that
+21:28 lives. Maybe the tools menu.
+21:32 Yeah, fill style painter.
+21:34 Fill style eye dropper.
+21:36 There you go. So, the fill style eye
+21:38 dropper, really easy for me to just
+21:40 hover over,
+21:42 right?
+21:43 Click on that.
+21:45 Pretty simple.
+21:47 Fast, quick, easy.
+21:49 So, same kind of thing. Get to just use
+21:51 this again.
+21:52 Um another thing that I have my hot keys
+21:54 bound to on my mouse is that I have my
+21:58 left here is going to be um when I hit
+22:01 control and that left, moving my mouse
+22:04 wheel to the left, that cycles back to
+22:06 the previous tool. So, if we look at
+22:08 this, I'm not going to click on that
+22:10 fill style eye dropper, but watch. I'm
+22:12 going to hit my mouse modifier key to
+22:14 cycle back through previous tools.
+22:16 So, I just clicked it twice. Much easier
+22:18 than having to go to that menu again,
+22:20 move that mouse way over there to to get
+22:22 that. I just know I get to click a
+22:23 couple times till I see it highlighted.
+22:25 And then, easy for me to just paint that
+22:27 in.
+22:28 Right?
+22:30 We got one more here. Close that
+22:31 polyline, paint that in.
+22:33 And then, get rid of that. And
+22:35 like I said, cycle back through my
+22:37 tools. Bam, bam, bam.
+22:39 Pretty quick. Moving pretty fast.
+22:42 So,
+22:44 from here, I do want to have some breaks
+22:46 in here. Now, there's a couple methods
+22:47 to do this. I like
+22:49 I like to kind of mess things up by just
+22:51 coming in here, adding a couple of
+22:54 splits in here, bringing this like that.
+22:57 You know, maybe you
+22:58 Um I tend to do more of an artistic look
+23:01 on this, which is just break it a bunch
+23:03 of times and just make it look all split
+23:05 up like this.
+23:06 Um
+23:07 Now, what I should have done before I
+23:09 did all that is this. We'll just go back
+23:11 a few steps.
+23:14 Is when I select this edge,
+23:17 okay?
+23:18 I can say in the edit toolbar hide the
+23:21 selected edge. Look at that.
+23:24 Isn't that clever, right? Let's hide
+23:25 this one, too.
+23:26 And so now we got some breaks. We can
+23:28 make these breaks and just start
+23:31 kind of shaping this to look like
+23:34 it's continued.
+23:36 Isn't that kind of cool? Quick, easy.
+23:39 Yeah.
+23:41 Now, if you want to get clever, and this
+23:43 is part of what this this whole session
+23:45 is about, is I just want to show you
+23:46 tools even if they're unnecessary in the
+23:48 moment, just to show you this. I'm going
+23:51 to just take this
+23:54 this square I just produce, and we'll
+23:56 make like a a negative carbon copy.
+23:58 We're making a mold. is that I'm going
+24:00 to subtract, and I'll subtract this and
+24:02 I'll retain the original objects. And so
+24:04 I've got the original CAD block that I
+24:06 can just delete, and then I've got this
+24:08 CAD block that's shaped like that. Isn't
+24:11 that wild?
+24:13 So, what could you do with this?
+24:15 Imagine you could have guessed already.
+24:17 We can just come in here, and here's
+24:19 where that point-to-point comes into
+24:20 play, right? We can do a little
+24:21 point-to-point action like that, and we
+24:24 could take this
+24:25 and subtract this.
+24:27 And we don't want to retain the original
+24:29 objects.
+24:30 And look at that. We got another break
+24:31 on the other side. Now, I do have to
+24:33 come in here and do a little bit of
+24:34 cleanup, but not too bad.
+24:39 Simple, easy.
+24:42 Talk about just a couple of the things
+24:44 that exist in here with the copy-paste
+24:46 menu. One is copy-paste gives us this
+24:49 center edit handle.
+24:50 That means dragging this out creates a
+24:52 copy.
+24:53 Hopefully we all know that, but if you
+24:55 If you there you go. That's a good one.
+24:57 Copy paste again, all right, and notice
+25:00 we have all these other edit handles.
+25:02 What else do they do, right? What
+25:04 happens when you drag this out? What
+25:05 happens?
+25:07 Well, I dragged out a copy with one edge
+25:09 manipulated.
+25:11 All right.
+25:12 That's another trick.
+25:14 Copy paste
+25:16 and then click, right? Copy paste click.
+25:19 Going to be that way. Copy paste rotate
+25:22 handle, yeah, you just created a copy
+25:24 with rotation.
+25:26 Copy paste rotate handle, hit tab while
+25:29 you're rotating it, and you can do some
+25:31 things here, too. You can change the XY
+25:34 position, you can change the angle at
+25:35 the point where you stop the mouse, etc.
+25:38 And then probably one of the most useful
+25:40 is this copy paste and then this little
+25:42 circular node, wherever you can find
+25:43 that circular node is when we drag this
+25:45 out, now we're doing a concentric
+25:48 resize.
+25:51 All right, so that's kind of like the
+25:53 offset command. So, if you want a true
+25:55 offset in this case, it would be copy
+25:57 paste
+25:58 resize edit handle, start dragging this
+26:00 down
+26:01 and or start dragging this, you know,
+26:03 perpendicular to the line that you were
+26:05 pulling from, and
+26:08 then I could say, "Hey, this is an
+26:09 exactly 10-in offset."
+26:13 Okay, that would be an offset.
+26:16 Other ways to do offsets, you could do
+26:18 the multiple copy tool, multiple copy
+26:20 interval,
+26:21 go ahead and change the offset. We're
+26:24 going to make it, you know, 4 in between
+26:26 each offset. And so now,
+26:29 when I drag this resizing node, I'm
+26:32 creating
+26:34 multiple copies and offsets.
+26:36 So, I just made a ton of different
+26:38 copies.
+26:42 And so same kind of thing, multiple
+26:43 copy, by the way, in case you didn't
+26:45 know this, evenly distribute while
+26:47 dragging all objects. I'm making three
+26:49 object copies when I hit this rotate.
+26:52 Look at that. So, you can create an
+26:53 array
+26:55 very simply.
+26:56 Now, another thing that we could do is I
+26:58 could place a new point. Notice that one
+27:01 of my points is highlighted, the other
+27:02 one is not.
+27:04 What is that about? Well, if I hit the
+27:06 delete key, it's going to delete the
+27:08 highlighted point. It just means that's
+27:11 the order of the points replaced. If I
+27:12 were to place a new point, new point,
+27:14 new point, notice every new point
+27:16 becomes the highlighted point. It's
+27:18 highlighted bright pink. If I hit the
+27:20 delete key and nothing is selected, it's
+27:22 just deleting those temporary points.
+27:25 So, something that's pretty cool with
+27:26 the point tool is I could place a point
+27:28 at the corner of this and in the edit
+27:30 menu in edit behaviors, we could change
+27:33 rotate resize about current point, which
+27:37 I also have in my toolbars.
+27:39 If you have it in your toolbars, it's
+27:41 just a togglable thing. You don't need
+27:44 some um other inverse tool to change
+27:47 this. You just click it again to turn it
+27:49 off. So, turning it on means we're
+27:51 rotating about this point. So, if I hit
+27:53 the rotate handle here, look at this.
+27:55 It's rotating about that point as
+27:57 opposed to rotating about its center.
+28:00 All right? So, then if I did multiple
+28:02 copy, and we know we get three copies,
+28:05 they are three copies rotated about that
+28:07 point. I got a fan wheel.
+28:09 Pretty cool.
+28:10 Now, as we're dragging these out, it is
+28:13 snapping to our known snap degrees, but
+28:16 you know, if you hold control, now
+28:17 you've got free range of movement.
+28:20 Pretty slick.
+28:21 Okay?
+28:23 What happens if we do a little transform
+28:25 replicate action? We make some copies.
+28:27 We say we're going to do six copies.
+28:29 We're going to rotate relative angle,
+28:31 and we're going to rotate every 75°.
+28:35 It's back to that center line. It's not
+28:37 actually rotating about that point.
+28:40 And that's just part of the transform
+28:41 replicate tool. So, if we made the same
+28:44 thing, six copies, and we rotate about
+28:47 some
+28:48 relative angle versus absolute angle.
+28:50 Right now, this is the current angle
+28:52 that we're on, and so we could always do
+28:55 a little plus action here.
+28:57 Yes, let's go plus 12.
+29:01 But
+29:02 this time
+29:03 it's um
+29:05 making all those copies and rotating all
+29:07 those copies at once around that point.
+29:09 It's not distributing them.
+29:12 So, couple
+29:14 couple cool little tricks there I didn't
+29:15 used to know about them.
+29:16 Now, I have a bunch of copies I don't
+29:17 need.
+29:22 There.
+29:23 The key get rid of that last point.
+29:28 So, I think you know, a lot of detail
+29:29 drawing is just about learning a couple
+29:32 of base tools is that union,
+29:34 intersection, subtraction tool. We've
+29:37 got chamfer lines, we've got fillet
+29:38 lines, um we've got the arc creation
+29:41 tool. If you didn't know it, you can
+29:43 always take some line and the alternate
+29:45 draw mode is your right click. Out of
+29:48 the box, that's your right click cuz
+29:49 your alternate draw mode. Alternatively,
+29:52 you could hold alt. It does the same
+29:54 thing.
+29:55 So, the alt key does the alternate draw
+29:56 mode or the right click does the
+29:59 alternate draw mode. Alternate draw mode
+30:01 for a line just means that you get to
+30:03 arc that line.
+30:05 Right? So, if you know that you can arc
+30:08 a line just by doing that, then
+30:11 I think it's less efficient to utilize
+30:13 the change line into arc tool.
+30:16 That means if you pre-plan a little bit
+30:18 in your mind when you're drawing, when
+30:20 you're coming up to arcs, to just know
+30:22 to bring out a little stab segment just
+30:24 so you can arc it. That would make a lot
+30:27 of sense. And then we do have make arc
+30:29 tangent and makes it so that I don't
+30:31 have to draw so accurately to get this
+30:34 to be tangent to the line that it came
+30:36 from. Just show you that again. We got
+30:38 one line.
+30:40 This
+30:41 last diamond here is a continuation.
+30:45 Just brought that out like that just to
+30:46 prove that I can,
+30:48 you know, start from a position that's
+30:49 not necessarily beneficial to me, right?
+30:52 And then arc this and then make arc
+30:54 tangent.
+30:56 Deselect.
+31:02 Just noticing the chat window is getting
+31:03 I resized my webcam so people can see me
+31:06 a little bit better.
+31:08 And there we go. Let's get that chat
+31:10 window
+31:12 All right. So, let's see.
+31:16 So, more about the union subtraction
+31:18 stuff. So, when I'm drawing this
+31:20 particular detail, you know, a big part
+31:22 of this is creating our line weights for
+31:24 any kind of portion of this detail that
+31:27 is um being sectioned, meaning that
+31:30 there's a continuation, you know, in the
+31:32 in the polar direction of how we're
+31:34 looking at this. We're looking at this,
+31:36 you know, um orthographically
+31:39 straight on.
+31:40 Some of these elements are cut elements
+31:42 like this 2 by 4
+31:44 showing with the cross, right? Is that
+31:47 that's being cut by the camera. These
+31:48 continue on towards us.
+31:51 And so, we have to create a thicker line
+31:53 to go around anything that's a cut
+31:55 element such as the sheathing,
+31:58 right? Versus the framing members are
+32:00 not cut elements. We're seeing the full
+32:02 member in this case.
+32:04 So, a huge part of that for me is just
+32:07 learning that union subtraction tool and
+32:09 being able to utilize it to do a couple
+32:11 cool things, which is that we can select
+32:13 these items, maybe. Um I'm not sure
+32:16 about the cross boxes, but I think so.
+32:19 Is that these are the cut elements that
+32:21 I want to show continue with a larger
+32:23 line weight.
+32:25 And so, you can see that the cross boxes
+32:26 don't actually help us. The cross boxes
+32:29 take away some something in the edit
+32:31 toolbar. Make it so that some of the
+32:33 tools don't work in the edit toolbar.
+32:35 Versus if I were to just click this to
+32:38 deselect, control click this to
+32:40 deselect,
+32:41 um we should see when we get some
+32:43 elements that are capable of it, the
+32:46 union tool, right? We should be able to
+32:47 union these things together. I'm not
+32:50 entirely sure why I can't on this. Like
+32:53 this one
+32:54 shows that it can be unioned.
+32:56 This shows that it can be unioned. Ah,
+32:59 now it seems to be that I got the right
+33:01 selection. So, there's some other
+33:03 multiple lines here.
+33:04 When you run into a scenario like this,
+33:06 this is what I love to do. I like to
+33:07 just work on this over at the side. So,
+33:09 I'll start dragging this over, hit tab
+33:11 or enter, and put in some known
+33:13 coordinate like 200.
+33:16 Now I know I can put this back in the
+33:17 place if I need to be, you know, if I
+33:19 need it there.
+33:20 Um
+33:21 I'm not sure why the selection order
+33:23 mattered there, but for some reason, for
+33:25 whatever reason, it's taking away that
+33:28 union subtraction when I just highlight
+33:30 everything here.
+33:31 Um versus
+33:33 starting my click. What?
+33:37 Interesting.
+33:38 Some order of things is messing
+33:40 something up here. But there we go. Now
+33:42 I get to union these items, and I do
+33:44 want to retain the original object. And
+33:46 so, what does this give me? This gets me
+33:48 that highlight, right? And so, if I were
+33:50 to move this 200 over,
+33:53 it's going to be put right back into
+33:54 place. It did not retain the original
+33:57 objects, so that's kind of strange. So,
+33:59 I wanted to make a copy of this first
+34:01 then.
+34:02 So, let's just drag a copy over.
+34:05 100,
+34:06 not
+34:07 still not in the way,
+34:09 and then make my selections
+34:12 real fast.
+34:14 And if I can get the order right, we'll
+34:16 get it to union.
+34:18 There we go, union.
+34:22 Take away that fill style.
+34:26 And so, in this case, line style for me,
+34:28 you know, I like to keep my line weight
+34:29 heavy at 65. So, I get to drag this back
+34:32 into place, 200.
+34:34 I get to take these back into place,
+34:36 100.
+34:41 So, there we go. There's my cut section.
+34:43 And I'll probably clean something up up
+34:45 here to make that a little bit better.
+34:47 And then that hardware fill
+34:49 Um I have some mend plates somewhere
+34:51 else that I'll have to go grab that
+34:53 hardware fill from.
+34:56 Guys got any questions in the comments
+34:58 so far?
+35:00 Let me know.
+35:06 There. Oh.
+35:10 So, here's a mend plate.
+35:12 Grab this.
+35:16 Oh, and this is actually hand drawn.
+35:17 What a waste of time. Don't ever do
+35:19 that. Go make yourself a
+35:22 Go make yourself a fill style. That's my
+35:24 mistake.
+35:25 Goofball.
+35:28 Must have been an old standard versus
+35:29 Maybe this one.
+35:31 Hopefully this one is just a fill style.
+35:33 It is. There we go. That's what we
+35:35 needed.
+35:39 I'll bring that in just like that.
+35:42 And
+35:45 No.
+35:47 And notice that the background color
+35:49 didn't come with it. So, some of my
+35:50 details are very old.
+35:52 So, this is actually two CAD lines.
+35:55 And we can see here, we get to just drag
+35:57 this into place here, lock it up.
+36:00 This is going to be our hardware. I
+36:01 would say that actually my standard for
+36:04 hardware is this lighter color.
+36:09 And since we locked it, we can unlock
+36:11 it.
+36:15 So, I got a couple to fix.
+36:25 So, we're going to enable a background
+36:27 here and grab that color. Hard work.
+36:31 There we go.
+36:34 And so, now I just got to change the
+36:36 draw order of this.
+36:38 That.
+36:40 Put one in front of the other.
+36:43 Forward here. Just like that. That means
+36:46 insulation's got to come forward.
+36:52 There we go.
+36:55 Victor, how can you draw a lot of nails
+36:57 fast? is in the comments. And I would
+37:00 just say, um,
+37:01 you know, do it in the fill style would
+37:03 be my way of doing it.
+37:05 You know, make make the fill style drive
+37:07 that action. It's very easy to do a new
+37:10 CAD pattern. So, CAD patterns, create
+37:13 new pattern.
+37:14 This is going to be nail um, nail edge
+37:18 pattern, okay?
+37:23 And you just have to kind of get a
+37:25 relative scale is all you're looking for
+37:28 here. So, relative scale.
+37:30 Um, you could turn on
+37:32 um,
+37:33 your angle grid, your snap grid units.
+37:38 And then just drawing some circles.
+37:43 Right?
+37:44 Use the snap grids. You want to be
+37:46 specific about the circle, just come in
+37:48 there and start editing it.
+37:51 That context.
+37:53 Um,
+37:55 let's see, line weight of the fill style
+37:58 doesn't matter, so we're going to turn
+37:59 off line weights while I'm drawing this.
+38:01 And then I'm just going to make a bunch
+38:03 of duplication of this, right? So,
+38:06 I've got 1 2 3 4
+38:09 5.
+38:11 See what? Well, let's just do this.
+38:13 We'll make four copies.
+38:16 So, let's say four copies.
+38:19 Bring this out.
+38:21 Um,
+38:24 I'm I'm to let it snap to the to the
+38:26 snap grid there.
+38:28 And then I can shorten this
+38:30 to that snap grid.
+38:32 All right. And then we can take these
+38:35 and just copy paste.
+38:38 Move up
+38:39 here like that. Let's get this.
+38:43 And what what can I do? I can do a
+38:44 center between two points, right? Or
+38:46 just draw a line and pick the center up
+38:48 and then grab all these and just do a
+38:50 little point to point.
+38:52 Right like that.
+38:56 So we're just missing one circle.
+39:02 Or what did I do? I did something wrong
+39:04 there?
+39:05 It felt like I was missing one circle.
+39:07 Copy paste, reflect about. Yeah, I did
+39:09 something wrong.
+39:12 Distance is a little wrong, huh?
+39:15 There we go.
+39:19 Copy paste, reflect about.
+39:21 There we go.
+39:24 And now just shrink this down.
+39:31 We might have to move all these down to
+39:33 get the spacing even.
+39:35 Um
+39:36 What do we want to know about this?
+39:38 Yeah, sometimes this just feels like a
+39:40 puzzle, right? Because lots of draw
+39:42 these two lines out just to kind of get
+39:44 a distance between these two lines.
+39:47 2 and 13/16. That's not a great setup.
+39:52 Because
+39:53 so there's no gap in between
+39:56 these circles, right? I feel like I
+39:58 could actually just take all these
+40:00 circles,
+40:02 do a little point to point. If you hold
+40:04 shift, by the way, it will do point to
+40:06 point orderly, okay?
+40:10 So hold shift during a point to point.
+40:12 If you don't hold shift, it's just
+40:15 going to work along your angle snaps. Or
+40:17 if you hold control, no snaps at all. If
+40:19 you hold shift, it's going to move in a
+40:21 polar direction.
+40:23 And then I'm just going to shrink this
+40:24 down till it hits that. There we go.
+40:31 Cool.
+40:33 There's a bunch of nails.
+40:34 Bunch of nails.
+40:36 But yeah, maybe you want some space
+40:37 around those nails, what have you. Um
+40:39 this would just be a way of doing it.
+40:40 This There we go. I got my pattern.
+40:43 Save this. Save it as whatever you want.
+40:46 Etc.
+40:47 That'd be one way of doing it.
+40:51 Um
+40:53 Another way of doing this would be
+40:55 Now we have the distribution line tool.
+40:57 So, if you had a circle
+40:59 um
+41:01 as a CAD block saved.
+41:04 You know, so you could just draw a
+41:05 little circle out like this.
+41:08 Shift select it.
+41:10 That gets us a center
+41:12 grab point. When you have a center grab
+41:14 point,
+41:15 it's going to have this make CAD block
+41:17 show up.
+41:19 So,
+41:20 um couple important things to see when
+41:23 we shift select something.
+41:25 So, regular selection, we do have this
+41:27 resizing node, and because it's an
+41:29 unbroken circle, great. But if we had a
+41:31 break in this circle, or if this was
+41:35 um convert to a polyline, that wouldn't
+41:37 be very helpful. So, if we converted
+41:38 this to a polyline with 24 sides, now it
+41:40 kind of looks like a circle. When we
+41:42 select it, we don't have that resizing
+41:44 node. But if you shift select it,
+41:47 somewhere in there, there we go.
+41:49 Resizing node. Should be able to resize.
+41:51 Now, this one when you resize it, it's
+41:55 it's going to, you know, resize based on
+41:57 that origin point,
+41:59 which is
+42:01 that reflect about um
+42:03 or rotate about center was turned on.
+42:06 So, important to note that in case you
+42:08 need to resize something about a point,
+42:12 notice this. When I resize it, it's
+42:14 resizing it about that point.
+42:17 See that?
+42:19 Just turning that edit mode off,
+42:21 resizing about itself. So, once I've
+42:23 shift selected this, I can make it a CAD
+42:25 block. I could add it to my library. As
+42:27 a CAD block in my library, it's just a
+42:30 block. It's not a molding profile, which
+42:32 would be typical if you just added some
+42:35 CAD. Right? If we just added a circle as
+42:37 CAD, not a CAD block, Chief Architect
+42:40 would see that as a molding profile.
+42:42 Otherwise, this is just just a block.
+42:45 Something that I like to do is, you
+42:47 know, renaming the block in your library
+42:51 doesn't actually rename the name of the
+42:53 block when you bring it inside. So, when
+42:55 I place this and I open this up now,
+42:59 Oh, it does. I was wrong. Look at that.
+43:00 Block name, library block.
+43:02 I used to think that it didn't used to
+43:05 do that, but
+43:06 um that you'd have to name it before you
+43:08 added it. That's not true.
+43:11 So, now that I have this block, what you
+43:12 can do with that block is in the build
+43:15 menu,
+43:16 we have distributed objects. And
+43:19 unfortunately, distributed objects don't
+43:21 work
+43:22 in
+43:23 in a CAD detail, which is really dumb.
+43:26 I think that it should.
+43:28 So, you could come to a plan view, and
+43:30 this is just an annoying thing, but you
+43:33 should know that the software's capable
+43:35 of doing this is
+43:36 um
+43:38 polyline distribution path.
+43:40 You can draw out this path. Um by
+43:43 default, my templates load this up with
+43:46 uh
+43:47 recessed downlights at like 6-ft
+43:49 centers, okay?
+43:51 But, you should be able to take this CAD
+43:53 block
+43:54 and
+43:56 have that distribute. But, maybe I'm
+43:58 wrong. Am I wrong on this?
+44:01 Thought we could take a CAD block.
+44:06 See if I can force it.
+44:08 Could be wrong.
+44:12 See block here, library block. There we
+44:14 go.
+44:16 Yeah, and so now I'm distributing that
+44:18 library block.
+44:21 And so there's some things that you can
+44:23 do with this.
+44:24 One is that I believe we can do
+44:28 distance between objects center. We're
+44:30 doing auto spacing right now.
+44:33 Let's just say that these are all
+44:35 five apart, five inches apart.
+44:38 Right? Or let's call it 10 inches apart.
+44:42 Or
+44:43 like 15 inches. I drew those too big.
+44:45 That's the problem.
+44:47 And then
+44:50 side offset, minimum side offset.
+44:53 And so this is staggering those, right?
+44:57 So let's call this 20 apart.
+45:02 And that will permanently offset. Let's
+45:04 go.
+45:05 So that's a randomizer, one side and
+45:07 alternating sides.
+45:11 Yeah.
+45:12 So that's kind of random. Maybe that's
+45:14 not helpful.
+45:18 But that would just be a way you can
+45:20 distribute along the path.
+45:25 If you ever needed some custom, really
+45:27 custom looking line styles, this is
+45:29 where you could build a really really
+45:30 custom looking line style.
+45:33 Let's see what happens when we cut this
+45:37 and try to
+45:39 paste it into a detail. Probably not
+45:41 going to do anything. Oh, haha.
+45:45 So strange that you can actually use a
+45:47 distributed path
+45:48 in a CAD detail,
+45:50 but you can't start with one in a CAD
+45:52 detail.
+45:54 But you could paste one in.
+45:56 It says
+45:58 I learned something there. Thank you.
+46:02 So distributed paths work obviously just
+46:05 using some of the tools like transform
+46:07 replicate would work, too. So, you got a
+46:09 circle here. You want to transform
+46:10 replicate, you can make a bunch of
+46:12 copies, right?
+46:14 Make 20 copies and move them,
+46:17 you know,
+46:18 in the X delta
+46:20 2 in a copy or what do we like? 20 in a
+46:23 copy.
+46:26 Yeah.
+46:29 Very quick to make
+46:30 copies like this.
+46:40 All right, back to my main plate.
+46:50 That going, yeah.
+46:53 Um the problem with these insulation
+46:57 fill style
+47:01 Take this and spray this.
+47:04 I can.
+47:06 Yeah, they changed some stuff kind of
+47:07 under the
+47:16 You know it about it.
+47:23 Be nice, though. Make some updates to my
+47:24 stuff.
+47:35 Just random line here.
+47:38 That guy.
+47:45 Yeah, this is starting to look like
+47:46 something.
+47:48 So, in case you didn't know, I like to
+47:51 mention some of the stuff that's in my
+47:52 template. One of the things I'm that's
+47:54 in my template is something that just
+47:55 drives all insulation values here. And
+47:57 so I have a section of my library now
+48:01 um where it's part of my pro plan tools
+48:04 detail annotation designation. So if I
+48:07 get down in here into insulation roof,
+48:10 that's just picking this up
+48:13 from a universal callout system.
+48:16 And so that way if I switch back to my
+48:18 working plan,
+48:20 get to my CAD detail detail
+48:21 designations,
+48:23 and I get into the insulation section
+48:26 for ceiling insulation and I throw this
+48:28 up to R-38, then it should come back and
+48:31 be able to see there we go, R-38. Um
+48:34 R-38 bat fill is not going to be the
+48:36 name I want, but I can fix that
+48:39 easily enough.
+48:43 It's just in this detail designation
+48:47 bat fill. Let's actually
+48:51 It's typically not going to be
+48:55 select.
+49:04 Or yeah, it is.
+49:06 It's
+49:07 just in my mind.
+49:12 Happy Memorial Day.
+49:15 I was out on the on a river yesterday
+49:18 floating down it.
+49:23 Ah, thank you.
+49:26 Two vertical chords, huh?
+49:31 Oh yeah, I see that now, the mid plate.
+49:32 Oh, and here's the other one.
+49:35 It's just got some additional webbing
+49:36 I'm not
+49:37 picking up on.
+49:39 Yeah, good call.
+49:43 By the way, if you shrink a text box,
+49:46 let's see.
+49:47 How does this work?
+49:49 Used to be a way that this would not
+49:51 wrap, but it would just set to auto
+49:53 width, but
+49:54 um
+49:56 if you open up dialogue box
+49:59 and attributes
+50:01 just check auto width in case you
+50:03 manually adjusted that.
+50:06 itself.
+50:16 Yeah, let's set this
+50:20 That's what's happening. Good call.
+50:26 Yeah, this is pretty quick. So,
+50:28 here's my kind of negative box I like to
+50:31 use.
+50:36 Cutaway box.
+50:40 Good to have a couple of different
+50:41 shaped ones.
+50:45 >> [laughter]
+50:48 >> It's easy. Open this up, line style,
+50:50 send it to blank.
+50:53 And then add a solid fill on it.
+50:58 Background color.
+51:00 Bam.
+51:01 Makes that real easy, right?
+51:12 And then we know we can shift select
+51:13 this, shrink it down.
+51:20 Yeah, it's starting to look pretty good.
+51:27 What other tricks I got for this kind of
+51:30 sketch stuff, head cam.
+51:33 Um continuous draw mode.
+51:35 So, right clicking, drawing a line out.
+51:38 As soon as you let go of that, excuse
+51:40 me, left click, draw line out. As soon
+51:42 as you let go of that, you got one line
+51:44 segment.
+51:46 You right click draw and let go, it will
+51:48 continue another segment and then you
+51:51 can left or right-click and it will
+51:53 continue, continue, continue till you
+51:55 close this polyline
+51:57 or
+51:59 um in the case that you use left and
+52:01 right together.
+52:07 So, left and right together means Look
+52:08 at this. I draw, draw, draw, left and
+52:10 right click at the same time, stops that
+52:13 draw action.
+52:20 So, what's really cool about this is
+52:23 in the new versions, like X17,
+52:26 when we continuously draw,
+52:28 you can hit tab.
+52:31 What does that give us? That gives us
+52:33 our distance and bearing.
+52:35 You could change this to quadrant
+52:38 bearing decimal feet and this was how we
+52:40 would be able to
+52:42 punch in and do, you know, parcel map
+52:45 boundaries, right?
+52:47 Is that this would be something like
+52:49 124.5 ft at north 75
+52:54 15 18.
+52:58 Right? You'd punch it in just like that.
+53:00 We tab out of that, look what happens.
+53:02 Bam.
+53:03 And what does this get us?
+53:05 Well, because we're in continuous draw
+53:06 mode, it gives us the next segment. So,
+53:08 you start drawing this out, you don't
+53:10 even need to do anything here, just hit
+53:11 enter again and you get to hit your next
+53:13 bearing, right?
+53:15 And you get another segment once you hit
+53:17 that enter and you're on your next
+53:19 bearing, right? So, hit enter again or
+53:21 tab again, put in your next bearing.
+53:25 Put in your next bearing, put in your
+53:26 next bearing till you get this all
+53:27 closed up.
+53:29 And then you would show
+53:33 show your length and angle here and set
+53:36 up your display so that the showed
+53:38 correctly.
+53:40 So, that's a really cool thing about
+53:43 this is it would be easy for me to take
+53:46 a line,
+53:47 right click draw, hit tab or enter. I'm
+53:50 going to put this number style back to
+53:51 degrees and fractional inches.
+53:54 And I can say, "Hey, this is supposed to
+53:55 be a 15-in segment." And then I need a
+54:00 segment over here that's going to be
+54:02 enter, it's going to be another 15-in
+54:04 segment at 35°
+54:07 and it's going to go this way 24
+54:11 And so really easy for you to get the
+54:13 really specific
+54:15 length segments.
+54:19 Um
+54:20 and then getting into just the trim
+54:22 tools and the alignment tools and being
+54:24 able to align things and distribute
+54:26 across a line. Let's just say I've got a
+54:29 bunch of text for instance.
+54:35 And I want to align all the left edges
+54:37 of this thing.
+54:38 Well, simple. Select all that text in
+54:41 our edit toolbar, align distribute, and
+54:44 we're going to align the right edges.
+54:47 Bam. Lined all those right edges and
+54:49 then we can even justify these right.
+54:52 All right?
+54:53 Easy. Select one of these, this bottom
+54:56 diamond is our arrow. We could drag that
+54:58 arrow out and then right click the end
+55:00 of this to get a curved leader.
+55:02 Pretty simple. Or if you want
+55:04 multi-segment, drag out one, hit that
+55:07 diamond again,
+55:09 drag that out again. Just know that you
+55:11 want to change the angle of it so that
+55:13 it doesn't auto mend. So, drag the
+55:16 diamond out at slightly angle. You can
+55:18 hold control to just get a slight angle.
+55:20 And now you have a straight segment to a
+55:22 curved leader and you can make tangent
+55:24 if you want to.
+55:25 So, pretty simple.
+55:27 Now, another trick for this is let's
+55:30 just say I know that I only have this
+55:32 line is the body of where I can put text
+55:35 before it spills out over the page. So,
+55:38 with this line, I could take all these
+55:40 and I could use the align distribute
+55:42 along line tool and highlight that line.
+55:46 And then, it will bring this up. What I
+55:49 want to do, I want to space things
+55:51 evenly. And in this case, I want it to
+55:53 space it between the end points, meaning
+55:56 that I want some a gutter
+55:58 top and bottom of my text, okay? So,
+56:01 between the end points would be this.
+56:03 And so, that's what this is going to do.
+56:05 It's going to space evenly across that
+56:07 line.
+56:11 Let's try another method for this. This
+56:13 time, I want to distribute to the end
+56:15 points and that will distribute across
+56:16 end points. Um something's messed up
+56:18 here. We're not getting that space
+56:20 evenly.
+56:22 So, space evenly distribute centers
+56:24 evenly alignments.
+56:27 We're going to do centers alignment.
+56:32 Center alignment brings that horizontal
+56:34 direction. Let's see. What am I doing?
+56:38 Distribute centers evenly to end points.
+56:44 Well, that's coming up with some kind of
+56:45 a funny action there.
+56:48 Feel like I ran into a glitch.
+56:54 They should be completely spaced evenly
+56:56 and they're not.
+56:59 Funny.
+57:04 Now, let's see. Trying the alt draw mode
+57:07 to create arc
+57:08 at end of line. Mine isn't working. Is
+57:11 it a setting?
+57:13 Trying the alt draw mode to create an
+57:15 arc at the end of a line. So, it's going
+57:19 to arc the full line length. So, you
+57:21 need a small segment. Is if I'm
+57:23 understanding you correctly. Yes, if
+57:25 you're just trying to arc the very end
+57:27 of this line, it's going to arc the
+57:28 entire thing. So, you need have small
+57:30 segment and it needs to be somewhat off
+57:34 in terms of degrees from that previous
+57:36 segment or it will auto mend. And then
+57:38 once you've got that, then you can arc.
+57:43 It'd be make tangent.
+57:47 Now, if we place the point and we did a
+57:49 little rotate about that point and we
+57:51 did a little multiple copy and we
+57:54 seven copies of this and
+57:57 rotate. Look at that, candy cane
+57:59 situation.
+58:05 I mean, this works with objects, too. A
+58:06 lot of these tools work with objects.
+58:08 So, it doesn't necessarily need to be
+58:11 like
+58:12 something that's kind of wild as you
+58:13 could come in here with a
+58:15 Let's just say we've got a
+58:19 What do we want to call this? We'll call
+58:20 it 48 48 12 ship.
+58:23 We've got this square pad, 48 48 12.
+58:27 Use the transform replicate tool and
+58:29 make 10 copies of this.
+58:31 Move it 12 in
+58:33 delta and then we're going to rotate
+58:36 this
+58:37 um 35° for every copy.
+58:41 Oops.
+58:43 Didn't want to rotate about a center.
+58:44 We're going to take that draw mode off.
+58:46 Try that again.
+58:47 We'll go 10 copies.
+58:50 11 in each is
+58:53 30 degrees each copy.
+58:58 And that didn't do anything I wanted it
+59:00 to do.
+59:01 Oh, there's They're getting spattered
+59:03 across the board here. What did I do
+59:04 wrong here?
+59:07 I know what I did.
+59:10 Act like I've been here before.
+59:13 Nice.
+59:15 It relative angle was the issue I was
+59:17 running into there.
+59:22 Now, we should have a
+59:28 pillar, but it's still rotating about
+59:30 some arbitrary point that I don't know
+59:32 about. I just wanted to get it rotated
+59:34 about itself.
+59:36 I'm losing my mind here. I think I broke
+59:38 the software again.
+59:42 And they'll probably point out to me
+59:43 that I'm doing something really dumb.
+59:47 Absolute angle relative angle to itself.
+59:52 Oh.
+59:58 What am I doing?
+59:59 >> [laughter]
+1:00:01 >> Maybe this is what I needed. I don't I
+1:00:03 don't need the rotate. Maybe I just need
+1:00:04 this.
+1:00:08 No, still still an issue.
+1:00:13 I've lost it, man.
+1:00:18 Day just started. I can't wait till it's
+1:00:19 over.
+1:00:25 I feel like I have so many more CAD
+1:00:27 tricks and I didn't even touch on them.
+1:00:30 Doing the array, doing the fences. Oh, I
+1:00:33 mean fence is a huge one.
+1:00:35 Um anytime some line is through some
+1:00:37 other line, you can select the fence.
+1:00:39 It's basically inverting the selection
+1:00:41 in this case. Same thing. This is
+1:00:43 selected. I could select the fence for
+1:00:45 this. It's going to pick that line. And
+1:00:46 so then I can do, you know, a trim
+1:00:49 object tool and trim based on that line.
+1:00:51 Except for this is a closed polyline, so
+1:00:54 you'd have to make it an unclosed
+1:00:55 polyline.
+1:00:57 So then it would just be, all right,
+1:00:58 let's quickly close this polyline,
+1:01:01 select the fence, and then subtract the
+1:01:04 triangle.
+1:01:06 Would be a way of doing that super fast,
+1:01:07 but um really helpful to know things
+1:01:10 like construction lines. And if you get
+1:01:11 these to auto number just by their
+1:01:13 placement, right? And then they're all
+1:01:15 over the map and you want them uniform.
+1:01:17 Just easy to come in here with a line,
+1:01:20 select the line, use the trim tool, draw
+1:01:23 through all these construction lines,
+1:01:24 and you got those all lined up now.
+1:01:27 You know, same thing. You could just
+1:01:29 draw a line and make it an extension.
+1:01:32 So,
+1:01:32 draw the line, use the extend tool, draw
+1:01:35 through all these construction lines.
+1:01:37 The line's still selected, so it's easy
+1:01:39 to just hit the delete key and you get
+1:01:41 that to work really easily.
+1:01:46 Uh let's see. To clarify, earlier drew a
+1:01:48 candy cane by drawing a line and
+1:01:50 clicking a diamond with alt mode and you
+1:01:52 drew an arc without the additional
+1:01:53 segment.
+1:01:55 Um I don't believe I was able to draw
+1:01:57 without the additional segment. I
+1:01:58 probably needed that.
+1:02:00 Um that additional segment.
+1:02:04 Um cuz if you
+1:02:06 right click the end diamond, that's just
+1:02:10 pulling continuous from the last
+1:02:13 position.
+1:02:14 But, we still needed the short segment.
+1:02:17 So, I probably just clicked and then
+1:02:19 double clicked and clicked again and
+1:02:21 arc.
+1:02:30 Try a couple more just CAD things while
+1:02:32 I'm thinking about them and then we're
+1:02:33 going to close down cuz it's already
+1:02:35 been an hour somehow. Boy, I hope I
+1:02:36 don't have another training call right
+1:02:38 now.
+1:02:40 Oh, my calendar is
+1:02:41 Oh, shoot. I'm supposed to be on a
+1:02:42 consultation at 10:00 a.m. They gave me
+1:02:44 no buffer. Ridiculous.
+1:02:48 All right. So, I have to end the call,
+1:02:50 but
+1:02:52 this would just be another thing I'd do
+1:02:53 a little multiple copy and then just if
+1:02:56 we needed one of these to be inverse
+1:02:58 selection, so I could select this item,
+1:03:00 hold control, that inverts the
+1:03:02 selection, same thing.
+1:03:04 Hold control, inverts the selection.
+1:03:07 That's a big one.
+1:03:09 And then obviously being able to select
+1:03:12 CAD elements that you want to select,
+1:03:13 you could always right click, draw a
+1:03:15 line,
+1:03:16 dodge some CAD elements.
+1:03:19 This is kind of a goofy thing, but just
+1:03:21 showing you the capability of the
+1:03:22 software. Take this line, then select.
+1:03:25 Look at that. I just grabbed some of
+1:03:27 those lines.
+1:03:31 Anyways, I got to get going.
+1:03:33 I wish I had more time with you. I got
+1:03:34 to go jump on a call that I'm already
+1:03:36 late for.
+1:03:38 See you next time, next Tuesday.

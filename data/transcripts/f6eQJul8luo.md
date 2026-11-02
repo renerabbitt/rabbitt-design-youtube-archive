@@ -1,0 +1,2048 @@
+---
+videoId: f6eQJul8luo
+title: Holiday Q&A with Chief Experts - Designers Show #164
+url: "https://www.youtube.com/watch?v=f6eQJul8luo"
+status: imported
+---
+
+# Transcript
+
+0:00 side is what it's going to look like on
+0:02 the the
+0:03 thin screens. Anyway, hi. Welcome
+0:05 everyone.
+0:06 Welcome to the designer show on this
+0:08 lovely Friday the
+0:10 12/19, December 19th. And Christmas is
+0:14 coming up pretty quick. Guys all ready
+0:15 to go?
+0:17 >> Yeah.
+0:18 >> Yeah.
+0:19 >> And what you do? We got zero watchers.
+0:22 Oh, there's someone.
+0:24 >> Okay, cool.
+0:26 Oh, there's one.
+0:26 >> Oh, hi Bruce.
+0:28 >> [laughter]
+0:29 >> It's Bruce. Oh, wait.
+0:33 >> Seems like kind of a
+0:35 kind of a mellow month. I don't know
+0:36 about you guys, but
+0:38 um just seems like everybody is kind of
+0:40 in a
+0:42 just a mellow mindset or just focused on
+0:45 their work mindset or something. I don't
+0:46 know what it is, but think I'm quite
+0:48 Hey, look at there's Kevin. Hello Kevin.
+0:51 >> Hello Kevin.
+0:52 You're welcome.
+0:54 >> Nice to see you, dude.
+0:55 >> Hey guys, you know, I think we have the
+0:57 cold open down so tight. I think
+1:00 >> [laughter]
+1:01 >> Our cold open is
+1:06 >> Oh, you mean just like winging it?
+1:08 >> We just talk. We don't say welcome to
+1:10 the designer show. This is
+1:12 >> [laughter]
+1:12 >> blah blah.
+1:13 >> Yeah, we don't have that little music
+1:14 playing and our logo playing through.
+1:16 >> Yeah, we don't have an intro. We just
+1:18 have a plain cold open.
+1:19 >> Yeah, it's it's as if everybody's just
+1:22 entering from a different room and
+1:23 there's a conversation going on in the
+1:25 kitchen.
+1:26 >> Yeah, exactly. That's it.
+1:27 >> [laughter]
+1:28 >> All right, yep.
+1:28 >> That is us.
+1:30 >> Maybe that'll be our 2026 goal. We'll
+1:32 have a cool opening. How about
+1:34 >> [laughter]
+1:35 >> And anyone that's hung out with us, they
+1:37 know that this is pretty accurate.
+1:39 >> Yeah, this is pretty [laughter] much it.
+1:40 It's good. Yeah, we should be doing
+1:42 something of importance.
+1:44 >> We're seriously [laughter]
+1:46 We're goofballs, but we're serious about
+1:49 what we talk about. So,
+1:50 >> [laughter]
+1:50 >> anyway.
+1:52 >> Very serious goofballs.
+1:52 >> But we're always goofballs.
+1:54 >> Yes. [snorts]
+1:55 >> So, anyway, it's makes life a lot more
+1:57 fun when we're small
+1:58 >> another Kevin. Who's Kevin Kurtz?
+2:01 >> I think everyone Kevin.
+2:03 I like that.
+2:04 >> Yes.
+2:05 But we were saying hi to you too, Kevin.
+2:07 Both of you.
+2:08 >> Oh, yes.
+2:09 >> [laughter]
+2:09 >> Yes.
+2:11 All the Kevins and Bruces and everybody
+2:13 else that joined us and the Mikes,
+2:15 welcome.
+2:16 >> Yes. Welcome, everybody.
+2:17 >> Anyway, today's kind of an open forum or
+2:19 it is an open forum. We haven't prepared
+2:21 anything other than
+2:23 we've talked about a few things we'll
+2:24 talk about. And if you guys have
+2:27 questions, by all means, please chime
+2:30 in. Um You know, Bob DeBree had a
+2:33 question. Has anybody Has anybody
+2:36 Let me find that question and I'll read
+2:38 it later. But um
+2:40 What do you guys got?
+2:42 What do you got? What do you want to
+2:43 cover today?
+2:44 >> I want to say hi to Bruce and say my
+2:45 little thing.
+2:46 >> It's like that, huh?
+2:48 >> [laughter]
+2:50 >> So, clearly we're prepared.
+2:53 >> Yeah.
+2:54 >> No, we're not.
+2:55 We'll be honest about that.
+2:57 >> You [laughter] know what I am interested
+2:58 in?
+2:59 >> to be perfectly honest, I originally had
+3:02 this date as a no show. We weren't going
+3:03 to do a show today. So,
+3:05 >> That would have been a bummer.
+3:07 >> Think of it as a bonus.
+3:08 >> Hey, Cassidy.
+3:09 >> bummer, Dan.
+3:10 >> Yeah. Yeah.
+3:11 >> Cassidy.
+3:12 >> You know
+3:13 Um I have like six different licenses in
+3:17 my account, you know,
+3:18 >> [snorts]
+3:18 >> friends who've purchased um through my
+3:21 account years ago. And I have so many of
+3:24 them. I was looking the other day cuz I
+3:26 have to make my payment this month that
+3:28 are not using X17.
+3:30 And I feel like I need to call them and
+3:32 find out why they're not upgrading their
+3:34 program. Um and I I wonder how many
+3:37 people are choosing not to upgrade each
+3:39 month each time, you know.
+3:41 >> That happens.
+3:42 >> You need dimensions to me are like I
+3:44 can't go back now. Can't go back not
+3:47 having them.
+3:48 >> Yeah.
+3:48 >> Right. Right.
+3:50 >> Yeah.
+3:51 >> I have [laughter] something it cover
+3:52 Dan. Can could share my screen.
+3:54 >> And X18's going to be teased at the
+3:57 builder's show, so
+3:58 >> Is it?
+3:59 >> Or KBIS, if you want to call it that.
+4:00 >> That's what they do
+4:02 every year, so
+4:03 >> Typically, but
+4:04 >> release it in June, right?
+4:07 >> they sent out Renee, they sent out an
+4:08 email maybe just today that said, you
+4:11 know, happy holidays, blahdy blahdy
+4:12 blah, and you're going to be going to be
+4:14 showing you some of the cool new
+4:15 features at the builder's show.
+4:17 >> Okay.
+4:17 >> Oh, really?
+4:18 >> Huh.
+4:19 >> Have any of you guys heard of the Is
+4:20 there beta out?
+4:22 >> That must mean we're close to really
+4:23 beta if they're sending that out, so
+4:25 >> Right, yeah.
+4:26 You would think.
+4:28 >> Um
+4:29 I was just going to mention I have a
+4:32 um
+4:33 I have a new designer I'm working for
+4:35 and
+4:36 I'm starting to get used to how they do
+4:39 things and it means that I'm I'm
+4:41 building out, you know, library items
+4:44 and stuff specifically for their
+4:46 projects
+4:47 to kind of, you know,
+4:50 improve our efficiency working together.
+4:52 And one of the things that I end up
+4:54 building is is a bunch of material
+4:56 regions that have
+4:58 um clapboard on it, you know, shiplap,
+5:02 um board and batten, all that stuff, cuz
+5:05 then it makes it easy because
+5:07 that's that's something that they're
+5:08 doing quite frequently on the interior
+5:10 design scope. And then,
+5:13 you know, we've talked about this
+5:15 at some point in the past being able to
+5:18 add items to your toolbars, and I know
+5:20 you guys were just joking about how
+5:21 crazy my toolbars are.
+5:23 >> Yeah.
+5:24 >> Yeah, you didn't need for you to hear
+5:24 that, Renee.
+5:25 >> Yeah.
+5:26 >> Yeah, we were That was talking behind
+5:28 your back, not in front of you, Renee.
+5:30 >> [laughter]
+5:32 >> I don't think that's the first time
+5:34 we've ever commented about Renee's
+5:35 toolbars, [laughter]
+5:35 so
+5:38 with even with Renee present.
+5:40 >> So, I'm I'm I'm
+5:41 >> [laughter]
+5:42 >> making these material regions to kind of
+5:44 take care of that scope, which is I just
+5:46 get to drawing here and all of a sudden
+5:48 I've got that shiplap. I get the drawing
+5:50 here and I've got some kind of
+5:52 um trim board. And And you know, with
+5:55 X17 it makes it super easy to say, "Hey,
+5:58 this is a belly band and it's going to
+5:59 be
+6:00 uh a 2x8 belly band. And
+6:03 >> So, those are all just material regions
+6:05 in a library.
+6:06 >> Yes. And just being able to draw this
+6:08 out real quick just makes such a big
+6:10 difference. Just being able to pop in
+6:12 shingles and
+6:14 >> Mhm.
+6:15 >> Rene, how do your corners come together
+6:16 on that?
+6:17 >> Yeah, that's what I was wondering.
+6:18 >> They fixed that in some previous version
+6:21 um where they miter.
+6:23 >> Really?
+6:24 >> You You draw it You draw it past and
+6:26 then they miter up nicely.
+6:28 >> that they did that.
+6:29 >> talking about something.
+6:30 >> And they Yeah, and they have the
+6:31 appropriate thickness, Rene?
+6:34 >> Yeah.
+6:34 >> corner? Yeah.
+6:35 >> And I mean I I just Yeah, exactly. And I
+6:37 mean so I I'm just been setting these up
+6:40 as I need them and keep adding them to
+6:41 the toolbars and what does that make?
+6:44 >> Yeah.
+6:44 >> Yes.
+6:45 >> I use those in bath showers and things
+6:47 like that when I want to just put a
+6:48 whole different floor in. You just have
+6:50 a material region. You just click on the
+6:52 room and it poof it it populates the
+6:54 whole floor.
+6:54 >> Yeah.
+6:55 >> It's a whole lot easier than five steps.
+6:57 >> Yes.
+6:58 >> Right. And so just coming up with these
+7:00 tricks and how to use them. This one's
+7:01 funny.
+7:02 >> Nice.
+7:03 >> Is it a live Is it a live wall? I can't
+7:06 My screen is so small.
+7:07 >> Exactly.
+7:08 >> It's a live wall.
+7:09 >> It's not a trellis. It's
+7:12 >> It's a [clears throat] trellis. I love
+7:13 that.
+7:13 >> Yeah, that trellis is just an image.
+7:15 That's not an actual 3D trellis.
+7:18 >> Yeah.
+7:18 >> Is that right?
+7:19 >> I mean as far as AI's concerned, if I
+7:21 send it to go render, it's going to
+7:23 re-render that looking pretty realistic
+7:26 whether or not. So, that's kind of fun.
+7:28 >> Mhm.
+7:30 >> And I love you know, the thing about the
+7:32 material regions is they cut around
+7:33 everything. So, you get a window in here
+7:35 and it's going to cut around it.
+7:37 >> [snorts]
+7:38 >> And it changes your material list, too.
+7:40 People are
+7:40 >> You know, Rene,
+7:42 so my cousin my cousin did put a trellis
+7:44 on his uncle's house and he put the
+7:46 trellis on a hinge so that you're able
+7:48 to hinge it so that way then you can
+7:50 paint behind it. She should put hinges
+7:52 on your little trellis.
+7:54 So, now that I said that you guys, Renee
+7:56 will have hinges on that trellis before
+7:57 the end of the show.
+7:59 >> [laughter]
+8:00 >> Probably. Yeah, because because you got
+8:02 a huge audience there. You've got her
+8:04 uncle.
+8:06 >> [laughter]
+8:08 >> No, you have to paint the house and if
+8:09 you have this trellis with a plant on
+8:11 it, right?
+8:12 >> you.
+8:12 >> You can't get behind it. No, it makes
+8:14 sense, right? If you're going to
+8:15 [clears throat] do that.
+8:16 Otherwise, you tear the plant out again.
+8:18 So, then Renee's going to
+8:19 >> you show how to Can you show how to make
+8:20 that material region toolbar?
+8:23 >> Uh yeah, yeah, I will. Um
+8:26 I was going to try to see if I could
+8:27 find this shutter that I've got. Um
+8:30 one of my clients uses these kind of
+8:33 hook loop.
+8:37 There you go.
+8:38 And they're trying to do this and
+8:39 they're just doing it with parts and
+8:41 that's because they didn't know about
+8:44 some of the advanced stuff we could do
+8:45 with symbols so that this was sized
+8:48 appropriately to the window.
+8:50 Um so, I'll have to show this as well,
+8:52 but uh to
+8:54 to comment on what
+8:55 John just mentioned is if we right click
+8:58 somewhere in our toolbars and they are
+9:01 not locked, then we can customize Excuse
+9:04 me, I think we can customize toolbars
+9:06 even if you're locked, but um
+9:09 just put in
+9:10 >> You just can't move them around.
+9:12 >> Yeah, put in place library and you'll
+9:14 get this place library object. I like
+9:17 bringing this up every once in a while.
+9:18 I know we have it before, but
+9:19 >> Yeah.
+9:20 >> you drag place library object onto that
+9:23 toolbar if your toolbar is visible.
+9:26 >> [snorts]
+9:27 >> Right?
+9:28 >> Do it a bunch. Is there any time to
+9:29 replicate that and say like put 20 of
+9:31 them on there?
+9:32 >> Yeah, absolutely. If you just kind of
+9:35 want to sequence through them real fast,
+9:37 Um the one thing that I want to note is
+9:40 if you place this close to another tool,
+9:44 it's going to build another toolbar.
+9:47 >> Yeah.
+9:47 >> Right. Let's put it on top of something.
+9:49 >> to this toolbar, it's going to build
+9:50 another one. So, you got to kind of
+9:51 place it right on top.
+9:53 >> Yeah.
+9:53 >> And that will add to it. Now, so I don't
+9:55 have a problem with this cuz it's
+9:56 floating. I get to just kind of slap it
+9:58 in there.
+9:59 >> Right.
+9:59 >> And then once I've done that and I close
+10:01 this dialog box, next time I click on
+10:03 this, it wants an actual modal window
+10:06 where where trying to look for the
+10:08 library item to link it to it.
+10:10 We can name the button whatever we want
+10:13 so that when we hover over the button in
+10:15 our [clears throat] toolbar, it, you
+10:16 know, pops up that name.
+10:18 >> They haven't Have they added drag and
+10:20 drop?
+10:21 Just drag a a library item onto that
+10:24 button?
+10:25 >> Not there yet?
+10:26 >> No, I I think the library is locked out
+10:28 at this point, yeah. It's
+10:29 >> Oh, yeah. Okay. Got it.
+10:31 >> Um
+10:32 >> No, how about if the dialog's closed?
+10:34 Can you just drag something onto that
+10:35 button?
+10:36 >> No.
+10:36 >> I can't imagine. I can't imagine, but
+10:39 >> No, I know they said they might work on
+10:41 some more drag and drop stuff
+10:43 um at the end of beta last year. That's
+10:45 what they were talking about that for.
+10:47 >> Okay.
+10:48 >> You know, this is really great because I
+10:49 I
+10:50 teach this and we do um I use the same
+10:53 toilet most of the time. I mean, like my
+10:55 favorite toilet is the Toto Aquia 4 and
+10:57 I have all the specs in it and I have
+11:00 two different versions of it that I use
+11:02 and all the specs are already there. So,
+11:03 when I pull that toilet out, it's
+11:06 loading my specifications at the same
+11:08 time and I love that.
+11:11 >> Yeah, I I
+11:12 >> [clears throat]
+11:12 >> I use the same toilet, too. My wife
+11:14 makes me go downstairs, but it
+11:16 >> [laughter]
+11:18 >> Cute. Cute. Cute. Cute.
+11:21 You know, there's always the funny one
+11:23 in the group and unfortunately
+11:25 >> It's usually us.
+11:26 >> Kevin, it's not you today. [laughter]
+11:31 >> [cough]
+11:32 >> All right, we [clears throat] have
+11:32 another question here.
+11:34 Again, this one Mark sent this question
+11:36 to you.
+11:36 >> Yeah.
+11:37 >> Uh realistic renders with specific
+11:39 materials we sell for in-home real-time
+11:41 presentations.
+11:43 Any comments [snorts] about that?
+11:45 >> well, here's his question. Um where did
+11:47 I put it?
+11:48 Get over here, question.
+11:50 Um here it is.
+11:52 Uh Mark said um
+11:55 he's working on how to use Chief in our
+11:57 in-home presentations. Lighter does not
+11:59 work unless I can get the homeowner send
+12:02 days in advance of the visit. So,
+12:05 lighter being the few years canvas or
+12:07 something like that.
+12:07 >> Sure.
+12:08 >> Um is that what you're using, Mark? Um
+12:10 we're working with preset bathrooms and
+12:13 the ability to real-time import the
+12:15 finishes we sell. I would like to
+12:17 incorporate prices for each of those
+12:19 finishes in real-time price change.
+12:23 So, so there we're talking about you
+12:25 bring something in
+12:27 that's diff- that's you're replacing
+12:30 figure replacing a tile with a different
+12:32 tile.
+12:33 Will the pricing update automatically
+12:36 from the tile you just brought in?
+12:38 >> You'd have to put that
+12:40 Yeah, if you plug it in, you'd have to
+12:41 have a pretty extensive um spreadsheet,
+12:44 your um specification sheet, your
+12:47 your schedule. And you could actually
+12:50 to figure out the area and the cost and
+12:52 do a calculation in there, right?
+12:54 >> We're trying to do it automatically.
+12:56 >> has a material list panel. And this is
+12:59 where you're going to specify its
+13:01 structure type, how its calculation is
+13:03 done. So, we could do it by area or we
+13:06 could do it by count. And so, then you
+13:07 have to figure out what the count is.
+13:09 And this can get complicated, right? So,
+13:12 um the count in this instance, this is
+13:15 the scale of
+13:16 this siding material, right? And it's
+13:19 it's not really representative of the
+13:21 scale of the object itself, which now
+13:23 becomes the problem.
+13:25 Because if I want to change this to the
+13:27 scale of the object itself, meaning
+13:30 that, you know, I want this to be
+13:33 call it a a 10-ft board, it's going to
+13:35 stretch the pixels of this image. And
+13:38 so, I have to keep that in mind if I
+13:40 also want to keep in mind that I'm going
+13:41 to be pricing this. So, if I need it to
+13:43 be realistic, then I might need to up
+13:45 the resolution of this and duplicate it
+13:49 several times to get it to the actual
+13:51 width where it's not going to look like
+13:52 stretched pixels when I set this to the
+13:55 correct size,
+13:57 right?
+13:58 And so, then when we get to the
+14:00 materialist,
+14:01 oh, I guess we get to do
+14:04 we get to override this.
+14:06 >> Yeah, I thought you could.
+14:09 >> Okay, so if I set that this is 10-ft,
+14:12 I guess it doesn't tie in. I thought it
+14:13 used to tie in.
+14:15 And then like an 8-in board.
+14:21 Update from pattern. Yeah, okay. And
+14:24 then I take this wall and I calculate
+14:26 materials for it.
+14:28 We are looking at
+14:32 Yeah, okay. No, I was wrong. This This
+14:35 works just fine. So, 36 count on that
+14:37 wall.
+14:39 >> I'll go change it to something else.
+14:42 >> The other thing is,
+14:43 you know, once you got it on that wall,
+14:45 you then also have to
+14:47 um
+14:47 oops.
+14:50 And you also have to go plug in the
+14:52 price what in the components section.
+14:59 Yeah, then you'd have to come in here
+15:01 and plug this in. So, you're basically
+15:02 building a wall type at that point if it
+15:04 was a siding material.
+15:06 >> [clears throat]
+15:07 >> Which is a lot of extra work.
+15:12 I probably have a couple of ideas about
+15:14 that. I mean,
+15:15 you can always
+15:17 do some
+15:17 >> Doing the interiors,
+15:19 Renee, doing the interiors, there's a
+15:20 wall region wall material, not It's not
+15:24 a wall material region, it's a wall
+15:25 material or something like that.
+15:27 When you're inside of a room and you
+15:29 select a wall,
+15:30 >> Yeah.
+15:31 >> uh wall covering, I think it is. I
+15:33 haven't used it very much, but it
+15:35 changes the covering of the of one
+15:36 individual wall.
+15:38 >> Mhm.
+15:39 >> one at a time, so something like that
+15:40 incorporated into it would be
+15:43 >> Well, you could still do it in real time
+15:45 just by painting, but
+15:51 >> But the wall covering changes the
+15:52 material of it.
+15:54 >> Yeah, I I believe it still changes this.
+15:56 If I go and spray this Hold on, let's go
+15:58 see real quick.
+15:59 So, if I change the color of this,
+16:04 and we go take a look at this,
+16:12 um
+16:13 you're right. It's not going to change
+16:16 the finish that's on
+16:17 exterior side of this.
+16:19 So, what would be a fast way of doing
+16:21 that? Feel like you'd have to just build
+16:23 out your wall types for your different
+16:26 assemblies.
+16:28 And change the wall.
+16:30 >> I think what Mark is after,
+16:32 um is can he price a bathroom in real
+16:35 time in front of a client and change
+16:37 things in it and have the prices have
+16:39 the total price update automatically. Um
+16:43 I was just looking at that now like with
+16:46 I did a couple of shower doors and I put
+16:48 one in and then I changed it out to a
+16:50 different one.
+16:51 Could I get that pricing? Now, the
+16:53 material is do update
+16:55 in real time now, right?
+16:57 >> Yeah, and objects objects are easier to
+17:00 update. So,
+17:01 >> Objects, yeah.
+17:02 >> Yeah.
+17:03 >> So, objects could be
+17:05 objects are different than
+17:08 materials.
+17:09 >> [snorts]
+17:09 >> Yeah,
+17:10 finishes are more challenging.
+17:12 >> Yes, exactly.
+17:14 >> So, I would use material regions if you
+17:16 were trying to change pricing based on
+17:19 square footages and stuff of materials.
+17:24 >> Well, you just have to understand really
+17:26 well
+17:28 >> Like if I went
+17:29 >> Yeah.
+17:30 >> Okay. If I went and found my board and
+17:32 batten
+17:37 in my library, which is now hooked to
+17:40 something in my
+17:41 toolbar.
+17:46 Let's see.
+17:48 So, if I found this, let's see. You know
+17:51 what?
+17:52 Let me turn it on. Bear with me.
+17:58 And shows nothing. Great job.
+18:03 And still shows nothing.
+18:08 It still shows nothing.
+18:09 >> Hey Dan, can you check your mic which
+18:11 mic you're using? You don't sound
+18:14 as clear as
+18:15 >> Rene has.
+18:15 >> All right.
+18:16 >> Neither do you, John.
+18:18 >> I know. My my mic went dead on me, so
+18:20 I'm using a different one.
+18:22 >> Yeah, it's
+18:23 >> I can't fix it.
+18:25 >> So, I'm using my open comm.
+18:27 >> You sound good from here, Dan.
+18:30 >> Okay.
+18:31 >> So, there is
+18:32 >> You have ice on your wires up there.
+18:35 Um
+18:36 >> There is a problem with material
+18:37 regions. You can't edit them once you've
+18:39 added them to the library.
+18:42 >> Oh.
+18:44 You can't edit them what? You can't edit
+18:46 the
+18:47 >> You can't edit the library object.
+18:50 >> You can't change the price of a tile
+18:52 material to something else.
+18:53 >> Yeah, so you have to
+18:55 >> You have to recreate it, copy it, and do
+18:57 a different one.
+18:58 >> So, you got to build
+18:59 on the wall,
+19:01 go in there, build out all the
+19:02 components, build out your pricing for
+19:05 it,
+19:05 you know, and
+19:07 and then save it to the library, link it
+19:10 through
+19:11 Now, you could use that to do different
+19:13 >> Is there anything you can do with a
+19:14 master list that would have tied into
+19:16 that?
+19:19 Can you
+19:20 >> Right.
+19:21 >> Here's a question in that direction. I I
+19:23 can't see that your your toolbar down
+19:25 there. If you select the a material
+19:27 region, can you find the original in
+19:28 library?
+19:30 >> Yeah.
+19:31 >> Is there Is there a button down there?
+19:32 >> Yeah, so it finds it in library, but
+19:36 you there's no open object.
+19:38 >> But if you find it in the library, you
+19:40 should be able to place it right away if
+19:42 if it works the way the walls do.
+19:45 >> Yeah, I mean I can I can find it. I can
+19:47 place it, no problem, but
+19:49 >> But my my my my point is then you could
+19:52 have
+19:53 you know, different materials
+19:55 categorized in the library.
+19:57 If it's tile, you select on any tile
+20:01 material and find it in library and it
+20:03 takes you to that list in your library.
+20:05 So, then you can pick the tile that you
+20:06 really want.
+20:08 >> Oh, yeah. I do that myself as well. Um
+20:11 yeah.
+20:12 Like if I want to go find Chief
+20:14 Architect's moldings, I'm always going
+20:16 to do just CAO1 is going to get me
+20:19 um to their casings, and then I can say
+20:22 show folder.
+20:24 >> Sure.
+20:25 >> Yeah. And then
+20:26 um
+20:27 but
+20:28 in terms of like building up material
+20:30 pricing, you got to do the pricing first
+20:32 in the material region and then save it
+20:35 back to library.
+20:36 >> So, and then when you when you
+20:39 when the material the the when the price
+20:41 changes, you'd have to make a copy of
+20:42 it, delete the original, and change the
+20:44 price in the copy.
+20:46 >> Yeah, and then and then you got to go
+20:48 relink the toolbar. So, really I should
+20:50 go report that cuz that's that shouldn't
+20:53 function like that. It should be able to
+20:54 open it up.
+20:55 >> or just have your toolbar be siding,
+20:58 tile,
+20:59 um
+21:00 like six different categories there, and
+21:03 you go find them in the library to to
+21:05 use them.
+21:06 >> Um I'm going to go ahead and and plug a
+21:09 video I have on my YouTube paywalled
+21:11 side. I think it's on the paywalled
+21:13 side. It might not be. Um, but there's
+21:15 one that's called
+21:16 um, RSMeans style estimating.
+21:20 And uh
+21:21 and I show how you can write a macro
+21:23 that does
+21:25 yeah, estimating just the same way we do
+21:26 it in RSMeans book. Which is you've got
+21:29 a um, a crew price per unit and then
+21:34 you've got your markups, you've got your
+21:35 overhead costs,
+21:37 all that stuff. And you can build that
+21:38 all in the Chief and make it be
+21:40 automated. I mean, you can do it
+21:42 >> Wow.
+21:42 >> so that you can just
+21:44 use a style palette to inject something
+21:48 into um, one of the object information
+21:51 fields like code or supplier or
+21:53 something like that where it says
+21:55 um,
+21:56 you know, code could be crew one, crew
+21:58 two, crew three. And so, just by
+22:00 applying a style palette to an object,
+22:03 it's changing the crew that's working on
+22:05 it, which changes out your price on your
+22:08 on your whole list. So, you can get
+22:09 labor costs in there as well.
+22:15 >> Well.
+22:15 >> So, so you let me just have the screen
+22:18 for a second here.
+22:19 So, um
+22:20 >> Got you.
+22:22 >> Okay. Oops, there.
+22:24 Okay, there I am.
+22:25 Um, so
+22:27 you were talking about materials on
+22:30 surfaces. If we just talk about the
+22:32 items themselves, so you could start
+22:35 building out libraries of you know, for
+22:37 example, shower doors here. Here I've
+22:39 got a shower door. So, if I built a
+22:41 library full of different shower doors,
+22:43 you know, here I just copied two from
+22:45 the Kohler library.
+22:47 And on this one I hit open object and I
+22:51 went down here and I put in, you know,
+22:53 $500,
+22:54 50% markup, so the retail price on it
+22:57 $750. And then on this other one I I the
+23:00 you know, I did it with just call the
+23:01 $400. So, now if I go
+23:05 place, so I [snorts] place this one, so
+23:07 I place this one in my plan.
+23:10 Right? So, if I go to my material list
+23:12 now
+23:13 and look at it,
+23:16 I've got a $400 shower door here.
+23:19 Okay? So, now if I say, "Okay, well, I
+23:21 don't want that one. I want to use a
+23:22 different one." So, now I go in here and
+23:24 I delete that one
+23:27 and then I go pop in the other one. Let
+23:29 me hear me take Try that again.
+23:31 Delete.
+23:33 And then I put that one in. I go back to
+23:34 my list and now that's updated. So, so
+23:38 so certain things are really easy.
+23:41 >> Yeah.
+23:41 >> Okay. So, again, you could have 10
+23:43 different toilets, 10 different shower
+23:45 doors that you use in all of your
+23:46 bathrooms. You could have the pricing,
+23:49 the markup, the waste factors, all of
+23:51 that stuff marked into that item.
+23:53 Remember, you could do you don't you
+23:55 could have them in your plan and then
+23:57 add them to a library or um and once
+24:00 they're in your library, just if you
+24:02 want to edit it, go open object
+24:05 and there you go.
+24:06 Now, [clears throat]
+24:09 the good thing about having them all in
+24:10 one plan, for example, if you brought up
+24:12 a material list,
+24:13 then you'd be able to see all of the
+24:15 different items
+24:17 and make the adjustments there. So, but
+24:19 the trouble is for that is you'd be
+24:20 copying and pasting from plan, not from
+24:22 your library, which would be a little
+24:24 bit more complicated, unless you created
+24:26 a library with all those different
+24:28 things in it. All your shower doors, all
+24:29 your toilets, all your vanities, all
+24:31 your sinks in one plan that you just
+24:33 copy and paste into the plan you're
+24:35 working on.
+24:37 >> Dan, I I've got I got something that I
+24:40 think you would actually be interested
+24:41 in for getting into macros that would
+24:44 really
+24:45 be like the thing that you be like, "All
+24:46 right, I want to I want to learn this."
+24:48 is
+24:49 >> Well, this is a Mark question. Mark, I
+24:52 hope this this is helping. Let's see
+24:54 Mark's on the call.
+24:55 Um he's competing with the, you know,
+24:57 the big companies that have, you know,
+25:00 massive budgets and, you know, they
+25:02 create their own programs to do all this
+25:03 stuff. And he wants to do it in Chief.
+25:07 And we're getting closer.
+25:09 Maybe maybe your macro thing would work.
+25:11 Why don't you show us?
+25:12 >> Well, you can
+25:13 you can build this so that you have,
+25:16 like if you're getting this this spec
+25:18 from
+25:19 >> Uh, can you show your screen or just
+25:21 >> Oh, I'm I'm just going to talk for a
+25:22 second.
+25:23 >> Oh, okay.
+25:24 >> Yeah.
+25:25 Um,
+25:27 you can make it so that you if you have
+25:29 a big price list that you're
+25:32 specking out anyways cuz you're doing
+25:34 that in in RS Means or something like
+25:36 that. I'm not RS Means uh,
+25:38 Job Tread, Builder Trend, that kind of
+25:40 thing.
+25:41 Right? You can export that price list.
+25:43 Or if you're maintaining an SQL database
+25:45 of prices outside of Chief,
+25:48 you can get it so that Chief will read
+25:50 and say, "Hey, if this object you just
+25:52 placed in plan matches anything in this
+25:55 price list,
+25:56 then put that price."
+25:58 And
+25:59 and then that [clears throat] way we're
+26:00 not having to build a huge library. It's
+26:02 just It's just going, "Hey, let's search
+26:04 the database. Is this thing in there? If
+26:06 it is, we'll pull that price."
+26:09 >> But that means you have to keep that up
+26:10 to date.
+26:12 >> Your price list?
+26:13 >> Yeah.
+26:14 >> Oh, absolutely. You should always keep
+26:16 your price
+26:16 >> Which is
+26:17 Which is a lot of work nowadays. I swear
+26:19 to God, it's like everything is changing
+26:20 on a regular basis. So, I don't know
+26:23 I mean, I can't imagine relying on that
+26:26 kind of information cuz what if you gave
+26:28 the bid out on and you missed one thing
+26:31 and it cost you $5,000 because you
+26:33 missed it.
+26:34 >> That's why
+26:34 >> never rely on that. To me, I would never
+26:37 rely on it.
+26:39 >> Yeah. I
+26:40 >> I think it's I think there's you're
+26:41 setting yourself up for more
+26:43 opportunities for error with that.
+26:45 Especially I mean, 10 years ago, you
+26:47 could have done that because things were
+26:49 almost always the same price. But things
+26:51 change on a daily basis, and I can't
+26:54 ever imagine running my business like
+26:57 that.
+26:58 >> Yeah.
+26:59 >> So
+27:00 >> So, and again, when you think about
+27:02 what you do when you create an estimate,
+27:04 you know, you're adding, you know,
+27:06 labor, you're adding dumpsters, you're
+27:08 adding all these other things that
+27:10 aren't necessarily part of the plan that
+27:12 you're actually working on.
+27:13 >> Well, the program doesn't figure extras.
+27:15 The you know, like if a tile pattern, it
+27:18 doesn't figure out that you need to
+27:19 order an extra 20 or 30% more because
+27:22 you're doing some weird layout. The
+27:24 program won't do that.
+27:25 >> you could put that in there. You could
+27:27 put an extra 20% right here.
+27:30 Um
+27:31 >> Dan, that changes But, that changes
+27:32 based on the pattern, right? If you're
+27:34 doing a um you know, if you're doing a
+27:37 herringbone pattern, you're going to
+27:38 have a higher waste than if you're doing
+27:40 a standard pattern. I mean, that could
+27:42 be I and and certain tiles need
+27:45 different I mean, just talking about
+27:47 tile, but
+27:49 everything every framer frames
+27:51 differently. Everybody
+27:53 I would never run I let this program run
+27:56 my numbers.
+27:57 >> That's when I would just pump the
+27:59 overage up and say, "Hey, you want it
+28:01 super accurate, do your own stuff. This
+28:03 is This is what I've got with 30%
+28:05 overage."
+28:06 >> Right.
+28:07 Yeah, you would have to really plan that
+28:08 way.
+28:09 >> So, you could, in this case, have, you
+28:12 know, add labor to objects. Again,
+28:14 objects are easy. Something like it
+28:16 again, a toilet or a shower door or a
+28:18 faucet or whatever, those things
+28:20 you know, they're pretty set in stone
+28:22 other than, you know, of course, the
+28:23 price is going to change tomorrow.
+28:25 Um
+28:26 >> [laughter]
+28:27 >> Other than that, yeah.
+28:29 >> Yeah, other than that, yeah.
+28:31 >> And then, the price changes on the
+28:32 second.
+28:33 Yeah.
+28:33 >> See, we can't do that to a wall or we
+28:36 can't actually do that to a wall type.
+28:38 So, but when I put this wall type in,
+28:41 right now, it's counting 892 ft. How do
+28:44 I set this up so it prices it per foot?
+28:47 Um
+28:48 can I do that even? I don't even know.
+28:50 I've never gotten into it that deep.
+28:52 >> Uh what do you mean? A linear foot?
+28:54 >> Yeah.
+28:55 Cuz that's you know
+28:56 that if you're going to do unit pricing,
+28:58 that's how you would price out this kind
+28:59 of a wall.
+29:00 >> That's what it's doing right now.
+29:03 >> So, if I put um
+29:06 So, if I put $100 here,
+29:08 it's going to be
+29:09 $100 a foot. Okay. So, oh look at that.
+29:12 That'd be a good job. Um
+29:14 >> [laughter]
+29:17 >> I'm going to go build I'm going to go
+29:19 build a couple of those.
+29:20 Um
+29:20 >> That'll talk you That'll talk you into
+29:22 becoming a contractor again.
+29:23 >> I think so, yeah.
+29:24 >> [laughter]
+29:25 >> Just for a couple jobs.
+29:28 Um
+29:29 >> Yeah, but that client But that client's
+29:30 going to be a nightmare client just
+29:32 because the budget's so high.
+29:34 You're not going to want that.
+29:35 >> [laughter]
+29:36 >> Yeah.
+29:37 >> But um So, here it is doing a linear
+29:39 foot total cost, but you know labor you
+29:42 know so the total cost. So, you got the
+29:44 price for material, you got your markup,
+29:46 you know again if you do a 50, if you do
+29:49 uh let's see if we're doing 20 bucks an
+29:51 hour uh $20 a foot. So, so there's your
+29:56 foot per foot cost for that, and then
+29:58 here's the total cost of all of those
+30:00 walls I have in my plan. I think is I
+30:02 think that's what it's pricing out here,
+30:04 right?
+30:04 >> Yeah.
+30:05 >> Um So, it's it's giving me the
+30:07 >> That's that's the total cost. It's just
+30:08 a very simple macro. They're materials
+30:11 >> Yeah.
+30:12 Okay.
+30:13 So, I'm just using the built-in stuff in
+30:15 Chief.
+30:16 So, it could be done.
+30:18 Uh you'd have to have someone really
+30:20 focus in on this. So, here's
+30:23 Where do those prices show up here?
+30:26 Um Yeah, so here it's just giving me the
+30:28 the
+30:30 that wall
+30:31 called lap siding.
+30:33 That's not even what it's called.
+30:35 What is it called?
+30:37 I've never really gotten into Chief's
+30:39 material list.
+30:41 Orange white lap siding. So, it's just
+30:43 doing the siding. Hm.
+30:45 Yeah, whatever.
+30:46 Um
+30:48 So, there's some things that could work
+30:50 easily, some things that would be
+30:53 difficult.
+30:54 You can
+30:55 at that best.
+30:57 And then whoever's running the the
+31:00 the mouse to
+31:02 add those things to your planner they
+31:03 doing it right.
+31:05 >> Yes.
+31:06 >> Hm.
+31:08 Tough one.
+31:10 To me it would be
+31:13 you know, if I if I were still
+31:14 contracting and I had to do all these
+31:15 estimates I'd probably using a
+31:17 non-screen digitizer.
+31:19 Where I'm, you know, putting dots for
+31:21 every outlet and I'm putting a dot on
+31:23 that, you know, the shower door is a
+31:24 shower door in my
+31:26 in my database for that program. I don't
+31:29 know. Again, I haven't done it for so
+31:31 long. I'm not the guy to talk to you
+31:32 about that right now.
+31:35 >> Yeah.
+31:36 >> I know.
+31:37 >> I know, it's been a long time since I
+31:39 priced out a project, but nothing is
+31:40 worse than coming in, getting the
+31:41 project started, signing a contract,
+31:44 getting it done getting things going and
+31:45 realize you miss a whole part of the
+31:48 project.
+31:49 >> Yeah. [snorts]
+31:50 >> Yeah.
+31:50 >> Yeah.
+31:51 >> I did that one time.
+31:54 I encourage people to use the material
+31:55 list that Chief has.
+31:57 to
+31:58 >> One of you guys talk.
+31:59 >> the material list as a check check
+32:01 myself. You know, go check my my
+32:03 material list that a Chief with what I
+32:05 came up with. If there's a huge number
+32:07 discrepancy, you need to check something
+32:09 out.
+32:10 >> And I think that's smart. I think that
+32:12 that's the advantage is to be able to
+32:13 really look at it, use the material list
+32:16 that Chief produces, and then just to
+32:18 check use it as a checking point. I
+32:20 think that that's a I think that's a
+32:22 really smart way to do it. That's the
+32:24 way
+32:25 Yeah, that's the way I would do it.
+32:27 Kevin, I one time had an employee order
+32:29 an entire house of cabinets in the wrong
+32:31 color.
+32:33 A $185,000
+32:35 worth of cabinets in the wrong color.
+32:38 The entire project. We didn't notice it
+32:41 until the cabinets were just about ready
+32:43 to deliver.
+32:44 >> Holy
+32:45 >> Oh, yeah. Yeah. Oh, yeah.
+32:48 >> puts that puts mine to shame. I I went
+32:50 through the trouble of detailing out all
+32:52 of the plumbing fixtures that I was
+32:53 going to put in a house and and finished
+32:56 it all out. It read really really well
+32:58 and had I only scrolled right and
+32:59 noticed that I didn't put anything in
+33:01 for cost.
+33:02 >> Oh, yeah.
+33:04 >> [laughter]
+33:05 >> You know what? And I just want to put it
+33:06 out there and just say I love my
+33:09 contractor and I respect him and my goal
+33:11 is to make his life as [snorts]
+33:15 easy as possible and because I know how
+33:17 hard they work. And that's, you know, I
+33:20 think that's the that's the job of a
+33:22 designer is to be as thorough and as on
+33:25 top of it and as organized as possible
+33:27 to make your contractor's life as easy
+33:28 as possible cuz they have the tough job.
+33:31 >> Yes.
+33:32 >> Yeah. Not to say that our job isn't
+33:34 hard, but man, and they don't make a
+33:36 high profit.
+33:39 So,
+33:40 >> [clears throat]
+33:41 >> anyway, can you show my little goof that
+33:43 I learned this week and um
+33:46 I'm sure somebody is going to go, "Ah,
+33:48 that happens to me."
+33:49 >> you want to show that, John, or you want
+33:50 me to just You want to tell me what you
+33:51 came up with?
+33:53 >> [clears throat]
+33:53 >> Uh I'll just go ahead You can go ahead
+33:55 and do it.
+33:55 >> All right. So, what did she do? I kind
+33:58 >> So, what I did was I had a I was working
+34:00 on a one-floor project just a kitchen or
+34:03 about a primary suite. So, no second
+34:06 floor, no first floor, nothing. I mean,
+34:08 no just the first floor. One floor only.
+34:11 And I did my floor plan and I did my
+34:13 as-built and I did my electrical plan,
+34:15 but when I switched to my framing plan,
+34:19 everything disappeared. I couldn't find
+34:20 anything.
+34:21 >> All right. So, let's go to the framing
+34:23 plan.
+34:24 All right. And
+34:26 >> And what had happened was
+34:27 [clears throat]
+34:28 >> So,
+34:28 >> the framing plan was on the wrong floor.
+34:31 It was in the attic, and I didn't set it
+34:33 up that way.
+34:35 >> You must
+34:35 >> framing plan was on the attic.
+34:37 >> So, when you went to edit the plan view,
+34:39 so were you
+34:40 >> Uh-huh.
+34:41 >> when you click that icon,
+34:43 did you switch which floor shows up when
+34:47 you switch to that?
+34:49 >> No, I never even I never even Honestly,
+34:51 Dan,
+34:51 >> attic.
+34:52 >> Yeah, I No, I didn't do that.
+34:55 >> No, not first.
+34:56 >> happened.
+34:57 >> Uh
+34:57 >> And I don't know how it happened, but it
+35:00 freaked me out because I couldn't find
+35:01 my framing plan.
+35:03 And then it I called John,
+35:05 and John's starting to look at it, and
+35:07 just as he's about ready to say, "Look
+35:08 at what floor you're on." I went, "Oh my
+35:10 god, I'm in the attic."
+35:12 How do I fix that from ever happening
+35:13 again?
+35:14 >> So, if I go in my plan, and I go down
+35:17 here,
+35:18 and it actually won't change cuz I
+35:20 didn't hit save. Um
+35:23 cuz what Chief will do sometimes it it
+35:25 it's going to auto save your settings
+35:27 from when you go into plan view, there's
+35:29 a little thing down here.
+35:32 Save options for your plan view. So, go
+35:34 look at that framing plan view and see
+35:36 if it's set to always save every time
+35:39 you change something. So, what may have
+35:42 happened is you went in here, and maybe
+35:45 somehow you clicked on attic or
+35:48 No, you would have gone to your attic.
+35:51 Maybe what happened is you went Let's do
+35:53 it this way. So, let's go to that
+35:56 framing plan again. Okay, so I got my
+35:58 framing all the framing in the plan.
+36:00 And I'm going to go up to the attic cuz
+36:01 I need to look at something.
+36:03 All right, but now in this plan view I
+36:05 had hit prompt to save.
+36:07 >> [sighs]
+36:08 >> Okay, and
+36:10 >> so when I tried to switch to another
+36:12 view,
+36:14 it didn't prompt me to save.
+36:16 >> You didn't make any changes.
+36:19 Oh, it was still set at that.
+36:21 >> Here's the difference, Dan. You need to
+36:23 select that and
+36:25 pick a floor on here
+36:26 >> Oh, yeah.
+36:27 >> that you wanted to go to.
+36:28 Then when you change floors, it's going
+36:30 to give you It's going to tell you that
+36:31 you changed something. [snorts]
+36:33 >> So
+36:34 So, you might have hit yes on that.
+36:36 >> Got it. So, let me ask you So, Dan, do
+36:39 you have all of your floors always set
+36:42 to never save?
+36:43 >> Correct.
+36:44 >> You have everything set to never save,
+36:46 and that's in your
+36:47 >> Every plan view is set to never save.
+36:50 So, if someone does something
+36:53 to change something
+36:55 and they
+36:57 go do something else, they switch to a
+36:59 different plan view, it's it's not going
+37:00 to save the things they changed. So, so
+37:03 if I were to go
+37:05 Um
+37:06 >> I'm just going to make a real comment
+37:07 real quickly.
+37:08 >> Mhm.
+37:08 >> Chad, you were right. John always knows,
+37:11 and he responds
+37:12 >> [laughter]
+37:13 >> so quick. John always knows.
+37:15 >> know.
+37:16 >> Uh you have to be
+37:18 >> Robin found that mistake on her own when
+37:20 we were talking about it.
+37:22 I hadn't gotten to that point yet.
+37:24 >> But I didn't realize that you could set
+37:27 it to never save, and that's such a
+37:29 smart thing because out of the box, the
+37:31 program is set to always save, and I
+37:34 didn't realize that we should change
+37:35 that setting. So, that was my little
+37:37 learn for
+37:38 >> I think it's it's set to prompt to save,
+37:40 not always save.
+37:41 >> Prompt to save, yes, it is.
+37:42 >> that. So, and and I can guarantee you
+37:45 99.5%
+37:47 of the people out there that use Chief,
+37:49 and they see that little message pop up,
+37:51 they have no idea what it means.
+37:53 >> I agree. I absolutely agree with you.
+37:56 >> So, back in the day when I didn't know
+37:58 what it meant, either, I just said
+37:59 always said no. Don't save it cuz I
+38:01 didn't know what I was saving. And then
+38:03 I one day it dawned on me, oh, that's
+38:04 what I'm saving. Okay. So, then it's
+38:07 >> You need to get the last way of doing
+38:09 that, Dan.
+38:10 >> Okay.
+38:11 >> Um go to your save Go to your uh
+38:14 icon for
+38:15 changing the changing the save plan
+38:17 view.
+38:18 >> Mhm. Right here?
+38:19 >> If you have that set to any Use any
+38:20 floor,
+38:22 when you change floors, it won't save
+38:24 it. It won't even prompt you to save it.
+38:26 It will just
+38:27 keep the save plan view
+38:29 to use any floor.
+38:32 And then when you send this to layout,
+38:33 you you uh
+38:35 pick the floor that you want that that
+38:37 particular view port to use in the
+38:39 layout, not here.
+38:41 >> Right. That That to me was one of the
+38:43 most brilliant things they did in that
+38:45 version.
+38:46 >> Yeah.
+38:46 >> What to say to use any floor, so you
+38:48 want to set So you guys have every one
+38:50 of your plan views set to use any floor
+38:53 and never save.
+38:54 >> Yeah.
+38:55 >> Right.
+38:55 >> Brilliant.
+38:56 >> Right.
+38:56 >> I don't. I use I use I use any floor and
+38:59 prompt to save because I I oftentimes
+39:03 decide to customize something and think,
+39:04 well, I want that to carry through. So I
+39:06 just let it prompt me to save and I make
+39:08 sure I'm answering yes or no
+39:09 appropriately.
+39:10 >> But in my world, I that would happen one
+39:13 out of you know, 50 times for me.
+39:16 >> What would be Kevin
+39:18 >> No, no,
+39:19 I would have to save it no 50 times
+39:21 before I hit yes to save it, so
+39:23 I don't want that. Anyway, we're sorry I
+39:25 interrupted you. Let's say
+39:26 >> Oh, sorry.
+39:27 >> What would be something you wanted to
+39:29 save?
+39:31 >> Oh, if I was if we're talking about the
+39:33 save plan views, I might I might be
+39:35 looking at uh that
+39:37 I've I've decided that I really like,
+39:39 you know, this this view of space um you
+39:42 know, as a close-up or whatever and I
+39:44 want that there and I may want it in
+39:47 this particular way while I'm in this
+39:49 plan every time I come back to that.
+39:52 >> you're always working on that laundry
+39:54 room.
+39:54 >> Or maybe I want it or maybe I want it
+39:56 across plans and and it's something more
+39:59 general. So I like it asking me, but
+40:02 what do you what idea do you have?
+40:04 >> See, what I would do is I would I would
+40:06 zoom into that and then I would make a
+40:07 copy of this plan view um and I would
+40:10 say laundry room.
+40:13 Okay.
+40:13 >> Yeah.
+40:14 >> I definitely like
+40:15 >> In my world, I'm that the zoom in glitch
+40:19 that if I click on remember to zoom, it
+40:22 will glitch the the center of the screen
+40:25 as I'm zooming in.
+40:27 It will be offset. So, as I'm trying to
+40:29 zoom in on a pinpoint thing, it's
+40:31 actually zooming based on some point off
+40:33 in the distance. That only happens when
+40:35 I click on
+40:37 you know, remember
+40:38 zoom. And so, I don't use that feature
+40:41 at all cuz it's it's been glitched out
+40:43 for as long as I can remember.
+40:45 >> I I like it, but then again, um I don't
+40:48 like the way Chief zooms in and out. So,
+40:50 I always use shift Z and just uh I draw
+40:53 >> a freaking wheel on your mouse. Or hey,
+40:55 if you just get a mouse.
+40:57 >> Hey, hey, hey, be nice to him.
+40:59 >> wheel.
+41:00 >> That still doesn't change the way Chief
+41:02 does zooming. I still don't like it. So,
+41:04 >> Be nice to him, Kevin. You're being
+41:06 really quiet.
+41:08 >> I like that I can draw a marquee around
+41:10 what I actually want zoomed and let it
+41:12 do that. So, that's I use shift Z all
+41:13 the time.
+41:14 >> Pin cheating works, but it doesn't zoom
+41:16 in the where you want it to zoom in.
+41:18 >> And just so everybody knows, Kevin is on
+41:20 a Mac. The rest of us are on PCs.
+41:22 >> And he doesn't use a mouse. He uses the
+41:24 pad.
+41:26 So,
+41:26 >> Um so, will you guys answer Roland?
+41:28 >> for that discipline.
+41:30 >> Before we leave here, I have a thought
+41:31 for everybody.
+41:32 >> What?
+41:32 >> I I've been telling my clients to use
+41:34 the save plan view icons up there
+41:37 as a rear like a rear view mirror
+41:41 to keep track of where you're at. Yeah.
+41:44 So,
+41:45 If if that save plan view was set the
+41:47 way you want it, that blue icon is going
+41:50 to be gray.
+41:51 If you change something
+41:54 to make it change the save plan view,
+41:56 it's going to come up blue. So, kind of
+41:57 always use that like a rear view mirror
+41:59 to
+42:00 keep track of where you're at. You might
+42:01 be doing something where you want that
+42:04 to be changed for a little bit.
+42:06 >> I really emphasize when
+42:07 >> that in the back of your mind that you
+42:08 made those changes.
+42:10 >> In all my training now, I emphasize
+42:12 these three buttons a lot because
+42:14 they're so beneficial.
+42:17 It saves this is you edit whatever view
+42:19 you have on your screen. It's not just
+42:21 for floor plans, it's for any view, 3D
+42:23 views, elevations, anything. And this
+42:25 this one makes a copy of that view that
+42:28 you're looking at. And then if that's
+42:31 highlighted, you need to hit it if you
+42:32 want to save what you just did. So so
+42:36 it's really really handy to
+42:37 >> like glancing at that, you you don't
+42:39 have so far to go back to okay, what did
+42:41 I change that made that
+42:43 made that turn on.
+42:44 >> Yeah.
+42:45 >> Or
+42:46 or if you spend a week, you set up your
+42:50 templates, you will never touch those
+42:52 buttons again.
+42:54 >> Well, that's the big thing. That's
+42:56 really true. Can [laughter] you guys
+42:58 answer
+42:59 Can you guys answer Rowan's Hills'
+43:01 question? Any idea how to
+43:04 Um that's the fourth um conversation up.
+43:07 She has a question, fourth or fifth one
+43:09 up where she asks how to get rid of the
+43:11 that. Thank you.
+43:13 >> Um Rowan, don't do that.
+43:16 That that means you're not moving things
+43:17 in 3D to me. And then and then that
+43:20 makes me sad.
+43:22 >> [laughter]
+43:23 >> It's down here?
+43:24 What are we talking about? That?
+43:26 >> Yes, it's the X Y and Z.
+43:28 >> Pull up 3D view real quick.
+43:30 >> If anything, make it bigger.
+43:33 >> I [laughter] know, right?
+43:34 >> Yeah. I have mine a little bigger so
+43:36 everybody can see it better.
+43:37 >> But but to answer your question, you go
+43:40 to the view menu and you go to the
+43:42 coordinate setting and you just click it
+43:45 on or off.
+43:47 >> Really? I thought it was in preferences.
+43:50 >> It is what it is there, too.
+43:53 >> Yeah.
+43:53 >> So right there in the view menu. So turn
+43:55 it off real quick, Dan.
+43:58 >> It's up here under
+44:00 um
+44:01 Which one is it? Actually um
+44:02 >> Coordinate. Down. Coordinate system
+44:04 indicator floating.
+44:05 >> You got your crosshair. Okay, there we
+44:07 go.
+44:08 >> Turn that one off.
+44:09 >> Yeah.
+44:10 >> So, there you go.
+44:11 That's easy.
+44:12 >> to pull a 3D view is what we're asking.
+44:15 >> [clears throat]
+44:19 >> And Renee, you can turn those on in
+44:20 different plan views. You can have it on
+44:22 in on in the camera view and off in a
+44:24 plan view.
+44:25 >> Yeah.
+44:25 >> Oh, that's part of your plan view now.
+44:26 Okay.
+44:27 >> Yeah.
+44:28 >> But so now if I want to move that window
+44:30 If I want to move that door, I know
+44:32 where X and Y is. So, if I want to move
+44:35 this door over, you know, a foot, I can
+44:37 just grab it and start dragging it and
+44:40 hit tab and go, you know, minus 12.
+44:44 In the thing Y because I can see Y. And
+44:47 that'd be a plus plus 12.
+44:49 >> It's going to be plus because it's
+44:50 seeing it.
+44:51 >> If I was going negative 12, it'd be
+44:52 negative.
+44:53 >> Yes.
+44:54 >> Yes.
+44:54 >> So, if I
+44:55 >> Where it really comes in handy is when
+44:56 you're looking at some other view, left,
+44:59 right, over, under, whatever because
+45:01 those coordinates get confusing and you
+45:04 can look at it and say, "Okay, if I want
+45:05 to move it this direction, oh, in this
+45:07 view that's a Z."
+45:08 Um
+45:09 and in another view that might not be.
+45:11 It might be a Y.
+45:13 Um so.
+45:14 >> Yeah, that that is true.
+45:15 >> is a really good point is if you're
+45:17 doing a screen shoot screenshot, then
+45:19 you want to get rid of it. But
+45:21 now you know how to do it.
+45:23 So, just show where it is again. It's in
+45:25 view.
+45:26 It's under view and then it's toggle the
+45:28 coordinate system off.
+45:30 >> And you could set up hot keys for that
+45:31 if you wanted to.
+45:33 >> Yeah, if you're always turning it on and
+45:34 off, you might want to set up a hot key.
+45:36 It would be really smart to do that.
+45:38 But
+45:38 >> Now, would you do that? Let's go show
+45:40 you how you do that. Let's go up to
+45:42 right click on a key. I'm sorry, go to
+45:44 tools.
+45:46 Um toolbars and hot keys and customize a
+45:48 hot key. And let's search for
+45:50 coordinate.
+45:52 Coordinate. There's your three
+45:54 coordinates. So, let's say we want a hot
+45:55 key to turn that off. Let's go um
+45:59 What would be a good hot key? Let's go
+46:01 >> want to answer if you if it's too big
+46:03 for you, then you want to change it in
+46:05 your preferences. If the size of it is
+46:07 determined in preferences, but turning
+46:10 it on and off is in just in the program
+46:13 itself in view. Okay? So, then once it's
+46:15 in preferences, it'll be the right size
+46:18 every time you open your program.
+46:21 >> How about shift C for coordinates?
+46:24 Let's see if that works.
+46:25 It's a sign.
+46:27 Can't do that one.
+46:29 >> And Renee's dying right now because
+46:31 you're making up a
+46:32 >> [laughter]
+46:33 >> I'm going to go shift these.
+46:34 >> You're making up a hot key and and Renee
+46:36 is dying.
+46:37 Slowly dying, right there.
+46:42 >> I'm going to torture torture
+46:44 Renee here.
+46:46 >> [laughter]
+46:47 >> I don't know. ABC, how about that?
+46:50 There we go. Found one. So, if I type
+46:52 ABC now,
+46:54 it'll turn that on and off, right?
+46:56 >> Yeah.
+46:57 >> Well, if you're going to do that,
+46:58 wouldn't you I got to do
+46:59 >> Wouldn't you be better set to use XYZ?
+47:02 >> Yeah, that'd be a good one.
+47:04 >> That's a really good idea. [laughter]
+47:05 I like that. Oh, that's the wrong I did
+47:07 the wrong one. I wanted to do the
+47:08 floating one. So, let's
+47:10 >> [laughter]
+47:10 >> So,
+47:12 let's go do floating coordinates. So,
+47:13 let's go up to custom
+47:15 >> Kevin, what's the problem with XYZ?
+47:18 >> XYZ, well, you're turning XYZ off.
+47:20 >> Yeah.
+47:21 >> It'll only work on one of those. What am
+47:23 I looking for? I'm looking for
+47:24 >> Well, you could have XYZ one, XYZ two,
+47:27 XYZ three.
+47:28 >> That's true.
+47:30 Great.
+47:30 >> Well, you'd have to put them on shift
+47:31 keys, control or shift or something cuz
+47:33 otherwise you're taking up X, which is
+47:35 floating.
+47:36 >> Oh, right. You can't use just X. You'd
+47:39 [snorts] have to use Okay, never mind.
+47:41 Making hot keys, Renee's world is a
+47:43 totally different world.
+47:45 >> Or I actually I actually meant
+47:47 XYZ.
+47:48 >> wrong one, you guys.
+47:50 Okay. Okay, got it.
+47:51 >> It's on the It's on the one that's in
+47:53 the middle of the ribbon that's showing
+47:54 00.
+47:55 >> XY1, look at that. XY1.
+47:57 >> Down, down, down, down.
+47:59 She's trying to There's another question
+48:00 here.
+48:01 >> Yeah.
+48:01 >> Hers Hers is huge and inside the room
+48:04 I'm not on the side. It's not on the
+48:06 side.
+48:07 >> Go to your preferences.
+48:09 >> Yeah, cuz yours is set for floating.
+48:12 >> No, you're talking about the origin
+48:13 indicator.
+48:15 >> Yeah.
+48:16 >> Down at the bottom.
+48:17 >> Up at the top.
+48:18 >> Well, here's the size Here's how you set
+48:20 the size and the color.
+48:21 Okay?
+48:23 Um floating, fixed, or
+48:25 >> Well, she did it. She said it worked.
+48:27 Thanks.
+48:28 >> Which one was it?
+48:30 >> We don't know.
+48:31 >> indicator one.
+48:31 >> say that.
+48:33 >> It's X Y and the 0 0. It comes together
+48:35 at 0 0.
+48:36 Cartesian coordinates.
+48:38 >> Oh, it's right in the middle of the
+48:39 space.
+48:40 >> Yeah.
+48:40 >> But she got it fixed.
+48:41 >> Dan. Okay.
+48:43 Huh?
+48:44 >> But she got it fixed, so we solved the
+48:46 problem.
+48:46 >> on. Or that one. That one?
+48:49 >> Yeah, it's that one. It's that one.
+48:51 >> Uh didn't do anything. How about Turn
+48:53 that off.
+48:54 >> That was it.
+48:55 >> There. Oh, now it's off. Well, there it
+48:57 is, big in the middle of the screen. Now
+48:59 it's That's your 0 0 right there. Yep.
+49:01 Very good.
+49:02 >> But you bring But you bring up another
+49:04 point. You can Those things are not
+49:06 radio buttons. Those are check boxes, so
+49:08 you can select any or all of those check
+49:11 boxes and you're going to get the
+49:14 the coordinate system repeated like that
+49:16 was in the middle of the screen, but you
+49:17 still had the one in the corner. Uh so
+49:20 you need to if you only want one
+49:23 someplace, then check the other ones
+49:25 off.
+49:26 >> Cool.
+49:26 >> So, you guys, I just want to point out
+49:28 something that I point to my students
+49:29 all the time. The program is set up for
+49:32 50 undos.
+49:34 Try something. You can You know, you
+49:36 have 50 undos. And that's one of the
+49:38 things that I have learned from Dan at
+49:41 from Dan is that he pushes every single
+49:44 button. He tries it. Like, what if I do
+49:46 it this way? What if I do it that way?
+49:48 Try things. You're You have 50 undos.
+49:51 You can't screw it up. I mean, if you
+49:52 save it from now
+49:54 >> I Yeah, you can definitely screw it up.
+49:56 >> You could definitely screw it up. But,
+49:57 if you started with a blank
+49:59 >> want to be You really want to be
+50:01 careful, save it, and then do whatever
+50:03 you want to do, and then if you 50 undo
+50:05 >> That's the way to do it. Or, start with
+50:06 a blank plan and just start trying
+50:09 different things, but
+50:10 >> But, let me tell you, if you really want
+50:12 to screw it up, just live inside my head
+50:13 for a little while.
+50:14 >> [laughter]
+50:18 [snorts]
+50:18 >> We love you, Kevin.
+50:19 >> Yeah, you're there.
+50:20 Um
+50:21 >> [laughter]
+50:21 >> We love you.
+50:24 >> All right, cool.
+50:25 What else do we got?
+50:27 >> There was a question. Somebody had a
+50:28 question about how I set up my 65-in
+50:32 monitor.
+50:34 >> Oh, yeah. [snorts]
+50:36 >> You have a 65-in monitor?
+50:39 >> Yeah.
+50:40 >> Oh my god. Can you I want a picture of
+50:42 it with you standing next to it.
+50:45 >> How do I share my screen? I don't
+50:46 remember.
+50:47 >> Um
+50:49 click the little screen-looking button
+50:50 with the plus sign.
+50:51 >> Yeah.
+50:53 >> And
+50:54 >> [clears throat]
+50:55 [snorts]
+50:57 >> There she is.
+50:57 >> We have a junk screen here.
+50:59 >> And
+51:01 There's There's you.
+51:04 >> Okay, you see me every
+51:06 input infinity, right? Is that what
+51:08 you're saying?
+51:08 >> Nope. No, we we see it fine. You Only
+51:11 you see that.
+51:12 >> Okay. So, that's how I set it up.
+51:15 >> Well, you're not showing your screen.
+51:16 I'll help you out this way.
+51:18 >> I'm not showing my screen.
+51:19 >> That's not
+51:19 >> Yeah, now you are. Oh, you were.
+51:21 >> was that was me.
+51:22 >> No, he doesn't have a screen up yet.
+51:24 >> All right, let me get back to where it
+51:26 So, what do I have to do here? I have to
+51:28 pick a screen.
+51:29 I want to pick the entire screen. There
+51:31 we go.
+51:33 Now, can you see it?
+51:34 >> Not yet.
+51:36 >> That one. Share. There we go. I got it.
+51:39 Now, you can see it.
+51:40 >> Okay.
+51:41 >> Okay. So, here's my Chief screen.
+51:44 My Chief right here
+51:47 down to here
+51:48 is 24 by 36 almost.
+51:50 >> Oh my god.
+51:52 >> And they're about 7 in wide.
+51:55 This is about eight, maybe nine, and
+51:57 this is about nine over here. I'm
+51:58 probably going to change the
+51:59 configuration around the border a little
+52:01 bit, but
+52:02 this seems to be working pretty good for
+52:03 me.
+52:04 >> I want to know if you're bragging or
+52:06 what.
+52:07 >> He is bragging.
+52:08 >> No, I'm not bragging. I got it because
+52:10 I'm having I was having trouble seeing
+52:12 stuff, so I needed something bigger,
+52:13 right?
+52:14 >> Oh my god.
+52:15 >> She's sitting about 4 ft from this
+52:16 thing.
+52:18 Um
+52:19 >> Well, we we start we brought some 75-in
+52:21 monitors
+52:22 >> That's got to be tough in your travel
+52:23 van.
+52:24 >> for our last training class. John really
+52:26 liked that.
+52:27 >> [laughter]
+52:27 >> I'm trying to figure out how to make
+52:28 that work.
+52:29 How do I stop sharing?
+52:31 >> Oh, we'll we'll do it for you.
+52:33 >> Yeah, so thank you very much. There you
+52:35 go.
+52:35 >> Just do it Just do an LED screen on the
+52:37 outside and sit in a lawn chair.
+52:40 >> Well, that's that I might do that. Yep.
+52:42 >> [laughter]
+52:43 >> I'm dreaming dreaming about the travel
+52:44 box for it. What they You just plug it
+52:46 in and it raises up and it
+52:48 it's all plugged in, ready to go.
+52:50 >> Keep in mind that when it goes down, it
+52:51 has to go somewhere.
+52:53 >> [laughter]
+52:53 >> So, it might drag on the road a little
+52:55 bit there.
+52:57 >> Yeah.
+52:59 >> Anyway, um
+53:00 >> Oh my gosh, this is great.
+53:01 >> time, you guys. Uh real quick, I want to
+53:04 uh
+53:05 just mention again, we have some Chief
+53:07 Architect classes, live in-person
+53:09 classes uh here in Minnesota
+53:12 on January 12th to the 15th.
+53:15 We have a First two days are kind of
+53:16 beginning intermediate. Last two days
+53:18 are more intermediate advanced. And then
+53:20 a lot of people like to take all four
+53:22 days, so we cover we cover a lot of
+53:24 territory.
+53:26 And um
+53:27 What do you mean, where'd everybody go?
+53:30 >> We're all here, Dan. Kevin, we haven't
+53:32 left you.
+53:33 We're still here with you.
+53:34 >> We're still here. And then uh Pro
+53:36 Academy is open and and going. We've
+53:38 been We've had a
+53:40 I think what did we have? Like live days
+53:42 so far? Um we won't we'll be back again
+53:45 on January 7th, but those live days are
+53:47 a lot of fun. They're like this, but
+53:49 we're get we're diving a lot deeper and
+53:50 we're getting where everybody gets to
+53:52 see each other and
+53:54 we've been having some great discussions
+53:56 in about Chief Architect. Mike, I want
+53:58 to thank you, too, for for all of your
+54:00 input. You've been doing some great
+54:02 things. Especially that last class that
+54:04 we had that last session that we had.
+54:05 It's pretty cool. But check it out and
+54:08 love to have you guys involved in that.
+54:10 So it it is a lot of fun. It's fun to be
+54:12 back live. We haven't I haven't done
+54:13 that for a long time. Other than these
+54:15 designer shows, but we can't see you
+54:17 guys, so we don't really know what you
+54:19 look like.
+54:20 >> Well, here's the question. How many of
+54:21 us How many people are going to I call
+54:24 it KBIS, you guys call it IBS, but how
+54:27 many are going down to Florida in
+54:28 February?
+54:30 >> Planning on it.
+54:32 >> I am.
+54:32 >> I'm not.
+54:33 >> Renee, you're going, right?
+54:34 >> I think so.
+54:36 >> Hang on Hang on line when we log off for
+54:39 a second.
+54:39 >> Sure.
+54:40 >> Dan, you're going?
+54:41 >> I'm not going.
+54:43 >> You're not?
+54:44 >> No.
+54:44 >> Kevin, are you going?
+54:47 Kevin?
+54:47 >> Kevin?
+54:48 >> Kevin's in space.
+54:50 >> Yes.
+54:50 >> Hello, Kevin.
+54:51 >> He's in He's in his own mind, so just
+54:53 leave him alone.
+54:55 >> He's doing his thing there. I just
+54:56 wanted to mention if you if somebody
+54:58 does want to get a bigger screen like
+55:00 the 65-in,
+55:02 make sure you do your research on the
+55:03 quality of the the screen you're
+55:05 getting.
+55:06 >> Yes.
+55:07 >> Um just the $350 ones aren't going to
+55:09 cut it.
+55:10 >> Yeah, you want a higher refresh rate,
+55:12 for sure.
+55:13 >> Yeah, what's the
+55:15 Uh
+55:15 120
+55:17 uh MHz the smallest lowest refresh rate?
+55:20 >> No, 60 is, and I would not get a 60.
+55:23 That would be
+55:23 >> No, we're talking 140.
+55:24 >> That you would recommend.
+55:26 >> Oh, 120. Yeah.
+55:27 >> Yeah, minimum 120 refresh rate.
+55:30 >> The one I got
+55:32 >> Can you explain what the refresh rate
+55:33 is, why you need a higher number?
+55:36 >> Um accurately, maybe not, but uh just
+55:38 think about it the this way. It's It's
+55:41 like a
+55:42 um how often the the screen pulls what's
+55:46 coming from your graphics card, right?
+55:48 So,
+55:49 um and the greatest way to the the best
+55:52 way to explain this is watching sports.
+55:55 You're watching football and it looks
+55:56 like people are kind of jumping across
+55:58 the screen, that's a lower refresh rate.
+56:00 So, the higher the refresh rate, the
+56:02 buttery smooth any kind of motion
+56:05 graphics are going to be included.
+56:06 >> you
+56:07 do you have your screen set to Is it a
+56:09 4K monitor? 4K 4K screen?
+56:11 >> Yeah.
+56:12 >> You have it set You have it set to that?
+56:15 >> Yes.
+56:16 I'm having the weirdest audio problems.
+56:19 >> We can hear you now, though.
+56:20 >> I can only hear John. And then I can
+56:23 only hear Renee.
+56:24 >> That's weird.
+56:24 >> And I can't hear Dan at all.
+56:27 And I don't know if you guys can hear
+56:28 me.
+56:29 >> We can hear you.
+56:30 >> We're talking to
+56:30 >> We got you.
+56:32 >> [laughter]
+56:35 >> Anyway, anytime you
+56:36 >> only I'm getting only responses to
+56:38 things from random people, so I have no
+56:40 idea what you're talking about.
+56:41 >> Uh weird.
+56:42 >> You got to switch your filter.
+56:44 >> [laughter]
+56:45 >> The one in my head?
+56:46 >> Yeah.
+56:47 >> That's a harder filter.
+56:48 >> Yeah.
+56:49 >> Let's go back to the discussion about
+56:50 monitors.
+56:51 >> Um, the 4K
+56:53 >> got an OLED, the true OLED, not the
+56:57 the lower versions.
+56:59 >> Yeah. Yeah.
+57:00 >> Um
+57:00 And I made sure I got the one where
+57:03 each pixel is con- is individually
+57:05 controlled.
+57:07 >> Oh.
+57:08 >> Um, mine cost The one I got was I think
+57:10 it's a class C or something like that.
+57:13 Um, [clears throat]
+57:14 the OLED, [snorts]
+57:15 and it uh
+57:17 it was about 13 or 1400 dollars from
+57:20 Best Buy.
+57:21 >> Yeah, that's about what that would be.
+57:23 So, you know, so you want that higher
+57:25 refresh rate, you want the 4K. Um,
+57:28 your lines are going to be crisp and
+57:30 clean on your screen when you're drawing
+57:32 in Chief Architect.
+57:33 >> That's That's the key to the That's the
+57:35 key to the better high quality monitor.
+57:38 If you've got the lower ones,
+57:39 it's not going to be so crisp.
+57:41 >> Yeah. I mean, it'll still work. It's
+57:43 just
+57:44 >> Right.
+57:44 >> a little harder on the eyes, I think. Um
+57:46 >> Right.
+57:47 >> So
+57:49 Cool.
+57:50 >> do your research if you're going to
+57:52 get a big monitor.
+57:53 Big TV for a monitor.
+57:56 >> Good idea.
+57:57 >> So if you if you bring up a big sun on
+58:00 your screen, can you get a suntan from
+58:01 that?
+58:03 >> No, in fact
+58:04 >> Probably.
+58:04 >> if I put a fireplace on you on it, I
+58:07 don't really get a flicker of the light
+58:08 in the room at night, either. It's just
+58:10 >> And it feel And it feels warmer, doesn't
+58:12 it? Just because
+58:13 >> kind of, yeah, but [laughter]
+58:16 >> Well, you guys happy happy holidays. I
+58:18 hope you guys have a lovely time.
+58:22 >> Uh yeah, I hope everybody's uh
+58:23 >> Who's coming on? Who is this?
+58:25 >> [laughter]
+58:25 >> Oh
+58:26 I love your thing, how it says Jack
+58:28 asked.
+58:31 >> Who's Jack asked?
+58:32 >> Who is that?
+58:33 >> I don't know, but that's somebody's
+58:36 >> This is Renee's. Look at him. He's got
+58:37 his camera going.
+58:38 >> Oh, yeah. That's Renee's.
+58:42 >> So what do you got going? Oh, that's
+58:43 your big
+58:44 >> That's my drawing tablet right there.
+58:46 Oh, let me mute myself.
+58:48 >> Whoop. Getting feedback.
+58:51 >> Can you still hear me?
+58:53 Yeah.
+58:53 >> I'm going to mute your other one.
+58:55 >> Okay.
+58:56 >> There.
+58:57 We'll let Jack asked talk.
+58:59 >> Um
+58:59 >> [laughter]
+59:01 >> Kind of appropriate.
+59:05 >> Oh, yeah, this is my drawing tablet. Oh,
+59:08 boy.
+59:08 >> Yeah, let's go let's go switch to the
+59:10 other one.
+59:10 >> Renee, do you use the drawing tablet to
+59:12 work with Chief at all?
+59:15 To drop to when you're drawing with
+59:16 Chief? If you if you just want a
+59:17 different
+59:18 >> Every once in a while.
+59:20 >> Yeah.
+59:22 >> That's really weird. You're getting
+59:24 feedback somehow.
+59:25 >> Uh it was from my phone, but it should
+59:26 be good now. Um yeah, I use the drawing
+59:29 tablet a lot for Photoshop work and
+59:31 stuff. I mean, you can just pick it up
+59:32 and hold it in your hand. I used to have
+59:34 it on an articulating arm, but I stopped
+59:36 doing that. And then
+59:38 this one's on an articulating arm, so I
+59:40 kind of move it around as I
+59:41 as I want.
+59:43 >> Yeah.
+59:43 >> Yeah.
+59:44 >> That's pretty nice.
+59:45 >> Yeah. And then I like the wide screen.
+59:46 The thing I love about this is when you
+59:49 drag this around, I've got all these
+59:51 docking zones, so you can quickly resize
+59:54 something
+59:55 to just a portion of a screen, which is
+59:57 helpful when you got setups like John.
+1:00:00 >> Yeah.
+1:00:03 Yeah, that's the other thing. I locked
+1:00:05 all my my side windows and stuff, so
+1:00:07 that when I start up Chief, they come
+1:00:09 back to the same spot I want them.
+1:00:13 >> Cool.
+1:00:14 >> That's pretty cool.
+1:00:14 >> Awesome, you guys. All right, we're
+1:00:16 about done here. So, everybody, thanks
+1:00:17 for logging on. I hope we hope you got a
+1:00:20 smile out of you at some point here.
+1:00:23 Our goofiness.
+1:00:25 Get check out our
+1:00:27 classes coming up, and we'll be
+1:00:29 announcing some other things coming up
+1:00:30 here, too. And if you have any
+1:00:32 questions, reach out to any one of us.
+1:00:33 We're always here to help. We're
+1:00:35 We love to do coaching. Check out
+1:00:37 Renee's website. He's got lots of
+1:00:38 products. John's Well, John can do your
+1:00:41 uh
+1:00:42 uh
+1:00:43 your
+1:00:44 scans.
+1:00:45 Um
+1:00:47 Matterport scans, excuse me. And uh
+1:00:51 So, if you guys are nearby, he'd be He'd
+1:00:53 love to come and help you. And any of us
+1:00:55 will help you with your plans.
+1:00:57 >> Let me give an update, too.
+1:00:58 >> Yeah.
+1:00:59 >> Uh last show, I mentioned that my
+1:01:01 sister's dog was going through a major
+1:01:03 surgery.
+1:01:04 >> Oh, that's right.
+1:01:05 >> Uh
+1:01:06 she survived. So, they ended up removing
+1:01:09 the 3-cm tumor. They ended up removing
+1:01:11 her kidney cuz of complications in the
+1:01:13 surgery and her gallbladder.
+1:01:16 And then they did a biopsy the next
+1:01:18 week, and there's no
+1:01:20 cancer, nothing. And she's been running
+1:01:21 around like no big deal. So, thank you,
+1:01:23 Athena.
+1:01:24 >> Oh, that's awesome.
+1:01:25 >> Yeah. That's cool.
+1:01:27 >> That's awesome. That's really awesome.
+1:01:29 >> Um oh, and not only that, but the tumor
+1:01:31 was um
+1:01:33 giving like
+1:01:35 was a disease, basically. So, not only
+1:01:38 you know, you get that out of the body,
+1:01:40 all of a sudden that disease is gone,
+1:01:41 too. So, it was causing a bunch of
+1:01:43 symptoms that that this dog no longer
+1:01:45 has, as well, which is really cool.
+1:01:47 >> That's wild.
+1:01:48 >> Yeah.
+1:01:49 >> [clears throat]
+1:01:49 >> Modern medicine, got to love it.
+1:01:51 >> Yep.
+1:01:51 >> Those of us who are doing this
+1:01:53 That's great.
+1:01:54 >> Thanks, everyone. We'll see you um
+1:01:57 next time, in January.
+1:01:59 >> Happy holidays, everybody.
+1:02:00 >> We see you all next year.
+1:02:02 >> Uh happy holidays. Be safe.
+1:02:05 Take care.

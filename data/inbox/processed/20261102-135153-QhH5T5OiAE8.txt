@@ -1,0 +1,2884 @@
+Title: What's New In Chief Architect X17 Episode 1
+URL: https://www.youtube.com/watch?v=QhH5T5OiAE8
+Visibility: public
+
+1:20 How about now?
+1:21 How about now? Can you hear me now?
+1:25 Dang it. I've had nothing but technical
+1:28 difficulties.
+1:32 Still no sound. Okay.
+1:40 How about now? Testing, testing.
+1:45 Jingle that handle.
+1:48 Thank you.
+1:49 I've had such a morning of technical
+1:52 difficulties. It's crazy. It's just been
+1:55 crazy.
+1:57 Um
+1:58 and it starts with Chief, but that's not
+2:00 all entirely their fault. I've been
+2:02 trying to do a bunch of different
+2:03 things. Um
+2:04 and I'll show you why. And we'll just
+2:06 show you what's going on on the screen.
+2:09 And I got to hide that current hunt
+2:11 comment.
+2:12 So, um with X17, we have two different
+2:16 modes. And And what does that mean?
+2:20 One, it's challenging for someone like
+2:22 me that wants to stream for you guys and
+2:25 explain how to use things in Chief
+2:27 Architect when I have to have two
+2:29 different machines set up entirely
+2:31 differently for X17. So, that's
+2:34 happening now. We've got something
+2:36 called managed mode, and that's a
+2:38 lead-in to introducing, maybe
+2:41 introducing Chief Architect Cloud in the
+2:43 future.
+2:44 And then we have an unmanaged mode. So,
+2:47 it's really challenging to show you guys
+2:50 both of those modes, and I was trying to
+2:52 flip-flop back and forth between the
+2:54 two. It caused me some problems. I had
+2:56 to uninstall Chief.
+2:58 And then I got stuck into a loop of
+3:00 trying to install it, and it's been
+3:01 difficult. But, I've finally got it up.
+3:04 And I figured I might as well show you
+3:06 the install process as well, as as well
+3:10 as the new features, cuz that's going to
+3:11 be important to some people. So,
+3:14 um I'll try to keep up with the um the
+3:16 comments. Um I'll be kind of pausing and
+3:20 taking a look at the comments. I'm on
+3:21 the stream by myself, so no one's
+3:23 helping me out.
+3:24 Anyways, what we have here is just what
+3:27 we get when we're first installing this.
+3:29 And
+3:30 right off the bat, we're got we're
+3:32 getting some dialogue boxes that you've
+3:34 probably never seen before. And that's
+3:36 because it's it's introducing resource
+3:39 management, which is part of project
+3:41 management. And so,
+3:42 instead of going into preferences in
+3:45 Chief Architect X16 and previously to
+3:47 set up what our new plan is, it's going
+3:50 to ask us right off ask us right off the
+3:52 bat what do we want in terms of
+3:56 for using templates. So our template
+3:58 plan, our template layout plan. And so
+4:01 this is what's called manage mode. And
+4:03 so I had to come in here and
+4:06 import new and I needed to go target my
+4:09 template plan file for it to load in.
+4:12 Now I did that. That part's done. So
+4:14 load custom template, you can see here
+4:16 it's loading my own custom template or
+4:18 you can load that default installed
+4:21 residential template. And I get to press
+4:23 okay. Now it's going to ask me loading
+4:26 custom template for
+4:28 the layout file. So I get to select and
+4:30 then it's got a listing of
+4:32 template files here and then instead I'm
+4:34 going to click on import new and I'm
+4:36 going to import my own template from
+4:38 X16.
+4:40 So it's essentially going to migrate
+4:41 that.
+4:44 And then I get to choose that as my
+4:46 default template.
+4:48 And let me press okay.
+4:50 Now in my case, I might not want a bunch
+4:53 of these other templates in there as
+4:56 options.
+4:57 And I'll show you what we can do in
+4:58 manage mode to kind of manage that,
+5:01 right?
+5:02 And so here we go and I'm going to have
+5:04 to keep zooming I know.
+5:06 Let me know if you guys want me to come
+5:08 back track and pause and go zoom in on
+5:10 something so you can see but it starts
+5:12 right off the bat it says we want to
+5:14 make a new project from your template
+5:16 because we're opening up the software
+5:17 and we're assuming you're going to start
+5:18 working on something. Now if you're
+5:21 someone like me where you like to test
+5:22 some things and you're going to work
+5:24 through some template changes and you
+5:26 want to kind of mess around or you want
+5:28 to just have a project where you can
+5:30 you know kind of play, you can set up a
+5:33 test project. And so what is a project?
+5:36 A project is going to be a heading that
+5:39 then has resources and those resources
+5:42 are going to be your plan and layout
+5:43 file. And you'll just see what this
+5:44 looks like in a second. But you see here
+5:47 it says project name, you get to name
+5:49 that whatever you like. And then you can
+5:51 name your plan and layout separately
+5:54 from that project name. So in in my
+5:56 case, I have something that looks for
+5:59 this dash n in my template. So I'm going
+6:01 to put that dash n in there. And then
+6:03 this
+6:04 I actually don't need this to be test
+6:06 and and you know, this could be fool
+6:08 around or whatever, but let me just
+6:10 press okay. So it's going to use that
+6:11 template. This is your opportunity to
+6:13 choose any templates that you want on
+6:16 the fly, which is very cool.
+6:18 And let me press okay.
+6:23 So once I press okay, it'll open up my
+6:26 template file. Um
+6:30 For some reason it thinks that my layout
+6:32 is locked. I think this maybe has
+6:34 something to do with cloud. I'm not
+6:36 sure. I've had this come up a few times.
+6:38 Keep in mind, we're in public beta, so
+6:41 you might run into a couple little
+6:42 problems as you go. And then I'm just
+6:45 going to say cancel. And it does in fact
+6:47 show that I have this test project over
+6:50 here in the new project browser.
+6:53 And
+6:54 just to make this really clear,
+6:57 managed mode
+6:59 is very different from unmanaged mode.
+7:02 And what we're looking at is managed
+7:04 mode. So you're going to see here on the
+7:06 sidebar here, we've got a folders panel.
+7:09 In fact, we've got a bunch of new things
+7:10 here that don't look all that familiar.
+7:12 We've got a preview folder. We've got a
+7:14 bunch of icons down here that probably
+7:16 don't look familiar. And so I just want
+7:18 to show you in preferences,
+7:21 under preferences, we're going to see
+7:23 here that
+7:24 under
+7:25 um
+7:26 project, we've got a project management
+7:28 section in preferences. And it says
+7:31 check uncheck use Chief Architect
+7:33 project management, and it includes some
+7:36 kind of automatic backup of these
+7:38 resources, okay? We're not going to get
+7:40 into that just yet. I'm just noting that
+7:43 this is indicating that we're in a
+7:45 project managed mode.
+7:49 So, and let me just take a look at one
+7:51 of these. Let's see.
+7:53 Does the project create a folder on your
+7:55 hard drive? It does, but it's not any
+7:58 folder that you can do anything with.
+8:01 Not in the sense that we can go locate
+8:04 this on our hard drive and do something
+8:05 significant with it. We have to do
+8:07 everything within Chief Architect in
+8:09 managed mode.
+8:10 Now, I know for some of us that really
+8:13 like control of our source files and
+8:15 like to manipulate source files, that's
+8:17 an immediate no-no, and you're not going
+8:19 to work in managed mode. But, stick
+8:21 around cuz there's some things that
+8:24 maybe the goods outweigh the bads for
+8:27 you. Who knows? You're going to have to
+8:28 make that decision yourself.
+8:30 So, in managed mode, there's some
+8:32 really, really cool things about this.
+8:34 The main reason I think Chief Ar- and
+8:37 from conversations I've had, the Chief
+8:39 Architect has brought in managed mode is
+8:42 that we've got a lot of multi-seat users
+8:46 or multi-machine users that when they
+8:49 were sharing files across another user
+8:51 or to another machine, um that they were
+8:54 missing things, right? They're missing
+8:56 links to PDFs, they're missing links to
+8:58 material files, they're renaming their
+9:00 plan file or their layout file and it's
+9:02 breaking links to those. And so, in
+9:04 managed mode, when we go to export a
+9:07 project,
+9:08 okay, when we export a project, it
+9:11 exports all those resources with it so
+9:14 that the end user on the other end then
+9:16 gets those resources and they're no
+9:18 longer going to have missing files. It
+9:21 does end up, I believe, importing the
+9:23 data, those resources, into their own
+9:26 Chief data on their side as well.
+9:29 Um
+9:30 I have not done enough testing in this
+9:32 to tell you exactly how it works like I
+9:35 I
+9:35 would have a good bearing on exactly how
+9:38 it works, but that's how I think that it
+9:40 works is that when we export a project,
+9:42 it brings resources with it and then it
+9:44 imports it onto the other side of things
+9:47 where it's, you know, another machine or
+9:49 um uh well, another user's machine,
+9:52 right?
+9:53 So, something that's really fantastic
+9:55 and then just is going to blow your mind
+9:58 right out of this world right away is
+10:01 something I've been requesting for a
+10:02 very long time, which is if you're using
+10:04 my pro plan templates, you know that I
+10:06 have 5 billion CAD details. And what's
+10:10 fantastic about this new X17 is I get to
+10:13 just right click here and
+10:16 new folder. That's right. We get
+10:18 subfolders. This is awesome.
+10:21 I just get to say, "Hey, I want to put
+10:23 details." And then I'm going to locate
+10:25 all the details I include here and just
+10:28 We get a lot of drag and drop options
+10:30 that work similar to the library. We can
+10:32 just drag and drop. And in fact, you
+10:35 even get subfolders within subfolders.
+10:38 Yes, we get a top-level folder and then
+10:41 subfolders. And that's a really cool way
+10:44 to organize your project. So, if you're
+10:47 someone that has a lot of details like I
+10:49 do, you no longer have to add these
+10:52 prefixes in here to kind of organize
+10:54 things because we get these subfolders,
+10:56 right? So, that's just great. And I do
+10:59 believe that we might get um a cut paste
+11:01 action as well. I haven't tried that
+11:03 out. Yes, we do. So, we can cut paste as
+11:05 well. So, that might be easy. So, I can
+11:07 just do a new folder, say this is
+11:09 keynotes where all my keynote schedules
+11:11 are. I can find my keynotes, cut,
+11:15 and then
+11:18 go ahead and paste CAD details. There we
+11:21 go. Very cool. Not only that, but you
+11:23 can paste it across projects, right? So,
+11:26 I can paste this into, you know, a
+11:28 template plan if I open these template
+11:30 plans.
+11:31 Now, something that's kind of
+11:33 interesting about this is that notice
+11:35 that we have plan and layout templates
+11:36 in common documents.
+11:38 And
+11:40 something that's really clever about
+11:41 this is notice I've got this California
+11:44 spec document here. I'm actually going
+11:47 to right click in common documents and
+11:49 I'm going to import some files. And the
+11:52 files I'm going to import are some other
+11:53 spec files that I have.
+11:56 And so I'm going to get into templates
+11:57 and I've got some
+12:00 Uh let's see
+12:02 if I can remember where I keep this.
+12:03 Yes, I can.
+12:05 National Canada National US spec. Let me
+12:08 open these up.
+12:11 So, what does this mean? Well, here's
+12:13 that California spec national spec
+12:15 national Canada spec. These are now in
+12:17 common documents. And so what that means
+12:20 is if I go to open up my test layout
+12:23 project file, which did not open the
+12:26 correct layout at all. I think that was
+12:29 that missing file problem.
+12:31 Let's just go ahead and
+12:34 Let's see if I can add a new layout.
+12:36 There we go. Look at this. We can right
+12:37 click add a new layout.
+12:40 I'm looking for my default.
+12:43 For some reason it's saying that it's
+12:45 locked, so I can't seem to use that
+12:47 particular
+12:48 template file. And we'll just work
+12:51 through some problem-solving here real
+12:52 quick.
+12:54 I'm just going to make a copy of my
+12:55 template file.
+12:59 So, let's see if we can't do it that
+13:01 way.
+13:04 So, import file and we got a copy.
+13:11 And look at this. It pops up and says
+13:12 these additional files were found in the
+13:14 same folder. Do you want to include them
+13:16 as part of the import? In this case, I
+13:18 don't. So, I'm just going to say
+13:20 continue. So, clear all. Actually,
+13:22 they're not selected and we'll just hit
+13:24 continue.
+13:28 And there we I should be able to open
+13:30 this up now.
+13:32 So, what's very cool about this is I
+13:36 think I just get to change my resources
+13:39 for this. So, um
+13:42 same way we typically would, which is
+13:43 tools, layout,
+13:45 reference plan layouts.
+13:48 And so, California spec is listed here,
+13:50 and this is driving all the spec
+13:52 standards on my main sheet of my uh
+13:55 template here. So, I get to replace this
+13:57 reference, and I can just easily go and
+14:00 find in common documents that I have
+14:02 Canada spec or the IRC spec. So, I
+14:05 change it to Canada spec, press okay,
+14:08 and it just changed all my spec very
+14:10 easily, and my design loads to uh
+14:13 something that's referencing, you know,
+14:15 Canada spec. So, very cool to just have
+14:18 this in common documents. So, now these
+14:20 are really easily accessible. Not only
+14:22 that, but you can just open these up in
+14:25 CAD details, etc., and you can just
+14:27 click and drag, and this will drop that
+14:30 CAD detail right into this view, just
+14:33 like that. So, it's just a drag and drop
+14:35 feature that we've got now, which is
+14:37 very, very cool.
+14:39 Let's see what comments we have now.
+14:44 How is that different than backing up
+14:46 everything to a zip archive like we can
+14:48 do now? Um you can back it up to a zip
+14:51 zip archive like you do now. It's just
+14:53 that it's managing it on their end, and
+14:56 it's taking away
+14:57 um some some
+14:59 you know, need for some knowledge that
+15:01 you might already have, Cody.
+15:03 Um you know, the Cody's uh comments
+15:05 pinned up on the screen. You might have
+15:07 experience
+15:18 We're going to have mic issues. Can you
+15:19 guys still hear me?
+15:22 I'm running into all kinds of mic
+15:24 issues. I got a touchy little uh
+15:27 cable right now.
+15:30 Test test test test test. Seems like
+15:31 it's working. Okay. Cool.
+15:35 Uh yeah, so um in terms of what Cody was
+15:37 asking about, you know, how's this
+15:38 different from our current workflow?
+15:41 It's not entirely different in in its,
+15:43 you know, in what it's solving for. This
+15:46 is kind of a gateway process to
+15:48 introducing Chief's
+15:51 integrated cloud. And so that's why this
+15:53 system is being developed.
+15:54 The other really nice thing about this
+15:56 is
+15:57 it makes it easy to manage your
+15:59 projects, and I'll show you why.
+16:02 For one, I can do a new folder and I can
+16:04 say, "Hey, this is my client, Rabbit
+16:06 Design." And then I can also say, "Hey,
+16:08 let's do a new folder where we've got
+16:11 Cody Star."
+16:12 And so then from there, I can come in,
+16:16 kind of reduce my layout templates, etc.
+16:19 And I can take that test project and I
+16:20 can Well, one, I can make a copy of it.
+16:24 Okay?
+16:25 And then two,
+16:28 I can bring one of these into Rabbit
+16:30 Design, I can bring one of these into
+16:31 Cody Star, and then if I wanted to, I
+16:34 could change the color of this to
+16:36 whatever I wanted,
+16:37 and know that when I'm coming into my
+16:39 project management, that I get to just
+16:41 click on Cody Star and it's only going
+16:43 to have the projects that are for Cody
+16:44 Star, click on Rabbit Design, it's only
+16:46 going to have the projects for that.
+16:48 On top of that, I think we even get to
+16:53 pin a particular project to the top. So
+16:55 if you're someone that has a client that
+16:58 has 40 active projects for that client,
+17:00 and you've got one that you're working
+17:02 on consistently, you can pin that to the
+17:04 top of project management. And the other
+17:08 things that we can do here is we can
+17:10 only show the open projects, which is
+17:12 just stuff that's open on your screen.
+17:15 Um we can hide the display of our
+17:18 default documents if we're not someone
+17:20 that needs to access that very often,
+17:22 right? Um, this would be a new project
+17:25 right from here.
+17:26 And then on top of that, I believe we
+17:29 have Well, I guess they're calling
+17:30 folders tags. I know that we had the
+17:32 ability to make filters and stuff for
+17:35 tags. So, this search ends up working a
+17:37 lot like the library search.
+17:40 And
+17:41 not only that, but we have a couple of
+17:43 new windows and one of those is the
+17:45 details window. So, if I open up the
+17:47 details window and click on a project
+17:49 test, it's even going to tell me, you
+17:51 know, when was this modified, when was
+17:53 it created, the size of it, etc., what
+17:56 folder it's in. And so, we can sort by
+17:59 things such as date created, size,
+18:01 ascending, descending as well. So,
+18:03 that's all pretty cool.
+18:08 Uh, Anthony Reed says, "I cannot get
+18:09 your tools to load using manage mode."
+18:12 Um, yeah, uh, same kind of problems
+18:14 running into um, going from an unmanaged
+18:17 mode to a managed mode and getting
+18:18 things to load properly um, is
+18:21 challenging that and and I know that
+18:23 there's I've gotten it to work before. I
+18:25 just did a fresh install this, so um,
+18:30 I need to do a reset migration to see if
+18:33 it will migrate from X16 to see if I can
+18:36 get my toolbars loaded on here because
+18:38 that's that would be something that I'm
+18:39 interested in.
+18:40 I want to show features before I get too
+18:42 far into that um, because I think at
+18:45 some point uh, I will show, you know,
+18:48 migration and just to show, you know, an
+18:50 end user what they can do if they're
+18:51 running into that same scenario,
+18:53 Anthony.
+18:57 Sort of a simplified product data
+18:58 management system, does it provide for
+19:00 file locking between users and sure all
+19:02 changes get incorporated? No, so
+19:04 currently there is no cloud integration
+19:07 on this system side. So, what you would
+19:09 do is if you've got a project you want
+19:10 to share with someone,
+19:12 you could um you're not going to be able
+19:14 to export from the from the top folder
+19:16 level, but you can export from the
+19:18 project level. And so, when we export,
+19:21 this gives us the option to include any
+19:23 resources that might be in this file,
+19:25 including any kind of PDFs or something
+19:27 like that.
+19:29 And another aspect of this that I
+19:30 haven't touched yet, and I'm not sure
+19:32 that I know right off the bat where it
+19:34 is, I do,
+19:35 is tools asset management. And so, asset
+19:38 management only exist in a managed mode,
+19:42 which might be another reason you want
+19:44 to use this.
+19:45 I'll give you a use case where you don't
+19:48 want to use this.
+19:49 And but first, let me explain what this
+19:51 is. What this is doing is it's showing
+19:53 us all of our assets across all plans
+19:57 that are open in X not only open, but
+20:00 exist in X17.
+20:02 And what it's going to do is it's going
+20:03 to to try to um attempt to merge all
+20:06 identical, okay? And you can see here,
+20:09 we've got some identical textures here.
+20:11 And they don't even need to be
+20:13 necessarily named the same. Chief
+20:15 Architect is actually looking at the
+20:17 pixels of your um individual image
+20:20 files, and then potentially merging all
+20:23 identical. So, this is a way to do asset
+20:25 management in a way where
+20:27 if we're creating a lot of duplicate
+20:28 textures by accident, this is leading to
+20:31 file bloat and other things, this is a
+20:33 new way of managing those assets and
+20:36 also sharing those assets. So, that when
+20:39 we export project, it's going to pull
+20:41 these assets with it, okay?
+20:43 And so, if I just go to merge all
+20:45 identical,
+20:47 well, it's going to say says it's going
+20:48 to take some time. Let's just let it
+20:50 roll, see what happens. Maybe we freeze
+20:52 the system.
+20:53 That actually seemed like it went
+20:54 really, really quickly.
+20:56 So, yeah, there's some things that are
+20:57 even named the same, but because Chief
+20:59 Architect recognizes that there's a
+21:01 difference in the pixel of pixels,
+21:04 right, that it didn't merge some of
+21:05 these items. So, but it did merge a lot
+21:08 of these items. And so, this is a way
+21:10 with that we can
+21:11 import new assets and kind of replace
+21:13 assets as we need to.
+21:15 What does that even mean? Well, let's
+21:16 get into that working plan and let's
+21:18 pull a little 3D view after we draw some
+21:20 walls.
+21:30 And so, let's say I wanted to change
+21:32 something about this material and I
+21:34 wanted to load that in. Well, now the
+21:35 texture panel looks very different than
+21:37 it used to be. This used to have just an
+21:39 input here. Instead, it's got a select
+21:42 button.
+21:43 Now, when I hit select, this immediately
+21:45 brings me to asset management where we
+21:47 want to import new.
+21:49 If if if
+21:52 that asset is in asset management
+21:55 already. If it's not, you could just
+21:57 click on import new and bring in a new
+21:59 asset. Now, another aspect of this is if
+22:01 you kind of target, there is a down
+22:03 arrow where you can go to select instead
+22:06 of import. All right? The other option
+22:09 here is holding shift and notice what
+22:11 shift does
+22:13 on the screen. When I hold shift, it's
+22:15 going to change to import. Okay? So, if
+22:18 I click on that, now it's bringing me
+22:20 to, you know,
+22:22 you guessed it. I can search and find
+22:24 something
+22:25 on on my own file folder structure.
+22:28 Give you an example of how cool this is
+22:30 and this is going to tie into some new
+22:32 feature that we have, which is Let me
+22:34 just change this material at the top of
+22:36 the screen here and I'm going to just
+22:39 shift import and we'll import, you know,
+22:42 base diffuse texture. Shift import and
+22:45 I'm going to import this normal map.
+22:47 Now, what's happening here is this is
+22:49 automatically importing this into asset
+22:52 management because if I go and hit
+22:54 select,
+22:55 we should notice that somewhere in here,
+22:57 if I search for grid, look at that. It's
+23:00 actually automatically bringing this
+23:01 into asset management, which is
+23:03 automatically bringing this into our
+23:05 Chief Architect and this is how it's
+23:07 working to be able to share these
+23:08 projects with other people and still
+23:10 have that compressed and and being added
+23:13 in.
+23:17 So,
+23:18 kind of a new feature, pretty cool one I
+23:20 thought, is that we now have an emissive
+23:24 map. And so I'm just going to show this
+23:25 real quick because I'm making this
+23:27 texture on the fly is that let me just
+23:30 in this case not select, I want to
+23:33 import. So I want to import a new
+23:34 emissive map. That's going to be this
+23:36 guy right here.
+23:39 And I'm going to turn that emissivity up
+23:41 to let's just say a fluorescent lamp and
+23:44 look at our preview. Isn't that wild?
+23:46 We're just choosing a part of the
+23:48 texture that's creating light. And so
+23:51 press okay and I bet you guessed it, I'm
+23:53 creating a big
+23:55 T-bar grid. Now of course I need to
+23:57 change the formatting for you know the
+23:58 size of this. These are 24 inches so
+24:01 we've got 5 * 24 on the X scale.
+24:06 And we could still, you know, do our
+24:07 math right inside of the window here.
+24:10 And I've got what? 2 and we've got 5 *
+24:14 48 on the other scale. Thanks.
+24:18 And let's check that out. Look at this.
+24:20 And so if we switch to some kind of ray
+24:23 trace view,
+24:25 this should look like that's just a
+24:26 texture. Isn't that wild?
+24:30 Looks like a T-bar ceiling grid with
+24:32 light in it.
+24:36 Pretty dang cool Chief Architect. That
+24:39 one's pretty fascinating.
+24:42 Let's see.
+24:44 Is my mic audio still patchy? Someone's
+24:47 saying.
+24:48 It might be that it's cutting off cuz I
+24:50 got it too loud so I can back it off for
+24:51 myself.
+24:55 Um so asset management is only available
+24:58 in managed mode only. So, um
+25:02 if you're like me, I manage all my
+25:05 assets outside of Chief Architect.
+25:07 There's a setting in Chief Architect
+25:08 right now, even in X16, in case you
+25:11 didn't know it, in preferences,
+25:13 um underneath file management under auto
+25:15 copy files. This is in previous versions
+25:17 as well, down to like X14, which is copy
+25:21 externally reference material files to
+25:22 my data folder.
+25:24 Now, this was introduced, yeah, I think
+25:27 in X14 or so, and by default, this is
+25:30 checked, which means that when you
+25:32 import something like an object that has
+25:34 materials or you're creating materials,
+25:37 what Chief is doing is it's copying all
+25:38 those externally referenced files that
+25:41 make up that material, like those T-bar
+25:43 grid files, and it's bringing that into
+25:45 the Chief data folder under the textures
+25:47 folder directory.
+25:49 So, I have mine unchecked because I have
+25:53 all my files really well organized
+25:55 outside of Chief. I am a very individual
+25:58 use case, and most people do not need to
+26:00 do that. The nice part about this is if
+26:02 I in Chief Architect X16 go and update
+26:07 this
+26:08 um source diffuse map, this base color
+26:10 map, what looks like a T-bar grid, if I
+26:12 update that in my source files, it
+26:15 automatically updates the material in
+26:17 Chief Architect X16 for me.
+26:20 In managed mode,
+26:22 that's not the same. If I update the
+26:24 source file, then I need to get into
+26:27 tools asset management and import a new
+26:30 source file and replace that old source
+26:33 file. Now, can we do anything with these
+26:35 source files? Yes, we can. So, I can, if
+26:38 I wanted to, I could go search for that
+26:40 grid source file,
+26:42 find it, and then in our menus over
+26:44 here, I could replace with. This is just
+26:47 a lot of extra steps for me. So, it's
+26:49 one of the things that I'm going to kind
+26:50 of battle with in terms of efficiency
+26:53 versus
+26:54 you know, me liking the way manage mode
+26:56 works in a lot of different ways.
+27:00 Okay, now let's get back into manage
+27:02 mode and we're going to kind of stay on
+27:03 this for a minute.
+27:04 Um obviously we're seeing the folder
+27:06 level things. These work just like tags
+27:08 that if you hover over our folder that's
+27:11 being selected, these are essentially
+27:13 the same exact thing as tags in library.
+27:17 We just get to hover over this, click
+27:18 the X and now we saw we see all of our
+27:21 common documents and everything else
+27:22 here as well.
+27:23 So something that you can bring in here
+27:26 if you want to be sharing files within
+27:29 um
+27:30 this workflow is that we can take test,
+27:32 I can say, well hey, let me import a
+27:35 file and the file type that I'm
+27:37 importing doesn't necessarily need to be
+27:39 a plan file.
+27:41 Now, keep in mind it's not something
+27:43 that we can manipulate with Chief
+27:45 Architect and we can't necessarily even
+27:47 read from this in Chief Architect. But
+27:50 when you go export this file, it's going
+27:53 to include that CSV file. So maybe
+27:55 that's a convenient way of sharing with
+27:57 a colleague when we have something
+27:59 that's not saved in plan, but they need
+28:02 that file as well, okay? And you can
+28:05 still right click and open or open with
+28:08 and it's going to bring up your default
+28:10 program for opening that file. So in
+28:12 this case, this is a CSV file and so
+28:15 we're opening it up in Excel. So that's
+28:17 a pretty cool way of sharing this file
+28:20 with someone else.
+28:21 Again, this is leading to the
+28:22 eventuality that we might get a cloud in
+28:25 Chief Architect that's integrated with,
+28:27 you know, a certain amount of storage
+28:29 that's available for that and so this is
+28:31 a way to kind of um do an
+28:33 all-encompassing share of that project
+28:36 via the cloud. But for now, you can
+28:38 export this and share it via the cloud
+28:40 as well and it would include that CSV
+28:43 file if you chose to. Now, keep in mind
+28:46 we could just export and these files can
+28:48 be internal. So, some of these files can
+28:50 be internal where we get the unchecked
+28:52 client info CSV and export that and then
+28:55 import it on the other side.
+29:01 Freaking wild. Yeah, as Scott says,
+29:04 "Freaking wild." Exactly.
+29:07 So, back into just kind of managing our
+29:11 template files and everything else, you
+29:12 can open your template file right from
+29:15 here. It will warn you that you're
+29:16 opening a template file. I think that's
+29:19 a pretty cool thing. And you can
+29:20 obviously remove a bunch of these
+29:22 template files if you don't want to see
+29:23 them. Here's um there's a little dot
+29:26 next to what your default template file
+29:28 is. You can of course right click on
+29:31 something and you can say use as
+29:33 default. That's kind of a nice fast way
+29:35 of doing things. Um it's really easy to
+29:38 start a new plan from one of these
+29:40 template files. So, I mean, that's
+29:43 that's a pretty cool thing, too. You
+29:45 know, and your control new is going to
+29:46 do something similar. New project, make
+29:49 a copy of an existing project, and then,
+29:52 you know, open our recent documents
+29:53 still works.
+29:55 Save entire project. So, we've got some
+29:56 new options here. So, if I said new
+29:58 project, you know, there's that option
+30:01 again to choose some other template file
+30:03 to start with that new project. So,
+30:05 that's a really cool way of doing, you
+30:08 know, maybe you have a template file for
+30:10 one jurisdiction versus another. So,
+30:12 it's a really cool way of doing that
+30:13 kind of workflow.
+30:16 Next part about this is, you know, I can
+30:18 just open this in place. Again, it's
+30:19 going to warn me, "Hey, this is a
+30:21 template file. Are you sure you want to
+30:23 open it and test this out?" And in this
+30:25 case, I do. And then that gives me the
+30:28 ability to see the full project
+30:30 management workflow here where I can
+30:32 edit CAD details, etc., and put them in
+30:33 those subfolders, which I'm going to be
+30:35 doing.
+30:36 Now, another aspect of subfolders that's
+30:38 going to be really, really impactful for
+30:40 many of you is that, hey, in cameras, if
+30:43 you have saved cameras, these are our
+30:46 default cameras indicated by that
+30:49 Chief Architect, you know, their icon
+30:52 right on top of the file folder. But
+30:54 guess what? You can do new folders in
+30:56 cameras as well. So you can say hey,
+30:58 we've got all the kitchen cameras here,
+31:01 all right?
+31:05 This is something that's kind of cool is
+31:06 I could just take this redline camera
+31:08 and drag and drop it into kitchen
+31:09 cameras and that's it. And I mean that's
+31:12 just fast and easy. So we can organize,
+31:14 you know, based on these these folders.
+31:17 And then if you wanted to have this go
+31:18 back into its default directory, you
+31:20 can't just drag and drop over the top of
+31:23 that first floor anymore. That's not
+31:24 going to work. You have to drag and drop
+31:26 this back onto the main top level folder
+31:29 and then it will put it back in its
+31:30 place, okay?
+31:32 But of course, you can just copy paste
+31:34 this into kitchen cameras or just drag
+31:36 and drop. So same kind of thing with
+31:38 cross-section views, right? Where I've
+31:40 got some internal cross-sections here.
+31:43 I'm going to have these be all my
+31:44 kitchen
+31:47 elevations,
+31:49 right? And then we can group select
+31:51 these and then just drag and drop and
+31:53 that's just as easy as that versus my
+31:55 new folder for exterior elevations.
+32:01 And then just click and select and drag
+32:03 and drop.
+32:06 I want to tell you something.
+32:07 I've got very few hours in this
+32:09 software. Um I did very little beta
+32:11 testing. I think I said I was trying to
+32:12 say that at the beginning when my mic
+32:14 was muted and that's part of that is
+32:16 just the work I've had to do this year
+32:18 just didn't lend itself to being able to
+32:20 test this thoroughly and another part of
+32:22 that was I was running into some
+32:23 problems with some of my systems in
+32:25 early betas and it was just causing me
+32:27 to, you know, not use it.
+32:29 Um and not having enough free time. So
+32:31 I'm kind of discovering this as I go,
+32:33 but there's a lot of really intuitive
+32:36 aspects to this new system that work
+32:38 really well. And I particularly love
+32:40 just being able to limit and target and
+32:42 tag. And it's not that um I don't think
+32:45 you could have multiple tags for a
+32:47 particular project. So, there's that
+32:49 aspect of it. I don't think I can just
+32:51 drag this into
+32:53 you know, the Cody star and
+32:56 and have it be in both. You can't do
+32:57 that. So, you have to make a copy. And
+32:59 so, then we got some redundancy there.
+33:01 That's an issue, but
+33:03 for the most part, I think this whole
+33:05 system works really well.
+33:07 So, let's get on to I've got a PDF here
+33:09 and it's a bunch of other new items on
+33:11 the list. Let me see if you've got any
+33:12 comments.
+33:20 Yeah, bitmap on a cabinet. The The uh
+33:22 emissivity maps are pretty wild.
+33:25 And I do already have like an idea of,
+33:28 you know, thinking in in what I might
+33:29 want to do. I mean,
+33:30 something to just kind of keep in mind
+33:33 is in just even in this, if we were to
+33:36 go edit this floor material, it's going
+33:38 to use the default room. Well, I just
+33:40 essentially edited the default room. So,
+33:42 look at what's in the default room is
+33:44 we've got you know, we've got
+33:47 light up on the ceiling. So, you could
+33:49 do something like this where we're
+33:50 changing the default room's drywall and
+33:55 put in an emissivity map.
+33:58 General materials where that's going to
+33:59 show up, select. And I'm going to go or
+34:03 actually, let me tab in here.
+34:05 So, general material import and I'm
+34:07 going to go find something in my two
+34:08 materials catalog that's just an alpha
+34:10 mask. Alpha mask would just be a black
+34:13 and white mask. So, got a bunch of
+34:15 alphas here. And look at this. We'll
+34:17 just do this. We'll crank the emissivity
+34:19 up. And this is going to make a grid.
+34:22 And so, then the next time we go and try
+34:24 to change this floor material, look at
+34:26 our preview.
+34:28 That's pretty ridiculous, right?
+34:30 That's pretty funny.
+34:35 Let's take that back a few levels. I
+34:37 don't think we need that happening.
+34:45 Okay.
+34:50 What new features Scott Wise says, what
+34:52 new features are the most exciting to
+34:54 see integrated Renee Robin which
+34:55 suggestions that you provided made it
+34:57 in? So,
+34:59 I would like to just uh I think I'm
+35:01 going to roll through the list and we've
+35:02 got three pages. So, this is going to be
+35:04 a long show and I might cut it off
+35:06 halfway um
+35:08 you know, in the show and then set up
+35:09 another date for a part two or something
+35:11 like that. Um but
+35:14 just right away, the big money maker for
+35:17 me, that the one that recoups the cost
+35:19 of this subscription just immediately
+35:22 for me is something that's maybe trivial
+35:25 for other people uh that just don't
+35:28 don't have it set up the same way. But
+35:30 for me it's we've got some new
+35:33 um automatic wrapping of schedules. And
+35:37 let me just try to set this up real
+35:38 quick. So, I'm just going to put a bunch
+35:40 of windows in here and I'm going to set
+35:42 my schedule to um not group similar
+35:44 items so that we see that we've got a
+35:46 bunch of different windows.
+35:49 And we'll throw some doors in there as
+35:50 well.
+35:52 And so, let's just go find that schedule
+35:55 from object.
+35:57 Let's open this up.
+36:02 Yeah, my hot keys did not migrate. So, I
+36:04 definitely have to reset some migration
+36:06 stuff.
+36:07 And then let's just say in columns and
+36:10 rows that we're not going to group
+36:12 similar objects and then you're going to
+36:13 see something pretty fascinating. Now,
+36:15 if I just press okay, we're going to see
+36:17 you know, a long
+36:18 long schedule here. But instead, if I
+36:22 were to open this up again,
+36:23 I'm going to check this new section out,
+36:26 wrapping.
+36:28 I'm going to say we're going to do three
+36:29 entries per table.
+36:31 Table alignment's left, that's fine. And
+36:33 then we're going to put in some offset,
+36:35 all right? And I'll show you what that
+36:36 offset means. I argued a little bit that
+36:39 offset should be called a gutter, but I
+36:40 didn't win that argument. This is the
+36:43 offset, the space in between the
+36:44 schedule. But this schedule is now
+36:46 automatically wrapping at three rows,
+36:49 exactly. Now,
+36:51 there's something to be said about just
+36:53 having to resize this a little bit.
+36:54 You're going to have to do that to
+36:56 conform this once you've got it, but I
+36:58 do believe once it's resized that it
+37:00 kind of maintains. And you might have to
+37:02 do individual rows and size them exactly
+37:04 how you need them to be, but this is a
+37:07 huge one for me. You know, if I'm doing
+37:10 50, 60, 70 projects a year or something
+37:13 like that, some large number, and I'm
+37:15 constantly having to cut and wrap this
+37:17 on the layout side, this saves me so
+37:21 much time. I imagine it saves me about
+37:24 $600 a year. So, that's the big one for
+37:27 me.
+37:28 And uh you know, just to show you that
+37:31 one more time is we can open this up
+37:34 and then in the wrapping section here,
+37:36 we could say four entries per We could
+37:39 say that it's got zero offset if you'd
+37:41 like, and we could say that it's a
+37:42 center alignment if you like.
+37:45 And then center alignment's going to
+37:47 show like that, right?
+37:49 Center aligned. And there's no gutter in
+37:51 between, they're just stacked right on
+37:54 top of each other. But that's a huge one
+37:56 for me.
+38:02 If I make a copy of a CAD detail in the
+38:04 new copy, can I just drag it back to the
+38:07 template? Can I make If I make a copy of
+38:09 the CAD detail,
+38:11 can I just drag it back to the template?
+38:14 So,
+38:15 you do get the gist. Let's see.
+38:18 If we open this up,
+38:20 and now we get the drop-down menu. We've
+38:22 got the drop-down menu here we got CAD
+38:24 details and we got keynotes.
+38:26 Can I just
+38:29 copy paste and drag this or maybe you
+38:31 know, maybe we've got some standards.
+38:33 Can I just take this and drag it over
+38:35 here?
+38:36 And it looks like the answer is no.
+38:40 Yeah, answer's no there but you can just
+38:42 cut and paste. So you can cut and paste
+38:45 into another project.
+38:48 That would be the answer for that.
+38:51 Will my templates still work? Yes, if
+38:54 you are someone that has my templates
+38:55 they do still work in X17.
+38:57 And in fact, they have some features in
+39:00 in unmanaged mode that are better than
+39:02 in managed mode. It's actually just one
+39:04 feature. I have a feature that it reads
+39:07 your designer and client information
+39:08 from an Excel sheet. Um
+39:11 and that still works in managed mode.
+39:14 It's just a little it takes a little bit
+39:16 more to set up. Um and the reason being
+39:19 is that
+39:20 in unmanaged mode we can find where the
+39:24 root of that file exists on your
+39:26 machine. And so if we can find that then
+39:29 we can find other files that located
+39:31 right next to it.
+39:32 In managed mode we don't know where the
+39:35 root of that file is because it's stored
+39:37 internally. So we have to find some
+39:40 other means to target a folder where we
+39:42 might be keeping some other resource
+39:44 files and we don't have any way of
+39:46 linking to some non-Chief Architect um
+39:50 asset that's in project management and
+39:52 so we can't read from a CSV that's in
+39:55 project management. So we have to go
+39:56 about that in some other way. That's a
+39:58 little bit more advanced. We're going to
+39:59 keep uh keep on track. I'm just looking
+40:01 at a couple of comments here.
+40:06 Uh yeah, disco floor. I'm I'm with it if
+40:09 you need it.
+40:11 Um can we change the color of a
+40:13 missivity for each section of the map?
+40:16 No, this is just going to be a black and
+40:17 white map to indicate which part is
+40:19 emissive and what part is not.
+40:21 But, because this is still a texture
+40:24 map,
+40:25 I think
+40:26 um
+40:28 technically, does it does it supply
+40:30 color from that? No, I don't think so. I
+40:33 don't think you can do that
+40:34 independently. You might need a a
+40:35 secondary map for that.
+40:38 All right, so let's go through.
+40:41 Let's take a look at this list real
+40:42 quick.
+40:44 What's new in Chief Architect X17?
+40:53 So, we can sort options in the library.
+40:56 I don't think I need to show that. I
+40:58 think we might show that in you know, if
+40:59 you're unfamiliar with me, I also stream
+41:03 alongside of Dan Bowman, John Schrader,
+41:05 Kevin Transue, Robin Fisher, and we do
+41:09 that on Chief Experts Designer Show. And
+41:11 we are going to do a review of X17.
+41:13 That's not going to go quite so crazy on
+41:16 the details like I will in this um live
+41:19 show.
+41:19 So, that might be something we take a
+41:21 look at there.
+41:22 Modeless cross-section slider dialogue.
+41:26 That's actually a really big one. It
+41:28 might not seem like a big one to you
+41:30 immediately, but if we get into the 3D
+41:32 menu and we click on
+41:35 our um camera view options cross-section
+41:37 slider and I do a little cross-section
+41:40 slide cut, it used to be that you cannot
+41:42 navigate in 3D once this window is open
+41:45 because it was not modeless. Modeless
+41:48 means that we can still operate without
+41:51 this window, you know, locking us into
+41:53 some particular mode where where we are
+41:55 creating some settings. So, on the fly,
+41:58 I can kind of change and look around and
+42:00 see that my cross-section cut is, you
+42:03 know, in the proper area. So, that's a
+42:05 really cool one. I like that one.
+42:11 Consolidated import of plan settings.
+42:13 I'm not going to go through that
+42:14 process, but I will tell you that it's
+42:17 it's now just it's a little bit easier
+42:19 to import plan settings. The thing that
+42:22 it does not have still, in case I know
+42:24 some of you are going to be immediately
+42:26 asking this question, is it still not
+42:28 going to import floor defaults where
+42:30 we're picking up structure and we're
+42:32 picking up from structure to structure
+42:34 those designations. So, your floor and
+42:36 room default heights, right? It's not
+42:38 going to pick that up, but we've got,
+42:40 you know, file import and we can import
+42:43 a project, we can import 3D symbol,
+42:45 etc., but we've got um some new import
+42:48 here, which I think you have to be in a
+42:49 2D view for.
+42:54 Uh yes, and so we can import
+42:57 what? Import picture.
+43:01 You know, I'm not sure what this is.
+43:03 There is a way to import from another
+43:05 project, back of our store. Maybe
+43:07 restore.
+43:10 I think it's just import project, and it
+43:12 doesn't necessarily mean that it's this
+43:14 project file. Huh, I don't know. I'll
+43:16 have to dig into that. I don't quite
+43:18 know how that works.
+43:21 Angle snap control is going to be a
+43:23 really, really big one for some of you
+43:25 that just aren't designing on our
+43:26 typical angles. So, we can
+43:29 um set angle 90s uh set angle snaps in
+43:32 90 or 45° increments and use the angle
+43:36 grid controls in the general plan
+43:38 defaults to customize the list of
+43:39 additional angles for snapping. So, if
+43:42 we just double-click on our select
+43:43 objects tool, that's going to bring up a
+43:45 whole new set of dialogues here that we
+43:47 haven't seen before. And so, angle grid
+43:50 is where we can choose additional
+43:52 angles. So, if you're someone that
+43:54 doesn't even want it to snap on 15°
+43:57 increments, and actually, that's kind of
+43:59 me. I don't want it to snap on 15°
+44:02 increments. Maybe you only want it on
+44:04 45° increments. So, what happens when we
+44:06 press okay and say yes,
+44:09 and I want some cabinet here, and I want
+44:11 to kind of drag this over. Look at this.
+44:15 I'm not getting all that 15° snapping
+44:18 where it's picking up something at every
+44:19 15° along the way. It makes it a lot
+44:22 easier to move things
+44:24 polar orthogonally, right? This is just
+44:27 my right-click move. Left-click move is
+44:29 going to have that same setup except for
+44:31 we're going to ignore that 45° entirely.
+44:34 So, right-click move and now I've bound
+44:36 it to only 45°. So, for an individual
+44:38 project where hey, we're drawing boxes,
+44:41 that's going to be something that you're
+44:43 probably going to want to do. That's
+44:44 going to make a big difference in terms
+44:45 of just moving and ignoring snaps along
+44:48 the way without having to do modifier
+44:50 keys like the S key or something like
+44:52 that. So, that's a really big one. I
+44:54 really like that. Um and then aside from
+44:57 that, you know, we can add
+44:59 that we've got incremental
+45:02 snap grid units on top of that. So, hey,
+45:05 maybe we only want to do 9°, but we want
+45:08 to add something that happens to be on
+45:09 like a 3°
+45:12 um opposing angle or something like
+45:14 that, right?
+45:17 So, that's going to do something
+45:19 entirely different. Let's see. I'm not
+45:21 sure exactly how that works.
+45:25 Yeah, not sure.
+45:28 Have to play around with that.
+45:34 Continuous draw same wall type.
+45:37 Continuous draw same wall type.
+45:41 This one's so big for me. It's so big
+45:44 for me, especially when you're doing
+45:45 as-builts. So often we need to
+45:49 um maybe we've got some wall here,
+45:51 right? That's carrying through here, and
+45:53 I know that I've got a hallway here, but
+45:55 I also know that I've got walls on both
+45:57 sides of that hallway that continue
+45:59 through, right? And so, I want to just
+46:01 continue drawing seamlessly. So, I'm
+46:03 going to break this right here, and it
+46:05 would be great if I can just not only
+46:08 draw one segment, but draw multiple
+46:11 segments. So, what do we get to do now?
+46:13 We get to right-click this continue, and
+46:16 guess what? It will continue to draw our
+46:19 walls until we either left and
+46:22 right-click together or finally close
+46:25 this shape. So, that's just so big to
+46:28 me. This saves me so much time. I can't
+46:31 tell you. So, it's just really easy to
+46:34 just reference a wall on the other side
+46:36 of the building that you know is lined
+46:38 up, but then it's still use that
+46:39 continuous draw without having to pick
+46:42 up, pick the tool again,
+46:44 try to locate, you know, this
+46:46 intersection as opposed to just taking
+46:48 that edit handle and drawing out from
+46:50 there.
+46:51 There's that 3° increment that I added
+46:53 to this plan. Oops.
+46:58 And so, that same action is available, I
+47:01 believe, in the polyline as well, so
+47:03 that if we uh let's just add a little
+47:05 break here to right here, and maybe not.
+47:10 It doesn't look like it. What's What is
+47:12 the
+47:13 What does it say here?
+47:15 Continuous draw same wall type use the
+47:17 same wall type edit handles. Okay, so
+47:18 it's just wall types. Got you.
+47:21 And then we get to 3D editing of molding
+47:23 polylines. Now,
+47:25 I want to say something. We're in beta
+47:27 right now, and so I need to kind of try
+47:29 to avoid any kind of errors or problems
+47:32 that I've run into. Now, we're trying to
+47:34 pump up people's excitement for this
+47:36 software. They're still going to be
+47:37 fixing some things before our final
+47:39 release. And so, this 3D editing molding
+47:42 polylines, it's really, really good, but
+47:44 I have run into a couple little problems
+47:46 in there, and I and I know the team's
+47:48 working on it. So, um what does that
+47:51 mean, 3D editing of molding polylines?
+47:53 Let's get into this view.
+47:59 But miss my toolbars. I'm like a lost
+48:01 puppy without them. It's funny.
+48:04 Um oh, I don't even have a user catalog.
+48:06 Ha.
+48:07 I have to migrate all that stuff.
+48:10 See if they've got a round molding here.
+48:14 So I'll type in round and then I'm going
+48:16 to type in molding and scroll down to
+48:18 type moldings.
+48:20 And maybe we found a round profile. And
+48:23 if we get into the build menu
+48:25 and under trim we do a molding line,
+48:27 should be able to just draw a molding
+48:29 line. Now there's going to be a couple
+48:30 things you notice here.
+48:33 Quite a few things you might notice
+48:34 here. One is we're getting some relative
+48:36 heights here even with our cross section
+48:38 slider on which is really really cool.
+48:42 So what does that mean? I can actually
+48:44 click on this and I can say, "Hey, let
+48:47 me just scoot to the end here." And
+48:49 let's go minus six. What's that going to
+48:52 do? It just lifted that molding up six
+48:54 inches off the floor. Look at this, six
+48:56 inches off the floor. Let's call it 15
+48:58 inches off the floor. Why not? How cool
+49:00 is that?
+49:02 The other one is, you know, we got an
+49:04 end point here. If I click on the end
+49:06 point, you're going to notice a little
+49:07 gizmo.
+49:09 What does that mean? That means I get to
+49:10 drag that end point in any plane if I
+49:13 want to just because I clicked on the
+49:15 end. Now instead, if I just
+49:19 selected
+49:21 and use the continuation,
+49:23 notice that there's some kind of plane
+49:25 indicator
+49:27 um indicating that I am drawing in a
+49:29 vertical plane.
+49:31 Now I don't know if I click on the very
+49:32 top of this that this changes. Right. So
+49:35 it's in a vertical plane. If we wanted
+49:37 to change this to a horizontal plane,
+49:39 we're still going to have to use this
+49:41 tool right here, select edit plane. And
+49:43 we can either choose a vertical edit or
+49:45 a horizontal edit. And that way when I
+49:47 click on this, it's going to drag it
+49:49 this way. Okay?
+49:51 So I get to just drag this
+49:52 Now, tab and enter work here. So, we can
+49:55 hit tab and say I want a new 60-in
+49:58 segment length. And notice that it's
+50:01 also showing us our in-between
+50:03 dimensions here. So, I can say that I
+50:05 want 60 in in between this section as
+50:07 well. So, this is some really high-level
+50:10 cool stuff, all right? Now, here is
+50:13 where I can get into a little bit of
+50:14 glitching. It depends on the extrusion
+50:17 profile that you're using. Chief
+50:19 Architect is trying to automatically
+50:21 miter for you your molding profile. So,
+50:24 that if you do something kind of obscure
+50:26 like take this
+50:28 um circle for instance, where this is
+50:30 essentially twisting at this miter, and
+50:32 now I want to move this top piece up
+50:35 ways. It's going to try to miter this,
+50:37 but it's got a twist. It's a round
+50:39 profile. It's not quite fixing yet, so
+50:44 this is something that I think it's
+50:45 going to fix in the next uh issuance of
+50:48 this, right? But
+50:50 again, I'm in a horizontal plane. It's
+50:51 kind of giving me an indicator of that
+50:53 when I drag this around, and I can of
+50:55 course change that
+50:57 to that vertical plane, draw this up,
+51:00 and draw it up some specific amount if I
+51:02 want. And then click on this end point
+51:04 and draw this out some specific amount,
+51:06 so
+51:07 very, very cool for doing this kind of
+51:09 stuff. It's just that when you create a
+51:12 twist is when the problem occurs, where
+51:14 it's trying to automatically miter that
+51:16 twist.
+51:18 Super cool.
+51:26 Okay, custom toolbar configuration
+51:28 graphic. So, if you're adding some kind
+51:30 of custom toolbar configuration,
+51:32 customize toolbars, in those
+51:34 configurations, we now have a choose
+51:37 icon button in case you want to change
+51:39 the icon for this extended tools
+51:41 configuration, for instance. You could
+51:43 change it to something else. So, that's
+51:45 kind of cool if you you just want your
+51:47 icons to look certain way. I certainly
+51:50 do. You know, all my tool kits have very
+51:52 custom icons that I draw.
+52:00 That non-model cross section
+52:01 improvements far, yes.
+52:03 Model
+52:04 I'm going to blank on it. Model.
+52:09 Customize the status bar display. This
+52:12 is just going to be on our preferences
+52:14 now. So, edit preferences and in our
+52:17 appearance panel, we now have a whole
+52:19 status bar section. If there's some
+52:21 things that you don't want to see here,
+52:23 this is where you can uncheck those.
+52:32 We can now import multiple DWG DXF files
+52:37 at one time. Very cool.
+52:41 By the way,
+52:43 I'm going to kind of pick and choose,
+52:44 but if one of you wants to join me on
+52:45 the
+52:46 stream, you're welcome to. Let me know
+52:48 in the comments section.
+52:52 All right.
+52:54 This is a big one. You designers out
+52:56 there, listen up. This one's one you're
+52:58 going to want to pay attention to.
+53:00 We now have material builder, okay?
+53:03 Material builder is um Dustin Cruz over
+53:06 at Chief Architect has been working on
+53:07 this. Uh I want to say like four or five
+53:09 years or something like that. He uses a
+53:11 program called Substance Designer. It's
+53:13 a node-based program where he can
+53:15 generate an end file where you can
+53:18 configure things of his parameters to
+53:20 create some material. And so, he's built
+53:23 a tile builder. He's built a wood
+53:24 builder. He's built some kind of
+53:26 upholstery textile builder. And now it's
+53:28 loaded into this software, preloaded
+53:31 into the software. And it doesn't just
+53:34 stop there, but let's just show you what
+53:36 this means. In the 3D menu, we have the
+53:38 material builder, okay? And so, we're
+53:40 going to click this up. This also is a
+53:43 modeless window, so I can still navigate
+53:45 in Chief Architect all I want to and
+53:48 have this window open. Now, when we go
+53:50 to select a builder, this is preloaded
+53:52 with three of Dustin Cruz's builders.
+53:56 And then there's one more item here,
+53:58 select external substance SP SAR file.
+54:01 Now,
+54:02 I do want to note that that's a really
+54:04 cool feature. This means that we can use
+54:07 some other builders that you might find
+54:09 out on the internet. We're going to get
+54:10 to that in a minute. First, I'm going to
+54:12 start with the tile builder.
+54:15 Now, the tile builder gives us the
+54:16 ability to
+54:17 manipulate this the same way that we did
+54:20 in Substance Player before. If you were
+54:22 privy to this, this was in Chief
+54:24 Architect's Chief Talk forums in the
+54:26 symbols and content section of that
+54:28 forums, and then the very first pinned
+54:31 item was the Substance Player builder.
+54:34 And then it had a big explanation of how
+54:36 to use this. But what this means is we
+54:38 can sit here and create different tile
+54:41 types just by expanding these menus and
+54:43 changing some parameter to say make a
+54:46 green grout, really ugly tile, for
+54:50 subway tile
+54:51 very quickly, and then add it to the
+54:53 library, and go ahead and build anything
+54:55 we want. So, this also specifies
+54:58 multicolor tiles in his configuration.
+55:00 So, I can do a two-color checker random
+55:03 where the second color is hot pink
+55:06 quartz, which would be a real
+55:09 interesting choice.
+55:11 Right? And then I just get to add this
+55:13 to my library, spray it onto my project.
+55:16 Really neat for making tile materials on
+55:19 the fly, right? And you can just keep
+55:21 this window up, kind of edit as you go.
+55:23 You can test it by spraying it onto the
+55:25 wall, and then make your changes, etc.
+55:29 That's awesome.
+55:32 I I mean, truly, you're going to get a
+55:34 lot of tile raw is this way. The other
+55:36 aspect of this is you can go on to the
+55:39 World Wide Web and you can find other
+55:41 assets for this. And I want to note that
+55:44 on my resources page on my website, I
+55:47 will be building a specific
+55:50 Google index advanced search filter
+55:52 specifically for these types of files so
+55:55 that you can find them on the greater
+55:57 web easily. But that's not going to be
+55:58 for another couple months.
+56:01 In the meantime,
+56:03 let me just say done. I'm going to close
+56:04 this model window.
+56:06 I want you to notice that in edit
+56:08 preferences, and I just found this last
+56:09 night, underneath our folders, if we
+56:12 show all path, there was something that
+56:14 I thought was very interesting here,
+56:16 which is that there's a substance folder
+56:18 here. And so if we find that
+56:30 My mic is so touchy. I have to keep
+56:32 testing it cuz if I bump it, it turns
+56:34 off. All right, looks like we're back
+56:36 on.
+56:37 Okay.
+56:38 Notice that there's a substance folder
+56:40 here.
+56:42 Right there, okay? And if I say show in
+56:44 explorer, that's going to bring this up
+56:46 in my explorer window. Now, the next
+56:48 thing I'm going to do is that I happen
+56:50 to have a lot of substance files. I've
+56:53 already had this I've already had the
+56:54 suite for a very long time and I have
+56:56 them organized and they're right here.
+56:59 And so just as an example, I'm going to
+57:01 click on my fabric and textiles and let
+57:04 me just grab
+57:06 and I'm going to copy them
+57:08 into the substance folder that Chief
+57:11 Architect has here, okay? And so there
+57:12 we go. Copied a bunch of those into the
+57:14 Chief folder. Let me come back to Chief.
+57:16 Let me hit done. Let me get back into
+57:19 the 3D menu. Now, I would think that in
+57:21 the material builder, I would need to go
+57:24 reload Chief Architect or something,
+57:26 right? But if we choose this drop down,
+57:29 well, look at that.
+57:30 Immediately, we've got all these
+57:33 builders where I can build materials
+57:35 from Substance Designer files, SB SAR
+57:38 files. So that I can click one of these
+57:41 and it'll load up some material builder
+57:43 that is built similarly to what Dustin
+57:45 Cruz has built.
+57:47 And so this is a way that I can make
+57:49 quite literally thousands of materials
+57:52 very, very quickly right inside of Chief
+57:54 Architect and add it to the library.
+57:57 This is a time where I want to kind of
+57:59 come a little bit off-topic, which is
+58:01 how do we kind of if we do find a
+58:03 billion different texture files like
+58:06 this, how do we kind of preview these
+58:08 without having to click one by one to
+58:10 understand what these are even building?
+58:12 And
+58:13 this is something where I don't have an
+58:15 affiliate link for this company. Um, I'm
+58:17 just promoting them because I think it's
+58:19 a fantastic company. There's a company
+58:22 out there called Design Connected and
+58:24 they make a software that's supposed to
+58:26 kind of pull and add resources so that
+58:29 you can preview all of your 3D, external
+58:31 3D model files, external, um, just image
+58:35 files, external material-based files,
+58:37 including builder files like this. And
+58:40 so I'm going to open this up just to to
+58:42 show you. Just to show you that you can
+58:45 add all these substance files if you can
+58:47 find them online. Maybe you pay for some
+58:49 of them. Maybe you get a bunch of free
+58:50 ones. You know, they're they're coming
+58:52 from Adobe owns Substance, right? So
+58:56 you've got an Adobe Stock subscription,
+58:58 you might get access to Substance. If
+59:00 you have the Substance Suite, you might
+59:01 get access to this.
+59:03 So Connector
+59:05 Connector can preview all these files.
+59:08 Not only can it preview these files, it
+59:09 can actually it integrates with a
+59:12 builder so that you can spec inside of
+59:14 Connector if you want to test some
+59:16 settings first.
+59:17 So what this is doing is looking at, in
+59:20 this case, or have it loaded up my
+59:22 materials files that are all Substance
+59:24 Player files. And I'm just looking at
+59:27 the folder for plaster substances. And
+59:29 so, it's it takes a while to load,
+59:32 especially cuz these are large files in
+59:33 some cases. But, I get that just click
+59:36 on one of these substance previews here,
+59:38 and in my right side window, it will
+59:40 show me all the parameters for that, as
+59:43 well as some of these substance files
+59:45 come pre-loaded with a couple of
+59:47 different configurations so that you can
+59:49 see the capability of the tool.
+59:52 But, very quickly here, I might be able
+59:54 to create some kind of carved plaster
+59:56 wall, and here's all the settings that
+59:58 are provided in the substance player
+1:00:00 file. And so, this is exactly what's
+1:00:02 going to be loaded into Chief Architect.
+1:00:04 You're going to have access to all these
+1:00:07 same settings. So, this is just a way
+1:00:09 that I can preview these materials if I
+1:00:12 have a large library of them, okay?
+1:00:16 Let's get back to this.
+1:00:18 I think we're going to move on from that
+1:00:19 one and see what we've got in terms of
+1:00:21 comments here.
+1:00:24 What's my favorite material builder?
+1:00:25 Ooh.
+1:00:27 Favorite material builder. That's
+1:00:30 that's a really tough one. I have a lot
+1:00:31 of good ones.
+1:00:33 Um
+1:00:34 I have one where I just built a a
+1:00:36 plaster material that just looks really
+1:00:37 fantastic, and it and it blends well
+1:00:39 with other materials, and it's really
+1:00:41 easy to kind of set up and
+1:00:43 and mess around with. I think it's
+1:00:45 called peeled plaster. So, I mean, we
+1:00:47 can show you just how quick it is to
+1:00:50 integrate something like that is I'm
+1:00:52 going to come back into here. I've got
+1:00:54 plaster substances. I can do a little
+1:00:57 partial search where I say peeled
+1:00:59 just by putting an asterisk around it.
+1:01:02 And then we're going to see here we've
+1:01:04 got peeled plaster walls.
+1:01:07 Copy.
+1:01:11 Paste it over here.
+1:01:13 And then let's get back to Chief, get
+1:01:14 into that 3D material builder.
+1:01:18 And should be able to find peeled
+1:01:21 plaster wall right here.
+1:01:24 Let's see if it loads up. It does.
+1:01:26 And so there we go. So I can set kind of
+1:01:28 my base textures up, etc. But let's just
+1:01:31 take a look at what this looks like. I'm
+1:01:32 just going to add it to the library real
+1:01:34 quick and we'll just paint it in the
+1:01:36 plan mode onto the wall.
+1:01:39 Um it looks like I lost my modeless
+1:01:43 cross-section slider window. So let's
+1:01:44 turn that off so we can see this.
+1:01:47 And let's kick on a little ray trace
+1:01:49 feel.
+1:01:51 And so the one thing about this is, you
+1:01:53 know, obviously you're going to have to
+1:01:54 kind of
+1:01:55 adjust your material size. So maybe for
+1:01:57 this material size
+1:02:00 in the texture panel, maybe this goes up
+1:02:01 to like 80 in. So
+1:02:09 Yeah, but out of the box, I mean, that's
+1:02:11 that's a pretty good-looking material.
+1:02:12 If I can get a window in here, let's
+1:02:13 see.
+1:02:20 Very cool.
+1:02:25 Off topic, do I use Chief for structural
+1:02:28 drawings? Yes, I absolutely do. I do not
+1:02:32 have
+1:02:33 my template loaded up at the moment, but
+1:02:36 let's just see if we can get it real
+1:02:38 fast, which is
+1:02:41 just get to open this up
+1:02:43 and I'm going to get to my page, I think
+1:02:45 14.
+1:02:47 And yeah, so I have
+1:02:49 um
+1:02:51 pre-drawn details that are stacked and
+1:02:54 they have the capability of adding
+1:02:55 features to them just by I can copy
+1:02:58 paste, paste hold,
+1:03:00 re-link, and I can re-link
+1:03:03 if we just get this window expanded
+1:03:05 here.
+1:03:07 I can re-link to some kind of um
+1:03:10 upper, in this case, upper stackable
+1:03:12 detail like brick or CMU or something
+1:03:14 like that. So that adds a brick overlay
+1:03:17 if I improve the draw order.
+1:03:20 And so, there you go.
+1:03:22 That just added brick to the front face
+1:03:24 of this particular detail. And so, I can
+1:03:27 do the same thing. Copy, paste.
+1:03:29 Paste hold position.
+1:03:31 Oops.
+1:03:33 Trying to do do this with just the right
+1:03:34 click menu cuz my hot keys aren't loaded
+1:03:36 up. And then re-link this and I can do,
+1:03:39 you know, upper CMU wall.
+1:03:42 And then again, just change that draw
+1:03:43 order.
+1:03:44 And bring it to the front. And so,
+1:03:47 before you know it, I'm kind of creating
+1:03:49 um a new detail out of what's already
+1:03:51 there. So, it's really easy for me to
+1:03:53 draw cross-sections this way. If I want
+1:03:54 some kind of um furred wall or something
+1:03:57 like that, same thing. Copy, paste,
+1:03:58 paste hold position, re-link it, and I
+1:04:00 have all these details
+1:04:02 drawn in the same coordinate grid so
+1:04:04 that add on upper wall, wall, some kind
+1:04:07 of furred wall. There we go. So, now I
+1:04:08 have this brick CMU furred wall, lower
+1:04:12 foundation very quickly. So, yeah. I
+1:04:15 draw structural details in here.
+1:04:19 All right, let's get to our next item.
+1:04:23 Uh interactive material editing. Boy,
+1:04:25 this is going to really make some some
+1:04:28 uh some people excited, especially for
+1:04:30 those of you that are
+1:04:31 trying to get really specific in terms
+1:04:33 of like designing showers.
+1:04:36 Um so, let's just take a look at this.
+1:04:37 Let's get into a a view and let's go see
+1:04:39 if we can't pick up some kind of tile
+1:04:41 material from
+1:04:43 Chief.
+1:04:45 Or let's take this a little
+1:04:49 a full circle action here. Let's load up
+1:04:51 that Chief Architect tile builder.
+1:04:55 And we'll just do that subway and we'll
+1:04:57 make this a nice small grout, right?
+1:05:01 Something like that. And let's say that
+1:05:04 it's a two-color and this will kind of
+1:05:07 send the purpose of this home.
+1:05:09 Two-color random, how about that?
+1:05:12 And oops.
+1:05:14 Add to library.
+1:05:17 And let's paint this on the wall. And
+1:05:19 we're going to show you how we can
+1:05:21 adjust some things.
+1:05:28 Okay, so we've got this wall on the wall
+1:05:30 and in this case, let's just say that I
+1:05:32 want to change some of the offset of
+1:05:34 this material. And so we have a new
+1:05:36 tool. So in the 3D menu and actually it
+1:05:38 looks like it's just defaulted on the
+1:05:40 toolbar, interactive material editor.
+1:05:43 And so when we do this, we do in fact
+1:05:45 get our painter modes, component, etc.
+1:05:48 And in this case, I want to make a copy
+1:05:51 of this material on one side because I'm
+1:05:53 going to change it separately from the
+1:05:54 left side. So this is generating a copy.
+1:05:58 And then from there, I get a little edit
+1:06:00 handle and I'm able to move this
+1:06:04 in the axis. Let me go ahead and change
+1:06:06 our rendering mode so that we're not
+1:06:08 sitting here waiting for that render.
+1:06:10 So
+1:06:12 again, I just get to move this.
+1:06:14 And so you can move this accurately if
+1:06:16 you want to.
+1:06:18 But let's just say that I want to finish
+1:06:20 with a complete tile on that color,
+1:06:21 right? So I'm just kind of arbitrarily
+1:06:24 pacing it placing it, but I'm using that
+1:06:26 same tool in this case in plan mode to
+1:06:29 adjust this other side.
+1:06:32 Right? And so I actually want a white
+1:06:34 tile up next to that one color tile and
+1:06:36 I'm going to
+1:06:37 make sure that that's a full tile as
+1:06:39 well. So this is pretty cool. Number of
+1:06:41 different things. You can scale this
+1:06:44 top to bottom this way.
+1:06:46 You can do it accurately by hitting tab
+1:06:48 or enter.
+1:06:49 This gives us the ability to scale this
+1:06:51 precisely, okay?
+1:06:54 Same thing, scale this precisely. Let's
+1:06:56 just say that in our X scale we wanted
+1:06:58 this to actually be 60 in.
+1:07:00 All right? Or you can scale X and Y
+1:07:02 together and same thing, tab or enter
+1:07:05 and now you're changing those X and Y
+1:07:07 scales specifically. So, I can set these
+1:07:09 back down to
+1:07:10 20 and 20 if I uncheck aspect ratio.
+1:07:13 Right? That's going to take that back
+1:07:15 down to its regular. Or maybe you've got
+1:07:17 a little feature where you want to
+1:07:18 rotate this. So, this is really, really
+1:07:21 handy for lining this stuff up. Now,
+1:07:23 there is no kind of pick point where we
+1:07:25 can pick part of the pattern and line it
+1:07:27 up precisely based on the pattern. This
+1:07:29 is going to kind of move arbitrarily
+1:07:32 based on the point that we're clicking
+1:07:33 on. So, if I use that tool and then I
+1:07:35 click right here in that corner, notice
+1:07:37 that that and edit handle is right in
+1:07:39 this corner. So, this might be a case
+1:07:41 for getting in real tight. And if it's
+1:07:44 um such that you have your cameras set
+1:07:47 up that it's clipping areas as you get
+1:07:49 in tight, you might want to do something
+1:07:50 about that. Um
+1:07:53 let's just customize toolbars real quick
+1:07:55 and put our search tool on here.
+1:08:00 And let's go tool search. We'll just add
+1:08:02 this to the bar here. And something that
+1:08:05 uh
+1:08:05 you might want to do is just edit the
+1:08:07 active view, change our clip surfaces
+1:08:09 within to 0 in when you're using this
+1:08:11 tool, maybe. And so, that's not going to
+1:08:13 clip so tightly and so, you can maybe
+1:08:15 get in real close. And then kind of a a
+1:08:18 legacy tool was perspective
+1:08:21 crop mode. And so, you can turn on
+1:08:23 perspective crop mode and that would
+1:08:25 make it so that it's maybe a little bit
+1:08:27 easier to get in here tight and kind of
+1:08:29 roll around and truly, accurately pick
+1:08:33 some little tiny little point to move
+1:08:35 this.
+1:08:37 Now, I don't think that this tool works
+1:08:39 in a vector rendering mode. Let's just
+1:08:41 check that out real quick.
+1:08:44 So, in a vector view and you know, and
+1:08:45 we're not seeing any patterns here, that
+1:08:48 tool is grayed out. Let's switch back to
+1:08:51 a standard view and then in technique
+1:08:53 options, let's see if we do hand-drawn
+1:08:56 lines on top, can we use that tool? We
+1:08:58 can. So, we can at at see those
+1:09:00 hand-drawn lines on top. So, if you
+1:09:04 wanted to just work from, you know, just
+1:09:07 the pattern itself,
+1:09:09 um maybe you turn that pattern color to
+1:09:11 something kind of bright so that you can
+1:09:12 truly see it, but you're not quite
+1:09:13 snapping to that pattern. So, that's not
+1:09:15 going to happen.
+1:09:21 All right.
+1:09:23 Oh, this is a you know, this is a big
+1:09:25 one for us rendering folk. Show windows
+1:09:28 as open.
+1:09:29 You know, it's just a nice little bonus.
+1:09:32 It really is. I just get to click on
+1:09:34 this,
+1:09:35 right? And we just get that same icon,
+1:09:38 show open in 3D.
+1:09:40 Bam. And I think the same setup here as
+1:09:43 well as that we just got to open this
+1:09:45 file up and in the dialogue window under
+1:09:49 our
+1:09:50 options, do we have a percent open? No,
+1:09:52 it's under the general percent open. So,
+1:09:54 we can set this to something higher than
+1:09:56 that value.
+1:09:57 And there we go.
+1:10:01 If I had my toolbars, I'd be able to
+1:10:02 quickly change this type so we could
+1:10:04 show all the different types. But
+1:10:05 there's single hung.
+1:10:07 Yeah, I mean, this is just going to look
+1:10:09 nice.
+1:10:12 Very nice to show a client, you know,
+1:10:14 maybe how something operates. Maybe we
+1:10:15 got like a
+1:10:17 um
+1:10:17 single hopper.
+1:10:19 Single hopper, look at that.
+1:10:21 Very cool.
+1:10:23 You can essentially make a few, you
+1:10:25 know, I can think of a few use cases for
+1:10:28 using a window to kind of display as
+1:10:30 something else then now that it's
+1:10:32 capable of doing this.
+1:10:34 Single awning, etc.
+1:10:39 Like I feel like you could do a uh
+1:10:42 maybe you can fake
+1:10:45 What's that one that's a casement and a
+1:10:46 hopper at the same time? Maybe you can
+1:10:48 kind of fake that, who knows.
+1:10:51 And can we set it in defaults for all
+1:10:53 windows? I believe so.
+1:10:55 Should be able to do this, so in window
+1:10:58 general window there's a percent open
+1:11:00 option show an open in 3D or show open
+1:11:03 in 2D. Show open in 2D is kind of
+1:11:06 interesting. I could you know I've seen
+1:11:08 a couple architectural drawings where
+1:11:09 they're showing that, so I mean that's
+1:11:11 kind of interesting. So if I switch this
+1:11:13 to
+1:11:14 test new and we're looking at overhead
+1:11:15 at this
+1:11:17 and we've got an
+1:11:18 awning. It's the same thing show closed
+1:11:21 in 3D. I don't see an option to show
+1:11:25 open in 2D.
+1:11:27 So I think you have to come here show
+1:11:29 open in 3D. Show open in 2D is grayed
+1:11:32 out for this one.
+1:11:34 So that's you know this is going to be a
+1:11:35 window type single casement. It's
+1:11:37 probably not grayed out show open in 2D
+1:11:40 for single casement and it's going to
+1:11:42 show that.
+1:11:43 Which kind of looks like a door, so that
+1:11:47 sounds like a big liable ability problem
+1:11:49 to me.
+1:11:56 All right, cabinet box sides and
+1:11:59 thickness.
+1:12:00 Um
+1:12:01 we have the ability to set so if they're
+1:12:03 place a cabinet here our box sides and
+1:12:06 thickness now and this is in defaults as
+1:12:08 well.
+1:12:09 So I believe this is in box
+1:12:11 construction. Yeah, side thickness and
+1:12:13 back neck thickness. Please note that we
+1:12:16 do not have independent control of
+1:12:18 thickness of left side versus right
+1:12:21 side. So that's something that I hope we
+1:12:24 see in future releases, but for right
+1:12:26 now you get side thickness back
+1:12:28 thickness. So you can specify we're
+1:12:30 getting really close to being able to
+1:12:31 produce a cut list. And so let's just
+1:12:33 take a look at this you know back side
+1:12:36 etc. And
+1:12:38 maybe if we go look into the Ruby
+1:12:40 console
+1:12:42 we can see
+1:12:44 where is the Ruby console?
+1:12:47 It's a good question tools Ruby console.
+1:12:48 There we go.
+1:12:52 Let's take a look at this. I believe we
+1:12:54 should have um some kind of box
+1:12:56 thickness in here.
+1:13:04 Yeah, I'm not sure. I'm not seeing it.
+1:13:06 Box construction, box construction name.
+1:13:09 I I do believe that there is some kind
+1:13:11 of
+1:13:12 um
+1:13:13 box thickness in here where we can
+1:13:15 report that to schedule. Um so, if you
+1:13:17 need to see that kind of information.
+1:13:22 I don't have my templates loaded up, so
+1:13:24 I don't have quite all the same tools.
+1:13:37 Okay. Under counter appliances.
+1:13:41 I'm going to I'm going to kind of jog
+1:13:43 over this. I've had a lot of problems
+1:13:44 with this one, so we're not even going
+1:13:45 to look at it yet. But, the the theory
+1:13:47 here is that we get to place an
+1:13:48 appliance without a cabinet. So, we can
+1:13:51 just place a dishwasher right next to a
+1:13:53 cabinet box and have that cabinet box
+1:13:55 extend its countertop over that
+1:13:58 dishwasher. And, there's there's just a
+1:14:00 couple display issues that I was having
+1:14:02 with that. So, we're not going to touch
+1:14:03 on that. We'll leave that for a later
+1:14:04 episode. I think they might come out
+1:14:06 with a kind of a
+1:14:07 flash patch for that.
+1:14:09 And then, offsets for built-in
+1:14:11 appliances. So,
+1:14:13 um because we are now capable of putting
+1:14:15 a dishwasher right next to a cabinet,
+1:14:18 this was something that was very
+1:14:19 confusing for new users as they try to
+1:14:21 place a dishwasher not inside of a
+1:14:23 cabinet, but just place it. And then,
+1:14:25 having that Y offset where it's 24 in Y
+1:14:28 offset where the 2D of the dishwasher
+1:14:32 look like it was in the correct place,
+1:14:33 but the 3D actually had the dishwasher
+1:14:35 pushed through the wall. And, that's cuz
+1:14:37 it was meant to install inside of a
+1:14:39 cabinet. So, now instead of that,
+1:14:42 when we go and try to place a dishwasher
+1:14:46 or any symbol for this matter, we have a
+1:14:48 bunch of new settings in the symbol side
+1:14:51 of this thing. So,
+1:14:53 place this, let me open this.
+1:14:56 And then in the options side of things,
+1:15:01 a couple of things here.
+1:15:02 When we set inserts into cab countertop,
+1:15:05 now it has the ability to specify that
+1:15:08 offset. Inserts into cabinet front, now
+1:15:11 we get to specify that offset right
+1:15:13 here.
+1:15:14 We also have the ability for some object
+1:15:16 to cut ceiling or floor or wall. And so
+1:15:19 we get to set specify that offset here.
+1:15:22 In this case, there's a new options
+1:15:24 category called appliances under
+1:15:26 counter. And so that's going to let a
+1:15:29 nearby cabinet know that we're supposed
+1:15:31 to extend some kind of countertop over
+1:15:33 the top of this. All right.
+1:15:35 So, a few extra little things going on
+1:15:38 here. And what does all this mean? Well,
+1:15:40 a couple things. One is that if you're
+1:15:42 someone that wanted to show like a can
+1:15:44 light housing
+1:15:45 along with your can light, so that in
+1:15:47 your um when you're going into some like
+1:15:50 3D framing view, you can actually see
+1:15:52 the can light housings, you can do that
+1:15:54 now because the can light can actually
+1:15:56 cut the ceiling. We can actually have a
+1:15:58 true recess light where we've got, you
+1:16:00 know, the lens of that light is tucked
+1:16:02 way up into the ceiling for instance.
+1:16:05 So, a lot of new kind of cool
+1:16:07 capabilities with that particular type
+1:16:09 of tool. Maybe you're someone that wants
+1:16:11 to do, you know,
+1:16:13 have some kind of down pipe integrated
+1:16:15 with your tub or something like that.
+1:16:17 And so you can do that where the tub
+1:16:19 itself is going to cut the floor and
+1:16:22 show that down pipe coming through.
+1:16:24 Maybe you even for some reason want to,
+1:16:27 you know, generate automatic diagrams
+1:16:29 with this and you're incorporating the
+1:16:31 frame out for the box frame out for your
+1:16:33 P trap or something like that. And you
+1:16:35 could incorporate that into the tub side
+1:16:38 of that fixture and have it
+1:16:39 automatically cut the floor. So, some
+1:16:41 pretty cool stuff with that.
+1:16:56 We now have the ability to um target the
+1:17:00 the layer of some object
+1:17:03 inside of a say full height cabinet for
+1:17:05 instance. So, let's just go double oven.
+1:17:12 Let's go ahead and place this inside and
+1:17:13 then if we open this up
+1:17:19 I believe I can select this appliance
+1:17:22 and edit it.
+1:17:24 I don't I don't know that we could do
+1:17:25 this before. I can't remember.
+1:17:28 But, we can change the way that the
+1:17:30 labels are displayed.
+1:17:35 I haven't dug into this to know what's
+1:17:37 different. I think I'd have to have a
+1:17:38 little side by side going on.
+1:17:42 Yeah, something about the label display
+1:17:43 of appliances inside a cabinet has
+1:17:46 changed.
+1:17:51 I'll try to catch that in in a you know,
+1:17:53 in the next version. Maybe by the time
+1:17:54 we do the chief experts version, I can
+1:17:56 target that and figure exactly how that
+1:17:58 works out.
+1:17:59 Uh hex man, I miss this. This is very
+1:18:02 exciting for me. Hex color codes. If you
+1:18:05 didn't know about PowerToys on a Windows
+1:18:08 machine. If you're on Mac and you're on
+1:18:10 a Windows machine, go check out
+1:18:12 PowerToys. Something you may have
+1:18:14 noticed is that when I drag around these
+1:18:17 windows, there's some kind of docking
+1:18:19 happening on my screen. You see this?
+1:18:21 That means I can expand this to just
+1:18:23 that little section. I can expand this
+1:18:26 to just those highlighted sections. This
+1:18:29 is all part of PowerToys suite. Only in
+1:18:32 Windows side. Sorry Mac, but I do know
+1:18:34 that Mac has something similar to this
+1:18:36 next part, which is
+1:18:38 a color picker, all right?
+1:18:40 And so, if I hit Windows Shift C, it
+1:18:43 brings up a color picker where I can
+1:18:44 pick up any color on my screen, and if I
+1:18:47 click on it, it even brings up similar
+1:18:50 colors, other hues, other shades, and
+1:18:53 then not only that, but it brings up
+1:18:55 this hex code where I can very quickly
+1:18:56 copy this hex code to my clipboard and
+1:19:00 shut this down. What does that mean now
+1:19:02 in Chief Architect? Well,
+1:19:05 I should be able to take my adjust
+1:19:07 material tool. I'm just going to
+1:19:09 say that I want to blend with some
+1:19:11 texture and choose a color, and there we
+1:19:14 go. And someone asked me earlier what
+1:19:16 suggestions made it through that were my
+1:19:18 suggestion. That's my suggestion. And
+1:19:21 so, I just get to paste this color code
+1:19:23 and immediately pick up that blue, which
+1:19:25 is Chief Architect's own blue. Bam.
+1:19:30 Chief Architect, I just made you your
+1:19:32 own company subway tile. You're welcome.
+1:19:35 Thank you very much for giving us that
+1:19:37 one. That's just really big one for me.
+1:19:39 For those of us that are trying to match
+1:19:41 some paint color that we don't have in
+1:19:43 the catalogs, we're trying to match some
+1:19:44 finish that's on
+1:19:46 someone's furniture, we're trying to
+1:19:47 match something that someone took a
+1:19:49 sample of with one of those, you know,
+1:19:51 actual physical color matching tools
+1:19:53 that they placed on a wall. That's just
+1:19:56 really huge. Those hex codes are just
+1:19:58 the easiest way to get RGB HSL values
+1:20:01 into some material.
+1:20:03 Super, super cool.
+1:20:07 Uh someone's asking, "Would you be
+1:20:09 loading this video to your YouTube
+1:20:10 channel?" This will always remain in the
+1:20:12 live section of my YouTube channel. So,
+1:20:15 if you're unfamiliar with that, you
+1:20:17 should be able to get to Let's just go
+1:20:19 to my YouTube channel right here.
+1:20:23 And then in the live panel right here is
+1:20:26 where this is going to show up. So, this
+1:20:28 will be there.
+1:20:35 Yeah, time to calibrate your monitors.
+1:20:37 No kidding.
+1:20:38 Mine are definitely in need. I have one
+1:20:41 monitor that just doesn't have all the
+1:20:43 options that the other one does, so
+1:20:45 that's tricky.
+1:20:47 Okay, shoe plate generation.
+1:20:49 I mean, that's kind of a cool one. Let's
+1:20:51 check this out and see if we can force
+1:20:52 this to
+1:20:53 to make sense.
+1:21:00 I'm going to draw some new walls.
+1:21:03 And you know, probably having auto
+1:21:04 generate framing already turned on.
+1:21:09 Or auto roofs, excuse me, already turned
+1:21:11 on.
+1:21:12 Here we go. And so now I'm going to
+1:21:14 specify that these two roofs are over
+1:21:17 framed. So let me open these up
+1:21:20 in the structure panel.
+1:21:22 Roof over framing and then I'm going to
+1:21:24 frame this to my sheathing. Press okay,
+1:21:26 that's going to turn off auto built
+1:21:28 roofs.
+1:21:30 And oh, made a made that disappear for
+1:21:33 just a quick second, but it's back.
+1:21:36 And then for this guy,
+1:21:38 you know, I'm just going to take this
+1:21:40 and make it cross itself. And there we
+1:21:42 go.
+1:21:43 And so then, if we go take a look at
+1:21:46 some kind of framing overview instead,
+1:21:48 actually what I like to do is I like to
+1:21:50 take my roof planes in this case and I'm
+1:21:53 going to generate framing for these.
+1:21:56 Build framing for selected objects.
+1:21:58 Let's go ahead and turn on roof rafters.
+1:22:00 And then for the case of these
+1:22:02 particular roof planes,
+1:22:04 I'm not doing auto rebuild frame, so I
+1:22:06 can kind of cheat and just delete these
+1:22:07 and it should show
+1:22:09 framing, I would think.
+1:22:12 Maybe it is auto framing. Select all
+1:22:15 framing and show it.
+1:22:19 Oh, interesting. I did delete the
+1:22:21 framing. Oops.
+1:22:26 All right, so instead, I'm just going to
+1:22:27 take these three roof planes. I I will
+1:22:30 build that framing again.
+1:22:33 We'll just build all framing, what have
+1:22:35 you.
+1:22:36 And then I'm going to put these to their
+1:22:38 own layer.
+1:22:42 So, I'll put this on roof planes.
+1:22:45 New in this case.
+1:22:47 And we'll just make it so that they
+1:22:49 don't show up.
+1:22:52 And so we should theoretically see some
+1:22:54 kind of shoe plate here.
+1:22:59 Oops.
+1:23:02 Really hard to work without my hot keys
+1:23:03 or my tool bars. I'm like a lost puppy.
+1:23:07 Oh, you know what? This is not
+1:23:08 selectable. This should not be visible.
+1:23:11 Sorry, chief.
+1:23:13 You know, I'm good at finding little
+1:23:14 glitches.
+1:23:15 Let's try to rebuild the
+1:23:16 3D. See what happens.
+1:23:19 There we go.
+1:23:21 All right.
+1:23:23 Did we not have this before? We didn't
+1:23:25 have shoe plates before? Maybe I
+1:23:28 Maybe I just didn't know that.
+1:23:30 Um but yeah, this So, this is building
+1:23:32 to the sheathing now.
+1:23:35 Okay. Cool.
+1:23:43 Um yeah, Aaron, I did turn off that roof
+1:23:45 plane layer. It is interesting. I had to
+1:23:47 rebuild 3D for it to go away. So,
+1:23:50 just a little trick of the trade, I
+1:23:51 guess. And then something that, you
+1:23:53 know, my colleague Dan Bowman does,
+1:23:55 which I actually really love, is you
+1:23:57 know, you've got these couple breaks in
+1:23:59 here already. So, I can kind of conform
+1:24:00 and utilize those breaks, but he'll do
+1:24:03 something where he'll draw in another
+1:24:05 roof plane in just this section and then
+1:24:07 go into the layers and actually turn off
+1:24:09 the roofing material so that it's just
+1:24:11 displaying, you know, subfloor
+1:24:13 underneath that. So, um that's a really
+1:24:15 cool way of having like some kind of 3D
+1:24:18 diagram, which in this case leads us to
+1:24:21 kind of a next feature, which is we can
+1:24:23 draw text in 3D and I'm skipping
+1:24:26 features, but we'll just talk about it,
+1:24:28 which is I can target something in this
+1:24:31 3D
+1:24:33 and I've never tried this on a roof
+1:24:34 plane before, but it seems to be
+1:24:36 selecting it.
+1:24:38 And I have trouble utilizing this tool
+1:24:41 because I'm not quite
+1:24:43 not quite
+1:24:45 experienced
+1:24:47 with it.
+1:24:50 But this will show display of text in 3D
+1:24:54 and you can still use
+1:24:56 the little arrow that comes with it to
+1:24:58 kind of try to target some things,
+1:25:01 maybe.
+1:25:02 And it might be a little challenging.
+1:25:05 I think we get that gizmo. Yeah, we get
+1:25:07 that gizmo.
+1:25:08 Targeted that roof.
+1:25:11 Maybe.
+1:25:13 And keep in mind this is a rendered
+1:25:14 thing, so it's going to have to finish
+1:25:16 running, but there we go. Text in 3D.
+1:25:18 Cool.
+1:25:24 All right.
+1:25:26 Hey, speak of the devil. I was just
+1:25:28 talking about you, sir.
+1:25:31 Mr. Bowman, I like the way that you
+1:25:32 display shoe plate generation over an
+1:25:35 existing roof and also um specify your
+1:25:39 structure and and surfaces so that
+1:25:41 you're just showing plywood underneath
+1:25:43 that shoe plate display.
+1:25:45 And then you can make a roof in that in
+1:25:47 case you needed to add the attic
+1:25:48 ventilation from the existing to the
+1:25:50 new.
+1:25:51 For those remodel pros.
+1:25:53 Top and bottom girts. All right, let's
+1:25:56 see what we got for those of you that
+1:25:59 are doing that that whole post frame
+1:26:01 thing, you know, you know.
+1:26:03 I know we needed a little bit of love
+1:26:05 for those of you that are doing that.
+1:26:07 Let me just draw in some new walls here.
+1:26:12 And let's see if we can't specify and
+1:26:19 let's do wall types. What did say said I
+1:26:22 have fun with that stuff. Yeah,
+1:26:24 it really is a showcase of the software.
+1:26:26 It's very cool. Now let's see I did
+1:26:28 siding for existing. Let's define this.
+1:26:31 Oh, this is interesting. I did not
+1:26:33 notice this. This is a new little check
+1:26:35 mark here layer.
+1:26:38 So what layer would you like to have? So
+1:26:40 on the fly you can change the layer here
+1:26:42 instead of the layer panel. It looks
+1:26:45 like you might be able to specify
+1:26:48 very interesting the pony wall layer
+1:26:50 separate from
+1:26:53 the upper wall. That's really really
+1:26:56 cool.
+1:26:58 One of the reasons that's really really
+1:27:00 cool is for you macro pros out there.
+1:27:03 That should immediately be like being
+1:27:05 idea, which is that since we can now set
+1:27:08 our pony wall in a separate layer from
+1:27:10 our upper wall. That means we can target
+1:27:13 stuff such as material take offs on an
+1:27:16 upper wall separate from a lower wall
+1:27:18 where we're accessing the same
+1:27:21 publisher values from that, but we are
+1:27:24 putting in a condition that it must live
+1:27:26 on this layer if we're going to
+1:27:29 you know, include it in a calc.
+1:27:31 Talk to me later about that. That's a
+1:27:33 really cool feature. All right, so we're
+1:27:34 going to define this and I'm just going
+1:27:36 to make a copy of it and I'm going to
+1:27:38 change this
+1:27:39 framing for framing layer to be, you
+1:27:42 know, that's horizontal framing.
+1:27:44 And so horizontal framing. Yeah, this
+1:27:45 used to all be grayed out before. So now
+1:27:47 we have
+1:27:48 we have girt spacing just like we did
+1:27:50 before.
+1:27:52 And so top girt construction
+1:27:57 interesting.
+1:27:59 So we're being able to change the type
+1:28:01 of framing member that it's using.
+1:28:06 And then we can change that top girt
+1:28:07 with
+1:28:10 versus the bottom girt with.
+1:28:12 Okay.
+1:28:13 That's kind of cool.
+1:28:18 Let's just change that to an inch and a
+1:28:20 half top girt width girt width in
+1:28:23 general. Let me change this to three and
+1:28:24 a half. Why not? Let me press okay.
+1:28:27 And then while I have these things, let
+1:28:29 me frame all these things and let's get
+1:28:31 into a little framing overview.
+1:28:36 Which I don't know where any of this
+1:28:37 stuff exists cuz I'm such a noob at the
+1:28:40 default out of the box
+1:28:45 stuff.
+1:28:48 Perspective framing overview. There we
+1:28:49 go.
+1:28:53 Um so the only thing that that I still
+1:28:56 think that this needs is
+1:28:59 at times certain times of you know pole
+1:29:03 barn setups here might be that you want
+1:29:06 to have our girts to actually give a
+1:29:09 head girt and sill girt for as well as
+1:29:13 our vertical girts on either side.
+1:29:18 And let's just reframe or rebuild 3D
+1:29:21 maybe
+1:29:22 or reframe. Let's build all framing. How
+1:29:24 about that?
+1:29:32 Let's automatically build framing. Why
+1:29:34 not?
+1:29:37 And so
+1:29:39 um
+1:29:40 that's interesting. I swear I had a
+1:29:42 window in here.
+1:29:44 That girt's just running right through
+1:29:45 the window.
+1:29:50 Oh, am I on the wrong side of things?
+1:29:53 Maybe I didn't put a window.
+1:29:55 Oh, I put a window on the wrong side.
+1:30:04 There we go. So I would like to have the
+1:30:06 option of
+1:30:08 verticals here that are like a
+1:30:12 like bookshelf framed.
+1:30:14 You have to do some tricks to kind of
+1:30:15 get that to happen. So,
+1:30:18 couple things there.
+1:30:23 Rene's kryptonite. What's my kryptonite?
+1:30:26 Oh,
+1:30:26 out of the box tool bars. Yeah. Yeah, I
+1:30:29 don't know where anything is.
+1:30:32 It's very true.
+1:30:36 Uh roof and ceiling plane defaults. Uh
+1:30:38 you know that's going to be a huge one
+1:30:40 for someone like me. Um one of the main
+1:30:42 things I'm going to do with roof and
+1:30:43 ceiling defaults just right out of the
+1:30:45 box if we get back to our plan view here
+1:30:48 is let's just get into those default
+1:30:50 settings.
+1:30:52 Roof and custom ceilings.
+1:30:54 And so, I me myself and I am always
+1:30:59 going to put some kind of solid fill
+1:31:01 style that's a light gray where it's
+1:31:03 transparency is set probably 80 or 90%.
+1:31:09 And so, then if we just do a little
+1:31:11 build roof dialogue here
+1:31:14 and we get into auto rebuild etc.
+1:31:20 Then when we have conditions where
+1:31:22 things overlap just a little bit. So,
+1:31:25 let's just say for instance, let's get
+1:31:27 back into this view.
+1:31:31 Let's just say for instance that this uh
+1:31:33 let me turn off this line over.
+1:31:36 Line over always slows
+1:31:38 my machine down.
+1:31:41 Um I'm just going to tab into this room
+1:31:44 and set this up 24 in in height.
+1:31:46 in height.
+1:31:48 And so, maybe we'll just set this roof
+1:31:50 to be a gable.
+1:31:54 Right? And so, it's clear here that this
+1:31:55 roof is over the top of this other roof.
+1:31:59 And so, if we go back and look at
+1:32:03 I'm going to shut some other stuff down
+1:32:05 here.
+1:32:09 We go back and look at this. If you've
+1:32:11 got your roof default set up the way you
+1:32:13 need them to be, which
+1:32:15 maybe mine were a little too
+1:32:16 transparent.
+1:32:19 Let's go fix that real quick.
+1:32:23 90% Let's go Let's go 70% so we can
+1:32:25 really see this.
+1:32:26 There we go. This is clearly indicating
+1:32:29 that something is over the top of
+1:32:31 something else to me when this gets
+1:32:33 printed. You know, and I'm going to
+1:32:35 change to I have a like a
+1:32:38 working roofs only view where this is
+1:32:39 going to be a lot more obvious.
+1:32:41 Um
+1:32:43 Boy, that's interesting.
+1:32:45 Do we have different defaults based on
+1:32:47 say plan views? Cuz that's a much
+1:32:51 much deeper fill, isn't it?
+1:32:56 Oh, interesting.
+1:32:59 We have defaults based on view.
+1:33:02 That's really cool. Okay.
+1:33:06 That's going to make for some
+1:33:08 you know, more finite control in terms
+1:33:09 of like the plot plan uh review where
+1:33:11 you might want to have just a solid
+1:33:13 white fill that's 100% versus, you know,
+1:33:15 a view like this where we're
+1:33:17 just trying to understand what plane
+1:33:19 overlaps another or like a working view.
+1:33:21 That's really cool.
+1:33:23 Um another aspect of this is that that's
+1:33:25 going to be impactful for me is that now
+1:33:28 that we have roof defaults, that also
+1:33:29 means that we have an object information
+1:33:31 panel and with any object information
+1:33:34 panel, this means that we can do some
+1:33:37 kind of calculation based on this so
+1:33:39 that you might be able to get something
+1:33:40 like projected overhang uh right out of
+1:33:43 the box or projected area um
+1:33:46 uh you know, for room area
+1:33:48 right out of the box. So, you might be
+1:33:50 able to get some U-value stuff out of
+1:33:52 this. Some really cool stuff you can do
+1:33:54 with this.
+1:34:01 All right.
+1:34:05 Framing defaults. Yeah, so like uh for
+1:34:08 instance, most of my ceilings in
+1:34:11 California, they're going to be at an
+1:34:13 8-ft plate height. So, I can lock that
+1:34:15 lower plate height if I wanted to and
+1:34:16 lock the pitch. They're mostly going to
+1:34:18 be at like a um a 4 and 12 pitch when I
+1:34:21 have a 6 and 12 roof because you're
+1:34:23 creating some kind of scissor truss
+1:34:25 setup or something like that. Um
+1:34:27 so, that's really cool to be able to
+1:34:29 just start from a ceiling plane that's
+1:34:31 always going to make sense for your
+1:34:32 particular project. Very cool.
+1:34:35 Framing defaults, we're going to get a
+1:34:37 lot of additional stuff. Object
+1:34:39 information is a really cool one. Um in
+1:34:41 terms of object information for someone
+1:34:43 like me that drives all my annotation
+1:34:45 from some central location, I can
+1:34:48 basically override what framing
+1:34:50 information is giving me or report what
+1:34:53 framing information is giving me, but
+1:34:55 change
+1:34:56 the way that it's structured so that
+1:34:58 it's matching the rest of my systems.
+1:35:00 So, um it's kind of the same premise as
+1:35:03 roof and ceiling plane defaults. And
+1:35:05 then you can also change, as we saw
+1:35:08 there in just the girts, we can change
+1:35:11 what type of material it's using based
+1:35:13 on other object types or some type that
+1:35:17 you're specifying. So, that's a pretty
+1:35:19 cool one as well. I think I'll do that
+1:35:21 in another video.
+1:35:23 We're on page of 204 and
+1:35:25 and we're on hour and a half. That's
+1:35:27 pretty good.
+1:35:28 Uh I did mention this, library objects
+1:35:30 cut hole in platforms. Um I could
+1:35:34 probably go find a can light to go make
+1:35:36 that recess. It's going to be the same
+1:35:38 process as anything really cutting a
+1:35:41 hole into a light. So, let me actually
+1:35:43 make something real quick here. Let's
+1:35:45 just go into working plan view and let's
+1:35:48 just make kind of a low poly count light
+1:35:51 real quick. Let's just draw a little
+1:35:53 maybe not low poly count
+1:35:56 And what I would if I were going to do a
+1:35:58 low poly count light, I would switch
+1:35:59 this tool to
+1:36:02 the regular octagon tool and do
+1:36:04 something like
+1:36:06 sure, 12 sides or maybe it's 16 sides
+1:36:10 and radius is 2 in.
+1:36:12 Yeah, sure.
+1:36:14 And so that's going to be my light
+1:36:15 fixture, okay?
+1:36:17 And then I can copy paste
+1:36:20 and drag this little node in and then
+1:36:23 that's going to be kind of
+1:36:24 you know, that bevel if you will. And I
+1:36:27 can copy paste and paste whole again.
+1:36:29 And so then I would take this I would
+1:36:31 subtract that that intersection. Don't
+1:36:34 retain the original objects. I still
+1:36:36 should have an original object there. I
+1:36:38 can convert this to um a 3D solid.
+1:36:44 Right? And so this solid could actually
+1:36:46 be tall because we're basically creating
+1:36:49 the cylinder, right? That's going to go
+1:36:50 up into the ceiling. So maybe it's 3 in
+1:36:53 tall, something like that. And then that
+1:36:56 other object that should have been
+1:36:57 inside of there. I think this is it. I'm
+1:37:00 convert this into just You can convert
+1:37:03 it into a face. You could convert it
+1:37:05 into a solid in this case, but let's
+1:37:07 just convert it into a face.
+1:37:09 And that's fine. And then from finished
+1:37:12 floor, let's just pick it up off the
+1:37:13 floor once.
+1:37:14 Now something that's really cool that I
+1:37:16 haven't really shown you yet is we did
+1:37:18 see that when I was modeling an
+1:37:20 extrusion profile, right? A molding that
+1:37:23 we were able to kind of pick this up off
+1:37:24 the floor when we selected it, right?
+1:37:26 Depending on, you know, the orientation
+1:37:28 that it's in. If we're in this upright
+1:37:30 orientation now we're able to specify
+1:37:32 that this is 17 in off the floor. That
+1:37:34 part's really cool.
+1:37:36 Well, I think we can do the same thing
+1:37:38 with these objects. We can pick these up
+1:37:40 off the floor. So if I pick this up off
+1:37:42 the floor, it is showing me reference
+1:37:44 heights to that floor. Now it's showing
+1:37:46 me a billion reference heights because
+1:37:48 it's all those faceted angles,
+1:37:50 but if I see the common one here,
+1:37:53 maybe I could figure this number out.
+1:37:55 I'm not sure.
+1:37:57 In the meantime, I could just open this
+1:37:59 thing up and
+1:38:01 say that its finished floor to bottom is
+1:38:02 3 in.
+1:38:03 And here's that face, right? Here's that
+1:38:06 face.
+1:38:07 And kind of same thing as I can open
+1:38:09 this up and say finished floor to bottom
+1:38:11 is 4 in. Now,
+1:38:13 that's still selected. Let me just do
+1:38:16 something kind of funny as I'm going to
+1:38:17 apply lighting white to it.
+1:38:26 That's one of Chief Architect's default
+1:38:28 source materials to apply light to that
+1:38:31 texture. Now, I did it in plan mode, so
+1:38:32 it's going to apply it to that solid as
+1:38:34 well. I wanted to just do it in
+1:38:36 component mode.
+1:38:38 And so, I should just be able to do
+1:38:40 that, right? Now, something you want to
+1:38:42 check before you create a symbol is you
+1:38:44 want to check what way the surface
+1:38:46 normals are facing. This um This makes
+1:38:50 sense every once in a while. So,
+1:38:51 I'm not going to do that. This is
+1:38:53 getting a little advanced. I'll show you
+1:38:55 that when I create a symbol out of this,
+1:38:56 which we're going to do. So, next thing
+1:38:58 I'm going to do is just choose some
+1:39:00 white material.
+1:39:03 There we go, and we'll spray this. And
+1:39:06 so, now I have my can light. This is
+1:39:08 what I want it to look like. Sure.
+1:39:10 The lens itself is 1 in in, okay? So,
+1:39:13 it's 1 in the body. I get to select both
+1:39:16 of these in my edit toolbar, convert
+1:39:18 selected to symbol, make it an
+1:39:20 electrical symbol, let's show advanced
+1:39:23 options, add it to library.
+1:39:25 And then, in its options, the Well,
+1:39:28 first of all, I want to specify it as a
+1:39:29 light,
+1:39:31 okay? Then,
+1:39:33 in the 3D panel, before when you
+1:39:35 specified something as a light, it
+1:39:37 automatically produced some kind of Z
+1:39:39 position offset. Well, you don't need to
+1:39:42 do that anymore. And once I
+1:39:45 specify that this is ceiling mounted, it
+1:39:47 switches the orientation.
+1:39:50 But, it still did not change the Z
+1:39:52 position offset, which is very nice.
+1:39:55 Where the offset is happening now is if
+1:39:59 you want this to cut floor ceiling, this
+1:40:02 is where we're going to change um take
+1:40:04 the cut depth and change this. In this
+1:40:07 case, I'm just going to do entire
+1:40:08 assembly. We're going to have to modify
+1:40:10 this cut, all right? And then the insert
+1:40:13 depth ends up being What do we have
+1:40:15 here? We have a 3-in height overall
+1:40:17 height, so in the options panel, I
+1:40:19 actually want to change this insert
+1:40:21 depth to be maybe 2.75 in, okay? And let
+1:40:26 me press okay.
+1:40:30 Now, when I place this on a ceiling and
+1:40:32 it's ceiling mounted, it should cut that
+1:40:34 ceiling surface. And look at that, it's
+1:40:37 inserted it into the ceiling and it does
+1:40:39 in fact look recessed. Now, the one
+1:40:41 aspect of this that's a little bit off
+1:40:43 is that it's cutting to the extent of
+1:40:45 the symbol, but because the symbol is a
+1:40:47 cylinder, you're going to have to modify
+1:40:49 that cut. So, when we have this
+1:40:51 selected, this tool used to only exist
+1:40:54 in objects that cut a wall assembly.
+1:40:56 Now, it exists for floor or ceiling
+1:40:59 assemblies as well. And in my case, I'm
+1:41:02 just going to fill it all the corners.
+1:41:04 So, I'm going to set my fillet radius to
+1:41:06 be roughly inch and a quarter, maybe.
+1:41:10 Which should be
+1:41:12 uh good enough for this 4-in symbol and
+1:41:14 fillet all corners.
+1:41:16 And uh it's not quite, so let me go
+1:41:18 back.
+1:41:20 Should be able to go back.
+1:41:22 Select this again. Select that cut.
+1:41:26 And then
+1:41:27 uh
+1:41:28 pa pa pa
+1:41:30 Let's choose this. Let's go 1.75
+1:41:33 instead.
+1:41:38 And now we're going to want to resave
+1:41:39 this back to the library, especially if
+1:41:41 we change how far recessed this is
+1:41:43 inside there. So,
+1:41:45 um you can see as we're moving around it
+1:41:47 kind of rebuilt 3D, and then
+1:41:49 should be able to select this and make
+1:41:51 sure that it's on. And one more thing
+1:41:53 you might not have known about in X17,
+1:41:57 adjust brightness.
+1:41:59 We get to adjust the brightness of
+1:42:01 individual symbols. In fact, it even
+1:42:02 gets better than that. I'll show you it
+1:42:04 just in a second here. Let's get back to
+1:42:06 the top down view where we can see the
+1:42:08 symbol is placed in the ceiling here.
+1:42:10 And let's just do a little bit of
+1:42:12 multiple copy action.
+1:42:15 So, we'll do multiple copy. We'll set
+1:42:17 this at 48 in. Sure, why not? And we'll
+1:42:20 drop a bunch of these in.
+1:42:21 Now, on top of that, I'm going to place
+1:42:23 a little switch, and I'm going to place
+1:42:25 another little switch. And I'm going to
+1:42:27 show you two other features here. I can
+1:42:29 select both of these switches, and now
+1:42:32 in our edit toolbar is let's make a gang
+1:42:34 electrical box. And we're going to bring
+1:42:35 this together, and we're even going to
+1:42:37 show you a representation of a wall
+1:42:39 plate.
+1:42:40 How cool is that?
+1:42:43 So, once we've got this wall plate
+1:42:45 there, I could extend the electrical
+1:42:49 connection tool and just um One thing
+1:42:53 about this tool is I do believe that it
+1:42:55 has a um
+1:42:58 a continuous draw mode. So, if we right
+1:43:00 click this tool, no, it does not. You
+1:43:04 have to actually go into the electrical
+1:43:06 connections tool
+1:43:08 as the active tool, and then right
+1:43:11 click, and now you can do multiple
+1:43:14 connections until you left and right
+1:43:16 click.
+1:43:18 What's really, really cool about this,
+1:43:21 once I get back into our view, and let's
+1:43:24 maybe turn off the emissive emissivity
+1:43:27 of the ceiling, which we can do by
+1:43:29 selecting it and clicking on off.
+1:43:31 That'll turn off my lights
+1:43:34 up there, which is just wild that we
+1:43:35 have that feature now.
+1:43:37 And also, while we're here, we could, in
+1:43:40 fact, move this so that my or span this
+1:43:43 so that my coffer isn't quite so crazy,
+1:43:46 right?
+1:43:48 I I excuse me, my troffer my troffer
+1:43:51 isn't quite so crazy.
+1:43:52 I can move this. Look at that. And so
+1:43:55 wild. Such a wild experience, Chief.
+1:43:58 Thank you.
+1:43:59 When I select this light here, I do
+1:44:03 believe that
+1:44:05 I can dim from this light.
+1:44:08 Well, I thought I could. Let's unganged
+1:44:10 them real quick. Maybe that's just a
+1:44:12 feature for unganged. Yes, when it's
+1:44:15 unganged, you can change the dim and
+1:44:18 brightness of the lights that are
+1:44:20 connected to it. So, if I switch this to
+1:44:22 a physically based mode,
+1:44:26 or maybe if we have a gang but I tab
+1:44:29 into it. Let's try that real quick.
+1:44:31 I'm going to have these gang again.
+1:44:35 And I'm going to select and tab. There
+1:44:38 we go. Select and tab gets me to that
+1:44:41 switch, and I can adjust the brightness
+1:44:44 on those. Let's make sure we got no
+1:44:46 windows in here so we can really see
+1:44:47 these lights turn on.
+1:44:50 All right, so I want you to notice
+1:44:50 something. Those lights aren't actually
+1:44:52 illuminating the scene. And in case you
+1:44:54 didn't know, the reason for that I'm
+1:44:56 going to have to edit all these symbols
+1:44:58 real quick.
+1:44:59 The reason for that is that the surface
+1:45:01 normals are incorrect when I was drawing
+1:45:03 it with a solid. The surface normals are
+1:45:06 facing the wrong way. So, this face is
+1:45:09 technically
+1:45:10 facing up. Before I grouped it together,
+1:45:13 I could have
+1:45:14 basically flipped that face to the other
+1:45:16 side. But you can still do this in our
+1:45:19 3D panel and go invert surface
+1:45:22 direction. That's going to make it so
+1:45:23 those lights are now facing down.
+1:45:26 And they should be lighting the room
+1:45:28 now. They are.
+1:45:30 So, there we go. They're lighting the
+1:45:31 room. Let's get this right up against
+1:45:33 the wall so we can see their effect.
+1:45:38 And the electric connection tool is
+1:45:39 going to go a little haywire, but that's
+1:45:41 okay.
+1:45:43 So, there we are. We're lighting the
+1:45:45 room with those four lights.
+1:45:46 Let's just say for instance, I'm going
+1:45:48 to copy paste and paste
+1:45:51 a little
+1:45:52 light right here.
+1:45:54 This light right here is not connected
+1:45:56 to those other lights.
+1:45:58 All right?
+1:46:00 Let's let's just let this uh rendering
+1:46:02 technique finish itself off. We'll just
+1:46:04 set this to something real low.
+1:46:08 Now, when I go and select this gang box,
+1:46:13 tab into it,
+1:46:15 and change this
+1:46:17 brightness, I can change this down to
+1:46:19 something like 50%.
+1:46:23 And we're dimming all those lights that
+1:46:25 are connected to that switch. Which is
+1:46:27 very, very cool for kind of setting up
+1:46:30 your scene. So, once this finishes,
+1:46:32 yeah, we can see that this light's going
+1:46:33 to be a little bit brighter than those
+1:46:35 other lights.
+1:46:36 Hard to see it right now. I don't have
+1:46:38 enough lights in this scene.
+1:46:44 Hop Hopefully that all made sense. Might
+1:46:46 have to do just a tutorial video on that
+1:46:48 for everybody.
+1:46:50 All right, I think I'm going to go
+1:46:51 through a few other features and then
+1:46:53 we're probably going to have to do a
+1:46:54 part two cuz this is a long live show.
+1:46:56 It's hard to keep everybody
+1:46:57 in here. We're losing some comments, so.
+1:47:00 Comment if you got some questions.
+1:47:06 Ramp slope, so you can input the slope
+1:47:09 and lock the ramp top and bottom height.
+1:47:11 Um this is particularly useful if you're
+1:47:13 trying to do an extrusion along a path.
+1:47:16 Um
+1:47:17 or you're just trying to build a ramp of
+1:47:19 a particular slope would also be another
+1:47:22 great use case for this. Another thing
+1:47:24 that it shows later on in in other
+1:47:26 features is a lot of times people want
+1:47:28 to see this is if I just build another
+1:47:30 floor and I want to show this staircase
+1:47:33 on both floors without having to do that
+1:47:35 whole open below trick, right? Then I do
+1:47:39 believe that we can open this staircase
+1:47:41 up and we have some new plan display
+1:47:45 panel. And we can show hey, display on
+1:47:48 floor above we can actually show always
+1:47:51 and we can even change the way that the
+1:47:54 floor above display shows where it's
+1:47:56 showing the lower half is nothing versus
+1:47:58 an outline. And so let me just press
+1:48:00 okay and show you what this looks like
+1:48:02 when I go up a floor. Look at that. So
+1:48:05 not even needing an open below room
+1:48:09 definition here to show that there is in
+1:48:11 fact a stairway here going downstairs.
+1:48:14 So that's a big one. It's been requested
+1:48:15 a long time. That's particularly useful
+1:48:18 when you're doing some kind of exterior
+1:48:20 thing and you want to show it on
+1:48:22 multiple floors to indicate that we've
+1:48:24 got a floor coming up from grade to a
+1:48:25 deck and we've got a floor, you know, a
+1:48:27 staircase going down from a
+1:48:30 staircase, excuse me, from a deck down
+1:48:33 to grade.
+1:48:36 Um there's a older question. Do you
+1:48:37 think one day it will cut to the shape
+1:48:39 of the symbol? Um I don't think so and I
+1:48:42 Richard, I know exactly why you in
+1:48:44 particular are asking for that. Um I am
+1:48:47 going to suggest that they give us some
+1:48:48 kind of union capability or something
+1:48:50 like that where we can union some other
+1:48:52 shape to conform our cut hole shape. Um
+1:48:56 and that's for some of the really tricky
+1:48:58 cool architectural features he does in
+1:49:00 his designs.
+1:49:03 And yes, that staircase deal is very
+1:49:06 huge. I mean that just that makes a lot
+1:49:09 of things easier. A lot of times when
+1:49:11 we're creating an open below scenario,
+1:49:13 it's it's affecting our rooms in a way
+1:49:16 that create a bunch of joinery issues
+1:49:19 and platform intersection issues that
+1:49:21 are undesirable issues just showing just
+1:49:24 so we can show that's staircase display.
+1:49:27 So, this solves a lot of those issues.
+1:49:41 Although we have so many more. Here is
+1:49:43 another one that I suggest an
+1:49:45 anisotropic uh anisotropic materials.
+1:49:48 We're going to get much more realistic
+1:49:49 looking stainless steel with anisotropy.
+1:49:51 So, um
+1:49:53 I'd say kind of leave that to the
+1:49:55 content development team if you're not
+1:49:57 um knowing exactly what you're doing
+1:49:58 with that, you know, they're going to do
+1:50:00 a really good job of giving us new
+1:50:01 stainless steel materials that are going
+1:50:03 to look really, really
+1:50:05 really good not only in your standard
+1:50:07 rendering technique but also in your ray
+1:50:09 trace rendering technique options as
+1:50:11 well. So, um that's a big one for me.
+1:50:13 I've been asking for that for a couple
+1:50:15 of versions now and um
+1:50:18 let's throw some windows in here and
+1:50:20 let's just throw
+1:50:21 Let's see if they have an a pre-done
+1:50:23 material for that.
+1:50:27 Or maybe we'll just
+1:50:29 We've got an appliance here. We might be
+1:50:30 able to just utilize that appliance.
+1:50:37 So, let's edit this little guy right
+1:50:39 here and so in
+1:50:41 our properties panel, they're calling it
+1:50:43 brushed but that's what, you know,
+1:50:45 anisotropy is going to represent and you
+1:50:47 can load in an anisotropy mask if you'd
+1:50:50 like to. And as I move this slider up
+1:50:53 and we see the preview, it's just going
+1:50:55 to change the way uh
+1:50:57 you know, this is going to be a layman's
+1:50:58 turd term kind of explanation
+1:51:02 going towards this but
+1:51:04 it's changing um the you know, the how
+1:51:08 the
+1:51:09 bounce kind of spreads and disperses
+1:51:11 across the material itself in kind of a
+1:51:14 micro way. So,
+1:51:17 not only that, but we can kind of rotate
+1:51:19 the way that this is, you know, creating
+1:51:21 that bounce. So, you can make things
+1:51:23 that look like a, you know, an old
+1:51:25 school volume knob from
+1:51:27 like
+1:51:29 one of your old Yamaha receivers, right?
+1:51:31 You can kind of get that look or you can
+1:51:33 load in a map and I'm going to have some
+1:51:35 in a circuitry maps that I have in my
+1:51:38 library, but um if I get into my metals,
+1:51:40 we're going to see, you know, just this
+1:51:43 in particular might be able to do some
+1:51:45 funky little movement things into that
+1:51:47 mask, right? So, that when we press
+1:51:49 okay, we throw a little light overhead,
+1:51:52 this will start looking a lot more
+1:51:53 realistic.
+1:51:55 I have to build some out before I can
+1:51:56 start showcasing this, but yeah, we're
+1:51:58 going to start seeing way more realistic
+1:52:00 looking appliances in our kitchens, for
+1:52:02 instance. And so, that's a big one.
+1:52:09 And I think that's all I'm going to go
+1:52:11 over for now. We kind of started with
+1:52:12 project management and we've got a lot
+1:52:14 more to touch on and I'd say just uh
+1:52:16 keep a look out. We're going to, you
+1:52:18 know, go over this also with the Chief
+1:52:20 Experts Group. We're going to take more
+1:52:21 of, you know, a beginner approach to
+1:52:23 reviewing a lot of these items and we're
+1:52:25 probably going to just pick some items
+1:52:26 that we really want to show you how to
+1:52:28 use and we'll do it, you know, from a
+1:52:30 from just a real basis, slow approach to
+1:52:34 taking a look at some of these new
+1:52:35 features and how you might want to use
+1:52:37 them. But, there's some really cool
+1:52:38 things here. Um
+1:52:40 any last comments before I check out?
+1:52:43 Cool. I am starting to sell some of my
+1:52:45 products. You'll be seeing some of the
+1:52:46 updated products. I sell my full library
+1:52:49 for X17s
+1:52:51 um out there already. I have a
+1:52:53 preliminary pro plan that works on X17.
+1:52:57 It has um a few things that will be
+1:52:59 updated specifically for X17, adding
+1:53:02 some new features. It also currently
+1:53:04 works in X16 as well cuz I built it in
+1:53:07 X16 on purpose so that people can kind
+1:53:11 of
+1:53:11 check out the newest features that I
+1:53:13 have and and I'll showcase that in a
+1:53:15 live show at some other point, but
+1:53:17 really just wanted to get dive in on
+1:53:19 this and show you some of the cool
+1:53:20 features coming up and get you excited
+1:53:22 about this. Really like it when the
+1:53:23 community starts using this
+1:53:25 during the public beta phase because it
+1:53:27 helps us get the development team
+1:53:30 answers that they need to make this a
+1:53:32 polished product and give us something
+1:53:34 to be excited about. So, I'm already
+1:53:36 very excited about a couple of these
+1:53:37 features. Can't wait to show you more
+1:53:39 videos about it.
+1:53:47 Cool.
+1:53:48 See you next time.

@@ -1,0 +1,1720 @@
+---
+videoId: hWL4_xM7EfM
+title: Join us for The "Designers Show" by Chief Experts - Designers Show #162
+url: "https://www.youtube.com/watch?v=hWL4_xM7EfM"
+status: imported
+---
+
+# Transcript
+
+0:01 They do keep adding new features. Uh and
+0:04 we are live. Hi everybody. Welcome to
+0:06 the designer show on this lovely
+0:09 November 21st,
+0:12 2025 which soon be 2026.
+0:17 Got to tell you the time is going way
+0:19 too fast. How you doing Renee?
+0:21 >> Good. You do the Thanksgiving?
+0:23 >> Oh yeah.
+0:24 >> Yeah.
+0:25 >> Yep. Yep. Got to do that
+0:27 >> at your house.
+0:29 >> Yeah. I mean, we always used to do
+0:30 families up until I half dozen years
+0:33 ago, things like that. It's just uh
+0:36 everybody's moved around so much, but
+0:37 yeah, we always have my gang here and we
+0:39 have nice time. How about you?
+0:42 >> Uh yeah, I go to my dad's sister's
+0:44 house. I was um adopted by Hispanic
+0:48 father, so we go to his house and then I
+0:50 always complain that they stopped making
+0:52 tamales at Thanksgiving and went for
+0:54 making traditional Thanksgiving. And
+0:56 they're good at it. They're not very
+0:57 good at it, if I'm not going to lie. So
+0:59 if you're watching
+1:00 >> I want t from
+1:02 >> Have you ever done a turkey on a Weber
+1:05 grill with charcoal?
+1:06 >> No, I have not.
+1:08 >> That's the best. If you cook it just
+1:09 right and don't overcook it, it really
+1:11 comes out nice. You you you take the big
+1:14 kettle grill, you put the charcoal on
+1:16 each side of it. You put the bird in the
+1:18 middle with a drip pan underneath it.
+1:21 Close it. Depending on the weight of the
+1:22 bird, two to three hours, you got a done
+1:24 bird. You don't do anything. It's so
+1:26 easy.
+1:27 Yeah. But
+1:29 >> I've seen all these memes and stuff
+1:30 where it's just like, why are we still
+1:32 cooking this really dry bird? Why is
+1:34 this tradition [laughter]
+1:36 only reason we one time a year? Because
+1:39 otherwise no one's going to eat it.
+1:41 >> Yeah. No, I hear you. Um
+1:45 >> turkey on a green egg. I haven't heard
+1:47 that one.
+1:48 >> Oh, that's a big green egg grills. I
+1:51 don't know if they're smoker grills or
+1:53 anything, but
+1:55 um yeah, those are really nice, too.
+1:58 It's kind
+2:00 >> How about you, John? You do?
+2:01 >> How are you?
+2:02 >> What's that?
+2:03 >> You do Thanksgiving.
+2:05 >> Yeah.
+2:07 Our son-in-law from England is the one
+2:09 that cooked it last year and we didn't
+2:11 get to taste it. So, he's cooking it
+2:12 again this year. I guess everybody raved
+2:15 about it. About the turkey.
+2:18 >> All right.
+2:18 >> What do you mean he cooked it and you
+2:19 didn't get any? We were in Florida.
+2:23 >> Oh, you weren't in England.
+2:24 >> Everybody met. Everybody was here. Had
+2:27 Thanksgiving together, but we were
+2:30 >> we were in Florida and everybody was up
+2:32 here.
+2:33 >> Up in northern Minnesota. Your your
+2:35 house. Okay, got it.
+2:36 >> Cool. Anyway, yeah. So, yeah, it's uh
+2:41 it's always fun to get together. I love
+2:42 that day. It just, you know, you just
+2:45 kind of shut down. though. Anyway,
+2:49 welcome everyone uh to the designer
+2:52 show. See, we're getting a few people
+2:53 logging in here. Chad, Anthony,
+2:57 >> I see Albert. Thank you. You're a new
+2:59 member. Appreciate it. Hope you're
+3:01 getting something good out of that.
+3:03 Don't forget to drop comments so I know
+3:05 what the heck you guys want to see.
+3:07 >> Yeah. Cool. All right. Uh today, uh
+3:12 we're open. I mean, this is pretty open
+3:15 show today. See, if you have chief
+3:16 questions, just raise your hand or post
+3:19 the question and we'd be happy to jump
+3:20 into that and cover it. But, uh,
+3:23 sometimes it's nice to mix up the topics
+3:25 a little bit. So, today I thought, let's
+3:27 just see what everybody's feeling about
+3:29 the, uh, industry and what's going on.
+3:33 So, that's, uh, kind of what, uh, I put
+3:36 that survey together for. If you're on
+3:38 the page that has the uh video on it,
+3:42 you should see at the top of the page,
+3:44 take the two-minute survey if you
+3:46 wouldn't mind doing that. It's really
+3:47 quick if you just go through it um and
+3:49 not think too much. It's when you start
+3:52 thinking, it slows it down. Um and fill
+3:56 it out. Uh we got 49 responses so far,
+3:59 so it's hoping to get up to about a
+4:00 hundred, but I only I only put it out
+4:03 yesterday, so I should have put it out a
+4:04 week ago, but uh my bad. But we'll keep
+4:07 it going and uh we'll keep asking people
+4:09 to fill us in and maybe next show we can
+4:12 talk about more of the responses. But I
+4:13 find it's kind of interesting. It's uh
+4:16 giving us some really interesting uh
+4:18 feedback. Renee, did you get a chance to
+4:21 look at the message I sent you or or
+4:24 have you you guys able to log in and
+4:25 look at the responses?
+4:27 >> Uh no. No. I have had I don't know why,
+4:30 but I've had talk about business. I've
+4:32 had just a big influx of emails this
+4:34 last two weeks. So,
+4:36 >> oh, okay. That's good. I think.
+4:38 >> Yeah.
+4:40 >> Cool. Well, we like that business here.
+4:44 >> What were we talking about?
+4:45 >> The survey.
+4:46 >> Something
+4:47 >> I sent you an email here about a half
+4:49 hour ago with kind of highlighted some
+4:52 of the results from the survey, but
+4:53 we'll go through it, so don't worry
+4:54 about it.
+4:55 >> Um, but anyway, those if you filled it
+4:58 out, thank you. If you haven't filled it
+4:59 out, please go ahead and do it. Again,
+5:01 it just doesn't take long. You do during
+5:02 the show here. Uh, and
+5:06 one of the questions in the survey,
+5:08 which I'll get to, is kind of, you know,
+5:10 and part of the reason for this is to
+5:12 give us some fodder for future designer
+5:16 shows. And we've been doing this now for
+5:19 over five years. We're on show number
+5:24 161. Is that what it is?
+5:27 Um, that's kind of cool actually that we
+5:30 keep doing this. I know some of you love
+5:32 it. Thank you very much for attending. I
+5:34 mean, we do appreciate it. Um, you know,
+5:36 we do it for fun. We do it for
+5:39 marketing. We do it to give back to the
+5:41 industry. I mean, there's all sorts of
+5:43 reasons why we do this. We don't make
+5:44 any money on it other than, you know, if
+5:46 you hire us to do things. So, and again,
+5:48 we do appreciate that, too. So, we're
+5:51 here if you need us. I guess that's the
+5:53 bottom line. Um, [clears throat]
+5:56 quick commercial. Uh if you let me go
+6:00 ahead and share my screen.
+6:04 Okay, wrong button.
+6:05 >> Well, let's give them uh give them a
+6:07 prompt or something to get the chats
+6:09 rolling about uh today's show, too. What
+6:13 um what we're just talking business,
+6:15 talking anything.
+6:17 >> Um it's kind of anything.
+6:19 >> Okay.
+6:20 >> So, by all means, just chime in with
+6:23 questions. Again, if you have chief
+6:25 questions, by all means. Uh, I'm going
+6:28 to go through the survey questions here
+6:29 in a little bit and show you guys the
+6:31 results. That may prompt some questions
+6:33 as well or some comments. So, by all
+6:36 means, please uh please stay with it.
+6:38 But, uh, let me just head over to Chief
+6:40 Experts and real quick, I'll u
+6:47 get back to the homepage. So, um,
+6:51 I was we were going to do a class first
+6:53 week of December and it's like I moved
+6:55 it till January. Uh, [snorts]
+6:58 you know, not many people are signing up
+7:00 and I look at my calendar, it's like
+7:01 it's the week after Thanksgiving. That
+7:03 was really stupid. Not a good time to to
+7:05 to set up a class. So, anyway,
+7:08 >> people are away from their work for two
+7:09 two weeks basically by the time they get
+7:12 back. So, yeah.
+7:13 >> Yeah. Yeah. So, I just it didn't dawn on
+7:16 me because normally Thanksgiving is like
+7:17 the third week of November, not the last
+7:20 week of November. So, this year it's
+7:22 later for some reason and I'm not sure
+7:24 why, but anyway, always the fourth
+7:25 Thursday.
+7:27 >> Yeah. So, in Minnesota here, we've got
+7:29 that coming up in January. Come down and
+7:31 you'll be indoors the whole time. Uh you
+7:33 can It's a five minute shuttle ride from
+7:35 the airport. Well, 10 minutes I guess.
+7:37 And uh it's free shuttle. You get to the
+7:39 hotel, you're there. If you want to go
+7:40 to the Mall of America or anything like
+7:42 that, which is all indoors and just
+7:44 gorgeous, beautiful
+7:45 >> and they have
+7:46 >> come on down and you can do that, too.
+7:48 >> Shuttles from the hotel for that, too.
+7:50 >> Yes. Free. So, and again, five minute
+7:52 ride maybe. It's really close. So, it's
+7:54 really a nice location. Nice hotel,
+7:56 cheap rooms, nice hotel. That's the key.
+8:00 Cheap rooms. So, that's good
+8:02 combination. Uh, and the people are
+8:03 there are really nice. So, we've we've
+8:05 been doing uh classes there for years.
+8:07 So, John and I like doing that.
+8:10 switched our mode of uh video. Now we're
+8:12 not doing I bought two 75 inch TVs. That
+8:15 work great. It was really a nice way to
+8:18 It's so nice to teach Chief on a big TV
+8:20 versus a projector. It's much clearer.
+8:23 You can see it easier. It's faster.
+8:25 Colors are better. I mean, just
+8:26 everything about it was great. So
+8:28 [snorts] anyway, that's kind of cool.
+8:30 Anyway, uh check it out if you if you're
+8:32 interested. We'd love to have you there.
+8:34 And then I like those TVs so much I went
+8:37 and bought me a 65 inch for a monitor
+8:40 yesterday. I haven't set it up
+8:41 >> for a monitor.
+8:43 >> For a monitor. Yep.
+8:44 >> Put it 7 feet away from me.
+8:48 >> Well, that's what Yeah, the 75 in 8 8t
+8:51 is the recommended distance,
+8:53 >> right?
+8:53 >> So, that worked well. And the pro uh
+8:56 >> and by the way, Pro Academy is live. So,
+8:59 some of you on this call are part of the
+9:00 pro academy. Uh thank you for being
+9:02 there. I'd love your feedback. Uh if you
+9:04 got any so far, we've had five live days
+9:08 so far since it's been live u since
+9:10 we've gone live with the new pro academy
+9:12 and we've been having a ball. I've
+9:15 really been enjoying these live classes
+9:17 that we've been doing and we go on four
+9:19 times a day, four sessions a day, twice
+9:21 a month. So you're going to get eight
+9:23 classes, eight eight Q&A classes. We
+9:27 we've even had some really great rabbit
+9:29 hole classes. I mean, we've been
+9:30 exploring things and having fun. So, by
+9:34 all means, please uh please check it
+9:36 out. It's it's it's u 645 a year. You
+9:40 get access to everything, all the
+9:42 classes or all of the live group M
+9:45 meetings we have. You get all the
+9:47 resources that are part of the Pro
+9:49 Academy. And it's a lot of content
+9:51 there. You get templates, you get
+9:52 keystrokes, you get whole bunch of stuff
+9:54 and we got a lot more things coming. So,
+9:56 please check it out. Love to have you in
+9:58 the Pro Academy. Um John and thanks.
+10:01 Yeah, it's been fun having you there.
+10:03 You you do such a great job.
+10:05 >> So, keep it up.
+10:07 >> By by the way, guys, if you're looking
+10:09 for some training um for yourself or for
+10:13 your company, give John, me or Renee a
+10:15 call or Kevin or Robin um whoever you
+10:19 think you might feel more com most
+10:20 comfortable with. We'll come and help
+10:22 you do training for your company, too.
+10:25 So, we're all open to doing that. And be
+10:28 sure to
+10:30 >> go ahead. There's a there's a comment
+10:31 that says, "Love to see you in New
+10:32 England." I'm wondering what city would
+10:34 be best for that comment.
+10:37 >> New England
+10:38 >> for a live class.
+10:41 >> We're not We're talking about out east
+10:43 here, right?
+10:43 >> Out east. Yep. New England.
+10:45 >> Not not England.
+10:46 >> New England.
+10:47 >> Okay.
+10:49 >> Although I wouldn't mind going to
+10:50 England. That'd be kind of cool.
+10:51 >> Yeah.
+10:52 >> All right. So, with that, let's talk
+10:55 about our our survey. We got I see we
+10:58 got a few more responses. again. Thanks
+10:59 for doing that. If you've never used
+11:02 >> Just in case you missed it there, Dan
+11:04 doesn't actually recognize New England
+11:05 as part of the United States.
+11:08 >> I don't
+11:10 I think he missed the new part.
+11:14 [snorts]
+11:16 >> Okay, I got a lot of things going on
+11:17 here. Tell me what I missed.
+11:21 >> You were just confirming that I was
+11:22 talking about New England and not
+11:24 England. And Rene's picking on you.
+11:26 >> I got it. which maybe it's a pick on Dan
+11:28 Day, right, Renee?
+11:29 >> Yeah,
+11:32 >> I can handle it. Go ahead. Bring it on,
+11:34 you guys. [laughter]
+11:37 Um, all right, let's talk about our
+11:39 little old uh our little old survey that
+11:41 we did. Um, I didn't ask for any
+11:43 information other than emails. So, guys,
+11:45 thanks for putting that in. So, it was
+11:48 11 questions, nothing major. Um, what
+11:51 best describes your role? And and again,
+11:53 this is Google Forms, so you can go to
+11:56 Google Forms, [snorts] set this up. It's
+11:58 super super easy. Um, so if you want to
+12:01 send a survey to your clients, to your
+12:04 subs, anybody. Um, and get some feedback
+12:07 from them, this would be a great time to
+12:09 send some send a survey to your clients
+12:10 and say, "Hi, how's it going? You got
+12:12 any, you know, I don't know, we should
+12:13 talk about that sometime. What would
+12:15 make a good survey?" Let's just run
+12:16 through this. Um, and and this is all
+12:18 part of the responses that come after
+12:20 the questions.
+12:22 So um most of most we've had again 51
+12:25 responses. Most of you are uh designers
+12:27 architects. This was a you know multiple
+12:30 choice pick as many as apply to you. So
+12:33 again mostly in the design phase. I'm
+12:35 going to jump to the last question real
+12:37 quick because I going to put it in at
+12:40 the end. What age group are you in? All
+12:43 right. So we got mostly
+12:47 62% of you guys are 61 and older. So,
+12:51 um, again, you've been doing this a
+12:53 while. You know what's going on with
+12:56 your business. Again, thanks for sharing
+12:58 that information. Um, got a few younger
+13:01 than 31, three of them in the 3140.
+13:06 So, I'm
+13:06 >> surprised at that 3140. That's certainly
+13:09 new.
+13:11 [snorts]
+13:12 >> Um, this one.
+13:13 >> Yeah.
+13:14 >> Yeah. Well, again, it's it's only 51
+13:17 responses, so it would be nice if we had
+13:20 500 responses. We could get a lot more
+13:22 out of that.
+13:23 >> This is one of the things about doing
+13:24 surveys. It's like, you know, when
+13:26 people say, "Yeah, you got a this
+13:28 response on this survey or this is how
+13:30 you're rated or what." I mean, you got
+13:32 want to ask question, well, how many
+13:34 people did the survey? Where was it
+13:36 done? Who did it? Um, you know, was it
+13:39 10 people that answered the questions
+13:41 and 90 nine of them answered one thing?
+13:42 So you got a 90% approval rate or dis
+13:46 whatever it surveys can be so weird. But
+13:48 there you can also gather a lot of cool
+13:51 information out of them. So where you
+13:53 located? Um this I must someone added
+13:57 spots here. I'm not sure who did that.
+13:59 Um so I don't know if that was something
+14:03 was set up where people could add their
+14:04 own. I have to go look at that question.
+14:06 It was typically it was only these top
+14:10 five were the first ones. Um, so but you
+14:13 can see, you know, it's pretty even mix
+14:15 all over the place. So that's not a big
+14:17 deal. What's your market size? I was
+14:19 just curious. Large, medium, small. Uh,
+14:22 you know, when you talk to someone, a
+14:24 designer in a rural smaller town, rural
+14:28 rural area, that's a hard word to say.
+14:30 Uh,
+14:32 um,
+14:34 their comments are going to be different
+14:35 than people in large city. you know,
+14:37 someone living in uh, you know,
+14:39 Manhattan, New York, versus, you know,
+14:42 someone living in, you know, sleepy,
+14:44 Minnesota, where I grew up, town of
+14:45 3,500 people with a great farm economy.
+14:48 You're going to get different results.
+14:50 So,
+14:50 >> yeah. And that in a big city, your
+14:53 market might be one suburb. Where I
+14:56 live, my market is my market is [snorts]
+14:58 75 mile radius.
+15:00 >> Yeah. [laughter]
+15:01 >> Did you ever go into Canada, John? I
+15:03 mean, you're that close to the border.
+15:05 >> I did. I did. built a house right on the
+15:07 border
+15:08 >> with half on one side, half on the
+15:10 other. How'd that work?
+15:11 >> You know, right on the border being like
+15:13 within a couple miles.
+15:15 >> That's a That's a joke. When if the
+15:17 plane If the plane crashes on the
+15:20 border,
+15:21 >> where do you bury the survivors?
+15:23 >> Which side do you bury the survivors?
+15:24 Yeah. Um,
+15:27 some people have to think about that one
+15:29 for a minute. Um, all right. Overall,
+15:32 how healthy does your local market feel
+15:34 right now? Um, nobody's down here in one
+15:38 one being the worst, five being pretty
+15:40 good. So, everybody's kind of in the
+15:42 middle, you know, so that that Yeah. And
+15:46 again, it's one of those things. How do
+15:48 you know? You know, we're all kind of
+15:51 >> that's that's basically a normal market
+15:54 correction because, you know, we boomed
+15:56 during COVID, you know.
+16:00 So
+16:00 >> true, true. We might have said that.
+16:02 Yeah, we're we're more toward the five
+16:04 than the three,
+16:05 >> right?
+16:05 >> So, but I'm glad to see that people
+16:09 aren't feeling that it's really bad.
+16:12 >> Okay.
+16:13 Few people, six people are, you know, or
+16:17 two people, no, six people,
+16:19 not so good. So,
+16:21 >> I mean, it'd be interesting to know if
+16:23 if there's some way to connect what
+16:24 market they're in that are feeling that.
+16:28 >> Yeah. and how long and how long they've
+16:30 been in business and things like that if
+16:31 those are factors in that
+16:33 >> true
+16:34 >> reality.
+16:36 Again, yeah, there's so many different
+16:38 there's so many different things in a
+16:40 survey like this. Yeah, exactly like
+16:42 you're saying, John, you know, who are
+16:44 the people that are answering these
+16:45 questions.
+16:46 >> Uh so we can just kind of go by overall
+16:48 and see where it goes. So overall, um
+16:51 compared to 12 months ago, your leads
+16:53 and choirs are up, you know, way down,
+16:56 way up. So, we've got, you know, the
+16:59 green and purple are way up or, you
+17:02 know, slightly up and way up. That's
+17:03 good. And about the same. So, we're
+17:05 getting, you know, a good
+17:08 2/3, not quite 2/3. Um, are okay. I
+17:13 mean, they're they're still hanging in
+17:15 there about where they've been. Uh, it's
+17:17 the ones that are down way down or
+17:19 slightly down. Yeah, we might want to
+17:22 chat about why why are your leads down?
+17:26 Are you not marketing? Uh is it kind of
+17:29 in your area just that bad? Is there
+17:32 more competition?
+17:34 I don't know what other things could be
+17:35 affecting that. You guys have any
+17:37 comments on that?
+17:38 >> Well, like for my area, if if it's a
+17:41 place where people have second homes
+17:43 like on the lakes and stuff like that,
+17:45 people might just be staying home or
+17:47 >> That's true.
+17:48 >> Not not looking at coming north. I mean,
+17:50 a lot of my clients would have been are
+17:52 baby boomers, so they're they're aging
+17:54 out of that. That's true, too.
+17:56 >> So, that could be
+17:59 >> So, what are the what are the factors
+18:01 that affect those numbers?
+18:02 >> So, that's always a challenge.
+18:05 >> Um,
+18:07 compared to 12 months ago, your backline
+18:09 of work is way down. And there again, I
+18:12 don't want to see that one or slightly
+18:14 down. Same pretty much the same uh as
+18:17 the other one. Your backlog is um is
+18:22 down. So, I I talked to someone
+18:25 commented here recently that um you know
+18:29 they got 10 projects going and 10 in the
+18:31 works. So, their backlog's way up there.
+18:36 >> And some questions I'd want to know on
+18:37 that one. It would be good to ask are is
+18:40 my backlog down because I caught up or
+18:43 did my backlog go somewhere else or
+18:47 >> you know did leave just go away because
+18:50 they found somebody else to do the work.
+18:52 You know,
+18:53 >> good question. Yeah. How do we know?
+18:55 >> So, maybe maybe nothing's really changed
+18:57 there other than
+19:00 more people are available now to get the
+19:02 work done.
+19:02 >> Well, that could be. Or, you know, as a
+19:04 situation like when I was doing
+19:05 construction, um I was really good at
+19:08 working myself out of work because I'
+19:11 I'd get a few jobs, you know, this is
+19:13 back many years ago when I was in my
+19:14 20s. Um and you you get a job, you're
+19:18 going to go out and build it. You got
+19:19 work to do, right? And then you get near
+19:21 the end of the job and you start
+19:22 thinking, "Oh, where's my next job?" And
+19:25 all a sudden, oh, I better get my
+19:26 marketing going again. So, took me a few
+19:29 years to get that figured out that,
+19:30 yeah, I should probably keep my
+19:31 marketing going all the time.
+19:33 >> Yeah.
+19:33 >> And and and those of you out there that,
+19:35 you know, rely on word of mouth for all
+19:37 of your marketing.
+19:40 That's cool that you can say that, but I
+19:43 would emphasize the fact that you should
+19:45 make sure your branding is, you know,
+19:47 looking good and that you're getting the
+19:48 word out to your past clients so that
+19:50 they know that you're still there. And
+19:52 so, you should be doing something to
+19:54 keep that, you know, keep your name in
+19:57 front of people because people will
+19:59 forget.
+20:00 >> So, how confident you feel about your
+20:03 business in the next 12 months? [snorts]
+20:06 Yeah, pretty mixed there. But again,
+20:09 we've got, you know, [snorts]
+20:13 Yeah. So, we got 52 responses. We got
+20:16 nine, 22, we got 31. About half, not a
+20:20 little more than half are feeling pretty
+20:21 confident about it. Some are just kind
+20:23 of in the middle, you know, see what
+20:25 happens. And then a couple that are 10
+20:27 of them that are concerned. They're, you
+20:30 know, it's not feeling too good about
+20:33 it. And again, so many factors uh will
+20:37 affect all of that. What are your top
+20:40 two concerns right now?
+20:42 This one, client's nervous about the
+20:44 economy and rates, interest rates. So,
+20:47 that one is that's a big one. Um and
+20:50 this one was, you know, select the top
+20:52 two from the list that you're concerned
+20:54 about. And so, secondary is um rising uh
+20:58 material costs.
+21:00 And then we get down to too much work. I
+21:02 mean, people are not good leads and
+21:04 they're getting burned out. So, that's
+21:06 not so cool. Not so much about rising
+21:08 labor cost, finding keeping good people
+21:11 and in, you know, the cash flow, getting
+21:12 paid on time. Uh, those are Yeah. So,
+21:16 it's economy, the big one that's on the
+21:19 news all the time. So, and I don't know
+21:24 about that. Maybe we should do a show
+21:26 again having Jolene on talking about
+21:29 finding good leads, how to generate good
+21:31 leads. And
+21:34 I was thinking about this before the
+21:35 show. Um, our friend Dan out in Maryland
+21:39 that puts on the class out there.
+21:41 >> Yep.
+21:42 >> I get I got on his mailing list and I
+21:44 get stuff from him at least once a month
+21:46 that he's doing a class on educating
+21:49 homeowners.
+21:50 >> Exactly. You know, maybe we could get
+21:53 him to come on out and talk about what
+21:54 he's doing to generate good leads.
+21:56 >> Well, that that's a good idea. I mean,
+21:58 he he has a nice office. He brings
+22:00 people in, has I don't know what he
+22:02 serves, wine and cheese or something
+22:03 like that. Um, and they just talk about
+22:06 different kinds of remodeling projects.
+22:08 >> I've got a guy here in Minneapolis that
+22:10 does the same thing. They've got
+22:11 actually they've got four different
+22:12 showrooms around the Twin Cities. They
+22:14 their market is more the medium income
+22:18 uh older houses,
+22:20 >> right? And so they're in highly
+22:22 populated areas, but they they're
+22:24 marketing heavy to their past clients or
+22:26 and you know, future clients, too, about
+22:28 the classes that they do. And
+22:31 >> and it doesn't [clears throat] have to
+22:32 be a live class. It doesn't have to be a
+22:33 class at all. It could just be an email
+22:35 that you send out once a month.
+22:37 >> Exactly.
+22:38 >> Just something to keep your name in
+22:40 front of your past clients.
+22:41 >> Exactly.
+22:42 >> And any potential future leads.
+22:44 >> Yeah.
+22:45 >> So, it it works. I mean, I still
+22:47 remember back in the day when I uh was
+22:50 in business with my brother Doug and um
+22:53 this is back in the late 70s. Um we did
+22:56 a fire we used to do fire remodeling.
+22:58 So, we did this big project for this
+23:00 this guy Frank and his wife and Frank
+23:03 Hall. Nice guy, older guy.
+23:07 Anyway, we did nice job. We're great
+23:09 friends with him. And five years later,
+23:11 I'm driving past his house and he put a
+23:12 new deck on the back of his house and I
+23:14 stop and say hi and say, "How come you
+23:15 didn't call us?" He says, "Oh, I forgot
+23:18 about you guys. Didn't know you did
+23:19 decks." You know, like there you
+23:22 >> Yeah. So, I have a question for you.
+23:25 >> Yeah.
+23:25 >> What are what are you young people
+23:27 responding to as far as it comes to
+23:29 marketing?
+23:31 >> Do you respond to that kind of thing
+23:32 that we've been talking about or is it
+23:33 something different?
+23:35 I [sighs] man the attention span people
+23:38 nowadays just you got five seconds to
+23:42 sell someone in my generation and below
+23:45 right
+23:45 >> nowadays you know that's a big thing um
+23:49 my approach is always
+23:52 I'm not I'm no longer a design build
+23:54 used to be and and so I have the
+23:57 opportunity to garner trust because I
+24:00 have no skin in the game is the
+24:02 perception from any so if I get a lead.
+24:05 This is talking about if I get a lead,
+24:08 um, I now have the opportunity to set
+24:11 their mind at ease about what it is to,
+24:14 you know, if it's a first-time home
+24:15 buyer and it's, so it's a first-time
+24:17 remodeler, set their mind at ease about
+24:20 the financial aspect of it, about what
+24:22 this does to the equity of the home, the
+24:23 various different programs they have
+24:25 available to them. They can pull a
+24:27 helio, they can, you know, do whatever.
+24:30 And so I I will talk about money with
+24:32 clients. I will say, "How are you
+24:34 getting this funding?" I will ask about
+24:37 um I've told you guys this before, but
+24:39 I've talked people out of a kitchen
+24:40 remodel to do an addition just to build
+24:43 equity into the house so that they could
+24:45 get the kitchen remodel later on. And
+24:48 and so I have those conversations and
+24:50 those conversations usually land people,
+24:54 you know, like they feel like they have
+24:55 their feet on the ground finally. They
+24:56 have a better understanding of how this
+24:58 can all work and and be easier for them.
+25:02 Whereas before, you know, my generation,
+25:04 we are we're first-time home buyers.
+25:06 We're first-time remodelers. So, we have
+25:09 all these questions that that don't get
+25:11 answered. They really don't, you know,
+25:14 and so if you have answers for that
+25:16 generation, that's awesome because then
+25:18 we're not just sitting there assuming
+25:20 it's as bad as it was buying a home
+25:23 where you thought you were done with all
+25:26 the deposits and all the payments and
+25:29 and all the process and paperwork and it
+25:31 just keeps hitting you because no one no
+25:33 one tells you that. Maybe. Right. So
+25:36 maybe there are a lot of questions. So
+25:37 you can be the question answer
+25:40 in that regard,
+25:41 >> which you should be anyway. So yeah, as
+25:43 a as a designer that you're
+25:45 >> I forget the guy's name. I forget the
+25:47 guy's name, Dan. I think his first name
+25:48 is Dave and he might be in your
+25:50 mastermind, but he he did a program that
+25:52 I subscribed to years ago about
+25:56 going get being a a property not a
+25:59 property manager necessarily, but a
+26:02 property [clears throat] you somebody
+26:04 that you can talk to to have a vision
+26:06 for your property for the next two
+26:07 years, for the next five years, for the
+26:09 next 10 years.
+26:11 >> Yeah. Um Yeah, that would be Ed. He's a
+26:14 um he manages the project not as a he'll
+26:18 come in at different he'll either manage
+26:21 the whole project as a you know project
+26:24 manager or he'll be a consultant for you
+26:26 to help you manage your project and all
+26:28 the people involved with it. So he gets
+26:30 involved in different ways. Um
+26:32 >> this is this what I'm talking about is a
+26:33 little bit different. It's something
+26:37 >> where you get you have a client that has
+26:39 say they have a lake piece of lakes
+26:41 shore property and they they have things
+26:43 that they want to do to develop it. So
+26:45 you become their their uh advisor on how
+26:49 what's the best way to go about this,
+26:50 >> right?
+26:52 >> Over over a period of 10 or even 15
+26:54 years.
+26:56 >> Yeah. David Loopberg used to he still
+26:59 does a book called the emotional
+27:00 homeowner.
+27:02 uh that's a book where he talks about
+27:04 you know dealing with homeowners and
+27:05 then he did have a program going to
+27:07 where he you could he had a lot of
+27:10 information that would work for that. So
+27:12 I don't know if he still does that or
+27:14 not but yeah that's our job educate
+27:18 those clients.
+27:19 >> Anthony mentioned owners advocate seems
+27:21 to be a niche market that needs to be
+27:24 filled in our in his area.
+27:26 >> Yeah I could see that. Yeah, I mean I
+27:28 when I go this is all public
+27:30 information. You get pulled comps in the
+27:31 area so you can kind of get an idea of
+27:33 where the ceiling cap is for any
+27:36 >> project and and then
+27:39 >> you know if the owner's dreaming big
+27:40 then you get to say hey now you got to
+27:42 get your neighbors to think the same way
+27:45 because you can lift a whole block all
+27:46 together. I mean there there used to be
+27:48 the show on HGTV uh called Curb Appeal.
+27:51 You ever see that?
+27:54 the the theory with curb appeal was
+27:56 we're going to go spend a bunch of money
+27:57 on one house but then we're going to
+27:59 spend just a very little amount of money
+28:01 on the two neighboring houses and now we
+28:04 have lifted the value of three homes on
+28:06 a block and over time and through
+28:09 compounding and also just influence the
+28:12 other neighbors will then go build on
+28:14 that block as well and before you know
+28:16 it whole block's worth a little bit
+28:17 more.
+28:17 >> Yeah. um
+28:21 >> underlying concepts are there. You can
+28:23 go see what kind of equity is in any
+28:26 house. You can go see, you know, what
+28:29 the comps are in the area. You can get
+28:31 an idea for the area. Um, if you show
+28:34 up, and all this is assuming you've
+28:37 already got a lead, so I'm skipping a
+28:38 step, but if you show up and you already
+28:41 have an, you know, pretty educated
+28:44 knowledge about where you're building
+28:46 and where you're designing for,
+28:48 >> I mean, that that really shows up to a
+28:50 client. They have more confidence in
+28:52 you. And it's not about being
+28:55 >> this isn't a sales pitch thing. This is
+28:57 knowledge that's going to benefit
+28:58 everyone. So does in fact feel very
+29:01 genuine that you have this knowledge and
+29:02 that you can have these conversations
+29:04 with people. Yeah,
+29:05 >> this is something that you know this is
+29:06 Kevin
+29:08 >> that's like that's exactly what Kevin
+29:10 does. He wants to know you, right?
+29:13 >> Um and in regards to getting leads,
+29:17 that's a different ball that's a
+29:18 different ball game. Um do you guys use
+29:22 lead generation services? on. I mean, we
+29:24 around here we have Angie's List, Yelp,
+29:27 um, House Pro.
+29:29 >> I I used them for a little while and
+29:31 every single lead I got was over 75
+29:33 miles away.
+29:35 >> Yeah. Not unqualified leads,
+29:37 >> right?
+29:37 >> Right. Yeah. Checking up with um with
+29:41 past projects. I mean, that's a big one.
+29:44 >> Um,
+29:45 >> yeah. Networking with realtors. Yeah.
+29:48 When I was in design build, um, we gave
+29:51 incentives in people's contracts to let
+29:54 us show their property two times after
+29:57 the project is done to new prospective
+30:00 clients. Um, so we would give them a
+30:02 discount or we would upgrade some
+30:04 install for them if they agreed to do
+30:07 that, you know, future date. And I mean
+30:10 that was huge because then you take um a
+30:13 new prospective client that I mean this
+30:15 is higher higherend residential where
+30:17 they seriously have some concerns about
+30:19 your capabilities as a company and and
+30:21 then being able to walk them and tour
+30:23 them through a project that's complete
+30:25 and show them your work. Um that was an
+30:27 easy easy sell.
+30:29 >> Yeah. Cool. I do have a guy I was just
+30:34 talking to the other day that's using
+30:36 house for his marketing. He's been doing
+30:38 it for years. I guess he he's
+30:40 subscriber. He pays 300 a month or
+30:42 something like that. But he said the
+30:43 return is fabulous. I mean, he's been
+30:45 gets all a lot of work from house.
+30:48 >> I haven't delved into houses and all
+30:50 since they came out. I mean, first few
+30:52 years they were just, you know, smoking
+30:54 hot way to get new leads.
+30:56 >> It depends on where you It depends on
+30:58 where you live because I did the same
+31:00 thing for probably three years. I gave
+31:02 them
+31:03 >> nine grand or better over three years.
+31:06 Never got one lead out of it.
+31:08 >> Oh, ouch.
+31:08 >> Advertise. They don't advertise where we
+31:11 are.
+31:11 >> That's smarted. Yeah.
+31:14 >> Wow.
+31:14 >> So, it all depends on where you live if
+31:17 if it's going to be successful without
+31:19 with them or not.
+31:20 >> Yeah. You'll you'll live and learn, huh?
+31:24 >> Company always did really well and we
+31:26 always thought it was just that he had a
+31:29 tagline and it was um construction with
+31:32 integrity.
+31:33 And for some reason, I felt like that
+31:36 just was the difference maker.
+31:38 >> Yeah. Yeah.
+31:40 Anyway, well,
+31:41 >> he still gets he's 80 years old, he
+31:44 still gets leads and he goes and sells
+31:45 them.
+31:46 >> That's cool.
+31:49 Yeah. Half time if you just show up,
+31:50 you're going to get the job because the
+31:52 other guys aren't going to show up. Um,
+31:54 >> we got we got to pin this comment from
+31:56 from Paul.
+32:00 >> Easiest way to build these is do really
+32:01 good work. Yeah,
+32:03 >> that's You got it, bud.
+32:04 >> You got it.
+32:05 >> Yeah. Yeah.
+32:07 >> How about Chad? What What did you say no
+32:09 way about? Can you clarify what you're
+32:11 talking about there, Chad?
+32:14 >> I'm curious about that one, too.
+32:16 >> Yeah.
+32:18 Um, anyway, there was one question there
+32:20 where people could put in their own
+32:22 answer. What would help you feel more
+32:24 confident about the current economy? We
+32:26 got a kind of a big a good mix.
+32:29 lower interest rates kind of stood out.
+32:32 Um,
+32:33 government, you know, politics was on
+32:37 the list in a pretty big way. We had
+32:39 some, you know, dumbass Donnie and, you
+32:42 know, tariffs were on the list here. Um
+32:45 and again we that was covered in the
+32:47 question that tariffs were uh that
+32:50 um so it it's yeah it's just
+32:54 [clears throat]
+32:55 you know so much of this is what we see
+32:57 in the news what we hear in the news you
+32:59 know and what is going on really. Uh,
+33:03 so,
+33:04 >> you know,
+33:04 >> it's kind of Yeah,
+33:06 >> some of that some of that I was talking
+33:07 to my daughter,
+33:10 uh, one of my daughters the other day
+33:12 about this and in a lot of ways where
+33:14 they're at right now isn't a whole lot
+33:16 different than it was in the early 80s
+33:18 when interest rates were 15%.
+33:21 And I was making five bucks an hour.
+33:24 >> Yeah.
+33:24 >> You know,
+33:25 >> Yeah.
+33:26 >> I mean, it's not a whole lot different.
+33:27 Sure, property was $90,000, but I still
+33:31 it was still way out of reach. I could
+33:32 never even dream if it would have stayed
+33:34 that long.
+33:34 >> It's so easy to say,
+33:37 >> you know, it's so easy to say I should
+33:38 have bought that land back then or
+33:40 bought that house back then.
+33:42 >> But, you know, you think about it, it's,
+33:44 you know, we're making a lot more money
+33:45 per hour now. You know, what with what
+33:47 we do and
+33:49 >> put that relative to the price of where
+33:51 things are now, it's still just as tough
+33:53 to to do those kinds of things. So,
+33:55 yeah, exactly. I know what you're
+33:56 saying, John. It does. It's tough all
+33:59 the way around. Anyway, this one was a
+34:02 good one, too. Um, you know, what were
+34:04 the most, you know, this was kind of a,
+34:06 you know, loaded question to help us.
+34:09 What should we be talking to you guys
+34:10 about? Of course, you know, if we're
+34:13 going to send a survey to a bunch of
+34:14 Chief Architect users, okay, well, we
+34:17 could maybe expected that you want to
+34:19 learn more about Chief Architect. So,
+34:21 cool. We'll keep doing that. Uh and
+34:23 again if you want to get really get deep
+34:25 into the program or want to learn it
+34:27 from scratch, come to Pro Academy. We'd
+34:28 be glad to we can help you there. Um
+34:31 finding design help. Well, actually the
+34:34 second most
+34:35 uh popular answer was doing profitable
+34:40 design services. And again, what does
+34:43 that mean? You know, what is profitable?
+34:46 uh
+34:47 you know if if if you're offering design
+34:49 services as part of your remodeling
+34:52 company are you charging for your design
+34:54 services and are you making enough are
+34:56 you making enough money in your design
+34:58 services to make that a profit center I
+35:00 mean if you guys have been following me
+35:02 for a long for a while now you know I I
+35:04 preach heavily about yeah it's got to be
+35:06 a if you're in construction your design
+35:09 has to be a profit center
+35:11 >> I never thought I'd be doing this
+35:13 because traditionally I'd made more
+35:16 money um giving a bided range, but I'm
+35:18 actually been working on that per hour
+35:21 lately um because of the consistency of
+35:25 it.
+35:26 >> So,
+35:28 just the message that I'm saying is
+35:31 don't be afraid to switch things up if
+35:33 something might work better for in the
+35:36 >> or mix and match. You know, maybe do
+35:38 some projects, you charge hourly for
+35:40 some projects. Um, so yeah, that I'm
+35:43 mostly by the hour, but yeah, I do mix
+35:45 and match. You know, a lot of what I do
+35:47 is bits and pieces of coaching and
+35:48 helping people with plans. So that's got
+35:50 to be an hourly rate.
+35:52 >> But I'd be very curious to see um how
+35:55 many people in these censuses have a
+35:58 really good grip on on their numbers?
+36:00 Um, are they are they a business where
+36:03 they're the owner and and they don't
+36:05 necessarily do the books, so they don't
+36:08 necessarily know their historical data,
+36:10 or are these people, you know, single
+36:13 sle proprie, single shop owner kind
+36:16 [clears throat]
+36:17 >> and do their own books and know exactly
+36:19 their numbers?
+36:20 >> Yeah. I I get plenty of clients that
+36:22 are, you know, contractors that have
+36:24 design departments and that is a
+36:25 separate department that they expect to
+36:27 be profitable and they're tracking their
+36:29 costs on every project that they're
+36:31 designing um as part of the job cost for
+36:34 that project.
+36:35 >> So, it's easy for me to switch up how I
+36:39 do things and and know that the numbers
+36:41 are changing for the better or worse.
+36:44 >> Yeah. So over the years, you know,
+36:46 again, I kind of I kind of learned about
+36:48 charging design fees by accident back in
+36:51 the back in the day. And uh once I
+36:55 started doing that, the way I did
+36:57 business changed dramatically. It was
+36:58 really cool. It was really a nice
+37:00 revelation for me. And I think some
+37:04 people still have that mindset that they
+37:05 got to give free free estimates. And um
+37:09 I am always going to say you'll do a
+37:11 complimentary
+37:12 uh consultation. Nothing's ever free. Um
+37:17 and that's about it from that point on.
+37:20 You know, everything should be should
+37:22 have a charge attached to it.
+37:23 >> Well, and it's it's certainly easier to
+37:25 do that when you're a design build.
+37:26 You're rolling it into a massive
+37:28 construction cost versus someone that's
+37:30 maybe only charging two grand for their
+37:32 services to do
+37:34 stuff.
+37:36 I was also gonna mention about getting
+37:37 better leads. This came up and I I want
+37:39 to say it before I forget it, but when I
+37:41 was a super, I'd go back, you know, to
+37:43 all my projects and
+37:45 >> and we noticed one thing that made a
+37:47 huge difference, which was we kept the
+37:50 front of the project clean. We kept our
+37:52 trucks clean. We kept everything clean.
+37:55 And
+37:56 >> and as much as we could, we kept the
+37:58 noise down. And um and then the other
+38:01 thing was
+38:03 I'd always walk the neighborhood taking
+38:05 any calls I would have to take while I
+38:08 you know before I go in and check and I
+38:10 saw the neighbors. I'd say hey I you
+38:12 know and I'm not much of an extrovert.
+38:15 Tell truth. But I'd say hey how's it
+38:17 going? Talk to the neighbors and yeah
+38:20 every once in a while we got a project
+38:22 with the neighbor.
+38:23 >> Yeah that's the way to do it. Yeah a
+38:25 clean job site. Not only is it good for
+38:27 the workers, um, but it and good for the
+38:30 homeowners, it is a one of your best
+38:32 marketing things that you can do
+38:34 because, uh, if you got a dumpy messed
+38:37 up job site, got it. Your work's going
+38:40 to be the same, right? So, it's back to
+38:42 the old, you know, if you got coffee
+38:44 stains on the the flip down tray on the
+38:46 airplane, how are they maintaining the
+38:48 engines? I mean, you kind of correlate
+38:50 the two together. So, it doesn't doesn't
+38:53 build a lot of confidence.
+38:56 comment on Anthony said hourly rate
+38:58 versus hard dollar bid is a hard sale to
+39:00 new clients and and I get that what what
+39:03 I actually approach them with is a
+39:05 retainer and so they don't really see
+39:07 the the hourly rate as much as they see
+39:10 the retainer. So the retainer is there
+39:12 and it explains that four hour they
+39:14 could do the math but for some reason it
+39:16 doesn't correlate to this guy's charging
+39:19 so much per hour because they just see
+39:21 the retained amount. So, it's maybe a
+39:24 little bit different in the way I'm
+39:26 selling it. Um,
+39:28 >> sometimes I just sometimes I just say
+39:30 that that way it puts you in control of
+39:32 how much money you're going to spend on
+39:34 this design.
+39:35 >> Yeah. And
+39:37 >> they can come back to me. They can come
+39:39 back to me
+39:41 for four different designs, but they're
+39:43 the ones that control how much they're
+39:45 spending.
+39:45 >> Yeah. Um,
+39:47 >> and part of that gets back to, you know,
+39:49 they want to have some idea how much
+39:51 it's going to cost. And you can then use
+39:53 the, you know, if you got an hourly
+39:55 rate, you think it's going to take so
+39:57 many hours, or you could say, typically,
+39:59 you know, architects charge 5 to 12% of
+40:02 the total cost of the project. Um, you
+40:05 could start throwing out those kind of
+40:06 comments, too. And they're, you know,
+40:08 they're accurate. So
+40:10 >> yeah, I I typically tell them, hey, for
+40:12 this type of project, this is the range
+40:15 you will probably fall within and then
+40:17 it might go outside of that range if you
+40:20 are changing your mind a lot. So yeah,
+40:22 you're you're kind of in control of this
+40:24 process in that way. So
+40:26 >> yes, exactly. So
+40:28 >> cool. um
+40:31 experience
+40:32 >> or you say exactly what Mike's saying
+40:34 right there like hey we could do you
+40:37 know a contract and and there's the
+40:40 benefit of hourly and pin the other one.
+40:44 Um,
+40:44 >> and you can sell it that way too and say
+40:46 once you're done with your two changes,
+40:48 it's hourly after that,
+40:50 >> right? Or or go to this, right? And and
+40:53 that's when we're, you know, keep you
+40:56 locked in
+40:58 >> in our area 18 to 23.
+41:03 What? Erin, you need to
+41:06 >> Good for you.
+41:07 >> That's right. Well, you're in Carmel.
+41:10 Um, that's a little different. So, but
+41:13 that's that's a pretty big number when
+41:14 you get right down to it. So,
+41:16 >> cool.
+41:17 >> I think I think what her fee also
+41:20 includes though, and correct me if I'm
+41:22 wrong, Erin, but you're doing actual
+41:24 part of that is actual project
+41:25 management. It's not just design and
+41:28 documents.
+41:29 I think she'd have to chime in.
+41:32 >> Yeah.
+41:33 Uh Chad, I'm incorporating service after
+41:36 design quality control. Cool.
+41:38 >> Yeah. Chad, you're Well, you're Chad,
+41:40 you're a contractor, right? you you do
+41:42 the whole project, don't you? I believe
+41:46 um
+41:47 >> yeah, for those um that are in this that
+41:49 are watching this that are designers
+41:51 only, you know, get in LinkedIn with a a
+41:54 contractor. I mean, you'll know what
+41:56 happens. The contractor will actually
+41:57 say to you, hey, I really like working
+41:59 with you. Like, if you're doing a good
+42:02 job, that's that should be your
+42:03 experience.
+42:06 It's the retainer you're alotting
+42:09 for a certain number of hours and beyond
+42:11 those hours it's hourly rate. Yeah, it's
+42:13 a retained amount. I mean it's a set fee
+42:16 for a set number of hours. Once you go
+42:17 past those hours that's it. So
+42:19 >> okay. So Erin said yes, Chad says yes.
+42:22 Chad does do the whole project. So cool.
+42:25 Um yeah,
+42:28 >> I just want to make a comment when you
+42:29 were talking about the design being a
+42:32 profit center. The same holds true for
+42:34 when we were talking about a homeowner
+42:35 advocate or um back in the discussion
+42:40 before that needs to be a profit
+42:41 centered as well.
+42:43 >> Yeah,
+42:44 >> exactly.
+42:47 So, back to this for a sec here. Um
+42:50 again, so profitable design services
+42:53 again we just chatted that getting
+42:55 better leads. Um [snorts] standardizing
+42:59 workflows.
+43:00 Uh, I know Renee, you're heavy into
+43:03 trying to standardize things. Um, and
+43:05 you're doing a good job at that. Um, and
+43:09 that is true. And you know, that's like
+43:10 when you're working with Chief and
+43:12 you're designing a project, you got a
+43:13 good template, you got details that are
+43:15 already drawn, you're just reusing them.
+43:17 Uh, what's your process that you use
+43:20 when you work with the client, how do
+43:22 you do your asbuilts? There's so many
+43:24 moving parts going on in just the design
+43:26 phase. design slashestimating
+43:29 slashcontract phase of the project. Uh
+43:32 yeah, having a standardized workflow
+43:34 makes a huge difference. And that would
+43:37 actually that'd be a really good topic
+43:38 actually to talk about.
+43:40 >> Was this all individuals or were any of
+43:42 these representing an office?
+43:45 >> We don't know. I mean this it's it's for
+43:49 the whole survey. We got 54 people
+43:52 answering this. So, but that was an
+43:55 interesting one. standardizing
+43:57 workflows, which again, you think about
+43:58 it. Yeah, you know, I work alone um when
+44:01 I do design, so I don't have necessarily
+44:03 standard ways of doing it. Even though I
+44:05 do, I just don't realize that I do. I
+44:07 haven't documented it. Um
+44:10 but yeah, I do the [clears throat]
+44:11 pretty much same thing every time I I
+44:13 work on a project.
+44:16 What Erin says then extra if they want
+44:19 me on site for site setup.
+44:20 >> Do do the comment before
+44:23 [clears throat]
+44:24 that's what she's saying. the services
+44:26 she's providing. [laughter]
+44:29 >> Oh, okay. Chief, yeah, Erin does have a
+44:32 lot of knowledge about what needs to be
+44:34 done in Carmel. Not an easy place to get
+44:37 a permit approved, is my understanding.
+44:40 So, and it takes a long time. Any, you
+44:44 know, out east and out west, you've got
+44:47 those things going on um in the bigger
+44:50 cities.
+44:51 >> Yeah. I always I always say you guys are
+44:54 over in Kansas or Arkansas or something
+44:56 like that. Napkin napkinville where you
+44:58 get to just sketch something on a piece
+45:00 of paper.
+45:01 >> Northern northern Minnesota. Actually,
+45:02 we don't even have to put in a plan. We
+45:04 just say, "Hey, I'm going to build a
+45:05 house." Okay.
+45:07 >> Just give me a call in 15 years when you
+45:10 guys finally catch up to our codes.
+45:12 >> Yeah.
+45:13 >> And on my particular piece of property,
+45:15 I don't even have to tell them I'm going
+45:16 to build anything. All I have to do is
+45:18 make sure my septic is up to snuff for
+45:21 what I'm going to do and build whatever
+45:23 I want.
+45:24 >> Wasn't it Montana that just decided
+45:26 they're not going to even have a
+45:27 building department that they just
+45:29 they'll have a building inspector and
+45:31 the rest of it's on you?
+45:33 >> Yeah.
+45:33 >> Yeah. That's the way it is where I live.
+45:35 I mean, they went from they went from
+45:36 doing building permits in my county to
+45:38 doing land use permits. And the land use
+45:41 permits are only needed around the
+45:45 lakeshore areas. Yeah, [clears throat]
+45:48 >> I've heard this from um many people in
+45:52 in certain areas like San Francisco and
+45:54 then Audi too. You got to apply just for
+45:57 the right just for the approval to apply
+46:01 for permission to do a project. So you
+46:04 got to give all this information up
+46:06 front just to get permission to do the
+46:07 plans and and apply for a project. It's
+46:10 like a double whammy. It's like okay.
+46:13 Um,
+46:15 with retainers, you guys typically
+46:17 tailor the retainer amount to the
+46:18 specific project or have a set fee that
+46:20 covers a wide variety of projects.
+46:22 >> Um, let me show I'm going to share my
+46:24 screen real quick.
+46:25 >> Sure, go for it.
+46:28 >> This is an ultra wide, so it might look
+46:30 a little funny. Let's see if we can
+46:34 >> um, this what you're looking at here is
+46:36 it's going to look like gibberish, I
+46:38 guess. I don't even know why I shared
+46:39 this, but this is cursor AI. And I this
+46:43 is my favorite AI. I pay for it. And
+46:47 >> um it has all these different contracts
+46:50 in um in a folder that I have it
+46:54 >> censusing and and so I get to go, hey, I
+46:57 am doing this kind of contract. It's
+47:00 covering this type of work and I'm
+47:02 concerned about this. I just do voice to
+47:04 text and it will look through all my
+47:05 contracts and combine verbiage from
+47:09 contract create a new one
+47:11 >> and then what you're seeing in green is
+47:14 what it edited. What you're seeing in
+47:16 red is what used to be there.
+47:19 >> Okay?
+47:19 >> And so you can if you want to you can
+47:22 come to that and say you want to keep it
+47:23 or undo it to take it back. So you
+47:25 actually get to see what the live edits
+47:28 were. It's not like it's just giving you
+47:29 something and you don't know what it
+47:30 actually changed. So, so you can tell it
+47:33 that your client has white carpet
+47:35 everywhere, um, dust allergies, have
+47:38 knickknacks everywhere, um, tough
+47:41 location to get into, and it will it'll
+47:45 adjust your your agreement to uh,
+47:47 reflect those kinds of things.
+47:49 >> Yeah, exactly. Um, and I find that it
+47:52 works really well. Um, and because I
+47:54 have
+47:56 >> maybe five or six main contracts for
+47:59 different scopes, it really covers
+48:01 everything I need it to cover. And and
+48:03 then every once in a while I ask it, go
+48:06 look at this or is there any there any
+48:08 things that I might be missing that's
+48:09 not covering me? Um, and then I'll
+48:11 review it. And oftentimes I will need to
+48:13 make the decision, you know what, this
+48:15 is getting to be a little too much for
+48:18 my clients.
+48:19 >> Yeah. Yeah.
+48:20 >> You also want that piece of it. They
+48:22 shouldn't be scared. tone it down a
+48:23 little bit. Um,
+48:25 >> my my my
+48:27 father and also one of my favorite
+48:30 contractors I work for, they both did a
+48:32 table read of their contracts with their
+48:34 clients. They sat there and page by page
+48:37 and read it to their clients so that
+48:39 they understand what they're getting
+48:40 into and also just give them the
+48:43 confidence that I'm not trying to pull
+48:44 one over on you.
+48:45 >> Yeah, that's cool.
+48:47 >> Yeah.
+48:47 >> I mean, that's what we used to do when
+48:48 we had contract signings. would go
+48:50 through everything and I I always did
+48:53 very detailed specifications. So,
+48:57 um you'd have to spend a lot of time
+48:58 going through that, make sure you had
+48:59 everything included and then the
+49:01 verbiage on, you know, payments and all
+49:03 that kind of. So, yeah, there's always a
+49:04 lot of things to go through. Anthony
+49:06 here is just like, you know, it's from
+49:09 60 miles out of DC, a napkin sketch.
+49:12 When you're in DC, yeah, at least 25
+49:14 pages. So, yeah, difference.
+49:17 So, [laughter] he needs to go um go
+49:20 market to that community.
+49:22 >> Uhhuh.
+49:24 >> Uh let's see. Like will Roger said, it's
+49:27 a good thing we don't get all of the
+49:29 government we pay for.
+49:30 >> Yeah.
+49:32 >> All right. Uh
+49:35 do you want to sell copies of contracts?
+49:37 >> You can call me. I'll I'll write some
+49:39 contracts.
+49:41 >> There you go.
+49:43 Um,
+49:45 >> someone go slap Mike on the wrist right
+49:47 now. Go slap him on the wrist.
+49:49 [laughter]
+49:50 [snorts]
+49:52 >> Well, you know, I'm guilty, too. I don't
+49:54 use I don't use
+49:55 >> No, I I do it, too.
+49:57 >> Absolutely.
+49:58 >> So, but again, you know, I always get
+50:00 paid up front and then we work off the
+50:02 time I have, so I'm not really in at
+50:05 risk of losing any money. Um, although I
+50:07 have a few people have, you know, you
+50:09 know, it's kind of mutual agreement.
+50:10 Yeah.
+50:11 Yeah. How many times have you done, you
+50:13 know, 20 hours of work on a project, but
+50:15 you felt like you'd only charge for 10?
+50:17 >> Yeah.
+50:17 >> Yeah. I've been there many times. So,
+50:19 >> I will say what changed it to giving to
+50:22 making me put out more contracts? What?
+50:24 Well, I had a need to really show
+50:27 numbers for one, for something I was
+50:29 doing in my house, you know, refinancing
+50:31 and stuff, but
+50:33 connect the dots, you figure out what
+50:35 I'm saying there. Um but you know that
+50:38 switched me to to switching on I use
+50:40 Fresh Books and um so I when I write
+50:44 something to say you know what the scope
+50:46 of work is that they're going to sign
+50:47 that ends up being the invoice and that
+50:49 also ends up being how it it gets
+50:51 digitally paid for.
+50:53 >> Yeah.
+50:54 >> So I have contracts because it just
+50:56 makes it easier for me to get paid and
+50:58 me not think about it because it all
+50:59 auto transfers. I don't even have to
+51:01 look at it. It automatically marks it as
+51:02 paid. Automatically shows up in my
+51:04 accounts. That's nice. That's nice. Erin
+51:07 um was talking about to me about this
+51:09 the other day about her airs an omission
+51:12 insurance um if you don't have a written
+51:16 contract agreement slashcontract, you
+51:19 know, what do you got to fall back on?
+51:21 So, you know, yeah, Erin, you probably
+51:23 should get something together to make
+51:25 your insurance people happy.
+51:28 I've got a I've got a custom cabinet
+51:30 builder friend of mine and he um he got
+51:34 some new client that was referred to him
+51:36 >> and right off the get-go like
+51:39 >> the guy hands him the check and says
+51:41 okay I need this in 23 days and it's a
+51:43 massive cabinet project and he's like
+51:46 what are you doing? No, I can't get it
+51:48 in 23 days. I'll try, I guess. And and
+51:51 then um suddenly he's like why didn't
+51:54 you put in this light rail? and he goes,
+51:56 "That's not in my scope of work. I'm not
+51:58 doing that." And the guy's trying to
+52:00 push him to do it. I'm like, "All right,
+52:02 this, you know, this is getting a little
+52:04 sign sends him a new contract. Um, we
+52:07 really button the contract up because
+52:08 this guy's already been a bunch of red
+52:10 flags." And now all of a sudden, he's
+52:12 like, you know, the light rail got
+52:14 installed. He's about to deliver these
+52:16 cabinets and install them and be done
+52:18 with the job. And the guy goes, "Okay,
+52:20 I'll get you a check in 10 days because
+52:22 I haven't invoiced the client yet."
+52:24 And we're like, "Wait a minute." No, no,
+52:26 no, no, no. Way too many red flags.
+52:29 Like,
+52:29 >> yeah.
+52:30 >> I mean, you could just not get paid
+52:32 there. And it's and it's a large job.
+52:34 So,
+52:35 >> ouch.
+52:36 >> I tell them, "Go install the boxes, pull
+52:38 all the doors, keep the doors, and
+52:40 you're going to have to come."
+52:41 >> There you go.
+52:43 >> Oh, man. Anyway, Erin, is Fresh Books
+52:45 cloud only? I think it is, right?
+52:47 >> Uh, yeah.
+52:48 >> Yeah. Okay. Um
+52:52 Paul is required.
+52:54 Yeah. Okay. You have a signed contract.
+52:58 >> We are. What is it saying? We are
+52:59 required to have
+53:03 >> Is that for design or construction?
+53:08 >> Yeah. I don't know.
+53:10 I'll be calling Rene shortly. Um run
+53:14 from any client tries to throw money at
+53:15 you up front
+53:17 before. Yeah. Although Kevin had a great
+53:20 story once when
+53:23 a client was uh call someone it was a
+53:27 super duper strong referral and the
+53:30 woman had was doing construction work
+53:31 and he went over to look at some stuff
+53:33 to do some that's back when he was
+53:35 contracting
+53:37 and he was just telling her he's too
+53:39 busy right now he can't work it in um
+53:42 and she said well if I give you 50,000
+53:45 will that get you started
+53:49 He kind of said, "Yeah, [clears throat]
+53:50 we'll make it work." So, I guess it
+53:53 turned out great. So, so yeah, I guess
+53:56 in some cases, money can can move the
+53:58 ball a little bit if you need to.
+54:01 >> Uh, great questions, you guys. Thank you
+54:03 for doing that. Um, it's really fun when
+54:05 you guys are chatting on there. So,
+54:07 anyway, the the rest of the survey, uh,
+54:10 we're going to keep it out there. We'll
+54:11 kind of try to keep getting results and
+54:13 maybe this will spur us to do some other
+54:15 things, too. So, if you guys have ideas
+54:17 on things you'd like to know about, let
+54:19 us let me know. I'd be happy to put
+54:22 something like this together and and put
+54:23 it out for everybody. I think this is
+54:25 fun information, not fun information.
+54:27 It's necessary information and it's just
+54:29 really neat to talk about and take a
+54:32 look at what's going on. So, let's keep
+54:35 the fun rolling. Um um let's see. Erin
+54:42 says, "I just sent you a text about
+54:43 contracts. You You might have well just
+54:47 been saying something on the windiest
+54:49 day of the year."
+54:52 I don't I don't see texts at all. Shoot
+54:54 me an email. [laughter]
+54:57 >> Oh,
+54:58 >> these these guys know it. I don't see
+54:59 texts. Thank you.
+55:02 >> Turn your phone, you know, have your
+55:03 phone turned down all day long.
+55:05 >> I can't deal with the the number of
+55:06 notifications. I won't get any work
+55:08 done. My phone would just be buzzing all
+55:10 day. Like my my sisters are all in these
+55:13 group chats and they've always got me on
+55:15 them.
+55:16 Expensive non-cloud booking software. Um
+55:19 I don't know that one. Have to leave
+55:21 that.
+55:21 >> I don't know.
+55:22 >> It's going to be hard to find these
+55:23 days. I think
+55:26 >> probably I don't know if into it in its
+55:29 might have some that you can load on
+55:32 your computer yet. Possibly. I don't I
+55:34 don't know. Um,
+55:36 >> QuickBooks used
+55:38 >> Yeah, but QuickBooks uh desktop now is
+55:40 so expensive. You got to get the their
+55:43 super duper package. They're trying to
+55:44 get out of the the desktop versions, but
+55:47 they have to keep it because they've got
+55:48 so many people using it.
+55:51 >> Um, anyway,
+55:53 >> so Erin and Mike both talked about the
+55:56 Pro Academy being a blast and people
+55:58 should join. It is a blast. We're having
+56:00 a great time. It
+56:00 >> is a blast. Yeah, Mike, you you've been
+56:02 great to have in there. you've got some
+56:04 really great questions and great
+56:06 challenges for us, which is always fun.
+56:09 That's what we like, a good challenge,
+56:10 you know, bring it on. Bring it on. And
+56:13 and part of this whole the live classes
+56:16 that we do, and again, when I say we go
+56:18 down rabbit holes, part of going down a
+56:20 rabbit hole in chief architect is
+56:21 figuring things out, figuring out how it
+56:23 works and what's the best method to make
+56:25 that work. And uh it it's it's really a
+56:29 lot of fun.
+56:30 Mike Mike told me several times that's
+56:32 the part he likes the best, seeing
+56:34 >> Yeah.
+56:35 >> seeing where we go, what steps we go
+56:37 through to to figure something out.
+56:39 >> Exactly. Exactly. And and there's a
+56:43 process that for certain types of
+56:44 things. Yeah. You just kind of go
+56:46 through processes and look at things.
+56:47 And you know, part of this just comes
+56:49 from experience, too, of just knowing
+56:50 where to look.
+56:52 >> It's a good like that one.
+56:55 >> Prochainsaw jug.
+56:56 >> I don't know. I don't know, Dan. Mike, I
+56:58 didn't catch it the other day. Very
+57:00 good. [laughter]
+57:03 >> Up on one.
+57:04 >> At least you're not wearing any
+57:05 band-aids. That's That's the main thing.
+57:07 >> It healed up pretty fast, but I still
+57:08 only got stubs. [laughter]
+57:11 >> Yeah. [gasps] But no, it's fun.
+57:14 >> What were you working on? Split
+57:15 foundations.
+57:17 >> I don't remember.
+57:19 >> Well, anything. Anything.
+57:21 >> We covered We've covered a whole bunch
+57:22 of different things. We we came up with
+57:24 a way to uh
+57:26 if you're going to make a custom deck
+57:28 with borders and stuff with frame
+57:30 picture framed borders around the deck.
+57:32 >> Yeah.
+57:33 >> Copy all the deck boards. You have to
+57:35 copy them so that they'll stay.
+57:37 >> No, you have to delete them.
+57:39 >> Well, no, you have to copy them first.
+57:42 >> It was No, all we did was cut and then
+57:44 paste,
+57:46 >> right? But cutting copies copies and
+57:48 deletes it at the same time. But when we
+57:51 just copied and pasted and we rebuilt
+57:53 the decking,
+57:54 >> that's because you built the decking
+57:56 right on top of the other one. But
+57:57 anyway, you have to cop you have to have
+57:59 a copy of it
+58:01 >> so that it doesn't rebuild automatically
+58:03 anymore.
+58:04 >> Yes.
+58:04 >> Then you can put that copy on a
+58:06 different layer and have three or four
+58:08 versions on different layers and turn
+58:10 the layer on and off.
+58:12 >> Yes. And John, it wasn't copy because we
+58:14 tried copy and it always rem deleted
+58:16 itself. It was the cut and then paste it
+58:19 back in. Cutting it. The act of cutting.
+58:21 >> Copy and paste it back in. Yes.
+58:23 >> The the act
+58:26 [laughter]
+58:26 >> the act of cutting the decking out of
+58:28 the plan to get rid of it and then
+58:31 pasting it back in removed the automatic
+58:33 function from that deck.
+58:34 >> Exactly. Yeah.
+58:35 >> Yeah. So,
+58:36 >> I didn't know you couldn't copy and
+58:38 paste wall framing members. Did you know
+58:40 that?
+58:40 >> Oh, yeah. I've been doing that for
+58:43 years.
+58:44 >> No, I'm saying you can't.
+58:47 Not not from one plan to another. It
+58:49 won't let you do it.
+58:51 >> Well, no, they're going to they're
+58:52 always part of the wall itself.
+58:54 >> Yeah, but I was surprised.
+58:56 >> You can't even pay you can't paste a
+58:57 stud from one wall to another.
+58:58 >> So So the the rabbit hole I've been
+59:00 getting there's two. Um because Aaron
+59:02 said something here. Uh yes, that's one
+59:06 of them. And that's I'll show you that
+59:08 one. That is specifically
+59:11 I've been doing uh making the metric
+59:14 versions. Oh yeah, you mentioned it.
+59:17 >> Which is a
+59:20 >> Is that a rabbit hole you wish you
+59:21 didn't go down?
+59:22 >> That is a great experience. I recommend
+59:24 it.
+59:26 >> Okay.
+59:28 >> It's awful. It's awful.
+59:29 >> I do I do like drawing in metric. It's
+59:32 easy.
+59:33 >> Okay.
+59:34 >> Setting up a template in metric is
+59:36 another story.
+59:37 >> Oh man, is it difficult. I mean, there's
+59:39 just so much to it, but it's but it's
+59:41 getting there. So, that's cool. And then
+59:44 um
+59:45 >> well it's kind of like you're learning a
+59:46 foreign language and applying it to
+59:48 Chief.
+59:49 >> It's it's not even the complexities of
+59:52 the metric part of it. It is just how
+59:54 many settings I've changed over the
+59:56 years. It's just staggering. Um and
+1:00:00 anyways I have someone helping me on
+1:00:01 that who is Spanish speaking. So once
+1:00:04 the metric's done then we're doing the
+1:00:06 metric Spanish versions.
+1:00:08 >> There you go.
+1:00:09 >> Which is that's So that's a rabbit hole.
+1:00:11 >> Uh the other The other one was um I've
+1:00:16 been trying to figure out better methods
+1:00:19 to do these pole barns
+1:00:22 >> and
+1:00:22 >> what sense?
+1:00:24 >> It's it's just not something I know
+1:00:26 intimately well. So
+1:00:28 >> Oh, sure.
+1:00:28 >> Yeah.
+1:00:30 >> Isn't it Shane Kitchen that uh
+1:00:32 >> Shane? Yeah.
+1:00:34 >> A lot of lines.
+1:00:35 >> Yeah. Uh one of his plans crossed my
+1:00:38 desk to to stick it in the pro plan.
+1:00:40 take it from the template he used and
+1:00:42 stick it in the prop plan. Um, and uh,
+1:00:44 and I was just checking it out. I was
+1:00:46 like, I didn't [clears throat] He's got
+1:00:47 a He's got a steel eye column and then
+1:00:50 off of that they weld in flanges to pick
+1:00:53 up the plland from the the return wall
+1:00:56 and I I didn't even know that existed.
+1:00:59 So, yeah, it's educational at least.
+1:01:02 >> There's always something. Anyway, we're
+1:01:03 out of time manual stuff for that. So,
+1:01:06 >> yeah.
+1:01:07 >> Yeah.
+1:01:08 >> Cool. Cool. Um, well, Chief's getting
+1:01:10 better at doing the P poke barn kind of
+1:01:13 stuff, but any kind of you got anytime
+1:01:14 you get details, joisty hangers, metal
+1:01:16 plating, you're gonna do all that
+1:01:17 manually. Just there's no automatics
+1:01:19 that's not in shape. Anyway, everybody,
+1:01:22 thanks for being here today. Um, you
+1:01:24 know, kind of a crazy topic, but uh it
+1:01:27 was fun. We'll keep it going and uh let
+1:01:30 us know if you need anything. We're here
+1:01:31 to help. So, check out the our classes,
+1:01:34 check out the pro academy, check out
+1:01:36 Rene's site. It's rabbit
+1:01:38 rabbitesign.net.
+1:01:40 He's got all sorts of cool products that
+1:01:43 he is offering. Um, if you need help,
+1:01:45 give John a call. He's always there to
+1:01:46 help with coaching and and plan. John's
+1:01:49 got a uh some team members that members
+1:01:51 that will help with plans. So, please
+1:01:53 check us out. And uh [snorts] other than
+1:01:56 that, we'll see you guys next time.
+1:01:58 Thanks everyone.

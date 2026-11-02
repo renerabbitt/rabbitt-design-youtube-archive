@@ -1,0 +1,1544 @@
+---
+videoId: hwT7IMHYdgM
+title: Template Tuesdays #-6  Project Management
+url: "https://www.youtube.com/watch?v=hwT7IMHYdgM"
+status: imported
+---
+
+# Transcript
+
+0:03 puppy.
+0:05 We're live.
+0:08 Oh, I'm a little early. I'm one minute
+0:10 early, so maybe no one's in here. But,
+0:13 um,
+0:15 thank y'all for joining me. I see
+0:18 actually there are a couple people in
+0:19 here. I see a couple of my VIP people in
+0:22 here, people that have memberships to my
+0:24 uh the Paywalt side of my YouTube where
+0:26 I show some really advanced stuff. So,
+0:28 I'm glad you're in here. So, good
+0:30 morning. Um,
+0:33 going over a hot topic today, and that's
+0:36 the the project management feature in
+0:39 Chief Architect X17. It was introduced
+0:41 in X17.
+0:43 I just want to start by talking about
+0:46 why it was introduced. So, you're just
+0:48 going to see my face for the first part
+0:49 of this. Um, and that's just because,
+0:53 uh, this is a pretty heated topic.
+0:54 people get really um emotionally
+0:57 invested in the why and and why did we
+1:01 you know fix something that wasn't
+1:02 broken etc. And and the reason is
+1:04 multi-part. One is that project
+1:07 management was never meant to be
+1:08 introduced um as a as a standalone
+1:12 thing. It was meant to be introduced
+1:14 alongside of a cloud service that Chief
+1:16 has been developing for I think over 5
+1:18 years now. And and so part of that was
+1:21 going to be that you would just your
+1:23 files would be managed internally and
+1:26 encrypted by Chief and and totally
+1:28 managed within the program and then you
+1:31 would be able to author who else might
+1:34 be able to have access to any part of
+1:36 those files through a cloud service. And
+1:39 so that's part of the why of of why
+1:44 project management came along. The next
+1:46 part of it was that it was it was
+1:48 actually solving an issue and people may
+1:51 not have known what that issue was, but
+1:53 it was a very real issue for Chief.
+1:56 Chief, you know, a large part of their
+1:58 business model is centered around
+2:01 software as a service, but also their
+2:03 customer support and their SSA and and
+2:07 so they receive calls um that are help
+2:11 calls and and that's part of the package
+2:14 of what you're paying into. And so
+2:16 they've got to handle those help calls
+2:17 well. It would make sense to introduce
+2:20 something that might um limit the number
+2:22 of support calls that they needed to
+2:24 handle. And so a couple of those support
+2:27 calls that was a common support call
+2:29 would be breaking links because you
+2:32 renamed a plan file within a folder and
+2:34 it had been previously sent to layout
+2:36 and when you renamed that plan file it
+2:38 broke the link. So people didn't know
+2:41 why that was happening. So that was one
+2:43 thing. Another thing was sharing across
+2:46 uh a team through a cloud service and
+2:49 not including your image assets that
+2:51 create all the materials in that
+2:53 project. And so your other team member
+2:56 might open up that file and it would say
+2:58 we are missing all these textures. And
+3:00 so those were two of the biggest support
+3:03 calls in in terms of just volume that
+3:06 Chief Architect was receiving. And
+3:08 project management solves for both of
+3:11 those. So, that's kind of the why was
+3:14 there was a very real reason that this
+3:16 ever got introduced. Now, I'd like to
+3:19 get in and show you the why of why you
+3:23 should be using this in a team
+3:25 environment or even in your own, you
+3:27 know, um if you're just a sole
+3:29 proprietor, uh single owner operator
+3:32 kind of a type, it's still a great thing
+3:35 to use because we could do some really
+3:37 cool and advanced things with it. Um,
+3:40 but the the main focus on this is I've
+3:43 seen a lot of teams office environments
+3:47 or you know just u multi-user
+3:49 environments where they're not utilizing
+3:50 this because this doesn't share on the
+3:53 cloud. And in fact, it does share on the
+3:55 cloud and it shares on the cloud in a
+3:57 better way than you could without it.
+4:00 Um, and so that's what we're getting
+4:01 into today is I'm going to show you a
+4:03 couple really cool tricks and tips about
+4:05 how to utilize this uh to work with a
+4:08 team. And so let me switch to my showing
+4:11 my screen.
+4:16 And so here we go. Run-of-the-mill chief
+4:19 architect.
+4:20 So I have, you know, part part of the
+4:23 show I'm going to keep mentioning every
+4:24 uh Tuesday is that I sell things. I sell
+4:29 templates. My templates take advantage
+4:31 of this. We're going to look at that
+4:32 later on because that would be an
+4:33 advanced implementation of what you
+4:35 could do in project management. And then
+4:39 as so that's what we're looking at here
+4:41 is my template at the top of the screen
+4:43 is pinned to the top of the screen. And
+4:45 this is how I work in project management
+4:47 is I copy that template to start a
+4:50 project. I don't go to new file new
+4:54 project. Okay. But to start this, that's
+4:58 what we're going to do is we're just
+4:59 going to go through and use the out of
+5:01 the box template. So, I'm going to go to
+5:02 file menu, new project. Um, it says that
+5:05 I don't have anything loaded. This would
+5:07 be a fresh install. In fact, I did just
+5:10 fresh install my Chief. And so, I'm
+5:13 going to choose residential in this
+5:14 case. And press okay. And it's going to
+5:17 allow me to name my project here. Now,
+5:21 sometimes we're just trying to do
+5:22 something very quickly just to throw a
+5:25 concept together. And we don't need plan
+5:28 or layout or I mean neither of those,
+5:31 right? So, we do have the option that we
+5:33 could just create a project that's just
+5:36 kind of a shell there for us to work
+5:38 with without actually having to include
+5:39 a plan or layout. But I'm going to
+5:41 include a plan and layout. And this is
+5:43 going to be our Click Tuesdays
+5:48 example.
+5:50 Okay. And there we go. And so that will
+5:52 build that into my project browser over
+5:55 on the right hand side. And there we go.
+5:58 Now, something I want to mention is that
+6:01 for me, I'm almost never in that file
+6:04 menu ever again. I've created a project
+6:08 that I like the way that it is. I like
+6:10 the views, how they're sent, the layout
+6:12 already, and so I've saved my project
+6:15 and that becomes my template. So I never
+6:17 need to go back to that file menu. So
+6:20 this would be an example of hey we've
+6:21 got a blank plan and a blank layout. If
+6:24 you started sending views from this plan
+6:27 to that layout without actually having
+6:31 built anything like maybe you just
+6:33 established some camera views and just
+6:35 send them to layout. You have now
+6:37 created something that's going to
+6:38 populate some views in layout if you
+6:41 were ever to take this as a template.
+6:43 meaning that let's just say for example
+6:46 I've got one
+6:49 elevation here. There's nothing in that
+6:52 elevation. I know my screen's very
+6:53 small. That's because I want to keep
+6:55 this project browser nice and big
+6:56 because that's all we're talking about
+6:58 today. Um but this is in fact an
+7:02 elevation view and I could send this to
+7:05 my layout and it's going to ask me what
+7:07 page to send it to, etc. And so now that
+7:10 this view um it says it's empty, so it
+7:13 can't be sent to layout. I should have
+7:14 drawn a CAD line or something like that.
+7:16 But now that we had a view sent to that
+7:18 layout, I could just stop working and
+7:21 just put this template aside and use it
+7:24 and just make a copy every time I wanted
+7:27 to do a new project with this. So that's
+7:29 a bit advanced, but I'm just going to
+7:31 mention that that's that's there. That's
+7:33 a possibility. we can create something
+7:35 that's got all of the things we need
+7:38 already in layout and linked up and
+7:40 established and use that over and over
+7:42 again. So,
+7:44 you can do that outside of project
+7:46 management
+7:48 certainly, but it's a lot easier to do
+7:50 it inside of project management and
+7:52 there's some really cool things that we
+7:54 can do with that.
+7:56 So, now I want to talk about how do we
+7:58 get our our project over to our team.
+8:01 Let's say I'm finished with a day's
+8:04 worth of work. I've um
+8:08 I'm ready to share it back to my team.
+8:11 And we're thinking that there's no way
+8:12 to do that because if we go to that file
+8:14 menu, there's no save as here. There's a
+8:17 save, there's a make a copy. But the
+8:19 options here are very confusing. And
+8:22 here's what I would try to introduce to
+8:24 you, and this is kind of a unique
+8:26 thought, is we're not going to go to the
+8:28 file menu at all. In fact, when I think
+8:31 to share to team, when I think that I
+8:34 want to to put this project in someplace
+8:37 where I can access it outside of Chief,
+8:40 file menu is no longer in the picture.
+8:43 It shouldn't even be anything I need to
+8:45 consider anymore. Like I said, I very
+8:48 rarely go to the file menu. The only
+8:50 reason I go there is to print.
+8:52 Everything else in there I don't care
+8:55 about. Okay. So, let's just say we've
+8:58 got our house drawn. Maybe I'll just
+9:00 draw four walls so we can see. So, let's
+9:03 just pick in here. I'll draw four walls.
+9:06 And
+9:08 oh, I'm in layout. That's why I don't
+9:10 see my walls. There we go.
+9:15 And I'm thinking I need to save right
+9:17 now. Okay. So, I'm just going to hit a
+9:20 little control S. That means I've saved.
+9:22 Now, look at this. It shows a preview of
+9:24 this in our project browser, which is
+9:26 very nice. In the case that you want to
+9:28 show something a little bit more um
+9:31 informative to yourself in that project
+9:33 browser because as you get more
+9:35 projects, this is going to load up and
+9:36 it might be confusing what file is what
+9:39 is that you can always kind of position
+9:42 a camera like this. And in the file
+9:45 menu, this is the only other thing I go
+9:46 to the file menu for. There is an option
+9:49 to show a thumbnail. Uh, excuse me. Save
+9:52 a thumbnail image. And so when I click
+9:55 on this, that is now the thumbnail image
+9:57 for this project. You'll notice that for
+10:00 my other projects, if I come down into
+10:04 my plan file here, I've saved, you know,
+10:07 a banner for my for my template. So,
+10:10 same thing is when I click on this
+10:11 project, it's going to show me a preview
+10:13 what this is based on that thumbnail
+10:14 image.
+10:16 So, I've got this. I'm done working on
+10:18 it. I want to close all my views. I'm
+10:20 done with the day. I'm going to save.
+10:22 Everything's finished. And I want to go
+10:24 save this to the team.
+10:27 Here's the first thing that we do is
+10:30 we're just going to go rightclick and
+10:31 hit export.
+10:35 And it's going to bring up this dialogue
+10:36 box and export. It's going to give us an
+10:38 option to only send certain files. All
+10:42 right. And for this, I want to save all
+10:45 these files. So, I'm going to go ahead
+10:47 and leave it the way it is. I'm going to
+10:48 press okay.
+10:50 It's going to say, "Hey, you know, where
+10:51 do you want to save this?" We'll just
+10:53 save this to a place I can find it
+10:54 really easily.
+10:56 And so, it tells us that that project
+10:58 has been exported.
+11:00 Now, here is the thing that I want to
+11:04 mention, and this is a really, really
+11:06 important detail. I wish I could put a
+11:09 big banner across this um this screen
+11:12 that just says, "Pay attention to this."
+11:15 if you're new to this concept is we just
+11:19 exported that project and it now lives
+11:21 on my machine somewhere. Okay, it also
+11:26 currently lives inside of Chief
+11:29 Architect.
+11:30 That means we've got redundant copies.
+11:33 If the intent of exporting that project
+11:37 is that it gets shared with a team and
+11:39 it will be improved, meaning someone's
+11:41 going to go work on it, then please note
+11:44 that the copy that's inside of your
+11:46 chief architect is now an older copy.
+11:50 And that may get very confusing because
+11:53 it's a redundant copy and it's an older
+11:56 version, right? because we're going to
+11:59 go work on that one that we just
+12:00 exported, which means that that's going
+12:03 to be the newer copy going forward. So,
+12:06 it would make a lot of sense to delete
+12:09 this project from your browser.
+12:12 Now, I'm going to click on delete here,
+12:14 and I'm going to show you something.
+12:17 This is kind of a an obscure line of
+12:20 thinking and I've pushed pretty hard for
+12:22 Chief to maybe change the terminology
+12:24 here and the the way the warning signs
+12:28 are set up and the way that it informs
+12:30 you what's happening here is delete is
+12:32 such a scary word for people including
+12:35 myself and and so I don't like this. I
+12:38 don't like the way that this is set up
+12:40 but this is really the best workflow is
+12:42 that we're going to export and delete.
+12:44 we're given that option is that you
+12:46 could just hit the delete key. So
+12:48 instead of hitting save as like we
+12:50 normally would, we would hit delete.
+12:53 That sounds really, really strange, I
+12:55 know, but this is why is we're given
+12:58 this option to export and delete. So
+13:01 this is just a faster way of doing what
+13:03 we just did, which was first I hit
+13:05 export and then I hit delete. I could
+13:08 have instead just hit delete and it
+13:10 would have given us this option export
+13:12 and delete. And so when I save that
+13:14 option, we're just going to say that
+13:16 this is V2.
+13:21 And there we go. And then once it's
+13:23 finished exporting, it's going to go
+13:25 ahead and get rid of this out of my
+13:26 project browser. Now, something that's
+13:28 really nice about this is you don't
+13:30 necessarily have to be sharing with the
+13:32 team to implement that workflow. This
+13:35 workflow works really well in the case
+13:38 that you might want to just keep your
+13:41 project browser nice and light. That's
+13:43 going to do a number of different
+13:45 things. If you're experienced in using
+13:47 project management, you may not know
+13:49 this, but Chief Architect caches all of
+13:52 your data um so that it helps the
+13:55 preload speed when we go to reboot Chief
+13:57 Architect. And so you're constantly
+14:00 caching more data if you've got more
+14:02 projects that are being managed
+14:03 internally in Chief Architect. So Chief
+14:07 Architect slows down over time if you
+14:09 have a ton of projects. Not only that,
+14:11 but I've seen many people mention that
+14:13 there are so many projects on this
+14:15 sidebar that it's hard for them to keep
+14:17 up with it. It's confusing. It's too
+14:19 much information. I can show you how to
+14:22 limit the amount of information that's
+14:23 there and make that a lot easier to
+14:25 navigate. And we're going to get into
+14:27 that. But what I would say is probably a
+14:30 better implementation is go ahead and
+14:31 save and archive your projects. You can
+14:34 always bring them back in, which I'm
+14:36 going to show you that right now. So,
+14:38 I'm going to bring up my window. I'm on
+14:41 a PC. I'm going to bring up my Windows.
+14:43 All right. And we're going to see that
+14:45 we've got a couple CA project files
+14:46 here. And so, what I can do very, very
+14:50 easily with these files is if you I've
+14:53 got a picture of Gordon Ramsay here. If
+14:56 you want to install a free application
+14:58 that can help you visualize these
+15:00 project files in the case that that's an
+15:03 interesting utility to you is there is a
+15:06 free application called sevenzip.
+15:09 If I could type that would be great.
+15:11 7zip gives us um free download but it's
+15:14 a um an archive um or unariver or file
+15:19 archiver software. And so I imagine you
+15:23 you maybe could guess at what I'm
+15:24 talking about now is that the Calibs or
+15:28 excuse me the CA project file is just an
+15:31 archive.
+15:33 Before X17
+15:35 if you wanted to share a project with a
+15:37 team and you wanted them to have the
+15:39 textures that made up all the materials
+15:43 in your project. There were two places
+15:45 that Chief Architect looked for
+15:47 textures. it looked in its core data
+15:50 directory underneath the textures
+15:52 folder. So if the texture file lived
+15:55 there, Chief would find it or it lived
+15:58 alongside of your plan file in the same
+16:01 folder as the plan file. It would look
+16:03 for textures there. So if you wanted to
+16:05 save to a team, you would save your
+16:07 project as a backup and it would include
+16:09 those texture files. that takes a plan
+16:12 file that goes from 20 megabytes up to,
+16:15 you know, 200 megabytes because all of a
+16:17 sudden we're including hundreds of image
+16:19 files that create textures.
+16:21 So, here's my CA project file. If I were
+16:24 to just doubleclick this or rightclick
+16:27 it and say, hey, we're going to open
+16:28 this in Chief Architect X17. Well, what
+16:31 happens is bam, it comes right back into
+16:35 our project just like that.
+16:38 So you don't have to worry that you lost
+16:40 this project. It comes in exactly the
+16:43 way that you drafted it in the first
+16:45 place. When I click on this, look, the
+16:47 thumbnail preview image is right there.
+16:49 I could delete this again right now and
+16:52 it will not delete the file that is on
+16:55 my hard drive. It's going to delete the
+16:57 internally encrypted managed file that
+17:00 it has inside of project management
+17:02 mode. So I could just hit delete again,
+17:04 get rid of it. I could do that many,
+17:07 many times. I could export it if I had
+17:09 improved it and made a new version copy.
+17:12 That would be something I could do as
+17:13 well. So, to get back into this file
+17:17 browser here, I'm going to instead I'm
+17:20 going to rightclick and I'm going to
+17:21 open this with and I'm going to choose
+17:23 another app and I'm going to find my
+17:26 seven-zip file manager and I'm going to
+17:28 open it just once with this utility just
+17:30 to show you. Look at this.
+17:33 This is what's inside of a CA project
+17:35 file. If we were to go look inside of
+17:38 projects, we could see that this has all
+17:40 those files that we needed right here.
+17:42 So, this is all this is is an archive.
+17:46 That's all we're doing with this. Okay.
+17:49 Now, to go back a few steps and let me
+17:52 go up a couple levels. We'll look in the
+17:55 assets folder. And inside of the assets
+17:57 folder, there's all those image files
+17:59 that make up all the materials that were
+18:01 in that project. Okay. Now, something
+18:04 that's kind of interesting, if you're an
+18:06 advanced user, you could actually
+18:07 extract this. And if you wanted to, you
+18:09 could do a little census of the image
+18:11 files that are in here. And if there was
+18:13 some file that was egregiously high in
+18:15 its size, you might be able to reduce it
+18:18 by reducing the resolution. And when you
+18:20 reimpported it, it would come in with
+18:21 that new resolution. So you can rebuild
+18:24 a CA project file. You can do it very
+18:26 easily in a file archiver. So you could
+18:29 extract all these files and I'll show
+18:31 you exactly how is I'm going to just
+18:34 pull this off to side window real quick.
+18:36 And I'm going to do a new folder
+18:39 in that new folder example. Okay.
+18:43 And so in example I'm going to take
+18:46 these files all of them and just drag
+18:49 and drop them right into there. And so
+18:52 there we go. That's how I've got these
+18:54 files. And I could do some modification
+18:56 if I wanted to. I could do some
+18:58 modification to these, what have you. Or
+19:01 you could just leave them extracted like
+19:02 this. What's really nice is this is
+19:05 essentially what your team is getting.
+19:07 It's getting all of these files in the
+19:09 same way that you would extract them
+19:11 typically, just like this, but it's
+19:14 getting it as a single file, which makes
+19:17 it a really clean and easy way to
+19:20 implement historical data of your
+19:23 projects. Okay? Because I've already
+19:26 done this V1 V versus V2. And if you'd
+19:30 like to follow along with my typical
+19:31 naming conventions, this is how I would
+19:33 do this is I would start with a date.
+19:37 This is going to be yesterday's date. So
+19:39 2604
+19:41 27 year month year month day day.
+19:45 I'm going to be on B1 or design A what
+19:49 have you. Then it's going to be the
+19:51 project name. And then if we're in a
+19:53 team environment, we're going to go and
+19:55 at the end of this, we're going to put
+19:57 the initials of the team member that
+19:59 worked on this particular file. Okay. So
+20:03 now we know this was
+20:06 Nope, I've got this open in sevenzip.
+20:09 Need to close that down.
+20:13 Do that again real quick.
+20:21 and right at the end little RR.
+20:25 Now we know this was the copy from
+20:28 yesterday. It was the V1 version of
+20:30 template Tuesday example and Renee
+20:33 Rabbit was the one that uploaded it. And
+20:36 so just to show you what this looks like
+20:37 in kind of a hierarchy stack
+20:40 go 428. We're going to say, hey, we
+20:43 didn't actually improve the version of
+20:45 this. We just improved the the work that
+20:47 was being done on it. And
+20:53 Aaron G was the one that worked on it
+21:00 too out of that. We go. And so what this
+21:03 looks like when we bring this into a
+21:05 folder structure that we're trying to
+21:07 manage
+21:10 is look at this. This ends up keeping it
+21:12 in a hierarchy
+21:14 in terms of date. If you organize by
+21:17 name, see when we organize by name,
+21:19 there's our newest copy. There's the
+21:21 previous copy. If we were to copy this
+21:23 again, right, and just say this is an
+21:26 older version.
+21:31 This is what this looks like. It just
+21:33 keeps stacking in order. So, this is on
+21:37 my Dropbox, by the way. So let's just
+21:39 say that we are sharing this across to
+21:42 some um you know internal team Dropbox.
+21:47 And so this is what we're seeing is hey
+21:49 I want to go work on the newest copy.
+21:52 I'm going to go improve this and do my
+21:54 days worth of work on it. There we go.
+21:56 There's the copy of it. And and so this
+21:59 is really the benefit of project
+22:00 management is it's a really simple
+22:03 process so long as you remember that
+22:05 export delete of it. When we come back
+22:08 to Chief, I don't have that file in
+22:11 project management. I know it's with my
+22:13 team in my Dropbox folder. When I want
+22:16 to go work on it, it's right there. I
+22:18 can doubleclick it, open it with Chief
+22:20 Architect, etc. And simple as that. And
+22:24 I get to start working on it. At the end
+22:25 of the day, I'm going to export it. I'm
+22:27 going to remove it from project
+22:28 management again. And this even gives us
+22:31 the option to start by opening a file
+22:33 that we want to work on. Pretty cool.
+22:36 Now, let me take a look at the comments
+22:38 here real quick. I just set up the
+22:40 project management management so I can
+22:41 have all my views linked for each new
+22:43 plan. Yeah, exactly. And then where does
+22:46 it live in Chief Architect? In the
+22:48 database, where is that database
+22:50 located? Um, all right. So, we're
+22:52 getting into some advanced questions. Uh
+22:54 where this lives is if you get into your
+22:57 edit preferences
+22:59 and if you come into project management,
+23:02 you're going to see that this is grayed
+23:04 out, but this is the exact location of
+23:07 where it's storing your files. Now,
+23:09 these files are encrypted files, so
+23:11 they're not going to look like much to
+23:13 you because they're just some random
+23:15 names that uh that don't really equate
+23:18 to anything that you can open with
+23:20 pretty much any editor that I've been
+23:22 able to come across. So um a lot of this
+23:25 is built on SQL. So it's a might be part
+23:29 of these files are SQLite database kind
+23:31 of files that you might be able to
+23:33 access some information for. But
+23:36 ultimately they're not going to give you
+23:38 much in terms of um the information you
+23:41 might be able to get out of these. uh if
+23:43 you do want a little advanced look at
+23:45 this and and I love sharing this kind of
+23:48 information because chief architect you
+23:50 know may come back and yell at me and
+23:52 say hey stop giving away this
+23:53 information or we're going to lock it
+23:55 down more. Um I will say that there is
+23:58 an application called tree size and tree
+24:01 size is something it's a [music] great
+24:03 utility if you're trying to manage your
+24:05 file size. Um, I find that a lot of
+24:07 these file sizes get huge. So, it's nice
+24:10 to come in here and understand where
+24:12 your data is. And so, that's what tree
+24:15 size does. So, I can come in here and
+24:17 select a directory. And something I like
+24:20 to look at is my temp files to see
+24:22 what's in them. And you'll see very
+24:24 clearly here, you know, Chief Architect
+24:26 is, you know, number one on this list is
+24:29 it's got a huge temp file directory. So,
+24:33 what this is is this is your pre-cached
+24:37 information that they're loading up. So,
+24:39 they're creating a temp directory at the
+24:41 end or beginning of your session. I'm
+24:43 I'm not sure when. And then they're
+24:46 going to access that temp directory at
+24:48 the beginning of your session. Um, so at
+24:50 the end of your session, it creates a
+24:52 temp directory. If the information in
+24:54 the cache files is different, it's going
+24:56 to write those files again. So, it's
+24:58 going to rewrite some stuff. And so this
+25:01 is a way that you could access your
+25:04 files, but they're broken up in a way
+25:05 that um that you would need to have some
+25:08 advanced technical knowledge about how
+25:09 Chief works to get that to work. Um so
+25:12 for example, this is the fastest way
+25:14 that I could export my toolbars
+25:16 currently. So but that's a really
+25:19 advanced level of looking at how Chief
+25:22 manages our files here. So, that's just
+25:26 to tell you that these are all encrypted
+25:28 files and they're stored internally on
+25:29 your hard drive at a location that you
+25:32 specify here in the options panel,
+25:34 excuse me, options section of the
+25:36 project management panel.
+25:39 While we're here, we'll just see that,
+25:41 you know, we can see that there's um a
+25:45 location here for backups. And so, this
+25:48 is a system separate from the archive
+25:51 system. The the backup part of this is
+25:55 kind of a crucial piece. Um, one, it
+25:58 gives us the opportunity to save all of
+26:00 our settings, our hotkeys, our toolbars,
+26:04 our user library, and restore that to
+26:08 either our own machine because we had a
+26:11 corruption or something like that, or to
+26:13 some other machine, meaning a team
+26:16 member or maybe your laptop versus your
+26:18 desktop. You can have the same exact
+26:21 installation with all the same settings
+26:24 and all the same projects all loaded up
+26:27 easily by backing up and restoring the
+26:31 project management. Now, this takes a
+26:33 while. If you think that your computer
+26:36 is broken because it's sitting there
+26:38 hung up for 30 minutes to an hour, no,
+26:41 that really does take that long. We're
+26:43 backing up tons of assets, thousands of
+26:46 assets where we're backing up um all the
+26:49 images from all your files. We're
+26:51 backing up all the images that load into
+26:53 maybe all the things that you've saved
+26:55 into your user library. So, backups take
+26:58 quite a long time. On average, mine take
+27:00 about 30 minutes to 45 minutes or
+27:02 something like that. So, restoring from
+27:04 backup, it's the same process. It's
+27:06 going to take a long time,
+27:08 but you can restore from that backup. Or
+27:11 another thing that's nice about that
+27:12 backup, if we go take a look at where
+27:14 that is on my machine,
+27:20 here we go. Is that backups are just an
+27:23 archive. And so inside of that archive
+27:26 are all of your files. Very similar to
+27:27 what we were just looking at in just the
+27:29 CA project file is. Here are all of my
+27:33 um plan files that are here. And then
+27:36 we've got my user library is in here.
+27:39 Um, which you know my user library by
+27:41 itself without its images is 4
+27:43 gigabytes. When you add the images it's
+27:45 13 GB. So right there my um just my
+27:49 library alone we're at, you know, 13 GB.
+27:53 So um which is very large. And then
+27:57 settings are uh your hotkeys, your all
+28:00 of your preferences, your toolbars live
+28:03 in settings. So you can extract just
+28:06 parts of this. If you wanted to go take
+28:09 a look and and go find one of your
+28:11 projects because for some reason every
+28:13 version of it's corrupted, you can go
+28:15 back to it from a backup that maybe
+28:17 you've implemented as a nightly routine.
+28:20 And so I can get back in here and go
+28:22 restore a project from here. So that's a
+28:24 nice part about the backups. Archives
+28:27 still works exactly as it did before.
+28:30 So, you can go into your archives folder
+28:31 and maybe restore um a previous version
+28:34 from that as well.
+28:37 Merlin, I see you in the chat. Hi. Thank
+28:39 you for being here. Um several of the
+28:41 people that are in the chat right now
+28:43 have my templates, so this this whole
+28:45 video might not be all that useful to
+28:47 them, but I'm going to give them
+28:49 something that's very useful. And so,
+28:51 I'm going to show you um how I implement
+28:54 project management. Some really cool
+28:56 things about this whole setup is one,
+28:58 we've got this template Tuesday example.
+29:00 I'm going to make a copy of this for for
+29:02 no reason at all. This is just going to
+29:04 be a totally separate project. Think of
+29:06 it as that. I don't know why, but Hector
+29:09 is the first thing that came to my head.
+29:11 So, I'm going to say that Hector and
+29:13 Template Template Tuesday example are
+29:16 two projects that are very active
+29:18 projects and they are what I'm going to
+29:19 be working on this week and I don't want
+29:22 to see any other projects in my project
+29:25 browser. I only want to focus on these
+29:28 two projects that I need to get done
+29:29 this week. Well, there's a very simple
+29:32 thing that we can do, which is if you've
+29:34 hit the wrench icon, which is typically
+29:37 this whole bar is at the bottom of the
+29:39 screen. So, um, typically this whole
+29:41 setup is at the bottom screen. I just
+29:43 have it docked in between these two
+29:45 because I prefer it there. So, in this,
+29:48 uh, not wrench icon, gear icon. If you
+29:51 have folders and filters open, okay,
+29:55 these are going to be your folders on
+29:57 the left hand side. So, I'm going to hit
+29:59 the plus icon and I'm going to say these
+30:02 are my active projects. And I'm going to
+30:05 hit the plus sign and I'm going to say
+30:06 these are my old projects. And maybe
+30:10 I'll hit the plus sign and I'll say
+30:13 um let's see these are these are
+30:15 Hector's projects. Okay. What I can do
+30:19 here is I can shift select multiple
+30:21 projects or control select multiple
+30:24 projects and I can go and and drag them.
+30:30 Sorry, I'm having a really jittery mouse
+30:32 today. I can
+30:34 Uh oh. Don't tell me my mouse broke
+30:36 today.
+30:39 That wouldn't be the day. This wouldn't
+30:40 be the day I want that to happen. There
+30:42 we go. I can drag these onto active
+30:46 projects. I can also drag Hector onto
+30:49 the Hector project. I can drag these
+30:52 other projects onto hold. All right.
+30:55 What that did is that assigned those as
+30:58 kind of like folder tags. They're
+31:00 filters now, if you will. So that if I
+31:02 click on Hector's, we're going to see,
+31:04 hey, this is all that's showing up in my
+31:06 project browser. This is the active
+31:08 filter that's turned on right now. I
+31:10 would have to cross this off to see the
+31:12 rest of my projects. Okay, so I can
+31:15 click on what's on hold right now. Those
+31:17 are the projects that are on hold. All
+31:19 right, what are my active projects? Bam.
+31:22 There's active projects. So it's a
+31:25 really simple system of kind of creating
+31:27 a filter. This is very similar to if you
+31:29 have Gmail creating filters in Gmail
+31:31 where you're only seeing certain things
+31:34 based on a filter and projects can exist
+31:37 in multiple filters. I like to call them
+31:40 tags, folder tags. All right, so that's
+31:43 a really nice way of just seeing, you
+31:45 know, just what you want to see. Another
+31:48 thing that you might not know about is
+31:50 um common documents and plan and layout
+31:53 templates will show in your project
+31:55 browser by default but you don't need to
+31:58 see those in the case that you've
+32:00 created a project that you use as a
+32:03 template project which I have done. So I
+32:06 don't actually display my common
+32:08 documents in plan and layout templates.
+32:11 Common documents is um where you could
+32:14 save something that you might be
+32:16 utilizing over and over again in a plan
+32:19 so that you can draw up an asset in
+32:21 there that you can use over and over
+32:23 again in a plan. And we'll show you that
+32:24 in just a second.
+32:27 So I'm going to take that out. I'm also
+32:29 going to click on this only show open
+32:32 projects. This will show in your project
+32:35 browser only what you have open. All
+32:37 right. So currently I have this template
+32:41 Tuesday example plan open. That's what
+32:43 this check mark is. And so that's what
+32:45 this
+32:47 checkbox folder icon is here is. If I
+32:49 uncheck this, it shows all my projects.
+32:53 And even if I click on hold and then
+32:56 show only open. Well, guess what? My
+32:58 only open project is not in that hold
+33:01 filter. It's in the Hector filter. Maybe
+33:04 not. Maybe it's just in active projects.
+33:06 There we go. So, we can limit these in a
+33:09 couple different ways. Limit the display
+33:11 of those in a couple different ways.
+33:14 Okay. Now, I want to talk about some of
+33:16 the um really cool things that you can
+33:18 do in project management that you can't
+33:20 do outside of project management, which
+33:22 is if you're going to share to a team,
+33:24 we could do some really cool things like
+33:27 maybe we want to find some utility that
+33:29 we like and we want to share and it make
+33:30 sure our team member has it when they
+33:32 open up their project. And so, I'm going
+33:35 to go to my own website here.
+33:37 And I'm going to utilize one of my
+33:39 favorite utilities that's on that
+33:41 website. Um, in the professionals
+33:43 drop-own menu, there is a code lookup.
+33:46 All right. And so there's a bot here on
+33:48 the right hand side. And then there is
+33:50 an advanced Google search here. Um, I
+33:53 always show the same code lookup that
+33:55 I'm that I talk about every time. It's
+33:58 just what I remember, but uh
+34:00 requirements
+34:01 over stairs. And so that will look up
+34:05 some some kind of code for the IBC in
+34:08 this case and it might give us a code
+34:10 citation that we could go research in
+34:13 the advanced Google search on the lefth
+34:15 hand side very easily. So I love this as
+34:19 a utility. Now here's what I'm going to
+34:21 do is we're going to get into where I
+34:24 saved our little example project right
+34:27 here. I'm going [clears throat] to
+34:28 shrink this down so we can see it. Okay.
+34:30 And so here's our example project.
+34:33 Here's what I'm going to do. I'm in
+34:34 Chrome. So this is very easy to do in
+34:36 Chrome is if I click this, look at this.
+34:40 It's dragging out something. And as I'm
+34:43 dragging this out, I'm going to drag
+34:45 this down to my browser here. And what
+34:48 did that do? That created a file. It's a
+34:51 file type HTML. And so now because this
+34:55 is a file, if I come back into Chief
+34:58 Architect, what I can do in my template
+35:01 Tuesday example project is I could let's
+35:06 see um import files. And so I can come
+35:11 find that example folder.
+35:14 I can find that little HTML. And there
+35:17 it is. And if I want to get really
+35:20 organized with this, I could say, "Hey,
+35:22 I want a new folder." And the new folder
+35:25 is going to be for team or, you know,
+35:28 assets. Assets for team. How about that?
+35:35 Just like that. And I can just drag this
+35:38 in here like this. Bam. And so when they
+35:42 open this up, they're going to get that.
+35:43 They're going to get that set up. So
+35:44 it's just really easy. Now, if I just
+35:46 double click this right now, watch what
+35:48 happens. It just brings that up. Super
+35:51 easy. What else is nice about this
+35:54 setup? Well, can also come in here,
+35:58 import a file, and maybe you need your
+36:00 team to have a copy of a PDF like this.
+36:05 And so, there we go. PDF is in there as
+36:07 well. So, now my team member has
+36:09 everything that they need inside of this
+36:11 project. when I go to export this
+36:13 project and in this case what am I going
+36:15 to do because my team is utilizing this
+36:18 I'm going to export and delete. Now here
+36:22 is where the difference between export
+36:24 and delete comes in handy is
+36:27 I'm going to instead export my template.
+36:31 Now my template comes with a bunch of
+36:33 different layout options and so I don't
+36:37 need my team to have all those options.
+36:39 Some of these things were just internal
+36:41 information for me. Okay, I only want my
+36:45 team to have the files that I choose.
+36:47 So, here is a way to do that is I want
+36:51 to share something with the team, but
+36:52 I'm going to limit the files that they
+36:54 have access to. So, there we go. Push
+36:57 this into
+36:59 there and export.
+37:02 Now, let's see what we can do. Kind of
+37:04 inverting this process and see if we can
+37:07 just break Chief Architect real quick.
+37:14 Let me get into my folder here.
+37:18 This just a little bit. And we're going
+37:20 to see that uh you know, we've got some
+37:22 of these template Tuesday examples.
+37:25 We've got projects assets manifest.
+37:28 Let's see if we can brute force
+37:30 something into this file with us. Right.
+37:33 So, we have this URL. Could we take all
+37:36 these files together and right-click
+37:40 them and then compress them to a zip
+37:44 file? And so there's the zip file. So
+37:48 this is example project.
+37:51 And I don't think that I've ever tried
+37:54 this before. So we might be breaking
+37:55 this. But I'm going to change the
+37:57 extension to CA prod. Now the problem
+38:00 with this is there's a manifest log.
+38:04 And so we haven't really even looked at
+38:06 the manifest log to see what's even in
+38:07 here, but it's a list of at least all
+38:10 the image files that are in this project
+38:12 and how they're linked up, etc. So, we
+38:15 might be breaking something by trying to
+38:17 build a project file, you know, in an
+38:19 inverted way. We'll see. Maybe we get
+38:22 lucky. So, we're going to open this with
+38:24 X17.
+38:27 Let's see if Chief Plays nice. All
+38:29 right, it brings this in. Let me close
+38:31 this down. And we can see here, even
+38:33 though we tried to brute force some file
+38:35 in here, that manifest is what
+38:37 determines whether or not, you know, um,
+38:40 it's going to include that file or not.
+38:41 If you want to get really clever with
+38:43 that, you could go try to figure out,
+38:44 you know, add that URL back in, export
+38:48 it, look at the manifest log, see what's
+38:50 different, write a custom bot that does
+38:53 it for you, and then you could compile
+38:55 your own CA project files and do it the
+38:58 wrong way going forward.
+39:01 So, I've got these two files in here.
+39:03 I'm going to get rid of them, and then
+39:04 I'm going to talk about some of the um
+39:07 neat things that you can do with this to
+39:09 set yourself up for just really working
+39:12 quickly and efficiently in the future.
+39:14 Let me delete these real quick.
+39:19 And this is a while this is deleting
+39:20 because that takes a second, uh this is
+39:23 an opportunity for you guys to ask some
+39:24 questions in the chat if you've got
+39:26 anything you want to go over. That
+39:27 actually went faster than I thought.
+39:31 Um, I'm going to just take a look at how
+39:34 I've got my templates built out. All
+39:36 right. So, the first thing that I do
+39:38 with my templates, because they're all
+39:39 built out, is I just get to make a copy.
+39:43 So, it's going to copy that whole
+39:45 project. And then here's my example
+39:48 plan.
+39:51 So, in the example pro plan, I get to
+39:53 open up the plan file that's here. uh
+39:56 kind of lays out where the drawing area
+39:59 is for you. And we get to just start
+40:02 drawing a building in here.
+40:07 And then from there,
+40:11 throw in some windows so we have
+40:13 something to look at or look through.
+40:15 Throw in a door so we have something to
+40:17 look through and a couple cabinets.
+40:24 Okay, let's just say for example that
+40:27 I'm in a remodel workflow and this is my
+40:30 remodel and this is um going to be the
+40:33 existing file. I have two files here. I
+40:37 have a new so proposed and an existing
+40:41 conditions in aselt. All right, I'm
+40:44 going to do a funny little option that
+40:47 exists. I'm going to say, "Hey, I want
+40:49 you to replace."
+40:52 Why would I want to replace this? Well,
+40:55 this plan file has views that are
+40:59 already sent to layout. Okay? If I had
+41:03 never had an established setup file that
+41:06 has views sent to layout, I wouldn't
+41:09 need to replace this. I would just make
+41:11 a copy of my existing file. I would just
+41:13 say make a copy um of this file, the one
+41:17 that I'm working in. All right, that
+41:19 would be simple. But in this case, this
+41:21 file has views already sent to layout. I
+41:25 want to keep those established views. I
+41:28 want to keep that linked up. So, I'm
+41:31 going to replace the asbuilt with my
+41:35 new. It's going to warn me that this is
+41:37 being sent to a bunch of different
+41:38 layouts right now. And I'm going to say
+41:40 I still want to replace it. and I'm
+41:42 going to replace it with my active tab
+41:44 right here. Pro plan in. Pro plan in.
+41:47 I'm going to replace that. So, I'm going
+41:48 to hit select.
+41:50 Would I like to delete the source file?
+41:52 No, I would not. This is actually going
+41:54 to be my proposed. So, I'm going to say
+41:57 no.
+41:58 Now, what I get to do is I'm going to
+42:00 draw in my garage edition.
+42:09 There we go. And so now this is in my
+42:11 new file. Now if I shrink project
+42:13 browser down a little bit and I get into
+42:16 my layouts that are over here
+42:20 and I'm going to choose one of my
+42:21 layouts I want to work in. We're going
+42:23 to see that this is already establishing
+42:26 things for me. It's doing a lot of the
+42:28 work for me. So you have to go back to
+42:30 the beginning of this live session where
+42:32 we talk about hey you could completely
+42:35 gut out a plan file but it has all its
+42:38 views sent to layout already and
+42:41 establish that as your template project.
+42:43 This is exactly what I've implemented
+42:45 here is that as soon as I start drawing
+42:48 it's giving me um design load criteria.
+42:51 It's giving me spec writing. It's
+42:54 building based on some preset views.
+42:57 This is what I just drew. This is that
+42:59 addition over here. This is performing
+43:03 some automatic area analysis that's
+43:05 happening just right off the bat as I
+43:08 cycle through my views. There's my
+43:10 asbuilt. Look, existing main level floor
+43:13 plan. It's already establishing what
+43:15 that is. Okay. Go to the next view.
+43:18 There's my proposed. Here's my addition.
+43:22 All right. Carry through here. There's
+43:24 my roof plan. Keep going through here. I
+43:26 will have to update my views. That's
+43:29 just um something I leave off of
+43:32 automatic update so that everything
+43:34 moves very quickly. We can see there is
+43:36 my addition. And as I cycle through
+43:39 here, you know, some of these views need
+43:41 to be just adjusted a little bit. I need
+43:43 to find my kitchen to get this on the
+43:45 right part of the page and need to send
+43:48 my elevation views. And this is building
+43:50 out schedules for me that I have to move
+43:52 a little bit just to get them in the
+43:54 right spot of the screen. But there we
+43:56 go. As we go through this, especially if
+43:58 I came back in here and built all the
+44:00 framing,
+44:03 we're going to see that these things are
+44:06 getting established on the fly. So, this
+44:08 is the power of having, you know,
+44:11 project management with a pre-lin view.
+44:15 You could do this before project
+44:17 management. You could, but it was
+44:18 challenging. It was difficult to manage
+44:21 and you had to be really clear about
+44:23 when you did some kind of a renaming
+44:25 convention on any of your files which
+44:29 brings us to how do we do some kind of a
+44:32 versioning very easily and this is where
+44:35 project management excels okay so what I
+44:39 want to do now is I'm going to expand my
+44:43 project management
+44:45 project browser excuse me Um, you know,
+44:49 I just want to note a couple things. We
+44:52 have the ability to create folders.
+44:54 Those folders can be very detailed and
+44:57 have a ton of information in them so
+44:59 that you, you know, can inform your
+45:02 team, make it really easy to find
+45:03 things. I have things in here that I
+45:05 would call print views versus working
+45:08 views versus specialty views. You can do
+45:11 folders in here, you know, to your
+45:13 heart's content and make this really,
+45:15 really organized. Now what I want to do
+45:17 is I want to say hey I've got a version
+45:19 I like. Now I want to note that in
+45:22 layout in my particular layout I'm
+45:25 sending currently three different plans
+45:28 to this. So I'm linking three different
+45:30 plans to my template project and one of
+45:33 them establishes my designer criteria or
+45:36 my builder criteria. Who is this for?
+45:39 Right? It establishes maybe the region
+45:41 that I'm working for. I can replace this
+45:45 reference I could replace it with an
+45:47 option two where it might be a different
+45:49 builder or a different region. Um, so
+45:52 that I'm working in the IRC, IBC versus
+45:55 CBC, CRC, NBC, you name it, whatever
+45:59 acronym you want to come up with. And
+46:02 when I replace this, it will replace all
+46:05 the spec writing on my first sheet. It
+46:07 will replace the design load criteria.
+46:09 So, you can do some really cool
+46:12 automatic advanced kind of things in
+46:15 this. All right. So, that's what's being
+46:17 sent to layout. Now, watch this. I'm
+46:20 going to say that, hey, this is my
+46:22 version one. This town's in that I'm
+46:24 working in. That's my open tab right
+46:26 now. That's my open tab right now.
+46:28 That's my version one. I need a version
+46:30 two now. I need a version where I'm
+46:32 going to change that garage to double
+46:34 wide. And so, you could rightclick on
+46:37 this and do two things. And I've really
+46:40 pushed Chief to rename this. I would
+46:42 love it if this was named something
+46:44 different um that was more informative
+46:47 to the user because most people that I
+46:49 know get into the project browser, look
+46:52 at these names, and are very confused.
+46:55 In fact, I still am confused when I look
+46:58 at these. They don't inform me as to
+47:01 what this is doing. But what this is
+47:04 doing is I want to within my same
+47:07 project make a new folder that is going
+47:11 to be a new design version.
+47:14 And so this is a fantastic part of
+47:18 project management. It's just got an
+47:20 unfortunate name for how to do it. Make
+47:23 a copy with links to new folder. I just
+47:27 showed you the links that they are
+47:29 talking about. I wish they instead said
+47:32 reference files because that's quite
+47:35 literally what they call them in the
+47:37 software. It's make a copy of your
+47:41 existing file with all of its references
+47:45 to a new folder. Okay,
+47:50 here we go. I'm going to hit that. The
+47:52 item or one of more of the plans that's
+47:54 been referenced has been modified. Would
+47:56 you like to save the changes? Yes, I
+47:57 would. So, I'm going to say yes. This
+48:01 now creates a brand new folder where I
+48:03 get to say, hey, this is version two,
+48:08 version two. It brought in all the files
+48:12 that were referenced.
+48:14 So, this is now version two. In fact, it
+48:16 would make sense for me to come in here
+48:19 and whatever the name of this is, you
+48:22 might be able to name it HectorV2 if you
+48:25 wanted to. You don't need to. If I open
+48:27 this up and we looked in in the title up
+48:31 here, is it going to inform me Hector
+48:34 V2? Yes. But it doesn't actually tell me
+48:37 that this is coming from, you know, uh,
+48:39 the subfolder V2. So, it might be
+48:43 important for you to add that to the
+48:45 title of your plan so that you're not
+48:47 confused about which one is the current
+48:50 version. All right. Now, another way you
+48:54 can do this and set this up is if you've
+48:56 got, you know, my templates, for
+48:58 instance, and they're organized in such
+49:00 a specific way and it might be difficult
+49:02 to track this information for where you
+49:04 get to the version one, you could still
+49:07 come back to that open layout and make
+49:10 another copy with links to the folder
+49:12 and say, "Hey, this is version one." And
+49:15 just go delete everything else. I no
+49:18 longer need anything else that's on the
+49:19 screen now.
+49:21 So, I could come in here, delete all of
+49:24 those files, delete all these layout
+49:26 files. That wouldn't matter
+49:29 because now I have everything I need.
+49:36 All right, let me take a look at the
+49:37 chat real quick.
+49:40 Let's see.
+49:43 How can I create a system variable for a
+49:45 project? Um, I think what you were
+49:47 asking is what I just went over, a
+49:49 system variable. Tell me more about
+49:51 that. That's from uh that's an
+49:54 interesting name. MACP
+49:58 MiC.
+50:00 How can I create a system variable for a
+50:01 project? I think that's what we were
+50:03 just talking about. So, let me know if
+50:05 that's not what we were talking about
+50:06 and uh I can go over that for you.
+50:09 Let's move this chat above my head here
+50:11 real quick. Um how about wall
+50:13 elevations? Yes, you can save wall
+50:17 elevations. Um, just note that the way
+50:20 that wall elevations work is that
+50:22 they're working from an XY sheet space.
+50:25 So that's XY coordinates in sheet space.
+50:28 And so what happens with that is if
+50:31 you've got a kitchen that in XY is up at
+50:35 the top of your screen and you sent
+50:38 those elevations to layout and then
+50:43 now you have gutted that project and
+50:45 saved it as a template project and
+50:47 you've present those wall elevations. If
+50:50 you were to go start a new project and
+50:53 your kitchen was not in the same space,
+50:56 you're going to then have to pan those
+50:58 wall elevations over in the layout box.
+51:02 So, you're going to have to go to the
+51:03 layout box, use the pan scale tool, and
+51:06 pan it over or relink it and uncheck
+51:10 keep contents in in the same position so
+51:13 that it reenters the contents. I find
+51:16 that it's a lot faster to just send your
+51:18 wall elevations again.
+51:22 And then how in your pro plan can I
+51:25 import another house plan that I can
+51:27 show as a reference house
+51:33 and shop together?
+51:36 Tell me what shop together means,
+51:38 Victor. That I can show as a reference
+51:40 house and shop together. Um Oh, and show
+51:43 together. How in your pro plan can I
+51:45 import another house plan that I can
+51:46 show as a reference and and show
+51:49 together? Um, I'll show you that. And
+51:51 then is there NBC and CBS? NBC is the uh
+51:56 um uh is Canada's code and then uh CBS
+52:00 is some network, some television network
+52:06 and then system variable looking to feed
+52:09 information to build the IRC coding into
+52:12 the project.
+52:13 Um, oh, we're talking about maybe a
+52:15 macro variable. Um, I'll show you how
+52:17 that works. That's a little bit
+52:18 advanced. Um, so first I want to start
+52:22 with, you know, now I've cleaned up this
+52:24 plan. I deleted everything that I didn't
+52:26 need and I've got my version one and my
+52:28 version two very simply. Okay. And so
+52:30 this is going to be my Hector version
+52:32 one.
+52:37 And I mean, again, this is just what's
+52:39 so powerful about project management
+52:41 mode is this is what my team is going to
+52:43 get when they open this up. They're
+52:44 going to get version one, version two.
+52:46 You know, maybe they've got some kind of
+52:48 internal um documentation
+52:50 [clears throat] about what that means.
+52:51 And so, this just makes it so easy. How
+52:55 are we going to get this back to the
+52:56 team when I'm finished drawing at the
+52:57 end of the day? I'll repeat. We're going
+52:59 to export it and we're going to delete
+53:01 it, right? It's going to live on our
+53:03 Dropbox. other team members going to get
+53:05 to double click it, open it up in Chief
+53:08 and they're going to see exactly this.
+53:10 So they're not going to have any missing
+53:12 texture files, no broken links. All the
+53:15 naming conventions are there. As you can
+53:17 see, I was just renaming things freely
+53:20 without caring at all. And when I open
+53:22 this, my Hector V2 will be there and
+53:25 linked up. So that's what's really nice.
+53:28 Now, let's do something different in my
+53:30 Hector V1. I'm going to
+53:34 um for instance, I'm gonna mess up mess
+53:38 this whole thing up and I'm going to
+53:39 move this project way over to the right
+53:41 and I'm going to give Well, that's not
+53:44 true. Let's just uh let's let's do
+53:46 something different with it. We'll just
+53:47 add something to it. So, I'm going to
+53:50 add something to it. And then I'm going
+53:52 to open up
+53:55 my V2 uh project. And this is going to
+53:59 respond to
+54:02 um Victor. All right. And so this is a
+54:06 way we can reference another plan file.
+54:08 One is you want to get your plan file
+54:10 into that project. So make a copy of
+54:13 your plan file, get it into that
+54:15 project, um is what I would say. And so
+54:18 what I'm going to do is we're doing it a
+54:20 number of different ways. We can do it
+54:21 in this view where we are changing the
+54:23 floor or reference.
+54:25 and then change your floor or reference.
+54:27 I could reference that V1 plan. And in
+54:32 referencing my V1 plan, I could because
+54:36 it's drawn in the same X YZ space, I
+54:40 could punch in some number here,
+54:43 like a th00and to move this project over
+54:46 as a reference. All right. So, if I say
+54:48 yes to that, and we toggle the display
+54:51 of that reference, look at that.
+54:55 We see that this is my V1 plan. We're in
+54:58 or yeah, we're in V2 plan right now.
+55:00 This is the V1 plan over here. So, I'm
+55:03 referencing that other plan. Or I could
+55:06 change that reference and click on edit
+55:08 offset. And now I could actually move
+55:10 this to wherever the heck I want. Look
+55:14 at that. Isn't that cool? Not only that,
+55:18 but I could change the layer set that's
+55:20 being referenced to something I've
+55:22 established like existing floor plan. If
+55:25 I wanted to see a certain layer set
+55:28 alongside of this view, all right, this
+55:30 is an independent layer set of what the
+55:33 active layer set is. I am in a different
+55:36 layer set in my active view than what's
+55:39 being referenced. Now, if I were to go
+55:42 pull a 3D view to take a look at this.
+55:48 Here we go.
+55:50 I'm going to go ahead and turn on that
+55:53 reference again by change floor
+55:54 reference. Choose the existing plan.
+55:56 There it is. It already has that offset.
+56:00 All right. So, it's going to show this.
+56:02 And if we change the rendering mode
+56:07 from glass house to standard, well,
+56:11 something that's undocumented is she
+56:13 will actually render this in somewhat of
+56:16 a PBR ray trace mode as well. So, kind
+56:20 of easy to see a lot development if you
+56:22 do it this way, right? And it's even
+56:24 rendered pretty cleanly. So, it's a
+56:26 pretty nice feature that they're they've
+56:28 given us. You can still change the
+56:31 reference and in this view edit the
+56:33 offset and this will give you a little
+56:36 edit handle where you can drag this and
+56:38 actively move this in the 3D view
+56:41 including a little pointto-point tool
+56:42 which I wouldn't recommend. It doesn't
+56:45 work all that well.
+56:47 So there we go. That's a way that we can
+56:49 show that reference.
+56:51 Now I noticed someone saying can I turn
+56:53 off the project management to show the
+56:55 save as? What is the best approach? I'm
+56:58 just going to really encourage you to
+56:59 not do that. Um, save as is quite
+57:02 literally the same as export, but export
+57:05 gives us way more options. So, if you
+57:09 just insist on having save as, you can
+57:12 turn off project management from
+57:13 preferences, edit preferences,
+57:17 and then um you're just going to get
+57:19 into the project management panel, and
+57:21 you're going to turn off use chief
+57:23 architect project management. But now
+57:25 you are back to managing all of your
+57:27 assets. You have to manage your naming
+57:29 conventions so that you don't break
+57:31 links. You have to make sure that you're
+57:33 not doing a save as because that won't
+57:35 mean anything to another system because
+57:38 you would need to do a backup instead of
+57:40 a save as because you're going to be
+57:42 missing texture files. So really save as
+57:46 is a just a deprecated old um form in
+57:50 this case. I wish we named export save
+57:54 as because then you would just utilize
+57:56 that because it's something that's
+57:58 trained in us for decades of using Mac
+58:02 and PC, right? We all know what save as
+58:04 is. Unfortunately, the name is called
+58:06 export. It's it's basically the same
+58:09 function except for with superpowers.
+58:12 So, I would really really encourage you
+58:14 to leave project management on, give it
+58:16 an honest try and use export instead of
+58:19 save as. But if you just if you need
+58:21 that and I understand that, then that's
+58:23 how you would do it is you're going to
+58:25 go into preferences, turn off that
+58:27 project management, and we're back to
+58:28 managing our files the old way. I would
+58:31 encourage you to get used to this system
+58:33 because eventually Chief Architect will
+58:35 implement their cloud service. And then
+58:37 project management will be um a pretty
+58:40 instrumental part of utilizing cloud
+58:42 where we get to just choose one of our
+58:45 projects and rightclick and say share
+58:47 with a team member. And it's as easy as
+58:49 that. So, I really really encourage
+58:52 people get used to project management
+58:53 instead.
+58:58 Um, Victor, you're getting off the rails
+59:00 on on what this show is. This is about
+59:02 project management, [laughter] not your
+59:05 personal tech support, buddy.
+59:09 I'm going to I'm going to ignore that
+59:11 last request from you.
+59:13 Um, I I don't know that you can't uh
+59:16 reference from some other plan outside
+59:18 of this project file. Um, I think that
+59:21 you can.
+59:24 You just going to choose an existing
+59:26 plan. Um, it does look like it's it's
+59:29 you're only going to be able to
+59:30 reference it within the existing
+59:31 project. So, you'd have to bring that
+59:33 file in. Um, which means that now you're
+59:35 managing, you know, two different
+59:36 projects. So, you can, of course, make a
+59:40 copy. I'll just show you this. I'm going
+59:42 to say I'm going to make a copy of my um
+59:44 example pro plan. All right. Oops. Chose
+59:48 the wrong thing. Make a copy.
+59:50 I'll go ahead and save my changes.
+59:54 Let me show you how you can do this very
+59:56 easily. Let's just say that my copy did
+59:58 not have version two in it. All right.
+1:00:01 And so my version two was in a separate
+1:00:04 project.
+1:00:09 So, here's my version two in this
+1:00:11 separate project. This is my example pro
+1:00:14 plan copy. This is my example pro plan.
+1:00:17 Let's just get zoomed in on this. All
+1:00:19 right. I need my version two right here
+1:00:24 to be in this project so I can reference
+1:00:26 it in that 3D view or that plan view. I
+1:00:30 just get to go this make um I'm going to
+1:00:34 actually come in and copy this layout.
+1:00:37 Make a copy with links to project.
+1:00:40 We talked about we know what this
+1:00:42 actually is. It's make a copy of this
+1:00:45 layout file with all of its reference
+1:00:48 files to another project. Okay.
+1:00:53 Make a copy with links to project. Now
+1:00:56 I'm going to choose this one which did
+1:00:58 not have that version two.
+1:01:02 Now this is the copy.
+1:01:06 There's all these version two files.
+1:01:10 So I'm going to have to create a new
+1:01:12 folder for these version two
+1:01:17 and just dump these in.
+1:01:19 There we go. So now I can reference that
+1:01:22 they're all within one project file.
+1:01:28 Um, Todd Peek said, "Is there a clean
+1:01:31 and easy way to just copy solely the
+1:01:34 layout template to another project?" I
+1:01:36 just showed you how. Um,
+1:01:40 well,
+1:01:42 that's not true. I didn't show you how.
+1:01:45 Let me show you how. I'm going to open
+1:01:47 up this Townsen RD. and you're saying
+1:01:52 you only want the layout file. You do
+1:01:54 not want any of the linked um files that
+1:01:57 are here. In that case, what you're
+1:01:59 going to do is you're going to come into
+1:02:01 the layout. You're going to get into all
+1:02:03 these pages and you're basically going
+1:02:05 to clear these out. You're going to
+1:02:06 either delete them or delete all the
+1:02:08 contents on the screen. If you wanted to
+1:02:11 not delete the pages because you've
+1:02:13 established some naming convention and
+1:02:16 sheet organization, then it's a little
+1:02:18 bit more tedious because you'd have to
+1:02:21 get rid of all everything that's on the
+1:02:22 sheet. And so in this case, what might
+1:02:25 be easier is to change the reference
+1:02:27 plan. And in this case, maybe changing
+1:02:30 the reference plan. That's um
+1:02:34 yeah, no, I don't think there's an easy
+1:02:35 way to doing this. I think you pretty
+1:02:37 much just have to do a just big select
+1:02:39 here and delete all the contents on the
+1:02:41 screen. And once you do that, then there
+1:02:45 shouldn't be anything else linked.
+1:02:49 So, let's just try this out. Now, some
+1:02:51 of my title block is coming from a
+1:02:52 linked plant. So, even that has to get
+1:02:56 um deleted.
+1:02:58 And you just have to make sure you're
+1:02:59 getting everything.
+1:03:05 This is going to be a little tedious. I
+1:03:07 guess it's not that time consuming. This
+1:03:09 is going to be the last thing I do and
+1:03:11 then we got to end the show and go get
+1:03:12 back to work.
+1:03:14 So,
+1:03:20 and even in I think even this guy comes
+1:03:24 from a different plan.
+1:03:26 Oh, and even my logo comes from a
+1:03:28 different plan. So, I have a bunch of
+1:03:29 stuff I'd have to clean out. Okay, so
+1:03:32 let's just say that's all blanked out.
+1:03:34 Then you should just be able to make a
+1:03:36 copy and drag it into another plan. In
+1:03:39 fact, if I just shut this down and I
+1:03:42 save it.
+1:03:44 That's it right there.
+1:03:46 I can just drag it into another plan.
+1:03:48 See that? There we go.
+1:04:02 And let's see.
+1:04:04 And so it's it is still seeing that it's
+1:04:06 got some linked plans in there. So I'd
+1:04:08 have to replace those links or delete
+1:04:09 them or what have you.
+1:04:12 Yeah, you'd have to totally clear out
+1:04:14 the links to be able to just drag a
+1:04:16 blank layout over. Maybe what's easier
+1:04:18 is just to rebuild a new layout that's
+1:04:21 that doesn't have anything linked or um
+1:04:24 I think we have the save as
+1:04:26 function as well. If I open this up
+1:04:30 file menu, save as template. That'll
+1:04:33 clear that out.
+1:04:38 Yeah,
+1:04:40 that would clear that out. That would
+1:04:43 bring that into
+1:04:46 your plan and layout templates and then
+1:04:48 you could drag that into a new project.
+1:04:57 All right, guys. Yeah, it's past 10:00.
+1:05:00 I hope uh I hope you got some questions
+1:05:02 answered about the project browser and
+1:05:04 why we might want to use it. Let me um
+1:05:07 you can let me know in the comments of
+1:05:08 this. So, you can always find this video
+1:05:11 in the live tab on my YouTube channel.
+1:05:14 So, you go to my YouTube channel, hit
+1:05:15 the live tab, you could see all the
+1:05:17 previous live template Tuesdays, you
+1:05:20 could go drop some comments there. I do
+1:05:22 get notified and I'll try to answer you.
+1:05:24 So, if you've got some more questions,
+1:05:25 if you're, you know, watching this as a
+1:05:27 recording, um, this is why I brought the
+1:05:29 chat in finally, um, so that we can see
+1:05:32 the live chat to see who I was
+1:05:33 communicating with and stuff. Yeah, if
+1:05:35 you got more questions, go ahead and uh
+1:05:38 and drop that into the comments section
+1:05:40 on that live video once it's finished
+1:05:41 processing. And for everybody else,
+1:05:44 thanks for joining me today. Have a
+1:05:46 great Tuesday. I'll see you out on the
+1:05:47 boards. See you next week.

@@ -1,0 +1,1509 @@
+Title: Template Tuesdays #5 - Detail Drawing
+URL: https://www.youtube.com/watch?v=XxfKP1G_9ss
+Visibility: members-only
+
+0:00 Leave it to me to have a mouthful of
+0:01 food when I'm going live.
+0:06 All right.
+0:09 This ought to be an interesting episode.
+0:13 I was up till 4:00 a.m. last night and
+0:15 my brain wouldn't let me sleep. I was
+0:17 working on something.
+0:19 So now I feel pretty foggy.
+0:21 But
+0:22 um
+0:24 wanted to get into doing some detail
+0:26 drawings.
+0:31 Let's just go ahead and announce that
+0:33 this event is on right now.
+0:39 It's really hard to to schedule all this
+0:41 stuff and get it rolling and do it all
+0:43 by yourself.
+0:44 Maybe I should get someone to help me.
+0:47 That would be nice.
+0:49 Yeah, so we're going to post on
+0:51 Facebook. Happening right now.
+0:53 A little link.
+0:57 That'll help.
+0:59 That'll help get you all in here and
+1:01 hanging out.
+1:07 So I started a new Good morning,
+1:10 Anthony. Um I started a new
+1:14 new Pro Plan template for myself.
+1:17 Um I'm in the development cycle for X18
+1:20 and
+1:21 as much as I can, I will try to develop
+1:25 my template for X18 in the previous
+1:28 version. So whatever next version and
+1:30 they come out with beta and we're in the
+1:32 beta testing, then I try to um
+1:35 see what I can do about making
+1:38 improvements in the previous version
+1:40 because you can do a lot of improvements
+1:43 with with macros. So I'll show you my
+1:45 existing detail system or or rather my
+1:48 detail system as it stands right now. I
+1:51 just did a bunch of work on redoing it.
+1:54 And so here's
+1:55 um when you open up my templates
+1:59 um
+2:01 And by the way, I'm just going to
+2:03 mention it now. You can buy my
+2:04 templates. They're from my website. And
+2:06 so, it's one of the main things that I
+2:07 sell. And that's part of doing these
+2:09 template Tuesdays is getting a little
+2:11 bit of exposure, so it helps me out so I
+2:12 can help you guys out and
+2:14 [clears throat] by giving you some
+2:15 you know, free tutorials and lessons and
+2:17 stuff. So, um that helps me out. Go
+2:19 check it out. It's in the It's in the
+2:21 link. Anyways, uh when you open up my
+2:24 template uh the new versions have this
+2:27 little callout here, and you
+2:28 double-click that and it gets you to
+2:30 this page. Now, this page has been
+2:31 reworked. I've been trying to make this
+2:33 look a little
+2:34 less intimidating. Um, so I'm going to
+2:37 keep working on this until I make it to
+2:39 me look like it's not so cumbersome.
+2:42 Right now, it looks very cumbersome to
+2:43 me. So,
+2:45 but I will show you how this works is
+2:47 you get to kind of zoom in here, and
+2:50 you'll see that there's a bunch of
+2:51 schedules.
+2:52 And in these schedules are a bunch of
+2:55 annotations. And so, what happens here
+2:57 is if I slide this 2 by 8 at 24 on
+3:00 center to the number one slot, and this
+3:02 represents wall framing one and two in
+3:05 this case,
+3:06 then what that means is that this just
+3:09 changed to 2 by 8
+3:11 Doug fir num- it changed to that
+3:13 annotation. What's even better than that
+3:16 is it changes every single annotation on
+3:19 every detail that I include. So, that if
+3:21 I go open up um one of the layouts that
+3:24 I include here,
+3:26 and we go take a look at like the detail
+3:28 page,
+3:30 which should be somewhere around here.
+3:33 Yeah. Then, we should see that if I did
+3:38 my job right and I'm linked to the right
+3:40 file, which I might not be, uh then that
+3:43 detail designation should have changed.
+3:47 And that's funny. I must be in the wrong
+3:50 linked file. Oops.
+3:53 Something like that. So,
+3:56 oh, what did change to 2 by 4?
+3:59 What happened? Did I hit undo?
+4:02 No, I did not. Wall framing 2 by 8 doug
+4:05 fir and then
+4:06 the number two slot ends up being
+4:09 the second floor. Now, I just redid this
+4:11 so it'd be pretty funny if somehow I
+4:14 screwed up the way this is firing. And
+4:16 there we go. There's that 2 by 8.
+4:19 So, let's go look at the previous page.
+4:22 Does it say 2 8? There we go. Yeah, it
+4:24 is working. I must have hit undo or
+4:26 something. Who knows?
+4:28 So, it makes drawing details very, very
+4:31 quick and easy.
+4:33 Now,
+4:35 I've since added a bunch of text objects
+4:39 to my library browser and they represent
+4:42 that same detail system. And so,
+4:45 you should be able to come into a cross
+4:47 section and just drop this in and
+4:48 there's that same annotation. And if I
+4:51 tile this side by side and we go and
+4:55 take a look
+4:58 more time and I change this back, that
+5:02 should change this as well. There you
+5:04 go. So, now I have these
+5:06 text annotations that I just get to drop
+5:08 in.
+5:09 And so, this is a perfect opportunity to
+5:11 show you how I might use these to draw
+5:13 out
+5:16 some cross sections.
+5:18 So, I'm just going to do a really basic
+5:20 shaped house. You'll see me do this a
+5:21 bunch of times. I always draw this
+5:23 L-shaped house for some reason.
+5:28 Couple windows in here. Maybe we'll do
+5:31 um
+5:32 Maybe I'll throw a break in here right
+5:36 along
+5:38 this line so that this is gable end
+5:41 walls.
+5:43 This is a gable end wall.
+5:47 Um so, we can see what our building
+5:48 looks like.
+5:52 Damn, something like that.
+5:57 So, now that I've got that, doing a
+5:59 little back clipped cross section view.
+6:01 And I think
+6:03 that this is um, you'll notice that I'm
+6:06 actually drawing this
+6:08 almost um,
+6:11 almost center on this ridge line.
+6:13 Right? And I'll And sometimes I'll draw
+6:16 this through to the back wall.
+6:18 And then, what I can do is I can take
+6:21 this and back this up 3/4 of an inch.
+6:24 And that would help me miss
+6:26 my ridge board.
+6:28 And so, go back to the cross section.
+6:30 This will have been updated about that.
+6:33 Now, oftentimes, I might, you know, cut
+6:36 a cross section view so that I'm not
+6:38 seeing all that
+6:40 this this back element here.
+6:42 And so, we'll just show you what that
+6:44 looks like. Let me tile this side by
+6:45 side. Let me kind of shrink my project
+6:47 browser down so we get some more screen
+6:49 real estate.
+6:50 And then,
+6:52 we'll see this back clipped cross
+6:53 section.
+6:54 And I could snap this down on itself.
+6:58 And so, while I'm dragging this and I'm
+7:00 picking up the snap,
+7:02 I'm going to hit tab.
+7:04 And I'm going to hit end. And then, I'm
+7:06 going to say minus inch and a half. So,
+7:08 that makes my back clip, total back
+7:10 clip, inch and a half. Look what
+7:11 happened in the cross section view.
+7:14 And so, then we have two more tools. One
+7:16 is build all framing. If you have tool
+7:18 search, and if you don't have tool
+7:19 search, let's put it on your toolbar
+7:20 right now.
+7:22 Um, get into customize toolbars.
+7:28 You can just type in search.
+7:30 Drag this tool search to somewhere on
+7:33 >> [clears throat]
+7:33 >> your toolbars.
+7:35 But, in tool search, you could always
+7:37 look for build all.
+7:40 And that would get you to build all
+7:41 framing.
+7:42 Um
+7:45 or build framing in this case, but yeah,
+7:46 build all framing is the top spot. I
+7:49 have it on my toolbars, so I'm just
+7:50 going to hit that.
+7:52 Now, I have the layers turned on that I
+7:54 want, so sometimes it'll prompt me that,
+7:57 you know, some of my layers are turned
+7:58 off, do I want to turn them on when I
+8:00 hit the build all framing, and I always
+8:02 say no because my layers sets are
+8:04 already set up and established the way I
+8:06 want them. So, build all framing is just
+8:08 a really quick and easy way to get all
+8:10 the framing built, and I don't
+8:11 necessarily need to display new layers.
+8:13 So, keep that in mind when you hit that.
+8:16 Um
+8:17 Someone's asking if I have the metric
+8:18 version of the template. No, the person
+8:21 that uh assisted me with was assisting
+8:23 with me with that, and we got about 2/3
+8:26 of the way through it um has left town
+8:29 um to take care of a temporary gig, and
+8:32 um and I have not picked it back up. Um
+8:36 and boy, is that a long process
+8:39 rebuilding my templates.
+8:40 Um I can't tell you
+8:43 these templates I try to make them seem
+8:45 really, really simple. They are anything
+8:47 but. Um on the back side of it, on the
+8:50 development side of it, they're really
+8:51 complex to build, so I'm not quite there
+8:53 yet on building the metric templates. I
+8:55 do have a version of them that works,
+8:57 but they are not a polished product yet.
+9:00 Um and thank you for asking. If you um
+9:03 if you haven't already, shoot me an
+9:05 email, and I'll put you on a wait list
+9:07 um an email or list about um sending out
+9:10 when those metric templates will be
+9:11 available.
+9:14 So, let's just get back into the cross
+9:17 section here, and I mean, this is
+9:19 looking pretty clean already. We've got
+9:21 just the ridge board, which is what I
+9:23 wanted. We've got, you know, we're
+9:25 showing a window in plan. Um for some
+9:27 reason, we're not getting fill on the
+9:30 framing here, and I'm not sure why that
+9:32 is. It must have staggered that framing
+9:35 outside of
+9:36 Um
+9:37 if I really wanted a really clean cross
+9:39 section, maybe I cared about placing the
+9:41 wall framing center so that it got
+9:43 within that clipping, but maybe not. Um
+9:46 probably don't care. And then, there is
+9:49 also a tool called auto detail. And so,
+9:51 I'm going to hit that as well.
+9:53 And so, it's going to say, "Do you want
+9:54 to place auto details on the current CAD
+9:56 layer? Choosing no will place the
+9:58 details on the corresponding
+10:01 object layer." Now, you might want to
+10:03 keep it on the corresponding object
+10:05 layer if you want um some different line
+10:09 weights depending on what you're doing,
+10:12 okay? And so, um if I said no, that puts
+10:15 it on the object layer, and you can see
+10:17 now that the uh color style or the the
+10:21 the layer color is directing
+10:25 what this looks like.
+10:28 Okay.
+10:29 If I were to undo that and do a little
+10:32 auto detail again,
+10:35 and I'm just going to put it on the
+10:36 current CAD layer,
+10:37 then it's going to do something a little
+10:39 bit different. And my fill styles are
+10:42 are a little messed up here because
+10:43 they're This is all being derived from
+10:46 the layer color. And so, this is filling
+10:48 in really dark black, and
+10:50 I don't really want that, but you know,
+10:53 we can deal with that just by selecting
+10:55 those things and changing that fill.
+10:57 Now, for the whole, this doesn't look
+10:59 all that bad, and I'm going to show you
+11:01 the cheater way that I do my details,
+11:04 which is that I have a bunch of
+11:06 boilerplate details already built. So, I
+11:08 oftentimes will just come in here with a
+11:09 callout and bam, throw this callout in
+11:12 here. And then,
+11:13 the default for this view, which you can
+11:16 set up through your default settings,
+11:19 get in your default settings, camera
+11:21 tools, cross section elevation, and the
+11:24 arrow style,
+11:26 you can change the arrow style as a
+11:29 default for whenever you pull a cross
+11:31 section elevation, but my arrow style is
+11:34 a 25-in
+11:36 open-ended circle, making it really easy
+11:39 for me to do just that. Which is
+11:42 draw out this arrow,
+11:45 bubble something in the view, and then
+11:47 this detail I will link
+11:50 to some detail in my plan.
+11:53 So, in my plan, then I'll go look for
+11:55 something like in this case, this is
+11:57 some kind of foundation, all right?
+11:59 So, I can look and find, you know, I'm
+12:02 in my Pro Plan here. I'm looking for um
+12:06 foundation typical stem wall. There we
+12:08 go. And because this is already sent to
+12:10 layout, and I already have layout open,
+12:13 and I have a really special macro
+12:14 communicating back and forth between
+12:16 layout, it go it it
+12:19 labels this for me. And so, if I got to
+12:22 sheet A10, which is the very next sheet,
+12:24 and we see uh detail 27
+12:28 right here, okay? If I had moved this
+12:30 up, if this was actually way up here,
+12:32 this is going to automatically number
+12:34 for me.
+12:38 Um with a little bit of updating, and I
+12:40 come back here and look at that, it's
+12:42 changed its number, so. I've got a
+12:44 little macro set up there. That's
+12:46 that's going to be pretty advanced to
+12:48 set up, so I'm not going to show you how
+12:49 to do that, but
+12:53 I get back in here and try to undo that
+12:55 action.
+12:57 There we go. Cool.
+12:59 So, an alternative to this would be that
+13:01 we actually draw these details out, and
+13:03 how do we do that? Now, there's a couple
+13:04 different ways I could think of. One is,
+13:06 I might actually go find that detail in
+13:08 the plan. So, let me go ahead and select
+13:11 this object. I've already got this drawn
+13:13 out. It looks exactly the way that I
+13:16 want it to. I could maybe come and copy
+13:19 this and
+13:21 paste it
+13:23 right on top here, and then start
+13:25 shrinking some stuff down, and try to
+13:27 conform it to the actual model. And so
+13:30 it would almost be like a cutaway,
+13:32 right?
+13:33 So that'd be kind of clever.
+13:35 So what would you even do with this
+13:37 because it's not going to look perfect,
+13:39 right? So before we even get too far
+13:40 with that,
+13:42 let's actually get rid of
+13:45 some of this CAD detail work. Now
+13:47 there's some really cool things you can
+13:49 do with CAD in Chief Architect and so I
+13:52 want to kind of redo this section with
+13:55 the detail that I've already drawn. And
+13:57 so we could do things like um maybe we
+14:00 use the trim object tool in sticky mode
+14:02 and just trim a bunch of these CAD
+14:05 details that were drawn through here so
+14:07 that we're getting rid of them.
+14:09 And so I'm just
+14:11 in case you didn't know what I did, I
+14:13 could show you this again. I just threw
+14:15 this box up somewhere where there was
+14:17 some CAD detail happening there. And
+14:20 then I used the
+14:21 trim objects tool, trim objects tool,
+14:25 and I sticky moded it.
+14:27 And then I just get to draw a line
+14:29 through here and you can see that it's
+14:30 cutting the insulation as it crosses.
+14:34 All right, it's cutting that back.
+14:36 Draw a line through here and it'll cut
+14:38 any kind of fill that's happening here.
+14:40 So that cool little trick for just kind
+14:42 of cleaning up some CAD stuff. And then
+14:44 you might take this and copy paste it
+14:47 about and extend it.
+14:49 So that there's that gap section.
+14:51 That's it.
+14:54 So I've kind of gapped this section out
+14:56 and so now I can paste that detail in.
+14:59 Oops, except I probably just copied
+15:00 something different.
+15:07 And
+15:08 and then we'll shrink it down. And so
+15:11 I'm going to get this close
+15:14 to the correct size, close, not correct.
+15:19 Something manageable.
+15:22 Yeah, something that, I think. And let's
+15:25 go ahead and expand this view now.
+15:28 And then the next thing I'm going to do
+15:29 is I'm just going to kill all these
+15:30 leader lines for now.
+15:33 Um I can redraw those pretty quickly.
+15:38 And then some of these dimensions are a
+15:39 little bit goofy. [clears throat]
+15:41 Um
+15:42 And we see this this is what's happening
+15:45 here is this is a polyline and it's got
+15:48 a label. And so it's picking up the
+15:49 label style of this view. And so if I've
+15:52 got that selected and I look and I see
+15:54 polyline labels, that's what this is
+15:56 being driven from.
+15:59 And so for this view, if I want to, I
+16:01 can conform this down so that
+16:03 Um right now it's using the default text
+16:06 style, which it seems like it's a lot
+16:08 larger than the default text style. So I
+16:11 might have to come in here and take a
+16:12 look, but I could set this to a custom
+16:14 layer so that I could set that Um those
+16:18 sizes up separately.
+16:21 And for right now, let me just get rid
+16:23 of them.
+16:24 They're
+16:25 bothering me.
+16:31 So, what do we do from here? Um we can
+16:34 do a couple things.
+16:35 One is we could do what's called the
+16:37 stretch CAD. That um really makes life
+16:40 easy in a lot number different ways,
+16:42 which is you can just make a selection
+16:45 any selection, really. Um you're just
+16:47 making Or you can even take a box
+16:50 and make a selection and use the stretch
+16:53 CAD tool or just enable the stretch CAD
+16:55 tool, which is in your edit menu,
+16:57 stretch CAD.
+16:59 Okay, that's that right there. Hopefully
+17:00 you can see that on the screen. Yeah,
+17:01 you can.
+17:03 So with stretch CAD, I can come in here,
+17:05 draw a little box like this, and then
+17:09 look what happens. I get to just stretch
+17:11 this out. All right? Now notice that
+17:13 we're picking up this little CAD
+17:17 deal right here. This is um um
+17:20 This is what I use to highlight all of
+17:23 the the cut section of my drawing.
+17:27 So, what do we have? What's the actual
+17:30 model? I'm getting confused. What's the
+17:31 actual model versus what's my drawn
+17:34 model? Because we're seeing
+17:36 uh framing floor joists in the shot.
+17:40 And we don't want to necessarily move
+17:41 those. So, maybe we should have built
+17:43 that framing later, which I can do.
+17:47 Haven't done this in a long time. Let's
+17:49 try this out.
+17:50 So, we're going to delete all objects.
+17:53 Deleting all framing objects. There we
+17:55 go. That leaves us
+17:57 just
+17:58 our core stuff here. And then CAD
+18:00 default was some CAD I did not quite
+18:03 clean up.
+18:05 Must have been.
+18:06 And
+18:08 So, here is my drawing.
+18:11 So, I'm just going to start piecing this
+18:13 together. But, what's nice about the
+18:15 stretch CAD tool is
+18:19 that we can just take certain elements
+18:21 and stretch them down and get them
+18:23 really close to in place. So, I'm just
+18:25 bringing this footing down so that it
+18:27 gets really close to in place. And now I
+18:30 can use that same tool
+18:35 It's still enabled.
+18:36 I kind of slide this stuff over
+18:39 so that it's lined up the way I want it
+18:42 to be.
+18:43 Um
+18:45 It might be nice to just get it way over
+18:47 so I can get it back.
+18:49 And what's great is we can still use
+18:51 point-to-point move and
+18:54 take these intersections. So, there we
+18:55 go. Now, I've got my stem wall kind of
+18:57 lined up. I'm still in that tool. I can
+19:00 kind of slide this down.
+19:02 Right? I can do another point-to-point.
+19:05 So, I'm taking this footing popping it
+19:07 to the bottom here.
+19:09 And so, I'm just conforming
+19:11 my existing and it's moving multiple
+19:13 fill elements at the same time, right?
+19:17 So, I'm moving in this case
+19:20 point to point
+19:22 the earth fill as well as that footing
+19:26 fill same time.
+19:29 So, this is a way you can take an
+19:31 existing drawing that you've got
+19:35 and conform it
+19:37 somewhat quickly. I think somewhat
+19:38 quickly.
+19:40 So, look at all these elements here.
+19:41 I've got siding, I've got stucco, I've
+19:44 got, you know, what represents framing,
+19:46 I've got this anchor bolt, same thing.
+19:48 I'm just going to draw over this entire
+19:51 deal here, and then I'm going to move up
+19:55 this point to where that stem wall
+19:57 actually sits. And I missed this little
+19:59 this little corner, but that's okay.
+20:02 So, look at this. This is starting to
+20:03 look like something, right?
+20:06 Same kind of thing. I probably should
+20:07 have changed the structure of my floor
+20:09 structure was a little shallow, but it's
+20:11 okay.
+20:13 Same thing. I'm going to come in here.
+20:16 It's just like a little clean up.
+20:18 And
+20:19 and this should start looking
+20:22 very similar to our drawing here. Let's
+20:24 just
+20:26 take a bigger sample
+20:28 this and I'm shrinking down that
+20:32 surface.
+20:34 Yeah.
+20:35 Take big sample here.
+20:45 And isn't this cool?
+20:46 And it's starting to look like my
+20:48 original detail. And it's got all this
+20:50 these extra things going on with it. And
+20:53 I've got my annotations already.
+20:56 And, you know, I could get rid of the
+20:57 grade line. That's okay. Get rid of some
+21:01 of these other little lines errant
+21:02 lines. That's easy, too. I'm going to
+21:04 use the line tool. I'm going to use
+21:06 contained selection and shift select
+21:10 just these little line elements here,
+21:13 get them out of the way, get them little
+21:14 cleaned up. That's good.
+21:17 I mean, look how fast and easy that was.
+21:19 That was pretty quick, right?
+21:22 Does anyone have any questions about
+21:24 this so far? I'd love to hear it.
+21:27 Um so, I'm still going to use that tool
+21:29 a little bit more. In fact, I have that
+21:31 tool on my toolbars over here.
+21:33 So, if you have my toolbars, stretch
+21:34 CAD's right here with all these other
+21:36 CAD elements.
+21:38 And so, it should be easy for me to grab
+21:41 that nail, etc., all this stuff and then
+21:44 just do a little point to point.
+21:48 You can always hold the shift key if you
+21:50 want a true
+21:51 um
+21:53 orthographic point to point. You should
+21:55 [clears throat] be able to do that.
+21:58 Yeah, and that's getting in there.
+22:01 And one last little touch.
+22:04 It's a little bit exaggerated right now.
+22:08 The size, let's see.
+22:12 If you don't want to pick up snaps, you
+22:14 can hold the S key to kind of avoid some
+22:16 new snaps.
+22:27 Oops, I missed something.
+22:29 But yeah,
+22:31 that's pretty much there.
+22:38 So, the last thing that I would
+22:40 typically do is
+22:43 um
+22:44 you might take all of these CAD elements
+22:49 like so, and let's ditch the earth, and
+22:52 let's ditch this little fill guy here.
+22:55 And if I take all these CAD elements and
+22:58 I copy paste and just slide this over
+23:01 for now just so we can see it.
+23:04 We should be able to take some of these
+23:07 and union them.
+23:10 See how this is going to work? I'm going
+23:11 to union all these things.
+23:14 And I don't want to retain the original
+23:15 objects. So, I'm getting that overall
+23:18 border, which could have really really
+23:20 help me, right?
+23:23 And this could help me make a a more
+23:25 realistic looking cut section.
+23:32 And what do we even mean by that? When
+23:33 we turn line weights on,
+23:35 there we go. We can see that cut section
+23:37 action, but that was a way I could do it
+23:39 was taking a bunch of different fill
+23:41 items and then
+23:43 creating a cut section from that. So,
+23:44 this So, then you got to just go through
+23:46 and
+23:47 kind of carefully
+23:49 get that put together.
+23:52 And so, what we're looking at here is
+23:54 anything that's um continued, you know,
+23:57 from the cut towards the camera is going
+23:59 to be a a thicker line weight to get
+24:01 this to look appropriate. And mine looks
+24:04 really thick for this view. So,
+24:06 I'll probably change this line weight
+24:07 down.
+24:12 Yeah. And then this guy is
+24:15 interesting
+24:17 as well.
+24:18 I got different layer settings in my
+24:20 details. So,
+24:22 they're a little heavy.
+24:25 Like they're very thick
+24:28 this view.
+24:37 Yeah.
+24:38 I'd say I need some more clean up to get
+24:40 this all done.
+24:42 But this was the part that I was excited
+24:44 about was just being able to pull these
+24:45 sections and then come into my library
+24:47 and find a bunch of annotations like
+24:50 this one where I can just drop this
+24:52 annotation into the view and link them
+24:54 up.
+24:56 And I'm going to have to change the
+24:57 default arrow style to get this to work,
+24:59 but
+25:00 I thought that was pretty pretty dang
+25:02 cool. The only problem with this is text
+25:06 style
+25:07 use layer for text style 4-in. I don't
+25:09 know why that looks so large. That does
+25:12 not look like a 4-in text style. I must
+25:14 be losing my mind. There's no way that's
+25:16 4-in.
+25:18 So, for some reason
+25:20 Chief's not
+25:22 informing this.
+25:25 Or my scale is off in this cross-section
+25:27 or something. I have no
+25:30 freaking idea.
+25:32 I'm stumped.
+25:34 Does anyone know what this is about?
+25:37 >> [laughter]
+25:37 >> I don't know what this is about.
+25:39 What is this? 1/4 in = 1 Oh.
+25:44 Oh, that's funny.
+25:49 That should not
+25:53 Boy, I am so confused.
+26:01 That text style is a 4-in text style. I
+26:03 use custom 4-in.
+26:07 There's no way that's 4-in. Am I losing
+26:09 my mind?
+26:11 Someone help me.
+26:12 >> [laughter]
+26:13 >> What's going on?
+26:15 How is That's no There is no way that's
+26:17 4-in.
+26:26 I must be losing my mind cuz this
+26:30 is also
+26:31 the same text style.
+26:34 How does that scale? Am I
+26:36 I think I've lost it.
+26:38 Yeah, I need to go back to bed.
+26:40 I quit.
+26:44 I don't know what I'm looking at right
+26:46 now.
+26:48 Funny.
+26:55 >> Maybe it's just this is throwing me off.
+27:00 I don't know how anybody draws fully
+27:02 detailed cross sections if that's the
+27:03 text size that you got to deal with.
+27:06 >> [laughter]
+27:09 [snorts]
+27:11 >> Yeah, Jacob the handle someone says,
+27:13 "Nice."
+27:17 I'm like I think I'm crazy. I think I'm
+27:19 crazy. I've never seen this before. This
+27:21 looks absolutely nuts to me.
+27:24 Yeah, that's 8 and 1/4 in.
+27:27 There's no way that's a 4-in text style.
+27:33 I have no idea. It's funny. What if we
+27:35 convert it to rich text? You know, they
+27:37 just put out a update and I downloaded
+27:39 it. I wonder if I've been You know, I'm
+27:41 I'm really good at being the first one
+27:42 to
+27:43 discover all the the scripts. It says
+27:46 it's 4 in, so
+27:49 Something's blowing my mind. Either my
+27:51 walls are 1 in thick or I have no idea.
+27:56 I have no idea.
+27:57 Now I want to start a new one. Let's do
+27:59 this. Let's go.
+28:03 New project.
+28:05 Test
+28:06 text style.
+28:12 Draw four walls and choose
+28:25 Okay.
+28:26 There's typical wall assembly.
+28:29 We're going to see how
+28:31 how much I've lost it.
+28:33 I'm going to take this and I'm going to
+28:35 copy it here.
+28:41 That's how big 4 in is, huh? It is, huh?
+28:43 Wow.
+28:46 And that seemed just so large.
+28:50 I don't know what I was thinking. Boy,
+28:51 am I
+28:52 I'm glad I built that detail system.
+28:54 This would drive me nuts. Look how big
+28:55 that is.
+28:58 I don't think I've done a a proper
+28:59 cross-section in so long that it just
+29:01 looks so unfamiliar to me.
+29:08 Yeah, I guess that's right. Weird.
+29:14 That looks crazy. How do you get all the
+29:15 details on the screen?
+29:18 This whole template Tuesday was about
+29:21 mastering details.
+29:23 And I have not mastered it.
+29:25 >> [laughter]
+29:29 >> Yeah.
+29:30 I'm with you, Mike. Wow.
+29:32 >> [laughter]
+29:34 >> Well, I showed you how you can get an
+29:35 existing detail overlaid on
+29:38 your cross-section view. Um hopefully
+29:41 you got something out of that part of
+29:43 things.
+29:45 The next thing I'll tell you is it's
+29:46 really simple to establish something.
+29:48 You know, if you're going if you been to
+29:50 an architectural um course, you've been
+29:54 a student, you graduated, whatever, what
+29:56 have you,
+29:57 uh you probably know that we typically
+29:59 would teach that you're only going to
+30:00 put um information on one view, and
+30:03 every other view is going to reference
+30:05 that view.
+30:06 So that if you're specifying something
+30:08 like your floor joist, and by the way,
+30:11 I'm talking out of my
+30:13 on this because I've not gone to these
+30:15 schools, and I did not get a proper
+30:17 education like this, but uh it's just
+30:19 stuff I've picked up over the years.
+30:21 Um
+30:22 if you were
+30:24 editing floor joist in a in a plan view,
+30:26 for instance, then
+30:29 uh we would typically say, you know,
+30:31 every other view, like a detail or like
+30:33 a cross-section,
+30:35 we would say
+30:37 joist per plan. And so we would know to
+30:39 go look at the plan to figure out what
+30:41 the joists are. Or, you know, the
+30:43 inverse might be true as well. In plan,
+30:45 you might say joists per detail, and
+30:47 then the detail specifies what those
+30:49 joists are.
+30:50 What's fantastic about macros in Chief
+30:53 Architect is we don't need to adhere to
+30:55 that. The reason we were doing that when
+30:59 we're hand drafting, etc., or early CAD
+31:01 drafting is that
+31:03 you don't want the potential for user
+31:05 error by the fact that you might
+31:07 >> [snorts]
+31:07 >> change what those joists are and forget
+31:09 to change what those joists are in every
+31:11 view. So, if you only have them in one
+31:14 view, it's really simple to just update
+31:16 that one view with your change.
+31:19 With macros, we have the ability to set
+31:22 global parameters, and so you can just
+31:24 drop in a text box and define something
+31:27 within that text that's a macro that
+31:30 will be globally used and true.
+31:35 And so,
+31:36 uh the way we do an inline call in Chief
+31:39 Architect is opening and closing
+31:41 percentage signs. In fact, we'll just We
+31:43 don't need to zoom in. You're going to
+31:44 see what I'm typing out right here. And
+31:47 so then, uh establishing a global is
+31:49 putting a little dollar sign. Now, I'm
+31:51 going to take away the closing
+31:53 percentage sign so that this doesn't
+31:54 start executing while I'm typing.
+31:57 And so, I'm going to establish something
+31:59 which is going to be my
+32:01 first floor
+32:05 joist.
+32:07 Sure.
+32:08 Equals, and then I want them to equal
+32:11 some text, not some other classification
+32:14 in Ruby. We have integers and float
+32:17 would be numbers that we might classify
+32:20 this as, and Ruby sees that as a very
+32:22 different context. So, that um
+32:27 three, for instance, is very different
+32:29 from saying that it is equal to three.
+32:32 One is a text object, the other is a
+32:35 integer or float. Okay? And And a float
+32:38 can be used to add something together
+32:41 versus a string not so much. We might
+32:43 have to do
+32:44 what's called like string interpolation
+32:45 or something like that. So,
+32:48 my first floor joist is going to be some
+32:50 text string. So, I got some opening and
+32:52 closing quotation marks here.
+32:55 And so then I'm going to say that this
+32:57 is
+32:58 um
+33:00 2 by 4 2 by 6
+33:04 at
+33:05 16-in on on center. Something like that.
+33:09 Now, there's a problem here and it
+33:12 should be obvious in this view. Which is
+33:16 that notice that we've got an opening
+33:18 and closing quote, but how does the Ruby
+33:24 aspect of this know which of those
+33:27 quotation marks is the closing quotation
+33:30 mark cuz we see we've got it here at the
+33:32 16-in mark.
+33:33 Well, we need to tell Ruby to ignore
+33:36 that character. And so how we do that is
+33:38 we do a little backslash backslash
+33:42 before
+33:43 the quotation mark that we want
+33:45 to ignore. So, the character that we
+33:47 want to ignore.
+33:48 Um it looks like I missed my little X
+33:50 here. 2 by 6 at 16-on center and maybe
+33:53 we want to add some spaces in between
+33:55 here. That's going to look Yeah, pretty
+33:57 good.
+33:59 Okay.
+34:00 So, I now I've established a global
+34:03 first floor joist. I want to make sure
+34:04 that I've got this copied
+34:06 so that I can use it over and over
+34:08 again.
+34:09 The other thing I need to do is close
+34:11 this up. Now, look what happens.
+34:13 Now, it has executed the global. I have
+34:17 this annotation written out now. 2 by 6
+34:19 at 16-on center.
+34:21 So, anywhere that I now place, if I were
+34:24 to just go um hit paste
+34:27 anywhere that I paste that first floor
+34:29 joist
+34:31 like this
+34:32 and I put this in opening and closing
+34:36 percentage signs
+34:37 will execute whatever I have defined
+34:40 here.
+34:41 Now, that global needs to have been
+34:43 defined at least once during the session
+34:45 and it needs to remain on the screen
+34:47 somewhere that so that I can initiate
+34:49 and execute. So, it'd be a good idea to
+34:52 put it in your plan view when you want
+34:54 to establish some kind of annotation
+34:56 that you're going to be using in
+34:57 multiple places.
+34:58 What's really cool about this is now
+35:00 that I have this, I can just add this to
+35:02 the library and use it over and over
+35:04 again as much as I want to
+35:07 in any view. And so long as this exists
+35:10 somewhere
+35:12 then this will have been established and
+35:14 it will be in my list of global
+35:16 annotations.
+35:18 What else is cool about this is Chief
+35:19 Architect's given us the ability to just
+35:21 convert this to a note. So, we can just
+35:23 convert this to some kind of keynote and
+35:27 there we go. Now, it's in my keynote
+35:29 schedule stuff.
+35:32 And so if I go look at the schedule from
+35:34 here, we can see that annotation exists
+35:37 in this keynotes uh schedule. Pretty
+35:39 cool.
+35:41 What does that mean? We could take that
+35:43 same keynote and drop that in in other
+35:45 views as well. So,
+35:48 um kind of a global system for
+35:50 establishing your annotations and being
+35:52 able to mark up your plans uh if you
+35:54 know that you want to
+35:57 put similar annotations in other views.
+36:01 Let me go take a look at what we've got
+36:02 here in our comment section.
+36:06 Uh my honesty is both honorable and
+36:08 contagious.
+36:09 >> [laughter]
+36:12 >> For being real, for being a real dummy.
+36:14 Man, I'll tell you what um
+36:16 uh when my friends come and visit me and
+36:19 if I'm working, everybody knows that I
+36:22 am my biggest critic. I don't I talk
+36:25 crap to other people, but boy, do I I
+36:28 beat myself up. Um I I have one friend
+36:30 that constantly says, "Be nice to that
+36:32 poor guy." And she's talking about me
+36:34 talking to myself.
+36:36 >> [laughter]
+36:36 >> Cuz I just sit there and yell at myself.
+36:39 >> [snorts]
+36:39 >> Um it's how I was raised, you know? You
+36:41 do what you're comfortable with.
+36:44 >> [laughter]
+36:45 >> Uh let's see. Is the scope of the global
+36:47 adjust the plan file? No, it is not just
+36:50 the plan file. Let's just give you an
+36:52 example of this. We could take that same
+36:55 thing here. Let's just paste it and
+36:57 first floor joist and open this up and
+37:00 put some percentage signs on there and
+37:02 you're going to see
+37:05 that it exists across all plan files,
+37:09 all files in general, your layout file,
+37:12 etc. So, that's something to keep in
+37:14 mind in the case that when you're
+37:16 establishing
+37:17 uh your naming conventions for your
+37:19 globals that you want to use that you
+37:21 have the potential of messing something
+37:24 up if you've got something else that's
+37:27 trying to use that same global. So, uh
+37:30 for instance, if I opened up multiple
+37:32 plan files and it's using my detail
+37:34 system, which definitely uses globals,
+37:37 then it's going to be very confused
+37:39 about which one takes precedence.
+37:41 Fortunately, when you go to print, it's
+37:42 going to re-execute all those globals,
+37:44 so the one that you're printing will get
+37:46 its globals updated from itself.
+37:49 So, that part's very nice. Um
+37:52 but it it really can automate some
+37:54 things. You just have to be careful
+37:56 about how you use them.
+37:58 If you want to get into some really
+38:00 advanced macro stuff, you know, I would
+38:02 say make a request and maybe I'll put
+38:04 together some some videos or something
+38:06 like that that goes in the members area.
+38:08 I tend to like to keep the macro stuff
+38:10 in the members area. Um
+38:13 it's a little bit more advanced content
+38:15 and there's a couple reasons I put stuff
+38:18 in the a members area. One is because
+38:20 it's advanced content and it's and I
+38:21 feel like it's high-level content that
+38:23 is worth paying for. But two would be
+38:26 that sometimes I just don't want things
+38:28 in the main feed of my videos because
+38:31 I'm trying to keep that a little on the
+38:33 lighter side of Chief Architect. And so
+38:35 macros can get pretty advanced.
+38:38 Um something that's
+38:41 kind of um problematic in macros is if
+38:44 you you start to script some more
+38:46 advanced macros, you'll have to
+38:49 understand that it can create a pileup
+38:53 in how things execute within Chief
+38:55 Architect. And globals can be a solution
+38:58 for that pileup. Meaning that
+39:01 you can make a global be an instruction
+39:03 set.
+39:05 You can basically put a macro into a
+39:07 global and make a call to that global
+39:10 to execute that instruction set on an
+39:13 object versus
+39:15 piling up objects that want to access
+39:19 one macro.
+39:20 Kind of hard to explain that without
+39:22 really showcasing it, but
+39:25 anyways,
+39:26 um the other thing that I do with
+39:28 globals is that I'm passing information
+39:31 uh back and forth about where these
+39:32 details live on the screen
+39:35 so that they are translated back to uh
+39:38 the plan file and so it
+39:41 um
+39:42 configures and directs what it's callout
+39:44 number is and communicates that back to
+39:47 the plan file via a global.
+39:50 And
+39:52 and a couple of other little tricks. And
+39:54 so that's this is the only way you can
+39:55 get automatic numbering that I've ever
+39:57 discovered. So um getting into these
+40:00 macro things is pretty cool.
+40:03 All right, let me see. We got So let's
+40:05 see. So any open file? Yes, any open
+40:08 file will see that global. In fact, if I
+40:10 just pull up my text macro management
+40:12 console, this is uh let's see. This is
+40:15 going to be for Chief, so
+40:17 I don't have the same macros if I bring
+40:20 up
+40:21 my pro plan template macros, which we
+40:23 have
+40:25 I have considerably reduced the number
+40:28 of macros I've gotten here.
+40:30 Uh global variable values. And so if I
+40:33 expand this,
+40:34 we're going to see that
+40:36 there in fact are quite a few global
+40:38 variables being executed as soon as I
+40:41 start drawing.
+40:44 Um
+40:45 yeah, long long long list.
+40:50 And a lot of this has to do with me
+40:51 saying that, you know, I'm building
+40:53 um instruction sets and parameters and
+40:56 settings and and you know, preferred
+41:00 things, all that kind of stuff is just
+41:02 being built as soon as I start drawing.
+41:05 Um
+41:07 and it's challenging when you get into
+41:08 that to make sure that your drawing
+41:11 still moves quickly like this because it
+41:13 can bog it down.
+41:16 Let's get back into some detail drawing.
+41:20 Yeah, great uh for using the same note
+41:22 across elevations and plans.
+41:24 And it's I mean, that's
+41:26 I guess it would be very easy to just
+41:29 type in your annotation into a note and
+41:32 then
+41:33 drop that same note everywhere.
+41:36 And then if you wanted to make a change,
+41:37 let's talk about that. Um Anthony Hayes
+41:40 brought up something great in the
+41:41 comments section.
+41:43 And so let's say I'm in a plan view here
+41:45 and I'm going to use the note tool,
+41:47 okay?
+41:48 And then I'll drop that note in, I'll
+41:51 type something.
+41:55 And so when I go look at
+41:57 let's just copy this out, we'll make a
+41:59 little change to this, blah blah blah,
+42:01 and
+42:03 make a little change to this.
+42:06 Okay. So when we go look at that note
+42:09 schedule,
+42:10 this is another way that you can kind of
+42:12 establish a global annotation is if you
+42:15 drop this number one in a bunch of
+42:17 different places like your framing view,
+42:19 like your
+42:20 you'd have to put it on a layer that's
+42:22 going to be displayed on all these
+42:23 views, right? Your framing view, your
+42:27 cross section view, etc.
+42:30 If you wanted to go change the
+42:31 annotation,
+42:33 if you had it in your mind that you knew
+42:35 that you were not going to change the
+42:37 individual notes notation from a view,
+42:42 instead you knew that you were going to
+42:44 come back to this keynote schedule. This
+42:47 is important. This is important.
+42:49 If you're going to do this system,
+42:52 and this is not macro driven, this is
+42:54 just keynote driven, so note tool
+42:56 driven.
+42:57 If you know that you're going to drop in
+42:59 one keynote in a bunch of different
+43:01 places that has one annotation with it,
+43:04 okay?
+43:05 And your note schedule
+43:08 in columns and rows is set to group
+43:11 similar objects, you want to check that.
+43:14 You want to make sure that's checked.
+43:16 That means if I come back to this floor
+43:19 plan view and I take that number one
+43:21 note and I'm pasting it in cross section
+43:24 views and I'm pasting it
+43:27 Oops. Let's see. Did I still get it? I'm
+43:30 pasting it everywhere, right?
+43:32 That means if I want to change this, I'm
+43:34 not going to open this up and change
+43:38 this text. I will not do that, all
+43:40 right? Because it's only changing the
+43:42 text for this one note.
+43:45 But, if instead in your edit toolbar you
+43:48 go find the schedule from the object,
+43:51 that will highlight this row.
+43:56 We checked group similar.
+43:58 All right? So, this
+44:00 is grouping that similar object now.
+44:03 Then I could
+44:05 open the row object. What that do? That
+44:08 opens
+44:10 all of those objects that are similar,
+44:13 okay?
+44:14 So, now I could change my annotation and
+44:18 I would know that all similar objects
+44:21 that had the same text annotation would
+44:24 change.
+44:26 Keep in mind, this only works if you've
+44:30 um delimited the columns to something
+44:33 where all parameters are the same on
+44:36 this particular note.
+44:38 I'll give you an example of what I mean.
+44:40 If I were to select this row object and
+44:43 try to find this in plan, and it's going
+44:45 to highlight this for me. Let's just say
+44:47 this number two, we've copied it a
+44:48 couple times. So, let's get back to that
+44:51 schedule.
+44:53 There's that schedule. Let me find it in
+44:54 plan. It's going to highlight both of
+44:56 these, okay?
+44:58 If one of these, for instance,
+45:01 add some new information in the comments
+45:04 section,
+45:07 we'll still know that if I find this in
+45:09 plan, we get both of these even though
+45:11 this one has some new information in the
+45:13 comments section.
+45:15 Now,
+45:17 if instead our schedule we decided
+45:21 hastily and not without you know,
+45:24 without paying attention to add the
+45:26 comments column to include,
+45:29 now what happens?
+45:31 Now,
+45:32 we are no longer grouping that
+45:34 annotation. Change my annotation has now
+45:36 been split because we are no longer
+45:38 delimiting by like parameters of those
+45:41 two notes. So, now if I wanted to change
+45:43 this annotation, I'd only be changing it
+45:46 in one place and that would be a big
+45:47 liability.
+45:49 So, you can do this. Just keep in mind
+45:52 that group similar has to be correct.
+45:55 You need to delimit to the things that
+45:57 are going to group your annotation
+45:59 in all, you know, one place. And if
+46:01 you're making a change, make a change
+46:03 from the schedule by opening the row
+46:06 object is how to do it.
+46:11 Hopefully that all made sense. I might
+46:13 have to go watch it again.
+46:18 All right.
+46:20 What do we got on the time marker? 9:46.
+46:22 Why this hour goes so fast. I'm feeling
+46:25 I don't get anything done in the day for
+46:26 how quick these hours go.
+46:29 Doesn't feel like it.
+46:31 So, I wanted to draw some new details
+46:34 and just show some CAD tricks about how
+46:36 I do
+46:37 those details. Our oftentimes just
+46:41 starts from something I've already
+46:42 drawn. I do want to mention that
+46:46 I typically
+46:47 would take the time to
+46:50 save your fill fill styles that you use
+46:54 if you were creating a standard for how
+46:56 you're drawing.
+46:58 Reuse fill styles over and over again.
+47:01 Take the time to save them. How do we do
+47:02 that? Well, you can open up an object
+47:06 like this. You can get into the fill
+47:08 style. You can designate a bunch of
+47:10 things
+47:11 like maybe I want this to be a 30°
+47:15 or 300° for that matter, and I want it
+47:18 to be pink,
+47:19 and I want it to have a blue background.
+47:23 It'd be real
+47:25 real weird one.
+47:27 All right.
+47:29 And so, I want to save this fill style.
+47:30 And I want this line weight to be
+47:33 35, which would be crazy.
+47:35 And I want to save this fill style.
+47:36 Well, I get to just hit add to library.
+47:39 Once you have it added to library, you
+47:42 can customize your toolbars and add the
+47:44 place library object tool to your
+47:46 toolbars. Once you have that, you get to
+47:49 click on that tool in your toolbars, and
+47:52 it will help you link to a library
+47:54 object. Which when you've done this full
+47:56 circle, will get you to toolbars that
+47:59 have fill styles.
+48:00 So that I can just quickly come in here
+48:02 and spray this as my standard.
+48:06 Makes it really, really easy for me to
+48:08 come in here. Not only that, but I even
+48:10 save things like this this little block
+48:13 CAD block stuff. Um that one doesn't
+48:15 seem to be linked anymore.
+48:17 Uh but really easy to just change your
+48:19 fill style just by clicking on my tools
+48:22 on my toolbar and getting there very
+48:24 very simply.
+48:26 So.
+48:27 That's a little trick for you there. So
+48:29 when I'm drawing stuff, this is what I
+48:31 like to do. Um another thing that I like
+48:32 to do is I'll bring in um
+48:35 I'll bring in a little polyline like
+48:36 this
+48:37 and break tool,
+48:40 you know, I will sticky mode the break.
+48:44 And so I'll throw in a couple breaks
+48:45 here.
+48:47 All right. Unsticky the break. And then
+48:50 you can kind of chop this up the way you
+48:52 want to and make some
+48:54 little diced looking thing like this.
+48:57 And so from here, I will oftentimes come
+48:59 in here and set the line style to a
+49:02 blank line style. That's what this is
+49:05 right here. See this little gap right
+49:08 there? That's a blank line style. And
+49:10 that makes it so it does not show up.
+49:13 All right.
+49:14 From here, you can see that I've got a
+49:16 little icon here that looks like a
+49:18 ghost, but that does the same thing
+49:21 is that will draw with a blank line
+49:24 style. That's actually a line right
+49:26 there, what I just drew. So I could just
+49:29 have done the same thing where I'm just
+49:30 drawing with a blank line style. So I
+49:32 kind of skipped that step.
+49:34 And then what I can do is to stop
+49:36 drawing, let me just do this real quick.
+49:38 I want to show you what I'm doing here.
+49:41 I am right click drawing. That means I'm
+49:44 holding my right mouse. When I let go,
+49:47 this continues to draw.
+49:49 It's going to continue to draw until I
+49:51 close the shape or I hit left and right
+49:55 mouse button together.
+49:58 And so that stops its drawing.
+50:00 So if I want to draw with a blank line
+50:02 style very quickly, I can just make
+50:04 these little chops.
+50:07 And then left and right together, select
+50:10 this, and use the closed polyline tool
+50:13 to get that as a closed polyline set up
+50:15 there. And then I might fill this
+50:18 as just
+50:20 a blank.
+50:21 Oops. And I want to vary carefully.
+50:24 There we go. And this is a way that I
+50:26 kind of create some continuation blocks,
+50:30 right? Where I'm saying that, "Hey, this
+50:33 this item's going to continue past
+50:34 this." Now typically this would be solid
+50:36 white, right? So that's just the same
+50:39 color as the background. So if we get to
+50:40 that fill style, you could say, "Use the
+50:42 background color." So whatever your
+50:43 background color is, and that would chop
+50:46 up that continuation. Let's just really
+50:48 see what this looks like. There we go.
+50:52 Pretty slick, right?
+50:54 Another thing that you can do about this
+50:57 what is um
+50:59 and sorry about that beeping. I think my
+51:00 keyboard's disconnecting.
+51:02 is I'm going to create an arrow style
+51:05 that will be a continuation break. So
+51:07 let's just draw a line.
+51:09 We're going to do a little break. We're
+51:11 going to sticky mode that break. We need
+51:13 two breaks. That's all we need.
+51:16 Now slide this
+51:18 in one direction and slide this opposite
+51:21 until you pick up that 45 degrees. There
+51:24 is your break. Pretty simple, right?
+51:27 Now to make this even more simple, let's
+51:29 turn this basically into a closed
+51:31 polyline, okay?
+51:34 And conform this back to 90 degrees, and
+51:37 we're going to do this for
+51:39 um a good reason. And I'll show you that
+51:42 right now. So I'm going to copy paste
+51:45 paste hold position,
+51:48 okay?
+51:49 Copy paste, paste whole position.
+51:51 Now, I want to open this up and I'm
+51:53 going to make this
+51:55 line style be a blank line style. Or, in
+51:58 this case, actually I'm going to leave
+52:00 that. Um
+52:03 Let me just drag this over real quick.
+52:05 I'm going to do this. I've done this a
+52:06 few times, but taken me a second to
+52:09 remember.
+52:10 So, I want a fill style to show up.
+52:14 And I want this to be my background
+52:16 color, okay? So, now we have a fill
+52:18 here. The next thing I want to do is I
+52:20 want to put this in front of
+52:22 everything else. I'm going to put this
+52:23 at the arrow level of drawing group. So,
+52:25 this will be on top of other CAD
+52:27 elements as I draw them.
+52:30 Now, I want to make this
+52:33 edit handle right here. I'm going to say
+52:37 hide selected edge. I'm also going to
+52:39 take this one, hide selected edge.
+52:41 That's right from the edit toolbar. You
+52:43 need to select the edge
+52:45 which is indicated by this yellow color,
+52:47 and then hide the selected edge.
+52:50 What do I have now?
+52:52 Look what happens when I draw this over
+52:53 here.
+52:56 That's pretty slick, right?
+52:58 Now, if you shift select this, let's see
+53:00 if we can take this a step further. What
+53:02 if we shift select this,
+53:04 make it a CAD block, let's open it up
+53:07 and call it our um continuation
+53:10 arrow.
+53:12 And I'm going to call it plan view.
+53:15 Or, plan.
+53:18 All right, and I want to add that to my
+53:20 library.
+53:23 I want to see what I can do about this.
+53:25 Um I have not tried this in a while. I
+53:27 have this in layout. I'm not sure how
+53:29 this works in plan. Let's see here. I'm
+53:32 going to get into If I edit my
+53:37 view, edit the active view, select the
+53:40 defaults, make a new arrow default,
+53:43 continuation
+53:45 arrow.
+53:47 Imagine you see where I'm going with
+53:49 this.
+53:50 Hit the select button.
+53:53 Target my user catalog where I just
+53:55 dropped this in.
+53:57 Hopefully your user catalog is as
+53:59 organized as mine is.
+54:04 And then, a little flex there.
+54:06 And then,
+54:07 >> [clears throat]
+54:07 >> set this to whatever, okay? Now that's
+54:10 my default arrow style. Let's see what
+54:12 happens. I have not tested this. I'm
+54:14 just crossing my fingers, but
+54:16 um we draw this out, that arrow style is
+54:18 way too small. Let's try this out. Let's
+54:21 go continuation arrow. Let's set this to
+54:24 be
+54:25 36 in cuz that's kind of what I drew
+54:27 this at, I think.
+54:31 Okay, the arrow's backwards.
+54:33 It's not a big deal, but you see what
+54:35 I'm doing,
+54:36 right?
+54:40 Let's try this again. We're going to
+54:42 We're going to unblock this.
+54:46 We will rotate this.
+54:49 Shift select it, block it, open it,
+54:54 continuation
+54:55 arrow or
+54:57 and then file.
+55:00 Okay?
+55:02 Add it to the library.
+55:04 Edit the active view, make your new
+55:07 arrow default.
+55:09 I'm going to go target this.
+55:16 Like so.
+55:20 So now, when I draw an arrow in this
+55:23 view,
+55:24 look at that.
+55:26 And so, the way that this updates is you
+55:29 just get to open this arrow up if you
+55:31 want to, if this makes it easy for you,
+55:33 and change the size.
+55:36 And just note that you're to see, you
+55:39 know, whatever you want your fill to be,
+55:41 maybe you make the back side of this be
+55:43 a little bit longer. That will make it a
+55:45 little more dynamic. So, we'll do one
+55:47 more edit on this.
+55:49 So, I'm going to expand this here like
+55:51 so.
+55:53 If I want to get in here to CAD blocks,
+55:55 CAD block management, I could get rid of
+55:58 some of those other ones.
+56:00 Like that was continuation, blah blah
+56:02 blah. Let's just delete all these or
+56:05 purge them.
+56:07 And so, we should be able to shift
+56:09 select, make CAD block, open it one more
+56:11 time.
+56:12 >> [snorts]
+56:13 >> Continuation.
+56:18 And then add that to the library. So,
+56:22 one more time, edit the active view.
+56:25 Bang, bang, bang.
+56:29 Find that guy.
+56:35 Should have deleted the other ones. Now,
+56:36 it's just going to be really confusing.
+56:41 Which one is it?
+56:43 Which one? It's got to be this one.
+56:45 Bam.
+56:47 Now, this should work really well.
+56:52 Should have a long arrow handle. Yeah,
+56:55 the arrow handle gets covered quite
+56:57 well.
+56:58 And then just set up your sizing
+57:00 correctly, right?
+57:02 So.
+57:04 Whatever you're doing in that drawing.
+57:06 So, maybe 60 inches would have been
+57:07 better.
+57:08 Now, I'll just know it'll just draw and
+57:10 bam, cool. Super simple. Look how easy
+57:13 that is.
+57:15 Um maps.
+57:18 Create a double on both sides makes
+57:19 great parallel break for walls or large
+57:21 sections. So,
+57:23 what's cool about this is you don't need
+57:25 to create a double um and you just say
+57:27 that you got arrow on both ends.
+57:30 Right?
+57:33 So, arrow on both ends and I extend this
+57:35 through. Let's see how this works.
+57:39 Is that my block? Yeah.
+57:41 And
+57:43 This is just some leftover.
+57:45 I can't select. Oh, that's the arrow on
+57:47 both ends.
+57:48 >> [laughter]
+57:49 >> I think. Yeah, my arrow's long. There we
+57:52 go.
+57:53 And so, this is what I was trying to
+57:55 extend, right?
+57:57 Am I doing that right? No, I keep
+57:59 selecting the dang arrow somehow.
+58:04 I don't know. I've lost it. I've lost my
+58:07 ability. Oh, it's Oh, I see what's
+58:09 happening. The arrow is adjusting its
+58:11 length cuz it's bound and it's got its
+58:13 automatic uh
+58:14 tail and head. That's funny.
+58:17 Oh, now I'm making it multiple shapes.
+58:20 >> [laughter]
+58:22 >> Let's simplify this. Let's shorten them
+58:24 up.
+58:25 Like that. There we go. That's what
+58:28 you're talking about.
+58:30 >> [laughter]
+58:31 [snorts]
+58:31 >> Yeah, I mean, that works pretty well,
+58:33 right?
+58:36 Although it's flipped, I needed to get
+58:37 my
+58:38 my break perfectly centered before I
+58:40 built this. Would have been the way to
+58:42 do that.
+58:43 Or maybe not perfectly centered. It'd be
+58:46 good if it was just a little bit offset,
+58:48 so it's slipping
+58:49 you know, that'd be cool.
+58:51 So.
+58:53 Um
+58:55 That's a cool one. I'm going to I'm
+58:57 going to perfect mine and and use it
+58:58 some more.
+59:00 That's about all we had for this this
+59:02 show. It's already
+59:03 already 1 hour.
+59:05 I'm telling you. Power goes by fast.
+59:08 Um
+59:10 Yeah.
+59:12 You guys got any clo- closing questions
+59:14 or comments, let me know. But, uh
+59:18 I'm glad you guys were here. Thank you
+59:20 for joining.
+59:22 Going to keep trying to do this every
+59:23 week. I know I announce it late
+59:25 sometimes, but I'm really trying to show
+59:27 up. I got an alarm set. I'm
+59:29 getting up extra early for today.
+59:32 So, thanks, guys.

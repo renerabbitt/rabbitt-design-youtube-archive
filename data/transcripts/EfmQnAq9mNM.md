@@ -1,0 +1,1469 @@
+---
+videoId: EfmQnAq9mNM
+title: 5 Things You Must Know About Chief Architect + Q&A - Designers Show #143
+url: "https://www.youtube.com/watch?v=EfmQnAq9mNM"
+status: imported
+---
+
+# Transcript
+
+0:01 smile B hey we are live welcome to the
+0:03 designer show how you guys doing
+0:07 today I'm doing
+0:09 great cool cool hey guys nice to see
+0:12 everybody again yeah no kidding second
+0:14 show of the year uh 2025 is blowing by
+0:19 as fast as 2024 did so what's new
+0:22 right it's the joy of what we do don't
+0:25 rush it don't rush it I know it's just
+0:28 like but you know hey in two months
+0:30 we'll be together again so I'm excited
+0:32 about that yeah two months from today
+0:35 17th is when we will be meeting at the
+0:38 summit so I'm looking forward to that
+0:42 anyway all right people are starting to
+0:44 log in and we'll get started in just a
+0:47 minute
+0:48 uh you guys get any updates for the
+0:52 year Renee you were mentioning people
+0:55 keep asking if you're safe there in
+0:56 California I no you guys I just ordered
+0:59 California my space Mouse is coming
+1:01 today oh oh you finally got one going to
+1:05 be actively using it at um The Summit I
+1:09 will be a pro by the time Summits but I
+1:11 didn't buy the one with the keyboard I
+1:13 just bought the mouse that's good yeah
+1:15 yeah yeah if I get the keyboard then um
+1:17 somebody's gonna have to program it for
+1:18 me because that's like a whole lifetime
+1:22 process and I'm not gonna do it I got
+1:24 the keyboard and it's a wonderful wrist
+1:26 pad wrist resting device
+1:30 very expensive I don't use any of less
+1:33 expensive option yes should do a little
+1:36 a little um Night 3D mouse session at
+1:40 the summit for people that have them
+1:42 yeah I think that's a great idea to
+1:44 really do that and that way because a
+1:46 lot of people have it hey Bruce is on hi
+1:49 Bruce hi Ebony oh I gotta say hi
+1:53 to back to the space Mouse for a second
+1:56 I I just say thank thank you Brad Brad
+1:59 became a member on my channel appreciate
+2:01 you
+2:03 awesome say John for a second I have the
+2:07 uh I I've had all three of them and now
+2:11 I have the small one for my my new
+2:12 laptop and just because I don't have the
+2:14 room for the big one I miss the control
+2:17 and the shift key because I can hold
+2:19 those keys down and still use the space
+2:22 Mouse when I'm selecting things but you
+2:25 said you haven't you programmed that
+2:28 into your new one I could I can do it on
+2:31 the one side but it's kind of hard to
+2:33 use the space Mouse without your thumb
+2:34 on the other
+2:35 side of the one so put put control and
+2:39 shift on your mouse your right
+2:43 Mouse could do that that might be that's
+2:46 what I have I have mine I have some my
+2:49 thumb is controll and shift right there
+2:51 yeah I use space and delete over there
+2:55 ah oh well just get more buttons on your
+2:57 mouse yep need more buttons
+3:00 yep there you go all right cool well
+3:03 today we're going to talk a little bit
+3:04 about five more things there's always
+3:07 more things to talk about isn't
+3:10 there don't sound so glum about it I'm
+3:13 yeah know I just think you know there
+3:15 1300 there's 1300 icons in Chief which
+3:18 one should we talk about today uh or one
+3:22 of the many thousands of options in all
+3:24 of the hundreds of menus that we've got
+3:27 it's I won't be I promise is something
+3:30 that we're not used to using so I think
+3:31 it's a great idea we'll have some fun um
+3:35 so let let's go ahead and get started on
+3:37 that I suppose huh and let me bring up
+3:40 my screen
+3:42 here John you want to switch the show my
+3:45 screen
+3:47 please remember when I have this
+3:49 PowerPoint up I can't see
+3:53 anything there you go got it the five
+3:58 things you must know about chief
+3:59 architect plus Q&A Today Show number 143
+4:03 been doing this a while you guys you
+4:05 know we started this uh back in 192 19
+4:09 19 2020 for Co I did it because of Co
+4:13 something to do and we're still doing it
+4:15 so it's pretty cool and I love having
+4:16 you guys being part of the show so it's
+4:18 really cool I don't know where Kevin is
+4:20 today I haven't talked to him he's
+4:21 probably just busy being retired or
+4:23 whatever he's doing these days anyway uh
+4:26 but I know he loves being on the shows
+4:27 too so five things you must know about
+4:30 Chief
+4:31 Architect or really five more things you
+4:34 can learn about chief that will help you
+4:36 draw plans faster there's really not any
+4:39 one must know thing about Chief
+4:41 Architect you know and you'll never stop
+4:43 learning this program there's always new
+4:44 ways to do things so I I use the same
+4:48 slide in the 10 mistakes Chief Architect
+4:50 users make it's just like Yeah Whatever
+4:52 by the way go to my blog uh at Chief
+4:55 experts and I've been posting if you
+4:56 haven't been getting my emails I've been
+4:58 posting the uh the
+5:00 the 10 mistakes or 10 new things you can
+5:03 learn uh with short clips we kind of
+5:05 just to edited out a bunch of stuff and
+5:07 did some short clips and they're pretty
+5:09 nice they've been coming out really well
+5:11 so having fun with that but let's uh
+5:13 here's your team your designer show team
+5:16 Dan John Kevin Renee and Robin and you
+5:19 can get a hold of any of us for any of
+5:21 your design needs or chief architech
+5:24 questions or any of that kind of stuff
+5:26 so feel free to reach out to any of us
+5:28 we're all independent and we all love
+5:30 helping all you guys out there in the
+5:32 chief world so feel free to reach out
+5:35 for anything Rene what do you got to
+5:36 sell today you got anything good for
+5:38 sale on your site uh yeah yeah I do um I
+5:44 the area analysis package that's in my
+5:47 um plan template is now a breakout
+5:50 package so you can buy it and put it in
+5:52 your own template if you don't want to
+5:53 use my template you could you you need
+5:55 to you need to show it show it to us and
+5:57 show us how it works uh um let's see
+6:00 want to cue my
+6:03 screen where there we go um it should
+6:07 work just like this you just start
+6:10 drawing and it produces this area
+6:12 analysis for you so if I did a if I did
+6:15 a new plan and just drew out some walls
+6:20 um there's a few little cool um tips and
+6:23 tricks for this which is that it's it's
+6:26 meant to recognize any room that um room
+6:29 type has the word addition in it so if
+6:32 you are remodel this works um
+6:35 particularly well so notice I put that
+6:37 as addition and then wherever you're
+6:40 going to store the set of schedules that
+6:42 comes with this in my case it's in a
+6:45 project information section it's going
+6:47 to pick up that there's some kind of new
+6:49 coverage there from that addition gives
+6:51 you total coverage gives you um
+6:53 conditioned area unconditioned area on a
+6:56 floor by floor basis you could format
+6:58 this for Acres or square foot for lot
+7:00 size it even gives you a way to do
+7:03 impervious areas that's either driven
+7:05 from rooms automatically or from a
+7:09 polyline and I have a pretty robust set
+7:12 of instructions for this too so cool um
+7:16 I actually took the time to write up
+7:18 instructions for once which almost never
+7:21 happens how do you use it what's that
+7:24 how to use it how to use it I know it's
+7:27 incredible wow what a concept but yeah I
+7:30 know here it is area analysis package
+7:32 and when you click on it I even give you
+7:35 a um an example download in case you
+7:38 want to just take a look at the install
+7:40 instructions and see if it's something
+7:42 that you think you can do and ni or you
+7:45 could pay me to install it for you it
+7:47 actually comes actually that's not true
+7:48 I said it comes complimentary with with
+7:50 install I will install it for you so I
+7:52 even give you a schedule link for
+7:54 installing it nice so yeah if you're
+7:57 trying to do automatic area analysis go
+7:59 pick that up Renee you never cease to
+8:01 amaze nice job nice job so and I'm sure
+8:05 you'll talk a lot about that at the
+8:07 summit which is coming up all right
+8:10 let's
+8:11 uh Chad's
+8:13 [Music]
+8:16 impress better go get it all right you
+8:19 guys um so yeah reach out to us if you
+8:21 have any questions or you want to talk
+8:22 about anything and John I know you do I
+8:24 you help people with plans and training
+8:26 and all that sort of good stuff and I'm
+8:28 working d ently on the new Pro Academy
+8:32 so call John don't call me because or
+8:34 Renee or Robin or Kevin because I I need
+8:37 all my time right now uh to get this all
+8:40 stuff all ready so I'm having a I'm
+8:42 really looking forward to this so and
+8:44 again coming soon all new Pro Academy so
+8:46 if you're interested you want to be
+8:47 notified about it if you're already a
+8:49 member of the pro Academy you're good to
+8:50 go don't worry about anything uh
+8:52 nothing's going to change for you other
+8:53 than you're going to get all this new
+8:54 stuff um if you're not a member um you
+8:58 could go sign the wait list if you go to
+8:59 Chief experts.com at the top of the
+9:02 screen you can join the white list and
+9:03 we'll let you know about it kind of you
+9:04 know next few weeks we'll launch it uh
+9:07 and then the total ersion Summit coming
+9:09 up in the uh March 17th is when we start
+9:12 arriving uh two months from now so uh
+9:16 please check it out if you have
+9:17 questions it's on the homepage and uh I
+9:20 just posted a video on the homepage that
+9:22 we're that we talk about the summit so
+9:24 check that out it's actually not on the
+9:26 homepage it's on that ad for the
+9:27 homepage and go to the summit page and
+9:29 You' find uh more information about it
+9:32 so cool event all of us will be there
+9:34 and we look forward to really really
+9:37 helping you in your business and helping
+9:39 you with Chief Architects so it's a it's
+9:41 it's not just about Chief it's about the
+9:44 whole business that you're in just done
+9:46 with Kevin and U or Judy the other day
+9:49 and she's starting to put together her
+9:51 schedule all things she's going to talk
+9:52 about so we got some cool stuff coming
+9:54 your way all right so let's talk about
+9:57 the first one of the five things that
+9:59 you must know about Chief Architect or
+10:02 again a cool thing to learn about I
+10:05 don't know if any of you guys are aware
+10:06 of the edit save and save as page view
+10:10 icons okay um every time you open a view
+10:14 and Chief Architect that screen itself
+10:17 is its own view it's its own screen it's
+10:20 not tied to anything else so it's
+10:22 they're all unique um you can open the
+10:25 dialogue and change settings for the
+10:26 view you're looking at doesn't matter if
+10:28 it's a four plan CAD detail CAD detail
+10:30 window doesn't matter what view it is 3D
+10:34 view render view it's a unique screen
+10:36 that has its own unique settings and you
+10:38 can change those so um you can edit and
+10:42 save those screens you can do a save as
+10:45 and copy those screens and then change
+10:47 them and you can create all the views in
+10:51 advance before you put them on the
+10:53 layout page I've been doing with my with
+10:55 the with the plans I've been working on
+10:57 and it saves a lot of time and then I'll
+11:00 you know then you can just any viewport
+11:02 on the layout can hold any of the views
+11:04 that you've created so get used to using
+11:06 your project manager let's go look at
+11:08 that for a second and and talk about
+11:10 what you could do with that so I'm
+11:13 talking about these three icons right
+11:16 here okay so now again if let's see
+11:19 let's take let's just switch back to the
+11:22 standard toolbar here and see where they
+11:24 are there yep so here they are so
+11:27 they're up here as well so it doesn't
+11:28 matter which toolbar you're using this
+11:31 is your plan views if you're using
+11:32 Chief's default toolbar and those are
+11:35 the three icons I'm talking about what
+11:37 do they do and why do you need them so
+11:39 I'm going to switch back to my toolbar
+11:41 configuration which is the extended
+11:43 tools all right so what you do is you uh
+11:47 are in your view and at any time you can
+11:51 edit these views so plan views are
+11:54 already pre-programmed in views so when
+11:56 I click on this little icon with the
+11:58 pencil on it the edit the view icon I
+12:01 could it's already named because I've
+12:04 named it with the plan view was I could
+12:07 change that and edit that name of that
+12:09 view right now if I wanted to uh I'm
+12:12 going to leave that alone and then
+12:13 here's all the things that are are
+12:15 associated with this view so this you
+12:18 know when I open the dialogue for this
+12:21 kind of a view it's going to be
+12:22 different than when I open a dialogue
+12:24 for a 3D view so let's do that real
+12:26 quick so let's open up a dialogue for a
+12:28 3D View
+12:29 bring up a
+12:31 overview all right there it is and then
+12:33 let's click that same icon get a few
+12:36 different icon get some different things
+12:38 here now so one of the things you want
+12:41 to get used to doing when you're doing
+12:42 this and I do a lot of 3D views on my
+12:45 screen on my plans my finished plans I
+12:48 do of course you're going to do
+12:49 elevations you're going to do
+12:50 cross-sections you're going to do uh
+12:52 schedules you're going to do area
+12:56 schedules um you know that kind of stuff
+12:59 so first thing you want to do is name
+13:01 this so I'm just going to call this a
+13:02 front 3D overview and the reason I want
+13:07 to do this is because I want to be able
+13:10 to use my project
+13:13 browser to manage all these views I'm
+13:15 going to create so I'm in a front 3D
+13:18 overview now I could go through and
+13:20 start editing some of these things I
+13:22 could you know the position of the
+13:24 camera what shows up below grade all of
+13:27 those different elements um change the
+13:29 camera style to you know physically
+13:33 based you know whatever style you want
+13:34 to see this view in so you have all
+13:36 these functions that you could do with
+13:38 this particular view all right so that's
+13:41 cool so that we could do all that so
+13:42 there's my front view I just changed it
+13:46 again I I I clicked this icon and then I
+13:50 moved my camera all right so now it's
+13:52 different than what I first started with
+13:55 so I need to be aware of that and then
+13:57 click this icon to save the new setting
+14:01 all right so that this is now the new
+14:04 view is locked in place here and the
+14:06 other thing you use this for is this
+14:08 icon right now is what you want to use
+14:11 so I'm going to create different views
+14:13 right now without having to go back to
+14:15 the floor plan and drop a new camera so
+14:17 I'm going to save this view as and chief
+14:20 will automatically rename it something
+14:21 else overview one two three four you can
+14:24 change the whole name if you want to now
+14:27 I could go ahead and rotate this and you
+14:29 know maybe I should have named it side
+14:31 view I could go back to do that later
+14:33 but let's save it in fact I could go do
+14:36 the my go to my browser right now and go
+14:39 to my floor um my cameras overviews
+14:42 there's front overview one I'm going to
+14:44 rename this one right now uh
+14:47 side overview side I'll call it my right
+14:54 side it's just project it's just keeping
+14:57 track of the things that you're adding
+14:58 in your plan all the time each time you
+15:01 create a new view save it with the
+15:04 proper
+15:05 name and you're good to go okay so uh
+15:08 let's say that okay I've made some
+15:10 changes here I rotated a little bit okay
+15:11 I'm going to save that done now I'm
+15:13 going to make another copy of it I'll
+15:15 call it my my back view 3D 3D
+15:21 overview and yeah good enough and click
+15:25 okay now I've got a new camera I could
+15:27 rotate it like this
+15:29 save the new position I've just created
+15:31 three new views that I could put on my
+15:33 layout at any time so on your layout all
+15:36 you have to do is click on any viewport
+15:38 copy of viewport if you need to and
+15:41 then um open the dialogue for that
+15:44 viewport and change it to the listing
+15:48 that you have on here and that's what
+15:50 will show up in that viewport Dan we
+15:53 show which icon you use again to create
+15:55 it first so once you open the screen up
+15:58 where do you so again I'm in this view
+16:00 if you notice this icon's gray out right
+16:04 okay so that means this view is up to
+16:05 date and saved all right so make a new
+16:09 rotate your camera again but to make a
+16:11 new one I'm going to click the last icon
+16:14 here with a little disced on it for
+16:16 those of us that are old enough to
+16:17 remember what a disc is um uh that's the
+16:21 save create create a copy of this view
+16:26 all right so I'm going to call this my
+16:29 left side 3D view but just get you it's
+16:33 really nice to get used to naming all
+16:35 your views as you creating them if
+16:37 you're just opening a camera and closing
+16:39 it don't worry about that but if you're
+16:41 creating views that you're going to use
+16:43 on the final plan name them so you can
+16:46 go back to them at any time and name
+16:48 them name them what you want them to say
+16:50 on your viewport on the layout because
+16:53 you can use that automatic label exactly
+16:56 that's your that's going to be your new
+16:58 lab that's going to be label for The
+16:59 View on the layout so I mve this now
+17:04 this icon Is Not Great out so now I have
+17:06 to click save done so I've just created
+17:09 four views I could close this view now
+17:11 go to my
+17:13 layout I could switch to any view here
+17:17 um I created a new plan not new layout
+17:20 let's go new layout um new
+17:23 layout and I'll switch to a different
+17:25 page size and let's throw a viewport on
+17:28 here I'll just throw my floor plan on
+17:29 there I'll send that to the layout click
+17:32 okay there's my floor plan there's my
+17:35 viewport I'll make that viewport
+17:38 smaller okay I can crop over
+17:41 that and let's say Okay I want to keep
+17:43 that view and I'm going to create
+17:45 another view so I'm going to just
+17:47 copy pull that view off open its
+17:51 dialogue go to
+17:53 my um linked view relink it to something
+17:57 else in this case I'm going to go link
+18:00 it to my plan my cameras my overviews
+18:05 there's those four views I just created
+18:08 and when you click on them it'll show
+18:09 The View right here click okay let's see
+18:13 I'll do my front view there click okay
+18:17 click okay again it's going to populate
+18:19 that a lot of times you got to click the
+18:21 refresh button this a little button down
+18:22 here to refresh the viewport and then
+18:26 your view will camera if it's a camera
+18:29 huh if it's a camera you have to do that
+18:31 if it's yeah I don't know why they make
+18:32 us do that P but and they keep uh then
+18:35 they need to adjust that in the in the
+18:37 viewport or the what do you guys call it
+18:40 the view box or something layout box
+18:43 layout box yeah I still call it viewport
+18:46 and then I can resize that to be
+18:48 whatever I want so I might have to go in
+18:50 into the camera reopen it re you know
+18:53 it's linked to that camera now now I
+18:55 could go in here do it save it close it
+18:59 refresh the view and Dan will you will
+19:02 you scroll in to show where the label
+19:04 shows up so that way Margaret can see
+19:06 that and then you can turn that yeah
+19:08 Margaret you emailed yesterday um so all
+19:10 you have to do with any of your
+19:12 viewports any of your layout boxes all
+19:15 right is click on it open its dialogue
+19:18 choose what kind of label you want from
+19:21 the label I'm going to use marker or
+19:23 call out so for your
+19:26 elevations um and things like that where
+19:28 you have a call out on the floor plan
+19:29 this is view AB b c d you want to use a
+19:32 call out if it's a floor plan use a
+19:35 marker so if we're going to use a call
+19:37 out I'm going to go
+19:38 edit I'm going to call out label that's
+19:42 what I named this view see it says front
+19:44 3D
+19:45 overview uh I'm G to probably a lot of
+19:49 times you don't that's the page number
+19:51 there I'm going to get rid of that I
+19:53 don't need that on this view I just need
+19:55 the layout label um and attributes you
+20:00 can change the size the spacing
+20:02 selection Arrow turn that off click okay
+20:06 you know if you want to have the scale
+20:07 under there that would be part of an
+20:09 attribute so you're going to put box
+20:11 scale this is not a box scaled box so
+20:14 I'm not going to do that and you're done
+20:16 so that's your label nice and then if
+20:19 you if I move this to page
+20:22 two so let's say I I copy that and I go
+20:26 to page two and paste it notice it it um
+20:30 it won't put it won't put the two under
+20:32 there if it's a floor planner if it's a
+20:33 view that you have the uh the two items
+20:37 the top and bottom with a page number
+20:39 it'll change this automatically however
+20:42 back on my floor plan if I if I change
+20:45 that view to something else that label
+20:48 it update automatically so I hope that
+20:51 helps uh Margaret if
+20:55 that's too fast let me finish my let me
+20:59 finish my five points and we'll do it
+21:00 again all right I know actually can I
+21:03 can I show something real quick Dan yeah
+21:05 go ahead um this is right on line with
+21:08 what you were just uh doing um is um
+21:12 when we're making new camera views and
+21:15 this comes up a lot in the Facebook
+21:17 groups is let's just um say I've
+21:21 got I'm going to turn on some electrical
+21:24 here say I've got electrical in one room
+21:26 electrical in another room and I only
+21:29 want to show I want to make sure all my
+21:32 lights are turned on for the room that
+21:34 my camera is in so let's say I've got a
+21:37 camera now in this
+21:40 room a lot of times when people are
+21:42 building out these projects and they've
+21:44 got a ton of lights they don't know why
+21:46 maybe one light is not turned on in
+21:49 their particular view so if you are
+21:51 saving views for a particular view um so
+21:55 we're doing the same thing that Dan was
+21:57 doing which is save active View as I'm
+21:59 making a new camera right and we'll call
+22:01 it kitchen camera it's going to open up
+22:04 um a dialogue box if I go to edit the
+22:07 active
+22:08 view so I'm editing the active View and
+22:11 then in this camera specification we do
+22:14 have the ability to make a new light set
+22:17 and this is so that we're guaranteeing
+22:19 with our kitchen camera that we have our
+22:21 kitchen lights turned on and so instead
+22:24 of using the default light set I'm going
+22:26 to click on adjust lights I wish that
+22:29 said create new light set because that
+22:30 would make more sense so click on the
+22:33 adjust lights button and here is where
+22:36 we can create a new light set and when
+22:39 we do that we get to name
+22:42 it so I get to say
+22:44 kitchen
+22:46 only oops having your same problem Dan
+22:50 typos and then that automatically turns
+22:52 off all lights now I need to go sort by
+22:55 room which you can sort just by clicking
+22:57 this there's no feedback on that so you
+22:59 don't necessarily know it does something
+23:01 but clicking on these headings does sort
+23:03 by that heading so here we go there's
+23:05 all my kitchen lights I can group select
+23:08 them by holding shift and then selecting
+23:10 the lowest one in that stack and then I
+23:12 can click on the on button so now that's
+23:16 saying that with the kitchen only light
+23:18 set everything's turned on with the
+23:20 default light set or actually it's the
+23:22 inverse so now I'm associating that
+23:25 kitchen only light set is going to be
+23:28 the active light set for this view so
+23:31 now I've got a saved kitchen camera
+23:35 where I'm making sure that the kitchen
+23:37 only light set is turned on there we go
+23:40 now I know these lights will be turned
+23:42 on the next time I open this view
+23:46 Perfect all right Dan I'm G put you
+23:49 back nice I love it
+23:52 nice yeah Dan we're back on your your
+23:55 screen just she's gotten a bit better
+23:56 with all of that stuff so um where my
+24:00 screen
+24:02 go got turned
+24:04 out
+24:06 thing
+24:08 um hold
+24:11 on what's going on here uh present
+24:16 screen there it is it did stop sharing
+24:19 let's see I want to go to this about
+24:23 this okay there we go um thank you so
+24:26 let me go back to my little presentation
+24:29 here
+24:32 uh so I hope hope that was helpful for
+24:35 everyone um someone mentioned
+24:39 the the link viewport on layout never
+24:43 send A View to layout more than once
+24:45 someone taught me that uh that was
+24:47 pretty cool all right number two using
+24:49 the project browser I think I kind of
+24:51 covered that one a little bit already
+24:52 but let's just go look at the project
+24:54 browser for a bit so the project browser
+24:56 is that little
+24:59 plan management tool that you can use
+25:02 throughout the
+25:03 plan with just about any kind of things
+25:06 that you do in your plan so when we look
+25:09 at that we've got our CAD details okay
+25:13 so that would be in the right thing I'm
+25:16 on my layout I don't want to be there I
+25:17 want to be here so here's my cad details
+25:20 here in this particular plan there's a
+25:22 door schedule and you always get a
+25:24 preview of it down here trust detail
+25:26 which sheath does automatically and then
+25:28 uh Windows schedule so I don't have much
+25:30 in my cad detail that's if you if you go
+25:32 look at your your program that's this
+25:36 icon right here this is the cad detail
+25:39 where we can store different things that
+25:41 we do in our plan like schedules and
+25:43 details and pictures and you know just
+25:45 about anything that you want that's not
+25:47 3D it's all 2D stuff um overviews and
+25:51 and again as I showed you before okay I
+25:54 want to rename that a little bit so it's
+25:56 up to date so I can rightclick on it
+25:58 this again get used to your rightclick
+26:00 button because it does a lot I want to
+26:02 rename this and I'll fix the typo that I
+26:05 did here and get rid of my big V and put
+26:07 the little V and good enough so that's
+26:10 my new label and that's what's going to
+26:12 show up on the final plan when I'm
+26:14 done um I believe I can double click on
+26:17 this right here and open it too so there
+26:19 it goes so now I'm in that view so you
+26:22 can double click any of these uh in the
+26:24 project browser to open your view took
+26:27 me a while to get used to this uh didn't
+26:31 realize all the functionality that was
+26:32 there of course I'm not even sure when
+26:34 they added some of this functionality to
+26:36 the project browser but here's all my
+26:39 elevations front elevation left
+26:41 right okay I could edit this
+26:46 view which means it's going to open up
+26:48 the same menu as if I click that little
+26:52 icon with a pencil okay if I click that
+26:54 little icon right there so right click
+26:57 on it edit View it's the same as
+26:58 clicking that pencil so that's really
+27:01 handy now I could go change maybe in
+27:03 this one I want to show a standard
+27:05 camera instead of a vector view all
+27:07 right well you bring up a good point now
+27:09 group select all those um elevations can
+27:12 we do that too
+27:14 yeah all views you can edit all of them
+27:17 to make the it's not gonna open a new oh
+27:20 yeah see there it says no change but if
+27:22 I want them all to be standard views now
+27:24 what if you wanted to put that back to
+27:25 no change we know this trick
+27:28 select no change oh well they gave they
+27:31 gave us no change back huh as a
+27:33 scrolling option that seems new that
+27:35 used to not be there I don't think so
+27:38 okay that's a that's a good trip Renee
+27:40 because sometimes I forget to get my
+27:42 labels on my viewports going yeah now I
+27:45 can just go there instead of going to
+27:46 each page and selecting what's on the
+27:48 page and doing that I could go here and
+27:49 select everything yeah the labels
+27:53 on there there okay do this for me let's
+27:56 do a test okay hit cancel okay open one
+28:01 view just one of them or edit one
+28:05 view change that 600 to 400 in clip
+28:09 width down at the bottom
+28:12 okay okay press okay now group select
+28:16 all four edit
+28:20 all okay now we got no change go ahead
+28:22 punch something in there and don't hit
+28:26 enter okay and clicks um in like the
+28:30 zero no no don't click okay click the
+28:32 zero zero or whatever just to commit
+28:34 that change 800 okay if you go back to
+28:37 clip withth and type in
+28:42 N back down here just type n yeah just n
+28:45 and Tab out no change there you go that
+28:49 reverts it back to no change okay
+28:52 cool or we can set it back D dermit told
+28:55 us that at the at the last training
+28:58 I missed that one yeah all right cool so
+29:02 also got another trick for you press
+29:04 okay or cancel or whatever here okay
+29:06 probably
+29:07 cancel um if you're on a Windows machine
+29:10 I know this works will you double click
+29:12 the project browser uh heading at the
+29:14 very top up here where it says project
+29:17 browser oh uh this the top heading yeah
+29:20 double click that put it back over here
+29:22 in the Dos it right and then um undock
+29:26 it for a second I just double click
+29:28 again double click again you hit Windows
+29:31 key and left together Windows key and L
+29:36 oops what did I just do oh we lost your
+29:39 window your screen lo lo me out it put
+29:43 me in the sleep mode oh that's funny
+29:46 that should have that should have
+29:48 expanded that project browser to half
+29:49 your
+29:51 screen okay um let's see hang on here I
+29:54 want to get back to this one share okay
+29:58 youy that overrides that you hitting the
+30:01 left Arrow or the L button I hit the L
+30:04 button oh no do window key left arrow
+30:07 with the project browser okay
+30:10 targeted didn't do anything didn't do
+30:14 anything oh there it did half okay yeah
+30:18 so it made it half the screen you could
+30:19 do that and that works for Library
+30:21 browser and and Alo as well I like it
+30:24 for Library browser sometimes there's
+30:26 that thing's just too small for how yeah
+30:29 I know I'm always floating my stuff
+30:30 around anyway and have it on my other
+30:32 screen so and I'm just used to that
+30:35 method so
+30:37 cool all right so there we
+30:40 go project browser what's number three
+30:44 number three what is number
+30:47 three
+30:50 uh copying
+30:52 Dimensions you even asked about this one
+30:55 right what would you do that for yeah
+30:56 what would you do that for yeah okay u i
+30:59 do this a lot actually so sometimes you
+31:01 know because Chief only gives us three
+31:04 strings of Dimensions when we do our
+31:06 Auto Dimensions okay so when we do auto
+31:09 Dimensions we get one two three lines of
+31:13 dimensions and sometimes I need more
+31:16 because I've got some extra walls or
+31:18 windows so a lot of times what I'll do
+31:20 is I'll just click on my Dimension here
+31:23 and I have control C set up but I would
+31:25 just hit my copy button and then drag
+31:27 that off and you know hit tab if you
+31:28 want to space it exactly you know 18 or
+31:31 12 or however far you want to go so it's
+31:34 just like copying a cadline then I'll
+31:36 just go ahead and add my Dimensions back
+31:39 into where I'm I want to go and I'm done
+31:41 I don't have to draw a dimension and
+31:43 move it around I just you know copy drag
+31:46 it over add your points or remove your
+31:49 points if that's the case you you don't
+31:51 want those points in there so I find
+31:53 that really easy to do so so it' be like
+31:56 if I was doing these cabinets here and I
+31:58 I wanted to you know get a full length
+32:01 on the cabinet so I'll throw that one in
+32:03 first then I'll hit you know control C
+32:06 and copy that because I want to leave
+32:07 that there and then I'll just add my
+32:11 points in where I want them so it's a
+32:12 little easier than just trying to draw a
+32:14 dimension because sometimes you get so
+32:16 many points that you don't really want I
+32:20 find this to be a lot
+32:22 faster can you copy can you select more
+32:24 than one dimensional line at a time to
+32:27 copy it
+32:28 yeah I think so it's just like selecting
+32:31 CAD lines okay so now now go ahead and
+32:34 put your fourth line in there and just
+32:36 pull it and then use the uh line is it a
+32:40 line objects to space them out equally
+32:43 oh sure well that way I'm not going to
+32:46 add more I just click on the ones I want
+32:48 to space equally right right yep and
+32:51 then use the the Align distrib this one
+32:57 yeah this one so I would want to move
+32:59 them horizontally
+33:02 horizontally I want to space evenly
+33:05 click okay and that's going to put them
+33:07 all equally spaced so I suppose if I had
+33:11 one here okay wait D show that button
+33:14 again okay and two three that's this
+33:17 button right here okay right here down
+33:20 on the edit tool and that will space all
+33:23 of them yeah so you got to select you
+33:27 got to make your selection here I don't
+33:28 want to do anything up and down I just
+33:30 want to do it back and forth so space
+33:32 evenly and I've selected I've selected
+33:35 this one here and this one out here so
+33:38 now these should move in to be spaced
+33:41 evenly let's see if it works and it did
+33:44 but it it spaced it evenly between this
+33:47 point and this point so it just put the
+33:49 other two even equal so if I wanted if I
+33:53 wanted to narrow this up quite a bit I
+33:55 could just go like that and then hit
+33:57 space
+34:00 evenly yeah Margaret your witness line
+34:02 should never touch your drawings the
+34:04 only witness line that's allow that's
+34:06 really supposed to touch your drawing is
+34:07 your Center
+34:09 Line that's the only draw that's the
+34:12 only witness line so what's a witness
+34:14 line a witness line is the line that
+34:18 goes from the dimension line to the
+34:20 drawing the dimension line is the
+34:25 line what's that ke call extension lines
+34:29 you call so that line what you have
+34:31 selected that's called the witness line
+34:33 okay the dimension line the one that has
+34:35 the dimension on this called your
+34:36 dimension line your witness line should
+34:38 never actually touch your drawing it's
+34:40 supposed to be like 316 of an inch off I
+34:42 think that's the way it's basically set
+34:44 up yeah that be changed yeah and it but
+34:48 unfortunately Chief doesn't do that
+34:50 sometimes you do have to modify it a
+34:52 little bit I have issues with that on
+34:54 occasion but you know honestly Margaret
+34:57 everybody does things a little
+34:58 differently nowadays so technically the
+35:00 only witness Line That's supposed to
+35:02 touch your drawing is the a center line
+35:05 of something where it goes over the item
+35:07 or next yeah where it has to go to the
+35:09 object that you're dimensioning so so
+35:11 again Chief calls those extension lines
+35:13 and that's something you can set up in
+35:14 your defaults right so okay so they call
+35:18 your Dimensions it's called extension
+35:22 markers and you can set the length
+35:26 away right here in your defaults or you
+35:29 could you know I can check it here now I
+35:30 could change that so if I go away from
+35:33 the defaults I could change those let's
+35:35 make them bigger away from the object so
+35:39 the line I just
+35:41 selected we won't see it because I've
+35:43 got these other lines here um that
+35:45 should be six inches away now
+35:48 right it is what else is going on
+35:50 there's something else do I have an
+35:52 extra one there it's away from it isn't
+35:54 it oh there was a line there that's what
+35:56 it was so
+35:58 I was just seeing we were seeing this
+35:59 line underneath there but now it's six
+36:02 inches
+36:02 away you can set those up you could do
+36:05 those that independently too with each
+36:08 you can do it for the whole as your
+36:10 defaults or in on Independent line and
+36:13 then you could set those up in your
+36:15 defaults originally like you just said
+36:17 sorry Dan um and then Margaret then it's
+36:19 all set up for you but it would it
+36:22 depends upon sometimes where you're
+36:23 dragging your dimension from that
+36:25 sometimes it won't you still sometimes
+36:27 have to go through and and manually
+36:30 change it on a specific Dimension line
+36:33 just sometimes yep so that's a matter of
+36:35 just not clicking the dimension but
+36:37 clicking on the witness line the
+36:39 extension line then you can move those
+36:41 in and out all day long
+36:42 [Music]
+36:45 so remember if you it's just depends on
+36:48 where you pulled the dimension from that
+36:50 sometimes it does that yeah I get it
+36:53 cool all right so that was number three
+36:56 um let's go to the next item
+37:00 edit area edit area what is edit area
+37:04 how many people use edit area I use edit
+37:06 area a lot a lot more than I thought I
+37:09 would but I do so edit area is the
+37:11 ability to take any or all items in your
+37:17 plan and copy and paste them somewhere
+37:20 else and move them uh you can move them
+37:23 as a group you can delete things as a
+37:24 group so I've got a multi-level plan I
+37:27 got a Foundation a first floor and but
+37:29 no second
+37:30 floor and let's say I wanted to expand
+37:34 this
+37:35 house uh two feet or whatever I'm going
+37:39 to add two feet to the left side of the
+37:42 house so I usually just draw a box first
+37:46 to where I'm going to select I could
+37:48 even select because I want to move this
+37:51 window to so I'm going to break this box
+37:54 and I'm going to move it around that
+37:56 that area so I'm going to move this pink
+37:58 area this whole area I've got selected
+38:00 over two feet this could be an edit area
+38:05 and I'm also going to move my Foundation
+38:08 two feet so it'll
+38:14 move you guys are probably hearing my
+38:16 dog
+38:18 there need to mute yourself Dan I think
+38:21 I do I'll just uh you guys can read my
+38:23 lips okay uh
+38:27 someone must be here hang on I'll go my
+38:30 wife is gone right now so bear with me
+38:32 one second you guys chat yourselves so
+38:36 if you haven't been using that edit area
+38:37 button uh try try it out because I was
+38:41 online with somebody the other day and
+38:42 they wanted to take six feet out of
+38:45 their house and we did it in a matter of
+38:47 five
+38:49 minutes or less it probably would have
+38:51 been less if I hadn't been teaching them
+38:52 how to do it at the same time
+38:55 so take a cut out of them
+38:58 Dan's copying that CAD box down to the
+39:00 lower level so that way it's do they all
+39:03 Let me show mine can you move all floors
+39:07 at the same time so you can do you can
+39:09 even do this like you can use the line
+39:11 tool uh and do a bunch of weird cuts oh
+39:15 the joy of home office nobody and you
+39:18 can take this and you then use the edit
+39:21 area
+39:22 tool um just visible or or whatever Ed
+39:26 area and now I can actually move this
+39:29 and it's going to stretch a lot of those
+39:30 Architectural Components out will it
+39:33 move both floors at the same time it'll
+39:35 move all it can it can if you do all
+39:37 floors edit area all floors it will so
+39:40 oh there's a is there a button when you
+39:41 do hit edit area uh it's in it's one of
+39:44 the other options so it's in edit area
+39:47 there's a drop down menu and you could
+39:49 do all floors yes and then you can edit
+39:51 everything at the same time will the
+39:52 dimension the dimensions will
+39:54 automatically change there's a
+39:56 difference between edit area and edit
+39:58 area visible edit area is going to pick
+40:00 up anything architecturally that might
+40:02 be on those walls as well as light
+40:04 fixtures or whatever else that might be
+40:06 there that's not turned on in in your
+40:07 active layer set such as Furniture wall
+40:10 sconces or anything it'll also get the r
+40:13 anything that's in the structure the
+40:14 roof everything yep got it and then if
+40:17 you do all floors it does everything and
+40:19 it it redim missions the whole program
+40:21 for you yeah yeah John that's what we're
+40:22 discussing right now is if you hit edit
+40:25 all floors then it will will move
+40:27 everything at the same time yeah you can
+40:30 even use it to reflect um a drawing and
+40:34 just I would say that I have noticed
+40:36 that it makes a big difference if you
+40:38 make sure that your your building is at
+40:41 um a z00 Mark Center z z Mark if you're
+40:44 going to do something like reflect um
+40:47 because that makes a big difference in
+40:48 some some way and I can't remember
+40:51 why talking involved you're just using
+40:55 where you're starting your drawing from
+40:56 from
+40:58 0 um no I'm saying Center of building 0
+41:02 I know that makes a difference when
+41:03 you're going to reflect a
+41:05 drawing are you talking about reversing
+41:08 reversing the plan Renee or reflecting
+41:10 it about something uh reflecting it
+41:13 about something or reversing honestly
+41:16 it's been a while since I've tried it if
+41:19 it's reversing the plan it's taking up
+41:21 everything that's on your screen that
+41:23 you've drawn on your screen you could
+41:24 have a the full extent of 100 away and
+41:27 it's going to reflect it over that whole
+41:29 thing that that's what it was okay so
+41:32 what I would do when I was reversing a
+41:33 plan is I would draw a cad box so that
+41:38 it was reflecting about what I wanted it
+41:41 to reflect about Center as opposed to
+41:43 full extent switching I've never used
+41:46 Chief's reverse plan tools i' never had
+41:49 much luck with those just I just do a
+41:51 reflected copy or not even a copy just
+41:54 reflected
+41:57 so just to clarify so if you want to
+41:59 flip a whole drawing you want to put a
+42:01 cad box around it and then reflect
+42:04 it yeah and that way it just does what's
+42:06 inside that box well it's you're
+42:08 reestablishing where the center line is
+42:10 with that CAD box got it so then you it
+42:14 do will it do all floors because that's
+42:16 different than what Dan's doing because
+42:18 ref all floors at that does the whole
+42:20 entire planus what Dan's talking about
+42:23 which is just an area reflecting for M
+42:26 area right just selecting an area now
+42:28 it's not going to stretch that tub out
+42:30 obviously and I'm not sure what it's
+42:32 going to do with that door we'll find
+42:33 out in a second but it will move that
+42:35 whole window over because I put my cad
+42:38 box around that and so now I'm going to
+42:40 go into U you know I want to transform
+42:44 replicate I'm going to go x minus 2
+42:48 feet okay so quick okay and I've just
+42:51 added two ft to my building my
+42:54 Foundation everything and there's a door
+42:56 there somewhere that's giving me a
+42:58 problem but it it didn't move the door
+43:00 it left it where it was so I'd have to
+43:02 move that over separately it moved the
+43:04 it stretched the roof
+43:06 out okay so now if I had done it the
+43:08 other way it would have moved the roof
+43:11 but it would not have hooked the ridge
+43:12 back up automatically I'd have to go do
+43:14 that manually so so Dan did you have to
+43:17 use transform replicate or could you
+43:18 just use your tab key and tab it over
+43:20 two
+43:21 feet well it wouldn't do the foundation
+43:24 at the same time if I didn't if I didn't
+43:26 do all floors at
+43:28 once that's true plus plus I can't
+43:31 select items using a cad box unless I
+43:35 use edit area no no I get that I get
+43:39 that but then you use transform
+43:40 replicate to move it over two feet
+43:42 correct because could just grabb the
+43:44 center you could have just grabbed the
+43:46 center handle of the box and started
+43:48 slid over I could have yeah
+43:52 okay over got it that's pretty cool I've
+43:56 never done that before pretty cool
+43:58 that's 24 and hit okay and I've just
+44:01 added another two feet to it so perfect
+44:04 um so yeah you could any way you move
+44:06 anything else in Chief Architect you
+44:09 could do that if you wanted to use your
+44:10 tab key to move it over a little at a
+44:12 time you could have done that too it's
+44:14 like magic It's Magic it's a CAD program
+44:18 all right so edit areas a cool tool you
+44:20 can use it a lot I use it you know if I
+44:23 wanted to create a duplex here i' i'
+44:25 Define exactly where the center wall is
+44:29 all
+44:30 right so I'm going to draw a line and
+44:33 say I'm going to switch this wall out to
+44:35 you know a double wall with a sheet rock
+44:38 between it and all that good stuff so
+44:39 I'm going to use this line as my
+44:40 flipping point so I just select edit
+44:45 area all floors select the area I want
+44:49 now I can't get this I don't want to
+44:51 flip my garage too so let's use a cad
+44:55 boox before I do this so let's get a cad
+44:58 boox drawn exactly in the areas the
+45:00 items I want to flip just get those
+45:03 items now I could break this my three
+45:06 key pull that down now I'm only going to
+45:08 get what's in that box so copy now edit
+45:13 area all
+45:16 floors
+45:17 copy reflect about okay there's your
+45:21 reflect button what do you want to
+45:23 reflect about you're Mak a mirrored copy
+45:25 I'm going to click on that line I drew
+45:27 and there's the other half of my
+45:29 building now I would need
+45:31 to come on there it goes something
+45:34 didn't work did
+45:36 it
+45:37 um oh you know what it is I got to put
+45:40 this back here this edge of the box has
+45:42 to be where it needs to be is that what
+45:46 happened let me hit undo undo you lost
+45:49 that part of your building y y i
+45:51 something didn't copy or did I click in
+45:53 the wrong place let's move this Edge
+45:55 back here and well that's the
+45:59 terrain okay I don't think that like
+46:02 that it should reflect about the line no
+46:05 matter what it should did I I must have
+46:08 clicked on something wrong let me try it
+46:09 again edit
+46:11 area all
+46:13 floors
+46:15 copy reflected copy click on that line
+46:20 okay so here I'm getting predictive move
+46:21 now I can see what it's doing I I must
+46:23 have clicked something wrong but there's
+46:25 the other half of my building now when I
+46:27 click it's going to paste that it's
+46:29 going to put it's going to I'm going to
+46:32 have to replace these two walls with the
+46:34 firewall and hook this together okay and
+46:37 then I have to redo my roof because it's
+46:39 going to have it's not going to create
+46:40 one big roof create it's made a copy of
+46:43 the roof so I'm going to have to you
+46:46 know I could join those together using
+46:47 the tool
+46:49 here so I've selected both roofs now I
+46:52 could use this tool here
+46:54 to that's not right either i' gotta get
+46:57 them right next to each
+47:01 other now I can join this tool yeah
+47:04 should have worked but it didn't but I
+47:06 click this tool right
+47:08 here to make an outline of the roof and
+47:11 it creates a new one there is how you
+47:14 create so anyway you know keep the
+47:16 bottom line is keep in mind you're
+47:18 you're in a CAD program that's got
+47:19 coordinates
+47:21 okay
+47:22 um using edit area you can copy
+47:26 something thing or um I could copy you
+47:31 know if I did a room addition in one
+47:32 plan I want to copy to this plan I might
+47:35 use edit area and then copy hold
+47:39 position back here you know it's
+47:41 whatever I'm not going to get into any
+47:43 more than that right now but edit areas
+47:44 handy tool it's there use CAD boxes to
+47:47 select what you want to move and uh it
+47:50 really works
+47:52 well all right let's keep moving we're
+47:54 running out of
+47:55 time uh let's see last thing I had on my
+47:58 list we'll jump back to labels for a
+48:00 moment is is is where' my list go is
+48:06 calculating areas Renee already showed
+48:08 you his cool new um new tool that you
+48:11 can get from Renee rabbit rabbit
+48:14 design.net I should say excuse me and
+48:18 you could check that out but what I like
+48:21 to do
+48:24 and let me just hook this together for
+48:29 simple projects you just need to have an
+48:30 area all right so when you click next to
+48:33 a building Tab Key Tab Key okay so I
+48:36 click next to a building and I get my
+48:38 highlight around that building there's a
+48:40 little icon down here used
+48:42 to draw a cad box around the living area
+48:46 of your house so if you look at room
+48:48 names you see you can have living area
+48:50 and no living area so you're going to
+48:52 find that in this plan the stairwell is
+48:55 not part of the living area see how
+48:57 Chief puts the cad boox around there
+48:58 with Dash lines now that's not part of a
+49:01 living area Okay so the way I do pardon
+49:05 it counts it on one floor but not both
+49:07 floors yeah it'll count it on the
+49:09 foundation because that's that square
+49:12 footage is part of the plan but here
+49:14 it's a hole in the floor so they're not
+49:15 counting it as a living space if you
+49:17 wanted to count that in there I could go
+49:19 into that room and say yeah include that
+49:21 in the total living area not exclude it
+49:24 so that way my stairwell would also be
+49:27 counted as part of the living area so
+49:29 now when I do that
+49:31 again see this would be for the sale
+49:33 price right you want to count that
+49:35 square footage um not for the assessor
+49:38 uh okay so just keep that in mind with
+49:41 Chief
+49:42 now I I in my plan template I have a
+49:45 thing called square foot takeoff where I
+49:47 go in here and I'm going to create those
+49:50 CAD boxes see when I flipped this plan
+49:53 it made a copy of that box that was
+49:55 already there a lot of s I'll just take
+49:58 these and because I'm going to have
+50:00 different kinds of living areas like
+50:03 here I'll just I'll just stretch that
+50:04 over over the top of that and I'll clean
+50:07 this up I'll get this mess cleaned up by
+50:10 connecting these this line to that line
+50:13 using the connect line tool
+50:18 and okay so now I've just cleaned that
+50:20 up uh all right so there's my square
+50:23 footage for that Foundation but now I
+50:25 want to do my graph so in these boxes I
+50:28 always just again this is the super
+50:31 simple method okay I put the word
+50:33 existing you know I I use this a lot for
+50:36 um remodel projects so I might Mark the
+50:39 existing house with this box and the new
+50:41 with the other box but let's say this is
+50:44 the garage okay I'm going to put h
+50:48 garage and it and then we use the macro
+50:51 area from here we use object specific
+50:55 area that's your
+50:57 macro and then I'll just take that box
+51:00 and copy it up here and just put it in
+51:03 place where I need to get that square
+51:04 footage so it allows me to get exactly
+51:08 where I want to call up the square
+51:10 footage for this room so that's what I
+51:13 would put on my list I just have little
+51:15 spreadsheet set up that I just would add
+51:17 those things to and it works great for
+51:19 me again if you want to automate that
+51:21 process and get all of the different
+51:23 kinds of areas go check out Rene's new
+51:25 Tool uh very very cool all right um so
+51:30 that's edit area uh that's using Chief's
+51:33 edit area in CAD boxes to calculate
+51:36 areas for things in your plan very
+51:40 simple to do any CAD boox will give you
+51:43 a calculation of the
+51:46 area you guys have any other ways you do
+51:51 it um my system does it from room from
+51:56 room
+51:57 individually and then yeah and then it's
+52:00 you know and then we're getting Advanced
+52:01 from there um where it's doing some
+52:03 conditional checks for you know name of
+52:05 room type of room that kind of thing
+52:07 yeah different yeah and then just
+52:11 knowing that you can do a room schedule
+52:13 and you can kind of delimit um to create
+52:16 edit area sches from there surfaces and
+52:20 stuff yeah impervious services that one
+52:24 um in particular is pretty custom in my
+52:26 system system because it will use either
+52:28 a polyline that I give you or it will
+52:31 use rooms that you name in terms of type
+52:35 um so you can say hey anytime it's a
+52:38 deck anytime it's patio anytime it's
+52:40 porch include that imper area and also
+52:43 include any polylines um with the Improv
+52:46 area tag on it so so that's a little bit
+52:51 does it total up all the impervious
+52:53 surfaces the house and yeah uh my screen
+52:57 here's my screen
+53:00 um so if I switch
+53:03 to um a plot plan view I
+53:08 have here's an impervious
+53:10 area polyline and so that's producing
+53:15 you know oops I just grabbed a slab
+53:17 instead of the polyline so there's the
+53:19 polyline and you can it doesn't need to
+53:21 be a polyline it could be you know an
+53:23 architectural feature so long as it has
+53:25 the macro that's driving this and so
+53:28 that's producing in previous area and
+53:30 what your macro look like in there Renee
+53:33 um uh that one in particular is switch
+53:37 back well they should have a tool to
+53:39 just switch back to the last
+53:41 view okay let's see so in the label it's
+53:46 just producing area and description but
+53:49 in object
+53:51 information it's F7 by the
+53:54 way what's that F7 seven we'll go to
+53:57 last view yeah um let's see how am I
+54:02 doing this I couldn't tell you okay
+54:05 never mind then it does it automatically
+54:08 that's all I know no um and then on top
+54:11 of that if I say um if I come into the
+54:15 lot
+54:16 information which I have on my
+54:21 sidebar um it says right here that it's
+54:24 going to automatically include anything
+54:25 that's balony deck porch so if I change
+54:27 the size of my deck that impervious area
+54:29 is going to change as well um and so
+54:33 that's it's just a conditional check
+54:36 that's built into the rooms yeah amazing
+54:39 and it looks like you have it set to go
+54:40 to the nearest whole
+54:42 number um yeah hold on one second
+54:51 sorry all right I need to jump into
+54:53 answering a question
+54:56 so um I'm GNA take back the screen here
+55:00 yeah all right Margaret we're gonna Rene
+55:02 you can come back answer that when you
+55:04 get it all done sure um all right so
+55:06 we're going to go here and create a
+55:07 elevation for this kitchen wall so we're
+55:10 gonna we're g to draw the camera facing
+55:13 the
+55:14 wall here's my elevation clip to the
+55:17 room I'm going to click the little
+55:19 pencil icon and I'm going to name this
+55:22 my you know kitchen elevation at
+55:26 refrigerator okay or whatever you want
+55:28 to call it right that's the name of this
+55:31 this at the vector view it's going to be
+55:32 a line drawing done all right so now I
+55:36 could either send that the layout or I
+55:38 could go to the layout and replace a
+55:40 viewport layout box with that particular
+55:45 um item so I'm going to open the
+55:48 dialogue for
+55:49 that I'm going to go linked view relink
+55:54 to it's a cross-section
+55:57 elevation here's my kitchen elevation at
+56:01 refrigerator click okay now let's go
+56:04 check on the
+56:06 label edit call out we're going to use a
+56:09 call out on this because I need to have
+56:11 numbers that relate back to the floor
+56:13 plan all right so I'm going to go
+56:15 edit and in this place this pce you know
+56:18 if you wanted to have page number as
+56:21 part of this call out on the layout you
+56:24 could put that here but you don't need
+56:26 too um so E6 because the page number is
+56:30 already on the page the view is on the
+56:32 page so you don't need to be redundant
+56:34 unless you want to you could do that
+56:36 attributes I'm going to make my I like
+56:39 making my text below line smaller so I'm
+56:42 going to not match that and I'm going to
+56:44 change that to a different size in fact
+56:46 I'm going to change this to I like the
+56:49 uh I like 316 for that and then I'll go
+56:53 e inch on the on the label below and
+56:56 then then I like mine to toward the call
+56:58 out again personal preference that's how
+57:01 I like mine to look so that's how my lay
+57:03 is going to be on my layout page when I
+57:07 click okay all right so I need to now
+57:09 open the dialogue one more time because
+57:11 I forgot to set the Box scale at a half
+57:15 inch and make sure that the linked view
+57:19 is set to plotline and I'm going fast
+57:22 here but uh live view I don't know why
+57:26 that comes up as default quite often but
+57:28 sometimes you got to switch back to plot
+57:30 lines you want to be a line drawing so
+57:31 just switch plot lines here you don't
+57:33 have to resend it or anything like that
+57:35 and now when I refresh that it will be a
+57:38 line drawing and then I just adjust my
+57:41 box around there use your right Mouse
+57:42 button to pull the corners of that box
+57:46 up next to your view so you don't have
+57:49 to do one side at a time right Mouse
+57:51 button on the corner does both sides
+57:54 okay I could have hit the resize tool I
+57:55 suppose to which is when you group
+57:58 select something by holding the control
+58:00 key down you get this I this button and
+58:02 that's your resize tool do all four
+58:06 sides so there you go there's your label
+58:08 half inch label number E6 you could
+58:10 change that number if you want to but
+58:13 when I go back to my floor plan that's
+58:14 going to say E6 on page two and I just
+58:17 change the the size of you know I'm
+58:20 going to switch to my kitchen plan which
+58:22 will have the uh that call out smaller
+58:26 so when I close that view it'll show up
+58:29 like
+58:31 that okay that's all so view number E6
+58:35 on elevation six on page two you could
+58:38 change that to E1 E2 whatever you want
+58:41 so the top number you can change
+58:42 manually the bottom number you leave set
+58:44 to automatic so whatever page it's on
+58:46 it's going to be on that page nicely
+58:48 done but make sense Margaret you got
+58:53 it hope that helps
+58:56 all right um and Margaret look forward
+58:58 to seeing you in a couple months she
+58:59 will Margaret will be at the
+59:01 summit all right what else we got Renee
+59:04 you got something you want to show back
+59:07 relation to says can you change area to
+59:09 round to the nearest hole number yes you
+59:11 can you can
+59:13 put area. round um or you can um also
+59:19 depends on which way you want to do it
+59:22 could do a bunch of different ways so
+59:23 let's just take a look at this
+59:25 impervious area polyline
+59:28 and in the
+59:31 label I'm going to say oh I grabbed the
+59:33 wrong thing again 20 days I'm going to
+59:36 grab the right thing there we
+59:39 go I could do this a number of different
+59:41 ways I could go area. round we can even
+59:44 round it to one or two decimal places if
+59:47 we wanted to we could go area do seal
+59:51 which would take it to the
+59:53 ceiling and you could even go round
+59:56 which would mean it's going to round up
+59:58 in this case floor would be the opposite
+1:00:01 it going to take it to the floor round
+1:00:04 or we could even
+1:00:06 say um
+1:00:09 2core I which is an integer which would
+1:00:13 be a whole
+1:00:14 number and oh didn't look like it wanted
+1:00:17 to do that that's probably because it
+1:00:18 wants to be a float first or string let
+1:00:23 see that work yeah two float so two
+1:00:27 underscore F and then 2 I makes this uh
+1:00:31 a whole integer as well number of
+1:00:32 reasons you'd want to do that for
+1:00:34 scripting but for the purpose of what
+1:00:36 you're looking for probably just do
+1:00:38 round would work out just
+1:00:42 fine we got any other questions about
+1:00:47 that I don't think
+1:00:50 so so now I'm I am showing that I've got
+1:00:53 impervious areas here 2498 foot if I tab
+1:00:58 through and drag this out notice it
+1:01:00 picks that up so it's picking up this
+1:01:02 polyline but on top of that it's picking
+1:01:05 up any decks so we're at 2900 square
+1:01:09 foot right now should be that if I draw
+1:01:12 out a
+1:01:14 deck oops which is a really funny shaped
+1:01:19 deck there we go it picked up that new
+1:01:22 deck as well so this combination room
+1:01:25 and po line is what that's picking up
+1:01:28 and these are all just individual
+1:01:30 schedules um that are limited to a
+1:01:34 category where they are summing similar
+1:01:36 rows and grouping similar items and
+1:01:39 that's probably a little Advanced to get
+1:01:41 into with negative two minutes left on
+1:01:43 the
+1:01:45 clock negative two we're over by two
+1:01:48 thank you guys for being here today I
+1:01:50 appreciate it um I hope some of this
+1:01:51 stuff was helpful uh check out the join
+1:01:55 the weight list
+1:01:56 things right on the homepage and uh we I
+1:02:00 got some we got some good things coming
+1:02:02 and then the summit please check it out
+1:02:04 too uh give us a call if you have any
+1:02:06 questions we' love to talk to you you
+1:02:08 guys have a
+1:02:10 wonderful weekend and we'll see you
+1:02:15 in three weeks I think uh because this
+1:02:18 is the third th third Friday of the
+1:02:21 month but there's two more Fridays after
+1:02:23 us till we get to the next month's first
+1:02:25 Friday
+1:02:26 so but we'll probably pop up something
+1:02:27 in the yeah we might have to do a popup
+1:02:29 show there you go all right you guys
+1:02:31 take care nice talk have a good weekend
+1:02:33 you guys you later bye bye bye

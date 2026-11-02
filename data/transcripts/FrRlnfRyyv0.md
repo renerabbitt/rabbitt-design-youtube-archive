@@ -1,0 +1,1585 @@
+---
+videoId: FrRlnfRyyv0
+title: What's New in Chief Architect X17 - Part 2 - Designers Show #153
+url: "https://www.youtube.com/watch?v=FrRlnfRyyv0"
+status: imported
+---
+
+# Transcript
+
+0:00 And we're live. Hey guys, welcome to the
+0:03 designer show on this lovely Friday with
+0:06 a heat wave about to hit the country. Uh
+0:09 sounds like we're going to get some
+0:10 really warm weather coming up here. So
+0:14 get your air conditioning going. How's
+0:16 the air conditioning your house, Renee?
+0:18 I'm gonna move.
+0:21 You still having trouble with it? I
+0:24 don't have one. You know, I need one. So
+0:27 Oh my goodness. you probably get just
+0:30 get you one that that exhausts out the
+0:32 window. Those aren't so bad. I know.
+0:35 I've been so stubborn about that. Just
+0:37 don't like the the look of it. I'm like,
+0:40 you know, my dad's in my head going, "If
+0:43 you're going to do it, do it right."
+0:44 Well, there you only need it for a few
+0:47 days a year, right? Put it in your
+0:48 closet when you're not using it. Yeah.
+0:50 Yeah. I have one of those. My I used to
+0:52 use it in an office that didn't have
+0:54 very good air conditioning and my son's
+0:57 using it. they they live in an apartment
+0:58 and the their wall air conditioner
+1:01 doesn't quite do it. So, we we should
+1:04 actually do a community challenge and
+1:07 and I would show what my house floor
+1:10 plan is because to me it was really
+1:13 clear to me that someone bought um plans
+1:16 online for this house. Okay. Because the
+1:20 the top floor I have an amazing view and
+1:23 it's of San Francisco. Okay. And um and
+1:27 the top floor has almost no windows on
+1:29 it, which is the main bedroom. That's
+1:33 weird. Yeah. Everything oriented
+1:36 backwards. It's facing the the wrong
+1:38 way. And definitely definitely was not
+1:41 designed for your site, was it? No, not
+1:43 at all. You know, and no one in their
+1:45 right mind would have done that if they
+1:47 had seen the site. So it's like Yeah. I
+1:49 don't know. They definitely So, I think
+1:51 it'd be funny to see the community
+1:53 challenge of see how people would
+1:54 retrofit it and what they
+1:58 flip everything around, you know, just
+2:00 just jack it up and turn it around. No,
+2:02 no big deal. You're off the top floor.
+2:05 Anyway, all right. So, uh, welcome
+2:08 everyone. Paul, Robin, Robin, are you on
+2:11 a plane heading Oh, you're on the way to
+2:12 the airport. All right, cool. That's
+2:15 amazing. Nice. I got a new member,
+2:18 Hannah Crosser. Hi Hannah. Hannah. Hey
+2:21 Hannah. Oops. Thank you. I hope you find
+2:23 some good stuff in there. I have a new
+2:25 series on my um I'm gonna plug real
+2:28 quick. I have a new series on my YouTube
+2:30 that's about uh that's about cloud. It's
+2:33 not necessarily geared towards Chief. In
+2:35 fact, I don't think I've said anything
+2:36 about Chief yet and I'm five videos in.
+2:38 So, it's just about it's about cloud.
+2:41 Just um understanding what cloud is. um
+2:45 understanding how to set it up,
+2:46 understanding how to share files,
+2:48 understanding how to manage your
+2:50 computer. Um so I've just been doing a
+2:53 series on that. Yeah, that's a good
+2:55 idea. Yeah, people have a usually have a
+2:58 lot of questions about managing files.
+3:00 So, and of course, we're going to throw
+3:01 another kink into it today talking more
+3:03 about the cheese project browser. So, I
+3:07 you know, that's the idea. Was going to
+3:08 make our lives easier or harder or uh
+3:11 about the same? I don't know. I guess
+3:13 we'll talk about that a little bit, but
+3:15 before we get into that, um, real quick,
+3:18 let me just share my screen here. So, u,
+3:21 if you're on the designer show page, you
+3:24 can scroll down here a little bit and
+3:26 get to the, uh, PDFs for what's new in
+3:30 ChiefX 17. So that's u the link right
+3:34 here below the video in the chat and uh
+3:37 you can find that PDF which looks like
+3:42 this. So that it's still in public beta.
+3:46 So I don't think Chief has this readily
+3:48 available on the site. I think you have
+3:50 to get I think you have to get the beta
+3:52 and install it and then you'll get this
+3:54 list. So um when you're on the Chief
+3:57 Architect website. So anyway, this will
+4:00 give you an idea. I I I tell you every
+4:02 time I'm looking more at the software
+4:04 and it's got Yeah, it's a short list.
+4:06 It's four pages long, but geez Louise,
+4:10 they've made a lot of improvements in
+4:12 the software. Just stuff all over the
+4:15 place that's not even on this list.
+4:17 Yeah. A lot has changed. Yeah. Yeah. I
+4:21 want to bring this up, too, and I want
+4:22 to push you, Dan, because I know you've
+4:24 been on the fence. I really want you to
+4:26 go to Chief Academy this year. Um
+4:28 because I think we got a lot to talk
+4:30 about and and I hope anybody watching
+4:32 this goes as well because I know there's
+4:35 already a lot of confusion about using
+4:38 the new project browser. But there's
+4:40 there's a lot of tools that are in this
+4:43 version now that um
+4:46 Oh yeah. You know what? I got a link,
+4:47 too. Let me see. I threw it in there.
+4:50 Chief Academy. Yeah. So, I'll be there.
+4:52 John, you going? I'm planning on it. I
+4:54 haven't signed up yet, but I'm planning
+4:56 on it. Um, I'll be there. It's a great
+4:59 opportunity to meet the the people at
+5:01 Chief Architect. Yeah. And then other
+5:05 people like us that are there and and uh
+5:08 and I think it's going to be a big one
+5:09 to go learn this year because there's a
+5:11 lot to learn. You might want to change
+5:13 your workflow a bit. Um because there's
+5:15 a lot of things in next 17 that could
+5:17 really improve your efficiency. And
+5:20 that's true. There there is now no
+5:22 excuse for not modeling in a 3D view to
+5:25 me now. pretty much. And that takes
+5:27 practice, but the tools are all there
+5:29 now. Yeah. If you sign up, if you sign
+5:33 up for the Cordelane thing by July 1st,
+5:35 is it? You get 10% off.
+5:38 Okay. Yeah, I already I had already
+5:41 gotten mine. Click on sign up there and
+5:43 see what the date actually is.
+5:49 Let's see. Where are we here?
+5:54 Is this it?
+5:56 Cordelane in. Yeah.
+5:59 Does it talk about the discount there or
+6:01 is it already passed? I don't see one.
+6:04 Oh, yeah. And it's it's got the little
+6:06 slash through it. That looks like it's
+6:08 10%. Yeah. Oh, it's normally Okay. July.
+6:13 Yeah, they bumped the price up. Prices
+6:16 went up just like everything else in the
+6:18 world. So, okay. Um All right. Well,
+6:21 I'll look into it. I was kind of taking
+6:24 a chill year, but we'll see.
+6:28 You're going to miss us if you don't go.
+6:30 Well, I know I already miss you guys.
+6:32 So, all right. Uh, so enough of that for
+6:36 now. But anyway, get your handouts. Um,
+6:39 and I'll have I've got some stuff I'm
+6:41 been really working hard on, too. So,
+6:43 we'll have some fun coming up here next
+6:45 few weeks. The uh Let's go get out of
+6:49 here. So, let let's talk about that
+6:50 project browser. All right, Renee, why
+6:52 don't you take control here and
+6:55 and you get in you you and John have
+6:57 been into it a lot more than I have. So,
+7:00 hey, hey, Margaret.
+7:03 And Marie. Marne. Hi, Marne.
+7:06 Project Project Browser. Yeah. And I did
+7:09 a I did a video on it that I thought was
+7:11 short and it was still 25 minutes long.
+7:14 That That is short for you.
+7:17 That is short. Um,
+7:20 project browser is a fun little thing.
+7:23 Okay, so I'm just going to put it full
+7:24 screen so you can see people can see a
+7:26 little better. Yeah, I think the zoom.
+7:30 Is it working okay for you? Yeah. Yeah,
+7:33 this is doing all right. Um, I think one
+7:35 of the most challenging things about
+7:37 understanding this is that not not so
+7:40 much that, you know, we have a project
+7:42 browser window that we had before and it
+7:44 and it uh has some new capabilities,
+7:47 but that we're missing things in the
+7:50 file menu that would leave people very
+7:52 confused and yeah, you know, and so we
+7:55 have we don't have a new plan anymore.
+7:57 Well, let me let me start out by asking,
+8:00 are you guys have you guys upgraded to
+8:02 X17?
+8:04 Um, you know, yes or no. It'd be kind of
+8:06 good to know if you're doing it. Um, and
+8:08 the other thing about Project Browser
+8:11 that's so much different than the way
+8:12 we're used to running Chief Architect
+8:15 for all the years we've been running it
+8:17 is that all of your Chief Architect
+8:19 files are now stored in Chief's
+8:21 database, not in separate folders on
+8:24 your computer. So the only way you
+8:27 access those files is in Chief
+8:29 Architect. You can export them and send
+8:32 them to people and do all sorts of
+8:34 things with them, but um if you're going
+8:37 to look for them on your computer, they
+8:38 won't be there because they'll be in one
+8:40 data file in Chief Architect. So I'll
+8:42 start with that and then why don't you
+8:44 take I mean we can even start back
+8:46 further. Why why did we implement this
+8:50 change? You know, and I've seen that
+8:52 asked a lot. Who asked for this? And
+8:55 it's not that people asked for it
+8:56 specifically, it's that it was one of
+8:59 the top support calls Chief was
+9:00 receiving and they're built on, you
+9:02 know, their software support. So that's
+9:04 a big part calls meaning that people
+9:06 were complaining like their files were
+9:08 lost and everything. Yeah. They're
+9:09 missing their files or missing assets.
+9:12 You know, they go to go share a plan
+9:14 file with a colleague and all of a
+9:16 sudden they get all these missing
+9:17 texture files or they're missing the PDF
+9:19 that was supposed to be in their layout
+9:21 and it's not there. Yeah. So, you know,
+9:24 they're trying to understand what's
+9:25 going on with that is one thing. Um, and
+9:28 then on the PC side, people are getting
+9:30 corrupted data files and that's that is
+9:34 also about, you know, things just
+9:36 inherently living on a cloud-based
+9:39 machine and Chief has no control over
+9:41 that and then it would cause confliction
+9:44 in the in the core data files of Chief.
+9:46 So, yeah, these two big prevalent
+9:48 problems that they were getting all
+9:49 their support calls on. Okay, that makes
+9:52 sense. Project management says, "Hey,
+9:55 you guys don't know how to manage your
+9:56 files. Clearly, we'll do it for you."
+10:00 Well, that's how I look at it. And and I
+10:02 think once you get used to it, it's
+10:04 going to be really a nice benefit, a
+10:06 nice bonus. Yeah, they've been working
+10:08 on this for years. I mean, a long long
+10:11 time. Yeah.
+10:14 As far as I know, it's been four years
+10:17 that they've been working on this. Yeah,
+10:18 they've been talking about it a long
+10:20 time. Um, and when you start digging
+10:22 into what it can do and how you how it
+10:24 manages things, it's pretty amazing. So,
+10:26 you could tell there's been a ton of ton
+10:28 of effort put into this. By the way, hi
+10:30 Kevin. How you doing? Nice to see you.
+10:34 So, um, the the solution that's been
+10:37 brought forward, like Dan said, is that
+10:39 we're taking all your files and we're
+10:41 and we're basically they're doing like a
+10:44 a container file or an encryption.
+10:46 They're they're scrambling it. So you
+10:48 don't even know what to look for to find
+10:49 your data files anymore. Yeah. And
+10:52 that's that's you have to have Chief
+10:54 Architect open to access these things.
+10:56 That's the only way you're going to be
+10:58 able to do anything with them. That's
+10:59 mean. Do you want to pop into
+11:00 preferences for a second and tell show
+11:02 tell people how to turn it on and off?
+11:04 Uh yeah. So if we're in preferences and
+11:07 you know you're on a Mac, you're going
+11:08 to click on the chief architect um text
+11:11 menu. Uh otherwise we're going to be in
+11:14 the edit menu for preferences. And then
+11:17 um we have a a little side panel here.
+11:20 Project management. Use chief architect
+11:22 project management. So So if you turn it
+11:25 off, it'll be the way you've always used
+11:27 Chief Architect on folders and
+11:30 everything like that. So when you first
+11:32 install this, many of us on the show are
+11:35 going to be migrating, right? We've got
+11:36 some previous version that we're coming
+11:38 from. We're not necessarily starting
+11:39 here. So, um, when we're migrating, when
+11:43 you turn this on, Chief is copying a lot
+11:47 of your data to a to its managed area,
+11:52 um, of of where it's keeping it on your
+11:54 machine. So, um, when you turn this back
+11:57 off, we're reverting back to the data
+11:59 that we kind of copied from in some
+12:02 aspects. Some things are just, you know,
+12:05 going pointing back to what was there
+12:06 before. So, um, it's kind of a process
+12:10 clicking back and forth and back and
+12:11 forth and there's not a whole lot of
+12:13 reason to do that. Um, I would say, hey,
+12:16 give project management the old college
+12:18 try. Really, really try to fight to
+12:21 learn to love it because there's a lot
+12:22 of things to love about it. And then
+12:24 there's a few things going to get
+12:25 better. Yeah, it um, we already know
+12:28 there's going to be improvements coming
+12:30 in the um, in the full release of X17.
+12:33 And um and according to you know some
+12:37 people at chief they're saying that's
+12:39 going to be at the end of the month. So
+12:41 Oh wow. Okay. I'm looking forward to
+12:43 seeing what new things come through in
+12:46 terms of project management and
+12:48 eventually it'll be in the cloud. So
+12:50 we've been told so that all Robin had a
+12:53 comment about you know she likes to save
+12:55 her files in Dropbox or Google Drive.
+12:58 Um, I still, so what I've done is I've
+13:02 set my data file, the backup file that
+13:04 Chief creates for all my projects,
+13:06 that's in the cloud. That's in my
+13:08 Dropbox. So, talk talk about that next
+13:10 panel, Renee, right here. This section,
+13:14 you mean? Yeah. Yep. Um, backup manage
+13:17 resources. This sets a backup and and
+13:20 this is um I've seen complaints about
+13:23 this already because they're like, okay,
+13:25 this takes way too long. Why? you know,
+13:27 the software is too slow. This is
+13:30 backing up all of your projects, all of
+13:32 your assets, your user library. I mean,
+13:36 we're talking about preferences, your
+13:38 default settings and stuff. Well, not
+13:40 default settings, but preferences and
+13:42 your templates, everything. So, it's
+13:44 saving everything, which that's a lot of
+13:46 data. Yeah. And and so that's why it
+13:49 takes a while. Mine actually has a
+13:51 glitch that I have never wanted to
+13:53 repair, which is that it does not save
+13:54 my user library, and I prefer it that
+13:56 way because it doesn't take me as long,
+13:59 but this is the way it's working right
+14:02 now. It's going to back up the entire
+14:04 system. And it makes a backup that is
+14:07 just an archive. So, you can open it up
+14:09 if you wanted to and just extract
+14:11 contents from it. It's basically just a
+14:13 big zip archive. Yeah. What is the
+14:16 retention? What's the retention? keep 14
+14:19 for 14 days or 14 14 sets of backups. 14
+14:23 times. Okay. 14 backups. Yeah. Or, you
+14:26 know, it kicks it and then it's kind of
+14:28 like it is now the archive files. Once
+14:31 you get past 14 and kicks in a message
+14:34 that says you want to delete some of
+14:35 those old ones. Yep. Yep. So, I mean,
+14:39 this is one way that that Chief is
+14:41 backing up our projects that we know we
+14:43 could count on. And then we still do
+14:47 have our um our autosave and
+14:51 autoarchchive files.
+14:53 So where are those where are those
+14:55 archive files going to? Because I was
+14:57 messing with that earlier today and I
+14:59 didn't have anything in my archive
+15:01 folder. Uh you should if you go to
+15:03 folders and show all program paths then
+15:06 visible user settings would be you could
+15:09 show and finder, show and explorer um
+15:11 which is that little button right there.
+15:14 And then this will show me
+15:18 here's my core data file and archives
+15:21 the archive files in from project data
+15:25 was not showing any files even though I
+15:27 set up the archive it every time I save
+15:29 it. So, you're on a Mac. The Mac has
+15:32 This was on a PC. PC should be in your
+15:36 documents folder that where it keeps all
+15:38 its data anyway. All its stuff.
+15:42 Um, you know, your Chief Premier X17
+15:44 data file.
+15:46 Yeah, mine's working fine. Okay. Yeah,
+15:49 mine's working all right. And I mean,
+15:50 great great reason to call them up. I'm
+15:52 sure they're getting all kinds of phone
+15:54 calls right now. Yeah, they'll be glad
+15:57 to hear your voice, John. That's right.
+16:00 Um and and so backing up, these are two
+16:05 places that that we have kind of an
+16:06 automatic function. And then on top of
+16:09 that, once we finally get into like
+16:11 starting to create a new project, and I
+16:14 mean if let's just start from the
+16:16 basics, when we just try to go open a
+16:18 plan file,
+16:20 there's all kinds of new, you know,
+16:22 menus popping up that we've never seen
+16:24 before. These are all new, right? Right.
+16:26 So these are projects that I have in
+16:28 existence in um in X17. But if I wanted
+16:32 to go open up some old file, I have to
+16:34 hit browse down here, go find
+16:37 go find my projects, go find some
+16:39 previous file that I want to work on.
+16:45 Now, at this point, you can open it and
+16:47 make it a project that's part of Chief's
+16:50 project browser, or you can leave it
+16:51 alone where it's not part of the
+16:53 project. So, it's going to prompt me
+16:54 right off the bat. Do I want to import
+16:56 this to a new project or an existing
+16:59 project? Now, existing project has some
+17:03 function that might be really really
+17:05 nice, which is that let's say I have a
+17:07 template and that template already has
+17:09 views present to layout. Well, this is
+17:14 an opportunity to send it to an existing
+17:16 project that already has that layout,
+17:19 link it up, and then extract it. But now
+17:21 we're getting into complicated stuff.
+17:23 So, Right. Right. I understand why we're
+17:25 getting so many, you know, confused
+17:27 ideas about what we're even doing here.
+17:29 Exactly. Go back to your list of
+17:32 projects you have open in in X16 and
+17:34 take or X17 and your projects and talk
+17:38 to us about how to pair it down so you
+17:39 don't have so many projects open. Okay.
+17:43 Well, so there's there's two ways. Out
+17:44 of the box in preferences, you're going
+17:48 to get in the project browser panel
+17:50 here, you're going to have this
+17:52 unchecked. Use the advanced tags is
+17:54 going to be unchecked. And you're also
+17:57 probably going to have show default
+17:58 documents checked. And so what this does
+18:00 is it shows us our plan and layout
+18:03 templates, which I don't use those
+18:06 because I have my own template that I'm
+18:08 just copy pasting every time. That's a
+18:10 new process for me. And then we have
+18:12 common documents. And these are things
+18:14 that you can always link to um on the
+18:17 fly. This is, you know, your opportunity
+18:20 to put something like a PDF that you're
+18:22 always going to have in, you know, every
+18:24 walk out basement project you're you're
+18:26 doing. Is this a mu edit or is that part
+18:28 of the project browser? That's part of
+18:30 it. That's part of project browser.
+18:31 Yeah. And you might just have that
+18:33 turned off. Um and we've got a couple
+18:37 options here, which is we might show
+18:40 default documents. So that icon might be
+18:42 turned off. which that's going to, you
+18:44 know, hide plan and layout templates and
+18:46 common documents.
+18:48 So, how do you get how are you how are
+18:50 you managing you don't want to have 10
+18:52 10 projects open at one time. How are
+18:54 you getting rid of five of those? So,
+18:56 and this is going to be a little bit
+18:57 confusing as well, but we can rightclick
+19:00 on any project here. And there's this
+19:04 cute little heading right here, new
+19:06 folder. And then there's another little
+19:08 folder. And then there's another new
+19:10 folder. and you're going to be like,
+19:12 "Which one do I click for a new folder?"
+19:14 And that's going to feel really funny.
+19:16 Um, and we've already beat this
+19:20 to death, by the way. And I know that
+19:22 Chief's going to change the name of this
+19:24 so that that's not so confusing. But
+19:27 when you click on new folder, what
+19:28 you're doing is um, we're kind of
+19:30 calling it in the interim, you're
+19:33 creating a new folder tag.
+19:36 The best way I can relate this to people
+19:39 is if they have used Gmail before, this
+19:42 would be similar to a label um or some
+19:46 kind of a container if you will. A tag
+19:48 can be applied to any number of projects
+19:50 you want. You can apply multiple tags to
+19:53 projects. So, I'm going to create a new
+19:56 folder as just a test
+19:59 test projects.
+20:01 Oops, we're off the screen.
+20:04 And this folder is still being kept in
+20:06 your chief data folder, right?
+20:11 Project browser. Project browser. This
+20:13 is in our project browser. Yes. And and
+20:15 once we create this, it's now, you know,
+20:18 it lives inside of Chief. That's the
+20:20 only way you're going to access it. Um,
+20:23 so if I click new folder, it's just
+20:25 producing what are called basically
+20:28 tags. And so I can say, hey, test
+20:31 project here for a tag. And then I can
+20:34 even rightclick and say add another new
+20:37 folder to this which again confusing
+20:39 name. So this is a subfolder level. And
+20:42 so you can organize things if you want
+20:44 to based on type of project it is what
+20:47 the client is maybe is a way you would
+20:50 organize it. Um if you got a repeat you
+20:52 know client if you're working for
+20:53 contractors or something like that.
+20:56 Maybe you want to organize it by year
+20:58 because you think you're going to store
+20:59 all that data in chief. um number of
+21:02 different ways that you can set this up.
+21:04 And so this works very similarly to the
+21:08 way our library browser works currently,
+21:10 which is um this creates a filter. And
+21:13 so we have to hover over this filter and
+21:15 click it off to see our files again,
+21:18 right? If if nothing is within that
+21:20 filter. So let's say instead that I'm
+21:22 going to apply to this project I have
+21:24 here. I'm going to get into those
+21:26 folders and I'm going to find that that
+21:28 new test project. In fact, I'll even put
+21:30 it in the subfolder and click apply. I
+21:33 know this is real small on the screen.
+21:36 So now when I go and click on that test
+21:39 project, it will show me just this
+21:42 project filtered down. So this makes it,
+21:46 you know, um easy to kind of filter to
+21:49 certain things. Now, if you don't like
+21:52 this typical tree structure, you could
+21:55 get into edit preferences and you could
+21:57 get into that project browser panel and
+22:00 choose use advanced tags. And now this
+22:03 is truly exactly like the library
+22:05 browsers tags. And so it's it's similar,
+22:08 but there you go. There's my test
+22:10 project. So it still has, you know,
+22:13 here's here's the subfolder tag. It's
+22:15 just that you can stack these tags up if
+22:17 you want. use multiple at once in a in a
+22:19 way that doesn't look like a tree.
+22:25 And then we get into, okay, how do I
+22:28 back up a project or share a project?
+22:30 And that's the big question. And then
+22:34 we'll touch on one last thing before my
+22:36 head's going to explode, which is that
+22:39 uh there's no save as. And that's really
+22:41 confusing to a lot of people and not
+22:44 just you all out there. It's confusing
+22:46 to us as well. Yeah, that's what we're
+22:48 But at the same time, I I like the way
+22:51 they changed it. Yeah. And and I there's
+22:56 there's a conversation about it being,
+22:59 you know, if we called something save
+23:01 as, it's not a true save as. So, I get
+23:04 the argument there. But something about
+23:06 it, my brain just I'm like, I don't care
+23:08 that it's not a perfect save as. I just
+23:11 want it to be there. It's also not a
+23:13 perfect folder and it's not a perfect a
+23:15 lot of other things too and you were
+23:16 okay. So why not? Yeah, we name those
+23:19 things. Let's let's save as. Yeah. So
+23:22 it's a little it's different from a save
+23:24 as. The process is different and and I
+23:26 arguably it's better, but it's just
+23:28 still very confusing.
+23:30 So what did they do instead? Let's talk
+23:32 about that for a minute. What they do?
+23:33 So I'll give an example. I've got the
+23:36 template that I everybody knows I sell
+23:38 these templates. Um, my template comes
+23:40 with a bunch of folders, subfolders,
+23:42 etc., and then a couple plan files here.
+23:45 Now, if I want to go draw, and I'm going
+23:48 to make a copy of this entire project.
+23:51 So, and mind you, I also have it pinned.
+23:56 Right now, it's set to unpin if I if I
+23:58 want to, but I have it pinned so that
+24:00 it's at the top of my project browser.
+24:02 And this is what I'm going to work from.
+24:05 I'm not going to work from a template
+24:07 file, per se. I'm going to work from a
+24:09 project that I created. The pinning
+24:11 thing is kind of nice because that's
+24:12 where you could keep all your current
+24:13 projects you're working on. Just pin
+24:15 them to the top while you're so they're
+24:16 always there on the top. That's kind of
+24:20 I'm going to make a copy of this
+24:21 template and this will now be my my new
+24:24 project I'm working on. So whatever and
+24:26 test. So Rene, it's conceptually you
+24:29 you've created a template project as
+24:32 opposed to template layout template
+24:34 plan. Yeah, but it is just a project
+24:36 that I've pinned. But yes, I would call
+24:38 it my template project. And then I'm
+24:41 going to open up my plan file and start
+24:43 drawing. Now,
+24:47 here's where the save as is very
+24:49 confusing, but I do think it's much
+24:51 improved, which is let's say that this
+24:53 is now my as belt, but I drew it in my
+24:56 new plan file. I did that for a reason
+25:00 because as I'm drawing I don't need to
+25:02 hit save as right now which is what we
+25:04 would have done you know if I wanted to
+25:06 make a copy at this point right instead
+25:09 because I already have another plan here
+25:12 and you could put any plan here I can
+25:15 just do this replace with and the really
+25:18 nice thing about this and the reason
+25:20 that this is not a save as is because um
+25:25 this retains its links when you do a
+25:27 save as what happens is all those assets
+25:30 break their links to what they're they
+25:32 were linked to before. You know,
+25:34 traditionally that's what a save as
+25:35 would do.
+25:37 Is it still doing that same thing when
+25:39 you do make a copy now? Is it breaking
+25:41 all the links or I assume it is, right?
+25:43 It won't if you do this. And and the
+25:46 other thing about a save as is if we did
+25:47 a save as, our active project we're
+25:50 looking at on the screen is now what we
+25:52 saved it as. Right? So, that's how this
+25:55 differs from save as is I get to say
+25:58 replace with. And then I'm gonna lose my
+26:01 mouse cursor every time I zoom.
+26:04 Um, it's going to prompt me to tell me,
+26:07 hey, this this thing you're trying to
+26:08 replace has already sent to layout in in
+26:11 this case for me. I'm still going to say
+26:14 replace. And it gives me either common
+26:16 documents or anything that's in the
+26:18 project that I have open. And that's
+26:21 important to note. That's why I said
+26:22 earlier when you're importing a project,
+26:24 it might be beneficial to import it into
+26:26 something existing. So, here I go. I get
+26:29 to choose my my plan that I have open
+26:32 currently. I want you to notice that
+26:35 this did not change. That's why it's not
+26:37 a save as. We didn't, you know, we
+26:39 didn't change what file I'm working in
+26:42 now. So that if I come in here and start
+26:44 drawing my addition like I planned to do
+26:48 when I go open up my layout file,
+26:52 you're going to see that there's my
+26:54 asbelt.
+26:56 Next page, there's my new. So this ends
+27:00 up working really efficiently and
+27:02 quickly, but it takes a while kind of
+27:04 wrap your head around that process
+27:06 because it's it's totally foreign. So
+27:08 that um Renee, talk a little bit about
+27:11 how that option is available via the the
+27:14 uh project browser, but if you go into
+27:16 the file menu, that's not available.
+27:19 Yeah, I I would you know what I do? Um
+27:22 Kevin,
+27:23 delete the file menu. Yeah,
+27:27 you don't need it. You know, you really
+27:29 don't need it. It's it's a funny funny
+27:31 thing cuz I'm with you. As soon as I
+27:34 open this up, this is just foreign. it
+27:37 just seems so foreign. Yeah, there's all
+27:40 these new things in here that, you know,
+27:42 aren't immediately intuitive to me. So,
+27:46 but yet, if you're working within the
+27:47 project browser, the idea of being able
+27:50 to replace something uh in the project
+27:53 and therefore in the the connection
+27:55 between layouts and plans makes great
+27:58 sense advantageously. So, just stay
+28:00 there. Yeah, totally true.
+28:04 Um, okay. So,
+28:08 I'm just gonna I'm just gonna say the
+28:10 this one last thing and then John hit me
+28:13 with some questions, but I want to back
+28:15 this up. I want us I want this on my
+28:17 machine. I don't like it just being
+28:19 here. I feel like I'm naked. I feel like
+28:22 everything's just going to fall apart if
+28:24 I don't save my stuff to a machine where
+28:26 I can see the actual file, right? Well,
+28:30 you can do that. You can export at the
+28:32 project level. And I will tell you that
+28:35 this is doing this is this was very
+28:38 clever of Chief. Before in X16, we would
+28:41 do a backup entire project. So file
+28:43 menu, backup entire project. Uh this
+28:46 creates a zip archive include all of our
+28:49 textures and PDFs and images. And that's
+28:51 how we would share it with another
+28:53 colleague.
+28:55 This is the exact same kind of thing is
+28:59 if we go to export
+29:02 this is going to one let us choose what
+29:06 files we want to include in this which
+29:08 is very nice in case you have some
+29:10 internal files that you do not want to
+29:12 share with the team member and then what
+29:16 this is doing is it's just creating an
+29:17 archive but it's an archive with the
+29:20 extension CA project and so what happens
+29:24 is when you have a colleague that's in
+29:26 unmanaged mode. When they open that up,
+29:29 it sees it as this full zip file that
+29:32 Chief is now going to handle that for
+29:34 you. And it's going to ask you, where do
+29:35 you want to store these texture files
+29:37 that are in here? Do you want them in
+29:38 your core data or do you want them under
+29:40 some kind of project subheading, which
+29:43 is super nice. And then if you're in
+29:46 managed mode, this just populates and it
+29:48 brings all those texture files into
+29:50 what's called the asset manager, which
+29:53 is uh in our tools menu, asset manager.
+29:57 And so this is, you know, kind of the
+30:00 the little brainchild of of Chief where
+30:03 they're like, "All right, we're going to
+30:04 handle all your assets from now on." One
+30:06 is we're actually going to do um pixel
+30:09 peaking where we actually can tell
+30:11 whether or not you have duplicate
+30:12 texture files or not and we will
+30:14 consolidate them. And then two, this is
+30:17 this is where everybody's going to get
+30:19 access to these files so that no one's
+30:20 ever missing any files. So, not only are
+30:23 we seeing textures in here, but we're
+30:24 also seeing PDFs. And so this asset
+30:27 manager is this is all just an internal
+30:30 manager within Chief that helps you you
+30:33 know share files across other users. The
+30:37 main problem with this is we need an
+30:40 education on on this process and what
+30:43 it's doing because I exported this, my
+30:46 team member got it. They get to go work
+30:48 on it. They update it. They draw some
+30:51 new walls. Does that update my side?
+30:56 No, no, no, no, no. It doesn't. No. So,
+31:01 you have to figure out how you're going
+31:02 to manage that part. And Okay. So, so
+31:06 here's here's an idea. Take this for
+31:08 what it's worth. I've only tried it
+31:10 some. I haven't I'm not totally
+31:12 convinced it works yet, but like I don't
+31:15 remember if we were on the show last
+31:17 week or afterwards, Renee, you were
+31:18 talking about the delete for the project
+31:22 and how it gives you the opportunity to
+31:24 export and delete.
+31:27 So, what I've done is I've set my my
+31:30 archive up so that it archives
+31:33 when you save it. So the the flow is you
+31:37 save the project, you go to the project,
+31:40 you you click on it, you rightclick,
+31:42 delete, tell it to export and delete.
+31:45 Now it's off of your computer,
+31:48 right? And you're saving it to a cloud,
+31:52 Dropbox or whatever. Your your coworker
+31:56 picks it up, works on it, does the same
+31:58 process back. You open it from that that
+32:02 cloud file and get it into your
+32:05 into your project browser. Yes, exactly.
+32:09 So, just to go we'll just go over that
+32:11 again. I'm going to in this case and
+32:15 this and this is a sc delete is a scary
+32:17 word for someone that's worried about
+32:19 data. Before you do that, show us that
+32:21 the auto archive when you save it
+32:23 because I think for me that gives me a
+32:25 lot of comfort knowing that it's been
+32:26 archived when I saved it. So, edit
+32:29 preferences and this is in um file
+32:33 management. And there's a setting that
+32:36 you can autoarchive files at previous
+32:38 save.
+32:40 And so that's what I have mine set to as
+32:42 well. It's very easy for me to hit
+32:44 control S on my keyboard or command S.
+32:47 So, go to the file menu
+32:50 and go to manage autoarchive
+32:53 down there toward the bottom. That'll up
+32:56 up up up up up up up up up up up up up
+32:57 up up up up up up up up up up right
+32:58 there. That'll take you to that folder
+33:00 where the archives are being stored for
+33:02 this plan. So Chad, this this this
+33:06 answers your question here. Any chance
+33:07 of accidental delete if I'm saving it?
+33:11 You do have to hit a confirm when you
+33:13 delete. There's that part. And it's a
+33:17 it's a modal window. So So but if
+33:20 something goes wrong, I've archived it
+33:22 on my computer. So if something goes
+33:24 wrong, I still have it. I haven't lost
+33:25 it. Archive and backup. And backup.
+33:28 Yeah. Um, by the way, I know this is
+33:31 Lance. The backup tool does back up
+33:34 one's user library. Yes, it does. What I
+33:36 had me mentioned earlier was it doesn't
+33:37 back up mine.
+33:42 So, mine's glitched out for some reason.
+33:44 And uh, and I'm okay with it. I actually
+33:46 I prefer it, so I'm okay with it.
+33:49 They've got a special code in there just
+33:50 so don't back up Bernie's stuff. Yeah.
+33:53 Yeah. I'm always doing a couple little
+33:54 things. Uh the way I back up um is not
+33:57 something I'm going to share here
+34:02 because Chief will yell at me. Um but it
+34:05 works really well for me. So there. By
+34:06 the way, I just turned on a feature in
+34:08 our StreamYard that shows the last few
+34:10 comments that people made on the bottom
+34:12 right. Oh, that's what that's I saw that
+34:14 halo effect there. Yeah. So if you guys
+34:17 like it, I'll leave it for now, but if
+34:18 it's annoying, we'll turn it off. So
+34:20 it's a new feature. It's in beta, so I
+34:22 thought I'd just turn it on and see what
+34:23 see how it works. So, I think Streamyard
+34:25 heard that I was going to delete my
+34:26 account next year, and there have been
+34:28 adding features I might like.
+34:32 Anyway, back to sharing with our
+34:34 co-workers. All right, so we're going to
+34:37 export. We're going to Well, we're going
+34:38 to delete. So, we hit delete. Here's our
+34:41 options. This is your opportunity to
+34:43 really screw some stuff up, Chad, is
+34:45 hitting this, you know, and not this,
+34:48 right? So if it makes it feel better for
+34:50 you, just export it first until you get
+34:53 comfortable hitting this third button
+34:55 instead of the button. But that opens
+34:58 that just exporting it first opens you
+35:00 up to
+35:03 pro projects that aren't keeping up with
+35:05 each other.
+35:07 Uh say that again. Yeah. If you just
+35:10 export If you just export it now,
+35:12 somebody picks that up and works on it.
+35:14 If you don't if you have so many export
+35:16 files out there that
+35:19 that are on your computer, the plans are
+35:21 still on your the project's still on
+35:22 your computer, you have an opportunity
+35:25 to to mess things up. If you do if you
+35:28 come up with a workflow like I'm
+35:29 suggesting, it seems like you you
+35:32 minimize the opportunity for conflict
+35:35 conflicts because you Okay, I mean, this
+35:38 is I would point I would point people
+35:40 back if they're interested. um go by one
+35:43 month of my of my YouTube membership
+35:46 page and go watch the cloud series
+35:48 because I do go over, you know, a
+35:50 process for this and I go over it in
+35:52 detail. Um and so, you know, I have a
+35:56 system. It's very similar to Kevin's
+35:58 system. I think John, you have a similar
+36:00 system as well. Um Dan, he's he
+36:03 disappeared for two months into the
+36:05 hills of Chattanooga or something like
+36:07 that. We don't know what system he uses.
+36:10 Um, and but he came down off the
+36:13 mountain with a big stone tablet. Yeah,
+36:15 he did. Yeah. And a whole bunch of in
+36:18 the Pro Academy. So, there you go. There
+36:20 you go. Hallelujah, brother. So, my
+36:23 system is I'm
+36:27 I'm just doing stuff in file naming
+36:30 conventions and this is this causes a
+36:32 lot of file bloat, but I am never
+36:34 missing anything. I have every version
+36:37 of anything I've ever drawn. So it's I'm
+36:41 you know doesn't matter what the
+36:42 convention is. I would just make
+36:45 historical data up to your risk
+36:47 tolerance is is what it is. You just
+36:50 need a system where you can backtrack to
+36:53 a previous version. So you need a way of
+36:55 naming those versions. Right. So what I
+36:59 like I like how you start that with the
+37:00 date. That's that's I do a lot of that
+37:02 myself. I all my projects are by date
+37:05 first and then name. But I do think, you
+37:08 know, we each probably like our
+37:10 convention better than anybody else's,
+37:12 but uh that's the reason we picked it.
+37:14 But uh but I do think that, you know, it
+37:16 depends on how you go about doing
+37:18 things. I I start all mine with the
+37:19 client name, you know, and that seems to
+37:21 make more sense to me. But that's just a
+37:23 preference.
+37:25 Yeah. I mean, this to me is I I just
+37:29 know that this is truly a historical
+37:32 hierarchy because it's organized by date
+37:34 first. Yeah. Um, so how does somebody in
+37:37 your system, Renee, if you're working
+37:39 with somebody and you're giving a
+37:40 project back to them to work on, how do
+37:42 they know which one to
+37:45 how do they know that the last one you
+37:47 work on is actually there, that you've
+37:49 actually is there any way that you have
+37:52 to for your coworker to know that you've
+37:55 actually exported it, so that's the one
+37:57 to work on?
+37:59 Um, just by the date. Yeah. I mean, if
+38:02 they're going to go work in it and then
+38:04 they see that it's literally today's
+38:05 date, they should know that that's the
+38:08 one they're going to work on. They're
+38:09 going to know that. You know, I'm also
+38:10 going to message them and say, "Hey, I'm
+38:11 out of it. I'm exported. I'm finished
+38:13 with my work." There's always going to
+38:14 be that part of it. Yep. I don't think
+38:17 that's going away anytime soon. I mean,
+38:18 you can build some automation that says,
+38:20 "Hey, that file got updated." You know,
+38:23 you could do that with like a Zapier um
+38:26 integration or something, but to me,
+38:28 it's just phone call, text, email
+38:30 telling them, "Hey, I'm out of it. I've
+38:31 saved it. It should be there. And as
+38:33 long as the date is there and it shows
+38:35 up for them on their end, they know that
+38:37 they their process is they make a copy
+38:40 of this. And what do they do next? They
+38:42 put their initials on their copy. That's
+38:45 the R R is there. And so this person,
+38:48 you know, worked on this version and
+38:51 then I when they were done, I copied it
+38:53 and I made that next version. In in my
+38:56 work in my workflow, I would I would
+38:58 just open that last file, import that
+39:02 last folder. Yeah. And then when I
+39:05 export it, I would put my initials on
+39:07 it. Gotcha. Um, two two things to
+39:11 address, Renee, as you're as you're
+39:12 rolling on in this great explanation.
+39:15 One of them is multiple collabor
+39:17 collaborators before you get your
+39:19 project back into your control as
+39:20 opposed to onetoone. And the other one
+39:23 is how do you prevent ugly plan buildup?
+39:27 So, uh, you know, you start you start on
+39:30 a project and you start with one, but by
+39:32 the time you're done, you've got 23. Um,
+39:35 but you really only care about the last
+39:37 three or four. So, how do you how do you
+39:39 manage ugly plan buildup in your
+39:41 project?
+39:43 Um, inside of the project itself, yes,
+39:46 I'm going to export previous versions.
+39:48 Um, but other than that, I I would have
+39:51 the same folder structure. So, here we
+39:54 go. We're over here in test blah blah
+39:56 blah. And I'm going to I'm going to make
+39:59 a new folder. And this is going to be
+40:01 archives.
+40:03 Or this can be, you know, here's another
+40:06 way of doing this is add a new folder.
+40:08 And now this is going to be um whatever
+40:12 our date is today because I can't see
+40:14 the screen. 2562.
+40:16 And then this is design review A and
+40:19 it's version one of it and blah blah
+40:22 blah. So that's going to be, you know, a
+40:24 version of this. And then being able to
+40:27 kind of take all these, we get a drag
+40:30 and drop in X17's project browser. That
+40:32 part's really nice. So now I can just
+40:34 make a copy of this within here.
+40:40 And so there we go. Now I'm on design
+40:43 review B.
+40:45 And you can even take this a step
+40:48 further and start going, hey, let's add
+40:51 a new folder. This is design review A
+40:53 and B.
+40:56 And then throw these in there, you know,
+40:58 so we can we can keep it nice and
+41:00 cleaned up. So, while you're doing that,
+41:02 um, how deep of a hierarchy can you
+41:04 create within the project browser? Um,
+41:06 that sounds like something Kevin would
+41:08 spend all week trying to figure out.
+41:13 Well, yeah, but is there an answer? I
+41:15 don't know that answer. No. Okay.
+41:19 Okay. Deeper than you want to go. Deep
+41:21 enough. Yeah. Good. Okay. So, take it
+41:23 the other direction. You've addressed
+41:25 that one. The other question I had was
+41:27 uh let's see what what was it? Oh, so
+41:29 let's say you're working with multiple
+41:31 collaborators, not just onetoone. Now,
+41:33 what
+41:35 um it's still going to be the same
+41:37 process. You know, when I go and and
+41:39 look at this, and by the way, I did just
+41:41 export this test blah blah blah. Um, but
+41:44 let's just do it again since I have new
+41:46 folders here. And so here's one way of
+41:48 doing it. Instead of just hitting the
+41:50 delete, I can go in and hit export.
+41:53 I'm going to, in this case, overwrite my
+41:55 existing because I don't care about the
+41:57 existing. This is the one I wanted to
+41:59 keep.
+42:01 And this takes a second. And then we'll
+42:03 delete this.
+42:08 So, as we can see, there's going to be a
+42:10 lot of opportunity for learning, a lot
+42:12 of opportunity for flexibility.
+42:15 Uh, it's it's it's pretty cool. I mean,
+42:19 I like what they're doing because, you
+42:21 know, as we're creating our projects, we
+42:23 all know we were we got a lot of stuff
+42:25 going on. I mean, with linking and uh
+42:29 textures, PDFs, all that kind of stuff.
+42:31 So, this is kind of a great way to keep
+42:33 track of it. So I again I can only see
+42:35 it getting better and better. So the
+42:36 question I have right now is shall we
+42:38 continue on this path of talking about
+42:40 project
+42:42 topics to something else. So I'll just
+42:45 double click this to install it. This is
+42:47 the CA project file. I'm just going to
+42:50 do that to just show people that don't
+42:52 know, you know, this is what happens
+42:54 when we double click it. Is Chief's
+42:56 going to be thinking for a second. It's
+42:58 trying to load this up. It's also trying
+43:01 to take all the textures that came from
+43:02 this and check it against your existing
+43:04 textures to see if there's anything new.
+43:07 So, the perceived slowness that you
+43:10 might be experiencing is because Chief's
+43:12 doing a lot of work to make sure that
+43:13 you've got all your assets.
+43:17 Do you And there we go. this. And this
+43:21 prompts you to to let you know, hey, you
+43:23 could open something from this thing
+43:24 that you just imported, but you could
+43:26 just hit close. This dialogue box is
+43:29 another confusing one to me. Um, so you
+43:32 could just hit close. And there we go.
+43:34 We can see that this is a new copy. I I
+43:37 deleted the previous version. So this
+43:39 would be the experience for from the
+43:41 person that you were sharing with. But
+43:43 the name of it didn't change. The name
+43:46 of it didn't change. Yeah. because you
+43:47 just overwrip overwrote the other other
+43:49 one. And then just to show you this,
+43:51 even though this looks like Chief
+43:52 Architect icon, I'm not encouraging you
+43:55 to go break your system here, but you
+43:58 could if you showed file extensions, you
+44:00 could change the extension to zip and
+44:02 this would open in a zip file. Or you
+44:05 could just choose to open this in some
+44:06 kind of zip file. And that's what
+44:08 they're doing is it's creating their own
+44:10 they're creating a zip file and they
+44:12 just named it with their own extension.
+44:14 You know, it's all the same stuff in
+44:16 here. Okay, cool.
+44:20 So, Renee, how would I make some cool
+44:22 materials for my plan? Yay. All right.
+44:28 That's on our list of new features. That
+44:30 is a It looks like a pretty big ad that
+44:32 they put into the program here for
+44:34 creating. That's a huge ad. And I don't
+44:36 I don't even think people just know how
+44:38 big of an Mine's going to look very
+44:40 different from yours. I'll just tell you
+44:42 that right now. is Chief comes preloaded
+44:46 with Dustin Cruz's tile builder, what
+44:48 his um cloth or upholstery builder um
+44:52 and probably his uh floor material
+44:55 builder. I think it has all that stuff
+44:58 in it. And uh but the the the broader
+45:03 scope of this is that we're now allowed
+45:06 to open up what are called SPS SAR
+45:08 files. And this is substancebased files.
+45:11 And and so these are materials that you
+45:14 can get from anywhere on the internet
+45:15 that has them. Uh Gumroad um um you
+45:20 know, Substance themselves has a big
+45:23 user repository. Um
+45:26 I can't think of another couple ones.
+45:28 But why I'm saying that is I'm
+45:31 I've got a ton of these because I have
+45:33 the Substance Suite. So when you go to
+45:36 do select a builder, so let me uh back
+45:39 up a little bit here. 3D menu, material
+45:43 builder. And this is a modeless window,
+45:45 which means you could still work in
+45:47 chief and have this open on a second
+45:48 screen if you wanted to. So material
+45:51 builder brings up this. Let's just make
+45:54 a little smaller on the screen. And out
+45:58 of the box, you're going to have chief
+46:00 architects, tile builder, wood builder,
+46:03 etc. And this is a way that you can on
+46:05 the fly within our own, you know, native
+46:08 preview window set up parameters for you
+46:12 type of tile you want. Here's a 21 tile.
+46:14 We could show a chevron tile. And you
+46:16 can see here this is this is a nodebased
+46:19 tool, meaning that it's just plugging in
+46:21 parameters and it's adjusting on the fly
+46:23 as you go. So you just expand these
+46:26 sections here and as you do that, you
+46:28 get new parameters that you can possibly
+46:31 test with. So, tile layout, one color,
+46:33 two color, checker, twocolor, random,
+46:37 and then once you're done building what
+46:39 you want to build, you just get to add
+46:40 this material to the library and start
+46:42 using it. Um, which is really cool.
+46:45 Yeah. Then I went so fast people didn't,
+46:48 you know, get hung up on this, but these
+46:51 are all third-party
+46:54 files that are files. So, how long
+46:57 should it take an average person to be
+46:58 able to by average I mean not you um to
+47:02 make a material?
+47:07 Um you know it's I think it's pretty
+47:09 quick for those that are already
+47:10 familiar with Substance. It's it should
+47:12 be very quick um because this builder
+47:14 has been around a long time. It just was
+47:16 never integrated. But the tile builder,
+47:20 you know, you're just going to come
+47:21 through here and one by one kind of
+47:23 understand what we've got going on here.
+47:25 You very rarely are going to need more
+47:27 resolution than 1024 x 1024. So your
+47:30 list your list of the select builder is
+47:34 really long. Yeah. Why is yours so long?
+47:38 Th those are other builders that I've
+47:39 downloaded. Okay. And and Chief does
+47:42 have um a way that you can put those in
+47:44 a in a root directory. Can you can you
+47:46 hit your drop down there for a second?
+47:48 Yeah. To see what's on that list. So
+47:51 okay. So, these are all things that
+47:53 Chief has available. Uh, no, these are
+47:56 things that the broader substance
+47:58 community has available and I have a lot
+48:01 more of these as well. Um, so these are
+48:05 just ones that I were I was working on.
+48:07 I was looking for some mummy mummy
+48:08 bandages the other day. I'm glad you
+48:11 have those.
+48:14 Yeah, I have a um in my materials
+48:18 section here,
+48:20 I have a whole Oh, you know what it is?
+48:22 Let's see. Yeah, I have a whole um set
+48:25 of substance ones, but Okay, those are
+48:28 the old What's another word for
+48:30 substance?
+48:33 Is it just in pictures?
+48:36 It's Adobe Substance. Well, these are
+48:38 these are basically like miniature
+48:41 programs, if you will, that okay are
+48:44 dictating a a path where we've got a
+48:47 node that says, "Hey, we want something
+48:49 that's checker and we've got a node that
+48:51 says, "All right, we want two colors or
+48:53 one color." This just basically a
+48:56 package of parameters that you've set up
+48:58 and built into this particular file
+49:00 type. So, um, for the end user, this
+49:03 just makes it really easy to go, hey, I
+49:05 want to go into Dustin's
+49:07 um wood builder and build a wood floor.
+49:12 Unfortunate name that he called it wood
+49:13 builder. I think it should be called
+49:14 wood floor builder, but
+49:18 we'll talk to him. We'll talk to him in
+49:19 August. Here we go. Yeah. Um but yeah,
+49:22 this is a way that you know he's he's
+49:25 loaded in here preloaded in here things
+49:28 like hickory and then board color
+49:32 variation. And this is just going to
+49:34 increase the variation of the colors in
+49:37 these boards. So, you can really get to
+49:39 a lot of different flooring materials
+49:41 very, very quickly. I like how they
+49:43 allow you to Can you put that on a floor
+49:45 and rotate it, make it bigger and
+49:48 smaller? Uh, yeah, you can change the
+49:50 scale down here. Material scale. No,
+49:52 they were showing it on their videos
+49:54 that you can Oh, I know what you're
+49:56 talking about. Yes, I'll give you a
+49:58 perfect example of that. Yeah, which I
+50:00 thought was pretty cool.
+50:02 So, that's a different tool. That's
+50:04 that's pretty awesome. We also skipped
+50:06 one thing about those people not using
+50:08 project browser is they don't get the
+50:09 benefit of using the asset manager. And
+50:11 the asset manager is a really a cool
+50:13 tool. Um, so I have I had limited time
+50:18 to try to model this. So, I did already
+50:21 have a grided glass texture
+50:24 and you know it wasn't in alignment. So,
+50:27 previously we'd have to go in to the
+50:29 material editor and kind of figure out
+50:32 how we're going to do this horizontal
+50:34 vertical offset to get it to align.
+50:36 Right. Right. And so, instead, now we
+50:39 have this tool in the 3D menu, which is
+50:43 interactive material editor. Oh, wow.
+50:46 Haven't you seen that yet? So, the
+50:48 interactive material editor, and I have
+50:50 it on my deal here, is you're just going
+50:53 to click on a material just like you'd
+50:55 use the eyropper or something like that.
+50:57 And it still has, this is our edit
+50:59 toolbar. It still has component object
+51:03 modes. Okay, this is cool. So, if you
+51:07 needed to make a copy of a material
+51:09 because you don't want to edit all the
+51:10 materials like this, this their offsets,
+51:13 then you would, you know, switch to a
+51:16 component mode.
+51:18 Right. Okay. So, I get to click on this
+51:21 and then it brings up this little gizmo
+51:24 and dragging. You know, we all know
+51:27 these mouse cursor icons.
+51:30 Um, so this, you know, is telling us
+51:33 linearly we're going to be doing
+51:35 something in this direction. And this
+51:37 mouse cursor icon is a stretch. This is
+51:40 a stretch. Yeah, this is a stretch. So,
+51:42 we are rescaling with that mouse cursor
+51:45 icon. This is a move and then rotate. So
+51:49 move I just get to click and drag and
+51:52 line this up however I want to. And that
+51:55 parts what's really nice is we're just
+51:56 getting really back. Yeah. Versus scale.
+52:01 Now I'm, you know, I'm stretching this
+52:05 which actually for this atrium is
+52:06 probably more accurate.
+52:09 Probably just leave it like that. So
+52:11 yeah, that's a really cool one. This
+52:13 Yeah, this is amazing. That's really
+52:16 amazing. Yeah. Yeah. This is huge for
+52:19 the, you know, doing the showers. If you
+52:21 use the material painter now on those
+52:23 other three uh panes of glass on your
+52:26 skylight there, will it is it going to
+52:29 copy it? Paint it according to this or
+52:31 according to the original. Paint it
+52:33 according to this. So, you'll see if I
+52:36 if I paint this now, um because this is
+52:39 a a face, it's oriented incorrectly. So
+52:43 the horizontal offset and everything's
+52:45 offset's going to be off. Okay. Yeah. So
+52:47 then if I went back to that tool, I'd go
+52:50 into a component mode to make a copy of
+52:52 this so that I'm not affecting the one
+52:55 on the right. So is there a way to what
+52:58 I need to do? Is there easier way to
+53:00 reorient it on a face now rather than
+53:02 making a new material with going a
+53:03 different direction? No, you still need
+53:05 to make a new material. um that's just
+53:09 they don't have some way of saying hey
+53:11 we've got this main material and then
+53:13 we've got these subedits and I think
+53:15 maybe that'll come in future who knows
+53:19 let me let me have the screen for a
+53:20 second I'm going to show something here
+53:25 okay so I've got a plan so I go to my 3D
+53:28 and I go to the interactive
+53:31 um adjust material interactive material
+53:33 editor and I click on this room and
+53:36 first thing it pops up is oh well you
+53:38 you want to change all the material
+53:41 that's this wood floor in your plan or
+53:43 just this room um so I could make a copy
+53:46 of this and that would put it in my
+53:48 library then or I could just edit the
+53:50 actual material and then every room
+53:52 would change to whatever I'm changing it
+53:54 to. So let's just make a copy of this
+53:56 and it's going to be that. Okay. So now
+53:59 when I make see I'm only changing that
+54:02 room now which is pretty cool. So this
+54:05 is just a cheap wood floor that I
+54:06 grabbed out the library, you know,
+54:08 standard material. So this is awesome. I
+54:11 love this. It's always a pain, you know,
+54:14 to create those extra materials. So So
+54:18 is that doing it is that doing that on a
+54:19 face? Like if you had a 3D object, would
+54:22 would you be able to change that
+54:24 direction on each face or I would think.
+54:27 Yeah. No, it's going to be bad. Uh, no.
+54:30 That's you're still going to have to
+54:31 have the process of
+54:34 reuv mapping. So, if you have an object
+54:36 that has some core mapping to it, when
+54:38 you edit one face, it's going to edit
+54:40 all of them. It's just editing the
+54:42 material like we used to do in the
+54:44 dialogue box, it's just doing it as a
+54:46 live visual. See here? Here I said don't
+54:50 don't change the material. So now, yes,
+54:53 it's editing all sides of that box. So,
+54:56 if I were going to edit each side, I
+54:58 would have to make a copy of each side
+55:01 to edit just that component of that box.
+55:05 But you could you could instead of
+55:08 having to figure out what's the what
+55:10 what's the angle like if you're building
+55:12 a a beam out of a out of a solid, you
+55:15 could have a different material for each
+55:17 side, but you could go in here and
+55:19 adjust it with this tool rather than
+55:22 figuring out what angle it has to be.
+55:26 Uh yeah. Yeah. And you know the visual
+55:29 visual feedback on like trying to adjust
+55:33 the beam angle, right? I mean that
+55:36 part's real nice. Yeah. So here I made a
+55:38 copy. Oh, so I need this. I know. They I
+55:41 wish they had one more aspect to this
+55:42 tool, which would be the um um make
+55:47 parallel perpendicular would be an
+55:49 obvious ad for me. Oh, sure.
+55:54 Yeah. All right. Cool. I like it.
+55:58 We Man, we've got so much to go over and
+56:00 it's already it's already done. We
+56:02 didn't even touch any of the line items
+56:04 here. Let me show you. I'll show you one
+56:06 thing I really like. Okay. I don't think
+56:09 this was on the list. So, you go into a
+56:11 room, open the dialogue. I need to
+56:14 change the floor system to something
+56:16 else. I'm going to edit the structure
+56:18 for that room. I'm going to make it 9
+56:21 and a quarter two by, you know, 9 and a
+56:24 quarter um lumber.
+56:28 All right. So, I would always have to
+56:32 Where's my lumber? Um
+56:36 I got here construction.
+56:44 Oh.
+56:47 Oh, Joyce Lumber. Jeez, you changed that
+56:50 lifts quite a bit. Um, I would always
+56:52 have to set the width. Chief used to
+56:55 have just one width for all of your
+56:57 floor frame and now I can set the width
+57:01 just for that room now, which I could
+57:04 never do before. used to have to do if I
+57:07 had trusses and joists and eyeists and
+57:10 framing on different floor systems in my
+57:14 plan, it would build them all based on
+57:17 the default of uh the the one default we
+57:22 had for the entire plan under framing.
+57:25 So now we can do it per room. So that
+57:28 will you go to that framing members
+57:30 section there? This is to me this is one
+57:32 of the coolest things they've done. Um
+57:38 to this or Yeah. Go ahead and hit
+57:40 define. Yeah. Okay. So, in your template
+57:43 plan, if you're someone that's doing a
+57:45 lot of different construction
+57:47 configurations,
+57:48 this is your opportunity to put this in
+57:50 your template plan. You can make a copy
+57:52 of your joist lumber and say, "Okay, now
+57:55 this is, you know, spruce lumber, for
+57:58 instance, or I'm putting in webbing or
+58:01 or, you know, like a floor joist, but
+58:03 it's this, you know, specific setup or,
+58:06 you know, I'm doing all this information
+58:09 will translate to your material list,
+58:10 too." Yeah. Yeah. And so on the fly,
+58:14 it's really easy to go to your your
+58:16 other configurations for a different
+58:18 project type.
+58:20 Cool.
+58:22 I'll show you something that's, you
+58:23 know, my super geek level of messing
+58:26 around with this dialogue box that I've
+58:28 been working on. Let me see. Can I steal
+58:30 it from you? Yeah, go for it. Um, here
+58:33 you go. Um, so I I'll make a copy of my
+58:38 template again.
+58:41 That's blah blah blah blah blah blah.
+58:48 Just draw this out.
+58:51 Somebody's got some background talking
+58:53 going on. Was that Oh, I'm sorry. That's
+58:55 my daughter.
+58:59 So, I'm going to I'll do the same thing.
+59:03 I'll mess around with my structure real
+59:04 quick. Just say that this is
+59:07 um
+59:10 say this is a 2x12 instead.
+59:15 Now, if I build the framing for this
+59:17 room
+59:19 and
+59:21 I you guys know about my detail system,
+59:23 you know, I'm driving, you know, 75
+59:25 details from some central place where
+59:27 I'm setting things up here. Um, my floor
+59:31 framing members, I now have an option,
+59:35 for people that don't know this, this is
+59:36 a schedule that dictates all the
+59:38 annotations for all my details. So, I
+59:41 have this item now from model
+59:44 And when I do that and I go back and I
+59:48 built the floor framing for this, all I
+59:50 have to do is open this up and close it
+59:52 down. And then if I go and look at all
+59:55 my details, if they've been updated and
+59:58 we'll see see if I got this done on the
+1:00:01 fly or not. I'm embarrassing myself.
+1:00:05 Well, not yet.
+1:00:08 Oh, except for I realized that I have
+1:00:10 very few details for some reason that
+1:00:11 show floor framing. That's what's really
+1:00:13 dumb.
+1:00:16 Let me just get back here. Uh, dang it.
+1:00:19 It didn't update.
+1:00:24 Someday. Someday, Renee. Someday.
+1:00:26 Someday I'll be like doing pretty good.
+1:00:28 All right, let me do this one because I
+1:00:29 know this one works. So, I'll do wall
+1:00:31 framing from model. And because we have
+1:00:34 all those framing members, those framing
+1:00:36 members all have an object information
+1:00:38 panel. So that's our opportunity to
+1:00:42 um put in there some kind of information
+1:00:44 that we're we're driving from. Same as
+1:00:48 now in X17, we have an object
+1:00:49 information panel and roofs. So we can
+1:00:51 do some complex things with them now. Um
+1:00:54 so let me just turn on framing. Let's
+1:00:56 see if this one works. Yeah. So this
+1:00:59 isn't going to change the CAD in your
+1:01:02 detail. It's just going to change the
+1:01:03 label. Correct. It's just going to
+1:01:05 change the label. That's it. So it's
+1:01:06 just driving my annotations.
+1:01:09 So you know it'll drive this is what
+1:01:12 it's doing. Yeah. So I mean it's working
+1:01:15 towards finally being able to do
+1:01:18 automatic annotations based on your
+1:01:20 model. Yes. Which is just super exciting
+1:01:24 for me. Yeah. So can you answer Norman's
+1:01:27 question here about the blocking? Can
+1:01:29 blocking width be set as a preference or
+1:01:31 is it still set at inch and a half?
+1:01:34 Blocking width. Um, I don't know because
+1:01:36 I never do that kind of stuff, you know.
+1:01:38 I just handle that kind of stuff in a
+1:01:40 detail. One of these days we got to get
+1:01:42 Ethan in here because he's done such a
+1:01:45 deep dive on
+1:01:47 um on framing. So, let's see. We're
+1:01:51 going to frame this wall and then we
+1:01:53 want to look at the wall detail. Is that
+1:01:56 what we're looking at here? And then
+1:01:58 that be a be a wall or floor has
+1:02:01 blocking and then we're just doing
+1:02:03 blocking. Yeah. What's our
+1:02:07 framing members framing type? Automatic
+1:02:10 framing. Yeah, I don't see any word for
+1:02:12 it might be called bridging. Um blocking
+1:02:16 or bridging floors. Floors might have
+1:02:18 bridging.
+1:02:20 So this is use automatic wall bridging.
+1:02:26 So that would point me to
+1:02:29 oops framing framing framing
+1:02:32 framing types.
+1:02:34 No
+1:02:36 framing members. Manual framing.
+1:02:41 Yeah, I'm not seeing it. I see wall
+1:02:44 framing, but I don't see wall bridging
+1:02:46 as an option or blacking.
+1:02:51 Yep. Yeah. So, no, I don't I don't see
+1:02:54 that part.
+1:02:56 Although, manual framing I mean, what
+1:02:58 happens if you do that? I don't know.
+1:03:03 Does that put it in at three and a half?
+1:03:05 Don't know.
+1:03:07 Doesn't look like it. Well, you can open
+1:03:09 the dialogue and change it, but yeah,
+1:03:11 it's kind of defeating. Oh, well, yeah.
+1:03:14 No, I didn't do anything different.
+1:03:17 Was match step there? Yeah, I I mean, I
+1:03:19 don't get into this the manual blocking
+1:03:21 stuff. I'm always out of detail for
+1:03:23 this. I'm the wrong person. Um, one more
+1:03:25 question. Marne had a question about I
+1:03:28 think it was um was back here. Uh how do
+1:03:31 you update your chief architect? Uh
+1:03:35 so Rene, can you here I have it open
+1:03:37 here. Let me have the screen for a
+1:03:38 second. Martney, all you have to do is
+1:03:42 run go to your chief architect account,
+1:03:44 sign into your account, go to digital
+1:03:46 locker download product keys and license
+1:03:48 management and and have Huh?
+1:03:55 Say what? We're gonna have to delete
+1:03:57 this video. You just gave away your key.
+1:04:00 I did.
+1:04:01 No, look at that. Stupid ass computer.
+1:04:05 All right, we'll cut that out. Um, thank
+1:04:07 you. That's really weird, huh? Okay.
+1:04:11 Well, anyway, you go there. I took you
+1:04:13 off the screen. You want me to bring you
+1:04:14 back? I see that. I didn't even realize
+1:04:16 it was there. Oh, shoot. There it is
+1:04:18 again. Oh, yeah. I see. I haven't done
+1:04:20 anything yet. So, anyway, it'll be there
+1:04:23 in your account, Marne, where you can
+1:04:25 hit the upgrade uh the next version and
+1:04:28 then you can do that. So
+1:04:31 anyway, nobody's going to be able to do
+1:04:32 anything with that anyway because they
+1:04:34 got to make it available first and they
+1:04:36 don't have his other credentials to get
+1:04:37 make available. Exactly. So, so there
+1:04:44 got to be careful. I know a guy. I know
+1:04:45 a guy. Yeah, I bet you do.
+1:04:50 All right, you guys. Hey, uh, good show
+1:04:52 today. So, thanks for all your input on
+1:04:54 the project browser. It is truly um
+1:04:59 a it's truly a great tool and chief, but
+1:05:02 it is going to be confusing for for a
+1:05:04 while until you get used to it. So, but
+1:05:06 I think once you're used to it, it's
+1:05:07 just like you won't want to go back.
+1:05:09 Kind of like electric windows in your
+1:05:10 car. Once you have them, you'll got to
+1:05:12 have them every time. Um that's coming
+1:05:14 from a guy that used to have cars that
+1:05:16 had manual crank windows. I don't think
+1:05:17 they make those anymore. Manual.
+1:05:21 So you guys uh have a wonderful uh rest
+1:05:25 of the day and weekend and we'll see you
+1:05:27 in a couple weeks and we'll probably
+1:05:29 just keep going on with some more X17
+1:05:32 new features. So yeah, next time we got
+1:05:35 a bunch left on our list. We'll try to
+1:05:36 hit in some of those and cover a lot
+1:05:38 more of the details. In the meantime, go
+1:05:40 to Chief Architect's website and go to
+1:05:42 their training videos because they've
+1:05:43 got some good videos on some of the new
+1:05:45 features they've added to. So they've
+1:05:46 been doing a really nice job with their
+1:05:48 training videos. So anyway, see you
+1:05:51 everybody. See you next time. Thanks
+1:05:53 again. Bye.

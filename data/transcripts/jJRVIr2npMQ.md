@@ -1,0 +1,1554 @@
+---
+videoId: jJRVIr2npMQ
+title: Getting Started with Floor Plan - Designers Show #149
+url: "https://www.youtube.com/watch?v=jJRVIr2npMQ"
+status: imported
+---
+
+# Transcript
+
+0:00 Three, two, one. Okay, I think we're
+0:02 live. Hey everyone, welcome to the
+0:03 designer show today. Uh, we are on a
+0:06 call here with John and Robin. How you
+0:08 do? How you guys doing? Doing great. How
+0:11 are you guys doing? Good. Another kind
+0:15 of a blustery day here in Minnesota, but
+0:18 we'll survive. Oh, it's really lovely
+0:21 here in Portland. It's so pretty today.
+0:23 You're having a You're having good
+0:24 weather? Yeah, for a few more days, then
+0:27 it'll start raining again. You know,
+0:28 it's kind of our normal mo, right? Yeah.
+0:31 And Kevin is in Mayorca is on Mayorca,
+0:35 which Oh my gosh, I
+0:38 just It would be It's beautiful there.
+0:40 If you ever get the chance to go to
+0:41 Mayorca, it's I highly recommend it.
+0:44 It's so beautiful. That's nice. Yeah.
+0:46 Sent some texts yesterday of the Easter
+0:49 parade that they're having there. I saw
+0:52 if it's a parade or what it was called,
+0:54 but um celebration. That was pretty
+0:56 interesting. So
+0:59 yeah, it's really beautiful. Look pretty
+1:01 cool. Anywh who, uh we're gonna jump
+1:04 into here some we're gonna talk about
+1:08 getting started with Chief
+1:10 Architect. But we're going to go all the
+1:12 way back to the beginning
+1:14 of you're just brand spanking new. But
+1:17 you guys that have been using a while,
+1:18 hang on because maybe you'll learn
+1:20 something that we'll cover or be
+1:22 reminded of something. Or be reminded.
+1:24 Exactly. Exactly. Good point. So, hi
+1:27 Kenny. Hi Doug. Hi Larry. And hey guys.
+1:31 Welcome Everett. He's new. Everett
+1:34 Elkins. He is not new. He's been client
+1:37 of mine for a long, long time. Hi
+1:38 Everett. How are you? But he's probably
+1:41 new here today. He joined Rene's. He
+1:44 joined Rene's YouTube channel. That's
+1:46 why it says he's a new member. Got it.
+1:48 Cool. Oh, hey Rene. Hi. Hi, new member.
+1:52 Everett. No, Everett.
+1:56 Nice haircut, Renee.
+1:58 There's Gina just cut straight across.
+2:01 Yep.
+2:03 Don't use balls anymore. They just use
+2:05 plates. So,
+2:09 sorry. I couldn't help myself. I'm
+2:11 sorry. It looks good though. You You Oh,
+2:14 it never looks good once it done. It
+2:17 needs a couple days.
+2:21 Anyway, welcome. So, uh, welcome
+2:24 everyone. A couple of housekeeping
+2:26 things. Uh, we get people logging in
+2:29 yet. So, hey Cassidy.
+2:32 We're gonna just do a quick intro uh
+2:37 for the uh next event we have coming up,
+2:40 which is the Chief Architect Training in
+2:43 Rockville, Maryland. And it's uh coming
+2:47 up pretty quick. Gosh, let's see.
+2:50 Where's my screen? three weeks, I think,
+2:52 isn't it? Uh, well, here I can tell you
+2:55 just a second. Um,
+2:59 oh, there's that. I had my screen
+3:01 sharing going. I see Kenyon here. John,
+3:04 did he have fun seeing behind the scenes
+3:06 for the show? Oh, yeah. Yeah, I thought
+3:08 it was pretty cool.
+3:12 So, the uh am I showing the right screen
+3:14 here? Yes, you are. All right, cool. So,
+3:17 here's our class. in if we go to
+3:21 chiefexperts.com and it's right there at
+3:23 the top of the homepage. It is going to
+3:25 be starting in Hey, one more where a
+3:28 countdown thing go. Couple of higher.
+3:31 You just missed it. Did I miss it? Yeah,
+3:33 right there. Stop. Stop. Stop. Back
+3:35 down. Right there. Stop. One more time.
+3:37 Down there. Down. Down there. May 13th,
+3:39 14th, 15, 16th. No, there's a countdown
+3:42 clock on here that Oh, there it is. You
+3:45 missed it. 24 days, 19 hours, 35 55
+3:47 minutes.
+3:49 Okay, we'll be in Rockville, Maryland.
+3:51 Um, doing a class. We did that here last
+3:54 year. John and I will be doing
+3:55 a live class. It be Let me just make you
+3:59 dizzy here for a second. It will be two
+4:02 days of
+4:05 uh beginner and intermediate courses and
+4:08 two days of intermediate advanced. So,
+4:10 we kind of just in those four days we
+4:12 kind of to go through a whole process.
+4:14 The first two days we go through a
+4:16 abbreviated fast process of how to
+4:18 create a set of plans and chief and then
+4:20 the next two days we kind of pick up on
+4:22 that again but we go deeper and deeper
+4:24 into different parts of the program. So
+4:26 check it out. Uh we'd love to have you
+4:28 there. We've got room yet. So it uh it
+4:30 should be a fun time. It's going to be
+4:32 held at the Ferguson
+4:34 uh uh b Ferguson in Rockville, Maryland.
+4:38 And they have a nice training room that
+4:41 we can use. So, worked out really well
+4:42 last year when we went there. Uh,
+4:44 they'll have uh snacks and everything
+4:46 and dinner, lunch for everybody. Uh,
+4:49 that'll be supplied by some sponsors and
+4:52 then the sponsors will come in and do a
+4:54 little presentation about their
+4:55 products, which was really fun. It was
+4:57 really cool to have something a little
+4:59 bit different than what we normally do.
+5:01 So, we'll be covering a lot of lot of
+5:03 information,
+5:05 some of what we're going to touch on
+5:06 today actually. So check it out,
+5:10 chiefexperts.com and you can
+5:12 uh hopefully join us. That would be
+5:18 cool. All right. What's new with you
+5:21 guys?
+5:23 Robin, you're going to be updating NKBA
+5:27 guidelines again. Yes. Well, we created
+5:30 the new guidelines and now we're going
+5:31 to be updating them. So that's going to
+5:33 be fun. I'm excited about to get to do
+5:36 that again. Nice. Yeah. And and Renee,
+5:40 what's going on in your world?
+5:42 Uh, just working on all my my product
+5:46 stuff for X17.
+5:49 X17.
+5:51 Have you heard anything about when X17
+5:53 might be around?
+5:55 Uh, not that I could say. Okay,
+5:59 I get it. Hey, I do want to let you know
+6:01 that I've been using your shower. Renee
+6:03 has a new shower system thing. Amazing.
+6:06 I have been using it and I really like
+6:08 it. So, thank you. It's really cool.
+6:10 Yeah. Nice. Yeah. I'm doing two bathroom
+6:13 renovations right now and I started
+6:15 using it. It's like, yeah, that's really
+6:17 nice. It's really nice. I think I have
+6:18 to raise my rates again, you guys. I
+6:20 think it's making it too fast. So, now I
+6:22 have to raise my rates again. There you
+6:23 go. Yeah. We'll see when someone starts
+6:27 getting into something a little more
+6:28 custom than the out of the box ones. But
+6:30 I mean, out of the box, you can get them
+6:32 pretty custom. So, Cassie has I wonder
+6:35 she's um played around.
+6:38 Who who has Kathy in the comments? Um
+6:41 Oh, yeah. She got them, too. So,
+6:44 give it a couple weeks, see if people
+6:46 start using it. Um that's one of those
+6:48 ones where I used it. I'm like, it can't
+6:51 be this this easy. Right. Right.
+6:55 Nice. Yeah, nicely done. Yeah, it's a
+6:59 really cool um It was It's very nice. I
+7:02 really like it a lot. So, thank you.
+7:03 We're gonna cue that up and you can show
+7:04 that a little bit later. Okay. Uh sure.
+7:07 Yeah. Yeah, that'd be cool. Um good.
+7:09 John, where are you at today? I'm in
+7:12 Melbourne, Florida. Melbourne, baby.
+7:16 Been here. We've been here for a while
+7:17 and it looks looking like today is going
+7:19 to be our grandson's birthday. Oh my
+7:21 gosh. Not born yet. That's looking good.
+7:25 Send pictures. Congrats. That's great.
+7:28 This will be number eight. Eight. Number
+7:31 eight. First for first for our daughter
+7:33 and her husband and number eight for
+7:35 grand.
+7:37 That's awesome. Congratulations. That is
+7:39 amazing. Cool. All right. Well, let's
+7:41 talk chief architect here. So,
+7:45 um, what is chief architect? What is
+7:48 chief architect anyway? Um, I mean, we
+7:51 could banter about what is chief
+7:54 architect for a long time. I'm going to
+7:56 call it one of the best communication
+7:57 tools out there in the construction
+7:59 industry. So, that's one thing that that
+8:02 it is, but that doesn't help you draw a
+8:04 plan. So, uh, what is Chief CAD program?
+8:07 It is a very fullfeatured, very robust
+8:12 version number 26 in the world of
+8:16 versions uh CAD program. And that's it.
+8:21 That's what it is. It's a CAD program.
+8:23 It's a CAD program that fits a niche
+8:25 market for drawing buildings. All right?
+8:28 Although you can draw just about
+8:30 anything. You can draw in any CAD
+8:31 program with this, but the focus of the
+8:33 chief architect people is to draw
+8:36 buildings and they've given us the tools
+8:39 to do that. So,
+8:41 um
+8:43 you'll whenever I teach a class, and
+8:45 John will attest to this, he's been in
+8:47 many of my classes. Uh I want you to
+8:51 understand that yes, it is a CAD
+8:52 program. So, we're going to talk about
+8:54 CAD kinds of things even for beginners.
+8:57 Uh not too deep. We we'll get into a
+9:00 little XY, maybe a Z, and that's about
+9:03 it for a beginner course, but as we get
+9:05 into it further, um you're going to
+9:07 start learning about all the different
+9:09 things like offsets and mirroring and
+9:11 all of this kind of stuff. Although we
+9:12 cover some of that stuff in the beginner
+9:14 classes, too, but we just don't really
+9:15 call it those things.
+9:17 Um so it it's it's one of those things
+9:20 when you understand some of that lingo,
+9:22 it makes drawing with Chief a little bit
+9:24 easier. A lot easier, actually, I think.
+9:27 So, so we'll cover some basic things
+9:29 here uh in the next uh 40 45 minutes or
+9:33 so. And this is really a course meant
+9:37 for beginners, people that are just
+9:39 getting into chief architect. So, if
+9:42 you've been in the program for a while
+9:44 using it, I know many of you here are
+9:46 are, you know, intermediate advanced and
+9:49 sometimes very advanced users. Uh yeah,
+9:53 might find this a little boring. Maybe,
+9:55 maybe not. But hang in there. Maybe I
+9:58 have a suggestion. Anybody that's on the
+10:00 call that's been using it for a while,
+10:02 if they can think back to some of the
+10:04 struggles they had right at the
+10:06 beginning, that's a really great put a
+10:09 comment in there and maybe we'll talk
+10:10 about it. That's a great comment, John.
+10:12 Thanks for bringing that up.
+10:15 Planned out of the box. Yeah. Yeah.
+10:18 Absolutely horrible. So, can you
+10:20 imagine, you know, you get this program
+10:22 and you open it and you draw something
+10:25 and you click on something and then all
+10:27 of these icons pop up down here at the
+10:29 bottom of the screen. Uh, and then
+10:31 you've got all these icons at the top of
+10:33 the screen. You got icons over here and
+10:34 you got this area over here where you
+10:36 can put things.
+10:38 Um, you know, and that's just a small
+10:41 small fraction of what the software has.
+10:44 So, what does all this stuff do? I mean,
+10:47 if you open any software program, go
+10:49 open up Photoshop or go open up any kind
+10:51 of software program that has tons of
+10:53 icons and we could all feel the pain
+10:55 that new Chief Architect users go
+10:57 through. So, uh, there's a lot going on
+11:00 here. So, let's cover some of the
+11:02 basics. So, the goal is to get yourself
+11:04 a good set of drawings that you can use
+11:07 to build a to sell and build a project.
+11:10 Okay, that's the bottom line is what
+11:12 we're really after. We're after that
+11:14 that plan that you can take out to the
+11:17 job and and give your carpenters and
+11:19 your subcontractors and everybody
+11:21 involved in the process. Here you go. Go
+11:23 build this project. And the homeowners,
+11:26 too. They understand what's going on.
+11:27 So, that's what we're after and how do
+11:29 we get there? So, let's just go start
+11:31 talking a little bit about that. I had
+11:33 one open here. I'm just going to close
+11:34 it and we'll just jump into doing some
+11:37 things with the program. So when you get
+11:40 Chief and you load it up first time, you
+11:43 down, you know, you're going to go
+11:44 chief.com and you're going to download
+11:46 the software. They have two versions,
+11:48 the home version and the pro version. Uh
+11:50 pro version is what we're looking at
+11:52 right here. It's called Premiere X16. Uh
+11:55 so that's version number 26. Uh they
+11:58 have the home version, too, which is a
+12:00 subset of the pro version, and it's uh I
+12:04 think it's 5.95 or $6.95 now. And I
+12:06 think they do $59 a month uh rental kind
+12:10 of a thing. I know the premiere is
+12:14 $269$2.49 a month I think or $19.99 a
+12:18 year. Uh that's their new new format
+12:22 that they went through. Um and after the
+12:25 first couple years you kind of break
+12:26 even from the way they used to sell it.
+12:29 So if you if you're going to get into
+12:30 it, it seems like it's a lot upfront.
+12:32 It's really not. It's it's about you're
+12:35 going to be breaking about even after
+12:37 about one year and 10 months. Okay?
+12:41 After that then it's going to cost you
+12:42 more than it used to. So, uh but by then
+12:46 hopefully you'll be proficient on the
+12:47 software and you'll be making money with
+12:49 it
+12:49 and you know it makes the ROI of what
+12:52 you're going to spend on the software
+12:54 worth it. The you know it's it's the way
+12:56 the industry is. All CAD programs are
+12:58 doing that now. All the premier one all
+12:59 the good ones. I mean, AutoCAD, I hear
+13:02 horror stories about how much that
+13:05 costs. They're all doing it. So, you
+13:08 just got to bite the bullet and and deal
+13:10 with that. So, when you open say, can I
+13:12 interject on that? Absolutely. You know,
+13:15 I make digital assets. I sell them. I
+13:18 have an e-commerce site. So, I will tell
+13:21 you, it's it's really really difficult
+13:24 trying to budget how many hours you're
+13:26 going to put into a development cycle of
+13:28 a new product. um not knowing how many
+13:31 people are going to purchase your
+13:32 product for the next year and if it's
+13:34 going to be a sustainable practice or if
+13:37 you need to supplement that with some
+13:38 other source of revenue. So, um I think
+13:42 that the subs subscription model is
+13:45 extremely ethical and almost necessary.
+13:48 Um and I'm a big backer of that because
+13:50 I don't charge a subscription and it's a
+13:52 real challenge figuring out how much
+13:54 time I get to spend making my next
+13:56 products. Yeah. And you do make a lot of
+13:58 products. So, yeah. and you could just
+14:00 totally lose your butt on it. So, as a
+14:03 company grows, like Chief Architect's
+14:04 been growing and they're trying to
+14:05 develop cloud-based stuff, which we've
+14:07 all been asking for, they need to know,
+14:09 you know, how many how many what's your
+14:11 user base? So, yeah. Anyways, carry on.
+14:14 Yeah. And as we all know, I mean, or
+14:16 anybody that's been to their events and
+14:19 spoke, you know, listen to their
+14:20 leaders, listen to the people involved
+14:22 in programming, all that. They got one
+14:24 hell of a good company and a lot of
+14:25 great people and they're really
+14:27 producing a good product. Um, as you
+14:30 know, as far as we know, there's no
+14:31 indication that they're not they're
+14:33 going to ever go anywhere. Uh, it's a
+14:35 privately held business. There's no
+14:37 reason to believe they're going to do
+14:39 anything else. So, let's hope that holds
+14:41 true and we'll see what happens. In the
+14:43 meantime, they keep putting out a good
+14:45 product. So, when you first load Chief
+14:48 Architect, we're going to get past that
+14:50 point. Uh, and you open it the first
+14:52 time, you will
+14:54 um, uh, dashboard. Dashboard first. Oh,
+14:58 yeah. Thank you. You'll open it. I knew
+15:01 it was there somewhere. It just bit me.
+15:03 U, it's, you'll open the first time and
+15:06 you'll see what's called the dashboard.
+15:07 Okay. And this is, uh, a place where
+15:10 Chief gives a chance to, uh, put some
+15:13 information, help videos, training
+15:15 cataloges, things like that, or
+15:17 cataloges that you can download the
+15:18 symbol libraries. uh they'll show
+15:20 different uh things coming up with their
+15:22 announcements. So, it's a you know good
+15:25 little dashboard to find out what's
+15:27 going on with the program. Plus, you can
+15:28 get to opening new plans and opening you
+15:30 can have a list of the projects you've
+15:33 been working on will show up on the
+15:35 dashboard and you can adjust the numbers
+15:37 on this in the preferences of chief on
+15:39 how many you want to show here and if
+15:41 the dashboard appears or stays here
+15:43 after you open it. So, it's a setting in
+15:45 the preferences. We won't go there right
+15:47 now. So once you once you do get it
+15:49 loaded and you open up a new screen a
+15:53 new plan uh Chief has two kinds of files
+15:56 that you are mainly working with plan
+15:58 files or PLAN files and layout files LA
+16:02 well layout uh they used to have them
+16:05 abbreviated from from the old DOS days
+16:07 but now they just spell out the whole
+16:08 word. So, so those are if I could just
+16:12 explain something just to give a
+16:13 reference to people who are using
+16:15 AutoCAD and I know it's not for a lot of
+16:17 the people who are here right now but
+16:18 for anybody listening plan file to
+16:21 AutoCAD is what model space is. So your
+16:24 plan your plan is the same as model
+16:26 space in AutoCAD and layout is the same
+16:29 thing as paper space in AutoCAD. So just
+16:33 think of it like that, but they're two
+16:35 separate files as opposed to being all
+16:38 in the same file. Yeah. So if you're
+16:40 coming from that platform, yeah, that's
+16:41 a good example of the differences. Uh
+16:43 and by the way, Chief, uh when I say
+16:45 it's a very fullfeatured robust program,
+16:48 yeah, we'll go to headtohead with
+16:49 AutoCAD all day long. No problem there.
+16:52 So if you're an AutoCAD user and you
+16:54 want to get out of that program and just
+16:55 use Chief, we'll help you with that.
+16:58 We've done it with a lot of people, so
+17:01 don't worry about that. So, when you
+17:02 open the program, you're going to see
+17:03 some toolbars that look like this. This
+17:05 is called Chief's default toolbars. So,
+17:07 you're going to have two rows of icon
+17:09 icons across the top. You'll have one
+17:11 row over here. You'll have a blank space
+17:13 down here and a blank space over here.
+17:16 Um, which will look more like this. It's
+17:18 going to be a little bit wider, I
+17:20 believe. Okay. So, when you click on an
+17:23 icon, you're going to see what are
+17:25 called the child icons over on the left
+17:27 side of the screen. um we call them
+17:30 icons or you could call them buttons.
+17:32 Either way is fine. So you'll notice you
+17:35 get the different types of items showing
+17:37 up here on the left side. And what I had
+17:39 just done is I clicked this little gear
+17:41 icon down here and you can turn the
+17:43 words off at any time and just have a
+17:45 grid view and then you can make that so
+17:47 it takes up less real estate on your
+17:49 screen. So you can have either way. I
+17:52 like that Chief gives you that option.
+17:54 So, if you're brand new to the program,
+17:55 it's a good idea to leave that list
+17:57 showing so that you can see what the
+17:59 different icons are as you click on
+18:02 them. Um, I've set mine up in
+18:04 preferences to get a dropdown. Um, you
+18:06 may not have that out of the box. U, if
+18:09 you want to do the drop-down setting,
+18:12 you would have to go to preferences.
+18:14 That's this little icon right here with
+18:15 a P on it. and you would go to uh this
+18:19 setting right here where it's either
+18:22 child pallet or dropdown. Okay, I I'm I
+18:26 prefer drop down. The beginning users
+18:28 might want to not do that. Uh depends on
+18:31 your comfort level. The only difference
+18:33 between the two is that if you do the
+18:36 drop down and you choose a different
+18:38 icon from the list, you'll see how the
+18:40 icon changes up here to match the items
+18:43 on the list. Uh, so if you're working on
+18:46 a plan and you want to find a door and
+18:48 the door icon's gone, for new users,
+18:50 that's a little confusing, but after you
+18:52 learn where the icons are positioned and
+18:54 you know where you're at, not a big deal
+18:56 either way. So I prefer both. Uh, so
+18:59 again, personal preference. That's why
+19:01 they call that little icon
+19:03 preferences. Uh, so keep that in mind.
+19:06 Okay? And just to remember, preferences
+19:08 change how the computer works. It does
+19:11 not change how the plan works or where
+19:12 the drawing space is. So it just changes
+19:14 how the computer works, how colors are
+19:17 and chief works, how chief works, not
+19:20 your computer, right? It's how chief
+19:22 works, but it's not how the um it
+19:25 doesn't affect the drawing of the
+19:27 project that you're working on. Correct.
+19:29 So whenever you open up a new plan in
+19:31 Chief Architect. So whenever you go up
+19:33 to file,
+19:34 new plan or layout, you're actually
+19:37 opening up a copy of a blank plan. Okay?
+19:41 And in that blank plan, you'll have a
+19:44 bunch of defaults set up. This little
+19:46 icon right here that looks like a wrench
+19:48 is a place where we can set up defaults
+19:50 for the plan we're about to work on. So
+19:53 defaults would be things like what kind
+19:55 of cabinets do you want to put in? What
+19:57 kind of uh walls, what kind of siding,
+20:00 what kind of colors, you know, all those
+20:03 different kinds of things are called
+20:04 defaults. Heck, there's a whole list
+20:06 here of defaults that we can change
+20:08 within the program. And each of these
+20:11 defaults, once you open a new plan,
+20:13 you're working with the defaults just
+20:15 for that plan. You're not doing anything
+20:18 to do with the PLA past plan because the
+20:20 past plan is a copy of a of a a new plan
+20:24 is a copy of a past plan, a previous
+20:26 plan. And that's set up under under
+20:28 preferences again. So, it's really easy
+20:31 to see what you're working with. When
+20:32 you go to uh preferences and you go to
+20:36 this under general new plans, when you
+20:39 click the open new plan or layout,
+20:42 you're opening a copy of whatever is
+20:44 listed here. Okay? So, it's just like
+20:48 it's just like opening, you know, if
+20:49 you've worked on the Jane Jane do Jane
+20:52 Jane Smith plan the other day and you
+20:55 said, "I like all the settings I had in
+20:57 that." So you open that up and make a
+20:59 copy of it and then you delete
+21:00 everything and start drawing. All the
+21:02 defaults are there. All the settings are
+21:04 there. You've just made that into a
+21:06 template. So that's all a template is.
+21:09 Templates seem to be one of those things
+21:11 that really confuses people as to what
+21:14 what what is this big magical thing
+21:16 called templates? It's nothing. It's
+21:17 just a copy of a plan with default
+21:19 settings changed. So preferences affect
+21:21 the program. Defaults set affect the
+21:25 plan. uh back to preferences for a
+21:27 second. If we can click on this little
+21:28 icon right here, a couple of things I do
+21:31 like to teach uh new users right away is
+21:34 we want to get used to using the the
+21:36 mouse the way it should be used in Chief
+21:38 Architect, which means the number one
+21:40 thing you're going to do is use your
+21:42 left button to click things and draw
+21:43 things. Uh number two, you're going to
+21:46 use the right mouse button to select
+21:48 things and draw things. Okay? You could
+21:51 use both buttons. And it if you can get
+21:53 used to the right mouse button to pick
+21:55 things, right mouse button to draw
+21:56 things like walls and lines, uh makes it
+21:58 a little easier. So, we're going to turn
+22:00 on this little setting right here. Click
+22:01 twice to display um under appearance.
+22:05 And when you do that and you start
+22:08 drawing and you click on something in
+22:11 Chief, what we the right mouse button is
+22:13 called the pick button. It's used to
+22:14 select things in your plan. So, uh when
+22:18 I open a plan, when I'm let me open the
+22:20 one I just had open here. So when I want
+22:22 to select something, I can just click on
+22:25 it with my right mouse button and I can
+22:27 pretty much select anything that I put
+22:29 my cursor over without having to change
+22:32 and and select a different mode to click
+22:35 on. So if I'm in the window mode working
+22:37 on
+22:38 Windows, I can only leftclick on
+22:41 existing windows or left click to place
+22:42 a window. But I can right click on
+22:44 anything at any time. So if you get used
+22:47 to using your right mouse button to do
+22:48 that and then click twice the display
+22:50 gives you what's called the contextual
+22:52 menu. So this menu is the same as the
+22:54 icons at the bottom of your screen. All
+22:56 right. So we rightclick twice to get to
+22:59 this menu. Um I don't use that menu very
+23:02 often because most of the time when I
+23:04 select things you you're selecting it to
+23:06 dimension it, to move it, to delete it,
+23:08 to copy it, to do things like that. and
+23:10 and sometimes this menu gets so big and
+23:12 it's in the way, it's just extra work to
+23:15 use that menu. So, but if you're used to
+23:17 using it, keep using it by all means.
+23:20 Uh, so that's the one preference I like
+23:22 to have my students change. Um, button
+23:26 size. If you're using a real high-res
+23:29 screen, like a 4K or 8K, and your icons,
+23:32 the buttons are really tiny, you can
+23:34 change the size of them to fit your
+23:37 screen better. Just make that a bigger
+23:39 number. You'll have to restart Chief to
+23:40 do that. But you see how I have all my
+23:42 buttons that kind of fill the fill the
+23:44 whole screen here. And if you get to if
+23:47 you get them too big, they'll blow off
+23:50 the screen and you'll get these little
+23:52 double arrows. You don't want to do that
+23:54 because then a lot of the icons are
+23:55 hidden. So make it just big enough to
+23:57 fill your screen. All right. Um, another
+24:01 quicky thing here is colors of your
+24:03 handles. And this will be the last one I
+24:06 cover in preferences today. But these
+24:08 colors right here, u those are called
+24:11 the handle colors and the fill color.
+24:14 And then we're going to go to edit and
+24:15 we're going to change the handle size.
+24:17 So those two things make it easier for a
+24:20 new user to draw in Chief. So let me
+24:23 just close out of here. Um so if we go
+24:26 open a new plan. So when I click on
+24:28 something, you see I get these little
+24:29 handles all over them. Okay. Okay. So,
+24:31 my handles are a little bigger because
+24:32 I've changed the size in preferences
+24:35 under the edit to a six. I think usually
+24:38 it's a four. When you open Chief, I'll
+24:40 change it to a six. All right. Try a
+24:43 five. I have people go up one number and
+24:46 it's usually a little better. Robin, you
+24:47 want to mute yourself, please? You're
+24:49 we're hearing your click click clicky
+24:50 click. Thank you.
+24:54 All right. So, that's a little bit about
+24:55 the colors. So, um it's just I just like
+24:58 to do that. I do a fill color that's a
+25:01 light pink. I do a handle colors that
+25:03 are red and blue. It's just easier to
+25:04 see the darn things on your screen. And
+25:07 I do my colors all the time to different
+25:10 colors. Yeah. Why does Why does that not
+25:12 surprise me? You're a color. I do it,
+25:14 too. I change it based on my mood,
+25:16 right? Sometimes green, sometimes
+25:19 they're purples. Yeah. Yeah. Yeah. I get
+25:21 bored. You want them to be pretty. You
+25:24 could always do the different colors
+25:25 here, too. You know, do the custom
+25:27 themes. Although that doesn't affect
+25:29 horrible that won't affect the handles,
+25:31 but it'll, you know, some people um you
+25:35 know, if the screen's too bright for you
+25:36 all the time, just change the theme a
+25:38 little bit or you can change different
+25:39 parts of it, too. Yeah, they're they're
+25:41 provided themes are pretty bad. They're
+25:44 really They're interesting. So, yeah,
+25:47 they're hard to to process. Yeah, I I
+25:51 tend to just run with a default theme.
+25:52 That way, everybody else in the world
+25:54 that I'm showing Chief to, they're
+25:56 probably set at that, too. so not
+25:58 confusing people. All right. So, so in
+26:02 the toolbar
+26:04 setup. All right. Another thing I always
+26:07 have my students do is I have them right
+26:09 click on an icon. I know Robin's going
+26:11 to say she uses this toolbar because
+26:13 it's more basic and I agree with that.
+26:15 It is more basic, but I don't use I've
+26:18 modified. I have my own. I have my own.
+26:20 I've kind of used some of the tools that
+26:22 you add on it and I've added more tools
+26:24 that I use on a regular basis. There you
+26:27 go. And and that's that's not the thing
+26:29 we want to do for brand new users of
+26:31 Chief. So, um I'm going to switch to
+26:34 what's called the extended tool
+26:37 configuration. So, you right click on an
+26:39 icon, toolbar configuration, go to
+26:41 extended tool. I've created my own
+26:43 extended tool. And the only thing that's
+26:45 different between mine and Chiefs are
+26:47 added these icons that I use all the
+26:49 time. Okay? We talk about that another
+26:52 time. uh just you choose the toolbar
+26:55 extended, it gives you more of the icons
+26:58 that you use regularly. It's going to
+27:00 eat up a little screen space. So, uh
+27:02 your real estate will be a little bit
+27:04 less, but if you get used to this
+27:06 system, um it works pretty well. Uh the
+27:09 the thing I like about it is it gives us
+27:11 these three
+27:12 dropdowns. We got our plan views,
+27:15 defaults, and layers. All right, we'll
+27:17 talk about that in just a second, what
+27:18 those are. Uh but the these are the
+27:21 things we use to switch around in our
+27:22 plan to do different things. Now with
+27:25 that in mind, with those little three
+27:27 things in mind, let me go open up a plan
+27:29 again. So one of the things I think
+27:30 that's really confusing for people is
+27:33 they get into chief and and they start
+27:36 working on things. Ben, mute
+27:38 yourself. You're clicketity clacking.
+27:44 um is
+27:46 uh one of the main things to understand
+27:48 about using a CAD software and this is
+27:50 true for any CAD software is you're
+27:52 going to draw your entire project in one
+27:54 plan file. Okay? You're not going to
+27:56 have different plans. You you're not
+27:58 going to draw the footprint of the house
+28:00 and then make a copy of it and add the
+28:01 electrical and then make a copy of that
+28:03 and add the the notes for this framing
+28:05 and all the framing detail. um
+28:07 everything gets done in one plan file so
+28:10 that if as you update things everything
+28:12 stays part of that file so you're not uh
+28:16 always messing around with different
+28:18 files to get different results. So um
+28:22 keep that in mind. So here here I'm just
+28:24 clicking through the different kinds of
+28:25 views in my plan. Uh so I'm going to
+28:28 work on my architectural plan where I'm
+28:29 going to add notes and collets and
+28:32 things like that. Then I want to work on
+28:33 my electrical plan. I could do that.
+28:36 Then I want to work on my framing so
+28:38 that I can switch to my framing view. So
+28:40 we keep everything in the same plan file
+28:43 and it just makes it much easier to get
+28:45 the project completed. In our layout
+28:48 pages is where we assemble all the
+28:50 different views that we're creating.
+28:52 That's where we separate out using the
+28:54 different uh different plan views. All
+28:57 right. So plan views plan views control
+29:01 your default settings and your layers.
+29:04 All right. Layers are what you see on
+29:06 the screen when you're uh working on
+29:09 something. Uh defaults are the things
+29:12 that you put on the screen like text and
+29:15 dimensions and notes and things like
+29:17 that. That's the default setting. So,
+29:21 and this is kind of the control panel to
+29:23 control that. I mean, we'll get in a lot
+29:26 deeper in our classes about how this all
+29:28 works and how you set up your own plan
+29:30 views. Uh but they are very confusing
+29:32 out of the shoot. If you simplify it,
+29:35 this is the pages I'm going to print and
+29:37 it's just a control panel to switch
+29:39 these two things to make it so that this
+29:41 that's what I'm going to be working on
+29:42 at that point. It's really quite simple
+29:45 when it comes to it. But it that
+29:47 simplicity is one of those things you
+29:49 get the light bulb moment and you go,
+29:50 "Oh, now I get it." Uh, it took me a
+29:53 while when they first introduced plan
+29:55 views. And John, did took you a while
+29:58 too, didn't it? Oh, it took it took you
+30:00 like over a year or better. Well, I
+30:02 fought
+30:03 it. I fought it because I just wanted to
+30:06 use these two things. I thought the plan
+30:08 views were an extra thing that wasn't
+30:10 necessary, right? Um, so I fought it,
+30:12 but then once one day it just hit me
+30:14 like, "Oh, now I get it." And it's like,
+30:16 "Okay, so we're all over plan views
+30:18 now." So, we're going to use it. I love
+30:19 them. Uh, they work great. And there's,
+30:22 uh, a lot of things we could do with our
+30:24 plan views. So, to create the kind of
+30:26 plans we want, uh, the template I'm
+30:28 using right here is something that I've
+30:30 worked on over the years. John's helped
+30:31 with this, too. Um, it's very simple.
+30:34 It's, you know, it covers 85% of what
+30:37 you're ever going to draw. Um, and then
+30:39 if you ever need to do anything else, we
+30:41 can, you know, you can make those
+30:43 different views. So, makes it really
+30:45 easy to work with. All right, let's go.
+30:48 Let's get started here now. So, let's go
+30:50 open up a new plan. Again, I'm in my
+30:52 extended toolbar. We've got the icons at
+30:55 the top of the screen to draw things.
+30:57 We've got the tools right here at the
+30:58 bottom row. These are the things we're
+31:00 going to draw to the building. Make make
+31:03 it look like a building. We've got the
+31:05 icons right here to add dimensions,
+31:08 text, and to do our CAD drawing things
+31:11 that we're going to add to our plan.
+31:13 Okay. So, we're going to use those icons
+31:16 a lot. That's kind of the main thing.
+31:18 Um, we got these three icons, which I
+31:20 hope to check on here a little bit. If
+31:22 you watch, I think the last class, I
+31:23 talked about those last time we did
+31:25 this. So, those are good. Um, then
+31:28 you've got your uh libraries, project
+31:31 browser, and layers right here. Just
+31:34 think of these as onoff switches. So,
+31:36 that's going to turn my libraries on. I
+31:37 float my libraries out on my other
+31:39 screen. See if I could redock it here.
+31:42 Uh, not going to redock. Let me just go
+31:44 to preferences. If your if your uh side
+31:47 windows get messed up, we could go in
+31:50 here and hit reset side windows. All
+31:52 right. And click okay. And now when I
+31:55 click on these things or do I have to
+31:58 restart Chief to do that, reset side
+32:01 windows. Uh yeah, I got to relaunch the
+32:04 program. Let's get out of Chief. Let's
+32:06 come back into it. Now my side windows
+32:09 will be back in place. I I just like my
+32:11 side windows floating so I don't have
+32:14 them um so I have more real estate to
+32:16 work
+32:17 with. Okay. But here's my So those three
+32:21 buttons turn those side windows on and
+32:23 off. Okay. Uh, project browsers are
+32:26 something we do get into in our beginner
+32:28 classes because you really want to use
+32:30 them. Your libraries, all the different
+32:31 things that you can get from Chief are
+32:33 right here. I always recommend when
+32:36 you're in your library, switch to this
+32:37 icon at the bottom here. So that when
+32:39 you're clicking on things in Chief's
+32:41 libraries, you're going to see more
+32:43 things listed here in the bottom. And if
+32:46 you hold your control key down and roll
+32:49 your wheel in and out, you can zoom in
+32:51 and out on this bottom window to show
+32:53 more things um on your screen. So, it
+32:56 just makes it a lot easier to to see
+32:58 what's going on. This just displays a
+33:00 list, so it's a lot harder to see. Use
+33:03 the the buttons down here. All right.
+33:06 So, there's my side windows. Dan, we
+33:08 have a question we're just itching to
+33:10 get the answer to. So, can you draw four
+33:12 walls and put a dimension on it? You
+33:14 want to do that? Is that why we're here?
+33:16 Um, that's what we're doing. Yes. Yes,
+33:18 we have a question that needs to be
+33:19 answered. Yeah, we have a big question.
+33:21 So, you notice what I just did there? I
+33:23 drew four walls and I used my right
+33:25 mouse button to do that. So, try that
+33:26 sometime. Use your right mouse button to
+33:28 draw things. All right. What's the rest
+33:30 of your question? Um, I'll pull it up
+33:32 right now. The question is there the
+33:35 dimensions are going to the OSB layer
+33:38 instead of the framing
+33:42 layer and they have the dimensions set
+33:45 up correctly so that they're going to
+33:46 the dimension wall layer. So we need to
+33:49 show them how to well you can change
+33:51 that. You will change that in the wall
+33:54 itself. Okay. So when you go open a wall
+33:58 dialogue, okay, there's the only way
+34:00 you're going to dimension the sheathing
+34:02 in this exa example is to go into the
+34:05 wall type. So you click on the wall that
+34:07 you've drawn, open its dialogue, go to
+34:09 wall types, go to define, click down
+34:12 here and go to wall
+34:13 properties and look at what it is called
+34:17 dimension to the exterior of what. Okay.
+34:21 Make sure that that's got the stud
+34:23 selected, not the sheathing. So, if I
+34:26 switch this up to the OSB right now,
+34:28 which will be this layer. Okay, it's
+34:30 going to be the outside of that layer.
+34:32 And this is the outside. The top of this
+34:34 screen is the outside of the wall. Click
+34:37 okay. And okay, and now my dimensions
+34:39 shift to the sheathing. All right. So,
+34:42 the other thing that the other thing to
+34:44 keep in mind there, the OSB is on the
+34:46 main layer, it's still going to go to
+34:49 that, too, isn't it? Um, no. It's I
+34:53 don't think so. And you don't want Oops,
+34:56 I just deleted. You don't want to be uh
+34:58 you don't want your OSB as part of the
+35:00 main layer anyway. The main layer should
+35:02 typically be your framing. Uh the
+35:04 framing is what the frame the main layer
+35:08 is how Chief joins walls together. So if
+35:12 I if I move this down into that and I'll
+35:16 set the dimension back to uh my framing.
+35:21 So that was exterior layer of the first
+35:23 stud. So, it's going to say, "Yeah, you
+35:26 probably shouldn't do that, but I'll do
+35:27 it anyway." But it now when I do an
+35:30 interior wall, let's see if it joins up
+35:34 properly. Um, okay. Yeah, it's working.
+35:37 Okay. But a lot sometimes what'll happen
+35:40 is the the main layer will join up with
+35:43 the uh the wrong part of the wall.
+35:46 So the main, you know, the main layer is
+35:49 joining the main layer here. But because
+35:51 there's a main layer there right now,
+35:54 it's joining fine. If I were to go back
+35:56 in here and define this, and I took
+35:58 Let's move that
+36:00 down. Now I click okay. Now we're going
+36:03 to see the interior wall join up. No,
+36:06 thought it would. Yeah. See how it joins
+36:07 up to the sheathing out there? Even
+36:09 though it doesn't show it, it's actually
+36:11 going to that part of it. So just be
+36:14 careful. So, your main layer should
+36:15 always be the framing layer. So, it
+36:18 sounds like she has it set up right
+36:21 and it's it's still doing it, Susan.
+36:24 Yeah, that's what she just said. Right.
+36:27 So, what are some other reasons why it
+36:28 would dimension to the OSB instead of
+36:33 is the OSB the the outside layer? Yeah.
+36:36 Is the OSB is there OSB and then siding?
+36:40 Other words, the surface of the wall.
+36:42 Yeah. The only other way you could do
+36:43 that would be to be deleting
+36:45 dimensioning the surface. So, let me go
+36:47 back in here. I got to set this define
+36:49 this uh property back to
+36:55 first stud. Thank you. Okay. All right.
+36:59 If it's deleting, if it's dimensioning
+37:01 somewhere else, double click on the
+37:03 ruler icon. This is part of the
+37:05 dimensioning in Chief. the the the
+37:07 hardest things in Chief to do right
+37:09 away. There's three main areas of Chief
+37:11 that we cover right away. Uh we cover
+37:14 laying out the rooms and laying out
+37:15 getting the 3D platforms in place. Then
+37:18 we talk about stairs. Then we talk about
+37:20 roofs. Those are the three most
+37:22 difficult areas of doing things in Chief
+37:24 Architect, especially when you're just
+37:25 getting started. So dimensioning being
+37:27 one of those things used to lay out
+37:29 walls. So when I double click on any
+37:31 ruler icon, it's going to open up the
+37:33 defaults. Look at the wording up here.
+37:36 dimension defaults for this kind of view
+37:38 that I'm working on. If it's set to
+37:41 surface, um it it is going to your
+37:44 dimensions will go to surface. Of
+37:45 course, I need to reset the auto
+37:49 automatic to go to surface, which would
+37:52 be
+37:53 um locate auto exterior to the surface.
+37:57 I don't think there's any there's no
+37:59 other way to define a layer of a wall
+38:02 for a dimension to go to other than in
+38:05 the wall dialogue. So here I'm getting
+38:08 new dimensions going to the surface of
+38:10 the wall. Just by double clicking on the
+38:13 icon we can roll down this list here and
+38:15 we can select to change to surface any
+38:19 of these dimensions that we're working
+38:21 with. So So let's let's come back to
+38:24 those dimensions second. Um, did we get
+38:26 a qu answer on that? Is there another
+38:28 layer? Not yet. Um, another question
+38:31 would be what what um dimension tool are
+38:34 you using? I'm using the automatic
+38:37 dimension tool. Right. But if they're
+38:39 using point to point or something like
+38:40 that, they might get it to the OSB
+38:42 surface. It doesn't uh I've had clients
+38:47 that will use what's called the
+38:49 pointto-oint dimension tool. And this is
+38:52 not the tool you want to use to
+38:54 dimension your project. That's only used
+38:57 to dimension areas that are odd angles
+39:00 and things like that. Um, it'll work
+39:03 okay in this situation when I'm snapping
+39:05 to two points. And it did snap to the
+39:08 surface here. And I could move that to
+39:10 different parts of the wall. I can't
+39:12 move it to that sheathing layer because
+39:14 that's not part of my main layer. Um,
+39:17 but I can move it to the other parts of
+39:18 the wall. The other thing you could do
+39:21 with this pointto-oint thing is you
+39:22 could dimension it right in the middle
+39:24 of the screen and it's going to leave a
+39:26 point that you can move and set that on
+39:30 things. So Chief will use that sometimes
+39:32 when it can attach a dimension to
+39:34 something.
+39:36 Uh exterior layer with siding. OSB is
+39:40 exterior layer with siding.
+39:47 The only thing I could say is to have
+39:49 Susan send me that
+39:51 plan. Um,
+39:54 what's going on?
+40:01 If you want to email your plan, I'd be
+40:02 happy to look at it. Dan dan
+40:04 chiefexperts.com.
+40:08 I know no reason why it would dimension
+40:10 there if the settings are in the walls
+40:14 uh are set right.
+40:16 So again, make sure you go to your wall
+40:17 and make sure that it's not set under
+40:20 the def defining the wall under wall
+40:23 properties. Make sure your dimension the
+40:25 exterior of this is not set to the
+40:28 sheathing. Make sure that's set to the
+40:31 framing. I don't know any other way we
+40:34 could get a dimension to snap to that
+40:35 sheathing automatically.
+40:39 I can't think of a way. Well, what about
+40:42 on the framing plan? Does it show on the
+40:45 framing plan? Does it show the OS? Um,
+40:49 well, it doesn't if you've turned if
+40:51 you've set the layers to show uh main
+40:55 layer only.
+40:58 Um, that's going to look like
+41:00 this. But it's still not going to not
+41:03 going to show the sheathing. Although,
+41:05 unless the sheathing is in the main
+41:07 layer area, then it could then it could
+41:09 show that, couldn't it? Hold on. So,
+41:11 then does it pull just to that
+41:13 dimension? Hold on. Let me see what's
+41:14 in. I don't have my my dimensions all
+41:17 set for interior, so I'm all screwed up.
+41:21 Let me change that to get to the
+41:22 outside. There you go. That could go to
+41:25 sheathing if we move. I think if you
+41:27 have a framing plan. Yeah. Nope. It's
+41:31 pulling to the sheathing still on a
+41:33 framing plan. Okay. Yeah, even if you
+41:37 have it um All right. Well, is it's
+41:40 still pulling to the sheeting. It's not
+41:42 pulling to the She's gonna send it to
+41:44 you, Dan. Yeah, send me your plan,
+41:46 Susan. Just email it to Dan and Chief.
+41:48 When you email it, make sure you close
+41:50 Chief before you send it so that it
+41:52 actually uh clears the memory and sends
+41:54 out. Okay, let's just go back here and
+41:57 let's go lay out some walls real quick,
+41:59 okay? And talk about the process that
+42:01 you go through. Oh my god, we're almost
+42:03 out of time already.
+42:05 Uh crazy. Um all right, let's just do
+42:09 this. Uh, let me just delete what I've
+42:11 got here. So, whenever you're laying out
+42:13 a project, you're going to choose the
+42:15 kind of walls. I mean, the goal here is
+42:16 to create a a project that has the walls
+42:19 that you're going to build the house as.
+42:20 So, if you're doing 2 by six, use 2x6
+42:22 walls. Again, I'm going to just lay out
+42:24 a a couple of rooms here real quick. I'm
+42:27 just using my right mouse button. It's
+42:29 much quicker when you use your right
+42:31 mouse button. So, I'm just dragging,
+42:33 letting go, click, click, and I got it
+42:36 laid out. So the automatic dimensioning
+42:38 is turned on. So again, if I double
+42:40 click on a ruler icon, it's going to be
+42:43 under locate auto setup automatic. And
+42:46 this auto refresh button is turned on.
+42:49 Okay, you could turn that off just by
+42:51 trying to delete a dimension or come in
+42:53 here and uncheck that. If it did get
+42:55 turned off, you could come back in here
+42:56 anytime and turn it back on. So it is
+42:59 it's a nice way to get started on your
+43:01 plan when you're just uh starting to add
+43:03 do things in your project. So, the next
+43:06 thing is you don't dimension by moving
+43:08 things into place. You don't dimension
+43:10 by by, you know, when you're drawing
+43:13 walls, don't look at the dimension that
+43:15 you're you're pulling it. I mean, you
+43:17 can, but you don't need to do that. Just
+43:20 sketch out the shape you want. And then
+43:21 let's go ahead and start resizing it.
+43:23 So, so the idea here is you I could
+43:26 click on this wall and click on this
+43:28 dimension and I could say make that wall
+43:30 18 ft. I'll make it 20 ft. Okay. Um, and
+43:34 you'll see I got a little icon here that
+43:36 show shows it's going to move this wall
+43:38 to the left. All right. So, there's
+43:40 that. Now, if I click here and I go
+43:42 here, look at the icons you get. Now,
+43:45 you get different icons because now it
+43:47 could move this wall or it could move
+43:49 this wall or it could move them both.
+43:52 Okay? Left wall, right wall, or both of
+43:56 them at the same time. So, you want to
+43:58 watch that when you're clicking in on a
+44:00 wall in front of a dimension. What I
+44:02 tend to teach people to do is, okay, I
+44:04 want to change this number. I've already
+44:05 set this number for the 20 foot. I'm
+44:08 going to change this one by clicking on
+44:10 this wall and clicking on that number.
+44:12 And I'm going to type in the the number
+44:14 I need here. Okay. You're going to put
+44:16 in the foot sign. You don't have to ever
+44:20 type the inch sign. I want that to be 12
+44:23 feet. So, you're just going to work your
+44:24 way around the plan clicking on the item
+44:28 you want to move. See, I've already got
+44:29 that one set at 12. Let's move this one
+44:32 to 14 ft. Okay. Talk about what you just
+44:36 did because you just did your
+44:37 dimensioning different, didn't you?
+44:40 You didn't wall that you wanted to
+44:42 change. You selected a different wall.
+44:44 Well, yeah. I I clicked again. I'm
+44:47 clicking on the item I actually really
+44:49 want to move. So, I want to move this
+44:51 wall back and forth. So, I'm clicking on
+44:53 that and changing that number. Here, I
+44:56 click this wall and I change that
+44:58 number. So, I'm changing that number
+45:02 here. I I I don't need to move this one
+45:04 because I already got it where I want
+45:05 it. I want to move this one by clicking
+45:07 this number. Now, I want to move my
+45:10 bottom all by clicking either this
+45:12 number or this number. So, that's So,
+45:15 let's click on that and I'll make that,
+45:17 you know, 30 feet. Okay. So, now you see
+45:20 how I'm getting my numbers nice and
+45:21 clean. No fractions. Okay. Let's get
+45:24 this one straightened out. I want that
+45:25 to be 20 feet. So, um, and I didn't type
+45:29 the foot sign in. So, therefore, I got
+45:31 20 inches. So, let's go 20 feet.
+45:36 I think it's really a good idea, Dan.
+45:39 This is probably one of the biggest
+45:40 things that you could teach a new user
+45:42 is to dimension their walls into place.
+45:44 Yeah. Otherwise, they're going to get
+45:45 their whole plan done and then they're
+45:48 going to realize their dimensions aren't
+45:50 exactly what they want them to be.
+45:51 they're going to be off a quarter inch
+45:52 and then they're going to change them
+45:54 and then their roof is going to be wrong
+45:56 and their windows are going to be wrong
+45:57 and all that. So, do the very beginning.
+46:00 I think one of the big things that that
+46:04 gets me when I you know we work with a
+46:07 lot of people and they send us their
+46:08 plans and we we look at them um is if
+46:12 the roofs are done and now we need to
+46:14 move some walls because there's
+46:15 fractions all over the place, we have to
+46:18 move the walls separately. So,
+46:22 Um, hang on here. Susan just sent me her
+46:25 plan. Let's do a little quick
+46:26 troubleshoot.
+46:30 You know, the other thing, too, when
+46:31 you're dimensioning your walls, work in
+46:33 one direction. So, I always tell people
+46:35 to work in clockwise manner. Yeah. Go
+46:38 all the way around in the clockwise
+46:39 manner. And I always move change my
+46:42 exterior walls first and then I go in
+46:45 and change my interior walls. But always
+46:47 work in the same direction. Don't start
+46:50 going all over the place because you'll
+46:52 never get it right. It's a good good
+46:54 rule of thumb. As you get more
+46:56 proficient with Chief and you understand
+46:57 more of what's happening as you're doing
+46:59 things, then it doesn't matter. But when
+47:01 you're starting out, that's a really
+47:02 good rule of thumb is to uh just go in
+47:05 one direction around your plan. So, your
+47:07 wall setup looks good. You got three and
+47:09 a half inch framing. Got your OSB here.
+47:11 If I click on the wall properties, we've
+47:14 got it set to build platform dimension
+47:16 to the framing, foundation to the
+47:18 framing. So, this is all set up fine. I
+47:21 don't see any issue there.
+47:23 Um, let me turn the grid off. I don't
+47:26 like the snap grids. Everything's
+47:29 dimensioning to the framing. So, either
+47:33 changed on my computer, which it can't
+47:35 because I think she moved them. I think
+47:37 she moved them. She must They look good.
+47:40 I mean, you can click on when you click
+47:42 on a dimension line, you can click on
+47:44 the dimension line itself, and you can
+47:46 also click on these little extensions.
+47:48 And now I could pull this extension onto
+47:50 the wall and I could see that it's
+47:52 dimensioning to the framing. So, Susan,
+47:54 this looks fine. If you and you want to
+47:57 dimension to the framing, right? Not to
+47:59 the sheathing. Okay.
+48:02 Dan, can you turn off the dimensions
+48:03 quick or delete them and redo the
+48:05 automatic dimensions and see what
+48:06 happens?
+48:08 Sure. Okay. So, I'm just going to
+48:10 highlight the ruler icon. I'm going to
+48:11 hold my shift key down and draw my
+48:13 marquee around that. It's going to get
+48:14 all your dimensions. Now, I deleted all
+48:17 the dimensions. I'm going to double
+48:18 click on the ruler icon. Well, I could
+48:21 either turn them back on to auto refresh
+48:24 or I could just hit the auto refresh,
+48:27 the auto dimension icon right here. So,
+48:31 either way, I'll just turn on the auto
+48:32 refresh. It's going to get us a lot more
+48:35 dimensions going to this to the
+48:38 framing. So, it looks like it's doing
+48:41 just
+48:43 fine. So, we're missing something here,
+48:45 Susan. So, turn the grid turn the grid
+48:48 snaps back on and try it one more time.
+48:52 Auto dimensions won't hit the grid
+48:53 snaps, will it? I don't think they
+48:55 would, but yeah,
+48:58 that's the only thing you changed since
+48:59 you got it right off off the grid snaps.
+49:02 Let me just go ahead and delete the
+49:04 dimensions again. This time I'll use
+49:06 this autodimension tool. And it's going
+49:09 to framing again. So if I zoom in there
+49:12 and pull that line on there. Yeah, looks
+49:14 good. Go down go down to the foundation
+49:16 once and see
+49:20 what's I wonder if the walls are aligned
+49:22 properly.
+49:24 And it's getting the walls are aligning
+49:27 with the OSB. The foundation walls are
+49:30 aligning with the OSB.
+49:32 Um, that's why it looks like it's doing
+49:43 that. You could go look at the wall
+49:45 types and and see what that's doing,
+49:50 too. Edit, paste, hold
+49:54 position. So, it is lining up
+49:57 with Oh, that's the wrong thing I'm
+50:01 looking at.
+50:05 Uh, yeah, it's lining up with the
+50:07 framing.
+50:09 Yeah,
+50:10 absolutely. Yeah, you can see because
+50:13 it's a blue line, that means it's lined
+50:14 up with the framing. She says the She
+50:16 says the left wall wasn't the line, so
+50:18 maybe that was the issue.
+50:20 That could be. Okay. Okay.
+50:25 Good question though. I mean, yeah,
+50:27 those are the kind of questions if
+50:28 you're not sure, ask. I mean, why not?
+50:30 Uh, we don't have much time left, so let
+50:32 me just uh cover a few more things about
+50:34 dimensioning. All right, so again,
+50:36 anytime you add something to your plan,
+50:39 again, I've got the auto dimension set
+50:41 on. Okay, so I'm going to put some
+50:43 windows in. I'm going to make that, you
+50:45 know, 8 feet from the corner. I'm going
+50:46 to click this window and make that, you
+50:49 know, just make this one 8 feet as well.
+50:53 So again, you you have to type the foot
+50:56 sign. You never have to type the inch
+50:57 sign. So you click on the item you want
+51:00 to move and then click on the dimension
+51:02 number you want to change. So at any
+51:04 time you can add dimensions to things
+51:08 and remove dimensions. So let me show
+51:12 you real quick how that works. Um so
+51:15 when you look at a dimension line and
+51:16 you when you click on a dimension line,
+51:19 you'll see you get these diamonds here.
+51:21 Okay, you got a diamond here and you got
+51:24 a diamond, you know, in various spots.
+51:26 You got one on the window here. So, you
+51:29 can move those. Now, when I do this now,
+51:31 because auto dimensions turned on, it's
+51:33 going to say, "Oh, now you need to turn
+51:34 that off." Okay. Oh, yeah. I'll turn it
+51:36 off. So, now I can move the these points
+51:39 to different spots. I can move it to the
+51:41 outer framing or outer outer wall. I
+51:44 could move to the framing. I could move
+51:46 it to center of wall.
+51:49 center of the center of framing or
+51:51 center of the entire wall or interior of
+51:53 the framing or interior of the wall. So
+51:55 you got one, two, three, four, five. You
+51:57 got six snap points on a wall like this.
+52:00 Okay. On an interior wall, you're going
+52:01 to have one, two, three, four, five
+52:05 because you you know that if you have
+52:07 same sheetrock on both sides. All right.
+52:09 Same with windows. You can gra click on
+52:11 the dimension line. You can grab this
+52:13 handle and you can move it to different
+52:14 spots on other items. I can move it to
+52:16 the casing outside casing casing outside
+52:19 casing inside frame or center of window
+52:22 or rough opening. There's also a rough
+52:24 opening set snap that you can move that
+52:27 too. Um and you could position
+52:30 those wherever you want
+52:33 them. I got another dimension there.
+52:37 Okay. Uh the other thing you could do is
+52:40 at any
+52:41 time Why is that not going away?
+52:50 call that message. Uh, I'll turn my auto
+52:54 dimensions
+52:56 off. All right. So, there. Now, I can
+52:58 get rid of
+52:59 this. All right. You can also um add
+53:04 dimensions using this button right here.
+53:06 Okay. So, click that and set it on where
+53:08 you want the dimension to be added. So,
+53:10 I want to add it to the frame of the
+53:12 window. I want to add it to the center
+53:14 of the window. I want to add it to the
+53:15 edge of this cabinet. I want this
+53:18 cabinet to be, you know, seven feet from
+53:19 that edge. So, you can easily add and
+53:22 remove. You can pull points off of
+53:24 things to get rid of them as well. So,
+53:27 that's what these handles are for.
+53:29 Wherever you click, you're going to get
+53:30 a diamond. You can set that diamond on
+53:32 things in your plan. A lot of people
+53:34 miss that. The other thing you could do
+53:36 with windows and doors is uh let me just
+53:40 draw an interior dimension here. So, I
+53:43 like using the interior dimensions a
+53:45 lot. So, when I'm doing things, I'll go
+53:47 like that. And then I want to dimension
+53:50 this window. So, I'm going to add two
+53:51 dimensions here. I add one to each side
+53:53 of the window. So, I could take this
+53:56 first one, and again, it's going to the
+53:57 outer part of the frame. I could click
+54:00 on this and say, I want that window to
+54:02 be 8 ft from that wall. Now I could
+54:05 click on this again by clicking on this
+54:07 handle right here. But I've got this one
+54:10 where I want it. Now I want to change
+54:12 this one to the right width. So I could
+54:15 click on that. And you see how you get
+54:16 the highlighted handle right here. Now I
+54:20 could click on this number and I could
+54:21 change that to whatever I want the width
+54:23 of the window to be. It's a great way
+54:25 to, you know, when you're doing as
+54:26 builds and things like that to add your
+54:28 dimensions to those windows. Click on
+54:31 move the one side and then move the
+54:33 other side. So you can click on either
+54:34 side of our window and door to do that
+54:37 to change the width. All right, that
+54:40 makes some sense. We have six minutes
+54:42 left, Dan. All right, what do we want to
+54:44 talk about real quick? Did you want
+54:46 Renee to show his cabinet stuff? Yeah,
+54:48 we could do that. And I just wanted to
+54:50 mention to Susan, it's um about her uh
+54:53 wall being misaligned. That happens to
+54:55 everybody. It does. Keeping walls lined
+54:58 up is kind of a pain. Um, and I noticed
+55:01 that we could do the same thing to
+55:02 cabinets. I could click on an edge, but
+55:04 it doesn't turn the handle to a selected
+55:06 edge handle. See how with a window you
+55:09 get the selected edge. With a cabinet, I
+55:11 could click here and I could click on
+55:13 this number and change that side of it
+55:15 to a different size. Um, I wonder if
+55:17 that's
+55:19 something Kevin was here all fired up
+55:22 about that.
+55:24 There you go, Renee. Yeah. Why don't you
+55:26 Yeah, since we're out almost out of time
+55:28 and um I I always forget how fast an
+55:32 hour goes and uh it goes quick. I mean,
+55:35 yeah, we didn't even get close to what I
+55:37 wanted to talk to. I built a showroom,
+55:40 by the way. You built that showroom.
+55:45 Nice. I built a shower showroom while we
+55:48 were talking. Nice. Um, speaking of
+55:51 beginners, I feel like this is one of my
+55:53 few kits that really can work for
+55:55 beginners. Yeah, it's a bunch of
+55:57 pre-made showers that are built on the
+56:00 cabinet tool, but you don't need to know
+56:02 that that's built on the cabinet tool.
+56:04 You just get to know that you can just
+56:06 click and place something and resize it.
+56:09 And I'm like, I'll just resize this guy.
+56:11 And it's just as simple as that. It's
+56:13 going to it's going to kind of bump out.
+56:15 So, I give you I think 18 different
+56:19 types of showers. Some of the most
+56:20 common showers. Um, some of them have
+56:23 integrated partition walls. So, like
+56:26 here's another cabinet and I get to drag
+56:28 this down and you're going to see that
+56:30 this wall is actually part of that
+56:33 shower assembly. So, nice for just
+56:35 clicking and placing and dropping a
+56:37 toilet on the other side would be a
+56:39 simple way of doing this. And then um if
+56:43 you're unfamiliar with this program,
+56:44 that little bit of fuzziness there is is
+56:46 that we're in a ray trace view to make
+56:48 these look really realistic. So that's
+56:49 just ironing out the view. Um but yeah,
+56:52 I give you all kinds of different
+56:55 configurations as well as components in
+56:58 case you need to change something about
+56:59 a configuration. But the nice part about
+57:02 all this is that everything is
+57:03 colorcoded. Um, this is something that's
+57:05 a little more difficult to do in Chief
+57:08 without this kit, which is getting stuff
+57:10 like, um, the wrapping of the material
+57:14 here as it wraps around the half wall.
+57:17 And, you know, one side of this is tile,
+57:19 one side of this is painted drywall.
+57:21 They're both paintable surfaces. So,
+57:24 that I just show you here. Again, these
+57:27 are more of these showers in the kit,
+57:29 but all the showers come looking like
+57:32 the other ones we just previewed. And
+57:34 now I've just painted different
+57:35 components to drastically change their
+57:38 look very quickly. Just means you can
+57:42 just paint different elements of this
+57:44 and it's all just one contained cabinet.
+57:47 Um, so you can make some really ugly
+57:49 showers really fast.
+57:51 The next question is how can someone get
+57:54 that kit? Ah, you can go to my website.
+57:58 I don't know if we have a banner for my
+57:59 website built. Uh, actually I think I
+58:01 do. I can find it.
+58:02 Um, it
+58:07 is. It's not that one.
+58:10 Um, here it is.
+58:13 There we go. Nice. And this is my
+58:15 one-click shower system is what it's or
+58:17 one minute shower system is what it's
+58:19 called. Yeah. And I bet you guys on the
+58:22 call would never guess how Renee created
+58:25 these showers.
+58:27 Right.
+58:28 Let's see if anybody my favorite tool in
+58:31 Chief Architect. Let's see if anybody
+58:32 comes up with the right answer. Um but
+58:36 yeah, really nice tool to really pop
+58:38 those really nice showers in quickly.
+58:40 It's really cool. I really like that.
+58:43 You've done a nice job. Thanks. You keep
+58:45 excelling, Renee. Keep it up.
+58:48 All right, so Erin has a question or a
+58:51 comment. Maybe we should cover it a
+58:53 little bit. Mike got the answer right.
+58:55 Modified cabinets. Yeah, there you go.
+58:58 Yeah. Sorry, John. Uh where where'd it
+59:03 go, Erin? Oh, it's one up there. Yeah,
+59:05 I'd like I'd like a feature highlight
+59:08 all walls that are not aligned with wall
+59:09 above or below it. Well, have that. And
+59:13 then a button to to align them all would
+59:16 be great as well. Yeah. To do them all
+59:18 at once. But we do have that so that we
+59:19 can at least see if they're aligned
+59:21 right by using the floor reference tool.
+59:23 And then if you click on a wall, it'll
+59:25 tell you if it's aligned with a wall
+59:27 above it or below it. That kind of
+59:29 thing. I suppose I wouldn't care if I
+59:31 just selected all walls and had one
+59:33 button to just align all. Yeah. I mean,
+59:36 that would be great. Yeah. Yeah. I'm
+59:38 with Aaron on that
+59:40 one. Um, but Aaron, stop screwing up.
+59:45 Just get them aligned right to start
+59:46 with. Yeah. Messing around. Stop pulling
+59:50 them. Mention them into place. I love
+59:53 it. Oh, you can almost
+59:59 anyway. Um, cool. This is good.
+1:00:05 It's there. When you group select walls,
+1:00:08 if there's walls, if there's more than
+1:00:10 one wall out of
+1:00:11 alignment, it brings up the icon, but it
+1:00:13 doesn't do anything. Oh, can you?
+1:00:17 Uh, here. I'll show you. I show my
+1:00:20 screen. Renee, you need to stop sharing
+1:00:22 your screen. I can't get them off of
+1:00:23 there. There we go. So, you're selecting
+1:00:27 more than one wall. So, I have these two
+1:00:29 walls are not aligned as you can see.
+1:00:31 Okay. So, I can group select them.
+1:00:35 Here's my alignment tool right here.
+1:00:38 Okay. I can select this one and I still
+1:00:41 have my alignment tool. Can you do but
+1:00:44 it doesn't do anything. See, that one's
+1:00:47 aligned. Now, I lose the tool. So
+1:00:50 anyway, works on one wall at a time. The
+1:00:52 line button doesn't do anything when you
+1:00:53 have both selected, right? No. Right.
+1:00:55 It's there, but it doesn't do anything.
+1:00:57 So, it's kind of remembering the first
+1:00:58 wall you selected, I think, but it
+1:01:00 doesn't do anything. So, oh well, that's
+1:01:02 okay. All right, you guys. Uh, again, be
+1:01:06 sure to if you're interested in do some
+1:01:07 live training with John and myself,
+1:01:09 check us out on chiefexperts.com. It's
+1:01:12 the Brockville coming up second week of
+1:01:15 May. And, uh, uh, it'll be a fun class.
+1:01:18 We always have fun doing those kind of
+1:01:20 classes and we share a ton of
+1:01:22 information. Uh other than that, uh you
+1:01:25 guys got anything you want to add?
+1:01:28 Not right now.
+1:01:30 Okay, I think we're done. It's great.
+1:01:33 Have a great week everybody. Everybody
+1:01:35 take care. We'll see you guys next time.
+1:01:37 Bye now. See you soon. Why?

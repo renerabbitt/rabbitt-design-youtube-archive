@@ -1,0 +1,980 @@
+---
+videoId: 8btJwpiCkgI
+title: Live Stream- Design and Rendering Session
+url: "https://www.youtube.com/watch?v=8btJwpiCkgI"
+status: imported
+---
+
+# Transcript
+
+0:01 all
+0:04 right got a project here that I've got a
+0:07 4H hour retainer on for design and
+0:10 rendering and then I've got some Source
+0:14 material um from
+0:17 a from a real estate listing to use
+0:22 as just resource for you know finishes
+0:25 Etc um this is a project I did a
+0:28 little session on in my VIP area on
+0:32 YouTube and that was um just to show how
+0:35 you some quick edits to Kitchen to kind
+0:39 of Kick the realism up but now we
+0:41 actually got to go through and really
+0:42 make this look realistic so um this is
+0:45 hour one hour one of four let's kick
+0:49 this on and then excuse me for a second
+0:52 um Facebook made it so that we can't
+0:54 post directly to groups on live sessions
+0:57 so I got to come in and
+1:00 repost it to a group if I
+1:04 want so that just takes me a second at
+1:06 the beginning here because I got no one
+1:07 helping me dang it all right gonna share
+1:11 this to a
+1:12 group there we
+1:15 go
+1:19 cool um and this is looking okay I'm
+1:22 going to put the
+1:25 source just going to put the source
+1:27 address up here I mean this is the
+1:29 source finish es to pull
+1:32 from so I'm going to have to study these
+1:34 that's a pretty cool looking bathroom
+1:36 some interesting ideas there I really
+1:38 actually I love this I love this setup
+1:42 um I already did a quick browse through
+1:46 this
+1:49 and obviously we would say that you
+1:52 know I wouldn't I wouldn't turn down
+1:55 living in this home but I think we could
+1:58 improve upon the finishes and selections
+2:01 here I really don't like these stools
+2:04 there's a few other things I don't like
+2:05 I'm not a huge fan of the metallic
+2:07 subway tile um the Box Beams I think
+2:11 they could have done a better job on
+2:12 those box beams that's a real old school
+2:15 look um the way they box those sandwich
+2:19 those um and I think the lights take
+2:22 away a little
+2:23 bit just going to kind of keep this up
+2:26 on the screen one second I'm still going
+2:28 to share this post
+2:35 again
+2:38 bam okay let's get going let's get going
+2:41 so that's so this is a source project
+2:44 right this is what we take inspiration
+2:47 from and then we'll just do a little
+2:49 preview we can see here if you take a
+2:52 look at this and then let's switch it
+2:54 over to Chief and I'm going to rotate
+2:55 this camera just so we can see and you
+2:58 can see that the original designer you
+3:01 know we're definitely pulling pulling
+3:03 from this now my process when I'm
+3:06 designing is
+3:09 that um I have to first kind of put some
+3:13 textures on there to get the realism up
+3:16 before I can really see it right right
+3:19 now for some reason I have trouble
+3:22 visualizing anything in this space until
+3:24 I start putting in some textures that
+3:25 make sense to me I don't love this floor
+3:27 I think I'd get kind of free rain on on
+3:30 what I choose to put in here um so long
+3:33 as it's kind of following the
+3:35 brief
+3:36 and and then we'll do some edits and
+3:39 kind of edit it backwards I like that
+3:41 this is Stone in the
+3:43 source um
+3:46 image yeah and then I might use my shelf
+3:49 tools to make this easy
+3:53 um kind of maximize the time I have on
+3:55 this um a real quick edit would be to
+3:58 come in here and and just make this fire
+4:00 look a little bit nicer right so I'll
+4:02 just start with things like this and as
+4:04 I as I keep changing materials and
+4:07 textures and everything that kind of
+4:09 brings me to a place where
+4:12 um I start to just see the whole thing a
+4:15 little bit
+4:16 better so there we go kick the fire on
+4:19 let's start with
+4:22 that and let's throw some Stone on these
+4:26 walls let me just see what I've got in
+4:28 the library right now and and they're
+4:30 actually kind of doing like large Stones
+4:31 so I'm going to do I'm going to take a
+4:33 look at what stone I have in my catalog
+4:36 and so nothing really appropriate so
+4:38 we'll just go take a look at my tile
+4:42 um jump in with any comments any
+4:46 questions if you see something cool if
+4:48 you want me to stop and share some info
+4:50 about something let me
+4:52 know um a lot of times I'll just like um
+4:55 to paint this first with anything just
+4:58 so I can even see it
+5:01 and then it's easy to switch your
+5:04 material paint mode to a um full room
+5:08 painter mode where we're just
+5:10 replacing everything that has this same
+5:13 material so you only have to do this
+5:15 once to kind of set it up and then you
+5:17 can go from
+5:22 there and so this linear fire has like a
+5:26 little bit of like a casing around it
+5:28 which I don't really love the look at
+5:31 that something's kind of funny about
+5:33 that yeah I don't like it bet you we
+5:35 could build a better looking fireplace
+5:37 than this pretty
+5:41 quickly
+5:46 um
+5:50 yeah I mean I like the way this is built
+5:52 let's just go edit this why not so I'll
+5:55 just copy paste I'm going to do a new
+5:57 template from
+6:00 new plan from template so I use the
+6:02 residential template that way I don't
+6:03 even have to bother with deleting the
+6:04 stuff that's in my template and then
+6:06 paste hold there we go and we can pull a
+6:09 little camera view let's use the delete
+6:11 surface tool to kind of change this to
+6:13 what we want this would be a real fast
+6:16 little edit here so just delete that and
+6:18 this
+6:19 flange and that's a funny
+6:23 little funny little item here a lot of
+6:26 times what's helpful here is if you do
+6:28 the line over so you can see any kind of
+6:31 little things that you might have missed
+6:33 with the delete surface
+6:37 tool and then making sure that I'm
+6:39 painting
+6:41 anything um that I might want as a
+6:43 different component different setup but
+6:45 there we go that's pretty good so now
+6:47 let's reconvert this to a symbol and
+6:51 we're going to say yeah this is a
+6:53 fixture um in
+6:57 line nice I don't know
+7:00 what we're going to call it I'll
+7:01 probably rename it we're going to add it
+7:02 to the library press okay need to find
+7:05 out what the depth of this is 7 and 58
+7:08 and so if we look at
+7:10 this 7 and 58 okay um and so what could
+7:16 be
+7:17 interesting we don't even need that
+7:18 surrounding box honestly I don't need
+7:21 any of that stuff let me go back let me
+7:23 delete some more on this
+7:30 I actually want to make all this
+7:32 disappear I don't need any of
+7:37 it this is really helpful if you got a
+7:40 3D
+7:41 mouse very very easy to kind of pan
+7:45 around this as
+7:47 you're doing stuff just remember that
+7:49 you can't update the 3D which means you
+7:51 can't PL place any new object in here or
+7:53 it's going to rebuild all the surfaces
+7:56 we just spent that time deleting
+7:59 also if you're going to do a line over
+8:01 turn that squiggle off and turn the line
+8:03 extensions off all right so now we can
+8:05 convert select it to symbol and
+8:09 then
+8:11 fireplace or linear fireplace whatever
+8:14 you want to call it and so we want to
+8:16 know that depth 6 and 58 so that we
+8:19 option inserts into
+8:21 wall 6 and
+8:24 58 and then you want to be able to
+8:27 stretch it so we're going to get into
+8:28 advanced side
+8:31 and um we don't want to stretch about
+8:33 the fire so we need to stretch on either
+8:36 side of the fire so we're just going to
+8:37 do two stretch planes in the width and
+8:39 it's probably going to be positive three
+8:42 and a half let's go
+8:44 six and almost 7.5 there we go so
+8:48 negative 7.5 be great if we had some
+8:51 kind of measuring tool within this
+8:53 dialog box and then the next thing is if
+8:55 we're going to stretch this in the
+8:57 height I'd want to get above these fires
+8:59 as well I think so the height of this
+9:02 thing is 13 in so we'll just say it's 10
+9:04 in is where our stretch F remember this
+9:07 is a like an Infinity stretch plane so
+9:09 it just stretches about that plane
+9:13 um and let's see do we need anything in
+9:16 the depth no not really and then do we
+9:19 need to edit the wall cut out no we
+9:21 don't okay so that all looks correct 2D
+9:25 symbol I just like to set this to always
+9:27 I don't know why it's not just always
+9:30 um from the beginning in case you're
+9:32 resizing reorienting changing something
+9:34 and then now we could come back to this
+9:37 and hover over and in our edit toolbar
+9:39 choose toggle replacement mode and it
+9:41 should be able to just
+9:45 replace there we go yeah that looks a
+9:48 little Slicker I like it um could
+9:51 probably size it up a little
+9:54 bit when you're in 3D and you're trying
+9:57 to move something in a line your
+9:59 direction you could start clicking and
+10:01 dragging and holding shift I believe is
+10:05 what kind of helps keeps snaps in place
+10:08 but what's even better than that or you
+10:10 could hold
+10:11 alt but I just like right click right
+10:14 click and drag that'll just drag it in
+10:18 in the direction that you're dragging it
+10:20 orth
+10:22 orthogonally it's crazy how many terms
+10:24 you got to learn just to use the
+10:26 software
+10:27 right all right let me go go take a look
+10:29 at that Source image can yeah it's a
+10:31 much
+10:32 bigger in your fireplace so it's
+10:35 concentric resize it would be nice if I
+10:38 picked my tile so that it's not that I'm
+10:40 going to size the linear fireplace to
+10:42 the tile but maybe I size the tile to
+10:44 the linear fireplace who knows um so
+10:48 yeah we'll drag this out now we're
+10:49 testing those stretch planes it should
+10:51 stretch in between these little fire
+10:53 guys and not a whole lot you can do
+10:55 about that that's what you're stuck with
+10:57 unless you used a single
+10:59 plane which would be a lot
+11:03 better so let's go back to
+11:06 this if I'm going to do something I want
+11:09 to do it and do it right and don't want
+11:11 to have to come back to it again I'm
+11:13 going to zero out all these this time
+11:15 because that's what I said you probably
+11:17 should
+11:18 do that'll make all those squiggly bits
+11:21 go away you could just switch to a
+11:23 vector view which would also work but
+11:26 here's what I'm thinking is I'm just
+11:29 going to take our face
+11:31 tool and make this really easy on
+11:34 yourself delete surface that guy that
+11:36 was in the
+11:37 way um in fact we could delete anything
+11:39 that's in the way all these guys why not
+11:43 and so what I'm going to do is I'm going
+11:44 to use the face tool and I'm GNA um kind
+11:47 of get in
+11:49 here
+11:51 click let's see click
+11:54 drag and this starts drawing a face and
+11:57 I want to snap to these elements and
+11:59 then double click at the end there we go
+12:02 so I got a single face here and I'm
+12:04 going to end up applying a fireplace m a
+12:07 fire material to that let's see what we
+12:09 got here that way when we stretch this
+12:12 it stretches the fire there's no gaps in
+12:15 between
+12:18 um so what do we got here something like
+12:22 that let's switch back to
+12:24 this that's an okay one let's try this
+12:29 there we go that's a lot better I'm
+12:31 liking that so now back to delete
+12:33 surface tool get rid of these
+12:37 things we're doing one more one more
+12:40 shot at
+12:46 this I want to note something about this
+12:50 we're obviously going to save this to
+12:51 the library but the other thing that you
+12:52 could do instead of saving it to the
+12:55 library is you could export this as a
+12:58 3DS
+13:00 object and what would happen is um it
+13:04 actually would change the way it's UV
+13:09 mapped and a number of other things
+13:12 which sometimes could be beneficial and
+13:14 then you would just go to the symbol in
+13:15 the library and in the 3D panel choose
+13:18 to replace the geometry and import that
+13:21 3DS that you exported and so that would
+13:23 re UV map um that symbol which is kind
+13:28 of a crazy little feature
+13:30 all right so here we go convert
+13:33 selected yep yep yep let's try this all
+13:36 over again always 3D is nothing okay uh
+13:41 options inserts into wall and six and
+13:47 58 and then Advance sizing two stretch
+13:51 planes we say 7 and
+13:54 half- 7 and2
+13:57 bam oh sh shoot what did I do wrong
+14:01 there forgot to select the
+14:05 face so you kind of want to
+14:09 grab I can't grab the face where's that
+14:15 face there it
+14:17 is let's just architecturally block
+14:20 these there we
+14:24 go mistakes mistakes were made
+14:32 and I'm just mainly deleting this
+14:33 because I don't need to see it in terms
+14:35 of CAD blocks and it's just adding
+14:37 surface count that we don't need to show
+14:41 so there we go now we got this
+14:43 architectural block it should come in
+14:45 with
+14:53 that orientation is wrong because we
+14:56 blocked it so we got a rotate about the
+14:59 Z there we go that's facing the right
+15:01 way now and
+15:11 then what are you laughing
+15:14 at you laughing at
+15:17 me you laughing at
+15:22 me uh let's see what do we
+15:26 got one more time one more time
+15:32 and height was what
+15:34 10 all
+15:47 right there we go now we can size it up
+15:51 and Fire won't look too
+15:56 bad could have put that stretch plane in
+15:58 the middle of the fire that would have
+15:59 been
+16:01 something all right let's see if what I
+16:03 can do about these shelves we'll just
+16:06 try it on one side that way if I screw
+16:08 up we can flip it about the other side
+16:11 so I have a tool that takes a wall
+16:14 cabinet and in my library over here I
+16:18 should be able
+16:19 to choose
+16:22 painter and countertop
+16:25 shelf and get to yep
+16:30 something that paints a
+16:34 shelf there we go and then show in
+16:38 folder let's see the rest of the
+16:42 system I think I needed to fix this
+16:44 system but I don't know maybe it's
+16:46 working
+16:46 right got a couple different shelf
+16:49 options
+16:51 here slab Shelf looks like the option so
+16:54 these are just cabinet doors believe it
+16:56 or not so we just get to hover over this
+16:58 section and replace it and it's just a
+17:00 cabinet door um it's kind of a trick
+17:05 oops I clicked on the
+17:13 L1 so that replace the cabinet door and
+17:16 we have items on the Shelf
+17:22 cool and bumps turned on f11 key for
+17:27 me means I just get to bump this to the
+17:30 end and because this is a
+17:33 cabinet it's not actually a shelf it's a
+17:36 cabinet um I could come in here and
+17:38 split face items because I set these up
+17:41 to be 30 in and 15 inch so that they
+17:44 were easy to trade out so you just come
+17:46 in here select this item split
+17:48 vertically and now you got two shelves
+17:50 one should be roughly 30 in the other
+17:53 one other side should be roughly 15 so
+17:57 got to kind of split the difference
+17:59 there we go and now I can find another
+18:02 shelf item that's a 15inch shelf item
+18:04 for my
+18:05 system for which I have a lot in here
+18:08 that does that in terms of items oh
+18:12 we're missing some textures on some of
+18:15 them and
+18:18 so we'll pick
+18:21 one something like that right so we can
+18:24 replace the
+18:25 component there we go really quick shelf
+18:32 and since now this is set up you should
+18:35 just be able to drag this up and do
+18:37 whatever with it I think that this these
+18:41 shelves should complement whatever Stone
+18:43 we end up putting on the fireplace
+18:45 itself I don't like this Stark black
+18:48 contrast I don't think it added to this
+18:50 at all in fact I think it's distracting
+18:52 I see the shelves before I see anything
+18:54 else
+18:55 um the other thing is be nice to have a
+18:58 little recess on the TV I'm going switch
+19:00 to just standard rendering mode so we're
+19:01 not waiting for this thing to
+19:04 render and then we'll do a
+19:06 little
+19:10 niche maybe maybe
+19:13 not what's the hold up
+19:17 Chief boy that was a
+19:20 slow slow little transition
+19:24 um have a niche tool
+19:28 I made my own I forgot about
+19:32 that and that didn't insert into the
+19:35 wall let's try it up
+19:38 here there we
+19:40 go
+19:47 okay I really don't like TVs above
+19:50 fireplaces I think I've said this
+19:55 before not my thing so if I'm going to
+19:58 do it I typically drop this TV as low as
+20:01 possible so let's just drop this down I
+20:04 centered it on the TV so we just get to
+20:08 size it concentrically left and
+20:11 right leave a little bit of a gap
+20:15 bam and then use the select next side
+20:19 tool to get this over to the side and
+20:22 then right click to drag straight down
+20:24 and right click to drag straight back
+20:27 and bumps are turned on so I got to turn
+20:28 them off real quick here we
+20:33 go and that's looking pretty good turn
+20:36 bumps back
+20:38 on and why are we putting the weather on
+20:41 there I haven't found the perfect TV
+20:45 texture like what should be on there um
+20:49 I think I do have
+20:51 a a Netflix Oh I have a Netflix stranger
+20:54 things that's an interesting one and
+20:57 then kick the light on on this LCD
+20:59 monitor
+21:00 250 and set the stretch to
+21:07 fit it's kind of a funny one actually
+21:11 we'll see what that looks like when it's
+21:12 rendered out
+21:22 but also might try lining these shelves
+21:25 up on the tile in a in a good way once
+21:27 we figure out what tile that is um so
+21:30 you can always do copy paste and pull up
+21:32 with the right click and so that still
+21:35 binds this um in a plane right
+21:39 orthogonally orthogonally gota keep
+21:41 saying that to
+21:43 myself and then what's this is this a
+21:46 countertop sure is so you could add a
+21:49 eased molding to this countertop or oh
+21:52 no this is a
+21:53 solid so because it's a solid I'm going
+21:56 to just do a little a little fillet a
+21:59 little quarter inch fillet 3D all is the
+22:02 tool we're going to
+22:04 use that'll soften this up a little
+22:07 bit and so that'll look nice when we go
+22:09 to render and then let's trade out some
+22:12 of these items on the
+22:16 Shelf component mode
+22:24 bam let's get a little crazy with it
+22:29 I'm in the 15inch item so now we switch
+22:32 to the 30inch
+22:36 items and
+22:38 so I need to add to these
+22:42 systems um I could use some more some
+22:45 more stuff especially some more decor
+22:48 items I
+22:53 think because we got to do a whole
+22:55 another side here too I also think it'd
+22:57 be really interesting to put something
+22:59 in the in the back here there
+23:01 opportunity to put some kind of pattern
+23:03 or something especially if we go really
+23:05 um what if we just went all Stone
+23:08 here so I'm going to make a copy of this
+23:11 material and so that
+23:14 retains our ability to paint the
+23:17 fireplace separate from everything else
+23:19 if we use the room mode so if we make a
+23:21 copy of the material that's an easy
+23:23 process um and we're not doing quantity
+23:26 takeoffs so that shouldn't be a problem
+23:27 so now I go room mode paint this out but
+23:31 technically it's a different material so
+23:33 we could change this easily again and
+23:36 then let's
+23:37 go maybe try a
+23:43 wallpaper and I'll just throw one in
+23:45 there maybe we even use the backplash
+23:50 tool and just paint in here
+23:59 going to Chief Architect headquarters
+24:01 next week and one of the things I want
+24:02 to talk about is just
+24:04 optimizing optimizing the software um
+24:07 see how this is automatically cutting
+24:09 around my wall cabinets and I mean
+24:11 that's by intent that makes sense so you
+24:13 would just place it first and then bring
+24:16 it down and it won't
+24:19 cut little bit easier what's nice about
+24:23 my backsplash tool versus this one this
+24:26 is not my plan template so it's someone
+24:28 else's template so if they were using my
+24:30 plan template I actually have a grout
+24:32 material behind the backsplash and
+24:33 because we have translucent and
+24:35 transparent materials now with um
+24:38 cutting masks or or masks in general you
+24:42 can make um tile that has some
+24:45 translucent elements and some that are
+24:54 not so going to need some light in this
+24:57 area
+24:59 I think I want to drop in the source uh
+25:01 material I mean excuse me the
+25:03 source source
+25:07 project what do we have
+25:12 here let's go take a browse through
+25:15 again yeah so we've got these faux beams
+25:18 here maybe we throw in some beams in
+25:20 here as well I don't like this but you
+25:23 know what I got to start
+25:25 somewhere okay so what is this this is a
+25:27 solid
+25:29 let's just throw a beam material in here
+25:31 and I actually think I want to just I
+25:33 don't want the crisscross I want to go
+25:35 straight
+25:39 across pick one of my beam materials
+25:42 object mode
+25:51 bam and so let's narrow this up easy
+25:54 enough to click and drag this snap it to
+25:57 itself or bump it to itself and then
+26:00 subtract what 7 and 1/2
+26:03 maybe so 7 and 1/2 inch
+26:07 beam Center it up on the room oh I did a
+26:13 did a boo boo there
+26:38 I love when they added the preview of
+26:41 where your object ends up once you've
+26:47 completed the action that you're
+26:50 doing I actually think I want to rotate
+26:53 this the other direction so it's going
+26:55 out and also that kind of makes sense
+26:59 anyways
+27:00 structurally we're picking up on this
+27:02 wall that could be a load bearing wall
+27:04 honestly I haven't studied this at all
+27:06 so I don't
+27:08 know I got an hour so don't even need to
+27:12 consider those things so let's just use
+27:13 the new reflect about and we should be
+27:16 able to reflect especially if we just
+27:17 pick up the bottom here there we go bam
+27:21 flipped it 90 degrees super easy with
+27:23 that new tool
+27:29 and then let's bring it inside the
+27:30 bounds of course because this is a solid
+27:33 um it behaves differently depending on
+27:36 which direction which polar Direction
+27:38 you are with it and then there we go
+27:40 we're using bumps because I stretched it
+27:42 inside of whatever this is maybe these
+27:45 are sofits maybe it's a tray ceiling and
+27:47 depends on what the um primary design
+27:50 technician used then you could just bump
+27:53 to that object really easily and let's
+27:55 Center this up on the exterior door
+28:00 um this is a
+28:02 house this is a house but I don't know
+28:04 what the structure of this house is and
+28:06 I am not going to take the time to
+28:07 consider it I'll let
+28:11 them I'll let them take that out and the
+28:13 edit what did I just do I did inspect
+28:16 mode on my streamyard dang
+28:18 it now I can't see
+28:23 anything there it goes all
+28:27 right uh um and so because
+28:30 our grain orientation is
+28:33 wrong I still haven't made myself a beam
+28:36 for some reason I have no idea why um
+28:40 and what is this this is what is this
+28:43 made
+28:44 of oh it's a sopit I don't like using
+28:48 sofits for Beams I like I prefer the
+28:50 solids because you can't do anything you
+28:51 can't explode on nothing so I'd rather
+28:56 do just snap to this
+29:01 corner bring it in bring it up snap to
+29:04 bump to that there we
+29:08 go and
+29:10 then pop it to
+29:13 itself - 7.5 now we
+29:18 got now we got it and then I would
+29:21 probably just bring this up half an inch
+29:29 has a lot of fireplaces I've only seen
+29:31 one did you see another
+29:34 one right 7 and half 7 and half 7 and
+29:37 half by 7 half that's a weird one let's
+29:39 go 0 five up or maybe 58
+29:44 up the amount of time you have to spend
+29:48 making a beam in Chief Architect is kind
+29:49 of crazy I mean I guess I could use a
+29:52 framing member
+29:55 instead I don't know why I don't
+29:58 have any reason not
+30:14 to and let's get rid of the S but let's
+30:19 paint it with
+30:20 my solid paint the solid first
+30:28 so same problem only this time I'm going
+30:31 to I'm going to just chamfer an edge
+30:33 that'll make
+30:35 less um poly count so set champ for
+30:38 quarter in
+30:40 sure and then let's just do
+30:47 all and then let's explode
+30:56 it and
+30:58 then let's architecturally block
+31:04 it and now we'll make a copy of the beam
+31:08 material and rotate
+31:12 it and apply it component base just on
+31:16 the
+31:17 base and now we have a beam
+31:29 rid of the
+31:35 S and so here's something kind of funny
+31:38 that we could try let's take this and if
+31:42 we drag this to the point where it
+31:46 bumps and copy 188 and
+31:49 3/4 and
+31:51 cancel and then multiple
+31:54 copy and say that we want a to toal of
+31:58 four beams so we're going to make
+32:00 three
+32:02 copies and then left click drag out hit
+32:07 tab or enter and paste that
+32:10 188 I think that we get an even
+32:13 distribution of those beams
+32:21 cool all right there's
+32:23 something throw some lighting in here
+32:31 yeah this could get
+32:32 interesting and do we want to do take a
+32:36 nod from the beams into the
+32:39 shelves sure same thing we can make a
+32:42 copy of this
+32:44 texture
+32:46 again so that we can paint the
+32:50 shells and keep them separate in case we
+32:52 need to change the color of them very
+32:54 easily
+33:01 uh beam symbols in the object
+33:06 store you mean just Chief Architects
+33:09 stuff they've got a beam beam
+33:16 symbol and so if we type in
+33:19 beam typing in beam and now we're typing
+33:22 in um I'm assuming mill work or
+33:26 fixture milor or
+33:32 fixture so there's nothing in
+33:43 fixtures I don't know what this is what
+33:46 is
+33:48 this huh that's in some kind of
+33:53 manufacturer oh that's an engineer it's
+33:55 probably in Simpson really
+33:59 um I don't know tell me what you're
+34:01 talking
+34:05 about I actually you know what you said
+34:08 about using that for a cabinet David
+34:11 check this out I have something really
+34:13 cool in my um in my
+34:16 library it's in the beta section of my
+34:20 library started developing at one of
+34:22 those classes I teach in uh North
+34:25 Carolina so shop beta St f post system
+34:29 Dynamic hyola so this an architectural
+34:32 block but check this thing out it's kind
+34:34 of
+34:37 cool um this is because you mentioned
+34:41 cabinets this is a cabinet that is right
+34:44 there so if we drag this over you can
+34:47 see this top piece is the countertop so
+34:51 like if we had some way of um like use
+34:54 the trim tool to just snap to the end
+34:57 here and
+34:58 then oh really that not work okay what
+35:03 else could we use to gather distance for
+35:05 something I guess that yeah 51 and 58 so
+35:09 if I take this and I
+35:13 elongate the
+35:15 overhang 51 and
+35:17 58 right there we go joins isn't that
+35:21 funny so this is all these are
+35:24 replaceable components so you can
+35:26 replace the type of Hardware here just
+35:29 by clicking on it because technically
+35:31 it's a cabinet door
+35:34 um see that's a cabinet
+35:37 door showed people in my advanced class
+35:40 how to build this out and so you got a
+35:42 dynamic post base system that's
+35:45 adjustable Etc so I think if you drag
+35:48 this up it should not stretch those
+35:50 bottom bracket tree
+35:52 right yeah pretty wild and then this is
+35:55 just the molding so you can continue
+35:57 this
+36:01 molding see what happens when we turn it
+36:03 this way
+36:04 yeah pretty
+36:19 wild nice oh you have my you have some
+36:22 of my stuff very cool I love KN that
+36:25 it's really hard to track when people
+36:27 have things and um I love hearing about
+36:30 that all right I'm really curious what
+36:31 happens when you take this wallpaper and
+36:33 put it in this recess in the
+36:35 ceiling just like
+36:39 seeing like what happens to the space
+36:42 see I like
+36:44 that I like
+36:49 that it's not it's not for the brief
+36:52 though here but I bet you I can make
+36:55 something like that work
+36:58 it's yeah okay interesting so what if we
+37:01 put
+37:05 in if we did this
+37:17 instead interesting but I have to bring
+37:19 this back to that real modern
+37:21 feel see what happens when we change out
+37:24 the floor
+37:32 a good flooring texture can make all the
+37:42 difference okay I got it
+37:51 now all right we need some lights up in
+37:53 this bad
+37:55 boy let's come back first floor plan
+37:58 roof plan floor plans first oh
+38:00 interesting no safe plan view
+38:02 for let's just make a electrical right
+38:06 well let's just switch to electrical set
+38:09 and save and and oh what's a what's a
+38:14 code for electrical I'm out of date on
+38:17 those codes 16 16
+38:24 electrical um we did have some lights in
+38:26 here
+38:28 I didn't see lights
+38:34 though oh there there and they're just
+38:36 not turned
+38:53 on okay so this is too blocky and choppy
+38:56 so we're going to take this back
+38:58 to I'm G to change this I don't like the
+39:03 stone fire that we us so let's get into
+39:07 my tag system here countertop shelf
+39:11 material and let's go
+39:14 kitchen and clear Rd
+39:22 floor yeah
+39:46 um so kind of my process when I'm
+39:50 looking at designers I'm really just
+39:52 looking at color pallets and textures
+39:56 and material and I like to look at I
+39:59 like to Envision I need to learn how to
+40:01 use my markup tool on the screen I like
+40:04 to Envision and squint my eyes and see
+40:06 what color blocks do I see what pops out
+40:08 and what am I trying to direct people
+40:10 towards right what do I really want them
+40:12 to see when they're looking in here and
+40:14 because we have so much blocking in here
+40:16 meaning that we've got really strong
+40:19 linear structure architectural structure
+40:22 everywhere here so many squares I kind
+40:25 of need the material then to to make it
+40:28 blend and feel cohesive and you could do
+40:30 that with the right Decor right um or
+40:33 you could do it with the right finishes
+40:36 or lighting any combinations of those
+40:38 things so I just like to play for a
+40:40 while until I see something that kind of
+40:44 Pops like how crazy would it be to kind
+40:47 of Kick this in a different direction
+40:49 and go where we're like turning this
+40:52 whole back wall into something very dark
+40:55 right so we could do a dark slate
+40:57 something and then come in with a aile
+41:00 as a backer and go dark so I just like
+41:03 to goof around with that stuff until I
+41:05 start finding stuff that I find to be
+41:10 interesting and then from there it's
+41:13 it's
+41:21 picking like this isn't going to make
+41:24 any sense but it's close to what I was
+41:26 thinking in terms of
+41:27 like we're we're changing the
+41:31 whole dynamic of this back little area
+41:34 here just by changing the color
+41:46 palette you use parallel lines to make
+41:49 smaller rooms look larger in One
+41:52 Direction if they are unbroken okay
+42:00 like is this interesting I kind of like
+42:03 that this Stone pieces at the
+42:09 bottom somewhat breaks
+42:15 up like creates almost like a floating
+42:18 effect but at the same time why are you
+42:20 going to put this ledge here above the
+42:23 fireplace and have a ledge below
+42:28 like I wanted to just have
+42:32 one and I almost feel like it'd be
+42:34 pretty cool and dramatic to I like this
+42:37 shelf right here so I'm gonna um I'm G
+42:39 to ditch one of
+42:41 these ditch this one I'm going to try
+42:44 see what happens when we bring this up
+42:46 and I almost want to make it um be
+42:50 aligned on the front
+42:52 edge show you what I mean in just a
+42:54 second here
+42:57 oh and then I have to end this in about
+43:00 10
+43:00 minutes I got a little a little call I'm
+43:03 going to be on
+43:05 here work on some
+43:10 training if anyone knows didn't know I
+43:14 do
+43:15 training sometimes people don't know
+43:20 that let's see what' you say David
+43:25 um to me that ceiling shrinks through
+43:28 and doesn't lead you to the fireplace uh
+43:30 okay yeah I get
+43:35 that so what happens when we bring this
+43:38 up and clear this shelf so I'm not
+43:40 running into
+43:44 bumps it's crazy how drastically
+43:47 different things
+43:48 can be with just a few edits
+44:00 have the opportunity to throw a big
+44:01 floor plant in over here now and that's
+44:05 lifted and oh I can't bring this out
+44:08 because the door is so close that's too
+44:12 bad hate this hate hate it hated it
+44:31 yeah you said it doesn't lead you to the
+44:33 fireplace and I am in
+44:44 agreement kind of same with the just
+44:45 even the flooring directions off
+45:03 I kind of like this big
+45:05 Stone but
+45:08 just in the shelves themselves I wonder
+45:10 if I can make these shelves have a
+45:13 fatter
+45:15 shelf since it's a cabinet door I think
+45:18 I can yeah I can so that's
+45:22 easy let's make that a stone
+45:47 G get rid of that for now
+46:00 man you can burn some time on doing a
+46:02 little bit of
+46:04 Design This Hour went by
+46:25 fast for
+47:01 okay David let's check this going out
+47:03 the other way
+47:09 now um and so I should just make this
+47:14 like you said into a beam material
+47:18 except for boy you rotate it and because
+47:21 it's a solid it does that goofy thing so
+47:23 let's just make
+47:25 this fixture no I don't really wanted a
+47:27 fixture Furnishings fixture mill work M
+47:33 work okay oops beam grabs beam what
+47:39 that mil work show Advanced
+47:43 options um doesn't need a stretch plane
+47:46 but it does need to be
+47:49 rotated there we
+47:51 go
+47:53 and shouldn't be any other sizing
+47:57 General panel from ceiling it's a roof
+48:00 beam so zero
+48:03 inch Bing Bang Boom he yeah okay
+48:18 fine H and it still rotates the texture
+48:21 isn't that
+48:25 annoying think you just get to pain in
+48:27 as one texture when you add it to the
+48:29 library it no longer does that um
+48:32 rotation thing so it just gets to be one
+48:35 texture
+48:38 now yeah exactly
+48:41 okay and wait is this the oh that's not
+48:46 my symbol where's my symbol
+49:08 um yes and I think what would be more
+49:11 compelling is this this view so this is
+49:14 to me more important than this one
+49:15 you're not going to look up the ceiling
+49:16 you don't have enough room to look up
+49:18 the ceiling coming around this corner
+49:20 right I think you're were right and that
+49:21 it needed to
+49:23 go needed to go that other direction all
+49:26 right so let me get rid of these guys oh
+49:29 there's my beam
+49:38 ha he not quite on the ceiling like he
+49:41 should be there he
+49:52 is that should bump yep perfect
+49:59 bump y
+50:03 perfect and same trick is we can just
+50:07 right click drag to
+50:13 bump 149
+50:16 cancel
+50:20 bang 49
+50:32 um don't like those back textures need
+50:35 to get some furniture in
+50:50 here what self do I have that or the
+50:55 dang that thing look so tiny
+51:02 crazy modern
+51:06 look let's just get real rug in
+51:13 here yeah the more I add the more I just
+51:16 this all starts to make sense to me once
+51:18 I start adding it all in
+51:42 not much of a living
+51:55 room for
+52:26 give a look real quick
+53:07 I really do I really do you know what I
+53:10 have one over mine in my room in my
+53:12 house it really was the only place that
+53:14 made sense it's absolutely a code
+53:16 violation the way I have it installed um
+53:19 I'm okay with it I've taken on the risk
+53:22 and it looks fantastic and it um
+53:25 functions well because I've got a
+53:26 chaseway that goes to a big um data
+53:29 store underneath my staircase um so I
+53:32 know there's like exceptions to the rule
+53:35 but on the whole I don't like it
+53:38 ergonomically this is just nightmare you
+53:45 know all right this is going somewhere
+53:48 um this is not where it's going to end
+53:50 up but I just like it's I can start to
+53:54 see it now
+53:57 it's got to be cozy you know that's a
+54:01 big part of it and then just even little
+54:04 things like I might just open this
+54:07 up and let just pick that it's going to
+54:10 be something like percent open is going
+54:13 to be like let's go
+54:16 20% open and then we can show it open in
+54:21 3D there you go and maybe You' put
+54:27 well they don't the way this is designed
+54:28 there is no room
+54:30 for um
+54:33 curtains if you wanted curtains here so
+54:36 if you're really right on the
+54:38 water depending on which exposure you
+54:40 got here that's pretty rough to watch TV
+54:42 in the daytime when you can't block your
+54:45 block the light out of
+54:48 that yeah I don't know some it's getting
+54:50 cozy something's happening I'm going to
+54:53 change all these finishes but it's just
+54:55 get me an idea
+55:05 yeah yeah we'll get there all right I
+55:08 gotta end the stream time for me to go
+55:10 do the next thing
+55:26 yeah I think it's getting there um it's
+55:29 crazy what happens when you start adding
+55:31 some stuff in so all right hey thanks
+55:34 for um talking to me I always like the
+55:37 engagement very
+55:39 cool take care

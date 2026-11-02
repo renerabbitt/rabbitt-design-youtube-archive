@@ -1,0 +1,2071 @@
+---
+videoId: 3zqfWc2wcj8
+title: Stop Making These Common Chief Mistakes - Part 2 - Designers Show #169
+url: "https://www.youtube.com/watch?v=3zqfWc2wcj8"
+status: imported
+---
+
+# Transcript
+
+0:00 I think we're live.
+0:01 Hello, everyone. Dan here from Chief
+0:04 Experts along with our good friend Renee
+0:06 with rabbitdesign.net
+0:09 and good old John Trader with John at
+0:13 imagindrafting.com.
+0:15 Or just imagine-
+0:17 com.
+0:18 >> whoa, whoa. There's Robin.
+0:19 >> And it's our favorite Robin. Hi, Robin.
+0:21 >> Oh, thank you guys. Hi, good morning.
+0:23 How is everybody? Everybody, I think
+0:25 we're all I think we're all great.
+0:28 >> Yeah.
+0:29 I checked this, but This is what I wish
+0:31 >> cool to hear how many people are
+0:32 thinking of going Oh. That's for
+0:35 >> Dan, that just sucks.
+0:36 >> That's from our patio that we spent 5
+0:38 days at. Um Yeah, you're not being very
+0:41 nice.
+0:42 >> Oh, come on.
+0:43 >> kind of things.
+0:44 >> you something to shoot for.
+0:45 Um, yeah, that was
+0:47 >> [clears throat and laughter]
+0:47 >> that was on Kauai in Hawaii. We just got
+0:49 back last night, so after 18
+0:52 >> How long were you there? We were there
+0:54 just How long were you there? Last
+0:56 Friday, we got there last Friday night
+0:57 and came back last last night. So
+1:00 >> Nice.
+1:00 >> Not not long enough, but but long
+1:02 enough, too. It was just really a
+1:03 wonderful getaway. So, I really enjoyed
+1:05 it. So, I recommend it everybody. If you
+1:08 want a great place to stay text me or
+1:11 call me and I'll tell you where this
+1:13 place was that I was we stayed at. It
+1:15 was really quite nice.
+1:17 Dan, you should do a Chief class in
+1:19 Idaho in there. We should do a Chief
+1:22 retreat.
+1:23 Yeah, we did that 7 7 years ago, I think
+1:26 it was that we did it. I did a Chief
+1:28 class there. And I think I had a dozen
+1:30 people or 10 people, something like
+1:32 that. It was a small group. We had a
+1:33 wonderful time.
+1:34 >> three too few. That's what I remember.
+1:36 >> [laughter]
+1:39 >> And then
+1:40 >> like fun, though. Andrew came out, we
+1:42 spent the week out there. So, it was a
+1:44 Yeah, it was really nice.
+1:45 >> Um
+1:45 Dan, we should ask how many people are
+1:47 thinking of going to Idaho this summer.
+1:49 It'd be really cool to plan like a
+1:51 get-together with some people if they're
+1:53 thinking of going to Idaho.
+1:55 If anybody is planning on it, let us
+1:57 know. It'd be great to know. We'd be
+1:58 able to see you.
+1:59 >> Yeah, we'll put out some I'll put out
+2:01 some messages about that. And we always
+2:03 get together on Tuesday afternoon. So,
+2:04 if you can get there Tuesday morning by,
+2:06 you know, 1:00, [snorts]
+2:07 we always spend Tuesday afternoon on the
+2:10 main street in downtown Coeur d'Alene um
+2:14 having dinner and chatting. So, we've
+2:16 done that now. I'm going to use a We've
+2:18 done that, John, 4 or 5 years in a row?
+2:20 Ever since I've been going. Yeah, it's
+2:22 I've been there
+2:23 >> Ebony says she's going to go, that'll be
+2:24 so much fun to see the beautiful Ebony.
+2:26 Always can't get enough of that woman.
+2:29 Yeah. Cool, Ebony. It'd be fun to see
+2:31 you again.
+2:32 Coeur d'Alene
+2:33 >> What's
+2:33 Oh, okay. Yeah. Yeah. Yeah. through the
+2:36 Chief thingamajigger
+2:38 that we always go to.
+2:40 Isn't that what it's called, the
+2:41 thingamajigger? Yeah.
+2:42 >> what it's called, yeah.
+2:43 >> Um, yeah. I think that's the technical
+2:45 term, Dan. Yeah.
+2:47 But anyway, welcome everyone to our
+2:48 show. Thanks for being here. And we're
+2:51 [snorts] going to just
+2:52 you guys have added some questions to
+2:54 our sheet. We were I've got this up to
+2:58 um looks like about
+3:00 61 [snorts]
+3:01 questions or comments, but that some of
+3:03 those we answered last week and we'll
+3:05 probably do this again next time. So,
+3:07 this is really a lot of fun and
+3:10 just finally getting the hang of the
+3:11 hang of how to go through this and
+3:13 organize it properly. So, it's a it's
+3:16 really cool. You know, in fact, let me
+3:17 just let me just show you what I'm
+3:19 looking at. Let me share my screen and
+3:23 pull this up here. What was that, Robin?
+3:26 Oh, no, I was going to ask you to share
+3:27 the list again, but I have it right
+3:28 here. Yeah, you should
+3:30 um you should have two of them. One
+3:32 would look like this one, which is going
+3:35 to have colors and things on it, which I
+3:37 just set this cuz we got back, so our
+3:39 flight got delayed and cost us about 8
+3:42 hours of travel yesterday.
+3:45 We were awake for 38 hours straight. Um,
+3:49 it was a long time.
+3:50 Anyway, we made it back safely and we
+3:52 got a great night's sleep last night.
+3:54 Um, but this is what we're looking at.
+3:56 So, the green is things we've already
+3:58 covered. Uh the blue is just general
+4:01 discussion of things we can talk about
+4:03 and the yellow is things we want to talk
+4:05 about. So, as you can see, there's a lot
+4:08 of things on this list, which I
+4:10 seriously haven't had time to go through
+4:12 cuz I just started looking at this about
+4:13 an hour ago.
+4:15 And um
+4:16 but we've got a lot to talk about. So, I
+4:18 did prepare something, so I'll just jump
+4:20 into it. But before I jump into that,
+4:23 let me pull this let me leave that up
+4:25 here.
+4:26 Uh let's just go over to uh
+4:29 good old Chief Experts again and just
+4:31 keep in mind we've got a couple of
+4:32 classes coming up. Got one here in April
+4:34 in Bloomington. So
+4:36 we've done a bunch of these here in in
+4:38 right here in the Twin Cities. It's a
+4:40 It's It's a 5-minute Well, we'll give it
+4:42 a 10-minute shuttle ride from the
+4:43 airport. It's a free shuttle. You land,
+4:45 you hop on the shuttle, get to the hotel
+4:48 and you're there. That's where we're
+4:49 doing the training right there. Um, we
+4:51 get some great rates on the hotel. I
+4:54 think it's $129 a night for It's a nice
+4:57 It's a nice little hotel. It's a Hampton
+4:58 Inn.
+4:59 And they really do a good job. So, John
+5:03 and I will be teaching a class there in
+5:06 April. And then we're moving to
+5:08 Rockville in May. And
+5:11 we get some really good response on
+5:12 those classes. The class we did
+5:15 I think [clears throat] this one was
+5:16 from last year, wasn't it, John?
+5:18 This looks about right. We had a really
+5:20 good We had a great turnout. It might
+5:21 have been the year before, but this
+5:23 would be our third year in a row going
+5:24 back to this. It's um it's it's um
+5:28 sponsored by uh the pro professional
+5:31 remodeling organization there out east.
+5:34 And it is
+5:36 again, the same format we always do.
+5:38 It's a First 2 days are
+5:40 and a beginner intermediate where we
+5:42 really dive into the software. The next
+5:44 2 days after that are um
+5:46 uh more intermediate advanced. We kind
+5:48 of continue on into more of the program
+5:52 and or you could take all 4 days. So,
+5:54 it's really been a good format for us
+5:56 and it's really a lot of fun. So, about
+5:58 2/3 of the people will generally take
+5:59 all 4 days and but if, you know, if your
+6:01 time is tight and you just want to
+6:03 really brush up on Chief you know, take
+6:05 one of the 2-day classes. And um it's uh
+6:08 put on by uh Ferguson. We're at a
+6:11 Ferguson facility, I should say. And
+6:13 then Daniel there always brings in uh
+6:17 sponsors that will give us lunch and
+6:19 it's really cool. So, um
+6:22 It's a It's a nice little event. So,
+6:24 Well, Dan, it's a fundraiser, too, for a
+6:26 certain group. So, if anybody's out
+6:28 there that has a group that they're a
+6:29 part of that wants to sponsor a training
+6:33 we'd be open to that, too, right?
+6:35 Well, yeah, I mean, we do give a a
+6:37 proportion of the proceeds to
+6:39 professional remodeling organization
+6:41 there because they're
+6:41 >> fundraiser for them. But part of it is
+6:44 they're promoting it, too, to their
+6:45 people. So, that's part of the reason
+6:47 why we can afford to do that. So, um
+6:49 they're bringing people to our class.
+6:52 So, if you've got an organization
+6:53 >> providing they're providing the space
+6:55 and they're providing the food and that
+6:56 kind of stuff, so that helps, too. It
+6:59 Yeah, it all that helps. So,
+7:01 so it works out really well for
+7:02 everybody. It's a win-win for everybody.
+7:04 So, we have a great time doing that. And
+7:06 then again, our Pro Academy, we're still
+7:08 going strong there. We're having a great
+7:09 time. How'd it go this week, John? You
+7:11 were there Wednesday doing the doing the
+7:13 event?
+7:13 >> good. Went good. That two guys that
+7:16 asked most of the questions or
+7:18 interacted most.
+7:19 Tried to get a few more involved, but
+7:21 That's Yeah. That's all right. Um, that
+7:23 happens. And you know, it always spurs
+7:26 spurs great conversation. So, Mike said
+7:29 I sent him home with homework without
+7:31 giving them homework, so
+7:33 >> [laughter]
+7:34 >> Uh yes.
+7:36 Sometimes these things we do
+7:39 prompt more questions than answers. Or
+7:41 they provide answers, but then it
+7:42 prompts some more questions. So, that's
+7:44 kind of what we do.
+7:45 >> and Dan, I got to do that to my my stuff
+7:47 now. Exactly. [laughter]
+7:50 Yeah. Yeah. Anyhow, let's move on. Guys,
+7:54 thank you and thanks for being here. And
+7:56 let me just start with one of the
+7:57 questions that
+7:59 um uh is on the list. This is actually
+8:01 from last week's list from Rebecca. She
+8:03 asked about creating parapet wall
+8:05 parapet walls to disguise a low-sloping
+8:08 roof. It's difficult. All right.
+8:12 No, not really. Um, so here's [snorts]
+8:15 the key to doing that. So,
+8:18 um
+8:19 the Oh, yeah, someone just commented
+8:21 about we And we do record all of our
+8:23 sessions, by the way, in the Pro
+8:24 Academy. So, if you do miss something
+8:26 it's always going to be there. And uh
+8:29 my software just announced this week I
+8:31 can do clickable time codes now.
+8:34 That's actually may not sound much to
+8:36 you, but it's kind of a big deal for me.
+8:38 So, so doing a doing a
+8:41 um
+8:42 a house with
+8:43 you know, exposed walls
+8:46 you know, parapet walls like this
+8:48 there's a little process you have to go
+8:50 through. Okay, so so this is a two-story
+8:53 building. Here's the second floor.
+8:54 Here's the first floor.
+8:56 And I know not
+8:58 you know, if it's a simple building like
+9:00 this, yeah, a piece of cake. Sometimes
+9:01 part of the building is this and some
+9:03 isn't. Uh but really the simple answer
+9:06 to this is create a second floor.
+9:10 Set the ceiling height in the area where
+9:12 you want your parapets to be at the
+9:15 ceiling height of the parapet. Now, you
+9:16 can grab these walls and pull them up
+9:18 and down and and you can reshape them
+9:22 just like any other wall after you've
+9:24 done it. Now, I see the uh
+9:27 for some reason the cap is not
+9:29 cooperating very well here. So, I might
+9:32 have to just use a molding polyline to
+9:34 make form that cap, which I do all the
+9:35 time.
+9:36 >> Dan, use the wall layers.
+9:38 Wall layer
+9:40 uh tool when you select the wall.
+9:42 The wall layer tool.
+9:44 >> It's the corner is not coming together
+9:46 right. Try using the wall layer.
+9:47 >> this
+9:48 um
+9:50 You got to click on the top of the wall
+9:51 to do that, I believe. That would be
+9:54 this one, right?
+9:55 >> Dark blue one there, right.
+9:57 The dark blue one.
+9:58 No, where'd it go? Oh, this one.
+10:02 And I can pull that layer out. Does that
+10:04 help? Didn't help. Still in work?
+10:06 Yeah.
+10:08 It's part of it is this wall here. I
+10:10 wonder if I pulled this wall up or down,
+10:12 but
+10:14 let's not worry about that right now.
+10:15 Let's just talk about the process of
+10:16 this. This is the easy cover. I just put
+10:18 a slab on top of it, done.
+10:21 And I could I've done things too where
+10:22 I've just done the slabs. You just make
+10:24 them like that. Could be a molding
+10:26 polyline. Could be a slab that you draw
+10:28 in shape like that. Really easy to do to
+10:30 cap those walls.
+10:32 But if you use you could use railings
+10:34 too with a cap on top.
+10:37 I don't know if you guys have a favorite
+10:39 or not.
+10:40 I don't do many parapets, so not really
+10:42 sure what you might want to do.
+10:44 You notice here that it's all kind of
+10:46 broke up. It's
+10:48 like this.
+10:49 Quick way to repair that is just to go
+10:51 into the dialogue, go to structure and
+10:53 hit just redo the default.
+10:56 And that'll make it back into a straight
+10:57 wall. And then follow the ceiling height
+11:00 of the room. So all I've done here, if I
+11:01 peel this back,
+11:03 I've got a
+11:05 let's see let's make this room
+11:08 on the second floor. I'm going to have
+11:09 to go down here to the floor plan.
+11:12 So I'm on the second floor. I just One
+11:14 of the things that
+11:15 I see I had a ceiling in there. Make
+11:17 sure you turn the ceiling off in the
+11:18 room.
+11:19 I've made the floor open below.
+11:22 So I've named it open below. I'm not
+11:23 using the floor system because of
+11:25 parapet wall situation is going to be a
+11:28 roof, not a floor. So I have to get rid
+11:30 of the roof. And in order to do the
+11:33 proper framing, I'm using a
+11:36 um
+11:37 I'm using a
+11:39 ceiling plane to create the ceiling in
+11:41 this space. So we got a roof plane.
+11:43 We've got a ceiling plane. Ceiling
+11:45 planes are under the roof too. You're
+11:46 drawing that in place. So the ceiling
+11:49 plane is set to zero. So you would you
+11:51 know you would switch to the ceiling
+11:52 plane, double click on it, set your
+11:54 pitch to zero, draw your ceiling plane
+11:57 on the first floor, and that'll put her
+11:59 at the same height as the ceiling height
+12:01 of that room when you draw your ceiling
+12:03 plane. So it's just a just a box that
+12:05 you can draw wherever you want. So that
+12:07 creates your ceiling plane. That's going
+12:09 to create the bottom side of where your
+12:10 framing's going to go.
+12:12 And then the roof's going to create the
+12:14 top side of where your framing's going
+12:15 to go. So you put your roof in, and
+12:18 you're generally going to do these with
+12:19 a manual roof. Although
+12:21 you could set your roof slope. I've made
+12:24 my roof pitch your quarter inch. I could
+12:26 have gone to the wall here.
+12:29 And in that wall, I could have just gone
+12:30 to the roof tab and set this at quarter
+12:33 inch.
+12:34 And when I did the automatic roofs, then
+12:36 it would have made that pitch above that
+12:39 particular
+12:40 wall, that that pitch.
+12:43 So that would have worked pretty well.
+12:44 But I just do do this manual. And when
+12:47 you
+12:48 do that and you
+12:51 do the framing
+12:53 So if I do a cross section through this
+12:56 Where did it go? No, I just didn't
+12:57 create one.
+12:59 Let's go create a cross section through
+13:00 this.
+13:01 And when you draw your trusses, the
+13:03 truss is going to form
+13:05 the bottom of the truss is going to form
+13:07 at the ceiling plane. The top of the
+13:08 truss is going to follow the slope of
+13:09 the roof. If you're doing hand framing,
+13:12 just frame it. So so I have to do is you
+13:15 know
+13:16 So is create is is
+13:19 um come on
+13:20 What's going on here?
+13:22 No, it's right. I'm in a cross section,
+13:24 not a rotate. All I have to do you know
+13:26 if those are in the right place, you're
+13:27 done. I mean it's really quite easy to
+13:29 do.
+13:30 Um you you could set this wall if you
+13:33 want that to be a balloon frame wall,
+13:35 just set that wall
+13:37 um
+13:39 set that wall on the first floor to
+13:42 frame through the ceiling above.
+13:44 So you'd go to structure and you would
+13:47 um
+13:48 balloon through the ceiling. And that'll
+13:50 balloon frame that wall when you do the
+13:52 auto roof
+13:53 wall framing. I'm still learning.
+13:58 Not me. Robin.
+14:01 Robin.
+14:01 >> make it look so easy. Yes, I'm sorry.
+14:04 I'm listening.
+14:05 All right.
+14:06 >> [laughter]
+14:07 >> You make it look so easy, Dan. Well, it
+14:10 it again, you get a complicated project,
+14:13 yeah, it's going to be more complicated.
+14:14 But the concept is exactly the same. All
+14:17 right, so I've got my ceiling plane.
+14:20 It is
+14:22 again if if because my roof is covering
+14:25 this. I'm trying to think do I Yeah, I
+14:28 want my truss to follow my ceiling
+14:29 plane. So my ceiling plane needs to go
+14:31 over the wall here.
+14:32 The ceiling plane is on the inside of
+14:34 the wall everywhere else
+14:36 cuz I don't want the ceiling plane to
+14:37 cover that. But the ceiling plane is
+14:39 going to form the bottom of where your
+14:41 roof framing is going to be. It creates
+14:43 that polyline. So when you
+14:45 It's it's interesting when you do the
+14:48 framing in Chief
+14:50 what Chief does for a truss
+14:52 All of it all it does is it looks for
+14:55 the bottom of the roof sheathing.
+14:57 Okay, up here bottom roof sheathing.
+14:59 Looks for the top of the ceiling plane.
+15:01 It creates a polyline
+15:04 and it fills it in with these other
+15:05 polyline shapes that look like a truss.
+15:08 That's all it does. There's no
+15:10 structural about. I can take that
+15:11 polyline. I can reshape it any way I
+15:13 want to. You can see it's kind of messed
+15:16 up now, but there
+15:17 So so it's really that's all Chief does
+15:21 when you're creating that that kind of a
+15:23 roof and the framing for that kind of a
+15:25 roof.
+15:26 So
+15:26 >> Fabulous.
+15:27 Don't let you know and you notice that
+15:29 the back of the roof here
+15:32 in my 3D view
+15:35 it's covering it's coming over the roof
+15:37 and hanging you know so it's cutting the
+15:39 wall off here. Anytime a roof covers a
+15:42 wall, it's going to cut it off. So if I
+15:44 back, that wall is going to go up to the
+15:46 same height as the other walls because
+15:48 that'll follow the ceiling height.
+15:50 But when you cover that wall I'm like
+15:52 that.
+15:53 Dan, are you showing how you can select
+15:55 the room in this view to drag your walls
+15:57 up?
+15:58 The room to change the wall? Well, here
+16:01 you you notice here I'm getting the
+16:03 first floor.
+16:04 Um
+16:05 How do I get the room in this floor
+16:07 here? Rob rename?
+16:10 Click the inside of that wall
+16:12 and hit tab.
+16:15 I love how you almost said my name and
+16:17 it's like yeah, I wouldn't know.
+16:19 Okay, use tab. Oh, there's the room now.
+16:22 And then drag that top edit handle up.
+16:24 Yep, that's going to move the whole the
+16:26 whole room height up and down.
+16:29 So
+16:29 >> Nice. Yeah.
+16:31 And again, this wall here is still being
+16:33 cut off by the roof cuz when a roof
+16:34 covers a wall, it's going to cut it off.
+16:37 Um why this isn't filling in, I do not
+16:40 know.
+16:43 Should be.
+16:45 It's unusual that it's doing that.
+16:48 >> Is your ceiling too far into the wall?
+16:50 Do you need to pull it back just a tiny
+16:52 bit?
+16:53 Go to your floor plan.
+16:55 And select that wall.
+16:56 Yeah, was it doing it?
+16:58 See it's doing better here, but it's
+16:59 still off a little bit.
+17:02 Huh.
+17:03 >> [clears throat]
+17:04 >> Break break that roof right there at the
+17:06 wall.
+17:07 Yeah, that might solve it. Just bring
+17:09 that around a little bit. It's probably
+17:11 interacting with the wall weird.
+17:14 But generally that's how I do my parapet
+17:16 wall anyway. I'd bring that
+17:18 out like that.
+17:20 See if that fixes it over here.
+17:24 No.
+17:25 Something fixed it.
+17:27 I jiggled it enough.
+17:31 Now there's [snorts] question about can
+17:33 you use this to create a deck over a
+17:35 room?
+17:37 A deck over a room should never be done.
+17:40 Because a deck a deck will leak into the
+17:42 room.
+17:43 Oh, yeah. Yeah.
+17:45 Cuz the deck's going [snorts] to be
+17:47 >> though to put put the roof between the
+17:49 joists of the deck and
+17:51 make it waterproof. Oh, yeah.
+17:54 Exactly. You know, could I put a deck on
+17:57 top of this room with the roof
+17:59 underneath it?
+18:00 Yeah, that would be a problem.
+18:03 Yeah.
+18:03 Um
+18:08 It's going to give you a warning that
+18:09 says there's a room underneath this
+18:11 deck.
+18:12 Yeah.
+18:13 >> It may not frame properly, but it's just
+18:14 telling you it might not frame properly.
+18:16 [clears throat]
+18:17 So go ahead and do it and see what
+18:18 happens. And Um so let me go back here.
+18:21 So let's say I want to do I wouldn't do
+18:24 that.
+18:25 Let me do that. Let's just draw some
+18:27 railings here and see what happens.
+18:29 So let's just go to the railing tool.
+18:33 Um let's just put a deck here.
+18:36 Oops, made a crooked deck.
+18:39 >> [clears throat]
+18:40 >> And let's just
+18:41 Now let's just do this.
+18:43 Let's just put it in the middle of the
+18:44 roof. See what happens.
+18:49 Um
+18:51 I haven't thought about this. The
+18:53 infamous island room, huh?
+18:57 Yeah, the infamous You can't fix that
+18:59 yet.
+19:00 No, it still needs to be connected to
+19:02 the outside wall with an invisible wall
+19:04 Yeah. in order to function properly. So
+19:07 that that needs to
+19:09 I don't think they have.
+19:11 I don't know. Let's see if
+19:12 I've done that a few times and I it
+19:14 might be doing it automatically, but
+19:16 I've never put it in there for fun
+19:17 purposes.
+19:17 >> It usually does do it automatically. All
+19:19 right, let's see what that looks like.
+19:22 >> [clears throat]
+19:23 >> Um that doesn't look so good. There's my
+19:25 deck. Oh, the deck ended up
+19:28 I put it on the
+19:30 >> [laughter]
+19:31 >> Yeah, yeah, let's just move the roof
+19:32 plane down.
+19:34 Um
+19:36 I'm going to do that from the floor
+19:38 plan.
+19:41 Move that dotted lines down, which then
+19:43 it will show up on
+19:47 That's right, a roof covering a deck.
+19:49 >> Right. Try moving the deck up 4 ft. The
+19:52 deck floor up 4 ft or so so it gets
+19:54 above the roof.
+19:55 All right.
+19:56 I don't think it's going to cuz a deck,
+19:58 a roof
+19:59 I might have to put the deck on a
+20:00 different floor.
+20:02 Um
+20:03 Or actually build a new floor and make
+20:05 it like a zero floor.
+20:06 Yeah.
+20:09 Let's see. What am I looking for? Finish
+20:10 floor. Let's make this um 60.
+20:14 And
+20:16 Well, let's just do the height.
+20:17 [clears throat]
+20:17 >> deck.
+20:19 Floor below floor here
+20:22 140.
+20:24 That's going to move that whole room up.
+20:27 I'm going to think about this one. I
+20:29 don't remember how to do this. And it's
+20:31 a little better. Oh, yeah. So, it was
+20:33 too low. Okay.
+20:34 >> Yeah. Just move it up and then it should
+20:35 be fine. Like that room.
+20:37 Um
+20:41 Okay, there it goes. All right. So, deck
+20:43 will produce Yeah, that's true. It will
+20:45 produce, but the railings are not going
+20:47 the right place. Why not?
+20:49 Um
+20:51 What happened to my railing? Ceiling
+20:52 height an issue?
+20:55 Floor ceiling Ceiling height's only 17
+20:57 in.
+20:58 Let's make that
+20:59 Let's make that 60.
+21:03 Not doing [clears throat] anything.
+21:05 Let me research that one. I'll cover
+21:06 that one next time.
+21:08 >> [snorts]
+21:08 >> I don't quite remember the steps I would
+21:10 use to do that. But typically, you know,
+21:12 a deck is you know, it's the railing
+21:14 here that's going to be an issue if it's
+21:15 going to sit on top of a roof. See, when
+21:17 you pull the roof out of the way, let's
+21:19 see what happens. And so, now it
+21:20 generates everything properly. It's the
+21:22 roof covering that deck that messes with
+21:25 it.
+21:26 Um
+21:28 So, anytime a roof covers a wall or a
+21:30 railing, it's going to cut it off. See
+21:32 how it's cutting that off there?
+21:34 So, [snorts]
+21:35 >> You can't put a room on top. Could you
+21:37 put a hole in the roof and actually put
+21:39 a floor in there?
+21:42 Yeah, that's no big That'd be like
+21:43 putting a dormer there. I mean, same
+21:45 difference. You cut the roof out of the
+21:46 way and you're going to have something
+21:47 sticking through. So,
+21:48 >> But I think you Okay.
+21:49 >> If you put If you put the
+21:52 the deck on the second You put it on the
+21:53 first floor, right? No, the deck's on
+21:55 the second floor. I thought I did.
+21:57 >> is the roof on?
+21:59 Um
+22:01 The deck framing is on the first floor.
+22:03 The deck itself is on the second floor.
+22:05 I could probably create a third floor
+22:07 and put the deck there. Maybe that would
+22:08 help. Let's move on. And let me let me
+22:10 >> Well, let's go to a new one. Let me do
+22:12 something. Let me make a note here to um
+22:16 I'll add the deck on
+22:18 next show.
+22:20 Okay. Let me let me research the proper
+22:22 way to do that. Yeah.
+22:24 Somebody was asking about um project
+22:26 management, you know, the project
+22:28 management system. Can you go over that
+22:30 again? I think it's still some people
+22:32 are having issues in it. I think you
+22:36 know, we've been using project
+22:37 management longer so that we're we're
+22:40 learning how to use it easier. There is
+22:42 somebody who had a question about that.
+22:44 That to me just seems like that might be
+22:46 an easier one just to kind of hit and
+22:49 give some people some decent advice.
+22:51 Again, bottom line is the project
+22:54 management system in Chief Architect
+22:57 keeps all of your plans that you're
+22:59 currently working on in a central
+23:01 database within the pro program itself.
+23:04 So, there are no separate files
+23:05 [clears throat] available
+23:07 as you're working on your plan. They're
+23:09 all kept here on this list. All right.
+23:11 So, that's the first thing to
+23:12 understand.
+23:13 Um we can
+23:15 Once you Once you get used to it, you're
+23:17 going to love it. It's really cool. But
+23:19 it does take some really getting used
+23:20 to. What you have to think about here
+23:22 and this is what I tell everybody is
+23:24 when you have a filing system, okay? So,
+23:26 you've got a system where you keep your
+23:28 projects. Let me just you know, here I
+23:31 keep my projects in folders where I have
+23:35 um
+23:36 you know, for for different projects I I
+23:39 put the different things in there. So,
+23:40 with this one I might have subfolders in
+23:43 and then I have things in that. And I
+23:45 might share these with people so that
+23:47 they can work on them, okay? So, so the
+23:50 project management system is the same
+23:52 exact thing. I wish they would make this
+23:54 icon look like a folder. Cuz that's kind
+23:57 of what it what it is. And that is what
+23:59 it is. It's a folder that keeps all of
+24:03 your things in as you're working on them
+24:06 in Chief's central database. And you can
+24:10 then have all sorts of things. You can
+24:12 create copies of plans. When you right
+24:14 click on something here, you get a ton
+24:16 of options on what you could do with
+24:18 things. You can rename things. You can
+24:20 make copies of things. You can make
+24:22 things into templates. It's just really
+24:24 really slick, I think. You can have
+24:26 subfolders. You know, you could have
+24:28 version 1 2 3 4 in subfolders. So,
+24:31 So, you got to get used to right
+24:33 clicking to to make choices on what you
+24:35 do with this. So, but if I can ask a
+24:36 question, Dan, how do you save it
+24:39 because people don't want to just leave
+24:40 it on their Chief program. They want to
+24:44 put it somewhere. So, how do you save it
+24:46 in a way that then it can be shared and
+24:48 you know which program you're using? The
+24:51 way you have
+24:51 >> Which version you're using? The way you
+24:53 share it is by right clicking on
+24:56 something
+24:57 and you're going to you're going to
+24:58 export that project. Remember,
+25:01 I don't think I can export Can I export
+25:03 subfolders?
+25:05 I cannot. I may have to export the whole
+25:08 project. Remember I said this is like a
+25:10 big folder that holds everything, okay?
+25:13 So, I have to export the big folder.
+25:16 Once you hit export, then you can select
+25:18 what you want to export. Correct. Yeah.
+25:20 Thank you, John. That's right. So, so
+25:22 you Now I could say, "Well, I don't want
+25:24 to say I don't want to send someone
+25:26 these things. I just want to send them
+25:27 those." You know, or pick and choose.
+25:29 Whatever ones you want to send, this is
+25:31 what you're going to create This is what
+25:33 you're going to create a new
+25:34 You're going to create a zipped folder
+25:37 that has all this stuff in it.
+25:39 If you've ever used Chief's backup
+25:42 system
+25:43 before in previous versions. So, if I
+25:46 were to Oops. If I were to go back to
+25:48 X16, I'll get out of there. Or go to
+25:50 back back to X16 for a second. And you
+25:53 open something.
+25:55 And you want to create a
+25:58 you know, usually you'd say the files
+25:59 are saved on your hard drive and they're
+26:01 part of Dropbox and you share your
+26:03 Dropbox or you just go send them a
+26:05 folder or you go to file backup entire
+26:08 layout. Okay? Or backup entire plan. And
+26:12 what that's going to do is backup the
+26:14 plan and all attached files, PDFs,
+26:16 images, everything that's part of that
+26:18 project, part of that plan. But you
+26:20 don't get the choice to to do version
+26:23 ABCD. You're only doing one. Unless it's
+26:25 all on the layout, then it's going to
+26:27 capture all of them.
+26:29 So,
+26:30 here you get to choose which ones you
+26:32 want to do. You're going to hit okay.
+26:34 You're going to create what's called the
+26:36 CA proj file, Chief Architect project
+26:39 file. That equals ZIP,
+26:43 okay? That equals zip file. That's what
+26:46 CA proj does. It puts all the stuff in a
+26:48 zip file. It doesn't say zip. It says CA
+26:51 proj file.
+26:52 So, when I when I export that
+26:56 and I put it somewhere. Let me just
+26:58 throw it here in my temp file for now.
+27:02 >> [clears throat]
+27:02 >> So, when I export that and I hit save,
+27:04 it's going to can't find some images.
+27:06 That's fine.
+27:07 So, now it's creating all of that stuff.
+27:10 And it's putting it in one project file.
+27:12 Okay? There you go. Three plans saved,
+27:14 one file, okay. And then you go to your
+27:16 file folders and then you're going to be
+27:19 able to find those.
+27:21 Let me just go here.
+27:23 So, here's what I just created. That's
+27:25 that
+27:26 That's that project CA project file.
+27:30 So, let me make a copy that and show you
+27:32 something.
+27:33 And [clears throat] I'll paste it here.
+27:35 So, I'm going to take that and I'm going
+27:36 to rename the the CA proj to ZIP, to
+27:41 zip.
+27:42 And I'll demonstrate what what it's just
+27:44 done. So,
+27:46 someone's got some background noise
+27:47 going there.
+27:52 So, when I when I click on the zip, you
+27:54 know, I could extract it now. So, I
+27:55 could hit extract all.
+27:58 And that's going to do this and I hit
+28:00 extract and then it's going to show me
+28:02 everything that's in that in that zip,
+28:04 that proj file, that project file. So,
+28:07 here's your assets. Here's all the
+28:08 images and everything that's part of
+28:10 that plan. And then here is all of the
+28:13 plan the project the files, okay? And
+28:17 there's the different all the different
+28:19 files that I created. So, it puts
+28:22 everything in one place. That's all it's
+28:24 doing. In fact, you could just
+28:27 So, the reason why you took us through
+28:28 this zip exercise is just to show that
+28:31 it's not really any different than what
+28:32 I used to do it.
+28:34 Exactly. Just handling it within Chief
+28:36 rather than you having to go physically
+28:38 unzip stuff. Yeah.
+28:40 >> another I have another question on that,
+28:42 too. So, you noticed how when you went
+28:44 to save it, certain um images, certain
+28:47 materials were not following the
+28:48 project. And this is probably already
+28:51 answered but
+28:51 >> old project. Well, I know that. But that
+28:54 happens even with brand new projects,
+28:56 projects that were in X18. How come
+29:00 materials Oh, no, no, no. I RX17. Sorry,
+29:03 I'm I don't know why I'm thinking 18.
+29:04 But I have students sending me Sorry
+29:07 about background noise, you guys. But I
+29:08 have students sending me um projects and
+29:12 some of their images will not follow the
+29:14 project. Like you just showed. So, why
+29:17 is that and what's going on and how do
+29:19 we fix that? That's what this is
+29:22 supposed to solve is those errors.
+29:24 >> solving it. We're still having that
+29:25 issue. So, cuz I'm sharing files all the
+29:28 time with students.
+29:30 And they're doing the project files. it.
+29:32 And they're doing the project and
+29:33 they're saving the material in their
+29:35 user library.
+29:37 And then they're sending me a CA PROJ.
+29:41 And then when I open it up, we'll find
+29:42 things that are not following the
+29:44 project. And this happens constantly. I
+29:46 can send you images. I get it on their
+29:48 machines. Which template are they using?
+29:51 I'm sorry, say that again, Renee.
+29:53 Can you hear me? Yeah. Yeah, I can hear
+29:55 you now. They're making it on their
+29:56 machine
+29:58 as well. That's what I'm thinking.
+30:00 >> if if they're opening it, well, okay, so
+30:02 let me ask you this question. So they
+30:04 might be doing the project on
+30:06 A fix for that is if they do a backup,
+30:09 it will prompt to show what missing
+30:11 files are there or if they were to
+30:12 export their library and it was coming
+30:14 from the library, it will prompt to show
+30:16 that there are missing files and they
+30:17 Robin, here's how I think you solve that
+30:19 cuz you're probably giving them your old
+30:20 template, right? No, no, no, let me tell
+30:23 you what's happening. So students are
+30:25 working some of the students are working
+30:26 on their project on their computer at
+30:28 home. Then they come to school and they
+30:30 open their project.
+30:32 >> What are they using to start the
+30:33 project?
+30:35 Um a template that my template that I
+30:38 gave them originally.
+30:38 >> Check your template to make sure
+30:41 everything is there.
+30:43 Because your template might be missing
+30:45 Could it be originating at your template
+30:47 level?
+30:49 So what do you do? Export and export
+30:52 that
+30:53 and then re-import it and it'll give you
+30:55 a list of the missing files. So replace
+30:58 them with something new or delete them.
+31:00 Yes. That should solve that.
+31:03 Okay, so it's But okay, that sounds
+31:06 great. But what's happening is students
+31:09 will put a new prod- product into their
+31:11 project like they'll put a tile into
+31:13 their project and they'll save it in
+31:14 their user library and then when they
+31:16 send it to me, I don't see their tile.
+31:18 So I understand what you're saying,
+31:20 that's probably happening at my level,
+31:22 but it's also happening at their level.
+31:24 See, that's that's what
+31:26 that's what the project management's
+31:27 supposed to solve it. That should be
+31:29 there.
+31:29 >> Okay.
+31:30 So I think what's happening is sometimes
+31:32 students are putting a product in their
+31:33 project and they're not saving it to
+31:35 their user library first.
+31:37 So they need to make sure they're saving
+31:39 it that way. Okay, well, I will work on
+31:41 that.
+31:41 >> Renee, should that matter?
+31:43 Once it's in your plan, it shouldn't it
+31:45 just be part of your project
+31:47 automatically? Sometimes it can be
+31:49 missing from their machine cuz it got
+31:51 relocated or for some reason the merge
+31:53 function in asset manager sometimes
+31:56 makes things appear missing even though
+31:58 they're in the managed folder, so they
+32:00 need to relocate it. Okay.
+32:03 Interesting. All right. Um Thank you
+32:06 guys. I appreciate it.
+32:06 >> So yeah, let us know check that, Robin,
+32:09 and let us know what you come up with.
+32:11 Let's see if Yeah, my school may be
+32:12 going going on strike next week, so I'll
+32:14 have a lot of time.
+32:17 Good joy. So what We're not done talking
+32:19 about project manager yet. How do I get
+32:22 How do I get my project back into
+32:25 Right. This happened to me This happened
+32:27 to me on Wednesday. It's been a couple
+32:28 of weeks since I've really It's a couple
+32:29 of months
+32:31 since I've really done a lot in Chief.
+32:32 Yeah. And this particular thing it might
+32:34 be three or four months. But how do I
+32:36 get
+32:37 my plan my project back into Chief to be
+32:39 able to work on it cuz I was up at the
+32:41 top looking at So what what tends to
+32:43 happen So
+32:45 So here's what I exported. I exported
+32:47 some of the things out of this project,
+32:48 okay?
+32:49 Um
+32:51 So So there's that project.
+32:54 And if I go import that back in now, say
+32:56 I'm going to a different computer, I'm
+32:57 going to import it, work on it, and then
+32:58 I'm going to bring it back onto this
+33:00 computer.
+33:01 Okay, so I go file I go up to my import
+33:03 my import options and I go import a
+33:06 project or I could go
+33:09 I think I can open a project up here,
+33:11 too, can't I? I think I I I exported it
+33:13 and imported
+33:14 >> You can't open up if you go to open
+33:15 project, you will not find it. Okay, so
+33:17 I go to import project. That's what I
+33:20 always do anyway. And then I go find
+33:22 that file that I created, which I put in
+33:25 my
+33:26 temp folder.
+33:29 Okay, so there it is. So let's say I've
+33:30 worked on it and I've
+33:33 Oh, here it is. Here's the original one,
+33:35 okay? So there it is.
+33:37 And I'm going to bring it back in. I'm
+33:39 going to open it.
+33:41 And
+33:43 it's going to pop up here and show me
+33:45 what it's bringing in.
+33:47 See it? No spinning wheel. So here's
+33:49 what it's bringing back in, just the
+33:52 things I had exported earlier. And you
+33:54 notice it put the number one after it.
+33:56 So it's not going to take this stuff and
+34:00 put it back into the original
+34:03 folder that I got it from.
+34:05 >> [clears throat]
+34:05 >> You don't want it You know, you probably
+34:07 don't want it to do to do that cuz you
+34:09 might overwrite some things you don't
+34:11 want to overwrite.
+34:12 All right.
+34:14 >> [clears throat]
+34:14 >> So it's going to bring it all a whole
+34:15 new project.
+34:16 And this is where a lot of people get
+34:18 really confused.
+34:20 Okay, so here's the old project where I
+34:22 exported that stuff from. Here's the one
+34:24 that I just brought back in that someone
+34:26 worked on and now I get to work on it
+34:28 some more myself.
+34:30 All right, so what I'm going to do in
+34:31 that case is like, okay, so here's
+34:34 version two. Maybe they worked on it and
+34:36 now it's version three. Okay, so I'm
+34:38 going to just click on that, rename it
+34:41 version three. And then I'm going to
+34:43 take that and I'm going to put it back
+34:44 into my original folder
+34:47 for pig for that job and I'll say, "Yes,
+34:49 bring it back in." Now I have version
+34:51 two and version three. Actually, I want
+34:53 to put it
+34:54 at its own level. So I have version two.
+34:56 So I've just taken that and put it back
+34:57 in my original project.
+34:59 Or in the case, let's say I would have
+35:02 exported all of this stuff
+35:05 and I have a piggy one and just a plain
+35:07 piggy.
+35:08 I would take this and I would just
+35:10 delete the whole thing
+35:12 and then, you know, John, you mentioned
+35:13 you like to do your hourly your backup
+35:16 Every time you save it, it makes a
+35:17 backup copy, so you know you've always
+35:18 got it there. You never have to worry if
+35:19 you delete it.
+35:20 >> Yep. So so that works fine, too. Um but
+35:24 then I would delete this
+35:25 and then I would just rename just get
+35:27 rid of this here
+35:29 and
+35:30 um so I'm back. So so there's a little
+35:33 bit of management involved here to make
+35:35 sure that
+35:37 where did I Yeah, here it is. It created
+35:39 a new one.
+35:40 Um
+35:41 It It just have to be careful when
+35:44 you're bringing things back in.
+35:46 You're going to get more and more
+35:48 projects, one, two, three, four.
+35:50 And if that's happening, make sure
+35:52 you're getting rid of the old ones.
+35:55 So I I like to use the I like to do the
+35:58 backup like Dan said, set my
+36:01 uh set it up to to backup every time I
+36:04 save it.
+36:05 And then I I use
+36:07 the delete function because there's an
+36:08 export and delete. So it's one smooth
+36:11 move.
+36:12 Now I only have
+36:16 Sometimes I only have one copy of stuff
+36:18 plus the backup. Other times there'll be
+36:20 a copy.
+36:21 Once it comes back onto my computer, now
+36:23 I have two copies, one in one in Dropbox
+36:26 and one on my computer.
+36:28 Yeah.
+36:29 >> And then I send it back
+36:30 and I'll put it I'll overwrite the file
+36:32 from before. Right.
+36:34 So now
+36:35 >> I'll end up with a dozen copies of
+36:37 stuff. That's the way I do it, too. It
+36:39 terrifies my students when it says
+36:41 export and delete. They're terrified
+36:43 about
+36:45 I wish they would just change that to
+36:47 save as even though it's not a true save
+36:49 as, it essentially does Right. Yeah.
+36:52 You're making a copy.
+36:53 >> But the delete is scary. It's scary for
+36:55 everybody. Um
+36:57 Yeah, I agree. They need to rechange
+36:58 some of the words. Yeah. Or just change
+37:00 it to move. Just say move. I want to
+37:02 move this to the Dropbox folder and it's
+37:04 hiding what it's doing.
+37:06 That's so smart and it's not scary.
+37:09 Yeah. Delete word is a trigger word for
+37:11 a lot of people.
+37:13 Yeah.
+37:13 >> [clears throat]
+37:14 >> Yeah, it is. Oh, no, I'm going to lose
+37:16 everything if I hit delete. Well, just
+37:18 hit export and delete and then you're
+37:19 going to export this and then delete the
+37:21 one from this this That is your save as
+37:24 for sharing with a team or sharing with
+37:26 another machine. And then it instantly
+37:28 cleans up your list here.
+37:30 So now I've made a copy of the whole
+37:32 thing. It's in my It's on my hard drive.
+37:34 That's a great way to I'm done with
+37:36 this, you know, I'm 100% done with this
+37:38 project now. I'm not going to ever work
+37:40 on it again or but maybe I will, but I
+37:42 want to save this in my client's folder
+37:44 now. So now I go export and delete. So I
+37:48 go export. I'm going to export
+37:49 everything.
+37:50 Um [snorts]
+37:51 Actually, I'm going to go Yeah, export.
+37:54 I'm going to hit delete cuz I want to
+37:55 get rid of it from my list here and I'm
+37:58 going to export it and delete it from
+38:00 here, okay?
+38:01 >> And if you want to even save some
+38:03 clicks, you can even just hit your
+38:04 delete button once you have highlighted
+38:06 it. Yeah.
+38:07 And then so that would do the same
+38:09 thing. Yeah.
+38:12 Um which kind of, you know, if you want
+38:14 to archive your projects, it kind of
+38:16 answers Mike here, how slow is the
+38:18 archive project update? Too long. And I
+38:20 would still say, yeah, it takes way too
+38:22 long.
+38:24 But yeah, if you limit the number of
+38:25 projects you have in there, it's going
+38:27 to the backup process should be a little
+38:30 bit faster.
+38:31 Oh, you're talking about when you exit
+38:33 the program and ask if you want to
+38:34 backup. So
+38:36 um
+38:37 let me
+38:38 Well, let's see. Let's Now I've got a
+38:40 lot of stuff open. I'm not going to do
+38:41 that. My backup takes 30 minutes. People
+38:43 kept telling me that it doesn't work and
+38:45 it's getting hung up. It works. It just
+38:47 takes forever. Yeah, you're backing up
+38:49 probably terabytes worth of stuff and
+38:51 you Who knows how big the backup file is
+38:53 now.
+38:53 Um the more projects you get in it, the
+38:55 bigger the file is going to be cuz it's
+38:57 backing up all of the five plans, the
+38:59 layouts, the PDFs, the pictures, the
+39:02 materials,
+39:03 anything that's associated with the
+39:05 plans that you're working on. It's
+39:06 making a backup copy of all of that
+39:07 stuff. So it's a lot of stuff going on
+39:10 there. So backup at the end of the day
+39:12 when But just leave your computer on,
+39:13 you're good to go.
+39:15 Robin, are you got the spaceships flying
+39:17 around your place or what's that noise?
+39:18 That Actually, I'm staying muted. It's
+39:20 not me.
+39:21 >> Yeah. Is it mine? It might be mine. Hang
+39:22 on a second.
+39:24 That's you, John. John, you got a roomba
+39:26 in your room? I'm in a coffee shop and
+39:28 there's a whole bunch of people sitting
+39:29 next to me. So when I got here, I was
+39:31 the only one here. You're fine. You
+39:33 can't even hear anything in the
+39:34 >> Alienware, my Alienware computer.
+39:38 Oh, yeah?
+39:40 It's landing spaceships on your desk.
+39:43 Anyway,
+39:44 um cool. So,
+39:46 let's move on. Renee, go talk about
+39:48 temporary dimensions. You had mentioned
+39:50 you wanted to do that one. We're going
+39:51 to make a discussion of the things
+39:53 first.
+39:54 Answer that first.
+39:56 What?
+39:57 How can I change my pointer? when I'm
+39:59 dimensioning it's a big black cross.
+40:03 Oh, the pointer.
+40:05 You probably switched out of the
+40:08 crosshairs, which is Is there an I
+40:11 thought there was an icon for that now.
+40:13 Yeah, right here.
+40:16 No, that's not it. So, that person, do
+40:18 they have my templates cuz my templates
+40:21 uses a big black cross in 3D only?
+40:24 Let's see.
+40:28 It's under
+40:32 Where's the crosshair? Okay, so if you
+40:34 go to the crosshair size, let's just do
+40:36 this. Make the crosshair smaller. What
+40:38 does that look like? No, that's not it.
+40:40 So, it's a probably a
+40:42 You set something up in your 3D?
+40:45 In my 3D I use a cross.
+40:49 Just a small cross, not a crosshair.
+40:51 >> Yeah. Okay. Well, then I've no idea.
+40:55 I thought maybe it was But, that's the
+40:56 arrow designation in your dimension
+40:58 default.
+41:01 Yeah, I thought it was maybe this, but
+41:02 it's not.
+41:05 I just I've got I remember when
+41:09 aperture size What is that?
+41:11 While you guys are doing talking about
+41:13 that mumbling about it,
+41:15 Mike was asking why it was 2 months
+41:17 since I hadn't been working on Chief. I
+41:19 have
+41:20 January 1st I got shingles on my head
+41:23 and it involved my eyes, so
+41:25 it was really tough to spend much time
+41:27 in front of Chief.
+41:29 That's That's basically it.
+41:31 Starting to get better now, but still
+41:33 still dealing with it.
+41:35 It's been a been a
+41:36 long road for you there, John.
+41:38 So, [clears throat]
+41:39 Yep. Anyway, moving on.
+41:43 Renee, go ahead and talk about your
+41:46 Oh, so back to that thing. Check if it's
+41:49 not part of Renee's template, go to your
+41:51 mouse
+41:52 settings. Maybe check those.
+41:55 Yeah, so that would just be in your
+41:57 dimensions. So, if you double-click your
+41:58 manual dimension tool
+42:01 um
+42:02 right there. If you double-click that,
+42:04 that brings up the defaults that you're
+42:06 currently using. And so, there would be
+42:08 your temporary defaults, but I'm really
+42:11 what we're talking about is the arrow.
+42:13 So, this is where you would change that
+42:14 arrow. So, if it's showing up as a cross
+42:16 as your arrow, then you can go ahead and
+42:18 choose some
+42:19 different
+42:20 >> is it the dimensions that are showing up
+42:22 like a big black
+42:24 I'm I'm thinking that's what they're
+42:25 saying.
+42:27 Okay.
+42:28 Yeah. I don't think that's
+42:29 [clears throat] what he was saying.
+42:31 Mike says switch from shingles to
+42:33 standing seam.
+42:36 Oh, that's that's funny. Put that on I
+42:38 wish. I
+42:40 I've done that.
+42:41 >> [laughter]
+42:43 >> Uh good job, Mike.
+42:46 Uh what was it?
+42:47 >> I can't complain for a week where you're
+42:48 at.
+42:49 Uh you had mentioned you were going to
+42:51 talk about you wanted to cover
+42:55 uh
+42:57 Oh, where'd it go?
+42:58 Temporary dimensions. Not always
+43:01 dimensioning to the needed direction or
+43:03 the correct layer.
+43:04 >> Oh, yeah, yeah.
+43:05 Um cuz this happens to me when I'm in
+43:07 the field um
+43:08 dimensioning.
+43:10 Um one thing I like to do with my
+43:12 toolbars is I mean I'm just show
+43:14 [clears throat] you this real quick. If
+43:15 you right-click on your blank area of
+43:17 your toolbar and go customize toolbars,
+43:20 there is a toolbar in here that I love
+43:22 to have.
+43:23 Um and that is the active dimension
+43:27 defaults control. So, if you drag that
+43:29 onto your
+43:31 toolbars somewhere, that allows you to
+43:33 change the default dimension you're
+43:35 using in this view if you would like to.
+43:38 And so, something I do when I'm doing
+43:39 takeoffs is I have a takeoffs dimension
+43:43 default. I'll show you what that does
+43:44 for me, but let me just draw in an
+43:46 interior wall here and I'll even draw in
+43:49 like a corner wall assembly here. And we
+43:51 can see the temporary
+43:53 >> this is amazing, Renee. I saw you do
+43:55 this when we were in Florida and I saw
+43:57 your dimension defaults and all your
+43:59 different dimensions, especially for
+44:01 like the NKBA elevations. Absolutely
+44:04 brilliant. It's so cool. And I never
+44:08 they showed that at Chief 2 years ago
+44:12 and
+44:13 whoever was teaching did not explain it
+44:15 incredibly well, but it was so good. Now
+44:18 I'm like, oh yeah. I'm all over it. You
+44:20 guys, you have to pay attention to this
+44:23 is brilliant. Okay. [laughter]
+44:25 So, for me um
+44:28 when I'm in the field, you can see I'm
+44:30 just showing foot and inches here. I
+44:32 love when I'm doing an actual takeoffs,
+44:34 I love just seeing foot and inches and
+44:36 inches. So, I just have a dimension
+44:38 default that I get to switch to very
+44:41 quickly for that purpose.
+44:43 And then when something's dimensioning
+44:44 to just one side or the other and we
+44:46 don't we're not getting the correct
+44:48 dimension in our temporary dimensions,
+44:51 um one maybe you're only showing
+44:55 um a primary side or a secondary side.
+44:58 And so, when I double-click the manual
+45:00 dimension tool, this is just showing me
+45:02 manual, meaning I have to have used the
+45:05 dimension tool for this to take effect.
+45:07 Right now we're talking about temporary.
+45:10 So, I'm showing primary and secondary
+45:12 side. Let's for instance say that I'm
+45:14 only showing primary side in my
+45:16 dimension default so that when I select
+45:18 this, it's showing just one side. Now, I
+45:21 want you to notice
+45:23 What's that? Does Is primary side
+45:25 affected by which side of that framing
+45:28 is at the top of the
+45:30 in the wall dialogue?
+45:33 Primary side I believe is the exterior
+45:35 side of
+45:37 your wall. You know what part of the
+45:40 wall is closest to the top of the
+45:42 screen?
+45:43 No, no. Primary side is I always look at
+45:45 it this way. So, here's my um outside of
+45:48 the house and this is the inside of the
+45:49 house. The primary side for the outside
+45:51 of the house is this side. This is the
+45:53 secondary side. But now, if this is the
+45:57 inside of the house and that's the
+45:58 outside, this is the primary side.
+46:01 That's the secondary side. So, it's
+46:03 based on the primary side is based on
+46:04 whichever side of the whichever are you
+46:07 primary of the interior, primary of the
+46:10 exterior?
+46:11 Right?
+46:13 Good thing to look at. Yeah.
+46:15 So, I'm going to just show something
+46:17 real quick as kind of
+46:19 like a trick for this is
+46:22 one, I want to get into my default
+46:23 settings and just take note of the
+46:26 general wall defaults. And what it's
+46:28 telling me is my resize the edit handle
+46:30 and the and the point that which my
+46:32 walls will resize is based on what I
+46:35 have selected here. Now, out of the box
+46:37 setting I believe is main layer outside.
+46:39 Right. I'm largely in a remodel
+46:41 workflow, so I care more about resizing
+46:43 about the inner surface, which is
+46:45 usually my true measurement. So, if I'm
+46:47 going out in the field measuring, I
+46:48 definitely want to be resizing about the
+46:50 inner surface and I want the inner
+46:52 surface to be my selection point. Okay,
+46:55 so we notice now when I select the wall,
+46:57 the inner surface is what my edit handle
+47:00 is on.
+47:01 Also notice that the dimension is
+47:03 carrying to the primary side in this
+47:05 case is the exterior surface. So,
+47:08 because this is an interior wall and I
+47:10 don't care which side is interior or
+47:13 exterior because they both are exactly
+47:15 the same, I could in my edit toolbar,
+47:18 which is usually at the bottom of your
+47:19 screen,
+47:20 flip the side. Now, when I reverse the
+47:23 side, notice what happens to the temp
+47:25 dimensions is it's still going to the
+47:29 other side. It switched your selection
+47:31 handle to the other side. It switched
+47:33 the selection handle to the other side,
+47:35 but it actually didn't change where the
+47:37 dimension came from. No.
+47:40 I actually thought honestly that it did,
+47:42 so I'm making a mistake on the fly, but
+47:44 if you want to show both sides of this,
+47:46 I would just say run that secondary side
+47:49 or
+47:50 um
+47:51 in terms of temp dimensions, maybe you
+47:53 just want to throw in, you know, your
+47:55 manual dimension to kind of pick that
+47:57 up.
+47:58 Um
+47:59 often times if I need to like figure out
+48:01 a distance from something and I'm not
+48:03 getting the correct dimension, I might
+48:05 even tab over to something,
+48:08 hit the tab button and subtract 144 to
+48:12 make sure that I'm actually 12 ft away
+48:14 from that wall if for some reason my
+48:16 temp dimensions aren't giving me the
+48:19 um what I need out of it.
+48:21 Um the other thing that I like to do is
+48:23 sometimes I need a dimension to carry
+48:25 all the way through, so I know that this
+48:26 wall is going to connect to this wall,
+48:28 so I'll actually pull this back
+48:29 temporarily just to kind of get this
+48:32 distance
+48:34 as a check.
+48:35 Right? So, I'm just drawing in partial
+48:37 walls to get
+48:39 full scope distances knowing I could
+48:42 take this wall and automatically connect
+48:44 it to this wall later on.
+48:50 So, do the Let's talk about auto
+48:52 interior dimensions for a second because
+48:54 that's helpful. So, click on that room
+48:57 and hit the auto dimension button on the
+48:59 bottom of the screen. Click on that
+49:00 middle room, yeah. There you got it on
+49:01 the toolbar.
+49:03 So, it's going to be on your edit tools.
+49:05 When you click inside of a room,
+49:07 you So, you did What did you hit? You
+49:09 hit I hit a auto interior, but let me
+49:11 just turn off everything. What you're
+49:12 talking about is selecting a room and
+49:15 then we can
+49:16 Click on the that one right there.
+49:18 >> auto interior dimensions. So, there you
+49:19 can click on a room or you can group
+49:21 select rooms and do them as a group. All
+49:24 right, now
+49:26 in this case it put the dimensions
+49:28 inside the room.
+49:29 Okay? So, that's a setting in the in the
+49:32 de- defaults now for that room.
+49:35 Yeah. let's let's go click on that
+49:38 double click on the the ruler icon now.
+49:42 And you can change that on the fly.
+49:45 You've got two options here now. If you
+49:47 click on auto interior, here's the
+49:49 things that you can have auto interior
+49:52 add dimensions to.
+49:54 But, it's going to keep adding them
+49:56 inside the room until you go up to
+49:59 dimension set up the auto dimension at
+50:00 the top there.
+50:02 And then down there near let's see where
+50:05 Where is it again? It's um
+50:08 >> [clears throat]
+50:08 >> It's under set up automatic under the
+50:11 room.
+50:13 You're going to go inside you're going
+50:15 to go outside the room.
+50:16 Down in the bottom there. Now, it's
+50:18 going to put all your dimensions
+50:20 when you click the interior dimension
+50:21 tool outside of the walls of that room.
+50:25 So, see how it does it changes it there?
+50:27 So, sometimes when I'm working on a
+50:28 kitchen, I don't want my kitchen full of
+50:30 dimensions. I want them outside of the
+50:32 room.
+50:33 So, that makes it a little easier to get
+50:35 those where you want them to be.
+50:37 And then you can
+50:38 >> have
+50:38 I have a dimension default similar to
+50:41 what you're talking about here. You can
+50:42 set up different dimension defaults for
+50:44 this. So,
+50:45 I have one that I call auto plan NKBA.
+50:48 And so, when I then hit my auto interior
+50:52 dimensions um it's in a different view
+50:55 that I have these displayed. Let me
+50:57 switch to that. If I hit my auto
+50:58 interior dimensions for that
+51:02 dimension default
+51:04 then it's placing it outside of the room
+51:06 like that.
+51:07 >> That looks nice. Yeah. And then
+51:11 what Robin was talking about earlier is
+51:13 if I just set up some elevation cameras.
+51:16 Um I oftentimes will
+51:19 stack my elevations on layout side by
+51:22 side. So, if I'm going to stack another
+51:25 elevation to the side here in layout,
+51:28 that means I don't need to dimension the
+51:30 left side here cuz the left side's going
+51:32 to come from that other elevations. So,
+51:35 I have a default for top and bottom. I
+51:38 have a default for just showing NKBA
+51:41 right. So, if I hit auto elevations,
+51:43 it's going to show this just on the
+51:44 right as opposed to NKBA left, it's
+51:48 going to
+51:49 show this just on the left-hand side.
+51:52 Or just top and bottom.
+51:54 So, that's the way
+51:55 >> This is so cool with how you can
+51:56 actually get additional dimensions or
+51:59 like when you
+52:01 This is just a very cool option of how
+52:03 to use
+52:04 um your dimension tool to really
+52:06 customize the dimensions that you use on
+52:08 a regular basis. It's just brilliant.
+52:11 Yeah. I mean,
+52:13 you know, another thing I'm I'm always
+52:15 doing is maybe sometimes I just want to
+52:17 know distance between countertops only.
+52:19 So, I do have one that's just NKBA
+52:22 countertops. Click that ruler through
+52:24 there. Show me the distance between
+52:25 countertops.
+52:27 Although Renee, I will have to chat with
+52:29 you about um NKBA dimensioning cuz
+52:31 there's a few things that are off on
+52:32 here. So, we'll have a conversation. I
+52:35 don't find that this is NKBA at all.
+52:37 This was a request from our people.
+52:39 Yeah.
+52:39 >> Okay. Yeah, that's not NKBA at all.
+52:42 Yeah. But yeah, it's a great tool and
+52:44 being able to
+52:46 elevate your level of program use and
+52:49 understand how to change out um
+52:52 make dimensions work for you, it's
+52:53 absolutely brilliant. So, thank you.
+52:55 Sweet.
+52:57 Nice.
+52:58 >> [laughter]
+52:58 >> What's another one, Dan?
+53:00 Well, let's see. You had one
+53:02 >> the line?
+53:04 No, it's We're [snorts] going to cover
+53:06 like
+53:07 only a few of these things.
+53:08 Um
+53:10 It's unclear where section details
+53:12 should be stored. Best use cross
+53:14 sections for detailed house sections.
+53:17 Okay. Well, I thought you might do that
+53:19 one, but I can do that one. I was going
+53:21 to show you this one. I'm going to
+53:22 rotate
+53:23 >> let's do a little general
+53:25 general talk on that one. So, go ahead
+53:27 and you want to start up. Um well, I'm
+53:29 going to start
+53:30 one other one which is dragging an
+53:32 object across a heavy hatch pattern.
+53:35 >> That was a
+53:35 >> I forgot about that one.
+53:36 Now, Dan and I have a had a
+53:38 long-standing feud.
+53:41 We don't feud. We just disagree. It's
+53:44 about the S key. And so, if I'm dragging
+53:47 this across
+53:49 a bunch of things, you're going to see
+53:50 that a bunch of neon green circles are
+53:53 picking up and and my cabinet is just
+53:55 bouncing all over the place, right?
+53:57 That's because it's picking up all these
+53:59 snaps along the way. So, one thing that
+54:03 the S key out of the box does if you
+54:05 haven't applied a hot key to it is when
+54:08 I'm dragging this, notice it's bouncing,
+54:10 okay?
+54:12 Now, this time I'm going to hold the S
+54:14 key.
+54:16 It's not picking up any snaps along the
+54:18 way and I'm still dragging it.
+54:20 >> key does. No, the control key unbinds in
+54:23 any direction.
+54:25 So, I'm no longer dragging polarly here.
+54:28 >> Now, you see you said you okay. So, the
+54:30 S key just will not pick up additional
+54:32 snaps. If I let go the S key now, it
+54:35 will pick up new snaps and it will and
+54:37 it will miss the snaps I already passed.
+54:40 Okay. [snorts]
+54:41 So, that's what that does. So, if you if
+54:43 you don't have that applied to
+54:44 something, that's a way that you could
+54:46 drag something past things that, you
+54:49 know, aren't going to affect it. Now, if
+54:51 you do have the S key cuz it seems like
+54:52 a really convenient key and and Dan's
+54:54 got that set up on his hot keys. Another
+54:56 way to do this is if you know where
+54:58 you're going to drag this to, then you
+55:01 could hold kind of control past that
+55:05 section and then let go of control
+55:08 is another way to do it.
+55:09 >> back in line, yeah. It puts it back in
+55:11 line, yeah.
+55:13 Um okay. And then the cross section
+55:15 thing
+55:16 is when we pull cross sections, it's it
+55:20 just has too much information.
+55:22 Um I would say maybe just use the back
+55:25 clipped cross section which looks like
+55:27 this icon. Um
+55:30 And and just limit your back clip. Just
+55:32 make it real
+55:34 short. Maybe you want to be in a framing
+55:36 view.
+55:37 Um so, maybe I want to be in
+55:39 a floor framing view.
+55:42 And I want to have built all framing.
+55:46 And so, then
+55:47 once I've got built all framing, then
+55:49 maybe I'm just just going just enough to
+55:51 pick up a framing member that I want in
+55:53 that cross section view.
+55:55 >> If it's a truss or something like that,
+55:56 that's all you want to see. So, we're
+55:58 clipping the back of this camera at that
+56:02 at the back edit handle of the camera.
+56:05 So,
+56:06 if I was displaying cameras in this
+56:08 view, which I don't seem to be. Your
+56:10 layer set has a lot to do with how much
+56:11 is showing there, too. Right. So, if you
+56:14 got some lines that aren't that you
+56:15 don't want there, try turning try
+56:18 uh getting your layer hider on and click
+56:20 on it and see if it cleans it up the way
+56:22 you want it. If it does, great. If it
+56:24 doesn't, undo it so it comes back.
+56:26 And
+56:27 work with it that way and then create a
+56:30 create a layer set just for that camera
+56:32 view that that you're trying to get it
+56:35 for your details.
+56:36 Yeah, and that I mean, that's getting
+56:38 into more complication for sure. But,
+56:41 you know, you can always make a copy
+56:42 especially from Aldo with
+56:44 John saying here is, hey, we could just
+56:46 copy this set and start messing around
+56:48 with the layers of it.
+56:49 And it will be associated with the
+56:51 active camera. Just keep in mind, I'm
+56:53 currently in my plan view tab. I'm not
+56:56 on the cross section tab. So, if I hit
+56:58 copy set, that was going to copy for the
+57:00 plan view, not the cross section. And
+57:03 so, that would have changed the layer
+57:04 set I'm using in plan view.
+57:06 Now, another couple things that you can
+57:07 do in this is we can actually break the
+57:09 cross section and manipulate it around
+57:12 sections. And what it's showing you here
+57:13 is this is still back clipped between
+57:16 these two sections here. Right. So, I
+57:18 just picked up a new portion of this
+57:19 house from that. Yeah, careful of that
+57:22 cuz it's kind of weird. You want to
+57:24 define that on your view that yeah.
+57:28 That's a pretty weird cross section now.
+57:30 And the other
+57:30 >> is. It's going to be a little confusing
+57:32 when you look at the plan. What? Right.
+57:35 And so, the last thing I'll say is that
+57:37 if you edit the active view and then you
+57:40 get down into let's see.
+57:43 Hit the act Sorry, I need to be in the
+57:45 cross section view. If I'm editing the
+57:47 active view of the cross section
+57:50 then we have the ability to clip sides
+57:53 as well or clip elevations. So, clip
+57:56 sides
+57:58 it's going to say, hey, do you want to
+57:59 turn on clip lines? And so, this
+58:01 represents
+58:02 um
+58:03 where we're clipping. This is actually
+58:05 the jog. So, I can move the jog if I
+58:08 wanted to.
+58:09 Okay? And this is actually the side
+58:11 clip. So, I can change the side clip.
+58:13 That's the same thing on the floor plan,
+58:15 too, yeah.
+58:16 >> Yeah, that's the same thing as dragging
+58:17 this down or dragging this forward.
+58:20 Yeah, ton of flexibility there. Yeah. Um
+58:23 And then don't forget about we have the
+58:24 ability to do auto detail. And so, auto
+58:27 detail might fill in some of your
+58:30 Yeah, in the last few minutes here, let
+58:32 me just show my screen for a second. And
+58:36 um
+58:37 there there was a question about
+58:38 creating cross sections from Chief
+58:40 Architect um
+58:42 in that you know, they there seems to be
+58:44 a lot of work involved in creating cross
+58:46 sections. And you know what?
+58:48 Uh
+58:49 yeah, I agree. Cross sections are a lot
+58:51 of work.
+58:54 That's just part of the game, I'm
+58:55 afraid. There is no real
+58:59 um
+59:00 I certainly haven't found out any real
+59:02 super duper done draw some walls and
+59:05 poof, you got a beautiful cross section.
+59:07 I mean, you've got your cross section
+59:08 tool that you use, Renee, but um I like
+59:11 doing sections like this where most of
+59:13 what you see on the screen here is from
+59:15 the model. But, you know, probably 75%
+59:18 of it. And then I've added things like,
+59:21 you know, the insulation. I've added out
+59:23 the you know, the different blocks on I
+59:25 wish Chief would do you know, block
+59:27 hatching like that, but it doesn't. Um
+59:30 so, I've added some details to this and
+59:32 then all of the text. So this is, you
+59:34 know, I do my framing. I'm a big framing
+59:37 guy, so I I like doing my framing. So
+59:39 this is going to be pretty accurate
+59:41 other than the truss webbing, of course,
+59:42 the manufacturer's going to get all that
+59:44 right. But so I put, you know, effort
+59:47 into getting all my framing right, so
+59:48 when I do my cross sections, they do
+59:50 turn out well.
+59:52 One little thing that you can do to help
+59:54 a little bit
+59:55 is when you do cross section and if
+59:58 you've set up your walls and things
+1:00:00 correctly, let me just I've got things
+1:00:03 all messed up here. You could do the um
+1:00:06 auto detailing tool. That's this little
+1:00:09 thing right here. It adds a few CAD
+1:00:10 boxes to to Someday it'd be great if
+1:00:13 that would label it and do everything,
+1:00:15 but it doesn't. So it just adds
+1:00:18 hatching, it'll add you know, concrete,
+1:00:21 it'll add, you know, whatever you've
+1:00:23 told that wall or that item to have for
+1:00:26 hatching.
+1:00:27 In this case, insulation, you've told
+1:00:29 that wall to be an insulated wall, it's
+1:00:31 going to add that kind of hatching. It's
+1:00:32 just a CAD box. You could have drawn
+1:00:34 that in yourself. So
+1:00:37 I could take that and I could Yeah, but
+1:00:39 you know, Dan, I think there's something
+1:00:41 about like what you're doing where
+1:00:43 you're creating something and I really
+1:00:46 apologize, it's really loud here, but I
+1:00:48 think that
+1:00:49 the people when you do that, you're
+1:00:52 really adding
+1:00:53 your knowledge and you're really making
+1:00:56 something that's more not I think what
+1:00:59 you're showing right now, that image is
+1:01:00 so pretty, you know, it's really pretty
+1:01:04 looking and it means something.
+1:01:06 And it's accurate and you're not relying
+1:01:09 just on the program because the program,
+1:01:12 you know, obviously we know that the
+1:01:13 program can create things that you can't
+1:01:16 really build and this is using your
+1:01:18 level of intelligence and your knowledge
+1:01:20 and you're creating something more
+1:01:22 hands-on, it's more hand drawing and I
+1:01:24 love this part. This is I save a lot of
+1:01:27 details in my in my library. So when I
+1:01:31 have something that's similar to this
+1:01:33 and I need a lot of that same text, I'll
+1:01:36 just go grab that, open it and pull the
+1:01:38 text out of it. You know, I hit the text
+1:01:40 icon and I'll just draw marquee and just
+1:01:43 get the text and copy that and paste
+1:01:45 that into the plan I'm working on and
+1:01:48 then move that text around. Usually I
+1:01:50 don't get the arrows, I just get the the
+1:01:52 text. But
+1:01:54 in fact, let's delete the arrows by
+1:01:55 selecting the arrow icon and marquee
+1:01:58 select this and then I can get rid of
+1:01:59 just the arrows and now I've just got
+1:02:01 text. So then I'll just kind of put all
+1:02:03 this stuff in place and maybe go change
+1:02:06 a few of the the the words and done. I
+1:02:09 mean, it's doesn't take long to label
+1:02:11 these kind of things. It takes more time
+1:02:14 to make sure your drawing is correct and
+1:02:15 your dimensions are correct. And that's
+1:02:18 where I put a lot of my effort. If you
+1:02:21 have if you for those of you are
+1:02:22 listening and you don't have written you
+1:02:24 do a lot of work like this, you
+1:02:25 definitely want Renee's pro plan because
+1:02:27 a lot of that is already set up and it's
+1:02:30 so organized. Really big program, but
+1:02:33 it's something to consider that will
+1:02:35 make your life easier. But you still
+1:02:37 have to add you still have to add your
+1:02:38 own You're still going to do some brain
+1:02:40 work into it. It's not going to do it
+1:02:42 all for you. It's not going to do it all
+1:02:43 for you. It's not going to do it all for
+1:02:43 you. No, it's not. So This was great,
+1:02:46 you guys. Good job.
+1:02:49 >> cool. What are some of the Dan, someone
+1:02:51 had a comment that you your pro academy,
+1:02:53 you set up a bunch of dimension
+1:02:55 defaults. What you what you end up
+1:02:57 covering in that?
+1:03:00 Um
+1:03:01 Is that what you covered this week,
+1:03:02 John? When did we cover dimension
+1:03:04 defaults? Yes.
+1:03:05 >> We probably have covered it because
+1:03:06 we've covered a ton of things in the pro
+1:03:08 academy. I think they were talk they
+1:03:10 were talking about something that that
+1:03:12 he did a while ago. I change all my
+1:03:14 dimensions to suit what I need. Nice.
+1:03:16 Yeah. Yeah, so
+1:03:18 um
+1:03:19 So if I were to log into the
+1:03:22 pro academy, hang on a second.
+1:03:24 Take 1 second and show this.
+1:03:29 See if I can find it easily enough.
+1:03:32 Oh, come on, Dan.
+1:03:36 We have we've been really having some
+1:03:38 great conversations
+1:03:41 in our pro academy, in our live
+1:03:43 sessions. It's really a lot of fun.
+1:03:45 So I got a I got an idea for your next
+1:03:48 session. All right, what you got? You
+1:03:50 just said that you wished that they had
+1:03:52 a hatch for your
+1:03:54 your block wall assembly.
+1:03:57 So you should
+1:03:59 you should show the pattern creation
+1:04:00 tool and make yourself a block wall. Oh,
+1:04:02 come on, that'd be too easy. Take all
+1:04:04 the fun out of it. But what a great
+1:04:06 idea. Thanks, Renee.
+1:04:09 So
+1:04:10 I will do that. So let's go to the live
+1:04:12 session replays and let's click on the
+1:04:14 video index
+1:04:16 and let's do a quick search for I could
+1:04:19 do use the search tool here, but I'm
+1:04:20 just going to go alt F and search for
+1:04:22 dimensions.
+1:04:25 Oh, how cool is that? Yeah, I just hit
+1:04:27 alt or hit control F or alt F. This is
+1:04:30 this is all of the live sessions that
+1:04:33 we've done so far since November.
+1:04:37 So I could just scroll down the list
+1:04:39 here and just kind of go through these
+1:04:41 and and again, you think about I
+1:04:44 mentioned earlier they just added the
+1:04:46 ability for me to have clickable time
+1:04:48 codes that'll take you right to that
+1:04:50 spot in that video.
+1:04:52 These will all be clickable soon. So
+1:04:55 you'll be able to click on that number,
+1:04:57 poof, you're there. So we can have all
+1:04:59 of these videos part of just one video.
+1:05:02 So I'm really excited about that. You
+1:05:03 could do that on YouTube now. Um it's
+1:05:06 going to be a little more work for me
+1:05:07 because I have to do it manually, but
+1:05:09 it's still there. That's a big deal for
+1:05:11 me. That I've been wanting that for 20
+1:05:13 years
+1:05:15 in the program that I do. So
+1:05:17 um
+1:05:18 So that should be really helpful. Uh So
+1:05:21 if I were to just scroll through these
+1:05:23 different dimension things, layer hider,
+1:05:25 countertops. So we do talk about
+1:05:27 dimensions quite a bit. Simplify auto
+1:05:29 dimensions, okay?
+1:05:31 >> big topic. Yeah. Yeah.
+1:05:33 >> Yeah. And everybody has a different
+1:05:35 standard they want. Yeah.
+1:05:38 And the cool thing about the pro
+1:05:39 academy, too, you since we do four four
+1:05:41 sessions a day for 2 days out of the
+1:05:43 month, you can
+1:05:45 get in touch with me ahead of time say,
+1:05:46 let's talk about dimensions. I want to
+1:05:48 learn more about just that topic and
+1:05:50 we'll cover just that topic. So
+1:05:53 it it it's really been very very
+1:05:55 beneficial for me and for everybody
+1:05:56 involved. So we just John just did these
+1:06:00 or these and these are coming up on the
+1:06:02 18th now. So we start out with a Q&A
+1:06:05 session, then I get into a bit of a
+1:06:07 training session
+1:06:09 where we're covered just more of a
+1:06:10 specific topic. Then we spend the
+1:06:12 afternoon doing plan reviews where we'll
+1:06:14 open plans and talk about how we do
+1:06:15 things like how we do those cross
+1:06:17 sections. Then the evening we do a Q&A
+1:06:19 session. So it's it's it's fun. Cool.
+1:06:22 Dan, you got 10 minutes after we end the
+1:06:25 call? Yeah, absolutely. Cuz I think
+1:06:27 Michael Powell is in your pro academy
+1:06:30 and he's got a question here and and I
+1:06:33 think I could show you something cool to
+1:06:35 show him in the pro academy. Awesome.
+1:06:37 Appreciate it.
+1:06:38 >> [snorts]
+1:06:39 >> Well, with that um
+1:06:40 Yeah, go ahead. questions. Robin, what
+1:06:42 what headset are you using? Oh, we lost
+1:06:44 Robin. Okay. She uses the same one I
+1:06:47 have. Same one that Mike Dan has. Yeah,
+1:06:50 it's called Shokz. If you go to let's
+1:06:54 see, do I have it's S H O
+1:06:59 K S. I think it's that, I think.
+1:07:03 I love this headset. I use it for
+1:07:05 everything.
+1:07:07 Um it's called a bone conducting headset
+1:07:09 because it's not in your ear, it's next
+1:07:12 to your ear and
+1:07:15 so the one I use is
+1:07:17 >> you can't play stuff really loud with
+1:07:19 it. You can, but it's going to vibrate
+1:07:21 on your temple like crazy, it's going to
+1:07:23 drive you
+1:07:23 >> If I'm going to watch a movie or
+1:07:25 something, I don't use these, I use my
+1:07:27 other headset with the
+1:07:29 you know, the speakers in the ear or my
+1:07:32 I use I have the Bose, you know,
+1:07:34 headsets that I use.
+1:07:36 Um but you would want to use where are
+1:07:38 they here?
+1:07:40 Um
+1:07:42 Where are they? Compare prod all
+1:07:43 products. Here we go.
+1:07:45 I have the one with a mic on it. Come
+1:07:47 they're not showing that here.
+1:07:50 Shokz has an affiliate program, Dan.
+1:07:52 What are you doing? Yeah, there is.
+1:07:54 Here's the one I use. Yeah, that's
+1:07:56 right. Yeah, yeah, I use [snorts]
+1:07:59 They got a new one out now. This thing
+1:08:01 is amazing. I use the I don't have the
+1:08:04 thing, I just use the Bluetooth. Um It I
+1:08:08 can be in a crowded coffee shop like
+1:08:10 Robin just was.
+1:08:12 You can't hear anything in the
+1:08:13 background. I mean, if you're if you're
+1:08:16 a foot away from me, you can't hear that
+1:08:18 noise. So it's really really good for if
+1:08:20 you're in a loud environment. And um
+1:08:23 I just love having it. So when I'm
+1:08:25 riding my bike and stuff, I'll use this
+1:08:27 so I don't have to have my ears plugged
+1:08:29 and that's really nice, too. So on a
+1:08:31 windy day or something like that. I do
+1:08:33 need to get some without a mic on it,
+1:08:35 though.
+1:08:35 And the mic's really good, too. So
+1:08:37 anyway, that's what I use.
+1:08:39 But yeah, I've never looked in their
+1:08:40 affiliate program, but I probably should
+1:08:42 do that.
+1:08:43 Okay.
+1:08:45 Let's see, we got just a couple of
+1:08:46 closing things. Uh that's
+1:08:49 We could probably keep going all
+1:08:50 afternoon here if we wanted to. Yeah, I
+1:08:53 have a few [laughter] more I'd love to
+1:08:54 answer. Um
+1:08:56 starting point of learning Ruby is is
+1:08:58 that's a tough one because Ruby Ruby on
+1:09:01 Rails doesn't quite apply to Chief in
+1:09:03 the same way you think, which is why
+1:09:04 chat GPT gets so many things wrong. Um
+1:09:08 So you might just go search
+1:09:11 Ruby stuff or macro stuff in the Chief
+1:09:14 Talk forum and kind of like pick apart
+1:09:17 some info there.
+1:09:19 Other than that, maybe just training. Is
+1:09:21 Joe still doing the macro stuff? Yeah,
+1:09:24 he He does them. Yeah. And then
+1:09:28 um I know Michael Bisiglia does
+1:09:30 training. I do training if you want to
+1:09:32 do some Ruby stuff with me, but
+1:09:34 >> Yeah.
+1:09:35 you know, maybe start reading Ruby on
+1:09:37 Rails, um but there are some very
+1:09:38 specific Chief only things. Go to Coeur
+1:09:41 d'Alene, talk to the guys that that
+1:09:44 built the program and they'll tell you
+1:09:45 some cool tricks.
+1:09:47 Um
+1:09:48 Uh yeah. And then
+1:09:50 >> Awesome.
+1:09:52 Someone else had something, but I guess
+1:09:54 we'll miss it. Go to next thing.
+1:09:56 All right. Say Mike Michael Powell, if
+1:09:58 you're still on here and you want to
+1:10:00 talk,
+1:10:01 I'd love your in- input on how to get
+1:10:03 rid of this shingle stuff or get some
+1:10:04 more comfort, so
+1:10:06 you can get a hold of me right there at
+1:10:08 john@imagininghealthandhealing.com.
+1:10:11 Cool.
+1:10:12 Yeah,
+1:10:13 got some stuff he want to share.
+1:10:16 Awesome.
+1:10:17 Thanks for being here. Appreciate it and
+1:10:19 we'll catch you next time. We'll I think
+1:10:21 we'll pick up on the same topic of
+1:10:24 answering questions.
+1:10:26 We'll do a We'll We'll be a bit more
+1:10:28 refined next time. We'll try to get
+1:10:29 through more things. So, thanks
+1:10:30 everyone. See you next time. Bye.

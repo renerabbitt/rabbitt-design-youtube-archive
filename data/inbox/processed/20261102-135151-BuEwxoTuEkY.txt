@@ -1,0 +1,1677 @@
+Title: Template Tuesdays #20 - Walkout Basements
+URL: https://www.youtube.com/watch?v=BuEwxoTuEkY
+Visibility: members-only
+
+0:06 Oh man.
+0:08 Look at the chat section. You guys are
+0:09 in here. I like it.
+0:13 That's very cool.
+0:14 Uh welcome. Welcome. Welcome.
+0:17 Uh we were just um talking on my Discord
+0:19 server
+0:20 and uh
+0:22 I love that group of uh people.
+0:24 They're just
+0:26 They're a fun fun group to to talk shop
+0:28 with and
+0:30 talking with them and and I was roasting
+0:32 them just a little bit about doing their
+0:34 walkout basements.
+0:36 Um
+0:37 and so I'll tell you that if you go to
+0:38 my website right now,
+0:40 uh there is a blog
+0:43 right now. There's a blog about why you
+0:47 want to build your walkout basement
+0:50 right here.
+0:51 Why do you want to build it on floor
+0:53 one? What would be the reasons for it?
+0:55 And
+0:57 I'm just going to
+0:58 go over that, you know, over the course
+1:00 of this next hour, but
+1:02 uh before we get to that
+1:04 I want to mention that uh I have a bunch
+1:06 of cool updates for this week. I've been
+1:08 working pretty hard this week and uh
+1:12 and there's some things worth checking
+1:14 out. Uh for those of you that don't have
+1:17 my pro pro plan, go get it.
+1:19 Just go get it. There's There is no way
+1:23 that you don't get an amazing value out
+1:25 of that package at this point. Uh it's
+1:28 just it's really incredible and it's
+1:30 really fun to work in and it just keeps
+1:32 getting better and I'm and I'm so happy
+1:34 with it. So,
+1:36 um for those of you that do have it and
+1:39 you have the X18 versions,
+1:41 um I this is beta period. During beta
+1:44 period, I'm pumping out um new versions
+1:47 all the time and that's just to give you
+1:49 new features and
+1:51 or or patch things or or polish things,
+1:54 just make things work a a bit nicer.
+1:56 Um I'll tell you that the version that I
+1:58 put out uh last night in the middle of
+2:00 the night was um it's just so much
+2:04 faster again. It's just
+2:07 uh it just moves faster. It's getting
+2:09 really close to out-of-the-box
+2:11 um Chief where out-of-the-box Chief
+2:13 doesn't do anything for you. It doesn't
+2:15 automate anything for you. It doesn't
+2:16 give you,
+2:17 you know, um things that are already
+2:19 established and done for you so you
+2:21 don't have to annotate things, right?
+2:24 And so the current plan does those
+2:25 things, but it's doing it almost as fast
+2:28 as the out-of-the-box template now,
+2:30 which is very cool for me.
+2:32 And then another thing is that
+2:35 I had built rebuilt Chief's interactive
+2:39 help menu and I'll show you what I mean
+2:41 by that is the F1 key. You launch help,
+2:45 right? And that um if you've never done
+2:47 this before and you're learning Chief,
+2:49 this is something you should know about
+2:51 is
+2:52 that there is in fact a whole um
+2:56 live interactive help menu that comes
+2:58 from Chief Architect. And so as you're
+3:00 clicking on things, it will move to that
+3:03 part of the manual.
+3:05 And so you could see here I've injected
+3:06 something. And the way to read this, if
+3:08 you want to install this, it's in
+3:11 uh it's in the uh
+3:13 step one folder of the installation uh
+3:15 step one through five and
+3:18 the way to read this is double line
+3:20 sections like this indicate something
+3:23 that I've injected into the help menu.
+3:25 So this whole section is something I
+3:26 added. Okay? And because this is live,
+3:29 if I go start a new project from here,
+3:33 and let's say I just get into, I don't
+3:35 know, let's go into um roof dialogue box
+3:38 where I'm popping this dialogue box up.
+3:40 It can sit here and tell you about how
+3:43 my automatic net free area eve
+3:46 ventilation calculations happen, right?
+3:48 Is this upper section. Okay? Maybe I get
+3:51 into the build uh foundation dialog box.
+3:56 And
+3:57 and then it's going to same thing as,
+3:59 you know, edit the default foundation
+4:00 wall.
+4:02 Oh, it looks like I didn't update that
+4:04 one. Oh, no, there it is. Foundation
+4:05 wall defaults.
+4:07 Explains how net free area is calculated
+4:09 for foundation vents, so required number
+4:12 of vents, all that stuff. So there's a
+4:15 bunch of these that pop up as you go.
+4:17 You know, if you click on a label, it's
+4:18 going to tell you about how the label
+4:19 systems work. So, if you didn't know
+4:21 that, that's out there now. You can
+4:23 overwrite the existing help menu.
+4:26 Obviously back it up and then
+4:28 and then you can benefit from just
+4:30 getting some some live information about
+4:33 how to do something in the Pro Plan. So,
+4:35 that's a pretty nice feature, I think,
+4:37 for a lot of people as they're learning
+4:39 Chief to get those little snippets about
+4:41 maybe what's different from my templates
+4:43 versus
+4:44 just what's coming out of the manual.
+4:47 And and then on top of that, I've
+4:49 updated my change log and my my Pro Plan
+4:53 manual as well. So, I'm just trying to
+4:54 give you more resource resources to
+4:57 learn everything. And so, the change log
+5:01 will
+5:02 tell you how to do updates, show you
+5:04 what updates are there. I keep trying to
+5:05 simplify the look of this so that it
+5:07 looks a little cleaner for you. There is
+5:10 a compare versions tool here where you
+5:13 can pick a version you're coming from
+5:15 and a version you want to get to and it
+5:17 will tell you all the differences
+5:19 between those versions and what the
+5:20 requirements are for installation.
+5:22 So, that should help you with that. And
+5:25 then
+5:26 and then I've got the manual.
+5:29 I'm just building out more and more
+5:31 sections on this where it just explains
+5:33 exactly how everything works and
+5:36 a list of toolbar icons and what they
+5:38 do,
+5:40 how we love it if you started a project,
+5:42 some YouTube videos linked to that.
+5:45 And then talk about more infrastructure.
+5:47 I've got a new tool on the website. If
+5:50 you go to the website now, it is in the
+5:53 professionals drop down, there is
+5:57 YouTube search tool. And this is way
+6:01 better than what you can get out of
+6:04 YouTube. You're not going to get a
+6:05 comparable comparable experience out of
+6:07 YouTube for searching videos for my
+6:10 videos anyways.
+6:11 Um because half of my videos are behind
+6:14 a membership paywall. And if you wanted
+6:16 to know if there was a video in there
+6:18 that was going to be something that
+6:20 helped you and your needs, this is going
+6:22 to be the best way to find it. Because
+6:24 what this is is we have transcribed 447
+6:29 videos.
+6:30 Okay?
+6:31 Transcribed 447 videos and this search
+6:34 tool searches through the transcriptions
+6:37 for terms that you might be looking for.
+6:39 And so far, I've used it a bunch of
+6:41 times to find videos to help people out
+6:44 cuz I know I made them and I don't
+6:46 remember what I called them or something
+6:47 like that. I knew the other day that I
+6:50 had something about extrusions
+6:52 somewhere. And this is a live search. So
+6:55 as soon as you start typing, it's going
+6:56 to come up with something. And you know,
+7:00 um
+7:01 So we could do a couple search terms and
+7:03 I can see, okay, this is going to find a
+7:06 couple things here, but really it'll
+7:08 tell you exactly all the little terms
+7:10 that it's matching, why it's matching,
+7:12 uh where it might be. And then on top of
+7:14 that, this is exactly the video I was
+7:16 looking for was this volute in 4 minutes
+7:19 video. I was trying to explain to
+7:21 someone how they could do an extrusion
+7:22 with the poly solid. So
+7:24 um this is just a really great tool for
+7:26 finding what you need out of the
+7:27 library. And on top of that, there's
+7:29 some kind of like delimiting chapters
+7:31 over here that you could base off of or
+7:33 just click on these to just see what's
+7:36 in these categories. Um this should
+7:38 really help you out. It will show you
+7:40 that these some of these videos are on
+7:42 the members area only and you got to
+7:43 watch it on YouTube, but at least it
+7:45 finds those videos for you. Whereas,
+7:48 YouTube just flat out doesn't let you
+7:49 search membership areas. They just think
+7:51 that that was supposed to be a private
+7:52 area. So, if you want to find stuff that
+7:54 I've done before,
+7:56 um there's 440 videos. There you go. Use
+7:58 this tool.
+8:00 And that's just that.
+8:01 Rabbit Design, two bees, two tees,
+8:03 design.net/youtube.
+8:06 All right. And we don't have a lot of
+8:09 time. So, I think I got to start drawing
+8:11 a basement. And let me just check on and
+8:13 see what's going on
+8:15 in here.
+8:16 Um thank you for being a VIP member,
+8:18 Balanced Rocked Media. I don't know who
+8:20 that is.
+8:22 Uh
+8:23 and then Smokey, educate me. I have
+8:26 designed as floor zero in my foundation
+8:28 for years. I'm I'm going to give you a
+8:30 perfect example of why it works better
+8:34 when you design on a level one, um as we
+8:37 get going.
+8:38 You're going to see exactly why. I I
+8:40 will tell you
+8:41 uh that blog spells it out pretty
+8:43 clearly. I I think I took a good amount
+8:46 of time making sure that
+8:49 that was
+8:50 some of the points in that blog were
+8:52 really well understood. So, if you hit
+8:54 the professionals drop down and just
+8:55 click on the blog right here,
+8:57 um one of the main reasons, if you look
+8:59 at this,
+9:00 this is a good example cuz this is
+9:02 already set up, but we're basically
+9:03 going to rebuild this.
+9:05 Is
+9:06 this right here is where level zero
+9:08 starts.
+9:10 So, down below this line is level zero.
+9:13 And so, what you can understand from
+9:14 this picture
+9:16 is that
+9:17 I'm controlling a foundation stem wall
+9:20 or possibly monoslab foundation or
+9:22 something independently of whatever I'm
+9:25 doing on that level one, which means
+9:28 that I don't need to have the same stem
+9:31 wall width
+9:32 when I'm doing a step foundation. Okay?
+9:36 What does that mean? All right. so in
+9:38 order to get this step foundation, what
+9:40 do we have to do? We'd have to either
+9:41 use a material region, which would be an
+9:43 awful tool to use to get that stepping
+9:46 if we wanted a three-part wall assembly
+9:49 where your stem wall might be something
+9:52 different from the point where we start
+9:54 stepping above grade up to the point
+9:57 where we are stepping what? Our main
+9:59 siding or our main stucco or whatever
+10:02 our wall assembly is above that point.
+10:05 So now you have a three-part section
+10:08 that you can control and
+10:10 the other part about this is we get to
+10:12 control them independently of each other
+10:15 where we might have conditions in a
+10:16 walk-out basement where it's really hard
+10:19 to distinguish certain things
+10:21 because we're limited by the fact that
+10:24 rooms control everything. Maybe you have
+10:28 I'll give you another perfect example
+10:29 that we're going to just draw here in a
+10:30 minute is maybe you have part of your
+10:34 your daylight side might be stem wall
+10:35 construction and your non-daylight side,
+10:38 that side that's under grade might be a
+10:40 slab construction, right? And how would
+10:42 you do that and then manage developing
+10:45 rooms?
+10:46 Okay,
+10:47 pretty difficult. You can't I mean dang
+10:50 near can't do that, right? So that would
+10:53 be another reason for the level zero
+10:54 level one.
+10:56 Um the other part about this is it makes
+10:59 figuring out area analysis really
+11:01 challenging. Ideally, you just don't
+11:03 want to have to calculate based on a
+11:06 a level zero's area analysis, right? So
+11:08 if you're trying to get something like
+11:10 um
+11:11 you know, room schedules to work for you
+11:13 to report what your overall area is. Now
+11:16 you're fighting things that might be in
+11:18 a crawl space zone, right? Where you've
+11:20 got retention or something like that and
+11:22 you've got to pick which rooms are going
+11:23 to go to what schedules in order to get
+11:26 a robust area analysis. Makes it really
+11:28 difficult if you're drawing everything
+11:30 on a level zero.
+11:31 Next part about this is look at this
+11:34 independent layer set control. I don't
+11:36 have to manage a bunch of complex layers
+11:39 when I'm on two different levels because
+11:43 I get to just control them separately.
+11:45 And so now on this level I have pony
+11:48 wall control.
+11:49 And this is on a a save plan view by
+11:51 save plan view basis. So I can choose to
+11:53 show the upper wall assembly or the
+11:55 lower wall assembly on my level one
+11:58 independently of showing my footings or
+12:01 stem walls as you might would call them
+12:02 in this condition and and everything
+12:04 else, right? So um
+12:07 here's another example. How do we get
+12:09 this assembly? How do we make it so that
+12:11 I've got, you know, maybe a 16-in
+12:15 stem wall here and then it jumps to an
+12:17 8-in and then I've got a furred wall.
+12:20 Right? You can't do that not easily
+12:22 without this being on two independent
+12:25 floor levels. Here's one that's even
+12:27 more complex, okay?
+12:29 So
+12:30 there's a number of different conditions
+12:32 that this solves for.
+12:34 And so um if you're interested, go check
+12:36 out this blog. It helps me. It brings
+12:38 content to my website. Obviously I'm
+12:40 trying to throw some of you guys at my
+12:42 website.
+12:44 And let me see anything else in the
+12:45 comments before I can get started.
+12:51 Uh was design built at last job? Let's
+12:53 see. I'm catching up with you guys. You
+12:54 guys are just chatting with each other.
+12:58 That's good. I like it.
+13:01 Love from New Jersey. All right.
+13:04 Uh looks like AI is working for me. It
+13:06 is. I've been um if you're curious as
+13:09 how the heck I'm getting that much done
+13:11 in a week, uh yes, AI is definitely
+13:14 helping me out on that. I've been diving
+13:16 into some of the new
+13:18 um agent codex type things where uh you
+13:21 got to train something to do a certain
+13:23 workflow for you. And I've got enough
+13:25 hours underneath my belt now that um
+13:27 the technology is catching up to me is
+13:29 how I I feel about it is I feel like
+13:32 I've known how to instruct it it just
+13:33 wasn't there yet it's finally starting
+13:35 to get there so
+13:36 and it's doing some really good things
+13:38 for me automating some things for me in
+13:39 a great way.
+13:41 Okay, let's get going. How do I do this?
+13:43 Well, I'm I'm going to use my own
+13:45 templates. That's kind of the point of
+13:47 these template Tuesdays. I'm going to
+13:49 show you my products. My product is my
+13:51 templates with my toolbars etc. So we're
+13:54 in my templates and because we're in my
+13:55 templates we have a few things that we
+13:58 benefit from. So
+14:00 let me shut this plan down and I'm going
+14:01 to start a new plan and I'm going to
+14:03 shut down the help menu cuz it's going
+14:04 to
+14:05 distract me jumping around all over the
+14:07 place.
+14:09 And let me just get going on a layout
+14:11 here.
+14:16 And so I have this tool in the toolbar.
+14:19 This guy right here if I could get it on
+14:21 the screen.
+14:22 Pony wall siding six bird. So I'm going
+14:25 to just draw out with this tool.
+14:28 And I'm going to draw out three sides
+14:30 just to get going.
+14:33 And then I'm going to just draw out a
+14:34 typical wall on my daylight side. So I'm
+14:37 going to walk out on the back of this
+14:39 building and that's going to be maybe we
+14:41 even throw a deck back there or
+14:43 something right? So we're going to walk
+14:44 out onto a deck.
+14:48 And this is just my workflow but I love
+14:51 to just if I'm bringing a deck inside of
+14:53 the walls a little bit it's just easy to
+14:55 copy paste about the room.
+14:57 And there we go now we got a deck.
+14:59 All right and then from here we know
+15:02 that we're going to build a second floor
+15:03 cuz we're building this basement on
+15:05 floor one so we might as well build that
+15:07 second floor.
+15:09 So I'll just arrive it from the
+15:10 existing.
+15:15 Mouse is dragging on my countertop here
+15:18 makes it difficult.
+15:21 Oops what did I do? Did I break it?
+15:25 Um I'm going to stand extend these walls
+15:27 forward. We're going to say that this
+15:29 area on this level two is actually going
+15:32 to be at grade. So, I'm just going to
+15:34 extend that line forward and then
+15:36 connect these two walls and there we go.
+15:39 And then
+15:40 uh really quickly, I'm just going to get
+15:42 into default settings walls general wall
+15:44 and I'm going to change to resize about
+15:46 the main layer outside for a second and
+15:49 that's only because I want to select
+15:51 walls and
+15:54 change them to my typical siding six
+15:56 instead of the siding six with a fur
+15:58 wall. So,
+16:00 I'll get into what that first wall type
+16:01 was in a second. We'll we'll take a look
+16:03 at it. Excuse me.
+16:05 But um I just wanted to make sure that
+16:07 when I change these wall types, they
+16:08 were aligned. That's why I changed that
+16:10 default in general wall.
+16:12 And then let's
+16:13 grab this intermediate wall. I'm going
+16:15 to take this to interior four and then
+16:16 I'm just going to
+16:18 come over here and say plus two in the
+16:19 thickness. That's going to make it an
+16:20 interior six and then that's lined with
+16:23 the wall below. So, that's going to be
+16:26 um that wall below is going to be
+16:28 basically a retaining wall.
+16:30 And so, I can go ahead and do that, too.
+16:31 We can open this up and say that, "Hey,
+16:34 in the wall types here, I'm going to
+16:37 uncheck pony wall and I'm going to go
+16:38 ahead and switch this to that 8-in
+16:41 concrete stem wall furred." All right?
+16:43 So, that's just going to be
+16:45 a retaining wall. As you can see here,
+16:47 it's a retaining wall with a furred wall
+16:49 incorporated into it. So, if we were to
+16:50 go look at the wall types,
+16:52 then we can see that this in fact in the
+16:55 main layers has concrete, has an air
+16:56 gap, has a fur framing layer that's
+17:00 walls furring. I even now because it's
+17:02 an X18, I put it to its own display
+17:05 layer. That makes it so I can change it
+17:07 based on fill styles easily. So, that's
+17:10 what my fill
+17:12 um style is going to be for furred
+17:13 walled layer, okay?
+17:16 So, we've got that so far.
+17:18 I'm going to get into the build
+17:19 foundation menu. This is another reason
+17:21 to build on your level one. I'm probably
+17:23 going to get through most of this video,
+17:25 if not all of this video, with automatic
+17:28 build foundations turned on. That's
+17:31 really really
+17:33 I want to say that's impossible to do
+17:35 otherwise. So,
+17:37 so I'm going to leave automatic build
+17:38 foundations turned on. I'm going to
+17:40 change my minimum height. Maybe we'll
+17:42 make it 96 in or something like that.
+17:45 And sure. And so that's going to show us
+17:47 our level zero what it's looking like
+17:49 already. Okay? And so there's our level
+17:52 one. So, level zero.
+17:54 Actually, let's get into that build
+17:55 foundation again. We're going to change
+17:57 our
+17:58 default foundation wall.
+18:00 Make it a 24-in width by 12-in footing.
+18:03 Why not?
+18:05 And so we're really going to see that
+18:07 change. There we go. So, there's my stem
+18:09 walls below that kind of slab level or
+18:13 walkout level. And then right above that
+18:16 is I've got a a pony wall assembly.
+18:19 That's a concrete stem wall with a
+18:21 furred wall. And then on top of that, I
+18:23 have my typical siding six
+18:26 with also a furred wall that aligns with
+18:29 the pony wall's furred wall. All right?
+18:31 So, that makes everything be smooth
+18:34 drywall on the interior side. Okay?
+18:38 And then let's just do a little
+18:39 something with
+18:40 our terrain. So,
+18:42 I might pick the terrain up a level. I'm
+18:45 going to get to my working terrain view
+18:47 and just
+18:49 I might actually kick this up one level.
+18:51 Might be easier for me to work with. So,
+18:54 I'm just going to cut this
+18:56 and then go up a level
+18:58 and paste. And you can't cut and paste
+19:01 terrain perimeters, believe it or not,
+19:03 but you can convert this to a terrain
+19:05 perimeter once you have it if that
+19:07 matters at all to you.
+19:09 I wish you could cut and paste them. Um
+19:12 I'm going to say, let's see, my default
+19:14 wall heights were
+19:16 um 8-ft plate heights, and I got a 7-in
+19:20 structure underneath that. Um so, let's
+19:22 call it 104, 105, 103, something like
+19:25 that. So, I'm going to change the um
+19:28 foundation from a reference point, and
+19:31 I'm going to say surface at a reference
+19:33 point. Let's call it um
+19:36 like 98. All right, I think that's going
+19:39 to line up okay. And then
+19:42 on contours, I know that for some reason
+19:44 my contour settings reset when I do this
+19:47 workflow. So, I want a primary contour
+19:49 every 10 contours at 12-in intervals,
+19:52 and I don't need the secondary, and I
+19:54 don't want to highlight negative
+19:55 elevations. So, there we go.
+19:58 That should be my new terrain perimeter.
+20:00 Notice that this is the reference point
+20:01 it's building from. I'm just going to go
+20:03 ahead and slide this reference point
+20:04 down here. That's what I wanted that
+20:06 elevation change to be from, okay? So,
+20:09 I'm at 100 and or I'm at 98 in
+20:12 from that point. That's where my terrain
+20:15 starts.
+20:16 And so, let's throw some terrain data in
+20:18 here. Um I'm going to get into just an
+20:21 elevation line. I use elevation lines
+20:23 just it's easier sometimes, so I'm just
+20:25 going to draw a square with these.
+20:28 And that just keeps me in this tool, but
+20:30 also gives me the ability to open this
+20:32 up and say, "Hey, the interior of this
+20:34 is flat at um 0 in." In fact, we're not
+20:36 going to call it 0 in, we'll call it um
+20:39 100 ft instead. Why not?
+20:41 And then I'm still in that tool, so I
+20:44 can draw one at maybe
+20:46 let's call this 98 ft.
+20:50 We're going to drop a little bit, and
+20:52 then I'm going to use the transform
+20:54 replicate tool,
+20:55 and I'm going to make I don't know, call
+20:58 it five copies. We're going to move it
+21:01 10-ft intervals, and we're going to go
+21:03 -4 ft down for each interval. So, what
+21:06 did that do? There we go. There's our
+21:09 copies, 10-ft intervals.
+21:11 Um every 10 ft grade is dropping 4 ft.
+21:14 And so, then
+21:16 I want to just get in and do a little
+21:19 maybe a terrain break. I could have done
+21:21 a terrain retaining wall. I don't want
+21:23 to have it fight my foundation right
+21:24 now. I'm not interested in that. So, I'm
+21:27 just going to come in here and throw
+21:28 this little terrain break across the
+21:30 way.
+21:32 And let's see, one last thing. I want to
+21:34 set this room up.
+21:36 I'm just going to call this a bedroom.
+21:38 And then
+21:41 in the structure, we're just going to
+21:42 say that this is a mono slab. Why not?
+21:46 Cuz we are at grade right there. And
+21:48 now, let's go pull
+21:53 let's go pull a camera that's already
+21:55 here
+21:56 and see what's happening.
+21:58 Here's what we have.
+22:00 Well,
+22:01 >> [laughter]
+22:02 >> so, this jump from um
+22:05 the upper room from the lower room, I
+22:07 just have my terrain kind of set up a
+22:09 little bit wonky. You know, it's going
+22:11 to be further under the grade here.
+22:13 So, maybe we'll extend that back deck
+22:16 out a little bit. Let's do that just so
+22:18 it all makes sense. So, we'll extend
+22:20 this out another I don't know, I'll call
+22:22 it 7 ft. Same thing here, 7 ft.
+22:27 And same thing here.
+22:32 And then, [clears throat]
+22:34 let me get this all set up right.
+22:37 It is maybe we just need to move all
+22:40 this stuff down a little bit.
+22:43 Where's our sharp?
+22:45 I know what I did. I put the flat area
+22:47 too far back. Flat area needs to be
+22:48 right about there, I think. That's that
+22:52 seems more accurate.
+22:55 Yeah.
+22:56 Now, let's take a look at this. What's
+22:57 it look like now?
+22:59 There we go. That's a little bit more of
+23:01 what I'm looking for, okay?
+23:04 That's a pretty good setup.
+23:06 Let me see where you guys are at with
+23:07 the comments. I know I'm going fast. I
+23:09 was worried I was going to get this in
+23:11 in time and show you everything I need
+23:13 to show you.
+23:14 Um so, what do you have? Anything? Which
+23:16 level are you on? For terrain? I put
+23:19 terrain on level two. Um
+23:21 That's mainly just because
+23:24 I I thought it would be easier to
+23:26 understand the relationship between that
+23:28 upper layer that's at grade. Um clearly
+23:31 I didn't because I put it in the wrong
+23:33 spot right off the bat, but you know,
+23:36 it's work in progress.
+23:38 Um so, what we see here is this is my
+23:41 pony wall.
+23:42 This is a wall that has a concrete stem
+23:46 wall lower with a fur, right? And the
+23:48 upper is the siding with a furring. So,
+23:50 what do I get to do here? I get to use
+23:51 the break tool. And now I have a hot key
+23:53 for it. So, I'm going to use the break
+23:54 tool with a hot key, but here we go. I
+23:56 get to break this wall right here and
+23:59 just drag this step. This is one of the
+24:00 few times that I'm not going to bark at
+24:02 someone for manually dragging walls is
+24:05 with a pony wall assembly, especially in
+24:07 a foundation level. I'll get to just
+24:09 keep adding breaks and just
+24:12 match my stepping. If you want to get
+24:14 really clever, you could
+24:17 go and make a CAD detail from view,
+24:21 right? Wait for it to do that. Grab this
+24:23 grade line right here, copy it, come
+24:26 back to your elevation, paste hold
+24:28 position,
+24:30 go ahead and turn that on. And then, if
+24:33 I were to right click and drag this If I
+24:35 were to left click and drag this edit
+24:36 handle, what's going to happen? Anybody
+24:38 know?
+24:39 You got 2 seconds.
+24:42 If I left click and drag this, it's
+24:44 going to drag
+24:46 perpendicular
+24:49 to its slope. If I right click and drag
+24:51 it, I can drag it straight up. So, when
+24:54 I'm dragging it straight up, I hit tab
+24:55 or enter, and I'm going to say, "Hey, 8
+24:57 in." I'm going to make this my kind of
+24:59 my step line, okay?
+25:01 And so now, I can just come in here
+25:03 and break it right on that line, take it
+25:06 to where I want next.
+25:10 Coming up this line.
+25:14 It's just helping me. You know, if you
+25:16 if you want to get really clever, maybe
+25:18 start, you know, counting the rows of
+25:20 your of your siding, so you're getting
+25:22 it at about the same the whole time.
+25:23 You're getting a kind of a uniform look
+25:25 if you had a uniform grade, but it maybe
+25:27 it helps you make some decisions about
+25:29 how you want to display this, right? And
+25:31 then notice that the last kind of bit of
+25:33 this, that this isn't probably
+25:34 real-world condition. I'd probably move
+25:36 the terrain back a little bit, but I
+25:38 could break this wall type and switch it
+25:41 to just straight stem wall past this
+25:43 little check mark right here. And so,
+25:45 what would be helpful is if I could use
+25:49 something that shows on both the plan
+25:51 view and an elevation view. So, how do
+25:53 we do that? Well, I could say, "Hey,
+25:55 kind of at this point, it's pretty much
+25:57 stem wall from here on out." So, I could
+26:00 bring this construction line in here
+26:03 and
+26:04 and switch to a working plan view.
+26:09 Cuz there's that construction line,
+26:11 right? There's that construction line
+26:13 there. So, I could just break this right
+26:16 on that construction line,
+26:18 knowing that this isn't going to affect
+26:20 me too bad. All I'm going to do here is
+26:22 take away this siding 6-in
+26:24 and switch to that 8-in concrete stem
+26:26 wall furred.
+26:28 Right there, all right? So, maybe I do
+26:30 that. And so, what does that look like
+26:32 on this side?
+26:33 Going to end up doing this.
+26:35 And I got one more
+26:37 break to do right here
+26:39 to kind of take it up to that level.
+26:42 All right?
+26:44 You're going to work out some details
+26:45 there. You'll figure that out, right?
+26:47 You're going to just work with that.
+26:49 Obviously, I think the grade would be
+26:50 pushed back to where we've got our
+26:53 our uh up here.
+26:55 But
+26:56 I want to keep moving, so we keep this
+26:58 live. Right, so let's take a look and
+27:00 census of what we've got going on here
+27:03 so far.
+27:04 All right.
+27:06 Let me go ahead and um there's another
+27:08 break I could have done. This could be
+27:10 just full height right here, so same
+27:12 thing.
+27:13 I could take uh the construction line
+27:16 and just make this
+27:18 right there, and I could come in here
+27:20 same thing. I could break this, and for
+27:22 this one
+27:24 I could make this short section here
+27:26 just be
+27:27 that upper wall type in this case.
+27:30 All right, so that's going to extend
+27:31 that siding down.
+27:33 And so I could take all three of these
+27:35 walls now and reflect them about what?
+27:39 The room.
+27:40 I'm just I just pasted that onto the
+27:42 other side because they're already set
+27:43 up. They're already set up with their
+27:44 stepping.
+27:45 So if we're to go pull a framing
+27:47 overview
+27:48 and we do a little build all framing
+27:52 and why not? Let's kick it into some
+27:54 kind of a ray trace view. Here's what
+27:55 we've got going on. Here's mono slab
+27:58 foundation upstairs at the grade, right?
+28:01 It reaches stem wall construction. There
+28:04 we go, stem wall. We've got our step
+28:06 wall foundations, right?
+28:10 We've got our fur wall on the inside out
+28:13 to daylight typical wall out here.
+28:17 I mean for
+28:18 spending
+28:20 what is it? 15 minutes, 20 minutes?
+28:22 That's not bad. Now let's keep going.
+28:26 Here's another condition that you might
+28:28 have, that you might be dealing with,
+28:30 and another reason for us to have this
+28:32 on this level and be independent is I'm
+28:35 going to throw a little room divider in
+28:37 here
+28:38 and I'm going to say
+28:40 this back half is going to be
+28:43 slab on grade. Um actually it's going to
+28:45 be like an elevated slab, maybe like a
+28:48 double mat slab. So, I'm just going to
+28:49 hit the mono slab foundation and that's
+28:53 going to check this box, but then I'm
+28:54 going to uncheck it again and what that
+28:56 did was commit the floor structure at 4
+28:59 in concrete. And if I wanted to, I could
+29:01 come in here and say, "Hey, I want a
+29:03 double mat slab at 8 in." and
+29:09 And so then we go look at this again, do
+29:12 a little build off framing. And so if
+29:14 we're turn on floor surfaces,
+29:18 Now look, that's actually cutting all
+29:20 the way through and that shouldn't be.
+29:21 Let's figure out what I did wrong there.
+29:25 Um, build off framing. We're not going
+29:27 to show them in this view. I want to see
+29:29 that one more time. Oh, there we go.
+29:30 There it is. So, if I get into Aldo,
+29:33 turn on my floor surfaces and maybe
+29:36 delete some of those floor surfaces with
+29:37 a delete surface tool, you're going to
+29:39 see there we go. There's our plywood on
+29:41 top of our joist and then the for this
+29:43 back half, this is just that double mat
+29:46 slab.
+29:48 Pretty unique setup, right? You did it
+29:50 pretty quick.
+29:53 Uh, let's see.
+29:57 You build a main floor and then add the
+29:59 walkout basement. Yes, you can. Uh, the
+30:01 only problem you're going to run into
+30:03 with inserting a floor, that's inserting
+30:05 a floor is
+30:07 um, a lot of people place their
+30:09 architectural items
+30:12 uh, on an exterior of the house and they
+30:16 um, they don't take the time to change
+30:18 the reference of that architectural item
+30:21 to absolute. Okay? When you have it set
+30:25 to absolute, let me see if I can even
+30:27 give you something that might reference
+30:28 that. Here we go. We'll just draw a
+30:29 solid here.
+30:31 Is right now out of the box when I place
+30:34 this solid, let's kick it to ray trace
+30:36 view so we could see it a little bit
+30:37 better, is if I open this, notice that
+30:40 the elevation reference is from finished
+30:43 floor. You technically have an exterior
+30:47 room, so that's what's that's what Chief
+30:49 is building this from.
+30:51 So, then what happens when you insert a
+30:53 floor? It's going to make that item
+30:55 jump, right? And so, all of your hard
+30:58 work about putting, you know, corbels or
+31:01 um whatever architectural features you
+31:03 want on the exterior of your house,
+31:05 those things are all going to move if
+31:06 you insert a floor. So, you want to make
+31:08 sure that you go through and check that
+31:10 all of these are set to absolute. Now,
+31:12 we're just taking absolute values, so
+31:14 it's not referencing anything at all. It
+31:17 just remains at its absolute value. So,
+31:19 that's what you would do if you're going
+31:20 to insert a floor. Just make sure you've
+31:22 got everything set to that. The only
+31:24 other thing that's going to happen is
+31:26 I call it a glitch. Um I don't think
+31:27 Chief has any intention of fixing it,
+31:29 but if we were to insert a floor right
+31:31 now, this deck framing would remain. And
+31:35 so, it would show up again.
+31:37 And so, you have to manually delete the
+31:39 deck framing and then rebuild your deck.
+31:42 Um
+31:43 I've reported it and um I don't know. It
+31:46 just seems to be a
+31:47 one-off glitch that happens. It's a
+31:49 pretty easy fix, though.
+31:51 Um
+31:52 Yeah, so I'm responding to that, Victor.
+31:54 I see all your finger guns.
+31:58 Okay.
+31:59 And then, uh let's see. Where could I go
+32:01 from here cuz I feel like I could show a
+32:03 couple other things. Well, let's go take
+32:05 a look at what the layer sets are
+32:06 looking like and and in fact, let's go
+32:08 even look at what are um our layouts
+32:12 even looking like. Um maybe I want to
+32:14 get rid of these construction lines now.
+32:16 Sure. Um I am going to end up doing
+32:19 construction lines based on
+32:21 you know, the separate floor once I get
+32:23 it all designed out, but uh
+32:25 get into the project browser,
+32:27 get into my layout.
+32:31 And then, so
+32:34 um
+32:35 Rock Pile, can you get a garage door cut
+32:37 out to show up on the uh on the upper
+32:40 level? Um, I'll check that out in just a
+32:42 second. You know, I don't I'm I can't
+32:44 remember if I've tried that recently,
+32:45 but I don't see why not. I think we
+32:47 should be able to.
+32:48 Um, so just looking at what this ends up
+32:51 looking like so far is I'm going to end
+32:53 up kind of adjusting my plot plan. I'm
+32:56 going to end up taking all this stuff up
+32:57 a level. I think that's what I'll end up
+32:59 doing. And then um, yeah, so that
+33:02 doesn't bother me.
+33:03 So, there's a little bit of management
+33:05 that goes into this.
+33:07 So, cut this, take it up a level.
+33:11 Drop it in here. Start detailing this
+33:13 view out and then just save that view.
+33:16 So, a little bit of an edit there. Um,
+33:19 the next plan page is my landscape plan.
+33:23 So, I'm going to take that up a level,
+33:24 too. Build out um, my landscaping in the
+33:27 front yard, etc. Start dropping in the
+33:29 trees.
+33:30 Uh, and then we've got now our floor
+33:33 one, you're going to end up duplicating
+33:34 that page. And so, once you've
+33:36 duplicated that page, you can come in
+33:38 here and set this to second floor. So,
+33:40 uh, those things should be aligned now.
+33:42 Floor one, floor two. Um, we can see
+33:45 here that this is, you know, basically
+33:47 this is retention, right? Now, remember
+33:50 that we can go in here to any one of
+33:52 these pony wall assemblies. Let's get
+33:53 rid of this polyline solid. And we can
+33:55 come in here and we can change the way
+33:57 that we see this, right? So, right now
+33:59 we're seeing the upper wall and lower
+34:01 wall outline. We could see an upper wall
+34:04 outline and lower wall if we wanted to.
+34:06 So, again, this just gives us way more
+34:10 flexibility on how we display things
+34:13 separate from that floor below.
+34:15 Okay?
+34:18 So, that's going to look kind of funny,
+34:19 but there you go. We'll leave We'll
+34:20 leave it.
+34:21 And keep working through here.
+34:24 And so, there is my you know, um, this
+34:27 is what This
+34:29 This is great. I don't I don't have a
+34:31 ton of cleanup here. You know, there
+34:34 might be a few things, but for the most
+34:35 part, we can see what's happening here.
+34:38 And not only that, but
+34:40 we can always use reference displays
+34:42 that we build that show that floor below
+34:44 or that floor above as well. It just
+34:46 gives us ultimate flexibility on how we
+34:48 display things.
+34:50 I think this is a really clear depiction
+34:52 of what the expectation is. I'll drop in
+34:55 a a couple little callouts here and
+34:57 throw you to a detail, and I'll show you
+34:59 that yeah, I'm going to hang this
+35:01 this floor on that on this wall
+35:03 assembly. Um
+35:05 and then I'm going to have a slab in
+35:06 this area that's an elevated mat slab,
+35:08 and I'll have a detail for that, too. I
+35:10 think that's really clean. And so, then
+35:12 let's duplicate this page, and then
+35:15 take this up a level,
+35:17 so we can see what that's looking like.
+35:19 Yeah, and so it's
+35:20 framing out everything. This might be a
+35:22 reason for you to change what the pony
+35:25 wall display is. You can see clearly
+35:27 that where I changed the pony wall
+35:28 display, that we're getting that fill in
+35:31 there, and that it clearly looks like
+35:34 yeah, we've got a big
+35:36 um retaining, you know, stepped
+35:38 foundation here. Uh it'd be nice if it
+35:40 showed the steps, so maybe we would
+35:42 actually break it at the steps, who
+35:43 knows? Up to you, or draw a couple CAD
+35:45 lines in there, something like that. But
+35:46 that clearly shows a floor wall
+35:48 assembly. Um yeah, pretty slick.
+35:52 And then let's go to my next page.
+35:57 Uh proposed framing roof plan. That just
+35:59 means I need to take this up a level.
+36:02 Here we go, that'll fix that.
+36:04 And this is proposed roof plan again.
+36:07 This just shows like a roof overview for
+36:10 people that want to see it.
+36:11 Um we're going to have to update these
+36:13 elevations. Now, let's kick one off for
+36:15 a second, give me a chance to
+36:18 sip some day-old coffee.
+36:27 Nice. Great comment, Victor. Thank you.
+36:30 I love when people see someone else's
+36:33 user experience and it was a good one
+36:35 with this method.
+36:36 I really do believe this is the way to
+36:38 do it. So.
+36:41 Yeah.
+36:43 Um
+36:44 You always have the ability with
+36:46 terrain, by the way, to set it so that
+36:48 if my camera's inside of this terrain,
+36:50 we could see the rest of that foundation
+36:52 wall and it will show it in a dash line.
+36:55 So, I could always just bring my camera
+36:56 just inside of that terrain perimeter if
+36:59 I wanted to change the way that this is
+37:00 looking. So, what I mean by that is my
+37:02 terrain perimeter's butt it right up to
+37:05 these pre-established cameras. And so,
+37:07 if I bring that in and we go look, now
+37:10 we're going to see Oops, I got to bring
+37:12 it in a little bit farther.
+37:14 Let's just bring it in nice and tight
+37:15 right here.
+37:17 Now, we're going to see under that
+37:18 grade, right?
+37:21 There we go. Um that's a very excessive
+37:25 excessive setup here. Yeah, you're
+37:27 probably going to have to make some
+37:28 changes in that automatic foundation.
+37:30 But again, it's automatic foundation.
+37:32 That's what's great about it. All you
+37:35 got to do is this.
+37:36 And that should just rebuild, right? Um
+37:40 this section
+37:42 I'm not sure what's going on with the
+37:43 section. It's being dictated by that
+37:45 room. So, I'll probably just uh change a
+37:47 setting there and that would fix it for
+37:49 the room below.
+37:56 And then we're just kind of getting into
+37:59 difficult details, etc.
+38:03 Yeah, nothing else really to see here
+38:04 mechanicals.
+38:06 All that stuff. So, I don't know.
+38:07 Looking pretty good. I'm sure I'll save
+38:10 this. Why not?
+38:13 See, love how your tools allow for more
+38:15 design time and less fussing with
+38:16 technical drawing time. No kidding. Uh
+38:19 that is the reason for their existence
+38:22 is because if you couldn't tell from all
+38:24 my videos
+38:25 jumping subjects every 2 seconds
+38:28 I have a problem focusing.
+38:31 >> [laughter]
+38:32 >> And so getting into all the technical
+38:35 aspects of this software it was a beast.
+38:38 It just it couldn't it couldn't work for
+38:40 me. I can't design and then sit there
+38:42 and fuss with how do I do this thing?
+38:44 That's so disruptive.
+38:47 You know, I can't wait till the time
+38:49 where we just get to think it and it
+38:50 happens, right? Wouldn't that be great?
+38:53 That's called hiring someone I guess,
+38:55 so.
+38:56 Um yeah, in lieu of hiring someone cuz I
+38:59 was a broke kid trying to figure this
+39:00 out. Um
+39:02 It's like, yeah, let's let's make this
+39:04 easier so we could keep our design flow
+39:06 and keep working
+39:08 through that process that we just want
+39:10 to naturally work towards, so.
+39:13 Yeah, it's nice when we figure out a
+39:14 process and it makes a lot of sense. Uh
+39:16 let's switch this bedroom to garage.
+39:19 Oop. That's not where we want to do it.
+39:24 Oh, set me back. Set me back to where
+39:26 you were.
+39:27 I bet I screwed everything up there, so
+39:29 I'm going to say cancel.
+39:33 Let's change this to garage. And so the
+39:36 question was, do we get a buck out on
+39:38 this garage?
+39:39 When we put this garage door here, does
+39:41 this kind of work the same way as
+39:43 before? What do we want? 3 and 1/2 ft on
+39:46 either side? Make that a 16.
+39:49 And then what does this look like on the
+39:51 floor below? Well, all right, so here's
+39:53 what's going on with floor below on this
+39:56 is that
+39:58 you don't actually see uh the mono slab
+40:00 foundation. In fact, if you were to go
+40:02 turn on every single layer
+40:06 so
+40:09 I were to just set this to none real
+40:11 quick and let's set our layer set
+40:13 options to all layers on and we actually
+40:15 turned on
+40:17 all layers.
+40:19 Um yeah, there's no
+40:21 We don't see that mono slabs footings at
+40:24 all. Even the footings layers is turned
+40:26 on.
+40:27 Right. So, the work around for that
+40:29 would be that um I'm going to get in
+40:31 here, grab this wall, break it right
+40:34 here.
+40:35 Same thing, break it right here.
+40:38 Um if in your settings in walls, general
+40:41 wall, you have it set to unchecked auto
+40:44 merge collinear walls. That means you
+40:46 can break a wall and not worry about
+40:47 them
+40:48 kind of re-establishing.
+40:51 Right? So,
+40:52 um I'm going to take these walls, copy
+40:54 it, paste, hold
+40:56 position. We're just going to see if we
+40:58 can't make this work visually.
+41:00 And so,
+41:01 I'm resizing about the main layer
+41:03 outside, so I could feasibly switch this
+41:06 to like a 16-in concrete stem wall
+41:09 to fake the look of
+41:11 my garage
+41:13 upstairs, and then
+41:15 if I just change this to
+41:19 a um
+41:21 >> [clears throat]
+41:22 >> a what?
+41:26 I guess I don't even need to change it.
+41:28 I could just say, "Hey, let's not report
+41:30 this to schedule."
+41:32 And
+41:33 um
+41:34 >> [clears throat]
+41:34 >> switch this to a
+41:37 doorway.
+41:39 And let's say that it's got no jam or
+41:42 frame or casing or any of that.
+41:46 And then what's What ends up happening
+41:47 with this?
+41:51 Does it look like it looks like that?
+41:57 Label says what? Garage buck out.
+42:05 Garage buck.
+42:07 Buck name garage.
+42:10 You know,
+42:11 um
+42:12 Does that work?
+42:15 I think so. I might send this to
+42:17 different layers so that it
+42:19 that it has no fill or or just override
+42:21 the fill style in this case so that it's
+42:23 just a
+42:24 I would think that I would want this to
+42:26 be a solid white fill so we we'll get
+42:28 into define here. We could copy it if we
+42:30 needed to. We're not going to. Instead,
+42:32 we'll just edit the layer fill style.
+42:34 We're going to override this and just
+42:36 make this background color.
+42:40 So maybe that displays a little bit
+42:42 nicer for our garage back set up there.
+42:46 Yeah, and then you have the room level
+42:49 to set up what the relative height is,
+42:52 right?
+42:54 So
+42:56 that's what I would say there
+42:58 is does that show just
+43:00 correctly? We might want to set, you
+43:03 know,
+43:04 do the new lock thing where we pull
+43:06 these layers back.
+43:07 So we could
+43:09 bring that back so that we're carrying
+43:11 something through.
+43:15 Yeah.
+43:17 I think that gets us pretty close there.
+43:19 Oh boy,
+43:20 what did I do there? Didn't make that
+43:21 flat. There we go.
+43:23 Something like that.
+43:26 Yeah, I think that
+43:29 What do you think Rock? Is that Rocky?
+43:31 That who that was that asked that
+43:32 question?
+43:35 And let's see, can you share the area
+43:37 below grade? So all the way down to the
+43:39 foundation level there that's what we're
+43:42 at. So we did need to turn off automatic
+43:44 foundations because we just used 16-in
+43:47 stem walls to fake the look of our
+43:51 our buck out at at that garage assembly.
+43:54 So I needed to shut that
+43:56 that down.
+43:59 I could now manually edit this and turn
+44:01 off auto build foundations.
+44:04 So this is what this is going to look
+44:06 like here, when it's all said and done.
+44:10 All the way.
+44:13 Right?
+44:16 Yeah. Yep. Yep. Yep. And since this is
+44:19 not really an intermediate bearing, this
+44:21 is some other condition, you know, that
+44:22 gives us the opportunity to change what
+44:24 this footing looks like, cuz it probably
+44:26 don't need to be that fat for this boy
+44:28 right here.
+44:30 And get a little skinnier for that one.
+44:32 And the rest of these
+44:34 look pretty good.
+44:36 Um
+44:37 Seems to me I don't have my deck framing
+44:40 showing, and I don't
+44:43 That might have been an error on my
+44:44 part.
+44:45 Uh deck posts.
+44:49 Here we go. I want those deck posts. Why
+44:50 not?
+44:53 Yeah.
+44:56 What do you guys think? What do you guys
+44:57 think of all this? This is all making
+44:59 sense to you?
+45:00 Um it's There's no way this isn't
+45:02 compelling. This is You know, we spent
+45:04 30 minutes something like that. We've
+45:05 gotten a lot done for this, and the
+45:07 building overall probably looks blasted
+45:09 now, cuz I just messed with that upper
+45:11 section.
+45:12 Um where we need to make some edits
+45:14 about how this all looks, right? Cuz
+45:16 this is not actually
+45:19 Um this was just for display purposes,
+45:21 which doesn't help us. And so we want to
+45:23 also turn off maybe mono slab for this
+45:26 room up here.
+45:30 Oh, what do I have two two framing views
+45:32 now? Oh, I do.
+45:34 Funny.
+45:41 Uh can you shade the area below grade on
+45:45 elevation
+45:46 camera views? You know what naturally
+45:48 gets shaded? Um by the terrain itself.
+45:52 I don't know if you could tell that, but
+45:54 there's definitely a difference between
+45:55 this is a little darker color than this.
+45:58 Um you could always obviously just, you
+46:00 know, draw some some cat over the top of
+46:03 that with a
+46:05 um semi-transparent fill, that would do
+46:07 it as well. But, yeah, it it is already
+46:09 shaded if you if you don't see that.
+46:12 And then
+46:14 Yeah, let's get into this garage for a
+46:16 second. We're just going to say that
+46:18 this is
+46:20 not a mono slab, so it doesn't build the
+46:22 foundation below.
+46:23 We just uncheck build foundation below.
+46:26 That would do it.
+46:29 And then this room
+46:31 we're just going to call this an open
+46:32 below room. You can always go into your
+46:35 default settings, change duplicate a
+46:38 room like the open below room, and call
+46:40 it something like
+46:42 if I were to tab into this room and get
+46:44 a room dialog box, you could call it
+46:46 something like crawl space.
+46:48 Um
+46:49 Yeah, I have one called crawl space, and
+46:51 so that technically makes this an open
+46:53 below room.
+46:55 And then since I have the room selected,
+46:57 I can obviously kind of slide this up,
+47:01 make this whatever I need this to be.
+47:03 Right? Isn't that slick? Makes that
+47:06 really easy.
+47:07 Okay, same kind of thing over here.
+47:10 Um this one
+47:14 I'm not sure why that's getting affected
+47:16 like that, but obviously I could just
+47:17 come in here and
+47:19 um I might break the walls at this
+47:21 section right here and set this wall to
+47:23 be putting. Again, this is another
+47:25 reason that this works so well is um
+47:29 what if I were to slide this wall back
+47:31 to here?
+47:33 Okay, let's take a look at this in
+47:34 elevation view, so we're really seeing
+47:36 this. So, I just slid that back to this
+47:38 point right here. We're going to use
+47:39 that same trick. I'm going to do
+47:41 construction line, still that active
+47:43 tool. I'm going to draw that
+47:44 construction line right here. If I get
+47:46 to this
+47:47 plan view, what does that mean? What am
+47:49 I trying to do?
+47:50 I'm trying to break my upper wall at
+47:52 that construction line.
+47:54 Here's my upper wall. I'm going to break
+47:56 it right at that construction line,
+47:58 okay?
+48:00 Now, what do I get to do with this? I
+48:01 get to say that this wall and this wall
+48:04 right here
+48:06 are they're going to have footings.
+48:08 They're going to be foundation walls, so
+48:09 they're going to have their own footing.
+48:12 And so, what does this look like? This
+48:14 is what happens with this.
+48:16 Um we need to match it onto the other
+48:17 side, too, still.
+48:19 I'm just grab this whole assembly here.
+48:22 But
+48:31 I'm trying at this point to give you the
+48:33 most difficult setup that you could
+48:35 possibly have, just to show you that
+48:38 it's all workable.
+48:45 I still think I'm getting remnants from
+48:46 that other side. Yeah, I'm fairly
+48:48 certain that I am.
+48:52 All right, this is going to come to
+48:53 here.
+48:55 Maybe we should have done a back-clipped
+48:56 cross section, so we're not seeing both
+48:58 sides of this. But, there there is my
+49:00 footing there. This wall also can get
+49:03 rid of. That's the lower wall assembly.
+49:05 Here's our upper wall, pony wall, which
+49:08 is
+49:09 um which is this back wall right here.
+49:11 We could say that this now has a
+49:13 footing. This is a foundation wall.
+49:19 There we go.
+49:20 See what I was getting to?
+49:22 Right?
+49:26 Here we go.
+49:27 So,
+49:28 pretty easy for me to just manually
+49:30 update this. Maybe I don't need it that
+49:32 far underground. Maybe I need it way up
+49:34 here.
+49:35 Um except for my levels down here, so
+49:37 that doesn't make any sense. We just
+49:38 brought that above the floor level.
+49:41 Yeah, this is just there's going to be a
+49:42 lot of cut and fill on this one. That's
+49:44 all that is.
+49:45 Uh let's go take a look at this. I see
+49:47 someone I see Victor with his finger
+49:50 guns again. I'll get to you. Give me a
+49:51 second.
+49:52 Um
+49:54 this seems to have gotten flipped.
+49:59 Did that by accident? There we go. Let's
+50:01 go build all this framing again and see
+50:03 what happens.
+50:05 Here we go. Half slab
+50:09 half
+50:10 stem wall above grade, bird walls,
+50:12 stepped walls, retention, footings.
+50:18 Kind of a fake mono slab.
+50:21 This is just representing our buck out.
+50:25 Yeah.
+50:26 That's beautiful.
+50:28 What you guys have got here?
+50:38 Well, I want to know why you're why
+50:39 you're spending time doing that. I'd be
+50:41 really curious about that. Is that just
+50:43 um you know, what are you doing for
+50:44 framing elevations? The question is
+50:46 this, I always select one by one the
+50:47 sill plates in contact with concrete and
+50:50 use the CB pressure treated material
+50:53 cannot be automated. And um
+50:56 I don't think that that can be because
+50:58 in the default settings you see how good
+51:01 I am at this program. In the default
+51:03 settings
+51:04 in framing members, there is no material
+51:07 designations for framing members or
+51:09 framing types.
+51:10 Um
+51:16 there is no sill plate.
+51:19 There is a sill plate, but there's no
+51:20 material panel. See?
+51:26 And just checking it is treated does not
+51:28 automatically change what the material
+51:30 is. There is no way to change that
+51:32 material automatically.
+51:34 Um
+51:35 so, you know, what you could do, which
+51:38 would probably be easier, is
+51:41 come in here and make yourself a custom
+51:44 view. So, I'm going I'm going to a
+51:45 working framing view.
+51:47 I'm going to save this active view as
+51:51 and I'm going to make a new save plan
+51:54 view and I'm going to copy the layer
+51:56 set. Now with my copied layer set, I'm
+52:00 going to use the layer hider tool and
+52:02 I'm going to hide all these
+52:05 uh rim joists. I didn't mean to hide the
+52:07 walls, but hide the rim joists and then
+52:11 let's go find our sill plates. Framing
+52:13 sill plates are displayed.
+52:16 Um let's undo me hiding my my dang
+52:19 walls.
+52:20 Let's just hide the rim joists instead
+52:22 this time.
+52:26 And so I should be left with just my
+52:28 sill plates.
+52:30 Um although it's not showing them on the
+52:32 stepping.
+52:34 What I was thinking there was we should
+52:35 be able to just group select all sill
+52:37 plates.
+52:38 Um
+52:39 my next thought would be, hey, guess
+52:42 what? These get to get reported to a
+52:44 schedule. So, if we were to do a little
+52:49 um custom schedule or framing schedule,
+52:53 what's that? M key?
+52:54 A A key.
+52:56 Framing schedule and let's go open this
+52:59 up. We're going to
+53:00 say we're going to limit this to nothing
+53:02 but quantity.
+53:05 And the only thing we're going to allow
+53:07 in this
+53:10 is
+53:17 What would that be under framing wall,
+53:18 you think?
+53:21 Sills.
+53:22 Damn.
+53:23 Okay. What does this look like?
+53:26 Uh nothing.
+53:27 >> [laughter]
+53:29 >> Why Why does that Why doesn't that show
+53:31 anything?
+53:32 Um are these
+53:34 Do these get sent to schedule sent to
+53:37 schedule as framing floor ceiling sill
+53:40 plates? Okay, I don't know why they have
+53:41 a category in walls then.
+53:43 >> [laughter]
+53:45 >> Uh okay, so framing floor and ceiling
+53:49 sill plates. Bam. Make the schedule, put
+53:53 it inside of your library, and then what
+53:56 you get to do is all it is is
+53:58 group similar objects. So, if you get
+54:00 into this, you're going to see
+54:02 um group similar objects is checked,
+54:05 okay?
+54:06 That's going to bring everything
+54:07 together under one list. We want to make
+54:09 sure that everything's reporting to one
+54:12 uh row.
+54:13 Once one row is selected, now you can
+54:16 open the row object from your edit
+54:19 toolbar and go change the material of
+54:22 it.
+54:28 Do whatever you like.
+54:30 And does that look like we want it to
+54:32 look? Did that do our job? Let's see how
+54:34 good it did. It only recognized that
+54:36 these were sill plates, so that's a
+54:38 bummer. So, I I always say on the
+54:39 stepping. I don't know what this is
+54:41 being seen as.
+54:44 Framing wall. It's just seeing as
+54:46 framing wall.
+54:51 Framing wall plates. Okay.
+54:54 Same thing. Maybe we can still get this
+54:55 done. We'll see.
+54:56 We'll just add that as a category as
+54:58 well.
+55:00 Hopefully this is interesting to you.
+55:02 I'm not I'm not looking right now.
+55:03 Framing wall plates. There we go.
+55:06 I don't know if that
+55:08 Does that make the top plates then? It's
+55:09 probably easier to spray the top plates
+55:11 though, cuz you don't have these
+55:12 millions of little little guys here. So,
+55:14 same thing. Open row objects. Let's see
+55:16 if we can get this done easily enough.
+55:18 Oh, yeah. It's a mix and match
+55:20 reporting, so
+55:22 um I feel like you got to do a second
+55:24 schedule where you take out that first
+55:26 category.
+55:28 And maybe then we can open the row
+55:30 object.
+55:32 Nope, it's still not going to show it.
+55:33 I'm not sure why.
+55:37 Oh, cuz it's showing it in wall details.
+55:41 Interesting.
+55:43 Yeah, so no, I don't have a great
+55:44 solution for you on that one. I'm sorry.
+55:51 Don't have a great solution on that one.
+55:53 I wish I did. I'd have to I'd have to
+55:55 think about that, not on a live call.
+55:56 I've never had to figure that one out
+55:57 yet.
+55:59 Um but again,
+56:01 are you spending the time to do that? Is
+56:02 that just for like 3D framing views?
+56:06 I'm just curious. I'd I'd want to know.
+56:09 You know? Go make some money. Get right
+56:11 past that.
+56:12 No one cares what that color is.
+56:17 Te- tell AI to change the bottom plates
+56:20 to pressure treated.
+56:23 Yeah, turn it I'll have to think about
+56:24 that. That's going to bug me now. I'm
+56:26 going to go spend more time after after
+56:28 this
+56:29 to be bugged by that.
+56:31 Um
+56:32 should we make this view really pretty
+56:34 and throw a little backdrop on there?
+56:35 Why not? Cuz we got 2 minutes left and
+56:37 that's about all we got time for. So,
+56:41 let's do a little backdrop.
+56:44 Do backdrops number two.
+56:46 A little sunset scene maybe?
+56:49 Look at that. Beautiful day on the job.
+56:54 Just cooking up a house. Wouldn't that
+56:56 be fun?
+56:58 Um well, thank you all. I hope I hit
+57:01 most of maybe the questions. Uh let's
+57:03 see. I see one from Victor Asilla
+57:06 Asilla.
+57:08 Uh
+57:08 Oracia.
+57:10 Uh is this X18? Yes, it is X18. Oh, I
+57:13 think it's clipped at the top, isn't it?
+57:14 Yeah. This is X18.
+57:16 X18 moving really fast. Um like
+57:20 I may have mentioned, I did an update to
+57:23 the pro plan yesterday.
+57:25 Um
+57:26 it's one of those updates that I feel
+57:28 like might be worth your time to go do
+57:30 because it's just drawing so quickly uh
+57:33 and it seems to keep drawing quickly all
+57:36 the way out to a point where it
+57:38 typically would slow down considerably.
+57:41 Um which is once you get about
+57:43 um seven rooms and expand past the sheet
+57:46 of an arch D, this typically starts
+57:48 slowing down no matter what you're
+57:50 using. So, this is just moving so fast
+57:54 right now.
+57:56 Uh which is awesome.
+57:58 And if we're to compare that against
+58:00 Chief Architect's out of the box,
+58:03 Chief's is faster. I'm going to tell you
+58:05 that it because it's going to keep that
+58:07 fluid motion on these drawers
+58:09 all the way through. Um but they're not
+58:12 they're not running calculations and
+58:14 calculators and all a bunch of automatic
+58:16 stuff that this is doing typically. So,
+58:18 Chief's is going to be faster, but I
+58:20 think I've got mine pretty dang fast
+58:22 now.
+58:27 And then uh one last thing I forgot to
+58:30 mention is
+58:32 you know, if I go open up my layout
+58:34 again, take a look at this.
+58:37 Um there is if I get to my page
+58:41 and I'll call it five or something, six.
+58:45 Wherever this is.
+58:47 Uh
+58:47 right now, this is called proposed main
+58:51 level floor plan. This is an automatic
+58:53 labeling system. This is part of why you
+58:55 get my templates is cuz it handles some
+58:57 things for you. If you get into the
+58:59 project information tool, hopefully this
+59:02 is working. I haven't tested it in a
+59:03 while, but there is a layout options
+59:06 section here. Let me just kind of shrink
+59:08 this down a little bit. Layout options.
+59:11 This is where it says, "Hey, is this a
+59:13 walkout?" If it is, type in true. And
+59:16 what do you want the walkout name to be?
+59:19 And so, let me press okay.
+59:21 And then
+59:23 uh let's
+59:25 let's see what happens here.
+59:27 I think it might take a second for that
+59:29 to parse the information and going back
+59:31 and forth between layout etc.
+59:33 Let me
+59:35 come in here and we want to see what the
+59:36 area analysis is looking like from here.
+59:40 And so this this did pick out that you
+59:42 just made a change cuz it automatically
+59:44 renamed this to basement and this domain
+59:47 level for area analysis for the lot,
+59:49 okay? It did give us some new tools on
+59:52 the toolbar for area analysis. Um just
+59:55 so you know,
+59:57 I forgot to enable them maybe on this
+1:00:00 view which would have been very nice if
+1:00:02 we did that.
+1:00:03 >> [laughter]
+1:00:04 >> Um so there's area analysis, there it
+1:00:06 is. And so there is a more comprehensive
+1:00:10 area analysis here where if we break
+1:00:12 this up, it'll take you and show you all
+1:00:15 the breakdowns of what's happening in
+1:00:17 this view.
+1:00:18 Um
+1:00:19 of where all of our square footages are
+1:00:21 coming from.
+1:00:22 Uh floor area ratio, all that stuff as
+1:00:25 well.
+1:00:26 And
+1:00:28 our proposed main level floor plan is
+1:00:32 looking like it's not updating. So I
+1:00:34 need to make sure that works
+1:00:36 before I talk any more crap.
+1:00:39 Um and then um one more look at our
+1:00:42 comments.
+1:00:50 Aaron is uh do they find X18 faster on
+1:00:53 the M3 or newer absolutely?
+1:00:56 Absolutely.
+1:00:59 Um yeah.
+1:01:01 Especially that M5. That M5 is flying.
+1:01:04 Um ask Victor. Uh Victor, you're on the
+1:01:06 M4, I think.
+1:01:08 Um but yeah, that M5 uh from just
+1:01:11 installing my packages onto a bunch of
+1:01:13 Mac M5s,
+1:01:15 they are so much faster at
+1:01:18 some things.
+1:01:20 Elevation views, so much faster. Um any
+1:01:24 kind of project management stuff where
+1:01:26 you're bringing a project in or deleting
+1:01:28 a project, so much faster. Anytime
+1:01:30 you're bringing in uh large libraries or
+1:01:33 exporting libraries, so much faster.
+1:01:36 It's so much faster. Um
+1:01:39 it's impressive. It bothers me.
+1:01:41 Uh because I'm a on a PC.
+1:01:44 Uh you're still not touching me on those
+1:01:46 live ray trace views. You're not going
+1:01:47 to get that for a while, but you got
+1:01:49 everything else so much faster.
+1:01:52 All right, everybody. Thank you. My
+1:01:54 time's up. I've got a good contractor
+1:01:56 friend of mine I've known for 20 years
+1:01:58 working on my house today, so I'm going
+1:02:00 to go hang out with him and maybe I'll
+1:02:01 build us something or or another before
+1:02:03 I hit my next meeting. So,
+1:02:05 I appreciate you being here. Thank you
+1:02:07 so much. I hope this was informative,
+1:02:09 helpful. Uh just a reminder, these shows
+1:02:12 get put into my membership area. I told
+1:02:15 you at the beginning of the show,
+1:02:16 there's a search tool that you can
+1:02:17 search the membership area for these
+1:02:19 videos like this. So, should be I'll
+1:02:22 index this tomorrow. It'll be in that
+1:02:24 search tool tomorrow, so you'll be able
+1:02:25 to find this walkout basement tool video
+1:02:29 for many years to come. Uh also, if you
+1:02:31 didn't know, I did create a new playlist
+1:02:33 and it's a playlist of all these
+1:02:35 template Tuesdays and we started
+1:02:37 tracking how many days I've done these.
+1:02:39 And this is show number 20. I had no
+1:02:41 idea. I think last show I said, "We've
+1:02:43 done six of these, right?" No, we've
+1:02:44 done 20 of these. So, thanks again for
+1:02:47 being here.
+1:02:49 See you around.

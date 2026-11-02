@@ -1,0 +1,3249 @@
+---
+videoId: z7AbGOIHzd4
+title: Developing New Systems and Updates To The Pro Plan for Chief Architect X17
+url: "https://www.youtube.com/watch?v=z7AbGOIHzd4"
+status: imported
+---
+
+# Transcript
+
+0:09 what's going on everybody um this is an
+0:12 impromptu show so no one's going to be
+0:14 here for a while so I'm just talking to
+0:15 air right now but I'm developing systems
+0:19 for the next version of my Pro Plan um
+0:21 and I'm doing it in
+0:23 x16 um because I don't know what's
+0:26 coming in X17 yet not that I could speak
+0:29 of anyways and so uh but I know that I
+0:32 can improve some of the systems that are
+0:33 already in x16 and that x16 are capable
+0:36 of and and so I've got some new thoughts
+0:39 on that that I'm going to work through
+0:40 today live on this and a lot of it's
+0:42 probably going to be scripting um some
+0:44 of it's going to just be layer set
+0:45 management
+0:47 and um it happens that I develop things
+0:50 and
+0:51 then and then all of a
+0:54 sudden I I like lose track of of you
+0:58 know the work aspect where I'm actually
+1:00 doing the work to find potential for
+1:03 improvements and then I get some jobs I
+1:06 work through those jobs I hit some
+1:08 problem and I want to go fix it and I
+1:10 forget about it and so there's a lot of
+1:13 that going on where I know I can improve
+1:16 some of the things so I I've been
+1:18 designing a house and in the process of
+1:21 Designing the house I know that my
+1:23 terrain layer set is wrong it's not
+1:25 showing landscaping that's where I want
+1:27 to do landscaping so there's stuff like
+1:29 that I want to fix fix the main thing I
+1:31 want to fix today is
+1:35 that in layout I've my Pro layout I've
+1:39 only ever given
+1:41 people one sheet size and I was thinking
+1:46 okay well I can give um and and I gave
+1:49 four different layout
+1:52 Styles um and I really only use one of
+1:56 the layout Styles uh for the most part
+1:58 but what I didn't give was four
+2:00 different layout sizes or or multiple
+2:03 sizes and I was thinking okay how could
+2:05 we redo sizes without having to provide
+2:09 you know 30 different layouts meaning
+2:11 that we're doing four different sheet
+2:12 size don't check my math please four
+2:15 different sheet sizes and four different
+2:18 styles um you know that's okay so it's
+2:21 16 different uh files that's too many
+2:24 and it's too many to manage especially
+2:25 when I come and find that I need to
+2:27 update something so I was thinking okay
+2:30 what if we could drive sheet size just
+2:32 by um creating a default set where it
+2:35 changes you know the all of the
+2:38 graphical elements here on this page and
+2:41 so it would increase the size here and
+2:43 that does work but but um there are a
+2:49 few things that are being sent to this
+2:51 View and one of those is this is a Sav
+2:53 plan view this is a snippet of a cad
+2:56 detail where the client information is
+2:58 introduced and so if we're going to size
+3:01 this up this box is going to be in the
+3:03 wrong spot and it would be nice if it
+3:05 was not in the wrong spot because when
+3:07 you increase the sheet size it increases
+3:09 it about the center of the page which I
+3:12 wish it didn't do that I wish it could
+3:14 we could have a setting you know to
+3:16 offset which direction we want our scale
+3:19 up from because then this wouldn't be so
+3:22 problematic so first problem is if I do
+3:26 want to introduce the system or even
+3:27 test the system out I need a way to get
+3:30 client information to layout in an in a
+3:34 way other than sending a layout box to
+3:37 it okay so that becomes a bit
+3:40 problematic as well now a couple things
+3:43 you could do a couple ways you could
+3:44 approach this you could say hey from now
+3:46 on we're inputting client information in
+3:49 layout we're not inputting it in plan
+3:51 and so we're producing something in
+3:52 layout problem with that is now we're
+3:55 getting away from this kind of Rich Text
+3:59 looking information thing that's built
+4:01 from a schedule you could do it you
+4:04 could do it with culmination Rich text
+4:06 and everything but it's going to move
+4:07 around jump around it's not going to
+4:08 look right it's not going to scale right
+4:10 so that's challenging so the only other
+4:13 way I know of to get client information
+4:15 from plan to layout is using Global
+4:18 macros so then the thought here is that
+4:22 I got to come up with a system for
+4:24 this um if you watched any of my
+4:27 previous shows you know that but I don't
+4:30 like every once in a while I'll try to
+4:32 script um especially when I'm off camera
+4:35 I'll try to script from my new knowledge
+4:38 of scripting but often times I'm going
+4:40 to go into um either chat GPT or Claude
+4:44 and and I have subscriptions to both of
+4:45 those and do some scripting so that's
+4:48 what where I'm at right now the the huge
+4:51 trick that I'm utilizing here is that
+4:53 you can pass there's a there's a few let
+4:56 me just show you there's a few macros
+4:58 here that are global macr
+5:00 such as client information and so we've
+5:03 got this here we go we've got client
+5:06 name for instance right and so client
+5:09 name is some kind of internal macro call
+5:12 that's happening basically a place Mark
+5:14 text replacement thing that's happening
+5:16 okay and we have no way of putting this
+5:19 into a another macro with text
+5:22 macromanagement not easily anyway um so
+5:26 what we can do is we can take that c
+5:30 and put it into a global and the way you
+5:32 do that is you have to use some kind of
+5:35 architectural object and that includes
+5:38 lines so what I'm doing here is I've got
+5:40 a line somewhere in here there you go
+5:43 it's just an invisible line and in that
+5:45 invisible lines label I'm producing some
+5:49 macro calls and
+5:52 so I thought okay we're going to put CL
+5:55 client name and
+5:57 then and there you go and and it's going
+5:59 to go to some Global that then we're
+6:01 storing and calling in layout that's
+6:04 great that means we can call it anywhere
+6:06 that means I can resize the sheet size
+6:08 easily then I thought okay well this
+6:11 doesn't display the way that I want it
+6:13 to I would like it to just tell you hey
+6:16 you need to go input this if you have
+6:19 not and so that's where I'm kind of at
+6:21 right now that's where we're picking up
+6:23 so I've got this this single line of
+6:26 text I'm going to take it into uh claw
+6:30 which I'll get up on the screen here and
+6:32 you can just see me work through this
+6:33 now I would love hate relationship with
+6:36 Claude and and any AI That's doing um
+6:39 some kind of scripting because it's it's
+6:42 like dealing with an assistant that is
+6:45 the worst listener on the planet and
+6:47 then on top of that decides to go Rogue
+6:50 all the time and change script that was
+6:53 good when all you asked it to do is
+6:55 change the script that was bad so um
+6:58 it's challenging they do have some new
+7:00 tools for that where you can kind of
+7:02 highlight a selection and do something
+7:04 with that but I don't know we'll we'll
+7:06 we'll try some of the stuff out so um
+7:09 here we go I like to do voice to text
+7:11 for this it just feels like I'm having a
+7:13 conversation then I'm not so
+7:15 lonely all right
+7:21 um rewrite this script in
+7:24 Ruby so
+7:27 that the conditional statement executes
+7:32 properly and so what I will do is I'll
+7:34 I'll write some terrible script that I
+7:36 know is wrong to get it to fix something
+7:39 but I know that I'm getting close so I
+7:42 know for those of you that are watching
+7:44 this you might
+7:45 not made it that far with Ruby scripting
+7:48 so you might not have known you know the
+7:50 approach here but hopefully the more you
+7:52 try the stuff out the more you learn
+7:54 from it and there you go the other thing
+7:57 I'm thinking about doing is seeing if I
+7:59 can update my Ruby chat bot that's built
+8:02 into my website I don't use that bot
+8:06 mainly because it doesn't have canvas
+8:08 this says canvas and I'll show you what
+8:09 I mean by canvas put this on canvas
+8:14 please canvas um both chat GPT and Claud
+8:18 have this and what it does is it gives
+8:21 you a workflow sidebar you can see now
+8:24 that we've got this sidebar action
+8:26 happening over here and and that means
+8:29 means that when you ask it for an update
+8:31 it will update the code on the right
+8:33 hand side continuously so it just keeps
+8:36 this open um I'm not sure what this
+8:40 preview part was that was interesting I
+8:42 haven't seen that preview section here
+8:44 this button up here preview and
+8:48 code all right so what did this do this
+8:52 did a whole bunch of stuff import react
+8:59 oh okay that was the code for that all
+9:03 right so what do we get we get a copy
+9:06 button at the bottom client name if
+9:07 client's name Na and I'm going to tell
+9:10 it this needs to be single line
+9:16 code
+9:20 and opening and
+9:22 closing signs are a place marker to call
+9:27 the code as a text
+9:30 replacement Ruby
+9:38 script and by the way for those of you
+9:41 watching anybody that wants to drop in
+9:43 some comments if you got some questions
+9:45 if you have something I always love
+9:47 doing this if you're watching my show
+9:49 feel free to ask questions about Chief
+9:51 Architect I'll do a little offshoot and
+9:53 show you something so if you're just
+9:55 here hanging out and you want to you got
+9:57 a problem that you'd like to see me work
+9:58 through I'll do it it's fun you know
+10:00 it's good exercise for me take a little
+10:02 break from what I'm doing uh all right
+10:04 if client name bam bam bam it didn't
+10:08 quite get the
+10:12 definition but it's close enough to for
+10:14 me to see the syntax so I'm going to
+10:16 copy this and bring it back to Chief and
+10:17 see what we got
+10:23 here oh that's interesting it dropped in
+10:27 the code as opposed to to that's not
+10:30 copyable that's
+10:34 weird
+10:41 um see if it'll correct itself there we
+10:48 go
+10:50 okay so I know this is a tiny on the
+10:53 screen let's see client name and this is
+10:56 just text that's going to happen right
+10:58 and then
+11:00 if it's missing our Global if client
+11:03 name is
+11:05 nil then okay so it's double question
+11:07 mark is what I was missing this is what
+11:10 it's saying if this Global name that
+11:11 we've created returns as nil or blank no
+11:16 text question question then that's what
+11:21 this condition is starting then um it's
+11:24 going to put the value input in tools
+11:26 client
+11:27 information otherwise that's what this
+11:30 colon is otherwise client name and we
+11:33 need to make sure that there's no space
+11:36 here okay there isn't all right
+11:38 otherwise we're just
+11:43 putting this is where I need to fix this
+11:46 we're saying that
+11:49 client
+11:51 name
+11:54 equals and then I think we have one too
+11:56 many percentage signs yes we do
+12:01 it thought that double was opening and
+12:04 closing name nail input I think that I
+12:07 think that's
+12:08 it so what does this give it gives us
+12:12 client named blank dang
+12:16 it
+12:18 um so it's almost like we
+12:23 need it's almost like we need to just
+12:25 Define client name as input in
+12:28 information
+12:37 let's see if I can explain this
+12:39 condition to
+12:44 Claud here is the corrected code
+12:49 single percentage sign for open or
+12:56 close I need to
+13:01 Define the global client
+13:10 name I guess we could just Define it
+13:13 first that make sense it doesn't need to
+13:15 check if it's blank or not we just toine
+13:16 it right off the
+13:21 bat
+13:24 um so it's almost like we're going to
+13:26 invert this
+13:29 where we would
+13:31 say all right I'm going to take
+13:36 this Mill
+13:40 out so this we'll just put this in Li of
+13:44 the other item bam so this goes like
+13:49 this opening percentage sign I saw a
+13:51 comment come through by the way I'll
+13:53 check you out in just a second client
+13:56 name equals client name blank back or
+13:59 or
+14:01 this input
+14:03 tools I think that
+14:05 works except for that I did something
+14:10 wrong in put it shows
+14:13 this interesting All
+14:17 Right greig Wesley how's it
+14:19 going nice you're in my town I was just
+14:23 down
+14:26 there I was just down there getting
+14:28 Bagels
+14:37 okay I know Greg you're going to buy the
+14:39 next version I'll have to show you a
+14:40 preview of some of the stuff I'm
+14:43 doing client name equal
+14:47 okay equals client. name quote unquote
+14:51 yep or or oh we didn't need this because
+14:55 that closed it that was the
+14:57 problem okay let's try
+15:00 that and this didn't execute
+15:06 correctly
+15:08 why why why
+15:21 why let's try
+15:56 so I told it that when need to give a
+15:59 definition to the global client name
+16:02 otherwise it's just going to be an
+16:03 continuous
+16:08 loop let's see let's see if its method
+16:11 works better than my failing
+16:16 here so this still just says client name
+16:20 blank dang
+16:24 it uhuh
+16:42 what happens when we just put client
+16:44 name at the end of this
+17:01 still blank well maybe I'm not going to
+17:03 get to this this feels like a lot of
+17:06 effort to just get it to say hey input
+17:08 it in the the
+17:12 information dang
+17:22 it I'll just put a forward statement and
+17:24 put in the information that would have
+17:26 been a really simple solve
+17:30 oh you
+17:31 idiot okay so we're back to this all
+17:37 right input in
+17:40 tools client
+17:42 information Simple
+17:46 Solution you big
+17:49 dummy sometimes I'm telling you
+17:52 sometimes
+18:05 zip code to come after client
+18:11 name there we
+18:15 go spent the last three weeks using
+18:18 Chief to 3D print a model no
+18:22 kidding nothing's usable on resin
+18:26 printers why curious why
+18:29 um I suppose you could do some cool
+18:31 stuff with just printing the
+18:33 structure you ever tried printing the
+18:35 structure and doing one of those resin
+18:37 pens I saw someone build a a a whole
+18:40 like 116 scale model car with just the
+18:44 the 3D pen pencil built a cardboard
+18:47 frame started just tracing that out the
+18:50 skeleton and then just putting down
+18:53 layers and then sanded Bondo it's crazy
+18:59 hm that's pretty
+19:03 wild I mean I suppose you could take all
+19:05 your wall types and just make them solid
+19:07 but even even when they're solid they're
+19:09 not they're Hollow right so I'm sure
+19:13 there's programs to make um normals like
+19:20 Phil dude Justin where you been man I
+19:24 haven't seen your name in
+19:26 Forever you must be working hard
+19:31 yeah
+19:32 thanks yeah let me I guess it's be nice
+19:35 to do a little preview of the workout
+19:36 then it's not a it's not a ton I mean it
+19:40 was a lot of work to do but it's a lot
+19:43 of work to fix some things that are just
+19:46 minor improvements which is crazy that I
+19:49 even stick through that kind of
+19:51 stuff
+19:54 um yeah most objects in Chief are just
+19:57 thin faces yeah
+20:00 Sabo I don't know I'll have to check
+20:02 that out I'll have to see my watch
+20:04 History um here is my change log and
+20:09 actually since I'm developing this one
+20:11 let's just do a new
+20:12 plan and change
+20:16 log so what did I do added additional
+20:20 generic macro input custom fields in
+20:23 order to get rid of oh so this is this
+20:25 is something that took a ton
+20:29 of time for a marginal
+20:33 Improvement very marginal Improvement
+20:36 which is that now all objects and all
+20:40 schedules in object information because
+20:42 we can't get subfolders here I changed
+20:45 everything to just these generic macro
+20:48 input fields and so these are formatted
+20:50 as numbers and these are formatted just
+20:52 any kind of string text float
+20:54 whatever um and then in the schedule
+20:57 they're renamed and it just just makes
+20:58 it so that I don't need a huge list of
+21:01 things here even window details is going
+21:04 to go because it's going to become macro
+21:07 input one
+21:09 instead um I guess what's nice about
+21:12 that is it makes it easier for style
+21:14 pets that are doing custom Fields
+21:16 Replacements um so maybe that's an
+21:20 improvement and then it's just limiting
+21:22 the number of categories here that's
+21:24 really all it's doing so that's one
+21:27 thing I did that took me so many
+21:30 hours cuz I had to
+21:33 change how everything was scripted and I
+21:36 had to change how um all the tools that
+21:39 utilize um replacing of custom Fields I
+21:43 had to yeah I I can't even remember all
+21:47 all of it but it was a lot but I'm happy
+21:49 that I did
+21:50 it
+21:55 um change colors of elements in working
+21:58 plan View to look less visually
+22:00 confusing I'm not sure what that's
+22:03 about change some
+22:05 colors added a special designation and
+22:08 macro to report rooms of your choosing
+22:10 to a special Bono B so I redid the area
+22:13 analysis Cals and I am very happy with
+22:17 that system now it's really cool not
+22:19 only that but it's a breakout system as
+22:21 well so um which means that it can be
+22:25 used as an add-on product for people
+22:27 that want to just buy the essential plan
+22:29 and later upgrade to the area analysis
+22:31 or they want to add area analysis from
+22:33 the Pro Plan to their own template um
+22:35 because they don't want to fully adopt
+22:36 these templates which we know those of
+22:39 you that have adopted templates they're
+22:40 crazy they should use this but can't I
+22:44 can't win them all uh so naming this
+22:47 addition let's just name this whatever
+22:50 living and let's just say that something
+22:53 is some kind of unconditioned area over
+22:56 here and then
+22:59 I did add a couple of
+23:01 railing symbols and stuff so I've got
+23:03 this guy right here Posta beam deck
+23:06 railing and then I added a deck Edge
+23:12 tool if you wanted to
+23:14 extend um the edge of like a patio or
+23:17 something this does Define a room so you
+23:20 have to come in here and say that it's
+23:21 something
+23:22 else say that it's a deck whatever what
+23:25 have you
+23:28 um but the area analysis packaged now
+23:31 and I've played around with putting this
+23:33 in a saved plan view versus a cad
+23:36 detail um it doesn't benefit either it
+23:40 doesn't benefit any anyone either way
+23:43 like one more than the other other than
+23:45 it's
+23:46 just yeah I don't know I don't know how
+23:48 to explain that I don't know that it
+23:50 helps to have it in CAD detail versus
+23:52 save plan view know that it does
+23:54 anything but here we go
+23:56 is impervious area is is driven from
+24:01 both a polyline and any room that you
+24:04 designate right here now I've played
+24:06 around with thinking that maybe I
+24:08 designate it somewhere else because this
+24:09 doesn't seem obvious to me so I think I
+24:11 might put this in Project label options
+24:14 but balcony deck porch Landing those are
+24:17 considered impervious areas so that deck
+24:20 showed up here it's in the calc here and
+24:23 then Dex is a breakout category first
+24:25 floor breakout second floor breakout um
+24:28 total conditioned area and then on top
+24:30 of that is I give you some additional
+24:34 tools for doing things like saying hey
+24:37 maybe this is not considered in the Cal
+24:40 over here and maybe we're going to say
+24:44 that it is conditioned area though I
+24:47 don't know why you do that but there you
+24:48 go and then maybe you're going to Omit
+24:51 this deck from the schedule or rather
+24:53 that deck Edge from the schedule okay
+24:56 and so that you know up everything here
+24:59 so suddenly we have no unconditioned
+25:01 area impervious area is changed Etc so
+25:05 this is single click area analysis I'm
+25:08 super happy with this so that was a big
+25:10 one and that took a lot of work getting
+25:12 that
+25:13 together and let's see what else we got
+25:15 change
+25:18 [Music]
+25:21 log um you would absolutely not get any
+25:24 leaks from anybody other than Chief
+25:26 staff right now cuz everybody's going to
+25:28 be under some kind of
+25:30 NDA this is addressing penino
+25:33 there hope I'm saying your right name
+25:35 right
+25:37 PT okay what else I
+25:39 do filled out example client information
+25:43 okay that doesn't make any difference
+25:44 because it just disappears that's a dumb
+25:47 one got to get rid of
+25:49 that um added two new tools to
+25:52 designated room is conditioned I just
+25:53 showed that um we changed all the gnomen
+25:56 clature to instead of this two in by 4
+25:58 in we changed it to just 2x4 and that
+26:00 was a um a common request in suggestions
+26:03 so if you're putting stuff in
+26:05 suggestions which is either on the Forum
+26:06 and the Discord server I do get to them
+26:08 I do see them I do Implement those
+26:10 changes they go in a que I definitely
+26:12 take the time to go do all that stuff uh
+26:16 change cabinet defaults to use generic
+26:18 custom fields to further eliminate more
+26:20 specialized custom Fields okay so that
+26:23 was that macro input Etc the other thing
+26:26 that I did with c cabinet labels in
+26:29 particular is that it used to be that
+26:32 every cabinet type had its own label
+26:35 macro label now instead it has an
+26:38 interim label this makes it really easy
+26:40 to do plan
+26:42 transfers so in the label itself it's
+26:45 just got everything's just got cabinet
+26:47 label this makes it super easy to
+26:49 conform an old plan to the Pro Plan
+26:53 because then this macro is doing the
+26:55 conditional check for what type of
+26:57 cabinet this this is to apply the
+26:59 correct label which are all separate
+27:02 labels so um that's a pretty good
+27:06 one and you know we talk about templates
+27:09 this is because I sell volumes of
+27:12 templates means I get to put development
+27:15 hours in and the more hours you put in
+27:16 the more you find natural solutions to
+27:19 some of these um situations so it's like
+27:23 yeah you could watch this show and see
+27:24 how it's all built and go do it and get
+27:26 a good leg up if you wanted to do your
+27:28 own templates just from learning from my
+27:32 mistakes uh let's see I added a floor
+27:35 sheathing macro that was a good
+27:37 one added an option for below grade room
+27:40 type so if you wanted to just you know
+27:43 this is this is particular for I think
+27:46 Canada where they need to show below
+27:48 grade room type um in their area
+27:50 analysis so just add um an option to say
+27:54 that this room type is below grade and
+27:57 so it's doing a condition one of the
+27:58 schedules is just doing a conditional
+28:00 check for that
+28:02 um overhaul the door and window labels
+28:06 man was this a big project big big
+28:09 project um and on your end you're not
+28:13 going to know that it's all that fancy
+28:15 or fantastic you'll just be like wow
+28:17 this work works really well but what's
+28:20 Happening Here is added a bunch of um I
+28:24 split the labels I split the labels of
+28:26 windows and doors and and and so your
+28:29 exterior door now has its own macro
+28:32 system and it still does something that
+28:37 not many people that own the prop plan I
+28:38 think even realize which is that it
+28:40 still does
+28:42 um it it has the modifier in supplier
+28:46 where you can overwrite type so that if
+28:49 I open up this exterior door and I go
+28:52 into object information and in supplier
+28:55 I say that this is whatever I want
+28:59 right so it's going to add that and and
+29:03 it still Stacks too at your threshold so
+29:05 it has its own set of thresholds in um
+29:08 project label options for you know how
+29:11 wide before this Stacks it still um will
+29:16 accept um existing versus you know like
+29:19 to be removed conditions where we're
+29:21 adding a prefix to this right so if I
+29:23 use this tool on the
+29:26 window still going to give us that
+29:29 existing condition and it's still going
+29:30 to stack Etc now what I added on top of
+29:34 that is that in supplier If instead of
+29:36 just typing whatever you want you go
+29:38 plus whatever I want now this knows to
+29:42 leave type in handedness intact and add
+29:45 whatever I want on top of that so this
+29:49 makes it really Dynamic why would you do
+29:51 this as opposed to just opening the dang
+29:52 door and putting in the label because we
+29:54 still have conditional changes when we
+29:56 go to like window order overview or we
+29:59 go into you know framing floor plan and
+30:02 it's showing rough opening instead where
+30:04 it's not going to add that additional
+30:06 information showing our rough opening
+30:07 instead so um this is kind of the power
+30:11 of that whole system is it's very very
+30:14 Dynamic now and it was all to just
+30:17 distinguish the two um I also did some
+30:19 work on The Bold door and it's not
+30:22 complete yet you can see here because
+30:24 this should still say bfold instead of
+30:27 for folding but the the check that I put
+30:30 in here was that if I've got left one
+30:32 right two Etc it's now going to tell you
+30:35 what type of folding door it is so 1
+30:38 three folding and you can still should
+30:41 still be able to add on or replace that
+30:44 let's try
+30:46 replace works and then it still should
+30:49 be able to add a plus in front of
+30:52 it yep still shows that folding and it
+30:56 should still
+30:58 stack no it does not do a stack so I
+31:01 might need to work on that just a little
+31:02 bit still but pretty Dynamic labeling
+31:07 that one's been
+31:09 huge and we got some more
+31:16 comments it could turn them into solid
+31:18 easily I swear to you there's a program
+31:20 out there that will just automatically
+31:22 fill in between um in between faces
+31:28 where the normals are not facing each
+31:30 other right you would if the normals are
+31:33 facing each other don't fill if they're
+31:35 not facing each other and they're within
+31:37 whatever it should fill I swear there's
+31:39 a program that'll do
+31:44 that you're raising the price no they
+31:47 they didn't do that um renewal is
+31:49 already up actually it didn't didn't
+31:52 raise us
+31:55 up got your name right Pino all right
+32:00 yeah yeah
+32:05 well I'm going to be upset with they
+32:07 erace it up but I would I think I would
+32:10 understand but I'm still going to be
+32:12 upset about
+32:13 it uh let's see here it's already so
+32:16 expensive to for me to fly to I fly to
+32:19 Idaho every year in August and that
+32:21 trips $3,000 and I I have five notes
+32:26 from last year and I have maybe you know
+32:29 maybe I had seven notes from the year
+32:31 before like that's a lot of money to
+32:34 get get very little out of it in terms
+32:36 of understanding you know um approach
+32:39 and and features Etc I go to be a
+32:43 presence in the community I also go to
+32:47 um talk with um all the developers
+32:51 they're really great people so that
+32:54 part's that part's very enjoyable I like
+32:56 that part and I also go because I meet a
+32:58 lot of my friends that are like you know
+33:00 online friends and you go meet them in
+33:02 person yeah they end up being real
+33:05 humans they're
+33:10 cool and there's always some kind of
+33:12 business
+33:13 opportunity let's see add an option for
+33:15 blow okay overhaul the door
+33:18 windows Yep elevation row has been
+33:21 updated that one was a simple one um I
+33:23 wanted to get back to when you open the
+33:25 Pro Plan that it's just blank and in
+33:28 fact I want it to be so blank that we
+33:30 don't even need to see anything here
+33:32 right that this stuff just
+33:34 disappears so I might even get rid of
+33:37 these call outs just to be on the print
+33:40 set so they're not more confusing but
+33:43 the rose is now here and before this was
+33:45 throwing an error now it's not now it
+33:47 has some preliminary um definition until
+33:51 it's put into a room it also used to be
+33:53 that you couldn't have Wall elevation
+33:55 cameras without a room defined and
+33:58 somehow that got changed and I didn't
+34:00 know about it so now I got to get rid of
+34:02 those four walls that was always here
+34:04 when you opened it up um so that's
+34:07 pretty sick and then I took away the
+34:09 drawing sheet border you know if you
+34:11 want to see where the drawing sheet is
+34:13 it's pretty obvious you just click it on
+34:14 and it's going to be there so that's
+34:17 kind of that was the approach
+34:20 there all right back to my development
+34:23 here which is
+34:25 that I should have been able to find
+34:28 something here code names CL name blah
+34:30 blah so now let's test this is the next
+34:34 part of
+34:36 this which
+34:39 is I think I
+34:42 could I want to
+34:45 overwrite I'm going to overwrite my
+34:50 template and we'll just name it
+34:51 something
+34:53 new think she'll take that one
+34:59 okay so I've got an Untitled layout here
+35:03 and I'm going to relink
+35:06 to that file I just
+35:10 created it's going to populate info from
+35:13 that and
+35:14 then here's what I'm thinking is on my
+35:18 page zero under client I'm going to get
+35:21 rid of this
+35:23 box and here's where we're just going to
+35:25 go client
+35:28 and maybe some tabs or
+35:30 something and it should just be able to
+35:34 do client
+35:37 name bam and so in here Al T and d and d
+35:45 and tab shift tab tab shift tab
+35:51 down good practice to use just keys I
+35:54 like that um so client name John Doe
+35:59 and so if this works correctly we should
+36:01 be able to go into our project
+36:04 information and it show John Doe here
+36:08 now this is what I'm trying to get rid
+36:09 of I want to get rid of this it's just
+36:12 more confusion I want to make this page
+36:14 really easy to
+36:16 understand
+36:19 um so we're going to get rid of
+36:22 that all
+36:24 that and so here's our report
+36:31 do input address and client
+36:42 information oh look at this I have some
+36:45 little clever idea here Street only RAB
+36:47 what is that how is that macro working
+36:49 it's funny I built some of this stuff
+36:51 and I forget that I ever did it Street
+36:53 only RAB what is this this is
+36:58 oh so we took the
+37:03 global so here's where I did a
+37:08 conditional check oh and this
+37:10 builds this builds a street
+37:16 address which is clever and it's
+37:18 building it
+37:21 from so I could actually take this macro
+37:24 and put it into the layout as well
+37:28 in fact we could just export
+37:30 it Street only
+37:36 macro and I think that might work
+37:38 because Street only is already using a
+37:42 global so John Doe and
+37:47 then import in layout Street only macro
+37:52 okay and does this work
+38:06 no kidding that
+38:08 works great that took all the work out
+38:11 for me thanks past
+38:24 self rabbit on the Run what is that I'm
+38:26 not I'm famar with that is that a common
+38:29 is that a common setup tell me
+38:33 more also why is my head Square I want
+38:36 it to be rectangular does that get
+38:39 rectangular there we
+38:42 go see if we can update this layout now
+38:46 there I'm a rectangle head now cool now
+38:49 you can use hand gestures yeah
+39:00 appear and the like tell me more about
+39:01 that I don't know what what
+39:04 you're what you're
+39:08 saying
+39:09 bad I am running off a single curve
+39:11 monitor which makes it really difficult
+39:13 to stream you know and there's not I I I
+39:18 think it's a value ad for me to do this
+39:20 Zoom feature I think that's really
+39:22 important to my videos and it does not
+39:25 work with some of the um partial screen
+39:29 recapture softwares that make a a
+39:33 virtual monitor out of a portion of your
+39:35 screen well then my zoom Key System
+39:38 doesn't work because I lose my mouse
+39:41 cursor because the zoom tool is
+39:45 emulating a mouse cursor when you're in
+39:49 zoom and that breaks that emulation once
+39:52 you do um an application that didn't
+39:55 consider their software so it's really
+39:57 tough to do streams from this wide
+40:00 screen because it's just not the format
+40:02 that I love I would love this to be you
+40:04 know full screen or you can see the
+40:06 whole
+40:10 screen um so I mean so if this
+40:15 works then what I get to do is what do I
+40:20 get to do so this is a different screen
+40:22 size what El what are elements am I
+40:24 sending I don't think I'm sending
+40:25 anything else from
+40:27 plan here so it's just these elements so
+40:30 I get to
+40:32 just I don't want to size this up I just
+40:35 want to drag it down so here's what I'm
+40:38 going to
+40:39 do I need all these to
+40:41 be I need the all these to be on their
+40:44 own single
+40:47 layer right it's just going to be and so
+40:50 we should call it whatever it's going to
+40:52 be the print size um so I'm going to
+40:55 make new custom layers I am was such a
+40:57 stickler for no custom layers on plan I
+41:01 try my hardest to do the fewest custom
+41:03 layers possible I think it just makes a
+41:06 lot of sense for for people learning and
+41:08 coming into a new template but um for
+41:11 layout I don't think I care I don't
+41:13 think anyone messes with layers on
+41:15 layout so I'm GNA just say that this is
+41:19 this is
+41:20 archd maybe we'll do it all caps
+41:23 Rd
+41:25 um Rd typ
+41:29 I don't think it needs to designate
+41:30 title just Rd
+41:33 great so now everything's on RD bam and
+41:37 now we get to
+41:39 copy drag this
+41:43 down and say
+41:49 that everything is now on this is
+41:55 ancd okay
+41:59 right and so I want for the default
+42:02 set we're going to copy a setence going
+42:05 to call RD
+42:11 set and ancd is not going to be
+42:15 displayed in the Rd
+42:18 set
+42:20 okay copy set Arch NCD
+42:29 and now archd is not going to be
+42:31 displayed NCD is Bam simple and so then
+42:37 we just need to expand this and we get
+42:39 to add some additional stuff here if we
+42:42 want to revision could go a little bit
+42:44 longer if we wanted
+42:46 to
+42:49 um
+42:51 yeah the Box scale is not going
+42:55 to be something we can translate from
+42:58 different sizes I don't
+43:01 think is that
+43:04 true boy That'd Be Clever if we could do
+43:08 that H let me think about
+43:12 that um I don't know that I need to
+43:15 resize anything here this actually looks
+43:16 pretty good I like it spacing and
+43:21 everything maybe a sheet title could go
+43:23 up a little bit so we could punch these
+43:26 over a little bit
+43:28 I don't like getting too close
+43:30 to Edge
+43:33 border right this can go
+43:37 over this can go
+43:42 over and keep our element spacing
+43:49 similar
+43:50 yeah I also know that I need to change
+43:54 this to some kind of
+43:57 your logo goes here kind of a thing is
+43:59 what this should be
+44:01 named or just logo if it was just named
+44:04 logo and then people dropped in their
+44:06 own logo image wherever the layout saved
+44:11 that would
+44:12 just fix this for them it' be nice if it
+44:15 was formatted to some size that was like
+44:18 a common size not sure
+44:30 cost to build stuff um yeah the only
+44:33 problem with that is you have to model
+44:35 your model perfectly I have actually
+44:38 just started designing my very first
+44:42 Stockholm plan and what a process boy
+44:48 does it become a passion Pro process and
+44:50 I and I think I'm probably losing my
+44:52 butt I'm going to have to sell like 20
+44:55 of these plans to make anything back
+44:57 will I care if down the line it does
+45:00 that no I won't care at all
+45:03 um and I and not only am I selling it
+45:06 but I am going to provide some version
+45:09 of it in a full plan set to show people
+45:12 that buy the next versions of my
+45:14 template How I build out a full plan set
+45:18 and right now um this was me working
+45:21 through and deciding that this is not
+45:24 workable information for me this is too
+45:26 much I can't see like so I need to
+45:30 improve this I do love the amount of
+45:33 time I put in making my landscape tools
+45:36 look very similar to some of the main
+45:38 Landscaping softwares out there that's
+45:40 awesome
+45:42 but um for the most part this page is
+45:46 just awfully confusing to me doesn't
+45:49 look good um so I definitely want to
+45:52 improve it I think these lines could be
+45:54 lighter I think that I don't need my
+45:57 walls to be black I don't think that's
+45:59 helpful at all um it's just too much
+46:02 graphics on the
+46:03 screen
+46:07 so I'm going to fix this but I'll show
+46:09 you a little preview of what I got going
+46:11 on here and what I
+46:18 did boy that should have changed all the
+46:20 wall colors and it
+46:21 didn't what I have I must have like some
+46:23 kind of poche fill on here oh I do yeah
+46:27 don't want
+46:30 that or maybe I do maybe the PO of fill
+46:34 is the problem maybe it just needed to
+46:35 be a lighter
+46:39 color yeah it's a little bit better
+46:41 don't need to see electrical well
+46:43 actually you do though that's the thing
+46:45 you do need to see electrical if you're
+46:46 doing landscape
+46:48 electrical that's
+46:51 tough that's very
+46:53 tough anyway he getting sidetracked uh
+46:57 so my working plan my floor plan
+47:01 here this is my interesting
+47:05 little interesting little
+47:09 project and let's go take a look I seem
+47:12 to have a few saved cameras
+47:25 here um
+47:28 yeah this is my my passion
+47:32 project first very first stock home sale
+47:37 and I'm just really happy with where
+47:40 it's
+47:42 going I need to do some edits
+47:46 about um floor layout it's not quite
+47:50 right yet I haven't figured out powder
+47:52 room yet I haven't figured
+47:54 out not finished with the the master the
+47:57 Master's getting close um the kitchen's
+48:00 a little bit underwhelming but it'll get
+48:03 there and then I've got some cool little
+48:06 architectural features happening on the
+48:08 interior side that revolve around this
+48:11 turret
+48:13 but I can see a couple exterior edits
+48:17 but man when this pops up I love this as
+48:19 much as I loved it when I shut it down
+48:22 last
+48:23 night is that this is immediately stands
+48:28 out like man that looks that looks like
+48:30 a nice
+48:31 house so I'm excited about this the
+48:33 other part about this in terms of stock
+48:35 home plans and I don't know if this is a
+48:37 sellable feature but it's been my idea
+48:39 that I'm going to host um somewhat semi
+48:43 modular Hillside residence where you
+48:47 could or could not add the lower
+48:50 floor right so this could be a single
+48:52 floor or or it could be two floor setup
+48:58 um where the location of the fireplace
+49:01 just gets edited for I mean the location
+49:03 of the staircase gets edited for some
+49:05 feature like fireplace if you just want
+49:07 the single floor
+49:10 PL and then let's just do a little roll
+49:12 around here to the back I have not
+49:14 figured out the side elevations yet and
+49:16 I'm not done with the rear yet either
+49:19 but I am liking where it's going in the
+49:21 rear I was messing around with different
+49:23 window types um portal window stuff like
+49:27 that
+49:28 but and then the major thing is I
+49:30 haven't figured out the structure on
+49:32 this and if it's even feasible at all so
+49:36 I haven't designed the lower floor yet
+49:38 and you need to make sure that I've got
+49:39 you know bearings transferring through
+49:41 the center of this where I've got this
+49:43 massive Ridge line um and I think I want
+49:45 to raise this Ridge up to do something
+49:49 in order to get this line to meet here I
+49:53 don't want this flat section so this
+49:56 roof line needs to go up or the turret
+49:58 needs to go up and I like the size of
+50:01 the turret so I think this whole rid
+50:03 Line's got to raise
+50:04 up which means that I might have
+50:08 to um I might have to change the pitch
+50:12 of that major Ridge
+50:19 line and then this is messing around
+50:22 with just some of that um
+50:26 the
+50:37 barreling
+50:43 yeah and I don't know how much of a
+50:45 vaulted ceiling I can get out of this I
+50:47 need to check that too but the walk-in
+50:50 is is pretty
+50:55 nice so let's getting
+51:09 there okay so what do we have here we
+51:12 have the NC set and if we switch the
+51:15 archd
+51:16 set yeah changes sheet
+51:19 size ancd set Rd set and so I want to
+51:24 just make that I don't think that needs
+51:26 to be layer set drop down I kind of want
+51:28 it to
+51:30 be a default set drop
+51:33 down suppose it could be a layer set
+51:35 drop down does it make a
+51:43 difference yeah what do we get with
+51:45 default sets here Rich Text texts call
+51:48 outs
+51:51 markers Dimensions none of which You'
+51:54 use and current CAD layer so if you're
+51:57 doing something with cads but the cad
+51:59 layer
+52:01 is does a layout box get sent from
+52:04 CAD I don't think
+52:17 so cat default yeah so cat is just
+52:20 straight up CAD CAD elements on here
+52:26 yeah I don't think it needs to be
+52:27 default set then it could just be a
+52:29 layer set
+52:31 changed sheet size Chang layer set
+52:34 changed so I know that for this guy this
+52:39 needs to be
+52:42 our
+52:45 Rd and then copy
+52:50 paste resize
+52:52 this and it could be ancd
+53:00 why does that look like that
+53:05 disappeared oh shoot oh because it saved
+53:07 in
+53:08 plan
+53:12 oops antd so I have to find the wash and
+53:17 then save
+53:18 it download spam the other thing I can
+53:22 do here
+53:24 is doesn't work as well as I would want
+53:27 it to
+53:29 work but you could do it so
+53:33 that I'm doing all different layout
+53:36 Styles in One layout would that
+53:39 be be
+53:41 difficult
+53:47 um where's my washes wash
+53:54 zero there we go
+54:05 Mary
+54:07 Andy
+54:10 bam has
+54:18 this I don't know that this logo needs
+54:20 to be
+54:21 here it doesn't we've got it in the
+54:23 title block anyways so get rid of it
+54:31 so you just get rid of default set I
+54:34 don't think default set even needs to
+54:36 exist
+54:51 anymore cannot delete the following
+54:54 views are using it change log mended
+54:57 code cycle okay so different
+54:59 views oh and different CAD details
+55:04 funny okay I guess that makes sense
+55:06 different CAD
+55:10 details does that
+55:12 [Music]
+55:14 matter I guess
+55:17 so be nice if it wasn't an option as you
+55:19 roll
+55:24 through so it's not just going to be NCD
+55:27 this is going to be NCD design
+55:31 one oh this is getting
+55:49 complicated cuz this is
+55:53 C whole different side bar deal
+56:20 here it's basically all I need
+56:27 if we could keep the revision table in
+56:29 the same place every time that'd be
+56:52 slick h
+56:59 there a problem with this version
+57:01 because this version chops its vertical
+57:04 leg might get rid of this
+57:07 version as you go through this there's
+57:10 two layout templates for
+57:12 this and one of them in the elevations
+57:15 uses oh no it doesn't so this is a small
+57:18 this is for a small land
+57:21 set smaller sheet size typically
+57:26 it's like a tongue twister man it's just
+57:28 difficult to even think about okay let's
+57:31 try this
+57:36 so oh look at the paste hold position it
+57:39 was in a totally different spot those
+57:40 layouts are built in different spots I
+57:43 must have moved this one for a
+57:46 reason so this is going to
+57:53 be archd
+57:57 design
+58:06 something design
+58:15 three Rd design 3 how
+58:22 about V3 what would be an what would be
+58:25 a appropriate name for
+58:33 this layout
+58:38 three I don't like layout
+58:42 three or maybe we'll name them let's
+58:44 name them I like that
+58:46 better it's easier to understand when
+58:49 people are going to be talking to me
+58:50 about it what's a good name
+58:54 anybody should just be the p
+58:58 layout
+59:00 um I always ask chat GPT for a series
+59:03 names of
+59:05 like
+59:07 architecture let me get I need a modern
+59:10 name for
+59:13 architecture chat GPT is great for this
+59:15 if you didn't know this by the way you
+59:17 can save a defaulted temp chat GPT
+59:20 versus regular chat GPT so regular chat
+59:22 GPT notice it says chat gp.com this one
+59:26 ads in temporary chat equals true so if
+59:30 you just want a quick little
+59:33 thing right
+1:00:02 I don't know why this came to my mind I
+1:00:06 gave an example of modern is the name
+1:00:08 Hollywood
+1:00:09 and then traditional is gerud like does
+1:00:13 that make any sense to
+1:00:15 anyone oh left gertude in
+1:00:18 there I think this one gets to be
+1:00:20 Eleanor I like
+1:00:22 Elanor um or Nova Nova's kind of cool
+1:00:25 this remind me yeah this kind of reminds
+1:00:27 me of Nova all right um so we'll call it
+1:00:31 the Nova
+1:00:34 layout all right I like
+1:00:37 it RC Nova layout
+1:00:41 [Music]
+1:00:43 cool and for this view it's off and we
+1:00:47 need to manually edit our layer set
+1:00:51 management and so the other Rd style is
+1:00:54 going to be
+1:00:56 um it's a little more traditional so
+1:00:59 maybe that'll
+1:01:02 be
+1:01:06 Bartholomew I like
+1:01:10 it I like Willow I like Willow Willow's
+1:01:13 great
+1:01:14 movie people think I'm so young man I
+1:01:16 know about Willow you don't think I know
+1:01:18 about Willow I grew up on
+1:01:24 that so name ancd and then what did we
+1:01:28 do we did oh I made a layer called that
+1:01:32 but I didn't make
+1:01:37 the you need to make a layer and the
+1:01:39 layer set management okay so an D and
+1:01:43 this is
+1:01:48 Willow and archd is Willow
+1:01:57 and then let's copy
+1:02:00 ancd and this is going to
+1:02:03 be
+1:02:08 Nova and this just needs to be rename
+1:02:19 Nova it needs to be
+1:02:21 named the sheet size Nova okay
+1:02:27 H
+1:02:32 okay need like a mind map to get this
+1:02:42 going Nova
+1:02:57 okay so for ancd Nova this is turned on
+1:03:01 these are turned
+1:03:05 off so that should have been able to
+1:03:08 make us do
+1:03:09 this
+1:03:14 yeah
+1:03:17 cool getting there
+1:03:28 I have a layer developed for each
+1:03:30 Builder I work with on my layout each
+1:03:32 Builder has their own default
+1:03:34 set builder a populates all their info a
+1:03:40 layer developed for each Builder each
+1:03:42 Builder has their own default set yeah
+1:03:44 okay um including logos and stuff like
+1:03:50 that yeah it' be cool if I could
+1:03:56 how could you switch logos without
+1:03:59 having to do all these custom layer
+1:04:06 sets um yeah if we just name it
+1:04:09 generically logo and then logo is
+1:04:13 in the location of where your project is
+1:04:16 it should just throw that in there I
+1:04:19 know people wanted designer information
+1:04:22 too I need to add that to
+1:04:24 these wait
+1:04:26 so I'm doing this work backwards I need
+1:04:28 to make all the updates before
+1:04:32 I before I go duplicate all these and
+1:04:34 resize them that's that's tough so that
+1:04:38 would probably make me want to use a
+1:04:40 macro
+1:04:42 instead because that would be
+1:04:47 easier yeah that'd be a lot easier
+1:05:01 yeah I always check plot at half print
+1:05:04 and have a note about
+1:05:06 that I need to add that note into this
+1:05:10 as well in in this um title bars
+1:05:14 somehow so there's that too
+1:05:18 okay
+1:05:21 um so now I get to copy this
+1:05:29 paste all position
+1:05:32 edit andd NOA and now this gets to be
+1:05:36 new let's see no archd
+1:05:41 oh
+1:05:45 shoot
+1:05:47 okay I did this
+1:05:49 backwards Merd Nova yeah okay
+1:05:56 and not display
+1:06:00 that copy
+1:06:23 set so now we're on our so that's archd
+1:06:26 Nova and now an D Nova so these are an
+1:06:32 so this gets to go
+1:06:34 down this gets to go
+1:06:38 down Jak gets to go
+1:06:44 down there you
+1:06:48 go Arch
+1:06:56 okay with these I
+1:07:00 need I need centering
+1:07:03 tools
+1:07:10 so right this needs to
+1:07:13 exist not on cat default but actually
+1:07:17 let's get a layer painter in
+1:07:19 here we're on ancd
+1:07:24 Nova you know it's this is simple in
+1:07:27 form but man it takes a lot of
+1:07:32 effort all right so that's something
+1:07:34 that on each page you could use to
+1:07:36 Center
+1:07:39 elements and got to paste hold it and we
+1:07:42 got to kick this
+1:07:47 down okay so now when I switch to archd
+1:07:50 NOA we still have that centering
+1:07:54 yep cool
+1:08:09 so back to Willow and we
+1:08:13 want we want designer information
+1:08:17 here scale goes here scale does I don't
+1:08:20 feel like the scale is ever that
+1:08:23 large switch to Rd no Rd
+1:08:31 Willow
+1:08:32 so it's weird that I have the date date
+1:08:35 and revision so large and don't need to
+1:08:39 be date's going to be that
+1:08:41 big even the buy is going to be initials
+1:08:44 and description will be
+1:08:48 longer description might be evenig
+1:08:59 okay that way we get
+1:09:02 this and
+1:09:04 this in designer information I'm just
+1:09:06 going to have people put right here
+1:09:08 because there's no other useful place
+1:09:10 for
+1:09:11 this so I don't think you need to put
+1:09:14 designer information in your plan
+1:09:17 although I guess it's nice to put it in
+1:09:18 one place and have it be
+1:09:24 done on plan by plan
+1:09:33 basis good question just a lot more
+1:09:36 scripting and other dumb stuff I need to
+1:09:46 put what's everybody's thought you're
+1:09:48 going to input client information inside
+1:09:51 a plan
+1:09:55 you're can input designer information
+1:09:57 inside layout is that annoying would you
+1:10:00 want to put it in one place I feel like
+1:10:01 you'd want to put it in one place I just
+1:10:04 don't want to do the
+1:10:05 work that's all that's all that's
+1:10:08 happening
+1:10:21 here must be a reason I gave scale such
+1:10:24 a big thing
+1:10:26 in title information so
+1:10:31 small can me squeeze
+1:10:46 here there we go cut on one let's do
+1:10:52 this let's just do this we do this when
+1:10:56 we do that oh it's the same size
+1:10:59 now same exact size so that divided by
+1:11:07 it
+1:11:18 cool be a lot easier for me to just
+1:11:21 replace this
+1:11:23 with global contact inform
+1:11:26 designer
+1:11:41 name I mean I could give people an Excel
+1:11:44 sheet to fill out but that would assume
+1:11:46 that everybody wants to fill out an
+1:11:48 Excel
+1:11:50 sheet maybe not my favorite
+1:11:55 yeah you can do that but I don't think
+1:11:59 that's something that I would distribute
+1:12:01 as the
+1:12:04 default yeah I could have it so that you
+1:12:07 know an admin's filling out an Excel
+1:12:09 sheet and it's automatically popula in
+1:12:10 plan I can do that
+1:12:13 but just like myself I don't need that
+1:12:17 Excel sheet I would never do that so I
+1:12:18 don't need to do
+1:12:20 that um because I'm sole operator
+1:12:25 all right so how does the street only
+1:12:27 macro work let's see how this
+1:12:30 works we
+1:12:35 want so this just needs to be duplicated
+1:12:38 as designer Street copy designer Street
+1:12:42 designer
+1:12:44 street
+1:12:49 is designer
+1:12:53 address designer address
+1:13:20 using you ever how really dumb like mind
+1:13:25 thing I'm looking at Street and how
+1:13:28 spelled St r e t why does that look
+1:13:30 wrong to me I know it's not
+1:13:32 wrong I ever do
+1:13:36 that okay
+1:13:38 so
+1:13:40 stre
+1:13:44 Street Street
+1:14:00 that should be
+1:14:08 everything okay so I should be able to
+1:14:11 come back
+1:14:13 here back
+1:14:15 here and this is
+1:14:18 my no that's not where I'm getting
+1:14:21 straight where am I getting straight
+1:14:22 here
+1:14:30 no client name and zip code I want to
+1:14:33 consolidate all these there it
+1:14:43 is so I just want to copy this it's
+1:14:46 going to be the wrong size but that's
+1:14:50 okay and I'm going to paste it somewhere
+1:14:55 where probably put it in where the
+1:14:58 sidebar
+1:15:03 is where did that go it
+1:15:07 pasted where did it
+1:15:10 go un locked layer that's
+1:15:14 displayed it's probably 80 bitty is that
+1:15:17 how it works is it it bitt or super
+1:15:20 large line style so like selected line
+1:15:25 87 in sounds large
+1:15:28 but sounds super large Let's Go 2
+1:15:33 in and let's just put it at z0 so we see
+1:15:37 it there it
+1:15:40 is oh so it's itty
+1:15:42 bitty oh no super large
+1:15:46 what whoa it's way up here
+1:15:57 okay there's
+1:15:59 [Music]
+1:16:06 our input address design input address
+1:16:09 and client information in designer
+1:16:13 information is
+1:16:16 designer Street
+1:16:19 equals
+1:16:21 designer. Street and then
+1:16:27 ding ding designer
+1:16:32 address
+1:16:38 okay why is it still saying that why is
+1:16:41 it still saying that same
+1:16:46 thing oh
+1:16:49 because change this
+1:16:51 macro Center
+1:16:53 address input address in
+1:16:57 designer
+1:17:15 information in fact I could just put
+1:17:22 this I can just put this down here
+1:17:25 let's cut
+1:17:32 this do we need to have it duplicate we
+1:17:34 could just have it down
+1:17:36 here I
+1:17:38 think see what happens with
+1:17:44 that let's get rid
+1:17:47 of designer name gets to stay there
+1:17:49 Street only can
+1:17:51 disappear and then
+1:17:55 they do not delete part of
+1:18:19 this and so does this work
+1:18:40 I didn't do it I didn't do
+1:18:43 anything dang
+1:18:47 it designer Street equals designer well
+1:18:51 maybe I have this macro wrong let's try
+1:18:53 this
+1:18:58 Street no I got the macro
+1:19:09 right yeah what did I do wrong I don't
+1:19:11 know
+1:19:34 yeah it's just blank interesting why why
+1:19:37 is
+1:19:42 that do we not execute on page
+1:19:45 zero why not
+1:19:59 okay let's do another
+1:20:19 test oh well it's showing showing blank
+1:20:22 even though I clearly fill this up out
+1:20:25 right did I not oh I put it in client
+1:20:27 information what a dummy man all right
+1:20:31 let's try this
+1:20:47 again hey there we
+1:20:51 [Laughter]
+1:20:53 go oh
+1:20:55 okay all right we're getting
+1:21:04 somewhere it didn't give us the full
+1:21:07 statement
+1:21:13 though do we link a plan with this why
+1:21:15 is that saying input
+1:21:18 address yeah we already have a linked
+1:21:19 plan
+1:21:23 here yeah we
+1:21:25 do that's not
+1:21:31 good oh maybe we didn't put address in
+1:21:35 there
+1:21:46 okay and this isn't full address I don't
+1:21:49 want full
+1:21:50 address all right let's get back to
+1:21:53 this tools client
+1:21:57 information client information
+1:22:01 okay 43 2 1 testing
+1:22:20 Lane that produced this
+1:22:28 and that should have
+1:22:30 produced this but this isn't the full
+1:22:34 address I need the full
+1:22:38 address so where's this coming from
+1:22:46 again Street only rap Street
+1:22:52 only why don't I want stre only oh
+1:22:54 Street only was just for plot plan yeah
+1:22:57 this Marica was not helping me at all
+1:23:04 um I want to be
+1:23:08 grabbing the full address information
+1:23:11 from template
+1:23:19 plan that's a full address
+1:23:28 no it's not that's just it's not the
+1:23:32 city
+1:23:34 okay so to build a full
+1:23:38 address let's just grab
+1:23:44 this client name boy it'd be nice if we
+1:23:47 can expand this no way to expand this
+1:23:50 let's just open up our favorite app
+1:23:53 notepad++
+1:24:00 and here we go set our language
+1:24:04 to
+1:24:08 Ruby
+1:24:10 Okay so we've got client
+1:24:14 name we've got
+1:24:17 zipone address so
+1:24:22 street is
+1:24:30 this should just be client
+1:24:45 Street and no to
+1:24:49 I that
+1:25:21 okay
+1:25:41 um I'm doing too much work right now
+1:25:43 this should just be automated
+1:25:55 let's get claw to complete this
+1:26:25 see if it'll figure this out
+1:26:31 logically should should be able to get
+1:26:33 it oh it's doing some stupid thing
+1:26:37 though I don't want the
+1:26:54 just told the ignore previous
+1:26:57 conditional checks because I was trying
+1:26:58 to rewrite based on its previous
+1:27:00 instructions and then I put a partial
+1:27:02 code in there and said just complete
+1:27:03 this for both the client information
+1:27:06 designer information so it should have
+1:27:08 been able to get this pretty dang close
+1:27:12 let's
+1:27:14 just City ZIP code State you forgot
+1:27:18 State
+1:27:19 Etc add in
+1:27:22 state um
+1:27:26 also under client add an
+1:27:30 APN which comes from client.
+1:27:37 fact and add in scope which comes
+1:27:43 from what does it come from phone number
+1:27:45 two or
+1:27:46 something phone number two which I don't
+1:27:50 know what
+1:27:51 the dot is for that what's the dot for
+1:27:54 phone number
+1:28:01 two client info second phone client
+1:28:04 second phone
+1:28:27 do that more work or less work could I
+1:28:29 have just typed all this out or not uh
+1:28:32 no I think this is pretty good did
+1:28:34 pretty good
+1:28:36 so should be able to come back
+1:28:39 to
+1:28:41 this and punch in all
+1:28:44 that what do we
+1:28:48 get look at that that's pretty good
+1:28:58 and are we still getting Street only
+1:29:00 from
+1:29:02 this if I get rid of this do we still
+1:29:04 get Street only it should be I don't
+1:29:07 know why oh this is just a established
+1:29:11 client zip
+1:29:12 code I think we did that now
+1:29:15 too which that gives us automatic
+1:29:17 climate
+1:29:18 zone yeah
+1:29:24 now the trick is finding where the line
+1:29:25 is there it is right in the dead center
+1:29:30 okay and so this isn't populated it's
+1:29:33 not doing
+1:29:36 anything okay so now designer
+1:29:38 information is coming from
+1:29:40 this which
+1:29:42 is
+1:29:48 great and so on the layout side
+1:29:57 joho testing
+1:29:59 Lane on layout side this needs to
+1:30:04 be basically we're going to get rid
+1:30:07 of
+1:30:09 this designer
+1:30:14 address so I want to strip designer
+1:30:16 information out of
+1:30:20 here so we're not fighting
+1:30:41 there's chelton Drive
+1:30:43 okay
+1:30:50 okay and so we want it to list all this
+1:30:54 but we don't need to Define it anymore
+1:30:56 so we could take all this and now bring
+1:30:59 this to notepad++ this is so much
+1:31:02 work is anyone still watching this just
+1:31:07 that so much work to get this all set up
+1:31:09 man I hope people appreciate it when
+1:31:10 they buy this stuff I hope it's very
+1:31:13 obvious how much work goes into
+1:31:17 this
+1:31:19 uh okay so get rid of all that there's
+1:31:28 our and we're just
+1:31:34 calling and I don't think I need to put
+1:31:36 name or
+1:31:41 anything and no
+1:31:51 cot yeah here we go
+1:31:55 easier to see it in this context
+1:32:02 usually I don't always script in here
+1:32:05 but I do think it's
+1:32:10 easier
+1:32:12 ah
+1:32:19 okay okay
+1:32:31 I it be a shame if I forgot to
+1:32:34 uh if I forgot
+1:32:37 to oh I don't need this line
+1:32:42 anymore if I forgot to save this would
+1:32:45 that be wouldn't that be funny
+1:32:59 guess only needs to be in four we'll go
+1:33:02 five or six or whatever the
+1:33:05 hell what does that look
+1:33:10 like looks wrong um what am I doing I am
+1:33:16 doing Ty the address and then it's comma
+1:33:19 CA is that right comma
+1:33:29 blank
+1:33:34 do
+1:33:36 right oh we forgot a money
+1:33:41 sign oh what did I do what's wrong with
+1:33:44 that what's wrong with that Designer
+1:33:51 oh bam
+1:33:55 that's picking up his under name why did
+1:33:56 this box get bigger who told you who
+1:33:59 told you it could get
+1:34:03 bigger nice Craig just listening to me
+1:34:07 ramble glad you're still here um this
+1:34:11 address isn't showing up what am I doing
+1:34:17 wrong address is right
+1:34:20 there selecting that's a pain maybe I
+1:34:22 should make that a an easier selection
+1:34:25 um by what making a big closed b line
+1:34:31 does that make it an easier
+1:34:35 selection I don't know that that makes
+1:34:36 it an easier selection might make it
+1:34:38 more
+1:34:44 challenging oh that's kind of
+1:34:47 nice yeah
+1:34:48 sure okay um
+1:34:56 okay
+1:34:59 so why is the
+1:35:03 street designer Street not working
+1:35:07 designer. Street designer Street Capital
+1:35:12 Street that's right designer City we got
+1:35:16 designer street
+1:35:18 right so what did I do wrong here
+1:35:24 oh there it
+1:35:27 goes okay it was fighting an old Global
+1:35:30 is what was happening there testing
+1:35:39 Lane now we're using Street only R so so
+1:35:44 this is same setup is
+1:35:57 client
+1:36:16 Street uh how was zip code written I
+1:36:19 don't
+1:36:21 remember not like that clients have got
+1:36:24 capital okay follow the
+1:36:29 convention there
+1:36:32 nope dang
+1:36:34 it how's client Z code
+1:36:41 written client zip code yeah client zip
+1:36:46 code
+1:36:52 okay oh no Global
+1:36:57 gotcha
+1:37:01 okay that's
+1:37:06 there oh so this is just the arch D
+1:37:11 Willow and now I got to copy these
+1:37:14 because these are set up
+1:37:17 correctly
+1:37:19 okay copy let's drag these down let's
+1:37:23 make the
+1:37:27 these ancd
+1:37:29 Willow which makes them disappear let's
+1:37:32 figure out how to get to ancd Willow
+1:37:34 which are now
+1:37:40 here and maybe we'll get rid of okay so
+1:37:44 let's get to the default set where we
+1:37:45 can modify multiple things at once going
+1:37:48 to take this revision
+1:37:53 cuz we like
+1:37:57 it paint that
+1:38:00 too ancy D
+1:38:08 Willow let's kick this over here like
+1:38:15 so oops what is that that's joho kick
+1:38:19 this over here like
+1:38:21 so let's kick this
+1:38:25 over here this is hard to
+1:38:29 do you know what it would be very
+1:38:31 helpful is in the default set paint
+1:38:34 these different
+1:38:35 colors bam wouldn't that be
+1:38:41 nice is that helpful yeah kind of
+1:38:45 is actually very much is that's very
+1:38:50 helpful okay
+1:38:56 um you can do a
+1:38:58 shift and directional move I
+1:39:02 think
+1:39:08 yeah where's our old client information
+1:39:11 there gets the
+1:39:14 go signer information gets
+1:39:17 here
+1:39:22 and yeah
+1:39:25 yeah I think that
+1:39:34 works
+1:39:45 okay so now I got to copy paste
+1:39:48 these paste hold and switch this to ancd
+1:39:55 Nova and then turn off Willow turn on
+1:40:06 Nova doow I thought I put it on
+1:40:10 Nova I
+1:40:12 didn't what did I put it
+1:40:18 on oh and CD
+1:40:22 now okay
+1:40:24 we didn't
+1:40:25 even have client information in this
+1:40:29 one oh cuz it was over here and no
+1:40:33 revision
+1:40:35 table that's
+1:40:40 interesting what's Nova 2 looking
+1:40:43 like there's the page
+1:40:46 titles yeah yeah interesting no revision
+1:40:50 okay let's grab revision table from
+1:40:52 Willow
+1:41:09 okay grab the cad box good
+1:41:21 job all right
+1:41:27 so this
+1:41:30 is I think this goes here like
+1:41:50 this do I like that
+1:41:57 maybe do we like
+1:42:05 that why is this oh I'm missing City man
+1:42:09 come
+1:42:15 on CL States kind I
+1:42:19 forgot I'm losing my mind
+1:42:24 okay
+1:42:26 so forgot a very important thing
+1:42:30 here
+1:42:32 City
+1:42:34 you bean
+1:42:43 bag there ha that makes a big difference
+1:42:48 who knew
+1:43:10 okay this is moving this is moving I
+1:43:12 like it um I almost want to put this in
+1:43:15 the I almost just want to put this on
+1:43:17 page
+1:43:19 one no I don't they wanted on multiple
+1:43:22 pages could put it
+1:43:28 into the binding just outside of The
+1:43:33 Binding would be something we could
+1:43:38 do for this
+1:43:43 one yeah actually kind of like
+1:43:48 that this is definitely like for a
+1:43:50 kitchen
+1:43:51 layout feels like to
+1:43:57 me just kind of shift it should we
+1:43:59 Center It Center
+1:44:05 it yeah kind of like
+1:44:09 that yeah I would only use this for
+1:44:15 kitchens cool
+1:44:17 okay so just get the switch Layer sets
+1:44:20 to get different sheet sizes and
+1:44:24 Designs so now we got to
+1:44:27 do a little shift copy copy paste paste
+1:44:31 whole
+1:44:32 position change the L to archd Nova and
+1:44:37 I think archd Nova just gets the
+1:44:40 Chill on this
+1:44:42 one AR NOA
+1:44:46 just very few differences between it
+1:44:49 just shifts that down interesting okay
+1:44:53 wait we got to check that this actually
+1:44:55 works so let's go print drawing sheet
+1:44:58 set up and
+1:44:59 then
+1:45:01 rd2 n
+1:45:08 CD oh I had it backwards ancd is
+1:45:15 smaller I had it backwards rhd Nova oh
+1:45:19 no that's not true this just needs to be
+1:45:21 fixed yeah so there was some changes
+1:45:22 here
+1:45:24 here
+1:45:28 Arch archd smaller AR she's
+1:45:41 larger NCD Rd is larger and how do I
+1:45:47 have it I
+1:45:50 have I have an is larger
+1:45:55 ah okay how can I get this um turn the
+1:45:58 drawing sheet off we'll show a little
+1:46:00 trick maybe copy no I'm not going to
+1:46:04 copy paste I'm just going to shift
+1:46:06 this
+1:46:08 50
+1:46:09 over and then kick all this to Rd Nova
+1:46:16 bam and switch to archd Nova and grab
+1:46:20 all this switch it to NCD Nova NCD Nova
+1:46:27 gotcha and then take all this BR back
+1:46:32 50 should be that I've updated this
+1:46:36 now so for
+1:46:39 ANC
+1:46:41 D it's got to be a way that we could
+1:46:43 show the current print size would be
+1:46:46 very
+1:46:51 nice wonder if this are ports anywhere
+1:46:54 so so we're on the smaller print size
+1:46:57 right now we're on ancd a smaller print
+1:47:05 size
+1:47:07 yeah and so I need to
+1:47:11 move
+1:47:13 this and
+1:47:16 these
+1:47:21 down this used fit why is this not
+1:47:24 fitting
+1:47:39 anymore there we
+1:47:42 go and so let's
+1:47:45 try NCD
+1:47:48 Willow and so this is backwards too CU
+1:47:51 NC Rd Willow is correct
+1:47:57 yeah
+1:48:07 [Music]
+1:48:21 whoops there there you
+1:48:26 go
+1:48:47 cool all right so is there any text
+1:48:49 boxes that give us drawing sheet size do
+1:48:52 we have a Global for that layout
+1:49:09 info drawing oh drawing sheet
+1:49:12 size
+1:49:20 sweet why is this text so small
+1:49:25 it looks like the tiniest text on the
+1:49:27 planet let's go let's just use the
+1:49:30 custom style and make it like two inches
+1:49:32 or something like
+1:49:34 that
+1:49:37 yeah it's a little
+1:49:42 large
+1:49:48 half um
+1:49:55 where do you put this just at the top of
+1:49:56 the
+1:49:58 screen top dead
+1:50:07 center and away from yeah current sheet
+1:50:21 size nice
+1:50:39 I think it's
+1:50:43 helpful right
+1:51:02 so it's
+1:51:06 archd so it makes sense to switch to Rd
+1:51:10 sizes
+1:51:12 okay all right and we got all this is
+1:51:16 done cool
+1:51:20 cool what's up Jared
+1:51:23 dude I didn't see you come in oh you
+1:51:25 just came in nice hi I
+1:51:30 am making
+1:51:34 improvements I should go look at
+1:51:37 your templates
+1:51:41 again starting to do some breakout stuff
+1:51:45 I don't know if you saw it but I broke
+1:51:46 up my area analysis package
+1:51:49 which sorry Joe Carrick I KCK your's
+1:51:53 butt I think it kicks Mike's butts
+1:51:56 Mike's version's butt
+1:52:01 too yeah I'm proud of it I also probably
+1:52:04 have five times the number of hours into
+1:52:06 it so
+1:52:08 there get what you pay for okay all
+1:52:12 right so I got two of the layouts
+1:52:14 integrated at two different SE sheet
+1:52:17 sizes probably my most common sheet
+1:52:19 sizes but I probably should do all the
+1:52:22 other sheet sizes too I'm just wary of
+1:52:24 that until I make sure I
+1:52:27 have all the features that I want here
+1:52:30 and so what other features do we need
+1:52:32 when we're running through
+1:52:35 this oh and I've got the washes
+1:52:37 backwards now too this Rd Willow needs
+1:52:39 to
+1:52:41 be this actually
+1:52:44 becomes ancd
+1:52:48 Willow yeah and then ancd Wells going to
+1:52:52 have two different washes there's that
+1:52:55 one this
+1:53:00 becomes an I had this
+1:53:04 wrong we're on an archd sheet size this
+1:53:07 is ancd this is Arch this needs to be
+1:53:12 this is current we're on
+1:53:14 archd well I'm getting this all
+1:53:19 wrong so confusing okay this needs be on
+1:53:23 RD
+1:53:24 Willow Rd
+1:53:28 Willow okay Rd Willow bam perfect
+1:53:35 and all the sidebar stuff needs to go a
+1:53:38 little further
+1:53:42 away cool what is this wash zero oh
+1:53:45 that's the the
+1:53:48 label suppress that label
+1:53:54 and switch to ancd Will and
+1:53:59 also suppress this
+1:54:02 label
+1:54:08 cool and obviously when you
+1:54:11 switch this stuff around this stuff has
+1:54:13 to move there's no way around
+1:54:21 that and unless I could put
+1:54:25 duplicate views being
+1:54:27 sent which does that slow it down I
+1:54:30 don't know if it slows it down or not
+1:54:32 certainly increases the file
+1:54:39 size be pretty
+1:54:49 clever yeah so you'd have to shift
+1:54:51 information around and page in
+1:55:08 particular this is taking me more and
+1:55:10 more to the like thought
+1:55:13 that it really should just be one style
+1:55:18 so Willow but then all the different
+1:55:19 sheet
+1:55:20 sizes but even then you'd have to move
+1:55:23 stuff around if this was check scale at
+1:55:25 half like printed at 11 by
+1:55:28 17 so all it's doing for you then
+1:55:31 is making it easy to change sheet size
+1:55:36 but you'd have to move all these
+1:55:38 graphical
+1:55:39 elements so is that helpful I don't
+1:55:45 know it's a good
+1:55:48 question yeah because look all this none
+1:55:50 of this fits now you have to move all
+1:55:56 that repage
+1:56:15 in yeah I think you're not going to get
+1:56:19 multiple page styles
+1:56:26 what happens when you send this to all
+1:56:28 right let's just see here copy paste
+1:56:30 paste
+1:56:32 hold
+1:56:39 and let's just say this is Rd
+1:56:47 Willow and this
+1:56:51 is and ancd
+1:56:53 Willow
+1:56:55 right so when we switch to ancd Willow
+1:56:59 it is its own New View being sent
+1:57:27 there's some two views here
+1:57:37 it's okay so archd
+1:57:40 Willow it's there interesting that's got
+1:57:44 to be that's got to add the fly file blo
+1:57:47 as
+1:57:49 to I feel like
+1:57:52 maybe not cuz there one plan being
+1:58:10 sent floor plan could stay here it's the
+1:58:13 sidebar stuff that really I want to have
+1:58:28 all right heck with it let's try it
+1:59:01 so if I delete this it's gone yeah no
+1:59:03 it's not why
+1:59:08 not should have bit disappeared
+1:59:11 archd Willow why is it showing this if
+1:59:14 it's on a layer that's set not the
+1:59:17 display that's bizarre
+1:59:31 that's interesting
+1:59:35 um layer set not to display but it's
+1:59:44 showing
+1:59:46 huh so you can't hide layout boxes if
+1:59:49 they're on a layer that's not showing
+1:59:59 interesting didn't know that that seems
+2:00:02 like it does not seem correct if I'm
+2:00:05 hiding a layer it should not show just
+2:00:08 doesn't seem
+2:00:11 right okay well so that's not going to
+2:00:14 work so no matter what if you switch
+2:00:16 sheet size you're going to have to do
+2:00:17 some kind of management there
+2:00:41 um I have already looked at your
+2:00:43 template I have your template you've
+2:00:45 sent it to me before I've looked at it
+2:00:48 um
+2:00:52 there are some things I don't have that
+2:00:53 you have in your template but there are
+2:00:56 other things that my template does in a
+2:00:58 much nicer more robust and userfriendly
+2:01:01 way than what your template
+2:01:07 does so that's a shame that I
+2:01:10 can't hide something being sent which
+2:01:13 means we
+2:01:14 can't do anything with this
+2:01:17 scale that's too bad
+2:01:23 so I'm going to stick with just
+2:01:26 one version per layout and with
+2:01:30 different sheet
+2:01:32 sizes is how I'm going to approach
+2:01:36 this what is
+2:01:46 this so let's save
+2:01:49 this as
+2:01:57 Willow
+2:01:59 X17 layout
+2:02:04 templates and this will become
+2:02:09 Willow date
+2:02:31 okay there's Willow
+2:02:33 layout and now we're going to also save
+2:02:36 it
+2:02:37 as Nova
+2:02:41 layout and then we'll get to
+2:02:45 delete everything that's
+2:02:48 on R NCD will a layout
+2:02:54 so this is the Nova layout we need to
+2:02:58 turn on all the Willows turn off the
+2:03:02 sheet da da and
+2:03:05 delete so that I can get rid of Willow
+2:03:10 layers which don't give me the option to
+2:03:13 delete because it says they're
+2:03:15 used where are they used I thought they
+2:03:18 had a tool for finding okay they do find
+2:03:21 page
+2:03:25 two War oh this
+2:03:31 Willow now I should be able to get rid
+2:03:34 of both of these bam okay save
+2:03:40 this close it
+2:03:45 and shift
+2:03:50 open the will out and get rid of
+2:03:56 Nova oh I also need to get rid of the
+2:03:58 Nova layer
+2:04:02 sets let's go default set turn Nova
+2:04:06 on Turn the page
+2:04:09 off get rid of all
+2:04:15 this
+2:04:17 no
+2:04:20 and set management get rid
+2:04:31 of page back
+2:04:36 on
+2:04:39 put archd Willow up yeah right not save
+2:04:47 close shift open do the same tune
+2:05:01 no no option to delete
+2:05:07 why oh cuz it's the active
+2:05:15 set okay
+2:05:48 perfect and then I got to clean this up
+2:05:51 and fix this this
+2:06:28 page index seems a little
+2:06:42 tight will stick applicable codes over
+2:06:46 here
+2:06:54 slide that
+2:06:56 over
+2:07:15 yeah okay
+2:07:28 that widened this
+2:07:31 sidebar is that
+2:07:37 true Rd versus an
+2:07:49 D okay uh um this guy what we got I want
+2:07:54 to fix this this should all
+2:07:58 be attributes no
+2:08:02 border so that we just put a polyline
+2:08:06 around it
+2:08:07 all be a lot cleaner there you
+2:08:11 go there we
+2:08:17 go
+2:08:19 nice okay man making some big
+2:08:22 improvements today I like
+2:08:25 this so I've got this whole thing po
+2:08:29 soures all info that reports the
+2:08:30 schedule to the left you can open it up
+2:08:32 and change the values on the object
+2:08:34 information panel this PO line oh I'm
+2:08:38 driving this information from that
+2:08:47 okay this PO line okay
+2:08:58 this is
+2:09:19 important can't I just add this
+2:09:22 information with this information I
+2:09:27 could so it's not in two separate
+2:09:30 blocks I need to take this
+2:09:36 information and show it here instead
+2:09:54 I think it wants to be in front of
+2:09:57 everything actually
+2:10:31 so bam
+2:11:32 okay I like the look at this
+2:12:29 for
+2:13:17 okay
+2:13:27 I have more instructions for this
+2:13:32 too but I think that's going to go into
+2:13:34 a manual that I'm going to build
+2:13:41 [Music]
+2:14:09 I think I'm going to make a separate
+2:14:10 also separate new construction plan
+2:14:12 versus
+2:14:13 remodel so I don't even need this guy in
+2:14:18 here I'm going to leave it here in the
+2:14:20 sidebar just cuz
+2:14:22 I'll use it to build that later on but
+2:14:25 that's just going to
+2:14:31 disappear people are always asking how
+2:14:33 to do new construction with this and
+2:14:35 it's a little bit of a setup it's not
+2:14:36 too bad but would be nice if it was just
+2:14:39 click and
+2:14:44 go so much more work to build a remodel
+2:14:48 template
+2:14:52 probably don't sell it right I
+2:14:54 should strongly mention that it's a
+2:14:56 remodel
+2:14:58 template okay back to this
+2:15:02 so for
+2:15:06 Nova fix all the sidebar stuff basically
+2:15:09 what it's down to one two 2 one 2 one 2
+2:15:14 one gets me better selection
+2:15:17 here
+2:15:19 bam and then it's just shifting past
+2:15:22 this
+2:15:23 logo and we're on a
+2:15:28 Rd I cannot remember which one's larger
+2:15:31 or smaller it's
+2:15:40 crazy what is this what is this oh
+2:15:43 that's the wall legine I just kick this
+2:15:45 up cheat title existing oh the scale is
+2:15:49 here okay
+2:15:51 scale I'm usually doing something like
+2:16:01 that yeah I really think this one's just
+2:16:04 used for
+2:16:07 kitchen so Rd NCD Rd
+2:16:11 NCD uh that rabbit needs to go no that's
+2:16:15 fine actually it's design based on the
+2:16:19 smaller of those two
+2:16:30 people are going to have to shift these
+2:16:32 schedules
+2:16:33 around I don't know that anyone uses
+2:16:36 this floor plan Keynotes i' be curious
+2:16:38 to know if they
+2:16:43 do so that's the smaller of the two
+2:17:02 basically take this
+2:17:03 scale which this scale should be coming
+2:17:08 from what's it linked
+2:17:11 to uh yeah the new
+2:17:14 plan that's correct so we should be able
+2:17:17 to just copy paste and paste
+2:17:24 hole oh there's multiple scales here
+2:18:06 going to cut this row number down
+2:18:08 again make it easier for
+2:18:12 people minimum rows let's just go six
+2:18:15 why not
+2:18:37 roof
+2:18:39 schedule why is this my line so far
+2:18:43 offset over
+2:18:47 here my roof schedule too wide hm
+2:18:56 got one viewer how sad it's just you and
+2:19:04 I I'm G to be working at this for hours
+2:19:06 I wonder if anyone would ever watch this
+2:19:08 we're going to be at like six hours
+2:19:09 something like that by the time I'm
+2:19:14 done um this Lin's off why is that line
+2:19:18 off oh no cuz this is the smaller sheets
+2:19:20 size so this roof
+2:19:22 schedule is too wide
+2:19:33 really here's a floor plan
+2:19:36 schedule so we'll take okay here's how
+2:19:39 we do this come back find the roof plan
+2:19:43 schedule that's too wide
+2:19:47 somehow and take a floor plan schedule
+2:19:50 draw a
+2:19:52 line cut the
+2:19:54 line come to the roof schedule paste
+2:19:57 hold the line it's the same width what
+2:20:00 am I
+2:20:01 doing wrong what am I doing
+2:20:06 wrong how's that the same width if this
+2:20:11 fits if that
+2:20:14 fits and the other does
+2:20:17 not oh this doesn't fit
+2:20:22 absolutely does not
+2:20:26 fit aha so ancd no ancd yeah I see the
+2:20:35 problem change the sheet
+2:20:42 size this whole line needs to move over
+2:20:46 so if I to take this copy paste bring
+2:20:49 this to page zero paste hold and give
+2:20:53 this just enough room to fit this is
+2:20:56 what's happening this needs to
+2:20:59 move for this sheet size don't mind the
+2:21:02 date being inside there like that and
+2:21:05 then let's go line to Edge and Center
+2:21:09 Line That's the line I need to be Center
+2:21:15 for this View
+2:21:22 there we
+2:21:45 go HD and CD
+2:21:51 which just how it's going to
+2:21:55 be
+2:22:00 okay yeah when you switch seat sheet
+2:22:03 size you're going to have to use that
+2:22:04 reentering
+2:23:11 this page gets screwed up we just move
+2:23:13 we missed some details
+2:23:15 now no one's want to get rid of this
+2:23:18 detail
+2:23:21 fewer details on the screen for this
+2:23:31 sheet yeah that's fine oh and then the
+2:23:34 macro has to be adjusted for this
+2:23:38 page I'm going to just ditch what am I
+2:23:41 going to ditch the big one
+2:23:45 here and those deck
+2:23:47 details typical wall details would be
+2:23:50 nice
+2:23:52 nice doesn't matter can get
+2:23:58 relinked so this is kind of
+2:24:02 clever what happens
+2:24:04 here
+2:24:08 um deled one too many details
+2:24:19 oops relink these to something that
+2:24:21 maybe
+2:24:24 matters and what do we get what do we
+2:24:27 lose we lost some
+2:24:28 stuff ring laundry laundry
+2:24:32 hookups yeah Miss laundry hookups that
+2:24:35 could be one and
+2:24:37 then this one's a duplicate
+2:24:42 too typical wall staircase we get stair
+2:24:46 we have staircase we have
+2:24:48 skylights we lost
+2:24:51 no we've got that
+2:24:54 one we lost that one
+2:24:59 okay so the way this
+2:25:04 works we're going to Center
+2:25:06 between sidebar and
+2:25:12 this
+2:25:14 there all right the way this works how
+2:25:18 does this work this works by saying
+2:25:21 saying
+2:25:24 uh detail width detail height number of
+2:25:27 details Center of
+2:25:29 D1 so we need Center of
+2:25:32 D1 which is a sweet little thing here if
+2:25:35 we just move our Mouse curse over it and
+2:25:37 look at the bottom of the
+2:25:38 screen center D1 is -12 and 9
+2:25:44 respectively -2 and 9 so I get to just
+2:25:48 change this DLR to
+2:25:53 -2 9 Remains the Same number of details
+2:25:57 why we cut one out or two out I can't
+2:26:03 remember I think we cut one out so if
+2:26:07 this is correct it should go one two
+2:26:09 three four five four 3 four five
+2:26:14 six we're missing
+2:26:17 seven why are we missing seven
+2:26:21 8 9 10 11 12 13 1 2 3 4 5
+2:26:28 6
+2:26:29 interesting s's gone 9 10 11
+2:26:34 12
+2:26:36 13 14's
+2:26:38 gone all right so something's off here 1
+2:26:41 2 3 four five six
+2:26:44 rows columns I mean six
+2:26:48 columns so number of details tells white
+2:26:50 oh that's why there we go that should
+2:26:52 fix
+2:26:53 it 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+2:26:59 16 17 18 yeah perfect that's been
+2:27:07 updated so this
+2:27:10 automatically gives info back and forth
+2:27:13 to plan view that it's linked to so that
+2:27:16 you never have to type in a call out
+2:27:18 label ever you just link The View and
+2:27:20 move it on this page and the call out
+2:27:23 updates in plan and vice
+2:27:26 versa probably the best part of the
+2:27:29 system I've built if you provide
+2:27:33 details yeah cool H new viewer just
+2:27:36 popped in how's it going you're the only
+2:27:38 one you got any Chief Architect
+2:27:41 questions let me know and I'll
+2:27:44 uh I'll address them I'll hang out with
+2:27:47 you
+2:27:51 okay so then Keynotes electrical bam
+2:27:55 goes there and I wouldn't mind keeping
+2:27:57 the legend where it's at cuz the legend
+2:28:00 can get super
+2:28:02 long and then here's our scale that we
+2:28:05 need to go grab from
+2:28:11 here there
+2:28:20 and one of these was too long look at
+2:28:22 that a10's
+2:28:25 too weird sometimes it was too long
+2:28:57 sweet so
+2:28:59 Jared Mr Jared what I'm doing is setting
+2:29:02 it up so that you scroll layer sets for
+2:29:04 different sheet
+2:29:07 sizes that's it that's all I'm doing
+2:29:10 here and it'll take some n work on the
+2:29:14 on the other users's part
+2:29:16 but hopefully that makes a little bit
+2:29:18 more dynamic
+2:29:26 I don't know that I want anything more
+2:29:29 than the last one being ancy B do people
+2:29:33 print an ancy b or Arch B for 11 by
+2:29:41 17 cuz I always thought it was ancy B
+2:29:43 but I hear a lot of people use ARP which
+2:29:47 is the 12 by8
+2:29:52 yeah that's between archd and ancd is
+2:29:55 what I was showing
+2:29:59 there and then occasionally I got to
+2:30:01 scale all the way up to the big big
+2:30:06 boys which
+2:30:10 is ansy
+2:30:13 e I would never use RG that's just
+2:30:18 gigantic just seems like too
+2:30:22 much too
+2:30:24 much cuz I usually just do match lines
+2:30:27 if it's that big
+2:30:30 project e
+2:30:45 3444 yeah never 12 by 18 Okay so go 11
+2:30:50 by
+2:30:51 17 which screws up
+2:30:54 everything
+2:31:03 everything see this should just almost
+2:31:05 just be its own template I feel like
+2:31:08 these should just switch through ancd
+2:31:17 through no one would ever do this with
+2:31:19 prent views cuz then now they got to
+2:31:23 rescale
+2:31:26 everything that's why I just print print
+2:31:29 it
+2:31:29 half half
+2:31:34 scale you have a different template for
+2:31:36 each Different Page size I just print it
+2:31:38 half
+2:31:40 scale and then have a note about
+2:31:47 it cuz like
+2:31:57 okay let's say for a second I'm on
+2:32:00 ancd which is my common one and I go to
+2:32:04 print
+2:32:06 this I just say all sheets and check
+2:32:11 plot at half scale and I add a little
+2:32:15 note example
+2:32:28 and I mean that's printed at half
+2:32:39 scale and it's
+2:32:42 legible I didn't realize how fuzzy it
+2:32:44 makes the logo that's
+2:32:46 interesting also it seems to have
+2:32:48 printed the wrong
+2:32:51 I printed the wrong layer set that's
+2:33:11 weird did it maybe it didn't
+2:33:23 it's weird it did print the wrong layer
+2:33:26 set the
+2:33:29 heck that's really
+2:33:35 weird OD
+2:35:01 let's try that
+2:35:05 again all sheets are be oh I had the
+2:35:08 wrong
+2:35:09 gotcha now checkpott that's
+2:35:12 go that should be correct cool
+2:35:25 yeah I did wait you use 24 by 36 I don't
+2:35:29 what is happening here why is it doing
+2:35:31 this look at
+2:35:34 this hell is
+2:35:41 that you use what do you you say use 24
+2:35:44 by 36 see I don't cuz if you check that
+2:35:47 at half scale that's 11 by8 and then
+2:35:50 what you just print it on 11 x 17
+2:35:54 paper this is why I use ancd it's
+2:35:56 because half of it's 11 by
+2:35:58 17 unless print margins or a thing
+2:36:03 um Andy D current to check plot at has
+2:36:06 scale update the print foreview what is
+2:36:09 this doing why is it doing
+2:36:14 this my current sheet is
+2:36:16 NCT I want to print to paper at
+2:36:22 ancd 300 DPI by the way I don't know why
+2:36:25 that's so
+2:36:26 low check plot at half scale is not
+2:36:30 doing what it should be
+2:36:35 doing so there's
+2:36:37 full oh I'm doing something wrong I'm
+2:36:39 being an idiot an B check ploted half
+2:36:42 scale that's what I'm doing
+2:36:44 wrong
+2:36:46 there that works
+2:36:58 I'm being an
+2:37:00 idiot yeah so I think I'm going to get
+2:37:03 three modes out of this Rd and CD and
+2:37:05 they're just going to people are going
+2:37:07 to have to manually align elements for
+2:37:11 themselves if they switch sheet
+2:37:14 size
+2:37:16 um or give people a bunch of individual
+2:37:21 a bunch individual ones I guess I could
+2:37:24 still give them a bunch of individual
+2:37:25 ones and still build in all the scale
+2:37:27 modifications into one that would be a
+2:37:29 lot easier to update across the
+2:37:33 system that would be a lot easier to
+2:37:35 upate Across the system okay build it
+2:37:37 into one but provide four or design all
+2:37:42 right I'm game for it
+2:37:50 so I'm going to provide two more no I
+2:37:53 still think checkpott at half half scale
+2:37:55 does exactly what it needs to do so I'm
+2:37:57 only going to provide one more so
+2:38:00 drawing sheet setup is going to be would
+2:38:03 you ever go up to something larger than
+2:38:06 an ansy e that's just big boy that's a
+2:38:11 big boy it's weird sheet size
+2:38:15 too I have
+2:38:18 seen the r
+2:38:20 e which I think is just a crazy
+2:38:25 size I feel
+2:38:27 like a arch E1 is a preferable size but
+2:38:32 it's
+2:38:42 uncommon you have one plan for RG
+2:38:46 huh yeah I have a plan that I could do
+2:38:48 on RG or I could rotate
+2:38:54 it RG big big big big big big big big
+2:39:01 big it's
+2:39:03 big okay so here's the trick copy paste
+2:39:08 bring this there put this on its
+2:39:11 own new layer Arch e Nova
+2:39:20 set not to
+2:39:24 display okay same thing copy
+2:39:32 paste e
+2:39:42 Nova see this is even that's crazy
+2:39:46 that's how big it needs to be this goes
+2:39:48 way up here
+2:39:49 um okay switch to Arch e
+2:39:53 Nova tools layer settings layer set
+2:39:56 management
+2:40:01 copy what's the spelling difference
+2:40:03 there copy all
+2:40:16 right no this turned on
+2:40:23 okay ARG Nova
+2:40:26 bam I need to go grab a sidebar
+2:40:33 item paste
+2:40:35 it Center it does this fit it does so
+2:40:40 really
+2:40:41 it's it's like
+2:40:46 this let's do select
+2:40:52 control gets to
+2:40:56 go like
+2:41:07 that there is my centering
+2:41:13 line
+2:41:16 cool this get to extend
+2:41:29 get a lot of information on this page
+2:41:31 that's for
+2:41:47 sure okay got
+2:41:49 three
+2:42:05 cool cool
+2:42:08 cool this is the Nova layout but it's
+2:42:11 actually the Nova archd l
+2:42:27 but this should make it really easy for
+2:42:29 me to make an arch e
+2:42:36 layout or
+2:42:38 Arch oh that was the Anie
+2:42:47 d right
+2:43:16 yep cool
+2:43:21 oh for yours rotating would still need
+2:43:23 Archie or Archie yeah man I have a hard
+2:43:29 time remembering all this stuff okay
+2:43:33 so now all I have to do is
+2:43:37 Center and con this
+2:43:41 guy this should be
+2:43:45 easy yeah this should be easy
+2:43:50 copy
+2:43:56 this delete
+2:43:59 that Center
+2:44:03 this yeah this is quick update cool
+2:44:33 okay that one's done easy as that easy
+2:44:37 as
+2:44:38 pie
+2:44:40 now we do the ANC or Arch e
+2:44:47 layout okay
+2:44:51 okay on
+2:44:53 file on
+2:44:55 file uh print and
+2:44:59 S alt
+2:45:02 FPS
+2:45:04 RG
+2:45:06 bang so this one is a little
+2:45:10 more
+2:45:12 love
+2:45:14 love is this can all come up
+2:45:17 here crazy even design information all
+2:45:20 that stuff can go somewhere else if we
+2:45:22 wanted
+2:45:24 to yeah all this can
+2:45:26 go go way up here if we wanted to keep
+2:45:30 some normal margins this gets to get
+2:45:32 sized to 1al five because it's just
+2:45:40 gigantic
+2:45:42 right definitely see some benefits here
+2:45:45 it's just a such a huge sheet size
+2:45:49 I think I want to have I need to have a
+2:45:50 title
+2:45:51 block
+2:45:54 standard location here too so this info
+2:45:57 should
+2:45:58 start here right
+2:46:02 there um this
+2:46:05 is line style
+2:46:10 arch that
+2:46:12 way should do like a cad stops move kind
+2:46:15 of a thing here would' be nice if we
+2:46:17 could do like a reference CAD stop stop
+2:46:20 move the other way of doing this
+2:46:24 is I love putting points in points work
+2:46:27 so well
+2:46:33 in um in layout feel like it's the point
+2:46:38 point of points the point of points
+2:46:42 is right
+2:46:46 there yeah cuz now you can take
+2:46:59 this feel like that got off of Center it
+2:47:02 did oops
+2:47:25 yeah and even this gets
+2:47:26 expand Big
+2:47:35 Boy mhm
+2:48:06 boy get a lot more details on
+2:48:08 this set this
+2:48:13 up uh let's see not to throw you off
+2:48:15 topic I guess no I asked for that um
+2:48:17 does your lot analysis work schedules or
+2:48:19 poly lines it does
+2:48:21 both uh it can do both but mainly it's I
+2:48:25 mean it's all schedules it's rooms or
+2:48:28 poly lines or both in fact
+2:48:32 um let's
+2:48:35 just give you a little
+2:48:38 shout first of all I'm going
+2:48:41 to save this
+2:48:49 CU I did some valuable work
+2:48:52 here
+2:48:54 save the
+2:48:57 close the
+2:48:59 preferences change the default plan to
+2:49:02 this
+2:49:04 one go
+2:49:06 new let me show you some
+2:49:11 magic appears to be locked what does
+2:49:14 that mean oh it's sinking about now
+2:49:20 no oh so you just give me a crabby
+2:49:23 default
+2:49:24 plan
+2:49:28 uh oh it's locked because it's in this
+2:49:31 layout it's linked to this
+2:49:33 layout that's why let's unlink
+2:49:38 it
+2:49:41 placeholder Place markers placeholder
+2:49:44 placeholder new
+2:49:48 yeah okay now we have unlocked
+2:49:52 it oh don't do that
+2:49:57 why no oh I hate when this
+2:50:02 happens it's going to make me do this
+2:50:04 for everything oh hate this so much why
+2:50:09 does it do this I forget why it does
+2:50:11 this
+2:50:24 and why when it says it's missing
+2:50:25 section and you put it in one time why
+2:50:27 does it not then pick up that okay we
+2:50:29 found the section plan view
+2:50:37 dummy and now I have to do this for
+2:50:39 every CAD detail this is crazy I can't
+2:50:43 remember why it does this
+2:50:59 no
+2:51:05  why does it do that can't I don't
+2:51:09 understand
+2:51:10 it oh yeah now it's has all these
+2:51:12 missing
+2:51:16 links template C
+2:51:19 oh this is template C I don't even care
+2:51:21 about saving this I don't want to save
+2:51:22 this I don't care that
+2:51:27 okay H what's this one this is this is
+2:51:31 what I
+2:51:37 want Place
+2:51:43 markers that worked all right this is a
+2:51:48 come back to
+2:51:59 itg okay all right
+2:52:09 finally yeah I was missing layer sets
+2:52:11 but that was the old template and I
+2:52:13 didn't realize why I was having problems
+2:52:15 until I realized that part because I
+2:52:17 changed some layer setting names um I
+2:52:20 changed layer set names to shrink this
+2:52:22 layer set drop down down some because
+2:52:25 the size of this goes based on whatever
+2:52:27 the longest layer set name is so I got
+2:52:29 rid of a really long layer sets and just
+2:52:32 called it detail instead of detail layer
+2:52:34 set um so I was shrinking the whole top
+2:52:38 bar down for people that were using
+2:52:41 laptops was the point there okay so the
+2:52:44 area analysis is pretty robust now
+2:52:49 um which is that get typical there's a
+2:52:53 bunch of different classifications here
+2:52:55 one is that we're going to insert a
+2:52:58 floor or add a floor let's just do that
+2:53:00 real
+2:53:03 quick right so there's our second floor
+2:53:05 here's our bottom floor anything that
+2:53:08 has the name addition in the room type
+2:53:12 you could call this whatever you want
+2:53:14 bedroom addition but if it has addition
+2:53:17 in the room
+2:53:19 type area analysis sees it and then we
+2:53:22 say this is going to be
+2:53:24 living and then let's say this is that's
+2:53:26 all walk out so now we're going to say
+2:53:29 that this
+2:53:32 is here's our
+2:53:36 garage okay and on top of that I've got
+2:53:41 a
+2:53:44 deck right automatically we'll just call
+2:53:47 this living as well
+2:53:49 and then let's say that this down here
+2:53:52 is actually not living it's um below
+2:53:56 grade but we're going to call it
+2:53:59 living okay so that's for people that
+2:54:02 are in jurisdictions where they need to
+2:54:04 show below grade area so we built all
+2:54:07 that out and then on top of that let's
+2:54:11 say that I did something funny like I'm
+2:54:15 building I don't know I'm building some
+2:54:17 feature
+2:54:19 and it should not be considered square
+2:54:22 foot but I'm using walls to create
+2:54:25 it and it's over here and maybe it's a
+2:54:28 shed or something who knows
+2:54:31 whatever so I give you a tool to say
+2:54:34 we're going to remove this from area
+2:54:36 analysis and let me just pull up area
+2:54:38 analysis real quick so this comes from
+2:54:40 our
+2:54:41 sidebar in floor one so project
+2:54:45 information sidebar
+2:54:48 right so here's our area analysis let's
+2:54:51 get this side by
+2:54:54 side and we can see here what it's
+2:54:56 building
+2:54:57 out let me remove your comments so we
+2:55:00 can see
+2:55:05 everything so it's picking up that we've
+2:55:09 got new coverage that's coming from the
+2:55:12 bedroom Edition total coverage
+2:55:16 right and then
+2:55:19 um percentage of coverage is coming from
+2:55:22 if we switch over to our plot plan view
+2:55:26 this is our lot so that's our Lots
+2:55:29 driving percentage of coverage floor
+2:55:31 area floor area ratio lot size and I
+2:55:34 have it display in acres impervious area
+2:55:38 adds to this impervious area is 38844
+2:55:41 okay note that there's a
+2:55:45 38844 um I need to switch this so that
+2:55:49 it's any floor right now it's set to
+2:55:51 just only floor
+2:55:54 one right so it should just be include
+2:55:57 objects from all
+2:55:59 floors now notice it switched to
+2:56:03 58644 that's because in here I have it
+2:56:07 where you can put a name of
+2:56:10 something that you want to
+2:56:13 include okay so in this case we want to
+2:56:16 include all deck porches land
+2:56:18 balconies as impervious area balcony
+2:56:22 probably wrong probably wouldn't do that
+2:56:24 but so anytime that the room type is one
+2:56:28 of those types it will add to impervious
+2:56:30 area you could always delete this
+2:56:33 polyline that doesn't matter it's still
+2:56:36 going to pick up that that deck is that
+2:56:38 impervious area um also decks needs to
+2:56:41 be any floor as well I don't know why I
+2:56:43 have that as first floor second floor so
+2:56:46 need to fix that but there you go so
+2:56:48 there we go showing decks is showing
+2:56:51 impervious areas right so if I came in
+2:56:54 here um into the working plan View and I
+2:56:58 drew in some kind of balcony or who
+2:57:01 knows what I'll just do it I'll just do
+2:57:03 a
+2:57:08 porch
+2:57:12 and that adds to please stop warning me
+2:57:15 about that please that adds to that
+2:57:18 impervious areas automatically now we've
+2:57:21 got conditioned area and unconditioned
+2:57:23 area first floor and second floor if um
+2:57:27 you're converting from an old plan and
+2:57:30 for some reason that's not picking up
+2:57:31 condition area I give you a tool to say
+2:57:34 hey this below grade section here is
+2:57:38 actually um conditioned or it's not
+2:57:41 conditioned so watch this this is what
+2:57:44 first floor condition areas 1424 if I
+2:57:47 spray this there we go now it's
+2:57:50 flip-flopped unconditioned area if I
+2:57:52 want it back to conditioned there we go
+2:57:54 easily updates single click action and
+2:57:57 you could just do you know a marquee
+2:58:00 selection where you're just going over
+2:58:01 the whole thing and now it's all
+2:58:04 nothing's conditioned area versus going
+2:58:06 over the whole thing in Marquees is
+2:58:08 everything's conditioned area right
+2:58:11 we're in actuality the porches not
+2:58:13 conditioned
+2:58:15 area so and totals update cool now let's
+2:58:20 say for instance that you know some of
+2:58:22 this is this section over here is not
+2:58:25 coverage right and it shouldn't be
+2:58:28 picked up as coverage coverage is
+2:58:30 typically picking up stuff from the
+2:58:32 first floor but let's say that um this
+2:58:34 garage actually is coverage so we're
+2:58:37 going to say is coverage room
+2:58:40 sprayer and should be able to do this
+2:58:42 and let's see existing coverage
+2:58:45 1124 and so we're going to say that this
+2:58:48 is not new coverage this area is not new
+2:58:50 coverage or existing
+2:58:53 coverage um and right now coverage is
+2:58:57 also just picking up first floor so in
+2:59:01 this case we would need to say that it's
+2:59:03 include object all objects from both
+2:59:05 floors and this is
+2:59:09 where this living area would be not
+2:59:14 coverage if we added it as coverage
+2:59:16 we're going to see our coverage totals
+2:59:20 change yep it just jumped up right so
+2:59:24 this gives you like a kind of a
+2:59:26 conditional way of saying hey this is
+2:59:29 not coverage hey this is not coverage
+2:59:31 don't include it in our totals um
+2:59:34 livable non-liable just defined by room
+2:59:37 types and then Bel low grade and above
+2:59:40 grade
+2:59:45 so um and you're asking
+2:59:48 impervious doesn't handle a second floor
+2:59:50 that is can levered 2 feet yes it can so
+2:59:55 it totally can um what you would do
+2:59:58 though
+3:00:01 is I'd probably use just the the the uh
+3:00:05 polyline for that honestly and then
+3:00:08 that's kind of what it's built for um is
+3:00:12 that polyline will add an overhang very
+3:00:14 easily since it's driven from rooms
+3:00:15 otherwise you'd have to have a room
+3:00:17 divider or you'd have to you know
+3:00:19 unpaint in certain areas on the first
+3:00:21 floor paint certain areas on the on the
+3:00:23 top floor so that is what the that
+3:00:26 polylines for he being able to add from
+3:00:29 that um so yeah I mean this is pretty
+3:00:34 Dynamic this is a wacky wonky little
+3:00:36 house I just did and we just set up the
+3:00:39 area analysis on it just like we needed
+3:00:42 to in what 5 minutes 10
+3:00:45 minutes so
+3:00:49 did a lot of work on this this took a
+3:00:51 lot of
+3:00:52 work but I'm happy I'm happy it's
+3:00:55 finally to this date um I haven't seen
+3:00:57 any additional needs but it you can
+3:01:00 these are all individual schedules so
+3:01:03 you can adapt so like I I needed to show
+3:01:05 porches I could copy this right and I
+3:01:09 could say um the the this is a row
+3:01:14 heading so columns row so you just
+3:01:16 change the columns to include and you'd
+3:01:18 say
+3:01:20 porches right and then you get into
+3:01:23 General in the room types and change
+3:01:26 from deck to
+3:01:29 porch and so now we've got porches and
+3:01:32 it is reporting that
+3:01:34 porch um so it's it's very adaptable you
+3:01:38 can expand this and show whatever you
+3:01:40 need to
+3:01:43 and yeah and even like the below grade
+3:01:47 the way that functions was just
+3:01:49 creating um a specific room type that's
+3:01:53 it that's all that's
+3:01:56 doing and then just limiting by that
+3:01:59 room type in the schedule
+3:02:11 item I'm actually going to
+3:02:14 go fix that little detail now
+3:02:20 project info yeah this is looking a lot
+3:02:23 cleaner I still don't necessarily love
+3:02:27 this approach with notes
+3:02:33 but but I don't know how else to put
+3:02:36 it I just want this I want this page to
+3:02:39 be really clean clean
+3:02:46 legible yeah H okay
+3:02:50 so what did I say I needed needed deck
+3:02:53 to be any floor and I
+3:02:56 needed impervious areas to be any
+3:03:04 floor condition condition areas totals
+3:03:08 should also
+3:03:10 be that is from all
+3:03:13 floors coverage macros are just from
+3:03:16 floor one so so I would say that people
+3:03:19 should have to add floor two if they
+3:03:21 want this cuz not everything should be
+3:03:24 considered
+3:03:27 coverage that's almost where I'd give a
+3:03:29 polyline system for
+3:03:31 that all right so we're going to save
+3:03:40 this sweet dude thanks for hanging
+3:03:45 out now I'm back onto my
+3:03:48 man NOA got to fix this
+3:03:53 one so we get a lot more details
+3:04:01 here and so these
+3:04:03 are 4 in so we can
+3:04:07 go 4
+3:04:12 in three wow okay 4 Ines 4 Ines
+3:04:19 right click draw ding ding ding ding
+3:04:22 ding ding ding man you get a lot of
+3:04:25 details in
+3:04:31 here ding ding ding ding so Center of
+3:04:35 this
+3:04:39 is
+3:04:40 -71 16 14 and 516
+3:04:48 7 and
+3:04:58 1116 17 and
+3:05:02 1116 and what it say 14 and 56 no I
+3:05:06 forget dang
+3:05:10 it and number of details wide we added
+3:05:13 three do we add three rows
+3:05:19 so nine and we
+3:05:21 added
+3:05:23 eight got to check okay this was Center
+3:05:29 was7 and5 14 14 and 38 and then we are
+3:05:36 one two three four five six seven 8 nine
+3:05:40 one two three four five 6 7
+3:05:46 8 so we are
+3:05:48 oh 17
+3:05:53 dyslexic 9 and8 that should be
+3:05:58 right oh evaluation error or what am I
+3:06:01 doing
+3:06:04 wrong expecting keyw at
+3:06:07 end why what do I do
+3:06:26 what did I have there
+3:06:28 before car let's go back to where we
+3:06:31 didn't have all
+3:06:34 errors
+3:06:42 okay oh doesn't need whole numbers
+3:06:45 that'd be weird
+3:06:48 let's go
+3:06:52 17 maybe that's
+3:06:55 true was the other one
+3:06:59 14.5 there we go oh and 9
+3:07:03 and8
+3:07:06 9
+3:07:10 8
+3:07:13 bam 2 3 4 5 6 7 8 nine 18 derivatives 14
+3:07:20 6 54
+3:07:23 6372 sweet
+3:07:26 done
+3:07:28 um this would just require a lot of
+3:07:32 relinking the new details if you
+3:07:35 didn't
+3:07:38 um which I don't feel like
+3:07:43 doing that's a hefty Hefty detail sheet
+3:07:47 that
+3:07:49 is Hefty Hefty details
+3:08:27 okay
+3:09:41 yeah we got R Rd
+3:09:45 or andd
+3:09:51 this is RG
+3:09:53 oh
+3:10:02 cool man I'm
+3:10:12 sore so Willow is
+3:10:24 Rd just want to change the name of it
+3:10:27 first shift
+3:10:32 o
+3:10:41 Willow right yeah this is Rd by default
+3:10:45 okay
+3:10:47 down
+3:10:49 to ND
+3:11:07 yep nothing really changes on this
+3:11:10 page nothing really changes between this
+3:11:13 at
+3:11:15 all this one nice nice and
+3:11:20 easy okay so now this is
+3:11:34 NCD
+3:11:45 sweet did is just has more
+3:11:50 room well that's an easy one to update
+3:11:53 love it everybody use this
+3:11:57 one oh wait I still have this happening
+3:12:01 what's happening
+3:12:02 here oh client information just needs to
+3:12:04 be filled out
+3:12:09 yeah should have put a macro in for that
+3:12:12 input this into client
+3:12:14 info from your yeah shouldn't
+3:12:30 matter okay now this down
+3:12:35 to now I need to make
+3:12:38 an and
+3:12:41 see
+3:12:44 e Arch Arch e RG save as r
+3:12:53 e
+3:12:56 cool this bring it
+3:13:06 down oops I don't want to do that grab
+3:13:11 this grab this copy paste bring it down
+3:13:43 and dang it I didn't put this in the
+3:13:45 other L sets to make it easy to update
+3:13:49 oops
+3:14:36 okay contain selection let's throw this
+3:14:39 over let's give it nice plenty of room
+3:14:43 CU we got plenty of room
+3:15:00 could even put the scale in there if we
+3:15:01 wanted
+3:15:06 to mhm
+3:15:27 crazy how much info you could fit on the
+3:15:29 screen
+3:15:42 here I wouldn't even mind having the
+3:15:44 print size beyond the sheet somewhere
+3:15:47 like on The
+3:15:56 Binding
+3:16:09 right scale that
+3:16:22 right on The Binding yeah I don't mind
+3:16:33 that it'll be covered on most sheets
+3:16:36 just the cover sheet will be there yeah
+3:16:39 kind of like
+3:16:44 that also want to put
+3:16:48 the version number I keep forgetting
+3:16:53 that
+3:16:59 H like a drawing
+3:17:02 name would be nice
+3:17:59 okay so sidebar info is here and here
+3:18:58 let's go
+3:19:02 four and
+3:19:05 four learn from my
+3:19:07 mistakes didn't do this last time so I
+3:19:10 had to relink and do stupid things
+3:19:29 gu if I had more room for halfin scale
+3:19:31 there
+3:20:09 VI yeah this scale's too big to fit here
+3:20:16 sh
+3:20:48 yeah that
+3:20:55 fits
+3:20:58 cool making improvements I like
+3:21:11 it thought we did this we did this in
+3:21:14 the other
+3:21:15 one just grab from the other
+3:21:42 one
+3:21:45 crazy I don't think you can copy those
+3:21:47 all at
+3:22:03 once I'm
+3:22:05 at6 and 14
+3:22:08 and2 16 and 14
+3:22:24 nine and eight should fix all that bam
+3:22:30 Dera of nine yes perfect
+3:23:05 done cool two different
+3:23:08 style arch e
+3:23:11 templates very cool
+3:23:29 oh I want to come
+3:23:33 back oops what I
+3:23:38 do
+3:23:39 think
+3:23:43 and what did I say um
+3:24:11 okay give me that one
+3:24:14 back I don't want to box around it I
+3:24:17 don't like the Box still got to look
+3:24:19 pretty still has to look very
+3:24:25 pretty also I need to change this name
+3:24:28 to just
+3:24:29 logo
+3:24:40 logo doesn't even know where it's
+3:24:42 finding that logo does it
+3:24:46 where is it finding that
+3:24:50 logo oh it's in a totally terrible
+3:25:06 Place
+3:25:09 logo and it's going to go in
+3:25:13 templates on templates
+3:25:24 yeah okay so now you browse layout
+3:25:29 templates
+3:25:30 and Logo bam so now you replace that
+3:25:35 with your
+3:25:37 logo cool
+3:25:56 this is scaled too too too big too
+3:26:01 big only need it to be qu inch
+3:27:07 can't see here's Arch
+3:27:49 um I don't have any place to put
+3:27:56 this
+3:27:59 there or maybe I like it better
+3:28:03 okay this
+3:28:11 style really want to hide it on most
+3:28:13 sheets
+3:28:18 yeah that's
+3:28:26 fine
+3:28:28 archd yep
+3:29:30 cool let's use one of these as my
+3:29:35 defaults such
+3:29:38 as Willow
+3:29:40 NCD so if I do shift n gets
+3:29:44 me that
+3:29:57 cool
+3:30:03 cool so project information if this
+3:30:06 makes sense I should be able to go alt T
+3:30:10 DD enter
+3:30:13 and gra this John
+3:30:17 oh phone number two is
+3:30:21 kitchen
+3:30:23 kitchen
+3:30:25 remodel SPX numbers parcel
+3:30:30 number and one two
+3:30:34 three example Lane
+3:30:38 Oakland CA
+3:30:43 94611 and that gets me everything with
+3:30:46 the climate zone is not working for some
+3:30:52 reason the climate zone not
+3:30:57 working should
+3:31:05 be hope
+3:31:08 pleas hopefully somehow
+3:31:40 friend just called and was like I'm
+3:31:42 bored I'm at work come get a drink
+3:31:45 that's funny
+3:31:46 uh designer Z code designer Z code to I
+3:31:50 this should be establishing my climates
+3:31:53 on
+3:31:54 macro it's not
+3:31:56 working why
+3:31:58 not why not why
+3:32:02 not why not a good
+3:32:06 question ah climate zone CA three it's
+3:32:09 there it is there is expanded value
+3:32:12 three it's picking it up why what
+3:32:15 happened
+3:32:16 here object
+3:32:25 information climate zone macr is there
+3:32:29 manufacturer climate
+3:32:30 [Music]
+3:32:32 zone if we reset this that is in fact a
+3:32:40 manufacturer climate zone climate zone
+3:32:43 with this selected and we we select the
+3:32:46 climate zone
+3:32:49 macro nil class what's going on here if
+3:32:52 State
+3:32:53 include
+3:32:56 CA did I state does include
+3:33:10 CA broke something I broke something if
+3:33:14 state in oh it's not just State anymore
+3:33:17 it's client
+3:33:19 State
+3:33:24 aha there it is that's what's going
+3:33:27 on so this needed to be
+3:33:32 updated so easy to break a system
+3:33:42 man all right
+3:33:47 there we go so that's picking that up
+3:33:49 and
+3:33:51 then that's linked and that produced
+3:33:55 that
+3:33:57 yes yes that's
+3:34:03 fantastic that's fantastic
+3:34:07 cool cool cool cool cool cool except for
+3:34:12 that my font's different
+3:34:20 why why CU what's going on here this is
+3:34:24 316 aerial No forting 53 seconds
+3:34:31 okay so this needs to
+3:34:37 be that needs to be
+3:34:40 360s right
+3:34:49 formatting dang it that means I got to
+3:34:51 go change all
+3:34:59 that what is this
+3:35:02 caps we want that in caps okay
+3:35:05 whatever all right so that all built
+3:35:10 out and is
+3:35:13 working and bro template needs to be so
+3:35:19 save
+3:35:31 cool oh I changed that here but I didn't
+3:35:33 change it in
+3:35:34 the shift
+3:35:37 open one by
+3:35:42 one why is there no drawing sheet on
+3:35:44 this one
+3:35:51 what is it what is this What's Happening
+3:35:54 Here an D Willow Nova layout oh this got
+3:35:58 changed at a
+3:36:02 weird oh this is just the generic no
+3:36:06 layout okay shift
+3:36:10 open no NCD
+3:36:24 be easier just to
+3:36:26 change
+3:36:28 this
+3:36:31 instead and this is a totally different
+3:36:33 style so this one doesn't even matter
+3:36:35 I'm going to leave that all right so
+3:36:37 Nova gets to
+3:36:39 stay the way it was Willow needs to get
+3:36:43 switched and I'm going to just switch
+3:36:46 this
+3:36:50 instead to
+3:36:52 conform there I'm fine with that fine
+3:36:57 with that that works
+3:37:30 Bam Bam Bam
+3:37:36 Bam nice quality updates
+3:37:48 nice Jason are you a do you use Chief
+3:37:51 Architect at all that is funny that
+3:37:53 YouTube sent you this way sometimes I do
+3:37:56 twin motion content so maybe you're a
+3:37:58 twin motion
+3:38:02 person but yeah a big why did I just
+3:38:06 wipe my screen with my nice blue
+3:38:09 sweatshirt to get it nice and
+3:38:11 dirty dang it my most expensive
+3:38:14 sweatshirt and I just willingly put dirt
+3:38:17 all over it it's a good
+3:38:19 idea
+3:38:21 um
+3:38:23 I not at all that's funny are you in any
+3:38:26 kind of architectural
+3:38:29 programs cuz that'd be funny too um if
+3:38:32 you're
+3:38:33 not uh but I will tell you the the
+3:38:35 premise of all this for whatever
+3:38:37 industry you're in which is that
+3:38:40 um for me I always want to automate
+3:38:44 things to limit my liabil ility from
+3:38:46 potential input error from anyone that I
+3:38:49 might be working with but just also
+3:38:51 including myself so Building Systems
+3:38:54 that uh create annotations that are
+3:38:57 driven from like a global system or like
+3:39:00 a procedural system you're kind of
+3:39:03 taking the context of some of the um
+3:39:06 programs now that use node-based
+3:39:08 modeling or or node based anything
+3:39:10 procedural node-based approaches where
+3:39:13 you're just
+3:39:15 taking some input that's some
+3:39:17 established value that is some value
+3:39:20 you've used over and over again and
+3:39:22 creating a catalog of those things so
+3:39:24 that you put that node
+3:39:27 into um into a working space and you
+3:39:31 connected to something else and when it
+3:39:32 connects to something else it
+3:39:35 creates something that's exactly what
+3:39:38 you need without you having to ever make
+3:39:40 an input which is you know that's
+3:39:43 limiting the liability and potential for
+3:39:45 error
+3:39:46 um so this is an architectural software
+3:39:50 but I do this with other softwares as
+3:39:52 well where we're just um we're driving a
+3:39:55 system
+3:39:56 basically by known parameters that we're
+3:39:59 using over and over again and then a lot
+3:40:02 of this is um coming from scripting
+3:40:05 language so any kind of software that's
+3:40:07 got some open source capabilities for it
+3:40:10 or has some integrated uh you know uh
+3:40:13 development kit where you can develop
+3:40:15 for
+3:40:16 it and mind you I come from a no
+3:40:19 scripting background at all I've just
+3:40:21 been learning um at 43 how to do some of
+3:40:25 this stuff
+3:40:28 so so I'm coming in and building out
+3:40:33 ways of building a house faster than you
+3:40:36 could do it with AI it's the goal let
+3:40:38 stay ahead of the curve before
+3:40:41 they take away my worth but this
+3:40:44 software um if you are still in here
+3:40:47 it's just it's capable of building
+3:40:49 houses in in minutes and then on top of
+3:40:51 that we're producing construction
+3:40:53 documents so that we're permitting these
+3:40:54 houses in minutes as well so it just
+3:40:58 makes it so that we can do this
+3:41:00 efficiently and stay relevant and stay
+3:41:02 in the housing market
+3:41:05 and that uh people retain our services
+3:41:08 Etc so there we go I've kind of built
+3:41:12 out an existing home of some sort I'm
+3:41:15 saying say that I'm building an addition
+3:41:16 off this
+3:41:18 home it's producing dimensions for me as
+3:41:21 I
+3:41:22 go and also as I go it's also going to
+3:41:26 produce some project information for me
+3:41:28 that's doing analysis of the project
+3:41:31 including things like I need to have
+3:41:35 elevations where I'm showing this
+3:41:37 building in different section views that
+3:41:41 are two-dimensional section views so
+3:41:43 that we can come in here and
+3:41:45 do things like develop a kitchen very
+3:41:48 very quickly with this software um mind
+3:41:51 you I've been in this software for I
+3:41:53 call it 20 years or
+3:41:55 something but super simple for us to
+3:41:58 come in here and design things
+3:42:01 and get something pretty in front of you
+3:42:04 without too much
+3:42:10 effort so there's my Dimensions set and
+3:42:13 send that to something that's going to
+3:42:14 comp file this into a PDF and meanwhile
+3:42:17 I'm also able to show my client um in 3D
+3:42:21 what this looks like very easily as
+3:42:26 well pretty wild
+3:42:31 huh working payment software launching a
+3:42:34 new Endeavor in oil and gas perhaps the
+3:42:36 technology aspect for me connected to
+3:42:38 you interesting um hey you ever want to
+3:42:41 talk shop I'm happy to do that um I love
+3:42:45 developing systems so you know this is
+3:42:50 my website I'll show you my website real
+3:42:57 quick and it's even though I provide um
+3:43:01 design on the client end so in the
+3:43:04 services you know I'm providing design
+3:43:06 site measurement stuff like that within
+3:43:08 the realm of architecture um and I've
+3:43:11 got a gallery Etc but I also um sell
+3:43:15 add-on packages for the software that I
+3:43:16 use so I'm kind of making money on that
+3:43:20 end as well and then on top of that I
+3:43:23 have a whole resources page where um we
+3:43:26 do things like develop chat Bots that
+3:43:29 are built out of my chat Bots buil built
+3:43:31 out of zapier and it's got Specific
+3:43:33 Instructions set so someone can come in
+3:43:35 and if they want to learn how to script
+3:43:37 um we've got a stepbystep guide to use
+3:43:40 this chat bot to learn how to script and
+3:43:42 then uh kind of same thing is I need
+3:43:45 resources I need to go find assets um I
+3:43:47 need to go look up some building code
+3:43:49 information I've got um Google searches
+3:43:52 that I built that are specific for
+3:43:54 architecture and chat Bots that are
+3:43:56 built specifically for that as well so
+3:43:58 that's just helpful for looking up stuff
+3:44:01 like ESS window above stairs and then
+3:44:06 it'll site code and then I can go look
+3:44:08 up that code um so and this is an
+3:44:12 interactive chatbot that I built um so
+3:44:14 the
+3:44:16 section r310 and then we can go Section
+3:44:19 r310 right here emergency escape
+3:44:22 openings and get some information about
+3:44:24 aress that pops up in a new page so this
+3:44:28 is stuff I build all the time um and it
+3:44:32 and this all drives content towards my
+3:44:36 website which is awesome because maybe
+3:44:38 someone will pick up on my shop and then
+3:44:41 on top of that I built a forum in here
+3:44:43 so
+3:44:45 um to me this stuff this stuff's
+3:44:50 fun forum is my baby though that's that
+3:44:53 was a proud moment I always wanted to
+3:44:55 have um a
+3:44:57 forum know when that becomes something
+3:45:00 cool to an
+3:45:01 individual but it was to me I thought it
+3:45:05 was really cool hey can I drive some
+3:45:06 content towards a forum so and then we
+3:45:09 run some Facebook groups and various
+3:45:12 other websites all driving towards each
+3:45:14 other the thing I'm terrible at is
+3:45:16 Instagram I need to get better at that
+3:45:18 and I'm certainly not on Tik Tok but
+3:45:20 that's younger
+3:45:26 generation uh sweet I think I am
+3:45:30 probably going to end this feed if you
+3:45:34 didn't manage to watch this or you just
+3:45:35 joining now if you didn't know this in
+3:45:38 my Chief Architect shop one you can
+3:45:41 always buy
+3:45:43 training two
+3:45:45 and that's in any software I don't care
+3:45:47 what software you want to train in you
+3:45:48 want to train in Photoshop you want to
+3:45:50 train in um Squarespace website building
+3:45:52 CSS coding JavaScript coding that kind
+3:45:55 of stuff um yeah sweet I'm I'm here for
+3:45:59 you or Chief Architect or twin motion or
+3:46:02 even
+3:46:03 blender um and then another thing I'm
+3:46:06 offering now is if you want to uh bring
+3:46:08 a plan forward into the Pro Plan let me
+3:46:11 know I haven't built out the listing yet
+3:46:13 but I do plan on
+3:46:15 um I do plan on having a listing that
+3:46:19 makes it so that you can bring an old
+3:46:21 plan that you're working on into the
+3:46:22 newest Pro Plan um and I think I'm going
+3:46:25 to charge something pretty insignificant
+3:46:27 should be an easy charge to to take on
+3:46:30 because I've come up with a system to do
+3:46:31 it pretty quickly and I know what I'm
+3:46:33 looking for and then I now have a
+3:46:37 standalone area analysis package which
+3:46:39 comes from the Pro Plan and I was
+3:46:41 previewing this at some point on the
+3:46:43 live today where it really
+3:46:47 was as good as I can make it I'm I'm
+3:46:50 pretty proud of this so this is X7
+3:46:53 version of area analysis is now a
+3:46:55 standalone package and I'm not selling
+3:46:57 X17 template yet but I am selling the
+3:47:00 area analysis that comes with that
+3:47:02 version so go check that
+3:47:05 out and then other than that I'm going
+3:47:07 to go I have a little cocktail with my
+3:47:11 bartender friend so I hope you have a
+3:47:14 wonderful full rest of your Saturday
+3:47:16 we're streaming for way too long
+3:47:19 something like 3 hours 4 hours
+3:47:22 nice and uh see you next week
+3:47:30 [Music]

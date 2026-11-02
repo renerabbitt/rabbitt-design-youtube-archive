@@ -1,0 +1,2007 @@
+---
+videoId: SbqdJ-oahzc
+title: The Layout Pages in Chief Architect X16  - Designers Show #133
+url: "https://www.youtube.com/watch?v=SbqdJ-oahzc"
+status: imported
+---
+
+# Transcript
+
+0:00 Well, we have to be live, there's people
+0:02 commenting on stuff. Oh, yeah. But I did
+0:05 click another button and now it says
+0:06 we're going live, so
+0:09 I guess that's really weird. So anyway,
+0:11 if you weren't hearing what we just said
+0:12 for the last few minutes, I apologize. I
+0:15 I had clicked the go live button.
+0:17 I just realized there's a drop down
+0:19 screen that happens when you do that
+0:20 now. They changed something in their
+0:22 software. Anyway, sorry about that. But
+0:24 hi, welcome if you're just joining us
+0:26 because I messed up.
+0:28 Welcome to our show.
+0:30 We're on and and
+0:32 and
+0:33 and Kevin and I hope everybody's not in
+0:36 the waiting room anymore.
+0:38 So,
+0:39 but it seemed like other people were
+0:41 commenting.
+0:42 Yeah. Re-comment if you can hear us now,
+0:45 please. They're saying hi. They're
+0:47 saying hi and they were talking about
+0:49 something, so maybe they weren't live. I
+0:51 don't know. We might not have been. So
+0:52 anyway, we'll probably go a little
+0:53 longer today because I got a lot to
+0:55 cover and that 5 minutes just cost me 5
+0:58 minutes.
+0:59 Let me go back to the beginning then
+1:02 and I was just talking a little bit
+1:03 about a couple of things coming up, so
+1:06 at the bottom of the show page you
+1:07 should see
+1:09 a little bit of information about our
+1:11 summit coming up next year, so check
+1:13 you can learn more about it here
+1:16 or you can go to our
+1:17 homepage chiefexperts.com
+1:20 and you can find out information there
+1:23 about the summit. So, there's a thing
+1:25 right on the homepage and below that
+1:27 you'll see we have a new class coming up
+1:29 in October. John and I will be in a
+1:31 class here in
+1:32 Bloomington, Minnesota at our local
+1:34 Hampton Hotel, which is just a few
+1:38 minutes from the airport. That's one of
+1:40 the reasons we do it here. They have a
+1:41 decent hotel, the prices are fair,
+1:44 good service, good people
+1:47 and it's a decent room for us to do our
+1:48 training and so we really enjoy going
+1:51 there and it it's
+1:52 really really works out well. So, check
+1:54 that out. Again, we're doing a 2-day
+1:57 intermediate advanced class on October
+1:59 7th and 8th, we'll be doing our
+2:02 beginner intermediate class. And on
+2:04 October 9th and 10th, we'll be doing our
+2:05 intermediate advanced. So, we going to
+2:08 structure our classes to fit people that
+2:10 sign up. So, um
+2:13 no matter what level you're at, you're
+2:14 going to learn a ton in those days of
+2:16 this class. So, and you can also sign up
+2:18 for all four days if you want to
+2:21 and save two bucks.
+2:22 And I see Renee joined us, too. Cool.
+2:24 Hi, Renee.
+2:26 Hey.
+2:26 Robin's in, too.
+2:27 Robin's there, but she said she's not
+2:29 going to be on the call.
+2:30 Although, maybe she Maybe you changed
+2:32 your mind, Robin.
+2:33 No, my grandson is sitting next to me
+2:35 watching Bear Hunt. So, um we'll see how
+2:38 long that Oh, yeah. I know what you'll
+2:39 be paying attention to.
+2:41 Um
+2:42 probably won't be us.
+2:44 Okay. Anyway, welcome everybody. Again,
+2:46 we'll we'll just go a little bit longer
+2:47 today.
+2:48 Um
+2:49 uh I'm going to talk about some of the
+2:50 basics of layout pages, what they're all
+2:53 about. Um I
+2:55 had just talked a little bit about, you
+2:57 know, what is the goal of Chief
+2:59 Architect? What's the goal of using this
+3:01 software program that we
+3:04 everybody gets so excited about? It's to
+3:05 create a set of documents that we can
+3:07 use to build projects.
+3:09 I mean, we used to be able to do this
+3:10 stuff on our
+3:12 drawing board. But now we have our
+3:13 computers and we can do so much with it.
+3:15 It's pretty cool, pretty amazing. And uh
+3:17 it's pretty exciting what this program,
+3:19 what I've seen this program do for so
+3:22 many people in this industry. I've been
+3:23 doing this 31 years now.
+3:26 And uh I've seen a lot of people
+3:28 transform the way they do their business
+3:30 using Chief Architect. So, got to love
+3:32 technology.
+3:33 So, what is a layout page? Um
+3:36 let's just Let me run through a few main
+3:38 points here.
+3:40 Okay. What's a layout page?
+3:42 The key is to creating a plan in Chief
+3:45 Architect. All right. So,
+3:48 each one of these topics could go off on
+3:51 its own training session.
+3:54 No question, but basically the number
+3:56 one thing is plans are drawn in full
+3:58 size, okay? You're not thinking of
+4:01 scales where you're drawing everything
+4:02 Everything you do is full size.
+4:04 What you see on the screen is controlled
+4:06 by layers, okay? Layers are this thing
+4:08 here that you can turn things on and
+4:10 off, okay? Everything on your screen
+4:13 everything you do in a plan at any time
+4:16 has to be on a layer, so
+4:18 if I were to go look at a plan
+4:21 and I turned everything on that's
+4:23 involved in a plan
+4:25 um you it would be absolutely 100%
+4:28 impossible to work with. Okay? There's
+4:30 just no way you could do this and get
+4:33 anything done. So, we have to use layers
+4:36 and layer sets to control what we see on
+4:39 our plan at on our screen at any given
+4:42 time.
+4:43 That brings up the next thing, which is
+4:45 everything gets drawn in one plan file.
+4:50 All right? You don't create separate
+4:51 plan files to draw all these different
+4:54 things that you're going to draw. You're
+4:55 not going to have a plan for the floor
+4:57 plan and then another plan for the
+4:59 cabinets and a plan for the framing and
+5:01 a plan for the electrical.
+5:03 That creates a nightmare in the world of
+5:05 CAD if you're doing that, so we have to
+5:07 learn how to do everything in one plan.
+5:10 And that's what Chief allows us to do.
+5:11 And that's what really any CAD program
+5:13 allows you to do. We work with layers
+5:15 and we work with what's called layer set
+5:18 to control what we see on the screen,
+5:20 any screen, any view within the CAD
+5:23 program at any time is always controlled
+5:26 by layers, all right? That's a given.
+5:29 Again, that's true for every CAD program
+5:31 on the market.
+5:32 All right. Um
+5:35 what we add to a plan i.e. text,
+5:40 dimensions,
+5:41 call outs, arrows, um all these things
+5:45 on this list right here?
+5:47 Those are called default sets.
+5:50 Okay? So, that's what this is. This
+5:52 allows us to add things to our plan and
+5:55 it's already set up
+5:58 for the kind of view that we're trying
+6:00 trying to create. All right? So, if
+6:02 you're working on electrical plan, you
+6:04 got electrical items set up. You're
+6:05 working on framing, it's all set up for
+6:07 framing.
+6:08 Okay? And I know Renee and I differ on
+6:10 the use of this particular item up here
+6:12 a bit, but it's the same concept no
+6:14 matter how you're doing it, if you're
+6:15 doing it here or if you're doing it in
+6:17 your plan views, the same concept. We're
+6:19 setting up our
+6:21 defaults so that when we add notes for
+6:24 electrical plan, the notes are already
+6:26 set up for the electrical. We don't have
+6:28 to putz around with it and change things
+6:30 to different layers. So, that's the cool
+6:32 thing about default sets.
+6:34 All right. So, default set and layers,
+6:37 so both of these things
+6:39 layers and default sets
+6:42 are controlled by our plan views. All
+6:45 right? So, the thing that we do here to
+6:47 set up the different kinds of pages that
+6:50 we're going to create for our plan are
+6:52 controlled by plan views. All right? If
+6:56 you use plan views.
+6:58 If you use plan
+6:59 Which you should. If you're not using
+7:01 plan views, we need to talk. So.
+7:05 All right, which is why you're here. So,
+7:06 thanks for being here.
+7:09 Plan views are amazing when they're set
+7:10 up properly. Uh Chief's plan views are
+7:14 very generic for what they do um as much
+7:17 as everything that they do when they
+7:19 send out all their their default
+7:20 settings, they're very generic. So,
+7:22 everything that they do within their
+7:23 defaults are generic. We've spent
+7:26 hundreds and hundreds of hours massaging
+7:29 all those defaults to create a template
+7:32 that
+7:33 works really well so you don't have to
+7:35 go around and set all that stuff all the
+7:37 time. Now, I'm going to quantify that by
+7:39 saying
+7:40 I've created a template set that you get
+7:42 from my website that's very basic. It
+7:45 gets you going, it keeps it clean. It's
+7:47 worked for all of us for years and years
+7:49 and years and it works well.
+7:51 If you want to go to the next level, go
+7:53 visit
+7:56 rabbit rabbit rabbitdesign.
+7:59 rabbitdesign.net.
+8:01 .net rabbit r a b b i t t design.net.
+8:05 Renee will show you that later, okay?
+8:08 He's got some templates that'll take you
+8:10 to the next level.
+8:11 Um actually he's you've got templates
+8:13 that'll also do pretty much what I do.
+8:15 So um but you you do some cool things so
+8:18 I'm pretty excited about that.
+8:20 All right. So
+8:22 that's our plan views.
+8:24 Let me just show you real quick. So when
+8:26 I'm working on a plan
+8:27 and I'm working on my architectural I'm
+8:30 going to set it up so that I can draw
+8:32 things, add notes, add callouts,
+8:34 whatever I want to add and they're going
+8:36 to be ready for that plan.
+8:38 Now I'm ready to work on electrical so
+8:40 I'm going to use my plan view which will
+8:42 change my defaults and my layer set so
+8:45 that now I can go add electrical items
+8:47 to my plans. See all the other things
+8:49 get shut off. Now I can add my
+8:50 electrical. Then if I want to work on
+8:52 framing, I can go to my framing and turn
+8:54 that on and off. And framing I have set
+8:56 up so I could do my ceiling framing, I
+8:59 could do my floor framing for my floors
+9:01 and walls, roof framing which I would
+9:04 have in this particular plan up on the
+9:06 second level.
+9:07 Um or I could just work on all my
+9:09 framing at once which I do quite often.
+9:11 So um so I I create those kind of views
+9:14 that we can work between.
+9:16 Kitchen and bath plans so now we can
+9:18 start setting up the way that we want
+9:20 our kitchen and bath to set up. You got
+9:22 your plot plans, survey. I forget what
+9:24 scale I used on this one. Um
+9:28 yeah, I think it was that one.
+9:29 So that you we can set that kind of
+9:31 information up too. So pretty basic uh
+9:34 actually not pretty basic, it's pretty
+9:35 pretty complete because it covers just
+9:37 about everything that I ever want to do
+9:39 in a plan when I'm working with people,
+9:41 but I keep it as basic as possible so
+9:43 we're not fighting with huge lists of
+9:46 things that we have to remember how it
+9:48 works and all of this. So,
+9:51 so that's kind of the goal. We want it
+9:53 we want to have it just enough
+9:55 so that we got most everything that we
+9:56 want. If we have to add something
+9:59 specific to a job, we can do that.
+10:01 All right.
+10:02 So, back to this.
+10:05 Um
+10:07 plan views are the views we put on a
+10:10 layout
+10:12 in viewports.
+10:13 All right. So, when you're on a layout
+10:16 and anything that you have on a layout
+10:17 when you click on it, it highlights that
+10:20 space, that item that you clicked, that
+10:23 is called a viewport.
+10:26 Within that viewport, we can display
+10:29 anything
+10:30 it a layout box.
+10:32 It's also called a layout box. I've
+10:34 always called it viewports and I'm going
+10:35 to continue to call it viewports.
+10:37 Cuz I think it used to be, right? You
+10:39 can call it layout boxes if you want.
+10:43 No, my voice is gone.
+10:44 Actually, viewport viewport is an
+10:45 AutoCAD term, but it works fine. It
+10:48 explains it.
+10:48 No, I created that. Come on. Sorry.
+10:51 Sorry, it was an AutoCAD thing.
+10:54 They stole it from me.
+10:56 Um
+10:57 No, I just call them viewports because
+10:58 to me that's makes it simple to
+11:00 understand what it is. It's it's a it's
+11:03 like I I used to explain it just like
+11:05 think of it as a hole in the page and
+11:07 you're looking through that hole and
+11:09 it's displaying this what you see right
+11:10 there. Um that was way before we had all
+11:13 this.
+11:13 most people would call that a window.
+11:16 Another, yeah, exactly.
+11:18 Well, and Adobe calls it a frame. So,
+11:20 there you go. We got a lot of terms for
+11:23 it, but anyway, it's a little box that
+11:25 could show stuff.
+11:28 How about that? Um and
+11:29 But what can I just say one thing about
+11:31 that? The layout box
+11:34 What's unique about it is that it
+11:36 establishes
+11:38 um
+11:39 a size of a viewport, if you will, where
+11:42 you can zoom the extents and contents of
+11:45 what's being sent to that viewport to
+11:47 the point where the viewport layout box
+11:50 cuts off the content. So,
+11:53 uh that's a static box, whereas the
+11:55 contents that's being sent to it are
+11:58 dynamic in a way where you can rescale
+12:00 the contents. Yeah. They will clip to
+12:02 whatever you've got in the layout box,
+12:04 and you can shape the layout box into
+12:06 fun little shapes. Yeah.
+12:08 And you can scale either just the
+12:11 contents of what's in the box, so the
+12:13 box stays the same from one page to the
+12:15 next or one image to the next, and or
+12:17 you can scale the box and the contents.
+12:19 Yeah.
+12:21 There are so many things we can do now
+12:24 with these
+12:26 viewports, layout boxes, whatever you
+12:28 want to call them. Um in workflow, if we
+12:30 have time, we'll talk about some of
+12:31 those tools. So,
+12:33 let's get back to the the basics of this
+12:35 and how it all works.
+12:37 All right, the viewports.
+12:39 All right, layouts can be linked
+12:41 Layouts can be linked to any plan. That
+12:44 should be layouts {slash} viewports,
+12:46 okay? A complete layout or a viewport
+12:49 can be linked to any plan or any view
+12:52 using a project browser. Now, you don't
+12:54 have to use a project browser to do
+12:56 this. I just threw that in there because
+12:57 we're going to talk about the project
+12:58 browser. Pages are organized in the
+13:00 layout using a project browser.
+13:03 Viewport titles are linked to plan view
+13:05 labels and macros.
+13:07 All right, so this is just a super basic
+13:09 list of some of the things that we're
+13:10 going to talk about today.
+13:12 So, project browser,
+13:14 if you're not using a project browser,
+13:17 this little icon right here.
+13:20 All right, and I think that's going to
+13:21 show up on everybody's toolbar, no
+13:22 matter what toolbar you're using. I I an
+13:25 old toolbar called the
+13:28 extended tool configuration.
+13:31 Okay, so when I right-click on a icon
+13:34 and I go to toolbar configuration, I'm
+13:37 using that toolbar right here.
+13:40 Um
+13:41 everybody on this call I think has their
+13:42 own version of a toolbar that they like
+13:44 to use and you may have your own version
+13:47 of a toolbar. If you're using Chief's
+13:48 default configuration,
+13:51 I would encourage you to try
+13:54 See how the default has
+13:57 two rows of icons and one row over here.
+14:00 I'd encourage you to try using the um
+14:03 at least try using the extended tool
+14:05 bar. It gives you an extra row of icons.
+14:07 It gives you most of the icons you need
+14:08 to do just about anything in Chief. It
+14:10 gives you two more icons on the side of
+14:12 here or more icons on the side here. So,
+14:15 um I just like having those things open
+14:17 and it seems to work well. So, personal
+14:19 preference.
+14:20 All right. The other thing about the
+14:21 extended toolbar is it does show the
+14:23 three drop-downs that we use when we're
+14:25 creating plans, at least when I'm
+14:27 creating a plan. You have your plan view
+14:30 set up here
+14:31 and in Chief on their default toolbar,
+14:34 this is the the drop-down that they have
+14:36 up here. Okay? But, we also have the
+14:38 layers and we also have the layer set
+14:40 default sets that we can drop down as
+14:42 well.
+14:43 Um
+14:44 I like having all three of those showing
+14:46 up so I can use them. I don't use the
+14:48 the dimension one that much because I
+14:50 have it already set up for the kind of
+14:51 views that I have here.
+14:53 Um although that can be taken to another
+14:55 level if you want to.
+14:57 So, let's talk about how we populate a
+14:59 layout page and what we do with it. So,
+15:01 when you open up
+15:03 Um so, when we look at a layout page,
+15:05 a layout page when we're working on a
+15:07 plan, we're drawing everything in one
+15:09 plan. We're creating these different
+15:11 kinds of views that we're going to put
+15:13 on our plan
+15:15 to present to the building department,
+15:18 to our subs, to our suppliers, to
+15:19 everybody that's involved in the
+15:20 project. Home owners, I guess, they kind
+15:23 of count, too.
+15:24 Um
+15:25 So, so that's what we want to do. We
+15:27 want to keep it so it's clean,
+15:29 organized, it has everything in that we
+15:31 need for the project we're about to
+15:33 build.
+15:34 Including our 3D views. Okay, so I do
+15:37 use um
+15:39 I use the default sets and layer sets to
+15:41 create different kinds of 3D views in my
+15:43 plans, as well.
+15:45 So, um there's a ton of things that we
+15:47 can do with this and how it works.
+15:50 Uh
+15:51 all right.
+15:53 Let's talk about that a little bit. Here
+15:55 is the layout that I have open right
+15:57 here, okay? So, this layout page has
+16:01 I don't know, 20
+16:03 20-some pages in it. It's a big project
+16:06 and the client that uh I do this for I
+16:09 mean, it's a company that I do a bunch
+16:10 of their plans for. Um we do some pretty
+16:13 detailed stuff and their designers will
+16:15 go in and
+16:16 and they'll lay out each room like this
+16:18 and it works pretty well. I mean, we
+16:20 have a good relationship and I really
+16:21 enjoy working with these guys. So, uh we
+16:24 we we're a good collaborative team on
+16:26 getting this stuff working. So, we print
+16:28 this on a 22 by 34. And the reason we do
+16:32 that is because they like to print a lot
+16:35 of stuff on 11 by 17 and at a 22 by 34,
+16:40 if you scale it down 50%, you could
+16:43 print on 11 by 17, just reduce the scale
+16:45 by half. So, if it's a quarter, now it's
+16:48 an eighth, okay? Same thing too.
+16:51 Hm? Same thing too. Do the same thing.
+16:53 Yeah. As do I, yeah. That's an ANSI D
+16:56 size sheet size.
+16:57 Yeah.
+16:58 ANSI D, 22 by 34. A lot of people like
+17:01 they print all their plans on 24 by 36.
+17:04 Great. I mean, whatever you like. You
+17:06 could print it on whatever size page you
+17:08 want. So, now when you're creating your
+17:09 but that archi- that engineers are on
+17:12 ANSI D and and architects are on archi-
+17:15 D.
+17:17 Oh, yeah.
+17:18 Why would engineers be on ANSI versus
+17:20 the other one?
+17:21 I don't know what the
+17:24 the history behind that is. Okay.
+17:27 Um, we're not going to get into the
+17:29 nitty-gritty of of setting up layout. We
+17:31 just don't have time for that. So, I'm
+17:33 just trying to give a broad overview
+17:34 here. And I'm going to give you a bunch
+17:35 of tips on how to do things. But, here's
+17:38 here is that layout page, the 20
+17:41 whatever pages I have. What do you got
+17:43 there? How are you seeing all these
+17:45 pages at once? You set this up?
+17:47 I set up paper space and
+17:49 Man, look how much work he does for you
+17:50 guys. Yeah, very nice.
+17:52 All I did, and this is kind of cool,
+17:54 something you guys should know about.
+17:56 Um, all I did was I took the PDF that I
+17:59 created of that plan and I
+18:02 dragged it.
+18:04 I drug it? What's the right word? I
+18:07 pulled it over onto the screen.
+18:10 You can do this with any PDF. You'll
+18:13 notice that it's 21 pages. Okay?
+18:17 I said, "Show me all the pages."
+18:21 And I went like this, and poof. There's
+18:24 all the pages displayed on my screen,
+18:26 just like that.
+18:28 Okay? So, I think covered up on my other
+18:31 ones because I shrunk those down quite a
+18:33 bit.
+18:34 Um,
+18:35 yeah, see how I shrunk them down so that
+18:37 would fit my text better so I wouldn't
+18:39 have to mess around with it. And that's
+18:40 what the layout That's what PDFs do.
+18:42 They're kind of going to fill your
+18:43 screen no matter what the zoom setting
+18:44 you have.
+18:45 Um, you can do that with any PDF. You
+18:47 could do it where you bring in one page.
+18:51 So, if I'm just going to say bring in
+18:53 the current page.
+18:54 It's still bringing in the entire PDF.
+18:58 All the pages are there. So, at any time
+19:02 you could click on that PDF, open its a
+19:04 dialogue box, and say, "Well, you know
+19:06 what? I want to see uh
+19:10 I want to see page, you know, 10 right
+19:11 now." Just switch the page number and
+19:13 it'll switch the page in your PDF.
+19:16 So, you can do that all day long. So,
+19:17 just keep in mind if you've got a big
+19:19 PDF, I don't know how big this one is.
+19:21 It's uh
+19:23 uh 46 megabytes. So, I just added 46
+19:27 megabytes to the size of my plan. So,
+19:29 keep that in mind. Um it's not just
+19:31 bringing in one page, it's bringing in
+19:33 the whole PDF. All right. So, um I just
+19:35 laid this out so I could show you in
+19:37 this uh
+19:38 layout that I have
+19:40 have an automatic index created, you
+19:42 know, done by a macro. So, whatever
+19:44 titles I create for my page, which are
+19:47 my titles right here, they'll show up on
+19:49 this index automatically.
+19:51 And the page number will also show up
+19:53 here automatically based on whatever I
+19:55 have set up down here. I like this
+19:58 You're using the page index, not a macro
+20:00 system.
+20:02 Um no, I'm using the uh
+20:05 This would be layout
+20:07 um
+20:07 If you're using the built-in page table?
+20:10 Yeah. Yes, I am.
+20:12 So, I'm using
+20:14 down here I'm using the macro layout
+20:17 label. How do we put the page index in
+20:19 there?
+20:20 I'll show you in a second. Oh, you don't
+20:22 know how to do a page index?
+20:25 Let me come back to that. This Let me
+20:27 That's Mike's question. Let me Let me
+20:28 give an overview quick. All right. So,
+20:32 I just want to show you this, okay? So,
+20:33 we got a page index. That's that based
+20:36 on the page titles. It's all It's all
+20:38 automatic. You should never have to
+20:39 touch that once you put it in.
+20:41 Um images, uh here's a a view stored in
+20:45 a CAD detail window. CAD detail window
+20:47 is back in your plan is right here. That
+20:51 little icon that looks like a T. It's
+20:54 actually looks like a little roof item
+20:56 there. And you can have all these
+20:57 different kinds of details where you can
+20:59 store CAD drawings, CAD details, text,
+21:03 pictures, PDFs. You can store anything
+21:05 you want in a CAD detail.
+21:07 Um
+21:09 camera save cameras
+21:11 pictures dragged onto the screen. Um let
+21:14 me show you a little tip about when you
+21:15 bring pictures or things onto your
+21:17 screen. If you bring a picture in and it
+21:19 comes in really big,
+21:21 all right? Here's a little tip I like to
+21:23 show people. Um do a control select of
+21:26 that picture or group of pictures. So,
+21:28 if you got more than one item, group
+21:30 select them and you'll see a little
+21:31 circle up here.
+21:33 Sometimes it's hidden by the rotate
+21:34 button. That circle is your resize
+21:36 button. It's really easy way to resize
+21:39 groups or individual items at any time.
+21:42 So, I use that all the time and I think
+21:45 you'll really enjoy it. Like even things
+21:47 like text or any image on your screen,
+21:50 you can use that resize button or
+21:52 anything on your screen. When you group
+21:54 select it, you know, I hold my control
+21:56 key down, there's that circle. I can
+21:57 resize this text bigger or smaller just
+22:00 by pulling that circle. It's your resize
+22:01 button. Really super simple.
+22:03 Okay. Um
+22:05 While we're on this topic here, I'll
+22:07 show us the save in plan button
+22:10 for pictures and PDFs. Oh, yes. That's a
+22:12 good good thing to show, John. Thanks.
+22:15 Um so, if you do bring a picture onto
+22:17 your
+22:18 You know, I'll just show it from here.
+22:19 If you bring in a picture, a PDF, and
+22:21 you drag you
+22:24 put it on the screen by importing it or
+22:26 dragged it to the screen,
+22:28 to the
+22:29 to the page,
+22:31 open that picture and then hit save in
+22:33 plan.
+22:34 Because what you don't want to end up
+22:36 happening is send You're going to send
+22:37 this to someone and they open it and
+22:39 it's like you're going to get error
+22:40 messages. Can't find this.
+22:42 find it or you're going to try to open
+22:43 it on a different computer. It's just
+22:45 just exactly.
+22:46 Exactly. And you're going to get error
+22:47 message. Can't find it. Can't find it.
+22:49 So, if you hit save in plan, it is what
+22:51 it will save in the plan. So, you'll
+22:53 Sometimes it'll even get rid of the link
+22:55 cuz it's saving it in the plan. This one
+22:57 still saves the link. So, uh
+23:00 that will increase your plan size. Just
+23:01 keep that in mind uh when you do that.
+23:04 But if you are moving plans around from
+23:05 computer to computer or sharing with
+23:07 other people, yeah, you want to do that.
+23:09 All right, let's keep going. Um Another
+23:12 that Tell me I don't remember I don't
+23:14 know if it does this or not, but when
+23:15 you back it up back up a whole plan,
+23:18 does it automatically put those check
+23:20 that box save in plan or is it just
+23:22 bringing everything
+23:23 it will just bring everything anyway.
+23:25 So, if you are sending a plan to someone
+23:27 and you have a lot of saved pictures and
+23:29 PDFs in it, use the back up entire plan
+23:31 option under the file menu, and that
+23:33 will copy all of the textures, all of
+23:35 the pictures, all of the PDFs,
+23:37 everything you want. It'll put it in a
+23:38 folder that you can then send to people,
+23:41 and that folder will look like this,
+23:43 where it's got a ton of files in it, but
+23:45 everything that's related to that plan
+23:47 or PDF. And do that from the PDF, by the
+23:49 way, so that you um from your layout
+23:52 page, I mean. Do that from your layout
+23:53 page, so it captures all the plans, all
+23:55 of everything. And it does a great job,
+23:58 so that's what that that button's all
+24:00 about. Um all right, so real quickly
+24:03 here.
+24:04 So, we've got views saved. We've got
+24:05 folders drag that I put on this page.
+24:08 We've got floor plans from an as-built.
+24:10 We've got elevations. We've got photos,
+24:12 floor plans. Here's a um plan with my
+24:16 demo plan view. My demo plan view.
+24:19 Here's the same plan um with the uh
+24:24 structural callouts. Okay, that's a
+24:26 saved plan view as well. Um then we get
+24:29 into
+24:31 uh my roof layouts, so that's my roof
+24:32 plan view. Then we get into things like
+24:35 the framing. Here's my framing plan
+24:38 view. So, everything you see in here,
+24:40 other than the as-built drawing,
+24:42 which is those two pages here, is coming
+24:44 from one plan file. So, we're not
+24:47 creating different plan files. So, we're
+24:48 just saving all sorts of things.
+24:50 All right.
+24:52 So, with that said, how do we do this?
+24:55 So, when you first create a layout page
+24:58 so if I go new layout, it's going to be
+25:00 a blank screen. I'm using my template
+25:02 that I've created. I'm going to go
+25:04 select a page size that I like to use,
+25:07 and then I'm going to go change the uh
+25:10 the page under file
+25:13 print drawing sheet setup. I also have
+25:16 to change that. So, oops.
+25:20 Come on. Somebody's typing. Could you
+25:22 mute yourself when you type?
+25:23 Um
+25:26 So, then you click and click there.
+25:27 Okay, and then it fits the page size.
+25:30 So, you can switch I I've set up my
+25:32 template like this. Chief doesn't do
+25:33 that. Um so, it just works well for me.
+25:36 And once I do that, I'm going to save
+25:37 it. I'm going to go to page zero. We're
+25:39 going to go to page zero. We're going to
+25:41 save all the different things we have on
+25:42 page zero. Um we're going to modify this
+25:45 to fit our company. Change the logo,
+25:48 change the address, get rid of, you
+25:49 know, change anything you want on page
+25:52 zero. Page zero is your master border.
+25:54 Everything on page zero shows up on all
+25:57 your other pages.
+25:59 I'm not going to get into separate
+26:00 templates right now, but you could do
+26:02 that within one. Uh but just keep in
+26:04 mind that's going to show up on all the
+26:06 other pages. So, if I So, if I move my
+26:08 logo here, you'll see that now it's
+26:10 going to be moved on every other page
+26:12 that I scroll through in this layout.
+26:14 All right. So, page zero is your master
+26:16 border. Um Just men- even though you're
+26:19 not going to go over it, just mention
+26:20 what you meant by that
+26:22 comment that there's other
+26:24 What do you mean? What do you mean?
+26:25 you can use. Page templates you can use.
+26:28 Page templates? Yeah.
+26:31 Uh
+26:32 more on that question. Give me more
+26:33 information on that question.
+26:34 Um just that that's your that's your
+26:37 primary page template is on page zero.
+26:40 But you can actually
+26:42 build and use more page templates for
+26:44 other pages. You can. Yeah. That That
+26:47 would be part of this right here where
+26:49 we're going to um
+26:51 have different page templates set up and
+26:53 you would select them here. Yeah, we're
+26:55 not we're not going to show that but
+26:57 No, but yeah, sometimes page that has to
+27:00 have a unique border say you're working
+27:02 with an engineer and you got to use
+27:03 their border you
+27:04 Exactly. within one layout. Yeah, so so
+27:06 sometimes I'll have a blank page that I
+27:08 bring their plans in on so I can scale
+27:10 them onto that exactly the way I want
+27:12 them
+27:13 or I'll just put a white out box over
+27:14 the border that's there and I'll then
+27:16 put their stuff on top of it. So
+27:17 different ways to do it but yeah.
+27:20 Um we can create we could have 10
+27:22 different templates in one plan file if
+27:24 we wanted to 10 different borders.
+27:26 Um I do the I like to do
+27:30 usually I put my client's information
+27:31 here. And then I like to put the client
+27:34 the customer information in so like this
+27:36 one here it's you know Titus is a
+27:38 contractor in town here. Then we have
+27:40 the customer information which I don't
+27:42 know if I showed this not but
+27:44 um
+27:45 but this is a real project but there's
+27:46 their information. I don't type it on
+27:48 the page. I go to
+27:50 um up to tools
+27:52 I go to designer client info and I put
+27:54 my client information here and it fills
+27:57 in these macros automatically. So the
+27:59 macros that you see here are
+28:03 um text macros that I've just added. So
+28:05 we got client street, client city, state
+28:08 and zip code. And these are built in.
+28:11 How do you get to those?
+28:14 Yeah, the way you add those is to
+28:18 uh
+28:18 drop a text box somewhere on your page
+28:22 and go to the little macro button global
+28:25 go to um in this case layout info All
+28:29 right,
+28:30 contact. This one would be contact info
+28:32 client info and there's those macros
+28:34 that we would put on our page.
+28:37 And then I'm using the drop down here
+28:39 under tools to populate those macros
+28:43 with
+28:45 the client information. I don't use the
+28:47 designer information, you could, but I
+28:50 just change it on people's I just have
+28:52 templates for each client that I do
+28:54 things with.
+28:55 Um, works really well.
+28:57 Page title, this is a big one.
+29:00 Okay? Because everything that you do,
+29:03 um, relates to page titles. And this is
+29:06 where you're going to If you're not
+29:07 using your project browser for anything
+29:09 else, you have to use it for this. Okay?
+29:12 That's not even a given. Um, if you're
+29:14 creating more than one page plans,
+29:17 which I'm assuming everybody's doing,
+29:19 uh, you're going to want to use the the
+29:22 project browser. Again, that's this
+29:24 little button right here, the project
+29:26 browser.
+29:27 And you're going to want to,
+29:29 um, set that up. So, when I'm in my
+29:30 layout page,
+29:32 okay, let's see. Where is this one? This
+29:34 one right here. So, here's all the pages
+29:37 in this plan that I'm working on.
+29:39 Here's all the pages, okay? So, what you
+29:42 see on this list is what's going to show
+29:45 up in here
+29:46 because I'm using the macro in that spot
+29:50 called
+29:52 Let's go edit this page.
+29:56 It's called title.
+29:57 All right? So, what I did is I
+30:00 right-clicked on that name
+30:02 and I went to
+30:05 up edit page information. You can also
+30:07 get to that same
+30:09 thing by clicking this icon here. It
+30:11 looks like a little page with a pencil
+30:13 on it. Edit the page information.
+30:15 Whatever you type here is going to show
+30:18 up in this box right here. It's also
+30:21 going to show up in your schedule
+30:23 because schedule uses the title line
+30:26 here to populate the title.
+30:28 The label with the pound sign that you
+30:30 see right there, the hashtag, that's
+30:32 what's going to show up down here.
+30:35 Okay? The hashtag is automatically going
+30:37 to put a page number there.
+30:40 Um,
+30:41 so that's the macro for that. That's So,
+30:44 when I look at my index
+30:47 Okay, so the page numbers and the page
+30:50 title
+30:51 is being controlled by
+30:53 that
+30:55 information right here. Project
+30:57 overview, project overview. And just to
+30:59 clarify, just to clarify for a second,
+31:01 Dan called that index a schedule a
+31:03 little bit ago. Technically, it is a
+31:05 schedule, but it really is the plan
+31:07 index or your title page. You you know,
+31:09 your um table of contents. So, just make
+31:12 sure that's the what we're using. True.
+31:14 What are you using it for?
+31:15 Yeah, thanks for Robin, cuz you could
+31:17 name this whatever you want. The plan
+31:18 index, table of contents,
+31:21 I've seen different names for these. Um
+31:24 So, yeah, it's not a schedule. It It
+31:26 acts like a schedule and that's
+31:27 self-populating, but it's it's populated
+31:30 by the information that is put in from
+31:34 the title right here.
+31:36 Okay, so that then I don't know of any
+31:38 way to change that. It's always going to
+31:39 use that macro for
+31:41 in that particular item. The way you add
+31:43 one of those is you go to this little
+31:44 icon right here, layout page table. Just
+31:47 drag it onto your screen. Drop it.
+31:50 Turn this layer on and there's
+31:51 everything here. You can modify that by
+31:54 opening its dialogue box.
+31:57 And
+31:58 um
+31:58 you have these different columns that
+32:00 you can add or remove. I only use um I
+32:04 only use the label and the title. But
+32:06 you see there's a one called description
+32:07 and comments. See those four things
+32:10 right there?
+32:12 Well, look at this. So, if we go to the
+32:13 page, label, title, description,
+32:15 comments. So, those are the four items
+32:18 that will automatically populate the
+32:21 plan index if you type something in
+32:23 these and you have those columns turned
+32:25 on. So, if
+32:26 Mine is set up so the way it shows the
+32:28 scale. I under comments, I changed
+32:30 comments to scale, so it shows it shows
+32:32 the scale. Okay. Um and you could do
+32:35 like floor or whatever you want to do. I
+32:37 mean, you can really customize this.
+32:39 Yes, you can.
+32:41 Um
+32:42 Can we add custom We can't add custom
+32:44 columns to this, can we?
+32:46 No, you just got those four. Well, you
+32:49 get at least five. You get Yeah. Um but
+32:52 you could add macros. So, you've added
+32:55 macros into
+32:57 here
+32:58 that do the pop No,
+32:59 No, actually I just changed comments to
+33:01 say scale, and then I put the scale in
+33:05 there. Oh, you type it in. Yeah.
+33:06 Yeah, I type it in, and then it shows up
+33:08 on my plan and in my It shows up
+33:10 everywhere. I don't think macros would
+33:12 work there.
+33:13 I linked that. Yeah, well, see, I only
+33:14 type it in once, and then it it shows it
+33:16 up on all everywhere I need it to show
+33:19 up. Yep, I I know what you mean.
+33:21 I used to do that, too, but I've I've
+33:23 changed that now to uh
+33:27 I'm using the call I'm using the labels
+33:29 of the callouts
+33:31 to call out my scale now automatically
+33:33 for each So, if I change the scale of
+33:35 this viewport, this layout box,
+33:39 that will change automatically.
+33:41 And how do you do that?
+33:44 Rene, don't you know anything?
+33:48 Good prompt Good prompts, Rene.
+33:50 Um
+33:52 uh
+33:53 the the the
+33:55 the uh labels that you see under these
+33:58 views,
+33:59 okay? So, we've got like here we've got
+34:02 A2 existing front elevation. And do you
+34:05 need the A in there? Probably not.
+34:07 Um
+34:08 but you need the page number, okay? So,
+34:11 uh So, depends on how you do this. If I
+34:15 go Let's go back up to one of these
+34:18 pages where I've got
+34:20 So, we've got HB1 on page 20. See that?
+34:24 Page 20 is related to page 20.
+34:28 Well, let's say I move page 20 to a
+34:31 different position.
+34:32 Okay, so I've got page 20 and I move it
+34:35 up here. Then I want to rearrange my
+34:37 plan.
+34:38 Well, you'll notice now that it's
+34:40 changed to the right page automatically.
+34:43 So, everything on my plan
+34:45 everything on my layout will behave the
+34:47 right callout page number on it
+34:50 automatically. The stuff you type in the
+34:52 top of these circles, the top of these
+34:54 callouts, that you do manually once.
+34:57 HP1, HP2, Hall Bath 1, Hall Bath 2, Hall
+35:00 Bath 3.
+35:01 Okay? You do that once.
+35:04 That never changes.
+35:05 that? How do you do that? But the uh
+35:08 but the box itself, the page number
+35:10 itself will change. So, if we go in here
+35:13 and we click on one of these callouts,
+35:15 so I've just All I ever do when with
+35:17 something like this, I just take and put
+35:18 my callouts close to each other. So,
+35:20 they kind of form a kind of a nice
+35:22 little box. So, that works pretty well.
+35:25 But with these callouts, that's part
+35:27 That's going to be created by the camera
+35:29 you use. So, when you use these wall
+35:32 elevations or cross sections or back
+35:35 clip sections, they'll look like callout
+35:37 like this. So, when you open the
+35:38 dialogue for those callouts,
+35:41 All right. So, we're going to we Oops. I
+35:44 don't want to open the camera. I want to
+35:46 open the dialogue.
+35:48 Let's go click on the right button here.
+35:50 So, you know what to do there.
+35:53 So, when I click on this
+35:56 and we go to the label,
+35:59 um Well, hold on. What am I doing here?
+36:02 Callout uh
+36:05 I'm under plan uh plan display. So,
+36:08 whatever you put right there,
+36:10 that's what's going to show up in the
+36:11 top part of that callout right here.
+36:14 Okay? This is a camera. It's not a
+36:16 callout. It's a camera that looks like a
+36:18 callout because this is checked in. It
+36:22 says
+36:23 um Where's the button here that says
+36:25 make it look like a callout. Um
+36:28 Is it on your plan display? Display as a
+36:30 callout. So this is checked in.
+36:32 All right.
+36:33 Um
+36:34 wall elevations you don't want to
+36:36 display on every floor. Okay, so there's
+36:38 our label here.
+36:40 Here's the page number which is
+36:41 automatic.
+36:42 taking advantage of something on that
+36:43 label right there. What else should we
+36:45 be doing, Renee? Click on that macro
+36:47 drop down.
+36:49 The this one right here? Yep. And go
+36:52 into object specific.
+36:55 Okay.
+36:56 And
+36:58 I'm sorry. This is Oh, this is your
+36:59 cross section camera. This is not your
+37:01 layout
+37:01 a wall elevation. This is not your
+37:03 layout box label. Never mind.
+37:04 No. No. No. This is just the This is
+37:07 just what shows up in the top of the
+37:08 camera's callout.
+37:10 It's the text below the line. That's
+37:12 your page number. That's the uh
+37:15 automatic that If we leave that set to
+37:16 automatic, it's going to use on the
+37:19 layout
+37:20 when we go here and we click on the uh
+37:25 we click on this viewport and we
+37:28 let's and we open it
+37:30 Let's see what I'm doing here. It's the
+37:31 wrong callout. I don't want that
+37:33 callout. I want this callout. HP2.
+37:36 So here's HP2. See, it doesn't have the
+37:38 page number here.
+37:39 Page number's being gotten from here.
+37:43 So when we click on this, the page
+37:45 number's coming from this pound Whatever
+37:47 we type in here,
+37:49 that's what's going to show up
+37:51 in the callout on the floor plan.
+37:54 Uh
+37:55 should Where did that one go? Yeah,
+37:58 here. See, there's Now it's not showing
+38:00 a page number. It's showing
+38:02 the type of the stuff I typed in there.
+38:04 I don't want that. I want to keep it
+38:06 whatever I want to keep it the pound
+38:08 sign
+38:10 so that it automatically
+38:12 If I get the right place here.
+38:17 Um so it automatically
+38:20 shows the page number. Now, if you're
+38:22 using A1, E1, you know, the different
+38:26 letters, put a letter if you go A- pound
+38:29 sign
+38:31 and you do that
+38:33 page A1234,
+38:35 then you start over with an E
+38:37 E- pound sign. The numbering will start
+38:40 over to E1, E2, E3, E4. So, whatever
+38:44 whatever you change what's in this box
+38:46 here, just keep the pound sign to keep
+38:48 the page numbering correct.
+38:50 All right. So, but you can change the
+38:52 label itself to it'll be whatever you
+38:54 want.
+38:56 Okay, now show the scale on the box
+38:57 label. Yes, the scale.
+39:01 Come on. I hit undo. See how it shows
+39:03 the scale, 1/2 in equals a foot? So,
+39:05 when I click on this this
+39:07 viewport and I click and I open it to
+39:10 dialogue
+39:12 I love this that they put this in the
+39:13 same dialogue as everything else. I can
+39:16 adjust the scale here.
+39:18 Okay, so if I want to change that to a
+39:19 quarter inch or no scale or whatever or
+39:22 or 3/4 inch, whatever you want to put
+39:24 there
+39:25 when you click okay
+39:27 it changes the label automatically.
+39:30 All right, and that's done
+39:32 by going to the label.
+39:36 Okay, this kind of a viewport using a
+39:37 callout, not a marker.
+39:40 Markers what you use on your floor
+39:41 plans.
+39:42 Callouts are used for your elevations,
+39:45 your CAD details.
+39:47 Um
+39:49 elevations, CAD details. Yeah. So,
+39:51 markers are just for floor plans cuz you
+39:52 don't need
+39:54 you know, specific callouts on that. So,
+39:55 if we go edit that
+39:57 Okay, reference view callout label
+40:00 and if we go to attributes, we're going
+40:02 to text below line.
+40:05 Okay, see how it shows it right here?
+40:08 is box underscore scale, the macro.
+40:13 Object specific
+40:14 box scale. So, it's going to show that
+40:17 scale that box no matter what you put in
+40:19 there.
+40:20 So, that's how you do your labels. Now,
+40:24 here's a little tip for you
+40:26 depending on how you have your template
+40:28 set up.
+40:29 Now, Renee, have you figured out how to
+40:33 um
+40:34 have both of these set properly so that
+40:37 you got the scale here and then you got
+40:39 on the floor plans?
+40:42 See, what am I trying to ask? I don't
+40:43 remember.
+40:45 Seems like I have to change these every
+40:46 time. I really haven't dug into that
+40:48 far.
+40:49 Um
+40:50 but what I like to do when I'm creating
+40:52 these kinds of views,
+40:55 how are we doing on time? Oh, Jesus.
+40:57 Uh
+40:58 time goes way too fast.
+40:59 Big subject, yeah. Layout tips going to
+41:01 take a few shows. Uh
+41:03 it might.
+41:04 Um
+41:05 let me just for the fun of it, I'm going
+41:07 to pull these off the screen a little
+41:08 bit.
+41:09 Okay, so once I put a view on my page
+41:11 and I get it all set up exactly the way
+41:13 I want it, I got my num- let callout, I
+41:16 got my scale and everything. What I'm
+41:18 going to do is
+41:20 I'm going to hit control C
+41:22 and I'm going to pull a copy off of
+41:24 that. So, depending on how many views I
+41:26 want. All right. So, this is how you're
+41:28 lining it up.
+41:30 Yeah, control C, pull a copy off.
+41:33 That keeps them all lined up nicely.
+41:35 Next thing I'm going to do is Okay, I
+41:37 I've already done my other cameras and
+41:39 saved them.
+41:41 So,
+41:42 so for elevations, you would have to
+41:45 create these cameras first. So, you're
+41:48 going to use your elevation, you're
+41:49 going to take a view of whatever it is
+41:51 you want.
+41:53 You're going to open that view, you're
+41:54 going to label this the way you want,
+41:56 get everything on there, you're going to
+41:57 you know, put your CAD lines on there
+41:59 and your text and dimensions and
+42:01 everything I that you want on that view
+42:03 and you're going to save it by clicking
+42:05 this little button here which looks like
+42:07 a icon with a save
+42:09 disk on it. Okay?
+42:11 Um that's your save button.
+42:13 For those of you that are
+42:15 the older you are, you're going to
+42:16 understand what a disc is, right? Okay.
+42:19 They don't make those anymore.
+42:21 Um, that's going to save the view. Now,
+42:23 before you exit this view, click the
+42:25 little pencil
+42:27 next to it
+42:28 and give it a name.
+42:30 This is my bath view number two. Okay,
+42:34 whatever you want to call it.
+42:37 That it whatever you name this
+42:40 can be label
+42:42 for that view on the layout page.
+42:46 So, you don't have to go retype the
+42:47 label.
+42:49 Okay?
+42:50 Um, so just name it whatever you want by
+42:52 clicking you know, save it and then
+42:53 click the little pencil to edit the
+42:55 view. And then if you want to change
+42:56 your plan, just do you want to change
+42:58 the callout label to, you know, you
+43:00 know, bath
+43:01 you know, B1 or whatever you want to
+43:03 call it. Okay, that changes the top part
+43:05 of the label. And you only have to do
+43:07 that once.
+43:08 And then click okay. So, whenever you
+43:10 save a view like this, now I could close
+43:12 this view.
+43:14 And I Yeah, would I like to save it?
+43:17 Um,
+43:19 yeah, I'll just say yeah. Okay, so I've
+43:20 closed that view.
+43:21 Now, I'm on my layout and I want to put
+43:23 that view in this viewport.
+43:26 So, I'm going to open the dialogue for
+43:28 that viewport.
+43:30 Open the dialogue for it.
+43:32 And we're going to link it to what?
+43:35 We're going to link it to something.
+43:37 So, let's relink it to something else.
+43:41 So, we're going to relink it to
+43:43 Dan, Dan, can you hang on for a second?
+43:45 Yeah. I'm going to put this comment up
+43:47 here that Mike made.
+43:49 Cuz this is going to
+43:50 Where did Where did it go? Right here.
+43:53 Plan views are awesome. I wish they
+43:55 could create a similar process for
+43:56 elevations, sections, etc.
+43:59 This is what Dan's showing you that
+44:01 you can do cameras, can do elevations,
+44:04 you can do sections like a saved plan
+44:06 view.
+44:07 Every camera
+44:08 Yeah. Every view you create in Chief, if
+44:10 you're using the project browser
+44:13 makes it easy to do this kind of thing.
+44:15 Um
+44:16 So, saved plan views are just that.
+44:18 They're floor plans, period, nothing
+44:20 else. CAD details
+44:22 uh
+44:23 saved cameras, 3D views. Just do the
+44:26 Just do it on my Do what I'm doing.
+44:28 Um
+44:29 we could have
+44:31 a dozen saved cameras in our plan.
+44:35 And all you would do is click on one of
+44:36 them, open it, reposition the camera
+44:39 where you want it, hit save, close it.
+44:41 Done. There's your plan view.
+44:43 Create it ahead of time. Make that part
+44:45 of your template.
+44:47 Done.
+44:47 You can even copy cameras from one plan
+44:49 to another.
+44:51 And it'll carry over all that
+44:52 information.
+44:54 All cameras, even elevations and cross
+44:56 sections.
+44:57 Finally, it's hard to keep track of all
+44:59 those cameras, but if you're looking at
+45:01 your plan, I create a saved plan view
+45:03 called cameras view, and the only thing
+45:05 it is has in it is the actual
+45:07 cameras. footprint of the structure and
+45:10 all the cameras, and then I can move
+45:11 them around without the clutter of
+45:13 everything else. Bam. Perfect. Yep. And
+45:15 you've got that. And then all your
+45:17 labels will be showing up, too. So,
+45:19 whatever's listed here will show up on
+45:21 your floor plan because that's the label
+45:23 for the camera.
+45:25 So, here's the one I just created, bath
+45:28 view number two. There's that view. And
+45:30 where's the stuff I drew on there?
+45:32 Um
+45:33 You want me to show you a little bit of
+45:35 sorcery? I Let me Let me finish this
+45:37 thought, and then I'm going to turn it
+45:38 over to you, Renee. No, no. But I have a
+45:40 question. I just have a question on
+45:42 this. Hold on. I'm just finishing this
+45:44 thought, and then ask your question.
+45:46 Okay? So
+45:48 So, now I've relinked this to a
+45:49 different view, different camera. Um
+45:52 it's not showing up here. So, now I
+45:54 might have to click this button here
+45:57 to re- Let's see. Is that going to work
+45:59 here? How come it is not showing up
+46:00 here?
+46:01 Did I click the right one? Yeah, there
+46:02 it is.
+46:03 So,
+46:05 oh there it is. I just needed to refresh
+46:06 the screen. So, there's that view. Of
+46:08 course, this has been saved with a
+46:10 different kind of camera, but I should
+46:11 have fixed that before I saved it. So,
+46:13 there's my label.
+46:15 And here's my scale.
+46:16 What kind of scale is that?
+46:19 Did I screw something up here? Let's
+46:21 double-check the scale.
+46:25 Um I thought I did I messed it up.
+46:28 Half inch. I must have Oh, I must have
+46:30 resized it or something. Anyway, there's
+46:32 my scale.
+46:33 Pull the box out.
+46:35 Use my right button button to pull the
+46:37 side dog. Okay, so there's my
+46:39 up, which is what you're trying to show,
+46:41 right? Well, it's a different room.
+46:43 Yeah. Although, it should have stayed
+46:44 lined up. I I screwed something up, but
+46:46 it's the concept the same.
+46:48 Um If you send your view as plot lines,
+46:51 you can actually do point-to-point snaps
+46:53 so that you line up your floors Right.
+46:55 on layout.
+46:58 Yeah, see I don't get snap points here.
+46:59 So, if I go in here and I open the
+47:02 dialogue and I go link view and I change
+47:04 it to plot lines, I don't have to resend
+47:05 it. I can just change it to plot lines
+47:07 here.
+47:08 Or I could open the view and change the
+47:10 camera there and save it, close it, then
+47:12 I could do that, too. So, here I can now
+47:15 do what Renee was saying, line that up
+47:16 with my snap tool. Here's my Got it. And
+47:19 now your floors are aligned, which is a
+47:21 really clean thing and you should do
+47:22 that. Yeah.
+47:24 All right, Renee, I'm going to turn it
+47:25 over to you.
+47:26 Oh, hold on. I want to have you do
+47:27 something. Oh, okay. Go ahead. Just
+47:28 remember to open We're going to edit
+47:30 that bath view, too.
+47:32 Do what now? I'll open it. Go and open
+47:33 that Open the camera or open the
+47:35 dialogue?
+47:35 yeah. Okay, double-click on the view to
+47:37 open the actual camera view. And edit
+47:39 the active view.
+47:41 We're going to change the name of it.
+47:42 Okay.
+47:45 Change the name to percentage sign
+47:51 layout
+47:54 dot comments
+47:57 and then percentage sign. Not
+47:58 underscore? It's dot?
+48:00 Dot, yeah. Um And it's all lower case.
+48:03 Percentage
+48:04 that L is lower case. I can't quite see.
+48:06 Yeah, it's all lower case. Okay. Dot
+48:08 comments, plural.
+48:09 Comments. Okay. Plural.
+48:12 Okay.
+48:13 So I've done that.
+48:14 press okay. Okay. And then close this
+48:17 view. Save um I don't have to save it.
+48:19 It'll ask me if I want to and say sure.
+48:23 Now edit your layout page information.
+48:27 Oh, I know where you're going here.
+48:29 Okay. Um
+48:31 I go here. There's your comments.
+48:33 And there's your comment. Yeah. Yeah,
+48:34 see what it put there. Preview.
+48:39 So this is just part of something I I
+48:41 do, but Yeah. since you rename
+48:43 everything on the sheet if it was all
+48:45 just layout.comments. Yeah.
+48:48 Interesting.
+48:50 It's a little demonstration of a macro.
+48:52 And then add a file here would actually
+48:54 be in your index, your plan index if you
+48:57 had that comment
+48:59 file a column, correct?
+49:00 That would be Yeah, so that's going to
+49:03 be now in my in my project browser.
+49:06 Um that should be under my
+49:09 Your pages. So project browser will not
+49:12 execute macro names. Oh, it won't. Okay.
+49:15 So we won't see it here. Yeah. So that
+49:17 would be under my
+49:18 big old mess.
+49:20 We'll just go to the But you'd see it in
+49:22 the page index.
+49:23 You'd see it in the page index. Okay.
+49:25 Okay.
+49:27 All right.
+49:28 Um
+49:30 Actually, let me show one more thing.
+49:32 Um and then we'll we'll flip over to
+49:34 you, um Renee. So let's say that I'm,
+49:37 you know, okay. Cool. So I want to put
+49:39 another view right here. So I hit my
+49:41 copy button and I
+49:42 pull that copy up.
+49:44 All right. So now I have another view
+49:46 right here.
+49:48 All right. So
+49:50 from this viewport right here,
+49:53 come on.
+49:54 All I do is I'm going to double click on
+49:55 it to open it.
+49:59 And I'm not going to move it now cuz if
+50:01 I move this, it's going to change the
+50:02 other view. I don't want to do that.
+50:05 But I am going to make a copy of it by
+50:07 clicking this little icon that says save
+50:09 active view as
+50:11 save active view as.
+50:14 All right.
+50:16 Um I'll say, you know, my new bath view.
+50:20 Or whatever you want to call it.
+50:21 But you know, make sure you label it
+50:23 here so you can find it on your list.
+50:24 Especially this planner, I'm getting so
+50:26 many cameras in it.
+50:28 All right, done. So I could close that
+50:29 now.
+50:31 You know, it's already saved as a
+50:32 different name. Now I could rotate it, I
+50:34 mean, to a different view
+50:36 because I put the other one away and I
+50:38 saved this as a new one. So there we go.
+50:40 So now I'm done here. So now I could
+50:41 close that
+50:43 and say yep, save it.
+50:46 Okay. Now
+50:48 on my layout page, this view is not
+50:50 going to change because it still thinks
+50:52 it needs to be this camera.
+50:53 I created a new view from it, but now I
+50:55 have to change it in here by re-linking
+50:58 it to the camera I just created. There's
+51:01 my new bath view that I just created.
+51:05 So you don't have to go back to the
+51:06 floor plan and drop a camera and save it
+51:08 and send the view to the layout. Just
+51:10 open it, save as,
+51:13 and then re-link it to that new camera
+51:16 on your layout. You know, it's I mean,
+51:18 it's so slow here.
+51:19 Um and then click okay.
+51:22 And that new view will appear. You might
+51:23 have to hit the refresh button to get it
+51:25 to show up. That's the little re- re-
+51:27 refresh the thing down here.
+51:30 Um come on. There you go. So there's my
+51:33 new
+51:34 camera view.
+51:35 Didn't do anything other than open it,
+51:38 save as,
+51:39 close it, come in here and and refresh
+51:41 it with the new view. I do that all the
+51:43 time. I might have a page full of a
+51:45 bunch of cameras where I'm just going to
+51:46 create one and then I'll just do the
+51:48 copy and then I'll re-link it. Saves a
+51:50 ton of time. Then I have to readjust the
+51:52 size. Now, if I wanted to, see how it
+51:54 doesn't fit in there quite right? You
+51:56 got these little buttons down here now.
+51:59 I'm re-center.
+52:00 Layout box con- Oh, here they are. So,
+52:02 you got these buttons now
+52:04 that you can use to re- reposition the
+52:06 items in a 3D view in a box.
+52:09 So, I could just click on this one
+52:11 and now I can See, I can zoom that in
+52:14 and out.
+52:16 And reposition that within the layout
+52:19 box itself without having to resize the
+52:21 layout box.
+52:22 My computer's just really gone into a
+52:25 slump mode here.
+52:28 Okay. So, let you see what I'm doing
+52:30 there.
+52:30 So, you do have to do this, you know, if
+52:32 you want to reposition it within the
+52:34 layout box to fit it because of
+52:36 different screen size or something like
+52:37 that.
+52:40 I think the 21 pages of PDF in a plan
+52:43 it's kind of bogged it down. Yeah, I
+52:45 bet. Um PDFs used to do that a lot.
+52:49 Um I thought it had gotten better. I
+52:51 should have
+52:52 reduced the size of my PDF before I
+52:54 brought it into Chief. Which if you have
+52:56 Adobe Acrobat, you can do that.
+52:58 Okay. Anyway.
+52:59 Um
+53:01 So, there's a little bit. I guess I've
+53:03 seen another program that does that,
+53:04 too.
+53:05 For Mac users.
+53:07 Which one is that?
+53:09 Um I don't know. He's in the comments
+53:11 somewhere. I'll try to find it.
+53:12 Yeah. Sometimes I use I'll convert my
+53:14 PDF to a picture
+53:16 using um PDF to JPG.
+53:19 Do you PDF to PDF the number two
+53:21 JPG.net.
+53:23 Or maybe it's dot com now. But anyways,
+53:25 it's a free program. You can upload a
+53:26 PDF and then download the pictures and
+53:28 it works great.
+53:30 All right.
+53:31 Did we ever finish our thought on why
+53:33 Renee wanted us to put that in the
+53:35 comment?
+53:36 Mhm. I don't think we finished that.
+53:38 Yeah.
+53:39 That is
+53:40 It's
+53:42 It's illustrating that
+53:44 you can pass an argument from plan to
+53:47 layout.
+53:49 And so layout can actually execute a
+53:51 macro
+53:53 if it sees that argument coming from a
+53:56 plan's name. Yeah. Um
+53:59 and then I use that for something
+54:01 different in that
+54:03 um I guess I could share my screen.
+54:06 Let me just finish one more thing and
+54:07 then Oh, you got another thing? All
+54:09 right, let me come back to that
+54:10 comment. One more thing before I
+54:12 get out of here. Um
+54:14 Come on.
+54:15 My teeth. Do your thing.
+54:18 All right. You notice I clicked on the
+54:19 page number? That opens this where you
+54:21 can just put type in a number of the
+54:23 page you want to jump to.
+54:25 All right. So, at any time
+54:26 I can click on a plan any actually I can
+54:30 click on any
+54:32 viewport on a page.
+54:33 And I can open the dialogue for that.
+54:35 So, let's say that in this particular
+54:37 view
+54:39 which um
+54:40 that's my architectural plan.
+54:42 You know, I want that to be on my first
+54:44 floor. So, under the linked view first
+54:46 floor, I can change which floor that
+54:48 view is showing up there.
+54:50 Okay? And then the other thing that you
+54:52 could do
+54:53 is you could go into
+54:55 relink it.
+54:57 What's edit view? No, that's that. Okay,
+54:59 relink it to
+55:01 a different plan view. All right. So,
+55:03 let's say I wanted to show my electrical
+55:05 plan in there.
+55:06 I could now relink it to that that's
+55:08 coming from my list of plan views from
+55:10 this plan for this plan.
+55:12 And I'll click okay.
+55:14 And click okay again. Now, I'm showing
+55:16 my electrical plan instead of my
+55:18 architectural plan.
+55:20 So, at any time So, So, what I always
+55:22 tell people
+55:24 take your plan
+55:25 So, um
+55:27 take your plan and copy it with your
+55:29 copy button.
+55:31 And I'm just going to a page, you know,
+55:33 let's go to 30 where there's nothing
+55:35 here. Then I'm going to paste and hold
+55:37 position. Edit, paste and hold position.
+55:41 And there's that floor plan lined up
+55:43 here. Let's go to the next page and do
+55:44 the same thing.
+55:45 important there is it's lined up from
+55:48 page to page. Exactly. So, no matter
+55:51 what you're showing in here. So, if I In
+55:53 this page, I want to see
+55:56 um
+55:57 relink it to my
+55:59 um
+56:00 I'll go to my framing
+56:02 for my floor plan wall framing plan.
+56:04 Okay, click okay.
+56:07 Why isn't it popping up? Click okay. So,
+56:10 now it's showing my framing. So, I go
+56:11 here, and I can switch this one to uh
+56:15 relink it to some other plan view. Maybe
+56:18 I want to show my
+56:20 uh HVAC. I think I put some of that Show
+56:23 roof plan on there. I can show my roof
+56:25 plan.
+56:27 My roof layout. Should say roof plan.
+56:29 Click okay. So, now I'm doing that. So,
+56:31 when you scroll between the pages and it
+56:33 when you print the PDF, it's not going
+56:36 to be jumping around like it like you
+56:38 would see in a lot of plans. Now, will
+56:41 you relink another view
+56:43 and just note something.
+56:47 What do you got?
+56:48 I'm going to go ahead and relink. Yeah.
+56:50 See that checkbox at the bottom?
+56:53 Keep layout box.
+56:54 Yeah, that's an important one to note.
+56:57 Um if we wanted to make sure our
+57:00 contents are in exactly the same spot as
+57:03 you're relinking to a view, that
+57:05 checkbox needs to remain checked. Got
+57:07 it. If instead you were relinking an
+57:10 elevation view to a new project that
+57:12 clearly your project's in a different
+57:14 space, you would uncheck that. Yeah. Cuz
+57:16 it's going to auto center the contents
+57:18 again. Yeah, that makes sense. So, if I
+57:20 if I uncheck this, and I um say I do go
+57:25 put a uh
+57:27 Let's go to a cross section camera, and
+57:29 I'll go to my front elevation now.
+57:32 And so, now I'm re-linking. Now I'm
+57:34 getting rid of the floor plan and I'm
+57:35 putting my elevation there.
+57:37 Um
+57:38 Let's see. Did it hold position or not?
+57:40 Yeah, it's it's not in the same
+57:43 position.
+57:43 based on what's there. So I'll just
+57:45 click on that.
+57:47 Um actually I probably got some stuff
+57:49 way off in the distance. Yeah, there we
+57:51 go.
+57:53 So I'll have to do the the one with the
+57:55 magnifying glass on it. And then I can
+57:57 move it around in the box and scale it
+58:00 up and down.
+58:02 Or I could open the dialogue and change
+58:04 the scale here.
+58:06 That's what I
+58:06 those all were X14, X15. They made Those
+58:09 were some cool features they added.
+58:11 That's what I was saying up front, yeah.
+58:13 The layout page I think has been one of
+58:15 the biggest changes they've made in the
+58:16 last four versions.
+58:18 You know, from like 13 to 16, the layout
+58:21 page has been phenomenal. Yeah, that's
+58:23 helpful for production.
+58:25 Yeah.
+58:26 You know, for getting the plans out. All
+58:28 right. Uh Renee, why don't you do um
+58:31 I promised you could take some time and
+58:33 show some of your cool stuff. Why don't
+58:35 you go ahead and show some of your cool
+58:36 stuff?
+58:37 Um
+58:38 Well, we we went over We started late,
+58:40 so you can take some little time. Oh,
+58:42 okay. All right.
+58:44 Um I guess I'll just show a couple
+58:46 little tips and tricks.
+58:48 So you showed something just a minute
+58:49 ago, which was that um
+58:52 when you had
+58:54 gone to re-link
+58:57 your view
+58:58 on that page, you had the option to set
+59:01 a floor.
+59:02 Well, that's not always the case. It's
+59:04 that you had a saved plan view. If we go
+59:07 into whatever the saved plan view is,
+59:10 if we go to edit this active view,
+59:14 you must have had floor use any floor.
+59:17 So
+59:18 for this saved plan view, you didn't
+59:21 designate a floor. You Yeah, that would
+59:24 be correct. I always leave mine I always
+59:26 leave mine set for any floor.
+59:28 Yeah. So, what's nice about that is that
+59:32 um
+59:33 Well, first of all, let me show I'm
+59:34 going to
+59:35 I have this layouts already established
+59:38 with a bunch of views. I've got a bunch
+59:39 of views already sent. So, I've got a
+59:42 bunch of layout boxes in place. This is
+59:44 my template layout.
+59:47 And so, what I'm going to do is I'm
+59:48 going to relink the contents of this
+59:51 layout from one plan to a different
+59:54 plan. So, I'll go into tools, layout,
+59:58 and then I'll get into changing the
+1:00:01 reference
+1:00:01 on that? Yeah, I got it.
+1:00:02 reference plan files. So, this is Again,
+1:00:05 let's go back to this. It's
+1:00:07 tools, layout, and then down towards the
+1:00:09 bottom, reference plan files. So, you
+1:00:12 mean I can relink the whole layout to a
+1:00:14 whole different plan all at once?
+1:00:16 So, you can have a layout template that
+1:00:18 is your default layout template. If you
+1:00:21 don't know how to do that, that's going
+1:00:22 to be in your preferences.
+1:00:24 So, your preferences, new plans under
+1:00:27 the general section,
+1:00:29 and layout template, you can specify a
+1:00:32 new layout template.
+1:00:33 So, you can specify a template that has
+1:00:36 a bunch of views already sent. So, in
+1:00:38 your plan template, you sent a bunch of
+1:00:41 things to the layout Yeah.
+1:00:43 already there and you like like you have
+1:00:45 And then I saved it as
+1:00:47 in your You have some cameras on your
+1:00:48 plan template that are already on your
+1:00:51 layout template.
+1:00:52 Yeah. And so, I
+1:00:54 I sent all those views, and then I went
+1:00:56 into templates, file templates,
+1:01:01 and chose save as template. So, it saved
+1:01:04 this as my new layout template.
+1:01:07 Actually, I think what I did was I just
+1:01:08 saved it and then pointed in preferences
+1:01:10 to this layout. So,
+1:01:13 Um so, that when I So, then you opened
+1:01:15 your plan template, you drew a bunch of
+1:01:16 stuff.
+1:01:17 Yeah.
+1:01:18 And now you
+1:01:19 Now you drew a bunch of stuff, right?
+1:01:20 Now you're opening your layout template.
+1:01:23 And so, I'm going to relink one of the
+1:01:25 plans that's being sent to the civil
+1:01:28 layout.
+1:01:29 And let me see if I can speak up.
+1:01:33 So,
+1:01:34 So, the key is that you have to have
+1:01:36 your plan template set up and then use
+1:01:38 that to draw your new plan in.
+1:01:40 Yeah. Because your layout template will
+1:01:42 then relink to all of those elements on
+1:01:45 your plan.
+1:01:46 Yeah, so here we go. I've I am relinking
+1:01:49 to a new plan. We're going to see that
+1:01:51 my plot plan updates in which I got to
+1:01:54 change my layout box and fix this fix
+1:01:57 the scale this maybe get rid of this
+1:01:58 image, etc. And then go sheet by sheet
+1:02:03 and
+1:02:04 kind of situate this on the plan. This
+1:02:06 is why that new tool that Dan was just
+1:02:09 showing pan scale layout box is so
+1:02:10 important is because maybe I have a
+1:02:13 project where it doesn't fit all on the
+1:02:15 sheet and I'm going to need to do
+1:02:17 like some kind of a match line. Yeah.
+1:02:20 Right? So,
+1:02:21 there would be a match line. Let me
+1:02:22 duplicate the page. Now, I've got a
+1:02:25 duplication of this and I can extend
+1:02:27 this
+1:02:28 past that match line and make sure that
+1:02:30 I'm picking up the other side of that
+1:02:31 match line and then get that back on the
+1:02:33 sheet. Yeah.
+1:02:35 Right? So,
+1:02:36 um that would be a way to to set that
+1:02:39 part of this up and then another thing
+1:02:41 that's nice if we take a look is um my
+1:02:44 layout does some very tricky things in
+1:02:46 labeling. It sees um what the file name
+1:02:49 is and it changes what's shown here
+1:02:51 based on that. It also
+1:02:53 um
+1:02:55 asks you if you're doing a walkout
+1:02:56 basement cuz I like to build walkout
+1:02:58 basements on floor one, but we like
+1:03:00 calling them basement level.
+1:03:03 So, it asks if you're doing one cuz then
+1:03:05 it adjusts all the floor levels
+1:03:08 on what it says is main level floor
+1:03:10 plan, etc.
+1:03:11 Um so, I have some trickery there that's
+1:03:13 in macros and and you can rename things
+1:03:17 um globally based on that, but
+1:03:20 what's nice here is if I go in and I
+1:03:22 just add a floor real quick,
+1:03:26 and then I can close this out and just
+1:03:28 get back to layout. Well, I can relink
+1:03:30 this
+1:03:32 or just open the object
+1:03:34 and I can just change the floor. Now,
+1:03:36 it's still called floor plan,
+1:03:38 but you could use one of the built-in
+1:03:40 macros for it to recognize that it's the
+1:03:43 second floor plan. Got it. It's the
+1:03:45 second story floor plan, something like
+1:03:47 that. So, That's nice. couple tricks
+1:03:50 there. Cool.
+1:03:51 And then I might have some elevations
+1:03:53 already sent to view. I have a window
+1:03:56 order schedule that I'm going to have
+1:03:57 to, you know, crop and manipulate to get
+1:03:59 on the screen. I've got a window order
+1:04:02 overview that it populates here. Um
+1:04:06 But then you've got your elevations. And
+1:04:09 in this case,
+1:04:11 um even if you
+1:04:12 change the reference plan file, you
+1:04:15 might need to come in here and update
+1:04:18 the view. Yeah.
+1:04:20 That's pretty typical.
+1:04:21 Always takes a while.
+1:04:23 Yeah.
+1:04:24 I said for X16, we're going to go to
+1:04:26 Idaho. Did you mention that already?
+1:04:28 No, I haven't. So, we're all headed that
+1:04:31 all of us, right? Johnny coming, right?
+1:04:34 We're all headed to Idaho for Chief
+1:04:36 Architect's training event.
+1:04:38 We've been going every year, so
+1:04:40 Yes, look us up when you get there.
+1:04:42 Yeah, look us up. Come come say hi. Um
+1:04:45 we're all friendly.
+1:04:46 Sometimes Kevin's not. Sometimes he's a
+1:04:48 jerk. Kevin
+1:04:50 Kevin
+1:04:52 Oh, my
+1:04:53 And there's always a lot of layout for
+1:04:55 for I could go out over layout quite a
+1:04:57 bit. There's quite a few little tips and
+1:04:58 tricks you can do.
+1:04:59 There really are.
+1:05:00 Um Oh, I'm going to answer Alan Layman.
+1:05:02 Um
+1:05:03 Sorry if I butchered that name.
+1:05:05 His last name.
+1:05:06 Um
+1:05:08 I have in my plan
+1:05:11 just get back in here.
+1:05:16 Um I have what I call the callout rows.
+1:05:20 And if I switch to my This is my print
+1:05:22 plan set right now, but if I switch to
+1:05:24 what I'm going to be working in my
+1:05:25 working plan set, you'll see that it
+1:05:28 represents a series of elevations.
+1:05:32 And I'll take these elevations and put
+1:05:34 them wherever, you know, my kitchen
+1:05:36 might be.
+1:05:37 And so then I'm going to send this to
+1:05:40 view.
+1:05:41 Now,
+1:05:42 what I did with this is I I changed the
+1:05:44 name and I stuck a macro in this name.
+1:05:49 And in layout, I have a a label the
+1:05:52 layout box label
+1:05:54 is looking for a couple things. It's
+1:05:56 looking for this space {dash} space and
+1:05:58 it's going to omit anything before
+1:06:02 that space {dash} space and then it's
+1:06:04 looking for room name. And once it sees
+1:06:07 room name, it knows that that's comments
+1:06:10 from um my page information.
+1:06:13 So that I can copy paste these four
+1:06:16 cameras and not rename them. I don't
+1:06:19 care what they're named.
+1:06:21 I don't ever have to type this in. Only
+1:06:23 place I'm typing in is comments. So
+1:06:25 let's just say I've got a kitchen and
+1:06:27 I've got to also do elevations for a
+1:06:29 bathroom up here. And so I'm going to
+1:06:32 drop these four into the bathroom now
+1:06:34 and then send this page to view. Well,
+1:06:37 you notice this automatically changed
+1:06:39 its name cuz it's seeing that it's in a
+1:06:41 bathroom, so it's adding B E in the
+1:06:43 elevations.
+1:06:45 And this
+1:06:46 rows is linked to just one of these
+1:06:49 callouts. So that when that one callout
+1:06:52 is sent to view,
+1:06:54 this center rows picks up whatever the
+1:06:56 page label is of that view, which is my
+1:06:59 page number A3, A4, etc.
+1:07:03 So I'll send this to view.
+1:07:05 We know that the name is some goofy
+1:07:07 name.
+1:07:08 There's the page number.
+1:07:13 Going to tell me what
+1:07:15 What are you warning me on?
+1:07:16 etc.
+1:07:18 And because my page's comments is just
+1:07:22 called kitchen
+1:07:24 I have a macro that knows then this is
+1:07:26 kitchen rear elevations. So, I can send
+1:07:30 four views to this and only name them
+1:07:33 once, which is in my page comments,
+1:07:35 including whatever this is. So, you see
+1:07:37 this says main level kitchen, that says
+1:07:39 kitchen rear elevations. Well, I can
+1:07:41 just say example instead.
+1:07:45 And it's going to change the name. Main
+1:07:48 level example, example rear elevations.
+1:07:51 So, it's just an efficiency thing. I
+1:07:52 don't need to sit there and and name all
+1:07:55 my cameras. Yeah.
+1:07:58 That's a That's something you created in
+1:07:59 your template. Yeah. Okay. Show people
+1:08:03 your website real quick and then we're
+1:08:04 going to call it a day.
+1:08:05 Yeah, so
+1:08:06 um
+1:08:07 new construction plans um
+1:08:10 I mean, when you got to do so many
+1:08:11 elevations for so many different rooms,
+1:08:13 it just saves a ton of time.
+1:08:17 Here's my website, rabbitsign.net, and
+1:08:19 it's not loading very well right now.
+1:08:21 That's fun.
+1:08:24 Something broke.
+1:08:26 Yeah. There you go.
+1:08:31 Cool.
+1:08:37 You got any last comments we got to
+1:08:39 address?
+1:08:41 There are so many more things that we
+1:08:42 could talk about. There are so many
+1:08:44 things.
+1:08:45 Yes, there are.
+1:08:46 doing another show before we go to
+1:08:48 Idaho? No.
+1:08:50 Or not? All right.
+1:08:51 We'll see you there.
+1:08:54 First Friday in September.
+1:08:56 So, we'll be off for 2 weeks here
+1:08:58 because it's a 5-week month.
+1:09:00 Um
+1:09:01 So, we'll see you guys in Idaho if
+1:09:03 you're to be there. Otherwise, we'll see
+1:09:04 you on the next show.
+1:09:05 Uh little FYI for you, we are going to
+1:09:07 start
+1:09:09 not leaving our shows live online all
+1:09:11 the time. We're going to pick out a few
+1:09:12 good parts and we'll leave those up
+1:09:14 there, but then the rest are going to go
+1:09:15 into
+1:09:16 our members area. So, keep that in mind.
+1:09:19 So, if you come back and you don't see
+1:09:20 it, that's what happened. So, we'll try
+1:09:22 to leave a little note there. We'll
+1:09:23 we'll tell you more about it. So, it's
+1:09:24 great that you're here.
+1:09:26 Uh It's great that you're here. Yes.
+1:09:28 And the reason the reason we're doing
+1:09:30 that
+1:09:31 is so that we can spend more time going
+1:09:34 more in depth on things and I mean
+1:09:38 we sell training. That's our business.
+1:09:41 We can't give it away for free all the
+1:09:42 time. As much as we would love to, as
+1:09:45 much as we love doing it,
+1:09:47 um we can't go into super depth um for
+1:09:50 free. It's just
+1:09:53 it's not it's not um
+1:09:56 financially viable to do that.
+1:09:58 Unless one of you guys can find us a
+1:10:00 really good sponsor, then we can do it.
+1:10:03 Um haven't found that haven't found that
+1:10:04 yet. So, anyway, but we do love sharing
+1:10:07 and we'll continue to share and plus you
+1:10:09 get a lot of other stuff in our in our
+1:10:11 members area. So, um check us both up.
+1:10:14 Anyway, everyone have a great rest of
+1:10:17 the week. Maybe we'll see you in Coeur
+1:10:18 d'Alene. If not, we'll see you next
+1:10:19 time. So,
+1:10:20 this is the Designer Show signing off.
+1:10:22 Bye, everyone. Bye.

@@ -1,0 +1,2889 @@
+Title: *LIVE* Updating Library Symbols With Emitters For Chief Architect X16
+URL: https://www.youtube.com/watch?v=SVVeDxBI7gs
+Visibility: members-only
+
+0:00 we're and we are live go live let's go
+0:05 live uh if you're catching
+0:08 this I'm taking
+0:11 advantage
+0:13 of Chief Architects
+0:15 x16 ability to add emitters to symbols
+0:20 now and once you have that established
+0:22 like this range hood right here um then
+0:26 you get the ability in the edit menu to
+0:28 turn off these lights on an off is that
+0:31 cool um just makes working on the Fly
+0:35 really easy so I'm doing I'm updating a
+0:37 bunch of liy items to incorporate this
+0:41 and then on top of that I'm fixing some
+0:43 items
+0:45 um and it can be sometimes the fixes are
+0:49 challenging so that's why I'm going live
+0:51 is because it's information that I
+0:54 wouldn't stop to take note of to note
+0:57 that people would want to know this
+0:58 information um so figured I'd throw it
+1:01 in a live show so that people that are
+1:02 watching or checking it out can check it
+1:04 out so um an example I've got a I've got
+1:08 a um a hood here that's that's set up
+1:12 perfectly it's got a a correct mesh
+1:14 texture here on the UND side it's got
+1:17 emitters um so this works perfectly and
+1:19 it's taking advantage of this new x16
+1:22 function where turn on and off the
+1:24 lights now this one over here is working
+1:26 as well after I applied a light emitter
+1:28 texture thankfully they had a unique
+1:30 texture in the Puck Light section but
+1:33 notice that the UV mapping on the grill
+1:36 is totally wrong and so I'm gonna fix
+1:39 that and I'm going to show you how to
+1:41 fix this
+1:43 um and it might not be something you
+1:45 ever thought of because a lot of people
+1:47 don't really mess around with symbols
+1:48 that much but you know sometimes you
+1:50 need to know this stuff sometimes maybe
+1:53 you never do maybe you buy my library
+1:56 and you never have a care in the
+1:58 world so what I've got here is I got a
+2:00 plan where there's a Terrain here and
+2:03 I'm going to have to delete that terrain
+2:04 but I'm going to take this guy right
+2:07 here this hood and copy paste and bring
+2:11 it into this
+2:13 blank thing that has no rooms
+2:15 established and hopefully paste hold it
+2:18 wasn't letting me do this copy
+2:20 paste paste hold there we go and we'll
+2:23 pull a camera and this is kind of a
+2:26 simple process Chief will REM app UV
+2:32 textures right now the the however the
+2:36 symbol was created it was created in a
+2:38 way where the UV mapping of this screen
+2:42 was blown up it was not a Ono one scale
+2:45 so whoever created this had a little
+2:47 error in their method right and so we
+2:50 could come in here and use the adjust
+2:51 materials tool and just maybe we would
+2:54 get away with turning on global symbol
+2:56 mapping and maybe that would fix it
+2:58 right that does fix it but that's not
+3:00 really a fix that's a crutch in a way
+3:03 because what if I want to use this mesh
+3:04 somewhere else and I don't want to have
+3:05 Global symbol mapping Etc so I'm going
+3:09 to uncheck Global symbol mapping I'm
+3:11 going to let it revert back to what it
+3:12 was and then I have nothing else in this
+3:16 scene and so when you export when you
+3:18 have nothing else in the scene and if I
+3:20 go to an export where we're getting into
+3:24 um exporting like a 3DS
+3:26 file and we truncate the textures Etc
+3:29 I'm just going to export as 3DS and then
+3:32 I want to come back to my library item
+3:35 which is here this is you're not going
+3:38 to see it it's in the sidebar but Chris
+3:40 a that's that's this this guy right here
+3:43 I'm GNA open this up and in the 3D panel
+3:48 I'm going to replace geometry with that
+3:51 export I just created and what we'll see
+3:55 if we turn on our preview into standard
+3:57 mode is it should have REM mapped this
+4:01 texture on the bottom side now you see
+4:03 that there's a problem with this model
+4:05 anyways so there's some things to fix
+4:07 here um maybe I will fix that real quick
+4:10 might as well we're here let spend the
+4:12 time and do it I'll show you how to do
+4:13 that as
+4:14 well we can maybe oh you know what that
+4:18 was part of the problem there was the
+4:20 3DS file itself didn't do a very good
+4:23 job of exporting oh no there it is I can
+4:26 see it what is
+4:28 that this might have to do with symbol
+4:31 smoothing I'm not really sure what we're
+4:32 looking at let me do a line over
+4:35 drawing yeah it's like some face yeah
+4:39 there's a missing missing face
+4:42 here can kind of see it here all right
+4:46 so I'm going to use the face tool now
+4:48 notice that my camera is clipping some
+4:52 stuff what did what did you say Justin
+4:54 sketch Up 3D haris one to one then
+4:56 stretch to fit um well no I I'll get to
+4:59 this in a second um so I'm going to use
+5:01 the face tool to repair this this
+5:04 is kind of a crutch kind of a weird tool
+5:07 to use um it works it works well you
+5:12 have to have some practice with it so
+5:14 I'm doing point to point to points
+5:17 hopefully I'll pick up this point right
+5:20 here which is hard to pick up doesn't
+5:23 want me to get
+5:24 it which means I might need to override
+5:28 with control and just hope I get it
+5:29 close
+5:31 enough and that created an overlap so
+5:33 that didn't work let's try this again
+5:35 we'll start from just point and you
+5:38 click and drag to a second Point click
+5:41 and drag to a third
+5:43 point and this is where it's causing
+5:46 problems it doesn't want to pick up
+5:47 these other two points want's to pick up
+5:49 that one and you click again and there
+5:53 we
+5:54 go so now I filled that
+5:56 in and
+5:59 component sprayer spraying that so let
+6:02 me export this
+6:07 again and then in the library object
+6:10 open the object replace geometry pick
+6:14 that export hopefully that filled in it
+6:17 did fill in but it left a vector line
+6:19 it's too bad that's fine though um and
+6:21 then I want to make sure that the
+6:23 materials are all correct so we'll go to
+6:26 a standard mode get into the materials
+6:28 panel here's an opportunity to really
+6:31 organize some things so lighting white
+6:33 we see here it wants to pick up lighting
+6:36 white but you don't actually want to use
+6:38 lighting white as the material you want
+6:40 to use glass lights from Material
+6:44 defaults this will enable that onoff
+6:46 function by default
+6:49 so make sure you replace that make sure
+6:51 that that happened metal laugh um I'm
+6:56 assuming that's
+6:57 that that's that GP piece so we have to
+7:00 actually find that in the library middle
+7:03 laugh that's this guy great right and so
+7:07 now it fixed its UV mapping it's no
+7:10 longer stretched I actually don't want
+7:11 to use that one I want to use this other
+7:13 one that's like a
+7:15 frame um
+7:17 grill frame Grill I see you Justin I
+7:20 meant that that was the error yeah they
+7:23 they stretch some material is what they
+7:25 did basically um let's go Grill
+7:30 Chief has a pretty good material for
+7:31 this flat Square mesh I think is what
+7:33 it's called bam so that looks good and
+7:37 then here's
+7:39 where um it's it's really helpful if you
+7:44 set your materials to use a default
+7:46 Appliance material what that means is um
+7:51 as you bring in the object if you go
+7:54 into
+7:55 material uh plan materials no excuse me
+7:58 material def defs if you have your
+8:01 Appliance colors set up and if you have
+8:04 all of your symbols set to use whatever
+8:06 the default is as you bring it in and
+8:08 it's an appliance it will use the same
+8:11 material for all of your appliances you
+8:14 bring in which means that you could
+8:15 change your default and change the whole
+8:18 setup so let's let's say you're doing
+8:20 something where all your appliances
+8:21 should be white um or a particular color
+8:24 maybe it's like a blue metallic you
+8:26 could set your default up for appliances
+8:28 as blue metallic and if you're using my
+8:31 stuff in my kitchen tools it should
+8:33 automatically place this blue metallic
+8:35 if because it's following the defaults
+8:37 so I try to go in here and spend the
+8:39 time to do this it's a pain in the butt
+8:42 the other thing you can do is you really
+8:43 want to organize this and understand
+8:46 what each of the geometry is here single
+8:49 click again on the name and then I could
+8:51 say hey this is the logo or
+8:54 emblem that's what that represents in
+8:56 terms of the mesh okay this metal L
+8:59 section this is the grill so this helps
+9:02 me later on understand what this is this
+9:06 is the light
+9:09 source right and then I'm just guessing
+9:12 at what these other items are I'm not
+9:13 really sure um I'm going to go ahead and
+9:16 since it's a kind of a gray material I'm
+9:18 going to go ahead and make this follow
+9:19 that Appliance as well so that turns it
+9:23 to default Appliance let me press okay
+9:25 and then let's check to see if this all
+9:27 got fixed so let's get back back into
+9:30 our main scene place this and look at
+9:33 that and that looks pretty good now
+9:36 notice something when you to see
+9:37 something here is that notice the lights
+9:40 aren't lighting up the
+9:42 scene well that's annoying right here's
+9:45 what's happening you open this
+9:47 up get into the 3D panel invert surface
+9:51 Direction the surface normals on this um
+9:54 is flipped and that's what's happening
+9:57 here or rather they're not flipped but
+9:59 we had the settings for this to be
+10:01 flipped
+10:03 so there we go now it's back to normal
+10:07 and now we have a very nice symbol bam
+10:10 so I just want to make sure that I do
+10:11 that in the source object and the reason
+10:14 I like to edit the source object instead
+10:16 of adding my fixed symbol back to
+10:19 library adding the fixed symbol back to
+10:21 library is really easy that's fast easy
+10:23 right but what you're missing is I have
+10:25 a tag system and a search attribute
+10:27 system and my item are located where
+10:30 they should be located and they might be
+10:32 linked to some kind of toolbar icon all
+10:35 those things are very time consuming to
+10:38 do that's why I prefer to just replace
+10:41 the source items geometry and go through
+10:44 the material section and fix the
+10:45 materials one by one it's a lot easier
+10:48 to spray materials it's a lot easier to
+10:50 just work on an item in a scene and save
+10:52 it to the library but it's all those
+10:54 other things tagging search attributes
+10:57 linking all that other stuff that takes
+10:59 lot more time so I'd rather go about it
+11:01 this way so on the source item I want to
+11:03 make sure I'm inverting that surface
+11:05 Direction I'll test this one more time
+11:07 place it in plan it is in fact creating
+11:09 some light and I get to turn on and off
+11:12 that light from the edit toolbar bam so
+11:15 now that's
+11:17 updated that's pretty much it that's the
+11:19 whole
+11:20 video that's the whole live session so
+11:23 you guys got questions great otherwise
+11:25 I'm just going to be working on this
+11:27 live and if you have questions great
+11:29 great uh one of the things that I
+11:31 updated which I'm very happy with now is
+11:35 have a wall cabinet have a tool where um
+11:38 depending on what you spray it on wall
+11:40 cabinet base cabinet full height cabinet
+11:42 it's the double oven tool so it will
+11:45 apply an oven to this and I did fix it
+11:48 so that that panel is illuminated and
+11:50 when you select the cabinet you can turn
+11:52 off the illumination of that Appliance
+11:55 panel right that's cool and then same
+11:57 thing that double oven when you spray
+11:59 the lower same same exact thing now when
+12:03 you spray an upper I just fixed this now
+12:05 it actually installs a hood insert
+12:08 that's actually built for a 12in cabinet
+12:10 and has an LED bar integrated into it so
+12:14 now that works as
+12:19 well got some big updates to my full
+12:22 library and man of I spent just hours
+12:24 doing
+12:26 this so this guy I'm always looking in
+12:29 these symbols
+12:30 hopefully let's just turn
+12:33 on let's get a really high
+12:39 um exposure so we can see some of stuff
+12:42 turn up the
+12:43 brightness I'm hoping that there is a
+12:45 light source integrated into the
+12:47 geometry of the hood already
+12:50 unfortunately it's not so this isn't an
+12:52 easy fix which is a pain in the butt
+12:55 which means I got to go find a puck
+12:57 light and place it
+12:59 and then get it at the correct height um
+13:03 I'm hoping this works if I select this
+13:05 item and hover over with my
+13:09 mouse and I can't show you this but at
+13:11 the bottom of the screen is a
+13:15 z it's a z-coordinate now it should be
+13:18 that it shows me a face I wish it did
+13:22 um does it show me a fa does it show me
+13:25 a face with the delete surface tool no
+13:28 I'm trying to see if it'll give me an
+13:31 overall Z height coordinate of an item
+13:34 and it will not so I don't know what the
+13:37 Z height of this is but 68 to the bottom
+13:40 of this unit which puts this Puck Light
+13:42 maybe at like 72 or something to
+13:45 start so offset from Flo
+13:50 72 sure it's that's something to start
+13:54 with and then we're guessing it's in the
+13:56 middle of this flat section or it's in
+13:58 the middle of this section probably more
+14:01 likely it's in the middle of this
+14:04 section and how do I do on my guesses oh
+14:07 man that's pretty close it's not bad um
+14:10 this is where that select NE side comes
+14:12 in handy and wait a minute this is an
+14:14 electrical item I believe if we look at
+14:16 the symbol classification of this it's
+14:19 an electrical service specification um
+14:21 it used to be that we did not get the
+14:23 select next side tool on electrical
+14:25 items I forgot they fixed that in x6's
+14:28 official release
+14:29 so you can select but you can't on a
+14:32 scon light
+14:34 interesting so if you change the options
+14:37 to be floor
+14:39 mounted now you can select next side all
+14:42 cool means you can manipulate and move
+14:44 it around
+14:47 nice so this guy probably needs to raise
+14:50 up like a 16th of an
+14:54 inch here we go something like that and
+14:58 then copy paste reflect about object B
+15:02 There we go and now I want that
+15:08 mesh what was I calling it let's just
+15:10 calling
+15:12 Grill bench and shoe
+15:16 storage um I will tell you that
+15:21 I what did I fix I fixed a lot of stuff
+15:25 I'm not sure I fixed a lot of stuff in
+15:28 the Shelf system I fixed all the closet
+15:30 tools and man did that take a long time
+15:34 Chief really screwed me up in x16 on
+15:37 that one um but they all work now so I
+15:40 won't even tell you how long that took
+15:42 me it took me more than that package is
+15:44 worth that's for sure so I probably will
+15:47 not recoup money on that for a long time
+15:50 thanks for thanks for making me think of
+15:52 that
+15:55 Justin okay uh what was I looking for a
+15:57 grill
+15:59 grill material
+16:01 Grill flat Square mesh flat Square mesh
+16:05 so let's see if this is uh mapped
+16:07 separately it's not you know and so what
+16:09 a pain oh but you know what this looks
+16:11 like it's probably got a system where
+16:13 the grill is up above these panels so
+16:15 we're just going to leave it the way it
+16:16 is so here's what I'm doing I got to
+16:19 take this as a group architectural block
+16:21 it copy paste bring it over to that this
+16:26 guy paste hold get rid of this other one
+16:29 get rid of that
+16:30 face hold that camera same
+16:34 thing and Export to
+16:39 hood Bam Bam Bam come
+16:43 back and find this um this's another
+16:47 thing that gripes me about the library
+16:49 project I looked for the mesh I found
+16:51 the mesh I applied the mesh if I clear
+16:53 the filter it does not take me to the
+16:56 same hierarchy I was in before and I can
+16:59 go back a few but it's not going to oh
+17:02 it does take me all right so the back
+17:04 button gets me back to where my source
+17:06 object is and so open the object to
+17:09 replace
+17:12 geometry bam and it should look like it
+17:14 just replaced in
+17:16 place
+17:20 and there seems to be a problem here
+17:23 that looks like the white of this the
+17:25 light of this is a little too high let's
+17:28 pull that out of
+17:29 view sometimes when you do an
+17:31 architectural plug you got no floor
+17:34 anymore this can cause a problem but you
+17:37 know what let's see what's going on
+17:41 here let's try it again Place geometry
+17:46 Hood should
+17:49 be lighting
+17:52 white glass lights okay that worked all
+17:57 right brush Chrome is is shouldn't be
+18:00 Appliance trim because this is not going
+18:02 to show up as Appliance it's going as
+18:05 trim it's going to show up as Appliance
+18:06 so you need to make sure anything that's
+18:08 supposed to
+18:09 be that color
+18:12 oh that was a screw up that was the that
+18:16 was the appliance trim
+18:20 essentially that was that okay so the
+18:23 body is this guy default appliances and
+18:28 that's correct
+18:31 okay and this I should just call
+18:36 Body and this is called features
+18:42 oops
+18:46 um feature bam
+19:00 okay same thing normals are
+19:07 inverted and then finish floor to bottom
+19:10 we're going to lower this down by
+19:11 default to 54 finish to bottom
+19:16 so oops I need to do that in the
+19:23 source yeah 54 to bottom GRE inward
+19:27 surface Direction
+19:31 bam all right so that guy's fixed on to
+19:33 the next one is this
+19:39 fun people wonder why my stuff costs so
+19:42 much
+19:45 money like you you know someone's got to
+19:48 do this
+19:52 work yeah you're wondering what Justin's
+19:55 talking about with
+19:56 my closet system so Chief made it so
+20:00 that Chief made it so that you can have
+20:03 a thickness of a cabinet door up to
+20:06 whatever the size of the source cabinet
+20:08 door is a a simol class of cabinet door
+20:13 and so you could have a 34 inch cabinet
+20:15 door now but if you were to go in and
+20:17 try to respecify the thickness of the
+20:19 door it's limited to 4 in just so you
+20:22 know um my systems were utilizing
+20:26 cabinet doors that had a special offset
+20:29 and that offset created what looked like
+20:32 you know clothing on a hanger Etc well
+20:36 Chief completely redid the way symbols
+20:38 act in x16 which essentially broke that
+20:41 whole
+20:42 system so um if I come in here in my
+20:45 library browser I'll just find this I
+20:47 also changed a lot of my tagging systems
+20:50 to find stuff a lot easier so that's a
+20:52 utility specialty item and it's Falls
+20:55 inside of the um closet systems and
+20:59 actually now I have something called
+21:00 laundry closet so utility specialty item
+21:03 laundry closet maybe I didn't update
+21:06 that tag yet did I no I clearly did not
+21:12 or maybe I call that a
+21:14 painter nope I
+21:17 didn't oh I did okay so
+21:20 painter laundry closet there it is cool
+21:24 so if
+21:25 I for instance place a full heide
+21:29 cabinet here and paint it with one of
+21:32 these
+21:34 systems um this is all been fixed it
+21:37 used to be that this was not fixed it
+21:39 had a problem so now when we using my
+21:43 painter should be working
+21:46 perfectly so oneclick actions to change
+21:49 out to a full system and then if you
+21:51 show that item in a folder you should
+21:53 see a bunch of parts that you have
+21:56 components uh such as shoes
+21:59 where we've got some things are angled
+22:02 shoes so I've got an angled shoes folder
+22:04 and so basically I could come in here in
+22:06 a component painter mode and change out
+22:10 a pair of shoes if I wanted
+22:12 to to gray shoes Isn't that
+22:16 cool making it really easy to build some
+22:19 Dynamic closet systems very fast so yeah
+22:23 I repaired this whole system
+22:31 yep yep yep
+22:34 okay back to my hoods back to the
+22:42 hood and I'm gonna redo that tag system
+22:45 again because I want it to be really
+22:47 simple to find what you want based on
+22:52 tags I had a bunch of stuff in my
+22:54 library that had tags that kind of
+22:57 brought them in with other things that
+23:01 you really weren't thinking of when
+23:03 you're searching this one thing so
+23:05 there's too many overlapping tag systems
+23:08 so now I'm really trying to focus them
+23:10 up and make it easy to find exactly what
+23:12 you want just a couple clicks through a
+23:15 library that's 4,500
+23:21 items all right so back to
+23:24 hoods custom hood y Chris Hood G profile
+23:31 head and I mean Chiefs had to do this
+23:34 same thing oh here's another thing I'm
+23:35 getting in the next update is we just
+23:37 got a new little painter right here is
+23:39 lighting white so hopefully makes that
+23:41 really easy to apply lighting to
+23:45 something so same kind of thing it's
+23:47 just the surface normals is inverted
+23:49 here see it's putting light inside of
+23:51 the Sha there all right so this is a
+23:55 simple fix which is nice so I just need
+23:57 to open the source
+23:59 object invert the surface Direction get
+24:03 into the materials
+24:05 section blind cellular means that's that
+24:08 Grill so this
+24:10 is grill or what you even call this you
+24:13 would call it a grill what is this
+24:20 filter and now I got to go back to every
+24:22 other symbol and name that
+24:24 filter I really try to do that kind of
+24:27 stuff to to make it all conform
+24:33 and L Square mes bam so that just
+24:36 changed that
+24:39 clearly and
+24:41 then one of these is that lighting I
+24:44 think this is the
+24:48 lighting and remember plan
+24:51 materials material defaults glass
+24:55 lights bam
+24:59 and that should be it so when we place
+25:03 this
+25:06 bam although look at what is this what
+25:09 is going on here on the side the light's
+25:12 coming
+25:14 through no idea why but the light is
+25:17 coming through this heavily through the
+25:19 grill up
+25:21 here what a pain
+25:28 why oh I have a puck light right here is
+25:31 that doing
+25:32 it
+25:34 no h
+25:37 okay it's almost like it has a material
+25:41 here we delete surface let's see oh yeah
+25:45 these little things are these little
+25:47 things are um mapped to the same
+25:49 material as this down here so we didn't
+25:51 fix it ah what a
+25:55 pain um gotta rebuild in order for that
+25:57 to show back up and in the delete
+26:00 surface
+26:03 tool I almost just want to get rid of
+26:08 that
+26:10 okay
+26:13 um how do we do that yeah there's no
+26:17 easy way of doing this what a
+26:23 pain
+26:25 okay so let's use this
+26:31 cylinder since they already kind of have
+26:32 a puck set up here and then explode the
+26:35 cylinder delete the other
+26:40 elements um let's put a
+26:45 different Hood in here to apply that
+26:48 material to
+26:51 this okay and then use our lighting
+26:54 white to spray that guy and and move
+26:58 them down 13
+27:01 second bam and then copy paste hopefully
+27:04 it's centered
+27:06 yep take these and actually paint this
+27:09 to
+27:12 there and you can see this texture
+27:14 stretched as well so we're going to fix
+27:16 that
+27:19 too and block
+27:23 them copy paste
+27:51 okay not three
+27:58 look at this it came in this I think
+28:02 this got mapped to the
+28:04 glass because we changed some of the
+28:07 some of the
+28:10 names flat Square mesh is correct
+28:13 lighting white is not correct yeah got
+28:17 some some goofy stuff Happening Here
+28:19 flip
+28:22 that
+28:24 say that's the logo
+28:29 and probably just I don't like these
+28:30 unnamed SketchUp things where it says
+28:33 that unnamed SketchUp thing someone made
+28:34 this in SketchUp there we go just change
+28:37 it to
+28:38 Black and we're going to assume that
+28:40 this is also oh this is that Grill
+28:42 section so this almost needs to be black
+28:44 too
+28:47 grill or
+28:54 vents look better if this was black
+28:59 I think that's the side piece but I
+29:01 guess
+29:14 not
+29:16 okay see how this
+29:20 goes so yeah it remeshed the
+29:26 appliance here we go that looks pretty
+29:30 good
+29:31 cool be looking forward to using some of
+29:34 this
+29:36 stuff the other thing I was thinking
+29:38 about building it here is since we can
+29:41 put an emitter I mean yeah we can draw
+29:44 out can draw out rope lights but
+29:49 wouldn't it be cool if you could
+29:52 just single click something on a cabinet
+29:54 and get a rope light underneath it so
+29:56 here's what I'm thinking let's try this
+29:58 out real quick I'm curious since I got
+30:00 you since I have your
+30:01 attention so what if we did a let's find
+30:04 a light
+30:06 rail profile molden profile Light
+30:09 Rail
+30:11 and like here's a common
+30:14 one and ha that we lost our 3D trim tool
+30:19 they need to give a Pack patch fix for
+30:22 this that's really
+30:24 annoying um so I'll just do my trick
+30:27 here
+30:28 convert a solid to a 3D Mo
+30:31 po it's
+30:34 annoying and make sure it's one inch
+30:38 there we
+30:39 go and we'll
+30:42 just there we go okay so now let me get
+30:46 my common light
+30:50 rail do kind of a modern one I guess and
+30:54 hover over
+30:56 replace and then the and I only want
+30:59 this to be 12
+31:01 in
+31:04 so snap it back to itself and then
+31:07 subtract 12 so it should make it yep
+31:10 there's a 12 inch Light Rail okay and
+31:13 we're drawing it this is plan North so I
+31:16 think that's correct I might be wrong um
+31:20 then I'm going to draw a face click drag
+31:24 snap click and
+31:28 last one is Click should be twice only
+31:32 now it's not picking up a
+31:35 snap I did something stupid here why
+31:39 let's try this
+31:41 again click drag click drag click drag
+31:46 double click all right so we got a face
+31:49 this is a stupid glitch in Chief you
+31:51 need to set your reference to Absolute
+31:53 and solids for this to show up correct
+31:55 see how it jumped isn't that dumb
+31:59 so you need to set your solid defaults
+32:02 to Absolute in order for the face not to
+32:05 jump like that it's really stupid
+32:07 anyways um it's a glitch they know about
+32:10 it they're not doing anything about
+32:15 it so I do that face there it is so now
+32:19 I got the face let's move this face like
+32:22 one
+32:24 smidge in the positive y should give us
+32:27 one
+32:30 128
+32:32 oops
+32:37 Yeah one
+32:40 128 there now you select these
+32:44 two convert them to a
+32:48 molding all right add to library this is
+32:51 a light rail with
+32:56 light do I need to show Advanced options
+32:59 I don't think
+33:01 so all right so I did it wrong it's the
+33:03 wrong orientation for some reason
+33:06 Everything Chief wants to do why out is
+33:10 that they want plan North to be the
+33:12 backside of the object except for
+33:15 moldings don't ask me why I don't know I
+33:20 got a big note thing I'm taking the to
+33:22 Idaho this this year
+33:26 um symbol
+33:29 modations and
+33:33 Creations all symbols should be oriented
+33:39 the same holding is
+33:43 oriented 90
+33:47 degrees stupid stupid stupid okay so I
+33:51 think I have to rotate this whole thing
+33:53 90 degrees which easier said than
+33:56 done it's not going to let me rotate the
+33:59 face or is
+34:01 it did just not together funny okay
+34:06 whatever uh convert to symbol
+34:09 molding let's just say okay and see what
+34:12 happens so here's what I'm seeing in the
+34:14 sidebar is this this is what it's
+34:17 showing as a preview whereas it should
+34:19 be connecting to itself so even though I
+34:21 rotated it that didn't change
+34:24 anything try this again then or maybe I
+34:29 can open this up and rotate it
+34:35 90 look that doesn't do it okay so that
+34:39 did it but
+34:42 it it doesn't change the sizing for some
+34:45 reason man this is dumb so this should
+34:48 be one and this should be 12
+34:52 no this should be 12 this should be one
+34:55 no stupid
+34:59 why does it do
+35:06 this G try this
+35:12 again you have to Marquee select the
+35:15 face to rotate it that makes
+35:18 sense and
+35:20 then try this again preview still shows
+35:24 up as this it's rotated incorrectly
+35:28 it's not butting to
+35:35 itself what's the solution I don't
+35:38 know we tried both orientations now
+35:58 okay so this gives us a different way of
+36:00 rotating there we go so you have to
+36:02 rotate it with Advanced options you
+36:04 can't do it after the fact ridiculous
+36:06 but whatever
+36:09 um so I think that's correct
+36:13 now so
+36:16 now if we put a cabinet base cabinet and
+36:21 we want an applied molding with light
+36:24 rail
+36:42 wrong
+36:44 one that's okay we'll pick it from the
+36:46 library and replace
+36:48 it but that's the one that looks like
+36:50 it's stacked corre correctly how
+36:53 ridiculous
+36:55 um hover and replace isn't working
+36:58 I don't know why oh it did it just
+37:00 didn't give us the icon for
+37:07 it what on Earth this is just
+37:10 unpredictable Behavior completely like
+37:13 how do
+37:14 you I don't know how you do anything
+37:16 with this
+37:28 yeah 3D moldings are just a
+37:32 pain Light
+37:34 Rail didn't change
+37:37 anything like what is that
+37:39 doing it's bizarre it shows
+37:42 appropriately here this is correct
+37:45 that's exactly what I was trying to make
+38:07 okay hold on we're getting we're close
+38:10 repeat distance is
+38:12 12 offset is height of the whatever the
+38:15 molding is negative
+38:19 one or no put it to
+38:22 top oh not the top never mind negative
+38:26 one
+38:28 all
+38:29 right now we're here now we're there
+38:33 look ad diging fact created an emitter
+38:36 on the back side even though we got some
+38:39 Z fighting with it does it light up the
+38:41 underside of the
+38:43 cabinet not
+38:45 really not the way that you'd
+38:50 hope and is that because the the surface
+38:54 normal is wrong
+38:57 can we open it and invert it we can okay
+39:01 let's try
+39:04 this I don't know why the click to
+39:06 replace isn't
+39:09 working uh see click to replace
+39:13 molding mouse cursor not
+39:19 working okay now we have to revert this
+39:22 size
+39:24 again that's just wild send the I wish
+39:28 they would watch videos they don't watch
+39:30 videos so I can't just send this into
+39:33 them and go hey this is clearly
+39:39 wrong repeat distance
+39:43 12 and really my light rail should
+39:47 be TI's 916
+39:55 so6 there we go so
+39:58 okay no um I want vertical offsets
+40:02 9/16 and I want a negtive 916 and I want
+40:07 or negative one whatever the width of
+40:09 the profile is but I want to offset
+40:13 molding for face item yeah there we go
+40:15 so now let's look at it you know it's
+40:17 going to show that Vector line where the
+40:19 molding splits but what's cool is now
+40:22 you have a way to automatically add
+40:25 lighting to the underside of a cabinet
+40:26 like if we duplicate this over 24
+40:32 in did that just invert the normals
+40:35 again it did
+40:37 what come on
+40:54 Chief why why
+40:59 why do you do that why does it invert
+41:03 the normal on the symbol why that makes
+41:06 no sense Chief none it makes no
+41:13 sense
+41:17 okay uh normals flip when
+41:22 joining cabinets that have moldings I
+41:26 have to just send them a snippet of this
+41:28 recording I
+41:35 guess
+41:37 okay all right let's try this again so
+41:40 we're not going to have a cabinet by
+41:41 itself where it needs a cabinet light
+41:43 Underneath more often than not I mean we
+41:46 could make two symbols yeah sure
+41:48 duplicate a symbol flip the other
+41:51 one invert surface Direction on this one
+41:55 I don't think you can t you can't tab
+41:57 through and modify a symbol that's on a
+42:00 cabinet so that's too
+42:08 bad yeah this is not working this click
+42:10 to replace is not functioning or if it
+42:13 is it just doesn't care that the normals
+42:15 are
+42:17 flipped no it's not
+42:20 functioning flipped I'm just going to
+42:22 name this so it's
+42:24 clear okay that's doesn't seem to be
+42:27 doing
+42:28 anything
+42:32 okay funny
+42:35 man funny all right here's the flipped
+42:38 one we have to go fix the size on it
+42:42 again one
+42:46 inch it clears the it cleared the
+42:49 horizontal offset for some
+42:52 reason including the face offset and a
+42:56 repat
+43:04 distance it's unpredictable
+43:06 unpredictable Behavior you can't figure
+43:08 out how this is working it might just be
+43:11 that because I've got some Z fighting in
+43:13 the source symbol that that's what's
+43:15 going
+43:16 on um I'm not sure so let's move this a
+43:20 split hair X
+43:23 One let's just move it a 16th
+43:30 convert the symbol to a molding show
+43:34 Advance rotate it bam
+43:41 okay I might have needed to reverse this
+43:45 this this actually this face needs to be
+43:47 reversed it
+43:50 seems maybe that's half the problem
+43:58 there we go so let's try this again one
+44:00 more time
+44:03 oops it's a cute concept if it
+44:08 works
+44:14 okay I have I have faith in this one
+44:16 this is going to be the one that
+44:21 works Bam
+44:25 Bam so that's that's the one that's the
+44:28 one that's going to produce results
+44:30 we're going to get there we're going to
+44:32 get there see this replace worked that's
+44:35 weird so
+44:46 strange I wonder why it's seeing the
+44:49 width as
+44:51 12 and can we trick it into being
+44:55 correct
+45:05 maybe we can get around this
+45:10 problem man you get stuck in the weed so
+45:13 easy yeah fixed in X17 you're right
+45:30 we have to rotate it we have to but and
+45:34 there's the width designation let me
+45:37 press
+45:40 okay have to rotate it for it in order
+45:43 for it to but but now what if we just
+45:47 change if we just change the symbol
+45:50 Dimensions since we
+45:52 know what width is is getting replaced
+45:56 with height
+45:58 now width is width
+46:01 is repeat
+46:04 distance so width height depth depth is
+46:08 what we don't get from this
+46:14 so so let's say depth is
+46:20 12 width is
+46:23 one see what happens
+46:38 whatever
+46:40 okay whatever
+46:47 man and chief we got to fix this
+46:59 I'm curious to test that again if these
+47:01 numbers were changed
+47:04 first I don't
+47:08 know let just call this repeat distance
+47:11 24 it's no big deal whatever yeah it's
+47:15 wider than the cabinet now well there we
+47:17 go all right so we
+47:20 have undercounted
+47:24 lighting so if you save this as a as a
+47:27 template thing where it adds
+47:29 moldings you could add that so like if
+47:31 we did a new style palette create new
+47:35 and Light Rail with light and you'd have
+47:40 to take all moldings that were there so
+47:42 unfortunately it's going to overwrite
+47:44 whatever crown molding you might have
+47:45 had let's clear all let's set
+47:51 molding moldings molding materials too
+47:56 yeah I think so and so now if I
+48:00 have wall cabinet over here and I use
+48:03 the light rail with light
+48:06 tool there you
+48:10 go and let's just call these 24 here's a
+48:14 trick you can always do evenly
+48:15 distributed five and then drag out five
+48:18 copies and do five *
+48:22 24 be a way you could do
+48:25 that um and there we go there's that
+48:28 inverted problem again does it just
+48:31 invert at
+48:35 random yeah so this doesn't work never
+48:38 going to work flip normals issue is too
+48:41 big of an issue what a
+48:55 pain also waste the
+48:57 time just show them the error in their
+49:10 ways yeah and the replace molding tool
+49:13 just
+49:15 is um works
+49:18 sometimes maybe oh painted in the room
+49:21 there we go how about that no object
+49:24 object mode no
+49:28 yeah
+49:31 bizarre I'd like to submit this video as
+49:36 evidence you guys need me on
+49:40 your QC team All Right Moving
+49:44 On Moving
+49:48 on it's great uh in
+49:52 theory I think I need a new plan I think
+49:55 entitle to is
+49:57 got bad
+50:07 juju all right where did I leave
+50:12 off fixed all my under cabinet
+50:15 hoods fixed the GE Profile 30 I did not
+50:19 fix the GE Profile 36 what's the
+50:22 difference can we just stretch them and
+50:23 get away with it
+50:28 probably not they're definitely
+50:30 different dimensions that's
+50:33 unfortunate I don't feel like doing the
+50:35 work to do this um maybe I
+50:40 won't what was wrong with this oh the
+50:42 grill on the side that Grill on the side
+50:46 the one that I fixed on this one even
+50:48 though that doesn't look like it's fixed
+50:50 at all what happens when we paint this
+50:53 black right onto this
+50:57 no
+50:58 weird can't seem to touch those little
+51:01 side piece
+51:04 dealios yeah that's what we want to
+51:06 paint all
+51:14 right so back to the drawing
+51:24 board be cool if we could snap to the
+51:26 vectors on this thing I think you could
+51:28 if we just in 3D turned our surface
+51:32 smoothing to like
+51:34 two and
+51:37 then maybe you could snap your
+51:41 cylinder right to the center of this
+51:43 thing or maybe
+51:45 not there it
+51:52 goes so there's that let's drop it a 30
+51:56 second
+52:00 bam lighting white
+52:04 thing uh looks like it's split
+52:07 somehow drop this another 30
+52:13 second maybe we'll use the delete
+52:14 surface tool to delete that I think that
+52:17 makes a lot of sense and
+52:22 then and that Grill texture that I like
+52:24 so much
+52:28 bam select our faces and this guy
+52:32 architectural block copy
+52:35 paste delete this past hold
+52:40 bam look that's not coming through
+52:42 anymore that was weird but let's just
+52:46 doe diligence bam delete delete I don't
+52:49 need anything here
+52:59 and
+53:05 then
+53:10 Okay g profile 36 open
+53:18 object um yeah you guys got any
+53:20 questions let me know want to see see
+53:24 some trickery
+53:27 let me know
+54:02 fish for bottom is 68 that seems so
+54:07 high maybe
+54:12 not why we even do it from Finish floor
+54:14 should just do it from ceiling why not
+54:17 let people adjust
+54:19 it kind of like that thought maybe maybe
+54:22 do I like that thought do I like that
+54:25 thought
+54:27 it's funny I put from ceiling but it
+54:28 didn't go from
+54:34 ceiling
+54:40 there see if I need to invert the
+54:45 normals why does it look like it's needs
+54:48 a partial
+54:49 invert don't do that to me oh
+54:54 no oh my
+54:57 God come on
+55:01 Chief how
+55:04 what how is one flipped I don't
+55:09 understand I can't do anything about
+55:12 that you're
+55:15 annoying tell you what you are annoying
+55:39 I'm surprised the internal team doesn't
+55:40 run into all these problems and just
+55:43 flip
+55:45 out like when they're making
+55:52 stuff man
+55:56 yeah have to do all this
+56:02 again okay that part retained
+56:08 itself I mean they have internal tools
+56:10 but they have to be running into the
+56:11 same
+56:15 issue you know like they have
+56:18 to well that's not necessarily true
+56:21 they're modeling mostly in 3ds Max so
+56:25 they're not using chief to do repairs
+56:27 they're doing it in 3ds Max so that's
+56:30 there's a point to that this is crazy
+56:32 though like I just copy pasted and it
+56:36 reflected the reflect is what flipped it
+56:38 so what if
+56:40 I what if I reflected about
+56:46 itself which it doesn't even want to let
+56:48 me do it's a
+56:52 reference
+56:54 so we draw some kind of
+56:57 inference snap
+56:59 okay and then take
+57:02 face and
+57:05 reflect so that was another
+57:09 reflect
+57:12 enter
+57:14 okay try it one more time just do it
+57:18 this let's just do it with the Syle here
+57:25 first he there we
+57:27 go all right so reflect object tool got
+57:30 to be careful because it'll flip that
+57:32 normal upside
+57:46 down been smart of me to rename this in
+57:49 the previous thing but
+57:52 whatever okay this should be working
+57:58 yes thank
+58:03 goodness
+58:05 next oh this one's fun it's just L
+58:09 out not placing
+58:13 correctly what the wait a minute so this
+58:18 shows correctly but you try to place it
+58:21 in
+58:21 plan oh it needs its a I Wish by default
+58:26 they had 2D symbol set to
+58:32 always there we
+58:43 go got to make some more lights wait
+58:47 whoever creates these I don't know why
+58:48 they don't just do like two steps of
+58:52 extra
+58:53 work it's all it would have taken when
+58:56 they were making this be a lot
+58:59 easier you
+59:02 know doing service to everybody
+59:10 else
+59:19 oh you don't let me paint this no not
+59:22 going to nope you're not
+59:39 fine okay so now we know copy paste
+59:42 reflect about and then reflect about
+59:47 again and hopefully you see a in it's
+59:51 probably easier to do this in
+59:58 yeah easier to do this in plan
+1:00:05 maybe so that one's flipped and this
+1:00:07 one's
+1:00:14 not not gonna let me won't let me do it
+1:00:17 in this view oh okay
+1:00:22 fine fun
+1:00:37 okay thank
+1:00:54 you
+1:01:24 for for
+1:02:14 okay
+1:02:30 I don't know which one I'm on I'm on
+1:02:32 this
+1:02:33 one
+1:02:35 yeah
+1:02:37 so this is called hottie
+1:02:40 36 hodie
+1:02:42 H I don't know that
+1:02:50 brand materials all
+1:02:53 correct no
+1:03:05 that
+1:03:07 planet scrimish
+1:03:37 invert normals
+1:04:09 we only need a couple bounces
+1:04:35 okay getting there not that many
+1:04:43 left if you're coming in to hang out
+1:04:45 chill out whatever you working in Chief
+1:04:48 you got some weird question you want
+1:04:50 need to go through we can talk about
+1:04:53 anything anything you want down
+1:05:00 because in the meantime I have to do all
+1:05:02 this boring stuff
+1:05:48 I think I figured out what this
+1:05:50 glitches
+1:05:52 so oh no that's not a glitch all right
+1:05:55 that worked that
+1:05:58 time okay
+1:06:33 check
+1:06:57 this
+1:07:02 for
+1:07:14 sure it's working perfectly yes that was
+1:07:18 the fastest one yet
+1:07:54 f
+1:08:17 there's some other things we put
+1:08:18 emitters on
+1:08:27 it's definitely nice having it on some
+1:08:29 of the like Appliance
+1:08:33 controls we've made it clear that we
+1:08:35 can't do any kind of predictable
+1:08:37 moldings that's too bad wonder if
+1:08:40 there's another way I could think of to
+1:08:45 do a click to
+1:08:51 replace and a cabinet molding really
+1:08:54 would have been the best way of doing
+1:08:55 that light reel would have been is the
+1:08:57 best way to do
+1:08:59 that okay I have another
+1:09:01 way let's try this
+1:09:07 out let's try this out let's try this
+1:09:10 out what are we going to do okay so we
+1:09:12 have a cabinet yeah this should work
+1:09:16 predictably predict predictably
+1:09:21 well Light Rail we're going to turn put
+1:09:23 a light rail on here
+1:09:30 and not use the one that I
+1:09:34 generated okay here's a regular light r
+1:09:37 that goes on now let's throw on a
+1:09:41 bmo1
+1:09:45 one and let's check out our preview
+1:09:48 we'll take these two we designate as
+1:09:52 Light Rail bam yes that's correct and
+1:09:57 then um we want the bmo1 to
+1:10:02 be well heck let's leave it 1/8 but
+1:10:05 we're only going to make it 116th
+1:10:09 tall
+1:10:10 okay and what do we want we want we need
+1:10:14 the offset for that light
+1:10:22 rail1 offset for face item
+1:10:28 and
+1:10:31 916 just take a look at that y that's
+1:10:35 correct okay and then the bmo1 we want
+1:10:39 the offset to
+1:10:41 be
+1:10:44 negative one and
+1:10:47 58 Y and
+1:10:50 negative uh 16th
+1:10:58 okay that's
+1:11:01 correct
+1:11:06 now Light Rail actually needs the
+1:11:09 profile before the champer this should
+1:11:11 actually
+1:11:13 be
+1:11:17 one5 it's
+1:11:19 close be nice if we knew exactly what
+1:11:22 the chamfer was oh that's a be
+1:11:31 oops there we go now the champer is
+1:11:33 right on the edge Bam Bam Bam Bam and
+1:11:37 there's our light rail yeah I don't know
+1:11:40 why I didn't think of this this is way
+1:11:41 easier because then you could just take
+1:11:43 these and make them
+1:11:44 stack and then in
+1:11:48 materials under stacked molding bmo1
+1:11:52 just gets changed to your glass lights
+1:11:56 haha
+1:11:59 haha
+1:12:07 and Bam now let's try this whole stack
+1:12:16 thing that's five times 24 I don't want
+1:12:18 to think about
+1:12:20 that whatever that is that works easy so
+1:12:24 easy
+1:12:27 so so
+1:12:28 easy and because it's a stacked molding
+1:12:31 we can add to library as stacked
+1:12:34 molding perfect and let's name it light
+1:12:37 rail with
+1:12:39 light haha
+1:12:48 huzzah should really delete all these
+1:12:50 other attempts first
+1:12:56 yep don't show me that
+1:12:59 again yeah if you got nothing else now
+1:13:01 you know how to do that one that one's
+1:13:03 easy now cool light rail with light
+1:13:07 that's the molding oh look and the click
+1:13:09 and replace is working for some reason
+1:13:12 it's clearly not working on a 3D molding
+1:13:15 that's what's going on all right and
+1:13:17 then add to existing Light
+1:13:21 Rail style pallet
+1:13:25 I didn't
+1:13:27 make what did I just not name it add to
+1:13:31 existing your
+1:13:34 catalog I must have deleted it oh I just
+1:13:37 deleted it dummy create
+1:13:44 new tool painter
+1:13:52 painter be great if you could just
+1:13:54 specify lower upper moldings Etc that'd
+1:13:57 be way
+1:14:01 nicer be more of a dynamic
+1:14:04 tool so say we have a cabinet there
+1:14:08 Light Rail painter click paint bam on
+1:14:12 your counter ler oh that's so cool
+1:14:15 that's so much
+1:14:17 better so let's go through the whole
+1:14:19 process
+1:14:20 here got a new plan we are designing a
+1:14:24 kitchen
+1:14:27 got our kitchen blah blah blah this goes
+1:14:30 33 this goes 24 we got a 33 we got a
+1:14:37 back
+1:14:38 facing shelf Library thing we got this
+1:14:42 can be reflected about diagonal drag
+1:14:45 this to inches for a little
+1:14:47 filler and then duplicate to two copies
+1:14:52 drag out to 48
+1:14:56 and now we have a filler see how fast I
+1:14:59 could draw
+1:15:01 it that's a double-sided filler so
+1:15:04 uncheck filler should have an uncheck
+1:15:07 filler
+1:15:08 thing and so now we have oh these are
+1:15:11 all
+1:15:14 backwards back overhang
+1:15:18 [Music]
+1:15:19 Marquee Marquee draw wrong
+1:15:23 way to of
+1:15:26 that side Bas back
+1:15:31 yeah back
+1:15:35 overhang what do we have here that and a
+1:15:38 12
+1:15:44 oops love testing this stuff just to see
+1:15:47 if it's working right then this to
+1:15:52 there and
+1:16:00 fridge
+1:16:03 spray to there yep yep yep and then this
+1:16:08 is front
+1:16:09 [Music]
+1:16:19 overhang garbage garbage triple dra
+1:16:23 triple dra triple CH triple triple
+1:16:30 four cabinet
+1:16:33 cabinet
+1:16:35 cabinet
+1:16:37 cabinet cabinet one more time and
+1:16:42 then utility or painter maybe painter
+1:16:47 painter
+1:16:48 cabinet I want shelf I have a shelf
+1:16:52 countertop shelf aha at work
+1:16:55 great search
+1:16:59 cool okay and now now is the trick can I
+1:17:04 use
+1:17:09 my light
+1:17:14 thing this
+1:17:19 one's can I do a double up so class
+1:17:31 glass can I now use my light rail
+1:17:36 painter Marquee
+1:17:39 select Bam
+1:17:42 Bam
+1:17:44 Bam
+1:17:46 Bam Bam and do I have lights this would
+1:17:49 be so cool it's the
+1:17:52 fastest kitchen drawn
+1:17:59 ever isn't that
+1:18:04 wild flush
+1:18:08 toe full height
+1:18:10 [Music]
+1:18:17 door so cool let's even add let's go ham
+1:18:21 on it I want to see if my panel tool
+1:18:23 works
+1:18:25 like
+1:18:31 this and what do I have that can make
+1:18:33 this a
+1:18:35 single panel
+1:18:37 ready think this custom Cabinet
+1:18:41 generator doesn't seem to
+1:18:48 work no it doesn't work a panel
+1:18:50 generator
+1:18:59 this
+1:19:01 one is that a panel yeah but it's a slab
+1:19:04 panel that's
+1:19:08 dumb and we want
+1:19:17 Noto what was this oh this just makes a
+1:19:20 blank no side panel applied default is
+1:19:23 slap okay I have my side panels set to
+1:19:26 slabs by default so you could just take
+1:19:30 a
+1:19:34 gador object
+1:19:36 repes you have a full side panel
+1:19:41 cool that was one fast
+1:19:45 kitchen
+1:19:51 right you got a window here
+1:19:56 centered
+1:19:59 on
+1:20:06 sync let's even see if my painters work
+1:20:09 so style pallets cabinet style pallets
+1:20:13 didn't show up the way I wanted kitchen
+1:20:16 kitchen style pallets that shows up the
+1:20:18 way I
+1:20:19 wanted
+1:20:21 okay so we should be able to just paint
+1:20:27 like this
+1:20:36 in
+1:20:39 just such a fast kitchen right there
+1:20:41 that's wild cool and let me put one of
+1:20:45 my new hoods
+1:20:48 in that has light
+1:21:03 and I love practicing sometimes every
+1:21:06 once in a while it's very nice to just
+1:21:08 practice so let's do a little copy paste
+1:21:12 sticky
+1:21:13 mode and just
+1:21:28 and all I had to do is make sure that
+1:21:30 these and I have that
+1:21:35 one let there be light
+1:21:54 yeah that's wild fast
+1:22:05 cool oh but we lost
+1:22:07 our cabinet
+1:22:10 lights with the style palette oh because
+1:22:12 it replaced moldings that's why that's
+1:22:15 the only thing that's bad about it it's
+1:22:16 going to replace those top moldings no
+1:22:18 matter what
+1:22:26 that's too
+1:22:27 bad I guess I mean it is easy enough to
+1:22:29 come in here and grab
+1:22:31 these and just open and add it's easy to
+1:22:36 add that stacked
+1:22:45 molding and set to Light Rail and but
+1:22:49 you have to do the horizontal offset
+1:22:54 or what was
+1:22:56 it3 it's too bad you can't keep the
+1:22:58 offset
+1:23:02 stored and now it's making me do more of
+1:23:05 an offset
+1:23:08 because oh and I need that molding to
+1:23:11 default to whatever the default cabinet
+1:23:15 is oh but I would have to default the
+1:23:17 cabinet first is what's happening
+1:23:22 there and then those lights are not
+1:23:25 turning
+1:23:28 on oh I've got some kind of oh I need to
+1:23:32 Vertical
+1:23:35 offset by I guess the whole
+1:23:39 shebang
+1:23:42 oops the whole thing to
+1:23:45 be
+1:23:48 one no the stack part of this makes this
+1:23:51 complicated
+1:24:00 CU look the light is Z fighting oh
+1:24:03 because yeah so this should be negative
+1:24:06 one negative one takes it way too far
+1:24:09 down why is
+1:24:14 that
+1:24:17 96
+1:24:19 there so that should be lit up now and
+1:24:24 it's
+1:24:26 not why oh because
+1:24:30 it cuz material's wrong man what a
+1:24:36 pain it wants to apply both even though
+1:24:39 I'm in the component painter mode all
+1:24:41 right gee man you got so many things to
+1:24:43 fix dude this just does not work
+1:24:52 oops that's just that's
+1:25:03 dumb a style pette that's a wall style
+1:25:07 pallette but it
+1:25:08 doesn't work in a room
+1:25:11 mode unless you paint the room gotcha
+1:25:15 all right so now that works but I have
+1:25:16 to replace all my moldings
+1:25:18 again I guess that's not the end of the
+1:25:21 world do that
+1:25:24 okay things to think
+1:25:28 about byebye Kitchen 10 minute
+1:25:34 kitchen I like this this worked out it's
+1:25:37 not perfect but think make it work
+1:26:10 all right back in the
+1:26:15 hoods yeah you know I mean what a
+1:26:20 difference it would make just customer
+1:26:22 satisfaction level if you fix a bunch of
+1:26:24 these little nagging little issues right
+1:26:27 like we would be so happy' be so
+1:26:32 happy and I so I have like something on
+1:26:35 Chief talk you probably saw it David
+1:26:36 where I'm just listing off things that I
+1:26:39 think from a developer standpoint are
+1:26:42 easy
+1:26:43 quick quick fixes I don't know anything
+1:26:47 about that but I think that they would
+1:26:49 be quick fixes and if they did those
+1:26:52 just a few of those things man we would
+1:26:54 just have such a great user experience
+1:26:57 pretty
+1:27:00 quickly I thought I already fixed the
+1:27:02 Gen
+1:27:03 air gen air is right
+1:27:09 there why is this showing back up there
+1:27:11 no lights on it I just did this thing or
+1:27:14 I must have not permanently fixed
+1:27:18 it Jer oh this is another gener a oh man
+1:27:21 I got 42 in 30 in no I'm not dealing
+1:27:25 with
+1:27:27 these should I I fix them I don't want
+1:27:31 to it's another generator oh yeah
+1:27:33 they're pretty quick fine
+1:28:14 should just fix this before I bring it
+1:28:15 in here let's do this
+1:28:38 you know yeah I get that David
+1:28:46 um I get that
+1:28:51 but I do feel like they they do care
+1:28:54 about customers I feel like they've got
+1:28:56 millions of things to fix really do also
+1:28:59 don't think that I mean people will just
+1:29:03 they're going to report problems Etc but
+1:29:05 I don't see anyone creating a list of
+1:29:07 things that like hey we could tackle
+1:29:09 this in this version and it would be
+1:29:11 impactful it would make a difference
+1:29:13 like you because eventually if you just
+1:29:15 get everybody screaming from the Raptors
+1:29:17 like hey Chief Architect is the only
+1:29:19 software you should ever be buying yeah
+1:29:21 that would make a difference
+1:29:24 be curious to see if once they've got
+1:29:25 Cloud management that they will actually
+1:29:27 try to to combat in the large
+1:29:31 residential space of of taking off some
+1:29:33 of revit's customer
+1:29:39 base yeah so I get the new I get part of
+1:29:42 the
+1:29:43 new like if they optimize the software
+1:29:47 though I don't know I feel like that
+1:29:49 makes a big difference like if you can
+1:29:51 suddenly say that
+1:29:59 yeah how do you Market that there's got
+1:30:00 to be a way there's got to be a way to
+1:30:01 Market it where it makes sense for
+1:30:21 them AI to squish the bugs I don't know
+1:30:24 that AI help have you tried doing
+1:30:26 AI I've got so many hours in Ai and man
+1:30:30 it's
+1:30:32 like it's talk it's like working with a
+1:30:35 coder that has
+1:30:38 Amnesia that's my best um analogy I
+1:30:42 could give
+1:30:45 you you know chat gpg try to come back
+1:30:48 and say that they had memory that was
+1:30:50 totally false or they just didn't get
+1:30:51 the memo of what we're talking about
+1:30:53 when we say need memory I don't need you
+1:30:55 to memorize an instruction set to put
+1:30:58 into um the instruction set to be
+1:31:02 interpreted just so that it's
+1:31:03 interpreted wrong I need you to remember
+1:31:05 the last 10 things you coded for me and
+1:31:08 learn from those mistakes and realize it
+1:31:11 I just um I was going through and I was
+1:31:17 um trying to do a little update to my
+1:31:20 macro system and my macro system is
+1:31:22 really complex
+1:31:24 and and then I found that in the update
+1:31:28 that the last time that I had updated
+1:31:30 it the AI which I used to code it the
+1:31:34 last time changed part of the code that
+1:31:37 it was not supposed to
+1:31:38 touch and made it useless and I spent
+1:31:42 three hours troubleshooting just trying
+1:31:44 to figure out what it was and I mean it
+1:31:45 was just it was because it changed part
+1:31:48 of a code wasn't supposed to touch and I
+1:31:49 didn't even think that it that it had
+1:31:52 been touched like man
+1:31:54 what a
+1:31:56 pain like it won't just focus at a task
+1:31:58 at hand when you're like I just need you
+1:32:00 to fix this just tell me how to fix this
+1:32:07 part all right let's see flat Square
+1:32:10 mesh flat Square
+1:32:13 mesh
+1:32:16 be that's the wrong
+1:32:18 mesh isn't it no it's not
+1:32:21 okay the rest of this is
+1:32:25 is don't
+1:32:37 know bam
+1:32:41 cool oh we have so so few left so
+1:32:46 few excited to get through these grabs
+1:32:51 adjustable Hood as molding oh this is
+1:32:53 cool this was one you can edit yourself
+1:32:56 and then you got to put a hood insert in
+1:32:58 there so now we're not going to do
+1:32:59 anything with
+1:33:03 that I mean I use it to do some really
+1:33:05 complex codes um and it does a great job
+1:33:08 but I need to be able to troubles shoot
+1:33:10 it every time it's
+1:33:11 not it's not um as intuitive as you
+1:33:15 would hope oh man this is a symbol I
+1:33:18 don't want to touch it's just it's not a
+1:33:20 it's not a good Hood insert that's
+1:33:23 that's the shame this particular item
+1:33:26 all right I guess I'll build a new one
+1:33:28 why not why
+1:33:32 not whyne
+1:33:34 not
+1:33:37 inserts there's some new inserts that
+1:33:39 are pretty good from one of the catalogs
+1:33:44 um I don't want to use one of these 311
+1:33:47 ones though that's just
+1:33:48 tiny so
+1:33:57 I
+1:33:59 want this guy that's the right size so
+1:34:03 he should have some
+1:34:05 lighting I think that this is
+1:34:08 already got
+1:34:10 lighting yep it does
+1:34:12 cool yeah Chief needed to take it just
+1:34:15 one step extra to make this and nice H
+1:34:19 insert they missed the detail oops um I
+1:34:23 wish wish you could take an object and
+1:34:24 automatically generate a solid that's
+1:34:26 the same size as an object wouldn't that
+1:34:29 be great because it would save me time
+1:34:31 from doing this right
+1:34:40 here and then bump that to the ceiling
+1:34:43 and then take this and concentrically
+1:34:49 resize what we're going to drag it out
+1:34:52 this way and say it's going to be four
+1:34:54 and a half or something
+1:34:57 sure right right and then drag this back
+1:35:02 in make a little break make a little bre
+1:35:08 break drag that out like
+1:35:12 so
+1:35:14 bam r stucko
+1:35:24 yeah that's exactly what they do they
+1:35:26 use 3ds Max um I don't know what their
+1:35:29 workflow is for keeping the poly
+1:35:32 countdown they must have some custom
+1:35:35 stuff for that
+1:35:39 part look at these these looks are nice
+1:35:43 and let's
+1:35:45 just do a
+1:35:47 little
+1:35:51 fillet I think why isn't letting me do
+1:35:54 this Edge fill it it's not letting me do
+1:35:58 that edge okay fill it there it
+1:36:03 is fill it pin
+1:36:06 sticky why doesn't it let me do this one
+1:36:09 come
+1:36:12 on what why isn't it letting me do
+1:36:16 this so
+1:36:20 annoying there now it did it wow
+1:36:24 I don't know I don't
+1:36:28 know sticky you let me do this come
+1:36:38 on that let me do it for a second I
+1:36:42 don't know what I'm doing wrong here
+1:36:44 sometimes this just does not let me do
+1:36:46 what I want to do okay there it
+1:36:49 goes bam
+1:36:58 this going to be
+1:37:12 fixture I shouldn't have did I delete
+1:37:15 that from my library I shouldn't have if
+1:37:17 I did that was
+1:37:18 dumb and why is this showing backwards
+1:37:21 no idea we drew it the right way
+1:37:25 no
+1:37:26 idea and then Advance sizing we need a
+1:37:29 height 12
+1:37:32 maybe 18 sure throw
+1:37:36 18 and we need two
+1:37:40 width we don't want to spread
+1:37:43 the insert but we don't want to spread
+1:37:46 the walls either kind of just
+1:37:49 stuck kind of just stuck maybe we'll do
+1:37:52 three
+1:37:54 and I'll just throw one
+1:37:56 at try to get it in between a grill
+1:37:58 marker yep
+1:38:00 two -2 no let's
+1:38:04 go let's go
+1:38:11 four4 third wouldn't make any
+1:38:19 sense so maybe it's more like six six
+1:38:25 because I don't want us put one in the
+1:38:26 middle there that'll look good enough
+1:38:29 actually I should probably put it in the
+1:38:31 flats here but whatever I'm good with
+1:38:34 this
+1:38:38 depth depth is stuff probably in the
+1:38:41 front flange here
+1:38:57 sure
+1:39:27 from
+1:39:28 ceiling ceiling to top
+1:39:34 zero and does that have a light
+1:39:37 on is it the right way it is
+1:39:43 cool there we go that looks pretty
+1:39:49 good that's a deep sucker man
+1:39:53 23 inch
+1:39:56 deep okay we drag this down drags the
+1:40:00 light down man is that a nice upgrade
+1:40:02 from X6 to x16 with
+1:40:05 x16 that makes a big
+1:40:10 difference so cool that you can drag a
+1:40:12 light and have the light location
+1:40:15 update very
+1:40:18 cool all right so we've lost our move to
+1:40:21 folder function so instead we just got
+1:40:24 to
+1:40:25 cut and we'll go back some
+1:40:29 searches and then
+1:40:33 paste and here's the next part
+1:40:36 that I end up having to do is I'm going
+1:40:39 to group select all these
+1:40:42 manage the
+1:40:44 tags these are all appliances that are
+1:40:47 kitchen
+1:40:48 appliances that are wall mount
+1:40:53 that's how my tag system works and
+1:40:56 then and then that one is um for people
+1:41:00 that have buy my library I put in a tag
+1:41:04 that has the update date so they could
+1:41:07 filter
+1:41:09 by um you just filter if you click on
+1:41:12 update it shows you all the objects that
+1:41:14 updated in the most recent Library deal
+1:41:18 so after I go through all my two sort
+1:41:20 items I have a whole section in my
+1:41:22 library that is two sort
+1:41:24 section ho right here so all this will
+1:41:29 be
+1:41:32 tagged update
+1:41:36 whatever same with anything that's here
+1:41:39 as
+1:41:45 well so there you go easy that way
+1:41:48 someone can click update and see all the
+1:41:50 things they got in the update package
+1:42:02 giving away all my secrets hey if
+1:42:04 someone watches this video for an hour
+1:42:06 and 45 minutes they deserve
+1:42:21 it oh I got left oh here's a fixture
+1:42:25 good
+1:42:26 fixture oh but it does not have an
+1:42:28 insert so I'm not going to put one in
+1:42:32 either they can put that in
+1:42:34 themselves I don't know that's not true
+1:42:36 I use this Hood a lot so I kind of want
+1:42:38 to have it the insert dang
+1:42:41 it what is this this is a 20 inch
+1:42:57 that
+1:42:57 looks
+1:42:59 correct yeah
+1:43:03 roughly
+1:43:05 yep although no no the insert part would
+1:43:09 be in the back side of this and this
+1:43:10 would be a flat panel so maybe we
+1:43:15 would pick on some one your own
+1:43:19 size boy all these are 11 in inserts
+1:43:22 that's impressive
+1:43:24 man feel like that didn't exist not that
+1:43:27 long
+1:43:29 ago 45 so I need
+1:43:35 a there's a 48 36 36 so probably use a
+1:43:41 3611 yeah that's so
+1:43:45 impressive what's this
+1:43:49 one that looks about the right size
+1:43:52 actually
+1:43:53 what is this one that's kind of a cool
+1:44:03 one so what will we do we have it up
+1:44:10 here I need to get back in the field
+1:44:13 Bress up on my knowledge
+1:44:29 I mean that fits but
+1:44:40 barely I love this select next side that
+1:44:43 was one of my suggestions that's why I
+1:44:47 spend a lot of time lobbying for
+1:44:49 suggestions because sometimes
+1:44:53 sometimes they use
+1:44:54 them and feels real good when they
+1:45:02 do drop that
+1:45:06 what
+1:45:10 nope
+1:45:13 yep can we can we do a hole in this
+1:45:16 right
+1:45:17 now yep
+1:45:20 whoa I make a hole it did
+1:45:24 little off
+1:45:25 but Bo it takes some practice to work in
+1:45:28 3D to get all this stuff right if you
+1:45:29 didn't check it out that I've just
+1:45:31 posted a video about working with
+1:45:32 moldings in
+1:45:34 3D getting pretty good with that okay so
+1:45:38 same color as the
+1:45:40 body here we go great symbol love
+1:45:49 it and then copy paste
+1:46:11 wa I bet this has some serious all
+1:46:13 account on this
+1:46:19 thing I bet so this should have been
+1:46:21 recessed more I'm not sure I like
+1:46:26 this let's go up just yeah like that
+1:46:33 better I don't need to do anything
+1:46:45 just actually should just convert this
+1:46:47 to a symbol that other one um or make a
+1:46:49 copy maybe that's what I'll do
+1:46:53 grabs Hood as
+1:46:57 fixture grabs Hood fixture
+1:47:00 duplicate and then rename
+1:47:04 it with
+1:47:07 hood
+1:47:17 insert bam
+1:47:32 Bam Bam
+1:47:39 Bam and flip normal damn
+1:47:50 it bam H that's
+1:47:57 sweet that's such a nice symbol to throw
+1:47:59 in
+1:48:00 Man 10 bucks it can be
+1:48:10 yours Easter eggs what was the Easter
+1:48:13 egg which
+1:48:19 one
+1:48:21 welcome I might take you up on that one
+1:48:24 of these
+1:48:27 days while in camera mode good question
+1:48:32 let's see if shift actually does work
+1:48:34 for delimiting in a movement
+1:48:37 so it's easy to hit the snaps here right
+1:48:41 we're hitting angle snaps if
+1:48:44 you shift move you're still hitting
+1:48:48 angle snaps so no control move unbind
+1:48:55 alt move is what you're looking for
+1:49:00 alt so hold alt and drag something
+1:49:06 out which is great because if you stop
+1:49:09 dragging and then hit tab or enter you
+1:49:12 can still punch in something in a
+1:49:14 particular
+1:49:16 direction yeah that's a good
+1:49:20 one I don't know why they they don't use
+1:49:23 shift because shift was already known to
+1:49:25 bind
+1:49:27 in thought shift was known to bind in a
+1:49:30 particular mode oh well that's the
+1:49:32 that's just our alternate draw mode so
+1:49:34 it's just right
+1:49:36 click yeah it's just right
+1:49:39 click how come I I didn't know that
+1:49:44 actually H I bet if Alas and son saw
+1:49:47 this he'd be like you're stupid he
+1:49:49 should have known that I probably did
+1:49:50 know it I definitely did not remember it
+1:49:53 yeah right click look at that so simple
+1:49:57 now go
+1:49:58 Z should yeah it's the same thing
+1:50:01 there's
+1:50:03 Z it takes away angle snaps that's for
+1:50:06 sure bam super duper simple and then
+1:50:11 move Mode still works that's um middle
+1:50:15 Mouse so if you middle Mouse and Edge
+1:50:18 and hold alt does not do anything
+1:50:32 all
+1:50:33 right almost done almost done so
+1:50:43 happy oh did I already do this one
+1:50:46 what's going on here
+1:50:49 oh Advanced I already did this one
+1:50:54 yes what do we have left got nothing
+1:50:56 left this is it
+1:51:02 cool uh now on the
+1:51:07 microwaves where if it's a hood I only
+1:51:10 have a couple hood hood ones
+1:51:14 thankfully so I have a tool that we
+1:51:17 might need to update so here's a wall
+1:51:20 cabinet and there's the place microwave
+1:51:23 in the wall
+1:51:25 cabinet and it does not produce an
+1:51:28 undercounter light which it should
+1:51:30 although the unders side of this there's
+1:51:32 no features to it
+1:51:36 so so what would you
+1:51:41 do there's not even like a hood thing
+1:51:45 under
+1:51:46 here so what you could do is take this
+1:51:50 microwave and add to do library as
+1:51:54 fixtures
+1:51:56 interior yeah over the range microwave
+1:51:59 where they didn't do anything on the
+1:52:01 underside of
+1:52:03 this and I bet you I could guess what
+1:52:05 this looks like so I just added that to
+1:52:07 the library where the range microwave
+1:52:09 unit let's place
+1:52:12 it as freestanding it's got an offset
+1:52:17 so we can use that same trick select
+1:52:19 next side bam right click draw it
+1:52:23 straight out cool super easy
+1:52:27 okay um I'm just going to do a face I
+1:52:33 guess should do a face yeah let's do a
+1:52:35 face so we're gonna
+1:52:38 do
+1:52:40 snappy
+1:52:43 snappy snappy
+1:52:45 snappy it should have created a face
+1:52:47 that we could see but it does not I
+1:52:49 don't know why they don't give
+1:52:51 precedence to the face you just
+1:52:53 created right so instead I
+1:52:57 got left click drag
+1:53:01 up and now that should show my fa no my
+1:53:04 face didn't show up all right let's do a
+1:53:05 solid instead screw
+1:53:13 you there our solid and said select next
+1:53:17 side I could
+1:53:21 basically draw this down
+1:53:24 116th and then I could
+1:53:28 just explode this entire thing control
+1:53:31 click and delete the
+1:53:35 excess I
+1:53:37 guess so I'm going to make a little
+1:53:39 Grill like
+1:53:41 filter so here G be the
+1:53:46 filter oh concentric is not working on
+1:53:48 faces why
+1:53:51 not why is that not
+1:53:53 working come
+1:53:56 on man Chief concentric is not working
+1:53:59 on faces anybody confirm
+1:54:03 that nope it's not
+1:54:05 working
+1:54:13 stupid got write that down
+1:54:24 after explode
+1:54:29 technically what did you say
+1:54:33 David now go Z Now go Z I showed you
+1:54:40 Z I want to be able to grab the move
+1:54:42 handle in any 3D View and hit a key to
+1:54:44 limit to any access yeah but I mean
+1:54:46 that's what I that's what I just did
+1:54:48 it's just not it's not going to be the
+1:54:50 same process as um I different software
+1:54:53 if that's what you mean so like here we
+1:54:55 go we've got a solid right
+1:55:01 and you're saying move along this axis
+1:55:04 but that's just not the way this
+1:55:05 software functions so you need to select
+1:55:07 next side and then right click and you
+1:55:11 are bound to that it snaps to that it
+1:55:14 snaps orthogon
+1:55:17 orthogonally orthogonal orthogonal
+1:55:19 Direction now is what it's doing it's
+1:55:23 binding so I can select next side
+1:55:26 orthogonally it's not going to hit my
+1:55:28 angle snaps
+1:55:35 anymore move handle for z um well you
+1:55:39 could just click on top I mean or click
+1:55:41 on a
+1:55:43 face because you're you're hitting the
+1:55:45 same number of buttons you have to hit a
+1:55:48 directional snap you're just saying
+1:55:50 being able to hit Z I mean that's kind
+1:55:52 of the same thing to me as like select
+1:55:55 next side in a
+1:55:57 way is we're just I guess it's a few
+1:56:00 less
+1:56:03 clicks I do wish it went for I do wish
+1:56:06 the select next side tool went up to the
+1:56:10 top face first and then cycled through
+1:56:12 the other sides I will say that but yeah
+1:56:16 I mean if you wanted to work up like
+1:56:17 SketchUp where it was just like or not
+1:56:19 SketchUp blender where you just hit Z
+1:56:21 right now and that meant you could move
+1:56:23 it
+1:56:26 up that's in the to that's one of the
+1:56:28 things I was saying earlier that I was a
+1:56:30 suggestion I made and and they stuck it
+1:56:32 in the very next version after I made
+1:56:34 the suggestion so that's this
+1:56:37 guy works great I use it all the
+1:56:41 time so hard to select this top side of
+1:56:43 a chair that was my argument I can't
+1:56:45 select the top side of a of an organic
+1:56:48 shape like a like decor and then I
+1:56:51 cannot move Mo it in 3D and they're like
+1:56:53 all right well that makes
+1:56:56 sense okay let's get our filter
+1:57:01 mesh over here bam and then I think this
+1:57:06 comes more like this and then we're just
+1:57:08 going to copy
+1:57:10 paste this really concentric not work
+1:57:13 concentric doesn't work on a face
+1:57:16 what don't get that let's try resize
+1:57:20 resize works on a
+1:57:23 face so there's that I
+1:57:27 guess and Bam feel like that is
+1:57:34 correct and you guys are going to learn
+1:57:36 my little trick for how this all
+1:57:44 works what I do here okay copy paste
+1:58:00 I don't know that I needed to I don't
+1:58:02 need to replace geometry I guess yeah I
+1:58:04 guess it would be easy to replace
+1:58:06 geometry okay so there's my filter mesh
+1:58:10 yeah okay
+1:58:19 ala sweet yeah you you got it
+1:58:23 man all right I'm going to make a copy
+1:58:26 of this
+1:58:36 guy open them
+1:58:39 up this is a block
+1:58:46 oops I have to find the source file
+1:58:49 somewhere
+1:58:59 does this retain its offset oh it didn't
+1:59:01 it re changed its offset so what's my
+1:59:05 offset
+1:59:10 here offset is 14 and a half in the
+1:59:14 Y 14 and half in the Y let's see if it
+1:59:17 changed
+1:59:19 right advaned sizing do I have any
+1:59:22 stretch symbols in here it's sizing
+1:59:25 nothing custom here options inserts in
+1:59:28 the cabinet front that should have been
+1:59:32 retained ins the C front um the
+1:59:35 materials changed for some
+1:59:41 reason aluminum
+1:59:45 polished oh that was the dang handle
+1:59:48 dang it I did not want to change that
+1:59:51 leave the
+1:59:54 handle Lance smooth brushed
+2:00:00 Chrome I'm just being stupid here let's
+2:00:03 just do
+2:00:06 this okay or rather
+2:00:11 let's default Appliance
+2:00:14 color okay now this
+2:00:19 is almost there
+2:00:24 glass lights yep it's
+2:00:28 okay add the
+2:00:30 library
+2:00:31 okay and
+2:00:38 replace why would you do
+2:00:42 that
+2:00:49 what okay
+2:00:53 that makes a lot of sense
+2:00:56 Chief I just need to watch this
+2:00:59 video front side back Appliance now
+2:01:03 let's
+2:01:08 trying which one has my light this one
+2:01:10 has my
+2:01:12 light all right there you go there we go
+2:01:17 man what a pain
+2:01:22 add to existing microwave hopefully this
+2:01:25 does
+2:01:26 not schmuck up something mess up
+2:01:33 something all right testing
+2:01:43 time do you generate
+2:01:46 light yes you do yes you do proud father
+2:01:52 here okay
+2:01:59 cool wish we could use shortcuts in
+2:02:04 our CVM CVM in our library for control
+2:02:10 cut like why can't we cut that's
+2:02:15 crazy right that's crazy
+2:02:32 okay tags manage tags this is an
+2:02:35 appliance for a cabinet for our kitchen
+2:02:40 and it was
+2:02:44 updated cool
+2:03:04 there's another microwave here I'm not g
+2:03:06 to do it I don't feel like
+2:03:11 it um you know what it would be very
+2:03:15 cool Just for
+2:03:18 kicks why do I even care about this um
+2:03:21 think it'd be cool if you put some oven
+2:03:23 lights
+2:03:24 in wouldn't that be
+2:03:28 neat I mean you can so easy to make that
+2:03:32 though so because if you have an oven
+2:03:35 light but you also have a control panel
+2:03:37 it's one's going to get favored over the
+2:03:40 other right that's the
+2:03:43 problem but like a w like this
+2:03:45 wine swine fridge this guy would be very
+2:03:49 cool
+2:03:53 interior
+2:03:55 lights so like I'd say the the simple
+2:03:58 way of doing this to me is adjusting
+2:04:01 [Music]
+2:04:03 your adjusting your camera to clip
+2:04:07 surfaces within like 24
+2:04:10 in and
+2:04:14 then and then you should be able to see
+2:04:16 the back face of like the refrigerator
+2:04:22 is and use the face
+2:04:26 tool to pick up an edge I me I guess
+2:04:29 that's kind of
+2:04:30 challenging maybe the solid tool is a
+2:04:32 better pick get all the way down to the
+2:04:34 base
+2:04:36 here and this one's to be inside of the
+2:04:44 door like so
+2:05:08 cool obviously you're going to change
+2:05:11 the the level of brightness
+2:05:27 actually 25 25,000 is not that
+2:05:43 high do I care about that I mean so you
+2:05:47 could integrate the lights on the door
+2:05:56 it's actually pretty cool that'd be
+2:05:58 pretty
+2:06:02 cool this is a cabinet so it's
+2:06:06 operable so there's the door open it's
+2:06:09 still lit
+2:06:17 up
+2:06:20 h
+2:06:22 H it's another one where I need to fix
+2:06:26 the materials on
+2:06:29 it they change the way they do metals so
+2:06:32 a lot of my good metal materials from
+2:06:35 before no longer have good materials on
+2:06:39 them a large door white
+2:06:43 cabinets insert ref for his foot for
+2:06:47 large
+2:06:49 vent large vent cabinet
+2:06:53 for his foot stretchable I don't know
+2:06:56 what that
+2:06:57 is default finish custom St and steel
+2:07:00 let's just go appliances so that was the
+2:07:03 grill at the
+2:07:04 bottom appliances again it's the grill
+2:07:07 at the
+2:07:11 top so
+2:07:13 again that was inside which I don't like
+2:07:17 there's oh you can't go back though you
+2:07:19 can't undo in this or pan large flat
+2:07:23 surface oh this is so funny this is
+2:07:26 weird where you can't do default
+2:07:29 materials on some
+2:07:32 things it's very
+2:07:38 obnoxious so yeah I guess I would make
+2:07:40 it as part of the not as part of the
+2:07:43 door you want it as part of the
+2:07:47 r how did I do this have some kind of
+2:07:51 custom thing in here what is this it's a
+2:07:55 door and then I have some kind of I have
+2:07:57 no idea how I built this this is a long
+2:07:59 time
+2:08:09 ago must be a back item
+2:08:18 no because look at how this is it's got
+2:08:20 some kind of
+2:08:22 internal frame what is that where's that
+2:08:25 coming from it has to have a insert or
+2:08:29 something how the heck did I do
+2:08:32 that I have no
+2:08:37 idea shelves has oh this whole thing's
+2:08:40 an insert
+2:08:45 oh okay
+2:08:54 so grab the whole mill work
+2:08:58 shelf work shelf ref yep
+2:09:07 okay and place it and then stick some
+2:09:11 lights on the back of it is what it
+2:09:17 is yeah cool
+2:09:22 um the size of the lights matter Believe
+2:09:24 It or Not Size
+2:09:32 Matters
+2:09:34 so we'll shrink it down a little
+2:09:41 bit let's go explody
+2:09:47 [Music]
+2:10:07 so hopefully this will be very
+2:10:13 subtle and then we need to move in the
+2:10:15 positive y
+2:10:19 116th okay
+2:10:22 paint a light on
+2:10:32 it and we know about reflecting
+2:10:36 so do it at your own
+2:10:39 Peril and
+2:10:42 then come back in here and rotate
+2:10:45 it where is it it's right here rotate it
+2:10:52 the things we
+2:11:16 learn
+2:11:17 so yeah as a mill work symbol but
+2:11:21 doesn't matter because we're going to do
+2:11:23 this trick
+2:11:29 again oh
+2:11:31 shoot export limit that's a
+2:11:34 bummer that can really miss some things
+2:11:39 up let's try I'll file e
+2:11:43 colada man this can miss some things up
+2:11:47 let's try it why not
+2:11:57 okay
+2:12:25 okay okay
+2:12:30 okay that's got to be the lighting
+2:12:58 almost want this to be Appliance
+2:13:01 [Music]
+2:13:02 trim almost want this to be like a
+2:13:09 chrome yeah why
+2:13:11 not rush Chrome no polish
+2:13:15 chrome brush look at that brush chrum
+2:13:17 what happened there oh that's right when
+2:13:20 Chief just made a bunch of Mater
+2:13:21 materials that were in your library just
+2:13:23 decided to take the metal designation
+2:13:25 out of them super happy when they did
+2:13:32 that sorry Chief I get to talk some some
+2:13:36 trash every once in a while think I
+2:13:38 earned
+2:13:40 it all right add this to the library as
+2:13:44 a new insert
+2:13:47 and and cannot just hover and replace
+2:13:51 that is another thing I've been asking
+2:13:53 for
+2:13:55 cabinets cover and replace mill work I
+2:14:00 we going to replace
+2:14:02 anything right
+2:14:23 that's the lit one I
+2:14:27 think yeah resize the fit fine press
+2:14:32 okay does this light up that's my next
+2:14:37 question
+2:14:38 no what' I do wrong dang
+2:14:41 it what I do
+2:14:45 wrong did I get the wrong
+2:14:48 one I did get the wrong one which one do
+2:14:50 I I have
+2:14:57 here oh this never got changed brush
+2:15:01 what the come
+2:15:03 on lighting glass lights spam okay M
+2:15:11 frame brushed Crome
+2:15:17 whatever all right round number two
+2:15:34 delete also this wood material needs to
+2:15:38 be turned
+2:16:02 only thing I don't like about this setup
+2:16:04 is that the drawers don't pull out we
+2:16:05 could have made them really Dynamic
+2:16:07 where the drawers pulled out you need to
+2:16:09 get this a lot more custom
+2:16:13 though that would have been pretty slick
+2:16:15 I used to have one that did no I did
+2:16:28 okay now this
+2:16:31 should light up and it doesn't
+2:16:39 still so oh what just
+2:16:44 happened dang
+2:16:45 it didn't mean to delete the wall it's
+2:16:49 meant to delete these two blind lights
+2:16:51 right
+2:16:55 here why are you guys still watching
+2:16:57 this if you are still watching
+2:16:59 this are you laughing yet at
+2:17:09 anything invert surface directions try
+2:17:12 this one more time I know it I know I
+2:17:15 got it this time
+2:17:22 okay specify yeah it' be nice if this
+2:17:25 was just a click and replace that would
+2:17:27 save a lot of
+2:17:30 time okay you resized yeah there it is
+2:17:34 it's lit up
+2:17:36 yeah
+2:17:38 yeah Light Me
+2:17:40 Up
+2:17:43 bam and now click it off click it
+2:17:47 on super cool
+2:17:51 that's super
+2:18:00 cool nice nice nice
+2:18:15 nice okay cool add it to the library
+2:18:22 now I got to replace the other one so
+2:18:24 this
+2:18:46 is
+2:18:48 him cut him cut him cut him
+2:18:52 wine
+2:18:53 fridges paste
+2:18:59 them and then
+2:19:02 tagging so search attributes we're going
+2:19:05 to put in okay we got appliances Rd
+2:19:07 kitchen kitchen RAB Rd wine Rd wine
+2:19:11 should get you
+2:19:14 there and then
+2:19:17 tags manage tag should be a
+2:19:23 Appliances
+2:19:27 kitchen guess that be it I don't have a
+2:19:29 special wine category and then
+2:19:32 update kitchen should have a
+2:19:35 full maybe maybe not
+2:19:40 inserts
+2:19:42 H
+2:19:49 okay and then the one painter tool gets
+2:19:52 you to this I think let's just see if
+2:19:56 that needs to be updated
+2:20:00 then yeah so that gets you oh that's a
+2:20:04 different
+2:20:05 unit
+2:20:08 interesting okay oh man I should have
+2:20:11 updated this one instead so this is the
+2:20:14 one that
+2:20:15 has operable mill work inside oh that's
+2:20:20 much nicer oh dang
+2:20:24 it that's
+2:20:30 cool and this is a much more complicated
+2:20:33 symbol to update with lights because how
+2:20:36 do you incorporate the lights it has to
+2:20:40 be has to be a mid work on the back
+2:20:48 side I'm G have to think about that
+2:20:52 now bringing into twin motion yeah
+2:20:55 update the twin motion library
+2:21:00 right I wait till I get projects for
+2:21:02 that lately I haven't needed
+2:21:08 them yeah well you basically do do have
+2:21:12 to well no but you're just replacing the
+2:21:14 lighting material one time that's a one
+2:21:16 click thing that's not bad
+2:21:26 you didn't know how much work went in
+2:21:28 all these dang things man so much work
+2:21:31 goes into
+2:21:33 this
+2:21:35 Justin yeah yeah I know and I think this
+2:21:40 is part of the reason I don't have any
+2:21:42 competitors you would have had to start
+2:21:44 building this stuff back when I started
+2:21:47 building this stuff 10 years ago and
+2:21:49 people weren't really doing that they
+2:21:51 weren't keeping it organized or taking
+2:21:52 the time to do this I was lucky that I
+2:21:56 was so now I have something that's worth
+2:21:59 some money but yeah you see how much
+2:22:01 time I would kill on this stuff and I
+2:22:03 would do it casually kind of after hours
+2:22:05 just to clean up after my work
+2:22:10 session object sounds Associated I can
+2:22:13 see that happening at some point sounds
+2:22:15 associated with objects like you open
+2:22:18 the door and it goes
+2:22:20 just cool sound effects all right so how
+2:22:24 do we add a light to this guy because
+2:22:26 this one's cooler than the other one
+2:22:28 because of its roll out and the fact
+2:22:30 that it has bottles this one doesn't
+2:22:32 have bottles certainly probably makes a
+2:22:35 high polyc count item here
+2:22:40 but you have to do it with
+2:22:43 the you can't do a door back insert that
+2:22:46 won't work
+2:22:51 it's almost like you'd have to do it
+2:22:55 with
+2:22:57 hinges
+2:23:00 Hardware accessories what do we
+2:23:05 have not going to do with side panels
+2:23:08 not going to do it
+2:23:10 with
+2:23:13 pilaster you could do it with pilasters
+2:23:22 could you do it with
+2:23:27 pister I think I could do it with pilers
+2:23:29 let's try
+2:23:31 that so we
+2:23:33 got this will be a nice little trick if
+2:23:36 it
+2:23:37 works all right explody
+2:23:45 explody and
+2:23:48 so there is our
+2:23:54 pelster paint it glowy glowy
+2:23:59 glowy we want it roughly the correct
+2:24:02 height what is this this is 84 in minus
+2:24:05 4 so this is whatever this is snap this
+2:24:08 down to itself popop and minus 80 and
+2:24:13 minus 3/4 3/4 inch and a half
+2:24:21 let's just call it 78 all right so
+2:24:23 there's 78
+2:24:25 so convert this to a uh pil just go all
+2:24:29 the way down to the base always or
+2:24:34 no Left Right extend to
+2:24:39 bottom so you don't need it to be okay
+2:24:43 so this gets to be in Pastor is a mil
+2:24:46 work symbol so convert to
+2:24:48 symbol mil work
+2:24:53 light let's
+2:24:55 see cabinet light
+2:25:04 insert
+2:25:07 work Advanced options we need this to
+2:25:12 go
+2:25:15 backwards first of all why is this
+2:25:17 oriented the wrong
+2:25:18 way I drew it in the right plane Chief's
+2:25:22 so inconsistent man you guys are so
+2:25:26 inconsistent
+2:25:29 why I'm in north south like why would
+2:25:32 that have been
+2:25:33 turned so annoy all
+2:25:37 right
+2:25:40 34 probably
+2:25:43 78 positive 78 positive 78 no I want
+2:25:48 negative 78
+2:25:50 why is that not dropping back it's not
+2:25:53 moving
+2:25:55 78 I put in 78 doesn't move I put in
+2:25:58 negative 78 it doesn't
+2:25:59 move
+2:26:01 zero what on
+2:26:04 Earth 78 it pushes out 78 it doesn't
+2:26:10 move good job Chief
+2:26:17 man aggravating
+2:26:20 all right let me just draw an solid
+2:26:22 since the face doesn't seem to be
+2:26:27 working so let's make this 78 let's make
+2:26:31 the depth
+2:26:34 16th width
+2:26:46 and this is another one where you can't
+2:26:48 use defaults on no idea why you would
+2:26:52 change it from one to the next like why
+2:26:55 don't you give that option to everything
+2:26:57 that you could possibly convert to we
+2:26:59 don't
+2:27:03 know okay convert this to milw workk
+2:27:08 class
+2:27:09 insert
+2:27:12 B I don't know I'm spell that
+2:27:22 [Music]
+2:27:31 you can't just light the back though
+2:27:33 David unless you did a custom back B
+2:27:37 blink oh
+2:27:42 well a dang it David you have a good
+2:27:45 idea here um it's not quite what I what
+2:27:49 you said
+2:27:50 but it's close here I'll show you in a
+2:27:54 minute I'm just going to make sure that
+2:27:56 the symbol still gets
+2:27:58 created and can I do this negative
+2:28:01 78 why is it making it so solids aren't
+2:28:05 there it goes all right
+2:28:10 78 all right so there's that but here's
+2:28:13 here's what you're talking about and
+2:28:14 here would be my workaround for this
+2:28:16 let's go um you're gonna have to do it
+2:28:19 for each side so left
+2:28:23 side custom face blank
+2:28:27 area split
+2:28:34 vertical pick a that make it one
+2:28:41 inch the side of the cabinet will be lit
+2:28:44 for this so you'd have to put an end
+2:28:46 panel on that's the only issue here
+2:28:55 one inch okay should be able to do a
+2:28:58 custom face from Another Side they
+2:29:01 should figure that
+2:29:09 out so now I should be able to
+2:29:14 paint why is
+2:29:17 that why did that paint the whole thing
+2:29:19 why did that paint the whole body
+2:29:21 component because it wants to paint
+2:29:24 everything the same
+2:29:26 color in component mode even when you
+2:29:29 have a special blank
+2:29:32 item so this needs to be something other
+2:29:35 than a
+2:29:36 blank it could be
+2:29:39 a side panel inset where side panel set
+2:29:43 to slab
+2:29:46 okay same
+2:29:49 thing side pan inset
+2:29:52 okay now I should be able to
+2:29:56 paint and so if you had an end panel or
+2:29:59 a cabinet next to
+2:30:05 this oh that's
+2:30:08 annoy come on I don't want that to be
+2:30:11 the same color I'm in component Mode
+2:30:14 come
+2:30:17 on how do I get this thing all right
+2:30:24 so default I need to
+2:30:26 specify what a custom slab
+2:30:31 door is that what gets me
+2:30:39 there let me paint this dang thing
+2:30:45 lighting nope that doesn't get me there
+2:31:03 let's pick a just different slab door no
+2:31:06 it's still going to give us the same
+2:31:08 stupid paint color so what other things
+2:31:10 could we set this
+2:31:16 as a drawer
+2:31:18 panel I
+2:31:22 guess and specify that it's a
+2:31:27 slam it's the left side let's see if we
+2:31:29 can paint
+2:31:32 it oh but that's going to be
+2:31:46 applied
+2:31:48 door side P inset man I feel
+2:32:02 like there should have been a way to do
+2:32:04 this why is that taking on every color
+2:32:07 that you've got even in component
+2:32:10 mode Let's try the side panel inset
+2:32:13 again and see if we can't specify in
+2:32:16 materials a different color for the side
+2:32:18 panel inset
+2:32:23 there's all wine shelves
+2:32:40 c
+2:32:42 h strange
+2:32:54 all right let me go back to just
+2:33:05 doing I thought I did this glass insert
+2:33:09 oh I called it glass insert instead of
+2:33:11 light insert
+2:33:17 light so what does that do
+2:33:21 did that put something inside of this
+2:33:22 thing to we'll have to
+2:33:26 check left right Auto on WID yep extend
+2:33:29 the
+2:33:30 bottom width might need to be pumped up
+2:33:32 a little bit just so we could see
+2:33:35 it oh but that changes the face item
+2:33:40 interesting does this turn on
+2:33:57 somewhere in here is
+2:34:09 light all right I'm G try this lighting
+2:34:12 white again paint this and it Paints the
+2:34:15 front door and can we just change the
+2:34:18 front breaking
+2:34:29 door this is why it's just a glass door
+2:34:32 frame door let's try our own custom
+2:34:36 door
+2:34:41 friend which can be
+2:34:46 anything could even have some details
+2:34:50 or what
+2:34:56 Shaker yeah let's try this Shaker where
+2:34:58 we just custom do our own materials
+2:35:02 thank
+2:35:11 you there we go now the sides are
+2:35:15 lit so if we put a full height unit
+2:35:21 side by side with this
+2:35:22 [Music]
+2:35:26 thing now you got a lit
+2:35:31 interior although the light's leaking
+2:35:33 out on the
+2:35:36 sides there's a
+2:35:40 problem so that doesn't work either man
+2:35:45 um not a clever ideas
+2:36:09 oh I have an idea
+2:36:25 wine shelf one and wine shelf
+2:36:28 two bam here's the
+2:36:32 idea simple
+2:36:40 one
+2:36:43 is you put in the one shelf on light on
+2:36:48 the side the
+2:36:51 was a big duh
+2:36:54 moment no
+2:36:57 duh big
+2:37:00 dummy how are these lined up they
+2:37:06 are they have just a little they have a
+2:37:08 gap they have got like a half an inch
+2:37:10 Gap
+2:37:11 here that's because they are sized with
+2:37:16 Advanced
+2:37:17 sizing notice that the geometry this is
+2:37:21 an old symbol because it doesn't show
+2:37:24 but the bounding box of this is smaller
+2:37:27 than the actual
+2:37:29 geometry by some
+2:37:32 amount um so it's coming from an old
+2:37:35 version achieve so it's not
+2:37:37 automatically doing its offset
+2:37:39 size so we don't know what it is but
+2:37:42 it's like half an inch or
+2:37:44 something so we could probably just what
+2:37:47 would be the best light setup for this
+2:37:50 so first of all let's kick this off kick
+2:37:52 these
+2:37:54 off so we can
+2:38:09 see yeah bounding box is a lot
+2:38:15 bigger there we go I got a little face
+2:38:36 face so you could basically do
+2:38:41 that so where would you want it you
+2:38:42 would want it right at the front here
+2:38:50 right at the very
+2:38:54 front and maybe up a little
+2:39:14 bit you wouldn't want it facing this way
+2:39:17 that doesn't make sense cuz then you
+2:39:19 would see it so it's got to go this way
+2:39:23 oops it's got to go this
+2:39:33 way so we don't need to adjust the
+2:39:36 bounding box because that's going to be
+2:39:37 part of the bounding
+2:39:39 box so it's basically right
+2:39:42 there
+2:39:44 [Music]
+2:39:46 yeah except for when you open this
+2:39:48 you'll see that that that's not
+2:39:53 good no that's not true oh yeah when the
+2:39:56 oh when the mill work opens moves the
+2:39:59 light with
+2:40:00 it nope that's not a great idea either
+2:40:04 I'm out I'm out of ideas what do we
+2:40:11 got I think the bster was a good idea
+2:40:14 but it didn't work I don't know why I
+2:40:16 don't know where it showed
+2:40:18 up try opening this up and
+2:40:45 see where is it oh it must have been
+2:40:48 wrong color that's what's going on
+2:41:26 H lightning white yeah no this is
+2:41:37 right oh I don't have it turned on still
+2:41:40 don't see
+2:41:41 it so where are they
+2:41:46 buried must be buried inside here so
+2:41:49 let's do some edits on
+2:41:59 that so maybe I want to move this in
+2:42:04 X so let's go one
+2:42:07 inch and just to test it let's go three
+2:42:10 inches in the X let's see what
+2:42:14 happens there's no click and replace
+2:42:16 here so we'll have to just open it
+2:42:23 whatever that is should be
+2:42:42 116th you should see it and it's not
+2:42:45 showing up
+2:42:51 all right let's oversize it see what
+2:42:54 happens
+2:43:15 then why isn't it showing in my preview
+2:43:17 now
+2:43:22 man boy when I start working on symbols
+2:43:25 I run into so many
+2:43:44 problems this really clear 3 in by one
+2:43:48 in by
+2:43:49 74 why
+2:43:56 not just call it m work
+2:44:20 getting nothing in the 3D preview don't
+2:44:22 know why there it
+2:44:27 is and they're mounted to the face frame
+2:44:31 okay
+2:44:34 now let given an
+2:44:44 offset two Ines
+2:44:50 now it's inside see it should be
+2:44:53 technically should just be inside here
+2:44:56 and it should still be lit
+2:44:59 up she's just not creating the geometry
+2:45:02 anymore it didn't work like this in
+2:45:04 x14 you could do this all
+2:45:07 day that's correct we've got an offset
+2:45:10 that places it behind the face frame
+2:45:12 some reason Chief's just omitting that
+2:45:16 geometry all right so you can't use that
+2:45:23 let me see catch up with what you're
+2:45:24 doing here I just
+2:45:37 like yeah
+2:45:55 4 in square frosted glass a light behind
+2:45:59 it every
+2:46:04 shelf yes I've seen the ones with the
+2:46:06 middle shelf the middle fixed
+2:46:12 shelf I really wanted to get it past the
+2:46:14 face frame that's where I wanted it but
+2:46:21 only other thing I could think of is one
+2:46:24 more custom
+2:46:26 shelf where the custom shelf
+2:46:31 was the geometry was the full height of
+2:46:34 this I mean we could do that let's try
+2:46:37 it so we already have the we already
+2:46:40 have it in place let's just open this up
+2:46:43 it's already mid work so basically I'm
+2:46:46 saying that this is the geometry of this
+2:46:49 in advanced sizing if I uncheck this is
+2:46:53 that the overall height of this is let's
+2:46:59 call it just
+2:47:03 78 okay and then we open this
+2:47:07 up and we open the front sides back
+2:47:10 section
+2:47:12 here and get into
+2:47:15 shelves and we are going to call
+2:47:20 I call this 13
+2:47:26 shelves be great if we can move this
+2:47:28 shelf down we can't so that means I have
+2:47:32 to shift a bunch of shelves which is
+2:47:34 very
+2:47:34 annoying um so shelf
+2:47:38 13 I guess I could do this inverted I
+2:47:41 could do this inverted so that would
+2:47:43 save me some time so shelf one spacing
+2:47:46 from previous is whatever 12 12 see you
+2:47:49 can't put in the Max and just have it
+2:47:51 automatically push up which is just
+2:47:54 stupid again stupid
+2:47:58 okay so this is a 3/4 inch height that's
+2:48:01 fine now I want to find that Library
+2:48:04 item which needs to be
+2:48:12 edited it's this
+2:48:15 one can we open the object from here oh
+2:48:17 we can that's cool I like it um so I'm
+2:48:20 going to cut this from the top oh wait
+2:48:23 no I don't want to do that I didn't want
+2:48:25 to do that because I didn't want this to
+2:48:29 update I'm G to paste okay I'm G to
+2:48:32 paste this into the
+2:48:34 bottom so that's it that is technically
+2:48:38 that bounding box is the size of this
+2:48:40 symbol
+2:48:41 now there we go so I'm using that
+2:48:52 okay and it doesn't have a front back
+2:48:57 offset so let's see where it ends
+2:49:07 up so it does it's in here somewhere who
+2:49:11 knows where let's try a little glass
+2:49:13 house you
+2:49:18 and it should
+2:49:20 be full
+2:49:24 width but it also should be full
+2:49:29 height yeah Chief doesn't do symbols the
+2:49:33 way they used to do them um and I've
+2:49:35 been complaining about it for a while
+2:49:36 you can't there's a problem with any
+2:49:38 kind of negative
+2:49:40 offsets where it's not resizing
+2:49:42 correctly I could prove it to you um
+2:49:44 it's really easy you just if you were to
+2:49:48 draw draw
+2:49:51 out let's draw out a deck
+2:49:57 rail
+2:50:03 and actually let's draw out a custom
+2:50:06 deck
+2:50:15 rail like so oh no we're doing a deck
+2:50:19 rail with a panel glass rail there we go
+2:50:22 this
+2:50:26 guy so these glass railings that I built
+2:50:30 in
+2:50:31 x14 which work in x14 very well have um
+2:50:39 custom
+2:50:40 negative spacing on the panels so
+2:50:44 that the brackets here meet at center of
+2:50:49 the nle this bracket is not part of the
+2:50:51 nle it's part of the glass railing
+2:50:53 instead because that's way more Dynamic
+2:50:56 you can see here what it's doing at an
+2:50:58 end panel and so when you add a custom
+2:51:03 newal or drag this custom newal what
+2:51:06 happens is this and this should not
+2:51:10 happen because I have one single Center
+2:51:14 stretch plane in the middle of this
+2:51:15 glass panel so it should stretch about
+2:51:18 that stretch plane infinitely but
+2:51:20 because this has a negative um spacing
+2:51:23 in the symbol itself it causes this
+2:51:26 glitch so Chiefs knows about this I
+2:51:29 think I'm the only one that
+2:51:31 utilizes negative bounding box spacing
+2:51:34 for a little trickery like trying to put
+2:51:35 lights in a
+2:51:37 cabinet
+2:51:39 and so I don't think it'll ever get
+2:51:41 fixed I wish it did I don't have any way
+2:51:44 to put in lights in this cabin that I
+2:51:45 could think of besides adding it to the
+2:51:47 milw work Shelf
+2:51:50 itself which I mean maybe you could put
+2:51:53 it into the back of the style I mean the
+2:51:55 rail
+2:51:57 here maybe that's
+2:51:59 clever see what that looks
+2:52:04 like because these are glass materials
+2:52:07 maybe that's
+2:52:08 clever stick it way down
+2:52:10 [Music]
+2:52:13 here let's move this up
+2:52:33 how's that
+2:52:43 look or maybe half and half and stick it
+2:52:46 pretty high
+2:52:51 oh this is the wrong way again that's
+2:52:53 what's going on
+2:53:22 I mean that's kind of cool that's pretty
+2:53:25 close maybe that's the
+2:53:31 solve I'm going to do a little gen 2D
+2:53:35 symbol gen here gen block so we can see
+2:53:39 so we might be able to line up this
+2:53:42 guy real perfect like
+2:53:49 so he's be nice if he was just outside
+2:53:52 of these class sections here because
+2:53:55 that'll make a big
+2:53:56 difference all right let's try this so
+2:54:00 there's wine rack
+2:54:04 one M shelf
+2:54:11 one there's wine shelf two
+2:54:21 line shelf two
+2:54:24 is need to be line with line shelf
+2:54:30 one
+2:54:32 yeah that yep that's right in front okay
+2:54:49 ended up so this is wine
+2:54:53 shelf
+2:54:56 one right one sh two okay
+2:55:21 show
+2:55:24 forer let try to replace it yeah I think
+2:55:28 I'm good replacing
+2:55:37 it okay boy that even fixed some of the
+2:55:39 vector screw-ups
+2:55:46 there okay that's wine Shelf
+2:55:51 two now one shelf
+2:56:00 one which is this guy
+2:56:32 right yeah make sure the
+2:56:34 materials right which I didn't do before
+2:56:37 last lights
+2:56:39 y let go standard View and see this
+2:56:43 orientations wrong but maybe that gets
+2:56:45 fixed in a
+2:56:46 minute try
+2:56:52 class lights yeah we don't know if this
+2:56:54 is going to light yet that's
+2:56:58 okay okay let's try
+2:57:02 this also let's get rid of all the
+2:57:04 custom
+2:57:06 stuff fact we could just
+2:57:12 spray okay that should be back to normal
+2:57:15 or rather let's just do this let's do a
+2:57:18 brand
+2:57:22 new okay let's
+2:57:25 change the M
+2:57:29 workout oh man you got to go one by one
+2:57:33 here you can't shift select here all
+2:57:36 right let's add that to the list
+2:57:48 lot of pain
+2:57:51 um so I'm not doing this over and over
+2:57:55 again let
+2:57:59 me just do
+2:58:03 two so that was one
+2:58:05 shelf two and then let's get down
+2:58:10 to one shelf one we'll just test two of
+2:58:15 these and we've replaced the geometry on
+2:58:18 these so they should have a light on the
+2:58:19 back yep it
+2:58:23 does
+2:58:28 okay so the light's not doing
+2:58:35 anything why not should see a light in
+2:58:38 the back of yeah the light's there it's
+2:58:40 the wrong direction so flip the normals
+2:58:58 um the orientation of the shelves is
+2:59:03 wrong yeah so we got to fix that
+2:59:09 [Music]
+2:59:47 okay
+2:59:48 let's try it
+2:59:59 again should just be able to press okay
+3:00:03 right make you physically press
+3:00:06 okay instead of just hitting
+3:00:10 enter let me just hit
+3:00:12 enter jeez chief
+3:00:26 don't let us clear that error
+3:00:29 permanently forever and ever should be
+3:00:32 able
+3:00:46 to for
+3:01:28 I guess I could have changed all these
+3:01:30 to one type and then just only had to
+3:01:32 replace four of them would have been
+3:01:33 faster but it's fine oh I missed one can
+3:01:37 see it
+3:01:40 there number
+3:01:42 nine looks like number nine
+3:01:48 no number
+3:01:55 10 no number
+3:01:58 11 no that was number
+3:02:03 10 weird it's not fixing its little
+3:02:06 geometry
+3:02:10 glitch two three I must be missing one
+3:02:13 so number n
+3:02:21 that the one that's the one all
+3:02:23 right there we go finally a lit stupid
+3:02:28 cabinet it took me way too long way way
+3:02:32 too
+3:02:33 long but there it is it's not perfect
+3:02:37 looks all
+3:02:39 right wonder if you could change
+3:02:42 all you can't change the
+3:02:46 lighting in one step to make it less
+3:02:53 bright unless you change the material on
+3:02:56 it let's try changing the material on it
+3:03:08 so grabs wine fridge insert mill work
+3:03:12 shelf oh that's still in there for some
+3:03:16 reason is that on this oh that's on
+3:03:20 this
+3:03:25 so actually looks not that
+3:03:32 bad should be able to just click on this
+3:03:34 adjust
+3:03:35 material and then do a
+3:03:39 custom
+3:03:44 2000 or maybe more than that
+3:03:58 that here we
+3:04:01 go yeah sure
+3:04:19 better than it
+3:04:24 was what happens when you get more
+3:04:26 lights in the scene does it improve its
+3:04:28 look yeah that looks better look at that
+3:04:31 look how improved that
+3:04:33 is and then
+3:04:35 also what glass material is this
+3:04:49 so let me go back a couple let me fix
+3:04:52 that class material to make it look like
+3:04:56 actual yeah you're you're right there
+3:04:59 with me that's what I was thinking
+3:05:10 too so this should be like
+3:05:13 a yeah actually that's not bad
+3:05:20 something like that set to transparent
+3:05:24 should get us pretty
+3:05:30 far A little
+3:05:45 darker there now we're talking
+3:05:48 baby now we're talking is this a
+3:05:52 different material down here it
+3:06:03 is yeah
+3:06:44 yeah you're not going to find this
+3:06:45 anywhere else
+3:06:47 no one's no one's stupid enough to spend
+3:06:51 this much time to make this this the
+3:06:54 only place you could get this it's in my
+3:06:58 library have the Monopoly on
+3:07:02 ridiculously elaborate wine
+3:07:09 fridges proud parent look at
+3:07:14 that oh
+3:07:28 yeah keep that to yourself
+3:07:38 Leah
+3:07:40 cool now time to replace the style
+3:07:45 pallet now I have to do this for the
+3:07:47 mini W
+3:07:52 Bridge oh this is the other one there's
+3:07:54 the other one and then here's this one
+3:07:57 oh shoot I already deleted that another
+3:08:00 one oh
+3:08:03 boy um I don't know that I'm going to be
+3:08:06 lighting up this with this one that's
+3:08:08 going to be a whole another whole
+3:08:10 another Challen oh no this is a full
+3:08:11 insert again so I could do the full
+3:08:13 insert thing I think I need a break
+3:08:15 though
+3:08:18 that that one almost killed
+3:08:22 me shoot did I delete that thing before
+3:08:25 saving it that would that's real
+3:08:28 smart I think I
+3:08:34 did um I wonder if we can go back to the
+3:08:37 point where I deleted it in our new
+3:08:40 feature bet we can delete full height
+3:08:44 object there it is
+3:09:03 yeah that's nice that that whole history
+3:09:06 thing that's
+3:09:12 cool so that's this one cool
+3:09:20 Bam Bam
+3:09:21 Bam and then let's also just add it as a
+3:09:24 freestanding thing to the
+3:09:27 library and then same thing with this
+3:09:31 one we should be able to spray cool
+3:09:34 added to the library
+3:09:37 cool
+3:09:40 oh
+3:09:45 oh my goal was to get through my whole
+3:09:48 kitchen tools and update the whole thing
+3:09:50 and I started last week and I thought it
+3:09:52 was going to take me a day it's been a
+3:09:54 couple hours every
+3:09:56 day a lot of
+3:09:59 work but I made some really big
+3:10:01 improvements so that's
+3:10:09 good I don't even know how we got into
+3:10:12 wine into the wine section here I'm
+3:10:14 still in
+3:10:21 assemblies Hardware cabinet feet cabinet
+3:10:26 surfaces
+3:10:28 components countertop items yeah I got a
+3:10:31 lot more to
+3:10:32 do well three hours holy cow that's a
+3:10:37 lot of
+3:10:39 work I'm done I am done thank you for
+3:10:44 everybody hanging out that's cool
+3:10:47 um if you're watching this later on in
+3:10:50 the
+3:10:51 future that's also
+3:10:54 cool I think you're I think you're nuts
+3:10:57 you may maybe you got five cool tips in
+3:11:00 three hours it's not it's not a very
+3:11:03 Equitable watching to learning
+3:11:09 ratio I jump to things with lights I did
+3:11:12 you're right I skipped the whole section
+3:11:13 in my kitchen to keep it interesting and
+3:11:16 then we just do as one does get stuck on
+3:11:19 some dumb little detail but you know
+3:11:22 what now I got a bunch of hoods that
+3:11:24 light up a
+3:11:25 scene that Parts I'm really excited
+3:11:29 about boy drawing out that kitchen that
+3:11:32 quickly was kind of exciting too I'm
+3:11:34 gonna have to do a new I have a video
+3:11:37 that's a seven minute kitchen I think we
+3:11:38 could beat that now
+3:11:40 easily and and make it even more
+3:11:43 elaborate
+3:11:45 so um cool David thanks for interacting
+3:11:48 with me
+3:11:50 man yeah yeah I agree I
+3:11:55 agree sweet till till next time
+3:12:17 m

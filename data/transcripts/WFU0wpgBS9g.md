@@ -1,0 +1,1611 @@
+---
+videoId: WFU0wpgBS9g
+title: Introducing the ALL-NEW PRO ACADEMY - Designers Show #158
+url: "https://www.youtube.com/watch?v=WFU0wpgBS9g"
+status: imported
+---
+
+# Transcript
+
+0:00 so that it's coming from you and not
+0:01 just from the account.
+0:03 >> Yeah. How do I do that?
+0:04 >> I don't know. But we're live, so say hi
+0:07 and you can explain it to the whole
+0:08 crowd.
+0:11 >> Hi everyone. Oh my goodness. Uh we're
+0:14 just chatting about uh texting into the
+0:17 app here that we're using for all of
+0:19 this stuff. So anyway, welcome. Uh this
+0:23 is Dan from sunny I mean cloudy and
+0:25 rainy Minnesota. Some sunny somewhere
+0:28 behind that. Yeah,
+0:29 >> John, you're up in the mountain
+0:30 somewhere.
+0:32 >> I'm in my basement.
+0:34 >> John is frozen. That's right. John has
+0:36 lousy internet connection, so he's just
+0:37 going to sit there and smile.
+0:41 >> Frozen.
+0:42 >> Well, it was a good picture to to stop
+0:44 on.
+0:45 >> Oh, Kevin, you're in your lovely
+0:47 basement in Kansas. Lanexus. Candace.
+0:50 Beautiful Lexus. And Renee Rabbit is in
+0:52 his I'm assuming your house in
+0:54 California.
+0:56 >> Uh, yeah. I'm in my kitchen.
+0:57 >> Kitchen. Cool.
+0:58 >> And uh I just got to show this. Thank
+1:00 you for being a member, Antonyina. I
+1:02 love this name. Antthony, I'm hoping I'm
+1:05 saying it correct.
+1:06 >> Yeah, we'll pronounce the last name.
+1:07 >> Antonia.
+1:09 >> Yeah, Shin Careno.
+1:12 That's pretty good. I might have
+1:13 butchered that.
+1:15 >> Yeah, that sounded good to me. That's
+1:16 great. Well, and welcome. So,
+1:19 >> yeah.
+1:20 >> Well, thanks for being here. All right,
+1:22 so uh
+1:25 Robin is here. Hello, Robin. How you got
+1:28 it?
+1:28 >> You're using your school internet?
+1:31 >> No, I'm in my office. I start school on
+1:33 Monday.
+1:34 >> Oh, okay. Cool. Robin teaches uh chief
+1:37 architectural program.
+1:39 >> Yes.
+1:40 >> Interior design program. All of that at
+1:42 the Portland.
+1:44 >> Portland Community College.
+1:46 >> Community college. Cool.
+1:47 >> Yep.
+1:49 >> How you guys?
+1:49 >> John is back. John is back from the
+1:51 mountains.
+1:52 >> All right. A lot of names on here we
+1:54 recognize. Thank you guys for being
+1:56 here. As the show was slated today, I
+2:00 was going to talk about the Pro Academy
+2:02 and what's coming up in there. Um, so I
+2:05 really we don't really have a topic
+2:07 other than, you know, to jabber about
+2:09 that. And also, if you guys have
+2:13 questions, type them in and we'll try to
+2:15 get to some of those as well. So, we're
+2:17 just planning to have a good time here
+2:19 and and I'm I'm really excited about
+2:21 showing you what we've done at the Pro
+2:22 Academy because I've been working on a
+2:24 long time, been talking about a long
+2:26 time. We were laughing about that two
+2:28 days ago. It's like,
+2:30 >> yeah, I'm the ultimate procrastinator. I
+2:32 win. No, no, John won. That's right.
+2:33 John won that contest for some reason.
+2:36 I'm not quite sure why.
+2:38 >> Uh,
+2:38 >> yeah. No, I think I think in the end you
+2:41 you actually won.
+2:42 >> Oh, I did. Okay, cool. because you spec
+2:45 you specify what you want to do and I
+2:46 don't I just don't do it. I don't tell
+2:48 anybody what I'm supposed to be doing.
+2:49 >> You just don't do anything. Anyway,
+2:51 >> what's the procrastination? I feel like
+2:53 you've been working on this.
+2:54 >> Oh, I've been working on I saw a note I
+2:57 had typed um on my computer. I don't
+3:00 know where I put it, but back in
+3:02 January, I said, "Yeah, Pro Academy
+3:04 coming soon." Of course, and that's been
+3:05 on my website since January. Yeah, I've
+3:08 actually been talking about it for
+3:09 years. It's been active for a while.
+3:10 >> You know what? It it looks like you've
+3:13 been working on it. It shows. So, I
+3:15 don't think we have procrastinating.
+3:17 >> Yeah. No, we've been we've put a lot of
+3:19 work in it. I The Pro Academy is
+3:21 something that I've had available for
+3:24 quite a long time. John I actually
+3:26 started it um back in
+3:31 2015.
+3:32 >> Mike actually said Mike said he's been
+3:34 using it since 2012. There was a a note
+3:38 here that Mike had been using it since
+3:40 2012. Well, that could be I mean what I
+3:42 used to do is I I used to use a program
+3:44 called go to webinar and I would do John
+3:46 in fact John joined me then I don't
+3:48 remember when John started joining me it
+3:50 would have been after you started u
+3:52 joining me in my teaching
+3:54 >> but I used to do couple times a month
+3:57 sometimes once a week sometimes once a
+3:59 month um I'd do a chief architect
+4:01 training session for everybody I'd open
+4:04 it up uh for free and the the live
+4:08 sessions were free to attend and then I
+4:09 would put all the recordings in my pro
+4:11 academy and then that's I sold that as a
+4:13 membership site and it's been active for
+4:16 a very long time and uh very many people
+4:19 and some people on the call here have
+4:21 been uh
+4:24 part of that site ever since and and I
+4:26 really want to thank you for for your
+4:28 loyalty and for sticking with me on this
+4:30 because it's uh it's been it's been this
+4:32 whole chief architect journey that we're
+4:35 all on uh in various stages. I know
+4:39 Renee is on a bit different journey than
+4:41 I am and Robin is, you know, all of us,
+4:43 we're all kind of in our own way of
+4:46 going certain ways, but the number one
+4:47 goal that we're all after is to help all
+4:50 you guys on the call to do better in
+4:52 your business. Of course, obviously that
+4:54 means we'll do better in our business,
+4:56 right? So, that's kind of the goal and
+4:59 it it makes perfect sense. So over the
+5:01 years, uh, it's been a joy to teach
+5:03 Chief Architect because I've seen how
+5:06 this program has helped so many
+5:08 businesses and so many people in those
+5:12 businesses improve the way they sell
+5:14 things, improve the way they communicate
+5:16 with their clients, projects go better.
+5:20 I mean, gosh, I mean, I've always said a
+5:22 good set of plans is worth their weight
+5:24 and gold. It'll help you make your
+5:26 project go so much smoother. you'll have
+5:28 less problems, less change orders, less
+5:32 pissed-off clients, less less of all of
+5:34 those things because you've done a good
+5:36 plan and because you've been able to
+5:38 communicate that in 3D. And that's
+5:40 another reason I'm really grateful that
+5:41 the people at Chief Architect continue
+5:43 creating a good product. Now, we have
+5:45 our gripes about certain things, Kevin,
+5:48 um that
+5:51 that uh we always want to see
+5:54 improvements on,
+5:55 >> but we'll give them credit. They keep
+5:57 doing a really good job of adding new
+5:59 things and and I I think we talked about
+6:00 a little bit on the last show some of
+6:02 the things that we saw that they're
+6:03 going to include in X18, i.e. version
+6:07 28. And uh we're we're pretty excited
+6:10 and pretty impressed with some of the
+6:12 things that they're doing. They're
+6:13 really moving this program into the you
+6:15 know 21st century or whatever century
+6:17 we're in now. So it's pretty cool. Um,
+6:20 so my goal is to keep offering uh as
+6:24 much information, as much help as I can.
+6:28 I mean, I'm one guy. Thank God I got you
+6:32 four around me to to keep everything
+6:34 moving and we talk to each other and we
+6:36 keep each other excited about what's
+6:38 going on with this thing. We're always
+6:39 sharing ideas and that really makes u
+6:44 makes this a lot of fun. And again, I
+6:46 see Margaret's there. She drank the
+6:48 Kool-Aid. Yeah, Margaret. Yeah, it's
+6:51 amazing having you come to our events
+6:53 all the time. It's so fun to be with you
+6:55 and you're always you've always got a
+6:57 smile and laugh for us. So, it's just
+7:00 again everybody everybody that I've ever
+7:02 been involved with with the chief
+7:04 architect in the chief architect
+7:06 community. I can't think of anybody that
+7:09 doesn't fit this, but they're just the
+7:11 greatest people. All of you guys are,
+7:13 you know, re pat yourself in the back
+7:15 cuz you're really good people. And um
+7:18 I'm always amazed at how willing
+7:20 everybody is to help each other uh in
+7:23 their journey to learn Chief Architect
+7:25 and become better using
+7:27 >> You got to say something
+7:29 >> say something special about Jolene Dan.
+7:31 She's a big part of your team.
+7:34 >> Jolene's amazing. Uh hi Jolene. Thanks
+7:37 for joining us today. You know Jolene,
+7:39 you have a login. You could actually log
+7:41 in here and join us. Um but that's okay.
+7:44 You can just watch. Uh Jolene and I have
+7:46 been working together about a year,
+7:47 eight years now I think. Uh Jolene, all
+7:50 the graphics that you see, much of the
+7:53 website stuff you see, all the
+7:54 marketing, the social media, she's doing
+7:57 all of that stuff and she's doing a
+7:59 fantastic job. Her and her team are just
+8:01 awesome to work with. Uh so I really
+8:04 appreciate it. And Jolene was at our
+8:06 last summit. Her and her husband Darren
+8:08 came out and uh they helped uh prepare
+8:10 all the food and take care of everybody.
+8:12 And that was really cool to spend time
+8:13 with the two of them at the summit. So
+8:17 >> thanks Jolene for being there. Huh?
+8:18 >> Jolene was a lifiscover
+8:21 life in my class.
+8:22 >> We discovered a whole new talent that
+8:24 Jolene's got. She turns out that she
+8:26 teaches yoga. And
+8:28 >> yeah,
+8:28 >> we took these five minute breaks and
+8:30 Jolene would come in and just calm us
+8:34 all down and refresh us and five minutes
+8:37 later we were wake aware and ready to go
+8:39 again. So
+8:40 >> yeah,
+8:42 >> my whole class was was getting hit with
+8:45 major dopamine hits of way too much
+8:47 information and then Jolene would come
+8:48 in there and like let's go fix you guys
+8:50 real quick and stand up and shake it
+8:52 out.
+8:53 >> It really made a big It really made a
+8:55 big difference. So yeah, she is Jolene
+8:57 is a Are you certified Jolene? I think
+8:59 you're a certified yoga instructor,
+9:01 aren't you?
+9:02 >> Yes, she is.
+9:02 >> Yeah, she she's amazing. So, just a
+9:05 really great uh couple and they own a um
+9:09 I think it's 11bedroom Airbnb or bed and
+9:12 breakfast I should say in a small town
+9:14 in southern Minnesota. So, uh yeah, 23
+9:18 years she's been certified. So, cool.
+9:21 And she does
+9:22 >> have a um a yoga uh like YouTube stream.
+9:26 Uh if you go to Big Raven Yoga, you'll
+9:30 find her website. And if you go to Big
+9:33 Raven Media, you'll find her marketing
+9:35 site. And if you go to Big Ravenfarmms,
+9:39 these are all you you'll find
+9:41 information about her u their their uh
+9:45 bed and breakfast. So
+9:47 >> nice.
+9:48 >> Yeah. I met Jolene at a
+9:50 >> a meetup in the Twin Cities here. They
+9:52 were going to talk about Facebook. So I
+9:53 thought, "Oh, I want to learn about
+9:54 Facebook." So, I went there and I loved
+9:56 what Julian had to say and uh we've been
+9:58 working together ever since. We meet
+10:00 every week um for an hour at least an
+10:02 hour to talk about what we're going to
+10:04 be doing for the following week or the
+10:06 next few months and you know what's the
+10:08 next designer show. She takes care of
+10:10 everything. So, it's it's great great uh
+10:12 relationship show relationship. So,
+10:15 thanks again Jolene uh for being there
+10:17 for us and yeah, she's been
+10:21 >> Oh, sorry. Go ahead.
+10:23 I just saying she's been really
+10:24 instrumental in helping me reformat the
+10:26 Pro Academy, too. So, I'll show that
+10:28 here in just a little bit.
+10:30 >> Uh Robin the other day on our call was
+10:33 uh was saying, "Rabbit, you should do
+10:36 this to your website." And I looked at
+10:37 your Pro Academy and I said, "I don't
+10:39 want to do all that work."
+10:43 >> Well, you remember now,
+10:44 >> so much work. I've been doing
+10:48 online training since 2005.
+10:52 And so, of course, I don't have any of
+10:55 that older stuff on my website anymore.
+10:58 You don't want to learn about, you know,
+10:59 version, you know, X1 anymore. Um,
+11:02 >> right.
+11:03 >> So, although it's really kind of
+11:05 interesting because a lot of the
+11:06 strategy hasn't changed that much.
+11:08 >> Yeah, it's true.
+11:08 >> Overall, you know, the way you do roofs
+11:10 hasn't changed that much from X1 to X
+11:14 17. Yeah.
+11:15 >> So,
+11:16 yeah. 11 to 20 11 to 27.
+11:20 >> So,
+11:21 >> Jolene's nudging us to get back on topic
+11:23 here.
+11:24 >> Yeah.
+11:24 >> Oh, come on. I like I like
+11:26 >> Before we go there, look at this one,
+11:29 Robin. This is cool.
+11:31 >> Yeah.
+11:31 >> Yeah. Thank you. Yeah. I had a um I did
+11:34 a
+11:35 >> a chief course um a two and a half day
+11:37 class in Portland
+11:39 >> and um it was very successful. So, it's
+11:42 really glad I'm really glad Emma came.
+11:44 There were a lot of different levels of
+11:47 of people using the program in many
+11:49 different ways. So, it was a lot of fun.
+11:51 And Aaron Rose came up um came up to
+11:53 Portland to assist and she was fabulous.
+11:56 So, it was really helpful. I don't know
+11:57 if Erin's on the call today, but um
+11:59 thank you, Aaron.
+12:01 >> Pizza was really good.
+12:03 Yeah,
+12:05 >> I liked how you had an interview that he
+12:07 she had Rene's like, "Let me talk to
+12:09 Aaron
+12:11 to make sure that the pizza was good."
+12:14 For those of you who don't know, I make
+12:16 I have a woodfire oven and we um make
+12:19 our own pizza and it's really good and I
+12:21 have been saying that it's really good
+12:23 and Kevin came out last year and had it
+12:26 and he said it was really good and Renee
+12:28 needed to get like another person.
+12:30 >> So, here's the funny thing. Aaron has
+12:32 had it too
+12:33 >> is I've been watching a show on Hulu now
+12:36 and now I'm getting ads for Oregon pizza
+12:41 >> I'm not
+12:41 >> because you've been talking too much
+12:43 about it
+12:47 >> you just say Oregon not Oregon
+12:50 >> okay
+12:51 >> come to Portland Renee
+12:55 >> anyway um all right let's keep moving on
+12:58 so anyway we'll bore everybody to death
+13:00 with our stuff Just uh
+13:02 >> just a reminder everybody, if you have
+13:04 burning questions you want to talk about
+13:06 today, go don't hesitate to post them.
+13:08 >> We'll we'll talk about them. Absolutely.
+13:09 So, we'll spend a little time talking
+13:11 about this and then uh we we'll switch
+13:13 it over and do some chief stuff. So,
+13:16 first of all, uh we do have a class
+13:17 coming up in Bloomington, Minnesota. Um
+13:20 October 6th through the 9th. Um we've
+13:23 got about three seats left if anybody's
+13:25 interested. Uh we we tap out at about 18
+13:29 people in that class. So uh if you're
+13:32 interested uh go to the chiefexperts.com
+13:34 and check it out. It's right at the home
+13:36 top of the homepage. Uh John and I will
+13:38 be teaching that. We have a lot of fun
+13:39 with that. And John's committed to doing
+13:41 the yoga sessions every you know.
+13:43 >> Actually actually I asked Jolene to send
+13:45 us some videos.
+13:47 >> Yeah.
+13:48 >> Before we left the summit. So
+13:50 >> we'll have to do that.
+13:51 >> Can we have some videos?
+13:52 >> Yeah, that'd be great. Um it really does
+13:54 help. makes a big difference. Uh anyway,
+13:57 let's go talk about Pro Academy. So, Pro
+13:59 Academy, uh this is the new site that
+14:02 I've just set up, put up here a couple
+14:03 days ago. And, uh when you log in, u
+14:08 some of the main things that I really
+14:09 want to do again is live meetings like
+14:12 this uh in the Pro Academy. The thing
+14:15 about those is it's like a Zoom meeting.
+14:18 You'll see everybody that's on the call.
+14:20 So, we'll be doing uh we'll be doing
+14:22 those twice a month. first and third
+14:23 Wednesday of the month. And if you go to
+14:26 the uh if you go to the Chief Experts um
+14:31 home, go to the calendar link at
+14:34 chiefexperts.com,
+14:35 you will see when those live days are
+14:39 going to be occurring. So, uh we'll have
+14:42 one here on October 1st. It's the first
+14:44 and third Wednesday of every month. And
+14:46 if you click on the calendar link, uh
+14:48 you may not find a topic here. Maybe you
+14:50 will. I know I'll probably put topics up
+14:52 about some of the things we're going to
+14:53 talk about, but um in the live room, you
+14:56 just click this link right here. That'll
+14:57 take you right to the chief uh the Pro
+14:59 Academy live uh login room and you'll
+15:02 click that and you'll be click that
+15:04 button and you're in the meeting. So,
+15:05 I've tried to make this as simple as
+15:08 possible. Well, you don't have to go to
+15:09 your email and look for any emails or
+15:11 anything. Although you'll probably get
+15:13 some, but um all you have to do is come
+15:16 to chiefexpert.com calendar, click join
+15:18 the meeting and you'll be in the uh
+15:20 meetings. If you're not a member yet,
+15:22 which is if if you're not and you want
+15:24 to join, you can click here to find out
+15:26 or just go to the chiefexperts.com site
+15:28 and go hit the learn more button about
+15:30 Pro Academy. Um the the agenda
+15:34 >> looks really nice. It's really nice and
+15:36 clean.
+15:37 >> Nice. really nice and clean
+15:39 >> like that. That should be over here. But
+15:41 uh the uh from 9 to 10:15, these are all
+15:44 central time now. So you'll have to
+15:45 adjust it to your time zone. And if you
+15:49 if you if you subscribe to this
+15:52 calendar, which you could do
+15:55 Google calendar, if you subscribe to
+15:58 this calendar, which you could do
+16:01 Google calendar, if you Why am I getting
+16:04 feedback here?
+16:07 Well, anyway, if you subscribe to the
+16:09 calendar, you can get it in your Google
+16:11 calendar. So, from 9 to 10:15, we're
+16:13 going to do open discussion Q&A. Uh,
+16:16 we'll have if if you don't have
+16:17 anything, we'll talk about different
+16:19 topics. From 10:30, 11:30, and I always
+16:21 put a plus sign there because I'm I tend
+16:23 to go long on those. I will have
+16:26 specific topics that will talk about
+16:28 chief architect. It'll be something
+16:29 about chief architect. Maybe they were
+16:31 going to talk about schedules or
+16:32 cabinets, walls, roofs, whatever. It'll
+16:35 be a topic that we dig into really
+16:37 really in depth and uh so that'll be
+16:40 more of a formal class.
+16:42 >> Will you be taking questions during that
+16:43 class
+16:45 >> if it relates to the topic of that
+16:47 class? The questions are the this right
+16:50 here and then again in the evening we'll
+16:53 have open discussions. So I'm I'm trying
+16:55 to make this so again twice a month
+16:57 you'll have an opportunity in the
+16:58 morning and the evening. you know, if
+17:00 you can't make it during the day, you
+17:01 can come in the evening or if you're in
+17:02 a different part of the world, you could
+17:04 join us more in your time zone. Um, so
+17:07 you can ask questions. You I I will get
+17:09 a link up here where you can uh post
+17:12 your questions ahead of time, which
+17:14 would be really nice. So, we'll get that
+17:16 set up. Uh, and then from 2 to 3:30, I'm
+17:19 doing we're going to do something. I'm
+17:20 going to try try this going to be called
+17:22 plan review. Now, when you think of plan
+17:24 review, you think of Chief Arctic plans.
+17:26 Yeah. You're going to send them to me
+17:27 and we'll take a look at them. uh you
+17:29 know, we'll offer ideas, critique,
+17:31 things like that. So, we'll get into
+17:32 some of that, but that's going to go
+17:34 deeper than that because uh what I'm
+17:36 also looking to do with that is talk
+17:38 about
+17:40 um talk about
+17:43 marketing plans, business plans, uh
+17:46 sales plans, the kind different kinds of
+17:48 plans that you have as part of your
+17:50 business. Haven't formalized that yet,
+17:53 but it's just kind of something I really
+17:54 enjoy doing. I love talking about the
+17:57 different parts of your design business
+17:58 or contracting business as far as that
+18:00 goes. So, we we'll do some of that as
+18:02 well in the plan review. So, we won't
+18:04 always be talking about chief architect
+18:05 plans. So, we'll have some fun with
+18:07 that. Um, so again, lives first and
+18:10 third Wednesday of the month. We won't
+18:12 do any any of those in August or
+18:13 December. So, it's going to be 10 months
+18:15 out of the year. You'll get two
+18:16 sessions. That's 20 sessions a year. Um,
+18:19 nothing on fifth Wednesdays. There's a
+18:21 few months that'll have five Wednesdays.
+18:23 Um, topics may change. So, we'll do
+18:25 that. And you know, I also say I'm
+18:28 pretty good at every now and then we'll
+18:30 just throw up something on the fly and
+18:31 you'll get notification of that as a
+18:33 member. So, that's part of it. The other
+18:36 thing we're I'm doing is we're going to
+18:38 be doing um so all the recordings will
+18:40 go at these links that you see here in
+18:43 the different areas. Um I'm also doing a
+18:45 content share uh on the website. So,
+18:48 when we go over to the academy and you
+18:50 look at the menu here, you'll see that I
+18:53 have uh I have a bunch of on demand
+18:56 training. These are different courses
+18:58 that I've done. Um and John has been a
+19:00 big part of these courses. Uh we just
+19:02 did this one this year. It's actually
+19:04 recordings from a live class that we did
+19:07 um in Rockford, ill Rockford, Maryland.
+19:10 And u so it's all listed out here. So,
+19:12 when you click on any of these and you
+19:14 go to that session, it's going to take
+19:17 you in there and everything's timecoded.
+19:19 Unfortunately, my software that I use
+19:22 does not allow us to click have a link
+19:24 that clicks to that part of the video.
+19:26 So, you just have to look at the time
+19:27 code and fast forward to that spot. Kind
+19:29 of a pain, but you know, it works. So,
+19:31 it's not a big deal. The video player is
+19:33 excellent on this website, so it really
+19:36 works well. And then once you click
+19:38 somewhere, you'll have the the
+19:39 breadcrumbs up here that you can go back
+19:41 and look at different things. So here's
+19:43 all the different parts of that class.
+19:45 So um and it'll list how many minutes
+19:48 there are. Now, if you've gone to a
+19:49 class and you got to leave and come back
+19:52 to it, all you got to do is click this
+19:53 little star and that's going to put it
+19:56 in a section called favorites. So when
+19:58 you go to when you want to come back to
+20:00 it, just go to my favorites. There it
+20:01 is. You can click on it. It's not like
+20:04 YouTube. It's not going to remember
+20:05 where you left off. you kind of have to
+20:07 remember that. Although here it did.
+20:09 Look at that. Maybe they've improved it.
+20:11 Um, but you'll be able to at least uh
+20:14 place it so you can come back to it
+20:16 really easily. And I love that about
+20:17 this theme that I'm using. So that's a
+20:20 bunch of the different online uh those
+20:22 classes. This here is a lot of stuff.
+20:25 Now some of them were done back in 2000,
+20:29 2001, 2002 in X12, X13. Some are X14.
+20:35 This first one's X16. Again, much of the
+20:39 tech techniques that you use for a lot
+20:42 of these things doesn't change that
+20:43 much. But going forward now, I'm my goal
+20:46 is to update a lot of these things with
+20:48 more current things. Things like the 2D
+20:50 CAD and structural detail, not much
+20:52 difference at all. Construction methods,
+20:54 that's kind of like for the that's for
+20:55 the person that um is a really good
+20:57 designer, but they don't know much about
+20:59 how buildings are put together. John and
+21:00 I did this class and we just talked
+21:03 about the different types of building
+21:04 methods and we had a lot of fun with
+21:07 that and I really enjoyed that. I did
+21:09 this class a long time ago called boost
+21:11 your design sales. So I posted this I
+21:13 got to go through and update a few
+21:14 things but it got a lot of tips about
+21:17 running your design business agreements
+21:19 uh what to charge I mean all this kind
+21:21 of stuff about uh selling your design
+21:24 services. Uh here's where you'll find
+21:26 the recordings for the live Q&A
+21:27 sessions. Now, I did post some of the
+21:29 old ones that I had up here. Um, there's
+21:31 a bunch of them. Um, you know, whether
+21:34 we want to go back and watch them or
+21:35 not. I mean, I may put them in the
+21:36 archive. I'm not sure yet. Chief
+21:38 presentations. I got a lot of stuff here
+21:41 um already. That's most of the stuff's
+21:43 really good. So, it's just I've done a
+21:46 lot of training on Chief over the years
+21:48 as you can see. Now, if you're if you're
+21:51 not quite sure where to find something,
+21:52 we got a pretty robust search engine
+21:55 here. So, you just go up here and, you
+21:58 know, type in what you're searching for
+22:00 and you'll get a listing of some of the
+22:03 different things that relate to that
+22:04 topic. So, you click on those and find
+22:07 out more about them. Oh, that one had no
+22:09 results. Why did it do that? Did I spell
+22:11 something wrong? Let me try that again.
+22:14 Roof.
+22:18 >> You have a lot of roofs there.
+22:20 >> It's all roofs.
+22:21 >> All roofs. Oh. Oh, these are all about
+22:24 roofs. I probably should I should do
+22:26 something a little uh more specific,
+22:28 >> a little bit more detailed.
+22:29 >> Yeah. Uh that probably good. The other
+22:31 thing here, there's a thing called
+22:32 content list, and I I'm still working on
+22:34 this. It's kind of something I've always
+22:35 wanted to do. Um this is a one-stop shop
+22:38 for everything that's on the site. So,
+22:41 you can scroll down this list. You could
+22:42 search this this thing here, too, and
+22:44 it'll take you to the different lessons.
+22:46 And then you could click right on the
+22:47 lesson number.
+22:48 >> Nice.
+22:49 >> And um and go right to that lesson. You
+22:51 can also look at this as a gallery where
+22:54 you can see all of the different uh
+22:56 images that are associated with the
+22:57 different topics or you could do it as a
+23:00 board which will give you the title and
+23:02 then all of the time codes that are
+23:04 below that title and again you can click
+23:06 on the lesson and go right to that
+23:09 lesson. So it's just another nice way to
+23:11 search for the topics that you're
+23:13 looking for because again
+23:15 >> there's a lot going on in Chief. So what
+23:17 do you
+23:17 >> I like the board. That's really cool.
+23:20 Really cool. Yeah. So, did you have to
+23:21 go through and time stamp every one of
+23:23 those individually?
+23:25 >> I've always done that with my videos.
+23:27 Now, it's real automatic, but I've done
+23:30 that my videos back in 2005 when I first
+23:33 started. Even I did it back in my when I
+23:36 was doing VCR tapes, hell, I in version
+23:38 three, four, five, I took the VCR and I
+23:42 made a little booklet that you could
+23:44 flip through the different topics and
+23:46 oh, this video at that time stamp. So,
+23:48 I've always done that and it's just, you
+23:50 know, because you, you know, when you do
+23:52 an hour or two hour presentation like we
+23:54 do here, it's hard to go find what
+23:56 you're looking for. So, I've always
+23:57 tried to make
+23:58 >> This is so nice. If you guys look at
+24:00 this, it's it it tells you what version
+24:04 he recorded this in. It has timestamping
+24:07 on it. You guys, if you're not a member
+24:08 of this, you're This is amazing. It's
+24:11 really great, Dan. I'm playing around.
+24:14 I'm looking at it right now. This thing
+24:15 is amazing. really well organized.
+24:18 >> I love the board. The board is great
+24:21 because it really tells you, "Oh, I just
+24:22 want to know how to add a slope raft
+24:24 here rafter to a detail." You can click,
+24:27 you get right there. You see the time
+24:28 stamp right at that point. You don't
+24:31 have to waste your I mean, not that
+24:32 you're wasting your time, but you don't
+24:34 have to waste all the time of waiting
+24:36 for the one thing you actually need.
+24:38 Yeah. Brilliant.
+24:38 >> Yeah.
+24:39 >> Another shout out to to Jolene for these
+24:41 graphics, too. Those are
+24:42 >> I know. She's doing a great job.
+24:44 >> Helpful. You can always tell the ones I
+24:46 did. You can tell the ones I did. You
+24:48 know that one
+24:50 >> versus the
+24:51 >> You need to let
+24:53 >> You need to let Rene let her let Julene
+24:57 >> That's be That's BJ before Jeline. So,
+25:00 um
+25:01 >> yeah, she does all of my drafting. She's
+25:03 done.
+25:05 >> Okay. Uh yeah. Uh so, uh I got a little
+25:10 category called tidbits. I'm not sure
+25:12 what I'm do with that yet. Templates.
+25:14 I've got my templates up here. I will be
+25:15 updating those to X17. But the X16
+25:18 templates work fine in Chief X17, so you
+25:20 can just use those. And there's still
+25:22 some training there, which again, it's
+25:24 going to be uh we're going to be
+25:25 updating all this training on how to use
+25:27 templates. Um, my templates are very
+25:29 basic. They're not Renee templates.
+25:31 They're very easy to use. And and so
+25:34 it's a great way to get
+25:37 and and let me preface this. It's a
+25:38 great way to get started with templates
+25:41 uh and and learn them and understand
+25:43 them. And once you get to that point, go
+25:45 get Rene's stuff because it'll blow your
+25:47 socks off. He's got it really dialed in.
+25:51 >> The way
+25:52 >> the way I would describe the difference
+25:54 between your two templates is Dan's
+25:56 templates stay within the box of chief
+25:57 architect. Rene's templates take us
+26:00 outside the box of chief architect.
+26:01 >> Exactly.
+26:02 >> Yeah,
+26:03 >> that's a really good way to describe it.
+26:05 >> Yeah. So, talk about outside the box. If
+26:07 I if I get five minutes at the end of
+26:09 this, I'll show you something I'm
+26:10 excited about in the current version of
+26:12 mine.
+26:13 >> Cool. That'd be awesome. Um, content and
+26:15 sharing. So, this is something I've
+26:18 always wanted to do and I'm adding this.
+26:20 So, um, if you if you're going to do a
+26:23 plan review, okay, you need to send me a
+26:25 plan.
+26:26 >> Uh, and you can't just send me the plan
+26:28 file. You've got to do the export now or
+26:30 you got to do the backup. And I'll
+26:32 explain how to do that in a short video.
+26:34 But I also want to share content. So
+26:36 what you do is you can uh upload if you
+26:39 got something you want to share and
+26:41 agreements, you got forms, you've got
+26:45 different things that you've developed
+26:46 for your business that you just don't
+26:48 mind sharing with the rest of the
+26:50 community. That would be really welcome
+26:52 and be really really cool. And then what
+26:54 we'll do is once we get those, we'll
+26:55 review them and then we'll post them
+26:57 here for people to uh come and download.
+27:00 So I'm pretty excited about that. Plus
+27:01 I've already got a whole bunch of stuff
+27:02 I want to share. So I'll be posting that
+27:04 here. This one is one I'm really excited
+27:06 about.
+27:07 >> Chief buttons and hotkeys. I'm really
+27:09 excited about this. Now, if you go here
+27:11 now and you click on these, which I may
+27:14 turn off for the time being, there won't
+27:16 be anything there but images. So, I
+27:18 haven't done the videos for those yet. I
+27:21 got to turn that one off. Um, so what
+27:24 this is, I have a um Let's see if I have
+27:28 a graphic up here. Do I even have I
+27:30 should have that loaded.
+27:32 Let's see. buttons and hot keys.
+27:38 As you can see, I still have a lot of
+27:40 work to do. You know, this is one of
+27:42 those things I'll never be done with.
+27:43 Okay, where'd it go? Damn it.
+27:49 Directions. I don't have anything there,
+27:51 I don't think.
+27:53 Installing the hotkeys.
+27:55 Uh, thought I had the graphic up here.
+27:59 Let me I'll find it. Actually,
+28:02 here one more time. I'm really prepared
+28:05 for this one. Um,
+28:08 not let me just do one thing. Hotkey pad
+28:13 and I haven't uploaded it. Okay. Well,
+28:15 I'll get the info info on there. But the
+28:17 bottom line is when each week I'm going
+28:20 to start adding to these uh these
+28:23 categories
+28:25 and what it will be. So, like let me let
+28:30 me just grab something here quick. U
+28:37 maybe you can see this. So, you'll be
+28:38 able to print this out and it's a sheet
+28:41 with um 72 buttons on it that I've
+28:44 created keystrokes for shortcuts and
+28:47 you'll be able to install those in Chief
+28:49 and then I've got all the shortcuts
+28:51 numbered. I don't know if you can is
+28:53 that is that come through right side or
+28:55 is it backwards? No, it's right. You're
+28:58 good.
+28:58 >> See, see a little number up there. All
+29:00 you have to do is come into Chief, come
+29:02 into here and search for that number.
+29:04 So, if you want to learn about button
+29:06 number, you know, 21005,
+29:10 you type that in. Boom. There's that.
+29:12 I'm going to teach you all about rich
+29:13 text in this lesson. So, and I I've I'
+29:17 what I've done is c created shortcuts
+29:19 for uh all the buttons that'll be on
+29:21 this sheet, which I think are really
+29:24 easy to learn and easy to remember. And
+29:27 they're hotkeys. They're buttons you use
+29:29 all the time in Chief. Plus, they're
+29:31 buttons that a lot of people don't know
+29:33 what they do because Chief's got 1300
+29:36 buttons. you know, it's a lot to a lot
+29:39 of buttons to figure out, but uh I want
+29:42 to give you the key buttons that you
+29:44 need to learn how to use. You know, the
+29:46 trim and extend the all those different
+29:48 buttons that uh are are really important
+29:51 to learn about. So, that's my goal here.
+29:55 Um
+29:56 get back to this main category. So,
+30:00 again, if you just were to scroll down
+30:02 here, you know, just come in here, you
+30:04 know, these videos will be relatively
+30:06 short. you know, five, 10 minutes maybe.
+30:09 So, you want to learn about snapping,
+30:12 really a big deal in the CAD world. I'm
+30:14 going to teach you exactly how to do
+30:16 that. Um, rich text, plain text,
+30:20 control, you know, all these different
+30:21 buttons. So, you'll you'll learn the
+30:24 proper use of them and a lot of tips and
+30:26 techniques that aren't readily obvious
+30:29 in Chief Architect, as many things are
+30:31 not that obvious in Chief. So, any
+30:33 that's that's I have a lot of fun with
+30:35 that. So you'll get all that and then
+30:37 productivity and business. These are
+30:38 some um sessions I've done over the past
+30:41 and this is what I want to start doing
+30:42 again as part of the plan review or just
+30:45 having guest speakers on so we can get
+30:47 you some really good information about
+30:48 running your design business better and
+30:51 uh there you go. So again if you sign up
+30:53 for this you can have access to
+30:54 everything. Keep in mind I'm still
+30:56 working a lot of stuff. So, if you go to
+30:58 the home, if you go to the dashboard, so
+31:00 if you click the dashboard and you click
+31:01 using the site, you're not going to find
+31:03 anything on user site yet. So, I'll get
+31:06 there. Um, anytime you want to go to the
+31:09 events calendar, it's going to open up
+31:11 that calendar right here. So, pretty
+31:13 straightforward. So, again, I've tried
+31:15 to keep it super duper simple. And then
+31:17 announcements, uh, within the program,
+31:18 I'll be doing announcements. So, um,
+31:21 you'll get all the members will get that
+31:23 automatically.
+31:24 >> So, we have a couple questions. Yeah.
+31:27 >> For the live sessions, will they be
+31:29 recorded and available for people to
+31:30 watch?
+31:31 >> Yes, I record everything that we do. Um
+31:34 the the Q&A sessions,
+31:38 um I may not edit those. They'll just
+31:41 get posted with timestamps.
+31:43 The the classes that I do, I'll probably
+31:46 edit those and we'll edit out any of the
+31:48 goof ups. You know, I try to make all of
+31:50 those really those class videos as, you
+31:54 know, really tight as possible. Not a
+31:57 lot of fluff going on in those. I just
+31:58 want to get you the information as best
+32:00 as possible. And there'll probably be a
+32:02 bunch of handouts going out with those
+32:04 kind of classes, too. So, it's just a
+32:06 fun place to share things. So,
+32:09 >> that's the Yeah,
+32:11 >> I have another question.
+32:12 >> Yeah.
+32:12 >> If you've been a member for
+32:15 >> are you automatically a member of the
+32:16 new academy or is there a separate and
+32:18 different membership? If you're an
+32:19 active member, um you just log in,
+32:23 you'll be good to go. Your price will
+32:24 not change. As long as you stay an
+32:26 active member, uh you're good to go. You
+32:29 um you're grandfathered in. So, uh
+32:32 probably one of the better values out
+32:34 there in the chief architect world. The
+32:37 uh
+32:38 >> definitely
+32:38 >> the investment for the new pro academy,
+32:42 if you go here, uh get two options. You
+32:45 get started monthly. The first month is
+32:49 195 and then each month thereafter it's
+32:52 65 bucks. Uh the annual is 645. One, you
+32:58 know, one payment for 645. It saves you
+33:00 a bunch off the monthly and uh you're in
+33:04 and you can have access to everything as
+33:06 long as you're a current member. You
+33:07 will get notified
+33:09 uh week before the renewal happens. So
+33:11 if you're concerned about that, we'll
+33:13 make sure that you get notified. So, if
+33:15 you haven't been using it or you decide,
+33:17 you know, you don't want to get it right
+33:19 that at that point, you could just
+33:20 cancel the subscription. It's really
+33:22 easy to cancel the subscription. You
+33:24 just click on the little circle up here
+33:26 and go to settings and go to your
+33:27 account. Hit cancel. It's really super
+33:30 easy. And there's also a Q&A link at the
+33:32 bottom of the pages that takes you there
+33:34 as well.
+33:35 >> And so, you just click that little link
+33:37 right here.
+33:39 Remove. Let's see. Yeah, right here.
+33:41 That little link take you to cancel your
+33:43 account. So tried to make it as simple
+33:45 as possible for you to take care of
+33:47 that. And uh
+33:50 so we're we're
+33:51 >> you're supposed to hide that button real
+33:53 deep somewhere.
+33:54 >> Yeah.
+33:55 >> Yeah. You're supposed to although I was
+33:56 reading all the laws about subscriptions
+33:59 now.
+34:00 >> For annual subscriptions, you have to
+34:02 give a a notice.
+34:04 >> So the monthly
+34:05 >> the monthly you won't get a notice.
+34:07 Every month you're not going to get an
+34:08 email says, "Hey, your subscription
+34:10 come." You just go in and cancel and
+34:12 you'll be done.
+34:13 I had um you've told me, you know, many
+34:17 times before I should be doing a couple
+34:18 email blasts at least a year
+34:22 >> and uh I did one one year and someone
+34:25 was like take unsubscribe, you know, and
+34:27 your unsubscribe buttons not working and
+34:29 it was all on Squarespace. It wouldn't
+34:31 allow me to unsubscribe the person.
+34:34 >> Man, she's like sue you if you don't
+34:37 take me off this list.
+34:39 >> Well, did you go delete them from your
+34:40 account? Oh, I did everything I could
+34:43 and I and the only thing I could do I
+34:45 had to convince them to pull it off
+34:47 email. Squarespace has some real weird
+34:49 limitations in that sucks.
+34:51 >> Yeah, the the unsubscribe for the
+34:53 program I use I use Kajjabi and and uh
+34:56 it works quite well. Uh
+34:59 >> so it's a quick link in the email and
+35:01 you're unsubscribed. Now, what what
+35:02 might what would happen though if you
+35:04 unsubscribe, but you're a member of the
+35:05 Pro Academy, uh you'd still get the
+35:08 announcements from the Pro Academy, but
+35:10 you wouldn't get any other emails from
+35:12 us.
+35:13 >> Yeah.
+35:13 >> So, that's that works pretty well.
+35:15 >> Also, I want to mention in case
+35:17 everybody gets real tired of seeing
+35:19 Dan's face in all these videos, the rest
+35:21 of the gang is going to contribute at
+35:23 some point or other.
+35:25 >> Yes. I haven't added that here because
+35:27 we haven't necessarily worked out what
+35:29 we're going to do yet, but um but you
+35:33 know, you guys will be there and you
+35:35 know, it's so great to have you as part
+35:36 of the team here. So, it's amazing
+35:39 >> and as long as we can keep doing this,
+35:41 that'd be awesome.
+35:43 >> But, uh yeah, there you go.
+35:45 >> And you mentioned you mentioned the
+35:46 other day your annual schedule that you
+35:48 were going to be posting content for 10
+35:50 months and then take have a couple of
+35:52 months that you don't do stuff,
+35:54 >> right? talk about.
+35:55 >> Well, I don't know if I'll post it that
+35:56 far out, but you know, for the next
+35:58 month,
+35:59 >> you mentioned that you were you were
+36:00 going to not post anything in August and
+36:02 you're not going to post anything in
+36:04 December. Is that what you said?
+36:05 >> August and December.
+36:06 >> Yeah, he wasn't having his meeting. He
+36:07 wasn't going to have his meetings in
+36:09 August and no live meetings, nothing on
+36:12 in August and December.
+36:14 >> I I did leave December 3rd on here this
+36:17 year um because, you know, I'm getting
+36:20 kind of late started late in the year.
+36:21 So, I left that one and then we'll pick
+36:22 up again on January 7th. And uh then in
+36:25 August there won't be any meetings
+36:27 either. You know, you guys are go have
+36:29 vacations. Go go go get out and enjoy
+36:31 the weather. So, I know I want to. But
+36:35 this will be fun. I'm looking forward to
+36:37 this and I I you know, the more the
+36:38 merrier. So, I hope you guys uh sign up
+36:41 and uh join us. It would be really
+36:43 awesome to have you.
+36:45 Any other questions?
+36:47 >> Um yeah, Vicki wondering about the
+36:49 designer show. We're still going to be
+36:51 doing it. Well, if no one signs up for
+36:53 the Pro Academy, then I'm going to quit
+36:54 the designer show. But
+36:56 no, no, we'll keep we'll keep doing the
+36:59 designer shows. We have too much fun
+37:00 with these to stop doing them. Um, what
+37:03 I will what I am thinking of doing
+37:05 though with some of the designer shows
+37:07 is taking those recordings and
+37:11 maybe pulling parts out or editing out
+37:14 all of our blah blah blah. Um, and just
+37:17 is that a good term? and and then just
+37:20 putting the content, the hard content in
+37:22 the Pro Academy so it's easier to go
+37:24 find that and easier, you know, get what
+37:26 you're looking for. So, I I'm thinking
+37:29 about doing some of that because we do
+37:30 cover some pretty good stuff in these
+37:33 shows. So, many of you that have been
+37:36 part of this for a long time, I I hope
+37:38 that you've gained a lot of knowledge
+37:39 from from the designer shows and I hope
+37:41 to take that up a whole bunch of levels
+37:44 in the Pro Academy.
+37:46 >> Yes. So, that's part of what that is all
+37:48 about. And at this point, I'm not
+37:50 planning on doing any other classes. It
+37:53 should be just the pro academy. That's
+37:54 my main topic right now.
+37:56 >> Did you see what Vicki said?
+37:58 >> I did not. What did Vicki say?
+38:01 >> Pull it back up again.
+38:04 >> The blah blah blah part is fun. Thank
+38:06 you, Vicki.
+38:07 >> Thank you, Vicki. Okay, we'll keep blah
+38:09 bl people call that a cold open. Okay. I
+38:12 mean, that's a technical term or the
+38:15 intro.
+38:16 Well, you know, when you're used to
+38:17 teaching when you're used to teaching a
+38:20 technical product like chief architect,
+38:21 it's just you wonder sometimes if you
+38:23 know, you know, you shouldn't be
+38:25 blathering so much, but um sometimes
+38:27 that is the funnest part just to find
+38:29 out what everybody's up to and what's
+38:30 going on. So, it makes it more human.
+38:32 And of course, when we make mistakes and
+38:34 we show people how to figure out how to
+38:36 fix those mistakes, I know a lot of
+38:38 people love that, too. And I do too. I
+38:40 mean, part of the fun with chief
+38:41 architect is figuring out how to use the
+38:44 darn thing. Um, and that's kind of what
+38:47 makes it interesting is we get to figure
+38:49 out new ways to uh you do this thing
+38:53 that we want to do in the program.
+38:55 >> Yeah.
+38:56 >> Sometimes we surprise ourselves.
+38:57 Actually, most times somebody's
+38:59 surprised.
+39:00 >> Yeah. Oh, look at that new feature. We
+39:02 could do that.
+39:03 >> It's been there for five years.
+39:05 >> Yeah.
+39:06 >> That button been there forever and it
+39:08 does this. Really?
+39:10 >> I love that part. That's my favorites.
+39:12 Where does that When did that button
+39:13 show up? Oh, about whatever. That's my
+39:16 favorite. Um Renee, I want to compliment
+39:18 you on your backdrop. It looks very um
+39:21 well curated. It's almost like you're a
+39:24 designer.
+39:26 >> Yeah. Look at that.
+39:27 >> Thank you. It's my kitchen.
+39:29 >> Very nice.
+39:30 >> Well, it's very curated. It looks very
+39:31 nice. Your plants are alive. Everything
+39:33 looks good.
+39:34 >> Yeah. Yeah. And and this is my that's my
+39:36 favorite spot in there. There's a little
+39:38 hammock chair and
+39:39 >> I like that.
+39:40 >> Overlooks the bay. Yeah.
+39:42 >> Cool. Nice.
+39:43 >> Well, Rene, you had talked about um
+39:46 something you wanted to show. So, why
+39:49 don't you take the screen and show
+39:51 everybody what you were talking about
+39:52 that you're
+39:53 >> Oh. Oh, I know what I was showing.
+39:54 Gotcha.
+39:55 >> I already forgot. That's how quick.
+39:57 >> You're excited about so many damn darn
+39:59 things you can't remember which one it
+40:00 was. Huh.
+40:02 >> This is a cool comment by Marne. When we
+40:05 work from home, we become the office
+40:06 support group.
+40:08 >> There you go.
+40:11 >> Fine with that.
+40:12 Now you can even get a little bit more
+40:13 support.
+40:14 >> This is This is going to take all of two
+40:16 seconds to show what I'm excited about.
+40:18 Um,
+40:18 >> okay.
+40:19 >> I just uh did a lot of work to finally
+40:22 get my schedules to look like this and I
+40:25 and I just love the look of this,
+40:27 especially when it gets into a layout.
+40:30 >> Yeah, it looks great.
+40:31 >> So, you know, Wow.
+40:33 >> Chief doesn't natively support
+40:36 >> uh rich text font in schedules. So,
+40:39 >> Oh, that's true. They wouldn't,
+40:40 >> right? And so I just
+40:42 >> do that
+40:43 >> did a lot of work to get that to work.
+40:46 And uh and I mean it's still you can
+40:48 still see column headings and and
+40:50 display grids and
+40:52 >> um and borders and all that stuff if if
+40:54 that's the look you want. Um but you
+40:57 know I'm still getting that that rich
+41:00 text effect in here. And
+41:02 >> that looks great.
+41:03 >> That's beautiful.
+41:04 >> That's really nice.
+41:05 >> I really enjoy that. And so, you know,
+41:07 when we're looking on on my layout sheet
+41:10 for that page,
+41:12 except for not working from something
+41:14 that has any windows on it. Let me get
+41:16 on here.
+41:21 If I can figure out where the heck I am.
+41:26 I'm on my second computer right now, and
+41:28 it always takes a little bit of a
+41:30 download for me.
+41:32 Let's see.
+41:38 talk amongst yourselves.
+41:41 >> Keith says he doesn't know if he can
+41:42 trust a site that makes it easy to
+41:44 cancel.
+41:45 >> Yeah, isn't that true?
+41:47 >> Sorry. I mean, if you want, I can hide
+41:48 it deeper or someone.
+41:50 >> Yeah, there you go.
+41:52 >> It's like unsubscribing to email. If
+41:54 someone's not interested in my emails
+41:56 anymore, I want them to unsubscribe
+41:58 rather than me bugging them.
+42:00 >> So,
+42:01 >> yeah. No kidding.
+42:03 >> Yeah. Um, so this is just how it shows
+42:04 up on the page as you get a little
+42:06 overview of of the building and and then
+42:09 it'll start populating. And um, another
+42:12 trick that I did and and I could show
+42:13 you guys how to do this in your
+42:15 templates too, maybe in the next show or
+42:17 something like that. But
+42:18 >> okay,
+42:18 >> here's a a column here that has no
+42:20 heading and and and it um it creates a
+42:25 bunch of character spaces and that's to
+42:28 make it so that these are always sized
+42:30 the same. I don't know if you've ever
+42:31 noticed that before, but you can't get
+42:33 your row um spacing to be the exact
+42:37 same. There's no setting for that if
+42:38 you're showing images in your schedules.
+42:41 So, um it was just a simple solution is
+42:45 let's add a column and and put a certain
+42:47 number of spaces in there and that makes
+42:49 it so every time you add some new new
+42:51 item, it will be spaced out evenly. Um
+42:55 >> nice.
+42:55 >> So, that one's
+42:56 >> nice.
+42:57 >> That one's a simple trick. you guys can
+42:58 go play around with that yourselves.
+43:00 That'll be pretty easy to set up. Um, it
+43:02 just took, you know, getting to the idea
+43:05 to make it.
+43:06 >> So, so did you have to create a rich
+43:07 text something around the box with a lot
+43:10 of uh
+43:11 >> so recreating this part is difficult um
+43:15 because you are you have to have a
+43:17 custom font. The font is then you take
+43:20 the whole alphabet which is bold and you
+43:23 duplicate it and you make something
+43:25 that's not bold and you put it in some
+43:28 other part of that same font,
+43:31 >> right?
+43:31 >> And then you need a macro to say, "Hey,
+43:35 um, so I have a macro that anything you
+43:38 plug into it, it will remap to the other
+43:41 part of the font, giving you rich text
+43:43 anywhere you want." So, anything that's
+43:46 not, you know, supporting rich text, now
+43:48 you're doing that, but you need a macro
+43:49 for it.
+43:52 >> So, that's one thing I wanted to plug.
+43:53 The other thing I wanted to um uh
+43:56 mention real quick is I just hired
+43:58 someone. I posted this on my Facebook
+44:00 group, but I hired someone to do a blog
+44:02 for me. And I would love it if anybody
+44:04 needs contract writing. if they need.
+44:08 Um, she does grant writing, she does,
+44:11 you know, your blogs, she'll do your
+44:12 info blurbs, she'll do your social media
+44:15 posts. Um, but she just did this blog
+44:18 for me. It's on my website. Um, and I
+44:22 encourage anybody to go read it because
+44:24 it's some really, really fantastic
+44:26 information about AI and how to use it
+44:29 and how to get some success over it. Um,
+44:32 people may not know this, but Kevin and
+44:33 I have a lot of discussions about how to
+44:35 use AI and and and what we're doing and
+44:38 what we're trying and what we're
+44:39 accomplishing and and you know,
+44:42 circumventing the common issues you'll
+44:44 see. Um, there's some really fantastic
+44:47 analogies she gives in here to explain
+44:50 to you the concepts of how it's working
+44:52 and why you might be running into
+44:54 problems and how you can get around
+44:55 those problems. Um, it's just it's an
+44:59 awesome blog. She's an awesome writer.
+45:01 Go hire her.
+45:03 And that's what I'd say. And that's it.
+45:05 >> Cool.
+45:06 >> Nice.
+45:07 >> Rabbit Design.net.
+45:12 >> Yeah. I think I get to post a comment
+45:14 now from my own account. Is that Is that
+45:16 what Kevin figured out earlier? Let's
+45:19 give that a go. No, that's from
+45:21 everybody's account.
+45:24 >> Oh, there you go.
+45:26 >> You got it. Oh, you did it. Okay. Is
+45:28 that clickable?
+45:32 >> You have to go to YouTube to see if it's
+45:34 clickable. Not sure.
+45:36 >> But she's gonna be doing a series on on
+45:37 AI stuff. So, the next blog is just
+45:40 going to be giving you some examples you
+45:42 can try for yourself and and why it
+45:44 works.
+45:45 >> That's awesome.
+45:46 >> Yeah.
+45:47 >> Cool.
+45:50 So, how did you find Elizabeth?
+45:53 Uh she's a friend of mine and um um
+45:57 that's not the Elizabeth that was at our
+45:59 meeting, was it? Oh, no. Different.
+46:00 >> No. Um and and she showed some interest
+46:03 in um in writing, you know, she's got a
+46:07 degree in in rhetoric from Cal Berkeley
+46:09 and uh and she's a bar manager, but you
+46:13 know, just wanted some gig work and
+46:15 started talking and uh boy was that a
+46:18 simple process. I I I drafted a quick AI
+46:22 outline and I gave her that. Um I had it
+46:25 do four different outlines. I gave her
+46:27 four different outlines, which to me
+46:28 would be chaos.
+46:30 >> Yeah.
+46:30 >> And uh and she just plugged away and
+46:34 then said, "I'm ready for a review." Did
+46:36 a little quick review. Gave my edits and
+46:39 it came back the way you see it. It's
+46:42 just I think it's awesome. So
+46:44 >> you guys on the call, anybody here using
+46:45 AI u for various reasons? I was talking
+46:49 to a guy at the chief architect
+46:51 gathering
+46:52 last month and he's got it set up so he
+46:56 can plug in he records the conversations
+46:59 he has with his clients in the initial
+47:01 stages. You know when you first start
+47:04 with your client and and you know you're
+47:06 talking about what they want to do and
+47:08 you know then he starts to put together
+47:10 the scope of work to you know come up
+47:12 with a cost. So he records that whole
+47:14 conversation feeds it to his AI thing
+47:17 that he's set up. He's got a chat set up
+47:19 and then it starts producing um he's got
+47:23 getting it really tuned in to start
+47:25 producing the numbers for him and and
+47:26 all of the you know really give him
+47:28 summary of the conversation all that
+47:30 stuff sounds like a really good use of
+47:32 of AI. So really helping him in his
+47:36 sales process to create much better
+47:38 information for his clients. That's
+47:40 really kind of what the whole thing
+47:42 about AI is. I mean, I use it all the
+47:44 time to help me with ideas, to help me
+47:47 clean up some wording on stuff, to, you
+47:50 know, find things that I'm looking for.
+47:53 Just really cool. U
+47:55 >> I actually use it to um I've just
+47:57 written two new classes for our our
+47:59 program and I've used it to help me
+48:02 consolidate my notes. It's um all of my
+48:05 ideas because writing an 11week college
+48:07 class is kind of challenging. So, I've
+48:10 used it to I put all my notes into it to
+48:13 to create
+48:14 >> the initial breakdown of it and it it I
+48:18 use it and then I I spent a lot of time
+48:20 refix, you know, editing it, but it
+48:23 gives me a a good starting point and it
+48:26 helps it helps a lot. It's I don't use
+48:28 it all the time, but I do it when I
+48:29 need.
+48:30 >> So, Chad, what are you doing with it
+48:31 right now? What are you AIing?
+48:35 Be kind of curious. Uh anyway, yeah,
+48:37 that sounds like a topic for a designer
+48:39 show someday here soon.
+48:42 >> I'll um I'll show this. I use one that's
+48:44 called cursor. And cursor
+48:46 >> I've talked about before. Kevin Kevin's
+48:48 used this before.
+48:50 >> Cursor installs on your machine. And
+48:52 this is going to look like a whole bunch
+48:53 of chaos on the screen right now, but um
+48:56 >> not to cursor
+48:58 >> because it's in installed on your
+49:00 machine. What happens is it um over on
+49:04 the sidebar, which you know our faces
+49:05 are covering right now, but over on the
+49:07 sidebar is a bunch of files it has
+49:10 immediate access to. And because it has
+49:13 immediate access to these, it will read
+49:16 in context everything that's there. And
+49:18 the other thing that's fantastic about
+49:20 cursor is I can highlight some string of
+49:22 in this case I'm doing coding but some
+49:24 string of code and I can um I can just
+49:29 edit just that string of code if I
+49:31 wanted to um as opposed to editing the
+49:34 whole file. So I can get a chatbot to
+49:38 just add just a section of code. So it's
+49:41 not editing things I don't want it to is
+49:43 one thing. And then once you get it to
+49:45 edit something, it will show you the
+49:48 highlight. So I can um um you build
+49:52 workspaces. Workspaces are collections
+49:54 of files that it's going to take as
+49:56 context. Um so it's not such a linear
+50:00 approach like with chat GPT. You're, you
+50:03 know, you're inputting, you're getting
+50:05 some output and you're having to do
+50:06 something with that output. This is
+50:09 actually writing to files. So, just to
+50:12 give you an example is I've got one that
+50:14 um this is what I started to do that
+50:17 blog to get that outline is it's a
+50:19 number of different outlines that it
+50:21 created. And so I can just highlight
+50:23 portions of that outline, add it to my
+50:26 chat. Um sorry, I don't have my wind
+50:29 wind zoom set up right now, but this
+50:32 would show us that. Oh, I do. There we
+50:33 go.
+50:34 >> That shows that it just added lines 150
+50:37 to 156. And I can say expand on this.
+50:42 And
+50:43 >> the really cool thing about cursor is if
+50:45 it can't do something, it will write a
+50:47 um literally a program to go between to
+50:50 do the thing that you needed to do. So
+50:52 this is, you know, more like maybe
+50:54 you're you're building plugins for
+50:56 something or
+50:58 >> you know something I just learned here
+50:59 this week. um if you you know how you
+51:03 can have a conversation with AI and then
+51:06 it starts going off in some weird places
+51:08 and it's like you know it's just like no
+51:10 that's not what I was talking about what
+51:11 are you doing
+51:13 >> um if you tell it to make it a canvas
+51:18 say make this chat a canvas
+51:20 it will stay on topic of the information
+51:23 that you're talking about and it won't
+51:24 veer off in some weird directions if you
+51:27 say hey just I just want to fix this one
+51:28 line and it'll just fix that online, it
+51:31 won't redo the whole dang
+51:33 >> uh string of text. So, just when you're
+51:35 doing something and you want more
+51:37 focused information, just say, "Hey,
+51:39 make this a canvas."
+51:41 >> Um, it works. It's pretty cool. All you
+51:43 got to do is make that one suggestion,
+51:44 that one prompt.
+51:45 >> I'm g I'm going to send a warning,
+51:47 however, because uh one of the things
+51:49 that Renee talked Renee and I talk about
+51:51 is uh the the losing its mind aspect,
+51:54 and that has to do with the amount of uh
+51:57 current memory that it that it holds.
+51:59 Um, I suffered two great losses and
+52:03 having done a lot a lot a lot of coding
+52:07 >> only to scroll backwards and find out
+52:08 that it had erased everything that point
+52:12 >> you told me about that and I go no a
+52:14 week's worth of work.
+52:15 >> Yeah, I did. I literally spent about 7
+52:18 12 hour days working on something and
+52:20 ended up with nothing. So
+52:22 >> the feature that Kevin was not using is
+52:24 that you see here this red indicates
+52:27 things that were and green indicates
+52:30 things that are edited.
+52:32 >> Well, what you're
+52:33 >> added everything that was edited and you
+52:35 have the option to undo that or keep it.
+52:38 >> The key
+52:40 >> hit the keep button. Yeah, the key there
+52:43 is that um uh because cursor cursor
+52:47 actually uses a couple of different AI
+52:49 engines behind the scenes, but one of
+52:51 them is chat GPT. So there's a lot of
+52:53 familiarity in terms of what you can do,
+52:56 etc., etc. But like Renee said, because
+52:58 it lives on your machine, it can
+53:01 interact directly with your operating
+53:02 system, meaning that it can very easily
+53:05 save things that that uh I didn't save.
+53:10 uh if you're using chat GPT it runs on a
+53:13 server someplace out in space so there
+53:16 the only way that you can preserve
+53:18 something is to do it yourself and
+53:21 that's where I didn't so uh it's very
+53:24 important that you understand that
+53:26 within certain bounds the canvas is
+53:29 great within certain bounds timing and
+53:32 memory are great but it does empty its
+53:36 mind um before certain points
+53:40 Um, I want to pin well and uh I would
+53:44 say go take a look at that um that blog
+53:47 Kevin even you because there's um
+53:49 there's some kind of new information I
+53:52 ran into and and that she discovered as
+53:54 well just about how tokenization happens
+53:57 and and how um tokenization can can
+54:02 cause some some disruptive and ambiguous
+54:06 things to happen that then create
+54:08 bottlenecks that then creates you know
+54:11 problems with the output and it will
+54:13 tell you that it did the thing that you
+54:14 want it to do and
+54:16 >> and it didn't
+54:17 >> and it didn't
+54:18 >> and that's largely because of this
+54:19 that's problem that comes up and then
+54:22 Kevin and I have both watched this video
+54:24 and it's one of the best videos that you
+54:26 could watch as an introduction to how AI
+54:28 is even working because it'll help you
+54:30 understand it better so that you
+54:32 >> you know take better um advantage of of
+54:37 all of it strength.
+54:38 >> It's really an outstanding.
+54:41 >> And then I want to mention to Chad here,
+54:43 by the way, I I have built something
+54:45 that lets you take data from your job
+54:48 builder, your builder trend, whatever.
+54:50 It can put out a CSV output and
+54:53 automatically parse that to a numbered
+54:55 note with with its schedule. And I can
+54:59 take any columns um that you want from
+55:02 your CSV data. So,
+55:04 >> well, my guess is you might get a call
+55:06 from Chad here.
+55:09 >> Chad, nice to see you, by the way.
+55:10 >> Yeah.
+55:11 >> Uh, cool.
+55:12 >> All right. Uh, I guess I don't have much
+55:14 else here. U, again, please check out
+55:17 the Pro Academy. Would love to have you
+55:19 as part of it. And just I'll all the
+55:23 members that are in there, I'll be uh
+55:25 updating you on a regular basis with
+55:27 what's happening in there and things
+55:28 that are posted. and we'll just have
+55:30 some fun with Pearl Academy and all the
+55:33 things that we do in our business. So,
+55:35 we'll take this what we're doing here
+55:37 and make it even better.
+55:40 >> Yay.
+55:41 >> Well done, Dan. Well done, Dan.
+55:43 >> Thank you.
+55:44 >> And well done, Jolene, for all your
+55:45 support to keep Dan on task.
+55:47 >> There we go.
+55:50 >> Anyway, um
+55:51 >> have a great day, everybody.
+55:53 >> So, you guys, yeah, just uh feel free to
+55:55 reach out to us. Uh again, as uh if you
+55:58 go to chief experts and there let me
+56:01 show this real quick. Um
+56:04 add to the stage. Come on. I got to do
+56:06 this.
+56:08 If you ever want to get a hold of any of
+56:10 us, do I have the wrong thing? No, I
+56:13 don't. Oh, there we go. Uh just head
+56:16 over to uh chiefexperts.com
+56:19 and just scroll down the page and look
+56:22 at those good-looking people. If you
+56:25 need help with anything, reach out to
+56:26 one of those people.
+56:28 >> And we are changing that picture of me.
+56:29 Jolene, I'm sending you a better
+56:31 picture. That is the worst.
+56:33 >> Absolutely the worst photo.
+56:36 >> Ah, you look great. Uh,
+56:37 >> no, that is not a good photo.
+56:40 >> But if Yeah, if you want to get a hold
+56:41 of any of us, you can just go here and
+56:43 uh you'll link right to their contact
+56:45 information. Uh, John is you're helping
+56:48 people with plans and coaching. I mean,
+56:50 every all of us help with coaching. Uh
+56:53 Renee, uh you're same thing. You're
+56:56 helping with plan. I mean, we're all
+56:57 helping with plans and coaching. So,
+57:00 just reach out to us and we'll be happy
+57:02 to help you. If uh you're not sure which
+57:04 one of these people to talk to, give me
+57:05 a call and I'll I'll put point you in
+57:07 the right direction. So, and uh uh
+57:12 you'll be well taken care of. There's
+57:13 also some free handouts for you here,
+57:15 too. Um how to make money selling your
+57:17 design services with just some points
+57:19 about why you deserve to be paid.
+57:22 reasonable uh fee for your services.
+57:25 Robin did this nice kitchen work center
+57:27 handout that you can get. There's a free
+57:29 brick library, although I think Chief
+57:31 has done a good job of adding bricks, so
+57:33 I don't think we need to get this
+57:35 anymore, although there's a lot of good
+57:37 bricks in here. Boy, I did that a long
+57:39 time ago. Um, so check it out. And then
+57:43 at the bottom of the page, you'll see
+57:44 our latest blog post. All these are
+57:46 recorded and store and put in the blog.
+57:49 So, if you ever want to go back and
+57:50 watch one of our uh shows, you could go
+57:53 there. You can also see us on YouTube
+57:54 and then you can always join us for on
+57:56 our social media. We got our Facebook.
+57:58 >> Dan, if you need some blogs written, I
+58:00 know someone.
+58:01 >> Yeah, how about that? Yeah, that'd be
+58:05 cool. Maybe we'll get something going
+58:06 there.
+58:07 >> So, you guys have a great weekend and uh
+58:12 we're always here to help. So, please
+58:13 reach out if you need anything.
+58:15 >> So,
+58:16 >> sounds great. Take care everybody.
+58:17 >> See you everybody. Bye now.
+58:20 >> Yeah.

@@ -1,0 +1,1391 @@
+Title: Template Tuesdays #2 - Style Palette Based Tools In Chief Architect
+URL: https://www.youtube.com/watch?v=DiAxT3ibWVw
+Visibility: members-only
+
+0:22 when I say I'm going to figure out when
+0:23 I'm live and when I'm not
+0:30 on time.
+0:32 Dad taught me to be on time.
+0:39 H I think I'm live.
+0:44 Well, if you're here today, we're
+0:46 talking about style pallet tools.
+0:51 And the main reason I thought to talk
+0:52 about that was because
+0:57 um if you were at the users breakfast or
+0:59 if you were at their um their training
+1:03 events
+1:04 then
+1:07 then you know they were talking about
+1:08 possibly bringing in some
+1:12 some new style pallet tools. So it's a
+1:15 good time to get familiar with that
+1:17 tool.
+1:19 And uh and so yeah, let's do it. Um
+1:24 here's what I thought. I thought I'd
+1:25 give people just a couple minutes to get
+1:27 in here so that you
+1:30 get your Chief Architect software open
+1:33 and get ready cuz I figured it would be
+1:37 nice to just do a step by a slow step by
+1:42 step to start so that you just add a
+1:45 tool right off the bat and and to be
+1:49 able to use that tool. So, um, because I
+1:51 made something that I that I really
+1:53 like, I've added it to my toolbarss. And
+1:55 so, let's just do that. We're going to
+1:56 do a step by step. Um, I'm being really
+1:59 really distracted by a device
+2:02 continuously getting unplugged and
+2:04 plugged in somehow by my computer. So,
+2:06 computer, play nice to me.
+2:10 So, let me share my screen.
+2:13 [clears throat]
+2:14 G. Let's open up project and see if you
+2:18 can follow along. We're going to do this
+2:19 real slow.
+2:26 So, there's a couple of different ways
+2:29 that you can build a style pallet tool.
+2:32 And
+2:33 and the
+2:35 probably the most intuitive way would be
+2:38 from starting from
+2:40 an object. Oh man, this is going to be
+2:42 so distracting. I've got a constant beep
+2:45 happening.
+2:46 So sorry,
+2:50 computer, stop this. Stop this nonsense.
+2:54 Boy, if anybody's a computer tech out
+2:56 there, I'm pretty computer savvy, but
+2:57 I've got this thing that happens every 3
+2:59 or 4 days where some device just keeps
+3:02 disconnecting.
+3:04 Okay,
+3:06 back on track. So the first way of doing
+3:09 a style pallet tool that I think is
+3:10 intuitive is that you're working and all
+3:13 of a sudden you realize that you know
+3:15 you could make a tool and utilize it.
+3:18 And so from an object that you have
+3:21 placed in plan, then you could take that
+3:23 object and in your edit toolbar that's
+3:26 usually at the bottom of your screen,
+3:27 you've got this little icon right here,
+3:29 add object to style pallet.
+3:32 And so that would be one way of doing
+3:34 it.
+3:36 I will tell you as you get better at
+3:38 creating these, the more um I would say
+3:42 the more efficient way of doing it would
+3:45 be to do it just from a new library
+3:47 object. And so I'm going to show you
+3:49 that way to start. And before we even
+3:53 get too far into this, let me just say
+3:55 that I use this feature in a way that it
+3:58 wasn't originally um designed for. It
+4:02 was designed originally to be able to
+4:05 change kind of the look and feel of your
+4:07 project very quickly from, you know,
+4:09 modern to contemporary, traditional,
+4:13 etc. to craftsman. And so that you could
+4:16 save certain elements of windows,
+4:18 cabinets, and doors primarily um so that
+4:23 they can just be applied very quickly
+4:25 and and totally change the look of a
+4:27 room. A very novel idea.
+4:30 Fortunately, Chief left some settings in
+4:32 this that make it uh really kind of a
+4:35 powerful thing to become a tool or at
+4:38 least what I call a tool. So, I'm going
+4:41 to get to my library browser and I'm
+4:43 going to rightclick.
+4:45 Okay. And we're going to do new style
+4:47 pallet. Okay. So, simple as that. Right
+4:50 click your user catalog,
+4:52 new style palette. It's going to bring
+4:55 up a dialogue box.
+4:58 from here.
+5:00 And to talk about what a style pallet
+5:02 is, we're saving um we're saving
+5:06 parameters from objects so that they can
+5:09 be used in a scoping mode, meaning that
+5:13 we can um paint on those parameters.
+5:16 It's very similar to using like the
+5:18 object eyropper and then painting on
+5:21 those features to another object. taking
+5:23 some parameters from one object,
+5:27 spraying it onto another. The pace of
+5:29 this first part of this video, I'm just
+5:31 going to go slow for anyone that's new,
+5:33 anyone that's a beginner in the
+5:35 software.
+5:36 So, in this dialogue box, there is this
+5:39 section right here, objects and style
+5:41 pallet, add an object. So, we have the
+5:44 ability to add an object here. Now, to
+5:46 start, I'm going to make a tool where um
+5:49 I think what I want this tool to be is
+5:51 that I want it to be able to remove just
+5:54 the interior casing from the window.
+5:58 Okay.
+6:00 Now, the reason I like to do it from
+6:03 this dialogue is because when I make a
+6:08 tool, I often times want it to apply to
+6:11 multiple different object types. So it
+6:13 makes sense for me to go through this in
+6:16 this way because it's I'm just presented
+6:18 with these different object types that I
+6:20 can start working from. A lot of people
+6:23 will come at this from a different way,
+6:25 meaning that they've built out a
+6:26 project, they've done all these
+6:28 parameters that they like, and then they
+6:30 realize they should save it for later
+6:32 and then they are able to do that.
+6:34 you're able to go to to a previous
+6:36 project and save parameters from a
+6:38 previous project just by highlighting
+6:41 any of these object types and adding it
+6:43 to a style pallet.
+6:45 Now, what you notice here is style
+6:47 pallet can be applied to multiple
+6:48 objects from one tool. Pretty cool. So,
+6:52 I'm going to start with a window. As
+6:55 soon as I do that, it's going to pop up
+6:57 a dialogue box that looks very similar
+6:59 to a dialogue box for how you set up um
+7:02 either a single window or set up your
+7:04 window defaults. And so that's
+7:07 essentially what we're doing is we're
+7:08 setting up just the only thing that this
+7:11 does is set up the window parameter for
+7:13 this style pallet. It does not affect
+7:15 the project that you've opened up. In
+7:17 fact, you could do this without opening
+7:19 up a project. Okay. So, you could just
+7:21 do this right from the dashboard if you
+7:24 displayed your library and said add a
+7:26 style pop. So, here we go. I'm going to
+7:29 get into my casing panel and I'm just
+7:31 going to uncheck use interior casing.
+7:35 And let me press okay.
+7:39 Now, we get a line item in the list view
+7:42 of the style pallet specification box.
+7:45 And what you see here is this big gear
+7:48 icon. We hit that. This is where Chief
+7:51 Architect um has some pre-selected items
+7:55 here. They think that you want to use
+7:58 this window, be able to change the look
+8:01 of a window, not necessarily specific
+8:04 parameters. So, they're setting you up
+8:05 already to kind of, you know, what they
+8:07 think would be your defaults here. So,
+8:09 I'm going to hit clear all. I don't want
+8:11 those check marks. And instead, I'm
+8:13 going to search. And so, I'm going to
+8:15 search for a casing.
+8:17 And you'll see here that we've got a
+8:19 button at the bottom that could just say
+8:20 select found which is very convenient at
+8:22 times especially if you specifically
+8:24 typed in the exact property that you
+8:28 but this is also helpful for you to just
+8:29 target some things very so the only
+8:32 thing that I want for this tool is that
+8:35 oops is that I want this right here has
+8:38 interior casing set to false say check
+8:42 that box there go press okay now while
+8:47 From here, I'm going to do doors as
+8:49 well. So, I'm going to add an object. In
+8:51 fact, you'll see here there's different
+8:53 classifications. Interior door versus
+8:55 exterior door. So, do interior door. So,
+8:59 we're going to do the same thing. We're
+9:00 going to get into that casing.
+9:03 Uncheck use interior casing.
+9:08 Now for a door,
+9:11 I don't know if this would be helpful
+9:12 for you at all, but just do keep in mind
+9:16 there is in the general panel this
+9:18 separate trim and materials on each
+9:21 side. A door, even if it's an interior
+9:23 door, technically has an interior side
+9:26 and an exterior side. So you can make it
+9:30 so that you're removing casing from just
+9:32 one side, but you would have to check
+9:34 this box interior doors separate trim
+9:37 and materials on each side. When you do
+9:39 that, then when you get to the casing
+9:42 parameter, suddenly the use exterior
+9:44 casing is no long.
+9:48 So,
+9:50 um, another thing to note, I could leave
+9:53 it like this,
+9:56 and all that I'm saving is is use
+9:59 interior casing, true or false, but the
+10:02 style pallet tool wouldn't know that I
+10:05 separated trims and materials on each
+10:06 side unless I checked that box. I'll
+10:10 show you what I mean. I'm going to press
+10:12 okay. I'm going to hit the gear icon
+10:14 again on this interior door
+10:17 and we'll clear all
+10:20 back to here. Casing
+10:24 has interior casing. Here we go. Notice
+10:27 I'm not doing anything with has exterior
+10:30 casing doesn't apply here. Now that
+10:33 section that says has separate trim
+10:38 on either side, see
+10:41 is that even an available thing.
+10:45 So let me just type in separate.
+10:51 Oh, it doesn't look like it. There
+10:52 probably is that parameter so that you
+10:54 could set that up,
+10:56 but for now all I need is that has
+10:59 interior casing set to. Now I want you
+11:02 to note something at the bottom of our
+11:06 dialogue box here is this checkbox only
+11:09 apply properties to doors of the same
+11:11 type. Notice that I created a hinge
+11:14 doors type. If instead I had done like a
+11:18 garage door type,
+11:20 then when we try to use this tool, it's
+11:22 not going to remove casing from the
+11:24 interior side of garage. It would only
+11:27 excuse me. Um if we had this tool, it
+11:29 wouldn't remove casing from a hinge
+11:31 door. So in the same way that I have a
+11:33 hinge door set as as that object type
+11:37 only apply properties to doors of same
+11:39 type. I want to uncheck this. I want to
+11:42 make this tool so that it removes casing
+11:43 from any door type. So no matter what
+11:46 door type I use this on, it will remove
+11:49 casing side. So one more object. Add an
+11:54 exterior door. And we're do the same
+11:55 thing. Go a little faster on this one.
+11:58 Just just going to uncheck use interior
+12:00 casing. Press okay.
+12:03 Make sure that in that gear icon
+12:07 exterior door clear all.
+12:16 So has interior casing is set to false.
+12:20 And just as a last check, I can scroll
+12:24 through and check it out. Now, that's
+12:27 all done. That's it. I've got my tool. I
+12:30 want to name that tool up at the top
+12:32 here. By default, it's just named style
+12:34 pallet. I'm going to name it um remove
+12:39 casing tool. Why not?
+12:43 Remove interior casing tool. Even
+12:46 better.
+12:48 So,
+12:50 I want you to notice something. One made
+12:53 its way into my library. That's great.
+12:55 Now it's there. Notice that it's
+12:58 selected. So we're in a scope paint
+13:00 scoping mode. Um in plan view you have a
+13:04 marquee mode. You do not have a marquee
+13:06 mode in some kind of 3D view. So you
+13:09 could marquee around something and apply
+13:11 those parameters. I'm going to just go
+13:13 back to the select objects tool. I want
+13:15 to bring up a camera so that we can take
+13:17 a look at this. And we can see that
+13:19 there is in fact casing on my window. If
+13:22 I go back to that library item and click
+13:26 on that tool and hover over this window,
+13:28 we're in an object scoping mode. And so
+13:31 notice that when I hover over the
+13:33 object, it gets highlighted. If I'm in a
+13:35 room scoping mode and I hover over the
+13:37 object, does nothing. But if I hover
+13:40 over the ceiling, it gets highlighted.
+13:42 What does that mean? That means when I
+13:45 click on the ceiling, it's going to
+13:47 change any window or door that has a
+13:51 parameter that's um where it says this
+13:54 is the room that it is. Okay. And then
+13:57 you know this would be in a floor mode.
+13:59 So every single window or door on the
+14:01 floor or the entire plan. So I'm in an
+14:04 object scoping mode. Let me put a door
+14:06 here as well. Door here. Use this tool.
+14:10 I hover over this. Click. And look what
+14:12 happens. Removes that casing. Just like
+14:16 that. So now you have this tool that
+14:17 saves you time. You don't have to open
+14:19 up the dialogue box to apply this tool.
+14:22 You get to just click things as you want
+14:24 to. I'm going to undo a couple times
+14:26 just so we go back. And then I'm going
+14:28 to come um let me just tile this side by
+14:31 side real quick so we can see this. And
+14:34 get into this plan view here. And I'm
+14:36 going to change to that marquee mode.
+14:38 And watch this. I will marquee over
+14:40 these. And there we go. In the 3D view,
+14:43 they just disappeared. Let me hit undo
+14:45 just to show you that one more time.
+14:47 Drawing a marquee in plan view over the
+14:50 top of these fully I'm in a fully
+14:54 contained selection mode. That means
+14:56 everything that's fully contained in
+14:57 plan will have whatever that tool is,
+15:01 you know, it's going to affect be
+15:03 affected by that by fully containing
+15:06 those objects. So fully containing both
+15:08 those objects and it removes
+15:11 simple as that. All right. Now I want to
+15:15 just talk about some use cases and what
+15:17 else you could do with this because it
+15:19 ends up becoming a really powerful tool.
+15:21 But before I do um I want to tell you
+15:25 that you can actually add this tool to
+15:28 your toolbar so that it's used over and
+15:30 over again. In the cover art, if you
+15:33 notice the cover art for this, I
+15:35 actually have some icons. And those are
+15:37 icons that I drew. And so you can assign
+15:41 a tool from your library to a toolbar
+15:46 and even change the icon so that it
+15:48 looks the way that you want to. And it's
+15:50 a pretty simple process. You would right
+15:52 click on your toolbars somewhere.
+15:55 Maybe unlock them for the time being. I
+15:57 don't think that matters actually, but
+15:58 let's unlock them for the time being.
+16:00 I'm going to go to customize toolbars.
+16:02 That'll bring up this dialogue box. And
+16:04 I'm going to say place library. And
+16:08 we're going to see this little guy right
+16:09 here. Place library object.
+16:13 Place library object. I can just drag
+16:16 this. And I would not drag it into a
+16:18 blank space unless you want a completely
+16:21 different toolbar. We're looking at a
+16:24 toolbar configuration even though we
+16:26 call it toolbars often times. slang
+16:29 term, but we're actually looking at a
+16:30 configuration of tool bars. Okay, so if
+16:35 you want a new individual toolbars, drag
+16:38 this tool somewhere in a blank area. It
+16:40 will create a new toolbar. If you just
+16:42 want to add to a toolbar, kind of drag
+16:45 it and hover over the top of an existing
+16:48 tool and it will place it right in next
+16:50 of it. I didn't quite hover over the top
+16:53 of it to that existing tool. So, if I
+16:55 bring this kind of over here and more on
+16:57 top of it. Now, you're going to see that
+16:59 it didn't make that split. Let me just
+17:00 show you that again. If I brought it
+17:01 over here, it's going to disappear at
+17:04 this point. This
+17:06 out. But I brought it here. It's going
+17:08 to create this is now a new toolbar. We
+17:11 got into the toolbar panel. We would see
+17:14 there's a new custom place library
+17:16 object toolbar which you could rename.
+17:19 Okay. So, that's what just happened when
+17:21 I did this. If I drag this back and kind
+17:24 of hover over the top of this tool, it's
+17:26 going to put it in this toolbar. That
+17:29 custom place library toolbar disappear.
+17:33 This is in this toolbar. Right now that
+17:36 I've got that, I press close. The next
+17:38 time I click on this button, it's going
+17:41 to bring up a dialogue box and it's
+17:43 going to prompt you to link this tool to
+17:47 something in your library.
+17:50 So, it doesn't need to be your library
+17:53 either. You can link this to
+17:54 manufacturer library, some of the
+17:56 default core catalog stuff, anything.
+17:58 But I'm going to link it to this remove
+18:01 interior casing tool. Okay.
+18:04 Press okay. Now, it will try to
+18:07 automatically generate something based
+18:09 on basically what you would see as the
+18:11 preview in your library. So, that will
+18:14 um get you a button that looks like
+18:16 this. But here is where you have the
+18:18 opportunity to browse on your machine
+18:20 for something that you drew yourself and
+18:23 replace it with something that maybe
+18:25 sense for you. So I like to draw my own
+18:28 buttons so that they kind of inform me
+18:31 graphically what the tool might do.
+18:32 Right now this tool doesn't really tell
+18:34 me anything about what that tool might
+18:37 do. Doesn't really
+18:39 that's why I draw my own. So that's a
+18:42 really cool way of just getting this
+18:43 into your toolbars. Now, I already made
+18:46 a similar tool to this. And so, here's
+18:48 exactly how I view this is interior side
+18:50 is the bottom side. Exterior side is
+18:52 that top side. So, I made individual
+18:55 tools to add or delete sills and
+18:58 casings.
+19:00 And this is just my add back everything.
+19:04 So, you'll see some other tools that
+19:05 I've created here. This is changing the
+19:08 type that it is. So, I could quickly
+19:11 come into this and spray on this window
+19:14 and change that to a single basement
+19:16 window or this would be a single hung
+19:20 window.
+19:22 And keep in mind, you could use these in
+19:24 a 3D view as well. Simple as that. So,
+19:27 here's this add molding back. I'm also
+19:30 going to just change this to a double
+19:31 casement.
+19:33 Cool. And so some of these tools it
+19:35 might make sense for you to come in here
+19:37 and utilize that tool and that graphic
+19:39 to do other things. So or to spray on
+19:42 this door with that double casement tool
+19:44 or what looks like a double casement.
+19:46 Notice when I hover over this what it
+19:47 says double casement and double door
+19:49 painter. So I'm forcing a double door on
+19:52 this. Isn't that a really nice utility?
+19:54 So you're getting a couple of tools out
+19:57 of one thing. So, this is at the core of
+20:01 of the templates that I sell is I have
+20:05 what I call my kitchen tools and my
+20:07 architectural cricket. And it's these
+20:09 set of tools with all these graphics and
+20:11 they're organized and it just makes it
+20:14 so easy to draw in Chief Architect
+20:17 without really having to open up
+20:18 dialogue boxes. It kind of keeps you in
+20:20 flow. I love working in a 3D view. In
+20:23 fact, I love working in a 3D view uh
+20:26 with DLSS turned on because I've got an
+20:28 Nvidia card where it's just doing some
+20:30 live kind of rudimentary rate tracing.
+20:33 So, it's really easy to get in stuff
+20:36 like these cabinets
+20:38 where I've got three different cabinet
+20:40 types, but I could use one tool on all
+20:43 three cabinet types to quickly on
+20:47 microwave since case of double oven tool
+20:53 doing stuff like you know building in a
+20:55 really complex insert into the bottom of
+20:57 this. So, I've got a hood. So, it's just
+21:00 really nice to be able to stack these
+21:02 things. And if you think about it, think
+21:04 about it in terms of I'm applying one
+21:07 parameter. This tool doesn't circumvent
+21:10 or revert other settings. It's only
+21:14 affecting the one setting that it's
+21:16 built for. So I could use other tools in
+21:20 conjunction with the tool that I already
+21:22 used. This isn't some um static thing
+21:25 now. It's pretty dynamic. So I could
+21:27 come in here and I can close the tokick
+21:30 on these two. come in here. I can change
+21:33 them to cabinet feet if I wanted. Come
+21:36 in here and I can flush out the toe
+21:38 kick.
+21:40 Really, really easy to just go through
+21:42 this and change this very, very quickly.
+21:45 So, a really cool tool to build out. And
+21:48 then on top of that, you can save a
+21:49 bunch of parameters. One of my probably
+21:51 favorite tools because I realized how
+21:53 much time it was saving me or time and
+21:56 then maybe frustration is that um let me
+21:59 just put together and let me give you
+22:02 some ideas about tools you could make
+22:05 and you know I'm
+22:08 trying to keep these template Tuesdays
+22:11 as informative as possible and I'm
+22:14 trying not to sell um we already got a
+22:17 complaint that I was um um
+22:19 self-promoting on the channel where I
+22:21 don't allow anybody to selfp pro out on
+22:23 on Facebook, but uh um this is something
+22:26 where I think this market's kind of
+22:27 unique to me. I don't I don't really
+22:29 have any competitors in this market. So,
+22:31 I'm going to mention that I I have some
+22:33 tools available. So, this is part of my
+22:35 template package, but my kitchen tools
+22:38 in particular do something that I really
+22:40 really loved and and saved me a ton of
+22:43 time after I built them. Let me just
+22:45 build out an island real. Islands for me
+22:47 took a really long time to design. So,
+22:51 I'm going to just do a little multiple
+22:52 copy. Looks like I got six copies. So,
+22:54 we're just going to do 6 * 24. If you're
+22:57 curious what I just did right there, let
+22:59 me just show you that again. I selected
+23:01 a base cabinet. You can see the base
+23:03 cabinet tool is active right now.
+23:05 Selected a base cabinet. I used the
+23:08 multiple copy tool. The interval for
+23:11 this was set to six copies. Let me just
+23:13 make it four real quick. That means if I
+23:17 use this tool and drag out the center
+23:18 handle of my cabinet, it's going to drag
+23:20 out four copies. So, while I'm dragging
+23:23 out four copies, I hit tab or enter. So,
+23:27 was dragging it out. I was holding left
+23:29 click. I didn't let go of left click.
+23:31 Hit tab or enter and it brings up this
+23:34 enter coordinates. You have polar
+23:36 checked, it will remain checked. So,
+23:38 this will already be highlighted. So I
+23:41 can very quickly just say, "Hey, I got
+23:42 four copies times I know that they're 24
+23:45 in wide." There we go. So the cabinet
+23:49 tool is still active. You can see it
+23:51 here. So I could just shift marquee
+23:53 select and know that I'm only going to
+23:55 select base cabinets. And I could copy
+23:57 paste and reflect about center.
+24:01 Just going to show you that real quick
+24:03 about how fast this can go. I'm going to
+24:05 show you just how fast we can build out
+24:07 an island is. All right. Multiple copy.
+24:11 Drag this out. Hit tab. Four times 24.
+24:15 Hold shift. Draw a marquee. Copy. Paste.
+24:18 Reflect about. And now I'm going to use
+24:21 some tools. I'm going to say that in a
+24:23 marquee mode, all these cabinets back
+24:26 here are 12-in cabinets with a 12-in
+24:28 overhang. All those cabinets back there
+24:30 are full height single doors. All those
+24:34 cabinets back there are going to be a
+24:36 flush toe. All the cabinets in the front
+24:39 are going to be a
+24:41 closed toe. Okay. I'm going to make all
+24:44 those cabinets in the front be double
+24:46 doors.
+24:48 And maybe I'll make one that is a three
+24:51 drawer base. I'll make the end one a
+24:53 four drawer base. I'll make maybe a
+24:56 garbage pull out here. And I'll put a
+24:58 little tiny bar sink in bad boy.
+25:02 Okay. And then I'm going to change the
+25:05 color of all these cabinets.
+25:08 doing this. So, when we get back to here
+25:12 very very quickly, we've got there we
+25:15 go. Full height, single door, flush out
+25:18 toe, close toe on the side, different
+25:21 color, four drawer, three drawer, two
+25:23 drawer, garbage pull out, two drawer,
+25:25 and on top of that, let me just to the
+25:28 entire room make sure that there's some
+25:31 eased edge molding on the countertop
+25:33 that I could just assign a new color.
+25:36 Now, it doesn't need to be that I have a
+25:39 um that this color is the correct color
+25:41 for the island. What this just did was
+25:44 make it a different color than the rest
+25:47 of the cabinets, making it very easy to
+25:49 pick a color from the library and change
+25:52 this island to what I really want it to
+25:53 be without affecting all the other um
+25:56 cabinets. So, this is what makes these
+26:00 tools so powerful is that we didn't go
+26:03 into any dialogue boxes there, but we've
+26:05 got our island designed out really,
+26:09 really fast and efficiently, right? What
+26:12 are some other things that you can do
+26:14 with style pallet stuff? Well, you could
+26:16 change the style of it. Um, something
+26:19 that I like to do once I've got an
+26:22 object in my library is I like to
+26:23 organize it with a particular system
+26:25 that I built. And so the first thing
+26:27 that I want to do is I'm going to
+26:29 rightclick on this and I want to do
+26:30 search attributes. I want to give myself
+26:33 some other search terms that I might be
+26:35 thinking of in the moment when I'm in
+26:37 the middle of a design trying to find
+26:39 the tool that I built before. Okay. And
+26:42 before I even do that, I'll just show
+26:44 you how this search attributes feature
+26:47 works. Is I'm going to just type in uh
+26:52 RDQ.
+26:54 And that's a search parameter that I've
+26:55 put on some of my tools.
+26:59 Preview filter results here. So that got
+27:02 me to a bunch of tools very quickly. And
+27:04 so I'm looking for um a tool in
+27:06 particular so that I can that got me
+27:09 here just so that I can rightclick on
+27:11 this and say show in folder. So that's
+27:14 getting me to a folder that I wanted to
+27:16 get to very quick. So that's one thing
+27:19 about search attributes that's nice.
+27:21 Another thing about this that's very
+27:23 nice is if we group select
+27:27 a bunch of library objects. So let's say
+27:29 that you built out a tool to remove
+27:32 casing, a tool to put it back to remove
+27:35 casing on the exterior, a tool to put it
+27:37 back. Let's say you built out a bunch of
+27:39 tools. If you select all those tools and
+27:43 then rightclick and s do search
+27:45 attributes, this is what we get. We get
+27:48 this new dialogue box. I worked with um
+27:52 Jason Troy at Chief Architect a little
+27:54 bit. He designed this and uh I think it
+27:57 he did a really fantastic job. Now, this
+28:00 was a a good example for me to come in
+28:03 here and do because I need to clean this
+28:06 up. This isn't looking all that
+28:07 [laughter] great.
+28:08 So, what's great about this is that I
+28:11 can select just a couple of these tools
+28:14 from that first selection and then apply
+28:19 parameters that will be applied across
+28:21 all of those selections. So, if I hit
+28:24 the check marks here, now it's showing
+28:27 me that all of these objects now have
+28:31 that search parameter. All right. Now,
+28:33 let me go over here and just hit control
+28:35 A. So in control A I'm selecting
+28:38 everything. So now if I click on cab
+28:41 that's now saying all of these now have
+28:44 that search parameter. So if I were to
+28:46 type in cab in my search in my library
+28:50 it's going to bring up these tools. All
+28:53 right. That's a really powerful thing.
+28:55 So I want to make sure that tool is
+28:58 something that gets applied to all
+28:59 these. Want to make sure that cabinet
+29:01 gets applied to all these. And then a
+29:04 quick tool. I've named this several
+29:06 times. Now, I didn't need to have um
+29:10 quick quick tools, quick tools in there.
+29:12 Why? Because quick handles all three of
+29:15 these. So, that was back when I was just
+29:18 still kind of learning how the keywords
+29:19 work. And so, I would just tell you that
+29:22 because quick is part of tools. If you
+29:23 [clears throat] typed in quick, you
+29:25 would get there. So, I'm just going to
+29:28 delete these couple keywords and
+29:31 click to all these. So, this will make
+29:34 it really, really easy to in quick tools
+29:38 because I'm applying these parameters to
+29:40 everything. All right, let me press
+29:42 okay.
+29:44 Now, the next thing that I like to do to
+29:46 organize my tools once I've made them
+29:48 for style pallets is I like to
+29:51 distinguish between what is a tool or
+29:54 what I consider a tool that's going to
+29:56 be applied um as like changing a single
+30:00 parameter versus something that follows
+30:04 the original intent of style pallet
+30:06 which is changing the style of
+30:08 something. So, I'm going to get into
+30:10 tags. Now, in tags, you you're going to
+30:14 just have one tag. It's going to be
+30:16 favorites. And then you're going to have
+30:17 a um the ability to manage tags. So,
+30:20 you'd hit that. You'd get this dialogue
+30:22 box. And here's where you could put that
+30:25 plus icon to create a new tag. And once
+30:29 you've done that, there's a couple
+30:31 things you can do. And it would allow
+30:32 you, you know, you hit the plus icon and
+30:35 it's going to give you the ability to
+30:36 name some new tag.
+30:38 Then once you've done that, you could
+30:40 always rightclick on it to rename it or
+30:42 change its color. And notice I put a
+30:44 little prefix in there. This keeps it
+30:46 organized by category for me. So the way
+30:49 that I like to do this is these are room
+30:51 types coming straight from the software.
+30:54 These are mounting positions. If you've
+30:57 ever opened up a symbol and seen in the
+31:00 options panel or um the the from
+31:04 reference drop-down menu, it's either
+31:07 going to be from floor from ceiling in
+31:09 the options panel. Hey, this thing
+31:11 inserts into a countertop or it sits on
+31:13 a count countertop or cabinet or um it
+31:17 mounts to a wall, etc. So, those are um
+31:20 the parameters coming straight from the
+31:22 software. So, that's that prefix number
+31:24 one there. And then in the two section,
+31:26 this two, these are symbol category
+31:29 types. If you've ever brought in a
+31:30 symbol from out inside of Chief
+31:32 Architect like 3D Warehouse, you know
+31:34 that if you didn't use the import
+31:36 dialogue box, if you just dragged and
+31:38 dropped, it's going to bring it in as a
+31:40 symbol category fixture.
+31:43 You can always convert any symbol to
+31:47 another symbol. You can convert any mesh
+31:49 to a symbol. So these are the category
+31:51 types that you can use to convert to.
+31:53 And a couple of these are
+31:54 classifications like CAD, right? But or
+31:57 architectural block. That's a way that
+31:59 we could block stuff together.
+32:01 And then past that, then I have my own
+32:04 parameters. And then pass that. This is
+32:07 where I'm going to designate something
+32:08 as a tool versus style pallet object. So
+32:12 once I have these tags in place, and you
+32:14 can choose multiple tags for any object.
+32:17 Okay. So once I have those tags in
+32:19 place, then it's really easy for me to
+32:21 get to tools that I want in in the
+32:24 moment by just coming in here and
+32:26 saying, "Hey, I want a wall and then
+32:30 light and I want it to be interior." And
+32:34 it's going to get me to anything in my
+32:36 library that's a wall light that's
+32:37 interior, right? So those would be
+32:39 sconces, vanity lights, etc. So it's
+32:42 really fast and easy. and then you know
+32:45 just take out these parameters and that
+32:47 expands the search. There we go. So
+32:51 that's how I like to organize once I
+32:53 have a style palette. Now I'm going to
+32:55 click on this style palette tag that I
+32:58 have and show you style pallets in terms
+33:00 of what they were designed for. So got
+33:03 this Atoria kitchen style palette. So,
+33:06 if I were to click in the room mode into
+33:08 here, you're going to see that it just
+33:11 changed the look and feel of this room
+33:14 very quickly. It changed um the door
+33:18 type. It changed the hardware. It
+33:20 changed um you know maybe toekick or
+33:24 something like that. So, this just gives
+33:26 us the ability to very quickly change
+33:28 the style of cabinets in a room. Look at
+33:30 that. Isn't that neat?
+33:37 fast, super easy.
+33:40 Um, if you're in the feed and you're
+33:42 looking at this and you've got any
+33:43 questions, comments about style pallets
+33:44 and how you might use them and and how
+33:46 you might create some more robust ones,
+33:48 bring it up. Like I said, we've heard
+33:50 mentioned a couple times that they might
+33:52 bring in some style pallet tools, um,
+33:55 you know, some new features to them in
+33:58 the future. Let's go ahead and take a
+34:00 look at what a room style pallet might
+34:02 do because that's another thing that you
+34:04 can add. Um, and so let's get back to
+34:07 our let's get back to just our remove
+34:09 interior casing tool that we built
+34:11 earlier. And we can rightclick on it and
+34:14 open the object. And that brings us back
+34:17 to this dialogue box. So we could add an
+34:20 object. You're going to notice here
+34:21 we've got room. Notice in fact we've got
+34:23 base cabinet, wall cabinet, full
+34:25 cabinet, room, custom countertop, and a
+34:28 custom backspot.
+34:30 So in the room parameter, and that opens
+34:32 up rooms, there's some pretty cool
+34:35 things that we might be able to do with
+34:36 this. Let me just specify that this room
+34:38 is a kitchen. And let me press okay.
+34:42 And I'm only doing that because, you
+34:44 know, a room can change structure. It
+34:46 can change molding types depending on
+34:48 what you have in your default. So, now
+34:50 that the room is added to the style
+34:52 palette, let me open this up and just
+34:55 take a look. And this is what I like to
+34:57 do. This is just how I approach things.
+34:59 Um, I'm a lot of you that know a lot of
+35:02 my content know that I kind of like get
+35:05 to this reverse engineer where I'm
+35:07 trying to see how do they even come up
+35:09 with this? How does this work? So, um, I
+35:11 love to come in here and just look at
+35:13 parameters. So, background color, um,
+35:17 I'm not sure what you would ever use
+35:18 that for. So [laughter]
+35:20 you if you use this as a parameter, I'd
+35:22 love to know what that's for, you know.
+35:25 Um maybe it's just for a color overview.
+35:28 So I mean that could be cool. It could
+35:30 be a a quick and easy way of changing
+35:32 the background color. Yeah, I don't
+35:34 know. Um base moldings, I feel like that
+35:37 would be a really good tool if you just
+35:40 want to save base moldings for rooms. It
+35:43 just would make it so that you didn't
+35:45 need to be in a 3D view to change
+35:47 moldings. you could instead just change
+35:50 your moldings from a plan view. So if
+35:52 you knew you were going to like colonial
+35:54 style molding from, you know, um kind of
+35:58 a m modern molding, it'd be really easy
+36:00 to just go to your library, swipe it
+36:03 across the whole plan and know that you
+36:04 changed your base moldings.
+36:07 Um ceiling finish can levered underside
+36:11 material. So that's going to be your
+36:13 sophets from the exterior side. I'd love
+36:16 to check that out. I don't think I ever
+36:18 thought to to try that out, but that'd
+36:20 be kind of cool. Um, here's one that I
+36:24 feel like is a pretty impactful one,
+36:26 which is ceiling structure. And so along
+36:30 with ceiling structure, there is floor
+36:32 structure. And so that should give you
+36:34 some ideas about just how cool this tool
+36:37 can be. And when you do it utilizing
+36:41 rooms is that for floor structure, you
+36:44 could very very quickly change this to
+36:48 um to change this out to like say a
+36:50 truss floor where you know maybe for
+36:53 some builders or maybe for some regions
+36:56 you know that you're going to go with a
+36:57 24in truss floor um or you know that
+37:01 you're going to go with 14in TGI or
+37:03 something like that, right? So, that's a
+37:06 really cool tool. Um, especially if
+37:08 you're going to mix and match floor
+37:09 styles, you know, for the most part, I
+37:10 would just change my floor defaults,
+37:13 but I mean, that could that could get
+37:15 you there pretty quickly anyways. But,
+37:18 um, if you're mixing matching, right,
+37:20 especially if you're doing a remodel and
+37:21 you're tying in some new floor structure
+37:23 to an existing floor structure and it's
+37:25 a split level, like that's a pretty cool
+37:27 tool. I'll show you a great use case for
+37:30 that if I remember at the end of this.
+37:33 Um, someone in the comments remind me if
+37:35 I forget to show you, but I'm going to
+37:37 show you my parapit tool that I built.
+37:41 And so then, um, probably the most
+37:44 powerful one in here, let's just get
+37:46 down through here. Ceiling structure,
+37:48 chair, reel, moldings, uh, comment
+37:51 component code. Is this conditioned or
+37:53 not? I use this in area analysis. Um, so
+37:57 that I have a a bunch of schedules
+37:59 reporting, you know, how many square
+38:01 foot of conditioned versus
+38:02 unconditioned. So this would be a way to
+38:04 build a tool that could quickly take
+38:06 something out of being conditioned to
+38:09 unconditioned or vice versa. So I have
+38:12 that tool on my toolbarss. Um, notice
+38:14 that it is right over here. That's what
+38:16 this guy does right here. Uncond
+38:18 conditioned.
+38:21 So let's see.
+38:24 and then crown moldings custom fields
+38:28 for me if you are getting into if you're
+38:31 more of an advanced user I know we were
+38:33 talking to be beginning be beginning
+38:35 users start of this but if you're more
+38:37 of an advanced user and you're getting
+38:39 into macros
+38:41 um custom fields is one of the most
+38:44 powerful things for a macro driven
+38:46 workflow why because you don't have to
+38:51 do very specific macro language to do
+38:55 things like getting the inch markers or
+39:00 um or symbols
+39:03 and things when you're scripting. You
+39:06 don't have to do those uh same strict
+39:09 rule sets if you're using utilizing
+39:11 custom fields cuz custom fields is taken
+39:13 as a true text input for a macro. So,
+39:17 it's a really great idea to build macro
+39:20 systems in custom fields. And then it's
+39:22 a really great idea to uh create style
+39:26 pallets that the only parameter is that
+39:28 you're copying custom fields applying it
+39:30 to some new object. And so you can do
+39:33 some really complex conditional
+39:35 systembased things. Um
+39:38 that sounds really ambiguous. I probably
+39:40 should show an example of that, but
+39:42 maybe if we have time. Um, description
+39:46 is always a good one if for some reason
+39:48 you've got a really common annotation in
+39:50 your library and you want to apply it
+39:51 across multiple objects. That would be a
+39:54 good way of doing this. Um, again, that
+39:56 could get into macros where it's a
+39:58 conditional thing where you have a macro
+40:01 that says, "Hey, if a bathroom, we're
+40:02 going to put this description. If the
+40:04 room is a kitchen, we're going to put
+40:05 this description." Save it to style
+40:07 pallet tool. Swipe it ac across all your
+40:10 rooms. And then you just change just
+40:12 kitchens and just bathrooms description.
+40:14 Kind of cool.
+40:17 Floor ceiling group, floor finish.
+40:18 There's that floor structure we were
+40:20 talking about as floor. Um that's really
+40:23 just a quick swipe of just saying, hey,
+40:26 you know, some some room does not have a
+40:28 floor. Shows to the floor below. Means
+40:31 you don't have to change to the floor
+40:33 type open below. Um, one thing they
+40:37 don't have in here, which I've been
+40:38 bugging them forever, but apparently
+40:40 it's really difficult for them to
+40:41 script, is to change the room type. They
+40:44 do not have that in here. If you're on a
+40:46 previous version of Chief Architect that
+40:49 had the style pallet tool, you will
+40:51 notice that that parameter exists in the
+40:54 menu, but also note that it doesn't
+40:56 work. So, it's a big tease.
+41:00 as mono slab has raised floor uh has
+41:03 roof has shelf ceiling
+41:06 food in living area that's you know
+41:10 that's a really quick and easy tool to
+41:12 just say hey this room is just some
+41:15 custom room I built out here to
+41:17 represent a storage shed in the backyard
+41:19 and it should not be included in the
+41:21 living area bam you got a tool to just
+41:23 swipe that out including schedule this
+41:27 should make your ears perk
+41:30 you ever thought about it, right? Is
+41:32 that we've got so many objects that we
+41:33 put into Chief Arctic that we're
+41:35 building just to represent something um
+41:37 that's going to be built but doesn't
+41:39 actually need to report to some schedule
+41:41 and or just should not. So, uh including
+41:45 schedule is a great tool to add all
+41:47 object types and then make sure all of
+41:51 those object types has the parameter of
+41:53 it's not included in schedule and then
+41:55 save it to a style pallet tool. And that
+41:58 is your schedule blocker tool.
+42:03 Um,
+42:04 you can change a room name. It's just
+42:07 not going to change the room type,
+42:08 unfortunately.
+42:10 And then patterns. Um, some people don't
+42:13 know what a roof group is. Roof group is
+42:15 a way to get the automatic uh build roof
+42:17 directives to um build one roof group
+42:22 separate from another. So if you've got
+42:24 two joined rooms, you can have it them
+42:28 be completely independent roof types. If
+42:31 you change the roof group number, same
+42:33 thing as if you change the slab pore
+42:36 number, you can have foundation build
+42:39 separately for one slab port versus the
+42:41 other. And then um other than that,
+42:46 let's see, schedule categories.
+42:50 That's interesting. I don't know that
+42:52 I've ever noticed this before. Schedule
+42:54 categories.
+42:57 Might have to go play around with that.
+42:59 Wait, what if we could change room type,
+43:01 but they just called it schedule
+43:02 categories.
+43:06 Yeah, let's check this out real quick.
+43:11 I'm going to clear all check on schedule
+43:15 category unspecified. We'll press okay.
+43:19 Okay. And then I'm going to I'm actually
+43:22 going to update that um and show you how
+43:26 how interesting this style palette tool
+43:28 is. They built it out to be really
+43:29 robust. So I'm going to open up this
+43:31 room and I'm going to change it to
+43:34 kitchen.
+43:36 And then now that I've got kitchen,
+43:40 I'm going to
+43:44 um I'm going to click on that add object
+43:47 to style palette. Okay.
+43:51 And I'm going to say add to existing.
+43:55 What is this doing? It's taking
+43:58 um this room as it is right now and it's
+44:01 updating an existing style palette. And
+44:03 I'm going to show you how this works
+44:05 because it's very clever is there we go.
+44:07 This is the style palette. I already
+44:09 saved the room and it was unspecified as
+44:12 a room category. So when I press okay,
+44:15 it says, you know, you're about to
+44:17 overwrite something. I'm going to press
+44:18 okay again. If I were to go look at this
+44:21 room, look at the schedule category.
+44:24 Still says room unspecified. It should
+44:27 have been updated if I had changed this
+44:29 to kitchen, which did I do that? I
+44:32 thought I did.
+44:36 Yeah, the schedule category is still
+44:38 unspecified for some reason. Include and
+44:41 schedule as. Maybe I need to just select
+44:43 this. So, include in schedule as
+44:45 kitchen. Now, let me try it again. Add
+44:48 object to style. Add to existing. And
+44:51 I'm going to find that remove interior
+44:53 casing tool. Override it. And if I were
+44:56 go look at this, it does in fact seem to
+44:59 have changed some parameter. We don't
+45:01 know why it's not showing. So,
+45:05 not sure. But if I were to come in here,
+45:08 let's just see if it works. I'm going to
+45:10 say that this is an addition instead
+45:13 kitchen.
+45:16 Let me press okay.
+45:18 And if I use this tool, spray it on this
+45:21 room. Look at it again.
+45:24 What did it do? It took it off of
+45:26 addition, put it on kitchen. So, it does
+45:29 add this um very quickly as that
+45:33 schedule category. I guess that's kind
+45:35 of cool if you need to report something
+45:38 as a different category. If you're
+45:39 making a tool out of cabinet um and you
+45:42 wanted to report as a fixture, use it as
+45:45 a style pallet to spray it very quickly.
+45:48 Here's another way I could have updated
+45:50 that tool.
+45:52 I could right click on the tool in the
+45:54 library, open the object,
+45:57 and for room, this is not the only um
+46:04 parameter that we can adjust. We can
+46:06 adjust the room here as well.
+46:09 can open this up. It's going to bring
+46:10 this dialogue box up and then I can set
+46:13 this back to whatever I wanted. So, you
+46:16 can either update something by bringing
+46:19 it from the plan, adding to an existing,
+46:22 or go back to the original style pallet
+46:24 tool and just open up the parameters and
+46:26 set them the way you want.
+46:30 Okay, I see in the comments, uh, what
+46:32 would be an example of custom fields?
+46:34 Um, I'll show you. My stuff is um pretty
+46:38 robust in a number of different ways.
+46:40 And so
+46:42 um what I will show you is
+46:46 just going to build out whole little
+46:49 room over here. In fact, I'm going to
+46:50 build out
+46:53 a little junior ADU. Look at that.
+46:57 So I'm going to say that this is an
+46:59 addition in this case.
+47:04 So, I have a bunch of um macros in my
+47:10 default rooms in my template plan. And
+47:13 so, these are in the object information
+47:16 panel of any object. We have um
+47:21 our custom object fields. That's not any
+47:23 object. There are some objects in Chief
+47:25 Arctic that do not have that panel. And
+47:28 so, you can create a custom field here.
+47:31 Just please note across everything in
+47:34 your plan all of these object fields
+47:37 will exist which is why I don't give
+47:39 them specific names because I can use
+47:42 them in different ways depending on the
+47:44 object. So macro input one you're going
+47:47 to notice this is my room. This is my
+47:50 room's object information panel. So
+47:53 you'll notice that I'm somehow
+47:54 calculating all space area. And if I
+47:58 drill down through here, I'm also I'm
+48:01 calculating conditioned area. I'm doing
+48:03 existing coverages. I'm doing percentage
+48:05 of coverage. So I'm applying a bunch of
+48:08 things here. Okay. If I were to go look
+48:11 at the schedule that this is building,
+48:13 you can see that this is building out
+48:15 some area analysis. So it's building out
+48:17 some calcs. This is coming right from my
+48:20 plan. If I were to go put this side by
+48:22 side, I want you to notice here the
+48:25 numbers, right? We'll just take a look
+48:27 at these numbers. And then on this side,
+48:31 I can use a tool that's attached to my
+48:34 toolbar
+48:35 that is a style pallet where the only
+48:39 parameter might be is conditioned. And
+48:43 so I'm going to use that tool. That's
+48:44 this one right here, unconditioned
+48:46 painter. So if I were to hover over
+48:49 this, notice unconditioned area is 925.
+48:52 If I hover over this and click on this,
+48:56 look at this. It just upped my
+48:58 unconditioned area. I have another tool
+49:00 that makes it conditioned that right
+49:02 back. I have a tool that says, hey, this
+49:05 is not coverage. So, we see new coverage
+49:07 right here, 355. I'm going to say, hey,
+49:09 that's not coverage. We go zero. So that
+49:13 would be a way that you're taking some
+49:16 kind of macro parameter in custom fields
+49:19 where it's looking at some conditions
+49:21 and adjusting accordingly. So um I build
+49:25 calculators in that way. So what you
+49:28 would see you know for example is if I
+49:30 switched to a roof view and I clicked on
+49:32 this roof and I open the schedule we're
+49:34 going to see that it's building out my
+49:36 attic area and netfree area stuff. This
+49:39 is my um ventilation calculator for
+49:43 example. So this would be a combination
+49:46 of using a rooms object information
+49:49 field custom fields and reporting it.
+49:53 Remember that custom object fields can
+49:55 report to schedules. Also remember that
+49:58 any column to include in a schedule and
+50:02 be renamed to whatever you want. So in
+50:05 the columns rows, these individual
+50:08 things here, if I were to reset the
+50:10 name, you're going to see, look, that's
+50:12 that generic macro input,
+50:16 right? These are my custom object
+50:18 numbers
+50:20 that I've just renamed according to what
+50:22 I needed. So, I use them for different
+50:24 things depending on
+50:33 uh reminded difference between a patio
+50:35 and porch. You know, if you're ever
+50:36 curious about what the difference
+50:37 between different room types are, you
+50:39 can always come into floors and rooms in
+50:41 your default settings. Okay? And I'm
+50:45 just responding. We got a little live
+50:46 chat here. You can see this right here.
+50:48 So, um please remind the difference
+50:50 between patio and porch. So you can come
+50:53 into default settings, room types, and
+50:57 then you can come in here and look for
+50:58 yourself. So you'll see on a patio, this
+51:01 is going to, if we expand this dialogue
+51:03 box very quickly, we're going to see
+51:05 that a patio has what? Mono slab and
+51:09 some kind of ceiling structure. Okay,
+51:11 that's patio. On a porch, what are we
+51:15 going to notice? We are not actually on
+51:17 a monoslab. We're on a 4 in concrete
+51:21 base, but this is going to build stem
+51:23 wall up to this. Okay, so it's not
+51:26 they're considering that a porch is
+51:28 probably elevated versus a patio. Patio,
+51:31 they're thinking it's going to be right
+51:32 at grade, so you're going to pour them
+51:34 on a slab. Porch, they think that you
+51:36 might be, you know, 1 to 4 in just below
+51:38 your door line. And so this is going to
+51:40 be a stem wall construction if you're in
+51:42 a stem wall um [clears throat]
+51:44 project. And so that would be the
+51:46 difference between porch and patio.
+51:49 And um someone on [clears throat]
+51:51 another live call the other day, okay,
+51:52 then what's a balcony? That's just again
+51:55 4 in
+51:57 um floor structure and then no ceiling
+52:00 on that.
+52:06 All right, we got about 8 minutes to go.
+52:10 Anybody have any anything else they want
+52:12 me to cover on this one? I knew this was
+52:14 going to be a short show because even
+52:16 though style pallets seem like a
+52:20 daunting thing and when you actually get
+52:22 into it, they're pretty simple to make,
+52:24 but I do think it's helpful to see
+52:26 someone go through it, see exactly.
+52:34 Um, just tying back into this question
+52:37 about what would be an example of custom
+52:39 object fields, you can always kind of
+52:41 try something. Um, if you get into the
+52:45 Ruby tutorial to try to start learning
+52:48 how to script in Ruby, um, the Ruby
+52:51 console and then we have a text macro
+52:53 management console. But if you select
+52:57 something in your plan like this door
+53:00 for instance, you can get into the Ruby
+53:02 console which is a um non-modal window.
+53:06 It will um it does not block you out
+53:10 from utilizing the software while this
+53:12 is open. So you could say owner.names
+53:15 names
+53:17 and this will give you all of the
+53:19 parameters of a door which there are a
+53:22 lot of parameters for a door and so you
+53:25 could say hey rough
+53:28 opening total width I'm going to grab
+53:31 that and let's just say owner do
+53:35 rough opening total width and it's going
+53:37 to tell me 38 in. So I took rough
+53:41 opening total width. All right. Right.
+53:43 So, I'm going to copy that again and
+53:44 show you how I could utilize this is can
+53:47 open up this door
+53:50 in the object information panel. I could
+53:53 say this. I could say create a new field
+53:56 adjusted
+53:58 rough opening.
+54:01 I want to format this as a number in
+54:03 this case. Press okay. I'm going to say
+54:08 this. Going to put an opening and
+54:09 closing percentage sign. Notice that
+54:12 there's an exclamation mark. This is
+54:13 letting us know that so far this is not
+54:15 producing a number that is either a
+54:17 float or a measurement.
+54:19 I'm not going to explain what that is,
+54:20 but or an integer. Um, but you could
+54:24 look those up. Those are going to be
+54:25 Ruby terms except for measurement is
+54:27 Chief's internal method that they built.
+54:30 So, if I were to paste in rough opening
+54:32 total width, notice the exclamation mark
+54:34 disappears. This is being recognized as
+54:37 a valid macro.
+54:39 Hey, this is reporting this to that
+54:41 custom field adjusted rough opening. Why
+54:44 did I put adjusted? Because I could say,
+54:46 hey, plus two. Okay, plus two. And um
+54:52 out of the box, this is what's called a
+54:54 measurement class.
+54:56 And we can't add numbers to a
+54:59 measurement unless it was um
+55:03 um unless the two was formatted as a
+55:05 measurement. So instead I'm going to
+55:08 format this to a float. So this would be
+55:11 something that would be a first step of
+55:13 learning is that you can convert
+55:15 something from a string to a float.
+55:17 Float would be a number in this case.
+55:19 The rough opening opening total width to
+55:22 a float. And I'm going to add two. Right
+55:25 now, when I press okay and I go look at
+55:28 this schedule, I go open this schedule
+55:32 and I look, look, there's that brand new
+55:35 custom field I put in there. I want to
+55:37 add that to my schedule. Let's move it
+55:39 up to the top so we can see it.
+55:44 So, right at the top here, there's that
+55:47 rough opening adjusted width. So, my
+55:49 rough opening was 38 and I added two.
+55:52 So, this would be a way that you could
+55:54 do this really cool, you know, very
+55:57 unique calcs.
+56:00 So, what do we have here? I've got a
+56:02 question.
+56:04 Um, oh, working on an 8plex. How do I
+56:08 show all units
+56:10 coverage separately? I would definitely
+56:12 build an 8lex out into um different
+56:16 project plan files. In case you didn't
+56:19 know this, let's just take for example.
+56:23 I'm going to duplicate this. Okay. So,
+56:26 I'm going to make a copy.
+56:29 Going to make a copy of this. There's
+56:31 that copy.
+56:33 And
+56:35 let me pull a little 3D camera view.
+56:38 And so, I'm drawing
+56:40 that house in the same exact XY. Right.
+56:45 I'm going to turn on my change floor
+56:47 reference. So, you ever see this guy
+56:50 right here, your floor number, you click
+56:51 on that change floor reference,
+56:53 especially in a 3D view. And I'm going
+56:55 to choose an existing plan to reference.
+57:00 I'm going to choose that copy I just
+57:03 made. Right now,
+57:06 I've done that. Now, I'm going to edit
+57:08 the offset of that copy. This is going
+57:11 to give me a selection marquee with an
+57:14 edit handle. And so I want to move this
+57:17 over exactly 50 ft.
+57:22 So what is this showing me? That's
+57:24 showing me the copied plan referenced on
+57:27 the same view. Now if I were to go back
+57:29 to that change floor reference and
+57:30 change this to standard, it's actually
+57:33 going to render this in physically
+57:35 based, believe it or not.
+57:38 So this would be me referencing. So, you
+57:40 know, you can build out your Apex this
+57:42 way where you've got individual,
+57:44 you know, buildings. And so, maybe
+57:46 that's helpful.
+57:49 Let's see what's our next thing.
+57:52 You know, just two stars. Gotcha. Um,
+57:55 how to save my toolbar when updating
+57:58 your pro plan. So, you want to keep a
+58:00 toolbar that you've built. I would make
+58:02 a copy of your toolbar and then that way
+58:05 you've got a renamed toolbar and that
+58:07 way when you come in to import my new
+58:09 toolbars that you're not overwriting
+58:12 that toolbar. If you're saying that you
+58:14 want to save a custom toolbar that
+58:15 you've built. Um so make a copy. My
+58:18 toolbars will only overtake toolbars
+58:21 that it is the same name of.
+58:24 That would be a way to do that.
+58:28 We're right on the mark. 10 o'clock.
+58:30 It's time for me to go make some money,
+58:31 do some other things. Um, if you didn't
+58:34 know it, you know, a lot of you are
+58:35 coming to this from the Users of
+58:38 Facebook group on uh well, users of
+58:41 Chief Architect on Facebook. And um if
+58:45 you're coming to this straight from
+58:46 YouTube, maybe you should know that
+58:47 there is a group that we've got built
+58:50 specifically for this. Hey, users of
+58:52 Chief Architect. We've almost got 16,000
+58:55 members. This is where I post this
+58:57 event. I also post this event in my
+58:58 YouTube live. Another group that I have
+59:01 that you might not know about is called
+59:03 the rabbit design feed. Okay. And here's
+59:07 where I post some kind of more advanced
+59:11 things, sometimes some easier things,
+59:13 but I talk about development, I talk
+59:15 about business strategy, I talk about
+59:17 art, I talk about all kinds of stuff
+59:19 here. So, if you didn't know it, um I've
+59:21 been working on ways to get library
+59:23 items into Chief Architect, but just a
+59:27 couple different groups you can go check
+59:29 out if you didn't know that. And then
+59:31 I'll just mention um a few groups that I
+59:33 actually really like. I have an
+59:35 architecture and design uh information
+59:38 and AI group. Um I'm trying to I'm going
+59:41 to be trying to build out this group.
+59:43 The content right now is a little all
+59:45 over the place. We're going to make it a
+59:46 little more directive coming up here
+59:48 pretty soon. It's got 6.6,000 members,
+59:51 so it could be an active community if we
+59:53 start hammering this thing with useful
+59:55 information. And then one last thing
+59:58 I'll mention is I love the um I'm not an
+1:00:02 admin of it, but I love the
+1:00:06 residential design professionals group.
+1:00:09 That's a really good one. Like the
+1:00:11 community here. And then um if you want
+1:00:14 to be entertained by a bunch of
+1:00:17 architects, the Entree Architect
+1:00:20 community. There we go. And then that's
+1:00:23 it. I'm going to shut this down. Thank
+1:00:26 you all for watching. Appreciate it.
+1:00:28 Appreciate you being here.

@@ -1,0 +1,1356 @@
+---
+videoId: xlsl7Zev2nA
+title: Chief Architect Q&A  - Designers Show #132
+url: "https://www.youtube.com/watch?v=xlsl7Zev2nA"
+status: imported
+---
+
+# Transcript
+
+0:00 and here we go hey everyone welcome to
+0:02 the designer show um I'm online with
+0:05 John and Robin and hi you guys everybody
+0:10 not sure Kevin and Renee will be joining
+0:12 us so if they pop in awesome uh that's
+0:16 how we roll here we just uh what it
+0:19 works for everybody we you know things
+0:21 happen so uh anyway uh welcome welcome
+0:25 it's nice to have everybody on the show
+0:27 again uh I've been away for a little
+0:28 while doing some uh summertime things
+0:31 which has been really fun taking a
+0:34 little time off last week I was at a
+0:38 wedding I've had lots of things going on
+0:40 it's been a busy summer can't believe
+0:42 it's August already can you believe
+0:46 that anyway on the upside it' be fun we
+0:49 could see each other again at the end of
+0:51 the month here so yes in person so
+0:54 that'll be fun at the cordan the event
+0:56 in
+0:57 cordan all right um what time is it in
+1:01 New Zealand yeah what time is it in New
+1:03 Zealand hey Jared hi Jared hey Jared how
+1:06 are you Jared's in Seattle that one's an
+1:09 easy one but New Zealand gosh is that
+1:12 must be midnight there I don't know I
+1:14 don't know the time zone isue whatever
+1:16 time it is Welcome to our show welcome
+1:18 yes so uh we don't have any specific
+1:23 topics today we have it's kind of like
+1:26 open form you guys get to ask questions
+1:29 um if you don't ask questions we'll just
+1:30 blather about the weather
+1:33 so or not we'll talk about something
+1:35 cheap
+1:36 AR am oh Norman is dedicated 5 AM
+1:41 tomorrow morning well Norman that's it's
+1:43 Norman the guy with the fish picture um
+1:46 yeah he has he's always holding a big
+1:48 fish so
+1:49 Norman anyway hey Chad hi Doug all right
+1:53 cool it's so nice to see everybody okay
+1:56 we start with a joke today right is that
+1:57 the new thing that's the new thing all
+2:00 right Robin I understand Robin I
+2:02 understand you have a joke for us today
+2:04 yeah it's as long as I don't laugh it's
+2:06 fine so it's my favorite joke what did
+2:09 the skeleton order when he came into the
+2:12 bar I don't know what did the skeleton
+2:14 order when he came to the bar thank you
+2:17 a beer and a
+2:21 mop it's my favorite joke it always
+2:23 makes me giggle Hey Kevin how are
+2:26 you I'm glad I got here in time for your
+2:29 favorite yeah my favorite silly
+2:33 joke and there's Renee hi Renee oh wow
+2:36 glad to see everybody could make it
+2:37 today hey you guys hey everybody it
+2:40 close typical designers to cutting it
+2:43 down to the last second and finally
+2:45 getting it done all right oh Chad wants
+2:48 to master the material
+2:52 list yeah good for good for
+2:57 you so Chad has probably some of the
+3:00 most beautiful drawings ever it is
+3:03 amazing his drawings he Chad comes to
+3:06 our um Chief our Summit every year and
+3:09 for those of you who haven't who are
+3:11 still on the fence there are some
+3:13 openings still available but Chad's
+3:15 drawings are so beautiful it is they're
+3:18 work of art they are definitely works of
+3:20 art that means it takes them too long
+3:24 yeah
+3:25 well it's cuz you're right he makes them
+3:28 so beautiful to me aming hi John hi
+3:31 everybody so if we took the time to to
+3:34 learn material list and so that we could
+3:36 get good enough to teach it how many of
+3:38 people on the call would want to learn
+3:40 more about materialist so they could use
+3:43 them that's a good
+3:46 question I have been doing a little
+3:48 materialistic stuff of late uh just
+3:52 getting some counts on sheating and
+3:54 stuff like that
+3:56 and can we do a can we put together a
+4:01 is there a way to you can do a poll you
+4:03 can do a poll yeah so so here's what I
+4:06 tell people that want to train on
+4:09 materialists um if you want to just do
+4:11 some takeoffs on a few things great yeah
+4:14 we can teach the materialist that's a
+4:16 great tool if you want an accurate
+4:18 takeoff on your entire building in the
+4:21 last 10 years I've maybe made one
+4:24 accurate model it takes 30% more time at
+4:29 that cost cost I'd rather just pay a
+4:31 framer to do the
+4:33 takeoff
+4:35 well but Renee you're doing one offs too
+4:38 if you're if you're doing like
+4:40 subdivisions and things like that where
+4:42 plans just change a little bit yeah now
+4:45 now that
+4:47 they but can we can we also talk about
+4:49 liability I'm a designer I'm not going
+4:52 to put together the material list I want
+4:54 the contractor to do their own I don't
+4:56 want that liability I think the same
+4:58 disclosure that a lumber yard does they
+5:00 don't guarantee the lumber package
+5:02 either so yeah I would say John has the
+5:05 perfect use case if if you're doing
+5:07 remodels if you're doing additions even
+5:08 if you're doing new construction oneoff
+5:10 custom new construction I don't really
+5:12 see um the materialist as a viable
+5:15 option I just I would advise against it
+5:17 but if you're doing subdivisions if
+5:19 you're doing stock plans and that's part
+5:21 of the package then yeah or even
+5:23 sometimes just if if you've got a if
+5:26 you've got
+5:27 a um
+5:31 B you're doing semic custom homes too
+5:34 like you say your sighting is always
+5:35 going to be this your framing is all
+5:38 always going to be this you're always
+5:39 going to use this set of cabinets these
+5:40 light fixtures and things like that yeah
+5:43 but the customer might want to change it
+5:45 you know change it from this this light
+5:47 fixture to this light fixture right you
+5:49 can change that pretty fast and if you
+5:50 have it set up already it's going to
+5:52 give you an I'm of the mindset of using
+5:55 material lists to help you with your
+5:58 takeoff so I'll print you know I'll open
+6:00 Chief's material list and I'll do a
+6:02 count on anything with an area is going
+6:05 to be pretty accurate flooring sheathing
+6:07 siding Roofing that kind of stuff but I
+6:10 don't have too much trouble with that
+6:11 those sorts of things and those it's can
+6:13 save you a ton of time um you know and
+6:16 you can even add a little percentage
+6:18 more if you want to right on Chiefs
+6:19 material list but yeah to do a complete
+6:21 takeoff that I find that be a little
+6:24 little tough I I'm more interested in
+6:26 doing a super accurate plan that
+6:28 includes all the information that you
+6:30 need that anybody that knows how to do
+6:32 materialist could take off no no problem
+6:35 in minutes so um so that's my goal and
+6:40 you know good Dimensions good you know
+6:43 and I like doing 3D framing I'm the kind
+6:46 of guy that I pretty much do that on
+6:48 every project I do because I'm you know
+6:50 it's not hard it's not hard to do if you
+6:51 have a good model and um I think it's
+6:56 worth its weight and gold when you can
+6:57 look at the 3D Framing and see how
+6:59 things line up you could tell you can
+7:01 count the studs right off the screen um
+7:04 you know not exactly a recommended way
+7:06 to do it but again I wouldn't do it that
+7:08 way yeah I it's what I do I'm good at it
+7:11 I've been doing it forever you know I've
+7:13 got 20 years of building Contracting
+7:14 experience can I ask this question
+7:16 though is how many framers actually
+7:18 follow your framing plan exactly most of
+7:21 the time they go yeah I'm putting a wall
+7:23 here leave me
+7:24 alone yes or no uh it depends on the
+7:28 project if it depends on a lot of things
+7:31 I just do them because they're easy to
+7:33 do right again you've got a good
+7:35 accurate 3D model of the project filling
+7:37 it in with the framing it's 15 20
+7:41 minutes half hour depending on the
+7:43 project of course but for lining up
+7:44 bearing points for line examining things
+7:47 that are just have questions about
+7:49 structure how it's going to hold itself
+7:51 up I think they're
+7:54 invaluable this note about Doug from
+7:57 Doug Norton yes is a note it's a really
+8:01 good note the thing that I tell people
+8:04 is that notes don't keep anyone from
+8:07 calling me and I don't want the call I
+8:12 won't offer the that service so you know
+8:15 and and that's me I don't want the call
+8:18 I don't want people calling me doesn't
+8:19 matter what disclaimers I have on my
+8:21 document that's why I don't put
+8:23 renderings in my documents I don't want
+8:25 the phone call to say hey how come
+8:27 something's out of place in it's
+8:28 rendering
+8:30 yep I agree with you you right it's up
+8:32 to you guys on what you Ethan Ethan just
+8:36 volunteered to be on one of our shows it
+8:38 looks
+8:39 like yeah well that would be a lovely
+8:42 day with with Ethan hanging out with him
+8:44 and having him on the show would be a
+8:45 lovely opportunity for us all yes there
+8:49 was some comments about something to
+8:51 work on and um designer X made a comment
+8:54 about doing a double sill plate with 2
+8:56 by eights and then an upper sill 2 by6
+8:58 flush on easy peasy open up the framing
+9:02 cuz two people asked about doing a
+9:04 double plate go to Sals uncheck this
+9:08 you're not sharing your screen oh yeah
+9:10 John Share my screen with you that would
+9:12 help oh there you go we're not awake yet
+9:15 thank you um and uh so again click on
+9:18 the window or door window and then open
+9:22 it no no no no huh they're talking about
+9:25 the bottom of the wall bottom of
+9:28 theall not the sell plate well excuse
+9:35 me that one I don't think you can do um
+9:38 can we you can't I don't think you can
+9:40 change it you can do a double but you
+9:42 can't make it one 2 by eight and one 2
+9:44 by
+9:45 six yeah oh well hold on yeah they
+9:49 wanted the double seill plate to be a 2
+9:51 by six and then the upper seill to be oh
+9:53 that's right 2 by8 and a 2x6 with the
+9:56 2x6 flush on the inside okay you'd have
+9:59 to just do a cad drawing right I mean
+10:03 well if it were me I do it manually
+10:05 probably do it with a furring
+10:07 wall what would what would be the
+10:09 purpose of that what's the use case of
+10:11 having that situation yeah that would be
+10:14 a good
+10:16 question that was uh designer X asked
+10:19 that question designer X what's the use
+10:21 case for
+10:25 that yeah again AR just handle this with
+10:28 the detail
+10:30 yeah yeah with a cad line right with a
+10:32 cad you just have to create your wall so
+10:35 that it takes up the
+10:37 space this is why I only do details for
+10:39 sections like he burns
+10:44 so you know when you're doing sections
+10:46 in
+10:47 Chief uh through a 3D model and you want
+10:50 to show that well then you'd have to add
+10:52 that detail to the wallet so okay
+10:54 explain to me what zip R I know R six
+10:57 has got to be insulation but what's zip
+10:59 what is that that's a zip wall zip
+11:00 sheathing it's um oh got it what's the r
+11:04 six for we're talking about something
+11:05 that's that's uh
+11:08 what you can buy zip panels now with
+11:11 insulation specific zip okay so a zip
+11:14 panel that is an R six yeah okay so he's
+11:17 looking to do a seal plate on the bottom
+11:19 well let let me just show you a way to
+11:22 do that um possibly do pony wall yeah
+11:26 pony wall that's what I'm thinking yeah
+11:28 but if you just want to show that in
+11:30 your framing um you just click on a
+11:34 wall open its
+11:37 dialogue and um here's how if I wanted
+11:41 to show it in 3D here's how I would do
+11:43 it possibly I'm going to draw a line
+11:45 through here and I'm going to trim out
+11:46 my studs here okay I'm G to add another
+11:52 plate you know copy oops I missed my
+11:57 snap there um
+12:00 again this is the long way around it's
+12:02 one wall at a time you could click that
+12:04 bottom wall then and make it a 2
+12:07 by8 um okay just by changing it and then
+12:11 I'm just going to extend my stud delete
+12:13 that line and extend my studs back down
+12:15 so it it's a way to do it not it's
+12:21 manual not a super easy I'll away for
+12:24 this and I can show it in a little bit
+12:26 yeah but there's let's see if it worked
+12:29 yeah so there's my plate my plate
+12:31 centered on the thing so I would need to
+12:34 adjust that you know I need to do the XY
+12:36 one way or the other I once I calculate
+12:39 that it wouldn't be hard to do I would
+12:41 have to move it over half of the
+12:42 distance of the of the plate I'm
+12:45 assuming you're wanting to do the plate
+12:47 because
+12:49 um uh like that because you want
+12:53 your
+12:54 [Music]
+12:55 um your zip panel with the sheathing to
+12:58 rest on the 2 by8 and then nail at the
+13:01 bottom here that's I'm assuming his last
+13:03 comment defines that and and that is
+13:05 correct he wants the zip to sit on that
+13:07 plate so that would be a way to do it
+13:09 into you know so then it would be part
+13:11 of your cross-section when you add that
+13:14 to your you know when you're doing your
+13:16 sections through your model
+13:18 so probably move it right here too so um
+13:23 the nice thing about oops I do it the
+13:25 other way I guess this there you go so
+13:28 now that's going to be sticking on the
+13:29 right side you're sheathing and rest on
+13:31 top of that anyway okay Renee have at it
+13:33 show us what your solution would
+13:35 be um I just have a pony wall here and I
+13:38 mean you got to get rid of the little
+13:40 insulation cross box because it's going
+13:41 to show that this is insulated but um
+13:45 the pony wall is only you know inch and
+13:47 a half tall so all I did was add that
+13:50 two inches assuming two inches of zip
+13:53 wall plus whatever this pony wall is now
+13:55 it didn't Auto do a crossbox that might
+13:57 be because I didn't get it right on the
+13:59 but I mean that's it but it's actually
+14:01 the model is actually built this way now
+14:03 there you go so show the show 3D of the
+14:06 of what the pony wall looks
+14:10 like just show people how you made the
+14:12 pony wall for those that don't know
+14:13 don't know how to do Pony
+14:20 walls um so that's over one of these not
+14:25 sure which one I did it on okay
+14:31 so I opened up a wall and then in the
+14:34 wall types panel designated pony wall
+14:38 and then um I went in to Define my upper
+14:42 wall I redefined the upper wall and I
+14:44 dropped in a 2inch insulation air gap
+14:48 and so these wall make that a frame make
+14:49 that framing make that wall a
+14:51 frame well I don't this is his zip wall
+14:55 is what that would be okay okay okay and
+14:58 then the wall below it is uh 2 in wider
+15:02 that's that 2x6 um so that's a 2x6 wall
+15:05 plus a 2x4 wall on top with that zip
+15:07 sheeting and so they're they're they are
+15:10 the same thickness so they will
+15:13 align and then you just made it an inch
+15:15 and a half tall yeah so I have another
+15:17 way that also makes use of a pony wall
+15:21 but you could also simply make uh a pony
+15:23 wall where the bottom part of the wall
+15:25 was only an inch and a half tall make
+15:27 your wall eight inches wide make the
+15:29 upper portion of the pony wall8 inches
+15:31 wide and the uh uh and the zip is the
+15:36 exterior uh layer of that so you've so
+15:39 you've created an 8 inch wide wall with
+15:41 the zip sitting on top of an 8 inch wide
+15:43 wall that is only an inch and a half
+15:46 tall so that's what I did yeah and
+15:50 thens that way yeah now that you have
+15:53 that wall built Renee put it in your
+15:54 library and pull it from the library to
+15:56 draw it instead of from the wall tool
+15:58 done yeah
+16:00 and you call it the zi R 2 six wall that
+16:03 will only save the top wall it won't
+16:05 save the bottom so you still have to
+16:08 designate a pony wall Oh no you're right
+16:10 it does come
+16:11 in saves the whole thing all right cool
+16:15 there you go at that you guys are
+16:18 amazing shows it in this PR that that's
+16:21 worth at least how much is that worth
+16:23 man that's worth a lot
+16:27 yeah have a question
+16:30 the summit I have a question about this
+16:33 ZIP sheathing um show my screen
+16:38 uh so again these panels are now coming
+16:43 that you can get it with the insulation
+16:45 attached to the zip sheet the zip
+16:47 sheathing is you know the coated uh OSB
+16:51 that's got the air air barrier on it
+16:54 already um and then they have the
+16:56 different thicknesses of the insulation
+16:59 I'd love to know um how that compares in
+17:02 cost to
+17:05 um to put that on versus just the
+17:08 because I got a client that's asking for
+17:10 2x4 framing with the the r six zip and I
+17:14 understand the benefits of the zip panel
+17:16 as far as uh that that you know a lot of
+17:20 times you get the through the stud
+17:23 you'll get the thermal bridg transfer
+17:26 this breaks that thermal bridging yes
+17:28 yeah exactly so I I get the benefits of
+17:31 it I'm just curious how the cost would
+17:32 be so if you if you think about it if
+17:34 you can comment who is it designer x uh
+17:37 someone did a really good breakdown of
+17:39 cost in the Discord server about that if
+17:41 I can find um I can tell you that from
+17:43 my from my standpoint when I was
+17:44 building the uh the zip was nearly
+17:48 equivalent to the cost when you consider
+17:50 everything not just the price of the
+17:52 material because of the the uh labor and
+17:56 um uh effort to put up uh the air
+17:58 barrier and insulation layers and all
+18:00 that kind of thing versus just putting
+18:01 up the zip the place where it really
+18:05 shines is that you can put it up like
+18:07 anything else seal the joints and you
+18:09 have a completely sealed exterior which
+18:12 is wonderful as well as not dealing with
+18:15 the wind blowing tonight and pulling off
+18:16 your air barrier and everything else so
+18:18 when you consider everything it's easily
+18:21 worth it okay well if it's only adding
+18:24 between ,700 and $4,400 I mean that's
+18:27 not
+18:29 that's not huge you come up with those
+18:31 numbers consider but consider the
+18:35 labor when something is failing like the
+18:39 off or something oh yeah yeah yeah
+18:42 yeah this is a compliment and a dig at
+18:45 the same time I think
+18:50 Norman so uh thank you thank you thank
+18:55 you Norman yes I agree with you Norman I
+18:57 wish we were metric much easier yes much
+19:00 easier so you got an advocate here
+19:04 um won't do much good okay cool uh that
+19:08 was really a cool topic I like that um I
+19:11 I looked up some pricing on those sheets
+19:14 the other day what how much does a sheet
+19:15 cost that's what I would like to know R
+19:18 six on it um I found some price like 90
+19:21 bucks a sheet or is like something like
+19:23 that it's like w um but you have to
+19:27 compare that you have to compare that to
+19:29 the sheet of insulation the sheet of OSB
+19:31 the sheet of of air barrier everything I
+19:35 was comparing it to
+19:37 2x4 insulation with the zip and in the
+19:40 foam versus two just 2x6 with OSB that's
+19:44 kind of how I was looking at it so but I
+19:46 understand what you're saying well then
+19:46 you have the labor of installing each
+19:48 one of those things independently and
+19:50 Aaron aerin makes a really good point
+19:52 she says that only one trip around the
+19:53 perimeter with scaffolding right so
+19:56 you're not I mean scaffolding is a
+19:57 nightmare putting up and down it takes
+19:59 so much time to do it okay 87 bucks so
+20:01 it's not too far off so and to me once
+20:04 once I did it on the first house it was
+20:06 a no-brainer from that point on
+20:08 everything was done that way so did you
+20:10 do the 2x4 with the r six zip and the no
+20:13 that didn't exist so oh okay I did it
+20:15 with the zip but I was still doing the
+20:17 installation on the interior Now new
+20:18 energy codes it makes complete sense we
+20:21 have to build up that exterior art value
+20:24 to the point that uh you got to have a
+20:27 pretty thick wall to make that happen
+20:29 yeah yeah cool um great question hear
+20:34 from Michael pal in the
+20:37 comments section arrows are larger on
+20:40 the foundation plan than the floor plan
+20:42 exactly what's up my section AR from oh
+20:46 um that's going to be from the text
+20:48 style I would assume of the
+20:52 crosssection so this guy right here
+20:55 camera's cross-sections
+20:59 Foundation plan cameras
+21:04 crosssections you may also have to do
+21:06 with the uh
+21:07 textile that's yeah you're just like
+21:10 repeating me today huh yeah well you
+21:12 know I I I rever you so you know it's
+21:16 important what is the best form of
+21:18 flattery right that's right imitation
+21:20 best form of flattery so if the if the
+21:23 cross like you can override this first
+21:26 thing to check is if your Tex style is
+21:28 different on your foundation plan than
+21:31 your whatever other plan view um which
+21:34 is coming from your layer set that's
+21:36 your layer sets designating that and
+21:38 then the other thing is maybe you over
+21:40 Road the text style for this so plan
+21:43 display panel I think it's yeah using
+21:47 the same plan View for the foundation
+21:49 and the other elevations if you're using
+21:52 different views that could change the oh
+21:54 so it has to be the textile you wouldn't
+21:56 if you overwrote it it would be
+21:57 overwritten in every layer set somebody
+22:00 said that
+22:04 earlier okay
+22:05 [Laughter]
+22:12 children Margaret's wondering if we
+22:14 finished going over the x16 stuffs no we
+22:17 haven't we still have like I don't know
+22:18 15 more to go like one at the
+22:23 r yeah we could be going the rest of the
+22:25 year at the r
+22:26 we yeah do the x16 x7s come out yeah let
+22:32 me review where we were at with that and
+22:34 then we'll uh well we went off on a
+22:36 tangent Dan the problem was since I'm
+22:39 the one that does the schedule let's
+22:40 review it and then we'll decide what
+22:42 else to do on that but the problem was
+22:44 when you guys were gone we went off on a
+22:46 tangent on a really
+22:47 long that's what I heard we don't end
+22:51 rendering that's we dove into rendering
+22:53 really good it was great I got a
+22:55 question didn't have John there to cut
+22:57 us off you guys chime in any time if
+22:59 someone ask questions but let me throw
+23:01 out a topic here how many of you do this
+23:04 sort of stuff before you model your
+23:07 building actually draw the cross-section
+23:10 before you try to
+23:12 model it's a lot easier to do that I've
+23:14 done it oh can you show my screen John I
+23:18 did your screen thank you um oh you're
+23:21 showing your screen yeah thanks yeah I'm
+23:22 not seeing you guys right now so I do
+23:25 that when I'm doing remodels because I
+23:28 don't
+23:29 I have to do that it's the only way to
+23:30 get your Dimensions correct yeah and how
+23:32 many people on the call listening in do
+23:34 this where they actually just use the
+23:36 cad tools and drawing you're just
+23:38 drawing a 2d CAD drawing of what it is
+23:40 you want to model I do this a lot on a
+23:44 lot of my projects because
+23:47 it's wh why do you do this so I know
+23:51 what to
+23:52 model okay so when I do this okay here's
+23:56 my zero floor height right here okay
+23:59 so I know exactly what to put my lowor
+24:02 height at I know where my my stem Wall
+24:04 height is at I know what my ceiling
+24:06 height should be I know where my my
+24:08 fascia height should be for my roof um I
+24:11 know how much Headroom I'm I I takes all
+24:14 the guesswork out of messing around with
+24:16 3D modeling to try to get everything the
+24:19 way you want it why why wouldn't you
+24:21 just be plugging that into your floor
+24:23 defaults into what your floor defaults
+24:27 because I don't know what at needs to be
+24:28 to plug
+24:30 in okay because I don't know do I how do
+24:33 I know I need 1T 10 and 3/4 in from zero
+24:36 to the top of the concrete where are you
+24:37 getting this from um that number would
+24:40 come from my floor joist my trust
+24:43 thickness Sil plate um is coming from
+24:46 the the the height of the concrete block
+24:50 or the foundation
+24:51 walls um are we talking this new
+24:53 construction remodel this is a well this
+24:56 is this is
+24:59 new construction okay yeah they're
+25:01 basically removing the old house you're
+25:03 mapping it out essentially yeah pretty
+25:05 much yeah you're not doing it for the
+25:08 whole house you're doing it to get the
+25:09 critical measurements yeah and then so
+25:12 once I get all my critical dimensions in
+25:14 place I will then pull my cross-sections
+25:17 through my model because I can add the
+25:20 framing to this model super easy and
+25:25 done it I don't know it just really
+25:27 works for me
+25:29 so I've been I've done this for years
+25:30 you know I've done this always when I'm
+25:33 trying to do a remodel I'm with Ethan on
+25:35 this why not just model
+25:37 it I don't know what to
+25:40 model how do I know that this height
+25:43 here needs to be what it needs to be
+25:44 when I need 113 inch or you know how do
+25:47 I know that my oops that my U facia
+25:51 height is such now although I will say
+25:54 one thing they added an x16 which is
+25:56 fabulous and that is this one setting in
+26:00 the roof dialogue that tells you your
+26:04 heel height this is so freaking cool
+26:08 this Tak I was part of that thread on
+26:10 Chief talk that was like a Brute Force
+26:12 thread like give us this or we quit yeah
+26:16 I tell you that when I noticed that in
+26:18 x16 I I I almost did a jump up and down
+26:22 in my chair because that is such an easy
+26:24 that is such a valuable piece of
+26:26 information would always have to draw my
+26:29 cross-section to figure out my facia
+26:31 height when I needed a specific heel
+26:34 height now it's right there so that will
+26:36 eliminate a lot of that guess work or
+26:38 that you know me drawing that kind of
+26:40 stuff so anyway um I just thought I'd
+26:43 throw this topic out there because it's
+26:45 something I've done for a long time and
+26:46 it really works for me so John this is
+26:49 this is a cad detail that Dan drew that
+26:51 he's showing there yeah as I'm as I'm
+26:54 drawing this project I'm doing this and
+26:56 the other reason I'm doing this is
+26:57 because this is like the fourth time now
+26:59 that we change the garage and um how
+27:03 they want to do it yes they want living
+27:06 above no they they want bonus above no
+27:08 they don't um now they want to make you
+27:10 know bigger Dormer off the edge to do
+27:13 bedrooms up there and so it's just part
+27:16 of the whole process of working your
+27:18 plan through I'm up to version nine in
+27:21 this particular layout for this project
+27:23 um interesting project too because we're
+27:27 these people bought this house on a
+27:28 beautiful lot on a little Lake here in
+27:30 Twin Cities and this is their house is
+27:33 about like this right now this is
+27:35 existing this is going to be new they're
+27:38 going to live in this while I build this
+27:40 and then they're going to live in this
+27:42 while I tear this down and build
+27:44 this um so I'm designing around a
+27:47 critical wall element here but anyway
+27:50 regardless of that fun project to design
+27:52 but we're we're just taking our time and
+27:54 getting it the way they want it so it's
+27:56 it's just kind of fun
+27:58 um I want to can I redress this let's
+28:03 see yeah I'm just curious in people's
+28:05 opinions here's so this would be and we
+28:07 can stick our faces back on the screen
+28:09 if we want um faces to me I well I think
+28:14 I'm maybe a little unique in that I do a
+28:17 lot of work in
+28:18 3D um so maybe that's why this works
+28:21 really well for me is that you know you
+28:23 had one foot four and a half I already
+28:25 know um I have four walls in here for a
+28:28 number of different reasons this is my
+28:29 template plan it just comes with four
+28:31 walls established which is establishing
+28:33 a building so I know off the bat that
+28:36 this is here and and part of that is
+28:38 that when I'm coming in a project and I
+28:40 need to know you know I've got a g I got
+28:42 to build a garage let's just say I'm G
+28:44 to turn this um room into a garage
+28:47 because that's what you were showing is
+28:49 that you were showing a garage right I
+28:50 think yeah and then I already know that
+28:53 this is a 1 foot n setup so I can come
+28:57 in here and into this room and then
+28:59 bring this up 5
+29:01 in so that's my first part that turns
+29:03 off auto build Foundation next part is
+29:06 you had a different heel height so I'm
+29:07 just going to come in to build roof and
+29:10 change that heel height right right um
+29:13 so I mean this is very fast to me versus
+29:16 CAD is seems a lot slower to me so
+29:18 that's why I'm I'm wondering where the
+29:20 difference is I think it's just maybe
+29:22 it's just it's you know I see it
+29:24 differently like I can see this um
+29:27 versus it's very clear your diagram is
+29:29 super clear and it's a great reference
+29:31 point right yeah but I might just save
+29:33 this by itself as my reference point is
+29:37 like hey yeah if nothing else come back
+29:39 to
+29:41 this I'd say probably about 50% of the
+29:43 types projects I do that have difficult
+29:47 uh not difficult but a lot of going
+29:50 a lot of things going on excuse my my
+29:52 term there um I'm easier for me to
+29:56 organize my thought process if I put it
+29:58 on the screen and I have it right there
+30:00 gotcha totally understand and I think
+30:02 reverting back to a conversation we were
+30:05 having earlier about the young lady
+30:07 that's struggling in your
+30:09 class um because she can't stay
+30:13 focused sometimes I think some of that
+30:15 not being able to stay focused becomes
+30:17 from Total lack of understanding what to
+30:20 draw not how to draw it but what to draw
+30:23 right and I run into that too so I don't
+30:26 know necessarily know what to draw so if
+30:29 I take a little time and slow down and
+30:31 do what I do with these cross-section
+30:32 things it helps me clarify what I need
+30:34 to draw well and let's let's talk about
+30:37 the the issue is that there's a lot of
+30:39 really Advanced Builders in on this call
+30:42 and in this room and then there are
+30:44 people who are not really Advanced like
+30:46 I'm not a builder right I don't um do
+30:49 house construction and a lot of this
+30:52 like it's easier for me to see to go
+30:55 through the ex the exercise that you're
+30:58 you talk about Dan so that way I can
+31:00 actually understand what I'm creating
+31:02 yeah because I'm not really experienced
+31:05 in that some of these people who are on
+31:06 the call and and you guys in the room
+31:09 are really experienced and it's easy for
+31:11 you especially Renee I mean your brain
+31:13 works differently than the rest of us we
+31:15 all know that okay I say that lovingly
+31:18 but yes he his brain works at a higher
+31:20 level he vibrates at a higher level than
+31:22 the rest of us we already know this we
+31:24 already know this about Renee but you
+31:26 haven't seen my outtake videos
+31:28 no I
+31:30 haven't but no but you did actually
+31:32 admit that you were human recently so
+31:35 that was actually good to know yeah when
+31:37 I was on a recording yeah exactly so
+31:42 sometimes doing a sometimes do a rough
+31:44 drawing is really good for people to do
+31:46 and I really recommend it especially for
+31:47 beginners to sketch it out if you don't
+31:50 quite understand what's going to happen
+31:52 because you don't need
+31:54 to some people don't understand once you
+31:57 put it in three or get in the plan
+31:58 you're like I have no clue what I just
+32:00 drew
+32:02 right I want to show a couple things
+32:05 real quick um because I was kind of in
+32:07 that mode is that uh floor defaults if
+32:10 if people are a little bit newer to this
+32:12 software um floor defaults drive all of
+32:16 your um structural setups for every room
+32:20 on the entire floor okay so instead of
+32:23 if you're someone that is
+32:26 designating um individual rooms
+32:28 structure and Heights I would encourage
+32:32 you to instead change your floor
+32:34 defaults and it will automatically
+32:37 change the heights of all the rooms on
+32:39 that floor so that if I have a floor
+32:42 where one room is 9 foot ceilings and
+32:45 the rest of the rooms are 8 foot
+32:47 ceilings you should go to floor defaults
+32:50 and make sure floor defaults are 8ft
+32:52 ceilings and then just change the one
+32:54 room to that 9ft ceiling exactly do want
+32:58 to show if I've got in um if you do want
+33:01 to try working in 3D and give it a shot
+33:04 um I'm just going to show you a workflow
+33:06 for this here I've created a dividing
+33:09 room where um actually we'll do a couple
+33:11 dividing rooms where these two rooms are
+33:13 going to be 8 foot ceilings and this
+33:15 room is going to be 9 foot ceilings or
+33:18 actually let's do the inverse these two
+33:19 are going to be 9 foot this one's going
+33:20 to be 8 foot so I want my floor default
+33:23 to be 9 ft I know my template plan has
+33:27 an8 foot ceiling so I get into edit
+33:31 default settings floors and rooms and it
+33:33 shows me floor levels and then here's my
+33:36 first floor floor defaults this dialogue
+33:39 looks a lot like the structure panel on
+33:42 a
+33:43 room dialogue box so it's the same panel
+33:47 and here's where I'm gonna I can just
+33:49 hit plus
+33:50 12 okay and that will get me my 9ot
+33:54 ceiling instead of this I'm going you
+33:56 show show you another way in 3D I can
+33:59 click on this this selects the wall if I
+34:03 hit tab or enter it now selects What's
+34:06 called the exterior room it's going to
+34:08 give you this edit handle here and down
+34:11 at the bottom somewhere it should give
+34:13 you another edit handle which is that U
+34:16 oh excuse me that's just for the floor
+34:18 below there's a spider right in front of
+34:20 my
+34:22 screen it's gonna land right on my
+34:26 keyboard so if I tab through this and
+34:29 grab this oh he's going back up
+34:33 okay didn't think about taking him
+34:35 outside huh if I tab through this and
+34:39 drag this edit handle up you're gonna
+34:42 notice the entire structure looks like
+34:43 it's moving up it is it's changing the
+34:46 floor default right so very quickly I
+34:49 can while I'm dragging this cursor up
+34:51 hit tab or enter put in 12 inches I've
+34:55 now changed the entire floor default for
+34:58 this floor to 9 feet we can conf you the
+35:01 ability to hold the roof in place at the
+35:03 same time it's just Auto building off
+35:05 that new plate height so there we go now
+35:07 I got a new 9 foot ceiling plate height
+35:09 and then I can go into that one
+35:11 particular room that I wanted different
+35:13 and I could do the same thing I could
+35:15 come into this room tab into it drag it
+35:18 down 12
+35:19 inches and now that particular room has
+35:22 an8 foot ceiling height the rest have 9
+35:24 foot and note that he wasn't changing a
+35:27 wall it was the room so you have to make
+35:29 sure you can see that pink that box all
+35:31 the way around exctly you don't want to
+35:33 mess with the wall by default in your
+35:36 preferences um in let's see oh where is
+35:40 it
+35:42 architectural by default select room
+35:44 before wall in 3D is unchecked
+35:48 yeah that used to always come in checked
+35:51 if you had change the ceiling height if
+35:53 you tried to pull a wall up it would
+35:55 would change the ceiling height in your
+35:56 plan did they did they change that in
+35:59 their Maybe not maybe it is checked by
+36:02 it might I don't think I've been
+36:04 changing that anymore um because I was
+36:07 every time I would reset my preferences
+36:09 for a new version I would go change that
+36:11 one right away so I think they changed
+36:13 that now it's unchecked by default I
+36:15 think so um that yeah I think there was
+36:18 a few versions where it was always
+36:19 checked in and people were getting
+36:21 confused because they thought they were
+36:22 LIF pulling a wall up or down Chang the
+36:25 whole room and I'm thing here in that
+36:28 structure panel in this room want you to
+36:31 notice that the gear icon here doesn't
+36:33 have this little check mark next to it
+36:35 right that's indicating that we're no
+36:38 longer following the floor default if
+36:40 you didn't know this is good information
+36:42 that that's huge you know that yeah if
+36:44 you wanted to you could select multiple
+36:47 rooms and hover over and just click this
+36:51 gear icon and it will put a check mark
+36:54 next to it change your ceiling height
+36:56 back to the floor the default exactly
+36:59 that's really nice information to know
+37:01 that why those wrench icons are there
+37:03 and why the little check mark is there I
+37:05 don't think a lot of people understand
+37:06 that but yeah if it's checked in that is
+37:09 the default setting for that particular
+37:10 item it's it's also a good way it's also
+37:13 a good way to fix multiple rooms where
+37:15 you know you've got an issue with uh
+37:17 ceiling Heights and uh and you just want
+37:20 to make sure that you know what did I do
+37:22 why is it off and make sure can you
+37:24 bring your can you bring that thing back
+37:26 up you just had open and uh change one
+37:29 of the
+37:30 rooms uh change it so that you know add
+37:33 a few more rooms and then uh change the
+37:36 height in one of the room you know use
+37:38 the uh what do you call that little
+37:40 multi- select thing John that you like
+37:42 all the time uh match properties match
+37:44 properties show people how to use the
+37:45 match properties real quick that's
+37:47 really a nice way if you've got a lot of
+37:49 stuff going on in your plan and you want
+37:51 to check all your floor and ceiling
+37:52 Heights or just your floor Heights or
+37:54 whatever uh the match properties
+37:56 function is amazing amazing especially
+37:58 if you have like three rooms that are
+38:00 one height and three rooms that are a
+38:02 different height yeah so I have two
+38:03 rooms that are not let's just put some
+38:05 um I'm going to put some labels on these
+38:07 things um actually we'll just put labels
+38:09 on all of
+38:11 them um because my labels show up so
+38:16 there we go I got a couple rooms that
+38:18 have 9 foot couple rooms that have8 foot
+38:20 if I select this one with n hold on now
+38:23 if this doesn't get people asking a
+38:25 question how'd you do that be really
+38:28 surprised my template takes a little
+38:31 Macro for that yeah yeah um then I'm
+38:34 going to use the match properties tool
+38:37 that was this guy right here little guy
+38:40 little yellow little yellow dot
+38:42 icon and then I can just type in a
+38:45 search there's a couple clever things
+38:47 that Chief does you could just click on
+38:49 select found and that will select
+38:51 anything that was found in your search
+38:53 term so in this case I'm looking for
+38:55 anything that has a ceiling elevator
+38:58 press okay and now Chief highlights with
+39:01 the color that you have for selected
+39:03 highlights selected objects highlights
+39:05 rooms that are matching that property
+39:07 the next thing that you could do is use
+39:09 the apply properties tool and so this
+39:12 will apply those properties I searched
+39:14 for and now I could potentially what
+39:19 just click in those rooms there we go
+39:21 and see that now applied it to this room
+39:23 now it's a 9ot ceiling height I still
+39:26 have that tool enabled you could see my
+39:28 mouse cursor has changed right so same
+39:29 thing I could draw Marquee over here you
+39:32 just have to click in Just click in the
+39:34 room click in it there you go funny it
+39:36 doesn't have like any kind
+39:38 of visual indictive that you're doing
+39:40 anything with that click there in fact
+39:42 it's hard to click and it's hard to
+39:43 click in small rooms sometimes and you
+39:45 really have to zoom in on those rooms
+39:47 and sometimes you'll click in it it will
+39:49 make the change but it won't change the
+39:51 color so if you keep clicking in it
+39:53 nothing's happening just go back out
+39:55 again and do the match properties again
+39:57 and if it took it it will match it yeah
+39:59 it'll show it match so another way to
+40:01 think of those buttons are one is copy
+40:03 and one is paste so you always have to
+40:05 click the paste button the mat the place
+40:08 match properties H so and another thing
+40:12 I don't think people use that often and
+40:14 now that I'm used to it I use all the
+40:16 time is I I think it's the escape button
+40:20 but mine's remapped where you can go
+40:22 back cycle through the previous tools
+40:24 that you used so if you see my cursor I
+40:27 Cy CLE back through by oops no now I'm
+40:30 stuck in that Zoom mode I'm cycling back
+40:33 through old tools that I used and
+40:35 cycling back forward through tools that
+40:37 I use so I could cycle back through
+40:39 until I get to my you know wall tool
+40:41 again so if I just need to drop a
+40:43 cabinet in real quick I'm on my wall
+40:46 tool right now I need to drop a cabinet
+40:48 in real quick and then I want to be back
+40:50 on my wall tool I can cycle back to that
+40:53 and you see it just got enabled I didn't
+40:55 need to hit any other hotkey um I just
+40:58 needed to hit that cycle back through
+41:00 and forth okay I don't remember which
+41:02 way it is but I think by by default it's
+41:05 the space bar and the Escape one of them
+41:07 will shut everything down completely the
+41:10 other one takes you back a step yeah I
+41:13 don't remember you changed your escape
+41:16 to run to do that right Renee is that
+41:18 what you're saying you changed your
+41:19 Escape I CH my middle Mouse has a um
+41:23 left and right click so I click left I
+41:26 click right that's get
+41:28 me
+41:29 yeah so check out Ethan's question he
+41:32 has a question about the fals I could do
+41:34 this one I know how to do this now took
+41:37 me a while to figure this one out and
+41:38 remember it um you show my
+41:41 screen yeah you're up thank you um
+41:45 so so often people use the little
+41:49 painter icon here and they paint
+41:51 different materials on their walls okay
+41:54 so basically you're you're skim coding
+41:56 your wall with a different
+41:57 material and Ethan wants to know how do
+42:00 I set all my walls back to the default
+42:03 uh materials for the walls okay so what
+42:06 you're going to end up
+42:08 using is that um same tool no use a
+42:12 spray can tool now I have to remember if
+42:14 I remember this
+42:16 um and um you're going
+42:20 to plan
+42:23 materials
+42:25 uh I need get my little icon things down
+42:28 here so I want
+42:32 to select all materials and no this is
+42:36 not right I've got a I thought I
+42:38 remembered
+42:40 this plan materials plan materials right
+42:43 and choose default use default okay so
+42:46 I'm I'm clicking I'm hitting the spray
+42:48 can and I want to use default material
+42:52 on my walls okay so I'm going to spray
+42:54 default over my whole plan by selecting
+42:57 the whole plan so every wall in my plan
+42:59 that used to have a material sprayed
+43:01 over it and it's now set back to the
+43:03 default thank you okay show bre in okay
+43:07 so show that again please so you've gone
+43:09 through your plan made a bunch of
+43:11 changes you know you you P you see my
+43:13 whole all my walls now change because I
+43:15 still had the whole plan thing checked
+43:18 so I want to set my walls back to their
+43:21 default material okay the default
+43:23 material is the material that you set up
+43:25 when you go to wall types hit Define and
+43:28 everything that's listed here is your
+43:30 default material not the stuff you've
+43:33 sprayed on top of it see the word
+43:34 default here that's default layers now
+43:36 which is another nice feature they added
+43:38 an x16 which I love um so I want to set
+43:41 it back so it has the siding because if
+43:43 I change the wall type it's still going
+43:44 to be shingles no matter what I I could
+43:46 change it to Brick it's still going to
+43:47 be shingles so hit the spray can select
+43:51 default use default click okay select
+43:56 plan and then just click on the walls
+43:58 and it'll put the default material back
+44:01 on the walls well just for anyone that's
+44:04 watching
+44:05 this just for anyone that's watching
+44:07 this you that used default setting works
+44:10 on everything you don't have to change
+44:12 tools and go back to change other things
+44:14 if you wanted to revert your Roofing
+44:15 back to default your fa should back to
+44:17 default it would all long clicking on
+44:21 things turn off Auto Rebuild roofs oh
+44:24 this is new so I just going to put
+44:27 siding on the roof change the default
+44:29 material for this component turn off
+44:31 auto
+44:31 re okay got it all right so I did all my
+44:35 roofs again but I want to set those back
+44:36 the default so Rene and change the color
+44:40 of your walls too just so we can show
+44:41 that it'll do both in one action um okay
+44:45 so I'll use I'll paint my walls wait
+44:48 oops I painted
+44:49 everything because it all had the same
+44:51 material let me undo a couple times fine
+44:53 that's all you needed to do because I
+44:55 had all the same materials and
+44:56 everything so let me just do this again
+44:57 so I'm going to put shingles on my walls
+45:00 and I'll just do it by object okay and
+45:02 I'll put some white on my roof turn off
+45:06 auto build okay so now I want to set
+45:08 everything back the default so I'm going
+45:10 to click the spray can hit use default
+45:14 click okay check my entire plan click on
+45:17 the plan click on the roof now I'm back
+45:19 to my default materials wow yeah so
+45:22 that's really a nice
+45:24 feature it's just it's so simple it's
+45:27 like every time I do it it's like what
+45:29 did I do
+45:30 again and but the key is you have to use
+45:33 spray can I'm trying to remember Dan
+45:35 wasn't it two years ago you came back
+45:37 from cordelane with that
+45:40 tip yeah because I asked him that down
+45:42 there and he showed me and like oh that
+45:44 makes perfect
+45:45 sense to show me how to do that Dan what
+45:49 was that I remember right there were
+45:50 three cartwheels involved something like
+45:53 that yeah Dan you were trying to show me
+45:55 how to do that on a project that I was
+45:57 working on and thank you now I know how
+45:59 to do it so thank you good um I want to
+46:03 show something on that go for it using
+46:05 using default materials um if you are
+46:09 bringing anything in from like a
+46:10 SketchUp or something like that you're
+46:12 pulling a model from somewhere else and
+46:15 um and you're G to end up adding it to
+46:17 your
+46:17 library um so I've got a hood here and
+46:21 by the way I just redid All of My hoods
+46:24 in my catalog to use emitter so that now
+46:28 that they use emitters um we have the I
+46:30 don't know what just happened there
+46:33 what's an
+46:34 emitter um it is a class class of
+46:37 material that produces light in Chief
+46:40 Architect and in X15 and before all that
+46:44 did was kind of indicate that there was
+46:46 light there by creating um um like a a
+46:50 bloom effect now lx16 if something is
+46:53 painted with an emitter class it will
+46:56 actually produce light this is a hood
+47:00 the hood is a fixture class it's not an
+47:02 electrical class like your lighting
+47:04 would be but it still has the off button
+47:07 to turn on and off and that's because I
+47:11 Ed the on the actual symbol itself so
+47:14 now this does emit light right so um and
+47:18 then part of doing this and building
+47:20 this for um my catalog is I want to set
+47:24 this up so that when I drag a hood into
+47:28 my plan it's using the default material
+47:32 for
+47:33 appliances that way this is not a static
+47:36 color if my PL default for appliances
+47:39 were white and I drag this in it's going
+47:41 to be white when I bring this into the
+47:44 plan file um actually don't know where
+47:46 you set up default plans I bet it's in
+47:49 3D material plan
+47:52 materials somewhere in here is oh it's
+47:54 got to be in default settings and
+47:56 materials so there we go default
+47:58 settings materials if I were to come in
+48:00 here and say for appliances that I want
+48:03 this default material to be um just pick
+48:07 something kind of like
+48:09 carpet here we go so for carpet now is
+48:12 my default for appliance materials look
+48:14 at that it's going to change this Hood
+48:17 when I bring it in from my library so
+48:20 any hood that I have that I've
+48:21 established is going to use my default
+48:23 material for appliances is now going to
+48:25 be a carpeted Hood
+48:27 well that's gonna carry the fish smell
+48:29 for a
+48:31 while it's gonna be lovely it go perfect
+48:34 with the Shad carpet you'll put in the
+48:35 room right we had a we had a couple
+48:38 questions a while back talking about
+48:40 wanting to know about putting multiple
+48:42 rows of blocking in
+48:45 walls that's you need Ethan on the
+48:50 call um as a default can we do that in
+48:53 all the walls at once I don't know
+48:57 um I you have to draw it in that's what
+49:00 I'm wondering if we'd have to open you
+49:01 can't create a wall with blocking
+49:03 automatically in it no see no
+49:07 okay Ethan can you create a wall with
+49:09 blocking in it no he's he's spent so
+49:11 many hours he's got a a project right
+49:13 now where um modeling modular homes
+49:15 where everything has to be dialed
+49:17 imperfect and so he's spent a ton of
+49:19 time trying to develop on that and I I
+49:22 think he's got a few tricks
+49:25 but well
+49:29 yeah what's he saying there are blocking
+49:32 see there are some things that Chief
+49:34 needs to fix and add oh sorry yeah Chief
+49:36 has a default setting for adding
+49:38 staggered blocking
+49:40 automatically in a wall but it doesn't
+49:42 do
+49:44 it well that's just St that's just
+49:46 making it so that the blocking is not in
+49:48 a row it's staggered but you're not
+49:50 going to get two rows of blocks that's
+49:52 sure exactly I was just trying to get
+49:53 one to start out here um yeah so you can
+49:57 one wall build the framing for that one
+49:59 wall and that's going to ask you to turn
+50:01 on things in that view and then you can
+50:04 open the wall detail for that
+50:06 wall and then you can use you know a
+50:09 blocking tool
+50:11 from boy I haven't had to do this here's
+50:13 a blocking tool from the framing library
+50:15 and just draw through right couple rows
+50:18 of blocks not automatically so you'd
+50:19 have to do that under every wall and
+50:21 that's staggered right yeah can you
+50:24 change it from being staggered can it go
+50:25 straight across
+50:27 yeah I think that's in my settings
+50:29 somewhere but you could just open these
+50:31 up and um the dialogue box for that
+50:33 should
+50:34 be uh should show it somewhere here
+50:37 inline blocking there you go got
+50:41 it okay cool hey we're just about out of
+50:44 time here um we did have a question
+50:47 somebody wants to do an individ somebody
+50:49 was asking about doing an indoor pool
+50:51 just something that we can do in the
+50:54 future uh we can but if you go back a
+50:56 couple of uh might have been a couple of
+50:59 months ago we did a show it was me doing
+51:01 uh stuff about Landscaping if you went
+51:04 and watch that I think you'd get the
+51:06 last month it was like the beginning of
+51:08 last month right how to do an indoor
+51:10 pool off of that video it was one about
+51:12 Landscaping setting
+51:14 ter um I did a pool in that that would
+51:17 be a good technique for here here's your
+51:19 indoor
+51:21 pool show
+51:24 off show show
+51:27 now does it start at three feet and go
+51:29 to eight or is it all one
+51:32 L you want a little staggered setup here
+51:34 yeah we can do
+51:37 that fine um all right so we got a few
+51:40 minutes left but um you guys be sure to
+51:44 check out our upcoming
+51:48 um
+51:50 Summit that will be happening next March
+51:53 so it's on our homepage there you can go
+51:54 look at the page and find out more
+51:56 information about it we'll be updating
+51:57 that page soon so we were just
+52:00 discussing that the other day got some
+52:02 fun things to add to that upcoming event
+52:05 and U I'm really looking forward to this
+52:07 one this is gonna be a good one yeah
+52:10 yeah oh we've got some good stuff
+52:12 happening yeah if you guys have not if
+52:14 you're even considering it you can get
+52:17 your name on a wait list um because this
+52:19 the rooms are booking up and um we'd
+52:22 hate for you to miss it yeah it's
+52:23 definitely worth
+52:25 it definitely worth opportunity and it's
+52:28 for all levels beginners all the way to
+52:30 advance so it's for everybody don't feel
+52:32 like you're out of the group and you
+52:33 don't have to stay in one room you can
+52:35 go from beginner for a while and go into
+52:38 a different room and we're doing Chief
+52:40 pretty much 247 because Renee doesn't
+52:42 sleep so you have to sleep in the same
+52:45 room though you don't get to change that
+52:48 we're just gonna put a little bunk there
+52:50 and Rene's training
+52:54 area um all right so uh we got a few
+52:57 minutes any other questions what do we
+52:59 have we only have one item we only have
+53:01 one item
+53:03 left is that right there's only one item
+53:05 on the x16 list yeah yeah there was like
+53:08 one last thing what was it what is it I
+53:11 don't even know it's whatever the last
+53:12 thing on your list
+53:14 is so that was on
+53:17 the show page do I have that open I do I
+53:21 know Ethan's going to cordelan this
+53:23 month who else is anybody else going to
+53:25 calan
+53:27 this month I am I know all we're all
+53:30 going
+53:33 yeah hey wait look at Vicky's comment
+53:36 will you ever have a summit on the
+53:38 western half of the US Dan if I can find
+53:42 a property
+53:44 dad everybody asks this if we can find a
+53:46 property that compares to what we're
+53:48 doing now we'll figure something out
+53:51 okay uh Doug I certainly do at at the
+53:54 summit I go over quite a bit of Ruby
+53:56 things yeah yeah yes oh Jeffrey is going
+54:00 to
+54:00 celan yes he is staying with
+54:03 us oh well that's a good thing that's
+54:06 good to
+54:09 know guess I should have known
+54:12 that
+54:14 sorry so the last thing on the x16 was
+54:17 electrical connections for fixtures
+54:19 create electrical designs where
+54:21 electrical connections map fixtures and
+54:24 other non-electric objects
+54:27 hold on a second there's two comments
+54:28 here um RT wants to know if you do need
+54:31 a laptop with Chief to participate yes
+54:34 you can rent one if you're going to
+54:35 calan but if you're coming to the summit
+54:37 you need your own
+54:39 equipment people bring their us um I let
+54:43 people use my laptop last year we have
+54:45 extras and um people do bring their
+54:48 desktops so I mean once you're there
+54:50 it's that up and you're good to go and
+54:52 designer X we're in the Summit is in
+54:54 North Carolina it's not that far from
+54:56 you that's
+54:59 right Canada Oh Canada Canada I love the
+55:04 idea Canada yeah I know love
+55:07 that Jeff I don't think Kevin was
+55:10 allowed back
+55:13 in oh by the way Jeff we'll have to talk
+55:16 because Kevin and I are coming a day
+55:18 early so um unless you come on Monday
+55:21 that'd be awesome I think we already
+55:23 talked about
+55:24 that okay you guys um we got five
+55:27 minutes you want to just call it oh why
+55:29 do you keep saying we're ending well
+55:32 because I want to get a commercial on
+55:33 about Summit um okay no do your
+55:35 commercial Dan we're
+55:37 waiting that was good um let's answer
+55:40 some more
+55:41 questions I don't think we had any other
+55:44 questions yet well um I don't think
+55:48 there
+55:48 was other than Summit on the west side
+55:52 because I still vot everybody's in uh I
+55:54 think every everybody's in end of
+55:56 designer show mode there all the
+55:57 comments are about yes saying goodbye
+56:00 see you later goodbye all right well
+56:02 let's say goodbye then all right okay
+56:05 see you guys later bye everybody have a
+56:07 lovely week we'll see you next time take
+56:09 care bye bye

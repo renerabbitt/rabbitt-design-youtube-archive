@@ -1,0 +1,1458 @@
+---
+videoId: Dcn0PcVyhms
+title: Discover Top Marketing Trends and Strategies for 2025 - Designers Show #142
+url: "https://www.youtube.com/watch?v=Dcn0PcVyhms"
+status: imported
+---
+
+# Transcript
+
+0:02 and here we are hey everybody happy New
+0:05 Year and welcome to the designer show
+0:07 first one in 20125
+0:09 hey nice to see you guys how you
+0:12 been great good holiday everybody had a
+0:15 good
+0:16 holiday yeah as usual seems like it goes
+0:20 slow but then all of a sudden it's over
+0:22 and it's like what went too fast I
+0:24 really liked it on the Tuesday Wednesday
+0:27 two times because it almost felt like
+0:29 two weeks didn't it it
+0:32 did yeah it's kind of like Thursdays
+0:35 kind of felt like a free day for like
+0:37 kind of just it was awesome it was
+0:40 awesome so take it it was a littleit for
+0:43 me a little bit different for me I I got
+0:45 to wear shorts outside you did I saw
+0:48 your pictures of you that's so funny you
+0:51 down in Florida right you were in
+0:54 Naples yeah we're so happy for him
+0:58 right yeah it's getting cold for you
+1:01 guys right oh yeah yeah oh yeah I can
+1:06 see that um I'm I'm sorry you guys are
+1:08 getting the blizzard you guys getting
+1:10 snow too Jolene Dan you guys are getting
+1:13 snow we got a nice day it's a little
+1:15 chilly but it's beautiful sunshiny day
+1:17 so we'll take Prett typical here it's
+1:19 raining it's Portland it's raining oh
+1:22 well that kind of like what's new all
+1:24 right um we get wet wet rain and we get
+1:28 wet rain we get cold rain
+1:31 warm it is wet too just so you know oh
+1:35 well well anyway as we get rolling into
+1:40 2025 uh I don't know about you but you
+1:43 know it's always a good time
+1:45 to especially with the way the things
+1:48 worked out this way with like Thursdays
+1:50 being like free day almost um anyway
+1:52 just kind
+1:53 of you know sitting back and thinking
+1:56 about the new year making some plans
+1:58 kind of cleaning up last year's business
+2:00 business um it's it's been kind of cool
+2:02 so uh a good opportunity so let's talk a
+2:06 little bit about what's coming uh in
+2:09 2025 and what some of the things we
+2:11 should be thinking about I got I want to
+2:14 talk a little bit about Ai and some of
+2:17 the ways you can use that and I know we
+2:19 have Jolene on with us today who's going
+2:22 to talk a little bit about marketing so
+2:25 Jolene thanks for being here my pleasure
+2:28 my absolute pleasure
+2:30 always a joy to have you on the show
+2:32 with us and uh since we work together
+2:36 all the time it's been eight years now
+2:38 that you've been doing a lot of my uh
+2:40 doing all of my marketing
+2:43 and U everything so it's been it's been
+2:48 really a joy working with you and I know
+2:49 you have a lot of great information to
+2:51 share so but let me just I want to just
+2:55 start out a little bit and then I'm
+2:57 going to bring you on okay okay so uh I
+3:01 I just want to
+3:03 pose thought process for people uh get
+3:06 you thinking a little bit and I want to
+3:08 use AI Chad GPT nothing special um it is
+3:12 a subscription model that I pay 20 bucks
+3:14 a month for worth 10 times that if not
+3:17 100 times that because I use it so much
+3:21 um I'm sure you guys would agree and uh
+3:24 let me just bring up I have a little
+3:26 PowerPoint that I want to bring up so
+3:28 let's just go to
+3:30 full screen mode here and uh let's just
+3:34 run through the beginning of my
+3:36 PowerPoint so um jolan's going to talk a
+3:38 little bit about marketing Trends and
+3:40 strategies for
+3:42 2025 so we'll get to you in just a
+3:44 minute Jolan so hang tight um uh I guess
+3:48 I like to think it about this what cash
+3:50 you know everything we do is really
+3:52 always comes down to what question
+3:53 should we be asking all the time you
+3:55 know what questions can you ask yourself
+3:58 that will help guide how you into 2025
+4:01 know be curious from the old tasso show
+4:05 be curious
+4:06 um and Jolene is with us she is the head
+4:10 of big rven media and I've been working
+4:13 with Jolene for quite a long time now
+4:15 big rven media.com if you want to check
+4:17 out her site uh this is from your about
+4:22 page Jolene I just stole that so there's
+4:25 something of a unicorn an organized
+4:27 Visionary I come up with Solutions and
+4:29 deliver on my promises and yes you do so
+4:32 thank you very much so I just love
+4:34 working with you um and then here's our
+4:36 designer show gang Kevin is out with his
+4:39 daughter today she's home visiting um I
+4:42 think she's we're changing that picture
+4:44 this year down the picture of me we're
+4:46 changing that this year oh come on that
+4:47 is a horrible shot yeah we'll have to
+4:50 get some new ones take care of it Rob
+4:52 I'm on it I'm on it thank you J I
+4:56 appreciate and Renee is out of out would
+4:59 of s with us right today to sure he's
+5:01 just about enjoying himself so uh in
+5:04 Sunny San Francisco or whatever it is in
+5:06 San Francisco so here's our guys and
+5:09 again you can look all of us up if you
+5:11 go Chief experts academy.com you can
+5:13 find all of our information um and uh
+5:17 get in touch with people from there so
+5:19 we're all independent we just work
+5:20 together couple of things you know we're
+5:22 bringing this for chief experts so if
+5:25 you uh go to Chief experts.com and at
+5:28 the top of the page you'll see uh join
+5:30 our weit list for the pro academy uh
+5:33 it's coming to you soon we're just
+5:34 getting that geared up for um releasing
+5:37 it uh later this month so if you'd like
+5:40 to be informed about that go
+5:42 there and then of course the total
+5:44 immersion
+5:46 Summit coming up uh in March if you'd
+5:49 like to go there and find out about that
+5:51 so but here's something we I want to
+5:53 talk about what are the top 10 questions
+5:55 we should be asking ourselves about
+5:56 Marketing in the residential
+5:58 construction industry to gain more more
+5:59 leads in 2025 all right now a designer
+6:03 could ask this a contractor could ask
+6:04 this you guys could ask this anybody in
+6:07 any business can ask these questions
+6:10 just put your what you do in that spot
+6:14 okay in that residential and let me just
+6:17 bring up chat GTP for a minute and let's
+6:22 take a look at that what it came up with
+6:24 so I went into my account and pretty
+6:27 straightforward
+6:29 I type that
+6:30 in and I hit enter again I'm using chat
+6:34 gtp4 good for most tasks yep I am logged
+6:38 in and you start getting this kind of
+6:42 information what's your ideal client
+6:44 what makes our service unique how strong
+6:46 is your online presence that's jolan's
+6:48 going to talk about some of that stuff
+6:50 customer reviews testimonials how
+6:52 effective is your content marketing are
+6:55 we visible where our target audience is
+6:57 searching do you have a referral program
+7:00 are you engaging with your audience you
+7:03 know if you think about any one of these
+7:06 statements and if you wanted so so let's
+7:10 just say for a second that I wanted to
+7:13 dig
+7:14 into um you know do I have a referral
+7:18 program or you know am I you know what
+7:20 am I doing on social media just go ask
+7:23 just type in the question down here um
+7:27 let's see let's do this P it show how
+7:30 wonderful that is yeah let's try it
+7:32 let's just copy and paste that we'll
+7:34 dial down we'll drill down deeper into
+7:36 that topic so I have to go down to the
+7:38 bottom of my page now
+7:41 um key questions about engagement are we
+7:44 posting consistently is our content
+7:46 relevant are we responding are we
+7:48 leveraging video
+7:51 okay again ton of stuff don't get in
+7:54 don't get discouraged by that just pick
+7:56 out something and focus on that so any
+8:00 everything you do you know marketing is
+8:03 everything everything is marketing so
+8:06 let's focus on that and and do that um
+8:09 then let let's take a look at another
+8:11 question that I asked it just for the
+8:13 heck of it so I went in here and I said
+8:15 what's the best way to reach our target
+8:16 market with effective marketing that
+8:19 helps us build no liken trust because
+8:23 really that's a big thing about what
+8:26 marketing is all about is getting your
+8:28 the people that are aware of you to know
+8:31 you to like you and most importantly to
+8:35 trust you about you know oh you I'd
+8:39 really like to call these guys I would
+8:40 like to work with them so that's what
+8:43 your marketing needs to focus on
+8:46 everything that you do should focus on
+8:47 those three things no like and trust and
+8:50 again if we go back to uh the
+8:54 chat and we go find that question that I
+8:57 typed in let's see where It Go
+9:03 um you know Dan the chat gbt is
+9:06 something that I was always T terrified
+9:08 to use this um but I've been using it a
+9:11 lot lately and yesterday I had to write
+9:14 a letter of recommendation for somebody
+9:17 so I wrote probably 10 maybe eight
+9:21 sentences about this person you know I I
+9:23 wrote the things that I know about that
+9:25 person and I add it had it write a
+9:28 letter of recommendation for me
+9:30 seriously you guys most of us put those
+9:32 things off for days weeks yeah like we
+9:34 just don't want to do it it was done in
+9:37 I don't know 15 minutes done I had to go
+9:40 through and take a few things out edit
+9:42 it and it was done so I swear to God
+9:45 it's our friend you guys I'll do a ton
+9:48 of my correspondence that way I'll write
+9:49 it I'll write down my thoughts my ideas
+9:52 what I want to say I'm not being fussy
+9:54 about spelling I'm just typing away what
+9:56 I want to say then I'll put that in chat
+9:58 and say hey could you clean this up for
+10:00 me and boom uh I'll get the results and
+10:05 make make like say you make a few
+10:07 changes or you say no that's not very
+10:09 good do it again do it my voice that
+10:11 kind of a deal really makes a big
+10:13 difference so I'm giving it the
+10:14 information I'm just helping I'm just
+10:16 asking it to help me clean it up and it
+10:19 saves me a ton of time a ton of time I
+10:22 can go as I can type as fast as I want
+10:24 not worrying so much about mistakes and
+10:26 errors and just it'll clean it up for me
+10:28 but look here here's what it said about
+10:31 stress off
+10:33 huh it just takes one level of stress
+10:37 off using it for yeah um social media
+10:40 brilliant absolutely
+10:42 brilliant um but here's what it said you
+10:44 know what things you know build no like
+10:47 and Trust understand your audience okay
+10:49 that's really cool that's important who
+10:51 are you working for who is your ideal
+10:53 client who's your avatar we'll call that
+10:55 in the marketing world show expertise
+10:57 and credibility build an engage online
+10:59 presence leverage Community offer free
+11:02 value engage marketing okay I'm not
+11:04 going to get into all these things uh
+11:06 but you could see it just some gets you
+11:07 gets your brain thinking about oh yeah
+11:10 that oh this you know but again it might
+11:13 seem overwhelming so then focus in on
+11:16 one thing just keep it simple keep it
+11:18 simple just do something is really the
+11:21 the bottom line here's the L for you
+11:24 does the Census Bureau have statistics
+11:26 of those that live in my area if you
+11:29 guys have not ever been to the Census
+11:31 Bureau and done some research here for
+11:35 the area that you like to work in now me
+11:37 I work all over the country okay but as
+11:40 a contractor I remember back in the day
+11:42 when um I was Contracting I used to go
+11:44 down to the city offices and look
+11:46 through the permits that were getting
+11:47 pulled um I used to search uh through
+11:50 government records as much as I could it
+11:52 just was really interesting to find out
+11:54 what was going on in my area so if I
+11:57 just go like this
+12:00 and we go to a new
+12:03 browser there's so much information out
+12:06 there it's amazing find tables and mats
+12:09 for
+12:11 TKA oops
+12:14 T
+12:16 Minesota and it will bring up little map
+12:19 of your town There's minat tanka and
+12:22 then the information here is really cool
+12:24 I mean you could you could just get some
+12:27 to get an idea of what's going on in
+12:29 your area and you can drill down into a
+12:31 lot of these different areas and um find
+12:35 out information about that about what
+12:37 you want to know not I'm not going to go
+12:39 into this because again we're so limited
+12:41 on time but it's really cool you got
+12:43 tables and maps and charts and profiles
+12:46 and Pages it's really a nice website and
+12:49 it's just filled with information
+12:51 so yes they're keeping an eye on
+12:55 us They Know About Us
+12:59 I find it very fascinating I just love
+13:01 doing this kind of research it's really
+13:03 interesting and it can really help your
+13:05 business and help you determine who you
+13:07 want to Market to um especially if
+13:10 you're out there selling projects that
+13:13 you know you like doing Room Editions
+13:14 you like doing porches or decks or
+13:16 basement remodels or that kind of thing
+13:18 where you're going to focus your
+13:19 marketing that kind of a deal all right
+13:22 so that's one thing you could do there
+13:24 um again drilled down into that more
+13:26 well how do I use it can I find out what
+13:28 kind of building project they're doing
+13:30 that kind of deal um okay then I had it
+13:33 shorten I wanted it to shorten these so
+13:35 I could throw it on a slide in my
+13:37 PowerPoints like yeah that that did that
+13:40 um next question I ask um can you check
+13:42 my website for
+13:45 improvements um to make it more
+13:47 informative and user friendly so again I
+13:50 just add asked it to do that you know
+13:52 maybe I'll make some changes maybe not
+13:55 um Julie and I can talk about this kind
+13:57 of stuff but it's just a great
+14:00 another set of eyes into some of the
+14:02 things that you've got going on in your
+14:04 in your marketing World your digital
+14:05 world so again not a bad way to get some
+14:09 information there um what sort of
+14:11 residential building projects have
+14:13 happening in the last few years in
+14:15 minona are there any Trends so yeah some
+14:19 of these things that they're talking
+14:20 about yeah it's nothing that I want to
+14:22 get involved in um but it did find some
+14:26 you know there are some Trends in the
+14:28 area that are happening multifamilies
+14:30 all over the place affordable housing
+14:32 initiatives are there uh there's some
+14:35 luxury States we had one $68 million
+14:39 house being built on Lake minaka
+14:42 probably 25 minutes from me it's like
+14:44 what yeah there's SP some big WR UPS on
+14:47 that and stuff it's like
+14:50 okay why not anyway um I'm gonna kind of
+14:54 end it there uh I just wanted to I
+14:57 wanted to bring that up and just get you
+15:00 thinking about it because it's I think
+15:02 it's really fascinating okay do some
+15:05 market research be curious ask questions
+15:10 and you know take the answers you get
+15:12 and drill down deeper for those
+15:14 particular types of questions so if
+15:16 you're having trouble getting leads ask
+15:18 you know how could I get more leads and
+15:20 but do it ask intelligent questions or
+15:24 not I don't know intelligence the right
+15:26 word or not but give it information so
+15:28 it could give you better answers I guess
+15:30 is you know as designers we should be
+15:32 used to asking lots and lots of
+15:34 questions that get to specific areas
+15:37 that's all we're going to do with chat
+15:38 GTP so again discover the right ways you
+15:42 know join the wait list we got a lot of
+15:44 cool things coming up for the pro
+15:45 Academy and then again for the summit so
+15:48 please check it out and give me a call
+15:50 if you have any questions it's coming up
+15:52 in two and a half months so uh don't be
+15:55 aware of so Jolene yeah let's go back to
+15:58 you
+15:59 okay well um a couple things I think are
+16:02 worth adding on to what Dan was saying
+16:04 about chat GPT and that is that I think
+16:07 that you can have a whole lot of value
+16:11 in your prompts that you put into Ai and
+16:15 I think a really great place to start if
+16:17 you've not dabbled with it before is the
+16:20 prompt should be um what do you know
+16:23 about me jol and Emery owner of blah
+16:28 blah blah BL
+16:29 and what it will you know you know
+16:33 curate for you um is a really good
+16:37 almost audit of what your digital online
+16:41 presence like how it would be summarized
+16:44 and I think it's a good place to just
+16:46 start um because when it's about us it's
+16:49 definitely very interesting um it will
+16:51 hold our attention and it gives you um
+16:55 you know because it's pulling right it's
+16:56 pulling from all kinds of places so I
+16:58 think that's a really great prompt and a
+17:00 good place to start yeah so with 2025
+17:04 and um I will do my present here Dan
+17:08 okay
+17:09 oop maybe there we go there you go
+17:13 perfect so the thing about a marketing
+17:16 conversation that we always seem to have
+17:18 at the beginning of the year I I see
+17:21 people's eyes gloss over a little bit
+17:24 and it becomes a little bit overwhelming
+17:26 and I think what Dan said in his
+17:29 presentation just now is that instead of
+17:32 thinking about how you're going to solve
+17:35 all of your marketing goals and
+17:37 challenges let's just pick one or two
+17:40 things um and do them and do them well
+17:43 because one of my favorite things to say
+17:46 is that consistency compounds right like
+17:50 the the trick is to stick with it and
+17:53 not give up um but at the same time we
+17:56 also need to measure what we're doing
+17:59 and I have some great examples about
+18:01 that so I am the CEO of these four
+18:05 businesses and it's a very eclectic life
+18:08 that I lead um and I'm sitting here
+18:11 talking to you in my bed and breakfast
+18:13 it's a retreat center so I've got
+18:16 experience with a physical product we
+18:19 make and design and sell yoga mats um I
+18:22 have experience with local lead
+18:24 generation because I want people to come
+18:26 to my retreat center I have experience
+18:29 with a service-based business because I
+18:30 want people to you know um hire big
+18:33 Raven media to take care of their
+18:35 digital marketing um and then also I'm
+18:38 an artist and I now I now have a craft
+18:41 club and I sell you know artwork and
+18:44 it's just it's evolved right and it's
+18:46 just kind of how things have unraveled
+18:48 for me you do tend to stay busy don't
+18:50 you I do yeah I'm I'm a little busy I'm
+18:52 a Serial entrepreneur as we like to say
+18:54 how's your uh Channel your art Channel
+18:57 going oh it's great it's great I in the
+19:00 last few years I've turned into a craft
+19:03 influencer which I really like the sound
+19:06 of I like it a lot so I've got about I
+19:09 don't know uh 400,000 followers across
+19:12 all my platforms um so but it helps me
+19:16 right there's just a ton of learning you
+19:19 know across the landscape of my business
+19:21 life um and some things that I've
+19:23 learned so couple of the things that I
+19:26 think are really important coming up
+19:28 here in
+19:29 2025 is that I think
+19:32 AI it's here to stay and you'll find it
+19:36 trickling into lots of the platforms
+19:39 that you might be using like if you are
+19:41 a user of canva canva is increasing
+19:44 their prices because they have built
+19:46 this really powerful AI generated image
+19:51 and you know like it's you can basically
+19:54 tell the prompt um I tested it recently
+19:58 um I want wanted to have a uh circle of
+20:00 women um sitting down uh doing yoga and
+20:05 whis bang boom out came the image that I
+20:08 was looking for you need to be careful
+20:10 though because it was kind of funny
+20:12 their hands were actually feet so it's
+20:16 got some learning to do and it's not you
+20:18 know foolproof by any stretch but AI is
+20:22 everywhere I was yesterday buying
+20:24 tickets to a Broadway show um and there
+20:27 was an AI prompt at the top like tell me
+20:30 what kind of experience you'd like to
+20:31 have Jolene and then it curated it for
+20:33 me so what does this mean though for us
+20:37 in our local businesses like what can we
+20:39 do with all of it and I think the
+20:42 biggest takeaway is if you you should
+20:45 really my advice if I can like project
+20:48 on what I think everyone should do is I
+20:50 think if you're not doing your Google
+20:53 well if you have not set up your Google
+20:57 ecosystem that is step one step one is
+21:01 making sure that your local Google
+21:04 business profile is set up uh here's a
+21:08 picture of mine so we post how do how do
+21:11 people find that do your Google business
+21:14 profile so you can go to Google Maps
+21:18 that's the easiest way to get there and
+21:20 type in your business name and it'll
+21:22 come up in a right side panel and you'll
+21:25 be able to see it there but you need to
+21:27 claim your business first so that you
+21:30 can set it up and then post to your
+21:33 Google business profile every single
+21:36 week just like it's another digital
+21:39 platform and the reason that I believe
+21:42 this is important and that we have seen
+21:44 success with this strategy is that we
+21:46 are feeding the WebCrawler that helps
+21:49 bring people to our businesses so set up
+21:53 your profile post pictures post events
+21:57 make sure all the forms are filled in
+21:59 and then if you don't have one make sure
+22:01 you establish and figure out how you're
+22:04 going to do a Google review strategy so
+22:07 you'll see here on mine it says that I
+22:09 have I don't know is it 62 or 82 I work
+22:13 really really hard on making sure I have
+22:16 a plan for Google reviews and you'll see
+22:19 here I have a 4.9 and I actually had
+22:23 somebody leave a review who never stayed
+22:24 with us and so I am now in that Loop of
+22:27 working with Google goog to get it
+22:29 removed because they were never a guest
+22:31 here but my point is is that because I'm
+22:35 feeding the machine I am
+22:38 establishing um you know who we are and
+22:40 what we are about we are then more
+22:42 likely to come up in search so I think
+22:46 nothing is more um devaluing to our
+22:50 businesses than when people go to look
+22:52 for us in a web search and we come up
+22:55 and we look like we don't exist so a
+22:58 really strong Google presence it's one
+23:01 of the things I think that we can all do
+23:03 that isn't quite as complicated so if
+23:06 you haven't set it up I encourage you to
+23:09 do that first and then what goes along
+23:11 with that and the idea of that trend is
+23:14 that we need to be looking at what we're
+23:17 going to do with our seo let me get
+23:22 there it's around here somewhere um
+23:25 SEO oh there it is so
+23:29 search engine optimization right a fancy
+23:31 marketing word but all it really means
+23:33 is that you are training the web
+23:36 crawlers to know who you are and what
+23:39 you're about so think of creating
+23:42 content that is not necessarily for your
+23:46 website visitors but it is more for your
+23:50 website crawlers find your keywords use
+23:53 your keywords and then feed the machine
+23:56 so that you're coming up in local search
+23:59 if you don't have any content they're
+24:01 not going to be able to find you yeah so
+24:03 you guys just go in and uh go into
+24:05 Google Maps and type in uh big yo big
+24:08 Raven uh Farms or big big Raven yoga
+24:13 either one big Raven Farm big Raven yoga
+24:15 but you'll see how ours are set up um we
+24:19 have a stronger and you
+24:21 know sometimes just to get it on the
+24:24 page Sor and then fix it after the fact
+24:28 listening to Renee come
+24:31 on so so SEO right so the idea is in the
+24:37 combination of using chat GPT or similar
+24:41 and your SEO strategy is what we do is
+24:44 we feed chat GPT what we would like to
+24:48 talk about we put in our keywords and
+24:51 then just like Robin's recommendation
+24:53 letter it's just a place to start I
+24:56 wouldn't encourage you to pick it up and
+24:59 paste it into your website I think
+25:01 that's a mistake um because the more you
+25:04 work with AI the more you come to learn
+25:07 and see um certain phrases um that are
+25:12 very AI feeling and you don't want to do
+25:15 that you don't want to take away all of
+25:16 the humanity you want to make sure that
+25:18 you're putting in your personal Spin and
+25:21 flavor so that it sounds like you but I
+25:24 think it works really well to unblock
+25:28 the writer's block and to just get us
+25:30 started because if I were to say to you
+25:33 sit down and write one blog post a week
+25:36 you would probably be overwhelmed by
+25:38 that because it feels like one term
+25:41 paper a week and it can feel
+25:44 overwhelming and intimidating but
+25:46 instead if you use some of the tools to
+25:49 help unlock that writer's block it's a
+25:52 lot easier to edit and enhance than it
+25:55 is to start from scratch and so one of
+25:58 the things if I could just make a
+26:00 comment about that one of things about
+26:01 using that especially for social media
+26:04 let's be real most people don't read all
+26:06 of it yeah so it's um don't micromanage
+26:11 it also don't spend a lot of time
+26:13 micromanaging it especially if it's a
+26:15 blog post or if it's a
+26:18 Instagram um you know little snippet
+26:21 right you don't have to go I think one
+26:24 of the problems and I'm pointing to
+26:26 myself when I say um is that I will then
+26:30 go oh that's not exactly right oh that's
+26:32 not exactly right oh that's not exactly
+26:34 right and then it never gets done right
+26:37 and what I what I have found and and I
+26:39 have to tell you that I only I don't use
+26:41 it for my business at all because I'm
+26:44 teaching more full-time but what I have
+26:47 found that when I need to get
+26:49 information out it's easier just to look
+26:53 at it make your minor adjustments and
+26:55 then let it go I think that's the
+26:56 biggest thing is we need to learn how to
+26:58 let some of it Go instead of spending so
+27:01 much time overthinking it right right
+27:05 well and I so a couple things about that
+27:07 Robin one is you're absolutely right and
+27:09 then two I think that because we live in
+27:13 a dayou of content I think that you know
+27:17 a trend Happening Here in 2025 is
+27:20 definitely the quality of our content so
+27:25 you know a few years ago we might have
+27:27 been able to skate by with maybe um a
+27:32 picture with a phrase or you know like
+27:36 our content has to change to match
+27:39 consumer interest and patience and so
+27:43 while using you know some of the AI
+27:45 tools to help generate captions is
+27:48 definitely one way to get it done the
+27:50 balance of that is to make sure that you
+27:53 are doing quality content and again I'm
+27:57 not saying that you know every piece of
+28:00 content needs to be shot with four
+28:01 cameras and have you know amazing
+28:04 transitions I think it's the what you
+28:06 say and the value you provide is where
+28:09 we're really going to see a pivotal
+28:12 difference in the coming year because
+28:15 there's so much content that if it's not
+28:18 good the question you should ask
+28:20 yourself is why am I doing it then and
+28:23 with that also comes another thing that
+28:26 I'd like to talk about um and and that
+28:28 is uh it's not this I'm just going to
+28:31 leave I'm going to take this down
+28:32 because I'm off my script but anyway um
+28:35 what I think it's important to talk
+28:37 about in the coming year is that you
+28:39 should really measure open rates and
+28:43 effectiveness of the content you're
+28:45 creating and here's here's an example so
+28:47 we have a client who has been doing a
+28:50 newsletter for several years and it's
+28:53 you know typical come to our website
+28:55 sign up for our newsletter you know you
+28:57 get them on the list you send them the
+28:58 newsletter and then they stay in this
+29:00 automation of the newsletter and when we
+29:03 were digging in and looking at open
+29:05 rates we found that there was like a
+29:09 3% open rate on a newsletter that they
+29:13 had been spending hours hours creating
+29:16 and it was a really great piece of
+29:18 content but the eyes of their consumer
+29:21 just glassed over like they were no
+29:23 longer seeing it and it hadn't been
+29:25 refreshed so my point is if you are
+29:28 spending a lot of time on content that
+29:31 people aren't consuming you need to stop
+29:33 doing that stop doing that and start
+29:36 doing something that can actually help
+29:39 you get more people to your website so
+29:42 quality content that's one SEO making
+29:46 sure your Google ecosystem is set up and
+29:49 ready to go and then the other thing is
+29:52 we have to stop treating our websites
+29:55 like digital brochures and what I mean
+29:59 is is that if you're not going into your
+30:01 website refreshing making changes adding
+30:04 content well if you're not looking at it
+30:07 our web crawlers certainly aren't going
+30:09 to be looking at it so you need to make
+30:11 sure that it is alive right that it is
+30:14 another living breathing entity of your
+30:16 business um and those can be simple
+30:19 changes those can be updates those can
+30:21 be you know adding content it could be
+30:24 adding the blog post content that I was
+30:26 talking about for SEO but making sure
+30:28 that it just is you build it and forget
+30:31 it we don't want to do that U we want to
+30:34 make sure that we're touching with it so
+30:37 uh any any questions about
+30:40 that quick ramble um no but everybody go
+30:45 go open Google Maps and type in Chief
+30:49 experts and leave me a nice review would
+30:51 you
+30:53 please well and Dan that's exactly how
+30:56 so the thing about Google reviews
+30:58 is what we've come up with in big Raven
+31:02 Farm is we have a carrot and a stick
+31:05 approach um and approach is this um my
+31:08 husband is a chef and an excellent one
+31:12 and he makes amazing food when people
+31:14 come and stay here and everybody is
+31:16 always asking for this recipe and that
+31:18 recipe and this recipe and that recipe
+31:20 and it was getting way too hard for me
+31:22 to manage who wanted what and so now
+31:25 what we do is we say um while here that
+31:29 when you leave we are going to be so
+31:31 happy to send you our digital cookbook
+31:34 and if you could in exchange for that
+31:37 leave us a Google review we would really
+31:39 appreciate it and once we started doing
+31:42 that my Google review strategy
+31:45 skyrocketed yeah because I gave them
+31:48 something valuable that they looked
+31:51 forward to having that they were
+31:52 grateful to have and so they did me a
+31:54 solid and in my instructions for the
+31:57 Google review are in the ask I
+31:59 acknowledge that I realize this is a Pia
+32:02 like I get it you have to be logged into
+32:04 Google you got to sit down and do it
+32:07 sometimes it doesn't take like I
+32:08 understand but I really appreciate it
+32:10 because it helps us you know in this
+32:13 world of bringing more people through
+32:15 our doors and when Dan was saying no
+32:18 like and trust this is another great
+32:21 example people love buying from people
+32:25 right like we don't really care so much
+32:27 about buying from from businesses we
+32:29 want to be connected to people like Dan
+32:32 is a great example Dan's people who buy
+32:35 from him love him love him and so
+32:39 they're loyal and because he's
+32:41 established no like and trust and I have
+32:43 a great example of that Dan you remember
+32:45 the day we were just goofing around on
+32:46 your on your Facebook live we were just
+32:48 like messing with buttons and then all
+32:50 of a sudden like 12 people were there
+32:52 like hey Dan what are you gonna talk
+32:53 about I can't wait to hear it you know
+32:56 goofing off so
+32:58 this idea of no like and trust it also
+33:01 works its way into your Google reviews
+33:04 when we're talking about the advocacy of
+33:07 you as a business or people who become
+33:10 evangelists I'm sure you have them in
+33:13 your business I Know Dan has them in his
+33:15 I have them in mine and those are people
+33:17 who are rooting for us right like they
+33:20 had such a great experience that they
+33:22 are called to tell people about it and
+33:25 if you don't ask for that Google review
+33:28 you probably won't get it um and it's
+33:30 not
+33:32 that I'm sorry I'm jump in
+33:35 here you know in the past it seemed like
+33:38 people one of the reasons people didn't
+33:41 want to do that was maybe because they
+33:42 worked at home and they didn't want to
+33:44 put their business there because it was
+33:46 their home right I think in this day and
+33:50 age it doesn't matter at all anymore I
+33:53 mean if you look at mine I know I work
+33:55 out of my house yes that's my business
+33:58 uh that's what comes up on Google Maps
+34:00 so U don't worry about it i' said you
+34:02 know claim your business because if you
+34:04 want people to find you in your business
+34:07 claim that and whether it's your home or
+34:10 office somewhere doesn't matter right
+34:12 this day and age just doesn't matter
+34:15 well exactly and Google indexes by our
+34:17 phone numbers and so like that's
+34:20 something to kind of keep in mind if you
+34:23 so if you use your mobile phone as your
+34:27 business phone phone and your personal
+34:29 phone just know that like because phone
+34:33 numbers are so much more personal than
+34:35 addresses um and sometimes there's more
+34:38 than one business at an address so
+34:40 Google indexes by phone number so if you
+34:42 don't want to use your mobile phone then
+34:45 it might be a good idea to get a Google
+34:47 number instead that can be associated
+34:50 with your number and you can forward it
+34:51 to your mobile or whatever um but if
+34:53 there are there are workarounds for some
+34:55 of those kinds of concerns
+35:02 so what other questions do you have for
+35:04 me so I do have a question why do I keep
+35:06 getting email from Google workspace to
+35:09 pay for it what's Google
+35:11 workspace so the frustrating thing about
+35:13 Google is that all of its products are
+35:16 separate entities so Google Maps is its
+35:19 own thing Google analytics is its own
+35:21 thing Google workspace is its own thing
+35:24 and so the Google workspace is off kind
+35:26 of like a Microsoft office suite it's
+35:28 just a suite of tools that includes
+35:30 storage and all kinds of nonsense and so
+35:34 because it's a separate enti they're
+35:36 just trying to upsell you and they want
+35:37 you to buy more stuff so don't do it
+35:39 okay every time I look at I just go yeah
+35:41 I'm not interested but I keep what am I
+35:44 doing please bu me yeah okay thank
+35:49 you Google needs more money um
+35:53 yep
+35:55 exactly so I guess too like if there's
+35:59 anything that I can to recap my
+36:03 projection of what I think you should do
+36:05 one definitely make sure your Google
+36:07 environment is set up come up with a
+36:10 review strategy especially in your lines
+36:14 of business where you know I think it's
+36:16 important to think about how you are
+36:19 discovered you know do people go to The
+36:21 Well of wisdom Google and type in their
+36:25 query and you want to be found is that a
+36:28 way that lead generation happens for you
+36:31 and if it is then having that ecosystem
+36:34 set up is definitely going to help do
+36:36 people find you on social well if that's
+36:39 where people are finding you then I
+36:41 think the strategy is to make sure that
+36:43 you're thinking about quality content
+36:46 and not just slapping something out
+36:48 there because you think you should like
+36:50 it has to be from your point of view has
+36:53 to be authentic and it doesn't need to
+36:56 be a scorey right you could turn on your
+37:00 phone and do the top five this or the
+37:03 top five that or ways this will make
+37:05 your life better but the point is is
+37:07 that you have to provide quality content
+37:11 something that changes people's lives in
+37:13 some kind of way that is the real pivot
+37:16 point I think in having a good social
+37:19 media strategy and then in the inet then
+37:23 you can do things just to remind folks
+37:25 that you exist think of bit more like a
+37:27 brand awareness kind of initiative um
+37:30 but you have to Pepper in quality
+37:33 content along with that brand awareness
+37:36 type
+37:40 stuff so John I'm looking at your Google
+37:43 my business page yep still got the old
+37:48 website my kajabi need to get that out
+37:51 of there um I would just
+37:55 suggest you do a lot of cool project
+37:57 John is a great designer with Chief
+37:59 Architect all right you guys you need
+38:02 help call John um every time you do a
+38:06 project you should be posting a picture
+38:09 of a rendered View and you do them
+38:12 anyway just take one and post it on uh
+38:15 Google my business um just do one of
+38:19 those every week or every time you do a
+38:20 plan post piur is there a way Jolina is
+38:23 there a way because all the work we do
+38:25 is through other designers and stuff
+38:27 yeah helping them is there a way to give
+38:30 credit to them at the same time oh yeah
+38:33 for sure we post so yep so posting in
+38:36 your Google business profile is just
+38:38 like posting in any other social media
+38:41 platform there's place for a caption um
+38:43 there's a place to go further in depth
+38:46 about the content that you're posting
+38:47 there I mean we even post like Dan's
+38:50 Live Events and like things that are
+38:53 time bound um so you can use it just
+38:56 like any other space and whatever you
+38:58 add for a caption like credit um to
+39:01 someone else will definitely be there
+39:07 okay so all you have to do to make that
+39:10 work
+39:11 John shareing the right screen here we
+39:14 go um so this what it looks like all you
+39:17 gotta do is go hit add photo put a photo
+39:20 in here okay and little description
+39:23 you're done yep and you can you can
+39:26 square up just like you would on social
+39:29 um so you could possibly use them having
+39:31 more than one destination you could put
+39:34 them there you could put them you know
+39:35 on your social profiles if that's what
+39:37 you do um but you just want to make sure
+39:40 that you are in your Google Business
+39:43 platform so so if I I put on there
+39:46 something if I put on there something
+39:47 like enjoyed working on this project
+39:49 with such and such design yes yes and
+39:52 there' be a link to their to their
+39:54 website andu too if I did so we link to
+39:59 um events when events have regge pages
+40:01 so I would imagine that you could do
+40:04 that inside of the caption um I don't
+40:07 know that I've done it that way but I
+40:09 would think
+40:10 so okay
+40:12 yeah um so just experiment with it try
+40:15 it you guys so everybody on the call
+40:17 should be doing this I mean it's one of
+40:18 the best marketing tools you could do to
+40:20 expand your digital footprint it's easy
+40:22 to do well and I think too Dan it is
+40:26 validating right because it's almost
+40:28 like you know in many of your cases you
+40:32 are the
+40:33 product right like they are buying your
+40:38 specific set of skills and they are
+40:41 buying the opportunity to work with you
+40:44 right when you are then vetted right so
+40:47 we go to Google we vet the products and
+40:51 services that we're buying if you don't
+40:53 appear it's just a little notch in your
+40:56 credibility
+40:57 um and so I think that you know it's so
+41:00 hard to get a good qualified lead that
+41:03 wants to work with us just taking this
+41:06 extra step in the validation of our
+41:10 awesome existence is a relatively easy
+41:13 thing in the scope of marketing plans
+41:16 that we can do yeah and so that's
+41:18 another reason why I think it's really
+41:19 important is it lends credibility to who
+41:22 we are and what we do
+41:27 the big thing is just do something right
+41:30 just do something yeah the big thing is
+41:33 do something with your social media at
+41:35 least once a
+41:37 week consist consistent yes or even if
+41:40 it's not once a week even if it's just
+41:42 twice a month as long as you're
+41:44 consistent with that right just and
+41:47 Robin the little asteris behind that is
+41:49 that do something of quality do
+41:53 something that makes people's lives
+41:56 better
+41:57 like you have a tremendous wealth of
+42:01 knowledge and information and the things
+42:04 that you know are beneficial to the rest
+42:06 of us so I think we have to kind of stop
+42:09 overthinking what is quality content and
+42:12 rely on what you are subject matter
+42:16 expert about and talk about that that is
+42:21 helpful that is what's
+42:23 authentic yeah exactly that makes sense
+42:26 and you know what get over myself when I
+42:28 say that I'm looking at myself it's just
+42:31 get over myself just do it don't don't
+42:33 think about it so much just do it don't
+42:36 think about what other people think
+42:37 about it you know I I see things all the
+42:40 time from other designers out there and
+42:41 they'll post something and I just go
+42:44 well duh you know but somebody out there
+42:47 doesn't know that somebody out there
+42:49 does not know that and that's same thing
+42:52 with all of us with everything we do
+42:54 it's it's just well everybody knows that
+42:56 it's like no the reality is not
+42:58 everybody knows that and what I hear you
+43:01 saying Robin is link you are not solving
+43:04 a problem for your your contemporaries
+43:10 you're solving a problem for your
+43:11 customers yeah right absolutely and your
+43:14 customers absolutely don't know what you
+43:16 know and that's why they come to you um
+43:19 and especially like in
+43:21 design um like you know I have clients
+43:25 where like they provide such tremendous
+43:29 Solutions and one thing that we've
+43:31 discovered is that their homeowners
+43:33 don't always know how to
+43:35 articulate what they want or what they
+43:37 need exactly and so one of our
+43:39 challenges has been okay so you know
+43:42 you're a general contractor who also
+43:44 does you know design you know using
+43:46 Chief Architect so how do we let people
+43:50 know that there are solutions for the
+43:53 kitchen of their dreams right how do we
+43:56 like put that into language they can
+43:58 find so maybe we turn that into um you
+44:02 know seven kitchen trends that you might
+44:05 not have thought were possible that we
+44:07 can totally create for you you know
+44:10 mixers that go down in the thing and the
+44:13 the drawers that close you know like all
+44:16 those a place to hide your broom like
+44:19 all of those things that homeowners
+44:20 really want we need to turn that into
+44:23 solution based part of that part of that
+44:26 is we have to remember remember to think
+44:27 like a homeowner because correct we're
+44:29 so used to just doing this every day for
+44:31 us it's all second nature and like oh
+44:33 yeah make a little closet there no big
+44:35 deal uh but people don't think of that
+44:38 stuff no you know exactly ex architect I
+44:42 I always have to remind myself that you
+44:44 know I started you know I grew up with
+44:47 the program so it was easy for me but
+44:48 someone just getting into it now they
+44:50 don't know at all those icon mean they
+44:51 don't know all of this stuff so I
+44:53 remember keep it simple remember where
+44:55 they're you know put myself in their
+44:56 shoes so keep that in mind yeah that's
+44:59 one of my that's one of my my my things
+45:02 to get people to go with me instead of
+45:04 you Dan is I feel their pain you don't
+45:08 feel up with it but I feel their
+45:11 pain you feel the pain nice John that
+45:15 was good John that was really
+45:18 good I can like hear Dwight off to the
+45:20 screen going
+45:24 burn that works the pain know you know I
+45:27 was just playing with some photo editing
+45:30 over Christmas and I'm in canva I was on
+45:34 there trying to figure out how to edit
+45:35 pictures and it's like yeah I felt the
+45:37 pain so yeah I get what you're saying
+45:39 John absolutely absolutely well and I
+45:44 like the marketing word that like drops
+45:46 down from the sky in this conversation
+45:48 is just it's positioning remember your
+45:52 position right like remember you are the
+45:56 subject matter expert remember that you
+46:00 have a wealth of knowledge and that you
+46:02 provide solutions that make people's
+46:04 lives better so are you saying exactly
+46:08 right are you presenting it um I think
+46:11 that that's you know a really great
+46:13 mindset as you think about because I
+46:16 understand you're running your business
+46:18 you're tending to your clients and then
+46:20 oh by the way I also need to focus on
+46:22 lead generation getting more clients and
+46:25 keeping my bench full and the pipeline
+46:27 going so I think with that too another
+46:30 you know kind of easyish marketing hack
+46:34 is it's month one is take that 30 foot
+46:38 View and set goals for the things you're
+46:41 going to do one or two each month in
+46:44 marketing and my example would be like
+46:47 if there's something that you know that
+46:49 always comes up at a particular time of
+46:52 year is figuring out what that is
+46:54 setting reminders and being ahead of it
+46:57 my best example here is we have
+46:59 customers who sell physical products and
+47:02 they weren't prepared for what they were
+47:05 going to say around Black Friday they
+47:07 weren't prepared for what they were
+47:09 going to say for end of year and so it
+47:12 like came up and it bit them because
+47:14 they just weren't prepared and then you
+47:16 know they came to us but the idea is is
+47:18 that if you take that 30 foot view
+47:20 looking at your year then we're always
+47:23 working ahead it's kind of like with the
+47:25 total immersion Summit um for for chief
+47:28 experts is that we've been talking about
+47:31 that for 11 months right or when it gets
+47:35 here it'll be 11 months and that's
+47:37 because we know our customer needs time
+47:40 to plan and prepare and that's one of
+47:42 those things that we want to come up and
+47:44 catch us and bite us the same is true
+47:46 for all of our businesses is just taking
+47:49 that look the view and then setting some
+47:52 reminders and making those ideas of
+47:56 implementation
+47:58 attainable right now I think another
+48:00 thing to keep in mind too is a lot of
+48:02 people are busy you know doing a little
+48:04 research on the construction world yeah
+48:07 and you know it's
+48:09 appearing that it's gonna stay busy that
+48:11 there continue to be growth in the
+48:14 residential market for new homes and for
+48:17 remodeling um so people will continue to
+48:21 be busy so this is a perfect opportunity
+48:24 for someone that's busy to enhance their
+48:28 digital footprint by taking care of some
+48:30 of the things that we're talking about U
+48:33 right no better time to Market than when
+48:36 you don't need to
+48:38 exactly exactly think of it as brand
+48:40 building instead of
+48:42 marketing which they are the same really
+48:45 but um with that in mind you build your
+48:48 brand you build your awareness of people
+48:50 you build that no like trust and your
+48:55 projects will probably get better you be
+48:57 able to charge more for them you can
+48:58 improve you increase your profits you
+49:01 know all that kind of good stuff will go
+49:03 with that so you know it's not just
+49:05 about finding leads it's about building
+49:07 your brand right and Dan also your
+49:10 community um because one other thing
+49:12 that I think you know put this on your
+49:15 bingo card for
+49:16 2025 is that okay because of our
+49:19 saturation of content and the delug
+49:22 coming at us all the time consumers are
+49:25 now much more interested in the
+49:28 connection um to the businesses that
+49:31 they choose to work with so the best
+49:34 example I have is one of my favorite
+49:36 sets of clients um aiset design build
+49:38 Wilmington South Carolina um amazing
+49:42 designers and Builders love these guys
+49:44 so much one of their strategies has been
+49:48 to do something community-minded and
+49:51 focused once a quarter and they invite
+49:55 their past clients to be a part of it um
+49:58 and their whole crew they wear their
+50:00 aiset design build t-shirts and they are
+50:03 doing like the plastic oceans project
+50:05 where they're cleaning up you know kind
+50:07 of garbage at waterways um they also
+50:10 cleaned up and did some painting and
+50:12 Renovations at a preschool like they do
+50:15 things where the community sees them out
+50:18 and about and they're invited in or um
+50:21 relief efforts or secret Santa or you
+50:24 know any one of these kinds of things
+50:27 and then they even invited customers
+50:30 clients um and crew to like a minor
+50:33 league baseball game and they all wore
+50:35 aiset design build shirts so they're
+50:38 present in the community and I think
+50:41 that that especially in local lead
+50:43 generation if you are general
+50:45 contractors who also do Design This is
+50:48 critical because it brings you out of
+50:52 the inaccessibility and it removes the
+50:54 barrier between us and Them and it makes
+50:57 you one of them it brings you so much
+51:00 closer to your potential customer and
+51:02 client um and they've created this
+51:06 community and this network because in
+51:09 your line of work referrals are a super
+51:12 big thing and so just this network that
+51:14 they've created it just perpetuates and
+51:17 it's you know it's doing two things it's
+51:20 being good humans but it also is brand
+51:22 awareness and the third thing is it gets
+51:24 them leads yeah absolutely
+51:27 35 star reviews on Google my
+51:29 business so for those people who um so I
+51:34 teach at a local college right I teach
+51:36 an our interior design program and what
+51:38 I am noticing is this is that a lot of
+51:41 our um students they're young and they
+51:45 are influencers right they're very aware
+51:48 of social media yeah so um two of my
+51:51 students just recently got jobs as they
+51:55 they did an internship but then they
+51:56 ended up getting a full-time position as
+51:59 a designer and doing their social media
+52:03 sure so here's a way to resolve two
+52:06 issues that people have Dan just said
+52:08 you know the economy looks like we're
+52:09 going to be busy longer right so you
+52:11 still need who could do CAD for you you
+52:14 need somebody who can still go out and
+52:15 look for materials or you know do
+52:17 certain things that you need but you
+52:19 don't need them
+52:20 full-time so a lot of these younger
+52:22 students who are leaving school are
+52:25 really involved in social media yeah
+52:27 they know this stuff so here's a way to
+52:30 get somebody in house who knows your
+52:32 story who can you know do this for you
+52:36 at but they're not full-time doing it
+52:38 right so you don't have somebody doing
+52:40 you could hire um so it's just an
+52:42 opportunity for people to think about um
+52:47 different opportunities and ways to do
+52:48 it so it's not on your PL it's not on my
+52:51 plate I can give this to somebody else
+52:54 um I do want to make a comment about
+52:55 Bill Murray I have to tell you house
+52:58 years ago was an amazing place for leads
+53:00 in Portland Oregon it's a horrible Place
+53:03 horrible place for leads but it used to
+53:05 be amazing yeah so Bill that's a great
+53:07 question about house I'm I'm wildly
+53:10 conflicted about it because I feel like
+53:14 it's become so much of a
+53:17 shopping
+53:19 center um and the way too that they have
+53:23 got their internal mechanisms that end
+53:25 up costing you money to be you know put
+53:29 out in the feed um I feel like with with
+53:33 house what I've seen is the
+53:35 deterioration between the connection I
+53:37 was talking about like you're so far
+53:40 from your consumer and your customer
+53:43 because there are all of these layers
+53:45 that it feels like it's almost like
+53:47 they'd be surprised to call you and get
+53:48 a real person on the other end if that
+53:50 makes sense um and so I wouldn't waste
+53:53 your money on it I wouldn't either but I
+53:54 would also like if it's if it's worked
+53:57 for you in the past and you know you
+54:00 enjoy being there um I wouldn't snc a
+54:04 lot of money into it if I had to choose
+54:06 I would focus definitely more on Google
+54:08 and SEO well it's still a free version
+54:11 Don't They house they they do but just
+54:14 like any free version you don't get
+54:17 priority you won't get much yeah yeah
+54:20 but you know if you're posting pictures
+54:21 of projects at one site do it there too
+54:24 at least you're building your dig
+54:26 footprint to some degree you know what
+54:29 though Dan I have to tell you I I would
+54:31 say I I just Googled myself recently and
+54:34 I have um I probably have 50 images on
+54:38 50 projects on house and it did not come
+54:41 up at all I mean and I have like three
+54:44 you could Google me for a really long
+54:46 time there's a lot of about me on the
+54:47 internet and that never once came up um
+54:51 I would say to you Bill there I would
+54:53 focus more on your Google
+54:56 account I would Google more on other
+54:58 things than House's it's just it's kind
+55:02 of a mess and what you end up getting is
+55:03 a lot of emails from people saying what
+55:06 color was the tile you used on the
+55:08 backsplash what color grout did you use
+55:10 what was the paint color like that's and
+55:13 if you don't respond then those things
+55:15 will um it'll push you down further you
+55:18 have to keep responding on a regular
+55:20 basis to all those questions so I will
+55:23 tell you there are better listen to Joel
+55:26 and don't bother with house and I'm
+55:30 always saying that from experience like
+55:32 it's not like I do have kind of a funny
+55:35 antidote about house again a favorite
+55:38 client uh did really really well in
+55:40 house um and we figured out it was
+55:43 because I mean the pictures were great
+55:45 the projects were great um but one
+55:47 particular picture um there was a really
+55:49 cute dog um in the picture and so
+55:54 everyone when it came across it just got
+55:55 likes legs and legs and you know all the
+55:57 things um and it was like the number one
+56:02 most hit is because it's really cute dog
+56:05 yeah he didn't generate any leads um but
+56:08 it like you know pushed him pushed him
+56:10 way up yeah Steve exactly exactly that
+56:14 like it's great success and stopped yeah
+56:17 when it was brand new I was a house Pro
+56:19 and I can't tell you the amount of leads
+56:21 I got I got killer leads when it first
+56:23 started like amazing leads
+56:26 I have not yeah it's like move on go go
+56:31 to other
+56:34 opportunities yeah oh well that's good
+56:37 and I think it's really Regional um
+56:39 Portland Oregon dead like don't even
+56:41 consider it in like in my area at all um
+56:45 I've heard some people are doing okay
+56:47 with it but again I would still consider
+56:48 other options I do like the widget
+56:51 though like the widget that connects
+56:53 like your reviews I'm not sure if that
+56:55 is the paid version um but I'm glad to
+56:58 hear that it's like getting you leads
+57:00 that's awesome if it's working then
+57:02 you're doing the things of making sure
+57:04 you're measuring it and that it's an
+57:06 effective use of your time and if all
+57:08 those things are true then keep going if
+57:11 somebody were just starting now I would
+57:14 say prioritize some of these other
+57:16 things um and then if you want to Pepper
+57:19 in a house strategy um but I do like the
+57:22 the review widget that's cool how about
+57:25 LinkedIn
+57:26 you know keeping your profile up to date
+57:29 and doing things there doesn't that that
+57:31 that always used to be one of the things
+57:33 if you'd search for someone that would
+57:35 always be on first page is that the base
+57:38 well I think it goes with you know one
+57:41 of the things I say all the time is
+57:42 making sure that you have your digital
+57:44 house in order and what I mean is if I
+57:47 find you on one channel or in one space
+57:49 it's going to match what I find in
+57:51 another space and so I think that you
+57:54 know making sure that link
+57:56 Instagram Tik tock house like whatever
+58:00 Facebook whatever you're using it has to
+58:03 be one on brand two it has to be current
+58:06 and three it needs to point people in
+58:08 the right direction because again we're
+58:10 messing with your credibility if all of
+58:13 the wires are sending people in lots of
+58:15 different places it's like I want to
+58:18 trust you right I want to trust that
+58:20 when I find you I find you and so I
+58:23 would say if you don't have a solid
+58:25 strategy on some of those social
+58:27 channels at least every year do a quick
+58:30 audit and make sure that it's updated
+58:32 yeah so again you know just go out and
+58:36 have some fun with marketing I guess
+58:37 that's kind of the bottom line it
+58:39 doesn't have to do something right do
+58:41 something doesn't have to be this big
+58:42 ugly thing that you know straps you down
+58:45 and beats you up uh go have fun with it
+58:48 go share good things with people and
+58:50 that's marketing and see what you could
+58:53 do with that so well I think down to
+58:55 your point it's all marketing like
+58:57 you're always doing it it's always brand
+58:59 awareness because excuse me you are the
+59:04 product yeah the old thing absolutely
+59:08 marketing is everything and everything
+59:10 is
+59:12 marke um which is true it's really true
+59:15 I mean job site cleanliness that's
+59:17 marketing right Market it make it people
+59:21 aware of it so why not because it's true
+59:25 we have the cleanest job sites in town
+59:27 what about Angie Angie's List Angie's
+59:32 List Angie now yeah yeah Angie now I I
+59:37 don't think I've ever heard talk to
+59:39 anybody that had a good thing to say
+59:40 about it yeah I don't have a lot of data
+59:42 on that one I'm afraid yeah but people
+59:45 are using it so I just say be cautious
+59:47 don't sign any into any big time
+59:49 agreements that going to cost you a lot
+59:51 of money um if you can get into it and
+59:54 try it great but I've heard a lot of
+59:57 horror stories about it so maybe they've
+1:00:00 improved yeah hard I hard sell stores
+1:00:05 that's basically what I've heard so but
+1:00:09 I don't know anything about it either
+1:00:10 [Laughter]
+1:00:12 so other resources by water of mouth in
+1:00:16 real
+1:00:17 estate Doug I totally agree I think that
+1:00:21 like again Community Connection and
+1:00:23 establishing relationships with real
+1:00:26 estate agents is so smart so so smart
+1:00:29 because again it might be that um like
+1:00:33 they don't know and I've even heard this
+1:00:36 lead generation idea where um you know
+1:00:39 you establish a relationship with a real
+1:00:41 estate agent who is selling homes that
+1:00:43 definitely need a renovation and an
+1:00:45 update and then they can call you or
+1:00:48 bring you along on a showing and be like
+1:00:51 boom this this this this this this this
+1:00:53 is possible and you've had an
+1:00:55 introduction
+1:00:56 and that lead is no longer cold they're
+1:00:58 warm right at least you're not a
+1:01:00 stranger to them and if you have the
+1:01:02 flexibility to send somebody out like
+1:01:04 I've heard that being an incredible like
+1:01:07 partnership and lead generation
+1:01:09 opportunity for folks like yourself yeah
+1:01:12 you know the other thing to not don't
+1:01:13 forget don't forget about and this has
+1:01:16 always been my focus is don't forget
+1:01:19 your past clients I believe in the
+1:01:21 theory of spending 80% of my clients on
+1:01:25 my referrals
+1:01:26 80% of my marketing dollars on my on my
+1:01:29 previous clients I would rather buy my
+1:01:32 client a great bottle of wine pass
+1:01:34 clients wine or take them out to dinner
+1:01:37 or send them a gift certificate for
+1:01:38 something if they were a great client to
+1:01:40 keep my name in front of them as opposed
+1:01:43 to spending all my money on New on what
+1:01:47 what do they say is most people spend
+1:01:50 80% of their marketing dollars on 20% of
+1:01:52 cold Leeds and they spend 20% of their
+1:01:54 dollars on 80% of their solid leads and
+1:01:57 you really should be putting your money
+1:02:00 I I strongly I have built an incredible
+1:02:03 client base by taking care of my
+1:02:06 previous clients and touching out
+1:02:09 reaching out to them we're about done
+1:02:11 here but Paul says never pay someone for
+1:02:13 lead you don't have to do that but at
+1:02:15 least appreciate them a gift card to a
+1:02:17 restaurant a bot of wine you to thank
+1:02:20 you I think I think he was talking about
+1:02:23 he was talking about how and and Angie
+1:02:25 and oh that kind of lead yeah well and
+1:02:28 Robin I'll just say that what you're
+1:02:29 describing is called relationship
+1:02:31 marketing relationship marketing is um
+1:02:34 another strategy and it's not like you
+1:02:36 want to like use people but what you're
+1:02:39 saying is Absol is absolutely true it is
+1:02:41 like so much more expensive to go out
+1:02:43 and get new leads and new clients than
+1:02:47 it is to nurture tend and take care of
+1:02:49 the ones that you've already had because
+1:02:51 we've already established no like and
+1:02:53 Trust so making sure that you are
+1:02:55 staying connected with them engaging
+1:02:58 nurturing is a really great like
+1:03:01 business strategy and I mean it's good
+1:03:03 human being stuff too so you're on to
+1:03:06 something there but it's one of those
+1:03:07 things where you have to take care of it
+1:03:09 and nurture it and you can't just do it
+1:03:12 five years later like you have to you
+1:03:14 know keep that you know in the loop of
+1:03:16 the things that you do so last one
+1:03:18 Doug's got you know uh after the fact
+1:03:23 projects start something
+1:03:26 officers yeah I'll tell you I've gotten
+1:03:29 a lot of clients from my from my
+1:03:32 attorney because he he's he's like I'm
+1:03:36 dealing with this contractor Robin and
+1:03:39 it's this project is really bad you need
+1:03:41 to go in there anyway get him how you
+1:03:43 can get him I
+1:03:45 say anyway we gotta go you guys jul
+1:03:49 thank you for being everybody my
+1:03:51 pleasure Everybody Take Care we'll see
+1:03:53 you next time bye all right bye
+1:03:55 everybody bye every
+1:03:56 by

@@ -1,0 +1,1792 @@
+---
+videoId: OeHDnzN-EvQ
+title: Template Tuesdays #17  Finishing Touches And Workflow Improvements
+url: "https://www.youtube.com/watch?v=OeHDnzN-EvQ"
+status: imported
+---
+
+# Transcript
+
+0:03 What's going on everybody?
+0:06 Happy Taco Tuesday.
+0:09 Template Tuesday.
+0:12 Uh yeah, I have a nearly complete I have
+0:16 a nearly completed project. Nearly.
+0:20 And I want to improve it. I want to
+0:24 improve the final look of the project. I
+0:27 want to see what I can do about that.
+0:28 And then
+0:31 and then I want to kind of review some
+0:33 things that while I was working
+0:36 I just needed to
+0:40 that that could have been better like
+0:41 things that felt like they were slow and
+0:44 I could make better. Yeah. Um
+0:50 so that's what I was thinking we would
+0:52 do on this on this lovely Tuesday.
+0:58 So, I'm gonna jump right in. Good
+1:00 morning. Good morning, Victor. Thank
+1:02 you. Um, is that the project I worked
+1:05 for on eight hours? Yes, it is. Yeah, it
+1:08 is.
+1:10 I uh I get the feeling that some of you
+1:13 crazy
+1:15 out there are actually going to watch
+1:17 that eight hours. That's just wild. I
+1:19 know someone's already doing it right
+1:21 now. So, um, that's so impressive to me.
+1:25 Uh, I only did it because, you know,
+1:28 that I know that there's a few of you
+1:29 out there that will really go watch that
+1:31 whole eight hours and get some great
+1:32 stuff out of it. So, that's awesome. In
+1:34 case you didn't know that, that's on my
+1:36 YouTube. Um, it's not in the live. I
+1:38 didn't do it live. I recorded it. Um,
+1:41 and if anybody has been watching it and
+1:44 actually made it through, I'm so
+1:47 curious. I'm so curious to see how you
+1:49 did it. Um, because that's just such a
+1:51 long long long video. It's a crazy long
+1:55 video. And uh and let me know when you
+1:58 run into there's an intermission. I'm
+2:01 curious to see who runs into that
+2:02 naturally and if they could tell me what
+2:04 the time stamp is on it. That's kind of
+2:06 fun for me. Um but yeah, anyways, that's
+2:10 what's we're talking about in the
+2:11 comments is they've got an 8 hour video
+2:13 which is just nuts. But that was me uh
+2:15 drafting this project. And you know, I
+2:18 don't usually um have projects where I'm
+2:20 drafting for that length of time. um if
+2:22 I'm if I'm doing it, it's more design
+2:25 work. This was actually truly drafting.
+2:27 And the reason it takes so long is when
+2:29 you get into the really detailed
+2:32 nitty-gritty of doing um room by room
+2:35 elevations and that just takes time,
+2:37 especially if you start to try to like
+2:39 create materials or objects that you're
+2:41 missing or something like that. And then
+2:44 on top of that, I definitely um took
+2:46 some like sidebar action to make a
+2:48 couple of utilities that would really
+2:50 help me out. And uh and one of them I'd
+2:53 like to talk about right away actually
+2:54 because it's been a big impact to my
+2:57 workflow which is that and let me just
+2:59 switch to um second here. We'll just
+3:02 switch to the webcam. Um Chief Architect
+3:05 now accepts webp
+3:08 image formats and webp is um can be a
+3:13 lossless format just like PNG.
+3:17 And so whereas JPEG is um is a
+3:21 destructive pixel format and where
+3:24 there's compression, PNG is no
+3:26 compression. And that's why you
+3:28 typically want to do at least your
+3:30 diffuse map or what Chief Carl calls
+3:33 your texture map, you would want to do
+3:35 in a in a PNG. Um when you make it into
+3:39 a JPEG and it's compressed, it doesn't
+3:41 look as good in 3D views. So, if you're
+3:43 wondering why, you know, some of my 3D
+3:45 views look really fantastic because I
+3:47 was always using PNG. Um, and then the
+3:50 secondary maps, if you want to, you can
+3:52 switch that to JPEG to get um more file
+3:55 compressions so that your files are
+3:56 smaller.
+3:58 Um, I have in the in the hunt for
+4:02 getting to a faster backup, I've gone
+4:05 through and I wrote a script that sits
+4:08 there and iterates through all of my
+4:11 images in asset manager. And let me jump
+4:14 back into that. Um, and so in the tools
+4:18 asset management,
+4:21 uh, if you set this to be owned by you
+4:24 and not owned by chief architect, it's
+4:26 going to show you all your images. Well,
+4:27 I exported all these texture images
+4:31 and and so from that, oh, that's
+4:34 interesting. Oh, there we go. It's
+4:35 resizing now. Um,
+4:38 from that
+4:40 then I wrote a script to change them all
+4:43 to WEBP. And then I wrote a script to go
+4:45 and go through and replace this and it
+4:47 took hours. Um, but anything that's not
+4:50 a JPEG, if it's a PNG, I was trying to
+4:52 replace it with a WEBP. Now, it wasn't a
+4:54 perfect system, um, it would make some
+4:57 errors sometimes. That's just because
+4:59 the only way you can get this to replace
+5:01 in an automatic way is to search by
+5:03 name. And sometimes you get some false
+5:06 positives on name searches. So, there's
+5:09 some things that got screwed up. I'm
+5:10 probably going to have to fix them over
+5:12 time as I find them. Um, one of which I
+5:14 I know is in this project. And I'll show
+5:17 you why it got screwed up. But so the
+5:21 WEBP image format is is a more
+5:24 compressed format, but it's but it can
+5:27 be lossless. And so that's
+5:31 going forward that's a way better thing
+5:33 to do when you're bringing in outside
+5:35 objects. And and so to in in order to
+5:40 try to improve that from a workflow
+5:43 standpoint, I was like, "Okay, when I
+5:45 make a material, am I going to go into
+5:46 Photoshop and save it as WEBP?" Um,
+5:49 considering it's kind of a cumbersome
+5:51 process in Photoshop. That doesn't make
+5:53 a ton of sense. And not only that, but
+5:55 I'm always doing screen clippings and
+5:57 then bringing that into Chief. And so
+6:00 something I did in that 8 hour show I
+6:02 think was when I did it was I created
+6:06 um a listener is what I call a listener
+6:09 anyways. It's basically scrubbing a
+6:12 folder looking for any PNG files and
+6:14 immediately converting them to WEBP. So,
+6:17 I'll show you how that works. Is if I
+6:18 just take a screen clipping of this
+6:20 screen right now, my downloads folder is
+6:25 already scrubbing for that. And you'll
+6:28 see it converts it really, really
+6:30 quickly. So, here's my webp folder where
+6:33 that's automated. And um there it is.
+6:38 That's the screenshot is that was the
+6:40 WEBP conversion. it's already converted,
+6:43 which just makes it so easy to update my
+6:47 materials and bring in materials that
+6:50 are more compressed and so my file sizes
+6:53 are smaller, which makes my backups
+6:55 faster, which makes my file sharing
+6:58 better across a team. Um, so that's in
+7:01 that video and that's right along the
+7:03 lines of what we're talking about in
+7:05 this hour, which is how can we improve
+7:07 our workflow. Um, I want to do something
+7:10 just real quick for this main page. I
+7:14 This blank area is bothering me. I have
+7:16 so much speck writing on the next page.
+7:18 I'm going to bring some of that spec
+7:19 into this page just cuz I think it'll
+7:22 improve the look of it. Um, this is
+7:24 another one I just got the idea that,
+7:27 hey, I've got this beautiful watercolor
+7:30 rendition of this house right here. Why
+7:33 not just convert, you know, the maps to
+7:36 watercolor? So, I have a prompt. Um,
+7:38 maybe I can. I feel like it's really
+7:41 long to dump in the chat window, but
+7:43 maybe I will dump the the prompt into
+7:45 the chat window, but let's just do a
+7:48 test of it real quick. Is I'm just going
+7:50 to I'm going to look up a a street
+7:54 address.
+7:56 Why not?
+7:58 um
+8:04 is on a side side
+8:07 thing here. Let's just bring this in
+8:10 and
+8:13 well it's labeled. Maybe I maybe I don't
+8:15 give you that address. [laughter]
+8:17 Let's go let's pick some other address.
+8:21 Let's do this one for instance.
+8:24 Uh yeah. And so
+8:27 what happens if 4,000 what is this? 4009
+8:31 Everett. 409 Everett 4,09 Everett
+8:37 Oakland.
+8:39 Why not? So we get this little marker on
+8:41 here. And so I have an instruction for
+8:46 my chat GBT to do a watercolor rendition
+8:50 of this.
+8:53 Okay. do this one
+9:01 and we'll see how that goes. We'll come
+9:02 back to that in just a second.
+9:06 Um,
+9:08 and so yeah, that's what's happening
+9:10 here is the instruction set basically
+9:12 says, you do a watercolor rendition,
+9:15 make sure that the street names are are
+9:17 really legible, and then kind of fade
+9:19 out all of the other houses, leaving
+9:21 just the one house really bright. And I
+9:24 don't know, I really like the look of
+9:25 this. Um, so that's something I was
+9:28 working on. So, we'll come back to that
+9:30 in just a second. Uh, next page is my
+9:34 spec writing. I don't know why my hotkey
+9:36 is not working. There we go. And then so
+9:38 I know that I could take my probably my
+9:41 general tweeote standard code notes
+9:47 and and
+9:51 boy all the rest of these are so large
+9:55 and I can almost take the abbreviations
+9:57 and split them up into two. Let's try
+10:00 that real quick. So let's take all
+10:01 these. I'm going to cut them. Um for me
+10:04 cut is control X. That's a systemwide
+10:07 uh hotkey, meaning other programs use
+10:10 Ctrl X to cut something as well. Um,
+10:14 and then uh you can very easily use some
+10:19 of the tools in the edit toolbar such as
+10:20 align distribute objects, which is this
+10:23 guy right here. And so I'm going to do
+10:26 top edges to just get these all aligned
+10:28 on the top edge. Right. And then the
+10:31 next thing that I can do here and and
+10:33 I'll just leave these kind of down here
+10:35 is I can take a line and just say, hey,
+10:39 I want to go from about let's say about
+10:42 here to about there and select all these
+10:47 again.
+10:48 And actually before I select all these,
+10:50 let's I'm going to break up this
+10:51 abbreviations. So I'm going to copy
+10:54 paste this, drag it over. I will
+11:00 drag this to there, which means I'm
+11:03 dragging this to there.
+11:07 Okay,
+11:09 let's make sure that these are all
+11:10 aligned again. Top edges. This will
+11:13 remember your last setting. So, you can
+11:15 just press okay.
+11:17 And then I'm going to align distribute
+11:19 along line
+11:22 and pick the line. So, that's how this
+11:24 tool works. See how that's highlighting?
+11:26 I'm going to pick the line and I'm going
+11:29 to uh space evenly and
+11:35 space evenly and distribute between end
+11:38 points
+11:40 and
+11:42 distribute between endpoints. Yeah.
+11:45 Okay.
+11:47 Um and I thought I could space centers
+11:50 evenly and maybe I'll just do that with
+11:51 the
+11:55 space evenly. Yeah,
+11:57 you could do centers, but
+12:01 along line
+12:04 I missed something here. Uh, alignment
+12:07 centers. No, none. Space evenly.
+12:10 Distribute centers evenly is what I
+12:12 wanted. And distribute between
+12:13 endpoints. Oh, no. I still got it wrong.
+12:19 Distribute two end points. That's what I
+12:21 want. There we go.
+12:23 Except for that didn't space evenly.
+12:26 This must have picked up something else.
+12:28 It's acting like there was something in
+12:30 between these two cuz that should have
+12:33 been equal distance everything there.
+12:38 Funny. Try that one more time.
+12:44 End points. There we go. That's the look
+12:46 I want right there.
+12:49 Yeah, exactly.
+12:52 And that fills that page in nicely. And
+12:54 so then I got to go fix, you know, this
+12:57 as well. So really, you're just taking
+12:59 this, you're doing
+13:02 maybe I'm just going to do four rows
+13:04 instead.
+13:06 So I could just do
+13:10 pick up this center line and pick up
+13:14 this center line through inference.
+13:17 Yeah. And then take this
+13:21 and that and use that same tool
+13:25 and leave the settings the way it was.
+13:27 Right?
+13:27 >> So now you're just using your centering
+13:30 tool to get this all set up
+13:38 right. Center up, center up, center up.
+13:47 Hold shift when you're moving stuff.
+13:49 That'll keep it moving in a polar
+13:52 direction.
+13:58 Yeah, that looks better. Maybe I could
+14:01 probably tighten that up.
+14:04 Probably will tighten that up.
+14:10 And I think I get to select all this
+14:12 time.
+14:18 Nope. [laughter]
+14:22 Nope.
+14:25 Not at all.
+14:30 Try this again. You just have to do the
+14:32 top ones. It's a little more work,
+14:34 right? There's no automatic on this one,
+14:36 I guess. There you go. That tightened it
+14:38 up.
+14:48 I don't know. I still can improve that,
+14:49 I think. We'll leave it that way.
+14:53 Okay. Um, is this an asbold or new
+14:55 construction? Tell you what, Victor, I
+14:58 don't know. I didn't study it well
+14:59 enough to know. I I couldn't tell you.
+15:02 Um, at first I thought it was new
+15:04 construction. I think it might be an
+15:06 asbuilt. Um, it was just the way that
+15:09 the architect approached it. the
+15:10 original drawings look like it was new,
+15:14 but I think it's an asbuilt. Um, here's
+15:17 what it did to this map.
+15:21 Now, it did not do
+15:24 the style that I wanted because it, you
+15:26 know, I wanted it faded out. But I'm
+15:28 also not mad at this. This looks good.
+15:31 Um, I'll just tell it to fade the
+15:37 um other houses more and leave the main
+15:44 house vibrant
+15:46 or something
+15:49 or something
+15:51 and we'll see how it does with a little
+15:53 edit. That's too bad. I was really
+15:55 hoping that would get it for shot.
+15:57 You never know.
+15:59 Okay, now um back to this project.
+16:06 I'm still working on the way I want my
+16:09 plot plan to look. Um I know that I like
+16:12 to do something that makes this look
+16:15 really nice, which is to catch shadows
+16:18 on
+16:20 on the project. And the new cladding
+16:25 function in Chief Architect leaves a
+16:27 little bit to be desired in that field
+16:30 in that I can't figure out how to turn
+16:33 off cladding if I want to turn it off.
+16:36 Um so if anyone knows if that's
+16:38 possible, please leave a comment in the
+16:40 chat. That new cladding feature, I've
+16:42 not been able to just turn it off. So,
+16:44 if I pull a um a 3D view and I want it
+16:48 to make I want it to be like an
+16:49 orthographic view top down and I don't
+16:52 want to show the cladding. I want and I
+16:54 want this to be kind of like a vector
+16:56 view. Look at it's showing all the
+16:58 cladding. I don't want to see that
+16:59 because I'm just trying to catch a
+17:01 non-clatted
+17:04 view of this to grab like the shadows
+17:08 and everything and overlay this on my
+17:10 plot plan because it looks great. but it
+17:12 does not look great with the cladding
+17:14 turned on. So,
+17:16 um, this looked good in X17 and now this
+17:20 is actually a step backwards to me. So,
+17:23 I'm curious if anyone knows if that's
+17:24 possible.
+17:26 And then, uh,
+17:28 oops, it faded it too much.
+17:32 Boy, doesn't chat GBT doesn't know
+17:34 subtle subtleties.
+17:37 Just slight fade. Just want a slight f,
+17:40 you know, little slight fade.
+17:42 Uh, okay.
+17:46 Now, back to this. Um, I know some
+17:50 improvements I want to do to my
+17:51 landscape view. And so, this is just me,
+17:54 you know, looking through all these plan
+17:56 views and talking about what I can do to
+18:00 improve them. Uh, one, it's showing some
+18:02 stuff in the house that I don't know
+18:04 what it's showing. So, I need to make
+18:06 sure that I go turn this off. Yes,
+18:08 ceiling planes should not be turned on
+18:10 in this view. And neither should
+18:14 What is that? That's That's a ceiling
+18:17 surface, but that's a
+18:19 that's actually like a a molding or
+18:21 something. Molding.
+18:25 Molding's turned on.
+18:27 Yeah. Oh, I need to go shut that down in
+18:30 my defaults.
+18:32 Look at my porch room is got no
+18:36 bill in it or something. So it's
+18:40 that's very strange.
+18:42 Floor surfaces
+18:45 turned on.
+18:47 No. So for some reason that's not
+18:51 that's showing through even though I
+18:53 know there's a porch there. There's no
+18:55 fill in that room. That's funny.
+19:01 Phil style.
+19:04 All in background.
+19:07 Does that fix it?
+19:10 No.
+19:12 Floor surfaces, ceiling surfaces, rooms.
+19:14 Rooms are turned on. I'm not sure why
+19:16 that's showing through. That's almost
+19:18 like a draw um
+19:21 draw order edit.
+19:25 Well, if you guys want to push one of
+19:26 the features that I've been asking for
+19:28 forever, it would be that poly lines
+19:30 self cut themselves, right? That that
+19:32 would have should have just cut right
+19:34 there, just like the roofs do.
+19:37 Um, but yeah,
+19:39 got to go make that fix now. I got to go
+19:41 back to my template plan. Go commit that
+19:44 change. You find the thing you got to
+19:46 fix, you got to go fix it, right? You
+19:48 got to go back to your template and make
+19:49 that edit. So got to switch to that
+19:52 working landscaping view into Aldo and
+19:56 make sure that
+19:59 ceiling planes are turned off. Oh, and
+20:02 they are. So I'm not sure what happened
+20:04 there. And then moldings. Molding was
+20:08 the other one. Moldings are also turned
+20:10 off. So I must have made that change.
+20:12 Good.
+20:15 Somehow it got turned on during some
+20:18 stuff. And then what's this? Hardware of
+20:21 all things. Dang it.
+20:24 Why did you have hardware turned on in
+20:26 that view?
+20:31 No. Turn that off. Got to go fix your
+20:33 layers. Oh, I don't have it turned on.
+20:35 Interesting. Must have just got turned
+20:37 on while I was working or something.
+20:39 Okay.
+20:41 Um,
+20:44 but look at this. Boy, I just can't get
+20:47 the subtle difference between slightly
+20:49 faded and faded too much.
+20:52 I mean, this is pretty good. What do you
+20:54 guys think of this? Do you like this?
+20:57 Is this
+20:59 Does this tickle you?
+21:01 Um, I did have a thought that I wonder
+21:03 if I could go through every plan, excuse
+21:06 me, every page and convert everything to
+21:10 watercolor and change everything to
+21:13 um more of a handdrawn look. I'd be
+21:15 really curious to see what that look
+21:17 like. So, I might do that as a video cuz
+21:20 um that could be fun. And I think I
+21:22 could be kind of quick. I think I could
+21:24 do it pretty quickly.
+21:26 Yeah, that did a pretty good job. I
+21:28 don't know why I'm saving it. I don't
+21:29 need to save it. It's just a fictitious
+21:31 project.
+21:33 Uh, okay. What did you guys say here?
+21:41 The cladding issue. Can you put the
+21:42 exterior finish on its own? No, you
+21:45 can't. You can't put um a roof surface
+21:48 on its own layer, unfortunately.
+21:52 Its own display layer. Yeah, that would
+21:54 be that'd be something I would like too.
+21:59 That pool is looking refreshing. Yeah, I
+22:00 know. It's gonna be a hot day over here,
+22:02 too. So, I'm thinking the same thing,
+22:03 man. [laughter]
+22:05 Yeah.
+22:07 All right. So, landscaping view. I know
+22:10 something that I'm going to do is those
+22:11 of you that have my tree and plant
+22:13 package, um I don't know when it's going
+22:15 to be. I'm hoping within, you know, a
+22:18 month from now that I'm going to have an
+22:20 update for the landscape package. And
+22:22 this is specifically what I'm going to
+22:23 do with it is if I navigate this and I
+22:26 get to um our trees folder and let's
+22:30 just grab a birch tree
+22:33 is that I'm going to change all the way.
+22:36 You know, I worked really hard to make
+22:38 these look fantastic in the 2D view as
+22:42 well as the 3D view. Like I really put
+22:45 some effort in on this. I spent way more
+22:47 time than I'll ever recoup in the sale
+22:50 of this particular product. Largely
+22:52 because Chief Architect's trees are
+22:54 really good because
+22:57 Dustin Cruz, I love you to death, man. I
+23:00 hate that you went and picked up Speed
+23:01 Tree. I had such an edge on you and now
+23:04 you learned Speed Tree as well and now
+23:07 he's making plants that look as good as
+23:09 mine. And uh and I really thought I had
+23:12 the the edge on them, but they they've
+23:14 caught up fully. So, um I worked really
+23:18 hard on this landscape package to look
+23:19 the way that it does and to report the
+23:22 way that it does to um to a plant
+23:25 schedule.
+23:28 Uh oh, I felt like we were frozen for a
+23:31 second.
+23:32 I think we were. Um
+23:37 anyways, we're pulling a 3D view. Oh, I
+23:39 crashed. I thought that was happening.
+23:44 But yeah, um my next step with that is
+23:47 that X18 can now do gradient fill. And
+23:53 that's one of the places where it really
+23:55 shines is in those landscape plans. You
+23:59 can make gradient fill look really,
+24:01 really good.
+24:07 See how good Chief's archive system is.
+24:09 Boy, that was pretty good. It must have
+24:11 saved right before I pulled the 3D view.
+24:14 We lost one one bush, I think.
+24:22 Here we go.
+24:24 Yeah, you know, these are low poly
+24:27 trees. I made them as good as I possibly
+24:31 could
+24:33 um for Yeah. under a 10k poly tree and
+24:37 it looks like this. And especially when
+24:39 you really kick the sun on or you start
+24:41 looking this way. And all of my leaves
+24:44 have translucency maps and they have
+24:48 bump maps when you get in really tight.
+24:51 If you take away your clipping, set my
+24:54 clipping to zero. And we'll do a little
+24:56 perspective crop mode and we'll see how
+24:59 tight we can get in on this. Like yeah,
+25:02 I put some effort in on this dang thing,
+25:05 you know? And uh anyways,
+25:10 the the update I'll be doing is this.
+25:12 We'll just show you what this would look
+25:14 like is
+25:16 we go open this up into fill style.
+25:20 Um for this one, fill styles being
+25:22 generated from the block. You see this?
+25:25 Use CAD block fill styles. Some of these
+25:28 are not being driven by the objects fill
+25:31 style. Some of them are being driven
+25:33 directly from the CAD block. So, you'd
+25:35 have to go edit the CAD block. But this
+25:37 is what's really cool about this is I
+25:39 could come in here, open this one up,
+25:41 change the fill style to gradient,
+25:44 and then let's just go pick those
+25:48 gradient colors
+25:50 to be something like this. And make it
+25:54 radial. And actually, I want to inverse
+25:57 invert this. I don't think they give you
+25:59 a way to move these. So, you just got to
+26:00 select the right one the first time
+26:02 around. That would have been helpful.
+26:04 Oh,
+26:07 and you can still even do um some
+26:09 transparency
+26:11 and change, you know, the basically the
+26:14 flow position,
+26:18 right?
+26:19 Pick a little transparency in there so
+26:21 you could see all the way through. You
+26:23 want some transparency so that when you
+26:25 have a bush under the tree, you still
+26:27 see, you know, partial. Um, but this is
+26:30 what that ends up looking like. And
+26:32 after you do the full thing, I mean,
+26:34 that looks really good in a plan view.
+26:36 So, that's something I'm going to be
+26:37 trying to improve.
+26:43 Yeah. Um, so that'll look really good
+26:45 when you got, you know, a bunch of them
+26:46 kind of tied in together. And then if we
+26:49 come back to
+26:53 layout.
+26:59 Yeah. Yeah. Then you start seeing this
+27:01 in the schedule, right? And that just
+27:03 looks really professional.
+27:06 Yeah. Um I'm always wanting to improve
+27:09 this. I know one of these days someone's
+27:11 going to come through with a full-blown
+27:13 landscape plan and and it's going to be
+27:15 impressive. Um, I know I've done partial
+27:18 ones and they look good, especially when
+27:20 you start putting the grass in here, you
+27:22 know, that kind of stuff. So, that's
+27:25 that.
+27:26 Um, so here's the next thing. One of the
+27:29 things that I wanted to talk about in
+27:30 the show is that my working plan view, I
+27:33 noticed that I was getting distracted by
+27:35 just the sheer number of lines um that I
+27:38 was seeing on the screen. And so, I
+27:41 wanted to create a new saved plan view
+27:44 that's another working set. And the
+27:46 concept of the working set, especially
+27:48 when you want to distribute something
+27:50 like templates to a team, is uh that you
+27:55 can take someone that's a junior drafter
+27:59 and just instruct them that hey, the
+28:01 only place you get to work and mess
+28:03 things up is in the working sets. And
+28:06 that's a brilliant idea. and and I can't
+28:09 remember if I came up with it or Chief
+28:10 came up with it um in terms of how I
+28:13 imple implemented it in my workflow. I
+28:16 think they might have um I just know
+28:19 that I had some version of it in my
+28:21 head. I don't think I called it working
+28:23 though, but I had a save plan view or
+28:25 back then there were no save plan views.
+28:27 It was just your default sets. But I had
+28:29 a default set that was I was free to
+28:32 screw up and it wouldn't affect my
+28:34 print. And so I've now taken that and
+28:38 and expanded it to other views where on
+28:42 the fly I can turn on layers and not
+28:45 worry about having to like fix those
+28:48 layer settings because I know my print
+28:50 views are separate from them. And so
+28:53 here's my main working plan view. And I
+28:55 was looking at it and I'm going boy as I
+28:57 was working I was getting really in my
+29:00 mind while I was recording this. I was
+29:02 thinking I'm having trouble seeing
+29:04 things.
+29:05 And so, wouldn't it be great if we could
+29:07 do a new working plan view? Now, there's
+29:08 a new feature in X18, which is that you
+29:11 get to make a new save plan view and you
+29:13 have the option to create a new layer
+29:15 set. That's really, really important
+29:18 because
+29:20 um you don't want to potentially screw
+29:22 up a layer set that's linked to another
+29:24 save plan view when you just decided to
+29:26 say, "Hey, let's save this view as and
+29:29 we're making a new save plan view and we
+29:31 just get to play around in there."
+29:33 No, you don't because you didn't copy
+29:35 the layer set. So, you're messing around
+29:37 with the layer set that you made a copy
+29:40 or a new save plan view from. So, now
+29:43 both save plan views are using the same
+29:45 layer set and you're screwing them both
+29:46 up. So, this is a great feature from
+29:49 Chief is if I just save as, you have
+29:51 this option to say, hey, copy the layer
+29:54 set. And so, I'm going to say working
+29:55 plane view light would be this would
+29:58 make a lot of sense to me. working layer
+30:01 set light. Okay.
+30:05 And in this I'm thinking there's a
+30:07 couple things that I want to do is first
+30:10 of all I need to make sure
+30:13 I think that my label layer label let's
+30:17 see my label text style if I were to go
+30:20 define it
+30:22 is not using text by layer and that was
+30:25 because I used to have to drive things
+30:28 from the layer as opposed to layerbased
+30:30 fill styles. Now we have layerbased fill
+30:33 styles. So, a lot of these old settings
+30:34 where I was driving a color by the layer
+30:37 get to get reverted back to like kind of
+30:39 out of the box. So, I'm going to drive
+30:42 that text color by layer. And then I'm
+30:45 going to um let me just do a search. I'm
+30:48 going to do labels. Going to turn all my
+30:50 labels super light gray. And I'm going
+30:52 to see if I like it or not. So,
+30:56 I can select all
+30:58 and then
+31:00 color change. So, let's go pretty light.
+31:05 And so, I'm going to start making things
+31:07 kind of disappear. I'm thinking that
+31:10 this is not my print electric, so I can
+31:13 go light pink to kind of make those pop.
+31:17 Same thing with
+31:21 my RCP.
+31:23 Just match that electric.
+31:28 Um, I'm not sure why this outlet didn't
+31:32 just follow that convention. Oh, because
+31:34 I changed the labels. Oops,
+31:37 wrong layer. There we go.
+31:40 Okay, that actually kind of looks
+31:42 distracting. So, I might switch that
+31:44 back. Um,
+31:47 I didn't want to see my roof planes, so
+31:50 we could turn those off. Or if we're
+31:53 going to see them, let's actually go
+31:55 back. If we're going to see them, let's
+31:56 take the fill style out of them. My roof
+31:58 planes are driven, the fill style is
+32:00 driven by the layer. So, it's easy for
+32:03 me to come to this fill style and say,
+32:06 "Hey, there's
+32:09 nothing, no pattern, nothing." And that
+32:12 will blank that out. And then I could
+32:17 The color is light already, but I don't
+32:20 think the line style is following that
+32:22 color.
+32:25 line style
+32:28 is not following the color. I'm going to
+32:29 make sure that it's checked on.
+32:34 There we go. So, now it's super light.
+32:37 And then I'm going to change the line
+32:38 style
+32:41 to solid line.
+32:44 Okay,
+32:45 that's helpful. And then dimensions.
+32:48 Same thing. I'm going to go super light
+32:50 on these. And that might be a weird
+32:51 choice, but I think that it'll work
+32:54 because when I select something, it's
+32:56 going to highlight that.
+32:58 Um, this is still really
+33:02 rich in content. I'm not sure that I
+33:04 like
+33:06 the electrics being bright. So, why not?
+33:10 Let's just
+33:13 take this back to
+33:17 light as well. Why not?
+33:23 I'm just going to see what this looks
+33:25 like.
+33:27 And so, can I see this plan more clearly
+33:30 when things are light like this? Um,
+33:33 here's what's cool about the dimension
+33:35 part is when you select something, it's
+33:37 going to be really obvious what's a
+33:39 selectable and editable
+33:42 line, a dimension string. So, that
+33:45 part's cool.
+33:48 Um
+33:50 or the next thing would be, you know, do
+33:52 you kick in a default set where it it
+33:54 kicks everything back to if do you
+33:56 create a default set where it can kick
+33:58 everything to a half inch style, right?
+34:02 Where everything kicks to half inch. Um
+34:06 so that all this text is a lot smaller
+34:08 so that you can see more clearly the
+34:10 architectural features of this. Um and
+34:13 that's not that's not easy. It's not
+34:17 easy to do. Here you go. Edit your
+34:20 default settings.
+34:24 And
+34:26 I just switch everything to half inch.
+34:30 That revert everything. I don't think
+34:33 so.
+34:36 I already have a half inch one. See,
+34:41 NKBA would not be it.
+34:47 So, let me see what I can do here. Edit
+34:50 default set. Let's make a copy.
+34:55 Half inch.
+34:57 Let's see. I don't know if I can do
+34:58 this. Let's see. Um
+35:01 half inch. Half inch. Half inch. Half
+35:03 inch.
+35:08 This is just things going forward.
+35:12 I don't know that that's helpful.
+35:17 Um, you almost just to have to switch
+35:20 your text styles for everything too. So,
+35:23 door labels right now is default label
+35:26 style.
+35:29 So, if I switch it to half inch.
+35:33 Yeah. And I'm messing with my layer set
+35:36 right now. So, it's not necessarily a
+35:38 good move.
+35:43 alt text style and then there should be
+35:45 a second one at half inch. Yeah, that's
+35:47 a that's a tough one going through and
+35:49 doing that. That definitely
+35:53 would take some doing. Course I already
+35:56 have something that's established at
+35:57 half scale which is [music] this working
+35:59 kitchen and bath,
+36:03 you know, and so I probably should have
+36:05 just started from this one. It uses a
+36:09 different dimension default though,
+36:10 which wouldn't be too difficult to
+36:12 switch up.
+36:16 Oh, and we can see something screwed up
+36:17 here. Should not be showing both the
+36:19 schedule and the door label. So, I'm
+36:21 going to turn off door labels.
+36:24 I'm getting some weird double click
+36:25 action from my mouse. Oops. Here we go.
+36:30 And boy, that's a lot easier to see.
+36:32 There's a lot less stuff there, isn't
+36:33 there?
+36:36 Yeah. I don't know. That's going to be
+36:38 that would take some doing to get that
+36:40 the way I want it.
+36:43 What did you guys say over here? Uh,
+36:48 is that included with the full system of
+36:49 landscaping? Yes, it is. It's in there.
+36:52 Um, hello. Hey, Merlin. How's it going?
+36:55 Um, I don't know if you guys know this,
+36:57 but
+36:59 Merlin's my favorite person that's in
+37:02 this whole chief community, and I don't
+37:04 know if it has anything to do with his
+37:06 personality. It's just that my grandpa's
+37:08 name was Merlin Rabbit. He just happens
+37:10 to be a really nice guy, too, though.
+37:12 [laughter]
+37:13 How's it going, Merlin? Uh, let's see.
+37:17 Are other Mac users on X18 getting the
+37:20 PC style color selector instead of the
+37:23 Mac native color selector? Yes, you are.
+37:26 Yes, you are. Um I can't remember the
+37:30 reason why that is but that is um that's
+37:33 how it will be forever going forward.
+37:37 And then uh
+37:41 do you do all of your work in the
+37:44 working plan view? I find myself doing
+37:45 work in the working plan view and some
+37:47 in the floor plan views and jumping
+37:48 around. Seems inefficient for me. I do
+37:51 almost all my work in the working plan
+37:53 view until I'm to the last finishing
+37:55 touches and then I just need to go make
+37:57 sure that that print looks the way that
+37:59 I need it to look. So yeah, I do almost
+38:02 all my work in the working plan view.
+38:05 Um,
+38:07 good question. Yeah.
+38:10 Oh, look what I did to my door schedule.
+38:12 I just turned it gray. Dang it. I'm
+38:14 going to have to not save this.
+38:17 Uh, oops.
+38:19 Not entirely sure how I did that.
+38:24 That shouldn't that door schedule
+38:25 shouldn't be a working plan view door
+38:27 schedule. Oh, my stupid mouse is doing a
+38:30 double click. It's like a ghost click.
+38:34 I need to blow some compressed air
+38:36 through it.
+38:40 Yeah. Is this
+38:45 I don't know how that got switched.
+38:47 Oops.
+38:49 That's not right. Oh, that's why you
+38:52 don't change your default label style to
+38:55 to follow color. Uh because I'm using it
+38:58 in my schedules and my schedules are set
+39:01 to gray. Dang, dang. Dang, dang. Oops.
+39:06 Uh this was a suggestion I was trying to
+39:08 come to with chief architect and when I
+39:10 went to go make the suggestion, I forgot
+39:12 why and so I didn't pose it correctly.
+39:15 But this was it was can we get it so
+39:18 that things that have no fill follow the
+39:21 fill the layers fill color as opposed to
+39:23 the layers color because this would is
+39:27 the perfect use case for me where I want
+39:32 the layer I might have two things
+39:34 reporting to layer one might not I might
+39:37 want to follow the layer color and one I
+39:39 might want to follow the layer fill
+39:41 color if there is one
+39:44 And I didn't know how to convey that. Um
+39:48 I still kind of don't I don't really
+39:49 know how to flesh that out in my head
+39:51 cuz I already know there's a conflict
+39:52 with that thought. But this was this was
+39:56 is something that's happening now is I
+39:59 either need to make a new textile.
+40:04 Yeah, I've either got to make a new text
+40:06 style or I've got to drive my label
+40:09 layer some some other way.
+40:13 Um because I want my schedules lines to
+40:16 be gray, but I want the text to be dark.
+40:21 So that's kind of tricky.
+40:24 Oops.
+40:26 All right, let's keep going.
+40:31 Um this is a new plan view for me that
+40:34 I've been working on.
+40:36 Reflected ceiling plan. And um this
+40:39 particular project was a perfect use
+40:41 case for this where we've got some
+40:44 pretty serious lighting happening in a
+40:47 congested area in the kitchen where
+40:49 there's also outlets and stuff. And so
+40:52 this just makes it a lot easier to
+40:53 dimension all of those those lights and
+40:57 then ceilings which I didn't dimension
+41:00 but I could.
+41:02 Um
+41:04 yeah, I thought this was a really
+41:05 helpful plan view to include. So, that
+41:08 was someone's suggestion. I was fighting
+41:09 it because I usually can get all this
+41:11 stuff into one electrical plan. Um, but
+41:14 for this one, that would have been
+41:15 challenging for sure.
+41:19 Uh,
+41:21 typical framing views.
+41:28 when I was talking about, you know,
+41:30 could you do a whole plan set where
+41:32 everything's watercolored rendered
+41:35 is that I've got a couple of saved
+41:37 cameras in my templates. And one of them
+41:42 to go find this
+41:44 is
+41:46 it takes a little bit of setup for the
+41:48 orthographic cut, but it looks like
+41:51 this.
+41:53 And then you you got to brighten it up a
+41:55 little bit.
+42:05 And the rendering technique
+42:09 very ambient
+42:11 time ambient daytime ambient is going to
+42:13 fix a lot of that.
+42:17 Yeah.
+42:18 Graphic overview. Um, this must be a
+42:21 first floor overview. That's why it's
+42:23 cutting out the garage, maybe.
+42:28 And then it's got like poach fill on the
+42:30 walls.
+42:32 You probably turn off some of the
+42:35 labels that you don't need. But you
+42:38 know, you could do this in a framing
+42:40 view. There's nothing keeping you from
+42:41 doing that.
+42:45 And then you got kind of a watercolor
+42:47 looking thing. Line over rendering
+42:49 style.
+42:54 What's the framing view look like?
+43:02 Yeah. All right.
+43:07 Turn off the poche. What happens?
+43:11 Maybe that's a little bit better.
+43:14 And adjust your clip.
+43:18 Why? Isn't that fun?
+43:21 You ever feel like you're just
+43:24 you're just playing it with a video game
+43:27 in this software?
+43:30 That's so satisfying. I could do this
+43:32 all day. Just sit here with this slider.
+43:36 [laughter]
+43:38 That's cool.
+43:43 Oh yeah, I screwed all my schedules up.
+43:46 Dang it.
+43:52 Yeah, here's another one where I would
+43:53 want to turn the cladding off. This is
+43:55 too busy of a pattern for me. I don't
+43:57 like it. And we don't that I know of, we
+44:00 don't have an option to turn that off if
+44:02 we're using it.
+44:04 Um, so that's kind of unfortunate.
+44:11 I know I showed this in the 8 hour live.
+44:13 Um, if you pull a camera and you want a
+44:18 a ray trace rendering,
+44:21 but you want it to look almost like an
+44:23 elevation, you pull it far enough back
+44:26 and then you edit your active view. I'm
+44:28 I know I've shown this before, but um
+44:31 you can punch in zero here and it's just
+44:33 going to put it to 10. Uh, but we're
+44:36 changing the field view so that it's so
+44:37 narrowed that this almost looks like an
+44:40 elevation view, right?
+44:44 And so if you wanted to, you could, you
+44:47 know,
+44:49 you could annotate on the top of this,
+44:51 but if you wanted to try to do a full
+44:52 plan and then edit the active view and
+44:55 just make sure in positioning that you
+44:57 have this all set to zeros and 90s. So 0
+45:01 90. And there you go. This should be all
+45:05 squared up.
+45:07 And then that's when I'm going to switch
+45:08 to using my mouse as opposed to my 3D
+45:12 mouse so that I position this perfectly.
+45:15 And then let's do that watercolor thing,
+45:18 right? And then you could bring it back
+45:20 and achieve and annotate right on the
+45:22 top of it. If if you were willing to
+45:25 take on the liability of not having this
+45:27 be an automated thing anymore, you were
+45:29 just hellbent on getting a really
+45:32 graphical plan set. So, I'm curious if I
+45:34 could do a graphical plan set because I
+45:37 think it would look fantastic. Uh,
+45:40 let's just
+45:42 let's pull that into chat real quick.
+45:50 Is I've got another watercolor style
+45:53 construction here which I need to drop
+45:55 into my templates so that people have
+45:57 them. Um, I think I'll do that in the
+46:00 next update. And then uh yeah, here
+46:16 we'll see what that does.
+46:20 Yeah. Yeah. Yeah.
+46:38 >> [laughter]
+46:40 >> Son of a gun.
+46:42 I need a new I need to change my door
+46:45 label style away from label style so I
+46:50 could drive it by color. Dang
+46:53 dang dang dang.
+46:59 Yeah. And then this this would be
+47:01 challenging
+47:02 is
+47:04 doing these in in a rendered style and
+47:07 still annotating on top of them would be
+47:09 very challenging.
+47:13 Yeah. Um the inspired life. That's cool.
+47:17 That's a cool handle. Uh love bringing
+47:19 AI into workflow for renderings. I did
+47:21 that for all these renderings. is um as
+47:25 I go through these next pages, you'll
+47:27 see that these are all really simple
+47:30 taken shots out of Chief and then
+47:33 rendered in a chat GBT with a little bit
+47:36 of editing. Um and then that's in that 8
+47:39 hour live is how I got to these rendered
+47:41 views.
+47:43 Um and I think this looks great.
+47:46 Yeah.
+47:54 And then this is a system I always use
+47:58 where there's that double click again.
+47:59 Um, and so it's just really easy to grab
+48:02 these and actually make these um,
+48:04 specified so that I can come here and
+48:07 just grab this whole section like this
+48:09 and drag it down and have it update. And
+48:12 then it's actually truly updating
+48:14 according to a/2 in scale. So you put it
+48:17 right next to your elevation here and
+48:19 it's just really clear. This mirror is
+48:22 right at 48 in above finish floor. And
+48:25 so I don't need to annotate this. I
+48:27 don't need to have a like a heavy amount
+48:30 of dimension strings. Then um this makes
+48:33 it really really easy.
+48:36 You know, we're not even I mean there's
+48:38 the TP holder. There is the TP holders
+48:41 above finish floor standard. So, I
+48:43 didn't need to sit there and dimension
+48:45 that. Just makes it so much easier,
+48:48 which means I didn't need to dimension
+48:50 it here either, or I didn't need to say,
+48:52 "Hey, look at this other view for
+48:53 reference." They just get to see it
+48:55 right there. TV holder. Bam. Install
+48:57 that sucker 24 in above the floor.
+49:02 Um, typically, now this isn't my plan
+49:04 set. I was doing this for someone else.
+49:06 So typically for me, I would say I don't
+49:09 necessarily even, especially on a really
+49:11 complex tile layout, I don't actually
+49:14 show all the patterns like this. I would
+49:17 show just a partial pattern and have a
+49:19 little note that says here is my starter
+49:21 tile. Um, and also I would not have
+49:24 started this the way that I have it
+49:26 here. Nothing's on center, so I would
+49:27 have slid this over and gotten it
+49:29 correct. Um, and I probably should have
+49:32 done that for this person uh, too. But
+49:35 same thing is because these are two
+49:37 different tiles from the back wall to
+49:38 the sidewalls. I definitely would have
+49:41 arranged this so that I knew where the
+49:43 starter tile was and then pointed out
+49:45 the starter tile. And that's all my tile
+49:46 guy needs. Often times my tile guy is
+49:49 going to do uh a mockup and tell me what
+49:53 the starter tile is and see if I approve
+49:55 it. So, and there's an a way to approach
+49:58 that as well. you come back and and and
+50:00 you say to them, you know, uh, propose
+50:04 your starter tile and I need approvals
+50:06 and you could put that on the plan set.
+50:08 Um,
+50:10 this ghost to double click. I'm about to
+50:12 throw this mouse out the window.
+50:17 I was just trying to click these and
+50:18 slide these over. This is uh something I
+50:21 have set up in X18. If you haven't done
+50:24 this, do this for yourself. Double click
+50:26 your select objects tool. get to angle
+50:28 grid and set up your snap grid units and
+50:30 your reference size. And here's my
+50:33 approach with it is I like an inverted
+50:35 action from what they have out of the
+50:37 box chief. I have my snap grid set heavy
+50:41 and I have my reference grid set really
+50:44 shallow 132 on the reference grid, one
+50:46 inch on the snap grid. That means arrow
+50:49 key is a 1 in bump. Okay, but that also
+50:53 means that the snap grid, if I have it
+50:55 displayed as dots, I get to move
+50:57 everything in 1in increments. And we
+50:59 know that all of our sheet sizes are in
+51:02 full 1 in increments. So, it's really
+51:05 easy to align view to view because when
+51:08 I if I have that snap grid on,
+51:12 use snap grid units. Now, when I slide
+51:16 this, it's in oneinch increments. So, we
+51:18 always know we could go sheet to sheet
+51:20 and not really need place points because
+51:22 we could just snap to the right part of
+51:24 the grid and we know we're going to be
+51:26 catching it. All right. So, uh I would
+51:30 really recommend setting that up. It's
+51:31 been a very nice workflow improvement.
+51:34 Um so, I could take these three now and
+51:36 hold shift and just do slight nudges at
+51:40 132.
+51:41 So, that's great. But the other thing
+51:43 that you might see in that 8 hour video
+51:45 is I wanted a little bit of a um a
+51:48 gutter here in between that line and the
+51:51 images. And that gutter kind of runs its
+51:53 way throughout. So it was easy for me to
+51:55 snap this to the image. And then when I
+51:58 needed to, I could hold C and
+52:00 concentrically resize this and know that
+52:02 it's resizing based on um these snap
+52:06 units.
+52:08 or you would hold C and control and now
+52:13 you can get finite. But the other thing
+52:16 is I could just drag this out and drag
+52:18 it directly right. Hit tab and go 132
+52:22 and know that I just, you know,
+52:24 increased that thing just by a 30 second
+52:26 because I moved it um directly right
+52:29 which is what that 0° angle is about. So
+52:31 there you go. I just resize that 132nd.
+52:41 Uh, what is the best way to line the
+52:43 diagram up with the view? What are you
+52:44 calling a diagram? Tell me that. And
+52:46 then, uh, yeah, let's look at this chat
+52:48 dbt. Is this what you're referring to?
+52:50 Uh, let's see what it did. I like this
+52:51 really light, bright one over here. Boy,
+52:55 does that look slick. Man, is this an
+52:58 exciting time to be doing this work.
+53:00 It's really It's really some cool
+53:03 improvements.
+53:05 Uh, make yourself stand out from the
+53:07 rest. Boy, does that look cool. And
+53:09 yeah, could I annotate right on the top
+53:11 of this? Yeah, why not? Um,
+53:18 what happens when we download this
+53:20 thing?
+53:22 Unload image. And this is I don't
+53:25 remember what the heck I thought was
+53:26 looking.
+53:28 Um,
+53:32 and we know because I'm saving it in my
+53:34 downloads folder, it's going to become a
+53:35 WEBP file in like 02 seconds.
+53:40 And
+53:43 what could we do with this? Let's see
+53:45 what happens.
+53:55 So,
+53:57 um, I just pull a line,
+54:00 hit tab, copy that dimension, hit
+54:04 cancel, and now get to my downloads
+54:10 where we should have somewhere in here.
+54:14 I'm looking right at it. There it is.
+54:17 This
+54:19 Right.
+54:22 Let's get the draw order right. But
+54:25 let's do a pointto-point
+54:27 resize.
+54:29 Going to come right inside the building.
+54:32 Paste. Retain aspect ratio.
+54:40 Yeah. What is this? What ends up
+54:42 happening here? I don't know.
+54:44 You know, this is just for
+54:47 sake of my curiosity.
+54:51 We put this at like a eight.
+54:54 Yeah, we put this at an eight and we get
+54:58 some of our stuff on top.
+55:03 And that 132
+55:06 bump might get me to somewhere cool.
+55:10 There's my highest ridge. [laughter]
+55:16 Boy, would that be cool if I could pull
+55:17 that off and make it look right. Um,
+55:24 yeah, Chad GPG is messing a couple
+55:26 things up. I see it.
+55:35 I'm hitting the arrow key, but nothing's
+55:37 happening.
+55:39 Oh, now it's inverted. Oh, because I'm
+55:41 in my plan view. Gotcha.
+55:46 Three inches or something.
+55:51 Little more.
+55:57 Yeah, that'd be really cool if I could
+55:58 do that. Um, just to really mess this
+56:01 plan up. What happens when you replace
+56:03 all fonts
+56:04 with like
+56:09 some craziness?
+56:14 Um,
+56:16 what do we have? I had handwritten. I
+56:19 have Rob's handwritten.
+56:22 Uh oh, it's not in here. Add a
+56:25 handwritten font. What if we go
+56:26 architects
+56:28 daughter? Architect's daughter. Yes.
+56:31 And then architect's daughters split.
+56:34 Yes.
+56:35 What does this craziness look like when
+56:38 we do that?
+56:41 That's the fast way to change your font.
+56:43 By the way,
+56:48 I'd be so curious to see if we could do
+56:50 a whole plan set and somehow make this,
+56:53 you know, test would be if you could get
+56:55 it through.
+57:04 Look at this font. I love this font.
+57:07 That is just a great looking handwritten
+57:09 font.
+57:26 Yeah, works great for the title page.
+57:28 Exactly. Maybe don't do it in the rest
+57:31 of your views.
+57:37 Uh, what is the best way to line the
+57:38 diagram up with the view your height
+57:40 diagram for your bath pictures? Gotcha.
+57:43 Understood. Now, thank you for the
+57:45 clarification.
+57:47 um it's just a pointto-oint. So if you
+57:50 send your views at plotline, then you
+57:53 know that the the floors are
+57:57 uh snappable. And so you just get to
+57:59 take this and
+58:02 um
+58:04 you're going to want to turn off your
+58:05 snap grid units for this. I wish I had a
+58:08 better workflow for that to get to that
+58:09 quickly. In fact, you I might have to do
+58:11 like a hotkey thing where I build in a
+58:14 hotkey to my um mouse that can I can do
+58:18 that quickly. But you should be able to
+58:20 do pointtooint. Now,
+58:23 what is this? Let me open this.
+58:26 This is layout box linked view is a CAD
+58:29 detail. So, it's not technically an
+58:31 elevation.
+58:33 Too bad that they don't treat those the
+58:35 same way because it's not quite a
+58:36 pointto-oint. Like you can't snap to
+58:39 this, I don't think. Yeah, there's
+58:41 nothing to snap to. So, you just got to
+58:43 target it really tight, right? Um, so I
+58:47 know that I picked that up pretty close
+58:49 and then point to point. There we go.
+58:51 And then hold shift, hold shift, drag
+58:55 this over,
+58:57 and that's going to keep it aligned.
+59:00 And so these are exactly these
+59:02 dimensions from this line is how that
+59:05 works. Um, and they're rounded because I
+59:07 don't I'm not typically going to put
+59:09 something on um fraction
+59:14 for my installs. I think I'm always, you
+59:17 know, 48 in center of light switches, 12
+59:20 in uh to my outlets uh for the most
+59:24 part, and everything else is on whole
+59:26 numbers as well.
+59:33 Um Aaron, just to reiterate, that is not
+59:35 something you're going to be able to
+59:36 change. They have there. I know there
+59:39 was a reason for it. It's posted on
+59:40 Chief Talk somewhere. Um that is how the
+59:43 color selector is going to be from now
+59:45 on. just to show you something nice
+59:48 about the color selector. Um, in case
+59:50 you don't know this,
+59:53 um, is for instance,
+59:58 you can always, in case you didn't know
+1:00:00 this, um, one is,
+1:00:04 um, if you're using Mac color selector,
+1:00:06 that tells me you're not using hex code.
+1:00:07 And I already have a problem with that.
+1:00:10 So, let's just be clear. Your old method
+1:00:13 was already a worse method.
+1:00:16 I'm I'm talking crap cuz I I've had you
+1:00:19 in a class before and and you know I
+1:00:22 love you, but you should be using hex
+1:00:24 codes. There's no reason for you not to
+1:00:26 be. I pushed so hard to get this little
+1:00:30 stupid box right here put in there.
+1:00:33 That's me, baby. I did that. They they
+1:00:36 built it. Yes. And thank you, Chief.
+1:00:39 Thank you. Thank you for listening to
+1:00:40 your customers. Thank you. But I pushed
+1:00:43 really hard to get that there. And when
+1:00:46 it came through, I was so excited
+1:00:48 because that's what you should be using
+1:00:50 for your color selection, nothing else.
+1:00:53 Unless you just don't care about what
+1:00:55 color you're picking because we want the
+1:00:57 true colors. This is where you put in
+1:00:59 your code straight from a manufacturer
+1:01:01 spec. And then um
+1:01:05 in terms of once you have that color in
+1:01:08 there, if it's something you're going to
+1:01:10 be repeat use, um if you didn't know
+1:01:13 this, you just get to hover over here,
+1:01:16 click and drag into a slot. There it
+1:01:21 goes. Okay. Next thing you can do from
+1:01:24 here is rightclick and lock it so that
+1:01:27 it never disappears or gets overwritten.
+1:01:30 and and then that will be there the next
+1:01:32 time you open this color selection up.
+1:01:35 So, and that's something that can be
+1:01:37 pretty helpful to a lot of people that
+1:01:38 don't know that that's there.
+1:01:46 Just because it's wrong doesn't mean I
+1:01:48 don't love it. I like it. [laughter]
+1:01:53 Yeah. All right. Uh
+1:01:56 I have mine printed in color. That's a
+1:01:58 great question. my jurisdiction now is
+1:02:01 uh you don't actually need a print set.
+1:02:03 It's PDF. So there's no there's no
+1:02:07 additional cost at printing it with
+1:02:08 color. Um
+1:02:11 I will tell you that
+1:02:14 here's here's something to note. Um is
+1:02:22 I'm coming in with big wow. Big wow
+1:02:24 right off the bat. you're going to look
+1:02:26 at this at at
+1:02:29 my, you know, local municipality, county
+1:02:31 clerk's desk, and they're going to see
+1:02:33 this as my front page, and they're going
+1:02:35 to go, "Oh, wow." Okay. Now,
+1:02:39 once I have that, wow, I don't want to
+1:02:41 lose that. I don't want them to think
+1:02:43 I'm painting pretty pictures and don't
+1:02:45 know what I'm doing. So, I need to make
+1:02:47 sure what I've got in my plans is spot
+1:02:50 on the money. Here's my approach,
+1:02:52 though. I I know some people that Joe
+1:02:58 Carrick love you to death. Um that every
+1:03:01 correction letter that they ever got,
+1:03:03 they have now built a system for
+1:03:04 addressing that correction in every plan
+1:03:07 going forward. I am not that guy. That
+1:03:10 is too much work. And so I plan on
+1:03:13 getting a revision. I plan on it. I also
+1:03:16 happen to be doing my plans in
+1:03:19 California. And I don't know of another
+1:03:23 area that's more difficult than
+1:03:24 California. So, you know, keeping that
+1:03:27 in mind, I would much rather approach
+1:03:30 having less information
+1:03:32 um enough to build it. Um knowing the
+1:03:35 level of communication I'm going to end
+1:03:37 up having with the builder, I'm going to
+1:03:38 put more information if I'm not going to
+1:03:40 have communication with the builder. And
+1:03:42 then and make sure that it's nothing's
+1:03:44 left to interpretation. Make sure that
+1:03:46 it's clear as day. But really what I'm
+1:03:48 my approach is I I want less. I want to
+1:03:51 put less and give me a revision list.
+1:03:54 And I tell my client that I'm gonna get
+1:03:56 a revision. Don't think you're going to
+1:03:58 get this plan set back after I submit it
+1:04:00 and you get to just start building from
+1:04:02 it. Nope. They're going to give me a
+1:04:03 revision 100%.
+1:04:06 And then I'll address those corrections
+1:04:08 and there you go. My revision letters
+1:04:10 are pretty small. Why? because I make
+1:04:13 sure what I did have in there is real
+1:04:16 tight. And they trust me more when it's
+1:04:18 real tight and and it's clear that I
+1:04:22 know what I'm doing. I just don't have
+1:04:23 everything I I need and they need in
+1:04:27 that plan set. So that's my approach.
+1:04:30 It's a very different approach from most
+1:04:31 people from what I hear. Um but that's
+1:04:34 what works for me. So I got you on the
+1:04:37 hook. You know, I know what I'm doing. I
+1:04:39 need to make sure that the rest of this
+1:04:41 plan set shows that I know what I'm
+1:04:43 doing. I need to make sure there are no
+1:04:45 stupid glaring errors. Something you'll
+1:04:48 see in that 8 hour video, if you manage
+1:04:50 to watch [laughter] that all the way
+1:04:51 through, which I think you're insane, is
+1:04:54 that um at the end of this part of my
+1:04:57 process is I do need to print to PDF and
+1:05:01 I have to check that PDF.
+1:05:03 And that process of me looking at the
+1:05:06 PDF versus looking inside of Chief,
+1:05:10 there is a decoupling disassociative
+1:05:13 thing that happens in my brain when I'm
+1:05:16 looking at Chief. Errors can get by me.
+1:05:18 When I'm looking at a PDF, I find those
+1:05:21 errors a lot better than if if I'm just
+1:05:23 looking at it in Chief. So, I don't know
+1:05:26 if that works for other people. I
+1:05:28 encourage you to try go print it to PDF
+1:05:30 and review your PDF. Go sit on your
+1:05:32 iPad, zoom in on it, zoom in on all the
+1:05:35 parts, look at it in in bed when you're
+1:05:38 not at your desk, thinking that there's
+1:05:41 this outlying pressure of timing and ste
+1:05:44 time and breaks and all that stuff. Go
+1:05:47 look at it casually. You know, sit at a
+1:05:49 nice spot, look out at your view, and
+1:05:52 review your plan and catch all those
+1:05:54 little errors and have a method for, you
+1:05:56 know, uh, creating a red mark. Uh,
+1:05:59 speaking of which, I hope you guys have
+1:06:01 a red mark set up somehow. Um, I have my
+1:06:05 own custom layer set for red marking.
+1:06:09 Why that double click thing is
+1:06:11 obnoxious. Um, which is
+1:06:18 this back to 65 or something.
+1:06:23 um is that
+1:06:25 I get to switch to red lines in a 3D
+1:06:28 view, which is a default set I create.
+1:06:31 Remember that you don't need default
+1:06:33 sets to drive your annotations. That all
+1:06:35 comes from the save plan view. So you
+1:06:37 could use default sets to do specialized
+1:06:40 things like what I just did. I just
+1:06:42 switched to a red lines default set. And
+1:06:44 now that means that when I drop a note
+1:06:47 in here, this is on my red lines note
+1:06:50 layer. And so I can write some kind of
+1:06:52 text here. But actually the way I like
+1:06:54 to use this is I like to write some kind
+1:06:56 of text here instead
+1:07:01 so that it actually shows
+1:07:05 in this view. Just like that. Look at
+1:07:08 that. Isn't that nice? And it binds in
+1:07:12 elevation.
+1:07:14 All right. So, it's really clear if I've
+1:07:16 got another technician that needs to
+1:07:17 work on this plan set and I've got a
+1:07:19 question about something and it's
+1:07:21 specific to a 3D view, this would be an
+1:07:23 easy way of doing it. And so, then I
+1:07:25 could open this up and say, you know,
+1:07:28 look at this in 3D, right? So, notice
+1:07:33 that that's not showing up on this note.
+1:07:35 What's showing up here is this FSF blah
+1:07:37 blah blah. But if we go look at this in
+1:07:39 its schedule where it's going to be
+1:07:41 displayed on spec specific layer. Um
+1:07:44 hopefully we've got that schedule turned
+1:07:46 to
+1:07:52 which I don't. This means I need to go
+1:07:53 fix. Yeah, look at this in 3D. Bam.
+1:07:57 Right. That just lets me know I need to
+1:07:59 look at this in 3D. But also this is how
+1:08:00 it shows up in plan. It's still showing
+1:08:02 up in two dimensional space on your
+1:08:04 sheet space, but it's also showing in in
+1:08:07 your model space at the correct
+1:08:09 elevation.
+1:08:10 So, yeah, have a red lines method.
+1:08:14 Figure that guy out.
+1:08:19 What are you guys jumping off here? You
+1:08:21 guys are uh very lively in the comments
+1:08:23 today. That's cool.
+1:08:31 We're submitting color PDF print sets in
+1:08:33 grayscale, except the demo plans for the
+1:08:35 GC have dashed red. Oh, that's
+1:08:37 interesting. Most of my jurisdictions
+1:08:39 won't allow red ink on a plan set.
+1:08:46 Uh, every RFI item I get goes into my
+1:08:48 template, but I get zero RFI letters.
+1:08:50 Totally worth it. Down here with six
+1:08:52 month lags on permit review. Um, your
+1:08:54 permit reviews six months. Is the
+1:08:56 revision review that long, too? Because
+1:08:58 that would be crazy. My revisions
+1:09:00 usually are much much shorter.
+1:09:03 Um, am I an architect? Just kidding. I'm
+1:09:05 an architect in New Jersey. Nice. No, I
+1:09:08 am not an architect. Uh, let's see. Even
+1:09:11 with the front page, the customer can
+1:09:13 see what kind of blueprints they use in
+1:09:15 it. Yeah.
+1:09:17 In chief, I miss it, but it jumps out
+1:09:19 immediately in PDF. Yeah. Okay.
+1:09:24 Yep. Turn out to red line. Yep.
+1:09:28 Um Oh, you're in Southern California.
+1:09:29 All right. I only implement things I've
+1:09:32 been corrected on same error more than
+1:09:33 once. Yeah, that's not a I agree with
+1:09:37 that.
+1:09:41 Nice.
+1:09:45 Clients don't want to pay for the color.
+1:09:47 Yeah, I get it.
+1:09:50 You know, you got to sell them on on
+1:09:52 them that they should frame it and stick
+1:09:54 it up in their garage or something.
+1:09:55 [laughter]
+1:09:57 It's pretty enough.
+1:10:02 I used to have a color format printer.
+1:10:04 Um, I stopped doing it. Everybody around
+1:10:06 me is digital now. You only need the the
+1:10:08 one set on on site and that's it.
+1:10:20 I played around a while ago with my
+1:10:23 framer was always uh color coding his
+1:10:26 his his plans for him specifically. And
+1:10:29 I did at some point have a template
+1:10:31 where I was pre-color coding for him.
+1:10:34 Ah, did he love that. And then he loved
+1:10:37 the concept of it until he got into it
+1:10:39 and he was like, "You know, part of my
+1:10:41 process of of making a building makes
+1:10:44 sense is me color coding." And that
+1:10:46 makes sense. I totally get that.
+1:10:53 Yeah. Yeah. Yeah.
+1:10:55 Victor Gossam, why does it show I have a
+1:10:57 a booking from you, but I don't have any
+1:10:58 payment from you, buddy? What are you
+1:11:00 trying to get away with over here?
+1:11:05 know you're in the chat. I'm just going
+1:11:06 to rush you. This is in impermanence.
+1:11:09 This is never going away. This is in the
+1:11:11 live video. [laughter]
+1:11:14 Uh boy, we're over the mark already. And
+1:11:16 I barely got through this thing. Dang
+1:11:18 it. This pretty typical of my shows,
+1:11:20 huh? But you know, it makes you stop on
+1:11:23 this view when you see it.
+1:11:26 Wouldn't that be cool if this whole
+1:11:27 thing was all rendered like that? Boy,
+1:11:31 that'd be cool.
+1:11:36 Man, I changed my label font stuff and
+1:11:38 it blew up my window schedule and all
+1:11:40 kinds of crazy stuff.
+1:11:47 It definitely made this look worse
+1:11:48 during this show. [laughter]
+1:11:54 Oh yeah, screwed up all my schedules.
+1:11:56 Yeah, I'm going to have to not save
+1:12:12 All right, we're way over the mark and I
+1:12:15 got to go.
+1:12:17 Um, for those of you that that
+1:12:20 again, I don't know how you're managing
+1:12:21 it, but if you do manage to watch that
+1:12:23 eight hour show, you're going to know
+1:12:25 one thing is my brain is so screwed up
+1:12:29 that I didn't stop and and go take a
+1:12:33 break,
+1:12:35 man. So, I'm that showed me something. I
+1:12:38 need to go take breaks. So, I'm going to
+1:12:39 end this this little live and I'm going
+1:12:42 to go take a break because I should do
+1:12:43 that and I don't do it when I'm locked
+1:12:45 in. I just want to be locked in. I'm
+1:12:47 locked in. I don't want to stop. I'm in
+1:12:50 flow state. I'm just moving so
+1:12:52 perfectly. It's fantastic. Um, yeah.
+1:12:56 It's It's hard not to be like that. Oh,
+1:12:59 and I'll give you one last teaser
+1:13:01 because I think in the next show I'm
+1:13:03 going to I'm going to highlight
+1:13:06 something that I created that my first
+1:13:10 try at it I feel like it worked really
+1:13:13 really well, which is
+1:13:17 I just have some notes and the notes are
+1:13:20 driving something. Let me turn these on
+1:13:24 if I can remember what the heck I'm
+1:13:26 calling them.
+1:13:30 panel circuits.
+1:13:33 You'll see these dotted across the plan.
+1:13:35 See this 14 15? These are notes. So, the
+1:13:38 note tool, okay? And then it just has a
+1:13:42 very very slight amount of scripting
+1:13:46 that drives it.
+1:13:51 And so this my stupid stupid font and
+1:13:56 text color change. Dang it. Default
+1:13:58 label style.
+1:14:00 Go edit this real quick so we can see
+1:14:02 this. Here we go.
+1:14:06 So this is what it's doing is I'm using
+1:14:10 a macro for sure and the macro is doing
+1:14:13 some complex things. So, one of the
+1:14:15 things it's doing is well, one, it's
+1:14:18 picking up the room name, right? And so,
+1:14:21 I have um
+1:14:24 if I get back to this view, I have this
+1:14:27 toolbar. You'll see this in that 8 hour
+1:14:30 live, this toolbar, 15 amp single, 20
+1:14:33 amp single, 20 double, 30 double, 50
+1:14:36 double. And I'm just dotting this plan,
+1:14:39 and it's picking up what those circuits
+1:14:41 are. It's building this panel schedule
+1:14:44 from it. So you're getting the number,
+1:14:46 the amperage, and you can see on the
+1:14:48 doubles, it's showing a double pole,
+1:14:50 double pole, right? So
+1:14:53 no, I'm not I'm not able right now to
+1:14:57 make this so that it's actually the way
+1:14:58 I would wire it in terms of it being in
+1:15:01 phase, right? So there's that caveat. Do
+1:15:06 I care? No. Most people wouldn't care
+1:15:08 about that. That's that's probably okay.
+1:15:11 Um, if you don't know what I'm talking
+1:15:13 about, go become an electrician
+1:15:14 overnight. [laughter]
+1:15:16 And then uh, and so it's not in phase.
+1:15:20 That's okay. But what what I'm getting
+1:15:23 for just such a a a small amount of
+1:15:27 input is fantastic. One is um, this is a
+1:15:30 mix and match of the note tool and
+1:15:32 actual outlets where I just know this is
+1:15:34 a dedicated circuit. So my disposal
+1:15:36 outlet is a dedicated circuit. I know
+1:15:38 that my dishwasher outlet's a dedicated
+1:15:39 circuit. So, I'm having that report to
+1:15:41 this schedule and my electrical legend
+1:15:43 at the same time. That's great. Um,
+1:15:46 other things where it says, uh, the
+1:15:48 kitchen 220, kitchen 220, kitchen
+1:15:50 lights, kitchen outlet, and stuff like
+1:15:52 that. What I'm doing here is
+1:15:56 this kitchen 220 is not reporting
+1:15:58 correctly right now. What it should be
+1:16:00 doing is picking up the appliance that
+1:16:02 it's connected to. So there is a macro
+1:16:05 that if I'm getting this connected
+1:16:07 correctly to that appliance, it should
+1:16:10 have picked up that that was kitchen
+1:16:13 oven. So I'm clearly not perfect. It was
+1:16:16 working perfect before. So something's
+1:16:18 wrong in a global setting there. But
+1:16:21 this kitchen 220 should when it's
+1:16:23 connected to an oven pick up that
+1:16:24 there's an oven there. It's searching
+1:16:26 and iterating through the macros that
+1:16:28 exist for that oven and then seeing if
+1:16:31 it matches a condition and then
+1:16:32 reporting it. So, um I've got a little
+1:16:35 bit of editing to do to fix that then.
+1:16:37 But, you know, I'm always using this uh
+1:16:41 the information tools to grab what's
+1:16:44 coming from
+1:16:46 this oven cabinet. So, if we look at the
+1:16:48 object properties of this oven and
+1:16:51 expand this, you're going to see that
+1:16:53 there's um somewhere in here is just
+1:16:55 going to be front side items. And inside
+1:16:58 of those front side items, you should
+1:17:01 see appliance for accounting code and
+1:17:04 then large double oven. So, now I'm
+1:17:07 searching and iterating through
+1:17:09 everything that might report oven so
+1:17:12 that I can see that, right? And so I do
+1:17:14 have a macro search tool that I get to
+1:17:16 drop in here and say, "Hey, I want to
+1:17:21 search for oven
+1:17:23 to see what I might derive that from for
+1:17:26 this item." And we can see there we go.
+1:17:28 We got some front side items that say
+1:17:30 oven in the name.
+1:17:33 Has oven is a, you know, is a condition
+1:17:36 that exists there. Has microwave is not
+1:17:39 a condition. So now you got to go you
+1:17:41 know look at another way of deriving you
+1:17:44 know microwave from this this guy.
+1:17:51 Um although has oven shows yeah has oven
+1:17:54 shows false there.
+1:17:56 And so maybe you say, "Yeah, there we
+1:18:00 go." And we did pick up microwave and
+1:18:02 that. So you got to iterate through all
+1:18:04 the front side items to see if something
+1:18:06 says microwave. And then you got to work
+1:18:08 out the issues where it says microwave
+1:18:10 oven, which could be as easy as saying
+1:18:13 is oven true class set to false, but it
+1:18:15 says microwave oven in front side. It
+1:18:17 says oven in front side items. Then
+1:18:19 we're going to assume this is microwave
+1:18:21 if it also says microwave. Anyways,
+1:18:24 that's how I've been building out this
+1:18:26 automatic electrical panel schedule. And
+1:18:28 all I have to do is drop dot notes in
+1:18:31 the plan. It's simple as that.
+1:18:34 Uh let's see. What' you say?
+1:18:45 Oh, you got a lot of comments. Thank you
+1:18:46 for sharing.
+1:18:48 Nice. Thank you, Inspired Life. Who are
+1:18:51 you? Inspired Life. Um, what's your full
+1:18:53 name? I would love to know. And then
+1:19:00 yeah, buying a printer is worth it.
+1:19:01 Yeah,
+1:19:11 Aaron. Yeah, Aaron's met in person quite
+1:19:13 a few times now. I will be at U Chief
+1:19:17 Architect's event in next month. Is it
+1:19:20 next month or is it
+1:19:22 September,
+1:19:25 I'll be at their training. Um, they do
+1:19:28 not have an advance to class. I have
+1:19:30 been told specifically that I get to
+1:19:32 float from class to class. So, I'll be
+1:19:35 hanging out in your class if you're uh
+1:19:37 if you're there.
+1:19:39 Um, that's in Idaho, Celane. Beautiful.
+1:19:44 Yeah. Spent my education money on
+1:19:46 Summit. Hopefully got something out of
+1:19:48 that, Erin. I hope so. I I know a couple
+1:19:50 times you your head popped up real fast
+1:19:53 from your work and went, "What?"
+1:19:55 [laughter]
+1:19:56 And that was fun. Uh, what time does the
+1:19:58 live start on Tuesdays? They're 9 a.m.
+1:20:02 Pacific Standard Time.
+1:20:06 Um, making me reconsider going to the
+1:20:08 August thing. Yeah, cool. I enjoy it. I
+1:20:12 enjoy it so much that even though that
+1:20:13 they didn't have the advanced level two
+1:20:15 class, I still wanted to go. Um, I
+1:20:18 really love the people that work at
+1:20:20 Chief. I've gotten to know several of
+1:20:22 them pretty well and uh as well as you
+1:20:26 can only seeing them a couple times a
+1:20:27 year and uh every one of them I enjoy
+1:20:31 them. They're they're just good people.
+1:20:33 So, it's good to go hang out with them
+1:20:35 and talk shop and see what they're doing
+1:20:37 and what they're into. Um they got cool
+1:20:40 hobbies like they do cool things.
+1:20:42 They're really good people.
+1:20:44 Let's see. Have an amazing day. Yes,
+1:20:47 please. Dan Bowman does a 4-day class in
+1:20:49 Minneapolis and Maryland. Next year,
+1:20:51 California, too. Dan is Chief Architects
+1:20:53 Academy, which Rene is part of. Yeah. Um
+1:20:56 Dan and Robin and John and Kevin Transu.
+1:21:00 Um their whole team.
+1:21:03 Um yeah,
+1:21:05 really great people. If you've never
+1:21:07 checked out Dan's Pro Expert Academy,
+1:21:10 he's he's live way more often than I am
+1:21:12 sharing all of his tips and tricks for
+1:21:14 way too little money. So,
+1:21:17 um, that's a good deal. If you want to
+1:21:19 give me money, you go to my website and
+1:21:21 then click on the links to go to his
+1:21:23 website and I make money off it. Haha.
+1:21:25 Affiliate links.
+1:21:31 How can I pay before the [laughter]
+1:21:33 Victor? I was just roasting you, man.
+1:21:36 Um, go uh go buy an assisted install.
+1:21:40 That's what you booked. Um, that's from
+1:21:42 the website. Anyone else in interest in
+1:21:44 a class in the south? All right.
+1:21:50 Uh, summit three times made me a power
+1:21:52 user. I love hearing that. Very cool.
+1:21:56 We're going to have to put you to the
+1:21:57 test one of these days.
+1:22:01 All right, everybody. Thank you very
+1:22:02 much for tuning in. It's been another
+1:22:04 good one. Um, we didn't I don't feel
+1:22:07 like we got through much, but we got
+1:22:08 through some we got through some cool
+1:22:10 little ideas. So, uh, one of these days
+1:22:14 I'm going to figure figure out a way
+1:22:15 that you guys can share some things and
+1:22:18 we can feature that. Um, yeah, if if you
+1:22:21 have something you want to share, you
+1:22:23 have something you want me to review,
+1:22:25 um, you want me to highlight, anything
+1:22:27 like that, shoot it to my email. I'm I'm
+1:22:30 game for it. Um, I'm going to
+1:22:32 scrutinize, you know, it might not make
+1:22:34 it in, but it might. Uh, yeah, shoot me
+1:22:37 an email. Thanks, everybody.

@@ -1,0 +1,1559 @@
+---
+videoId: 8LjYyfFKyRQ
+title: Mastering Schedules in Chief Architect: Tips, Tricks, and Q&A - Designers Show #140
+url: "https://www.youtube.com/watch?v=8LjYyfFKyRQ"
+status: imported
+---
+
+# Transcript
+
+0:00 no almost yes now we are now you got it
+0:03 right hey everybody happy hi everyone
+0:07 happy holidays from the gang here at
+0:09 Chief experts and we're looking forward
+0:11 to talking to you today and having a
+0:13 little bit of sorry there's no peace
+0:17 here um having a little bit of fun in
+0:20 the process so uh hope you're having a
+0:23 great holiday season um I know we are
+0:27 here and we're looking forward to doing
+0:28 some crazy things
+0:31 I'm currently working on a giant
+0:33 gingerbread house what are you guys
+0:35 doing a gingerbread house oh my gosh I
+0:39 want to
+0:40 see um it looks like it's in a
+0:43 foreground oh that's not the gingerbread
+0:46 house that's that's that's just
+0:49 my decorations I love it nice those are
+0:52 very nice this is my festive this is my
+0:56 festive decoration right here very nice
+0:58 yeah I like
+1:00 you've got an elf right there that's
+1:02 great I do I have my own little private
+1:03 elf he's my little special one yeah
+1:06 that's cool John John's just partially
+1:10 here and partially not he kind of Fades
+1:12 in and
+1:14 out it's that beautiful piano though I
+1:17 love it
+1:19 yeah fabulous staring off into space as
+1:22 usual
+1:25 yeah I gotta say hi someone signed up
+1:27 for a membership on my YouTube thank you
+1:29 Tara I appreciate oh that's fabulous
+1:31 that so concept design you're from in
+1:33 the Pacific Northwest where are you from
+1:34 where's concept design
+1:36 from who are you talking to um I'm
+1:39 looking on the chat and it said concept
+1:41 design howdy from P Pacific
+1:44 Northwest right there so concept design
+1:47 where are you from because I'm in
+1:49 Portland where are you Tye type type
+1:55 yeah I know right
+2:00 Bellingham well welcome my Tre in the
+2:03 way I have to move my trees sorry I have
+2:04 to I have to go unfestive
+2:08 now oh yeah it's pretty cold everywhere
+2:12 what are we doing
+2:13 today I GNA talk about some schedules
+2:16 and the tricks and techniques to making
+2:18 them rock your world uh I know that uh
+2:23 for a lot of you uh schedules are
+2:25 confusing lot um they've got a lot of
+2:27 potential but how do you use them where
+2:30 do I put him and I think that uh among
+2:33 the team um especially with Robin and uh
+2:37 Renee they've figured out ways to use
+2:39 schedules that uh that will change your
+2:43 world I think so yeah if I get maybe 10
+2:47 minutes at the end I'll probably go a
+2:48 little too
+2:49 advanced yeah so when I share with you
+2:53 guys it's a little bit more simplified
+2:54 and then when Renee shares with you he
+2:56 just blows your mind so um as most of
+2:59 you you know I'm a kitchen and bath
+3:01 designer so I have to write up real full
+3:03 on specs right now I have a set of
+3:05 drawings here that are not a real
+3:07 project or anything these were just
+3:08 something that I threw together but I've
+3:11 really learned a lot about how to make
+3:12 my specs
+3:14 easier I think in some ways
+3:17 um some things I I'm going to show you
+3:21 are I put in an actual um schedule but I
+3:25 actually think it's easier just to type
+3:26 it out unless Renee has a magic wand for
+3:29 some of those things which I would
+3:30 really love that um but most of the time
+3:33 as I'm designing and as kitchen as
+3:36 interior designers are designing we're
+3:39 as we're designing we're making
+3:40 decisions on materials and
+3:43 specifications or materials and
+3:45 decisions are being made right so as I'm
+3:48 designing I take that information I put
+3:50 them directly into my plans so that when
+3:52 my specs are being written at the same
+3:54 time because I don't know about any of
+3:56 you but writing specs is probably my
+3:58 least favorite thing to do because it's
+4:01 tedious so much fun it's it's the part
+4:04 where it just takes so much time and you
+4:07 forget things and you have to you have
+4:10 to do it in very systematic way so what
+4:13 I found is that as I make decisions as
+4:16 I'm working I what I love about Chief is
+4:18 I can put all the information in there
+4:20 and then my specs are being written for
+4:22 me as you know as I'm designing it's
+4:26 great the other thing I want you to be
+4:27 aware of is the more you're using the
+4:29 program to to become more of a power
+4:30 user or becoming more efficient with it
+4:34 you need to think about your rates I
+4:35 mean I honestly cannot tell you you
+4:39 Kevin had a meeting or Kevin and and Dan
+4:42 had a show the other day and it was all
+4:43 about making sure you're billing
+4:45 properly and actually that morning I
+4:47 woke up going I have to raise my rates
+4:50 it was even before I logged into the
+4:52 show I realized I'm too fast I just did
+4:54 a whole house in like I don't know 25
+4:57 hours nobody should get I mean
+5:00 you have to raise your rates because I'm
+5:01 making less money than I was making 10
+5:03 15 years ago and that's ridiculous
+5:05 because now I have more experience right
+5:08 well Rene and Renee and I have had this
+5:10 conversation over a cocktail before that
+5:13 uh at his at his current rate his
+5:16 current speed rate he would have to
+5:19 raise his rates to$ th000 dollar an hour
+5:21 to to keep up with it well IAL of are
+5:25 you gonna get hired if your rat's too
+5:27 high
+5:29 so there's something that but you still
+5:31 have to think about I mean absolutely
+5:33 true I mean I at the point right now
+5:35 where I want to raise my rates is I'm
+5:37 going to be absolutely the top in
+5:39 Portland but you know
+5:42 it's I'm I'm probably not going to go to
+5:44 the absolute top because I don't want
+5:46 that number um but I have to figure out
+5:48 how to make it so that way I'm not
+5:51 losing money based because of my
+5:53 experience right there's a whole
+5:54 conversation around that um obviously
+5:57 that we can we can have and and would
+5:58 always entertain
+6:00 uh about that but the the idea of a rate
+6:04 is a perception it's uh it's and and the
+6:07 the idea of the value of what you're
+6:09 producing is what you're billing for
+6:12 that value can't simply um decrease
+6:16 because you got faster you know that
+6:18 doesn't make any sense at all the value
+6:20 is still what it the value is you just
+6:22 you're just effectively getting paid
+6:24 more per hour by being more
+6:26 efficient exactly yeah I think I I need
+6:29 to
+6:30 review how I'm invoicing but that's a
+6:32 whole another story so it's a whole
+6:35 another story so um like I said one of
+6:38 the things that as I'm designing I'm I'm
+6:40 immediately adding information and there
+6:42 are some things that I do that I think I
+6:44 could do some things a little
+6:46 differently and that's where Rene is
+6:47 going to come in and share so um can I
+6:51 just go ahead and share my screen you
+6:52 guys please okay aha look at that it
+6:55 worked I'm just gonna throw this on
+6:57 there um didn't know this you could find
+7:00 that show it's still in the still in the
+7:02 live
+7:03 section there it is I really recommend
+7:06 that you guys listen to it because it's
+7:07 it's really good and um there's some
+7:10 really good points to ponder right so um
+7:15 in on that still on the commercial break
+7:18 um on that topic uh the thing that you
+7:21 may know may not know was that
+7:24 occasionally uh one two three members of
+7:28 Chief X would still do a kind of a popup
+7:30 webcast and on on a particular topic um
+7:34 you know we we each have our uh we each
+7:37 have our skills that that we um our
+7:40 particular fores uh in that particular
+7:43 popup we were talking Dan and I decided
+7:45 to to talk about um your value and uh
+7:49 the the ways that you can improve the
+7:51 value of your services so if that is of
+7:54 interest to you and hopefully it is um
+7:57 go check out that link and and uh
+8:00 uh watch that show Absolutely it it's
+8:03 really was valuable I I enjoyed
+8:05 listening to it so what I have on my
+8:07 screen are just some things that I
+8:10 do um really a believe that you need to
+8:13 do regularly and that is um make sure
+8:17 you're saving things to your library
+8:19 properly so I'm really meticulous about
+8:21 my lighting like it I am very very picky
+8:24 about my lighting and and what products
+8:27 I'm using so I have actually saved sa D
+8:30 recess can information into my library
+8:34 and in that Library um in those objects
+8:37 I actually saved all of the information
+8:40 in here so that way I know exactly what
+8:44 model number to um write I mean I know
+8:49 the model number comes in that fixture
+8:51 what's that where are you saving that
+8:53 for that fixture I saved it in
+8:57 this it's okay Julian um right in my
+9:00 library so in my library right here when
+9:03 I open up my library I added this
+9:06 object um oh it yeah it's right there so
+9:09 I added in this object I created this
+9:11 object I saved it I put all information
+9:14 information panel cool yes in my object
+9:17 information panel and I put all the
+9:19 information right here and I do have um
+9:22 custom fields that I added so I want to
+9:24 know what kind of trim I need what kind
+9:26 of
+9:27 lighting yeah I created my custom field
+9:29 here it's called trim what custom field
+9:31 oh right down here you this is the
+9:33 coolest thing so I create these custom
+9:35 fields and in here I will have custom
+9:38 Fields like
+9:39 amperage um which we need to put on our
+9:42 electrical plan for our um appliances
+9:46 the electrician needs to know that
+9:48 information so I can immediately add
+9:50 that information right into my field all
+9:52 I have to do is just type on it I'm
+9:54 gonna I'm gonna put a pause to you real
+9:56 quick will you um now you have amp
+9:59 bridge but you didn't format it as a
+10:01 number which is a new thing in x16 can
+10:04 you okay hold on let me open this up see
+10:07 this is where we should all be doing
+10:08 this as soon as Renee says this so under
+10:12 true under
+10:14 ambage okay and by the way you could do
+10:17 it in lowercase and then format it so
+10:21 that it's uppercase um so that you have
+10:23 the option to do either or no kidding so
+10:26 the reason why I put it in caps is
+10:29 because that way I can find it in the
+10:31 catalog better you find it gotcha okay
+10:33 right that's why I put it in cat in in
+10:36 the schedule and I can explain that but
+10:38 in the field name you could actually oh
+10:40 here is where I could have had that
+10:42 format as a number yes and so now when
+10:45 that reports to a schedule that can be
+10:48 tallied um as a total as a row total so
+10:53 that you could tally up all the amperage
+10:55 for all of your various fixtures if you
+10:57 wanted to yeah I don't know that I I I
+11:00 don't know that we need that I could
+11:02 actually put the the um Amper the Lumen
+11:07 output well it's not even Lumen output
+11:08 it's the um wattage in here I could
+11:12 actually have a wattage thing but you
+11:14 know nobody's asking me for that kind of
+11:15 information so let go ahead and put a
+11:18 field value in there real quick for that
+11:20 fixture I'm gonna totally derail you
+11:23 okay going off the rails this is not
+11:24 planned no you're just going to put 20
+11:26 that's it okay just put 20 in there yep
+11:28 it's got to be
+11:29 well if you put 20 amp the field value
+11:32 will actually come up with an
+11:33 exclamation mark saying that hey this is
+11:35 not a number got it okay and then there
+11:38 you go go and press okay oh just press
+11:41 okay yep okay now I didn't I don't have
+11:44 that in this C in the schedule so I can
+11:46 the schedle place it in the plan place
+11:48 that fixture in the plan oh got it right
+11:52 there hold
+11:55 on if I can grab it and move my schedule
+11:59 I'm not in plan view
+12:01 though there go it was this one and just
+12:04 put it in the plan okay it's there now
+12:06 here's the next thing I would have you
+12:08 do this is a good one um go ahead and
+12:11 get into
+12:16 preferences are you all following the
+12:18 bouncing ball toally yeah this is the
+12:20 thing following the bouncing ball uh get
+12:22 into unit
+12:24 conversions panel unit conversions and
+12:28 you're going to add a new
+12:30 unit and call it
+12:35 yeah and this one I would definitely do
+12:38 sentence
+12:40 case definitely um
+12:43 Capital yeah okay now it doesn't matter
+12:47 what measurement type it is in this case
+12:49 because you're just using it as a
+12:51 reporting value so go ahead and okay
+12:53 press Okay so we've now created a new
+12:56 unit that is an amp and press okay again
+12:59 and get out of
+13:01 preferences now go check your schedule
+13:05 out um which you could click on the
+13:08 here's a here's a new trick in x16 by
+13:10 the way would you go back to plan for a
+13:11 second uh click on that fixture that you
+13:13 just
+13:14 placed in your edit toolbar the second
+13:17 to the last icon there find schedule
+13:20 from object that is so cool I love that
+13:24 um now open your schedule and add okay
+13:27 that custom field
+13:29 so and this is why I have it big so you
+13:31 can actually find it in caps yeah so
+13:34 explain how you just did that part we're
+13:36 in columns and rows oh so I went to
+13:38 columns and
+13:40 rows excuse
+13:42 me anything that I add I put in all caps
+13:46 everything that's upper and lower case
+13:48 is what the program has and it's going
+13:49 to pull information from the um
+13:52 materials schedule so I can't find it um
+13:55 so I capitalized everything that I need
+13:58 and then all I did was add it and then I
+14:01 just hit okay right um you hit okay but
+14:04 let's actually go back um go back into
+14:06 it okay go back into the catalog again I
+14:10 don't think I had and then for select
+14:12 amp and now see this is this was the
+14:15 wrong one this is the one that was not
+14:17 formatted as a number because it's not
+14:19 giving you a calculated total um on the
+14:22 right hand side
+14:23 there okay you added one that was amp
+14:27 that wasn't um a number for
+14:29 format oh because I didn't do it right
+14:32 when I added that information in
+14:34 here because I had the sampage and it's
+14:37 not and there's no way to go back number
+14:40 uh you can PR press cancel I think you
+14:43 can it's tough to get it from the um
+14:45 catalog though will you go have to get
+14:47 it up here default settings schedules
+14:50 got it
+14:52 Custom Custom yeah and then
+14:57 amps yeah go ahead click that or edit it
+15:00 and then format as a number there we go
+15:03 got it
+15:05 cool but I don't know that I actually
+15:07 put that one in here because it's not
+15:09 showing up I
+15:11 think what's said that's okay just open
+15:13 it up real quick
+15:15 the
+15:18 Okay click on AMP again there we go so
+15:20 now we have that option over on the
+15:22 right hand side to calculate total or Su
+15:25 SAR rows nice here here's the next cool
+15:28 part of this is the left hand side we
+15:31 have a number formatting
+15:34 panel so in your panels yep and then go
+15:37 and click on AMP and you get to specify
+15:40 the unit what unit are we going to
+15:41 specify it
+15:43 as so you can actually pull anything
+15:45 down out of here you would pull amps amp
+15:48 which we just created and then you're
+15:51 decimal places yeah switch to decimal
+15:54 places and just set it to zero
+15:57 probably got it so there you go now you
+15:59 have something that's reporting amps and
+16:02 it will tally a
+16:04 total that's pretty cool that's pretty
+16:07 cool if you have to do that you it works
+16:12 no you know what I love that actually
+16:14 the just the fact of going back here to
+16:16 doing the edit just totally makes sense
+16:18 because sometimes I end up making more
+16:21 um special things and I don't want um
+16:25 and then I forget to go back here to get
+16:27 rid of them right so you can come back
+16:29 in here into your schedules and get rid
+16:30 of them so hit and that's really nice
+16:34 hit done real quick and go into your
+16:35 schedule again okay one of the greatest
+16:39 things about schedules go ahead and get
+16:40 into columns rows yeah is let's let's
+16:43 click on any um item in the columns to
+16:46 include so in your right hand side I on
+16:48 the right hand side yeah we have a
+16:51 ability to rename whatever this is yes
+16:55 so when I do custom Fields I have it
+16:58 that it's just um number input one would
+17:02 be my amperage and then in the schedule
+17:06 I rename number input one so that I'm
+17:08 not building out a ton of custom Fields
+17:10 across all my objects I'm just so that
+17:14 way number input one could be amperage
+17:16 for an electrical Legend but number one
+17:20 input one could be you know um net free
+17:23 area in a foundation vent schedule it's
+17:26 meaning I don't need to add all the
+17:29 custom Fields I'm just using one custom
+17:31 field and then renaming it in the
+17:33 schedule if that makes sense and I can
+17:35 go over that later well that's pretty
+17:37 cool that's pretty cool so
+17:40 exactly there's so much opportunities in
+17:43 the program which I just think is
+17:44 fabulous right that's the thing is the
+17:47 goal that I want to to share with people
+17:49 is that you can make your life easier
+17:50 right so in lighting if I have something
+17:54 special that I use all the time or an
+17:55 electrical that I use all the time I
+17:57 have this already set up and then then I
+17:59 have it saved in my library so in my
+18:01 library and I have Rene's library in
+18:04 here so it can be crazy but in my um my
+18:09 user catalog I actually have my
+18:11 schedules in here and I have all my I
+18:15 have my schedule saved although I'm not
+18:16 there there we go so I have my schedule
+18:18 saved and they're already they're
+18:21 already set
+18:25 up okay yes we can Alan yes we can good
+18:28 question
+18:30 question Oh see it's
+18:33 great okay go to
+18:35 sleep um sorry you guys sorry you guys I
+18:39 really apologize um my grandson comes
+18:41 here one day a week and it's during this
+18:43 so I absolutely apologize you guys um
+18:48 anyway so here's the new ones that I I
+18:52 really enjoy of creating schedules and
+18:54 this was one that I learned a while ago
+18:56 and just thought this is fabulous and
+18:59 it's creating a custom countertop
+19:01 schedule so um designers are constantly
+19:04 using we we do crazy things with the
+19:07 kitchen so I was playing around with
+19:09 this design I just kind of messed with
+19:10 it and I created a custom countertop
+19:13 schedule which I started using a lot
+19:16 more now and um what I have in here now
+19:20 this is what I found you have to do is
+19:22 so in this plan I have my range wall
+19:25 elevation has one countertop one kind of
+19:27 material on it and then my is has
+19:29 another countertop on it what you have
+19:32 to do is you have to save the countertop
+19:34 as a custom countertop once you save the
+19:37 countertop as a custom countertop then
+19:39 you can start adding all the information
+19:42 that you want or that you need for your
+19:47 um contractor right for your installer
+19:50 they're going to ask you for all this
+19:51 information ask you what kind of finish
+19:53 what kind of edge detail how do you want
+19:55 the details done with it and you can
+19:57 actually put all the information in here
+20:00 and create your own custom countertop
+20:02 schedule how do you make custom
+20:04 countertop yeah this is easy this is
+20:07 really fun I just you guys I am so in
+20:10 love with this program it has changed my
+20:12 life I was an AutoCAD person for years
+20:15 and I think AutoCAD is a great program
+20:17 but oh my gosh my specs were
+20:19 crazy so this countertop is um a custom
+20:24 countertop and what I did was you select
+20:26 right now it's a custom countertop um
+20:29 it's one countertop but to do that I'm
+20:32 going to go over here because this was
+20:33 easier I'm going to delete the custom
+20:35 countertop off of this plan so I'm just
+20:38 going to delete this and get rid of the
+20:40 custom countertop it did not remove oh
+20:42 on this side it
+20:44 did nope that's the custom countertop I
+20:46 actually selected the wrong thing hang
+20:48 on a second guys get rid of the
+20:50 countertop well I deleted the um
+20:54 cabinets so I'm deleting the custom
+20:56 countertop right now so I don't these
+20:58 are now standard cabinets with their own
+21:00 countertop attached to create a custom
+21:03 countertop you just select hold your
+21:04 shift key down and select all of the
+21:07 countertop all the cabinets then at the
+21:10 bottom of your screen you have this
+21:12 little um I don't have my zoom thing on
+21:15 here so I can't show it to you guys but
+21:17 at the bottom of your screen is an icon
+21:21 that has a red um top on it and that is
+21:25 a custom countertop once you select it
+21:27 you actually create
+21:29 I think I he already did it I already
+21:32 did it yeah let me undo that so that way
+21:34 it's back again let me make sure we have
+21:36 it back okay one more time there we go
+21:40 so once you select all your countertops
+21:43 your cabinets then you push the the
+21:46 button that is the red I am just messing
+21:51 up I did go forward go forward twice go
+21:55 forward I don't know where I am now if I
+21:56 did too many of them no one time forward
+22:00 one one more time forward there I
+22:03 go it's still showing a
+22:07 countertop I still don't have it let me
+22:09 see just open a new plan you goofball I
+22:14 so
+22:16 silly what she's trying to say as she
+22:18 gets as she gets her back together again
+22:21 what she's trying to say is that a
+22:22 custom
+22:24 countertop places the automatic
+22:26 countertop that exists on the counter on
+22:28 the base cabinets once you do that you
+22:30 can manipulate it in any way that you
+22:32 want to including being able to set
+22:36 specific values for that particular
+22:38 countertop which you can't do without
+22:40 changing the default on the cabinets
+22:42 themselves or you've got to do it at a
+22:44 cabinent level here giv easy way of
+22:47 doing it well so we're here right now so
+22:49 this little button on the bottom it says
+22:51 generate custom countertop you select it
+22:54 once you have a custom countertop then
+22:56 you can select it and now you have a
+22:59 field that allows you to have your
+23:00 object information so now you can start
+23:02 filling out information in here and you
+23:05 can start saying all the things that you
+23:07 want with it so now that I've deleted it
+23:09 a million times I think I've lost most
+23:11 of my information but um so whatever so
+23:16 now you can go into it and you open up
+23:18 the countertop and now you have your
+23:20 object information and you can actually
+23:21 say where it is so I have my location I
+23:23 can type that this is my range
+23:25 wall and I can add my cutout is that
+23:28 this is a slide in
+23:32 range and I can write something like
+23:34 cspcs for um
+23:38 overhang for over you know I can add
+23:42 information here I can say that the edge
+23:44 detail is going to be an OG Edge right I
+23:47 can add all this information and then
+23:49 it's going to immediately report to my
+23:51 schedule I pull a schedule here you
+23:54 include those rows like you did earlier
+23:57 yeah and I do have that as long as you
+23:59 have them added into your schedule so
+24:01 let me just pull the schedule up and I
+24:03 probably have too many schedules open
+24:04 now but if I go to my countertop
+24:06 schedule let me just pull it up
+24:10 here and you can see that you can just
+24:12 immediately start adding that
+24:13 information in there so I have all of
+24:16 that information what I don't have in
+24:18 here I have not
+24:20 added um location so I'm going to remove
+24:24 that have you ever added the 2D symbol
+24:29 um you know what you can do that you can
+24:31 easily add the 2D symbol it looks a lot
+24:34 like a rectangle it's going to look like
+24:36 a rectangle it's not GNA look that
+24:38 unless it's a a corner or you know a
+24:41 shaped island something like that so you
+24:42 can add that information the sink cut
+24:45 out yeah yeah that's nice yeah so in
+24:47 this one it's not going to be great
+24:49 because it's actually two separate
+24:50 sections so there's really I don't find
+24:53 the need for that because I actually
+24:55 will do a custom if I'm doing a very odd
+24:59 countertop detail where I want to be
+25:01 able to show more information then I'll
+25:02 do a countertop plan so in this plan I
+25:06 didn't do that
+25:07 right one more time want show something
+25:10 open that one more time
+25:12 yeah
+25:14 um go ahead so but you can actually even
+25:18 do I have this set actual schedule real
+25:22 quick open up a brand new schedule no
+25:25 open that schedule open it oh sure uh
+25:29 see how it's object preview options
+25:31 scale images is
+25:32 unchecked at the very bottom there in
+25:35 the last SE here yeah so you can use
+25:38 plan view scale go and check that and
+25:40 this will actually scale those
+25:41 countertops according to the the size of
+25:43 them and then you could shrink this
+25:45 preview down by yeah changing your row
+25:49 WID just change this yeah well that
+25:52 should have
+25:53 done not doing it oh
+25:56 interesting yeah you open it up again
+25:59 and uncheck plan view scale that might
+26:01 be yeah just take that
+26:03 off Y and now you should be able to
+26:05 shrink that row can shink it down but it
+26:09 I I probably would not do that Renee
+26:12 because I would actually do this in it's
+26:16 my world it's well I don't even have it
+26:18 here because I wasn't playing with this
+26:21 plan to try to do this plan to be able
+26:22 to make this do that um
+26:27 my hold on second let me turn this off
+26:29 turn my library off um is I would
+26:33 actually do a um countertop plan like
+26:36 this and then I would put dimensions on
+26:38 it so in this plan um I actually create
+26:43 custom countertop schedule so or a
+26:46 custom countertop plan if I'm doing
+26:48 something that's really crazy this one
+26:50 is not set up I didn't do anything with
+26:52 it because I didn't create this plan for
+26:54 this project but I could add any extra
+26:57 information that I needed to um just by
+27:01 creating a custom countertop plan view
+27:03 right and I do that a lot especially
+27:06 when um I do have a project where it was
+27:08 a
+27:09 really odd there were a lot of notes
+27:12 that the countertop people had to have
+27:14 so I actually created a custom
+27:16 countertop plan which was really
+27:18 fabulous um and that's one of the things
+27:21 that I really enjoy um making the
+27:23 changes with this program so the other
+27:26 schedule that I just recently did I was
+27:28 working with a designer who has um this
+27:31 is crazy I've never done this but she
+27:33 was buying art for a client and she was
+27:36 moving the client was moving and they
+27:39 were hiring
+27:41 a a hanger somebody to come in and hang
+27:44 all the art so what she did was she
+27:47 wanted to be able to create a plan for
+27:50 the um the installer to know what piece
+27:54 of art went in which room and where it
+27:56 went so what she did was she did a
+27:58 material region on the walls on every
+28:00 wall she opened it up and she added the
+28:03 location she added the size of the art
+28:06 and the name of the
+28:07 art and had it by room and then the
+28:11 installer knew which wall to put it on
+28:12 because she would say it's on the West
+28:14 Wall the East wall the north wall and we
+28:16 created an entire art schedule which I
+28:19 never even I mean she was like how do I
+28:21 do this it's like okay let's figure it
+28:22 out that was and it was great right
+28:26 something that I would never do um
+28:28 another in designer saidwell what about
+28:31 furniture which that's crazy but you
+28:33 could then say Oh the green sofa that's
+28:36 six feet long right you open the object
+28:38 up you call it a green sofa six feet
+28:40 long give it its name till it what room
+28:42 it needs to go into and you could give
+28:44 that to your installer your movers and
+28:47 they you don't have to stand there at
+28:48 the door going here this room this room
+28:50 this room you know why is she doing a
+28:52 material region as opposed to the actual
+28:55 art as a fixture
+28:58 so the the way we were doing it is you
+29:00 just do a material region then you apply
+29:02 the art to it oh that's how they're
+29:05 doing it gotcha yeah so they did the
+29:07 they had the material region they
+29:09 applied the art to it and then they
+29:10 called it
+29:11 that okay and it worked out well but it
+29:14 was just the idea that you can actually
+29:17 create this custom schedule for
+29:19 something that's
+29:22 not not something that's standard in the
+29:25 program so the other thing that I do
+29:28 when I'm designing and kitchen and bath
+29:30 designers are doing this because we
+29:31 never make a cabinet normal right I
+29:34 don't think there is a cabinet that we
+29:35 do that is standard most of us you know
+29:38 we start getting inside here and then we
+29:40 start adding accessories in which
+29:43 obviously is not in that one um but we
+29:46 start adding accessories into all these
+29:48 cabinets and I did have SC schedules in
+29:51 here with um and information in all my
+29:54 schedules and you're not seeing them um
+29:58 use that fine schedule button yeah this
+30:01 one right here so if we have the
+30:03 schedules you can actually add all your
+30:06 information that the installer needs now
+30:09 this is something um oh how do you add
+30:13 all your schedules on one page you just
+30:15 send them to the same layout so I just I
+30:19 would I would back up and say we
+30:21 typically keep all our schedules in a
+30:23 cad detail um I keep each individual
+30:26 schedule in
+30:28 individual separate CAD detail yes can
+30:32 you tell us why you do that oh because
+30:34 you'll never find them you will
+30:35 literally never find them if you had 15
+30:38 different schedules in this page you'll
+30:40 never find them you want to have you can
+30:42 always find open your project browser
+30:44 real quick
+30:48 yeah it's just nightmare not being able
+30:51 to find where your schedule is um which
+30:54 project you're working on um one close
+30:56 close CAD details
+30:59 okay open
+31:01 schedules there's all your SCH you can
+31:03 just select it yeah you can always find
+31:05 all your schedules you can do it that
+31:07 way so why so Renee why do you then uh
+31:10 put each schedule on its own CAD detail
+31:13 okay so Robin do you have your schedules
+31:16 placed in the exact same place in all
+31:18 your CAD
+31:21 details yes I well is no is I'm GNA say
+31:26 go to layout I don't have my Z Z set
+31:28 like you do all right go go to a
+31:32 layout and go and shut your project
+31:34 browser down yeah that
+31:38 okay
+31:40 um that bottom schedule down at the very
+31:43 bottom what is that one okay want you to
+31:46 here here would be the reason for me
+31:48 Larry is that I keep these in individual
+31:50 CAD details we're in layout right now
+31:52 we're not in plan and I want to work
+31:56 efficiently I need a another schedule on
+31:59 this sheet let's say that the appliance
+32:01 schedule wasn't on this sheet yet and I
+32:03 want the appliance schedule on this
+32:05 sheet yes I could go back to plan and go
+32:08 try to find my Appliance schedule and
+32:10 then send it to layout but something
+32:12 that to me is a lot more cohesive and it
+32:15 works in the flow of what I'm doing
+32:17 because I'm in layout right now and I'm
+32:19 compiling my sheets is go ahead and hit
+32:22 the copy paste button Robin
+32:25 okay okay and then drag the handle
+32:29 over this is how I would do this
+32:32 yep and now hit relink and show where
+32:35 that is in your toolbar kind of do it
+32:37 slowly maybe oh it's down here so that's
+32:41 the relink button so we're relinking
+32:43 what this does is we get to point to
+32:45 something else in this case right so you
+32:48 could actually put Plumbing here
+32:49 finishes Etc now it does look like Robin
+32:53 has her schedules placed in the exact
+32:55 same place more or less so you know if
+32:59 you do have them placed in the exact
+33:01 same place and they're all the same
+33:02 width now it's just a matter of
+33:04 relinking and suddenly you're schedule's
+33:06 in the perfect spot you don't need to
+33:08 move it around but Chief also has some
+33:10 tools where you could hit the center
+33:12 button on this layout box now and Center
+33:15 that schedule without editing the layout
+33:17 box which is this one uh no it's the
+33:19 second to last one that's
+33:21 the oh this one oh look at that there
+33:25 you go so that centers that in the view
+33:26 another thing that we could have done go
+33:29 and delete that one that you um that
+33:30 you're highlighted right now let's do
+33:32 that same process again so copy paste
+33:35 slide it
+33:37 over and by the way actually goe and
+33:39 delete this too I'm going to show you
+33:40 one more trick
+33:43 here um copy paste but this time want
+33:46 you to hold your s key s say in Sam
+33:50 uhhuh and I want you to um hold your
+33:53 right Mouse button oh you've rebound s
+33:56 to something else I did too many times
+33:58 okay so copy paste by the way I would
+34:01 encourage anybody out there to not
+34:04 reassociate your s key with anything
+34:06 like Robin
+34:08 did s key for Sam is an actual internal
+34:11 hotkey for Chief Architect what it does
+34:14 is it makes it so that you will not pick
+34:16 up any snaps when you're M making a move
+34:18 of an object so in case we're trying to
+34:21 slide this over orthogonally and not
+34:25 somehow get hit with some snap or moves
+34:28 that box over holding the S key will
+34:30 override that so that's a really nice
+34:32 thing and that's different from holding
+34:34 control it's a very different function
+34:36 but if we copy paste and rightclick now
+34:39 we're no longer um getting hit with all
+34:41 the angle snaps but you're still got it
+34:45 so you're right okay so then you can
+34:46 move it wherever you want to yeah can
+34:48 you can you explain a little bit more
+34:50 why s is different than
+34:52 control um control overrides all snaps
+34:55 so we're no longer even bound in an
+34:58 orthogonal plane um so that's that's
+35:01 kind of the trick there another um way
+35:04 of doing this um so s just means we're
+35:07 not picking up any snap points but we're
+35:11 still bound to like angle snaps and
+35:13 orthagonal directional movement okay so
+35:16 it's different from control another
+35:18 thing you could do is copy paste
+35:20 rightclick and hold shift and that will
+35:23 um help us bind in orth orthog orthogon
+35:28 lateral
+35:30 movements anyways copy paste and move
+35:33 this
+35:34 over okay and then let's uh um hit the
+35:39 relink again and pick a different one
+35:41 but don't press okay yet okay this time
+35:44 see where it says keep layout Box
+35:46 contents position when relinking uhhuh
+35:49 so if we don't have our item in this
+35:51 same XY space in our CAD detail from one
+35:56 CAD detail to the next if you uncheck
+35:58 this Chief will try to automatically
+36:01 Center the contents of your box when you
+36:03 relink it kind of yeah it's just not big
+36:07 enough yeah okay oh that's pretty
+36:12 cool not tall enough and everything but
+36:14 it's good it's a good thing to be able
+36:17 to be aware of yeah that's cool so did
+36:21 did that answer the the where we save
+36:23 our schedules and how do we get them all
+36:26 in well actually address why you keep
+36:29 them in individual U CAD details as
+36:32 opposed to group together this this
+36:35 would be a reason for me is one we can
+36:37 get a layout box label that is specific
+36:41 to the cad detail so if we
+36:43 call if we went into this schedule and
+36:46 decided to not show the title of the
+36:48 schedule at the top bar there which says
+36:50 appliances in this case we have the
+36:52 option to not show that label and so
+36:55 instead we could have the layout box is
+36:57 label and the layout box is what's
+36:59 selected right now that's that's what
+37:01 Dan Bowman calls the viewport to our CAD
+37:04 detail in this case if we wanted to we
+37:07 could turn on labels for this layout box
+37:09 label and it will pick up the label for
+37:12 what we name this in our CAD details so
+37:15 what you're saying what you're saying is
+37:17 U by keeping them in their own
+37:20 independent CAD detail it's providing
+37:22 you a further level of granularity to be
+37:25 able to control what you want to do with
+37:27 the result results is that fa yeah and
+37:30 and another reason for this is that um
+37:33 if you've ever considered doing a
+37:35 warehouse plan what we call a warehouse
+37:37 plan which would be a separate plan file
+37:40 that has a bunch of details that we use
+37:42 over and over again for a project and
+37:44 it's not necessarily pulling information
+37:47 from its plan file that we need so let's
+37:50 say that we have a a some a set of CAD
+37:52 details that we want to use that is that
+37:55 doesn't need to be in our acve
+37:58 plan and let's say one of those
+38:01 Warehouse details is for slab on grade
+38:04 another one of those Warehouse detail
+38:06 plans is for stem wall construction that
+38:09 means as long as the cad detail name is
+38:12 the same we get to swap those out just
+38:15 by changing the reference plan being
+38:18 used in layout that's a little bit
+38:20 Advanced um you'd have to go over that
+38:22 but there's quite a few reasons to do
+38:25 this how about this just keep your schu
+38:27 in separate CAD detail it just makes it
+38:30 easier just do
+38:32 it so Renee let's go back to something
+38:35 right under Rene's name it says trust me
+38:39 absolutely no seriously that's what you
+38:41 need to do is just trust this one and
+38:43 actually just do that just keep your CAD
+38:46 details your schedules in different CAD
+38:49 details it will honestly save your life
+38:51 for being able to find what you need
+38:53 when you need it but great question from
+38:55 dougas Moore
+39:00 yes yeah yes Absol yes it will
+39:03 automatically
+39:04 update so Renee here's the point that I
+39:08 do want to get to is one of the things
+39:09 that you have said and I absolutely
+39:11 agree with it but I lost it off of my
+39:13 plan was um finding z00 so the point of
+39:18 finding z00 on your plan so when you
+39:20 start drawing so if you open up a new
+39:22 plan you should have a point here which
+39:25 oh it does I don't think that's z00
+39:27 though it's not how do you find so this
+39:31 is something that makes it easier for
+39:32 when you're sending drawings to your
+39:34 layout so they're all on the same plane
+39:37 so things don't jump around so like your
+39:39 schedules they all show up in the same
+39:41 line how do you find Zer zero and when
+39:44 you start drawing do you start drawing
+39:46 from that corner is that always the
+39:48 corner of a house so is that how you
+39:50 start dra zero at the bottom left of
+39:52 your drawing sheet which to me makes no
+39:55 sense because you could change the
+39:56 drawing sheet size now you're screwed I
+39:58 age yeah so I I have my drawing sheet at
+40:02 the at the center z0 um and you can
+40:05 easily find it by getting into your CAD
+40:08 menu in CAD Y and under
+40:14 points uh which is the first one oh
+40:16 first one yes okay and then uh input
+40:22 point and make it absolute
+40:26 location 0 and then just hit next
+40:30 next or I don't even think you need to
+40:32 hit next next you just press okay you're
+40:34 probably right and that's z z Oh I'm
+40:37 there yeah so then again when you start
+40:42 drawing is this always the bottom
+40:43 leftand corner of your house or the top
+40:46 right hand corner to Zero from out of
+40:50 the default template 0000 is the bottom
+40:53 leftand corner of the drawing sheet if
+40:54 you had the drawing sheet turned on
+40:57 oh so turn the drawing sheet on which is
+40:59 over here middle middle of your right
+41:01 sidebar there one looks like a white
+41:03 page with a white page outline no
+41:06 further down middle further down oh
+41:08 right there got it so then that's where
+41:11 the drawing sheet you changed your
+41:12 drawing sheet so now z00 what is it even
+41:15 doing not not a whole lot um and z z is
+41:19 nice for
+41:20 referencing you know just Dimensions
+41:22 measurements everything um yeah it's
+41:25 nice for it's nice they have a center
+41:26 point that everything else can go around
+41:28 your cameras you know everything else
+41:30 can center around a z00 if the z00 is in
+41:33 the center of a drawing as opposed to
+41:35 the bottom left corner so you can you
+41:38 can for instance decide like what I do
+41:40 is is if I'm looking at cameras the
+41:42 example I just CHS I will create a
+41:45 circle based on z0 and I can expand or
+41:49 contract that Circle and I can place my
+41:51 cameras all around the perimeter of that
+41:53 Circle and I know I'm going to capture
+41:56 everything in that drawing as opposed to
+41:58 having to figure out where they go based
+41:59 on the bottom left corner so I can um
+42:04 expand or contract that Circle whether
+42:07 I'm working on a two-bedroom Rambler or
+42:09 whether I'm working on a palace and it's
+42:11 always at the center of the
+42:13 drawing yeah so here's what I'd like to
+42:15 do is how do you move because there's
+42:17 enough questions how do you move how do
+42:19 you move the drawing sheet to zero Z so
+42:23 a point you can snap off of a point so
+42:25 you could take the you could select the
+42:27 drawing sheet and do Center and Center
+42:29 about that point if you wanted to just
+42:31 Center and that's where you do it you're
+42:34 not going to be able to do a point to
+42:35 point Center um because I don't grab oh
+42:39 were you able to grab the center yep
+42:41 grab the center now check this out
+42:43 change your um change your save plan
+42:45 view real quick which you don't have it
+42:48 same oh yeah architectural half is where
+42:50 you've saved plan view so change my sa
+42:52 save plan view okay
+42:55 yeah and that kept the draw sheet in the
+42:57 same place there are where the drawing
+42:59 sheet does not move my H quarter inch
+43:04 changed that all changed for every saved
+43:06 plan view you have to go now move that
+43:09 drawing sheet and template so hold on
+43:13 and then you just save it as a template
+43:15 yeah yeah so that's all you need to do
+43:17 is just select it and then find your
+43:21 Center and then just move it where you
+43:24 need it to go yeah okay I was able to do
+43:26 that and then you save your plan View
+43:28 and then you're done yeah okay question
+43:33 John I I have never used a drawing sheet
+43:36 so am I missing
+43:38 something is there reason it it helps
+43:41 when you have your drawing sheet how do
+43:43 we set our drawing sheet up for our
+43:44 print size right that's in print preview
+43:47 you pick the drawing sheet size it helps
+43:50 for um for one a lot of people that do
+43:53 new construction it really helps them
+43:55 visualize the size of their home that
+43:57 they're designing and so that they're
+43:59 not blowing out scale um because it's
+44:02 just a nice visual marker to understand
+44:04 hey I've drawn a million houses on an
+44:06 ancd size sheet size as soon as I start
+44:09 hitting these boundaries this house is
+44:10 too big so it's kind of used as a visual
+44:14 cue in a way and then also it does help
+44:16 me organize and understand very early on
+44:19 in a project if I need to size my
+44:21 drawing sheet up from the start of the
+44:24 project so that I'm making sure that I'm
+44:26 designing for the correct sheet size
+44:28 before I start sending stuff to layout
+44:30 and finding out later shoot I got to
+44:32 change the sheet size and that's a ton
+44:34 of work um to then go change all you
+44:37 know composition on the sheets got it
+44:40 would be my main things for that so Alan
+44:43 ask can we change the cat can we view
+44:45 CAD details as a gallery um here I'll
+44:48 put my screen up for a second okay um
+44:51 you kind of can but you have to do the
+44:53 work to do that you're just going to
+44:54 send all your details in this case to
+44:57 your to a plan or to a layout and you
+45:00 could just use it as a boilerplate
+45:01 layout but these are all individual
+45:04 details that are be sent being sent so
+45:07 it's not a gallery per se but it's
+45:09 certainly a detail sheet where these are
+45:12 all linked to something and I could
+45:13 relink them to something else or slide
+45:16 them over or do whatever so I mean that
+45:18 would be an example of that I've never
+45:21 checked this out but there the you can
+45:23 save your your schedules to the library
+45:26 now right yes yeah yeah you can do they
+45:30 update do they update in the library no
+45:32 you have to put them on your plan and as
+45:34 soon as you put them into your CAD
+45:35 detail they update no which is kind of
+45:38 the bummer right you definitely have to
+45:41 keep it organized I have a I have a few
+45:43 in here I mean if you're ever wondering
+45:45 about finding schedules very quickly is
+45:49 um you can just type in schedules if we
+45:52 look at this and chief now has this as a
+45:55 type right so we can just limit our
+45:57 searches by type which show schedules
+46:00 and now it's really easy to find the
+46:02 schedules that I've built here and this
+46:04 is one that I've got where it's um this
+46:06 is probably more advanced but it's
+46:08 building out and telling me what's my
+46:09 concrete footing Vol volume and stem
+46:11 wall volume of concrete so you use
+46:14 schedules as calculators um this would
+46:17 definitely kill some time to explain how
+46:19 this was done though but the whole point
+46:21 of just the the idea of schedules and
+46:24 saving them into your library is you
+46:26 create the schedule one time you create
+46:29 all the information you need in there if
+46:31 you have a custom field you create that
+46:33 custom field you save it to your
+46:34 schedule the schedule's already made so
+46:38 now as you're working and you add
+46:40 information to an object that
+46:43 information is automatically being sent
+46:45 to that schedule so as soon as you send
+46:47 that schedule to a um CAD detail the
+46:51 information is there and your your specs
+46:54 are being written as your As You Are
+46:57 designing and that's the point that I
+46:59 really want to make is that you really
+47:01 need to take the time to create a
+47:04 schedule you create a schedule for
+47:06 whatever it is you create create it save
+47:09 it make it the way you want it to be put
+47:11 all the information in there the way you
+47:13 want save it to your your library and
+47:18 now you have this it's done and now as
+47:21 you're designing you're adding
+47:22 information and your work is done and
+47:24 that's the beauty of this program and
+47:27 that's the beauty of understanding
+47:29 schedules and working with them so
+47:31 that's I I can't even stress it enough
+47:34 like I say writing schedules are like
+47:36 writing specs are I don't know many
+47:39 people who really enjoy doing it oh I
+47:41 got a tri for you Robin
+47:43 um this would be in the case that you
+47:45 have a dummy plan file to create a dummy
+47:49 schedule um but it would be a like a
+47:51 spec schedule which would be that let me
+47:54 just place a toilet in here and maybe
+47:56 I'll place a sync
+47:58 fixture and I'm going I'm going to drop
+48:01 in some kind of fixture
+48:04 schedule right and then in the fixture
+48:07 schedule I want to add that 2D symbol
+48:10 and let me press okay so it shows us our
+48:12 2D symbol what ideas does this give you
+48:15 if you wanted to do a true spec setup
+48:18 here and you didn't care about the plan
+48:21 representation come here no any hints oh
+48:25 she's preoccupied
+48:28 so well actually you know what though so
+48:31 here's something that's nice about it um
+48:33 I don't spend a lot of time trying to
+48:34 find the exact model in there because I
+48:38 don't know Chiefs sometimes the models
+48:40 aren't what I need it to be um like I
+48:43 have a toilet that I use all the time
+48:45 and I've say I created my own toilet
+48:47 Toto is not in here they do not have a
+48:49 Toto toilet so I have a Toto Aquia 4
+48:53 exactly the model number with the slim
+48:55 seed I have one saved with the slim seat
+48:57 I have one saved with all the different
+48:59 models that I use so it's all set up for
+49:02 me again that same thing is set up for
+49:05 me I don't so I'm gonna I'm gonna show
+49:08 you a trick hold on I'm gonna go ahead
+49:10 and edit the cad detail of this toilet
+49:13 right and so we've got here's our toilet
+49:15 line I can grab all this and I don't
+49:17 know I could delete it or I could turn
+49:19 it into a blank line style if I wanted
+49:21 to um by the way if people didn't know
+49:23 this I always like to mention this you
+49:25 can hover over something like this just
+49:27 hover over this and scroll Mouse wheel
+49:30 down and it will scroll through your
+49:31 options oh I did not know that you
+49:33 didn't know that yeah and then I'm gonna
+49:36 just Renee doesn't sleep you guys just
+49:38 so you know he doesn't sleep I'm just
+49:41 gonna taste in something here that's
+49:43 going to represent the spec of my toilet
+49:46 and make sure that it's in front of
+49:47 their our drawing sheet right and then
+49:50 close this down and make sure it's saved
+49:52 everywhere all instances and now check
+49:55 take a look at my schedule
+49:59 you have a real picture if you wanted to
+50:01 you could show all your fixtures as like
+50:03 the representative graphic fixture from
+50:05 the manufacturer if if you're a designer
+50:07 and really you know wanted to show this
+50:09 this is a pretty common display where
+50:11 we're showing an actual image of our of
+50:14 our finished item and then of course we
+50:16 know that we can come in here and scale
+50:17 images or use plan view scale to kind of
+50:20 row this up if we wanted to make that
+50:22 much larger nice nice so AG keeper if
+50:27 you need some support you can reach out
+50:28 to pretty much any one of us who can
+50:30 help you through um creating up your own
+50:32 schedules if you want any one of us you
+50:34 can reach out to us and we're happy to
+50:36 help you with setting up your own
+50:38 schedules of to make it work okay I
+50:41 don't know if we have any we have any
+50:42 coursework amongst us and I don't even
+50:44 think Chief
+50:47 does idea it's a great idea I do spend a
+50:50 lot of time if you're an interior
+50:52 designer and you're not doing some of
+50:53 the crazy stuff that Renee does you can
+50:55 come talk to me if you want to do the
+50:57 crazy stuff talk to
+50:59 him probably the easiest way to just say
+51:02 um but yeah if you need some support
+51:05 Jennifer reach reach out to me I mean I
+51:07 know Jennifer so um if you need some
+51:10 support just reach out to us and we're
+51:11 happy to help you out through this so
+51:13 that way you can get it done and it can
+51:15 be customized to what your needs are
+51:17 that's the thing about it is everybody
+51:20 works a little differently you can
+51:23 actually even put your specs you can
+51:24 actually put a link to your spec in your
+51:28 schedule I don't do this but you can put
+51:31 a link to your specs in the schedule and
+51:34 then it will become live when it becomes
+51:36 a PDF that's absolutely true let me show
+51:38 that real quick because will but I don't
+51:40 and here's the reason why I don't do
+51:42 that is I don't add hey Becky Sue how
+51:45 are you um I don't do that because when
+51:48 I'm doing my design work which I think a
+51:51 lot of interior designers are doing
+51:52 you'll have like the refrigerator spec
+51:54 open and you're designing right and
+51:56 you're grabbing information from that
+51:58 refrigerator and you're putting it into
+52:00 your plan I then save it and put it in
+52:03 my file and I send that as a separate
+52:06 PDF to my contractor because they don't
+52:09 want to have to click here and open this
+52:10 up they want it easy so that's the way I
+52:14 do it all right let me just show this
+52:16 real quick though so um we've got some
+52:18 kind of custom field which Robin showed
+52:20 us how to do that earlier and by the way
+52:22 we oftentimes call the object
+52:25 information panel o IP so when we're
+52:27 talking about OIP that's what we're
+52:29 referring to so putting in a custom
+52:31 field I like to use a generic custom
+52:34 field that way I can reuse it across
+52:37 different schedule types so macro input
+52:39 one is my generic custom field and then
+52:42 I have a link to something here now this
+52:44 doesn't have a www which doesn't always
+52:46 work out oftentimes you want something
+52:49 that's worldwide web you know as a
+52:51 prefix and I'm going to press okay now
+52:54 that's it's not showing up in my fixture
+52:56 schedule because I need to add it so I'm
+52:58 going to open up my fixture schedule I
+53:00 need to go find that custom field which
+53:02 macro input one I'll add that we can see
+53:06 that that shows up in columns to include
+53:09 I'll go ahead and rename this link
+53:12 that's why it doesn't matter what you
+53:13 name your custom field so long as you
+53:15 know what your input is Right anytime
+53:18 you rename something and in case you
+53:20 forgot what this was originally you can
+53:23 always hit the reset button here and it
+53:26 will reset the name so in case you get
+53:28 confused about where that information is
+53:30 coming from let me press okay now it's
+53:33 going to include that link in our
+53:35 schedule okay couple things we can do
+53:37 with schedule that's maybe a little bit
+53:40 more advanced sometimes you need to have
+53:42 this report to some kind of database
+53:44 that you're using internally with your
+53:45 company we can absolutely do that in
+53:48 case you didn't know this um we can
+53:50 export this text as various different
+53:52 types including a CSV file so
+53:57 um if I export this as a CSV file then I
+54:00 can actually open that in my external
+54:02 editor and now that's in an Excel sheet
+54:05 in this case so something just to note
+54:07 now the next thing is I'm just going to
+54:09 print this I'm not going to send it to
+54:10 layout um it's kind of the same function
+54:12 I'll just print this individual page as
+54:14 a
+54:16 PDF and so I'm just doing this quickly
+54:18 mind you just to illustrate the point
+54:21 but um we'll just call this live link so
+54:24 I can find it
+54:27 and then that opens up in my default PDF
+54:30 viewer and you can see here as I hover
+54:34 over this we're in Adobe Acrobat right
+54:36 now this is now a live link so when I
+54:38 click on this and it's going to tell me
+54:41 it's wants to go to some external site
+54:44 there it goes it's popping up that
+54:46 linked item so there's my toilet monster
+54:50 bam you can get that for $30
+55:02 we should talk about the summit a little
+55:03 bit because we're all you have five
+55:06 minutes do it um actually before you get
+55:08 into that I want to mention something
+55:09 that
+55:10 someone uh let's see Bill Murray
+55:12 mentioned this
+55:14 earlier so this is a good one to note um
+55:17 this was something that came up this
+55:18 year that we had to go um we had to go
+55:21 file for uh what was this called a
+55:24 beneficial ownership report was what
+55:26 they were making this file if you had an
+55:28 LLC prior to 2024 and so Bill is saying
+55:32 that this is unconstitutional we don't
+55:33 have to do that
+55:35 great check it out for yourself check it
+55:38 out for I don't know what that is can
+55:39 you can you repeat that just real
+55:41 quickly I know you want tell boir and I
+55:44 will in case that was something that was
+55:46 on your list of things you had to do you
+55:49 take it off your list well so far you
+55:51 know a has ruled it unconstitutional
+55:53 that doesn't mean that it's going to
+55:55 hold but uh we got we got a fact check
+55:57 bill yeah fact check um so the everybody
+56:01 fact check yourself we
+56:03 wouldn't we wouldn't have done our jobs
+56:05 if we didn't uh talk about the summit so
+56:08 we're gonna spend a couple minutes
+56:09 talking about the summit and I don't
+56:11 know if any of you have visuals up for
+56:13 that but I'm getting it yeah at this at
+56:15 this point yeah you've got to know that
+56:17 it's coming um it's not coming till the
+56:19 middle of March um but it's something to
+56:21 look forward to and those of you who are
+56:24 on the fence if we can nudge you over by
+56:26 telling you that things like what we
+56:28 just went through uh that kind of thing
+56:30 is available to you at the summit and uh
+56:32 while we're there our time is free so uh
+56:37 you know you you have the opportunity to
+56:38 come talk to us about pretty much
+56:40 anything that U that is of interest to
+56:43 you and know that it'll be taken care of
+56:45 either through the sessions that we hold
+56:48 or through uh one-on one type time that
+56:51 you just want to carve out or you know
+56:54 have it over a glass of wine late at
+56:57 night chitchat whatever do we have the
+56:59 ability to to actually play those uh
+57:02 testimonial videos uh while we're
+57:04 showing that screen um you can see the
+57:08 enthusiasm of the people who are there
+57:10 these these videos these testimonials
+57:12 were taken during the time that we were
+57:15 there uh and these are you know these
+57:18 These are really interesting to see
+57:20 because you can see the benefit that
+57:22 people are getting directly from those
+57:24 people uh those are Not actors those are
+57:27 real people so
+57:30 uh some pictures look
+57:33 staged that doesn't look staged this is
+57:36 ADD brain happening right there
+57:39 yep Renee you always have ADD brain it
+57:43 is
+57:45 amazing so um the main thing about it is
+57:48 is that uh there are seats available and
+57:50 we'll be until we run out at which point
+57:52 there are no seats available so come see
+57:55 us come check out the summit um if you
+57:58 have any questions about it any of us
+58:00 can answer those questions um but uh I
+58:04 think you you know several people who
+58:05 were on the call today who would who
+58:07 would reflect that um it's well worth
+58:10 your investment so
+58:13 absolutely
+58:16 absolutely and uh and with that we are
+58:19 wrapping up it's
+58:21 12:58 central time um does any
+58:26 had to pick up
+58:28 yeah John we
+58:31 got yeah I just got an email from aibd
+58:34 talking about that boir thing so make
+58:37 sure you do your your own due diligence
+58:39 on that and decide what you want to do
+58:41 with it okay uh Jennifer Heyman um no
+58:45 such way of doing that right now so
+58:47 you'd have to do a little bit of double
+58:48 work it's not a ton of double work
+58:51 especially if you save these items in
+58:52 your library as your spec schedule and
+58:56 and build a separate plan that is your
+58:58 spec schedule um so it but it is double
+59:03 work you'd have to place those
+59:04 individual items to build out a graphic
+59:07 spec schedule it's less work than going
+59:09 to like canva or design files or
+59:13 something like that um once you have it
+59:15 built out so it's a lot less work but
+59:19 but you do have to set that up in the
+59:20 first place Allan saying the boir is um
+59:25 pretty easy thing to file for yourself
+59:26 only took you about five minutes so um
+59:29 it's just it's a it's an
+59:31 obligation uh the way it was written up
+59:34 until we heard this today so just check
+59:36 into it and see nice um anybody going to
+59:41 kbiz we'll be there some of us will be
+59:44 there so come say hi um I usually spend
+59:47 all day Wednesday at the Chief Architect
+59:49 Booth if you want to come say hi and
+59:50 talk
+59:52 shop yeah you know be it is if I could
+59:56 just say Becky Su it is so close to CIS
+59:59 I totally get it um
+1:00:02 but I would almost have hate to say this
+1:00:06 to you you would
+1:00:08 probably I think kis is great I don't
+1:00:10 know necessarily believe that most of us
+1:00:13 have to go every single year um I mean
+1:00:16 for the parties and for getting together
+1:00:18 with your friends kis is great um but I
+1:00:21 don't think we need to go every year
+1:00:23 honestly um I think more from the summit
+1:00:27 to be very honest with Becky Sue you'll
+1:00:29 get so much more from the
+1:00:31 summit says that it far exceeded her
+1:00:34 expectations yeah oh what or summit
+1:00:38 summit summit the summit we still cting
+1:00:40 but Becky sue if you want to chat about
+1:00:42 it I actually um face I actually sent
+1:00:44 you a message via uh FaceTime or
+1:00:47 Facebook so if you um want to chat I'm
+1:00:50 happy to chat with you about it and
+1:00:52 about schedules so just re nice
+1:00:54 Margaret's coming back
+1:00:57 Cassie you coming you coming to kbiz and
+1:00:59 Summit is Cassie on our Summit list um I
+1:01:03 don't think Cassie had a another event
+1:01:05 she's got to be at this year something
+1:01:07 she's going to kiz so Cassidy would be
+1:01:10 great to hook up with you there you know
+1:01:12 see you again yeah Cassie come by uh to
+1:01:16 Chief's booth on Wednesday say hi
+1:01:19 please cool cool
+1:01:22 cool uh we miss anything else so um yeah
+1:01:26 it it' be
+1:01:28 great oh Richard it would be so much fun
+1:01:30 to see you I'm sorry you're not going to
+1:01:32 make it this year it's too bad can't
+1:01:35 hang out in Atlanta with you either so
+1:01:37 that's sitting the bathroom or other
+1:01:39 kinds of we wouldn't be having any
+1:01:41 chicken though Jason Moore I'm want to
+1:01:43 answer this verbally um you can edit
+1:01:46 your bounding box of your symbol you'd
+1:01:49 open your symbol up you'd get into the
+1:01:51 advanced panel and you would change the
+1:01:54 bounding box
+1:01:56 spacing um and uncheck that your
+1:02:00 adjustments are going to change the
+1:02:01 geometry of the symbol you'd have to
+1:02:04 check the bounding box spacing only
+1:02:06 uncheck changing the geometry size and
+1:02:10 then adjust your spacing what's that
+1:02:11 doing is Chief places Things based on
+1:02:14 the the bounding box size not based on
+1:02:16 the geometry size so that will adjust
+1:02:19 the spacing of that item according to
+1:02:21 Chief so that when you place it now
+1:02:24 bumps will honor that new bound box size
+1:02:27 so if you need Ada clearances on on all
+1:02:29 your symbols you could go save them to
+1:02:31 your library edit the bounding box
+1:02:33 spacing now it will honor that new
+1:02:36 spacing that you and to expand on that
+1:02:38 you can do that with anything that you
+1:02:40 need uh whether you commonly do it or
+1:02:43 whether it's a requirement like Ada
+1:02:44 standards you can do that with anything
+1:02:46 um to be able to size things without
+1:02:49 thinking about it just change the
+1:02:51 bounding box bump into a wall and you're
+1:02:53 there
+1:02:56 yeah create all create all your symbols
+1:02:58 as Ada
+1:02:59 symbols yeah and then be sure to save
+1:03:02 that into your make sure you save it as
+1:03:05 an ADA fixture and that way you have it
+1:03:08 again um Dan wasn't here to tell me to
+1:03:10 slow down so I made a mistake too fast
+1:03:13 for this but
+1:03:15 um Interiors um all I did and this has
+1:03:19 to be in a separate plan not one that
+1:03:22 you're going to be utilizing you know
+1:03:23 sending your plans to layout there's a
+1:03:25 separate plan just to build that
+1:03:27 schedule it's the only way to do this is
+1:03:29 you're editing a symbol so once you have
+1:03:32 a symbol selected in your edit toolbar
+1:03:35 we have the option to edit the 2D CAD
+1:03:37 representation of that symbol and we're
+1:03:39 just deleting the cad that's within
+1:03:42 that um new window that pops up and
+1:03:45 placing an image and then saving it and
+1:03:48 so it's replacing the 2D representation
+1:03:50 of the symbol and then we're adding the
+1:03:53 2D symbol to our schedule
+1:03:56 cool I got nothing else well you do
+1:04:02 but and it is never ending and we you
+1:04:04 know we're forever thankful that you
+1:04:06 guys continue to come see us tell your
+1:04:08 friends get more and more folks watching
+1:04:10 we'd sure appreciate it um and uh and it
+1:04:14 seems like you know we would eventually
+1:04:16 run out of things to say but I think
+1:04:19 we've proven especially those of you who
+1:04:21 have attended the summit that we never
+1:04:22 shut up so
+1:04:25 what's ISO tell each other to shut up
+1:04:29 hold on what's Becky Sue I don't
+1:04:31 understand what's ISO I'm not good get
+1:04:34 with the ter if you want to come I know
+1:04:38 I don't do those things um if you are
+1:04:41 looking at thank you if you're looking
+1:04:43 at wanting to um do share a room there's
+1:04:47 always that option so um yeah there
+1:04:50 there's actually shared there are shared
+1:04:52 rooms available right now actually there
+1:04:54 are definitely shared rooms Becky so if
+1:04:56 you're interested reach out to Dan
+1:04:58 direct reach out to Dan and he can share
+1:05:01 that with you okay so absolutely that is
+1:05:03 an option it is available and you have a
+1:05:06 great time and seriously once you're
+1:05:07 there you don't pay for anything
+1:05:09 everything's
+1:05:11 included I mean you gotta pay it
+1:05:15 first got all right we gotta get out of
+1:05:17 here yeah we do we do thank you
+1:05:20 everybody appreciate your your time and
+1:05:22 your attention and uh looking forward to
+1:05:24 talking to you on on the 20 20th is that
+1:05:28 right yeah the
+1:05:30 20th okay bye all

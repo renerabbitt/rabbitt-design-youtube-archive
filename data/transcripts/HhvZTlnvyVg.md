@@ -1,0 +1,1538 @@
+---
+videoId: HhvZTlnvyVg
+title: Plan Review for Chief Architect Users - Designers Show 136
+url: "https://www.youtube.com/watch?v=HhvZTlnvyVg"
+status: imported
+---
+
+# Transcript
+
+0:00 hey everyone welcome to the designer
+0:03 show here we are in in October you
+0:06 believe it's October already and uh I'm
+0:09 on here with John Renee and Kevin Robin
+0:12 will be here short how's everybody doing
+0:16 today I'm doing great thanks yeah me too
+0:19 beautiful here in Kansas City I can't
+0:22 tell you how beautiful it is yeah we've
+0:25 got uh it's gorgeous here in Minnesota
+0:27 too sun shining like crazy I think we're
+0:29 in the low low 60s something like that
+0:32 today 70s tomorrow how is it tomorrow
+0:37 Norman
+0:39 hotlanta I like that that's pretty
+0:42 good 51 in
+0:45 Seattle Renee was saying yesterday that
+0:48 uh you're doing some pretty nasty hot
+0:51 weather in in California huh it's just
+0:54 hotter than we're accustomed to so it's
+0:56 been 90 994 inside my house y yikes no
+1:02 thank you no thanks all right so we're
+1:05 uh just chatting here beforehand about
+1:08 uh really nothing but uh today we're
+1:12 gonna talk U little bit of plan review
+1:15 uh Kevin's got a few things he would
+1:17 like to pick up on from the last session
+1:19 that we had held I know Rene has got a
+1:22 plan that he would like to talk about
+1:23 that um he got some things that I don't
+1:26 know Rene can you kind of summarize what
+1:29 you're going to talk about that plan
+1:30 you've got um I don't know everything
+1:32 that I'm going to run into in that plan
+1:33 tell you the truth you're about to find
+1:36 out H yeah it's a user that's been
+1:38 struggling with just um mainly all the
+1:41 intersections between Foundation walls
+1:44 struggling with roofs struggling with
+1:47 framing
+1:49 yeah then my experience with their posts
+1:53 online have been that they click a lot
+1:55 of boxes and change a lot of settings
+1:57 that they don't need to necessarily
+1:58 change so yeah that happens maybe maybe
+2:01 it's um reversing the things that you
+2:03 messed up is is the goal of that
+2:06 plan yeah you know I've had plans where
+2:10 I've actually started over so uh
+2:12 hopefully it's not one of
+2:14 those sometimes it's just easier I got I
+2:18 got one a week or so ago where uh
+2:20 somebody was asking me now that you've
+2:23 designed this entire space at um 2600
+2:26 square feet can you just give it to me
+2:29 again at 1,800
+2:30 [Laughter]
+2:34 sure eded area here we
+2:36 come
+2:38 yeah oh man yeah I've been kind of going
+2:41 through that with a client too just a uh
+2:44 it's that double remodel I was showing
+2:46 you guys that one time and with that big
+2:48 parting wall we're going to do it in two
+2:50 stages and yeah had it almost done and
+2:53 then they came back yeah we're going to
+2:55 trim a thousand feet off the project so
+2:57 it's like okay well there we go
+3:00 yeah part of the deal I mean it's it's
+3:02 like you know they got to thinking you
+3:04 know they're in the five mid fives well
+3:06 close to 5,000 square feet and it's like
+3:08 you know their life their family
+3:10 lifestyle their budget and all this kind
+3:11 of stuff it's just like they just don't
+3:12 want a house that big and you know put
+3:15 plus we started smaller then we went
+3:17 bigger so anyway it's just part of the
+3:19 process isn't it that's how you find the
+3:21 stuff out you just you know but the but
+3:23 the idea that you can shrink a space
+3:26 into a lesser size of the same space you
+3:29 this is this is this is not a a
+3:31 geometrical shape that can be just um
+3:34 concentrically
+3:36 resized doesn't work that way they don't
+3:38 have that
+3:40 tool it's called your brain that's what
+3:43 the tool is um yeah that's why they hire
+3:47 us to help them through all of those
+3:48 challenges bear with me a second I am
+3:50 looking for something but before I get
+3:52 to that uh you guys right behind me you
+3:55 can see the total immersion Summit for
+3:57 2025 we still have space available uh
+4:00 you guys check it out Chief experts.com
+4:03 and you can look that up we've also got
+4:05 a little room for our class coming up
+4:07 next week John and I will be teaching a
+4:10 class here in Minnesota if you have any
+4:11 interest we have a two-day beginner
+4:13 intermediate class and a two-day
+4:15 intermediate Advance class or you can
+4:17 take all four days uh John and I have a
+4:19 ball teaching these classes and we we uh
+4:22 cover a ton of material so if you're if
+4:25 you're looking to really dive into Chief
+4:26 and really get into it come check out
+4:28 our classes uh get Chief experts.com
+4:31 it's on the homepage just scroll down a
+4:33 little bit and you'll see it right there
+4:34 so I think we've got what was I saying
+4:36 John we got nine in the first day first
+4:38 two days seven in the second two days so
+4:40 we got plenty of room I mean it's gonna
+4:41 be a small class so it'll be
+4:45 fun any who enough of that um don't
+4:49 forget to look out look for John's
+4:51 website imagin drafting. comom Kevin
+4:54 tranzo designbuild experts.com and of
+4:57 course rabbit design .n net to uh check
+5:03 out everybody's what they've all got to
+5:04 offer so I know um we're all here to
+5:08 help you so please reach out to any of
+5:10 us okay uh Kevin you have some things
+5:14 you wanted to talk about that we talked
+5:16 about in our last session where we had
+5:20 gotten into how do you start the process
+5:22 with a client that kind of where we were
+5:25 at with that yeah that's yeah that's
+5:28 where we were and there were some
+5:29 interesting questions that were coming
+5:31 up in the chat that we of course don't
+5:33 have time to get to everything so um I
+5:36 just felt like it might be good to kind
+5:39 of continue where we left off not to
+5:41 repeat what we did but to say Okay so
+5:44 we've gotten through the stage of you
+5:46 know somebody made a phone call and
+5:48 we've chatted to them on the phone kind
+5:50 of a uh kind of a a
+5:54 pre-design um consultation on the phone
+5:57 which is really design which is really
+5:59 intended more so that both they and we
+6:02 as we accept a call can um decide
+6:05 whether this is somebody we want to
+6:07 continue working with one of one of
+6:10 those questions that came up had to do
+6:12 with you know okay so you charg to to go
+6:15 out to the initial
+6:17 consultation and uh you know pick a
+6:19 number and in my case the number that I
+6:21 said last week was $250 or two weeks ago
+6:24 was $250 in order to get up out of my
+6:27 chair and uh uh disrupt my day and go
+6:31 meet with them with the hope that
+6:33 potentially there's something there on
+6:35 the other side right so some of that was
+6:39 uh some of that was about um uh you know
+6:43 making sure that you're getting paid for
+6:44 your time but realistically none of us
+6:47 can support ourselves on a whole bunch
+6:49 of $250 introductions that $250 is more
+6:54 than that that's that's designed to say
+6:57 how serious are you about wanting to
+6:59 talk to me and uh and from their
+7:03 standpoint they're looking at it like uh
+7:06 you know if I'm the typical homeowner
+7:08 you know how many different opinions can
+7:10 I get so that I can make a better
+7:12 judgment call about where I want to go
+7:14 with my project and gee wouldn't it be
+7:16 nice if they were all free so we we run
+7:19 into that conflict between free
+7:21 estimates and paid
+7:23 consultations and My Philosophy that I
+7:27 both will teach more in depth at the
+7:29 summit or anywhere else that anyone
+7:31 would care is the idea that you're
+7:33 getting paid for your time for sure but
+7:36 that that payment is really uh kind of a
+7:39 filter for things that you may uh feel
+7:43 like are worth your effort to get up out
+7:45 of your chair in the first place you
+7:47 know I do love this
+7:51 comment yeah
+7:54 yeah yes yeah um and so so let me ask
+7:59 your question Kevin on that
+8:01 topic what's the hardest part about
+8:03 saying you charge a $250 con initial
+8:07 consultation and that and that was the
+8:10 primary question that I remember coming
+8:11 out of last week was somebody asked you
+8:14 know what is your acceptance rate or
+8:17 rejection rate for saying that to
+8:19 somebody um my short answer to that is
+8:23 that I'm more of an abstract person than
+8:26 I am a uh linear person so I don't
+8:31 actually uh keep track of such things
+8:34 but I can tell you that it's exactly
+8:36 what I expect exactly what I expect
+8:39 which is that people that are serious
+8:41 and really want to talk to me are
+8:43 willing to invest that
+8:45 $250 people who are not serious or just
+8:47 looking for uh another free estimate um
+8:51 are going to say okay well I'll talk to
+8:54 my husband and call you back and and
+8:56 that's the end of it and that's fine
+8:57 with me because they weren't my client
+9:00 to begin with correct so say that much
+9:03 of the
+9:04 time go ahead John what's your closing
+9:07 rate for the people who do pay the
+9:11 $250 you know I would say it's above 90%
+9:14 um you know but that you probably yeah
+9:18 I'd say it's above 90% but the important
+9:22 part about that is is that we have
+9:23 pre-qualified each other and so by the
+9:26 time you walk on to that job and discuss
+9:28 with and talk with them
+9:29 um they're already
+9:32 somewhat invested in you and your time
+9:36 then it comes down to okay so now that
+9:39 I'm here in person how how well do I
+9:41 present myself you know how well how
+9:44 well are my processes regarding um
+9:47 interviewing or assessment or
+9:50 determination or concepts or the kinds
+9:52 of things that I can throw out there
+9:54 that make me uniquely me so it's it's
+9:57 important on both sides
+9:59 right so so you know part of the process
+10:01 part of this whole thing that we're
+10:03 talking about I mean there's nothing
+10:04 written in stone for any of this stuff
+10:06 it is you kind of make the call as you
+10:08 go um but you can always start with a
+10:12 predetermined um uh policy call it a
+10:16 policy for your company that yeah we
+10:18 charge a $250 initial consultation fee
+10:22 however because you're a strong referral
+10:25 because you know what there could be a
+10:26 whole bunch of of uh crit
+10:30 criteria involved here that would say
+10:33 okay I'll just come out and look at it
+10:34 I'm not going to charge you that fee uh
+10:36 you get to make that call but at least
+10:38 the owner knows the client that you're
+10:40 about to see knows that oh we're getting
+10:42 a $250 value for
+10:44 free whoa you know that that's pretty
+10:47 good deal yeah and I I don't I don't
+10:50 disagree with that but I can I can um
+10:53 time in here that I think that the the
+10:57 use of that should be sparing um for
+10:59 instance it might be um you know the
+11:02 best friend or the neighbor across the
+11:03 street that you're going to see every
+11:05 day for the rest of your life um okay
+11:07 well I might be more forgiving in that
+11:09 situation exactly or it might be a
+11:11 family member or it might be you know
+11:13 somebody from your church you're just
+11:15 trying to do a good deed with I mean
+11:17 there's reasons for you to forgive that
+11:20 charge but for the most part um I don't
+11:24 for the most part um I state it and I
+11:26 state it uh clearly kindly absolutely
+11:30 that this is is what uh I charge to come
+11:33 out and chat with you and I will during
+11:35 the course of that chat be looking at
+11:38 the possibilities that I see and that
+11:40 you see and talking about your budget
+11:42 and all the things that go into that and
+11:44 we'll have a wonderful time yeah so but
+11:47 you know it's it is important that
+11:49 client knows if you if someone does
+11:51 decide not to charge it that here's the
+11:53 value of my time that I'm going to give
+11:55 you for complimentary okay never never
+11:58 get the word free out of everything that
+12:00 you do it's complimentary don't you ever
+12:03 use the word free it's a bad word in our
+12:05 business funny thing is funny thing is
+12:08 online free is a really big word you
+12:10 know when you're putting your online
+12:11 teasers out people love to see the word
+12:13 free so I agree with you when it comes
+12:17 to professional Professional Services
+12:19 nothing is free yes so John you were
+12:23 just done visiting with Mike and he's
+12:25 complimenting your uh cargo B that you
+12:27 use to drive all over the country in so
+12:30 cool yeah fun meeting yeah that's great
+12:34 so yeah and Je I agree with you that um
+12:37 I do make it clear that that first
+12:39 meeting is not about anything but
+12:42 Concepts and as I said last time I don't
+12:45 even show up with a tape measure I have
+12:47 no intention of measuring anything um my
+12:51 first meeting is just there to and I and
+12:54 I let him know that during the course of
+12:55 that meeting is to find out if the two
+12:57 of us would love to work with each other
+12:59 if we're a good fit you know if all of
+13:02 those things and it's just there to
+13:04 share ideas yeah um I also am very
+13:07 careful about the ideas that I share uh
+13:09 so uh I might tell them through the
+13:12 course of there um well I have three
+13:15 ideas that I would love to explore with
+13:17 you which um tells them that okay he's
+13:21 got something up his sleeve but I'm not
+13:23 telling them what those ideas are you
+13:25 know I'm just discussing with them that
+13:27 I have those ideas yeah and come back
+13:29 with three different plans for those
+13:30 ideas and and knowing you you will come
+13:33 back with three Amazing Ideas that's
+13:35 that's really what all of us are selling
+13:37 our our ideas and as I'm working with
+13:40 clients all the time too and I'm amazed
+13:41 at the stuff I come up with where did
+13:44 that come from I mean you know I come up
+13:46 with some pretty cool ideas sometimes
+13:47 you know uh not just the ideas of how to
+13:51 do something but the ways that gets to
+13:53 buil oh yeah we can't do this here
+13:54 because of this but we have to do this
+13:56 over here because of that so people are
+13:59 really hiring us for our expertise for
+14:01 many many reasons throughout the design
+14:04 process anywh who um cool uh so you guys
+14:09 yeah keep that in mind we are selling
+14:11 our our knowledge that's a big part of
+14:13 what we sell even if you're contractor
+14:15 and you're selling boards and the you
+14:17 know subcontractors too uh keep in mind
+14:20 that you have all that knowledge to
+14:22 bring all of that stuff together I mean
+14:24 Kevin you were a general contractor for
+14:25 a very long time and U yeah you I mean
+14:30 you charged a lot for your design even
+14:32 when you were doing General Contracting
+14:33 right I did yeah yeah so that was a
+14:35 profit Center for your business and I've
+14:37 been preaching on that forever but um
+14:41 you know it absolutely it absolutely
+14:42 should be but I it just amazes me the
+14:44 number of people who don't consider it a
+14:46 profit Center and who are actually they
+14:49 they look at it like it's an expense
+14:50 Center like this is the cost of doing
+14:53 business no that is that's absolutely a
+14:56 profit Center and you get paid for every
+14:58 hour that you you want to get paid for
+15:00 so so true so true cool well let's move
+15:04 on um right but I love this conversation
+15:07 we'll keep we'll kind of keep going
+15:09 through this I hope you guys enjoy this
+15:13 um format whatever you want to call it
+15:16 it's a great conversation because
+15:18 everybody I talk to all day long in this
+15:20 design World goes through this I mean
+15:22 there's no hardw written rules about
+15:24 what you should and shouldn't be doing
+15:26 uh with your design business I have
+15:28 another I have another completely off
+15:30 topic thing that if it's okay I want to
+15:32 just toss in here sure and that is that
+15:35 I was reading a headline this morning uh
+15:38 you guys know that I'm that I absolutely
+15:41 love artificial intelligence and
+15:44 especially that that can be used um
+15:47 conversationally with me in a text form
+15:49 or conversational because it's uh an
+15:52 amazing tool for finding out both right
+15:55 answers and wrong answers to things um
+15:58 but the but anyway I um I I am amazed by
+16:03 it I use it probably I probably use chat
+16:06 GPT at least 10 times a day um and uh
+16:10 and and uh the way that I use it might
+16:13 bend a lot of Minds uh in terms of the
+16:16 kinds of things that I uh use it for the
+16:20 part that I'm bringing up is that this
+16:21 morning I read that for the first time
+16:25 artificial intelligence specifically
+16:26 chat gp4
+16:29 has beaten the touring test um if you
+16:33 know that touring back in 1956 is it uh
+16:36 Dan do you remember um when Turing came
+16:40 up with the original Concepts oh oh yeah
+16:42 the guy yeah the guy the guy named
+16:44 Turing yeah when he came up with the
+16:46 concepts of of artificial intelligence
+16:48 and they started you know looking at
+16:50 that they started saying at what point
+16:53 is artificial intelligence now competing
+16:56 with humans um and I got some advice for
+16:59 you guys by the way yeah you got to
+17:02 pluck your nose hairs before you go live
+17:05 they just sit there and tickle you and
+17:07 you can't
+17:08 even thanks thanks for
+17:11 offering okay good right back for off
+17:14 camera to take care of that yeah little
+17:17 awkward levity
+17:19 appreciate any anyway so this morning I
+17:22 was reading that for the first time um
+17:25 in in test done with the original tools
+17:27 to test touring with chat GPT 3.5 and
+17:30 with chat GPT
+17:32 4.0 um the uh uh jat GPT 4.0 convinced
+17:38 people that it was human 54% of the time
+17:42 um so it has now beaten that uh that
+17:45 that flip of a coin assessment uh which
+17:47 is really interesting the the part that
+17:50 the part that I find fascinating about
+17:52 that well one part that I find
+17:53 fascinating about that is that it is
+17:55 doing that the other part of course is
+17:58 is where where you can take that with a
+18:00 grain of salt um so if any of you all
+18:04 would like to hear more about chaty PT
+18:08 it's that that kind of competition how
+18:10 it's progressing all those kinds of
+18:12 things I'd love to talk about that
+18:13 sometime yeah we should actually do a
+18:15 show on again here pretty soon uh
+18:19 because it is so useful in our business
+18:21 I use it for a lot of things as well
+18:23 it's just it's my new search engine for
+18:25 sure you know when I'm when I have
+18:27 questions about a project I'm working
+18:30 on Mike says he's a super cynic he
+18:33 trusts
+18:34 nothing Mike you can trust us come on
+18:39 now hey
+18:41 Robin you made it yay looking good would
+18:45 you take some of the curls out of your
+18:46 hair or what did I what yeah well this
+18:49 is what happens when I wake up in the
+18:51 morning so I have my grandson here today
+18:53 hi you guys hi
+18:55 everybody hey Becky Sue I haven't seen
+18:58 you since um oh my gosh uh New Orleans
+19:03 it's been a long time um anyway hi
+19:07 everybody yeah my grandson's here with
+19:08 me so I'm getting Dino TV set up for him
+19:12 so hopefully it'll work and we'll be
+19:14 good you'll be good you just missed a
+19:16 great conversation but other than that
+19:18 we're good um all right let me uh I am
+19:22 going to uh share my screen for a minute
+19:25 where did it go uh share screen
+19:30 oops let's jump into a little Chief
+19:32 Architect
+19:34 stuff screen there it
+19:37 is okay share my screen and where did
+19:41 Chief go there you are okay so so here's
+19:45 the deal
+19:47 um people have problems with Chief
+19:49 Architect right I mean I rarely do but
+19:52 yeah right uh of course after all the
+19:55 years of working with Chief when you
+19:56 have a problem you can't solve it you
+19:57 learn how to work around it so it's just
+19:59 like yeah it is what it is and as you
+20:01 use it more and more you learn part of
+20:03 part of working with Chief is think
+20:05 about think about the programmers
+20:08 putting this together how they take a
+20:11 computer software like this and make it
+20:13 into something that acts like we're
+20:15 building a house you know we're kind of
+20:17 pretending we're building a house when
+20:19 we're in reality all we're doing is
+20:20 building a bunch of 3D boxes on the
+20:22 screen hang on a second I have to
+20:24 interrupt Mike I love
+20:27 you post up put up Mike's comment I love
+20:29 you Mike thank you Robin should do a
+20:31 show where she walks around the kitchen
+20:32 behind her and shares the thought about
+20:34 what went into it I think that's a
+20:35 brilliant show thank you I agree you I'd
+20:40 be very happy to
+20:43 yes okay sorry Dan take it
+20:46 away we could have so many we could have
+20:49 so many different show ideas it'd be fun
+20:51 anyway um so I'm just going to jump in
+20:53 this one real quick this is a really
+20:55 simple thing someone had a question
+20:57 about uh
+20:59 something not working on a a s overhang
+21:02 in this particular plan this guy uh
+21:05 designs uh I think I see the problem the
+21:08 house moves around yeah no that's me the
+21:12 center the point the center point here
+21:14 is is kind of whacked out so uh so let's
+21:18 get back to are you using your space
+21:20 Mouse Dan yeah I am um that's all right
+21:23 I'll fix that real quick by I'm gonna
+21:25 click on this roof right here and I'm
+21:27 gonna click this little icon right here
+21:29 I'm going to just reset the rotation of
+21:31 Center and when I do that now when I
+21:34 rotate around the plan I'm rotating
+21:36 around that point so you could do that
+21:38 with Chief anytime even if your pro
+21:39 Project's way off anyway this is a
+21:41 simple little thing but I want to point
+21:42 out why this kind of stuff happens
+21:44 sometimes you see how that's not filling
+21:46 in right there he's doing the flush
+21:49 overhang oh okay okay dumb dumb little
+21:53 question but the reason that's not
+21:55 working is because the wall if you click
+21:58 on wall here look at where it ends the
+22:00 attic wall that is being generated here
+22:02 isn't going out far enough so sometimes
+22:05 a simple solution sometimes you'll see
+22:07 that too where you you put on the uh
+22:10 you're putting on your freeze board and
+22:12 the freeze board comes up short it's
+22:14 probably because there's a roof in the
+22:16 way or there's a wall too short because
+22:18 it doesn't have enough surface to
+22:20 generate that molding polyline that
+22:22 creates that so um what I did earlier
+22:25 was I did a simple fix where I deleted
+22:27 that and and now I have to go back to
+22:29 the floor plan and delete the invisible
+22:31 wall that was just created when I did
+22:34 that we go up to the attic there's that
+22:37 invisible wall so I delete that Chief
+22:39 generates a new wall and let's see if
+22:41 that fixed it it did not so I'm just
+22:43 going to stretch this out a little bit
+22:45 and see if that fix it of course it
+22:47 worked before when I did um let do this
+22:52 again and if that doesn't work then I'm
+22:54 going to go create a new wall and and
+22:56 just go draw a wall there so see how
+22:59 Chief is is putting that back in oh the
+23:01 other thing that I checked was did he
+23:04 have this this B wall top height in the
+23:06 right place um okay so it didn't work
+23:10 let's try it
+23:11 again so at any time you can go into
+23:14 your attic and you can then stretch your
+23:15 walls out do different things with it
+23:18 yes I want to make it so it stays there
+23:20 see how this side goes to there this
+23:22 side needs to go to there let's see if
+23:23 that fixed it and then voila it's done
+23:26 so so the the over Kings do interact
+23:29 with walls all the time sometimes
+23:32 they'll interact with the Baseline
+23:34 sometimes they interact with the walls
+23:36 you can rest assured the the moldings on
+23:39 the siding would interact with the walls
+23:43 as much as the roof but mostly the walls
+23:45 anyway I just want to cover that one so
+23:48 um so that was just a matter of having
+23:49 to go fix that
+23:51 wall stupid little thing but those are
+23:54 the kind of things that can drive you
+23:55 nuts sometimes when you're trying to
+23:56 create a really nice model
+24:00 so you know another solution to that
+24:02 don't take don't take a camera view that
+24:05 can see it from that
+24:07 angle exactly all right Renee you had a
+24:12 something that you were gonna show us
+24:14 why don't you go ahead and I do and then
+24:16 also Mike's got a good question here
+24:19 okay um in saved plan views I set the
+24:22 floor level to each unique plan view
+24:25 meaning that he is in his plan View
+24:28 designation if we get into edit the
+24:30 active view he's saying that instead of
+24:34 using any floor he's actually
+24:36 designating
+24:37 floor and then he's saving that save
+24:39 plan View and saying this is first
+24:42 floor okay this is second floor plan is
+24:46 there a Best Way um the reason that I
+24:49 use any floor is because on the layout
+24:52 side if we just open up a brand new
+24:56 layout um we can
+25:00 link here's a proposed main level floor
+25:02 plan well if I went into this floor plan
+25:05 and I added a second
+25:07 floor when I go back to layout I could
+25:11 just easily open this up and say that I
+25:14 want to use the second floor means that
+25:16 I have less saved plan views to manage
+25:19 and I can reference any floor that I
+25:21 want so that it's automatically going to
+25:24 pick up for a second floor so I can just
+25:26 copy across Pages that's the reason I
+25:28 don't um associate a particular floor
+25:31 with certain plan views other plan views
+25:34 like the foundation plan yeah I want to
+25:36 say Foundation yeah now Mike if I were
+25:39 with you my first question be why do you
+25:40 do that okay um you know maybe you have
+25:43 a real specific reason why you do that
+25:46 but um 99.9% of the time you just use
+25:49 all floors um I remember I had a client
+25:53 once that did that and he also set up
+25:57 layer sets for each one of those floors
+26:00 so he had different save plan views for
+26:03 different floors and different layer
+26:04 sets for each different floor and it was
+26:06 a nightmare I mean he had such long
+26:09 lists of things that you come back to
+26:11 the plan a month later and you go H I
+26:13 have no idea why um
+26:17 so uh anyway try to keep it simp the the
+26:22 uh I don't know why Mike saying this but
+26:24 he says um that space Mouse doesn't work
+26:28 on a Mac I mean it it does it does so
+26:32 I'd question why or you know if you need
+26:35 help um you know get a hold of one of us
+26:39 well crazy enough to run a Mac and he
+26:42 has a space
+26:44 Mouse U Back on the back on the use any
+26:46 floor versus not um I think the the key
+26:49 the most the simplest way to think of it
+26:52 is if there are um common attributes
+26:56 that you're trying to show for instance
+26:58 I'm looking at a floor plan view well I
+27:01 want to see that floor plan view with
+27:03 the same layers whether I'm on the first
+27:05 floor the second floor maybe even the
+27:07 attic the foundation is usually a little
+27:09 different so maybe not but if you are
+27:12 then use any floor is completely
+27:14 appropriate it's when there's some sort
+27:16 of difference that you need to uh that
+27:19 you need to illustrate on the resulting
+27:22 set if if you've suddenly switched um
+27:26 your layer sets for some reason or
+27:27 whatever because you want to you want to
+27:29 demonstrate or illustrate something else
+27:31 that's when you should use a specific
+27:32 floor in your in your plan
+27:34 view um let's see he's saying Chief
+27:37 fails now I know the solution potential
+27:40 solution for the potential problem here
+27:42 on a PC side and Kevin has figured out
+27:45 this same Solution on the Mac side but
+27:49 the um if we have multiple installations
+27:52 of Chief meaning we've installed Chief
+27:54 Architect x14 we've installed X15 we've
+27:57 installed x16
+27:58 there is a config file that is used um
+28:04 by the space
+28:06 Mouse and that config file um it's it's
+28:11 I know where to find it on PC I don't on
+28:13 Mac but it still exists on the Mac and
+28:17 um what's happening there is if we open
+28:19 up that config file at the very first
+28:22 line of code is this issue right here is
+28:26 it's only going to in stall for the
+28:28 version that you had when you installed
+28:31 the driver package and so it's only
+28:34 listing x14 so it's not going to
+28:36 initiate if it doesn't see a new line of
+28:39 code that says X15 x16 as well so you
+28:44 actually have to come in here you have
+28:45 to stop the driver force quit the driver
+28:48 and then you have to copy this line and
+28:51 paste it a couple times and change the
+28:53 programs path to X15 and x16 this is or
+28:58 just reload the drivers uh you could
+29:01 probably uninstall the drivers and clean
+29:03 uninstall the drivers use some resource
+29:06 to totally get rid of them and then
+29:08 install them again and if you don't have
+29:10 x14 X15 on your machine but otherwise it
+29:12 is easy enough to add in these two lines
+29:15 of code save it restart the driver and
+29:17 it will start working again so I have
+29:20 run into that problem um so I do have to
+29:22 do that every version for me anyways I'm
+29:25 pretty sure we address that um in the
+29:27 summit uh did and it's one of those it's
+29:30 one of those things that you know we've
+29:31 we've told all of you that uh the Summit
+29:33 is good for not just uh some sort of
+29:35 structured education but sometimes the
+29:37 best value of the Summit is all of the
+29:40 things that we talk about in off hours
+29:42 pursue problems Chase things at midnight
+29:45 all that kind of thing so you keep that
+29:47 stuff in mind I think I think you half
+29:48 of your value is coming after the class
+29:51 yeah I mean amongst all of us we've all
+29:54 run into some kind of tech issue that we
+29:57 might have a solution for so yeah it
+29:59 does does help it does help yeah yeah I
+30:02 mean we have computers breaking down
+30:04 there and all kinds of crazy stuff I
+30:06 think more of the learning actually
+30:08 happens off outside the classroom it's
+30:10 amazing what we come up with outside the
+30:13 classroom it's really fabulous that is
+30:16 very true all right let me get into
+30:19 this all right plan all right we we need
+30:23 to answer this question first since it's
+30:25 on that same fail when using the
+30:28 reference display for floor plans so all
+30:32 that's going to have no it does not um
+30:35 it will still reference whatever you're
+30:37 referencing so no that still works um
+30:40 yeah I can't see any correlation there
+30:42 though that there wouldn't be yeah it's
+30:45 going to be um in terms of what's sent
+30:49 to layout what's sent to layout is a
+30:51 floor that you've linked to layout right
+30:54 so um using floor doesn't just change as
+30:57 you're working through your plan view in
+30:59 terms of the layout side of some view
+31:01 that you sent to layout whatever you
+31:03 sent to layout that's going to be locked
+31:04 into that floor yeah remember the views
+31:07 on a layout page are view ports they're
+31:09 not anything other than that they're
+31:11 just looking at what's in the plan
+31:13 itself the layout page has nothing to do
+31:15 with what you see if you if you were
+31:18 going to do a like a a reference file
+31:21 that's showing your asilt versus your
+31:23 your new design or showing uh Plumbing
+31:28 uh that has to go into the concrete or
+31:30 something like that you would set that
+31:32 up as a new Sav plan view for that
+31:35 particular instance John I think I think
+31:38 the problem you're running into John if
+31:39 I'm if I'm guessing right here is when
+31:42 you say it loses the correct floor it's
+31:45 not it's that you have your reference
+31:46 floor designation set to automatic so uh
+31:50 it's going to it's going to show the
+31:52 reference floor as the last floor you
+31:54 were on um it's going to show it uh if
+31:56 you bounce up to the attic and come back
+31:58 to the second floor it's going to show
+31:59 the attic um if you're on the first
+32:01 floor and bounce up to the second floor
+32:03 it's going to show the first floor so um
+32:06 that may be what's confusing you
+32:08 there maybe
+32:11 yeah you can tell you can tell it
+32:13 specifically that I want to always in my
+32:16 reference uh layer or my reference plan
+32:19 I want it always to be referencing you
+32:21 know the first floor or the basement or
+32:23 whatever but if you have it on automatic
+32:26 it's going to catch the last
+32:30 bounce okay so got this plan I know this
+32:34 users just they're learning Chief
+32:36 Architect they're in their first year um
+32:39 look at that deck's not rebuilt that's
+32:41 fine and I know that these roofs are
+32:44 manual um and I also know that this
+32:48 person keeps um designating walls as
+32:52 Foundation walls to force footings as
+32:55 opposed to using Chiefs Auto build
+32:58 Foundation tools and we discussed this a
+33:02 lot when I do a walk out basement I'm
+33:05 doing it on floor number one not floor
+33:08 number zero my floor number zero is
+33:10 reserved for my footings or stem walls
+33:13 and footings and so what they're doing
+33:17 here instead is you can see that there's
+33:19 some footing markers here and that's
+33:21 because they're actually opening up
+33:22 these walls and designating that it's a
+33:24 foundation wall enforcing the build of a
+33:26 footing instead of of using the
+33:28 automatic Foundation tools and
+33:31 then they are also not they're they're
+33:35 changing some settings from room to room
+33:38 and I don't know why necessarily but I
+33:40 know that this project is supposed to be
+33:42 a mono slab all at one level and so the
+33:45 issue that this plan was uploaded for
+33:47 was that these particular walls right
+33:49 here are unconnected because every time
+33:52 this user connects these walls it is
+33:55 generating a room definition and that
+33:57 room floor are you on I'm on floor zero
+34:00 so this is um when these walls are
+34:04 connected it generates a room definition
+34:07 and those room definitions are
+34:10 different right and so it's doing some
+34:13 kind of it's creating a bunch of Step
+34:15 markers everywhere and and that's
+34:17 because those definitions are different
+34:19 so they set their defaults at all what's
+34:22 that did the defaults Get
+34:24 Set uh this I know that this user like
+34:28 likes to click buttons and see what it
+34:30 does and doesn't necessarily revert back
+34:33 and um not that they're just doing it
+34:36 arbitrarily they're trying to follow
+34:37 videos from Chief's library and Chief's
+34:39 Library could be from any version and
+34:42 maybe they're not cohesive and um so the
+34:46 first thing that I like to do is let's
+34:47 just kick this all up one floor and
+34:50 let's insert a floor below and let's use
+34:53 that automatic build Foundation now
+34:55 there's a problem with that here because
+34:57 we have manual roofs already so what
+35:01 happens when we go and insert a new
+35:03 floor and because we're on floor zero
+35:06 Chief knows that a new floor means we're
+35:09 having a New Foundation plan level all
+35:11 right and the one thing I want to note
+35:13 is that this floor is 33 and a half and
+35:17 I want to copy that I want to just keep
+35:19 that in my
+35:21 clipboard so that built a New Foundation
+35:24 level and already we see this isn't
+35:26 really matching up at all
+35:28 right close let's just get this tiled
+35:31 side by side now what happens when we
+35:34 want to see two levels at the same time
+35:37 so I want to build and work on that
+35:39 level one and I want it side by side
+35:41 with that Foundation plan there's one
+35:45 kind of easy way we could get into the
+35:46 project browser and um I might even come
+35:50 over here because this is the working
+35:52 plan view I might actually save this
+35:54 plan view as so I'm going to save the
+35:57 active View as I'm going to call this
+35:58 the foundation
+36:01 plan doesn't matter that it's associated
+36:03 with the same layer set as the other um
+36:06 working plan is so there we go I've got
+36:08 a foundation plan and now because I made
+36:10 that new save plan view I could come
+36:12 into plan views in my project browser
+36:15 and I could get back into that working
+36:17 plan view just by double clicking this
+36:19 now I've opened up a separate tab so
+36:22 here's the working plan I can tile it
+36:24 over here go up a level and start
+36:26 working on this while I see what's going
+36:28 on with the foundation level if I like
+36:32 okay next thing I want to do is I just
+36:34 want to select all these walls and get
+36:35 rid of all those footings and stop
+36:37 designating them as Foundation walls is
+36:39 one thing but the next thing is this
+36:41 shape is very funny something's
+36:43 happening here where we've got room
+36:45 definition or some going on right room
+36:48 definition must have been missing when
+36:50 you did thater so I'm going to select
+36:52 one room and use select Marquee similar
+36:56 this is my edit toolbar usually at the
+36:58 bottom of your screen and then select
+37:00 all similar and that's selecting all my
+37:02 rooms now down here and I'll open them
+37:05 up and I like to just go through because
+37:08 I know all of these rooms have the same
+37:10 structure set up they should have the
+37:12 same structure set up for this
+37:14 particular project I just get to come in
+37:16 here and hit the little gear icon or
+37:19 what we learned at Chief Architects
+37:21 training event was we get to just hit
+37:23 control D if you want to and that also
+37:26 does the same thing as just clicking the
+37:28 check mark now something you might not
+37:31 be familiar with is we've got a full
+37:33 check mark in some of these boxes but
+37:35 some of these boxes have this little
+37:37 line this little horizontal line what
+37:40 that means is that some of these rooms
+37:44 are checked as floor under room some of
+37:47 these rooms are checked as build
+37:48 Foundation below but some are not that's
+37:51 what that line designates so if we click
+37:53 on this again it's going to put a full
+37:56 check mark meaning that it is is now
+37:57 conforming all of my selections to that
+38:01 option so I'm going to go ahead and make
+38:03 sure that there's Foundation below
+38:05 checking checking checking all the
+38:07 default stuff there we go maybe I want
+38:10 to show room
+38:11 label now let me press okay and what
+38:15 happened well nothing on the foundation
+38:17 side what does that tell you well we
+38:19 don't have automatic build foundations
+38:20 on is what it kind of tells me so let me
+38:23 get back into the the menu let's build a
+38:26 foundation let's automatically rebuild
+38:28 it until we're ready to not build it
+38:30 anymore it's going to tell me all my
+38:32 work's been going to be lost but there
+38:34 we go bam now we've got something that
+38:37 makes sense I'm want to come back in
+38:39 here one more time actually I skipped
+38:41 one step I'm going to select all those
+38:43 rooms again open it up and I want to
+38:46 make sure in the structure panel this is
+38:48 a mono slab project so I'm going to go
+38:51 ahead and check on mono slab there we go
+38:53 we've built the full mono slab now the
+38:55 next part is that we've got some kind of
+38:57 raining walls here these big walls right
+39:00 so I believe that these probably have
+39:03 footings underneath them like a thick
+39:05 and slab or something like that so I'm
+39:07 going to select these two walls open
+39:09 them up and in the structure panel I'm
+39:12 just going to call them bearing walls
+39:14 and what that does is it tells autobuild
+39:16 Foundation that hey we have a footing
+39:19 underneath these
+39:20 walls create wall footing below and
+39:24 there we go we see that we've got a
+39:25 bearing wall condition on this side
+39:29 now I've run into this before you see
+39:31 this
+39:33 jog something's happening where this
+39:35 user's got some kind of furring wall
+39:37 here let's actually make sure that it is
+39:39 a furring wall first of off I'm going to
+39:41 select these two
+39:44 walls open them
+39:46 up and in our structure panel okay down
+39:51 at the double wall section go ahead and
+39:53 check thir wall and also I would
+39:56 probably argue that I don't want these
+39:58 framing walls to actually frame through
+40:01 to my exterior walls I probably want
+40:03 them to just be surface walls they're
+40:05 probably just you know stick frame
+40:07 thrown right in front of the foundation
+40:09 wall so in fact I might come in here
+40:11 under wall
+40:13 types and it looks like they did in fact
+40:16 make a custom wall type for furring wall
+40:20 but I want to get into the wall
+40:21 properties panel here and down at the
+40:24 bottom partition wall this means that
+40:27 it's not going to frame through anymore
+40:29 it's just going to stop at that surface
+40:33 level that's going to stop at the
+40:35 finished level too at the finished level
+40:37 yeah and just by doing those few things
+40:40 notice that all of a sudden that footing
+40:43 is aligned now so we're good again right
+40:47 I'm going to shut down this Foundation
+40:48 View and get back to just the main plan
+40:50 View and shut down the project browser
+40:52 and take a look what's going on here
+40:54 this is looking a little bit cleaner the
+40:55 really nice thing about this set up now
+40:57 and and actually I skipped one step I've
+40:59 got some walls here I'm going to choose
+41:01 the wall tool and then shift Marquee
+41:04 across all my walls that makes it so I'm
+41:06 restrictively selecting walls only by
+41:10 using the active tool plus a shift
+41:12 Marquee selection and I'll open this up
+41:15 and I'm going to finally take off those
+41:17 going to uncheck that they're Foundation
+41:18 walls right so they're no longer going
+41:20 to have a footing here so that'll get
+41:23 rid of
+41:25 this uh one of those walls is
+41:27 automatically generated wall I'm not
+41:29 sure why and so all right so this is
+41:33 looking pretty clean so now we've
+41:34 isolated we've got our walkout basement
+41:37 is on level one we're not fighting a
+41:39 bunch of Graphics in terms of footings
+41:41 and everything and how we want to
+41:42 display this in terms of a floor plan
+41:45 and then we've got a floor below that
+41:46 shows our footing level and if we wanted
+41:50 to we can make a custom layer set and
+41:52 reference the floor above where it's
+41:55 just the walls above overlaid on top of
+41:58 this if you'd like to so you've got that
+42:01 option as well could show that but I'm
+42:03 probably going to run out of time kind
+42:05 of the last step of this is that I think
+42:08 yes because we manually Drew these walls
+42:11 and we inserted a floor now all these
+42:14 roofs are at the incorrect height okay
+42:18 and how do we fix that well I needed at
+42:22 the very beginning I copied that
+42:25 distance of the foundation level that 33
+42:28 and2 I want to get into my floor
+42:30 defaults and I want to look at my new
+42:33 first floor and I'm going to see that
+42:35 that floor is this 111 and
+42:38 38 I don't really want to get into
+42:41 exactly why this is but if I just paste
+42:43 from my clipboard that 33 and a half
+42:47 this is the distance I need to raise all
+42:49 my roofs to put them right back where
+42:51 they were
+42:52 before so I just subtracted that
+42:55 Foundation level that I added from the
+42:57 new first floor's floor above level and
+43:01 I can copy this hit cancel come to some
+43:05 view that has those roof
+43:08 planes use the same tool Marquee select
+43:11 select all similar and then I could use
+43:14 the transform replicate object and force
+43:18 this up in the Z Delta by that amount
+43:21 that I just copied and this is going
+43:23 to put those roofs back where they were
+43:26 it's just just build all framing so we
+43:28 could see that
+43:29 deck cool walk out basement mono slab
+43:34 condition and then everything's kind of
+43:36 joined back up the way it should
+43:40 be oh we got some funny little framing
+43:43 thing here uh this is
+43:45 typically this is typically because you
+43:47 got a balloon wall condition where maybe
+43:50 it doesn't need to be or you had some
+43:51 residual framing did you clear out the
+43:53 framing before no this is this is
+43:55 rebuild all framing so okay
+43:58 gotcha we had any questions while I was
+44:00 going it's really nice comments I had a
+44:05 um actually it has to do with Jonathan's
+44:07 uh comment but I had a you know thought
+44:10 just to throw in here um while I agree
+44:12 with you that that particular method
+44:14 solves problems um it's it may not be
+44:18 necessary for all plans it's it's a it's
+44:20 a methodology that that Renee uses
+44:23 because it solves a lot of other
+44:25 problems and then he's just a opted it
+44:27 as a kind of a standard um but uh if
+44:31 you're looking at that like well that
+44:33 goes against everything I've been taught
+44:34 about Chief it's because it's it's it's
+44:37 a unique approach but I could tell you
+44:39 the other side of that which is that if
+44:41 you use the standard everything you've
+44:43 learned about Chief you can run into
+44:46 problems especially where there are
+44:48 walkouts or a house built on a hill
+44:50 where you're going to continue to do
+44:52 things like build a multi-story deck
+44:54 that comes down the hill and things like
+44:56 that so um you know take this as a
+45:00 really great lesson from Renee on how to
+45:03 be able to beat these problems um but
+45:06 know also that that you know the
+45:08 standard the standard methods work for
+45:10 standard things yes do do I have another
+45:13 like six or seven minutes to do this for
+45:16 John yeah we got more people doing stuff
+45:20 no go for it
+45:22 no um when I do a walk out basement I
+45:25 know exactly what he's talking about the
+45:27 auto build Foundation is not going to
+45:28 work for um the next level up so you do
+45:31 have to do some manual uh footings and
+45:34 Foundations um but I will just show just
+45:37 a really quick process for kind of doing
+45:39 a stepped walkout basement foundation
+45:41 and and the other thing uh for Jonathan
+45:43 when he was saying that he's using it
+45:46 all in for level zero there's nothing
+45:49 that we can't depict or display
+45:52 splitting it between floor one and floor
+45:55 zero and we get a lot of benefits from
+45:58 it whereas we're limited once we start
+46:00 building on floor zero in terms of what
+46:03 we can display so I just I see it as a
+46:06 big benefit to build out on floor one um
+46:10 and actually when we did a census of the
+46:12 class of all the power users a couple
+46:13 years ago I don't think there was a
+46:15 single person in the room that didn't do
+46:17 it that way where we're doing our
+46:18 walkouts on floor um floor one but I
+46:22 have a particular wall type that I use
+46:24 and the wall type is a pony wall
+46:27 um and so what's happening with this
+46:31 wall and actually before I even draw I
+46:33 go ahead and add a second floor because
+46:35 that helps me do some alignment things
+46:38 where my first floor might be some kind
+46:41 of a um partially a stem wall that's um
+46:45 being stepped and then I've got a
+46:47 furring wall on top of that and then my
+46:49 second floor is going to be my standard
+46:51 you know 2x4
+46:54 2x6 um and siding so because I want to
+46:57 keep those things aligned right off the
+46:59 bat and have an understanding of that
+47:00 relationship I'll just build my second
+47:02 floor as soon as I start the project
+47:04 where I've got a walk out basement okay
+47:07 and so that just makes a duplicate floor
+47:09 it's the only reason I'm doing it um is
+47:11 just to kind of help myself understand
+47:13 alignment and then I'll draw a pony wall
+47:16 in here on my side walls and get this
+47:20 aligned there we go now I know the
+47:23 exterior surface of this pony wall is
+47:24 already lined up with the floor above if
+47:26 we were to go pull a pull a view here
+47:30 we're going to see that that surface is
+47:32 solid all the way through
+47:35 so I've got my alignment on my custom
+47:38 wall type here and my custom wall type
+47:40 the pony wall
+47:42 is this is a great little trick is the
+47:45 lower half is a 8 inch concrete stem
+47:48 wall half inch of air gap 2x4 furring
+47:52 wall drywall and then the upper wall is
+47:57 my typical exterior wall assembly with
+48:00 that air gap with that same furring wall
+48:02 and they're aligned and they're aligned
+48:05 on the inner surface so and I'll show
+48:08 you why this is kind of important and
+48:09 impactful is I'm just going to draw this
+48:11 through on the one side I'm going to
+48:13 stop the drawing of this at about here
+48:16 um I'm going to actually use my concrete
+48:19 stem wall to draw in past that I'll make
+48:22 sure that this is um aligned on the main
+48:25 layer I'm just going to say that this is
+48:28 all retention over here just crawl space
+48:30 just that's all it's going to be this
+48:33 back half of the building front half of
+48:35 the building is that walk out basement
+48:37 coming up from the
+48:38 upstairs I'll pull a section
+48:43 View and because this is a pony wall I
+48:46 get to just use the brake tool I can pin
+48:48 the brake out a bunch of brakes
+48:51 here come in here and start creating my
+48:54 step system
+48:59 up to that retaining wall right and that
+49:03 retaining wall is automatically adding a
+49:04 footing so I am going to have to come in
+49:06 here and uncheck that it's a foundation
+49:07 wall it was just a quick way of drawing
+49:09 it but there we go that's the side of my
+49:11 building now if we go look at you know
+49:13 kind of a 3D going around here and just
+49:17 hide walls facing the exterior camera
+49:19 and we'll change the rendering view here
+49:21 I can come in here I can say that this
+49:23 is monol slab Foundation if I'd like you
+49:27 know set that level back to um 0o inches
+49:31 floor levels back at zero inches this
+49:33 floral level can be whatever doesn't
+49:35 really matter it's never going to be
+49:36 shown um or you can sit here and kind of
+49:39 fuss with it and get to where it needs
+49:40 to be but the kind of the thing that
+49:43 John's talk talking about here in those
+49:45 comments and let me just copy that
+49:46 stepped Foundation I can copy the Ste
+49:49 Foundation over to the other side right
+49:52 I can copy that stem wall over to the
+49:55 other side so now I have that same setup
+49:57 on the other side need to do some
+49:58 alignment stuff but there we go let me
+50:01 go up a level with autobuild Foundation
+50:04 if we've got a can levered setup here
+50:06 well we've got no footings below this so
+50:09 when we go and look at this in 3D it's
+50:11 not going to autobuild those footings
+50:13 below right so I do have to manually
+50:16 draw in on this level those that support
+50:21 structure but pretty quickly here we're
+50:25 getting you know our walkout scenario we
+50:28 got a deck over the top of it maybe this
+50:30 staircase down to the floor
+50:35 below there you go build out your
+50:42 terrain very
+50:44 good I got a golf clap from Robin you
+50:48 did you did well I was muted we have
+50:50 Bluey going on next to me I didn't want
+50:52 you to have to hear it blue um before we
+50:54 go too far somebody has a birthday
+50:56 tomorrow Happy Birthday Renee hey
+51:00 thanks Rene happy I'm not that smart
+51:04 Facebook reminded me okay yeah nice cool
+51:09 you had it just for a minute Robin just
+51:11 for a minute he felt
+51:13 special I looked at and I said happy
+51:16 birthday so there you go so I got that
+51:18 but happy birthday Renee thank you thank
+51:21 you thank you
+51:23 welome all right yeah my only birthday
+51:25 wish is that it cools down
+51:27 yeah come to Portland it's cool yeah
+51:30 nice it's 66 and rainy shocking rain for
+51:34 so long Norman Norman who lives in New
+51:37 Zealand said happy birthday
+51:39 today so did Margaret happy birthday
+51:43 today you're already that old over
+51:47 there cool uh that's a good
+51:50 demonstration Renee that was really cool
+51:52 Rene showed that last you showed that
+51:54 when John was doing that whole Terra
+51:56 thing you did that and but I got it this
+51:59 time this time I actually understood
+52:00 what you were doing last time I was like
+52:02 I have no clue so very well done nicely
+52:05 done yes Bill stop it don't think he's
+52:09 younger than he is he really is old so
+52:12 don't he just well he's not as old as
+52:14 Robin though he's not as old as Robin no
+52:17 he is not as old as me he's still a baby
+52:20 but he's not
+52:23 20 um yeah as far as those walk out goes
+52:27 uh the walk out plans I do teach it
+52:30 differently I do teach drawing it in the
+52:32 foundation plan but a lot of the same
+52:34 Concepts so uh I I like the foundation
+52:38 plan I draw a lot all everything so but
+52:41 this way you did your slab footing you
+52:43 know the mono footing I like how you did
+52:46 that that was really well done so and
+52:49 again that's just goes to show there's
+52:51 different ways to get the same results
+52:52 in Chief Architect so I was hoping
+52:56 somebody the other day and I was
+52:58 surprised at how many times that I said
+53:00 well there's at least three ways to do
+53:02 this so I'm going to pick this way for
+53:04 you you
+53:06 know and yeah isn't that the but that's
+53:09 really true we all use the program a
+53:10 little differently and and you you have
+53:13 to find what works best for you right
+53:15 and that's the thing is and also be
+53:18 willing to say I don't know how to do
+53:20 that help me out right
+53:23 right what
+53:26 do you want to go potty let's go potty
+53:28 no thanks I'm good Robin sorry I'm we'll
+53:32 wait till the show's
+53:34 over I am so
+53:40 sorry oh man um all right cool so let's
+53:45 see um I didn't get very many plans
+53:48 coming in I had a a question uh Renee
+53:51 I'll ask you this one I think sent this
+53:53 to you earlier I had a client a question
+53:55 on doing
+53:57 curved stairs with glass curved panels
+54:00 oh right yeah I saw that is that a
+54:01 doable thing curved stairs with what
+54:04 curved panels curved glass panels yeah
+54:08 he wanted a curved glass
+54:11 panel I can show it to you on my
+54:13 computer if you want to see it why
+54:14 couldn't you just do that as a wall type
+54:18 um well here let me let me just bring it
+54:20 up on my computer type yeah put it up on
+54:22 the screen let me open up that plan real
+54:26 quick that I was messing with where' it
+54:28 go uh curb stairs
+54:32 okay yes I should still be a show my
+54:41 screen I'll just show you what I've got
+54:43 here oops so you should see my screen
+54:48 right um okay so I've did two ways I did
+54:50 it one where the wall is um under the
+54:53 stair and where the wall is next to the
+54:55 stair
+54:57 all right
+54:58 so when we do this one like this and I'm
+55:02 trying to create panels that this is the
+55:05 one where the wall is under the stairs
+55:07 and I've clicked on the wall let's see
+55:10 how how do I do that one again you click
+55:11 on the wall and you hit
+55:14 um uh
+55:16 under rail style you click stair follows
+55:20 the railing follows the
+55:23 stairs okay you turn that on and of
+55:26 course I made the I made it panels okay
+55:30 so I'm using panels under the rail
+55:32 style and the panels don't curve to
+55:35 match the stair and and I kind of that
+55:37 makes sense because a panel in Chief
+55:39 Architect is much like a symbol much
+55:42 like a toilet okay a toilet's a symbol
+55:44 you can't B you you can't bend a toilet
+55:47 why would you be able to bend a symbol
+55:48 that represents a stair panel okay um so
+55:53 that kind of makes sense to me uh
+55:57 so my question is how do we make it so
+55:59 that we can pend the panels um and then
+56:02 I also I did it the other way
+56:05 too where
+56:07 I um oh yeah I did the pony wall deal
+56:12 and same thing see how that panel
+56:16 doesn't Bend yeah that's a metal panel
+56:20 the railing band's fine because that's
+56:22 following the stairs now this par again
+56:24 this is a pony wall where the top is a
+56:27 railing so again I'll just show people
+56:29 how that works so if you want to do a
+56:31 curved if you want to do any kind of a
+56:33 railing next to a Stairway doesn't have
+56:35 to be curved it can be any anything you
+56:37 just put the wall next to the stair you
+56:40 make the um wall type what you want on
+56:42 the bottom and then you make it a pony
+56:45 wall and use the same wall type on the
+56:48 top or or it can be different too and
+56:50 then you make it a railing specified
+56:52 railing and chief will make the top
+56:54 portion of that wall a railing and it
+56:57 will follow the stairs then if you check
+57:00 the under the
+57:01 railing uh option to follow stairs this
+57:05 is really the key got to follow the
+57:08 stairs and um but when you use panels
+57:12 they don't bend I just curious if you
+57:14 had noticed that before Renee um I know
+57:17 that I mean that is the limitation of
+57:19 the software but if But ultimately you
+57:22 want it to look the way you want it to
+57:24 look so just thinking about the cap AB
+57:26 ilities of the software and what what we
+57:28 can do in terms of bending something let
+57:32 me um um will you find that mill work
+57:35 symbol that is the panel that you're
+57:36 using oh sure let
+57:38 me open that up we're about to ventry
+57:41 into in aland
+57:44 yeah get we'd get those Wheels cranking
+57:47 here um it's called the uh tri-section
+57:51 under iron work and then will you just
+57:54 place that place that in the as a
+57:56 standalone
+58:00 thing let me do that I'm going to have
+58:03 to I do that from here I'm GNA have to
+58:06 go to the library oops to do
+58:16 that all right come
+58:21 on searching for it here it is so there
+58:25 I could just pop it in here like
+58:29 this so there's there's that tri-section
+58:32 so again that was drawn as they C you
+58:35 know 3D how wide is that I didn't quite
+58:37 see uh the section itself is I mean I
+58:40 could make a section that's
+58:42 [Music]
+58:44 shorter and now place a
+58:50 cabinet yeah now it's
+58:54 magic make that cabinet 16 in
+59:01 wide turn that into a bow front
+59:06 cabinet I never figured he'd come to
+59:09 back to cabinets but okay that makes
+59:11 perfect sense so far um so we're gonna
+59:14 go both
+59:15 front Okay make it so no no toe kick no
+59:20 countertop you want to go in does
+59:24 matter so we're g to go no toe kick no
+59:26 back splash no countertop yep
+59:30 no right um we're going to end up making
+59:33 left right and sides disappear so go to
+59:36 the front sides
+59:39 back delete the drawer delete everything
+59:42 but the
+59:43 door delete the
+59:45 [Music]
+59:47 drawer uh make the door instead of Auto
+59:50 right just make it right
+59:56 you do you delete the separations Renee
+59:59 um make the um specify the shelves and
+1:00:03 make sure we're turning that
+1:00:05 off so manual
+1:00:11 zero um go to the left side and say none
+1:00:16 left side of the cab up here go left
+1:00:19 yeah and under side type just say none
+1:00:23 under default where it says use def
+1:00:26 fault at the top oh thank you none all
+1:00:29 the way down at the bottom yep now go to
+1:00:31 the right side make it none go to the
+1:00:33 back side and make it none
+1:00:39 oops and back is none um go to box
+1:00:43 construction panel remove Bott say that
+1:00:46 it's got no top no
+1:00:48 bottom second section there thank you no
+1:00:52 top no bottom and press okay Rene do you
+1:00:56 get rid of the sections the separations
+1:00:59 all we got left is a door now and now
+1:01:01 take your panel convert it to a cabinet
+1:01:05 door the mill work on the right hand the
+1:01:09 mill work the railing
+1:01:12 Dan that uh so use the convert symbol to
+1:01:16 in your edit toolbar this one
+1:01:20 y and convert it to a cabinet
+1:01:24 door now now you can spray it on of
+1:01:28 course
+1:01:29 here and press
+1:01:32 okay wait there we go and now you got
+1:01:36 that curved
+1:01:38 panel course cool and so you could apply
+1:01:42 so now you'd have to convert that to a
+1:01:44 mill
+1:01:45 work but can I reapply it to the
+1:01:50 ra r s it and change it it again Dan to
+1:01:55 mil work the converted again y now you
+1:01:58 have to change it to MW
+1:02:00 work
+1:02:04 and
+1:02:07 okay and I don't know about the rest of
+1:02:09 you but I was looking at that set of STS
+1:02:11 and the first thing I thought of was
+1:02:12 that railing should be a
+1:02:15 cabinet well come on Kevin you think
+1:02:17 that way too because you've been a
+1:02:19 cabinet so there you
+1:02:22 go did backwards I knew we were going to
+1:02:25 do the bow back dang it just means
+1:02:27 rotate it you got to rotate reverse wall
+1:02:30 just reverse the wall oh there you go
+1:02:32 that was
+1:02:34 quick quite get the radius right no but
+1:02:38 get the concept that's pretty cool I
+1:02:40 like that you can do you have the
+1:02:42 ability when you're creating the bow
+1:02:43 front cabinet to set the radius of the
+1:02:45 of the cabinet face yeah you could have
+1:02:47 measured the radius and then set it in
+1:02:50 the creation of the I could yeah I could
+1:02:52 have made that you know minus minus five
+1:02:55 oh there go okay you could do that you
+1:02:57 can make it whatever you want you know
+1:02:59 so so that allows you to change that
+1:03:02 that's cool I like that awesome
+1:03:05 huh all right well that was interesting
+1:03:09 and that just ate up the rest of our
+1:03:10 time today
+1:03:12 yeah that was fun I've never messed with
+1:03:15 it quite like that but you guys know
+1:03:17 that Renee has this amazing kitchen
+1:03:19 package he has an amazing closet package
+1:03:22 he has an amazing fireplace package um
+1:03:25 yes head over to Rabbit design.net and
+1:03:28 check him out because he does this kind
+1:03:30 of stuff um all day long to create
+1:03:34 amazing things that you can use in your
+1:03:35 plan that you just click in and poof
+1:03:37 done I'm glad that worked I haven't
+1:03:40 actually tried that before so that well
+1:03:43 that's how we find out
+1:03:45 right nicely done very all right
+1:03:49 everybody um that was really cool thanks
+1:03:51 Renee uh Happy Birthday again Rene head
+1:03:54 over to uh to this the website check it
+1:03:57 out I see Melissa with h hi remodeling
+1:04:01 just joined us for the summit you go
+1:04:03 Melissa we look forward to seeing you
+1:04:04 there I'm maybe she's on the call I hope
+1:04:08 um and uh we look forward to seeing you
+1:04:11 guys next time next time we're going
+1:04:14 to uh well next time we might talk a
+1:04:17 little bit about some software not sure
+1:04:20 yet we were discussing this yesterday or
+1:04:22 two days ago in our meeting we meet
+1:04:24 every couple weeks about their shows
+1:04:25 that we do trying to figure out topics
+1:04:27 if you guys have topics that you would
+1:04:29 like us to ass by I means drop me an
+1:04:31 email oh someone much earlier said that
+1:04:34 they wanted a screen share to show
+1:04:36 something that they were having a
+1:04:38 problem with but that we can't can't do
+1:04:40 that with this software but we could
+1:04:43 Point them to someplace where they could
+1:04:44 upload the plan right you got a link to
+1:04:46 that yeah if you go to Chief experts
+1:04:48 Academy and go to the designer show link
+1:04:51 um I can bring up that website real
+1:04:54 quick uh
+1:04:57 my screen where's my screen
+1:05:02 go you want your screen up yeah throw my
+1:05:05 show my screen um so next time we do
+1:05:07 this if you have questions just go over
+1:05:09 to uh Chief experts.com
+1:05:12 and I've got a little deal set up here
+1:05:15 under the designer show where you can
+1:05:18 upload a plan you click this button
+1:05:20 submit your plan here there's a quick
+1:05:23 little two-minute video that talks about
+1:05:26 how to make it into a zip file and
+1:05:30 follow that video it's really important
+1:05:32 um uh you give you plus you'll learn how
+1:05:34 to back it up to give it to other people
+1:05:36 tell us your name and address email or
+1:05:38 name and email and what you need help
+1:05:40 with and hit here and it drops it in my
+1:05:42 Dropbox and uh poof we're ready to go so
+1:05:45 it works really slick I don't know if
+1:05:47 you know that in Dropbox you can invite
+1:05:49 people to put things into a folder um
+1:05:52 with there's a setting in there I don't
+1:05:54 remember what it was now but works
+1:05:55 really well so you can do that um a lot
+1:05:59 of my clients use that just to send me
+1:06:00 their plans anyway so it's just a really
+1:06:02 nice little little tool to have if
+1:06:04 they're not using Dropbox so all right
+1:06:08 our time is up you guys thanks again for
+1:06:11 being here and uh I look forward to
+1:06:13 seeing you in a couple weeks have a good
+1:06:16 day guys take care right bye everybody
+1:06:18 bye everybody

@@ -1,0 +1,1960 @@
+Title: Making Your Move To Jobtread Easy With Tom Houghton - Designers Show #139
+URL: https://www.youtube.com/watch?v=-QCq5diivzs
+Visibility: public
+
+0:00 All right, here we are today, everyone.
+0:02 Welcome to our designer show
+0:05 on this Friday, November 15th. Gosh.
+0:09 Here it is. It's almost winter already.
+0:11 It's crazy.
+0:13 Yeah, it is. It is crazy. So, we've got
+0:15 on the call today Tom Houghtlin, who is
+0:17 a
+0:18 We were just talking about how he's a uh
+0:21 a job tread pro, a builder trend pro, a
+0:24 marketing guy, a pro I don't know if
+0:26 you're pro at that stuff, but a techy
+0:28 guy, and we're just asking how many kids
+0:31 you had, and you mentioned uh
+0:33 what?
+0:33 Three kids, yeah.
+0:34 Three kids.
+0:35 Yep.
+0:36 And uh
+0:38 you are a busy guy.
+0:40 Yeah.
+0:41 Yeah, but I'm honored to be here with
+0:43 you all today. So, thanks everybody for
+0:45 tuning in.
+0:46 Uh excited to have a great show with
+0:47 y'all. So.
+0:48 Thank you. Yes, we're thrilled to have
+0:50 you here. So, it's a fun topic. It's one
+0:52 of those areas in in this construction
+0:54 world that I've always had interest in,
+0:56 but I've never really
+0:58 you know, taken the time to follow
+0:59 through into it because we're busy with
+1:02 Chief Architect stuff. So, yeah, that's
+1:04 what it is.
+1:05 Morning, Louis.
+1:07 Pardon?
+1:08 Sorry, I had to say hi to Norman.
+1:10 Oh, hey Norman.
+1:11 Yeah, there.
+1:12 Yeah, you guys Let us Let everybody Let
+1:14 us know where you guys are coming from.
+1:15 So.
+1:16 And Sims, new member. Thank you.
+1:18 Appreciate that.
+1:19 All right. There you go, John.
+1:21 Tom Norman tunes in regularly from New
+1:23 Zealand.
+1:24 Oh, fantastic.
+1:25 Yes.
+1:26 Very good.
+1:27 I uh it's still on the bucket list. I've
+1:29 been to Australia, but we didn't make it
+1:30 to New Zealand. So, we got to go back uh
+1:33 to that area. So.
+1:35 Um
+1:36 Yeah, so hopefully I'll I'll have to be
+1:37 stopping by soon, Norman. And it looks
+1:39 like you will have to talk about fishing
+1:41 as well.
+1:42 In your profile picture.
+1:43 Very cool.
+1:44 Yeah.
+1:45 All right. Um
+1:46 let's get into a little bit here. Um
+1:48 Tom, where do you live? Where are you
+1:50 from?
+1:51 Yeah, so based in Omaha, Nebraska. So, I
+1:53 think just due south of you pretty much
+1:55 uh there, Dan. Um and there's reasons
+1:58 the seasons have started changing here,
+2:00 so it's a little bit cooler outside.
+2:03 Uh the leaves have pretty much all gone
+2:05 off the trees. Still some color around
+2:07 the neighborhood, but uh yeah.
+2:09 Yeah, we're talking snow next week
+2:11 maybe, so we'll see.
+2:12 Yeah.
+2:13 Winter is a coming.
+2:14 Yep, for sure.
+2:16 So, Tom and I are good friends. We've We
+2:18 belong to a group together that the
+2:19 internet coaches not not internet
+2:21 coaches, but construction industry
+2:23 coaches and
+2:24 the thing that we do together uh
+2:27 complement each other. So, uh Tom,
+2:30 thanks for being here again, and
+2:32 uh
+2:33 I got a question for you. So, so what do
+2:35 you call the contractors who's tired of
+2:38 treading water in project management
+2:41 and wants to sail smoothly through their
+2:42 jobs?
+2:45 An opportunity.
+2:48 A job trader.
+2:49 Yeah, I I figured you
+2:51 I figured you might have might have
+2:52 gotten that.
+2:53 How's that for a dumb joke?
+2:54 Yeah.
+2:54 Yeah, you know, John's not here today,
+2:56 so I had to do the dumb joke.
+2:58 That was pretty pathetic though.
+3:02 Anyway, we we like to have fun here. So,
+3:05 so Tom, tell you know, you guys, you
+3:07 know, Renee and and Kevin and Judy. Judy
+3:10 is a uh
+3:11 job trade pro yourself, aren't you Judy?
+3:14 You've had
+3:14 I don't know if I call myself a pro, but
+3:16 okay, but uh I have done some work with
+3:19 it and
+3:20 converted a client from CoConstruct to
+3:23 Job Tread.
+3:24 Cool, very good.
+3:25 So, you had some experience in there,
+3:27 and so I know and you'll be uh talking
+3:29 about some of that stuff at the summit
+3:31 coming up here in March.
+3:33 would you say is the is the main
+3:34 difference between CoConstruct and and
+3:36 Job Tread? Cuz CoConstruct's been around
+3:38 a long time.
+3:39 Uh-huh.
+3:39 CoConstruct? Oh, yeah, go ahead. Go
+3:41 ahead, Judy.
+3:42 You're the ex- I well, just in my
+3:44 experience, Job Tread is so much more
+3:46 intuitive.
+3:47 And it's not nearly as clunky.
+3:50 It's dependable. It works.
+3:53 So
+3:54 It's nice when technology works.
+3:56 So
+3:58 So Tom, what's your journey with
+4:00 JobTread? How did you get to this point?
+4:03 Yeah. Yeah. So Um well gosh, uh how much
+4:07 time do we have here? I
+4:09 I'll give you the short story.
+4:10 Abbreviated version, okay.
+4:11 story here.
+4:13 Um yeah, so I met the JobTread team
+4:15 probably three, maybe four years ago
+4:18 now. I can't really remember. I know it
+4:20 was
+4:21 kind of probably post shortly after
+4:22 post-COVID. Actually, might have I don't
+4:24 know. Anyway, that's not important. The
+4:26 moral of the story is um
+4:29 we I met them um met the team there at a
+4:31 convention.
+4:33 Um I frequently look at new softwares.
+4:35 Um as Dan mentioned, I work with a ton
+4:38 of different softwares and help
+4:39 construction businesses help them
+4:41 implement them, make sure they're
+4:42 getting their full ROI out of the
+4:44 software.
+4:46 Um and so I like to look for new
+4:47 opportunities to just meet new teams,
+4:49 see what else is out there. So I met the
+4:50 team and really was taken away with the
+4:53 product right away just on terms of how
+4:54 quick it is, uh how quickly it loads.
+4:57 It's really snappy, really easy to kind
+5:00 of navigate around. Um and so that was
+5:02 kind of how it started a few years ago.
+5:05 Um and what I was having
+5:07 I was having clients come to me saying,
+5:08 "Hey, we're using Buildertrend. Uh we'd
+5:11 like to move to JobTread. Can you help
+5:12 us with this transition?"
+5:14 And so I got to know the team, got to
+5:16 know the software to help people
+5:18 um transition there. So
+5:20 Cool.
+5:22 So yeah, that's that's kind of how
+5:23 things started and now I've probably
+5:25 helped over 100 companies uh transition
+5:27 softwares, whether that's from
+5:29 Buildertrend to JobTread or CoConstruct
+5:32 to Buildertrend or CoConstruct to
+5:34 JobTread, um what have you. So
+5:38 um I I know, you know, if you've been
+5:40 around in the construction project
+5:41 management space for a while, you'll
+5:43 know that CoConstruct was acquired by
+5:45 Buildertrend um a few years ago. and so
+5:48 that um you know, obviously causes
+5:50 disruption anytime you have somebody
+5:51 absorbing someone else,
+5:53 uh right? Uh it it causes a little bit
+5:56 of a a dis- a disruption in the
+5:58 industry, and so
+5:59 um that's benefited Buildertrend, and
+6:01 that's benefited JobTread, and uh you
+6:03 know, a handful of other softwares as
+6:04 well. So.
+6:05 Yeah, cool.
+6:06 Didn't Didn't I understand though that
+6:08 uh Co-construct is effectively extinct
+6:10 at this point?
+6:11 Correct. Yeah, I mean, there's no more
+6:12 further development planned for it. You
+6:14 can't purchase Co-construct anymore. Um
+6:17 so, you have to purchase Buildertrend.
+6:19 Um and but the Co-construct users are
+6:21 still getting support through
+6:22 Buildertrend.
+6:24 Um and so, they have an option obviously
+6:26 to continue using it for a period of
+6:28 time, uh or you know, of course,
+6:30 Buildertrend would like them to come
+6:31 over to to their platform. Um
+6:33 and so, that's that's caused again that
+6:35 disruption that I was talking about. So.
+6:37 Yeah.
+6:39 Yeah. Yeah. They acquired.
+6:41 So, uh so, what is the
+6:43 What is the history of JobTread? I mean,
+6:46 you met them. How How did this get
+6:48 started?
+6:48 Yeah, so their CEO is Eric Fortenberry.
+6:51 I've gotten to know him and the
+6:52 executive team really well.
+6:54 Um he actually started JobTread out of
+6:57 uh he actually used He created a
+6:59 different software. Uh that software was
+7:01 acquired, much like Co-construct. Um and
+7:03 so, then he started JobTread um out of
+7:06 that kind of acquisition.
+7:09 Um and so, he's very familiar with that
+7:10 process of like growing and starting a
+7:12 software, and and uh continuing to go
+7:14 from there. And JobTread really since
+7:16 its inception has just been on a
+7:18 exponential growth curve.
+7:20 Um so, they just passed 4,000 clients.
+7:23 Um they're probably right now, as of
+7:25 today, probably getting closer to like
+7:26 4,500 clients. Um
+7:29 and just to give you a perspective, uh I
+7:31 think earlier, like 6 months ago, they
+7:33 were at 3,000 clients. So,
+7:35 um I mean, it's really picking up fast
+7:37 in the industry.
+7:39 Um and so, it's exciting to see, you
+7:41 know, anytime there's new kind of like
+7:43 buzzy software like that, everybody
+7:45 wants to know about it. And so, that's
+7:47 why we figured it it'd be good to talk
+7:48 about it here. So.
+7:49 Cool.
+7:50 Cool. Uh and how long has JobTread um
+7:54 Buildertrend been around compared to
+7:56 JobTread?
+7:57 Uh gosh, 16 years now. Uh
+8:01 let's see. Thinking.
+8:03 So, they had a little bit of a head
+8:04 start.
+8:05 Just just a little bit of a head start
+8:06 there. Yeah. I mean, I would say, you
+8:08 know, Buildertrend at this point is
+8:09 probably an industry known name
+8:11 regarding in like the home building, you
+8:14 know, residential model world. Um I
+8:16 think most everybody has known of and
+8:18 heard of Buildertrend.
+8:20 Uh um
+8:20 Yeah. I know at the builder show, they
+8:22 don't shy away from doing a pretty crazy
+8:24 booth.
+8:25 Yes. Yes. Yes. They usually have the
+8:27 biggest booth there. So.
+8:29 I know last show I was at, which was a
+8:31 number of years ago, that was before
+8:32 COVID, actually, they had pulled in a
+8:34 big semi-truck and had a lot of people
+8:36 sitting around it. So.
+8:38 Yeah.
+8:38 Um
+8:39 pretty crazy.
+8:41 Cool. So, Cassidy's committed to it.
+8:43 What Hey, Cassidy, how you doing? Uh
+8:45 we did We need to touch base one of
+8:47 these days. So, um
+8:49 tell us give us a bird's-eye view of
+8:51 what JobTread does.
+8:53 Yeah. So, I mean, JobTread really is
+8:55 meant to help manage your um you know,
+8:58 first and foremost, manage your projects
+9:00 really well. So, those can be like for a
+9:02 new home builder, it could be a new home
+9:04 build. For a remodeler, it can be a
+9:06 remodeling project. Um I've helped pool
+9:08 companies like uh pool builders, uh deck
+9:11 builders, roofers. Pretty much you name
+9:13 it. If you have a project that you need
+9:15 managed, uh you can do that inside
+9:17 JobTread.
+9:19 Um and so, it will track, you know,
+9:20 scheduling, communication, financials. I
+9:23 think I saw Cassidy mention something
+9:25 about the financials there um in her
+9:27 message. So, um really it's a robust
+9:29 platform that kind of um just handles
+9:33 pretty all pretty much all aspect of
+9:34 your project management um to make sure
+9:36 your jobs run smoothly, and efficiently,
+9:39 and profitably.
+9:40 So, one one of the questions I have
+9:42 about these platforms is, you know,
+9:44 the the big push is for everybody to go
+9:46 to QuickBooks Online, okay? And I use
+9:50 that in my business, and it has really
+9:51 not very good job costing functionality.
+9:55 So, is that where JobTread comes into
+9:57 play when you do your financials so that
+9:59 you could do your job costing through
+10:01 that program?
+10:02 Absolutely. Yeah.
+10:04 sync to QuickBooks.
+10:05 Mhm. They do. Yep. And they they
+10:07 JobTread will sync with desktop or
+10:09 online. Um the JobTread team would tell
+10:12 you that they prefer you to use the
+10:13 online sync just because it's newer
+10:15 technology. Um it can
+10:18 do more with that, and QuickBooks has
+10:20 really stopped um
+10:22 updating the old QuickBooks sync
+10:24 connector. Uh so, there's really not any
+10:25 new development happening there. But, to
+10:27 your question there, Dan,
+10:29 the goal is that you could do all of
+10:30 your job costing inside JobTread for
+10:32 your projects,
+10:34 um which would then allow you to not
+10:36 necessarily have to reference QuickBooks
+10:38 as often for job-related things. You
+10:40 could just do it all inside one place.
+10:43 Oh, okay. I guess that makes sense.
+10:45 Cool.
+10:46 Uh
+10:47 so,
+10:48 you know, the JobTread company, how's
+10:50 their growth has been?
+10:52 Sounds like it's going crazy. I mean,
+10:53 how many How big is this company? How
+10:55 many people do we have What are we
+10:56 talking about doing this?
+10:57 Yeah. Um so, I think right now, and
+11:00 you'll have to forgive me. Uh I I mean,
+11:02 it's probably changing by the daily
+11:04 here.
+11:04 Yeah.
+11:05 So, I think right now, they're probably
+11:07 at 30-plus people. Um it's a pretty lean
+11:10 operation. They do a very decent job
+11:13 with
+11:14 um hiring and making sure they hire the
+11:16 right person. They're looking for the
+11:17 right fit versus necessarily being like,
+11:20 "Let's just keep hiring for hiring's
+11:22 sake," you know, cuz they they probably
+11:24 have the resources to do that, but
+11:25 they're being, you know, really
+11:27 intentional and strategic with their
+11:29 hires, um which is great. Um and like I
+11:32 said, I've met pretty much everyone on
+11:34 that team and uh, they know me and I
+11:37 know them pretty well and they're all
+11:38 fantastic people, all dedicated to
+11:40 helping the construction industry just
+11:43 be better, um, which is something that I
+11:45 relate to deeply and I know many of you
+11:47 on this call right now also feel the
+11:50 same way about. Um, you know, there's
+11:52 lots of great people in this industry.
+11:53 We just want to help them
+11:55 do the best that they can do. Uh,
+11:56 Absolutely. Absolutely. So,
+11:59 that's why I think this kind of a
+12:01 product is so important. I I deal with
+12:02 so many contractors all the time that
+12:06 they're still using scratch pads to, you
+12:08 know, manage their business and
+12:11 uh,
+12:12 it's just like, why?
+12:14 Yeah.
+12:14 You got this stuff available now to
+12:16 manage to help you manage your business.
+12:19 So,
+12:20 um, yeah, Adam's got a really good
+12:22 question. What's the biggest advantage
+12:24 versus Buildertrend?
+12:27 Uh, that's a great question, Adam. Adam,
+12:29 can you I don't know if you can respond
+12:30 back if you're still watching this live
+12:31 and I don't know when that message just
+12:33 came in, but
+12:34 It just came in.
+12:35 tell me, Adam, uh,
+12:36 that my answer to this question normally
+12:37 depends on what you do and what you want
+12:40 to do cuz they are different softwares
+12:43 um, and they both have different strong
+12:45 suits and I normally say like, what is
+12:48 it that you want to do with it first cuz
+12:49 that might already segment
+12:51 Uh, Adam is a a fairly large builder.
+12:54 They build some really high-end
+12:56 or spawns.
+12:58 Okay.
+12:58 Almost part. Um,
+13:00 uh,
+13:01 uh, he does other projects too, but that
+13:03 that's one of his uh, um,
+13:05 specialties.
+13:06 Good.
+13:07 And they do a lot of work. So, they have
+13:09 a lot of stuff to keep track of.
+13:10 Yeah.
+13:12 Um, yeah, so I would say the biggest
+13:14 differences between uh, the two
+13:17 softwares are um, probably from let me
+13:19 approach it from a technology standpoint
+13:21 first um, cuz I'm a little bit of a
+13:23 nerd. So, I'm going to start there. Um,
+13:26 so and Dan and I were talking about this
+13:28 actually yesterday about in regards to
+13:29 Chief um as well. So Buildertrend is a
+13:33 closed API system and Job Tread is an
+13:36 open API system. And what that means in
+13:38 layman's speak is one wants to connect
+13:41 to the outside world and everything else
+13:43 and the other one wants to keep
+13:44 everything inside the little castle
+13:46 moat, if you will.
+13:47 Yeah, it's like Chief Architect. They're
+13:50 as long as as long as they do it
+13:52 in-house, it's okay.
+13:53 Yeah, exactly.
+13:55 Um and there are pros and cons to both
+13:57 of those models. Um
+13:59 and so ultimately it just depends, you
+14:01 know, I would say if you already have
+14:03 existing software Adam that you're
+14:05 trying to connect to,
+14:07 Job Tread might have a leg up there
+14:08 because they might already if they don't
+14:11 have one, it's an open API so you could
+14:13 basically create your own connection if
+14:16 you will.
+14:17 Buildertrend on the other side though
+14:19 will have, you know, they've already
+14:21 integrated with major CRMs out there and
+14:23 some other bigger players. Um so those
+14:25 are going to be more of like your
+14:26 established connections. Um but there
+14:29 won't be as many options just because
+14:31 it's a closed API. They've got to go
+14:33 through specific process.
+14:35 Um
+14:35 so there you go.
+14:36 That's what you get.
+14:37 Can I chime in here?
+14:39 Yeah, please do.
+14:39 I I don't want to steal any of your
+14:41 thunder, Tom, but
+14:42 You're good.
+14:43 Um I just want to share from my
+14:45 experience because Kevin and I had a
+14:47 design-build company and my background
+14:50 is IT. I worked in IT for 21 years
+14:54 um before we switched to our
+14:56 design-build company.
+14:58 But some of the differences that I saw
+15:00 was that Job Tread is so much easier to
+15:02 use than Buildertrend. Buildertrend is
+15:05 very complex. It's for larger-size
+15:08 company with lots of employees.
+15:11 It's more expensive. So Job Tread is a
+15:15 little more uh friendly in terms of
+15:18 cost, especially for a smaller or maybe
+15:21 even mid-size company. So,
+15:25 I don't know if you would agree with
+15:26 that, Tom. Feel free to
+15:27 Yeah.
+15:28 No, no. I definitely, uh you know, like
+15:31 I said, both programs have their
+15:32 advantages.
+15:33 Um I think this what Cassie Dan what you
+15:35 just pulled up on the screen there with
+15:37 Cassie just said, I hear this all the
+15:39 time. I hear this a lot from CoConstruct
+15:41 users as well.
+15:43 Cuz CoConstruct was very much heavy into
+15:45 this. Um Buildertrend does have like a
+15:47 product forum where people can go and
+15:49 then kind of give feedback, just like
+15:51 Job Tread does. Um the difference is one
+15:54 of these companies, Buildertrend in this
+15:56 case, is ginormous. And so that means
+15:58 making changes takes time. And that's
+16:00 just how it works, right? When you get
+16:02 to that size. We're actually seeing that
+16:04 process with Job Tread because they're
+16:06 continuing to grow and scale. As they
+16:09 continue to do this, it's just harder to
+16:10 make changes faster because it impacts
+16:14 so many more people. Um so I love
+16:16 Cassie's comment. I completely agree. I
+16:18 love how responsive they are. I mean,
+16:20 I've I've had experiences too where
+16:22 something's happened or something wasn't
+16:24 working, maybe not wasn't working, but
+16:25 something would be like, "Hey, it'd be
+16:26 great if this could happen." And then
+16:29 next thing you know, they're like the
+16:30 next day, "Hey, we just updated that
+16:32 overnight and uh you know, we fixed that
+16:35 and we've added this in here." Um so
+16:38 it's uh it's it's pretty crazy. And yes,
+16:40 they did just launch a new feature
+16:42 yesterday for receipt capture um inside
+16:44 the program. Um and they're usually this
+16:46 is one of their strong points, too.
+16:48 Anytime there's something new, they do a
+16:50 great job of education behind it. Um
+16:53 Anna Hunter over there is in charge of
+16:55 kind of all the uh education of the
+16:57 program, and she is just fantastic uh
+17:00 and does a fantastic job explaining,
+17:02 making sure it's understandable and
+17:04 clear, um that everyone understands the
+17:06 new updates. So.
+17:08 Cool.
+17:08 Cool. Neat product. Uh let's just jump
+17:11 to the pricing right away. What are the
+17:12 difference in pricing cuz you didn't
+17:14 mention that.
+17:15 Yeah, yeah. Uh so Job Tread off at 199
+17:19 uh per month and then charges per user.
+17:22 Um so, it's a user-based pricing model.
+17:24 And so, if you have a small team, kind
+17:25 of like what Judy was saying, you have a
+17:27 small team, your cost probably won't be
+17:29 that much.
+17:30 Um so, Adam here is bringing up What is
+17:32 this? Buildertrend called me once a
+17:33 week. Okay, yeah. So, Buildertrend does
+17:36 have an onsite consulting program uh to
+17:38 help you get going. And I'm sure that's
+17:40 probably what Adam was maybe responding
+17:42 to there.
+17:43 Possibly, yeah.
+17:44 Yeah. So, um just a side note, Adam,
+17:47 that's kind of what I do for my business
+17:50 is actually is I go and consult with
+17:52 with folks um to help them get, you
+17:54 know, these programs implemented. So,
+17:56 Yeah, so.
+17:58 Um so, there's someone from Jobred that
+18:00 helped Cassidy to get uh transitioned.
+18:03 Yep.
+18:03 So, so apparently they offer that
+18:04 service in their business. And yeah, I
+18:06 know you we've talked many times with
+18:08 you about, you know, cuz you used to not
+18:10 have a life at home because you were on
+18:12 the road all the time.
+18:13 Correct.
+18:13 Um and you So, now you've transitioned
+18:16 into doing a lot less in person and more
+18:19 online.
+18:20 And how is that working for you? Is that
+18:23 Yeah.
+18:23 beneficial for everybody?
+18:25 It is. It is beneficial for everyone um
+18:27 because So, what's great about being in
+18:29 person, of course, is that uh you can
+18:31 have that camaraderie of like sitting
+18:33 down next to somebody and working
+18:34 through something, and that's great. Um
+18:36 nothing replaces that in-person
+18:38 experience, and that's also why like
+18:40 Dan, you've got your Total Immersion
+18:41 Summit coming up, which is super
+18:43 exciting, like getting everybody
+18:44 together. There's nothing quite like
+18:46 that, right?
+18:47 Right.
+18:47 Um the thing that we gain with Zoom is
+18:49 we're we can gain efficiency. So, all of
+18:51 us we're probably doing other things,
+18:53 and then we can hop on a call like this
+18:55 where it's a video call, uh and we can
+18:57 take care of business and then go back
+18:59 to our normal day-to-day stuff. So, um
+19:02 virtually has been great for me. A lot
+19:04 of my client feedback has been fantastic
+19:05 just cuz um you know, one of the things
+19:07 that I do is I help make sure they get
+19:09 in the system as quickly as possible.
+19:11 Cuz as you know, even with programs like
+19:13 Chief, there's a lot to learn
+19:15 and there's a lot to discover. And if
+19:18 you can have somebody kind of guide you
+19:19 through that, that experience is
+19:21 normally a much more
+19:24 it's a better experience overall.
+19:25 Yeah, it is. It is. Yeah, and
+19:27 yeah.
+19:29 It puts bread on our tables, so
+19:30 Yeah, that's true.
+19:32 You know, it's what we do. We like
+19:33 helping people and teaching them how to
+19:35 get up faster and get running and be
+19:36 more efficient with the softwares that
+19:38 we're talking about.
+19:39 Exactly.
+19:39 So,
+19:41 so what do you think the growth
+19:42 potential is in JobTread in the
+19:43 industry? You see unlimited, probably?
+19:46 Yeah, yeah. I mean, so
+19:49 we've obviously mentioned Buildertrend.
+19:51 They're definitely number one in the
+19:52 space
+19:53 and they definitely have the most user
+19:55 base.
+19:56 When they bought CoConstruct,
+19:57 CoConstruct was the second
+19:59 had the second most users. And so,
+20:02 you know, effectively number one and
+20:03 number two got married and then that
+20:05 left a huge gap between now what's
+20:07 number one and then number three. And
+20:10 JobTread really is kind of like snuck up
+20:12 in here into the second place right now.
+20:15 Well, the advantage is that they became
+20:17 second place immediately.
+20:18 Correct. Yeah, exactly. Yeah, by
+20:20 default, right?
+20:23 They've worked hard to earn it,
+20:24 honestly. I mean, I mean, the program is
+20:26 really well done.
+20:27 Like I said, super speedy. And Dan, to
+20:30 your question there about growth curve,
+20:32 you know, I would say if they continue
+20:34 on the pace,
+20:35 next year I would say they will be, you
+20:37 know, firmly seated in the the number
+20:40 two spot. And you know, give it a couple
+20:42 years, probably, but we're talking about
+20:44 maybe two, I don't know, two on the
+20:46 short end, three on the long end of of
+20:49 we could be looking like a big rivalry
+20:51 here between the two, so.
+20:52 That's good.
+20:53 Yeah, it's good it's good for all of us
+20:55 because we all benefit from this as end
+20:58 users of the products, right?
+21:00 So.
+21:01 Yeah, I mean, it's not like Chief
+21:02 Architect doesn't have any competition.
+21:04 Right.
+21:04 How many CAD programs that out there?
+21:07 Yeah, exactly.
+21:07 But there's not that many that can do
+21:09 what she does, so that's one of the
+21:10 advantages in our marketplace. But I'm
+21:13 we talked a little bit about you showing
+21:15 the program to everybody.
+21:17 Yeah.
+21:18 Shall we jump into that a little bit and
+21:19 you could
+21:20 you know just kind of give us a tour
+21:23 Sure thing.
+21:23 it looks like and and what it can do.
+21:27 Yeah, okay. So I'm actually in here in
+21:29 Job Tread on a job that I created here
+21:33 for my good friend Dan.
+21:35 You haven't shown up yet. Come on, get
+21:36 over here.
+21:37 I've got lots to do.
+21:39 Yeah.
+21:39 Um so if I go here to my job dashboard
+21:43 here, um this is inside the program and
+21:46 uh you'll have to forgive me. I kind of
+21:47 tried to increase the screen size here
+21:50 so that way everybody could kind of see
+21:51 this. Let me just do a quick check. Is
+21:52 everybody seeing that okay?
+21:53 That looks great.
+21:54 Okay, size-wise we're good.
+21:56 Yep, okay.
+21:57 Okay. So um on a job dashboard you'll
+21:59 see kind of starting off, you know,
+22:01 right now everything kind of looks empty
+22:02 because
+22:03 uh well, we don't we've just started
+22:04 with this project here,
+22:06 but
+22:06 Yeah.
+22:07 this is where you'll come and see like a
+22:08 quick financial summary of your job.
+22:11 We've got some custom fields that we've
+22:12 created over here.
+22:13 all the jobs or just the one job?
+22:15 That's just this job, yeah. Just this
+22:17 job specifically. Great question there,
+22:19 Dan.
+22:20 But if you have a bunch of jobs, you'll
+22:21 get an overall view of everything.
+22:24 Correct. Yeah, so I can go back to my
+22:26 jobs list and kind of see over here you
+22:28 can kind of see on the side as I scroll
+22:29 over. I can see a sum, average, and min
+22:32 and max of things that are uh approved
+22:35 or uh in process. One of my other
+22:38 favorite things to kind of show off here
+22:40 is they have this uh Kanban view for
+22:42 their jobs. Um and so this here I can
+22:45 kind of track like so here's a new lead
+22:47 that came in and uh you know, I can move
+22:49 this over to the appointment set.
+22:51 Kanban or Kanban?
+22:53 I've always called it Kanban, but
+22:55 same difference.
+22:56 Yeah.
+22:57 It's tomato, tomato. It's the way you
+22:58 view them.
+22:59 know. Should we take a quick poll from
+23:00 the audience? Uh is should it be Kanban
+23:03 or What What were you saying there, Dan?
+23:05 I call it Kanban.
+23:07 Yeah, see it's like a It's I feel like
+23:09 it's a almost like a Midwest accent type
+23:11 thing.
+23:14 Um yeah. So, uh
+23:17 we So, you can go through and you can
+23:19 You kind of keep track of your jobs in
+23:21 here
+23:22 um
+23:22 on at a glance kind of moving the
+23:24 project along. This goes back to like
+23:25 that good project management tool of
+23:27 being able to you know, whatever stage
+23:29 they're at, I can come in. Um I
+23:31 mentioned, you know, the speed of the
+23:33 program. So, if I start typing in Dan's
+23:36 name here to search for his job, you'll
+23:38 notice it's really quick. If I click
+23:39 into here, boom, it's already open. I
+23:42 can click around. Um it just loads
+23:45 really, really, really fast and
+23:47 same on mobile as it is in on your
+23:49 computer, pretty much?
+23:50 Yep, exactly.
+23:51 the same or is it a lot different on
+23:53 mobile?
+23:53 Yeah, on mobile it just scales down, so
+23:55 it's a responsive web app. Um and so, it
+23:58 just scales down to fit the screen.
+24:00 Um and so, it works really well on the
+24:02 go.
+24:03 Yeah.
+24:04 Um so, I just pulled in here into this
+24:07 budget section. Um so, you know,
+24:10 typically thinking about most people's
+24:11 process, right? A new lead would come
+24:13 in, you'd figure out if you're going to
+24:14 work together, and of course, the
+24:15 question that is on everybody's mind is
+24:16 how much is it going to cost, right?
+24:19 Uh and so, we need to do a quick
+24:20 estimate here. So, Job Tread's got some
+24:22 great tools to bring in things that you
+24:24 can already build out. Um so, here I can
+24:27 see like I've got a plan and permit
+24:29 section
+24:30 uh with uh two lines here to kind of
+24:32 track costs. I could add some
+24:33 description to the homeowner like um
+24:36 we'll need to ask the city for permits.
+24:40 I guess I'll move that to the next line
+24:41 item down here. That would make more
+24:42 sense to have it on that line item.
+24:44 Um It's a It's a live demo. Here we go.
+24:47 We're going to do it together. So,
+24:49 um
+24:49 you know, here you could go in and you
+24:51 could give some additional clarity, you
+24:53 know, here cuz you'll notice I just
+24:54 mentioned in the description field. Um
+24:56 you know, some people like to go and
+24:58 give umpth degree and some people like
+25:00 to give a much higher level of degree
+25:02 uh of detail and so
+25:04 you can do that here at the program and
+25:06 kind of decide what you want to show um
+25:09 and hide. But what's great about this
+25:10 sheet is this works pretty much just
+25:12 like an Excel spreadsheet. Um, so like
+25:14 for example, under these quantities uh
+25:17 like if I just type in like one and then
+25:19 hit enter on my keyboard, it just takes
+25:20 me down to the next one here and so I
+25:23 can just come in and quickly type in my
+25:25 quantities. I'm using my arrow keys on
+25:27 my keyboard to switch over and so I can
+25:30 add in cost here
+25:32 um accordingly.
+25:33 So, I'm sure everybody's thinking is
+25:34 there a built-in database of costs that
+25:37 can work in this program?
+25:39 Yep. So, in here we've got the catalog
+25:41 and so the catalog can have all sorts of
+25:44 different things with line items that
+25:45 are already set with pricing um and so
+25:47 you can call those into a new job very
+25:49 easily.
+25:50 people set up or is it come set up?
+25:52 Nope. It's you have to set it up. Yep.
+25:55 Yeah.
+25:56 So, um
+25:58 Cassidy's got a great comment there.
+26:00 Yeah, if you love Excel, you will love
+26:02 this. Um,
+26:03 so
+26:04 um so that's future. So, not if you
+26:07 Okay, there you go. So, some Yeah, this
+26:09 is probably a great point Cassidy of
+26:11 like this is a love-hate thing, right?
+26:13 Some people eat this stuff up for
+26:14 breakfast and some people are like,
+26:15 "I'll stick with my donut, you know, I'm
+26:17 good over here." So,
+26:19 um
+26:20 yeah. So,
+26:21 uh
+26:22 analogy.
+26:22 Um
+26:25 Cool.
+26:26 Yeah. Hey, this is this is a this is a
+26:28 weeds type of question, but it's the
+26:30 kind of thing that gets me because I
+26:31 work on a MacBook on a
+26:34 you know, effectively a small screen
+26:36 uh and I always need to continue to see
+26:38 the name of things no matter which
+26:40 column I'm in. So, does it have the
+26:41 ability like Excel does to keep you
+26:44 locked into that allow me to see the
+26:46 kitchen the name field and and let me
+26:49 add the quantities in the quantity.
+26:52 So, locking So, the best thing I can do
+26:54 for you, Kevin, really quick there is I
+26:55 could go into full screen mode here.
+26:57 Mhm.
+26:58 And that so I can adjust that so I got
+27:00 rid of all the other elements in the
+27:03 kind of user interface so I could just
+27:05 focus on the numbers here.
+27:06 How'd you do that?
+27:07 You'll notice if I scroll over now and
+27:09 I'm in full screen, it's got that first
+27:11 column locked.
+27:12 Yeah, that's what I like.
+27:13 Um and so that way I can kind of see
+27:15 that um a little bit better there.
+27:17 Yeah.
+27:18 Yeah.
+27:18 How'd you get into that? Oh, yeah,
+27:19 there's exit full screen up there at the
+27:21 top now.
+27:22 Yep.
+27:23 And then to get back in it
+27:24 uh this is again kind of what we were
+27:26 talking about the responsiveness of the
+27:27 app.
+27:28 You know, obviously it's built to be
+27:29 used on a desktop, but it can scale down
+27:31 to really any size screen and most
+27:33 elements that get scaled down just end
+27:35 up in these three dots. So, if I click
+27:37 on these three dots, I kind of get
+27:38 another sub menu here, if you will, of
+27:41 extra things I can do
+27:43 Right.
+27:43 um for this. So,
+27:46 Seems very intuitive.
+27:47 Yeah, it's it's great. One of my
+27:49 favorite features and I figured this
+27:51 would be kind of like design
+27:53 um you know, important for designers out
+27:55 there who are maybe managing selections.
+27:57 One of my favorite features of Jobber is
+27:59 you can actually do what I call inline
+28:01 selections. So, if I were to uh and I'll
+28:04 just go ahead and do this really quick.
+28:05 I'm going to just generate a proposal
+28:07 from what we've created so far just to
+28:09 show you what this looks like.
+28:11 Um so, we've got this listed here and
+28:13 you know, some people maybe not don't
+28:15 want to show quantity and unit price and
+28:17 so I can just hide those really quickly.
+28:19 Um but I've got this structured really
+28:21 nicely, really cleanly for the the
+28:24 customer to kind of read through. Well,
+28:26 one of the things we can do to kind of
+28:27 take this to the next level is actually
+28:30 put in selections into this document.
+28:33 Um and so, if we need to have them like,
+28:35 let's say, select a lighting fixture for
+28:37 their project, uh we can put that in
+28:39 here. So, let me just show you that
+28:41 really quick. Um and by the way, if
+28:43 anybody watching has any other questions
+28:45 about something they'd like to see or
+28:47 anything like that, obviously don't
+28:48 hesitate to to reach out and ask, but
+28:51 have a question as long as you're
+28:52 you're in the estimate there. Can you
+28:54 add text to go along with those main
+28:56 items that would you could print a
+28:58 proposal out as? Like install dishwasher
+29:02 and then add a bunch of, you know, a
+29:04 paragraph of how you install it and what
+29:06 parts are needed and what's not
+29:07 happening.
+29:08 Yep, absolutely. So that would just go
+29:10 in this description section here.
+29:12 And then you could print out a proposal
+29:14 with that information on it as well.
+29:16 Yeah, absolutely.
+29:17 Very cool.
+29:18 Jobber is going to want you to keep it
+29:19 all digital, of course, but there is a
+29:21 print option as well.
+29:22 Right.
+29:23 So
+29:24 So when you're doing that and you're
+29:26 adding that information, is it adding it
+29:28 across all
+29:30 all jobs or is it adding it only for
+29:31 that job? That description field.
+29:34 The description field is just for this
+29:35 job, but if you've come up with the
+29:37 piece de resistance, Kevin, you could
+29:39 send that to the catalog
+29:42 on on a one-off basis. So if you're
+29:44 like, I need to save this for every job
+29:46 going forward cuz I've I've nailed it
+29:48 finally. I've been trying so many times
+29:49 and you you finally got it right, you
+29:51 can send that to the catalog. So
+29:53 So now that you've already been
+29:54 interrupted, I've got another question
+29:56 for you.
+29:56 You're good, go for it.
+29:57 Okay. So that is that you know, clearly
+30:00 this is a cool tool and and certainly is
+30:03 is worth every cent to certain people.
+30:06 But
+30:07 what Judy and I found was it depends on
+30:09 the size of your company and the number
+30:10 of projects that you're doing where
+30:11 something becomes a reasonable expense
+30:14 or an unreasonable expense. Where's the
+30:16 breakpoint for the smaller company
+30:18 that's doing, you know, five to 10 jobs
+30:20 versus the garage door company that's
+30:22 doing 300 to 500 jobs?
+30:24 Yeah. Are you asking more specifically
+30:27 in terms of like spending the monthly
+30:29 expense on the software?
+30:30 Well, I'm saying that there's a learning
+30:32 curve, there's an effort to come up to
+30:34 speed, there's an integration, there's
+30:35 all those things. Well, you know, you
+30:37 can you can do that pretty quickly with
+30:38 as Dan said, pieces of scratch papers
+30:41 and a big chief tablet and some crayons.
+30:43 So,
+30:44 um so, at what point is it a reasonable
+30:49 expense to jump into a tool like this if
+30:51 you really are more of a boutique
+30:52 company interior designer,
+30:55 um you know, an individual uh uh uh
+30:58 what's the word I'm looking for?
+30:59 Freelancer, things like that.
+31:01 Yep. Um I would say honestly at the
+31:04 price point that it's at, it really
+31:07 could be and should be used by anyone.
+31:09 Um
+31:11 you know, when I'm calculating ROI for
+31:12 clients, um
+31:14 to your point, Kevin, like there is uh
+31:17 you know, time and effort involved in
+31:18 getting it set up. That's where um I I
+31:21 love the um
+31:23 Oh, I just I just heard this great line
+31:26 um the other day. Hang on. I got to nail
+31:28 this, so I got to I got to Let's see. I
+31:30 have it written down. Yeah, the who, not
+31:33 how. So,
+31:34 uh so, who not how. So, it's like
+31:36 obviously this has to be set up. Um and
+31:38 so, we're going to say who's going to
+31:40 set that up, not tell me how to set this
+31:42 up because if I can leverage somebody
+31:45 else and pay them to set this up for me,
+31:47 then I can keep running my business as
+31:49 normal. And yes, that's going to cost me
+31:51 something in the immediate future, but
+31:53 in the long term, you're going to pay,
+31:56 you know, dividend off dividend off
+31:57 dividend off of that.
+31:58 Right.
+31:59 Um just because of being able to get up
+32:01 and running so much faster in the
+32:03 system. So,
+32:05 um I guess maybe I I hope I hope you
+32:07 feel like I answered my question. I
+32:09 guess I would say from the user base
+32:10 that I know of JobTread,
+32:12 they're definitely that like mom-and-pop
+32:15 shop that are using this where there's,
+32:17 you know, two people in the account all
+32:18 day long, and there's also on the
+32:20 complete opposite end of this, you know,
+32:22 companies with, you know, 50, 100-plus
+32:25 employees that are doing like instead of
+32:28 doing one job a month, they're doing one
+32:30 job every hour kind of a thing.
+32:33 Um and so, that's what's amazing about
+32:35 the software that they've created here
+32:36 is it scales really, really well.
+32:39 Um and that's obviously hopefully the
+32:40 point, too, is if you want to grow your
+32:42 business, this is a great tool to do
+32:44 that.
+32:45 I agree with
+32:46 I agree with Tom.
+32:48 Oh, thank you.
+32:48 with Tom. It works great for it would
+32:50 work great for a two-person company that
+32:53 did five jobs a year, you know,
+32:55 especially when you're thinking about
+32:57 the job costing. I mean, it the job
+32:59 costing Jobber Trade has is is amazing.
+33:03 And that's where you're going to put
+33:04 your proposal and your estimate in to
+33:06 begin with, and that's what you're going
+33:08 to job cost against. So, it's all right
+33:10 there. There's no no double entering. I
+33:13 know Adam mentioned that in his
+33:15 comments. They do that with
+33:17 Buildertrend. Um
+33:20 Jobber Trade will feed those to
+33:23 QuickBooks, and QuickBooks will tell
+33:25 Jobber Trade when the invoices have been
+33:27 paid. Um but Jobber Trade's got it all.
+33:32 They got POs and all that good stuff in
+33:34 there?
+33:35 Say again?
+33:36 Purchase orders, they can do purchase
+33:37 orders, no problem?
+33:38 Yes. Yes.
+33:39 Nice.
+33:39 Yeah. Yeah.
+33:40 So, on the other side of that, okay,
+33:42 Jobber Trade has that capability, isn't
+33:44 that wonderful for Jobber Trade? What
+33:46 about um Buildertrend? Do they scale
+33:49 down to the level where they have an
+33:50 advantage or disadvantage once it gets
+33:52 down to a boutique-size company?
+33:54 Yeah. Um I would say the real ROI in
+33:57 Buildertrend is if you can use the
+33:59 entire platform um because it is such a
+34:02 really wide tool. Uh it has lots of
+34:05 features in it. Um and so that that's
+34:08 kind of also why I was trying to ask
+34:09 Adam the question at the beginning to
+34:10 get an idea of like, you know, how how
+34:12 much is he building, what does he build,
+34:14 right? Um cuz your point, Kevin, there,
+34:17 yeah, if you're doing one job a year, I
+34:19 don't think Buildertrend's the software
+34:20 for you um because you're going to be
+34:23 paying so much to run the software for
+34:25 that I mean, the job's probably going to
+34:27 run great, but it's it's just going to
+34:29 be the cost is going to get in the way
+34:31 of that, um I think.
+34:32 Well, and I'm I'm leading you down this
+34:34 path because
+34:36 because I think that a lot of our
+34:38 viewers tend to be smaller companies,
+34:40 more boutique oriented, not large
+34:42 companies. And and given the nature of
+34:44 construction in general,
+34:46 you know, you may not have
+34:48 500 jobs a year. It may be more like
+34:50 five jobs a year. If you're doing
+34:52 interior design or architectural design,
+34:54 maybe 100, 200.
+34:56 So, at some point I would think that the
+34:59 cost of a
+35:00 mega tool like Buildertrend would be
+35:02 prohibitive as as it scales down.
+35:05 Yep.
+35:06 Agreed.
+35:07 Yeah, you're definitely on the right
+35:09 track there. I mean, their their target
+35:12 markets are probably slightly different
+35:14 just because of price point alone. But I
+35:17 think there's also something that
+35:18 JobTread sees really anybody in the
+35:21 construction industry, whether you're
+35:22 big or small, as an opportunity to help
+35:25 them run their business more
+35:26 efficiently. So,
+35:29 So, yeah.
+35:30 you're What I normally tell my clients
+35:32 is if they're switching from JobTread or
+35:34 switching from Buildertrend to JobTread,
+35:36 you'll not only probably save money, but
+35:39 if you use somebody like myself to help
+35:40 you implement it, you're going to
+35:43 you know, again, the ROI is going to pay
+35:44 for itself in like two months, really.
+35:47 Yeah.
+35:48 So.
+35:48 One of the things that Adam said was
+35:50 that as an owner, he's hands-off. You
+35:52 know, essentially he writes the check.
+35:55 And and the check that, you know, that
+35:56 that he specifically noted is $1,000 a
+35:58 month, but
+36:00 what my experience has been,
+36:02 both you know, Judy talked about coming
+36:04 from the IT world and and you know, our
+36:06 experience as a design-build company is
+36:08 that that $1,000, that's that's that's
+36:12 just the down payment. You've got to
+36:14 you've got to also pay for the monthly
+36:16 cost of the people who are either being
+36:19 trained or have to learn how to use it
+36:20 or you or have to continue to learn and
+36:23 all of those things. So, the more
+36:24 complex the tool is, the higher that
+36:26 expense is imposed on you.
+36:28 Yeah.
+36:30 Yeah. Uh I mean, yeah, to this point
+36:32 here, obviously, with a team doing
+36:34 double entry, you're you're uh paying
+36:36 more for that uh than just the $1,000 a
+36:39 month. Um
+36:41 So, I I think that means
+36:44 uh
+36:45 yeah, there's there's probably potential
+36:46 savings and just more efficiency. Um Dan
+36:49 probably knows this as well. I'm a big
+36:52 fan of running things more efficiently
+36:53 whenever possible. Um and so, if there's
+36:56 a way that I can free up a team member
+36:58 and use technology to help them do that
+37:00 more efficiently and allow them to do
+37:02 what, you know, their their God-given
+37:04 talent to do, you know, more frequently,
+37:07 then that's going to obviously just be
+37:08 more ROI for the company.
+37:10 Right.
+37:11 Yeah.
+37:12 Yeah.
+37:13 Um I was going to show you really quick
+37:15 on this document. I I was kind of
+37:16 building it out while we were talking
+37:17 there. Uh I mentioned that we could kind
+37:19 of do this inline selection model with
+37:22 lighting here. So, you'll remember back
+37:24 to this kind of document that I created.
+37:26 I think we got rid of the uh quantity
+37:28 and units initially.
+37:29 Um if I come down here, and sorry for
+37:31 the quick scrolling, just trying to save
+37:33 us some time, you'll notice down here at
+37:35 the bottom I have this lighting
+37:36 selection inline with the document. So,
+37:39 when you present this to the homeowner,
+37:40 you can say, "Oh, hey, you know, this
+37:42 lighting fixture that you picked out or
+37:44 that we picked out together is going to
+37:45 cost this much." Or hey, we found this
+37:47 other really cool option, and it's this
+37:49 much more to do this. So, um these can
+37:52 be preselected. So, like if I see right
+37:55 here, I can preselect this, so that way
+37:57 the homeowner sees, "Oh, it's only $714
+38:00 more to get this cool light here um that
+38:04 I have uh picked out." And so, they can
+38:06 select that, and that ultimately affects
+38:08 their total uh down at the bottom. Um
+38:11 I love that.
+38:12 Yeah.
+38:13 Um so, really cool feature. Um I think
+38:16 it shows really well, and you know,
+38:18 there's been many, many case studies
+38:20 that I've been a part of and aware of um
+38:22 that will tell you when you're giving
+38:23 your homeowners and your clients choices
+38:26 like this, they will typically
+38:29 to the tune of like greater than 50%
+38:31 choose the more expensive option.
+38:34 And this is again something I tell all
+38:35 my clients is is cuz ultimately we're
+38:37 giving the illusion of control is what I
+38:39 call this. And so you've ultimately
+38:43 picked out these options, you've picked
+38:44 out the prices, you as the owner know
+38:47 what the cost is involved in either of
+38:48 these. And so that way I know it's like
+38:50 a safe option for me to present these to
+38:53 the homeowner. Now of course the
+38:54 homeowner could go crazy and be like, I
+38:55 don't like either of these two. I want a
+38:56 third option or whatever, right? And so
+38:59 that that obviously need to have checks
+39:00 and balances to keep that under control.
+39:03 But the moral of the story here is that
+39:04 you can traditionally and again case
+39:07 studies would prove this, you're going
+39:08 to have a higher percentage job selling
+39:11 cost
+39:12 when you offer things like this cuz a
+39:14 homeowner feels safer choosing like a
+39:17 more expensive option because the cost
+39:18 is laid out clearly for them on that.
+39:21 So.
+39:22 Cool.
+39:22 Yeah.
+39:23 All right. So
+39:24 um
+39:26 show us a couple more features in here
+39:28 Tom. I mean we've only got a few minutes
+39:29 so obviously we can't go through
+39:31 everything.
+39:31 Sure, sure, sure. Yeah.
+39:33 Gosh, I mean you know they do daily logs
+39:36 really well. There's a quick action up
+39:37 here for daily logs so I can just click
+39:39 on a new daily log.
+39:41 This would be if you want to keep track
+39:42 of your project. So I can do some quick
+39:44 notes.
+39:45 I normally teach my clients to do some
+39:47 custom fields in here so I can track a
+39:49 conversation with the homeowner in here.
+39:51 I can let them know who was on site
+39:54 that day and then I can come back up
+39:56 here and you know kind of give a quick
+39:59 recap of what happened
+40:03 on the job site today.
+40:04 Yeah, so you got a journal here of
+40:06 everything that's going on in the job as
+40:07 long as everybody keeps inputting stuff
+40:09 properly. Now can this can you do all
+40:11 your emails through here, all your other
+40:13 correspondence
+40:14 Yeah, so
+40:16 Yep, so you can message back and forth.
+40:19 Um and so
+40:21 you can message
+40:22 clients and subs and vendors through
+40:24 this section. They do have a dedicated
+40:26 message section that kind of works like
+40:27 your traditional email. Um so this is
+40:30 sending out emails. This is not sending
+40:31 out text messages. You can actually kind
+40:34 of see
+40:35 some text message testing that we're
+40:36 doing.
+40:37 You know, send different things to the
+40:40 you know, homeowner versus your subs and
+40:42 you know, so that can all be programmed
+40:44 in and different people will see
+40:46 different things when they log into the
+40:47 system.
+40:48 Correct. Yep. Yep. And so I can also
+40:51 view they have like a customer portal
+40:52 section.
+40:54 Um so let's see. I think I put your
+40:55 email in here. So if I added you to this
+40:58 job here really quick, I could preview
+41:00 what you see inside this job. And right
+41:02 now again, it's kind of blank. Normally
+41:04 we want to spruce it up with some
+41:06 pictures and stuff.
+41:07 Sure.
+41:08 But yeah, so they have their own portal
+41:10 that they can log into, which is great.
+41:12 And you can you know, you can see right
+41:13 there in the in the middle there's an
+41:15 opportunity for them to kind of like
+41:17 send an email. Here subject and message.
+41:20 They can also go to the messages section
+41:22 here and create a new message.
+41:25 So I could just say Hello
+41:28 from Dan. It won't actually let me send
+41:31 this because
+41:32 you'll notice it didn't go anywhere.
+41:33 It's cuz I can't actually impersonate
+41:35 somebody else in the system.
+41:37 There's checks and balances on that. But
+41:40 communication is great in here.
+41:43 Oh, good.
+41:44 I just completed a set of plans in
+41:46 Chief. I want to upload them here so
+41:48 that everybody can see them.
+41:50 You know, all the all of the the subs,
+41:52 the the owner
+41:54 or we're going to have just certain
+41:56 people see them?
+41:57 Yep. So we just a simple as drag and
+42:00 drop.
+42:01 You can drop the file in here and
+42:04 you know, you can give it a description
+42:06 or drop it in a specific folder. For
+42:08 now, I'll just drop this out here.
+42:10 What's great is you know, so you you
+42:12 have all of that in here and you also
+42:13 have an annotating tool.
+42:15 So we can mark up right here and it'll
+42:17 save it in there?
+42:19 Yep.
+42:19 That's cool.
+42:20 Um, and what's great about these markups
+42:22 is they're non-destructive.
+42:24 So for example, if I call out on my
+42:26 little arrow here, I've got my hello
+42:28 world and my arrow. I'm going to hit
+42:30 save.
+42:31 Yeah.
+42:31 Okay, so I've saved those annotations on
+42:33 the PDF, so everybody else who has
+42:35 access to the PDF can see those.
+42:37 I'm going to kind of go about my
+42:39 business and job tread and come back and
+42:41 later on be like, "Oh, I highlighted the
+42:43 wrong thing." Like the arrow was
+42:44 actually supposed to be the other way. I
+42:47 can open back up my markup. I can go
+42:49 back to my arrow
+42:50 Oh, nice.
+42:51 and spin it around and or change, you
+42:54 know,
+42:55 um,
+42:57 the text here accordingly, right?
+43:00 When you send or allow somebody to view
+43:02 that, but specifically send that PDF to
+43:04 somebody and they have the PDF itself in
+43:07 their possession, do they have it in the
+43:10 form that they can modify those comments
+43:12 or do they have it in a fixed form?
+43:14 Yeah, if I'm sending this out as a PDF
+43:16 attachment, it'll be locked. Um,
+43:19 if it's another job tread user though,
+43:21 um, like Kevin, if you send something to
+43:23 Judy and Judy was in job tread, she
+43:25 could go in and adjust those edits as
+43:27 well.
+43:28 Sure.
+43:28 That's a good comment. Less Less clicks
+43:30 on the computer, more time on the
+43:31 fishing rod.
+43:33 Yeah.
+43:34 I like that.
+43:37 Yeah.
+43:38 Let's see here. We have
+43:40 Yeah.
+43:42 So this question that Cass or this
+43:43 statement that Cassidy's making, um,
+43:46 ties back to one in the back of my mind,
+43:47 which is that I can I can see clearly
+43:49 that your expertise is, you know, pretty
+43:51 phenomenal when it comes to the tool
+43:52 itself.
+43:53 Oh, thanks.
+43:54 When it comes to somebody trying to come
+43:56 up to speed on the tool, you know, it
+43:58 takes sometimes it takes a lot of
+43:59 training, hand-holding, that kind of
+44:00 thing. Is that also a service that you
+44:02 offer?
+44:02 Mhm, absolutely, yeah. So lots of
+44:04 different ways to that I help people.
+44:06 One is, uh, just through a monthly
+44:07 program. So coming in, kind of seeing
+44:10 where you're at and then helping you
+44:12 kind of get along a little bit faster
+44:14 with a roadmap to get you up and running
+44:16 in the system.
+44:18 And so I again I do that a lot of
+44:19 different ways. Some is just project
+44:20 based to say, "Hey Tom, we really want
+44:22 to implement this." Or like in Cassidy's
+44:25 situation there where she's like, "I'm
+44:26 struggling with selections." It's like,
+44:27 "Okay, let's set up a meeting really
+44:29 quick, kind of see where you're at and
+44:30 I'll explain how I can help." And that
+44:32 might be helping build something out.
+44:34 That might be help training.
+44:36 You know, really what I tell people is
+44:37 I'm just here to help. I just want you
+44:39 to have a a good experience with this.
+44:42 And so however I can help you with that,
+44:44 you know, more than happy to and and
+44:46 we'll figure out the best way to do it
+44:47 based on kind of your situation.
+44:49 Nice. That's great. That's great.
+44:51 Yeah.
+44:52 So Judy, what was your experience
+44:54 helping
+44:55 What was the name of the company you
+44:56 helped? Um
+44:57 Architectural
+44:58 Architectural
+44:59 Yeah.
+44:59 Architectural Craftsman
+45:01 Of which she's coming to our summit.
+45:03 Yeah.
+45:03 Oh, she's
+45:04 good. Good. Good.
+45:05 Mary, yeah.
+45:06 My experience with them in terms of
+45:10 getting into it and setting it up. Cuz
+45:12 you had never Had you done this before?
+45:14 No, I hadn't. I hadn't. But um
+45:18 I don't know. I felt like with my
+45:20 background in IT that made it a lot
+45:22 easier for me. So I understood a lot
+45:24 about converting from one software
+45:27 to another and about how to organize the
+45:30 data so that it's more efficient. Um one
+45:33 thing that I will say about converting
+45:36 from one to another,
+45:38 these companies like Job Tread and
+45:40 Buildertrend, they aren't going to
+45:42 they're going to convert data that you
+45:44 have. They aren't going to, as far as my
+45:47 experience was, they aren't going to
+45:49 help you clean it up or structure it in
+45:53 efficient way. They're just going to
+45:55 migrate what you have. What because I
+45:58 have 21 years experience in IT,
+46:01 I was able to um
+46:05 clean up a lot of the data that the
+46:07 company had that I was working with and
+46:11 organize the data in a way that it was
+46:13 very efficient that everything was
+46:15 reused. You didn't have all these extra
+46:19 things that you didn't need that
+46:21 clutters up the system and confuses
+46:23 people.
+46:24 Okay.
+46:25 So, um that is that's one thing and
+46:28 probably Tom does that as well. You
+46:30 know, helps people clean up their data
+46:32 rather than just move what you have from
+46:34 one place to another. It's like if you
+46:36 had a giant filing cabinet for the last
+46:39 10 years, you changed offices and you
+46:41 just moved that whole filing cabinet.
+46:44 I'd go through and
+46:45 throw away a bunch of it, reorganize it,
+46:48 make it clean and efficient, and it's so
+46:50 much easier for everyone to use. It
+46:52 really cuts down on the training time.
+46:55 Um somebody else asked something I was
+46:57 going to
+46:59 mention. I can't Oh, Cassidy was asking
+47:01 about the um
+47:03 selections.
+47:05 Part of that is about how you do your
+47:07 business.
+47:09 Kevin and I's business, everything was
+47:11 completely custom. The client could go
+47:14 to any store they wanted, pick out their
+47:16 countertops, their tile, their you know,
+47:19 wood floors, whatever. So, we did not
+47:23 pre-enter
+47:24 um items for selection in our system. We
+47:28 waited until they selected them, then we
+47:30 documented them and had them sign off on
+47:33 it. If you are a company that says,
+47:35 "Okay, you can pick from these four
+47:37 countertops. Each of them has three
+47:40 colors." Those kinds of things you might
+47:42 pre-enter in JobTread and then allow
+47:46 them to select from them. But, so it
+47:49 kind of depends on how you do your
+47:51 business in that case, what you would do
+47:54 in here. And and Tom is that's what he
+47:57 would consult with you on, I'm sure.
+47:59 Yeah, absolutely. There also is um
+48:02 uh you know, I I don't want to give away
+48:03 too much information, but there is some
+48:05 exciting updates planned uh for this
+48:08 part of the program to make it even
+48:09 easier. Uh Judy, to your point about,
+48:12 you know, when it's a one-off, um I
+48:15 mean, it's it's hard. Like, if I'm
+48:16 adding something to this list, if it's
+48:18 not in my catalog cuz, you know, the
+48:20 homeowner just went out and picked this
+48:22 Moen faucet, let's say, I'd have to come
+48:24 in here and create, you know, a new Moen
+48:27 faucet, right? And, you know, put in the
+48:29 details and put in the cost and put in
+48:31 the picture.
+48:32 That's a lot of work. Um so, I do know
+48:35 that the team is working on maybe
+48:37 streamlining that a little bit. That's
+48:38 all I'll say
+48:40 cuz this is live. I don't want to get
+48:41 myself in trouble, but
+48:42 Okay.
+48:43 I know that I know that they're they're
+48:45 they are working on making this a little
+48:47 bit easier, um which is exciting. And,
+48:49 that's kind of back to Cassidy's point
+48:50 about, you know, uh how quickly they are
+48:54 uh updating things. Like, they're, you
+48:56 know, iterating on iterating, you know,
+48:58 and so it's like, this is where it
+48:59 stands today. You know, we should do
+49:01 another live in in 3 months and do that
+49:03 live should just be, here's what's
+49:04 changed in JobTread. We'd fill an hour
+49:06 worth of that content.
+49:08 Yeah, exactly. And, we do that
+49:10 real achieve.
+49:12 very impressed with JobTread. I mean,
+49:14 and I'm pretty critical of software and
+49:18 and the way it's written. Kevin will
+49:19 tell you that, too, because of, you
+49:22 know, our my 21 years in corporate IT,
+49:26 you know, I've written a lot of code,
+49:29 written a lot of programs, and I, you
+49:32 know, some of my pet peeve is to develop
+49:34 something that is way more complicated
+49:37 than what you need. That irritates me.
+49:40 You know, it's like, it didn't need to
+49:42 be that hard to use, and JobTread is
+49:45 easy.
+49:46 Yeah, cool.
+49:47 So, um
+49:49 what's under the more button?
+49:51 Under the more button
+49:53 left square.
+49:54 Where is that?
+49:56 Bottom left corner.
+49:58 Bottom left corner.
+50:00 Oh, the three dots.
+50:01 Yeah, that's just That's just the menu.
+50:04 Uh that's not showing.
+50:05 Okay.
+50:06 So, there's the help desk and my
+50:07 profile. That's just because of my
+50:08 screen resolution being so large.
+50:10 I get it. I was just curious. Um
+50:12 so, Tom, how can uh
+50:14 So, we got about 10 minutes left here.
+50:16 So,
+50:17 Yeah.
+50:17 Um talk a little bit about your company.
+50:19 How can people get a hold of you if if
+50:21 they want some help setting up their
+50:23 JobTread?
+50:24 Yeah.
+50:24 And then tell us about the product that
+50:26 you're creating.
+50:27 Yeah. Yeah. So,
+50:29 uh thanks, Dan, for those questions. So,
+50:31 obviously, if you're watching this and
+50:32 you'd love to know more or just love to
+50:34 have a chat about technology in general,
+50:35 I'm always I would love to do that. Um
+50:38 you can just uh reach out via the
+50:39 website roundpegsolutions.com.
+50:42 Um so, that's the best way
+50:44 your site quick?
+50:45 Yeah, absolutely.
+50:47 Uh let's go here.
+50:50 And then I have a special spot on there
+50:52 for
+50:53 um JobTread implementation on here. So,
+50:56 you can come in here and see
+50:58 um
+50:59 you know, kind of what we offer
+51:01 um on here.
+51:02 Is that the way it's done right there?
+51:04 Yep. roundpegsolutions.com. What you see
+51:06 up on the screen. Absolutely.
+51:08 Um and so, again, uh cuz I I I love to
+51:12 find unique solutions to things. Um and
+51:15 so, I kept hearing the same problem over
+51:16 and over again with JobTread users,
+51:18 which is, "Hey Tom, how do you take um
+51:21 this, which is our our way of managing
+51:23 our projects, and add some automation to
+51:26 it?" Or, like I said a little bit
+51:27 earlier about the messages, Dan,
+51:29 I was saying that, you know, you can cuz
+51:31 you had a question about the email and
+51:32 could that just email, and you can, but
+51:35 there's no texting built in to JobTread
+51:37 right now. Um and so, we've actually
+51:40 created a a separate program called Loop
+51:43 that actually connects to JobTread in
+51:45 order for you to automate this process
+51:47 here.
+51:49 Um so uh actually I think maybe if I
+51:51 switch
+51:52 windows here if that's am I going to
+51:55 cause an error if I switch windows real
+51:57 fast?
+51:58 No, go go for it.
+51:59 Okay, let me switch real fast and I can
+52:01 show
+52:03 I can show
+52:05 Well, check your gigs with cam figure if
+52:07 it doesn't work we'll figure it out.
+52:14 Okay, that work?
+52:19 I think it's
+52:20 uh
+52:21 Let's see.
+52:24 Dan, are you able to pull that up on
+52:25 your end?
+52:26 Uh
+52:28 Let me go over here.
+52:30 There we go. Yeah.
+52:32 So this is Loop and uh
+52:34 of noise going on in the background.
+52:35 What is that?
+52:36 Oh, that may be me.
+52:37 All right, getting the vacuum cleaner.
+52:39 kill that.
+52:40 Thank you.
+52:41 Um
+52:42 So this here is what I I kind of call
+52:45 this again the con bond or can bond or
+52:48 whatever kind of bond you would like to
+52:49 have in there. Um
+52:51 It kind of view and this matches what's
+52:53 in Job Tread um a little bit here. So
+52:56 like the new lead appointments that etc.
+52:58 And so what we've done is we've take it
+53:00 uh take uh connected the two programs
+53:02 together so you can have a lead that's
+53:05 in here or a job effectively that's in
+53:08 the loop.
+53:08 Here's that open AI working away here.
+53:10 Yep, and have that follow up in here.
+53:13 And then we can bring automation to
+53:15 this. Um and so that way, you know, when
+53:18 a new lead comes in we can send them a
+53:20 text message and an email. Um you know,
+53:23 uh when we set the appointment we could
+53:24 do the same thing. Uh and we can keep
+53:26 track of the project status at all
+53:29 times. Um when you're kind of running
+53:31 your project. And also, you know, the
+53:33 other thing I keep hearing is like hey
+53:35 Tom, can we do this automatically? Can
+53:36 we do that automatically? There's I
+53:38 mean, we don't have enough time here. I
+53:40 want to be respectful of everybody's
+53:41 time to to dive into more of it, but um
+53:44 ultimately with the system that we've
+53:45 created um and connecting it to
+53:47 JobTread, really the hope is that you
+53:49 can take these two softwares and
+53:52 create a amazing customer experience uh
+53:55 for your customers, which is something
+53:56 I'm really passionate about. It's just
+53:58 making sure that homeowners are always
+54:00 in communication, they're staying in
+54:02 touch, um and so that way um you can
+54:05 keep track of them. So, uh that's really
+54:08 what it does.
+54:09 so your app is full-blown CRM then?
+54:12 Correct. Yep.
+54:13 you able to do like marketing campaigns
+54:16 through that as well?
+54:17 Yep. Absolutely. So,
+54:19 do you have a monthly newsletter? You
+54:21 could program it into your past clients
+54:23 or your you know, or you have some open
+54:25 leads that you want to send some info
+54:27 to. You could just select all those you
+54:29 know, select those and boom.
+54:31 Yep.
+54:32 Nice.
+54:32 Yep.
+54:34 Yeah.
+54:36 So,
+54:37 um really tried to create um
+54:40 you know, one-stop shop for everything.
+54:43 Yeah. That's huge actually. I mean, when
+54:46 you talk about an app that does what
+54:47 you're talking about. I mean, there's
+54:48 there's a little program out there
+54:49 called MarketSharp right now that um
+54:52 does a little you know, it's a CRM and
+54:54 you put people in and you can do all
+54:55 these crazy things with it for marketing
+54:57 and
+54:57 and job costs, but uh I don't I don't
+54:59 know if they have project management
+55:00 either, but
+55:02 um yeah, I like what you're doing there.
+55:03 That's really cool.
+55:04 Yeah. Thanks.
+55:05 So, this would be an additional
+55:06 subscription to uh your job to the
+55:09 JobTread?
+55:10 That's correct. Yep. So, starts at $99 a
+55:13 month. Um so, it's low cost. Uh so, that
+55:15 way, you know, the whole goal was again,
+55:18 it's really to help the industry just be
+55:20 able to handle communication better. Um
+55:22 and truthfully, I want it the thing I
+55:23 see frequently, cuz one of the other
+55:25 services that I do is what's called a
+55:27 tech stack analysis. And so, we look at
+55:29 all the technology you're using and
+55:30 people are using Calendly and uh
+55:33 you know, all of these other tools to do
+55:35 this. And it's like, "Hang on. Hang on,
+55:37 hang on. Let's just bring all those
+55:38 tools in one spot for a super low
+55:41 price." And so that way you have no need
+55:43 for these other softwares, you just have
+55:45 those two kind of anchors,
+55:47 cornerstones in your business to kind of
+55:48 build off of.
+55:49 That's cool.
+55:51 So.
+55:51 Yeah, I mean, you know, I talked to a
+55:52 lot of contractors that, you know, I
+55:54 say, "Hey, wait, what do you guys do for
+55:55 marketing?" And, you know,
+55:57 most of them, you know, they're
+55:59 website and things like that.
+56:01 Uh I always encourage them to get more
+56:03 proactive in their uh you know,
+56:06 emailing and keeping track of your past
+56:08 clients and getting them set up in in a
+56:10 system like you're talking about so that
+56:12 you could do a bi-weekly or monthly,
+56:15 whatever type of a communication to your
+56:18 past clients. Keep yourself in front of
+56:20 them somehow.
+56:21 And uh this is the perfect tool to be
+56:23 able to do that. So, so you're So, from
+56:26 the time the lead comes in till the time
+56:29 the project's finished to afterwards
+56:33 when you want to continue staying in
+56:34 contact with your past clients,
+56:37 it's all right here.
+56:38 Yep.
+56:39 Perfect.
+56:40 And And it keeps track of all those
+56:41 communications, uh you know, down to the
+56:43 contact level. Um so I can hop in and
+56:46 kind of see any uh changes to them at
+56:48 any status uh in their job. Um
+56:52 and, you know, you can do phone, email,
+56:55 voice, you can do Instagram DMs. So, uh
+56:59 the other day I set up and I did a post
+57:01 on my uh own account where I said, you
+57:03 know, "Hey, DM me the word new." Um and
+57:06 so if somebody commented or DM'd the
+57:09 word new, it would automatically send
+57:11 out a message through Loop to them.
+57:14 Okay. Okay.
+57:15 Um and I didn't have to like go in and
+57:16 individually respond. Um I know you guys
+57:18 talked about AI last week.
+57:21 Um and so we're using AI, we can use
+57:23 that in the background to send out
+57:25 so that way it doesn't look like it's
+57:26 the same message. Like, "Great, got your
+57:28 DM." And then sent. And the next time
+57:30 I'll be like, "Hey, awesome. Thanks for
+57:31 reaching out." And, you know, the next
+57:32 one's got like a high five emoji or
+57:34 something like that. So,
+57:35 So, there's one more couple more things
+57:37 here. So, um
+57:41 a good friend of mine years ago was
+57:42 talking about Cool Construction and how
+57:44 when they got it the first year they
+57:45 they
+57:47 um he figures they collected almost
+57:48 30,000 in change orders that they
+57:50 wouldn't have gotten otherwise because
+57:52 they were able to track it and keep it
+57:54 in one place and get it approved and get
+57:55 it paid right away.
+57:57 I mean, it's all built into JobTread,
+57:59 too, right?
+58:00 Yep.
+58:00 Yeah.
+58:01 So, so I mean, that in itself is a real
+58:04 big deal to be able to
+58:05 just keep keep track of all that stuff
+58:07 and make sure everything getting paid.
+58:09 Uh as long as people are inputting the
+58:12 information. So, you know, it's it's a
+58:14 you got to train your people to do do
+58:16 all of that.
+58:17 Yeah.
+58:17 Yeah. Um
+58:18 Yeah.
+58:19 I've heard too many horror stories about
+58:20 change orders getting missed or not
+58:22 getting paid.
+58:23 Absolutely.
+58:24 Cool. Um
+58:25 Yeah.
+58:27 So, um
+58:28 what else would you like everybody to
+58:30 know about
+58:31 JobTread and what you do or, you know,
+58:33 just in general?
+58:34 Yeah. I mean, uh the best way is to to
+58:37 get in touch with me. Um
+58:39 you know, I like I said, you can reach
+58:40 out via the website.
+58:42 Um uh reach out, we'll schedule time to
+58:44 to connect. And, you know, we'd love to
+58:46 help you and your business have a a much
+58:48 uh healthier, better, more productive,
+58:52 uh easier 2025 um using automation,
+58:55 using AIs, using great tools like Loop
+58:57 and JobTread.
+58:59 Um I and I'm here to help in any way,
+59:01 shape, or form that I can.
+59:02 Cool. And then and again, I look at this
+59:04 from a point of view, you know, people
+59:06 that do design uh design only. They're
+59:09 not doing the whole project. You know,
+59:11 how could this system work for them?
+59:14 Yeah.
+59:14 Um
+59:15 I mean, would your CRM alone be
+59:17 something that could manage just that?
+59:19 Absolutely. I mean, yeah, for $99 a
+59:21 month, you could handle all of your
+59:22 leads kind of automatically.
+59:25 Um
+59:25 you know, we have some different plans.
+59:27 One of them includes a voice AI, which
+59:29 we're super excited about. So, you can
+59:31 call in and that way you don't have to
+59:32 be manning the phone. You can stay
+59:34 focused on your design work. Um, and the
+59:36 voice AI will actually, you know, get
+59:38 the leads name, find out why they're
+59:40 calling, and it can even schedule a time
+59:43 for you to meet with them. And that's
+59:46 handled all through AI, not really.
+59:49 Yeah. Go ahead.
+59:50 Job one thing is I really hate in Job
+59:51 Tread
+59:52 and I haven't ever asked asked you about
+59:54 this. So,
+59:56 with that builder trend you upload files
+59:59 and then you have to download them.
+1:00:02 Does Job Tread sync like Drop-Dropbox
+1:00:05 with your files?
+1:00:06 Currently, no.
+1:00:08 That's that's on the road map. They've
+1:00:10 got a feature request for it like Google
+1:00:12 Drive integration.
+1:00:14 Yeah.
+1:00:15 Yeah. I mean, there's I've done a lot of
+1:00:16 automations for folks. So, if somebody
+1:00:18 out there's watching this and is like,
+1:00:20 man, that'd be great to have that.
+1:00:23 Reach out and let's talk and uh we can
+1:00:25 figure out a work around for it.
+1:00:26 Yeah, cuz that's a big deal cuz we're
+1:00:28 working on plans all the time and we're,
+1:00:30 you know, we're working on them, they
+1:00:31 work on them, we work on them, they work
+1:00:32 on them and have to upload and download
+1:00:35 files all the time is a real pain in the
+1:00:36 butt. So,
+1:00:38 the Dropbox sync, you know, syncing, you
+1:00:40 know, when I do something I'm done, I
+1:00:42 hit done and then they get the file
+1:00:43 instantly.
+1:00:44 Yeah.
+1:00:45 So, that'd be a huge thing to have in
+1:00:47 system like this.
+1:00:48 Yeah, definitely.
+1:00:49 But in the meantime, they still do have
+1:00:51 the file storage. You can keep
+1:00:53 everything with the project, but you
+1:00:55 just end up having to download it to
+1:00:56 work on it. So,
+1:00:57 Yeah.
+1:00:58 not the end of the world, but it is it's
+1:01:00 an extra step.
+1:01:01 Yeah.
+1:01:02 What we're trying to do is save clicks
+1:01:03 so we can be more efficient.
+1:01:05 Correct.
+1:01:05 So, perfect.
+1:01:07 Yep.
+1:01:07 Tom, thanks a bunch for being here. I
+1:01:09 appreciate it. You can hang around when
+1:01:11 we're done here, but uh
+1:01:12 uh look forward to finding out more
+1:01:14 about this.
+1:01:15 Renee, Judy, you got any questions,
+1:01:17 comments for Tom?
+1:01:19 Nothing.
+1:01:21 No.
+1:01:23 Yeah,
+1:01:24 good presentation, Tom.
+1:01:26 Yeah, very good presentation.
+1:01:27 Thanks.
+1:01:28 And thank you to
+1:01:29 taking the time to be here. So,
+1:01:31 And it's really nice for our segment to
+1:01:34 to have other industry folks coming from
+1:01:36 other softwares and
+1:01:38 Yes.
+1:01:39 Yeah.
+1:01:40 It's all part of the biz.
+1:01:41 It is.
+1:01:42 Thank you again, Tom.
+1:01:43 See you, everybody. See you next time.
+1:01:44 All right.

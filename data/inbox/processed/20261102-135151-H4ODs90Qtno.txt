@@ -1,0 +1,1161 @@
+Title: Live Plan Check Corrections Drafting in Chief Architect X16
+URL: https://www.youtube.com/watch?v=H4ODs90Qtno
+Visibility: public
+
+0:18 boom boom boom boom boom boom
+0:22 boom what's going on
+0:25 everybody um I'm just reposting this
+0:28 real quick
+0:31 so people might join
+0:35 it may be doing some plan
+0:38 Corrections um this is a continuation of
+0:41 what I was doing yesterday with an
+0:43 impromptu live
+0:45 session so for those of you that watch
+0:47 that you probably picked up some little
+0:49 fun macro things and me building a few
+0:56 things yeah um what am I doing here
+0:59 let's see I want to review where I ended
+1:03 up leaving off because I did a lot of
+1:05 work after I ended that live show so
+1:07 we're just going to take a quick look
+1:10 at what all I've done I still haven't
+1:13 really touched my G1 page G2
+1:18 page um A2 ended up doing a few
+1:23 Corrections and just clean up um I
+1:26 probably still have some more cleanup
+1:27 because I've got a few call outs here
+1:30 here that um don't belong in the plan
+1:33 View and then finished building out
+1:37 elevations um blocked off that terrain
+1:41 which I I like the look of that I added
+1:43 Shadows to my elevations all these Point
+1:46 markers are um element based locations
+1:50 so I could actually delete all those
+1:51 because I'm finished laying out all my
+1:53 layouts done so I get to delete all
+1:56 points just by hitting the delete key
+1:58 there we go so that's a nice clean
+2:01 look you can see here I've got some
+2:03 bubbling going on for some corrections
+2:07 still need to add a cross-section view
+2:10 here and then I want to add some
+2:12 cross-section markers to show in this
+2:16 view that where this cross-section
+2:19 is that would be
+2:22 helpful um did a little bit of bubbling
+2:26 on this page everything's nice and
+2:28 organized the way I want it to
+2:32 be I finished my second floor braced
+2:36 wall panel set
+2:39 up
+2:43 um but I don't know how this keeps
+2:45 happening but it keep losing things that
+2:47 I've been doing think that it's it's on
+2:49 the undo
+2:52 function first story framing plan yeah
+2:55 like a missing a whole Second Story
+2:57 framing plan I guess I guess there
+2:59 wasn't a second story framing but these
+3:02 two
+3:04 notes I'm just going to make them
+3:06 redundant and go on the next
+3:10 page because they're
+3:13 applicable there's my roof plan my roof
+3:16 framing plan is nice and
+3:22 clean roof framing Notes The Heading is
+3:25 wrong on that oops double click the
+3:27 wrong thing there this seems to be
+3:30 double the
+3:33 size or no 8id 48 that's what that
+3:36 needed to be there we
+3:40 go I took some color and changed the
+3:43 line Styles and line weights of floor
+3:45 framing members on this page or ceiling
+3:48 framing members I should
+3:51 say I thought about redoing these
+3:53 schedules but I'm not going
+3:56 to and then here gets into my
+4:00 cross-section stuffff and actually let's
+4:06 see yeah some of these updates got
+4:09 reverted back somehow I'm not sure how I
+4:12 want this window order overview to be in
+4:14 the same spot as this guy right here so
+4:17 I need to put that point marker back
+4:19 real
+4:21 quick there we go SN
+4:30 I like the way that these elevations
+4:33 turned out and the way that this is
+4:35 organized this just shows those two
+4:37 rooms those two elevations shows the
+4:40 cameras shows our
+4:42 schedule need to do a little bit of
+4:44 cleanup on the schedules kind of the
+4:46 same thing got all those elevations all
+4:48 these are lined up they're rolling so
+4:50 they're going in a u shape around the
+4:53 room which I think is a really smart
+4:56 look um it reads really well and then
+4:59 we've got our you know General
+5:01 elevations uh dimensions on the left and
+5:03 right side of the outmost elevation
+5:06 views I think that just reads really
+5:09 really
+5:10 well and these elevations look clean I
+5:13 loved um just doing the method of back
+5:15 clip side clip so that we can get these
+5:19 Dimensions off to the side just reads
+5:21 really clean I like
+5:24 it everything's in the same location so
+5:27 we got schedule schedules same locations
+5:31 cool um easy to read
+5:34 this floor plan all my cabinet call outs
+5:38 are now reading
+5:40 correctly this was all fixed in last
+5:44 session same thing really easy to read
+5:47 this vanity sync vanity sync wall
+5:50 cabinet wall cabinet um except for that
+5:53 this wall cabinet is actually not
+5:56 showing in the view there we go that
+5:58 would be it I need some like break lines
+6:01 and would be
+6:02 good let's just make sure again that I
+6:05 got that place point in the maybe I'll
+6:08 just leave this
+6:10 one just want to make sure that this is
+6:13 snapped to where I want it there we go
+6:15 same place every
+6:19 page it's kind of brilliant of the point
+6:22 that it just can live on every page
+6:24 without having to do something on page
+6:26 zero
+6:30 um just need some Brak lines
+6:32 here this is just a continuation of the
+6:35 previous View
+6:37 really we can do a place point on this
+6:40 Edge so that we come forward and snap
+6:45 this there we
+6:48 go and then there we go and now we get
+6:51 to go back through and now that I've got
+6:53 all that laid out I actually get to do
+6:55 my corrections finally been working on
+6:57 this plan for so long
+7:00 getting this plan corrected so I've got
+7:02 my corrections list on the Le hand side
+7:04 here um one is we need a Class A Roofing
+7:07 and elevations and provide IC report um
+7:11 if you didn't know
+7:14 it I have something in my website that
+7:17 helps out with this but I also think
+7:19 that I'm going to
+7:20 redo the whole resources tab on my
+7:25 website so that it's easier to access
+7:27 this and see and know that it's there
+7:29 but the resources tab has a lot of cool
+7:32 stuff in it one of which is code look up
+7:35 in resources and then when you get in
+7:36 here you got a building code restrictive
+7:39 search which will just search Google um
+7:42 but specifically certain sites that I
+7:43 use like the NEC or up codes and then
+7:47 two is that um we're searching I've got
+7:51 a code interpreter here so you can do
+7:54 stuff like State and show all
+7:56 W UI requirements per including have to
+7:59 detail and provide ICC report um I can
+8:04 highlight this and go what does this
+8:08 refer to or
+8:12 mean and code interpreter kind of figure
+8:15 that out so that's the Wildland Urban
+8:17 interface
+8:19 requirements and P section r337 and it
+8:24 does a breakdown of those requirements
+8:29 so wi Provisions aim to reduce the risk
+8:32 of fire damage to structures in areas
+8:34 where wildfires are concerned so this is
+8:36 in South Lake Taho a big wild wild fire
+8:44 location so the sofits referring to the
+8:46 roof
+8:49 overhang so we need to find those wui
+8:52 requirements for roof
+8:54 overhang so what you can do is
+9:04 use my search
+9:20 engine I also think you might maybe
+9:24 maybe maybe maybe you can take this back
+9:26 to this and say
+9:30 um give me a
+9:34 breakdown of s
+9:37 requirements from this URL I don't know
+9:40 if we can look up URLs or not let's
+9:44 see don't have browsing capabilities so
+9:47 You' have to come to some kind of paid
+9:50 chat GB kind of a thing
+10:09 noncombustible ventilation opens
+10:10 installation methods and so then we need
+10:13 a ICC
+10:16 report which is this guy I evaluation
+10:20 services and reports directory and we
+10:23 could search reports and what are we
+10:26 looking for
+10:32 let's
+10:44 see
+10:46 r33 r33
+10:49 7.1 IRC
+11:17 jump to
+11:24 chapter r337
+11:45 Roofing so I've got my Class A fire
+11:49 roofing material
+12:12 okay so since this is not my building
+12:16 design I do need to come back here and
+12:18 kind of get an idea
+12:21 of what's even being designed here we've
+12:25 got a really shallow overhang just kick
+12:28 color off so we can see some things
+12:37 here oh that doesn't help switch to
+12:49 Vector vector's so slow to move look at
+12:53 that yes he's got sofits in these
+12:56 overhangs and some of the overhangs are
+12:58 super shallow
+13:00 so how are we planning to vent those
+13:04 would be the big thing I mean these are
+13:07 so shallow I don't even know how you
+13:10 get a sopit vent in
+13:17 there and I think the detail
+13:24 is you just going to do like a stucko
+13:27 vent line vent
+13:40 fire stoping continuous soft vent so
+13:43 let's get back into IC and see if we
+13:45 can't
+13:49 do where was my IC
+14:06 let's how this on a new tab there it is
+14:10 okay what do we want we
+14:14 want
+14:22 bent
+14:24 and what we can call that b we call it a
+14:35 Sant see if it finds
+14:37 that nothing
+14:46 okay sopit panel siding and sopit cude
+14:50 vinyl siding and
+14:57 sofit okay let's go back to searching
+15:09 vent save ridge vent which we will need
+15:12 so we'll need an ICC report for
+15:17 that and I should name these according
+15:19 to what I'm saving them as so that it's
+15:22 easier for me to
+15:24 find so this first one was going to be
+15:27 uh
+15:41 what would you even call a sopt vent if
+15:43 soft vent's not coming
+15:52 up smart vent continuous attic intake
+15:56 vent under shingle oh interesting
+15:59 not using
+16:06 that um I don't usually work in Wildlife
+16:10 Urban zones
+16:12 so I don't know this
+16:16 stuff guess we could do a sealed vent
+16:19 system and I never remember exactly how
+16:21 that all
+16:25 works let's go um let's go back to my
+16:29 set up
+16:44 here ventilation area type of
+16:46 ventilation passive vents mechanical
+16:47 vents yes sealed vent in a sealed vent
+16:50 system where the attic is sealed from
+16:52 conditioned spaces special
+16:53 considerations are needed continuous
+16:55 ventilation ensure that there are both
+16:57 intake usually soft at V and exhaust
+17:00 roof vence to create a continuous air
+17:07 flow so it still
+17:09 wants sof
+17:18 vents Rich vents aren't long enough to
+17:21 provide the proper venting for that I
+17:23 think there's something else for with
+17:24 sealed vents I think we're missing some
+17:26 detail here
+17:49 I wish I
+17:50 had someone on my
+17:53 call that I know um Alan Layman I know
+17:57 he uses sealed vent system systems for
+17:59 his
+18:07 roofs nice
+18:10 Pino look up Vulcan vents they have em
+18:13 resistant sof at under floor and roof
+18:15 pins um the only
+18:18 problem that I see is because I'm very
+18:22 familiar with Vulcan vents um the only
+18:25 problem is it has to have an ICC report
+18:27 for this particular their municipality
+18:30 California's always got to be a pain in
+18:32 the ass pain in the ass um so if it
+18:36 doesn't have an IC report you got to go
+18:38 like pay for it to get a report which is
+18:41 not something you're going to do um
+18:43 let's just check this out see if we
+18:45 Vulcan comes in on
+18:47 here oh Vulcan does come in Vulcan vent
+18:50 yeah cool uh what are we looking at the
+18:53 SL 1445 let's just download all of these
+18:56 I guess
+19:11 and maybe we can get away with
+19:13 providing some of these and not all of
+19:16 these let's see what these are even
+19:36 bulen
+19:40 vent which one are we talking about
+19:42 though oh I guess this just is a
+19:48 lump models oh here's our models
+19:55 okay continuous sof inp ridge vents
+19:59 okay and they have some that
+20:03 are
+20:05 thin and now I have to design
+20:09 them right and I need a
+20:13 detail fun so I need a soft vent
+20:26 detail and actually let me see the
+20:28 original
+20:31 original PDF where is where did my PDF
+20:33 go right
+20:35 here um original
+20:45 PDF man the original PDF looks so sloppy
+20:49 so
+20:54 sloppy so what roof details do we have
+20:57 here
+21:00 I don't think I see any no
+21:04 no
+21:06 no
+21:08 no
+21:13 no no there are no roof in detail
+21:16 there's no roof details at all how the
+21:19 heck are they building this roof without
+21:20 knowing how the heck they're building
+21:22 the
+21:23 roof interesting
+21:27 um yeah so I got make my
+21:31 own I told this person that I was just
+21:33 kind of going to
+21:35 handle handle stuff for
+21:42 them but I kind of did feel like this
+21:46 part should have been done
+21:48 already what do we have here all
+21:53 right that looks that looks like
+21:57 basically what I need here and let's see
+21:59 if I can't conform one of my own details
+22:01 to
+22:02 this and so we'll bring this back in
+22:05 let's go new plan file and let's get
+22:10 into project
+22:12 browser CAD details and what do I have
+22:15 here I probably
+22:19 have something really close
+22:34 first of all I want to use one of these
+22:36 for some flashing details but all right
+22:39 let's
+22:41 see maybe have a stackable detail with
+22:44 might be nice and I might just send
+22:49 this that'd be an idea um let me do
+22:53 shift n brings up new
+22:57 layout and
+22:59 and can you copy a layout page to a
+23:02 different layout can I copy this page 13
+23:05 to a different layout because that would
+23:07 be cool I don't know if we can do that
+23:09 or
+23:19 not pages
+23:29 you can do a duplicate open blah blah
+23:32 blah exchange with PR no you can't
+23:34 that'd be pretty cool if you could do
+23:36 that
+23:39 um so I kind of want to
+23:43 do I don't know that I need all the
+23:46 details that yeah what do I want do I
+23:49 want a detail page or do I want
+23:52 to I think I want a detail page okay
+23:55 this what we'll do I copy this
+24:00 we're going to
+24:02 kick to some blank
+24:06 page duplicate this page go backup page
+24:10 paste hold position in the wrong
+24:19 area um this is based on like a
+24:23 quadrant setup here so all my call outs
+24:27 are going to be
+24:29 screwed
+24:35 [Music]
+24:47 up uh what does the
+24:49 nfv stand
+24:55 for use a standard evail gotcha
+24:59 copy but still only to well yeah you
+25:02 copy the contents I was wondering if you
+25:03 could actually copy the page like we we
+25:05 can now copy CAD details but no you
+25:08 can't copy the page which I wish we
+25:10 could that'd be pretty slick um this
+25:14 whole system is based on a coordinate
+25:18 grid and because their layout page was
+25:21 on a
+25:24 different uh XY
+25:31 um this messed up my macro for it my
+25:35 macro
+25:37 helps um link call outs so that we are
+25:41 limiting liability thing I always talk
+25:43 about all right let's see if I can fix
+25:45 this macro real quick this is my DLR
+25:50 macro uh the center of
+25:52 D1 X so that's all this takes this is a
+25:56 really cool little script here so all I
+25:58 need to know is the center of
+26:00 this which
+26:05 is that right there this spot right
+26:10 there so the center of this is 3 and8
+26:13 and ne3 and
+26:16 516 so that's all I need here
+26:19 is
+26:21 um three point let's just go two and
+26:28 what was the other one I said
+26:30 negative
+26:32 3.2 something like
+26:36 that I think that was it there we go see
+26:39 that just fixed all of them Isn't that
+26:43 cool
+26:46 um
+26:49 yeah cool cool cool so now I can build
+26:53 off of one of
+26:56 these details like this guy right here
+26:59 and actually going to probably put him
+27:01 where this guy is right here so that's
+27:04 just framing rafter plate condition let
+27:08 just relink
+27:14 it and I don't care that this is in a
+27:18 different
+27:20 plan oh net free ventilation area gotcha
+27:24 uh you're saying they have different
+27:26 styles for different oh you just wait we
+27:29 are going to build a net free vent area
+27:33 calculation system believe it or not
+27:36 stick around for that that's that's
+27:38 coming
+27:39 up that is coming
+27:45 up framing Raptor plate connection um
+27:49 these labels are too big so I need to
+27:51 fix that but here's what I want to do I
+27:53 want to use this guy
+27:56 and we're going to paste a little
+27:58 reference here oops what happened
+28:02 there we're going to paste this little
+28:04 reference here oh shoot guys I forgot
+28:06 that I have music on in the background
+28:09 you know what that means means I'm gonna
+28:11 get
+28:12 flagged hate it when I get flagged
+28:33 okay I gotta fix this so macro
+28:37 designations and we're going to say that
+28:42 roof comp shingle roof is gray so roof
+28:45 style metal standing seam roof has
+28:47 manufactured
+28:51 um okay so we're going to open that up
+29:12 let's
+29:15 go
+29:16 um I remember what this was it was
+29:22 by custom
+29:25 built metal built
+29:31 something like
+29:33 that all right but that needs to go in
+29:36 the number one spot and open that row
+29:39 object and it's going to designate it
+29:41 for this
+29:43 detail M standing
+29:46 seam um I don't care that we show the
+29:50 rter I don't care that we
+29:52 show block
+29:55 stuff don't even really want to show
+29:58 what the insulation is although all that
+30:00 stuff should be called out
+30:31 I really wish when you crossed the poly
+30:32 line on itself it just cut everything
+30:34 I've been saying that forever don't know
+30:37 why we can't get
+30:39 that get Chief to give us that it' be
+30:42 really
+30:43 awesome would be
+30:47 awesome um okay what am I doing
+30:50 here side spacing up
+31:09 they have a I'm not sure that they have
+31:10 a heel height trust system in this or
+31:12 not I need to go
+31:22 look what do you got here
+31:29 manufactured trust by
+31:44 others yeah it's just sitting on the
+31:47 roof these aren't actually
+31:50 trusses okay I see what's going on
+31:56 here I mean
+32:02 the way they have these
+32:11 drawn I don't like it I don't want to be
+32:13 in charge of this particular bit of
+32:17 problematic liability
+32:26 [Music]
+32:31 yeah they really need a tool to just
+32:33 snap one to another really
+32:40 easily hold shift will put me up like
+32:43 that yeah
+33:09 this is going to be something like this
+33:26 right for
+33:59 boy I am not in detail drawing mode
+34:02 right
+34:02 now feel
+34:06 like this is a mistake to even try to do
+34:09 right now just not in that head
+34:11 space
+34:13 nope really not
+34:37 how would this connection
+34:56 work
+35:26 for for
+36:01 something like
+36:05 that the
+36:07 heck there we go
+36:42 I'm going to have this guy review this
+36:43 and fix this I don't know what his
+36:45 actual plan is so there you
+36:49 go there you go
+36:59 let's get a little wood in
+37:11 here something like that
+37:15 [Music]
+37:33 in the realm of
+37:34 terrible drawings that I I have done in
+37:37 my life detailed drawings this is not
+37:40 the worst I've ever done
+37:42 so something there
+37:53 right okay
+37:56 okay for
+38:31 get rid of
+38:35 this oh shoot I wonder what I was
+38:38 modifying I'm modifying modifying a
+38:40 plant I don't really want to be
+38:42 modifying that's kind of funny so let's
+38:45 save
+38:46 this
+38:56 and ASD details there we
+39:00 go don't
+39:02 save or tit
+39:05 six
+39:08 cool cool cool
+39:12 cool um all right should we do a a attic
+39:18 vent system somehow I think I need to
+39:21 build that off of a new plan so let's
+39:24 save this and new plan
+39:28 so what do we get from a roof plan here
+39:33 first of all let's just create some
+39:55 Gables so what is a roof report it's not
+39:58 a ton of info Valley flashing
+40:02 length Valley flashing length
+40:05 interesting I kind of like that visible
+40:09 length sure surface
+40:12 area we don't want surface area we want
+40:16 unless we
+40:18 take some kind of over oh projected area
+40:21 projected overhang area projected area
+40:24 minus projected overhang area all right
+40:26 so we need a few things here so let's
+40:29 bring
+40:30 up I like to show people how to use the
+40:34 resources on my website even though it's
+40:35 not my preferred place to do coding it
+40:38 you can do coding on my
+40:40 site um so resources Chief Architect
+40:44 Ruby macro
+40:46 scripting and that'll build this little
+40:49 sidebar here and so what I need first
+40:54 off is
+41:02 um let's see we're going to use the
+41:04 following
+41:11 variables projected uncore
+41:14 area
+41:17 comma projected underscore overhang
+41:20 underscore
+41:24 area and what else
+41:30 ridge vent
+41:40 length and so we need to create
+41:43 a vent system based on
+41:46 that but we also
+41:54 need what do we need
+41:57 need to understand what the net free
+42:00 area is of the ridge
+42:08 vent when we have a rid
+42:13 vent and then that should tell me how
+42:15 many linear feet of sopit vent I
+42:19 need
+42:21 or projected area project ra info
+42:24 there's got to be some kind of length
+42:25 here let just use my search tool
+42:37 instead e facia length e facia D
+42:42 Edge drip edge length E facial
+42:50 length or gable fascia length as it were
+42:58 interesting that it gives
+43:00 us both but really we only need eent
+43:07 length what's the other one we could use
+43:09 overhang area
+43:11 3D pitch protected area
+43:16 average sloped Edge flashing
+43:22 length fling visible
+43:25 L soft
+43:35 area materials up thickness okay um Eve
+43:39 fascia
+43:47 length
+43:55 and and then let's get to one of my
+43:57 other
+44:00 resources which is let's go back to
+44:03 rabit design yeah yeah oh I need to fix
+44:07 that have it
+44:12 design code lookup
+44:16 and loadup Bot what's how do we Cal net
+44:22 free ventilation area or roofs
+44:32 um let's
+44:43 see so there's two ccs that happen right
+44:46 if we don't
+44:49 have if we don't have a ridg
+44:53 vent then it changes the Cal
+44:59 except for in the case of this building
+45:00 I'm always going to have a rigant
+45:02 because it's Gable so just assume
+45:03 everything this is the problem with this
+45:05 particular script there's no way to tell
+45:08 that some um
+45:11 adjacent some adjacent roof line
+45:15 isn't doesn't have a ridge vent so like
+45:18 okay this is why this I've always had
+45:21 trouble figuring this
+45:25 out here's what we got um the the
+45:29 problem with Chief is that we can't take
+45:31 a sum total of a row and use that in a
+45:35 cal so you have to do a cal for each
+45:39 line item meaning each roof plane the
+45:42 problem with that is we can't
+45:45 assume
+45:47 that if I show this real quick show that
+45:50 this is a Gable end what's going to
+45:52 happen is this roof is going to read
+45:55 that it doesn't have a ridge
+45:59 because it's a hip roof but the area
+46:03 that it lives over does in fact have a
+46:06 rident so the calc should be the 1300th
+46:09 versus the 1
+46:10 150th so there's no way for chief to
+46:14 somehow tell that this attic is over the
+46:17 top of some room that has
+46:22 arment so that's the big problem um
+46:27 you
+46:28 could I guess okay so here's an approach
+46:32 all right
+46:35 um this macro is going to report from
+46:42 the roof
+46:46 publisher I need to
+46:52 check what maybe
+46:54 supplier check because if we open up
+46:57 this roof we have an o in this yeah so
+47:00 we check any one of these code comment
+47:02 Etc um I think supplier is probably an
+47:07 easy one to use maybe we'll use code
+47:09 I'll use code need to check component
+47:13 uncore code
+47:17 for
+47:21 yes which would
+47:25 indicate a calc
+47:27 based on having a rent or
+47:36 not and then if it has a
+47:39 rident then we need to be back to how
+47:42 does how do we calc
+47:55 this every 300 square foot of attic Flor
+47:58 area
+48:03 okay it has a r vent how does this work
+48:07 I actually have a a
+48:09 calcor
+48:11 for foundation vents already so we
+48:14 should probably start from that would
+48:16 give us a pretty good base
+48:20 code this guy right here foundation
+48:22 vents per
+48:24 schedule so this
+48:29 we go look up I probably have an
+48:34 NFA Foundation NFA maybe how are we
+48:38 doing this let's go open the row
+48:43 object
+48:51 information interesting none of that
+48:54 info is there where where is it where
+48:56 are we getting this
+49:02 info um NFA let's open the
+49:07 schedule if we reset this area standard
+49:12 okay so n is just coming from area
+49:16 standard and
+49:19 reset let's copy this reset it and if a
+49:23 percentage
+49:29 n if a percentage has to be a custom
+49:39 field there's no value there I don't
+49:42 know oh well that's half the problem
+49:44 that's why it's not caling
+49:46 anything macro doesn't actually live
+49:49 there um I built this in a previous
+49:52 version of this and I forgot to transfer
+49:54 it over boy that would have been a
+49:55 mistake glad we up to
+50:02 that um
+50:05 so we just opened an old
+50:14 1515 there's one 1515 here's
+50:17 another Foundation
+50:20 Vin see this one has it
+50:29 NFA per NFA percent R
+50:33 okay
+50:36 so that's interesting text
+50:38 micromanagement oh there it is
+50:43 export look at that NFA percent let's
+50:46 just do another
+50:50 one close this down close that down
+50:57 bam import NFA
+51:03 percent oh I I already had
+51:08 one it just wasn't being
+51:11 used
+51:12 okay
+51:23 um and now let's figure out how is this
+51:26 is used
+52:17 so I want to use Claud this is going to
+52:20 be a difficult script
+52:56 B
+52:59 see if we can make any sense of that
+53:44 total area equals projected area plus
+53:46 predicted overhang no not predicted who
+53:49 put predicted did I put
+53:52 predicted projected
+54:12 I'm just going to stick with repairing
+54:15 one thing at a time in this script so
+54:19 we'll see how this
+54:21 goes and you put this code in a side
+54:25 window
+54:44 it's not in the side window What's
+54:46 Happening
+54:49 Here There we go
+54:54 okay okay divisor equals component code
+54:56 equals yes yeah okay total roof area
+54:59 projected area minus predicted it's not
+55:21 predicted C vent area equals total roof
+55:24 area to F ided divisor required vent
+55:26 area Square in required vent okay vent
+55:29 area
+55:34 yes
+55:37 um and then I need to plug in some Cal
+55:42 for for the ridg vent net free area that
+55:46 I'm going to
+55:48 use so we're getting
+55:51 there next is
+55:56 oh where's our support
+56:00 ICC
+56:02 stuff that
+56:06 is Vulcan see continuous soft inspection
+56:10 rid vents soft inspection
+56:15 look
+56:17 okay
+56:20 um let's just grab one of
+56:22 these let's just say we're going to use
+56:29 C vents stor vents soft vents fing
+56:32 Matrix Bas
+56:35 flashings I mean we could have done
+56:37 cable vents but yeah whatever let's do
+56:41 this 2 inch 2120
+56:44 100.8
+56:48 100.8 so
+56:57 um how does that work
+57:00 1.80 per 10
+57:05 foot okay
+57:20 100.8 .8
+57:28 for 10 foot of
+57:35 length
+57:39 um and then I need a
+57:44 vent that's going to be based on
+57:46 polyline
+57:58 and we will take
+58:06 area um no what are we going to do we I
+58:09 need a number of vents per let's see I
+58:13 need to know the number of vents per
+58:16 netfree area of linear
+58:19 feet
+58:21 of soft Advent
+58:27 kind of the same thing kind of G to use
+58:29 that same
+58:30 number um
+58:59 I don't think AI is going to figure this
+59:00 out but we'll see how it does because I
+59:03 wasn't very good in my
+59:05 explanation okay so divisor equals
+59:08 component code if component code says
+59:10 yes that means that that particular roof
+59:12 plane has a rid vent and it should make
+59:15 its divisor 300 total roof area equals
+59:19 projected area minus projected overhang
+59:21 area that's all correct required vent
+59:24 area equals total root Pro area to
+59:27 divisor yes okay and then we're
+59:30 converting that to square inches
+59:32 available vent area currently equals
+59:34 zero if component code does equal yes
+59:38 then rid vent NFA equals rid vent length
+59:42 times 100.8 ID 10 feet okay pired sopit
+59:47 NFA equals ridge
+59:50 vent
+59:52 NFA no that's not true
+59:56 oh no that is true required sopit
+1:00:01 length
+1:00:04 equals required suffet
+1:00:08 NFA
+1:00:10 yeah divided by that 100 divide by two
+1:00:14 available vent area equals r v else
+1:00:16 available vent area equals ecia length
+1:00:20 wait otherwise available vent area
+1:00:27 equals Eve facial
+1:00:29 length * 9 *
+1:00:37 2 this is all good set
+1:00:42 for how does
+1:00:45 available V area work in the else
+1:00:50 condition this should just be
+1:01:03 um calcan to
+1:01:06 show needed linear foot
+1:01:11 of
+1:01:16 sofit
+1:01:18 NFA at 100.8 / 10 ft
+1:01:38 uh if you're confused by this it's
+1:01:47 confusing boy that just made it simpler
+1:01:50 what's going on here if comp let's just
+1:01:54 test this I don't even feel like
+1:01:55 gradient let's just test it um let back
+1:01:58 in the chief where we get a new
+1:02:02 plan and what are we doing then we've
+1:02:06 got working roofs let's make one a Gable
+1:02:10 end let's take all these
+1:02:17 roofs
+1:02:22 let's let's take one of these roofs
+1:02:25 build our
+1:02:27 R
+1:02:30 NFA percent
+1:02:34 proof um evaluate up Dink and owner
+1:02:39 object look at that 1.09 I don't know
+1:02:42 what that means let's check it out real
+1:02:44 quick um one is that we are going to say
+1:02:47 that this
+1:02:50 has
+1:02:52 Arrangement yes in the code here
+1:02:59 whatever
+1:03:00 okay did that change
+1:03:06 anything it did it did change something
+1:03:09 but that number is way
+1:03:12 wrong way way
+1:03:18 wrong
+1:03:21 um let's open schedule up
+1:03:36 let's object information and
+1:03:41 if let's just put this in macro number
+1:03:44 input one
+1:03:59 um and I don't
+1:04:02 know what we think this is in terms
+1:04:09 of
+1:04:20 formatting when this was rident it
+1:04:23 changed this drastically look at how big
+1:04:26 a difference that is
+1:05:00 might be a case that we're just
+1:05:04 getting measurement classes
+1:05:09 confused because Chief will report in
+1:05:12 certain measurement types sometimes when
+1:05:14 you don't want to um let's make sure to
+1:05:19 convert all
+1:05:21 variables to floats so we aren't f right
+1:05:26 fighting the measurement class and units
+1:05:31 are
+1:05:46 predictable
+1:05:48 okay now let's try
+1:05:52 that so it's still one onone float
+1:05:56 and let's just say We'll change this
+1:05:59 quote right here just say no instead of
+1:06:03 yes
+1:06:05 or
+1:06:10 sure now what happens 17 yeah that
+1:06:14 number doesn't make sense so something's
+1:06:15 wrong some kind of unit conversion is
+1:06:18 wrong
+1:06:27 I think I need a break but I should come
+1:06:29 back once I solve this little
+1:06:33 riddle um what do we have here we got
+1:06:42 some have I no I have not oh that's not
+1:06:46 true I've been working on it uh my Ruby
+1:06:49 scripting stuff works pretty well for
+1:06:53 the most part
+1:07:00 question for future stream Ora on and
+1:07:03 how to adjust a macro to show rough
+1:07:06 ceiling
+1:07:07 highs with room
+1:07:10 label not finished
+1:07:13 Dimensions now if my ceiling is 10 foot
+1:07:15 I have to add one one inch to have
+1:07:20 presented 10t
+1:07:24 ceiling um
+1:07:29 you want rough instead of how does it
+1:07:31 currently work let's just check out how
+1:07:34 it currently
+1:07:36 Works ceiling H grab currently
+1:07:40 does finished ceiling elevation finished
+1:07:43 floor
+1:07:44 elevation so you would have to replace
+1:07:48 all finished ceiling finish floor with
+1:07:51 something or
+1:07:56 or
+1:07:58 or you
+1:08:16 could yeah know that'd be tricky why
+1:08:18 would you um be doing that by the way
+1:08:21 curious you're trying to have your
+1:08:25 framing Heights as opposed to your
+1:08:28 finish Heights seems
+1:08:30 uncommon
+1:08:32 um you have to come in here to the
+1:08:34 script and change all the um finish
+1:08:38 cealing elevations
+1:08:43 to to something else to what would it be
+1:08:48 let's see you would
+1:08:54 do I have to get into such a crazy State
+1:08:57 of Mind to to do some of these
+1:09:01 scripts
+1:09:04 um well here let's do it this way use
+1:09:07 our Search tool throw this in the
+1:09:10 room so you see what's being reported
+1:09:13 here and we could
+1:09:16 say measurement
+1:09:20 ceiling or
+1:09:32 a ceiling
+1:09:36 elevation it's probably rough maybe
+1:09:39 rough
+1:09:56 elevation is
+1:09:59 zero
+1:10:05 which finished floor elevation finished
+1:10:08 ceiling elevation so you're just
+1:10:09 changing this word you'd have to do a
+1:10:12 search so you'd have to come into the
+1:10:13 macro and do this you would do um
+1:10:17 ceiling where is it ceiling H RB and
+1:10:20 this just got Rewritten for the next
+1:10:22 version so you're going to have to do
+1:10:23 this again because I add some function
+1:10:26 or fixed some function or something but
+1:10:28 I typically bring this into notepad++ do
+1:10:32 a little new action on this do this go
+1:10:36 fine go
+1:10:40 um
+1:10:42 finish
+1:10:44 ceiling
+1:10:49 elevation um which it's saying it's not
+1:10:53 getting oh wait what are you trying to
+1:10:55 do let's
+1:11:14 see yeah finished ceiling elevation you
+1:11:17 would replace
+1:11:24 that that's what you do you'd replace
+1:11:27 all with ceiling
+1:11:34 elevation oops there
+1:11:42 goofy that's what that would look like
+1:11:44 replace all and then we'd go
+1:11:59 replace
+1:12:00 all
+1:12:02 hopefully don't ask me don't know if
+1:12:05 this
+1:12:07 works yeah that worked
+1:12:17 see although that was 78 plus 58 so
+1:12:22 something's being rounded
+1:12:31 it's being rounded
+1:12:37 up so crlf
+1:12:46 [Music]
+1:12:48 round oh but I do give it an option
+1:12:51 whether or not you want to round the
+1:12:52 ceiling height or not
+1:13:05 and where's that coming
+1:13:09 from surprised it's all I'm finding for
+1:13:13 round so I'm doing it in some other
+1:13:15 script pain in the
+1:13:20 ass that means I'm doing it all options
+1:13:30 room label
+1:13:33 options somewhere in
+1:13:35 [Music]
+1:13:41 here round ceiling
+1:13:49 height no I'm not doing it there I don't
+1:13:52 know where the hell I'm rounding it
+1:14:04 [Music]
+1:14:09 oh it's the format I'm using E8 inch
+1:14:12 formatter applies ceiling
+1:14:15 elevation
+1:14:17 okay
+1:14:20 so formatter e inch formatter
+1:14:28 used fractions true denominator
+1:14:31 eight so that shouldn't be messing with
+1:14:41 it this is a complex system
+1:14:46 man you could just make your own uh oh
+1:14:50 so the next version of this does give us
+1:14:53 the capability of um
+1:14:58 overwriting check this out
+1:15:05 um so you'll
+1:15:08 notice foyer says 8 foot5 but if you
+1:15:11 actually go into this it's not an 8
+1:15:13 foot5
+1:15:15 ceiling so the actual ceiling height is
+1:15:19 9 foot the reason it says 8 foot5 is in
+1:15:22 the object information panel I have this
+1:15:24 script here and so this script applies a
+1:15:28 number formatter initiates a number
+1:15:31 formatter um denominator Etc equals 16
+1:15:35 and then it's applying it to ceiling
+1:15:36 elevation minus floor elevation and and
+1:15:40 actually in this case that's wrong for
+1:15:41 me um I should have said
+1:15:44 finished but this is where you could do
+1:15:46 it you could overwrite it right here but
+1:15:48 this is in the next version of the Pro
+1:15:50 Plan which I haven't uploaded yet
+1:15:58 um so the next version looks the ceiling
+1:16:00 height macro looks to code and if code
+1:16:03 is there it will overwrite with whatever
+1:16:05 is there so you could even type in
+1:16:07 something here and it will overwrite in
+1:16:09 that
+1:16:12 way7 y
+1:16:21 cool I want to know how do I change text
+1:16:24 symbol
+1:16:25 of smoke detector or any electrical
+1:16:28 symbol text not
+1:16:32 labels you'd have to edit the cad detail
+1:16:34 of the
+1:16:39 symbol um David I have done that a ton
+1:16:42 of times in a ton of different ways and
+1:16:44 it doesn't work out that
+1:16:46 well there's too many ambiguous terms
+1:16:49 there's too many like terms there's too
+1:16:51 many redundant terms there's too many
+1:16:52 terms that mean different things in
+1:16:54 different context within the manual and
+1:16:57 then it just on the whole is not that
+1:16:58 great at searching the manual so I do
+1:17:00 have a snippet of Ruby that's built into
+1:17:02 some of my Ruby scripting stuff where it
+1:17:04 explains the number form matter and it
+1:17:07 explains um the measurement class but
+1:17:10 other than that it just doesn't do that
+1:17:11 well at especially processing a large
+1:17:14 amount of data like that and I keep
+1:17:16 trying it every like Rec quars or
+1:17:21 something um and was that was me resp
+1:17:24 running to this feed it all the support
+1:17:26 Pages for Chiefs train for AI scripting
+1:17:30 and then one more important question I
+1:17:31 want to know how do I create different
+1:17:33 slopes when designing a swimming pool
+1:17:36 reason for asking to have a project in
+1:17:39 nature soon what do you mean
+1:17:42 slopes um you want to slope the inside
+1:17:45 of the pool you're going to have to
+1:17:46 create something that slopes which is a
+1:17:48 ramp or a
+1:17:49 solid or molding
+1:17:54 [Music]
+1:17:59 my default ceiling set for 10 feet when
+1:18:02 room label it is said 9 foot1 ceiling
+1:18:05 height always adding one inch to have
+1:18:08 presented 10
+1:18:11 foot
+1:18:13 um I mean if you wanted a default
+1:18:15 ceiling height of 10 foot so like let's
+1:18:18 just say we're going to name this
+1:18:25 right that's 8 foot ceiling height so
+1:18:27 all we're going to do
+1:18:31 is get into the first floor defaults add
+1:18:34 24
+1:18:36 in because that rough ceiling is the
+1:18:38 actual plate length that we would cut
+1:18:40 typically so that's showing 10
+1:18:49 foot I also never referen this info so
+1:18:53 there's never a need for me to show
+1:19:18 this um
+1:19:22 because so what is it it's 92 and
+1:19:28 58+ 3 +
+1:19:32 1.5 95 and 58 I doing that right no I'm
+1:19:37 doing that
+1:19:41 wrong 92
+1:19:49 58
+1:19:52 3 1.5
+1:19:54 there you go that's a pre-cut stud
+1:19:56 length 97 and8 that's what your rough
+1:20:00 ceiling comes out to so that's what
+1:20:02 that's coming from so your true 10 foot
+1:20:05 ceiling is 121
+1:20:15 Etc um I just show you how how that's
+1:20:17 derived your pre-cut stud length is 92
+1:20:20 and 58 for an 8ot ceiling
+1:20:27 they don't have pre-cut stud lengths for
+1:20:29 a 10 foot I don't
+1:20:36 think um oh yeah they do 116 and 58 so
+1:20:41 pre-cut stud length check this out this
+1:20:43 is how this happens pre-cut stud length
+1:20:47 is 116 and 58
+1:20:52 right and then your plus three for
+1:20:56 double plot top plate and then your plus
+1:20:59 inch and a half for single bottom plate
+1:21:01 121 and
+1:21:04 1/8 and that will make a 10ft
+1:21:08 ceiling so that would be standard
+1:21:17 [Music]
+1:21:35 want to figure out this roof vent thing
+1:21:36 but I need a
+1:21:46 break uh yeah learn macros um the number
+1:21:51 one reason you'll hear me say this a lot
+1:21:53 the number one reason to learn macros is
+1:21:56 it limits your potential liability for
+1:21:59 user created errors whether it be you
+1:22:01 drafting or someone else you're hiring
+1:22:03 drafting um it's just it makes it so
+1:22:07 that we
+1:22:08 are pulling information from the
+1:22:11 building model which You're Building
+1:22:13 anyways and you're building at the spec
+1:22:14 and you're building some defaults so
+1:22:17 we're getting information from the model
+1:22:19 so if the model's correct then our
+1:22:21 information's correct and then we are
+1:22:24 not leaning on user error right um so I
+1:22:28 don't need to type in ceiling height of
+1:22:30 a ceiling because I know that I punched
+1:22:33 this incorrectly so I know that this is
+1:22:34 correct so I didn't need to type in this
+1:22:37 right which means that I'm not making an
+1:22:39 error not potentially making an error
+1:22:42 just a typo or something in this plan
+1:22:46 which was not my plan there were a bunch
+1:22:48 of typos and corrected them largely
+1:22:50 through just creating systems that
+1:22:52 utiliz macros
+1:22:56 which is
+1:22:58 awesome um yeah I got to take a break
+1:23:01 though I really did want to finish that
+1:23:04 ridg vent Cal oh on camera but maybe
+1:23:08 I'll do it in another
+1:23:09 session so
+1:23:25 um all your projects block masonry
+1:23:28 exterior wall so it's 9 fo4 10 footo is
+1:23:30 the 10 footo coming from the size of the
+1:23:32 block itself because I mean a 10-ft
+1:23:35 ceiling is nominally the finished floor
+1:23:38 to the finished ceiling and that would
+1:23:40 be a 10 foot
+1:23:43 ceiling has nothing to do with the block
+1:23:45 size so unless that particular type of
+1:23:48 construction is
+1:23:50 different yeah I mean that would be
+1:23:54 pretty silly for the industry of Mason
+1:23:57 rine blocks and the way they're building
+1:23:59 to not match up with our standard for
+1:24:02 wood cut
+1:24:03 studs and pre-cut studs that would
+1:24:07 be that would be unheard of so I'd check
+1:24:12 it out go talk to a
+1:24:13 builder
+1:24:15 um because if you got a combination M
+1:24:18 block wall and combination wood framing
+1:24:20 wall we're going to buy pre-cut 10 foot
+1:24:22 studs
+1:24:26 all right guys I'm going to jump off for
+1:24:28 now maybe I'll be on later um thanks for
+1:24:30 joining the feed
+1:24:36 [Music]

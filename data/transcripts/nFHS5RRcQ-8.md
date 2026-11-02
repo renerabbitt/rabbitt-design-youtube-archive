@@ -1,0 +1,1708 @@
+---
+videoId: nFHS5RRcQ-8
+title: What's New in Chief Architect X17 - Designers Show #152
+url: "https://www.youtube.com/watch?v=nFHS5RRcQ-8"
+status: imported
+---
+
+# Transcript
+
+0:00 Facebook and your LinkedIn. Oh, you only
+0:03 had to turn my LinkedIn off, not my
+0:04 Facebook. Oh, no. It made me turn the
+0:07 Facebook off.
+0:09 I don't know why I did yours and not
+0:11 mine, but you might be able to add it
+0:13 back now.
+0:15 People were having difficulties. Uh,
+0:17 let's see. Hang tight.
+0:21 Yeah, don't worry about it. We're live.
+0:23 It just let me add it back. Oh, good.
+0:26 Because we're live. So, Oh, we're live.
+0:29 Hi everybody. Hi everybody. We're messed
+0:32 up today. Sorry. Sorry guys. My team put
+0:35 the wrong time down today. So, um they
+0:38 set it up to go live at one instead of
+0:39 noon. And here we are.
+0:43 Welcome. Welcome. Welcome. Um Okay, here
+0:46 we are. So, let's uh John and I haven't
+0:48 been on this show. Have we been on a
+0:51 show since we got back from Rock? Five
+0:52 weeks since we've been on. My goodness.
+0:55 You and I. It's wild. Well, welcome
+0:57 everybody. Um Kevin left. Hopefully
+1:00 he'll be back. So Paul from hot
+1:04 Phoenix. It's perfect here in
+1:06 Minnesota. Gam Mike, how you doing?
+1:10 Aaron, how you doing? The poop get a pop
+1:14 up that says the show doesn't start till
+1:16 11. All right. Hopefully you're live
+1:18 now, Robin.
+1:20 Anyway, and uh Okay, cool. Well, welcome
+1:23 again. And we're gonna jump into this
+1:26 here real quickly.
+1:28 talking about some of the new stuff in
+1:29 X17. So if you're on the if let me share
+1:32 my screen here
+1:35 and yeah that got turned off entire
+1:39 screen and that one right there. So you
+1:43 should be
+1:44 seeing you should be
+1:47 seeing this right here where it says uh
+1:49 what's new in X17. And right below that
+1:52 you'll see a couple of
+1:55 links and in those links um Chief puts
+1:58 out a update what's new in X17. So you
+2:02 can click on that and you're going to
+2:04 see a list of what's new in X17. If you
+2:06 don't already have that that this is a
+2:08 place where you can get it. This is
+2:08 something they do on every release and
+2:11 uh it's it's a nice
+2:13 uh summary of some of the new things.
+2:16 Rene and I were just commenting that
+2:18 yeah it's not a really long list. just
+2:20 because actually it's not bad. It's four
+2:21 pages. Uh but we've both been
+2:23 discovering a lot of other little things
+2:25 in Chief that aren't necessarily even on
+2:28 that list. So, um it's a nice update.
+2:31 Really a nice update, I think. And a lot
+2:34 of new things have been added. The other
+2:36 thing you'll see on this is uh view the
+2:39 Chief X17 what's new page. And this is
+2:43 not available yet. Um, I don't I
+2:46 couldn't find it this link anywhere on
+2:47 their
+2:49 website. All I know is that each time
+2:51 they do a new release, they use the same
+2:53 exact link. So, I just clicked the link
+2:55 from last X16 update and it took me to
+2:57 the X17 update. Don't tell. They're
+3:00 gonna they're going to fix it next week.
+3:02 They'll change it.
+3:04 Sorry. Anyway, um, it's a so here's your
+3:07 X16 X17 new feature summary. And
+3:10 actually with the PDF, they do use the
+3:13 same link every time, too. They they
+3:14 they put in if you just change that
+3:17 number. Um you'll get the new new
+3:20 updated one. Anyway, um so Dan, that's a
+3:25 nice way to keep it simple. Ju just to
+3:27 remind you, I can't I can't put up
+3:29 comments or anything because I'm a guest
+3:31 today. So you'll just have to say them
+3:33 or Renee if you could do them while
+3:35 we're each of us are presenting
+3:37 everybody else watch the the comments
+3:39 and feel free to just time them out
+3:42 John. Okay. Um, so the uh thing that's
+3:47 nice about this and I and I highly
+3:49 recommend you watch all of this stuff
+3:51 because they really do a nice I'm going
+3:52 to give Chief a super kudos here because
+3:55 they really do a nice job with these
+3:57 graphics um showing some image showing
+4:00 some of the new features. They got a
+4:02 quick list here basically the same list
+4:04 you have in a PDF just sorted out with
+4:06 some nice pictures. So check it out and
+4:09 there's about a 19 minute minute video
+4:12 or they've broken it down into smaller
+4:13 videos that again they kind of zip
+4:15 through some of these things pretty
+4:16 quick and it's really a nice synopsis on
+4:20 some of the things that they've added to
+4:21 the new release. So check it out uh
+4:24 after the
+4:25 show. You guys been on that page? You've
+4:27 seen that? Oh yeah. Any of you? Okay. So
+4:30 you already been there. Is there is
+4:32 there a link to that on their website?
+4:36 They don't usually put that up until
+4:37 they're out of the public beta. Oh,
+4:39 wait, wait. Show me again. This page
+4:42 right here with Chief Architect X17.
+4:45 Because if you go to their website now,
+4:46 it's just X16. They don't put this page
+4:48 up until the U um it's out of public
+4:52 beta. Yeah. So, says beta now. There's
+4:56 got to be a link somewhere because
+4:58 they're saying it's in beta now. So, I
+5:01 just have I just couldn't find it. I
+5:03 just use the same link every time.
+5:05 Anyway, uh and then another quick thing
+5:08 I'll address before we move on is uh
+5:11 people have been asking what's happening
+5:13 with the Pro
+5:14 Academy. Um Pro Academy will be going
+5:17 live in a couple weeks and I will let
+5:19 everybody know. So, I've been working
+5:21 hard to whole new format. Uh we got our
+5:25 pop out menu here which works really
+5:27 well. So, get getting everything
+5:29 organized. Um we're going to be doing
+5:31 live meetings twice a month. Uh some Q&A
+5:33 calls. some uh I'm going to do some
+5:35 formal presentations on certain parts of
+5:37 Chief Architect, more formal, more
+5:40 indepth than you see in a show like this
+5:42 and and some of the other things that we
+5:44 do online. Um we're going to have, you
+5:46 know, we'll have a calendar with all
+5:47 sorts of of events and then of course
+5:49 our announcements will go up there. So
+5:51 you'll be able to you pop in here. The
+5:54 goal is to make it a really userfriendly
+5:56 site. Searches function is outstanding.
+5:59 So, you'll be able to find topics. And
+6:01 one of the things that I've been really
+6:02 working hard on is
+6:05 um I I want to create videos that are
+6:11 easy to find things in because, you
+6:13 know, we create kind of long videos
+6:14 here. So, let me turn this on quick. And
+6:18 so, when you create a long video and you
+6:20 have this list like this on the website,
+6:22 it's hard to you have to go fast forward
+6:24 to those things. Well, I finally got it
+6:26 figured out where now all you have to do
+6:27 is click here and you can go right to
+6:28 the topic you want to learn about and
+6:31 boom, you're there. So, uh, this
+6:33 requires me going through every video
+6:34 and editing them and time coding them,
+6:37 not AI. So, I'm the AI, but I can do it.
+6:41 You can do it AI, Renee. I just am doing
+6:45 it because I want to listen to what the
+6:47 hell I'm talking about.
+6:50 Do you go and um, you re-watch your own
+6:52 videos? I you I haven't done it for
+6:55 years really. I find it interesting
+6:58 re-watching my own videos now. It's
+6:59 like, "Oh, I missed this. Oh, I could
+7:01 have said this." And um it's I always
+7:04 rewatch mine. Yeah. I I haven't done it
+7:06 for
+7:07 years. Remember, I've been doing this
+7:09 for almost 30 years. And I started out
+7:12 doing my videos like this where I had to
+7:15 go through each one. I had no choice.
+7:16 There was no AI. Um, and I listen to th
+7:20 probably thousands of hours of myself
+7:22 and it's like after a while I don't want
+7:25 to listen to me anymore, but I'm okay
+7:27 with it now. So, I guess I'm on my next
+7:29 stage of my my career of chief architect
+7:32 training. So, it's kind of cool. Anyway,
+7:34 it it's a little timeconuming, but
+7:36 that's all right. I'm enjoying it. So,
+7:37 let's talk about uh the new update. So,
+7:41 um, I just kind of took that same sheet
+7:43 that you guys can get from that link,
+7:45 that new features list PDF, and I
+7:48 condensed it onto a spreadsheet. So,
+7:49 we're going to just go through through
+7:50 some things today. We're going to talk
+7:52 about the yellow things today. Uh, and
+7:54 Renee and I will take time. So, Renee,
+7:56 what I'm going to do is just kind of pop
+7:57 through this list on my tab and go
+8:00 through those and then we'll have you
+8:01 switch to you and and then we'll switch
+8:03 to you and you go through your things,
+8:04 but you guys feel free to chime in, too.
+8:06 So, um, let me start by saying we're not
+8:09 going to touch Project Browser a ton. I
+8:11 already see a comment coming up from
+8:13 Mike, who we know about Project Browser.
+8:16 Yeah, we could kill multiple shows on
+8:18 Project Browser. Um, I do I'm going to
+8:20 give myself a little plug. It's not a
+8:22 plug. It's on my free YouTube. You could
+8:24 go check it out. I just published it
+8:26 about five minutes ago. Um, I'm just
+8:29 going to show my screen real quick. Can
+8:32 one of you guys let Kevin in? Yeah, I
+8:35 got him. And then this is on my YouTube.
+8:38 If you get into public section right
+8:40 here, there's a video about Project
+8:42 Browser right there. I just put it out
+8:44 just a couple minutes ago. So, if you
+8:46 want to get somehat comprehensive review
+8:48 that's 26 minutes long, go check that
+8:50 out. Yeah, you dug into it pretty well.
+8:52 As long as you're talking about that,
+8:54 uh, as long as you brought that up.
+8:57 Um, real quickly, yes, there's a lot of
+9:00 controversy about it. A lot of comments,
+9:02 a lot of good and bad. Um, we are
+9:05 totally aware of that. So, Renee and I
+9:08 were talking yesterday about that a
+9:09 little bit and and like, all right,
+9:12 that's cool. One of the things about it
+9:14 is depends on what you want to do with
+9:16 it. So, for someone like me that drives
+9:19 by myself, I don't have other people,
+9:20 but I do share plans back and forth with
+9:22 with my clients. Um, I'm going to try it
+9:26 and see how I like it. I've only been in
+9:27 it for a little bit. I haven't really
+9:29 dug into it at all. Renee, you've dug in
+9:31 you've dug deeply into it. So, you know
+9:33 a lot more about what's going on with
+9:34 it. So, that's why you did that video.
+9:37 You wanted to share that with everybody.
+9:38 Can you post that link in the chat for
+9:40 everybody, too? Yeah, I will. Yeah, why
+9:42 don't you do that? And, um, I'll post,
+9:45 you know, we'll send out an email about
+9:47 that, too. So, I like it a lot. I think
+9:49 it's on the right track to really help
+9:52 us keep things in order in Chief
+9:54 Architect because when you're working in
+9:56 a in Chief and you're working on these
+9:58 different projects, so this is what the
+10:00 project browser looks like. Uh it's kind
+10:04 of nice to be able to have everything in
+10:05 one place, all of your details, all of
+10:08 your PDFs, everything that you bring
+10:11 into the plan and the way that the
+10:12 layouts and the plans all link together
+10:14 and Chief keeps it linked together
+10:16 nicely. The the main thing to understand
+10:18 about the new project browser is Chief
+10:21 keeps everything in one big database.
+10:23 You can't just go find the plan or
+10:26 layout file in a folder somewhere
+10:28 because it's in a database file. All
+10:30 right. You can export the plan as a plan
+10:34 or as a project. You can export it as a
+10:38 um what do we call it? A backup like we
+10:40 did before and open it like you have
+10:43 always done before. You can import, you
+10:45 can open any plan from anywhere on your
+10:47 computer at any time and put it in your
+10:49 project or not. So you don't have to use
+10:52 the project browser. So I think there's
+10:55 a lot of benefits to it. On the other
+10:57 hand, it's going to take some getting
+10:58 used to. I don't know what what are your
+11:00 comments, Renee, real quickly so we
+11:02 don't spend a lot of time. Yeah, I think
+11:04 it takes some getting used to. I think
+11:05 there's some really nice things in there
+11:07 uh for versioning and and ease of use
+11:10 and quickly quickly navigating your own
+11:13 um single user files. I counter a little
+11:16 bit um uh you know I look at the
+11:19 traditional methods and the way people
+11:20 had their workflows established and
+11:22 there's a lot of value in what they were
+11:24 doing, how they had it working and how
+11:27 they see their teams and collaborators
+11:29 working and uh and it does not work that
+11:32 way. So it relies on uh human nature and
+11:36 habit in order to uh overcome that or
+11:39 work around its deficiencies. But Chief
+11:43 has said that they recognize that
+11:45 there's issues being brought up in the
+11:47 beta and uh they're going to uh and
+11:50 they're going to be building in
+11:51 corrections to those as it moves
+11:53 forward. They just
+11:54 haven't said when and you know
+11:56 originally they wanted to have this
+11:58 cloud-based so that you could access the
+12:00 cloud from any of your devices and
+12:02 everything's there. Well, they took that
+12:03 part out to get this part going. So, so
+12:06 this is precursor to maybe the next
+12:09 version where they do introduce the
+12:11 cloud-based where you'll have access to
+12:13 your things and you can share links to
+12:16 others to get to the same things and
+12:17 it'll lock the file when you're working
+12:19 on. So, we got a lot of good things
+12:20 coming. They've been talking about this
+12:22 for a long time. Um, I'm glad to see
+12:25 they've got this going. So, that's
+12:26 pretty cool. Uh Vicki said, you know,
+12:28 she's looking forward when the project
+12:30 manager forward to the when it'll be
+12:32 able to transfer between my desktop and
+12:33 laptop and not miss anything. And Rene,
+12:36 what's your what's your solution to that
+12:37 right now, Renee? Um well, that's just
+12:41 export your your CA project file. And my
+12:44 suggestion, and this is for your own
+12:46 risk tolerance, is delete it from your
+12:49 machine once you do that because that
+12:52 export is is the active copy. Think of
+12:55 it as you're just saving it. That's it.
+12:58 Right? And when you save it, close your
+12:59 machine. It's not on it's not in Chief
+13:02 Architect anymore. You got to go find it
+13:03 and open it again. So if you're going to
+13:05 be collaborating with someone else or
+13:08 you're going to go from one machine to
+13:10 another, export it, delete it from this
+13:11 machine. And when
+13:14 it is taking everything.
+13:17 Yeah. In fact, um Dan, if you hit delete
+13:20 right now instead of export. Yeah. It'll
+13:23 actually do it'll do both.
+13:26 It'll export and delete. That's why they
+13:28 have it there. Yeah. So, that makes
+13:31 sense. So, you could do that. Don't
+13:32 worry if you about losing anything
+13:34 because you do have a copy in your
+13:36 archives folder. So, that's still there
+13:38 like it always was. So, you could even
+13:40 just go open archives back and forth if
+13:43 you wanted to if your archive was on a
+13:45 shared a Dropbox or something. Um what
+13:48 they have said and Rene I was asked
+13:50 talking to you about this yesterday
+13:51 Renee was under the uh project
+13:54 management I was wondering about this
+13:57 okay because when you uncheck this it
+13:59 says do not put this on a share drive so
+14:02 when you go browse it says don't do this
+14:05 your life will end and life everything
+14:07 will be miserable I can tell you some
+14:09 advanced ways to do this but that's
+14:11 advanced not today no not today the one
+14:14 thing I want to say for people that are
+14:16 watching in this show is this is all
+14:18 working towards a system where your
+14:21 account is essentially being able to
+14:23 share files across account through a
+14:25 cloud to someone else seamlessly and
+14:28 keep in mind Chief is having to work
+14:30 around a billion copyrights to come up
+14:33 with their own system. So yeah, I think
+14:35 they're doing a really good job. They're
+14:36 working towards it. Yeah, I agree with
+14:38 you Renee. They're doing a superb job
+14:40 and it's getting there. So, um the the I
+14:44 think one of the big challenges they're
+14:46 all they're trying to overcome is
+14:47 sharing. Of course, we already know that
+14:49 and I do that with Dropbox now, but is
+14:51 the linking of all of the stuff that
+14:53 goes within what you're doing with
+14:55 between the layout and your PDFs and
+14:57 pictures and graphics and images and all
+14:59 of this stuff. It just doesn't get saved
+15:01 in one file. It's all over the place.
+15:03 So, all right, let's do it. new
+15:07 featur somebody want to answer Aaron's
+15:10 question there
+15:13 so Aaron just look at that CA project
+15:15 file as um it's the same as backup file
+15:19 with all links intact it's basically the
+15:22 same as backup with all your image files
+15:24 it's similar so you could still do the
+15:26 same process my thought is that you're
+15:28 going to delete it when you export it
+15:30 that's all and then this will always
+15:33 retain its links so your team won't have
+15:35 manage that link side of thing. Yeah.
+15:41 My recommendation, Erin, with 10 users
+15:43 sharing files on Dropbox is that's a
+15:46 that's a dicey risk. Um that you may
+15:48 want to stay with the traditional until
+15:51 uh things are are either more solid or
+15:53 more advanced in terms of sharing uh
+15:55 collaborating. I agree with that. That
+15:57 that's what I'm going to say. If it
+15:58 ain't broke, you finish the sentence.
+16:01 Okay. Um, if it's if what you've got's
+16:03 working, don't don't mess with the
+16:05 project browser right now. Uh,
+16:08 especially for collaborators, especially
+16:10 for teams. Yeah, do it. It works great.
+16:13 It works great individually, you know,
+16:14 but for teams, it's tougher. But hang
+16:18 tight on those comments because as we
+16:20 dig into it deeper, this one to the to
+16:23 the hilt, man. Yeah. And as we watch for
+16:27 So, so let's come back to this topic.
+16:29 So, for now, it's working fine. Don't
+16:31 worry about it. We're going to figure
+16:32 this out. And Renee, I know you're
+16:34 already on top of it. So, go watch
+16:36 Rene's video. Maybe you'll come up with
+16:38 a a better decision then because he just
+16:39 finished this video right before the
+16:41 show. So, I haven't even seen it. So,
+16:43 cool. All right, let's move on. Uh,
+16:45 thanks for your comments, guys. We could
+16:47 spend the whole show talking about that.
+16:50 All right. Um, I'm going to go to uh the
+16:52 sheet here. Um, I've arranged this such
+16:56 that you're seeing my screen, right?
+16:58 So that um I'm going to just talk about
+17:00 things with my name after it right now
+17:02 and then Rene is going to get on and
+17:03 talk about things with his and you guys
+17:04 feel free to chime in, too. So I'm not
+17:06 going to show this. I'm just going to
+17:08 run down this list quick. Um sort
+17:10 library brow. Um no, I'm going to
+17:12 modeless cross-section. All right. So
+17:14 what that means is uh the cross-section
+17:17 slider. So, when we go into a 3D view
+17:20 and we go to our cross-section slider
+17:23 right here, this little bad boy right
+17:25 there. That
+17:27 is where we go here. Um, wrong one.
+17:31 Those two icons always look the same to
+17:33 me. Okay, here we want that one. Let's
+17:37 try this again. Okay, here we go. I keep
+17:40 clicking the wrong one. I didn't want
+17:42 that one either. Let's start over. Okay.
+17:45 3D view, cross-section slider. And what
+17:49 we could do now, what we couldn't do
+17:50 before is this. When the cross-section
+17:52 slider was open, we couldn't interact
+17:55 with our with our model. So now we can
+17:58 So now we can do all of these things and
+18:00 still interact with the model, look into
+18:02 the rooms. So you're able to now rotate
+18:05 it around. I I really like this. This
+18:07 will be really handy when you're, you
+18:09 know, looking at things, trying to
+18:10 figure things out, um how things are
+18:12 lining up. So, this I think is a really
+18:14 nice little feature to being able to do
+18:16 that and it'll stay that way until you
+18:19 come back into it and turn it off, of
+18:21 course. So, there you go. I think over
+18:23 time we're getting to a way to do 3D
+18:25 details really easily and I think we're
+18:28 a little ways off, but we're getting
+18:29 there. I agree. I agree because the
+18:32 models are starting to get so not so
+18:35 good. Yeah. Especially like when you add
+18:38 framing and all that stuff. I mean,
+18:39 there's still things overhangs and all
+18:41 that where Yeah. There's still things
+18:43 that have to be fixed, but it's getting
+18:45 close. They're doing a really good job.
+18:47 Consolidate import of plan settings. So,
+18:50 you know, when they used to have a a
+18:52 thing in here, import plan views, import
+18:54 layer sets, import all of that different
+18:56 thing. Now, it's just called import um
+18:59 settings from a plan or a layout. So,
+19:02 let's take a look at that file. Import
+19:06 plan. And so if I go find a project or a
+19:10 plan that I've worked on or even a
+19:11 template, okay, this is one of the
+19:13 things I like about the project browser.
+19:15 There's all the different templates you
+19:17 could have if you're using multiple
+19:18 templates. I like one template. Um, but
+19:21 let's say I go to this plan here and I
+19:23 want to import some of the things that
+19:24 I've set up in this to put it in my
+19:26 template. So I've opened my template.
+19:27 I'm going to import some things from a
+19:29 plan. I go select. Um, okay. I guess I
+19:34 could Oh, yes. There. That crashed
+19:36 before when I was screwing around with
+19:38 this. Okay. So, here's all the different
+19:40 things I can import now. So, I could
+19:42 import a plan view. I could import
+19:44 default settings. You could import just
+19:47 individual ones. It's really I mean,
+19:50 there's obviously a lot of stuff going
+19:51 on, but this is really slick. So, you
+19:54 know, if you've been in a plan and
+19:55 you've set up a layer set that you want
+19:57 to be have part of your template, now
+19:59 you can do that really easily. Just go
+20:01 open that and import it your template.
+20:02 done. So, um I like this a lot. It's all
+20:07 in one place. Very well done. Any
+20:10 comments on that, you guys? We can We
+20:13 still can't import uh floor default.
+20:17 Oh, okay. Dang it. No. Does it do all
+20:20 the defaults? One of these days. No, it
+20:22 doesn't do the floor defaults. Doesn't
+20:24 do any doesn't do any of the floor
+20:26 defaults, but it does defaults though,
+20:28 right? Yeah, it does everything else.
+20:31 Yeah. really.
+20:33 Um, let me just There's no Yeah, it's
+20:37 it's it still imports all the same
+20:39 defaults it did before and we've never
+20:42 been able to uh default settings.
+20:46 I'm assuming you've brought that. Why
+20:47 would they does they just kind of like
+20:49 miss that? I don't know. We've brought
+20:51 it up for years. Lower ceiling platform.
+20:55 It's the only thing keeping you from
+20:56 truly transferring from an old template
+20:58 to a new template. Yeah. Huh? Easily.
+21:02 Anyways. Yeah. All right.
+21:05 Well, this next one, continuous draw,
+21:08 same wall type. So, for those of you
+21:10 that are um used to drawing with your
+21:13 right mouse button, it's called Oh, this
+21:15 is one of my favorite features.
+21:17 Alternative features. So, if you draw
+21:19 something with your right mouse button,
+21:21 lines or walls, I mean, it just keeps it
+21:24 hooked up while you you just draw,
+21:26 click, draw, click, and hit your space
+21:28 bar to end. Well, now you can continue
+21:30 doing that just by grabbing the copy in
+21:33 handle. That is cool. I mean, so like
+21:37 break that wall, Dan.
+21:41 Break a wall somewhere. Okay, this is
+21:44 common for me. And then and then now
+21:46 right click that continuation handle.
+21:48 Yeah, now that is just sweet. It is
+21:52 really that's a really super nice
+21:54 features. By the way, you could hit left
+21:55 and right mouse button together to stop
+21:57 your draw as well. Oh, they're both
+22:00 okay. Either one will do it. Yeah. Does
+22:02 it? Oh, you saying you have to hit both
+22:05 together? Is that what you're saying?
+22:06 Yeah. Does that Does that work for
+22:08 anything? Is it Is it doing space when
+22:10 you do that, Rene? Yeah. Same for
+22:11 polyline. No, it's not doing a space.
+22:13 It's just stopping the action. Okay. So,
+22:16 space bar stops it. Or if you click
+22:18 space bar is select objects. But if you
+22:21 just left and right, you're still on the
+22:23 wall tool. If you It's kind of
+22:25 interesting because if I start drawing a
+22:27 wall here and then I hit my my two
+22:29 buttons. Oh, it just still drew the
+22:31 wall. Okay. Before it deleted it. All
+22:33 right. Cool. That's good to know. Yeah.
+22:35 In fact, it'll cancel some other stuff,
+22:37 too, but I can't remember everything it
+22:38 does. All right. Let me get rid of those
+22:41 things. Oh, and and you can also uh
+22:44 Lance just brought this up. Welcome,
+22:46 Lance. Um, this is a good tip is you can
+22:49 use tab in the middle of continuous draw
+22:52 and that will continue. So like draw out
+22:55 a wall, hit tab, uh, right click draw
+22:57 out.
+22:59 Oh, type in your distance. Yeah. So if I
+23:03 go minus 10,
+23:05 hit okay. And it's still in continuous
+23:09 mode. So now you can precision. Yeah,
+23:13 that's cool. This is one of the coolest
+23:15 productivity things that's in this list.
+23:17 They need a next button here, too. But,
+23:19 um, I like that.
+23:22 Cool. That'd be great for doing surveys.
+23:27 All right. There you go. That's the
+23:30 alternative type. Alternate type.
+23:34 Alternative, not type, alternative. What
+23:36 do they call it? Alternative something.
+23:38 Right mouse button to right mouse button
+23:41 does a ton of stuff.
+23:42 Um, all right. Then I've got custom
+23:45 toolbar configuration graphics. Look at
+23:47 that. I created my own little toolbar
+23:48 and I put my own little icon on it. How
+23:51 cool is that, huh? Um, so I can switch
+23:53 back to these different toolbars now and
+23:56 then I I can so you can create your own
+23:59 little custom icons to switch between
+24:00 toolbars. So that's just a matter of you
+24:02 go customize
+24:04 toolbars and you go to the configure uh
+24:07 configuration tab. And now when you have
+24:10 created a toolbar, you have a place to
+24:12 choose an icon. So kind of cool. Renee,
+24:16 I bet you have a bunch of those, don't
+24:17 you? Yeah. Yeah. How many toolbarss do
+24:21 you have now?
+24:23 Um I think I kept it to six, but Okay.
+24:26 Yeah. I mean, you could do that before.
+24:28 It just wasn't as easy. And uh yeah, so
+24:30 that's nice. They're actually um working
+24:32 on toolbars right now, too. So I'm
+24:34 excited to see what happens in public.
+24:37 What do you think they're doing? any
+24:38 idea? Um, mainly I've been badgering the
+24:42 heck out of them so badly about sharing
+24:44 configurations that I Yeah, I think
+24:47 they've got a couple little um features
+24:49 they might get into. Oh, you me you
+24:51 mentioned you might get that in X17 yet.
+24:53 Maybe. Maybe. We'll see. That'd be cool.
+24:55 So, the bad thing about toolbars right
+24:58 now is if you create a custom toolbar
+24:59 like I the the amount of my custom
+25:02 toolbar is this this these icons and
+25:04 this. Okay. I keep mine really simple
+25:06 because when I work with a lot of
+25:08 clients I, you know, I'm not a Renee. I
+25:10 don't do super duper toolbars. Um
+25:13 although I got to learn how to use yours
+25:15 anyway because I'd love to use them to
+25:16 draw the uh the only way you can give
+25:20 those to other people is have them uh if
+25:23 you've not used any custom icons, they
+25:25 can then import a different toolbar.
+25:28 That's fine. But if you've done custom
+25:31 icons like Renee does, um, so I can hit
+25:34 the import tab here and import a
+25:36 toolbar. But if you've created custom
+25:38 icons, which Rene does a ton of, yeah,
+25:40 you're you're out of luck. So it will
+25:42 not you have to replace the whole
+25:43 toolbar folder. And and if you want to
+25:47 share toolbars now and you want to still
+25:49 have those links, um, you have to get
+25:51 out of managed mode just to do that.
+25:53 It's a pain.
+25:56 Yeah. Yeah. So, but hopefully they'll
+25:59 add that. Um, bulk import of
+26:02 DWGs. Um, I never import a DWG into a
+26:06 plan I'm working on because I don't want
+26:07 all the crazy layers, but I'll just
+26:09 import it into a into a
+26:13 U CAD detail window. So, if I go to my
+26:17 folders and I've got a, you know, you
+26:18 could have a whole list of details you
+26:20 want to bring into Chief and organize.
+26:22 Maybe they're part of a library you want
+26:24 to bring in. uh start setting up your
+26:26 libraries from all the details you have.
+26:28 But you just drag those onto the screen
+26:30 and you're going to get a little menu
+26:32 here that says um show import assistant.
+26:37 This is really nice. I haven't tried
+26:38 this. Yeah, this is really nice. So, if
+26:41 I want that thing that pops up to show,
+26:43 you know, create poly lines, put them on
+26:45 chief's menu, which I probably maybe
+26:47 would, but it also automatically puts
+26:50 the detail into a CAD block so you don't
+26:53 end up with a whole ton of lines on top
+26:56 of each other from all the different
+26:57 details. It creates little CAD blocks
+26:59 and sorts them out on your screen for
+27:00 you. So, you could even get them to add
+27:02 them to your library automatically. You
+27:05 wouldn't even have to. So, if you had
+27:06 all your CAD blocks named properly. So,
+27:08 let me just go ahead and hit this. I
+27:10 have just two here. So, I've made it so
+27:12 it does this. So, I can go check these
+27:15 options that there's all the different
+27:17 layers that are there. I'm going to
+27:18 import them with the layers that they
+27:20 already are on in inches and hit finish.
+27:23 And then it's going to import those two
+27:26 DWGs as separate CAD blocks that I could
+27:30 then add to my library, add to my plan.
+27:33 You never even have to ungroup a CAD
+27:36 block in Chief, just so you know. Um,
+27:39 you don't have to ungroup that to edit
+27:41 it. You just use this little icon right
+27:43 here to edit within the CAD block. So,
+27:46 that allows you to edit just like it's
+27:48 ungrouped, but you're still working
+27:50 within the CAD block. You don't have to
+27:51 end up with all these extra CAD blocks
+27:53 in your plant.
+27:55 So, if you were to import those two and
+27:58 it's going to create those CAD blocks
+27:59 for them, but you would check the add to
+28:01 library button. It would add them
+28:03 library as separate CAD blocks in the
+28:06 library. Yeah. Yep. It'd be separate
+28:08 items in my user library. One day, I
+28:10 hope they say add to library in this
+28:13 folder. There you go. Yeah. You know, my
+28:17 my little trick with this too is if it's
+28:20 a lot of detail CAD stuff and I'm not
+28:23 I'm just referencing it. I'm not
+28:25 actually use utilizing the CAD. I'm just
+28:28 drawing over the top of it or something.
+28:30 I'll put this in a separate file and
+28:32 reference it so that I'm not get slowed
+28:34 down by big CAD blocks. Yeah. A separate
+28:37 a separate plan file you're saying?
+28:39 Separate. Yes. Yeah. Hey, Mike mentioned
+28:43 this. I want to tell you, hey, Mike,
+28:45 contact me. I I can make you those. He's
+28:48 asking about a dark mode uh icons for
+28:51 Chief.
+28:53 There you go. I did Apple theme icons
+28:55 for someone once.
+28:57 [Laughter]
+29:00 You have too much time on your hand,
+29:01 Renee. And I don't know how you have any
+29:02 time. It's automated. That part's easy.
+29:04 I'd do it for them.
+29:07 So, I have a question about the DWGs. Do
+29:10 they have it so you can batch export
+29:13 plan views as a DWG?
+29:15 I don't know. I didn't see that on the
+29:19 list anywhere. So, export project.
+29:23 That's not DWG. Export all
+29:26 floors. Um, this doesn't look any
+29:29 different than it's been.
+29:32 So, I don't think
+29:36 so. You would Yeah, you maybe want to
+29:39 export your elevations and all that kind
+29:41 What would happen if you what would
+29:42 happen if you grabbed them in your user
+29:44 library and then rightclicked on them?
+29:45 Do you get an export option there where
+29:47 you could multi select? I'm just looking
+29:49 at you get export all
+29:52 floors and you get export.
+29:55 Yeah, that's all I see.
+29:58 Edit, update, previewed, send to layout.
+30:01 Nope. Nope. I don't see any export all.
+30:06 Delete all. Edit. Well, one of these
+30:08 days. Okay. don't see it. Um, I just
+30:13 showed you a feature here. We can open
+30:15 and close windows and doors or windows.
+30:17 We could always open doors. Um, it's
+30:19 just a little new icon down here to open
+30:22 and close. Oops. And I just closed my
+30:24 plan, didn't I? What's my view? Um, so
+30:28 when you in the window,
+30:31 uh, here it is. So, you'll see an
+30:34 icon. Right now, it says to close the
+30:36 door or window or open it. So you get a
+30:40 new icon there and then you could just
+30:41 go into the dialogue for the item and
+30:44 how which the angle you want it to swing
+30:48 or if it's a you know like a double hung
+30:49 or something how you could probably set
+30:51 the distance that it opens. So if I only
+30:55 want that open bit can you open the
+30:57 window and jump out in a walkthrough?
+31:02 Probably. And then the other thing is
+31:05 you can set it up so that when you're on
+31:08 the floor plan, let's see where' they
+31:10 put that. Um, you can show it on the
+31:12 floor plan as well. Um, here it is.
+31:14 Open. Show open in 2D. So then if you,
+31:18 you know, if you're doing traffic
+31:19 patterns and things like that and you
+31:20 want to see how the window looks on the
+31:22 floor plan, you can. Yeah, it might be
+31:23 nice to show that as that's your default
+31:25 egress window graphic, you know. Yeah.
+31:28 Yeah. Exactly. So that's really nice.
+31:34 Um, okay. Um, we got a question from
+31:37 Karen Rose. She says, "Is that one
+31:40 window at a time or all windows to open,
+31:42 close?" I bet you could do all the
+31:44 windows at once. So, if I had You can
+31:46 select them all at once and do that
+31:47 setting. Yeah, I actually set up a style
+31:50 palette that is open and close door um
+31:53 tools, you know. So, it's just I get to
+31:56 swipe which ones I want open and close.
+31:58 Okay, show open. And so I've got them
+32:00 both checked. So I hit
+32:03 okay. And if I go look at my camera, so
+32:06 Aaron, you know how to make a style
+32:07 palette. You learned that in my class if
+32:09 you were paying attention. Um, make a
+32:11 style pallet with your open window, open
+32:14 door settings and add it to your
+32:16 toolbar.
+32:20 It didn't. Oh, you know, I bet if I set
+32:22 that up as a default, they'd be open
+32:24 right away. Although, why didn't it do
+32:26 it for both of them? So, when I selected
+32:29 them, I selected them from the floor
+32:31 plan and I thought I'd check that and
+32:33 maybe I missed something. Should be able
+32:35 to do it as a as a as a group.
+32:40 So, I highlighted the window icon. I
+32:42 highlighted all the windows. I open the
+32:44 dialogue. I hit You see that?
+32:50 Those are dashes. They got to be check
+32:52 marks. So, if I want to turn them all
+32:55 off, if I want to close them all, so now
+32:57 they're all closed. If I want to open
+32:59 them all, make sure those are check
+33:01 marks, not
+33:02 dashes. There you go. So, yes, you can
+33:05 do that. Erin was asking about 3D. Doing
+33:08 that in 3D. Yeah, she's going to do it.
+33:11 Select them in 3D. Any view. Just group
+33:13 select them. Absolutely. Yep. You can
+33:16 group select them from any view and
+33:18 modify them all at once, just like you
+33:20 can with anything. So, um, all right.
+33:24 I'm going to do one more thing and then
+33:25 we turn over to you, Renee. Do you have
+33:26 that list, Renee, by the way? Uh, no, I
+33:28 don't. You better. Okay.
+33:31 Um, we should have got a Google notice.
+33:33 If you go to your Google account, you
+33:35 should be able to open it. Um, I got I
+33:38 got a couple dozen to do yet. We're
+33:40 going to probably have to do three shows
+33:41 on
+33:43 this. Thought I could get through my
+33:45 list in one. Okay, I'll show a really
+33:47 cool one. Huh? What next? What's next?
+33:50 um gang boxes. Okay. So, you ever done
+33:54 electrical and you have these switches
+33:56 and they all kind of like they're close
+33:58 to each other, but um I'm in the wrong
+34:01 view, of course. So, what I could do now
+34:03 from floor plan or 3D is you can click
+34:07 on those switches. I don't know if there
+34:09 has I don't know if there's a distance
+34:10 that they have to be next to each other.
+34:12 I don't think so. Um, but you just click
+34:15 on them and there's a new icon down here
+34:19 to gang those together so you can make
+34:22 them into one. That's so nice. Back on
+34:26 your floor plan, you can still hook
+34:28 individual things up to them. So, that
+34:31 is that works really well. Um,
+34:35 let's see here. I want to I like that a
+34:37 lot. I do, too. I think that's a really
+34:40 nice little um feature that they've
+34:42 added, you know, a little productivity
+34:44 thing for him. That's probably what is
+34:46 under the productivity tab. Yeah. I
+34:48 mean, individually, it's really hard to
+34:50 get all that to look nice. So, in the
+34:52 view, so yeah. So, I would assume we
+34:55 could do the same with outlets. Let's
+34:57 try it real quick. I haven't tried that.
+34:59 So, let's put some Maybe you want a
+35:00 bunch of outlets. I don't probably
+35:02 wouldn't do this very often, but will it
+35:05 work? Let's find out.
+35:08 I highlight one, two, three. By golly, I
+35:12 got a whole bunch of outlets in one
+35:14 plate. Now that pretty cool. Go back. So
+35:17 that's telling me I could gain outlet
+35:19 switches, different kind of switches,
+35:22 all that stuff together. The other thing
+35:24 I really like is you could change the
+35:26 spacing in in 2D. So if you open that
+35:28 up, I could I could do that too now. Oh,
+35:33 it's like stacking windows probably.
+35:36 Okay, you can you got to group each row.
+35:40 And now I can make gang to look let you
+35:43 do that. Oh no.
+35:48 They're like uhuh. What are you trying
+35:50 to do? Heck of a of a wire packing.
+35:54 You're going to call the fire, buddy.
+35:56 Get out of here. All on a 10 amp
+35:58 circuit. Um
+36:01 will you will you open that up? That
+36:03 gang now.
+36:07 And now see the plan view spacing.
+36:09 That's that's something I really like.
+36:11 So set that to like two inches or
+36:12 something. Oh yeah. Um right here. The
+36:16 other thing that I like is is that you
+36:17 can offset the alignment. So offset it
+36:20 to the left for instance.
+36:23 Uh oh, this. Okay. Yeah.
+36:27 And so this is kind of a way that you
+36:29 can, you know, if you have switches
+36:31 aligned with outlets and but you got a
+36:32 plan view that you're dealing with, this
+36:34 is kind of a way you can do that.
+36:38 Help me understand that.
+36:40 You ever have a switch right on top of
+36:42 an outlet at a different height, you
+36:44 know, and you're trying to illustrate
+36:46 that they're both there in alignment.
+36:48 This is kind
+36:51 It'll just offset it in the plan view,
+36:53 but it'll still be correct in the 3D.
+36:55 Yeah. Yeah. Cool. Like that. Um, and the
+36:59 other thing I was reading about that is
+37:02 you can now have that report on the
+37:05 schedule as separate outlets even though
+37:07 they're ganged together. So you could
+37:09 have different kinds of outlets in there
+37:12 ganged in one with one plate. So anyway,
+37:16 so there's a I wish Robin was here by
+37:18 the way because she would get fired up
+37:20 at this question from Mike. Yeah, I was
+37:22 just thinking the same thing. What's
+37:24 that question? She would blah blah blah.
+37:28 What's the What's the question? She's
+37:29 listening. You guys permit authority
+37:32 does not require an electrical plan.
+37:33 Would you create one anyways? I would
+37:35 only want to do an electrical plan if it
+37:37 was 100% signed off by the final buyer.
+37:40 And this is where I'm the professional.
+37:42 I know how to do lighting. I want your
+37:46 space to look as good as it possibly
+37:48 can. I am absolutely doing an electrical
+37:50 plan. And don't screw it up. I'm with
+37:53 you, brother. Besides, you need that in
+37:55 order to hand things out to trades for
+37:56 bids. You know, they they need to know
+37:58 whether you're talking about six can
+37:59 lights or 60 can lights, you know. So,
+38:02 yeah.
+38:03 Yeah. But he's designed build and he
+38:05 maybe he's his own electrician. Who
+38:07 knows? Yeah. Could be.
+38:11 Hide camera facing exterior walls. You
+38:14 guys ever use that? Oh, yeah. Okay. It
+38:17 used to be it would hide the wall, but
+38:19 nothing on the wall. Now it hides the
+38:22 things that are on the wall as well. Oh,
+38:24 cool. So, everything except base
+38:26 cabinets, right? But it hid the wall
+38:29 cabinets, which I don't know why.
+38:32 So, yeah, this that's a really nice way
+38:35 to look in your look into your house.
+38:38 So, how I keystroke of HW
+38:42 maybe base cabinets because they're
+38:44 attached to the interior. No, that
+38:46 wouldn't be it. Uh, what happens with a
+38:48 toilet that's attached to that wall?
+38:51 Uh, I don't have one attached. Should be
+38:53 hidden. Let's go find a toilet.
+38:59 Um, Rene's toolbar. I would be done by
+39:01 now.
+39:03 Um, let's see here.
+39:07 There you go.
+39:10 So, let's go. And is it attached at this
+39:14 point to the wall? It's pushed against
+39:16 the wall. Okay. Yes. You know, if I
+39:19 click on it here, it's bammed. It's
+39:22 bumped against the wall. So, no, it does
+39:24 not. All right. Now, raise it one inch
+39:25 off the floor. It's just going to say if
+39:27 it's probably takes Yeah, the floor
+39:29 takes precedence. The floor takes
+39:31 precedence over the wall. So, you can
+39:34 bump your your base cabinet. Go move the
+39:37 base cabinets up a 16th of an inch.
+39:40 Exactly.
+39:41 I bet you that we're making a 16th of an
+39:43 inch shorter than being six a 16th off
+39:45 the floor. Let's just raise them up
+39:48 116th of an
+39:50 inch and go hide my walls. This is where
+39:54 we just start playing everybody. Yeah.
+39:56 So, yeah, we're being goofy now. Come
+39:58 on. What's going on? So much for the
+40:00 list. We We found a squirrel.
+40:04 It didn't work. I tried it. Still shoved
+40:07 it.
+40:08 How much do I have to go? Base cabinets
+40:11 just will not go. Okay. So, don't hang
+40:14 any base cabinets on the wall. Um, I
+40:17 wonder if there's a setting for that
+40:18 because sometimes you do have wall the
+40:20 cabinets hung on the wall. Uh, I wonder
+40:22 if there's a setting in the base
+40:23 cabinets to turn to to control that. So,
+40:27 if someone finds that, speak up. We're
+40:30 not going to look for it now. The
+40:32 outlets do turn off though, right? All
+40:34 the electrical, doors, windows, all that
+40:36 turns off. Yeah.
+40:39 Yes. Yep. You're fine. Nobody can see.
+40:46 Okay,
+40:50 talking to somebody on the golf course.
+40:52 My wife and mother-in-law have to leave.
+40:53 They don't want to be in the camera. Um,
+40:56 okay. Let's get out of here. And uh, I'm
+41:00 just going to keep going. Renee, you get
+41:01 the show next time.
+41:03 Um, drag and drop views from project
+41:06 browser layout. I like this one a lot,
+41:07 too. So, if I go open a new layout,
+41:11 um, and that's one of the nice things
+41:14 about the project browser. When you open
+41:15 a new when you create a new plan, it
+41:17 creates a new layout to go with that
+41:18 plan automatically if you want it to,
+41:21 which is kind of nice. So, then it stays
+41:23 in the same place, same folder. It's all
+41:24 set to go. just start putting stuff on
+41:26 it in the if your template has a bunch
+41:30 of stuff views already on it just I
+41:32 wonder would it automatically link it to
+41:34 the new plan and populate it
+41:37 automatically? Have you checked that
+41:38 yet, Renee?
+41:40 Um, so I do a different thing and this
+41:43 was in that project management video.
+41:45 Okay. Which I don't use the template. I
+41:47 just copy my project that has all the
+41:49 links in it already. Oh, okay. Yeah,
+41:52 I'll have to watch that. That sounds
+41:54 pretty interesting. Uh, what am I doing
+41:56 here? I'm looking to create a new
+41:57 layout. Um, open.
+42:01 So, basically, new project. That's what
+42:04 they want you to do. Oh, I would already
+42:05 have a layout with this project. What am
+42:07 I doing? Um, what's new in X17? When I
+42:10 created this, it already created the
+42:13 layout with that. So, if I go to new and
+42:16 that, here's my new
+42:18 layout. Um, I think I can just open it
+42:20 from here, right? Open.
+42:24 Come on. There we go. There's my new
+42:27 layout. Let me just tile my
+42:32 screen. So, I could take um So, I've
+42:35 saved this view. Let's save this view
+42:37 quick. So, I'm going to click the the
+42:40 this icon right here with a pencil.
+42:42 These are again these are my three
+42:44 favorite icons these days. And this is
+42:48 my new view, I'll call it. Okay. And I'm
+42:52 going to click
+42:55 okay. And I'm going to then go to my
+42:59 layout, which apparently I closed. There
+43:01 it is. Okay. And I'm going to go to my
+43:03 project browser now. And I'm going to go
+43:06 um click on the
+43:11 cameras. And where' I go here? New X17.
+43:17 I'm in my plan. I'm in my cameras first
+43:19 floor. Here's my new view. I just drag
+43:21 that onto the list. Yeah, that's so
+43:23 nice. I feel like this is the start of a
+43:27 a really nice feature, too. Like this is
+43:30 the entry level drag and drop. We're
+43:32 going to get more robust drag and drop.
+43:35 Again, remember your alternate alternate
+43:38 um move is with your right mouse button.
+43:41 You want to make those views bigger and
+43:42 smaller, use your right mouse button on
+43:44 the corners. So, that works really
+43:47 well. But, I like that a lot. So, I wish
+43:51 though what I could do is just drag this
+43:54 on top of that
+43:55 viewport and replace what's in that
+43:57 viewport with um what I just drag on top
+44:01 of it because I do, you know, because I
+44:03 might have a lot of viewports in place
+44:05 already where I want to, you know, I do
+44:08 replacement mode. Yeah. Yeah. Yeah.
+44:12 Um put that on the list.
+44:16 Everything we've taught over time is to
+44:18 establish those viewports in your layout
+44:20 and use them consistently. So yeah, so
+44:23 that's not avail.
+44:25 Well, you still have to do the same old
+44:28 relink it to, you know, that view. Click
+44:31 okay. And now I've just replace that
+44:33 view with the new one. And there it is.
+44:36 So it's really not that much harder.
+44:39 Right.
+44:40 Rene, can you answer Chad's question? Uh
+44:43 I don't see that screen guys. What is
+44:45 the question? Uh in the cross slider 3D
+44:47 views, how do you improve the lighting?
+44:49 Mine seems dark.
+44:52 Um that I would change to a lighting set
+44:58 using a lighting set so that it's um
+45:01 redoing that 3D based on that lighting
+45:03 set. And then keep in mind automatic
+45:05 exposure is the default rendering. So,
+45:08 if if you're talking about a ray trace
+45:10 view and you're in a cross-section
+45:11 slider and it's too dark, you might want
+45:13 to switch to manual exposure and
+45:15 override those settings, especially if
+45:17 you're coming from, you know, an outside
+45:19 3D view where it's not necessarily using
+45:22 a light set. It might just be using um
+45:25 just your settings for how many lights
+45:27 are turned on.
+45:29 So, there's a couple different ways
+45:31 might address that
+45:34 issue. And then yeah, you're showing a
+45:36 new feature that I love.
+45:39 Pretty cool. So I'm clicking on that
+45:41 gang of outlets, right? And you have one
+45:44 of them connect and I've got two
+45:47 switches connected to different lights.
+45:50 So I hit my tab key. Now you see I've
+45:51 got that center one. Yeah. And I've got
+45:54 this little thing right here. If you
+45:56 look at the icon, it's a light with a
+45:58 little slider on it. So I can turn the
+46:01 the dimness up and down on that. Let me
+46:04 just switch to PVR here and see how that
+46:06 looks. Yeah. So, if you have if you've
+46:08 used the electrical connection tool and
+46:10 connected it to your full made your full
+46:12 branch circuit, now you can control all
+46:15 those lights from the switch. And if
+46:17 it's a ganged one, like Dan said, you
+46:20 got to tab into it to get this setting.
+46:23 Yeah. So, that's one way you're going to
+46:25 see how that lights dim or off compared
+46:27 to that light now. So, um I think that's
+46:30 pretty cool. That's going to give us a
+46:32 lot of flexibility with how we do
+46:34 things. So, I like that. You can also,
+46:37 what were the other ways? You could go
+46:39 to the this one up here, right? And you
+46:42 could adjust them here by adjusting the
+46:45 intensity or brightness or, you know,
+46:47 you could group select them, adjust them
+46:49 all at once if you want. Um, but again,
+46:52 you use light sets, so you would just
+46:53 apply a different light set to the to
+46:55 the space. You get to cover that one
+46:58 next time. That is on the list. catch
+47:01 this one about Mike actually. What's
+47:04 that? He's asking my most favorite thing
+47:06 I've ever seen Dan do is where he
+47:08 creates a reference drawing that shows
+47:09 as built versus new with partial glass
+47:12 house. Um the reason I wanted to show it
+47:15 um on my side was going to show you how
+47:17 to do this with the project browser. All
+47:19 right. Well, we've got eight minutes
+47:22 left. I probably need five. Okay. Yeah.
+47:27 Yeah. Five computer minutes, hockey
+47:29 minutes, football. I have my minutes.
+47:32 Five my minutes. Okay, go ahead. Here we
+47:35 go. I copied my I copied my entire
+47:38 template plan over and I started drawing
+47:40 just in the last two minutes. I drew
+47:42 this little thing here. I already have
+47:45 my asbuilt sent to layout. In fact, it's
+47:48 sent to two different layouts. So, I
+47:51 drew what will be my asbuilt in the new
+47:54 plan file, which is also sent to these
+47:56 layouts. I will click on asbuilt replace
+48:01 with. It's going to warn me that the
+48:03 asbuilt's been sent to two different
+48:05 layouts right now. I'm still going to
+48:07 say replace and I'm going to pick the
+48:10 new plan. That's my active tab right
+48:13 now. This is not a save as. What I did
+48:16 was basically transfer all this data in
+48:18 the new plan to the
+48:20 asbuilt. So here's the next part of
+48:23 that. I'm going to draw a little
+48:24 addition off the back here.
+48:27 When I go open up my template layout
+48:30 plan, you're going to see there's my
+48:34 plot plan being developed from new.
+48:36 There's my asbuilt that I just
+48:38 transferred. There's my new on the next
+48:40 page and it's establishing all my views
+48:43 are present. Everything's done. I have
+48:46 to rebuild my elevation views, etc. But,
+48:50 um, all this stuff is linked and sent.
+48:52 And not only is it sent to this ANCD
+48:55 layout, but it's also being sent to an
+48:57 NCB layout at the same time. It's the
+49:00 same projects being sent. So, this is
+49:03 what's really cool about project
+49:04 browser. And then just to show what um
+49:08 Mike was talking about is that we could
+49:11 come in here um to the Asbuilt side if
+49:13 we wanted to, if this is maybe what we
+49:16 want to do, and pull a 3D view. And then
+49:19 we're going to change and um change our
+49:21 floor reference, which is your updown
+49:23 floor key. And I will go target my new
+49:27 plan right there. And I can show it as a
+49:29 glass house in this view.
+49:33 There you go. So, and I did that in five
+49:36 minutes. So, nice job. Even less than
+49:41 Yeah. Wow. Um, so yeah, that is cool.
+49:44 those uh the floor the
+49:48 floor to number when you click the floor
+49:52 number you can specify that is this this
+49:56 view now we're working in this view we
+49:59 could save these views you know we could
+50:01 hit the save as view and create a new
+50:03 view to do this in so that view stays
+50:05 and we just have to go reselect it
+50:07 anytime and then you're just selecting
+50:09 what you're going to reference so just
+50:11 pick a different project as long as
+50:13 they're in the same spot got you know
+50:14 the same coordinates um you you will be
+50:18 referencing floor plan elevation 3D
+50:20 views any of those different views can
+50:22 be referenced that way so give it a try
+50:25 just click on the floor number click on
+50:28 let's see which one is it we want to go
+50:30 to the reference reference display layer
+50:33 choose a no we want to choose oh the
+50:37 project plan choose the project so
+50:39 choose a different plan and then you can
+50:42 reference that anyway If you haven't
+50:44 done that before, bring it up again.
+50:45 Next time we'll talk more about it. All
+50:48 right, where am I?
+50:50 Uh, I think we're getting to the end of
+50:53 our
+50:56 time. Specify image resolution. That's
+50:59 kind of a nice one. I like that because
+51:01 when you're on the layout, you're
+51:03 sending views the layout. See how they
+51:04 look so grainy? They'll print perfectly
+51:07 fine. I mean, that works, but sometimes
+51:09 you want them to uh look nice on the
+51:12 layout page, too. I don't think I can
+51:14 adjust it once it's on the layout. Can
+51:16 I? I don't think I have to adjust it on
+51:19 the way to the layout. So, if I bring up
+51:21 that 3D view
+51:23 again, I send this to the layout. I now
+51:27 have the option to Where's that? I've
+51:31 never done this before. I just saw it.
+51:32 Current screen image as what size do you
+51:35 want it to go? So, let's go 1024 by 818.
+51:39 So, you just go higher resolution. I
+51:41 wouldn't go too high. Um, and let's
+51:44 click okay. You can make it a
+51:46 transparent background if you don't want
+51:48 any background. You just want the house.
+51:50 Um, which is kind of cool. Uh, so there
+51:53 you go. So, now you're always going to
+51:55 have Why does it look so skewed? You
+51:58 change the resolution to something
+52:00 weird. Did it Did it not change it in?
+52:03 Wait, see if you can't uh go do the
+52:06 other one. Um, now that you know where
+52:07 the button is. Retain aspect
+52:12 ratio. Do Oh, yeah. Open the open this
+52:17 um length view.
+52:20 Uh oh. Because it's a live view. It's
+52:22 not an image. Okay. Yeah, that's why.
+52:25 Gotcha. But it's still sending these as
+52:28 a live view. No, no, that's just a it's
+52:31 just an image. Becomes an image now. Oh,
+52:33 it does become a picture. Well, that's
+52:34 no good. I want my views to update, man.
+52:39 Well, if you're someone that's sending a
+52:40 ton of these, it's it's better just
+52:42 sending a static image because if you're
+52:44 sending the high-res images, yeah, see,
+52:47 I don't do a lot of that. So, especially
+52:49 in the early stages of a project. Um,
+52:51 but yeah, if you're creating a layout
+52:53 with high-res images, you know, super
+52:55 duper um, uh, rendered, yeah, you'd want
+52:58 to send pictures because it would take
+53:00 forever for that layout to print that
+53:02 because it's going to refresh every one
+53:04 of those views, every view. So, yeah.
+53:07 All right. Um, is there a way to do do
+53:09 the I wish we could also specify the
+53:12 size of the image on the layout page
+53:14 from the dialogue box.
+53:19 the size of the image on the layout page
+53:21 and bringing it in big like that and
+53:23 having to resize it. Oh yeah, that would
+53:26 be nice. That would be nice. Um that's
+53:29 why what I always do is I just um save
+53:33 the image, you know, click the little
+53:34 pencil, name the image, you know, name
+53:38 the image, and that's going to be saved
+53:40 in your project browser. Then what I'm
+53:43 going to do is on my layout, I'm going
+53:44 to create the boxes that I want that to
+53:48 be in. So, you know, if I'm going to do
+53:51 um maybe I want to do three of these
+53:55 views, I'm going to create the same
+53:57 boxes and I'm just going to replace that
+53:59 view with the one I've just saved. Name
+54:02 that image. There it is. Click okay.
+54:05 Click okay. Now I can use the icon down
+54:08 here to roll in and out on that to make
+54:11 it fit the box better.
+54:13 Oops. My c my camera burped. There we
+54:17 go. There we go. Now I can move that in
+54:20 there. So again, when I print that,
+54:21 it'll print perfectly clear. That's how
+54:23 I do it on my layouts to keep the images
+54:25 the same size. Just keep the get your
+54:27 image get your viewports in there, your
+54:31 layout boxes, and then just replace what
+54:33 shows up in those. And I think that
+54:35 works really well. Erin's got a good
+54:37 question that I just want to answer real
+54:39 quick. Can we save and plan when we
+54:41 import image or PDF on the import
+54:43 window? This would be a reason that
+54:45 project browser really shines is when we
+54:47 import a PDF, this brings it into the
+54:50 asset manager. It's now associated with
+54:53 the plan. When you go save a project
+54:56 file, export a project file to a team
+54:58 member, it will automatically import
+55:00 that with it and it'll put that in their
+55:03 own asset manager. So done. Yes, you
+55:05 don't have to click the image and open
+55:07 the file and hit save in plan. It I
+55:10 checked this already. It's already saved
+55:12 in the plan. So yes, it'll do that with
+55:15 images and things like that too. So if I
+55:17 have a question, Renee, can I export Can
+55:21 I export to a Dropbox file?
+55:24 Yeah. Okay. Yeah.
+55:28 Yeah. I mean, that would be my main
+55:29 workflow working other people. Yeah.
+55:32 Exactly. So, I don't know what Norman's
+55:35 talking about here. Forget the share
+55:37 model feature. I don't know feature.
+55:46 I don't know that one. No. Armen. Dan,
+55:49 can you show my favorite favorite
+55:51 absolute top favorite feature?
+55:55 I don't know. You're gonna have to tell
+55:57 me what it is.
+55:59 Will you turn your 3D view? Bring up a
+56:02 3D view. I can do that. You got one
+56:04 right there open already. I know what it
+56:06 is. Temporary dimensions.
+56:10 You betcha.
+56:14 That is really, really, really, really,
+56:16 really nice. I didn't even get to that.
+56:18 Cool.
+56:21 You know, you could even you don't even
+56:22 have to do temporary. I could just do my
+56:24 automatic and there's all my dimensions
+56:26 now. I could do all my dimensioning in
+56:28 this view. So, I could click on that.
+56:30 What did I just put in
+56:32 there? Something I didn't want. But I
+56:35 could click on that now and, you know,
+56:37 dimension it from this view if I wanted
+56:39 to. I can do the same things I could do
+56:41 on the floor plan. I believe I can add
+56:43 dimensions to different spots. I can
+56:46 what is that in read? I'll read that
+56:48 later. I'm still getting used to it, but
+56:50 what a an improvement in designing in
+56:52 3D. It's just Yeah, no kidding. It is
+56:55 really cool. There's a lot of things you
+56:57 could do with this. Um Scott did a
+56:59 pretty good video on that link I gave
+57:00 you to go watch that. The other thing to
+57:04 know about dimensioning, one of the cool
+57:06 things to know about it, so if I want to
+57:07 dimension this wall, I have to click the
+57:09 ruler item. The first thing you have to
+57:10 do is you see how the the the plane
+57:13 changes here?
+57:15 Okay. So, you have to click the item you
+57:17 want to put the dimension on to set the
+57:20 plane and then you can go draw the
+57:22 dimension and it'll pick up the things
+57:24 on that plane. See how that's you don't
+57:27 just start drawing a dimension. You have
+57:29 to click the plane first. And that's
+57:31 what the one thing you got to click on.
+57:33 The other thing to keep in mind when
+57:35 you're doing that is when I click the
+57:36 ruler icon, you're going to get some new
+57:38 icons down here. Okay? Those little
+57:40 hidden left column icons. Um, one of
+57:43 them, one of them is to, uh, draw the
+57:46 bounding box. I'm not sure what that
+57:49 does. This last one is going to set how
+57:52 far it is away from the object that
+57:53 you're dimensioning. I've set mine at
+57:55 12. So, when I rotate this, you'll see
+57:57 that my dimensions 12 in away from the
+58:00 wall. So, you could do that with your
+58:02 cabinets and all that. The other thing
+58:03 to keep in mind with the new
+58:04 dimensioning feature is if you want to
+58:06 change the the dimensioning defaults,
+58:09 you're going to go into the little
+58:11 pencil icon here to view the U view
+58:14 specifications and you got your selected
+58:17 defaults can be set up here now. So you
+58:20 could change this for each camera view
+58:23 that you're working on. So if you you
+58:25 can use the camera and then you want to
+58:28 do kitchen dimensions. Well, change this
+58:30 to your kitchen dimensions and then use
+58:32 that. Change this to your kitchen text
+58:34 and use that. So you would change that.
+58:36 I set up a a new default set so that I
+58:40 can drive the dimensions 3D. I haven't
+58:43 even I haven't even gotten into that. So
+58:45 but yeah. Hey, will you select the wall
+58:47 on the other side? Um or the door on the
+58:50 other side. And the same thing with text
+58:52 when you're doing the new text in 3D
+58:55 tool is um you have to select the plane
+59:00 you're going to put the text on. First
+59:03 you click the text icon or the hotkey,
+59:06 click the plane you want the text to be
+59:08 in, then add your text. So I'm drawing
+59:13 my arrow first and then I'm putting it
+59:16 in. Okay. I struggle with that. I'm glad
+59:17 you're showing this. I've tried failed.
+59:20 Click the surface you want. You got to
+59:22 set the plane. That's the key. So when
+59:25 you're doing this, see how that grid is
+59:27 there. Yeah. And once you set the plane,
+59:30 then you're ready to go. Okay.
+59:34 That's the number one. The wall on the
+59:36 left hand side, the one with the window,
+59:39 you didn't dimension to this one. Yeah.
+59:42 Go ahead. There's an icon to dimension
+59:44 this. So you don't have to go to the
+59:45 dimension tool. You can go that is right
+59:49 there. That little icon will dimension
+59:52 that. Is that to the whole wall or just
+59:54 the edge? I've
+59:57 um I think it dimension. Yeah, it
+59:59 dimensions the selected edge. Okay,
+1:00:01 there's my active edge. So, when when I
+1:00:04 click that tool, it's going to
+1:00:06 dimension. It should dimension that line
+1:00:08 right there up and down. So, you got to
+1:00:10 highlight the active edge you want to
+1:00:12 dimension. So, if I want to dimension
+1:00:14 the edge of this window, see how I got
+1:00:16 that edge selected? Click that tool.
+1:00:18 You're going to get the height. You want
+1:00:19 to do the width, do the width. Okay. So,
+1:00:23 click the edge. I love that. That's
+1:00:25 really cool. That is I I haven't even
+1:00:27 used this yet, but I'm already loving
+1:00:29 it. So,
+1:00:31 then
+1:00:32 you're back to that bounding box. Go
+1:00:34 back to that bounding box thing.
+1:00:37 The bound Okay. Yep. What' you find out
+1:00:39 on that? They did a good good thing on a
+1:00:42 good video on this yesterday. When it's
+1:00:44 on the bounding box, it's going to
+1:00:45 dimension to the bounding box. When you
+1:00:47 select the other one, it's gonna it's
+1:00:49 going to dimension to the items in the
+1:00:51 bounding box.
+1:00:53 That's great. That's really great. You
+1:00:56 could tell it and tell it to me one more
+1:00:58 time. So, I click on for a toilet. Like
+1:01:00 for a toilet toilet. That's right. I did
+1:01:04 see that. The one that's going to do to
+1:01:05 the bounty box, the other one that's
+1:01:07 going to do to the sides of the toilet
+1:01:09 where you're pulling to. Yeah. Yep.
+1:01:13 Um, so if I the one the one that goes to
+1:01:15 the sides of the toilet, does it ignore
+1:01:16 the handle? The old one, the old way did
+1:01:19 not. And the handle was it threw off
+1:01:21 center. I don't know. So when I click on
+1:01:23 this and I want to dimension the
+1:01:25 bounding
+1:01:27 box, I click that and now I'm
+1:01:30 dimensioning the box. Again, you got to
+1:01:32 click the side you want to dimension. So
+1:01:34 I should have clicked the front and now
+1:01:37 I can do my dimension from there to
+1:01:40 there. So, does take a little getting
+1:01:42 used to. I haven't quite got it mastered
+1:01:47 yet. What am I doing
+1:01:49 here? Whatever. We'll come back to that.
+1:01:52 But anyway, that's what that that's what
+1:01:53 those two buttons do. But it is really
+1:01:56 really cool. So, check that out. Um, and
+1:01:58 have some fun with it. I think you'll
+1:01:59 enjoy it. And the automatic features
+1:02:01 work, too. So, if you click on a room
+1:02:04 and you click the auto room, you know,
+1:02:06 auto room dimension tool down here on
+1:02:08 the toolbar, it'll dimension that room
+1:02:10 inside. So, that's pretty cool, too. So,
+1:02:13 let me get to the just I'm not going to
+1:02:16 save that one or get to get to this
+1:02:20 view. And again, if I click on the room,
+1:02:23 hit the auto dimension room. There's the
+1:02:25 dimensions for that room. I want to move
+1:02:28 that window, I can do it here. Click
+1:02:31 click there. I can't imagine how they
+1:02:32 programmed this. This is really cool.
+1:02:34 Um, this is more this now we're getting
+1:02:36 into the SketchUp world, aren't we? I've
+1:02:39 never used SketchUp, but I'm assuming
+1:02:41 it's a lot like
+1:02:43 this. Okay, you guys, I think we're
+1:02:46 done. One more thing. One more thing.
+1:02:49 Okay, just one more. Okay, go to the
+1:02:51 dimension. Click on a dimension and then
+1:02:53 um double click on click click on your
+1:02:56 dimension tool. Oh, okay. So, what do
+1:02:59 you want me to click on your dimension
+1:03:01 tool now? Double click. Hit the down
+1:03:04 arrow and double click on dimension
+1:03:06 type. Oh, which one you want? Double
+1:03:09 click on that. Yep. Is that new or has
+1:03:13 that been there for a while?
+1:03:15 It opens it up right to the dimension
+1:03:17 style that you're using to the layer
+1:03:19 that it's on. I think that's new. I
+1:03:22 don't think it used to do that. Is what?
+1:03:24 Say it again.
+1:03:26 When you highlight one of the
+1:03:28 When you wanted to change your
+1:03:29 dimensions before, you had to go into
+1:03:31 the defaults to do that. No, you could
+1:03:33 always click on the rulers. You could
+1:03:34 double click them, but but it always it
+1:03:36 would always open the general, I think.
+1:03:38 Right. Here's the other new cool thing.
+1:03:41 Look at this. Set up temporary
+1:03:43 dimensions for
+1:03:45 every next show. Every view. I like that
+1:03:48 one a lot. So, that is a nice one. But,
+1:03:52 uh, cool. Awesome. That was fun.
+1:03:57 That was fun. That was a good one. Yeah.
+1:03:59 Any other good questions that we have
+1:04:01 for one more? What's Mike? What's that
+1:04:03 one? Mike's asking, "How many people
+1:04:05 would it take to request a 1-hour class
+1:04:08 from your perspective on using 3D mouse
+1:04:10 in Chief?" Oh, that'd be good. It'd be a
+1:04:12 good one. Probably one person. Go buy
+1:04:15 it. Go buy it. Commit to one month of
+1:04:17 learning it and never look back.
+1:04:20 Absolutely. I mean, just do it. That's
+1:04:23 one of those things. Just do it. You'll
+1:04:25 be happy. you will struggle the first
+1:04:27 week, you will not struggle as much from
+1:04:30 then on. And by the time the month is
+1:04:32 up, you will be lost if you don't have
+1:04:34 your 3D mouse because using a Mac, it
+1:04:37 still has issues, but hopefully
+1:04:39 hopefully it's getting worked out.
+1:04:42 I got a shameless plug before we go. Oh,
+1:04:45 go for it. My new pro plan
+1:04:48 X17 automatic foundation vent
+1:04:52 calculations. Automatic
+1:04:56 roof vent
+1:04:57 calculations built
+1:05:00 in and brace wall panel calcs as well.
+1:05:05 Goodbye. Did you guys know that Renee
+1:05:08 can now link to a spreadsheet in Chief?
+1:05:11 Yep. It's like Chief does not allow what
+1:05:15 is that called? Um when you can program
+1:05:18 outside of the
+1:05:20 program how to do it. It's um they've
+1:05:23 had it for a while. It's been in there
+1:05:24 for a while. A couple users have used
+1:05:25 it. I just never really had a use for it
+1:05:28 until recently. And Okay. Yeah. Awesome.
+1:05:32 What's really cool is it could write
+1:05:33 back to a a CSV file. I just haven't
+1:05:37 thought of a a use for that, but I'm
+1:05:40 sure someone has one.
+1:05:42 H. So, yeah.
+1:05:46 Awesome. You guys, uh, great show. Glad
+1:05:48 you could join us. We'll talk more about
+1:05:49 this next time. Probably next couple
+1:05:51 shows we'll do updates on what's new and
+1:05:53 uh keep you guys moving forward. Oh,
+1:05:56 look at the I forgot. I like this idea
+1:05:58 from Chad. We should make a a 3D mouse
+1:06:01 exercise plan. I can guarantee you it'll
+1:06:03 have a lot of Kevin's in there.
+1:06:08 Yeah. I haven't mastered I haven't set
+1:06:10 up buttons on my 3D mouse like you have,
+1:06:12 so I couldn't do all that. You could be
+1:06:15 like the Star Wars, you know, shooting
+1:06:17 the Death Star. Yeah. Hey, one other
+1:06:20 thing on the 3D mouse. Uh, we did talk
+1:06:22 about, you know, maybe there's some
+1:06:24 issues you're going to have to overcome
+1:06:25 if you're on a Mac. Maybe not. We We
+1:06:27 just haven't figured it out. But also
+1:06:29 keep in mind that there are three
+1:06:31 different 3D mouse models. Still just
+1:06:33 three, right? So So which one would you
+1:06:36 recommend that people get since you said
+1:06:38 just do it? Why don't you bring up that
+1:06:40 page, Renee, real quick? Long as we're
+1:06:42 on that topic. Just hold yours up. Get
+1:06:44 Dan and I to argue. That's that's why.
+1:06:46 Just hold up. No, I would I would get
+1:06:49 Rene's by in a heartbeat now. I would
+1:06:51 never buy the one I bought. Oh, yeah. I
+1:06:53 would never buy. Which one did you get?
+1:06:55 I just paid a lot extra money for a nice
+1:06:57 a handrest. Oh, you've got that one now.
+1:07:00 Oh, okay. I thought you just used the
+1:07:02 the plain old I like I like this one.
+1:07:05 This one feels very ergonomic to me. Um
+1:07:08 Okay. Yeah. You don't have the screen on
+1:07:10 that one. That's just got the buttons.
+1:07:12 No, I bought this one because I liked
+1:07:15 how the buttons were. John, you guys
+1:07:18 have gonna have to turn Put that closer
+1:07:21 to your face. There you put it closer to
+1:07:23 your face. There you go. So, John got
+1:07:25 the super duper complex. That's the one
+1:07:27 I have. Yeah. So, I paid a lot. I like
+1:07:30 the big grandma buttons. You see these?
+1:07:31 They're huge. Yeah. The same one has.
+1:07:36 So, yeah. So, I paid a lot of extra
+1:07:38 money for that nice handrest that John
+1:07:39 just showed you. Um
+1:07:42 I don't I would I would recommend either
+1:07:44 one, the one that Renee has or the one I
+1:07:46 have because it's got control space
+1:07:48 delete right there that you can use. You
+1:07:50 can still be using the mouse while
+1:07:52 you're holding the shift key down. Yeah.
+1:07:54 Or the control key um for selecting
+1:07:58 things. That's the one I would either
+1:08:00 one of these two I I would recommend.
+1:08:02 That's part of that month-long training
+1:08:04 of yourself. You have to get used to
+1:08:05 using those buttons with your fingers.
+1:08:07 So, you have to make it kind of memory.
+1:08:09 What do you call that?
+1:08:11 where you remember automatically muscle
+1:08:13 memory. Make us a 3D mouse exercise
+1:08:15 plan. All right,
+1:08:17 cool. Uses a space mouse wireless hockey
+1:08:20 puck style. Yep. Same one as Renee.
+1:08:24 Yeah. Awesome. You guys cool? I think I
+1:08:27 gave that to someone.
+1:08:30 Your old one? Yeah.
+1:08:33 Yeah.
+1:08:36 We got to go. We're way over, but we did
+1:08:38 start late. So, sorry about the mix up
+1:08:40 at the beginning if you joined us and
+1:08:42 because we had the wrong time set up,
+1:08:43 but we got that fixed and here we go.
+1:08:45 We'll see you in a couple. I like Chad's
+1:08:46 comment. His looks cool sitting on his
+1:08:48 desk.
+1:08:49 [Laughter]
+1:08:53 Also, it's not just doing that. Like, if
+1:08:55 it's Chad, I'm sure it's doing a lot
+1:08:57 more than just sitting
+1:08:58 there. See you guys. All right. See you,
+1:09:01 Blake.

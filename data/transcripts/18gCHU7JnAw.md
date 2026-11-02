@@ -1,0 +1,1758 @@
+---
+videoId: 18gCHU7JnAw
+title: Template Tuesdays #8 - Improving YOUR renderings and documents
+url: "https://www.youtube.com/watch?v=18gCHU7JnAw"
+status: imported
+---
+
+# Transcript
+
+0:03 Hello, Template Tuesday people.
+0:07 Um, Template Tuesdays was the worst idea
+0:10 I have ever had.
+0:14 And that's because it turns out I have
+0:18 just such an active mind on a Monday
+0:21 night. And it's been a repeat now
+0:24 several times that I've just been up
+0:26 super late Monday night working on
+0:28 something new. And uh and then I got to
+0:31 get up really early and and have this
+0:33 high level of focus.
+0:36 So we'll see how we do. Maybe we get
+0:37 some trickle over effect from from last
+0:39 night because man, I was on fire. I was
+0:41 doing some cool stuff. So, um, what I
+0:45 want to get into today is if you're a
+0:48 member on my
+0:50 on my Facebook group, the Rabbit Design
+0:54 Feed, then you know that I posted
+0:56 recently that I want to get some um some
+0:59 user inputed drawings so that I can
+1:02 basically take them apart, but in a nice
+1:05 way and and help you improve.
+1:09 And I'm going to I'm going to do that
+1:12 and that's going to be part of my uh
+1:14 membership side of YouTube. But I
+1:16 thought I would do just a preliminary
+1:17 one um inside of Template Tuesdays as a
+1:21 bit of a freebie and and then just I
+1:25 don't know. I don't even know what we're
+1:26 going to run into. So, let's jump into
+1:28 it.
+1:30 See if I can manage to get my cam set
+1:32 up. There we go. And so I need to be
+1:36 able to say who this is if they wanted
+1:39 their name announced before we even do a
+1:42 little reveal here. Um, which is
+1:51 go ahead and tag us or me. I designed
+1:54 it. Ryan Stones then. Ryan Stones, I'm
+1:57 opening up your plan today. And I'm
+2:00 going to just start by opening up your
+2:02 layout.
+2:05 And then Ryan Stones, you got a company
+2:07 name? Um, Ashlin Design Builds. Okay.
+2:12 And he says, "We're always looking to
+2:13 grow and improve. So, we'd appreciate
+2:15 feedback and happy to be a guinea pig
+2:17 for others." Hey, Ryan Stones, that
+2:21 takes some stones, my friend. Thank you.
+2:23 Thank you very much for submitting this.
+2:25 Um,
+2:28 boy, I don't even know that I like
+2:29 submitting things to other people to
+2:31 pick them apart. So, you know, that's
+2:34 that's cool. I appreciate it. Uh, which
+2:36 must mean that this is a nice kitchen.
+2:38 Um, because I already see the document
+2:41 side and I see some things I want to
+2:43 touch on right away. But, uh, uh, let's
+2:47 let's open this bad boy up. See what you
+2:49 got going on here. You got some cool ray
+2:52 trace images on the front cover. And I
+2:54 got a couple pointers I can see already
+2:56 with this. And
+2:59 yeah, and it does not look like you're
+3:02 using AI and maybe you don't want to and
+3:04 and that's totally fine. Um, sometimes I
+3:08 get hooked into the thought that, oh, I
+3:10 can make it so much better in AI and
+3:12 it's quick. And then other times I'm
+3:14 like, this is good enough. This is
+3:16 plenty. This, you know, communicates the
+3:19 design intent quite well, I think. And
+3:21 that looks like it's a nice kitchen. So
+3:24 now I'm going to open it up and really
+3:25 find out what you did there to screw it
+3:27 up.
+3:30 Oh, and it looks like you're on the
+3:31 call. So that's really cool. Nice. I'm
+3:34 glad you're in here. [laughter]
+3:37 You're going to hold me to to the fire
+3:39 if I'm too mean.
+3:42 Let me see if I can get this chat
+3:43 window. Perfect. There we go. Cool.
+3:46 And let's see. So, [snorts] right off
+3:49 the bat, this this series is um is about
+3:56 creating templates that you can use over
+3:58 and over again and improve your work
+3:59 over and over again, right? And so,
+4:02 that's really what I like to focus on.
+4:04 And
+4:05 so, one of the things I'm going to point
+4:07 out because a lot of people I don't
+4:08 think have this in their templates. And
+4:10 something I will always mention is I
+4:12 have my templates. I sell them. You can
+4:14 go buy them. they have everything that I
+4:16 would show you already installed and
+4:18 ready to go for you. Um, is if you do a
+4:21 right click here, and I'm going to do a
+4:23 left right click to cancel that action.
+4:25 If I do a right click, there's my
+4:27 standard camera. If I do a left click,
+4:30 left click for this is set up to vector
+4:32 view. Now, if you're someone that
+4:34 doesn't ever need vector view for your
+4:36 cameras, like this 3D floor camera like
+4:39 this, then you can set this up to be a
+4:42 right-click uh physically based
+4:44 rendering instead. And that might save
+4:46 you a couple steps in case you want to
+4:47 just quick get a ray trace shot. All
+4:49 right. And the other tip that I dropped
+4:51 there, and you might not have noticed
+4:53 it, is if I'm left clicking and drawing
+4:56 or right clicking and drawing, as long
+4:59 as before I let go of that, I hit the
+5:02 other click button, we're canceling that
+5:05 action. And that goes for a lot of
+5:07 different things in Chief Architect. So
+5:09 that if I right click to do a continuous
+5:12 draw mode, which is in case you didn't
+5:15 know this, this is more of the beginner
+5:17 intermediate side of things is if I
+5:20 right click, this gets me alternate draw
+5:22 mode. And alternate draw mode allows me
+5:25 to let go of right click. And when I
+5:27 move my mouse up, I'm still drawing. And
+5:30 I could left or right click now. And I
+5:33 will still be drawing until I close this
+5:36 shape. or I hit left and right mouse
+5:39 together and then that stops the drawing
+5:42 action. And then I can hold shift and
+5:45 draw a big mark key over this and just
+5:47 know that I'm going to only select walls
+5:49 in case there was something else there.
+5:50 So um right off the bat I'm just going
+5:53 to change your settings, Ryan, and I'm
+5:55 going to go into camera tools for that
+5:56 floor camera and alternate rendering
+5:59 technique. This is what that's coming
+6:01 from. So I'm going to change this to
+6:03 physically base.
+6:05 Also, while I'm here, I'm going to
+6:08 change a couple of out of the box
+6:10 rendering settings maybe and and we'll
+6:13 so we'll check that out real quick. If I
+6:16 want a bunch of quick ray trace looks um
+6:19 excuse me, ray trace renderings, then
+6:22 I'll do one set of settings. If I
+6:24 instead want to do
+6:28 um if I want to work in a ray trace
+6:31 view, then I would do some other
+6:33 settings. So it really depends on what
+6:34 you want. My template is kind of set as
+6:36 a balance between the two. So uh for
+6:39 one, my template when you pull it is
+6:40 going to pull a quality versus native
+6:43 resolution. This is just going to uh
+6:45 improve basically the speed we're using
+6:48 neural networks or AI in other words to
+6:50 kind of interpolate some things when
+6:53 we're using quality. Um so I'm going to
+6:55 set that to quality. Maximum lights I'm
+6:57 going to leave this down to like I don't
+6:59 know 10 or something like that. For
+7:01 older systems, this is really going to
+7:03 hit your system. Ultimately, I'm always
+7:05 going to encourage people to make a
+7:06 light set instead of just pumping up
+7:08 their light number. Um, unless you're
+7:11 using DLSS, which means you've got an
+7:13 Nvidia card. So, if you have an Nvidia
+7:15 card on your machine, then DLSS is going
+7:18 to be a game changer for you, and you're
+7:20 going to not worry about so many of
+7:22 these settings. If uh you don't have an
+7:25 Nvidia card, you're going to have some
+7:27 other things going on that that you're
+7:28 going to want to touch on and and change
+7:30 these settings around. So, I don't have
+7:33 universally great settings. I have
+7:35 settings I use um in my templates, but
+7:39 really your settings are, you know,
+7:41 dependent on the machine that you're
+7:42 using. So, there we go. I'm going to set
+7:45 this up for the camera and then I'm also
+7:48 going to get into the 3D view defaults
+7:50 rendering techniques and physically rate
+7:53 trace just to check out what's here. And
+7:55 so maybe Ryan doesn't have an Nvidia
+7:58 card. Um, so his settings have DLSS
+8:01 unchecked or he migrated from a previous
+8:05 version and he didn't know he could use
+8:07 DLSS and that it might improve his
+8:10 workflow. So um either can be true. Now
+8:15 when I want to go to a final ray trace
+8:17 view, I want to turn off DLSS. It's
+8:19 quite muddy. It's using um some neural
+8:22 network AI based doising on the Nvidia
+8:26 card itself. And and so that's um that's
+8:32 how that works. And so it's it's not
+8:34 always the best thing, but it is a live
+8:36 rate tracing view. It's instant. So
+8:38 that's what's really neat about it. So,
+8:39 if you want to design an array trace,
+8:41 that's a really cool setting. Otherwise,
+8:43 250 is a little high. Depends. If I want
+8:47 to export
+8:49 and I want a really good image in a
+8:51 clean image, I'm going to put that AMD
+8:53 fidelity or the or fidelity FX or
+8:56 whatever that previous setting was back
+8:58 to 1.0. And maybe max samples at 250
+9:02 isn't so bad. That might get me a nice
+9:04 clear image. But what I'll say about
+9:06 that is um that I'm typically using AI
+9:11 to post-process my stuff because it's so
+9:13 fast and it makes such a visual
+9:15 difference that it's worth that time to
+9:18 me most of the time. And so then I don't
+9:22 really care about the max sample rate
+9:24 being higher and the image being cleaner
+9:26 because I'll send a muddy image to AI
+9:29 and get a good image back. So that
+9:31 really just depends on what your
+9:33 workflow is. So, I'm going to set this
+9:36 down to like 40 and we're going to kick
+9:38 DLSS on. And then I want to make a note
+9:42 about daytime backdrop intensity.
+9:45 You're going to get very different
+9:47 information from me than you are going
+9:50 to get from Chief Architect.
+9:53 Daytime backdrop intensity being set
+9:55 this low is
+9:58 um boy, my thought just got interrupted
+10:01 because I just keep hearing a
+10:02 notification from something and I think
+10:04 it's Discord. You guys stop texting on
+10:06 Discord for a second. Come watch the
+10:09 show.
+10:11 Um anyway, sorry. Uh different
+10:15 information you're going to catch from
+10:16 me versus chief architect. one is going
+10:19 to have to do with, you know, a large
+10:22 number of support calls that they get.
+10:24 And so I already know what one of the
+10:26 large number of support calls that they
+10:27 get is and why this setting was changed.
+10:30 Probably because of that number of
+10:32 support calls out of the box. This used
+10:35 to be a higher setting, I believe. I'm
+10:37 not sure, but this is what they
+10:39 recommend. It's a lower daytime backdrop
+10:41 intensity setting. The reason that they
+10:44 recommend it, I think, is because you're
+10:47 getting a lot of users getting color
+10:49 casting from their backdrops when they
+10:52 were using a backdrop from the catalog.
+10:55 What's happening is it is taking a an
+10:59 image and
+11:01 and
+11:03 essentially illuminating that image in
+11:05 some way. It's got a radiance channel.
+11:08 And so if that image that you're using
+11:09 for your backdrop is a nice big green
+11:12 grassland, then what was happening was
+11:15 you're getting that color casting from
+11:16 that green pushed into the shot. And so
+11:20 people were complaining, I see too much
+11:22 green in my interior. This doesn't look
+11:23 good. And so the backdrop intensity set
+11:26 this low in combination with automatic
+11:28 exposure makes it so that we're getting
+11:31 um very very light color casting from
+11:34 that backdrop. All right. Now, that's
+11:37 good and great, except for what if I
+11:39 have a backdrop that isn't predominantly
+11:41 green, and I want that tone mapping and
+11:44 that color casting coming from that
+11:46 backdrop to create a mood that might be,
+11:49 you know, a really good sunset or
+11:51 something like that. And and I'm
+11:53 utilizing an HDR image I found online
+11:55 that just has those qualities in it.
+11:58 That's where my daytime backdrop
+11:59 intensity really should be bumped up
+12:01 quite a bit. And a lot of people, I
+12:03 think, misunderstand what this even
+12:05 means and what it's doing. And so
+12:07 without understanding it, they're just
+12:08 throwing out numbers that you might use.
+12:10 And that's okay. Um, just know that it
+12:13 is affecting the overall tone of your
+12:16 shot. And so I like to improve this to
+12:18 like at least 12,000. The other thing
+12:21 that I do, and this would be more on the
+12:22 advanced side, is I actually go take my
+12:25 HDRI images, these backdrop images, and
+12:30 I um underexpose them. I bring them down
+12:34 and then I introduce manually I pretty
+12:38 much brush in a hot spot where the sun
+12:40 might be. And so that's giving me a lot
+12:43 more contrast, which gives me a much
+12:45 higher uh range that I can utilize in
+12:48 that daytime backdrop intensity. And I
+12:51 can even get um directional sun coming
+12:54 from that radiance channel in the HDRI.
+12:57 Now, that's all a little bit advanced,
+12:59 so you know, I probably need a precursor
+13:02 show to even go over what all that
+13:04 means.
+13:06 So there we go. There's some basic
+13:08 settings.
+13:10 Probably made that sound a lot simpler
+13:12 than it is, huh? All right, let me press
+13:15 okay. Let me hit done. And all this was
+13:17 just so I could pull a camera and see
+13:19 what the heck we got going on in here.
+13:21 So, um, let me again, I didn't quite get
+13:25 this camera tools, floor camera versus
+13:28 full camera. Yeah, I actually wanted
+13:30 full camera and make sure that this is
+13:32 physically based as well. Native
+13:35 resolutions up. I'm going to leave that
+13:37 1.5. I'm going to set this to 20.
+13:40 And then default field of view is 55. 55
+13:44 is pretty good. Um I would say, you
+13:47 know, if you're always designing in
+13:49 tight spaces, depends on your region,
+13:51 you know, if you're in Texas, that 55 is
+13:53 great. If you're somewhere where you're
+13:55 getting these small kitchens like this,
+13:57 maybe 75 would be nicer, especially for
+14:00 doing some working drawings.
+14:04 So that's a standard view, right?
+14:08 And then this would be our ray trace
+14:10 view. So I rightclicked and draw that
+14:12 out. Cool.
+14:14 I want to note another thing about this
+14:17 camera view. And looks like the camera
+14:19 view is turned off in this view. I don't
+14:23 actually see it. That's interesting.
+14:26 Action plan view. So yeah, we have
+14:28 cameras. The display of cameras are
+14:31 turned off.
+14:34 Back and on. Okay.
+14:39 perspective.
+14:42 There we go. And we've got some saved
+14:43 cameras, but I'm not going to utilize
+14:44 those. There's my camera. Now, I want to
+14:47 note something. The end of this camera
+14:49 length ends up being the focal length,
+14:52 believe it or not. So, if I were to go
+14:55 and pin this to this island right here,
+14:59 and then in the edit the view here, I
+15:03 turned on um well, it's been so long
+15:06 since I've done this. Enable depth of
+15:08 field, that focus distance is based on
+15:12 that camera length. So, I'm going to get
+15:14 the edge of this island in focus as you
+15:17 can see here. Okay. And this is um this
+15:21 is where DLSS really does not do a very
+15:23 good job. That's when you're going to
+15:24 want to turn this off. So if I were to
+15:26 double click our technique option and
+15:29 turn off DLSS and let it sample out, I'm
+15:32 going to get a cleaner image. But you
+15:33 can see here I got that island in focus
+15:36 and then everything in the background is
+15:38 not in focus. So if I took this focal
+15:40 length, drew this out a little further
+15:43 to say there.
+15:45 There we go. Now back here is going to
+15:47 be in focus. that island is no longer in
+15:49 focus.
+15:52 And while we're still kind of hammering
+15:54 this setting, which is edit, edit your
+15:57 active view, and let me just turn off
+15:59 enable depth of field. Now, this time,
+16:02 and you can even define your rate trace
+16:03 settings from here. I'll turn DLSS back
+16:06 on. Um, this time, let's just show you,
+16:09 you know, difference between 75 degree
+16:11 field of view and 55. So, this would be
+16:13 very nice to kind of float around and
+16:16 discover a project and check out things
+16:19 and design live. And you can see here,
+16:22 this is instant. And this is all coming
+16:24 from your Nvidia card. All right.
+16:27 So, if you don't have an Nvidia card,
+16:29 you're going to want to change those
+16:30 settings. I'd probably drop that sample
+16:32 rate down to five until you're ready to
+16:34 actually export array trace. And then
+16:38 the next thing that I want to do is if
+16:40 this room is in fact named, let's go
+16:43 ahead and set this camera up for success
+16:45 and create a light set and then adjust
+16:47 those lights. And so here we go. Adjust
+16:51 those lights. I can create a new set,
+16:54 call it kitchen only.
+16:57 And in the if I tag the room filter and
+17:00 we see kitchen, dining family is all one
+17:02 room. Then we can all just click on this
+17:05 and say on. And so we've created a light
+17:07 set where all the kitchen lights are on
+17:09 now. And so I don't have to worry about
+17:11 pumping up the maximum lights or
+17:13 anything like that. That just guarantees
+17:14 for this camera, if I save this camera,
+17:18 all the lights are turned on for this
+17:19 particular view that I want turned on.
+17:22 Okay. And so let's just do a little roam
+17:25 around and see what we got going on in
+17:27 here. And we'll just minimize my
+17:30 sidebars for now.
+17:32 Got a little more screen real estate.
+17:35 And all right, so
+17:39 again, this is unrehearsed. I'm just I'm
+17:42 playing around here and taking a look at
+17:44 what you've got. Um, first thing that
+17:45 stands out at me is is going to be this
+17:47 this farm sink.
+17:51 And and that was just because of how
+17:54 rigid the edges are. And I'm going to
+17:57 make some assumptions. If this isn't
+17:59 some kind of a stainless steel farm
+18:01 sink, then I would say that the look of
+18:02 this is very severe that it's just
+18:04 really harsh edges. Um, I think I've
+18:07 seen one farm sink that was a porcelain
+18:09 sink that had this harsh of edges, but
+18:11 for the most part, they're a little
+18:13 softer. So, you know, I might find a
+18:15 different model, a better model. The
+18:17 next thing is we got some hole cutout
+18:20 issues here.
+18:23 And it looks like this is a standalone
+18:26 fixture. It is. So, it's not actually
+18:28 installed in the cabinet. And there's no
+18:31 reason why we might install this in the
+18:33 cabinet because that means the cabinet
+18:35 will move with this sink and we can use
+18:38 it over and over again. And that might
+18:40 be really nice. So, this could be
+18:42 something that we fix right away,
+18:44 especially cuz that cutout seems to be,
+18:47 you know, creating some funny things
+18:48 going on here. Yeah.
+18:52 And so, let's do this. I would first add
+18:54 this to the library, but I don't
+18:56 particularly love this one. So, I'm
+18:58 going to change it out for a different
+18:59 farm sink. Let me just see if I can find
+19:01 a different one. Or an apron sink would
+19:04 probably be maybe what it's called.
+19:12 And so, here we go. I got an apron front
+19:14 sink. I really like the colar models
+19:18 that have this kind of flange, this
+19:21 overhang right here. And we could, you
+19:23 know, we could maybe paint this
+19:24 porcelain, right? Something like this or
+19:27 this. That's pretty good. So, I'm going
+19:29 to take this, get rid of it. Let's just
+19:30 kick that out real quick. And we'll take
+19:33 this one that's coming from Colar and
+19:34 click that in real quick. And that
+19:37 already cuts this pretty well. Well
+19:39 enough. Anyways, um, a lot of times, uh,
+19:43 what's funny about the setting here is
+19:45 that it's assuming that we're going to
+19:46 do a fullon boy, I'm losing my
+19:49 terminology this morning. Um,
+19:52 [clears throat] we're going to take this
+19:52 slab, which would be a 3/4 in slab.
+19:54 We're going to cut a little piece of it.
+19:56 We're going to laminate it back to
+19:57 itself and polish the edge and create
+19:59 this inch and a half thickness at all
+20:01 the edges. Now, that's not actually how
+20:03 we would do this in the field typically.
+20:05 So, um, this offset's a little bit off.
+20:08 So, I should change that from the
+20:10 library, which I could do is that you
+20:12 can copy this to your user library
+20:15 folder and then make some edits. So, I
+20:17 already copied this to my user library
+20:19 folder. So now I just get to open this
+20:21 object and maybe change that Z position.
+20:25 Now in the options panel, this is
+20:27 actually the preferred method of doing
+20:29 this. Now coming in X17, we've got some
+20:32 new things that we can utilize with
+20:33 these symbols, which is that this
+20:35 inserts into a countertop and we've got
+20:37 a vertical offset. So instead of making
+20:40 an offset in the Z position of the mesh
+20:43 itself, which used to be the old way of
+20:45 us doing things, which means that you
+20:48 would never be able to place this as a
+20:50 freestanding object and have it be
+20:52 placed in the correct position because
+20:54 it has this Z offset. So it would always
+20:56 the bounding box would always be up
+20:58 above the mesh itself. So let me just
+21:01 show you what I mean by that is if I
+21:03 place this in the plan.
+21:06 Yeah, we can see when I select this,
+21:08 there's the bounding box up there. Here
+21:10 represents that Z offset. So, a better
+21:14 and more improved way of doing this that
+21:16 they introduced in X17 is let's cut that
+21:19 Z position and just put a little zero in
+21:22 there. And then in the options panel,
+21:26 we're going to put that vertical offset.
+21:30 And
+21:32 um I never know what [laughter] which
+21:36 direction the offset's going to be.
+21:37 Negative, positive, cuz cheap loves to
+21:41 switch that up and not standardize it.
+21:43 So you ever run into that, you should
+21:45 send in a suggestion. It drives me nuts.
+21:48 All right, so I'm going to replace this
+21:50 object. It says I already have an object
+21:52 in there. There we go. So there it's
+21:54 utilizing its offset and I can uh still
+21:57 place it as a freestanding object. And
+22:00 now the bounding box is going to be
+22:02 correctly wrapping this object. That
+22:04 looks a lot better.
+22:06 So then the next thing is we just needed
+22:08 a 3/4 inch adjustment on this. So I'm
+22:10 going to open this object up one more
+22:12 time and just minus 3/4.
+22:16 Nope. Let's go plus inch and a half.
+22:19 Yeah, there we go.
+22:22 And let's replace this again. Toggle
+22:24 replacement mode.
+22:27 Cool. Now that looks a lot better. The
+22:29 next part of this is we already kind of
+22:31 have a flat section set up for this. So,
+22:34 I should be able to just come in here
+22:36 and then set this to be an opening. Um,
+22:39 except for I really want to split this
+22:42 area first. And it's a locked item, so
+22:44 I'm going to have to unlock it. So, let
+22:46 me split this vertically.
+22:49 Yeah. Yeah. It's telling me I have a
+22:51 sink. And I'm going to split it
+22:52 vertically again. And then the center
+22:55 section, I'm going to say it has an
+22:57 opening.
+23:00 The reason I'm doing that is that in
+23:03 case we widen this cabinet out, I
+23:06 actually want this to still be filler in
+23:08 here on the sides,
+23:10 etc. So, that's what I'm doing is I'm
+23:13 creating an opening in the center. And
+23:16 so, this opening in the center, it's
+23:18 going to be pretty wide. Probably 27,
+23:21 28, 30,
+23:24 something like that. And then I can take
+23:25 this layout horizontal.
+23:28 Let's move the separation here. I'm
+23:31 going to make this blank area split
+23:32 vertically. I'm going to move it right
+23:35 right of the opening. And I should be
+23:37 able to hit this
+23:40 and say equalize.
+23:42 And so um I'm able to put equalize
+23:45 because I input a dimension for this.
+23:47 And so it's locked. So it's only
+23:48 equalizing the two blank areas. And so
+23:52 there we go. It's creating this little
+23:54 return piece here. That's okay.
+23:58 And then the height of this is going to
+23:59 be wrong for this particular apron
+24:01 front. So, what I want to do now is just
+24:04 take this layout horizontal height.
+24:06 Let's kick this up to like 5 in. Maybe
+24:09 that's a little too much. Let's go 6 in.
+24:13 And that's a little too much. And you
+24:14 can see that the sink is having a
+24:17 problem here, right? And that and so the
+24:19 main reason is because we've got a
+24:20 separation here. And so we actually need
+24:23 to add a new blank area. And so I'm
+24:26 going to make a blank area of maybe one
+24:30 inch.
+24:31 It's going to be um I'm going to get rid
+24:34 of the separation that's above that. And
+24:37 so the blank area is going to fill in
+24:40 here without cutting into the sink
+24:42 depending on how tall I make it. And so
+24:46 let's make this back down to 5 in. And
+24:49 so it's kind of tricky making these. I'm
+24:51 not going to lie. But once you have one
+24:52 made, that should be all you need to do.
+24:55 And then this top separation I can get
+24:58 rid of as well. There we go. That's
+24:59 going to clean up that line that was
+25:01 coming through the sink. And now we're
+25:03 looking pretty good. You know, I could
+25:05 probably make this a little bit taller.
+25:08 Five. There we go. Yeah, that's looking
+25:11 pretty sharp. And then just kind of
+25:13 ignore what's going on over here. I
+25:15 don't think that's a problem. I don't
+25:16 think we're going to have any issue
+25:17 there. We're just seeing the countertop.
+25:20 We are seeing a little bit of the box.
+25:22 So on your left and right sides, you
+25:24 could do a little bit of match front and
+25:27 then go to custom face. And from that
+25:30 match front, custom face, we could get
+25:32 rid of those blank.
+25:35 Oops. Wish I had an undo. Don't you?
+25:38 Don't we wish we had an undo? I'm going
+25:40 to make this an opening. And so that's
+25:43 going to make it so that I've got no
+25:44 return going on there. And then left
+25:47 style could be zeroed out.
+25:51 And so that won't run through that sink,
+25:53 etc. Um, and so we'd have to do the same
+25:57 thing on the left side. Boy, you could
+25:59 burn up a lot of time on just this
+26:00 cabinet.
+26:04 I can. And of course, I'd get rid of
+26:05 that door.
+26:07 These are all just going to be blank
+26:09 area. So, delete, delete, delete,
+26:11 separation, delete,
+26:15 etc. It's going to unlock linked items.
+26:17 And then that top piece is just that
+26:20 opening
+26:23 for five inches.
+26:28 Okay. And I'm still left over with
+26:32 something. I think it's just the
+26:33 countertop. So, I'm going to let this
+26:35 go.
+26:36 We're going to get real close with all
+26:37 those settings. There we go.
+26:40 All right.
+26:42 Simple edit number one. Right. Let's
+26:45 check out what else we got going on in
+26:46 here. Oh, we got a little discrepancy in
+26:48 the countertop. This looks like Yeah,
+26:49 it's a custom countertop. Cool. We'll
+26:52 just snap this over and get this rocked
+26:54 in place.
+26:58 Miss this edge just a little bit.
+27:00 Probably do that with some accuracy in a
+27:02 plan view. And then um something that I
+27:06 think improves renderings right off the
+27:07 bat is adding an eased edge profile. If
+27:10 in fact that's what you're doing. Um
+27:13 you're doing some other profile. Yeah,
+27:15 that's going to improve it too. is is
+27:16 adding that profile as a molding to all
+27:18 your countertops. So, one of the things
+27:22 I love doing here is I love using my
+27:24 kitchen tools. They're part of my
+27:26 template package. That's what um someone
+27:29 on YouTube commented. You will never use
+27:31 all those toolbar icons that you have on
+27:33 your screen. I've been working for 20
+27:34 years and those are ridiculous. And to
+27:38 which I had to respond, which is these
+27:40 are not tools that are native to Chief
+27:41 Architect. These are things that I drew
+27:44 and created to look like tools coming
+27:46 from Chief Architect, but they do things
+27:48 like replace really complex actions with
+27:50 just a single click. One of them is
+27:54 let's add a molding profile to this
+27:56 countertop. And so it's just going to
+27:58 add an eased edge to this just to make
+28:00 it really quick and easy to change that
+28:02 eased edge eased edge to something else
+28:05 on the fly. And it's going to use your
+28:07 default materials. Now, something to
+28:10 keep in mind is if you want things to
+28:12 work seamlessly and move really smoothly
+28:15 as you're working through a kitchen
+28:16 design, it would improve your workflow a
+28:19 little bit if you set up your materials
+28:21 ahead of time for your project once you
+28:24 start it. And what I mean by that is if
+28:26 you know what countertop surface you're
+28:28 going to use, then you can go ahead and
+28:30 set this as your default material. So,
+28:33 this overlay, which I'm just going to
+28:34 copy right now, is if I come into
+28:38 default settings into materials and I
+28:40 come into countertop, then I could just
+28:43 set this up. Now, isn't that cool?
+28:45 That's exactly what they did. They're
+28:47 using their default. So, that's really
+28:49 neat. Um, what that tells me is my tool
+28:52 needs to be updated because it should
+28:53 have been using the default material for
+28:55 countertops and that would have been a
+28:58 much better and improved workflow here.
+29:01 So, what I can do to update this because
+29:04 if you saw a previous template Tuesday,
+29:06 I showed you how to do a style pallet
+29:09 tool where we are just copying some
+29:11 element from an object like a countertop
+29:14 such as adding a molding. Then we also
+29:17 know how to update that because that was
+29:19 in that episode as well. I don't
+29:21 remember which episode. That might have
+29:23 been episode one. But here we go. I'm
+29:25 going to paint the edge of this with the
+29:28 material from the countertop. And look
+29:30 at this. It just gives it a nice little
+29:32 soft edge. Just looks really good. It
+29:35 kind of gets rid of all those really
+29:37 sharp edges. I mean, it's a very subtle
+29:40 effect. But the other really great thing
+29:43 about this is if we go into Chief's
+29:46 library and Iounded him for this change,
+29:51 believe it or not, I get some changes
+29:53 that you might love over the years. And
+29:55 one of them was this is that you can
+29:58 just touch type in EM for edge molding
+30:01 like something like EM101 and you're
+30:03 going to get to all their edge moldings.
+30:06 Uh if you have the core cataloges
+30:08 installed which I don't.
+30:11 Dang it. So I'm going to look up OG
+30:14 instead because I know I have an OG
+30:16 molding. And so this is what's so nice
+30:18 about this is we used one tool to click
+30:21 and add countertops and then we get
+30:23 another tool to actually specify our
+30:25 countertop edge molding by just coming
+30:28 to our catalog, grabbing some molding,
+30:30 hovering over and click to replace. And
+30:34 if we change our edit menu to scope to
+30:37 plan view, then we're changing all these
+30:39 edge moldings at once. And so it's
+30:41 really easy for me to come in here and
+30:43 place that OG edge molding just like
+30:45 that. Isn't that cool?
+30:47 Except for again I had the problem of it
+30:50 not following the default. I don't know
+30:53 how to set that up for the default.
+30:54 Let's see if we open up the object
+30:56 materials.
+30:58 Default room moldings is what this is
+31:00 set to. And this was another thing I bug
+31:03 Chief about is they actually changed all
+31:05 of their edge moldings to use the
+31:08 default for countertops, not for room
+31:11 moldings. So that was a really cool
+31:12 change they implemented I think in X16.
+31:16 So instead I could say hey let me select
+31:18 the material and use default here is
+31:21 here but that's not the right one that's
+31:22 not the default we actually want because
+31:24 it's a molding it's going to
+31:25 automatically use you know room moldings
+31:28 instead we want that countertop material
+31:30 use default and so this time when I use
+31:33 that OG and I just updated my library
+31:36 with this this time when I replace it
+31:38 it's going to automatically use that
+31:40 material. Isn't that cool? So let me go
+31:42 back a few steps.
+31:45 And so what I'm going to do here is
+31:49 um I'm going to go ahead and select this
+31:51 countertop. I'm going to update my style
+31:53 pallet. So I'm going to use the add
+31:55 object to style pallet tool. With the
+31:57 countertop selected, I'm going to add to
+32:00 existing and
+32:03 I'm going to what did I call this? Edge.
+32:08 Yeah, probably
+32:11 press okay.
+32:14 And then it may give me the opportunity
+32:17 to set the properties for this. And so
+32:24 there's moldings. Does it give me the
+32:26 option to
+32:30 No, it does not. So kind of what I would
+32:33 need to do is go a little step further
+32:37 and and basically find my ease edge
+32:40 molding in my catalog. Set the material
+32:42 to use default, then update my style
+32:44 palette. Yeah, I'm learning too. Very
+32:46 cool.
+32:48 All right, let me pause my motor mouth
+32:50 for one second. Look at these comments.
+32:53 Ryan, by the way, fire away. Yep. Uh, I
+32:57 know you're still working on the metric
+32:59 template. Can't wait. Oh, man. I have
+33:01 not been working on the metric template
+33:03 because um the person that was helping
+33:05 me work on it left town on me and has
+33:09 not been back has extended their stay a
+33:12 couple times um for um kind of a work
+33:15 trip that they're on and and yeah, I
+33:18 haven't been touching it. And I'll tell
+33:19 you why it's such a pain in the butt to
+33:22 redo all my template settings because it
+33:24 takes hours and hours and hours. And
+33:25 I've logged about 600 hours converting
+33:28 my templates to metric and I'm still not
+33:32 there. So it's tough. And that just lets
+33:34 you know how much work goes into that
+33:36 dang template.
+33:38 Okay, let me move forward with this
+33:42 and let's see some other things going on
+33:44 in here. Uh, so we see this head. What's
+33:47 going on with this? This is interesting.
+33:50 This is Oh, this is a molding. So, we
+33:52 got a molding line,
+33:55 I think. Yeah, got a molding line that
+33:57 just needs to be
+33:59 brought in here. Now, I mean, this is a
+34:02 unique case where we could kind of
+34:03 improve this just a little bit just by
+34:06 um changing the molding lines extrude
+34:09 side. Okay, which is that it might be
+34:12 nice to snap this to the side edge of
+34:14 this cabinet and have it be bumped to
+34:17 that cabinet. And this is a really
+34:19 simple setting, which is get into the
+34:20 mold links panel and instead of extrude
+34:23 inside polyline, we're going to extrude
+34:25 on the other side of the polyline. Now,
+34:27 it's interesting that it sees this as
+34:29 the inside cuz for all intents and
+34:32 purposes, this looks like it that's on
+34:34 the outside of the polyline. So, it just
+34:37 depends on how this polyline was drawn
+34:39 in the first place. But I'm going to go
+34:41 ahead and click on extrude inside
+34:43 polyline. And that's going to flip that
+34:44 to the other side of this. And then that
+34:46 makes it really easy for me to just bump
+34:48 this to the cabinet edge and know that
+34:49 it's inside of those cabinets, right? I
+34:53 can just bump it to the cabinet edge.
+34:55 There we go. And uh for this whatever
+34:58 this hood is, maybe we want to fix this
+35:00 real quick and we can get rid of that
+35:02 kind of Z fighting thing that we were
+35:04 doing. So, I'm going to select the
+35:06 molding here and just drag it out of the
+35:08 way for a second. I'm going to drag it
+35:09 some known amount. So, I started to drag
+35:12 it. I hit tab. Polar is checked. And I'm
+35:15 just going to type in 30 in. And that
+35:17 way, it's just out of the way and I'm
+35:19 not fussing with it. And then the next
+35:21 thing that I want to do is I'm going to
+35:23 open this up cuz it's probably a symbol.
+35:25 It is. I'm going to in the 3D panel of
+35:29 this symbol, I'm going to change this
+35:31 smoothing angle. It's actually probably
+35:35 okay at the smoothing angle it is. I
+35:37 just want to make sure that nothing's
+35:39 being smooth that should be smoothed so
+35:42 that I can use the delete surface tool
+35:44 very easily to delete the kind of lower
+35:47 section here because it looks like we're
+35:49 just trying to remap that lower section.
+35:52 So in the 3D menu, delete surface tool.
+35:56 Bam. We get to just start deleting
+35:58 things. You might want to do this in a
+36:00 vectorbased view because it's easier to
+36:02 see the surfaces you're deleting.
+36:05 And
+36:06 boy, unfortunately, this little side
+36:09 flange piece goes all the way up, but
+36:11 that's okay. I think I'm just getting
+36:12 rid of a couple more things here. Like
+36:16 that.
+36:18 Yeah, I think that's about it. Now I can
+36:21 take this symbol
+36:24 and convert it to a new symbol. In this
+36:27 case, maybe it's fixture interior. I
+36:31 don't need it to add it to the library.
+36:33 I don't need to show advanced options.
+36:35 And I'm not even worried about naming
+36:37 it. I'm going to just press okay. And
+36:40 then I can hover over toggle replacement
+36:42 mode and replace this. And so there we
+36:45 go. It no longer has that outside
+36:47 framework that was not mapped to what we
+36:50 want or not uniquely mapped. And I can
+36:52 drag this back 30 in back into place.
+36:55 And I've got no more Z fighting. And
+36:56 that just cleaned that symbol up quite a
+36:58 bit. And so maybe the next thing that I
+37:02 might want to do is I might want to take
+37:04 all these elements that I created to
+37:05 make this, you know, kind of a dynamic
+37:07 symbol. And let me just group select
+37:11 them. So I'm going to select this. Shift
+37:14 select this. And in fact, it might even
+37:16 be nice to put a hoodliner in here. If
+37:18 you've seen a previous episode, you've
+37:19 seen me put some hoodliners stuff in
+37:21 here as well as a light in here and make
+37:24 that all one new symbol. So, let me
+37:26 actually do that real quick.
+37:33 I've got a hood liner here. This is
+37:35 huge.
+37:37 Um, this is a little bit smaller. There
+37:39 we go. Let's just drag this up to 54.
+37:45 Maybe it's a little taller than that.
+37:47 Sure.
+37:50 And drag this into place.
+37:53 And so I'm just going to do a little
+37:55 visual map of this. And so I'm going to
+37:59 use the select next side tool to get to
+38:01 this bottom edge so that it's a little
+38:03 easier for me to place. And I can drag
+38:05 this.
+38:08 It looks like the size of this.
+38:11 I think I'm okay with the size of this.
+38:13 That looks pretty good. And so select
+38:16 next side. Again, I'm using a hotkey for
+38:18 that.
+38:21 And so I might be able to drag this down
+38:22 just a little bit.
+38:28 Just force it to two inches or so. Yeah,
+38:31 something like that. Looks pretty good.
+38:33 So now with that selected and let's make
+38:36 sure it's centered up. And that actually
+38:39 does seem to fit for the most part. It's
+38:41 a little large. We can hold your C key
+38:44 or the comma key. Colin centrically
+38:46 resize this about center maybe 3/4 of an
+38:49 inch. Avoid those sides. Cool. So, I got
+38:53 that selected. Shift select
+38:56 this molding here. Shift select the
+38:58 hood.
+38:59 Shift select these little side fillers.
+39:02 If we can
+39:05 I think think I got everything. Let's
+39:08 convert that selected to symbol fixture.
+39:11 Add to library. Show advanced options.
+39:14 Let's see what we got. Did I get
+39:16 everything? No, I didn't get that
+39:17 outside piece.
+39:19 So, it might be a little bit easier to
+39:21 do this in a 3D, excuse me, a top down
+39:24 view.
+39:25 Um, especially if we had get rid of all
+39:28 this stuff that's in the way. But maybe
+39:31 we can't.
+39:33 And you know what?
+39:36 What else is in here? Anything else?
+39:38 We're missing our molding
+39:41 in this view because we don't have
+39:42 moldings turned on. Let me just try
+39:44 shift select here again.
+39:46 This
+39:49 It's tough to select that. So, I'm going
+39:51 to select it first. There we go.
+39:57 Yeah, this is just side filler or
+39:59 something there.
+40:03 See if I got it this time.
+40:07 Yeah, that's pretty much it. You know,
+40:08 it's not perfect, but I'm going to live
+40:10 with it. Fine for me. Cool. And so,
+40:14 there's my new symbol.
+40:18 hood
+40:20 from template Tuesday, which I need to
+40:22 redo, but that's okay. Just going to run
+40:24 with it.
+40:27 And so, you could throw in some advanced
+40:29 sizing, put some stretch planes in here,
+40:31 etc. But this is already built to the
+40:32 size that I need it. And notice that
+40:34 the, you know, the fillers are offset a
+40:36 little bit, so they're a little bit
+40:37 wrong. That's okay.
+40:40 It's going to look a little funny in our
+40:42 top down view, but I should be able to
+40:44 place that now.
+40:50 Get rid of these fillers.
+40:53 And what do we got going on here?
+40:58 What is that? Oh, that's a molding.
+41:01 Oh, you got a molding here and it's not
+41:03 aligned if you check that out. So, I'm
+41:06 going to get rid of that because no need
+41:09 to do that. We got a better method for
+41:11 you for that. All right. So, here's our
+41:13 hood. Um, if the preview is not facing
+41:17 you here, then open this object up and
+41:20 rotate it in the 3D panel in the Z so
+41:23 that it's facing you. That's the correct
+41:26 direction it should be.
+41:29 And
+41:30 let me get to this top down view.
+41:34 Place it
+41:36 here. I also once I rotated it, I also
+41:39 needed to update the CAD block.
+41:44 symbol. You could set it to always if
+41:47 you wanted to generate block. There we
+41:48 go.
+41:52 So, that there we go. And do a little
+41:56 point. And do I have that going the
+41:58 right direction? It looks like it's the
+42:00 wrong direction.
+42:02 See in a second here. And it also looks
+42:04 like it dropped on the floor because I
+42:06 didn't set it to what I should have set
+42:08 it to. You can do a couple things here.
+42:10 You can set this so that it's always
+42:12 mounted to the ceiling if you wanted to
+42:14 in the options
+42:16 um
+42:18 or excuse me in the 3D panel
+42:21 3D panel general panel. So you could go
+42:23 from ceiling 0 in something like that
+42:27 would be a way to just get this in there
+42:30 right at the right height.
+42:35 And so there we go. Now, um, the big
+42:38 problem I was seeing here was, you know,
+42:40 this molding carrying across here. And
+42:42 it also looks like that square portion
+42:44 of the molding was being utilized here.
+42:46 So, the hood wasn't a perfect symbol. I
+42:48 get it. Now, I'm just going to copy
+42:50 paste this upper wall cabinet. So, I'm
+42:53 using going to use the copy paste tool.
+42:56 Center the object. We'll center it based
+42:58 on this hood. And then we can just click
+43:02 on this dimension string here, hit zero,
+43:06 and then if you hit tab,
+43:08 you would get to this little resize icon
+43:11 and hit space. And so that's telling it,
+43:13 hey, yeah, I'm want to resize it 0 in.
+43:17 I'm not moving it 0 in, which is the
+43:19 four-way arrow. The two-way arrow is I'm
+43:22 going to resize it, all right, to zero
+43:24 in. Resize it to 0 in. Same thing on the
+43:28 other side is so that's just hitting
+43:31 zero tab space enter.
+43:35 Okay, now we got some molding up there,
+43:37 but we also have a wall cabinet. What do
+43:39 we do with that? Well, we can just
+43:40 shrink this on itself. Make this zero
+43:42 in. And then you might want to open it
+43:44 up and just say that we do not want it
+43:47 to report to a schedule,
+43:49 right? And also we don't want a label.
+43:53 And that just gave us a molding above
+43:55 there. That's one way of doing it. I
+43:57 just don't like using molding lines. I
+44:00 think they clutter up a plan really
+44:01 quickly. So, that's the reason I I'm
+44:03 doing it that way. But the other thing
+44:05 that you could have done is select this
+44:07 wall cabinet and use the make cabinet
+44:10 molding polyline and then just extended
+44:12 the polyline that was created from this
+44:15 [clears throat] wall cabinet across the
+44:17 front face of these other cabinets. In
+44:19 fact, you can even group select things.
+44:21 And if they're all connected and you
+44:23 don't have automatic fillers on, when
+44:25 you use that make polyline, it should in
+44:28 fact give you one continuous line like
+44:31 that. See? And so then it'd be really
+44:34 easy to, you know, bring that across on
+44:37 top of
+44:40 over the sink here. And now you've got
+44:42 one continuous round molding profile
+44:45 going through this whole thing. Pretty
+44:48 cool.
+44:50 All right. And now also looks like my
+44:53 hood actually did need to drop down.
+44:56 And yeah,
+44:59 it did something like there.
+45:04 Oh, and I'm probably doing something
+45:05 else wrong. It looks like it might have
+45:07 been off the wall a little bit as well.
+45:13 Yeah. Fake it till we make it.
+45:18 All right.
+45:20 So, what else we got going on in here?
+45:21 And do a little time check. Man, that
+45:23 time goes by so fast. I had some other
+45:26 things I wanted to take a look at in
+45:27 here before we got too far. I do want to
+45:30 point out that we got naked shelves over
+45:33 here. And if you're unfamiliar with any
+45:35 of my products, I do sell my full
+45:38 library. And my full library has a shelf
+45:42 tool. And I'll show you the whole
+45:44 premise of what that shelf tool even is.
+45:46 Is that you get to take a wall cabinet
+45:49 like this. You get to come in here and
+45:52 many different ways you can get to my
+45:53 systems, but one of the ways I could get
+45:55 to this shelf system is I'm going to
+45:57 choose um countertop shelf. And then I'm
+46:00 going to choose painter. And that's
+46:02 going to get me to a tool that can paint
+46:04 this very quickly and make it look like
+46:06 a shelf with decor on it, which is
+46:09 really cool. And then if I cross out
+46:11 that painter tag and I use CAD block
+46:13 component tag and I use a short narrow
+46:17 tag, that's going to give me to all the
+46:18 components that I could drop in and
+46:20 replace here very very quickly for some
+46:23 cool quick looks such as this. Just
+46:27 trading that out for some other decor
+46:29 super super quick. So I can build out
+46:31 full shelves with decor really fast with
+46:34 this system. You can build this system.
+46:37 If I were to show you what this is, if
+46:39 you didn't pick up on it already, it was
+46:41 a wall cabinet. And so all this is is a
+46:43 wall cabinet where every element you see
+46:46 here is a cabinet door with an offset.
+46:49 It's a little bit challenging to build
+46:51 and it's certainly very very
+46:53 timeconuming, especially to get a big
+46:55 catalog of items and get them all
+46:57 working right and looking correct. But
+47:00 you can do it yourself. You can. So
+47:02 that's just a wall cabinet. Doesn't
+47:04 report to a schedule in this case. And
+47:07 so I could fill those shelves really
+47:08 really quickly.
+47:11 And let me that off. And so kind of the
+47:14 next big thing that's going to make and
+47:16 and change this shot drastically right
+47:19 away is adding a backdrop. So I'm going
+47:21 to take a look in the library and just
+47:22 see if I've got some backdrop loaded.
+47:26 And so as I type out backdrop, and I
+47:28 know my little search bar is so small
+47:31 right now, you can barely even see it.
+47:34 Let me expand this just a little bit. As
+47:36 I try type out backdrop, if you scroll
+47:38 down, you'll see on the screen it says
+47:41 type backdrops. And so this is limiting
+47:44 it to only
+47:46 that classification, which is that this
+47:48 is classified as a backdrop. And so let
+47:51 me pick one that's underexposed as just
+47:54 an example. This was underexposed on
+47:57 purpose. And we're going to show exactly
+47:59 what this is doing in a 3D view is I get
+48:01 to just as soon as you click on a
+48:03 backdrop, you get to just click into the
+48:07 scene and it's going to add that
+48:08 backdrop. Now, the next thing that I
+48:11 want to do is I'm actually going to turn
+48:12 down the sun intensity. So, I'm going to
+48:15 adjust the sunlight. In this case, I'm
+48:17 going to turn this way down so that we
+48:18 can barely even see it. Something like
+48:20 5,000. And so, we're going to see that
+48:22 this whole thing now is basically just
+48:24 lit by the backdrop. In fact, if we
+48:27 wanted to, we could get into the ray
+48:28 trace setting and say use only backdrop
+48:31 for lighting.
+48:33 And so there we go. The backdrop is what
+48:35 is lighting this scene. And notice
+48:37 [clears throat] that um it's because the
+48:40 backdrop's underexposed. It's very
+48:43 subtle lighting right now. So, if we
+48:45 came into that rate trace settings again
+48:50 and I pumped this up to something like
+48:52 30,000 in terms of intensity, that's
+48:55 just going to um the automatic exposure
+48:58 is still taking over, but we're getting
+49:00 more color casting from that backdrop.
+49:02 So, I'm going to kick the automatic
+49:03 exposure up just a little bit. And so
+49:06 you'll see now when we get into the 3D
+49:09 menu, you don't have this on your um
+49:11 toolbars, is we have a rotate spherical
+49:14 backdrop tool. And so we get to just
+49:15 click and drag and we can rotate this
+49:18 because this has a directional sun.
+49:20 You're going to see that now this side
+49:22 of the house is getting a little darker
+49:25 and now it's getting illuminated. Right?
+49:28 So that sun does in fact have some
+49:31 pretty cool tonal qualities. So that
+49:34 when we come back in this shot, look how
+49:37 all that warm color casting is coming
+49:39 in. Right.
+49:44 So I'm just going to click and rotate
+49:46 again and hope if it doesn't crash me.
+49:50 With the DLSS, it takes a little update
+49:52 time. And then really when you're going
+49:54 to see a better difference here is turn
+49:56 that DLSS off just to take a look at
+49:58 what this is doing. Now you can kind of
+50:01 rotate this around.
+50:03 See what you like about it. See what you
+50:05 don't like about it. You know, it's it's
+50:07 going to be true to the shot. It's a
+50:08 little bit overcast right now. If I set
+50:10 this back down to like 1,000 backdrop
+50:13 intensity,
+50:14 um, we're losing a lot of dynamic range.
+50:17 And now a lot of the lighting is coming
+50:19 from that interior lighting. Now, what
+50:21 if we were to go and edit this view and
+50:24 adjust the lights and make a new set and
+50:26 call it all off just so we can see
+50:30 really what that backdrop intensity
+50:32 does, which is now I should have turned
+50:34 all the lights off. And now it's a
+50:37 pretty dark shot, right?
+50:40 So, let's edit this back up again.
+50:42 30,000.
+50:44 And so, we are seeing some exposure
+50:47 adjustment and everything coming from
+50:48 that light outside. Let's kick it to
+50:51 12,000
+50:52 and maybe we'll turn down the automatic
+50:55 exposure so we can get a pretty good
+50:57 natural shot here. Um, what you're
+50:59 seeing in terms of the fuzziness is this
+51:01 super resolution quality at 1.5. We'll
+51:05 turn it up to native resolution 1.0.
+51:08 And so there we go. And so this is this
+51:11 starts to look like a pretty natural
+51:13 shot, especially if we increase the
+51:15 resolution on an export and we export it
+51:18 back to the project itself. So this can
+51:22 this can become a really cool shot. Let
+51:25 me turn off the library real quick.
+51:27 We're going to edit the active view.
+51:29 We're going to kick this down to 45
+51:31 degrees. And now you're getting kind of
+51:33 an architectural digest shot. And notice
+51:36 I've got some kind of geometry in the
+51:39 way of the camera. And I'm just going to
+51:41 get rid of this geometry real quick by
+51:43 changing the clip surface within setting
+51:46 to something like 36. That'll kind of
+51:48 push that to the side. Maybe 48.
+51:56 And so that's a pretty good looking
+51:58 editorial shot right off the bat. I
+52:01 would change probably the material on
+52:02 that refrigerator to make it look a
+52:04 little bit more realistic, but
+52:06 ultimately, I don't know, that's looking
+52:07 pretty good. Now, this would be like
+52:10 kind of a finished camera shot. So, I'm
+52:12 going to kick this back up to some
+52:14 settings so we can look around again.
+52:18 And we'll kick this back on to the
+52:20 kitchen only set.
+52:30 and use that DLSS one more time.
+52:35 Any way to rotate the backdrop in
+52:37 another direction? You're talking about
+52:39 in the um Z-axis about the or rather the
+52:43 Y ais? No, there is not. You can only
+52:46 rotate it in the X axis.
+52:52 Um all right. So, I did see a few things
+52:54 that I'm just curious about over here.
+52:56 one is that it looks like we're manually
+52:59 editing this wall and I don't know why
+53:03 and so
+53:06 me and also it's not letting me select
+53:09 this which means that you probably have
+53:12 this locked which is very interesting
+53:14 and I would wonder why
+53:17 we have a bunch of things locked. I'm
+53:19 going to unlock all this stuff.
+53:22 Um that'd be a curious question for me.
+53:25 Why are we locking things?
+53:29 That's a lot of extra management when
+53:31 you start doing custom layer settings
+53:32 with locked things. And so I would say
+53:34 that whatever you're trying to solve
+53:36 for, maybe we have a better solution.
+53:39 And then I'm also seeing that we're
+53:42 missing
+53:44 moldings here,
+53:46 but they are
+53:52 they're not molding lines.
+53:55 And they're not full wall lengths.
+53:59 This is very odd. Why?
+54:02 And why when I select this does it show
+54:04 that I'm on an invisible wall.
+54:08 You got some curious thing happening
+54:10 here. I don't think I've ever seen this
+54:12 before. Oh,
+54:15 you have multiple walls here. Okay, so
+54:17 we're manually editing wall heights
+54:18 again, I think. And it's one of the
+54:20 first things I do when I come in to
+54:22 troubleshoot a plan is I'm going to
+54:24 reset to defaults from the edit menu,
+54:26 all floors, and I'm going to reset the
+54:28 wall top and bottom heights. You almost
+54:31 almost never never never ever want to
+54:34 edit your wall top and bottom heights.
+54:38 And
+54:40 so something is going on here. This pass
+54:43 through. Oh, that's not a pass through.
+54:45 This is
+54:48 This is just a bunch of molding lines.
+54:50 Okay. Um so you were running into some
+54:53 problem
+54:55 that that didn't know how to solve for
+54:57 is what's happening here. Um and you
+55:01 know, which is fine. I'm just going to
+55:04 kind of put some stuff in place here
+55:07 and maybe I'll solve for them. Um, maybe
+55:10 that's what you were solving for is the
+55:12 settings on your rough openings for
+55:14 passroughs is what's causing that little
+55:18 discrepancy up at the top of the screen.
+55:21 And so maybe that's what you were trying
+55:22 to solve for.
+55:25 And so really that just takes some
+55:28 adjustments in settings. But for now,
+55:30 since I don't feel like fighting it
+55:31 myself, I'm just going to move this down
+55:33 like one inch and
+55:36 maybe one more inch.
+55:39 And that should fill in. Yep, that'll
+55:41 fill in that drywall up above there. So,
+55:44 that's going to be close enough for me
+55:45 for this. I just wanted to check that
+55:48 out real quick.
+55:50 And then ultimately, I mean, this is a
+55:52 pretty clean looking setup here. Looks
+55:55 like you got some cabinet end panels
+55:57 that you built out, right? Um Oh, that's
+56:00 a molding line.
+56:02 Why are we using that molding line?
+56:04 Because you've got some return. Maybe
+56:06 because you wanted to show the return
+56:07 going in there. I can see that. Um,
+56:14 okay.
+56:16 And this to me looks like it maybe is
+56:19 not what the intention was. Maybe you
+56:22 want flat sides and this is just to Oh,
+56:25 no. It looks like the intention because
+56:26 this is an inset cabinet. So, you got
+56:28 that flat stock kind of building that
+56:30 out. Um, I see some, you know, interior
+56:33 lights in here. Some cool trick that you
+56:35 could do very very easily is let me just
+56:37 take this cabinet real quick. I'm going
+56:40 to
+56:41 add a molding here.
+56:46 If you go ahead and build out a bunch of
+56:48 square flat stock and add it to your
+56:50 library and name them 1x 6, 1x 5, 1x4,
+56:53 1x 1, etc., they're always going to show
+56:55 up in the very first part of this search
+56:57 when this opens up, if it ever opens up.
+57:00 I don't know why it's so slow at the
+57:02 moment, but there we go. Oh, we got a
+57:04 1x4 right here. And so I'm just going to
+57:06 add that. And I'm actually going to make
+57:08 this just a 1x one. So I could change
+57:11 the name if I wanted to. Um, it's set to
+57:14 top. So basically, it's a crown molding.
+57:16 So I'm going to change the horizontal
+57:18 offset to maybeg -3. That's going to put
+57:21 it inside of the cabinet. And then I'm
+57:23 going to drop it 3/4 of an inch by I
+57:26 think this is one of those stupid ones
+57:28 where it's positive is negative value.
+57:31 it is. Okay. And now that I have that,
+57:35 I'm going to go to the materials panel,
+57:37 find my 1x4, and then select a material,
+57:42 and from here, I'm going to go find um
+57:45 glass lights in my defaults. Press okay.
+57:49 And watch what happens. We got a lit
+57:52 cabinet now. And what's really cool
+57:54 about this and makes it super fast and
+57:57 easy to do is we're going to take the
+58:00 object eyropper tool. Something slowing
+58:03 down this plan all of a sudden.
+58:06 Maybe that wall over there was slowing
+58:08 down the plan.
+58:13 Yeah, something really just slowed down
+58:15 the plan there. And then object eyropper
+58:18 tool. Select this cabinet.
+58:21 Open this up. Clear all, type in molding
+58:26 and we want moldings and moldings
+58:28 materials and press okay. And then it
+58:31 should be really easy for me to just
+58:33 click and we got lights. Click and we
+58:36 got lights.
+58:38 Click and we got lights. And click and
+58:41 we got lights. Isn't that cool? Pretty
+58:44 simple. Super easy. Then you could
+58:48 select all those cabinets at once. And
+58:50 if you wanted to in the edit toolbar
+58:52 adjust the brightness, cut this down
+58:54 50%.
+58:57 And that's looking pretty good. Cool.
+59:04 So, the last part of this is I just
+59:05 probably be adding decor onto this and
+59:07 then, you know, doing a couple things to
+59:10 bring this into AI and then doing my
+59:12 typical edit in AI. We ran out of time,
+59:16 so I'm not going to be able to do that.
+59:17 Um, I also wanted to look at the
+59:20 construction document side of things
+59:21 because
+59:23 um, we'll spend five minutes just
+59:24 looking at this and that'll be a nice
+59:26 segue into the next video. I don't feel
+59:30 like I gave you all the cool tricks I
+59:32 usually give you in this episode. That's
+59:34 that's what's going on in my head right
+59:36 now. So, um,
+59:39 just looking through this set real
+59:41 quick. One is
+59:43 I want to just mention this to people.
+59:46 um is I've done a lot of historical data
+59:50 analysis, looking at our estimates,
+59:52 looking at our time, looking at how long
+59:54 our technicians take to do things. And
+59:57 what we've found over and over and over
+1:00:00 again is trying to fit a project onto 11
+1:00:03 by7
+1:00:05 costs you more money than putting it
+1:00:07 onto a real architectural DNC sheet
+1:00:10 size. Um, and that's what that's just
+1:00:13 what we run into over and over again.
+1:00:15 When we looked at the data, that's what
+1:00:17 was happening is it's way more time to
+1:00:20 manage the sheets. It's way more time to
+1:00:22 try to get all that information in
+1:00:24 there. And then when it really really
+1:00:26 hits you hard is when you have to go do
+1:00:29 revisions and update the sets in the
+1:00:32 field and update everybody on on those
+1:00:35 revisions and you're managing something
+1:00:37 like, you know, 20 to 30 to 40 sheets.
+1:00:40 If you're interior design focused,
+1:00:42 you're only designing kitchens, you
+1:00:44 know, maybe it's not hitting you as
+1:00:46 hard. I still guarantee you it's hitting
+1:00:48 you pretty hard. Um, so it's a lot to
+1:00:50 manage these ANCB 11 by7 sheets. And you
+1:00:54 can see it here. General notes. I can't
+1:00:56 fit it on the page. Our index of
+1:00:58 drawings is getting too large for this.
+1:01:00 Now I got to go, you know, resize these
+1:01:02 images. Um, you'll [clears throat] see
+1:01:04 as we get into here, you know, just
+1:01:06 trying to get this all on the page, it's
+1:01:08 not enough. And so we're not even
+1:01:09 getting the full room and we got a
+1:01:11 multiscope room here. Um,
+1:01:15 so it's just so much extra management.
+1:01:17 We can't fit all the annotations in here
+1:01:18 because we've got to set this at a scale
+1:01:20 that's legible at 11 by7, meaning we
+1:01:23 just don't have enough room for the text
+1:01:25 on the page. Whereas if we shot this and
+1:01:28 halfcaled this on a larger sheet, now
+1:01:31 we've got tons of room to get our
+1:01:33 annotations in here. Not only that, but
+1:01:36 we're eliminating potential errors in
+1:01:37 the field by giving us more clear
+1:01:40 instruction sets and much clearer
+1:01:42 annotations where we can see, you know,
+1:01:44 what this these text leaders are leading
+1:01:46 to because there's not as much graphics
+1:01:49 on the screen. So, I'm going to keep
+1:01:51 pushing for this is start, you know,
+1:01:54 fashioning your setups so that you are
+1:01:56 printing on full-size sheets because
+1:01:58 this is 11 by7 workflow. It's really
+1:02:01 really challenging to get this to all
+1:02:03 work in Jive together. I'm looking at
+1:02:06 this sheet right now
+1:02:08 and this looks like you're not using
+1:02:10 some methods that we typically use to
+1:02:12 show existing. So maybe I'll spend 10
+1:02:15 more times.
+1:02:18 Yeah,
+1:02:20 maybe I'll spend 10 more minutes to show
+1:02:22 you a couple things on this. And then
+1:02:24 this electrical plan, boy, is that
+1:02:26 challenging.
+1:02:28 And I could show you some really cool
+1:02:29 tricks to clean this way up
+1:02:34 because what I see immediately is a
+1:02:37 couple things. Yeah, we're going to run
+1:02:39 a little long.
+1:02:43 See if I could pop this open. Yeah, I'm
+1:02:45 getting some big slowdown in this plan
+1:02:47 and I don't know what it's from.
+1:02:51 My machine doesn't take this long to
+1:02:53 open anything.
+1:02:59 Yeah, I train a lot. I'm just looking at
+1:03:01 the comment section right now while
+1:03:02 we're waiting for this thing to open up.
+1:03:04 Um, I train a lot of offices and I have
+1:03:07 four offices that have now bought new
+1:03:09 plotters and I've switched off of 11
+1:03:12 by7. And oh, and here's the other thing
+1:03:14 I forgot to mention. If you're scaling
+1:03:17 to more technicians, if you're building
+1:03:19 an office, right, it's not just you.
+1:03:21 You're not a sole prop anymore. You're
+1:03:23 finally scaling. you're expanding. It's
+1:03:26 really, really difficult to come up with
+1:03:28 standardized methods to fit everything
+1:03:30 on 11 by7 and match your branding and
+1:03:34 match your methods and match your
+1:03:36 standards for what your documents should
+1:03:38 look like because everyone's just
+1:03:39 fighting it in their own way on how to
+1:03:41 get it on the shot, you know, get it on
+1:03:43 the screen. So, it's way easier to
+1:03:45 standardize in another way. So, I have a
+1:03:47 couple offices right now that have
+1:03:49 reported back to me and yeah, sure
+1:03:50 enough, their documents are going faster
+1:03:52 now. they've switched sheet size. That's
+1:03:55 such a simple and inexpensive switch.
+1:03:58 That's I mean, you know, maybe you're
+1:04:01 investing in a printer, but and that's
+1:04:03 an upfront cost, but maybe not. You're
+1:04:06 just sending it to a printer and so
+1:04:07 there is no upfront cost to change that
+1:04:10 and suddenly you're getting more work
+1:04:12 done. Um, so consider it. I don't know
+1:04:15 why this uh is not opening, but it is
+1:04:17 not opening.
+1:04:20 Yeah.
+1:04:23 I need a reboot. Or maybe Chief has just
+1:04:25 had enough of me talking crap all day,
+1:04:28 all night. There it goes.
+1:04:31 All right, I want to show you something
+1:04:33 real quick, which is what I see here is
+1:04:36 we we've got a couple transformers. I'm
+1:04:38 guessing that's what these are. These
+1:04:39 are transformers to your upper and lower
+1:04:42 lights. And I mean, I think that this
+1:04:43 just looks confusing and and it's a lot
+1:04:46 it's a lot of information on the sheet.
+1:04:48 And so, you know, I would do some things
+1:04:50 to change this. One is I would change
+1:04:52 this text size immediately. I don't need
+1:04:55 to see this. You know, it's just very
+1:04:57 large for this. We only need a small
+1:04:59 note. It should just be the same size
+1:05:01 text as everything else. I'm just
+1:05:03 actually going to get rid of it. Uh,
+1:05:04 under sync disposal
+1:05:09 switch.
+1:05:12 And I don't see that switch, but that's
+1:05:14 okay. Plug molding under cabinet.
+1:05:18 And then so under sync disposal switch.
+1:05:21 Something that could be nice is that you
+1:05:23 can always use the switch tool. Drop
+1:05:25 that switch in here. Pop this open. And
+1:05:28 in the um options say that it's floor
+1:05:32 mounted instead of wall mounted. And now
+1:05:34 we just move this thing around. And you
+1:05:36 could put that right there. And that
+1:05:38 would be your undersync switch. And then
+1:05:42 um if you're drawing in a clockwise
+1:05:45 motion, this will always move and do the
+1:05:48 arch into the interior side of the room.
+1:05:51 And typically architectural standards
+1:05:52 would be that we're going to draw all
+1:05:54 these on the interior side of the room.
+1:05:56 But I'm actually going to get rid of a
+1:05:57 bunch of this stuff. And I'm going to
+1:05:59 show you a different maybe method for
+1:06:01 this. In fact, let me just get rid of
+1:06:03 all your electrical connections to show
+1:06:06 this.
+1:06:08 And so, uh, one here is that we have a
+1:06:11 new tool for this, by the way. And we
+1:06:13 should be able to just group, select
+1:06:15 these, and gang these,
+1:06:18 except for they're not aligned. So,
+1:06:20 maybe we'll align them first.
+1:06:25 Okay.
+1:06:27 Looks like the standard is these. Boy,
+1:06:29 something's killing this plan. I don't
+1:06:32 know what it is, but
+1:06:35 some fixture, some object, some
+1:06:37 something.
+1:06:40 Wow, that's a big slowdown.
+1:06:46 Hope it's not something I did.
+1:06:52 Boy, I wanted to show you something real
+1:06:54 quick. It's not going to let me. Here we
+1:06:55 go. Um, so let's see what this height
+1:06:57 does. 47 and eighth. We'll just copy
+1:06:59 that and we'll take these. Do that same
+1:07:03 thing. Paste. And now you should be able
+1:07:07 to.
+1:07:10 Come on, baby.
+1:07:13 Should be able to gang all these
+1:07:15 together like that. Okay.
+1:07:18 Now, with these gang, these are going to
+1:07:20 space out based on the CAD symbol. So,
+1:07:22 it might be nice if you actually edited
+1:07:24 that CAD symbol. So, when you select
+1:07:26 this now, they're individual pieces,
+1:07:29 right? If you tab in, you get to that
+1:07:31 one item. If I edit this CAD block
+1:07:33 thing, it might be nice if I got rid of
+1:07:36 that dimmer. Um, it's actually not in
+1:07:39 this symbol, it seems. So, that must
+1:07:41 have been some automatic thing.
+1:07:45 And so, it might be nice if you just
+1:07:47 save a switch as a dimmer, make your own
+1:07:49 CAD block for this, so that we get rid
+1:07:50 of that DM so that we could tighten
+1:07:52 these up a little bit. But the thing
+1:07:53 that I would do is I would actually move
+1:07:55 this over like this. And then when you
+1:07:57 open up the gang, you can change the 3D
+1:08:00 alignment to left so that it moves the
+1:08:02 box over here, but the switches are over
+1:08:04 on the left. And that just makes it
+1:08:06 easier to really distinguish what the
+1:08:08 electrical connections are coming from.
+1:08:10 The next thing that I would do is change
+1:08:12 your default settings for arrows. And
+1:08:15 let's go ahead and um just edit this
+1:08:19 real quick. And so what I'm going to do
+1:08:20 is I'm going to select a CAD block that
+1:08:23 I know that I have in my library,
+1:08:27 which is this guy. Okay. And so it's
+1:08:30 kind of a continuation block. And I'm
+1:08:32 going to press okay. The other thing
+1:08:34 that I want to do is current CAD layer
+1:08:38 CAD electrical. I'm actually going to
+1:08:40 change this to electrical connections.
+1:08:44 All right. And that makes it so that
+1:08:45 when I drop out draw in a line, it's the
+1:08:49 electrical connections line style and
+1:08:52 layer makes it really easy for you to do
+1:08:54 some kind of advanced things. Um, and so
+1:08:58 I could add an arrow to a line, etc. So
+1:09:01 I could draw out a line and before I
+1:09:04 even get too far, I'm going to do line
+1:09:05 style management.
+1:09:08 I'm going to bring that up. I'm going to
+1:09:10 create a new line style. I'm going to do
+1:09:12 a dash. And let's just say that this is
+1:09:15 going to be let's make these really
+1:09:17 tight. 16th of an inch. Something like
+1:09:20 that. And maybe we'll do um maybe we'll
+1:09:25 do another dash
+1:09:32 and then we'll do some text. And so for
+1:09:35 this first one, I would do um TL1 + 2 I
+1:09:40 think was what you were calling those
+1:09:41 transformers is TL1. And so what I'm
+1:09:44 doing with this now is that I'm going to
+1:09:46 take that electrical. I'm going to just
+1:09:48 take a CAD line. I'm going to go out
+1:09:50 from here. I'm going to rightclick to
+1:09:52 bend this. I'm going to add an arrow to
+1:09:56 the end of this. Include an arrow.
+1:09:58 There's that block A and line style. I'm
+1:10:01 going to switch to my TL1 and two. And
+1:10:04 so there we go. I've got a continuation
+1:10:06 arrow. Um, let me get into that line
+1:10:08 style management again. I'm going to
+1:10:09 shrink the size of my text because it's
+1:10:11 very large and we don't need it that
+1:10:13 large. So let's just say the text height
+1:10:16 is 116. So we'll cut it in half.
+1:10:19 That's what that ends up looking like is
+1:10:21 it's basically a break line. And so you
+1:10:23 could take this
+1:10:26 and just
+1:10:28 pop this into TL1. And so the next thing
+1:10:31 I'm going to do is I'm going to get rid
+1:10:32 of the second transformer in this case.
+1:10:35 And I'm just going to edit the CAD block
+1:10:37 of [snorts] of this. And maybe we'll
+1:10:40 expand this.
+1:10:42 And then I'll take this text and do
+1:10:45 something like this. I'll do QTY
+1:10:50 2
+1:10:52 PL.
+1:10:55 All right. And maybe we'll expand this a
+1:10:58 little bit just to encompass this. And
+1:11:00 we can close this down. Save. Save all
+1:11:02 instances. And so this is telling me
+1:11:05 I've got two of these here. And just to
+1:11:07 make sure I got two, I can copy paste
+1:11:08 paste all positions so it shows up in a
+1:11:10 legend. And so now what I'm doing is
+1:11:13 I've got hey a brake line. This is TL1
+1:11:16 and two is going to maybe these two
+1:11:20 switches.
+1:11:22 And so I could say that this is TL1. And
+1:11:25 then I can make a line style that says
+1:11:27 TL2. and they're going to the same
+1:11:29 continuation and break and that just
+1:11:31 cleans the whole center section of this
+1:11:33 up and makes it way easier to get all
+1:11:36 that information on the page maybe. So,
+1:11:39 there's just a quick thought there. Um,
+1:11:42 keep in mind that your rope lighting uh
+1:11:45 changes the way it looks in a 2D view
+1:11:47 based on its overall width. So, if we
+1:11:49 change this to 3-in width, then you're
+1:11:52 going to see rope lighting that looks
+1:11:53 like that instead.
+1:11:56 All right. So maybe that looks better,
+1:11:59 maybe that looks worse. If that looks
+1:12:01 worse, then maybe you want to change
+1:12:02 your rope lighting width to like a 16th
+1:12:05 of an inch and it's going to look like
+1:12:07 just a bunch of lines with dots and
+1:12:09 maybe that's an improved look. And then
+1:12:12 another thing I would do is I would edit
+1:12:13 these GFCI CAD blocks because almost
+1:12:16 always these are going to get in the way
+1:12:18 of your rope lighting if you get these
+1:12:20 like one inch from the edge, right? If
+1:12:24 you snap this to the edge and go one
+1:12:26 inch, then that GF CI annotation is
+1:12:30 right in the way. So instead, just
+1:12:32 change this. Maybe just put a G and
+1:12:35 throw this back here, right? Close that
+1:12:39 down. Save. Save all instances. And so
+1:12:42 that's maybe a little cleaner look for
+1:12:44 you. And then just use a legend to let
+1:12:46 it know that those are all your gies.
+1:12:50 Um, I have more tips for this. I can
+1:12:54 really make a super clean, easy to read
+1:12:59 uh, electrical plan. So, maybe we'll
+1:13:01 save that. Pin that for the next
+1:13:03 episode. I went way over this time. I
+1:13:05 got to get back to work. In fact, I
+1:13:07 might be missing a scheduled meeting.
+1:13:10 So, I'm out of here. Thank you guys for
+1:13:12 watching and I'll see you next week.
