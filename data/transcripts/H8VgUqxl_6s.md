@@ -1,0 +1,1828 @@
+---
+videoId: H8VgUqxl_6s
+title: Impromptu Drafting Session
+url: "https://www.youtube.com/watch?v=H8VgUqxl_6s"
+status: imported
+---
+
+# Transcript
+
+0:01 going
+0:02 live uh you're probably watching this
+0:04 after the fact because I just decided to
+0:08 do an impromptu session and that's
+0:10 always challenging to get live viewers
+0:13 on an impromptu
+0:15 session that's my fault I should
+0:17 schedule these things that would be
+0:18 nicer for everybody all right let me
+0:21 figure out my configuration here there
+0:24 we
+0:27 go cool
+0:30 start drafting um I've got a I got a
+0:33 particular set of actions that I created
+0:35 for actually it's a script for Photoshop
+0:38 and it makes a um a PDF Bea green
+0:42 overlay like this so it's real easy to
+0:45 trace so I'm just working kind of
+0:48 clockwise now I'm on windows before I do
+0:50 any kind of exterior features so I'll
+0:52 just be working through this and as I'm
+0:54 working people usually pick up a few
+0:56 tips and tricks as I'm going so we'll
+0:58 kind of figure that out as I go
+1:00 um I'm going to turn on my auto exterior
+1:03 Dimension tools and we should be on an
+1:05 auto refresh yeah it is so there's a
+1:09 4040 this needs to be a
+1:13 26 there we go
+1:17 2660 and I like to just set the first
+1:20 window up as a default just in case
+1:22 that's actually the case um but it might
+1:24 not be
+1:25 2660 and can't tell if it's a single
+1:28 casement or what we're going to leave it
+1:30 as single casement then in our edit
+1:33 toolbar set that as
+1:35 default and then kind of just work
+1:37 around so um should be able to click off
+1:39 and then click back on and it still has
+1:41 your window tool active and also
+1:44 something I'm missing here it looks like
+1:45 it's got a big exterior sell
+1:48 profile um we do in fact have an
+1:50 exterior sell profile on here I'm just
+1:52 not showing it in my layer so not sure
+1:55 and then if you're on Facebook um you
+1:57 got to authorize streamyard in order for
+2:00 us to see your name for me to know who
+2:01 you are otherwise you just look like
+2:03 this blank Facebook user saying yoyo hey
+2:06 how's it going and then for everybody
+2:09 else that just joined I'm just working
+2:10 on a regular session so um I'm happy to
+2:13 pause and go over tips and tricks if you
+2:15 want to know some stuff um that's always
+2:18 kind of the goal is Teach as I go keeps
+2:20 things interesting for me um that was
+2:23 just a quick coin Centric resize if you
+2:25 don't know my Pro Plan when I resize an
+2:28 item below 30 in it's going to
+2:30 automatically truncate my label that's
+2:32 just a complicated macro so some of
+2:34 these things might look different to you
+2:37 coming in here and then let's see I'm
+2:39 hitting the Escape key if you didn't
+2:41 know this the Escape key actually Cycles
+2:43 back through previous tools that you had
+2:45 so if by accident I just went to a tool
+2:48 that I didn't want to go to and I wanted
+2:49 to get back to my window tool well that
+2:51 would be easy enough for me to do just
+2:54 by hitting Escape key I'm going to copy
+2:57 paste reflect about this room right here
+3:00 but sometimes it's not going to pick up
+3:02 the room for some reason even hovering
+3:04 over the wall there we go that's
+3:06 probably correct and then I'll Center
+3:09 these two in the room
+3:17 oops yeah there we go so just working
+3:21 clockwise through this plan to get this
+3:23 right uh there's a
+3:25 28
+3:27 interesting 2876
+3:33 um I have my numpad on my
+3:36 keyboard modified so that I have a foot
+3:39 and inch marker right next to my numpad
+3:41 so that's kind of nice and this is
+3:43 probably just copy paste reflect about
+3:45 there we
+3:49 go this is some open terce that I
+3:52 haven't set up yet and
+3:55 then um when you have something enclosed
+3:58 with walls it creates a room right so
+4:00 once you have a room that changes the
+4:03 way that the window tool and the
+4:05 exterior door tool works I'll show you
+4:07 what I mean here we're just going to
+4:08 pull um a camera inside of this View and
+4:12 if we were to draw in a window here like
+4:13 we wanted to you're going to notice that
+4:16 it's um designating a certain material
+4:19 on the window versus the exterior it's
+4:22 designating a different material that's
+4:23 because it's seeing this as an interior
+4:25 space so it has a different set of
+4:27 defaults in terms of the the materials
+4:30 being used so that means I've got to
+4:33 kind of Disconnect this wall for a
+4:35 second if I want to have a window here
+4:37 in place and then I can hit that Escape
+4:39 key a couple times to get back to that
+4:41 window tool if I didn't want to you know
+4:43 have a hotkey for that window
+4:46 tool oh this is that 76 again maybe I'll
+4:48 set that as the new
+4:51 default it seems we've got a couple of
+4:53 these going on here and then this was
+4:57 oops
+4:58 2876
+5:04 default this looks like it's got some
+5:06 kind of pony wall setup on
+5:08 it
+5:11 2440 concentrically resize tab input two
+5:14 inches on either side that gets you
+5:26 there garage
+5:28 door
+5:33 typically this is going to be
+5:35 16
+5:37 so
+5:40 um what is that 7
+5:43 foot
+5:46 yeah and then a
+5:49 90 um in my Pro Plan my garage doors
+5:52 actually have a if you can see
+5:57 this well maybe I got rid of them by
+6:00 accident typically they have a shutters
+6:02 and they create a threshold oh yeah
+6:04 they're there creates kind of a
+6:06 realistic looking threshold in here kind
+6:08 of
+6:15 cool right let's go door Tool
+6:28 30 that should have been Auto exterior
+6:31 kicking me in here that's 11 foot five
+6:35 to the center that's way off oh I don't
+6:39 have Center Line
+6:45 there
+6:55 okay probably Center of this room
+7:02 look my label's
+7:04 overwriting this so I actually want this
+7:07 to be on top this PDF here so we can
+7:10 always change
+7:12 the draw order to very front so
+7:25 2450 what do we got here
+7:28 12660
+7:33 and probably
+7:48 centered oops off one
+7:58 inch
+8:07 1060 let's just copy this why
+8:18 not my Math's a little
+8:24 off okay that's centered all right
+8:27 Windows done now I'm G to start working
+8:31 through some like
+8:35 doorways three four doorway that's
+8:39 great what are they dimensioning to
+8:41 they're dimensioning to the exterior
+8:44 side that's fine I'll conform that
+8:53 later pocket
+8:58 door
+9:28 h
+9:32 hey thank
+9:37 you oh you ran into an
+9:41 error uh do you get two different label
+9:45 Styles um what happens is so the Pro
+9:49 Plan label for Windows is looking for a
+9:52 layer that it's on and so when you pull
+9:55 an elevation there's an error from
+9:57 Chief's side which is that the windows
+9:59 don't correctly report their label I
+10:02 mean their layer
+10:05 um and so actually you're running into a
+10:08 problem that I need I could maybe fix
+10:12 for so let's look at the macro for this
+10:15 because it's a complex
+10:18 macro there's a couple conditional
+10:20 statements here and let's just zoom in
+10:22 let's
+10:26 see if layer set includes set C or
+10:29 window
+10:31 layout so that it's going to do
+10:34 something if those conditions are met if
+10:36 it's condition for framing layer set
+10:40 condition with the
+10:42 float if layer case includes demo that's
+10:45 another
+10:47 condition I have to dig into this to see
+10:50 why this might not be showing up
+10:52 in in this view because we'll notice
+10:56 that the exterior doors are showing up
+10:57 just fine
+11:01 so part of the problem with this is that
+11:02 Chief is not correctly reporting if we
+11:04 look at object
+11:05 properties um when we look at it's going
+11:08 to report layer correctly but it's not
+11:10 necessarily going to report layer set
+11:12 correctly so layer set is looking at
+11:14 working layer
+11:17 set um so something about that
+11:20 conditions not being met thank you for
+11:23 pointing that out I'll have to mess
+11:24 around with that I was going to run into
+11:26 it anyways I'm sure but um looks like
+11:29 something new that I did I did a new
+11:31 trick where if you put this on a demo
+11:33 layer so let's just look at this real
+11:35 quick if we put this on a demo layer
+11:38 meaning that I'm going to use the layer
+11:39 painter and I'm going to choose my demo
+11:42 layer and let's just spray this you're
+11:45 going to see that it's window Tu be
+11:46 remov C proposed plan so that's the last
+11:49 edit that I made to it so somehow my
+11:51 scripting is not taking account that
+11:54 elevations don't correctly report the
+11:55 layer set um so yeah look for an update
+11:59 on that I'll have to put that out more
+12:02 complex the prop plan gets the more
+12:04 these little details lingering details
+12:07 kind of slip by I have to figure that
+12:09 out but you know we release new updates
+12:12 pretty
+12:14 quickly uh what is this even this is
+12:18 the got it draw as a single casement
+12:20 that's one big single casement so I
+12:22 would say this is a
+12:25 quad um but you know what I don't think
+12:28 I've had had to do that before how do we
+12:31 split how do we
+12:34 split options tempered glass levels
+12:37 vertical stack so we can get a triple
+12:43 casement how do we make a
+12:46 quad I don't think I've had to do
+12:49 that so this is just going to be a mold
+12:52 unit which is probably how it's actually
+12:54 being made
+12:57 right
+13:02 and it's probably maybe the two centers
+13:05 are are fixed we have no
+13:10 idea no idea so in this menu we could
+13:14 just
+13:16 say right hand is
+13:21 fixed and then this is going to be left
+13:27 hinge Circle about select the two mold
+13:31 the
+13:49 unit looks like this door is slammed
+13:55 here oh this is the shower door I'm
+13:57 being goofy I'm going to use my bath
+13:59 tools for this so what do we have we
+14:05 have we're going to have a full Wing
+14:07 wall here I like to draw in a cadline
+14:09 for this because you can easily draw
+14:12 these walls when you have something to
+14:13 snap to and then in my shower tools you
+14:17 can snap in half wall to this extent
+14:22 probably right in there and I just like
+14:25 to draw this in little cat lines make it
+14:28 real easy to make this precise and then
+14:30 that's a curb
+14:34 wall and we'll just do my shower
+14:43 door
+14:46 which and then a fixed
+14:56 panel and edit the fix panel if I can
+14:58 get to
+15:00 it huh interesting doesn't want to let
+15:09 me what's going on
+15:27 here it won't draw in the fixed panel
+15:30 all right let's expand this then draw it
+15:34 in or actually this is just supposed to
+15:36 be a curb that's my
+15:39 problem
+15:44 oops
+15:46 curb fixed panel is not drawing in
+15:50 correctly
+15:54 weird look that draws halfway through
+15:57 the curb
+15:59 from floor
+16:01 weird oh funny that's an error as well 9
+16:05 more 916 there we
+16:27 go
+16:33 that should look
+16:41 correct
+16:46 beautiful turn that into a shower
+16:49 room little
+16:57 backsplash
+17:04 they have a big old window in their
+17:06 shower that's
+17:09 interesting H that seems very odd to me
+17:11 I wonder if my no Jam tool works on this
+17:13 I think it might it does look at that
+17:16 isn't that clever except for that it
+17:17 removes casing on the exterior maybe not
+17:20 right so we'll
+17:25 see yeah clearly don't remove casing the
+17:29 exterior let's go back that out a little
+17:34 bit I need to remove casing on interior
+17:47 only all right let's see how the rest of
+17:50 the shower plays
+17:52 out it's this wall right here continues
+17:55 this
+17:57 way and and we got that same floor to
+17:59 ceiling panel right
+18:04 here which we can't select because the
+18:06 designations run we got to go figure out
+18:08 where this is this is 025 so in my
+18:12 library
+18:14 browser
+18:18 025 open this bad boy up and fix
+18:24 him there we
+18:27 go
+18:31 should be able to still
+18:34 undo
+18:37 yeah one more
+18:48 undo it's still coming in it a
+18:53 funny under floor thing going on
+18:57 here
+18:59 oh too wide again I
+19:06 guess should probably account for that
+19:09 make this narrow from the
+19:13 get-go there we
+19:16 go isn't that
+19:19 nice and
+19:21 then flip the hinge
+19:27 assembly
+19:56 that's looking almost right
+19:59 almost almost
+20:01 right um this should
+20:04 be I mean the way they have this drawn
+20:06 there's no way they're putting a little
+20:08 tiny itty bitty panel here they're
+20:09 probably binding the hinge straight to
+20:11 the
+20:12 corner and so in which case we want to
+20:14 switch this out for a 90 degree in our
+20:17 Hardware so our hinges double hinge this
+20:22 should bring us up
+20:24 to a
+20:26 90 and let's see where looking at
+20:28 exterior versus if we show the wall
+20:33 in think I have this drawn
+20:36 wrong yeah I do so plate Corner bracket
+20:40 other plate Corner
+20:41 bracket there we
+20:45 go that
+20:48 right nope I'm slipping I had it right
+20:51 the first
+20:52 time dang
+20:57 it
+21:00 oh as a door handle so no we just need
+21:02 to invert this how are we inverting this
+21:05 plate Corner bracket um oh we're just
+21:07 changing the swing side I'm being a
+21:10 goof du there we go I'm slipping I am
+21:16 slipping um yeah isn't that
+21:20 nice I'll show you since you're here
+21:23 I'll show you the new action boy was
+21:25 that a pain in the butt to do uh let's
+21:28 just show you our Photoshop real
+21:39 quick
+21:41 so um let's just do the old fashion way
+21:44 where we're open a PDF and let's just
+21:47 pick a page like page
+21:50 15 and then here's essentially what it's
+21:52 doing PDF comes in as a PNG and you can
+21:55 see that some stuff is just gone right
+21:57 let me clip this out so we're not
+21:59 putting someone's title Block in here
+22:02 um and so we do have some fill and
+22:05 that's because of where this graphic
+22:08 came from was a copy paste from
+22:10 something that's not a digitized PDF so
+22:12 it still has white fill so if you want
+22:14 to apply green to this you got to deal
+22:16 with this area up here so there's so
+22:18 many ways you can do it something I
+22:19 learned which is kind of new and neat to
+22:22 me is you can add a solid color
+22:25 adjustment layer that's white and then
+22:27 set your blending mode
+22:30 to
+22:32 difference and that's going to highlight
+22:34 in Black everything that's white which
+22:36 is kind of cool because then if you're
+22:39 just to stamp this layer based on that
+22:42 and from the stamp say we want to select
+22:46 a color range and you pick
+22:48 black right so now all you have to do is
+22:52 delete this
+22:53 layer and delete the underlying color
+22:57 fill
+22:59 layer and then click on
+23:02 mask
+23:04 and let's see what is that get us no we
+23:07 need to yeah click on mask it's going to
+23:10 generate a mask then invert the
+23:14 mask and then undo my crop get off the
+23:17 crop tool but that's it it removed the
+23:19 background
+23:21 here you know kind of new kind of neat
+23:24 kind of cool so if you're trying to mask
+23:26 a particular color in a in a document
+23:29 that's a way you could do it I'm doing
+23:31 something totally different in this
+23:33 action script which is let me just start
+23:35 a new document so we just have something
+23:38 run this script and it just it prompts
+23:41 what page we want 14 in this case
+23:44 something like that and now it just
+23:45 selects a color range and it selects the
+23:47 color range true white so anything
+23:49 that's not true white is not going to
+23:51 get selected so it's doing that for you
+23:54 and then it's applying a green clipping
+23:56 mask to that layer once it's processed
+23:58 and then it exports and it's gone and it
+24:00 suddenly it's in your
+24:02 folder um so that's how that green
+24:06 overlay is coming
+24:09 in nice to be able to just pick a page
+24:11 and go especially if you only need to
+24:13 Choice like one page or
+24:19 something if any of that made
+24:22 sense sorry if it
+24:26 didn't
+24:33 still doing my math wrong let's see here
+24:35 we
+24:36 go all right what else we got sure I'll
+24:39 place a toilet because it's
+24:44 here what just happened there that was
+24:47 weird evaluation
+24:51 error uh 8 foot header for 2440 window
+24:56 yeah okay
+25:21 244 I need to set my bumps up when I
+25:23 start a plan like this I like this
+25:26 usually I'm only using bumps
+25:28 infrequently and also do e inch
+25:30 increment but it's nice to set it up as
+25:32 1 in increment oh I hate that it
+25:34 defaults to showing the snap
+25:41 grid yeah all right
+25:46 cool yeah so well I guess I didn't
+25:49 demonstrate how it's being done so open
+25:52 same thing
+25:54 PDF and then it's picking a page or you
+25:57 pick a page
+25:59 whatever and let's just crop out this
+26:01 guy's title block real
+26:02 quick and then it's um in this case it's
+26:07 just doing this it's selecting a color
+26:09 range targeting a color zero fuzziness
+26:11 so it's only targeting white and then
+26:14 it's literally hitting the delete key so
+26:17 I don't like that as much um because
+26:20 it's not always
+26:22 perfect and I mean maybe
+26:25 really before it even does that let's
+26:27 just do a deselect it should
+26:29 probably um do like
+26:32 a brightness
+26:35 contrast or a levels a levels would be
+26:40 good because levels then if it
+26:45 just let's
+26:47 see shrunk down the white
+26:52 range and brought up the mid-range then
+26:55 it'd probably be easier and stamp it
+26:59 then it' probably be easier to do a
+27:00 select color range from here or
+27:05 Curves and then delete and then it's
+27:08 doing just a solid color neon
+27:12 green and saying it's going to clip to
+27:14 the layer below oh except for we had a
+27:17 mask on this we shouldn't have oops
+27:20 there we
+27:26 go
+27:41 it's a big old
+27:43 door big old door with sidel lights
+27:46 let's see our s side
+27:56 lights
+27:59 that's a 2 six they don't have it drawn
+28:01 quite right unless I don't have this set
+28:04 oh there we go Zer inch between them
+28:07 there you
+28:10 go and
+28:12 2680 assuming all the doors in this plan
+28:15 are
+28:24 80 staircase ought to be fun
+28:32 missing some of the exterior details but
+28:34 I like to do those once I
+28:36 understand the entire plan all
+28:56 levels
+28:57 18 foot1 jeez all
+29:17 right oh missing a doorway here
+29:26 huh
+29:36 so door walks in a great room fireplace
+29:39 shelving unit built-in what is this
+29:41 probably a
+29:43 kitchen it's crazy how you draw enough
+29:46 of these you start just understanding
+29:48 what might be there even if you haven't
+29:49 studied it so yeah kitchen some kind of
+29:52 Butler's Pantry or prep kitchen
+29:55 maybe who knows what
+29:57 but walk through
+30:01 garage might as well set this up as a
+30:03 garage I don't know what the height of
+30:05 it is yet but there we
+30:08 go okay what is this what just happened
+30:12 oh this is my is my terrain coming in
+30:15 through the garage for some reason it's
+30:16 not getting cut correctly we'll have to
+30:20 see um what is this probably bathrooms
+30:22 laundry we're missing a doorway
+30:26 here
+30:30 or are we oh miss nadora
+30:38 here oops
+30:42 two
+30:49 okay look at this little step right here
+30:52 isn't that funny why is it putting that
+30:55 there that's odd
+30:59 something busted in my
+31:12 walls figure it out
+31:16 later what is this this is a funny
+31:18 little room this a
+31:22 bedroom office maybe office there it is
+31:27 bom office
+31:29 closet and then we got stairs down to up
+31:34 okay so let's see what happens when we
+31:37 change the number here page three to
+31:41 page
+31:42 four what do we got
+31:45 now this is going to be
+31:49 what what room is
+31:53 this it's got to be
+31:56 below L craft from exercise yeah this is
+31:59 definitely down
+32:00 level
+32:02 okay alt b f for floor or o for floor
+32:07 and the new floor
+32:10 is we want to insert a new floor
+32:15 ey um right around this time before we
+32:18 do staircase we should figure out
+32:22 what what the height is from floor to
+32:25 floor and what the structure is so
+32:28 that's when I want to open up a PDF and
+32:30 actually check this
+32:33 out study it for just a second we'll try
+32:36 to get
+32:38 this to the point where I'm not sharing
+32:40 all personal
+32:42 info with the
+32:49 world maybe I'll just do it offscreen
+32:51 sorry
+32:56 guys Talk Talk Amongst
+33:07 yourself so I got a 10
+33:09 foot 10 foot floor to floor is what I've
+33:14 got with one foot two structure one
+33:16 foot4 structure so floor defaults floor
+33:20 one has
+33:23 a one
+33:25 foot4
+33:29 structure probably
+33:32 tgis right I joist
+33:36 okay and then
+33:38 it's height rough ceiling
+33:41 height
+33:42 plus two
+33:45 foot so that's my floor one floor
+33:48 two has a one foot2 ceiling
+33:54 structure same thing probably I Jo
+34:00 probably and R ceiling height
+34:05 is 9 foot so and 12
+34:09 Ines simple as that now we can start
+34:13 tracing again so let's go up level let's
+34:17 grab this copy paste hold even though it
+34:20 didn't line up this pet peeve with ar an
+34:22 architect doesn't line up isn't that a
+34:25 pain so let's go study this up above so
+34:28 let's set this back to page
+34:35 three oh interesting reassociating
+34:39 all of a sudden changes the scale how
+34:42 strange is
+34:44 that it changed it to the clipping of
+34:46 the bounding box there that's
+34:48 annoying um I've never seen that before
+34:52 so 83 foot4 let's go
+34:55 bam
+35:07 crazy you can be in this software for so
+35:10 long and still learn new things about it
+35:13 all the
+35:17 time look at this is doing grid snaps
+35:20 right now that's
+35:22 annoying Use SNAP grid unit
+35:25 okay
+35:31 oh where did I snap the this corner this
+35:34 corner this
+35:36 corner there we go okay now let's try
+35:39 this again
+35:42 copy paste
+35:45 hold
+35:46 and
+35:50 hopefully yeah that doesn't seem to hold
+35:52 position at all look we can
+35:55 tell so
+35:58 let's just do a based on this corner as
+35:59 an obvious one let's see if that makes
+36:02 sense yeah that makes sense is is look
+36:07 at all this these elements not lined
+36:12 up
+36:25 okay
+36:35 all right so now some of this is a
+36:38 little bit more aligned
+36:51 interesting not really though this needs
+36:54 to be
+36:55 rescaled
+37:06 so the PNG exported at a different size
+37:08 let's try this 834
+37:25 again
+37:31 now see this wants to be lined up I
+37:34 would think yeah boy these are way
+37:39 out very strange hard to kind of deduce
+37:42 what might have been happening from
+37:44 floor to floor since doesn't seem that
+37:47 any architectural elements are lining
+37:49 up very very
+37:55 strange might be an error in the PDF
+37:57 it's not the first time look at how off
+38:00 this is definitely off we go look at the
+38:02 floor
+38:03 above oh that one's
+38:06 arbitrary
+38:16 okay that's snapped in for some reason
+38:19 so it is lining up with
+38:25 something
+38:35 roof below this must be a top floor I
+38:37 must be wrong this must
+38:40 be exchanged oh that would make a lot
+38:44 more
+38:45 [Laughter]
+38:49 sense I need a
+38:51 break been working too
+38:54 long okay
+38:57 that would make a lot more sense
+38:59 wouldn't it exchange with floor
+39:02 above dang it so now I got to go back to
+39:05 that PDF and look at something let's see
+39:07 so
+39:08 my there's one top floor
+39:11 then
+39:13 uh okay there's a basement there's a
+39:17 walkout basement
+39:23 level it's hard to read all right
+39:30 so this should
+39:34 be
+39:36 12 come on minus 12 it's not giving me a
+39:41 minus key minus oh my minus key is not
+39:44 working all right minus 12
+39:49 and and this is minus
+39:55 two
+40:03 funny that you can exchange with floor
+40:05 above but it doesn't
+40:07 retain uh the floor settings there I
+40:10 guess that makes
+40:25 sense okay to leave
+40:30 here does this line up with anything it
+40:39 does probably means this line up with
+40:42 something it
+40:45 doesn't exterior wall it's probably an
+40:48 interior wall that's completely
+40:50 encompassed by a roof plane on this side
+40:53 which is why it's drawn
+40:55 smaller
+40:57 all
+40:58 right work out the details in a
+41:13 bit let's turn on the reference display
+41:16 anything lining up here no it's
+41:25 not
+41:33 what is this this is an exterior wall
+41:35 right
+41:37 here
+41:47 interesting exterior
+41:55 wall
+42:04 roof below so why are we
+42:22 showing this will always draw about the
+42:25 interior side so I don't know why I just
+42:27 brought that to the exterior side there
+42:29 we go draws interior
+42:32 side snaps to
+42:52 this always like to train myself on some
+42:54 new tricks and tips so using that Escape
+42:57 key to get back to previous tool as
+43:00 opposed to just choosing the interior
+43:02 wall tool I think that's a that's a nice
+43:04 change to my
+43:06 workflow I'm not perfect at it yet so
+43:09 we'll see how that goes but so like say
+43:12 I want to go to the door tool yeah draw
+43:15 the door in as I go just because I'm a
+43:17 spaz and feel like doing it because I'm
+43:18 here and then escape to get to the
+43:22 previous tool to keep drawing walls I
+43:25 don't know kind of like it
+43:30 just make sure we're snapped here yep
+43:34 okay extend this through this is a funny
+43:37 one so interior sides on the le- hand
+43:39 side so if I stop it here it should draw
+43:43 perfectly right there
+43:55 yep
+44:14 oops let's try it
+44:18 again
+44:25 go
+45:05 to F balance between F and space
+45:07 constantly to switch between previous
+45:10 TOs and select yeah no I'm I'm liking it
+45:12 um to F what's F out of the
+45:16 box only thing I don't like about that
+45:18 is I compound all my hot keys
+45:22 so if I'm using a single letter key like
+45:25 f
+45:26 then that means I'm also taking up
+45:27 contrl F shift F control shift F alt
+45:30 control shift F and crlf is a system key
+45:33 for find so that's why I wouldn't use
+45:35 that for for it to each their
+45:38 own uh let's see if I do alt tkk
+45:44 and how do we even find F what would be
+45:48 using
+45:50 F I'm sure I didn't change it out of the
+45:52 box I don't
+45:54 think
+45:57 Char is fine replace shift f is already
+46:01 alt shift F's framing defaults yeah I
+46:03 definitely didn't bind anything to F but
+46:05 I guess that's okay if nothing's already
+46:07 bound to
+46:19 it oh just get in your home get in your
+46:24 home
+46:35 and they like to bounce around door
+46:37 sizes like
+46:38 it's no
+46:44 tomorrow and then
+46:48 doorway oh can't do a doorway without a
+46:54 wall
+46:57 am I not picking up
+47:06 centers um let's
+47:09 see one second if I can figure out how a
+47:12 second there's no pause in the live
+47:14 stream dang it I'm gonna mute for a
+47:24 second
+47:37 all
+47:40 right still seem to show a jam there I
+47:43 thought I'd turned those
+47:54 off
+47:59 doesn't matter how many times I draw I
+48:01 always forget what side going going west
+48:05 to east which side it draws from I don't
+48:09 know why I can't remember
+48:11 that every
+48:24 time
+48:27 how the heck do you get into the laundry
+48:29 craft room this weird hallway that's a
+48:31 weird
+48:33 design
+48:37 fun all right here's a little tip we're
+48:39 going to have a railing here for stair
+48:41 case just draw it with a normal wall
+48:43 would be my tip right
+48:46 there and then designate as a railing
+48:49 once you break
+48:51 it looks like this is a railing with a
+48:54 doorway
+48:57 also don't break it first let's draw the
+48:59 doorway in
+49:01 first doorway that still has jams for
+49:04 some reason let's go no
+49:10 Jam so they're saying what they're not
+49:13 giving me a dimension for this so then
+49:15 this goes to here and that's really
+49:18 where I want my
+49:22 break there we go
+49:27 and then let me just draw in if I can
+49:30 draw from that snap point no it's not
+49:33 going to let me let's it
+49:38 go there we
+49:41 go so now that's a railing and this is a
+49:48 railing it just doesn't follow my
+49:51 default rail style
+49:54 now head set
+49:59 up but that's easy to fix later
+50:04 on really this should just be continued
+50:08 forward
+50:10 broken and
+50:12 then brought let's see that's a top step
+50:15 right there this should be brought
+50:18 up like
+50:21 so and just need to make sure there's a
+50:24 little section here for that in
+50:28 between and I like to fix stuff like
+50:30 that in
+50:37 3D oh yeah the F key is a is a is a
+50:41 system key for fillet yeah what are you
+50:45 doing so then how are you doing a fillet
+50:48 are you just never doing
+50:54 it
+50:57 uh evil Dead's
+51:00 downstairs right now I'm on this one's
+51:02 called
+51:03 triptic
+51:05 um I don't even know how I can move my
+51:08 camera for that because it's very very
+51:10 fixed to my
+51:13 desk I could get a I need a secr camera
+51:16 second camera source for something like
+51:19 that um yeah evil Deads evil Dead's
+51:22 downstairs I'm definitely going to get
+51:24 some do some more shots of that once I
+51:26 get it all dialed
+51:28 in um I'm gonna go I was going to get
+51:32 panels cut but then I was at a hardware
+51:35 store they had acrylic sheets they're
+51:38 really thin but whatever I'm going to go
+51:40 dig in my garage to see if I got a
+51:43 router bit that'll work on it or maybe
+51:46 I'll even be just a gross human being
+51:49 and use a grinder with like a cut off
+51:52 wheel and do it that way and just take a
+51:56 little bit more work but whatever I
+51:58 could get it done I'd love to find
+52:00 someone that's like Etsy 3D printer
+52:04 really easy way to get my own Evil Dead
+52:07 decals made I probably could find it I
+52:10 shout out a a message earlier today so
+52:13 we'll
+52:19 see I even went to comic book store this
+52:22 this weekend to see if they had any Army
+52:24 of Darkness or Evil Dead comic
+52:28 books kind of
+52:32 funny you're just never filling anything
+52:36 ever okay how are you doing your plot
+52:39 plans or why I yeah no I guess you can
+52:42 get a what else would I be fting I fill
+52:45 it all the time I guess you're not
+52:46 making symbols
+52:51 huh that's
+52:54 funny
+52:58 um boy I am not the picture of
+53:00 efficiency right now I think I'm a
+53:02 little sideb
+53:17 brained oh well we'll be getting a bunch
+53:19 of pictures of it once we got it um well
+53:21 I have to reassemble it at the summit so
+53:25 once it's assembled at the summit I'm
+53:27 sure people are going to want to you
+53:29 know take some pictures of it um and I'm
+53:31 hoping by then I have it really dialed
+53:34 out in fact I'd love to get it featured
+53:37 with AMD since they have been sponsoring
+53:41 me um and that thing's running a
+53:44 7800 and it like it's so impressive how
+53:47 fast it is for how old that processor is
+53:51 so um and then if AMD wants to oops he
+53:54 just knew w if AMD wants to um just
+53:57 because the build is so cool they could
+54:00 give me a new micro ITX you know and
+54:04 then it could be a true AMD
+54:06 build but I love how impressively fast
+54:09 it is considering it's an old 6900k
+54:18 Zeon like something about that makes me
+54:20 proud of it it's like the old
+54:24 Workhorse
+54:27 like this computer I'm on lightning fast
+54:30 this is the AMD
+54:33 78
+54:35 50 3xd or something the heck is it I
+54:39 can't remember
+54:40 now
+54:42 78 53 XD is that what it is yeah
+54:48 7950 x3d 7950
+54:51 x3d 16 core 16 core 32
+54:55 thread yeah and it's it's got a massive
+55:01 L3 cache is the thing with this thing
+55:04 128 Megs of L3 cache is huge huge huge
+55:09 huge and I don't have it overclocked I
+55:11 don't even know like that you need to
+55:13 it's so like there's never a time where
+55:15 I'm working in this machine where it's
+55:17 slowing down and I have we got Photoshop
+55:21 open right now Adobe Acrobat Chrome
+55:23 multiple tabs multiple Windows we're
+55:26 streaming Chief's open discord's open
+55:29 and I could pull up Adobe Premiere and I
+55:31 could pull up like blender and substance
+55:35 and nothing's going to slow it down so
+55:37 it's pretty
+55:42 cool and everything fires up so fast um
+55:47 except for the machine itself the
+55:48 machine itself takes so long to boot
+55:51 it's that's that's kind of wild I'm
+55:54 surprised at that um but I think it has
+55:56 to do with that L3 cache or something
+55:59 about the ram it's like it's doing
+56:02 something with the ram when it's booting
+56:04 up not
+56:08 sure be interesting to throw a ram disc
+56:10 in here I haven't done that in a while
+56:12 throw a ram dis in here and throw the
+56:13 user library on it and throw the regular
+56:16 library on it and just see see what it
+56:19 does because that would be
+56:23 fun
+56:28 so why did you overclock yours like I
+56:31 mean I don't see any reason why I can't
+56:33 it's water cooled um it's an what is it
+56:36 AO water cooled
+56:39 um but like it's just F you overclock it
+56:42 because you can right because it'll do
+56:47 it yeah because I'm there you go because
+56:50 I'm a nerd you overclock it because you
+56:52 can because why not cuz it doesn't yeah
+56:56 why not get the
+57:00 benefit I do have Evil Dead overclocked
+57:04 and so it's overclocked from 3.2
+57:06 gigahertz to 4
+57:08 gigahertz and so it's clocking a single
+57:10 thread speed at a 12 900k which is
+57:13 pretty
+57:14 good um but the multi- threads it's just
+57:17 slow it's an old processor
+57:22 whatever so I just make sure I'm closing
+57:25 programs it'll still run Chief in
+57:27 Photoshop no
+57:34 problem what is that that's one
+57:44 off you ever done any Custom Custom
+57:46 water cooling water blocks tube bending
+57:48 all that stuff that really expensive
+57:51 stuff that
+57:52 seems a little bit
+57:55 more than I want to spend money
+58:06 on oh let's see how do these windows set
+58:08 up four
+58:13 Windows what
+58:16 the that's not right that's going to
+58:22 be for Windows and we don't know the
+58:25 distance between yeah we do 3030 is
+58:30 there 4 in in between that's not two
+58:33 inches in
+58:40 between is
+58:43 that 4 inches in
+58:53 between
+59:00 oh you did huh that stuff's really
+59:02 expensive to do the nice part about it
+59:04 is it lasts forever kind of
+59:11 right okay you send me a message on
+59:14 Discord let's check you out I'll check
+59:17 this
+59:19 out look at that pretty thing that is a
+59:23 massive tube coming out of that CPU
+59:27 you're going from the CPU to your gpus
+59:32 block yeah that's a big old tube coming
+59:35 out that thing
+59:38 cool there star wars-esque
+59:42 yeah you put all that time and effort in
+59:44 and then you just got a rolled laminate
+59:46 the countertop you know I'm going to
+59:48 call you
+59:50 out didn't tuck your wires under your
+59:53 desk
+59:57 I should not talk I've been working on
+59:59 my office room
+1:00:07 forever these are all four o previous
+1:00:11 tool shift
+1:00:12 marqueis tool selector restrictive
+1:00:16 selection and what was this supposed to
+1:00:19 be I already
+1:00:22 forgot 40
+1:00:33 now why would they do a different
+1:00:35 distance in between huh
+1:00:41 why eight Ines in
+1:00:53 between dang
+1:00:57 it
+1:01:14 no still doing this
+1:01:23 wrong
+1:01:26 sort yourself
+1:01:29 out there we
+1:01:53 go
+1:02:04 and you still use that desk nice CPU and
+1:02:07 GPU were on custom blocks it wasn't
+1:02:09 cheap F oh and you got more pictures of
+1:02:10 it yeah let's check it out oh gotcha I
+1:02:13 see it Gallery
+1:02:17 link that's a nice pick of that yeah it
+1:02:20 looks very cool all lit up at night a
+1:02:22 that fun on Night Lights that mean you
+1:02:25 working at night a lot oh you're
+1:02:28 gaming
+1:02:30 gotcha uh let's see oh you did a little
+1:02:34 imager let you kind of do a a Blog
+1:02:39 huh is that a be quiet fan is that what
+1:02:43 that
+1:02:51 is and there's your overclocks
+1:03:00 oh it's a Cooler
+1:03:01 Master big old cool
+1:03:05 master this is the whole process
+1:03:09 huh yep you got the water block
+1:03:16 going thermal pads on
+1:03:23 everything
+1:03:25 oh that's your
+1:03:33 Reservoir yeah isn't it like starting
+1:03:35 price like $400 on on this
+1:03:41 stuff
+1:03:43 um yeah anybody watching this want to
+1:03:46 know what the heck we're even going on
+1:03:48 about on the RAB design feed Discord
+1:03:51 server in the chat room been building
+1:03:54 this building this
+1:03:59 computer little mini little mini ITX
+1:04:03 board with a 7900 XTX and an sfx power
+1:04:09 spot
+1:04:10 unit and then it's got this is for my
+1:04:13 just temp
+1:04:14 readouts this is magnetic so it just
+1:04:16 pops on anywhere I want to put it on on
+1:04:20 the machine itself and then next up is
+1:04:23 got to cut some acrylics
+1:04:24 I have these stickers ordered but I
+1:04:26 think I might actually get these printed
+1:04:29 instead and then this covers the main
+1:04:31 board on the other side but it leaves a
+1:04:33 couple inches and then all these wires
+1:04:35 have since been I ripped apart the Raven
+1:04:39 cables here just so that I could weave
+1:04:41 them and zip tie them but I've thought
+1:04:44 about repinning them but it's a pain in
+1:04:46 the butt to find repins for in sfx
+1:04:50 graphics I mean sfx power supply unit um
+1:04:54 and that's a lot of work and then
+1:04:56 braiding it and all that stuff I might
+1:04:58 do that after the
+1:05:00 summit instead maybe we'll
+1:05:12 see how's it going design workspace
+1:05:18 znh yeah $1,000 for just for cooling
+1:05:21 that's wild yeah I think like kits even
+1:05:24 start at like 600 and that's if you
+1:05:26 manage to order everything perfectly the
+1:05:28 first time
+1:05:29 around like that's just that's
+1:05:32 wild and considering aiio coolers are
+1:05:36 like $70 that's a pretty hard expense to
+1:05:39 to incur just for some looks you know
+1:05:41 yeah sure it works
+1:05:43 better for the graphics card but I don't
+1:05:46 know this graphics card gets out of date
+1:05:48 so fast I'm
+1:05:51 like that's a sunken cost
+1:05:56 and but here I am spending an exorbitant
+1:05:58 amount of time ex wrong word but just a
+1:06:02 a a lot of time on my stupid mechanical
+1:06:05 keyboard getting it set up the way I
+1:06:06 want
+1:06:07 it and yet my minus key isn't working
+1:06:10 right
+1:06:11 now all right this is uh minus two yeah
+1:06:16 I need to do minus
+1:06:17 two in fact I'm G fix that right
+1:06:23 now
+1:06:25 minus key is not functioning why
+1:06:30 not probably because the pin got yep
+1:06:33 obliterated pin dang
+1:06:40 it and why do they sell the keys online
+1:06:43 at like 40 packs because you know you
+1:06:46 need 96 Keys which means you got to
+1:06:49 order three 40
+1:06:53 packs
+1:06:55 see if I can get this pin to go
+1:07:00 in minus key let's
+1:07:04 see minus there we go work it
+1:07:21 again uh do they have a student I do I
+1:07:23 think they do have a student program I
+1:07:25 think you got to go on to their website
+1:07:26 though for that um let's
+1:07:34 see academic software educational
+1:07:38 licenses first school lapack yeah it's
+1:07:41 here um here's the here it is we'll pin
+1:07:44 this
+1:07:52 comment
+1:08:13 doing stupid things doing stupid things
+1:08:17 here we
+1:08:18 go two four
+1:08:22 five
+1:08:56 I underbid this project no big
+1:09:01 surprise
+1:09:06 typical nice if we had a window set and
+1:09:11 offset because otherwise we got to do
+1:09:13 the math
+1:09:16 here what is this this
+1:09:19 is Sayid by two now we got a center line
+1:09:27 and then these are two four 60 2 10
+1:09:30 between so six
+1:09:41 inches right because how do you
+1:09:44 get they don't make this easy it's
+1:09:51 funny so really you got to set this this
+1:09:55 bring this
+1:09:56 over to four so we're going 2 fo 10 and
+1:10:03 then take these two in
+1:10:07 center and that wasn't
+1:10:10 correct should been six in in
+1:10:20 between oh and I have the wrong size
+1:10:22 window
+1:10:24 of
+1:10:50 course man space CAD today
+1:11:12 not included in that list that is
+1:11:16 unfortunate um talk to your teachers see
+1:11:18 about getting group pricing if you want
+1:11:21 to try to get it implemented in your
+1:11:24 in your
+1:11:25 Institute who's this nice to meet you
+1:11:28 follow your Publications I want to learn
+1:11:30 chap but couldn't find who I currently
+1:11:32 live in North Carolina I'm Latino I'm an
+1:11:34 architect and I use cat and ketchup for
+1:11:36 project development my strength is
+1:11:38 architectural viz if at anytime you'd
+1:11:40 like to see my portfolio gladly show it
+1:11:43 to you I chew through work so quickly
+1:11:47 that I never end up needing services
+1:11:50 from other people
+1:11:51 um but
+1:11:54 I would say go get on the For Hire
+1:11:55 groups let's see if I can give you a
+1:11:56 link to that real quick and we have a
+1:11:58 For Hire Discord Group which has been
+1:12:00 dormant but it has a Scraper on it
+1:12:02 that's nice so I'll give you the link to
+1:12:05 that is
+1:12:07 here it's been really dead this last
+1:12:10 quarter though so good luck on that
+1:12:14 that's check that in the comments and
+1:12:19 then uh I have a couple groups I managed
+1:12:21 that are for higher groups for Chief
+1:12:22 Architect let's go for
+1:12:25 higher here's
+1:12:28 one check in the
+1:12:33 comment and then got one more
+1:12:39 here one more here we
+1:12:52 go
+1:13:22 2876
+1:13:32 math math is rough
+1:13:34 [Laughter]
+1:13:43 today roof below
+1:13:47 interesting pull that
+1:13:52 back
+1:14:18 3052 roof system on this project is
+1:14:21 going to be pretty
+1:14:26 elaborate not necessarily looking
+1:14:29 forward to it shiplap TV wall
+1:14:33 interesting all right what else we have
+1:14:42 here wall elevator
+1:14:49 [Music]
+1:14:51 nice this got out of alignment for some
+1:15:03 reason still got to deal with the
+1:15:06 staircase kind of do those last honestly
+1:15:09 once I kind of conform
+1:15:13 Dimensions door door door door what's
+1:15:17 this pocket
+1:15:22 door
+1:15:33 oh
+1:15:35 oops
+1:15:39 thanks
+1:15:41 thanks uh no check the comments section
+1:15:44 for any of those four hire groups if
+1:15:45 that's what um someone was looking for
+1:15:47 so I got to look for the Facebook
+1:15:49 comments that I have in
+1:15:52 there
+1:15:54 you should all be pinned to
+1:16:01 Facebook or YouTube if you're on my
+1:16:04 YouTube channel which is what is my
+1:16:07 YouTube
+1:16:08 channel
+1:16:10 um see if I can't figure that out real
+1:16:13 quick I think it's
+1:16:19 yeah oops I clicked on it instead of
+1:16:21 copying it copy
+1:16:25 copy
+1:16:31 nope here's my YouTube
+1:16:43 channel okay time to go to another level
+1:16:46 see if we can't I'm going to copy this
+1:16:50 let's
+1:16:51 see going to insert a floor first so all
+1:16:54 floor no all oops b o
+1:17:02 and I don't want to insert floor from
+1:17:04 here I got to remember this alt b o and
+1:17:07 then I is
+1:17:14 insert and this is going to be 8 foot
+1:17:17 and I don't know what the structure
+1:17:20 is so
+1:17:23 see if we can't copy this paste
+1:17:27 hold and I think when we
+1:17:30 change the reference to the image it
+1:17:36 resizes but maybe not oh that's not what
+1:17:40 I need there let's see where's my
+1:17:46 PDF which page do I need oh nice they
+1:17:48 got a roof plan view
+1:17:52 here I'm missing page one that's what I
+1:18:05 need no never mind that's not
+1:18:08 it
+1:18:21 page oh it's page too
+1:18:29 okay
+1:18:31 uhuh there's that 80 foot just make
+1:18:51 sure
+1:18:56 maybe this other the
+1:19:02 line
+1:19:04 is
+1:19:06 yeah
+1:19:11 mostly yeah these are bigger Foundation
+1:19:14 walls down
+1:19:21 here
+1:19:25 fact looks like foundation and SL pony
+1:19:45 wall so it looks like they're showing us
+1:19:47 our the main layer up
+1:19:50 here if this is main layer
+1:19:53 overall thickness five so yeah that
+1:19:56 would make sense because it's a 2x6
+1:19:58 exterior up
+1:20:00 here and
+1:20:02 then except for that' be very funny that
+1:20:05 it have a
+1:20:06 2x4 interior
+1:20:10 below very
+1:20:16 strange all right so I'm going to do
+1:20:19 something here default settings walls
+1:20:21 General wall
+1:20:24 main outer surface in this case main
+1:20:28 layer
+1:20:30 outside main layer outside for
+1:20:35 now and
+1:20:37 then I'm going to select all
+1:20:40 these
+1:20:47 oops hold
+1:20:51 on oh that's not working working there
+1:20:53 it is nope I got a hotkey getting in my
+1:20:57 way
+1:21:07 funny I'm showing siding for
+1:21:14 existing I want this to
+1:21:17 be siding six existing I'm going to have
+1:21:20 to adjust a
+1:21:21 lot paste on this dang
+1:21:26 it I have to fix all my exterior walls I
+1:21:29 think I think this is drawn incorrectly
+1:21:31 so this is
+1:21:35 really 2x4 sitting on top of a stem wall
+1:21:39 and then what the heck is this
+1:21:41 then that doesn't make any sense it's a
+1:21:44 it's aligned on the exterior side and
+1:21:46 it's wider than the walls
+1:21:51 below
+1:21:53 that seems very
+1:21:58 odd they showing the full wall assembly
+1:22:01 up above and then just the framing down
+1:22:06 below that's very
+1:22:09 odd or they showing a stem wall with a
+1:22:11 big brick facade and the walls up above
+1:22:14 a line on the brick because that's very
+1:22:20 odd shoot
+1:22:29 I gotta go check this out I don't know
+1:22:30 I'm not sure that's a weird one because
+1:22:32 that's really going to mess me
+1:22:51 up
+1:22:55 2x4 wall
+1:22:58 above 2x6 wall
+1:23:03 below
+1:23:05 oh what is
+1:23:20 this basement to garage wall walls
+1:23:23 basement to garage walls basement with
+1:23:24 wall brick stone
+1:23:26 veneer we got a 4in brick
+1:23:30 veneer 2x4 walls
+1:23:33 above 6 in stem
+1:23:35 wall let's go look at this again so
+1:23:39 that's our brick
+1:23:43 veneer stem wall supporting walls
+1:23:48 above this is our 2 by what 2x4 wall
+1:23:52 above that's correct this inside of the
+1:23:55 2x4 wall
+1:23:56 above
+1:24:06 so so this is like this let's see
+1:24:16 wait this oops this is here that's
+1:24:22 what's
+1:24:26 happening am I'm right Am I
+1:24:30 Wrong why am I struggling with
+1:24:40 this use reference this helps my
+1:24:43 brain okay here's my 2
+1:24:46 by
+1:24:51 four
+1:25:04 yeah 10 in 10 inch wide about what the
+1:25:13 exterior 10 inch wide about the
+1:25:16 exterior
+1:25:21 okay
+1:25:27 uh let's see what do you got one is the
+1:25:30 library will be available in Chief
+1:25:31 Arctic crack version is the library will
+1:25:34 be available in the chief Arctic crack
+1:25:35 version can I use SketchUp 3D Warehouse
+1:25:37 as a library so you know I can't endorse
+1:25:40 a cracked version on my stream I also
+1:25:44 don't think that there's any way to get
+1:25:46 a crack version past X9 if I've done my
+1:25:48 research correctly um I have own my
+1:25:52 version outright for a long time but I
+1:25:54 like to keep aess with that because I'm
+1:25:55 an admin and a moderator in officially
+1:25:57 sanctioned Facebook groups for Chief
+1:26:00 Architect
+1:26:01 so that's that part um and I highly
+1:26:04 doubt that you can have any kind of
+1:26:06 syncing to the library because it's now
+1:26:08 online based only and so I don't know
+1:26:11 how you would qualify that because
+1:26:12 they're also checking your license
+1:26:14 online only as well which is why I don't
+1:26:16 think there's any version past X9 that
+1:26:18 could actually work um because that's
+1:26:21 when they changed that so if you're
+1:26:23 using X9 man that's a real old version
+1:26:25 but have about it I can't stop you uh
+1:26:29 can I use SketchUp 3D Warehouse as a
+1:26:30 library for models well no but you can
+1:26:33 import from SketchUp 3D Warehouse just
+1:26:35 keep in mind polyc counts really high on
+1:26:37 a lot of items in
+1:26:39 SketchUp um and then it's not maybe not
+1:26:42 have correct mapping you're not going to
+1:26:44 have bump in normal Maps it's not going
+1:26:45 to be a realistic looking rendering out
+1:26:47 of the box so you'd have to do a lot of
+1:26:48 work to get around that there you go
+1:27:01 all right back to like trying to make
+1:27:03 sense of this whole thing because my
+1:27:04 brain's not
+1:27:07 working so open this up and it's a
+1:27:11 10inch stem wall is what I want
+1:27:16 here so we're going to go 16 but then
+1:27:20 I'm just going to go in here and say - 6
+1:27:23 that's going to create a new wall tie
+1:27:24 for me
+1:27:27 automatically and there we
+1:27:32 go except for that I need to shift all
+1:27:34 these man that's a bummer I have to
+1:27:37 shift all these two inches out how could
+1:27:39 you do that really really quickly think
+1:27:41 about that for a second how could you
+1:27:42 shift all these walls out what two
+1:27:45 inches I think is what I needed to do
+1:27:47 because I reference it's actually not 2
+1:27:49 inches tell you exactly what it's coming
+1:27:51 from it's coming from
+1:27:53 uh the wall assembly for sighting for
+1:27:55 existing which is this 3/4 + 716 of an
+1:27:59 inch I'm not going to do math you can
+1:28:02 figure out what that is or I should
+1:28:03 figure out what that is uh
+1:28:08 that's so if I select this interior
+1:28:11 let's just try this real
+1:28:13 quick make room polyline and then I'm
+1:28:16 going to hold C drag
+1:28:20 the hold C or
+1:28:24 comma oh this corner oops drag this out
+1:28:28 90 degrees from itself and then I said
+1:28:31 it was what
+1:28:34 um 716 + 3/4 of an inch 1 and
+1:28:39 3/16 so there we go that's my
+1:28:43 new that's the one offset now let's copy
+1:28:46 paste hold drag this out
+1:28:50 and snap snap this an
+1:28:53 additional dang it what was it
+1:28:57 716
+1:28:59 and let's try it again let's see let's
+1:29:06 go plus
+1:29:08 34
+1:29:10 there so now what happens if I do a cad
+1:29:13 to walls based on that let's get rid of
+1:29:15 all my existing
+1:29:18 walls I really want to see if this will
+1:29:20 work oops D it my Marquee select similar
+1:29:24 is not
+1:29:28 working so there's my new walls if we do
+1:29:31 a cad to wall here that'd be
+1:29:34 great I don't know that I'll save it
+1:29:37 anytime uh window layer blah blah blah
+1:29:40 hopefully it just does it for this view
+1:29:42 only and then wall type one is going to
+1:29:45 be that new concrete inch stem
+1:29:49 wall within one select
+1:29:53 okay yeah it did it how slick was
+1:29:57 that easy it adjusted everything out by
+1:30:00 that
+1:30:01 offset that's cool save some time I
+1:30:07 think all these are going to say that
+1:30:09 they're not aligned
+1:30:11 because
+1:30:13 why well because the walls above default
+1:30:16 and their alignment default is going to
+1:30:18 be off because our actual detail in the
+1:30:21 p f is that we got a brick veneer on
+1:30:25 that wall above so I have to build this
+1:30:27 wall type out
+1:30:29 correctly also there's got to be a pony
+1:30:31 wall with this other type of wall as
+1:30:34 well challenging I'll do this later I
+1:30:37 don't care I was just trying to get the
+1:30:38 interior side of this lined up so that I
+1:30:40 can pull off of my new 2x6 interior
+1:30:48 walls and can't get close to the corner
+1:30:51 because it's going to mess with with me
+1:30:53 oops
+1:30:55 wait what is it oh and I need to mess
+1:30:58 with my general wall defaults
+1:31:01 again inner
+1:31:11 surface and then what's that one another
+1:31:13 two inches
+1:31:20 right
+1:31:22 H and that's somehow lining up with that
+1:31:24 whole staircase system
+1:31:29 cool I mean you were you weren't far off
+1:31:32 you saw what we did um just generate a
+1:31:36 room molding based on the selection of
+1:31:38 the entire interior side of this right
+1:31:41 so this is what we did make a room
+1:31:43 polyline that's this
+1:31:45 one right and then well and now we've
+1:31:49 got it going around this this stupid
+1:31:51 little detail so got to fix that so make
+1:31:54 room polyline and then copy paste grab
+1:31:58 this the this round little node right
+1:32:00 here offset that by the thickness of
+1:32:03 your wall right so tab enter 10 inches
+1:32:06 and then I just did CAD the walls from
+1:32:08 there so that works quite
+1:32:20 well
+1:32:26 these are lining up with anything look
+1:32:29 at this this one's off I can't be right
+1:32:33 it's got to be lined up with this piece
+1:32:34 up
+1:32:35 above so this whole thing is off dang
+1:32:44 it this has got to be
+1:32:46 here has to
+1:32:50 be
+1:32:53 there we
+1:32:56 go fact you can just come up here and
+1:33:00 change to contain selection mode grab
+1:33:02 all this copy bring it down
+1:33:06 paste and look at this this is off
+1:33:15 too it's got to be there like
+1:33:18 that has to be
+1:33:37 in fact a lot of this is lined
+1:33:41 up this whole all this assembly this
+1:33:44 whole thing this guy looks like a lot of
+1:33:47 this is
+1:33:50 happening
+1:33:54 let's just make sure what do we got here
+1:33:56 so this is not
+1:33:58 here this
+1:34:01 is something
+1:34:04 else oh no that opening is there same
+1:34:08 way but this is
+1:34:11 off and it's a skinnier wall no it's not
+1:34:15 four and a half
+1:34:19 inch just tucked up tight
+1:34:22 here no jam on
+1:34:25 this should be no jam on this as
+1:34:29 well in fact you can use the no Jam tool
+1:34:33 in Marquee mode and
+1:34:35 go I don't think this applies to regular
+1:34:39 doors does it
+1:34:41 no see Jam's still there so it'll apply
+1:34:45 to doorways so now I just made every
+1:34:48 doorway have no Jam yep that was quick
+1:35:20 h
+1:35:25 I using my wall worko on the inside face
+1:35:27 yeah I that's my main thing well I'm a
+1:35:29 remodelers mainly so that's typically
+1:35:33 what I got to
+1:35:34 do let see is this line up with anything
+1:35:45 nope that is
+1:35:50 though bump bumpity
+1:35:53 bump not
+1:35:58 quite let's see what's the trick here
+1:36:00 yeah middle move here we
+1:36:06 go middle move is the same
+1:36:20 as doing some funny stuff kind of
+1:36:23 playing around and see what kind of new
+1:36:25 tricks I can
+1:36:30 pull middle move button
+1:36:33 is you can move your wall kind of
+1:36:35 arbitrarily versus just dragging in and
+1:36:38 out right so middle Mouse button gets
+1:36:42 you
+1:36:44 this and then click left and R right
+1:36:48 Mouse to cancel the
+1:36:50 action
+1:36:55 that's how I learn stuff and just start
+1:36:57 goofing
+1:36:59 around so curious is why I can't get
+1:37:03 this wall alignment issue to go away
+1:37:07 yeah we'll figure it
+1:37:20 out
+1:37:24 yeah like look at this this is what is
+1:37:26 this this got to be a furring wall it
+1:37:28 goes in front we'll figure that out
+1:37:29 later
+1:37:31 too same thing fing walls in
+1:37:38 front yeah this downstairs area is going
+1:37:41 to be real
+1:37:47 fun typically are kind of difficult on
+1:37:49 these little mcmansions
+1:38:04 sometimes I'll do a wall inside of a
+1:38:05 wall detail for something like this
+1:38:07 especially because it's got some kind of
+1:38:09 transition like this goofiness right
+1:38:12 here so yeah I might make this a furring
+1:38:15 Wall go in front of that whole
+1:38:20 section yeah we got quite a bit of funny
+1:38:24 things happening down here it's going to
+1:38:25 be challenging down here this is for a
+1:38:27 different
+1:38:28 show so not struggling in front of
+1:38:41 everybody yeah fering wall
+1:38:47 everywhere let's see how do I have this
+1:38:49 lined up let's do a back clip right
+1:39:01 here oh funny I got a huge stem
+1:39:06 wall I set floor zero up that way for
+1:39:09 some
+1:39:11 reason get in the floor
+1:39:16 [Music]
+1:39:18 zero Nation we have come minimum 22 why
+1:39:22 is that so
+1:39:34 wild so right now stem walls
+1:39:39 aligned the exterior
+1:39:46 surface which technically that'll be
+1:39:49 correct when I build this other assem L
+1:39:52 what's this other assembly is 4
+1:39:54 in so it's a what call it a 2 and a half
+1:39:59 inch brick three and a half inch
+1:40:02 brick three and a half inch brick half
+1:40:05 inch air gap
+1:40:13 No 3 and 58 inch that should be 3 and 58
+1:40:17 unless
+1:40:19 it's
+1:40:26 what other brick sizes might that
+1:40:32 be a three maybe 3inch brick that would
+1:40:36 make sense 3-inch brick with an one inch
+1:40:39 air gap
+1:40:41 6inch
+1:40:43 stem okay let's do it why
+1:40:49 not
+1:40:54 brick
+1:40:55 eight oops where's brick eight brick six
+1:40:59 brick six let's copy
+1:41:01 this so what do we
+1:41:08 got we got the solid
+1:41:16 concrete this is solid
+1:41:19 six make it so you can see this while
+1:41:21 I'm doing
+1:41:22 this um solid six we got to get rid of
+1:41:27 this sure uh insulation airs 1 inch 3
+1:41:32 inch brick that's correct half inch
+1:41:36 interior is that
+1:41:42 correct it's over
+1:41:45 here um no because I got a furring wall
+1:41:48 in front of it in front of these walls
+1:41:51 mainly
+1:41:54 okay so this is Brick six's copy this is
+1:41:57 going to be
+1:41:59 my oops I'm messing with the wrong
+1:42:06 one rename this is going to
+1:42:17 be and no drywall in the interior so
+1:42:24 bam and
+1:42:26 so I want to select all these walls and
+1:42:29 not the interior walls what's an easy
+1:42:32 way of doing that they don't really have
+1:42:34 the greatest way of doing this um Alti
+1:42:37 schedule L for yep
+1:42:40 L and
+1:42:43 select all these there we
+1:42:47 go so all these are going to get
+1:42:51 a pony wall and it's going to be the
+1:42:54 10in
+1:42:56 stem with
+1:42:58 the where's our new brick one brick with
+1:43:01 stem and we're going to
+1:43:05 align what we're going to align the
+1:43:07 inner
+1:43:09 surface there it
+1:43:12 is
+1:43:14 fun and what is the elevation of this we
+1:43:19 don't really know
+1:43:22 we don't really know probably s
+1:43:26 feet just like
+1:43:30 that yeah that's about right so now I
+1:43:33 got to copy this
+1:43:35 assembly and put this on the exterior
+1:43:40 side of some of the walls up above
+1:43:45 yikes
+1:43:49 okay
+1:43:52 and that resized about the
+1:44:01 interior so let me use the layer Hider
+1:44:04 kick this off for a second turn
+1:44:06 reference on okay so now the exterior is
+1:44:10 lined
+1:44:12 up
+1:44:13 here but I'm going to have to fix this
+1:44:15 on a wall by- wall basis because some of
+1:44:19 these
+1:44:24 some of these are break and some are
+1:44:30 not yeah like all this over here is not
+1:44:33 brick facade and then over here it
+1:44:40 is yeah I think I got to study the plans
+1:44:43 before we go any further I'm missing
+1:44:45 some
+1:44:47 details come on show us the struggle I
+1:44:50 am showing I'm very much struggling I
+1:44:53 need to go study this I thought I could
+1:44:55 just do it off you know off a whim but I
+1:44:58 mean this makes sense for these exterior
+1:45:00 walls right here and make that new style
+1:45:02 so like okay let's just do this one for
+1:45:05 instance sting for existing let's define
+1:45:08 it let's not use this let's instead go
+1:45:12 to that new wall we just
+1:45:15 created which was brick with stem let's
+1:45:19 copy this
+1:45:21 um let's say
+1:45:23 brick
+1:45:25 sod we can rename it later whatever and
+1:45:28 then this is where this
+1:45:33 becomes this becomes a three and half
+1:45:37 inch but the facade still there and we
+1:45:40 are La prop build platform to exterior
+1:45:44 of
+1:45:47 lay and we're technically calling the
+1:45:50 plat form the concrete below I need to
+1:45:53 go look at that wall type let's see this
+1:45:55 is brick facade this is Brick with stem
+1:45:58 yeah we're saying 6 inch offset and if
+1:46:02 we look at the
+1:46:04 PDF we are building the framing to the
+1:46:07 exterior of the 6 inch offset correct no
+1:46:12 it's minus a sheathing layer
+1:46:16 so there's sheathing in
+1:46:19 between
+1:46:20 okay back to Chief um so we need
+1:46:23 sheathing here insert above move up 3/4
+1:46:29 inch or maybe it's a 38 inch actually
+1:46:31 looks pretty small so maybe it's 38
+1:46:41 inch be Herz
+1:46:45 maybe um ditch the pattern
+1:46:49 oops why is that gray that's
+1:46:52 funny there you
+1:46:54 go all right so now wall properties
+1:46:57 build flat print to exterior of
+1:46:59 layer and
+1:47:01 then this is going to be to exterior
+1:47:03 layer o speed Hertz and then this is
+1:47:05 going to change to
+1:47:09 framing
+1:47:12 framing for framing
+1:47:16 sure and this is oh I'm messing
+1:47:19 with the brick with
+1:47:20 stem dang it messing with the wrong
+1:47:26 one try that again does it let me cancel
+1:47:30 out of that I hope so yeah it did
+1:47:34 okay let make a copy of
+1:47:40 this
+1:47:44 yeah let's try this
+1:47:46 again
+1:47:48 oops Define three and a half we
+1:48:01 framing insert
+1:48:17 above move that up
+1:48:21 wall
+1:48:22 properties build flatform di menion
+1:48:24 Foundation Foundation to exterior
+1:48:29 of platform to exterior WBY
+1:48:37 Herz
+1:48:45 okay now we Line This
+1:48:49 below and take a
+1:48:53 look at our below wall assembly look at
+1:48:55 that the offset's
+1:48:58 correct okay so if I line this up
+1:49:04 correctly and go down a level and line
+1:49:07 this up now we're in the correct
+1:49:11 spot
+1:49:17 is look at that which means we don't to
+1:49:20 copy this right or cut it or whatever
+1:49:23 you want to do your hot keys are set up
+1:49:33 for
+1:49:35 yeah that's correct and now you got to
+1:49:39 mess with all
+1:49:41 these what a
+1:49:44 pain and get rid of this B
+1:49:49 line this still is not drawing in
+1:49:53 correct on this
+1:49:55 assembly or I'm not really sure what
+1:49:57 they're showing us
+1:50:01 here they're showing a huge Double Dash
+1:50:05 on the front of this thing
+1:50:12 now best way to do that Wing wall do a
+1:50:14 different wall type or or you know what
+1:50:17 another thing you could do Sean is
+1:50:21 because we want to um I mean this is how
+1:50:23 they have it drawn but clearly they're
+1:50:25 not showing that facade wrap the corner
+1:50:28 right so what I would be doing is let's
+1:50:31 copy this or actually let's just extend
+1:50:33 this out let's break it or it remain it
+1:50:38 REM it remained broken brick with stem
+1:50:42 pony wall Etc okay so I actually want to
+1:50:46 get rid of the pony wall in this case
+1:50:47 and then brick with stem here's what I'm
+1:50:50 going to do I'm gonna make a burring
+1:50:52 wall essentially
+1:50:55 so it's like a
+1:51:01 facade the main layer what's the main
+1:51:04 layer become what happens when we can't
+1:51:07 let's
+1:51:08 see can't delete the main layer so you g
+1:51:10 to move something down in order to be
+1:51:12 the main
+1:51:13 layer could put all three of these in
+1:51:16 the main layer it's just going to affect
+1:51:18 some build things so you have to mess
+1:51:19 with all
+1:51:21 properties but if we made this the main
+1:51:24 layer oh and I forgot to copy dang
+1:51:28 it always remember to copy first okay
+1:51:31 let's try this
+1:51:32 again move down
+1:51:35 delete now you just
+1:51:38 have yeah
+1:51:40 yeah now you just have this facade that
+1:51:43 you can line up here and
+1:51:48 wrap and then infill
+1:51:54 what's that end up looking like let's
+1:52:09 see um I'm not sure this is auto
+1:52:13 building that's what's happening here we
+1:52:15 got some Foundation that's Auto building
+1:52:17 and extending up through this so you
+1:52:18 would have to make sure that you've
+1:52:20 still kicking a main layer in through
+1:52:22 here that avoids that auto
+1:52:27 build so whatever this Dimension is
+1:52:29 you've got to infill this with something
+1:52:30 with a main layer that will kill that
+1:52:32 Foundation Auto build and then you've
+1:52:35 got a wrapped Wing
+1:52:38 wall um I'm going to address this a
+1:52:40 little bit later
+1:52:46 though or you could build a wall type
+1:52:49 that has you know that same setup on
+1:52:52 either side um so that's another way of
+1:52:55 doing it let's see what happens there so
+1:52:57 we got this again extend this
+1:53:02 forward this isn't going to be perfect
+1:53:04 but we'll just show you anyways um break
+1:53:07 this let's copy this wall
+1:53:10 type Brook stem we're going to set this
+1:53:13 to something like three after I copy
+1:53:15 gotta keep remember to copy set this to
+1:53:18 three and then you just take these and
+1:53:20 go insert below move down insert below
+1:53:24 that makes a copy of that layer right
+1:53:27 move down insert
+1:53:29 below move down and now we have a full
+1:53:33 wrapped wall
+1:53:35 assembly so that's another way of doing
+1:53:39 it it's just tricky when you try to get
+1:53:42 into alignment and
+1:53:44 everything and snaps but there you go
+1:53:47 there's the snaps
+1:53:54 and should
+1:53:55 generate yeah so this is autogenerating
+1:53:57 stem oh that's what's going on here I
+1:54:01 got some funny settings in my floor to
+1:54:03 floor defaults first floor seems to
+1:54:06 be yeah my first floor is off that's
+1:54:09 what's going on
+1:54:11 oops um anyways that does in fact build
+1:54:14 a
+1:54:15 wrapped Wing wall that's got some kind
+1:54:19 of breaking issue probably from
+1:54:20 something
+1:54:36 else this house is going to look so
+1:54:38 different when it's done it's got so
+1:54:39 many like multi- pitched cool kind of
+1:54:42 roof
+1:54:43 lines um all right I think I need a
+1:54:47 break put in two hours on this
+1:54:50 [Music]
+1:54:52 yeah um definitely not the fastest two
+1:54:55 hours I've ever put in but that's
+1:55:13 okay let to show this one when it's done
+1:55:16 should be
+1:55:18 good
+1:55:21 anybody got any last questions comments
+1:55:23 stuff you want me to show you tricks
+1:55:28 [Music]
+1:55:48 tips all right I'll check you guys
+1:55:50 another time I'll have to do this again
+1:55:52 had some good interaction today so
+1:55:55 thanks for joining I'll see you next
+1:55:59 time

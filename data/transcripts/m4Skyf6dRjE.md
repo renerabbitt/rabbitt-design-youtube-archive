@@ -1,0 +1,1936 @@
+---
+videoId: m4Skyf6dRjE
+title: Chief Architect Plan Review - Designers Show #119
+url: "https://www.youtube.com/watch?v=m4Skyf6dRjE"
+status: imported
+---
+
+# Transcript
+
+0:00 All right.
+0:02 Am I fuzzy?
+0:04 I'm not worried. That's just me. Hey,
+0:05 we're live I think. I should probably
+0:08 say something. Hi everyone. Dan here
+0:10 with Chief Experts.
+0:12 Welcome to our show today. Let's
+0:15 let's just turn people on instead of the
+0:17 screen at this point.
+0:19 Welcome. It's a beautiful cold day here
+0:22 in Minnesota. So we're we're just really
+0:25 enjoying
+0:26 our snow-free winter which I don't know
+0:28 if enjoying is the right word or not. We
+0:30 have a snow-free pretty much snow-free
+0:31 winter here in Minnesota which is really
+0:33 unusual for us. We're behind about 20
+0:36 inches of snow at this point. So
+0:39 and the next 2 weeks look to be in the
+0:42 30s and 40s. Okay.
+0:45 Then we're going to be the new Florida
+0:47 here pretty soon, right?
+0:49 I hope not.
+0:50 Anyway, enough of that. Welcome to our
+0:52 show.
+0:53 We're going to get started here. We've
+0:54 got a few people on that have submitted
+0:56 some plans. So we will go over some of
+0:58 those things, offer some tips and
+1:00 techniques to help everybody through
+1:03 what they might be struggling with. So
+1:04 if you have questions and also you can
+1:06 ask them in the chat. So Renee, John,
+1:11 Robin, and Kevin, welcome to the show
+1:13 today. How you guys been?
+1:15 Good.
+1:16 Good.
+1:17 Good. I'm good.
+1:17 Cold,
+1:18 but we're good.
+1:19 Cold but good. I hear you've got a
+1:21 little bit of ice there in Portland,
+1:23 huh?
+1:24 Yeah.
+1:24 Yeah.
+1:25 Yeah, that's
+1:26 Portland.
+1:27 Kansas City hasn't seen temperatures
+1:29 like this for years. It's cold here.
+1:32 Yeah.
+1:33 Welcome to our world, you guys.
+1:36 There's a reason that I live south.
+1:38 Not anymore.
+1:41 Anyway,
+1:43 so
+1:44 6 weeks away
+1:46 till our designer show.
+1:48 So
+1:50 you guys want to say anything about that
+1:52 to our lovely audience?
+1:54 Oh, you guys if you're considering it,
+1:56 you absolutely should sign up. You'll
+1:57 have a great time and you will learn a
+1:59 lot. You will learn a lot.
+2:02 And that's not just a sales pitch, that
+2:04 is sincerity.
+2:06 Uh that the
+2:08 we learn a lot. Uh you know, I can't
+2:10 imagine what those of you who are coming
+2:12 for our knowledge are learning because
+2:14 it's non-stop morning to night the
+2:17 entire time you're there.
+2:19 Yep.
+2:20 Yeah, it's pretty crazy. It's fun. It's
+2:22 fun and there's you're you're getting
+2:26 information everywhere.
+2:28 Everywhere. Around the kitchen table,
+2:30 around breakfast, out on the deck,
+2:33 upstairs, you're getting
+2:34 the walls.
+2:35 Everywhere.
+2:36 It's great.
+2:38 I'll add to that. Um we decided um on
+2:42 Saturday after our classes, I'm going to
+2:44 do a workshop on anybody that's got my
+2:47 pro plan. So,
+2:49 anybody that's been asking me questions
+2:50 about it, want to know how I've been
+2:51 using it, I'm going to do
+2:53 good portion of the day working on that.
+2:55 So, that's another reason maybe for some
+2:57 of you.
+2:58 I'm feeling like that there's some
+3:01 probably more things I want to say than
+3:02 I'll have time to. So, I'm thinking
+3:04 about just just sticking around on that
+3:06 Wednesday day that is your day off and
+3:08 be available for
+3:10 sessions on that day as well. So, it'll
+3:12 be fun. We're still putting together the
+3:13 itinerary, um
+3:15 the agenda for the week, but
+3:18 you can get as totally immersed as you
+3:19 want to.
+3:21 Yeah, absolutely. And that's pretty
+3:22 cool. So, again, what Kevin was
+3:24 referring to is everybody starts
+3:26 arriving on Friday, March 1st, I
+3:29 believe.
+3:30 And um and then Friday and Saturday
+3:32 everybody arrives. On Sunday, Monday,
+3:34 Tuesday, we're going to be doing courses
+3:36 for Chief Architect, advanced Chief
+3:38 stuff. We'll have in the evenings and at
+3:41 lunchtime we'll have business tracks
+3:43 going on. We've got a ton of things
+3:45 planned for this event. So, and it's
+3:47 always you know, it sounds overwhelming,
+3:49 but it's really not. It's just It's just
+3:51 fun. Um but what Kevin's talking about
+3:54 is the Wednesday we were going to take
+3:56 off everybody a break a breather.
+3:58 But I know Kevin and Rob Renee you've
+4:01 been talking about Yeah, you're not
+4:02 going to go anywhere. So you'll be there
+4:04 doing some special things. So that's
+4:06 fun. Thursday Friday we're back at it as
+4:09 a group. So we'll all come together in
+4:11 the big room.
+4:12 as a group of you know I'm I'm talking
+4:15 about Chief Architect. Um
+4:17 And then
+4:18 Renee was talking about on Sat Saturday
+4:20 that we'll be taking that day. Everybody
+4:23 can pack and leave at that point or you
+4:25 can stay until Sunday and then Sunday is
+4:28 we do we are going to check out late
+4:31 morning.
+4:32 And there we go. So and we'll have some
+4:34 webinars afterwards and we'll have a
+4:37 forum set up. So we got a lot coming up.
+4:40 And I believe there is
+4:43 I think six there's
+4:45 three
+4:46 two rooms left in the big house.
+4:49 Um plus one in the bunker room.
+4:52 And I think there's three rooms left in
+4:54 the other one. So we have room for about
+4:55 six people plus you can if you find a
+4:57 hotel or something you want to stay out
+4:58 there or you got a friend that you can
+5:00 stay with. Um
+5:02 you could also do that too and join us.
+5:03 So we have a limited amount of people
+5:05 that aren't going to be staying with us
+5:06 that can come and join us. So Matt was
+5:08 there last year he's coming back again.
+5:10 So that's pretty cool. We've got I
+5:12 believe 10 people coming back from last
+5:14 year. So that's pretty exciting.
+5:15 And John you you you mentioned that it
+5:18 sounds like a great time and learning
+5:20 experience but it's hard on the
+5:21 pocketbook. You know the the outlining
+5:24 expense right off the bat does seem that
+5:26 way but when you break it down into what
+5:29 you're getting for that you're getting
+5:31 your you're getting your lodging
+5:33 all the food you can eat you're getting
+5:36 an amazing amount of education not one
+5:38 of those things where you pop into the
+5:39 hotel at 8:30 in the morning have coffee
+5:42 till 9:00 learn until 3:00 and somebody
+5:44 gives you a break and you go home. This
+5:46 is this is really an incredible learning
+5:48 experience in that we start in the
+5:50 morning and we don't stop until
+5:52 nightfall for as much as you choose to
+5:55 be there.
+5:55 Yep.
+5:56 So, I think
+5:57 So, uh real quick, Kevin, let me cut you
+5:59 off cuz we got to get moving. Um
+6:01 Chad, Mr. Mustache,
+6:04 was there last year. Chad, what do you
+6:06 have to say? You knew you're coming
+6:07 back. So, we're excited to see you
+6:09 again.
+6:09 Hey, Chad.
+6:11 You got any comments about the the
+6:13 summit you'd like to share?
+6:15 Chad, you're muted.
+6:17 You need to need to unmute yourself.
+6:19 There
+6:20 There we go.
+6:21 Cool.
+6:22 Uh uh yeah, it was great. Um
+6:24 so much information I need to come back
+6:26 and
+6:27 and learn more of
+6:30 Yeah, Chad's comment when you uploaded
+6:32 the file, he wants to learn anything and
+6:33 everything. So,
+6:35 um
+6:36 so,
+6:36 we're looking forward to helping you
+6:38 some more.
+6:39 Uh Chad, thanks for being here today.
+6:40 We'll get to you in just a minute. We're
+6:41 going to start with Michael first. So,
+6:43 let's go ahead. I'm going to
+6:44 take you off that call. Thanks, Chad. Um
+6:47 anyway, uh enough of that. So, let's go
+6:49 ahead and jump into our plans, that plan
+6:52 review.
+6:53 Uh Michael Payne is here with us today.
+6:56 Michael, thanks for joining us. Um you
+6:58 sent me this after the last show.
+7:01 Uh you're working on a uh house uh You
+7:04 want to tell us again where this house
+7:05 is located and what uh what kind of
+7:07 things you're struggling with?
+7:10 Oh, you're muted, I believe.
+7:12 Or we're not hearing you.
+7:16 You know, you could go back to the
+7:17 speaker you had before.
+7:18 Let's try this.
+7:18 Okay, there you go. There you go.
+7:20 Okay, we got it.
+7:22 This is uh Denver house. It's uh
+7:25 historical, 100 years old. And because
+7:27 it's historical in the historical
+7:29 district, we need to show what it is
+7:33 what what it
+7:34 it's existing.
+7:35 Well, it does have
+7:37 uh more on the south side, which is the
+7:39 right side, than the other side. So, if
+7:42 you can spin the 3D around just a little
+7:45 bit
+7:46 we can see the the dormer window on that
+7:51 side that has a wall
+7:55 a window that starts at the baseline
+7:57 where the curved portion starts and then
+7:58 goes straight up so it's um
+8:03 that's
+8:04 that's our problem.
+8:05 Yeah um again cuz of the limited time
+8:07 we're just going to cover a few things
+8:08 but I want to touch on that.
+8:11 So let's just talk about some different
+8:12 ideas on how you can get this to work a
+8:13 little bit better.
+8:14 Thank you.
+8:15 Uh these kinds of projects are tough
+8:17 because you're
+8:18 you know welcome to the world of 3D
+8:20 modeling okay?
+8:22 And Chief's 3D modeling is such that
+8:26 um it gives you they give you a lot of
+8:28 automatic function
+8:30 which can sometimes absolutely drive you
+8:33 nuts because that automatic function
+8:35 kind of defeats what you're trying to
+8:37 accomplish. So we kind of have to set
+8:39 our minds that sometimes to get past
+8:41 some of that and try all sorts of
+8:44 different things to see if we can get
+8:45 them to work.
+8:46 Now there's few things I want to you
+8:48 know we again because we have limited
+8:49 time I want to talk about a few things
+8:52 here and see if I can help a little bit.
+8:53 I've done mansards before I was looking
+8:55 for a plan where I did a whole slew of
+8:57 these little types of things where we
+9:00 have the
+9:01 things sticking out of the roof.
+9:02 Um
+9:03 I would say that you this window looks
+9:05 pretty good. I don't think there's much
+9:07 you could do to improve on this one
+9:10 uh especially if we go to the inside and
+9:11 take a look at it I think it looked okay
+9:13 in there. Oh um we had one wall that
+9:16 wasn't getting cut off
+9:17 Mhm.
+9:18 by the roof so
+9:20 um that's probably a function of let's
+9:23 go in here
+9:25 cuz you do have it set up right for the
+9:27 roof to cut the bottom of the wall off.
+9:29 That There you go. That's good. Uh yeah
+9:31 this side's working fine.
+9:33 But why isn't this side? So let's take
+9:35 uh the one thing I always look at right
+9:37 away when something's not working is are
+9:40 we set to default wall type and default
+9:42 wall bottom.
+9:43 As soon as you start stretching a wall
+9:45 up or down, it turns those functions off
+9:49 and it will not cooperate at all anymore
+9:52 with any automatic function within the
+9:53 program. So, let's check those back in
+9:55 and see if it fixes it and voila. So,
+9:58 that took care of that for the most
+10:00 part. So, again, you got some things
+10:01 going up here. We'll talk about some
+10:03 stuff some of that later, but that's
+10:05 typically what happens with those kinds
+10:07 of things and here again
+10:09 uh we got some things going on there. We
+10:11 See, now we can start messing with it,
+10:13 but as soon as I do that, now it goes
+10:15 back to not cooperating anymore with the
+10:18 with the tool.
+10:19 Uh so, let's undo that. The one one
+10:22 problem we're having up in the corner
+10:24 here is the wall's just not long enough.
+10:26 So, let's stretch that out and that
+10:28 should still work because I'm not I
+10:30 didn't stretch the top or bottom. I just
+10:32 made the wall a little longer.
+10:34 So, So, that's the number one reason
+10:36 that these kind of things don't work
+10:39 when um
+10:40 when you're trying to reshape them.
+10:42 Anyway, that looks pretty good. Uh you
+10:44 know, obviously you got a lot of crazy
+10:46 things going on which we could spend a
+10:48 whole bunch of time talking about, but
+10:49 let's talk about a few other things real
+10:51 quick.
+10:52 One thing that One thing I've I've found
+10:54 with these mansards
+10:56 when you start joining really steep
+10:58 roofs with other roof plans
+11:01 is it really makes a big difference if
+11:04 you
+11:05 turn uh under options for a roof plan do
+11:08 the square
+11:10 instead of the plum.
+11:12 Let's see if that cleans that up there a
+11:14 little bit. It should. I've found that
+11:16 works better.
+11:18 Okay, so that's something to keep in
+11:19 mind. Now,
+11:21 of course, we fix that and then we got
+11:23 Now, we got some
+11:25 of that sticking through the roof. It's
+11:26 like
+11:27 Yeah, thanks a lot. Okay. Um
+11:30 so, over here on this side
+11:32 I fixed some of that by clipping the end
+11:35 of that roof plane off
+11:37 that was sticking here, and that seemed
+11:39 to clean it up a little bit. But again,
+11:41 Chief's auto function is, you know,
+11:43 adding that ridge plate there and doing
+11:46 all sorts of crazy things. So,
+11:48 at some point you just have to say, "Eh,
+11:50 that's going to have to do." So, what
+11:52 we're doing
+11:52 And on that
+11:53 on that one there, you could break the
+11:55 top of it and pull those corners down, I
+11:56 would think.
+11:57 that's that's what I was going to say.
+11:59 If we break those and then pull that
+12:01 pull that So, I'm clicking on the roof
+12:03 and I hit my three key to put a break
+12:04 there. Let's just pull that down just a
+12:06 tad, and you know, we can probably get
+12:09 that looking a little better. I'm
+12:12 holding my control key down to do it
+12:13 just a little at a time. You know, so
+12:15 I'm I'm sacrificing that sticking up,
+12:18 and I'm still getting some garbage
+12:19 there, but it's better than it was.
+12:21 Mhm.
+12:22 So,
+12:23 a couple other things that happened
+12:24 here.
+12:26 When you're creating a roof plane, you
+12:27 see how your soffits hanging down lower
+12:30 than the the molding polyline that
+12:32 you've added?
+12:33 Mhm.
+12:33 Okay, that's a function of the roof box
+12:35 thickness. Let's think Let's think how
+12:37 this program's working. Let's think in
+12:39 terms of boxes. Okay, what's the
+12:41 thickness of that roof box? So, if we go
+12:43 to structure and we look at the
+12:46 thickness of that, let's try making that
+12:48 a little smaller, maybe.
+12:50 Um
+12:51 the other thing you could try doing
+12:53 is
+12:55 um what was I looking at before?
+12:59 Um yeah, I don't want to turn that off.
+13:02 Oh, I know what it was. It was Let's get
+13:03 rid of the freeze board, the
+13:06 shadow board. I think there was some of
+13:08 There was something on one of these that
+13:10 was turned on that was causing issues.
+13:13 Ridge caps, rafter tails. I don't
+13:16 remember what it was.
+13:17 I did it over here, I thought.
+13:20 Uh
+13:21 How was that How was that trim applied
+13:23 around the top there?
+13:24 It's just a molding polyline.
+13:26 Okay.
+13:28 Come on.
+13:29 Rotate.
+13:30 All right. Um over here what I did What
+13:32 did I do there? I know I did I don't
+13:34 remember what I did, but I did
+13:35 something.
+13:36 Um
+13:38 When you I'm trying to look at half a
+13:39 dozen plans here to kind of get some
+13:41 ideas.
+13:42 Um
+13:43 Um
+13:45 Oh, I rejoined
+13:47 I think I rejoined these things.
+13:50 And I turned the I
+13:52 I turned the fascia off for you, John.
+13:54 But that's not Let's
+13:55 I wouldn't worry about that.
+13:57 Um
+13:58 Your bay window
+13:59 before was sticking up and cut It was
+14:02 cutting the wall off up here like this.
+14:05 Right.
+14:06 All right. So,
+14:08 that's really weird because usually it
+14:10 doesn't do that. Um but because you got
+14:12 so many crazy things going on, um
+14:15 all I did was click on the bay window.
+14:18 I clicked on the bay window that you put
+14:20 in. You So, you're actually using a bay
+14:21 window.
+14:22 Mhm.
+14:23 And I exploded it.
+14:25 Mhm.
+14:25 Once I exploded it,
+14:27 it worked.
+14:28 Now, the other thing I did was I clicked
+14:30 on the wall and opened its dialogue box
+14:33 and I set these back to default.
+14:36 All right. Again, you I think you had
+14:38 stretched that wall at some point and
+14:39 those were those were not grayed out.
+14:42 Mhm.
+14:43 So, that's the other thing and then then
+14:44 it cooperated okay.
+14:47 Uh the other thing I did then is I went
+14:49 into the room that is this bay window
+14:52 cuz that's what it is now. So, when you
+14:53 explode a bay, you've got walls,
+14:55 windows, floors, and ceilings just like
+14:58 any other room.
+14:59 So, I went to the floor plan and
+15:02 uh clicked in that room. So, I hit my
+15:04 tab key tab till I got to the room
+15:07 and I
+15:08 I got rid of the floor structure. I just
+15:11 made I just deleted what was in the
+15:13 floor structure cuz there was a little
+15:15 uh
+15:16 there was a area sticking down.
+15:18 Mhm.
+15:19 Where did it go?
+15:20 It was sticking down like that.
+15:22 Mhm.
+15:23 And that seemed to take.
+15:25 So again, with this one you could
+15:26 explode it, make the floor get rid of
+15:28 the floor structure, and it should fill
+15:30 that in up there.
+15:32 Another little tip for you.
+15:34 Um
+15:35 I took this bay window and I selected
+15:37 everything.
+15:38 You just group select everything.
+15:41 And when you do that,
+15:44 make it into a symbol.
+15:46 Mhm.
+15:48 And then
+15:49 I actually You know what I did do here?
+15:51 The reason this wall is working, I
+15:53 remember what I did. Um
+15:55 I put a I put a window opening
+15:59 inside here. I had to cut a hole in the
+16:01 wall.
+16:02 Mhm.
+16:02 So I put a pass-through in there. Just a
+16:05 window pass-through.
+16:06 Mhm.
+16:06 And that created the hole that I needed
+16:08 for that. That I left the frame
+16:12 of the pass-through turned on.
+16:15 Made it a half inch and painted
+16:16 sheetrock on it.
+16:18 That's why otherwise you just see
+16:20 framing there if you turn the frame on.
+16:22 So that's another way. So that's what
+16:23 you could do with this this other one.
+16:27 Make it into a symbol, pop a hole in the
+16:28 wall with a pass-through, put this in
+16:31 the right place, and you're done.
+16:33 And then it won't change anymore.
+16:35 So I I missed getting the molding up
+16:37 here.
+16:38 Although I think that's a molding
+16:40 polyline too, I believe.
+16:42 I didn't get it, so something didn't get
+16:44 selected. Anyway,
+16:46 that was the solution there.
+16:48 Um
+16:49 Thank you Thank you very much. It's um
+16:50 It's clean.
+16:52 Yeah, it it helps a little bit. Again,
+16:54 we got to think of why the boxes aren't
+16:56 cooperating in Chief Architect. Why is
+16:59 the bay window being a and and
+17:03 cutting off the top of that wall?
+17:05 That's a new con CAD term, by the way.
+17:07 Um wall It should say stinker, okay?
+17:10 It's being a stinker. All right, keep it
+17:12 clean here. It's a family show. Um
+17:16 So
+17:17 I've never heard of that. I've never of
+17:18 that.
+17:18 Yeah.
+17:19 So, anything we can do to
+17:21 That's the name of our dog, you know.
+17:26 Uh
+17:26 let's talk about one more thing here. Um
+17:29 your little window there.
+17:30 name.
+17:31 Your window down here where you have the
+17:33 the grid.
+17:34 Mhm.
+17:35 All right. So, you did a 3D 3D molding
+17:38 on here or 3D slabs to create those.
+17:42 Those are all individual pieces, right?
+17:44 That's amazing.
+17:46 All right. You don't have to do that in
+17:48 Chief. You can actually create a window
+17:51 where that actually is a mullion that's
+17:54 part of the window.
+17:55 Here's how you do that. Let me show you
+17:57 real quick. Cuz uh this is, you know,
+18:00 that's a cool-looking grid, but it's a
+18:01 pain if you have to move or resize that
+18:03 window because the grid isn't going to
+18:05 move with it. So, the grid stays
+18:07 separate.
+18:08 So, here you can actually create that
+18:10 and the grid is now part of the window.
+18:13 So, it'll always be part of that window.
+18:15 So, the way you do that in Chief,
+18:18 let me get to Let me close out of this
+18:20 view
+18:21 and get back to the front elevation. So,
+18:24 what you do that is you take your window
+18:27 um that you want to put a custom grid
+18:29 on.
+18:30 Let me just get this up here.
+18:32 And we're going to
+18:34 I'll do undo the undo the grid that's
+18:36 there now.
+18:38 When you put a custom grid a custom
+18:40 mullion on a window,
+18:42 there's a little tool down here called
+18:44 um called unload mullions.
+18:47 And when you're loading them, it says
+18:48 load mullions.
+18:49 That just brings that back to the CAD
+18:51 lines.
+18:52 So, what you have to do to make that
+18:54 work, uh let's ungroup let's unblock
+18:56 that.
+18:58 All right. So, there's my
+19:00 There's the CAD line. Just draw CAD
+19:01 lines
+19:03 to create the grid that you want.
+19:05 All right. So, if I were to go down here
+19:08 and I added a you know, let's just add a
+19:10 grid at the bottom here
+19:12 and I'll add on a few more of these.
+19:15 I just do them in real quickly.
+19:17 Then I group select those. I'm going to
+19:19 block them.
+19:21 Now when I click on the window,
+19:24 I get a
+19:25 If I If it's done I should If it's done
+19:27 right I should get a
+19:29 make mullion button. So obviously I've
+19:32 done something wrong.
+19:34 What the heck?
+19:35 I did block it, right?
+19:37 I did.
+19:39 All right. Guys, why is it not working
+19:41 this time?
+19:45 That is weird.
+19:47 I need to go and do this again.
+19:50 Let me select all of those.
+19:53 And I'm just group selecting them. I
+19:55 suppose I could have done a marquee
+19:57 select.
+20:00 And then I'll make that a block.
+20:02 I got something I didn't want. Get this
+20:04 one.
+20:12 Make it a block.
+20:14 And now I click on the window and I got
+20:17 this icon.
+20:18 Make mullion.
+20:20 I don't know why it wasn't working with
+20:21 this.
+20:22 You didn't click on the window after
+20:25 Huh?
+20:26 You didn't click on the window after you
+20:29 blocked those ones on the lower part.
+20:31 But I did. Well, let's try it. Let's see
+20:33 if that adds it to it.
+20:35 What is that icon called?
+20:37 It's called make mullion.
+20:38 Make mullion.
+20:40 Make mullion.
+20:41 Make mullion.
+20:41 Yep.
+20:43 So it created a mullion up here, but it
+20:45 didn't work down here for some reason. I
+20:46 don't know why.
+20:48 And we don't have time to dig into why.
+20:50 But there's that window with that
+20:51 mullion.
+20:52 Is it turned out to have lights in the
+20:54 bottom part?
+20:56 No. It just has a single light in the
+20:58 lower.
+20:58 No, it's lights in bottom. No, it might
+21:00 have to do with the molding that's
+21:01 crossing it.
+21:03 I don't know, but we don't have time to
+21:05 dig into that one right now. That But
+21:06 that's a general concept on how this
+21:08 works. And you can then control the size
+21:11 of the mullion just like you do with any
+21:14 other
+21:15 any of the other uh mullions in windows.
+21:18 That's how you create a custom mullion.
+21:21 So
+21:21 So there's a there's a question here,
+21:22 Dan, about how the framing is going to
+21:24 be recognized in that window opening you
+21:26 were doing for those
+21:27 dormers.
+21:29 Up here with that with that um
+21:32 Where you put the symbol on the outside
+21:34 and then through the frame through the
+21:35 window opening in
+21:37 Um well, the the the symbol's not going
+21:40 to frame.
+21:42 That's just a 3D object like a toilet.
+21:44 It's not going to do anything
+21:46 other than look good in your plan.
+21:48 Um
+21:49 the wall would frame fine because it's
+21:51 got the door the pass-through opening in
+21:54 it. So if I did the framing in that
+21:57 and I'll say no to don't show it. If I
+22:00 go look at the framing
+22:02 you know, we're going to get it framed
+22:04 somewhat decent. Chief's not going to do
+22:06 the greatest job on a plan like this.
+22:09 Uh
+22:10 Chief is a really good program, but when
+22:12 you start getting into some of this kind
+22:14 of stuff yeah, it it's you're 3D
+22:16 modeling and you're going to have to put
+22:19 a lot of work into getting that framing
+22:20 just right.
+22:21 So
+22:23 um
+22:24 So the person that asked that question,
+22:26 let me know if he answered if he
+22:27 answered what you were looking for.
+22:29 Yeah.
+22:31 Okay.
+22:33 All right. Um
+22:34 Amazing. Thank you very much, Dan.
+22:36 Michael, you got anything else you want
+22:37 to ask on this one?
+22:39 I think we're good.
+22:41 On this one and there's a obviously a a
+22:43 few
+22:43 You're doing a really good job on this.
+22:45 This is a tough project. Um a little tip
+22:48 for you like to create
+22:50 these kinds of things, you know,
+22:52 whenever you're doing arcs and things
+22:54 like that, I I hope you're just doing
+22:55 lines and then converting them
+22:58 instead of trying to draw arcs all the
+22:59 time.
+23:00 Um
+23:01 so when you when you create something
+23:03 like that, you just break it where you
+23:04 want to break it.
+23:06 And then you're going to create a arc
+23:09 out of that, and there's your
+23:10 there's your arc.
+23:11 Mhm.
+23:12 Little tip for you, like when you're
+23:13 doing these like on top of here,
+23:17 Chief can um you can click this icon
+23:19 over here to turn center points on.
+23:23 So, I can see where the center of that
+23:26 arc is.
+23:27 Mhm.
+23:27 So, if I were to add a
+23:30 a piece up here,
+23:33 um there's a couple different ways to
+23:34 get this to this setting, but if you
+23:36 double click on the concentric icon,
+23:39 make concentric,
+23:40 Mhm.
+23:40 you can turn on rotate about resize and
+23:44 rotate about current point instead of
+23:46 center.
+23:47 Mhm.
+23:47 And then set it back to default here
+23:49 instead of concentric.
+23:51 And then when you make your multiple
+23:54 copies,
+23:55 you know, you want to make three more
+23:57 copies,
+23:59 when you do the
+24:00 triangle,
+24:02 uh
+24:02 I'm getting the wrong thing there. Let
+24:04 me do that again.
+24:05 Multiple copies.
+24:08 Oh, come on.
+24:10 What's it doing to me? Did I not get
+24:12 that set right?
+24:16 Um object
+24:18 Oops, wrong place.
+24:21 What's that? Edit.
+24:24 Here it is. Behavior is current point.
+24:27 Is that center jump? Is that what you're
+24:28 looking for?
+24:29 No.
+24:31 I'm just looking to multiple copy
+24:32 though. That's it.
+24:33 Multiple copy and then hit it again for
+24:35 your interval. Is that what you're
+24:36 talking about?
+24:37 Oh, stupid dummy. I got to set my
+24:40 current point first. Set your current
+24:42 point.
+24:43 That's my current point, the center
+24:44 there. Now I can multiple copy around
+24:47 the current point like this.
+24:50 Mhm.
+24:51 So, that's a little function that's kind
+24:53 of hidden in there that it's not hidden,
+24:55 it's just how it works.
+24:57 So, do the same with it.
+24:59 Another nice thing about using the that
+25:01 uh mutton What was it called? Make
+25:04 muttons? Is that what it was called? Or
+25:06 make millions?
+25:07 millions
+25:08 It resizes with the window when you
+25:10 resize it.
+25:11 Exactly.
+25:12 the solids, you have to move everything.
+25:14 Yep. It gets grouped together with the
+25:16 window. So, yep, if you make that
+25:18 you know, or doesn't mean it's going to
+25:20 do it perfectly, but it does
+25:21 Yeah.
+25:22 So, if you're just doing a little bit
+25:24 um it'll do that just fine.
+25:27 Yeah, I found that that works well.
+25:28 I show a a quick little trick also for
+25:30 just working in CAD?
+25:31 Go ahead.
+25:34 Um this is just showing our
+25:37 um our tools for trim and extend. So,
+25:39 I'm drawing a CAD line across the screen
+25:41 here, and then we actually have a circle
+25:43 about center. So, if it's helpful to
+25:45 draw a circle about a center point um we
+25:48 have that tool. So, this circle is being
+25:50 drawn from the center as opposed to
+25:51 it's, you know, it's tangent corners,
+25:53 right?
+25:53 Show them how to use the tab key to do
+25:55 it at a specific size.
+25:57 That works.
+25:58 Okay.
+26:01 So, same tool, and I'm circle about
+26:03 center, and I'm drawing this out. I'm
+26:05 bringing my mouse up in the direction
+26:07 that I want to indicate my um my radius
+26:10 in this case. So, my radius in this case
+26:12 I want to say is 60 in. So, I hit tab or
+26:14 enter.
+26:15 How did you get that How did you get
+26:16 that up there?
+26:18 So, while I was dragging my circle, I
+26:19 hit tab or enter, and that brings up
+26:21 enter coordinates, and then here's where
+26:23 I get to specify distance or an XY
+26:26 position offset. Now, I find it much
+26:28 easier to do distance, so I leave polar
+26:30 checked. And then I'm just going to
+26:32 punch in 60, and then hit okay, and
+26:34 that's going to say that this is a
+26:36 circle with a radius of 16 in. So, there
+26:39 we go. And then from here, I can take
+26:41 this, and I can trim this
+26:44 by hitting our trim objects tool. Now,
+26:46 my edit toolbar is floating, but hit my
+26:48 trim objects
+26:49 right here, and then you draw a line
+26:52 through
+26:53 what section you want to trim. So, I'm
+26:55 going to trim the center section of this
+26:56 line, right? So, now I've got a line on
+27:00 either side of the circle.
+27:02 Same thing, I could have just taken
+27:04 this line, use that same trim objects
+27:07 tool, and
+27:08 draw a line through the portion of the
+27:10 circle that I want to cut.
+27:13 Now, our fence tool,
+27:15 and that's this guy,
+27:16 fence tool will select anything that is
+27:19 crossing the path of our selection. So,
+27:22 now it's automatically detecting that
+27:24 this circle is crossing the path of this
+27:25 selection, so that I could then trim the
+27:28 center of that and create a line
+27:31 circle line.
+27:34 Mhm.
+27:35 Might want to rewrite that.
+27:36 Yeah.
+27:37 I'll be there.
+27:38 You want to answer this question quick?
+27:42 Is there a way to curve the short
+27:46 the shed planes you
+27:48 Don't understand the question.
+27:49 Curve
+27:50 Is there a way to curve the short
+27:52 I'm understanding it. We on the shed
+27:54 planes coming down from the mansard
+27:57 roof, we have a
+27:58 a uh
+27:59 a secondary roof.
+28:04 These are all the
+28:04 come down with the mansard and then we
+28:06 and then we flare out.
+28:08 And I think this was done before we
+28:10 actually got to that. But, yeah, there
+28:12 is way. See See, these are showing as
+28:14 straight.
+28:16 Um
+28:18 Oh, down to the bottom.
+28:19 Second Yeah, secondary.
+28:22 Um roof roof planes so you got the main
+28:24 mansard
+28:25 and then you have the little flare
+28:26 flare.
+28:26 Yeah.
+28:28 Yeah. So,
+28:29 And that's supposed to be curved? Or
+28:31 they're asking if you curve it?
+28:33 They're asking if it can be curved. Ours
+28:35 is not.
+28:35 Okay, so
+28:36 Yeah.
+28:36 Yeah, it's really easy.
+28:38 Here, let me let me just before you go,
+28:40 John. The way you think about how you
+28:42 want to curve that,
+28:43 to know how much to curve it, draw a
+28:45 circle
+28:47 and get the radius of that circle.
+28:49 Man, there's an easier way.
+28:51 Don't even show that.
+28:52 Don't even show that.
+28:54 Oh, come on, John. This is fun.
+28:56 Select the
+28:58 Select the steep roof and find out what
+29:00 degrees and angle it is.
+29:03 All right, hang on.
+29:04 Let me get to it.
+29:08 Okay, uh roof plane.
+29:10 And then go to pitch in degrees.
+29:13 Right below
+29:15 Right below the
+29:16 Okay, there you go.
+29:18 Copy that.
+29:20 Okay.
+29:21 And then go to the lower roof.
+29:23 This is the easier way.
+29:25 Yeah.
+29:26 Yeah, they both work.
+29:27 The lower roof,
+29:28 open it, go to curved roof.
+29:31 Click down at toward the bottom of that
+29:33 menu.
+29:34 All right.
+29:34 And in the ridge, paste that number in
+29:36 there.
+29:38 Why the ridge?
+29:39 That's where you start from.
+29:40 working on the ridge of the top roof of
+29:42 the bottom roof.
+29:45 And then say okay, and it's done.
+29:47 Oh.
+29:48 Well, look at you.
+29:49 Piece of cake, huh?
+29:50 Wow.
+29:53 I don't know. Turned out kind of weird,
+29:55 but
+29:56 Yeah.
+29:56 It doesn't broke that It broke that
+29:58 return on the
+29:59 but you know.
+30:00 That's why it's weird. If you look at
+30:01 the look at the 3D of it, you'll see
+30:03 that it's fine.
+30:08 So, it curved it nice. Obviously, we
+30:09 need to shut the gutter off on that.
+30:12 Yeah.
+30:12 Um Jeez.
+30:13 The The roof should have been joined The
+30:14 roof wasn't joined when you did it when
+30:16 you started either. If that gutter came
+30:18 back
+30:18 Oh, yeah. Look at that.
+30:21 So, you have to have the roof the two
+30:22 roofs joined together before that before
+30:24 you do that.
+30:25 There you go. That's up quite a bit. So,
+30:27 joining is better.
+30:29 That's really nice.
+30:31 So, All right, cool.
+30:33 Well, thank you very much. I've got to
+30:34 run. I've got another webinar happening
+30:37 right now, so but this has been very,
+30:39 very helpful. I really appreciate it
+30:41 again everyone else.
+30:42 Thanks.
+30:43 All right.
+30:43 We'll be seeing you in a couple weeks.
+30:46 Cool. Thanks.
+30:47 Thank you.
+30:47 Thank you, Michael.
+30:50 All right.
+30:52 That's a cool house. It's going to be
+30:54 They're doing I think they're doing a
+30:55 second floor addition on it.
+30:57 So, that's
+30:58 pretty pretty cool addition.
+31:00 Let me just close all that down.
+31:02 It's a heck of an as-built.
+31:05 Yeah.
+31:05 Yeah.
+31:06 I'm I applaud them for doing it and get
+31:08 getting it the way they did.
+31:10 Those kind of projects These kind of
+31:12 projects these restorations
+31:14 um
+31:15 they're tough.
+31:16 Um
+31:18 to draw in any CAD program, not just
+31:19 Chief.
+31:20 But, yeah. Um they're doing a nice job.
+31:23 All right, let's move to
+31:25 um
+31:26 Mary. Mary is on the call.
+31:29 She actually uh
+31:31 has a
+31:32 some questions.
+31:34 Mary, are you there?
+31:38 There you are.
+31:39 Hi, Mary.
+31:40 Hi.
+31:41 All right, Mary.
+31:42 Good. How is everybody?
+31:45 Great.
+31:46 And you're right, those old houses are
+31:48 tough to do.
+31:49 Yes.
+31:51 Right, Evan?
+31:52 Yeah.
+31:54 Um all right.
+31:55 forget our turret. Our curved turret.
+31:59 Mary Mary worked for a long time on a on
+32:02 a turret on an old home that burned, and
+32:04 she was recreating it, and that was a
+32:05 big struggle.
+32:06 Oh, man.
+32:07 And then they didn't build it curved.
+32:10 Yeah, and then they didn't build it
+32:11 curved after all.
+32:12 Oh, no.
+32:14 But, it looked good in plan.
+32:16 Yeah. Oh, it looked fabulous in plan.
+32:18 Yeah.
+32:20 All right, so here's your plan that
+32:21 you're working on, and you have What are
+32:23 your questions for us, Mary?
+32:25 Um I like to put in um this, like a 3D
+32:31 photo.
+32:32 Mhm.
+32:32 So, that they can get an idea of what
+32:34 finished product is going to look like.
+32:35 And when I do that from the plan, you
+32:39 know, I just do a camera view from the
+32:41 plan.
+32:43 And then uh
+32:46 uh and then it wants to know whether I
+32:48 want to save it as a picture or a image.
+32:50 What's the difference? And
+32:53 uh how can I get it to come in at the
+32:55 right size, the right, you know,
+32:58 Um okay.
+33:00 We'll let Renee answer this one, but
+33:01 first of all,
+33:03 um
+33:04 when you want to resize a picture like
+33:06 this,
+33:07 if you pull the corners,
+33:09 um but this is actually a picture, so it
+33:11 resizes fine. But if it's a 3D if it's a
+33:14 what I did. When I brought this in, it
+33:15 was enormous. It was
+33:17 Yeah, if it's a if it's a
+33:19 viewport from Chief, it's a you got to
+33:22 do this. You got to select the viewport,
+33:25 hit your control key key and select it
+33:26 again, then you get a little circle at
+33:28 the top, and you can resize that
+33:30 viewport any size you want.
+33:32 Okay.
+33:33 Or click on it and hold your X key down
+33:35 and grab the corner, and that'll resize
+33:37 it as well.
+33:38 Or that's right mouse as well.
+33:40 Oh, that's right. The Well, the right
+33:42 mouse will do two sides. Won't do the
+33:44 whole thing.
+33:45 Yeah.
+33:46 Um and on viewports,
+33:49 I have to say mixed results. Maybe I'm
+33:50 just not doing it right, but um seems
+33:52 like when I do viewports like that with
+33:54 a 3D view,
+33:56 it
+33:57 it uh
+33:58 it's cropping over it instead of
+34:00 Yeah, you can't If I'm right, you can't
+34:03 resize a 3D view. Although you can, it
+34:06 does work, but then it'll it'll decide
+34:09 to return to its original size every
+34:11 once in a while and surprise you in your
+34:12 drawing. So, you can't count on it.
+34:14 There There's a
+34:15 can. It depends on how you're doing it.
+34:17 One way is is a crop, and the other way
+34:19 is a resize.
+34:20 I'm not talking about I'm not talking
+34:22 about an a photo image of it. I'm
+34:24 talking about um
+34:25 if you take a 3D view and send it to
+34:27 your layout as a 3D view, especially a
+34:30 live view,
+34:31 then you can't resize that
+34:33 dependably. Is that correct or not?
+34:36 Uh you can have a resize tool in the
+34:40 layout box.
+34:41 So, if I send this to the layout
+34:44 as a
+34:46 live view or a update on the I always do
+34:48 update on demand
+34:50 cuz I don't want my live views sucking
+34:51 up resources all the time.
+34:53 Uh-huh.
+34:53 Um
+34:55 and I'm going to send it to
+34:57 uh
+34:58 candy's, I guess.
+34:59 layout
+35:00 Okay. So, there's my view.
+35:02 That's a viewport now.
+35:04 And if I try to resize it by grabbing a
+35:06 corner, it does that.
+35:07 Right.
+35:07 Okay. So, this is where you use your X
+35:10 key you know, the key what we're talking
+35:11 about the right mouse button. It does
+35:14 make it bigger and smaller. Sometimes it
+35:16 crops over it. Um
+35:18 or the X key
+35:20 resizes it
+35:21 or you hold your control key down. You
+35:24 select it, control select, and then you
+35:25 got this the arrow. I've been using that
+35:28 circle more often than not. Seems to do
+35:30 a nicer job.
+35:32 Um I don't know why. I just like it.
+35:34 Um
+35:35 So, that's how you resize those views.
+35:37 Now,
+35:38 should that be a live view versus a
+35:39 picture?
+35:40 Yeah.
+35:40 100% you want to keep that a live view.
+35:44 Cuz you don't want to send a you don't
+35:45 want to send a picture every time you
+35:46 redo your plan.
+35:48 So, the way it right. Um the way I did
+35:51 this though was I went to tools um
+35:54 cap screen capture.
+35:56 And why?
+35:58 Because I learned that from one of your
+35:59 previous
+36:01 shows.
+36:02 That's not the That's not to put views
+36:04 on your layout, Mary. Come on now.
+36:08 I thought it would be a better way than
+36:10 what I've used to be doing.
+36:12 Yeah, no.
+36:13 use my I don't do them as a live view. I
+36:15 don't want to spend the money on
+36:17 that on color ink like that constant
+36:19 Well, you cheapskate. Come on.
+36:21 No, I just
+36:22 Well, and you know what? Honestly, the
+36:23 contractors like, "Why is this here? I
+36:25 don't need this."
+36:26 Yeah.
+36:27 So, I send I only send my renderings
+36:31 by email. I send them to my clients so
+36:33 they can show them on their phone to
+36:34 their friends. I don't put them on my
+36:36 drawings. I don't want the ink on it. My
+36:38 contractors like
+36:39 Yeah.
+36:39 You're going to send me My contractor
+36:41 says me, "If I need something in 3D, I
+36:44 want it in black and white. There's no
+36:46 reason why I need it in color."
+36:49 Here's a here's something for you to
+36:50 think about though. All right? So, yes,
+36:53 you can cap- capture that screen and
+36:54 send it in an email.
+36:56 But then you got to do each view
+36:57 separately and then you got always got
+36:59 to redo it all the time.
+37:00 Yeah.
+37:01 All right. Every time you send something
+37:02 new.
+37:02 It's not that big of a deal to do that.
+37:04 Why not do this where you are putting it
+37:07 on the layout? It doesn't mean you have
+37:09 to print the layout for your contractor.
+37:11 Um
+37:13 layout files are
+37:16 Sorry.
+37:18 And it works.
+37:22 All right. So, in this plan here, I have
+37:24 a like this.
+37:26 So, those are all live views. If I make
+37:28 a change to the project, I can update
+37:31 those all and then I could do the same
+37:33 thing. I could then just um
+37:36 do the uh
+37:37 Oh, here's my tool right here. I could
+37:40 capture Oh, I got hide
+37:42 So, right there where where you could
+37:44 I got to turn that off.
+37:45 picture backdrop material and image.
+37:47 What's the difference between picture
+37:49 and image?
+37:51 When you do the capture tool,
+37:53 you've got
+37:55 A picture would be you you um
+37:58 you're going to save your
+38:00 Well, the backdrop would be a backdrop.
+38:01 Material would be a material. Picture
+38:03 and image would be like a a 3D tree that
+38:06 you put in your plan.
+38:08 Not a 3D tree. An image of a tree or an
+38:10 image image of a person or a someone's
+38:12 job sign or something like that. You
+38:14 could capture something and make it a 3D
+38:16 object that sits in your plan. It's not
+38:18 a 3D object. It's a flat surface that'll
+38:20 turn and face the camera.
+38:22 Ah, got you.
+38:23 A picture is just that. It it picture
+38:27 of something. So, you could do that.
+38:29 Um
+38:30 Oh, that's right.
+38:31 Um
+38:35 Why? Oh, that's right.
+38:37 You wouldn't use this to to You're using
+38:40 this to send pictures to people?
+38:44 I'm not.
+38:45 You wouldn't No, you wouldn't do that
+38:46 because that just creates a picture
+38:47 photograph that sits on It gets gets
+38:50 added to Chief.
+38:52 Um
+38:54 So, you wouldn't want to do that. Okay.
+38:56 So So, this is this is the way I handle
+38:59 it. I always put 3D views on a layout
+39:01 whether I print them for people or not.
+39:03 Right.
+39:03 Um that's my option. I can, you know,
+39:05 just move this page to the end and not
+39:08 print it.
+39:09 Um and then give that that
+39:11 I I'm the mindset I like giving 3D views
+39:13 to everybody. So, that way they can all
+39:15 look at it and go, "Oh, cool." Um or,
+39:17 you know, "Hey, let's change this. Let's
+39:18 change that."
+39:19 That's damn annoying. I keep moving that
+39:21 point, you know.
+39:22 Yeah.
+39:23 All right. Um so,
+39:26 you had some rendering questions, too?
+39:29 Well,
+39:30 um
+39:33 I guess so. So, so sometimes when I do
+39:36 this,
+39:37 it turns out fuzzy and not very crisp.
+39:41 When you send it to the layout, it will
+39:43 be fuzzy.
+39:44 Okay.
+39:45 but when you print the PDF, it will be
+39:47 crystal clear.
+39:48 Oh, really? Okay.
+39:49 Yes, that's normal in Chief's world. I
+39:51 don't know why.
+39:52 I got a little trick. You can zoom in on
+39:53 your layout and then refresh and it will
+39:56 crisp it up a little bit.
+39:57 Yes.
+39:58 Okay.
+39:58 So, it's like this. Yes, that's fuzzy.
+40:01 It's a little fuzzy.
+40:02 But if you if you click on it,
+40:04 Uh-huh.
+40:04 open it and close it, that um
+40:07 What did you say, Renee? You do what?
+40:09 A refresh.
+40:10 Refresh it.
+40:11 Um just F5.
+40:14 Or go down to the little circle on the
+40:15 bottom.
+40:16 The little circle.
+40:17 Oh, this one. Yeah, thank you.
+40:18 symbol, yeah. that does clean it up on
+40:20 the screen.
+40:21 Okay.
+40:21 It's still going to be kind of fuzzy,
+40:23 but when you print that, it'll print
+40:24 clear, crystal clear.
+40:26 So, that's no I don't know if it's a
+40:27 resource thing for Chief or what it is,
+40:29 but that's what they do.
+40:31 Got you.
+40:32 I thought it was something something I
+40:33 was doing
+40:34 No.
+40:35 wrong and should have been trying
+40:37 something different.
+40:39 Yeah.
+40:39 Ooh, that's pretty.
+40:41 That's called physically based. So,
+40:42 that's your that's this. So, if you want
+40:45 to know if this will work on your
+40:46 computer,
+40:48 Uh uh
+40:48 um
+40:50 if you want to know if this will work on
+40:51 your computer, go up to preferences.
+40:54 Go to video card status.
+40:56 Mhm.
+40:56 And look at what your video card is. If
+40:59 it's an RTX
+41:00 with a I think that's what I have.
+41:02 4090? Beautiful. That should work great
+41:05 then. So, that'll work.
+41:06 board crashed right over the holidays,
+41:08 so
+41:09 Yep.
+41:10 And Renee, what are the settings that
+41:11 she should be using? So, when you're in
+41:13 a 3D view like this,
+41:15 You know, I tell you it's different
+41:16 every time.
+41:17 Is it Well, let's just get the the basic
+41:19 settings you should use.
+41:21 Well, in this case, um go in the
+41:24 rendering technique options.
+41:27 You're in your edit camera. I mean,
+41:29 you're in your edit camera.
+41:30 so I switched to physically based.
+41:32 Technique options.
+41:33 We're going to go to technique options.
+41:35 Yep.
+41:36 And then
+41:38 um export samples, set that to like
+41:40 anywhere between 5 and 50 when you're
+41:41 just working through design.
+41:43 Let's set it at 50 for now.
+41:45 And then the cat blind samples and
+41:47 denoise when complete. And if you're in
+41:49 an interior shot, your daytime backdrop
+41:52 intensity could be anywhere between
+41:54 uh
+41:55 100 to about 2,000 or so. 7,000 is more
+41:59 for an exterior scene. Yeah, depends on
+42:02 the backdrop you're using though.
+42:03 Okay.
+42:04 Then you can always make the room a
+42:06 little brighter or you know, darker by
+42:08 this, the exposure.
+42:11 Um so, those are some settings that you
+42:13 want to be doing. You could set these up
+42:15 as a default in your in your template.
+42:18 Mhm.
+42:18 Um,
+42:20 and then when you do this now, the
+42:21 export samples, when you
+42:24 rotate a view, you'll watch See right
+42:26 down here it says samples. So, if it's
+42:28 set to a thousand, it's going to keep
+42:29 going before it denoises.
+42:32 All right, so that's why we set it lower
+42:35 to get the speckles off the screen.
+42:37 So, so see when I move this now, see how
+42:39 it gets speckly?
+42:40 Mhm.
+42:40 When I when I let go, it goes through 20
+42:43 samples and it gets rid of the the the
+42:45 denoises. It gets rid of those little
+42:46 speckles.
+42:48 And you get some really nice views. This
+42:49 is a nice plan. You've done a nice job
+42:50 here.
+42:51 Thanks.
+42:51 So, really looks good.
+42:55 But yeah, you got to do
+42:57 short. We're running out. We need Mr.
+42:58 Mustache on here, too.
+42:59 All right, I'm sorry.
+43:00 Yeah, can you answer this question real
+43:02 quick first, Dan?
+43:03 Sure.
+43:03 Um,
+43:03 Yep.
+43:05 changing the color of a T1-11 and lap
+43:08 siding to match
+43:10 Uh, you just match the materials.
+43:13 option.
+43:14 So, you could change any material to a
+43:16 different color if you want that wood
+43:17 grain or something to be different
+43:19 color. We're going to use the rainbow
+43:22 bacon tool.
+43:23 Uh, you don't need to use the rainbow.
+43:24 Use the um, color picker.
+43:27 The color picker? This one?
+43:30 Use the color picker and pick on those
+43:32 cabinets. Now hit your blend with
+43:34 material Oh,
+43:35 you don't have a blend with material on
+43:37 those.
+43:39 I was just use the color picker.
+43:42 Let's use the rainbow bacon tool. Um,
+43:45 this go to texture. It's this tool right
+43:48 here. Click on the material you want to
+43:50 change. Go to texture or pattern. Click
+43:52 on the blend with texture.
+43:55 You have to show me what you're talking
+43:56 about, Ernie. I'm not quite I wasn't
+43:58 following you. And then we can hit set
+44:00 using texture or click on the color and
+44:02 then we can just take the little eye
+44:04 dropper and and go select the color we
+44:06 want it to be. So, I'll get this
+44:09 material here and click okay. Now you
+44:11 just change the material.
+44:14 So you'll keep the one you'll keep the
+44:15 siding color.
+44:17 So any color that you have on your
+44:19 computer open
+44:21 you could do that with.
+44:23 And there you go.
+44:25 And just as in for information, if
+44:26 you're going to be changing something
+44:27 like that a lot, do it in your wall
+44:29 types.
+44:30 For for this question
+44:33 so that
+44:34 you're still using your
+44:35 default material.
+44:36 Yeah.
+44:38 All right.
+44:39 Mr. Chad, what do you got?
+44:45 Thanks, Mary, by the way.
+44:46 Yeah, thank you.
+44:47 Thank you, Mary.
+44:48 Nice job on that.
+44:50 Nice seeing you, Mary.
+44:51 Yeah, me too.
+44:54 Chad's muted muted again.
+44:59 There he is.
+45:01 So we've got Chad and then we've got um
+45:03 we've also got uh
+45:06 uh
+45:07 William. I don't know if he's on the
+45:08 call or not, but we'll talk to Chad
+45:10 right now.
+45:14 Mary, we're going to
+45:16 There we go. Hey, Chad.
+45:18 Hey, Chad.
+45:19 Hello.
+45:21 That's not your plan.
+45:23 Let me go open yours.
+45:25 So basically my uh coming at this with
+45:27 the layout is
+45:31 the truth is I'm self-taught. You guys
+45:33 are my university, right? So this is uh
+45:36 through the years of working with you,
+45:37 Dan, and and John and then the uh
+45:39 brother Renee's incredible work. Um
+45:42 Gavin and Robin are really submitting
+45:43 some
+45:44 other unique dynamics to this, so it's
+45:46 it's been great. Uh that said, there's a
+45:48 lot of things I don't know still on
+45:50 um how I create my layouts. Is it uh
+45:53 showing in that professional realm or
+45:55 even more important for me personally,
+45:57 is it artistic enough?
+45:59 Um and so does it have its own style and
+46:01 flavor that becomes distinctly
+46:04 uh mine or Keystone product.
+46:07 So, when I created the the drawing, this
+46:08 is actually a drawing for my own house.
+46:10 So, there's there's stuff that I've kind
+46:11 of left out cuz I was lazy cuz it's
+46:12 mine. I'm the I'm the builder.
+46:14 Um but, there's still tools and pieces
+46:16 of it that
+46:17 I would welcome any criticisms of what
+46:20 we should do differently.
+46:22 All right. So, again, you guys that
+46:25 you're sending in the plans, thanks for
+46:26 using that tool that we uploaded. That
+46:28 makes it really nice.
+46:29 Um but, I'm looking for the plan.
+46:31 Where's the plan file gone?
+46:32 Chad, can you Can you mute yourself when
+46:34 you're not talking, Chad? I think we're
+46:35 getting some feedback from you.
+46:39 You might You might have some speakers
+46:41 going in your room. Um we're just
+46:43 kicking the They're getting those back
+46:44 over here delayed.
+46:49 Plan file, where are you?
+46:53 There it is. Chad, we got two um
+46:56 two plan files. Which one do you want to
+46:58 look at?
+47:00 Unmute yourself. They're the same.
+47:03 I'll just pull that one up.
+47:06 And then, let's grab your layout.
+47:26 So, if I'm muted, does that change
+47:29 There you go.
+47:31 There That works.
+47:33 Nope. Nope. Still getting feedback.
+47:40 So, just click the mute button when
+47:41 you're not talking.
+47:45 So, you got a plan here
+47:48 that This is your house.
+47:50 And
+47:52 what kind of questions can we help you
+47:54 with?
+47:58 So, you can back up there and see the
+48:00 presentation of uh
+48:01 I saw
+48:02 doors and windows. Um that's always been
+48:04 a little challenge how to break that up
+48:06 to make it look
+48:08 right cuz I just pick it I I
+48:10 bring it in twice and I do half of it.
+48:12 So, I don't know how to get my
+48:15 title material my you know, my column
+48:18 information. So, I
+48:20 uh
+48:21 always wanted how to do that better.
+48:23 So, that could be one we could work on.
+48:25 So, you want to make them smaller
+48:26 because
+48:29 the
+48:30 the schedule gets to be too big when
+48:33 you roll in one place. Is that right?
+48:35 Yeah, how do I get it all on there and
+48:36 make it look
+48:37 uh unchopped up to be more even.
+48:41 I think this is something Renee has
+48:42 helped me with on the I
+48:43 You know what? I'm I'm putting a video
+48:48 Renee, I couldn't hear anything you
+48:49 said.
+48:50 Yeah, say it again. Chad, we do we get a
+48:52 massive amount of feedback of us
+48:54 talking.
+48:54 Yeah, you need to turn your computer
+48:56 Um yeah, I I just muted you. I have a
+48:58 recording I did last night about this
+49:00 specifically and I was uploading it to
+49:02 YouTube today. So, I don't know if you
+49:05 just want to get wait for that. That'd
+49:06 be that would work.
+49:08 You're always one step ahead of us.
+49:10 Yeah, do you have a link you could post,
+49:11 Renee?
+49:12 Um I haven't uploaded it yet. So,
+49:14 Oh, okay.
+49:15 I could
+49:17 Yeah, I don't know where where you want
+49:18 me to put it but wherever I can put it
+49:20 oh, I will. I'll put it in the Facebook
+49:21 groups. Yeah.
+49:23 All right. So, um
+49:25 what's the what's the way how do you
+49:27 make the
+49:28 columns go verse opposite of how it
+49:32 normally does? Normally it has a title
+49:33 Open that and it's swap rows columns at
+49:35 the bottom middle.
+49:37 Um I didn't know you could do that,
+49:40 perfectly honest. Um that one right
+49:41 there. Okay.
+49:43 Cool.
+49:44 So, if you do something like this,
+49:47 um you could make that 3D column a
+49:50 little smaller by making it narrower.
+49:53 And that creates a nice looking You
+49:55 still get the image. It's not as big as
+49:57 you had it, but that makes the schedule
+49:59 a lot easier to read, I think,
+50:02 than the way you have it there.
+50:04 We saw you how you did that, but can you
+50:06 tell us how you did it?
+50:08 You didn't
+50:08 I can
+50:09 talk about it. You You just did it.
+50:12 Well, first of all, I First of all, I
+50:14 swapped the the titles for the I swapped
+50:17 the the way the thing was done.
+50:19 Robin what you said?
+50:21 Oh, well, there's some other things you
+50:22 could do like um Chad put all the floor
+50:25 If you put I usually make um
+50:29 schedules per floor if I'm working on
+50:31 more than one. So, that way I can have a
+50:33 schedule just on my windows for floor
+50:35 one and windows for floor two, and that
+50:37 helps to reduce the size of it because
+50:40 then you can rearrange where the
+50:42 schedules are going to be, right? And
+50:44 they they don't all have to be on the
+50:45 same They don't have to be together. The
+50:47 other thing you can do is now you can
+50:49 also minimize the width of the columns
+50:52 and make the columns all smaller. Um
+50:55 and that makes it nicer like you know,
+50:57 if So, think of this, if you don't have
+50:59 that column for floor, but you change
+51:01 the title and you say windows floor one,
+51:04 right? And then you have another one
+51:05 that says title windows floor two, you
+51:07 reduce the whole column. So, you don't
+51:09 even need that information in the
+51:11 drawing.
+51:12 Right.
+51:13 That helps to keep it cuz these things
+51:16 get to be crazy. But I
+51:19 love the schedules. I work in the
+51:20 schedules all the time. I actually use
+51:23 them as my specifications.
+51:26 I don't want to have to write specs.
+51:28 Writing specs is my least favorite thing
+51:30 in the world to do. I'm sure that most
+51:32 of you love writing specs.
+51:33 Yeah, absolutely.
+51:35 Cuz that's so much fun.
+51:36 It's like detailing a cross section. I
+51:39 just can't wait to do those.
+51:40 Oh, I know.
+51:41 They're like the highlight of my day.
+51:43 Yeah.
+51:44 Anyhow,
+51:45 uh so Chad, this is I think what we see
+51:47 as a in my opinion a little bit nicer
+51:50 presentation, but again you you you you
+51:52 be the judge of that. Either way I think
+51:54 works fine.
+51:55 Um, I think this is a little easier to
+51:57 work with. That's just my opinion. I
+51:58 don't know what you guys think. Or Chad,
+52:00 what your thought is on on the
+52:02 differences.
+52:03 Just just a quick word about schedules.
+52:05 If people haven't messed with them since
+52:07 X15,
+52:08 go in and mess with them. There's a lot
+52:10 of things you can do to it now to make
+52:11 it look pretty. I mean, before it was
+52:13 just kind of a
+52:15 generic blob sitting on your plan, but
+52:17 now you can make them look really pretty
+52:18 and
+52:19 easier to read.
+52:21 Stuff like that, so go spend some time
+52:23 working on that.
+52:24 now.
+52:25 They're they're amazing. The new
+52:27 schedules are so If you guys are not
+52:29 using your schedules
+52:31 to the full advantage, you're really
+52:34 missing out some great opportunities.
+52:36 Yeah. And you can
+52:38 Go ahead, Kevin.
+52:39 I think what Chad was asking when he
+52:41 introduced this uh situation is that
+52:43 he's looking to differentiate himself
+52:45 from his competition. He's looking for
+52:48 how to make his plans He's just happens
+52:50 to be using his house as an example.
+52:52 Chad, be free to nod or shake your head
+52:54 if I'm right or wrong. And and so he's
+52:56 looking to say, "How can I
+52:58 differentiate? How can I make my plan
+52:59 stand out? How can I make my plans more
+53:02 artistic and more dramatic than my
+53:04 competitions?" I don't think he's
+53:06 concerned so much about uh that how to
+53:08 do this schedule as it is does a
+53:10 schedule like this come across as
+53:12 unique, different, and more artistic or
+53:14 is it just become confusing? Am I
+53:16 anywhere close to right?
+53:19 Yes, you are. You are. Yeah. I I I
+53:21 really how how does it become I'm less
+53:23 concerned about the as far as how it
+53:25 looks for the builder cuz they're going
+53:26 to take they're going to aggregate their
+53:28 information they want. They're going to
+53:30 only look at part of these pages anyway.
+53:32 Uh the homeowners who I'm selling these
+53:34 to or the or the person that's paying me
+53:36 the big dollars, and so it needs to
+53:37 really have a dynamic
+53:39 rich feel to it and be uh accurate and
+53:43 smart. So, I'm trying to find a way to
+53:45 do that.
+53:46 So, another idea would be to
+53:49 There's been several ideas about
+53:51 splitting your schedule for the windows
+53:52 up per floor,
+53:54 but you could also do it per elevation.
+53:57 That would be a some manual stuff that
+53:59 you have to do with the schedules, but
+54:00 you could do it per elevation, and that
+54:02 would
+54:02 get your schedule smaller so that they
+54:04 look nicer.
+54:05 And overall
+54:06 Like like Robin, this it becomes a spec
+54:09 uh
+54:09 uh presentation tool, too. So, take off
+54:12 uh it is nice to have them consolidated.
+54:14 Yeah. Yeah.
+54:16 Yeah. Uh you can't you can create the
+54:18 second schedule. You just run into the
+54:20 same issue that a lot of people do where
+54:22 you end up with the uh multiple uh
+54:24 callouts on the plan, which is not good.
+54:27 Um if you can
+54:29 deal with
+54:30 Each Each window can only be on one
+54:32 schedule.
+54:35 But you can make them go on to a custom
+54:37 schedule if you'd like.
+54:39 With a new custom category.
+54:47 And then make a schedule based on that.
+54:50 All right. Because of time, we have to
+54:52 call it. Chad, you got a great topic
+54:54 there, which we will be talking about at
+54:56 the summit. That's really I like that
+54:58 topic a lot. So, how can we make our
+55:01 plans look better differentiate
+55:04 Yeah, I think um when you come to the
+55:05 summit, we should spend some time
+55:07 talking about those kinds of things.
+55:09 Yeah.
+55:10 Yeah, so bring some of your questions.
+55:12 Yes.
+55:13 Let's answer this question before we go.
+55:17 I find that live camera to be difficult
+55:19 to manage. If I move the camera angle,
+55:20 do you have a method to lock down
+55:23 your camera location for reuse?
+55:26 What I do is I take that camera that I'm
+55:29 going to be putting on my layout, I put
+55:31 it on a new layer,
+55:33 I lock that layer, and I turn it off so
+55:35 I can't even see it on my plan. So, I'm
+55:37 never going to be grabbing it
+55:39 to
+55:39 Okay, so
+55:41 I got a camera here,
+55:43 right? I want to save that camera.
+55:46 Save active view.
+55:47 Okay? And then I'm going to go back to
+55:49 plan view.
+55:51 I take this and we can still use our
+55:52 copy paste tool.
+55:54 And then use this new camera
+55:58 to do whatever I want to do to set up
+56:00 another camera.
+56:01 Exactly. And the good part about hiding
+56:03 them even from yourself is that you
+56:05 aren't tempted to to reuse that later
+56:07 and spin it around and find out you just
+56:09 wrecked your 3D rendering on your layout
+56:11 page.
+56:12 Exactly. Exactly.
+56:14 Um I want to steal last couple minutes,
+56:15 guys, cuz uh I think the focus of this
+56:18 was redlines and and plan checking and
+56:21 stuff, right?
+56:22 Yeah, go for it.
+56:23 Um so, I got a couple things that I'd
+56:25 like to do in terms of plan checking in
+56:27 general. I love to look at my old plans
+56:29 to see if I missed some kind of detail.
+56:32 I love grabbing other people's plans. I
+56:35 know Richard Fauquette's in here. I've
+56:36 got a subset of his plans. They're
+56:38 gorgeous.
+56:40 I hope he lets us share it one day cuz
+56:41 they're so beautiful. So, I like to go
+56:43 check other people's plans to see what I
+56:45 might be missing out. And then it's
+56:47 helpful to come up with a workflow for
+56:50 bubbling revisions. Um cuz inevitably
+56:54 you're going to have a revision, so
+56:56 you can do it in plan. I like doing it
+56:59 in layout because I'm not restricted by
+57:01 the layout box.
+57:03 Right? So, then I can bubble over
+57:05 anything I want in layout cuz you think
+57:07 a layout as a PDF compiler.
+57:10 And then if you're a macro guru, you can
+57:12 really get into some funny stuff where
+57:14 you can even create a revision table
+57:17 from this. So, this is a little bit
+57:19 advanced. I'll show it cuz I know
+57:20 sometimes you guys like seeing this kind
+57:22 of stuff. Um I'm going to get into my
+57:24 project browser and within this, let me
+57:28 close down a bunch of other stuff first.
+57:34 Sorry, give me a second.
+57:37 Otherwise, I can't see what I'm looking
+57:39 at. So, untitled two layout.
+57:42 So, untitled two layout, I'll make a new
+57:44 CAD detail.
+57:45 Watch this. I'll just say um
+57:49 fixed standards and abbreviations.
+57:53 Made a new CAD detail.
+57:56 Close that CAD detail.
+57:58 I'm going to copy this revision note,
+58:00 bring it over to this standards.
+58:02 I'm going to bubble this.
+58:05 And then I'm going to link this
+58:07 callout to that new fixed standard and
+58:10 abbreviation.
+58:12 And now in my plan sheet comments, it
+58:15 shows me that as a listed thing that I
+58:17 could print out.
+58:19 So,
+58:20 it's cool. And it works well for
+58:22 printing out a revision table, but
+58:24 there's a bunch of different things you
+58:25 can do in layout that people don't even
+58:27 think about. Another thing to keep in
+58:29 mind is you can add CAD details in
+58:30 layouts. A lot of people don't utilize
+58:32 that, but there's a few reasons why you
+58:34 might want to do that. So,
+58:35 Yeah. Yeah.
+58:36 of little tips and tricks there.
+58:38 So, once you've once you've created your
+58:40 um revision cloud in that situation,
+58:43 uh and you're using it as a linked
+58:45 entity, can you get rid of the cloud cuz
+58:48 the cloud indicates like this is this is
+58:50 a something I've changed in my plan?
+58:53 Um
+58:54 so, can you can you leave the clan the
+58:56 or can you eliminate the cloud and still
+58:57 have that link?
+58:58 Oh, for next revision and now you've
+59:00 Yeah, that's no problem. So, you can
+59:02 just keep that tag in there and that's
+59:04 from a previous revision, right? So, now
+59:06 we're on revision two. So, then I'd make
+59:08 a copy of this and just change the label
+59:10 of it. Um and in this case, I don't
+59:13 remember how I changed the label of it.
+59:15 Go figure.
+59:17 Sorry.
+59:19 It's been a while since I've used this
+59:20 system.
+59:21 Um somewhere in there that callout is
+59:23 number one from something. So.
+59:26 But yeah.
+59:27 Um
+59:28 and then I like to go just check on some
+59:30 of my previous revisions, too. We'll
+59:33 just see if I can't Oh, here's another
+59:34 thing. Um for plan checking, go
+59:37 to your municipali-
+59:39 your your municipality or your county,
+59:41 etc. Go see if they've got a plan
+59:44 submittal checklist. And this is from
+59:47 You know, a lot of them do. So, you're
+59:48 going to come in here and and check that
+59:50 out. Another thing to do for your site
+59:52 plan specifically is go into the your
+59:54 county GIS, and a lot of times they have
+59:57 a parcel map that you can print out
+59:59 that's a parcel map of record. That's a
+1:00:01 really big one to me. Um
+1:00:03 here's just, you know,
+1:00:05 when I'm bubbling, if I have a um a
+1:00:09 section of a drawing that's so
+1:00:10 significant, I've made so many
+1:00:12 significant changes, I'm not going to
+1:00:13 bubble all those individual changes, I'm
+1:00:15 going to bubble the entire thing. And
+1:00:17 you've got to make that decision, and so
+1:00:19 long as it makes sense to your plan
+1:00:21 checker, that's great. So, you'll notice
+1:00:22 here that I'm bubbling just a portion
+1:00:25 here versus bubbling an entire section
+1:00:28 or sheet or something like that.
+1:00:31 Very nice.
+1:00:32 So, that's helpful.
+1:00:33 And then just make it clear, you know,
+1:00:35 there's no rhyme, rule, or reason to
+1:00:37 this unless your county municipality
+1:00:39 actually has some rules regarding it.
+1:00:42 So, here's just another example. I'm
+1:00:43 bubbling huge sections in this one cuz
+1:00:45 I've got a lot of changes on like this
+1:00:47 whole page changed, so I needed to
+1:00:49 bubble it out.
+1:00:52 Cool.
+1:00:53 All right, that's all I got.
+1:00:55 That's it. Oh, no, it's not all you got,
+1:00:57 it's just all you got time for.
+1:01:02 Um
+1:01:03 everybody, thanks for being on the show
+1:01:05 today. Uh again, love to have you join
+1:01:08 us at the summit. Um you get a chance to
+1:01:10 learn about uh
+1:01:13 fabulous mustache that we see there on
+1:01:15 Chad.
+1:01:16 World world awarded or renowned,
+1:01:20 whatever you call it. Um and he can use
+1:01:22 it as a pot hanger.
+1:01:27 And uh, we're going to do this again
+1:01:28 next time. So, that would be on um,
+1:01:32 the sec- uh, second of
+1:01:35 Yeah, second of February. So, we'll do
+1:01:37 some more plan checks. So, if you want
+1:01:38 something reviewed, just uh, follow the
+1:01:40 links on the
+1:01:42 on the designer show page and you can
+1:01:44 upload your plan. We'll take a look at
+1:01:45 it and get have you invite you to our
+1:01:47 show if you'd like to.
+1:01:49 These are fun.
+1:01:50 Um, obviously we could do this all day.
+1:01:52 Yeah.
+1:01:53 And yeah, but I know people have work to
+1:01:55 do. So, Thanks again for being here.
+1:01:57 This is cool.
+1:01:58 Yeah.
+1:01:59 Yeah. Thanks for being here and
+1:02:01 talk to everybody soon.
+1:02:02 Have a great day, everybody.
+1:02:04 Thanks, everybody.
+1:02:05 Bye.

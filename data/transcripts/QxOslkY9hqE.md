@@ -1,0 +1,1441 @@
+---
+videoId: QxOslkY9hqE
+title: Plan Review - Designers Show #126 -
+url: "https://www.youtube.com/watch?v=QxOslkY9hqE"
+status: imported
+---
+
+# Transcript
+
+0:00 all right I think we're live welcome
+0:02 everyone to the designer show with Chief
+0:04 experts and all of these other expert
+0:07 guys that we have on the show John Renee
+0:10 Kevin and Robin thanks for being here
+0:12 you guys how you guys doing today really
+0:14 well it's beautiful today rain are gonna
+0:17 come in about two hours so right now
+0:20 it's still pretty Portland you get rain
+0:22 in Portland huh yeah a little bit on
+0:25 occasion it's rare yeah yeah we got a
+0:28 gorgeous day here in Minnesota Sun's
+0:29 braak shining blue skies uh been raining
+0:32 on and off uh regularly which has been
+0:35 perfect so we've needed it and is it
+0:37 above um freezing there it's like gonna
+0:40 be 74 today come on oh my goodness yeah
+0:44 wow you're in the Sun Belt we have a
+0:47 than Portland we have a lovely lovely
+0:50 location anyway uh we're on the show
+0:53 Welcome William and everybody else
+0:55 that's going to chime in here and today
+0:57 we're just gonna uh we're just GNA share
+1:01 plan things that we work on uh regularly
+1:05 and we all have different ideas
+1:07 different ways of doing things we have
+1:09 one person that sent in a PDF that uh
+1:12 we'll take a look at that and just kind
+1:16 of go from there so feel free to chime
+1:18 chime in with questions at any time hey
+1:21 Chad how you doing hi
+1:23 Chad I wish this software we use would
+1:26 allow us to let Chad come in real quick
+1:28 or you know people come in and out real
+1:30 quick but yeah the way this works well
+1:32 he can he well he can't actually he has
+1:35 to go through a whole bunch of Hoops to
+1:37 get here but but just in the fact that
+1:39 we know he's there that's what counts
+1:41 the most it makes us all feel good
+1:45 yeah uh Dan you should mention Maryland
+1:48 right away hey Bruce Maryland Bruce
+1:52 Bruce we missed you last this year at
+1:55 the summit you were very your presence
+1:58 was missed
+2:01 John what about Maryland the training
+2:03 we're doing a week
+2:05 from a week from Tuesday yes I was going
+2:08 to mention that in a little while I was
+2:10 gonna okay we'll do that partway through
+2:13 here we'll mention that stuff give
+2:15 people a chance to log in and I know
+2:16 Rene want to take a few minutes and show
+2:18 some things and share some tips so we
+2:21 got lots to do here so let's start out
+2:23 with Mr Kevin he wanted toh jump on this
+2:26 review of a kitchen plan I'm hoping
+2:29 she's on
+2:30 um she said she probably wouldn't be
+2:32 here but she will definitely watch the
+2:33 the recording okay so her schedule
+2:35 didn't work out all right but uh yeah
+2:38 feel free to her name is Hillary and uh
+2:42 it was nice of her to send these in yes
+2:45 uh so I'm trying to get to where I can
+2:48 share her share screen yep there it is
+2:55 present
+2:57 and yeah I don't show the again let me
+3:00 see this
+3:03 window where do I have you here Cassidy
+3:08 been um Cassidy joined and she was at at
+3:11 the summit with us I was gonna say
+3:13 Cassidy you won any new contest lately
+3:16 or have you any awards I know you guys
+3:19 WN lots of awards too so uh welcome nice
+3:22 to see you here all right go ahead Kevin
+3:25 all right yours are you seeing it yes
+3:27 yes we do see it so this this was a plan
+3:30 sent in uh to for for evaluation for
+3:34 review um I have spoken to Hillary she
+3:37 was actually at the summit and I spoke
+3:38 with her there about her plans which are
+3:41 are definitely improved from uh where
+3:43 she was at the summit she was learning
+3:45 and trying to figure out what works and
+3:46 what doesn't so she's asked us to
+3:49 critique the current plan and I wanted
+3:52 to take a little bit of time to review
+3:54 it um so Hillary I know you're not here
+3:57 but you you're here in spirit so I'm
+3:59 going to talk as if you are um so the
+4:02 first thing that I see when I look at
+4:03 this plan is the the white space and the
+4:06 filling of space in there so from a plan
+4:09 standpoint um it's it's good to do what
+4:12 you can with a space consistency with
+4:13 scale is important as well so I it
+4:16 depends on your on your audience and
+4:18 your needs but if I scroll through these
+4:20 plans I see that that um you've got a
+4:23 lot of Whit space left over in your
+4:25 plans uh not in the actual uh 3DS but in
+4:29 in the uh in the plan views so something
+4:32 there to think Kevin you're referring to
+4:34 the spacer on the edge of the plan
+4:35 itself yeah on the sheet yeah okay so
+4:38 what scale is she working in is that she
+4:41 she's got it scaled at a quarter inch
+4:42 based on whatever page size this is so
+4:46 um it looks like um 11 by 17 yeah it
+4:50 looks bigger than that looks like 24 by
+4:52 36 what that size of drawing in that
+4:55 much white space so you know so one of
+4:58 the things that I do my plans is to
+5:01 indicate the uh the scale the paper size
+5:04 that is in is expected for the print
+5:07 scale that I'm showing that allows the
+5:10 the viewer to uh you scale appropriately
+5:14 and I happen to use ancy um ancy B and
+5:18 ancy D because um 11 by 17 and 22 by 34
+5:23 work so well together I can just uh say
+5:26 print this at 100% if you're PR printing
+5:28 it 22 by 3 4 and print at 11 by 17 if
+5:32 you are um I mean if you're uh scale at
+5:36 50% if you're printing at 11 by 17 that
+5:38 allows that to happen in this particular
+5:41 case I was just talking about filling of
+5:43 the page so at whatever scale this is
+5:46 she could probably bump this to 38 inch
+5:47 scale and uh and fill the page a little
+5:50 bit more just a thought the other thing
+5:53 is is that I see in the title block some
+5:55 very small print relative to the other
+5:57 print when I zoom in on that print I see
+5:59 that it's her so be proud of yourself go
+6:03 ahead and go ahead and upgrade that uh
+6:06 that font size so that you're in at the
+6:08 same scale as everybody else um that's
+6:11 as as everybody else on the title
+6:13 block um another thing still just
+6:16 looking at the plan set in particular
+6:18 are the general notes and this is um the
+6:21 next couple of comments are things that
+6:23 I would advise all of you uh when you
+6:25 think about your general notes this one
+6:27 I this one I think is just is
+6:30 is uh kind of interesting uh first of
+6:32 all there's just a kind of a situation
+6:34 here where all of your notes are
+6:36 numbered one um that's an easy fix um
+6:39 but the uh the idea that the designer
+6:42 maintains no responsibility for the
+6:45 general contractor subcontractors are
+6:46 those working in such capacities for the
+6:49 method methods used and I love the
+6:50 export or the lack thereof in the
+6:53 execution of the work and safety
+6:55 procedures I think it's great to have
+6:56 this little levity in here um or the
+6:59 lack of methods yeah so uh that's good I
+7:03 am in in my opinion I think it's best to
+7:08 minimize the verbiage of disclaimers
+7:11 that can be challenged um plans can be
+7:15 held up in court uh so so whatever
+7:18 you're saying there uh can be argued and
+7:22 the more that you state an absolute uh
+7:26 the more that opens you up to argument
+7:28 should that that unfortunate situation
+7:31 arise so if you don't have any
+7:33 responsibility for these things what do
+7:35 you have responsibility for or if
+7:38 something happens that's outside of
+7:39 these things does that mean you have
+7:41 responsibility for it because you didn't
+7:43 say you don't so some of the things that
+7:46 you use in your general great advice you
+7:49 should say that one more time yeah so so
+7:52 one of the things that happens is this
+7:54 says that you don't have any
+7:56 responsibility for the general
+7:58 contractor the subcontract directors are
+8:00 those working in such capacities for the
+8:01 methods used or lack there of an
+8:03 execution the work and safety procedure
+8:04 precaution taking it to project site
+8:06 okay great what about the delivery guy
+8:10 that just drove through the front of the
+8:11 house do you have do you have
+8:13 responsibility for him then I if you use
+8:16 extremes to say to to illustrate this
+8:19 and find the holes in your logic that's
+8:23 probably something you should change
+8:24 because that's what an attorney is going
+8:26 to do they're going to find a hole in
+8:28 every single thing you say so be careful
+8:32 what you are disclaiming because the
+8:34 opposite of that is you're claiming it
+8:36 um and if something is outside of that
+8:39 disclaimer you've opened yourself up for
+8:42 that
+8:43 possibility uh I prefer more to minimize
+8:47 the conversation and say these are the
+8:50 things that I will be responsible for
+8:52 and by doing that you've automatically
+8:55 said the rest of it stuff I'm not
+8:57 responsible for so it's simple
+9:00 it's simple It Gets You Through the
+9:02 situation and it doesn't open you up to
+9:04 something that's saying well you didn't
+9:05 say you
+9:06 weren't uh so keep that in
+9:08 mind uh the next one says that the
+9:12 contractor should should assume full
+9:14 responsibility unrelieved by review of
+9:16 shop drawings nor by supervision a
+9:18 periodic blah blah blah blah blah blah
+9:20 again you're providing the negative
+9:23 you're providing the thing that they're
+9:26 responsible for unrelieved of these
+9:28 other things
+9:30 but then you list a bunch of things that
+9:32 now say including excavation Shoring
+9:35 scaffolding bracing reaction framework
+9:37 for okay what about everything that's
+9:39 outside of there again it opens you up
+9:42 to the possibility of someone
+9:44 interpreting it the other way and that
+9:46 someone CH is likely G to be a
+9:48 challenging
+9:51 attorney um yeah makes sense the next
+9:54 one is uh the information contained in
+9:58 the drawings is in itself incomplete and
+10:01 void unless it's used in conjunction
+10:03 with all the specifications trait
+10:04 practices applicable standards codes etc
+10:06 etc
+10:07 etc okay what you're really saying is
+10:11 that what is contained in these drawings
+10:14 is conceptual only and should be
+10:15 interpreted as such the rest of it is
+10:20 essentially assumed from that statement
+10:22 again fewer words less chance for
+10:25 somebody to argue
+10:26 it uh the last one had says that due to
+10:29 the nature of remodeling and complexity
+10:31 of the existing and unforeseen
+10:33 conditions all contractors should field
+10:35 verified Dimensions blah blah blah the
+10:37 reality is you don't really ever have to
+10:39 depend or have to defend your claim your
+10:42 statement that all contractors should
+10:43 field verify you can leave this part
+10:46 entirely out it doesn't matter what the
+10:48 reason is it just you just need to state
+10:50 that everything should be field
+10:52 verified exactly
+10:55 exactly so so those are my thoughts on
+10:58 specific on the uh on the title
+11:02 block yes those are my thoughts on the
+11:04 title block and um the next thing that I
+11:09 wanted to talk about was the dimensions
+11:12 and it appear strings yeah yeah it
+11:14 appears to me that you are struggling a
+11:17 little bit with how the dimensions work
+11:20 or how to best utilize them so um I
+11:24 don't know at what stage this drawing is
+11:26 so I'm not I don't want to it to sound
+11:29 like I'm speaking down to you or to
+11:31 anyone else but when I see something in
+11:34 here that is U referencing Dimensions
+11:37 the things that come to mind are that it
+11:39 doesn't really matter to me if to have a
+11:43 dimension in my plan that is referencing
+11:46 something that's outside of my work area
+11:49 uh a dimension that is an overall like
+11:51 this line over here is really irrelevant
+11:54 to the plan uh and possibly serves as
+11:58 something to confuse another one here
+12:00 another one here so there is something
+12:03 in the dimension line there's a little
+12:05 dot at the end of the dimension line
+12:06 that can very easily take anything
+12:08 you've done end to end and reduce it to
+12:10 the next snap point so you can pull that
+12:13 dot towards the other end in this case
+12:16 just eliminate this Dimension altoe but
+12:18 in this one pull it to the other end and
+12:20 as you pull it to this snap point it
+12:22 will shorten the dimension line that's
+12:24 shown to those things that you do want
+12:27 to see it's a very easy way to control
+12:30 the dimensions within the plan
+12:32 especially when you've used auto
+12:33 Dimensions to start dimensioning the
+12:36 plan to begin with well Kevin if I might
+12:38 make a comment Auto Dimensions don't
+12:40 Dimension to the inside of the house
+12:42 they're designed only for the outside um
+12:45 Chief got rid of the NK the nkba
+12:48 dimensions Auto Dimensions so interior
+12:51 design should all be to the interior of
+12:53 the house not to the I mean they should
+12:56 never be to the exterior of the home
+12:57 Robin they did not get rid of
+13:00 and uh the exterior Dimension them I
+13:03 mean they don't really work very well to
+13:05 be very honest well it depends on how
+13:06 they're set up um but go ahead Kevin you
+13:09 just keep going here we so talk about
+13:11 that the auto exterior Dimensions
+13:13 definitely Dimension to the outside of
+13:15 the structural layer on the outside of
+13:17 the house that's that is their intended
+13:20 purpose the auto interior Dimensions
+13:22 fill your plan with countless Dimensions
+13:25 um which you can go in and clean up in
+13:27 one of the ways is the way that I
+13:29 described with pulling the bullet point
+13:30 back pulling the end of the dimension
+13:32 line back to eliminate those that you
+13:34 don't want another one is simply to grab
+13:36 a whole block of them and throw them
+13:37 away when they apply to an area that is
+13:39 really irrelevant to what you're trying
+13:41 to indicate on your construction drawing
+13:43 so if this drawing really is a remodel
+13:45 of only this area then Dimensions
+13:48 relative to this space over here this
+13:50 outside space this space at the top
+13:52 these spaces below doesn't do anything
+13:55 but but add um the possibility of error
+13:59 misinterpretation or clutter to the plan
+14:02 so eliminate those keep your plans
+14:04 simplified to those Dimensions that are
+14:07 relevant to the plan if they are
+14:09 interior Dimensions whether it's Auto
+14:11 Interior or whether you're pulling your
+14:13 own interior Dimensions um you can use
+14:16 the defaults for Dimensions under the
+14:18 little wrench um and go to the defaults
+14:21 go to the dimensions on defaults and
+14:24 then pick the dimensions that you are
+14:27 wanting to change with Snaps are and you
+14:30 can set those to the structural layer
+14:33 the interior layer the center of the
+14:34 wall the outside of the wall whatever
+14:36 you want and what I'm seeing here is
+14:39 that you probably have them set to
+14:40 different places because if I look at
+14:43 this dimension in
+14:45 particular you have a dimension pulled
+14:48 from what appears to be a beam over to
+14:51 something that appears to be a rough
+14:52 into a window yeah I'm not sure what
+14:55 that would represent maybe it was an as
+14:58 built Dimension or whatever but the the
+15:00 idea here is that if it was as built you
+15:04 probably couldn't tell where the rough
+15:06 in was so that's an assumed Dimension if
+15:08 you meant to pull it to the inside of
+15:10 the window you can change that snap
+15:12 point for pulling for instance if this
+15:13 is an end to end Dimension to the inside
+15:16 of the window and and get the dimension
+15:19 that you're looking for so I think what
+15:21 I'm seeing in the dimensions not to
+15:23 spend too much time on this is is uh uh
+15:27 a little bit of um
+15:31 uh immaturity in dimensioning with
+15:33 regard to the capabilities of the
+15:35 dimension tools so spend a little time
+15:37 in there to uh to learn what each of
+15:40 these things do and where they snap to
+15:43 the other one that I see here is you
+15:44 have points that are being dimensioned
+15:47 those typically happen because you've
+15:49 dragged a dimension or copied it not
+15:51 dragged it but copied it so if I copied
+15:54 this for instance if I copied this in
+15:55 place and pulled it to one point or
+15:57 another and then adjusted something I
+16:00 might end up with this point marker
+16:02 which Chief is saying hey I'm not
+16:04 exactly sure where you're intending this
+16:07 to go but there's nothing here so I'm
+16:09 going to give you a point and um and
+16:11 that point is great in that it indicates
+16:14 that okay I need to tweak that one if I
+16:17 grab that Dimension line and pull that
+16:21 end point down to what whatever I'm
+16:23 intending the center of the wall the
+16:24 inside of the wall the outside of the
+16:25 wall the point marker disappears and is
+16:28 repl placed by an appropriately spaced
+16:30 Dimension line including the spacing
+16:33 between the object and the line itself
+16:35 the extension lines and everything else
+16:36 so it cleans up everything right now
+16:40 this Dimension is nothing that anyone
+16:42 can trust because it's a dimension to
+16:44 Nowhere right yeah I say time I wish
+16:48 they got rid of that pointto point
+16:49 Dimension tool it's a huge it's it's
+16:51 helpful in a very few instances yeah
+16:55 very few instances I agree yeah
+16:59 Rene kind of yell you yell about that
+17:01 often on Facebook all the time stop
+17:03 using that tool yes I've had plans sent
+17:06 to me that that's all they used to
+17:13 diens stop using it Kevin your time's
+17:16 just about up here so I just got a
+17:18 little bit more just let me just
+17:21 quantify with the dimensions so a rule
+17:23 of thumb with dimensioning in a plan
+17:25 like this first of all um you know it's
+17:28 okay to put dimensions in a plan and
+17:30 maybe she's in the process of working on
+17:31 this and she's going to finish cleaning
+17:33 those up so my rule of thumb is I always
+17:36 delete all my Dimensions at the end of
+17:37 my project and then I redo them and I go
+17:40 through each Dimension and I make sure
+17:42 it's going to the right place wow it
+17:44 takes five or 10 minutes at most then I
+17:47 can depend on every Dimension being
+17:49 absolutely accurate so so that's my rule
+17:52 ofil that's how I like to do it so if
+17:54 you highlight the ruler icon and hold
+17:56 your shift key down draw a Marky over
+17:58 the whole thing delete all the
+17:59 dimensions put them back on fix them and
+18:01 you're
+18:02 done can I make just a few comments on
+18:05 this drawing if you're okay can I do
+18:07 that I've got I've got two more and then
+18:09 you can have it okay okay okay so um the
+18:13 the other thing off of Dimensions has to
+18:14 do with cameras um I see that you have a
+18:17 camera view in here E1 and this is by
+18:20 its reference likely an elevation view
+18:23 although you can't override that and
+18:24 name it anything you want but let's
+18:26 pretend it's an elevation view there are
+18:28 no a views in your drawing so you've got
+18:31 a reference to two of you you were
+18:33 probably using in a working set that
+18:35 doesn't appear in your plan turn the
+18:37 cameras layer off on The View on the
+18:39 plan views that you are uh are not
+18:43 wanting to show a camera on and even if
+18:45 they're temporary we can we can get into
+18:47 cameras a whole lot more at another time
+18:49 but even if they're temporary at least
+18:50 it goes away for the plan and the last
+18:52 thing is and I promise I'll be done that
+18:55 all of your perspective views as
+18:57 beautiful as this is all of them are
+18:59 taken from the vantage point of a NBA
+19:02 basketball player so so if that's who's
+19:07 living in the house this is a perfect
+19:08 view but if it's not I find that a a
+19:12 more sellable view um is a view that's
+19:15 taken at somewhere around 5 foot six to
+19:18 six feet tall now that doesn't mean that
+19:21 you have to to set your camera to that
+19:23 height but if you just look at it as if
+19:26 you're an adult human staring at this
+19:28 space from from that Vantage Point how
+19:30 does it look and then what I'll find is
+19:33 that oftentimes I can start there at a
+19:35 standing height and set my views up to
+19:37 where they're aesthetically
+19:39 pleasing uh but sometimes it's better to
+19:43 get low like a professional photographer
+19:45 would and shoot so you get a slightly
+19:47 upward uh view of the room and so you
+19:50 can tweak those shots but if you start
+19:52 at at a reasonable standing view you
+19:55 your shots won't look like you you've
+19:57 got a uh
+19:59 uh hovering craft in there shooting
+20:02 pictures um so uh everything's beautiful
+20:05 great work uh just some things to do
+20:09 yeah so that's a beautiful project I
+20:11 mean the renderings are gorgeous um if I
+20:14 might say something as a kitchen and
+20:16 bath designer and I'm a certified master
+20:18 of kitchen bath design so a CM kbd um
+20:21 and I've been doing this for a long time
+20:23 dimensioning needs to have a has a
+20:25 certain hierarchy your first line off of
+20:28 your drawing are openings and obstacles
+20:30 Windows Doors fire um chimneys that kind
+20:33 of stuff is your first line off of your
+20:36 drawing your second line are your center
+20:38 lines and in kitchen and bath it's
+20:40 center lines of appliances fixtures and
+20:42 appliances third line is your overall
+20:45 Dimension and that's the hierarchy that
+20:47 your dimensioning needs to um should be
+20:50 following also kitchen about designs are
+20:53 typically done in half inch scale
+20:55 because of the little details that we're
+20:57 drawing right we're doing fillers that
+21:00 are 3/4 of an inch and you cannot see
+21:02 that dimension in quarter inch scale so
+21:05 I would also suggest that you
+21:08 consider um doing your kitchen and bath
+21:10 plan which you'd have enough room if you
+21:12 took care off of the peripheral stuff um
+21:15 to put your plan at half inch scale so
+21:18 that'll make it easier for your
+21:19 contractor to be able to read it and you
+21:21 know your cabinet maker great points so
+21:25 I completely agree as you can as you can
+21:27 tell and as you know Hillary from
+21:29 working with us but as the rest of you
+21:30 can tell um there's a lot of expertise
+21:34 uh in the chief experts group and you
+21:36 can depend on any or all of us to help
+21:38 you out uh now or in the future so you
+21:41 know call us write to us hire us H us H
+21:49 us Hey Kevin to your to your point this
+21:52 is one of my favorite YouTube channels
+21:55 um and this is great resource for
+21:58 learning about setting up a shot even in
+22:01 rendering this is this is someone that
+22:03 does Real Estate shots but it's the same
+22:06 thing we're doing the same thing yeah
+22:09 this is a beautiful project the details
+22:11 that you know we're seeing in these
+22:12 renderings are stunning so obviously
+22:15 they know what they're doing you know
+22:16 they're designers that know exactly what
+22:18 they're doing and it just could be that
+22:20 their CAD skills you know that's the
+22:22 biggest problem is her design skills are
+22:24 obviously way up here absolutely her cat
+22:28 skills are are learning right and that's
+22:30 kind of the challenge and the
+22:31 frustration you know and that and that
+22:34 is what uh what she was asking for
+22:36 essentially was uh a critique I I did
+22:39 something similar with her at the summit
+22:40 and went over some plans there uh this
+22:43 is a a similar kind of thing like um you
+22:46 know I'm sure all of you are here
+22:47 because you want to learn and uh and
+22:50 figure out better ways to do things uh
+22:53 in my little segment of the show today
+22:56 um I brought up something with the team
+22:58 about something that I'm struggling with
+23:00 and I thought well if I'm struggling
+23:02 with it so might other people so again
+23:04 we all keep learning we just uh just
+23:06 need to grow yep
+23:10 yep Rob something two minutes one minute
+23:13 yes
+23:14 it um I got to show my screen which is
+23:18 ultra wide uh so here's my Dimensions
+23:21 it's Dimension to exterior I'm going to
+23:23 doubleclick my manual Dimension tool
+23:26 that's going to bring up my defaults I'm
+23:28 in locate Auto exterior right now I'm
+23:31 going to switch from showing the primary
+23:33 side on the exterior to the secondary
+23:36 side there you go that's inside well
+23:40 that's true and the the nkba ones that
+23:44 you can still find Dan they don't s they
+23:47 don't Dimension according to nkba
+23:51 standards what's missing um it's the way
+23:54 they Center Line it's not I have to look
+23:56 at it again but I just recently you have
+23:58 to give us to that that to us for
+24:00 another show yeah and I'll just show
+24:03 this manual Dimension tool still on I
+24:05 can draw with the manual Dimension tool
+24:06 this segment it's gonna remove that
+24:08 segment really easy just draw over it
+24:10 yeah yep all right go ahead Dan okay
+24:14 since talking Robin you're up you've got
+24:16 a kitchen you were gonna show us oh I
+24:18 don't have a screen
+24:19 up well she needs to get her screen up
+24:22 come on am
+24:25 yeah I know so this is um a pretty well
+24:31 just a kitchen right you guys um and I'm
+24:33 just in PL so let me change this so yeah
+24:36 so now show us how a kitchen should be
+24:39 dimensioned yeah so let me go to my nkv
+24:44 plan and I've modified these this is the
+24:46 correct way to do it what you're seeing
+24:48 here so the first line is openings and
+24:50 obstacles my first line right here it's
+24:53 measured to the inside of the house
+24:54 inside of the window um inside of the
+24:57 house we didn't replace these windows so
+25:00 I didn't get really detailed on
+25:01 measuring my windows in here because the
+25:03 windows stayed this point over here was
+25:06 the most important point that we needed
+25:07 to deal with um and then the center
+25:11 second line are my center lines so we
+25:13 have my dishwasher the steam oven that's
+25:15 happening here and then the refrigerator
+25:18 we're looking over on this wall now we
+25:21 have I have my overall Dimension the
+25:23 window the set first line the cent
+25:25 center line of my sink and if you
+25:27 noticed that the sink is Center Line
+25:30 it's a I didn't change the wind the it's
+25:33 a big kitchen the sink stayed on the
+25:35 angle but um if the sink is Center lined
+25:38 in two Dimensions right in two
+25:40 directions then when we're looking at
+25:42 the um Island the island is mentioned
+25:46 right so I'm pulling off of this wall
+25:48 I'm pulling off of an wall to get the
+25:51 center line of the sink it is also um
+25:54 actually I missed a dimension you guys I
+25:56 blew it I missed a dimension I was gonna
+25:58 say something didn't look right here
+26:00 yeah I missed this one oh my gosh this
+26:03 is what I always tell people right I
+26:05 love it when you need a designer who
+26:07 says my drawings are always perfect oh
+26:10 yeah yeah and they're not it doesn't
+26:13 matter you know um but my favorite part
+26:16 of this project what I had the most fun
+26:18 working with this one doing on this
+26:21 project was what I did so let me clarify
+26:24 I work with custom cabinet shops I don't
+26:27 work with a um a cabinet company like
+26:31 that's on the East Coast or anything my
+26:32 cabinet shop is local so when I do my
+26:36 elevations um I don't have to and these
+26:40 are not correct this elevation is not
+26:42 correct I didn't draw this the details
+26:45 the dimensioning is incorrect on this
+26:47 plan it should have been done like this
+26:50 where it's
+26:51 pulling my cabinet tree the first line
+26:55 the first line on an elevation
+26:58 should
+27:00 be cabinets and and I know how to change
+27:03 this NTS but I'm not going to deal with
+27:05 that right now um but the first line
+27:08 should be cabinets the second line
+27:09 should be your Center Line third line
+27:11 needs to be your overall and you Center
+27:13 Line them at the bottom and at the top
+27:15 of the drawing so you split your
+27:16 elevations vertic horizontally and you
+27:19 Dimension top and bottom um but so that
+27:23 should have been fixed which I should
+27:24 have looked at that a little closer
+27:26 before I shared but whatever again Robin
+27:28 do you use any automatic dimensioning at
+27:30 all in your floor plan I never use
+27:33 automatic dimensioning because they it
+27:35 always pulls something that I'm not
+27:36 happy with and I'm kind of control freak
+27:39 I'd rather take the time to Dimension
+27:42 myself and I see this zero here on the
+27:45 quarter inch that I would fix in the
+27:46 real world um I just pulled this fast so
+27:49 I'm not going to really worry too much
+27:50 about it do you do you ever Dimension
+27:52 cabinets on the floor plan like that are
+27:54 they always done in elevation yeah
+27:56 according to nkba your floor plan is
+27:59 never shows your nomenclature shows
+28:01 Cabinetry right not Dimensions okay
+28:03 shows Dimensions yeah your nomenclature
+28:05 gives your cabinet maker all the
+28:07 information they need they don't need
+28:09 dimensions on this so you never pull
+28:11 Dimensions there okay okay um my
+28:15 favorite part of this one was when I was
+28:17 doing what I did because I don't make a
+28:21 cabinet um schedule breaking out every
+28:24 cabinet because my my cabinet maker
+28:27 builds off of my ation I did start doing
+28:30 I do a lot of accessories in
+28:33 Cabinetry and I don't one of the things
+28:36 that I'm not thrilled with Chief about I
+28:40 use a lot of rev shelf items but I don't
+28:42 ever use actually install something from
+28:47 Chief into the actual cabinet for two
+28:50 reasons one is it takes it's it's a step
+28:52 that I just don't want to deal with and
+28:54 secondly the most important part is is
+28:57 that you can put R shelf item into a
+29:00 cabinet that cannot actually be
+29:03 installed in the real world so I open my
+29:06 R shelf catalog I actually have a
+29:07 physical catalog that I keep next to me
+29:10 when I'm working and I compare make sure
+29:12 that that size will actually fit into
+29:16 that cabinet so I will go through and
+29:18 then I actually manually add this and
+29:21 these are my specs what I did was I took
+29:24 my cabinet order and I modified it so
+29:26 that way I'm able to use use and install
+29:29 sorry went the wrong way um I I can
+29:31 write you a macro for
+29:34 that well you know what I would totally
+29:36 take a macro for it but again it's more
+29:39 about being a um control freak and
+29:41 making sure that things will actually
+29:43 open properly so um that that they will
+29:47 actually work because I don't want to
+29:49 buy an accessory right I don't want to
+29:52 be responsible for specking something
+29:54 that's incorrect so I will actually go
+29:56 through and add that information
+29:58 myself so um anyway I I hope this gives
+30:02 you guys a little bit of help with it um
+30:05 I you know these plans obviously were
+30:07 always modifying plans always changing
+30:10 things around and doing things
+30:12 differently practically show real quick
+30:14 how you did that schedule there that
+30:16 calls out all that information about the
+30:19 cabinets and show show the call outs on
+30:21 the
+30:22 cabinet as it compares to yeah so
+30:25 there's the numbers C1 C2 C3 so go to
+30:28 your elevation now and show that and
+30:31 then explain what you did so what I did
+30:34 and gosh on the cabinet sir how you have
+30:37 the call out yeah so let me go to here
+30:40 the call outs are here um and I open
+30:44 them in that's not actually a call out
+30:47 of the cabinet that is a specific call
+30:49 out from the drop-down menu where the
+30:51 text is yes and it's actually a note
+30:54 it's not a schedule it's a note call up
+30:57 it's a note so I created my own so in
+30:59 text above line I put the C there and
+31:02 then the schedule number comes in with a
+31:04 macro which I didn't create Renee that's
+31:06 a standard macro and then um and then
+31:10 it's a huge schedule but then I modify
+31:12 it for each page right and it works out
+31:15 really
+31:16 well notes are good can show show some
+31:20 show us how you did that note schedule
+31:22 just go add a note call note call out oh
+31:25 okay go let me just add a not not be
+31:28 aware of this so there's your I went to
+31:30 a note and I added a note here right and
+31:32 I make sure that it's still in my the
+31:35 same plan so it's in my kitchen and bath
+31:36 plan and I had a c i put a c in front of
+31:40 it and then I can add the information
+31:42 well don't have a
+31:44 capitalized and then I can put the
+31:46 information in here so under you know I
+31:48 can say
+31:51 this can't we can't see what you're
+31:54 addings are you on a different screen no
+31:56 I'm in the same screen
+31:58 I didn't move anywhere that's weird if
+32:01 you're adding something we don't see
+32:03 it I'm still on the same screen I didn't
+32:06 change anything but I added this one
+32:08 here you can see the
+32:09 C4
+32:11 um right and Nikki adds it into a
+32:14 comment section on the cabinet plant
+32:15 which I get um I did mine so I add it
+32:21 like that I just add a special note and
+32:23 that worked for me on this plan and then
+32:26 I can have it right here right
+32:28 and can you see the schedule now yeah
+32:30 yes okay you weren't able to see that
+32:32 popup the dialogue box I'm still on the
+32:34 same screen you weren't able to see the
+32:36 dialogue box I'm sorry it's I don't know
+32:39 what happened but it was on the same
+32:41 screen that I was right here anyway I
+32:44 hope that works there's other ways to do
+32:45 it you can lot to do but I found that
+32:49 notes um notes are really easy to use as
+32:53 long as you make sure that you're
+32:55 connecting the notes on the right you
+32:57 create you make sure that you clicked
+32:59 the right note because you can make a
+33:01 lot of them right and you want to make
+33:03 sure that it is a kitchen and bath note
+33:07 it's not something
+33:08 else right well while we're on the topic
+33:11 of notes I have a question sure I used I
+33:14 used notes one time to num to number
+33:19 rooms in a hotel I was helping to
+33:22 design so I put a note in the room and
+33:26 and gave it back to the client and
+33:28 somebody else worked on it and came back
+33:30 to me and all the room numbers were
+33:33 wrong is there a way to once you put a
+33:35 note in to lock its number
+33:38 or
+33:40 um so that that won't change anybody
+33:44 know I don't know but it should I
+33:48 haven't used notes for a while you got
+33:49 that one say it
+33:53 again I had an I had notes in my
+33:55 schedule I was using them just for
+33:58 creating room numbers so I had a
+34:00 schedule that had the notes in it you
+34:02 know so that they would show up and
+34:04 populate and that kind of thing I got
+34:06 the plan back and all the room numbers
+34:09 were screwed up they didn't hold where I
+34:12 put
+34:13 them and as far as I know nobody moved
+34:15 anything around in the schedule either
+34:17 that was my first thought but I don't
+34:18 think that's what happened they were you
+34:21 us were you using notes as uh as a
+34:25 subordinate specification of a label
+34:27 within a dialog box or were using them
+34:29 as an independent call out that you
+34:30 pulled down from the call out menu it
+34:32 was a it was a label and I made them so
+34:34 that they
+34:35 didn't um it it didn't group similar
+34:40 objects so I didn't put anything in the
+34:41 note it was just each individual note
+34:44 you know each room has you changed any
+34:46 option like group objects or if you even
+34:48 change row um sorting or any of that
+34:51 stuff it'll renumber it will if you if
+34:53 you don't want it to Rum then set your
+34:55 own numbers in a custom object field rep
+34:58 schedule and call that the schedule row
+35:01 yeah that would make yeah just in Cas
+35:03 someone doesn't know that it was just a
+35:06 quick way to number them and then I
+35:07 ended up screwing up on me yeah but yeah
+35:10 you you had them set to automatic John
+35:12 so if you would have just changed that
+35:14 auto that macro in there to the number
+35:16 you wanted it to be then it would have
+35:18 stuck here I'll show this real quick um
+35:21 just take anything that you want to have
+35:24 you know built a schedule from and let's
+35:27 just do drop in a Windows schedule real
+35:29 quick and I can always put I'm G to open
+35:34 this window I'm going to get into the
+35:36 object information panel I'm going to
+35:39 create a new field down here you can
+35:42 call it whatever you want
+35:44 test and in this test field in the field
+35:48 value section I'm going to put just the
+35:50 number two or let's just call it
+35:53 W2 now in my schedule I'm going to open
+35:57 this up and what's going to happen here
+35:59 is we're going to see if I scroll down
+36:00 in the um rows to include that we should
+36:04 have at the bottom here test I can add
+36:08 that and I could rename that to schedule
+36:11 number and now we have static labeling
+36:14 right it will never change what it is so
+36:18 that will always be W2 because it's a
+36:20 static
+36:21 label yeah oh that's a great way to do
+36:26 it John was using a note schedule so you
+36:28 could have done the same thing I
+36:30 supposed just change that um real quick
+36:33 let's talk about our class coming up in
+36:36 Rockville so let me share my screen for
+36:39 a second and then Rene gets to have some
+36:41 time to talk about his stuff so let me
+36:43 get to share my screen Tire screen and
+36:48 that
+36:50 one so here we are so uh on the page
+36:54 where you're watching the video or go to
+36:56 the website you experts.com you can
+36:58 check click on this John and I will be
+37:01 in Rockville Maryland that's near
+37:02 Washington DC Washington Washington
+37:06 Wasington here in Minnesota don't you
+37:08 know
+37:10 um May 14th and 15th for our beginner
+37:14 intermediate class and then on 16 and 17
+37:18 for the advanced intermediate Advanced
+37:20 and then of course all four days if you
+37:23 decide you want to take all four days
+37:24 which you know if you're there you're
+37:26 going to learn a ton so John and I
+37:28 really like doing this format uh gives
+37:32 people an opportunity to uh pick up on
+37:34 their skills if you're a if you're going
+37:37 to look at the beginner intermediate if
+37:38 you're a brand new user or if you've
+37:41 been using Chief a while but you really
+37:42 haven't had any formal training you
+37:44 haven't really watched many videos or
+37:45 anything like that uh you really want to
+37:48 take that class if you've been using
+37:49 chief for a while you've done some
+37:51 trading you've had some videos you
+37:53 you've really got a pretty good grasp of
+37:54 the software come to intermediate
+37:56 advance and we'll take you further into
+37:58 the software so uh it's just kind of fun
+38:01 and then all four days kind of build on
+38:02 each other as we go through it so it's
+38:06 really a pretty good format works out
+38:08 nice so it's in again Rockville Maryland
+38:10 there's a map down here somewhere Google
+38:13 Map and uh there we are we're just just
+38:17 outside Washington DC I believe so um
+38:21 come on out and check us out we're doing
+38:23 that in conjunction with
+38:25 uh um
+38:31 I used to do that Vicki the pro
+38:34 remodeling organization in in that part
+38:37 of the world so uh good group uh
+38:40 something to take a look at if you're
+38:41 out in that area anyway so uh check it
+38:43 out give us a call if you have any
+38:44 questions uh pricing 945 for two days1
+38:47 1595 for all four if uh you you
+38:52 bring other people from the same company
+38:55 uh you get a $200 discount on each
+38:57 additional person so uh check it out
+39:01 starts in 10 days 19 hours and 20
+39:04 minutes look forward to seeing you there
+39:06 so that's a Renee
+39:10 you have let me get my screen off of
+39:13 there uh you have something you want to
+39:15 talk about what did I do
+39:19 lost I I clicked you by mistake instead
+39:22 of taking me
+39:24 off sorry taking me off the screen I'm
+39:27 going too fast here anyway Rene the
+39:31 floor is all yours feel free to have at
+39:34 it so I have a a plan to work through
+39:37 and then I also had a little um plug to
+39:40 give I could do whatever order you think
+39:42 is right
+39:44 um here's the here's the plan my plan's
+39:47 simple this was sent in um and this
+39:50 person did quite a bit of work on this I
+39:52 think for the most part
+39:55 um very strange looking house this is an
+39:58 as built condition so that's what we're
+40:00 dealing with here we've already kind of
+40:02 seen this in the in the sidebar we
+40:04 noticed this is pretty funny looking
+40:06 house but there's just a few fixes to do
+40:08 in the roof here um and so I was just
+40:11 going to show working through that real
+40:13 quick um and then maybe save it for
+40:17 another show but the condition actually
+40:20 is that these are custom windows and
+40:22 they actually model these windows to
+40:23 match the slope of the roof believe it
+40:25 or not oh my goodness so we could could
+40:27 show that probably not in this episode
+40:29 probably in a different episode but wow
+40:32 first thing Pi up whatever never mind
+40:34 I'm not gonna say
+40:36 anything first thing we see is that um
+40:39 let me switch to a different maybe a
+40:40 vector view so we could really see this
+40:42 um we see that we've got a ridge line
+40:45 here and so it's clear that we've got
+40:47 two different roof planes now Dan
+40:50 pointed out that if you are doing a
+40:51 remodel and for some reason you want to
+40:53 show new versus existing let's say that
+40:55 this is new and this is existing then
+40:57 you might want to in fact keep this
+41:00 stuff split up and so often times the
+41:02 out of thebox templates have Ridge lines
+41:06 locked so you can always look in your
+41:08 Aldo and sort by locked things such as
+41:12 roof Ridge caps and unlock them and then
+41:16 I can actually edit this and this is
+41:18 just a cadline so I can actually drop
+41:21 that back if you just break the roof at
+41:22 that point and then click on the line
+41:25 that's left on the back side you could
+41:27 turn the ridge off on that line Yeah
+41:30 because sometimes that Ridge will come
+41:31 back when you
+41:33 rebuild um right so if this is an auto
+41:35 build we could break here yeah and then
+41:39 click on that back part of the Ridge and
+41:41 turn the so any any part of a roof can
+41:43 be broken same with gutters so if you
+41:46 you only need gutters on part of a roof
+41:48 plane you can break the roof plane at
+41:50 the edge at the fascia and then turn off
+41:53 the gutter on that other part of the
+41:55 roof right so in this case I'm typically
+41:59 thinking when I see a building like this
+42:01 that we're building from the lower plate
+42:03 line so this is going to be the accurate
+42:05 roof out of the two of these so I'm
+42:07 going to select this upper roof and make
+42:10 sure that it's in fact Cainer so I'll
+42:15 click this to just make sure it's C-
+42:16 planer and then I should be able to
+42:19 click the second roof plane and now
+42:21 these are definitely in plane with each
+42:22 other which means that we could Union
+42:25 the two so that Co co- planer tool the
+42:29 roof has to be pretty close to start
+42:31 right or it has it doesn't have to be
+42:33 exact no it doesn't even need to be
+42:35 close
+42:36 really two of them just put them in the
+42:40 right spot okay got it I've never used
+42:43 that tool let's see and then this
+42:45 section looks like this roof is cutting
+42:47 in back here probably not the actual
+42:49 condition probably more accurate that
+42:51 this roof continues straight up so um we
+42:55 know from maybe other shows that if we
+42:57 make this polyline cross itself it's
+42:59 going to cut that excess I love that
+43:01 feature I when they added that it's
+43:03 like did it with everything I knowes
+43:07 yeah everything right yeah exactly um I
+43:11 don't know if let's see I'd have to
+43:13 bring up my reference image to even see
+43:15 oh this condition is actually true
+43:18 that's funny I thought maybe that this
+43:19 is a mistake but this is actually true
+43:21 for the asilt how strange strange home
+43:24 right so here's kind of the same thing
+43:26 that Co planer tool we can just click
+43:29 this click that second one and it's
+43:30 going to put it right there we go okay
+43:33 and then what's simple about that then
+43:35 is is if we're actually centered on this
+43:37 window correctly should just be able to
+43:39 copy paste so all I did was enter edit
+43:43 toolbar copy paste and then reflect
+43:46 about object and I'm hovering over the
+43:48 ridge line here and now I know that
+43:50 these two are meeting at the ridge right
+43:53 and then it looks like we've got some
+43:54 manually dragged wall here oh yeah and
+43:58 you can always open that up and get into
+44:01 the structure panel and show that you
+44:03 want default wall top height in fact I
+44:06 almost always tell people try not to
+44:08 manually edit your walls causes more
+44:10 problems than it solves for yes the last
+44:14 bit here is result I've got this
+44:16 selected
+44:17 Edge and I want to join the two roof
+44:20 planes so I'll hover over to this Edge
+44:23 and that will join those two roof planes
+44:25 up this might not be the exact condition
+44:28 I don't know I'd have to know more about
+44:30 the project but that's pretty much it
+44:33 for cleaning this up the last bit is
+44:34 that is if you scroll around and you see
+44:38 um this person's actually using my
+44:40 template in this case so I happen to
+44:41 know that I've got a little flashing
+44:43 detail on my roofs and so when I see
+44:46 that flashing detail up on the upper end
+44:48 here it just lets me know that this
+44:50 isn't actually buted to the wall so it's
+44:53 easy to butt these to the wall in 3D
+44:55 because they will kind of snap usually
+44:58 yeah long as you're not overo
+45:02 it but if you can't i' just get into a
+45:04 plan View and fix that up
+45:06 yeah and then same thing you can always
+45:09 kind of break and snap and figure these
+45:12 kind of things out pulling this
+45:13 underneath here break and cut
+45:17 this so long as you have a break in an
+45:20 edge you can use that join roof plane
+45:22 tool so now I have this new edge here I
+45:26 could use that to join it to this lower
+45:28 lower roof plane but I'd have to have
+45:30 brakes in that as
+45:33 well so that's this part now I want to
+45:36 do my little plug um I have a new
+45:40 membership in my YouTube channel so I'm
+45:44 going to show that real
+45:46 quick and so if you go to my actual
+45:50 Channel see if I can figure out how to
+45:52 do that view your channel um there's a
+45:55 whole memberships only video section
+45:57 here and uh if we just even click on
+46:01 that it'll show you I've got quite a few
+46:03 in here I think I've already got
+46:04 probably about 16 hours I got another 16
+46:07 or 20 hours to still load in so I got a
+46:10 lot of content here and I'm just going
+46:13 to recreate or I'm going to try to
+46:15 recreate one of um the ones that I think
+46:18 might be a more popular one um so let me
+46:20 switch a couple screens here make sure
+46:22 you guys are still there okay so I'm
+46:26 going to do a new plan
+46:27 so I need about maybe eight minutes for
+46:29 this um I'm going to show you how to do
+46:32 a staircase
+46:34 volum so let's just do a quick click
+46:37 stairs so single click will get it up to
+46:40 the next floor that part we know and
+46:43 then I'm going to break these stairs
+46:46 okay but I'm going to do a complete
+46:47 break so I'm going to use the break tool
+46:50 and then I want to click on subsequently
+46:52 the add complete break I'm going to
+46:55 break this right at that first
+46:59 tread you guys are cracking up about
+47:02 something yeah did you see Ethan's
+47:06 comment only
+47:09 plans
+47:11 goof so my next part here is I'm
+47:15 clicking on this new just single tread
+47:17 that I just created I'm gonna shift
+47:19 click that what that's going to do is
+47:21 allow me to open up just the lower part
+47:25 just if I just were to open this up
+47:27 straight away we're going to see that
+47:28 we've got two section numbers here but
+47:31 if I were to shift click this and open
+47:33 it up we're only going to have one
+47:35 section here so I'm just modifying the
+47:37 lower section now and so I'm going to
+47:40 say that there's no railing on this
+47:41 lower
+47:42 section okay from here I'm going to pull
+47:46 a back clipped cross-section and I'm
+47:48 going to go just past that first
+47:51 section this is just going to show me a
+47:53 railing end before I even zoom in or
+47:56 anything I'm going to use pneumonic Keys
+47:58 which I tried to Kevin I need you to
+48:01 figure out how to do this on a Mac I'm
+48:02 working on it alt c will get me to my
+48:05 cad menu V will get me a cad detail from
+48:08 View and then I'm going to zoom in on
+48:10 this section right
+48:12 here so the last thing I kind of skipped
+48:14 here and let me just close this out real
+48:16 quick and get back one level is on this
+48:19 upper section I'm going to shift select
+48:21 this open it up I want to make sure that
+48:23 I'm turning off newal posts so I'm going
+48:26 to say that this has no newal
+48:28 posts now let let me get back to this
+48:30 cross-section alt CV will get me a cad
+48:33 detail from View and I'm going to zoom
+48:35 in on this
+48:36 section I want this profile right here
+48:39 this profile end so I'm going to do
+48:42 something kind of funny I'm going to
+48:43 take my line tool which is just L for me
+48:46 and I'm going to do continuous draw mode
+48:48 or alternate draw mode which is right
+48:50 click right so I'm going to right click
+48:53 right click right click right click
+48:56 what's that going to get me well I'm
+48:57 going to use this as a fence to select
+48:59 all these other CAD items that I don't
+49:02 want in this scene and just delete
+49:05 them that was just basically using it as
+49:08 a selection and this leaves me with this
+49:10 piece now this piece is broken into a
+49:13 bunch of little mini pieces and I need
+49:15 it to be one piece so I'm going to
+49:17 Marquee select this whole thing and I'm
+49:20 going to use the extend or extend
+49:23 objects tool and draw a line through it
+49:26 and and I might have to do that a couple
+49:28 times but eventually this will turn into
+49:30 one solid piece Okay cool so from the
+49:33 cad detail from view now I've got one
+49:35 solid piece that's pretty cool I'm gonna
+49:38 copy paste this and Center it up over
+49:43 here and then I'm going to select both
+49:45 of these copy paste and move back to my
+49:49 elevation and paste hold and before I
+49:52 even do anything I'm going to use the
+49:55 convert polyline tool as this guy and
+49:59 I'm going to convert these to
+50:05 faces you're following so far I'm gonna
+50:08 pull up a camera
+50:11 view oh that's funny that's a glitch
+50:13 look at that
+50:15 glitch anybody seen that before you got
+50:18 your hand laying on the
+50:20 trackpad you look oh Shi button was
+50:22 stuck or something how
+50:24 funny all right so this part's annoying
+50:27 I'm going to do a little bit of CAD no
+50:28 one likes CAD I mean trigonometry
+50:30 actually no one likes that but I'm going
+50:32 to extend this profile out so I'm going
+50:34 to extrude this object in case you
+50:36 didn't know you can take a face and
+50:38 extrude that face so I'm going to
+50:40 extrude the object and I'm going to
+50:42 bring this out five inches and then I
+50:45 just know what the rise of this thing is
+50:47 so I'm going to do um basically a
+50:50 tangent which is five times
+50:53 0.589 something like that so I'm going
+50:55 to go you know that the top of your head
+50:57 oh didn't you if he did I'm coming over
+51:00 there and I'm slapping
+51:02 him
+51:04 slap that man is sick there's something
+51:07 wrong with him so you see what I did
+51:09 here right I extended this
+51:12 out I'm gonna copy paste this and just
+51:17 maybe I get to line it up with that face
+51:18 on the other end maybe not I'll just exp
+51:20 this out too say this one same thing
+51:24 paste it out okay just reflected
+51:28 about yeah it wasn't quite picking up
+51:30 that face to be able to do it oh no and
+51:32 not quite reflect about because the
+51:34 staircase isn't centered on the railing
+51:36 so here's the next part that's kind of
+51:38 cool I'm GNA take this Edge and it's not
+51:40 a perfectly flat Edge so I'm going to
+51:42 use the revolve object tool okay here's
+51:47 what it's going to do it's going to try
+51:48 to pick up the direction you're trying
+51:49 to revolve it now I don't do not want it
+51:52 to go in the X Direction at all so I'm
+51:54 going to set this to zero but I do want
+51:56 it to go in the Z direction if you know
+51:58 what I'm talking about here's our axis Z
+52:01 I want to rotate the I want to spin this
+52:04 profile around that Z axis so I'm going
+52:06 to leave this number in place and what
+52:08 I'm going to say is the point that I'm
+52:11 spinning on the reference point that I'm
+52:13 spinning on I actually want it to be
+52:17 about two and a half inches in the X
+52:19 positive value these legs are positive
+52:22 values so I'm gonna try to get to go
+52:25 back to the wall I'm going to add 2 and
+52:28 a half inches in the X position set this
+52:30 angle to
+52:32 90 and there you go there's my return
+52:36 right kind of the same thing I'm going
+52:38 to get over here I need to make sure I'm
+52:40 col um selecting the side that's closest
+52:43 to you know the edge here revolve object
+52:47 and in this case I'm going to subtract
+52:50 about 2 and A2 inches from the X profile
+52:53 I only want to spin it on Z and I'm
+52:56 going to spin this thing maybe 220
+53:00 degrees and look at that cool here if I
+53:04 really want to get clever by the way if
+53:06 you don't select the solid it's a lot
+53:09 easier to move in 3D if you don't have a
+53:11 broken profile selected notice how it's
+53:13 chunking around right now just deselect
+53:16 it and then no no big deal but I'll
+53:19 select this Edge one more time I'll
+53:21 revolve this object one more time and
+53:23 maybe we'll just do another 220 degrees
+53:25 and that's really going to spin this
+53:27 thing around if it lets me let's try
+53:35 it oh except for I wanted to make it
+53:40 disappear you
+53:42 know maybe we'll do just like 90 degrees
+53:48 that no it's not gonna let me that's
+53:51 okay so next part of this is just I
+53:54 still get to select this bottom stair
+53:57 and bring out a flare right and I can
+54:00 adjust this flare as I need to and then
+54:03 it's just a matter of bringing in this
+54:04 same profile here which I think is
+54:08 the5 profile
+54:10 B5 that's this guy and I just need to
+54:13 modify it to match my
+54:16 staircase in this case maybe
+54:19 it's think inch and a half inch and a
+54:21 half and maybe it's like 38 inches or
+54:23 something like that and we will bring it
+54:25 up maybe 6 and 12 inches or something
+54:28 like that now back to the num monic keys
+54:31 I need to add a second floor if this
+54:33 thing's going to make it all the way to
+54:34 the second floor so um alt b OO enter
+54:39 enter enter will get you a new floor
+54:40 believe it or not that gets you to altb
+54:44 O enter enter enter and you can do that
+54:48 as fast as you want to and now I have a
+54:49 second
+54:54 floor now I can question Renee yeah
+54:59 can't you just extrude that along a
+55:01 path uh we don't have an extrude along
+55:04 path I mean you could do a molding
+55:06 profile um but good luck making a 3D
+55:09 molding profile do that nearly as
+55:11 quickly as we're doing this yeah you
+55:12 can't change multiple directions with a
+55:14 molding yeah I wish we could that'd be
+55:17 cool wouldn't that be nice yeah no it's
+55:20 I think they're working on that but I
+55:22 don't think they've solved for it yet I
+55:24 haven't tried it yet but if you did an
+55:26 off set in the X and
+55:29 Y seems like you would be able to go
+55:32 around corners right and that kind of
+55:35 thing um you'd have to tell me more
+55:38 about that the issue is the molding the
+55:41 the molding line is on the side of the
+55:44 molding there is no offset XY for that
+55:47 unfortunately we don't have that
+55:49 capability I wish we did yeah um here's
+55:52 the last piece of this is and this is a
+55:54 simple trick I'm going to place a point
+55:56 which is in your CAD points Place point
+55:59 so I'm going to place a point right here
+56:01 kind in the center of my volum and then
+56:02 I'm going to switch my edit mode to
+56:05 rotate resize about a current point
+56:07 which is also in your edit menu under um
+56:10 edit behaviors and then rotate resize
+56:13 about a current point now this is drawn
+56:16 below here but all I'm doing now is
+56:19 setting multiple copy and multiple copy
+56:22 interval and I'm going to make about six
+56:24 copies here so instead of offset between
+56:27 copies I'm going to evenly distribute
+56:28 copies and I'm going to set my number of
+56:31 copies so there we go I'll press okay
+56:34 and then I get to just drag this um this
+56:38 edit handle this guy right here and
+56:41 that's GNA rotate around a given point
+56:44 now my point changed let
+56:46 me make sure I got the right point
+56:49 there and now I should be able to just
+56:51 rotate about that point there we go and
+56:54 all I want here is one more cop copy and
+56:56 bring this
+57:00 forward nice beautiful so kind of the
+57:04 last bit is solids take materials a
+57:06 little different than other materials it
+57:08 will oftentimes change the orientation
+57:10 so you need to make a copy of the
+57:12 selected material so all I did was take
+57:15 the material eyedropper tool select this
+57:19 railing and then in our edit toolbar
+57:21 copy selected
+57:23 material and I'm just going to rotate
+57:25 that texture
+57:26 so in the texture panel I'm going to set
+57:28 my angle to 0
+57:30 in it was 90 and apply and then you know
+57:35 throw a couple windows in here and
+57:38 render this out and there's my cover
+57:41 art damn cool cool so now save those as
+57:45 the library items and you go say that
+57:48 and if you could save the you could save
+57:51 those all to the library and then you're
+57:52 done with it right but the angle changes
+57:55 based on the Riser of the stairs yeah
+57:58 exactly you have to figure out all those
+58:00 okay beautiful that's cool yeah you
+58:04 showed me some things that that videoos
+58:05 in my membership area there you goam go
+58:08 get a membership how much is your
+58:09 membership Rene uh I think it's 34.99
+58:12 and that gets content from Photoshop
+58:14 twin motion and Chief Architect as well
+58:17 as any kind of macro based scripting I
+58:19 do wow deal and AI stuff yeah $ 34.99 a
+58:24 month yep it's worth it it's worth it y
+58:28 definitely yep def all right well your
+58:32 eight minutes were up 10 minutes ago but
+58:33 that was so intriguing we let you go
+58:37 yeah uh looks like we're about done uh
+58:41 you guys thanks for being here today now
+58:44 well look at this John now we can go
+58:46 down the rabbit hole um there you go
+58:51 yeah you can go down that hole and see
+58:52 how you know you can go down that hole
+58:54 and see how Rene's brain works
+58:57 uh I think it's scary it's pretty F no
+59:00 it's fascinating um we love it so uh
+59:04 it's it's really cool to be able to
+59:07 again look at the power of this program
+59:09 Chief Architect and you know you're
+59:10 talking about some things they don't
+59:12 have yet but they're working on but look
+59:14 what we can do with what we've got and
+59:16 you know the thing is a lot of that
+59:17 function's been there for a long time so
+59:20 yeah I mean I use that kind of stuff all
+59:22 the time and I I forget about it I I
+59:25 didn't know about the scw a face that's
+59:27 pretty cool yeah my new templates for
+59:30 x16 90% of the improvements are stuff
+59:33 that I could have done three versions
+59:36 ago and just didn't come up with the
+59:38 ideas yeah yeah you work with it enough
+59:41 and you get those ideas but cool um
+59:43 Everybody thanks for being here today uh
+59:46 and this recording will be in our blog
+59:48 for a while uh it's some point we'll
+59:50 probably start the we're probably going
+59:52 to not have these available all the time
+59:54 we'll see we've been talking about some
+59:56 different things so but in the meantime
+59:59 please uh please watch away and have fun
+1:00:01 uh taking away whatever you can give us
+1:00:04 your comments things like that check out
+1:00:06 our Washington DC class love to have you
+1:00:08 there and uh let us know if you have any
+1:00:11 questions anybody got anything else you
+1:00:13 want to add you guys no have a great
+1:00:15 week you guys don't forget Mother's Day
+1:00:17 is next
+1:00:18 weekend yeah don't worry we won't
+1:00:23 forget and for those who you asking that
+1:00:25 was my grandson who came to visit that
+1:00:27 was he's a good helper so by bye
+1:00:32 everyone

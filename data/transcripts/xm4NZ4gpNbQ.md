@@ -1,0 +1,1588 @@
+---
+videoId: xm4NZ4gpNbQ
+title: 2024 Business Goal Setting - Designers Show #118
+url: "https://www.youtube.com/watch?v=xm4NZ4gpNbQ"
+status: imported
+---
+
+# Transcript
+
+0:02 all right here we are welcome everyone
+0:04 Dan here the designer show with Chief
+0:07 experts and I'm on with Renee rabbit
+0:09 with rabbit design Renee how you doing
+0:11 today all right cool cool happy New Year
+0:15 Happy New Year to everyone uh John is
+0:16 trying to join us he's having password
+0:18 issues U and Robin is out sick today so
+0:22 she's not feeling well as Kevin's still
+0:24 traveling I think he's back he was in
+0:28 Italy or where was he
+0:30 uh somewhere on the somewhere on the
+0:33 other side of the world he was sending
+0:34 some amazing pictures of places like
+0:37 geez very cool anyway um he was having a
+0:41 nice time he was there with his whole
+0:42 family so it was awesome anyway welcome
+0:46 everyone and U yeah today we're going to
+0:49 talk a little bit about business
+0:50 planning or just least get you thinking
+0:52 about it uh kind of a weird year this
+0:55 year usually I have all these things
+0:56 laid out and plans I want to do things I
+0:59 want to do kind this year rolled into
+1:01 the end of the year and I haven't really
+1:03 done much yet so
+1:06 um yeah but it will the calendar will
+1:09 fill in quickly as it usually does we'll
+1:12 find ways to do that oh John is showing
+1:14 up John is here there's there's the man
+1:17 Kenny Crocker Kenny I hope you I hope
+1:19 we're seeing you soon yeah hey Kenny how
+1:22 are
+1:24 you so anyway uh yeah so things are
+1:28 going well it was nice to have a few
+1:29 weeks off during the holidays I I really
+1:32 didn't like my brain just kind of shut
+1:33 off so did a few things but nothing
+1:37 normal nothing like the usual were you
+1:39 traveling Rene weren't you on a trip
+1:41 somewhere uh yeah I uh where did I just
+1:44 go no I didn't go too far I just went to
+1:46 Tahoe um oh okay yeah we had a little
+1:50 little winter New Year's so that's fun
+1:52 that's right you're a big uh big skier
+1:55 snowboarder or skier both both okay just
+1:59 not at the same
+2:02 time that'd be interesting to see
+2:06 uh every new wacky things going on on on
+2:11 the hill so they have they have like
+2:13 tricycles you know I don't know what
+2:14 they're called but they look like
+2:15 tricycle frames on skis and they bring
+2:19 out skateboards that have like a single
+2:21 ski underneath it every year
+2:23 they why not why not John how are
+2:27 you I'm uh hanging in there
+2:30 good are you on you on that new computer
+2:33 or still on your old one H I'm on the
+2:36 old one right now the old one
+2:38 okay yeah cool all right uh we're going
+2:42 to talk a little bit about business
+2:43 planning we don't have anything super
+2:44 duper going on today I just want to
+2:45 cover a couple of things real quick uh
+2:48 let me share my
+2:50 screen
+2:51 and me get
+2:55 into that and so let's go over here to
+2:59 to
+3:00 uh Chief experts for a
+3:04 second uh on the 19th we're going to do
+3:07 another designer show and we're going to
+3:08 talk about Plan reviews we're going to
+3:11 do plan reviews so one of the things
+3:13 that I'm setting up on our website and
+3:14 I'll have a little video that shows how
+3:16 to do this but um you'll be able to
+3:18 submit your plans ahead of time so
+3:21 whether you're going to submit a PDF or
+3:23 the whole plan you could do that here
+3:25 answer a few questions submit your plan
+3:27 and it'll upload it to my Dropbox so
+3:29 it's pretty cool uh I just uh we just
+3:32 figured out how to do this in Dropbox
+3:33 and it's really slick so uh that'll be
+3:36 really helpful to get your plans and
+3:38 then U we'll take a look at them and see
+3:41 what we can see what we can do to help
+3:43 out on on in Plan reviews so we'll talk
+3:46 about you know Chief things you're
+3:48 having problems with as well as you know
+3:50 just hey tell me how you like this plan
+3:52 what would you change what would you
+3:53 different what would you add remove um
+3:56 we'll talk about those kinds of things
+3:58 as well uh
+4:00 and so that that's kind of exciting we
+4:03 we did those last year a few times we
+4:04 really had a good time with that so
+4:06 we're going to do a little bit more of
+4:07 that this year um just really kind of
+4:10 get into that sort of mindset and if you
+4:12 guys have ideas on shows that we should
+4:14 do too by all means let us know we're
+4:16 all ears here so as hard as we try to
+4:20 think of new things we're busy just like
+4:23 you guys are so but if something flashes
+4:25 in your brain send me a note or send any
+4:27 of us a note so we can put it on our
+4:29 calendar
+4:30 all right um I was just GNA well let me
+4:33 get back to this uh did the
+4:37 uh this is where we are now there's a
+4:40 link below the if you're viewing this on
+4:42 the website there's a link here uh that
+4:44 take you to the business the planning
+4:46 topics we're going to cover today um and
+4:49 it's actually taking you to the sales
+4:51 page for our Summit which is coming up
+4:54 here in the beginning of March we still
+4:55 have space available it's not a lot uh
+4:59 so if you're you're interested at all
+5:01 you know check this out um we'll maybe
+5:03 put together a little show here to talk
+5:05 about the summit too um because I know a
+5:07 lot of people have questions about what
+5:09 it's all about what we do there uh it's
+5:11 a big commitment in time and money so uh
+5:14 we want to make sure that everybody's
+5:16 well informed about there's only a few
+5:18 rooms left right yeah um about half the
+5:23 people coming are coming back from the
+5:25 year before so that tells you something
+5:28 right there that they got a lot out of
+5:30 it and they want to come back and get
+5:31 even more so that's really exciting
+5:34 because uh you know we've gotten to know
+5:36 these people and we can really move
+5:37 forward with them now so one of the
+5:39 things that um we'll be doing this year
+5:42 which we did last year as well is is
+5:44 talking about you know here's the you
+5:47 know little bit of the agenda don't
+5:49 really have a a full-blown agenda for
+5:51 the Chief Architect training yet that's
+5:53 going to depend on who signs up and
+5:55 we'll customize that but one of the
+5:56 things we do every night at The Summit
+5:59 is we talk about business and as I'm
+6:03 putting this together I'm thinking you
+6:05 know this is a lot of the stuff we
+6:07 talked about with business planning and
+6:08 different things that we do as a
+6:11 business to create more Revenue so uh
+6:14 we're going to talk about some of these
+6:15 topics here in just a minute but you
+6:18 know I just wanted to point this out
+6:19 that yeah um we really got deep into
+6:22 some of these things and it was really a
+6:24 lot of fun I
+6:25 mean I'd like to interject on that um
+6:28 after a full day of teaching class and I
+6:31 don't feel like saying another word for
+6:34 the rest of the night right um this
+6:36 ended up being a really enjoyable piece
+6:39 of the whole thing didn't it though I
+6:42 thought it was really good I thought it
+6:43 was invigorating um yeah um I was
+6:46 excited probably why I stayed up all
+6:48 night every night excited we did these
+6:51 you couldn't shut down yeah but yeah we
+6:54 went from about 7:30 to 9 and I think we
+6:56 could have gone to 10 or 11 easily on
+6:58 some of these top topic so anyway it was
+7:00 fun but we did cut it off so people
+7:02 could get some rest and do other things
+7:04 so um yeah as far as the uh we got one
+7:07 two three three or four spaces left in
+7:10 the big house and then uh some more
+7:13 spaces in the house right next door
+7:15 which is actually really really nice so
+7:18 we do have room and then if you uh want
+7:20 to join us and not and stay somewhere
+7:22 else maybe you've got someone that lives
+7:24 nearby or you have a hotel you want to
+7:26 get or something you could do that as
+7:28 well so uh check it out and and of
+7:31 course the pricing is down here at the
+7:32 bottom so we'd love to have you join us
+7:35 and again if you have questions feel
+7:37 free to call got our got our first sign
+7:40 up got our first sign up for
+7:43 2025 for 2025
+7:47 huh well that means we'll have to do it
+7:50 I haven't decided
+7:52 yet we're just kind of take this one at
+7:54 a time so yeah uh but yeah that's
+7:57 awesome Norman we'll make sure
+8:00 business goal number one I want to get
+8:03 some people um some um brand ambassadors
+8:08 uh integrated into the summit AMD um you
+8:11 know some of the fixtures and
+8:12 Furnishings companies just anyone we can
+8:15 get a hold of that might sponsors
+8:18 sponsors yeah yeah yeah so there's a
+8:20 good
+8:21 one yes we'd love to do that so okay
+8:24 enough of that for now um let's go talk
+8:27 about business planning a little bit so
+8:29 I did is I set up those topics on our
+8:31 good old wheel remember the wheel um and
+8:35 I thought well let's just do it this way
+8:37 rather than have some formal
+8:38 presentation uh this is just more about
+8:41 uh having conversation and if you guys
+8:44 have ideas things that you're doing and
+8:46 actually one of the comments I would
+8:47 love to hear from you have you put
+8:49 together any have you done any planning
+8:51 for 2024 do you do a formal plan or even
+8:54 an informal where you just write down
+8:56 some goals I mean in it simp simplest
+8:59 sense just writing down some goals is
+9:02 business planning the act of writing
+9:05 things down or typing them um into a
+9:07 document of some form it really makes a
+9:10 difference just it's something I've
+9:12 always found that if I write it down it
+9:14 tends to come true more often than not
+9:16 so if it's something I really want uh so
+9:18 keep that in mind let's just go ahead
+9:20 and spin up the wheel and see what pops
+9:21 up here um there's a lot of topics here
+9:24 that we don't have time to get into
+9:26 everything marketing strategies this is
+9:28 an absolute fun topic I don't know if
+9:32 you guys like marketing or not but I
+9:33 love marketing I think it's it's a great
+9:36 topic so what can you do what can you do
+9:40 in your business to get more people
+9:43 people happily involved in the services
+9:45 you offer that's a way to think about
+9:47 marketing all right it's just like what
+9:50 we're doing right now is marketing okay
+9:52 the designer show we're trying to get
+9:54 you guys more educated happily involved
+9:56 in things that we're doing so so what
+9:59 are you guys doing let's talk a little
+10:01 bit about some of the things that I've
+10:02 seen out there that are successful as
+10:04 far as
+10:05 marketing
+10:07 um me me personally I have brand
+10:11 exposure but I want to improve
+10:14 engagement so yeah you know and that and
+10:17 that means I probably need to either
+10:20 just spend a lot of time engaging with
+10:22 people or figure out some some method of
+10:24 of doing that so yeah that's that's
+10:28 keeping it one of the things I I get and
+10:31 I Renee and I were just commenting on
+10:32 this a little bit before the show that
+10:34 um the job boards are not as full as
+10:36 they used to be um I've got a good
+10:39 friend who's a contractor that said he's
+10:40 getting 10 12 um u resumés a day from
+10:45 contractors uh and that's unheard of
+10:49 usually it's impossible to find good
+10:50 help so there's something slowing down
+10:53 out there okay and I think we have to be
+10:55 aware of that and be ready for that um
+10:58 so the first thing that you should do
+11:00 for your marketing if you haven't done
+11:03 this I can't say it I can't emphasize
+11:06 this enough is go back through your list
+11:09 of your good
+11:10 clients and contact them via email via a
+11:15 postcard via letter however you can do
+11:18 it get in touch with your past clients
+11:21 they may have just forgot you're there
+11:23 that happens so if you don't do anything
+11:26 else that would be one of the best
+11:27 marketing things I would Rec commend
+11:31 um the other
+11:33 thing is some of the more successful
+11:36 companies that I worked with over the
+11:37 years they do like a monthly or
+11:40 quarterly newsletter and I sign up for
+11:43 these all the time from my clients and
+11:46 it's really cool to see um they send out
+11:48 a little just tips or reminders things
+11:50 like that that uh you know it's a little
+11:54 work it's not as hard as it used to be
+11:57 um
+11:59 [Music]
+12:01 let's ask
+12:04 chat for my business marketing ideas
+12:07 yeah also the just the social um Market
+12:11 moves so quickly things get in and out
+12:14 of favor so quickly so yeah I know that
+12:16 Instagram just started something called
+12:18 threads threads is supposed to
+12:20 be um something that takes on Twitter or
+12:24 similar to Twitter um I think LinkedIn
+12:26 goes in and out of being a really
+12:28 helpful Market I know that Pinterest is
+12:31 a particularly strong Market that I'm
+12:33 not in at all like I don't I don't post
+12:36 on Pinterest at all and I
+12:38 should yeah don't don't use the word
+12:40 should um should is kind of a big word
+12:43 but you know we should do a lot of
+12:45 things every day in our business right
+12:48 could have should have should um pick
+12:51 out the one that that you would would
+12:53 enjoy doing the most or hate doing the
+12:56 least is that a way to look at it
+12:59 uh you know if if uh you're good with
+13:02 pictures from projects uh you're good at
+13:04 sharing cool content or just you know
+13:07 Facebook is a good good place it's where
+13:10 a lot of
+13:11 the I don't know you have to do a little
+13:14 research on age groups I haven't done
+13:15 that for a while so it's like yeah I
+13:19 found Facebook to be pretty good and
+13:20 there's really simple ways that you can
+13:22 Market to local areas in Facebook and
+13:25 YouTube and on Google
+13:29 so uh we've done some from Chad um I
+13:34 know he started like a Blog campaign and
+13:38 he's been having a lot of success with
+13:41 that and that continuously indexes his
+13:45 site on Google so that that is super
+13:47 important oh yeah that's the other thing
+13:49 you got to have a website okay um John
+13:52 congratulations to you by the way you
+13:53 put together a really nice website you
+13:55 got
+13:56 one it's called the screen um before
+14:00 John goes John nice seeing you man you
+14:04 got to go do an as build does that mean
+14:05 that John you're going to go take and
+14:06 measure and draw it on the site
+14:14 um John's site is imagin drafting. comom
+14:18 and it pops up all right it pops up
+14:21 beautiful picture imagine hes that
+14:25 Inspire I like that that's really nice
+14:27 there's John and panty nice all right
+14:30 this looking good it really is you know
+14:33 you got what you do you know how can we
+14:36 help um about you know it's a simple
+14:39 site but it's excellent It's got
+14:42 pictures everybody's happy catch the
+14:44 headline for that one go back up to the
+14:45 top for that one for coaching bading
+14:47 confidence yeah oh we got to get you a
+14:49 better picture that's kind of grainy all
+14:52 right yeah yeah I like the logo too
+14:55 that's cool man logo and branding so
+14:59 huge you know if if that should be on
+15:01 your goal list if you don't have that
+15:02 dialed in yeah
+15:05 yeah Chad says too much success what you
+15:09 haven't still going too well for it yet
+15:11 um but having a curent need a Blog tab
+15:15 John you need a Blog tab yeah yeah yeah
+15:19 yeah I'm I'm I've been thinking about
+15:23 that um one of one of the things that
+15:26 patty just went through a a marketing
+15:27 course from a guy that was putting a
+15:31 class together and wanted just want some
+15:33 people to sit in on it to give them
+15:35 feedback um but his big thing is is
+15:38 telling stories you know telling stories
+15:41 about how you've helped how you changed
+15:43 something you know that kind of thing
+15:46 absolutely stories are imperative in
+15:49 marketing these days in blog articles
+15:51 and things like that I always try to do
+15:53 blog articles that help people when I do
+15:55 them um you know make them educational
+15:57 as much as possible uh and now with AI
+16:00 and things like that you can write your
+16:02 article this what I recommend write your
+16:04 article first then have ai check it and
+16:06 maybe reformat it for you or something
+16:08 like that um but don't just ask it hey I
+16:11 can I just do something you know give it
+16:13 some you know give it the input and then
+16:15 take what it gives you and fix it up um
+16:19 I see John is a has a consultant that he
+16:22 likes to draw it on paper um other
+16:24 people I I like to draw my my as built
+16:26 on site we're going around in a lot of
+16:29 different ways here
+16:30 um but what I do is I sketch out a room
+16:33 and put dimensions on it and then I go
+16:34 draw it sketch out a room put Dimensions
+16:36 go draw it so you know I might end up
+16:38 with a whole bunch of sheets of paper so
+16:40 I do keep a record of some of the things
+16:42 that I'm doing through those drawings so
+16:45 just a little FY for you I got to draw
+16:46 in Chief anyway so I might as well do it
+16:48 on site U then I don't miss anything
+16:51 anyway
+16:53 um these two updates so so again we're
+16:56 going to move on here in just a minute
+16:57 but uh call your past clients contact
+17:00 them stay in touch with them uh website
+17:04 what happens with Google if you put up a
+17:06 website and you don't do anything to it
+17:09 Google says you know Google keeps look
+17:11 you know they keep sending their Bots
+17:12 out or whatever they do to to check your
+17:14 site and if they don't see anything new
+17:17 um they say h these guys aren't very
+17:18 relevant they must not be doing much so
+17:20 you keep dropping down in the search but
+17:23 if you keep adding keep educating keep
+17:26 putting content on your site um Google
+17:29 will keep you ranked higher and make
+17:32 sure you give Google the information you
+17:34 need to
+17:36 uh um let them know where you're at and
+17:39 what you do so just like John's doing
+17:41 here what you we know where he's at
+17:44 so in in this day and age for design
+17:47 work you don't necessarily need to be in
+17:49 any city or state because we have the
+17:51 internet we can go anywhere nice house
+17:53 John looks
+17:55 good so cool
+18:00 um awesome I record content obviously
+18:05 and um yeah you've gotten good at doing
+18:08 a couple videos every now and then um I
+18:11 have a um I get the transcription from
+18:15 that
+18:16 recording and then I have a custom GPT
+18:19 so that's a um a chat GPT that's been
+18:22 trained to do something a specific way I
+18:26 have a custom GPT that then summarizes
+18:28 is the major points not chapter IE but
+18:30 summarize it and then and then that's
+18:33 easy to throw that into a Blog with the
+18:34 video because then it will still index
+18:36 and you can even put the transcription
+18:38 hidden somewhere too and that
+18:40 index so but yeah no you're killing it
+18:43 with that stuff U yeah so so keep
+18:45 relevant keep busy make marketing a
+18:47 priority uh and have fun with it I guess
+18:51 you know if you're hating doing it then
+18:53 find someone that can help you uh I I've
+18:55 got a marketing person that I work with
+18:57 I've been with her for seven years now
+18:59 and just like changed my life um I know
+19:02 she's helped the contractor have a set
+19:04 construction go from you know not a big
+19:08 company to a big company so just through
+19:10 through proper marketing and branding
+19:12 all right let's go back to our wheel you
+19:14 got you guys got any other comments you
+19:16 want to add quick before I spin up the
+19:19 wheel no we got nothing nothing blank
+19:22 stairs oh shoot I forgot I forgot to
+19:26 take off that one let's hopefully it
+19:27 won't hit a marketing
+19:29 again
+19:32 um Vision crafting that's a new term to
+19:36 me yeah um well since chat wrote this
+19:41 all for
+19:43 me I cheated said either ideas for the
+19:48 designer show let's see what it put down
+19:50 um give me a second here let's hide that
+19:52 choice and go up to let's go back to
+19:57 this and come on D hit the right T we
+20:01 for to take you know take this back to
+20:04 phonetics and and you know Greek Origins
+20:08 I suppose it's just crafting a
+20:10 vision yeah Define your vision and your
+20:13 mission guide your audience in crafting
+20:16 a Clear Vision and mission statement
+20:18 that outlines the purpose and goals of
+20:20 the business and this is where it comes
+20:22 back to the beginning what I was saying
+20:23 you know set some goals um you know set
+20:27 take a look at
+20:29 who you like to do work for and write
+20:32 that down uh you know a lot of us you
+20:36 know
+20:38 huh it does sound like a Kevin term that
+20:40 was funny
+20:42 oh yeah um but yeah uh and then write
+20:46 some goals down on how you uh you know
+20:48 why you like working with those people
+20:50 it's called defining your avatar is a
+20:52 marketing term that you hear um you know
+20:55 who is your favorite client client type
+20:58 you know do you like working with older
+20:59 people younger people in between people
+21:02 you know rich people poor people in
+21:04 between people you know just kind of
+21:05 find where do you like to do your
+21:07 projects what kind of projects I don't
+21:09 like to draw big houses because they
+21:11 take too much time and I just don't have
+21:13 that attention span I've done it I've
+21:16 done some really big ones um but yeah
+21:19 last took you what three years it took
+21:22 me out that one of Texas took me two we
+21:24 we worked on that for two and a half
+21:26 years okay because it was a design as
+21:28 you go project I really like that
+21:31 approach I do too it's really a nice way
+21:33 to do
+21:34 it it's I just saw um a plan came hit my
+21:38 desk that had 300 hours and man I
+21:41 haven't I haven't touched over 40 hours
+21:43 in so long it'd be really nice to have
+21:45 300 hours on a project yeah if you you
+21:48 know again if you're getting paid for it
+21:50 yeah you know that's the other other
+21:52 problem sometimes you get these big
+21:53 projects and they don't they're not
+21:54 willing to pay you what you deserve to
+21:56 make on it yeah because big ones take a
+21:58 ton of time let me give you a pointed
+22:01 question that I feel like would come up
+22:03 in our Roundtable discussions at the
+22:05 summit which is what if I don't know my
+22:07 vision what if I don't know my audience
+22:09 what you how do I figure that out well
+22:13 um if you're brand new to the industry
+22:15 brand new to what you're
+22:17 doing um that's one set of questions
+22:20 versus if you've been doing this a while
+22:23 and you know you've developed a
+22:25 reputation on what you do and who you do
+22:26 it for it's just a matter of sitting
+22:28 down you know go coffee shop and take
+22:31 your pen and paper or your laptop and
+22:33 just uh start asking yourself questions
+22:36 and you know that'd be another good
+22:37 thing for chat you know U type in how
+22:40 can I you know give me some ideas on how
+22:43 I can help Define who I like working for
+22:46 ask chat some questions it'll give you
+22:47 some thought points and then start
+22:50 writing and then in Market how do you um
+22:55 how do you find out Jesus you know
+22:58 what's even paying in your own Market in
+23:00 your local jurisdiction and then I think
+23:02 I interrupted
+23:03 John I was just gonna say or either chat
+23:07 or find another person
+23:08 to keep asking you questions yeah we
+23:11 just through that we just went through
+23:13 that when we were designing our website
+23:14 than than a marketing plan afterwards I
+23:17 don't I don't know how to put into words
+23:19 of who I want to work with you know but
+23:23 keep asking questions and stuff and
+23:24 clarifying and that kind of thing help a
+23:27 lot abely you know take advantage of the
+23:29 technology we have now again chat and
+23:31 the grammarly is another good one um
+23:34 where you can you know something like
+23:36 this like oops where I have this long
+23:38 list of stuff here I could say hey make
+23:41 that a lot shorter and it'll reduce it
+23:44 by a lot um in fact I did it like this
+23:47 where I said it gave me these ideas here
+23:51 then I said no that's not quite what I
+23:53 was looking for um it's a different tab
+23:56 actually uh I said make the list shorter
+23:59 so it it made it just two words for each
+24:01 item anyway that's what I've used on the
+24:03 wheel so take advantage of this this
+24:05 technology it's really awesome and it
+24:08 will get you thinking so it really boils
+24:10 down to what are the questions you need
+24:12 to ask yourself or talk to someone um
+24:15 you know talk to call some of your past
+24:17 clients that you really have good
+24:18 relationships with and and say hey what
+24:21 do you like about my service what did I
+24:22 do well what did I do what could I have
+24:24 done better that'll get you thinking too
+24:26 about um the type clients you want to
+24:28 work with so but uh yeah so that's a
+24:32 good one the vision that's all part of
+24:34 it so what I asked Chad was can you help
+24:36 me yeah um well this is the tab I had
+24:40 two tabs here yeah here's where the big
+24:42 list is and then I had had it make it
+24:44 smaller um here I said
+24:48 um can you give me some tips to write a
+24:50 business plan and if you and I have
+24:53 written formal business PL in the past
+24:55 you start out with what's called an
+24:56 executive summary describe what you want
+24:58 to do this could be done on one page
+25:01 doesn't have to be a whole book make it
+25:04 simple uh description of your company
+25:07 market analysis who you like to work for
+25:10 organization service and products that
+25:12 you offer this is a big one we talked a
+25:14 lot about this at the summit last year
+25:16 about the products on your shelf okay
+25:19 think of what you do as a store all
+25:22 right you don't just draw plans for
+25:23 people you're doing a lot of different
+25:25 things um and and we could actually do a
+25:28 whole show on that I think on the
+25:30 different things that you do from in a
+25:32 simplest sense you're you're measuring a
+25:34 building that's a service you're um uh
+25:38 doing conceptual ideas at the service
+25:41 you're doing more detailed ideas at the
+25:43 service you're doing construction
+25:45 details as a service you're doing 3D
+25:47 modeling you're doing rendering you
+25:50 might do terrain you know there's all
+25:52 these different things that come up in
+25:54 the process of creating a plan that you
+25:56 can sell a separate product
+25:58 on your you know on your shelf of things
+26:00 to sell so uh just keep that in mind and
+26:04 again if you don't like doing a certain
+26:06 thing don't promote it just promote the
+26:09 things you really like to do like I love
+26:11 doing complicated roofs so I my I should
+26:15 yeah just look me up if you got a top
+26:16 roof those are fun um anyway
+26:21 um enough of that what we doing a time
+26:25 good spin the wheel spin the wheel
+26:28 Dan you need to start saying your t's
+26:29 and D's better you're freaking Chad out
+26:32 my what your freaking Chad out he thinks
+26:35 you're talking about him all the
+26:38 time okay we're gonna call
+26:40 it when you see him now yeah Chad I'll
+26:45 go chat with Chad um portfolio
+26:49 creation uh this is something that I I
+26:53 keep thinking to myself should be
+26:54 ongoing I should be posting my plans on
+26:57 my website I don't do that at all I
+26:59 don't even think about I should do that
+27:02 I do a lot of cool projects uh and
+27:07 you're right Renee it should be ongoing
+27:09 every time you do a project post a
+27:11 picture of it I really like what uh
+27:13 Peter Brown showed us he was doing for a
+27:15 while oh my God videoing what he what he
+27:18 did and the project and why he did what
+27:20 he did I thought that was outstanding oh
+27:24 my God he was amazing that brings up a
+27:26 good um point for me um my contracts to
+27:31 I'm not always working direct to a um to
+27:33 a homeowner sometimes I'm working to
+27:36 another contractor and my contract
+27:39 stipulates that I get to share the the
+27:41 work product and and even you know say
+27:44 that I was a part of that so yeah that's
+27:46 built into my contract you if you've got
+27:48 a a job with a homeowner make sure you
+27:51 put that into your contract hey we have
+27:53 an expectation that we're going to come
+27:55 do a photo shoot when we're done you
+27:57 know and and stipulate what the
+27:59 parameters for that you know get your
+28:01 work product documented so that you can
+28:04 use it in your portfolio and your
+28:05 ongoing portfolio yeah I used to have a
+28:10 one I carried to the job site back when
+28:12 I was a
+28:13 contractor I had tons of my project
+28:15 pictures in there I had testimonials I
+28:18 had my certificate insurance that I
+28:19 would share I had list of testimonials
+28:21 that I would give the potential clients
+28:24 it really kicked butt for me it was
+28:26 really nice
+28:28 um I think I even talked about it you
+28:30 know in one of our designer shows and uh
+28:34 it was cool now we can do that all
+28:36 online you don't have to carry book I
+28:38 know one
+28:39 company um oh yeah this one joi's
+28:41 working with aiset they taken a lot of
+28:44 their projects and they put them in a
+28:46 hard cover book they've created a hard
+28:49 cover book they bring the job they don't
+28:50 give it to the client but they bring
+28:51 that with and of course they have a link
+28:53 to their website that has lots of their
+28:55 projects on um but yeah if you wanted to
+28:58 you know if you're doing a lot of
+28:59 high-end stuff um and you want a good
+29:02 marketing piece you know go create one
+29:04 of those books with all your pictures I
+29:07 I forget some of the names I could ask
+29:08 chat you know how do I go create a book
+29:11 um and that' be a hell of a thing to
+29:14 leave with a client U probably wouldn't
+29:17 be cheap but if you again if you're
+29:18 doing a lot of highend stuff that might
+29:20 be a real way to go uh so
+29:24 anyway I want to um mention something I
+29:26 see these on the design boards a lot but
+29:28 the question is about people that were
+29:30 employees and they're off on their own
+29:31 now trying to start their own design
+29:33 practice and what do you do when you've
+29:35 got no media and so there's a lot of
+29:37 questions about ethics and using AI to
+29:40 generate something that you didn't
+29:42 actually design um and there's you know
+29:45 some hinge points there but uh the the
+29:48 thing that I love to mention to people
+29:50 is you know cross tagging cross
+29:53 promoting that's a that's a big Market
+29:56 move like I have no problem saying hey I
+30:00 you
+30:01 know I hired Dan at Chief experts and he
+30:04 does a job for me and yeah I'm gonna say
+30:08 hey this is a work product of rabbit
+30:09 design and chief experts when I post it
+30:12 why because it gets traffic to both of
+30:13 us brings it back so if you have a
+30:16 previous employer and now you're off on
+30:17 your own and you don't have um access to
+30:21 to the stuff that you worked on when you
+30:23 were employed contact that employer say
+30:26 hey I'm off on my own me tag your
+30:28 company let me say I worked on this
+30:29 project and I'll post it on my own
+30:31 social channels yeah those are called
+30:33 backlinks um so the more backlinks you
+30:36 can get from other people to your
+30:37 website especially people of authority
+30:41 like if if I could get Chief Architect
+30:43 to say hey Dan and chief experts is
+30:45 pretty cool that'd be a hell of a
+30:48 backlink that ain't gonna happen though
+30:50 but that would be a heck of a backlink
+30:52 um uh so anytime you can do that yeah
+30:55 you should uh that's a a really good
+30:57 comment but anyway so yeah uh there's a
+31:01 lot of ways to create
+31:03 portfolios pictures descriptions you
+31:06 know whatever you can do to help
+31:08 build uh what is it called again no like
+31:11 and Trust I think it's called um where
+31:14 they get to know you they get to like
+31:16 you and now they trust you so um
+31:19 testimonials are a way to help build on
+31:21 that trust okay pictures are a way to
+31:23 build on that get to know you and what
+31:25 you do um you know having a Blog that
+31:29 you share lots of good information again
+31:31 shows that you're active and that you
+31:33 care and that you're U you know people
+31:35 will trust you so let me um can you
+31:38 scroll back up to that include client
+31:41 testimonials um I I feel like you are I
+31:45 don't know if if you've always been this
+31:48 way or um or not but I am someone that
+31:51 would have trouble um even initiating
+31:54 getting a client testimonial I'm not
+31:57 I have something in in my mind that
+31:59 makes that feel uncomfortable for me and
+32:02 and what would you do about that like
+32:04 what would you say to someone that feels
+32:06 uncomfortable reaching out to a client
+32:08 and feels like they're bugging them
+32:09 feels like they're interrupting them
+32:11 feels like you know a really good thing
+32:13 you could do um would be to do Google
+32:17 Google um Google my business um that's
+32:21 where if you set up a map let's just
+32:23 let's just look at this real quick let's
+32:25 see what comes up here
+32:29 um design here we are we're going to
+32:33 just search out your you Renee okay
+32:36 rabbit
+32:37 design
+32:40 um okay so if I click on
+32:44 this come
+32:46 on supposed to bring
+32:48 up should have brought up more
+32:50 information but you've got five five
+32:53 star
+32:54 reviews this is what this is what Google
+32:56 my business is all about is to get those
+33:00 reviews
+33:04 um you got more than five what's going
+33:06 on oh no reviews oh no these are just
+33:09 different websites other companies yeah
+33:11 yeah okay oh interesting oh here it is
+33:14 this is what I was looking for um so oh
+33:18 I clicked on the word architectural
+33:19 designer so here's are your reviews okay
+33:22 so
+33:24 so if you can't do it like John you
+33:27 should have Patty contact some of your
+33:29 past past clients say hey would you go
+33:31 go write a review I was just going to
+33:33 say that that's exactly what we did oh
+33:35 did you okay I had Patty do that and I
+33:38 was absolutely shocked how many people
+33:41 not only gave back a review but it was a
+33:43 couple of paragraphs a lot of times or
+33:46 nice it wasn't a Google review they sent
+33:49 it back to us to put on our
+33:51 website
+33:53 but and and even people that I felt like
+33:56 I didn't do the best job for gave a
+33:59 great review cool
+34:03 so um my daughter um and the key for me
+34:07 Renee because I feel the same way you do
+34:10 about that the key for me was having
+34:12 somebody else do it namely my wife Patty
+34:15 yeah okay all right yeah um but yeah
+34:18 there people you could hire to do that
+34:20 for you let just send a nice note to the
+34:22 client say hey I'd really like it
+34:23 appreciate if you do this just do
+34:25 sentence or two this weighs heavy for
+34:28 your search engine stuff too so and we
+34:30 also we also had another reason that we
+34:32 were doing it it wasn't just to get the
+34:34 review we were changing things up so we
+34:36 were asking them for reviews to help us
+34:39 with that next
+34:40 step so so that's part of your
+34:44 portfolio all right so that testimonials
+34:47 and that's a great way to get
+34:48 testimonials then you can take those
+34:50 testimonials and put them on your
+34:51 website yeah put a quote on your website
+34:54 yeah anyway um good point so uh whatever
+34:59 you do build like and trust no like and
+35:01 Trust Michael Stone talks about that in
+35:03 his book markup and profit so if you
+35:06 have not ever gotten this book if you
+35:08 don't do anything else this year and
+35:10 you're a contractor or if you're a
+35:11 designer wanting to understand more
+35:13 about contractors oh interesting must
+35:15 have green oh it's got green on the
+35:17 thing it's doing my green screen on the
+35:20 um uh get Michael's book if you go to my
+35:23 website if you go to the chief experts
+35:25 Academy and you go to
+35:27 uh go to the uh info and Dan recommends
+35:32 uh Michael stone is a good friend of
+35:33 mine I've been recommending his stuff
+35:35 forever uh get this book markup and
+35:38 profit a contractor's guide I think it's
+35:39 40 bucks it's the best read you'll have
+35:41 it should be on every contractor's desk
+35:43 you should be you know if you're not
+35:45 following a lot of his stuff you should
+35:47 do it then he's got some good stuff on
+35:48 sales too so when it says
+35:52 Revisited I think he rewrote this here I
+35:55 don't know six years ago five years ago
+35:57 something like that um but I highly
+36:00 recommend it great book oh nine years
+36:02 ago
+36:03 already uh he's been in the industry
+36:06 since the 80s that's where I learned how
+36:07 to run my contracting business and
+36:09 actually make money doing remodeling
+36:12 actually made a living doing it so um it
+36:15 works anyhow um back to our
+36:19 wheel we can do this all day this is fun
+36:22 um we only got 20 more minutes I know
+36:27 just talk faster Tech integration well
+36:31 what have we just been doing
+36:33 here with my chat AI okay um I love chat
+36:39 I mean it's just a cool thing you know
+36:41 it's just like you hear all these
+36:42 different things about oh it's going to
+36:44 take over the world all this stuff well
+36:45 yeah probably but in the meantime we get
+36:47 to use it as a tool to improve what
+36:49 we're already doing um in fact I can do
+36:52 a lot less normally would have taken me
+36:54 you know an hour or two to come up with
+36:56 a list of things I wanted to put this
+36:58 took me two minutes and I said nah
+37:01 that's first it gave me this list said n
+37:03 that wasn't what I wanted so I said redo
+37:05 it then it did better and then I said
+37:08 add a couple more things done that's it
+37:11 gives me the talking points I need to
+37:14 communicate with you guys with exactly
+37:16 what I want to talk about uh really I
+37:20 wonder how it would change if you put in
+37:22 um how to Market to a a I don't right
+37:27 word slowing Market or it's called a
+37:30 prompt John I know I know I'm saying
+37:33 that for the everybody's else benefit um
+37:37 whatever you could do to prompt chat
+37:39 with the right information to help you
+37:41 get the right information back it is
+37:43 really important I know Renee you're big
+37:44 into prompts you've written a ton of
+37:46 them haven't you oh yeah yeah so uh so
+37:51 take advantage of it it's there I mean
+37:53 I'm I'm on I don't know if the chat GTP
+37:55 is 4 is free free um I pay the 20 bucks
+37:58 a month so I can do pictures and things
+38:00 like that um but I think jet 3 3.5 is
+38:03 free and same basically version is so
+38:06 worth it when you write your own
+38:09 GPT yeah I don't know if the 3.5 will do
+38:13 pictures though will it where you can
+38:16 upload pictures and stuff do not know
+38:18 off let me look yeah see we lose the
+38:20 paperclip when I go to that see here I
+38:23 get the paperclip where I can upload a
+38:24 picture I could upload a sketch of a
+38:27 kitchen room a room and I say hey put a
+38:29 kitchen in with and it might shoot me
+38:32 some ideas um it works it
+38:36 works so one of the com that's one
+38:39 that's one piece of tech that everybody
+38:40 should be taking advantage
+38:42 of one of the comments that Norm made
+38:44 earlier on was that uh he wants to wants
+38:47 to do less with the same result and then
+38:49 he posted this he says using chat G
+38:52 using GPT sounds like doing less than
+38:54 achieving the same you're going to
+38:57 you're going to spend less time getting
+38:59 better results in my opinion um I think
+39:02 it's just smart business not like we're
+39:05 lazy or anything it's just the technolog
+39:06 is here let's use it I got other things
+39:09 I want to do like maybe go for a bike
+39:11 ride or something but um anything I can
+39:14 do to share more good content with my
+39:17 clients my
+39:18 people I'm gonna do it man it
+39:22 works um anybody out there using Builder
+39:24 Trend or co- construct or what's the job
+39:27 tread job tread is a new one out there
+39:29 that's competing with Builder Trend
+39:30 pretty well and it's a lot less money um
+39:33 that's some good technology that you
+39:35 know if you're Contracting you should be
+39:37 doing that I think Builder or job tread
+39:40 might be even a good one to use if
+39:41 you're just doing
+39:42 design I just say just doing
+39:45 design I was gonna say I know yeah just
+39:48 doing design the most important part of
+39:50 the job you guys the
+39:53 design so uh I'm curious somebody's
+39:56 using any of that kind of technology and
+39:59 of course there's all of our other
+40:00 technology that we use all day long
+40:02 anyway Chief Architects or technology
+40:05 you ever Envision Chief doing some AI
+40:08 Renee um I think most of what Chief
+40:10 could do is is always going to be
+40:13 programmatically I just don't think it's
+40:15 necessary unless they could somehow do
+40:19 some AI based material
+40:22 selections yeah yeah that could be
+40:25 helpful I got to believe they're working
+40:27 on something I mean those those guys are
+40:29 not that dumb over there pretty smart so
+40:32 I'm sure they're digging into it to do
+40:34 whatever they can there's you know I
+40:37 can't wait to
+40:38 see um so they're showing x16 at
+40:42 kbiz and yeah I can't wait to see if um
+40:47 if they release the space planning tools
+40:50 updated space planning tools oh yeah
+40:52 there was some talk about that wasn't
+40:54 there yeah they hired a new developer to
+40:56 work on him and yeah I know he a couple
+40:59 things that he implemented are very cool
+41:03 so what Renee is talking about I'll show
+41:06 you real quick um is if you click on
+41:09 this and you go to toolbar
+41:11 configurations you go to space planning
+41:14 where you can take uh you can take these
+41:17 different
+41:18 rooms and bring them onto your screen
+41:21 and and
+41:23 create um different rooms and things
+41:27 like that and then you click a button to
+41:30 create the room and it turns it into a
+41:32 plan uh bam just like that so and then
+41:36 you can I think you can turn it back and
+41:38 into boxes yeah so here here's my thing
+41:42 is yeah you could work all day all night
+41:44 to get AI to build you a five and five
+41:47 Etc but you're going to sit there and
+41:49 prompt it to death as opposed to those
+41:52 space planning tools are so fast if they
+41:54 just had a little bit of improvement so
+41:56 yeah yeah yeah um so talking about
+42:00 saving saving blocks to the library so
+42:03 that you can put pre-arranged like
+42:05 bedroom bath you know suite and also
+42:10 breaking um the boxes so that you can
+42:12 shape them right yeah that's the one
+42:14 reason I don't use it use a space
+42:17 planning tool is because the box is a
+42:19 box you can't you can't do anything with
+42:22 it um it does it does do that a little
+42:24 bit though when you create
+42:26 you can overlap might figure it out yeah
+42:30 your closet it's going to cut out of a b
+42:31 bedroom instead of making the bedroom
+42:34 cut out of the closet that kind of yeah
+42:35 I can't even I can't can't even do it at
+42:37 an angle it's you know one way or the
+42:39 other I'm trying to angle that box I
+42:42 don't know why that's really weird but
+42:43 for someone that's doing like stock
+42:45 plans new construction being able to
+42:47 save a bunch of these blocks together as
+42:49 a base you know house to configure man
+42:53 that's forget AI this is all
+42:55 programmatic this is yeah it's part of
+42:58 the deal so anyway so technology so and
+43:02 add that to your business plan what's
+43:03 your Tech stack look like what are the
+43:05 different programs you like to use
+43:07 there's so many good things out there
+43:09 now I I would say if people haven't
+43:11 gotten a onto learning AI that should be
+43:14 in your business plan for the next year
+43:16 because it's it's just going to continue
+43:17 to
+43:19 improve yeah at some point I got to
+43:21 imagine we'll probably do a class on
+43:23 that just because you we dig into it
+43:27 quite a bit and I posted one someone
+43:30 wanted um kind of the old school style
+43:33 like um Illustrated
+43:36 elevation and they were asking if we
+43:38 could do that in in Chief Architect and
+43:41 I mean I just took a Chief Architect
+43:43 Vector line drawing and and brought it
+43:45 into one of my programs and one of my AI
+43:48 things and produced something from there
+43:50 and I mean it's just um here I'll see if
+43:52 I can share my screen real quick yeah go
+43:54 ahead and show what you got is that a
+43:56 doe that you did some one of the Adobe
+43:57 products um a stable diffusion oh that's
+44:00 right you talk about that so yeah I took
+44:02 this Vector drawing on the bottom and
+44:05 pumped it into stable diffusion and got
+44:07 that in like two minutes
+44:10 time took you that long huh Che yeah you
+44:13 know it's got a couple little fixes to
+44:15 do but you know that's fantastic so you
+44:19 stable diffusion put all the backing in
+44:21 the background and the trees and
+44:22 everything the terrain you had some
+44:24 Terrain in there already like what are
+44:27 they thanking me for what am I getting
+44:28 thank for you're
+44:30 welcome do
+44:31 [Laughter]
+44:34 that I don't know who said that ESS Home
+44:38 Gallery I haven't seen that logo before
+44:41 I don't know I haven't either who's that
+44:42 well welcome to the show if you yeah
+44:45 absolutely um and thank you I'm hoping
+44:48 that means that you got the name of a
+44:49 program you can get out there and try
+44:51 and do what you want to do so um what
+44:53 was the name of that again uh this one
+44:56 was stable diffusion with control net so
+44:59 you got to Google how to set that up
+45:01 okay kind of complicated to set up
+45:02 honestly um client
+45:05 relationships
+45:07 um you know damn clients one for clients
+45:11 business would be really easy
+45:13 right except they do kind of pay the
+45:15 bills don't they
+45:18 um talk about that for a minute you know
+45:21 kind of boring without clients you'd
+45:22 have no fun at all I know' be no
+45:25 controversy with whatever no I I love my
+45:27 clients I mean
+45:30 that's I know I'm just being I'm just
+45:34 trying to be funny I'm not a very good
+45:36 job the uh um client relationships what
+45:40 are some of the ways you can build good
+45:41 client relationships um I'll go back to
+45:43 when I was Contracting for a little bit
+45:44 what's the number one thing you can do
+45:45 in a job that builds good client
+45:49 relationships keep it clean them boom
+45:52 John's got it clean job site oh clean
+45:55 job okay gotcha yeah for remodeling
+45:57 contractors finish clean up the job set
+45:59 every day keep everything organized and
+46:01 safe and clients will love you forever
+46:03 and they'll you know that is one of the
+46:05 big biggest marketing tools you could do
+46:07 but you know other things keeping in
+46:08 touch with people um again we talked
+46:11 about that
+46:12 earlier uh one of the things I used to
+46:14 do and I'm thinking of doing this for uh
+46:17 design is U I would always give clients
+46:20 a sheet that listed all things that was
+46:21 going to go wrong with their project so
+46:23 I had headed these things off ahead of
+46:25 time was great for building relationship
+46:27 with clients so anything you can do to
+46:29 get to know like and trust your clients
+46:31 again is what it gets down to that again
+46:33 and you know if they call you
+46:37 respond
+46:39 oops was going
+46:41 on to talk when you say
+46:44 respond no that means someone's here uh
+46:49 and uh stay in touch with your clients
+46:52 just let them know that you're there if
+46:54 there's a delay let them know
+46:56 you know
+46:57 just just be good be a good
+47:01 human you know and I know I'll be the
+47:04 first to admit I don't always do that I
+47:05 do the best I can but sometimes the day
+47:07 is gone before I get everything done you
+47:10 ever had an email that you would know
+47:12 you're G to get to and then three days
+47:14 later you go oh yeah there it is way
+47:15 down on my list that I never got to I I
+47:18 missed so many there there's my goal for
+47:21 2024 I probably missed about 25 leads
+47:24 this year yeah
+47:27 justed well I'll call you know I'll get
+47:29 back to them after I finish this thing
+47:31 then you get another 30 emails in the
+47:33 meantime and you know even when I set
+47:35 reminders to because I know I want to
+47:37 get back there I just like even that
+47:39 doesn't always work um that was in in
+47:41 Michael Stone's book mark up and profit
+47:43 one of his Cardinal rules is you you
+47:46 will call back and and respond to
+47:48 everybody that calls you within a
+47:50 certain amount of time you pick the time
+47:53 um that's cardinal rule he has 10
+47:55 Cardinal rules that you always have to
+47:57 follow probably wouldn't say it's okay
+47:58 to call him back within a year though
+48:00 probably not yeah I think it was 24
+48:03 hours yeah so but anyway so yeah I think
+48:07 we're all guilty of it um we all try to
+48:09 do our best just keep that in mind so
+48:13 one of the things I like to do to build
+48:14 client relationship I just people email
+48:16 me stuff and I just pick up phone call
+48:19 talk to them say hey how you doing and
+48:21 we have a little chat I love doing that
+48:23 it's just so much easier than writing an
+48:24 email sometimes and you know it's more
+48:26 personal so it's a good way to build
+48:28 client relationships so all right let's
+48:31 keep moving here that was a fun one
+48:34 there's another chat GPT tip for you I
+48:36 talk to mine and boy does that help me
+48:39 structure what I want to say um when it
+48:42 so different I write so differently than
+48:44 than what I you know when I have to talk
+48:47 out the words that I'm expecting to say
+48:49 yeah budgeting Basics budgeting Basics
+48:53 by the way guys again if you want to get
+48:55 get to this list of things and get a
+48:57 just a touch of information just uh
+49:00 click that little link below the thing
+49:02 you're watching go to our Summit design
+49:05 Summit page did that on purpose it's
+49:08 called marketing um and uh what was that
+49:11 one we just had
+49:14 um what was budgeting Basics budgeting
+49:17 Basics yeah there it is number four
+49:18 discuss creating a realistic budget
+49:20 startup cost running expenses and
+49:22 forecasting Revenue uh Stone's got a lot
+49:24 of great stuff in here about budgeting
+49:26 for a Contracting Company um you know if
+49:30 you're doing a certain amount of
+49:31 business what should your markup be if
+49:34 you're projecting you know you
+49:36 projecting you can do a million dollars
+49:38 with the remodeling all right part of
+49:40 your budget needs to include well how
+49:42 much is it you know how many leads would
+49:44 I need to get to produce those kind of
+49:46 jobs because my average job is 50,000
+49:50 you know you're replacing a toilet these
+49:52 days that's about what cover um
+49:56 J anyway uh I have a plug can I give a
+49:59 plug yeah please so um on my site and if
+50:04 you scroll over to the professionals
+50:07 section here makes this funny little
+50:09 graphic um I added in automatic Chief
+50:13 Architect cabinet pricing system and
+50:16 this prices the project as I go now the
+50:19 people that have bought my plan template
+50:21 they don't know this but this is built
+50:22 into the plan template and I have never
+50:24 showed anybody how use it so they don't
+50:26 know it exists there but it does okay
+50:28 and so when I'm designing um this is a
+50:31 cool trick as I'm designing I'm getting
+50:33 an idea of cost of the kitchen that I'm
+50:35 designing for nice how do you put the
+50:38 pricing in h it's really complicated set
+50:40 of
+50:41 macros oh so and it'll sit there and it
+50:45 will um it will you know it even tells
+50:49 you how it's figuring it out cool
+50:52 figures out how to cut a sheet of
+50:53 plywood it figures out square foot price
+50:55 for door we got do some more shows
+50:56 together um cool I like it uh anyway uh
+51:02 back to budgeting as far as your
+51:04 business goes that's for budgeting a
+51:06 project and that's a whole part of how
+51:08 you price jobs of course you got to
+51:09 price jobs so you make a profit so you
+51:11 can pay for your overhead that's like
+51:13 duh basic number one
+51:16 um that's one of the hardest things to
+51:19 do isn't it doing budgeting your time is
+51:22 is would be a good thing yeah that's
+51:25 part of it um but yeah budgeting or
+51:29 pricing your projects comp competitively
+51:32 competitively for your business not
+51:35 against the competition for your
+51:37 business so if your overhead is you know
+51:39 300,000 on your million dollars in sales
+51:43 because you want to make a salary too um
+51:46 you have to budget that into the cost of
+51:48 a job and that's where it gets tough and
+51:52 and you know you come up with the price
+51:53 and you go you you just have to learn to
+51:55 sell the price based on your business
+51:57 not your
+51:58 competition again don't talk about a lot
+52:01 when you talk about budgeting I me
+52:03 immediately think of you know clients
+52:04 wanting to know price of things from the
+52:06 contractor so that you're designing
+52:07 within that that's a little bit
+52:09 different kind of budgeting that I'm
+52:10 talking about from business planning uh
+52:12 business planning you want to know what
+52:14 you're you know if you're renting an
+52:15 office if you have a showroom you know
+52:17 what are your costs what's your phone
+52:19 what's your car what's your insurance
+52:21 all the different things that go into
+52:24 running your business
+52:26 like my business is simple I run out of
+52:27 my home I don't have much
+52:29 overhead I'd be curious how many people
+52:31 are tuning in um work from an office
+52:34 versus working from home yeah it would
+52:36 be interesting to know I guess it
+52:37 depends on your business um you know my
+52:40 second office is my coffee shop down the
+52:41 road um so doesn't you know I I guess I
+52:46 probably can't really deduct that the
+52:48 cost of going there a coffee but um but
+52:52 yeah it's so yeah my overhead slow I
+52:55 still have overhead I mean yeah I still
+52:57 have expenses as a family and and I you
+53:00 know I do marketing and I do sales and I
+53:02 do you know I have a marketing person I
+53:04 work with so yeah I have I have yeah I
+53:07 know what what I have to do but it's
+53:09 it's a difficult uh running a Remodeling
+53:13 Company is tough or Building Company
+53:15 because you do have a lot of overhead
+53:17 and it's really hard to keep track of
+53:20 that and on site look at Norman James I
+53:23 remember those days I used to do that
+53:26 he's a design build huh yeah
+53:30 yeah boy it's so it's so important to
+53:33 get in touch with contractors
+53:36 um sorry I'm getting off topic but just
+53:39 stay in Con in constant contact with
+53:42 your your contractors that you work with
+53:44 or for or if you're design build
+53:46 obviously it's different story yeah yeah
+53:49 I worked out of my van for eight months
+53:50 this year yeah you did didn't you see
+53:54 you're over
+53:55 [Laughter]
+53:58 it's not a vanon that's your house
+53:59 that's your second house man that's
+54:01 right have you perfected the the Chris
+54:06 Farley Chris
+54:08 Farley down by
+54:10 swamp by
+54:12 the Saturday Night Live skit with Chris
+54:15 Farley I don't I don't I don't recall
+54:19 it
+54:20 for
+54:22 yeah down by the river in my van anyway
+54:26 um price yeah budgeting so budgeting is
+54:28 probably one of the toughest parts of
+54:30 business planning um for remodelers
+54:33 designers not so hard because we don't
+54:35 have the overhead unless you have
+54:36 employees and things like that of course
+54:37 that's a whole different animal um but
+54:41 yeah I mean it's it gets back to that uh
+54:44 saying you can measure what you manage
+54:48 and if you measure if you know what your
+54:50 overhead is going to be at least you
+54:51 have a list of the different things and
+54:53 and you know you can do this much re
+54:55 revenue and um one of the examples I
+54:58 keep bringing up Michael's book because
+55:00 it's a really good book um he has talks
+55:03 about a contractor wanting to go out and
+55:06 buy a new pickup truck versus maybe
+55:08 buying something used for a lot less
+55:09 money um and it's like he's not against
+55:12 that he's just saying well let's look at
+55:14 the numbers of what it would how much
+55:16 more um how much more sales you'll have
+55:19 to do to support that pickup truck um or
+55:22 how much you'll have to raise your
+55:23 prices to support pickup truck because
+55:27 it's overhead it's hard of running your
+55:29 business so it's just understanding your
+55:31 budget and what you're going to do there
+55:32 all right we got time for one more I
+55:34 think so let's spin it up and see what
+55:35 we come up with um I hope you guys are
+55:39 enjoying this this is kind of fun market
+55:42 research market
+55:45 research yeah let's talk about that for
+55:47 a second I haven't done this well I
+55:49 guess I that's almost tied into one of
+55:51 our earlier topics marketing yeah it is
+55:56 um finding out what your audience even
+55:59 is looking at or clicking at or what
+56:01 they're searching and yeah
+56:09 um um market research you know one of
+56:12 the things I used to do and again this
+56:14 is years ago when I was a contractor I
+56:17 used to go down to the building
+56:18 department and look
+56:22 through you know Minneapolis when I
+56:24 worked a lot in Minneapolis here they
+56:26 had um um they
+56:30 had excuse me for a second um you could
+56:35 go look at all the permits that people
+56:36 bought were taking out so you kind of
+56:38 see where all the work was happening and
+56:40 what kind of projects were being built I
+56:41 don't know if you can do that today um
+56:44 because most of the building departments
+56:45 everything digital I'm not sure you'd
+56:46 have to ask your building department
+56:48 great way to do it um let's
+56:51 see can oops can't spell here
+56:55 how can I do some marketing
+57:00 research for my
+57:04 business this is where chat so nice you
+57:07 got someone to talk to
+57:09 um
+57:11 so surveys Persona yeah I I've done
+57:15 surveys in the past I mean I've been
+57:16 doing the same thing for so long I do
+57:18 understand you guys pretty well um but
+57:20 the trends change you know market trends
+57:24 industry reports uh I used to get a lot
+57:27 of information
+57:29 from
+57:31 uh mind blank what what do they call
+57:33 that when you count everybody the
+57:37 the census yeah you can log on to the
+57:40 Government Census and you can look up
+57:43 cities and income and and um housing
+57:49 values and you know economy what's going
+57:52 on in the area so you have to spend a
+57:55 little time on the site digging it up
+57:57 but I I did that about 10 years ago just
+57:59 looking for information it was really
+58:01 fascinating the information you can get
+58:03 out of that kind of thing um I thought I
+58:06 saw something that said yeah website
+58:08 analytics I do that I go to um I use
+58:11 Squarespace I know you use
+58:13 kajabi John I'm not sure what you use
+58:16 but uh Squarespace will show me what are
+58:19 people searching that find well
+58:22 everybody that has a website will have
+58:23 Google analytics if you got to tie it to
+58:26 your
+58:26 site you got to go set that up though
+58:29 you do you have to put a little piece of
+58:30 code on your website to make that work
+58:33 uh but uh yeah go don't know that you
+58:36 can almost do a segment on that yeah
+58:38 yeah actually probably could and we have
+58:40 I've done that with Jolene in the past
+58:42 we did go over that um last last year I
+58:45 think it was last year did is that in
+58:47 one of your um yeah I think it's I think
+58:50 it is yeah it's the one that um I know
+58:53 we're just redoing some things on the
+58:56 site here see put on the site but if
+58:58 that didn't sell well it should because
+59:00 if that's something that pays for let's
+59:03 see it was this one or no it was that
+59:06 one your lead generation yeah it was
+59:09 this one that we talked about the Google
+59:11 marketing and stuff it was really it was
+59:13 a fun class we had a lot of fun with
+59:14 this um but if you're interested in in
+59:18 learning about that kind of stuff you
+59:20 should check this out so um anyway I
+59:23 think we're going to bundle these two
+59:24 together if you wait a little bit um
+59:26 it'll get bundled together
+59:28 but but Google analytics big deal you
+59:31 wait you'll forget so yeah that's true
+59:35 send Dan an email if you want them
+59:37 bundled it'll get him yeah send me an
+59:39 email and I'll give you I'll give you a
+59:41 two for one dealer we have two of these
+59:42 courses here and I'll just get you into
+59:44 both of them buy either one of them and
+59:45 I'll make sure you get either into both
+59:48 of them so we had the
+59:50 uh um we had this one that we did last
+59:53 year and I think the year before we done
+59:55 we did the digital marketing Clarity
+59:56 which was really another good session
+59:58 about doing marketing online so both of
+1:00:01 them but yeah get either one of those
+1:00:02 I'll give you both of them I think I
+1:00:04 don't know if they're the same yeah get
+1:00:05 buy the one for 297 I'll throw in the
+1:00:07 one for
+1:00:08 497 um give you a heck of a deal all
+1:00:12 right
+1:00:13 um so we're we're posting to the users
+1:00:16 of Chief Architect group for the second
+1:00:18 time ever and uh so let's just can we
+1:00:22 end on anything Chief related
+1:00:25 yeah what do you want I have no idea I
+1:00:29 have a I have a question I was going to
+1:00:30 ask you guys when we're off I'm doing a
+1:00:32 complicated terrain and I'm getting I've
+1:00:36 got I've gotten to the point where if I
+1:00:37 put in one more retain retaining
+1:00:40 wall it won't do the math I know that is
+1:00:44 such a tough one and I around it but I
+1:00:48 just I know the project you're talking
+1:00:50 about it's super super
+1:00:53 complicated soon as I soon as I put the
+1:00:56 retaining wall in it it crashes as soon
+1:00:58 as I take it out it's back to where it's
+1:00:59 supposed to be oh like it crashes the
+1:01:01 program yeah no it doesn't crash the
+1:01:03 program it CR crashes the terrain it
+1:01:05 won't calculate for the retaining walls
+1:01:08 you ever uh just try changing the
+1:01:10 triangle count on the terrain or
+1:01:13 changing the smoothing on it h that's a
+1:01:15 good idea I'll try that yeah that might
+1:01:17 be a good one um that is a complicated
+1:01:20 one you'd have to maybe we do a plan
+1:01:22 review on that next time
+1:01:25 yeah that's one John and I both were
+1:01:27 working on I I did the train and he's
+1:01:29 trying to I gave it to him to put the
+1:01:31 roads and train retaining walls in and
+1:01:33 it's a toughy it is a tough looks
+1:01:36 pretty a big hill going all sorts of
+1:01:39 different crazy directions uh big hill
+1:01:42 top of a mountain
+1:01:44 so all right um yeah by the way you guys
+1:01:48 you know go ahead and join our groups um
+1:01:52 um if you go to Facebook you can join
+1:01:55 Rene's site or you can go to if you go
+1:01:57 to um Chief experts acad Academy on the
+1:02:01 homepage uh we got down here a link
+1:02:03 where you can join our private Facebook
+1:02:05 group so you can join that and U if you
+1:02:08 have questions a lot of there's a lot of
+1:02:09 uh interaction going on there and I know
+1:02:11 you're chief User Group uh just Search
+1:02:14 for Chief Architect user groups on
+1:02:16 Facebook and you'll find Rene's site and
+1:02:19 uh you just took that over from the guy
+1:02:21 that started that
+1:02:22 sots yeah it's a nice nice site a lot of
+1:02:25 stuff going on there and you're very
+1:02:27 active you're a lot more active than I
+1:02:28 am on the site but yeah I'm I'm on there
+1:02:31 a lot so you are for me yep I I still
+1:02:34 wonder when you
+1:02:38 sleep if
+1:02:41 ever all right you guys so so Norman
+1:02:44 brings up a good point and this is on my
+1:02:46 agenda to to get this done send that
+1:02:48 send that plan in Chief and ask them
+1:02:50 what they think yeah so uh oh the chief
+1:02:54 Architect no to Chief experts Chief yeah
+1:02:57 yeah I'm talking about Chief Architect
+1:03:00 yes send that one to Chief Architect see
+1:03:01 what they say Chief experts already have
+1:03:05 been confounded with
+1:03:07 it it is a really it shouldn't it
+1:03:09 shouldn't be that complicated I've done
+1:03:12 super complicated terrains right I
+1:03:15 haven't had those kinds of issues so I
+1:03:16 don't know if something's just a buggy
+1:03:18 in the software or what but yeah it's
+1:03:20 been a tough one um I I have had trouble
+1:03:24 I've already remedied this I've had
+1:03:26 trouble bringing in CAD
+1:03:28 DWG uh files and not redrawing them in
+1:03:33 Chief The Contours use the lines that
+1:03:35 came in that's caused me grief in the
+1:03:37 past it does yeah I don't recommend
+1:03:40 doing that all right you guys um thanks
+1:03:43 for being here I hope this was helpful
+1:03:45 uh you know if you got any comments
+1:03:47 please let us know if you have questions
+1:03:49 about Summit let us know you know where
+1:03:52 we are just look us up you guys take
+1:03:55 care and have a Happy New Year here we
+1:03:57 go 2024 let's that's a good point wait
+1:04:00 wait let's pin this real quick and then
+1:04:02 we
+1:04:04 go what's that I forgot about this but
+1:04:07 it's in my calendar few more days to
+1:04:08 renew SSA before the price goes up oh
+1:04:12 that's right the N going up 100 bucks
+1:04:15 yeah yep from 5.95 to 695 for ssas and
+1:04:19 you can renew early um you know if if
+1:04:22 yours isn't due for I don't know how far
+1:04:24 out they'll go um I did it through
+1:04:27 through all the last through all of next
+1:04:29 year so I don't I won't have to I just
+1:04:32 renewed mine in December I wonder if I
+1:04:34 could renew it again for another year
+1:04:35 and save hundred bucks to look at that
+1:04:38 that'd be sweet yeah but so whenever
+1:04:41 your renewal is up if you renew it early
+1:04:43 it just gets added to the year yeah so
+1:04:46 it's not like you're out anything so if
+1:04:47 you want to save a hundred bucks go do
+1:04:50 it yeah and you want to keep that thing
+1:04:52 going or you'll really be in the crapper
+1:04:55 yeah so all right you guys see you next
+1:04:58 time this is Dan Renee and John signing
+1:05:01 off see you see you

@@ -1,0 +1,1704 @@
+---
+videoId: ko8dhlSCKhw
+title: AI for Chief Architect Users  - Designers Show #116
+url: "https://www.youtube.com/watch?v=ko8dhlSCKhw"
+status: imported
+---
+
+# Transcript
+
+0:00 I think we're live.
+0:02 Is Dan Dan with live now?
+0:05 Kevin Trisu with with my buddies John
+0:08 Schrader and Renee Rabbit. Dan is AWOL
+0:12 today as he's attending a important
+0:15 personal event. So we are going to do
+0:19 some discussing of the artificial
+0:20 intelligence and looking forward to
+0:23 talking with you all about that. Feel
+0:25 free to comment. Add your questions or
+0:28 thoughts along the way and and we will
+0:30 do our best to field them. It's really
+0:32 nice to see so many people popping in.
+0:36 Some names we haven't recognized before.
+0:37 That's pretty great. And we're always
+0:40 looking forward to uh
+0:41 you passing the word and
+0:43 adding
+0:45 to our attendance.
+0:48 Um
+0:50 I think I'll
+0:51 see where we're going here.
+0:53 So
+0:54 and speaking of adding to our
+0:56 attendance,
+0:57 we are promoting
+1:02 We are promoting our intermediate and
+1:05 advanced course which is being held in
+1:08 Minnesota in December the 11th and 12th
+1:11 for intermediate which is a great course
+1:13 to
+1:15 either advance your skills to a degree
+1:18 that you'll be surprised about or to
+1:20 refresh some skills and then should you
+1:22 choose to stay on or come for the second
+1:24 half, there is an advanced course that's
+1:27 following that on the 13th and 14th of
+1:29 December which will push your skills
+1:33 to limits that you didn't know that you
+1:34 had.
+1:36 These are great courses if you can
+1:38 attend them. If you have attended them
+1:39 before,
+1:41 you you know and if you have not,
+1:44 ask someone who has because
+1:47 resoundingly the answers are encouraging
+1:50 and positive and we love to hear that.
+1:54 In addition in March we've got the big
+1:56 event. We've got our um
+1:59 our uh
+2:02 What's it called guys? Help me out.
+2:03 Total immersion
+2:05 We've got the total immersion summit
+2:06 that's coming March 1st to the 10th and
+2:09 that is an event that we're trying to do
+2:11 annually now. We had a fantastic turnout
+2:14 at the last event last at the end last
+2:16 two weeks of February. It was
+2:18 was a great session and we have several
+2:23 people who attended that who are coming
+2:25 back for seconds and we'd love to see
+2:27 you there as well. That one is a is a
+2:30 very deep very deep immersion. You're
+2:32 not only going to get the things that we
+2:34 typically can find a way to talk about
+2:36 in two days but we have
+2:39 a total of about what five or six days
+2:41 of class time in those and we have an
+2:45 amazing amount of between class after
+2:48 class before class evening time
+2:51 conversations and discussions that we
+2:53 take on and pursue everything from the
+2:57 technology of Chief Architect to the
+2:59 business of design and the
+3:03 and the some of the things that are that
+3:05 are really
+3:07 pushing the envelope. Renee likes to to
+3:09 dive into those with regard to
+3:11 things that are moving towards
+3:13 photorealism rendering.
+3:15 We have all levels that we address in
+3:18 these. So
+3:19 feel free to
+3:21 chat ask chat with any of us about these
+3:24 and and come see what you can learn at
+3:26 those. Sometimes what you find is that
+3:28 the conversations that take place out of
+3:31 the classroom are as important as those
+3:33 that take place in the classroom. We've
+3:36 there's a photo right there of me
+3:39 where I was mentoring a particular
+3:41 individual that brought
+3:43 amazing set of plans and asked me to
+3:46 go over them with her and critique them
+3:48 and talk about what what you know really
+3:51 works, what was unnecessary, what could
+3:52 be done better, worse, whatever things
+3:54 that she could eliminate to improve her
+3:56 processes. This is just something that
+3:58 we just you know pulled aside and and
+4:00 went out and talked about for an hour so
+4:02 and Yeah, important to note you get some
+4:04 one-on-one time here. Yeah. You know
+4:07 it's not just a class.
+4:09 You definitely get some one-on-one.
+4:11 And in a in a space like this which is a
+4:13 very personal space. The house is
+4:15 enormous. It's made for events. It has
+4:17 26 bedrooms or something like that. But
+4:21 because it is a home, there is all kinds
+4:24 of spaces to
+4:26 to you know to tuck away to go have
+4:28 conversations or private sessions or
+4:30 anything else that we choose to do. So
+4:32 we've had a lot of one-on-one
+4:35 sessions in these and they're they're
+4:36 pretty wonderful.
+4:38 So anyway, we highly encourage you to
+4:40 consider this. It's an expense that you
+4:42 won't regret.
+4:44 It's pretty great.
+4:46 Let's see. What else can
+4:48 we talk about? We can talk about
+4:49 ourselves.
+4:51 John's business is Imagine Design
+4:54 Imagine Drafting, sorry. And
+4:57 John
+4:59 What what you do for a living?
+5:01 What I do for a living? I uh
+5:04 do pretty much what Dan does. I I coach
+5:06 people in using Chief Architect and help
+5:08 them finish their plans and
+5:10 do construction documents for people.
+5:12 Help them with some design every now and
+5:13 then. So
+5:15 if you need some help, if you're swamped
+5:16 and you need some help catching up or
+5:18 something like that, give me a call or
+5:19 if you just want to learn Chief a little
+5:20 bit better, I can help you with that
+5:22 too.
+5:23 John also is um
+5:25 he is Dan's clone at these events and
+5:29 spends a lot of time walking around
+5:30 helping people over their shoulders and
+5:33 and helping them see the things that or
+5:36 get a better idea of what they're seeing
+5:37 that
+5:38 Dan is presenting.
+5:40 So it works really great as a tag team
+5:42 effort. And speaking of tag teams,
+5:46 Renee, what do you do for a living?
+5:49 I don't know from one day from the next.
+5:52 I am designer, drafter.
+5:55 I help I have individual clients in my
+5:57 area and then I also help other
+6:00 designers and drafters do infill
+6:01 drafting, do infill design work and then
+6:05 systems analysis. See if I can make your
+6:07 workflow faster. And then I sell
+6:09 products for that are add-on packages
+6:11 for Chief Architect and uh
+6:14 Yeah, that's it. And then
+6:16 I guess I do have a little bit of an
+6:18 announcement of my own. I have acquired
+6:20 the users of Chief Architect Facebook
+6:23 group. Um
+6:25 So um
+6:26 I'm open input. If people want to see a
+6:28 little bit of restructuring or how they
+6:30 like to see their content coming into
+6:31 some of these Facebook groups. I'm I've
+6:33 got a heavy hand in most of the Facebook
+6:34 groups out there that are affiliated or
+6:36 associated with Chief Architect. So
+6:39 And don't you and and don't I understand
+6:41 that that with that you're actually
+6:43 looking at some of the some of those
+6:45 groups that exist now as far as a
+6:47 restructuring of those groups based on
+6:50 where you see the future taking you with
+6:51 all of the groups? Yeah, I'll
+6:54 let me kick my screen back on here for a
+6:56 second. I've had the the Rabbit Design
+6:59 Feed Facebook group for a while and that
+7:01 was
+7:02 largely catering specifically to Chief
+7:05 Architect content but now that I've
+7:10 acquired the users of Chief Architect
+7:11 group, I'm restructuring this one to
+7:13 have more um
+7:16 kind of influence from the architectural
+7:18 and business side and maybe design side
+7:20 and what's happening in the world in in
+7:22 terms of design. So you're going to see
+7:24 a lot more posts like this. I'm going to
+7:25 be posting worldwide competitions that
+7:28 are coming out
+7:30 and and posting other people's YouTube
+7:33 channels and you know maybe some
+7:35 information from those as well. So yeah,
+7:37 a bit of a restructuring there and then
+7:39 the users group we're just trying to get
+7:42 this to be a great resource
+7:45 alongside the Chief Experts group kind
+7:47 of catering to the similar crowd. Chief
+7:50 Experts group I think is geared a lot
+7:52 more towards training versus the users
+7:54 group is geared towards just answering
+7:56 specific questions and giving you places
+8:00 to look for for information about Chief
+8:02 Architect. So
+8:03 There you go. And then on top of that
+8:06 I've been building out um
+8:08 Discord servers to to be another hub for
+8:12 information and content. So
+8:15 a lot of stuff going on in the social
+8:16 world.
+8:18 That's fascinating and it's it's fun to
+8:20 watch what you're doing with it and and
+8:22 I'm actually pretty excited to see what
+8:24 the next 12 months brings in in Renee's
+8:26 mind and see see where things go. It's a
+8:29 it's it's a wild place in there.
+8:32 I
+8:34 I've gotten to spend some time
+8:36 trying to investigate his head and and
+8:39 it's it's chaotic. There's a lot in
+8:42 there. Um
+8:45 And I'm Kevin Trisu and
+8:48 my my emphasis is in being a mentor to
+8:51 others as a design builder for
+8:54 about two and a half decades and then
+8:56 now moving into more just
+8:59 mentoring others.
+9:01 One-on-one assistance, one to group
+9:02 assistance.
+9:04 As some of you know, I love to I love to
+9:07 speak. I love to talk and I do a lot of
+9:09 that at the summit events.
+9:11 I get a chance to to
+9:14 talk to people about things that are
+9:16 interesting to them and it's been fun to
+9:18 explore. So if there are things having
+9:20 to do with your business, your design,
+9:22 your quandaries, I would love to talk
+9:25 with you about that. I've got a
+9:27 a class that I'm preparing for now that
+9:29 I should be
+9:31 releasing sometime after the first of
+9:33 the year starting to talk about the that
+9:35 and the schedule that we can put
+9:36 together. That's going to be coordinated
+9:38 with Dan and and it's going to it's
+9:41 going to have to do with things that I
+9:42 know bother a lot of us having to do
+9:44 with um
+9:45 protecting our own.
+9:48 Any of you who have
+9:49 who have lived through the horror
+9:50 stories of seeing your work show up
+9:52 under someone else's name or
+9:55 as as happened to me one time, I went to
+9:58 city hall to have an approval
+10:00 of a plan and they said, "Oh, yeah, the
+10:02 Jones job is is starting." I see, that's
+10:04 great.
+10:06 I had no idea the Jones job was starting
+10:08 because I didn't submit it, but someone
+10:10 else did and and so you you we run into
+10:13 the issues about what happens if and how
+10:14 do you protect yourself and is there a
+10:16 way to and does anything really work?
+10:19 So, I'm going to be talking about a lot
+10:21 of those things sometime after the first
+10:23 of the year and look forward to meeting
+10:25 you there.
+10:26 To get into today,
+10:29 now that the commercial break is over,
+10:31 we did a talk in Kansas City to a group
+10:35 called SEN.
+10:37 And that group was interested in
+10:39 learning more about artificial
+10:41 intelligence and how it would reshape
+10:43 their industry, the kitchen and bath
+10:45 industry specifically was what we
+10:47 addressed. And in that, they were really
+10:51 curious as a lot of people are about
+10:53 what does artificial intelligence mean
+10:55 to us directly? How is it going to
+10:58 affect us individually? So, we went
+11:01 through a
+11:02 really nice
+11:04 presentation there and decided that we
+11:06 would repeat it here and and see some
+11:09 some of it may not be of interest of
+11:11 other thing and we may cruise right
+11:12 through that. Other things you may be
+11:14 fascinated with and ask questions, so
+11:16 please do.
+11:18 And I got a question.
+11:20 I'm going to prompt you guys cuz we're
+11:22 going to create some image based on
+11:23 those prompts that we'll show in just a
+11:25 little bit. So,
+11:27 if I can get from both of you a little
+11:29 prompt. Kevin, I think you already had
+11:31 one in mind.
+11:33 I
+11:34 I did.
+11:35 a prompt for an image that I want to
+11:36 generate.
+11:38 So, you know, along the fascination with
+11:41 AI is the ability to generate things
+11:43 right out of our imagination. So, I ask
+11:46 Renee, I'm asking you now, um
+11:50 give me a
+11:53 residence restored from an urban
+11:56 building
+11:58 in an urban setting
+12:01 in a contemporary style
+12:03 with windows
+12:06 to the sky.
+12:07 To the sky? To the sky. Okay. All right.
+12:11 Will do. And and I'll start that up and
+12:13 then John, you got one for me?
+12:16 I want a mid-century uh
+12:19 house, mid-century modern house.
+12:22 Okay.
+12:23 Um
+12:25 white
+12:28 on the boulevard.
+12:30 On the boulevard. Yeah.
+12:32 What is the boulevard for us young
+12:34 younger people?
+12:36 Isn't the boulevard kind of a separated
+12:39 street kind of thing where it's got a
+12:41 Good job.
+12:41 Got a median in the middle with trees
+12:43 and grass and all that kind of good
+12:45 stuff. All right.
+12:47 All right, got it. And we'll and we'll
+12:49 pop that up in a little bit.
+12:51 And so, just to to get you kick-started,
+12:55 Kevin, we were invited to go out to um
+13:00 a group called the SEN.
+13:03 This is
+13:03 I don't know I think it's just SEN. I
+13:05 don't know what else it is besides that.
+13:06 Yeah, the SEN group
+13:08 is a um They take the the power of their
+13:11 membership, meaning that they're having
+13:13 a bunch of designers buy into a
+13:14 membership and they take that purchasing
+13:16 power in order to get better deals on
+13:18 cabinetries. So, a lot of these people
+13:20 are cabinet dealers.
+13:22 So, they're getting, you know,
+13:23 preferential deals on cabinets and
+13:26 fixtures and
+13:29 and you name it. So, they invited us to
+13:31 come out and talk about AI in the
+13:32 industry and so we created a slide. So,
+13:35 this slideshow is for that presentation
+13:37 which already happened and that was out
+13:39 in
+13:40 Kansas City, Missouri.
+13:41 Where that's that's where you live,
+13:43 right, Kev? Right. Yeah.
+13:46 Um so, I'm going to navigate the slides
+13:49 for you.
+13:50 Thank you.
+13:52 And this is a good question and you guys
+13:53 can can just drop in the comments, are
+13:55 you currently using AI?
+14:00 It just as a as a uh
+14:02 Shoot, what's it called? A teaser. You
+14:05 are.
+14:07 So, every day you're using AI. You're
+14:10 using it for things that you may not
+14:12 recognize it under that name, even
+14:15 though everyone everyone is currently
+14:17 plastering the the the letters AI onto
+14:20 anything that they're currently selling,
+14:22 but if you think about it, the search
+14:25 engines that you use, Google, Bing,
+14:28 any of those, anything, they're all
+14:30 using AI in order to
+14:32 determine answers to your questions and
+14:35 refine that search and go through AI
+14:38 algorithms that are determining, you
+14:40 know, where things should show up in
+14:42 those search results. You're you're
+14:43 you're using them. You're using AI.
+14:46 Social media, heck yes. Anything that is
+14:49 Facebook, Instagram, Twitter, or X
+14:52 and and the uh
+14:55 uh and the algorithms that they use in
+14:59 order to curate the results that you
+15:01 see. You'll see a lot of people saying,
+15:02 you know, AI's or Facebook's algorithm
+15:05 isn't showing me my friends or whatever.
+15:07 Yeah, it's it's it's all algorithms and
+15:10 you're probably right and there's
+15:12 probably reasons for it, though you may
+15:13 not agree with those reasons.
+15:15 Email management tools like Google's
+15:19 Gmail or any of the other
+15:21 email services are using machine
+15:23 learning to
+15:25 deal with spam and you know, filtering
+15:28 things out, categorizing things, showing
+15:30 them to you in ways that seem magical.
+15:34 Um
+15:36 You know, Siri and Alexa and and Google
+15:39 Assistant, those are using AI to
+15:43 understand what you're saying and give
+15:45 you results back which is kind of
+15:47 fascinating when you think about it.
+15:48 It's all interpreting voice and and
+15:51 dialect and everything else and and
+15:52 giving you back a result that
+15:55 to date is to date is pretty
+15:58 interesting, usually frustrating, lots
+16:00 of commercials created over, you know,
+16:02 the wrong answers being generated. I'm
+16:06 using one now that
+16:09 no matter what we see, Google's
+16:11 Assistant, Siri, or anything else, the
+16:13 the voices seem very mechanical and
+16:16 robotic and the answers are all over the
+16:19 board and I'm using one now through
+16:21 ChatGPT's
+16:23 um
+16:24 audible
+16:25 interface that is allowing
+16:28 you to select the voices that you the
+16:30 conversational mode that you want to
+16:32 come back to you, the dialects, the
+16:34 person, the gender, whatever, but the
+16:36 but the conversation itself is amazingly
+16:40 human-like. So, we've gone from
+16:42 something that was pretty darn cool in
+16:44 the form of Siri or or Google and we've
+16:46 gone now to something that is amazing.
+16:49 If you haven't tried it, um
+16:52 fascinating. I I literally find myself
+16:55 holding conversations with this voice
+16:57 that seems so human that I forget that
+16:59 I'm talking to a machine. So,
+17:02 you know, there that I'm saying that is
+17:05 amazing because that's on the horizon
+17:08 now. Six months ago when I did a talk on
+17:12 AI, it didn't exist. These things are
+17:14 happening so quickly now.
+17:16 So, you're going to end up seeing those
+17:18 things replacing uh what we currently
+17:21 have and moving forward expanding a lot
+17:24 more a lot more um
+17:26 types of services.
+17:28 Um things like
+17:30 your car rentals, your your ride sharing
+17:33 and and your mapping and all of those
+17:35 things, they're all AI and you're and
+17:37 you've been using them for a long time.
+17:39 Question is, I think, um
+17:43 Oh, by the way, you can view this this
+17:46 slideshow at
+17:47 chiefexpertsacademy.com/blog/ai
+17:51 on your favorite channel.
+17:53 Uh
+17:55 On to the next?
+17:59 And we're going to breeze past this, but
+18:02 and Dan can't be with us here today.
+18:05 He's off
+18:06 What is he on a um
+18:08 a reunion or something? I think he is.
+18:09 Yeah, it's a reunion for old guys. Okay.
+18:14 And there's me.
+18:16 There's there's a
+18:16 And I'll and I'll leave this pinned here
+18:18 just cuz we're going to show something
+18:19 funny with this picture later on.
+18:23 And there's me. Um
+18:26 Yeah, so if you haven't seen Kevin Bot
+18:28 show up here and there,
+18:29 it's yeah, I I tend to offer unsolicited
+18:33 advice whether on on Renee's channels.
+18:38 So, the Kevin Bot is built specifically
+18:40 to handle
+18:41 specific questions on a Discord channel
+18:43 and so to automatically answer certain
+18:45 questions on the on the Discord channel.
+18:47 And then he also polls people for what
+18:49 they might what content they might want.
+18:51 So, he's a very nice robot.
+18:58 And there's that commercial again. That
+19:00 is probably the most handsome view of
+19:03 Dan we've ever seen.
+19:07 With a robot.
+19:10 So,
+19:11 um Yeah, so when you when you think
+19:14 about AI now, the way it's the way that
+19:16 people are currently thinking about it,
+19:18 uh
+19:19 the
+19:20 uh
+19:21 you know, the concept of artificial
+19:23 intelligence was actually born in in the
+19:25 1950s,
+19:27 not under that name. That name became
+19:29 popularized, I think, in the early '60s
+19:31 or something and was coined at that
+19:33 point, but the
+19:35 go. There you go. There
+19:36 Okay. So, um Geoffrey Hinton is the
+19:40 godfather of AI and and although it
+19:42 seems like this was a very recent
+19:44 development, he started these concepts
+19:45 in the 1950s. It's
+19:48 it's it's an amazing journey that he's
+19:50 been on, but this man, if you if you
+19:53 have ever seen him speak on the topic,
+19:55 he's retired now, but if you have seen
+19:58 him speak, most recently I think he did
+19:59 a 60 Minutes episode,
+20:02 you should check it out because it's
+20:04 it's enlightening, it's fascinating,
+20:06 it's a little terrifying, and here the
+20:08 Godfather of AI is addressing all of
+20:10 those points.
+20:12 But but it's been around for
+20:15 70 years in terms of the the development
+20:18 of this. He spent his entire career in
+20:21 different modes working on this. So, if
+20:23 you look at the timeline from the 1950s
+20:26 to the 60s to the 70s to the 80s, by the
+20:30 80s we were starting to think about
+20:32 decision trees and
+20:34 ensemble methods and and
+20:37 and and how these things might be able
+20:39 to be developed into something that
+20:42 could resemble intelligence.
+20:44 By by actually what's not in there is in
+20:47 1999 Kevin Trensu wrote a white paper on
+20:51 artificial intelligence for the company
+20:53 that I was working for at the behest of
+20:55 the senior management. So, here was here
+20:58 somebody had heard the term and came
+20:59 back and said, Kevin tell us about this
+21:01 and where the future is. And
+21:04 and I was writing about artificial
+21:06 intelligence in 1999.
+21:08 To me that seems crazy looking back on
+21:10 that. It's a quarter century ago.
+21:13 By 2011 IBM's Watson won Jeopardy.
+21:18 We started seeing the rise of the
+21:20 chatbot, Siri and Alexa type things by
+21:22 2014.
+21:24 You look at the time look at the how the
+21:25 time is is
+21:27 increasing speed now. By 2016 AlphaGo
+21:30 beats the world Go champion. By 2019
+21:35 AlphaStar StarCraft won the
+21:37 was it a grandmaster level in in in uh
+21:41 in its domain. And by 2020 we start
+21:45 seeing chat GPT-3. By 23
+21:49 we're starting to see everything from
+21:51 from
+21:52 you know, believably human voices to oh
+21:54 my God, you can clone people and and
+21:57 their own mothers don't know that it's
+21:59 not them. This is uh
+22:02 this is fascinating and it's moving very
+22:04 very quickly at this point. There's a
+22:06 chess scandal that happened recently
+22:09 about the use of machine learning. So,
+22:12 you can go check that. You can Google
+22:13 that one. That one's got a it's a little
+22:15 it's a little funny one.
+22:17 Yeah. Yeah.
+22:19 So, it's yeah. So, so now what we're
+22:20 seeing is
+22:22 that the the snowball is rolling down
+22:24 the hill so fast that you need to find
+22:26 out whether you want to get out of the
+22:28 way of it, whether you want to jump on
+22:29 top and try to navigate that thing, or
+22:32 whether you're going to get run over by
+22:34 it. There are some really exciting
+22:37 things to pay attention to with AI. I
+22:39 think in uh
+22:41 February I predicted that that
+22:44 we that our industry would not be the
+22:46 same within 5 years, that it would be
+22:48 unrecognizable within 5 years. I've
+22:51 since changed that to 2 years
+22:53 because of the speed that things are
+22:55 growing. Maybe not unrecognizable in 2
+22:57 years, but but it's definitely going to
+22:59 be shifting gears and and we're going to
+23:01 start seeing some
+23:03 amazing abilities just like what
+23:05 Rene was asking, can you give me a
+23:07 prompt for something that you'd like to
+23:09 see? I've got an assignment to do to
+23:11 restore a building into a residence in
+23:14 in an urban community and they want a
+23:17 contemporary style. All right. Well, by
+23:19 using artificial intelligence and an
+23:22 image
+23:23 tool to do something like that without
+23:26 telling it any more
+23:28 This is your This is your contemporary
+23:30 right here.
+23:31 Bring it up. It's a little tiny image
+23:32 right there.
+23:33 Yeah, it's
+23:34 I don't know that I can zoom, but I will
+23:35 in a just a second. Yeah, yeah, here we
+23:37 go.
+23:39 We got four different images out of
+23:40 that.
+23:41 So, without telling it anything more,
+23:43 now it didn't go out to the internet and
+23:45 search for pictures that seem to have
+23:47 those descriptors like what Siri would
+23:49 do or Alexa or whatever else. It
+23:51 generated those images based on
+23:54 millions of observations about what's
+23:57 what's possible in a scenario like that.
+24:00 And so, as a creative tool, it's
+24:02 fascinating what you can do to possibly
+24:06 spur spur on your own ideas using
+24:08 artificial intelligence. This was uh
+24:11 This is John's mid-century modern and
+24:13 I'm going to change this car.
+24:17 We'll see what it does.
+24:22 Well, you can keep talking.
+24:24 Okay. Well, I'm I guess my curiosity got
+24:27 the best of me. I wanted to see what it
+24:28 did, too.
+24:29 Yeah, we'll come back to that. And then
+24:31 I told it to I told it to give me tan
+24:33 ostrich leather material and tile it so
+24:36 that it's seamless. So, that's what it
+24:37 gave me. And that's pretty good.
+24:39 Yeah.
+24:40 That's pretty good.
+24:42 You know, you would expect it to be able
+24:44 to find tan ostrich material. What would
+24:47 be curious is to
+24:49 you know, see if you can do something
+24:50 that it wouldn't find so that you know,
+24:52 it's really tough to accept the fact the
+24:54 fact that it's generating this thing
+24:56 artificially. It really kind of feels
+24:57 like, okay, it's finding that image
+24:59 somewhere. But you would never find for
+25:01 instance polka-dotted multicolored
+25:03 ostrich material. You know, so what
+25:05 happens if you try that? You know, does
+25:07 it does it do it or does it get lost in
+25:09 that because who would do that?
+25:11 So, we could get really advanced in this
+25:13 Midjourney, but we won't have time for
+25:16 this episode. Right. But this is where
+25:18 the fun begins. This is where you This
+25:20 is where you get lost in it and end up
+25:21 waking up or getting up at 5:00 in the
+25:23 morning going, I should probably go to
+25:24 bed now. Yeah. Um
+25:27 So,
+25:28 with that in mind
+25:32 artificial intelligence, can you go back
+25:33 to that for just a second? Yeah.
+25:36 Artificial intelligence is going to help
+25:38 us become better and more intelligent
+25:40 and thoughtful in our communication.
+25:43 You've seen that. You also have to
+25:45 correct it a little bit or not hand
+25:47 things off because people recognize
+25:49 artificial intelligence verbage quite
+25:52 quickly. So, there are are tricks and
+25:54 techniques to be able to turn that into
+25:56 your own way of speaking and and have it
+26:00 be more believable, but it does give us
+26:03 it fills in the blanks for things that
+26:05 we may not know, may have forgotten, may
+26:08 be curious about, and it's a wonderful
+26:10 tool to improve that communication.
+26:13 Now on.
+26:18 So,
+26:19 um
+26:21 the the most popular
+26:23 platforms that you hear about these
+26:24 days, although they are by far not the
+26:27 only ones, are chat GPT, which was the
+26:30 one that came out of nowhere and caught
+26:32 everyone's attention.
+26:34 Bard, which is Google's approach to do
+26:36 the same. Bard is
+26:38 with Google behind the wheels. Chat GPT
+26:40 is operating pretty much on their own,
+26:42 although Microsoft has put a ton of
+26:44 money into
+26:46 the Open AI company in order to promote
+26:48 that development.
+26:50 And Bing, which is Microsoft's browser
+26:54 with chat GPT under the covers. So,
+26:57 there's that's more of an interface to
+27:00 chat GPT with some front-end training
+27:03 for how they want things presented.
+27:05 Yeah.
+27:11 So, this is
+27:13 effectively we decided to move into kind
+27:15 of an image um
+27:18 an image question, but if we were using
+27:20 the large language large language model
+27:23 of chat GPT, LLM in chat GPT, which the
+27:27 newest version is called GPT-4 and it's
+27:29 easier to say than chat GPT, so we'll go
+27:31 there. But the something that is
+27:34 text-based like GPT-4
+27:36 can give us answers to questions
+27:39 conversationally or otherwise.
+27:41 I use it every single day and many times
+27:44 a day.
+27:46 Things like Rene was working with with
+27:48 the image generation might be more
+27:50 here and there once in a while unless
+27:52 you get really into that kind of things.
+27:54 But those are just the tip of the
+27:56 iceberg about what's possible. Do you
+27:58 have a text-based
+28:00 query up there, Rene? Yeah, let's see. I
+28:04 had it write a
+28:09 What was my initial discussion here?
+28:11 Write a typical fact, an FAQ for seeking
+28:14 and offering services. And we use this
+28:16 for the seeking and offering services
+28:19 Discord group that's attached to the
+28:20 users group. And it and it fashioned it
+28:23 in a way that it was questions and
+28:24 answers.
+28:25 And it and it did it very quickly. So,
+28:29 that was one and then
+28:31 let's see.
+28:33 And then I was just had it say I said,
+28:35 rewrite this to sound more concise. It's
+28:38 a rule for no personal messages or
+28:39 direct messages in a Facebook group. And
+28:42 I
+28:42 splattered something out there. The
+28:44 great thing about this is, you know, I'm
+28:46 on a Windows platform. I know you're on
+28:48 a Mac. I'm sure you have the same
+28:49 capabilities. I can hit Windows and H
+28:51 together and say
+28:55 write me an excerpt for a live video
+28:59 that's going to be on the presentation
+29:00 of the use of artificial intelligence
+29:03 with an architectural design software.
+29:09 And it's going to say, join us for an
+29:11 exciting live presentation on the
+29:12 application of artificial intelligence
+29:14 in architectural design software.
+29:16 Discover how AI is revolutionizing the
+29:18 way architects and designers create,
+29:20 optimize, and visualize their projects.
+29:22 Don't miss the opportunity to explore
+29:24 the cutting-edge advancements in the
+29:26 world of architecture and technology. Be
+29:27 part of the future of design. Tune in to
+29:29 our live video presentation.
+29:31 And you can tell it to to truncate this.
+29:34 You can tell it to make it sound a
+29:35 little more buoyant, or you can tell it
+29:37 to sound like a robot if you want to.
+29:39 And it will adjust on the fly. And you
+29:40 can see how quickly that's done. So, if
+29:43 you've never been on chat GPT, you've
+29:46 been hiding under a rock. It's free. Go
+29:48 play around with it. Yeah.
+29:51 And you can have some fun with it. I I
+29:52 had it write my personal profile in the
+29:55 voice of Kurt Vonnegut. Um and that was,
+29:57 you know, that was really fun. Uh so and
+30:00 I didn't even give it my personal
+30:01 profile. I just let it go find the
+30:02 information about me. Um
+30:05 so there are some there are some fun
+30:06 ways to play with it as well. Um
+30:09 Okay. So
+30:11 the things that the things that we get
+30:13 into then is how how might we use this?
+30:15 What do we see coming down the road? Um
+30:18 so if you look at our industry
+30:20 for design, sales, those kinds of
+30:23 things, uh
+30:25 you can get
+30:26 you can um
+30:29 This isn't quite what I was where I was
+30:30 going with that thought. I'll finish my
+30:32 thought and let you address this, Renee.
+30:34 But um
+30:35 if we look at where this is going for
+30:37 our industry, um you can get the
+30:39 information that you want in surprising
+30:41 ways. I have asked it questions about
+30:44 the IRC, the code code requirements.
+30:46 I've asked it questions about
+30:49 um
+30:50 about
+30:51 uh
+30:52 you know, philosophy of design. Um I
+30:55 think that the
+30:57 point here is that you can find the what
+31:00 you can find the answers to what pretty
+31:01 easily. Um artificial intelligence
+31:05 as of about a week ago had not yet
+31:07 achieved the why. It had not achieved
+31:11 reasoning, human reasoning, human level
+31:14 reasoning. So the point that I think um
+31:17 uh
+31:18 Marlon the Godfather said was that
+31:23 if you look at the neural network that
+31:26 makes up a decision in our minds
+31:29 that we might have
+31:32 a million paths. Um
+31:35 a 10 million paths in our minds that we
+31:37 could follow where artificial
+31:38 intelligence might be following a
+31:39 million paths. It's not yet ready to
+31:42 reason at the same point that humans do.
+31:45 But just within this past week, and I
+31:46 tried to find this link before I jumped
+31:48 on here but couldn't. Um there was a
+31:51 company, I forget which one now, that
+31:53 has achieved human level reasoning in uh
+31:57 artificial intelligence. So that is
+32:00 really interesting in that um
+32:03 it's able to
+32:06 able to
+32:08 process information as a human would and
+32:11 therefore could possibly be competing
+32:13 with humans. This is the kind of thing
+32:15 that Jeffrey uh was saying Hilton was
+32:18 saying that uh is is the part that
+32:21 scares him about it is that um
+32:24 artificial intelligence doesn't have a
+32:25 conscience or a soul,
+32:28 but has the ability to reason at the
+32:30 speed of a human. So
+32:35 how do we control it? And one of the
+32:37 fascinating parts about that is um that
+32:40 all companies who are involved in
+32:42 artificial intelligence are trying to
+32:44 find ways to
+32:46 control it
+32:47 um because it's moving that fast.
+32:51 So
+32:53 um with with all of the excitement
+32:54 there's also some inherent um
+32:57 challenges and fear that goes along with
+32:59 that. So I I really do I don't I can't
+33:01 predict where our uh environment where
+33:04 our industry is going to be in the next
+33:06 two to five years, but based on the
+33:08 speed that I'm seeing, I can predict
+33:09 that it is going to be
+33:11 different in a way that we can't even
+33:13 anticipate coming right now.
+33:21 I'm just going to leave these slides up
+33:22 for just a second.
+33:24 People can go back and rewind this show.
+33:27 And you can also obviously go check out
+33:29 the slides.
+33:31 We posted that link earlier.
+33:33 Oh, this one's kind of this is kind of
+33:34 fun because this answers this is
+33:35 addresses some of the things that I was
+33:36 just talking about. Not the not the
+33:38 domination of humanity, but the idea
+33:40 that
+33:42 that our industry is changing. So uh if
+33:45 you look at just job evolution,
+33:47 um things that artificial intelligence
+33:50 could take on quite handily is to
+33:53 automate repetitive tasks, which is
+33:55 going to free up the opportunity for
+33:58 more complex, more skilled work.
+34:00 Uh to to be able to deal with uh quality
+34:02 and efficiency where it's going to
+34:04 better the results of things or role
+34:07 adaptation where um skilled workers can
+34:11 adapt to AI-enhanced workflows,
+34:12 therefore producing new uh new jobs. So
+34:16 there are going to be new roles and
+34:18 skills. Uh everything from taking care
+34:21 of artificial intelligence to um to
+34:24 dealing with the data analysis to
+34:26 ethics, which is kind of what is one of
+34:28 the parts that I was just talking about.
+34:30 So who's going to be responsible for AI
+34:33 and how it's used?
+34:34 Um or training it. There's right now
+34:37 there's tons of opportunities out there
+34:39 for artificial intelligence trainers. Um
+34:42 They're looking for people who
+34:44 whose hands work that direction and can
+34:46 possibly be feeding the the data sources
+34:49 that these things use and my God, they
+34:51 use a lot of data. Uh I think a recent
+34:54 estimate I saw was that
+34:56 OpenAI
+34:58 uh it cost them $700,000
+35:00 a day to maintain artificial
+35:04 intelligence, the public access
+35:06 artificial intelligence. A day.
+35:09 It's pretty interesting.
+35:11 Um and then you then you run into the
+35:13 parts of okay, yeah, but it can't
+35:18 it can't do, you know, it can't craft a
+35:20 staircase. It can't do this or that. Uh
+35:22 you can imagine that sooner or later,
+35:24 you know, pieces and parts could be sort
+35:26 of built to snap into place, but for uh
+35:30 a lot of things they are going to
+35:32 require human interaction no matter
+35:34 what. You can't get artificial
+35:36 intelligence to swing the hammer. So
+35:39 it's not that going to replace all human
+35:42 jobs. It's going to augment them and
+35:45 provide new possibilities, which is
+35:47 going to provide
+35:49 a major shift in our uh world. Um
+35:53 There's
+35:54 There's an interesting comment.
+35:57 Yeah, I like that one.
+35:58 I
+35:59 I would agree. I think there is a market
+36:01 There has always been a market for that,
+36:03 you know, small business.
+36:05 People support
+36:06 yeah. I agree, too. There was an article
+36:08 in Wall Street Journal, I think just
+36:09 today, that was talking about that very
+36:12 thing, old school design. Um
+36:15 So and and I you know, I definitely
+36:17 believe that we can we can generate all
+36:19 the pretties that we want, but there's
+36:21 still going to be the first-time
+36:22 homebuyer looking to buy something
+36:24 affordable in a on a you know, a
+36:25 three-bedroom, two-bath house that's
+36:27 split-level sitting on a small lot. And
+36:30 uh and while you could tell artificial
+36:33 intelligence to generate 100 plans that
+36:36 satisfy that,
+36:37 it doesn't replace the idea that I need
+36:40 to talk to the human and understand
+36:42 their needs and provide for them what
+36:45 they need for their specific lifestyle.
+36:49 Oh, this is me.
+36:50 Here's an example of Here's an example
+36:51 of what happens if. So uh in this
+36:54 particular case, um you're using you're
+36:56 using AI model, which is just a
+36:58 mathematical representation of the of
+37:00 the process. Um just it's just that. And
+37:05 through a prompt, you can combine
+37:07 different ideas and styles. This
+37:08 particular one is is uh
+37:11 is
+37:12 combining Escher and Gaudi. So you're
+37:14 taking something that's impossible and
+37:16 combining with something that's
+37:18 gaudy.
+37:19 And in so doing, uh you end up with that
+37:22 thing on the right. If you look at any
+37:25 of these images that are generated um of
+37:27 structures, you'll see sometimes that if
+37:30 you were a designer looking at that,
+37:31 you'd say there's no way you can
+37:33 transition between rooms in that space.
+37:35 Okay, it looks interesting from the
+37:37 outside. If you look at it in there's a
+37:39 site that does um
+37:41 kind of femme fatale uh imagery. It's
+37:44 just um
+37:45 phenomenally gorgeous, beautiful women
+37:49 that are unbelievably so. The
+37:51 interesting part about that is all those
+37:53 things are true. They are gorgeous, but
+37:55 they're unbelievably so. And if you look
+37:58 at them, um you know, there's nobody who
+38:01 actually looks that way. They almost
+38:03 they almost um
+38:04 look surreal and every once in a while
+38:06 you'll see, you know, one of those
+38:08 images that looks very believable and
+38:09 then if you count their her fingers,
+38:10 she's got six fingers. Yeah. So
+38:14 So the things are
+38:15 I like a common joke. Yeah. My name is
+38:17 Inigo Montoya.
+38:20 Six fingers, good man.
+38:22 Um this I think this was actually my
+38:25 first Midjourney prompt. Um That one
+38:27 was? Yeah, I think it was.
+38:30 Yeah, we threw that one in there.
+38:32 Uh oh, I guess I will comment to a
+38:34 couple things. You you are going to hear
+38:35 the term model. Um a model
+38:38 Well, we give the definition right
+38:39 there, but it's it's basically what
+38:41 we're training
+38:43 um that particular AI platform on is
+38:46 we're going to train it on a model and
+38:48 it's a model of data. So we're looking
+38:50 at a subset of data. We can't just train
+38:52 it on all data in the world, that
+38:53 wouldn't make any sense. You'd have a
+38:55 lot of confliction there.
+38:56 It's it's nice to give precise data that
+38:59 might give us clean results. And which
+39:01 brings me to another point. Um and this
+39:04 is just my opinion, but um I think that
+39:08 most data comes from large publishers
+39:11 and large publishers will only publish
+39:13 data um to the limit of what they are
+39:16 accepting as their liability. So
+39:19 if you ask it how to change out an
+39:22 outlet, uh it's going to tell you it's a
+39:24 24-hour process where you got to contact
+39:26 a an electrician, you got to go get a
+39:27 permit, and you got to do all kinds of
+39:29 crazy things. Uh whereas if you asked me
+39:31 how to change out an outlet, I would do
+39:33 it in 5 minutes and I'd do it live cuz
+39:35 I'm a dummy and I don't mind getting
+39:36 shocked. So
+39:37 um there's there's the data that we're
+39:40 pulling from. So AI is never going to
+39:43 replace someone's, you know, hard-earned
+39:46 technical experience from being in a
+39:48 field and it's their expertise because
+39:51 that information doesn't typically get
+39:53 published onto the internet and that's
+39:55 where we're getting the information
+39:56 subset from. So, uh some things to think
+39:59 about in terms of that. So,
+40:01 here's a model. The prompt is what we're
+40:03 telling a particular engine to load into
+40:05 the model and produce what we need,
+40:07 which is, you know, our text or
+40:09 image-based or whatever it may be. So,
+40:11 there is a um
+40:13 there's a uh a lot of jobs out there not
+40:15 only for people that are creating models
+40:18 and generating that data, but also for
+40:19 people that are really experienced and
+40:22 excellent at prompting and it's called a
+40:24 prompt technician and it's very
+40:25 prevalent in San Francisco Bay Area
+40:27 right now as they're looking for people
+40:29 that know how to prompt in order to get
+40:31 the results they need in an efficient
+40:33 way. So, and after you've played with it
+40:36 all for a while, you'll see that there
+40:38 is a big divide there between your
+40:40 experience level and what you're getting
+40:41 versus what you want to get out of that
+40:43 system.
+40:46 Yeah.
+40:47 Practice makes perfect. You really do
+40:49 have to spend some time that you can One
+40:51 of the nice things is you can tweak your
+40:54 your
+40:55 uh your queries when when it comes up
+40:57 with something that was
+40:58 Oh, that wasn't at all what I meant.
+41:00 Well, then you've you've you've asked it
+41:02 the wrong thing. Uh if it comes close,
+41:05 you can start to tweak it. Did you ever
+41:06 get a result for your
+41:08 the change out of that Thunderbird or
+41:10 whatever it was sitting in the driveway?
+41:12 Oh, I did and it and it didn't come out
+41:14 well and and I know why. So, that's a
+41:16 great point. Um
+41:18 Yeah,
+41:19 it's still a Thunderbird in the
+41:20 driveway, right? And that's
+41:22 um
+41:23 and that's specifically because I left
+41:25 the old prompt in place. So, here we go.
+41:27 There's that outline and I left
+41:29 everything in place that mid-century
+41:31 modern part. I think I just needed to
+41:33 say truck.
+41:36 And we'll see what happens. We'll have
+41:37 to come back to that. So,
+41:39 um Well, there you go. And that's what
+41:40 I'm saying is sometimes you sometimes
+41:42 you look at it and say, "Okay, that was
+41:44 you know, I didn't get what I wanted.
+41:45 Therefore, I asked the wrong question."
+41:47 Yeah.
+41:48 So, here's that slide on becoming a
+41:50 prompt engineer and the difference
+41:52 between something that would be a less
+41:53 effective prompt. Give me a house in the
+41:55 jungle versus give me a modern house in
+41:58 a tropical forest in the style of
+41:59 someone and, you know, and and giving
+42:02 more details. So,
+42:04 um in my Discord, there is even a robot
+42:07 to help you create a more effective
+42:09 prompt, believe it or not. So, we're
+42:10 using AI to generate better AI
+42:14 generations. So,
+42:16 um
+42:17 kind of a compounding effect.
+42:19 Yeah.
+42:20 The next slide. So, here we go. Um this
+42:22 is
+42:24 you know, again, this is like coming
+42:26 back to even character development or or
+42:28 building things in a specific way that
+42:30 you wanted it to, you know, respond in a
+42:32 specific way. So,
+42:34 um
+42:35 I give
+42:36 custom instructions. Answer the
+42:37 following question as if you were Yoda
+42:39 from Star Wars.
+42:40 So,
+42:41 that's kind of a funny one, but a a
+42:43 negative prompt is when we're um Well,
+42:46 it's right here on the screen. A
+42:48 negative prompt is a directive given to
+42:49 an AI system specifying what it should
+42:51 avoid or exclude in its output. So,
+42:54 describe a landscape, but do not mention
+42:57 any bodies of water. So, that's, you
+43:00 know,
+43:00 sometimes we we want to
+43:03 remove um a potential answer from a
+43:06 prompt, right? So, there's negative
+43:08 prompting as well. And there's a whole
+43:10 bunch of tricks.
+43:11 What's that? Were you Were you
+43:13 attempting to show that on the screen?
+43:14 That That didn't come across if you
+43:16 were.
+43:18 Oh, a negative prompt? No, I didn't have
+43:20 an example of that. Um Okay. But it
+43:22 could be that you you know, if you are
+43:25 prompting and you're continuously
+43:26 getting an aspect of of the prompt's
+43:29 generation is coming back that you don't
+43:32 want, then you can actually give it a
+43:34 negative prompt and and every platform
+43:36 has a different way of initiating that
+43:38 negative prompt. So, um certain
+43:41 platforms have a very specific way to do
+43:42 that. Others are just text-based and you
+43:44 can just say do not include such and
+43:46 such.
+43:48 So, that image of Yoda was actually
+43:50 generated in in Midjourney and it was
+43:52 Yoda in a kitchen.
+43:54 That was pretty much what the prompt
+43:56 was.
+44:00 So, this was a couple of examples of
+44:03 what you might use and I mean, I came
+44:05 from um
+44:06 being trained in contract writing and I
+44:09 um and went to
+44:10 the only school I went to at all was I
+44:13 did take a contract class and that was
+44:15 to get my uh general contractor's
+44:16 license and I've always had an interest
+44:19 in contract writing. So, I feel very
+44:21 comfortable getting ChatGPT to write me
+44:23 clauses for my contracts. But um someone
+44:26 else posted here, which was a great
+44:27 question. I'm going to see if I can't
+44:28 find that post and pin it real quick.
+44:30 Here we go. How can you be sure that the
+44:32 answer that AI generates is fact-based?
+44:35 And you can read the rest of that
+44:36 comment. It's kind of funny, but it's
+44:38 true. You have to you have to go check
+44:40 on this information because it's not
+44:42 always correct. So, um I use AI in the
+44:45 sense that, "Hey, this is a friend that
+44:47 might know the answer." Like, have you
+44:49 ever seen those game shows where it's
+44:50 phone a friend? That's how I look at AI.
+44:52 It's like, I'm going to phone a friend
+44:53 and, "Hey, do you know where I can, you
+44:55 know, go for this answer and what it
+44:56 might be?"
+44:57 um And you still have to choose whether
+44:59 or not to use that answer to win your
+45:00 million dollars, but Yeah, exactly. And
+45:02 you might be like that lawyer that
+45:04 almost got disbarred.
+45:06 Right. It's pretty funny. It's not
+45:08 funny, but
+45:09 So, I use it to write contract clauses.
+45:11 That's just an example. Um I use it to
+45:13 write info briefs to my clients. Um
+45:16 there's all kinds of of reasons, emails.
+45:19 And And so, there's email integrations.
+45:20 We're going to get into that in a
+45:21 second.
+45:22 Um this is a great one in the design
+45:25 world for me.
+45:26 I don't um
+45:28 I don't manage to keep the catalog of
+45:31 architectural styles in my mind. I just
+45:33 never have been able to. And so, it's
+45:35 very useful for me to take a picture.
+45:38 So, this is just Assume you're at a
+45:39 client's house, you take a picture of
+45:41 the front of the house and you can load
+45:42 this into ChatGPT now and tell it to
+45:45 tell you what architectural style it is.
+45:48 So, in this case, it's saying that it's
+45:49 French Chateau architectural style.
+45:52 And now I'm going to take that
+45:54 information and I want to do ideation.
+45:57 I'm going to tell it to produce me,
+45:58 "Hey, a French Chateau style kitchen."
+46:01 And that's specifically just to spark
+46:03 some ideas because that's the job I was
+46:05 tasked with is
+46:06 you know, a French kitchen. So,
+46:09 the next part from this is I can take
+46:11 that same image it just produced and
+46:15 load it back in to Midjourney and tell
+46:18 it to describe the image I just gave.
+46:20 Now, it doesn't know its history. It
+46:22 doesn't know that it generated that
+46:24 image in the first place. It is now
+46:25 looking at the image, analyzing it, and
+46:27 telling you how it would have described
+46:29 that image. And so, it gave me this
+46:31 description.
+46:32 I then load that description back into
+46:35 Midjourney and tell it to produce new
+46:37 kitchens based on that description.
+46:39 And you'll see here we got one fuzzy
+46:41 This is kind of what's happening is um
+46:44 when it's generating, it has a bunch of
+46:45 noise and the AI is determining what
+46:48 each pixel should be based on the prompt
+46:50 that you've given it. So, this is what
+46:52 it was looking like as it's kind of
+46:53 figuring out its uh
+46:56 your query.
+46:58 We've got a couple of comments here. I I
+47:00 see the chat board punching off. Any
+47:02 Anything we got to address?
+47:08 I have to admit I was
+47:09 fascinatingly listening to you talk and
+47:11 I wasn't reading the comments, so
+47:14 Um I'm going to let you touch on on
+47:15 this. Do you know anything about
+47:16 Grammarly? This is
+47:18 This was actually uh Dan's slide, so I
+47:21 know he uses it every day.
+47:24 I I use it. I don't use it as much as
+47:27 Dan does. I'm I'm I'm pretty good with
+47:30 grammar and therefore, I don't turn to
+47:31 it, but for those who could use some
+47:34 help, it's it is pretty fascinating.
+47:35 Grammarly is a
+47:37 uh
+47:37 I don't even maybe subscription-based.
+47:40 Uh I think the only things I've ever
+47:41 used were free, but uh it can make
+47:44 corrections to
+47:45 um whatever you're writing and suggest
+47:48 alternatives to the way that you're
+47:49 phrasing something so that it sounds
+47:51 more professional or whatever else.
+47:53 Um that's about all I know about it.
+47:56 Yeah. I usually use it just to correct
+47:58 just to double-check my work.
+48:01 I think his is live and integrated into
+48:03 his browser. So, as he's even typing
+48:07 anywhere, it's just um
+48:09 offering suggestions
+48:11 and and better better grammar, I guess.
+48:14 Um and then I'll pin this comment from
+48:16 Vicky. We live on the internet, banking,
+48:18 shopping, communication. What happens
+48:20 when there's a huge solar flare or other
+48:22 catastrophe and the internet is down,
+48:24 dead, and gone?
+48:25 Um survival of the fittest.
+48:28 Yeah, I was going to say, should that
+48:30 happen, so are we. I I think that I
+48:33 think that the um there are quite a few
+48:36 satellites that that get past that. I
+48:38 mean, it depends on the catastrophe. Uh
+48:40 mild catastrophe, I think we'd be just
+48:42 fine because a lot of the satellites
+48:44 there are
+48:45 are just in orbit and those are still
+48:47 feeding data and we have old um radio
+48:49 frequency setups as fail-safes. So,
+48:53 yeah, I couldn't speak too much to that.
+48:55 I'm probably going to get flagged
+48:56 somehow and have my internet shut down
+48:58 now.
+49:02 You You do have to be careful what you
+49:03 say anymore.
+49:05 Yeah, I know this you really do have to
+49:07 do some fact-checking. I have done some
+49:09 um ChatGPT work where we're looking up
+49:11 um
+49:12 uh electrical code and you you have to
+49:15 know what you're doing a little bit to
+49:17 just fact-check on what it's feeding
+49:19 back to you.
+49:20 Yeah, it uh I do that quite a bit. I'll
+49:23 read something and say, "No, that's
+49:26 that's not correct." You know, uh
+49:28 I I was even asking ChatGPT to tell me
+49:30 about ChatGPT and the advances and
+49:33 things and it started referring to
+49:34 things in versions past and I was, "No,
+49:36 that's not what I'm asking." So, you do
+49:39 have to uh
+49:40 you do have to watch it. Now, that said,
+49:42 as I said earlier, it continues to uh
+49:45 improve at exponential speed. So,
+49:48 uh I suspect it's going to do nothing
+49:50 but get better.
+49:52 Um naive question, you say AI is free.
+49:54 However, do we need to download an app
+49:55 such as ChatGPT? Um ChatGPT is uh it's
+49:58 OpenAI as the platform and ChatGPT is on
+50:02 OpenAI's website and that portion is
+50:05 free. There are There is a paid version
+50:07 of that, which I pay for, um and that
+50:09 gives you some additional features. So,
+50:11 you can go check that out. And that's a
+50:13 good question. I do the same. I do the
+50:15 same. One of those features is the
+50:16 ability to peruse other websites. Um it
+50:19 can it can look for the websites that
+50:22 seem to satisfy its goals or you can
+50:24 give it websites to peruse. But one of
+50:26 those uh the idea of the of um expanding
+50:30 GPT-4
+50:31 to be able to do these other things only
+50:33 comes at the $20 a month subscription
+50:35 cost. But the uh the the basic GPT,
+50:38 ChatGPT 3.5, is um freely available.
+50:42 It's still
+50:43 all of them, I suppose, are still
+50:45 categorized as experimental. So, they're
+50:48 basically
+50:49 uh
+50:50 they're disclaiming their accuracy right
+50:52 off the bat, but uh but at least it's
+50:54 free disclaimed accuracy. Yeah.
+50:57 Um I'm going to stop on this slide
+50:58 because, well, one, I was trolling some
+51:01 people, but
+51:02 two was that I needed to do some image
+51:05 generation that had the same look and
+51:07 style. And so, part of image generation
+51:10 and and it actually
+51:12 anything that's AI-based is that we
+51:14 typically have a seed number. And the
+51:17 seed number is it's um
+51:19 think of it as a random path
+51:22 in search of your query along a model.
+51:25 Um but that random path has a static
+51:28 number and we can take that static
+51:30 number and generate a new prompt using
+51:33 that same static number, which would be
+51:35 a seed. So, I was able to generate two
+51:38 different images, but they are in a like
+51:40 style because I was able to generate
+51:43 them along the same seed within the same
+51:45 model. So,
+51:46 that's the point here is I wanted
+51:48 something that looked similar to the
+51:50 other.
+51:54 And then this is just showing the power
+51:57 of stable diffusion with ControlNet. Um
+51:59 and I think this is the future of
+52:01 architectural um
+52:02 ideation and renderings is we're taking
+52:05 a vector line drawing straight up from
+52:08 Chief Architect or a pencil drawing, if
+52:10 you want. Um
+52:11 and from there, ControlNet is the aspect
+52:14 of that that's that's making this work
+52:17 is those pencil lines become boundaries.
+52:20 And so, now we're fitting,
+52:22 you know, AI-based algorithms within
+52:24 those pencil lines. So, we have the
+52:25 basic structure intact here and we're
+52:27 generating images based on that pencil
+52:29 drawing. You you can see here, these all
+52:31 look pretty similar, but with completely
+52:33 different styles. And so, these are all
+52:35 different prompts, but they're using
+52:37 that pencil line drawing or vector line
+52:39 drawing as that control so that we're
+52:42 staying within those parameters.
+52:45 That and that's a really powerful setup.
+52:47 So, this is stable diffusion with
+52:48 ControlNet.
+52:49 And John, didn't you use stable
+52:51 diffusion to generate the background
+52:52 that we're you're sitting in front of
+52:53 right now?
+52:55 I did. It took a minute.
+52:57 Took a minute. Yep. Yeah.
+52:59 Let's Can we pin him up on this Yeah,
+53:01 yeah, we get him right here. There we
+53:03 go. Look at that.
+53:04 Yeah. Took 1 minute?
+53:06 1 minute. 1 minute. Yeah.
+53:09 This um I asked for cozy cabin and
+53:12 that's what it gave me. Cozy cabin.
+53:15 In the mountains.
+53:16 This is um
+53:18 this for me is is a big one and I know
+53:20 Dan uses something similar. Um this is
+53:23 Merlin and this integrates into um
+53:26 my Chrome web browser and Merlin does a
+53:28 ton of things. One, it will um
+53:31 you know, give me edits kind of like
+53:33 Grammarly does, but the other thing it
+53:35 is it will
+53:36 it will summarize a video even before
+53:39 it's done processing. And and these are
+53:41 just headings and then you have
+53:43 subheadings where it's actually, you
+53:45 know, describing what's happening there.
+53:46 So, as YouTube's transcribing the video,
+53:49 then Merlin is sitting there and,
+53:52 you know, accessing that transcription
+53:54 and then summarizing it for me. And I
+53:56 can then take these headings to create
+53:58 chapters in my YouTube video. But the
+54:01 kind of the greater aspect of this is if
+54:02 you're someone with a short attention
+54:04 span and you need to go look at a video
+54:05 and find a specific part of it very
+54:07 quickly,
+54:08 this Merlin extension is just doing that
+54:11 for me is I only wanted to see this one
+54:13 part of this video using image editing
+54:14 tools. All right, there you go. So,
+54:16 that's pretty good one.
+54:18 Merlin also helps me write emails. So,
+54:21 I'll tell it to paraphrase and and miss
+54:24 a couple prepositions and it'll do that
+54:26 for me.
+54:27 And then we're going to move through
+54:28 these slides pretty quick cuz we only
+54:29 got 5 minutes, but um
+54:31 digital AI upscaling, I use a
+54:34 application called Topaz Labs, but
+54:36 there's plenty of these kinds of
+54:38 applications out there where we're
+54:40 taking an image that this is kind of
+54:42 hard to translate on on a video feed,
+54:44 but this image is um
+54:47 it's a little fuzzy on the left and then
+54:49 it digitally is upscaled on the
+54:51 right-hand side. So, um and I'll give
+54:53 you another example of this. This is one
+54:55 of my favorites. This is a very, very
+54:57 old picture of my mom and I and then on
+55:00 the right-hand side, this is after it's
+55:02 been digitally upscaled. So, and this
+55:05 absolutely looks like me and my mom. So,
+55:07 it did a really good job here, um which
+55:09 is cool because
+55:10 I've been tasked with, you know,
+55:11 upscaling a bunch of old photographs of
+55:13 old family members now and and it's kind
+55:15 of a fun project.
+55:17 You asked for that one. Yeah.
+55:20 You know, I did. I volunteered for it
+55:21 and it happened on Thanksgiving and I
+55:23 was like, "Give me it. Uh you know, I
+55:24 want it. This is fun." So,
+55:27 um
+55:28 this video takes a little bit of loading
+55:29 to get going, but um this is showing not
+55:32 only can we digitally upscale imagery,
+55:35 but we can digitally upscale um
+55:38 videos as well. So, on the left-hand
+55:40 side, this is seven frames a second. And
+55:44 on the right-hand side, and even though
+55:46 it's glitching right now, this is at 50
+55:48 frames a second and it's um upscaled its
+55:51 resolution three and a half times.
+55:54 And on
+55:55 on top of that, done some color grading.
+55:58 And the part that's interesting about
+55:59 that is you didn't use the the source of
+56:02 the video. You used you used the video
+56:04 on the left and had it upscale that
+56:06 video. Yes. So, the video on the left
+56:07 was put through Topaz Labs Video AI,
+56:10 which is very expensive program, mind
+56:12 you. And then it it um interpolated in
+56:15 between individual frames. So, only
+56:17 seven frames a second, that's not much
+56:19 in a 10-second video, 70 frames. And
+56:22 then interpolated frames to add
+56:25 43 frames in between each second. So,
+56:29 that's pretty impressive. And it does a
+56:31 great job. So, you go from rendering for
+56:33 over 24 hours to suddenly you're just
+56:36 rendering in that takes me about 30
+56:38 minutes.
+56:39 And that particular application will use
+56:41 as many graphics cards as you can throw
+56:43 at it. So, I have three graphics cards
+56:45 on on one system. And so, it it
+56:48 just files through that so quickly. So,
+56:50 it's it's really impactful to get these
+56:53 short videos because you really don't
+56:55 see it on the market cuz it takes, you
+56:56 know, typically 24 hours to produce a
+56:58 video like that.
+57:01 And I know we're moving fast, as I'm
+57:02 just trying to fit all this stuff in
+57:04 here. Uh this is a
+57:06 um
+57:07 this is using outpainting, which you may
+57:09 have heard of um or not. The original
+57:12 image is actually cropped uh to about
+57:14 16:9. So, we don't actually see we only
+57:17 see a portion of this uh style right
+57:20 here and we don't see all these bottles
+57:22 on the left right where it's fuzzy. So,
+57:24 this is um
+57:26 generatively outpainting additional
+57:28 pixels outside of the original image.
+57:31 So, it's using AI to figure out, "Hey,
+57:33 what might be there?" And then on top of
+57:36 that, it's using a neural network to
+57:39 fake a bokeh effect, whereas this was
+57:41 shot with an wide-open aperture. We're
+57:43 shooting at F22 and now it looks more
+57:46 like F1.4 F stop 1.4 where we've got
+57:49 this bokeh in the foreground and we're
+57:52 got a laser focus on the background. So,
+57:54 this is an old image that's being
+57:55 brought back and and kind of being
+57:57 introduced as, you know, a
+57:59 new habit in imagery.
+58:06 Again, what was the app or program John
+58:07 used for this cozy cabin? Uh he used
+58:10 Midjourney stable You used stable stable
+58:12 diffusion. Stable diffusion, yeah. Just
+58:14 the free version. I just tried it when I
+58:16 saw it today. So. Okay.
+58:19 And uh this one's a funny one for me.
+58:21 So,
+58:22 we now have generative facial um
+58:26 uh gestures,
+58:28 believe it or not.
+58:30 And this is subtle. This is very subtle,
+58:32 but you can see here I have a very
+58:33 crooked mouth and so, the neural
+58:35 networks don't know that about me from
+58:37 one image, you know, they're they're
+58:38 only guessing, but I told it to make me
+58:40 smile maybe just a little bit more and
+58:43 then
+58:44 you can see it just kind of lifted one
+58:46 side of my cheek a little bit and showed
+58:49 a little bit more of my teeth, which
+58:50 don't quite look like that. I have more
+58:52 bunny-looking teeth, but this is pretty
+58:54 funny because you can um on the fly, you
+58:57 can make someone smile or frown or look
+59:00 shocked or surprised. And this is how
+59:03 this is how the uh what you're seeing
+59:05 just, you know, pummelling you on
+59:06 Facebook where it's showing how you can
+59:07 take any image and make the dancing baby
+59:09 or whatever. Uh this is how that's done.
+59:11 Exactly.
+59:12 So, you know, and this is only getting
+59:14 better over time. So, it's funny, you
+59:15 can take an image of you where you're
+59:17 not smiling in a photo and make you
+59:19 smile all of a sudden.
+59:20 So, keep frowning in your photos, you'll
+59:22 be just fine. It's going to work well to
+59:24 correct those family photos that, you
+59:26 know, you've always got one person
+59:27 that's looking the other way or
+59:29 whatever.
+59:29 Yeah, exactly.
+59:32 Uh there's just another point to that
+59:34 link that you can look at the slideshow
+59:35 if you'd like and
+59:38 And I think we made it. Yeah, I think we
+59:40 made it. Cool.
+59:43 Um, are we out of time?
+59:45 We're almost there. I was going to see
+59:47 Look at this. I got a truck.
+59:53 I got some trucks there. There we go.
+59:55 That's good. That's exactly what I was
+59:56 looking for, Renee.
+1:00:00 Did you mean a really big truck? Yeah, I
+1:00:02 guess I needed to specify, huh?
+1:00:07 That's good. Uh
+1:00:10 Isabella asked a question if any of us
+1:00:12 do workshops. You want to just go over
+1:00:14 the the trainings we have coming up
+1:00:16 again? Yeah, absolutely. So, from a from
+1:00:19 a technical chief architect standpoint,
+1:00:22 we have um
+1:00:23 a a couple of workshops in Minnesota in
+1:00:25 December. Those are
+1:00:27 um on the 11th and 12th for intermediate
+1:00:30 uh study and and on the 13th and 14th
+1:00:33 for advanced or stay for all four days
+1:00:36 if you choose.
+1:00:37 Um
+1:00:38 So, those those are are very quickly
+1:00:41 those are specifically chief architect
+1:00:42 and are the traditional training that we
+1:00:44 have done periodically.
+1:00:47 We also have um
+1:00:49 our summit that comes up in in uh
+1:00:52 in March, March 1st to the 10th, which
+1:00:54 is out on the Outer Banks in at a very
+1:00:56 beautiful event home, um 24 bedroom home
+1:01:00 or something like that. Uh that works
+1:01:02 quite well for those events and that's
+1:01:04 coming up March 1st to 10th. That's a
+1:01:06 deep immersion into everything having to
+1:01:09 do with uh architectural design from
+1:01:12 chief architect, the business of design,
+1:01:14 advanced uh technologies, everything you
+1:01:16 can think of, plus a lot of one-on-one
+1:01:18 time with anybody that you choose.
+1:01:21 Um in addition, uh John offers his
+1:01:23 services as part of Imagine Design to
+1:01:26 both coach on uh Chief Architect and
+1:01:28 also to provide um drafting services.
+1:01:32 Renee offers his services for everything
+1:01:35 from advanced rendering to education to
+1:01:38 uh to uh casual conversations about
+1:01:41 irrelevant life. Um
+1:01:45 I offer my services to mentor uh small
+1:01:48 businesses, whether they are uh interior
+1:01:51 design, architectural design, or
+1:01:54 other uh and help learn some of the
+1:01:57 things that that I've learned over the
+1:01:59 past uh two and a half decades as a
+1:02:01 design-build um
+1:02:03 uh owner. And um that is the four of us.
+1:02:08 Dan, of course, you know what he does.
+1:02:10 Um
+1:02:11 So, yes, please contact any of us as you
+1:02:14 see fit. We'd love to
+1:02:16 uh talk with you about whatever your
+1:02:17 needs are and see if we can help.
+1:02:21 And again, we saw a lot of new names on
+1:02:22 here today, so welcome everybody. Hope
+1:02:25 to see you again.
+1:02:26 That's great. We had a nice crowd today.
+1:02:28 We had a nice crowd.
+1:02:30 Good talking to everybody. Are we ready
+1:02:32 to wrap up? We are. Okay. Bye,
+1:02:34 everybody. Thank you for your attention.
+1:02:35 We'll see you next time. Have a Have a
+1:02:37 good uh What is it? We're going to have
+1:02:39 a good holiday? No, we're having another
+1:02:41 one. We've got another one on the 18th,
+1:02:42 I think. Yeah. Yep. Yep. Yep.

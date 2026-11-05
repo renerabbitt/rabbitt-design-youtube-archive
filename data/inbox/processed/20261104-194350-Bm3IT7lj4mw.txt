@@ -1,0 +1,1233 @@
+Title: Learning Python To Automate Redundant Project File Organization. Day 1
+URL: https://www.youtube.com/watch?v=Bm3IT7lj4mw
+Visibility: public
+
+0:09 I'm live sweet no one's going to be here
+0:12 I just decided to do this impromptu so
+0:16 you're watching this because it was
+0:20 recorded but maybe we'll get some people
+0:22 hanging out um I'm sure that no one
+0:26 will really come in here until they see
+0:30 the cool things I think that I'm going
+0:32 to
+0:33 do and and that's said with utmost
+0:38 confidence uh but really I don't know
+0:39 what I'm doing um I'm messing around
+0:41 with python I had some small success
+0:44 with this because chat GPT treated me
+0:48 like a little baby and took me step by
+0:51 step to do something and it worked so
+0:54 I'm assuming that I can do something
+0:56 similar this go around um
+1:00 and here's the end
+1:02 goal when I have a project someone sends
+1:05 me a plan file and I'm going to and I'm
+1:06 going to do collaborative work with them
+1:10 and um if you've ever caught any of my
+1:13 other videos about the topic of you know
+1:16 our human brain and brain and how fast
+1:19 we process images versus text and I mean
+1:22 there's a number out there it's 60,000
+1:24 times faster so I already knew that
+1:27 about myself I process images way faster
+1:29 so folders I want folder
+1:32 icons so that's one thing I want folder
+1:35 icons on every folder that I navigate to
+1:37 frequently next is that I have a
+1:40 particular workflow where someone sends
+1:43 me a plan file and I'm looking at it
+1:46 whatever I'm I'm playing around with it
+1:48 it goes into a folder I call send and
+1:50 delete okay and and I have a NAS drive
+1:53 and I have a cloud-based send and delete
+1:55 so either one and what that means is
+1:58 that I'm okay to to delete everything in
+2:00 these folders and I'm not going to miss
+2:02 anything but occasionally that plan file
+2:04 moves into a project folder and so my
+2:07 project directory you can see what it
+2:08 looks like I have to generate a new
+2:11 folder I want to generate an icon apply
+2:15 it to the folder I want to generate a
+2:17 folder within that folder that's meant
+2:19 for sharing on um Dropbox because if we
+2:23 share the root file it changes the
+2:25 folder
+2:26 icon um and then within then I want to
+2:29 say
+2:30 a
+2:31 project um name folder and then I want
+2:35 to put that plan file into a new folder
+2:38 that's backdated and copy it into
+2:41 another folder that's the current date
+2:43 with the current design version
+2:45 iteration project name and a suffix
+2:49 that's my
+2:50 initials I do that for every project and
+2:55 yeah maybe it takes 10 15 minutes but
+2:57 wouldn't it be great if it took two
+2:59 seconds
+3:00 so moved over to chat
+3:02 GPT
+3:04 and found a um if you have GPT plus you
+3:08 can get custom gpts is what they're
+3:12 called very unfortunate nomenclature go
+3:14 try searching for gpts and you're going
+3:17 to find everything regarding chat GPT
+3:18 it's dumb but regardless um I found a
+3:22 GPT that is for python scripting for
+3:25 beginners hello me never done it before
+3:29 but I've been scripting in Mac um Ruby
+3:31 for a while now using chat and I've been
+3:34 successful so hey maybe we can do it in
+3:36 Python and be successful I know enough
+3:40 um to know a few things and one is that
+3:44 I need to set up um working directories
+3:49 where I'm going to be able to specify
+3:53 within python directories that will
+3:55 never change no matter what system I'm
+3:57 on so that I can use whatever I create
+4:00 across all systems and maybe even
+4:02 distribute what I use who
+4:04 knows so here's the thought in my C
+4:07 drive I think I'm I'm going to name
+4:10 everything
+4:11 lowercase soon as you start naming
+4:13 things sentence case I notice that when
+4:15 you get into certain scripting languages
+4:17 sentence case really becomes a problem
+4:20 you have to downcase everything in
+4:22 coding speak in order to search for a
+4:25 particular file name Etc so I know I
+4:28 just want to keep everything as
+4:29 lowercase
+4:30 and then here we go I've got C drive
+4:34 convert job folder generator and I've
+4:37 got a pi file here and so here's the
+4:39 thought and I'm going to um explain the
+4:42 hotkeys I'm using as I'm using them so
+4:46 um and I'm in a Windows operating system
+4:48 so this is all windows
+4:51 specific if you didn't know already I
+4:54 have uh power toys which was developed
+4:58 by some of the people at Microsoft
+5:00 power toys enables fancy zones fancy
+5:03 zones allows me to drag this folder
+5:05 around and dock it to zones that I've
+5:07 created very easily um and then so I can
+5:10 do contrl n to get me a new Windows
+5:12 Explorer window and dock it over to the
+5:15 right here I like to be able to drag
+5:18 stuff back and forth so here's my
+5:20 thought I'm going to just grab a plan
+5:22 file here and we'll just copy it over I
+5:24 held control while I brought it over
+5:27 that makes a copy as opposed to moving
+5:29 it
+5:30 and then I need an image file um perfect
+5:34 so hold control there we go so what
+5:37 Jen python does is my first attempt at
+5:41 scripting I think what it does and we'll
+5:44 see is that it looks in its current
+5:47 folder for a plan file it looks in its
+5:49 current folder for an image file let's
+5:52 just try it I'm going to double click it
+5:54 enter the client's name for this folder
+5:56 okay so I'm going to close that down I
+5:59 know that that
+6:00 the permissions of python become
+6:04 different when you run the python script
+6:07 versus running a com uh the python
+6:10 script from a command prompt this is
+6:13 already Beyond me so if it feels like
+6:15 it's beyond you yeah I'm with you but
+6:18 I've done a little bit of things in
+6:19 command before namely I followed
+6:21 someone's instructions on how to even
+6:23 use it so I just hit the Windows key
+6:25 typed in CMD that brings up command
+6:27 prompt I'm going to rightclick it run it
+6:29 as administrator okay um I'm not going
+6:32 to be able to zoom in on all these
+6:34 things because um I can't zoom in on
+6:37 everything because some of the stuff is
+6:38 system stuff that we can't zoom in on I
+6:40 don't think let's test it yeah I can't
+6:42 zoom right now so unfortunately you're
+6:45 going to see it at whatever resolution
+6:46 your screen's at so I know that I can do
+6:50 uh let's see change directory C colon
+6:54 backlash and we called this folder
+6:57 convert and hopefully you name your
+6:59 thing very simply so you remember them
+7:01 but there we go
+7:03 job and everything has to be perfectly
+7:06 written right or it doesn't
+7:09 work so I think I just there we go so
+7:12 now I'm in convert job folder generator
+7:16 perfect from here I get to
+7:20 say I think I get to say um
+7:24 Python and then in
+7:26 quotes
+7:28 J.P
+7:30 quote and that's the name of my python
+7:33 script and so when I hit enter there we
+7:36 go and it prompts me to say enter the
+7:39 client's name for this folder and let's
+7:42 just go
+7:44 James and enter the project name
+7:47 worthy so here's where it does some
+7:50 magic and let's go see what it did
+7:53 it it took this
+7:56 image it cropped it to a square and made
+8:01 it 256x
+8:03 256 it converted it to an icon it saved
+8:07 it where I keep all of my icons in
+8:10 another
+8:11 directory and then it generated a
+8:16 folder so so it's folder's name is James
+8:20 inside of there is rabbit design portal
+8:22 which is what I would be saving on on
+8:24 you know I'd be sharing that from
+8:25 Dropbox to my client so that's what they
+8:28 see and then here's the project name
+8:31 worthy which we just generated and then
+8:34 I've
+8:35 got backd one date right the 20th was
+8:39 yesterday so it's back data this is what
+8:41 we received from the client right and
+8:44 then forward date with my naming
+8:46 convention year year monthmonth DayDay
+8:50 design review a version one Worthy is
+8:53 the job name RR is my initials and now I
+8:57 get to oh so it missed one thing should
+8:59 have had it should have had this file
+9:04 here as well so that I could just start
+9:06 working on that and that's going to be
+9:08 the new
+9:09 version I need to take this a step
+9:11 further and say that it's going to none
+9:13 only is it going to copy whatever this
+9:15 file is but it's going to add
+9:18 dashn or rather - AB make a copy of it
+9:22 again
+9:24 dashn
+9:26 so there's the thought
+9:29 um someone's asking it will write your
+9:31 code for you yes it will so let's just
+9:34 look at let's look
+9:36 at what I'm getting in chat GPT so I'm
+9:39 going to go back a few steps because we
+9:41 need to fix a few things so let's
+9:45 see and so I'm going to tell it let's
+9:47 fix a few things well here maybe I'll
+9:49 talk it
+9:52 out let's fix a few things first I moved
+9:56 the directory to C
+10:00 drive and then within a folder called
+10:02 convert and then within a folder
+10:05 called folder
+10:09 generator the Python's file name is gen.
+10:15 py and we need to fix a couple of things
+10:18 when we make the backdated
+10:21 folder that's great but then when we
+10:24 make a copy of that into my new named
+10:28 convention folder I want to change the
+10:30 name of the plan file by adding a dash
+10:36 ab and then copy it
+10:40 again
+10:41 and replace the- AB with a
+10:46 dashn this should all be
+10:49 lowercase except for the first letter of
+10:54 the plan file
+10:58 name
+11:00 so I've got a running dialogue that I've
+11:03 got with chat GPT and and so this is a
+11:06 python script generator I don't know who
+11:08 generate I don't know how created this
+11:11 um there's probably a way I could copy
+11:14 the there we go I could copy the link to
+11:17 this I don't know if copying the link
+11:20 copies the link to the generator or if
+11:22 it copies the link to um my particular
+11:26 script either way I don't care you guys
+11:28 can have it
+11:29 so I'm going to post this in the
+11:34 comments I'm not sure where that takes
+11:36 you but try it out if you have chat gbg
+11:38 plus if you don't I don't think it
+11:42 works so this is it writing the script
+11:45 form me now some chat gpg stuff is great
+11:49 in the in the sense that it even gives
+11:50 you a way to automate the python script
+11:52 itself this isn't going to do that I
+11:55 have to go in and edit it myself so I'm
+11:57 going to come in here to the top and hit
+11:59 copy code okay and I don't even bother
+12:02 looking at this to learn from it I will
+12:05 once I start hitting issues but I'll
+12:07 keep just copy pasting Etc back and
+12:09 forth to kind of run into those issues
+12:11 naturally and then learn from that if
+12:14 that makes sense so coming back to this
+12:18 folder I'm hoping that I named
+12:19 everything correct first of all I'm
+12:21 going to cut this so contrl X go back a
+12:23 few
+12:24 levels so that I
+12:28 have
+12:31 um job folder generator is what I called
+12:33 it but we should just call it folder
+12:35 generators fine but maybe job folder
+12:37 generator is better
+12:40 um oh but no it's important it's
+12:42 important that we get that right so for
+12:44 now let's change it to folder generator
+12:46 because that's what the Python scripts
+12:48 wants to see
+12:50 now uh and I have something open in
+12:53 command
+12:55 prompt so I had to close that in order
+12:58 to change the name so
+13:00 J.P I know this is hard to see um but
+13:03 this is what I'm going to rightclick
+13:05 open with and open in I like using
+13:07 notepad++ I think that works real well
+13:10 so I copied the code I should be able to
+13:12 contrl a and contrl
+13:14 v and hopefully something
+13:17 changed I I don't know that it did uh
+13:21 let's try this again let's just make
+13:22 sure I got it for sure let's copy the
+13:24 code here and CR a contrl v there we go
+13:29 definitely look like something changed
+13:31 there and I just like to test it try it
+13:34 why not it's not hurting anything to
+13:35 just try it so let me come back to where
+13:39 this lives let's expand this window a
+13:42 little bit so you guys maybe can see I
+13:44 know this is so hard to see maybe I'll
+13:47 I'll change my scaling my display
+13:49 setting
+13:50 scalings let's pump this up to like
+13:54 150 there that's big that's a lot bigger
+13:57 there we go
+14:02 so here we go we got gen not Pi we want
+14:04 to get rid of James we've got our test
+14:07 image
+14:09 um I'm holding control and mouse
+14:11 wheeling up to change the size of these
+14:13 by the way Mouse wheel down Mouse wheel
+14:15 up right so while holding control my
+14:18 control button on my
+14:19 mouse so here's my test image that's
+14:22 what I want to crop I want to duplicate
+14:24 this um let's actually just reame this
+14:28 example
+14:29 and
+14:30 then here's my Pi I'm going to hit run
+14:34 command or CMD here's my command prompt
+14:38 I'm going to do it um outside of
+14:40 administrative privileges just see if
+14:41 that works and then here's where I'm
+14:44 going to change directory and get to
+14:47 this folder directory now I know I can
+14:50 just come in here in the address bar
+14:51 copy it take it back to their CD
+14:55 paste right or I don't even think you
+14:58 need to hit CD I think you just could
+15:00 paste but there we go now we're in our
+15:03 directory now this is when I get to go
+15:07 Python and
+15:09 then gen dopy and let's see what it does
+15:12 this
+15:14 time enter client's folder name so let's
+15:17 pick a new person's name who do we got
+15:21 Steph and the project name
+15:25 Curry and we've got an error this time
+15:31 so if you're in this you're in it for
+15:33 the long haul because I fight errors for
+15:36 hours um because in the end this is
+15:40 going to save me I don't know I feel
+15:43 like it might save me $1,000 on the year
+15:47 that's significant so if I
+15:49 spend you know an $1,000 with an hours
+15:53 developing it well I'm in a net zero
+15:55 after one year but I'm gaining every
+15:58 every other year right let's let's say
+16:01 if we think of everything in a 10-year
+16:03 term I save n Grand if I figure this out
+16:07 wonderful so and then on top of that
+16:10 hopefully you're investing that and
+16:12 making some kind of percentage back I'm
+16:13 not right now someone shoot me in the
+16:15 dang foot what are you doing with your
+16:17 Investments uh okay moving
+16:21 on uh what happened here enter the
+16:24 project
+16:27 converge I like to read this just to see
+16:29 if I can see anything wrong with it but
+16:31 the simple thing is just to take this
+16:33 and bring it back to chat
+16:36 GPT and hopefully it figures out what
+16:39 the problem
+16:49 is so sometimes I've noticed that um you
+16:53 have to install some python package
+16:55 called pillow and then update it and a
+16:58 lot of the GPT python scripting is using
+17:03 an old version of pillow I don't even
+17:06 know what that means but I know that
+17:08 that's the problem I run into so
+17:10 sometimes you got to tell it that yeah
+17:11 yeah I want an updated version of pillow
+17:14 for what that's
+17:16 worth um this is all foreign language to
+17:18 me someone comes in here and they know
+17:20 python cool teach me a few things but I
+17:23 also don't think like I'm going to
+17:25 retain anything all that well first time
+17:27 around let's go see what it did it did
+17:29 create Steph it did create
+17:32 Curry there's just no plan file in there
+17:36 yeah there's no plan file in
+17:39 there plan file is still here so let's
+17:42 get rid of that and then let's go see
+17:45 what it did
+17:47 here so sometimes they the
+17:52 um yeah you have to read through this a
+17:55 little bit because you'll catch stuff
+17:57 like this process for setting an icon
+18:00 Remains the Same and so I can't tell if
+18:04 that is a place marker text and there's
+18:07 missing code here or
+18:10 not so sometimes you have to just learn
+18:14 when it's giving you notes that it's
+18:15 it's like Place Mark text meaning like
+18:18 it's only giving you a partial
+18:20 code that's annoying so you got to tell
+18:23 it don't give me any place marker text
+18:24 give me the entire code so here we go we
+18:27 get to come back to our python script
+18:30 paste this in control so I just did
+18:33 contrl a contrl v Victor control s for
+18:37 Save and then I can alt tab back to my
+18:41 folder generator window or in this case
+18:43 my command prompt and I can try to
+18:46 execute this again um and if you save
+18:49 this that makes it even faster right so
+18:51 python gen.
+18:54 py
+18:56 and I think I can Mouse over this and
+18:59 copy
+19:01 yeah and then I think I just get to hit
+19:03 enter okay try Steph Curry
+19:12 again and so it acted like it did
+19:14 something right but I don't see a new
+19:16 image now sometimes the icon is not
+19:18 updated here and you have to hit a
+19:20 Refresh on Explorer or you have to
+19:23 restart Explorer in this case doesn't
+19:26 look like it did it Alt Enter gets you
+19:28 into
+19:29 folder settings and customize gets you
+19:31 to change icon and we can see here that
+19:34 it didn't actually do anything here but
+19:37 let's see if it generated step and it
+19:39 did not so it didn't generate the icon
+19:40 so that's one
+19:42 problem next let's go look through this
+19:46 there's our example plan it didn't add
+19:48 my- ab and oh it didn't need to but it
+19:52 did it here this is fantastic oh man
+19:56 this is going to save me so much time
+19:58 infr
+19:59 I hate tedious things that are redundant
+20:02 let's automate everything that we do
+20:04 that's redundant so this is awesome it
+20:07 gave it left the original file in a
+20:09 backdated folder that was given to me
+20:12 and then it brought in as built and new
+20:16 so I get to just start picking up and
+20:18 drafting from new I can't tell you how
+20:22 that's exciting it's really exciting so
+20:25 now we just got to figure out the icon
+20:27 generation after that
+20:29 I want to be able to make an executable
+20:31 from this which means that's a program
+20:33 right so that I can actually give
+20:35 someone else the program now keep in
+20:37 mind they would need to have the same
+20:39 folder structure for where I'm keeping
+20:41 my icons for it to work but that's not
+20:43 the end of the world and in fact I think
+20:45 my folder structure is really great I
+20:47 keep my icons in um my user profile so
+20:53 percentage sign if if you didn't know
+20:54 this let's just hit control n and you
+20:58 user profile if you hit percentage sign
+21:00 user profile percentage sign that's
+21:03 going to take you to your main directory
+21:06 so I could do
+21:08 instead user profile percentage sign and
+21:12 I think it's a backs slash and go assets
+21:15 back SL
+21:17 images
+21:19 icons and that's where I keep my stuff
+21:22 right
+21:23 there user profile percent sign assets
+21:26 images icons if I hit enter there we go
+21:29 takes me to those
+21:30 icons
+21:32 um although why are there no other icons
+21:35 here would be
+21:41 interesting
+21:43 interesting oh shoot
+21:46 assets images
+21:49 interesting it's not bringing me to the
+21:51 correct location here this is
+21:54 where okay so it's making icons in the
+21:57 wrong location so I have to correct
+22:10 it
+22:12 huh wonder why oh I'm missing the the
+22:15 one drive piece of
+22:17 this the one drive assets images I got o
+22:21 oops so let's see if we can get to this
+22:24 just by user profile see little errors
+22:28 and then back
+22:30 slash1 capital D drive so much easier if
+22:34 everything's
+22:36 lowercase assets images
+22:40 icons I want to copy this because we're
+22:42 going to put it in that python
+22:46 code enter okay so I need to correct the
+22:51 location correct the
+22:53 location and then so we're back in
+22:56 Python uh and I'm going to
+22:59 say Windows key H dictation
+23:06 uh everything worked except for the
+23:09 image generation also I need to correct
+23:11 the directory of where I Sav my icons
+23:15 because I gave you the incorrect
+23:27 directory
+23:44 and I'm just going to stop it real quick
+23:46 and just say I haven't read well let's
+23:51 just your
+23:53 response but I just want to let you know
+23:55 that the pillow directory
+23:59 is updated to the most current version
+24:02 if that makes a difference for the icon
+24:20 generation boop boop um you need a lot
+24:23 of patience to do this you do but you
+24:27 know those those numbers I gave earlier
+24:29 that's
+24:30 big if I if I really were to test I
+24:33 should time myself on how long it takes
+24:36 me um to create these folders because I
+24:41 think it's at least 15 minutes and if
+24:44 I'm if I'm looking at 300 jobs a
+24:47 year yeah do the math and this only
+24:51 takes two minutes versus 15 minutes I'm
+24:54 saving 13 minutes on 300 jobs a year do
+24:57 that by four don't make me do math 75 75
+25:02 is the number I just don't know what 75
+25:06 means 75 hours is that what that is I
+25:09 can't be
+25:10 right 750 hours I don't
+25:14 know someone do the math for me I'm G
+25:18 ask chat GPT to do the math for me all
+25:21 right so let's get back to see if it
+25:23 works this
+25:25 time so again that was um copy code
+25:30 contrl tab to get to notepad++ crl a
+25:33 contrl V and then contrl s and then uh
+25:37 alt Tab and we'll get back to our
+25:42 section here I want to come in and grab
+25:45 this example so crl X to cut it come
+25:48 back to folder generator contrl V to
+25:50 paste it let's get rid of stuff so for
+25:54 those that are just joining we're
+25:55 writing a python script that eventually
+25:57 hopefully will be become a
+25:59 program that
+26:01 is taking this
+26:05 plan putting into folder of my
+26:07 designation copying it forward to
+26:09 another folder of my designation adding
+26:12 some um additional info so that I can
+26:16 start a project and then taking this
+26:18 image cropping it creating an icon
+26:20 putting it on the main folder in a short
+26:23 version you have to go back and watch
+26:24 from the beginning of this video which
+26:28 is
+26:31 maybe a lot to ask of people um all
+26:34 right so let's try this
+26:36 again now I have clipboard history
+26:38 turned on Windows key clipboard history
+26:41 if you didn't know this one and turn
+26:43 that on and then what that means is in
+26:46 my command prompt here I can actually
+26:49 hit Windows key V and find that python
+26:52 gen Pi there we go so I'm executing my
+26:55 python script which is called gen
+26:59 p
+27:02 and hopefully everything was fixed in
+27:04 this version let's
+27:06 go uh we need a new
+27:09 name not going to keep using B
+27:12 basketball star
+27:13 names Sarah
+27:19 Silverman name move plan is not defined
+27:23 name it move so that's kind of the same
+27:25 issue that we had before
+27:30 that it needed to
+27:31 fix so I'll post the error and then on
+27:35 top of that remember that this version
+27:40 worked
+27:41 for that error but
+27:46 didn't create
+27:49 icons and I will paste a previous
+27:52 version that worked which was this
+27:57 one
+28:02 and hopefully that'll do a better job
+28:04 because I don't know what exactly
+28:07 happens in chat PT but it does not have
+28:09 a memory through the entire thread you
+28:12 could post a link of the entire thread
+28:15 back to itself to maybe create a memory
+28:18 but I think it only contextually figures
+28:22 things
+28:23 out maybe
+28:25 one one interaction back right and
+28:29 beyond that it forgets which is really
+28:32 frustrating it's not like having a real
+28:33 conversation where you know contextually
+28:35 we we remembered what we just said five
+28:37 minutes ago so we're building on that
+28:39 chachy doesn't do that um so that's
+28:43 that's kind of a problem here I'm not
+28:45 even going to read what it's saying I'm
+28:46 just going to try it again so I'm going
+28:48 to do a copy code come over here bang
+28:50 bang s copy command prompt and
+28:56 then we're going to get to that we can
+29:00 even pin this so pin this one there we
+29:03 go and before I do that I want to make
+29:04 sure I need might need to clean up some
+29:06 stuff
+29:07 here let's just get rid of everything
+29:09 else looks
+29:10 good and let's hit it
+29:17 again s not recognizing an internal
+29:23 oh indentation error exp an indent block
+29:26 after function okay
+29:40 interesting if I knew python probably be
+29:43 easy to just make a couple Corrections
+29:44 and then bam go from there
+29:54 but this isn't my GPT cuz when I write
+29:58 my own gpts I like it to include a bunch
+30:01 of notes in the scripting because you
+30:04 can do in Ruby we can do a hashtag
+30:07 before a line and that indicates that
+30:09 it's a note it's not an ex executable
+30:12 line of code and so the notes end up
+30:14 telling me what every section does so
+30:17 that I can better understand it when I'm
+30:18 looking through it so that I might be
+30:20 able to see what's wrong in the
+30:23 code because I'm good at directing I
+30:25 just don't know the methods execution or
+30:28 you know path and
+30:30 approach to
+30:32 take I'm I'm like a python
+30:38 manager okay let's get back to this
+30:41 nothing changed here so we should be
+30:43 able to do this one more
+30:45 time might be moving too fast I should
+30:48 check a couple
+30:52 things all
+30:55 right this is good so far what we
+30:59 got
+31:02 okay so we got the folder it's there we
+31:05 did not get the icon generation again
+31:09 and I might want to elevate the command
+31:14 prompt let's browse let's see
+31:18 did um Sarah show up Sarah showed up so
+31:23 it generated an icon at some point in
+31:24 one of
+31:26 these sometimes
+31:30 so it has some kind of permission
+31:32 issue so maybe it's an elevated command
+31:35 prompt and everything
+31:37 else there's my example
+31:41 plan right and then let's go to the
+31:44 other folder there's my example a
+31:46 example n perfect so everything was done
+31:50 icon was
+31:51 generated so the so this is a
+31:54 permissions issue so let's try it
+31:56 again
+31:58 with elevated permission so contrl X
+32:01 come back to here paste get rid of this
+32:05 and
+32:07 let's close command prompt
+32:11 down and right click run this
+32:21 administrator see if I can just go
+32:26 C can I just do that no okay so change
+32:29 directory
+32:36 see um folder gen gen folder folder
+32:40 generator
+32:41 folder
+32:44 generator bam someone's come cutting
+32:48 down a tree I can hear it just fell
+32:50 down uh okay
+32:54 so we have this all set up yeah we do
+32:59 where's my little
+33:03 pinned I think this is the pinned
+33:05 section no it's
+33:08 not what's the point of pinning
+33:10 something if you can't just see all the
+33:11 pins right away that's
+33:16 interesting huh all
+33:26 right yes
+33:33 check
+33:34 refresh still didn't
+33:38 get still didn't get the
+33:40 icon on there even
+33:44 though guess was
+33:48 created man so
+33:54 close right and I just applied it and
+33:56 it's not showing up immediately but you
+33:57 have to refresh so that's what it would
+33:59 look like and so that I'm what I'm
+34:01 usually doing there is screen clipping
+34:04 someone's um company logo and so that
+34:08 just helps me pick it up right away so
+34:10 we know all this other stuff is working
+34:12 contrl X bring this back to folder
+34:13 generator so let's come back to the
+34:15 python code
+34:18 and and maybe it helps to Let's copy
+34:22 this code and explicitly State this code
+34:26 works perfectly
+34:29 it let me just control h or Windows H
+34:33 generates the icon it puts it in the
+34:35 correct folder it does everything I want
+34:38 with all folders the only thing it does
+34:40 not do is apply the icon to my root
+34:47 folder and I am running this in an
+34:49 elevated command prompt and executing
+34:51 the python script from that command
+34:56 prompt
+35:25 and I almost want to take it back to
+35:28 a previous script that worked fine and I
+35:31 probably should have kept that because
+35:33 now I got to go search
+35:36 through I had to have to go search
+35:38 through
+35:40 my my history with this particular setup
+35:45 unless did I make a copy here was I
+35:47 smart enough to make a copy no I wasn't
+35:50 dummy big
+35:54 dummy oh
+35:56 although
+35:58 ha um we
+36:04 could we could bring it back from
+36:07 Dropbox because essentially it's just in
+36:10 dropbox's trash or just go look through
+36:12 my
+36:18 history what's CL Claude what's Claude
+36:22 2 I don't know what Claude 2
+36:26 is
+36:28 what's Claude 2 I want to know I just
+36:31 immediately think of John Claude
+36:39 vanam anthropic claw to talk to
+36:44 CL I love when people post this David I
+36:47 love when people you know send me to new
+36:56 things
+37:02 and a longer memory you had me you had
+37:06 me at Claud
+37:15 2
+37:17 okay so we should learn how to code with
+37:20 Claude um is this a is this a free thing
+37:24 what is what's the deal
+37:26 here
+37:28 continue oh man you got me signing
+37:38 up okay Claude uh oh publicly publicly
+37:42 GNA give my number out people some
+37:44 spammer is going to call
+37:50 me got to get
+37:53 my what's my verif verification code
+37:56 offline
+38:02 here okay okay hello I'm
+38:06 claw what an unfortunate name
+38:22 Claude yeah
+38:25 yeah you should never record yourself um
+38:29 clicking an acknowledged button
+38:36 publicly yeah yeah uhuh I got you Claude
+38:39 give me give me what you want all
+38:43 right I'm working on a python script and
+38:46 so far it's working pretty well except
+38:48 for one detail this python script as you
+38:51 could see is going to generate um some
+38:54 folders to my specifications and it's
+38:56 going to gener generate an image icon to
+38:58 be applied to the root folder but for
+39:01 some reason it's not applying to the
+39:03 root folder it's generating the icon as
+39:06 I intended and it's putting the icon in
+39:08 the correct folder location to never be
+39:10 moved but it's never applying that icon
+39:13 to my folder everything else is
+39:16 absolutely
+39:21 correct David's over here laughing you
+39:24 see
+39:26 this
+39:32 nice yeah there you go I I pulled it off
+39:34 the screen I swear no one no one should
+39:37 ever see
+39:38 that all right so where was I I need to
+39:41 get to need to get to
+39:46 this okay this is the one that worked
+39:48 this code worked perfectly yeah so we're
+39:50 going to copy this over to Claude we'll
+39:53 see what Claude does see if he's a
+39:56 Claude or not
+39:58 your
+40:20 Claude H
+40:25 okay okay so we're going to give it a
+40:27 little black backstory here um I like to
+40:30 just skim and then keep going I I don't
+40:33 feel like I ever get the correct answer
+40:35 first
+40:36 so
+40:38 um so first up I want to be let's see
+40:42 remove lines use
+40:45 attrib let's just tell it I am running
+40:48 this as an administrator in a command
+40:51 line prompt so I'm executing the python
+40:54 from a
+40:56 command
+40:58 uh console with administrative
+41:03 privileges does that change anything for
+41:05 your end script and please give me an
+41:07 entire script to
+41:09 utilize the end goal of this will to
+41:13 be it will be to uh generate an
+41:17 executable file once we prove that the
+41:20 python script works as
+41:26 intended
+41:29 all right Claude let's go and and is
+41:32 there a limit to how much I get to talk
+41:35 to Claude that's my next question what's
+41:38 Pro how much does Pro
+41:40 cost so it's giving me a complete
+41:49 script okay so it said it should have
+41:51 worked well it didn't and then it's
+41:54 giving me a new
+41:56 script
+41:59 interesting that it's saying P installer
+42:01 one file your script oh the P installer
+42:03 one file your script I already know what
+42:05 that is that's generate an executable
+42:07 I'm not there yet so we're going to
+42:08 figure out if this works
+42:10 first so we'll copy
+42:14 code
+42:17 bam save it and then where are we folder
+42:21 generator here's
+42:24 our oh no that's my other
+42:27 folder generator there's that that and
+42:32 that okay this is all set up command
+42:36 line prompt is Administrator Command
+42:38 Prompt
+42:41 yep window kyv how do you keep track of
+42:44 all this stuff man you really got to get
+42:45 into like a a flow state to get going on
+42:55 this no module name
+42:59 32 probably means I need to install
+43:02 something all right
+43:04 caud I like the way you're talking to me
+43:07 but you failed failed once
+43:21 already it's telling me to install
+43:23 something I figured that was the
+43:26 case
+43:29 okay successfully installed and
+43:39 now now let's try
+43:42 it all
+43:45 right Claude is my client's folder name
+43:49 ban
+43:51 dam is my project name and we got some
+43:55 errors permission error there we go so
+44:00 even though I'm in an administrative
+44:02 command prompt I'm getting permission
+44:04 denied from the desktop I
+44:08 I
+44:10 and can
+44:12 we come back to
+44:15 convert show more uh Alt Enter Alt
+44:20 Enter uncheck read only apply to all
+44:25 subfolders and secure
+44:29 edit authenticated uses full
+44:32 control everything else should have full
+44:38 control did that say
+44:41 denied I didn't stop long enough to look
+44:44 okay so press okay okay okay okay let's
+44:48 get back into folder generator we lost
+44:50 our there's Claude
+44:53 bam and let's got this
+44:57 one more
+45:00 time last time I bet I bet this is the
+45:03 last time we do
+45:20 this going have to go clean up a bunch
+45:22 of icons later on bunch of funny funny
+45:26 named icons uh project name John clown
+45:29 well 256 by 256 image icon is like what
+45:33 a 12 kilobyte file it's nothing uh van I
+45:38 don't know how to spell
+45:42 vanam you still got a permission
+45:45 error
+45:48 okay Help Me Help Me
+45:55 Claud
+45:58 see even
+46:25 in
+46:54 give me the entire code Claude
+47:03 let's see what happens right click open
+47:05 link in new tab what is subscribed to
+47:08 Pro $20 a month which same as
+47:18 chbt so David you think claud's better
+47:21 than chat GPT this feels very
+47:25 similar
+47:45 didn't that just look like it did
+47:46 exactly the same
+47:55 thing
+48:06 okay should write another code just to
+48:08 be able to cut this project file back to
+48:11 the beginning again so I'm not doing
+48:13 this a million
+48:16 times
+48:19 okay try it
+48:22 again we're going to have success this
+48:25 is where these videos get boring I'm you
+48:27 know I got to do this until I get it
+48:30 right I'm not going to
+48:32 stop I need more water but that's about
+48:39 it
+48:40 okay need a new name someone start
+48:43 giving me a new name it's gonna be David
+48:48 B still permission
+48:53 ER I'm not sure that this really copied
+48:55 for import of this shut
+48:58 youtil is that no that's all
+49:03 same CL
+49:08 13
+49:21 y still the same problem my
+49:25 friend
+49:55 for
+50:06 here's that part where the rest of the
+50:09 code Remains the Same don't make me do
+50:11 this oh I just want to copy it paste it
+50:14 that way I'm not trying to
+50:18 interpret return back to I mean we could
+50:21 try to do this but this just invites the
+50:25 potential of Errors right
+50:28 so what was that last line return
+50:33 backd return back you know because I
+50:35 have to go find that line here it
+50:40 is so if I paste that should be
+50:46 hopefully correct but we'll
+50:55 see
+51:22 things that make you go
+51:27 H oh I got even more issues this time
+51:30 around
+51:46 cool score is a little bit better right
+51:49 now
+51:51 okay yeah I feel you there next week
+51:54 he'll frog leap yeah he'll fix something
+51:56 figure something
+52:07 out see don't know that I don't think I
+52:10 would ever be switching to Linux though
+52:11 well I say that but 10 years from now
+52:13 and I suddenly become some kind
+52:20 of
+52:22 iPhone
+52:23 app person developer
+52:28 yeah you hate Linux too yeah I've never
+52:31 like I've maybe seen Linux that's
+52:44 it
+52:46 okay just give me the whole code dude
+52:49 what's your
+52:50 problem give me the entire code with
+52:55 this correction
+52:57 I would love I mean I do love it if this
+52:59 has more of a memory because that whole
+53:01 thing about you know contextually like
+53:04 forgetting something that it just did is
+53:07 crazy to
+53:08 me it's just not the way our brains work
+53:11 so it's so
+53:13 challenging um if I knew how to code
+53:15 it'd be much easier to contain things by
+53:17 individual blocks that I want to fix
+53:19 that would be a better method but I just
+53:21 I don't know what I'm
+53:25 doing
+53:28 and I've had a lot of great success
+53:30 coding Ruby in Chief and it's been
+53:34 awesome my new versions of my templates
+53:37 are freaking
+53:40 amazing uh let's see let me doing here
+53:43 we're
+53:55 generating
+54:07 paste as text whatever
+54:13 okay
+54:15 CNC Music
+54:18 Factory clearly need music it's it's
+54:21 such a shame you can't play music
+54:25 without having licensing issues unless I
+54:28 have it in my earpiece but even then
+54:32 sometimes it's so good at picking that
+54:35 up that it'll even pick up from the
+54:41 earpiece Okay so we've
+54:44 got let's do a
+54:49 refresh so all that worked correctly
+54:53 still let's just do a cut while we're
+54:55 here
+54:59 but does not look like we changed
+55:03 our we can change our
+55:07 icon and we get
+55:10 CNC
+55:11 oops CNC we did get CNC such a shame
+55:15 we're so close the funny thing is I had
+55:17 this working earlier in a python script
+55:20 I had it was totally
+55:22 working so I don't
+55:24 know why I can't get it to work
+55:29 now
+55:55 yeah
+56:21 let's see if Claude can listen where
+56:25 um
+56:26 where chat GPT absolutely refuses to
+56:29 listen let me put in all caps never I
+56:32 think there's some coding that you can
+56:34 use to like specific characters you can
+56:37 use in here um to make like a solid
+56:40 statement to be followed but I just do
+56:42 all caps because that makes you feel
+56:45 better never give me Place marker or
+56:50 partial
+56:55 code
+57:15 and then if I try this and it fails I
+57:17 think that's when we kill the live
+57:18 stream and I go struggle with this for
+57:25 hours
+57:46 okay
+57:55 BP
+57:59 should just copy this again so up in
+58:06 stack MC
+58:09 [Music]
+58:11 Hammer and we got problems
+58:22 again did they come out with a 5090
+58:25 really
+58:28 how fast do they say it is I I mean my
+58:32 4090 is so fast I don't I don't know
+58:36 that
+58:37 I need an
+58:39 upgrade even the 7900 XTX is so
+58:46 fast
+58:47 like and we're in x16 beta I can't talk
+58:51 about it but it's fast there
+58:54 too um
+59:01 um two times faster I don't know that I
+59:04 need that unless
+59:06 I'm maybe in Twin motion but I get so
+59:09 few twin motion jobs I'm not sure that I
+59:12 care like here's physically based and
+59:16 samples are set to four I'm never going
+59:17 to have it at a different sample rate
+59:19 than this I just need I like to work in
+59:22 physically based this is fast this
+59:24 flying you know I need it any faster
+59:28 than that what's it going to save me two
+59:30 two seconds per refresh not even it's
+59:33 going to save me one second per
+59:35 Refresh on 1000 let's see hold on click
+59:38 in place let me set a
+59:43 timer or stopwatch
+59:48 right stopwatch reset all right I'm
+59:52 going to
+59:55 click
+59:59 two seconds so it's going to save me one
+1:00:01 second per every time I draw something
+1:00:03 all right I guess that adds up how how
+1:00:07 many clicks then would you have to do to
+1:00:10 actually you know pay for the 590 before
+1:00:13 the next card comes out and it's
+1:00:15 instant but it's not even saving me one
+1:00:17 second it's just that it refreshes but I
+1:00:19 can still move around right so it's only
+1:00:21 saving me two seconds per time that I
+1:00:24 actually want to sit here and see it
+1:00:26 freshed out ah I don't know that I care
+1:00:30 it's 490 I'll have this for a couple
+1:00:32 years probably um and then the 7900 xdx
+1:00:35 is like maybe a second
+1:00:54 slower
+1:00:58 I just don't know that one series
+1:01:01 top-of-the-line series to the next
+1:01:03 top-of-the-line series makes a
+1:01:05 difference every
+1:01:09 year because that's a substantial
+1:01:11 investment these things are a couple
+1:01:12 Grand and they're hard to get a hold of
+1:01:15 like my buddy had to go slang
+1:01:19 and and go around town to find this 4090
+1:01:24 so
+1:01:27 yeah and I needed a well I already had a
+1:01:31 th000
+1:01:32 watt power
+1:01:34 supply and then I needed to I have a 3D
+1:01:37 printer now so I had to print a custom
+1:01:40 Riser card I mean a custom support for
+1:01:47 it yeah see you're skipping a
+1:01:51 generation have you seen my um my Evil
+1:01:55 Dead computer that thing's
+1:02:11 rad I have a picture of evil
+1:02:19 dead maybe maybe not maybe
+1:02:24 not
+1:02:32 it was a fun machine had it at the
+1:02:35 summit oh here it is it's an older
+1:02:38 picture of
+1:02:41 it
+1:02:45 see yeah this thing
+1:02:50 was this thing was just a little rocket
+1:02:52 ship worked perfect all week running
+1:02:55 stuff
+1:03:02 it was fun we did some theme a theme
+1:03:04 with
+1:03:05 it so Evil Dead Ash from Army of
+1:03:17 Darkness all right what do we got
+1:03:24 now what a from CS
+1:03:30 import okay what does it mean when we
+1:03:33 have to install all these modules when
+1:03:35 we finally make an executable does that
+1:03:37 somehow
+1:03:51 translate give me the whole script you
+1:03:54 jerk
+1:03:57 so it's no better at listening to you
+1:03:59 than chat GPT is it's the same stupid
+1:04:01 thing where you have to say hey stop
+1:04:03 truncating the script to give me the
+1:04:05 entire thing the thing that I like about
+1:04:07 the custom gpts is you can actually go
+1:04:09 in there and try to Brute Force some
+1:04:12 stuff in there um try to get it to
+1:04:15 always give you full full code no place
+1:04:18 marker text and and it works 80% of the
+1:04:24 time
+1:04:29 um I will say Claud is very confident
+1:04:32 that it will work every
+1:04:35 time just just uh this is a Fool's
+1:04:41 errand let's go I'm back up here we had
+1:04:45 82 lines of code now we've got 99 lines
+1:04:48 of code
+1:04:52 okay and let's
+1:04:56 go get MC Hammer's example
+1:05:03 plan delete and let's try it
+1:05:16 again um
+1:05:18 please hammer don't hurt
+1:05:23 him this he's from Oakland if you didn't
+1:05:25 know
+1:05:27 um still an attribute
+1:05:30 error it's doing all this part it's
+1:05:33 still just not doing the
+1:05:44 icon there's an
+1:05:54 idea
+1:05:58 Claud I don't want to date you anymore
+1:06:01 sorry M
+1:06:24 on
+1:06:39 see chat PT thinks that that's that was
+1:06:41 a bad
+1:06:45 approach
+1:06:47 so they're duking it out right now see
+1:06:50 what
+1:06:54 happens
+1:07:17 interesting yeah same problem give me
+1:07:19 the whole code give the whole whole
+1:07:24 thing
+1:07:34 so also when like when I finally get a
+1:07:36 finished code I'm going to bring it back
+1:07:38 to chat GPT and tell it to explain
+1:07:41 everything to me like I'm a
+1:07:46 child and even add notes I like having
+1:07:48 notes in in any kind of um main
+1:07:54 section
+1:08:00 99 down to
+1:08:03 72 um there's an if statement here that
+1:08:06 doesn't seem like it's complete that's
+1:08:14 interesting see how notepad++ seems to
+1:08:17 think there should be a closing bracket
+1:08:20 to
+1:08:21 this
+1:08:24 h
+1:08:50 Drew down it's the Mac of the year
+1:08:57 okay I just did something fast really
+1:09:01 fast and did that execute fast that was
+1:09:09 cool
+1:09:11 but probably same
+1:09:13 issue man all right so I'm gonna I'm
+1:09:17 gonna take a break from
+1:09:19 this anybody here want to talk about
+1:09:22 anything besides
+1:09:24 this
+1:09:29 it's definitely generating everything I
+1:09:31 need it to it's just not giving me that
+1:09:33 icon what a
+1:09:36 shame enter read only customize
+1:09:48 change yeah I think this there's going
+1:09:50 to be a part two when I figure out how
+1:09:53 the heck to get this working and then
+1:09:55 part three is when I sell it for a
+1:09:56 million
+1:10:00 dollar save you so much time and
+1:10:08 frustration yeah cool I gotta go get
+1:10:11 some work
+1:10:13 done David thank you for interacting
+1:10:15 with me I always love that one
+1:10:19 milon that's how much this is going to
+1:10:21 be worth the full package when I get it
+1:10:23 all done it's going to be worth that
+1:10:25 much It's Gonna Save you that much money
+1:10:27 in your first
+1:10:28 month yeah and
+1:10:32 then I'll take two seconds give myself a
+1:10:35 shame Shameless
+1:10:38 plug
+1:10:39 um my next version of my templates
+1:10:43 current templates already do a bunch of
+1:10:45 automatic naming conventions in my
+1:10:47 window schedules and window nomenclature
+1:10:50 and room labels and everything like that
+1:10:53 my next version of this templates which
+1:10:54 you get my templates for a full version
+1:10:57 cycle will give you the ability to
+1:11:00 change the nomenclature of particular
+1:11:02 things like cabinet coding so that maybe
+1:11:05 your cabinet vendor does not call it a
+1:11:07 2d B24 maybe they call it a B24 2D and
+1:11:11 so you get the opportunity to change
+1:11:13 that in my next version of my templates
+1:11:16 and it's pretty simple there's just an
+1:11:17 ordered list where you change the nen
+1:11:19 clature but the smart application still
+1:11:24 stays the same so that if we spray
+1:11:27 in a garbage and shrink it down to 12 in
+1:11:31 it knows it's spice we shrink it down
+1:11:34 past that we know it's an end panel so
+1:11:37 some cool stuff coming down the down the
+1:11:39 line I'm really excited about my next
+1:11:40 versions um just making my life a lot
+1:11:44 lot
+1:11:46 easier there you go and thanks for
+1:11:49 tuning
+1:11:52 in

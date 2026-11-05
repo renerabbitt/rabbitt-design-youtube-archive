@@ -1,0 +1,1613 @@
+---
+videoId: 7LfgjS2DsW4
+title: Xmas Q&A with Chief Experts - Designers Show #117
+url: "https://www.youtube.com/watch?v=7LfgjS2DsW4"
+status: imported
+---
+
+# Transcript
+
+0:01 ho ho
+0:03 ho welcome to the designer
+0:07 show yay hey Santa how you doing how are
+0:11 things in
+0:16 California I love it Renee W me up that
+0:20 boy hi everyone welcome to the designer
+0:22 show we've got a uh just a real casual
+0:25 show today it's all Q&A we have no
+0:28 prepared topics and
+0:30 welcome so and it's hard to believe it's
+0:33 the end of the year already yeah I mean
+0:35 New Year coming just uh couple weeks
+0:39 huh get to start all over again which is
+0:43 really nice sometimes I really enjoy
+0:45 starting
+0:46 over with a new Fresh year a chance to
+0:49 kind of re uh regroup put together new
+0:52 ideas new plans all that good stuff and
+0:56 we've got a designer show coming up
+0:58 first part not Designer show but a
+1:00 summit I mean uh first week of March so
+1:03 if you guys haven't taken a look at the
+1:06 summit or if you're interested there are
+1:08 still space available and we would love
+1:11 to see you guys there so if you want to
+1:13 find out more about it on on the show
+1:16 page if you're watching from our our
+1:17 website uh you'll see a link to that or
+1:20 you could Buzz over to the let me just
+1:24 pull up the website here and you could
+1:28 pop over there let me get the right tab
+1:30 in place here we go so if just Chief
+1:34 experts.com or chief experts academy.com
+1:38 they'll both work and you could head
+1:40 over here and learn more about the
+1:41 designer show I've got a nice little
+1:43 video that kind of
+1:44 explains uh a lot about what the show
+1:46 what it's all about did I say the
+1:48 designer show again I meant the summit
+1:50 and all eight out here so uh March 1st
+1:54 to 10th it's a weeklong event um you
+1:57 come here and I guarantee you're going
+1:58 to come back
+2:00 uh knowing a lot more about Chief than
+2:03 you ever thought possible so it's pretty
+2:05 cool we've got actually a lot of repeats
+2:07 coming back from last year's uh Summit
+2:10 which is really exciting so I'm looking
+2:11 forward to seeing everybody but it's a
+2:14 it's a onewe event and you will be well
+2:16 taken care from the time you arrive till
+2:18 the time you leave and by all welcome uh
+2:22 we would really welcome you there if you
+2:23 have any questions you'd like to talk
+2:25 about it just let me know and uh give me
+2:29 a call drop me email we could chat about
+2:31 it I could fill you in on it and uh we
+2:33 could talk about the ROI that you would
+2:35 receive coming to something like that
+2:37 you guys got anything you want to say
+2:38 about
+2:39 it
+2:42 it's it there's nothing like it in Chief
+2:46 you know to to learn and get together
+2:48 with people even even Chief's thing
+2:51 where you go out to Court Lane it's way
+2:54 different than that a lot more
+2:56 networking
+2:57 opportunity to us I think the the cheap
+3:00 thing on cordan is more of a just a
+3:01 vacation mini vacation a fun it's a fun
+3:03 event un call Su it's kind of like that
+3:05 too but uh we're we're very we have a
+3:08 lot of fun but we're super serious about
+3:10 making sure that everybody learns a lot
+3:13 so and Santa will be there
+3:15 too I think it's it's great for just um
+3:19 helping connect a lot of thoughts in
+3:21 your business I I don't I don't imagine
+3:24 anyone walked away from last year's
+3:26 Summit without some ideas about how they
+3:28 might restructure few things in their
+3:30 business in a in a positive way right
+3:32 yeah y so not only you getting the the
+3:35 Chief Architect stuff and and that's
+3:36 exciting that's fun to go play with some
+3:38 new some new tips and tricks but it's
+3:41 also exciting to go take some of the
+3:43 business side business aspect things
+3:45 that we go over and Implement them so
+3:49 yeah we talk a lot a lot about other
+3:52 things than Chief Architect so we spend
+3:54 a lot of time talking about your
+3:56 business sales marketing people
+4:00 pricing I mean really the gamut of
+4:03 everything that's involved in your
+4:04 design and contracting business we have
+4:06 a lot of people that work for
+4:07 contractors so uh are coming to the show
+4:11 Bruce what work
+4:15 life I'm about to collect
+4:17 cool anyway um we like large checks
+4:21 don't we especially if there's lot a
+4:23 profit at the end of it all right so
+4:26 today we have nothing so you guys we
+4:28 need your questions today there's the
+4:30 first
+4:31 question um and I can do this one I got
+4:33 this one already set up and here's
+4:35 here's the answer to the first question
+4:37 actually even before that even before
+4:39 that because Renee never gets a chance
+4:41 to really talk about his products Renee
+4:44 tell us about Santa tell us about your
+4:46 products my products okay what do you do
+4:48 show people your website uh sure uh let
+4:51 me that up we're here to inform and
+4:54 educate and do everything but we're also
+4:56 here to sell stuff so I mean that's how
+4:58 we make a living is selling these things
+5:00 that we create and produce and the
+5:02 services we offer and John too John you
+5:04 offer Design Services coaching all of
+5:06 that kind of stuff and you've got your
+5:09 website up there imagin drafting.
+5:11 comom so by all means so go ahead this
+5:14 is this is mine and if you scroll to the
+5:16 third panel this is the professional tab
+5:20 I have a bunch of products for Chief
+5:21 Architect on here um and so I sell my
+5:24 templates which whenever you see videos
+5:26 from me I'm in my templates using my
+5:28 templates so that's something full
+5:29 screen Rene so we can see oh you right
+5:31 you got that wide screen thing oh there
+5:33 you go that's and then um I have started
+5:37 selling a cabinet pricing systems so for
+5:40 um cabinet shops that are utilizing
+5:41 Chief Architect um I've come up with
+5:44 method methods for pricing these
+5:45 cabinets um as soon as you're designing
+5:48 so that sells method do you use the swag
+5:50 wag or something
+5:52 else it's a bunch of macros really is
+5:55 what it's doing so it's it calculates
+5:57 you know um your cut your cut sizes for
+6:00 your your boxes and then it cuts square
+6:03 foot of um drawer and door face it um
+6:06 it's sizes your door and drawer inserts
+6:10 and then um I can even add Hardware in
+6:12 there so it can be pretty extensive and
+6:14 then I I sell a bunch of products on
+6:16 here and there's not enough time in a
+6:18 day to even go over what all of them do
+6:20 but if you're a kitchen designer and
+6:22 you're doing more than five kitchens in
+6:24 a year you should go buy the kitchen
+6:25 tools right now all right and yeah
+6:30 yeah ex one of these days you one of the
+6:34 big ones that I like to talk about
+6:36 lately is that I have Kevin Hey guys oh
+6:40 Kevin's here
+6:41 nice kind of looks like Santa too in a
+6:43 way
+6:47 so joh we're dropping the ball here I'm
+6:49 sorry I know
+6:51 right so I have a I want to talk about
+6:54 this for just two seconds I got a
+6:55 Discord server I've got catered content
+6:58 in here I've got the Discord can you
+7:00 tell people what Discord means Discord
+7:02 Discord was originally established to
+7:05 set up so that um people that are
+7:07 playing the same video games could hang
+7:09 out with each other and have a community
+7:10 based around their their playing of that
+7:12 game but it ends up being a really
+7:14 powerful service so I have a community
+7:18 online Forum it's basically an online
+7:21 Forum um we can do a lot of smart things
+7:24 in here again not enough time in the day
+7:26 to even go over it I got a video on my
+7:28 YouTube about this but um I just have a
+7:31 lot of catered content in here and it's
+7:34 specific to people's questions so
+7:35 anybody watching the show they can go in
+7:37 and you know you Renee is you know talk
+7:42 about Santa Claus man you give away more
+7:46 gifts to everybody in this industry than
+7:48 I've ever seen from anybody so thanks
+7:50 for doing that man you than yeah you
+7:55 really I built in some cool stuff in
+7:57 here that's that it's making making me
+7:59 happy which is that it um it's Auto
+8:02 Pulling articles and podcasts and
+8:05 Instagrams and job scrapers into this
+8:09 Discord server so I just start my day in
+8:11 here so now it's my own thing yeah
+8:15 that's awesome we are we are somewhat
+8:18 passionate about what we do here and
+8:20 Renee does you do take it to the nth
+8:22 degree of passion so nice
+8:25 job a boy all right let's talk about you
+8:30 do bring that passion to the summit by
+8:32 the way you guys so yeah summit's really
+8:34 fun for me I I really enjoy it I mean
+8:37 everybody's getting so many great things
+8:39 out of it it's just it's fun to be
+8:40 around everybody just having a good time
+8:42 learning stuff so exactly cool all right
+8:46 go ahead and show what you got you got I
+8:47 know you got something there you want to
+8:48 show everybody so someone asked about
+8:51 how do we how do we do wall bracing
+8:52 details and um My Method and this is
+8:56 going to improve with x16 I finally saw
+8:59 note by the way that we're getting into
+9:00 the private beta at the end of quarter 1
+9:03 um end of quarter one okay end of
+9:05 quarter one so we still got a ways to go
+9:07 but that's because they're introducing
+9:09 some um some more powerful stuff I think
+9:11 we're finally going to get 3D Dimensions
+9:13 is what it looked like so that's a big
+9:14 one they showed that to us at the at the
+9:17 event in August the 3D diens but we
+9:19 don't know if we're going to get it in
+9:20 this version or not right so yeah cool
+9:24 um so this is so what I think we can say
+9:27 that in x16 we're expecting to see uh
+9:31 row totals on schedules so if we can get
+9:33 row totals on schedules we can do you
+9:36 know more expansive schedules um and
+9:39 that means totaling any float value any
+9:43 number in a schedule so having a totals
+9:45 row and having a total John what were
+9:47 you showing yesterday with totals that's
+9:50 column totals that's column oh row
+9:52 totals not totals okay so well we
+9:56 can get totals on certain things like
+9:58 area Etc but if you have a script where
+10:01 you're creating totals from a script it
+10:04 it wouldn't show that before so we we're
+10:06 expecting to get that so this is I have
+10:10 a note here this is a note schedule so I
+10:12 have a note in front of me and then with
+10:15 this note it shows its length in the
+10:19 label and this note has a bunch of
+10:22 custom object fields that are producing
+10:24 this brace wall
+10:26 schedule um and we haven't gone over
+10:29 custom object feels that much but we
+10:32 would get into the object information
+10:35 panel and down here at the bottom and I
+10:38 know it's hard to see on my screen down
+10:39 here at the bottom we can create a new
+10:42 field and within that new field we can
+10:45 put a value and that new field can
+10:47 report to a
+10:48 schedule so the big part of that is I
+10:52 end up copying this
+10:54 note and then bringing it into um my
+10:58 plan and pasting
+11:03 it and then I just create my length from
+11:07 there so this ends up being my my wall
+11:09 panel length and so that's how I do
+11:11 brace wall panels some people like to do
+11:13 it in
+11:14 elevations um I don't know Dan you have
+11:16 a method you do this for
+11:19 this no I don't I just just put notes on
+11:23 the plan yeah so just put notes on the
+11:25 plan I mean that works um this is just
+11:28 me taking you know I can take this label
+11:30 and rotate it and and then point it back
+11:32 to the schedule and have a legend about
+11:34 all my different call outs you can then
+11:36 copy that around your plan wherever you
+11:38 need it and you adjust the different
+11:40 sizes you got the different sizes so um
+11:43 and then you're going to produce a
+11:44 schedule on your structural plan yeah
+11:47 that talks about the brace panels yeah
+11:49 and let me see if I can turn up the
+11:50 scaling on my screen I know it's blurry
+11:53 so I'm on a new
+11:54 computer what'd you get AMD sent me a
+11:58 big Powerhouse computer so I'm I'm not
+12:00 done setting it up yet you're getting
+12:02 your gifts you yeah Santa got his gift
+12:09 boy we need to say hi to Robin hey
+12:13 Rob we start seeing you again next year
+12:18 right hi Robin students he everybody
+12:22 where's
+12:23 Rob she's been teaching classes on
+12:25 Friday at this time so right now her
+12:27 class is watching the show
+12:29 so nice cool yeah nice to see you all
+12:34 right we're looking for questions you
+12:35 guys come on give us some
+12:37 questions there was another question
+12:39 here about uh putting a dimension on a
+12:41 radiused wall the radius dimension on a
+12:43 radiused
+12:45 wall a curved
+12:47 wall a good one I don't think I've ever
+12:50 had to do that can you put it on as a
+12:52 label I think you could do it as a label
+12:55 let's see let's go back let's go into a
+12:57 plan let me show on my screen um let's
+13:02 try
+13:03 it so we're going to create
+13:07 a little room here
+13:11 and and we're going to click and we're
+13:14 going to turn that to a radiused wall
+13:16 oops wrong
+13:17 button so what's the dimension that we
+13:20 want well let's take a look at this so
+13:22 is it here's here's the question is it
+13:25 possible to add a radius Dimension to a
+13:27 curved wall or line let's look at that
+13:30 so yes absolutely um see with this we
+13:33 can't turn on we can't turn on the
+13:36 dimension for that radius but let's take
+13:40 that line that's producing that radius
+13:42 let's just draw a line let's click on it
+13:45 let's make it an arc just like the wall
+13:48 and let's open its dialogue box go to
+13:52 line style and should length and let's
+13:54 see if that gives us what we're looking
+13:55 for we get a radius of that
+13:59 24 fo9 so is that what you're looking
+14:02 for no the radius is the radius is 11.47
+14:06 feet right yeah your arc length is
+14:09 24.09 right the Arc Length the chord
+14:12 length talking the 24.09 would be this
+14:16 no that wouldn't that would be that
+14:18 would be this yeah yeah the length of
+14:22 the line so if we open that
+14:25 line and we take a look at the
+14:28 information what does it give us here
+14:32 radius angle arc angle
+14:35 length uh you know cord
+14:39 length where's the cord length so in
+14:42 order to create that to appear as a
+14:44 dimension you could simply put arrows on
+14:46 both ends of the lines pull it out three
+14:47 inches and you've got a dimension line
+14:50 yeah don't you you would pull it using
+14:53 this handle here yeah okay so um doesn't
+14:57 quite match theall wall though why would
+14:59 it not match the wall now because you
+15:01 are pulling it um
+15:04 horizontally um so it's it's gonna shift
+15:08 just like if you were trying to cut
+15:09 those out of a 2x4 you can't uh
+15:13 lay but that would be right
+15:16 though yeah but if you want it to look
+15:18 like that it's got to be concentric and
+15:20 then you can you can trim the line at
+15:22 the end but if you want to Simply
+15:24 indicate that that is a
+15:27 24t uh
+15:29 measurement then you've got to create
+15:33 you can leave that one where it is but
+15:35 you've got to pull the dimension
+15:36 indicator out and then create a
+15:37 secondary line that's concentric with
+15:39 the with the first and you should get
+15:42 something looks like what you want I've
+15:44 got my line on the surface not the not
+15:47 the
+15:49 framing and I got wrong so I put my I
+15:52 put my line in the wrong place here
+15:54 let's do it like this let's snap a box
+15:57 into place and make sure that the boxes
+16:00 I had one side on the framing one side
+16:02 on the siding so of course it's going to
+16:04 look a little wonky a little wonky so
+16:07 let's put that so now I've got my line
+16:09 exactly where I want it on that point
+16:12 right there and on that point there now
+16:14 I can make that into an arc turn my just
+16:18 pull that out till it snaps to the
+16:20 framing open its
+16:22 dialogue go to line style turn on the
+16:26 length and there's that length now
+16:29 and of course I don't you know my
+16:30 dimensions are all not fractions I could
+16:33 disconnect this line now from the other
+16:36 lines and pull that out independently
+16:39 okay so it's still it's going to look a
+16:40 little wonky okay there's also a setting
+16:43 there's also a setting where you can put
+16:45 a where it puts a temporary Dimension or
+16:47 a point out where
+16:49 the the center of the radius is and you
+16:52 could Dimension from that point to the
+16:53 wall too that would be this button right
+16:56 here that's going to show show the
+16:59 center point of the radius this icon
+17:02 right
+17:03 here there's a center point of the
+17:05 radius that what you're talking about
+17:07 John yeah yep so you could then
+17:09 Dimension from that you just put a
+17:11 dimension line on that yeah you should
+17:13 be able to snap to that point
+17:17 no I think I could snap to that point no
+17:20 that's really
+17:22 odd I sure think I
+17:26 could huh
+17:29 that is really weird yeah that's not a
+17:31 temporary point that that put on there
+17:33 well that's true I could have done that
+17:35 so let's go back and redo this so before
+17:38 I put that Jim in let's go hit the
+17:40 temporary point with that snap there
+17:42 that snaps I could do a temporary point
+17:45 there I'm surprised the dimension put
+17:47 then you could put just a regular point
+17:48 on top of that so that your dimension
+17:49 will stay or use a point to point me
+17:52 point I could have probably just placed
+17:54 a point to start with you probably could
+17:55 have yeah yeah okay now I could
+17:57 dimension that point so the actual one
+18:00 that shows up when I turn that button on
+18:02 can't necessarily Dimension it then you
+18:05 can Dimension to any part of the wall
+18:06 you want to yeah there you go so that's
+18:09 your another way to show that here can I
+18:11 show you one one other trick will you
+18:12 drop in a um a text box and with a
+18:16 leader type in anything in the text
+18:19 box with leaders and and uh point it to
+18:22 that um to that
+18:27 wall anywhere on the wall yeah it's got
+18:30 to snap to it snap it's got actually
+18:33 snap to like a midpoint or something
+18:35 like that I'll snap to the inside um and
+18:38 then open up your
+18:41 text and click on the M dropdown there
+18:44 you go now you have reference to object
+18:46 shows up it only shows up if that leader
+18:48 is connected correctly and now you could
+18:50 go length for instance you can just uh
+18:53 hover over and click length and then
+18:54 press okay you can't get that same thing
+18:57 up in the label for the wall you can but
+19:00 that this is just a way of doing it um
+19:03 as a
+19:05 reference so you're doing your
+19:06 cross-section thing Rene mine's a little
+19:10 no it's a little more advanced than this
+19:12 but this is you know the basic um a wall
+19:15 is called a publisher and so that's all
+19:17 the data that the publisher is
+19:19 publishing okay utilize that in a
+19:22 text and then you know need to know a
+19:24 little bit of scripting to be able to
+19:26 format that number the way you want it
+19:30 yeah now that I know if Santa that knows
+19:31 how to do that okay just heads up
+19:35 everybody we're getting a lot of
+19:36 comments here so if I end up missing
+19:38 yours just repost it again so that till
+19:41 I get it if if you really want to see
+19:44 the answer to it all right so if you
+19:46 need to do something like this so I snap
+19:49 that point to that window and it's
+19:52 telling me the where the bottom of the
+19:54 windows is what I so I could add the
+19:56 word bottom it be 22 so if I raise that
+19:59 window from 22 to you know4 it's going
+20:04 to change that number
+20:05 automatically I've never used those
+20:07 settings that they used to not have many
+20:10 of those in there now they've got a ton
+20:11 of them it looks like so you want to um
+20:16 you want to show your cross-sectioning
+20:17 thing Renee sure your tool you want to
+20:21 you need time to have set it up or you
+20:22 good to go no it's ready it it's ready
+20:24 to go yeah let's show everybody how this
+20:26 tool works because it's pretty fast
+20:28 fting um so this is in my this is in my
+20:32 Pro Plan and you get to just from the
+20:36 home screen we get to double click a a
+20:39 call out link oops I don't have my
+20:43 hotkey set up dang
+20:45 it uh it brings you to Duck North
+20:49 Carolina right next to our brings you to
+20:51 this system and so on the right hand
+20:54 side is I have um I want to say about 50
+20:58 details and they are all driven by the
+21:00 system and so these are all the
+21:02 annotations driven by the system on the
+21:04 right hand side on the left hand side is
+21:08 where we designate what those details
+21:10 are going to say so I'll give you an
+21:12 example here's the wall framing says 2x4
+21:15 dug for number two well I'm going to go
+21:17 look for that color coding and something
+21:19 that has a header that says wall framing
+21:21 right here this is just a schedule so
+21:24 all I have to do is take this row item
+21:27 here
+21:28 which I don't know why it's not
+21:30 selecting I can't see my mouse
+21:32 cursor um all I would do is take this
+21:34 and drag it up to the number one
+21:36 position and just by opening the row
+21:40 schedule and pressing okay that
+21:42 initiates it and then over here it
+21:46 changed it so not only did it change it
+21:48 here but it changed it on every single
+21:50 detail I have in my
+21:54 library you got a few details in your
+21:56 library yeah and so so I'll I'll we'll
+21:58 pull this full circle we'll just go in
+22:00 new layout real quick oops I don't have
+22:03 my
+22:04 defaults new computer who
+22:07 this uh let's
+22:11 see 126 there we
+22:17 go nothing's downloaded to my machine
+22:19 yet either so is Rene's screen blurry
+22:23 for everybody yeah
+22:26 okay
+22:30 yeah excuse me one second
+22:35 guys
+22:38 myself so I have a bunch of details that
+22:41 are drawn to stack up with each other
+22:44 and they all have all their annotations
+22:46 driven by that
+22:48 system so that I can change out any one
+22:50 of these
+22:54 sections just by relinking it to
+22:56 something else
+23:00 so I can relink this to another roof
+23:03 section and it
+23:05 will just change it immediately so it's
+23:08 easy to build out large sections this
+23:13 way you've been busy huh
+23:16 yeah wow this is cool I build out
+23:20 sections so quickly it's it just takes
+23:22 me you know a couple hours sometimes or
+23:24 even less as opposed to um what it used
+23:27 to take which a lot of yeah cool yeah
+23:32 and you can add so yeah so Robin has a
+23:36 question why does a backsplash not show
+23:38 up in elevation but does show in 3D it
+23:40 was drawn using the black backsplash
+23:43 tool you might not have it turned on in
+23:45 your layer set for your elevation
+23:48 camera that be my guess or yeah or the
+23:54 cover show that here let me give me the
+23:58 screen
+23:59 here you can lose detail just due to
+24:02 resolution in your monitor and uh uh and
+24:05 what you're trying to display if you're
+24:07 down at a onepoint line or something but
+24:09 typically it's going to be because the
+24:11 layer's gone yeah something as big as
+24:14 backsplash the layer you know you got
+24:16 your wall cabinets here let's go throw
+24:18 let's go throw a custom con Uh custom
+24:20 backsplash in so you've got your cabinet
+24:24 tools custom backsplash here let's just
+24:27 do this we can see how it works here um
+24:30 custom
+24:32 backsplash click there's your your your
+24:35 custom backsplash what layer is that on
+24:38 it's on a layer probably called C
+24:40 cabinets back custom backsplash so if we
+24:43 go to our floor plan my suspicion is
+24:46 that oops um oh there it is it's showing
+24:49 I was going to say maybe the cabinets
+24:52 were covering it so I mean if we if we
+24:54 moved the cabinet to the front front row
+24:58 I think of course we wouldn't see the
+24:59 question was from elevation to 3D it's
+25:02 show showing in 3D but not in elevation
+25:05 oh okay I misunderstood yeah then the
+25:06 layer shut off you know that's going to
+25:09 be the bottom line so whichever
+25:10 elevation you go to let me get to a wall
+25:15 elevation if you're not seeing it that
+25:18 layer's turned off so just go into your
+25:20 layers one way to find it here's a
+25:22 little trick for you um if you're never
+25:24 sure where what layer something's on
+25:27 just switch your all layers on layer
+25:31 set and then go into it you know go into
+25:35 that and make sure that you select all
+25:37 and make sure this is a check mark here
+25:39 this little button should be a check
+25:40 mark then all layers are on so if it's
+25:43 in your plan it will now show up now you
+25:46 could click you could click on it you
+25:48 could look down here at the bottom and
+25:50 see what layer it's
+25:51 on every time you click something on
+25:53 your plan it shows a layer that's on
+25:55 down here then just switch back to the
+25:58 The View you're working on and you'll be
+26:01 good to go turn that layer on so use
+26:04 that Allon layer set to find things in
+26:06 your plan if it's if you've turned
+26:08 everything on and it's not there it
+26:10 ain't in your
+26:14 plan okay that answer that one she says
+26:17 it she says the layer is turned on any
+26:20 other reasons why it wouldn't show
+26:22 up is it in the right place um well
+26:26 that's all that's also a vector based
+26:29 image so um if have Vector lines in the
+26:33 material that might just look like it's
+26:36 blank that's true too that's a good
+26:38 point so turn on your standard camera
+26:42 see if you're seeing it that means that
+26:43 there's a pattern on it that means
+26:45 there's a a texture on it image but if
+26:48 you're in Vector View and there's no
+26:49 lines associated with the you know maybe
+26:51 you went online and you captured a tile
+26:54 material and it and it shows up great in
+26:56 the in the render view but when you
+26:59 switch to Vector yeah there's no pattern
+27:01 associated with it so all
+27:02 materials all materials have to have
+27:06 under the pattern you have to have a
+27:08 grid pattern under the texture you have
+27:10 to have a photograph so they different
+27:13 here's another
+27:14 possibility it might have accidentally
+27:16 got moved to the wrong layer so that
+27:19 layer that is on isn't turned on could
+27:21 be a
+27:23 possibility yeah or maybe it's hidden
+27:26 down below the cabinets or something
+27:28 so there
+27:29 was so let's go to this question for a
+27:31 little bit if your Consultants need DWG
+27:34 plans do you clean them up first minine
+27:36 are complaining of extra work so Mar can
+27:39 you be a little more specific about what
+27:41 DWG plans you're sending it probably be
+27:44 like floor plans or elevations all right
+27:47 so let's talk about that because it's a
+27:50 it's a very very valid point because
+27:53 Chief's layer Chief layers are a whole
+27:57 ton different than AutoCAD users okay or
+28:00 Revit or any of those other programs I
+28:02 mean you know these layers here um
+28:06 they're not going to use layers named
+28:08 like this in their
+28:09 program which is fine they can you know
+28:13 if you've ever you know you open a DWG
+28:14 and you're going to have a massive list
+28:16 of of layers that they work with that
+28:19 are all abbreviations and that's what
+28:21 they're used to working with so that's
+28:22 cool so when you when we export this you
+28:26 want to turn off everything that you
+28:28 don't want to send them so if you're not
+28:30 going to send cabinet labels or anything
+28:32 like that turn that stuff off okay so
+28:36 that your plan is as clean as can be
+28:38 right and then the other if you just if
+28:41 you just used your asilt ler uh save
+28:44 land views well that would be about
+28:46 where an engineer is going to need it
+28:48 yeah so if you I have a little thing
+28:50 here as built measuring uh U to create
+28:53 dotted lines it's a little technique I
+28:55 use to show as buils but but that's
+28:57 going to turn a lot of things off to the
+28:59 point where it's extremely simple all
+29:01 right so that would be a one way to get
+29:03 it down to that level and then the other
+29:08 thing is when you when you export
+29:12 it when you're going to export your
+29:16 DWG are you going to do all floors or
+29:19 the current floor let's take a look at
+29:22 those two options current floor is like
+29:24 it say maybe you want to send a separate
+29:26 file for each each floor all right
+29:29 because that would give them a much
+29:31 simpler plan if you do all
+29:34 floors let's just take a look at this
+29:37 you do all floors um which layer set of
+29:40 course which layer set are you going to
+29:42 export right um split walls assemblies
+29:46 into layers so if you're showing all the
+29:49 layers of your walls when you export um
+29:53 it's going to put all those lines on one
+29:55 layer a wall layer you know you have
+29:58 your siding your insulation your sheet
+29:59 rock all so what you could do is put
+30:03 those into assemblies so that they're
+30:06 separated um export only to this if
+30:09 you're exporting all the layers that
+30:11 means you're you're when they open their
+30:13 plan they're going to see all the things
+30:14 on this list and you don't want to send
+30:17 them that so you want to go
+30:20 export your current
+30:24 DWG or all floors but you know don't
+30:27 turn on export all used in name layers
+30:31 well maybe you do but no if if you're
+30:32 just showing them what's on the screen
+30:34 then you just want to keep that I have
+30:36 always sent floor plans each floor each
+30:39 floor is I always send as a separate
+30:42 DWG and elevations I do the same thing
+30:45 always a separate DWG so I might have
+30:47 seven or eight
+30:48 files that I'm sending them but I've
+30:50 never had any complaints from anybody
+30:53 right about having too much information
+30:54 that way right so if you decide to um
+30:58 um where's the one
+31:00 export let's see if you do decide to do
+31:02 this one split assemblies into
+31:04 layers um then you have to tell PE and
+31:07 if you're doing all the floors then
+31:09 you're going to get a layer called walls
+31:11 one walls two walls three whatever how
+31:13 many floors you have so they could
+31:15 display everything in one plan if they
+31:17 wanted to but then they'll have to go in
+31:19 and turn off those other floors so you
+31:22 know I'd say the best thing to do is
+31:24 just take a look at what they want um
+31:27 what scaling unit I mean inches or feet
+31:29 are pretty common um create associative
+31:33 Dimensions if you're sending your plan
+31:35 with dimensions on it you know you could
+31:37 turn that on so it stays Dimensions when
+31:39 they open it I would never export
+31:42 pattern lines or fill there is if
+31:45 they're going to that let them fill it
+31:47 themselves make sure that you tell them
+31:49 too what scale you exported it in Yeah
+31:53 well yeah whether it's inch or feet so
+31:55 that they when they open it it's the
+31:56 right one one yep we always have to play
+31:59 with that when we're importing
+32:01 dwgs and then hit export and you're
+32:03 going to get a nice clean file that they
+32:04 should
+32:06 like and hopefully that makes sense yep
+32:10 so here's the next
+32:11 question um is there a quick way to
+32:14 reset all materials to default in the
+32:16 model just a quick easy way to do that
+32:19 reset all materials to default oh like
+32:22 on wall you went painted a bunch of
+32:23 walls and stuff like that there's a
+32:25 quick way to reset all that at once
+32:27 messing with that the other day weren't
+32:28 we yeah
+32:30 um so if you've gone in and you've
+32:32 painted you you use this the eyedropper
+32:36 tool to paint things on your walls let's
+32:39 go find
+32:42 something some nice hickory wood so
+32:45 you've gone and done that all right so
+32:47 you've done that to your plan you've
+32:48 done a bunch of
+32:50 it uh what happens is when you click on
+32:53 that wall to try to replace it with a
+32:54 different kind of a wall so if I go to
+32:57 change that to a brick wall or stule
+33:00 I'll go and you'll see the stule doesn't
+33:02 show up it shows what I painted on top
+33:05 of that wall because you've essentially
+33:07 you've skim coded that wall with that
+33:09 new material so what you have to do is
+33:11 reset that wall to a default so you can
+33:13 do each wall
+33:15 independently and way you do that is
+33:17 click on the wall go to the materials
+33:20 and you go make sure that it says the
+33:22 word default in the name of one of these
+33:25 two see this one says default this one
+33:27 does not so I want to just select the
+33:31 material and I'm going to reset that
+33:33 back to the default in my plan materials
+33:36 now it will show the stuckle okay so
+33:38 there you go so the way you do that as
+33:41 for the whole
+33:43 plan see if I can remember this one you
+33:47 click on let's see how does that work in
+33:49 click on the wall we want um I might
+33:51 need a help with this it's been a while
+33:53 um adjust
+33:55 um was it the material ey dropper
+34:00 tool was it object was it object or
+34:02 material I think it was object we want
+34:05 to click on this we want to select
+34:07 object click on the wall that has the
+34:10 default setting in it and then go down
+34:12 here to
+34:14 this and we want see yeah we want to
+34:17 clear all and we want to hit def the
+34:19 word default I think that's how we do
+34:22 this right um or is it
+34:25 materials
+34:27 you guys help me out here I'm I saw it
+34:30 done once and I've never used it it's
+34:32 like I'm not I know it's like okay I
+34:34 remember it either they showed us at the
+34:38 meeting in August and it's they just
+34:39 showed us this um it
+34:43 was I could go look you have it in your
+34:45 notes I know you do yeah um let's see
+34:52 wall uh default all right you guys go
+34:55 answer another question I'll go look it
+34:57 up hey um go backways John someone was
+35:00 asking about the stretch
+35:01 CAD oh I didn't even see that one yet
+35:03 I'm still way up at the top oh are you
+35:06 at the top do you have you have an
+35:08 answer for it you remember let me see I
+35:11 think I can find
+35:13 the yeah I don't want to lose my place I
+35:15 have to scroll through all the questions
+35:17 here I don't want to lose my place I got
+35:18 it okay um chief 101 could you please go
+35:22 over the four different edits in edit
+35:25 area also please explain about to use of
+35:27 stretch cat now I probably wouldn't go
+35:29 over all the four different edits I
+35:30 think they're all pretty
+35:32 self-explanatory for the most part um
+35:35 we'll just go over one of them so let me
+35:37 add myself to the stage for this so edit
+35:40 area in case you didn't know this is
+35:42 great you're not on the stage yet Rene
+35:44 you're I don't think you are you yeah
+35:47 he's still okay go ahead um edit area
+35:51 which is in our edit menu um so you can
+35:54 just do edit area edit area all floors
+35:57 edit area all floors that are visible so
+36:00 visible specifically means you know in
+36:03 our layer set what are the visible
+36:04 layers and that's the only thing that
+36:06 we're going to edit if we use that
+36:08 option edit area all floors means we
+36:11 will be able to edit all floors visible
+36:13 or not regardless of what floor we're on
+36:17 and then edit area is floor dependent
+36:20 okay so if I want to copy a floor plan
+36:23 over to a new plan I can say edit area
+36:25 all floors draw our key over this
+36:29 that'll get you roof and everything if
+36:30 you do all floors that'll give you
+36:32 everything right and then I can hit copy
+36:34 paste and I can bring this into a brand
+36:37 new
+36:39 plan where I'm G get rid of my existing
+36:43 walls uh oh hot keys are all messed up
+36:47 anyways I can uh I can paste hold
+36:51 then so that's area I don't want the
+36:54 whole thing I don't want the whole thing
+36:55 Renee I just want part of it I just want
+36:57 that front those front two walls those
+37:00 front two walls you would just um in
+37:03 that case I would just copy those front
+37:04 two walls and bring them forward I just
+37:06 if if but if you want to do area and
+37:08 you're doing that kind of stuff that
+37:10 doesn't always that doesn't get
+37:11 everything so if you draw a cad box
+37:13 around that the area that you want to
+37:15 want to do
+37:16 it so just draw a cad box around that
+37:19 front curved
+37:20 wall okay the front curved wall the
+37:23 front curved wall yeah like that then
+37:25 select the cad box
+37:28 and now go to edit
+37:31 area and hit copy or whatever you want
+37:34 to do with it yep hit copy now you only
+37:37 get what's in the
+37:40 box and let see back there you go there
+37:42 you go so that's a great array of um
+37:45 clipping as well right so we're clipping
+37:47 part of that wall through the poly line
+37:49 so that's so I I use that if I want to
+37:51 have a ver a a one master bathroom and
+37:54 then have a variation I'll pull the
+37:56 master bathroom out of that and set it
+37:58 off to the side and do my new one and
+38:01 then when my client decides what they
+38:03 want I put the bathroom in the plan that
+38:05 they want to use yeah um and then use
+38:09 case for stretch CAD here's a perfect
+38:11 one I want to adjust the cad let's say I
+38:14 want to move that plate up a ways and I
+38:16 want to move up this anchor bolt and but
+38:19 I don't want to mess with everything
+38:21 else this has this has a section cut
+38:24 polyline it has you know the indiv idual
+38:26 details here I want to move all this
+38:28 stuff well we can use stretch cat in
+38:30 this case and this is pretty easy just
+38:33 draw our box over the top of this we can
+38:35 grab that edit handle drag it up and
+38:38 it's moving everything together and so
+38:40 we've just stretched this middle
+38:43 section so that's an easy way of doing
+38:45 that um you can you can do the same
+38:47 thing you can do the same thing like
+38:48 that with the edit area too if you're
+38:50 just trying to make a room
+38:51 bigger um except for that'll cut right
+38:55 no it'll it will continue the walls
+38:57 it'll heal the walls back together if
+38:59 you move it if you have let's say you
+39:00 have a great room right in the middle of
+39:01 the house and you got everything off to
+39:04 the sides already built and everything
+39:05 you can create you can select the stuff
+39:08 on one side and just move it four feet
+39:10 and it'll heal the walls up yeah you'll
+39:13 still have to still have to put Windows
+39:15 and stuff in
+39:17 but um that works pretty
+39:20 slick all right what else you
+39:23 got um back to Renee or Robin's question
+39:26 she says the back backsplash was created
+39:28 in 2D but not showing in
+39:30 3D was it created in a cad detail
+39:33 somehow would be a question to ask my
+39:35 first question is why would you do it in
+39:37 the 2D view when you could just click on
+39:39 the wall and add a backplash and
+39:41 secondly is your backsplash when you
+39:43 created on the 2D what's the height of
+39:46 it check the height make sure it's high
+39:49 enough to meet be above the cabinet
+39:51 because when you put something in U
+39:54 drawing it in
+39:55 2D
+39:57 I did you use the slab tool or
+40:00 the backsplash tool U just make sure
+40:03 it's the right height so one reason you
+40:07 asked why don't we just click on the
+40:08 wall and automatically get that
+40:11 backsplash sometimes I don't like doing
+40:13 that is because if we just click on the
+40:16 wall it makes all these Cuts in the
+40:19 backsplash yeah just whereas I might not
+40:22 want those cuts so sometimes I will just
+40:24 draw out a square and then manipulate
+40:25 the square and that's so you go back to
+40:28 do that backsplash
+40:30 again and put that on there and then
+40:32 highlight that bottom line and just
+40:35 click what's the tool John oh it'll
+40:37 simplify poly line but we still have
+40:39 this cut around the range oh okay so
+40:43 that still happens just show the
+40:44 simplify though let's see what it does
+40:46 here how much it it does get rid of some
+40:48 of those breaks yeah we got a bunch of
+40:51 breaking it at every cabinet break cabin
+40:53 show show them where that simplify what
+40:55 it in our edar I don't have zoom it set
+40:58 up on this computer yet but oh all right
+41:00 that's right all right there's a tool
+41:03 called simplify
+41:05 um there it is is that it uh I just
+41:09 clicked it so it should be on your edit
+41:11 toolbar yeah I just clicked it so it
+41:13 disappears once you it will disappear
+41:15 once it's simplified okay yep and then
+41:17 you click on you have to have the right
+41:19 Edge selected first I think yes and then
+41:21 click the tool yeah uh no you don't need
+41:24 a edge selected you could uh click
+41:25 anywhere it's the whole object it'll
+41:27 simplify yeah okay got
+41:30 it yeah see there it got rid of a bunch
+41:33 of brakes on the bottom where it met the
+41:35 cabinets so got it okay um yeah I mean
+41:40 grab your backsplash and pull it if can
+41:42 you if you can see it on the floor plan
+41:45 um and you used the slab tool just pull
+41:47 it in the middle of the room and see
+41:49 where see where it is um all right I
+41:51 know how to do the material thing now
+41:54 okay okay nice you go to the uh spray
+41:58 can tool oh and you set use default and
+42:01 spray plan and spray the entire plan and
+42:05 you're done oh okay okay it's like yeah
+42:08 I go too
+42:10 simple it's too damn easy I know you go
+42:14 um does that work in does that work in
+42:17 plan view where you can get a marquee
+42:19 mode I wonder no okay uh well I don't
+42:23 know let's see here let me go back to
+42:24 this and let me Marquee select hit the
+42:27 wall to and shift why would you need to
+42:29 why would you need to Marquee though um
+42:32 just to select certain things does that
+42:34 definitely put well usually when we do
+42:36 um plan mode that's only doing the class
+42:40 of thing that you were spraying so that
+42:41 would only be spraying the walls it
+42:43 wouldn't be spraying everything
+42:46 right so you'd have to do one it did it
+42:48 did work in plan view as well um but uh
+42:53 there's a reason that I had trouble with
+42:55 that on some projects because it would
+42:56 wouldn't open up the right dialogue if I
+42:58 had different types of walls or I had
+43:00 something going on where it wasn't
+43:01 working so uh yeah if you have two
+43:05 different types of objects it's not
+43:06 going to open up that time see that well
+43:09 that one will because it's all
+43:11 walls come on where's my
+43:16 edit oh got highlight the wall tool
+43:20 edit yeah so it's working there was a
+43:23 reason I would didn't do it though oh
+43:25 because you know if I change this wall
+43:28 surface here it's going to change my
+43:30 interior walls as
+43:32 well so when you select can I just
+43:36 select I can just select the word
+43:39 default not should yeah so that'll work
+43:41 it should work from floor plan or 3D
+43:43 I've just found it it is a little easier
+43:45 to do it in the 3D view click the eye
+43:47 dropper click I'm sorry click the spray
+43:50 can select default hit okay hit click
+43:54 this icon to replace everything in the
+43:56 entire plan with the default material
+43:59 and then click on the wall and it'll do
+44:01 it there you go okay next question hope
+44:04 that's answers is there a way to get
+44:05 arrows on both sides of a wall in a text
+44:09 leader to show that the text is about
+44:11 the Assembly of the
+44:14 wall like are you talking like you want
+44:16 to point you want an arrow that points
+44:19 to the wall like
+44:22 this where you have arrows pointing you
+44:25 know kind of like that pointing at the
+44:28 wall is that what we're talking about I
+44:30 that's a good guess yeah because by
+44:32 default um when we do our dimensioning
+44:36 with interior Dimensions Chief's
+44:40 gonna I missed oh I'm getting the
+44:43 wrong we're gonna get arrows that but
+44:46 you want to show the
+44:48 arrow is that what I'm asking or you
+44:50 just want the arrows basically you want
+44:53 reversed arrows on the end of the line
+44:56 okay can we can we do that let's go open
+44:58 a line and put arrows on it you could
+45:01 use include arrow on both sides there's
+45:03 a there is a arrow type that points into
+45:06 itself I think like that just use the
+45:08 dimension tool easy so there's your
+45:11 arrows pointing in both ways um
+45:15 Dimension is gonna put yeah know we
+45:17 could do the same thing here we could
+45:18 change Dimension we could change the
+45:22 uh primary format to
+45:26 arrows we could change the arot type
+45:28 again to a bit different kind for that
+45:31 particular Dimension oh that doesn't
+45:33 work um we want this one there we go we
+45:38 do that then you can turn that line on
+45:41 it's under where is that line it's under
+45:44 um go to Dimension panel Dimension and
+45:47 then Define your dimension default there
+45:50 or display wall width is right
+45:51 underneath your cursor there it is yeah
+45:54 and then you could you know it's showing
+45:56 that four and a half so if I click on
+45:58 the uh Dimension and I click on the ABC
+46:00 Tool down here I could go in and click
+46:04 on that four and a half yeah and say
+46:06 suppress that value and now it's part of
+46:09 your dimension and the line will show
+46:11 drop a note it's showing in the it's
+46:14 showing a blank where the text would
+46:16 have
+46:18 been you can put the text right on there
+46:20 if you wanted
+46:22 to right on the dimension if you wanted
+46:24 to yeah
+46:27 I use this ABC Tool a
+46:29 bunch
+46:31 um you got to click where the dimension
+46:33 would
+46:34 be what if I just put
+46:38 a that didn't
+46:40 work all right I well that kind of well
+46:44 there it looks good
+46:46 here um oh that's because it's off the
+46:50 line um I hope that
+46:53 helps I use this to I use this a lot
+46:57 when and I'm going
+46:59 to so be careful with it be careful with
+47:03 it because um sometimes you get a string
+47:05 of
+47:06 dimensions and you know it's just like
+47:08 oh I want this one to I want those to
+47:10 stay the way they are but I want this
+47:11 one to say 4 foot1 and a half or 4 foot
+47:14 10 you know I just want to change the
+47:16 way it looks I want to get rid of a
+47:18 fraction and I can't do it because I'm
+47:20 on a corner here and if I change if I
+47:23 change this Dimension it'll change that
+47:24 Dimension okay
+47:26 uh so so that's when you use this ABC
+47:29 Tool
+47:31 to um change a dimension you could
+47:33 suppress the value or in this case I'll
+47:35 just put you know 4 foot1 and a
+47:39 half okay so you just put it in the way
+47:42 you want it to display be careful
+47:44 because once you do that if you move
+47:46 that window that number is never going
+47:48 to
+47:49 change so again when you're done with
+47:51 your plan you want to clean it up a
+47:53 little bit that's a way to do it be
+47:55 careful I think I think he was looking
+47:57 more for the first option you did where
+47:59 you just drew a line and put arrows on
+48:00 both ends of it right yeah just select
+48:02 AR just have to draw a leader line to
+48:05 that line that you drew there yeah can
+48:07 we make custom
+48:08 arrows you know I don't know if we can
+48:11 do custom arrows but we have yeah we can
+48:13 we we can make custom arrows you just
+48:15 have to generate a cad block and once
+48:17 it's in your um okay once it's in your
+48:19 library it's
+48:21 custom um you can even um set the offset
+48:25 of that are
+48:26 the insertion point of the cad block can
+48:28 you could can you save just that line as
+48:31 a
+48:32 symbol yeah gra that put it put that in
+48:36 there every time and then draw Your
+48:38 Leader line from that to the to your
+48:41 text that you want to put in I'd have to
+48:43 I could I'd have to block
+48:45 it let's see so if I click on it and
+48:48 block so if a group selected I can make
+48:50 it into a block and then I could make it
+48:52 into a symbol I could add the library um
+48:56 but I can't add it I can't add it
+49:00 as I can't add it as just the line I'd
+49:03 have to unblock it then when I want to
+49:05 edit it no but now now you have a symbol
+49:06 that you can draw a leader line
+49:08 to and have it snap to that
+49:13 right there's a lot of ways you know I
+49:15 could just make all of that one symbol
+49:18 and add that to my
+49:20 library so yeah any combination of text
+49:23 lines arrows you can make into a symbol
+49:26 and use it all day long if you need to
+49:28 change it just ungroup it or change it
+49:30 in the in the cad detail where you
+49:32 change
+49:34 things and you're good to go okay here's
+49:37 a question yeah what we got how can I
+49:39 split a bathroom floor with a walk-in
+49:41 shower and
+49:43 tub split a bathroom floor with a
+49:45 walk-in shower and tub you're talking
+49:47 about putting different materials on the
+49:50 floor probably um can I split a bathroom
+49:53 floor well let's just talk about I mean
+49:56 if we if you split a room in into two
+49:59 rooms you could put different materials
+50:01 on each floor but maybe you don't want
+50:03 to do that you want to have uh you want
+50:05 the showers you know if you if you draw
+50:07 a shower with the glass wall tool and
+50:10 you name this a shower and you name that
+50:11 a
+50:12 bathroom uh you're going to get two
+50:14 square you're not going to get full
+50:15 square footages if you don't mind having
+50:18 the shower with one square foot in the
+50:21 bathroom with another square footage um
+50:24 so we could call this a path and we
+50:27 could yeah I'm still in
+50:29 my has built thing here we could call
+50:32 this a um I meant to call that one a
+50:35 shower we'll call this one a shower
+50:39 um here we
+50:41 go um reverse those let just think of
+50:44 backwards uh so when I look at a 3D
+50:48 view I'm going to have different you
+50:50 know I've set up the word room name
+50:51 shower with different material than the
+50:53 than I did the other one okay they're
+50:55 both ugly but they they're different and
+50:59 so you could do that any time if you
+51:01 want to do this where there's separate
+51:02 materials but you want to keep the
+51:04 square foot into the room all one we
+51:06 could do a cad box that has a a macro in
+51:09 it or um an easy way to do it just make
+51:12 these walls no room
+51:15 definition so that that is not forming a
+51:18 room as a separate room and then we
+51:21 would use a material u a floor material
+51:26 yeah to create a different material in
+51:29 the spots where we want different
+51:30 materials so we can combine those
+51:33 anywhere we want in our plan I think
+51:36 that's I think that's helpful
+51:37 information but not what what the
+51:39 question there was asking what's the
+51:41 question then questioner is asking if
+51:43 that is a tub shower combo um then uh he
+51:49 he she is talking about uh let's see I
+51:52 meant both as a combo so um um I'm not
+51:56 sure what that is are we talking about
+51:59 so there's a there's a lot of times out
+52:01 there people are putting a a like a
+52:03 soaking tub and a walk-in shower in the
+52:07 same room same room yeah so it would
+52:09 still be it would still be viewed as a
+52:11 separate room as far as the model goes
+52:13 it just have a tub and shower that had
+52:15 the same tile floor or whatever so it's
+52:18 still so the walk in shower is big
+52:19 enough to have a tub in it right you can
+52:22 still put the tub inside that shower if
+52:24 that's what you're asking right
+52:28 right okay well let us know if that
+52:32 answered your question how to do that
+52:34 where we could have separate materials
+52:35 in the same be easy enough to do solids
+52:38 with that and then run a a shower wall
+52:40 through the middle of the solids so
+52:42 you've got different deck
+52:45 [Music]
+52:47 Landing definitely let us know if that
+52:50 was if we're on I take my tubs and
+52:53 convert them to sinks and then um insert
+52:57 them into a cabinet and that becomes my
+52:59 tub deck and so you got all that yeah
+53:02 you got all that control then over you
+53:04 know Edge Edge details on the top deck
+53:07 versus paneling on the front face all
+53:09 kinds of stuff yeah that's awesome so
+53:12 we're having trouble with uh
+53:14 understanding some of the questions and
+53:16 stuff so I just want to encourage
+53:17 everybody there's a lot of really good
+53:19 questions on here today that we're not
+53:20 going to get to if you have these
+53:22 questions make sure you you write them
+53:25 down maybe send an example of what
+53:26 you're trying to you know a picture of
+53:29 what you're trying to accomplish to Dan
+53:31 and we can put these in for other shows
+53:33 in the future exactly Dan Chief
+53:35 experts.com send me that stuff ahead of
+53:38 time you can ask questions ahead of time
+53:40 in fact that'll get you on the top of
+53:41 the list um but if you can send your
+53:44 plan or a picture with what you're
+53:47 trying to do that picture is worth
+53:48 thousand words it really does help us a
+53:50 lot and it gives me time to prepare your
+53:52 answer ahead of time too so it's really
+53:54 helpful if you can do
+53:56 that you're really amazing at handling
+53:58 things on the fly but uh but it does
+54:01 help to have we try well like this
+54:04 question right here is an example floor
+54:06 plans for backgrounds for mechanical uh
+54:10 stuff floor plans from back I'm not sure
+54:13 exactly what we're trying to do there so
+54:15 Mar can you give us a little more info
+54:17 on that what are you looking I know
+54:19 mechanical mechanical and plumbing I
+54:22 think that was an explanation to her
+54:23 previous question was it oh is that what
+54:26 it
+54:29 was I'm not seeing a previous question
+54:32 from Marne
+54:34 yeah
+54:38 okay yeah our comment section's moving
+54:40 fast I
+54:42 know are great love love these comments
+54:45 yeah this is
+54:46 awesome I like that Norman calls them
+54:49 shs in New
+54:50 Zealand shower tub rooms shs oh shs
+54:54 here's another one why are we getting
+54:56 multiple incorrect plan schedule labels
+54:59 when we do floor specific windows and
+55:02 door
+55:04 schedules interpret because the reason
+55:07 that's happening is because you have
+55:09 your window telling it to go to a
+55:11 schedule in several different places or
+55:13 more than one
+55:14 place so or your schedule you have your
+55:18 schedule set up so that it's grabbing
+55:20 information from different places one or
+55:22 two two schedules two schedules with
+55:24 that
+55:25 um right so it's yeah so that's what I
+55:28 just described as creating the same
+55:29 thing you're you're somehow getting that
+55:33 window on so if you have if you're
+55:36 getting multiple call outs because you
+55:39 got that same window on multiple
+55:41 schedules um is that the
+55:45 question that's the likely answer to
+55:48 that
+55:50 question all right um uh Marne is ask
+55:54 can we I think she asked who asked go
+55:57 the window if you could post your uh
+55:59 email address Dan that's Dan a chief
+56:02 experts.com just the the same as a
+56:09 website I'll U and I think we asked that
+56:13 if you read the message that says the
+56:15 show's coming I think I have a little M
+56:17 note in there maybe I do I don't
+56:18 remember if I do anymore but I have to
+56:20 look at that um where I do mention if I
+56:24 don't I'll make sure it's in there so if
+56:26 you want to ask questions ahead of time
+56:27 please uh please do that uh let's see
+56:32 how do we included in schedule as what
+56:35 so can we could create if you're going
+56:37 to have a window on multiple schedules
+56:40 um how would we do that if we wanted we
+56:43 have two windows schedules but I only
+56:44 want certain windows on one schedule and
+56:46 windows on another schedule is there a
+56:48 way to do that um we would take you you
+56:53 would have you have a different schedule
+56:55 that would also include the same
+56:57 category if I heard your question right
+57:00 yeah not you wouldn't you wouldn't end
+57:02 up with two U uh you would end up with
+57:05 two call outs yes you would end up with
+57:07 two call outs doing that yes no you can
+57:09 make it so that it's not two call outs
+57:12 um if but that's if you don't want a
+57:14 window on each schedule if you want the
+57:17 same window on multiple schedules then
+57:18 you're going to have both multiple call
+57:20 outs unless you don't use call outs and
+57:23 just use the label yeah yeah that's true
+57:25 then that would be
+57:28 fine I'll show um my
+57:32 conditional window label is kind of
+57:36 tricky um here let me sh share mine for
+57:39 a second yeah go ahead so this is in my
+57:42 Pro Plan this is my window schedule and
+57:45 for this particular view which is just
+57:46 the working plan view when I shrink this
+57:49 down to less than 30 inches and notice
+57:51 that it changes the
+57:53 formatting
+57:56 nice bring it back up notice that I've
+57:59 got fullsize superscript here this comes
+58:01 with a font that I give out and then if
+58:04 you want to mess with the way that this
+58:05 is displayed I even give you the options
+58:07 to do that so I like that you have't
+58:10 feet in inches instead of just feet so I
+58:14 give you um an option here in the
+58:16 beginning this and this is hard to to
+58:18 read right now on this screen but I say
+58:21 um do we want to include an X between
+58:23 the dimensions well if I said this value
+58:26 to true it's going to change the way
+58:28 that this
+58:30 displays and if I want to remove the
+58:33 superscript from the schedule number
+58:35 which is true if I set this to false
+58:37 it's going to add superscript to the
+58:39 schedule number so when we go back and
+58:41 look at this again now I got an X in
+58:43 between the dimensional values and I've
+58:45 got superscript on the window label I
+58:48 knew that and then the other thing that
+58:51 this does is I do I send a window order
+58:53 Overview at a huge scale scale and um in
+58:57 that case I only want to see the
+58:58 schedule number so this is
+59:01 conditional this is Dan you're pulling a
+59:05 joke you man I love what you do this is
+59:09 phenomenal you talk to us like we know
+59:11 what the hell you're talking
+59:13 about I told somebody in our classes the
+59:15 other day Renee that if they're going to
+59:17 talk to you and get your stuff they need
+59:18 to have their dictionary next to them
+59:20 yeah I love
+59:22 it as you're doing it I get what you're
+59:24 doing but if I opened that dial and
+59:27 looked at it it's like I don't know
+59:29 that's why we rely on you to take care
+59:31 of it for us so but I like how you sound
+59:33 brilliant and look ridiculous that's
+59:38 right I can't believe it's one o'clock
+59:41 already I know let's answer this one
+59:43 question here real quick all right is
+59:45 there a decent way to represent sip
+59:46 walls floors and ceilings so that they
+59:48 include the vertical studs in top and
+59:50 bottom plates
+59:52 um first question I would have is do you
+59:54 have to I mean if you're buying your
+59:56 sips from a engineering place that would
+59:58 engineer them for you you'd have to show
+1:00:01 that the other
+1:00:04 image what's an image of what we're
+1:00:06 trying to accomplish I guess would be my
+1:00:08 question yeah so that would be a SI you
+1:00:10 know what a SI panel is it's yes OSB
+1:00:14 foam OSB and between each panel there'll
+1:00:16 be a stud depending on the manufacturer
+1:00:18 stud to connect the two panels together
+1:00:21 or and around windows and top and bottom
+1:00:24 plates
+1:00:25 yeah um I mean I'm us doing all this
+1:00:27 stuff in just a detail right so you do
+1:00:30 it in a detail but if you needed to show
+1:00:31 it in 3D for some reason you could and
+1:00:34 all your panels let's say let's say all
+1:00:36 your panels are four feet wide you could
+1:00:38 go in and create a wall type where the
+1:00:40 studs are four feet
+1:00:41 apart um in your framing dialogue for
+1:00:44 the wall type and that would get you
+1:00:47 started doing that otherwise you're
+1:00:49 going to have to place them where you
+1:00:50 want them yeah see the the problem with
+1:00:54 in Chief is when we Define that
+1:00:56 insulation layer as insulation foam it
+1:01:00 you know we don't have any option for
+1:01:01 the framing stuff here but let's just
+1:01:04 try something let's if it's on the main
+1:01:05 layer you will well I have to turn the
+1:01:07 framing on uh by default it's not going
+1:01:10 to be there so um so what kind of
+1:01:12 framing is it it's a stud spacing let's
+1:01:15 just try something just for the fun of
+1:01:17 it okay plate count
+1:01:20 one um plate inch and a half bottom
+1:01:24 plate one inch and a half what you do
+1:01:27 stud spacing at be nice if we could just
+1:01:29 say don't put studs there well could I
+1:01:31 change you want that to be 48 or 96 or
+1:01:34 something like that what for the sping
+1:01:37 yeah oh yeah let's try that okay stud
+1:01:40 with
+1:01:41 1.5 all right let's see what that does
+1:01:44 um so we're still using full material
+1:01:46 though but we're calling it
+1:01:50 Lumber I think you're
+1:01:52 fine it doesn't matter you don't have to
+1:01:54 show the the foam in it yeah that's not
+1:01:56 going to matter so now if we were to
+1:01:58 draw with that
+1:02:00 wall um do I have it selected here
+1:02:05 yep and I frame those
+1:02:10 walls going too fast here Rene's last
+1:02:13 his M off
+1:02:16 Renee cheering over there I don't know
+1:02:19 what he's
+1:02:20 doing it's doing that so if we look at
+1:02:23 theie
+1:02:25 there's your framing with the plates top
+1:02:28 and bottom and if you use the framing if
+1:02:30 you use the framing reference that would
+1:02:31 get you started if if that's how your
+1:02:34 your sip panels come and if you don't
+1:02:36 want to if you don't want to use the
+1:02:37 framing reference to get it started you
+1:02:39 can break the walls at four foot
+1:02:41 intervals and get what you're looking
+1:02:42 for to which is going to double up the
+1:02:44 studs between those sections just
+1:02:45 remember that's a really good idea
+1:02:47 that's a really good idea remember that
+1:02:48 as soon as you do that and you touch
+1:02:49 those walls together it's going to mend
+1:02:51 them again so
+1:02:53 in
+1:02:55 in versions up till now you can flip the
+1:02:57 sections uh forward and back and change
+1:02:59 their layers in future versions We here
+1:03:03 that uh you'll be able to split the
+1:03:05 walls and it'll maintain those splits
+1:03:06 you can still do that you can do that
+1:03:08 right now walls but that's going to put
+1:03:11 the siding on the inside John no no no
+1:03:13 no that's not what I'm talking about
+1:03:15 just go to walls the defaults in the
+1:03:17 walls and go down and you can uncheck
+1:03:19 that so that it doesn't mend them back
+1:03:22 together there where is that
+1:03:24 under wall under wall def not there
+1:03:26 under the wall defa wall defaults it's
+1:03:28 under General General wall defaults
+1:03:31 General wall defa not in the wall types
+1:03:32 in the wall
+1:03:33 default that's gonna do it that's GNA do
+1:03:35 it for everything in the house that'll
+1:03:37 do it for everything so you can't have
+1:03:38 you can't have it both ways Kevin you
+1:03:40 got to have
+1:03:42 a auto merge colinear walls yeah that I
+1:03:46 check uh that needs to be unchecked for
+1:03:48 it not to so now I could break these all
+1:03:51 day long and and they will not heal back
+1:03:53 together yeah so okay cool now that
+1:03:56 you've broken those um it still is using
+1:03:58 the stud spacing uh according to no
+1:04:03 reframe it reframe
+1:04:05 it go then it's
+1:04:07 gonna now you got the doubles where they
+1:04:09 should be so I would make I didn't break
+1:04:12 that every four feet I broke it longer
+1:04:14 than four feet right options for that I
+1:04:18 would Mark that out with you know the U
+1:04:21 I'd put some CAD lines in there every
+1:04:22 four feet and I'd break at those CAD
+1:04:25 lines is what I how I would lay that out
+1:04:27 you put that stuff on a different layer
+1:04:29 so you know it's not always there but
+1:04:31 it'd be one way to do it um yep so you
+1:04:34 could then break them
+1:04:37 accurately Erin has asked if um we can
+1:04:41 create a submitt for questions to be
+1:04:43 addressed at the summit that's pretty
+1:04:45 cool idea absolutely yeah you will be
+1:04:47 hearing from us about that errand so we
+1:04:50 definitely want to know that so it's
+1:04:51 getting close so we're going to start U
+1:04:53 at after the New Year's you'll start
+1:04:55 hearing from us about the summit by the
+1:04:56 way looking forward to seeing you there
+1:04:59 was there last year so and you're
+1:05:01 bringing a cooworker with so that's
+1:05:03 excellent um all right I think we're
+1:05:06 done we're actually over time but um you
+1:05:09 guys uh happy happy or happy merry
+1:05:12 Christmas happy merry Christmas and
+1:05:13 happy New Year dance it
+1:05:16 out we will what will R come dressed
+1:05:21 as
+1:05:23 um
+1:05:25 uh when is our next uh designer show
+1:05:27 let's see here it is um where's my
+1:05:30 calendar here's my calendar we are going
+1:05:34 to be back live and in person
+1:05:38 on January 5th so awesome and uh we'll
+1:05:43 have some more fun next year I return to
+1:05:46 the United States on January 4th I'll be
+1:05:49 cool very tired so you guys if you have
+1:05:51 any comments questions uh you have ideas
+1:05:54 for us for our designer show let us know
+1:05:56 I mean we're an open book here so we're
+1:05:58 always looking for comments feedback
+1:06:00 criticism if there's something we could
+1:06:02 do better please let us know I mean
+1:06:03 we're just we kind of do this for fun
+1:06:05 and we have a good time with it to share
+1:06:07 our knowledge and information um so let
+1:06:11 us know you guys got anything you want
+1:06:12 to
+1:06:14 add like
+1:06:16 David
+1:06:23 that
+1:06:25 yeah he will um and you'll have Kevin
+1:06:28 logos all over every stud
+1:06:32 um I'm surprised you haven't made a a
+1:06:35 house wrap yet with Kevin's face on
+1:06:39 it only because he hadn't had the idea
+1:06:43 yet all right everyone see you guys
+1:06:47 happy holid holiday love you guys Merry
+1:06:50 Christmas all
+1:06:52 bye

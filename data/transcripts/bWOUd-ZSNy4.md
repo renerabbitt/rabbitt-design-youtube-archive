@@ -1,0 +1,2043 @@
+---
+videoId: bWOUd-ZSNy4
+title: Pop Up Live Chief Architect Session
+url: "https://www.youtube.com/watch?v=bWOUd-ZSNy4"
+status: imported
+---
+
+# Transcript
+
+0:04 haven't even started yet David B is
+0:07 first number
+0:11 one nice well nice to have someone in
+0:14 here already so thanks
+0:20 David all right what are we getting into
+0:26 today maybe I'll make a little Banner
+0:29 explaining what I'm doing
+0:30 here what are we doing we
+0:36 are
+0:41 modifying can't type modifying let's see
+0:46 window
+0:50 labels
+0:51 for can for let's
+0:56 see
+0:58 conditional
+1:08 anos why not just call it anos all right
+1:11 add the banner do we get to show that
+1:14 yeah there we go a't that
+1:18 informative right so here's my window
+1:23 label here's my window label and it
+1:25 already does a bunch of fun
+1:27 things but it's all macro driven and
+1:30 it's a complex macro so you got to mess
+1:32 with it for a while um so when I shrink
+1:36 this down below 30 in on a particular
+1:39 plan
+1:40 view it
+1:42 changes its formatting and if I change
+1:46 it to a window order
+1:48 overview then it changes its text and
+1:51 also only shows its
+1:55 schedule which is great all that's great
+2:00 then if I get into text macro management
+2:02 and get into the window label and edit
+2:05 it and make this way bigger which we
+2:09 can't seem to
+2:09 [Music]
+2:14 do my fancy zones aren't working why not
+2:17 they're not working on they're not
+2:19 working on Virtual screens that's too
+2:22 bad all
+2:25 right which means we can't even see this
+2:28 can we no we can't now we
+2:39 can so in my window label I give people
+2:42 the option
+2:44 to what I give you the option to I give
+2:47 you the option to change the way the
+2:49 formatting
+2:50 is so if you want to remove superscript
+2:53 or add superscript
+2:55 from from the schedule number we can
+2:58 change this to fall false if you know
+3:00 how to spell which I
+3:03 don't false and then press okay and then
+3:06 what
+3:08 happens close that
+3:11 out nothing changed well that's not
+3:15 helpful
+3:23 see move super script from Dimensions
+3:27 false move super from schedule
+3:35 false there we go now the schedule has
+3:39 superscript cool but I don't like that
+3:42 but I give you the option that's kind of
+3:44 clever let's see here let's kick on
+3:47 comments so now I want it so that when
+3:50 we change to a framing floor plan or
+3:53 rather rather framing floor plan is
+3:55 going to be this when I change to a
+3:57 framing roof plan I might want to show I
+4:01 might want to show windows and I might
+4:03 want to show window
+4:06 labels framing floor pan is not going to
+4:09 show this unless you're the floor
+4:14 above so if we were to build all framing
+4:17 here which I need build all framing in
+4:20 my default toolbars I'm constantly
+4:22 switching
+4:24 toolbars that seems a little tedious
+4:26 let's just throw it in here build all
+4:31 General framing tools where do we even
+4:33 put this build all framing should
+4:39 be I guess up by Auto
+4:45 Detail
+4:48 okay and yeah FR 4 pan sure why
+4:53 not so that's obviously going to show
+4:56 RFS this shows here it is showing
+5:00 it's showing header
+5:02 size but maybe it's that I want to
+5:07 show maybe I want to show window labels
+5:10 instead and show rough
+5:16 opening I might build an entirely
+5:18 different save plan view just so that I
+5:22 have rough opening on anything that
+5:26 mentions
+5:27 framing so I think that's what the plan
+5:30 is so let's grab our window label
+5:35 RAB set this back to
+5:38 the
+5:42 true copy everything
+5:49 okay and let's bring up my social wait a
+5:53 minute that just docked interesting I
+5:55 get
+5:56 docking somehow Chief Architect doesn't
+5:58 allow docking now and it did before
+6:02 interesting all right so I want in my
+6:07 gpts explore let's see no I want my Ruby
+6:11 scripting and so let's see I want
+6:15 to we want to add a
+6:22 condition let's add a condition to the
+6:24 following
+6:25 macro when layer set
+6:30 includes
+6:33 framing then our window label will only
+6:37 report rough
+6:42 opening and before we even get too far
+6:45 with that we need
+6:47 to double check what our available
+6:50 macros are here
+6:56 right let's
+6:58 just
+7:07 snap this little tool here if you
+7:09 haven't gotten this tool this isn't my
+7:10 free symbol
+7:13 stuff um somewhere maybe I should go
+7:16 figure out where that
+7:18 is search the material in this case
+7:21 we're going to say can we get rough
+7:24 rough
+7:26 rough uh rough opening additional height
+7:29 rough opening clearance Gap top opening
+7:33 clearance Gap top
+7:34 is rough opening total height and rough
+7:37 opening total
+7:39 width but we want to format that
+7:42 so rough opening total height by rough
+7:45 opening total
+7:55 width macros
+7:58 for
+8:07 opening
+8:10 total right no we want with
+8:27 first let's see what else are we missing
+8:29 let's add a condition to following macro
+8:31 when layer set
+8:32 includes framing let's just
+8:37 go quote
+8:42 quote
+8:47 label rough opening
+8:50 channel right let's
+8:54 see let's see we want maybe schedule
+8:58 number two
+9:15 let's see any other conditions we want
+9:16 to think about for that rough
+9:19 opening if includes
+9:21 framing I think that's it let's see what
+9:23 this gives
+9:24 us so this is a custom a custom GPT for
+9:28 me
+9:29 um I built this and it's specific to
+9:32 write Ruby scripts for a Chief
+9:35 Architect um with a lot
+9:38 of tricks in there and then oh that's
+9:41 what we needed we needed a format we
+9:42 needed to use the number formatter to
+9:44 format in oh what do we want rough
+9:47 openings
+9:49 in quarter
+9:58 inch
+10:00 so it's changing these to a float which
+10:03 is
+10:05 fine so let's just stop this well that
+10:07 was good so let's
+10:10 see
+10:20 let's let's see the number four matter I
+10:23 can't remember if we need to need to
+10:25 find out with the number form do we need
+10:27 to convert it to a float for if you know
+10:29 macras at all by the way this is kind of
+10:31 an advanced thing we're going over if
+10:33 you know macras at all we know that
+10:35 there's a measurement class in Chief
+10:37 Architect and that's that's specific to
+10:40 Chief Architect like that doesn't exist
+10:42 in in other rubby environments so we've
+10:44 written a method that's built in the
+10:46 Chief Architect for um things that are
+10:48 considered a measurement class okay so
+10:51 that if you were to open up just open
+10:54 this guy up we've got the window
+10:56 selected I'm choosing object properties
+11:00 wish my docking worked I don't know why
+11:02 it's not um object properties some of
+11:05 these items
+11:08 are um let's see if we use
+11:11 expanded some of these items are
+11:13 measurement class
+11:16 okay see that measurement class that's a
+11:20 custom class there so what does that
+11:24 mean um and my hotkey sto working oh
+11:27 there we go
+11:29 um that means that sometimes we need to
+11:32 convert this before we do something like
+11:36 use a number formatter so let's see I
+11:40 want to find something that has an
+11:42 example of a number formatter which
+11:44 might
+11:48 be using number formatter here no we're
+11:51 not we're doing that another
+11:57 way
+12:03 formatted opening WID is that using nope
+12:05 not using it there
+12:08 either there we go there's a number form
+12:15 better I think it needs to be converted
+12:18 to a float before
+12:21 beforehand okay so that's
+12:24 fine
+12:26 so format rough openings
+12:30 to use
+12:33 fractions
+12:38 and quarter inch let's see if that can
+12:41 figure this
+12:52 out sometimes it's just not going to
+12:54 listen to me yeah it's not listening to
+12:55 me because it's not actually using the
+12:57 number formatter
+13:11 means I need to go rewrite my GPT to
+13:15 specifically add that
+13:22 detail GPT is a if you pay for chat GPT
+13:26 plus you have the option of making
+13:28 custom trained version of CH GPT for
+13:32 yourself so that's
+13:34 what I was doing let's
+13:57 see
+14:11 so if you go and look for like the Chief
+14:12 Architect PDF
+14:21 manual reference manual
+14:27 uhuh
+14:29 and then we just do a contrl f and
+14:32 macros
+14:37 maybe text macros 540 this is actually
+14:41 in like the 1300s there we go say
+14:44 clickable it is clickable nice nice job
+14:48 Chief um working with Envy Publishers
+14:51 named value pairs macros and context
+14:53 measurement there should
+14:55 be measurement and number format classes
+14:58 here we are are and so these are the
+15:00 measurement classes going over this
+15:02 here's a number format or method so we
+15:04 can just copy
+15:06 this copy this copy this copy this copy
+15:09 this copy and then bring that into chat
+15:15 GPT and say please use the
+15:20 number form matter built into
+15:26 Chief paste Bang
+15:43 oops hit the mic oops hitting the
+15:46 [Music]
+15:50 microphone need some
+15:57 coffee
+16:01 everybody hear me okay anybody want to
+16:06 comment probably can't see probably
+16:09 can't see what I'm getting at here let's
+16:12 see um this is what I hate what let's
+16:16 see what chat jpt does on a regular
+16:19 basis is truncate parts of the code oh
+16:22 that just drives me no
+16:27 nuts please do not truncate any parts of
+16:30 the code such as the section where you
+16:32 say existing code for Section view or
+16:34 window layout layer set I need the
+16:36 entire code so I can copy
+16:40 it and you'll say this four or five
+16:42 times and it'll still truncate the code
+16:44 drives you
+16:48 nuts there we go all right we got some
+16:53 people concept design I haven't seen
+16:55 this logo before um cool cool I'm glad
+16:59 you're in here if you got any questions
+17:00 for me any any Chief Architect questions
+17:04 twin motion questions streaming
+17:06 questions Photoshop questions anything
+17:09 you want to go over let me
+17:12 know um this is a casual day for me I've
+17:15 got some work I'm going to do but I'm
+17:16 gonna be working all day and yeah kind
+17:20 of feel like having fun I'm in that
+17:21 Christmas
+17:22 mood wonder if open Assistant could do
+17:24 what you're doing with chat GPT I'm not
+17:27 familiar with open assistant you'd have
+17:29 to tell me what that
+17:33 is there's a man what's up Justin glad
+17:36 you're in
+17:37 here oh we got to continue
+17:43 generating man I follow as much of your
+17:45 content as I can very cool oh but I'm a
+17:48 lurker it's in the shadows cool um I
+17:53 haven't been putting out a ton of
+17:54 content but uh not on YouTube in
+17:58 Facebook um got a ton of content in the
+18:01 Discord server but not not here but I
+18:03 need to put some more in so we'll get
+18:06 there all right so we got a window
+18:09 label I'm not even going to look at this
+18:11 I'm just going to copy it in Chief and
+18:13 see and see if we can get anywhere with
+18:19 it I'm GNA troubleshoot if I find
+18:21 anything
+18:23 funny just grab this paste it does it
+18:25 work it still works that part's good
+18:29 and then now what happens
+18:33 to let's just say well here we can just
+18:35 do this save plan view as and we can
+18:37 literally type out
+18:40 Framing and that didn't
+18:45 work let's figure out let's figure out
+18:48 why Why didn't it
+18:51 work okay let's see the script what do
+18:54 we got here let's just zoom it in so
+18:56 everybody could see
+19:11 here's the number four
+19:13 matter
+19:16 okay if layers oh because I'm not
+19:21 doing because I'm not doing it right
+19:24 that's why uh we need to make a copy of
+19:26 the working layer set so just copy the
+19:29 set call it
+19:30 framing working why not working framing
+19:33 should be
+19:35 fine working framing look at that and so
+19:38 it did spit out the rough opening but
+19:43 and it did apply our formatter that's
+19:46 fantastic actually this is really good
+19:48 we just want to change how this is
+19:51 formatted just a little bit um do we
+19:55 want superscript on this that'd be
+19:57 interesting
+19:59 can you even get superscript no I'd have
+20:01 to change a bunch of things to get
+20:04 superscript
+20:07 so although I believe in macros I
+20:11 believe in anything let's just go let's
+20:13 go text let's drop in a text here I
+20:15 think that we can get into Global time
+20:17 date special characters yeah we can get
+20:20 half quarter and three quarter since and
+20:23 we're in quarter inch intervals so we
+20:25 could set a parameter here where we're
+20:27 using
+20:30 superscript and would we want to would
+20:33 we want to use
+20:35 superscript so what happens what does
+20:37 this look like what does this look like
+20:39 if we've got R and then
+20:42 40 and 3/4
+20:46 inch
+20:49 by 24 and whatever does that look cool
+20:53 do we like the superscript or not is
+20:56 what I'm getting at here
+21:00 would we want to see
+21:03 that I kind of like that actually it's
+21:05 certainly shrinks it
+21:11 down certainly shrinks it down so how do
+21:15 we get into
+21:19 this that's interesting it's almost like
+21:22 we can just copy this it's a
+21:25 character
+21:27 okay
+21:30 okay okay okay so let's just get all
+21:33 three characters in here special
+21:35 characters we got
+21:40 half
+21:45 3/4 and
+21:47 qu let's copy all that and then back to
+21:51 chat
+21:57 GPT
+21:58 this is
+22:00 perfect let's use a
+22:17 special let just what we got
+22:20 here open assistant is a project meant
+22:23 to give everyone access to a great
+22:25 chat-based large language model open
+22:27 source
+22:29 um can we train it that's my main thing
+22:32 can we train it that's what I want to
+22:33 know um I have very specific rule sets
+22:37 built into this GPT that make it so that
+22:42 um well and also open AI has stated that
+22:47 they're going to make
+22:49 gpts accessible to the general public um
+22:52 for people that are non plus
+22:54 subscribers which means that I'm going
+22:57 to end up I'm probably going to end up
+23:00 charging for use of my GT this
+23:03 particular one anyways because hey it
+23:05 makes it so that you can do a lot of
+23:06 stuff that I can do and I put in all the
+23:10 work I mean I give away a lot of stuff I
+23:14 don't feel bad about it you guys are
+23:16 gonna get charged to use
+23:17 it see uh all right special character
+23:21 for this and
+23:23 then um although I'm always down to
+23:27 train people how build the stuff that I
+23:30 build for
+23:33 free for the most
+23:36 part but giving away stuff I build
+23:39 that's where it's that's you know I pick
+23:41 and choose got to make
+23:43 money all right let's see let's use a
+23:45 special character for rough opening
+23:47 dimensions and then um in the
+23:53 formatting for the r
+23:56 opening
+23:58 condition
+24:00 should have lower case
+24:05 X between
+24:12 dimensions
+24:26 and
+24:30 okay what else did we see about this was
+24:32 there anything else I don't think so
+24:40 try I built codex into chat
+24:46 gbt I'm using the child of codex
+24:56 aha do you have have a GPT that you've
+24:58 been working on have you been making one
+25:14 David curious curious
+25:26 curious
+25:29 all right what do we get
+25:31 here continue jittering I've started to
+25:35 split some of my more complex macros
+25:37 into multiple macros but this is one
+25:40 that you can't really do that on
+25:43 unfortunately because it's got so many
+25:47 uh conditions based on layer sets unless
+25:51 you built those same conditions into
+25:53 every split macro but it's easier to
+25:56 manage especially in chat GPT it's funny
+26:01 like it's easier to manage from the chat
+26:03 GPT perspective that it that forces you
+26:06 into creating multiple AC is kind of
+26:09 like a modif it's like a unique marker
+26:11 in a way like someone's going to be able
+26:12 to tell that I'm using chat GPD to build
+26:15 this stuff all right let's see what
+26:16 happens here I'm not even I love when
+26:20 this um this
+26:22 GPD starts becoming so
+26:25 good that I don't actually need to check
+26:28 its coding it's doing everything
+26:31 right but that doesn't happen that
+26:38 often error because we didn't have
+26:41 anything selected look at that that's
+26:44 looking pretty good except for I don't
+26:46 want to see the inch I want to
+26:51 see
+26:54 um I don't want to see inch I want to
+26:57 see the
+26:59 inch quotation marks
+27:04 instead yeah we're getting there we're
+27:06 getting really close I I'm liking this
+27:08 and then I want I wanted to say R I
+27:11 don't know that I need to see the
+27:12 schedule number or maybe I do maybe we
+27:14 want to see schedule number on a first
+27:17 line followed by R so let's do
+27:26 that
+27:31 I do not want to see
+27:36 in instead I'd like to see quotation
+27:39 marks to designate
+27:43 inches please put the schedule number on
+27:46 a first line and then the rough opening
+27:50 on the second
+27:51 line prede the rough opening
+27:54 Dimensions with the letters r o in all
+28:00 capitals followed by a space and then
+28:04 remember I need a space in front of and
+28:07 after the X which is between the width
+28:11 and the
+28:15 height boy getting used to talk to text
+28:19 is
+28:21 just it's very it's very nice it's very
+28:24 nice on the
+28:26 brain
+28:35 nice yeah it does it moves very very
+28:38 quickly I just got stable diffusion uh
+28:41 reinstalled and man is that fun we
+28:44 should go through that I maybe I'll
+28:45 maybe I'll do a little test diffusion
+28:48 that'd be fun I wonder what I could do
+28:50 with a staircase oh I need cover art for
+28:53 a staircase you're brilliant David
+28:55 you're oh you're brilliant
+28:57 thank
+29:02 you okay so what do we have here the
+29:07 other problem I have with chat gpg
+29:09 sometimes is sometimes it screws
+29:12 something up for
+29:14 me and like it it like messes something
+29:18 up it shouldn't have been touching some
+29:20 part of the code that was always
+29:22 good please do not truncate the code at
+29:25 all for example you put remaining code
+29:28 for doors and windows layer logic please
+29:30 put the entire code so I can copy
+29:34 it doesn't matter how I write that in
+29:38 script or otherwise in its instruction
+29:40 set or otherwise no matter what it will
+29:42 truncate code um which is very
+29:45 frustrating it's waste a lot of time
+29:47 going back and forth when it does
+29:52 that how's the new computer running yeah
+29:56 um AMD sent me a new desktop
+30:01 bam can't send you a picture of it
+30:03 because we're in the virtual world but
+30:05 we're working from it right now uh what
+30:08 was really fun was I don't play games
+30:10 but well I say that but I had to jump on
+30:14 a game with the new machine and so I
+30:16 jumped on um in VR but it was streaming
+30:19 from the new machine so it was streaming
+30:23 uh halflife Alex which if you've never
+30:25 played that game that is the most
+30:27 immersive environment you've ever seen
+30:30 um I'm pretty sure they're using
+30:31 stereoscopic rendering in that game so
+30:34 usually when we see like a VR shot
+30:36 that's monoscopic rendering you're
+30:38 getting it from a single perspective
+30:40 you're not getting it from both eyes
+30:42 like I don't know that there's a
+30:44 rendering engine out there um that's for
+30:47 the architectural world where we can do
+30:48 a stereoscopic rendering it will do
+30:51 stereoscopic but it'll do your blood U
+30:53 blue red channel so you need your red
+30:55 San glasses right but it won't do a true
+30:59 multi view steroscopic rendering because
+31:01 how could it right because we've got a
+31:03 fixed perspective we've got a fixed view
+31:06 where we are looking um straight from
+31:08 our point of reference forward from two
+31:11 eyes but what happens when you turn well
+31:14 all of a sudden those two fixed
+31:16 perspectives need need to turn as well
+31:19 so how do you render that um it's an
+31:21 extremely complex situation to come up
+31:23 with I think in halflife Alex they
+31:26 figured out some way of doing stereos a
+31:29 stereoscopic setup so that it's
+31:31 constantly just feeding from from both
+31:34 eyes so it's not a static thing it's
+31:36 Dynamic and so what that means is when
+31:38 you look into a stereoscopic rendering
+31:40 you can test this you can do a
+31:41 stereoscopic rendering just by doing a a
+31:45 3D rendering um that's a spherical
+31:48 rendering from one fixed position then
+31:51 move the camera over 4 in 3 and 1 half
+31:54 Ines and do another rendering and and
+31:57 then feed those through to two um two
+32:01 static images and throw it in your VR
+32:03 headset now when you're looking direct
+32:05 forward things will look like they have
+32:08 depth which is a crazy sensation it will
+32:10 look like you're actually in that shot
+32:12 you just can't turn your head left and
+32:14 right that would be the problem so half
+32:17 likee halflife Alex everything has depth
+32:20 so man do you get sucked into that game
+32:22 anyways I played that on my new AMD
+32:25 machine and
+32:27 uh I've never seen it with such high
+32:30 settings so that was fun but this is a
+32:35 what is it it's a a 16 core and I think
+32:39 it gets up to five gigahertz speed on
+32:41 the processor and then 60 gigs of RAM
+32:44 and it's the ram timings are super tight
+32:47 and it's 6,000 MHz RAM and then it's a 3
+32:51 tbte black Western Digital hard drive
+32:56 and then 79 00 uh xdx it's a it's a Mean
+33:00 Machine it's got some really cool stuff
+33:02 going on with it too all right lost
+33:05 Focus what do we got here Windows label
+33:08 Ram let's
+33:10 just uh so you can always double click
+33:12 oops if you are accurate double click
+33:17 your deal here uh expecting keyword and
+33:22 uh oh that looks like it might have a
+33:24 problem with the code let's see yep it
+33:25 does so what I do what did I mess up I
+33:29 got
+33:33 sidetracked um the other thing that is
+33:35 nice about this machine
+33:37 and I got finally got someone to buy
+33:41 into topaz labs and if Ethan Ashby gets
+33:44 to see this he'll be like
+33:46 yep
+33:48 um what happened here in syntax eror
+33:53 expanding end of
+33:55 input what happen happened here let's
+33:58 see um so someone bought into topaz's
+34:00 labs and has been using it and been
+34:02 having a blast with it
+34:05 because you can render out and get topaz
+34:09 to interpolate frames very
+34:14 quickly oh how
+34:16 funny for
+34:19 one this dash dash dash is part of me
+34:23 posting into uh this is funny
+34:28 this is part of me posting
+34:30 into Discord I asked it to give me a
+34:32 dash dash dash but we didn't request
+34:34 that see this is this is chat GPT acting
+34:37 on its own sometimes see this junk
+34:42 yeah oh I didn't copy the code I copied
+34:45 the whole string that's what's funny
+34:49 okay goofball pay attention dude pay
+34:54 attention there we go and look at that
+34:57 that's looking pretty good my last bit
+35:00 here is I just don't even want space
+35:01 between the or maybe we do a dash dash
+35:04 between the the
+35:06 dimensions that's the last bit and then
+35:08 this is looking good very
+35:12 cool um anyways back to the machine this
+35:15 AMD machine topaz Labs will use whatever
+35:18 graphics cards in your machine so this
+35:20 particular machine actually has a
+35:22 integrated graphics card on the CPU die
+35:24 right and so topas is absolutely use
+35:27 that um so that speeds that speeds me up
+35:31 considerably it's taking me like a
+35:32 minute and a half to pump a 1280 at 7
+35:37 frames a second up to 4K at 50 frames a
+35:40 second for about 10 seconds a video
+35:43 which is insanely fast so and I can
+35:46 render 10 seconds a video in
+35:49 like oh let's see I can render 10
+35:52 seconds a video in
+35:55 about like a minute or or two maybe like
+35:58 if we just put
+36:01 on look how fast that I mean that's four
+36:04 samples that's so four samples that's
+36:06 pretty fast but
+36:08 still I mean this thing's
+36:11 flying in Ray
+36:15 Trace so nice ah so nice can't tell
+36:22 you all right let's just look at the
+36:25 code and see if I can't figure this out
+36:35 myself you ever thought about just
+36:38 modifying all the mouse cursors in Chief
+36:41 Architect you can be kind of
+36:45 funny I've also done it where changed
+36:49 all the icons to grayscale and then
+36:52 changed the whole interface to grayscale
+36:55 and then pumped up the size of the icon
+36:57 to a million per and then made a bunch
+37:00 of toolbar configurations that only had
+37:02 like five things on it so that it was
+37:05 like a was almost like a just a
+37:06 completely Mac interface it's kind of
+37:10 fun let's see if our button works for
+37:12 zooming hey it got there faster this
+37:15 time so what's the part of the code that
+37:19 shows us the
+37:22 framing I love that it automatically put
+37:24 in down case framing in there that is
+37:26 absolutely correct let's see G sub half
+37:30 inch with half inch
+37:34 and but there's a space in there reform
+37:38 so return format label for framing layer
+37:40 specifically so here it is so it's the
+37:43 schedule string plus a new line plus
+37:45 rough
+37:49 opening and then there's the space in
+37:51 front of X but it's rough width
+37:53 formatted and rough height formatted so
+37:55 where are we getting rough width form
+37:57 Mets form met apply rough opening total
+37:59 with G sub half
+38:02 inch so we actually wanted G sub space
+38:06 half inch would be the money move
+38:12 with right with
+38:16 Dash it's not showing up the way I
+38:19 expected to let's just try that here
+38:24 too there it is bam I'm looking at the
+38:27 new result down at the bottom of the
+38:33 screen bam bam
+38:48 bam bam I think that's it and double
+38:51 check your work yep let's back out of
+38:55 that press
+38:59 Okay cool so anytime I'm in a layer set
+39:03 that has framing in the layer set it'll
+39:06 show the window rough
+39:08 opening very cool what else we got let's
+39:12 go over let's go over mj6 I'm down to go
+39:15 over mj6 um I'm really pleased with that
+39:19 we can take a look at
+39:20 that
+39:22 oh adjust my
+39:25 boute
+39:27 I've never thought Chief did what I
+39:28 wanted in its VR implementation yeah me
+39:30 too I haven't spent more than 10 seconds
+39:32 in it and I knew nope don't want
+39:35 to knowing the field of view of your
+39:38 headset and other parameters I will say
+39:40 if you're hosting it on coola you've got
+39:42 some ability to affect some things there
+39:45 so that part's nice we can do a quick VR
+39:47 rendering um just to Showcase and we'll
+39:49 throw it in Kola why not let's do that
+39:53 um yeah you can see the difference when
+39:56 you're doing recording and live videos
+39:59 yeah that's
+40:00 true and
+40:01 Santa
+40:03 nice yeah bit of fun you know it's
+40:06 Christmas right okay so we should change
+40:09 this label right modifying window labels
+40:10 for conditional anos um what do we want
+40:13 to do first we're going to do first
+40:16 let's just do a VR rendering
+40:19 so let's edit
+40:25 this are rendering in Chief Architect
+40:27 and hosting in
+40:33 Kola man I love the voice text it's so
+40:37 cool it's so cool look at that
+40:41 bam all right let's do a little
+40:43 rendering what do we got we've got let's
+40:45 go to a plan that's already set up oh
+40:49 well this is great we'll use this to so
+40:51 I'm going to go over a set of staircase
+40:54 that's extremely complicated staircase
+40:57 to build and I'm going to make hopefully
+40:59 a comprehensive video about it and so
+41:02 part of that is that we want some cover
+41:04 art right so maybe we'll use stable
+41:06 diffusion and we'll even try mid journey
+41:09 to do some cover art for a staircase
+41:11 that's based on whatever image we create
+41:13 here and at the same time we can go
+41:16 ahead and do a VR hosted in Kola you
+41:19 guys are content Geniuses right
+41:25 here
+41:27 yeah there you go thank you David okay
+41:30 so let's just talk about the staircase
+41:32 first of
+41:33 all I think this is the most difficult
+41:35 staircase I've ever had to build and
+41:38 it's for a number of different reasons
+41:40 one we've got the flare but part of the
+41:42 problem with the flare is you cannot get
+41:44 Chief Architect to generate a staircase
+41:46 flare if you are buted up against the
+41:49 wall so before when I had modeled this
+41:52 this was a wall here okay and it had an
+41:54 opening in it that lined up with the
+41:56 column and butt it at this corner and
+41:58 then the column took its place well you
+42:01 can't get the flare so you'd either have
+42:03 to do one or two things you'd either
+42:04 have to convert the staircase to a
+42:06 symbol and place it in place or you have
+42:08 to get rid of the wall I chose to get
+42:10 rid of the wall the next big challenging
+42:13 part here is I'm split on a half tread
+42:16 so how do you do that without just
+42:18 diving this thing into the wall well
+42:21 that's really challenging as well and it
+42:24 creates some other issues when you do
+42:26 that
+42:26 you can no longer get this trim against
+42:28 the wall so you notice here I've got the
+42:30 trim here let's just do a handd drawn
+42:33 line on top so we can see
+42:35 it right so I've got the trim against
+42:37 the wall I didn't finish up the trim up
+42:39 here that's another you know issue but I
+42:41 do have the trim but it back to the
+42:43 split on the staircase so again this is
+42:46 just another complex part of this issue
+42:50 the next thing is we've got these um B
+42:54 what are they called volutes I think
+42:57 so that's a challenge in of itself as
+43:00 well and then we've got all these
+43:02 transitions now you could try to get
+43:04 these transitions to work with
+43:06 individual stairs good luck trying to
+43:09 get it to work with Landings and I'm
+43:11 using Landings here you could have made
+43:14 this a single stair and then designated
+43:16 a bunch of things to make this you know
+43:19 transition but again good luck and you
+43:21 certainly weren't going to get a
+43:23 transition like this where it wraps
+43:25 right so what am I doing here this is in
+43:28 fact a 3D molding and the 3D molding
+43:31 tool is just extremely difficult to do
+43:35 the next part of this that's tricky is
+43:37 all of this lines up with a scan so if
+43:41 we click on our floor reference and
+43:43 let's just go
+43:44 choose an existing plan and we're going
+43:47 to say scan
+43:48 only and if we see Glass House let's
+43:51 just go standard and press
+43:54 okay you're going to see that all this
+43:56 is coming from um a matter pack
+44:02 scan in a
+44:05 second there it goes so that's the
+44:07 matter pack skin so I'm pretty dang
+44:11 close to the matter pack
+44:14 scan all the way around it's kind of fun
+44:16 to to walk through the house actually
+44:18 it's got a lot going on but um the other
+44:21 cool thing is you can do the inverse
+44:23 where you're looking at the matter pack
+44:24 skan and you are getting a Glass House
+44:26 view of your
+44:28 model all right let's turn that off for
+44:30 a second so um how does this all go
+44:33 together well one these are windows and
+44:36 this is a quick little uh window trick
+44:38 and if I haven't done it before I maybe
+44:40 just do a Chief Architect shorts video
+44:42 where all I did here was I open up the
+44:47 staircase and then it tells you right in
+44:50 the general tab what your rise angle is
+44:53 right here so you can take this rise
+44:55 angle copy it and
+44:58 then take it into a new plan draw a roof
+45:01 plane designate the pitch of the roof
+45:04 plane as showing in um degrees and then
+45:11 or what degrees Yeah in degrees and then
+45:14 paste that rise and then place a window
+45:17 tell the window to match the roof and
+45:20 then copy the window paste it under your
+45:21 stairs into the wall and then you're
+45:23 going to mess with your sash settings
+45:25 and everything else to create this
+45:26 recess so that whole process only takes
+45:29 like I don't know 3 minutes something
+45:32 like that to be able to get these little
+45:33 insets underneath the staircase so
+45:36 that's this part of it here's the trick
+45:38 here I've got two walls it's two
+45:40 separate walls one of those walls is
+45:43 pulled back and it's pulled back to the
+45:46 length of where these staircase
+45:48 transition so one of these staircases is
+45:51 wider than the other there had to be a
+45:53 complete break here then the staircas is
+45:55 pulled back and then it's press pressed
+45:57 up against the wall so that there's a
+45:59 little section here where there's a pony
+46:03 wall where the lower pony wall is is a
+46:06 solid wall type and the upper pony wall
+46:08 is a room divider and then it fills in
+46:11 the
+46:13 corner it's it's even hard to
+46:16 explain and then the last piece of this
+46:18 is I did in fact put a polyline solid to
+46:20 create this header I could have done a
+46:22 soft it but I don't know solid worked
+46:24 just fine and then it was just a matter
+46:27 of pulling a cross-section View and
+46:30 specifically what I did was come in here
+46:32 come into the middle of the stairs let's
+46:34 pull a back clipped cross-section View
+46:37 and pull it through the stairs and
+46:39 here's where you can take that same
+46:41 method as before where here's our
+46:43 staircase you can see it's an extended
+46:45 Stringer top here which didn't need to
+46:47 be the case but this is hidden by a wall
+46:48 anyways and let's turn on a reference
+46:51 and choose that scan only again right
+46:54 and you can choose class house or you
+46:55 can choose standard whatever you'd like
+46:57 but you'll see this show up and I'm like
+47:01 I'm almost like right on the money
+47:03 there's the scan coming through so I use
+47:07 this view to kind of chop and find where
+47:10 that scan made sense let's do a couple
+47:13 things let's just tile this
+47:17 over kick off the active layer display
+47:20 options and then let's just get into our
+47:25 AB and we're going to change this back
+47:27 clip we're going to push this forward a
+47:29 little bit you're going to see a lot
+47:30 more geometry come in and so I just took
+47:33 a bunch of reference measurements from
+47:35 here to create these stairs and get them
+47:37 to line up
+47:41 correctly let's
+47:44 see got
+47:47 some hit the like yeah yeah what was
+47:50 this other comment you're going to get
+47:51 the guy trying to make that right well
+47:53 the great thing is this rail already
+47:55 exist exists I was just
+47:58 reproducing yeah it's
+48:01 existing the horror it's not with a
+48:03 cabinet I know it's all with railings so
+48:06 the next part was I was just doing an
+48:07 array multiple copy with the individual
+48:10 balls bringing this up and then for the
+48:13 railing itself you have to draw any
+48:15 straight section you want that doesn't
+48:17 take any turns in this particular
+48:19 elevation and then make it do a turn up
+48:22 turn over and then stop and when you
+48:25 stop then you come over to your top down
+48:28 View and you can actually continue the
+48:30 railing and if you snap it correctly it
+48:33 will be one piece when you're done with
+48:35 it so that whole railing is a one piece
+48:38 railing believe it or not I even think I
+48:42 think it's yeah it actually stops it
+48:44 stops here so it takes one turn comes
+48:47 down comes here and then it kicks off
+48:50 here so this one Transitions and changes
+48:52 a little
+48:54 bit all right so now let's get to the
+48:56 next part let's just do
+48:58 a one we'll just do a straightup shot
+49:01 right here so let's get let's maybe
+49:04 change the field of
+49:07 view let's tighten it up a little bit
+49:09 you can double click on or click on this
+49:12 let's go let's go 35 why not it's gonna
+49:15 get real
+49:17 tight and we can even kick on depth of
+49:20 field if we wanted
+49:24 to
+49:27 en depth of field let's go a 1.0 or 1.4
+49:32 depth stop um notice Focus distance
+49:35 isn't set right so I actually have in my
+49:38 toolbars on the right hand side 3D
+49:40 Center camera on point this actually
+49:43 changes the focus
+49:45 distance so if you click on that and I
+49:47 click on the stairs look at that now I'm
+49:49 focused on the stairs pretty cool 1.4 is
+49:52 a little heavy isn't it look at that
+49:54 background so blurry
+49:56 and you get a bunch of like pixelation
+49:57 in here so we need to change the sample
+49:59 rate for sure because the denoiser is
+50:01 getting hurt right now so let's just
+50:03 kick this up to like
+50:05 150 and and you got to move the camera
+50:08 to get this to to
+50:16 refire I focus let's change that that
+50:19 1.4 is way too
+50:21 heavy way way too heavy let's go this 2
+50:24 point
+50:29 yeah that's
+50:30 better and then let's kick the sun
+50:32 around let's actually get some sun
+50:33 through that window I love this Sun
+50:36 moving tool click on Sun moving tool
+50:39 click and turn click and turn and click
+50:42 and turn if you didn't know this you can
+50:44 control click to place the sun where
+50:47 you're clicking and then rotate from
+50:53 there and now we're getting look at the
+50:55 drama look at this beautiful
+51:05 shot kick that sample in I don't know
+51:08 what you guys are seeing I'm in the VR
+51:10 headset so I think it's gotten some Lany
+51:12 issues so I'm seeing something really
+51:14 blurry uh all right so this is looking
+51:16 pretty good let's just go let's do alt
+51:20 file
+51:23 XP and use active window size yep press
+51:26 okay and we're just going to put this in
+51:28 send and
+51:29 delete and then let's get to Discord
+51:32 guys and then the next part is we're g
+51:34 to throw this
+51:36 into
+51:38 um we will throw this
+51:41 into Kola so here's bis Dev where I do
+51:44 all my little fun things here in mid
+51:46 Journey um which I think some stuff's
+51:50 blocking the screen right so we need to
+51:52 change the size of
+51:54 this
+51:58 shoot here we go now you can see what
+52:01 I'm typing in right
+52:03 maybe okay so we get to just paste that
+52:06 picture upload a file paste this picture
+52:09 send in delete
+52:12 screen let's
+52:15 see thend delete not
+52:18 screenshots control mouse wheel expands
+52:21 that there's our
+52:24 picture now let's go grab this I think I
+52:27 can just copy link and then so if you
+52:31 didn't know this forward slash gets you
+52:34 to a bunch of different things the these
+52:36 are all the different robots that are
+52:37 built into my
+52:39 server stot mid Journey a Kevin truot
+52:42 Etc so in the mid Journey if you just
+52:45 click on Mid Journey it shows you a
+52:46 bunch of things that you can type in
+52:48 right um so just so you know and then
+52:51 you can actually click on one of those
+52:52 things so hitting settings and then
+52:53 pressing enter will get get you to your
+52:55 mid Journey settings and then here's
+52:57 your dropdown so from your drop down
+52:59 you're going to hit that V6 Alpha which
+53:01 is what just came in the other day Scott
+53:03 Wise on my um rabit design feed posted
+53:08 something right here and he posted a lot
+53:10 of cool tips and tricks so if you
+53:12 weren't aware of this this is on our
+53:14 server first of all if you don't know
+53:16 how to find the server let's just invite
+53:18 people copy it let's throw this in the
+53:20 comments so everybody can see
+53:22 it there you go
+53:27 and we'll just pin that real quick bam
+53:29 there's the Discord server now the next
+53:32 part is here's the link here's the link
+53:36 for let's
+53:39 see link for Scott wise's post on Mid
+53:43 Journey 6 in the rabbit design Discord
+53:46 server period tons of useful information
+53:54 colon
+53:58 and there we go so check that out in the
+54:01 comments of the live feed CC you'll be
+54:03 able to copy these two things and get
+54:05 you to this particular post where he's
+54:07 got a bunch of cool info and then if you
+54:09 want to see what I'm doing here I get
+54:11 down into in the chat room section I
+54:13 know this can get overwhelming that's
+54:15 why I built the navigation section so um
+54:19 in the navigation section here you go AI
+54:22 forums you can click on that and you can
+54:23 see that I've got an AI board
+54:26 and within there is the BISD section so
+54:29 let's get back
+54:31 to
+54:33 BISD so here's where we can set that mid
+54:36 Journey model V6 Alpha the next thing I
+54:38 want to do is just type in Imagine and
+54:41 you didn't even need to type the whole
+54:42 thing out you can just hit enter because
+54:44 it's going to be the first piece there
+54:45 and then we're going to paste I'm going
+54:47 to actually window key V because I've
+54:48 got clipboard history on and I can find
+54:51 this media Discord Etc and then what do
+54:55 want to do I kind of just want it to
+54:57 produce exactly what that image
+55:01 is um let's
+55:05 see an ornate staircase in a
+55:08 contemporary home
+55:12 with potted plants a nice sunny
+55:19 day earth
+55:24 tones whatever and then I love doing D-
+55:29 AR 7 goon 4 for the ratio is my one
+55:35 little
+55:44 p and that should be kicking off here in
+55:47 a second now let's get back to let's get
+55:50 back to here and let's do
+55:52 um let's do a VR
+55:55 why
+55:56 not and I don't think we need to
+55:59 save yeah we don't need to save this
+56:01 camera let's just kick this in forward
+56:03 like this and then I'm pretty sure it
+56:07 will will not export with depth of field
+56:10 but just in case it does I don't think
+56:12 I've tested
+56:13 this just in case it does let's pick
+56:16 this spot right here let's go alt file e
+56:20 and then uh 360 Panorama is
+56:23 three
+56:25 um I would say that you want to pump
+56:27 this up to at least
+56:30 8,000 Dimensions to the power of two
+56:33 correct let's browse we're going to send
+56:36 this to send and delete
+56:37 again and press
+56:42 okay and let's do its
+56:45 thing and then let's check out our
+56:49 staircases interesting that it didn't
+56:52 seem to
+56:53 use my image at
+56:57 all often times it will in structure
+57:00 based on that
+57:03 image so the other thing I'd like to
+57:06 check out is just stable diffusion but
+57:09 what I will say from this is man are
+57:11 these images getting
+57:13 good just getting really good I don't
+57:15 think we can vary this is a funny one
+57:17 look at this one it's got a Cho door
+57:19 it's got an exterior door that's chopped
+57:22 by the angle of the underside of the
+57:23 stairs very strange it's kind of the
+57:25 same thing going on here you know
+57:27 they're doing some wild architecture
+57:28 here's the staircase where it's just
+57:30 running into the door so you can't even
+57:32 open
+57:34 it so none of these images are good
+57:38 actually the quality in like the mood
+57:41 and like yeah that's there but than that
+57:46 there's some goofiness happening for
+57:53 sure
+58:10 and it looks like Chief just finished
+58:12 its deal great let's get up
+58:21 coola oh how many things do I pay for I
+58:24 don't even use KOA that often but it's
+58:26 very nice when I want to use it I mean
+58:28 here's an example of a 360 that was
+58:30 generated from mid Journey 5 I believe
+58:34 Isn't that
+58:37 cool so I can actually load this in my
+58:40 VR headset look around and yeah Journey
+58:43 five
+58:46 generated try sketch view for control um
+58:51 I haven't played around with that so I'd
+58:53 have to I'd have to to mess around with
+58:58 that Mrs angle head
+59:02 right uh raw mode with low style that's
+59:05 a good tip let's get into that so what
+59:09 we're talking about again is going to be
+59:11 in that
+59:16 settings uh and we are not in raw mode
+59:19 we're in stylized
+59:21 media
+59:23 so
+59:25 style stylize low La
+59:30 resment I like high variation mode
+59:33 public mode style
+59:35 High let's go style low is what you're
+59:38 saying
+59:40 okay all right and maybe we'll just do
+59:44 entirely new prompt this is looking
+59:47 nicer some of these are looking pretty
+59:49 cool that staircase just looks wild they
+59:52 love running that staircase right into
+59:53 the door huh
+59:56 funny that's part of the prompt I guess
+59:59 all right so let's just try let's try a
+1:00:01 brand new prompt
+1:00:03 now and
+1:00:11 then a staircase in a contemporary
+1:00:15 home I'm just going to stick with that
+1:00:19 oops let's just see what it kicks back
+1:00:22 for
+1:00:23 that and and then we are back on to this
+1:00:26 guy let's
+1:00:28 upload let's sign in
+1:00:42 first single
+1:00:51 image oh look at this it did do depth of
+1:00:54 field
+1:00:55 how interesting and the fact is we might
+1:00:59 want to shut that
+1:01:00 [Laughter]
+1:01:02 off that's funny that's kind of cool
+1:01:06 that it does that the other thing I
+1:01:07 would do is I would just edit this in
+1:01:09 Photoshop to give myself depth the field
+1:01:11 and look we got a stitch line right here
+1:01:13 it's funny all right let's get back to
+1:01:15 Chief and kick on a new one and let's
+1:01:18 kick off depth the
+1:01:23 field so
+1:01:25 no depth of field
+1:01:29 bam all right so what is it alt file E3
+1:01:34 gets us that and 81 82
+1:01:37 yep and yes we want to replace it bam
+1:01:42 and then mid Journey what do we have
+1:01:47 now Journey went a different direction
+1:01:50 with our
+1:01:51 staircase and so you're saying so I
+1:01:54 think
+1:01:55 you have to upscale something to draw it
+1:01:57 right
+1:01:59 Scott Try sketch view for control so for
+1:02:04 sketch view you have to you have to
+1:02:07 upscale an image is that
+1:02:12 correct or no what's the parameter give
+1:02:16 me the parameter I'll do
+1:02:23 whatever
+1:02:27 you look down yeah true
+1:02:31 enough all right what do we have gief
+1:02:33 render this
+1:02:35 yet no it's still
+1:02:39 thinking to put a Time marker on it see
+1:02:42 how long that's going
+1:02:44 for oh I can hear can hear deliveries
+1:02:47 happening oh Christmas Santa's got some
+1:02:51 gifts for y'all yeah
+1:03:00 no one knew about it I have a sale going
+1:03:03 on right now some of that some of the
+1:03:05 stuff's really discounted so go grab
+1:03:09 it all right creating Pano and what do
+1:03:13 we have here we didn't do anything new
+1:03:16 with M
+1:03:17 Journey Scott what's the sketch view
+1:03:20 you're talking about I don't know
+1:03:21 anything about
+1:03:23 it
+1:03:27 all right so back to
+1:03:33 coola
+1:03:42 CL bam that looks much
+1:03:46 better if you add some actual lights in
+1:03:48 here this looks good this looks pretty
+1:03:52 good so here's where in cool we can
+1:03:54 change the zoom
+1:03:57 settings so we pump up Zoom right and
+1:04:01 this is going to give you more of an
+1:04:02 accurate look and then we can ALS change
+1:04:05 the starting point so the starting
+1:04:07 Point's over
+1:04:08 here so all I need to do is drag this to
+1:04:11 where I want it to be so if I want it to
+1:04:13 start on the
+1:04:15 staircase there we
+1:04:17 go yep yep yep boy I can't wait for x16
+1:04:22 to come in y'all I um it's can't say I
+1:04:27 worked with someone developing their
+1:04:31 rendering stuff but I I kind of did in
+1:04:34 in that I had it back and forth I had a
+1:04:36 back and forth video and email exchange
+1:04:39 and explaining um that's funny mousing
+1:04:43 in and out doesn't actually change the
+1:04:45 zoom settings but it does change it for
+1:04:47 me
+1:04:49 strange um anyways I did
+1:04:53 uh I did have an extensive back and
+1:04:55 forth about things that we'd like to see
+1:04:58 in x16 and I think quite a few of them
+1:05:01 are making it in and I know that if
+1:05:03 you're at kiz they're going to have x16
+1:05:06 on display at their Booth so I can't
+1:05:08 wait to go give that a shot hopefully we
+1:05:11 get in beta before that date happens so
+1:05:14 I can even play around with it so I have
+1:05:15 questions for people um I always like to
+1:05:18 pump up the sharpness in Kola HR tone
+1:05:22 mapping actually usually hurts the scene
+1:05:24 unless we put some filter on it
+1:05:26 beforehand and Pitch limit you can
+1:05:30 maximize up down limit so if you don't
+1:05:31 want someone looking down at the floor
+1:05:33 you can do that
+1:05:37 um and then there's a bunch of other
+1:05:39 stuff you can do the sun effect cool
+1:05:42 because we could
+1:05:43 set Sun really should
+1:05:46 be not in the scene actually it's coming
+1:05:48 from way over there so it should be over
+1:05:51 here should be like here
+1:05:55 right something like
+1:05:59 that
+1:06:02 yeah you guys want to go see this I'll
+1:06:05 leave this up for a second um staircase
+1:06:12 from from live
+1:06:15 feed right public add
+1:06:23 public
+1:06:34 I'm going to qualify that this is an
+1:06:35 empty scene and it's not supposed to
+1:06:37 look all that
+1:06:38 pretty I love that you can get the tiny
+1:06:42 planet and sometimes the tiny planet is
+1:06:45 actually something cool that would could
+1:06:47 be used as a cover
+1:06:53 art
+1:06:56 yeah post
+1:06:59 it and let's share it and you guys can
+1:07:02 check it out hey Merlin get off on my
+1:07:05 screen
+1:07:07 share
+1:07:09 L and you can even set up how you want
+1:07:12 to embed this link and give settings too
+1:07:16 so optimize and you can embed this in
+1:07:18 your website which is very very cool
+1:07:20 show full screen button and it will zoom
+1:07:22 using Mouse whe When embed Ed gyroscope
+1:07:25 on mobile and the gyro on mobile is
+1:07:28 particularly nice as well and then you
+1:07:30 could put your branding on here if you
+1:07:32 want which I want my logo on
+1:07:35 there
+1:07:39 and
+1:07:41 yeah I think that's
+1:07:44 it optimize for lby bam
+1:07:48 copy all right let's put this in the
+1:07:51 comments you guys can go check it out
+1:08:00 what do you got Scott export your render
+1:08:02 from Chief as a sketch View and upload
+1:08:04 to MJ then specify your prompt render
+1:08:07 style um so you're saying exported as a
+1:08:10 vector
+1:08:12 line I mean that's kind of what we're
+1:08:13 doing with stable diffusion for sure
+1:08:16 let's get back to
+1:08:18 Chief and we change our label because
+1:08:22 we've
+1:08:22 got
+1:08:32 Vector line rendering to stable
+1:08:34 diffusion AI generated
+1:08:41 images there we
+1:08:43 go so what we're saying what you're
+1:08:46 saying to me
+1:08:52 is
+1:08:54 let's get that
+1:08:56 going nice little
+1:09:07 view we
+1:09:09 want technical
+1:09:11 illustration no what do I want I want
+1:09:16 you could do handdrawn lines but you can
+1:09:18 also just do Vector view no
+1:09:22 color
+1:09:26 and then you got some lines in here that
+1:09:28 are making no
+1:09:33 sense and really don't even really want
+1:09:39 Shadows there you go that's looking good
+1:09:43 all x
+1:09:52 p
+1:10:12 so copy the link
+1:10:22 imagine
+1:10:33 and let's see what it does and let's see
+1:10:34 if I can fire up stable
+1:10:43 diffusion and let's see if it just
+1:10:45 destroys my
+1:10:52 computer
+1:11:06 I want to use cabinets as wall material
+1:11:09 regions to do real object based
+1:11:14 sighting well cabinets won't
+1:11:17 cut cabinets won't cut for windows and
+1:11:20 doors so that's not helpful
+1:11:31 here's our stable diffusion let's see if
+1:11:33 I even have the I'm not sure if I got
+1:11:35 this set up correctly let's just try it
+1:11:38 though why not all right I want to try
+1:11:42 all right we got realistic
+1:11:45 Vision contemporary staircase in a front
+1:11:48 entry
+1:11:50 with Furnishings in the enjoined living
+1:11:53 room
+1:11:54 room as well as potted plants on a sunny
+1:12:03 day okay and what do we have here we
+1:12:06 want to set up if you're not familiar
+1:12:08 with
+1:12:11 this come talk to
+1:12:13 us uh we're going to put in cany and the
+1:12:16 pre-processor is invert in this
+1:12:21 case invert invert to the
+1:12:25 top um and let's take a look at what the
+1:12:28 preview looks like okay
+1:12:31 yeah balanced prompt crop and resize ask
+1:12:35 me questions about this if you're like
+1:12:36 what the heck are you doing right now my
+1:12:39 friend um my resolutions might be off
+1:12:43 let's just try this real quick
+1:12:47 what's I don't work in this enough to
+1:12:49 know if I'm doing everything right oh I
+1:12:51 am doing everything right look at that
+1:12:55 bam a little bit of imagry but we really
+1:12:57 want this to be Pixel Perfect Pixel
+1:13:01 Perfect does that change
+1:13:03 it does that change our resolution
+1:13:05 because what is our resolution would be
+1:13:07 the next question what was the
+1:13:08 resolution of that
+1:13:22 image 24 24 by so 1212 by
+1:13:27 5
+1:13:29 39 122 X
+1:13:33 539 I know that sometimes this screws it
+1:13:38 up
+1:13:40 39 doing this this way let's see what
+1:13:50 happens look at that that's so
+1:13:53 impressive a't that
+1:13:56 impressive man is that
+1:14:02 cool that's so cool Let's do let's do 12
+1:14:07 batch 12 batch count bat I always forget
+1:14:10 what the difference is you gotta go look
+1:14:11 this up what a
+1:14:16 pain control weight was heavy but
+1:14:18 everything looks looks pretty
+1:14:22 good that rug is
+1:14:24 [Laughter]
+1:14:27 wild yeah this is doing a good
+1:14:29 job good job all right let's go look at
+1:14:32 Mid
+1:14:35 Journey mid journey is off its
+1:14:39 rocker Scott help me man you think you
+1:14:41 can actually get like a controlled image
+1:14:43 like this
+1:14:45 um I was able to get it really close
+1:14:48 using my shelf stuff like if we go back
+1:14:50 and look at what I was doing ear
+1:14:52 yesterday yester I posted this
+1:14:56 image which was my old cover art for my
+1:14:59 bath
+1:15:00 tools and then it gave me all these
+1:15:03 images so I mean that
+1:15:06 was that was pretty good I only took
+1:15:10 some you know slight modification and
+1:15:12 then same thing I posted this image
+1:15:14 which was my old fireplace
+1:15:16 tools and I got this one out of it which
+1:15:20 I thought was pretty dang
+1:15:22 decent
+1:15:25 and then what else we
+1:15:28 got and then the Shelf tools it just got
+1:15:32 my it understood my prompt but the
+1:15:34 closet was really um quite spoton
+1:15:39 with like just the fact that we were
+1:15:41 looking at the scale of this room and
+1:15:43 how the closets were configured and then
+1:15:46 seeing what it would produce from
+1:15:49 there I loved that it had this little
+1:15:52 brown section a Cabinetry in there
+1:15:54 that's was kind of fun fun little ADL
+1:15:57 ideation why
+1:15:59 not what do we got for stable diffusion
+1:16:10 now Darth Vader level impressive
+1:16:16 most impressive you
+1:16:21 are uh boy that's a cool cover picture
+1:16:25 Mr Drew Tosh planning to take the plch
+1:16:27 on your sale oh cool at Discord assume
+1:16:29 that will be easy to manage with the
+1:16:31 system uh Discord takes a little it's a
+1:16:33 little bit of a learning curve at first
+1:16:35 um admittedly I would say and
+1:16:40 then what's going on with Discord
+1:16:42 um It Takes a Minute it might be helpful
+1:16:45 to go you know look at a video about
+1:16:48 Discord especially because we got so
+1:16:50 much going on so the one thing that is
+1:16:53 nice right off the bat is when you get
+1:16:55 to Discord and you go and I do have a
+1:16:57 video on on this particular Discord but
+1:17:02 channels and rolles if you click on
+1:17:03 channels and roles and browse channels
+1:17:06 you can start by just unchecking all
+1:17:10 this right you can uncheck all the stuff
+1:17:13 that might be too overwhelming and leave
+1:17:14 yourself with just a few things to look
+1:17:16 at so when you do that when you come
+1:17:22 back
+1:17:24 looking at Advance that's essentially
+1:17:27 truncated what I'm seeing on the
+1:17:29 left-and side now it happens to be that
+1:17:31 I'm an admin so I don't really get to
+1:17:33 uncheck things not to see um but yeah if
+1:17:37 you keep unchecking certain categories
+1:17:40 just to kind of limit what you're seeing
+1:17:42 on the leand sidebar you're seeing here
+1:17:45 that these things are disappearing as
+1:17:46 I'm going right so if this stuff is just
+1:17:49 too overwhelming there's too much to
+1:17:51 look at that's one thing
+1:17:53 the other thing is I specifically made
+1:17:56 the navigation section so if we if we do
+1:18:00 let's
+1:18:01 see look at this this a suggested isn't
+1:18:04 that funny so all I left here was
+1:18:06 navigation in this case and so if you
+1:18:08 only leave
+1:18:10 navigation then this is an easy way to
+1:18:12 navigate the site right so here's the
+1:18:14 shop here's navigating tips and tricks
+1:18:16 do you need server information where to
+1:18:18 post your
+1:18:19 questions um I'm expecting you to click
+1:18:23 on this and then see that hey there's a
+1:18:25 community support section and there's a
+1:18:27 thread called ask your quick questions
+1:18:29 here and this brings you to a can band
+1:18:32 style overview of all the things in the
+1:18:34 Discord so I'm not going to go over a
+1:18:36 ton of stuff here um I do have a video
+1:18:38 where I'm going over this but um there's
+1:18:41 a lot of cool stuff in here there's so
+1:18:43 much content in here it would take you
+1:18:45 forever to digest it all I think um I
+1:18:48 think Justin ball is the only one that's
+1:18:49 even close to having read most of the
+1:18:52 stuff in here
+1:18:58 they need to have a select all back on
+1:19:00 here Al was that did I see it oh no I
+1:19:03 didn't see it I think you can show all
+1:19:07 there we
+1:19:09 go oh but show all goes underneath huh
+1:19:13 all
+1:19:18 right anybody in here on Discord been um
+1:19:21 do they like that news feed I've been
+1:19:23 loving the newss feed and I'm not
+1:19:25 someone that usually wants to go look at
+1:19:29 news so that's been really fun for
+1:19:34 me because I found some really cool
+1:19:36 articles in
+1:19:39 there but it's just pumping out content
+1:19:42 constantly so maybe that's overwhelming
+1:19:44 I don't know let's check out these
+1:19:47 stairs man some of these came out real
+1:19:51 nice how cool is that I'm going to send
+1:19:54 this to the client why not is't that
+1:19:56 neat color variation style variation
+1:19:59 different doors here and there how
+1:20:05 cool very
+1:20:20 cool oh and just one more thing
+1:20:23 Drew is that the only thing that that
+1:20:26 requires Discord is the updates
+1:20:30 when um when I push out an update I tag
+1:20:34 people specifically in the update
+1:20:36 section here which is down at the
+1:20:39 bottom so update announcements I'll tag
+1:20:42 people here that there's an update and
+1:20:44 then these channels when you buy
+1:20:45 something these channels become visible
+1:20:47 so that when you click there there's a
+1:20:48 purchase link here that gets you to the
+1:20:50 update so that's the only thing that
+1:20:52 requires a Discord the other thing is I
+1:20:55 finally found a bot that will answer
+1:20:59 questions correctly so um for install
+1:21:02 issues so hopefully we're getting uh to
+1:21:05 answers about install issues even faster
+1:21:07 than than we're doing
+1:21:10 manually and what do you got Scott
+1:21:12 matern still has a long way to go with
+1:21:13 their control net I'm hoping that the
+1:21:15 web UI release later this month we'll
+1:21:17 address some of that long along with in
+1:21:20 painting and generative fill for
+1:21:21 selection oh cool
+1:21:25 um I think control net works really well
+1:21:29 as a starter right as like it's
+1:21:32 beginning implementation it's it's doing
+1:21:34 a great job um for just
+1:21:39 ideation I think it's going to take
+1:21:41 forever to get it to the point where
+1:21:43 it's
+1:21:50 perfect oh you said mid Journey not
+1:21:54 turn mid
+1:21:57 Journey uh what's the web UI release
+1:22:00 later this month tell us more about
+1:22:03 that okay um I gotta go look at another
+1:22:06 project let's go open another one up I
+1:22:09 don't think we need to I don't think we
+1:22:11 did anything in here to save it I don't
+1:22:13 need to
+1:22:15 save um we do need to export our new
+1:22:20 window label because it's so cool
+1:22:26 bam I'm going to show you how I manage
+1:22:28 the Pro Plan so we're going to export
+1:22:30 this window
+1:22:32 label and we need to
+1:22:35 assets cataloges hot keys nope not hot
+1:22:39 Keys
+1:22:41 macros CS catalog
+1:22:46 macros and RBS Windows macro
+1:22:51 package windows label
+1:22:53 abbreviated and then to the correct date
+1:22:56 which is
+1:23:00 23222
+1:23:02 bam so that's exported and then this is
+1:23:06 where I'm going to control W oh control
+1:23:09 W has been Rewritten
+1:23:12 so don't
+1:23:15 save we're going to control o gets us to
+1:23:21 open um this is where I want my
+1:23:23 particular machine up on the left hand
+1:23:26 side so I don't have to go searching all
+1:23:29 this
+1:23:31 stuff and this one's called
+1:23:36 trip
+1:23:39 templates and
+1:23:41 then what we got here 23 11
+1:23:51 23
+1:23:53 you need to make sure that this
+1:23:54 completely functions for all of
+1:23:59 its all of what I got going on here
+1:24:01 let's see assets
+1:24:18 cataloges just need to make sure that
+1:24:20 this still works correctly so so under
+1:24:23 30 yep that
+1:24:25 works change this to window order
+1:24:28 overview that works change this
+1:24:32 to framing floor plan we don't have
+1:24:35 Windows displayed here so that's fine
+1:24:37 we'll have to fix that later it's just
+1:24:40 an option though there all
+1:24:43 right and then this is how I manage it
+1:24:45 get into CAD details get into the change
+1:24:46 log come in here this cloud is going to
+1:24:50 move down now because we released that
+1:24:52 version so here's our new
+1:24:56 version and copy paste open this
+1:25:04 up it's not working
+1:25:21 huh
+1:25:22 so even though I might not show rough
+1:25:25 opening I'm just giving the ability to
+1:25:27 end users in case they want to
+1:25:29 incorporate
+1:25:30 this
+1:25:32 cool close that
+1:25:35 up close this up close this up save it
+1:25:40 yep all
+1:25:47 right if you go to the website of mg you
+1:25:49 will see a prompt bar at the top that
+1:25:51 says coming soon okay okay gotcha you're
+1:25:54 doing your you're doing your digging huh
+1:25:55 Scott you're you always on the ball with
+1:25:58 that
+1:25:59 stuff all right anything anybody want to
+1:26:01 see before I go look at a
+1:26:10 job boy I have so new machine so I don't
+1:26:13 have icons don't transfer over um when
+1:26:17 you have folder icons what a pain so
+1:26:21 something I might do
+1:26:22 is I want to
+1:26:24 generate a
+1:26:26 quick macro that will replace these
+1:26:29 icons with their name sake if that's
+1:26:33 even
+1:26:37 possible and this is what I mean by this
+1:26:41 so Hanah construction so we're basically
+1:26:42 going to hit Alt Enter and then you can
+1:26:45 tab tab tab tab forward forward forward
+1:26:48 forward forward tab tab tab tab tab
+1:26:51 change icon
+1:26:52 tab browse and then this is where it's
+1:26:56 tricky I think there's an ALT you can do
+1:26:58 here no can't do alt control no shift no
+1:27:03 alt
+1:27:04 no uh oh what' I do input switch
+1:27:07 notification I didn't mean to do
+1:27:10 that I don't want to change my input
+1:27:13 language there's a way to get to this
+1:27:16 section of over here where you can then
+1:27:19 navigate but maybe instead it just
+1:27:23 tab
+1:27:25 organize no that's layout that's I've
+1:27:29 never seen that details pain preview
+1:27:31 pain
+1:27:34 gotcha
+1:27:36 tab expand yeah
+1:27:42 yeah and type in
+1:27:44 l for logo
+1:27:50 H yeah
+1:27:53 icons that's what it
+1:27:57 is right so then it should have been
+1:28:00 copy copy the title
+1:28:06 first so I need a macro that will do all
+1:28:09 that very
+1:28:12 quickly that
+1:28:15 slow in tab oh not in tab there we go
+1:28:20 okay yeah way too slow we're going to
+1:28:23 fix
+1:28:26 that where's my
+1:28:30 refresh there's no refresh button what
+1:28:33 happened to
+1:28:37 it
+1:28:43 huh oh there's that so here's how we
+1:28:47 would do this with a macro recorder so
+1:28:51 use maybe the free version of macro
+1:28:53 recorder oh I need to install it dang it
+1:28:56 I don't have it installed in the new
+1:28:58 machine basically what you you would be
+1:29:00 doing use a macro recorder record your
+1:29:03 keystrokes so that your let's just do
+1:29:06 another one I know I have an example of
+1:29:08 rabbit design be an easy one
+1:29:11 mkb so it would be
+1:29:14 a all you do is click on your folder
+1:29:17 you'd click the program that you wrote
+1:29:19 but the script would be um what 2 to
+1:29:22 rename contrl C to copy Escape Alt Enter
+1:29:27 tab tab tab tab tab tab oops over over
+1:29:31 over tab tab tab tab tab change icon tab
+1:29:34 browse and then you're still in icons
+1:29:38 and then so you control V to paste down
+1:29:40 arrow enter
+1:29:43 tab tab tab enter tab
+1:29:47 enter and it should do that in 1 second
+1:29:50 flat would be very nice
+1:29:52 nice all right moving
+1:29:56 on I need to look at Hanah construction
+1:30:05 vble and let's move this forward my name
+1:30:08 and Convention copy
+1:30:11 V oh we got to
+1:30:20 download you will need a log in of
+1:30:22 course and then what they wanted to push
+1:30:24 it out with six apparently wasn't ready
+1:30:26 just yet there're still B testing beta
+1:30:30 testing it's impressive lots more image
+1:30:33 control like Photoshop well that's cool
+1:30:35 something to look forward to
+1:30:41 right 23 12
+1:30:50 22c
+1:30:56 wow I have way too many layout files in
+1:30:58 here what the heck is that
+1:31:01 about what the heck
+1:31:07 831
+1:31:10 67 10 2
+1:31:14 22 oh wow these are all
+1:31:17 okay let's make a little
+1:31:20 archive actually we don't even need an
+1:31:22 archive we not using let's
+1:31:50 see
+1:32:02 okay why is my hot keys not working
+1:32:06 there
+1:32:13 go our ugly little kitchen
+1:32:17 elevations oh this doesn't have so
+1:32:19 here's a trick we got to import my
+1:32:22 new my new
+1:32:25 macro let's do
+1:32:31 that
+1:32:34 import
+1:32:36 and show you a little trick for
+1:32:39 this so there's window label RAB but
+1:32:44 existing windows are utilizing what what
+1:32:47 are they utilizing in their label oh
+1:32:51 this is when I had it split up multiple
+1:32:52 different
+1:32:53 ways so that's
+1:32:57 tricky um in that case let's get
+1:33:02 into details window
+1:33:05 label it is using the window label new
+1:33:08 that's
+1:33:10 nice you can always just this is kind of
+1:33:13 funny you can
+1:33:15 copy paste this and
+1:33:19 then let's just
+1:33:23 remove remove quantity what do we want
+1:33:27 maybe
+1:33:29 just what do we want we
+1:33:33 want don't want description want
+1:33:36 something that everything shares the
+1:33:38 same info for perfect you factor
+1:33:44 probably there we go we got one window
+1:33:47 yep we do so open row
+1:33:50 object like wait
+1:33:53 what oh interesting this is including
+1:33:56 doors too that's that's a problem
+1:34:01 um
+1:34:03 so don't include doors
+1:34:07 there now open row object should be open
+1:34:10 H what the heck all right I thought this
+1:34:14 was a fast method it's
+1:34:16 not let's go back and just select
+1:34:19 Marquee similar or just use the window
+1:34:29 tool and label new
+1:34:37 label bam that na works perfectly yes
+1:34:43 that's a new one that's a new
+1:34:46 one we're going to put that same label
+1:34:50 here
+1:34:58 and that's not true this is actually
+1:35:00 included in
+1:35:03 schedule oh what was the trick
+1:35:11 here let's see when know what
+1:35:15 Happ there's some trick here that it's
+1:35:18 putting na in if what
+1:35:29 oh because it's the U factor is off or
+1:35:33 something I don't know I'll have to come
+1:35:34 back to that
+1:35:44 [Music]
+1:35:49 part label offset is should be -6 or3 or
+1:35:55 something like that there we
+1:35:58 go bam that's working
+1:36:09 perfectly
+1:36:11 perfectly and we need a second
+1:36:14 floor pop this back
+1:36:17 over up one Down Bam second floor
+1:36:32 that's a beautiful
+1:36:36 [Music]
+1:36:38 thing um and we're not using our new
+1:36:42 superscript so we got to fix that part
+1:36:48 two uh
+1:36:59 updating an existing plan to use new
+1:37:07 macros
+1:37:19 there it's got superscript is not using
+1:37:21 the right font now is
+1:37:24 it so if we pull up our active layer
+1:37:27 display options and let's just
+1:37:30 modify all layer sets I don't know that
+1:37:34 I need to modify all layer sets or not
+1:37:37 oh we just need to change the the text
+1:37:39 style of the labels that's
+1:37:42 it so default aerial aerial aerial
+1:37:47 aerial custom
+1:37:49 superscript this okay okay look at that
+1:37:52 bam
+1:37:54 perfect very
+1:37:59 cool um why is this
+1:38:01 dining should be a closet and it should
+1:38:05 be abbreviated closet because then it
+1:38:07 changes its label type so that you can
+1:38:10 rotate
+1:38:15 it see that Auto truncates in my Pro
+1:38:18 Plan bam that's very nice if you didn't
+1:38:22 know about that that's one of my
+1:38:24 favorite little edits of this
+1:38:44 year there we go now there's superscript
+1:38:46 on all the
+1:38:50 doors
+1:39:08 ceiling height ceiling height ceiling
+1:39:10 height this is not using my new ceiling
+1:39:13 height macro
+1:39:17 which might be nice let's try that out
+1:39:20 let's go control new new ceiling I macro
+1:39:24 when you draw out
+1:39:26 a
+1:39:31 garage oops a very funny shaped
+1:39:34 garage and type any
+1:39:37 garage it will show adjusted plate
+1:39:40 Heights and floor Heights and Below
+1:39:43 adjacent floors that's kind of nice like
+1:39:46 that so could do that here although
+1:39:49 we're not working in the garage so I'm
+1:39:51 not sure that that
+1:39:54 matters and let's see how does that work
+1:39:57 let's take a look at
+1:39:59 this it would be nice
+1:40:01 if
+1:40:05 um if in the room name you put sunken
+1:40:10 for Sunken floor like SNK
+1:40:13 flr then it did this same parameter as
+1:40:17 the garage see if we can't script that
+1:40:19 in that's kind of cool so select a room
+1:40:22 let's open up and let's
+1:40:26 do what's this even called um ceiling
+1:40:29 height RB all
+1:40:31 right let's look at what this is even
+1:40:33 saying
+1:40:44 here if name includes garage or
+1:40:48 porch finish ceilings so all we have to
+1:40:51 do to make this work
+1:40:54 is um should be able to do just another
+1:40:57 double
+1:40:58 line
+1:41:01 and
+1:41:03 name.
+1:41:07 downcase
+1:41:09 equals not equals I want downcase do
+1:41:17 include
+1:41:19 um
+1:41:25 sunken I think this needs to have
+1:41:32 bracket there it is so if name includes
+1:41:36 sunken right so let's back out of this
+1:41:40 press okay press
+1:41:42 okay and in
+1:41:46 defaults floors and
+1:41:48 rooms room types
+1:41:51 let's make a copy of this is typically
+1:41:55 going to be
+1:41:56 living
+1:42:00 copy let's just
+1:42:02 go all abbreviated live
+1:42:07 room
+1:42:09 sunken
+1:42:13 floor
+1:42:16 right for
+1:42:19 example function
+1:42:21 blah blah
+1:42:23 blah nothing instructor Etc okay press
+1:42:26 okay press okay
+1:42:29 press press done so this is the m so I
+1:42:33 mean you
+1:42:34 could what could you do you could
+1:42:39 say wonder if if a room shows whether or
+1:42:42 not it's following the floor default or
+1:42:44 not in its macro in its published
+1:42:49 values so like let's just use my search
+1:42:51 tool Search tool oh except for you can't
+1:42:54 use Search tool on a room value you have
+1:42:57 to select the room and then use my
+1:42:59 search tool grab search Global and then
+1:43:02 that still won't work all right so let's
+1:43:05 see object properties we're wondering
+1:43:14 if wondering if something is true or
+1:43:16 false
+1:43:19 here
+1:43:22 so
+1:43:24 floor
+1:43:28 elevation yeah we think that you'd see
+1:43:30 is floor elevation Default true or
+1:43:39 false has raised floor has raised
+1:43:46 floor has raised floor well what if it's
+1:43:49 let's see if we lower the floor does it
+1:43:52 does it apply to that has raay
+1:43:56 floor so in this
+1:44:01 case
+1:44:03 structure let's just
+1:44:17 say7 so what we're looking for is has
+1:44:20 rais
+1:44:25 floor still
+1:44:27 false what else do we
+1:44:37 have stem wall top elevation there's
+1:44:41 that
+1:44:44 -7 but sometimes you're going to have a
+1:44:46 negative
+1:44:48 elevation and it has nothing to to do
+1:44:52 with the floor height so then we'd have
+1:44:55 to do a combination of things where it's
+1:44:57 saying what's the
+1:45:01 floor basically I could just do anything
+1:45:03 where it's if it's on the first
+1:45:06 floor if the only time you're going to
+1:45:08 designate a sunken
+1:45:10 floor really is if it's on the first
+1:45:13 floor right so if the floor
+1:45:17 number ceing group floor floor finish
+1:45:21 floor
+1:45:22 elevation floor ceiling group floor
+1:45:27 elevation do we have a floor
+1:45:30 number floor number yeah so if floor
+1:45:32 number is one and floor
+1:45:36 elevation is less than
+1:45:39 zero then make those
+1:45:44 parameters that's what I'm thinking but
+1:45:46 in the meantime we could always just
+1:45:48 designate this as a the room that is
+1:45:52 living room sunken
+1:45:55 floor and it will show blood justed
+1:45:59 finish fing plane hide
+1:46:03 yeah something to work
+1:46:09 on because how could I do that how could
+1:46:12 I do that easily without using chat GPT
+1:46:15 think we could do that am I that good I
+1:46:18 don't think I
+1:46:19 am
+1:46:24 let's see zoom zoom
+1:46:27 zoom come on delay ceiling height in
+1:46:32 inches blah blah blah function check if
+1:46:35 name is garage so if name down case
+1:46:38 it's and then it should be
+1:46:42 also so here would be the condition this
+1:46:46 is the or those double lines are or um
+1:46:53 floor
+1:46:56 number equal
+1:46:58 one
+1:47:01 and and
+1:47:03 and
+1:47:05 um
+1:47:08 floor
+1:47:11 elevation less
+1:47:14 than
+1:47:17 zero for elevation to f
+1:47:24 aha
+1:47:25 aha look I'm getting good at scripting
+1:47:28 I'd be danged I think that just did it
+1:47:31 if name dun blah blah blah blah blah
+1:47:33 blah yeah it gave us the condition even
+1:47:34 though that so we don't need the
+1:47:38 the use your language use your words um
+1:47:41 we didn't even need the garage condition
+1:47:44 or a porch condition for that matter
+1:47:46 watch this if we just delete the porch
+1:47:48 and garage condition and just instead
+1:47:51 use floor number well sometimes your
+1:47:54 garage is on another floor and that's
+1:47:57 because you got a walk out basement
+1:48:00 Etc but just proving the case where we
+1:48:02 don't even need that
+1:48:06 if this actually works
+1:48:12 too look at
+1:48:14 that so sunken floor happens so long as
+1:48:18 it's on floor one and it's an elevation
+1:48:21 lower than six inches and then we
+1:48:23 actually want to format this this is
+1:48:25 where we'd use that number formatter
+1:48:28 again more work more work to work on
+1:48:31 later
+1:48:32 on all right anybody want to talk about
+1:48:34 anything I think I need a break soon but
+1:48:38 I'm down to talk about something here if
+1:48:40 anyone's got any requests let's see
+1:48:43 what's going on on the Discord if
+1:48:44 anything's Happening
+1:48:49 Here
+1:48:52 someone's asking a quick question what
+1:48:53 do they
+1:48:55 got what the hell is Melissa trying to
+1:48:58 do
+1:48:59 today distribute SS like this to figure
+1:49:02 out precise tile positioning and count
+1:49:04 with grout lines can you think of a way
+1:49:07 to show a tile
+1:49:09 mural across a field of tiles like this
+1:49:12 showing the correct grout width this
+1:49:14 would be easy if the Color Tile were the
+1:49:16 same on each tile but this mural it
+1:49:18 covers 36 tiles
+1:49:23 oh so she wants a mural of tile but with
+1:49:26 Crut lines I mean that's pretty dang
+1:49:29 simple all you're doing
+1:49:32 is doing an overlay in Photoshop can't
+1:49:35 get any easier than
+1:49:45 that 70s living room if sunken yeah no
+1:49:48 it's true with the with the couch you
+1:49:50 know the couch just up against the
+1:49:54 sunken
+1:49:55 section where your just arms are
+1:49:57 basically sitting on the
+1:50:04 floor um I haven't done I thought about
+1:50:07 doing that um and answering Chief talk
+1:50:10 we could do a
+1:50:11 new we could do a new live where I'm
+1:50:13 just going through Chief talk um maybe
+1:50:16 I'll do it um I'm down to stream some
+1:50:18 more today so maybe I'll do that maybe
+1:50:20 I'll go take a break get some work done
+1:50:22 and I'll come back and and do a little
+1:50:26 um going through the first page of Chief
+1:50:29 talk I like that that segment people
+1:50:31 like that segment so that's a good
+1:50:35 one I typically typically record that
+1:50:38 one but I could do a live version of
+1:50:41 it all right I'm gonna sign off for now
+1:50:44 this was a good long session we went
+1:50:45 over all kinds of funny stuff so thank
+1:50:49 you for joining me we only got six
+1:50:51 people going this whole time but H you
+1:50:53 know what I probably need to announce
+1:50:54 these things ahead of time um so till
+1:50:57 next time see you guys around thank
+1:51:06 you

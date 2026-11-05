@@ -1,0 +1,1441 @@
+---
+videoId: x7-R2mIvfyQ
+title: Impromptu Twinmotion Session
+url: "https://www.youtube.com/watch?v=x7-R2mIvfyQ"
+status: imported
+---
+
+# Transcript
+
+0:00 there's going to be so much lag so much
+0:03 lag on my computer that's just the way
+0:07 it's going to
+0:09 be uh yeah been having computer issues
+0:13 this
+0:15 week I know everybody feels
+0:18 that um I haven't been in Twin Motion in
+0:22 like six months
+0:26 so this is going to feel pretty pretty
+0:29 rough
+0:30 and also I already know that
+0:33 my 3D mouse was not working properly so
+0:36 I actually had to get into the app data
+0:39 by
+0:40 going so on a Windows machine percentage
+0:43 sign app data percentage sign bam and
+0:48 then get in a 3D connection 3D xware
+0:51 config file and I had to find twin
+0:55 motion
+0:56 one had a screwed up XML file so I
+1:00 copied everything from Twin motion to
+1:02 Twin motion
+1:04 one but
+1:07 now now we've got twin motion 2 all of a
+1:10 sudden showed up which I didn't
+1:12 realize and so if I hover
+1:16 over yeah it's using twin motion 2 it's
+1:20 weird I don't know what's going on so
+1:21 it's making new config files every
+1:24 time I don't know what the deal with
+1:26 that
+1:27 is so which means it's not keeping my
+1:31 radial
+1:33 menus which is a bummer it's got some
+1:35 generic radial menu wonder if I could
+1:38 fix
+1:39 that all right so for you people using
+1:42 space Mouse space Mouse Pro Wireless
+1:45 whatever you got
+1:47 Enterprise um if I want to try to copy
+1:50 everything from my config file I got to
+1:52 look at these so here's my config files
+1:55 we're using twin motion 2 I want it to
+1:57 use twin motion one which
+2:00 apparently got wiped out
+2:04 somehow
+2:07 completely no I don't want to save
+2:13 it twin motion one is also correct twin
+2:17 motion 2 is
+2:21 not so what's happening
+2:24 here so it's got this below signature
+2:27 it's got this section so I kind of want
+2:30 to keep that section but the
+2:34 rest there's that signature there's
+2:38 this so if I hit my Windows key and said
+2:42 stop 3D
+2:43 xware I did that on a second screen that
+2:46 stops the the 3D config for space Mouse
+2:50 Pro for twin
+2:52 motion so now that that stops that that
+2:54 means we can edit these right so I can
+2:59 cop copy theoretically I should be able
+3:02 to copy everything
+3:04 past that signature
+3:08 copy and paste it
+3:12 here and that has all my old config and
+3:16 try to save it all right so we try that
+3:21 now window key start 3D xware should
+3:25 fire up and if it fires up and changes
+3:29 this will'll get a
+3:32 notification and if it fires up and adds
+3:35 a new twin motion file we'll see that
+3:40 here which it did not do so
+3:45 theoretically we just loaded our hot
+3:47 Keys up let's see if that
+3:51 worked so didn't load hotkeys up um oh
+3:55 but it did break like I can't pan and
+3:58 look up and down which is the strangest
+4:00 thing so something with that config file
+4:03 is screwed
+4:06 up oh and we're on Twin motion 3 now so
+4:09 it did make a new
+4:12 one so it looks like I have to rebuild
+4:15 my hot keys from scratch this is too bad
+4:18 let me just do a
+4:20 stop stop 3DX
+4:24 whereare you got to wait for the
+4:26 spinning wheel on your mouse to go away
+4:29 and then kill all these twin
+4:32 Notions um maybe I'll make a backup of
+4:35 this
+4:37 one and controls let's see control new
+4:41 does a new Windows Explorer window in
+4:43 case you didn't
+4:44 know and then cataloges hot keys and I'm
+4:49 just going to drop that twin motion file
+4:52 in here in case I could use it somehow
+4:55 in case I want to rebuild it slowly
+4:57 somehow so I'm going to delete all the
+4:59 twin
+5:02 motions now let's hit a start 3DX
+5:05 whereare it should fire up a new one and
+5:07 hopefully we get a pan panning back good
+5:11 morning Facebook user you got to
+5:13 authorize uh streamyard to see your name
+5:16 in order to post it with your
+5:19 name okay so this should have fired up
+5:22 yep now I can pan and rotate again yeah
+5:25 I can although that had a lot of weird
+5:27 lag immediately all right
+5:33 cool um all right so this scene doing
+5:36 some basic theories on setting this up
+5:38 twin motions interface has changed
+5:40 drastically to me so I'm not exactly
+5:42 sure where everything is but I knew that
+5:44 I wanted to cast some Shadows from some
+5:46 trees here that makes a lot of sense I
+5:49 like using these backdrops because I
+5:51 think they do more uh accurate lighting
+5:54 so that's the spherical backdrop so you
+5:57 got to click on Ambiance in your scene
+6:00 to get to environment and environment
+6:04 that's where I got into um an HDR
+6:07 environment Skydome right and you can
+6:10 pump up the intensity of that
+6:12 environment
+6:14 Etc um but it used to be
+6:18 that they're locking the sun to HDR
+6:21 sometimes I want the sun to be different
+6:23 from what the HD is doing sometimes I
+6:26 just want the look of the backdrop in
+6:28 this case I don't I'm going to replace
+6:29 it but just letting you know and then
+6:33 should be able to pump up the sun
+6:35 intensity was what we used to be able to
+6:37 do there we go Sun intensity and this
+6:40 makes it so
+6:42 that I can get a just a little bit more
+6:45 realism out of this
+6:48 sometimes boy that slider was touchy
+6:51 though let's try
+6:53 three as soon as you pump the slider and
+6:56 it goes into the thousands okay so let's
+6:58 try 5
+7:02 00 man that makes just immediate huge
+7:07 difference to the scene right and then
+7:09 the next thing is I'll get into the
+7:10 camera tab field of view 45 35 maybe 35
+7:15 degrees that's looking like a much
+7:17 better shot and then you can even do
+7:19 depth of field and kind of blur out that
+7:20 tree but a lot of times I like doing
+7:22 depth of field um in Photoshop because
+7:25 it's much easier to masry in Photoshop
+7:28 and do a background replacement than it
+7:31 is to mask a blurred tree you know you
+7:34 could blur it just for the look and
+7:36 trying to get your composition the way
+7:38 you want it that's one thing I
+7:40 guess um so want to get some side bushes
+7:44 in this
+7:45 shot and then I already just dragged and
+7:48 Dro grass I'd built before that's always
+7:51 fast for me
+7:53 um and then if we just preview what it
+7:55 looks like to do a path Tracer and I
+7:57 just set this to low mode
+8:05 so notice that the path Trac are just
+8:07 completely knocked out that effect of
+8:09 the sun right so not helpful um so let's
+8:14 pump the sun back up Sun intensity oh
+8:17 Sun
+8:17 intensity that's weird Sun intensity
+8:20 changed when we switched to path Tracer
+8:22 so it's got an independent setup here
+8:25 funny let's try
+8:28 that
+8:35 um I wish I was on the twin twin motion
+8:37 development team they do some weird
+8:38 things so I'd love to be helping
+8:43 out like why is the sun intensity
+8:46 blanking out the backdrop that seems
+8:48 very strange to
+8:51 me auto exposures
+8:54 on that sun intensity is far too great
+9:03 all right so let's try
+9:07 150 and as we pump up the samples we
+9:09 might get intensity back in the
+9:19 backdrop
+9:22 huh or not yeah they changed this from
+9:25 the last version I'm not a
+9:28 fan
+9:29 all right so let's pump up all right
+9:32 that's the backdrop intensity pumped up
+9:34 to four Sun intensity is at
+9:37 150 um do I see any problems with those
+9:39 two settings
+9:43 together no probably kind of
+9:47 imperceptible don't really notice much
+9:49 difference so the other new thing is we
+9:52 get substance um we get substance
+9:57 materials in here now I have my own
+9:59 materials and I like them and I know
+10:01 they're good but we could check out
+10:03 substance materials see if they've
+10:04 managed to make a better roof material I
+10:06 doubt it um I think my roof material is
+10:09 pretty good so we'll check it out I got
+10:11 a comment here um that camera guy how's
+10:15 it looking with Lumen um I don't
+10:17 recognize your screen name by the way so
+10:18 if you're new cool hi um I don't love
+10:22 Lumen so far from what I've seen I just
+10:25 haven't it doesn't seem to make any
+10:27 sense to me um makes great sense if I'm
+10:30 doing some kind of video walk through
+10:33 but I don't see how if someone can tell
+10:36 me how does Lumen work with path Tracer
+10:39 or is only in in real time um so with
+10:42 real
+10:43 time and we kick on
+10:46 Lumen I mean that's very
+10:50 underwhelming scene
+10:56 Detail full we can pump up quality we
+10:59 can pump up the balance count that's not
+11:02 going to make a difference in the scene
+11:03 balance Count's not going to make a lick
+11:05 of difference it shouldn't
+11:10 anyways you
+11:12 can I mean it's nice that we can affect
+11:14 the Shadows that's
+11:21 cool shadow bias
+11:26 doing interesting independently
+11:30 affecting Shadows it's almost like it's
+11:31 baking Shadows
+11:34 funny yeah um lum's not exciting to me
+11:39 here I'll stick with path Tracer it's
+11:41 great for for like let's just see what
+11:44 happens when we move around yeah this
+11:46 means this means we get to render a
+11:48 walkthrough with better quality right
+11:50 because there's Lumin there's standard
+11:52 100% well you're definitely getting a
+11:55 higher frame rate here let's look at
+11:57 stats all right we're at 40 frames per
+12:01 second
+12:04 here it's really underutilizing the GPU
+12:07 or it's optimized GPU usage and then
+12:09 switch over to Lumen and we're getting
+12:11 30 frame 25 probably 25 frames a second
+12:16 um so totally doable for a video
+12:18 walkthrough and you're going to get
+12:19 better Shadows great but I'm not doing a
+12:21 video walkthrough I'm just doing a still
+12:23 shot so I'm going to stick with path
+12:27 tracer
+12:29 maybe nice to just kind of visualize
+12:33 previs on your path Tracer using Lumen I
+12:36 you know there's an argument for
+12:39 that all right so let's see how we can
+12:42 get into I'm going to hit the materials
+12:43 tab here
+12:47 and let me get into the library W
+12:50 substance 3D and let's click on assets
+12:53 and bring this into our shot and see
+12:57 what we got let's see if if we can find
+13:00 um I doubt they're going to call it comp
+13:02 single or composition single so we'll
+13:07 see uh what do we got Justin what are
+13:09 you
+13:15 saying
+13:16 yeah uh this is a new release Facebook
+13:19 user um how do I do that let's see there
+13:22 should have been a notification when you
+13:24 went to click on the stream to uh to
+13:27 authorize streamyard um otherwise you
+13:30 might have to Google that I can't
+13:31 remember offand so not sure who that is
+13:34 commenting hey John
+13:36 LCA I always butcher your name I know
+13:43 it oh here we go roof asphalt shingle
+13:46 tiles roof asphalt shingle tiles it's
+13:49 funny that um you know what I love about
+13:52 the rendering industry they don't know
+13:54 what we call
+13:56 things that's what's really funny so
+13:58 they just make up names I mean that's
+14:00 not wrong roof ashalt single
+14:05 tiles yeah
+14:07 funny all right so I'm going to download
+14:10 this guy and I'm going to keep it in my
+14:14 material store so we'll put it in
+14:19 Roofing and I'm just going to say we're
+14:22 going to make a new one that's just comp
+14:27 shingles
+14:33 and let's see that kick off that's done
+14:36 so should be able to go switch back to
+14:40 Twin motion now and click on this little
+14:43 like carrot at the bottom let me see if
+14:45 I can make my zoom work I don't think I
+14:47 can I think it'll screw me up so I'm not
+14:48 going to do
+14:52 um oh wait yeah I can hold on let's see
+14:55 does this
+14:57 work
+14:59 hey look at that so you click on this
+15:01 little
+15:03 carrot and then click on substance at
+15:05 the
+15:06 top right and then now hit a plus icon
+15:11 open it would have been good when I was
+15:13 saving that to save the um the path of
+15:17 where I just saved that Roofing but we
+15:19 know where it is comp shinkle and here
+15:21 we
+15:23 go uh resolution
+15:25 1024 248 I mean for
+15:29 comp shingle you're looking at it from a
+15:31 distance 1024 is probably fine keeps the
+15:33 scene
+15:34 light that's kind of
+15:42 nice creating texture Maps huh that's
+15:45 cool that you get the option it looks
+15:47 like you get yeah you get to change the
+15:49 option on the Fly it's funny that it
+15:51 even asks you in the first place so
+15:52 that's cool so if you don't like what's
+15:55 happening all right so let's throw this
+15:57 on oh that's
+16:01 terrible but you know what let's mess
+16:03 with some settings and see what I can
+16:05 get going on here um my face is in the
+16:07 way of this interface isn't it it'
+16:10 almost be better if my face was off to
+16:13 the to the right or something let's see
+16:16 if I can do that real quick bear with me
+16:23 camera maybe if we put we don't need to
+16:26 see the library right so look at me I'm
+16:28 moving
+16:30 mov all right that's better right
+16:33 something like
+16:35 that happy y'all happy so now we can
+16:40 see some
+16:41 settings uh base color roughness
+16:44 metallic normal height basic parameters
+16:47 blah blah blah let's get into our normal
+16:50 first of all well let's get into our
+16:52 scale so where they hide scale now basic
+16:55 parameters they always got to move stuff
+16:57 on us
+17:00 anytime you're developing so that other
+17:02 people can integrate provide a
+17:04 development kit so that everything is in
+17:06 the same dang place so I know exactly
+17:09 where I can rescale this it's dumb that
+17:12 I have to go try to find this out now
+17:14 technical parameters height position
+17:17 height range no so maybe it's in UV
+17:20 there it's there's where it's
+17:26 at and also so like be nice if we had
+17:30 some parameters for how we're even
+17:32 coming up with scales so if I wanted
+17:34 very this very specifically to be true
+17:36 to life like give us some kind of grid
+17:40 scale on a preview
+17:42 image so that we know what we're doing
+17:45 so that we could actually calc this out
+17:47 and get this comish angle to be
+17:49 true so I'm imagining that there's some
+17:52 colors here we
+17:55 go so we're going to kick into we'll
+17:58 just just do a a darker gray and an even
+18:01 darker
+18:02 gray oh interesting it's regenerating so
+18:05 this is almost like a so this is truly
+18:08 an sbsr so it's modifying on the Fly
+18:12 that's
+18:14 cool I kind of like this grayish one
+18:18 wonder if we can what's that calling it
+18:21 that's that's gravel complimentary color
+18:25 what happens when we kick this up a
+18:29 few I'm going to hit cancel I want to
+18:32 make sure that I'm retaining whatever
+18:33 this was that's funny I hit cancel and
+18:35 it didn't cancel it left the color where
+18:39 it
+18:40 was I didn't want to do that so funny
+18:45 that gravel didn't seem to affect that
+18:46 scene at
+18:57 all all
+18:59 right I mean that's okay okay uh tiles
+19:04 amounts in inches oh well here we go
+19:05 tile tiles amounts tiles amount
+19:10 inches yeah but that wasn't true that
+19:12 scale wasn't
+19:14 true they tried let's see tile
+19:18 slope aging effect
+19:22 roughness contrast saturation normal
+19:25 intensity let's see if we can't kick
+19:27 this up
+19:32 I'm looking at the side here because
+19:34 that's where I want to see that bump
+19:35 kicking out
+19:37 right normal's at
+19:39 100% there's
+19:42 a it's funny they give you a normal map
+19:44 but it looks like they do have a m
+19:46 height map but they don't have Parallax
+19:53 checked um but even pumping up on this
+19:56 Parallax isn't really doing
+20:00 much height map reference
+20:04 plane that's almost like a plus minus
+20:06 must
+20:07 be yeah um not thrilled with this I much
+20:10 prefer my own so I'm go back to my
+20:16 own wonder if I can search yet did they
+20:19 fix this
+20:22 yet no they still I still can't search
+20:25 my own Library which is the most useless
+20:28 thing ever right I should be able to
+20:32 search
+20:34 Roofing yeah still can't search my own
+20:36 Library amazing that they haven't fixed
+20:39 that and they want 500 bucks for this
+20:40 software not doing it sorry fix the
+20:45 basics there we go look at that so much
+20:48 better you can see height over
+20:57 here
+20:59 yo twin motion hire
+21:08 me and kick some grunge up do we get
+21:11 details
+21:13 gain interesting we've got gain in here
+21:16 and
+21:19 lift oh I like
+21:22 lift very
+21:25 nice you're doing like a coefficient
+21:32 gains fun too cool that's almost
+21:35 cartoony
+21:39 now all
+21:41 right I dig it I dig
+21:47 it normal intensity could
+21:51 be but normal's not
+21:55 the not making as much of a difference
+22:03 all right we got some
+22:06 little artifacts in this siding material
+22:10 this was another substance siding
+22:12 material and then it's and then it's my
+22:14 brick
+22:16 material and then probably need to get a
+22:20 better dirt material here let's get into
+22:26 landscaping that's a little bit better
+22:28 and we could probably move this
+22:32 down um this is where my hot Keys would
+22:34 have been real good real real good
+22:39 um I'm going to build out hot Keys why
+22:42 not let's do it I'm going do it real
+22:43 quick shouldn't take that
+22:50 long buttons we're going to hit my f up
+22:53 we're going to do new radial menu
+22:58 get an eight position let's call this
+23:01 twin motion main or edit let's call it
+23:05 edit um my open object is usually eight
+23:10 my delete usually here so let's go let's
+23:13 just search if we can do a delete
+23:16 key edit delete yep okay so that's
+23:20 delete and
+23:22 then let's see um I probably want the
+23:27 one position to be I drop so what's this
+23:33 let's get in Twin
+23:37 motion did you give us a bunch more
+23:39 stuff let's see don't want file media
+23:41 navigation
+23:43 tools material picker okay
+23:48 um so we need material picker we need
+23:50 Center object Center object I'm probably
+23:52 going to put on
+23:55 three um and what I mean by that is is
+23:58 Center
+24:00 pivot yeah yeah or reset pivot scatter
+24:03 toggle cion toggle gravity toggle
+24:05 helpers toggle local
+24:08 access toggle pivot Center pivot
+24:13 yep and then what do they have they have
+24:16 the next transform I don't want that
+24:18 reset pivot paintbrush tool okay I mean
+24:23 these are the main ones I need at the
+24:26 moment let's see what
+24:30 else let's just stick with that for a
+24:32 second all right so I should be able to
+24:36 hit my f key and
+24:40 bam oh and then I do want to switch to
+24:46 move so what do I want to do for switch
+24:49 to move um to motion
+24:56 edit
+24:59 uh 456 move yeah
+25:02 move nope what is it what are they
+25:04 calling it they're calling it something
+25:06 different I think they call it rotate
+25:08 actually which
+25:10 is gnarly to
+25:14 me Zoom the selection's
+25:19 nice what is it it's like the five key
+25:21 or something what's
+25:24 the I bet you it is I bet you this is
+25:27 just four five
+25:41 6
+25:46 yeah boy it's
+25:49 lagging it's not 456 what is what are
+25:54 these what is this what's the hotkey for
+25:56 this seven
+26:00 8 n probably 789 all
+26:26 right
+26:28 if you keep in the edit window you don't
+26:31 have to Target the application the same
+26:33 way all
+26:35 right now let's try it seven there we go
+26:39 but really I only want eight I don't
+26:41 know why they still have this it does me
+26:43 no good to not just see the full Gizmo
+26:46 in all planes it's the strangest thing
+26:48 to
+26:51 me so we want to move this down like 0
+26:56 five nope
+26:58 way less than that so negative
+27:08 501
+27:16 no there we go that's about
+27:22 right uh let's see my move speed's
+27:25 crazy woo flying oh that's cuz I hit the
+27:29 four five6 right I a three there we go
+27:33 much
+27:36 better okay comp wise just got to throw
+27:38 in some bushes make this look
+27:47 pretty plants exterior what do I got I
+27:50 probably have better plants than they do
+27:51 maybe they improved him I should go
+27:55 look um I think I plant groupings
+27:59 too or at least I used
+28:07 to too bad we can't
+28:10 search tall
+28:12 Bush yeah like
+28:16 that's that's
+28:26 nice
+28:29 that feels like it's coming from Twin
+28:31 motion I don't know why I have it saved
+28:32 there
+28:44 then oh Landscaping maybe that's where I
+28:46 have it saved oh I should consolidate
+28:49 those two okay so I have groupings of
+28:53 plants
+28:56 here
+28:59 um and they need to be
+29:01 centered new version of twin motion
+29:04 always got to reenter all your library
+29:06 items what a
+29:08 [Laughter]
+29:12 pain uh let's take Garden feature let's
+29:15 see if I can't Center it up and then
+29:17 shift click there we
+29:21 go and that's moving too slow
+29:25 okay and shift click
+29:39 then like
+29:45 that I don't care if it goes in the
+29:48 garage because we're only doing one shot
+29:49 on
+29:53 this oh got to mess around with uh lot
+29:56 of lag on the 3D mouse very strange
+30:01 didn't used to have
+30:12 that oh yeah so much lag
+30:16 geez it's like we're it's like it's
+30:18 emulating a video game controller
+30:23 strange too
+30:26 bad
+30:31 let's
+30:36 see so put the tree in there just for
+30:39 this little bit got the Landscaping back
+30:42 here probably need something against
+30:44 this Back
+30:46 Fence maybe just throw another Garden
+30:48 feature in
+30:55 there very slow to
+31:01 place same thing needs to be reentered
+31:04 somehow for some reason don't know
+31:09 why um would be great if it was like
+31:15 that I think would be
+31:19 great and this Jack sprats a little too
+31:23 obviously
+31:24 fake okay
+31:27 yeah that's looking pretty good what
+31:29 else
+31:31 um the client wanted no architectural
+31:34 features didn't want to down spout
+31:35 gutters nothing to make this pop as
+31:37 realism because the previous rendering
+31:39 artists didn't do all that so kind of
+31:43 funny gotta hold hold to a standard
+31:45 that's lower than my
+31:47 own um
+31:53 whatever all right so I could probably
+31:55 work with this and throw this in
+31:58 Photoshop and get a good shot out of it
+32:01 once I pump up the sample
+32:05 right um it's kind of a semi gloss pain
+32:09 color on the fascia that's okay not
+32:13 getting any Reflections
+32:15 on the building here I'll probably just
+32:17 fake that in Photoshop probably need to
+32:20 touch up this door get some Reflections
+32:22 on that let's just take a look at what
+32:24 this
+32:26 is
+32:27 roughness is 100% is mainly the reason
+32:31 for
+32:32 it could actually throw like a wood
+32:35 grain in
+32:48 there they need to stall that um they
+32:52 need to have options options to stall
+32:55 the path Tracer when you're making
+32:57 making a live adjustment on a slide bar
+32:59 on a
+33:02 material no reason why I wanted to
+33:04 process while I'm in the middle of
+33:06 sliding a roughness
+33:09 slider um few little discrepancies here
+33:12 fix that in Photoshop ways here uh what
+33:16 else uh this plant grouping is looking a
+33:20 little little sad
+33:25 face
+33:29 maybe we'll throw some twin motion
+33:30 Assets in there see what they got yeah I
+33:32 didn't even Place anything there and
+33:34 it's doing a path Tracer this just silly
+33:36 quit quit using my Hardware up will
+33:39 you no
+33:45 need see did they improve their bushes
+33:48 catalog no this is exact same thing they
+33:51 Bush catalog is all Tropics
+33:53 like most of us aren't working in the
+33:55 tropics dude
+33:58 isn't this a uk- based company
+34:00 too where do you think we're you guys
+34:02 must be
+34:03 getting work over in the
+34:08 tropics let's
+34:10 see so what else they have mega scans
+34:14 characters tools hdrs objects
+34:16 vegetations and they probably have
+34:17 sketch Fabs
+34:18 still let's go 3D
+34:22 plants
+34:25 uh garden plants
+34:28 no I'd almost wish that they would go
+34:31 through this and
+34:32 do like house plant Grand cover prer
+34:35 weed shrub I get that you're calling
+34:38 them weed and
+34:39 shrub I'd also wish there was like
+34:42 subcategory where it's just residential
+34:46 Landscaping you know versus a lot of
+34:49 this other stuff is going to be in
+34:55 like in like full um Jungle scenes and
+34:58 stuff like choose your demographic cater
+35:01 to that demographic most of the people
+35:03 going to be buying twin motions going to
+35:05 buy it for some kind of residential
+35:08 rendering okay so I guess I'm picking a
+35:11 flowering
+35:13 plant flower head I don't want to
+35:16 be I also don't want to be a landscaper
+35:19 to be able to understand the type of
+35:21 plants that I want in the front of my
+35:25 house
+35:31 but I guess I could look up the
+35:32 demographic of this part like Pacific
+35:34 Northwest let's see
+35:38 pacific Pacific Northwest I think is
+35:41 where my client is um
+35:44 common landscape
+35:47 plants ask chat GPT why
+35:51 not Sunset
+35:54 Golds Becca flocks
+36:04 and I bet you don't they don't have
+36:06 comments either um you still have to
+36:08 download these like you got to sign in
+36:11 sign into to epic
+36:14 games okay and now you have to
+36:19 download and that downloads I know this
+36:21 downloads the grouping and then you can
+36:23 choose to place an individual item right
+36:26 click click for the variations yeah got
+36:39 this um and somehow it switched on to
+36:42 pathra that's funny so let's
+36:51 see see there's no sense of scale in the
+36:54 previous too
+36:55 right
+36:57 let's just throw this in here real quick
+36:59 I'll just download a few
+37:03 things word of
+37:08 paradise these itty bitty little dot dot
+37:11 dots are still annoying too I'm just
+37:14 gonna
+37:16 be bitching a little bit I suppose about
+37:19 their interface and other
+37:23 things like why you got to click on this
+37:26 little itty bitty dot dot dot just to
+37:28 get something going I previously
+37:30 downloaded boxwood so now where's that
+37:32 taking up space on my place on my
+37:48 computer Rosary Bush down with
+37:55 it
+37:58 yeah that
+38:00 the make it so that the Layman can put
+38:03 together a garden very quickly because
+38:05 that's the only reason that's the only
+38:07 reason I'm using twin motion my software
+38:10 does everything but the foliage but the
+38:13 bushes but the trees so twin motion does
+38:17 it better but the organization of it
+38:19 just absolutely
+38:22 terrible and why not just give the
+38:24 option to download you know a particular
+38:27 set of assets that might cater to a
+38:29 particular need right so let's give the
+38:32 option to as you're updating your twin
+38:34 motion hey download the
+38:36 residential you know Landscaping package
+38:39 of common bushes for your region why
+38:45 not I could sell me some product if I
+38:48 had a catered package that's for
+38:50 sure twin motion put me on your team
+38:53 I'll help you out I swear
+39:03 25 years as a rendering artists hook me
+39:11 up but that's a slow
+39:16 download or it
+39:18 stopped what happened
+39:20 here
+39:22 okay hold that that was
+39:25 weird
+39:37 right yeah I totally agree and I mean
+39:41 this is just us talking off the the the
+39:44 C is it the cuff or the
+39:47 cusp what's the
+39:51 what's where did that come from off the
+39:55 cuff I thought I was off the
+40:04 cuff um but yeah if we actually sat down
+40:06 with the team and really thought about
+40:07 this you know how do we want to pose
+40:10 this particular software who's going to
+40:11 be buying it what's the demographic of
+40:13 users that are using it what are they
+40:14 using it for and if we're using it
+40:19 for residential
+40:21 architecture let's put let's cater to
+40:25 that
+40:31 it's off the cuff
+40:36 yeah wonder what that's from what do you
+40:38 think that's
+40:42 from talking tie loose off the
+40:48 cuff uh this is the longest object
+40:51 creation ever what's going on here you
+40:53 Frozen on
+40:54 me that's my other association with twin
+40:57 motion be prepared for it to freeze and
+40:59 die hopefully it's not though but it
+41:02 certainly looks like it
+41:05 is it's just stuck what's going
+41:12 on look at a resource
+41:15 monitor what are you doing
+41:20 twin oh there it
+41:25 goes
+41:27 all right so uh this is funny I oh okay
+41:32 you have to actually click on it yeah
+41:34 man they got some coding issues they got
+41:37 all kinds of things they could fix in
+41:39 here I just don't want to pay for a
+41:41 software that's like not polished at all
+41:45 like what is happening here I'm clicking
+41:46 on things and nothing's
+41:55 happening
+42:01 it's using a heck a lot of ram right now
+42:03 for some
+42:09 reason which is
+42:15 odd used to be able to place this
+42:17 boxwood very
+42:18 easily not it's not letting me so
+42:22 something's going on don't know
+42:25 what
+42:33 formal dress off yeah informal oh that
+42:36 makes sense
+42:45 sure yeah yeah it should cater to to the
+42:49 gamer crowd that are creating gaming
+42:50 environments absolutely you know twin
+42:53 emotion people they're using that but I
+42:55 don't feel feel like I don't feel like
+42:58 The Gaming Community is using this I
+43:01 feel like they're using
+43:03 Unreal because that's what I would do if
+43:06 I was in The Gaming
+43:11 Community all right that boxwood is
+43:13 terrible I don't know what's happening
+43:15 with that or if it's not just the
+43:16 boxwood it's other things but that
+43:19 wasn't
+43:21 working
+43:25 nope
+43:31 all right so let's get a rosemary can I
+43:35 get a rosemary bush to
+43:39 go okay that
+43:48 works again they have no preview of
+43:51 scale here so you have to click through
+43:53 everything to understand what the scale
+43:55 even is
+43:57 like what if I want a big rosemary bush
+43:59 I have no idea so I just downloaded a
+44:01 bunch of assets for super tiny little
+44:03 Rosemary
+44:08 sprigs no one's thinking this
+44:13 through like that's frustrating I'm just
+44:16 wasting time here that's that's just
+44:18 really
+44:21 dumb like I wanted to think I want a few
+44:24 bushes in front of my existing bushes
+44:27 that are half the size what can I put
+44:30 there and I can't do that I should have
+44:32 been able to do that in 2 minutes that's
+44:35 just
+44:37 ridiculous so I'm just going to edit it
+44:39 in with Photoshop I'm gonna just edit
+44:42 this whole section out with Jen Phil
+44:43 because it's easier to do that than
+44:45 dealing with this interface what a dumb
+44:51 thing what are you calling a shrub shrub
+44:54 Urban shrub
+45:01 okay
+45:03 AA see what happens
+45:21 here I like how they did the scale with
+45:24 the person standing next the trees so
+45:26 they definitely had that in their their
+45:28 wheelhouse of of understanding that we
+45:31 needed to know some you know some idea
+45:34 of scale of the assets that we're
+45:36 downloading so it's just very strange
+45:38 that they're not using the same
+45:41 exact approach this is a quality control
+45:44 issue do the same exact approach through
+45:46 all of your assets you've shown scale on
+45:49 other assets show scale on all of your
+45:54 assets
+46:15 all right this is
+46:20 okay I got to get off the island let's
+46:22 just go let's just throw some stuff in
+46:24 here
+46:27 it's not as good as I want it to be but
+46:29 that's
+46:43 okay okay so let us here's the other
+46:48 thing that I noticed in the previous
+46:49 version is it was always running path
+46:52 Tracer even when you're setting up an
+46:53 export so like I want to create a new
+46:58 image
+47:08 here okay that's my image
+47:12 two and now we're in Media mode so I
+47:15 should be able to set to medium
+47:18 quality I don't know why Windows
+47:20 Explorer just popped up that was
+47:23 weird what do we have in details what
+47:26 does this do oh this is just sample
+47:29 sample rate Max balances sample 50
+47:31 noiser fireflies
+47:33 30
+47:36 okay so I should be able to render this
+47:40 out
+47:46 now um I don't know this tree isn't
+47:48 doing anything because it's not casting
+47:49 in Shadows so I can fake a tree that
+47:52 will look better than this so let me
+47:55 ditch this
+48:01 this oh I forgot to move this
+48:13 guy let's just shift click him back
+48:17 here and
+48:19 then yeah they always default to this
+48:21 Gizmo which is really hard to move
+48:23 things with as opposed to this Gizmo
+48:26 which is no this Gizmo the rotate Gizmo
+48:30 which is much easier to move and
+48:31 duplicate
+48:34 with Oh weird it's not letting me drag
+48:37 it off
+48:43 scene oh because it's what is happening
+48:46 here quit medium
+48:50 mode stop raate tracing so I wonder if
+48:54 it leaves raate tracing on on that shot
+48:56 now if I it used to be it would
+48:59 not like you had to be in path Tracer
+49:01 mode for that shot to be working all
+49:04 right so instance I wish they gave us a
+49:07 rotate or you
+49:09 know vary as you instance because it' be
+49:14 nice because I'm moving foliage I want
+49:16 it to not look exactly like the thing
+49:18 next to it
+49:19 usually would be the
+49:24 case
+49:26 that would be like a true um variable
+49:31 instance
+49:32 setup all right
+49:34 media let's go image
+49:38 two all right let's export this see what
+49:54 happens why is it making me sit here for
+49:56 the path Tracer when I want to export
+49:59 the image and it's going to repath
+50:02 trce
+50:05 craziness um so they're
+50:08 calling I guess they're calling full HD
+50:11 2K all
+50:12 right that typically was just called HD
+50:16 um 2K would typically be a higher
+50:19 resolution slightly I
+50:22 believe I think that's in the 21 area
+50:25 yeah tiled rendering no we don't need to
+50:28 do tiled
+50:30 rendering um so we'll digitally upscale
+50:32 this when we're
+50:34 done I'm probably going to go back to my
+50:36 educational version so I can export to
+50:39 4K because I don't see the improvements
+50:46 here and
+50:48 then what am I clicking on here to
+50:50 actually export oh have to click on
+50:53 export image there image two start
+51:02 export
+51:05 and this is for Mission Mill
+51:12 homes
+51:16 bam she gave us the option to rename
+51:19 what that image is from there and have
+51:21 it conversely rename the image that's in
+51:25 the media
+51:51 mode it's lagging right
+51:54 now
+52:05 I wonder if it's using both my graphics
+52:08 cards or just one I bet it's just using
+52:24 one okay let's shut this down look at
+52:27 it's trying to path Trace after it's
+52:29 done exporting they still haven't fixed
+52:31 that that's just silliness okay save
+52:41 this and what are we going to do we are
+52:44 going to photoshop
+52:54 it
+52:56 experiencing
+52:59 lag okay what do we got let's
+53:24 do
+53:42 all
+53:43 [Applause]
+53:45 right what are we going to do to this
+53:47 look at they put their their stamps on
+53:49 the Community
+53:51 Edition I'm sorry twin motion I am not
+53:54 going to allow you to remain look how
+53:57 bad the grass looks at 2K that shouldn't
+53:59 be
+54:01 happening that grass looks
+54:07 terrible this doesn't seem like 2K to
+54:13 me H
+54:24 okay
+54:49 oops let's just jump off the bat and see
+54:52 we could what we could do with some
+54:54 filters
+55:19 all right all my filters are built for
+55:21 Chief Architect rendering so going have
+55:23 to actually come in here and mess around
+55:25 with
+55:27 it um exposure seems to be
+55:31 fine let's well first of all let's just
+55:34 get a different Sky model in
+55:54 there that's funny uh the sky is not
+55:58 masking correctly usually
+56:01 would Let's test that theory yeah it's
+56:04 not masking correctly at
+56:06 all so instead why don't we just figure
+56:10 this out
+56:22 ourselves okay
+56:40 I want really wants to fight me on that
+56:46 fence both
+56:53 sides
+57:23 for
+57:25 what looking at right there part of the
+57:27 building seems
+57:53 strange
+58:02 all right getting
+58:10 there let's just Jay this up okay may
+58:14 throw in our own sky from online
+58:17 somewhere that'd be
+58:23 fun
+58:25 um background with
+58:30 trees
+58:31 [Music]
+58:39 and
+58:41 tools wait
+58:43 images
+58:45 tools
+58:47 size let's go larger than four
+58:53 mags
+58:59 that was a pretty generic search to be
+59:01 pumping
+59:06 out could throw it in a mid Journey see
+59:09 what they give us background with
+59:15 trees I'm not mad at this one I could I
+59:18 could work with
+59:20 it resolution 2500 yeah okay
+59:42 little flippy flippy
+59:50 um
+59:53 okay
+1:00:01 it's funny I kind of
+1:00:04 like
+1:00:13 that yeah it's not
+1:00:16 terrible let's see if we can't do some
+1:00:19 color grading to that let's
+1:00:21 just group this this is background
+1:00:26 and
+1:00:30 then pop this in so you guys can see
+1:00:32 what I'm
+1:00:36 doing uh there's a way to do large icons
+1:00:41 here large
+1:00:44 layers large thumbnails oh it is large
+1:00:47 thumbnails whatever all right so there's
+1:00:49 our background let's just throw in some
+1:00:52 kind of I think a color balance
+1:00:57 two
+1:00:58 green enough
+1:01:01 green two purple
+1:01:06 purple here we go less there let's throw
+1:01:11 in Hue saturation
+1:01:21 adjustment let's throw in some mospheric
+1:01:25 like Haze maybe we'll throw on a
+1:01:50 gradient
+1:01:53 right yeah better
+1:01:58 okay
+1:02:00 [Music]
+1:02:03 um I mean that's not looking
+1:02:06 bad that's not looking
+1:02:12 bad although it's showing the Sun up
+1:02:15 here and Sun's clearly not up
+1:02:17 there
+1:02:18 [Laughter]
+1:02:23 whoops
+1:02:24 let's just throw a stamp in
+1:02:28 this I want to desaturate the back at
+1:02:31 all let's
+1:02:39 see yeah right about there that's
+1:02:41 looking good
+1:02:43 okay stamp
+1:02:46 it let's mess with
+1:02:53 it
+1:02:55 I think there was a couple fixes to do
+1:02:56 but let's mess with this first so
+1:02:59 exposure
+1:03:01 is all right and then let's kick up
+1:03:23 deaz
+1:03:30 do we want a
+1:03:33 vignette yeah slightly slightly might be
+1:03:36 able to do that after the fact though
+1:03:38 let's do a Vette after the
+1:03:41 fact so I'll set that to
+1:03:44 zero
+1:03:46 um let's see anything with our
+1:03:49 saturations
+1:03:52 luminance the fence look looks pretty
+1:03:55 good the oh the color on the building's
+1:03:58 completely wrong I messed that up that
+1:04:01 was supposed to be blue how did that get
+1:04:04 messed
+1:04:14 up
+1:04:16 funny I G have to mess with that dang
+1:04:19 too bad that was dumb on my
+1:04:22 part um
+1:04:38 I could try to mask it and color it but
+1:04:45 n it's not even registering is blue
+1:04:53 funny everything else looks pretty good
+1:04:59 there like throwing a little blue in the
+1:05:03 shadows we can warm
+1:05:11 up warm the highlights a little bit or
+1:05:15 cool them
+1:05:23 down
+1:05:24 actually kind of want to cool it down
+1:05:25 but then turn up the warm somewhere else
+1:05:29 kick sharpening up just a little bit but
+1:05:31 it's really screwing up that tree on the
+1:05:33 left but we'll probably do we'll
+1:05:35 probably make this a foreground tree it
+1:05:37 almost looks like it is so that's
+1:05:50 okay yeah this is not looking bad oh
+1:05:53 look they have have lens blur
+1:05:55 in in
+1:05:57 here
+1:06:03 interesting it's built into the camera
+1:06:05 raw filter now that's
+1:06:07 cool for those of you still watching we
+1:06:10 got lens blur in the camera rod that's
+1:06:13 super cool so what do we have Circle
+1:06:15 modern circular lens we even have
+1:06:18 options for lenses standard circular
+1:06:20 shap over corrected
+1:06:21 spherical that's really cool
+1:06:28 cool okay so blur blur amount blur boost
+1:06:32 focal range just the range of depths
+1:06:35 that are in Focus so it's blurring this
+1:06:39 is see as foreground so it's not seeing
+1:06:41 that tree is
+1:06:43 foreground because if we bring this
+1:06:46 back oh this is so
+1:06:53 clever
+1:06:54 and then I bet you I can move this
+1:06:56 slider to just where it starts that's
+1:06:59 really
+1:07:02 cool I wonder how I could Target let's
+1:07:05 see visualize depth refine what's our
+1:07:07 refine
+1:07:09 button oh we can paint it in
+1:07:13 oh what I've not seen this this is so
+1:07:17 cool okay so we can paint in the tree
+1:07:20 this is awesome brush to add Focus brush
+1:07:23 to add blur this is amazing are you
+1:07:25 kidding
+1:07:29 me it's absolutely
+1:07:31 amazing H happy kid make my life easier
+1:07:37 and I could kiss
+1:07:44 you brilliant
+1:07:47 Photoshop you taking notes twin motion
+1:07:49 this is how you make a good
+1:07:51 software that's amazing
+1:07:54 so cool all right if I hold yep if I
+1:07:58 hold Alt key that does
+1:08:01 subtraction and also resizes with mouse
+1:08:04 wheel so there we go fix the opposite
+1:08:08 blur on the
+1:08:11 shingles this is very very
+1:08:17 cool um so blur them out we're going to
+1:08:19 kick back down it's a little
+1:08:22 heavy
+1:08:31 somewhere in there that's pretty
+1:08:34 good
+1:08:35 okay um should have
+1:08:39 done I know how to fix this I should
+1:08:41 have done a duplicate layer is what I
+1:08:43 should have done because I want to fix
+1:08:45 this blur is a little heavy right here
+1:08:47 down here so I want to adjust that
+1:08:52 um prush size feather
+1:09:00 flow yeah
+1:09:10 okay let's adjust
+1:09:16 distance okay adjust distance and then
+1:09:19 kick blur Mount down
+1:09:22 again
+1:09:51 H something to be learned Cole
+1:09:58 okay right let's take a look at this so
+1:10:00 I'm going to press okay that adjusts the
+1:10:03 scene but then I want to revert that oh
+1:10:06 actually I don't need to I could just
+1:10:07 make a new stamp from here all right new
+1:10:10 stamp from here drop this on top of that
+1:10:13 one and then we're going to mask
+1:10:16 it based on what I'll just mask it it's
+1:10:20 fine and then let's invert the mask
+1:10:23 control I
+1:10:25 and then hit my brush in here
+1:10:28 and need to apply the same
+1:10:30 filters but minus the
+1:10:35 uh minus the
+1:10:40 blur
+1:10:41 so dot dot dot apply previous settings
+1:10:45 and then kick down to the lens
+1:10:49 blur lens blur is not on
+1:10:52 interesting so press okay and now I
+1:10:55 should be able to brush out that
+1:11:00 blur although it's still that's
+1:11:03 interesting it's showing
+1:11:05 blur wait
+1:11:08 brush your
+1:11:14 white oh I'm in the pixels oops I'm not
+1:11:17 in The Mask there we go so there I'm
+1:11:20 taking away that focal blur
+1:11:22 there so I want to feather that back
+1:11:27 in I just don't want it so heavy so
+1:11:29 we're going to take this to a medium
+1:11:40 gray there we
+1:11:44 go feather
+1:11:46 back and feather wide and there we go
+1:11:52 there we go light vocal blur
+1:11:59 there
+1:12:09 oops nice all right
+1:12:13 cool restamp it why not I don't care
+1:12:17 destructive workflow it's not the worst
+1:12:19 thing in the world um since I haven't
+1:12:23 done this while let's see if I can't up
+1:12:25 my pen game my pen
+1:12:30 tool I guess we should have called this
+1:12:32 twin motion and Photoshop right oops
+1:12:35 sorry
+1:12:40 guys use the space
+1:12:43 Mouse kicking this
+1:12:52 around
+1:13:15 probably just going to use the object
+1:13:17 selection tool but I want to practice
+1:13:19 with the pen real
+1:13:22 quick
+1:13:32 make selection
+1:13:34 [Applause]
+1:13:39 path okay
+1:13:43 so let's just J it and then all right
+1:13:48 maybe I will do make selection path here
+1:13:50 or object selection tool
+1:13:57 yeah yeah try it
+1:14:02 again it's a pretty good selection
+1:14:05 control
+1:14:06 jet contrl e together and then let's
+1:14:11 apply
+1:14:13 a hue
+1:14:16 saturation just to the mass below let's
+1:14:19 do
+1:14:21 colorize and this is supposed suppos to
+1:14:23 be
+1:14:27 blueish and then I'm going to
+1:14:34 do multiply would probably be
+1:14:37 [Applause]
+1:14:47 good screen would probably be okay as
+1:14:52 well
+1:14:56 hard light's a little
+1:15:01 intense
+1:15:02 Hugh could be it Hugh would probably be
+1:15:07 best better best
+1:15:12 best that actually
+1:15:14 looks pretty
+1:15:22 close uh um except for it doesn't allow
+1:15:25 me to make finite adjustments so let's
+1:15:32 try with multiply I would have to
+1:15:36 crank this
+1:15:43 up supposed to be a grayish
+1:15:47 blue only problem with multiply is just
+1:15:49 gonna it's always going to be dark so
+1:15:50 we're going to have to make that same
+1:15:52 mask to an
+1:15:54 exposure which is
+1:16:15 okay that actually looks pretty good
+1:16:17 actually looks pretty
+1:16:18 real not bad and then we got to mask out
+1:16:21 the one problem with this was masking
+1:16:23 out the window here we forgot to mask
+1:16:25 that
+1:16:27 out we by we I mean
+1:16:31 me
+1:16:43 we
+1:16:49 okay yeah that's uh
+1:16:53 it's looking all
+1:16:56 right that's a pretty good shot that's a
+1:16:59 pretty good rendering
+1:17:01 honestly tooting my own horn I guess so
+1:17:05 we got some things to
+1:17:15 fix let out of fix layer stop being
+1:17:18 destructive let's
+1:17:21 be let's be a little bit better than
+1:17:23 that let's do
+1:17:25 stamp pump stamp up let's sample all
+1:17:39 layers what NOP get down
+1:17:45 here what the hell what am I doing wrong
+1:17:50 here why is it not oh that's cuz
+1:17:53 this duh hold on it's CU we massed that
+1:18:07 area there that's kind of it it's just
+1:18:09 not as dark as it should be
+1:18:11 so let's fix that real quick let's
+1:18:17 just
+1:18:20 yeah stamp
+1:18:26 poop
+1:18:29 there and it's okay that's a little
+1:18:33 bright maybe
+1:18:46 not yeah
+1:18:49 sure
+1:18:51 okay
+1:18:54 what other little fix that I need
+1:18:56 probably just some
+1:18:57 little
+1:19:00 oops some little grassy things right
+1:19:02 here would' be nice to fix just this
+1:19:05 little areas here with the
+1:19:09 lasso probably bet you genfi does a
+1:19:12 decent job of this right
+1:19:19 here let's just try
+1:19:21 it
+1:19:24 how long are we streaming let's see
+1:19:26 what's the time stamp hour and a quarter
+1:19:29 yeah all losing my butt on this job
+1:19:37 already look at that Jen Phil thank you
+1:19:41 thank you much better it's the other
+1:19:45 option yeah that looks realistic is
+1:19:49 that's bad first one's good okay I like
+1:19:52 it
+1:19:54 I think that's
+1:19:56 done see what kind of complains they
+1:19:58 make they're probably going to say don't
+1:20:00 put that tree Shadow on there and I'm
+1:20:02 going to be
+1:20:04 like that's too bad and I'll have to
+1:20:06 render from Twin motion that's why we
+1:20:08 save our
+1:20:12 cameras some of this blur is uneven
+1:20:15 that's too bad we could actually come in
+1:20:17 here with a blur brush if we wanted
+1:20:21 to
+1:20:23 sample all
+1:20:43 layers don't love this tree over here
+1:20:46 let's try a Jill why
+1:20:51 not
+1:20:58 just leave some of the tree in there so
+1:21:00 it knows what it's doing I think is the
+1:21:11 trick oh and then the last the last
+1:21:14 little fun touch to do
+1:21:18 is
+1:21:20 um I might have to do this with a pen
+1:21:22 see easier to do with a
+1:21:27 pin jfi did all right on that tree let's
+1:21:32 see that's even better than it
+1:21:35 was that's not good I don't love that
+1:21:39 one that
+1:21:41 one's a little bit better what was it
+1:21:45 before was that before that looks better
+1:21:51 does nice job
+1:21:54 uh let's see I want
+1:21:57 to I'm going to come in on this house
+1:22:01 real quick we're going to just pin this
+1:22:04 in
+1:22:06 ourselves just going to brush this in
+1:22:08 let's just grab this color get this nice
+1:22:12 and
+1:22:14 fuzzy and we're going to make some
+1:22:17 shingles right so it's just going to be
+1:22:20 like that that
+1:22:25 oh we got some
+1:22:31 lag kind of looks like there's singles
+1:22:33 here already a little bitsh but not up
+1:22:36 here where it
+1:22:51 should
+1:23:21 for
+1:23:46 oops
+1:23:50 ah uhoh lost the
+1:23:54 camera it's attached to my pen tablet
+1:24:09 whoops that was a little rough let's do
+1:24:13 that
+1:24:18 [Music]
+1:24:21 okay
+1:24:28 it's nice to throw this in and throw it
+1:24:30 on a mask and then you
+1:24:32 can kind of tweak between the two
+1:24:35 especially if I put it on its own layer
+1:24:37 but I didn't because that was
+1:24:39 dumb you
+1:24:41 know you know dumb
+1:24:49 things but from this distance that looks
+1:24:53 a lot
+1:24:55 better
+1:24:57 right is thing you can do is you could
+1:25:00 just like throw new layer on and then
+1:25:03 just kick a bunch of
+1:25:06 like do an interesting brush so like
+1:25:10 let's see what's another like a fur
+1:25:12 brush or something some weird
+1:25:15 brush and kicking this just grungy
+1:25:21 looking
+1:25:23 yeah something like that and then kick
+1:25:26 the opacity down right and then double
+1:25:30 click to get to layer Styles and start
+1:25:33 blending if so underlying layer blend
+1:25:40 if and then split the
+1:25:43 two and kick it up a little
+1:25:47 bit split it back
+1:25:51 down same thing white
+1:25:54 side split the
+1:26:01 two yeah you add a little bit of grunge
+1:26:04 to
+1:26:18 it it's a beautiful
+1:26:21 shot I like
+1:26:25 it so let's kick this out real quick
+1:26:29 actually it's got all those weird weird
+1:26:32 little artifacts let's fix those real
+1:26:34 fast and then after that we're g to kick
+1:26:37 it out upscale it throw a stamp on
+1:26:40 it um let's kick what can we do new
+1:26:45 layer and
+1:26:50 then sample all layers
+1:26:52 and fix this little
+1:26:57 dot that should have been oh should have
+1:27:00 been up here
+1:27:03 yeah there we
+1:27:06 go I got a few of those that was from
+1:27:08 that substance material don't know
+1:27:21 why
+1:27:47 yeah let's see we're going to call this
+1:27:51 96 23
+1:27:53 six
+1:27:58 B1 we take this into topaz
+1:28:02 labs and pump it up or gigapixel
+1:28:05 gigapixel would be
+1:28:10 good probably could have done gigapixels
+1:28:13 plugin I can't remember if they do
+1:28:16 inside Photoshop or not let's see filter
+1:28:18 topaz Labs no they just have photo and
+1:28:21 sharp AI but they don't have gigapixel
+1:28:24 for this
+1:28:26 one
+1:28:31 so Mission Mills Mission Mills there we
+1:28:35 go
+1:28:36 plans
+1:28:39 231 and nine n
+1:28:47 n hey look at all the
+1:28:49 grain the D nois are not not quite doing
+1:28:52 its
+1:28:58 job um don't need it to be two I just
+1:29:01 need two
+1:29:20 times
+1:29:26 yeah that's all
+1:29:39 right and then for the social
+1:29:46 media let's just kick into my
+1:29:50 libraries and
+1:29:52 Dro in my
+1:29:55 logo a little glowy
+1:30:20 one
+1:30:27 cool anybody got any questions still
+1:30:29 watching only a couple of people
+1:30:31 watching otherwise I'm gonna end
+1:30:35 it need me to demonstrate something show
+1:30:44 something all right well it's been a
+1:30:47 pleasure hopefully you got something out
+1:30:48 of
+1:30:50 this
+1:31:02 for

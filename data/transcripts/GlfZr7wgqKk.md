@@ -1,0 +1,1525 @@
+---
+videoId: GlfZr7wgqKk
+title: Optimal Steps to Create a Plan - Designers Show 125
+url: "https://www.youtube.com/watch?v=GlfZr7wgqKk"
+status: imported
+---
+
+# Transcript
+
+0:00 storage oh oh hi
+0:05 uh okay we're good hi everyone Dan here
+0:09 with cheap experts oh my goodness it is
+0:12 Friday feels like a Monday sometimes
+0:15 well welcome to the designer show we're
+0:16 on here today with Robin and Renee uh
+0:20 John can't make it today he had some
+0:22 issues with his uh batteries in his
+0:24 camper that he has to deal with so he's
+0:27 uh dealing with that today and then I I
+0:29 haven't heard from Kevin so I'm not sure
+0:30 where what he's up to uh I hope he joins
+0:33 us how you guys doing I'm we're doing
+0:37 great I'm looking at all the people that
+0:38 are here pretty hi Aaron aerin's in
+0:41 Florida that seems odd Aon should be in
+0:43 California she on the wrong tour of the
+0:45 country
+0:49 yeah and
+0:51 Mike hi guys hey Nina from Homer
+0:56 Alaska very cool nice to see you guys
+0:59 let me this over here um how's everybody
+1:02 doing uh welcome to the show today so
+1:04 we've got kind of a just a topic of you
+1:09 know it's one of those things we talk
+1:10 about what we going to talk about the
+1:11 show this week um and uh the idea came
+1:16 up that we want to discuss a little bit
+1:18 about the process that you go
+1:20 through to start and create a plan is
+1:23 kind of the the topic of the day so um
+1:27 we'll we'll talk a little bit about how
+1:28 we do that in Chief but we'll just talk
+1:30 about how you guys do that in general so
+1:33 I thought we talk what do you mean by
+1:34 start and create a plan well you know
+1:36 you get a call from a client that says I
+1:39 want to do a big addition or I want to
+1:41 do a new home or I want to do you know
+1:44 uh one of those condo Barn things you
+1:47 know that's pretty popular these days
+1:49 Barn Barn dominium yeah so you get all
+1:52 sorts of uh different you want to do a
+1:55 kitchen or a bath
+1:58 maybe uh so kind of the process that
+2:01 that people go through um you know we
+2:04 all have different ways of dealing with
+2:05 that and working with that so uh I
+2:08 thought that'd make a great topic I
+2:09 don't know what do you guys think yeah
+2:12 I'm good with that all right cool so uh
+2:16 I don't really have any commercials
+2:18 today other than uh be sure to check out
+2:21 the homepage or the page uh let's see
+2:25 actually let me go there and see if we
+2:28 got this posted oh we did um just wanted
+2:32 to mention real quickly so let's show
+2:35 share my
+2:37 screen so here we go that's a good one
+2:39 Mike says do as much online research
+2:41 before ever meeting the client yeah I do
+2:45 this we'll talk about just a second let
+2:47 me just talk about this real quick um if
+2:50 you go to Chief experts.com you'll see a
+2:52 little ad here for a class in Rockville
+2:55 Maryland that we'll be doing in the
+2:57 middle of May so if you live out east in
+3:00 the Washington DC area that's where
+3:03 we're going to be so the class is
+3:05 opening up um we're we're doing it in
+3:08 conjunction with professional remodeling
+3:11 organization so if you guys are familiar
+3:14 with that organization out in that uh
+3:16 this is the Metro uh the pro Metro DC
+3:21 organization and there's two other
+3:22 organizations out there too so they've
+3:24 invited us out we got they're the
+3:26 they're kind of the our collaborator on
+3:29 doing this together
+3:30 and we've also got some sponsors that
+3:32 we'll be working with that will kind of
+3:34 cool because the sponsors uh Ferguson
+3:37 Fisher PCO Maxim Newport breast
+3:39 signature hardware and Frankie are going
+3:41 to um do all the lunches and beverages
+3:44 things like that so pretty excited about
+3:46 that so that should be fun and uh so
+3:50 there you go so check it out uh they do
+3:52 have there's two different prices on
+3:54 here we've got the pricing for uh if
+3:58 you're a member of the group or if
+4:00 you're not a member of the group so and
+4:02 you're and you're doing beginner and
+4:04 you're also doing intermediate Advanced
+4:06 we're doing a two-day intermediate
+4:08 should say two-day intermediate it
+4:10 should say two-day beginner
+4:12 intermediate and it should say two-day
+4:14 intermediate Advanced okay this is so if
+4:18 we go up here more you can kind of read
+4:21 I'm sorry I'm scrolling so much here but
+4:23 you can read a little bit about it um so
+4:26 we've got the two-day beginner
+4:28 intermediate so if you're brand new to
+4:30 Chief and you're just getting started
+4:32 with it that's going to be the one the
+4:34 two days course you're going to want to
+4:35 take um if you've been using Chief a
+4:37 while and you've been producing plans
+4:39 and you want to take it to the next
+4:40 level you want to take the second two
+4:43 days um if you are kind of a if you're
+4:47 you're into the program you've been
+4:48 using it you never really had any formal
+4:49 training take all four days and you will
+4:52 really come out with a ton of
+4:53 information at the end of this uh so we
+4:56 really you know we just have a great
+4:57 time teaching this class so will take
+5:00 you through the whole process of
+5:01 creating a PL and Chief Architect
+5:03 amongst many other things so you're
+5:05 going to you will come away with a
+5:08 wealth of this these sessions so they're
+5:11 really a lot of fun John and I just love
+5:13 doing this format so so check it out uh
+5:17 give me a call if you have questions and
+5:19 uh look forward to talking to you so if
+5:21 you did do the non-member pricing for
+5:24 the uh for the class the uh the the
+5:28 organization uh the Metro Pro academ
+5:31 Metro Pro Association will credit you
+5:34 300 bucks back toward your membership so
+5:36 they're kind of doing a little bit of
+5:37 that as a membership drive just to be
+5:40 perfectly straight with you guys they
+5:42 want you to join their group and I would
+5:43 highly recommend it if you're if you
+5:45 have any of that interest so check it
+5:47 out it's worth it anyway nice so that's
+5:51 that a little bit about that the other
+5:53 thing I want to mention make sure you
+5:55 join our uh
+5:56 mailing oh darn it did she take it off
+6:02 oops she removed it darn it um if you're
+6:07 on the show page there might be a link
+6:09 to get into the uh sign up for a wait
+6:12 list for the uh new products that we're
+6:15 working on so please do that we'll keep
+6:17 you informed all right enough of that um
+6:21 so let's get
+6:22 into uh the topic of the day yeah always
+6:26 no I I'll bring this back up because
+6:27 Mike said this a couple different ways
+6:30 yes Google Earth County GS data any kind
+6:34 of public records on a property all that
+6:37 stuff um I turn into like a a little bit
+6:40 of a stalker in the beginning of a
+6:42 project I start just looking up
+6:44 everything yeah that's pretty good way
+6:45 to put it uh and you know I talked to a
+6:48 lot of
+6:49 contractors and it kind of let's just go
+6:52 full screen for a bit here and it kind
+6:54 of surprises me where did my control
+6:56 panel go
+6:59 have John here to help
+7:03 um move it oh here said you talk to a
+7:05 lot of contractors and um and it's
+7:07 surprises me the number of contractors
+7:09 that don't do this research UPF front so
+7:13 they'll get a call and they'll go see
+7:14 the client without looking it up on
+7:17 Google maps without looking it up on the
+7:19 tax website without doing any of that
+7:22 stuff and it's kind of surprising maybe
+7:24 that has a little bit to do with whether
+7:27 or not they've got a good feel on
+7:28 whether or not they're going to get the
+7:29 job or not um how seriously they're
+7:31 going to take that lead or something
+7:33 like that if it's a referral if it's a
+7:35 referral and who it's a referral from
+7:38 you know I usually check um here we have
+7:41 Portland Maps which is the information
+7:43 that tells us about you know who owns
+7:45 the house and taxes and when last time
+7:48 remodeling was done but and I do look up
+7:52 Zillow but I don't go in line on I'm not
+7:55 gonna I don't go to Facebook I don't go
+7:58 and check that out I mean
+8:00 I get a vibe from them on phone on the
+8:01 phone and then I go there well and being
+8:05 a being a woman going to projects there
+8:07 was only one time that I kind of felt
+8:10 like this is going to be could be
+8:11 potentially a bad thing but you know
+8:13 I've been doing it for 39 years so one
+8:15 time was not I mean it could have been
+8:17 bad but it wasn't it wasn't
+8:20 um yeah I have had haven't had an issue
+8:23 with it I don't do an awful lot of like
+8:25 stalking things like you do Renee but
+8:27 you know that's okay
+8:30 come on now stalking that's a little
+8:31 that's a little heavy duty no I mean I I
+8:34 get pretty I know who you are do you go
+8:38 into their Facebook and stuff I do I'll
+8:40 glance at like well LinkedIn typically
+8:42 I'll look at a LinkedIn just to see what
+8:44 their history is just to see if we've
+8:46 got some commonality um just you know in
+8:50 life and then also um I'm someone that I
+8:53 want to know how you're funding this
+8:55 project I think I've mentioned this when
+8:58 we do our group talks more often than
+9:00 not I'm convincing someone to do
+9:02 something that's you know an equity
+9:04 builder in their home rather than the
+9:06 project that they thought that they
+9:07 wanted to do um and and I also had such
+9:11 a fascination with the process of
+9:13 keeping my house I put so much time into
+9:15 learning that whole process that now I
+9:18 feel like hey I know how we can maybe
+9:20 get some funding out of this to get more
+9:22 out of your project and you know
+9:24 eventually give you something a house
+9:26 that's you know going to AC value and be
+9:29 worth so something um I just had someone
+9:32 I just declined a job because they're
+9:33 trying to put $3 million into a house
+9:36 that can't sustain a $3 million price
+9:38 tag not even close yeah wow yeah yeah um
+9:43 I've done that before I told the client
+9:44 you might want to move this is not the
+9:46 house to do this yeah yeah yeah and and
+9:49 it's amazing because they call up and
+9:50 they go we found a new house and now we
+9:52 want you to remodel that so you end up
+9:54 getting they appreciate it but is that
+9:58 absolutely relevant I mean what if they
+10:00 just have the money and they don't care
+10:01 they want to spend the money well I'll
+10:03 ask them that yeah yeah right and it's a
+10:06 question of do you like your commute do
+10:08 you like your um neighbors but I don't
+10:11 know if you guys read the new New York
+10:13 Times article about um interest rates
+10:16 right so interest rates just went up
+10:18 just over 7% yesterday and there are so
+10:21 many people who
+10:23 have yeah so I have my interest rates at
+10:27 3.25 right I mean on both of my
+10:29 properties we're not moving are you just
+10:32 catching up to us because ours have been
+10:34 high for a while we've been up in eight%
+10:36 for a while well this is the New York
+10:38 Times article right so yesterday the
+10:40 news just went out the news just came
+10:41 out yesterday saying that it's 8% it
+10:43 just moved to 7% again um just yesterday
+10:47 but the article that came out on Monday
+10:50 was saying that people aren't moving
+10:52 that they're willing to put money into
+10:54 their home because they can't afford to
+10:57 um they can't afford a new interest rate
+10:58 which is going to cost between $500 and
+11:00 $700 a month so the remodel so
+11:04 remodeling is huge right so that
+11:06 conversation of are you sure you want to
+11:08 put that money in might not be relevant
+11:11 today right it's not going to be
+11:13 relevant today because people are saying
+11:15 well I can't give up my mortgage right I
+11:17 can't give up my interest rate so I
+11:19 might as well renovate because there's
+11:22 value here right I mean I have value in
+11:23 my home and what what I like is better
+11:26 is that people are starting to stay
+11:28 where
+11:30 they want to live you know they're
+11:31 staying in their home which helps us as
+11:33 Renovators right that's always a big
+11:35 question do you plan on staying in this
+11:38 house oh absolutely well yeah they gonna
+11:40 spend a lot of money yeah if they say
+11:42 they're staying in here until you you
+11:43 know you take I love it when they say
+11:45 well how long you staying there and they
+11:46 go until you take me out in a box then
+11:48 it's like who the who the hell matters
+11:50 you know what does it matter do what you
+11:51 want I get it the opposite way all the
+11:53 time U it's a big move in in California
+11:56 to to get into get into the house that
+11:59 you can get into and then
+12:02 quickly sell it pull it into the next
+12:06 margin right like get get into the next
+12:09 bracket and so a lot of people are
+12:12 Remodeling and they just don't know how
+12:14 much to put in in order to get them into
+12:16 the next bracket to be able to sell and
+12:19 and then roll That Into You Know deposit
+12:21 on the next house so and this might not
+12:24 be where Dan was going with it but you
+12:25 know that's when having a good real
+12:27 estate agent
+12:29 that you can refer to and say come over
+12:31 and check out this house is there a
+12:33 value in Portland we're not doing that
+12:35 as much um people are staying put which
+12:38 is really nice so people are doing huge
+12:40 remodels like um who was just saying oh
+12:42 Chad said he just did a 1.2 million doll
+12:45 remodel on a $300,000 house a friend of
+12:48 mine just did that it was a$2 and a half
+12:50 million doll house on a neighborhood
+12:52 that I had no idea that people that
+12:55 people would even consider renovating
+12:58 and they did this huge remodel a$2
+13:01 million doll remodel on this house and
+13:02 they're staying there so I guess if I
+13:05 was the 300,000 house sitting next to
+13:07 1.2 eventually I'm gonna start you know
+13:09 doing some Landscaping I'm next door
+13:12 hopefully hopefully man this guy's
+13:14 embarrassing me you got to really love
+13:16 your
+13:17 neighborhood so well I mean yeah it's
+13:20 it's but prices of houses are moving up
+13:23 so high so I think what M puts us in a
+13:25 good situation as designers as as people
+13:28 who do renovations right like cassid
+13:31 saying this um that renovation is a big
+13:34 deal and that's what the arttic the New
+13:35 York Times article is saying is that
+13:37 renovation is the thing you know unless
+13:40 you're only doing high-end new
+13:42 construction which that's not you know
+13:45 at a certain price point the interest
+13:47 rate really doesn't affect when you're
+13:49 in $5 million I mean I know the interest
+13:51 rate's a big deal but I don't live in
+13:53 that price point so I don't even know
+13:55 how those people think um but they're
+13:57 using other you know at a certain point
+13:58 some of these people are using other
+13:59 people's money to build their house
+14:01 right so that's outside the average
+14:05 client right so I'm seeing I mean I just
+14:07 finished a $500,000 kitchen remodel
+14:10 which blows my mind and that's $500,000
+14:15 kitchen remodel some of my girlfriends
+14:17 are doing $1 million kitchen remodels
+14:20 yeah and they're not additions they're
+14:22 not additions they're million dooll
+14:24 kitchen remodels which I'm like oh my
+14:26 God who the heck does that spend that
+14:28 much time on a kitchen be great get into
+14:30 all the details you would oh you just
+14:32 have to
+14:34 love all right let's let's just talk
+14:36 about this topic a little bit so what I
+14:39 like to do and you guys watch the
+14:41 comments would you please
+14:43 um I'm not used to doing that these days
+14:46 uh because we I'd love you guys's
+14:48 feedback by the way and I'll go through
+14:50 this and uh we'll kind of document some
+14:53 of what you're talking about and we'll
+14:54 bring this topic up again so when I get
+14:57 a call I mean I do a lot of work for
+14:59 contractors okay so they say yeah we're
+15:01 going to go remodel this house here all
+15:03 right so I get first thing I always get
+15:05 is the address and of course the first
+15:07 thing I always do when I do that is
+15:10 bring up good old Google Maps Okay
+15:14 so that if you don't do anything else
+15:17 you should at least be doing this so you
+15:19 have a good idea of what the house is
+15:21 going to look like when you get there
+15:23 share your screen Dan I don't I can't
+15:25 seem to for let's see let there we go
+15:29 than okay so so I I just went to Google
+15:34 I know took my address and I typed it
+15:35 into a new plan this is actually one I'm
+15:37 going to go look at I'm going to measure
+15:39 on Monday it's just the it's the one
+15:41 contractor I do you know full plans for
+15:43 at least I help them with most of their
+15:44 plans they have designers too but um
+15:47 they always do a horrible job at as
+15:49 builts so I go out and measure for them
+15:51 um I don't do many of them but uh I do I
+15:54 still enjoy that it's kind of a little
+15:56 break so take the address put it in
+15:58 Chief
+15:59 go Google Maps here's what we're going
+16:02 to look for we're going to hit the
+16:02 satellite thing I don't know if all of
+16:04 you are aware of this but if you hold
+16:06 your control key or command key down you
+16:07 can rotate in 3D and kind of roll in and
+16:10 out on this just like you're looking at
+16:12 a 3D model and Chet so hold your control
+16:15 key down to get to this um I had a guy
+16:17 yesterday that didn't know you could do
+16:19 that so it's just a kind of a kind of a
+16:23 nice way to look at the property and um
+16:27 you can also right click on the screen
+16:29 and you can measure a distance so if you
+16:32 want to get an idea about how big that
+16:34 that building is you could do that now
+16:37 it's not doesn't work very well in a 3D
+16:40 view like this it works a lot better um
+16:43 when
+16:44 you're when you're um on the looking
+16:48 down straight down on it but you can
+16:50 measure distances this way so and then
+16:53 you're done you just hit clear clear the
+16:55 measurements and you can continue that
+16:58 you can uh so that's the first thing
+17:00 that I do it's like oh yeah okay I see
+17:02 what you're talking about yeah it looks
+17:03 like a it's a pretty new house so it's
+17:06 you know that it's going to be
+17:08 relatively it's going to be built to
+17:10 code you know kind of what to expect
+17:12 when you get there so that's that's a
+17:14 give that's a give me now the next thing
+17:16 I'll do is find out which uh
+17:20 municipality they're in so this one is
+17:25 a I don't remember what county they're
+17:28 in um I'll just go the one I always used
+17:30 to go into but I'll I'll find out what
+17:31 county they're in so I might go to henip
+17:34 and in this case I live in hopin County
+17:37 you know go every time I do this on a
+17:40 camera I end up blanking on what I want
+17:42 to look up so I just look up my own
+17:44 property so probably everybody knows
+17:45 where I live now well there you go and I
+17:47 do that too so I've done this before
+17:50 many times on my property so but see you
+17:53 you know go to hemp County do your
+17:54 property search property by address you
+17:57 know put in your house number number
+17:59 okay I'll sh your mind it's all public
+18:00 information anyway who cares almost
+18:03 every GIS I've gone to um ends up being
+18:07 really challenging to find the
+18:08 Assessor's map of record but it's always
+18:11 there it's getting better it's getting
+18:13 better um I found it's getting better so
+18:16 then what you're going to get here
+18:17 you're going to get um current your
+18:19 taxes so if the client's you know behind
+18:21 on their taxes you might go okay that's
+18:24 not good um so that's always something
+18:27 to keep in mind but when you're on this
+18:29 page uh you're going to be looking
+18:32 for
+18:34 uh where is the one here view map of
+18:36 property or view it'll say something
+18:40 about viewing something I've been able
+18:42 to get to just about everybody's survey
+18:44 doing this so you know you hit view map
+18:46 or property it's going to take you to
+18:48 some form of a GIS website um where
+18:51 they're going to have you could turn the
+18:53 layers on and off so if you want to just
+18:56 see all the different layers that you
+18:57 can get the one thing you you aren't
+19:00 going to get out of this is a real
+19:01 survey I still have a hard time finding
+19:04 those do you guys have any advice on
+19:06 that one getting a real survey yeah no I
+19:09 mean the assessor map is usually
+19:11 somewhere in here somewhere if you keep
+19:13 digging um almost all of them have that
+19:16 not not an actual I mean that's a survey
+19:20 it's just not a detailed survey it's not
+19:22 I can at least get I can at least get
+19:24 the lot
+19:25 Dimensions yeah you'll get something a
+19:27 lot better than this out of this C's map
+19:29 of of record if you can get to it
+19:31 exactly let me show you a couple other
+19:32 things so um this particular website has
+19:36 comparative imagery so you could you
+19:38 know so just be aware that yeah the
+19:40 building departments can go back and
+19:42 look and say oh that addition wasn't
+19:44 there five years ago how did that get
+19:46 there there's no record of it um so if
+19:49 you're not pulling additions they'll
+19:50 know uh so here's the you can kind of
+19:54 compare to what was there and what's now
+19:56 so not much difference um although the
+19:59 images are better now because they have
+20:01 better equipment to take the images so
+20:03 that's a that's a big deal that's my
+20:06 house look at that I have tennis courts
+20:08 right at the across the road she always
+20:11 gets surveys from the homeowners um why
+20:14 I would want to know why I almost never
+20:16 need a survey um I usually do my own
+20:19 fence line observation and I'm pretty
+20:22 pretty good at it so I feel like I know
+20:24 what I look up my U my zoning code my
+20:27 setbacks um the whole nine because the
+20:30 survey around here anyways is
+20:32 $4,000 yeah so if I could save that
+20:35 client $4,000 I you know that's worth a
+20:38 thousand to me yeah um it depends um the
+20:42 other thing you want to look for when
+20:44 you're on these sites is where' it go
+20:49 there's a thing
+20:51 called where they put it not imagery
+20:56 Mike says the tax assessor sometimes has
+20:58 a en plan sketch to prove square foot
+21:01 for taxes and then he takes that and
+21:03 draws a
+21:04 footprint um so what I here you know
+21:07 I've shown this before many times um but
+21:10 I'll show you again so I want to I want
+21:12 to bring this into Chief so I can draw
+21:15 over it all right so there you're going
+21:19 to just go back to your program you
+21:21 could use a photo capture program if you
+21:23 wanted to but you could do it right from
+21:24 Chief so I'm going to put that image in
+21:26 my plan here and I'm going to go um and
+21:31 I'm going to go to tools I always put an
+21:34 icon on my toolbar because I use this
+21:36 all the time I think it's really handy
+21:38 for creating materials and all that kind
+21:39 of stuff looks like that it's called
+21:41 screen capture screen capture setup so
+21:44 if you want to add that to your toolbars
+21:46 go add that so you're going to look
+21:47 under Tools look for screen capture and
+21:49 then hit the screen capture setup screen
+21:52 capture setup I set up keep stroke ca
+21:55 for capture and I can capture a picture
+21:58 backdrop material or an image so
+22:00 pictures I use most of the time but
+22:02 sometimes you want to create a material
+22:03 it's the easiest way to create a
+22:04 material you just go capture it off the
+22:06 screen so when I'm done I'm going to
+22:07 hide Chief while capturing so if I had
+22:11 that map of the property where did I put
+22:14 it um right there okay so now I'll go
+22:17 back into
+22:18 Chief um so I'm going to hide Chief
+22:21 while capturing and I hit the capture
+22:22 button not the done button which I half
+22:24 the time I hit the done button so I hit
+22:26 capture and I'm G to draw box on what I
+22:28 want now before you do that there's a
+22:30 little trick for you well actually I
+22:32 could give you yeah let me give you
+22:34 another trick that you want to do put
+22:35 the distance on the screen so that
+22:37 really helps sometimes especially if you
+22:39 don't have the uh right where' you go
+22:43 especially if you don't have
+22:46 the so you hit measure distance so if
+22:49 you don't have the numbers here you can
+22:51 do this straight off of Google Earth oh
+22:53 I'm not on Google Earth anymore I'm on
+22:56 this one so if I'm on this one and I
+22:58 want to I want to get a dimension so put
+23:01 the dimension on the screen so hit
+23:03 measure distance and put a Distance on
+23:05 the screen come on all right here we go
+23:08 so I'm G to try to get it as straight to
+23:10 the edge of the screen as possible so
+23:12 here I've got you know 200 300 feet so
+23:17 you want to get as longer Dimension as
+23:19 possible all right so now I'm going to
+23:22 capture that
+23:23 along I lost it I'm going to capture
+23:26 that along with the image I want want so
+23:30 uh let's go back to Chief I'll do my
+23:32 screen capture capture this I'm going to
+23:35 capture that image as well if you have a
+23:38 dimension on the picture already you
+23:39 don't need to do this so like on that
+23:42 survey I was on before so now I'm done
+23:44 so now all I have to do to scale out to
+23:46 full size is go from I go 200 feet I'm
+23:49 going to hit the screen capture icon
+23:51 down here this U one that click on the
+23:56 picture hit the screen capture I'm going
+23:58 to go zoom in on here get kind of in the
+24:00 center of that Circle get over here get
+24:03 in the center of that 200 foot Mark I'm
+24:05 going to call that 200 ft and I now have
+24:08 a fullsize drawing of that property so I
+24:12 use this all the time to get the roads
+24:13 and sidew walks and a you know quick
+24:15 outline of the house so before I go to
+24:17 measure that house I'll do that and I'll
+24:19 have a sketched out image of the house
+24:21 before I even get there so this is a
+24:24 handy way to do this just put on a layer
+24:25 that you can turn on that you can turn
+24:27 on and off and you've got it part of
+24:29 your plan so here I'm G show you this
+24:32 Dan
+24:34 um this is that property map hennipin
+24:37 County right and I clicked on a project
+24:41 I clicked on a parcel yep yep and then
+24:44 up here is property
+24:46 links oh shoot I did something where my
+24:49 mouse is going to disappear now I don't
+24:50 know how to do
+24:51 it dang it get back to Stage I'll fix
+24:55 it I can't even put you back on stage
+24:57 you got to put yourself okay you lost
+25:00 your mouse huh yeah that's Zoom it all
+25:03 right so that's that's a few of the
+25:05 things I do right out of the shoot um I
+25:07 I might do a screen capture of the tax
+25:09 form I might um you know I'm GNA like
+25:14 look up on LinkedIn the person's name I
+25:16 mean you want to you know it doesn't
+25:20 hurt to know a little bit about the
+25:21 client that you're about to work for uh
+25:24 you know if you if you do a Google
+25:26 search on the client and you come up
+25:29 with that they've got you know 10
+25:31 lawsuits pending um you know you might
+25:34 want to
+25:35 re huh run run fast yeah exactly get
+25:39 away get away that idea so uh so that
+25:43 that's always kind of a neat thing the
+25:45 just I mean it's all there why not use
+25:47 it I'm sure that's what when people call
+25:49 us to to research if they're going to
+25:51 work on if we're gonna work on their
+25:53 plans or not what do you suppose they're
+25:54 doing well at least they what you would
+25:56 think they should be doing on their end
+25:58 is uh is doing that as well so Rene did
+26:02 you get your thing fixed no oh okay uh
+26:06 so that's a couple of things I do now in
+26:09 Chief which you can also do when you're
+26:11 doing uh what I was talking about where
+26:14 did that go okay down here so you can
+26:18 also uh with the the new text Rich Text
+26:22 here you can add URLs okay so you can
+26:27 use this Buton right here to add a URL
+26:29 to a link so you might put in here um
+26:33 you know Google
+26:35 Map
+26:36 [Music]
+26:38 oops Google Map and you might put in the
+26:42 the
+26:43 texts
+26:45 info so just put links to all of the
+26:48 things you've looked up you know and
+26:52 then you've got it right here in the
+26:53 plan that you're working on and good
+26:56 it's just a great way to get started on
+26:58 something you know you spend 10 15
+27:00 minutes doing this you'll know you'll be
+27:03 more educated working with helping the
+27:05 client I just think it's a great way to
+27:08 go um so that's kind of the pre
+27:11 pre-planning stuff so if any of you have
+27:12 any other uh things that you do love to
+27:15 hear about it
+27:18 um oh see comes down asking the right
+27:21 questions
+27:22 gity the Doug
+27:25 y oh we're back up here in the top
+27:29 Ethan Windows
+27:31 pushes image you need paste in the chief
+27:34 as an image okay I got it okay he's got
+27:36 it he's back all right so there's a tab
+27:39 up here once you click on your parcel
+27:42 yeah and if you click on property links
+27:45 there they are that's what I was looking
+27:46 for and then section sheet so yeah just
+27:49 brought up survey there you
+27:51 go where was that some websites have
+27:54 that well this was his GIS it's always
+27:57 different where you find it so depends
+27:59 on the municipality exactly I found some
+28:02 are excellent sites have tons of
+28:04 information of some that don't have
+28:06 squat they don't have the yeah yeah go
+28:09 back into that for a second and there's
+28:11 another thing that I'd like you to click
+28:12 on um and if you what's I can't read
+28:18 those off hand here I don't have it big
+28:20 enough on my screen um what are some of
+28:23 the options there the thing I like
+28:25 sometimes you'll get the uh go up on the
+28:27 screen
+28:29 uh you got Street imagery you've got
+28:30 oblique imagery that's really helpful
+28:33 too because what you get there are 3D
+28:36 views of the house at different angles
+28:38 and usually the quality is pretty darn
+28:40 good so if you that is good yeah cool
+28:43 zoom in on those you're going to get
+28:44 better imagery of the actual building
+28:47 that you're trying to do so oblique
+28:50 imagery look for that they'll give you
+28:53 again clear pictures I don't some of
+28:56 these allow you to measure on them some
+28:57 of them don't
+28:59 so um anybody out there using hover and
+29:03 uh what are some of the other ones that
+29:05 do upside dimensions of your house I've
+29:07 used to hover before um Ethan also the
+29:10 print screen button does the same thing
+29:11 as Windows shift s sometimes yeah
+29:14 reliably but the cool thing about doing
+29:17 it with
+29:18 Chief puts it right in your plan for you
+29:22 you're done that's true yeah so you know
+29:24 when you hit
+29:26 capture uh like I'll do a lot of times
+29:29 with my Google Earth is I'll go capture
+29:32 I want to get a image I want to get that
+29:33 view there it is right in my plan so a
+29:37 little tip for you when you do that when
+29:39 you're capturing lots of images zoom in
+29:42 really tight to a spot then when you hit
+29:44 the capture button let's go back to that
+29:47 map for a second and I'll you know I'll
+29:49 start by adjusting the angle that I want
+29:52 okay or the street view or whatever it
+29:53 is view that you want here if I want to
+29:55 go get a street view of this um this a
+29:58 nice way to do it usually cheap Google
+30:00 street views are pretty good so I'm
+30:02 going to capture that and bring it into
+30:03 my plan so now I'm just going to go
+30:05 straight to Chief hit uh I'm going to
+30:07 capture a picture hit capture get that
+30:12 done it's in Chief now I go do it again
+30:14 capture and I'll just get that okay so
+30:18 now I've just done two of them and when
+30:20 I zoom out they're there in the right
+30:22 place I can you know move them apart now
+30:24 so I do this a lot and they're saved in
+30:27 my plan already so I don't have to worry
+30:28 about losing them because you just
+30:30 brought them right into Chief done so
+30:33 it's just a really nice way to bring
+30:34 those images
+30:35 in uh I again I use that all the time a
+30:39 little tip for you if you do get a bunch
+30:41 of pictures and you need to resize them
+30:44 just group select them and look for this
+30:47 circle this little circle when you group
+30:49 select something um that's your resize
+30:53 button now so you can now make those
+30:54 bigger those bigger and smaller as a
+30:57 group you do that with anything you
+30:59 could do that with text you can make it
+31:01 bigger and smaller that little circles
+31:02 are resize button and chief that you can
+31:04 grab I use that all the time now it's
+31:07 just really really a handy little thing
+31:10 so I want to resize everything um that I
+31:13 can I can't resize cameras so you should
+31:15 turn those off but now I should be able
+31:17 to resize all of this stuff all at once
+31:20 so it allows you to do everything on
+31:23 your screen if you want to you don't
+31:25 have to group it together or anything to
+31:27 resize it
+31:28 Mike says save in plan is critical um
+31:32 there's a couple reasons that I don't
+31:34 save in
+31:36 plan what are those um we came up with
+31:40 these the other day so when you save it
+31:43 in plan it compresses it into the plan
+31:45 file itself right it's gonna increase
+31:47 your file blo from that at times um the
+31:52 nice thing is that when you're sharing
+31:53 it across to another person they get
+31:56 that view but they don't get the rest of
+31:58 the PDF so if they needed to browse
+32:00 through the rest of the PDF you might
+32:02 they don't no because when you bring a
+32:05 page from a PDF it does insert the whole
+32:07 PDF but when you when someone else when
+32:09 you save in plan it only saves that page
+32:12 I don't believe they get to scroll
+32:14 through it no so they have to have the
+32:17 original PDF it's just going to compress
+32:19 that single page I believe you have to
+32:22 double check that I might be wrong no
+32:24 I've been able to insert PDFs and then
+32:27 they went over this advanced level two
+32:28 course because thurm was explaining all
+32:30 the little nuances of of what happens in
+32:33 The Click saving plan I don't remember
+32:34 that one so go ahead and keep talking
+32:36 I'll I'll demonstrate that real quick
+32:39 um what else were you say give a shot
+32:42 and see see if that's something file
+32:44 bloat part of this is is part of it for
+32:47 sure
+32:49 right file bloat and the only other
+32:52 thing is sometimes I'm saving a um
+32:55 sometimes I'm bringing in a PDF that I
+32:57 do plan on updating under the same file
+32:59 name and so save and plan's not going to
+33:02 update when I update that
+33:07 PDF all right where' they go I had a
+33:09 nice PDF I was just going to drag in
+33:11 here where' it go well let's see Mike
+33:14 also says 2024 file size and Dropbox
+33:16 make large files no problem yeah sure um
+33:20 but I've been surveyed by Chief
+33:22 Architect and I am the user with the
+33:24 most data needs out of all of you guys
+33:26 that have been Serv and I will tell you
+33:28 file size does become a problem at some
+33:32 point so here here's a PDF that's got
+33:35 six pages in it so you could grab you
+33:38 know a couple of them or one of them um
+33:42 so let me do that again so I'm going to
+33:44 zoom into a spot and I'm going show you
+33:45 what happens here so am gonna I'm going
+33:47 to say bring in all the pages all right
+33:50 and then I'll do it again with just a
+33:51 couple so when I do that um it did it
+33:56 zoomed me out and tried to fit tried to
+33:58 make the pages bigger um so again you
+34:02 may have to go back in and then reselect
+34:04 those to resize them in fact I pretty
+34:08 much have to do this every time and but
+34:10 that's the beauty of that little circle
+34:11 there just grab it and resize them the
+34:13 page you want and then turn the labels
+34:15 off and you have a nice clean
+34:17 screen um to press your
+34:20 labels uh Mike had a question about that
+34:22 should be the default to save in
+34:24 plan they have a default for that you
+34:28 can't set that as a default at least
+34:29 I've never been able to figure out how
+34:31 you know I wish all these dialogue boxes
+34:34 had some default you can set up you know
+34:36 click make this my default my template
+34:39 but not there so I can group select them
+34:41 and then do that so if I if I let me
+34:44 delete that and then just bring in a
+34:47 PDF which is I just bring in the first
+34:51 page so at any time you should be able
+34:53 to take that PDF and switch which page
+34:56 is showing there by opening the
+34:58 dialogue um and see where it says page
+35:04 one of six I could just change that
+35:07 number to show a different page so I
+35:10 could go two of six I can't scroll
+35:13 through it at least I've never known a
+35:15 way to do that but I can change which
+35:17 page shows up here so when I save this
+35:20 plan I miss I've always assumed it saves
+35:23 the whole PDF will you highlight that
+35:25 number again go back in there that
+35:28 number this one yeah will you scroll
+35:30 your wheel um over the top of that
+35:32 number does it change page when you do
+35:34 that not doing anything okay
+35:37 gotcha here's a trick I learned um
+35:39 teaching the other week um go back to
+35:42 that dialog or I I'll do it because I'm
+35:44 GNA show something else yeah go ahead um
+35:46 John said I use those pictures I bring
+35:48 in to get and match colors and that's
+35:51 powerful and so I'll show a little trick
+35:53 here um I have power toys installed if
+35:56 you've got a PC see um power toys is
+35:59 developed by some of the Microsoft
+36:01 developers and so power toys if you've
+36:04 ever seen on my screen when I've got a
+36:06 modal window like this and I drag it
+36:08 around notice there's some weird
+36:10 highlight colors see that number two
+36:11 number five if I drag it into that five
+36:14 it's going to Dock and resize to
+36:17 that okay which is kind of cool so
+36:19 that's part of power toys another part
+36:21 of power toys is if I hit window shift C
+36:24 on my computer it's actually telling me
+36:26 color code and I can even format this so
+36:29 that it tells me um RGB codes as well so
+36:33 if I then click on this it even gives me
+36:36 similar or like colors and I can click
+36:38 on any one of these and get a different
+36:40 color code and punch them in achieve so
+36:43 kind of cool um for you John if you're
+36:45 trying to match colors that's power toys
+36:48 and this particular one is um some kind
+36:50 of color
+36:51 sampler
+36:53 wow
+36:55 cool all sorts of goodies out there
+36:58 all right I just kind of reading
+36:59 comments here if you need to resize a
+37:01 PDF or mention Chief don't hit save and
+37:03 plan after you resize save and plan it's
+37:06 super slow to resize once the button is
+37:12 clicked I'm not sure I've experienced
+37:14 that but maybe I did and I just haven't
+37:17 noticed so pay attention we'll pay
+37:18 attention to that one um all right
+37:22 cool uh let's see we've got the uh yeah
+37:26 this is my
+37:29 I want I want I have a we have a town
+37:31 here called St Louis Park that um
+37:35 they've always been known for their
+37:38 difficult
+37:39 inspectors
+37:43 uh we put the typical inch and a half
+37:46 inch joist hanger nails into those
+37:49 boards no the manufacturer says you have
+37:53 to have two and a half inch nails in
+37:56 there specters making them replace all
+37:58 the nails oh my um uh anyway and there's
+38:04 another half dozen things like that that
+38:06 this guy picked on anyway so it was a
+38:09 very frustrating to say the least I like
+38:11 to use colored boxes now I understand in
+38:14 a future version we may get um we may
+38:18 get tools that will allow us
+38:22 to uh to use our space planning tools
+38:26 kind of like this where we can
+38:28 I don't know where you heard that where
+38:29 did you hear it in idah just a rumor I
+38:32 heard going out somewhere I can't say
+38:34 anything I can't either um uh they
+38:38 mentioned it uh back in August they
+38:41 mentioned something about this at their
+38:43 conference last August so so but I I use
+38:46 you know I have a bunch of uh I have a
+38:48 library item where I've created a bunch
+38:50 of boxes with room names programmed into
+38:52 them you know I just put a Mac I just
+38:55 went into the label and put in family
+38:57 and then the total square foot you know
+38:59 hash the macro area and then when I
+39:02 resize these boxes you know it changes
+39:05 the scale of it a little bit so you know
+39:06 sometimes do that again a little bit
+39:08 slower not everybody knows that what's
+39:10 that go over what you just said right
+39:12 there again putting that area macro in
+39:15 there the area macro so yeah so you take
+39:18 a cad box you know just a typical you
+39:21 know this one right here and you open it
+39:25 and you put in the word that you want to
+39:28 be in there and then you go to macro and
+39:30 you go to object specific and then I
+39:32 used area as the macro so that's what a
+39:35 macro looks like um and then so it's
+39:39 going to give you the square footage of
+39:40 that box you could probably what other
+39:41 macros are there I you have looked I
+39:43 haven't looked uh perimeter has holes
+39:47 number lines perimeter visible length so
+39:50 okay so you got a few other macros you
+39:51 can play with if you want but anyway
+39:53 that works pretty well so when I you
+39:55 know this is actually a remodel but they
+39:57 had some restrictions on they didn't
+40:00 want to change the existing footprint of
+40:03 the house um oops I got switch back to
+40:07 my toolbar here so they didn't want to
+40:10 switch the uh where' it go this
+40:14 one so we're kind of locked in on this
+40:18 footprint right here that's the
+40:21 foundation footprint in the first four
+40:23 walls so they wanted to totally pretty
+40:25 much got everything actually going to
+40:27 take it down to this foundation and just
+40:29 keep the foundation but they want to
+40:30 stay within the same footprint to save a
+40:32 bunch of money so we had to fit all the
+40:34 stuff within there so just helping me
+40:36 visualize it a little bit with these
+40:38 colored boxes really helped um we got a
+40:41 you know somewhat of a decent plan this
+40:42 is just version one of of ideas you know
+40:46 I kind of got so what I did was I sat
+40:48 with them and I took my colored boxes
+40:51 from my I save them as a library item
+40:55 and again now that we'll have something
+40:57 coming up that works really well uh we
+40:59 won't have to do this
+41:02 anymore uh here this room layout boxes
+41:04 so I just grouped a bunch of boxes
+41:06 together and then what all I do is I
+41:08 ungroup
+41:10 these
+41:12 and ungroup them and then now of course
+41:16 the layer is turned off so I need to
+41:18 turn the layer on for those which is I
+41:22 think it's under
+41:25 room oops
+41:31 um question
+41:34 catch says how did you cover the Breen
+41:37 Ridge Pantry in the
+41:39 kitchen yeah not finding that not sure
+41:42 about that one yeah I don't know that
+41:44 one either anyway there's my boxes so
+41:46 what I'll do is I'll just sit with the
+41:47 I'll sit with the homeowner and say well
+41:49 you guys thinking I'm having a porch and
+41:51 then I'll just kind of move this one
+41:52 over to where we're going to do that and
+41:54 we'll talk a little bit about what
+41:55 they're thinking about what their
+41:56 porches two season three season how high
+41:58 are the ceilings what kind of windows
+42:00 and doors so you know it just kind of
+42:02 becomes a a little bit of a Tickler list
+42:04 for me as well so the garage I might
+42:07 pull that over and say well yeah the
+42:08 garage is going to be you know typically
+42:11 on it's going to be on this end of the
+42:12 house and the porch you know we want to
+42:14 have that facing the lake so of course
+42:16 it's going to be over here facing the
+42:18 lake so this kind of like using the
+42:20 bubbles on DAW basically made your own
+42:22 space planning
+42:23 boxes yeah and the reason I did that was
+42:26 so I could have more names available
+42:29 than what Chief does and I could reshape
+42:31 these so I can you know hit my three key
+42:33 and reshape them and just move them
+42:36 around wherever I want I could you know
+42:38 make them whatever size I want or you
+42:40 could use your union subtraction
+42:42 intersection tools exactly exactly so um
+42:48 what he's referring to there is you know
+42:51 I might have you know boxes overlapping
+42:53 each other that okay that's the shape
+42:55 that we want just I could make an
+42:58 outline of that now by using the union
+43:01 um Union tool that just makes an outline
+43:03 of the whole thing now now I can kind of
+43:05 tell well I've got that many square feet
+43:07 so it just kind of grouped everything
+43:09 together made an outline of it yeah so
+43:12 that's the union tool and we could do
+43:14 the same with subtraction so anybody
+43:17 that doesn't know this here's Mike
+43:18 saying do those by condition uncondition
+43:20 and Export to a table for Sheet one
+43:23 that's in my Pro Plan that's exactly how
+43:25 I do my conditioned and unconditioned
+43:28 and floor area ratio and lot coverage
+43:31 and
+43:32 everything and it's not exported to a
+43:34 table it's actually in a produced
+43:38 schedule so this project you know I got
+43:41 a really nice Google Earth view just
+43:44 like I showed you I brought it in um I
+43:46 had a dimension that I could make it
+43:48 full size I uh got the actual survey got
+43:53 they went out and surveyed it so this is
+43:55 probably one of the best surveys I've
+43:56 ever gotten from someone cuz they had
+43:58 them numbered nicely and all the lines
+44:01 CLA came in clean like this they didn't
+44:04 come in as individual lines about two
+44:07 inches apart yeah so I was able to
+44:09 convert this really quickly so I I got a
+44:11 trick for that by the way do you what do
+44:13 you do when they come in super tight
+44:15 like that you convert it to a spline and
+44:17 then reconvert it back to a polyline
+44:20 does it work to do that yeah so if I
+44:23 it'll convert a whole bunch of lines at
+44:25 once to a spline um I believe so let's
+44:28 try that here two I I just clicked on
+44:30 one here and where's my convert to
+44:34 spline tool you already did it here it
+44:37 is Advanced spines no you already did it
+44:40 oh there already is bline um it can't no
+44:44 it didn't these are coming in as
+44:45 individual lines aren't they yeah but
+44:47 you already there's your convert
+44:49 displine in the edit toolbar there this
+44:51 one yep yeah okay
+44:55 so so that did do oh that did do the
+44:58 whole darn line you know I just thought
+44:59 it only did part of it but not you think
+45:01 about it yeah I would have to do the
+45:03 whole thing and then try converting it
+45:04 back to a polyline so that would be it's
+45:07 still gonna put in you know a decent
+45:09 it's that flat line with the arrow flat
+45:12 um diagonal line with the arrow it's
+45:13 about fourth from the end there this one
+45:15 oh yeah yeah I don't think I've ever
+45:17 used that so it's still gonna put in
+45:19 brakes but it's but maybe not as many as
+45:23 yeah you know the original why don't you
+45:24 just leave it as a spline uh you can um
+45:27 it just you can't quite let's see
+45:29 there's some things you can't um cut a
+45:31 spline
+45:32 with okay the other thing that was nice
+45:35 about this one is that the surveyor
+45:39 didn't put a space where the number is I
+45:41 hate that every one I always get they
+45:44 always put you know the the line ends
+45:46 and starts in the numbers right there so
+45:49 you have to hook this up to that it's
+45:52 like come on guys so this was really
+45:54 nice um but you know just takes extra
+45:57 work to do that and then you just click
+45:58 on each one of those and I just put in
+46:00 the same exact number that he put in so
+46:03 you know
+46:04 913 feet that puts in an elevation let's
+46:08 go back to decimal feet here so there's
+46:11 my 914 that's my 914 so if you're not
+46:15 familiar you can click the number style
+46:17 button down here at the bottom and you
+46:19 can change this to decimal feet so that
+46:21 you can see exactly what the numbers
+46:24 should look like that you're putting in
+46:26 there and and then all I had to do was
+46:29 adjust the terrain itself so when I
+46:32 bring this
+46:35 up and there's the terrain came out
+46:38 really nice and um then I just have to
+46:42 get this number correct in the right
+46:45 place um to move the train up and down
+46:48 so if I make that 800 you know the train
+46:51 is all correct those numbers are set by
+46:54 sea level and I just moved it up 100
+46:58 by changing that one number so you don't
+46:59 move the house you're not you're not
+47:01 changing the house at all you're just
+47:03 changing the number where the terrain is
+47:06 in relationship to the house so it works
+47:09 great this one's got it's a nice house
+47:11 people bought in town here that um
+47:13 you're going to do a complete tear down
+47:15 pretty much except for the foundation
+47:17 and they fa and leg so they're just
+47:18 trying to save a few bucks um I don't
+47:20 know it's gonna be worth it for him but
+47:22 we'll see um here let me show you
+47:24 something real quick yeah um I'm drawing
+47:27 a line in here this is in my like plot
+47:30 plan save plan view I'm going to do I'm
+47:33 going to carry on with what you
+47:35 basically just did there real quick in
+47:37 line style and I can't zoom in right now
+47:40 unfortunately it's making me lose my
+47:42 mouse cursor in line style panel of the
+47:44 line we get to show length and show
+47:46 angle right right and then if we had it
+47:49 set up our number style set up so that
+47:51 it was well in this case um I'm going to
+47:54 do quadrant bearing right and decimal
+47:57 like
+47:58 yeah now my line style for this view
+48:00 already has that set up in CAD default
+48:03 so if you didn't know that we can get
+48:04 into default settings into the cad
+48:07 General Cad and this is where you can
+48:10 set this up for Quadrant isn't that the
+48:12 most confusing place where to change
+48:14 that number funny funny thing to know
+48:17 you know but it's important to know
+48:18 right so here's where find that you can
+48:21 only have one number for all the cad
+48:24 things in your whole plan right no it's
+48:28 specific to this view it is
+48:31 right you're right yeah and so now I
+48:36 have this I'm going to put in a North
+48:38 pointer according to whatever my data
+48:41 shows right and so this is going to
+48:43 change a few things just in terms of
+48:45 bearing um for some reason this isn't
+48:47 let me get into General cat
+48:51 again got to refresh the
+48:53 screen blah fine yeah that's funny that
+48:57 that's not showing more um foot inch
+48:59 markers
+49:01 Etc it's the true 45 East oh that's
+49:04 because I'm just there we go there we go
+49:08 so now if you're following some kind of
+49:09 GIS map you can actually just use your
+49:13 continuation handle drawing this out and
+49:16 hit your tab or Enter key and it's going
+49:19 to bring it up and it's going to look
+49:21 like this so I get to type in whatever I
+49:23 want here and you know we've we've got
+49:27 our degree marker minutes seconds right
+49:30 well all you need to do is put in spaces
+49:33 okay so if I knew that this was going to
+49:35 be
+49:36 65.4 feet okay and then I knew that this
+49:40 was going to be north um 65 all I have
+49:44 to do is North 65 space let's say 45
+49:48 space 30 East and that's going to draw
+49:51 that out according to my bearing there
+49:55 nice so I can work down through my lot
+49:58 just like this you know same thing
+50:02 55.9 feet and then it's going to be
+50:04 let's call it North 36 space 45 West do
+50:09 you get many of those where you have to
+50:11 do it like that I don't I do yeah I do
+50:14 it a lot yeah yeah I don't get many of
+50:16 those um once I don't great while I get
+50:18 one where I need to put in that
+50:20 information but usually not usually I
+50:21 get the survey and it's all there
+50:23 already so yeah um this is you know if
+50:26 you have a surveyor send you D DWG if
+50:29 you have surveyor send you the DWG
+50:31 import to Chief create a Trin perimeter
+50:34 I'm curious has anybody had a uh gotten
+50:37 a Terrain in that um with the the the
+50:42 data in it that it makes it all right
+50:45 Contours automatically I've done it it's
+50:47 usually bringing in too much data that's
+50:50 that's the problem for me that's okay
+50:52 yeah yeah I haven't had much luck with
+50:54 that so I'd rather trace it
+50:58 just yeah I found that you know it takes
+51:00 a little bit but um and I've talked in
+51:03 the past about when you import a
+51:05 DWG um from a surveyor from anywhere
+51:09 don't bring it into the plan you're
+51:10 working on bring it into a separate plan
+51:14 sort out the the layers you need do the
+51:17 work you need to do don't crash your
+51:19 plan yeah and then bring it into the
+51:21 plan you're working on so clean it up
+51:24 yeah
+51:25 exactly um so Robin what do you do when
+51:29 a client calls and says hey I got this
+51:31 big kitchen I want to
+51:33 do well I'm definitely a little bit more
+51:37 spoiled now because I only work for
+51:39 referrals um I don't take any new
+51:41 clients so if I don't know them and I
+51:43 don't know who referred me then it's I
+51:45 pass it off to a friend um but I
+51:49 typically check out Zillow and I go to
+51:51 Portland Maps which is will give us the
+51:54 assessor information and who owns the
+51:56 house that kind of information yeah but
+51:58 I don't do a lot I don't go and do much
+52:00 more research prior to it other than
+52:02 that but we do have conversation
+52:05 beforehand right and get an idea of how
+52:07 much they want to invest and if they've
+52:08 remodeled before and um then I just go
+52:11 out to the house but I don't um take
+52:14 dimensions on my first meeting at all
+52:16 until I have a signed contract I don't
+52:18 take any Dimensions I don't you know I
+52:21 I've learned that it's um and I also
+52:24 charge for my first meeting so I don't
+52:26 know if everybody is doing that but I do
+52:28 charge a substantial amount of money
+52:30 when I walk into a client's home even if
+52:32 it's a referral I guess the only client
+52:35 I don't person I don't do that for is a
+52:36 previous client but then as soon as I'm
+52:38 walking in their door I'm billing them
+52:40 right because I know we're going to do
+52:42 the job yeah so um that first meeting
+52:46 I'm usually there for a few hours about
+52:49 two hours talking to them and getting a
+52:51 better feel for them and then I schedule
+52:54 then once we sign a contract then I will
+52:56 go back in do the site measure and all
+52:59 site documentation exteriors interiors
+53:01 and all of that so that's what I do um I
+53:05 am interested though it's usually just
+53:07 me going and measuring you guys do your
+53:11 um Dimensions directly into Chief right
+53:14 you site when you're doing your measures
+53:16 you're measuring on I think Dan does too
+53:19 yeah I do yeah are you bringing somebody
+53:22 with you and Dan you do it all by
+53:24 yourself Renee you bring somebody with
+53:26 you right I bring someone with me and it
+53:28 and I got a line item on my contract
+53:30 this is an um aspiring student
+53:32 architecture he's he's trying to learn
+53:35 um and I even have a line atem that
+53:37 basically says um it alludes to the fact
+53:40 that it's difficult to schedule someone
+53:42 for just a twoh hour gig so they're
+53:44 going to get paid a minimum amount of
+53:46 money and that goes 100% of that um goes
+53:49 towards
+53:50 them of that line item I don't mark up
+53:53 that work at all but I pay a um a very
+53:55 decent amount
+53:57 um for a couple hours worth of work it's
+54:00 hard and do you nice way to do it when
+54:02 you're measuring it though do you
+54:03 actually make a physical copy like a
+54:05 written copy are you writing are you
+54:07 drawing it out first I'm putting it
+54:09 right into the program well I do because
+54:12 I measure alone I take my clipboard I'll
+54:16 set up my my laptop on a stand that I
+54:19 have it's called
+54:21 the laptop tripod.com is where I get my
+54:25 stand from I get the best one they have
+54:27 set up my laptop take it into the room
+54:30 and then I'll take my clipboard and I'll
+54:32 write down I'll measure the things in
+54:34 that room and I'll go back to my
+54:36 computer and draw it so then I'll go to
+54:39 the next room and I'll sketch that out
+54:40 and I'll write down some dimensions and
+54:42 I'll draw it so you know it keeps me
+54:45 from having to go all over the place all
+54:48 the time measuring everything I just
+54:50 measure all that quickly once it's
+54:52 scribbly notes you wouldn't be able to
+54:54 read it when I get back to the office
+54:55 however have been times and I go hm I
+54:58 needed to verify that and I could go
+54:59 back and look at my notes and I go oh
+55:01 yeah that was the number I wrote down so
+55:03 so it does give me a little bit of a of
+55:06 a written document to take back to my
+55:08 office and and because I measure La it
+55:09 works great it is faster if you have
+55:12 someone there especially if they kind of
+55:14 know what you're doing what you're
+55:15 looking for you can zip through it
+55:17 pretty quick so if I can get help I will
+55:19 but generally I just do it alone so I
+55:21 can measure he pretty quick do you
+55:23 photograph the project Renee are you
+55:25 phot thing I do first thing I do is take
+55:27 pictures when I'm with someone when
+55:30 we're done measuring um they are I'm
+55:34 talking to the client to close out the
+55:36 meeting and my person is going around
+55:39 taking photos yeah you guys do videos I
+55:42 know a designer who videotapes every
+55:44 room yeah that's a good way to do it too
+55:46 but I like to do my photos when I get
+55:48 there that gives me a sense of what it
+55:51 is I'm about to draw and then I've also
+55:53 fared it up things I need to pay
+55:54 attention to well there's a post there
+55:56 this wall is a little weird I better
+55:57 check that out I mean things like that
+55:59 and then I will also measure the
+56:01 structural part of it I'll get all my
+56:02 Heights after I'm done with my pictures
+56:05 so I kind of I've really given the job a
+56:08 good overview you know good walkthrough
+56:10 and that usually takes you know even on
+56:11 a whole house you know 15 minutes 20
+56:13 minutes to do all of that the problem
+56:16 with the pictures at the end and I used
+56:20 to do this is that oh I'm late for
+56:22 my next appointment darn it with my
+56:24 swearing um darn it for my next
+56:27 appointment
+56:28 um I need to get going so I'm going to
+56:30 take a quick few pictures and then I get
+56:32 back to my office and like oh I needed
+56:34 that picture and I needed that picture
+56:36 and yeah it happen right take a exct
+56:39 Chad does his 360 photos you know these
+56:42 four in each room and Chad what are you
+56:44 using again the program is
+56:49 uh yeah it's a nice system I don't
+56:52 remember it but mport only
+56:55 different the only other thing I do is I
+56:58 do a I definitely make sure to do a
+57:00 canvas scan um up in the roof and up and
+57:04 underneath the house because that
+57:06 generally gets me really quickly framing
+57:08 sizes yeah and
+57:10 Pitch explain that I guide he's using I
+57:14 guide
+57:16 matterport hopefully we're all familiar
+57:18 with canvas at some point it's company I
+57:20 bash all the time but at the same time I
+57:22 still use their stuff because it's
+57:24 helpful at times and so if I've got an
+57:26 attic access and and I don't I don't
+57:30 necessarily need to have perfect idea of
+57:34 what's going on up there but I want to
+57:35 know what's going on up there or
+57:37 sometimes I will 100% rely on this I'll
+57:40 stick my phone up there and canvas scan
+57:41 in the attic space and I'll stick my
+57:44 phone underneath the crawl space and
+57:46 just scan it with canvas scan and then
+57:49 bring that in and and measure it and I
+57:51 mean if you don't like to crawl in the
+57:54 at you know framing remember I know
+57:56 that's a 2 by8 yeah oh I see I see what
+57:59 you're doing okay I get it I can usually
+58:01 get the pitch um from that as
+58:04 well yes okay there's a ton of way to
+58:07 get pitch got it that makes less sense
+58:10 okay that makes L sense all right looks
+58:12 like we're about done guys uh as usual
+58:14 it goes by pretty quickly when we talk
+58:16 about these sorts of things I hope some
+58:17 of those tips were helpful you guys um
+58:20 let me answer one one question here M
+58:22 absolutely um there is no way to set a
+58:26 default roof label that I know of oh you
+58:29 you had a note up I'm sorry
+58:32 yeah um so the only way you can do some
+58:35 kind of roof label automatically is by
+58:38 putting your roof planes automatically
+58:40 into a roof schedule um but that's not
+58:43 necessarily setting up a default label
+58:45 so I don't know of any way doing that
+58:48 can you scrope just a little bit more
+58:50 there was somebody who said and I think
+58:52 it was Mike who said that he puts his
+58:54 plans he has four plans essentially
+58:56 scroll up a little bit higher I can't
+58:58 see which one's not
+59:01 seeing what are we showing a screen here
+59:05 no no no um somebody said that they oh
+59:08 the comments put their plans in a few
+59:12 different are new
+59:15 plan um site plan demo plan um that's it
+59:20 end up making my demo plan part of my as
+59:23 built plan I don't know why the two need
+59:25 to to change and I we could do a whole
+59:28 thing on how I set up my demo plans um
+59:32 because I have real quick and easy
+59:33 methods for that that I'll use style
+59:36 painters and layer
+59:38 painters style p and layer
+59:41 painters this works really well too and
+59:44 then my site plan is part of my new plan
+59:47 um I don't need a separate one for that
+59:49 either because sometimes I'm driving
+59:51 data from um I need data from the from
+59:54 the new plan to bring into to the site
+59:56 plan I do like the idea though you were
+59:59 saying one of you were saying that your
+1:00:00 site plan you did you messed with it
+1:00:03 offsite not on your plan so you did it
+1:00:06 and then you brought it into your yeah
+1:00:07 and then bring it in Yeah clean it up
+1:00:09 then bring it
+1:00:10 in whoever Facebook is um I just do
+1:00:13 kitchens and bath I charge $500 for two
+1:00:16 hours and I want you to know that I'm
+1:00:18 not making my hourly rate with that
+1:00:20 because from the time I meet with them
+1:00:23 on phone and I get their contract to
+1:00:26 them that's four hours so I'm definitely
+1:00:29 not making my hourly rate with it but it
+1:00:31 is a commitment on the clients part so
+1:00:34 that way we at least know I'm not
+1:00:36 wasting my time so that's what I charge
+1:00:38 for my initial design
+1:00:40 fee and it's two hours
+1:00:43 right yeah and I'm my initial site visit
+1:00:46 I'm almost always trying to convince him
+1:00:48 to hire me to do a scan of her
+1:00:52 house and I'm you know when I go measure
+1:00:56 of them already the guys already know
+1:00:57 I'm hired so it's just part of my hourly
+1:01:00 rate of you know 150 155 so because
+1:01:03 they'll be buying a package of time for
+1:01:05 me got it works
+1:01:08 fine it's all individual whoever the
+1:01:10 Facebook users is asking I don't I can't
+1:01:13 see what you're saying but um depending
+1:01:14 upon what type of work you do would
+1:01:16 depend upon um what your fees is going
+1:01:18 to
+1:01:19 be yeah cool R king Allen says billion
+1:01:25 dollars Mike Mike driving a lot of the
+1:01:27 content in this one thank you Mike for y
+1:01:30 yeah thank you Mike think we need to get
+1:01:32 Mike on as a guest one of these shows
+1:01:34 he's yeah absolutely well he does
+1:01:36 accurate takeoffs and and actually um
+1:01:40 does cut lists that he actually cuts
+1:01:43 from no kidding yes he actually cuts
+1:01:47 from his cut list and he says he got no
+1:01:49 waste and he's got you know everything
+1:01:52 joineries all buttoned up so fascin
+1:01:56 Spokan Micha you up spoken what do I
+1:02:00 remember think he is but whatever anyway
+1:02:03 run over so we got have a great day all
+1:02:06 right you guys take care see next time
+1:02:09 bye

@@ -1,0 +1,1611 @@
+Title: Chief Architect Plan Review - Designers Show #120
+URL: https://www.youtube.com/watch?v=K-k-2RhIVsM
+Visibility: public
+
+0:00 these open as
+0:02 well John if you want to have a plan
+0:04 open as well you can all open a plan if
+0:07 you I don't see any access to these
+0:08 plans where where is the plans I sent
+0:10 you a Dropbox oh by the way we're live
+0:12 hi everyone D Chief experts welcome to
+0:15 the show we're just trying to figure out
+0:17 where all these plans are that we it's
+0:18 almost like Laurel and Hardy you
+0:21 guys get some slapstick invol here will
+0:24 be in good shape so anyway welcome to
+0:26 the show we're going to talk about
+0:28 question below in Alaska 30 below oh my
+0:33 oh my goodness oh my
+0:36 goodness what is that cold or something
+0:39 just a tiny bit yeah as you are in where
+0:41 are you in Costa Rica right now no in
+0:44 California oh okay yeah okay s
+0:46 Sure but Renee does like the snow
+0:49 because he's an naid ski snowboarder um
+0:53 so but you probably don't like it that
+0:54 cold really no no yeah that's hands
+0:57 don't function yes anyway uh well
+0:59 welcome to the show you guys we're going
+1:01 to just uh review a few some things and
+1:03 plans and and the goal of reviewing
+1:05 plans is to help solve problems that
+1:08 people are having it's not to say hey
+1:10 you should design it like this or you
+1:12 should use this color we're not here for
+1:14 that that's a whole different topic so
+1:17 we're just here to offer some ideas on
+1:19 Chief Architect and um how you can do
+1:21 things a little bit better so we'll do
+1:23 the best we can we got a bunch to go
+1:25 through and and of course something like
+1:26 this we could spend uh hours and hours
+1:29 preparing for but all of us are super
+1:30 busy and none of us have prepared hours
+1:32 and hours on this but we have looked at
+1:34 the plans and we'll do our best so we
+1:36 got a few of the guests with us today
+1:37 that will uh bring them on to talk about
+1:40 their plans so you guys how's everything
+1:42 going you guys keeping out of trouble
+1:44 and keeping busy things great it's not
+1:47 freezing weather in Portland anymore so
+1:49 it's great that's good it's almost 60 oh
+1:51 no we go from you know freezing
+1:54 temperatures to 60 Dees in a week so
+1:57 crazy5 in Minnesota on January January
+2:00 30 January 29th 55 that's un you're out
+2:05 on your bike have you been out ring I
+2:07 should have been but I'm too damn busy
+2:08 to do that so I hate that so I got gotta
+2:13 make I just have to make the time um
+2:15 anyway welcome to the show and we're uh
+2:17 real quick uh you guys are hi Bruce we
+2:20 haven't seen Bruce for a while hey
+2:23 Bruce Let's uh just chat for a little
+2:25 bit about the summit coming up there's
+2:29 still room there if uh people are
+2:30 interested uh next week we're going to
+2:32 get on we're going to do a live show to
+2:34 talk about the summit so uh I'll send
+2:37 out a note to everybody uh when that's
+2:39 going to happen because I know people
+2:41 might have questions or they just might
+2:42 be curious about what we do at this sort
+2:44 of an event anyway uh because it's it's
+2:48 it's a big event it's a big commitment
+2:49 in time and money and uh the ROI that
+2:53 we're looking to help you receive in an
+2:55 event like this is it's a it's a lot of
+2:57 fun it's a lot of work too so we we all
+3:00 put quite a bit of effort into this into
+3:02 making sure it's a great experience for
+3:04 everybody uh so look for that email
+3:06 we'll get that out to you um you can
+3:09 always go to the website Chief
+3:10 experts.com
+3:11 and right on the homepage here hit learn
+3:14 more and you can uh check that out
+3:16 actually I think there's only five spots
+3:17 left now so um it's coming up fast I'm
+3:24 afraid I don't know if I'm afraid of
+3:26 that it's just coming up fast I'm
+3:28 excited
+3:30 be busy I'm excited it'll be
+3:33 fun I'm hoping the weather will be good
+3:36 uh Kevin it'll be a pleasure to have
+3:37 your wife there uh Judy's going to be
+3:39 there and I know she's got a ton of
+3:42 knowledge in the construction industry
+3:44 she was the uh treasur for National ner
+3:49 and she was a president of your local
+3:51 ner for a year there wasn't she yep and
+3:54 chairman uh as well and
+3:58 chairperson what the difference what's
+4:01 the chair chair a chairman has a
+4:04 different body part than a chairperson
+4:06 does so there you go it's a nice way to
+4:08 put it yeah yeah yeah all
+4:10 right gotta be politically correct you
+4:13 guys oh yeah y not today we're not
+4:16 talking politics today so we're talking
+4:18 Chief Architect plans all right we'll be
+4:20 a Chief Architect correct today how
+4:22 about that um actually this is my plan
+4:24 let's bring Marne on Marty I'm going to
+4:27 add you to our stage and let's go open
+4:30 up your plan Marne welcome to the show
+4:33 and you had you had sent three plans
+4:36 that you had a few questions on so Marne
+4:39 let me ask you first of all uh where
+4:42 you're from and currently reside in
+4:45 Middleton Idaho I hail from
+4:48 California but you're in Idaho Idaho
+4:52 Okay cool so you're used to you and
+4:56 Renee would have a lot in common as far
+4:58 as how plans get done in in California
+5:02 because I saw one of your plans had a
+5:04 California address on it yep all right
+5:07 cool I do work in both
+5:09 states do you okay yeah let's see and
+5:13 right now of course I can't find the
+5:15 folder I'm looking
+5:16 for as much as we try to be prepared for
+5:19 these things okay bear with me one
+5:21 second it's in the
+5:24 Dropbox come on Drop Box oh I was in the
+5:29 wrong subfolder that would do
+5:32 it um here it is okay Marne which plan
+5:37 you had a question about a plan that uh
+5:39 you wanted to do some blank PL pages in
+5:41 your layout which plan was that um that
+5:44 was the three North Midland in Idaho
+5:48 let's go open that plan
+5:51 up let's talk a little little bit about
+5:53 that people might not be aware that you
+5:57 can uh have different
+6:00 templates within the same template in
+6:03 other words different borders and things
+6:05 like that um that look different if you
+6:08 want to I don't know many people that do
+6:10 that but just for uh a reason that you
+6:14 you might want to do that what page were
+6:16 you on here that you wanted to do that
+6:18 Marty um well there's there's one of
+6:22 them but so what I what I did there is I
+6:24 just inserted the PDF from the client
+6:27 but obviously the file gets to
+6:30 bulky okay so if you go back toward to
+6:34 the end what I decided to I think it was
+6:37 uh it was the end of the the
+6:40 set I ended up just doing blank pages
+6:43 and then just insert them what after I
+6:45 create a
+6:47 PDF I inserted the Revis sheet I found
+6:50 that when you get to that many
+6:53 consultants on a commercial job it's
+6:55 hard to manage everything in Chief
+6:59 because because you forget to insert the
+7:01 most recent PDF from the
+7:04 consultant so sometimes it's easier just
+7:07 to create your PDF and then substitute
+7:10 PDFs to create the final submitt yeah um
+7:16 so you said it gets a little bulky what
+7:18 do you mean by that the file size of the
+7:20 file yeah um I'm looking at your PDFs
+7:23 they don't look too bad um if you want
+7:25 to make it a a little bit more robust um
+7:28 use a weite called uh
+7:31 PDF the letter
+7:34 to
+7:37 jpgn and either. net.com you have to
+7:40 check them both you can upload your PDF
+7:42 and it'll send you back up graphic an
+7:44 image a JPEG of your of your PDF it'll
+7:47 it'll be a lot smaller and it won't bog
+7:50 your plan on could you repeat that
+7:52 please now that I have a pencil um yeah
+7:54 it's uh let me just go to it real quick
+7:57 here uh let me find it
+7:59 where you go
+8:01 browser it's a
+8:05 PDF to jpg do I want to say n but I'll
+8:10 bet it's Comm nope that's it convert PDF
+8:13 to jpegs so you just upload it and it'll
+8:16 download it um usually the 150 DPI is
+8:19 okay but if you need if it's a little
+8:20 blurry just hit the 3pi 300 DPI it'll be
+8:24 be a bit bigger uh photo um so when you
+8:27 have a big you have a big PDF you want
+8:30 to bring in this is a good way to just
+8:31 scale it down Chief's gotten better with
+8:33 it uh yeah and the main reason PDF's bog
+8:37 your plan down is because a PDF is
+8:40 actually a digital file that remembers
+8:42 the math involved in your plan so when
+8:44 you're sending that to a when you send
+8:46 your print when someone prints that page
+8:50 the signal that gets sent to the printer
+8:52 is all math so every time you open that
+8:55 PDF on your in your Chief Architect
+8:59 program it's opening up all the math
+9:01 involved in that page so it can be a lot
+9:04 of math and that's what that's what
+9:06 tends to barg it down but if you're just
+9:08 opening pixels which is what a picture
+9:11 is not such a big deal so that's a
+9:14 little FYI for you um but this looks
+9:17 great I mean it's good so Renee you want
+9:19 to
+9:20 cover the the template thing or you want
+9:24 I'll just I what are we talking about
+9:27 okay you do the next one you go to that
+9:29 sheet you go to that sheet and you find
+9:31 you go uh open Williams plan we've still
+9:34 got we still got a few minutes here and
+9:37 I wanted to offer also that uh you also
+9:40 can bring the PDF image into an image
+9:42 editor which would allow you to convert
+9:45 it or export it back out as JPEG or PNG
+9:47 or some file like that that you can uh
+9:50 do some magic with where you can change
+9:52 you can mess with your settings to maybe
+9:54 turn that that black line into magenta
+9:57 or something so that you can use that as
+9:59 an overlay or something like that for
+10:00 your
+10:02 plans if oh can I just clarify it's
+10:06 really Mar your question is really just
+10:08 about this one PDF issue or is it about
+10:10 setting up your layout so that um when
+10:14 you're doing your drawings that the
+10:16 drawings automatically load Renee has
+10:18 his web his layout set like that no this
+10:21 is not that I didn't know that was an
+10:23 option yeah oh yeah that's a whole
+10:25 another that's a whole another
+10:27 show yes okay I just wanted
+10:29 clarification I wasn't sure where you
+10:31 were going with that so all right so
+10:33 real quick let me let me run to this
+10:34 quick menu uh if you're using Adobe
+10:37 Acrobat if you are subscribed to them or
+10:40 have one a product similar I I pay 20
+10:42 bucks a month because I use Adobe
+10:44 Acrobat all the time um anytime you open
+10:47 a PDF you could do a save as and you can
+10:51 tell it to reduce the file size that
+10:54 will also help in sending it to people
+10:57 as well as on your layout you lose
+11:00 almost no quality whatsoever it's
+11:02 amazing I don't know why it just doesn't
+11:03 do that to start with um but yeah I
+11:07 could take a you know 20 meg uh PDF and
+11:11 it'll scale it down to about three three
+11:12 Meg so now but it can also convert
+11:14 automatically for you it can convert to
+11:16 your jpeg for you it can um right away
+11:19 it's like if you get the pro which I
+11:21 highly recommend spending the money on
+11:22 it I use it all the time it can convert
+11:24 your um a PDF to a word doc I mean it it
+11:28 can do so much it'll change your life
+11:30 you like it is definitely something
+11:32 should be an asset in your company it's
+11:34 pretty cool you can also export images
+11:36 from this but it does tend to create a
+11:38 little bit larger image files um
+11:40 something to note is the size of your
+11:42 photos that you're including in your
+11:44 documents and um your PDFs that you
+11:47 might be pasting inside of your document
+11:49 that's going to increase the file size
+11:51 as well everything you add is increasing
+11:54 your file size so so you can um limit
+11:58 the size of a PD PDF if you're putting a
+12:00 PDF within your plan documents you
+12:02 should probably truncate that down first
+12:05 and also keep in mind that if you're
+12:08 installing if you're importing a PDF
+12:11 that's multiple Pages you're importing
+12:14 the whole document not just a page
+12:17 because you could see here I could
+12:18 switch to a different page right here
+12:21 just by opening that
+12:22 PDF okay so keep that in mind too so um
+12:26 sometimes you get a PDF with lots of
+12:27 pages so you need to extract a page and
+12:29 just put that in right and you can do
+12:32 all that in um PDF Pro in Adobe Pro yes
+12:37 yeah it's really quite a program it is
+12:40 really a program that you should that I
+12:42 don't know how most businesses survive
+12:43 without it I know I I hate paying 20
+12:46 bucks a month but at the same time every
+12:47 time I use Adobe I go thank God I have
+12:49 this thank you for having it and it's
+12:51 gotten better it's so much better it is
+12:54 highly recommend it you guys so back to
+12:57 the original question how do you add
+12:59 different uh borders within the same
+13:01 file because if we look at this it
+13:03 doesn't have any thing on it but this
+13:05 one they all like that let's see how we
+13:08 doing this Mar if we go to page zero
+13:10 here's the border that you're using on
+13:12 most your pages right if you wanted to
+13:15 have a separate border you would go to
+13:19 the
+13:20 uh uh layout page specifications and
+13:23 you'll see a place where it says use
+13:25 this as a page template all right every
+13:28 it'll on this menu appears on all the
+13:30 pages so if we go to a blank page like
+13:33 we have here okay there's nothing on it
+13:36 um you go use this as a template okay
+13:41 now that becomes part of your layout
+13:43 templates so you could choose which uh
+13:47 template page you want to put something
+13:50 on all right and then you can name those
+13:53 pages something that's relevant to that
+13:55 page so that when you're selecting
+13:56 another page you can refer to that or
+13:59 the original U zero template right
+14:02 exactly Dan what dialogue box did you
+14:04 open for that okay that is if we go into
+14:06 the if we go into the uh let's go to the
+14:10 layout pages over here and when we click
+14:13 on any page we can we can click on it
+14:19 and hit edit page information got it and
+14:21 it's right here then you can choose
+14:23 which template you want to use for this
+14:27 page
+14:29 and then that'll change and now you've
+14:31 got a different template for that page
+14:32 it'll stay it'll still stay okay on your
+14:35 numbering and
+14:36 everything yeah pretty sure I haven't
+14:39 used that for a long time to check it
+14:40 but I'm pretty sure everything will stay
+14:41 fine and it'll end up on your index
+14:44 exactly the way you want it so if you
+14:46 want to have a different you know Border
+14:49 in this case Marty just put it over the
+14:52 whole page fine covers up everything and
+14:55 that work yeah we're at 10 minutes okay
+14:59 one last thing if you want to cheat if
+15:02 you want to do a workaround put a cad
+15:03 box in make a white solid fill and
+15:06 that'll cover up your master template
+15:08 stuff anyway and then you just put stuff
+15:10 on top of
+15:11 that also have if you're gonna do that
+15:14 you have
+15:15 to go ahead John if you're gonna do it
+15:17 that way you have to do the Drawing
+15:18 Group thing too or the drawing layer is
+15:21 that what it's
+15:24 called yeah you want to put it to the
+15:26 back put that CAD box to the back
+15:28 everything and then lock that layer so
+15:31 that nothing happens okay got it uh Mar
+15:35 that was a good one we'll come back if
+15:36 we have time to your uh how do you do a
+15:38 remodeling
+15:39 plan versus new that's always a fun
+15:42 topic yeah all right let's uh thank you
+15:47 thanks just hang in there we'll get back
+15:49 to you on the other one uh Renee what
+15:52 have you got Kevin you need to give him
+15:54 a two-minute warning all right we'll do
+15:58 than thank
+15:59 you I did pretty good there I thought
+16:01 you did really well Dan you did really
+16:04 well thank you Rene you got anything
+16:06 open uh no not yet um I think you've got
+16:09 Williams next or no or you want me to I
+16:12 can skip ahead to
+16:14 Allen's let's you go focus on Allen and
+16:18 then I'll let's talk to William right
+16:19 now William welcome to the show I see
+16:21 you're off camera are there there you
+16:23 are welcome hey how you doing good glad
+16:27 you could make it um so tell me a little
+16:29 bit about your plan and what you have
+16:30 going on with it okay so I had two uh
+16:33 two pieces of property one next to each
+16:35 other and I developed a plan for the the
+16:38 first property then the idea was to flip
+16:40 the second one and do some modifications
+16:43 to it to make it look more like a unique
+16:46 uh structure uh you separate from the
+16:48 other and so I'm in the process of uh
+16:51 doing that but um I this was drafted by
+16:56 a service and now I'm going into in
+16:58 making those changes and I can't seem to
+17:01 make them as simply as I want uh I'm I'm
+17:05 trying to get rid of all the um clar
+17:08 story windows that I have throughout the
+17:10 house and making them Long Tall Windows
+17:13 uh and
+17:14 casements uh and I'm finding a lot of
+17:17 mul Windows where I actually the only
+17:20 way I know to get rid of it is to to uh
+17:24 to delete it and get back to a wall and
+17:26 put back in a new window in the shape
+17:29 that I in in the size that I want okay
+17:32 um and working with the schedule uh as
+17:35 well is there I'm looking for a faster
+17:38 way to do it because there's an awful
+17:39 lot of Windows and I need to move this
+17:42 thing forward um I'm also want to change
+17:45 my porch over the front door to make it
+17:47 an arched and I just don't have any idea
+17:50 how to do that oh do you want to do a
+17:52 curved roof here Dan you're showing uh
+17:55 you're showing there you
+17:57 go oh thank
+17:59 you were you good okay we're good so so
+18:04 is that what you're talking about the
+18:05 curve porch right I
+18:08 want I will I'll change those windows
+18:10 above when it's all but it's just
+18:13 something I'm trying to get take so when
+18:16 you're working on double hung windows in
+18:18 Chief you you do have to put them in one
+18:20 at a time Chief doesn't have a way to
+18:22 put in a double Hong and say hey make it
+18:23 a three wide so you do have to mul them
+18:26 together so this button down here allows
+18:28 you to take that mle apart that explodes
+18:31 the the block the mle and then their
+18:33 individual windows again okay
+18:37 so okay there you go so that icon will
+18:40 do that now um what you can
+18:44 do we can't like uh this is casements
+18:49 here see now that that you could do with
+18:53 one window up to three wide in Chief so
+18:57 that you could do if it's you know if
+18:59 you get the look you want just you could
+19:02 go up to three wide Chief doesn't give
+19:04 us any more than that uh for some reason
+19:07 I don't know why but it's not going to
+19:09 give you the same kind of mold between
+19:12 the windows so depends on the
+19:16 manufacturer and how you want it to look
+19:18 right because we can't we can't adjust
+19:20 the M between the windows doing this
+19:22 it's just going to be what it is um I
+19:26 had a question the other day about
+19:28 uh I saw on Facebook about setting Ms by
+19:32 the way I'll show this real quick if you
+19:34 want to have wide Ms between your
+19:37 windows if you double click on the
+19:39 window
+19:40 icon there's a setting right here for
+19:43 minimum
+19:44 separation right there so if you want 5
+19:47 inch mes between all your windows just
+19:50 set that at five and then when you put
+19:52 Windows next to each other they'll bump
+19:56 together at five inches apart you get
+19:58 the wider allall automatically you don't
+20:00 have to go measure anything no King yeah
+20:03 so that's what that setting is about um
+20:06 if you go down to one you go to one I
+20:09 don't know if you can go to zero I don't
+20:10 know that you'd want to go to zero can
+20:13 you show where that was can you show
+20:14 that dialogue box yeah that's you got to
+20:16 go to the windows default you go you
+20:18 know through the wrench icon or through
+20:20 just by double clicking on the window
+20:21 icon and then it's right here at the
+20:24 bottom it's under options minimum separ
+20:27 under options yeah so that's a little
+20:29 handy thing there um which is kind of
+20:30 nice then you can also set the default
+20:33 on louers if you're doing louers on a
+20:35 window um so yeah so bringing you know
+20:39 exploding them all should take care of
+20:40 that uh was that the main thing that
+20:43 you're having trouble with on this plan
+20:45 well that and if you can swing around to
+20:46 the side I think you'll see some clar
+20:49 stories over uh swing to side oh the
+20:52 ones over here right and so these were
+20:56 not I not even sure how they actually
+20:59 got in place but um I'm removing them on
+21:03 this house and apparently I have to do
+21:05 each one of them
+21:07 independently well yeah um again a real
+21:10 simple way to do you're adding them or
+21:12 you just want to remove them I want to
+21:14 would take them I'm G raise the height
+21:16 of the windows make them taller Windows
+21:18 should make a single window the bottom
+21:21 window you're just gonna make the bottom
+21:22 window bigger right oh okay yeah just
+21:24 delete them and then as long as they're
+21:29 okay is it best to do it on an elevation
+21:31 as opposed to the plan because that's
+21:32 where I've been doing everything working
+21:35 the plan for that kind of a deal you
+21:37 want to do it here in a 3D view or an
+21:39 elevation it's going to be a lot
+21:41 easier if there is a way to do it from
+21:44 the floor plan but it's it is a lot
+21:45 harder than you're never quite sure what
+21:47 you got yeah get caught up between doors
+21:50 or Windows or you know hitting the wrong
+21:52 one yeah and and and there's a way to to
+21:55 work with that if you
+22:00 let me show you real quick if you uh
+22:03 double click on the window icon again
+22:04 you see you have a thing here called um
+22:07 where they put that under options you
+22:09 have vertical stacking you have level
+22:11 zero one two three four how I I forget
+22:14 how many it goes let's set it to level
+22:15 one you can notice that the windows gray
+22:18 out all right but now if I go put
+22:21 another window above
+22:23 that and again I don't know many people
+22:26 that do this because it's so easy to
+22:28 work in 3D but just in FYI you can so if
+22:32 I take a window and I put it there and I
+22:34 open its dialogue and I tell that that
+22:37 window I want to be on level
+22:39 one okay so now when I go back to my
+22:42 floor plan I'm showing level one Windows
+22:45 now I'm clicking on level one Windows
+22:48 see how the level one Windows shows up
+22:49 better now so the one below it is the
+22:51 window zero is on level zero that's
+22:53 level zero exactly okay so level one
+22:56 would be the windows above it
+22:58 does that is that an option in
+23:01 cabinets uh no oh my God they need that
+23:04 option in Cabinetry for when you do
+23:06 stack cabinets wouldn't that be nice oh
+23:08 my God yeah Renee we how do I add that
+23:11 to Che to as a oh my God you could put
+23:15 them on three separate layers if you had
+23:17 three stack cabinets and do it that way
+23:20 but what a pain that is so what is that
+23:23 what is that called that was that was in
+23:25 the window um it's called
+23:28 vertical stacking it was under options
+23:31 okay windows so I don't know looking
+23:34 cabinets maybe there's something there
+23:35 I've never noticed there is in vertical
+23:37 okay um and then for your curved
+23:40 roof yes John you want to direct me on
+23:44 this one you're a cur roof expert all
+23:47 right so he wants a you want a like a
+23:50 barrel roof in there right exactly is it
+23:53 going to flare back out when it comes
+23:54 back around or is it just going to be a
+23:57 reg just a Barrel it's going to be
+23:58 Barrel
+24:00 be whose phone is
+24:04 ringing Willi you can mute
+24:06 yourself if it but you're good though
+24:09 okay go ahead so draw that one more time
+24:12 so we can see which way he wants to do
+24:13 it just a regular Barrel you got this
+24:16 this Barrel or you got the barrel that
+24:18 flares down at the bottom two minutes
+24:21 I'm looking for looking more like for an
+24:23 arch and just an arch just an arch not
+24:27 that
+24:28 go ahead and put a regular Gable in
+24:30 there with uh you know with the valleys
+24:32 and stuff so go ahead and break
+24:34 that so we're going to break this
+24:37 into a v by doing three breaks with the
+24:40 number three key and you got to get your
+24:43 other two planes in there let me bring
+24:44 up a 3D so I can tile my display so
+24:47 people can see this okay there we go so
+24:51 I just grabbed the tab and pull it down
+24:53 there's what we've got so far let's turn
+24:55 the framing
+24:56 off um I'm just going to hit the show
+24:59 the hide layer icon that I put on my
+25:01 toolbar all right so here we are and
+25:04 let's do one more thing let's switch to
+25:06 the roof in now we got a much simpler
+25:09 feel to work with all right so you want
+25:12 a Gable yeah going up so we draw a
+25:15 baseline going up to the
+25:17 ridge right there's our Gable you want
+25:20 to stretch it all the way across no just
+25:23 that would be one way to do it if it's
+25:25 just a barrel but let's do it this way
+25:27 no let's just do the barrel right John
+25:28 now John we don't have time to do more I
+25:30 know this isn't going to take any longer
+25:31 just uh reflect
+25:33 that
+25:37 okay and join your valleys
+25:41 together should have joined the valleys
+25:43 first John yep join The Valleys first oh
+25:46 yeah you should have done that before
+25:47 reflected it
+25:51 Dan okay but we're good now we got it
+25:54 you can select both of them at the same
+25:55 time yeah and opening up the
+25:59 dialogue I'm just hitting my e key to
+26:02 open the dialogue yep and go to roof we
+26:05 we want to get to a curved Ro right
+26:06 there is that are we on the right page
+26:09 for curved Ro yeah click that Che that
+26:11 box angle at the ridge is going to be
+26:14 zero angle at the ridge is going to be
+26:17 zero and say
+26:19 okay and why do where does this number
+26:22 come from it's just what ends up at the
+26:24 other end so just say okay and see what
+26:26 it looks like
+26:30 there you go that was hard hate when
+26:32 it's I hate when it's so easy like
+26:35 that back around the other way is a
+26:37 little more complicated so right you got
+26:39 to do a little bit more um a little
+26:42 FYI if you uh a little work around if
+26:48 again um what John did was you know you
+26:52 put you build it like a regular roof and
+26:54 then put in make it curved and then make
+26:56 that zero because you don't want the
+26:58 ridge to be curved we're just making
+27:00 that so that's kind of what the pitch
+27:02 the angle of the pitch or something or
+27:03 what what's causing that angle that's
+27:06 what yeah that' be the angle of the the
+27:08 pitch angle at the Eve when it directly
+27:11 leaves the Eve that's the angle you
+27:13 could increase that by changing the
+27:15 pitch of the roof that you have in there
+27:17 or you know yeah increase or decrease it
+27:19 by the pitch of the roof you start with
+27:20 Y and then what I'm doing here is I'm
+27:22 just joining The Valleys again so again
+27:24 you don't see me hit the icon because
+27:26 I'm hitting the two key
+27:28 you'll have better you'll have better
+27:29 success if you join those valleys
+27:31 together before you make the curve make
+27:34 before you make I did though that sounds
+27:37 like the voice of
+27:38 experience you're still a problem you're
+27:41 still having a problem the end of that
+27:44 that Dormer is going past the roof so
+27:46 it's causing some issues there so what
+27:48 do you do to fix that we didn't take
+27:50 that in account yeah we should have
+27:52 adjusted that before okay another way to
+27:55 do this real quick uh let's go do a
+27:57 dormer let's go do a uh roof
+28:01 Dormer um do a uh floing Dormer don't
+28:05 use Auto use floating Dormer and put a
+28:07 dormer on your in your plan course it
+28:10 would help if I clicked on the right
+28:12 screen all right so you just put a
+28:14 floating Dormer up here and stretch it
+28:16 out about the size you want I made it
+28:19 too big so exploded so because I went
+28:22 past the ridge let's do that again all
+28:26 right so there's my Dormer let's let's
+28:28 open it the dialogue make it a little
+28:30 smaller so let's just uh go to the walls
+28:33 and the ceiling height let's make the
+28:36 ceiling height height to reach height
+28:40 let's make that like 30 that'll lower it
+28:42 down a bunch okay now open the dialogue
+28:46 for that and choose what kind of roof
+28:49 you want above that in this case it
+28:51 would be a uh Barrel a barrel and click
+28:55 okay there's your Barrel that you need
+28:58 so if you would have done that down here
+29:01 um then you could stretch it out to be
+29:02 the size that you
+29:04 want and then just explode that when
+29:07 you're done with the explode Dormer icon
+29:10 down here and that'll leave you with the
+29:13 barrel roof that you could then use in
+29:15 your plan so you could delete the actual
+29:18 so you could go ahead and delete that
+29:20 and then there you go so and so Chief
+29:23 has done that for you um it may or may
+29:25 not have done the
+29:29 I don't know if it did that right or not
+29:31 you would change connected the sides oh
+29:34 it did join it together right that Arc
+29:36 would deted that Arc would be determined
+29:39 by the pitch of your roof right okay um
+29:43 another little tip for you about these
+29:45 curved things see how this tends to
+29:47 happen I still haven't fixed that um
+29:51 what you could
+29:52 try is to open the dialogue for that
+29:56 roof plane in under um options make it a
+30:00 square cut Eve instead of a plum cut Eve
+30:04 and that may help fix it or not not
+30:08 today no that only works on Thursdays um
+30:13 I don't know why it's still doing that
+30:14 it shouldn't maybe we need to go yeah
+30:18 can you go back up to that dormar and
+30:20 how would you connect the roofs on the
+30:22 side so you said you'd have to change
+30:23 the pitch of that the door I would I
+30:26 would have adjusted that dor or more
+30:28 till I got it just where I wanted it and
+30:30 then would you have to join the sides or
+30:32 would they just automatically join on
+30:34 their own did it when you're working
+30:36 with those Dormers Chief does it all on
+30:38 its own does a good job so how would you
+30:40 have done this if this was your project
+30:42 would you have done that that entrance
+30:44 as a dormer and then deleted that off
+30:46 and fixed everything then or this way I
+30:49 would have done more like John did um
+30:51 the way I used to do it before John
+30:53 showed me a better way to do it um was
+30:56 to go into an
+31:01 elevation and then I would draw you're
+31:05 plus three minutes at this point what
+31:07 where's my two-minute warning
+31:09 dude it I heard it I heard it did he oh
+31:13 I missed it I'm sorry um what I used to
+31:15 do was go draw a a circle at the arc I
+31:19 want then I would take that radius and
+31:23 that's what I would put in that's what I
+31:25 would put in the roof curve that seems
+31:27 like a lot of work it seems the way that
+31:29 John showed how to do it seems easier
+31:31 and but You' still have to fuss pulling
+31:33 the back of that Dormer in a little bit
+31:35 more and you'd still have to fuss a
+31:37 little bit with it so you don't have a
+31:38 hole in your siding yeah okay but that's
+31:40 the general concept of doing curb roofs
+31:43 yeah we just did the we just did the
+31:45 Bare Bones how to do this but all the
+31:47 tweaking and stuff would take another
+31:48 hour to go through all that stuff yeah
+31:51 no but you opened up a lot of
+31:53 opportunities for me good absolutely
+31:55 that's good anything else done this
+31:58 William that can answer I've expanded my
+32:01 time I understand cool thank you for
+32:03 asking the question this good
+32:05 question the B spots on and everything
+32:08 nice job I'm gonna start playing music
+32:10 and get the
+32:11 cane all right
+32:14 next are you up Renee uh yeah I just
+32:18 opened this one so you only have five
+32:21 minutes Renee
+32:23 okay can't talk for five minutes he
+32:26 can't say time down to five minutes this
+32:29 one says help with a wall so and I'm not
+32:32 sure what wall okay we got whoa that was
+32:34 a massive window right there that's big
+32:38 one I'm guessing it's this
+32:42 wall and we've got some other wall
+32:45 overlying so this immediately tells me
+32:46 that someone's uh manually editing their
+32:48 wall Heights so I'm immediately going to
+32:52 go in and go into edit reset defaults
+32:55 and then I'm I'm going to choose my wall
+32:58 top and bottom Heights more often than
+33:00 not if we're editing our wall Heights
+33:02 we're causing some potential problems
+33:04 unless it's like a stepped foundation
+33:06 wall so you can see there this person's
+33:09 manually edited this wall they probably
+33:11 did that because it looks like maybe
+33:13 this roof isn't interceding so if we
+33:14 pull this roof back yeah now this wall
+33:18 builds um and that might have been it
+33:20 I'm not sure do we have that wall does
+33:23 that wall have a side a finish layer on
+33:25 it that's clicked on the framing or what
+33:27 is that all those vertical lines what
+33:29 are we seeing this is probably
+33:32 individual pad so that's that's going to
+33:34 be a solid yeah okay they're drawing
+33:37 individual solids if you haven't checked
+33:39 out my video on autogenerating batons i'
+33:42 I'd go check that out that's on
+33:43 YouTube is whose plan is
+33:46 this this is Jeremy Dylan okay and I
+33:52 don't think we have him on to defend
+33:54 himself Jer well Jeremy sent this plan
+33:57 after last show so we really haven't
+33:59 okay since then so didn't have a chance
+34:01 to to add them into this but uh yeah
+34:04 looks like we've also got you know some
+34:05 issues with ceiling Heights in here
+34:07 platform Heights um maybe this room is
+34:10 supposed to not have a ceiling in
+34:13 it turn that off there we go Rene can
+34:17 you show the dialogue box again of how
+34:19 you edited the wall and fixed the when
+34:22 when people mess with the Wall height
+34:24 can you show that dialogue box again so
+34:25 that's in our edit menu and then that's
+34:28 reset to defaults reset to defaults okay
+34:32 and then that brings up this default
+34:35 floor Heights ceiling Heights Etc roof
+34:37 groups um if you're messing around with
+34:39 any kind of floor and roof
+34:41 groups um that might be something you
+34:43 want to mess around with here a lot of
+34:45 people when they're beginning in Chief
+34:46 Architect they're setting um room
+34:49 Heights independently of their floor
+34:51 defaults so it's nice to drive all of
+34:55 your rooms by the floor defaults as
+34:57 opposed to trying to individually edit
+34:59 rooms so can I ask yeah ask this
+35:02 question is honestly anytime it because
+35:06 unfortunately you can click on a wall
+35:09 and you can change the height of it it
+35:11 also it does is mess you up it doesn't
+35:13 do anything good right why do they let
+35:15 you do that when you shouldn't be doing
+35:17 that because anytime anybody has messed
+35:20 with the Wall height by touching the
+35:22 wall it becomes a problem so why do they
+35:25 allow you to do that why would you do
+35:27 that when would you do that there's
+35:28 times where we need to right we need to
+35:30 override that height um just to fill in
+35:32 a particular condition but um you got to
+35:35 keep in mind that when we're designing
+35:36 these houses building these houses
+35:38 there's platform intersections and
+35:40 Chief's doing all the really complicated
+35:42 work of figuring out that hey this wall
+35:44 is AB budded by a roof line and and we
+35:47 think that it needs to go to the
+35:49 platform up above the platform up above
+35:51 has a different floor height from the
+35:53 floor height of the room next to it
+35:54 she's figuring out all of that for you
+35:56 and to us it's just like why can't I
+35:58 just drag the wall well because you're
+36:00 not taking into account all these
+36:01 different platform intersections Like
+36:03 Chief would if you just let it do what
+36:05 it's going to do so um it's much easier
+36:08 to just drive it by um a platformtop
+36:11 platform designation as opposed to
+36:13 trying to figure out those complications
+36:15 by yourself right so and you would find
+36:17 that in that edit dialogue box where you
+36:21 could say set the
+36:22 wall like if I wanted to raise the floor
+36:25 height of this particular project I'm go
+36:26 into default settings floors and rooms
+36:28 and then my floor defaults and set it
+36:31 from there and I I use that so often
+36:33 that I have that in my toolbars got it
+36:36 okay um all right I think that might
+36:38 have been it for this one let me skip to
+36:42 um do we have Matt ad answer
+36:45 that so Mark baddy asked a question
+36:48 about that what's the white material
+36:49 extending up through the uh roof and why
+36:52 does that happen that's that's someone
+36:55 actually they're drawing this in this is
+36:57 um these are solids they're manually
+36:59 doing some of this work so they've
+37:01 created a p situation some laying flat
+37:04 looks like the ones below are pronounced
+37:07 so yeah that one that you're seeing
+37:08 through the roof I think is just coming
+37:10 through from below from the window and
+37:12 this is a lot of work to do like this
+37:14 instead I would say use a um a u a wall
+37:19 material region or the backsplash tool
+37:21 and drive it up like this through your
+37:23 roof make sure you're setting it so that
+37:25 it's not cutting the Finish layer of the
+37:27 of the object below and then from there
+37:31 you can take that even though it's above
+37:32 the roof line you can multiple copy it
+37:35 and set your distribution 24 inches on
+37:38 Center and then just drag it to the
+37:41 right and it's going to automatically
+37:42 cut to the roof line so that's a lot
+37:44 easier than manually shaping all these
+37:47 solids yeah big time ball material
+37:51 regions are magic they're really nice
+37:53 for doing that kind of stuff um d do you
+37:56 know what's going on with this one Matt
+37:58 Adu floor plan uh I don't but let's jump
+38:00 to Allen real quick um Allen and we got
+38:04 Allen on the line right yeah we do let's
+38:06 add him to the stage welcome we made up
+38:09 our three
+38:10 minutes way to go I is my audio on yeah
+38:15 you sound good
+38:17 okay um I don't know if you want uh so
+38:22 like can I just present real quick to
+38:24 show you a sketch of like what the
+38:28 actual goal is versus what um what I'm
+38:32 getting out of the plan yeah you'd have
+38:35 to hit the present button at the bottom
+38:36 of the screen to queue up your
+38:39 screen if we've I think you see a
+38:43 present button there alen you should
+38:46 yeah yeah yeah I'm on there so how do
+38:50 I let's see I've got a bun of select a
+38:54 tab select the show
+38:58 screen close out my other tabs so we
+39:02 don't go to uh mighty
+39:05 energy um select a tab to share oh and
+39:09 I'm not oh window that's what I want
+39:13 yeah yeah entire screen okay is that
+39:15 your uh what do you show on there Rene
+39:17 is that your this is Allen's project
+39:19 very good looking it's probably looks
+39:21 great so you're showing that in the PBR
+39:25 yeah okay that looks
+39:28 great yeah great design cool like it
+39:32 okay can you uh is my screen
+39:36 live it
+39:38 is it's getting there now you're live
+39:41 whoa uh oh you got yeah switch to yourh
+39:44 plan there you go perfect um so this is
+39:49 the uh yeah I'm up uh so this is the
+39:52 goal right so this is kind of the
+39:54 Monopoly framing um um uh sort of
+39:59 setup um where I've got a
+40:02 continuous uh path here um like that
+40:07 where the sheathing can be uh my air
+40:10 barrier and then on top of that I'll put
+40:13 uh false rafter taals and build up my my
+40:17 roof like three and a half inches with a
+40:20 uh maybe a 4x4 rafter tail coming out
+40:24 maybe a 4x6 I don't know if I'll have
+40:26 the height available but I might and um
+40:29 then this is rigid installation so I can
+40:32 lock my um uh lock the climate out and
+40:38 then have space for uh bat insulation
+40:41 and all that but what what I'm doing to
+40:45 cheat that and you could go back to the
+40:47 the model and I'll I'll stop sharing but
+40:50 I just wanted to explain that that was
+40:52 what I was trying
+40:54 to uh what what I'm going to do and then
+40:58 like if we look at the model um and I'll
+41:01 I've stopped sharing now so um on the
+41:05 model what I did is just Chang my
+41:08 Rafters to 4x6 because at this point I'm
+41:10 not in construction documents I'm in um
+41:14 uh presentation documents uh and so I
+41:17 just cheated cheated the roof up a
+41:19 little bit in order to uh get my plate
+41:22 lines to work but I don't really want to
+41:24 do that I'd really love to have this
+41:27 model build that way so I could cut
+41:29 sections and not have to do so much CAD
+41:32 work um and then as well as that if like
+41:35 we look at the surfaces and you get to
+41:38 uh like that upper um Corner that's
+41:42 facing us um when you know if we look at
+41:46 that in uh with surfaces on you can see
+41:49 like I'm missing uh pieces where the
+41:52 blocking should go across kind of odd
+41:55 things like that
+41:57 is that a heel height is that adjusting
+41:59 the heel height would that do that well
+42:03 how are you building your roof is it is
+42:05 there some framing in there is it
+42:07 framing between the the big post you got
+42:09 in there yeah those those those are
+42:11 actually Rafters so well yeah there's
+42:14 going to be framing so like I said this
+42:15 is not construction documents this is
+42:18 what I I want to present and so I did
+42:21 this for camera so I'm kind of uh uh my
+42:26 projects are a little uh like especially
+42:29 with this jurisdiction I'm presenting to
+42:32 I want to get a very good camera ready
+42:35 um uh presentation because it's a pretty
+42:39 high touch uh board I'm presenting to
+42:42 yeah um my comment on that would
+42:45 be I mean we can set up the roof in
+42:48 layers but we can't set it up in layers
+42:51 that say you these two layers put this
+42:53 framing in but these other two layers
+42:55 just do framing or do insulation in
+42:58 solid foam uh so you got to one or the
+43:02 other and so my take would be set your
+43:05 roof up like you're doing now with
+43:08 everything in it that you've got get all
+43:10 the framing exactly the way you want it
+43:13 you could probably have you tried doing
+43:15 rafter taals so so here's what yeah
+43:17 rafter taals are that don't that doesn't
+43:20 work for this though for what he's
+43:22 trying to do that weird detail but
+43:24 here's what I do ra tail uh uh issues
+43:28 and that's why I abandoned the rafter
+43:30 taals and just went to the 4x6 Rafters
+43:33 right yeah um here here's what I do is
+43:36 build the framing on a roof for just the
+43:38 rafter Tails meaning that you're doing a
+43:40 2x4 roof right build that framing
+43:44 generate a polyline for your building
+43:46 let that polyline cut all your rafter
+43:48 taals copy paste that onto your other
+43:51 plan and then that other plan should
+43:53 have a double stack of framing where
+43:56 you're doing the upper framing portion
+43:58 is that air gap the lower framing
+44:00 portion is actually you know built
+44:02 correct so you're essentially pasting
+44:03 your rapor taals at the correct height
+44:05 from one plan to another yeah do the
+44:08 Pasto now you generated the all that
+44:11 taals you have to have your model really
+44:13 completed to do that yeah yeah yeah you
+44:15 g do that
+44:17 last yeah once everything else is in
+44:20 place that would probably be a good uh
+44:23 workflow to make that happen and
+44:27 just some notes looking at this roof
+44:28 plan you got kind of baselines jumped
+44:30 all over the place your roof looks like
+44:32 it's buttoned up but just something I
+44:35 noticed was your your
+44:37 Baseline stuff isn't off that main layer
+44:40 try to keep your baselines on the main
+44:42 layer of the wall just it's just easier
+44:44 to control down the line if you need to
+44:46 edit it without using like the transform
+44:48 replicate tool yeah they come back yeah
+44:50 there's a lot of changes I made uh as of
+44:54 late that probably
+44:56 I cheated some roof planes in order to
+44:58 get the right Heights aligned yeah got
+45:01 and uh so that's I give away a tool I
+45:04 need to find a link for it but I give
+45:07 away this tool right here which is this
+45:09 if you place this on a on a corner
+45:13 intersection and then we've come back to
+45:15 an overview it's just a it's just a it's
+45:19 this guy right here and it and that is
+45:22 specifically for me um copy pasting a a
+45:25 roof that's got the correct Baseline
+45:27 about itself on a 45 or using you know
+45:30 tangent or um using U make parallel tool
+45:35 to kind of paste around corners so I'll
+45:37 paste this on on the corners of my
+45:38 building and just whip through it like
+45:39 that and that way the baselines all stay
+45:41 lined up and
+45:45 stuff you K
+45:47 me this is where it's like way up here
+45:51 way up here of course you do doesn't
+45:54 everybody do that body
+45:58 does like that front elevation on the
+46:01 upper right uh uh portion of the
+46:04 building up there and if you look up
+46:06 into that Eve I think that's where
+46:08 you're G to see like I'm I'm missing um
+46:12 at that corner right my
+46:14 blocking comes through there and I've
+46:17 been cheating the rafters out in order
+46:19 to cover those um but I'm missing that
+46:23 piece of block and I don't know why
+46:26 it wouldn't fill in that space and or is
+46:30 there an easier way to avoid the
+46:33 blocking being visible and getting the
+46:35 the wall to run up and go to the uh so
+46:39 to the uh
+46:42 sheathing without trying to cheat the
+46:43 wall up because we've already decided
+46:46 that that's
+46:47 unacceptable the first thing that I try
+46:49 with this is I always just try to break
+46:51 a roof around the problem that I'm
+46:54 having and see if I can generate framing
+46:56 from there um because maybe that fixes
+47:00 something
+47:06 right you notice Rene is not explaining
+47:08 what he's doing see there there it goes
+47:11 so it generated something yeah
+47:15 um so all I did there was copy pasted
+47:18 paste hold so I made two roof planes in
+47:21 the same exact planer space and then cut
+47:25 one back
+47:26 so when he pulls roof pieces past a
+47:29 ridge or something it splits the roof
+47:33 you don't have to try to join Corners
+47:35 anything you just pull it till it goes
+47:37 past oh you're talking about what I just
+47:38 did here I pull this past itself and it
+47:40 crosses itself it's G to cut that yeah
+47:43 it's really slick how that works and I I
+47:46 we pushed um we pushed at the um at that
+47:50 event in Idaho for them to make all poly
+47:52 lines work like that yeah what a noel
+47:55 generated and then you can take these
+47:57 two roof planes and Union them back to
+48:00 one yeah it doesn't recreate the framing
+48:03 at that point no so there we go well
+48:06 you'd have force it to re reframe so if
+48:08 I hit reframe again now it's building
+48:11 around it's got some additional stuff
+48:12 going on here maybe if we deleted all
+48:16 this but I guess the the question is on
+48:19 the top of the
+48:21 wall um is there an automatic way to get
+48:24 the siding to run up to the to the roof
+48:31 sheathing
+48:34 no I would have usually would do
+48:36 blocking and but um there is a way to do
+48:40 that isn't there is
+48:42 there not that I'm aware of doesn't
+48:47 it off you know the wall goes you know
+48:52 or Eve goes to the
+48:56 stuff something whatever there's that
+48:59 Toof
+49:01 it on the roof
+49:04 tab okay I'm not I'd have to dig around
+49:07 for that one I haven't had to try to do
+49:09 that in a while I feel like that's wall
+49:11 on the walls roof
+49:12 tab well and you don't want to pull the
+49:15 it's not in there wall up because
+49:17 that'll mess up your wall framing
+49:22 um I
+49:24 don't just don't show a view that shows
+49:27 that yeah yeah keep keep the keep the
+49:31 camera High just it's all Bird's ey yeah
+49:34 there you go perfect looks great
+49:38 um I don't even think a wal matero
+49:41 region wouldn't work either because
+49:42 that's gonna cut off the top of the wall
+49:44 no I'd have to think about that one we
+49:45 have to come back to that one put a pin
+49:47 in it here we go all
+49:51 right all right Ellen thanks that help
+49:54 at all apprciate it
+49:56 yeah thanks all right cool Mar let's get
+49:59 back to you for one second we got a few
+50:01 minutes left I want to cover that as
+50:03 built versus new
+50:05 thing
+50:07 um Dan I got I'm gonna put you back on
+50:09 screen okay
+50:11 yeah let's see we're going to and you're
+50:14 you're on streamyard get that thing off
+50:16 of
+50:18 there if I move that does she
+50:21 move is she's still covered up by the
+50:23 stream no now covered now Kevin's
+50:27 covered hi Kevin you get to be covered
+50:29 now I was covered earlier he's in the
+50:32 logo your screen is on streamyard you
+50:34 want to pull up your Chief or something
+50:36 yeah yeah um
+50:39 oops get over here okay chief all right
+50:43 Marne was this which plan was it you
+50:45 wanted to show the new versus existing
+50:47 was it this
+50:49 one Greystone or which one no that's a
+50:52 new construction oh okay what's the
+50:55 other one that has a remodeling Walnut
+50:58 Grove or the yeah that's that yeah
+51:01 Walnut Grove would be a good one all
+51:02 right let's look at that real quick um I
+51:05 do this pretty much on all my uh
+51:08 projects where I
+51:10 show because I do a lot of
+51:13 remodeling close out of this one factor
+51:16 I'll show you this one I'm working on
+51:17 right now this is a second story on a
+51:19 house so when I bring I did this a
+51:22 little different than I normally do
+51:24 actually did the existing framing in a
+51:25 different color and I put the new
+51:27 framing in it look like framing so I can
+51:30 see exactly where things are going what
+51:32 beams need to be put in what's getting
+51:35 changed so I mean it's like okay that's
+51:37 pretty straightforward it's a second
+51:39 floor Edition so we're leading the first
+51:41 floor joists and everything
+51:42 intact uh so this is a pretty common way
+51:46 to do it normally I wouldn't do the
+51:47 framing of the existing house I would
+51:49 just show the existing house so let's
+51:51 take a look at what you've got over here
+51:53 um on your I'm not sure you'll see much
+51:56 on this one because what it is it was a
+51:59 um it was in really bad shape and the
+52:02 and they used the existing
+52:05 Foundation okay which they shouldn't
+52:07 have they ended up having to fix it the
+52:10 house is out of square and if you know
+52:12 Walnut Grove which is along the
+52:14 Sacramento River this community was
+52:18 originally built way back when the
+52:20 Chinese were doing the Gold Country uh
+52:24 mining okay and so the structures were
+52:28 built less than 5 feet between
+52:30 structures oh
+52:32 my and pretty tight when the whole
+52:35 Community burnt down they rebuilt in the
+52:38 same
+52:39 locations which now that this client
+52:43 wants to fix this he ran into you know
+52:46 the house is out of square um he has
+52:49 fire rating issues and so explaining to
+52:52 the building
+52:54 department existing conditions versus
+52:57 new was a challenge yeah um and and I
+53:02 didn't I wasn't the original designer a
+53:04 record I just had to go in and I had to
+53:07 actually start over they already had a
+53:09 permit in place and it was he got he got
+53:12 a couple of red tags on it so I came in
+53:15 at that point the structural engineer
+53:16 brought me in and said he needs help all
+53:19 right let me show let me share a couple
+53:21 of ideas that maybe can help um with
+53:24 showing distinguishes no because yeah
+53:26 when you when it's a addition a room
+53:28 Edition it's like well yeah that's
+53:30 pretty easy uh when it's a remodel all
+53:33 over the place gets a little bit more
+53:34 challenging but the bottom line is it's
+53:36 all about layers is really what it boils
+53:39 down to and what you put on what layer
+53:41 so let's just for example say that these
+53:44 three walls are new okay you're doing a
+53:46 new room up here um and uh so what
+53:50 you're going to do is take those walls
+53:53 and you're going to Define and put them
+53:54 on a new layer and I just call it walls
+53:57 normal
+53:58 new okay so we just do that and then
+54:01 click okay and then you you make them
+54:04 look different by using the wall
+54:05 hatching so we could hit the wall
+54:07 hatching tool and then you just hatch
+54:10 those walls independent of the other
+54:12 walls and if you want to edit that
+54:14 hatching highlight the hatch tool and
+54:16 you can just do a shift select and then
+54:19 you can change the hatching style within
+54:21 those walls if you want to um and then
+54:24 what you for framing is just frame only
+54:27 the walls that are new so if I click
+54:30 here and I hit the framing I highlight
+54:32 those walls and I hit the framing
+54:34 icon yeah yeah and then those are my new
+54:37 walls and the other ones are existing
+54:40 and then because I put I call those new
+54:44 versus a normal and I'll do one thing to
+54:46 a roof too so let's do the same thing
+54:48 here so let's put that on a new layer
+54:50 again it all comes down to layers is
+54:52 really what it happens um so if we go
+54:55 roof planes I'll copy that layer roof
+54:57 planes
+54:59 new and then you could do this with
+55:01 other things in your plan too it's
+55:03 really totally up to you and then I'll
+55:05 frame just that roof PL so basically
+55:07 then the view parts are just our layer
+55:09 control yes so then when I go into a 3D
+55:12 view all I'm going to do is turn
+55:17 off the walls
+55:21 that whatever I've called new MH um did
+55:26 I get the right yeah I have a I have a
+55:27 drywall there because I couldn't
+55:29 couldn't get to I it's a separate wall
+55:32 uh and then turn your framing on right
+55:35 so so that's one way to do it I mean
+55:39 again it really boils down to
+55:42 uh it's all layers layers that that
+55:46 allow you to display different things at
+55:48 different times so now I'm showing like
+55:52 that so I do this a lot in plans
+55:55 so Dan can I just repeat what you said
+55:58 you create a new layer set that's called
+56:01 walls normal new and then you select and
+56:04 so you do your drawing you hatch them
+56:06 you get them all hatched and then you
+56:08 select all those walls and then you turn
+56:10 on your framing tools and it will only
+56:13 add framing to that section right well
+56:17 you highlight the things you want to
+56:19 frame and then hit you highlight the new
+56:21 walls and then you select your framing
+56:22 tool and then hit okay okay yeah yeah so
+56:25 here's a simple plan simple kitchen
+56:26 addition on a house that I did um with
+56:30 that those Concepts and so when I bring
+56:33 up a 3D view with the
+56:36 framing um here's what it would look
+56:38 like in a typical Chief uh plan where
+56:41 turns all the rest of the stuff up but
+56:43 only shows the framing um in this case I
+56:46 want to see the existing house as well
+56:48 so I have a layer set set up as built
+56:50 versus new which leaves the existing
+56:52 stuff turned on so now I can poke around
+56:55 it like this and you can see uh what's
+56:59 going on so it's really easy to you know
+57:03 it takes a little bit of effort but not
+57:04 much and since I've got this all set up
+57:06 in my template already it's really quite
+57:09 easy all the views are done I just have
+57:11 to put the walls and roofs and any other
+57:14 items on the right layer and they should
+57:16 shut off automatically because when you
+57:18 bring up a 3D view like that and you
+57:19 turn the wall off the framing is on a
+57:22 different layer so the framing will stay
+57:23 on same with the roof you can turn the
+57:26 roof off the framing will stay
+57:29 on that's pretty cool that does that
+57:32 help Marney yeah so now is that part of
+57:35 the template that you have as part of
+57:38 being a member of your Chief experts
+57:40 yeah over at the pro Academy you can get
+57:42 that template and there's some training
+57:44 that talks about how that all works so
+57:47 it's pretty straightforward okie dokie
+57:51 cool thank you Dan you're watching the
+57:53 time time's up so we had a we had a
+57:57 couple of questions okay can you uh go
+58:00 over how to label uh page numbers for
+58:03 layouts like M1 A1 E1 sure and then have
+58:07 it successively go to E2
+58:13 E3 um yeah hang on one second let me
+58:15 share my screen
+58:17 again even though Show's officially over
+58:21 but we'll
+58:23 talking
+58:25 all right we got two really quick
+58:27 questions okay y let's just get to that
+58:29 quick um let me open up uh let me get
+58:32 out of
+58:35 here close some of this stuff
+58:44 down all right
+58:47 [Music]
+58:50 um uh let me open up a layout where I'm
+58:53 actually doing something
+58:56 this one should work all right so when
+58:58 you want to change the page numbering on
+59:00 your layout all right most layouts are
+59:03 going to have
+59:05 oops on your master border or page
+59:09 zero uh you're going to have a place
+59:11 where you have sheet numbers okay so on
+59:14 that box that text box there you're
+59:17 going to use a label called layout label
+59:20 all right so you you instead of typing
+59:22 text in there you put a text box and you
+59:26 do a
+59:27 macro and you do a um layout info and
+59:31 you do L layout page label lab layout
+59:36 page label okay now when you do that and
+59:40 then you go to your pages on your layout
+59:43 in your project browser and if you're
+59:46 not using your project browser you
+59:48 should get used to using it it's
+59:49 phenomenal so uh just such an easy way
+59:53 to manage everything so now when I edit
+59:57 one of these
+59:58 pages when I edit the Page information
+1:00:01 you see under label here's where Chief's
+1:00:04 getting the information to put in that
+1:00:07 dialogue or that text box where I put
+1:00:10 the macro right there and the pound sign
+1:00:12 is automatic page number all right so
+1:00:16 when I do that I just keep it simple
+1:00:18 page one two three four I don't do the
+1:00:20 you know the A&M unless someone wants me
+1:00:23 to do that so I'm my most plot projects
+1:00:25 is just one two 3 four five all right so
+1:00:28 if I change if I rearrange my pages or I
+1:00:30 insert a new page the page numbers all
+1:00:33 stay up to date and it's really a nice
+1:00:36 way to do it uh but if you want to do
+1:00:39 the ABC or whatever you call it just go
+1:00:43 edit page information and put that
+1:00:45 letter in front of the the number the
+1:00:47 pound sign always use the pwn sign
+1:00:49 that's important and a Dash put a dash
+1:00:51 after that a if you want a dash okay
+1:00:55 all right you don't have to do a dash um
+1:00:59 but for you rob we'll give you a
+1:01:01 dash it just looks prettier I know
+1:01:05 whatever I agree the numbering is
+1:01:08 relative one not relative zero so if you
+1:01:11 are in the habit of uh labeling your
+1:01:13 floors like uh like they are in Chief
+1:01:16 where the lower level is level zero and
+1:01:19 first floor is one you can force the
+1:01:21 first one to zero and then it will still
+1:01:24 number up from there so if you said a
+1:01:27 Zer the next one a pound sign will be
+1:01:30 A1 right okay it's ch this part of Chief
+1:01:35 is so cool it really is so if you really
+1:01:38 want to do like electrical and have e
+1:01:41 pages and you know engineering pages and
+1:01:43 all that kind of stuff it automatically
+1:01:45 it out then it organizes your drawings
+1:01:49 alphabetically and then numerically well
+1:01:52 it keeps all your call outs up to date
+1:01:53 so so for example I've got a call out on
+1:01:56 this
+1:01:57 elevation that is part of the dialogue
+1:01:59 where I've set it up under label you've
+1:02:02 got two types of call outs on elevations
+1:02:04 I always use the call out I don't use
+1:02:06 the marker and I'll edit this and and
+1:02:09 this is where it's getting the uh um
+1:02:12 this is where it's getting the page
+1:02:14 number is that the right one I think so
+1:02:16 yes so you'll notice that you know right
+1:02:19 now it says A1 well if I move a that
+1:02:23 label the page number is redund because
+1:02:24 you already have the page number so
+1:02:27 wouldn't have that but on my on my floor
+1:02:29 plan I need that to show up but you're
+1:02:31 right on this elevation I don't need to
+1:02:33 show that but on my elevation I do I
+1:02:36 want A3 so but you're right that is
+1:02:39 redundant I could get rid of the A3 and
+1:02:41 just leave the letter c um in fact I
+1:02:44 don't know why I did that like this
+1:02:45 anyway uh on not one other thing in um
+1:02:50 some jurisdictions now require a certain
+1:02:53 convention where it's um like
+1:02:56 a1. whatever you can still do all of
+1:03:00 your A1 sheets as a 1.0 pound and it
+1:03:04 will work um so something to keep in
+1:03:07 mind see here I just deleted that
+1:03:09 automatic page number not and it did not
+1:03:12 change it on your elev on your floor
+1:03:14 plan no because I'm changing the label
+1:03:16 for this viewport just for the viewport
+1:03:19 not for the call out on the plan so you
+1:03:22 opened up the viewport you you s open
+1:03:25 The View Board I went to edit and I
+1:03:27 deleted the text below the line which
+1:03:29 was the automatic page numbering and
+1:03:31 then that just so it doesn't mess up
+1:03:34 your floor plan but the reference is
+1:03:35 still there yeah that call out will stay
+1:03:38 a accurate on my floor plan and same
+1:03:40 with all the other call outs that I'll
+1:03:41 have in my plan for cross-sections for
+1:03:43 elevations and rooms things like that so
+1:03:46 because you know when you have a bunch
+1:03:47 of call outs like this I don't have
+1:03:49 these on a page yet but as soon as I put
+1:03:51 them on a page they'll have p two three
+1:03:54 four it'll they'll get bigger and I'll
+1:03:56 have to rearrange them um you know the
+1:03:59 this client likes to you know this is
+1:04:01 master closet I got to change the labels
+1:04:03 to primary PC not MC they had master
+1:04:07 closet um primary bath would be the same
+1:04:10 thing have to change that to you know PB
+1:04:14 P that just they like they like to label
+1:04:16 their call like which is fine but I do
+1:04:18 want the page numbers here so it's easy
+1:04:20 to go find them in the plan absolutely
+1:04:22 they'll all stay up to date okay
+1:04:25 real quick on that one go for it let me
+1:04:28 just switch this layout again um so same
+1:04:32 kind of thing I've got these individual
+1:04:34 cameras I like to show what I call a
+1:04:36 rose though and so instead of the
+1:04:39 individual cameras because if I just
+1:04:41 show a rose then it's a little bit more
+1:04:44 ambiguous meaning that I can move these
+1:04:46 elevations around and and even you know
+1:04:49 clip them if I want to like clip part of
+1:04:51 them and and work it around some element
+1:04:53 and then they don't show on my print set
+1:04:57 so my print set just shows this rows and
+1:05:00 so then when I'm sending this to like a
+1:05:04 layout page now it knows that that
+1:05:07 particular um elevation was just sent to
+1:05:10 this page and so then if I go back here
+1:05:13 and excuse me go back here and I'm G to
+1:05:17 link this to this camera and then in
+1:05:20 that link I'm going to say what's that
+1:05:22 linked views layout page label and so
+1:05:26 long as it's linked to to that camera
+1:05:28 that was just sent to layout it's going
+1:05:31 to put that layout page label underneath
+1:05:34 my k for kitchen elevation in this case
+1:05:36 okay wow interesting so then I'm and not
+1:05:40 this way you come to our summer guys
+1:05:42 you're G get amazing stuff like so is
+1:05:44 that a free symbol
+1:05:46 Renee that's just the call out with four
+1:05:49 arrows and because you can link a call
+1:05:51 out to anything well you can link a call
+1:05:53 out to to a cad detail another you know
+1:05:56 um a layout page um a save plan view
+1:06:01 Etc wow cool um what was the last
+1:06:04 question John
+1:06:07 uh uh
+1:06:10 136 136 Larry
+1:06:14 asked about Pony
+1:06:17 walls oh yeah that was a good question
+1:06:20 how do I create a framed pony wall on a
+1:06:22 sloped lot rather than using concrete
+1:06:26 wall the same way you would do it with a
+1:06:29 concrete
+1:06:30 wall right create a framed pony
+1:06:34 wall just so you know because you asked
+1:06:37 me to be a timekeeper we're about uh six
+1:06:40 or seven minutes past the hour but the
+1:06:42 great thing is is that we lost two or
+1:06:45 three people from our viewers and we
+1:06:47 gained one I sh him
+1:06:48 [Laughter]
+1:06:53 off
+1:06:55 okay
+1:06:57 uh for another time send that question
+1:07:00 in send a plan send it send it in and
+1:07:03 we'll do plan check again here so so
+1:07:06 right here you guys this is why you want
+1:07:07 to come to the summit if you're thinking
+1:07:09 about coming to the summit this is why
+1:07:11 you come because these kind of
+1:07:13 conversations happen all day and because
+1:07:16 Renee never sleeps they happen all
+1:07:21 night yeah it it is true it is amazing
+1:07:25 if you want at night but sometimes at
+1:07:28 night you have to kind of gauge is it is
+1:07:31 he really talking Mastery or is he just
+1:07:34 completely trashed at this point oh yeah
+1:07:37 oh yeah well and then it's it's your
+1:07:39 level of comprehension at a certain
+1:07:41 point because to me I I do really well
+1:07:44 with Renee in the morning but by 3:00 in
+1:07:46 the afternoon my brain no longer can
+1:07:48 even comprehend what he's saying he's an
+1:07:51 early morning for me but if you are even
+1:07:54 see I'm the opposite you guys talk to me
+1:07:56 in the morning I'm like huh yeah see
+1:07:59 that's when you have dumbed down Renee
+1:08:00 so it works better for me but if you
+1:08:02 guys are if anybody is even considering
+1:08:05 coming to um yeah I love that Renee or
+1:08:08 Richard thank you he is looking for the
+1:08:09 wine opener I
+1:08:11 agree um if you're even considering
+1:08:14 coming to the summit what you got off of
+1:08:16 this is just an itsy bitsy little bit of
+1:08:20 what you would get if you want to come
+1:08:22 to the summit it is abs L worth your
+1:08:25 time it's a beautiful location um the
+1:08:28 people are a lot of fun and you will
+1:08:30 have you'll walk away with more
+1:08:32 knowledge than you even knew was
+1:08:34 possible yeah we try to answer every
+1:08:37 question and more and we do cover all
+1:08:40 ends of the spectrum from beginner to
+1:08:42 Advanced super absolutely yeah
+1:08:44 absolutely you know don't don't let
+1:08:47 anything scare you away from it I mean
+1:08:50 we do cover everything
+1:08:52 so people absolutely and there's no
+1:08:55 stupid questions like if Rene is if
+1:08:57 anybody's talking about something that
+1:08:58 you don't understand it's always best to
+1:09:01 ask again that's kind of like my thing
+1:09:03 I'm the one who's always asking wait a
+1:09:04 second explain that again show the
+1:09:06 dialogue St questions except for never
+1:09:12 mind everybody thanks for showing up
+1:09:14 today we'll see you next time uh thank
+1:09:17 you we'll cover in our next show but
+1:09:20 maybe we'll just do plan check again
+1:09:21 because I like this segment
+1:09:24 lovely lady you go put in spin the wheel
+1:09:27 too oh you're doing the the song Yes
+1:09:31 wait hold on got to change the banner
+1:09:33 there you
+1:09:35 go all right thank you guys have a great
+1:09:38 day everybody thank you for coming bye
