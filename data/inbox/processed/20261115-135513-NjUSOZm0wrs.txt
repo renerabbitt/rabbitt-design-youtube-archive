@@ -1,0 +1,1664 @@
+Title: What We Learned at 2023 Coeur d'Alene - Designers Show #110
+URL: https://www.youtube.com/watch?v=NjUSOZm0wrs
+Visibility: public
+
+0:01 no joking today hey we are live hey
+0:04 everybody Welcome to the designer show
+0:06 um what is it show number 110 that we're
+0:09 on and uh I want to welcome Renee and
+0:12 Robin are here today I Kevin's not going
+0:14 to join us today and I have not heard
+0:15 from John so where's John yeah I don't
+0:18 know he's usually always here
+0:20 um it could be he's on the road
+0:21 somewhere and hasn't found a internet
+0:23 connection but he'll probably join us
+0:25 eventually but anybody uh anyway welcome
+0:28 everyone and today uh we're gonna hit
+0:31 the topic of
+0:33 some of the things we learned in Coeur
+0:35 d'Alene when we were there last week for
+0:36 the Chief Architect training event that
+0:38 they do every year so it was uh we had a
+0:40 great time
+0:41 I tell you it was uh as usual good time
+0:44 weather kind of sucked but uh the last
+0:46 day was gorgeous so we did manage to get
+0:48 a bike ride in uh that was pretty cool
+0:50 see a few people are logging in hey
+0:52 Ethan Doug
+0:53 Barry and we saw Ethan and Coeur d'Alene
+0:56 yeah Ethan the champion the champion way
+1:00 to go
+1:02 feed all of us Ethan was wonderful and
+1:05 thank you for the set of plans Ethan I
+1:06 appreciate it and hi Vanetta
+1:22 hey Craig how are you
+1:25 um
+1:26 here we go Chad Chad Mr Mustang
+1:30 [Laughter]
+1:32 all right you guys welcome everyone and
+1:34 uh thanks for joining us on show today
+1:36 so I've got a list of things Renee I
+1:38 never heard from you so what is your
+1:39 list I hope you got a good list of
+1:41 things oh man of things I I learned yeah
+1:44 I don't understand them
+1:46 now that's shocking yeah
+1:50 you don't understand what you learned no
+1:53 I wrote down things and they seem very
+1:56 complex and I don't know what they are
+1:58 it also it makes perfect sense at the
+2:00 time doesn't it yeah
+2:02 um so once you could you switch this
+2:04 full screen Renee and I want to show a
+2:06 few pictures real quick got to do the
+2:08 slideshow right so
+2:11 um so are you on so you see it in full
+2:13 see in the picture
+2:15 there we are
+2:16 okay there we are let me just run
+2:18 through these real quick uh just so you
+2:20 guys get a sense here we are in downtown
+2:21 Coeur d'Alene uh everybody's arrived we
+2:24 stopped and had lunch before we checked
+2:26 into our house that picture looks
+2:28 familiar because it looks exactly like
+2:29 the one from the previous year pretty
+2:31 much although last the year before we
+2:33 had a bunch more people so yeah we had a
+2:35 nice little lunch there uh here we are
+2:37 get back to the house and of course
+2:38 everybody's digging in chatting uh you
+2:41 know taking care of business which is
+2:42 what we do at the house first night out
+2:44 go to have dinner this is going to be a
+2:46 common theme we have a lot of dinners
+2:48 together uh so we're at a seafood
+2:50 restaurant here uh not too far from
+2:52 where the Event Center is uh really
+2:55 really good food that was really nice
+2:56 and here is a coffee shop that we uh
+2:59 went to each morning to have a nice
+3:03 little coffee here we are in the day one
+3:05 training with Dermot Dermot is the head
+3:08 developer there Chief Architect so when
+3:11 we want to have deep discussions with
+3:13 him about what's going on in Chief that
+3:16 was really nice been having dermit lead
+3:18 that class I really like I just enjoy
+3:20 him and uh and uh Brian too they're both
+3:24 really good but Derman I mean because he
+3:26 knows everything that's going on there
+3:28 he's the guy here's our class so it was
+3:31 a full room and a lot of great people
+3:34 there so a lot of familiar faces that we
+3:35 see there every year which is really
+3:37 cool
+3:39 um here we are after the first day they
+3:40 always throw a little uh gathering at Le
+3:42 Peep that's real close to the Kroc
+3:45 Center and uh they put on a nice little
+3:47 spread that we you know you can fill up
+3:49 on that stuff pretty easily uh this year
+3:51 it was mostly indoors because it was a
+3:54 cloudy and rainy outside yeah
+3:56 and here we are table everybody's having
+3:58 a good time
+4:00 um there's Ethan and
+4:01 everybody there so nice little place I
+4:06 understand it's a breakfast place I
+4:07 didn't know that it can't be no it's got
+4:10 to be out full time maybe I heard wrong
+4:12 here we are back at the house doing what
+4:14 we do chatting about Chief Architect and
+4:17 here on the second morning the morning
+4:19 of the second day uh we always do a hike
+4:23 around tubs I think it's called tubs
+4:25 Hill or tubs Trail or something like
+4:27 that it's a little Trail around the lake
+4:28 that uh really really nice and I think
+4:31 we all pretty much made that one that
+4:33 was really fun yeah it was lovely over
+4:35 here there we are and yeah there's a red
+4:39 Coeur d'Alene there
+4:42 yeah from Canada our Canadian or
+4:46 Canadian guy here we are at lunch on the
+4:49 second day and this guy right the
+4:51 lunches were great weren't they oh they
+4:53 were yeah we were so good we will put
+4:56 that one on our uh replies to Chief they
+5:00 need to do something a little different
+5:01 for their lunches uh I wasn't going to
+5:03 say anything I wasn't sure you were
+5:04 being sarcastic or not oh no sarcasm
+5:07 total sarcasm they were not good my mom
+5:10 always said you had to have one bad
+5:12 thing go off to have the greatest event
+5:14 ever so well that was it and they had
+5:17 two so there you go
+5:23 since accident Chief helped invent the
+5:26 software
+5:27 um when Jack Simpson invented the
+5:29 software Alfrey was there to help coach
+5:31 him along and get him going in the right
+5:33 direction so l l does have a
+5:35 a little bit to say about this software
+5:37 here we are in a boat going to the event
+5:40 center after the second day here's uh
+5:42 this little house right here a little
+5:44 white house which is really a big house
+5:46 when you're up right next to it that
+5:48 little Dormer right there that's where
+5:51 Chief Architect the software was
+5:52 invented and programmed for the first
+5:55 three versions so that's right really
+5:57 yep
+5:59 oh I was there
+6:01 yeah so I I went there at version two uh
+6:06 not X2 version two so that was a long
+6:08 time ago I got to spend some time with
+6:10 Jack Simpson the developer and his
+6:11 family and uh they're not there anymore
+6:14 they moved from that house a long time
+6:15 ago and Jack I believe spends most of
+6:19 his time
+6:21 doing uh what do you call that when you
+6:24 go to countries and you help with the
+6:25 water in the school and all that kind of
+6:27 stuff but it does a lot of oh wow he
+6:29 does that's what he spends full time on
+6:31 doing so he's always done that and the
+6:34 chief has been his vehicle to do for him
+6:36 to do even more so really cool yeah
+6:39 anyway this is the Event Center where we
+6:41 go after the second day they throw a
+6:43 nice party there and we have a great
+6:45 time uh give us a boat ride over on
+6:47 Nightcore Lane beautiful Lake it's
+6:48 really lovely yes here we are at the
+6:50 contest we're all drawing crazy little
+6:52 things that they had us do uh this would
+6:55 have been this is this was I don't
+6:57 remember what you wrote this couldn't
+6:58 have been around two because I'm taking
+7:00 the picture uh so this must have been
+7:02 round one
+7:03 um or maybe it was wrong I don't
+7:05 remember it was brutal it was three
+7:07 rounds it was it's it's kind of a it's
+7:09 really a nerve-wracking challenge
+7:10 because you got 10 minutes to draw this
+7:12 thing that they put together and they
+7:13 hit they do all these goofy things it
+7:15 was a lot of fun and uh uh you know
+7:18 there you guys are and uh have it hard
+7:21 at it uh and this picture I took on the
+7:24 boat on the way back from the Event
+7:26 Center that night turns out this is Greg
+7:28 Wells he's the CEO of Chief Architect
+7:30 that's his wife isn't it it's his wife
+7:32 Mary and that's a full moon
+7:36 and this is their 38th wedding
+7:38 anniversary so I sent those pictures to
+7:41 him and uh
+7:43 it's pretty special to sit there I
+7:44 talked to him the whole way back and it
+7:46 was really nice to catch up with them a
+7:47 little bit so good good people they've
+7:49 he and Scott have done a nice job of
+7:51 building Chief Architect this is the
+7:53 Chief Architect crew there's 75 people
+7:56 there 76 con and Greg
+7:58 I don't know if that's everybody I've
+8:00 heard there's about a hundred people
+8:02 there but yeah I thought there was more
+8:03 yeah I counted 76 75 in that photo I
+8:06 think they said at one point that there
+8:08 was 125 people who worked for the
+8:09 company
+8:10 total what doesn't surprise me because
+8:13 yeah they've got a lot of they've got a
+8:15 lot of cubicles in their office and uh
+8:17 here we go so all right here's what
+8:20 you're gonna get for coming I'm going to
+8:22 share a couple things they've never said
+8:24 that they never said we couldn't they
+8:27 never said we couldn't share some
+8:28 information this time so we're going to
+8:30 share a couple of little things
+8:32 um they're going to do it but all of
+8:34 these let's go let's make this comment
+8:36 he was really clear to say not every
+8:37 single one of these are going to be a
+8:39 next 16. amazing these are the things
+8:41 that they're working on they always say
+8:43 that though okay if it's on this list
+8:44 it'll be in there from my experience
+8:46 tool search you're going to be able to
+8:48 have a search box to find tools because
+8:50 there's 1300 icons now sometimes you
+8:52 don't know where they are so you'll be
+8:54 able to search for things Auto number
+8:55 auto numbering for construction lines
+8:58 convert text to notes which is not a big
+9:01 deal find a plan by layer find a plan by
+9:04 layer uh that's a big one for me is it
+9:07 yeah
+9:10 I've been
+9:12 um developing my templates forever and
+9:15 occasionally something sneaks in on some
+9:17 layer and it shows used and I can't find
+9:19 what the heck it is yeah exactly and
+9:22 it'll take me hours to find it out in
+9:24 fact I just did it so that would have
+9:26 saved me a ton of time oh cool
+9:28 um I'm not showing all the slides I took
+9:31 but this is kind of a cool one
+9:33 3D dimensioning so you'll be able to
+9:36 mention anything in 3D view that's
+9:38 pretty cool curious if we get that in
+9:40 x16 or not oh it looks pretty solid I
+9:43 would think we probably will yeah
+9:46 because so um because that'll give us
+9:48 you know or earthquake graphic details
+9:51 yeah so Kevin spent a lot of time with
+9:54 the person developing this in the
+9:55 software and I think they exchanged some
+9:57 good comments so
+9:59 um that'll be cool this will be a big
+10:01 one for some people Chad might like this
+10:03 I just noticed Chad commenting on
+10:05 Facebook about sharing files within the
+10:07 office
+10:08 they're putting together cloud sharing
+10:11 so you'll be able to share files back
+10:13 and forth with people through their
+10:15 service it looked pretty promising I
+10:17 thought they talked about this for 15.
+10:20 they did yeah been in development for
+10:23 almost three years yeah and we still
+10:25 don't know if we're gonna get this one
+10:27 in x16 yeah that'd be kind of cool uh
+10:30 since I work alone I don't share a ton
+10:32 of files how ever
+10:34 working with my clients I think it's
+10:37 going to make sharing files really easy
+10:39 so because you can share it and then
+10:43 unshare it
+10:44 real so you have a lot more control over
+10:46 it plus all of your libraries all of
+10:50 your preferences all the things that you
+10:52 set up your computer with if you have
+10:55 multiple computers now they'll all share
+10:58 the same settings you won't have to set
+11:00 up each computer separately so that's a
+11:03 pretty big deal I think that'll be
+11:04 really nice
+11:05 you know will this Cloud have a cleaner
+11:08 storage for Library files so they can be
+11:09 shared in real time that was the one
+11:12 thing they did not have set up and yeah
+11:16 but when we went but then when we went
+11:18 to Chief on our bike ride I asked that
+11:22 and he said that you will be able to
+11:24 share your library
+11:26 he said you will be able to share it so
+11:28 okay that is I don't know about in real
+11:30 time Nikki I didn't ask that question
+11:32 well user Library we can share that now
+11:34 that's pretty easy to do but you have to
+11:36 have it you have to have a DropBox thing
+11:38 in it yeah
+11:40 and and it will overwrite when two
+11:43 people are using it at the same time
+11:44 yeah so anyway hopefully and the plans
+11:47 you can lock people out of a plan so you
+11:49 can open up a plan and nobody else can
+11:51 open it you so you can lock it so that
+11:53 way you're the only one working on it
+11:54 and making changes right and that's good
+11:57 yeah um anyway so it was pretty
+11:59 promising uh they showed us he showed us
+12:01 some pretty cool things with it I don't
+12:03 have slides for any of that stuff so
+12:04 what's his name again what's his name
+12:07 again
+12:08 Jason Troy Jason he is the greatest
+12:11 presenter I love the way he presents
+12:13 this stuff he is really cool all right
+12:15 that's all I'm going to share on that
+12:16 new stuff
+12:18 um there was uh there's John Luca not a
+12:21 huge list
+12:22 but there is a good list there was a lot
+12:25 of nice things that they showed us so uh
+12:27 they're pretty good at that
+12:29 um Robin you did not have food in your
+12:31 mouth that was the best one I could find
+12:33 this is our Lunch yeah it's great
+12:36 pictures of me I appreciate it really
+12:39 appreciate it yeah that's a great habit
+12:40 of going okay Smile everybody in the
+12:43 middle of a bike yeah you like this yeah
+12:45 we like to keep it interesting thank you
+12:48 and here's our bike ride in the
+12:50 afternoon so now that was fun and that's
+12:52 not a bad picture so thank you yeah so
+12:55 we've got to ride the trails but
+12:56 Coraline is very bike friendly so it's a
+12:58 real place next year I'm driving and
+13:00 bringing my own bike there you go so we
+13:03 did manage to stop at the chief
+13:04 headquarters and we walked around and
+13:06 said hi to a whole bunch of people there
+13:07 weren't many people there on Friday
+13:08 afternoon at four o'clock but we did
+13:10 manage to catch some of them um and
+13:13 Nigel was there and I didn't recognize
+13:15 him with his beard now uh but it was fun
+13:19 to stop and then we chat for that with
+13:20 them quite a little quite a while so uh
+13:23 it was that was really nice so there
+13:25 Nigel these guys are in the support
+13:27 department so when you are getting
+13:29 support this is the place you're in I
+13:31 didn't take a ton of pictures at their
+13:32 headquarters Aaron said was that Kelly
+13:34 that is Kelly from Chief
+13:36 no in that image no that's Mary and
+13:39 Robin this is Kelly that's Mary this is
+13:42 Kelly right here oh Kelly yes this guy
+13:45 uh Kelly guy not Kelly girl got it and
+13:48 of course another last meal together so
+13:51 this is the last evening we were there
+13:53 together went to a really nice Italian
+13:54 restaurant and had a great meal that was
+13:56 really a lot of fun and of course when
+13:58 we walk out there's this guy just
+14:00 getting ready to drive away and his what
+14:02 is that a 69 Mustang just yeah of course
+14:05 yeah really gorgeous car so that was fun
+14:08 to see I had to show that men and our
+14:09 breakfast together so there we go that's
+14:11 our that's our trip from uh Coeur
+14:14 d'Alene and now we should probably get
+14:15 into talking a little bit about what we
+14:18 learned in there okay here uh Ethan says
+14:20 that uh the user catalog will be
+14:23 shareable on the cloud plan files are
+14:26 still single user and you can only show
+14:28 one user catalog at a time in the
+14:30 browser
+14:33 um okay
+14:36 uh pin one other person's comment up
+14:39 here let's see someone said that they
+14:41 hope that next year that they could be
+14:44 in the advance the one right up at the
+14:47 top it was Voorhees yeah
+14:50 um I'll say one thing about this it's
+14:52 it's kind of no longer a class when you
+14:55 get into the advance too it's kind of
+14:57 like a pow-wow it's more like a
+14:59 brainstorming session yeah yeah where we
+15:03 yeah I think it's a really good
+15:05 brainstorming session and uh we learn a
+15:08 lot about what they're doing they learn
+15:09 about what we want and how we're using
+15:11 the software so uh from that point of
+15:14 view it was really nice
+15:15 um all right so let me move on to my
+15:17 list uh get out of this screen here
+15:19 because I shouldn't be showing that
+15:23 um where am I what are we seeing now you
+15:25 want to see my screen don't you a lot uh
+15:28 the chief behind that Chrome browser
+15:30 thank you all right here we go and of
+15:33 course my list here's my list okay all
+15:38 right see I do a good job of taking
+15:40 notes wow good job I'm taking notes yeah
+15:44 um there were a couple things in here I
+15:45 have to ask you about yet uh let me just
+15:48 run down I don't know how far I'll get
+15:49 on this list but I'll go as fast as I
+15:50 can and get through some of these things
+15:52 uh
+15:53 one of the first things that hit me
+15:55 after talking to people there people
+15:57 want to learn how to do better
+15:58 remodeling plans with Chief Architects
+16:01 so uh you will be hearing from us about
+16:04 that because that's what I I was a
+16:08 remodeling contractor for 20 years
+16:09 that's all I did and I love doing
+16:11 remodeling plans they're my most
+16:12 favorite kind of plans to do
+16:15 um much way much I I I'll do new home
+16:17 plans but I don't enjoy them like I do
+16:19 remodeling cleanse there's just
+16:20 something about remodeling I like
+16:21 probably because it's my background I
+16:23 like figuring out so
+16:25 um
+16:26 so you'll be hearing more about that
+16:28 creating a better designer show okay so
+16:31 that's what we're working on uh just hit
+16:33 me as I'm sitting there this is a good
+16:34 show we have a lot of fun with it we
+16:36 share a lot of Gary great information
+16:37 we're going to do some we'll do some
+16:39 nice things and we got to do some better
+16:41 commercials and speaking of commercials
+16:43 let me stop stop and talk about uh the
+16:46 new classes coming up because we do have
+16:48 some new classes coming up I wanted to
+16:50 see you like suddenly holding a
+16:51 toothpaste container and promoting
+16:54 the latest book no
+16:56 um nothing like that but uh you know
+17:00 sometimes I I you know it's the last
+17:01 thing I think about is you know what do
+17:03 we got to mention today uh well the one
+17:05 thing I do have to mention today is we
+17:07 do have some classes coming up here in
+17:08 Minnesota in Bloomington in October
+17:11 October 23 24 and 25. we're doing a
+17:15 three-day course this is a beginner
+17:16 intermediate level course this is for
+17:18 people that are just getting into the
+17:21 software or have been using in a while
+17:22 and really haven't had any formal
+17:24 training so they don't really understand
+17:25 how it works it's a great class we have
+17:27 a lot of fun with it we go through the
+17:28 whole process of building house so you
+17:30 you get you go through the process of
+17:32 setting up all sorts of different things
+17:34 and by the time we're done you leave
+17:35 with a bit of a layout in understanding
+17:37 how things get added to a layout so
+17:39 cover a ton of stuff but you do learn a
+17:41 lot we're going to go to an intermediate
+17:43 class which means you do have to know
+17:45 how to use the software to a certain
+17:47 extent because we're just gonna we're
+17:49 not we're not going to cover how to draw
+17:50 a roof we're going to cover how to do
+17:52 other things with roofs and things like
+17:54 that so you do need to know some things
+17:56 about the software already before you
+17:57 can join it it's a two-day class that'll
+18:00 be in November and then uh we're gonna
+18:03 do an advanced level training class I
+18:06 haven't quite figured out exactly what's
+18:08 going to be in this yet
+18:10 um but we'll get there because there's a
+18:11 lot of advanced things we can talk about
+18:13 uh it's going to be a lot of time saving
+18:17 tips that we're going to cover in this
+18:19 class this is a two-day class but these
+18:21 two will run concurrently so you'll be
+18:24 able to take four days if you want to if
+18:25 you want to go intermediate Advanced you
+18:27 could do that if you want it's going to
+18:28 be in a hotel Hampton Inn it up at the
+18:31 Minneapolis Saint Paul Airport done
+18:34 there many times it's a great little
+18:35 hotel it's inexpensive to stay there and
+18:37 the rooms are nice and the conference
+18:39 room's okay it's just a nice venue so it
+18:41 works well and class size will be
+18:43 limited to about 14 15 people
+18:46 yeah yeah so it's a nice event
+18:51 um and uh then of course our 20 24
+18:53 summer they're still available I see
+18:56 someone just purchasing filling up all
+18:57 right it is yeah if you if you were to
+19:00 go hit the learn more you'd be able to
+19:02 see what's available yet if you scroll
+19:04 down the page you'll see all the rooms
+19:06 that we still have available wow
+19:09 um I Heard Richard uh Phuket book book
+19:11 something he did um fabulous yeah I need
+19:15 to mark this off because he just took
+19:17 this last one in the bunk room so
+19:20 um Richard looking forward to having you
+19:22 there
+19:23 um but yeah there's still some other
+19:24 rooms available
+19:26 um this house the second house we have
+19:28 there's availability there too and
+19:30 that's 300 feet away from the front door
+19:31 of the house we're having The Summit in
+19:33 so this is actually a really nice house
+19:35 so check it out if you have questions
+19:37 feel free to call any of us we'd love to
+19:39 have you there it's a it's going to be
+19:42 it's going to be a cool event I've got a
+19:44 lot of things planned for this that I
+19:46 didn't have last year so looking forward
+19:47 to it anything you want solved bring a
+19:50 list we'll get it done we will get it
+19:54 done so anyway there's our commercials
+19:56 for today thank you and by you guys be
+19:58 sure to check out Renee's website
+19:59 rabbitdesign.com
+20:04 .net check your storage got great
+20:06 templates great stuff go buy it he's got
+20:08 good so
+20:10 um and uh I probably should stop using
+20:13 that word but uh it's true it's a good
+20:15 good stuff I know uh you have a swear
+20:19 jar for you yeah start filling it up uh
+20:23 well I watched Ted lasso so I got kind
+20:25 of hooked up nice
+20:27 they say that f word I'll watch in that
+20:30 show all right so uh there's a question
+20:32 any chance the advanced class can also
+20:35 be Zoom
+20:37 don't know
+20:38 um that's a good question I don't know
+20:41 um I have to think let me think about
+20:43 that uh I'd have to hire camera crew and
+20:46 stuff to do that maybe maybe I could
+20:49 have some fun with that so it's gonna
+20:51 get these classes yeah I'm just I got to
+20:53 figure out what I've been teaching at
+20:54 first but it'll be good I know that
+20:57 um
+20:58 let's do a separate one that's just you
+21:02 know yeah that would probably be easier
+21:04 down because then you can do it just out
+21:06 of your house yeah I'll see what comes
+21:07 together uh
+21:09 automatic function in Chief one of the
+21:11 things that hit me too is they talked
+21:13 about that auto function in Chief the
+21:15 auto roofs auto floor and ceiling Auto
+21:16 wall generated decks and framing stairs
+21:18 all that kind of stuff that is Chief
+21:20 does all these things automatically and
+21:22 it seems so cool but at the same time it
+21:24 can drive you absolutely freaking nuts
+21:26 so uh I'm not going to get into this I
+21:30 wrote this down so I could think about
+21:31 this and I want to talk more with you
+21:34 guys about this uh like the automatic
+21:38 roofs there's still a lot of people that
+21:39 don't think the auto roof tools work do
+21:42 much but the automatic roof tools have
+21:44 improved drastically in the last few
+21:47 releases and
+21:49 um so yeah you can get a lot further
+21:51 with the auto roofs than you were used
+21:53 to and they just keep adding more and
+21:55 more so I I didn't ever use them until I
+21:58 kept seeing the user on Chief talk
+22:00 solving everybody's health problems with
+22:03 auto build faster than you could
+22:04 possibly imagine so yeah I have a ton of
+22:07 techniques to use with auto builds so um
+22:09 yeah that'd be the kind of thing we'll
+22:10 cover in the audit you know like the
+22:12 Intermediate class we'll get into more
+22:13 of those things uh yeah the roof system
+22:16 in Chief has really really come a long
+22:18 way coordinate system in Chief
+22:21 uh doing accordance better this is not a
+22:23 big deal but a lot of the things on my
+22:25 list are not a big deal but accumulative
+22:27 uh they kind of add up to lots of cool
+22:30 little things so you've got your little
+22:32 coordinate the daily Bop down here now
+22:35 um I think that's a technical term good
+22:37 technical term like X Y X Y so under
+22:41 preferences there's some settings let me
+22:43 just turn them all on so you can see
+22:44 what it looks like they have a
+22:45 coordinate system tab here now and if
+22:48 you turn all these things on I'll just
+22:50 do it I would not use them all on and
+22:52 I'm going to expand this to 100 inches
+22:55 and we'll make we'll leave the labels at
+22:57 12 okay so just in coordinate system
+23:00 when we look at this now you can see I
+23:02 just made the this taller the lines are
+23:06 taller but now I turned it on so you
+23:07 could see where X and Y is all the time
+23:09 all right and here's the one of those
+23:12 zero and one of the other things that's
+23:14 zero that's the zero zero coordinate in
+23:17 Chief Architects coordinate system which
+23:20 when you start a model you want to start
+23:22 close to that because it keeps the
+23:24 numbers that Chief has to multiply all
+23:26 the time smaller which makes your plan a
+23:29 little faster but what's kind of cool is
+23:31 yeah go ahead and out of the box I asked
+23:34 this in the class out of the box that
+23:36 zero zero is in the bottom left of the
+23:38 drawing sheet which I thought is kind of
+23:40 funny
+23:42 this is zero zero yeah no
+23:45 that's not yeah out of the box templates
+23:47 the zero out of the box yeah oh yeah
+23:50 there's not mine I set mine zero zero
+23:53 yeah mine the same as you so here's the
+23:55 middle of my model here's the zero zero
+23:57 in this one but you could set this up so
+24:01 that
+24:02 see I made this a little bigger so you
+24:03 could see a little better in the 3D
+24:05 views so you see which way X and Y is
+24:07 yeah you can also have it turned on so
+24:10 when you're looking at a view like this
+24:11 you could know which X and Y is yeah
+24:14 um I like this because
+24:17 Chiefs of CAD software
+24:19 we need to learn XYZ to really function
+24:23 faster in this CAD software this is cool
+24:26 so run with this for a while and you get
+24:28 used to the XYZ stuff
+24:30 then you can turn it off you can also
+24:33 have that in your elevations which is
+24:35 pretty cool so now I oops let me get
+24:38 that so my Cox is it better to have the
+24:40 center at zero zero or bottom left I
+24:42 prefer at Center
+24:44 I do too works with the way I think
+24:47 better and also I happen to know that
+24:49 some features work when you're drawing
+24:52 at zero zero that don't otherwise oh
+24:54 sure
+24:56 um I think it's just a good rule of
+24:57 thumb to you know keep your plan
+24:59 centered at zero zero uh rather than
+25:02 have the bottom left corner of is it
+25:04 going to make you know make or break
+25:06 anything probably not that it's just a
+25:08 good rule though
+25:09 um do you even need to know that is
+25:10 there not really to draw a chief that's
+25:13 one of the cool things about Chief but
+25:14 here again I turned on these coordinates
+25:16 and so I can see which way is X so if I
+25:19 wanted to move that window to the right
+25:21 now in X just by opening its dialogue
+25:24 and say move that window two feet to the
+25:26 right I could do that a lot easier
+25:28 because I know exactly Which Way X is
+25:30 and I know that minus X would be this
+25:32 way
+25:33 so if I wanted to move it back that way
+25:35 I'd type in minus two feet so that's
+25:38 kind of handy when you're just getting
+25:40 used for this kind of stuff so that's
+25:42 that's a little thing about the
+25:43 coordinate system
+25:45 um I just said it back to the way it
+25:46 comes out of the box
+25:48 and go from there I just wanted to show
+25:51 that I thought that was good you know a
+25:53 lot of things in preference as I'm going
+25:55 through this list I'm looking at all
+25:57 these things and preferences man they've
+25:58 added a lot of stuff in preferences kind
+26:02 of interesting
+26:03 all right back to my list dimensioning
+26:06 windows to the inside of frame to me
+26:07 this is a big deal because I do a lot of
+26:09 as builds
+26:11 um and I like it would be much easier to
+26:13 Dimension my as built to The Insider
+26:15 frame to instead of guessing where the
+26:16 outsider frame is so what it means is
+26:18 inside a frame so I can Dimension here
+26:21 let's talk about this a little bit here
+26:24 John you're breaking up really bad
+26:30 is that John
+26:32 yeah you must have a yeah he's breaking
+26:34 up weak connection John all right and
+26:36 you have to set that in defaults in your
+26:38 window defaults well no you could do
+26:41 both you could set up individual Windows
+26:44 like I've done here you do them both in
+26:47 the same place so if you want to just do
+26:49 some individual Windows go to the frame
+26:52 of the window okay and set it here right
+26:57 here okay
+26:58 turn this on excludes frame so they
+27:03 couldn't have said window Dimension to
+27:05 the inside frame or something like that
+27:08 um to me it's like I want a frame on my
+27:10 window I don't want to include the
+27:11 friction but no that means dimensioning
+27:13 it to the inside of the frame not the
+27:15 outside of the frame that's really good
+27:16 yeah yeah it's very helpful for hours
+27:19 built so that's that's a per window
+27:21 thing if you want to set it up for all
+27:23 the windows to do that double click on
+27:25 the window icon
+27:27 go to frame and set it here now all of
+27:29 your windows will Dimension to the
+27:31 inside of the frame okay don't do that
+27:33 while you're measuring the house turn it
+27:35 off when you're done
+27:36 see it makes sense I don't know I don't
+27:39 understand why they put it there it
+27:40 makes more sense that it just was in
+27:41 Dimensions because you can you have side
+27:44 Center casings why didn't they just have
+27:47 inside a frame yeah that would be kind
+27:49 of nice underneath because then you
+27:51 could turn it on and off when you want
+27:52 it yeah
+27:53 instead of being Global or specific
+27:55 right so it's just not sure if we
+27:58 brought that up or not but it would be
+28:00 nice to have that option just under
+28:01 openings that's where it should be yeah
+28:04 inside inside frame right so
+28:07 um but at least we can do it now yeah no
+28:10 it's right we couldn't do it before and
+28:12 let me just you know for those of you
+28:13 that might be new to the chief's
+28:15 dimensioning let me just show something
+28:17 to you real quick so let's say I wanted
+28:20 to mention that window so what you could
+28:22 do is you know you start by putting your
+28:24 first dimension in of course I don't
+28:26 have that set up so I have to go like
+28:28 that okay so I'm going to get my first
+28:30 dimension in it's going to go to inside
+28:32 a frame and you know so you're measuring
+28:35 that window so you move this to where
+28:37 you want it to be six feet okay now I
+28:39 need to get the width in so you don't
+28:41 have to open the window to type the
+28:43 width in Just click on the window click
+28:45 on the point here see how that
+28:47 highlights now okay because I highlight
+28:50 the window and then I click on the edge
+28:51 I want to move and now I'm going to
+28:53 click on this number now I could say I
+28:55 want that to be 48 inches so I can move
+28:58 that over without even opening the
+28:59 dialog for the window so it makes it
+29:01 really easy to do and nice to point out
+29:03 that you can see which selected Edge
+29:06 handle there is there because Dan has
+29:08 his colors and preferences yes
+29:10 blue preference setting so under colors
+29:13 I make my handle feels red I make my
+29:17 selected edges blue so it's just a nice
+29:20 way I Don't Like Chief sets it up with
+29:22 these light gray things even the fill
+29:24 Styles light gray it's just really hard
+29:26 to see what you're selecting so not
+29:29 really a big fan of that
+29:37 frames could be changed just for certain
+29:39 views via annotations right I don't
+29:41 believe that's correct the what now
+29:44 um Dimensions to frame could be changed
+29:46 for just for certain reviews via
+29:48 annotations
+29:50 um
+29:51 settings of the window itself
+29:54 directly to do with the windows yeah
+29:57 yeah hey John by the way how you doing
+30:00 where are you I'm doing good I'm doing
+30:01 good can you hear me better now yes okay
+30:04 what'd you do I was I was having so I
+30:06 just put on my headset oh okay I was I
+30:09 was having so much fun teaching I I uh
+30:11 forgot we had to be in class today or in
+30:14 the show today cool well that's a good
+30:16 that's a good excuse okay we'll let that
+30:19 one go I know Kevin Kevin has a client
+30:21 coming in that wants to do me on the
+30:23 half house uh so he used to meet with
+30:25 them and okay I would let that one go
+30:27 too we get it to your business uh all
+30:32 right client designing client info um I
+30:35 was playing with this one a little bit
+30:36 in Chief uh you'll notice in the
+30:38 preferences you have
+30:40 under oh hell where the hell that go
+30:42 again it was under
+30:44 um
+30:45 uh for Pete's sake I knew I'd forget
+30:49 this
+30:50 uh it was under new plans no yeah yeah
+30:54 here it is here it is okay so this is
+30:56 new and X this is a new one X15 this
+31:00 designer client info and you can Define
+31:03 it so if you define it here if you
+31:08 define it here under preferences
+31:11 every time you open a new plan
+31:13 whatever you put here is going to be in
+31:16 that new plan okay so if I go to Define
+31:18 and I've filled in on my client my my
+31:20 contractor information that's fine
+31:23 because you want that in every one of
+31:24 your plans
+31:26 um unless you do it differently but
+31:29 client information I was just typing
+31:31 that in there
+31:32 um
+31:33 you don't want that in your preference
+31:34 you don't necessarily want that in your
+31:36 preferences no so it's like well why did
+31:38 I put that there I'm not that's a real
+31:40 that was a strange one to me
+31:43 um
+31:43 if you draw for the same person every
+31:45 time yeah I can see that but uh but what
+31:49 you could do is
+31:53 you get the division it there copy
+31:56 designer information yeah exactly so you
+31:59 could play with this and see how that
+32:00 works for you what I've done in my
+32:02 template is I've gone to tools I'm going
+32:04 to uh to a designer client information
+32:08 and I put my information here and this
+32:11 Auto this will Auto populate on my
+32:13 layout pages
+32:15 and then when I'm on my layout Pages
+32:17 I'll do the client information and
+32:19 that'll Auto populate my client
+32:21 information on my pages and if I were to
+32:24 change page sizes it would Auto populate
+32:26 that stuff automatically too so do you
+32:28 have to use this no
+32:30 um but it can be handy so it's so nice
+32:34 yeah and we did spend some time talking
+32:36 with them about giving us some more
+32:37 custom fields that we could put in here
+32:39 and let us rearrange them so uh
+32:42 so we'll see what they come up with
+32:44 those yeah what did they say what did
+32:47 they say about that because that is
+32:48 something we need to do it seems to
+32:51 think of easy and then they said we
+32:53 don't like it when we say it might be
+32:54 easy yeah well I can I can understand
+32:57 that yeah so when you when you use those
+33:00 fields okay so you're using macros so
+33:03 here I've typed some text and I've used
+33:06 three macros my designer name company
+33:08 name phone number so you could have a a
+33:10 block anywhere in your plan or on your
+33:13 layout that would automatically
+33:15 automatically populate using that tools
+33:19 client
+33:20 contractor client information so in a
+33:23 way you add a macro is you just click
+33:25 the macro button in the text box contact
+33:27 info this there's the client designer
+33:29 stuff and here's everything on that list
+33:31 so if I wanted to have my you know my my
+33:35 street address show up there I click OK
+33:38 and because I have that filled in or I
+33:40 don't have it filled in I want to
+33:41 address this comment from Mike and just
+33:44 point out something he says I have my
+33:46 logo on the layout so I don't use this
+33:48 feature which is the designer
+33:49 information
+33:50 this is a way to store macro values and
+33:57 call them up very easily so if you never
+33:59 written a macro before this is a really
+34:01 rudimentary and simple way to get a text
+34:04 macro that you could use everywhere it
+34:06 doesn't matter that it says it's the
+34:07 designer name you could use designer
+34:09 name on your plans for APN or you know
+34:12 any number of information that you
+34:14 always want to store for every plan and
+34:16 draw up so now just something to keep in
+34:19 mind that's a really simple
+34:20 implementation yeah money is heavy in
+34:23 the macros so he's got some pretty
+34:25 complicated macros that he's developed
+34:27 to do different things for his project
+34:29 but in this sense it's very simple so
+34:32 you know even guys like me can figure
+34:34 this one out so
+34:36 oh look Kevin showed up Hey Kevin Hey
+34:39 how is everybody what did I miss
+34:41 everything everything
+34:43 there's a test Kevin there's a test at
+34:47 the end
+34:49 Kevin you want to answer this question
+34:51 here yes
+34:54 which one are we on no you don't no you
+34:57 don't no do you have a hyper macro
+35:00 fields or use the pull down to select
+35:02 them every time I hand type they fail I
+35:04 just have to make sure that you're
+35:05 typing in the syntax correctly um or
+35:08 they will not fire so when we're calling
+35:10 a macro
+35:11 um our values need to be in between
+35:12 percentage signs and that damn macro
+35:15 needs to be just proper in this case and
+35:18 everything for the ones Dan was talking
+35:20 about for the filling in the fields and
+35:22 stuff you just select them from a pull
+35:23 down yeah yeah those are already in the
+35:26 system it's amazing how many are already
+35:29 in the system I mean and then and then
+35:31 you call people like Renee to get
+35:33 special ones yes yeah if you if you're
+35:36 really stuck on that stuff definitely
+35:39 call already you can help you out on
+35:40 that so um all right start yeah that
+35:44 works the same for the layout right you
+35:45 get put in the yeah it does now yeah
+35:49 yeah yeah
+35:51 um the one nice thing about populating
+35:53 and preferences with your company
+35:54 information that shows up on the plan in
+35:56 the layout that this you know when you
+35:57 open a new layout uh unless you had it
+36:00 programmed in to start with which is
+36:01 what I do
+36:03 the other thing about names uh real
+36:05 quickly let me mention this under time
+36:08 tracker
+36:09 it's on your own purposes you go to Time
+36:11 Tracker make sure you put your name
+36:12 there so that if you have different
+36:16 people working on plans when you do a uh
+36:19 when you do a sheet that has the
+36:21 different uh type that keep tracks your
+36:24 time on the project you can sort it by
+36:26 the the user and uh
+36:29 then you can see how much time each
+36:31 person is sent on the planet it's a
+36:33 smart idea so and you can select more
+36:35 than one line there now and it will give
+36:36 you a subtotal of the yeah that's really
+36:39 nice so yeah I can you know go like this
+36:41 and hold my control key down and select
+36:43 individual lines or hold the shift key
+36:46 down and select the whole group so and
+36:48 then it tells you which how much time
+36:50 you got selected there so then you can
+36:52 add notes to that selection and click OK
+36:55 and
+36:56 [Music]
+36:58 to all of those well never done that
+37:00 before
+37:02 cool all right back to the list
+37:04 um Facebook user any chance you can do
+37:06 this real quickly if you can expand on
+37:08 that love to know what uh which one
+37:10 we're talking about
+37:13 uh Facebook user says yeah any chance we
+37:15 can do this real quickly not sure what
+37:18 which one you're talking about yeah
+37:20 uh can you explain how the macro is
+37:22 going to drop down are much less than if
+37:24 you link in
+37:25 link and object properties macro I think
+37:29 Renee you could do a whole class on that
+37:31 yeah oh easily yeah
+37:33 I think we should just do a show just on
+37:35 Macros because I think there's so much
+37:38 to do so Renee can people get to your
+37:41 Discord group through your website uh
+37:43 yeah they can down at the bottom of the
+37:45 screen okay go to Renee rabbit.net and
+37:48 join Renee's Discord graphic design.net
+37:51 yep that's what I said didn't I yeah
+37:53 yeah you did and uh join this Discord
+37:56 that you have disc macro discussions
+37:58 there don't you oh yeah yeah we do check
+38:01 it out check it out uh start in arrows
+38:04 on walls this is really not a big deal
+38:06 most people this is yeah but it's but it
+38:10 is and it isn't it is really helpful so
+38:12 when you're drawing a wall notice notice
+38:14 what is going on there
+38:17 so when I draw that wall
+38:21 and do it
+38:23 all right
+38:25 when you draw a wall notice that Arrow
+38:27 see on the left side it's got no arrow
+38:29 on the right side it's got an arrow so
+38:31 that's telling me the start end position
+38:34 the start end of this wall
+38:36 okay so if you turn if you were to go to
+38:40 your your preferences and go to edit and
+38:43 turn on show start and indicators
+38:47 as you get more and achieve this is a
+38:49 big deal but see when I click on the
+38:51 wall it says S and E if you have a chat
+38:54 line see it says S and E that's what you
+38:57 start in your hand
+38:58 that's right there
+39:00 you're Frozen right now I am uh-huh
+39:05 can't be
+39:07 all right cut them off come on man is it
+39:10 working now am I zooming around out no
+39:14 um let me get out of it come back into
+39:15 it
+39:17 I'm trying to remember if I have mine
+39:18 start any on there I don't I need to set
+39:21 that up all right we're gonna go here
+39:24 I'll be back here
+39:25 all right it's like you're back now
+39:27 probably I'm on back
+39:32 in my back
+39:34 we're seeing you go through your your
+39:35 screen you're not showing Chief you're
+39:37 on the other screen I should be showing
+39:39 Chief now you're not oh come on
+39:42 freaking technology this happened to me
+39:45 yesterday this happened to me yesterday
+39:46 we were doing something we did a speed
+39:48 check on both our computers and then it
+39:49 came back to full speed again
+39:51 hmm it's like they were watching us
+39:56 so yeah they know you might complain
+39:58 about the internet speed so they turn it
+40:00 up real quick exactly exactly they must
+40:02 have some kind of algorithm that checks
+40:03 that or something I don't
+40:05 know that's pretty funny Renee Justin
+40:08 keep your tracking how many people want
+40:10 to be in your class so Mike said only
+40:13 five people should be in your class and
+40:14 you already have three so um
+40:18 [Laughter]
+40:24 yeah it didn't work for me either when
+40:26 you told me to do it I couldn't get
+40:28 speed test to work
+40:30 what the hell
+40:33 I don't know
+40:35 this this show just came to a grinding
+40:38 halt yeah
+40:41 I'm getting a chance to read all the
+40:43 comments and catch up so it's working
+40:46 um
+40:48 now if I log off
+40:54 um
+40:55 shouldn't be do this real quickly
+40:58 designer client info Renee can you show
+41:00 that real quickly it's actually really
+41:02 nice for Facebook user
+41:04 um it's part of my process when I open
+41:06 up a layout when I open up start a
+41:08 client to open up a layout and I open up
+41:10 a plan and I fill in the information
+41:13 right away I put it right into their
+41:14 file and I fill out the client
+41:16 information
+41:18 but so I'll just go over here to tools
+41:22 down to our designer client information
+41:24 okay that brings up
+41:27 this guy right here I'm in client
+41:29 information panel right now if you can
+41:31 see on the left hand side
+41:37 and then all these are simple macros so
+41:40 for instance I know I'm not going to use
+41:42 the fax number for anything so I might
+41:45 not even a particle number here
+41:50 right something like that
+41:53 press OK and then anywhere you would
+41:55 like
+41:56 oh sorry I think I pushed a button got
+42:00 rid of Renee
+42:01 sorry Renee
+42:05 now we're fighting each other the
+42:06 buttons areas
+42:09 um you can just by pulling this into say
+42:11 a text box or it could be in a note or
+42:14 anything you'd like that takes any kind
+42:17 of macro input so we can hit the drop
+42:19 down menu on macro and then in the
+42:22 global and in the global we have contact
+42:24 info client and there's that fax so now
+42:27 I am calling up dot Fox macro you froze
+42:31 easy your screen
+42:34 I'm pushing stupid buttons
+42:38 do that again do do that again Renee
+42:42 I didn't do that one
+42:45 well you two are some wrestling over
+42:48 your screen yeah John keeps shutting my
+42:49 screen off it wasn't me it was not me I
+42:52 didn't do it I'll point out oh please
+42:54 stop
+42:55 [Laughter]
+42:57 in the uh in the discussions uh there
+43:00 was a lot of agreement that having
+43:02 multiple fields in there besides
+43:03 designer and client would be really
+43:05 desirable they took they took a lot of
+43:08 notice of that uh I think they actually
+43:10 took a vote on every single person in
+43:12 our room said yes so
+43:14 um it's a very easy thing for them to
+43:16 add hopefully we'll see it in the next
+43:19 version but it's uh it's not something
+43:21 that they presented at us it's more that
+43:22 we requested it out of them
+43:27 Let's see we got this one any ideas on
+43:29 how to copy client info from layout to
+43:31 plan files so I don't have to well you
+43:33 could always send it but now this system
+43:36 is um
+43:38 it goes across layout implants so you
+43:40 don't need to copy it and you can just
+43:42 call it up in layout as well I believe I
+43:46 believe that's the new trick once you
+43:47 have the new plan once you have the new
+43:49 plan and layout linked then can you do
+43:52 that so if the plans are linked so you
+43:54 create your plan and your layout right
+43:57 away you put the client information in
+43:58 there and then you link these two
+44:00 together and once these two are linked
+44:02 then you should be able to pull the same
+44:03 information into both my default plans I
+44:06 have a link to a cat detail that has all
+44:09 my client information so when I fill
+44:11 this out it's automatically here and
+44:13 this little box right here populates
+44:15 with the address and it always sends to
+44:18 my layout so as soon as I start a plan
+44:20 that's all we're sending to layout so
+44:22 here's something to consider
+44:25 cool cool all right let me present again
+44:28 see if I can get this to work uh my
+44:30 Discord link is at the bottom of the
+44:31 screen on my website you've got to look
+44:33 at the little icon that looks like a
+44:34 game controller that's got a face
+44:36 because that's discord's icon it is a
+44:40 game controller that has a face that's
+44:42 what it is
+44:44 all right so there's your starter no
+44:46 it's not a Kevin bot you guys seeing my
+44:48 screen you can hear me yes now we are
+44:50 yes we are that's good so um start in it
+44:52 start and indicators come into play when
+44:55 you use resize lines and things like in
+44:58 walls
+45:00 um you want to lock where it resizes
+45:02 from so I want to resize that wall by
+45:04 locking start and then I can type in a
+45:06 different wallet so that's what that is
+45:07 there's also settings there's also
+45:09 settings for the wall how it builds into
+45:11 another wall whether you want it to
+45:13 build through the adjoining wall or stop
+45:15 at the wall that kind of thing oh my
+45:17 gosh where is that can you show that
+45:19 what do you want what was that again
+45:21 what are the walls join where they go
+45:23 through or they stop
+45:25 they're through or stop because that is
+45:27 an issue especially when you want to
+45:29 make sure that an end is finished
+45:32 or here
+45:34 oh when you bring those two corners
+45:35 together
+45:37 you can tell it for the end to draw
+45:40 through build through the other wall or
+45:42 stop at the other wall
+45:43 it's in the wall dialogue open the wall
+45:45 dialogue oh that one
+45:48 um where's that uh Senator wall
+45:51 uh I don't have I do have chifa
+45:55 um
+46:01 I know I've seen it too yeah it's never
+46:03 known what it did uh There It Is Well
+46:06 intersections under structure wall
+46:07 through wallet start uh
+46:10 intersection okay
+46:13 yeah so if you have this came up the
+46:15 other day in one of the Facebook groups
+46:17 is like you had a railing and you didn't
+46:19 want a wall perpendicular to that
+46:22 railing to intercede you would
+46:24 um you would say that it would be a
+46:26 through wall
+46:28 all right let's keep moving on here
+46:30 um store schedules and yeah detail
+46:32 windows that is one of the things they
+46:33 mentioned that said you know anything
+46:35 anything you put on your floor plan you
+46:38 know schedules and notes and CAD details
+46:40 and all that stuff it's gonna slow your
+46:41 plan down so that you know if it's open
+46:44 Chief has to deal with it but if you put
+46:46 all that stuff in CAD detail Windows
+46:48 like your schedules CAD details photos
+46:51 all of that kind of stuff you're not
+46:53 using resources when those things are
+46:56 closed so if you've got a big plan or
+46:58 you got a ton of stuff all over your
+47:00 plan put it in the cadeta window and you
+47:01 should have better better results so
+47:05 that was one thing they mentioned and I
+47:07 thought that made sense that was a good
+47:09 one yeah actually I think you actually
+47:10 taught me how to do that Dan so I am I
+47:13 created all my schedules and they're all
+47:15 in separate CAD details cool in my
+47:18 template the nice thing about that it's
+47:20 really nice when you use your project
+47:21 browser and you go to CAD details you
+47:24 know here's here's your different
+47:26 schedules that you could have
+47:29 um I don't know if I can rearrange those
+47:30 or not
+47:31 um but you'd also have it under here too
+47:33 so it's going to add to the list I have
+47:35 some note schedules on the plan
+47:37 um that's why this list is populated
+47:39 with it but if you have different
+47:41 schedules they would be on this list as
+47:42 well so you'll you'll have both okay and
+47:45 then when you send things to the layout
+47:46 that's going to be a lot easier so Dan
+47:48 in my my plan I have saved all my cad
+47:52 all my schedules under CAD details it
+47:56 also shows up under schedules right it
+47:58 automatically shows up okay yeah as soon
+48:01 as you put it in your plan it'll be on
+48:02 both okay well it'll be on the schedules
+48:04 list and then whatever you name your cat
+48:05 detail whatever
+48:07 um well Michael Park look at you I
+48:09 haven't seen you in a long time how you
+48:11 doing buddy
+48:12 yeah
+48:13 yeah Kevin you know Michael here yeah
+48:16 that's by Michael
+48:18 yeah cool I think I said here last time
+48:21 I saw you
+48:23 you might have
+48:24 um
+48:25 let's see back to Chief where was my
+48:27 list okay keep moving through
+48:29 um better um sorry
+48:33 [Music]
+48:35 yeah uh uh scrolling yeah you're really
+48:40 sorry aren't you uh scrolling in and out
+48:43 of Windows okay uh what that means is
+48:45 when you're in your library browser and
+48:47 you click on this little icon down here
+48:49 so you can see items like this and you
+48:53 know they show up like that
+48:55 um oh come on why is it not going away
+48:58 there no
+48:59 what is going on my zoom tool is messing
+49:03 up
+49:05 mantum tool oh I'm on a roll today I
+49:09 gotta exit my zoom tool
+49:11 yeah I got it anyway when you when you
+49:13 click on this spot right here and you
+49:15 hold your control key down you could
+49:17 zoom in and out of these details to make
+49:19 them bigger and smaller
+49:21 um let me go ahead my computer is going
+49:23 nutty
+49:25 um oh I picked so if I go to a library
+49:27 that has a lot of stuff in it I can roll
+49:31 back and kind of see more things so I my
+49:34 library is usually open on a different
+49:36 window anyway so I have a bigger window
+49:37 here to see but you can again hold your
+49:39 control key down and scroll in and out
+49:41 of that another use of that control key
+49:43 I'll add there right now
+49:44 is um when you hold the control key down
+49:47 you're zooming in and out on the floor
+49:49 plan you zoom in out really fast when
+49:51 you bring up a 3D View and you you use
+49:54 your roll you roll your mouse if you
+49:56 hold your control key down you roll
+49:58 slower
+49:59 so that control key does a lot of things
+50:01 when you're rolling in and out with your
+50:03 mouse so so Chief has done that and uh
+50:06 that's pretty cool
+50:07 all right but I didn't even ever think
+50:10 to use it in the library browser and I
+50:12 do love the new library browser it's
+50:13 really cool better searches in the
+50:15 library this is a Renee specialty he
+50:17 knows all about these kinds of things
+50:19 bullying bowling keywords not and or
+50:23 okay you can also use exclamation plus
+50:26 and Line This is directly from Chief's
+50:29 help menu
+50:30 um what's the line
+50:32 that's that does the same thing as a lot
+50:35 or okay yeah these three symbols do the
+50:38 same thing as these words okay that's
+50:41 what I figured out
+50:43 um so when you're when you're looking
+50:45 for something like a toilet
+50:49 um not round not round
+50:52 will it not polar
+50:54 spoiler plus you wanna you want just
+50:57 cooler so you put plus Kohler and I give
+51:00 you all the Kohler toilets in the
+51:01 library if you want uh to not be you go
+51:06 exclamation exclamation and that will
+51:08 put or type the word not in capital
+51:11 letters
+51:13 with no spaces now I got no coil or
+51:16 toilets
+51:17 what do you do but the dog has to be
+51:20 there if it's round round ball could you
+51:22 do three controls can you say not color
+51:25 plus round
+51:29 good question though
+51:32 um
+51:33 well there you go yeah you got roundball
+51:35 toilets and they're not cooler that's
+51:38 sweet look at that so that's really nice
+51:40 and in order you've had a lot of input
+51:42 with Chief about getting this kind of
+51:44 functionality in the library and it
+51:46 works really nice so yeah we sincerely
+51:48 appreciate that yes good job keep on
+51:51 those guys and I know they sent you a
+51:53 big check for all your advice so yeah
+51:55 why don't you start with me yeah
+52:00 about the toilets yeah I'm about but I
+52:05 just have a client right now who
+52:06 actually specified that she wanted round
+52:09 Bowl toilets it's like that is the
+52:10 weirdest thing but she's also a female
+52:13 male tend to not like round bull toilets
+52:15 you know as a woman I prefer honey
+52:18 elongated balls so I mean
+52:21 just putting it out there the next thing
+52:24 sitting here next to Renee at the event
+52:27 um and I got to watch him use his tags
+52:30 I'd not been using tags at all I need to
+52:32 get it the most
+52:33 um so uh what that means is whenever you
+52:37 see something in a library
+52:39 and you like it and you want to use it
+52:42 over and over again you can take it so
+52:44 if this is the dishwasher you use all
+52:46 the time you could make a tag so you
+52:49 could manage tags you could call it a
+52:51 favorite so that would come up all the
+52:54 time or you could create a tag and call
+52:57 it your dishwasher so oh and you don't
+52:59 have to save it to your library you
+53:01 don't have to save it to your user
+53:02 Library first not not to pay good okay
+53:04 so oh where's my Tango do that again PW
+53:08 and did I
+53:11 thanks for dishwasher okay
+53:15 what did I do wrong here tags manage
+53:19 tags how come I didn't get
+53:22 oh I gotta hit plus do it hit the plus
+53:25 sign then you can add a tag so you can
+53:27 create a whole list of tags right now
+53:29 you have about 20 30 tags in your list I
+53:32 can show can I show my tags yeah let me
+53:34 just do let me finish this and then you
+53:36 can show yours real quick so anytime I
+53:38 want that dishwasher now
+53:41 um all I have to do is go find that tag
+53:43 and
+53:45 so you would have you you know you got
+53:47 to click the gear icon down here okay so
+53:50 click the gear icon and open up your
+53:52 tags
+53:53 to make sure that's turned on so then
+53:55 when I want it if I have 10 different
+53:57 dishwashers I just hit the dishwasher
+53:59 tag and they're all there if I want the
+54:00 shelves that would show all my shelves
+54:02 so I must have not saved it uh so oh you
+54:06 gotta be careful that you don't have
+54:08 them all on up here so I had a couple
+54:10 shelves I'd say so you can it becomes
+54:13 your new way to search for things we'll
+54:15 take go ahead Renee show what you got
+54:16 there
+54:18 um I use what I'm calling stocked tags
+54:21 so
+54:22 um
+54:23 I'm using kind of generic tags here and
+54:27 so easy one for me to show is if I hit a
+54:29 wall
+54:31 exterior
+54:33 and material that's going to get me very
+54:37 quickly oh and not toilet color this is
+54:41 going to get me specifically any kind of
+54:43 exterior material finishes now if I take
+54:47 off exterior material and I leave wall
+54:51 in place
+54:53 and instead I go to something like
+54:56 can you do cabinets oh light okay then
+54:59 you're now giving me lights that are
+55:01 mounted to walls this is how I set my
+55:03 tag system up so that I can kind of
+55:05 generically punch through here yeah I
+55:07 mean I can do I've got in here cabinets
+55:09 table
+55:11 it's with all the remnants who kicked
+55:13 Renee off not me bye Renee
+55:17 look we got internet ghosts bugging us
+55:20 today
+55:22 um I think it's because of the rider
+55:23 strike
+55:25 could be okay
+55:27 that works what other conspiracy
+55:30 theories could we come up with here um
+55:33 well hopefully he'll be right back all
+55:35 right let's continue we got just a few
+55:36 more things I've got
+55:38 50 items on my list we'll be back next
+55:40 time doing the same thing okay
+55:43 um because we're not going to get
+55:44 through very much of this uh add a
+55:46 clickable URL in notes
+55:48 for your library Adams so again
+55:51 um you're not showing your screen down
+55:52 that's clickable that's clickable on a
+55:55 PDF
+55:56 yes yes now uh again back to take to get
+56:00 and start using tags I didn't really
+56:02 know how they work but after watching
+56:04 Renea going oh cool I can do that both
+56:07 John and I have this we have these
+56:09 conversations about all the time about
+56:10 how horrible we are at savings things to
+56:12 our libraries so we can use them over
+56:14 and over again
+56:15 um hi Renee I might be able to figure
+56:17 out you know we didn't do that I swear
+56:22 it was the ghost Ethan sent me a set of
+56:25 plans um so I could review them and as a
+56:28 PDF and on the first page he had um he
+56:32 had a UL he had a URL clicked to the um
+56:36 3D viewer
+56:37 which was pretty cool yeah it was very
+56:39 cool I really like that so thank you
+56:41 Ethan
+56:43 um okay back to we're going to cover a
+56:45 few more things then I'll answer this
+56:47 question yeah I have all my tags as dot
+56:50 tag that's because you can quickly type
+56:52 in your browser dot you know whatever
+56:55 your tag is on hit enter and it's going
+56:56 to enable that tag so even if it's a
+56:59 generic you know otherwise if you're
+57:01 using generic tag term names that might
+57:03 be in other searches that doesn't work
+57:05 so if you put something so you put it up
+57:07 here something you put the you don't put
+57:09 the word dot you put a period before
+57:11 period tag right so you could just type
+57:13 that out hit enter and it's going to
+57:15 enable that tag real quick got it like
+57:19 it
+57:20 um
+57:20 okay a couple more things and we'll have
+57:22 to call a day but we'll I think we're
+57:24 gonna do next Friday again uh this is
+57:26 the second Friday of the month
+57:28 um but we were gone last Friday so we're
+57:30 doing that and then we'll do next Friday
+57:31 we'll pick up on the same topic uh see
+57:34 if we can't get through more of our list
+57:37 um the next thing I wanted to talk about
+57:40 real quick is adding clickable URL and
+57:42 notes for library items what that means
+57:45 is it's kind of a you had to cool if we
+57:48 could have if we could just click on the
+57:49 item and go to the URL uh I don't think
+57:52 that's gonna happen
+57:54 but when you put something in your plan
+57:57 and
+57:59 um
+57:59 I can use my new
+58:01 alt middle wheel to do this I like this
+58:05 this is this is Don the list of ways but
+58:08 you don't have to go click that button
+58:09 you can be in any mode alt control wheel
+58:14 all Center wheel
+58:16 not control alt Center wheel
+58:18 um okay where is that thing I had in my
+58:21 plan I had
+58:24 [Music]
+58:26 let me get rid of
+58:28 these things up here built a shelf and I
+58:32 put a URL right here
+58:34 okay oh my God so if you have an item in
+58:37 your user library and you want to just
+58:40 always have access to go to the
+58:43 to the website for that item just click
+58:45 on it and Bam you're right there and you
+58:47 sign up for classes uh
+58:49 so that's kind of cool and then the
+58:52 other thing we'll talk about next time
+58:53 is if you use an URL in on your schedule
+58:56 so if I were to put this in my plan and
+59:00 I typed in under like components no
+59:04 under object information let's say I put
+59:06 a URL under comment okay so I put
+59:11 um
+59:16 so I put that URL there when I print
+59:19 that schedule that will be a clickable
+59:21 link
+59:23 you know what I would I would say to be
+59:26 careful of that one because sometimes if
+59:29 you don't make sure that you've
+59:31 confirmed like a kitchen bath designer
+59:32 right if a client happens to change an
+59:34 appliance and you're not totally aware
+59:37 of it you're sending specs for an
+59:39 appliance that they're not using right
+59:40 so you have to really be careful if
+59:44 you're use if the client said this is
+59:46 what you're using and they make a change
+59:48 and you're not catching that that can be
+59:51 a problem later and then you're going to
+59:52 be responsible and I don't want to buy
+59:54 somebody's refrigerator panel so be
+59:57 really aware of that one if you do that
+59:59 yeah understandable uh that makes good
+1:00:02 sense so uh as with all of your
+1:00:05 schedules if you're putting schedules on
+1:00:07 a plan they need to be right so don't
+1:00:10 just put them there because they're
+1:00:11 pretty make them so that people can use
+1:00:13 them I don't think I think that goes
+1:00:15 without saying all right uh anything you
+1:00:18 guys want to add we're going to pick
+1:00:19 this same topic up again next week and
+1:00:21 see if we can't get a little bit more
+1:00:22 down our list uh you guys got anything
+1:00:25 you want to add
+1:00:26 no I sent you my list which
+1:00:28 um we covered a few of those no we
+1:00:30 didn't we didn't cover it no we didn't
+1:00:32 we didn't get down to them but that's
+1:00:33 okay Kevin's list we talked about that
+1:00:35 so he because we showed some of the new
+1:00:39 features Kevin oh before you guys
+1:00:42 tip at the end here um because this came
+1:00:45 up in a training I just did uh a lot of
+1:00:48 people don't know that just clicking
+1:00:49 your right Mouse button while you're in
+1:00:51 the middle of an action with your left
+1:00:52 Mouse button cancels the auction
+1:00:59 say that again if you're clicking your
+1:01:02 left Mouse and dragging or doing some
+1:01:04 action in Chief if if while you're doing
+1:01:07 that action you click on your right
+1:01:09 Mouse button it cancels the option so if
+1:01:11 you start drawing a wall and you decide
+1:01:13 you don't want the wall you can click on
+1:01:15 the right Mouse button it's going to
+1:01:16 stop that action cool is that the same
+1:01:18 thing as the space bar
+1:01:22 objects I think by default no it's um
+1:01:25 it's a it's cancel I think I'm actually
+1:01:28 not sure what it's bound to but
+1:01:30 um like if you do continuous draw mode
+1:01:32 and you're drawing a bunch of walls you
+1:01:34 can always stop the last segment just by
+1:01:36 hitting that right right Mouse button it
+1:01:39 might be bound to escape because it does
+1:01:41 the same thing
+1:01:43 all right do you have to have the left
+1:01:45 mouse key selected at the same time as
+1:01:47 the right so they both you have to click
+1:01:49 click both of them but when you're home
+1:01:51 when you find yourself dragging
+1:01:52 something across the room that wasn't
+1:01:54 what you meant to grab it's really nice
+1:01:55 to be able to cancel it so absolutely no
+1:01:58 it's good cool
+1:02:00 um reach out to John if you need help
+1:02:02 with plan John what's your url
+1:02:06 my URL uh
+1:02:08 imagine hyphen drafting at g at uh.com
+1:02:12 imagine
+1:02:15 if you need help with your uh if you
+1:02:18 guys out there need help with your
+1:02:19 business Kevin designed build Mentor
+1:02:21 don't type in Kevin the comedies I've
+1:02:23 just designed buildmenter.com
+1:02:26 um you can sign up for a free you got a
+1:02:28 free calls that you can you do with
+1:02:30 people Kevin yep yep yep cool so uh
+1:02:32 check it out Robin you're just working
+1:02:34 at Community College so if you want to
+1:02:36 see Robin you got to go join a community
+1:02:37 college
+1:02:39 um exactly
+1:02:40 and then of course Renee with rabbit
+1:02:43 design dot nut
+1:02:45 and of course Banner setup so yes yes
+1:02:48 and then chiefexperts.com you guys want
+1:02:51 to uh join some of my classes and uh if
+1:02:54 you haven't if you're catching this
+1:02:56 somehow so then you haven't registered
+1:02:57 for the designer shovo to go to
+1:02:59 designersshow.com and RSVP so you're on
+1:03:03 our mailing list and we'll let you know
+1:03:04 all the time about these shows but most
+1:03:06 of you are pretty probably already on
+1:03:07 that thanks everyone for being here we
+1:03:09 ran over a little bit uh we'll catch you
+1:03:11 next Friday third Friday of the month
+1:03:13 and we'll continue with the same topic
+1:03:16 thanks everyone see you soon thank you
+1:03:18 bye see you guys later yeah bye

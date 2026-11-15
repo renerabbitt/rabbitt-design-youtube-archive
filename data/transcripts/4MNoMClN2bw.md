@@ -1,0 +1,701 @@
+---
+videoId: 4MNoMClN2bw
+title: Late Night Project Work and Library Templating
+url: "https://www.youtube.com/watch?v=4MNoMClN2bw"
+status: imported
+---
+
+# Transcript
+
+0:01 uh
+0:06 okay
+0:09 okay okay okay okay
+0:16 oh okay
+0:24 so much work to do
+0:28 There She Goes
+0:32 where is this wall sconce go
+0:35 good question
+0:40 um
+0:47 he expect sheets while Scots or Scots
+0:52 goes
+0:54 and where
+0:57 kids bathroom
+1:00 new kids bathroom new kids bathroom okay
+1:05 oh it's right in front of me
+1:07 oh
+1:08 oh
+1:15 and
+1:16 bathroom bathroom
+1:18 closet bath
+1:21 master bedroom bedroom bedroom bath this
+1:24 has got to be it
+1:27 right that's gotta be it
+1:30 so we have
+1:38 we have
+1:40 zones cool
+1:46 what is that that is a
+1:51 there's an archway there's an archway
+1:57 it's a walnut archway
+2:00 see how it's going on that's kind of
+2:01 cool
+2:04 um who in the right mind slams
+2:08 no that doesn't make sense that doesn't
+2:11 make sense
+2:12 [Music]
+2:16 some built in and some tub that's a tub
+2:18 nope doesn't make sense
+2:21 um it's always interesting working for
+2:22 other people
+2:24 foreign
+2:26 I say that with no
+2:32 no slight whatsoever uh who's this I
+2:35 don't know who this is
+2:37 because we gotta authorize stream yard
+2:40 to see your name
+2:42 is all
+2:43 that's all it is that's all that takes
+2:47 um
+2:48 it's always interesting working for
+2:50 other people
+2:51 it really is
+2:53 because they do things that I wouldn't
+2:54 do
+2:58 he says very nicely
+3:00 uh that's got nice hey bud
+3:04 uh
+3:06 uh yes I gotta interpret this what the
+3:08 heck is this
+3:10 this is oops didn't mean to place a
+3:13 cabinet there
+3:17 um
+3:18 there's some kind of arch and this is a
+3:21 kid's bathroom and that's a bathtub
+3:24 which makes sense with this
+3:27 and I don't see where this little false
+3:30 wall for the arch is showing up but
+3:34 huh
+3:35 and there's no toilet being shown here
+3:38 so this couldn't possibly be that room
+3:43 which
+3:45 so what does that mean
+3:48 another bathroom down here no
+3:53 bizarre
+3:55 you get briefs and the briefs don't make
+3:57 sense
+3:58 guest room storage restroom okay nothing
+4:04 bedroom it has to be this room
+4:08 and they show no toilet
+4:12 and that is new primary oh new primary
+4:15 bathroom selections so that's this
+4:21 okay so there's an arch here
+4:23 nice to know
+4:25 all right
+4:28 simple enough
+4:30 doorway a little Arch
+4:34 low Jam
+4:36 snappy snappy
+4:49 approach
+4:54 um what is this an elliptical arch no
+4:57 this is a broken
+4:59 kind of kind of a mix between the ore oh
+5:03 it's not tutor but it's uh
+5:06 it's not really a flat top either
+5:10 kind of a funny one almost have to make
+5:12 a custom symbol for that Round Top
+5:14 broken Arch
+5:20 probably the closest
+5:27 let's go
+5:30 yeah that's about right
+5:35 so then one nine 21 inch who calls on
+5:40 stuff like that so we got a 21 inch
+5:42 three drawer base
+5:45 which
+5:47 what are we gonna have a 22 inch
+5:50 depth
+5:52 what's this depth gonna be
+5:57 21 inch depth
+5:59 21 inch depth
+6:02 21 inch width
+6:07 oops
+6:10 your base
+6:17 why is this scooting this over that was
+6:19 weird
+6:24 what the heck is going on chief
+6:29 yo
+6:31 that's so weird it's moving it over
+6:32 instead of resizing it weird
+6:39 what man it's on the offsides of this
+6:42 beard
+6:44 um
+6:49 there you go
+6:51 here
+6:53 anybody notice
+6:55 the 3D mouse has got some weird lag
+7:00 weird
+7:03 might need to move my dongle
+7:12 come on
+7:16 three
+7:21 four
+7:29 okay yeah that pretty much fits
+7:36 full height full height
+7:39 sync base
+7:46 okay
+7:51 and then some responses I don't have
+7:58 uh this is Chief Architect
+8:01 Chief Architect x-15s the newest version
+8:07 newest version
+8:11 um lost a little bit of software here
+8:12 I'll give you a little rendering tour
+8:15 let's go down to four
+8:33 see if we can render and stream at the
+8:35 same time
+8:37 challenging
+8:39 yeah I did it there you go this is the
+8:43 downstairs which is
+8:45 getting close to complete
+9:00 from crammed in a new hotkey and I don't
+9:03 know
+9:05 what I did with it what did I do with it
+9:09 nothing no nothing there
+9:13 huh
+9:15 I wonder if I did it here
+9:18 that do nope
+9:20 well there
+9:23 oh
+9:29 didn't program new hockey okay
+9:34 oops
+9:36 uh technically it is drawing in 3D and
+9:40 it does produce CAD from that 3D yes
+9:46 so we're looking at this so This
+9:47 eventually turns into construction
+9:49 documents
+9:50 I don't know what's going on like my 3D
+9:52 mouse is lagging all over the place but
+9:54 um two different types of plans
+9:57 excuse me two different types of file
+9:58 types this is what would be called a
+10:00 layout and um some similar to like a PDF
+10:04 compiler and then you send elements from
+10:07 your plan file which is what I was
+10:09 working in and that produces the
+10:12 documents from there so
+10:14 um yes not only can we get live
+10:16 elevation views
+10:18 live camera views and other stuff but
+10:21 it'll build details all kinds of things
+10:24 so
+10:25 um I don't think that there's a faster
+10:27 software on the market for residential
+10:31 um
+10:33 and right now I'm just going through a
+10:35 design brief
+10:37 and matching it up
+10:43 matching it one
+10:46 one five and a quarter what a weird
+10:49 dimension
+10:55 that's so strange
+11:07 thank you
+11:10 and three jar base
+11:16 and probably
+11:19 three inch
+11:27 that's the one five and a quarter and
+11:46 I said third base right yeah
+11:54 apply double door
+12:02 and there we go
+12:30 this is one two three centered on
+12:34 cabinets
+12:53 um I am drawing over a PDF
+12:55 I have
+12:57 some actions in Photoshop that will
+13:00 remove the background of a PDF and
+13:02 convert all lines to Green
+13:04 so that it's easier to trace if you want
+13:07 to so I'm using that as a reference this
+13:09 is a project for an interior designer
+13:12 firm that is working with an architect
+13:15 so the architect provides the drawings
+13:17 the interior design firm is going to be
+13:20 designing all the Interiors the
+13:21 architect didn't really do anything
+13:22 besides space planning and then I am the
+13:25 one that's actually producing the
+13:26 construction documents and renderings
+13:28 for that project
+13:33 and right now I'm just looking at spec
+13:38 and trying to figure out what happened
+13:39 to my sconces there they are
+13:42 way down here which means I gotta modify
+13:44 them
+13:46 in my library
+13:48 because it should be placed
+13:51 um
+13:51 it looks like
+13:54 six foot six two
+13:58 height of mirror and the mirror is three
+14:00 foot mine's
+14:02 uh 18 inches so
+14:06 what is that 72 minus 18 56 or something
+14:09 like that
+14:11 so let's just say General
+14:14 height to Center let's go 56. why not
+14:35 that looks low
+14:37 that does look low
+14:40 with the tile it's going to be floor to
+14:42 finish is going to be kids bathroom
+14:44 finishes
+14:47 um oh I have something similar to that
+14:48 nice
+14:51 let's look at my new filter system
+14:54 okay so I'm looking for
+14:56 bathroom so bath closet
+15:00 materials tile should get me to tile
+15:03 nice
+15:05 Ah that's nice
+15:12 gotta love a good system
+15:16 all right
+15:18 and what is it 4x4 checkered that's
+15:21 exactly right perfect
+15:34 perfect
+15:41 White Oak cabinet yeah that's correct
+15:46 um counter option
+15:48 okay let's try a system again
+15:51 we need
+15:53 counters
+15:55 and I didn't tag that appropriately okay
+15:58 how about materials
+16:02 and kitchen
+16:04 there you go
+16:05 that works well
+16:14 and the tiles go in there too I need to
+16:16 tag my counters
+16:20 let's go already
+16:25 there we go and now these should all be
+16:28 tagged
+16:31 bam
+16:33 okay so what do we need we need some
+16:37 kind of light wash
+16:40 actually not that far off
+16:48 yeah it's not that far off
+16:52 let's throw an eased edge because this
+16:54 is going to get rendered
+16:57 these guys there
+16:59 eased edge here
+17:13 what's this look like
+17:20 it's a little strong
+17:25 more like this maybe
+17:33 it's also a little strong
+17:35 just got kind of a wash the brief has
+17:39 just kind of a wash
+17:41 really is the closest one
+17:43 is the original one
+17:48 yeah ish ish
+17:52 oh what's the sink oh I got the sink
+17:55 sweet sinks right
+18:00 what is that sink
+18:03 the faucet's wrong
+18:05 I don't have that faucet Alexia what's
+18:08 Alexia as a brand
+18:11 counter option b counter option C
+18:15 cabinet option white oak or wood painted
+18:19 wall paint is just
+18:21 white matte
+18:28 it's got to be a window in here there is
+18:29 a window in here
+18:31 why am I not seeing the window in here
+18:37 huh
+18:40 okay
+18:43 oh there's no window in there
+18:45 that's crazy
+18:49 that's crazy
+18:52 okay
+18:54 and you got a bathtub so let's use my
+18:56 little kit
+19:07 and I don't know what kind of bathtub it
+19:09 is
+19:11 so we're gonna have to geek with that
+19:12 later
+19:18 and I'm guessing
+19:20 shower doors
+19:33 it's weird concentrically resizing in
+19:35 the inverse
+19:37 Chief doing some funny things
+19:41 funny things
+19:49 foreign
+19:59 shower walls are weird very it's a very
+20:04 rustic looking look and feel for this
+20:06 place
+20:08 and let's go four inches
+20:13 down to the ground
+20:31 oh yeah yeah
+20:33 baloney
+20:35 baloney
+20:38 um some kind of oh it does not sure fine
+20:42 here fix it there
+20:46 some kind of do not show me that message
+20:49 again thank you I know okay
+20:54 um some kind of rustic looking shower
+20:57 wall stuff
+20:59 what is this this is I have to make this
+21:03 material
+21:09 see if I can get a picture of the
+21:12 interweb
+21:14 this
+21:16 anybody ever use
+21:18 Google image search
+21:21 based on a screen clipping works pretty
+21:24 well
+21:27 and there it is neutral white thin thin
+21:30 Zella zelige
+21:33 new things a liege huh
+21:37 it's a small
+21:39 small image
+21:41 hmm
+21:47 you kicked over to YouTube funny
+21:52 click the wrong Photoshop dang it
+21:55 One beta
+22:00 beta beta beta beta beta beta beta beta
+22:02 beta
+22:03 beta
+22:16 oh let's see
+22:32 and
+22:34 Photoshop
+22:35 Photoshop
+22:37 no yep that's it Photoshop
+22:45 oh well it's a 1024 image not quite
+22:51 not quite
+22:54 how are we gonna get this to we'll do
+22:57 this the easy way
+22:59 ish easy-ish way
+23:04 um
+23:18 gonna have to be like that I think
+23:29 um
+23:33 I don't want to crop I wanna
+23:37 give it size
+23:39 canvas size I want camera size canvas
+23:44 canvas size relative two and then times
+23:49 two
+23:51 and then times two
+23:56 and then
+24:00 this and flipping
+24:06 and
+24:07 shoot
+24:09 is that right yeah that's right
+24:12 and then this
+24:18 is crazy
+24:24 let's
+24:29 [Music]
+24:34 yeah sure
+24:41 close
+24:43 ish
+24:45 not really actually
+24:48 that works at all so we're gonna pick
+24:50 part of this
+24:54 for this that's good because this is
+24:57 gonna look crazy all this dark up next
+25:00 to all this lights
+25:09 in my pen
+25:14 [Music]
+25:19 and
+25:21 3D mouse
+25:23 okay
+25:24 and what I want to do I'm gonna get used
+25:27 to my hotkeys on this thing it's going
+25:29 to take me a minute
+25:31 okay hockey no hockey there it goes
+25:37 oh that's not about one aha
+25:43 there we go
+25:48 pressure sensitive yeah it is
+26:13 let's see let's go with that
+26:16 wait a minute this is all wrong we got
+26:19 two stacked
+26:20 oh
+26:22 dang it
+26:27 a little tired
+26:29 I think I'm thinking clearly
+26:32 because that should be here
+26:58 laughs
+27:07 see so what we want
+27:10 something like this
+27:37 where's my space button
+27:40 well
+27:42 we're gonna program my space button
+27:46 I'm not programming space button
+27:49 oh come on
+27:51 oh that's right I don't use the space
+27:52 button ha
+27:55 that works so much better
+27:57 well getting used to using a space Mouse
+28:00 on
+28:01 Photoshop it takes a little bit but
+28:05 once you get it it's kind of Awesome
+28:20 mm-hmm
+28:23 hmm
+28:25 I mean the movement's a little jerky but
+28:28 it still works
+28:30 actually works quite well
+28:44 um
+28:53 so now does this
+28:56 pile
+28:59 how to get it to tile it's the next
+29:02 question
+29:04 where do we cut it to get it to tile
+29:18 pattern maker no I never use illustrator
+29:21 um
+29:22 never got into it I don't know
+29:29 can we nudge I thought we could we can
+29:33 kind of nudge yeah
+29:35 and then
+29:38 yeah that looks right so the left to
+29:41 right
+29:43 needs to be cut
+29:47 kind of here
+29:53 ish ish we'll check it let's see
+29:56 Let's do an offset we'll do a 500 offset
+30:00 so 500.
+30:04 um bad tiles
+30:05 that totally tiles
+30:07 I could work with that
+30:09 okay
+30:11 cool so base texture
+30:13 I control jet and now we got to figure
+30:15 out how to get
+30:17 the grout lines
+30:21 so let's try a couple things let's first
+30:24 of all smart object it and we'll just do
+30:26 a bunch of different stuff
+30:28 write the smart object
+30:30 let's throw on a
+30:33 find edges first that worked pretty well
+30:37 that worked pretty well
+30:40 um let's also just do a
+30:43 High Pass
+30:53 now
+30:54 almost works well
+30:58 some weird stuff at the top of the
+31:00 screen though
+31:03 so without the fine edges High Pass
+31:07 get off of a crop why am I seeing a
+31:10 blank white zone at the top of the
+31:12 screen
+31:14 it's part of the grout line that is
+31:16 bizarre all right I'm gonna cut that
+31:20 it's not working
+31:33 there we go okay
+31:35 now let's see this bad boy
+31:38 High Pass without high pass
+31:41 and what happens when we
+31:47 see what photocopy does I can't get
+31:49 photocopy we need
+31:51 foreground background black white okay
+31:54 now we try
+32:02 let's photocopy give us a little rough
+32:06 let's Note Paper give us
+32:11 no paper does pretty good
+32:19 huh
+32:24 let's try that we'll do a combination of
+32:26 it too
+32:31 yeah that's pretty good
+32:35 let's copy this
+32:38 and let's do kick off filter Gallery
+32:42 leave High Pass
+32:46 and leave fine edges
+32:48 let's play one over the top
+32:52 let's invert it
+32:55 that's pretty good
+32:56 that's pretty good in fact that even
+32:59 works for the roughness map which is
+33:01 even better
+33:02 cool
+33:07 you could probably get a little crazier
+33:09 with the roughness map
+33:12 um
+33:13 let's see
+33:15 [Music]
+33:19 we shall see
+33:23 what was this called This is called
+33:27 um
+33:28 so the liege
+33:31 natural white white they're getting
+33:33 clever with the name huh
+33:35 uh where's my materials materials
+33:37 materials tile
+33:39 and we're gonna categorize this under
+33:42 Subway
+33:46 let's just go slowly tile here we go
+33:55 yes
+34:00 look at that
+34:03 that's it I'll click
+34:06 blah blah blah
+34:09 export paste
+34:13 okay
+34:14 get back to the chief let's get back to
+34:18 stream yard
+34:20 split this on my screen and share a
+34:24 different screen
+34:34 mm-hmm
+34:36 okay Mr subway tile
+34:39 for this room only
+34:41 [Music]
+34:52 see what you look like
+34:56 well and what is the size the size of
+34:59 that is
+35:02 two by six and a half okay
+35:05 two by six and a half
+35:13 did I screw that up no I didn't it looks
+35:16 right okay
+35:18 um how many others one two three four
+35:21 five six seven eight
+35:24 so y scale is
+35:27 eight times two and one eighth
+35:33 all right
+35:36 okay
+35:39 um pattern is not in sync at all why is
+35:42 that this is 2 by
+35:47 2 5 6 and a half
+35:53 that's close
+35:54 doubt it
+35:59 it's our why do we have a horizontal
+36:01 offset
+36:03 [Music]
+36:08 one two three four
+36:11 five six seven eight
+36:15 should be eight by two
+36:18 with an eighth inch grout line yeah no
+36:21 that's right
+36:24 and so
+36:26 why is the pattern so off oh I'm looking
+36:30 at the bump map that's why
+36:32 uh-huh
+36:37 yeah that looks good
+36:44 getting there getting there is there an
+36:46 AO map in here that's right get rid of
+36:49 that
+36:54 perfect and what's the
+36:58 Vector is close gonna have to mess with
+37:01 that a little bit
+37:06 oh it's close though
+37:10 a little off
+37:15 why is it a little off it looks like
+37:17 it's small it's small that's the problem
+37:19 two and an eighth
+37:30 okay
+37:46 yeah
+37:47 sure it's decent
+37:54 could probably pump up the bump pump the
+37:57 bump
+37:58 Pump Pump It Up
+38:02 pump up
+38:06 the bomb
+38:09 I could also do hey oh
+38:16 why did that get so dark
+38:23 yeah
+38:25 yeah
+38:32 um probably also would guess that they
+38:35 have the vowels on the other side
+38:38 wild guess wild hunch
+38:46 and this should flip-flop yep
+38:49 and we can make this solid again
+39:10 someone's lagging my 3D mouse I don't
+39:13 know why
+39:15 um copy paste flip it about
+39:19 the bathtub
+39:21 if I can pick it
+39:23 oh man I can't wait to talk to Chief
+39:24 about this that's been bugging me
+39:26 forever it's so hard to find the Middle
+39:27 Point something
+39:29 which if you're working in 3D means
+39:31 everything so
+39:35 all right so it's still going to make
+39:36 the mirrors for this job
+39:45 and I think that all finishes are this
+39:49 finish
+39:55 and
+39:57 I think that all cabinet drawer handles
+40:03 are the same
+40:17 which is this guy
+40:28 that didn't change anything
+40:30 that was weird
+40:34 they're not set to use default they
+40:37 should be
+40:39 door drawer use default
+40:42 door use default
+40:46 okay
+40:48 um MK something something
+40:52 okay
+40:54 okay
+41:07 Hardware is accountables and knobs are d
+41:11 I would just
+41:13 hardware and user catalog there it goes
+41:23 thank you
+41:40 [Music]
+41:48 all right it's getting late I'm going to
+41:51 send some screenshots
+42:01 to my clients
+42:05 let them know
+42:06 it's work in progress and it's getting
+42:08 there
+42:49 [Music]
+43:21 foreign
+43:41 probably should end the feed
+43:43 dang it
+43:45 no fun I know
+44:05 what is the bathroom fixture oh I don't
+44:07 have the bathroom fixture but I have the
+44:09 bathroom
+44:10 light mirror
+44:13 let's throw it in there real quick
+44:39 two three
+44:46 where is this funky mirror going
+44:50 new Powder Room powder room look at this
+44:53 mirror
+44:54 okay
+45:00 that just gets a square mirror
+45:07 already near
+45:17 I do
+45:20 yeah
+45:49 okay now
+45:53 where this has
+45:56 a few seconds looking for this sconce
+46:04 funny funny little sconce I bet you have
+46:07 something similar
+46:09 hmm
+46:18 man it's slow to navigate sconces in the
+46:21 library I'll say that
+46:23 very slow
+46:32 I need a sconce with a shade
+46:38 hmm
+46:48 there it is that's it that's basically
+46:50 it oh man they do an ugly version of it
+46:53 whew
+46:57 and I end up making this one too dang it
+47:02 oh there it is that's really it yep
+47:05 that's exactly it all right cool
+47:15 and it disappeared
+47:17 be nice if they just left it on the
+47:19 screen for him
+47:22 uh they have two layouts one with
+47:25 Wisconsin one without weird
+47:30 kind of center of
+47:34 oh but that's a really big wall
+47:38 um piece interesting
+47:58 that'll be a nice little preview shot
+48:00 looks like some work's getting done
+48:26 I need to put this in my
+48:32 what am I looking for here
+48:34 um
+48:35 3D Center 3D Center camera on point 3D
+48:41 Center camera on point three focus on
+48:44 object 3D
+48:46 Center camera on point I think is what I
+48:49 want
+48:50 yeah and that changes my field of view
+48:57 in that nice
+49:03 sweet
+49:08 foreign
+50:44 all right it's time to go to bed
+50:48 yep time to go to bed
+51:18 all right y'all take care have a good
+51:19 night thanks for joining me I just
+51:21 wanted company appreciate it
+51:24 cheers

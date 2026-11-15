@@ -1,0 +1,4077 @@
+---
+videoId: prpgrmR8_tY
+title: Workflow Improvements in Chief Architect X15
+url: "https://www.youtube.com/watch?v=prpgrmR8_tY"
+status: imported
+---
+
+# Transcript
+
+0:01 foreign
+0:09 uh one second I gotta close the closet
+0:12 behind me that's not pretty
+0:15 [Music]
+0:23 it's another reason I'm sick of working
+0:24 I want to work on this room make it a
+0:26 lot nicer my equipment said it's really
+0:28 good but
+0:29 the aesthetic is just not there yet
+0:32 um
+0:34 yeah sick of working and
+0:37 you would think let's go take a break
+0:39 right let's go chill out but that's what
+0:42 I've been doing all week is clocking out
+0:44 and then checking out and not doing
+0:47 anything
+0:48 but playing way too much
+0:51 Zelda like that's doing me any good
+0:54 um
+0:56 and so when I'm sickle working what do I
+1:00 what do I like to do
+1:03 well I kind of want to improve my
+1:05 systems
+1:06 because if I improve my systems the next
+1:08 day of work which I'm not looking
+1:10 forward to right now
+1:12 the next day at work might be really fun
+1:17 if everything moves a little faster
+1:20 um
+1:22 and that's my thought so
+1:25 here I am I'm done with the work for the
+1:27 for the day I could just go check out
+1:29 instead I think I'm just going to make
+1:32 everything go faster somehow
+1:35 um
+1:36 and this is impromptu I have no outline
+1:40 um I've gotta I gotta stop saying um I
+1:42 owe everybody a beer every time I say um
+1:50 and I've been encouraged to
+1:54 share
+1:56 share process without editing
+1:59 I've had a lot of people tell me they
+2:01 just want to see the entire process and
+2:04 it's not pretty
+2:06 I don't write out lines I I have to
+2:09 grind for a long time to get into like a
+2:13 higher headspace where everything just
+2:15 starts making sense
+2:17 but the road to that point is really
+2:20 challenging I get distracted easily
+2:24 and I don't know how I come up with the
+2:26 systems I come up with I do think
+2:28 they're great systems I've been told
+2:29 they're good systems
+2:31 and so I keep doing what I'm doing and I
+2:33 stick with this process but it's not a
+2:35 pretty process so it could be that we
+2:37 just run into a bunch of roadblocks and
+2:39 totally fail
+2:41 um the thing I know that I probably can
+2:43 have some success with is improving my
+2:46 library system
+2:48 the thing that I know that I could fail
+2:50 very easily at is improving my layout
+2:54 label system
+2:56 so
+2:57 we might start with the one that I don't
+2:59 fail at so quickly so I'm not just
+3:01 yelling at the camera
+3:03 we'll see how that goes
+3:06 so for those of you that are watching
+3:08 this isn't an outline structured fee
+3:11 this is going to be
+3:13 I could be hours I don't know we'll see
+3:17 how this ends up I have an idea
+3:20 just
+3:21 a small idea in my head on
+3:25 how to improve my library system
+3:28 and
+3:31 and I think I can kind of run with that
+3:33 and just check real quick to see if it
+3:37 fails
+3:40 and go from there
+3:42 um because it if everything I try fails
+3:46 I'm just going to be going and playing
+3:47 more Zelda so and call it a night and
+3:50 drink some wine
+3:52 uh cell
+3:55 and then real quick shout out to Chief
+3:58 Architect I haven't done many videos
+4:00 I've been kind of pulling away from
+4:03 having my YouTube channels so
+4:07 tightly associated with Chief Architect
+4:10 and trying to expand and get a broader
+4:12 audience but
+4:13 truth be told that's really what
+4:16 got me any followers in the first place
+4:18 and I just won one of their design
+4:20 contests and I appreciate this design
+4:23 contests I you know I
+4:26 I don't know how valid they are that we
+4:28 maybe I've got more name exposure so
+4:31 maybe I get more likes just based on
+4:33 that and people are being nice to me and
+4:34 that's why I win it's not like a panel
+4:36 of Judges that gets you to win but they
+4:38 do send you a care package
+4:42 and it's a cool care package
+4:45 um
+4:46 I get a little
+4:48 a little
+4:49 oh this is I've never had one of these
+4:52 I've never graduated anything so this is
+4:54 someone tell me the name I can't think
+4:57 of it
+4:58 um they give me a VR thing which you
+5:00 know my VR headset's 1500 bucks so this
+5:04 is this is fun I might just give it to
+5:06 someone who knows a notepad and I don't
+5:08 think I even have any pencils in the
+5:10 house because I'm All Digital everything
+5:14 so that's cool I've I've had a bunch of
+5:16 these Chief Architect mouse pads and I
+5:18 actually really like them
+5:20 all my hotkeys are different so this
+5:22 doesn't help me but I still like the
+5:24 mouse pad
+5:25 uh they give you the water bottle which
+5:27 I'm always happy about I have their Yeti
+5:30 coffee mug which is really good and then
+5:34 um
+5:35 this is a favorite I've been playing a
+5:37 bunch of card games so if you're going
+5:38 to meet me in August September in
+5:41 Quarterland Idaho at headquarters I'll
+5:43 teach you Vietnamese cards National card
+5:45 game of Vietnam I've Been Told
+5:48 and uh
+5:49 and we'll be using the Chief Architect
+5:51 deck and then you get a personal note
+5:53 and that's actually what really made me
+5:55 smile the most so I know who it's from
+5:57 it's from Danielle over at Chief
+5:59 Architect she's been awesome with me for
+6:02 my entire career with them so
+6:04 that's cool that one's gonna be a keeper
+6:08 um so let's get into this try to get
+6:11 into this and uh
+6:14 and I think maybe my attitude will kick
+6:18 off after we maybe have some success so
+6:20 let's hope for that
+6:23 so here's what I'm thinking
+6:29 tags are stackable
+6:32 and so
+6:36 I want to be able to find things faster
+6:39 by combining tags
+6:45 it's not that you know incredible of an
+6:47 idea I'm sure anyone could come up with
+6:49 it that's a pretty simple and
+6:51 straightforward one but it's the system
+6:53 that you've got to come up with that
+6:55 would make this make sense and so
+6:57 because I already have products out
+6:58 there that's easy to start with those
+7:00 how do I find my own products really
+7:02 quickly because believe it or not I use
+7:05 my stuff probably more than you use my
+7:07 stuff if you've bought my stuff so
+7:10 um and I want to be able to get to it
+7:12 very quickly now I know I can type in Rd
+7:15 painter and that's going to get me to
+7:19 that's going to get me to a few things
+7:22 that are style palettes and there you go
+7:26 there's a list of style palettes right
+7:28 there that have that search attribute
+7:33 but I think it's cooler to have the tag
+7:35 system put into place and maybe have
+7:37 tags at the top of the screen I don't
+7:39 know
+7:40 and Shrink this down a little bit
+7:43 and maybe get rid of all my existing
+7:45 tags and start over with this new system
+7:47 I don't know a quick way of getting
+7:49 getting rid of all tags
+7:51 um that sounds challenging but
+7:55 so here's what I'm thinking I've got
+7:58 now Artie painter got applied to some
+8:00 things that aren't really painters so
+8:05 let's add in here
+8:07 edits we're looking for Style palette
+8:10 pipe style palette okay so that gets me
+8:13 there
+8:14 so here's what I want to start with I'm
+8:16 going to start just by tagging all these
+8:19 as painter manage tags new tag
+8:24 ER
+8:27 I'm calling painter because it's easier
+8:28 than calling it style palette but I
+8:30 guess
+8:31 either or it's just my internal name for
+8:34 it so I want to I'm going to call it
+8:36 painter
+8:37 all right so we've got painter applied
+8:39 now I know that that actually doesn't
+8:41 pick up my shelf system which also has
+8:44 painter tools and my closet system so
+8:48 now let's find those two systems so
+8:51 let's close out the filters and then I
+8:53 know that I've already tagged my shelf
+8:55 system and I've actually already tagged
+8:57 shelf painter so let's uncheck shelf
+8:59 system here's my shelf painter so now
+9:02 let's grab these
+9:03 and
+9:06 I don't think I want to call them shelf
+9:08 painters anymore so I'm going to undo
+9:09 this tag
+9:11 and I'm going to apply painter
+9:15 okay
+9:16 and so now here's the Stacked thought
+9:19 right is that
+9:21 I'm going to click on painter
+9:24 and this is what's going to take a
+9:26 little bit of time here's my two shells
+9:27 I want to be able to add a tag to these
+9:30 that are shelves so
+9:33 yeah
+9:34 I think
+9:36 I think I do and we already have shelves
+9:40 um
+9:43 style palette common text for items okay
+9:46 that's interesting shows you common tax
+9:48 okay so now let's try this when I click
+9:51 on painter
+9:54 and then I click on shelves there you go
+9:58 gets me my shelf painters
+10:00 if I uncheck painter it gets me all my
+10:03 shelves
+10:07 okay that works except for now the
+10:10 painters are included with my individual
+10:12 shelves and how do you
+10:14 filter this part down
+10:20 so maybe shells should be shelf system I
+10:24 don't know we'll have to keep thinking
+10:25 through that part
+10:27 so here's the next
+10:29 part
+10:31 is I think that when we organize things
+10:33 by when we're searching for something or
+10:35 we're looking for color
+10:37 are we looking for
+10:41 type
+10:42 so I'm going to work through something
+10:44 I'm working through a kitchen I'm
+10:45 looking for
+10:47 appliances and I'm looking for a
+10:50 finished color
+10:51 right so maybe Chrome is a filter
+10:55 but
+10:57 you can paint anything
+11:01 so maybe we want colors as a separate
+11:03 filter okay
+11:06 how else would we narrow down results
+11:08 looking for appliances and then I'm
+11:10 looking for ranges
+11:12 maybe I want to click on appliances to
+11:14 get the full the full list and maybe I
+11:17 want to click on kitchen to get kitchen
+11:19 appliances
+11:20 so maybe it's large appliances is a
+11:22 filter
+11:25 so
+11:26 how do we start
+11:29 let me see if I can just locate my
+11:31 appliances then
+11:35 shop items full kitchen Suite
+11:38 appliances
+11:40 and I actually don't have many in here
+11:42 oh yeah I do I'm not showing my
+11:44 subfolders there we go
+11:47 and I would think that everything in
+11:48 here
+11:50 is a large Appliance and we're going to
+11:52 call microwaves large Appliance
+11:54 and warming drawers apparently so
+11:58 let's just control a select all
+12:05 and then large plastic now we're gonna
+12:06 have to rename this stuff so that it's
+12:08 kind of grouped in the way that we want
+12:10 because the only sort order is
+12:12 alphabetical
+12:17 acne large appliances yes
+12:23 okay so now that's all large appliances
+12:26 but specifically it's kitchens right so
+12:31 I think everything that's in my kitchen
+12:34 Suite should be tagged with kitchens so
+12:37 that you can quickly narrow down to
+12:40 those results
+12:41 right
+12:48 yeah and it's a lot of items
+12:50 so again control all
+12:54 and
+12:55 tags and kitchens
+13:05 now I don't there's no way I'm going to
+13:07 finish whatever system I come up with
+13:09 but we might be able to just build the
+13:11 structure for it right so manage tags
+13:15 and then just kitchens
+13:22 okay
+13:30 so clear filter let's uncheck the search
+13:33 online because it's probably going to
+13:34 slow some things down I do agree that
+13:36 the library browser seems way slower
+13:38 than previous versions I know it's been
+13:40 said a bunch of times
+13:41 um
+13:43 I am also dealing with huge poly counts
+13:46 in some of my stuff so maybe that has
+13:49 something to do with it
+13:50 I don't know
+13:52 but I run into this slow down every once
+13:54 in a while
+14:06 and this might be crashing I don't know
+14:09 I don't know what's going on
+14:12 I hit Ctrl a we just select all so
+14:16 oops
+14:19 oops oops oops
+14:29 hmm
+14:31 dead
+14:33 dead dead oh no there goes what's going
+14:36 on
+14:38 it's doing something I used to run my
+14:40 library from a ram disk
+14:44 and uh
+14:46 that actually worked really well
+14:50 Okay so
+14:53 now I click on kitchens pops up right
+14:57 that's everything in kitchens
+15:00 if we click on where's our appliances I
+15:02 don't see appliances
+15:06 large appliances
+15:08 that gets us large appliances okay
+15:10 uncheck large appliances go to painters
+15:14 that gets us just the kitchen painters
+15:16 now we want just the Shelf painters no
+15:19 kitchen painters yeah all right so I
+15:22 like this
+15:23 this is better
+15:25 um
+15:30 appliances dishwasher now do you go
+15:32 through and
+15:33 you know go by type like that can get
+15:37 really busy in the tag list very quickly
+15:39 right
+15:42 like I know that I have in here just
+15:43 kitchen microwaves
+15:46 but I think what's good enough is do we
+15:48 get to large appliances and then
+15:52 and then search microwaves
+15:59 or do you want that one more filter
+16:01 where it's all these individual pieces
+16:03 because the tags will just stack up
+16:04 really quickly
+16:06 but does it matter if tags is taking up
+16:08 more screen real estate if you know that
+16:10 you're getting to what you want so fast
+16:13 that you don't need to browse through
+16:15 anything
+16:17 that's kind of the next one
+16:19 it's a good question okay so what else
+16:22 do I have in here cabinet doors
+16:23 something I run into all the time so I
+16:26 feel like kitchens is already it's
+16:28 already tagged
+16:30 kitchens
+16:31 so now I should be able to create the
+16:34 tag doors and have that stack right
+16:37 so
+16:43 if we select all these
+16:48 doors
+16:50 and indoors okay
+16:54 and for argument's sake let's
+16:58 let's go type
+17:02 I go type coin door
+17:06 s
+17:08 so these are all the doors and then user
+17:11 catalog specific these are all my
+17:13 specific
+17:14 doors
+17:18 so let's tag these doors
+17:22 I say doors one more time
+17:25 so now when we are just clicking
+17:29 unfiltered doors and unfiltered catalogs
+17:31 and let's try this
+17:32 so we get doors
+17:36 and this is going to give us cabinet
+17:37 doors
+17:39 and
+17:40 entry doors and exterior doors so we
+17:44 know that we can filter down by kitchens
+17:46 and get cabinet doors
+17:48 cool I like it alright which means that
+17:51 we need to be able to filter down what
+17:54 so interior and exterior seems like a
+17:58 pretty prudent thing and that you would
+17:59 even apply to fixtures so I like that
+18:03 interior and exterior so let's add some
+18:05 tags interior
+18:10 exterior we know that all the tags that
+18:12 are white are my new system so that's
+18:13 good
+18:15 you know creating our own little filter
+18:17 from all that white stuff that'll make
+18:18 it easier to rename
+18:20 so
+18:22 let's get back into doors and then
+18:28 I don't want cabinet doors so we can do
+18:31 type doors
+18:36 and now what is this these are these are
+18:39 all
+18:42 exterior doors some of these are door
+18:44 panels for garage doors
+18:47 what is this surface
+18:50 let's change the preview
+18:53 surface door slab okay
+18:56 we're just gonna argument say call all
+18:58 these exterior doors
+19:04 manage tags
+19:09 exterior
+19:11 okay now let's go back
+19:18 and keep in mind when you build your own
+19:21 system out if you export your library if
+19:23 you've got an office and you've got one
+19:25 person tasked with building a
+19:27 comprehensive system when you export
+19:29 your library the tags come with it now
+19:31 that's in the latest version of X15 so
+19:34 that's good to know so this work isn't
+19:37 just lost I can distribute it right
+19:40 um so click on doors and I want exterior
+19:43 doors
+19:45 sweet okay uncheck exterior doors I want
+19:49 cabinet doors kitchen bam okay
+19:53 so maybe on top of cabinet uh kitchen
+19:57 doors we also call these cabinet because
+19:59 I feel like cabinets will apply to other
+20:01 things like everything that's built out
+20:04 of a cabinet so
+20:06 let's manage
+20:15 and now let's go type cabinet
+20:20 uh
+20:24 let's go type cabinet
+20:27 and we can do cabinet doors so we'll do
+20:29 cabinets as well so this gives me
+20:32 everything that I've built out of a
+20:33 cabinet which is a lot of stuff
+20:38 and let's limit to the user catalog
+20:44 okay
+21:03 there we go
+21:11 and then
+21:14 I also want to type
+21:17 cabinet door did I already do that I
+21:19 can't remember now did we also call
+21:24 all of this cabinet doors
+21:45 some of it is cabinets okay
+21:48 okay so I should be able to
+22:00 it's today
+22:09 it's moving slow
+22:17 I think I'm gonna stop this part
+22:20 um
+22:22 because I feel like the system works
+22:24 so I can just grind on this at some
+22:26 point
+22:29 I do have you know consideration for my
+22:32 audience that you guys might be bored to
+22:33 tears of this once we've done it you
+22:35 know 10 different ways
+22:37 and then it's just me plugging in the
+22:40 hours and that's really you know anytime
+22:42 you buy my stuff that's what you're
+22:43 paying for us I'm putting in hours and
+22:45 hours and hours on this stuff to make it
+22:48 Polished in a comprehensive system that
+22:51 works across
+22:53 not just my system but I you know as
+22:55 soon as I get off camera I got to
+22:56 consider does this work for someone
+22:58 else's system as well right
+23:00 that's the big question can someone else
+23:02 adopt this can someone else jump in half
+23:06 stream halfway and you and utilize the
+23:08 system and integrate their own stuff
+23:10 into the system and be very happy with
+23:12 it so all right so I should be able to
+23:14 click cabinets now it gets me 500
+23:16 cabinets and then I should be able to
+23:18 click doors gets me cabinet doors
+23:20 awesome
+23:22 awesome I love that
+23:24 cabinets okay so uncheck cabinets and
+23:28 click on
+23:30 to shelf give me something yeah it does
+23:32 look at that that got me to just my
+23:35 shelves and not the painters uncheck
+23:38 cabinets and click on
+23:41 painter
+23:42 and that gets me just the painter tools
+23:46 awesome
+23:47 great system
+23:50 where do we run into problems that's the
+23:52 next question
+23:54 and how much more do we want to refine
+23:56 and I think I want to get rid of all my
+23:59 old tag system
+24:02 kind of first comment
+24:04 hello Mr ball
+24:15 llmlm what's an lln stand for
+24:21 learning language
+24:24 model learning language model is that
+24:25 what it is I'm guessing
+24:29 um
+24:31 yeah how do people search
+24:34 I don't think I care
+24:37 I don't think I care how other people
+24:38 search
+24:40 uh I
+24:44 I tend to think that what people are
+24:45 doing right now isn't the best way so
+24:48 I'm trying to improve on it large
+24:50 language model I wasn't that far off
+24:52 um
+24:54 yeah I uh
+24:56 I don't know why I stick with like gut
+24:58 on this stuff like I really want to
+24:59 stick to what
+25:01 um yeah all right you got my humor yeah
+25:03 I think I I think I have a better system
+25:06 in mind
+25:08 I think whatever anyone's doing right
+25:09 now is not a great system
+25:12 because I haven't seen a system built
+25:13 out for this yet so and and why not yeah
+25:18 so I do feel like I want to get rid of
+25:21 all my old tags what's the fast way to
+25:23 doing that I guess you have to click on
+25:25 the tag
+25:26 and then just
+25:30 so details is a good tag but it needs to
+25:32 be renamed
+25:34 definitely going to be looking for
+25:35 details
+25:39 I asked Chief
+25:40 um I put in a suggestion that maybe we
+25:43 can shift select and it will replace the
+25:48 last tag with the tag we're clicking if
+25:50 we shift select it
+25:52 um so instead of adding the tags
+25:54 stacking the tag it's replacing the tag
+25:56 because it is kind of a pain to go up
+25:57 there uncheck it and then come back down
+26:00 click your tag go up there and check it
+26:04 um
+26:06 fills is good
+26:09 I think materials has to be a big one
+26:12 and then I think type of materials is
+26:14 going to be a big thing but then type of
+26:17 material names would it would be great
+26:20 if we could name it something
+26:22 where it can apply to something better
+26:24 than just materials like an example
+26:28 um tile materials
+26:30 well you're never going to search for
+26:32 tile anything else it's going to be tile
+26:33 materials
+26:35 so instead of tile materials can be
+26:37 materials and bath
+26:39 or materials in kitchen and that come up
+26:43 with tile
+26:44 um
+26:46 but then you do want specifically tile
+26:51 so maybe that one makes a pass right
+26:53 that's that's the challenge because you
+26:56 want to have a system that works really
+26:57 well without having
+27:00 so many tags the fewer tags we can make
+27:03 this system and still get to your result
+27:05 the better it's going to be
+27:07 right it's going to be you're not going
+27:09 to have glazed over eyes looking at a
+27:10 bunch of tags if you can stack in a way
+27:13 that gets you there really quickly
+27:15 um
+27:17 some materials is definitely one and I
+27:20 mean I guess you just don't do the sub
+27:22 test and I guess then you just click on
+27:24 materials and then type tile and that
+27:27 gets you there
+27:28 um
+27:30 I think that does get you there
+27:32 I do like the clicking of the tabs
+27:34 method so all right let me change gears
+27:38 I'm going to think about this one a
+27:39 little bit and I'm gonna wait for in
+27:41 maybe any comments over the next couple
+27:43 days to come back on this one
+27:45 I'm hoping people watch this
+27:47 come back
+27:50 um I like where this is starting now I
+27:52 might work on it a little bit later
+27:55 so now what I have next
+27:57 um
+27:59 let me shut down everything I've got
+28:01 here
+28:06 sure don't save Untitled don't save
+28:09 Untitled
+28:11 save that
+28:13 and
+28:16 shh say that sure
+28:20 yeah
+28:22 this is like the easiest way for me to
+28:25 close all tabs isn't that funny isn't
+28:26 that Goofy
+28:28 and just reboot it
+28:34 what why is it tell me something's
+28:36 unsaved
+28:46 fired up let's go
+28:53 that's weird it's bringing up what I
+28:55 just saved as an unsaved thing oh
+28:59 okay so this was me
+29:03 messing with my layout template
+29:06 which
+29:09 been working really hard to try to
+29:11 improve and it's not easy
+29:14 so
+29:16 a couple blaring issues is I wanted to
+29:19 be able to have
+29:21 a graphical wash
+29:24 a color wash because well namely because
+29:27 I get business from counties and
+29:30 municipalities that like my plan sets
+29:32 and so it's of my benefit to make them
+29:35 look graphically more impressive
+29:38 and so
+29:39 I like this wash that I have on the back
+29:43 side of this of all this details it's
+29:45 not so distracting that you can't read
+29:48 um
+29:49 I don't plan on niching this as a print
+29:51 set this is specifically a PDF digital
+29:54 copy only
+29:55 for digital submittals
+29:59 and I think I want to create several
+30:01 different washes where you can use it to
+30:03 tie into
+30:06 um a pretty cover page and so because of
+30:09 that I need to fix a couple things one
+30:10 is we need to turn all images into pngs
+30:13 so my rabbit design logo needs to have
+30:16 transparency behind it although this is
+30:18 you know a template for distribution it
+30:21 is also for
+30:25 um from a you know I sell this template
+30:27 so other people need to be able to
+30:30 utilize it too but
+30:32 it's for me specifically so I want to
+30:35 fix this so I do have a PNG here and we
+30:38 can just uh we can just copy this
+30:40 we just take it to Page zero get rid of
+30:43 this and then
+30:45 look at this
+30:46 I forgot I did this this is clever I had
+30:50 a
+30:52 I hit a link so when you pay when you
+30:56 print this to PDF if you hover over the
+30:59 logo that's why I did it that way when
+31:01 you hover over the logo you can click on
+31:03 it and it would take you to my site
+31:07 kind of clever
+31:09 but now we're getting rid of it oops
+31:16 who comes up with these ideas you know
+31:18 sometimes you come up with ideas and
+31:19 what you forget you even did them and
+31:20 how do I even utilize them I didn't even
+31:22 realize that was there
+31:24 funny
+31:26 I kind of like it though
+31:28 but I prefer this I prefer that I've got
+31:32 my wash here I like the look of it
+31:34 so part of updating the layout is that I
+31:37 have to continuously update my plan file
+31:39 it it's it goes hand in hand you run
+31:42 into issues on layout that are coming
+31:44 and stemming from your plan file so you
+31:47 have to go update them so I needed to do
+31:49 some stuff with get my abbreviations
+31:52 fixed some things fixed and get this
+31:54 back into
+31:56 um into plan View and bring it into here
+31:58 uh
+32:01 done a lot of work on the Pro Plan and
+32:04 there's even been more work since the
+32:05 last time I put out an update which was
+32:07 a big update so and that's kind of cool
+32:10 again this is text coming from the Pro
+32:14 Plan
+32:15 and it's got white behind it
+32:20 so we have to go open this up
+32:23 and make sure that this doesn't have
+32:26 any fill we don't want any fill so no
+32:30 which means that we're going to end up
+32:31 saving this and because we're saving it
+32:34 we need to add that it's
+32:39 um add that to the changelog
+32:42 and the newest changelog an old change
+32:44 log got so big that I just it was
+32:46 causing slowdowns so
+32:49 um I screenshotted the old changelog
+32:51 and now this is the new changelog
+32:54 schedule
+32:56 so pop this in place and we're going to
+32:59 add that we just
+33:00 removed fill from
+33:04 project info
+33:12 diligent tedious work to keep a change
+33:14 log it really is but it's helpful
+33:17 um so I've already got some big ones on
+33:19 this version we've done door inside
+33:20 window and door inside Jam was not
+33:23 lining up this was complicated uh to
+33:26 figure out because Chief still is not
+33:29 still is not giving us everything we
+33:32 need to make Windows and Doors be truly
+33:34 successful into industry standards in
+33:37 terms of their alignment in terms of the
+33:39 way we call them out in terms of their
+33:41 head height in terms of their header
+33:42 height
+33:43 something always has to be sacrificed
+33:45 unfortunately and in this case it was
+33:49 um the actual window height in terms of
+33:52 if you were to Dimension the window it's
+33:53 going to Dimension to a weird height but
+33:56 what that did give me since I don't
+33:58 Dimension the height of my windows I
+34:00 report a header height
+34:02 um what it did and I'd say align windows
+34:05 to the top of doors in most cases
+34:07 what did give me is alignment of the
+34:09 window and door and alignment of the
+34:11 header
+34:13 um so that if I go in here
+34:17 plan view working plan view let's open
+34:20 it up
+34:26 um and I got to make sure anything I do
+34:28 here I got to delete because this is my
+34:30 temp I'm working directly in my template
+34:32 right now which is not something I you
+34:34 know would recommend anyone doing
+34:36 so
+34:38 place a window
+34:40 we place a door I also removed uh the
+34:44 indication that this is an existing
+34:46 window I had too many new construction
+34:48 people buying my stuff so now it's an
+34:50 inverse process you change the
+34:52 Windows energy value after the fact and
+34:54 it will automatically relabel it as
+34:56 existing if the energy values are
+34:58 outside of the allowed values
+35:01 so now that we've got this let's
+35:05 build
+35:07 I'm not going to show any of these
+35:08 layers and then let's look at the wall
+35:10 detail and now I have for an eight foot
+35:14 oh and I changed the plate height
+35:15 because I had it wrong
+35:18 um
+35:18 and so now for an eight foot plate
+35:20 height I've got in
+35:22 um
+35:23 technically a 82 and a half I think 82
+35:26 and a half
+35:28 header height with a 4 by 12. and this
+35:31 lines up and it's just stacked right
+35:33 underneath the plate so this is how we
+35:34 used to do it it didn't matter about
+35:36 cost it was efficiency it was faster so
+35:37 it ended up costing less but I don't
+35:40 know maybe people do it different if
+35:42 you're on a nine foot plate height that
+35:43 doesn't make any sense but you might
+35:45 still slam your header and then
+35:46 down who knows
+35:48 okay
+35:49 shell
+35:51 I'm gonna undo this stuff
+35:54 that we're just backed up so I don't
+35:56 have any weird framing left over
+35:59 okay
+36:00 let's get back to layout
+36:07 okay so that's better so we got this
+36:09 this wash kind of shows up behind there
+36:11 if you want the wash it's easy to get
+36:13 rid of it's only on this page
+36:15 next thing was the sheet label system
+36:17 was really complicated to add an
+36:19 additional sheet now I tried to make
+36:21 it so that this was automated and it's
+36:23 extremely
+36:25 oh is it extremely complex because we
+36:27 don't have
+36:29 any real usable data from this page
+36:35 that
+36:36 gives a unique identifier that we can
+36:39 call from a macro and why is that
+36:42 important because
+36:43 I want to
+36:45 take this which is driving a macro that
+36:49 drives the name of this page and Link it
+36:51 to whatever I want here and have it
+36:53 change the name right here you see that
+36:55 just change the name details continued
+36:58 if we look at this details continue
+37:00 details continue right so that drives
+37:03 the name but the macro was complex and
+37:05 if you wanted to add a page you had to
+37:08 go build off of my system and pretty
+37:10 much duplicate what I had already did
+37:11 and it was a big pain in the butt you
+37:13 still have to do that I just made the
+37:15 macro a lot less complex
+37:18 so that it's easier to copy because I
+37:20 finally hit a roadblock that I just
+37:21 can't get past so the macro itself is
+37:24 actually really not complex at all
+37:26 anymore you can just copy this and
+37:28 change this little P1 into P whatever
+37:32 page you're on and then add that into
+37:34 your sheet label and you've got
+37:35 additional sheets that you can use
+37:37 forever and ever in your template but
+37:40 it's not very fast that's for if you
+37:43 want to update your template
+37:46 on the fly if you want to insert a sheet
+37:48 you should just insert a sheet and set
+37:49 your own page label and set your own
+37:51 page number that's really simple and
+37:53 it's faster than trying to integrate
+37:55 into this system but I try to make it
+37:58 easier for people to integrate into the
+38:00 system if they know that they have a
+38:02 certain number of pages that they need
+38:04 if someone out there is a macro just
+38:08 genius if you can figure out a way to
+38:10 give us the
+38:13 Global value for the page
+38:17 and have that report to him an
+38:19 enumerating macro that looks to that
+38:22 page number looks for any available
+38:25 macros within a an index of possible
+38:29 macros meaning P1 through p100
+38:33 see what's available
+38:35 and then apply that and then write a
+38:39 little text that says hey p12 is
+38:42 available throw it throw that in your
+38:44 sheet label that's what I was trying to
+38:45 do spent hours figuring it out and I
+38:48 just kept running into problems so
+38:50 that's where I was at
+38:53 if you followed any of that great if you
+38:55 didn't I'm sorry
+38:58 um there is some complex stuff that I
+39:00 that I utilize that um
+39:03 and it has to be bulletproof and it has
+39:04 to be in user proof and you have to be
+39:06 able to mess with it and all that stuff
+39:09 the next thing that I'm working on
+39:12 and I've got to figure out if it works
+39:14 beautifully now or not is
+39:18 that when you send
+39:21 any layout box to layout
+39:24 it's all just using one
+39:27 one label
+39:28 that's just two labels technically it's
+39:30 two labels
+39:32 let's just open this up and see what it
+39:33 is
+39:34 so we're going to open this up and we're
+39:36 using label we're using a call out for a
+39:38 label
+39:39 and I know it doesn't look like we are
+39:41 because we don't see a call out right
+39:43 and that's because I have nothing in the
+39:45 call out section here
+39:47 and the line styles of blank line style
+39:50 so it's there it just it just doesn't
+39:53 show and that's
+39:55 meant to be easy to use
+39:58 um so that when you do need to call out
+40:00 you just click on this and you've got a
+40:01 call out
+40:03 um
+40:03 and it could be whatever you want
+40:06 so the next part is that this is text
+40:09 above lines grabs box label and text
+40:12 below lines grabs scale
+40:15 and so what is that doing well it's it's
+40:18 different than box scale if you've ever
+40:20 used box scale and layout box scale
+40:23 gives you the scale of the layout box no
+40:26 matter what
+40:27 my scale gives you the scale of the
+40:30 layout box if it's something that should
+40:33 show scale if it's something that shows
+40:35 that shouldn't show scale it gives you
+40:37 blank character space
+40:40 okay
+40:41 which is an important designation so
+40:43 what does that mean if you are in more
+40:46 specifically if you know me I draw for
+40:50 people nationally
+40:52 and because I do that I have all my
+40:54 details on a quick switch system because
+40:57 every Region's got different details
+40:59 they require
+41:00 and because of that and this is
+41:02 something a lot of people don't like I
+41:03 don't draw my details to scale they need
+41:06 to be ambiguous because it's more
+41:08 efficient to give you a ambiguous
+41:12 drawing that has very specific language
+41:15 stating what that drawing is I've never
+41:18 had a plan Checker come back to me and
+41:19 tell me that my drawing is not the scale
+41:21 my details aren't scale so it doesn't
+41:23 matter
+41:24 that's just my take on it I've got some
+41:26 you know hard opinions on that from
+41:28 other people but so I draw Ambiguously
+41:30 because it's more efficient I don't need
+41:32 50 details for one
+41:35 specific detail because it has different
+41:37 wall sizes that doesn't make any sense
+41:39 to me
+41:40 so I draw with no scale
+41:43 so now layout looks for
+41:46 is there a precursor name in the Pro
+41:49 plans project browser that states that
+41:53 it's a detail so under CAD details we
+41:55 have a prefix here that says
+41:59 um
+41:59 detail space Dash space
+42:03 Etc so this
+42:05 these two macros look for that prefix
+42:09 and they also look for that space
+42:12 hyphen space if it sees the space type
+42:15 in space it's going to delete everything
+42:16 before that and then it's just going to
+42:18 give us the name Beyond it
+42:20 but the Box scale looks for the prefix
+42:23 if the Box scale sees the prefix detail
+42:26 it's now going to report no scale
+42:30 if the Box
+42:32 um
+42:32 scale sees a schedule it now is going to
+42:37 report blank blank character space if it
+42:40 sees that it's a plan it's now going to
+42:42 report its actual Buck scale so it's
+42:45 doing the work of a bunch of different
+42:46 macros put together
+42:48 and let's just look at what I've got
+42:51 here so
+42:54 from David B look at this nobody uses
+42:56 calipers and scales of drawings anymore
+42:57 it's true and and I'll tell you that the
+43:00 people that have the biggest problem
+43:02 with
+43:03 um my details are the old school
+43:06 drafters
+43:07 you know and I'm not mad at them they're
+43:10 not mad at me
+43:11 we can do our own thing and be happy
+43:14 uh so
+43:19 so now let's look at the Box label and
+43:21 so this is what it's doing a bunch of
+43:23 stuff and I'm and I'll be honest I used
+43:26 um I've learned macros through using
+43:29 chat gbt and training it specifically in
+43:33 Chief's macro system
+43:34 because it won't write you a macro
+43:36 that's correct for chief you have to you
+43:39 have to tell it all the nuances of how
+43:41 Chief Works including how we've got
+43:44 Publishers and objects or Publishers and
+43:46 Publishers publish data and the data is
+43:48 already assumed as soon as we call that
+43:50 macro so if we say type
+43:54 GPT needs to know that there's already
+43:56 data associated with type and all we're
+43:58 doing is grabbing that data and and then
+44:01 you need to tell chat GPT that that data
+44:04 is a string or it's a float or it's an
+44:06 integer or it's a measurement what the
+44:08 hell is a measurement there is no
+44:09 measurement class in Ruby well it's
+44:11 specific to Chief so you got to train
+44:13 chat gbt and all that stuff in order to
+44:15 get a correct macro out of it but once
+44:17 you train your model in chat GPT to
+44:21 write you Ruby scripting you can get
+44:22 some really advanced stuff so this is
+44:23 how this was built
+44:25 so it's defining a method ordinalize is
+44:30 what it's called it it gave it that name
+44:31 and I liked it so I stuck with it and
+44:33 usually changed the names to something
+44:34 that makes sense to me and then it's
+44:37 returning a number
+44:38 and
+44:40 and so what it's looking for uh
+44:42 specifically is well what it's doing
+44:46 specifically is that if ordinalize sees
+44:49 a number it's going to add
+44:53 um a plural pluralization to it
+44:56 I shouldn't drink beer and stream live
+44:59 because I'm just swallowing air
+45:03 Okay so
+45:06 so what it's doing now and let's just
+45:08 zoom in on this so we can even see
+45:10 is when ordinalized sees a number and
+45:14 the number is one we're going to add St
+45:16 to it number and St first
+45:19 and C is two it's going to be second
+45:21 three it's going to be third four it's
+45:23 gonna be fourth right and so on and so
+45:26 forth so
+45:29 now we're looking for a chief gave this
+45:32 to us in x14 we're looking for a floor
+45:35 number
+45:36 right so
+45:39 um it's important to note that my Pro
+45:41 Plan template and I'm telling you this
+45:43 and even if you don't have my template
+45:45 you can build this system so I'm giving
+45:47 away some big secrets right now my Pro
+45:50 Plan template
+45:51 certain saved plan views don't say what
+45:54 floor it's on and that's for a very
+45:56 specific reason is because
+45:59 I don't need to have a safe plan view
+46:01 for floor number one floor number two
+46:03 floor number three like we used to
+46:05 I need to only have a safe plan view for
+46:09 floor plan
+46:10 and then we'll look for what number
+46:13 floor we're on when we're sending that
+46:15 view and I'll show you what I mean very
+46:17 quickly
+46:18 so here's first story floor plan uh well
+46:23 I don't have a second story floor plan
+46:24 so this doesn't really work but
+46:27 when we go and open this up to see what
+46:29 it's linked to we're going to see that
+46:31 it's linked to
+46:32 it is linked to a view name called floor
+46:35 plan
+46:36 and that's a saved plane view perfect
+46:39 but we have the option to switch in what
+46:42 floor it's referencing so it doesn't
+46:43 matter how many floors you have in your
+46:45 project you can use this it doesn't
+46:47 affect anything negatively everything
+46:50 shows the way you want it to show on
+46:52 every floor
+46:53 all we're doing is changing the
+46:55 reference that's linked right so it's
+46:58 very easy for me to copy this paste hold
+47:00 on the next page have it in alignment
+47:02 and change the reference to second floor
+47:04 so what happens when you get a second
+47:06 floor well this
+47:08 label system is looking for
+47:12 what floor number it's on
+47:16 let's go look at this again where is it
+47:18 there we go
+47:20 so to zoom in on this
+47:23 so it's looking for a floor number and
+47:24 it's looking for if if the layout box
+47:27 responds to automatic label
+47:31 or if the automatic label is nil right
+47:35 so it's it's having some conditions here
+47:37 which is important and this is just um
+47:39 for writing a better script but
+47:41 um all these all cap sections I train
+47:44 chat GPT to add all cap notes to explain
+47:47 what every section is so that if you
+47:49 need to edit this hopefully it's
+47:51 describing the condition well enough
+47:52 that you can
+47:54 um talk to someone that knows what
+47:55 they're doing with Ruby or figure it out
+47:58 yourself right
+47:59 so
+48:00 now we're looking at new layout label
+48:03 extracting text after that hyphen right
+48:05 so this is that condition where it might
+48:07 be we're sending CAD details and I'm
+48:09 organizing CAD details in lieu of having
+48:11 a folder system in CAD details we're
+48:14 organizing it by a prefix it's the only
+48:16 way that we can stack them together and
+48:17 organize them now I know that's been
+48:19 challenging for a lot of people because
+48:21 that comes up with a label that doesn't
+48:22 really make sense well this is making
+48:24 sense of that label I'm removing
+48:26 everything prior to the label that I
+48:29 actually want so it's looking for that
+48:31 case where when that plan name that
+48:34 automatic label from that layout box see
+48:36 if you're following with me we sent the
+48:38 view to layout doesn't matter what view
+48:40 it is it has an automatic label that
+48:43 it's reporting if that automatic label
+48:45 includes character space hyphen
+48:48 character space then we're going to take
+48:51 everything we're going to partition it
+48:53 is what I'm using specifically we're
+48:54 going to partition that section which
+48:57 means that now we have three sections
+48:59 zero one and two zero is the prefix one
+49:02 is that space hyphen space and two is my
+49:07 suffix the actual name that I want so
+49:09 we're creating a partition and then
+49:12 we're indexing and calling number two
+49:14 which is that last part
+49:16 okay
+49:18 so the next part of this
+49:20 makes it even more complex and this is
+49:23 why this layout works specifically well
+49:25 with my plan template is that if my plan
+49:30 name includes schedule
+49:33 if it includes scale
+49:36 why would it include scale I'll tell you
+49:38 why I have a cat detail that is just the
+49:40 scale it's meant to send to layout and
+49:43 then you change the layout box scale and
+49:45 now you have a scale that works on every
+49:48 page regardless of what the page
+49:51 scale is regardless of anything else you
+49:54 have a scale that is scalable because
+49:56 it's coming from a cad detail that's
+49:57 sent at a specific scale that you can
+49:59 change
+50:00 so if and that's in a cad detail called
+50:03 scale so if the automatic label includes
+50:07 schedule scale plot plot roof Foundation
+50:09 cross section elevation
+50:13 new um then the new layout label is
+50:17 assigned a plan name
+50:18 what does that mean well it's going to
+50:21 take
+50:22 and and it doesn't matter what case it
+50:25 is I didn't want it to be case sensitive
+50:27 right so it's going to take it's going
+50:29 to look at all the automatic labels it's
+50:31 going to down case what your labels are
+50:34 and look if it includes that particular
+50:37 text okay if it does
+50:41 then all we're reporting if it includes
+50:43 any of that stuff then all we're
+50:44 reporting is the plan name which means
+50:47 all we're reporting is the automatic
+50:49 label so if your cat details name scale
+50:52 it's just going to report the label
+50:53 scale if you've got details names
+50:55 something something something something
+50:57 cross-section so if it includes
+50:59 cross-section or includes Cross or
+51:01 section or elevation it's just going to
+51:03 leave that label intact so if you named
+51:05 your wall elevation
+51:07 you know left elevation or South
+51:10 elevation or plan North elevation or
+51:12 plan North or cross-section or anything
+51:13 like that it's just going to leave that
+51:15 alone pass it right through to the label
+51:18 next if the floor number is zero then
+51:23 um wind floor number is zero then we're
+51:26 going to leave just the plant name I'm
+51:27 assuming that whatever you've got on
+51:29 plan zero is going to remain whatever
+51:31 you named it in your save plan view be
+51:33 it Foundation plan or be it floor
+51:35 framing plan
+51:38 um
+51:39 and then let's see
+51:41 if the floor number
+51:43 is nil meaning it's not reporting any
+51:45 value
+51:46 or the floor number equals NE nothing or
+51:50 whatever then
+51:53 we've got an error or if the plan name
+51:55 is nil meaning the automatic labels is
+51:57 nothing
+51:58 uh then we've got a problem and it's
+52:00 going to say hey you did something wrong
+52:02 and I don't know how you'd even get
+52:04 there
+52:05 and then
+52:06 now at the end we're appending the
+52:10 ordinal ordinalize method
+52:13 to floor number we're going to ordinal
+52:16 ordinal boy that's tough
+52:19 foreign
+52:26 I can't do it ordinalize
+52:30 uh to floor number the reported floor
+52:34 number
+52:34 we're going to add that
+52:36 I guess you call them suffix too right
+52:38 first second third fourth so third
+52:41 fourth and then add story because that's
+52:44 easier than floor add story and then the
+52:47 plan name
+52:48 there we go
+52:49 so that's a full breakdown of what this
+52:51 new layout label is that I've been
+52:53 working on for
+52:55 I've honestly been working on it for a
+52:57 while it's been probably a couple months
+52:59 so this is appropriately reporting for a
+53:02 story now if I change this
+53:06 um or change the link let's just change
+53:08 the link real quick
+53:10 and we'll change the link to Foundation
+53:13 plan
+53:15 you see here it doesn't add first story
+53:17 to this Foundation plan there it is
+53:20 so it's doing what it should be doing
+53:25 it'll add that let's see
+53:28 oh look at this this is
+53:30 um when you switch from
+53:33 that to this it's going to remember that
+53:35 we're on the foundation level so you do
+53:37 need to make sure that you're on that
+53:38 first story and there's that first story
+53:40 immediately comes up so let's see where
+53:42 else this is applying itself to and
+53:45 actually let's go over what's happening
+53:47 with scale
+53:49 so
+53:53 let's give
+53:55 all right perfect example
+53:59 right elevation let's look at what this
+54:01 is utilizing hopefully I got this
+54:02 updated
+54:03 so let's look at the label it's using a
+54:05 call out it is using grabsboxyl and it's
+54:08 using RAB scale so it's reporting scale
+54:10 supporting that label you can see it's
+54:12 passing that through without putting any
+54:13 kind of first story Second Story
+54:15 whatever else
+54:19 okay next part is that this is using a
+54:21 call out and what's it using call out
+54:23 from referenced View
+54:25 call out label referenced view call out
+54:28 label so
+54:30 whatever we set this label to be that's
+54:33 what it's using so the automatic label
+54:36 is
+54:37 essentially what it's doing and then
+54:39 because this is linked to that it's
+54:40 showing up and so we have Circle checked
+54:42 and then under line style it's just
+54:46 defaulted so then it's now that's
+54:48 showing up If This Were A blank line
+54:49 style and we had nothing in that call
+54:52 out section then it would be invisible
+54:53 like the other one so it's very easy to
+54:55 add a call out
+54:57 um to these because it's already set up
+54:59 for it okay
+55:02 let's see we've got a couple comments
+55:07 it's Ken the design guy his chat GPT
+55:10 macro available for everyone
+55:12 um
+55:13 I will say that I don't really have a
+55:17 it's I called it a model
+55:19 for lack of a better word and honestly I
+55:21 need to learn the terminology
+55:23 better because I'm being invited to
+55:27 speak about Ai and I may be a
+55:32 decent or good practitioner but I don't
+55:35 know what I'm talking about uh
+55:41 so all all I'm saying when I've created
+55:44 models I have created a text prompt that
+55:46 gets me a pretty accurate starting point
+55:49 for
+55:50 training chat gbt but now it's just that
+55:55 I know what to tell chat TBT because
+55:57 I've been doing enough hours of it that
+55:59 I know how to train it when it does
+56:01 something incorrect and I am
+56:04 at least twice as proficient as macros
+56:08 since I started with chat GPT then than
+56:11 before and that's a very quick
+56:13 turnaround and that's a very quick
+56:14 doubling of my knowledge
+56:16 um so
+56:17 just using it as has made me understand
+56:21 the approach that it's taking and then
+56:23 I'm able to fix things that I know are
+56:25 wrong along the way
+56:27 um
+56:28 and I think eventually I'll I'll share
+56:30 that in videos
+56:32 um
+56:33 but I don't know
+56:34 and then program okay crazy man say a
+56:38 word work in property
+56:41 I'm
+56:44 I slur a lot okay
+56:48 all right so
+56:50 next what do we want to see next I want
+56:53 to see
+56:54 so now this is back to I leave in here
+56:57 an example the stack details and
+57:01 um and speaking of which this is this
+57:03 idea was born from Ken the design guy
+57:05 this guy right here
+57:07 was the one that introduced me to this
+57:08 idea
+57:09 um although Dan Bowman swears that he
+57:11 came up with this 20 something years ago
+57:14 so I don't doubt him for it um but
+57:18 man do I love this system and I can't
+57:19 wait to build it out further
+57:23 because it works so well for sections
+57:26 and I'm and I have to do a section for a
+57:28 project right now and depending on what
+57:30 that section is I might add a couple
+57:31 more stackable details to be applicable
+57:34 to that section that I need to build out
+57:36 for a project
+57:37 um but man do I love this it just makes
+57:40 so much sense and it's so automated and
+57:43 it works so well
+57:45 um
+57:47 I've never gotten a detail this fast by
+57:50 just you know flipping a couple link
+57:52 switches
+57:55 and then changing out the stack like
+57:57 that's just crazy so I just need a
+57:59 bigger inventory
+58:00 um and then before you know it that's a
+58:03 system on it in and of itself so
+58:05 hopefully I have a bigger inventory for
+58:07 x16 launch because I give everybody a
+58:10 full
+58:11 um
+58:11 a full version cycle before I'm going to
+58:14 make them upgrade to a new template
+58:17 system so this is everybody that bought
+58:20 during x14 this is the end of their
+58:22 version cycle so for x16 I'm hoping to
+58:25 have a full library of stackable details
+58:27 and then this is just showing how all
+58:31 these details can quickly be changed out
+58:33 in place just by re-linking because
+58:35 they're in the same coordinate spot on
+58:38 the grids so you just re-link and now
+58:41 that my plan system utilizes that new
+58:45 um
+58:46 notes schedule to order order the note
+58:50 number so this is so let's just do this
+58:52 real quick check out how cool my the
+58:55 plan is now
+58:56 so if we click on this
+58:58 this takes us to this
+59:01 Etc that's not too interesting what's
+59:03 interesting is let's go to Project
+59:05 browser
+59:07 and let's get into
+59:10 um
+59:11 our detail schedule
+59:14 and so let's tile this so that we can
+59:17 see that in our layout and so that we
+59:20 know that the brace wall plan wws
+59:24 Foundation actually needs we want this
+59:26 to be detail one on this sheet there we
+59:29 go it just changed to detail one right
+59:32 and then the next one whatever this is
+59:35 concrete staircase is detail five that's
+59:39 right here we want that to be detailed
+59:40 too
+59:41 so very quickly you can organize your
+59:44 number in your detail number system on
+59:46 the page
+59:48 um
+59:49 and that's rad
+59:51 I just
+59:53 until they give us call out schedules
+59:54 that's the system I came up with and I
+59:57 think it actually works really well so
+59:59 I'm happy with it and now I gotta go
+1:00:02 backwards some because I like that these
+1:00:04 were alphabetical order before
+1:00:06 no they're not
+1:00:08 I think I can
+1:00:11 we can already order this can't we we
+1:00:13 can so
+1:00:17 um automatically sort by
+1:00:21 text
+1:00:23 ascending descending descending
+1:00:26 ascending descending dang it
+1:00:33 cool gets it right back in order
+1:00:36 very cool
+1:00:40 and then this is a funny comment
+1:00:44 I used to suggest to this but good luck
+1:00:46 bro uh well let me know what you
+1:00:48 actually are interested in watching and
+1:00:50 maybe we'll we'll
+1:00:52 um Sidetrack to that man are you in the
+1:00:53 architectural realm are you in rendering
+1:00:55 are you in Twin motion are you in any
+1:00:58 number of other things let me know
+1:01:00 because I'll do a little off shoot just
+1:01:02 to entertain you
+1:01:04 um
+1:01:10 okay
+1:01:13 so again this is that label macro and
+1:01:16 it's looking for
+1:01:17 it's looking for what this is and then
+1:01:20 it's appropriately putting no scale
+1:01:22 that's perfect that's working exactly
+1:01:24 like I wanted to the next thing that it
+1:01:26 should be doing oh no I just hit update
+1:01:28 all views that's going to take forever
+1:01:31 damn it
+1:01:36 oh it didn't take too long
+1:01:38 Maybe
+1:01:39 no it's going to take forever
+1:01:43 it's too bad
+1:01:47 this is your chance Muhammad if I'm
+1:01:50 saying it right is your chance to tell
+1:01:51 me what you want me to talk about
+1:02:02 I could have gotten into some more more
+1:02:04 AI junk right there
+1:02:12 so I left something that's an X-15 that
+1:02:16 I'm utilizing in
+1:02:18 layout now that is if we link this
+1:02:22 as we introduce a new plan and Associate
+1:02:25 a new plan with this
+1:02:27 um it now gives us the option I don't
+1:02:29 want to do this I want to copy this and
+1:02:31 then we'll just push this forward a
+1:02:33 couple of pages
+1:02:36 it gives us the option
+1:02:40 let's go
+1:02:43 we want to go to an actual project
+1:02:47 this might screw me up might not be a
+1:02:49 good idea but let's just do it anyways
+1:02:59 oh I skipped the part that I meant to
+1:03:01 even talk about
+1:03:10 what do you got warning it's a warning
+1:03:20 come on Chief do it
+1:03:30 oh yeah it's not the same directory
+1:03:33 um let's go undo that real quick
+1:03:37 that's this that project is interior
+1:03:40 only that's why I look like that I
+1:03:41 didn't care about the exterior
+1:03:43 um keep layout box
+1:03:46 contents position when rear leaking
+1:03:48 re-linking this is a very important
+1:03:51 thing to note and it's an awesome
+1:03:54 awesome awesome feature for templating
+1:03:58 what this does when you're checked is
+1:04:01 we're going to be in the same coordinate
+1:04:03 place of the original layout box View
+1:04:07 whatever you had originally sent to your
+1:04:10 template layouts layout box View
+1:04:13 that's going to be the same coordinates
+1:04:14 when you link to a new view
+1:04:17 why is that important well
+1:04:20 sometimes you want that checked when is
+1:04:23 that important specifically for changing
+1:04:25 out details we want it to be in the same
+1:04:28 coordinate space because we draw all
+1:04:31 details in the same spot on the sheet
+1:04:35 when do we want it unchecked we want to
+1:04:37 unchecked
+1:04:38 when you want this to automatically
+1:04:42 Center on your new Project's elevation
+1:04:46 okay
+1:04:47 so when you uncheck this
+1:04:51 and then we press OK it's going to
+1:04:53 automatically place how it would
+1:04:56 except for I didn't link it to what I
+1:04:58 was supposed to be linking to Let's link
+1:05:00 it to that uh open plan
+1:05:03 could probably stay out of the zoom here
+1:05:05 real quick zoom out there we go
+1:05:08 um
+1:05:13 uncheck keep layout Box contents
+1:05:16 now it happens to be that I draw houses
+1:05:18 in the same spot every time but
+1:05:20 sometimes I'm getting projects from
+1:05:22 other people that I don't
+1:05:25 stop drinking um
+1:05:27 that I don't they didn't draw on the
+1:05:29 same drawing space that I did
+1:05:32 right so this is
+1:05:34 automatically going to reposition that
+1:05:37 view
+1:05:39 and this isn't in there I don't think
+1:05:41 this is in their update notes or
+1:05:43 anything I just found it one day
+1:05:45 um
+1:05:49 are you referring to what I'm talking
+1:05:51 about right now is that what you're
+1:05:52 talking about
+1:05:57 well there you go no more time wasted
+1:05:59 worth watching
+1:06:01 so there we go that's appropriately
+1:06:03 positioned on the sheet
+1:06:06 it's titled correctly and this is an Old
+1:06:08 Pro Plan it was using because it had a
+1:06:10 suffix E1 which I've now gotten rid of
+1:06:12 so I've changed the naming conventions
+1:06:15 and since the last Plan update that I
+1:06:19 pushed out I have now changed the
+1:06:21 kitchen elevation names as well so
+1:06:25 that's a thing
+1:06:26 that's the thing that's happening
+1:06:29 so aside from the sheet label system
+1:06:34 I think I have this pretty much well
+1:06:36 done
+1:06:38 and I'm noticing some things here this
+1:06:41 is definitely not a
+1:06:44 um
+1:06:45 plot lines view which I want I want the
+1:06:48 plot lines View
+1:06:49 I'm going to do uncheck color
+1:06:53 I want all my preset elevations as plot
+1:06:56 lines
+1:06:58 don't like the live view
+1:07:02 it's just me
+1:07:04 here we go
+1:07:07 I like that clean
+1:07:09 very clean CAD line look and sometimes I
+1:07:13 decide to do color fill and sometimes I
+1:07:14 don't especially if the Project's like a
+1:07:16 dark blue house
+1:07:18 Chief needs to figure out how to get us
+1:07:20 the ability to set our shading in Vector
+1:07:25 separate from our color in render
+1:07:29 because you got a dark blue house and
+1:07:32 you want to render a dark blue house and
+1:07:34 then you go send that to Elevation and
+1:07:35 you want color on and it shouldn't be
+1:07:37 able to make it five Shades lighter and
+1:07:40 unless you've got a texture Source
+1:07:42 that's designated the blue color if
+1:07:45 you're not using the texture Source
+1:07:46 you're using the material color now
+1:07:47 you're using the vector color to color
+1:07:49 the house now you can't send it with
+1:07:52 color fill because that makes no sense
+1:07:54 to have a dark blue house on an
+1:07:55 elevation sheet so
+1:07:59 suggestion put that in suggestions
+1:08:02 so now I have all four views they're
+1:08:04 going to update automatically they take
+1:08:07 a while to update I've thought about not
+1:08:09 including them but I think I'm going to
+1:08:11 keep them included because they are in
+1:08:13 the same
+1:08:14 ground plane space on the sheet across
+1:08:18 all pages
+1:08:20 right and then I'm getting heavy Flack
+1:08:24 about my existing plan workflow versus
+1:08:28 new the new construction types
+1:08:30 um
+1:08:31 so I've kind of catered to that a little
+1:08:34 bit more it's still easy to do remodel
+1:08:37 Nas builds with this I mean it's easy to
+1:08:39 just delete this page
+1:08:41 and then there gets rid of your asbelt
+1:08:43 big big whoop big deal
+1:08:47 um
+1:08:50 and then I have this schedule page and
+1:08:54 the point of this
+1:08:57 kind of want to save let's save this out
+1:09:00 and open it back up again I don't know
+1:09:02 why this thing has a border
+1:09:06 um
+1:09:06 they all box labels layout box borders
+1:09:10 off
+1:09:12 there we go
+1:09:14 um and if you didn't know that it's
+1:09:15 really quick and easy to change specific
+1:09:17 layers to turn a label off and actually
+1:09:20 it should be that this
+1:09:22 line style is
+1:09:25 they have box borders off but also
+1:09:29 also No Label because the label is going
+1:09:32 to come from the windows schedule itself
+1:09:36 um okay
+1:09:40 so I'm going to close this out and save
+1:09:42 it
+1:09:58 wait what was that
+1:10:04 what is this
+1:10:07 this is what I was using
+1:10:12 oh I was using something funny
+1:10:18 huh
+1:10:21 this is what we were just working from
+1:10:24 it is funny
+1:10:26 came up with his own name I need to
+1:10:28 replace this
+1:10:36 templates
+1:10:42 okay
+1:10:47 so now I want to do a new layout and
+1:10:49 that'll use that layout
+1:10:52 and I want to associate
+1:10:58 I'm going to do a new plan
+1:11:01 and let's name this plan
+1:11:08 test I'll just kick it in descend and
+1:11:11 delete test
+1:11:15 all right so
+1:11:18 now I've got test now I'm going to
+1:11:21 associate
+1:11:22 that with reference plan files
+1:11:27 this guy browse go to send and delete
+1:11:31 test it's top of the screen there we go
+1:11:37 so I should be able to draw this guy out
+1:11:41 and let's just draw some things real
+1:11:42 quick
+1:11:48 okay
+1:11:50 delete save camera oh
+1:11:54 okay
+1:11:57 and let's go
+1:12:02 mess around with this
+1:12:04 I need to fix that this opened up in
+1:12:06 floor plan it should have opened up in a
+1:12:08 working layer set
+1:12:09 all right so there's my funny shaped
+1:12:11 house
+1:12:14 and it's got some windows and some of
+1:12:16 those windows are different than others
+1:12:20 and some of them are awning and then
+1:12:24 some of them have doors and some sliding
+1:12:27 doors
+1:12:30 and our pocket doors and sliding doors
+1:12:34 sure
+1:12:40 and so then immediately you'd be in here
+1:12:43 and you would use what
+1:12:46 move this around oops that just centered
+1:12:49 contents no I want the little Zoom guy
+1:12:52 this guy move that around to where I
+1:12:55 want it
+1:12:56 and that's going to be the same place on
+1:12:58 the sheet every time
+1:12:59 and then this is just a second floor so
+1:13:03 you can just delete this page
+1:13:05 she didn't have a second floor
+1:13:07 and this is where I'm expecting us to
+1:13:11 use this feature where it's pan scale
+1:13:12 layout box and then Mouse wheel down
+1:13:15 until this fits
+1:13:17 because I don't think it particularly
+1:13:19 matters what scales it scale is as long
+1:13:21 as we have kind of a reference to the
+1:13:24 number and then this is the window order
+1:13:26 overview so depending on what scale
+1:13:28 you're at here and in this case it's an
+1:13:30 eighth inch scale this is when you would
+1:13:32 change
+1:13:33 on the scale of the text on the Windows
+1:13:36 is you come in here double click on this
+1:13:40 and specifically get into this object
+1:13:43 properties Windows labels and change
+1:13:46 this to a one and 1 8 inch text style
+1:13:50 same thing with your doors so that now
+1:13:54 that's actually legible on the big sheet
+1:13:58 and then this may need to get just
+1:14:01 tweaked just a little bit to include
+1:14:03 everything there
+1:14:04 and that's our list
+1:14:07 and I made a bunch of changes in plan in
+1:14:10 the Pro Plan now in regards to header
+1:14:14 rough opening
+1:14:16 bottom elevation
+1:14:18 head height
+1:14:23 and I think that
+1:14:28 some of this change for the worst
+1:14:32 look at this this needs to be truncated
+1:14:34 so some things I should fix
+1:14:41 okay so I like that we already made a
+1:14:44 couple of improvements to layout
+1:14:46 not a ton though I think this is almost
+1:14:48 ready for prime time and then the next
+1:14:51 thing is this needs to be
+1:14:53 scale to all the different
+1:14:56 views so like
+1:15:00 you know site plan is not going to fit
+1:15:02 on this page not for a house this size
+1:15:04 no way which means that you got to
+1:15:06 reorder some stuff change some stuff
+1:15:07 around
+1:15:08 or change the scale or change where the
+1:15:10 map is or change where this image is
+1:15:13 some this might not be the template that
+1:15:15 I use which is why I got three other
+1:15:16 templates
+1:15:33 best way to find improvements is just to
+1:15:35 work work work
+1:15:38 um so I feel like I'll probably go back
+1:15:40 to messing with that Library System
+1:16:14 anybody that has my system I'm assuming
+1:16:16 that they know
+1:16:18 that I'm expecting you to lay out this
+1:16:20 in the correct space on your
+1:16:24 sheet
+1:16:26 so that you get it to where you want it
+1:16:29 and then
+1:16:31 copy
+1:16:33 stuff like your electrical plan
+1:16:38 but you already link it to the
+1:16:40 electrical plan
+1:16:43 why did I look like I moved
+1:16:46 I swear that moved
+1:16:48 it did move
+1:16:55 oh different plan maybe no that's the
+1:16:57 same plan
+1:16:59 oh aha there's that button we were
+1:17:01 talking about earlier you got to
+1:17:03 remember to recheck that man keep layout
+1:17:05 Box contents positions when replinking
+1:17:09 ah there we go I was like what
+1:17:13 oh man
+1:17:18 it's funny
+1:17:27 I want to rebuild my
+1:17:31 panel schedule system
+1:17:34 built off of
+1:17:37 polylines
+1:17:39 and custom fields
+1:17:43 but really trying to limit everything
+1:17:46 that's custom limit the number of macros
+1:17:48 using utilizing being utilized
+1:18:07 speaking of
+1:18:12 P1 P0 people have two what keeps us from
+1:18:19 reference layer to
+1:18:21 what's keeping us nothing nothing is
+1:18:23 keeping us from mounting
+1:18:25 all of these p1s
+1:18:28 p0's all this
+1:18:30 to one macro
+1:18:32 anything keeping us from doing that
+1:18:44 yeah something is
+1:18:46 hmm
+1:18:50 because it would change it every time
+1:18:51 yeah no so they have to be separate
+1:18:55 see this needs an identifier it needs a
+1:18:57 page identifier if somehow
+1:19:00 the page reported itself as something
+1:19:02 unique
+1:19:05 how could we do that
+1:19:17 I could write the macro so that it's
+1:19:19 looking at the because it's contained in
+1:19:22 a
+1:19:24 owner object so we can write the macro
+1:19:27 and what once this evaluated us let's
+1:19:30 see
+1:19:31 owner object so the owner object
+1:19:36 could have could be on its own layer
+1:19:38 which is the page number layer
+1:19:41 so then we could get away with one macro
+1:19:44 for all pages
+1:19:46 and so then you can just add
+1:19:48 page numbers to it infinitely
+1:19:53 and then you'd have to add a layer for
+1:19:56 every new
+1:19:58 page you want to integrate the system in
+1:20:05 and all that's doing is improving the
+1:20:07 number of macros in the macro Management
+1:20:10 console which do we care maybe not
+1:20:17 maybe we don't care
+1:20:42 I don't have any place
+1:20:44 that I put the
+1:20:46 new cabinet schedule but that's going to
+1:20:49 be with the kitchen elevations and I
+1:20:51 could pre-send the kitchen elevations
+1:20:52 but I tend to like to compose that
+1:20:55 myself
+1:20:56 kitchens are different sizes elevations
+1:20:58 are different sizes
+1:21:00 I don't know
+1:21:02 how I feel about that
+1:21:13 and I guess we can update that as well
+1:21:15 plan to something that looks more like
+1:21:17 the newer versions of the plan it
+1:21:19 doesn't matter though
+1:21:24 I should just put a note here somewhere
+1:21:26 that this is linked to asbelt this whole
+1:21:29 page just a big Watermark across there
+1:21:31 so people just delete it
+1:21:41 so all of the reporting
+1:21:44 comes from internal macros that are not
+1:21:49 um accessible
+1:21:51 here's what so like if you if you go
+1:21:54 into a tech if we just drop a text box
+1:21:56 in here
+1:21:57 turn on my turn off my drawing sheet
+1:22:01 drop in a text box and you say and you
+1:22:04 use the drop down menu here Global
+1:22:07 macros and we've got layout info and
+1:22:10 you've got page page
+1:22:12 percentage sign page percentage sign
+1:22:16 that's reporting page
+1:22:18 but you can't call that from somewhere
+1:22:21 else
+1:22:24 um
+1:22:25 what you can
+1:22:29 what you can do
+1:22:32 and this gets beyond my
+1:22:36 ability to test or my knowledge base
+1:22:39 you can kind of say that
+1:22:43 This Global macro named page
+1:22:48 is going to be equal to
+1:22:52 itself defining
+1:23:00 itself
+1:23:03 quote unquote
+1:23:07 and then that
+1:23:10 and so now
+1:23:15 and we have to stay on this page
+1:23:17 and if we go look up Global macro values
+1:23:24 we see that the global macro from page
+1:23:27 is here
+1:23:28 it's not reporting three
+1:23:32 it's just reporting nil
+1:23:39 and it's not until something happens and
+1:23:42 I'm not exactly sure what it is that it
+1:23:45 will report three
+1:23:47 but it will report three and then you
+1:23:49 flip the page and then it reports some
+1:23:50 other page and then
+1:23:52 so it's like this big moving Target that
+1:23:55 never is really helpful and I don't know
+1:23:57 how to utilize it
+1:24:00 and officially
+1:24:01 those internal macros are not supported
+1:24:03 like you can't mess with them and I
+1:24:05 don't think you can mess with them in
+1:24:06 Ruby Council not that I would know how
+1:24:08 to
+1:24:10 um
+1:24:11 so what are the unique identifiers for
+1:24:13 this
+1:24:14 page well we have objects that are on
+1:24:17 the page that have
+1:24:19 layers and they have other attributes
+1:24:24 um
+1:24:25 we know we can put text we know we can
+1:24:27 put notes or wait no we can't put notes
+1:24:29 we can put a yeah notes we can't put a
+1:24:32 call out
+1:24:33 so this is a note no we can put I got it
+1:24:38 flipped we put a call out
+1:24:41 so what does a call out have information
+1:24:43 wise
+1:24:47 that reports its character Heights wrong
+1:24:49 group floor number
+1:24:51 I don't know why it reports its floor
+1:24:53 number that's funny
+1:24:55 um font name
+1:24:57 the layer that it's on which is maybe
+1:24:59 something you can utilize
+1:25:05 that's interesting
+1:25:10 line weight
+1:25:16 it reports line weight
+1:25:18 so what if you drew drove
+1:25:25 Pages based on line weight line weight
+1:25:28 three is Page Three line weight four is
+1:25:30 Page four
+1:25:32 what does that get you
+1:25:36 for that particular
+1:25:38 object
+1:25:40 that line weight
+1:25:45 oh
+1:25:47 let's go let's run with that let's see
+1:25:50 what can we do here okay so
+1:25:53 gotta think this out this gets
+1:25:55 complicated this gets really complicated
+1:25:57 okay
+1:25:58 so here's our object it's a call out
+1:26:02 and
+1:26:06 and it's reporting this P1 and we want
+1:26:09 to
+1:26:10 and we want to determine
+1:26:13 which macro it's using
+1:26:16 P1 to p100 based on the line weight of
+1:26:21 the owner object
+1:26:23 okay
+1:26:24 I like it
+1:26:28 um
+1:26:29 because that's something that a group of
+1:26:31 people can learn
+1:26:33 quickly
+1:26:36 all right let's start with
+1:26:41 start with something here
+1:26:43 okay we're gonna start with these
+1:26:45 instructions
+1:26:47 the basis for a new chat we're going to
+1:26:50 use chat gpd4
+1:26:52 and start with instructions
+1:26:56 yep yep you got it perfect good job
+1:27:10 yeah are you finished
+1:27:16 she's a little slow right now
+1:27:21 she's a little show all right
+1:27:23 so
+1:27:27 um
+1:27:28 how do we do this
+1:27:36 uh yeah yeah got it okay we're gonna
+1:27:40 talk this out I like talking it
+1:27:44 let's create a macro where we are
+1:27:46 assigning Global values which are
+1:27:49 indicated by the prefix dollar sign
+1:27:54 to
+1:27:55 macros numbered P1 through a hundred
+1:28:01 we want to assign
+1:28:04 that global
+1:28:06 macro according to the integer value
+1:28:10 extracted from the existing macro that
+1:28:13 is reporting
+1:28:15 its value from a macro named line weight
+1:28:21 let's do some edit Point weight and
+1:28:23 we're going to double check this line
+1:28:25 weight
+1:28:28 um
+1:28:29 line weight line weight yes
+1:28:38 let's just see what it starts with okay
+1:28:50 I didn't really need to set that
+1:28:52 parameter but that's okay it's very
+1:28:54 little set it's not value value and
+1:28:56 and then
+1:28:59 value because the line value X1 is
+1:29:01 instant variable set stop value value
+1:29:06 um remember that we want to assign the
+1:29:11 global variable
+1:29:14 so
+1:29:17 Define weight I'm missing a step here
+1:29:20 but we've got to work through this just
+1:29:21 to get
+1:29:22 to the next step to the next problem
+1:29:25 there's the next problem I haven't
+1:29:27 figured out what it is yet though
+1:29:28 I know it's there though it might might
+1:29:30 stop us then let's send a global
+1:29:32 variable to the associated line
+1:29:34 wait
+1:29:36 it's that the variable
+1:29:39 is in
+1:29:45 is
+1:29:48 your words buddy P1 or
+1:29:53 okay
+1:30:07 okay
+1:30:10 so that now that it's created that now
+1:30:12 it's generating P whatever based on the
+1:30:16 variable
+1:30:18 and now P whatever
+1:30:20 needs to now be applied to
+1:30:23 the macro that already exists
+1:30:26 which is
+1:30:36 perfect now assign that variable
+1:30:41 uh
+1:30:45 he
+1:30:46 p in
+1:30:51 is the number
+1:30:55 and then equals blah blah blah
+1:31:03 we don't need to see if it's 100 we
+1:31:05 might just delete that I don't even pure
+1:31:07 reference I have to do sub and juice
+1:31:09 and
+1:31:11 okay
+1:31:15 okay
+1:31:17 oh man is this this obvious and it's
+1:31:20 been sitting in front of my face
+1:31:21 for freaking ever man for freaking ever
+1:31:24 so
+1:31:26 um
+1:31:33 delete all this
+1:31:38 I don't know what to call this what do
+1:31:39 we even call this
+1:31:40 um
+1:31:41 and
+1:31:43 um enumerating
+1:31:47 page label it's gonna automatically
+1:31:50 underscore for me and then
+1:31:54 evaluate
+1:31:57 and
+1:32:07 okay
+1:32:09 so let's do the test
+1:32:12 so
+1:32:15 that's showing people so what is this
+1:32:18 showing this is showing
+1:32:21 um wrong we need
+1:32:23 grabs enumer name blah blah blah
+1:32:30 and it should automatically be seeing
+1:32:32 that it's whatever line weight this is
+1:32:34 so we need to set the line
+1:32:36 weight two one
+1:32:42 okay
+1:32:48 and that didn't work
+1:33:00 and that didn't work but it is but it is
+1:33:03 working
+1:33:05 kitchen plan it's showing kitchen plan
+1:33:09 it is updating
+1:33:12 what I miss when I miss what I miss
+1:33:19 it's updating why p-value reference
+1:33:23 layer
+1:33:30 we want to
+1:33:37 um
+1:33:40 before assigning
+1:33:44 e value
+1:33:47 to reference
+1:33:49 layer
+1:33:52 make Ace
+1:33:55 statement of what the value
+1:34:01 ain't that no that doesn't work that
+1:34:04 doesn't help
+1:34:11 I almost want to reference this in a
+1:34:14 separate macro
+1:34:33 let's do this let's see what this
+1:34:35 reports
+1:34:38 okay
+1:34:42 12.
+1:34:44 percentage signs P value equals value
+1:34:52 and then put
+1:34:55 12.
+1:34:59 or no
+1:35:00 what was this it was 12 but it's not 12
+1:35:03 anymore
+1:35:04 should be
+1:35:06 it shouldn't be 12 anymore
+1:35:09 it's okay so it shows us one that's
+1:35:11 correct
+1:35:19 so if you put
+1:35:33 p-value equals
+1:35:44 it's a 200 value because line weight to
+1:35:46 I
+1:35:46 it values with blah blah blah
+1:35:56 P value equals value
+1:35:59 um I kind of just want it to be
+1:36:01 put p-value
+1:36:03 um
+1:36:07 which would be
+1:36:10 okay hold on
+1:36:32 and let's report
+1:36:35 a text
+1:36:39 string
+1:36:42 chose
+1:36:44 e let's see
+1:36:49 here
+1:36:51 n is value
+1:36:58 surprised if anybody's still watching
+1:37:00 this we're just messing around
+1:37:03 eight people are watching this
+1:37:05 what are you guys doing
+1:37:06 hahaha
+1:37:08 okay
+1:37:09 uh I'm texting it's just the name that
+1:37:11 died
+1:37:12 okay
+1:37:14 pop
+1:37:18 and no down case down case
+1:37:22 okay so that gives me so let's just use
+1:37:25 this real quick
+1:37:27 so
+1:37:29 now we need a second
+1:37:36 I'm gonna change this name because this
+1:37:37 is crazy
+1:37:38 [Music]
+1:37:39 um
+1:37:44 wait
+1:37:46 he
+1:37:48 reporter
+1:37:50 brain weight reporter okay
+1:37:52 and now a new macro
+1:37:55 that looks for
+1:38:08 value from
+1:38:11 from from
+1:38:15 um
+1:38:16 line weight reporter
+1:38:24 which should be reporting a string
+1:38:32 and then sets it to equal
+1:38:57 um
+1:39:01 remove the definition
+1:39:04 it is assumed to be a string
+1:39:29 finely reporter
+1:39:36 um let's see report
+1:39:39 the value from line of weight I guess
+1:39:44 that does that work let's see I don't
+1:39:46 know that this works
+1:39:48 I feel like
+1:39:51 it needs to be a print string first
+1:39:55 um
+1:40:08 okay
+1:40:11 it has a value
+1:40:18 so now we need
+1:40:21 this becomes the reporter
+1:40:26 and this becomes
+1:40:31 page enumerator
+1:40:42 so that's floor
+1:40:45 but it's still not changing
+1:40:47 the sheet title
+1:40:50 are we on page one yeah we are
+1:41:02 so what do we have here
+1:41:06 oh one way it's still 12. come on guys
+1:41:12 wait what
+1:41:16 line weight is not 12 and that what what
+1:41:24 layer line weights 12. line weights 12.
+1:41:30 it's not 12. finally it is Default true
+1:41:37 what
+1:41:42 what why is Lair line weight not
+1:41:45 changing
+1:41:49 what am I missing here
+1:41:51 but this shows P1 like it sees that it's
+1:41:54 line weight
+1:41:55 one
+1:42:03 this is interesting there's a layout
+1:42:05 page number
+1:42:08 in the call out
+1:42:11 how is that not reporting anywhere
+1:42:31 foreign
+1:42:49 okay page enumerator kitchen it sees
+1:42:53 this correctly
+1:42:56 what's the error here
+1:43:01 oh that's my box though
+1:43:03 um page of numerator
+1:43:05 that shows correctly
+1:43:09 that shows correctly
+1:43:13 Let's test this
+1:43:16 three
+1:43:21 that shows correctly
+1:43:25 let's look at Global macro values
+1:43:36 H3 is not getting overwritten
+1:43:42 I got some new comments
+1:43:46 I miss what the good part was
+1:43:50 uh
+1:43:52 I wouldn't call it a master class I
+1:43:55 barely know what I'm doing with this
+1:43:56 stuff
+1:43:57 and then Alex dude how are you doing man
+1:43:59 you've been MIA to me anyways I don't
+1:44:04 know maybe you haven't been in me
+1:44:07 um hope you're all settled and having a
+1:44:09 good time
+1:44:10 we went through divorces not all that
+1:44:13 oops I just threw that out to the
+1:44:16 general public sorry Alex
+1:44:17 I hope you didn't mind
+1:44:19 but we went through it at about the same
+1:44:21 time similar times
+1:44:25 yeah I know and a lot of people do and
+1:44:28 I'm really trying to work on it as you
+1:44:30 can see
+1:44:31 and be beneficial to me too
+1:44:35 page layout number is what I'm trying to
+1:44:37 find yeah I know it's
+1:44:39 um see if well we saw that that call out
+1:44:42 had a page layout number associated with
+1:44:45 it so that should be your reported value
+1:44:48 somewhere
+1:44:49 you would think
+1:44:51 um
+1:44:58 how could we get to it
+1:45:00 callouts can be linked to things
+1:45:07 so
+1:45:10 what would that give us
+1:45:13 let's see if we just link can we can you
+1:45:15 link a column you'd like a collector
+1:45:18 call out
+1:45:20 I don't know what this call out is
+1:45:22 called
+1:45:24 link View
+1:45:25 you can't link a call out to a call out
+1:45:28 you can link a call out to a view
+1:45:31 so you could link a you can't link a
+1:45:34 call out to a page yes you can you can
+1:45:36 link a call out to a page
+1:45:38 so if you link this call out to the page
+1:45:40 that it's on
+1:45:43 what does that info give you
+1:45:48 okay we got some more stuff here what do
+1:45:50 we have
+1:46:15 the line weight's reporting correctly
+1:46:17 finally
+1:46:20 um
+1:46:34 linked view layout page label
+1:46:37 there's a redundant link view layout
+1:46:40 page number
+1:46:42 linked view layout page number
+1:46:55 so how do we utilize that
+1:47:06 it's kind of the same problem
+1:47:17 still wondering why so if I type in
+1:47:24 if I just type in percentage sign P3
+1:47:27 percent sign what does it get me it
+1:47:30 tells me it's
+1:47:31 linked to site plan
+1:47:33 and it should be driven from this
+1:47:38 but where
+1:47:43 here's the problem here's the problem
+1:47:44 okay you need to get rid of all these
+1:47:58 because these all
+1:48:00 are what defining something
+1:48:03 no they shouldn't be though
+1:48:11 because we deleted all their reference
+1:48:13 macros
+1:48:15 shouldn't this shouldn't be doing
+1:48:16 anything
+1:48:18 right
+1:48:20 foreign
+1:48:27 P3
+1:48:29 site plan
+1:48:31 changes
+1:48:33 kitchen plan that should be P3
+1:48:37 where else would be P3
+1:48:47 are you kidding me dude
+1:48:51 you've got remarried already
+1:48:56 you're making me feel like a slacker oh
+1:48:59 okay cool dude and congrats on the baby
+1:49:03 I'm I am jealous that's cool
+1:49:08 laughs oh man very nice
+1:49:13 yeah congrats
+1:49:15 oh
+1:49:16 oh gotta get up for a second dude check
+1:49:18 this out this is the new this is this
+1:49:21 version go in the design contest because
+1:49:23 they give you this new shirt it's
+1:49:24 actually kind of nice
+1:49:26 it's the new version I got last year's
+1:49:28 version no I got the year before that
+1:49:30 version I like this one
+1:49:33 um okay
+1:49:36 why isn't this driving it shows that
+1:49:41 we've got this for some reason it's
+1:49:43 showing
+1:49:44 all right so
+1:49:46 let's put in a I guess a rescue let's
+1:49:49 put in a rescue
+1:49:54 um
+1:50:01 if Limelight report is uh
+1:50:16 all right so is there any problem with
+1:50:19 having this Define itself on the Fly and
+1:50:22 writing it out
+1:50:26 no so
+1:50:31 um
+1:50:40 I think it actually needs to be the case
+1:50:43 where that dollar sign P3
+1:50:47 is actually written written out it can't
+1:50:50 just be the value from line weight
+1:50:53 reported equals reference layer to G sub
+1:50:56 even though the library report is a
+1:50:58 string
+1:51:00 um
+1:51:04 I feel like
+1:51:21 at some point it actually has to type
+1:51:23 out that enumeration has to actually
+1:51:25 type out
+1:51:27 percent sign P3
+1:51:31 the whole problem exists where
+1:51:36 the only way we can pull info
+1:51:39 from a macro is with a global here
+1:51:42 because we can't use
+1:51:46 freaking
+1:51:48 text
+1:51:52 what if we didn't use this
+1:51:56 what does that get us
+1:52:00 then that doesn't work with the page
+1:52:02 index and we want the page index to work
+1:52:09 we'd have to make our own page index if
+1:52:12 we had callout schedules this wouldn't
+1:52:13 be a problem
+1:52:23 don't want to make our own page index I
+1:52:25 mean we could do this all from plan
+1:52:27 I just know that people don't like that
+1:52:31 from past experience
+1:52:34 um for those of you that didn't know and
+1:52:36 and didn't track like six seven five six
+1:52:38 seven years ago is I used to be able to
+1:52:41 do my entire print set from plan
+1:52:44 without using a layout
+1:52:46 it it was for a particular client that I
+1:52:50 could do it for for a particular drawing
+1:52:52 style and I had and I made my own page
+1:52:54 index from the note schedules and blah
+1:52:57 blah blah
+1:52:58 so I guess it wasn't five years ago
+1:52:59 whenever node schedules came out
+1:53:01 X11
+1:53:03 I think
+1:53:05 four years ago
+1:53:08 hmm
+1:53:10 [Music]
+1:53:14 how do we get a global to report without
+1:53:17 typing the global out we have to type
+1:53:20 the global out
+1:53:45 Okay so
+1:53:48 let's put in a condition
+1:54:00 let's edit this looks very welcome
+1:54:04 line weight reporter
+1:54:06 and
+1:54:07 set a statement
+1:54:10 at
+1:54:12 fine
+1:54:13 wait
+1:54:15 order
+1:54:22 equals its reported value
+1:54:26 such that if the value from line weight
+1:54:31 reporter
+1:54:34 is p
+1:54:38 then the line
+1:54:41 item statement
+1:54:45 should
+1:54:46 be
+1:54:49 fine
+1:54:54 equals P3
+1:54:59 and then assign
+1:55:02 E3
+1:55:10 see if we can get that to work does that
+1:55:13 work we'll test it
+1:55:17 um what does this get you
+1:55:20 that's still an internal macro that we
+1:55:23 can't
+1:55:25 parse through our own
+1:55:28 written macros
+1:55:34 you're going to bed all right
+1:55:36 night night hi wifey
+1:55:44 yeah this um Justin this is still an
+1:55:46 internal macro
+1:55:48 so what do we get here uh
+1:56:08 oh I didn't save and submit
+1:56:11 enter
+1:56:34 find a little condition that's popped in
+1:56:37 at the end we'll try it
+1:56:42 uh
+1:56:46 -huh
+1:56:52 data type symbol what happened here what
+1:56:56 happened what happened here okay
+1:56:58 language report except the value
+1:57:02 I imagine the format where it is an
+1:57:04 integer if value equals
+1:57:07 standard reporting equals p in n
+1:57:21 and then okay
+1:57:24 that was that's weird expanded
+1:57:27 line weight
+1:57:36 that's weird why is it doing that let's
+1:57:38 see
+1:57:39 um
+1:58:51 from a new class okay
+1:58:54 that doesn't work
+1:58:57 hmm
+1:59:04 it's kicking my butt
+1:59:06 this is where my knowledge ends
+1:59:09 so it's where I don't know why I can't
+1:59:11 get a global statement
+1:59:14 out of this bad boy
+1:59:49 should be able to say
+2:00:04 hey equals
+2:00:32 foreign
+2:01:10 okay
+2:01:13 should be able to
+2:01:16 say
+2:01:37 okay
+2:01:47 I want to define a local
+2:01:50 macro I want to define a local macro
+2:01:54 with a global
+2:02:00 equals
+2:02:07 test
+2:02:14 equals
+2:02:38 hey
+2:03:05 foreign
+2:03:18 man I slacked the experience for this
+2:03:21 might need to go hire someone
+2:03:30 so challenging
+2:04:27 foreign
+2:06:00 foreign
+2:06:18 combined Mecca
+2:06:21 um
+2:06:26 [Music]
+2:07:11 foreign
+2:07:41 difference
+2:07:44 same difference
+2:07:47 I do anything different
+2:08:20 foreign
+2:08:49 interested in the Stream so I can
+2:08:51 struggle off side of this stream
+2:08:55 no closer to making this a dynamic
+2:08:57 system
+2:09:31 okay
+2:10:25 I wonder object
+2:10:28 there amazing
+2:10:30 page in numerator painting numerator
+2:10:36 don't need detail at all
+2:10:38 until I check
+2:10:40 don't need tests
+2:10:43 done Inlet or page enumerator
+2:10:48 PNG numerator
+2:10:51 copy a page
+2:10:54 14.
+2:10:55 15 even and
+2:11:04 it didn't matter what page we're on I
+2:11:05 don't know why I did that um
+2:11:17 why is there
+2:11:19 let's call this 16 19.
+2:11:24 either it's not linked to anything
+2:11:38 propose for stone floor plan okay what
+2:11:42 is that do
+2:11:45 nothing
+2:11:52 15.
+2:11:59 test
+2:12:04 oh well there's nothing because
+2:12:07 it's nothing but what did we make this
+2:12:10 we made this
+2:12:15 16.
+2:12:18 so
+2:12:24 e 16 let's try something that
+2:12:28 can't possibly have a value already
+2:12:41 and there is no value there
+2:12:47 even though the line weight is 16.
+2:12:56 but the line weight is reporting
+2:12:58 12. there 12 there 12 there it's all
+2:13:03 reporting 12.
+2:13:09 hey
+2:13:15 let's
+2:13:19 link this to the page
+2:13:33 um 15.
+2:13:35 let's link it to Page 15.
+2:13:37 let's make this page 15. everything's
+2:13:40 page 15.
+2:13:42 and it's a macros so that
+2:13:53 value equals
+2:13:58 referenced
+2:14:01 layout referenced layout
+2:14:07 page
+2:14:10 number
+2:14:12 I don't know what it was what was it
+2:14:15 called
+2:14:15 um
+2:14:24 do we link it I thought we linked it
+2:14:32 link
+2:14:33 we did link it linked it to Page 15.
+2:14:37 which before gave us
+2:14:47 before this gave us a reference
+2:15:06 before this game was a reference right
+2:15:17 this gives linked View
+2:15:29 linked view layout page number
+2:15:33 linked view layout page number
+2:15:36 what's it linked to
+2:15:45 it's linked to this layout on that page
+2:15:52 so why
+2:16:01 why didn't the same thing happen here
+2:16:13 test layout link to page 15.
+2:16:17 2 page 15.
+2:16:23 sure okay
+2:16:29 why don't I have the same parameters
+2:16:30 that's really strange okay hold on
+2:16:33 spell
+2:16:35 copy this
+2:16:39 paste it
+2:16:41 you have
+2:16:43 properties expanded yeah weird what's
+2:16:46 the difference
+2:16:48 because it has a leader line
+2:16:52 it's bizarre
+2:16:56 whatever okay
+2:17:04 object properties expanding
+2:17:13 page enumerator
+2:17:21 and
+2:17:28 weird as soon as you link
+2:17:32 kit
+2:17:35 to something
+2:17:38 it's linked status disappears weird
+2:17:43 linked view layout page number
+2:18:13 foreign
+2:18:38 ER layer to make this work
+2:18:47 sure
+2:18:49 does this report
+2:18:53 does not
+2:18:56 hmm
+2:18:59 so we can't get a macro to set a global
+2:19:05 it doesn't I feel I feel like we can't
+2:19:06 why not
+2:19:08 can't get a macro to set a global value
+2:19:12 that we didn't type out it can't be
+2:19:16 value within a value you can't suddenly
+2:19:19 enumerate
+2:19:21 based on something else
+2:19:24 somewhere somehow
+2:19:26 p15 has to be typed out in order to give
+2:19:30 it value
+2:19:41 that seems so backwards
+2:19:49 I'm going to ask the macro Gods about
+2:19:51 that one
+2:20:06 so close just feel like it's just
+2:20:08 getting so close and just not quite
+2:20:10 there
+2:20:30 foreign
+2:20:59 you got to authorize a stream yard to be
+2:21:02 able to see your name otherwise we just
+2:21:03 see a blank blank person
+2:21:05 but yeah I've been in Chief the whole
+2:21:07 time today
+2:21:09 no other software this time sometimes
+2:21:12 we're in Twin motion and some other
+2:21:14 stuff the only other thing we've been
+2:21:15 messing around with is chat GPT
+2:21:19 okay so the only other thing I could do
+2:21:22 is I could give you a
+2:21:26 a page one
+2:21:31 where it was just a listing of all
+2:21:33 possible page numbers
+2:21:36 and then
+2:21:41 a listing of all possible page titles
+2:21:43 and you just link across and put that on
+2:21:46 one page
+2:21:48 but I feel like you need previews of
+2:21:51 your pages which I guess you could
+2:21:53 probably get from the project browser
+2:21:55 do we get previews of pages in the
+2:21:57 project browser
+2:22:00 yeah we do
+2:22:02 so you could label it from a system here
+2:22:05 just by browsing here and linking across
+2:22:08 which
+2:22:11 I don't like that as much but you could
+2:22:14 do that and that would be
+2:22:16 straightforward
+2:22:18 if you tried to insert a page you still
+2:22:20 have the same problem where you have to
+2:22:22 put in
+2:22:23 the page titles
+2:22:25 and they have to be unique names
+2:22:28 that's why we're trying to automatically
+2:22:30 enumerate based on the actual page
+2:22:32 number
+2:22:48 be cool if we could tell chief that its
+2:22:51 page number is it's page number plus
+2:22:53 something
+2:22:55 um
+2:22:56 or its page number is something entirely
+2:22:58 different
+2:23:03 can't do it
+2:23:04 I love this system for
+2:23:07 the many many times where I just need to
+2:23:10 do a quick little single page thing and
+2:23:12 it's easy for me to just pop pop
+2:23:15 in the correct label
+2:23:17 and go and it could be four or five
+2:23:19 pages and still do that very quickly
+2:23:21 that way
+2:23:22 it's just not great for when you're
+2:23:24 needing to insert Pages it's just just
+2:23:26 flat out it's not good
+2:23:29 um no way around that
+2:23:31 without some kind of enumeration system
+2:23:36 or without schedules in layout or
+2:23:40 without call out schedules
+2:23:42 we could send
+2:23:45 we could send a page index from plan
+2:23:49 but what what would be the problem with
+2:23:52 that anything
+2:23:59 it will never automatically populate
+2:24:02 right
+2:24:06 or could it
+2:24:07 um
+2:24:11 no
+2:24:20 hmm
+2:24:22 [Music]
+2:24:29 I got a couple little things done today
+2:24:32 barely anything though I like the start
+2:24:35 of my my library system though I'm happy
+2:24:37 with that
+2:24:39 someone's texting me probably someone
+2:24:41 watching texting me and saying cheer up
+2:24:45 and some of these days are tough
+2:24:49 uh
+2:24:50 doors exterior yeah I like this system
+2:24:54 kill exterior cabinet doors yeah cool
+2:25:11 shelves
+2:25:13 that are cabinets
+2:25:16 you know
+2:25:27 maybe I'll make a tag that's just
+2:25:29 swappable
+2:25:37 oh you can delete tags right from here
+2:25:47 yeah I want to get rid of all this stuff
+2:25:49 I want to redo my system cool
+2:25:52 [Music]
+2:25:53 um
+2:25:57 uh no this is designed this is I'm kind
+2:26:00 of curious who this is for some context
+2:26:03 um this is you can design your own
+2:26:06 layout templates yeah
+2:26:08 yes you can
+2:26:15 yes you can
+2:26:16 that's Rocio hi Rocio
+2:26:20 um
+2:26:21 yeah you can design your own templates
+2:26:23 so I sell my plan templates and my
+2:26:28 um
+2:26:30 sell my plan templates when I sell my
+2:26:32 my layout templates
+2:26:35 and
+2:26:36 they're expensive they're the most
+2:26:38 expensive templates on the market but
+2:26:40 they got a lot of features into them so
+2:26:43 I think they are
+2:26:46 um the correct value
+2:26:58 because I have a lot of automation built
+2:27:00 into them is a big part of it let's see
+2:27:03 quick tools
+2:27:06 yeah we're just going to redo this whole
+2:27:07 system line uh so I need the tag that's
+2:27:11 hardware
+2:27:14 that's going to be an obvious one
+2:27:20 and if you could select multiple tags
+2:27:22 that'd be slick
+2:27:23 can you select no I can't
+2:27:33 so we're going to seem assume with the
+2:27:35 tag system that eventually you're going
+2:27:37 to type
+2:27:38 out of text search I think is
+2:27:42 the thought
+2:27:45 get rid of shelf painters because now
+2:27:47 it's just shelves and
+2:27:49 shell painters
+2:27:51 let's check out closet painters and
+2:27:53 we're going to re-tag closet painters to
+2:27:57 what we made it already it was going to
+2:28:00 be just painters
+2:28:06 painters apply
+2:28:09 okay
+2:28:16 and then
+2:28:19 closet should probably be
+2:28:22 yeah closet's got to be a tag
+2:28:29 for that system
+2:28:32 shelf items
+2:28:38 this still wants to fit underneath the
+2:28:40 shelves parameter I would think
+2:28:44 but maybe not
+2:28:48 I think this doesn't mean it needs to be
+2:28:50 more generic this just needs to be
+2:28:53 um decor
+2:28:56 so
+2:29:00 because that makes more sense
+2:29:02 because then you can stack on decor and
+2:29:05 it's tags to core
+2:29:11 foreign
+2:29:20 shells
+2:29:28 so the approach would be
+2:29:30 we want decor
+2:29:33 okay and then we got Decor across the
+2:29:35 whole Library System
+2:29:36 and then you want shelf decor and then
+2:29:39 it truncates down to this all right so
+2:29:42 that makes more sense
+2:29:50 and then it's organized by
+2:29:53 prefix
+2:30:01 what's spec
+2:30:07 you can also design your layouts on
+2:30:09 Adobe Photoshop and import them to Chief
+2:30:10 to layout right no or you can but
+2:30:13 they're going to be pixel based not
+2:30:16 Vector based right so you're going to be
+2:30:18 um
+2:30:19 that's going to be a rastered image that
+2:30:21 you're importing so it's not scalable
+2:30:24 then the
+2:30:25 which means you could get blurring as
+2:30:27 you blow up whatever image that you're
+2:30:29 importing from Photoshop
+2:30:31 I would highly recommend that you
+2:30:34 um use CAD which
+2:30:37 for your layout templates plus we have a
+2:30:39 bunch of stuff like macros and stuff
+2:30:41 that are integrated into the software
+2:30:43 so you can integrate macros into your
+2:30:45 layout template if you so choose but
+2:30:48 yeah I wouldn't I wouldn't design a new
+2:30:51 layout in it's not adjustable you know
+2:30:54 and we have so many quick tools for
+2:30:56 adjusting CAD in in layout that makes up
+2:31:01 infinitely adjustable
+2:31:03 so
+2:31:05 I would say learn Chief and learn CAD in
+2:31:08 Chief and it's going to become a lot
+2:31:09 more proficient in Photoshop and then
+2:31:11 I'm and that's coming from someone that
+2:31:14 is 25 years into Photoshop and only
+2:31:17 maybe 14 years into chief
+2:31:27 although I did put my own little
+2:31:29 backsplash back back wash backwash
+2:31:34 um
+2:31:35 a background image in this particular
+2:31:37 layout sheet
+2:31:39 only so
+2:31:42 that's part of that
+2:31:46 there's a whole lot of fail I can shut
+2:31:48 all this down
+2:31:50 that was a lot of fail
+2:32:08 okay let's get this this is giving us
+2:32:11 details
+2:32:17 and so we probably just want to rename
+2:32:19 Phil's
+2:32:20 fills are probably stay although I could
+2:32:23 just search for fills
+2:32:26 I feel like I'd rather search for fills
+2:32:28 because fills don't have any
+2:32:32 other associations other than just being
+2:32:34 filled so let's just
+2:32:39 and let's just make sure that there's
+2:32:40 already some search attributes for these
+2:32:42 fills
+2:32:44 hey Phils
+2:32:46 Phil's a nice guy I already feel yeah
+2:32:48 they already have search attributes so I
+2:32:50 could probably get rid of this tag
+2:32:53 narrow it down
+2:32:55 a material wall so this is what we want
+2:32:58 to avoid
+2:33:00 we want just material
+2:33:04 and then
+2:33:06 type of material
+2:33:10 so all my materials need some kind of
+2:33:12 type tag on them
+2:33:17 and that would be helpful okay
+2:33:24 backdrops you need a tag for backdrops
+2:33:26 you just type in backdrops I guess it's
+2:33:28 nice to have a tag for backdrops bath
+2:33:30 faucets so now you want bath and you
+2:33:33 want faucets so we need faucets
+2:33:45 you almost want just fixtures would be
+2:33:48 even better but then you would get
+2:33:49 faucets with toilets with
+2:33:52 sinks
+2:33:53 and does that matter
+2:33:57 be nice if we had sub tags I think I
+2:34:00 think you are going to want faucet
+2:34:02 separate from toilet separate from sink
+2:34:05 so faucets
+2:34:09 sinks
+2:34:12 and then I think fixtures is the next
+2:34:15 one
+2:34:17 okay so then you've got
+2:34:20 bath should be a category
+2:34:23 and kitchens is already a category
+2:34:30 so when we click on Bath faucets these
+2:34:33 should be the tags bath and faucet
+2:34:43 so that we get rid of this and then we
+2:34:46 can stack our tags
+2:34:49 and this is not a numerical order right
+2:34:51 now is it no it's not weird
+2:34:55 probably
+2:34:56 shh shut Chief down and open it back up
+2:34:59 again so we click bath
+2:35:01 and then we click faucet so let's get
+2:35:03 read a bath and
+2:35:05 surprise we can't control click or shift
+2:35:08 click or alt click or alt control click
+2:35:11 or alt shift click or Ctrl shift click
+2:35:14 and get rid of that so surprising that
+2:35:17 they didn't build that in I feel like
+2:35:19 they just didn't have time
+2:35:21 so
+2:35:23 we have sing
+2:35:28 well and then we should have electrical
+2:35:30 so that we get bath vanities from Bath
+2:35:33 and electrical
+2:35:38 so that's
+2:35:41 path lights vanities
+2:35:46 should instead be
+2:35:49 tags bath
+2:35:52 yeah that's vanities it's gone
+2:35:55 and electrical
+2:35:57 apply
+2:36:00 okay
+2:36:02 delete this
+2:36:04 so now we have
+2:36:09 bath
+2:36:11 gets us a bunch of things
+2:36:13 should get us faucets as well right
+2:36:17 and where's my bath sinks
+2:36:19 there or no yeah six bad things I want
+2:36:24 this to be
+2:36:25 th
+2:36:30 and now they are sinks
+2:36:33 okay
+2:36:34 so now when we click on path we get all
+2:36:38 these things
+2:36:39 and then sinks we just get sinks
+2:36:43 and then electrical
+2:36:46 we get anything that's applicable
+2:36:50 to Bath electrical
+2:36:52 which means we get rid of bath sinks
+2:37:00 yeah I like this it's limiting the
+2:37:02 number of tags we need
+2:37:04 and then stacking tags to get to
+2:37:07 narrowed results very quickly
+2:37:11 I'm repeating it as much for myself as I
+2:37:14 am for anybody watching
+2:37:19 so art is going to be back on decor
+2:37:25 which we added
+2:37:27 and then what a room designation wall I
+2:37:31 feel like wall is a good tag
+2:37:36 to have so we might include wall
+2:37:39 so get rid of Art and add Decor apply
+2:37:51 the current
+2:37:59 so now we have
+2:38:07 to core and then can we type in
+2:38:11 um
+2:38:12 not
+2:38:16 I wonder if we can do it not type
+2:38:23 cabinet door
+2:38:25 if that's possible
+2:38:28 text
+2:38:30 annotation now you can't interesting
+2:38:32 can't do any Boolean operators in type
+2:38:36 but we could do an advanced search right
+2:38:42 where we're selecting
+2:38:45 they don't have a select all are you
+2:38:47 kidding me
+2:38:49 no
+2:38:51 really
+2:38:57 really
+2:39:00 oh that's annoying
+2:39:11 it's really not want to include here
+2:39:13 [Music]
+2:39:14 um
+2:39:18 because Decor was picking up cabinet
+2:39:22 doors
+2:39:26 okay
+2:39:29 and tags we want to add the tag decor
+2:39:36 okay search
+2:39:38 all right so that's my old all the
+2:39:41 course so I want to make sure that I am
+2:39:44 adding
+2:39:46 tags
+2:39:48 hinge tags wow
+2:39:52 anymore
+2:39:56 boom boom
+2:39:57 and hopefully
+2:39:59 look at all the filters that busted in
+2:40:01 and you should have a clear all filters
+2:40:05 right
+2:40:11 oh Frozen
+2:40:14 thank you
+2:40:24 [Music]
+2:40:29 I put a bird feeder outside of my window
+2:40:31 it's kind of cool
+2:40:32 every once in a while just had a big
+2:40:34 blue jay cool
+2:40:44 okay now I should be able to say
+2:40:47 decor
+2:40:49 Plus
+2:40:51 which is including yep
+2:40:54 and wall
+2:40:56 bam okay
+2:41:02 and room should be a tag that makes
+2:41:04 sense
+2:41:13 and I feel like
+2:41:15 so I'm looking for names of things that
+2:41:18 are intuitive so I don't want to have to
+2:41:21 put every room like living room dining
+2:41:22 room entry all this stuff
+2:41:25 but what would make more sense is common
+2:41:28 because you could use common for other
+2:41:30 things besides room designations
+2:41:36 right
+2:41:38 common details
+2:41:44 Maybe
+2:41:48 and then I got to think about a color
+2:41:50 Association for some of this stuff so we
+2:41:53 had
+2:41:54 style palette in here but we ended up
+2:41:58 calling style palette stuff painters
+2:42:00 anyways
+2:42:02 so painters are the same as style
+2:42:05 palettes
+2:42:15 but not necessarily true
+2:42:19 style pallets was picking up a lot more
+2:42:24 than the painters and that's true
+2:42:26 because style palettes could be a number
+2:42:28 of different things
+2:42:35 click on what'd you say click on filter
+2:42:41 then not filter okay so click on
+2:42:45 filter
+2:42:49 and then not filtered
+2:42:53 click on filter and then not filtered to
+2:42:56 delete all filters
+2:42:59 click on filter results
+2:43:03 filter
+2:43:06 click on filter
+2:43:10 I'm doing what I'm I think I'm doing
+2:43:12 what you're doing I don't see anything
+2:43:14 that says not filtered
+2:43:26 what's the new vacuum function do it
+2:43:29 scares me I don't want to touch it
+2:43:39 click on filter then not filtered
+2:43:44 I don't see it
+2:43:49 funnel plus o
+2:43:56 click on
+2:44:00 not filtered ah
+2:44:03 nice tip I like it
+2:44:06 that's new to me
+2:44:08 yeah
+2:44:10 cool
+2:44:22 put appliances under large appliances
+2:44:24 but it should just be appliances because
+2:44:26 then it's going to be kitchen appliances
+2:44:29 versus other appliances that we don't
+2:44:32 have that many other appliances so
+2:44:41 so probably rename this to just
+2:44:44 appliances
+2:44:51 and do I still care that it's
+2:44:54 if I've got appliances and I type in
+2:44:56 range I'm going to get just my ranges
+2:44:59 that's fine I like that it's totally
+2:45:02 fine if I type in fridge
+2:45:05 yes I think okay
+2:45:07 so I'm down for that I'm down for that
+2:45:10 and then
+2:45:12 exterior intern doors the plants so what
+2:45:14 else do we have
+2:45:22 by the way you guys that are watching
+2:45:25 this that bought the full system
+2:45:27 did you mess around with any of this
+2:45:28 stuff in the beta folder did you did you
+2:45:32 see that stuff it's kind of some of it's
+2:45:33 kind of fun
+2:45:38 this was the system I was building oh
+2:45:40 it's not complete though but there's an
+2:45:42 example of it somewhere
+2:45:44 and then the sofa Builder system
+2:45:46 where you can build any cell phone
+2:45:49 unimaginable no all right you can build
+2:45:51 a lot of sofas from this system
+2:45:54 it's kind of crazy this is all built
+2:45:55 from cabinets
+2:46:00 the post system so what did I do I've
+2:46:03 got
+2:46:05 that's a cabinet
+2:46:09 do we we added cabinets right yeah we
+2:46:11 did add cabinets
+2:46:13 so cabinet as a filter this gives us
+2:46:16 anything that's built from a cabinet
+2:46:20 and one of these should be
+2:46:24 a post
+2:46:26 setup
+2:46:31 one of them should also be a ladder
+2:46:35 that I built from a cabinet
+2:46:37 here is
+2:46:40 parts of it let's see
+2:46:44 I know where I have that
+2:46:49 um
+2:46:50 boost
+2:46:53 nothing
+2:46:57 I wonder where I put that let's see
+2:47:00 maybe it's in two sort
+2:47:04 I got weird stuff in this
+2:47:07 base cabinet
+2:47:10 to sort uncheck
+2:47:13 subfolders
+2:47:21 hey there's Kevin Kevin Transit
+2:47:31 oh I fixed my suspension chair
+2:47:35 there's this okay so there's the slotted
+2:47:37 molding that's part of the system
+2:47:46 probably call it a Pergola or a trellis
+2:47:49 trellis
+2:48:00 Purge
+2:48:03 there it is
+2:48:04 look at that
+2:48:08 where is this
+2:48:12 it's in beta oh it is okay so routes
+2:48:15 post system it should be in
+2:48:17 perhaps post system
+2:48:20 there we go
+2:48:22 Dynamic pergola
+2:48:24 do you guys look at this it's kind of
+2:48:26 funny
+2:48:29 can I know you know about this because I
+2:48:31 was building it
+2:48:32 during
+2:48:36 the training sessions
+2:48:39 in
+2:48:41 uh wherever the heck we were North
+2:48:43 Carolina
+2:48:45 this is that Dynamic post system that I
+2:48:48 was building from cabinets
+2:48:51 that's let's see this is an
+2:48:53 architectural block
+2:48:55 and that's a cabinet
+2:49:09 not the craziest cabinet I've ever built
+2:49:11 but I do like it
+2:49:15 and what's the deal with this this is
+2:49:18 all swappable
+2:49:19 that's what's cool about it
+2:49:21 you can swap the bucket
+2:49:25 and the top piece
+2:49:29 the top pieces of the countertop
+2:49:32 I love that too so the front overhang 72
+2:49:35 what if it's cantilevered four feet
+2:49:40 yeah
+2:49:41 that's freaking sweet
+2:49:44 oh man
+2:49:47 I should finish this whole system out I
+2:49:49 bet a lot of people would geek out on
+2:49:51 this
+2:49:53 especially people don't want to render
+2:49:55 all the buckets and all that stuff and
+2:49:57 create details from it you should be
+2:49:58 able to pull
+2:50:00 a vector
+2:50:03 right should be able to do this
+2:50:11 yeah and the buckets show up
+2:50:13 like that's awesome
+2:50:20 back clip it
+2:50:24 or could use the
+2:50:27 it's
+2:50:28 let's open this one up
+2:50:31 could use the depth queue
+2:50:33 do you guys know this trick about the
+2:50:34 depth queue by the way no let's see
+2:50:37 window fill window building something
+2:50:39 only
+2:50:41 oh that's that didn't feel window
+2:50:43 building only at all
+2:50:47 um adapt Q
+2:50:50 so uncheck keep start and end in sync
+2:50:54 and just do some whatever amount doesn't
+2:50:56 matter
+2:50:57 and then if you get back to your floor
+2:50:59 plan View and click on this
+2:51:01 you actually have a depth cue start and
+2:51:04 a depth queue finish Isn't that cool
+2:51:08 so that you can start your depth queue
+2:51:12 by dragging this
+2:51:14 to the front
+2:51:16 of that
+2:51:18 just in front of it something like that
+2:51:27 sweet
+2:51:32 yeah I should expand I mean this is the
+2:51:34 only problem with it is because with the
+2:51:35 vector you're going to see this overlap
+2:51:40 um you should have it in your now you
+2:51:42 have it it's in beta it's in it's in the
+2:51:45 beta folder
+2:51:46 if you updated it all
+2:51:49 I'll check for the update oh maybe you
+2:51:51 didn't update in a while
+2:51:52 I think you've just updated so if you
+2:51:55 did it's in under shop it's in beta
+2:51:59 stuff
+2:52:01 is where it should be
+2:52:06 I say shop like a midwesterner that's my
+2:52:08 Midwest family coming through
+2:52:11 um
+2:52:13 so basically I just need to build more
+2:52:16 buckets for this
+2:52:19 more Hardware I think
+2:52:22 I think you can even like set the flange
+2:52:25 height and stuff
+2:52:28 okay so if we choose this
+2:52:31 let's kick the sun around so we can see
+2:52:37 okay
+2:52:39 so if we choose this
+2:52:48 front sides back front sides back really
+2:52:50 looking at here this is the
+2:52:53 this is the front so that means that
+2:52:58 the
+2:53:04 what is this four inch height what if we
+2:53:06 set this to six
+2:53:08 inch
+2:53:09 there's a blank area okay it's
+2:53:12 highlighting things for me
+2:53:14 blank area blank area blank area
+2:53:17 okay so this sets this whole height this
+2:53:20 layout here because then it's got
+2:53:21 separation which means nothing and then
+2:53:24 another blank area that's unlocked so
+2:53:27 because it's unlocked you can set this
+2:53:29 to be like eight
+2:53:31 and you're gonna get a taller flange
+2:53:32 that's so cool
+2:53:36 uh that's funny
+2:53:38 I like it so that's taller flange and
+2:53:42 then let's look at the
+2:53:44 upper bucket should just be here exactly
+2:53:48 same thing if you set this to five
+2:53:51 smaller flange
+2:53:54 and then
+2:53:56 how does the
+2:53:59 top buckets got to be applied from
+2:54:03 aside
+2:54:05 how did I do that
+2:54:15 huh
+2:54:16 if we
+2:54:19 change this to a drawer
+2:54:21 okay so that's not affecting the bucket
+2:54:23 funny
+2:54:25 so that's definitely the buckets coming
+2:54:27 from
+2:54:29 door panel door left
+2:54:33 door right
+2:54:36 that time the bucket's coming from it so
+2:54:39 hold on it's undo
+2:54:43 or did I hit cancel
+2:54:45 oops I already hit cancel the sign again
+2:54:51 okay
+2:54:59 where is the bucket coming from let's
+2:55:01 see the back face back face is a custom
+2:55:04 face
+2:55:05 okay Simpson back bracket and bucket so
+2:55:10 it's coming from the back
+2:55:13 face the front face
+2:55:16 is a Simpson bracket leg and then the
+2:55:19 back face is the bucket
+2:55:23 and can we change the size
+2:55:26 of the bucket
+2:55:31 I miss it
+2:55:33 oh it's the bracket
+2:55:36 and the bucket so you can't change the
+2:55:39 size of the bucket
+2:55:41 only in the bracket or one or the other
+2:55:44 only
+2:55:49 which is fine and then you can change
+2:55:51 the size of the post
+2:55:54 so this is a
+2:56:00 um maybe change the size of the post
+2:56:04 foreign
+2:56:09 I gotta fix some things for resizing
+2:56:18 does not still look like a six by six
+2:56:20 and not a three and a half by three and
+2:56:22 a half
+2:56:24 kind of does
+2:56:26 it's almost like it needs to be what's
+2:56:27 the box construction it's framed
+2:56:30 Oh see it shouldn't be on overlay it
+2:56:32 should be in set
+2:56:35 that would make
+2:56:37 more sense and then I need those
+2:56:39 brackets to be
+2:56:42 offset three quarters of an inch
+2:56:45 in order to work correctly
+2:56:48 yeah got some work to do on this system
+2:56:51 that'd be cool when it's finished though
+2:56:53 maybe I'll mess around with it
+2:56:56 in
+2:56:57 holidays December
+2:57:00 funny
+2:57:02 all right
+2:57:03 time for me to go goof around
+2:57:07 got a whole lot of nothing done actually
+2:57:09 no I started that Library System
+2:57:14 we also found out that we can get some
+2:57:16 additional values from linking a call
+2:57:19 out in a layout
+2:57:21 in a layout dropping a call out in
+2:57:23 linking it to Something in layout and
+2:57:25 that gets us
+2:57:27 some reported values and what can we use
+2:57:29 that for I'm going to dream about that
+2:57:33 I want to look at that again real quick
+2:57:39 and then I'm hoping because I have the
+2:57:40 system started in library that is I work
+2:57:43 tomorrow I'll keep
+2:57:45 improving it the tag system
+2:57:48 so back to layout
+2:57:57 and
+2:58:05 so let's say we have a call out
+2:58:14 and this is blah blah blah and blah blah
+2:58:18 and we want to link it to this page
+2:58:23 you could also link it to CAD details
+2:58:38 how does linking it to a cad detail help
+2:58:54 wait a minute
+2:58:57 what does this change what does this
+2:58:59 change hold on
+2:59:01 wait a minute wait a minute wait
+2:59:03 until
+2:59:04 new cat detail
+2:59:07 I think assisting
+2:59:09 for again
+2:59:13 it's like this and I think this is going
+2:59:16 to get us nothing again
+2:59:26 now let's link this
+2:59:32 to existing floor plan
+2:59:46 oops don't double click now we got e
+2:59:49 open
+2:59:50 call out watch a
+3:00:00 or wait wait can we do this
+3:00:03 can we do
+3:00:06 A1
+3:00:16 P1
+3:00:21 equals
+3:00:23 what we need we need what this is so we
+3:00:26 need
+3:00:32 there it is layer no that's layered text
+3:00:36 Style
+3:00:39 I want
+3:00:40 linked view name
+3:00:44 linked view name
+3:00:52 wait
+3:00:54 you
+3:00:56 name
+3:01:08 hold on
+3:01:24 it's so obvious it's so obvious
+3:01:29 it's so
+3:01:31 freaking
+3:01:33 obvious it was so obvious
+3:01:42 [Music]
+3:01:44 simple the whole time through
+3:01:55 annoyed at how obvious that is
+3:02:30 page one existing floor plan
+3:02:34 existing floor plan
+3:02:37 relink to Foundation plan Foundation
+3:02:41 plan Foundation plan Foundation plan
+3:02:45 so obvious
+3:02:51 so the only thing that the end user
+3:02:53 needs to do when they're inserting a
+3:02:54 page is just do it real quick
+3:02:56 let's just
+3:02:59 copy this
+3:03:04 let's go to a blank page blank blank
+3:03:06 blankety blank here's a blank page I'm
+3:03:09 going to provide the last page is going
+3:03:11 to be the page that I provide and we're
+3:03:14 on page 15 so this is p15
+3:03:19 p15
+3:03:21 so all I'm gonna do is I'm gonna go to
+3:03:25 Pages page 15 the last page
+3:03:28 duplicate the Page open it up now it's
+3:03:32 open
+3:03:33 change this to p16
+3:03:36 and then link it to whatever page title
+3:03:39 I want it to be called
+3:03:43 and the last
+3:03:45 thing about this well we duplicated page
+3:03:47 15 but the problem with page 15 was it
+3:03:49 didn't already have its title
+3:03:52 because if it did we wouldn't need to do
+3:03:54 anything except for edit
+3:03:56 the label to be well we still need to
+3:03:59 add labels but this is only if you're
+3:04:01 building out a more robust template
+3:04:04 if you're just adding a page on the Fly
+3:04:06 I still say just come in here and say
+3:04:10 um a pound and whatever the heck your
+3:04:12 page title is new page we added
+3:04:16 still faster than using my system
+3:04:19 but if you want to build a system with
+3:04:21 way more
+3:04:22 diverse pages
+3:04:24 then instead of doing that you would
+3:04:27 just say whatever page number this is
+3:04:31 page 16.
+3:04:36 php16 title p16
+3:04:40 page oh we're missing that
+3:04:43 missing the thing
+3:04:46 16.
+3:04:51 and
+3:04:53 it's way easier
+3:05:02 what was this regards to I think it's
+3:05:05 going to be in Rab's saved plan view
+3:05:07 label text macro
+3:05:11 what is
+3:05:13 you have to tell me what that was about
+3:05:27 give me a complete thought here I'm not
+3:05:28 tracking
+3:06:01 so the great thing about this system is
+3:06:03 I can provide
+3:06:06 30 pages and you can just reorder the
+3:06:08 pages and it doesn't matter what the
+3:06:10 numbers are if you not just you don't
+3:06:12 need to pay attention to what the macro
+3:06:15 designation is the numbers there doesn't
+3:06:17 matter because you can move this in
+3:06:19 front of the previous page
+3:06:20 no problem
+3:06:22 exchange with previous pages so it's way
+3:06:24 easier for me to build out a system
+3:06:25 where it's just the duplicate of this
+3:06:27 page over and over and over again and
+3:06:28 I'm just changing a number here and a
+3:06:30 number in the in the page label info
+3:06:36 so I can give like 30 pages and then you
+3:06:38 just take one of those pages and kick it
+3:06:40 over and
+3:06:42 relink it to whatever you want
+3:06:46 I think that's a better system
+3:06:48 I think it's it's not quite as slick as
+3:06:50 just dragging the leader line over which
+3:06:52 I did like but doesn't seem like that
+3:06:54 system is holding up very well
+3:06:57 but it is easy to just come in here and
+3:06:59 do that
+3:07:07 it's not graphical you still have to
+3:07:08 open up a dialog box but that's still
+3:07:11 pretty quick
+3:07:15 mm-hmm
+3:07:34 all right I did get something done today
+3:07:36 good
+3:07:39 it's gonna be a little faster tomorrow a
+3:07:40 little bit
+3:07:58 yeah agreed
+3:08:02 I really wanted the leader line system
+3:08:05 to work because I like that system works
+3:08:07 with my brain really well but I think
+3:08:09 this
+3:08:09 is better for the group as a whole
+3:08:15 until we get call out schedules which
+3:08:18 man I am going to just Hammer that home
+3:08:21 in this
+3:08:24 um if I get nothing else for x16 if you
+3:08:28 guys didn't see this by the way I'm
+3:08:29 going to post this I would encourage you
+3:08:32 um to jump on board with this
+3:08:35 uh suggestion I made I'm gonna post a
+3:08:37 link to it right now
+3:08:48 post Link in the comments
+3:08:54 in the comments
+3:09:04 so
+3:09:08 I'm the suggestion is that we combine
+3:09:10 notes and call outs into one tool not
+3:09:13 only notes and call outs pretty much
+3:09:15 everything
+3:09:17 that is
+3:09:18 like a text based system that reports
+3:09:22 the schedule
+3:09:23 notes call outs markers construction
+3:09:25 lines like why not I see no reason that
+3:09:30 one tool can't do all of that based on
+3:09:33 what parameters you set
+3:09:35 right
+3:09:36 the benefit of call outs is that we can
+3:09:38 link them to things so that double click
+3:09:41 and go to that linked thing or when you
+3:09:44 send it to layout you can automatically
+3:09:46 parse what page that's being sent to
+3:09:50 or
+3:09:52 um
+3:09:53 you can you know you link it to a cad
+3:09:55 detail and you double click and it
+3:09:56 navigates to that CAD detail or you get
+3:10:01 information from the thing that you're
+3:10:02 linking to
+3:10:05 right so already call out is pretty
+3:10:07 powerful for those reasons
+3:10:11 notes have a note schedule
+3:10:14 why don't we have a call out schedule
+3:10:16 still don't understand it and I don't
+3:10:18 get it so there's no reason why a note
+3:10:20 can't also be a call out so
+3:10:24 should just be one tool you should be
+3:10:26 able to use a call out for you know
+3:10:28 Keynotes you should be able to use a
+3:10:29 call out for callouts you should be able
+3:10:30 to use a call out just to parse
+3:10:32 information from anything you should be
+3:10:34 able to use a call out to generate a
+3:10:35 schedule based on anything that you want
+3:10:38 to link to
+3:10:39 should be able to make a
+3:10:42 a schedule based on call outs linking to
+3:10:45 whatever thing you want to whatever view
+3:10:48 you want to link to in another plan so
+3:10:51 that if you've got a whole Warehouse
+3:10:52 system built with your plan files and
+3:10:55 templates and stuff that you can use
+3:10:57 that call out to create a schedule of
+3:10:59 all of your Warehouse plans what if we
+3:11:01 had a schedule of all available plans
+3:11:03 that you have that have applicable
+3:11:05 details to your project
+3:11:07 so there's the next part and then
+3:11:09 construction lines should just be call
+3:11:11 outs so we should be able to actually
+3:11:13 order the construction lines based on a
+3:11:16 schedule
+3:11:17 wouldn't that be great instead of coming
+3:11:19 up with some stupid workaround for
+3:11:22 ordering our call our um our
+3:11:25 construction lines we should be able to
+3:11:27 just do it from dragging and dropping in
+3:11:28 the schedule like we can already do in
+3:11:30 notes same thing with detail call outs
+3:11:33 should be able to order that just by
+3:11:34 using the schedule
+3:11:36 and then there's no reason that it can't
+3:11:38 be a marker there's no reason that it
+3:11:40 can't be some datum or something like
+3:11:42 that there's no reason that we can't use
+3:11:44 it on our plot plans to designate things
+3:11:47 for them get information for
+3:11:49 um so you know once they do that that's
+3:11:52 going to solve so many of my issues and
+3:11:55 I'm going to have a bunch of systems for
+3:11:57 you guys that you're going to love
+3:11:58 because that's the only thing holding me
+3:11:59 up because I want
+3:12:01 schedules for callouts
+3:12:03 it's basically what I need and then you
+3:12:06 can create your and we want that tool to
+3:12:09 work in layout because then you can
+3:12:11 create your own page index based on
+3:12:13 whatever you want to do
+3:12:16 based on any macro
+3:12:19 right then we can create our own page
+3:12:22 index that works we can create a
+3:12:23 graphical front-end that works
+3:12:26 so
+3:12:27 anyways I went off on a little tangent
+3:12:29 there click on that link and go out to
+3:12:31 your two cents and maybe it's something
+3:12:32 we can Bank on them seeing you know they
+3:12:35 they tend to say that they like the
+3:12:38 strength in numbers approach
+3:12:40 who knows
+3:12:46 and I met the guy that built all that
+3:12:47 stuff
+3:12:48 and when I was talking to him he was
+3:12:50 like huh I never thought you would want
+3:12:51 that and I'm like oh dude if you only
+3:12:55 knew if you only knew how many things I
+3:12:58 could build with that tool
+3:13:06 or better yet why don't you just make it
+3:13:08 so that anything can be a call out
+3:13:11 anything a cabinet can be a call out why
+3:13:14 not
+3:13:15 why not
+3:13:17 there's no reason
+3:13:23 because then we've got the most dynamic
+3:13:25 tool in the business if we just make one
+3:13:27 tool that can do everything every other
+3:13:29 tool can do
+3:13:30 I'd be down for that
+3:13:37 logistical nightmare for him but you
+3:13:39 know
+3:13:43 all right I'm done I feel accomplished I
+3:13:45 feel like I got something something
+3:13:47 crucial done
+3:14:03 everybody everybody watching this thank
+3:14:05 you for joining
+3:14:06 um I know this was a mess of a show
+3:14:15 to get SF what's SF
+3:14:18 it's crazy what we have to do
+3:14:20 so much just to get SF
+3:14:27 houses that's a what's the SF part it's
+3:14:30 crazy how much we have to do to get SF
+3:14:40 square footage
+3:14:41 you don't like the polyline system
+3:14:45 what would you what would you rather
+3:14:46 have I guess the biggest problem is
+3:14:49 no one uses the model in a linear form
+3:14:52 right you have to create a perfect model
+3:14:54 to get a perfect square footage and for
+3:14:58 the most part not many people do that
+3:15:00 um
+3:15:03 right that would take a long time to do
+3:15:06 that so that's why I like the polyline
+3:15:09 system
+3:15:11 um
+3:15:12 and you have Boolean you have simple
+3:15:14 math you could do in the in in your
+3:15:17 areas
+3:15:18 um
+3:15:19 so that's another part of it
+3:15:24 that was that's why when they introduced
+3:15:26 the polyline schedules that was a big
+3:15:27 deal
+3:15:28 once we finally had a way to do area
+3:15:30 analysis that wasn't all crazy
+3:15:35 and some simple macros can subtract so
+3:15:38 I'm like if you guys need someone just
+3:15:40 um came back to me and said they wanted
+3:15:41 you know all their deck areas integrated
+3:15:44 into their square footage reports I need
+3:15:46 to see someone's example report of what
+3:15:48 they actually have to give for their
+3:15:50 jurisdiction so that I
+3:15:52 can improve that system
+3:15:54 um I built the system just so it was
+3:15:56 obvious to adopt but
+3:15:59 doesn't necessarily mean
+3:16:01 that people know how to adopt it
+3:16:04 so you can you can add some things to it
+3:16:07 and use the same approach you would just
+3:16:09 have to know
+3:16:11 that the far calculation far floor area
+3:16:15 ratio calculation and the lot coverage
+3:16:19 percentage are being handled in a macro
+3:16:21 that I are either in the polyline itself
+3:16:24 or in-text macro management actually not
+3:16:27 sure
+3:16:32 versus
+3:16:35 I know that
+3:16:37 Joe has a system for
+3:16:41 um
+3:16:42 all his analysis but it's so much to
+3:16:46 maintain and it's so easy to break and
+3:16:48 chief breaks it with new versions
+3:16:50 because he's implementing all these
+3:16:52 really Advanced Ruby scripting things
+3:16:54 seem to have trouble getting through it
+3:16:57 in to let him know that
+3:16:59 you know he might be doing Advanced Ruby
+3:17:01 but Chief is not providing things to
+3:17:04 make advanced Ruby work all the time so
+3:17:06 that a new thing is introduced and then
+3:17:08 it breaks this whole system
+3:17:10 and and it's like just scale yourself
+3:17:13 scale your stuff down to the simplest
+3:17:16 form to get what you want out of it and
+3:17:18 that will be the best solution for chief
+3:17:22 so these coverage analysis deals let's
+3:17:26 see lot size is coming from
+3:17:29 lot sizes area that's fine so that
+3:17:34 coverage percentages must be handled in
+3:17:40 here somewhere I would think
+3:17:42 or it's handling it in the object
+3:17:45 information panel
+3:17:47 what size cabinet people don't want to
+3:17:50 change
+3:17:52 oh there it is
+3:17:54 there's the formula too there's the far
+3:17:56 formula so it's saying new coverage
+3:18:02 it's weird econ and what am I calling it
+3:18:05 Con and con
+3:18:07 econ and oh condition space
+3:18:10 new condition Space versus existing or
+3:18:13 plus condition existing condition space
+3:18:16 divided by lot size
+3:18:18 and then round it to do two decimal
+3:18:22 places it's a really simple macro so you
+3:18:25 can build out
+3:18:27 that's and then far is just being
+3:18:29 reported to schedule and then you can
+3:18:31 build out that same analysis for Dex
+3:18:34 very simply and you would just add a new
+3:18:36 field deck coverage
+3:18:38 and it would just be
+3:18:41 you know whatever you whatever you want
+3:18:43 a total of deck coverages and you can
+3:18:45 add a couple polylines that are
+3:18:46 reporting deck coverages that's that
+3:18:48 kind of stuff
+3:18:50 um
+3:18:51 you bought my system did you you didn't
+3:18:54 buy my Pro Plan I thought you had my Pro
+3:18:56 Plan Ken
+3:18:59 um
+3:18:59 but yeah this whole analysis is coming
+3:19:01 from that
+3:19:04 maybe you didn't maybe maybe you had the
+3:19:06 full library and not the plan
+3:19:09 I thought you did I'm pretty sure you
+3:19:11 did
+3:19:12 it's here just you can go
+3:19:15 reverse engineer it
+3:19:20 yeah because here's percentage of
+3:19:22 coverage is existing coverage plus new
+3:19:24 coverage
+3:19:26 divided by a lot size times a hundred
+3:19:29 round to two and then put a percentage
+3:19:31 somewhere around two and that's it yeah
+3:19:35 um but yeah you can make these work for
+3:19:37 anything that you want really
+3:19:43 so decks and Etc and second floors and
+3:19:48 all that stuff
+3:19:49 it's pretty simple to make this work for
+3:19:51 a second floor too
+3:19:52 you would just go up a floor take the
+3:19:55 polyline cut it bring it down and then
+3:19:58 add it to the existing coverage and
+3:20:00 merge the two
+3:20:04 so that Parts easy
+3:20:20 and I used I used to do a
+3:20:23 set this at the beginning I used to do a
+3:20:26 panel schedule based on polylines
+3:20:29 and Outlets
+3:20:31 and based on what room they're in
+3:20:34 I don't know
+3:20:39 yeah someone's was saying that they need
+3:20:42 like I know some jurisdictions ask for
+3:20:45 like the impervious area and then they
+3:20:47 asked for decks and
+3:20:49 square footages and stuff like that
+3:20:53 um we can do that and I mean you've got
+3:20:55 reported values from rooms and square
+3:20:57 footage from rooms and you can tally the
+3:21:00 rooms and you can have a room schedule
+3:21:02 that gives you overall
+3:21:05 square footage of condition Space versus
+3:21:07 unconditional what happens when it
+3:21:09 happens when we do
+3:21:12 tools schedules
+3:21:16 room finish schedule Maybe
+3:21:22 so there you go you have area
+3:21:30 and you need to only include things that
+3:21:33 are conditioned space right so that if
+3:21:35 this is
+3:21:37 a garage
+3:21:39 here
+3:21:44 what other reported values do we have
+3:21:46 we've got
+3:21:51 what is that what's Excel tell me
+3:22:20 do you know what it's about
+3:23:22 is it a model oh it's it is a model
+3:23:27 is it a model or is it a version is it a
+3:23:29 whole new
+3:23:32 python deal or is it a model
+3:23:36 foreign
+3:23:45 AMD it's my main issue
+3:23:49 I do not want to deal with
+3:23:52 my Nvidia machine
+3:23:55 so well set up on my AMD machine
+3:24:08 I'll have to ask the AMD rep and see
+3:24:11 what's up what up with it
+3:24:15 no I meant AMD not and
+3:24:18 d
+3:24:26 um
+3:24:44 I don't know we'll have to look it up
+3:24:48 I have to check it out no I'm checked
+3:24:50 out for tonight I'm so sick of being in
+3:24:53 front of computer I'm surprised we made
+3:24:54 it this long this long
+3:25:02 so I'm showing totals
+3:25:08 and then say that this room is
+3:25:12 not included because it's not
+3:25:15 conditioned
+3:25:17 so we would just say it's not included
+3:25:19 in schedule
+3:25:21 and then you have area interior area so
+3:25:24 I mean that gives you square footage
+3:25:26 and then you can do a custom schedule
+3:25:29 that just includes your decks
+3:25:32 so hold on
+3:25:35 how come people don't use a room
+3:25:37 schedule finish there must be something
+3:25:38 wrong with it that more people don't use
+3:25:40 it right
+3:25:46 so there's a deck
+3:25:51 and include and schedule as custom
+3:25:55 uncheck room
+3:25:57 and new custom category deck
+3:26:01 okay
+3:26:04 and pop this down and this is now just
+3:26:10 decks
+3:26:19 so that gives me the area for the deck
+3:26:25 so pulling this full circle
+3:26:33 let's just bing bing bing bing bing bing
+3:26:43 bing bing bing bing bing and what's the
+3:26:47 other area we have we have two areas
+3:26:48 area actual area
+3:26:50 blah blah
+3:26:53 area actual reports nothing interesting
+3:26:57 um I think that's because it's a deck
+3:26:59 area standard area interior area
+3:27:02 standard
+3:27:08 interesting we don't have area actually
+3:27:10 here anyways so
+3:27:14 okay
+3:27:18 are those two different they are
+3:27:20 different so once the exterior of the
+3:27:22 wall ones to the interior of the wall
+3:27:24 so this is going to be area action area
+3:27:26 standard there is standard
+3:27:32 so now so now we relabel this deck decks
+3:27:40 ignition space
+3:27:45 condition rooms
+3:27:55 unconditioned rooms
+3:27:59 and we need name
+3:28:02 room name
+3:28:07 we already had room name oops
+3:28:11 we just didn't have anything labeled
+3:28:14 path Etc
+3:28:21 sure
+3:28:24 conditioner rooms and conditioner rooms
+3:28:26 blah blah blah and then
+3:28:29 okay
+3:28:30 don't include don't include don't
+3:28:32 include new custom category conditioned
+3:28:35 on
+3:28:36 conditioned rooms
+3:28:41 and condition rooms uncheck room
+3:28:46 bam and so now this is
+3:28:51 do include in schedule include and
+3:28:53 schedule as custom unconditioned room
+3:29:10 garage
+3:29:16 so what's wrong with this I don't see
+3:29:18 anything wrong with this
+3:29:22 and then a room can have an OIP
+3:29:27 right because it's a publisher no it
+3:29:30 does not
+3:29:32 as components
+3:29:38 that's the problem
+3:29:41 we don't have any
+3:29:48 we don't have any custom fields
+3:29:51 which we should get
+3:29:58 so what can you do without custom fields
+3:30:07 what happens when you add a component
+3:30:14 and this component has
+3:30:18 something
+3:30:23 component code for an accessory
+3:30:27 and the component code equals
+3:30:37 area times whatever area times two
+3:30:40 whatever that whatever that means okay
+3:30:54 and now what is our what does that
+3:30:57 publish
+3:31:03 do we get a sub item no
+3:31:19 let's go let's sort in sorted sure this
+3:31:23 sort of text
+3:31:24 probably sorted
+3:31:43 present Essex Hotel a latent diffusion
+3:31:45 model for text to image synthesis
+3:31:47 compared to previous versions table
+3:31:48 leverages a three times larger unit
+3:31:51 backbone I wonder what the unit backbond
+3:31:53 stands for and then the increase of
+3:31:55 model parameters is mainly due to more
+3:31:57 attention blocks and a larger
+3:31:58 cross-attention context assistance
+3:32:01 is a second text encoder okay so they're
+3:32:04 getting
+3:32:05 so they're increasing its bandwidth
+3:32:07 gotcha so which means better results
+3:32:09 gotcha
+3:32:12 great
+3:32:15 just a matter of time they'll triple it
+3:32:17 next time
+3:32:19 um
+3:32:21 let's see so we don't get any
+3:32:25 component based info from
+3:32:29 this
+3:32:41 okay so there's a simple solution
+3:32:44 um what can report to a schedule can a
+3:32:46 text box refer to schedule I'm losing
+3:32:49 I don't think so right no I can't but a
+3:32:54 note can and so we could just drop a
+3:32:56 note
+3:32:56 in here
+3:32:58 that references
+3:33:01 something
+3:33:03 and the note can report to schedule
+3:33:08 and it would have its own
+3:33:12 custom field
+3:33:22 and it could be
+3:33:29 room name
+3:33:31 does a note gather information such as a
+3:33:34 room name
+3:33:36 of all
+3:33:39 yeah and then macrame object properties
+3:33:46 I mean no object to the examine
+3:33:55 does it get a room name no it gets room
+3:33:59 and republisher not room name
+3:34:03 but you could say you could write your
+3:34:06 own
+3:34:08 macro no you can't because
+3:34:11 we don't have
+3:34:15 don't have a bunch of things
+3:34:17 that's funny
+3:34:20 so you could build a system that did
+3:34:23 a bunch of analysis for your whole
+3:34:25 project if you replace room names with
+3:34:29 notes that had the room name in it
+3:34:34 example
+3:34:39 room
+3:34:43 that and put it here
+3:34:48 we go you can't do word wrapping too bad
+3:34:52 sorry so sad
+3:34:55 um
+3:34:57 you could do
+3:35:00 if you wanted to there we go
+3:35:04 and now you can use this to calc things
+3:35:06 what
+3:35:09 the heck
+3:35:11 um standard
+3:35:13 no what is this
+3:35:16 um
+3:35:18 should be a reference this won't show
+3:35:20 reference though it should though
+3:35:24 room schedule numbers to type and custom
+3:35:27 fields
+3:35:28 it's just really stuck like this room
+3:35:30 area I doubt that
+3:35:33 I doubt that
+3:35:37 let's see what we have now what we get
+3:35:40 what do we get from this
+3:35:49 I've never seen that before layer line
+3:35:51 color is that an RGB value
+3:35:54 it's not weird I don't know what that is
+3:36:02 shape size Exposition y position
+3:36:06 I forgot that they added this this was
+3:36:08 for Joe X position y position what would
+3:36:11 you use this for
+3:36:26 oh nice that we get more aspect ratios
+3:36:31 um
+3:36:32 I'm really mainly interested in control
+3:36:35 net and stable diffusion so
+3:36:37 you know a better
+3:36:39 a larger pool of data is going to be
+3:36:42 helpful for that
+3:36:45 um
+3:36:46 that's the main thing and then the next
+3:36:49 thing for them to step up into the new
+3:36:50 ages they need to get higher resolutions
+3:36:54 in more detail
+3:36:56 no no offense
+3:37:00 it's great for conceptualizing though
+3:37:02 still
+3:37:05 and it's great at the conceptualization
+3:37:06 looks better
+3:37:09 than it does already
+3:37:12 I don't think anyone's really captured
+3:37:14 how you could possibly make
+3:37:17 income based on images that are Loosely
+3:37:20 representative of what you wanted
+3:37:25 until we get images that are exactly
+3:37:27 what we want and that's
+3:37:29 and that's the money maker
+3:37:33 and then the other thing is and I mean
+3:37:35 there's no reason we can't do this right
+3:37:36 now
+3:37:37 and I and I wish someone else would do
+3:37:39 it because I don't want to Justin go do
+3:37:42 this right now
+3:37:45 go pick up Dragon speaking
+3:37:47 I think it comes with phrase Express
+3:37:50 and come up with a system so that it
+3:37:53 drives macro creation not macro creation
+3:37:55 it drives
+3:37:57 keyboard Strokes based on
+3:38:01 um
+3:38:03 your voice input
+3:38:05 so that I can say
+3:38:07 add a 14 inch TGI floor system to floor
+3:38:12 number two and it just bing bing bing
+3:38:14 bing bing bing bing it would literally
+3:38:17 do this it would go it would do whatever
+3:38:19 the hotkey is for floor defaults
+3:38:22 well look for first floor second floor
+3:38:25 first
+3:38:26 right
+3:38:27 somehow not sure how let's just say I
+3:38:31 assume there's a floor default here so
+3:38:32 first floor
+3:38:34 so it's going to drill down the first
+3:38:35 floor double click it open it get into
+3:38:38 the structure tab through all this
+3:38:41 faster than humanly possible get to the
+3:38:44 floor structure edit
+3:38:45 tab through this set it to TGI
+3:38:48 exit exit exit done done and we got that
+3:38:52 voice activated absolutely no reason we
+3:38:55 can't do that right now we can we
+3:38:58 absolutely can and if you built that
+3:39:00 system and it was a robust system it'd
+3:39:02 be worth big bucks to me
+3:39:05 if I could just say you know change the
+3:39:08 change all walls to two by six walls
+3:39:10 great bam change the roof to 6 and 12
+3:39:13 pitch roof with the so and so rafter and
+3:39:15 it did it bam like that's cool
+3:39:24 all right so the note inside of the room
+3:39:26 reports a lot less than I thought that
+3:39:28 it would report
+3:39:30 and what happens when you draw a leader
+3:39:33 to a wall
+3:39:34 does it give us some reference info
+3:39:47 it gives us the wall details and info
+3:39:52 does it still give us a room name
+3:39:58 no interesting
+3:40:03 and so
+3:40:06 how do you pull an area
+3:40:09 from a wall schedule
+3:40:14 basically there's no way to do
+3:40:17 you want a custom field in this schedule
+3:40:20 you can take a note if we undo deleting
+3:40:23 that note if you can take a note and say
+3:40:26 that it's included in your custom
+3:40:29 schedule
+3:40:31 right
+3:40:35 and what does it actually
+3:40:38 display
+3:40:40 a whole lot of blank because it doesn't
+3:40:42 have a room name
+3:40:44 it's not reporting area and it's not
+3:40:46 reporting standard but it will report a
+3:40:48 line item for you if you want
+3:40:50 so how does that I'm going to do this
+3:40:53 just to help myself structure this idea
+3:40:56 swap Rose columns
+3:40:57 now we've got
+3:41:00 there's deck the room name
+3:41:03 so what would be useful here
+3:41:06 that would report information about the
+3:41:09 deck that we could get from a note or an
+3:41:13 object or a fixture or anything
+3:41:23 you can report a polyline to this
+3:41:25 schedule and that would report area but
+3:41:28 then you're back just on making
+3:41:29 polylines area stuff
+3:41:32 which I mean is fine
+3:41:34 um
+3:41:36 yeah I'm kind of thinking no matter what
+3:41:38 the best
+3:41:40 reporting is going to come from
+3:41:47 it's going to come from the pylons
+3:41:49 I could include this there's no reason I
+3:41:52 can't I wouldn't you know there's no
+3:41:54 reason not to include this as an ad
+3:41:58 option for people
+3:42:00 that want to report additional things
+3:42:04 it's good data
+3:42:06 I think
+3:42:08 how are we reporting area I mean if this
+3:42:10 is coverage area then it's
+3:42:19 then that's it right there and what is
+3:42:22 that area that area is
+3:42:27 246.35 that's our 246 area interior
+3:42:32 so where's the 248 coming from
+3:42:38 half of this wall
+3:42:44 24635
+3:42:45 that's the external area and they're
+3:42:48 calling it inter interior
+3:42:52 and so if I go half of this wall
+3:42:55 and have this wall
+3:42:57 is that giving my 248 because that's
+3:42:59 weird
+3:43:01 that doesn't seem like it
+3:43:04 249.
+3:43:06 where's the 248 coming from this one
+3:43:09 here
+3:43:20 uh but it was seeing that as
+3:43:24 a groom makes standard makes standard
+3:43:27 area polyline
+3:43:29 that's the
+3:43:33 that's the framing
+3:43:37 that includes framing
+3:43:42 hmm
+3:43:45 because what's this one 595
+3:43:48 .95 that's this area standard 595 versus
+3:43:53 interior area only
+3:43:58 and this report's here now
+3:44:02 566 volume interior parameter dimensions
+3:44:07 okay
+3:44:09 hmm
+3:44:25 I'm going to make a new suggestion to
+3:44:27 Chief talk
+3:44:28 it's going to be
+3:44:32 we shouldn't have to split this up into
+3:44:33 multiple schedules we should just be
+3:44:35 able to set
+3:44:36 um check parameters like as divisions
+3:44:39 right it can be one schedule
+3:44:43 that includes
+3:44:45 multiple different things
+3:44:47 and then we should have the option
+3:44:50 on which of those multiple different so
+3:44:52 let me give you let me back up
+3:44:55 I've got custom
+3:44:58 schedule reported it's custom schedule
+3:45:02 reporting categories
+3:45:04 condition rooms unconditioned rooms and
+3:45:07 then unknown
+3:45:10 but I want to include all of it in the
+3:45:12 schedule
+3:45:15 but let's say that I want condition
+3:45:17 rooms and unconditioned rooms to be the
+3:45:19 only headings you should be able to
+3:45:21 choose which of those custom parameters
+3:45:23 are in one schedule which should all be
+3:45:25 in one schedule and then
+3:45:27 those headings should have the option to
+3:45:30 tally just that heading section or tally
+3:45:33 everything together or do both
+3:45:37 then we can get total condition space
+3:45:39 Total unconditioned Space and total
+3:45:42 overall
+3:45:43 in one schedule no reason why we
+3:45:46 shouldn't be able to get that I think
+3:45:47 that should be a thing so
+3:45:50 there's another idea for x16 ever get to
+3:45:54 it
+3:46:02 all right I'm gonna go chill out yep I'm
+3:46:05 gonna go I have a glass of wine
+3:46:07 a little a little bit of dark dark
+3:46:10 chocolate I think
+3:46:16 um I'll end with
+3:46:18 one last note I finally got an email
+3:46:21 back from the guy that did hire me and
+3:46:23 gave me a deposit to
+3:46:28 build out a really
+3:46:31 extensive cabinet pricing system
+3:46:36 I know I can do it I just have never had
+3:46:40 the desire to because of how many number
+3:46:41 how many hours there are in it
+3:46:44 and I finally had someone come to me for
+3:46:46 that and and it's
+3:46:50 um extremely expensive to build but it's
+3:46:52 worth it to this client
+3:46:55 and it's going to be a system that
+3:46:59 um
+3:46:59 everything is a custom component that is
+3:47:03 saved to style palettes or objects in
+3:47:06 the library and those are all associated
+3:47:08 with custom toolbar icons
+3:47:11 so that
+3:47:12 every drawer actually has a physically
+3:47:16 replaced drawer that's a symbol that
+3:47:18 looks like a drawer and when that drawer
+3:47:21 is in plan
+3:47:22 it has a price associated with it
+3:47:25 and so as soon as you
+3:47:28 spray it with that you know that drawer
+3:47:32 by base that has a price to it as soon
+3:47:35 as you spray a certain cabinet with a
+3:47:37 certain box configuration that adds a
+3:47:39 price to it so basically they can drag
+3:47:41 and drop components to build out their
+3:47:43 cabinets the way that they actually
+3:47:44 build their cabinets and that the price
+3:47:46 is already set so that when they
+3:47:48 generate a material lists their price is
+3:47:50 actually like
+3:47:52 95 percent accurate and that they can
+3:47:55 just immediately quote just by designing
+3:47:57 the kitchen out
+3:47:59 and then it's easy for them to flip flop
+3:48:01 new features and immediately update
+3:48:04 their pricing
+3:48:06 um it's going to take me forever to
+3:48:09 build
+3:48:10 and it's like I said it was really
+3:48:12 really expensive and I quoted pretty
+3:48:14 high and um and the and this person's
+3:48:17 all for it so
+3:48:19 that's gonna come I don't know when it's
+3:48:21 going to get finished I'm hoping this
+3:48:23 year
+3:48:24 um I know they are hoping for it even
+3:48:25 you know sooner than that so
+3:48:29 and we'll see I'm kind of interested to
+3:48:31 dive in it's not something I would have
+3:48:32 done on my own because I feel like it
+3:48:34 would have been a lot of sunk in time
+3:48:35 and I don't need to price cabinets so I
+3:48:38 wasn't going to ever utilize it but I
+3:48:40 know cabinet vendors that do need to
+3:48:42 price cabinets so I'm interested to see
+3:48:45 how the system ends up and what I learn
+3:48:47 along the way
+3:48:49 so that'll be really cool and then other
+3:48:51 than that thanks for hanging out guys
+3:48:53 thanks for chilling out with me so
+3:48:58 I'm out almost midnight later yeah me
+3:49:00 too I'm done
+3:49:02 all right
+3:49:03 good night
