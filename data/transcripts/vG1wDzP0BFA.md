@@ -1,0 +1,3703 @@
+---
+videoId: vG1wDzP0BFA
+title: Chief Architect X15-Kitchen Quick Tools Demonstration *LIVE*
+url: "https://www.youtube.com/watch?v=vG1wDzP0BFA"
+status: imported
+---
+
+# Transcript
+
+0:01 I think yeah we're
+0:06 live and then we just get to hang out
+0:09 for people to show up um good hi meliss
+0:13 when people show
+0:14 up hi mkb you should change your name
+0:17 put put your Melissa in there how do I
+0:19 do that let see who the heck you
+0:22 are can I
+0:25 change edit name I'll do it for you ha
+0:30 oh there we
+0:33 go mkb is it mkb
+0:37 design yeah it's a short
+0:40 version there I like
+0:45 that mkb design oh doesn't even it
+0:49 doesn't even show her
+0:53 names all right welcome everybody um I
+0:57 have Melissa noons from MK be designed
+1:00 with me she's going to hang out we're
+1:02 going to design stuff like
+1:04 do um Melissa is in my area we
+1:09 collaborate on projects together um we
+1:12 have a pretty good rapport for designing
+1:15 with each other and then uh yeah you're
+1:18 kind of over in Contra Casta area I'm in
+1:20 Alam County um different
+1:24 Hills what's that just either side of
+1:26 the hills yeah exactly two sides of the
+1:30 hill uh and we're here to feature my
+1:33 kitchen quick tools and maybe you've
+1:35 been considering buying them or maybe
+1:38 you just want to know what's new in the
+1:40 X15 versions of them because there's
+1:42 quite a few new things or maybe you just
+1:43 want to see how I use them and then
+1:46 we'll just be showing you tips and
+1:48 tricks and workflow and how we work
+1:50 together and um and then also kind of
+1:53 towards the end of this is we're going
+1:55 to talk about a few things Melissa does
+1:57 as well and give her a little feature if
+1:59 she wants
+2:02 so I think we'll start with we're going
+2:05 to go we're going to go on to we're
+2:06 going to do one of my favorite things to
+2:08 sharpen my skills which is we're going
+2:10 to get on to the how website and go look
+2:13 at people's
+2:14 problems and try to solve
+2:16 [Laughter]
+2:19 them but um if you're in here make sure
+2:22 that um look at this if you're a
+2:25 Facebook user please go allow streamyard
+2:28 some permissions so we can who you are
+2:30 because otherwise you just look like
+2:31 this blank person so we don't know who
+2:33 you are so we don't know what to say to
+2:35 you hi hi
+2:39 nobody hi Facebook user Facebook user so
+2:43 we did prep a little bit and the and the
+2:45 prep was that we found a couple of
+2:46 kitchens that we thought we could
+2:48 probably handle pretty pretty easily
+2:51 it's Robin fiser
+2:53 awesome um Robin for some reason I have
+2:57 never introduced you to Melissa you to
+3:00 remind me of each other in approach to
+3:03 things and then we got e Tyson is in
+3:06 here nice and he's studying I think
+3:08 you're studying architecture is maybe
+3:10 what you're doing um all right so while
+3:14 we're chatting and you can look at
+3:15 comments Melissa I'm gonna I'm gonna
+3:18 screenshot this one because we were
+3:20 gonna do something with this one
+3:23 right so on the
+3:25 house page there's a section called
+3:27 design dilemas and so people post
+3:31 hopefully they give you enough info to
+3:33 actually do something with it um so this
+3:35 is design dilemma I will post as a
+3:39 picture and then oh thanks usually I'll
+3:42 try to take some known Dimensions so we
+3:45 can figure out exactly what size this
+3:48 thing
+3:49 is and so it looks like looks like it
+3:53 can probably take this 15 foot one
+3:56 dimension and probably try to figure it
+3:59 out from the cabinet sizes too yeah we
+4:01 got a we got a room size here that's 15
+4:03 foot one so we'll do
+4:06 that and then kind of Kick this in
+4:11 place let's get this inside wall to
+4:15 [Music]
+4:17 here and so these are my exterior walls
+4:19 kick those out and we'll kick in some
+4:22 interior walls and then we'll get to
+4:24 kitchen kitchen
+4:26 design so this is a weird one yeah this
+4:30 one definitely falls into the category
+4:33 of
+4:35 dilemmas yeah I don't some stuff there's
+4:39 some stuff that already makes me
+4:44 itch and Liss say you really haven't
+4:48 seen the new tools either so no this
+4:52 I've been been waiting for a free
+4:54 Saturday to really dig into it so
+4:57 been uh been holding
+5:01 off yeah so we're gonna we're going to
+5:04 preview the new tools and then also um
+5:07 I'm going to get some wow factor out of
+5:09 you I think I think I've got some new
+5:11 cool stuff in here that's pretty cool
+5:14 um and then we'll take a look at some
+5:17 some
+5:18 renderings so that's a
+5:21 4040 and then you got a 4040 single
+5:25 casement and then three of these
+5:35 so so the rules are on this one is we
+5:38 can't change any Windows exterior right
+5:42 no finestra changes on this one but
+5:46 interior interior will touch
+5:50 can yeah I think we can get rid of that
+5:52 weird Pantry
+5:56 wall let's see speaks very there we go
+5:59 go there's Ryan I mean Robin excuse
+6:03 me and let's
+6:05 see Glenn from design quiet cool thanks
+6:08 for joining us okay so I mean I'm pretty
+6:11 sure I want to get rid of that that
+6:14 pantry wall right what do you yeah I
+6:15 mean I can think of a couple different
+6:17 ways to go about that but you know some
+6:19 people really like that Butler's Pantry
+6:21 function but in this case it's just such
+6:23 an
+6:25 awkward it it really limits the space
+6:28 quite a bit yeah
+6:30 yeah um I think oh this is a 90 okay so
+6:34 there's a couple things here this
+6:36 building is probably 10 foot ceiling
+6:38 Heights so let's fix that real
+6:42 quick go up two
+6:45 feet because these are all going to be
+6:48 probably 96 inch head
+6:51 Heights so 16 inches Up and 16 inches up
+6:57 all right so that's what we're looking
+6:58 at and then there's this Pantry so you
+7:00 thinking we're removing this wall or
+7:03 no we can start there see what we can do
+7:05 with that
+7:12 okay and then any thought I mean
+7:15 refrigerator has to kind of go back here
+7:17 somewhere well so so one of the things I
+7:20 was thinking is you didn't you didn't
+7:23 put the doorway between the dining and
+7:24 the kitchen
+7:26 which we could do a lot with that with
+7:30 that wall if we don't have that doorway
+7:31 there I think they have an existing
+7:33 doorway uh between dining and oh between
+7:36 this you oh there's a doorway here okay
+7:39 so one of my thoughts is if
+7:41 we I don't know it depends around here
+7:44 formal dining rooms aren't really that
+7:47 big of a thing anymore um people don't
+7:49 use them as much so that whole wall we
+7:53 could do a Florida ceiling um pantry and
+7:58 Appliance wall there
+8:00 if we don't the fridge back in the
+8:02 corner where do you want so fridge is
+8:04 probably on left side
+8:08 here so one of my thoughts is we could
+8:10 do well how much space do we have from
+8:12 that Hall door to the
+8:14 corner from our Hall door to the corner
+8:18 this guy right here this section oh we
+8:21 have a two the uh five feet of space
+8:24 right
+8:25 here the the end oh this other side no
+8:30 uh see where the hallway is adjacent or
+8:32 on the other side of the pantry wall
+8:34 yeah so from that doorway that Hall that
+8:36 doorway to the dining room
+8:39 wall what's our clearance here to here
+8:43 no the hall
+8:46 door see the 2668 yes what about from
+8:51 that door casing what kind of clearance
+8:53 we have well we have a two 27 inches
+8:56 Okay cool so it's tight yeah um
+9:00 and I probably no refrigerator in front
+9:02 of
+9:06 there and I'm going to start building
+9:08 out this island while you're thinking
+9:10 about
+9:19 that and pointing and clicking and
+9:22 clicking stuff and showing stuff so for
+9:26 those of you that are not familiar with
+9:27 the kitchen tools especially for x
+9:30 15 I have now split them up into tool
+9:32 two toolbars because they were just
+9:34 getting to be
+9:38 gigantic so now I have toolbars for
+9:41 appliances and fixtures and then
+9:43 toolbars
+9:44 for all the rest of the
+9:46 tools um and my favorite is probably for
+9:49 Islands so we've got
+9:52 this this tool right here is going to
+9:55 give us a
+9:56 12in overhang if you're in a top view
+10:00 you can choose the um the Marquee
+10:03 selection and we can highlight that
+10:05 whole island run and it's going to apply
+10:06 all those settings all at once so that's
+10:10 our 12in back overhang um and I might I
+10:13 added a couple things one is I added a
+10:15 closed toe uh which I haven't linked to
+10:19 to anything yet because I just built it
+10:21 this
+10:24 morning here we
+10:26 go same thing close toe Marquee select I
+10:30 can select these two end
+10:32 cabinets and now I have a closed toe
+10:35 Island overhang
+10:39 select and we'll kind of start division
+10:41 this out all right so any new uh what's
+10:44 your
+10:44 ideas no so one idea is that we close
+10:48 off the doorway between dining and the
+10:50 kitchen and make that wall um floor to
+10:53 ceiling
+10:55 basically
+10:57 um narrow
+11:00 all tall narrow Pantry built-in
+11:05 fridge um oven oven coffee center Pantry
+11:09 so all
+11:11 tall continuous wall of
+11:14 Cabinetry okay 24 inch
+11:17 depth
+11:22 yeah so let's just get the look first
+11:24 let's say we're going to have what 4
+11:25 inch filler on the end here
+11:33 that what' you
+11:37 say um do you have any built-in copy
+11:41 centers in your
+11:43 catalog no like M it's a good it's a
+11:46 good I should do
+11:48 that love those no but I'll I'll show
+11:50 you how we can get to that pretty
+11:51 quickly because we do have that uh
+11:53 capability with the new library search
+11:55 functions in X15 so coffee center
+12:00 so you want a coffee insert
+12:03 right so I want three three in a row
+12:06 this okay sorry B so if we do Appliance
+12:10 we can do it that way built-in base
+12:12 cabinet under wall cabinets or you could
+12:14 say inserts if we do type in inserts
+12:17 inserts into cabinet front and then we
+12:20 can do
+12:21 coffee and then I can make sure that I'm
+12:23 you know searching online if we wanted
+12:25 to melee for searching online that gets
+12:28 us to a couple different different
+12:29 things here there's wolf but here's one
+12:33 so we can
+12:34 do full hiide cabinet here let's set it
+12:38 to 24 we'll set that to default now and
+12:42 then drop in this
+12:44 coffee look at
+12:48 that so quick love it I love X15 it's
+12:52 it's awesome and then can you do it the
+12:54 same height can you do a steam oven and
+12:58 then a conve
+13:01 someone wants a a Subzero 26 in Te
+13:04 reefer maybe so by the way in the tools
+13:07 I have I finally put in a pre-done
+13:11 refrigerator that's like a
+13:14 built-in with the vents on top old
+13:17 school old school style I think they
+13:20 look better than this actually I might
+13:21 need to improve that don't they look
+13:23 better than this now oh yeah that huge
+13:25 oh yeah you can't yeah you you can't see
+13:28 the yeah all right all right when we're
+13:30 done here we should we should throw on
+13:31 some different style pallets once we get
+13:33 it all laid
+13:34 out can you remove the hall wall with
+13:37 the door and put the back put back the
+13:40 side Hall wall to the pantry rear wall
+13:46 possibly yeah I definitely I definitely
+13:49 think a lot about that I think about
+13:51 traffic flow what makes the most sense
+13:54 um not just the placement of cabinets
+13:57 and appliances yeah
+13:59 you want a coffee station but you don't
+14:00 want a lower cabinet next to it I might
+14:03 I might I'm getting there
+14:05 it's it's
+14:07 Brewing all right you want that at the
+14:10 end of the run and then refrigerator in
+14:11 the middle of the
+14:12 Run no I don't want the refrigerator at
+14:15 the middle of the Run Okay
+14:18 um I might take that 48 inch down a
+14:21 little bit because it that fridge is
+14:23 really close yeah take the 48 down to 36
+14:39 okay
+14:44 yeah that way we don't have our fridge
+14:46 hanging out at the very end
+14:49 o maybe better built-in than
+14:54 that what is that which which one
+15:04 yeah let's let's get a built-in fridge
+15:06 there you want a built-in fridge okay so
+15:10 let's stick with that other one then
+15:11 we'll do I'm going for
+15:15 something contemporary here all right
+15:18 and I can change the vent at the top
+15:20 that later
+15:25 yeah someone saying should we please
+15:27 show the floor plan
+15:34 again I think it's pretty clear that
+15:37 we're going to have a
+15:39 sink
+15:43 here I keep putting this together and
+15:46 then I will stick the dishwasher there
+15:50 quick oneclick stuff for sink for
+15:54 dishwasher if I can sketch this out for
+15:57 you
+16:01 I'm thinking I'm going to have a garbage
+16:03 pull out
+16:07 here want four drawer base at the end of
+16:10 the run we're going to do I like this
+16:14 the closed tool thing ah it's closed toe
+16:16 thing that's saving me so much time
+16:31 Furniture exterior must have changed my
+16:34 stool
+16:50 type they have that Island Too Close
+16:53 yeah that's that's really tight I don't
+16:55 know that we want to have seating at
+16:56 that Island because once we get the
+16:59 distances there's not going to be enough
+17:02 room like if we bump us to
+17:06 42 yeah that's tight too tight for
+17:09 seating they're gonna want another idea
+17:12 we could make it a working Island and
+17:14 then we could do a peninsula at the end
+17:15 for some seating at the peninsula maybe
+17:18 some tux stools let's show x-15's
+17:21 capabilities again let's do this
+17:24 um well I think we just get the type in
+17:27 stool and search online too it's pretty
+17:31 easy and then replace all in
+17:34 plan there you go more of a tucked
+17:39 stool what's your overhang on the
+17:44 countertop uh
+17:46 12 make it nine but I don't like nines
+17:49 Nines It should be it really should be
+17:51 more like
+17:52 15 that's just too tight
+18:00 okay so if I were going to finish this
+18:01 whole Appliance wall where the fridge is
+18:03 and everything I wouldn't put seating at
+18:05 the island um I would make the island a
+18:07 working Island and then at the end run
+18:10 of the wall cabinets against the
+18:11 exterior wall I would make a peninsula
+18:14 return if we really want seating here
+18:17 here yeah I would extend it down further
+18:20 okay so and make the island
+18:23 shorter let's
+18:26 just ditch all this
+18:29 mhm um so I'll I'll stop and make a
+18:32 little note here uh this particular
+18:35 stool is the what what's this even
+18:38 called doesn't have a name b a r r b a r
+18:42 r so if you want to change the the
+18:44 kitchen tools to link to a stool that
+18:46 you like to use you double click on the
+18:47 stool icon which I'll just show you
+18:50 where that is real quick right
+18:54 here stool
+18:56 icon double click on that
+18:59 and then you can hit the library button
+19:02 and search your make a straight tool
+19:05 that you
+19:06 want the same and now you've relinked to
+19:09 a new stool for that same icon so now
+19:12 every time I click on that icon that'll
+19:14 place that stool all right so we're
+19:16 going to say that this is a
+19:18 working Island so we're going to revert
+19:20 this back to default which I have a tool
+19:22 for that
+19:24 awesome uh we got a 36 in bir there we
+19:28 just going to use uh a 24 and a
+19:32 12 for now let's see what that yeah I
+19:34 see a couple comments I can't click on
+19:36 that are things that I've thought of as
+19:38 well see
+19:42 um Robin mentioned extending the the
+19:46 kitchen all the way down into the pantry
+19:48 putting the range down there that's one
+19:50 of the things that's knocking around in
+19:51 my head I want to I want to try out this
+19:53 idea
+19:54 first
+19:56 um that's definitely an option
+20:01 okay designed by committee I like it
+20:04 we're going to get some input here let's
+20:05 just run let's just run Renee in a
+20:08 million directions and get nowhere well
+20:11 that's good because we're showing how
+20:13 these tools get used I mean that was the
+20:15 intent of this anyways L-shaped kitchen
+20:17 using the pantry both of those are by
+20:20 Robin okay and then what is this view
+20:23 thinking about the window to the right
+20:26 um we don't know what the view is wish
+20:29 we knew what it was assuming it's a
+20:31 great View and then the kitchen okay
+20:34 yeah I don't know all right so indulge
+20:37 me let me see what this turns out to
+20:39 look like and then we can try something
+20:40 else if it's not panning out
+20:44 okaying bing bing uh we're gonna make
+20:47 this a little shorter because we might
+20:48 have
+20:49 Peninsula yeah yeah we're gonna extend
+20:52 the the exterior wall cabinet run down a
+20:54 little bit further too uh this probably
+20:57 needs to be this shorter because this is
+21:01 going to turn a corner but not right
+21:04 there extend it down a little further uh
+21:06 in front of the window oh okay
+21:08 gotcha right
+21:11 so and maybe we
+21:15 have like even that the 20 instead of
+21:18 the second 24 the first 24 that you put
+21:19 down there could be a 36 corner cabinet
+21:22 of some sort okay we were just talking
+21:25 about that
+21:28 but yeah bump this three inches we're
+21:31 going to put a filler in
+21:34 there yeah we definitely if we're going
+21:35 to put a overhang off the back of that
+21:37 we're going to need it to come closer to
+21:39 the sink for sure okay too close to that
+21:41 sliding
+21:45 door uh let's see so doing back
+21:52 overhang like so
+22:00 yeah that's getting
+22:01 close and there's our
+22:09 stool so my thought on this is that you
+22:13 know you have people you have people
+22:14 over they're in that living room area
+22:17 you've got that sliding glass door maybe
+22:18 going out to a patio maybe you've got
+22:20 barbecue outdoor kitchen out there
+22:24 and this accomplishes a couple things
+22:26 one is people can hang out at that
+22:28 countertop and chitchat with you without
+22:32 getting
+22:34 underfoot um it's got light got nice
+22:37 lighting there you're not sitting in the
+22:39 middle of the kitchen so it's kind of
+22:41 separating the space a little bit um and
+22:43 then your island is pure
+22:46 worktop and you're not interrupted
+22:51 by people sitting at your Island um
+22:56 okay and then I like the fridge closer
+22:59 to this side because let's say you have
+23:00 a family let's say you have kids or
+23:01 let's say you have a party or whatever
+23:04 people go in and out of that fridge
+23:06 getting
+23:07 drinks and at least when I cook when a
+23:10 lot of my clients cook they go in their
+23:13 fridge to get stuff they might go back
+23:14 once or twice but it is not a consistent
+23:17 Point touch point when you're working
+23:19 you get your stuff out you get it near
+23:20 the cooktop you get it on the island and
+23:22 then you go and do your thing so I don't
+23:24 necessarily prioritize the refrigerator
+23:28 close to the cooking area okay those I
+23:30 want all the cabinets on that wall to be
+23:32 full height okay
+23:41 yeah what do we have here this
+23:44 is 72
+23:49 in
+23:53 okay and then on the fridge okay before
+23:57 you get before you fill all that
+24:01 in
+24:04 yeah
+24:07 um yeah we can we can leave that for
+24:11 now something I'm not thrilled about but
+24:13 I'll have to think about
+24:17 it is it possible to move the hallway
+24:20 door and wall further to the left to
+24:22 open up the space possibly um is it
+24:25 possible is it possible I don't know
+24:28 well there's a there's another doorway
+24:30 here to a some kind of
+24:33 room and I think in the original post
+24:35 that there was something about that wall
+24:37 that they couldn't
+24:39 move that door
+24:44 yeah I mean if I had cart blanch I would
+24:47 lot about this layout
+24:49 so we're working with what we got
+24:53 um okay I'm going to we'll table that
+24:57 coffee center for a
+24:58 I want to think that through while
+25:02 you and where's our range
+25:06 going up no um two thoughts we can
+25:12 either let's
+25:15 see you know we can extend all the way
+25:17 down into the pantry and put a range on
+25:19 that wall there's something about that
+25:20 I'm just not thrilled with we could do a
+25:23 cooktop in the island so not some people
+25:27 love that some people hate it
+25:29 um but we could do a really cool
+25:31 contemporary kind of the flush hoods
+25:33 that are on the market now which is
+25:34 really neat and that seemly might be a
+25:36 little
+25:38 high
+25:40 um put it in the island for now put in
+25:43 the island all right cooktop
+25:46 yeah
+25:51 okay oops I don't know why I deleted
+25:54 that 30 inch
+26:09 and then like false oh my God not 30
+26:13 no
+26:15 okay Library function by the way we got
+26:18 some new stuff coming in the library
+26:19 we're going to get an update um next
+26:21 month and we're going to get group
+26:23 editing of search attributes they're
+26:25 going to fix the subfolder um deal here
+26:28 and they're also going to enable it so
+26:32 that we can transfer tags because I have
+26:33 a bunch of cool tags associated with my
+26:36 kitchen tools so um if I just click on
+26:39 appliances that'll get me to stuff that
+26:42 I have tagged as appliances but I didn't
+26:45 tag any 36
+26:47 inch ones so let's see we actually have
+26:50 the uh symbol type cooktops and then we
+26:53 can just type in
+26:55 36 and that'll get us to a bunch of 36
+26:57 in cooktops you want front controls or
+27:00 just top induction top um front controls
+27:04 is good or or gas
+27:07 top that looks good and not large enough
+27:11 because I need
+27:18 to and then I put in a special material
+27:23 with all my appliances that looks really
+27:25 good in rendering so I'm going to apply
+27:27 that
+27:30 and we got to go get rid of this stupid
+27:32 handle um I wish when they when you
+27:35 specify that front sides back when
+27:38 you've got a false drawer why are they
+27:39 putting a handle on it yeah I noticed
+27:41 that when I was placing something the
+27:43 other day I like why would
+27:45 I yeah I would never handle on my you
+27:48 know sometimes you might but more often
+27:50 than not I would not
+27:56 right I think we're giving Rob a heart
+27:59 attack good no I hear you Robin I hear
+28:02 you I that that's that's Plan B I just
+28:05 want to play this one out because I have
+28:06 a couple of ideas I want to see what it
+28:08 looks like we're supposed to get through
+28:10 like three kitchen designs Robin you can
+28:13 be on the next
+28:17 show we're we're here to show off Rene's
+28:19 skills this may not be the perfect pin
+28:21 comments huh we're gonna get better at
+28:23 this I think I
+28:25 can dang it I'll have to figure out how
+28:28 to make it so you can pin comments yeah
+28:30 no I'm I'm looking at Rob I'm like I get
+28:32 you I get you Robin I hear
+28:35 you uh does this mean we need like what
+28:39 kind of hoods are you using on an island
+28:41 I never feel like they're good well
+28:44 there's one that I don't even know if
+28:45 it's in here there's a really cool flush
+28:48 ceiling Hood um that I've used on a
+28:50 couple projects but I don't even know if
+28:52 it's even available in here right now
+28:54 like 12 inch
+28:58 12 foot ceilings 10 foot ceilings I mean
+29:00 you could also do a
+29:01 downdraft could do a downdraft look at
+29:03 that big ugly
+29:05 thing man thank
+29:09 you yeah they're
+29:11 ugly put it down here for
+29:14 now you want a downdraft all right so I
+29:19 don't even know how to model a downdraft
+29:23 honestly um that'd be a good one to
+29:25 figure out
+29:28 I found a thing that Rene has not done
+29:30 yet watch we'll do it right now um what
+29:32 does the down draft even look like watch
+29:35 this we'll do there's some in the in the
+29:38 cataloges is there yeah pH
+29:43 draft oh hey that but they're not sinks
+29:47 I would make it a sync
+29:51 that's I also wouldn't really want it
+29:53 popped up like this like I don't want to
+29:56 show it popped up not I think I've done
+29:59 that
+30:01 yeah okay so here's a downdraft all
+30:03 right check this oh it is a
+30:07 sync oh no it's a fixture all right so
+30:09 we're going to copy this to user library
+30:12 and then we're going to open object and
+30:14 in X15 that's all changed so we're going
+30:16 to get into options and we're going to
+30:18 go to inserts into countertop we need to
+30:21 know the size of it which is 37 and
+30:24 1516 so I'm going to say that this is
+30:27 going to mount
+30:29 an offset of
+30:32 negative let's say
+30:35 37 37 let's see how how close I got on
+30:42 this so we need this cabinet to be 36
+30:47 again I don't think that downdraft is
+30:50 wide enough is it I think it's just a 30
+30:54 oh is it I think
+30:56 so um uh you're right and look at what
+30:59 it did with the hole because it's got
+31:02 this little bump
+31:03 out which I know how to fix that it's a
+31:07 pain this is this is where it gets real
+31:10 dumb this process right here
+31:13 so you got to place the symbol you're
+31:15 gonna learn
+31:17 something place the symbol edit the cad
+31:20 block grab the cad block copy
+31:23 it bring it back into the plan
+31:28 so that's just a cad block
+31:30 okay and now I gotta draw
+31:36 in I got to draw in a
+31:39 square right here like so and take that
+31:43 square convert it to a
+31:47 countertop is this getting convoluted
+31:49 enough for you change it to a hole in
+31:51 the
+31:52 countertop select the entire thing make
+31:56 it a new CAD block
+31:58 change it to
+32:00 rabs
+32:02 craft CAD
+32:05 block and then for the symbol that we
+32:09 placed uh in my
+32:11 library we're going to open
+32:15 object 2D block and look for rabs down
+32:19 drop CAD
+32:20 block is that convoluted enough for you
+32:23 so why did you just do all that see how
+32:26 it cuts the countertop because it's
+32:27 cutting it to the bounds of the
+32:30 symbol okay so I changed the cad block
+32:33 to have a hole in countertop the size
+32:35 that I want the hole to be okay so now
+32:38 when I place it notice it cut to where I
+32:41 put that why is it so far away from the
+32:44 C top um well now we're going to tab
+32:46 into it we're gonna tab into it we'll
+32:48 slide it closer I think it's backwards
+32:50 is it and we're gonna
+32:54 actually do like
+32:56 so there
+32:59 There You Go
+33:02 Fancy maybe we'll put a downdraft in the
+33:05 kitchen
+33:07 tools um someone found what is this
+33:11 one ceiling mounted Hood EC
+33:15 48s BC
+33:17 48s let's see what this looks
+33:21 like
+33:23 dc48 let's just do that should be able
+33:25 to find it oh that's just
+33:30 a oh sure that's a wall
+33:35 Hood yeah oh here it is VC 48s uh this
+33:40 is just an
+33:43 insert insert for whatever you want big
+33:46 big thing popping down all right let's
+33:49 start making this pretty what else you
+33:51 got so I'm thinking down into the
+33:54 pantry it will or the old pantry space
+33:59 um well you want to leave the wall there
+34:01 and keep it a
+34:04 pantry
+34:06 no but okay here let me let me give you
+34:10 my bigger vision and you can figure out
+34:11 how you want to plop things in because I
+34:13 know you have other things you want to
+34:14 do today so where the um coffee center
+34:18 is this on a couple of projects so the
+34:21 it would be coffee center
+34:23 steam convection all in a row at a nice
+34:27 height
+34:29 and
+34:30 then fridge is good where it is my
+34:32 microwave tool one click should be able
+34:35 to get bam
+34:40 microwave that's a convection steamer
+34:42 oven deal yeah it looks right for our
+34:47 purposes today and then to the right of
+34:52 the so that's my vision for this wall or
+34:55 I would do the same thing down down in
+34:58 the nook where the pantry used to be and
+35:00 make that Nook kind of function as
+35:03 Pantry prep breakfast area coffee
+35:06 [Music]
+35:07 center all back down in
+35:11 there for me if I was working in this
+35:14 kitchen I would not want to be spending
+35:15 a lot of time down in that Nook I would
+35:17 feel like I was down in a cave and so I
+35:21 would want that space to be more of a
+35:24 functional pantry is prep Butler's
+35:27 Pantry kind of space
+35:31 okay but I do like this tall wall as
+35:50 well you want
+35:52 any more tall cabinets over here just
+35:55 start throwing cabinets in and we'll
+35:56 change them okay let's just fill the
+35:58 space
+36:10 in it would be nice to put another
+36:12 window down there
+36:15 though I I don't know that we'd have a
+36:18 problem I mean this is an expensive
+36:19 kitchen why can't we put another window
+36:21 maybe I if you're going to spend this
+36:22 much money on a kitchen come on put a
+36:25 window or maybe you want upper over
+36:28 there a little art on the wall back here
+36:31 no I was thinking it would wrap around
+36:32 the kitchen oh you want it wrapped
+36:34 Cabinetry would wrap around into that
+36:36 space man I wouldn't spend any time back
+36:39 there that's why that's why I'm thinking
+36:42 storage Pantry just
+36:46 maybe treat it like a but Butler's
+36:48 Pantry but not um close it
+36:52 off
+36:53 okay so for example if this were my
+36:56 house and I was having a big huge party
+36:57 this would be a great space to have the
+36:59 second dishwasher down there to have um
+37:02 you
+37:03 know a bonus freezer to have
+37:07 the pantry overflow
+37:12 storage basically you can access and get
+37:14 to things but you're not going to spend
+37:15 time down there
+37:18 gotcha um want to see a new trick I got
+37:21 look at this one I got this little tool
+37:23 right here I gave this away for a free
+37:25 symol Friday reflect about tool I I use
+37:29 it in 3D I can snap to this
+37:31 corner like
+37:33 so and take this cabinet and reflect
+37:38 about the corner look at you and your
+37:41 fanciness I know I hope they give the
+37:43 give us something some capability for
+37:45 that at some
+37:48 point did you just kill that
+37:51 corner I did what would you like to do
+37:54 with it blind corner you want a blind
+37:56 corner
+38:03 possibly you want Lon oh oh how about
+38:06 this how about this how about that whole
+38:08 back wall is tall Cabinetry we do a
+38:10 blind Corner dying in underneath and so
+38:13 that whole back wall is basically floor
+38:15 to ceiling Pantry
+38:17 storage okay but then have countertop
+38:20 dying into it with the window on that
+38:22 exterior
+38:24 wall so here's my thoughts
+38:28 okay that's 60 Ines
+38:33 so my thoughts is that I have this new
+38:36 cool tool that I get to
+38:40 show Rene is like well now that you
+38:43 mention it yeah so check this out take
+38:46 this cabinet copy drag it down it'll
+38:49 bump to the counter right drag this down
+38:52 it snaps to here then we can use the
+38:55 kitchen tool to remove molding from it
+38:58 which actually you don't even need to do
+38:59 that you can just click on this
+39:01 new oh look at you appliance garage not
+39:05 that it needs to be an appliance garage
+39:07 but but that is so much faster but it's
+39:11 F like you could change the door style
+39:12 after you know yeah if you you're kind
+39:17 of you're building out kind of um oops
+39:20 breakfront type situation across the
+39:22 back here that was the wrong tool need
+39:25 the appliance
+39:28 clients quick
+39:31 tool there we
+39:35 go a doggy
+39:37 cab look at that I've done that quite a
+39:40 bit I think
+39:43 it's so it just got me to a filler
+39:47 cabinet pretty quickly is my thought
+39:49 there yeah then we can make this a
+39:51 stacked deal that's really
+39:55 fun right kind of duplicate that all the
+39:58 way across we can change it change it up
+40:00 to other stuff later I'm just trying to
+40:03 get
+40:09 the get a vision
+40:12 here what's going down at the what's
+40:14 happening at the base
+40:16 cabinet oh there's a filler
+40:22 there because I'm doing goofy stuff
+40:29 there you
+40:38 go something like
+40:40 this it's really nice yeah nice
+40:45 beautiful you love it
+40:50 idea this is called the you get the idea
+40:52 live feed yeah from back here it's
+40:55 perfect
+40:58 oh my
+41:00 gosh look see look at this look at this
+41:06 comment oh a doggy cab there is a doggy
+41:09 Cab in hey someone brought this up
+41:11 there's a dog cabinet in my kitchen
+41:13 tools oh yeah that's right I saw that
+41:15 you put that in there uh I don't know
+41:18 what to call it
+41:20 though so I think we can type in dog and
+41:23 then type in cabinet as a type
+41:28 right cabinets there yeah look gets me
+41:31 exactly to my dog crate cabinet oh dog
+41:34 crate oh interesting yeah look at that
+41:38 cute for those that like to keep their
+41:39 dog in their kitchen
+41:43 yeah that you put that on an
+41:45 entertainment unit didn't you we need to
+41:47 finish this
+41:49 one
+41:52 okay all right what are we doing oh my
+41:55 God we're so far off track here yeah
+41:58 what do uh what do we want for looks on
+42:00 this what's the yeah let's let's bring a
+42:01 style palette I'm having a hard time
+42:03 seeing past our white Shaker cabinets
+42:05 what um what would you like you want oak
+42:08 cabinets let's get more contemporary
+42:10 what do you have what have you got um
+42:13 I'm not even going to use a style
+42:14 palette just tell me a color and I'll
+42:15 modify the color I'll do it that way
+42:17 let's take all the doors
+42:19 flat you want slabs slab doors SL doors
+42:23 MH
+42:25 Okay so we can do I think we can do door
+42:29 let's see you can type in cabinet
+42:32 door yep and that's a type I love this I
+42:35 love this feature people that don't get
+42:37 this stuff oh man people that don't like
+42:39 x-15's Library stuff it's really yeah
+42:42 you're hearing that yeah what are they
+42:45 saying because it's just new and it's
+42:47 confusing and there's no real process
+42:49 document for it so yeah you've got to
+42:51 sit with it you got to take a day and
+42:53 just sit with it and reorient your I'm
+42:55 GNA type in slab door instead of drawer
+42:58 so that'll get me should get me to
+43:01 just that's funny that it didn't get me
+43:03 to a door true door but here we go so
+43:07 replace
+43:09 all get
+43:12 modern in modern what uh what finish
+43:14 would you like would you like
+43:17 already dark cabinets light cabinets oak
+43:22 cabinets kind of dig in the white but
+43:24 yeah let's let's play with some wood
+43:26 wood grains
+43:31 some wood oh no yeah it's
+43:36 suffocating feeling 1992 so
+43:39 hard
+43:41 um uhuh oh make all the base cabinets
+43:45 black all the okay you just brought up a
+43:47 new tool we're gonna make right now
+43:49 because this is one I been driving me
+43:51 nuts there's no way to make the base
+43:53 cabinets all one color without using
+43:55 either the object ey drop or to
+43:58 or what you know you can't do a room
+44:01 painter mode you can't do a marquee
+44:03 painter mode so if you just paint
+44:07 one let's say we paint one
+44:12 cabinet doors and
+44:15 all and then let's add this to a style
+44:17 palette create new and it's going to be
+44:22 change
+44:23 material quick
+44:26 tool this is going to make it into the
+44:28 package oh my gosh I'm so excited about
+44:30 this clear all
+44:33 material see and we want box interior
+44:37 box material probably not box interior
+44:40 just box
+44:41 material and shelf material tow kick
+44:46 material I think that's that should be
+44:50 it I'm surprised it doesn't have door
+44:55 yeah think it should have door
+44:58 material door drawer overlay main door
+45:03 main door drawer
+45:05 material you see that where main door
+45:08 main door drawer material about right in
+45:12 the middle okay yeah so and then
+45:18 drawer
+45:20 [Music]
+45:21 drawer door drawer material that's it
+45:23 press okay all right so we should be
+45:26 able to
+45:27 this is particularly useful for Islands
+45:29 right so now we have
+45:31 that if we click on the Marquee tool and
+45:34 draw Marquee over the islands to see if
+45:36 it
+45:40 worked
+45:42 oh that's fantastic could you also make
+45:46 the cooktop not facing the can you can
+45:48 you turn everything someone told me to
+45:50 put it that way I was listening to our
+45:52 followers
+45:58 battle battle we should have a designer
+46:03 battle what do you have to arm wrestle
+46:05 at the
+46:06 end let's put jewels in here why
+46:10 not like
+46:15 Jewels Jules is really happy for this
+46:20 kitchen she likes her
+46:23 view oh my gosh Jules is having the day
+46:26 of
+46:28 live all right let me see a couple
+46:30 comments here hold on uh Rocky does the
+46:33 ad molding tool add the crown holding
+46:35 back on the upper cabinet no
+46:36 unfortunately we don't have a way to all
+46:41 you could do there is add a particular
+46:45 crown molding back to a cabinet but it
+46:48 would add all I think it would add all
+46:51 moldings back to a cabinet so I haven't
+46:53 found a good way of doing that the add
+46:55 molding tool is really specifically for
+46:57 removing moldings from Windows Doors and
+47:01 cabinets but the ad molding doesn't add
+47:03 it back it will add it back to a room
+47:05 windows and doors but it won't add it to
+47:07 a cabinet I don't think um let me see
+47:11 actually let me eat my words maybe I
+47:12 figured that out at some point here's
+47:14 the ad molding tool and we'll check
+47:18 object mode yeah it doesn't apply so
+47:20 that does not work for that the delete
+47:22 molding tool will delete molding from a
+47:25 cabinet
+47:28 so something to
+47:30 note um someone's saying put a small
+47:32 desk in this kitchen
+47:35 okay what else make make it pantry and
+47:39 display wine refrigerator oh let's use
+47:40 my wine refrigerator tool where you want
+47:42 wi definitely put the put I was thinking
+47:44 wine bever a couple beverage drawers
+47:47 maybe an ice maker down at the end
+47:49 basically kind of here over here at the
+47:52 end this this end
+47:55 uhhuh so we're not using my stacked
+47:57 cabinets anymore fine it was a bad idea
+48:00 I
+48:02 know I just wanted to show my garage
+48:05 tool I know I I didn't want to stop you
+48:08 from showing off your new here's wine
+48:11 wine fridgy that's full height wine
+48:14 fridge oh that's kind of fun down there
+48:17 yeah and then this is just so I can show
+48:19 it so I can show off my stuff um where
+48:23 can I go right here this is my
+48:25 undercounter line and it matches that
+48:27 same series of Cafe lines oh nice so
+48:31 it's pretty together I want two
+48:33 dishwashers in this kitchen by the way
+48:36 okay so here sorry squirrel thought with
+48:39 the wine fridge tool by the way is that
+48:42 you put it inside of another cabinet or
+48:44 you butt it up next to a face frame or
+48:50 whatever so bump this three maybe
+49:00 because it doesn't have a
+49:03 suround so would you just place it in a
+49:06 cabinet the same way you would place any
+49:08 other sort of Appliance yeah well it was
+49:11 to convert something to a wine fridge
+49:14 very quickly um but I kind of would have
+49:16 like here's probably how I would do it I
+49:20 would maybe I need to rethink this more
+49:24 more advancements so i' plac the
+49:26 refrigerator instead unblock it take
+49:30 this fridge
+49:32 out and then you
+49:35 can place a full height convert it to a
+49:41 wine and
+49:44 then Center it on the full height
+49:49 cabinet and then adjust
+49:54 accordingly yeah make everything taller
+49:56 in there got this big old void above all
+49:59 the cabinets which is a pet peeve of
+50:02 mine what do you want to put up there
+50:05 something other than dust and fake iy
+50:08 fake
+50:10 Ivy need to butt it to something okay we
+50:13 can sof it down we can put cabinets up
+50:16 just oh my
+50:20 gosh s it down sof's
+50:24 easy yeah why don't you throw sof it in
+50:28 there um because I'm messing up with
+50:30 this wine fridge that's
+50:34 why it's not there's not even any room
+50:36 here let's see two and then blank
+50:41 sure yeah that's about
+50:44 right but how tall is that cabinet
+50:48 92
+50:53 yeah um
+51:01 why is this sofit tool not place under
+51:02 ceiling by
+51:05 default someone on house by the way said
+51:08 that the um sofits are
+51:11 outdated and a bunch of people agreed do
+51:14 you agree um I think it's circumstantial
+51:18 I think it's a necessary evil it depends
+51:21 it depends on the conditions I'm working
+51:24 in it depends on the style of the
+51:25 kitchen I'm working in a sopit doesn't
+51:27 have to look like a sopit I mean when
+51:29 I'm softing it's not a sopit for the
+51:32 sake of sofits it's really it's either
+51:35 going to make the wall of Cabinetry look
+51:37 built into the wall not Cabinetry
+51:39 meeting us off it
+51:43 um yeah like I wouldn't make it that I
+51:45 would make the Cabinetry taller the sfet
+51:47 shorter just balance out that proportion
+51:50 a little
+51:51 bit but um
+51:54 12 yeah
+51:57 but there's there's nothing more I hate
+51:59 than just two feet of space between the
+52:02 top of a cabinet and a ceiling it's
+52:05 especially in a kitchen it's just gross
+52:07 just imagine what's up there so this is
+52:09 the new tool I I asked for by the way
+52:11 watch this see how I'm selecting the
+52:13 front face of this so I can't change the
+52:14 depth of
+52:15 it we have a new new Tool in the edit
+52:18 toolbar which is Select next side and
+52:22 now I can grab the side and bring it out
+52:25 to what I want it to be
+52:27 oh I saw yeah I saw you talking about
+52:32 that that wait did that come up in the
+52:37 um in the kitchen we were working on a
+52:39 couple weeks ago with
+52:41 the outlet
+52:44 strip um I don't know where you couldn't
+52:46 where you couldn't grab the face oh
+52:48 exactly exactly that's where that came
+52:50 from right yeah
+52:53 exactly yeah I was talking about how
+52:55 frustrating that was
+52:58 um what is the size of this cabinet
+53:00 arbitrary
+53:03 three um I don't know what I'm doing
+53:05 anymore can we finish this kitchen I
+53:08 just just can we finish this kitchen
+53:10 please just do all full height across
+53:12 that back wall we'll call it a wine
+53:14 we'll call it the wine Grotto and we can
+53:17 move on to your next project this is
+53:19 kind of how we design
+53:21 kitchens you can take the S away you
+53:23 could just drop take the cabinets all
+53:25 over the ceiling make them
+53:27 and then we'll just move on to the next
+53:29 thing
+53:31 um what what else are people saying
+53:34 should we pin anything else any other
+53:35 comments I need to get on there's
+53:38 probably some funny ones oh yeah
+53:40 [Music]
+53:42 definitely yeah yeah the the the people
+53:45 are split on sofits let's see yeah it's
+53:49 a Hot Topic it is a Hot
+53:53 Topic it's very political for designers
+53:57 yeah somebody on on uh I think it's
+54:00 YouTube maybe is asking about I can't I
+54:04 can't pin the
+54:05 comments Ed is asking a question let's
+54:09 see what field of view am I using I can
+54:11 tell you that one I think by default I
+54:13 have my cameras set to I think I have my
+54:17 cameras set to
+54:18 Chiefs yeah 55 we're going to change it
+54:21 we're going to do an end rendering on
+54:22 this and we're going to do either 35 to
+54:24 40 or something like that Mr Ed Cox and
+54:28 then let's
+54:31 see someone says getting used to with
+54:33 the new library good keep plugging away
+54:35 at it there's some cool tricks there I
+54:37 think I posted some stuff on my YouTube
+54:40 um about the
+54:42 library drawer under it we missed the
+54:45 context of that one remove the toe kick
+54:48 and add a drawer under what not sure
+54:51 which one what we're talking about
+54:54 circumstantial correct I know who this
+54:56 is this has got to be Robin because she
+54:58 talks like
+55:00 that she was agreeing with me this is
+55:03 why we' probably like each other
+55:07 okay this is also Robin because she
+55:09 talks like
+55:10 [Laughter]
+55:10 [Music]
+55:13 that glass door cabinets at top where
+55:16 sof it is okay we'll use the glass door
+55:19 I have that tool that Tool's already
+55:21 built in here glass door tool bam yeah
+55:24 just take that soft away drag the
+55:26 goes all the way up to meet the ceiling
+55:28 and you can be done with this back wall
+55:29 and just make it full height side to
+55:32 side yeah there we go I know you want to
+55:34 get to rendering I know and on to the
+55:38 next 27 this should have been
+55:45 27 and this garbage over here can go
+55:48 away actually no we can I love that um
+55:52 that they gave us that that side I mean
+55:55 it makes such a difference
+55:57 being able to click the side oh my gosh
+56:00 that's H that is especially when you're
+56:02 working in a situation like this where
+56:04 you you've got cabinets butting up
+56:06 against each other
+56:08 and I mean that's such a time saer it's
+56:11 crazy yeah for sure you can stay in
+56:19 3D delete the
+56:21 sofit oh get rid of the sfit okay
+56:26 we're going full
+56:27 height yeah what is full height 30
+56:31 in so 17 minus I think my little Crown
+56:36 is like
+56:38 2.5 so what does that make it 14 and a
+56:40 half all
+56:50 right top of the drawer is H apply with
+56:53 holes to standard stainless steel dog
+56:55 bowls oh the drawer at the bottom um
+56:58 comment was talking about getting a
+57:00 pullout for dog
+57:03 Bows Oh I've done something similar to
+57:06 that
+57:17 before this was this was a very slow
+57:20 approach to
+57:22 this sometimes this happens when we're
+57:24 doing this sort of a design though we
+57:26 got it you know it's not like it's not
+57:28 like I knew this outfit was going to
+57:29 work but sometimes you just have to put
+57:31 something there and take a step back and
+57:33 look at it
+57:34 to get to the final
+57:37 product I also was am stubbornly
+57:40 designing in 3D only sometimes it's just
+57:42 faster to get back in a 2d
+57:46 yeah but this is a really great example
+57:49 of how we've done projects before where
+57:52 I've got a vague idea of my in my head
+57:54 and it's much faster for me to call it
+57:56 out to you and have you do it on the Fly
+57:59 then
+58:01 um then for me to try to draw it out and
+58:04 then send it over to you and then you
+58:05 play with it and then we get online it's
+58:07 just this is
+58:09 faster I'm going to put a little 4
+58:14 inch D D D D D right here actually it's
+58:19 not even going to be 4 in it's going to
+58:21 be like a nothing
+58:24 inch just for a panel
+58:27 yeah just for panels
+58:30 yeah um and I think that if I did this
+58:37 right get so I can change this
+58:41 to the Double Door tool full height
+58:44 double
+58:45 door and then I think I can split
+58:51 that or actually I have a panel panel
+58:53 tool yeah
+58:56 I have a blank panel tool
+58:59 aha anybody that hasn't bought my tools
+59:03 go buy
+59:04 them FYI because they they're good they
+59:08 are they're good oh my gosh they're so
+59:10 much faster than click how many fewer
+59:13 clicks would you estimate look I just
+59:16 clicked that there we go we got our
+59:17 overhang we got a paneled end panel side
+59:20 I need a panel side on this one right
+59:22 side
+59:23 panel right side
+59:26 Auto
+59:29 panel bam you want pendant lights what
+59:32 do you want for lighting we have no
+59:34 Lighting in here we got to do
+59:40 something um let's
+59:43 put a couple of
+59:45 sconces look at this it's Robin Robin
+59:48 next time go go enable streamyard you've
+59:51 been doing this can't see Rob's name
+59:53 it's a drawer that pulls out top the
+59:54 half PL yeah dog
+1:00:02 bore yeah I mean we could sit here and
+1:00:06 monkey around with cabinets twe all the
+1:00:08 little details
+1:00:11 yeah little step ladder that' be a cool
+1:00:14 cabinet to make the little step ladder
+1:00:16 pull out one yeah I've done um I've done
+1:00:20 one that looks like a filler also where
+1:00:24 drawers I have a mixed feeling about toe
+1:00:26 kick drawers um because I I don't know
+1:00:29 we had so many problems with them I
+1:00:31 don't like them Carpenters I work with
+1:00:33 hate them well because your house moves
+1:00:36 over time and the cabinet moves and
+1:00:38 everything moves and yeah then all of a
+1:00:40 sudden your toe kick door is locked yeah
+1:00:42 it's really tough when you have a
+1:00:44 existing house that isn't you know
+1:00:46 there's nothing Square plumber level in
+1:00:48 an existing house and then trying to
+1:00:50 shim all the cabinets up and making sure
+1:00:51 that those drawers can still pull out
+1:00:54 can
+1:00:54 be ult
+1:00:59 yeah all right so why don't you throw
+1:01:02 some recess Lighting in maybe put a
+1:01:04 couple sconces on either side of the big
+1:01:05 window I'm gonna do this this is going
+1:01:07 to be fun for me I'm gonna put a
+1:01:09 little I'm gonna get a little fancy
+1:01:12 right in the middle of this kitchen and
+1:01:14 convert this to a Tre
+1:01:18 ceiling see where you're going recess
+1:01:21 molding add new let's look up stacked
+1:01:30 sure
+1:01:34 yeah why
+1:01:36 not or no I'll let you run with that and
+1:01:40 then let's
+1:01:42 go
+1:01:47 Shand
+1:01:52 shandies we still have to design your
+1:01:54 we're designing your kitchen
+1:01:56 next we took way too long on this that's
+1:01:59 fine that one's so small we could get
+1:02:01 through it really fast yeah this is when
+1:02:04 if you're having a slow time looking up
+1:02:06 symbols it's usually because there's a
+1:02:08 lot of information in those symbols but
+1:02:10 also you might have uh search web
+1:02:12 results checked on and maybe you don't
+1:02:15 need to search web results because that
+1:02:16 really slows some things
+1:02:18 down
+1:02:21 um man there's some ugly Chandlers in
+1:02:24 here yeah always right ugly chandeliers
+1:02:29 in here yeah this is where curating your
+1:02:31 user catalog comes in really handy so
+1:02:33 you don't have to sort through all of
+1:02:34 the why is that in here stuff
+1:02:40 yeah uh oh
+1:02:44 Frozen it's Jules Jules messed it up for
+1:02:51 us what are you
+1:02:53 doing putting two ch
+1:02:56 in here just because you can okay no
+1:03:00 that's
+1:03:02 just make it
+1:03:06 stop on
+1:03:09 lighting oh my god oh six foot center
+1:03:19 lights U what do you want tell me okay
+1:03:23 put um run that row across the
+1:03:26 okay that's fine you can start there and
+1:03:28 then
+1:03:29 um
+1:03:31 [Music]
+1:03:38 do place them directly make sure the row
+1:03:42 is directly over the um base cabinets at
+1:03:44 the exterior
+1:03:47 wall wait say that again so the row of
+1:03:50 recess lights that you just placed in
+1:03:52 the
+1:03:53 ceiling scoot them closer to the
+1:03:55 exterior wall so
+1:03:59 there
+1:04:03 okay and then maybe a couple of sconces
+1:04:05 on that exterior wall since all that
+1:04:08 down light is going to be really
+1:04:11 shadowy no no get them over the
+1:04:13 countertop over the countertop okay we
+1:04:16 don't have any and then a couple sconces
+1:04:19 on either side of the big
+1:04:20 window
+1:04:22 scones oh I don't know what my default
+1:04:24 scon is to be
+1:04:27 scared I know it just says
+1:04:30 TBD oh boy yeah that's never a good
+1:04:38 sign and rendering technique and
+1:04:44 2000 and I want my son look a little
+1:04:47 prettier we're getting pretty starting
+1:04:48 to yeah those are some gorgeous Home
+1:04:51 Depot sconces you got there yeah look at
+1:04:54 this
+1:04:56 that's fun yeah that's really
+1:05:01 fun okay what else can we switch those
+1:05:05 sconces out for something less
+1:05:16 painful I don't know what the answer to
+1:05:18 that one is catalogs I downloaded from
+1:05:20 our website are not located on the
+1:05:22 server oh
+1:05:23 interesting I don't think I've come
+1:05:25 across either oh I know why because he's
+1:05:28 because he's got catalogs that have been
+1:05:30 deprecated gone long gone C oh oh old
+1:05:33 catalogs yeah might need to go back and
+1:05:37 download new again or all right what
+1:05:40 what you hav't created a lot of sconces
+1:05:42 have you I have not no get on that Renee
+1:05:46 okay well someone's gonna send me a list
+1:05:49 of light fixtures they want because
+1:05:51 that's that's a pretty common request
+1:05:53 but I never
+1:05:55 Yeah just something a little more simple
+1:05:58 um a little more flush to the wall
+1:05:59 little more contemporary just this just
+1:06:03 a want a bulb you
+1:06:09 want I'm probably not gonna find what I
+1:06:11 want I did one of those like
+1:06:17 modern yeah no I don't know what you
+1:06:18 want lighting is rough lighting is rough
+1:06:21 especially the
+1:06:22 sconces yeah
+1:06:26 I find it difficult to find good sconces
+1:06:28 in real life
+1:06:34 so little bowl scon that reflects Kev I
+1:06:38 can't read that what is
+1:06:42 it have a little icon in the way here
+1:06:46 this is an ugly kitchen we got to do
+1:06:48 something about it lighting those those
+1:06:51 what's those chandeliers you put get
+1:06:52 them out of there what chandelier you
+1:06:55 want
+1:06:56 I don't know but not those not two what
+1:06:58 color what color top we doing with this
+1:07:04 [Music]
+1:07:06 anyways see like a soap stone something
+1:07:10 darker you want dark on the
+1:07:15 middle somebody has a list of something
+1:07:18 to send a robin has a list of something
+1:07:20 to send you okay
+1:07:32 all right so you want a new
+1:07:38 chandelier or you could do a drop tray
+1:07:41 ceiling with up lighting over the
+1:07:43 island if you really want to go
+1:07:48 contemporary no let's stick with this we
+1:07:50 got to get to another kitchen yeah I
+1:07:51 know I know I know we're never gonna get
+1:07:53 past this one
+1:07:57 um this one's free remember let's get do
+1:07:59 a linear do a linear
+1:08:04 um yeah that
+1:08:08 one's oh scroll down there's one that
+1:08:12 this is kind
+1:08:13 of fancy new and fancy
+1:08:27 what the heck is that looks like a
+1:08:29 subwoofer no thank
+1:08:33 you someone said something black vintage
+1:08:35 shade lights over the island black
+1:08:37 vintage shade
+1:08:43 lights think at the moment we've got to
+1:08:45 work with what we've got in the cat oh
+1:08:47 Lord what is
+1:08:50 okay scroll down scroll down I'm work
+1:08:54 scrolling
+1:08:57 scrolling maybe we need to table this
+1:08:59 for things that Renee needs to build
+1:09:02 improve better lighting dang dang
+1:09:06 lighting oh my gosh yeah they're they
+1:09:09 don't have the best chandelier they look
+1:09:13 pretty oh you know what I think what
+1:09:15 I've used I've I've grabbed some stuff
+1:09:18 online and built up my user catalog with
+1:09:21 do you convert them to actual lights do
+1:09:24 you do that I think I have a couple
+1:09:27 times or I think you've helped
+1:09:28 me okay yeah um
+1:09:33 so try chandelier
+1:09:39 again and this is including web results
+1:09:42 so see if we have anything new in here
+1:09:44 they have yeah they have that classic
+1:09:46 linear
+1:09:49 one and like the modern ones they have
+1:09:51 are too cheesy looking like they're the
+1:09:53 cheesiest modern looking ones
+1:09:55 yeah they're they were modern
+1:09:59 in
+1:10:01 1997 well let's just show how this works
+1:10:04 anyways so if you see if you see this
+1:10:07 icon that means you don't have it
+1:10:08 downloaded so you can right click and
+1:10:10 download or you could try to click in
+1:10:12 the scene and it's going to
+1:10:13 automatically download and then so now
+1:10:15 it's downloading and it will prompt us
+1:10:17 when it's
+1:10:19 complete like so 37 items it keeps my
+1:10:24 selection in zqu in
+1:10:27 zq and I can replace one ugly fixture
+1:10:31 with
+1:10:33 another this is like a Franken kitchen
+1:10:36 man this is bad this is the worst
+1:10:37 kitchen I've ever
+1:10:41 designed oh that should be a contest how
+1:10:44 bad can we make our kitchen
+1:10:49 design but we got a chance to show off a
+1:10:51 lot of your tools that was the point
+1:10:54 sure
+1:10:59 [Music]
+1:11:07 okay big problem is the chandelier
+1:11:11 overdone design details o over the years
+1:11:14 we've got like a
+1:11:21 display oh we lost our we lost our slab
+1:11:39 oh now we lost our
+1:11:40 color I don't like that when you apply a
+1:11:44 a cabinet door from the catalog it
+1:11:46 changes the color like it should be it
+1:11:49 should be set to use default color
+1:11:52 interesting um so that's true right all
+1:11:57 right so I want style pallet as a
+1:12:01 type and I should be able to click on my
+1:12:04 user catalog and see the change material
+1:12:06 quick tool let's see if it works again
+1:12:09 oh man this is going to be Game Changer
+1:12:11 right
+1:12:12 there no
+1:12:15 kidding that's so great oh I can't tell
+1:12:19 you how much time I've wasted changing
+1:12:20 the stupid material on an
+1:12:22 island yeah okay what else I mean
+1:12:25 there's a million changes I want to make
+1:12:27 to this but I know you want to get to
+1:12:28 something else so we might want do it
+1:12:30 we're going to get a rendering out of
+1:12:31 this
+1:12:32 so and somehow we still have people
+1:12:35 watching
+1:12:46 right somehow I don't know how all right
+1:12:50 what changes let's make this pretty okay
+1:12:53 that that back wall with the wine fridge
+1:12:55 yeah let's make those black cabinets
+1:12:57 let's take out the return to the left of
+1:13:00 Base
+1:13:01 cabinets with the wine fridge let's make
+1:13:04 these cabinets do what okay so the the
+1:13:06 base cabinets on the left take those out
+1:13:12 okay
+1:13:13 [Music]
+1:13:18 um this is
+1:13:22 rough uhhuh
+1:13:33 let's make this whole wall um let's make
+1:13:36 them
+1:13:37 black all these black okay so now we get
+1:13:41 to use change material tool
+1:13:44 again see if it works over
+1:13:49 here it's still it's not g to so okay so
+1:13:53 here's the approach
+1:13:56 is I want to be able to keep this color
+1:13:59 intact so I'm going to paint something
+1:14:01 different so I'll plaint whole plan mode
+1:14:03 I'll paint it
+1:14:05 that and now I'll use that tool change
+1:14:10 material quick tool which oh here's the
+1:14:15 problem we got to fix it all right so
+1:14:18 here
+1:14:21 um okay I'll use this
+1:14:26 because we didn't save a upper and full
+1:14:28 height for
+1:14:30 that oh okay you just made it for a base
+1:14:33 yeah so it just got this guy okay so
+1:14:38 here's how we'll fix it we'll go here's
+1:14:40 an
+1:14:41 upper I mean here's a full height
+1:14:43 there's an
+1:14:44 upper so now we got to save both of
+1:14:47 these add to
+1:14:49 existing and material
+1:14:55 guy press
+1:15:01 okay and so what do we need we
+1:15:07 needed box box box material main door
+1:15:11 drawer shelf material toe
+1:15:14 kick and Main
+1:15:17 door material main drawer molding and
+1:15:21 and molding materials okay and then same
+1:15:28 thing so this this main door drawer
+1:15:34 molding
+1:15:35 materials toe kick
+1:15:37 shelf predominant door drawer materials
+1:15:40 oh don't know what that
+1:15:42 means let's look at predominant let's
+1:15:45 make sure we've got that set too
+1:15:55 okay so now we should be able
+1:15:57 to here's the only problem it's going to
+1:16:00 mess up my wine fridge that's
+1:16:03 okay um so Marquee mode draw Marquee
+1:16:07 over this whole
+1:16:12 run
+1:16:14 bam yeah that worked but not
+1:16:18 wood and oh and so now we get to go and
+1:16:23 do
+1:16:26 paint room mode and now we're painting
+1:16:28 all that and now I get to change it so
+1:16:32 it is it's like four clicks not versus
+1:16:36 though versus like sitting there and
+1:16:39 waiting for the whole scene to redraw
+1:16:41 you
+1:16:42 know because we're going to make this a
+1:16:44 black material and because I'm fancy and
+1:16:47 I like good renderings we're going to
+1:16:49 put in a roughness
+1:16:52 map this is the big differentiator
+1:16:54 between my renderings is let's get
+1:16:58 into um we're thinking something kind of
+1:17:01 matsh so I need a
+1:17:05 medium mediumish gray looking thing so
+1:17:09 explain what you're looking for here
+1:17:10 what what's I'm looking for a like a
+1:17:12 medium gray that has some movement in it
+1:17:16 that so these are textures that you've
+1:17:17 created correct yeah well these are ones
+1:17:20 I just downloaded off the internet and
+1:17:21 have been storing over time so like
+1:17:25 something like this has a little like if
+1:17:26 we Zoom way in on some of these it just
+1:17:29 has like a little bit of movement just
+1:17:32 more it's a more realistic when you do
+1:17:35 your final rendering it's going to look
+1:17:36 more realistic yeah so now if we preview
+1:17:40 it it just has a little a little
+1:17:43 something to it you
+1:17:45 know it's not quite so flat
+1:17:48 right
+1:17:53 coun yeah it's got I mean this is more
+1:17:57 of a matte because we chosen medium gray
+1:18:00 M if we wanted a gloss we could get into
+1:18:02 that but yeah there you go all right
+1:18:06 what
+1:18:08 else now we can paint this back
+1:18:12 again
+1:18:18 simple cool cool cool
+1:18:32 this is usually where I
+1:18:34 [Music]
+1:18:35 would turn it off walk away take a break
+1:18:38 go take a break come back let my mind
+1:18:42 wander a little bit and come back with
+1:18:44 five new brilliant
+1:18:46 ideas what we tell
+1:18:50 [Music]
+1:18:52 ourselves really my problem is that
+1:18:56 chandelier they do they need a better
+1:18:58 chandelier
+1:19:01 catalog well I will try to remember to
+1:19:03 tag a few of them over to you so you can
+1:19:05 make us a better
+1:19:10 catalog fridge is laundry and dishwasher
+1:19:12 is the meal catalog not it doesn't have
+1:19:14 that stuff in it huh I
+1:19:18 thought I have to go back and look I
+1:19:20 thought we had a lot of melee to choose
+1:19:22 from but maybe maybe I'm wrong
+1:19:27 um someone said side
+1:19:30 paneling side paneling oh at the end of
+1:19:33 the peninsula I think the panel is a pro
+1:19:36 is um recess panel
+1:19:40 Shaker kind of want to put which just
+1:19:43 the panel in in I guess we could do Left
+1:19:46 Right Auto
+1:19:51 panel oh want recessed in no it was a
+1:19:56 shaker style door when everything else
+1:19:57 is a slab oh that's
+1:20:00 true it looks so featureless without a
+1:20:03 panel on it though yeah you got to take
+1:20:06 the panel to the
+1:20:09 floor um you take the panel to the floor
+1:20:12 I don't
+1:20:15 man the side panel no side panel maybe
+1:20:19 should we do no side panel just take the
+1:20:22 side panel to the floor so you don't
+1:20:23 have the exposed toekick
+1:20:25 [Music]
+1:20:27 um I have to apply that there's no way
+1:20:30 to do that I thought if you go
+1:20:34 into I mean I can do this one by doing
+1:20:36 no no toe I have a delete toe kick tool
+1:20:40 now that's new do bam I thought taking
+1:20:44 the panel of the floor was just in the
+1:20:47 um excess in the I don't can we do that
+1:20:51 I don't think we can do that I'm I'm
+1:20:52 almost sure I'm almost sure
+1:20:55 I'm trying to remember what the name of
+1:20:56 the menu
+1:20:57 is so this is right side I'm going to go
+1:21:01 to auto panel but then I'm gonna go to
+1:21:05 custom yeah no it's because there's a
+1:21:07 toe kick there's no way to do that so
+1:21:09 you'd have to have a um your own a
+1:21:12 separate cabinet there or just or just
+1:21:16 apply the panel itself click on
+1:21:19 accessories and that's the panel but the
+1:21:21 panel won't go all the way to the oh
+1:21:23 well okay all right I'll listen to you
+1:21:25 panel thickness full size panel side
+1:21:29 panel options oh you're right oh I'm
+1:21:32 what you're right you are right look at
+1:21:34 that yeah I know framed
+1:21:37 panel and then it's not very often that
+1:21:40 I know something that R doesn't know so
+1:21:41 I have to just Auto paneled oh no see
+1:21:44 it's not going down it's not going down
+1:21:46 to the base I swear to God I've done
+1:21:48 this I have to go back and figure out
+1:21:49 how I've done this SI oh full overlay no
+1:21:52 extend to bottom
+1:21:54 there it is and full overlay look at
+1:21:56 that
+1:21:58 cool I knew I knew something fancy look
+1:22:02 at that so F I never get to teach you
+1:22:05 anything that's exciting I
+1:22:12 know else we got
+1:22:17 here and you were saying meal was
+1:22:20 missing
+1:22:21 something for just laundry and
+1:22:23 dishwasher huh take take a side panel to
+1:22:25 the floor I have used a partition before
+1:22:27 when I'm trying look someone agreed with
+1:22:29 me and they and you're wrong everyone's
+1:22:31 wrong no you're but I have I have done
+1:22:33 that before when I'm using um when I'm
+1:22:36 doing a different style kitchen and I
+1:22:37 want a thicker end panel and I'm trying
+1:22:39 to make everything you
+1:22:42 know there's a reason to use that for
+1:22:46 sure oops I just did something remov my
+1:22:49 stream where did our kitchen oh dang it
+1:22:52 I don't know I did something
+1:22:55 there we
+1:22:57 go my creativity is getting burnt out on
+1:22:59 this kitchen I know I'm I'm done with
+1:23:02 what do you want the countertop to be do
+1:23:04 that something not
+1:23:16 that
+1:23:18 something not that
+1:23:26 helpful do that that's fine something
+1:23:30 that's gonna look okay so you can show
+1:23:31 off your
+1:23:32 rendering okay oh and then we we have
+1:23:35 the add eased edge tool which I just
+1:23:39 want to do to
+1:23:41 everything um where is that tool add bam
+1:23:45 I think I can do full plan mode what did
+1:23:48 you ease eased
+1:23:51 edge it adds an eased edge profile to
+1:23:54 all all countertops
+1:23:56 oh look at that oh that's
+1:24:01 nice little
+1:24:04 detail all right we're GNA render this
+1:24:08 thing oh yes I like that last com I am
+1:24:11 so into those
+1:24:13 lately The Galley
+1:24:16 um the sync
+1:24:20 workstations yeah big huge workstation
+1:24:23 sync those are fun oh yeah I put that in
+1:24:26 the plan that we were working on a
+1:24:27 couple weeks ago um there we go so we
+1:24:30 got
+1:24:31 35 35 field of view we didn't put uppers
+1:24:35 above this so maybe we'll not include
+1:24:38 that in the
+1:24:40 shot maybe we'll get rid of
+1:24:45 juwels uh the exterior could be a little
+1:24:48 bit
+1:24:49 brighter interior could be a little bit
+1:24:52 brighter right on there
+1:24:56 sure
+1:24:58 sure Worst Kitchen we've ever designed
+1:25:01 together thank
+1:25:02 you I'm gonna call it that
+1:25:05 worst worst worst
+1:25:08 design worst kitchen design ever
+1:25:11 geez oh I should have increased the
+1:25:13 sample rate a little bit but that's okay
+1:25:16 it'll still look pretty good and
+1:25:18 then I have a bunch of cheater things in
+1:25:22 Photoshop there's my my secret
+1:25:28 sauce so basically you render this to a
+1:25:31 certain point and then you drag it over
+1:25:32 to photoshop and yeah Photoshop and I
+1:25:35 have I have a pre-done filter in
+1:25:37 Photoshop that's just like bam easy nice
+1:25:42 how long did it take you to create that
+1:25:45 filter um just over time so let's see so
+1:25:50 if I go to
+1:25:51 open and I'm on cloud documents
+1:25:54 and I go I have here it is 4K Chief
+1:25:58 template and so all I do is take that
+1:26:02 rendering we just did which is on
+1:26:05 another screen right now where did I
+1:26:08 shoot where did I save
+1:26:10 it alt
+1:26:12 F yep yep yep press okay in kitchen
+1:26:17 house renderings okay
+1:26:19 perfect house
+1:26:21 renderings so Worst Kitchen drops
+1:26:25 oops drops into
+1:26:29 Photoshop it it places as like a smart
+1:26:32 object here um and we'll probably scale
+1:26:36 it up a little
+1:26:38 bit and then I literally
+1:26:42 just take a filter from this other image
+1:26:45 that was underneath it drag it onto this
+1:26:49 our kitchen and it magically oh wow that
+1:26:52 is really fast color grading into it
+1:26:55 right nice and then the only other thing
+1:26:58 you might need to do is just adjust like
+1:27:00 exposure and stuff on it
+1:27:04 um but it's a smart object so that means
+1:27:07 we can adjust it on the fly as we need
+1:27:09 to he there we go and then I post it on
+1:27:12 the internet
+1:27:14 done that's pretty clever yeah Worst
+1:27:17 Kitchen we've ever done oh my gosh there
+1:27:19 you go people please save this one for
+1:27:22 history
+1:27:25 Worst Kitchen ever let's do a good one
+1:27:28 all
+1:27:31 right how's
+1:27:37 wor shut that
+1:27:41 down what is anybody say
+1:27:46 anything five or six foot yeah it has so
+1:27:49 much countertop no kidding yeah
+1:27:51 definitely definitely a lot more
+1:27:53 consider a when you've got that much
+1:27:55 counter
+1:27:58 space charge more all right so we have
+1:28:02 Miller new X15 so this is your project
+1:28:05 yeah this is a project that
+1:28:08 I'm still kind of just getting
+1:28:12 into I just finished schematic design so
+1:28:14 really just plotting out the sizes and
+1:28:17 spaces and haven't really gotten into
+1:28:20 design development yet okay
+1:28:24 so the requirement for this is that we
+1:28:26 cannot change the size of the
+1:28:30 kitchen so we're stuck with this
+1:28:32 footprint
+1:28:35 and for reasons that would take way too
+1:28:38 long to explain o get that dining set
+1:28:40 out of
+1:28:41 there
+1:28:45 um this dining I like the
+1:28:48 rug I think the rug is your rug actually
+1:28:52 I bet it is
+1:28:54 that's why I pretty sure I'm pretty sure
+1:28:55 I grabb that from your
+1:29:00 catalog it's just it's the chairs that
+1:29:03 are bad yeah it's just take yeah just
+1:29:04 take the chairs I've I have not really
+1:29:07 gone into 3D on this house yet I was
+1:29:10 just space
+1:29:11 planning um trying to solve some tricky
+1:29:14 issues with their layout and their needs
+1:29:18 for space for their family so I have an
+1:29:21 idea of what she wants in this kitchen
+1:29:23 and
+1:29:25 you know the nice thing about small
+1:29:26 kitchens is you have fewer options it's
+1:29:29 actually for me easier and faster to
+1:29:30 design a smaller kitchen so yeah that
+1:29:34 one was a big space well I mean if we
+1:29:35 were commissioned to do that job it
+1:29:37 would definitely be oh my God it would
+1:29:39 be so it was
+1:29:42 yeah wouldn't it wouldn't we should go
+1:29:45 post our design as a
+1:29:48 response fixed your kitchen here you go
+1:29:51 you're wel you know what would be really
+1:29:52 fun what would be really fun is for
+1:29:54 designers to to post the iterations that
+1:29:57 they came up with before they came to
+1:30:00 their final design just to show that we
+1:30:03 too go through a lot of bad ideas before
+1:30:05 we get to the good ones oh just ma major
+1:30:07 failures yeah yeah yeah it's not it's
+1:30:12 not all perfect right out the gates not
+1:30:14 all the time like this like this chair
+1:30:17 I'm going to put in
+1:30:20 place
+1:30:21 yeah um Chief has bad ch cares they
+1:30:25 do there a lot
+1:30:27 of yeah oh oh my God I can't un so
+1:30:32 where's the sink going in this one let's
+1:30:34 start okay so the sink is on the half
+1:30:36 wall facing the
+1:30:37 exterior okay and that that half wall is
+1:30:40 going to become a raised
+1:30:42 countertop
+1:30:44 behind so a bar top
+1:30:47 basically oh and you wanted some kind of
+1:30:49 Incorporated cabinet deal yeah it's
+1:30:51 actually not going to be so I had taken
+1:30:53 the the half taking it down to a half
+1:30:55 wall but I don't think we're going to
+1:30:56 leave it as a
+1:30:57 wall
+1:31:00 okay so we might be getting rid of this
+1:31:02 we'll use it just to position stuff
+1:31:04 first yeah yeah okay so we are doing
+1:31:07 Lazy a lazy season in the
+1:31:10 corner if you want to place that base
+1:31:16 cabinet just so we can get some
+1:31:18 spacing uh a diagonal like this or
+1:31:22 Corner okay
+1:31:24 I have a tool for
+1:31:26 that it's like Rene's tagline I have a
+1:31:29 tool for that yeah get some shirts
+1:31:35 made and we got a range on that wall
+1:31:38 range on this wall
+1:31:45 centered oh and a little
+1:31:47 baby baby cabinet
+1:31:50 here modular 12 in okay uh another Susan
+1:31:54 on the other side or what are you doing
+1:31:56 MH so you're pretty much duping this and
+1:31:59 that the range is going to be
+1:32:01 36 so you can take those two narrow
+1:32:04 cabinets out range 30 get so you're
+1:32:06 gonna get a 9 inch let's just let's just
+1:32:10 take them out put it actually was it 36
+1:32:13 or
+1:32:14 4 or bigger Corners
+1:32:20 Susan's see so check this out you can do
+1:32:23 G as a
+1:32:24 manufacturer and then you can
+1:32:27 do
+1:32:29 36 and it should get us to cooktops 36
+1:32:34 range
+1:32:36 there that
+1:32:42 simple better better and so
+1:32:46 what's how much space do we have between
+1:32:50 the range and those
+1:32:54 so you got a you can have a 45 corner or
+1:32:58 a 9 inch tray if you want yeah
+1:33:04 um just leave those as pullouts for now
+1:33:06 we'll get back to it full height drawer
+1:33:09 full full height
+1:33:12 pullouts I'm just GNA use the garbage
+1:33:15 tool no one actually opens these do they
+1:33:18 you
+1:33:19 can oh shoot I just did the whole room
+1:33:27 in case you in case you got a lot of
+1:33:35 garbage I think I'm scarred from that
+1:33:37 last
+1:33:38 project do you need to take a minute you
+1:33:41 need to go get a
+1:33:42 drink take a run around the
+1:33:45 block sometimes that happens when I'm
+1:33:47 when I'm designing and I get down the
+1:33:50 wrong path with a design and I just I
+1:33:53 literally need to Shake It Off I need to
+1:33:54 go take question your career I need to
+1:33:57 go question my all my life choices
+1:34:02 and take a nap
+1:34:06 man Center centered I want a knob here
+1:34:11 instead
+1:34:13 knob so this is an interesting project
+1:34:15 my client has two special needs kids
+1:34:19 and so there's some things that I've
+1:34:23 done in her kitchen or that I know I'm
+1:34:25 going to do in her kitchen which may not
+1:34:26 be typical but
+1:34:28 they're essential and functional for the
+1:34:31 way
+1:34:33 that they need to use their
+1:34:36 kitchen okay which is fun I like those
+1:34:42 challenges all right so what do we got
+1:34:44 and then on that wall that we're looking
+1:34:46 at right now we're going to do the
+1:34:48 fridge and we're going to do um narrow
+1:34:51 Pantry we're going to do a wall
+1:34:55 or I'm sorry um yeah wall oven and then
+1:34:58 convention convection
+1:35:04 micro Okay so we've got a fridge you
+1:35:07 don't like my fridge huh it's the cafe
+1:35:09 fridge I went with a full Cafe line that
+1:35:12 was the thought
+1:35:14 here uh and then you said wall
+1:35:16 oven yeah you going to do a range and a
+1:35:20 wall
+1:35:21 oven um it I'll explain just place it
+1:35:25 and I'll explain the idea shut up and do
+1:35:28 it shut up and itene shut up shut up and
+1:35:31 put it in there and then there's going
+1:35:33 to be a pantry a narrow pantry cabinet
+1:35:35 between the fridge and the doorway so
+1:35:37 not quite shoved up to the doorway
+1:35:44 okay shut
+1:35:46 up 18 15 18 good 18's
+1:35:51 good uh opening
+1:35:54 right
+1:35:55 hinge um it is going to be a it's going
+1:35:59 to be um a pullout actually a pullout
+1:36:03 like
+1:36:05 what I think it's is it rev shelf
+1:36:12 or manufacturer lower lower sides drawer
+1:36:15 or the whole thing's so it's three4 the
+1:36:18 3/4 basically I'm trying to remember the
+1:36:20 full head I think it's 60 in is the
+1:36:23 maximum height of those pull
+1:36:25 outs I think it's risho who makes
+1:36:28 that and and so Center handle pull out
+1:36:31 drawer yeah Center
+1:36:33 handle like
+1:36:35 that sure or vertical and then the upper
+1:36:39 that's just a door okay that's fine can
+1:36:42 leave it like that we're gon get into
+1:36:43 the specifics this is we're actually G
+1:36:45 to be done with this when we're done be
+1:36:47 done with a kitchen right done done so
+1:36:50 how much space do we have between the
+1:36:54 ovens and the back cabinet
+1:36:58 422 okay and then we'll just put some
+1:37:01 wall
+1:37:03 cabinets and wrap the wall cabinets all
+1:37:06 the way around to the wall between the
+1:37:08 dining and the
+1:37:09 kitchen okay uh corner here or what do
+1:37:13 you want yeah
+1:37:17 Corner Square Corner yeah okay
+1:37:26 so there's specific tasks and
+1:37:28 workstations that she needs to have her
+1:37:30 kitchen divided into because of
+1:37:33 the special needs of her kids
+1:37:36 and things that she needs to do in
+1:37:38 certain areas so
+1:37:42 um that's going to explain why we have
+1:37:45 certain elements in here that the
+1:37:46 average person might not
+1:37:49 want okay
+1:37:53 uh we're going no no filler on this run
+1:37:58 right don't think we really need one
+1:38:00 yeah I don't think so okay yeah but her
+1:38:03 she is gonna have actually know I'm
+1:38:06 sorry she is sorry back up now I realize
+1:38:08 why our Dimensions aren't right she's
+1:38:10 going to have um two two 24inch column
+1:38:14 built-in fridges so side by side it's
+1:38:17 not going to be that freestanding fridge
+1:38:20 224 in column fridges okay let's see if
+1:38:22 we can get that done with my weird
+1:38:24 vented one and we'll modify it
+1:38:35 okay because that should we'll change it
+1:38:38 to a single
+1:38:41 door what does the upper uh portion look
+1:38:44 like you can't really see the vent
+1:38:49 anymore let's see
+1:38:54 it's my model number on
+1:38:58 this um and that's this is going to be
+1:39:00 big so yeah so we need to reduce the
+1:39:04 base and the wall cabinet a bit as we
+1:39:06 get towards the corner to make room for
+1:39:09 this right so we
+1:39:12 lost 9 in
+1:39:27 oops oops
+1:39:31 language this is a family show
+1:39:37 Renee it's never a family show when we
+1:39:39 start designing yeah trying to keep that
+1:39:42 Under Wraps you know
+1:39:59 look it's like I've done this before
+1:40:01 look how pretty that is oh that feels
+1:40:03 better um flush out the toe kick on
+1:40:06 those flush the toe kick oh so there's
+1:40:08 no vent or
+1:40:10 something it's hidden but make the toe
+1:40:12 kick flush on all the tall
+1:40:16 cabinets it's hidden H hidden okay so
+1:40:20 let's see we're just dealing with
+1:40:21 Aesthetics right now well figure
+1:40:24 those no we'll get it we're going to
+1:40:26 finish this one and people can watch if
+1:40:28 they want this is an actual this is an
+1:40:31 actual Revenue job we invested interest
+1:40:34 in making this work right yeah so this
+1:40:39 is
+1:40:40 actually uh door panel this guy gets
+1:40:45 resized lock from a res
+1:40:49 size um see I made this a door down here
+1:40:51 so it's like a fake toe is what's down
+1:40:53 here and now I need to add a toe kick
+1:41:00 back and then you're saying flush
+1:41:05 oops
+1:41:08 so there we
+1:41:14 go and then you're also saying flush on
+1:41:16 this mhm and this
+1:41:23 buy my tools look how easy that is bam
+1:41:25 bam bam done done done
+1:41:30 okay but now what are you doing above
+1:41:32 the
+1:41:33 range um we are doing a pretty typical
+1:41:37 Hood exposed Hood chimney Hood I'll show
+1:41:42 you the one I put put in
+1:41:46 here want something
+1:41:51 different that's fine
+1:41:56 okay and then and you putting you
+1:41:59 putting a little one
+1:42:01 here yeah what kind of space do we have
+1:42:04 o not touching the hood 15 15 or 12 keep
+1:42:08 it at 15 and then do glass or no um not
+1:42:12 right now um run
+1:42:15 Cabinetry all the way to the right of
+1:42:17 the hood as
+1:42:20 well but no no
+1:42:23 corner you want to keep the
+1:42:26 15 and put one next to it do that for
+1:42:30 now I'll probably go back and change it
+1:42:31 I just want to fill the space in so I
+1:42:32 can start
+1:42:34 to figure out what we've got to work
+1:42:36 with
+1:42:37 here
+1:42:40 okay okay and then we're going to do a
+1:42:42 dishwasher to the right of the
+1:42:49 sink and then do a drawer base to the
+1:42:51 left of the sink three drawer
+1:42:55 base uh how
+1:42:58 wide um what's our total width
+1:43:03 there uh of all this no the the space
+1:43:07 that we have I mean I put that sync in
+1:43:10 there arbitrarily so you got
+1:43:12 3 36 in there make it
+1:43:17 a can you go me back to floor plan view
+1:43:20 just want to see how our sink is
+1:43:22 centered on that wall
+1:43:24 now
+1:43:27 okay actually let's not work on that
+1:43:29 cabinet let's put a put a corner cabinet
+1:43:33 to the right of the
+1:43:36 dishwasher we're going to return yeah
+1:43:39 we're going to return a peninsula here
+1:43:41 oh
+1:43:48 okay overhang
+1:43:51 still you need an overhang
+1:43:55 yes how much 10
+1:43:58 12 n actually no no wait I'm so sorry
+1:44:02 [Music]
+1:44:05 um not right now let's just make the
+1:44:08 peninsula um I have to check out what
+1:44:11 we're doing on this half wall before I
+1:44:13 answer that
+1:44:18 question I don't know if my overhang
+1:44:20 tool works on a corner cabinet see oh
+1:44:23 that's a good question oh it does hey
+1:44:26 look at
+1:44:27 that cool smarter than you
+1:44:34 think all right so this is new in X15 I
+1:44:37 have TR uh trouble placing
+1:44:40 things um in line sometimes it's weird
+1:44:45 like it won't it won't just
+1:44:46 automatically place where I would want
+1:44:48 it to uh this is getting narrow huh yeah
+1:44:51 that's really narrow yeah yeah that's
+1:44:53 why I was saying hold off on that
+1:44:55 Peninsula idea just put it in there for
+1:44:57 now I'll probably go back and change
+1:45:01 it
+1:45:03 okay oh and we changed my stools so now
+1:45:06 I have this other
+1:45:10 stool all right what
+1:45:14 else let's see
+1:45:23 okay what's our distance from the end of
+1:45:25 the peninsula to the full High
+1:45:32 cabinets 52
+1:45:34 inches okay so we can extend the
+1:45:37 peninsula to Let's see we can take that
+1:45:40 down to
+1:45:47 48
+1:45:51 okay it's a little bit of an mod detail
+1:45:53 but for
+1:45:55 the for her
+1:45:57 kids and kind of traffic control this is
+1:46:01 one of the requests that was
+1:46:02 made that they can sit right there while
+1:46:05 she's working and she can keep an eye on
+1:46:07 them so we might not have seing that a
+1:46:10 lot yeah yeah we might not have the
+1:46:12 seating at the end because of remember
+1:46:14 the image I showed you earlier of the
+1:46:16 back side of this the the sink wall we
+1:46:20 have the bar top
+1:46:24 instead of the half wall you're you're
+1:46:26 giving me you're giving me an idea right
+1:46:28 now I'm gonna I'm going to make it real
+1:46:30 quick okay this is going to be very
+1:46:31 simple I'm going to save this to a style
+1:46:34 pallet and it's going to
+1:46:36 be
+1:46:38 um let's see revert counter
+1:46:43 overhang
+1:46:47 cool here
+1:46:50 all enter
+1:46:54 um countertop
+1:46:56 overhang should be
+1:47:03 uniform I don't know if that makes it
+1:47:06 yeah should be uniform okay
+1:47:09 true should be able to spray this
+1:47:12 now there we
+1:47:15 go
+1:47:16 cool new
+1:47:18 tools go buy them
+1:47:23 all right so what are you saying no
+1:47:25 seating um just take the stools away for
+1:47:27 now and so the instead of that pony wall
+1:47:32 that half wall behind the sink um we're
+1:47:34 going to have a bar
+1:47:37 height um I think
+1:47:39 about 10 inches
+1:47:46 deep some kind of
+1:47:49 cabinet base is what I'm using to make
+1:47:51 it right
+1:47:54 yeah it's going to be open shelving
+1:47:56 facing the
+1:47:58 dining oh I can't do a snap to snap too
+1:48:03 bad um so it's open shelving facing the
+1:48:07 dining 42 height 42 height how deep top
+1:48:12 height um make it 10 for
+1:48:15 now 10
+1:48:21 okay and it's just open all the way
+1:48:25 across and open at the
+1:48:27 end and open oh you have like one unit
+1:48:30 that's facing out this way right facing
+1:48:34 facing to our plan right is that right
+1:48:37 just start with what you've got we're
+1:48:39 going to make it open shelving facing
+1:48:41 the
+1:48:42 dining
+1:48:48 okay and does it go to the wing wall or
+1:48:51 past the wing wall so the wing wall I
+1:48:55 might thicken that Wing wall I have some
+1:48:58 venting right there in that corner so I
+1:48:59 might have to hide it we might have to
+1:49:01 make that Wing wall thick so all this
+1:49:03 Cabinetry dies into
+1:49:07 it so and then this goes up
+1:49:11 six and this is going to be open
+1:49:15 correct and you're going to have what
+1:49:17 are you going to have on
+1:49:20 it books on it what do you mean on it um
+1:49:24 you going to display stuff in in the
+1:49:25 shelving yeah it's um partially display
+1:49:29 partially functional for what they need
+1:49:31 in that space when she has her kids in
+1:49:33 there okay so I'll use my shelf
+1:49:37 tools hey oh that's where you were going
+1:49:41 I'm like why do I need to tell you what
+1:49:42 they're gonna have in there Renee I'm
+1:49:45 trying I'm trying
+1:49:46 to like look lady Just Go With
+1:49:50 It split split split split split split
+1:49:54 split probably went about this in a
+1:49:56 really bad
+1:49:58 way um probably could have made one and
+1:50:00 just duplicated it well because it's
+1:50:03 going to be what are you thinking it's
+1:50:05 going to be open for the bottom 12
+1:50:07 inches or
+1:50:09 something and there's no toe kick right
+1:50:13 no toe about six inch high the first
+1:50:15 shelf is about six inches off the floor
+1:50:17 I'll use my new delete toe kick tool
+1:50:23 oh man okay and the first say it again
+1:50:26 I'm sorry the
+1:50:29 first okay so the first shelf is about
+1:50:31 six inches off the floor we're going to
+1:50:34 delete this part first shelf is let's
+1:50:37 split this horizontal this first one is
+1:50:40 six inches of
+1:50:46 opening and
+1:50:48 then and then you got two shelves
+1:50:51 basically right and then take that top
+1:50:53 drawer
+1:50:56 away um and take the top drawer away
+1:51:00 right
+1:51:02 okay and so this opening is locked
+1:51:06 that's not locked so I can hit
+1:51:08 equalize and now let's just do this
+1:51:17 [Music]
+1:51:22 and
+1:51:26 books for
+1:51:28 now that's
+1:51:34 good
+1:51:35 [Music]
+1:51:37 um okay and then that it extends all the
+1:51:42 way to the
+1:51:43 end extends all the way past this guy
+1:51:46 yeah
+1:51:51 okay man I can't tell you how much I
+1:51:54 love that new feature can you extend it
+1:51:56 about two inches past the end of the
+1:51:58 peninsula
+1:52:04 cabinet and then can you make the this
+1:52:06 end open as well and then the corner
+1:52:10 post about 2 inch
+1:52:15 square
+1:52:16 okay so left style is 2
+1:52:20 in and left side is
+1:52:26 open completely open completely
+1:52:33 open take that yeah but take and then
+1:52:36 get rid of this little yeah little bitty
+1:52:39 down
+1:52:40 here
+1:52:44 right okay we'll get a little fancier
+1:52:46 than that eventually but we're going in
+1:52:48 the right direction here okay
+1:52:59 but this is a new term I just heard pot
+1:53:01 lights are you putting pot lights
+1:53:03 in who's calling them pot lights still
+1:53:06 it's like an East Coast thing or
+1:53:08 something I don't know I thought that
+1:53:09 that went away 20 years ago okay
+1:53:14 um me and
+1:53:16 my um okay now I remember what I was
+1:53:18 doing with the peninsula so instead of a
+1:53:20 corner cabinet we're not going to have a
+1:53:21 lazy season Corner we're going to have a
+1:53:25 filler to the right of the dishwasher
+1:53:27 and then we're going to have storage
+1:53:29 cabinets facing the outside outside the
+1:53:37 kitchen that's what I that's what I
+1:53:40 thought doing before I'm trying to I
+1:53:42 have a mental list of everything that
+1:53:45 she that I discussed with her and so
+1:53:48 this whole assembly can move and that
+1:53:50 left cabinet can get bigger
+1:53:53 M we don't we don't want to to move
+1:53:55 quite that much I don't want to be that
+1:53:57 close to the opening okay oh wait wait
+1:54:00 now we have
+1:54:02 the okay how big did you just make that
+1:54:04 base
+1:54:06 cabinet 24 deep which is deep no to the
+1:54:10 left of how big did you make to the left
+1:54:12 of the sink it's two foot
+1:54:16 six 30 okay so okay hang on a second
+1:54:23 the base C the SN base is 36
+1:54:27 right uh 33 33 we are going
+1:54:31 to make that bigger okay so we're g to
+1:54:36 steal
+1:54:38 [Music]
+1:54:39 some from the drawer base to the left of
+1:54:42 the sink take that down to let's see I
+1:54:46 basically want to get the sync base to
+1:54:49 39 39 okay
+1:54:54 she bakes like a mad woman she wants a
+1:54:57 gigantic sink she's mad Baker mad Baker
+1:55:03 okay she wants a really big workstations
+1:55:06 Inc I oh I have that you do tools tools
+1:55:12 yeah if we type in symbol type syns and
+1:55:17 then click on my user catalog and click
+1:55:20 on the full kitchen Suite there's
+1:55:22 actually actually a
+1:55:23 pre-done like workstation workstation
+1:55:26 sync
+1:55:29 nice yeah do you have a single bowl
+1:55:33 or um you want apron front
+1:55:38 or just under
+1:55:40 mount I have like this guy which is
+1:55:43 something that I think stole from you oh
+1:55:46 yeah I love that can we adjust the size
+1:55:48 of that that thing's
+1:55:50 massive yeah that's what I put
+1:55:53 in the lighting I mean it's not going to
+1:55:55 look right
+1:55:59 but it'll look squished it's the idea
+1:56:03 it's the concept of what she asked
+1:56:08 for
+1:56:13 okay um and how do we find faucets there
+1:56:17 we go some faucet
+1:56:33 yeah look how goofy that is when it's
+1:56:34 all
+1:56:36 squishi also like it's offset is correct
+1:56:39 either yeah it's little
+1:56:46 high out 10
+1:56:53 yeah a little bit better but still
+1:56:55 probably needs to go back down 3/4 of an
+1:57:04 inch go um okay and so what happens here
+1:57:08 this is
+1:57:09 open um so those those cabinets are
+1:57:12 going to be storage facing us it's going
+1:57:14 to be for all the kids
+1:57:16 stuff okay
+1:57:18 um and we're still going to have the
+1:57:20 peninsula but the storage is open
+1:57:23 towards looking at so flush flush toe
+1:57:26 and then is this open or is this just
+1:57:28 door drawer is
+1:57:30 this full height doors full height door
+1:57:34 okay I have a tool for
+1:57:38 that
+1:57:50 okay right right like
+1:57:54 that yep and we can extend it to just as
+1:57:58 long as we have 48
+1:58:00 clearance
+1:58:02 to the opposite
+1:58:07 cabinets um we
+1:58:11 have
+1:58:15 yeah and so that cabinet you want to
+1:58:18 face face the storage out as well I know
+1:58:20 it's a little unusual but
+1:58:24 oh really okay yeah she needs
+1:58:27 [Music]
+1:58:28 um her
+1:58:32 kids some special circumstances with the
+1:58:36 kids and what she needs them to
+1:58:38 be their stuff to be located while she's
+1:58:40 working in the kitchen so no toe still
+1:58:44 no toe full height doors
+1:58:55 actually you know what split the sides
+1:58:56 of these yeah so we'll do four full
+1:58:59 height doors no handles touch
+1:59:02 latch so it looks like paneling from
+1:59:05 this side so you can't split the size of
+1:59:06 this it's 24 and it's a 27 unless you're
+1:59:08 doing are you doing modular or you doing
+1:59:12 custom I can customize
+1:59:15 these and if I get rid of this filler
+1:59:18 and I bump this to 47 instead of 48 so
+1:59:22 what you can do the um the corner base
+1:59:25 or the base you can split them evenly
+1:59:27 yeah they're you're on the same page
+1:59:29 okay and then take the handles off take
+1:59:33 the knobs
+1:59:35 off I need a delete knobs tool there you
+1:59:40 go remove the knobs from your life
+1:59:47 [Music]
+1:59:52 oh
+1:59:54 jeez where did we go there we go
+1:59:59 okay oky doie let's
+2:00:06 see and you can
+2:00:09 um and then on the backside facing the
+2:00:12 kitchen just going even that out so like
+2:00:14 with a panel or something so we don't
+2:00:16 have that
+2:00:19 Gap where just p here uhu just so it
+2:00:23 looks nice yeah gotcha and then the
+2:00:25 panel at the end as
+2:00:29 well and we do want a toe on the back of
+2:00:34 that and then left side needs panel aot
+2:00:38 panel and we do want a tow on which the
+2:00:41 the kitchen facing
+2:00:43 side oh you want to tow on the back side
+2:00:47 I okay I did this wrong um
+2:00:53 okay so we need to flip
+2:00:56 this which
+2:01:01 means front side's back the front side
+2:01:04 we're gonna say the back matches the
+2:01:06 front match front and then we're going
+2:01:08 to make it custom and then front side
+2:01:12 ends up
+2:01:13 being just
+2:01:16 panel side panel
+2:01:19 applied I think I did that right and now
+2:01:22 I need to flip flop
+2:01:28 this yeah so that gives it a toe in the
+2:01:32 back and the doors are
+2:01:35 here and then do um return toe
+2:01:41 kick on that in
+2:01:44 cabinet and then we'll do a base return
+2:01:49 toe kick you mean side on the side I
+2:01:53 have a tool for that or close I'm sorry
+2:01:55 Clos toe make it closed toe on the side
+2:01:57 close toe okay toe sorry or you can try
+2:01:59 you can use your tool if you really
+2:02:02 want I need to link it but there you go
+2:02:04 side
+2:02:06 toe uh Clos toe close toe and then a um
+2:02:12 base molding across the face of the
+2:02:15 flush toe on the outside the
+2:02:19 kitchen oh you want a molding here on
+2:02:22 this side on oh keep going rotate around
+2:02:27 yeah there we go across here yeah
+2:02:31 okay well that's no fun what kind of
+2:02:36 molding you want just flat just put a
+2:02:38 typical just put a yeah put a flat
+2:02:42 mold oh and then I think we can type in
+2:02:45 molding as a type see man I love this
+2:02:49 it's great and then if I click on this
+2:02:52 this should be able to
+2:02:55 snap to
+2:02:57 that bam
+2:03:00 R is that toe
+2:03:02 flush
+2:03:05 huh I want the molding to be flush with
+2:03:07 the
+2:03:08 door oh
+2:03:12 okay
+2:03:13 [Music]
+2:03:14 um Let
+2:03:19 Me Maybe one point uh which way is this
+2:03:22 going to
+2:03:24 go it goes the other
+2:03:30 way kind like that but and then could
+2:03:34 you put
+2:03:37 a and then at the end there yeah and
+2:03:40 then at the end I want a
+2:03:43 panel
+2:03:45 that door Style with the door an applied
+2:03:49 panel that's flush with the face of the
+2:03:51 door doors on both
+2:03:56 sides so it extends so it's flush with
+2:03:59 the face of the
+2:04:01 doors
+2:04:03 okay we just learned this full size
+2:04:06 panel full
+2:04:09 overlay
+2:04:10 right sometimes that works for me
+2:04:12 sometimes it doesn't except for I have
+2:04:14 to remove the left side
+2:04:22 to the floor and to the floor
+2:04:29 okay it's cool I learned something
+2:04:32 today that all
+2:04:35 right okay let's
+2:04:39 see so that
+2:04:42 um get in
+2:04:48 there so the end wall that this bookcase
+2:04:52 butts into we're g to make that wider
+2:04:55 because we've got
+2:04:56 some venting that needs to go through
+2:04:59 that so we need to hide
+2:05:01 it you're going to make the wing wall
+2:05:04 that's between the kitchen and the
+2:05:06 dining we need to widen it widen it so
+2:05:10 to what 12 inches 12 inches we had it at
+2:05:14 10 right oh no no not the not that
+2:05:17 bookcase the wing wall what oh the W I'm
+2:05:19 sorry Wing wall gotta
+2:05:23 and what is it now oh you mean thicken
+2:05:26 it thicken yeah
+2:05:35 okay and that's going to do it on the
+2:05:37 wrong side oh no it did it on the right
+2:05:38 side heying bing
+2:05:40 [Music]
+2:05:42 bing why did that move everything that
+2:05:46 was
+2:05:48 funny oh yeah it's like it pulled
+2:05:50 everything with it yeah that was
+2:05:57 weird
+2:06:04 huh here you
+2:06:06 go starting to look like a kitchen yes
+2:06:09 it is what else would you like okay so I
+2:06:12 want the molding to be flat molding and
+2:06:17 I want it to extend I don't want a gap
+2:06:20 between the C in the
+2:06:24 ceiling oh
+2:06:26 okay so all these guys our cabinets you
+2:06:30 wanted a flat molding flat
+2:06:32 molding so right now we have what six
+2:06:35 inches to the ceiling I actually just
+2:06:37 made a request for this um I want so
+2:06:41 here's my request and maybe you'll add
+2:06:43 to it I want to be able to put a flap
+2:06:46 molding on any any cabinet or anything
+2:06:50 for that matter
+2:06:52 have a crown molding attached to it if I
+2:06:54 want with a spe specific offset to the
+2:06:57 top right yes and I want to be able to
+2:07:01 just drag the flat
+2:07:03 molding and drag it until the crown
+2:07:06 that's attached to it bumps to whatever
+2:07:08 it is so if it the crown hits the
+2:07:10 ceiling we get that bump stop so that be
+2:07:14 really nice dynamically shape your flat
+2:07:17 stock oh my gosh why don't we have that
+2:07:20 yeah all right so we need a 6 inch flat
+2:07:24 is so I don't I don't want the molding
+2:07:26 to be six inches I was just asking how
+2:07:27 much space we have oh okay so what do
+2:07:29 you want so we've got 36 inch cabinets
+2:07:32 there I can't quite see yeah make the
+2:07:35 cabinets 30 make the wall cabinets
+2:07:39 39
+2:07:41 okay and then have flat stock above
+2:07:45 that there's a faster way to do
+2:07:49 this oops
+2:07:54 definitely a faster way to do
+2:07:58 this and then just flat stock above
+2:08:02 that
+2:08:09 okay Bo did I go the wrong route on that
+2:08:13 one at least it's a small
+2:08:18 kitchen ca1
+2:08:24 and
+2:08:28 Bam and now I have to
+2:08:42 change so we want to offset molding for
+2:08:46 face items and we want a -3/4 cuz you're
+2:08:50 going to stack this and then you want A3
+2:08:55 and a I think we need a space between
+2:08:57 the door and the molding and you need a
+2:09:00 three there should be one there because
+2:09:02 my cabinets by default have a little Gap
+2:09:04 yeah I thought they
+2:09:05 [Music]
+2:09:06 did so that that's a look oh yeah so
+2:09:10 much better oh okay oh that's better
+2:09:14 okay the side of the pantry cabinet
+2:09:16 facing yeah so I this was 58 how dumbb
+2:09:24 the molding itself is 5 a I think
+2:09:28 oh yeah
+2:09:35 dumb there we go all right okay so we
+2:09:38 want uh the pantry cabinet at the end of
+2:09:41 the run there we want a Clos toe on that
+2:09:43 and a panel on the
+2:09:45 end um so Clos toe on this
+2:09:50 guy and panel on it mhm oh we have no
+2:09:54 toe on it already you said zero toe
+2:09:56 flush
+2:10:00 toe oh that's right I didn't run the
+2:10:02 molding across the face of that I was
+2:10:04 like it still looks a little recessed
+2:10:06 and you want same thing
+2:10:09 um with the
+2:10:11 panel full size panel full overlay
+2:10:13 extend the
+2:10:16 bottom yeah okay
+2:10:27 getting there our bookshelves look a
+2:10:30 little
+2:10:33 chintzy well I got to get rid of that
+2:10:35 countertop in there which we
+2:10:41 will guess we can do it
+2:10:49 now and that should
+2:10:52 bring
+2:10:53 this oh I hate when they do all these
+2:10:56 bre weird
+2:10:59 breaks I wish we had an option to select
+2:11:02 one Edge and say everything that's
+2:11:04 within two inches of this Edge make it
+2:11:05 all one line
+2:11:13 right look at all these little silly
+2:11:16 little brakes doesn't it have a tool to
+2:11:21 eluminate the brakes it does but they're
+2:11:24 just off for some reason oh if they're
+2:11:26 slightly off it's not gonna get rid of
+2:11:27 them yeah
+2:11:29 yeah there it goes yay so that should
+2:11:36 stop should now not be breaking through
+2:11:39 the middle of your cabinet okay that's
+2:11:43 better um you want to split this
+2:11:46 bookshelf up and have more stuff on it
+2:11:49 [Music]
+2:12:13 so can we have a
+2:12:17 center yeah that Center um vertical
+2:12:20 panel can we have a post there
+2:12:24 instead so basically two
+2:12:30 units yeah but I just want a single post
+2:12:33 um vertical in the middle not to butted
+2:12:34 up against each
+2:12:36 other so to mimic what's at the
+2:12:39 end right so I'm going to go 134 divided
+2:12:47 two and 67 over
+2:12:53 that gets me a post in the middle that
+2:12:55 what you
+2:12:57 mean that's a full
+2:12:59 panel oh so wait so what do you
+2:13:02 want I just want a oh but you want it
+2:13:06 open just a center leg Yeah just a
+2:13:09 center leg open in between
+2:13:12 yeah where this is how we just have to
+2:13:14 fake it this way um yeah so that means
+2:13:18 the right side is going to be
+2:13:21 custom faed
+2:13:25 open
+2:13:27 opening and then no
+2:13:29 separation and then the front face we've
+2:13:33 got too many of these now
+2:13:37 yeah yeah take it down to two sections
+2:13:40 yeah and then let's put a skirt across
+2:13:43 the
+2:13:45 bottom kind of finish that bottom Edge a
+2:13:47 little bit with the molding skirt
+2:13:49 molding um so you want this to be just a
+2:13:53 little one inch skirt molding across one
+2:13:55 inch yeah I don't want to close it all
+2:13:58 Al together okay so and
+2:14:05 then and it just goes across the face
+2:14:08 just up underneath that bottom
+2:14:12 shelf
+2:14:14 oh oh so we're actually adding a molding
+2:14:17 gotcha we're actually
+2:14:19 yeah yeah I want there still to be six
+2:14:21 inches of space at that toe yeah and so
+2:14:25 you want trying to make it trying to you
+2:14:28 want like a little
+2:14:30 um just a flat stock but just a script
+2:14:34 [Music]
+2:14:36 molding Ming in
+2:14:43 profile kind of like a
+2:14:51 something like that not that decorative
+2:14:53 let's
+2:14:54 see
+2:14:58 no little OG little that's
+2:15:04 good and that's going to be a base
+2:15:07 molding and we're going to go 6 inch
+2:15:12 vertical e but I don't like how it wraps
+2:15:14 around the legs and you don't like how
+2:15:16 it wraps around I just wanted it from
+2:15:18 leg to leg
+2:15:21 oh yeah well no we'll get that that's
+2:15:22 fine we'll we'll convert we have a new
+2:15:25 tool for that now too oh of course you
+2:15:26 do well no Chief does chief
+2:15:32 has um you can take two cabinet runs
+2:15:35 like this and then there's a
+2:15:38 convert this guy right here make cabinet
+2:15:42 molding so it converts that molding oh
+2:15:46 nice and then you just select a leg and
+2:15:48 say there's no molding on that leg
+2:15:51 oh yeah
+2:15:55 fancy car is it sticking out proud of
+2:15:59 the
+2:16:01 leg um
+2:16:03 no see how the legs recessed back into
+2:16:07 the
+2:16:09 yeah so oh you want it you want this all
+2:16:11 to be
+2:16:13 recessed with a molding in the front I
+2:16:17 want the molding to be so you know you
+2:16:20 how on a table you have the skirt okay
+2:16:22 hold on so you need a
+2:16:25 pill I think I got you I think I know
+2:16:27 what you
+2:16:31 mean some people call it apron some
+2:16:34 highter
+2:16:36 highter what' you
+2:16:42 say I don't want it to be decorative
+2:16:44 though I just want a box I mean I could
+2:16:46 just done it this with a
+2:16:49 slab want fluted you want fluted am I
+2:16:53 wasting your time
+2:16:56 yet you're not saying anything so I'm
+2:16:58 just gonna put one of these in
+2:17:00 here I'm trying
+2:17:02 to I thought there was just a square one
+2:17:05 no I thought so too oh slab there it
+2:17:11 is with his three
+2:17:14 inches oh it butts over everything funny
+2:17:18 two inches with that
+2:17:25 what's going on
+2:17:27 here what are you doing okay
+2:17:35 so I'm GNA let you finish
+2:17:41 okay there okay yeah I figured that's
+2:17:43 where you're
+2:17:45 going there now
+2:17:47 it's I feel better yeah
+2:17:51 that was really like oh iring you
+2:17:56 yes okay really rough moment there but I
+2:18:01 I came a little a little eye
+2:18:05 twitch I was like no I think Renee gets
+2:18:07 where I'm going with this just just hold
+2:18:09 off for a second hang on
+2:18:12 there look I'll even put a different
+2:18:14 book in there for you thanks I do Rd
+2:18:17 Shelf book and then click off of molding
+2:18:22 different
+2:18:24 book
+2:18:29 component
+2:18:31 happiness yay so get some variety
+2:18:39 yeah it's like we've worked together
+2:18:42 before you'd
+2:18:45 think okay okay so that I'm not getting
+2:18:51 into finishes yet we need to do
+2:18:53 backsplash it's going to be
+2:18:58 tile and then we'll apply
+2:19:01 styles and colors after under camera
+2:19:04 lights
+2:19:14 absolutely do you have a piano in your
+2:19:16 catalog I do
+2:19:38 where does a piano
+2:19:40 go it might have to go at asking it
+2:19:44 might have to go at the end wall where
+2:19:45 the dining table
+2:19:48 is yeah
+2:19:51 huh this is basically the dining space
+2:19:53 is doubling up as
+2:19:55 homeschool oh you want an upright
+2:19:58 piano if it doesn't look too janky oh
+2:20:00 that's really
+2:20:02 no it's too tall yeah we don't need to
+2:20:04 show that right now I would need to go
+2:20:06 find one that looks right yeah find one
+2:20:07 on 3D warehouse and we can fix it yeah
+2:20:10 yeah because that's going to go on that
+2:20:11 end wall and then we're and then you can
+2:20:13 put a piece of your really great art on
+2:20:14 that end wall
+2:20:16 too some of your uncles art that would
+2:20:19 look great
+2:20:21 and different
+2:20:23 chairs you gotta find the chairs yeah I
+2:20:27 in
+2:20:38 here where's that really light colored
+2:20:40 one you passed by something really light
+2:20:43 light
+2:20:44 okay it was a really nice one that you
+2:20:52 um I wish they would do let's see if I
+2:20:54 show this in
+2:20:55 folder and then we click on this this is
+2:20:58 where the sub categories don't work for
+2:21:01 preview it's too
+2:21:02 bad um there's a light
+2:21:16 one tell me when to stop clicking on
+2:21:22 things you had passed over it a little
+2:21:25 bit
+2:21:29 ago okay all the way to the right of
+2:21:31 that row on the far right
+2:21:35 side that one's
+2:21:37 fun I like that
+2:21:41 one big
+2:21:44 boy
+2:21:46 yeah massive we'll leave that there for
+2:21:49 now
+2:21:52 okay and you want different
+2:22:02 chairs um yeah the chairs are
+2:22:05 bad I've downloaded several chairs
+2:22:08 online on my catalog yeah yeah because I
+2:22:13 just where'd he go Crate and Barrel West
+2:22:17 home um actually I think I think it was
+2:22:20 last year maybe I didn't go online I
+2:22:22 think it was last year they added a um
+2:22:26 bonus catalog for Wayfair
+2:22:28 products I mean all right so I just went
+2:22:30 to wair they might not actually have
+2:22:32 theirs classified as chairs which could
+2:22:34 be the problem why we're not seeing them
+2:22:36 oh there's a little simple one in the
+2:22:38 second row there to the left that might
+2:22:40 do the
+2:22:42 trick this one the
+2:22:45 Chicago man that's pretty bad I mean
+2:22:48 it's better than what's there
+2:22:53 uh you
+2:22:56 know yeah some of these are very
+2:23:00 bad um yeah they don't have chairs in in
+2:23:03 here that's funny I thought they did all
+2:23:06 right you keep thinking I'm gonna look
+2:23:07 at
+2:23:09 chairs want put office chairs in there
+2:23:12 oh my gosh dining chairs there we go
+2:23:14 wood chair tin chair my gosh all right
+2:23:18 there's something in here there's got to
+2:23:20 be
+2:23:22 go to the left there's an X
+2:23:25 back no up up up next row up no between
+2:23:29 those two yeah no no go to the right
+2:23:33 this
+2:23:35 one okay you know just put that one in
+2:23:39 for now it's better than what's there
+2:23:43 okay a simple chair just a simple chair
+2:23:46 people I know they have to make it crazy
+2:23:49 all right
+2:23:52 oops
+2:23:59 plan how close are you then you can
+2:24:02 blend the wood of the chairs and the
+2:24:09 table see if my new tools work and they
+2:24:12 do work
+2:24:16 huh sometimes I'm surprised when things
+2:24:18 work funny like oh my gosh it works yeah
+2:24:21 I did that
+2:24:28 cool look like a kitchen
+2:24:36 yeah okay what
+2:24:38 else we can put
+2:24:42 some oh my gosh we're back to the light
+2:24:44 fixture debacle
+2:24:50 I mean I might
+2:24:52 have I have this one let's see I have I
+2:24:57 call it a pendant but it's
+2:24:59 big it's better than most of what we
+2:25:07 see
+2:25:18 um I'll let you change that
+2:25:27 keep bring it up off the table a
+2:25:29 bit it's not
+2:25:32 movable
+2:25:34 what it's got a chain it's got a chain
+2:25:36 swag it's too low
+2:25:54 oh okay
+2:25:57 so we need to fix the lighting in the
+2:25:59 kitchen just fix those recess lights in
+2:26:02 the
+2:26:03 kitchen okay what do you
+2:26:12 want okay so I would do
+2:26:17 three put it
+2:26:25 okay so we need three those are too far
+2:26:29 two in that row is two fuse so we need
+2:26:31 three evenly spaced place the last one
+2:26:34 over the
+2:26:40 peninsula like that drag that whole row
+2:26:44 over centered over the sink cabinets
+2:26:54 like that
+2:26:57 Center what's the um that last one
+2:26:59 should be centered over the peninsula
+2:27:02 over this okay so let's do this the
+2:27:04 other way around
+2:27:10 then and that's centered on
+2:27:14 sync oh I hate a single light centered
+2:27:16 on a
+2:27:17 sink don't want it centered on a sink
+2:27:20 okay well no no okay this is what I
+2:27:21 meant so that whole row yeah drag it up
+2:27:25 so they're running across that line of
+2:27:28 cabinets so Center that on
+2:27:34 those on the cabinet there you go
+2:27:38 now drag four lights across there four
+2:27:44 lights okay so three more four total you
+2:27:47 want four total yeah there we go there
+2:27:50 we go thank
+2:27:56 you all
+2:28:00 right yeah and then mimic that right in
+2:28:05 front of those tall
+2:28:13 cabinets it's going to look a little
+2:28:15 weird in floor plan but it works in real
+2:28:18 life okay um
+2:28:20 [Music]
+2:28:27 um that's not quite
+2:28:41 right this is my favorite tool of
+2:28:43 theirs playing around with the sun there
+2:28:46 you
+2:28:47 go all right get it right what do you
+2:28:52 want I have to go back to floor
+2:28:54 [Music]
+2:28:55 plan
+2:28:58 um see this is where I would start
+2:29:00 dragging lights around and just
+2:29:04 um getting everything centered correctly
+2:29:06 it's hard to it's hard to tell you
+2:29:15 okay so we basically need another row of
+2:29:17 Lights I think I would do three lights
+2:29:19 down the center the kitchen centered on
+2:29:21 the Range so the last one
+2:29:25 is yeah and then drag two more towards
+2:29:28 the
+2:29:37 range yeah this is really awkward
+2:29:57 my
+2:30:13 gosh kind of a challenging one honestly
+2:30:16 yeah that I'd have to play around with
+2:30:17 the lights for a little
+2:30:18 bit for
+2:30:51 okay what else for the build
+2:30:55 anything let's see um you want four
+2:30:59 drawer base here yeah a three drawer
+2:31:02 base
+2:31:08 there got no garbage pull
+2:31:18 out garbage pull out's going to be on
+2:31:20 the opposite side right next to the
+2:31:25 oven over here
+2:31:27 okay um
+2:31:31 so yeah ideally it would be next to
+2:31:34 the
+2:31:37 [Music]
+2:31:38 um ideally it would be next to the
+2:31:42 sink but we're running short on length
+2:31:46 there actually I might swap that out I
+2:31:49 might make that here here's that casee
+2:31:51 for the drawer against drawer
+2:31:53 base yeah I can do better than
+2:31:57 that okay I do better than
+2:32:01 that
+2:32:16 um my bookshelves don't want to be 10 in
+2:32:20 I want to be 12 you can make a
+2:32:36 12 why why did I do that
+2:32:57 weird that it has a jog in
+2:33:04 there there we
+2:33:06 go um
+2:33:13 okay you want a blind corner here and
+2:33:17 then do a garbage and a four drawer so
+2:33:21 our Dimensions from the range humor me
+2:33:24 here our Dimensions from the range to
+2:33:26 the corner that's a nine and a 12 right
+2:33:28 those doors yeah so you got 45 here so
+2:33:31 this could be a blind Corner hang on
+2:33:33 hang on hang on so 12 12 and
+2:33:38 9 say gives me
+2:33:42 21 and then on there I've got the drawer
+2:33:44 base is a 30 or a 33 you got a 27 27
+2:33:49 plus a 12
+2:33:52 yeah I can do an
+2:33:56 18 all right you're going to hear me me
+2:34:43 so what's the size of that drawer
+2:34:45 base uh which one so we got 218
+2:34:53 and then you
+2:34:54 have this would
+2:34:57 be I don't remember what the face ends
+2:34:59 up being on this
+2:35:28 no that won't
+2:35:32 work it's too small of an
+2:35:35 opening I mean this is wrong it would be
+2:35:38 like a I don't remember what their
+2:35:39 openings are so there's two size
+2:35:41 openings for blind corner unit for blank
+2:35:44 Corner
+2:35:47 hardware and the opening has
+2:35:50 21 or
+2:35:52 24 this is it well blind corner is
+2:35:54 typical 42 you can get them at 45 but
+2:35:57 that's that's what it would be
+2:35:59 there it's gonna run into that range
+2:36:02 when you open the
+2:36:06 door I mean you have some play
+2:36:34 do a back smash against this you can't
+2:36:36 it's because it's a cabinet funny have
+2:36:39 to do a solid
+2:37:15 to be honest what I'll probably end up
+2:37:16 doing is I'll probably end up um
+2:37:19 adjusting the depth of the peninsula
+2:37:21 cabinets to buy myself a little bit of
+2:37:25 room on the
+2:37:31 Sall yeah you have all of that will make
+2:37:34 that whole Corner
+2:37:39 work you have eight feet of space
+2:37:44 here
+2:37:47 so and if you draw from the
+2:37:50 that's your door
+2:37:53 line yeah we could pull that the Shelf
+2:37:56 base down towards that line and the
+2:38:00 peninsula can come out a little bit
+2:38:02 further burn
+2:38:04 the I
+2:38:06 know so basically okay this is what I
+2:38:08 would do if I was sitting here by myself
+2:38:10 I would pull those I would pull those um
+2:38:12 shelves out towards the line I'd pull
+2:38:14 the peninsula towards the line I'd buy
+2:38:16 myself some extra room on that sink wall
+2:38:18 get that give that room back to the
+2:38:20 corner so that I could get the the
+2:38:23 garbage base I could get a decent corner
+2:38:25 cabinet and then she
+2:38:27 wants spice pullouts on either side of
+2:38:30 the range that's the end game in all
+2:38:47 this all the work you're making me
+2:38:50 redo well sometimes you just got to do
+2:38:53 things and see what they look like and
+2:38:54 then start making
+2:38:59 changes what happened
+2:39:06 here yeah what's getting pulled
+2:39:13 there all this custom stuff what's going
+2:39:16 on here
+2:39:17 [Music]
+2:39:20 okay okay so scoot those Peninsula
+2:39:22 cabinets towards
+2:39:27 the I just want the moved it 12
+2:39:31 inches so the peninsula cabinets I want
+2:39:34 them to go towards the end of the
+2:39:36 bookshelf an inch shy of the end just so
+2:39:40 the bookshelf is um or the peninsula is
+2:39:44 one inch shy you make me move all this
+2:39:47 again no no no no no no no no the
+2:39:49 peninsula cabinets moving to the
+2:39:55 right well I moved everything 12
+2:40:00 inches but now you're gonna make me move
+2:40:02 it an arbitrary
+2:40:04 number God this guy right
+2:40:09 yes so I just don't want them flush with
+2:40:11 the end of the
+2:40:12 bookshelf because I want the countertop
+2:40:15 to die into the back side of the
+2:40:17 bookshelves and I don't know how oh dang
+2:40:21 it so just move it to the right 11
+2:40:28 in this back one
+2:40:32 inch
+2:40:34 and snappy snappy and one
+2:40:38 inch SNA
+2:40:51 come on give me the
+2:41:00 cabinet okay oh my God now we have room
+2:41:03 to work with Okay I feel so much
+2:41:07 better that corner was just giving me
+2:41:15 hives Robin would tell you that she
+2:41:17 hates Susan
+2:41:21 well it's not my kitchen it's my
+2:41:22 client's kitchen
+2:41:26 so but there's a reason for those they
+2:41:28 fit perfectly for the baking stuff that
+2:41:30 she
+2:41:40 has okay so
+2:41:43 stop yes stop moving stop moving things
+2:41:46 um back up just so I can see the whole
+2:41:48 run
+2:41:50 okay so we have the
+2:41:51 sink the sink needs to get centered
+2:41:54 between the peninsula and the range
+2:42:03 cabinets okay the dishwasher and the
+2:42:05 sink are too squished to the
+2:42:08 right
+2:42:10 okay and so tell me what we have to the
+2:42:14 left of the sink what are the sizes of
+2:42:15 those cabinets okay now we don't have
+2:42:17 them
+2:42:20 so now you have this is getting small
+2:42:23 again when you did that no
+2:42:27 no what what what are you putting there
+2:42:31 you had me Center this between these two
+2:42:32 runs right Peninsula stop changing
+2:42:35 things to the left of the sink okay we
+2:42:36 have an 18 and an eight so we can Del
+2:42:39 delete one of those we don't need two
+2:42:40 cabinets there so
+2:42:43 delete okay yeah delete that small one
+2:42:46 okay
+2:42:49 I'm just trying to get an idea
+2:42:51 of this is just where all the little
+2:42:53 inches we start shimmying things back
+2:42:55 and forth until everything works okay so
+2:42:58 we've got like 29ish there and how much
+2:43:01 do we have to the right of
+2:43:04 the
+2:43:11 dishwasher 18 roughly
+2:43:21 take that 29 down to a
+2:43:31 27 where are you doing garbage pull out
+2:43:34 again I've got an idea just hang on a
+2:43:38 second and the snc base is a
+2:43:41 39
+2:43:45 yep okay um oh it's a 36 I li
+2:43:54 [Music]
+2:44:02 I think there's
+2:44:08 a I am running into a Time wall here
+2:44:16 okay so here's what I would do
+2:44:19 just because I'm running
+2:44:24 into I have another meeting waiting
+2:44:30 so the the adjustable Point here is the
+2:44:33 end of the peninsula and the end of
+2:44:34 these bookshelves yeah so what I would
+2:44:38 do at this point is I
+2:44:39 would I would disregard their locations
+2:44:43 I would get everything on that sink wall
+2:44:45 as I want it and then that would dictate
+2:44:47 the placement of that penin Pula the end
+2:44:49 of the peninsula and the end of the
+2:44:51 bookshelves so instead of trying to fit
+2:44:54 everything to those I would get
+2:44:56 everything in between on the sink wall
+2:44:58 correct and then get that Peninsula and
+2:45:01 bookshelf end exactly where I want it
+2:45:04 does that make
+2:45:07 sense it's good sound off point stopping
+2:45:13 point but I do have somebody else
+2:45:16 waiting
+2:45:20 yeah this looks like something and then
+2:45:22 we can fix the lights and then you
+2:45:26 can get a pretty not the worst kitchen
+2:45:29 what was this called
+2:45:30 Wilson Miller Miller I don't know where
+2:45:34 I
+2:45:35 got heast one of those who are
+2:45:42 you
+2:45:47 Miller oh man you got so many
+2:45:57 little I'm G put my little filter on it
+2:46:00 again I find that to be really
+2:46:02 enjoyable I love
+2:46:05 it okay
+2:46:13 I've nicely done almost done getting
+2:46:17 there
+2:46:21 oh it deil's in those little details at
+2:46:24 the end like it's the concepts there but
+2:46:27 no overhang just St no overhang at that
+2:46:29 Peninsula it's conventionally most
+2:46:32 people would want that but for this case
+2:46:35 because
+2:46:37 of basically I'm trying to create the
+2:46:39 stations that that she needs for her
+2:46:41 kids for the activities that are
+2:46:43 happening in certain areas because again
+2:46:46 she homeschools her kids their special
+2:46:47 needs one of them has a disability and
+2:46:50 so certain things need to go in certain
+2:46:52 places that are a little less
+2:46:54 conventional than
+2:47:00 usual let's
+2:47:02 see
+2:47:03 [Music]
+2:47:05 Rings
+2:47:06 ding yeah I love I love this method
+2:47:16 oops let's do that
+2:47:19 and we'll take from the worst kitchen
+2:47:23 ever this look at that look at that it's
+2:47:25 a oneclick dragon drop looks that's
+2:47:30 amazing incredibly better yeah that true
+2:47:34 and fair people are like how
+2:47:36 surrendering BL blah BL like I just drag
+2:47:40 and drop I think we spent too much time
+2:47:42 on our Worst Kitchen ever oh we
+2:47:45 absolutely did that thing that thing
+2:47:48 just went off the rail so fast it's
+2:47:50 almost like I mean sometimes when I get
+2:47:52 there I just take that I table it I wipe
+2:47:54 the room clean and I start on a new plan
+2:47:56 because you just can't unsee what you're
+2:47:58 looking at set up for failure I know I
+2:48:02 know I am so sorry I have got to hop off
+2:48:04 I have all right else for joining us
+2:48:08 thanks
+2:48:09 Rene always a pleasure will be more
+2:48:12 efficient let's do it again why not 100
+2:48:16 we got a lot done this we did we did
+2:48:18 actually
+2:48:19 we did okay thank you all right take
+2:48:29 by that looks all weird and
+2:48:39 skewed all
+2:48:42 right yeah we fuss we do fuss we butt
+2:48:46 heads sometimes too that's good
+2:48:50 yeah this looks pretty
+2:48:52 good it's great for a little client
+2:48:54 presentation rendering I mean I dit the
+2:48:57 exterior I'm going to do some at some
+2:49:00 point I'll do some photoshop uh
+2:49:04 tutorials if people want to see it let's
+2:49:08 see if I can share my second
+2:49:10 screen let's go present stop screen
+2:49:15 present share
+2:49:17 screen and Tire screen screen
+2:49:20 two and then we'll move this to screen
+2:49:24 one look at that now we are in
+2:49:32 Photoshop do some quick edits here well
+2:49:34 I've got
+2:49:36 everybody I got a nice little tablet
+2:49:39 display I draw on it's freaking sweet
+2:49:55 it's always fun to see how the sausage
+2:49:57 was made I don't know what that what
+2:50:00 that
+2:50:07 means uh what do you mean
+2:50:09 Focus have to tell me what you mean on
+2:50:15 Focus always fun to see how the sausage
+2:50:18 that's a good that's got to be a it's
+2:50:20 got to be an old saying that I don't
+2:50:21 know I like it
+2:50:23 though all right
+2:50:26 so what can I do here I can use I'm
+2:50:30 going to duplicate this and then we're
+2:50:32 going to make this
+2:50:36 a we're going to rasterize
+2:50:38 it and then we'll
+2:50:41 use Quick selection
+2:50:44 tool and we'll select some stuff
+2:50:49 and from
+2:50:51 here we'll deselect some
+2:50:57 stuff this is part of rendering for me
+2:51:00 got to do the post edit stuff
+2:51:27 and I'll clean that up in just a
+2:51:31 minute okay so I want to make a mask
+2:51:35 based on
+2:51:40 that and invert my
+2:51:44 mask so that
+2:51:50 pen tablet's so awesome can't even tell
+2:51:53 you let's go hard
+2:51:57 round hard
+2:52:00 round
+2:52:02 hard round
+2:52:04 rush we
+2:52:06 go draw this out this is therapy for me
+2:52:10 I like this part
+2:52:30 fun fun
+2:52:35 fun I'll read your comment in just a
+2:52:37 second Tyson I saw you made another one
+2:52:54 what' you
+2:52:57 say so when you're exporting your PBR
+2:53:00 iner it would focus in on the cabinets
+2:53:01 and the floor and other things and the
+2:53:03 image as it was doing its
+2:53:05 export oh well that's just because we
+2:53:08 changed the uh resolution of the export
+2:53:11 so it changes into exporting in
+2:53:14 quadrants is what's happening there
+2:53:17 that's what you were seeing
+2:53:20 um because I changed it from the screen
+2:53:22 resolution that it was on into a 4K
+2:53:25 resolution is what I wanted to export
+2:53:36 as that's what we call a bucket render
+2:53:51 we G put someone's backyard in here just
+2:53:53 for
+2:53:57 fun maybe we'll do a couple different
+2:54:00 things maybe we'll turn this into a
+2:54:01 Photoshop
+2:54:03 edit before I get on to my next project
+2:54:06 I got another project I got to touch I
+2:54:08 don't feel like doing it though tell you
+2:54:16 that that uh that first kitchen was was
+2:54:20 rough
+2:54:26 going so there's a much easier way to do
+2:54:29 what I'm doing in fact I should just
+2:54:31 show it let's do that let's show this
+2:54:33 this is such a simple way such a simple
+2:54:37 trick I don't even know why I'm
+2:54:38 bothering with Photoshop let's go all
+2:54:41 right
+2:54:43 stop stop screen present other screen
+2:54:51 and
+2:54:51 then back to
+2:54:54 Chief and then watch this we'll switch
+2:54:56 this to
+2:54:58 standard the only problem
+2:55:03 is we did some edits we changed the we
+2:55:08 changed some things that's all right we
+2:55:09 can do the edits again all right so
+2:55:11 check this
+2:55:13 out
+2:55:14 so paint
+2:55:17 this just like that and then
+2:55:21 export and then this is Vector
+2:55:26 mask oh and I left Shadows on like a
+2:55:36 dummy let's turn Shadows
+2:55:39 off color on Shadows off okay all File
+2:55:46 Expert Vector mask
+2:55:52 bam there you go it's creating sub
+2:55:54 images and stitches them
+2:55:58 together all right so we created our
+2:56:00 Vector mask and I'm going to go back a
+2:56:01 couple
+2:56:04 levels just to undo
+2:56:14 that back to transparent Windows
+2:56:16 hopefully
+2:56:23 all right so there we go and now we're
+2:56:25 going to stop sharing
+2:56:29 again switch
+2:56:35 screens here we
+2:56:37 go and here's what we're going to do we
+2:56:39 are going to drag two images on
+2:56:42 here
+2:56:45 so I'm going to clear this mask disable
+2:56:48 create clipping
+2:56:51 see clear the mask disable create
+2:56:54 clipping mask or we'll just put the Mas
+2:56:56 somewhere
+2:57:03 else
+2:57:04 okay and we want Miller to come
+2:57:07 [Music]
+2:57:08 in we're going to drag this onto
+2:57:13 this and we'll leave it right in place
+2:57:16 for now we're not going to scale it like
+2:57:18 we did before and we're going to drag
+2:57:20 the clipping mask in place now we can
+2:57:23 use
+2:57:25 the magic one tool or rather we could do
+2:57:30 adjustments or no select select color
+2:57:33 range select a color range we're going
+2:57:35 to select Z
+2:57:38 pink and
+2:57:40 it's not quite selecting
+2:57:44 this but let's go ahead and select it
+2:57:47 anyways
+2:57:48 oops shift select it there we go so
+2:57:52 there's our clipping mask so now we can
+2:57:55 do make a mask here and invert
+2:58:00 it now we have a clipping mask
+2:58:06 through and I'm going to add my
+2:58:08 filter there's our
+2:58:13 filter our filter this the scale though
+2:58:17 and it didn't do this the scale uhoh
+2:58:21 that's not
+2:58:22 good filter did that
+2:58:27 um
+2:58:37 here okay I need to invert
+2:58:43 this now let's see if I can put a filter
+2:58:46 on it
+2:58:52 does that
+2:58:54 work
+2:58:56 weird it skews it and I don't want it to
+2:58:58 do
+2:59:00 that I think I can get around that let's
+2:59:03 try
+2:59:11 it the filter had a geometry skew in
+2:59:15 it so let's see
+2:59:24 let's try this again
+2:59:26 bad
+2:59:28 bad as
+2:59:30 bad I don't want
+2:59:33 that we can get back to this
+2:59:40 open Oh see it saved all my steps dang
+2:59:43 it that means it's screwing up my
+2:59:45 filters
+2:59:53 mess this all
+3:00:03 up mask
+3:00:05 yep and
+3:00:08 Miller
+3:00:13 yep select color range
+3:00:21 yep add
+3:00:24 that and
+3:00:26 mask and invert mask there we go now
+3:00:31 we're getting
+3:00:33 somewhere and scale this up a little
+3:00:39 bit and we want to
+3:00:48 draw my preset on
+3:00:57 it draw preset on it and we're gonna
+3:01:00 increase
+3:01:02 our
+3:01:06 exposure there we go that's what we
+3:01:11 wanted
+3:01:13 bam and now we need a second camera ra
+3:01:18 let's D this second camera ra and we're
+3:01:21 going to fix lens correction
+3:01:41 here about that I think that's pretty
+3:01:44 good yeah
+3:01:48 now we'll crop
+3:01:57 it let's make the crop
+3:02:08 169 yeah there we go
+3:02:18 um and we still have something wrong
+3:02:20 with our that's interesting when you do
+3:02:22 the the vertical skew thing it doesn't
+3:02:24 fix the it doesn't do the mask with it
+3:02:27 that's strange I don't like
+3:02:35 that so how do you make that work I
+3:02:38 guess we
+3:02:40 can I can bring that same filter onto
+3:02:42 the vector mask there we go that's how
+3:02:45 it do it
+3:02:53 bet I bet a lot of people don't know
+3:02:54 what the heck I'm talking about right
+3:02:56 now um all right so now I have that
+3:03:01 is what I
+3:03:04 want so I'm going delete everything
+3:03:07 here get to the vector
+3:03:10 mask select color range
+3:03:35 no I want this
+3:03:38 one H see this is still a
+3:03:41 skewed weird
+3:03:49 oh
+3:04:02 boy okay there it is I
+3:04:06 think no I messed up all the steps on
+3:04:13 this I goofed up all of the steps I'm
+3:04:16 not going to get the mass that I want
+3:04:18 here at
+3:04:23 all it's a little
+3:04:31 off yeah it's a little
+3:04:35 off all right
+3:04:43 well what do I do start over
+3:04:46 again this should be very
+3:04:50 simple see someone commented give me a
+3:04:52 second should be a really simple
+3:04:55 instruction here I want to grab both of
+3:04:56 these drag them onto the scene enter
+3:05:01 enter and
+3:05:03 then I want to skew both of these
+3:05:11 together you can't do so I'm going to do
+3:05:15 one at a time SOA raw to
+3:05:22 this put my preset on
+3:05:25 it
+3:05:27 increase
+3:05:31 exposure quite a bit okay and then I'm
+3:05:35 going to fix the
+3:05:40 geometry and the
+3:05:43 horizontal that's what I want right
+3:05:45 about there okay now that I have that I
+3:05:49 should be able to duplicate that to the
+3:05:51 vector
+3:05:52 mask so we should see the same exact
+3:05:56 perspective no it does not give us the
+3:05:58 same P oh because I didn't dup it I
+3:06:01 stole it is that dup it there we
+3:06:05 go
+3:06:08 now should be same perspective yes
+3:06:15 perfect color range pink
+3:06:19 add it
+3:06:20 on click on Miller mask invert mask bam
+3:06:25 there we go
+3:06:29 finally
+3:06:34 69 cut there we go and
+3:06:40 now should be able to get into my
+3:06:43 catalog of backgrounds
+3:06:51 and maybe we'll
+3:06:54 do see what this
+3:06:56 does oh that's a tiny one
+3:07:25 something like that and let's do an
+3:07:28 exposure adjustment
+3:07:34 layer it's kind of blowing it out
+3:07:50 kind of want that green to not look like
+3:07:53 that let's
+3:07:54 see see if we can ditch the exposure
+3:07:57 adjustment
+3:07:59 layer see if we do a camera Raw on this
+3:08:03 and pull that blue down all right so
+3:08:06 what do we have here we had a question
+3:08:07 from Rocky new to Chief so I spent hours
+3:08:09 figuring out settings it said I saw your
+3:08:11 kitchen tool and templates and bought
+3:08:12 them well worth it oh nice thank you I
+3:08:15 love hearing that that's awesome
+3:08:22 all right let's
+3:08:24 pull I kind of want to pull the
+3:08:27 blue
+3:08:28 down wonder what would be I know what I
+3:08:31 can do there here's a method for this
+3:08:35 let's go
+3:08:37 cancel I think we have a tool
+3:08:40 called yes the color replacement tool
+3:08:43 and so I'm going to pick a muted
+3:08:49 blue a muted blue and get me my pen back
+3:08:52 in
+3:08:53 hand does it work on a smart no it
+3:08:56 doesn't so we need to rasterize the
+3:09:06 layer rasterized layer color
+3:09:09 replacement there you go look you can
+3:09:11 paint the sky more of like a Almost
+3:09:15 White overcast if you wanted
+3:09:19 to isn't that
+3:09:22 crazy a blue
+3:09:27 tint kind of
+3:09:32 wild really just probably just want to
+3:09:34 take off take down some of the
+3:09:42 saturation
+3:09:44 saturation just below
+3:09:49 take a little bit
+3:09:56 down yeah I'm just wasting time at this
+3:10:11 point that's not bad
+3:10:15 actually the saturation this probably
+3:10:17 needs to be a little
+3:10:24 yellower yeah something like that
+3:10:27 cabinets look all crazy and skewed still
+3:10:31 squatted if we just copy all these and
+3:10:33 make a big old
+3:10:35 stamp and then we could go
+3:10:42 to Adaptive White Lens correction
+3:10:55 okay
+3:11:29 yeah that perspective is
+3:11:37 weird should just left it skewed from
+3:11:39 the
+3:11:41 get-go
+3:11:42 funny could remove Barrel Distortion you
+3:11:45 can make it a bubble
+3:11:48 this should be the maybe I'll make this
+3:11:49 the cover art of our next our next
+3:11:53 show this is going to be the cover art
+3:11:55 for the next
+3:11:58 show we design
+3:12:03 kitchens oh
+3:12:06 man time for me to go get some actual
+3:12:09 some Revenue work done
+3:12:19 too
+3:12:21 funny too
+3:12:25 funny I mean that's not a badl looking
+3:12:28 kitchen she's got some stuff to work
+3:12:30 through but
+3:12:34 yeah anyways I'm GNA call a quits here
+3:12:36 guys if you have any other
+3:12:39 questions in the next couple minutes let
+3:12:41 me know
+3:12:56 absolute
+3:12:58 Blas just couple
+3:13:01 goofballs trying to make a kitchen
+3:13:10 work show you another one I just did
+3:13:13 actually I've got a couple I've just
+3:13:14 been doing lately
+3:13:20 what do we
+3:13:22 have I like this
+3:13:31 one this one I don't even know I wonder
+3:13:34 curious what the time stamp is on
+3:13:37 this eight hours eight hours to design a
+3:13:40 kitchen that's not bad it's not terrible
+3:13:51 this is this one some of you have seen
+3:13:53 this
+3:13:56 rendering like this
+3:14:10 one boy one of the details that didn't
+3:14:12 show up in the in the rendering I wish
+3:14:14 it did was put little mirrors in the
+3:14:16 back of this I thought that was kind of
+3:14:22 cool I also made a new glass material to
+3:14:25 try to make these glass glasswar pop
+3:14:28 it's really difficult to make glass
+3:14:34 material um I like this
+3:14:38 stacked Crown I got going on in here oh
+3:14:41 no that's just a regular Crown M profile
+3:14:44 I need to save more stacked crown be a
+3:14:47 big
+3:14:55 deal that's cute this is just
+3:15:13 floating so I
+3:15:15 made this
+3:15:17 glass
+3:15:18 material
+3:15:20 but I think it needs some
+3:15:31 tweaks if it populates let's
+3:15:34 see five I think if you
+3:15:38 add a
+3:15:44 gray just add a random
+3:15:48 here wa that looks funny what does that
+3:15:51 look
+3:15:52 like it's going to be like a frosted
+3:15:54 weird crackle glass yeah
+3:16:15 funny what about just is a solid color
+3:16:18 though let's
+3:16:19 see solid color
+3:16:32 three yeah it's really tough to make
+3:16:35 classware look look the way you would
+3:16:38 want it to
+3:16:48 although that's not bad
+3:17:18 yeah that's not
+3:17:29 bad let's get a little editorial shot in
+3:17:32 here let see what we can do I like this
+3:17:34 new field of
+3:17:35 view field of view trick drag that to
+3:17:43 there let's do a little field field of
+3:17:49 view or depth of field rather is that it
+3:17:53 yeah depth of
+3:17:57 field actually maybe we'll
+3:18:00 do yeah we'll leave that on but we're
+3:18:02 going to drag it to the oven
+3:18:08 instead range I mean
+3:18:26 it's kind of
+3:18:33 slick right
+3:18:45 so try this real quick send and
+3:18:50 delete depth of field
+3:19:00 render and then we'll bring that into
+3:19:14 Photoshop most need three screens to set
+3:19:17 this all up
+3:19:46 Still Still ironing out the
+3:19:49 samples section
+3:19:52 six see what you guys are saying
+3:19:56 anything not yet all right
+3:20:00 so I want to clean up all
+3:20:11 this this trick about saving your
+3:20:14 filters is pretty cool
+3:20:38 okay
+3:20:39 so that render finished
+3:20:52 I guess I
+3:20:57 should I really
+3:21:01 should make this canvas the correct
+3:21:06 size 38 see this should be 3840 by what
+3:21:10 is it
+3:21:13 2160 right isn't that correct
+3:21:27 yeah maybe it's not 2160 I don't
+3:21:31 know rabbit glowing should go on
+3:21:35 top like
+3:21:37 so and
+3:21:40 then should be able to
+3:21:43 take oh I didn't convert this to Smart
+3:21:45 filter first
+3:21:47 smart object and now that's when you
+3:22:07 would look at
+3:22:09 that that's
+3:22:11 impressive just is it's fast it looks
+3:22:14 good
+3:22:16 take a chief rendering couple things to
+3:22:18 fix up no big
+3:22:24 deal yeah um I've been in Photoshop
+3:22:28 longer than I've been in anything I've
+3:22:30 been in Photoshop since
+3:22:33 um
+3:22:38 1994 yeah I've been working in Photoshop
+3:22:41 since
+3:22:43 1994 so it's like second nature to me
+3:22:48 yeah it does look sharp I like it I like
+3:22:50 the field of the depth depth of field
+3:22:54 thing focal blur is what we'd call that
+3:22:57 it looks pretty
+3:22:58 good and I mean you could do a couple
+3:23:00 things to Spruce this up if I really
+3:23:03 wanted to make this like a crazy
+3:23:05 editorial shot I might go do a couple
+3:23:08 things there's no lights in this shot
+3:23:10 so you don't need to mess with any like
+3:23:13 fake Starburst stuff but maybe you would
+3:23:16 throw
+3:23:17 in just throw in an exposure adjustment
+3:23:20 layer and drop this down and we can get
+3:23:23 maybe a little bit of depth and I'll
+3:23:25 doubleclick exposure and I'll make it
+3:23:27 only apply
+3:23:32 to um want it to only apply to lighter
+3:23:42 sections I want I'm looking at the wood
+3:23:44 grain of the floor and waiting for part
+3:23:46 of the the wood grain to show up there
+3:23:47 we
+3:23:52 go there we go now I'll invert the
+3:24:00 mask and now I can brush in some just
+3:24:04 some
+3:24:13 grunge a nice little feather brush
+3:24:19 there we
+3:24:22 go so you can brush in just random
+3:24:26 grunge if you want and then change the
+3:24:30 blend
+3:24:37 mode probably soft lighter
+3:24:44 overlay kind of like hard light but we
+3:24:47 go soft light and then you can change
+3:24:48 the
+3:24:50 opacity and it just gets a little
+3:24:53 bit little bit of something in movement
+3:24:59 there
+3:25:03 so so maybe I'll just use a couple
+3:25:06 swipes of the brush
+3:25:18 I also like to like paint in Shadows in
+3:25:22 places or dark in Shadows in
+3:25:28 places right in between this oven range
+3:25:32 might change the exposure there that
+3:25:35 kind of thing maybe there be a gap in
+3:25:36 this
+3:25:42 corner I don't know little details
+3:25:55 maybe make some variation in
+3:26:13 color and before you know it you got a
+3:26:15 crazy shot
+3:26:19 you could always drop
+3:26:21 in some Assets in screen mode like let's
+3:26:25 see light flares light
+3:26:31 rays let's do light rays for a second
+3:26:34 this is always fun to show people trip
+3:26:35 out on this how simple this can be so
+3:26:39 let's
+3:26:41 do which one do we want to do
+3:26:48 show any of these really how about this
+3:26:51 one show this
+3:26:56 one there we go put that in place change
+3:26:59 it to a screen
+3:27:02 blend and now we can move it as we
+3:27:08 please look at that isn't that
+3:27:12 crazy scop it
+3:27:18 kind of wild
+3:27:24 huh I probably have bouquet in
+3:27:28 here some funny ones
+3:27:31 anyways um let's
+3:27:36 do just to show what this even does why
+3:27:40 not yeah I'll throw this one in here
+3:27:48 big bouquet that's a big
+3:27:52 one screen
+3:27:55 mode yeah look how nutty that's looking
+3:27:58 let me get my face out of the
+3:28:07 way getting like atmosphere now kind of
+3:28:11 right you can even
+3:28:13 fake you can fake this focal blur to
+3:28:16 even be more
+3:28:31 blurry be fun to do like an
+3:28:37 inverted Optics like an inverted
+3:28:42 vignette yeah kind of like that
+3:28:51 that's wild it's crazy how quickly you
+3:28:54 can take a shot from Chief and make it
+3:28:56 look real in
+3:29:04 Photoshop
+3:29:05 Tyson I mean I do that you gotta pay me
+3:29:12 though yeah this is a cool shot I kind
+3:29:14 of like it I could have done better with
+3:29:16 the glassware see I would be stuck
+3:29:18 trying to fix that glasswar but
+3:29:22 um
+3:29:30 yeah yeah just a little bit of time
+3:29:32 spent charging an hour just to do a
+3:29:35 couple little tweaks and turn something
+3:29:36 into this it's pretty
+3:29:38 quick
+3:29:43 um all right I gotta get some food get
+3:29:46 some work done some real work done thank
+3:29:49 you guys for coming in that was a long
+3:29:51 stream longer than I planned on it so um
+3:29:54 let's see do we make any kitchen
+3:29:57 sales man no one bought the
+3:30:00 tools hopefully if you're watching this
+3:30:03 you see the value in them and you go buy
+3:30:04 them helps me
+3:30:06 out all right everybody cheers thanks
+3:30:10 for coming in here hanging
+3:30:14 out e

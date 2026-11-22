@@ -1,0 +1,4054 @@
+Title: Someone Bought My Full Chief Architect Library !
+URL: https://www.youtube.com/watch?v=36rngusoQhc
+Visibility: public
+
+0:00 live
+0:02 live
+0:05 good morning
+0:07 good good friday
+0:12 so
+0:14 i had someone
+0:16 kind of talking to me on the side
+0:19 wanted to buy my full library figured
+0:21 yeah why not put a big number at it
+0:24 didn't really think about it
+0:26 they said well send me over an invoice i
+0:28 want to think about it okay great
+0:30 sent over the invoice paid right away
+0:32 paid for it
+0:34 right away which means one thing i
+0:36 underpriced my library
+0:38 but
+0:40 uh the next part of it is
+0:42 i don't know if you're like me i get
+0:44 performance i get like an anxiety when
+0:47 i'm putting out a product that i know
+0:49 isn't
+0:50 100
+0:52 so
+0:53 i know my library is not 100
+0:56 and now i want to go dig through it and
+0:58 figure out
+0:59 what can i do in a short amount of time
+1:01 to just ensure that i'm not
+1:04 not just uh
+1:07 putting something out there that's
+1:09 that's not fantastic and my library's
+1:12 got over four thousand items in fact it
+1:15 might even have like six thousand items
+1:17 so
+1:18 um
+1:19 and it is organized but it's just
+1:23 three quarters of it
+1:25 is really well organized
+1:29 but not tagged and not using a new
+1:31 system that i'm using
+1:33 the last quarter of it which started in
+1:36 x13
+1:37 keep in mind i've been in the software
+1:38 for well over a decade
+1:41 um
+1:43 the last quarter of it's extremely well
+1:45 organized and i'm proud of that part and
+1:47 that's usually what you see on you know
+1:49 sale in my shop but the three quarters
+1:52 of it that's not up to snuff who knows
+1:55 so
+1:56 let me just expand this might be anxiety
+1:58 inducing i'm gonna expand
+2:01 my library and just take a scroll
+2:02 through
+2:04 yeah i mean it's it's that ton
+2:07 ton of stuff
+2:09 and
+2:10 everything that's in all caps
+2:12 is stuff i haven't
+2:15 stuff i haven't touched in a while
+2:17 which means it hasn't been
+2:20 organized
+2:23 fun
+2:23 [Laughter]
+2:26 and then who knows i'm sure there's
+2:27 plenty of like missing texture files for
+2:29 these
+2:32 yeah
+2:34 it's a huge list of stuff how do you
+2:35 even go through all this takes forever
+2:37 i've been doing it like one hour at a
+2:39 time
+2:40 one hour every week
+2:42 just organizing part of my library
+2:44 trying to get it prepped and ready
+2:47 but i think the nice kick in the butt is
+2:49 just putting it out there
+2:52 like i did and have someone purchase it
+2:55 anyways you guys are that are coming in
+2:58 um
+3:01 i don't know ask me questions i've got
+3:03 um
+3:05 so i use a system where
+3:07 we have the ability to add search
+3:09 attributes to any library item there's a
+3:11 couple library hacks in fact um i think
+3:14 they may have fixed one recently in fact
+3:16 we could probably try it out
+3:20 uh it used to be that you could place
+3:22 your user library
+3:24 inside of the root folder
+3:27 i'm going to say this very slowly you
+3:29 could place a user library inside of the
+3:32 root folder
+3:33 of either your core
+3:35 library folder
+3:37 your bonus library folder or your
+3:39 manufacturer library folder
+3:42 if you place the user library in one of
+3:44 those folders
+3:46 chief would see it as a second user
+3:49 library and let me tell you why that was
+3:51 cool and i did this for a while and i
+3:54 stopped doing it but i did do this for a
+3:56 while
+3:57 you could have a user library plugged
+4:00 into
+4:03 your laptop as your primary user library
+4:06 synced to the cloud
+4:09 and then you could have a desktop
+4:11 syncing that user library to
+4:15 a manufacturer
+4:17 library folder so that you had two
+4:19 separate user libraries that would not
+4:21 overwrite each other
+4:23 so that if you were on your desktop
+4:25 machine you could add stuff to the
+4:26 library and it would show up on your
+4:28 laptop machine and it wouldn't have any
+4:31 right
+4:32 or overwrite problems like it does if
+4:35 you try to sync the same library to two
+4:37 machines running at the same time
+4:40 so you could be running chief
+4:42 two separate licenses if you wanted to
+4:44 from two separate computers
+4:46 and
+4:48 and have it um
+4:51 have the cross over there and not have
+4:53 it be you know conflicting so if you
+4:55 hadn't and you could do that up to four
+4:57 user libraries so you can have four user
+4:59 libraries actively synced at the same
+5:02 time so if you had um
+5:04 four seats in an office you could have
+5:06 it so that everybody had their own user
+5:08 library or you could have it so that you
+5:11 had three i'm going to use this term
+5:13 sorry if this isn't pc anymore
+5:16 three slaves one master user library so
+5:18 that if you had seats in the office you
+5:21 had any one of the three slaves that you
+5:22 didn't mind screwing up so that people
+5:24 could drag and drop to the slave
+5:26 and then one person would be in charge
+5:28 of syncing that to the master so kind of
+5:30 a cool dynamic system you could come up
+5:32 with
+5:33 let me see what this says actually can't
+5:35 even read this too small on my screen i
+5:37 didn't realize your whole catalog was
+5:38 even on it's not that's
+5:41 that's uh that's the thing it's not on
+5:43 the shop someone just reached out to me
+5:46 and i
+5:47 and i set a price and they said yeah so
+5:50 here i am i'm
+5:52 stuck
+5:53 and
+5:54 and i just want to make sure that i'm
+5:56 i'm giving something that at least is
+5:58 fully sorted because i do have
+6:00 subcategories
+6:01 and my subcategories um i have folders
+6:04 called to sort
+6:06 which are just items that haven't been
+6:09 placed in the correct place yet so
+6:12 i know at the very least i want to do
+6:14 that before i hand this over
+6:17 let's collapse all
+6:18 so i have
+6:20 here's my main
+6:22 the reason i wanted to kind of stream
+6:24 this today was just
+6:26 give you guys an idea of how i sort my
+6:29 library and also hey maybe there's some
+6:31 improvements someone here would offer me
+6:33 so
+6:34 i have mastered template files i sell my
+6:36 templates but not only that
+6:39 this just makes it um so that i've i've
+6:41 got a team of people i work with
+6:43 um at times and
+6:46 and i have beta tester um
+6:48 i don't want to say him by name i don't
+6:49 want
+6:50 him to get hit or her to get hit with a
+6:53 bunch of questions or something on how
+6:54 it's working or whatever but
+6:56 um
+6:58 we share
+7:00 anything i produce we share because
+7:02 they're going to go test it
+7:04 so
+7:05 i have a master template files folder
+7:07 which is anything that i'm adding to my
+7:09 master template my main template the one
+7:12 i use every day
+7:14 it needs to stay organized and it needs
+7:16 to be updatable across multiple systems
+7:18 and other users so i have a master's
+7:20 template file anytime i update a
+7:22 material
+7:23 because i like to have my base template
+7:25 have the best materials that i have so
+7:28 that gets updated in the master template
+7:30 files and then you can see
+7:32 i don't know if you can see the screen
+7:33 or not i'm hoping you can
+7:35 uh
+7:36 you can see here it's dated
+7:38 so
+7:39 just it just helps keep it all organized
+7:42 and then
+7:43 i started up something called rabs rooms
+7:45 so i wanted to kind of start creating
+7:48 rooms that i've designed out and then
+7:50 save it as a suite and that's kind of a
+7:52 nice thing because what what the rooms
+7:54 end up
+7:55 turning into is what i call assemblies
+7:58 just pre-built assemblies to just drag
+8:00 and drop into say a living room so
+8:03 if you've got a room established already
+8:05 and it's arranged you can just drop it
+8:06 in as an architectural block or
+8:08 individual symbols
+8:10 and explode it and shift shifted around
+8:11 the room and and then all of a sudden
+8:12 you've got
+8:14 um you've got a fully furnished room
+8:15 very quickly and it looks nice because
+8:17 you've already done it before right so
+8:19 and then you can just change finishes
+8:21 so that's my rooms
+8:23 uh components cad moldings so
+8:26 these are parts basically kits so
+8:29 anytime i make a new symbol and i make
+8:32 i don't know anywhere from and this is
+8:34 what it said in my listing uh is that it
+8:36 was
+8:38 anywhere from zero to 20 items a week i
+8:40 make during my
+8:42 during my working week right and
+8:45 if you guys have ever seen me working
+8:46 before you know i stop i stop what i'm
+8:49 doing if i make something new and i make
+8:52 sure that it gets organized
+8:55 so that's what this is
+8:56 components cad moldings and here you go
+8:58 we've got you know a number of items
+9:00 that aren't named correctly
+9:02 and i'm just going to kind of go through
+9:04 them so but before we do i'll just
+9:06 preview the master folders here
+9:08 components cabs molding drafting
+9:10 specific are cad blocks there are
+9:14 plan notes to drop in
+9:16 there
+9:18 details you've got here i've got
+9:21 project information
+9:22 that are maybe schedules that are built
+9:25 because you can block a schedule and add
+9:26 it to your library if you shift select a
+9:28 schedule you can add it to your library
+9:31 one in particular i just made the other
+9:33 day is a great tool is i did a schedule
+9:35 for doors that the only column included
+9:38 in the doors is
+9:41 the type
+9:42 so if you want to edit
+9:44 all your hinge type doors
+9:47 on a multi unit or multi-level
+9:51 you know project
+9:53 you could just drop out schedule and
+9:54 unblock it and click on that row here
+9:57 let's actually see if we can do it let
+9:58 me see if i can find it real quick
+10:00 uh
+10:02 or type
+10:04 and here's the thing i need to make sure
+10:05 that these things are named in a way
+10:07 that you can actually find it because
+10:08 there's so many items in my library that
+10:10 you have to be able to search it so
+10:12 there we go door type so if i drop this
+10:14 in here
+10:15 right and then click on it unblock it
+10:19 and let's just drop a bunch of
+10:22 different doors in here and let's do
+10:26 interior wall and drop in some more
+10:28 doors
+10:31 you know it doesn't matter what size
+10:33 there because the only column that's
+10:34 included is type right so that if we've
+10:37 got multiple different types here
+10:40 sliders pockets
+10:41 there we go
+10:43 and it doesn't even
+10:45 there's nothing here except for the type
+10:47 so if i want to modify all hinge doors
+10:49 i'm going to click on
+10:51 that row
+10:53 and then in my edit toolbar i'm going to
+10:55 click open row object now i'm modifying
+10:58 all
+11:01 hinged doors at once
+11:03 it's a great great method for just you
+11:05 know if you need to do a global casement
+11:08 change and you don't
+11:09 necessarily have or not even a casement
+11:11 just
+11:12 i don't know any number of things
+11:13 hardware hardware changing you don't
+11:15 have a style palette built out you don't
+11:16 feel like doing it that way you could do
+11:18 it this way um so this is this is really
+11:21 helpful like if you um
+11:26 i mean and this can work across any of
+11:28 the simple classifications that report
+11:29 to schedules
+11:31 you can do this for anything so limits
+11:33 uh your schedule to just
+11:36 one column and you can organize by that
+11:39 and isolate it's a great way of finding
+11:41 problems too if you have got like a
+11:44 duplicate schedule item or
+11:46 who knows any number of things so
+11:48 getting off track here
+11:56 so
+11:57 drafting specific yeah got a bunch of
+11:59 cad blocks um fill styles that kind of
+12:03 thing notes that i've saved detail macro
+12:05 notes
+12:06 um sometimes i save
+12:08 instead of just exporting a macro
+12:10 sometimes i'll save a macro inside of a
+12:13 symbol you can actually do that
+12:15 if you guys didn't know that
+12:18 so kind of funny
+12:22 next up is
+12:24 ladder which isn't shouldn't be here and
+12:27 that needs to go into like models and
+12:29 this is what i created in the last live
+12:31 feed so
+12:33 there you go you drop that in there and
+12:34 it needs to be reclassified i've got
+12:37 materials
+12:38 you guys have seen my renderings i take
+12:40 great pride in my materials i got a ton
+12:42 of materials in here and i want to make
+12:44 sure that they're tagged in a way that
+12:45 can be looked up so i have a new method
+12:47 for searching materials and it's
+12:50 you have search attributes for pretty
+12:51 much anything
+12:53 so if i right click on
+12:54 a material item
+12:56 i want to make sure that i have a search
+12:58 attribute
+13:00 that makes sense with a system so
+13:04 i have the prefix rd for rabbit design
+13:07 so that you can type in rd material and
+13:10 come up with only my materials in your
+13:12 library so if you have
+13:14 all of the downloadable ssa content
+13:17 catalogs from chief architect
+13:19 how do you isolate and find only your
+13:21 stuff because
+13:23 you can of course do a library filter
+13:26 that isolates down to
+13:28 just your library and if you don't know
+13:30 how to do that i'll show you real quick
+13:31 [Music]
+13:33 we can add a new filter
+13:37 and here's my user library filter if you
+13:40 can see this maybe i'll put it on this
+13:42 other screen it's a little bit bigger
+13:44 font i think
+13:47 if you just click select all in all of
+13:49 your
+13:51 core
+13:52 bonus and manufacturer catalogs now you
+13:54 have a filter that isolates down to your
+13:57 library so
+13:59 i need to make sure that i'm isolating
+14:02 down to the library i also need to make
+14:03 sure that i've got a
+14:05 process document for this person that
+14:07 purchased my catalog so that they know
+14:09 that you can filter down to just my
+14:11 library because that makes a huge
+14:13 difference
+14:14 so there's step one as you can filter to
+14:16 the library but also i want you to be
+14:18 able to find stuff on the fly as you're
+14:20 you know busting through a job
+14:23 can we type in rd tile
+14:26 and come up with all of my tile
+14:28 materials and i mean for the most part
+14:31 yeah you type that in and you see 30
+14:34 tile material that's not bad
+14:36 so
+14:38 so the materials section is pretty well
+14:41 organized just need to touch that real
+14:43 quick the models section anytime i don't
+14:46 have stuff in folders that's because it
+14:47 hasn't been organized so got a little
+14:49 bit of organizing to do in the model
+14:51 section
+14:52 uh the projects section is
+14:55 um as i'm working through something i
+14:57 had someone you know request a full
+15:00 custom set of doors that had a very
+15:02 particular
+15:03 set of stretch planes and ability
+15:06 um
+15:07 and so i might just do a project folder
+15:10 for them and save that in projects until
+15:12 i need to unload it somewhere else so
+15:15 and then architectural is its own
+15:17 massive folder so this is all within the
+15:20 category of models
+15:23 architectural cabinets appliances
+15:25 cabinet tools
+15:27 um which has all my kitchen stuff in it
+15:30 uh decor furniture fixtures so that's a
+15:32 whole nother massive folder
+15:34 of
+15:36 you know just decor to kind of beautify
+15:39 spaces
+15:41 exteriors doesn't look like i have too
+15:43 much in there ladder obviously needs a
+15:45 better home still
+15:47 overview tools um that's just a quick
+15:50 quick quick way of
+15:52 if you guys have ever seen my
+15:55 my overview renderings let me see if i
+15:57 can pull one of these i'll pull one of
+15:59 these up real quick let's see
+16:02 where are my renderings why am i not
+16:04 seeing them oh in assets rings
+16:14 actually don't know where i put these
+16:16 that's not good work assets
+16:30 that's tough so
+16:32 i do a couple of renderings in fact if
+16:34 you're in the chief power users group
+16:36 you see that the the banner is one of
+16:39 those overview renderings where it's a
+16:41 plan view but it's it's like a graphical
+16:43 plan view and so my overview kit is for
+16:46 that it's for making a beautified like
+16:50 piece of marketing presentation on a
+16:52 plan view so if you're trying to sell
+16:54 stock plans that's this kit
+16:57 um people i just started importing in
+16:59 and optimizing people if you're in my
+17:02 rabbit design feed you've been getting
+17:03 some of these
+17:04 free symbols that are people that i've
+17:07 painted hair onto
+17:10 like 3d hair
+17:12 plants the plants gets getting big and
+17:15 that's that's a tough one plants are the
+17:17 most difficult thing to me to
+17:20 get a realistic looking plant for render
+17:23 and have it be low enough poly count
+17:25 that you're not just killing someone's
+17:27 system so
+17:29 take great pride in in my plants section
+17:31 and it's been building out i've been
+17:33 using a program called polycam and
+17:36 polycam lets you
+17:38 scan a plant and this is a challenging
+17:41 workflow just to let you guys know how
+17:42 much work goes into some of these things
+17:44 sometimes
+17:45 i scan
+17:47 and we'll just click on one so you can
+17:48 see it
+17:50 let's do
+17:50 [Music]
+17:54 let's do one of these guys one of my
+17:55 favorite ones my acacia
+17:58 let's throw this in the scene real quick
+18:00 and take a look at it
+18:09 so there's a program called polycam
+18:11 and
+18:12 it can use lidar but it actually does a
+18:15 better job at just true photogrammetry
+18:17 which means you don't need a fancy phone
+18:19 to use this software you just need
+18:21 something that's you know at least at
+18:23 the base compatible i'll click on
+18:26 our pbr rendering just so you guys can
+18:27 see
+18:28 you know how great this symbol looks
+18:34 so this was
+18:36 scanned with polycam
+18:39 and then
+18:41 and then i had to take it in
+18:44 oh what did i take it into
+18:46 zbrush
+18:47 zbrush
+18:49 and did a poly crunch on it basically
+18:51 any kind of modeling software that can
+18:54 optimize
+18:56 and then
+18:58 did not re-uv map it needed to keep the
+19:00 mapping the same so then you had to
+19:02 bring in
+19:04 the material back over the top of the
+19:06 newly optimized mesh
+19:08 and then i had to take it into substance
+19:10 painter and and paint anything that
+19:13 didn't work out in the scan
+19:15 and then you bring it in the chief
+19:17 architect just so you can touch up the
+19:19 roughness maps and
+19:22 the normal maps and finally you have a
+19:24 symbol that looks like a real plant in
+19:26 chief and it functions well
+19:29 but
+19:29 a ton of work to get it to this point so
+19:33 and if we open up the simple class let's
+19:34 see if i'm
+19:36 going to eat my own words here what do
+19:37 we have thirty one thousand so in in
+19:40 chief's kind of standard is you gotta be
+19:42 under 50 k so we're under 50 k for an
+19:45 individual symbol
+19:47 um which is really tough to do in a
+19:48 plant so
+19:50 uh if i just sold my plants catalog it'd
+19:53 be worth some money i don't know
+19:55 by the way when you guys are working
+19:58 you know if you keep yourself organized
+20:00 and you
+20:01 eventually build up some exposure for
+20:03 yourself and you get known for things
+20:04 like renderings then
+20:06 yeah you might have a a catalog of items
+20:09 that people want to purchase over time
+20:10 and i just say
+20:12 make sure to keep it organized because
+20:14 otherwise you're stuck doing what i'm
+20:15 going to be doing
+20:16 so scripts
+20:19 i'm actually gonna have to remove this
+20:21 somehow before i send this out because
+20:23 this is a script that was written for me
+20:25 in ruby
+20:27 and
+20:29 um
+20:30 and i can't give that away it's someone
+20:31 else's work product so
+20:34 and i have very few of those so i'm not
+20:36 too worried about
+20:37 um
+20:39 selling my full library because i have
+20:40 very few things that were written custom
+20:42 for me
+20:44 you guys that are just coming in right
+20:46 now i'm just kind of previewing
+20:48 previewing my library then i have a to
+20:50 sort which i already kind of distributed
+20:52 before i started the live stream
+20:54 so that's it so now i need to just kind
+20:56 of pump through this and see what needs
+20:59 to get pushed around
+21:01 and i'm going to do it kind of quietly
+21:04 i know i've been talking your ear off
+21:05 for the first 20 minutes here but yeah
+21:07 if you guys got questions about how this
+21:09 all works
+21:10 i would say a big part of this is going
+21:12 to be search attributes i want to make
+21:14 sure that these things are the best
+21:17 items are searchable
+21:19 that's the biggest part to me
+21:21 and you separate it just by hitting the
+21:23 enter key so
+21:26 this shutter door is going to be
+21:28 this is kind of like an exterior feature
+21:30 so rd exterior or rd feature maybe
+21:34 feature
+21:35 um i like putting rab in there that's
+21:37 easy to search if someone wants to just
+21:40 limit by that that can also work so rab
+21:43 and door works together
+21:45 just because i have rab in the search
+21:47 attributes and then in the name of the
+21:50 symbol is door
+21:52 if you search wrap door you'll find this
+21:54 store so
+21:56 shutter
+21:57 exactly
+21:59 e shutter might be valuable
+22:03 you
+22:04 you can't group
+22:06 apply search attributes which is such a
+22:09 pain
+22:10 unfortunately
+22:13 so let's see shutter door is going to go
+22:15 in architectural and this is kind of
+22:17 what i do this is the same way i clean
+22:18 my house
+22:19 i push everything out to the to another
+22:23 room clean that room i'm in
+22:25 and then go to the next room where
+22:27 everything's stuck inside of it and then
+22:28 i got to push everything out of that
+22:30 room until you got a huge pile in one
+22:32 last room and then you don't touch it
+22:34 for a month
+22:35 so i've got one room in my house i need
+22:38 to go
+22:38 organize um
+22:41 so yeah
+22:42 we're going to clear the master folder
+22:44 and then start clearing all the
+22:45 subfolders
+22:47 and you guys are probably going to see
+22:49 some interesting stuff in here i'm going
+22:51 to see some stuff i probably haven't
+22:52 touched in a while and go shoot that's
+22:55 cool
+23:01 this needs to go in cabinets
+23:03 actually i kind of want to start in
+23:04 components components is a good place to
+23:07 start
+23:08 four inch pipe that's a great one and i
+23:11 need to make a three inch one because i
+23:13 know i don't have it
+23:14 so
+23:16 um this is a nice workflow hit your trim
+23:18 tool drag out trim guess what it's gonna
+23:20 do it's gonna grab that four inch pipe
+23:24 look at that
+23:26 just as quick as that could it be any
+23:28 faster there you go
+23:30 four inch pipe
+23:32 drag it down this way hold your f key
+23:36 oh f key not oh that's right f key
+23:39 doesn't work on moldings that's the most
+23:41 bizarre thing to me let me see if i can
+23:43 actually force it edit behaviors fillet
+23:46 now do you get it nope still doesn't
+23:48 work and this is polyline based surprise
+23:52 chief hasn't done something with this
+23:54 so i guess here's the better workflow
+23:56 let's x this out let's hit the l
+23:59 line
+24:00 continuous draw mode there we go
+24:04 snap it
+24:05 f key now fillet
+24:07 convert this to molding
+24:10 and
+24:12 and then you have to add new so i don't
+24:14 like that let's try 3d molding now
+24:22 the fillet tool is on so i should just
+24:24 be able to drag this yep convert this to
+24:27 3d molding
+24:29 and now it applies a molding to it and
+24:32 then you can select from your library
+24:34 hover over it
+24:36 if you're in 3d
+24:39 so kind of what i like to do in 3d you
+24:41 can hover over it and replace straight
+24:42 from library
+24:47 so four inch pipe and i think you can
+24:50 open it straight from the library you
+24:52 can and then change molding height width
+24:54 so it's easy to then make a three inch
+24:56 pipe and an inch and a half pipe super
+24:58 quickly
+24:59 so we'll just duplicate this
+25:01 rename it three inch pipe
+25:07 open it
+25:09 three inch three inch
+25:12 and then
+25:14 put some search attributes should have
+25:16 done that first so
+25:18 be
+25:19 molding
+25:22 already plumbing
+25:24 abs or rab
+25:28 what is this
+25:29 drain we'll call it drain
+25:32 now group select all copy
+25:35 same thing
+25:37 this and then let's do it
+25:58 so it's free simple friday today you
+26:00 guys got any requests i haven't i
+26:02 haven't figured out what i was going to
+26:03 give away yet
+26:06 got anything you want me to make maybe
+26:08 just a suite of
+26:09 moldings would be cool
+26:12 okay so i want a subcategory that's
+26:14 plumbing oh i already have one
+26:25 oh we already had a
+26:27 oh we had a three line stack interesting
+26:30 okay
+26:32 what else do you need in plumbing i
+26:34 guess you need a three-quarter inch pipe
+26:36 i mean really you need
+26:38 every one of them but whatever
+26:42 duplicate
+26:52 yep yep yep oh that's good
+27:00 random moldings i don't even know what
+27:01 to call these
+27:04 because this isn't even a shoe mold this
+27:06 is kind of like a soft
+27:08 can you guys see that preview
+27:10 it's clear on your screen
+27:12 uh let's see
+27:18 don't know don't know what to call that
+27:21 radius
+27:27 would you even put this under nothing
+27:29 these are like
+27:32 i kind of want a modeling folder
+28:28 if there was some kind of way to batch
+28:29 name these things
+28:37 um hit me up offline i don't want to put
+28:39 a price on it i have a feeling i
+28:40 underpriced it but i'm willing to do
+28:42 that for a couple people uh
+28:45 probably maybe 10
+28:47 so if you'd like to know how much i sold
+28:49 it for just let me know offline here's
+28:51 what i did i sold it for a certain
+28:52 amount and then i also added in there
+28:55 um two hours of tech support and the
+28:57 contract states that it's
+29:00 free
+29:01 updates up until 2050 x 15 comes out
+29:06 because i had
+29:08 in the contract states anywhere between
+29:10 0 to
+29:11 20 symbols a week i'll add
+29:14 and
+29:15 up until x 15 beta
+29:17 is what it says
+29:19 and so because i update all the time and
+29:22 i organize all the time so
+29:25 what else did i have in there
+29:26 it was as is
+29:28 obviously you know it's pretty well
+29:30 organized but it's not completely
+29:31 organized so
+29:34 anyways you can uh
+29:36 just shoot me an email or buzz me on
+29:38 facebook messenger
+29:44 i have one person that has had this
+29:46 library for a while
+29:48 i know there's some missing material
+29:50 files or a couple things but
+29:53 it's not it's not there aren't many
+29:54 missing material files and and that's
+29:57 that only happens if i it's something i
+29:59 haven't used in a while so i actually
+30:01 need to go through and probably delete
+30:02 some things
+30:03 honestly this is kind of a cool one i
+30:06 haven't touched this in a while because
+30:07 i haven't used this system in a while
+30:09 but you guys ever heard of the quad lock
+30:11 system
+30:13 i'm so i modeled this to spec
+30:17 um
+30:21 oh these are
+30:22 oh and they needed to be an
+30:23 architectural block back when i modeled
+30:26 them maybe we could get away with not
+30:27 doing the architectural block anymore
+30:29 let's see what this looks like
+30:31 look at that
+30:32 so this is the quad lock system and
+30:37 how does this go together
+30:40 i think it's supposed to have a recess
+30:42 like this
+30:47 oh yeah these are component assemblies
+30:49 of the quad lock system so that if you
+30:51 grab all these together
+30:53 what do we have dimension wise 24 and 3
+30:55 8
+30:57 and then
+31:00 since i've done this 24
+31:02 3 8.
+31:05 and this actually shows correctly
+31:07 in
+31:09 in plan
+31:11 oh it needs to be a little bit like it's
+31:13 just 24 inches that's what it is
+31:16 because they'll lock together and then
+31:18 it creates channels for this is a
+31:20 foundation system
+31:29 yeah so if you drop this and stretch
+31:31 them and put them in your foundation
+31:33 system and then pull the cross section
+31:37 yeah
+31:39 cool right
+31:45 [Music]
+31:50 okay brick ledge is an easy one what
+31:52 would you call this this is just
+31:53 architectural components pretty much
+31:57 or just have a folder called brick
+32:00 ledges
+32:10 i have a i have another molding that
+32:12 should be in here that's a repeatable
+32:14 molding let's see
+32:16 um
+32:20 oh what do we call it bro
+32:22 oh there it was right there
+32:25 brick cap molding okay and brick
+32:28 course so let's show this one first
+32:32 brick cap molding oh it's in here wall
+32:35 related moldings put it in the brick
+32:39 yeah this one's cool
+32:41 what do we do here um
+32:44 this is as a molding so if you draw out
+32:48 let's just do
+32:51 let's go into walls
+32:56 brick wall existing
+32:57 [Music]
+32:59 do i have a brick wall
+33:01 built out
+33:03 no i don't
+33:11 okay
+33:13 build out a brick wall
+33:19 which isn't a brick wall it's totally
+33:20 wrong texture and it's funny
+33:22 i mean it is but not quite
+33:28 let's go party brick
+33:35 missing texture what's this about buddy
+33:38 see need to fix that
+33:41 okay
+33:42 this is my favorite brick texture by far
+33:44 in fact i saw this in someone's
+33:46 rendering the other day i don't know how
+33:47 they got it because i didn't think i
+33:48 gave this away
+33:50 it's my favorite um let's call this a
+33:53 railing with a cap
+33:56 railing solid rail style in real style
+34:00 panel
+34:01 and there's our cap and now if we do
+34:06 our brick
+34:08 cap molding and do a replace from there
+34:11 it is
+34:13 cute
+34:14 isn't that cute
+34:16 um and you can take your material
+34:19 adjuster
+34:20 and do a blend with
+34:23 color
+34:25 blend with color and then we can take
+34:27 our picker and pick
+34:30 that color
+34:33 and kind of match it out right
+34:45 yeah it's getting there
+34:56 kind of useful
+35:09 yeah that's quit right not cool
+35:12 yeah i got so many cool things in this
+35:14 library
+35:15 there's too many though you know you
+35:17 forget about them as soon as you don't
+35:18 need them
+35:19 in fact i've got i'm just going to leave
+35:22 this
+35:22 pin for a second thanks for even saying
+35:25 that it's nice to have it on the screen
+35:26 um
+35:29 i have so like the other day i was
+35:31 working on a project and then
+35:33 i was
+35:34 messing around um in my library for a
+35:37 minute and i ran into like a bunch of
+35:40 stuff that i built before that i forgot
+35:42 i even had that would have worked on my
+35:44 project so
+35:46 it's tough to even remember you have
+35:47 some of the stuff in here sometimes
+35:50 um
+35:53 there needs to be a miscellaneous folder
+35:55 that's for sure
+36:16 fixture creation miscellaneous yep
+36:21 yeah i save molding parts
+36:23 it's fun coming in here every once in a
+36:24 while um
+36:28 [Music]
+36:32 pat on the end of all this so you know
+36:34 and i mean this is the kind of thought
+36:36 that should go into this kind of stuff
+36:38 so there's a difference between browsing
+36:42 your library and and then searching your
+36:45 library big huge difference in workflow
+36:48 right
+36:49 so
+36:51 really everything in this folder should
+36:53 have
+36:54 a suffix that's just cat so that if
+36:57 you're searching
+36:58 stare
+37:00 and that and that piece comes up i want
+37:02 to know that this is cad and that's not
+37:04 what i'm looking for or that i am
+37:07 looking for that right
+37:09 so all of these should have
+37:11 cad
+37:13 on the back end of it
+37:15 or molding and since technically they're
+37:18 moldings
+37:23 i like doing stuff like that that's the
+37:25 only time i like using all caps which is
+37:27 why
+37:28 so many things are outdated in my system
+37:31 that are all caps
+37:33 um
+37:34 i used to do all caps to differentiate
+37:37 between core manufacturer libraries just
+37:40 so i can know what my own stuff is look
+37:42 at this it's my 3d logo not fun
+37:46 one of my videos if you guys haven't
+37:48 seen that youtube video where you can
+37:52 you can take a logo
+37:54 and we're talking graphic image right a
+37:57 picture of a logo
+37:58 take a picture of a logo prep it a
+38:01 little bit in photoshop
+38:03 drag it into convertio.io
+38:06 website
+38:07 convert it to a dwg
+38:10 import it into chief and then convert
+38:12 the dwg to a solid you can get a logo in
+38:15 five minutes
+38:16 that's in chief
+38:19 which is crazy
+38:21 um
+38:22 because that stuff used to take hours
+38:26 and so not only does it work on logos
+38:28 but it works on type you know
+38:31 type font any number of different things
+38:34 in fact you can you can build quite a
+38:35 few things out
+38:37 um
+38:38 i think that is just cad right now so i
+38:41 need to
+38:42 unblock explode and then turn it into
+38:46 yeah then you would turn in individual
+38:48 components into solids
+38:51 or maybe it is a solid
+38:54 yeah it's just the polyline you have to
+38:56 convert all this to solids which you
+38:58 could do
+39:19 so then i have component parts and this
+39:22 is actually in the wrong
+39:24 place this should be in
+39:25 door parts
+39:29 security doors so this is a half of a
+39:31 security door and it gets applied as a
+39:34 shutter to a door that's a closed door
+39:36 so that you can have
+39:38 a security door
+39:40 attached to a door
+39:42 that was a really clever trick um and i
+39:45 gave that away for free i think
+39:47 did you guys pick that one up that was a
+39:49 good one
+39:50 um
+39:51 because that security door could be
+39:53 applied to any kind of front door style
+39:55 or you just change the front door style
+39:57 and it's a drag and drop change of the
+39:59 front door style and the security door
+40:01 stays
+40:03 so that was a pretty cool one uh let's
+40:05 see this should go in
+40:07 architectural
+40:10 architectural is in models
+40:12 and then it should go in doors and door
+40:15 parts
+40:17 door components there we go
+40:20 bam
+40:21 and then because i did that i should be
+40:25 adding search
+40:42 sure
+41:02 what is this look at this one astro turf
+41:05 top you see this one this one's funny
+41:10 oh i just saw something very
+41:11 inappropriate in my library that needs
+41:14 to change
+41:15 and i don't know how like maybe i need
+41:16 to kill the feed for me renaming it it's
+41:19 it's terrible
+41:22 um this is a a top to a stool
+41:26 ugh that i hated it was the most
+41:28 uncomfortable stool
+41:32 um we're gonna ignore this real quick
+41:36 you didn't see that that's no long feed
+41:40 astro turf stool yeah this stool was
+41:42 just awful look at this thing
+41:49 it was comfortable to sit on for an hour
+41:51 so if you just had to have a client
+41:53 meeting but man if you're trying to work
+41:54 from the stool it was terrible
+41:59 chain link and that's cool
+42:02 i got all kinds of cool stuff in here
+42:04 chair parts one share parts two
+42:14 difference between chair parts one and
+42:15 share parts two they look the same
+42:18 are the same let's get rid of it
+42:26 oh and see
+42:28 cabinet components need to go in the
+42:30 cabinet section
+42:46 uh components there we go
+42:56 i i needed i needed it
+43:01 i needed it oh man it's terrible
+43:05 we were designing out an office
+43:08 i had to have it
+43:11 um it was cool looking actually i mean
+43:14 you didn't see it with the base
+43:16 somewhere in this catalog is the base
+43:19 air pin leg this is this one's money um
+43:23 this needs to go i need to put search
+43:26 attributes on this this should also be
+43:28 in legs cabinet legs
+43:30 um
+43:31 foots right
+43:52 hairpin leg and this should go
+43:55 not in parts
+43:57 i mean i guess you could call it in
+43:59 parts but it's more like it's
+44:02 if i'm coming to the cabinet section
+44:04 i think there should be a foot
+44:06 cabinet section
+44:14 and call it cabinet foot here's the next
+44:16 part like
+44:18 coming up with systems for this is tough
+44:20 man um it's all about knowing the
+44:22 difference between
+44:25 your
+44:28 browsing your library versus searching
+44:30 so if i'm searching feet i
+44:33 i do want it to come up with the folder
+44:35 called
+44:36 cabinet foot
+44:38 so
+44:41 and where'd that go hairpin leg there we
+44:43 go
+44:49 and this needs to go
+44:51 where
+44:53 oh why is this even in
+44:55 yeah this needs to go in models
+44:59 oh
+45:00 chief's library not being able to like
+45:02 scroll down very easily
+45:05 come on come on scroll
+45:10 i don't know what's going on here come
+45:11 on down
+45:15 it's like i've got to place it in
+45:17 something else here there we go
+45:21 uh cabinet appliance tools appliances
+45:24 cap styles there we go component
+45:26 cabinets doors cabinets yeah cabinet
+45:29 feet here we go
+45:40 astroturf stool
+45:45 you know what's funny
+45:47 i saw someone use this the other day i
+45:48 had given this away
+45:51 so there someone likes it
+45:55 this is useful just the desk chair
+45:58 bottom
+46:00 basically deleting any kind of normal
+46:03 chairs lower half and then throwing this
+46:05 on there and turn it into a desk chair
+46:07 that works
+46:11 edison bulb this is a big one i just
+46:14 used this the other day
+46:15 to create a symbol very easily combine
+46:18 this with something else and you've got
+46:19 you know symbol
+46:21 and it automatically glows i just did
+46:22 this for that um the free exterior
+46:26 exterior symbol i did the other day
+46:30 um i guess that stays in parts
+46:35 i'm gonna put wraps in here
+46:40 level rack what is this
+46:43 oh
+46:44 check this out
+46:46 that's cool this is like a plans rack
+46:48 but it's for
+46:51 for just levels
+46:53 like for a shop
+46:54 or or it could be a plans rack i don't
+46:56 think it's big the slots are big enough
+46:58 for
+46:59 plans rack
+47:03 what does that look like
+47:05 funny and i made it and i made it osb
+47:11 that's got to be over 10 years old at
+47:13 least
+47:15 [Music]
+47:31 lg curved monitor and monitor base okay
+47:34 pitch utility rack huh
+47:41 you find half of this stuff
+47:45 god
+47:50 oh i have a full picture frame system
+47:53 that's very cool
+47:58 oh and i have a full oh you guys are
+48:00 going to go nuts for this you want to
+48:01 see something cool
+48:04 if you're just listening in watch for
+48:06 one second we're gonna do a satellite
+48:09 room here
+48:11 i'm gonna draw out a satellite room
+48:14 see if this let's see if this works as
+48:16 well as
+48:17 it used to
+48:19 so here's our satellite room
+48:23 and i want to make sure that this room
+48:25 has
+48:28 instructure tab no roof over this room
+48:33 okay
+48:34 and let me type in rd pool
+48:40 see how well this works
+48:43 oh and nothing comes up wait a minute
+48:45 let's see
+48:48 i don't have it tagged yet
+48:50 all right
+48:53 did that do what i wanted to do no it
+48:55 didn't
+48:58 where is this here
+49:06 should be a pool based room
+49:08 this used to work flawlessly
+49:12 oh it needs a ceiling and then i have to
+49:15 manually delete
+49:17 the roofs
+49:29 no you're not gonna work
+49:35 you used to apply all the materials
+49:37 needed to make this into a pool
+49:43 give me a second we're going to catch up
+49:45 to this i think i have this saved
+49:47 carams catalog
+49:51 pool builder
+49:53 let's drag this into ca
+49:59 perhaps full tool
+50:02 this is a good reason for backing stuff
+50:04 up because if you lose function on
+50:06 something
+50:06 [Music]
+50:08 there we go look at that
+50:14 and then you throw it to pbr look how
+50:16 good that looks
+50:18 there's a pool
+50:21 and you just got to change the
+50:24 spec on it
+50:31 yeah that's sweet
+50:34 look you even get all the little
+50:35 fireflies in it as you rotate around
+50:44 yeah
+50:45 i know they need to work
+50:47 they didn't work
+50:49 for you though ryan i know that you
+50:50 tried them
+50:55 yeah this was this was a cool one
+50:57 um
+50:59 where does this go architectural models
+51:03 architectural pool tools
+51:07 so this
+51:08 this is
+51:09 outdated
+51:11 and this is not
+51:20 okay
+51:23 [Music]
+51:27 yeah that one's great that one's a
+51:29 really quick and easy way of doing a
+51:31 pretty good looking pool because it it
+51:33 has
+51:35 look at that it has
+51:38 multiple moldings here the band molding
+51:40 your cove molding
+51:43 and then i mean your bottom cove molding
+51:45 and then your what's this called
+51:48 i don't know what this is called
+51:51 our top
+51:52 our cap molding
+51:57 overall it worked yeah i know i know i
+52:00 think you had to just modify a few few
+52:02 things sometimes
+52:12 yeah cat molding
+52:14 what's up brian happy friday
+52:17 i'm sorting this this dang library out
+52:20 some more
+52:22 oh yeah oh
+52:24 boy so back in component cad t-molding
+52:27 should be
+52:29 just what a general category
+52:32 actually the team molding is really my
+52:34 roof moldings roof components
+52:42 upside down pyramid
+52:45 what'd you use that for upset on pyramid
+52:48 i mean all that is a mitered
+52:50 just call it a miter molding
+52:58 coping
+52:59 good name for yeah coping
+53:04 coping coping geez
+53:06 dude you pumped out three
+53:08 from
+53:09 from fresh
+53:10 you're too fast
+53:29 this is outdated and delete
+53:33 okay so what do we have now we have
+53:35 appliance
+53:36 refrigerator parts
+53:40 oh this is cool this is my full cafe
+53:44 cafe line kit
+53:56 gasket molding yeah
+53:58 there's so many cool stuff in here
+54:08 man
+54:09 making money huh
+54:15 i'm over here goofing around
+54:17 with
+54:18 my library and you're making money
+54:23 ryan's fantastic
+54:24 ryan doesn't want to connect with
+54:26 anybody though
+54:26 [Laughter]
+54:30 don't bother him he's he's retired down
+54:33 in panama so he says
+54:37 yeah
+54:39 yeah
+54:41 and you know what i'm sure this person's
+54:42 gonna be really happy with it
+54:44 so
+54:46 that's good i feel good about that
+54:50 i feel good about
+54:52 that this person is going to be happy to
+54:54 have this
+54:56 but i don't have any crown moldings
+55:01 i think i use
+55:03 just mainly oh there's crown
+55:06 i guess ceiling is different from crown
+55:08 except for
+55:09 you guys ever model exactly what's in
+55:11 like one of the catalogs like this is
+55:14 home depot catalog molding
+55:28 yeah i hope so
+55:30 okay so
+55:33 can i i'm just gonna throw this out
+55:35 there
+55:36 so ryan i'm putting you on the spot my
+55:38 bad
+55:40 ryan beta tests a lot of my stuff
+55:43 um
+55:44 and you have this library
+55:46 what's your what's your favorite stuff
+55:48 in here
+55:52 if you can think of anything on the fly
+55:54 no i i couldn't you asked me favorite of
+55:56 anything i'm just like
+56:00 oh there's too much there's too much
+56:04 uh what is this this is another cove
+56:10 dad
+56:13 yeah
+56:14 yeah
+56:16 definitely
+56:17 because that's like 90 of our work
+56:21 yeah
+56:23 yeah and the tub and shower one
+56:27 yeah i'm always happy with the with the
+56:30 every time
+56:32 because it doesn't happen often every
+56:33 time i place the operable
+56:36 bath sliding door
+56:38 i get happy
+56:44 yeah
+56:45 um
+56:46 it's funny
+56:48 my chief materials is maybe
+56:52 one-tenth of the number of materials i
+56:54 actually have in my other softwares for
+56:56 rendering
+57:02 yeah i know i know
+57:05 it's funny that
+57:07 everybody in the world hasn't bought
+57:08 those kitchen tools i'm pretty sure
+57:10 everybody that's watching this feed has
+57:13 because those things are
+57:14 awesome
+57:16 when they when they came out with style
+57:18 palettes
+57:19 i didn't really know what to think about
+57:20 it until you started diving in on it
+57:23 and then i know they introduced them you
+57:26 know to be able to generate
+57:28 different regional styles quickly
+57:32 but once you realize you could just do a
+57:34 copy face configuration oh man
+57:37 what
+57:39 a mind-blowing thing
+57:42 yeah because those tools
+57:45 i still wish they let me make it easier
+57:48 to just transfer a toolbar to someone
+57:51 i can either give you all my toolbars
+57:53 and you and all yours go away or
+57:56 or you gotta go build it by hand and i
+57:59 guess i didn't realize how long it took
+58:01 until i actually had to do it as a
+58:03 tutorial and it actually takes a long
+58:05 time
+58:09 and it's kind of tedious frustrating
+58:11 work
+58:14 ca 30 cad
+58:19 uh this is my favorite new casing my
+58:22 e38 casings is a custom build casing
+58:25 and and the baseboard casing for this is
+58:27 inverted anything that's tagged e38
+58:30 believe it or not is my mom's house
+58:33 and her house looks fantastic i love it
+58:35 so
+58:42 see what we even have e38 what do we got
+58:47 yeah there's a full room palette for the
+58:51 kitchen
+58:52 there's the baseboard
+58:54 and that and then you get a backdrop
+58:56 that's actually her front yard
+59:00 and this is one of my favorite backdrops
+59:02 honestly for rendering
+59:04 because it's a street look at that
+59:06 isn't that fun
+59:09 it's built for
+59:11 yeah when you get the
+59:12 it's built for a ray trace so when you
+59:14 turn the ray trace on it actually looks
+59:16 pretty realistic
+59:17 looking out the windows
+59:19 into that
+59:20 where's our windows
+59:23 let's see if we can
+59:29 oops we got a wall in the way
+59:52 let that process
+59:55 yeah that looks pretty good
+1:00:00 yeah that's a big one too i mean and the
+1:00:05 the kitchen
+1:00:07 tools and the architectural tools and
+1:00:09 the window you know
+1:00:11 tools and the schedule deleter and
+1:00:13 blocker and all that stuff in fact i've
+1:00:14 got new icons for that ryan i gotta give
+1:00:16 it to you
+1:00:17 that stuff's all really cool
+1:00:20 and i could do a lot more with them like
+1:00:22 that's only tip of the iceberg right
+1:00:27 downspouts and gutters this is this is
+1:00:29 definitely one of my favorite
+1:00:31 set of tools
+1:00:33 downspouts
+1:00:35 um my gutters aren't in here that's
+1:00:37 where
+1:00:38 3d
+1:00:46 where are these these are in models
+1:00:50 i mean i guess they could stay in models
+1:00:51 but
+1:00:54 in that case downspouts should be in
+1:00:56 here too but maybe not let's just drop
+1:00:58 these into
+1:01:01 where did i have this this is
+1:01:03 downspouts and gutters
+1:01:28 next
+1:01:29 who are you and what are you next at hmm
+1:01:33 [Music]
+1:01:39 i wish facebook gave us didn't didn't
+1:01:41 make this this a hiccup
+1:01:44 that weird thing where they where you
+1:01:45 have to authorize
+1:01:47 stream stream yard
+1:01:49 um let's see what are search attributes
+1:01:51 on this nothing dang it so grab
+1:01:54 down
+1:01:55 rd
+1:01:56 down spout
+1:01:59 yes would be good copy
+1:02:04 search attributes paste
+1:02:15 mr mr musta oh
+1:02:20 um just because you said that i feel
+1:02:22 like putting you on the main screen
+1:02:25 how do i find your profile
+1:02:27 the most epic handle handlebar mustache
+1:02:30 ever in all the lands
+1:02:33 someone pull his profile picture up
+1:02:36 it's the best it's the best mustache
+1:02:38 i've ever seen
+1:02:41 dude can you tell us what you used to
+1:02:43 like what's a you gotta use a product i
+1:02:46 might i'm getting older my uh
+1:02:48 my beard's getting a little scraggly i
+1:02:50 need to start
+1:02:52 like treating it you got to tell me what
+1:02:54 product you use
+1:02:55 and also
+1:02:57 if you're not you should be selling a
+1:02:59 product you should have your own custom
+1:03:01 branded product you want to talk about
+1:03:03 making money
+1:03:05 if that mustache isn't making you money
+1:03:07 somehow you're doing something wrong
+1:03:22 petrol files okay
+1:03:29 code molding for cabinets should be just
+1:03:31 should be in cabinets let's see
+1:03:40 component cad moldings
+1:03:42 down to
+1:03:46 cabinet moldings edge moldings that's
+1:03:49 where this should be
+1:03:56 oh it worked that time yeah that thing's
+1:03:58 scrolling a million miles an hour
+1:04:00 uh
+1:04:02 component cat edge multis there we go
+1:04:11 it's a lot of work keeping this stuff
+1:04:12 organized
+1:04:18 i use captain fawcett products i'm i'm
+1:04:21 going to have that
+1:04:23 open as a tab right now captain
+1:04:26 that's it
+1:04:28 beard oil
+1:04:30 that's what i need
+1:04:33 in case you guys needed to know if you
+1:04:35 need some
+1:04:37 some beard product
+1:04:38 that's it take it from the best mustache
+1:04:40 in the land
+1:04:42 go captain faucet
+1:04:44 i'm serious
+1:04:45 i'm going to call them
+1:04:48 put your
+1:04:49 name in a hat
+1:04:50 [Music]
+1:04:57 medallion oh you guys ever get uh
+1:04:59 victorian pride projects man i haven't
+1:05:01 had a victorian a long time
+1:05:05 being able to put these medallions in
+1:05:06 there
+1:05:08 why is this medallion
+1:05:11 oh i'm using this as a like a cabinet
+1:05:13 component or something funny
+1:05:15 oh i know what i use this for i use this
+1:05:17 to build part of my
+1:05:20 lock or new range
+1:05:23 this is still
+1:05:24 the most
+1:05:26 complex symbol i've ever created
+1:05:29 using only chief architect
+1:05:35 i showed this the last live stream
+1:05:37 or i showed this to someone someone was
+1:05:39 saying you can't do complex things and
+1:05:41 you can
+1:05:42 maybe not the best software for it but
+1:05:45 yeah look how pretty that is
+1:05:47 chief only
+1:05:49 basically molding profiles a bunch of
+1:05:51 them converted to symbols
+1:05:53 um
+1:05:54 how did you even describe it when
+1:05:57 there's a trick where you're creating a
+1:05:59 symbol
+1:06:01 yeah your let's see you model symbol
+1:06:04 convert you model something convert it
+1:06:05 to a symbol
+1:06:07 and then
+1:06:08 you model it with the intention of
+1:06:10 stretching it
+1:06:11 so then you model it stretch it and then
+1:06:13 reconvert it to a symbol and then adjust
+1:06:16 the stretch planes that was what i did a
+1:06:18 lot of on this one
+1:06:21 and all in all
+1:06:23 what did i get to on the
+1:06:26 eighteen thousand polys like that's
+1:06:28 pretty low
+1:06:29 that's a good looking symbol for that
+1:06:38 hardware and brackets this is still my
+1:06:40 favorite street sign
+1:06:43 i actually built this i welded this
+1:06:44 thing up on site we got a picture of
+1:06:46 this somewhere
+1:06:49 um although it was a better looking sign
+1:06:52 but yeah
+1:06:54 had adjustable legs you drop a pin in it
+1:06:56 so if you were on a hillside it was
+1:06:58 two-way drilled cross-drilled
+1:07:01 so you could adjust the side of one side
+1:07:04 of the legs and then stake it
+1:07:07 that's a really cool job sign i don't
+1:07:09 need job signs anymore but should make
+1:07:11 this and sell it
+1:07:14 it was really good looking have a
+1:07:16 picture of it somewhere
+1:07:20 and get sidetracked on these let's see
+1:07:24 what do i have i have assets
+1:07:27 work assets
+1:07:31 photography
+1:07:33 oh geez
+1:07:35 glad that part of the screen is gone
+1:07:38 inappropriate something on the screen
+1:07:42 let's see here
+1:07:44 job site photos
+1:07:49 what do we have
+1:07:52 oh can't find it too bad
+1:07:56 it's frustrating anytime you go look for
+1:07:57 something quickly and you can't find it
+1:07:59 right away
+1:08:03 right
+1:08:04 that's when you're gonna go fix
+1:08:06 something
+1:08:18 chain links cool i think chain link is
+1:08:20 yeah
+1:08:23 chain link's just a molding again
+1:08:29 see does this work yeah it does work
+1:08:31 look at this
+1:08:32 oh this is going to create a lot of
+1:08:34 polys we're going to freeze the program
+1:08:38 oops
+1:08:41 symbol based extrusion molding using the
+1:08:44 simultaneous gendering yeah yeah we know
+1:08:48 what happened to it though it like
+1:08:49 disappeared
+1:08:54 that's funny
+1:09:05 [Music]
+1:09:08 that's that's funny that you mention
+1:09:10 that sir i know who you are
+1:09:15 you you guessed why i'm doing this i'm
+1:09:17 sure
+1:09:19 now there's my chain link look at that
+1:09:20 thing crazy thing
+1:09:24 what other stuff we got in here
+1:09:28 oh we got all kinds of simpson 3d
+1:09:30 hardware oh this is my this isn't even
+1:09:34 this isn't simpson i designed this a
+1:09:36 beam flange
+1:09:38 and i actually worked really well
+1:09:40 beam saddle i guess
+1:09:42 saddle and flange
+1:09:44 this actually worked really well for a
+1:09:45 decorative i'm going to delete this
+1:09:48 chain link because it's going to slow me
+1:09:49 down
+1:09:51 um let me see how this works if it's
+1:09:52 still
+1:09:54 it's been a while since i built this
+1:09:56 thing oh it's a
+1:09:57 it's an architectural block i wonder why
+1:10:02 it should just be a symbol
+1:10:04 oh and you can't rotate it so let's make
+1:10:06 it a symbol
+1:10:10 and
+1:10:11 you should be fixture exterior
+1:10:15 hardware should be hardware
+1:10:25 okay
+1:10:26 oh and we need to rotate it
+1:10:29 open symbol
+1:10:31 and
+1:10:33 that looks like it's painted concrete
+1:10:34 let's do ding ding ding
+1:10:41 and then oh we need to regenerate
+1:10:47 regenerate the cab lock
+1:10:50 now it should place on the exterior and
+1:10:52 then if we have a beam let's go take a
+1:10:55 look at this
+1:11:02 all right
+1:11:04 um someone earlier asked me that i just
+1:11:06 wanted to tell you that
+1:11:08 shoot me an email message me or
+1:11:10 drop some comment in like
+1:11:13 youtube or facebook and i will i'll i'll
+1:11:16 message you privately i don't want to
+1:11:18 put it publicly i think i underpriced my
+1:11:20 library
+1:11:21 um but i'm sticking to my word and
+1:11:23 getting
+1:11:25 to prep this and give it away and then
+1:11:27 and i'll tell you all the details but if
+1:11:28 you
+1:11:29 rewind back a little bit i go over
+1:11:32 some stuff in detail about it
+1:11:35 anyway so here's the beam flange
+1:11:39 and
+1:11:41 thought being here
+1:11:42 did this actually work well i know that
+1:11:44 this i know this client and this was
+1:11:47 done
+1:11:48 i don't know maybe eight years ago
+1:11:53 let's just paint this real quick there's
+1:11:55 our beam right
+1:12:01 let's concentrically resize
+1:12:07 see if i let go of seeing now i can hold
+1:12:10 the control
+1:12:11 i'm doing this all with one hand on my
+1:12:13 mouse
+1:12:14 there we go
+1:12:16 so the thought was what was the thought
+1:12:18 here
+1:12:21 i think part of this is an inner flange
+1:12:25 i think there's an inner flange and
+1:12:27 outer flange so one is to mount and then
+1:12:30 the other one was
+1:12:32 to allow for
+1:12:35 the rain
+1:12:36 so the top of the beam and then this
+1:12:39 would go inside of
+1:12:42 you'd wrap your paper
+1:12:45 right wrap your paper around this so
+1:12:47 this would actually be inside of stucco
+1:12:50 so we'd have to show our interior wall
+1:12:52 layers
+1:12:55 or just snap to
+1:12:58 main layer like that
+1:13:02 right yeah and let the water drip out of
+1:13:05 the bottom
+1:13:06 and protect the edge
+1:13:08 yeah
+1:13:10 this was a good system and it worked
+1:13:11 well for a decorative beam and it looked
+1:13:13 pretty nice
+1:13:22 simpson has a number of these um 3d
+1:13:26 models but they don't have everything
+1:13:28 so i started kind of bringing these in
+1:13:30 wraps planned
+1:14:02 nice having all this stuff when you're
+1:14:04 building out like a
+1:14:05 a deck you want to render
+1:14:17 upper triple track interesting okay
+1:14:26 triple
+1:14:27 bypass
+1:14:29 track
+1:14:44 so i have a whole new picture frame kit
+1:14:47 and i wonder where the heck it
+1:14:49 ended up
+1:14:52 right here we go
+1:14:54 showing browser
+1:14:56 yeah i started making this as a system
+1:15:01 what is this
+1:15:02 matting only
+1:15:04 okay
+1:15:07 and you place it and it disappears
+1:15:10 interesting
+1:15:11 that doesn't that's not helpful
+1:15:13 padding only there we go
+1:15:16 padding only photo door oh this is meant
+1:15:18 to be
+1:15:21 what are we doing here what was i doing
+1:15:22 here
+1:15:25 okay so this is a
+1:15:27 this is a cabinet
+1:15:31 should be able to resize this and build
+1:15:36 custom frames
+1:15:42 yeah that's kind of cool
+1:15:50 so then why would
+1:15:53 let's see
+1:15:56 and then you could drag and drop
+1:15:58 stuff to replace one part of it i don't
+1:16:00 know i don't know what happened with
+1:16:02 this system i didn't finish it though
+1:16:15 decor and fixture assets
+1:16:18 man there's so much stuff in here
+1:16:24 oh this was in my fireplace kit
+1:16:27 fireplace with logs
+1:16:33 not not burning and burning
+1:16:35 fireplace stack
+1:16:37 yeah that looks good
+1:16:46 okay chair room overs
+1:16:50 stacked moldings
+1:16:52 i don't have as many stock moldings as
+1:16:53 i'd like
+1:16:56 quad box system
+1:16:58 various handles so
+1:17:00 these are cool if you just drop in
+1:17:07 if you just drop in a circle
+1:17:11 convert it to a molding
+1:17:13 3d molding because then you can do your
+1:17:16 hover over and replace
+1:17:18 right so there there we go got a 3d
+1:17:21 molding
+1:17:22 and drop a
+1:17:24 something like this on it
+1:17:27 what happens to it what is happening
+1:17:29 where are these things going they're
+1:17:30 just flying off into infinity what the
+1:17:33 heck happened to that
+1:17:38 where are you located my friend
+1:17:43 uh molding
+1:17:45 dot dot dot
+1:17:51 move to absolute location let's just go
+1:17:54 zero zero
+1:17:59 right so now it's in the center of the
+1:18:01 room and it should be in the center room
+1:18:03 but what happened to it is it in the
+1:18:05 floor
+1:18:13 that
+1:18:17 there it is
+1:18:23 so what's spec on this height let's go
+1:18:25 oh it's turned sideways that's half the
+1:18:28 problem
+1:18:31 what happens when we pump this up all
+1:18:32 weird yeah no that's all kinds are wrong
+1:18:36 oh and it's
+1:18:38 inverted
+1:18:40 extrude inside polyline
+1:18:42 yeah
+1:18:43 you can create something funny there
+1:19:02 why won't that let me resize doesn't
+1:19:03 matter
+1:19:06 get sidetracked
+1:19:08 uh handrails
+1:19:11 i think i have the best cable rail
+1:19:12 system did i give that away did you guys
+1:19:14 look in my site for that
+1:19:17 if that's
+1:19:18 that should be there
+1:19:20 here's the captain fawcett products
+1:19:22 let's go
+1:19:33 shop nutshop we want symbols and content
+1:19:41 and this would be probably architectural
+1:19:42 maybe
+1:19:45 no how about railings railings yeah
+1:19:47 railings
+1:19:49 oh i don't have this here interesting
+1:19:51 maybe i'll give that away for free
+1:19:52 symbol fry i've given this away before
+1:19:54 though
+1:19:55 i have a great cable rail
+1:19:59 um
+1:20:01 let's do
+1:20:02 let's rd rail come up with cable rail it
+1:20:05 does
+1:20:06 yeah this is great i love this
+1:20:18 the heck is this roof coming from it's
+1:20:19 funny
+1:20:42 it's funny that like the scene is
+1:20:44 overexposed until you increase the
+1:20:46 backdrop intensity
+1:20:49 and then
+1:20:50 you get something good out of it
+1:20:56 yeah
+1:20:58 kind of cool
+1:21:00 [Music]
+1:21:05 that whatever this wood material is
+1:21:08 really nice job
+1:21:12 okay so maybe we'll give that away i
+1:21:14 know i've given it away before but we'll
+1:21:16 bring it into the rabbit design feed
+1:21:18 today that'll be free symbol friday
+1:21:20 cable rail
+1:21:26 i think we've mainly gone through this
+1:21:28 pool components posts
+1:21:30 posts are cool generate posts really
+1:21:32 quickly
+1:21:35 this big molding post let's see let's
+1:21:37 see if we can have better success this
+1:21:38 time around so let me drop
+1:21:40 in
+1:21:42 oops
+1:21:44 circle let's make this radius
+1:21:49 something tiny
+1:21:51 quarter inch
+1:21:53 invert it let's just convert it to a
+1:21:55 molding polyline
+1:21:57 yep
+1:21:58 and then
+1:22:00 what do we get it's just called molding
+1:22:02 that's problem number one
+1:22:06 that's not good
+1:22:08 you can find everything under the sun oh
+1:22:09 look it's right there ah funny
+1:22:12 height 28 inches
+1:22:16 so very quickly what do you get
+1:22:18 this little this little guy and then you
+1:22:20 can convert it to a symbol any kind of
+1:22:22 symbol clever
+1:22:26 man i love this software it's fun
+1:22:28 software
+1:22:31 so
+1:22:32 we only need one of these oh no they're
+1:22:34 two different styles look at that
+1:22:36 hover over
+1:22:38 look at that one that's funny this one
+1:22:40 needs to be larger than quarter inch or
+1:22:44 needs to change it to extrude inside
+1:22:47 there we go
+1:22:49 yeah cool
+1:22:55 i wish you could rename from the preview
+1:22:57 window
+1:23:10 to
+1:23:11 turn post to
+1:23:12 gosh cad that's a better name and
+1:23:14 convention turn post one cat
+1:23:21 i do this for so long before i need to
+1:23:23 get some revenue work done
+1:23:28 rafter tails cool roof components yep
+1:23:32 oh man
+1:23:35 yeah i underpriced this
+1:23:37 wait wait till i get into the
+1:23:41 the parapet tools i've gotten here
+1:23:44 parapet tools and
+1:23:47 let's see
+1:23:49 you get parapit tools and you get
+1:23:52 my
+1:23:53 spanish roof tools
+1:23:55 those are cool
+1:23:57 all right so let's draw this out
+1:24:04 now we got a room again let's go parapet
+1:24:12 boom paint this
+1:24:14 one time look at that
+1:24:16 when that goal
+1:24:22 worth its weight in gold
+1:24:25 telling you telling you
+1:24:32 the spanish roof tools are are a little
+1:24:34 more user
+1:24:35 user input
+1:24:38 have you not seen that yet have you
+1:24:40 haven't seen that one
+1:24:43 oh yeah funny
+1:24:45 yeah
+1:24:46 i like that one that one's cool
+1:24:49 um and i just re-saved this with a
+1:24:52 different cap molding because you have
+1:24:53 to fill in the corners on just this one
+1:24:55 because it's the spanish cap but if you
+1:24:57 just put a regular cap molding on it
+1:24:59 works well
+1:25:00 and the really cool thing about this is
+1:25:02 it has a full check this out we'll do a
+1:25:04 cross section
+1:25:11 see if this works the way i think it
+1:25:12 does and maybe we'll do it back clipped
+1:25:16 let's see edit back clip
+1:25:23 it has all the
+1:25:25 if we kick the
+1:25:26 my line weights off
+1:25:28 it has all the flashing and everything
+1:25:34 yeah in fact it even has
+1:25:36 the floated bed flashing here so you can
+1:25:38 make a cad detail out of it
+1:25:40 yeah super cool
+1:25:52 that's a good one
+1:25:56 i should do a couple different versions
+1:25:57 of that that's that's cool
+1:26:01 okay what else we got
+1:26:05 so here's what i wanted to do i wanted
+1:26:07 to make sure all these
+1:26:10 parts
+1:26:15 are labeled cad
+1:26:19 i'm going to burn a second doing this
+1:26:21 you guys can
+1:26:24 just watch snl
+1:26:25 talk amongst yourselves coffee coffee
+1:26:27 talk
+1:26:35 dana carvey and mike myers
+1:26:52 and
+1:26:54 i need some group group editing features
+1:26:57 in the library big time
+1:27:26 you guys do cofer ceilings
+1:27:30 don't get too many projects on that
+1:27:31 either
+1:27:34 i'd love to have more of these moldings
+1:27:35 i think it's so cool to do a big
+1:27:41 how do you spell it
+1:27:50 you know what i'm talking about
+1:27:54 what's the face you did
+1:27:56 was this face
+1:28:11 okay
+1:28:18 so for those of you that don't know this
+1:28:20 trick
+1:28:23 the 3d cad molding
+1:28:26 this is like a sliver cad
+1:28:28 basically let's just throw this in a
+1:28:31 let's place this place oh that's right i
+1:28:34 need to place it place
+1:28:36 molding profile
+1:28:38 if we get in really really tight in here
+1:28:40 you can see that it's a completely
+1:28:44 completely closed
+1:28:47 switch to my macro
+1:28:49 dimensions
+1:28:51 even at macro dimensions this is too
+1:28:53 small completely closed polyline and
+1:28:56 which makes it a 3d molding and it has a
+1:28:59 little cool little edge flashing here
+1:29:03 boy does this make a difference
+1:29:05 let's actually just do a new file i'm
+1:29:07 going to close all these
+1:29:16 so
+1:29:17 let's see
+1:29:24 okay
+1:29:26 i know it you know what it's on the
+1:29:28 chief talk forms that's where it is
+1:29:31 but whatever we'll re-upload it like
+1:29:33 it's a new thing
+1:29:35 um so this is the 3d molding see it's
+1:29:38 got a little drip edge
+1:29:40 hey ryan if you're still in here this is
+1:29:42 a new one i did i think i did let's see
+1:29:46 roof grip
+1:29:51 nope drip
+1:29:53 should be roof trip though grabs drip
+1:29:55 edge
+1:29:57 look at that look at that prettiness
+1:30:00 right
+1:30:03 it's actually a little bit more angled
+1:30:04 than i want it to be but
+1:30:06 still
+1:30:08 that's clever
+1:30:10 [Music]
+1:30:14 where is that that should be that should
+1:30:16 be
+1:30:20 other
+1:30:21 roof components
+1:30:23 roof components yeah i guess that works
+1:30:26 that's right
+1:30:34 sorry for the all caps funny hey look
+1:30:36 there he is handlebars
+1:30:39 uh downspouts
+1:30:41 yeah downspouts are in here
+1:30:44 i have a video um in my video shorts i
+1:30:47 think
+1:30:48 where is that let's see if we go to
+1:30:50 youtubey
+1:30:55 we go
+1:30:56 my channel
+1:30:58 and we go playlists
+1:31:00 and we go shorts
+1:31:03 oops let's not play all
+1:31:05 and then
+1:31:06 scroll down
+1:31:10 downspouts
+1:31:11 there you go
+1:31:14 quick and easy downspout so
+1:31:17 we're gonna do share
+1:31:20 copy
+1:31:21 and post in comments
+1:31:40 as a meeting today
+1:31:44 no
+1:31:45 okay
+1:31:47 all right
+1:32:02 anybody got any great naming convention
+1:32:05 ideas for things
+1:32:07 oh let's see i got legacy fireplace
+1:32:09 stuff oh this one's cool
+1:32:11 stepped mantle
+1:32:13 that's very high end look at that fancy
+1:32:17 fancy
+1:32:21 step mantle the lexington mantle should
+1:32:24 be
+1:32:25 mapped
+1:32:26 appropriately this one's cool it's got a
+1:32:28 little bit of
+1:32:29 little fun little details in it
+1:32:31 [Music]
+1:32:32 resizable
+1:32:34 resizable down to like i think two
+1:32:36 inches before it starts crossing itself
+1:32:38 with its splits
+1:32:43 this is my old mantle before i did the
+1:32:45 fireplace kit
+1:32:48 i actually built this in real life at
+1:32:50 one of my
+1:32:52 one of the places i lived in
+1:32:59 full assembly that's got to be a cad
+1:33:02 block huh
+1:33:03 maybe not
+1:33:05 yeah it's kind of cool
+1:33:09 oh i still use this one
+1:33:11 this one i use all the time
+1:33:13 this is just this cuts a wall this cuts
+1:33:17 it won't cut an exterior wall but it
+1:33:20 will cut an interior wall let's try this
+1:33:28 so we could preview this library for
+1:33:31 for all day and we're going to come up
+1:33:34 with at least a few like a couple wows
+1:33:37 i'm sure
+1:33:40 all right so this
+1:33:42 this goes with
+1:33:44 oh yeah that cut it
+1:33:46 and then you place the logs behind it
+1:33:48 and you paint the room
+1:33:51 what is it fireplace
+1:33:53 shoot
+1:33:56 shoot
+1:33:59 shoot
+1:34:00 here we go
+1:34:03 there you go now you've got a fireplace
+1:34:05 like a modern and then if i type in
+1:34:08 what rd stone
+1:34:14 look at that
+1:34:16 bam
+1:34:31 and then and then you got to put a fire
+1:34:32 behind this
+1:34:42 yeah a couple couple wows in this for
+1:34:45 sure
+1:34:47 um fireplace hearth
+1:34:49 this is just built out of a cabinet
+1:34:51 symbol i think
+1:34:54 yeah so it's stretchable and repaintable
+1:34:56 and
+1:34:59 two or three part repaintable
+1:35:01 yeah
+1:35:03 four part sides too
+1:35:05 that's cool
+1:35:10 oh there's our fire yeah
+1:35:26 funny
+1:35:32 okay
+1:35:42 yeah we're just in the cad section we
+1:35:45 haven't even touched
+1:35:47 cone base cone base
+1:35:51 yes
+1:35:54 i to
+1:35:57 round
+1:35:58 cade
+1:36:12 and normally
+1:36:48 yeah we did all these all right we can
+1:36:50 get out of the cad section let's get
+1:36:52 into something more fun
+1:36:53 we have now now i know my drafting
+1:36:56 specific stuff is dated because most of
+1:36:57 this stuff is built into plan now
+1:37:01 so what do we have here we've got
+1:37:04 yeah all this all cap stuff needs to go
+1:37:06 away
+1:37:07 calgary notes title 24 notes
+1:37:13 electrical notes
+1:37:18 and now and a lot of these are cad
+1:37:20 blocks and now we can just save
+1:37:24 we can just save text oh this would take
+1:37:27 me forever to go through all this
+1:37:29 pain
+1:37:31 this is where you just get
+1:37:33 a bottle of wine out and crack into it
+1:37:36 10 o'clock on a friday night that's what
+1:37:37 i'm doing tonight
+1:37:39 [Laughter]
+1:37:42 uh
+1:37:42 so many sheet notes
+1:37:45 saved over time
+1:37:46 and i mean is it even worth it or do you
+1:37:48 just go
+1:37:49 you know take your most recent plan and
+1:37:52 take time and re-update and bring it
+1:37:54 back into it
+1:37:55 these are just
+1:37:57 cad trees outdated i have a full cad
+1:37:59 tree system now if you guys didn't see
+1:38:01 that that's in the shop for like 10
+1:38:02 bucks
+1:38:04 you guys seen my cad trees those things
+1:38:06 are cool
+1:38:08 um let's see if we can place one
+1:38:10 let's create a train
+1:38:12 perimeter
+1:38:15 let's see if i can find this cad tree
+1:38:19 yeah these are cool i love these
+1:38:23 uh
+1:38:27 yeah so that's what it looks like in 3d
+1:38:29 which isn't really helpful but if you're
+1:38:31 not doing 3ds
+1:38:33 doesn't matter
+1:38:36 right
+1:38:37 but what's really cool about this
+1:38:40 is the 2ds
+1:38:43 so there we go we've placed three
+1:38:47 and then
+1:38:49 look what they look like in 2d
+1:38:53 plan view
+1:38:55 awesome
+1:38:56 and then
+1:38:58 and then look what they look like in
+1:39:01 elevation
+1:39:03 awesome except for this one's not
+1:39:06 placing at the right height huh
+1:39:08 oh it looks like i need to edit that
+1:39:11 and fix it
+1:39:15 yeah that's cool
+1:39:18 [Music]
+1:39:20 this one's wild look at that one oh this
+1:39:23 one's definitely custom
+1:39:25 can you place it in i don't know if you
+1:39:28 can place it in elevation i think you
+1:39:29 have to place it in plan
+1:39:33 yeah
+1:39:34 dude that one's crazy looking
+1:39:40 yeah cool
+1:39:42 that's super cool
+1:39:46 get a pretty wild graphical
+1:39:48 thing going
+1:39:51 graphic style
+1:39:56 well need this on our site no it's
+1:39:58 impervious percent impervious yeah
+1:40:01 that's good side note stuff
+1:40:06 um something's wrong with this scale
+1:40:10 why is it oh it's because it's picking
+1:40:11 up you got to unblock it to get the
+1:40:14 yeah
+1:40:17 there's no other way to do this though
+1:40:18 really
+1:40:22 now let's add it
+1:40:24 oh shoot i hate when i do this
+1:40:27 it will always be block six in your cad
+1:40:29 block management unless you rename it
+1:40:32 here before you save it
+1:40:35 so rename it here
+1:40:39 um scale
+1:40:41 sure
+1:40:43 and then save it to the library
+1:40:47 and then we gotta put it in the right
+1:40:49 spot
+1:40:51 i'm talking kind of quietly hope you
+1:40:53 guys can hear me
+1:40:58 here we go
+1:41:07 plan tools obsolete delete
+1:41:20 i want any all caps anymore
+1:41:27 or distinguish itself from regular
+1:41:29 libraries
+1:41:56 um check back earlier in this video i
+1:41:58 discuss about pricing i'm not going to
+1:42:00 put public pricing in this this stuff's
+1:42:02 imprinted on the internet forever and i
+1:42:04 think i underpriced it so
+1:42:07 you can shoot me a message
+1:42:10 private message messenger message or
+1:42:11 shoot me an email contact me through
+1:42:13 rabbitdesign.net anything like that
+1:42:15 um i'm going to give prelim pricing to
+1:42:18 like i don't know maybe 10 people
+1:42:21 and then before i finally completely
+1:42:24 overhaul and clean up everything then i
+1:42:27 will be changing pricing but
+1:42:30 i give free weekly upload updates to
+1:42:32 this because i add anywhere from 0 to 20
+1:42:36 symbols a week
+1:42:38 into this kit
+1:42:40 and get that update including
+1:42:43 and i also build in a couple hours of
+1:42:47 support
+1:42:48 um
+1:42:49 because i'm assuming people have
+1:42:51 questions about how to use some of the
+1:42:52 stuff in here
+1:42:54 i don't even think a couple hours is
+1:42:55 enough there's so much going on in here
+1:43:00 um because some of these things take a
+1:43:01 little bit of know-how to be able to
+1:43:02 utilize
+1:43:04 there's so many
+1:43:06 so many things in here
+1:43:08 i bet you it would take you
+1:43:10 months to even catch it all
+1:43:23 cad lock symbol blocks what do we have
+1:43:25 oh so cad blocks and symbol blocks so
+1:43:27 these are all my custom
+1:43:29 custom cad blocks for air handlers
+1:43:31 condensers that kind of stuff and they
+1:43:33 look funny just because we've had some
+1:43:35 font changes
+1:43:36 so you'd have to take it out
+1:43:39 unblock it re-block it
+1:43:42 unlock
+1:43:44 re-block
+1:43:45 and now that's an air handler
+1:44:01 like how long would it take you just to
+1:44:02 make that that's 20 minutes right there
+1:44:08 just one one little cad block all right
+1:44:10 where did i go
+1:44:11 shoot is it here
+1:44:13 yeah
+1:44:19 vacancy sensor
+1:44:29 i don't like the chiefs cad blocks so i
+1:44:32 already make my own
+1:44:43 what's this
+1:45:01 you
+1:45:18 who was this
+1:45:20 curious who this was
+1:45:21 [Music]
+1:45:37 [Music]
+1:45:38 all right what do we got let's see
+1:45:40 honeycat moldings
+1:45:42 oh man let's just let's collapse this
+1:45:48 we were in drafting specific
+1:45:52 symbols
+1:45:57 i needed to make a window cad block
+1:45:59 symbol because if you make a custom
+1:46:00 window profile
+1:46:02 um it doesn't offset that's that's super
+1:46:05 weird that you have to mess with and
+1:46:07 then you need a new cad block for it to
+1:46:09 look
+1:46:10 appropriate that's kind of a funny one
+1:46:14 i can't wait till the overhaul windows
+1:46:15 there's so many things to touch here oh
+1:46:17 man look at this
+1:46:19 this little sweet little library
+1:46:23 the reason this is cool cooler than the
+1:46:25 simpson library
+1:46:27 um
+1:46:29 is because i took the time
+1:46:31 which took a lot of time
+1:46:34 and filled in
+1:46:36 i filled in all these symbols with solid
+1:46:40 so that when you place this
+1:46:43 it's got a solid fill
+1:46:45 and that's how i kind of achieved my
+1:46:47 graphical style
+1:46:49 on my details
+1:46:52 so like when you see my details they all
+1:46:54 have this particular style to them
+1:46:59 i wanted to have kind of an identified
+1:47:02 style for all my cat details
+1:47:06 that was unique
+1:47:08 so when you see my
+1:47:10 let's just turn off the drawing sheet
+1:47:15 when you see my details they look like
+1:47:17 this you know they look like simpsons
+1:47:20 drawing them except for simpson doesn't
+1:47:23 provide you thank you
+1:47:25 um simpson doesn't provide you
+1:47:29 with the same
+1:47:30 the
+1:47:30 same cad blocks
+1:47:33 in the chief library as they do on their
+1:47:35 own site because simpsons look like this
+1:47:38 so i've all i've drew all these
+1:47:42 ah there's so many in here too some of
+1:47:44 these are scaled for layout though which
+1:47:46 is too bad they need to be rescaled
+1:47:49 and they actually aren't scaled
+1:47:52 and that's on purpose i don't want them
+1:47:53 to be
+1:47:54 and then there's little details like
+1:47:55 this that need to be updated this is
+1:47:57 just supposed to be a blank fill style
+1:47:59 so there's a few of these that need to
+1:48:01 be updated
+1:48:02 and there's a few of these that are just
+1:48:04 outdated
+1:48:05 here's
+1:48:07 a slab
+1:48:08 you know born into existing foundation
+1:48:11 boy this section is very cool
+1:48:14 i feel like just the details alone are
+1:48:16 worth a pretty penny
+1:48:23 yeah cool stuff
+1:48:27 here's old details
+1:48:30 so this is what my details used to look
+1:48:33 like
+1:48:33 and then we started doing the fill
+1:48:35 styles
+1:48:45 oh got some ada standards
+1:48:48 [Laughter]
+1:48:53 i guess that's kind of the point
+1:48:54 [Laughter]
+1:48:59 yeah this is one of my favorites came up
+1:49:01 with all the ada standard stuff i mean
+1:49:04 not um shower and bath standards
+1:49:07 this makes life easy just drop these on
+1:49:09 elevations
+1:49:12 you know get your builder some
+1:49:13 information easy
+1:49:17 what is a huge detail block look at this
+1:49:20 thing this looks massive this looks
+1:49:22 massive and cumbersome
+1:49:29 info blocks
+1:49:32 what's in layouts
+1:49:35 uh these are outdated now we don't need
+1:49:36 these anymore
+1:49:38 automatic labels sidebar labels they
+1:49:40 were cool though so i'm going to leave
+1:49:41 them just because they're macros but
+1:49:45 used to be
+1:49:46 we'd have to place this and link it
+1:49:51 on a layout and it would automatically
+1:49:54 parse the automatic label
+1:49:56 and unblock it yeah kind of a pain
+1:50:00 these are all old title block
+1:50:03 stuff old ansi
+1:50:05 d layouts
+1:50:07 i think these are all dated i've got new
+1:50:10 ones now
+1:50:12 that one's kind of cool i might keep
+1:50:13 that one
+1:50:17 yeah here's the new ones
+1:50:27 boy it's it's funny when you think about
+1:50:29 it
+1:50:30 if we've been working in this industry
+1:50:32 10 15 20 years how much you build up
+1:50:35 over time
+1:50:36 every job you should be saving saving
+1:50:39 stuff
+1:50:40 right saving stuff to your library
+1:50:42 look at this double arrow that's kind of
+1:50:43 cool
+1:50:45 big wonky area it's like a area area
+1:50:48 arrow
+1:50:52 oh it's tiny
+1:50:53 this is for layout again i used to
+1:50:55 annotate and layout for a little bit a
+1:50:56 long time ago not anymore
+1:51:00 oh i can't resize it that's funny
+1:51:03 because it's a cad block first let's see
+1:51:06 explodey
+1:51:08 and then what shift select
+1:51:11 is there
+1:51:12 a size handle on this
+1:51:14 there
+1:51:15 nope
+1:51:17 what am i doing wrong here there we go
+1:51:23 yeah it's kind of like an area
+1:51:26 arrow because you'd put a text right
+1:51:28 here
+1:51:29 example
+1:51:34 right something like that
+1:51:36 it's a shift select
+1:51:43 yeah
+1:51:45 cool
+1:51:46 [Music]
+1:51:58 if you name things what you want them
+1:52:00 would you think they should be named in
+1:52:02 the moment
+1:52:03 it's so easy to do an arched arrow now
+1:52:05 we don't even need this
+1:52:06 um
+1:52:09 but then you got to go back and make
+1:52:11 sure that it conforms to some kind of a
+1:52:12 system quality control
+1:52:14 that's why i don't like selling this
+1:52:17 yet because it's not quality control is
+1:52:19 not there you know there's all caps
+1:52:21 there's no caps there's stuff that's
+1:52:24 not named
+1:52:26 correctly in the title in the actual
+1:52:28 block
+1:52:32 look at specifications page holy cow i
+1:52:35 used to use this just in layout
+1:52:41 oh this is cool i haven't had this in a
+1:52:44 while abbreviations kit
+1:52:48 let's add that too
+1:52:51 this is a library
+1:52:55 and can you name you can't name rich
+1:52:58 text it's always just going to show up
+1:52:59 as rich text and who wants rich text i
+1:53:02 don't
+1:53:03 i want
+1:53:05 regular text that's probably why i don't
+1:53:06 use this anymore
+1:53:10 copy paste
+1:53:13 and now
+1:53:15 is that regular text
+1:53:20 no it's rich text so
+1:53:22 gotta do a text box first
+1:53:26 now paste
+1:53:28 there we go
+1:53:30 now i gotta make sure the tab stops are
+1:53:32 in correctly
+1:53:41 so much work goes into this stuff so
+1:53:44 much work
+1:53:47 i mean look we've been streaming for
+1:53:49 what two hours
+1:53:52 there's 300 bucks
+1:53:55 we've touched
+1:53:56 like
+1:53:58 1 20th of the library
+1:54:10 bam
+1:54:11 great cad block right there a great text
+1:54:13 block
+1:54:16 i yeah you can't name a text block it's
+1:54:18 too bad
+1:54:20 before you send it to library but
+1:54:22 abbreviations
+1:54:25 if you want to incorporate this back
+1:54:26 into my pro
+1:54:28 let's
+1:54:32 can someone confirm that do i have
+1:54:34 abbreviations in the pro template i
+1:54:36 don't think i do
+1:54:42 um and i want this in plan notes sheet
+1:54:46 notes
+1:55:00 layout site info i feel like this is
+1:55:03 outdated
+1:55:11 i don't want this anymore that's boring
+1:55:14 site info no that's a second site info
+1:55:18 no we don't use that anymore because
+1:55:20 it's all automated now
+1:55:25 spec page we'll call it legacy
+1:55:38 old old
+1:55:40 wall legend don't do that anymore we use
+1:55:42 a wall schedule now that's cool
+1:56:09 approvals graphic scale
+1:56:13 and then
+1:56:15 revision history
+1:56:17 gone
+1:56:28 that's kind of clever a little sign off
+1:56:31 deal there that's cute i don't want to
+1:56:33 use that anymore though oh i like that
+1:56:35 one
+1:56:36 i don't like this one though
+1:56:44 i think that we can get excited about
+1:56:46 cad blocks
+1:56:47 right
+1:56:51 because they take the most amount of
+1:56:52 time the most detailed furniture takes
+1:56:55 me as long as it takes me to like make a
+1:56:57 detailed cat block
+1:56:59 i feel like maybe i'm wrong
+1:57:02 fancy
+1:57:10 was right it was all caps on purpose
+1:57:25 what the heck are these
+1:57:30 what's that
+1:57:33 what the heck
+1:57:35 all right we're getting to that point we
+1:57:36 need a new plan
+1:57:43 what the heck is this
+1:57:46 oh weird it's just a preview of call
+1:57:49 outs
+1:57:51 oh but they're used they're blocks you
+1:57:53 don't need that anymore these are notes
+1:57:56 is there a custom field in it main text
+1:57:59 oh no it is a call out what a goofy
+1:58:01 thing i don't need any of these anymore
+1:58:02 that's old news
+1:58:06 so it is how do you say it
+1:58:10 all these scales are old
+1:58:12 i just have one scale send one scale put
+1:58:15 one scale on one
+1:58:17 cad detail and then send that cad detail
+1:58:19 to view and rescale that's all you need
+1:58:22 now
+1:58:24 elevation toolkit this should be built
+1:58:26 out better
+1:58:28 but if you've detailed that one
+1:58:30 elevation you should save every little
+1:58:33 note you have and cad block it and add
+1:58:36 it to your library that's what i tell
+1:58:37 you
+1:58:38 line styles cool i got a bunch of
+1:58:41 different line styles
+1:58:48 above and below line style what is that
+1:58:50 oh gotcha
+1:58:53 blank line style that's good
+1:58:56 some of these just have
+1:58:57 certain line weights to them
+1:58:59 [Music]
+1:59:00 house perimeter below oh that's kind of
+1:59:02 cool
+1:59:04 house perimeter below
+1:59:05 [Music]
+1:59:06 lot perimeter
+1:59:08 okay
+1:59:12 you guys know how to make a custom line
+1:59:14 style with words like this perimeter
+1:59:16 existing house
+1:59:20 setback line
+1:59:23 bigger setback line
+1:59:26 oh that's a weird one what is that
+1:59:28 smaller oh there it is big
+1:59:34 sight path of travel what's that one
+1:59:37 clearly i don't use all these anymore
+1:59:40 oh this is that's a cool one public path
+1:59:42 of travel provided by existing easement
+1:59:44 through adjacent property that's a great
+1:59:46 one i don't use that one i need to
+1:59:51 oh it's still pathetic path of
+1:59:57 kind of uh it's not commercial what is
+1:59:59 it
+2:00:00 um
+2:00:02 the a class what's the a class i can't
+2:00:04 remember
+2:00:05 a class of property
+2:00:08 oh so much to know perimeter's existing
+2:00:11 house line here
+2:00:36 anybody not know how to make a custom
+2:00:38 line style chime in
+2:00:40 you guys all know how to do it
+2:01:01 foreign
+2:01:11 you should do that as a um
+2:01:14 should do that as a uh
+2:01:16 the chief shorts videos
+2:01:18 never done it i'll show you right now
+2:01:20 but you know what i'm to do a chief
+2:01:21 shorts video so if people know how to do
+2:01:23 this
+2:01:24 it's been a long time since i've done it
+2:01:26 actually
+2:01:28 so
+2:01:30 correct me if i'm wrong anybody know
+2:01:32 better than i do
+2:01:34 cad line line style management
+2:01:38 new there we go
+2:01:41 cad
+2:01:43 what do i say cad
+2:01:45 line line style management new line
+2:01:48 style perimeter
+2:01:52 and then you can do dash dot and they'll
+2:01:54 show you a preview and you change the
+2:01:56 spacing over here on the right and then
+2:01:58 text
+2:02:00 and then text is also on the right
+2:02:03 example
+2:02:05 text
+2:02:07 and now you have a new line style
+2:02:09 and there we go
+2:02:11 and i think if you just draw oh let's
+2:02:14 see
+2:02:17 no so but you can do
+2:02:19 and that's not added to library
+2:02:22 right i don't think that adds to the
+2:02:24 library automatically it doesn't
+2:02:26 so then you'd have to go back to tools
+2:02:29 no cad line
+2:02:31 line style management find that
+2:02:35 example text and click add to library
+2:02:45 but otherwise you go in here line style
+2:02:46 and then drag scroll down there's my
+2:02:49 example text that's the one we just made
+2:02:52 look at that bam bingo
+2:02:55 cool
+2:02:56 and then if you want
+2:02:57 you can change in your preferences
+2:02:59 minimum display size for all this stuff
+2:03:03 i'm going to check
+2:03:04 i'm going to change to intersected
+2:03:06 selection mode
+2:03:10 delete all this
+2:03:13 paint selection mode
+2:03:16 that's what i want to do i need to edit
+2:03:18 behaviors default okay
+2:03:20 [Music]
+2:03:24 i feel like all yeah we don't need any
+2:03:26 of these scales anymore gone
+2:03:28 oh i'm in trash right now
+2:03:30 oops
+2:03:33 okay
+2:03:42 use this one for
+2:03:44 distinguishing between new versus
+2:03:46 existing for an edition
+2:03:54 so my naming convention is
+2:03:56 you put the name of of
+2:03:58 you put the name
+2:04:00 and then half in hyphen
+2:04:03 and class
+2:04:05 it's nice to have a convention because
+2:04:07 otherwise
+2:04:09 so braced wall hyphen
+2:04:12 and then the class which is line style
+2:04:19 pwp lines
+2:04:27 and be diligent and do it to everything
+2:04:30 even though it takes
+2:04:31 forever
+2:04:42 you guys have any notes for me about
+2:04:47 speaking voice
+2:04:49 inflection
+2:04:51 aggravation
+2:04:53 is there something i do that's pleasant
+2:04:55 or unpleasant
+2:04:56 in feeds is there something you wish i
+2:04:59 explained more or stop talking so much
+2:05:04 i got a thick hide tell me everything
+2:05:15 should i be like sending vouchers out
+2:05:18 for cocktails so that we can have
+2:05:20 cocktail hours
+2:05:22 should we be doing this in vr
+2:05:24 right that's actually fun because you
+2:05:26 can see hand motions and all that stuff
+2:05:28 i'm i think i might finish my workday
+2:05:30 working in vr today
+2:05:35 anybody been working in vr
+2:05:39 oh
+2:05:46 talk about
+2:05:47 cool stuff
+2:05:49 am i allowed to say anything chad about
+2:05:51 what you've gotten into in the in the
+2:05:53 past
+2:05:54 your stuff can we talk about that can i
+2:05:56 mention it
+2:05:57 are you still working on it
+2:06:12 notes i'm not going to touch notes
+2:06:16 oh here's my cad trees yeah there they
+2:06:18 are bam
+2:06:20 handicapped terrain feature oh what is
+2:06:23 this
+2:06:24 look at this
+2:06:28 what
+2:06:30 how did i do that
+2:06:32 what is this
+2:06:37 dude
+2:06:38 this is cool
+2:06:44 did that do something that didn't do
+2:06:45 anything oh i need to explode it
+2:06:48 explodey
+2:06:50 explode
+2:06:54 no
+2:06:55 nothing am i on the right side
+2:07:00 that didn't do anything
+2:07:08 what is this
+2:07:11 yeah it's the terrain feature
+2:07:13 oh thicknesses
+2:07:15 okay
+2:07:24 these are all terrain features
+2:07:26 the turning to top is
+2:07:28 eighth
+2:07:30 an inch
+2:07:34 okay
+2:07:36 now let's see
+2:07:38 i still didn't do anything
+2:07:42 how come this doesn't work the preview
+2:07:44 is cool
+2:07:48 because i have too much of a bump map
+2:07:50 here
+2:07:53 no
+2:07:57 huh
+2:08:01 ryan how come this doesn't work
+2:08:03 it shows it in preview
+2:08:06 do you have to rebuild the terrain maybe
+2:08:08 that's it let me try that
+2:08:10 oh but it makes it go away
+2:08:17 explode
+2:08:19 terrain create terrain perimeter
+2:08:22 maybe i need to rebuild
+2:08:24 no it doesn't work
+2:08:26 okay
+2:08:30 uh still working on it keeping it quiet
+2:08:32 for now protecting potential investors
+2:08:34 i'd love to talk to anyone about it
+2:08:35 one-on-one okay all right so we can't
+2:08:38 even talk about it but
+2:08:40 it's cool
+2:08:42 it's very cool
+2:08:43 i get i get why that's why i wanted to
+2:08:45 ask first
+2:08:46 um
+2:08:48 you're on a call okay so
+2:08:51 what it is was it was a terrain features
+2:08:54 block
+2:08:55 and i've exploded it and it was it was a
+2:08:58 handicap symbol
+2:09:00 um but it's not showing up i don't know
+2:09:03 why i'm trying to think of why it
+2:09:05 wouldn't show up
+2:09:08 because it is a terrain feature
+2:09:11 should show up
+2:09:16 let's just try making it a hole and see
+2:09:18 if that makes it work
+2:09:23 oh it doesn't show up it's bizarre
+2:09:26 oh uh layers good good call
+2:09:29 maybe i have stupid layers
+2:09:34 oh you're right dude
+2:09:37 good call all right so we're going to
+2:09:39 delete this and then
+2:09:41 re
+2:09:42 and then
+2:09:43 explodey
+2:09:45 and then
+2:09:48 default it
+2:09:50 and then check it out
+2:09:51 you're the man ryan see
+2:09:55 see
+2:09:57 that's so cool
+2:09:59 okay so we need to re-block that
+2:10:03 and
+2:10:04 correctly orient it
+2:10:15 oh you can't name architectural blocks
+2:10:17 here that's funny
+2:10:19 okay
+2:10:38 should be in his own class terrain
+2:10:40 features plot plan
+2:10:49 place molding street name oh this
+2:10:51 automatically parses the street name
+2:10:53 that's kind of cool
+2:10:57 project info is outdated
+2:11:01 21.
+2:11:02 yeah we have a new whole project info
+2:11:04 block but i'm going to leave it
+2:11:09 yeah you got it right ryan good job
+2:11:13 um i just gave these away all my fill
+2:11:15 patterns if you didn't pick those up go
+2:11:17 grab those that was last week
+2:11:21 a bunch of standards block here's that
+2:11:23 door schedule with type only if you
+2:11:25 missed that i mentioned this at the
+2:11:27 beginning of
+2:11:28 the feed
+2:11:31 that's it we're through the drafting
+2:11:33 section
+2:11:34 now we're in materials materials are
+2:11:38 a lot
+2:11:40 i've deleted so many materials and then
+2:11:43 redid
+2:11:44 so many materials
+2:11:47 exterior surfacing siding packs stuccos
+2:11:53 yeah there's been a lot of improvement
+2:11:55 here in the last year
+2:12:00 all my custom metals my backdrops
+2:12:06 rugs
+2:12:08 oh that's cool look at that graffiti
+2:12:10 wall i wonder how good that looks
+2:12:12 [Music]
+2:12:15 i particularly like the garage door oh
+2:12:17 so this is what this is made for well
+2:12:20 and this is a funny one
+2:12:21 so
+2:12:23 paint
+2:12:26 look at this this is cool
+2:12:28 and then do the garage door
+2:12:33 place the garage door
+2:12:36 and turn it into a slab door
+2:12:42 and then paint the graffiti door on top
+2:12:44 of it
+2:12:46 oops needs to be turned
+2:12:55 turn e
+2:12:58 right way yeah
+2:13:01 and then run a pbr
+2:13:05 oh and then place the windows
+2:13:07 yeah that looks cool
+2:13:12 pump up our backdrop
+2:13:17 oh and i've got that exterior light
+2:13:19 where's that new exterior light i gave
+2:13:21 away last week
+2:13:25 that wasn't even last week i might have
+2:13:27 given that away midweek right i don't
+2:13:29 know
+2:13:30 this guy did you guys get this one
+2:13:33 this exterior light
+2:13:36 so if we turn off the sun
+2:13:40 bam
+2:13:43 look at that scene
+2:13:47 fun
+2:13:48 fun stuff
+2:13:50 look it even has a bump map on it you
+2:13:52 can see the brick is kind of popping out
+2:13:54 that's cool
+2:13:56 funny yeah if you're just getting into
+2:13:59 some graphical stuff
+2:14:10 all right starter kitchen material pack
+2:14:12 oh we got a missing floor texture so we
+2:14:14 should just get rid of it
+2:14:18 or oak plank floor let's do that okay
+2:14:21 plank floor
+2:14:23 here's that all caps problem again
+2:14:25 ah what a pain
+2:14:27 all right so let's fix this material
+2:14:29 just so it's
+2:14:30 it's in the back here
+2:14:36 what do we have flooring wood
+2:14:39 oak oak oak oak honey
+2:14:45 what do we think that one is oak washed
+2:14:48 oak dark oak one probably oak one
+2:14:53 0.4 okay
+2:15:00 um it used to be that i had
+2:15:02 4k textures and then i switched to
+2:15:07 2k primary
+2:15:09 and then a 768 resolution secondary
+2:15:12 to really lighten up all my materials
+2:15:15 and then i took the time to kind of
+2:15:19 detail them so that they still looked
+2:15:20 good
+2:15:23 man it takes a lot of work making a good
+2:15:24 material but also having it be
+2:15:27 lightweight
+2:15:31 so let's see what this looks like
+2:15:40 looks like the same floor oh there you
+2:15:42 go
+2:15:43 yeah that's all right
+2:15:46 let's kick a couple lights on here bing
+2:16:00 and
+2:16:02 backdrop down to 1k
+2:16:07 decent looking it needs to be rescaled
+2:16:16 there's some problems in the normal
+2:16:17 texture too bad
+2:16:21 this is probably half scale
+2:16:25 i used to have matching patterns to all
+2:16:27 these things but
+2:16:28 chiefs patterns custom patterns slows
+2:16:30 things way way down now it's too bad
+2:16:35 i don't mess with it
+2:16:41 yeah that looks good
+2:16:58 hey ryan did you catch my
+2:17:01 my video making my ladder
+2:17:03 all textured
+2:17:06 get bored
+2:17:11 my commercial ladder
+2:17:13 my parametric resize cabinet based
+2:17:17 ladder
+2:17:18 glass
+2:17:20 ao10 glass ao10
+2:17:27 and did anybody pick up my
+2:17:29 anybody doing renderings in here
+2:17:31 anybody pick up my ao kit
+2:17:34 my ambient occlusion kit
+2:17:42 um
+2:17:43 here i'll show you the i'll show you the
+2:17:45 end
+2:17:46 let's do
+2:17:48 my ladder
+2:17:51 this is my thousand dollar ladder
+2:17:55 uh
+2:17:57 goofy goofiness
+2:18:02 there we go here's my thousand dollar
+2:18:04 ladder
+2:18:06 but it's very customizable i'll tell you
+2:18:08 that
+2:18:16 you can remove the cage you can make an
+2:18:18 extension ladder you can make it a solid
+2:18:22 solid run ladder
+2:18:25 you can resize it all you want
+2:18:29 change the the step
+2:18:32 differences in step
+2:18:39 i needed it so save me some time
+2:18:49 um
+2:18:50 no but you can very easily come in here
+2:18:54 and say it's it's a two section so you
+2:18:57 click on the lower section
+2:18:59 get into
+2:19:01 uh oops
+2:19:03 no
+2:19:04 why opening
+2:19:07 no opening
+2:19:09 oh we're in the back face front face
+2:19:12 that's funny it just defaulted to the
+2:19:14 back face oh because i clicked on it
+2:19:16 that's why
+2:19:17 so front face click on opening specify
+2:19:20 shelves
+2:19:21 and then
+2:19:22 you just know that you need two more
+2:19:24 shelves
+2:19:26 the problem with that is
+2:19:28 that you need to re-specify from the
+2:19:29 library the part
+2:19:31 and then you set the distance and
+2:19:32 spacing so and there's a little bit of a
+2:19:34 user input there
+2:19:36 but i don't know still save me time
+2:19:46 that ladder costs more than the real
+2:19:48 thing
+2:19:49 to make
+2:19:52 oh man
+2:19:57 yeah i know i'm with you you know what i
+2:20:00 don't think i'd be half as bothered if
+2:20:02 they ever
+2:20:03 just made it so they popped up faster
+2:20:06 it's just the dialog box are so slow
+2:20:09 i wouldn't be nearly as bothered but if
+2:20:11 they did a ribbon style that would be
+2:20:12 cool
+2:20:21 there is something like disconnecting
+2:20:23 about the pop-up
+2:20:31 default cabinet but whatever
+2:20:37 it's a caesar stone texture intact it is
+2:20:39 ha
+2:20:40 nice
+2:20:42 oh here's all my custom tiles proud of
+2:20:44 these
+2:20:45 i need to make sure they're all tagged
+2:20:52 and that one's not so there we go let's
+2:20:55 find one that is
+2:21:00 here's one
+2:21:02 it's not very well tagged
+2:21:09 let's get to my newest ones wow
+2:21:13 the wow tiles
+2:21:15 there we go there's some good tags right
+2:21:17 there
+2:21:21 search attributes if you don't know how
+2:21:23 to do those get it get on that pump up
+2:21:26 your library throw in some search
+2:21:27 attributes
+2:22:20 hello busy
+2:22:37 that looks like the same mature oh no
+2:22:39 it's not
+2:23:08 youtube and facebook just figure out a
+2:23:10 way that we can all have like
+2:23:15 option to play
+2:23:16 joint playlist somehow figure that out
+2:23:19 what does that even mean i do that i
+2:23:21 wish i was listening to music right now
+2:23:23 i put music on and immediately get
+2:23:25 tagged for like copyright infringement
+2:23:28 from either facebook or youtube and they
+2:23:30 both have their own algorithms some
+2:23:32 knowing is all heck
+2:23:34 i gotta sit here in silence
+2:23:37 bored off my mind
+2:23:39 doing tedious work while you guys are
+2:23:41 over there jamming out
+2:23:44 listening to my dumb
+2:23:46 dumb butt commentary
+2:23:48 and i'm out of
+2:23:50 coffee
+2:23:51 [Music]
+2:23:53 all right so here we go we ran into a
+2:23:55 problem
+2:23:57 and i know exactly what the problem is
+2:24:00 so this carrera hex tile
+2:24:03 must be generating
+2:24:05 a custom
+2:24:06 pattern
+2:24:08 and the way you fix this
+2:24:10 taking forever to load
+2:24:13 open the object and in the pattern
+2:24:16 uh panel
+2:24:17 in the pattern panel make sure that it's
+2:24:20 set to none until they fix this i'm not
+2:24:22 putting any patterns i will do my
+2:24:24 patterns
+2:24:25 um on a bi-case basis for per elevation
+2:24:29 if i need to
+2:24:31 because
+2:24:32 this is
+2:24:33 unmanageably slow
+2:24:36 look at this it's going to take us a
+2:24:37 minute just to open this one material
+2:24:40 because of the pattern generation
+2:24:45 so in the pattern panel there you go
+2:24:46 we've got a custom hex marble pattern
+2:24:48 type and go to no pattern
+2:24:52 and now it should open up super fast
+2:24:55 which it did
+2:24:56 maybe there we go
+2:24:59 right there
+2:25:08 so i'm just adding search attributes but
+2:25:10 we don't even have the class naming
+2:25:12 convention put in place yet
+2:25:19 good point buddy i need some headphones
+2:25:21 i actually
+2:25:24 have some headphones and they're not
+2:25:25 charged right now i should keep those up
+2:25:34 will i am william made a parahed
+2:25:37 phones and
+2:25:39 that guy gets so much hate
+2:25:42 i tell you what i love those headphones
+2:25:44 i bought four pairs of them
+2:25:46 and they were affordable
+2:25:52 here we go here's another one of those
+2:25:54 pattern pattern generator things
+2:26:14 oh
+2:26:18 i'm gonna be working all night i have a
+2:26:20 lot of projects to work on
+2:26:23 oh man i'm gonna be working this weekend
+2:26:25 too then oops
+2:26:30 you guys work on the weekend
+2:26:38 anybody have any interest in doing
+2:26:41 um just being on this
+2:26:43 at the same time
+2:26:46 kind of like dan bowman does his
+2:26:50 we can do co-streaming i can invite you
+2:26:52 to co-stream and if you have something
+2:26:54 you want to share
+2:26:56 that's kind of cool right
+2:26:58 yeah
+2:27:01 i'm assuming this response was to the
+2:27:03 weekends
+2:27:05 um
+2:27:06 chad
+2:27:08 not the not the co-streaming but maybe
+2:27:10 maybe you want to go stream
+2:27:14 oh that took forever that took forever
+2:27:17 that took forever just to preview it and
+2:27:19 now we have to open it to fix it what a
+2:27:22 pain
+2:27:23 come on chief
+2:27:26 they screwed that up in
+2:27:28 what x13 i think suddenly it's like the
+2:27:31 slowest thing on the planet
+2:27:35 um ryan we knew you didn't work on the
+2:27:37 weekends
+2:27:41 uh i'm gonna follow your following your
+2:27:43 footsteps though let me move down now
+2:27:47 maybe i'll move to the philippines bali
+2:27:49 let me move to bali
+2:27:51 and then i can take weekends off
+2:27:56 we're gonna be sitting here for three
+2:27:58 three minutes just to fix my iclone tile
+2:28:15 kind of cool
+2:28:16 cool tile
+2:28:17 especially because i have multiple
+2:28:19 colors of this but man look at this this
+2:28:22 is taking
+2:28:24 so long
+2:28:27 what's up man i'm gonna see you uh what
+2:28:30 in a month
+2:28:33 see you in a month
+2:28:35 who's uh anybody else here coming to
+2:28:37 that um
+2:28:39 the chief architect thing
+2:28:42 in idaho
+2:28:48 jared you do any spanish roofs
+2:28:54 there we go look at that
+2:28:56 stupid bump pattern
+2:28:58 go away
+2:29:10 yeah
+2:29:11 jared's gonna be there
+2:29:15 you jealous that's right
+2:29:20 leave your little safe
+2:29:22 safe little comfortable haven on the
+2:29:24 beach and fishing
+2:29:27 uh no spanish roofs all right
+2:29:33 well this what did you say here chad
+2:29:35 let's see
+2:29:39 yeah
+2:29:40 yeah that's true
+2:29:43 um
+2:29:44 i hope i hope people like pick up glean
+2:29:47 a little bit of info from here sometimes
+2:29:51 okay so now this one should load quickly
+2:29:54 and now we can add search attributes
+2:29:57 [Music]
+2:30:06 okay
+2:30:09 i headed to the states in september for
+2:30:12 a month and had it planned prior to
+2:30:13 chief announcing it oh man too bad
+2:30:16 wait who is this who's this user let's
+2:30:18 see who is this
+2:30:22 kenny crocker all right
+2:30:25 we'll see you there man we'll see you on
+2:30:27 the boat
+2:30:40 fan tile this is a funny one
+2:30:43 this even look like it looks like it's
+2:30:44 pixelated does it actually look good
+2:30:47 oh that looks good
+2:31:00 oh that's cool look at that it's like
+2:31:02 metal
+2:31:06 i don't even remember doing this
+2:31:18 get get ryan to host to get together
+2:31:20 if he's coming
+2:31:21 coming he's already rented someplace
+2:31:23 then huh
+2:31:24 ryan just get more rooms
+2:31:26 we'll meet you there
+2:31:30 um
+2:31:31 chad we're doing the we're doing a big
+2:31:33 dan bones doing a big event in february
+2:31:35 you should show you should go to that
+2:31:38 i'll be in the house just hanging out
+2:31:40 doing this stuff
+2:31:51 and i'll be teaching
+2:31:53 i know at least want to teach rendering
+2:31:56 a rendering course and a
+2:31:59 um
+2:32:01 and a folder structure course basically
+2:32:04 a
+2:32:05 like a
+2:32:06 asset and project management course
+2:32:10 when i'm in
+2:32:11 dan's thing in in february
+2:32:39 i think at 11 o'clock i got to stop and
+2:32:41 do some revenue work
+2:32:44 11
+2:32:45 pacific west coast
+2:32:47 um
+2:32:56 there's a super cool oceanfront house
+2:32:57 here in podesta in panama with like six
+2:33:00 bedrooms to meet out
+2:33:01 hey
+2:33:03 i'm down i have a lot of trips planned
+2:33:05 though in the next six months i'm going
+2:33:07 to
+2:33:09 um
+2:33:10 i'll be back in costa rica in november
+2:33:13 i'll be in coeur d'alene
+2:33:15 in next month
+2:33:18 um i should be in colorado
+2:33:21 for a skiing trip
+2:33:24 uh
+2:33:25 january
+2:33:26 february i'm in vegas
+2:33:28 for
+2:33:29 ibs builder show kitchen bath builder
+2:33:32 show
+2:33:33 um oh shoot here's another one of those
+2:33:35 pattern filed ones dang man these take
+2:33:38 forever
+2:33:42 and then
+2:33:44 where's the where is it georgia
+2:33:49 dan's event wherever the heck that is i
+2:33:51 can't remember if it's virginia
+2:33:53 i think it's virginia
+2:33:57 yeah and then
+2:34:00 back to costa rica again
+2:34:03 in april
+2:34:06 and then i'll be in tahoe almost every
+2:34:08 weekend
+2:34:09 lake tahoe for snow season
+2:34:17 so
+2:34:20 maybe next july will come down to panama
+2:34:23 i want to go though i have one friend
+2:34:26 down there beside besides you ryan
+2:34:28 besides my favorite friend
+2:34:34 a couple people just joined we're just
+2:34:35 sitting here waiting for this stupid
+2:34:37 material to update so we can edit it oh
+2:34:40 here it goes
+2:34:47 heck no i won't go anywhere in winter
+2:34:50 because
+2:34:51 i'm all about my
+2:34:52 my snow life
+2:34:55 no no life likes snow life i'm as
+2:34:58 addicted to
+2:35:00 snow sports as you are to fishing
+2:35:08 i should just delete this material and
+2:35:10 start over probably been faster
+2:35:12 i can't even right click on it because
+2:35:14 it takes so long
+2:35:16 someone's gotta like just record this
+2:35:18 section of it send it to chief and go
+2:35:20 what the heck chief
+2:35:27 gonna mute for a second maybe i should
+2:35:29 take this call
+2:35:31 see here
+2:35:33 how do i mute
+2:35:52 nobody there dude we're still waiting
+2:35:55 for this this tile pattern to update
+2:35:57 it's crazy
+2:35:58 come on chief
+2:36:02 i should just delete this it's not even
+2:36:04 worth it
+2:36:06 yeah on a laptop caesar um doesn't
+2:36:09 matter
+2:36:10 same problem on the desktop if you do a
+2:36:13 if you do a pattern generated from
+2:36:15 texture
+2:36:16 and then save it to your library it will
+2:36:19 take forever look at look at the lag
+2:36:21 that we're getting
+2:36:23 just from this
+2:36:26 no pattern and and watch how quick this
+2:36:29 is as soon as i update it
+2:36:31 watch the feed kept up keeps up our
+2:36:34 stream keeps up and suddenly we can
+2:36:35 select it
+2:36:38 same problem with this
+2:36:39 hand polished chevron no it was the
+2:36:42 split triangle one
+2:36:46 so now i'm gonna do my copy paste search
+2:36:49 attributes
+2:36:51 see what this even looks like it looks
+2:36:52 like it's a goofy one too it doesn't
+2:36:54 even look like it tiles oh it does
+2:37:03 i mean it's a cool tile but who the hell
+2:37:05 wants to lay this this must come in like
+2:37:06 a
+2:37:08 a 12 inch grid
+2:37:10 that's cut a certain way it's funny
+2:37:21 using a laptop that's overclocked right
+2:37:23 now
+2:37:28 this is this one looks fancy let's put a
+2:37:30 light in here
+2:37:37 cool
+2:37:38 it's got like a little bit of a wave to
+2:37:40 it kind of want to pump it up a little
+2:37:42 bit
+2:37:52 it's double its size
+2:38:04 there we go that's a cool one i like
+2:38:06 that one
+2:38:20 [Music]
+2:38:22 so
+2:38:24 you guys probably know
+2:38:26 there's a bunch of memory leaks in chief
+2:38:29 so over time
+2:38:31 what happens we lose function
+2:38:35 yeah my ram is
+2:38:38 my ram's letting me know we gotta end
+2:38:40 the feed soon ha
+2:38:43 saved by it let's see
+2:38:47 long oval tile this one's cool too
+2:38:51 i make all these you guys ever make your
+2:38:54 own materials
+2:39:06 this is a wow tile
+2:39:08 you guys ever use wow tile wow
+2:39:15 wow
+2:40:00 oh
+2:40:01 like that one
+2:40:06 more pitting maybe
+2:40:10 [Music]
+2:40:17 yeah i like wild tile stuff in fact i
+2:40:19 have
+2:40:20 check this out i got a couple right now
+2:40:22 hold on we'll be right back
+2:40:37 all right
+2:40:38 let's see if you can see this in camera
+2:40:43 does this show up in camera
+2:40:45 kinda
+2:40:46 i love this one this one's super cool
+2:40:48 i'm gonna put this on my
+2:40:50 i'm gonna put this on my fireplace
+2:40:56 my fireplace hurt
+2:40:58 kind of a spanish look and then they
+2:41:00 have the inverted one
+2:41:03 so you can put them together and make
+2:41:05 like a center star or
+2:41:12 it's kind of like a fresh take on the
+2:41:13 spanish style it's kind of
+2:41:15 got a lot of cool cool stuff in the
+2:41:17 texture
+2:41:32 uh oh
+2:41:34 we got another one
+2:41:36 dang man
+2:41:38 these are such a bummer
+2:41:41 i should just get out of the tile
+2:41:42 section see this is why i can't i can't
+2:41:45 yeah
+2:41:47 i can't sell this
+2:41:49 this stuff when it's all screwed up like
+2:41:51 this
+2:41:52 guy's gonna be hung up on his computer
+2:41:54 forever
+2:41:56 i know it's only in my tile section
+2:41:58 though that's good
+2:42:00 um because it's the only time you want
+2:42:02 to see the patterns in your elevation
+2:42:04 right
+2:42:15 a lot of these really kind of show up
+2:42:16 well only in pbr they're meant to look
+2:42:19 realistic
+2:42:34 should open up my second computer just
+2:42:36 so i can work while we're waiting for
+2:42:37 these to update
+2:42:45 all right ryan
+2:42:47 always a pleasure
+2:42:50 you going fishing it's too late in the
+2:42:52 day
+2:43:02 yeah this tile looks like nothing if
+2:43:04 you're in a standard view but as soon as
+2:43:06 you turn on per
+2:43:08 that's when this one's good
+2:43:48 i wonder if i could show you guys my
+2:43:49 setup right now
+2:43:51 see if i can get this
+2:43:54 how do we do this
+2:44:04 yard
+2:44:16 i want to see if i can stream co-stream
+2:44:18 from my phone
+2:44:28 hey there it is
+2:44:32 man that takes forever
+2:44:37 not even that complicated of a pattern
+2:44:39 isn't that ridiculous
+2:44:48 oh that one's cool
+2:44:51 that's cool
+2:46:29 so many subways
+2:46:32 let me get how many subway tiles have
+2:46:33 you put in
+2:46:36 uh it
+2:46:39 it's always new to someone else even
+2:46:41 though we've put in thousands of subway
+2:46:44 tile jobs
+2:46:49 it's like you grew up and decided to buy
+2:46:52 a home you got to that point
+2:46:55 some success in your life
+2:46:57 what do you want to put in your home
+2:46:59 subway tile
+2:47:13 oh i got another one
+2:47:15 oh i was hoping i was gonna get through
+2:47:17 it without another one all right let's
+2:47:18 see if we can
+2:47:19 stream my setup
+2:47:30 3963 i'm not supposed to say that out
+2:47:33 loud
+2:47:36 i'm telling you guys my my code to log
+2:47:38 in something
+2:47:40 on air that's good
+2:47:50 let's see can i join this i don't think
+2:47:52 i can join this
+2:47:55 with my phone enter studio oh here we go
+2:48:15 you guys do any streaming
+2:48:17 you have your own channels you stream
+2:48:53 uh-oh
+2:48:55 getting feedback
+2:48:59 yeah no one wants me to watch you do oh
+2:49:01 your work is that what you're saying how
+2:49:03 do i turn i need to turn the volume down
+2:49:05 on this all right
+2:49:07 um yeah i'm with you let's see
+2:49:11 oh wait no we need to open it no ah
+2:49:15 i re-triggered it it's gonna process
+2:49:17 again that's so obnoxious
+2:49:19 okay we're gonna switch to this cam
+2:49:21 or how do i add it to the stream oh look
+2:49:24 isn't that goofy there we go
+2:49:28 the phone cam
+2:49:30 you guys want to see my stupid setup
+2:49:32 lately so i've been working from
+2:49:35 i've been working from my
+2:49:38 let's turn my volume all the way off
+2:49:40 i've been working from my dining room
+2:49:43 because i'm sick of working from the
+2:49:45 office
+2:49:46 how do i turn my camera around
+2:49:48 well i guess i just physically do it huh
+2:49:53 cam nope cam settings
+2:49:57 camera
+2:49:58 back camera
+2:49:59 there we go
+2:50:04 did that work no oh there we go
+2:50:07 aha
+2:50:12 yeah look at that
+2:50:15 all set up
+2:50:18 old view
+2:50:32 a little light
+2:50:40 who can tell me what this is
+2:50:41 in this corner here what this used to be
+2:50:44 anybody know
+2:50:46 if you could take a guess
+2:51:02 uh how did i do that
+2:51:06 i built this this whole shelf system
+2:51:08 here
+2:51:10 oops
+2:51:11 with my bare hands
+2:51:18 okay i'll give you i'll give you a hint
+2:51:21 look at that right there
+2:51:24 so this here i'll show you the fireplace
+2:51:26 if i can
+2:51:31 boy
+2:52:14 all right let's
+2:52:15 do a little leave here
+2:52:22 you got it
+2:52:23 you got it
+2:52:24 it's close it's not quite a pizza oven
+2:52:27 it was a barbecue so
+2:52:29 you would shovel the coals into that
+2:52:31 slot below
+2:52:33 and then you had a you have your
+2:52:34 separate flue and it ties into the
+2:52:36 fireplace
+2:52:38 and you've got an indoor barbecue kind
+2:52:40 of wild
+2:52:48 yeah same guesses
+2:52:50 not not quite a pizza oven though
+2:52:52 i mean i suppose you could i suppose you
+2:52:54 could make it at work
+2:52:58 um
+2:52:59 artwork is my godfather's i have that's
+2:53:02 on my shop that's in my shop that
+2:53:05 if you buy that out of my shop it goes
+2:53:06 straight to the artist he's got some
+2:53:08 cool stuff you want to see another big
+2:53:10 one actually here we'll do
+2:53:12 we'll do one more little shot of his
+2:53:14 stuff
+2:53:15 people have seen his
+2:53:17 they've seen his artwork but they
+2:53:19 haven't seen
+2:53:21 it in real
+2:53:22 life the real real deal
+2:53:28 let's do another little preview of some
+2:53:30 of this stuff
+2:53:32 oops i need to log in again shoot
+2:53:36 what did i do try logging in
+2:53:40 we already logged in many
+2:53:56 hold on we're gonna do a little another
+2:53:58 little tour here in just a second
+2:54:01 let's see
+2:54:20 okay here's a back camera again
+2:54:25 does that turn it sideways yeah it does
+2:54:28 mic is working
+2:54:30 enter studio
+2:54:44 feedback
+2:54:45 sorry
+2:55:04 let's see if we can get this in shot i'm
+2:55:05 not sure we can
+2:55:09 there we go
+2:55:12 that's one of his
+2:55:25 it's kind of cool when you see it up
+2:55:26 close you get a lot of these like
+2:55:29 real raised texture
+2:55:38 these are massive paintings
+2:55:49 same kind of thing
+2:56:35 [Music]
+2:56:38 um yeah it's a pretty steep drop i'm on
+2:56:40 a
+2:56:41 um second story
+2:56:47 all right did we finally get somewhere
+2:56:48 in this tile
+2:56:50 hopefully
+2:57:13 that one's already done
+2:57:25 this one's cool
+2:57:56 that's the same color huh
+2:57:59 oh no different color
+2:58:13 you guys have a favorite tile that that
+2:58:14 isn't out there let me know
+2:58:17 i like making these
+2:59:34 oops what happened
+2:59:42 a
+2:59:43 rough
+3:00:08 yeah i mean it makes a big difference
+3:00:10 when we get a multi-sheen
+3:00:12 material
+3:00:38 uh caesar i'm using the
+3:00:43 electron here i'll post a comment
+3:00:45 electronics electronics
+3:00:51 max 17
+3:00:53 which is
+3:00:55 i might be typing this wrong sorry if i
+3:00:57 am i think it's tong
+3:00:59 it's a tongfong
+3:01:01 laptop kit
+3:01:04 so
+3:01:05 that's the original manufacturer then
+3:01:07 they
+3:01:08 sell to you know a bunch of basically
+3:01:11 distributors electronics takes it takes
+3:01:14 apart the
+3:01:15 cpu and re-pastes it and then adds their
+3:01:20 special fan controller into
+3:01:24 the software
+3:01:25 on the service side
+3:01:27 so that they can overclock it so there's
+3:01:30 an overclock button
+3:01:32 on the machine itself
+3:01:38 and then i use a um
+3:01:42 i use a
+3:01:44 a fan base that drops at about 10
+3:01:46 degrees celsius actually
+3:01:49 if i kick the fans all the way on
+3:01:50 so it's helpful
+3:02:11 and i mean convention stuff is boring
+3:02:13 boring
+3:02:24 this is when you kick the previews off
+3:02:26 it goes a lot faster i think
+3:02:29 yeah goes a lot faster
+3:02:34 turn off the previews as opposed to
+3:02:36 minimizing which i just uploaded
+3:02:39 i just uploaded um in my chief architect
+3:02:42 shorts playlist
+3:02:45 how to
+3:02:46 truncate the
+3:02:48 um preview if you truncate it's still
+3:02:51 actually active i think
+3:02:54 so if you don't truncate then you can
+3:02:56 come through in here and do naming
+3:02:58 without having the lag from the previous
+3:03:04 ship out of that in that
+3:03:07 series that note
+3:03:19 hyphen to only distinguish a class
+3:03:28 another character to be able to
+3:03:30 distinguish
+3:03:31 in iteration
+3:03:32 [Music]
+3:03:42 arrow gold
+3:03:44 one
+3:03:45 tile
+3:04:04 still griping the teeth i'm gonna go
+3:04:06 gripe at chief when i'm in coeur d'alene
+3:04:08 about
+3:04:11 um
+3:04:12 naming things symbols that aren't actual
+3:04:15 representation of a symbol
+3:04:17 so
+3:04:19 like a cabinet door is a symbol
+3:04:23 that's not what a symbol is
+3:04:26 and should be reserved for
+3:04:28 you know like an icon
+3:04:30 symbol
+3:04:32 and you know something different
+3:04:41 just like we shouldn't have
+3:04:45 tool bar configurations versus tool bars
+3:04:48 versus the toolbar panel versus a tool
+3:04:50 bar classification
+3:04:52 like name it something different
+3:04:55 so tough to teach that stuff to people
+3:05:06 [Music]
+3:05:28 also should be able to find and replace
+3:05:30 character strings in library
+3:05:33 and they it's about time they overhauled
+3:05:36 some of the navigation features of
+3:05:37 libraries
+3:05:48 can we do find and replace
+3:05:52 are you not entertained
+3:05:58 no this has got to be boring it's got to
+3:06:00 talk to me
+3:06:02 this is
+3:06:03 there's no way this is informative
+3:06:10 i tried opening up um in a various
+3:06:13 editors i tried opening up the library
+3:06:15 files
+3:06:16 and
+3:06:18 just
+3:06:19 what's it written in it's written in um
+3:06:31 it's written in
+3:06:33 this is back from our elementary school
+3:06:36 days
+3:06:42 it's not utf-8
+3:06:46 um
+3:06:52 [Music]
+3:07:04 [Music]
+3:07:07 for every character it is actually like
+3:07:10 a location
+3:07:17 canary hex
+3:07:21 you guys know a good um
+3:07:25 all right a little program i have a
+3:07:27 program i want written
+3:07:31 i want um so the radial minions that are
+3:07:34 built into the 3d mouse
+3:07:37 fantastic but i have some edits that i
+3:07:40 want
+3:07:41 i want a standalone program
+3:07:48 i have edits that would work really
+3:07:51 really well
+3:08:13 almost done with this part
+3:08:26 it's just getting crazy with the hyphens
+3:08:27 on this one
+3:08:49 we haven't even gotten into the decor
+3:08:51 section or the architectural section
+3:08:53 there's like
+3:08:54 100 light fixtures in here at least
+3:10:14 you guys hear about my um the the door
+3:10:17 builder package i did
+3:10:19 you guys get in on that that was a great
+3:10:21 idea and it never really got
+3:10:23 kick-started enough we only got like
+3:10:27 i don't know three sets of panels
+3:10:31 [Music]
+3:10:33 that's just another section of this
+3:10:34 library um
+3:10:37 caesar
+3:10:38 csr cesar
+3:10:43 we're in the materials section we've got
+3:10:45 a whole another section that's
+3:10:47 um
+3:10:49 models
+3:10:51 we haven't even touched models yet
+3:11:03 man all right parallel sections done
+3:11:09 transparent what do we think this is
+3:11:12 nothing invisible texture pool texture
+3:11:14 okay
+3:11:16 oh we need our previews back
+3:11:24 upholstery wall coverings
+3:11:30 white boards those are
+3:11:34 funny then i've got a huge wood section
+3:11:40 and these are all pbr materials ray
+3:11:42 trace materials
+3:11:44 the distress ones are really cool
+3:11:46 i like those ones
+3:11:51 yeah there's a lot in here
+3:11:56 i'm not going to go through and rename
+3:11:58 these right now that's too much work
+3:12:03 shrink this down collapse all okay
+3:12:10 and then the models section and hell
+3:12:12 just architectural sections huge
+3:12:16 oh
+3:12:19 these are all cool add crown delete
+3:12:21 crown add moldings delete moldings
+3:12:24 zero frame doors
+3:12:28 the bath section's huge
+3:12:32 all my custom mirrors
+3:12:35 shower tools
+3:12:40 vanity lights
+3:12:42 that are all optimized for ray trace
+3:12:44 we've got knobs parts faucets
+3:12:47 i just started doing the integrated
+3:12:50 sink and
+3:12:52 faucet combos which look good
+3:12:56 building features is kind of cool this
+3:12:58 is nice for rendering beautifying
+3:13:02 if you add some of these stacks on the
+3:13:03 top of a building man does that make a
+3:13:05 big difference when's the last time
+3:13:07 you've seen a rendering with your
+3:13:08 plumbing stocks and your vent caps and
+3:13:10 all this stuff in it you know it makes
+3:13:12 such a big difference in renderings
+3:13:16 just makes it start looking cool
+3:13:18 um if there's one single person that's
+3:13:20 watching this video and hasn't picked up
+3:13:22 the free closet tools you better grab
+3:13:23 them because i think they're i might
+3:13:25 have already gotten rid of them off of
+3:13:26 my free section and you've got to buy
+3:13:28 them instead because they're they're
+3:13:30 very cool
+3:13:33 let's see my door section got components
+3:13:37 couple knobs
+3:13:41 number of different door styles
+3:13:44 some special oh look at this one i like
+3:13:46 this one i haven't used this in a while
+3:13:48 let's check this one out we'll put a
+3:13:50 interior wall in
+3:13:55 and
+3:13:56 let's do our pantry door
+3:14:04 boom
+3:14:06 boom boom boom
+3:14:11 and that cool
+3:14:12 little pantry door
+3:14:13 i supposed to be viewing it from this
+3:14:15 side i wonder why there's an offset i
+3:14:18 need to fix that
+3:14:22 that's interesting
+3:14:26 and it's flipped
+3:14:28 all right we need to fix that
+3:14:34 pantry door open
+3:14:36 symbol oh you can't open the symbol
+3:14:39 oh no
+3:14:42 oh no
+3:14:44 that makes that useless
+3:14:47 unless i have the original
+3:14:50 shoot
+3:15:01 i have to redo that
+3:15:04 placing it being
+3:15:06 using the delete surface tool
+3:15:14 here's my custom sun door
+3:15:16 [Music]
+3:15:19 and that cool
+3:15:22 that looks really good in rendering too
+3:15:42 i'm gonna do this to my upstairs hallway
+3:15:44 doors
+3:15:45 i'm gonna
+3:15:47 basically i'm going to
+3:15:49 hammer block hammer the
+3:15:52 the jam stops
+3:15:54 or
+3:15:55 or i'll just leave the door shut and
+3:15:57 apply my slats in between the door
+3:16:00 but that'll look goofy so i think i'm
+3:16:02 going to block camera my jam stops in
+3:16:05 and then apply this
+3:16:08 just as a
+3:16:11 you can buy a stock that's like 3 8 inch
+3:16:13 flat stock
+3:16:17 and do the same same pattern on my
+3:16:19 interior doors
+3:16:24 or something like that
+3:16:26 i think that make a big difference in a
+3:16:28 narrow narrow hallway
+3:16:42 custom exterior door
+3:16:47 that was made for someone oh look at
+3:16:48 that
+3:16:49 we get the sun coming through that
+3:16:51 that's cool
+3:16:54 my modern door
+3:17:10 man there's so many things in here
+3:17:16 quick tools closed door open door i
+3:17:18 think this only works for interiors
+3:17:22 yeah
+3:17:23 that's closed door open door
+3:17:30 uh pocket door let's see is that a
+3:17:33 pocket is that a slider that's a slider
+3:17:36 that's a pocket oh that's a spare
+3:17:43 open pocket door
+3:17:46 yeah
+3:17:47 it doesn't allow you to save percentage
+3:17:50 of open in a style palette it's too bad
+3:17:54 someday
+3:17:57 oh and then my fireplace get
+3:18:02 makes me happy
+3:18:06 look at this fireplace i can sit here
+3:18:08 and preview fireplaces all day these are
+3:18:10 so fun
+3:18:16 you gotta put a door in though
+3:18:26 and make it have no jam
+3:18:29 and then
+3:18:30 yeah not only did this person buy my
+3:18:34 library he also bought my toolbars
+3:18:37 so he has my he's going to have my same
+3:18:40 system now
+3:18:57 and you can open this
+3:18:59 isn't that cool
+3:19:02 cool stuff
+3:19:06 can we replace i don't think we can uh
+3:19:08 because it's not a fixture it's a
+3:19:09 cabinet i don't think we can replace in
+3:19:11 place yeah we can't it's too bad
+3:19:20 what do we think the twin peaks
+3:19:22 fireplace is
+3:19:31 yeah that one's cool
+3:19:34 [Music]
+3:19:46 i love that you can resize these on the
+3:19:48 fly too and change the firebox size
+3:19:50 everything
+3:19:54 would you ask here i'm saying but i plan
+3:19:55 to upgrade to x14 then i plan to buy
+3:19:57 some stuff from you well cool thanks i
+3:20:00 like i like selling stuff
+3:20:02 i also like making it i mean this that's
+3:20:05 again
+3:20:07 i've never liked being a salesman but i
+3:20:10 make things
+3:20:11 that are to my level of quality my
+3:20:14 expected level of quality
+3:20:16 and then that way i don't feel bad about
+3:20:19 selling it because i know you're gonna
+3:20:20 love it so
+3:20:23 that's cool
+3:20:24 um what do i have here oh we got all
+3:20:26 conditioning system section
+3:20:28 mini splits
+3:20:31 this all there i converted all these to
+3:20:33 electrical symbols
+3:20:35 here's what i did
+3:20:40 large return air i think this is a
+3:20:42 ceiling
+3:20:44 yep
+3:20:47 i use all z-wave stuff so i have a full
+3:20:50 z-wave section
+3:20:52 um
+3:20:53 if i want to show a transformer
+3:20:56 this actually this actually reports as a
+3:20:58 transformer for an led strip light
+3:21:01 so if i want that my electrical schedule
+3:21:04 then we've got all of our meter boxes
+3:21:06 electrical meters
+3:21:08 combination main panel meter
+3:21:15 all good stuff
+3:21:17 and then we just created that inch and a
+3:21:18 half pipe the two inch pipe three inch
+3:21:20 pipe
+3:21:22 so and and we've got all the exterior
+3:21:25 features vent stocks and all that stuff
+3:21:27 so yeah there's a lot of cool stuff man
+3:21:29 a lot of cool stuff in here
+3:21:34 i need to get those uh power walls
+3:21:36 in in here
+3:21:38 anybody been installing those systems
+3:21:40 power wall systems
+3:21:47 here's that parapet kit
+3:21:50 and the pool tools kit and railings yeah
+3:21:53 cool stuff in here
+3:21:56 pre-done rooms maybe no
+3:21:59 oh this belongs somewhere else it's a
+3:22:02 brick course
+3:22:05 let's see can you draw a
+3:22:12 that didn't work
+3:22:14 i wish 3d moldings work better
+3:22:18 you draw a 3d molding and then pop a
+3:22:21 brick course in here
+3:22:28 oh that was a red course let's see
+3:22:35 yeah there it is
+3:22:37 [Music]
+3:22:40 i think we could do a cut
+3:22:44 cut paste perhaps brick course yeah cut
+3:22:48 and then
+3:22:51 what are we in we're in
+3:22:54 component cad
+3:22:57 brick
+3:22:58 paste
+3:23:01 there we go
+3:23:10 take off tools
+3:23:12 oh i have a bunch of pre-done window
+3:23:13 size
+3:23:14 stuff so if you just know you need a
+3:23:17 305-0 like if you're in the field
+3:23:20 and you place a window and you paint it
+3:23:22 it'll turn it into a 305-0 this will
+3:23:25 turn it into a 403-0
+3:23:27 and then you can sit there and use my
+3:23:29 architectural windows style tools and
+3:23:32 paint this into a slider or double
+3:23:35 casement
+3:23:37 yeah
+3:23:38 quick tools
+3:23:43 and these are
+3:23:44 you will need a a 2 8 door or 32 inch
+3:23:47 door or a 32 inch window you just paint
+3:23:49 the window
+3:23:50 there we go that made it 32 tall so this
+3:23:53 is meant to be used in plan view
+3:23:55 and this will make this door
+3:23:58 let's see
+3:24:00 it only works on hinge doors
+3:24:02 unfortunately but that made it a 32 inch
+3:24:04 door kind of cool
+3:24:08 all types old news window components
+3:24:11 bunch of window parts oh my operable
+3:24:13 windows
+3:24:16 yeah man i gave this away for a deal
+3:24:19 telling you
+3:24:21 telling you
+3:24:24 there we go operable window
+3:24:26 looks sharp too
+3:24:30 look at that bad boy
+3:24:39 close
+3:24:41 open
+3:24:46 operable slider
+3:24:56 yeah cool
+3:25:02 oh we haven't even gotten into lighting
+3:25:22 here's my new ge washer
+3:25:25 this thing is sweet
+3:25:37 oh
+3:25:39 and that just make you happy
+3:25:46 [Music]
+3:25:55 let's see the scupper where would you
+3:25:56 put the scupper probably with the
+3:25:58 downspouts and where did i put the
+3:26:00 downspouts
+3:26:06 components component cad
+3:26:12 downspouts and cutters paste
+3:26:17 yeah so check this so here watch this
+3:26:19 workflow we're gonna do
+3:26:22 if you're still on here somehow there's
+3:26:23 10 viewers here still
+3:26:27 let's go new plan
+3:26:29 and and here's the full kit right is
+3:26:34 here's our room we're going to type in
+3:26:36 parapet
+3:26:40 we've got the parapet roof paint it
+3:26:43 and let's just take a look
+3:26:47 right so that painted the parapet
+3:26:49 room
+3:26:51 and then let's throw in our scupper
+3:26:58 that mounts as a fixture to the wall
+3:27:01 drop that down
+3:27:03 and then you throw in
+3:27:05 a pass-through window
+3:27:07 with no jam
+3:27:09 which i don't think my no jam tools work
+3:27:11 on the passer window should let me see
+3:27:13 if i can add that so now we'll make
+3:27:16 let's see no exterior or interior cell
+3:27:20 no casing
+3:27:21 and no frame
+3:27:25 and now if we save this as
+3:27:31 a style palette and add to existing add
+3:27:34 to no
+3:27:37 see
+3:27:40 [Music]
+3:27:44 shoot i have two of them
+3:27:46 big dummy
+3:27:49 um window right perfect
+3:27:54 let's see if that's the same as this so
+3:27:56 let's do another pass-through window
+3:28:04 and no jam tool does that work
+3:28:06 bam
+3:28:07 quick and easy okay so now
+3:28:11 this is your
+3:28:13 drain
+3:28:14 right
+3:28:19 let's do the full system
+3:28:21 here's your elevation yeah yeah yeah and
+3:28:25 then you'd have a downspout coming off
+3:28:27 of this
+3:28:28 if you had fixtures turned on in the
+3:28:29 exterior
+3:28:31 yeah full system for a parapet roof
+3:28:38 and it looks good in
+3:28:50 elevation all right i'm getting ready to
+3:28:53 sign off
+3:28:54 what you guys any last questions
+3:28:58 i think i've done enough to this to make
+3:29:00 it
+3:29:02 feel pretty good
+3:29:04 look at that tp that's cool
+3:29:08 i had so many there's so many things in
+3:29:10 here
+3:29:11 oh man look at the fixture assets
+3:29:12 there's a whole huge section here oh god
+3:29:17 there's so much stuff
+3:29:22 hey thank you
+3:29:24 i'm glad you guys were around for the
+3:29:25 ride this is a long session i need to
+3:29:27 get up and move around a little bit
+3:29:30 we haven't even touched
+3:29:31 half of the symbols i've got in this
+3:29:33 whole section look at this funny one
+3:29:37 rab's rolling snowboard rack
+3:29:44 i know a couple people that want this
+3:29:48 that one's hilarious
+3:29:55 tabletop items
+3:29:57 yeah all right
+3:30:00 there's still more there's still more to
+3:30:02 do here this is this is for your um
+3:30:04 design business a keller finishes rack
+3:30:08 [Music]
+3:30:11 yeah fun fun for me too it was i'm glad
+3:30:14 to be here doing like otherwise this
+3:30:16 just feels like just straight
+3:30:19 droll of work
+3:30:20 just uh
+3:30:22 terrible work it's fun to have some some
+3:30:24 interaction we had some funny little
+3:30:26 highlights
+3:30:27 um oh all my speaker systems
+3:30:30 my favorite symbol in the world
+3:30:33 this guy this is my favorite symbol i've
+3:30:35 ever made
+3:30:38 so shiny
+3:30:42 so fancy
+3:30:46 lg stuff i should have more curtains
+3:30:51 oh i'm giving away a symbol that's not
+3:30:52 even supposed to be released yet
+3:30:56 all right i'm gonna i'm gonna close on
+3:30:57 this i'll show you guys this is gonna be
+3:30:59 a design challenge later on and i'm not
+3:31:02 gonna tell you how it's done
+3:31:03 let's see maybe i'm giving away too much
+3:31:05 though
+3:31:07 um
+3:31:08 what is this even called
+3:31:11 call it challenge do i get a liquor
+3:31:14 cabinet
+3:31:19 i'll see
+3:31:20 right now
+3:31:31 well i know it's in a plan
+3:31:34 let's see here
+3:31:47 you guys ever seen my gaming room design
+3:31:50 it's kind of a funny one
+3:31:59 you guys been getting gaming room
+3:32:00 clients
+3:32:05 it's hard to sign off without a funny
+3:32:06 little
+3:32:08 little thin balls
+3:32:10 sending off
+3:32:12 check this room out it's kind of fun
+3:32:16 if i can pull a camera ever
+3:32:20 a lot going on in here
+3:32:24 this thing's this is wild
+3:32:27 so there's a display wall
+3:32:30 there's a projector
+3:32:32 assembly that is built into
+3:32:35 a gaming machine setup that tethers
+3:32:39 there's two access panels for updates
+3:32:42 and channeling there's
+3:32:45 a molding on the wall for channeling
+3:32:49 and then a pulley rig system for
+3:32:51 tethering your vr headset with a vr
+3:32:54 inlay in the floor
+3:33:06 and the projection on that check this
+3:33:07 out when we turn it on um
+3:33:12 turn on the ray trace
+3:33:15 the projected stuff on the wall
+3:33:17 is just for a backdrop so you can change
+3:33:19 your backdrop if you're doing streaming
+3:33:26 and then same thing there's cameras
+3:33:27 built into the upper
+3:33:29 so there's
+3:33:30 this is a webcam up here but i also have
+3:33:34 in the very corners here
+3:33:36 i have the trackers for the vr
+3:33:40 so that's built into the cove molding
+3:33:42 the t-molding is literally a
+3:33:44 drag-and-drop so you can add wires and
+3:33:46 just slap it inside of the t-molding and
+3:33:48 then there's a light rail in there too
+3:33:51 and then we've got speakers
+3:33:53 built into that
+3:33:55 inner cove as well
+3:33:58 kind of cool
+3:34:08 but here's the here's the thing that
+3:34:11 this person's going to get and i feel
+3:34:13 like removing it
+3:34:15 because it means you can cheat on my
+3:34:18 i'm going to be giving away some big
+3:34:19 prizes if people can figure out how to
+3:34:21 make this
+3:34:22 see where is it best liquor cabinet
+3:34:26 this is going to be design challenge
+3:34:27 number five
+3:34:30 if you missed number four it's on my
+3:34:32 youtube i think
+3:34:48 so design challenge number five is
+3:34:53 can you make
+3:34:55 a goal wing
+3:34:56 liquor cabinet
+3:35:03 operable
+3:35:06 can you make an operable gold wing
+3:35:09 liquor cabinet
+3:35:12 and i'll tell you right now
+3:35:14 this is not easy this is very very not
+3:35:19 not not not not not easy to do
+3:35:23 um and it's a
+3:35:25 it's a good puzzle it's a really good
+3:35:27 puzzle
+3:35:29 um
+3:35:30 i got a piano hinge
+3:35:34 glowing cabinet and everything's
+3:35:36 operable
+3:35:50 i made this about three months ago and i
+3:35:52 haven't put together a challenge yet
+3:36:10 it's i will tell you it's a dual cabinet
+3:36:12 so that's part of it
+3:36:13 um but that's also part of it for a very
+3:36:16 specific reason the challenge is that
+3:36:18 you have to have your
+3:36:22 these details in the side here need to
+3:36:24 line up
+3:36:36 [Laughter]
+3:36:39 well i'll tell you it took me and i you
+3:36:42 know i know a lot about hacking cabinets
+3:36:45 in this software it took me
+3:36:49 probably six hours to figure this out
+3:36:52 um
+3:36:53 so it was a long time
+3:36:57 yeah it was one of those things where it
+3:36:59 was like it was good from the start and
+3:37:02 it only got better so i just kept going
+3:37:04 until it was like perfect
+3:37:08 uh but it was it's it was very
+3:37:10 satisfying to complete so it was one of
+3:37:12 those six hours that i didn't mind
+3:37:13 spending
+3:37:16 i am going to improve on it though
+3:37:17 because right now the
+3:37:20 the doors have the same liquor in them
+3:37:23 on either side and i don't want that i
+3:37:26 want different liquor one on each side
+3:37:28 so
+3:37:31 anyways
+3:37:33 whoever gives me the shortest time stamp
+3:37:35 on this is i'm gonna give away the
+3:37:38 give away some stuff
+3:37:39 and if you like if you have my pro plan
+3:37:41 template then i'll give away the
+3:37:42 fireplace tools if you have that then
+3:37:44 i'll give away something else i'll
+3:37:45 package something up for it but there's
+3:37:47 going to be you know a first second
+3:37:49 third prize
+3:37:51 based on time stamps
+3:37:53 yeah that's a good one
+3:37:56 you know how it's built huh
+3:37:59 yeah
+3:38:01 well if i needed to rebuild it
+3:38:03 i could do it a lot faster a lot faster
+3:38:09 but figuring it out yeah i'm going to
+3:38:11 take you a big chunk of time that's why
+3:38:13 the prizes are big because
+3:38:15 i know it's going to take a big chunk of
+3:38:16 time it's for people just want to be
+3:38:18 challenged by it and have that in their
+3:38:20 bag of bag of tricks
+3:38:22 so
+3:38:24 all right so we'll end on that that's a
+3:38:25 good one to end on
+3:38:31 i'll just give you
+3:38:34 let's give you money
+3:38:35 all right
+3:38:37 that's
+3:38:38 funny
+3:38:40 but we gotta let people figure it out
+3:38:42 first because like if i give it away i
+3:38:44 think that i think that gives away a lot
+3:38:46 of the tricks maybe i'm not sure
+3:38:50 well pleasure as always happy friday
+3:38:56 enjoyed that was a fun one that was
+3:38:58 probably one of my my more entertaining
+3:39:00 feeds so
+3:39:02 hey ken it's cool
+3:39:06 all right you guys have a great friday
+3:39:08 always nice seeing you again i'm going
+3:39:09 to be in coeur d'alene in next month for
+3:39:12 chiefs training stuff
+3:39:14 and build a show in vegas in february
+3:39:17 remember that and then we got
+3:39:19 dan bowman's event which i'll advertise
+3:39:21 later and so will he so
+3:39:25 take care
+3:39:30 [Music]

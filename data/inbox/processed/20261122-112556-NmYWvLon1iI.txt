@@ -1,0 +1,2988 @@
+Title: Chief Architect X15 to Twinmotion. Exterior Rendering
+URL: https://www.youtube.com/watch?v=NmYWvLon1iI
+Visibility: public
+
+0:02 foreign
+0:03 oh baby oh baby it's been a while since
+0:06 we've been live
+0:08 back in live
+0:09 so I'm just extracting a project right
+0:13 now that I'm going to be working on in
+0:15 Chief X15
+0:18 and let's see we're going to put this in
+0:19 its own folder
+0:22 CA
+0:25 and today's date or tomorrow's date I
+0:29 mean before yesterday's date it's
+0:31 backdated 230307
+0:35 received
+0:38 at
+0:40 am
+0:45 and welcome welcome to
+0:47 Welcome to My Stream if you've never
+0:49 been before welcome if you have been
+0:52 before welcome if you came from the
+0:53 summit uh was a big event last
+0:56 um couple weeks a couple weeks ago from
+0:59 Jan Bowman Chief experts
+1:01 um and you've never been here before
+1:04 hi again
+1:05 hasn't been that long we saw each other
+1:07 recently great chime in say something in
+1:10 the comments I'll try to pin some
+1:12 comments
+1:13 um
+1:14 as we go so
+1:18 all right so here's where we've got
+1:19 client sent me a backup which is
+1:21 includes
+1:23 all these wonderful files that's what I
+1:25 wanted
+1:27 and I'm going to leave that folder
+1:29 intact which has all those files and
+1:31 we'll copy it again
+1:32 and bring it forward to our new version
+1:35 which we're going to prep for render so
+1:37 this is a pretty straightforward job
+1:38 just prep it for render bring it into
+1:40 twin motion build out some landscape
+1:42 render it out I haven't done this in a
+1:45 long while it's been over a month so I'm
+1:48 going to be a little rusty so we'll just
+1:50 see what I run into now we're just going
+1:52 to call this drva
+1:54 it doesn't matter I don't need a version
+1:56 number unknown project I'm not sure what
+1:59 this project name is
+2:04 and let's open that up oh and I need to
+2:07 put the correct date on there so it
+2:09 moves the front of the stack
+2:11 and then once I'm in here Windows
+2:13 platform I'm going to group by type
+2:16 that way I can minimize my plan in JPEG
+2:19 and just get to that
+2:21 plan file
+2:24 here we go
+2:26 hello lady
+2:29 my favorites from week one I feel like
+2:32 we had some some good sessions at the
+2:34 summit this is uh Laura everyone she was
+2:37 at the summit
+2:40 very cool all right let's check out X15
+2:47 this is my first live video using X15
+2:49 I've been dying to use X15
+2:53 so
+2:55 and then let's just check this out let's
+2:57 just check out a view here
+3:03 and we probably have some kind of oh
+3:06 Deco or non deck room that's not a big
+3:08 deal so when I'm doing these renderings
+3:10 I don't need to have a ton of accuracy
+3:13 and I don't need to pay attention to too
+3:14 many things you see a little bit of
+3:16 jumpiness in the camera that's going to
+3:17 be a setting here in 3D menu 3D view
+3:19 defaults camera bumps off walls let's
+3:22 turn that off get rid of that jumpiness
+3:25 in the next 15 we'll have a few crashes
+3:27 I've noticed a few render crashes
+3:30 um I'm on I'll just say it now I've got
+3:34 some sponsorships that came through and
+3:36 I'm using and testing them honestly I've
+3:39 got some AMD machines uh the first week
+3:42 I had them was very problematic we
+3:44 needed some driver updates we needed
+3:46 some updates from Chief as well for it
+3:48 to function correctly I also needed to
+3:50 have a bios update now that I have this
+3:52 machine functioning correctly I'll say
+3:55 it's an amazing machine I'm on it it's
+3:57 way faster than my 11 900k Intel based 3
+4:03 800 mobile laptop that was on a ddr4
+4:07 platform with a PCI 3 Lanes if you know
+4:10 what any of that stuff means I
+4:11 congratulate you
+4:12 I am now on this machine right here we
+4:16 see in the bottom of the banner there
+4:17 it's this Lenovo it's a legion seven
+4:20 it's got a 6850 card it's on
+4:24 pci4 it's got ddr5 it is screaming fast
+4:29 and I've really been enjoying it so
+4:32 um I will mention it as I go and we'll
+4:33 see how quickly this thing switches to
+4:36 its Ray Trace renders and and renders
+4:38 things out it's a fast machine in terms
+4:41 of the mobile platform you can see there
+4:42 renders up very quickly here we'll even
+4:45 do some of the new cool stuff I'm going
+4:47 to edit this active View
+4:49 let's turn Reflections on let's see if
+4:51 we can crash this thing it's pretty
+4:54 common to crash these drivers as Chiefs
+4:56 going through beta and the drivers are
+4:58 going through beta you name it
+5:01 um let's go ahead and in the backdrop
+5:03 let's say we're going to use the
+5:04 generated sky
+5:06 and then let's use that new tool to
+5:10 kind of move that sun around
+5:13 which is very cool
+5:17 I'm gonna drop this sun down
+5:20 there we go we can get Sky model out of
+5:22 this
+5:28 changing a little bit of field of view
+5:30 can make for some pretty dramatic shots
+5:35 yeah pretty wild
+5:38 if you haven't played around X15 there's
+5:40 a lot of features to love in terms of
+5:42 rendering so
+5:44 um
+5:45 especially if you're unfamiliar with the
+5:47 denoiser get in there get into rendering
+5:49 techniques cap your live sample set your
+5:52 maximum export samples something like
+5:54 50.
+5:55 and you're going to get to a denoised
+5:57 image very quickly so cool stuff
+6:00 all right so I gotta look at this model
+6:02 um with a new eye for figuring out what
+6:06 I need to do to get it prepped for
+6:07 render
+6:08 and
+6:10 what's going on with the backdrop now
+6:12 it's very funny it's just black
+6:18 oh maybe because I messed up the sky
+6:21 model
+6:25 there we go let's put it back up in
+6:27 there
+6:27 up in the air
+6:34 did that change anything yeah there we
+6:37 go
+6:37 that's not black anymore so a few things
+6:39 I want to actually create a standing
+6:42 seam here
+6:43 and I might put in a few extra features
+6:47 into these roofs some trim just to make
+6:51 these look a little bit more realistic
+6:52 I'm going to do that for my plan View so
+6:56 let me get to
+6:58 um this client is
+7:00 does have my templates did not build
+7:02 this building from my templates so
+7:06 um I'm going to have to navigate by
+7:07 switching layer sets so I'm going to get
+7:09 to the roof plan layer set and I want to
+7:13 just make it so that all roof plans are
+7:15 on the same level so I'll just do a
+7:18 select Marquee similar here
+7:20 and select all similar and then let's
+7:23 show these on the level above so that
+7:25 when we go up to the next level now we
+7:28 have all roof plans here so same thing
+7:30 select more key select all similar let's
+7:33 open this up and I'm going to add a
+7:35 little flashing detail to the shadow
+7:37 boards section
+7:43 and this is Chief's new library browser
+7:46 there's a lot of tricks to this
+7:48 so one of the things I'm going to do is
+7:50 I'm going to type in molding
+7:52 and that's going to make it so that I
+7:55 can sort by type I can sort by type of
+7:59 molding so
+8:01 um
+8:02 see
+8:04 you know what they're not catalog
+8:06 they're not categorizing it as type it's
+8:09 interesting so what would be the type
+8:12 let's go
+8:13 simple type so what would it be called
+8:17 maybe a small name
+8:20 interesting doesn't have a type for
+8:23 moldings
+8:24 that's
+8:26 curious they have a type of Network all
+8:28 right so let's just do this instead I'm
+8:30 going to type in flashing because I know
+8:32 that I have some flashing in my user
+8:34 user catalog when I click on user
+8:36 catalog it's going to add that as a
+8:38 filter result component CAD or models
+8:42 you can see here we've got parapet under
+8:45 models we've got
+8:47 so I'm going to undo molding and
+8:50 profiles
+8:57 see this does take a bit of getting used
+9:00 to
+9:02 there we go
+9:04 component CAD
+9:09 let's go roof components
+9:12 grabs drip edge that's what I want this
+9:14 is what I want right here
+9:18 so I'm going to add that little drip
+9:19 edge
+9:21 and then I'm going to add
+9:23 probably going to add a gutter profile
+9:25 on some of this stuff so I need to make
+9:27 sure that I'm adding it on particular
+9:28 sides but let's add a gutter profile and
+9:32 we're going to need to offset this I
+9:34 believe
+9:35 um so 3D
+9:37 headers
+9:42 let's just take a look at what this
+9:43 looks like
+9:49 okay so that added that flashing detail
+9:51 here
+9:53 right that's that flashing detail
+9:55 and then notice that the gutters are
+9:57 offset right
+10:00 so the gutters are now offset based on
+10:02 that shadow board that's where we need
+10:04 to adjust our gutter profile
+10:08 so let me grab all these
+10:10 again
+10:14 there we go and we need to offset by the
+10:17 width of that gutter profile so we could
+10:19 just take this copy it bring it over to
+10:20 the gutter horizontal offset
+10:23 and
+10:25 it's going to be a negative offset
+10:28 let's take a look what that looks like
+10:29 that should bring that back towards our
+10:31 fascia there you go
+10:35 so that looks better
+10:39 now I don't mind that these are a
+10:41 different color
+10:42 the reason I don't mind that these are
+10:44 different colors because I like hey
+10:46 killa that's my friend cam how's it
+10:49 going I know you just popped in for a
+10:51 minute say hi
+10:53 shout out to you he is a streamer as
+10:56 well but he streams video games
+10:58 Okay so
+11:01 I want to make this standing seam I want
+11:03 to make this standing seam be 3D I also
+11:06 want to make these
+11:08 I want to make these battens be 3D
+11:12 and
+11:13 and we just released a video if you
+11:16 didn't know this it just released a
+11:17 video
+11:18 um
+11:20 on my YouTube
+11:22 and let's see if I can pull that up real
+11:24 quick
+11:25 let's pull this onto the main screen and
+11:27 what do we have we have CA shorts this
+11:30 video right here
+11:32 you can drop this into the comments
+11:33 section but we just went over how to
+11:35 create really Lightning Fast patents so
+11:38 let's just drop this in the comments so
+11:40 you guys can see we're going to pin this
+11:42 right now
+11:43 bam there we go
+11:46 so that's in your comments section if
+11:48 you haven't seen that video that's how
+11:49 we can create lightning fast battens uh
+11:52 that's a really good one so go check
+11:53 that out
+11:55 um if you're a Facebook user you got to
+11:57 authorize stream yard to see your name
+12:00 if you want to say hello here otherwise
+12:02 you're just a blank profile but hello
+12:04 user hello Facebook user
+12:09 okay so I'm going to draw out some
+12:10 battens using the wall material region
+12:13 so I'll use that wall material region
+12:15 tool let me draw this out
+12:21 and we'll open this up because this
+12:23 isn't my plan template I do not want it
+12:25 to cut the finished layer of the parent
+12:27 object I can get rid of these couple of
+12:30 layers and then this top layer we're
+12:32 going to set this to be a three-quarter
+12:33 inch pattern and we'll change the
+12:35 texture of this in just a minute you can
+12:38 probably get to my library and I think I
+12:41 have a baton
+12:42 material
+12:45 so now we can type in in our search
+12:48 material and
+12:51 type materials so now we're limiting our
+12:55 sorting results to just materials that
+12:58 have the name Batten and in which case
+13:02 I don't have one that's just a solid
+13:04 material called baton I might want to
+13:06 create one so let's just make one
+13:10 so I'm going to use the component adjust
+13:12 materials tool to adjust this material
+13:14 I'm going to say that this is a Batten
+13:16 material
+13:22 and press OK it's going to bring up that
+13:25 Define material dialog and we got our
+13:28 rendering error too bad that's gonna
+13:30 crash the machine we'll have to get back
+13:32 to this
+13:37 keep in mind my X-15 was set to do PBR
+13:41 rendering in the library preview so if
+13:43 you're running into crashes I'd highly
+13:46 suggest
+13:47 that you change that method and I'll
+13:50 have to figure out how we do that we'll
+13:51 do that in just a second here so uh
+13:53 let's see this is that project we've got
+13:55 an automatic file that exists that's
+13:58 great
+14:02 see it looked like it retained my gutter
+14:04 modifications that's good
+14:09 let's see if it's still retain that
+14:11 offset yes it did so that's good as well
+14:14 so we really just lost that detail about
+14:16 the Batten
+14:17 so let's get that in place again
+14:21 draw that up this is just a material
+14:23 region tool
+14:29 I'm going to try this adjust materials
+14:31 tool again
+14:35 and let's see at this time we're going
+14:38 to change that preview to a standard
+14:40 that way we'll limit the number of
+14:41 crashes here so we change that material
+14:43 preview there okay I'm going to press ok
+14:46 I'm going to change this to the
+14:47 component mode so that I'm creating a
+14:49 new material
+14:52 white patent
+15:01 and from here in our texture let's just
+15:04 go ahead and delete the texture Source I
+15:07 don't need a texture Source in fact I
+15:09 just need this to be white in on General
+15:12 I actually like this stuff to be a color
+15:15 so that it's color coded but
+15:17 since I'm doing this
+15:19 um
+15:20 creating this pattern I'm going to be
+15:22 using it as a default I'm not too
+15:23 worried about it I know that this is its
+15:25 own defined material so when we bring it
+15:27 in a twin motion we should be able to
+15:29 color it correctly
+15:31 so I'm going to press ok now there we go
+15:34 we've got that material if we wanted to
+15:36 get clever we could even add this to our
+15:38 library direct from that Define material
+15:41 dialog just by clicking on add to
+15:43 library white patent
+15:45 okay
+15:48 now I'm going to press OK again
+15:51 now that I have this button it looks
+15:52 like these are two inch patterns I'm
+15:54 going to shut down my library window
+15:56 here I like to keep it floating because
+15:58 I like the library oversized nx15 it
+16:01 takes up a lot of real estate because of
+16:03 all the additional Windows there
+16:06 so I'll drag this until it snaps to
+16:08 itself hit tab or enter
+16:10 Arrow key forward make sure puller is
+16:12 checked and -2 that's going to leave me
+16:15 with a two inch Batten and then I'll
+16:17 Center this up on the window
+16:19 now my battens are centered about that
+16:22 window let's do a multiple copy center
+16:25 interval 12 inches
+16:28 and then drag this over
+16:33 and I'll just do the same thing going
+16:35 the other way
+16:41 there we go
+16:44 and now we could go into our plan View
+16:47 and let me just drop down a level since
+16:50 I drew that in level one and let's get
+16:53 into our active layer display options
+16:56 and let's see if we can't get those
+16:58 material regions to show up
+17:01 play those and we can see them here so
+17:04 maybe I'll draw in just an inference cab
+17:07 line 45 degrees let's turn on CAD for
+17:10 that and we can grab this Batten copy
+17:13 reflect about
+17:14 and then easily multiple copy down this
+17:17 line
+17:19 once I've got that my key selects
+17:22 similar draw Marquee over these copy
+17:24 reflect about Center of this it'll drop
+17:26 it onto that other side simple enough
+17:29 and then
+17:31 let me tab into that multiple copy Bring
+17:33 It Forward
+17:35 now if we get back to this we should see
+17:38 there we go very quick very easy
+17:44 we got common here you've saved me
+17:46 countless hours with your kitchen tools
+17:47 a I love hearing that guys I really love
+17:51 hearing that so
+17:53 um that's awesome awesome to hear we're
+17:56 in X15 now we have a new process for
+17:58 bringing the kitchen tools forward X15
+18:01 also broke a bunch of functionality I'm
+18:03 going to be putting out an update for
+18:04 that pretty soon and then maybe next
+18:07 month I'll be improving the kitchen
+18:09 tools again because we've got some
+18:11 additional
+18:12 toolbar icons in X15 they pumped it up
+18:15 to 400 total from 200 total so that was
+18:19 on my requests and they said I'm not
+18:21 getting any more than that so we're
+18:22 capped at 400.
+18:24 and and then we got Cesar I think I'm
+18:27 saying your right name right say sorry
+18:29 you have an accent in there
+18:31 um
+18:31 my friend I always like hearing from you
+18:34 I'm always curious about how you're
+18:35 doing
+18:36 um
+18:38 interested to see what systems you've
+18:40 put together to keep improving in in
+18:42 terms of the software so got some
+18:45 challenges you you work around we'll
+18:47 have to feature you at one point if you
+18:49 wouldn't mind if you'd like that
+18:53 all right let's see
+18:57 so let's check this out we're going to
+19:00 do a little bit more battens here now
+19:01 I'm not using the method that I put in
+19:03 that video just because I've got some
+19:04 kind of unique features in here
+19:08 um
+19:09 so I do want to make sure that I set
+19:11 this button this says the default we can
+19:13 do that with material regions so now
+19:15 when I bring that material region
+19:17 forward right here which we have snaps
+19:20 in X15 we've got a bunch of 3D snaps you
+19:23 notice I just snapped that to that top
+19:24 board which makes this a really powerful
+19:27 method right
+19:29 so now this is default not to cut the
+19:31 parent layer that's already looking like
+19:33 it's two inches but we'll tab it over
+19:35 anyways
+19:37 who
+19:38 are these are two and three quarter inch
+19:40 pads
+19:41 it's okay I'm really not worried about
+19:43 it
+19:45 um I think you know this client just
+19:47 used whatever they had so
+19:50 let's make sure this is centered up on
+19:52 that Ridge line
+19:54 and then same thing multiple copy over
+20:01 Center up Ridgeline multiple copy over
+20:07 might need to do a cleanup on that one
+20:08 nope that looks good
+20:10 that's done where else do we have so
+20:12 we're only rendering
+20:14 kind of this angle right here that's the
+20:17 angle and if we want to look at
+20:19 composition on this let's just set this
+20:23 field of view in our camera
+20:25 specifications to 35.
+20:27 and then we're kind of going to get this
+20:30 shot and then we'll do like some
+20:31 parallelism to get this to be legged up
+20:34 straight
+20:35 so
+20:37 Laura thanks for stopping in let me know
+20:40 if you have any questions as you review
+20:41 this yeah
+20:43 and then and then you can always find
+20:45 these videos in the live tab on my
+20:48 channel so there's a playlist tab
+20:50 there's videos tab you can always find a
+20:52 live tab
+20:53 and then Jon Jones thanks for all the
+20:55 help at the summit yes it was a pleasure
+20:58 having you there I was really glad that
+20:59 you made it I know you that was a last
+21:01 minute decision
+21:02 and uh we were talking about you all the
+21:05 second week of the summit uh John was in
+21:07 the first week second week was
+21:09 was awesome so
+21:11 um we were talking about some of the
+21:12 stuff that you brought up we mentioned
+21:14 quite a few things that you brought up
+21:15 so it was really awesome having you as
+21:17 part of the the nightly work discussions
+21:19 as well
+21:22 all right so one more set of bats here
+21:26 I can snap it to that I'll take anything
+21:29 I can snap to so if we pick up a snap
+21:31 here along this roof line that's perfect
+21:34 that's all we need to start this patent
+21:36 and we just draw it up
+21:39 past our Ridgeline
+21:41 same thing snap it to itself
+21:46 there's two
+21:50 and then we can Center it if we can
+21:53 Center it on this nope I don't think so
+21:55 but we can Center up on the wall there
+21:57 we go
+21:59 and multiple copy
+22:02 be cool if we had a multiple cone Center
+22:05 copy I dragged that at an angle oops
+22:10 so if we had a
+22:12 a way we can multiple copy and two
+22:14 planes that'd be crazy
+22:16 the only thing I'll say about snaps here
+22:18 is
+22:20 um notice here I'm picking up snaps from
+22:22 where I drew this out from I drew this
+22:24 from the center handle and there's a
+22:25 snap here at the awning so because of
+22:27 that I'm getting out of plane a little
+22:29 bit and you might fight it so another
+22:32 method is you draw it just way past and
+22:34 you hit tab instead and I know that I
+22:37 only want to go 40 inches which is going
+22:39 to make three of those
+22:41 so if you're fighting the new snaps that
+22:45 are coming in you could obviously just
+22:47 kill snaps entirely before you did that
+22:49 or you could do that tab enter method
+22:53 and another thing I could do is just
+22:54 copy paste about this wall
+22:58 that'd be a simple thing
+23:00 so
+23:01 a couple methods there for you
+23:04 um
+23:05 good things I hope yes it was good
+23:07 things we liked what you contributed to
+23:09 the conversations that we're having at
+23:11 night so that made a big difference
+23:14 okay so I've got one more Batten to do
+23:16 over here I'm just going to do it
+23:17 manually we're not going to even do that
+23:19 reflect about it's simple enough to just
+23:21 draw this in manually
+23:23 Soldier this guy in
+23:25 I'm not even worried about the accuracy
+23:27 of the thickness on that that should be
+23:29 close enough so that's what we're seeing
+23:31 and then
+23:33 one more section here we're missing a
+23:36 board so I'm just going to draw it in
+23:39 we're going to assume that let's just
+23:41 snap it to the underside of the fascia
+23:43 here
+23:44 and we're just going to use a Batten for
+23:46 that why not
+23:47 same thing material region
+23:51 snap this up draw it up
+24:00 Center this up on the ridge
+24:10 right and then that same thing multiple
+24:13 copy it over
+24:27 curious as to why you are adding boards
+24:29 and not using the board and batten in
+24:31 Chief because this adds a 3D element it
+24:34 adds a 3D element that looks far more
+24:37 accurate
+24:39 um let's just uh do a little test of
+24:42 that theory right so what if we change
+24:44 that material to just a white matte
+24:47 material let's go plan change mode let's
+24:50 change that that material to a white
+24:52 material instead and let's also
+24:56 change this black to a black just a
+24:59 solid black material
+25:04 and we're gonna have to edit this in our
+25:06 plan
+25:08 mode
+25:12 and we'll just change the name of this
+25:14 to Black
+25:16 texture pattern
+25:18 let's go that black right there
+25:22 we're going to remove this texture
+25:24 there we go
+25:26 so now that we have that established and
+25:30 let's do one more let's do
+25:33 well I'm not going to paint those bats
+25:35 yet let's move our sun around
+25:38 and let me save this real quick so we
+25:39 don't mess anything up save that
+25:44 and you'll see when we move our sun
+25:46 we're going to see just how good those
+25:49 those battens start to look as opposed
+25:52 to
+25:53 I mean the way they intercede at the
+25:56 roof line you're going to see 3D at the
+25:58 roof line you're going to see
+26:01 um
+26:05 when we're rendering out at like a we're
+26:07 going to be rendering out it almost like
+26:09 an 8K image we're going to see a bunch
+26:12 of additional details like this when
+26:15 it's just a because this is a marketing
+26:17 piece this gets put on a website for
+26:20 like a stock sales site
+26:22 so you'll end up seeing this when we
+26:24 render this out at like a 4K in Twin
+26:26 motion
+26:30 especially as it intercedes like the
+26:33 underside of the eaves
+26:42 yeah me too new Snaps are huge
+26:46 um
+26:47 just just massive Improvement you can do
+26:51 so much more in 3D with uh with the new
+26:55 snaps
+26:56 so that's just a big one for me all
+26:59 right so I'm going to do this this
+27:02 standing seam
+27:05 and so it's for this roof line right
+27:07 here so we're going to just make a copy
+27:09 of this okay sole position
+27:12 and then I'm going to concentrically
+27:14 resize this
+27:16 well I didn't need to I'm going to
+27:18 concentrically top and bottom resize it
+27:20 just by I don't know maybe an inch
+27:24 and then the in between here we're going
+27:25 to set this to be
+27:28 um let's just call it 5 8.
+27:31 okay and let's open this up
+27:35 and in our structure panel in the
+27:37 surface
+27:38 we're going to add an inch of thickness
+27:40 here one inch
+27:43 okay
+27:45 maybe we want even a little taller I'm
+27:47 going to make it an inch and a half
+27:48 we'll really make it pop
+27:51 now if I want to make this even fancier
+27:53 than that I could I could add into the
+27:55 shadow board let's um
+27:59 let's add or let's replace rather we
+28:02 don't actually want that drip edge so
+28:04 let's replace this
+28:08 let's just go CA Oh gosh01
+28:12 and there we go
+28:14 and then our width is going to be let's
+28:17 call it
+28:19 oh what do we want it quarter inch
+28:20 something like that and then the height
+28:22 is going to be
+28:23 a quarter inch
+28:25 maybe width will be 3 8 of an inch
+28:28 something like that
+28:30 offset the top and let's take a look at
+28:32 what this looks like in 3D
+28:39 okay so this is what we created in 3D
+28:42 now notice we didn't actually get that
+28:45 shadow board to show up correctly
+28:48 um so
+28:49 we need to make sure it's turned on for
+28:51 the selected edges
+28:56 which means I'm going to select those
+28:57 edges somehow
+29:00 like so
+29:03 and now that we have it on what happens
+29:05 well it still doesn't show up and why is
+29:07 that well we need to create that offset
+29:09 as well
+29:11 offset what was it engine 3 8 or
+29:15 something
+29:18 inch base
+29:24 there we go
+29:27 beautiful and what do we do we created a
+29:30 little fin
+29:32 a little standing seam oops I just
+29:34 painted that and plan painted around we
+29:36 don't want to do that
+29:38 let's do
+29:41 oh what do we want we want just
+29:43 component paint mode
+29:48 so there's our little fin
+29:51 let's Center it up and what are we
+29:54 thinking this is maybe an 18 or 24 inch
+29:57 offset
+30:00 foreign
+30:11 yeah that looks right
+30:22 Bam Bam Bam Bam Bam
+30:26 looks pretty good
+30:28 now there would typically be like a cap
+30:31 here so
+30:33 might actually take this
+30:36 copy
+30:37 paste hold
+30:40 and then drag this up the line
+30:45 and then
+30:47 let's turn the gutter profile off
+30:51 just remove the cutter
+30:54 let's remove this drip edge
+30:57 and same thing structure panel
+31:00 now this is the different this this is
+31:03 the difference between my renderings and
+31:05 some other people's renderings I'm going
+31:06 to take a little extra time you're
+31:08 paying for this time I'm going to spend
+31:09 a little extra time
+31:11 to get some of this stuff looking really
+31:13 right so
+31:18 um I do want to add a shout out board
+31:20 here I want to
+31:23 add that ca01
+31:26 again
+31:28 favorite
+31:31 excuseful
+31:33 and let's say that this has like a
+31:34 little two inch overhang and it's
+31:37 half an inch
+31:39 and to the top it's going to be two inch
+31:44 let's see what happens here
+31:48 so we want to turn it off on this Edge
+31:51 that shadow board is going to turn off
+31:53 on this Edge
+31:55 if I can select it
+31:57 might be difficult there we go
+32:04 and we want to turn it on
+32:06 on this Edge
+32:16 which I think this time it's fighting
+32:19 those existing roof planes
+32:24 so we might not see that happen that's
+32:26 okay we're getting close I can do some
+32:28 edits in post
+32:35 um and let's paint this so we can see
+32:36 what this even looks like so let's just
+32:39 play in painter mode
+32:43 there we go
+32:46 I need to turn this Shadow board off
+33:02 so from here that's that's looking
+33:04 pretty good
+33:05 um I would also say that this has
+33:07 probably got
+33:08 a little break here
+33:10 right here
+33:13 this would come down
+33:19 right so I might change the height of
+33:21 this this is a little strong
+33:27 might also just split the middle here
+33:29 and then reflect about Center would be a
+33:31 lot easier
+33:33 I'm going to make this easy and dynamic
+33:36 to fix
+33:37 as we go
+33:41 yeah not quite liking the height of this
+33:43 it's a little strong
+33:48 and also would probably say that this is
+33:51 a square cut
+33:52 and
+33:54 it's just
+33:56 let's just make this ancient five hey
+33:58 it's
+34:05 oh and look that showed up how funny
+34:19 I wonder what that offset's about
+34:21 I'm going to turn it off because you
+34:23 don't want it
+34:27 oops wrong itch
+34:32 let's just delete it for now I don't
+34:33 think I need it
+34:41 I think that's still giving me the look
+34:43 I want
+34:44 regardless
+35:01 oops
+35:06 it had a little funny little discrepancy
+35:13 all right now I'm just spending too much
+35:15 time
+35:21 nothing new this is how we make up new
+35:24 stuff
+35:28 okay so next thing up I want to have
+35:31 some downspouts
+35:32 and
+35:34 give away downspout package that's
+35:35 supposed to make this pretty easy
+35:38 sometimes I feel like just doing it with
+35:40 moldings is easier
+35:43 just drop this in see if you can drop it
+35:45 in in 3D yeah that kind of worked Maybe
+35:53 give us a rotation handle no
+35:56 no but we can explode it
+36:00 and now we get rotation but in the wrong
+36:03 plane
+36:06 I also have a molding here
+36:10 yeah okay so I have a parts kit
+36:13 basically
+36:23 and it won't let you rotate the molding
+36:27 hmm
+36:44 Caleb asks is there any chance of Chief
+36:47 giving us 3D textures at some point soon
+36:50 now what do you mean by 3D textures
+36:54 um
+36:57 what are you referring to
+36:59 I think there's maybe a chance of us
+37:01 getting displacement
+37:03 at some point
+37:05 that would be a thing that I would
+37:07 expect to see
+37:12 um because I feel like they're getting
+37:13 pretty close to that anyways
+37:19 brass feature is pretty cool it's
+37:20 getting better they improved it in the
+37:22 public beta
+37:24 we saw someone using it to create a rug
+37:27 which I thought was pretty funny
+37:29 um not very useful but
+37:32 not you know for the method that they
+37:34 used
+37:35 but
+37:36 all right let's see I want to turn on
+37:40 all these items there we go explode it
+37:46 and
+37:49 should be seeing all my items but I
+37:51 don't feel like I am oh there it is okay
+37:59 boy working in someone else's plans
+38:00 always challenging sometimes I'll take
+38:02 the time to bring this into my own
+38:05 because it's hard to even
+38:06 see what I'm looking at here let's turn
+38:09 off color
+38:11 and I don't want these labels after all
+38:15 there we go
+38:17 now I'm starting to see what I'm looking
+38:18 for
+38:20 which is I want this to actually that's
+38:23 correct that's the grade
+38:25 I just need this to stretch by
+38:30 about that much I'll tab it I'll copy
+38:33 this let's just make it 15. that's an
+38:35 easy one to remember
+38:37 and then I can take this
+38:38 angle move it up
+38:41 tab it 15. that should have it connected
+38:45 correctly
+38:47 that's pretty close to being where I
+38:49 need it to be in terms of this molding
+38:53 let's move it up maybe one inch
+38:56 say yeah less than that
+38:59 in half
+39:02 there we go
+39:04 this is going to go up 15.
+39:08 am
+39:13 um and then actually this is going to go
+39:15 down this is going to go down like this
+39:22 and let's just change our snap grid
+39:25 units to something like 1 16.
+39:29 I can just Arrow this up a little bit
+39:38 oh
+39:44 and now I can take this again paste it
+39:47 up here
+39:56 shouldn't make this whole kit so that
+39:57 Center of this fixture on the side is
+40:00 actually center of the run that would
+40:01 make this way cooler
+40:04 um
+40:06 yeah
+40:27 uh let's see you said for example
+40:29 important bet and siding the buttons
+40:31 could be 3D and automatically placed
+40:33 just
+40:34 a visual play of the detail like we have
+40:36 now so you're kind of talking about
+40:40 I mean the method for that would be a
+40:41 displacement map
+40:43 and and so we don't have displacement
+40:45 Maps yet but I think I think Ryan told
+40:49 me
+40:50 Ryan is the head of
+40:52 Ray tracing
+40:55 um development I think he told me that
+40:57 there that that's
+40:58 in the works I think
+41:01 don't quote me on it though I don't I'm
+41:04 not sure
+41:05 not positive
+41:23 copy let's bring this up
+41:27 to about
+41:28 there maybe they're about
+41:31 I think
+41:35 should I just copy the whole assembly
+41:37 that's okay
+41:40 oh we're missing something what happened
+41:42 here
+41:44 I lost one
+41:47 dang it
+41:52 whoa
+41:58 well you can't do a copy rotate in
+42:00 elevation that was weird
+42:09 don't know
+42:13 do we get snaps here in 3D for a symbol
+42:17 do I have all my Snaps turned on I do
+42:19 that's too bad
+42:22 that'd be slick
+42:26 oh yeah this is off now
+42:28 what'd I do
+43:12 this isn't going to give me a copy paste
+43:14 why because the molding is that what's
+43:16 going on here
+43:18 no it's this and this together won't
+43:22 give me a copy paste interesting
+43:25 but these will okay
+43:57 that did not give me a visual drag
+43:59 interesting
+44:02 I do feel like I'm running into some
+44:04 little problems here and there with X15
+44:05 but I can't put my finger on it
+44:11 look at this one
+44:16 uh that's true I do waste time on this
+44:18 stuff oh
+44:21 helps us make better systems though like
+44:24 if we're taking too much time on
+44:25 something like this it should it should
+44:27 point out that we need a better system
+44:30 right
+44:35 and maybe I'll go make one somehow
+44:44 yeah the other thing is
+44:47 I know I'm gonna get to
+44:48 my my
+44:50 price my price mark on this one is just
+44:53 gonna be just fine even though I'm
+44:55 wasting time
+45:04 and look how much big of a difference
+45:05 that makes here because here's the next
+45:08 here's the next little detail
+45:10 I'm gonna show and also if your client
+45:13 is if you're pricing with your client is
+45:16 you know makes it so that you can afford
+45:18 making these little details makes a big
+45:20 difference
+45:21 um so here's the next one I'm thinking I
+45:23 want which is
+45:24 I'm going to this is one window huh 108
+45:29 108 inch
+45:31 window
+45:33 let me see if instead what do I want I
+45:36 want one of these windows to be open I
+45:38 think that's a really nice
+45:40 feature
+45:42 so if you can have a window open
+45:45 let's see if we can get get rid of this
+45:47 one
+45:48 so it's a 108 by 72.
+45:52 right 108 by 72
+45:54 and let's just
+45:57 figure out what it is what does it have
+46:03 SAS is inch and a half
+46:05 slash grids
+46:08 Etc
+46:10 okay
+46:12 um casing that's our casing
+46:14 it has some kind of one-inch casing
+46:17 don't know what it is okay 108.72
+46:20 so let's put a door in here instead
+46:22 three doors
+46:31 um I'm gonna probably say eight inches
+46:36 to be right above that line
+46:40 which was
+46:45 a
+46:46 and then
+46:50 108 so let's make this
+46:55 whatever this is
+46:57 I think we do math
+46:58 36 so that's correct
+47:03 and
+47:07 uh it's gonna be a glass panel door
+47:12 and inch and a half inch and a half inch
+47:14 and a half bottom is two inches
+47:17 okay
+47:19 and casing is going to have no sill
+47:21 threshold
+47:23 and then
+47:24 lights
+47:30 right
+47:31 and Hardware let's just say no Hardware
+47:37 none
+47:39 okay
+47:42 and then
+47:46 we're gonna let's see just shoot this oh
+47:50 what just happened
+47:55 one 36.
+48:02 right and then
+48:05 Center this bad boy up
+48:09 okay and let's open him up
+48:15 flip its orientation
+48:18 let's make it so that it's only open
+48:24 50 degrees or something
+48:27 make this one do the same
+48:29 actually we can ditch this
+48:32 and just flip this other one about
+48:33 Center
+48:38 maybe we'll just open this one up a
+48:40 little bit more 26 inches
+48:45 yeah we have a little thing to fix at
+48:46 the bottom it's not the end of the world
+48:50 um
+48:51 let's see if we can't grab this casing
+48:55 off of this guy
+48:58 casing
+49:00 has exterior casing let's just select
+49:03 all five it's fine
+49:05 play it
+49:08 like
+49:11 so
+49:13 it's also make sure that we are ditching
+49:16 these hinges
+49:19 foreign
+49:29 and I mean this isn't going to be
+49:30 perfect but for in terms of rendering
+49:32 it's going to be great
+49:44 and we might just have to do something
+49:46 about that cell or I'll just do it in
+49:47 post but that's that looks pretty good
+49:49 that's that's selling it anyways
+49:53 um might need to recess
+49:56 or what's going on we've got some
+49:59 thickness that we didn't have in our
+50:01 in our deal here
+50:04 should I delete the jam on these let's
+50:06 see
+50:09 Jam has jammed side widths
+50:14 and maybe our casing reveals are
+50:16 different
+50:17 revealed quarter inch
+50:24 so let me check that sash again inch and
+50:26 a half inch and a half two and a half
+50:28 depth inset inch and a half okay
+50:31 and then
+50:33 casing one inch width reveals three
+50:36 quarter of an inch there's our there's
+50:38 our big change
+50:44 notice in
+50:47 um X15 they're both called reveal
+50:49 finally been asking that for forever I
+50:52 feel like
+50:54 so that's big
+51:00 here we go now let's now that's looking
+51:02 right except for that bottom piece but
+51:04 I'm just going to fix that in the
+51:05 rendering because this is going to be
+51:06 the shot right there
+51:08 bam
+51:11 thank you cool
+51:13 I appreciate that comment
+51:16 see when you make one it can also be
+51:19 used as a true 3D molding that goes
+51:21 around curves like for hand rails
+51:25 you make one
+51:26 can also be used as a tree three and
+51:29 only it goes around curves like for hand
+51:31 rails
+51:32 yeah you can always do I mean you could
+51:35 do my other the previous method which is
+51:37 just draw in a molding it would have
+51:39 been way faster than using my kit I just
+51:41 wanted to try using the kit so
+51:43 um
+51:44 let's show you the 3D molding version
+51:47 because it's way way faster
+51:50 um for for this use it's just it's not
+51:52 like a general knowledge method though
+51:54 so
+51:55 um
+51:57 but we can still show that maybe we'll
+51:59 do
+52:00 maybe we'll just do one off this back
+52:02 end here because I feel like there would
+52:03 be one anyways so let's do that
+52:07 let's pull our elevation camera
+52:13 and let's just draw in so if we go
+52:16 straight to our library and pick up
+52:18 we've got a downspout profile right so
+52:23 um
+52:25 I say downspout but what's going on here
+52:27 down this is about where's my molding
+52:29 downspout
+52:31 uh models libraries component
+52:34 opponents do that here we go so I got
+52:36 Rob's downspouts so when we click this
+52:38 and then we go to use a
+52:43 um
+52:44 molding tool it should automatically
+52:46 draw with it so let's snap
+52:49 come in here
+52:52 yeah let's get strong with it right
+52:55 and let's just make sure we're inverting
+52:57 this holding on selected Edge extrude
+53:00 inside polyline
+53:02 there we go
+53:04 so now I can drop this back to the
+53:06 building
+53:16 and kind of an easy way of buttoning
+53:19 this all up
+53:20 is
+53:22 um oh and if we know what this roof
+53:24 plane is let's just grab this real quick
+53:26 I'm going to open this roof plane up
+53:27 just so we can see what it is so it's an
+53:29 8 and 12 pitch so if we if we then grab
+53:32 this
+53:33 molding Edge
+53:36 and if we look beforehand if we're
+53:38 showing start and end indicators which I
+53:40 wasn't good job
+53:42 selected line
+53:44 um let's try 8 and 12. see if we can get
+53:47 that
+53:48 lock Center Point sure
+53:52 now that's an inverted 8 and 12.
+53:54 so negative 8 and 12 I guess
+54:01 let's see do we do that
+54:04 does it give me this yeah there we go so
+54:08 now that's lined up
+54:17 the other eight right the other eight
+54:20 and twelve
+54:23 um so then kind of the last thing I
+54:24 could do here is
+54:26 if we convert if we made this just a
+54:28 regular line which is probably my
+54:31 preferred method here
+54:33 um so let's convert this to a regular
+54:34 line
+54:36 and now let's do our
+54:39 um our fill it right and fill it all and
+54:42 do something like three inches
+54:44 and fill it all of them and now that you
+54:47 have that then convert it to your 3D
+54:50 molding line
+54:51 and Target your gutter
+54:53 so that's probably the way I would
+54:55 typically do this because that's that'll
+54:58 give you that bend
+54:59 that looks nice
+55:02 right
+55:03 there you go it's looking pretty nice
+55:04 except for this is the wrong profile I
+55:07 know this because it's wider than my
+55:08 cutter I need the my other profile which
+55:11 is turned
+55:13 um which I think we now can
+55:16 what can we do we can do profile
+55:18 rotation right in
+55:21 in the dialogue
+55:23 awesome oh
+55:25 so easy
+55:30 cool
+55:31 the only problem with this when we drew
+55:33 this it's going to push it way way over
+55:36 or
+55:37 does it push it now it pushes it some
+55:40 distance in between where you drew it in
+55:42 elevation I don't know
+55:45 so I'm just going to place it here in
+55:47 plan View
+55:49 and we should see it on the back end
+55:51 oh I needed to place it further in
+55:56 oops
+55:58 sorry
+56:02 oh let's see which well hey look at this
+56:06 in X15 in the bottom corner here it
+56:08 shows us our XY coordinates right
+56:12 so knowing that we know that let's see
+56:17 the the leg that's showing the red line
+56:20 towards the X if you can see this in the
+56:22 bottom bottom corner
+56:25 I don't have my magnifying tools
+56:27 installed on this machine but anyways I
+56:30 know if I move this I can follow that
+56:34 coordinate in X15 and know that if I
+56:37 push this 24 inches it's going to move
+56:39 it in the direction I want it to
+56:41 Okay so
+56:43 a little trick
+56:44 so I didn't know exactly how far I
+56:46 wanted to push it it's probably like 20
+56:47 inches
+56:49 something like that it didn't need to
+56:51 stop at that roof line that roof line is
+56:53 kind of funny that it doesn't wrap or
+56:55 return a little bit something
+56:58 there we go a little detail
+57:04 let's see I'm gonna pin John's comment
+57:05 can a molding go down and around a
+57:08 curved wall now what do you mean by that
+57:12 um
+57:14 you'd have to give me a little drawing
+57:16 or something
+57:17 like
+57:19 a curved wall is not really curved at
+57:21 the point that a that a molding would
+57:23 intercede it so you mean going down
+57:25 vertically and then taking a turn
+57:28 uh horizontally along a curved path yes
+57:32 it can it's difficult
+57:35 um we'll just check this out we'll take
+57:37 a little breather and
+57:39 my project and do do that as an example
+57:42 see if we can't figure that out
+57:44 so let's just take this wall for
+57:47 instance and we'll back it out and we'll
+57:49 kind of angle it and we'll use our
+57:51 alternate drum method to get this angled
+57:54 like that okay
+57:55 and then
+57:57 now we want a molding to go down from a
+58:00 straight portion up to this so let's
+58:01 just build
+58:02 an upper
+58:04 straight portion I guess
+58:07 um
+58:09 build new floor
+58:12 sure
+58:14 and
+58:16 let's just say that's what are we going
+58:19 to do here
+58:22 see I got some new hotkeys for this does
+58:24 this give me what I want yeah it does
+58:26 God I love I love new hotkeys
+58:31 that was fast
+58:32 right
+58:36 yeah that did exactly what I wanted it
+58:39 to okay
+58:41 oh except for this was
+58:43 interior wall and then exterior wall
+58:45 all right so that's a straight portion
+58:47 down to a curved
+58:49 Fortune
+58:51 and then
+58:52 let's draw an elevation
+58:58 and what do we got going on I'm going to
+59:01 get rid of this roof plane doesn't
+59:02 matter
+59:07 okay so this is a straight wall on top
+59:09 of a curved wall
+59:12 it's not quite lining up it's uh
+59:16 let's turn on our reference okay so yeah
+59:19 if we go up a level not quite lining up
+59:27 there we go
+59:29 that should line up
+59:31 ish ish
+59:33 so let's use we need a 3D molding line
+59:37 so we're going to draw that 3D molding
+59:39 line okay
+59:40 and then
+59:43 we need this to take a turn
+59:45 right
+59:46 now the problem is I drew this on the
+59:48 upper level
+59:53 be nice if I drew it on the lower level
+59:55 let's make sure we've got moldings
+59:57 turned on
+59:59 actually no I did draw it on the lower
+1:00:01 level because it drew it in elevation
+1:00:02 from the first floor I think
+1:00:05 yeah so we did draw it on the lower
+1:00:07 level so here's that vertical leg
+1:00:11 and
+1:00:15 this is a 3D molding
+1:00:17 3D molding
+1:00:20 interesting I'm not getting the ability
+1:00:22 because I think we drew it in elevation
+1:00:26 let's try a different thing so let's
+1:00:28 actually draw it in
+1:00:35 strot in plan view instead
+1:00:39 so I'm going to draw my
+1:00:42 my horizontal run
+1:00:44 and then
+1:00:45 now I can pull that up
+1:00:49 and I should be able to
+1:00:53 yeah you know what it's not letting me
+1:00:55 do it once we bring it up so let's go
+1:00:57 back let's
+1:00:58 smidge let's do
+1:01:02 let's curve it
+1:01:06 okay
+1:01:09 now that's curved
+1:01:11 now can I draw it up
+1:01:14 I believe so
+1:01:16 so that if we just deleted this
+1:01:22 just delete everything in that better
+1:01:24 delete all walls
+1:01:33 Oh I thought we had to delete all walls
+1:01:34 don't we that we had delete all walls
+1:01:37 yes delete all walls
+1:01:47 here we go
+1:01:48 so we had drawn something in a
+1:01:51 horizontal run and we had drawn
+1:01:53 something in a vertical run and we had
+1:01:55 it go along a path now mind you you'd
+1:01:58 have to come in here and and change some
+1:02:00 of the settings in selected Arc and
+1:02:02 everything right
+1:02:04 um for Arc Length arc angle Etc
+1:02:11 um but yes you can get it to do that
+1:02:20 let's try the handrail but it is in the
+1:02:22 segments of the winders large segments
+1:02:24 can you draw over that yeah you can get
+1:02:26 a a handrail to to do what you wanted to
+1:02:28 do especially in X15 because we've got
+1:02:30 elevation snaps and stuff it just
+1:02:33 depends on The View you're drawing from
+1:02:34 and your method so you'd have to give me
+1:02:37 more info on that and and that's kind of
+1:02:40 where I'm going to end it um
+1:02:42 for this segment but we did this at the
+1:02:45 summit I showed how we could do a
+1:02:47 connected handrail and do
+1:02:48 multi-segmented handrails and offsets
+1:02:51 and handrails and all kinds of stair
+1:02:53 tricks
+1:02:59 oops let's get back to my project
+1:03:04 all right
+1:03:08 let's see so
+1:03:10 what else do we have in terms of
+1:03:12 prepping this I think this actually
+1:03:13 looks
+1:03:15 pretty good I might do
+1:03:22 I might do one more gutter profile
+1:03:25 and then
+1:03:27 other than that we want to prep terrain
+1:03:29 so
+1:03:30 we want to get to a view that has
+1:03:33 terrain turned on
+1:03:34 which actually it looks like it does in
+1:03:36 this View
+1:03:44 see where is so this is the terrain
+1:03:47 um so I want to make a little bit of a
+1:03:49 oh there is a sidewalk
+1:03:51 I thought there was going to be a
+1:03:52 sidewalk in this project
+1:03:54 um
+1:03:55 I might use my sidewalk generator tool
+1:04:00 which I think I deleted from my library
+1:04:02 because it creates so many
+1:04:06 um
+1:04:07 vectors
+1:04:10 but it looks so sharp so maybe I'll use
+1:04:13 it
+1:04:14 and I have to remember how to use it so
+1:04:16 let's see if I can install it real quick
+1:04:26 sidewalk generator
+1:04:30 okay
+1:04:48 so this is going to be another use case
+1:04:50 for making a 3D molding kind of
+1:04:52 follow-up path
+1:05:07 and we might crash X15 we'll see
+1:05:13 yeah it's giving you warnings about
+1:05:15 number of extrusions it's creating
+1:05:21 so I've got sidewalk and dirt
+1:05:29 I must have something oops
+1:05:33 my shift Key West but must be bound up
+1:05:35 or something here we go
+1:05:38 sidewalk generator
+1:05:41 sidewalk and dirt
+1:05:46 I think that's the one I want
+1:05:49 sidewalk in dirt
+1:05:52 sidewalk and curve actually looks good
+1:05:58 um with no dirtbed now she shows a dirt
+1:06:00 bed so all right
+1:06:03 so let's just see how this
+1:06:06 rolls out so I've got that selected and
+1:06:10 I just wanna
+1:06:12 I just want a molding line no I want a
+1:06:14 3D molding one okay
+1:06:16 and there we go that should be my
+1:06:18 sidewalk
+1:06:30 and it's doing all kinds of craziness
+1:06:32 let's see what it looks like
+1:06:45 all right so
+1:06:49 I think the easiest way to use this is
+1:06:57 draw out an elevation
+1:07:05 and then should be able to move this
+1:07:07 down into place
+1:07:13 and now let's see what this looks like
+1:07:17 okay so that's getting better
+1:07:27 there we go it's getting even better
+1:07:37 okay
+1:07:40 I actually want to have this stop at
+1:07:43 that drive
+1:07:50 and what it will do will
+1:07:53 we're going to kind of screw it under
+1:07:56 here's where it's challenging to get
+1:07:58 this right using yeah because this place
+1:08:01 is like based on arbitrary points so you
+1:08:05 have to do this in elevation
+1:08:07 if you want to get it to look right
+1:08:20 there we go
+1:08:21 it'll go under
+1:08:23 and over
+1:08:44 and I'll just have to adjust that a
+1:08:45 little bit or I might just since we're
+1:08:47 gonna get a shot from here I might just
+1:08:49 fix this in Photoshop that's not that
+1:08:51 big of a deal
+1:08:52 so that's probably what I'll end up
+1:08:54 doing
+1:08:58 cool cool cool cool we're getting there
+1:09:01 getting the look of this house is
+1:09:04 gonna look pretty sharp so
+1:09:07 um same kind of thing I gotta cut this
+1:09:09 section here
+1:09:26 going about this all goofy but yeah it's
+1:09:28 fine
+1:09:32 oops drag ball
+1:09:39 no need to cut let's just bring this
+1:09:50 well we did a lot of work with the
+1:09:52 um 3D mouse at that Summit event
+1:09:59 so you're seeing that 3D mouse in action
+1:10:02 right now
+1:10:19 there we go it's looking pretty good
+1:10:22 can it this is just for a render so
+1:10:25 we're going to fix this in post that's
+1:10:27 no big deal
+1:10:28 let me see if I can wrap this corner
+1:10:30 without it looking funny
+1:10:36 um where are you seeing this David B
+1:10:38 where are you getting that information
+1:10:39 from
+1:10:45 I like to see a link or something
+1:10:47 because
+1:10:48 um I have not seen that information
+1:11:01 so let me let me know because they have
+1:11:04 a road map that's public and I don't see
+1:11:06 any mention of that in a road map
+1:11:16 oops
+1:11:26 that'd be really really surprising
+1:11:37 also might make me update my computer if
+1:11:40 that was the case
+1:11:44 because right now
+1:11:46 um
+1:11:48 I have an M2 two M2 drives hog and PCI
+1:11:52 lanes and and a 4090 Hogan BCI Lane
+1:11:57 and then amd's giving me a 7900 XT
+1:12:02 can it use two different brands if
+1:12:04 you're curious
+1:12:06 and then
+1:12:09 um
+1:12:12 that's a lot of PCI Lane huggage
+1:12:16 if you're wondering I'd be curious to
+1:12:18 see
+1:12:19 how that affects things
+1:12:24 oh what happened here
+1:12:28 got some weird duplicate here strange
+1:12:33 oh there it goes just disappeared on its
+1:12:36 own that was funny
+1:12:40 all right this is looking pretty good
+1:12:42 pretty dang good okay
+1:12:49 uh does twin motion work on a MacBook
+1:12:51 Pro yes it does but you don't get a path
+1:12:54 tracer
+1:12:55 um which is the reason I'd want to be
+1:12:57 using it but I will say that you could
+1:13:00 use a platform like I render especially
+1:13:04 if they actually enable multi-gpu
+1:13:06 support you could get irender to build
+1:13:08 you a you know to rent you a machine
+1:13:11 because that's a that's a basically a
+1:13:14 render Farm Service they can wrenches
+1:13:17 machine of your spec and and so you
+1:13:20 could have multi-gpu you could have you
+1:13:22 know four
+1:13:23 40 90s if you wanted to rendering out
+1:13:26 path traced animations in Twin motion
+1:13:30 that'd be pretty cool
+1:13:32 hopefully you've got a budget for that
+1:13:34 kind of thing
+1:13:35 all right so let's do the last kind of
+1:13:38 step for the terrain prep before we take
+1:13:40 it to Twin motion
+1:13:46 so I want to create a
+1:13:48 just a material region in a number of
+1:13:51 different ways we could do this but I
+1:13:53 don't know I'm just going to do a
+1:13:54 polyline
+1:13:55 so we're going to just draw out a
+1:13:57 polyline kind of snap it to this Edge
+1:14:00 Bring It Forward
+1:14:05 um I'm gonna bring it all the way to the
+1:14:07 point of this turn here
+1:14:11 Bring It Forward again I can kind of
+1:14:14 oops What's Happening Here
+1:14:16 I'm not able to aim this angle this
+1:14:20 that was a polyline right let's try it
+1:14:22 again
+1:14:27 weird
+1:14:40 that's weird using alternate behavior
+1:14:43 and it's not letting me Bend this
+1:14:45 very strange why
+1:14:49 huh
+1:14:51 okay that was very strange
+1:14:55 you can let me bend it now weird okay
+1:15:04 sure all right let's extend this back
+1:15:11 extend this to here and then
+1:15:15 let's just close it up and fix this
+1:15:19 and then convert it to a Terrain feature
+1:15:25 and we're just going to say that it's a
+1:15:28 quarter inch of the top thickness 3 36
+1:15:30 inches maybe
+1:15:34 color code it make sure that we see it
+1:15:36 correctly
+1:15:37 there's that weird thing happening again
+1:15:45 weird
+1:15:52 I don't know why this is making some
+1:15:54 weird offset
+1:15:56 it's strange
+1:15:59 delete it undo it
+1:16:03 there we go
+1:16:05 that was funny
+1:16:08 continue this out
+1:16:14 okay so there's that material region now
+1:16:16 I want to copy this paste hold it
+1:16:19 and then draw this in
+1:16:21 by 12 inches
+1:16:25 and
+1:16:28 let's now
+1:16:30 let's just subtract
+1:16:32 just from this
+1:16:34 oops didn't do it
+1:16:38 try that one more time
+1:16:45 okay
+1:16:47 targets at handle in 12 inches okay
+1:16:53 use our clip overlapping terrain
+1:16:55 features
+1:17:01 and then let's color code that
+1:17:07 okay so we still have some kind of
+1:17:09 overlay happening let me copy this paste
+1:17:11 hold just so we can use it to subtract
+1:17:14 from this
+1:17:21 no
+1:17:26 that's also not what I wanted all right
+1:17:29 try one more time
+1:17:31 got some new there we go it did exactly
+1:17:34 what I wanted what's going on here
+1:17:39 huh
+1:17:42 if we delete this intersection
+1:17:45 because there's still a hole nope
+1:17:47 there's not okay that's what I wanted
+1:17:54 delete
+1:17:56 yes we're gonna retain this time
+1:18:00 there we go so now if we delete the
+1:18:03 green as there's pink in the middle
+1:18:05 there is weird
+1:18:07 this isn't functioning correctly so no
+1:18:10 no
+1:18:37 all right closest I'm gonna get
+1:18:43 okay I think I'm ready to take this to
+1:18:47 twin
+1:18:49 yeah
+1:18:50 what was this is this a boring Batten I
+1:18:53 can't even tell
+1:19:01 I think this was supposed to be born bad
+1:19:02 and I didn't do it it's just double
+1:19:04 check
+1:19:16 all right so what do we have here uh
+1:19:19 twin motion senior QA Manager David
+1:19:21 supports dual GPA for patch racing
+1:19:24 running all information about this
+1:19:25 functionality will be in the release
+1:19:26 notes okay so supports it
+1:19:31 what does that mean
+1:19:33 that's my only question
+1:19:35 supports it meaning that it's possible
+1:19:37 to use multi-gpu but is it actually
+1:19:41 improving our speed
+1:19:43 would be my next question
+1:19:47 so you need an Envy link or do we not
+1:19:49 need an emblem link like Thea we don't
+1:19:50 need an Envy link
+1:19:52 so I'd be really curious about that
+1:19:57 um can you show the extended landscape
+1:19:58 in an X15 or my confusing twin motion
+1:20:01 with it yes we can show extended
+1:20:03 Landscaping but that's not I don't think
+1:20:05 that's going to be geometry and I
+1:20:07 certainly wouldn't want to use that
+1:20:08 geometry anyways
+1:20:10 um because I'm going to be rendering
+1:20:12 this out in Twin motion
+1:20:14 and then I'm just getting through
+1:20:15 comments here
+1:20:17 two years ago I really wanted to do this
+1:20:18 high contrast black white house now
+1:20:20 everyone is doing it that doesn't matter
+1:20:23 it's still new to your client you know
+1:20:27 um I asked them for pass tracing that
+1:20:29 was the answer they gave me okay
+1:20:32 gotcha
+1:20:37 it's like you know I still put subway
+1:20:39 tile in in houses even though I've done
+1:20:41 it in 5 000 houses have subway tile
+1:20:46 um
+1:20:47 but it's still new to them okay there's
+1:20:49 baton here that I forgot about oh and
+1:20:52 I'm going to do something a little bit
+1:20:53 fun about this this uh this light here
+1:20:56 that's sitting on top of the Baton
+1:20:58 always like to make that you know
+1:21:00 improve that so I'll do that real quick
+1:21:07 okay so we have some baton to do yet
+1:21:12 and I want to make sure I'm painting
+1:21:15 these here I should have done this in
+1:21:17 the first place
+1:21:22 would have been easier now I have to
+1:21:23 paint it in component mode which is slow
+1:21:27 which means it's going to redraw That
+1:21:28 Sidewalk every time
+1:21:37 I also want to make sure those gutters
+1:21:39 are of a particular
+1:21:41 color code
+1:21:43 could be problematic in Twin motion
+1:22:00 well I have to make sure that we make
+1:22:02 one mistake and Achieve so that we can
+1:22:04 show you what happens when we kind of
+1:22:05 re-upload
+1:22:07 um I really want to fix this terrain
+1:22:09 issue this is strange that it's doing
+1:22:12 that
+1:22:14 this is their new make hole situation
+1:22:17 happening I think
+1:22:19 so let's actually hide
+1:22:22 it's hide moldings
+1:22:25 so we can get rid of that
+1:22:28 hide holding layer okay
+1:22:32 and hide all this that street business
+1:22:37 so here it is okay so that's its
+1:22:40 singular
+1:22:42 section there that's what I wanted
+1:22:45 we'll see what this looks like in Twin
+1:22:47 motion when it gets imported there's
+1:22:48 some goofiness going on there
+1:22:51 okay
+1:23:19 yeah it's crazy we even got snaps on the
+1:23:21 on the ridge trim
+1:23:25 craziness
+1:23:34 let's turn the color off so we can
+1:23:35 actually see
+1:23:37 or maybe turn it in Vector there we go
+1:23:42 vector's so slow though
+1:23:46 foreign
+1:24:15 let's Center it up
+1:24:25 let's just do a little little it just
+1:24:27 this detail right here is like one of my
+1:24:30 little favorites
+1:24:31 let's just do a little square here
+1:24:33 something something to catch this right
+1:24:37 maybe it's a square maybe it's around
+1:24:39 what would you do
+1:24:41 what would you do to catch this
+1:24:54 I'm Gonna Save it and we'll kick it on
+1:24:55 to Ray trace and see what's happening
+1:24:57 what's our latest and greatest for this
+1:25:15 brightness has kicked exposures kicked
+1:25:17 way down let's do
+1:25:19 that
+1:25:22 okay
+1:25:24 yeah starting to look like a house right
+1:25:38 um
+1:25:40 how did you get the patents to Auto Trim
+1:25:42 battens uh well material regions will
+1:25:45 always Auto Trim
+1:25:47 and then this this one's a funny one do
+1:25:49 I oversleep this was a very common
+1:25:51 question for me in the uh at the summit
+1:25:54 and well people that were there did see
+1:25:58 that I sleep
+1:25:59 um but I work
+1:26:00 tirelessly so
+1:26:03 um I do sleep
+1:26:05 sometimes I can't sleep and I'll get up
+1:26:08 and work that's true
+1:26:15 um
+1:26:16 let's see here
+1:26:20 just looking these gutters don't make
+1:26:21 sense but that's okay we'll fix them in
+1:26:22 Twin that's no big deal this is it I
+1:26:25 think we're ready
+1:26:34 from light to square wall round one
+1:26:36 would just look like the base so there's
+1:26:38 no point
+1:26:41 yeah okay I think I follow what you're
+1:26:44 saying there
+1:26:46 Cottage keeper said Square
+1:26:49 Caleb said Square yeah I'm kind of
+1:26:51 thinking the same thing
+1:26:54 and then
+1:26:56 do you do know that is a key sign of a
+1:26:59 very high IQ what that we can't sleep oh
+1:27:01 man
+1:27:02 huh
+1:27:06 all right so let's do this one more time
+1:27:08 I don't know what's going on with this
+1:27:10 molding but we'll delete and undo
+1:27:14 just wanted to build some kind of weird
+1:27:16 offset
+1:27:17 and let's export so uh people that went
+1:27:21 to the summit and were in my class know
+1:27:23 this very well as I drilled it into your
+1:27:26 heads if you're on a Mac you don't get
+1:27:28 this but if you are on a PC we get to
+1:27:31 hit alt for our top row menu items f for
+1:27:35 file
+1:27:36 e for export and then I like to export
+1:27:39 as a 3DS in which case it shows that
+1:27:42 underline underneath the D so D for 3DS
+1:27:45 and I am going to uncheck truncate text
+1:27:48 well no I'm going to leave it checked
+1:27:49 and Export this Zoom my project file
+1:27:55 and let's get to that
+1:27:58 no name we're going to make a 3DS folder
+1:28:04 oh
+1:28:06 and we're just going to export straight
+1:28:09 to this so we'll just call this main
+1:28:11 unknown
+1:28:15 there we go let's do its thing and then
+1:28:19 we can fire up
+1:28:21 twin motion
+1:28:48 oh we're waiting for this to fire up and
+1:28:49 waiting for that to export let's see
+1:28:52 export grab sidewalks it seems the
+1:28:54 vertex limit so that's gives us a
+1:28:56 perfect opportunity to export that
+1:28:58 separately
+1:28:59 which we'll show you how to do that in a
+1:29:01 second
+1:29:02 um the core plan exceeds laundry exceeds
+1:29:06 so this is the only problem with
+1:29:09 using a 3DS file format but I still
+1:29:11 prefer it
+1:29:13 I still prefer it because it's not it's
+1:29:16 component based not Material ID based
+1:29:18 export
+1:29:20 so now that I exported that as a 3DS
+1:29:23 now I have to then take this sidewalk
+1:29:26 that we've created and I'm going to put
+1:29:28 it on its own layer
+1:29:31 and so line style Define let's just put
+1:29:35 it on a new layer called blink export
+1:29:37 one so that's going to be the first
+1:29:39 individually exported item that I'm
+1:29:41 going to do and I'm going to change my
+1:29:44 layer set to an all off layer set
+1:29:48 it's going to turn everything off let me
+1:29:50 get to those options and I want to make
+1:29:52 sure that I'm turning on export one
+1:29:56 okay that shows just that sidewalk
+1:29:59 generator now it's exported as a cloud
+1:30:03 file
+1:30:04 so
+1:30:06 curb only
+1:30:09 there we go
+1:30:12 foreign
+1:30:17 let's go ahead and save this
+1:30:21 and then I'm going to shut this down I
+1:30:23 don't think we needed anything from
+1:30:24 there just yet
+1:30:26 and now we're in Twin motion let's
+1:30:28 import
+1:30:44 I want to make sure I'm keeping
+1:30:45 hierarchy everything else just import as
+1:30:48 is
+1:31:01 oh
+1:31:07 um
+1:31:07 main options are 3DS and colada Dae file
+1:31:12 and
+1:31:14 let's just
+1:31:16 Zoom to selection and see what we've got
+1:31:18 okay
+1:31:19 my number six key make this fly around
+1:31:21 real fast there we go
+1:31:25 cool cool cool
+1:31:28 let's drop this down
+1:31:31 all right
+1:31:35 and then let's also import
+1:31:39 or curve only
+1:31:43 now where did our curve only go let's
+1:31:45 see where that is zoom to selection
+1:31:49 huh
+1:31:51 Oh weird that did a terrible import
+1:31:54 export rather
+1:31:58 right pretty bad
+1:32:00 so what happened there
+1:32:02 what happened there chief
+1:32:15 not gonna mess with around with that
+1:32:16 just yet let's keep rolling past that
+1:32:18 for a minute so
+1:32:21 um we see we've got this dirt section
+1:32:23 what happens when we get rid of it aha
+1:32:26 that's what I wanted
+1:32:27 and I really don't care about the
+1:32:29 terrain that's going to disappear
+1:32:33 um and then I can get into my library
+1:32:35 and do a few things if my library is set
+1:32:37 up oh it is cool
+1:32:40 by the way this is a meat let's see this
+1:32:42 is a new
+1:32:44 machine oh you said two-sided that was a
+1:32:47 good point David
+1:32:49 good
+1:32:50 call
+1:32:52 good call
+1:32:53 let's try that again
+1:32:55 so
+1:33:00 you think it might be inside out and I
+1:33:03 don't think so
+1:33:05 I think it's just not here
+1:33:13 yeah no that's as big as the geometry as
+1:33:15 we can tell because of the way it's
+1:33:16 highlighted
+1:33:20 it's not inside out it just didn't
+1:33:22 export correctly
+1:33:30 I like your thought though that was a
+1:33:31 good thought yeah
+1:33:36 okay so I've got a few things here
+1:33:38 already built up
+1:33:40 um border grass there's a grass grass
+1:33:41 one let's draw a grass one in here and
+1:33:44 then we can grab him and apply it here
+1:33:47 just like so a couple times maybe three
+1:33:50 four times
+1:33:51 and then let's get back into my library
+1:33:57 back in the Landscaping grass and let's
+1:33:59 get that border grass in here
+1:34:02 and grab it and apply it just like so
+1:34:08 a couple times three four five times
+1:34:10 sure why not
+1:34:13 let's get back into my library and get
+1:34:15 into my materials
+1:34:17 getting a landscaping and materials oops
+1:34:22 and I like this Forest ground texture
+1:34:28 and maybe we'll do that same Force
+1:34:30 ground texture there
+1:34:31 so that's already going to start looking
+1:34:33 pretty good
+1:34:36 let's see what we can do about
+1:34:41 do some stuff with lighting here let's
+1:34:43 get a backdrop hdri have that load up
+1:34:49 um where is center of our house center
+1:34:52 of our house is actually in a good spot
+1:34:53 not too bad anyways
+1:34:56 um it's a little off
+1:34:58 so how do we fix that it's been a while
+1:35:00 let me see if I can figure this out
+1:35:04 I think I can fix it by Landing my
+1:35:06 camera here and
+1:35:09 projection offset no
+1:35:12 height offset yes Center to camera there
+1:35:15 we go
+1:35:16 so now we centered
+1:35:18 that to camera
+1:35:24 um actually let's just drop it down a
+1:35:26 little bit Center the camera there we go
+1:35:28 that's what I wanted
+1:35:34 it's still a little off
+1:35:36 let's try it let's try pushing it
+1:35:38 forward a little bit
+1:35:42 get better
+1:35:54 still a little off
+1:35:58 that's pretty
+1:36:00 good
+1:36:02 kind of wanted to push this way a little
+1:36:04 bit more
+1:36:13 yeah that's getting much better as we
+1:36:16 get our composition
+1:36:19 mess around with the composition a
+1:36:20 little bit let's get into our camera tab
+1:36:22 Field view let's set this to I don't
+1:36:25 know let's do something like that
+1:36:27 five
+1:36:29 that's looking pretty good
+1:36:34 let's see what path Tracer looks like
+1:36:44 okay so we're going to do a couple
+1:36:46 settings little tweaks
+1:36:49 um
+1:36:51 let's get into our lighting again and we
+1:36:54 want our sun intensity up
+1:36:58 and then I want to rotate my sun intense
+1:37:00 my my son basically
+1:37:04 um
+1:37:09 we might want to rotate the backdrops
+1:37:11 let's kick this on again
+1:37:34 [Music]
+1:37:36 kick this on low just so we have a
+1:37:38 faster preview
+1:37:43 what graphics card is this I will show
+1:37:46 you my friend we have here look at the
+1:37:50 bottom Banner right now this is what we
+1:37:51 got going on so
+1:37:53 um this is a sponsor machine from AMD
+1:37:56 I've been using it for
+1:37:58 solid couple weeks now
+1:38:01 um it's been screaming fast it's way
+1:38:04 faster than my 3080 mobile 11 11 900k
+1:38:09 Intel
+1:38:10 um and that's since they uh since they
+1:38:14 released the newest driver and they
+1:38:17 claimed that it was 30 to 50 percent
+1:38:19 Improvement in Ray Trace speed I noticed
+1:38:22 immediately 30 percent Improvement in
+1:38:25 some Ray Trace speed from some of my
+1:38:28 scenes that I've rendered out many many
+1:38:30 times across multiple machines including
+1:38:32 40 90 machines so
+1:38:34 um I also have an external agpt egpu
+1:38:37 that's got a 6950
+1:38:40 and that's not hooked up right now but
+1:38:43 I'll be hooking that up for next next
+1:38:45 time and then I have a 7900k coming
+1:38:48 tomorrow so we'll check that out we're
+1:38:51 going to compare that to the 40 90. so a
+1:38:54 couple cool things
+1:38:57 all right so look I did the fins on the
+1:39:00 one
+1:39:02 roof plane but I forgot the other one
+1:39:04 that was Goofy silly
+1:39:08 um all right so let's do a couple things
+1:39:10 here
+1:39:12 really would be nice if we had that
+1:39:14 sidewalking because it looks pretty
+1:39:16 goofy right now
+1:39:19 um Let's do let's make some improvements
+1:39:22 oh geez
+1:39:25 let's make improvements to this black
+1:39:29 yeah somewhere in that 50 range
+1:39:33 and
+1:39:35 this batons are barely popping off but I
+1:39:39 thought I set those to three quarters of
+1:39:40 an inch and they seem like they're
+1:39:41 barely popping out of the building
+1:39:44 strange
+1:39:57 did I not I thought I did
+1:40:00 they don't look like they are though
+1:40:05 oh it's cut finish layer was still
+1:40:07 selected dang it that's why they look so
+1:40:09 tiny
+1:40:10 all right let's grab all of them
+1:40:14 undo that
+1:40:17 and then
+1:40:20 undo all this what happened here let's
+1:40:23 see three quarters let's just make them
+1:40:26 Stout I think I'm really stand out okay
+1:40:32 there we go
+1:40:34 now we're gonna have to re-export now
+1:40:35 people talk about wanting the the
+1:40:37 plug-in for
+1:40:39 um
+1:40:40 for Chiefs straight to Twin motion
+1:40:43 and
+1:40:45 what I like to say about that is
+1:40:51 um
+1:40:52 that's weird weird
+1:40:54 color texture going on there
+1:40:56 to we get our standoff here we did not
+1:41:07 um what I like to say is it's actually
+1:41:09 pretty quick and I'll show you that in
+1:41:11 just a minute after I fix
+1:41:13 more buttons all right so we got some
+1:41:15 second floor patent things going on here
+1:41:21 happening second floor buttons yes okay
+1:41:30 foreign
+1:41:44 there we go
+1:41:46 looks way more Stout okay better
+1:41:51 and I don't know why this is taking on a
+1:41:53 wood texture that's too bad
+1:41:56 maybe they're using a material region
+1:41:58 somewhere else oh we also need to fix
+1:42:01 make this roof like that roof
+1:42:04 which I didn't do
+1:42:06 but let's just show you let me just show
+1:42:08 you how we can do this
+1:42:10 um
+1:42:11 there's one key step here which is I'm
+1:42:15 going to get into
+1:42:16 where I exported those 3DS files I'm
+1:42:19 going to group
+1:42:20 by type
+1:42:23 and I just want to make sure I'm
+1:42:25 selecting all my pngs and jpegs
+1:42:29 right
+1:42:32 it's all these and let me just get rid
+1:42:34 of them
+1:42:36 yep to leave for everyone don't ask me
+1:42:38 again okay
+1:42:40 now let me do that alt f e d
+1:42:44 and make sure I truncate the same way
+1:42:49 main unknown
+1:42:51 there we go
+1:42:53 oh you're right the stone just
+1:42:55 disappeared
+1:42:56 I know why because they were using
+1:42:59 material regions and I group selected
+1:43:01 material regions and affected them oops
+1:43:06 so now I gotta go back and redo that
+1:43:09 good catch Tyson
+1:43:16 so let's check this out though let's go
+1:43:18 back to Twin motion so we did what we
+1:43:21 did
+1:43:22 one little hotkey to do the export you
+1:43:24 come over here to import and you only
+1:43:27 have to hit
+1:43:29 it's as many steps as Revit or SketchUp
+1:43:33 or any other plug-in that you might have
+1:43:36 it's one single click to re-import with
+1:43:39 that new
+1:43:41 geometry
+1:43:42 Okay so people talking about needing a
+1:43:45 plug-in you don't need a plug-in it's
+1:43:47 exactly the same number of steps as if
+1:43:49 it were an official supported plugin
+1:43:55 and Tyson your right
+1:43:58 client uses the material region there I
+1:44:00 screwed that up oops
+1:44:24 so we can grab this
+1:44:27 what else this
+1:44:29 yeah
+1:44:31 sure that guy
+1:44:33 I think that's it let's copy this and
+1:44:35 see what happens
+1:44:55 okay that's back in place that looks
+1:44:57 right right yeah and now I just need to
+1:45:00 do that last little standing seam deal
+1:45:04 same way we do that other one so copy
+1:45:07 paste hold
+1:45:13 we're going to crash something soon I
+1:45:14 just feel it
+1:45:25 uh deleting the textures fixes that yes
+1:45:28 deleting the textures does fix that I
+1:45:30 finally figured that out
+1:46:21 quarter inch
+1:46:26 25x
+1:46:39 good one in the top and bottom Maybe
+1:46:43 no better profile
+1:47:02 I don't remember when I made this half
+1:47:03 inch Maybe
+1:47:07 oh and just need to turn on Shadow
+1:47:09 boards on that selected Edge
+1:47:35 Center it up
+1:47:56 I don't I just realized I don't know why
+1:47:58 I have my headphones on I'm not
+1:48:00 listening to anything
+1:48:00 [Laughter]
+1:48:03 and they hurt my ears
+1:48:14 what a knucklehead
+1:48:54 foreign
+1:49:34 excuse my language
+1:49:55 yeah I mean the coding on these software
+1:49:57 is they're just trying to keep up with
+1:49:58 demand and coding's not always super
+1:50:00 clean and
+1:50:01 things happen crashes
+1:50:15 did I just do that wrong I did huh
+1:50:19 plumber Square no I want it square cut
+1:50:21 that's right
+1:50:24 oh well that's close enough
+1:50:28 yeah that's looking pretty good
+1:50:33 okay
+1:50:34 all right so
+1:50:36 let's try this again
+1:50:43 oh and you know what I forgot I I like
+1:50:46 to add a few building details to some of
+1:50:48 this stuff see
+1:50:50 what do I call that
+1:50:54 and
+1:50:55 and pipe
+1:51:01 yeah I've got like some vent stacks
+1:51:06 I used to make these so they would
+1:51:08 actually sit on top of the roof
+1:51:10 not sure if I still have that or not
+1:51:14 but actually come in here and like find
+1:51:15 out where the bathroom is
+1:51:19 right second floor bathroom actually
+1:51:21 there's no baths in the back so you
+1:51:23 wouldn't even see it
+1:51:25 kitchens in the front so you might see
+1:51:26 it in the front
+1:51:29 no but you're not going to see it from
+1:51:30 this angle okay so we don't need any
+1:51:32 roof features
+1:51:34 and then sometimes I put like
+1:51:37 utilities so if utility was coming in
+1:51:39 way over here something like that
+1:51:45 okay
+1:52:07 all right
+1:52:24 that's funny
+1:52:27 now's the good time to do it I'm I'm
+1:52:29 exporting things it's going to take me a
+1:52:30 second
+1:52:44 all right so let's see if I can get that
+1:52:49 man I want this to export that would be
+1:52:51 a bummer if we can't let's see
+1:52:54 what's going on with this
+1:52:57 so we could do with three wtg DWG I mean
+1:53:03 is the only other option if this doesn't
+1:53:05 actually export correct the only other
+1:53:08 thing I could think of is
+1:53:12 let's see what happens if we open that
+1:53:15 Dae in SketchUp
+1:53:26 be a shame if I did all that work to get
+1:53:27 that sidewalk and then it didn't work
+1:53:31 let's see Dropbox project directory
+1:53:37 um
+1:53:38 Studio Projects
+1:53:41 unknown
+1:53:42 3DS
+1:53:44 and
+1:53:48 pie file
+1:53:51 yeah look at that it's just not coming
+1:53:53 in from Chief correctly at all great
+1:53:57 so let's see if we can get Chief to
+1:54:00 export some other means
+1:54:06 yeah uh
+1:54:08 [Music]
+1:54:25 and let's see you can twin motion import
+1:54:27 a DWG I don't think you can
+1:54:38 we can do a dxf
+1:54:47 so let's try so what happens there as
+1:54:50 well export
+1:54:54 [Music]
+1:54:54 um
+1:54:55 but we want a dxf
+1:55:00 well so this says DWG dxf but it doesn't
+1:55:03 give us the option
+1:55:04 here
+1:55:06 AutoCAD DWG dxf all right so let's try
+1:55:10 dxf curve curve
+1:55:14 that actually works doubtful kind of
+1:55:17 doubt it
+1:55:33 yeah it's still not exporting correctly
+1:55:48 that's a d e import
+1:55:53 WG
+1:56:01 no no still same problem wow crazy
+1:56:05 right
+1:56:07 okay so let's try something else
+1:56:14 let's try
+1:56:17 we're going to take this we're going to
+1:56:18 convert it to a symbol fixture
+1:56:22 don't want it
+1:56:24 do that and
+1:56:27 let's place it
+1:56:36 yeah even when it's converted to a
+1:56:37 symbol it's not doing it correctly
+1:56:40 what a bummer
+1:56:42 what's going on chief
+1:56:45 that's terrible
+1:56:53 huh
+1:56:58 that's a shame
+1:57:01 man
+1:57:06 I don't know what other options I have
+1:57:07 this seems like it's a I didn't have a
+1:57:09 problem with this in um
+1:57:12 I don't have a problem with this in the
+1:57:14 x14
+1:57:16 so what if we do a break and then oh
+1:57:19 there is no complete break
+1:57:30 okay what if we did this in segments
+1:57:40 let's just try that real quick
+1:57:43 so the convert to symbol will do the
+1:57:45 same
+1:57:46 thing
+1:57:48 as an export would
+1:57:56 that still doesn't show correctly
+1:58:07 how much of this do we have to delete to
+1:58:11 get it to show correctly
+1:58:39 foreign
+1:58:41 so that was a short enough section so I
+1:58:43 only have to export this in sections if
+1:58:45 I really want to use it what a shame
+1:58:49 that's that's crazy
+1:58:59 so
+1:59:11 yeah bug report you got it
+1:59:16 bummer
+1:59:23 why is this not letting me select this
+1:59:25 one Edge
+1:59:37 so let's see if I can get that SEC
+1:59:39 segment to export
+1:59:56 okay so I got that segment to export
+1:59:59 which means
+2:00:09 I can
+2:00:10 set the take this next segment
+2:00:16 what a pain this isn't worth watching is
+2:00:19 it ask me questions
+2:00:32 oh it's not on molding that's X
+2:00:40 it's not showing because we're on the
+2:00:41 wrong level
+2:01:22 I think this corner is what was causing
+2:01:25 problems
+2:01:54 oops still missing that curve
+2:01:56 what happened there
+2:02:03 okay come on
+2:02:14 all right I think you got it let's see
+2:02:17 what happens
+2:02:19 so we just need an import
+2:02:26 test segment one keep hierarchy import
+2:02:32 and then import
+2:02:36 to segment two
+2:02:38 okay
+2:02:43 and where do those end up
+2:02:50 oh man still problems
+2:02:54 what a pain
+2:02:56 okay so that absolutely didn't work
+2:02:58 even as a 3DS file
+2:03:05 too bad
+2:03:06 you have to come up with something
+2:03:07 different
+2:03:13 I think it just defeated me
+2:03:19 yeah
+2:03:20 um I'm thinking that that corner
+2:03:22 segment's a big problem
+2:03:25 so
+2:03:28 um if we get rid of that corner segment
+2:03:30 like entirely
+2:03:32 somehow
+2:03:36 what do we do
+2:03:38 um
+2:03:41 yeah I don't know
+2:03:46 I mean it's clear there's no geometry in
+2:03:48 it I get I get what you're getting at
+2:03:50 there but
+2:03:54 so
+2:03:56 fake it I can fake it
+2:03:59 you know
+2:04:00 really want to see a really easy way to
+2:04:02 fake this
+2:04:05 what's this
+2:04:06 let's see where's my roads
+2:04:12 there you go real easy way to fake it
+2:04:16 foreign
+2:04:43 that's weird
+2:04:55 doing some weird zoom out thing as I try
+2:04:57 to drag this material onto there
+2:05:00 um let's get into import
+2:05:03 where's our main unknown we need to
+2:05:06 re-up this
+2:05:14 there we go there's our additional fins
+2:05:30 yeah I'm thinking about that Tyson I
+2:05:32 might
+2:05:33 um I might go try that in x14
+2:05:40 we pretty much have to do it from like a
+2:05:43 reference PDF or something
+2:05:46 because it definitely worked in x14
+2:05:51 I would eliminate that that possibility
+2:05:54 right
+2:05:56 um all right so let me get into my
+2:05:57 Metals we're going to do a couple things
+2:05:59 I want iron on this
+2:06:03 let's just do full replace material and
+2:06:06 see what this
+2:06:08 screws up so the trim was the same color
+2:06:10 as the downspouts and gutters and that's
+2:06:12 coming from that person's plan defaults
+2:06:15 which is too bad
+2:06:17 um
+2:06:18 but also not the end of the world so
+2:06:25 and then
+2:06:26 let's see I don't have a solid colors
+2:06:28 section I should everyone should always
+2:06:31 have a solid colors section
+2:06:36 you can just replace it with drywall or
+2:06:39 what
+2:06:40 white electrical trim white vinyl there
+2:06:43 we go
+2:06:46 final is going to apply to all this
+2:06:49 um now keep in mind when you pull from
+2:06:52 your library it's going to produce a
+2:06:54 unique material every time but if you
+2:06:56 apply from your library and then pull
+2:06:58 from your bottom tray it's no longer a
+2:07:01 unique material
+2:07:05 so it's going to be the same material
+2:07:25 man that's doing something weird see how
+2:07:27 it jumps my screen back isn't that
+2:07:28 strange
+2:07:32 yeah whoa what is that about
+2:07:35 oh I'm touching my wheel that's funny
+2:07:38 not used to that
+2:07:39 it's a different Mouse I'm using the
+2:07:42 g604 instead of my g602 and it's like
+2:07:46 it's got some oh yeah
+2:07:49 see if I can lock that
+2:07:52 there we go better
+2:07:59 touchy touchy little thing
+2:08:12 oops what'd I do
+2:08:18 no I don't have my twin motion uh
+2:08:21 radio menu setup oops that's too bad
+2:08:34 yeah there I mean I tried converting it
+2:08:36 to a fixture and it wouldn't work
+2:08:38 David
+2:08:44 no it wouldn't be like it shouldn't be
+2:08:46 machine based
+2:08:48 um it's going to be specific to X15 I'm
+2:08:50 pretty sure
+2:08:55 you don't need to rename your already
+2:08:57 used version of the material in your
+2:08:58 twin motion object to have multiple
+2:09:00 unique instances in Twin motion
+2:09:03 let's see you don't need to rename your
+2:09:05 already used version of that material in
+2:09:07 your twin motion object to have multiple
+2:09:09 unique instances in Twin motion now
+2:09:11 there's a couple of ways around that
+2:09:13 um but keep in mind I exported as 3DS
+2:09:17 which is component based not die which
+2:09:20 is material based so all of my objects
+2:09:24 come in as unique objects they're not
+2:09:26 you know jumbled together with anything
+2:09:29 else that uses the same material and
+2:09:32 that's why I like the 3DS export method
+2:09:38 okay let's get Roofing
+2:09:41 and let's draw my groove material in
+2:09:43 here
+2:09:47 there we go that's looking better
+2:09:50 um let's replace this metal
+2:10:01 so that replaced the siding as well see
+2:10:04 there's I don't know why the siding
+2:10:06 would be the same material as the
+2:10:07 roofing material that's silly
+2:10:12 um
+2:10:13 I have one of these it's like
+2:10:16 standing seam metal ah there we go that
+2:10:19 is brilliant
+2:10:22 that looks fantastic
+2:10:25 um oops
+2:10:27 I had a step touch on this mouse wheel
+2:10:29 man this is touchy touchy touchy
+2:10:32 so this is the only problem with this
+2:10:34 approach is it's going to take forever
+2:10:36 to get all those little fins
+2:10:38 so let's do the inverse let's
+2:10:42 apply this and then fix anything that
+2:10:48 had adjusted
+2:10:50 all right
+2:10:56 let's get a siding material here
+2:11:15 uh let's see
+2:11:17 what do we have
+2:11:23 did the stone on the front disappear no
+2:11:25 we've still got the stone just looks a
+2:11:27 little ugly
+2:11:29 um
+2:11:31 and I probably have a stone that will
+2:11:34 look better like this one
+2:11:36 if we scale it up a bit
+2:11:42 I'll have to do a couple things to make
+2:11:43 that look nice
+2:11:46 and then
+2:11:49 same thing with the siding I don't think
+2:11:51 I want this grunge to be so heavy
+2:11:59 the 255 255 251
+2:12:09 5
+2:12:13 reflection let's go 50 on that
+2:12:25 might bring this more towards a taupe
+2:12:30 it's not going to look this way when we
+2:12:32 render it it's gonna look a little bit
+2:12:34 better when we start rendering this
+2:12:47 yeah starting to look like something
+2:12:53 I like this wood being material they
+2:12:54 used that's pretty slick
+2:12:56 um I wonder if we can upscale this
+2:12:59 see if we can
+2:13:01 so let's get into
+2:13:06 when I by the way when I'm doing these
+2:13:08 videos
+2:13:09 I'm not so rushed for time because
+2:13:14 this is supposed to be fun
+2:13:18 interacting with you guys so I don't
+2:13:20 mind doing some little little offshoot
+2:13:22 stuff like this so it looks like they
+2:13:24 took this
+2:13:25 siding material and blew it up
+2:13:29 so I'm gonna see if I can't
+2:13:31 um
+2:13:32 see if we can use Photo AI to mess with
+2:13:34 this
+2:13:47 so we're gonna
+2:13:49 upscale this bad boy
+2:13:56 yeah that already looks better
+2:13:59 let's remove a little bit of noise
+2:14:03 let's sharpen it as well
+2:14:09 let's sharpen it more
+2:14:15 kind of liking that it looks a little
+2:14:16 muddy but
+2:14:22 foreign
+2:14:24 but I'm not bothered by it
+2:14:27 let's drop Clarity down
+2:14:33 and I only want to enhance resolution
+2:14:36 two times Maybe
+2:14:49 yeah let's go back to four times
+2:14:55 okay and we're gonna save this
+2:15:05 and now
+2:15:07 should be able to grab this
+2:15:12 oh yeah immediately better
+2:15:16 look at that wasn't that nice
+2:15:21 kind of slick
+2:15:23 um I want to mess with the
+2:15:26 stretch here
+2:15:29 something like that okay
+2:15:34 I don't like the displacement on this
+2:15:36 Zone I think we could do much better but
+2:15:38 who knows
+2:15:40 let's see there is parallax
+2:15:45 there we go
+2:15:47 we're gonna end up doing some photoshop
+2:15:49 touches to that
+2:16:03 yeah this is looking pretty Sharp
+2:16:09 let's grab this we're going to duplicate
+2:16:11 this texture
+2:16:12 and then
+2:16:15 um in the
+2:16:17 scale we're going to rotate it 90. and
+2:16:21 now we want to apply it back to just the
+2:16:23 object
+2:16:26 and then
+2:16:28 let's scale it
+2:16:32 and actually let's move it
+2:16:36 on y
+2:16:40 like so let's stretch on x
+2:16:48 and then I'm going to fix some of this
+2:16:50 in Photoshop no big deal
+2:16:57 right
+2:17:04 now let's kind of move our background a
+2:17:06 little bit we'll save this make sure I'm
+2:17:08 saving it anyways
+2:17:11 Barn Doe
+2:17:27 okay
+2:17:31 fix that actually
+2:17:33 let's see
+2:17:47 oh that's better
+2:17:50 okay
+2:17:51 let's get our lighting right let's get
+2:17:54 our backdrop rotation set up
+2:18:02 I think that's kind of fun it's
+2:18:04 splashing across the face let's try the
+2:18:07 other way
+2:18:24 kind of like the light spilling into the
+2:18:26 wall into the rooms that's cool
+2:18:32 I want to make sure that our
+2:18:36 Sun intensity is up
+2:18:42 that gives us those Shadows
+2:19:47 that roof looks perfect
+2:20:00 I forgot to do material regions on this
+2:20:02 side but goofball
+2:20:09 dang it
+2:20:23 okay now let's throw on some Landscaping
+2:20:25 see if we can get that
+2:20:27 and then what happened here we've got
+2:20:30 some
+2:20:31 stuff's getting in the way of our
+2:20:32 driveway
+2:20:49 interesting I'm selecting this and it's
+2:20:52 not giving me the tools for it
+2:20:59 there we go
+2:21:11 huh
+2:21:33 strange
+2:21:53 let's try this
+2:22:09 oh
+2:22:34 yeah I'm gonna have to do some fixes to
+2:22:36 drain
+2:22:37 this is not coming out the way I wanted
+2:22:39 to
+2:22:50 uh there's a laptop
+2:22:53 it's a laptop wrong
+2:23:02 I'm not sure why this is not letting me
+2:23:04 erase
+2:23:06 look I have all kinds of problems in
+2:23:08 this episode
+2:23:12 all right let's just get rid of it see
+2:23:16 what happens
+2:23:44 not letting me erase
+2:23:46 very strange
+2:23:51 foreign
+2:25:12 terrible
+2:25:14 okay well
+2:25:16 that's too bad
+2:27:34 laughing at you
+2:27:35 College Keepers laughing at you
+2:27:39 uh yes it's a low path tray setting I
+2:27:41 just use it for preview
+2:28:02 what is going on with this this is not
+2:28:03 centered funny
+2:28:11 must be an old
+2:28:13 file of mine
+2:28:15 let's try this oh shoot I forgot I'm not
+2:28:18 set up here see
+2:28:21 Center pivot
+2:28:25 yeah there we go
+2:28:49 so I like to just put stuff in place
+2:28:51 even if it's not what's going to be
+2:28:53 there in its final form just to kind of
+2:28:57 get a feel for things
+2:29:15 as far as this thing hasn't crashed yet
+2:29:24 oh
+2:29:28 yeah
+2:29:29 still hasn't crashed I'm impressed
+2:29:38 I could actually probably just keep this
+2:29:41 the way it is right now and do the rest
+2:29:43 of my work in Photoshop if I wanted to
+2:31:33 please
+2:33:29 all right let's try this out see what we
+2:33:31 are test render why not
+2:34:15 um I thought this version already did
+2:34:16 16k renders
+2:34:28 I really wish they would just fix the
+2:34:31 performance issues performance is really
+2:34:33 really slow
+2:34:35 um like significant enough that I won't
+2:34:37 use it
+2:34:53 I don't think I'm ready for twin motion
+2:34:56 I'd hoped it would be a solution for my
+2:34:57 MacBook Pro to offer beautiful earnings
+2:34:59 in a sales pitch
+2:35:01 um well it's just it's just not going to
+2:35:02 do path tracers so
+2:35:04 it's not quite there yet
+2:35:06 um
+2:35:07 yeah and I mean you know we've been
+2:35:10 saying this Mac just isn't for this
+2:35:13 industry in my opinion
+2:35:16 um
+2:35:19 car windows are whites
+2:35:21 buddy Robinson car windows are white
+2:35:24 because
+2:35:25 um
+2:35:27 that's a glitch
+2:35:29 they're not when it with path Tracer
+2:35:32 though it's a different um
+2:35:34 different thing with path Tracer so let
+2:35:37 me make a little save here before I
+2:35:38 crash everything
+2:35:41 let me also
+2:35:44 close this out and save it
+2:35:55 and then we're gonna fire up Photoshop
+2:35:57 and just see what we what happens when
+2:35:59 we throw a quick filter at this
+2:36:02 oh this machine is so fast I just love
+2:36:06 it
+2:36:09 I asked the AMD rep and he's like
+2:36:12 I asked him like do I need am I forced
+2:36:14 to talk about this do I have to talk
+2:36:15 about this he's like no just use it and
+2:36:17 enjoy it and if you enjoy it talk about
+2:36:19 it and then like okay
+2:36:21 so if I don't like it I don't have to
+2:36:22 talk about it
+2:36:24 and I'm using it and it's great and I'm
+2:36:27 not lying and I don't get paid for this
+2:36:29 so yeah
+2:36:31 um
+2:36:32 kind of wild this thing is fast I like
+2:36:35 using it and I have a desktop with a 40
+2:36:37 90 in it
+2:36:39 and here I am using this thing
+2:36:43 um all right so let's see
+2:36:47 so let's just see what happens when we
+2:36:48 just do some quick filter stuff
+2:36:51 and I mean you know I'm gonna end up
+2:36:53 doing some background replacement
+2:36:54 stitching in Chief I'm probably going to
+2:36:57 get rid of this tree and do my own
+2:36:59 overlays with trees I just want to see
+2:37:02 this is what I would call just a test
+2:37:04 through where where I'm gonna look at
+2:37:06 some just quick filters like that's a
+2:37:09 pretty
+2:37:11 quick Dynamic look at this
+2:37:15 see what we can get looks wise
+2:37:21 all right so we don't want anything in
+2:37:22 The Season's spring
+2:37:25 let's try summer summer is a little
+2:37:28 harsh too
+2:37:30 these are all pretty aggressive filters
+2:37:32 I don't so I don't like Seasons ones
+2:37:35 cinematics always aggressive
+2:37:38 um cinematic 2 is not as aggressive
+2:37:41 sometimes
+2:37:43 like that's pretty nice cinematic 15.
+2:37:47 um futuristic is kind of aggressive
+2:37:54 so it's funny light skin medium Skin
+2:37:57 Deep skin can sometimes be
+2:38:00 good
+2:38:04 I like this vignette thing it's doing
+2:38:07 I think I like this pmo2 medium skin and
+2:38:11 then
+2:38:12 let's just see what happens when we
+2:38:14 start messing around with a little bit
+2:38:15 of the basics
+2:38:17 um
+2:38:18 pull Clarity up
+2:38:21 versus down Pull Clarity up we can
+2:38:24 dehaze down
+2:38:26 oh you're right look at that the white
+2:38:28 didn't come out correctly
+2:38:30 on that uh
+2:38:33 on the car funny
+2:38:41 so I don't need to pull Vibrance down
+2:38:43 but in the color mixer we can kind of
+2:38:45 pull the greens in towards
+2:38:48 and
+2:38:51 yellows
+2:38:54 desaturate that's tiring it
+2:39:02 to blue bright blue
+2:39:05 maybe we can throw something in
+2:39:07 highlights
+2:39:13 you throw blue and highlights
+2:39:25 uh this is getting pretty far away from
+2:39:27 the look I want
+2:39:46 looking crazy
+2:39:56 that shot it's a little bit blown out
+2:39:59 it's funny
+2:40:11 so what I'll end up doing is I'll come
+2:40:13 in here
+2:40:14 and I'll start making this Stone feature
+2:40:17 be a more Stone like that's going to
+2:40:19 trick your eyes we need to fix the
+2:40:20 battens here you need to fix the
+2:40:22 background replace the background
+2:40:24 entirely probably
+2:40:27 some of this stuff's looking pretty good
+2:40:40 two motion uses dxr dxr supposedly can
+2:40:43 use multiple gpus for Ray tracing if you
+2:40:45 look at game benchmarks sometimes AMD
+2:40:47 wins wonder if it's in dxr games
+2:40:52 um
+2:40:53 I don't know I'm holding my breath man
+2:40:55 until I see it I don't I don't quite
+2:40:57 believe it yet that's because it's never
+2:41:00 been the case before and if
+2:41:02 twin motion gets it before unreal that
+2:41:04 doesn't make any sense so and I haven't
+2:41:06 heard anything about unreal having it
+2:41:08 and it's not in their public roadmap
+2:41:11 so it sounds kind of crazy that they
+2:41:13 would say that they're doing that but
+2:41:14 hey if we see it we see it that's great
+2:41:18 um how much vram that's a good question
+2:41:20 when I was 16 AR ha 76850x I mean I feel
+2:41:24 like that's a quick look up
+2:41:26 so 68
+2:41:36 Asian
+2:41:38 seven
+2:41:43 10 gigabytes maybe no that doesn't look
+2:41:46 right
+2:41:49 I think it's yeah it's 12 gigabytes of
+2:41:52 vram
+2:41:55 I mean if we were just to look at
+2:41:58 what's twin motion say in their
+2:42:00 statistics stuff
+2:42:07 two gigabytes texture
+2:42:12 65 frames per second in the scene too
+2:42:15 it's pretty good at 4.5 million polygons
+2:42:19 sorry that's obviously pretty good here
+2:42:21 you guys want to do a real test let's do
+2:42:23 this let's just cancel all this out
+2:42:28 let's kill Photoshop let's kill all this
+2:42:32 let's kill SketchUp
+2:42:38 and let's turn it off between motion
+2:42:43 so I don't know if this will crash the
+2:42:45 feed temporarily or not
+2:42:48 but
+2:42:50 um
+2:42:51 I'm gonna hook up the external GPU see
+2:42:53 what happens
+2:42:55 so we'll see if this crashes
+2:42:57 so we've got external is here
+2:43:01 foreign
+2:43:10 we need
+2:43:19 the AMD action has been enabled
+2:43:22 all right so that's on
+2:43:29 I think
+2:43:55 yeah
+2:43:57 eight gigabytes I agree not enough
+2:44:02 let's try a new Banner let's see
+2:44:37 foreign
+2:44:53 what do we have so that's showing
+2:44:57 it's interesting it's showing
+2:45:04 well it's showing it's running off of
+2:45:05 both right now
+2:45:08 I don't know why
+2:45:16 let's see if I can put this on the
+2:45:18 second screen and enable the second
+2:45:19 screen I don't think I can
+2:45:24 okay so if I move this out and run a
+2:45:31 which one's spiking
+2:45:44 wait for it did it freeze
+2:45:46 oh no it didn't
+2:45:57 it's like refreshing right now over and
+2:45:59 over again that's kind of funny
+2:46:02 why
+2:46:12 it's jumping for some reason it's very
+2:46:13 strange
+2:46:17 as if I'm moving the camera
+2:46:24 let's just try and export
+2:46:46 okay so that's definitely running from
+2:46:53 yeah that's definitely running from the
+2:46:55 69.50 because that was way faster
+2:46:59 it's interesting that the 6850 is still
+2:47:02 moving right now for some reason
+2:47:29 yeah 6850 still running but the 6950 is
+2:47:33 what's
+2:47:34 doing the path Trace
+2:47:37 funny
+2:48:00 it's definitely acting like
+2:48:03 I'm moving the camera but I'm not
+2:48:08 man that flies that's crazy
+2:48:23 um
+2:48:25 cool
+2:48:28 all right guys I'm getting tired
+2:48:31 I think I'm gonna take a break
+2:48:33 anybody got questions so just so you
+2:48:36 guys know I'm running a sonnet egpu
+2:48:40 with a 6950
+2:48:42 after tomorrow I'll be running this 7900
+2:48:46 XTX in that Sonic egpu barring any kind
+2:48:50 of problems installing it
+2:48:52 and that's running off of this Lenovo
+2:48:54 16a r h A7
+2:48:57 um
+2:48:58 kind of cool that you can just do the
+2:49:00 GPU thing and then unplug and go do your
+2:49:03 thing and it's still power and full
+2:49:04 enough to run everything that you needed
+2:49:06 to run
+2:49:13 and then I'll improve the scene and
+2:49:15 we'll render it out and we'll post it
+2:49:17 somewhere so everybody can see it
+2:49:27 SLI required but SLI doesn't make any
+2:49:30 sense
+2:49:31 and wouldn't be link would make sense
+2:49:32 the SLI doesn't make any sense so that
+2:49:35 that would be my issue with that one
+2:49:45 uh 13th gen what what is the 13th gen
+2:49:49 you gotta tell me more about that I
+2:49:50 actually don't know as much as I maybe
+2:49:52 sound like I do
+2:50:06 oh there it goes now it's not doing its
+2:50:08 jumpy thing
+2:50:12 boy those little details make such a big
+2:50:14 difference right
+2:50:18 I think anyways
+2:50:22 it's kind of an interesting shot
+2:50:26 strange that when we did the path trace
+2:50:28 for the first time around it didn't have
+2:50:29 this clear view maybe I didn't have path
+2:50:31 tracer on
+2:50:40 um I don't know how many monitors it can
+2:50:42 drive I've got it driving too right now
+2:50:45 um so
+2:50:48 yeah I mean I've got it driving its main
+2:50:50 and it's secondary so I'm looking at the
+2:50:52 secondary for the chat and then I'm
+2:50:54 running off the main but I haven't I
+2:50:56 don't have another monitor to plug into
+2:50:57 it honestly I mean I guess I do I guess
+2:51:00 I have my big ones upstairs in my office
+2:51:04 um
+2:51:06 yeah I couldn't tell you
+2:51:08 could not tell you it's only got one
+2:51:11 HDMI out but then you've got a thunder
+2:51:13 bolt
+2:51:15 out or it's usb4 is what it's called
+2:51:19 um so the usb4 is hooked up to an egpu
+2:51:23 the GPU can daisy chain as many monitors
+2:51:26 as you want
+2:51:32 13th gen CPU from David and gotcha
+2:51:37 20 course oh so from the AMD rep I'm
+2:51:41 hearing that
+2:51:44 what's the thing he's talking about
+2:51:46 there's
+2:51:47 something coming up that's 64 cores
+2:51:51 I got to talk to him and ask him about
+2:51:53 that the next
+2:51:55 the next laptop they got coming out it's
+2:51:57 crazy
+2:51:58 so
+2:52:00 um yeah which is maybe why this thing is
+2:52:03 so inexpensive 2200 bucks is like
+2:52:06 nothing to get in and be able to do this
+2:52:09 kind of stuff
+2:52:14 I mean I paid three grand for mine two
+2:52:17 years ago
+2:52:26 should I do with this backyard should I
+2:52:28 put another building there maybe
+2:52:44 could put a big boat house back there
+2:53:49 thank you
+2:54:27 fence in the way
+2:54:29 just return a fence
+2:54:32 it's about a 12th gen with an OLED and a
+2:54:34 3070 TI
+2:54:36 for 1600 yeah
+2:54:46 uh yeah what do we got let's see well
+2:54:50 I'll tell you even better
+2:54:51 contact this guy
+2:54:53 contacts
+2:54:55 one second
+2:55:04 look them up for you he said I can do
+2:55:06 this he said I can have you guys harass
+2:55:08 him
+2:55:11 or maybe message me direct about it but
+2:55:13 let's see let's see what we got here
+2:55:16 I need his contact info
+2:55:25 check this
+2:55:35 go up in the comments for you probably
+2:55:38 yeah
+2:55:41 maybe he'll yell at me maybe I wasn't
+2:55:43 supposed to do that I think I am not I
+2:55:45 asked
+2:55:46 so I said contact him
+2:55:48 yeah I asked him if he wants me to have
+2:55:50 people contact him so yeah do it
+2:55:53 and he's very knowledgeable
+2:55:55 um with this stuff he so that guy
+2:55:58 supplies all of Chief Architects AMD
+2:56:01 machines
+2:56:03 and if you had noticed if you guys have
+2:56:05 been to K Biz or if you'd been to their
+2:56:09 um training event in Coeur d'Alene
+2:56:12 they have these machines they were using
+2:56:14 them for all their Ray tracing stuff so
+2:56:18 and they're faster now than they were
+2:56:20 then because of that driver update
+2:56:30 here we go
+2:56:31 that one bug that guy
+2:56:39 well we were just doing it on there
+2:56:41 on the 6850
+2:56:47 so what happens if I unplug this right
+2:56:48 now you think it crashes I bet it
+2:56:50 crashes right
+2:56:54 let's mess it up for a second let's just
+2:56:56 unplug it on the Fly and see if it
+2:56:58 crashes
+2:56:59 okay
+2:57:01 and we're unplugging it now
+2:57:04 yeah crash immediate
+2:57:30 all right let's pop it back up and see
+2:57:33 did it do what it do
+2:57:55 I always say it fences in Twin motion
+2:57:58 some kind of procedural fence would be
+2:58:00 cool
+2:58:02 all right so that's the laptop one
+2:58:04 and I mean that's still pretty dang good
+2:58:08 let's kick it on the high it's going to
+2:58:10 take longer
+2:58:15 I mean I'm backing up the camera too
+2:58:17 right now
+2:58:19 all right now I let go of the camera
+2:58:22 let's see it's run its spaces
+2:58:39 yeah this is
+2:58:41 kind of on par with
+2:58:45 with my
+2:58:49 3080 machine
+2:58:58 it's actually it's running a little bit
+2:59:00 better than the 3080 because when I
+2:59:03 stream it's fighting the encoder
+2:59:06 that's the only problem with this
+2:59:08 so OBS studio is fighting the rendering
+2:59:33 all right so there's your high high pass
+2:59:36 250 denoise
+2:59:41 yeah it's pretty good I'm going to put
+2:59:43 some plants up on that balcony on the
+2:59:45 right that'd be cool put a little patio
+2:59:46 set up there
+2:59:52 so the laptop's got 12 gigs oh system
+2:59:56 Ram 36.
+3:00:00 36 gigs it's 36 gigs it's a ddr5 and
+3:00:06 then it's a PCI four-lane
+3:00:10 um and then it's a two terabyte M2 Drive
+3:00:16 69 hundreds are our DNA too what does
+3:00:19 that mean
+3:00:20 stressed on the 69.50
+3:00:23 our DNA too I don't know that term
+3:00:25 I'm new to AMD
+3:00:27 um
+3:00:29 so I'm thinking about putting this 7900
+3:00:33 in my main machine just to see a direct
+3:00:36 comparison to the 4090 I don't expect
+3:00:38 that it's going to keep up but you can
+3:00:40 still see some
+3:00:42 you know some side by side and then
+3:00:45 we're definitely going to have the 7900
+3:00:47 in the egpu just to see what it does and
+3:00:50 see how often I can crash it
+3:00:52 because I will say that it is it's
+3:00:56 easier to crash an egpu than it is to in
+3:00:59 Crash internal especially with X15 and
+3:01:02 beta right now
+3:01:05 okay new architecture gotcha
+3:01:08 yeah
+3:01:10 um
+3:01:10 yeah Michael did a bunch of testing with
+3:01:13 the 7900 with the new driver and it's
+3:01:16 just
+3:01:17 it's faster than it should have been
+3:01:18 before it was slower than the 4070 and
+3:01:21 now I think it's faster than the 4070
+3:01:23 maybe it can keep up with the 4080 not
+3:01:25 sure
+3:01:29 yeah yeah this is looking pretty good A
+3:01:32 little patio
+3:01:33 a little patio change here
+3:02:16 affect it till we make it maybe
+3:02:20 there something
+3:02:23 is that gonna be in the shot Maybe
+3:02:26 maybe it is
+3:02:30 all right
+3:03:33 I think I think you're going to see
+3:03:34 negligible returns I really am
+3:03:37 um if you study up on just the the
+3:03:40 architecture of those cards and how they
+3:03:41 work I don't I don't see how twin motion
+3:03:44 is going to take use of it but
+3:03:46 um an easy way to test it is sign up for
+3:03:48 irender I pay
+3:03:51 I think four dollars an hour to use our
+3:03:54 render
+3:03:55 um and so you could have a machine well
+3:03:57 it's going to be more than that it's
+3:03:58 going to be more than that for multiple
+3:03:59 cards and maybe eight dollars an hour
+3:04:02 but easy to set up a scene and go render
+3:04:04 it in our render using a machine that's
+3:04:06 set to have four 30 90s or something
+3:04:09 like that
+3:04:10 um so you could test it so you could
+3:04:12 test it before you go spending money on
+3:04:14 it
+3:04:26 yeah this shot's getting there I'm
+3:04:27 missing that second pattern
+3:04:35 want to fix some stuff in this roadway I
+3:04:37 really wish I could have gotten my my
+3:04:39 curbs in there I might still go mess
+3:04:41 around that from the x14
+3:04:43 so all right I'm gonna get off the call
+3:04:45 guys thank you for hanging out thank you
+3:04:48 for watching checking stuff out
+3:04:50 um
+3:04:51 yeah I'm gonna start streaming again
+3:04:53 finally I'm back in town so was on the
+3:04:56 on the road for like a month
+3:04:58 um went to cabez and then I was teaching
+3:05:01 the advanced class over at uh
+3:05:04 at Chief Summit event and then I went on
+3:05:07 a little little snow trip to South
+3:05:11 um Salt Lake City
+3:05:13 and then now my mom's trying to get me
+3:05:15 to go to Europe
+3:05:16 and then after that I got Costa Rica so
+3:05:18 a lot of stuff going on but I'll start
+3:05:21 streaming again and then if you didn't
+3:05:22 know about it um on the Facebook rabbit
+3:05:24 design feed I am monthly giveaways so
+3:05:29 I'm giving away training packages every
+3:05:30 month to anybody that registers for the
+3:05:32 live show for that month so
+3:05:36 um go go check that out all right how's
+3:05:39 the vacation was awesome uh my legs are
+3:05:42 dead
+3:05:43 four days of snowboarding and skiing so
+3:05:46 I did both and uh yeah it was fun
+3:05:51 all right
+3:05:53 check you later thanks

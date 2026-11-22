@@ -1,0 +1,2274 @@
+---
+videoId: 07g_efhL-Rc
+title: Tedious Landscaping Prep In Chief Architect For Twinmotion
+url: "https://www.youtube.com/watch?v=07g_efhL-Rc"
+status: imported
+---
+
+# Transcript
+
+0:01 thank you
+0:35 foreign
+1:08 thank you
+1:39 foreign
+2:08 okay
+2:24 [Music]
+3:49 foreign
+4:22 ah
+4:27 all right
+4:29 hey thanks for joining joining me on
+4:31 short notice
+4:33 um I just wanted company
+4:36 because I
+4:38 because I've got a mean
+4:40 mean project here
+4:43 that I have to tackle
+4:44 I started doing it really late last
+4:46 night
+4:48 um
+4:49 but yeah I've got a lot of terrain
+4:52 to recreate
+4:56 so far
+4:58 instead of doing this within the project
+4:59 that I was working in I decided to do it
+5:03 in another
+5:04 template
+5:06 so what I'm doing is I'm just zoning out
+5:08 elements because I'm going to take this
+5:10 into twin motion and then that'll make
+5:12 it easy for me to
+5:14 um
+5:15 add borders add grass add features add
+5:18 colors you name it
+5:20 so after I map this all out then I've
+5:23 got a
+5:24 go through and actually build terrain
+5:26 luckily this isn't there's not too much
+5:28 complication in the terrain
+5:30 looks like we've got single foot
+5:32 stepping
+5:35 every 10 feet
+5:38 so
+5:40 so you got maybe a rise of five feet
+5:43 here
+5:45 and then there's only one challenging
+5:46 area which is that this is actually a
+5:49 there's a berm around
+5:54 this water feature and then it's stepped
+5:56 and it's waterfalls
+5:59 um and I've never done that before so
+6:01 I'm gonna have to think about that
+6:02 logically and tackle that somehow who
+6:05 knows
+6:07 for now I'm going to rely on you guys to
+6:09 ask me questions otherwise I'll probably
+6:11 be working somewhat quietly I say that
+6:13 but I Yap my head off half the time
+6:16 uh because I'm just going to be creating
+6:19 these different zones
+6:23 and the way I like to do it is I just
+6:26 use CAD lines continuous draw mode CAD
+6:28 lines
+6:29 and so I already have this done and
+6:32 shaped which makes it really easy for me
+6:35 to do something which I'll just show you
+6:37 right now so if you only came in here to
+6:39 learn one trick this is this is going to
+6:41 be it so I'm going to start drawing a
+6:43 continuous CAD line that's overlaid onto
+6:45 this existing terrain feature is what
+6:48 I'm drawing here right so drawing this
+6:50 CAD line out get it close to these walls
+6:52 I'm not too worried about how close they
+6:54 are to the walls because anything I put
+6:57 in here is going to be buried by the
+6:58 building
+6:59 uh get it to this corner bring it back
+7:02 down and then close this up that's
+7:05 simple enough
+7:06 so from here I want to
+7:09 convert this to a Terrain feature
+7:12 and I'm setting everything to zero
+7:14 inches uh terrain to top for now and
+7:17 then 24 inches
+7:19 now if I go look at
+7:23 this view here we go
+7:26 and I mean this one is clipping an
+7:28 overlay to this but I want to ensure
+7:30 that that actually happens because
+7:32 twin motion doesn't necessarily see it
+7:34 that way
+7:35 so I'm going to subtract this item from
+7:39 this item which means I need to
+7:41 duplicate this because in my dialog box
+7:43 I have automatically delete the original
+7:46 item so copy paste paste hold position
+7:50 grab this terrain feature use the
+7:53 subtraction tool highlight this and
+7:55 there we go now this is shapes to this
+7:57 and they're perfect joints
+7:59 so really simple way of doing it and
+8:02 then I'm going to end up color coding
+8:04 everything
+8:05 different colors
+8:08 just to differentiate because twin
+8:12 applies materials based on colors so
+8:14 that was quick as a quick edit it's
+8:17 really quickly done
+8:19 um hopefully I can be as quick
+8:21 throughout this process
+8:23 um so here's a good example I can be
+8:25 kind of rough about this this patch and
+8:29 the interior space and then I'll be
+8:30 accurate with the roadway and subtract
+8:32 it
+8:33 so again just using my line tool coming
+8:36 in here to the corner uh right click to
+8:39 draw
+8:40 and I have a particular workflow that
+8:42 works good for Curves so I'm going to go
+8:44 past the apex of the curb just a little
+8:47 bit past and then make sure that hold my
+8:50 control key to undo the snaps and I'm
+8:52 going to go past any kind of straight
+8:54 plane as this transitions to the next
+8:56 Apex and through again and do that
+8:59 against and you'll see why this makes
+9:01 sense in a minute
+9:03 once I kind of draw this all out
+9:16 because I'm going to use our filet tool
+9:18 so I'm just making sure that this line
+9:20 extends through the center of my
+9:23 reference line
+9:25 and then I'll fillet back
+9:36 oh this one's a little challenging let's
+9:39 see
+9:43 that one's going to be troublesome
+9:49 and if you do this enough times after
+9:51 you see what I'm doing exactly with the
+9:54 fillet tool after this is done when you
+9:56 do this enough times it really starts to
+9:59 go fast
+10:02 I'm kind of taking my time a little bit
+10:04 just so you guys can see what I'm doing
+10:06 I'm going to go under this patio I think
+10:08 this is a raised patio so I'll just go
+10:10 underneath it
+10:20 and then I'm not too worried about where
+10:22 that ended up oh there we go we closed
+10:24 it so here we go now I'm going to use my
+10:26 FK to fillet all this right so I'm going
+10:28 to come in here and you'll need to tap
+10:31 click to initiate and then you can let
+10:33 go of the F key and hold Ctrl to undo
+10:36 the bind
+10:37 so same thing tap f
+10:40 here we go
+10:43 to me this is quicker than trying to add
+10:45 a bunch of breaks or use alternative
+10:47 arcs or
+10:49 anything like that this is easy to just
+10:51 come in here
+10:52 fillet what I need to fillet looks like
+10:55 this needs to come to about there hold
+10:57 my control key here's that next one
+11:17 and you can see I'm bringing these
+11:20 in line with where that Apex was
+11:24 and its tangent line and I knew this was
+11:27 going to be problematic so I only have
+11:28 to move this a little bit and move this
+11:30 a little bit there we go it's right
+11:32 there
+11:34 using my 3D mouse to move around
+11:36 invaluable tool if you're in this
+11:39 industry and not using a 3D mouse
+11:41 gotta use one they're just so fast
+11:48 um this is the only this is the main
+11:49 problem with this project is because
+11:51 it's so much CAD work
+11:53 um it's slow
+11:55 cad's a little bit slow in Chief
+12:01 okay so now I get to convert this
+12:06 we can simplify it looks like there's
+12:07 some duplicate points and convert it
+12:10 same thing terrain feature
+12:14 I like to make these 24 inches thick in
+12:16 case I choose to use twin motions
+12:18 built-in Landscaping that way I can bite
+12:20 to it and have a little bit of Play
+12:21 Because twin motions Landscaping it's uh
+12:24 triangulations the triangles are so
+12:26 large into in motion that sometimes it's
+12:28 hard to get some finite transitions
+12:31 um so same thing line key again
+12:35 so I'll take this past this Apex
+12:39 and then back through oops I didn't use
+12:42 continuous draw mode I'll just start
+12:43 over
+12:44 I want to use continuous
+12:48 and also in comments let me know if you
+12:50 have any questions
+12:52 please
+12:53 looks like one just came through
+12:55 oh it's Doug hey how's it going Doug
+13:00 I'm going to continue my draw actually
+13:01 before I pin your comments so give me a
+13:03 one second
+13:20 foreign
+13:32 a little crazy on that one
+13:36 a little crazy on that one
+13:44 and I can double click to end that draw
+13:46 and then click on the line and
+13:48 automatically close that P line let me
+13:51 see what this comment was
+13:52 okay
+13:56 stuff and topics totally drew me in call
+14:00 um yeah
+14:02 I try to give as much info as I can in
+14:05 these things it's tough I don't always
+14:07 know what people you know where they lie
+14:09 what do they not know or what do they do
+14:11 know or what do they need to know
+14:14 foreign
+14:17 thing Drew these past the Apex going to
+14:20 immediately hold that f key
+14:23 let go of it you can hold Ctrl to undo
+14:25 binds in case it's binding on your Arc
+14:29 it sounds super boring right now I'm
+14:31 gonna be bored this is a big project
+14:32 tedious
+14:41 yeah but this gets to a walkway pretty
+14:43 quick so once we finish this we're going
+14:45 to subtract it so we're going to do a
+14:47 particular workflow so I have my message
+14:50 boxes turned off
+14:51 is the big thing here
+14:54 um
+14:55 where did I draw this one in the wrong
+14:56 area there we go all right there
+15:00 um I I have my Chief Architect messages
+15:02 turned off and what that means is
+15:06 I once
+15:08 um dismissed a message that said do I
+15:10 want to retain the original copy of
+15:13 whatever it is I'm deleting using the
+15:15 subtraction tool
+15:17 um
+15:18 which
+15:19 means that I need to make a copy of
+15:22 something before I want to subtract it
+15:23 from something else
+15:26 I don't know if you guys could follow
+15:27 what I just said there but okay so
+15:29 thickness 24 inches
+15:32 press ok
+15:37 so here's this whole setup back here
+15:39 let's just color code
+15:40 something here so we can see there we go
+15:43 so I want to subtract this walkway from
+15:46 this Terrain
+15:48 oops I'm gonna have to put it on pause
+15:50 for a second I gotta take this call
+16:09 oops someone pocket dialed me that's all
+16:11 that was all right so grab I want to
+16:15 grab this guy and look at that I can't
+16:18 grab it because it's in plane with each
+16:20 other right which makes it challenging
+16:23 um
+16:24 but I can grab it there so copy paste
+16:27 hold so I'm underneath the terrain now
+16:28 and now I can grab this one
+16:31 subtract this one
+16:34 there we go
+16:37 now they're separate
+16:39 perfect
+16:41 in fact I broke without up into two
+16:43 different pieces
+16:47 and then what I'm going to eventually do
+16:50 is copy paste hold shrink to a border in
+16:54 fact I can do it right now let's just
+16:56 show it so we're so we're looking at it
+16:58 so I'm going to copy paste hold this
+17:00 actually I'm not I'm going to copy
+17:03 and then I'm going to look for our round
+17:07 resizing node okay here it is right here
+17:10 now it's
+17:12 you can see here it's concentrically
+17:15 resizing
+17:16 and I'm going to go in the direction of
+17:18 the angle that I'm going there I'm going
+17:19 to make a 12 inch border okay now you
+17:23 can see here we've got some cleanup to
+17:24 do unfortunate that's fine the easiest
+17:28 way to do cleanup is using our trim
+17:29 tools so I can convert this and simplify
+17:32 the polyline and then draw a line
+17:35 through this point right here okay
+17:39 and then use this as a fence with our
+17:42 trim tool
+17:44 cut this excess off here we go and then
+17:47 delete the line now I have
+17:49 this polyline got to make sure it's
+17:52 closed there we go
+17:55 convert it
+17:56 it's a touring feature now
+17:59 perfect let's make it 24 inches thick
+18:03 and then copy paste hold
+18:06 and now I want to take this and subtract
+18:08 that Center
+18:12 so very quickly we just made a bordered
+18:15 section
+18:16 and this way I get to put a border grass
+18:18 automatically with the bucket tool in
+18:20 Twin motion to this section and then the
+18:23 interior will have more of a patch grass
+18:25 as opposed to a border grass
+18:29 so real simple method there I'm going to
+18:32 have to make a bunch of additional color
+18:34 coding
+18:35 um materials because my Landscapes are
+18:38 getting more and more complex and I
+18:41 don't want to be dumping
+18:43 um grass on this that I want separate
+18:46 from this one over here that's
+18:47 color-coded the same so some things to
+18:49 note
+18:54 but that actually that extra two minutes
+18:56 of work right there
+18:58 um saves hours in Twin motion so
+19:03 um that's a good tip
+19:05 all right so I need to do this little
+19:06 guy here
+19:17 same thing I'm just going to overshoot
+19:18 it and subtract
+19:20 foreign
+19:54 where did that go
+19:59 looking at that wrong oh yeah it's right
+20:00 here
+20:10 struggle with turn uh trim and extend
+20:12 tool the trust program is different and
+20:14 can't seem to grasp it and it's so
+20:15 important uh I'm gonna let's keep this
+20:18 comment pinned for a second and see if
+20:21 we can't
+20:24 um bring up some info for you
+20:26 so
+20:29 let's just do a new plan oops I was in
+20:33 my browser window
+20:34 new plan
+20:36 real quick demonstration
+20:39 um and it should be pretty easy in fact
+20:40 I had a video I did the other day where
+20:42 I was just um dropping in framing I use
+20:45 reference lines all the time to do
+20:47 something so let's say I wanted to do a
+20:50 custom truss system all right and we'll
+20:53 just do this I'm going to switch to this
+20:55 is my Pro Plan template some of you guys
+20:57 have this I get down to the small detail
+21:00 plan and this makes it really easy to
+21:02 draw out models and stuff like that so
+21:04 let's say we've got a
+21:08 let's just say we've got a five and a
+21:10 half inch
+21:13 framing member we're gonna make a truss
+21:15 out of this okay
+21:18 and
+21:19 um
+21:21 let's just go
+21:24 let's place a point
+21:27 right here let's change our edit menu
+21:30 edit behaviors rotate resize about a
+21:32 current point now I'm going to copy this
+21:35 and then grab the rotation handle
+21:39 okay now I'm rotating it Sweet let's do
+21:42 the same thing copy let's grab that
+21:44 rotation handle now I'm rotating it okay
+21:46 now I got part of a truss it's funny
+21:49 that we're off of a degree here
+21:54 that's too bad I wanted this to be a
+22:00 um if I shift select this until I get to
+22:03 make this perpendicular I can't remember
+22:05 no not quite
+22:07 that's funny I'm off of a degree here
+22:09 maybe from the from the pinned point
+22:15 like I'm making goof UPS right now
+22:18 let's do this one instead
+22:20 copy rotate
+22:23 why is this not letting me that's
+22:25 interesting let's Place Point here
+22:29 I'll be rotate
+22:31 interesting not letting me get a 90.
+22:33 super strange all right
+22:39 let's go oh
+22:45 about here
+22:48 all right
+22:49 that's enough
+22:54 okay so I have this built I want to
+22:57 Union all this that's simple enough we
+23:00 can just shift select it Union
+23:03 right got some weird little trust going
+23:05 on here now this is just a p line
+23:07 let's just draw out in fact I want to
+23:10 flip this about itself
+23:12 and draw from this direction
+23:14 let's draw out our pitch our slope let's
+23:16 say it's 6 and 12. so I'm going to draw
+23:18 this out and in the angle 6 and 12 6 in
+23:22 12. there's my roof okay
+23:26 um
+23:28 put it to where I want to this is going
+23:30 to be you know we want to do 8 and 12
+23:32 instead or like a 12 and 12 or 10 and
+23:34 12. let's try this again let's do it 10
+23:36 and 12.
+23:39 there we go
+23:40 all right now here's where we're going
+23:43 to use our trim tool okay
+23:46 and by the way I made a suggestion uh to
+23:48 Chief and I'm really hoping it comes out
+23:50 next 15. when I use my trim tool and it
+23:54 extends past the plane of of the lines
+23:57 that it is trimming what's going to
+23:59 happen is we're going to break a closed
+24:02 polyline the suggestion was that it no
+24:05 longer breaks a closed by line if
+24:06 something is closed it should remain
+24:08 closed regardless of using the trim tool
+24:10 or not so here we go I'm going to use my
+24:12 trim tool trim objects and I'm going to
+24:14 draw a line through the sections that I
+24:17 want to trim and you're going to see it
+24:19 highlights
+24:20 what's remaining highlights what's
+24:23 remaining takes away that highlight from
+24:25 anything I'm trimming okay
+24:27 so there we go as you pass through it
+24:31 only as you pass through it
+24:33 so there we go
+24:35 did that
+24:37 you might be able to use an extend here
+24:40 I don't think so though
+24:42 you might be able to grab all this and
+24:45 extend
+24:47 to align
+24:49 but I don't think so I don't think it'll
+24:51 let you
+24:52 and can you close it I doubt it yeah
+24:55 it's going to close the whole thing so
+24:57 there's a little bit of cleanup here
+24:59 right
+25:01 you do have to just draw on a line or
+25:03 extend your line over
+25:05 meet these up clean it up
+25:16 kind of the last thing here is that
+25:19 if I draw like a reference Line to
+25:22 Center this I can just copy reflect
+25:25 about Center
+25:27 and then
+25:28 here we go
+25:30 um
+25:31 you can Union these
+25:35 and then trim the ends there
+25:43 so you get to a pretty quick
+25:45 um
+25:47 well let's just do this let's do this
+25:50 let's do this just clean this up one
+25:53 last time look at that these are a
+25:55 little bit off angle
+25:57 I did that by accident oops
+26:02 I'm Rusty
+26:17 I get in there tight yeah I screwed this
+26:19 up but point is once you have this once
+26:22 you have this CAD all closed up
+26:26 oh man I goofed this up so bad
+26:30 um anyways you can convert it to a
+26:31 symbol and then rotate it in the X and
+26:34 then and then you have a model you can
+26:37 repeat that's pretty easy
+26:42 what else
+26:44 oh you have the plan
+26:46 um
+26:47 yeah small detail is for working in very
+26:50 tight
+26:51 tight quarters right if I want to draw
+26:53 out something that's only three inches
+26:55 I'll show you the difference here
+26:57 so let's say this is three and a half
+26:59 inches right and I want to work on this
+27:02 well in small detail you're noticing
+27:05 it's pretty clean it's pretty clear to
+27:07 see that the dimensions small if we turn
+27:09 on turn off line lights you could work
+27:12 in this all zoomed in pretty well right
+27:14 as soon as you switch back to like say
+27:17 the working plan View
+27:20 then when you click on this look at how
+27:22 you know our arrows and our Dimension
+27:25 strings and
+27:26 anything else
+27:28 if you're switching to like a floor plan
+27:30 view you know it gets kind of goofy
+27:32 dimensions are wrong text will be huge
+27:34 but small details you could draw details
+27:36 pretty easy
+27:38 foreign
+27:46 yeah no the the polyline thing should
+27:49 should absolutely be a deal uh the
+27:52 developers wrote that down several times
+27:54 so I'm really hoping that that makes its
+27:57 way into the next version
+27:59 um because it would make a big
+28:00 difference just in this I'd be able to
+28:02 trim without doing this subtraction
+28:04 method yeah
+28:06 all right so here's a big gnarly one I
+28:08 gotta complete let's do this again it's
+28:10 good practice I guess
+28:13 wonder if I could come up with a system
+28:14 to be faster at this this so far is my
+28:16 most efficient method for drawing these
+28:18 out
+28:19 is using the filet tool
+28:23 he's trying to draw arcs individually
+28:25 just seems like it takes forever
+28:36 but it does take a little bit of
+28:37 practice I was the same way when I first
+28:39 used the pen tool in Photoshop took a
+28:42 little bit of practice to get this stuff
+28:43 right
+28:46 and and it really is very similar to
+28:49 photoshop's pen tool and it's the same
+28:51 methodology
+28:59 and now I can get past this because I'm
+29:01 going to subtract from it
+29:19 there we go that's close let's get in
+29:21 here same thing just fillet all this
+29:42 I know if you guys have drawn out
+29:44 terrain features before you know how
+29:45 tedious this is
+29:49 hence the title of the video
+29:53 uh kind of goofed up right here let's
+29:55 see let's see if I can recover this nope
+29:57 that was them see what happened there uh
+30:00 if I so in between two points I don't
+30:03 know how well you can see this maybe not
+30:05 at all in between two points we have a
+30:08 center point if we look at our snaps
+30:10 we've got this midpoint snap so if I go
+30:13 to fillet this I don't want to fillet
+30:15 past the midpoint because then the filet
+30:18 tool won't work for the next point so if
+30:20 I hold my f key and start filleting I
+30:22 can drag my cursor out here until I hit
+30:24 that midpoint snap and then I know I
+30:27 don't want to go any farther than that
+30:29 so that's what I just did now this one
+30:31 can carry through to that same midpoint
+30:33 snap and then I'm going to have to
+30:35 adjust this because I missed the mark a
+30:36 little bit right
+30:39 hold my control key kind of adjust this
+30:42 out
+30:43 adjust this Arc a little bit
+30:50 yeah in fact I goofed this up quite a
+30:52 bit here we go
+30:54 there it is
+31:02 same thing midpoint because we've got an
+31:04 inside outside curve here right so that
+31:07 means this needs to drop back a little
+31:08 bit
+31:09 and
+31:11 now I've got this curve
+31:25 that's pretty much it
+31:36 oh copy of this paste hold
+31:40 this one subtract it from this one
+31:43 here we go
+31:45 double check our work
+31:54 um landscape I very rarely do landscape
+31:57 design on my own projects this is
+32:00 um landscape design comes in play when I
+32:02 need to do realistic renderings to spec
+32:05 and I mean this is a a large budget
+32:08 client and we aren't looking for
+32:10 accuracy so
+32:12 um that's when these budgets come in to
+32:15 actually take the time and do an
+32:17 appropriate landscape design
+32:19 so I definitely charge a lot more if you
+32:22 guys have seen some of the more recent
+32:24 renderings
+32:25 um that I've done those are all budget
+32:27 renderings uh because I'm allowed to
+32:29 just throw whatever Landscaping I feel
+32:31 like in fact I have template Landscaping
+32:34 that I might throw into some of the
+32:35 stuff but this one in particular we're
+32:37 actually doing it to spec of this whole
+32:39 landscape designing and that's just a
+32:41 lot more work so
+32:50 thank you
+33:24 foreign
+33:47 I might raise this up an inch
+34:25 Joe pocket I see in here man hope you're
+34:28 doing well
+34:54 it's easier to do your fillets before
+34:57 you convert it to something else because
+35:02 um
+35:03 I think it tries to do redraw and stuff
+35:08 I might be talking on my butt on what I
+35:11 just said but I think that's my
+35:13 heart
+35:15 okay let's see terrain feature
+35:20 okay
+35:23 I know can't wait to try this give a
+35:25 take at this waterfall deal
+35:28 um all right
+35:29 copy paste hold
+35:32 all right
+35:35 um I double check sometimes I delete
+35:38 things I mean copy paste whole things
+35:40 too many times so it's nice to double
+35:42 check
+35:43 yep that's wrong okay
+36:09 thank you
+36:26 same action over and over again
+36:31 but I need more colors
+36:35 way more materials
+36:37 let's get into the color
+36:43 I think color and then I think it's
+36:46 space Dash get into Chief's colors there
+36:49 we go
+37:00 there we go
+37:32 foreign
+37:35 yeah when they start
+37:37 um when Chief fixes the library issue of
+37:40 of 200 200 Library cap
+37:43 I will
+37:45 um I'll be very happy to add my full
+37:48 color pack neon color pack for color
+37:51 coding because it makes a big difference
+37:56 you need to have differentiated colors
+37:58 for a third-party rendering softwares
+38:06 all right so now I know everything's a
+38:08 different color perfect that I want to
+38:10 be different color
+38:12 look how crazy this landscape is going
+38:14 to be that's a lot of a lot of things
+38:16 going on
+38:21 thank you
+38:25 the best item in my kit for that is the
+38:29 um
+38:30 if we drop a cabinet in here for
+38:33 instance
+38:35 did I lose it I lost it
+38:40 this guy right here I gave this away
+38:41 this is in the symbols and content
+38:43 section of my site so if you paint this
+38:45 in object mode
+38:47 it's going to show you any weird
+38:49 stretching if this is done correctly if
+38:52 the model is done correctly every one of
+38:54 these squares should be the same size
+38:55 and you can see here it's not it's being
+38:58 stretched across the rails right and
+39:01 it's changed its orientation
+39:03 it's the best example you can give you
+39:05 also see it's upside down on one side
+39:07 upside down on the second side too kind
+39:09 of funny
+39:10 why would they make it upside down just
+39:12 to break it up a little bit they're
+39:13 assuming you want to
+39:19 all right let's see what do we got
+39:23 I'm actually doing this faster than I
+39:25 thought I would
+39:49 foreign
+40:09 and having trouble selecting this
+40:16 so we can do it this way
+40:21 oh what'd I do
+40:23 goof top
+40:29 I want this
+40:32 oh like this oops I did this all wrong
+40:38 delete that
+40:40 foreign
+40:48 there we go
+40:59 [Music]
+41:03 um
+41:04 I don't know can I unpack that a little
+41:06 bit more for you let's see
+41:10 so this Grid it's just a grid that
+41:13 that's
+41:14 infinitely repeating so if we look in
+41:16 real tight here we've got 789 a b c d
+41:21 this is the repeat pattern right here
+41:23 the break between the two sharp color
+41:26 changes right
+41:27 so I know On Any Given plane that this
+41:30 will line up and look at this as we roll
+41:33 across the back of the cabinet what
+41:35 happens we get a jump in the material if
+41:38 it was properly UV mapped as soon this e
+41:41 would be partial and that e would
+41:42 continue on the other side you can see
+41:44 here it's repeating itself instead let's
+41:47 see if anything changes when we change
+41:49 this to Global symbol mapping in the
+41:51 texture panel
+41:56 same thing so it's taken that there's
+42:00 um there's no Universal coordinates
+42:02 being applied to this cabinet these are
+42:04 separate materials from the sides in the
+42:06 back which we know that about cabinets
+42:08 right but if we had a model like a piece
+42:11 of Furnishing where we wanted a you know
+42:12 an armchair to have a texture that wraps
+42:15 perfectly into its back plane these
+42:18 should be continuing it should go c d e
+42:21 f g all the way around the edge there
+42:24 and it should be all oriented in the
+42:26 same direction right in the case in the
+42:29 cabinet we actually do want our Styles
+42:31 and rails different you notice when I
+42:33 turned on global symbol mapping that the
+42:35 direction changed in the rail and it's
+42:38 no longer stretched
+42:39 kind of interesting so
+42:42 um some of my cabinets I do that I
+42:45 purposefully change the direction of
+42:47 style and rail but mapped it in a way
+42:49 that it would
+42:51 um do no stretching so all the Chiefs
+42:54 models have stretching in them all the
+42:56 cabinet vendor uh stuff has stretching
+42:59 in them
+43:05 okay
+43:07 what else we got here
+43:09 he's actually getting closer than I
+43:12 thought it was going to be in a short
+43:13 amount of time sure
+43:17 so we need to do the full terrain which
+43:21 kind of
+43:23 that's going to be a tough one
+43:31 yeah so I'm actually going to draw out a
+43:34 Terrain feature for the full landscape
+43:37 and that's going to be a lot of
+43:39 subtraction
+44:02 fact let's take this down a little bit
+44:10 or
+44:17 there's a way I could do this let's see
+44:20 how can I do this let's think about this
+44:25 okay I know what I'm gonna do
+44:29 this is this is clever I feel clever
+44:30 because of this
+44:32 all right so we're gonna do a
+44:35 um I'm gonna make sure I'm in contain
+44:37 selection mode I'm going to make a
+44:39 contained selection
+44:42 and right now we'll just make sure that
+44:44 we've got the rectangular terrain
+44:45 feature on contain selection everything
+44:49 I've built basically okay I'm going to
+44:52 copy
+44:54 paste hold
+44:56 Union it all
+45:01 okay
+45:03 so if I select and I need to make sure
+45:06 that this is a turing feature
+45:09 um let me put up Aldo yep that's the
+45:12 terrain feature let me see if I can
+45:13 subtract that full Union
+45:15 so I'm going to look for that highlight
+45:17 that highlights all these and that's it
+45:20 right there
+45:23 so if I did that right that should all
+45:26 clip away yes it does look at that so
+45:29 now that's the this is what I'm going to
+45:31 apply all other grass to and then when
+45:34 you need to create a border out of this
+45:36 too
+45:46 so let me just go back and check and
+45:48 make sure I didn't miss anything
+45:51 um
+45:52 some stuff's missing over here there was
+45:54 a walkway and stuff over here
+45:56 okay so this stuff over here got missed
+46:02 for some reason
+46:05 let me see if I can select this and
+46:06 subtract that
+46:10 no let's see
+46:18 if I move this does it remain did I make
+46:20 a copy of it I did make a copy of it
+46:22 some reason it didn't get into that
+46:24 group selection
+46:29 oh look at that
+46:39 here we go
+46:40 subtract
+46:54 keeps being a little bit finicky with
+46:56 this process
+47:10 see when I click it it's selecting the
+47:11 hole and not the entirety there we go
+47:21 hey look at that oh except for I deleted
+47:25 I deleted all that oops
+47:37 almost want to do that whole this whole
+47:39 terrain piece over again
+47:46 okay
+47:48 foreign
+47:52 border wants to be tied to this
+47:54 interesting
+48:08 it's
+48:09 uh totally depends totally depends in
+48:13 this case I need to create a berm and a
+48:15 waterfall and it's going to be
+48:17 think that's going to be easier to do in
+48:21 actually it might be easier to do in
+48:23 Twin motion but I'm going to do it in
+48:24 Chief and then I'll grade past the chief
+48:27 terrain I'll kind of like let twin
+48:30 motions terrain kind of spill over
+48:33 um but for like automatic
+48:36 grass generation and stuff I'm
+48:38 definitely going to do that in Chief in
+48:41 the immediate area and then I can work
+48:43 twin into it a little bit that way
+48:48 um
+48:49 feel like I'm missing some stuff over
+48:51 here still let's see
+48:54 patio actually exists let's look at the
+48:57 actual model and see what happens
+49:10 did that answer that question
+49:12 um
+49:13 I mean it really depends on the job
+49:14 sometimes I'll do it all in Chief but I
+49:16 usually want to and in that case I'll
+49:18 cut the terrain back to like a foot away
+49:20 from the building
+49:22 um
+49:23 but sometimes I want to get
+49:26 a much nicer render and that takes a
+49:29 little bit of terrain work in Chief
+49:32 so let's see let's grab
+49:43 so this model got changed
+49:47 some of you guys have seen this render
+49:49 from me
+49:51 this model was changed and so that's all
+49:53 this terrain we're creating is for the
+49:55 front side of this basically
+49:58 and then I've got to export this model
+49:59 again
+50:01 when I I'm not going to replace my model
+50:04 in the existing twin motion file this
+50:06 time I might just start from scratch
+50:08 which means that I'll go in there and
+50:11 create a twin motion library from the
+50:13 materials I had already applied to the
+50:14 previous project file
+50:16 and I'll get into that but it's going to
+50:18 be a while
+50:27 okay so we got this piece down here did
+50:30 that translate into here
+50:32 yes it did looks like we got everything
+50:35 clipped
+50:38 okay so now I want to get this road in
+50:40 here
+50:45 and this road continues from somewhere
+50:50 so I'm gonna run this road
+50:54 I actually wanna one of my shots is
+50:57 going to be way from back here
+50:59 um with a really low field of view and
+51:02 just because this is such a large
+51:04 building which means I want this road to
+51:06 continue quite a bit which means I also
+51:08 need
+51:09 you know a rogue won't show up uh if you
+51:12 unless you have
+51:13 um
+51:15 terrain underneath that so I need to
+51:17 extend this terrain out
+51:32 and then I can draw my road here
+51:45 foreign
+51:52 turnaround
+52:11 and we don't really know what this is so
+52:14 let me just kill that now I've got
+52:16 another PDF I could drop in here
+52:20 thank you
+52:50 foreign
+52:54 this so I'm going to draw out a
+52:57 reference line
+52:59 from this point
+53:03 to this point
+53:08 tab it copy this hit cancel
+53:11 and I can
+53:13 resize
+53:14 this based on that
+53:24 close enough actually let's see
+53:29 thank you
+53:39 there we go okay
+53:52 and let's just
+53:56 seal that up
+53:59 bring this past
+54:03 filet filet filet so you can hit f key
+54:06 hold this hit your Middle Point call it
+54:09 a day
+54:12 actually do this faster I have a pen
+54:14 tablet I actually draw
+54:16 um
+54:17 I have a surface book three
+54:20 Surface Book 3
+54:22 um
+54:23 and Chief Architect is the fastest way I
+54:27 can draw Terrain
+54:30 um but I don't have a streaming set up
+54:33 on that so figured I'd want wanted to
+54:35 let you guys see me stream
+54:47 you could use clip overlapping terrain
+54:50 features but I think the actual geometry
+54:52 still lives underneath
+54:54 um which twin motion sees I'm not even
+54:56 certain of that but I don't even care to
+54:58 chance it honestly
+55:06 foreign
+55:10 there we go
+55:18 nice long road perfect
+55:29 um I have to look at a email for a
+55:31 second hold please
+55:33 need to make sure that the newest info
+55:36 came in on this
+55:44 let's see
+55:54 I am terrible when it comes to emails
+55:56 and I'm just looking for a piece of info
+55:58 I am terrible at
+56:01 reading through I just get confused
+56:05 I had a mean case a
+56:08 in case of that add
+56:11 so a bunch of email correspondents that
+56:13 are like cc to me man I just I can't do
+56:17 it just give me some some plans
+56:21 boom
+56:22 all right so this is the updated
+56:28 we're in line with notes Jones updated
+56:30 prelim let's see what this looks like
+56:35 oh wow there's a whole new color deal
+56:45 hopefully not a lot has changed
+56:52 that looks largely the same
+57:01 yeah that looks the same they just have
+57:03 some tracks coming in here
+57:08 that water feature is the same yeah
+57:12 okay that's fine great not all that
+57:15 changed
+57:17 um so I will put just like a a little
+57:19 terrain feature running through here and
+57:21 it doesn't need to be used that's the
+57:22 great thing about this color coding is
+57:23 it doesn't have to be used it can be
+57:25 colored the same works well like that
+57:29 um
+57:30 okay active window by the way guys I got
+57:34 a
+57:35 meta Quest Pro I paid the freaking big
+57:39 bucks for that thing that thing was
+57:41 expensive
+57:45 um
+57:45 anyways
+57:47 that should be
+57:50 should be coming through
+57:56 you know what I'm looking at right here
+57:58 this looks like it's a little dirt path
+58:00 around the around the building
+58:10 so boy I would have made this a lot
+58:13 easier to just do this polyline around
+58:15 that existing building maybe I will here
+58:16 we go upstairs
+58:21 foreign
+58:25 hopefully if it's it's not going to be
+58:27 drawn in the right place I'm going to
+58:28 have to jock it into place that's true
+58:31 yeah they already have this marked out
+58:33 look at that
+58:34 cool
+58:37 copy
+58:39 copy copy
+58:52 their way down way down off center on
+58:54 the drawing space funny
+59:09 so what is this
+59:12 train path okay
+59:14 that's fine
+59:29 um
+59:30 I use canvas as a backup
+59:33 and I know how to work with the matter
+59:35 pack in matterport
+59:37 um I got a pretty good workflow for that
+59:39 although I don't have an example so I'm
+59:41 gonna have to send me something to show
+59:42 them example for because I archived that
+59:45 project
+59:46 but
+59:48 I mean as well to me I do them on site
+59:51 so
+59:52 here let's bust out a new file and I've
+59:55 got someone there with a tape measure
+59:57 and they're drawn out for me
+59:59 um this is here for demonstration
+1:00:01 purposes a lot of the time so I will
+1:00:03 oftentimes just switch to my
+1:00:07 um
+1:00:07 wall tools shift select this delete it
+1:00:10 and start from a new wall
+1:00:12 and then
+1:00:13 draw my deal out sometimes I'll use the
+1:00:16 space planning tool and I'm only doing
+1:00:18 that because
+1:00:20 I think that it's going to get updated
+1:00:22 at some point so I'm I like to practice
+1:00:25 with it
+1:00:27 um so the space planning tool can get
+1:00:29 you pretty far if you've got a satellite
+1:00:31 view it's just take any house for
+1:00:34 instance
+1:00:35 um
+1:00:36 I'm just going to pull up
+1:00:38 Google Maps
+1:00:41 what do we got maps maps maps so I'm not
+1:00:44 seeing it here
+1:00:46 uh let's just go anywhere and switch
+1:00:50 this to
+1:00:52 a SAT View
+1:00:55 let's pick a house any house something
+1:00:57 interesting at least
+1:01:01 um
+1:01:02 these are all two stories kind of yeah
+1:01:04 there we go that's a really simple one
+1:01:05 to do
+1:01:07 um so say I've got an as built to go do
+1:01:08 sometimes I'll do this on the front end
+1:01:11 because I'll go copy this out and
+1:01:13 actually it's better to even throw your
+1:01:15 um
+1:01:17 throw your Dimensions here so measure
+1:01:19 distance right so and you want to
+1:01:22 measure straight across okay
+1:01:25 there we go oops drag this straight
+1:01:29 across and I want to get to something
+1:01:30 that's
+1:01:31 somewhat larger of a measurement all
+1:01:33 right there we have it
+1:01:35 now screen clip this
+1:01:38 get back and Achieve let's paste it and
+1:01:41 picture okay now we're going to resize
+1:01:43 it
+1:01:46 point to point
+1:01:48 resize
+1:01:49 uh note whatever that is 134 point
+1:01:53 something
+1:01:55 call it three why not
+1:01:58 okay so there's our building now and we
+1:02:01 no plan North is north right so right
+1:02:04 now we can already put in here CAD Line
+1:02:06 North if this helps us at all with
+1:02:09 bearing later on okay so we can put our
+1:02:11 plan North in here grab this grab your
+1:02:14 sat View and then rotate it
+1:02:18 you know and it's this is kind of a
+1:02:20 guessing check you could figure exactly
+1:02:22 how to rotate it let's do that real
+1:02:24 quick
+1:02:25 um
+1:02:27 we know if we draw a line out along this
+1:02:29 roof line here
+1:02:31 this we know what this Dimension is we
+1:02:34 can even use our angular Dimension tool
+1:02:39 to grab this
+1:02:40 right
+1:02:41 and
+1:02:43 we could put a you know PP on this
+1:02:47 and know that we're going to rotate this
+1:02:49 308 degrees
+1:02:51 so you could grab this you could grab
+1:02:53 the cad line
+1:02:54 uh where's our rotate handle here rotate
+1:02:59 you can even hit your tab input and go
+1:03:01 negative 308
+1:03:05 all right
+1:03:06 that was a little off the Mark I did
+1:03:08 something wrong there in the math
+1:03:14 but you could move it precisely is what
+1:03:16 I was getting at
+1:03:21 there we go now we got something to draw
+1:03:25 foreign
+1:03:28 put this in the center of the building
+1:03:30 here
+1:03:32 here we are
+1:03:34 simple enough and then you can kind of
+1:03:37 goof around with space planning the main
+1:03:39 reason I encourage it I really do think
+1:03:41 they're going to improve it I made the
+1:03:42 requests in Idaho to improve this and it
+1:03:45 didn't need much to improve it so
+1:03:48 um so what's nice about this is I feel
+1:03:49 like I could get pretty close to
+1:03:53 um what this actually is without ever
+1:03:54 stepping foot on this place right so you
+1:03:56 need a porch
+1:03:58 porches here
+1:04:00 you're gonna have an entry entries here
+1:04:04 you could look at the street view maybe
+1:04:06 entries dead center uh you know the
+1:04:09 living room is going to be on the left
+1:04:10 right or right side obviously you know
+1:04:13 the bedroom is going to be on the other
+1:04:15 side
+1:04:16 we'll expand the bedroom I mean the
+1:04:18 entry
+1:04:20 um call this a hallway
+1:04:27 I'm doing too much on this
+1:04:30 already
+1:04:33 but then build it measure it you know
+1:04:36 you know the rest
+1:04:39 you can use your Marquee let's see yeah
+1:04:42 whatever build it
+1:04:45 get rid of your this build it this back
+1:04:48 and you could get pretty close without
+1:04:50 ever stepping foot on the place and then
+1:04:52 just tweaking it from there or you could
+1:04:53 at least just draw out the shell
+1:04:55 and that'd be easy and that'd get you
+1:04:57 halfway there too
+1:05:01 that way when I'm on site someone's just
+1:05:04 I hire a kid I'll show you what my
+1:05:07 contracts look like
+1:05:08 this helps people like this stuff let's
+1:05:11 do hopefully I'm not giving away any
+1:05:14 dirty secrets
+1:05:16 I'll log in on the second screen
+1:05:20 let me see if I can get an as built
+1:05:39 okay so on my as Bill we'll just zoom in
+1:05:41 on this
+1:05:44 um oh well this one actually doesn't
+1:05:46 have a cad draft on there
+1:05:48 I'm Gonna Miss This let me just say it
+1:05:50 from from memory
+1:05:51 um it says that I have a scan technician
+1:05:54 line there and that's the person going
+1:05:56 to help me measure and scan technician
+1:05:58 uh right now currently 2022 I pay 350
+1:06:02 and it takes me uh two to three hours
+1:06:05 from
+1:06:07 meeting up
+1:06:08 getting stuff ready getting you know
+1:06:11 just mildly prepared to go travel time
+1:06:14 to get to the site measure it out with a
+1:06:17 scan Tech come back unload our documents
+1:06:20 and then that's it right so for that I'm
+1:06:24 paying 350 currently 2022 to my scan
+1:06:28 Tech who you know usually a young kid
+1:06:30 and
+1:06:32 and then I have a line item on my
+1:06:34 document that says
+1:06:37 um
+1:06:38 it says you're encouraging the growth of
+1:06:40 an aspiring young architect they're in
+1:06:42 the in the field of architecture the
+1:06:45 nature of the business means that we
+1:06:46 have very few measures in in between so
+1:06:49 this is this price is indicative of that
+1:06:51 and you're benefiting their future
+1:06:52 something like that
+1:06:57 foreign
+1:07:07 I forgot to pin your previous comments
+1:07:09 oops
+1:07:10 so so no one on Facebook knows what the
+1:07:12 heck I was just talking about
+1:07:16 this was the comment I was responding to
+1:07:22 all right well I got here
+1:07:27 foreign
+1:07:28 okay
+1:08:04 oh my terrain hasn't pulled out far
+1:08:06 enough that's the problem
+1:08:38 foreign
+1:09:02 to build out a radial menu just for
+1:09:05 terrain and then be able to swap it on
+1:09:08 the Fly
+1:09:09 that would make a huge difference
+1:09:14 [Music]
+1:09:40 foreign
+1:10:08 that's what is going on here I need to
+1:10:10 trim this
+1:10:13 Okay so
+1:10:18 here's that trim again right we're going
+1:10:21 to simplify this again
+1:10:23 take this
+1:10:25 and
+1:10:26 oh I don't wanna
+1:10:28 break this that's what I'm doing what am
+1:10:30 I doing
+1:10:31 I'm being an idiot
+1:10:33 and break this
+1:10:38 and then I wanna
+1:10:40 heat break
+1:10:45 sure there
+1:10:48 that should have been a complete break
+1:10:51 huh
+1:10:56 what's up what's up with that there we
+1:10:58 go
+1:11:00 that's still there what is going on here
+1:11:07 break
+1:11:09 all right did I lose this I lost this
+1:11:27 anybody watching let me know if you got
+1:11:29 any questions
+1:11:33 I'm going to continuous draw from here
+1:12:13 foreign
+1:12:22 oh what happened there
+1:12:25 funny
+1:12:29 that wasn't linked dang it why not
+1:12:38 foreign
+1:12:43 start and end conflict here so what's
+1:12:47 going on
+1:12:51 no
+1:12:53 why isn't this
+1:12:55 extending
+1:13:02 extend
+1:13:07 no
+1:13:11 [Music]
+1:13:15 what's the problem here
+1:13:22 no still no wow okay
+1:13:26 all right forget it we'll figure it out
+1:13:29 so
+1:13:31 that means I gotta keep drawing this
+1:13:58 I'm gonna Union these two that's what
+1:14:01 I'm gonna do oops
+1:14:03 that was silly
+1:14:16 weird this is doing all kinds of weird
+1:14:18 stuff
+1:14:20 what's going on
+1:14:25 I should have just drawn it from scratch
+1:14:30 that should be a closed polyline
+1:14:33 why is it cutting across like that
+1:14:35 that's bizarre
+1:14:37 something's going on here
+1:14:39 she's just done it from scratch
+1:14:41 oops
+1:14:42 that's not interesting
+1:14:57 I don't know duplicate line there funny
+1:15:11 foreign
+1:15:24 that was a bad bad go at it let's see
+1:15:27 what we got here to clean this up
+1:15:45 foreign
+1:16:15 foreign
+1:16:49 foreign
+1:17:19 [Music]
+1:17:21 all right what does that look like
+1:17:43 still one of these different from the
+1:17:45 other why not could get some real cool
+1:17:47 features out of that and twin
+1:17:53 foreign
+1:18:04 this might be it I might get to start
+1:18:07 concentrating on figuring out how that
+1:18:09 berm goes
+1:18:11 so I'm going to save this
+1:18:14 and then we're gonna make it back up
+1:18:32 kind of end up wanting this P line to
+1:18:35 cut features
+1:18:42 and something that's fun that we could
+1:18:45 do
+1:18:48 let me just move it off the side
+1:18:50 shift select it block it
+1:18:55 add to the library
+1:18:57 there we go
+1:18:59 simple method
+1:19:08 now I'm going to copy the whole folder
+1:19:11 over
+1:19:25 really important to have
+1:19:28 very clear
+1:19:30 file management system so we're on
+1:19:33 design review B version one of it for
+1:19:35 the Jones project and Renee rabbit is
+1:19:38 drafting
+1:19:41 that way when things change because they
+1:19:43 always change
+1:19:46 we can revert back
+1:19:52 now I can take that block
+1:19:55 327 sounds serious
+1:20:08 now let's unblock it and then pop this
+1:20:12 into place
+1:20:20 and convert it to a Terrain feature why
+1:20:22 not
+1:20:23 why not
+1:20:27 looks like it actually need to move down
+1:20:28 a little bit
+1:20:30 okay
+1:20:50 people just joining the feed I am just
+1:20:53 prepping some terrain a Terrain model
+1:20:55 for twin motion get the most amount of
+1:20:57 success out of this without having to
+1:20:59 fight twin motion that that much
+1:21:02 um
+1:21:07 next up I'm going to make a bunch of
+1:21:09 offsets since I think this is the last
+1:21:11 feature we're going to do I might do one
+1:21:13 more that's just a building but I don't
+1:21:15 think I need the building done so maybe
+1:21:18 not
+1:21:23 so time to start thinking about
+1:21:25 the offsets that was funny painted
+1:21:28 everything about what I wanted it to
+1:21:29 paint
+1:21:31 oh I need to subtract it first that's
+1:21:33 why
+1:21:34 I need to subtract this guy
+1:21:45 paste
+1:22:05 okay so borders I need this border oh we
+1:22:09 need to subtract this roadway here
+1:22:16 you can see the terrain was running
+1:22:18 through that this Turing feature was
+1:22:21 running through that border and we don't
+1:22:22 want that
+1:22:31 and now it's not cool
+1:22:34 um we got more problems over here again
+1:22:36 I don't know why this keeps reverting
+1:22:38 back
+1:22:41 has all these features interesting
+1:22:46 hmm
+1:22:48 you must have had clip done here
+1:23:26 okay so what borders do we need well we
+1:23:29 need all these borders
+1:23:32 this guy this whole thing
+1:23:35 so we're going to copy
+1:23:38 I don't usually do this in 3D it's
+1:23:40 particularly difficult uh to do the
+1:23:43 offset in 3D sometimes
+1:23:46 and I don't see my
+1:23:50 positioning node for our offset
+1:23:53 in 3D so I don't like that
+1:23:56 let's do in 2D
+1:23:57 [Music]
+1:23:59 so we're going to grab this
+1:24:02 copy it there's our offset bring that in
+1:24:05 12 inches
+1:24:10 now I need to
+1:24:11 copy paste hold take this second one
+1:24:16 subtract
+1:24:18 one we just did
+1:24:23 and then make sure that it's colored
+1:24:27 appropriately should have just a little
+1:24:29 thin border there there we go thin
+1:24:31 border that's where our small grass goes
+1:24:36 just going to keep repeating this stuff
+1:24:38 until it sinks into everybody's head
+1:24:41 or hire me I like this stuff
+1:24:45 okay copy and then where's our offset
+1:24:48 again
+1:24:49 and you make that thing so hard to see
+1:24:52 there it is
+1:24:55 foreign
+1:24:59 [Music]
+1:25:02 subtract
+1:25:05 and I'll paint it
+1:25:09 I'm gonna put the same border all the
+1:25:11 way around I think that's a good idea so
+1:25:18 there we go look at that went all the
+1:25:20 way around all features except for over
+1:25:23 here why so I gotta go back a step
+1:25:25 that's too bad
+1:25:27 man this is not clipping the main deal
+1:25:30 here
+1:25:33 even though it looks like it is
+1:25:38 so
+1:25:41 I actually want to kind of want to undo
+1:25:44 that last action
+1:25:47 it's another way of doing this I could
+1:25:48 just you and unit and that would be
+1:25:50 simple
+1:25:54 there we go that's union now
+1:25:58 hole
+1:26:01 yeah we'll get some problems over here
+1:26:03 what's going on
+1:26:06 there we go that's cut away now
+1:26:09 this lost its guy copy face hold
+1:26:17 attract that
+1:26:21 I think that's the last of it
+1:26:24 yeah
+1:26:26 okay now
+1:26:31 foreign
+1:26:39 Union
+1:26:44 and
+1:26:46 subtract
+1:26:49 if I can get the whole thing that'd be
+1:26:51 great if not
+1:26:53 might be a problem
+1:26:55 man can't get the whole thing
+1:27:06 dedicate the whole thing
+1:27:10 thank you
+1:27:12 quick check select this
+1:27:15 get our Center positioning
+1:27:18 where's our Center position here it is
+1:27:22 it did get the whole thing
+1:27:24 okay cool
+1:27:44 foreign
+1:28:04 ER ended up with that pathway
+1:28:22 hmm Something Happening Here
+1:28:37 there we go
+1:28:39 finally
+1:29:09 still didn't get a border around this
+1:29:11 section I have no idea why
+1:29:18 [Music]
+1:29:26 it has the cutout where it would not do
+1:29:29 water
+1:29:30 okay
+1:29:32 fine
+1:29:34 I'll figure it out
+1:29:42 what else needs a border this section
+1:29:44 does
+1:30:07 foreign
+1:31:00 foreign
+1:31:28 foreign
+1:31:42 look at this fire pit stuff
+1:31:48 this is grass while wild grass this is a
+1:31:52 Road Grass
+1:31:54 this is grass
+1:32:21 grass border grass border grass all the
+1:32:24 way around
+1:32:26 just got to do this one
+1:32:29 [Music]
+1:32:40 [Music]
+1:33:19 some of this border is wrong I'm gonna
+1:33:20 have to delete it over here in
+1:33:22 particular
+1:33:26 foreign
+1:33:46 [Music]
+1:33:59 and know how twin motion applies grass
+1:34:02 we could just do a couple little breaks
+1:34:04 in this
+1:34:06 I
+1:34:11 or let's see
+1:34:14 yeah there's one break okay
+1:34:21 yeah just have a cross itself it's not
+1:34:23 the biggest deal in the world
+1:34:27 buildings covering that sure
+1:34:31 all right time to put in some terrain
+1:34:33 data
+1:34:35 that's gonna be funny
+1:34:49 this is a little goof up this needs to
+1:34:51 extend all the way to here
+1:35:01 thank you
+1:35:42 thank you
+1:36:29 foreign
+1:36:50 yeah
+1:36:52 man this piece doesn't want to go away
+1:36:54 go away
+1:36:58 tedious work
+1:37:10 I don't know what I'm doing here in 3D
+1:37:12 it's ruining this little corner
+1:37:40 sure
+1:37:45 oh more people just popped in cool cool
+1:37:48 we're doing a kind of an advanced
+1:37:49 terrain I'm about to start
+1:37:52 generating some slope
+1:37:57 I can even see my tools down here there
+1:37:59 we go
+1:38:01 what do we have here we got a 96
+1:38:06 so continuous draw
+1:38:15 really not going to be too worried about
+1:38:17 how
+1:38:18 critical this Bend is
+1:38:32 because we're only going up five feet
+1:38:34 over the course of
+1:38:38 like a hundred
+1:38:42 we'll go ahead and set the actual
+1:38:43 dimensions of what they've got going on
+1:38:45 here if you change your number style you
+1:38:46 don't need to type in inches every time
+1:38:48 so if we change this to decimal feed for
+1:38:50 instance I can just type in 96 and hit
+1:38:52 enter that's easy enough
+1:39:15 where does this carry through
+1:39:18 is that it right there yeah that's gonna
+1:39:19 be it
+1:39:37 there's some kind of drop off here
+1:39:39 [Music]
+1:39:51 [Music]
+1:39:52 foreign
+1:40:08 go this one does some weird
+1:40:12 jog too
+1:40:15 what does that look like oh it goes
+1:40:16 through here
+1:40:21 and then
+1:40:22 over here all right
+1:40:29 [Music]
+1:40:33 you need to get better at splines
+1:40:35 because splines you can draw terrain
+1:40:37 features with splines really quickly
+1:41:01 foreign
+1:41:24 this what did I do with it
+1:41:28 thank you
+1:41:29 because right through here
+1:41:32 Okay so
+1:41:34 coming up on the fire pit and then we're
+1:41:36 coming up on the water feature just need
+1:41:39 to make sure we get a lot of transition
+1:41:40 near the water feature is going to be
+1:41:42 challenging
+1:42:03 foreign
+1:42:27 foreign
+1:42:56 data okay so now let's see if I can't
+1:42:59 think about this logically all right so
+1:43:01 I need a berm here
+1:43:04 and we're in between the 98 and 99
+1:43:06 dimension
+1:43:09 so I want a quick jump to
+1:43:13 three feet Maybe
+1:43:20 quick jump of three feet
+1:43:25 I don't want to do a Terrain break
+1:43:31 this might actually be easier to do in
+1:43:33 Twin let's see
+1:43:38 let's just see what happens let's go
+1:43:51 so that's going to be my
+1:43:54 I'll be my baseline 98.2 or something
+1:44:00 and then copy shrink it in
+1:44:06 let's go 99.
+1:44:10 copy bring it in
+1:44:14 99.5
+1:44:16 up here in
+1:44:23 100
+1:44:27 of me and
+1:44:31 I feel like it's going to be going back
+1:44:34 down now
+1:44:36 steeply quickly 90
+1:44:40 8.5
+1:44:41 oops gotta open it first
+1:44:44 88.5
+1:44:47 and then copy shrink his way in
+1:44:51 and now we're getting into like
+1:44:53 96 because it's a trench
+1:44:56 and I'm gonna do it
+1:45:03 let's just see what that looks like
+1:45:07 well craziness has happened well lifted
+1:45:10 the terrain way up there you go
+1:45:12 look at that there's my water feature
+1:45:15 it's actually not half bad
+1:45:18 before I export this I'm going to export
+1:45:20 this as Dae so I'm going to have to pump
+1:45:22 I'll probably pump up the
+1:45:25 the triangle count on the surface
+1:45:28 that's actually really not not that bad
+1:45:35 so I got to put another dimension line
+1:45:37 all around this because it should be
+1:45:38 flatter around this
+1:45:41 so we need
+1:45:43 this guy
+1:45:44 to kind of
+1:45:46 pump out this should be
+1:45:54 that should be right that should even
+1:45:57 some of this out a little bit
+1:46:00 flatten it out a little bit there you go
+1:46:04 yeah I'm gonna have to work at this a
+1:46:06 bit I'm gonna see if my Oculus quests
+1:46:08 came in the mail yet let's see what what
+1:46:10 happened with that
+1:46:16 we're chipped
+1:46:19 um
+1:46:28 nope still out for delivery dang it
+1:46:37 dang it
+1:46:44 okay
+1:46:48 [Music]
+1:46:55 okay what else do we have here
+1:47:00 I kind of want to ease this so we're
+1:47:03 gonna have to move some of those lines
+1:47:04 extend some of these lines
+1:47:06 so what does that mean so the height one
+1:47:08 this is the tall one
+1:47:10 this should actually come back a little
+1:47:12 bit
+1:47:13 right
+1:47:15 and then the shorter one should kind of
+1:47:18 carry through
+1:47:22 to create the sides
+1:47:27 right and then
+1:47:31 what happened here oh shoot this got
+1:47:34 connected to the hundred line
+1:47:36 am I okay with that
+1:47:39 that's that goofed up
+1:47:47 so we've got a little bit of conflicting
+1:47:49 stuff here
+1:47:51 99.5 that's fine
+1:48:00 thank you
+1:48:04 yeah we've got a lot of data right here
+1:48:06 that's goofing up about our data too
+1:48:09 close together
+1:48:17 that's because this hundred line is
+1:48:19 right through here somewhere right
+1:48:22 where's that underline
+1:48:29 100 lines way down here what what
+1:48:31 happened here we lost something
+1:48:33 translation
+1:48:38 foreign
+1:48:40 why
+1:48:44 what did it connect to
+1:48:47 Oh weird it did some weird
+1:48:51 weird thing over here
+1:48:57 Chief glitch
+1:48:58 who knows about Chief glitches
+1:49:04 I almost want to just delete that thing
+1:49:06 that thing got got a little crazy
+1:49:15 here's our new 100 line actually you
+1:49:18 know I don't like it
+1:49:20 let's make this shoot
+1:49:23 this our new 100 line
+1:49:25 hard to see too much Graphics too many
+1:49:28 graphics
+1:49:52 foreign
+1:49:59 okay should be softening some of this
+1:50:01 data now
+1:50:14 there we go that's looking much better
+1:50:17 much much better
+1:50:53 foreign
+1:51:26 foreign
+1:51:36 challenge challenge challenge challenge
+1:51:38 okay
+1:51:55 foreign
+1:52:39 I feel you on that what am I doing here
+1:52:42 what happened here why am I getting this
+1:52:43 big bulbous hump here
+1:52:45 that's just goofiness
+1:52:47 shouldn't get that
+1:52:49 one's looking good for a while I thought
+1:52:53 yeah it's too much graphics on the
+1:52:55 screen it's too difficult
+1:52:57 um
+1:52:59 I might be able to ditch this and that
+1:53:01 would make a big difference at this
+1:53:03 point this PDF
+1:53:07 I'm gonna select this PDF
+1:53:10 there it is
+1:53:28 that's better
+1:53:52 thank you
+1:54:02 okay so this is the data that's screwing
+1:54:06 me up here in 98.5 it shouldn't be
+1:54:10 what else would be screwing me up here
+1:54:15 six
+1:54:28 this section needs to go away
+1:54:30 98. yeah let's go 98.
+1:54:50 foreign
+1:54:55 there we go
+1:54:58 that's looking more like it
+1:55:05 this is some kind of a bridge here
+1:55:07 that's challenging
+1:55:22 thank you
+1:55:44 thank you
+1:56:05 this isn't my layer sets is it is that
+1:56:08 my layer sets yeah
+1:56:11 so terrain data looks
+1:56:14 so it's just wait
+1:56:18 easier on the eyes
+1:56:48 thank you
+1:57:25 foreign
+1:57:54 foreign
+1:58:03 there we go that's looking pretty good
+1:58:16 funny little Spike right here
+1:58:23 thank you
+1:58:55 I might just fake the bridge and run
+1:58:58 that terrain right through it
+1:59:01 I got a hump here that I gotta fix
+1:59:18 there we go
+1:59:28 [Music]
+1:59:37 yes
+1:59:52 [Music]
+2:00:07 foreign
+2:00:17 [Applause]
+2:00:37 yes
+2:00:57 there we go cleaner
+2:00:59 up the triangle count
+2:01:01 [Music]
+2:01:03 still too much data in this one spot why
+2:01:06 is that it's too close together I guess
+2:01:09 it's okay
+2:01:17 that's where all that spike is coming
+2:01:19 from
+2:01:25 [Music]
+2:01:32 what line is this 98.5
+2:01:43 foreign
+2:02:13 thank you
+2:02:46 those are
+2:03:08 this little slip of the data and wanted
+2:03:11 to slip to rain through that slip
+2:03:14 weird
+2:03:21 what the heck
+2:03:27 98 oh how did that get 98.7
+2:03:32 oh and this is 95.95
+2:03:35 98.7
+2:03:41 here
+2:04:10 thank you
+2:04:24 there we go
+2:04:26 that's looking good
+2:06:05 foreign
+2:06:10 yeah that's looking like a water feature
+2:06:15 nice
+2:06:35 see if I can't fix some of this stuff
+2:06:36 over here
+2:06:38 foreign
+2:06:45 I think these things are too close
+2:07:36 that's a little better
+2:07:54 I think I could work with this
+2:07:57 you guys want to see this go into twin
+2:08:00 motion finally
+2:08:31 thank you
+2:09:05 yeah I like this
+2:09:13 heck with it see what it looks like
+2:09:22 I could probably turn up the surface
+2:09:25 model even more
+2:09:33 so low terrain smoothing
+2:09:40 because we want to see it
+2:09:51 thank you
+2:10:03 all right let's see what it looks like
+2:10:05 why not
+2:10:25 two two one multiplier three
+2:10:45 thing I didn't do is Place markers for
+2:10:47 the plants to just replace them
+2:10:51 I might want to do that
+2:10:55 otherwise I can just eyeball them which
+2:10:57 probably be okay
+2:11:11 because we can do or replace from a
+2:11:14 library into in motion
+2:11:16 all right let's open up
+2:11:22 we're gonna be looking at the old model
+2:11:24 but that's okay
+2:11:32 foreign
+2:11:34 [Music]
+2:11:59 foreign
+2:12:29 foreign
+2:12:38 forever let's go oh there we go
+2:12:44 okay
+2:12:47 big old project
+2:13:00 let's see how do we do this
+2:13:04 well first of all I'm gonna ditch all
+2:13:07 these trees
+2:13:09 which is going to take a second
+2:13:13 but I want to I kind of want to save
+2:13:15 them
+2:13:16 yeah because they got some cool stuff in
+2:13:18 here all right so eraser pump this up
+2:13:26 um easier to do this in
+2:13:29 preferences not on Ultra but whatever
+2:13:32 we'll just do it on Ultra
+2:13:43 show you the reason why I'm doing this a
+2:13:45 little later this is a this is a pro
+2:13:47 trick I've in fact I've never even seen
+2:13:49 this
+2:13:50 in any of the videos out there
+2:13:54 so you're only going to catch it here in
+2:13:56 this little live feed ha
+2:14:05 oh we need to make sure we're erasing
+2:14:07 everything in here
+2:14:23 you could also turn off everything else
+2:14:25 in the meantime make this move a lot
+2:14:27 faster
+2:14:47 there we go
+2:14:53 foreign
+2:14:59 this is still moving slow man telling
+2:15:02 you
+2:15:09 oh it's not letting me draw weird
+2:15:19 huh it's like it needs the terrain model
+2:15:32 foreign
+2:15:40 for vegetation now to rain
+2:15:45 tomorrow
+2:15:46 there we go now I can draw all right
+2:15:49 better
+2:16:09 I think maybe it's hard to stream in
+2:16:11 Twin motion
+2:16:13 this is just a such a graphics guard hog
+2:16:18 can barely move right now
+2:16:20 let's go
+2:16:40 yeah I got my six key pressed and barely
+2:16:42 moving
+2:16:46 foreign
+2:16:55 erased everything because that node just
+2:16:57 disappeared
+2:17:00 so now that you have that
+2:17:06 all let's kick this back to all
+2:17:09 okay so painted vegetation I'm going to
+2:17:11 rename this
+2:17:13 for now it can just be the Jones
+2:17:18 um what is this this is uh
+2:17:21 Evergreen
+2:17:25 Terrain
+2:17:27 and then if I get into my library
+2:17:31 user Library models Landscaping I can
+2:17:36 say this it won't give me a preview but
+2:17:38 that doesn't matter
+2:17:40 so I'm going to add this to user Library
+2:17:47 which there it is all right so it just
+2:17:49 showed up so now let me turn on the
+2:17:51 scene graph again
+2:17:53 and we'll just zoom into selection
+2:17:56 right click Zoom selection to main house
+2:17:58 there we go
+2:18:01 um
+2:18:03 man let's go what is so slow all right I
+2:18:06 need to change my preferences because
+2:18:08 this is just super slow
+2:18:14 uh we're on high but let's go to medium
+2:18:16 why not all right
+2:18:23 might need a computer refresh here
+2:18:27 come on come on come on come on
+2:18:31 come on
+2:18:38 come on
+2:18:51 slow okay
+2:18:54 all right let's get our Import in
+2:19:20 keep hierarchy no we don't want to in
+2:19:23 fact we could collapse all because it
+2:19:25 has its own color coding so that should
+2:19:28 be fine
+2:19:30 I believe
+2:19:33 and then that's likely not going to come
+2:19:35 in the same position because we drew it
+2:19:37 in a new drawing that's okay though yeah
+2:19:39 so it's definitely
+2:19:41 way the heck up here
+2:19:46 and if I'm organized in my tree here
+2:19:52 people who spot this pretty easily
+2:19:55 yes a Terrain came in as one object
+2:19:59 I don't know if that's good I might need
+2:20:01 to switch that to different uh to broken
+2:20:03 down my material
+2:20:05 in fact let's do that
+2:20:11 um nice when you delete things like that
+2:20:12 you can Purge your materials by the way
+2:20:15 let's just do a material selection
+2:20:25 and then how do I do this let's see I
+2:20:29 think I actually select all
+2:20:32 right can I do that there's a way to
+2:20:35 purge this
+2:20:37 yeah and now you can
+2:20:40 delete
+2:20:43 and it will only delete the things that
+2:20:45 are not being used currently
+2:20:48 which is kind of clever so you just
+2:20:49 purges the material
+2:20:53 cuts that file size down in case you
+2:20:55 import some things you didn't need
+2:21:01 that's another trick that's I don't
+2:21:03 think is anywhere
+2:21:07 okay so I want to collapse buy material
+2:21:10 there we go
+2:21:14 thank you
+2:21:18 [Music]
+2:21:30 I'm going to use this Center position
+2:21:33 node
+2:21:35 hopefully to help out
+2:21:40 probably change views to the top down
+2:21:43 view I can't remember what the hotkey is
+2:21:45 for that I almost never use it
+2:21:53 [Music]
+2:21:57 I gotta look at my statistics something
+2:21:58 is going on here I can barely move
+2:22:02 I might need to end that yeah two frames
+2:22:04 a second this is just torture
+2:22:06 why is that 5.9k 24 million polygons
+2:22:10 that's not even that bad
+2:22:12 um
+2:22:13 so I don't know what's going on
+2:22:15 but it's killing me let's kick the
+2:22:18 landscape off
+2:22:23 that jumped just a little bit but not
+2:22:26 much
+2:22:28 [Music]
+2:22:41 well all right it's looking pretty
+2:22:42 already
+2:22:45 so that needs to kind of tuck in
+2:22:47 right about there
+2:22:51 and then
+2:22:55 right about there
+2:23:00 there
+2:23:06 that should be it that should be pretty
+2:23:08 close
+2:23:13 so
+2:23:15 let's see here what's my
+2:23:18 oh I have this painted vegetation turn
+2:23:20 that off that's killing some stuff for
+2:23:22 sure
+2:23:25 okay so what's this terrain so we could
+2:23:28 turn terrain off
+2:23:37 that was terrain and what was it what's
+2:23:40 this this is the rest of the model
+2:23:42 that I kind of floated in
+2:23:45 uh so we can sculpt this and drop it
+2:23:48 down
+2:23:57 to like ease
+2:24:02 foreign
+2:24:10 let's just do flat and region Latin
+2:24:13 region oh that's actually higher all
+2:24:16 right let's do drop it down then
+2:24:36 I see that comment
+2:24:38 that's funny
+2:24:45 here's the bocce ball court that I need
+2:25:02 painted vegetation three I wonder what
+2:25:04 this is this is some rocks and some
+2:25:07 grass I could probably redo that let me
+2:25:10 just delete it then it's easier than
+2:25:12 having to try to erase it
+2:25:16 foreign
+2:25:21 [Music]
+2:25:29 what is this spill over we got some
+2:25:31 spill over here what are we looking at
+2:25:35 what is this
+2:25:36 Road One
+2:25:40 so then what's this
+2:25:43 ah so Road one is imported
+2:25:49 and road is imported
+2:25:52 yeah so we can get rid of these two
+2:25:56 same with this
+2:25:58 driveway yep
+2:26:00 and this roundabout is done
+2:26:03 that's all gone this driveway's gone
+2:26:08 yeah sweet all right let's start putting
+2:26:11 this together
+2:26:12 got some good stuff going now
+2:26:16 it's kind of fun part right
+2:26:18 so asphalt could be main road coming in
+2:26:25 um
+2:26:26 some kind of
+2:26:29 you could put a driveway Grid in here
+2:26:34 yep
+2:26:36 I'm going to want to put
+2:26:41 Forest ground here yeah
+2:26:44 probably the same thing here honestly
+2:26:50 and then that's going to be grass areas
+2:26:58 will be really fun to put water in here
+2:27:02 so we've got some kind of graveled
+2:27:05 area
+2:27:10 and let's throw some more grunge in it
+2:27:16 uh that looks like a pathway
+2:27:20 oops I was in the right place
+2:27:26 maybe we want sidewalk material there
+2:27:28 instead
+2:27:34 I can't remember these kind of pavers
+2:27:36 what are these
+2:27:40 you turn on my cad plot plan
+2:27:48 some kind of big heavy Rock huh
+2:27:55 two inch deep three quarter inch Aspen
+2:27:58 gravel it's all right okay so yeah this
+2:28:01 is
+2:28:04 this is essentially this
+2:28:08 although it looks different
+2:28:10 let's do that one
+2:28:19 uh that Force ground it's gonna go on
+2:28:21 our border too
+2:28:23 but the great thing about this here's
+2:28:25 the magic here's here's what's really
+2:28:26 fun for me is uh
+2:28:28 let me get in my landscaping and I have
+2:28:30 border grass right here
+2:28:33 so I can
+2:28:35 click on what I do here I think I need
+2:28:38 yeah just drag this on to anywhere
+2:28:42 and then select it hit our plus icon and
+2:28:45 hit our border up
+2:28:50 a bunch of times
+2:28:55 five billion times because it's going to
+2:28:58 take a while we got a long border
+2:29:06 and then I can also go back to my
+2:29:08 library user Library team models
+2:29:10 landscaping and grab
+2:29:15 let's just go grass one throw it here
+2:29:23 that
+2:29:25 Bam Bam Bam hit one more time maybe
+2:29:56 foreign
+2:30:15 I want to throw a plane on something
+2:30:18 pretty flat
+2:30:19 so like this
+2:30:22 and then let's get it over here
+2:30:25 and start shaping it
+2:30:39 or how do I want to do this how do I
+2:30:41 want to do that waterfall I'm not sure
+2:30:43 exactly
+2:31:14 foreign
+2:31:23 yes you can
+2:31:25 yes you can crank up that triangle count
+2:31:28 yes you can
+2:31:37 okay
+2:32:02 that's probably gonna be it something
+2:32:03 like that
+2:32:12 exactly
+2:32:22 who has her backdrop
+2:32:33 oh that needs to change
+2:32:37 foreign
+2:33:02 kind of a desert looking landscape
+2:33:09 foreign
+2:33:12 for now
+2:33:14 why not
+2:34:00 okay just wait till we get all the
+2:34:03 well everything else in there
+2:34:33 foreign
+2:34:57 somewhere
+2:35:00 so the same trees we put in earlier into
+2:35:03 the library and we can grab those again
+2:35:06 what would I call that Jones Evergreen
+2:35:08 terrain right so just drop that in
+2:35:13 and then you can take this and paint it
+2:35:14 out
+2:36:04 I think this is some kind of gravel road
+2:36:31 know what happened here
+2:36:34 oh this is the old old one
+2:36:57 okay close that water feature is to the
+2:36:59 building crazy
+2:37:07 [Music]
+2:37:24 all right let's see
+2:37:33 so that's all this gravel stuff all
+2:37:37 alongside there
+2:37:39 and then we got walkway
+2:37:42 and
+2:37:44 what's that patio fire oh cool
+2:37:48 okay
+2:37:49 I kind of screwed that up that should
+2:37:51 have been all kind of flat
+2:37:53 oops
+2:37:55 that's okay I know I have a solution for
+2:37:57 that
+2:37:59 so this is all rock
+2:38:01 so let's go
+2:38:07 I mean we could try to do a paver I
+2:38:10 might not have a favorite material
+2:38:17 I do
+2:38:22 oh well
+2:38:24 I mean I guess that's a half bad but
+2:38:26 it's rolling into here
+2:38:28 kind of want to do this practically
+2:38:30 instead of
+2:38:32 so let's do it practically so let's go
+2:38:38 underlay with that or rocky ground could
+2:38:42 be
+2:38:45 let's turn this lighting down because
+2:38:47 it's hard to see there we go
+2:39:00 so what rocks can we use there's only a
+2:39:03 couple of them that you could really use
+2:39:05 for this kind of thing
+2:39:06 this one's pretty good
+2:39:08 so we can just
+2:39:13 there we go flatness way down
+2:39:17 way way down
+2:39:31 this just takes a while
+2:39:35 I wish it defaulted to copy instead of
+2:39:37 instance
+2:39:39 mm-hmm
+2:39:49 because building pavers by yourself is
+2:39:52 not not my favorite
+2:40:31 thank you
+2:40:36 [Music]
+2:40:43 they have papers what if they do
+2:41:05 not really I suppose I can export some
+2:41:08 probably be easier honestly
+2:41:14 sure why not
+2:41:17 why not
+2:41:19 [Applause]
+2:41:21 what do we already have that's got an
+2:41:23 organic shape like that
+2:41:25 or I could just Trace these that'd be
+2:41:28 funny
+2:41:30 I can get used to the uh what you would
+2:41:33 call it tool finally
+2:41:35 um
+2:41:42 so what is a kidney shaped thing doesn't
+2:41:45 do
+2:41:47 I mean kind of does what you wanted to
+2:41:49 do
+2:41:54 huh funny yeah that does exactly what I
+2:41:57 wanted to do
+2:42:25 foreign
+2:42:31 thickness thickness I want to be five
+2:42:33 inches at least probably more like 12
+2:42:36 inches who cares make it 24.
+2:42:40 bring the top one inch yeah
+2:42:42 three at a time one inch sure
+2:42:46 doesn't matter
+2:42:52 [Music]
+2:43:12 you have a suggestion huh Patrick would
+2:43:14 you say
+2:43:16 yeah you can but what's faster what do
+2:43:20 you think's faster I think this might be
+2:43:22 faster you can grab rocks but
+2:43:24 positioning them
+2:43:25 in a paver pattern
+2:43:28 probably be kind of tough you think they
+2:43:31 have I mean
+2:43:32 there's a difference between just their
+2:43:34 rocks and and pavers like this is
+2:43:36 actually supposed to be like a
+2:43:37 decorative paver
+2:43:43 I don't know unless you no one in
+2:43:45 particular that you know what works well
+2:43:48 I don't offhand
+2:43:51 but I mean this is nice because it's
+2:43:52 kind of dynamic and quick
+2:43:54 because I can convert these to a
+2:43:56 polyline solid when I'm done
+2:44:29 let's just try exporting these few ones
+2:44:32 we just did
+2:44:34 thank you
+2:44:38 and
+2:44:42 let's see can I convert this to
+2:44:46 be funny as if I had these all
+2:44:48 overlapping in a way
+2:44:50 um I can convert all these
+2:44:53 at the same time to a 3D solid
+2:44:58 yeah 24 inches sure
+2:45:03 and then I'm just going to copy this
+2:45:06 and
+2:45:11 paste it into this
+2:45:24 kill this Terrain
+2:45:27 oh what happened to him there they are
+2:45:28 right there
+2:45:31 okay
+2:45:33 and then
+2:45:35 export them
+2:45:39 foreign
+2:46:10 and then I should be able to select
+2:46:13 shift click uh Center
+2:46:18 right let's see I need to select all
+2:46:20 these
+2:46:22 get their Center and then shift click
+2:46:25 yeah
+2:46:32 and now I can mess around with these
+2:47:04 foreign
+2:47:17 yeah I don't know if that was better or
+2:47:19 worse who knows
+2:47:22 see
+2:47:43 what is this a glitch happening right
+2:47:45 now why is this uh that was weird
+2:48:27 foreign
+2:48:34 left
+2:48:36 a lot of work left
+2:48:39 foreign
+2:49:01 [Music]
+2:49:37 [Music]
+2:49:51 foreign
+2:50:01 [Music]
+2:50:25 [Music]
+2:50:33 I'm anxious for my my order
+2:50:37 what's going on
+2:50:38 [Music]
+2:50:43 hey it's here
+2:50:45 it's here
+2:50:49 we gotta put it on pause about to go do
+2:50:52 an unboxing this is just turned into an
+2:50:55 unboxing Channel
+2:50:57 Quest Pro just got here
+2:51:16 foreign
+2:51:44 foreign
+2:52:18 all right Ethan what do you think of
+2:52:20 your 4090 you happy with it
+2:52:25 I haven't gotten any word about my
+2:52:27 pre-order on that
+2:52:29 um so you really lucked out
+2:52:37 pretty little shiny box I'm not any good
+2:52:39 at these unboxing videos I think that's
+2:52:42 actually a skill set people have
+2:52:43 [Music]
+2:52:56 foreign
+2:53:00 my office right now is terrible
+2:53:04 I just switched to this office so
+2:53:08 hasn't been built yet
+2:53:10 something like that oh that's Goofy
+2:53:16 how do I get rid of that
+2:53:18 um
+2:53:24 here we go
+2:53:30 shiny
+2:53:31 [Music]
+2:53:37 that looks like the dock and then the
+2:53:39 Chargers cool
+2:53:49 that's kind of crazy
+2:53:50 the real time in real time the real time
+2:53:52 real time
+2:53:54 um I would love that just for like in a
+2:53:57 vector view with a ton of vector lines
+2:54:08 [Music]
+2:54:14 oh they gave you a quick and easy way to
+2:54:17 rip this open cool
+2:54:21 does anyone really ever care about the
+2:54:23 packaging though I mean I like it it's
+2:54:25 nice feels nicer because it has cool
+2:54:27 Packaging
+2:54:31 I really just want to get to it
+2:54:33 give it to me
+2:54:51 okay
+2:55:06 oh that's slick looking
+2:55:09 look at that
+2:55:19 we're gonna end this feed pretty soon
+2:55:22 someone just lost their entire night
+2:55:26 that summons me
+2:55:35 hold power for two seconds hold power
+2:55:37 for two seconds and adjust
+2:55:40 okay
+2:55:51 they've been talking about how
+2:55:52 comfortable this is but I have an
+2:55:54 adapter strap on my
+2:55:55 my other Quest and that thing's super
+2:55:58 comfortable
+2:55:59 so there's some kind of power here
+2:56:01 on 1002.
+2:56:05 yeah all right
+2:56:07 boy it's got that new plastic smell
+2:56:12 I see what they're talking about with
+2:56:13 the pass-through mode man this lets a
+2:56:15 ton of light in crazy
+2:56:17 foreign
+2:56:25 for two seconds power for two seconds
+2:56:46 my main thing was is the resolution good
+2:56:49 enough on this to be working in this
+2:56:51 every day
+2:56:55 okay
+2:57:05 um so far it's very clear my ipd
+2:57:08 settings are on now
+2:57:15 wow it's really clear
+2:57:33 just as you set up Wi-Fi
+2:57:49 says to adjust the wheel oh we've got a
+2:57:52 depth adjustment on the top here
+2:57:54 feels like
+2:57:57 here okay
+2:58:04 that's not easy to spin if that's
+2:58:06 supposed to be easy to spin it's not
+2:58:10 foreign
+2:58:25 that wheel doesn't barely move with my
+2:58:27 finger so I'm going to come in here and
+2:58:29 actually adjust it here
+2:58:31 which is way easier
+2:58:40 foreign
+2:58:45 oh there we go yeah you need a real good
+2:58:48 push on this
+2:58:52 wow okay this is super clear I'm going
+2:58:55 to be working with these every day now
+2:58:56 probably
+2:59:08 cool
+2:59:09 [Music]
+2:59:10 well you guys got any last questions
+2:59:13 because I'm going to be messing around
+2:59:14 with just the setup on that for a while
+2:59:19 let's do the unboxing yeah
+2:59:22 um that was it unboxing is done now it's
+2:59:25 just now it's just a bunch of setup
+2:59:29 um it's got a nice little
+2:59:32 retention band thing here
+2:59:39 yeah yeah yeah
+2:59:41 big knowledge yep
+2:59:47 I mainly want to get remote uh desktop
+2:59:50 working on this
+2:59:57 okay now it wants me to charge and all
+2:59:59 that stuff yeah so I'm gonna take off
+3:00:01 guys
+3:00:03 go set this up go have some dinner go
+3:00:05 have a good night come back to this
+3:00:07 massive project later on
+3:00:11 yeah cool
+3:00:13 thanks for the people that kind of hung
+3:00:15 out man three hours we've been going
+3:00:17 that's a long time
+3:00:20 I want your 4090 Ethan
+3:00:24 especially with this thing
+3:00:37 yeah I'll play around I'll post
+3:00:39 something about it I'm sure tomorrow so
+3:00:41 let you know what I initial Impressions
+3:00:43 I already think it's
+3:00:45 um clear enough for me to work in
+3:00:49 um but I do have I already felt
+3:00:51 uncomfortable so there's going to be
+3:00:52 some like acclimation time in there
+3:00:56 um yeah anyways until next time guys
+3:00:59 enjoy

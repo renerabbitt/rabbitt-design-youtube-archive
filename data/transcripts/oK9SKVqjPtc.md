@@ -1,0 +1,4116 @@
+---
+videoId: oK9SKVqjPtc
+title: Model Fixes and Prep For Twinmotion
+url: "https://www.youtube.com/watch?v=oK9SKVqjPtc"
+status: imported
+---
+
+# Transcript
+
+0:03 all right we're live
+0:05 I can't wait till the day when these
+0:08 live broadcasts can get rebroadcast at
+0:11 4K that'd be nice we're only doing that
+0:13 1080p
+0:20 see what are we doing today we are need
+0:23 to make sure I'm checking what I'm doing
+0:26 because last time we
+0:27 another time we did a live show supposed
+0:29 to be preparing to trace and then I
+0:32 didn't actually do that at all so
+0:35 so today I am I'm taking a look at a
+0:38 project
+0:39 not taking a look I'm working on a
+0:41 project
+0:42 where I redesign the kitchens and baths
+0:46 and then I prep it to be
+0:48 rendered in Twin motion this is
+0:50 something I do a couple times a month
+0:52 so prep the render in Twin motion I get
+0:55 a project from the client projects
+0:58 usually
+1:00 um
+1:01 full of holes
+1:06 but I also got some cool stuff to talk
+1:08 about today so I'm excited
+1:11 few things we'll go over
+1:14 one is we're going to be using X15
+1:18 and I've got tens of hours in X15 so if
+1:22 you're if you're watching the show drop
+1:25 in some comments because and you've got
+1:27 questions about X15 we can go over it
+1:29 we're going to be using that for this
+1:31 show today
+1:34 and then I'm using an egpu with a 7900
+1:38 XT X
+1:39 XTX from AMD
+1:41 and I'm on the legion 7
+1:45 the ryzen 9 processor and it's got a AMD
+1:49 card in it as well we'll probably have a
+1:51 few crashes that's kind of the nature of
+1:53 the egpu is everyone small you might
+1:55 have a crash um as they work out driver
+1:58 package with Chief Architect
+2:00 it's just kind of nature of the Beast it
+2:03 doesn't bother me I have my auto backups
+2:05 set to be pretty frequent
+2:11 hey Laura how's it going
+2:15 let's see I might actually need a reboot
+2:18 this is weird I'm getting a
+2:20 getting some input lag so I'll have to
+2:22 figure out what that is
+2:24 foreign
+2:28 the driver for my 3D mouse
+2:37 I don't know it's working just fine
+2:39 funny
+2:48 all right let's check this thing out
+2:51 so this is the the
+2:54 or see the project from the client
+2:58 always going to be some missing texture
+3:00 files but that's not going to bother me
+3:01 for this one
+3:05 that's a funny trellis
+3:07 man seems heavy
+3:13 funny
+3:21 okay
+3:22 just like to do a like a a walk through
+3:25 of the exterior and interior to see how
+3:28 many model fixes need to be done there's
+3:30 always model fixes that have to be done
+3:31 on these projects
+3:42 you need to make this look
+3:45 look good
+3:55 some kind of wall intersection issue
+3:57 here also looks like there's no floor
+4:00 is that correct
+4:04 huh
+4:07 strange that they would just have
+4:08 concrete everywhere
+4:11 um not typical for this area so see what
+4:15 this is about yeah there's no floor
+4:16 finish who knows why
+4:22 um
+4:24 yeah some issues in here we'll do a not
+4:27 a full redesign but just we'll make this
+4:30 kitchen look make sense right now
+4:33 you know you can see it doesn't really
+4:35 look all that good
+4:46 funny that they have such a small double
+4:49 oven in there it's white no paneling on
+4:51 the refrigerator we'll fix all that
+4:54 we've got a little bit of exterior wall
+4:56 falling in here
+5:00 what is this is this some kind of pantry
+5:02 open shelves at the end of a hall seems
+5:05 very odd
+5:07 Library Hall okay so that's a bookshelf
+5:10 that's interesting so I'm going to be
+5:11 using some of my quick tool stuff for
+5:15 um
+5:15 for the bookshelf but
+5:17 I only have a limited number of book
+5:20 book
+5:22 Arrangements in that toolkit so maybe
+5:25 we'll make some more
+5:29 here's a laundry
+5:31 I don't know what this pad is for maybe
+5:33 that's a bench
+5:38 uh hey Steve uh let's see is this video
+5:41 going to be available later I can't
+5:42 watch now but we'll love to later all
+5:45 right and thank you uh let's see yes it
+5:48 will be so if you go to let's just pull
+5:51 up a tab so you guys can see this
+5:55 if you go to my YouTube channel
+6:02 at the top of the
+6:05 at the top bars here
+6:07 there's video shorts live if you click
+6:10 on the live tab that way you can find
+6:13 these old ones you can find these old
+6:15 live I have ones this is one I was
+6:17 talking about at the very beginning here
+6:19 where this was supposed to be prepped to
+6:21 trace and instead I didn't do that at
+6:23 all so gotta check myself but yeah you
+6:26 can find these later they they do I
+6:28 don't know how long it takes to process
+6:29 them maybe an hour or two but yeah
+6:31 they'll show up
+6:38 all right so we got bookshelf we got one
+6:41 of the first things I like to do is just
+6:42 come in here makes it a lot easier on me
+6:44 is to take all the doors so just select
+6:47 Marquee all open them all up
+6:50 and
+6:52 make sure that in 3D options
+6:56 I feel a little slow today what am I
+6:58 doing here
+6:59 options should be show open in 3D show
+7:01 open in 3D interesting it's not giving
+7:03 me that option so
+7:06 let's do match properties then
+7:12 you can do a type
+7:14 sure
+7:16 I like to open the pocket doors
+7:19 up to about
+7:23 show open I like to show these open at
+7:25 about 96 percent
+7:28 there we go and then all the doors
+7:33 kind of same thing we can match
+7:34 properties go for type
+7:41 and show these open 90 percent
+7:49 makes it easier to walk through
+7:54 unless you got a hallway door
+7:57 just like this get that out of my way
+8:07 all right so kind of kind of dials dial
+8:09 out these bathrooms
+8:15 some wall alignment issues more
+8:17 bathrooms got to build out a couple
+8:19 showers that's always the case with this
+8:21 project
+8:25 build out the laundry room I might do a
+8:28 nicer job in the laundry room and save
+8:29 it as an architectural block to be used
+8:31 later because
+8:33 I only have one good laundry
+8:35 architectural block where I could just
+8:37 condump something in place so it's nice
+8:40 to build something out so that I can use
+8:41 it a bunch of times over and over again
+8:44 let's go look at the other wing of this
+8:46 house
+8:48 probably the primary bedrooms in here
+8:50 somewhere I guess this is the primary it
+8:52 looks small
+8:54 more open shelves
+8:56 and then we get to use my closet system
+8:58 and this is the first time I'm going to
+8:59 be using using my closet system live so
+9:03 um which should make me nervous because
+9:06 maybe I didn't build it as good as I
+9:08 think I did so we'll take a look at that
+9:10 I got another shower to build this whole
+9:14 vanity room sold bathroom
+9:16 [Music]
+9:19 it's a double ensuite something weird
+9:24 and then we'll do a bunch of color
+9:25 coding
+9:26 so I think we'll start with the design
+9:27 because that's fun right
+9:30 and let's fix the floors real quick very
+9:32 strange no floors
+9:42 okay so default floors
+9:48 whatever that is
+9:56 we have floors look at that easy as that
+9:59 so let's start in the kitchen and
+10:03 what's happening in the kitchen here
+10:07 I'm going to start hiding some layers
+10:09 because I'm
+10:10 programs chunking around a lot we'll
+10:12 hide all these schedules schedules
+10:14 usually can slow something down I didn't
+10:16 see any problems in the roofs but there
+10:19 typically are in these projects but
+10:21 maybe not
+10:34 okay
+10:37 and what's happening with this well this
+10:39 isn't snapped to that
+10:42 outside layer I also want to turn off
+10:45 grid snaps I like to set my grid snaps
+10:48 when I'm working on someone else's model
+10:49 to 1 16. and then I don't want to show
+10:52 the snap grid I don't like it I don't
+10:54 like all the extra lines
+11:01 and we'll snap this door opening to that
+11:03 drywall there we go
+11:10 same thing this is just sloppy
+11:13 be sloppy
+11:16 and then the height here
+11:20 clearly I needed to come down half an
+11:22 inch 5 8.
+11:24 there is
+11:27 and
+11:30 a little bit off so this would be easy
+11:32 to just figure out what the
+11:35 room height is room Height's tall let's
+11:38 see structure
+11:40 118 19 and a half
+11:49 and a half plus the structure I got
+11:52 something weird going on there
+11:56 almost seven and a half that should be
+12:03 why when I click on this ceiling it
+12:06 shows me the neighboring tray ceiling oh
+12:09 because there's no room definition
+12:11 between the two of these
+12:13 so we need a division
+12:21 somehow
+12:23 oh no that's weird the tray here is
+12:25 affecting the ceiling in the other room
+12:27 this invisible wall is not lined up
+12:29 we'll make sure that that's lined up
+12:36 looks like these walls might be a little
+12:40 off
+12:41 oh no that's another doorway
+12:46 snap to the wrong thing okay
+12:51 they have drawn in here some kind of a
+12:54 ceiling plane and I don't know why oh
+12:56 it's a drop ceiling so instead of using
+12:58 a soffit they use the
+13:00 a ceiling plane
+13:02 kind of funny
+13:37 I must have done that tray ceiling when
+13:41 so let's just cut this
+13:45 I want to match this tray ceiling so
+13:47 whatever this tray ceiling is
+13:50 we'll build it again 12 inch depth tray
+13:53 ceiling
+13:57 there we go that got rid of the weird
+13:59 ceiling plane in the other room
+14:02 and let's see what happens when we build
+14:04 a new one
+14:06 recess into ceiling 12 inch
+14:13 that raised everything
+14:22 it's not recessing the ceiling what
+14:24 happens
+14:26 huh
+14:28 that's a new one haven't seen that
+14:31 it's dropping both ceilings
+14:33 interesting
+14:38 okay
+14:39 well I'll work with it
+14:55 if you bought my kitchen quick tools I
+14:57 sent out an update for
+15:00 X15 and I'm going to send out another
+15:03 update because I missed a little detail
+15:04 but uh they broke my kitchen tools the
+15:06 next 15. and I've got some systems to
+15:10 kind of fix them
+15:12 make it easier for you to install them
+15:14 so yeah I'm gonna be using those in this
+15:18 kitchen
+15:24 yeah oh
+15:27 [Music]
+15:31 33 inch and then a 33 inch okay
+15:41 huh
+16:11 probably do some class
+16:23 and then I never know why these aren't
+16:25 butted but let's go ahead and butt these
+16:38 just turn them into
+16:41 two drawer bases
+16:56 here's our double oven
+17:14 double oven we put a filler on the left
+17:16 hand side makes a lot more sense
+17:34 foreign
+17:36 missing an item let's check that out
+18:09 so a little trick if you draw out a
+18:12 custom backsplash and it goes behind a
+18:14 fixture it's going to cut to that
+18:16 fixture and then you've got a bunch of
+18:18 cuts in your backsplash and rather just
+18:20 draw out a square
+18:23 and then
+18:24 reshape the square
+18:39 and then make my own cuts
+18:41 it's just a preference
+18:55 we have all kinds of new snaps in 3D
+19:00 for X15 which has been huge
+19:03 makes it so much easier to draw in 3D
+19:15 my guess is that they wanted this
+19:17 centered on the room
+19:18 but it's not
+19:20 the ceiling hole or let's check what's
+19:23 not centered in the room let's just draw
+19:25 some inference lines real quick
+19:30 Center this on our overall room
+19:38 okay so nothing centered on this room uh
+19:46 man okay
+19:51 what do you think if we do take a little
+19:53 time and Center this stuff up
+19:56 that's funny
+19:59 um one Skylight centered on the room the
+20:02 rest are not nothing else is
+20:06 man
+20:08 yeah let's see what we can do
+20:12 so it looks like this skylight's
+20:13 actually centered
+20:23 and how much does It screw up to try to
+20:25 Center on this room
+20:27 funny
+20:33 doesn't matter kinda does
+20:43 so we got a 39 inch and then I'm usually
+20:46 pulling these off the wall three inches
+21:01 yeah pull it off the wall actually I
+21:03 typically would pull it off the wall
+21:05 like four inches
+21:06 so
+21:10 pull that off the wall four inches and
+21:13 then
+21:14 have to reconfigure all these cabinets
+21:16 to be Center there's going to be some
+21:18 kind of weird sizing on that oven
+21:20 cabinet
+21:22 um
+21:22 it's going to be tricky let's see let's
+21:25 see I see a question here how do you
+21:27 deal with the recessed lights from Chief
+21:29 to Twin uh you got to build your own
+21:31 lights in in Twin so
+21:34 um that's that's like most rendering
+21:36 plugins
+21:38 you would have to have your own light
+21:40 sources so
+21:42 um it's pretty simple once you save a
+21:44 light in your own library to just click
+21:46 you click the center of your can lights
+21:49 and it'll just populate those lights you
+21:52 could also set to replace so you could
+21:54 build a stack or it's a an LED plus a
+21:58 light and then save that to your library
+22:01 and then click on all of your lights in
+22:04 Chief and set to
+22:07 um I don't know what the term is in in
+22:09 Twin motion I'd have to look it up but
+22:10 it's just set to replace that geometry
+22:13 so you'll replace all the lights with a
+22:15 light and a light source all in one
+22:16 swoop
+22:19 this particular project this particular
+22:22 um
+22:23 designer almost never has enough lights
+22:25 in his plans anyway so I don't even get
+22:27 to replace them so uh
+22:31 yeah
+22:34 so I just pretty much start with lights
+22:37 in
+22:38 twin motion
+22:41 Okay so we've got a 30 inch base
+22:45 it's bumped off the wall
+22:48 we centered up my range centered up this
+22:50 cabinet which is going to be a 30 as
+22:53 well
+22:56 and now let's see what we can do about
+22:58 balancing this room
+23:05 it's like if it was far enough off
+23:07 balance we wouldn't care but you're
+23:08 trying to balance it and so now we care
+23:11 which makes this challenging
+23:18 what is this oven that it's
+23:20 48 okay
+23:23 48 30 inch base
+23:29 so
+23:30 this should be slammed we shouldn't need
+23:33 to
+23:34 shouldn't need a filler here
+23:42 or rather this should be slammed
+23:49 I'm gonna be a little slow today
+23:51 I feel a little slow
+23:59 so we moved this that much and we lost
+24:01 our automatic filler it's okay I don't
+24:03 actually use automatic fillers in my own
+24:06 templates prefer not so
+24:10 the reason I have a 3D mouse being able
+24:12 to get in here in 3D and populate stuff
+24:15 like this
+24:18 and then they do not have their stuff
+24:20 set up the way I have my stuff set up
+24:38 and contemplating giving any vendor that
+24:42 uses my services for rendering giving
+24:44 them my
+24:47 my standard templates so that at least
+24:49 I'm always working from there be nice
+24:58 I render for the design company and I
+25:01 drew CAD drawings for if things don't
+25:03 perfectly line up in Chief with the cat
+25:05 I don't worry about it the cat is what
+25:07 it's used for building Chieftain motion
+25:09 or just for being pretty I have to turn
+25:10 my perfection brain off sometimes
+25:13 okay
+25:15 um we can always move precisely in Chief
+25:18 that's one thing
+25:21 I don't know if you know just about the
+25:24 um
+25:25 tab input method for movement
+25:29 so we can always be making precise
+25:31 movements
+25:32 I want this three inches in it's easy
+25:35 for me to tab input type in three so I'm
+25:37 always just
+25:43 I'm always just doing Precision
+25:45 movements
+25:48 I don't know you'd have to tell me more
+25:49 about that that comment I'd have to know
+25:51 more
+25:57 um
+25:57 [Music]
+26:06 oh about the comment about things off
+26:07 center in the kitchen well
+26:09 um here's the thing about this
+26:10 particular client they use these
+26:13 rendering services this is going to be a
+26:14 full walkthrough by the way it's a video
+26:16 walkthrough that the client watches a
+26:18 thousand times over over the course of
+26:19 the Year while they wait for their
+26:21 kitchen or their house rather to be
+26:23 built so
+26:25 um
+26:26 they're going to be looking at this over
+26:27 and over and over again
+26:29 and
+26:31 and part of that is that my services
+26:33 help my client upsell certain
+26:38 um certain things I design in so I'll
+26:40 design in some things that weren't
+26:41 included in the original contract price
+26:44 and I'm just they don't tell me what to
+26:46 do there they just tell me do what I
+26:48 think I should do and
+26:50 more often than not I'm doing something
+26:52 that's not included in their contract
+26:54 price and that's so that's part of this
+26:57 is they pay me you know accordingly
+26:59 which is I'm going to do a few things in
+27:02 their kitchen design I'm staying within
+27:03 the existing design envelope if you will
+27:06 but I'm going to do a few things that
+27:09 um
+27:09 that will help them you know communicate
+27:12 to the client and possibly make some
+27:14 additional sales
+27:16 and who doesn't want a nicer kitchen
+27:19 right yeah I don't know
+27:28 there we go this is already looking a
+27:30 little a little nicer in the room here
+27:32 got to fix a few things with the molding
+27:34 profiles
+27:38 let's clear all this moldings
+27:43 select found and then let's spray this
+27:45 in the room
+27:47 nope we don't want to spray this in the
+27:48 room I want to spray this object base
+27:51 filler
+27:54 could have used
+27:56 my Marquee tool and plan but I don't
+27:59 know
+28:02 maybe not
+28:13 probably would do some different
+28:14 finishes here but we'll see what this
+28:17 looks like with all white later on let's
+28:19 uh check this out we've got 7900 XTX it
+28:22 should render out pretty quick if it's
+28:24 running right
+28:26 something slow on the system uh oh we
+28:30 got a crash
+28:31 crash crash crash Crash and Burn
+29:18 come on obs
+31:25 foreign
+31:34 whoops
+31:37 oh probably lost some work there check
+31:39 it out
+31:46 they did ask me to crash stuff that is
+31:48 true
+31:55 I didn't lose too much though
+32:03 also this machine's so fast that it even
+32:06 got back this quickly
+32:08 all right let's see what happens if we
+32:09 try to render again
+32:11 and crash a second time no
+33:52 to
+33:56 okay well we're plugging we're
+33:59 unplugging the external
+34:02 because something about my streaming
+34:04 platform
+34:05 and Chief and trying to Ray Trace we're
+34:07 going to try one more time though
+34:10 but without the external this time
+34:12 let's see if I can get this to work
+34:32 last crash I swear
+34:38 let's try it
+34:40 fingers crossed might see you in a
+34:42 minute
+34:44 aha
+34:47 yeah
+34:48 kind of working
+34:54 so there's a setup where I can stream
+34:56 from
+34:57 I can stream Laura
+35:00 yeah exactly struggling over here um
+35:03 there's a setup where I can stream from
+35:05 a separate computer
+35:07 and and then the encoder for chief isn't
+35:11 fighting
+35:13 stream but I've never taken the time to
+35:16 figure that all out so
+35:18 maybe maybe it's time
+35:20 because it'd be nice to be able to Ray
+35:22 Trace while we're streaming live that'd
+35:25 make a big difference right
+35:27 how you like these floating this is a
+35:29 new feature
+35:31 code requirement you need floating
+35:32 Outlets
+35:35 floating inverted Outlets
+35:39 pick up an electrical floor plan and see
+35:40 what the heck's going on oh the because
+35:42 they're attached to a wall or something
+35:43 yeah let's just get rid of them don't
+35:45 even need them
+35:46 purpose of rendering
+35:52 what do you think would you do some kind
+35:54 of detailing paneling on the back side
+35:55 of this something huh or when wouldn't
+35:58 you think that this would be like a bar
+36:00 top
+36:01 you have any notes here all Outlets okay
+36:06 no bar top here I'd feel like this
+36:08 should be a Bart I'm gonna make it one
+36:12 doesn't matter
+36:15 oh see one of my
+36:18 some of my quick tools are not working
+36:20 so let's see it's going to be already
+36:22 cab and then overhang
+36:27 so that's rear overhang open the object
+36:30 let's fix some set properties and I
+36:33 think uniform I think is what I'm
+36:36 looking for yeah countertop overhang is
+36:39 uniform let's make sure that's checked
+36:41 now I should be able to check the
+36:44 Marquee tool and drag a marquee over
+36:46 this and get
+36:49 uniform
+36:53 overhang still didn't work 12 inch oat
+36:56 back o-ring is what I wanted let's see
+36:58 let's try this again
+37:01 overhang
+37:03 Ed up overhang back 12 inches countertop
+37:05 overhang is uniform false that should
+37:08 work
+37:10 and then draw Marquee over this weird
+37:13 it's not working
+37:18 very strange
+37:21 see what's happening in the dialog box
+37:32 let's just pick a couple of these then
+37:33 what's Happening Here
+37:35 look it shows 12 inch back overhang
+37:42 oh maybe this is a custom countertop is
+37:44 that what happened
+37:46 no weird very weird
+37:50 now it shows up oh
+37:53 who knows what just happened
+37:55 so it's clear that there's a 12 inch
+37:57 overhang on these cabinets
+37:59 but they're not showing up anybody know
+38:00 why I'll leave it for a minute I'm going
+38:03 to leave it for a minute see if anybody
+38:04 watching knows why
+38:06 I'll let you think about it
+38:14 well that was strange
+38:18 oh I see a comment
+38:21 room divider yeah you got it because the
+38:24 room divider
+38:26 because there's a wall there
+38:28 right so how do we get around that
+38:33 oh man now my control button is jammed
+38:36 up
+38:38 computer issues today
+38:46 so how do you get around it Brad Moore
+38:48 ricklister
+38:52 do you know how to get around that the
+38:53 wall behind it yep
+38:58 put a custom countertop on I think that
+39:01 would probably work let's try that real
+39:03 quick
+39:07 add button's not working
+39:12 this some countertop works
+39:14 the other thing you could do if this was
+39:15 wall cabinets and you had wall cabinets
+39:17 interceded by this you could always make
+39:19 an architectural block
+39:22 and the architectural block will work
+39:32 let's see why I didn't just use multiple
+39:33 copy there but that worked okay
+39:38 never used the alignment tools
+39:40 a line along the line where you can grab
+39:43 these
+39:44 and then
+39:45 align distribute along this line space
+39:48 evenly to end points
+39:51 except for I picked the wrong line Maybe
+39:57 distribution space evenly
+40:00 centers distribute to end points
+40:03 no that's the wrong one see
+40:11 we want to horizontally we want to move
+40:14 what
+40:17 we don't want to move centers there but
+40:18 we want to move centers here
+40:21 Street centers evenly
+40:25 oh that's what I did I picked up some
+40:27 other fixture funny
+40:35 there
+40:40 yeah there we go
+40:51 I also feel like what do we want some
+40:53 kind of an in panel or something there
+40:56 get rid of this wine fridge and put my
+41:00 own in there because I prefer it
+41:04 and or just spray this one
+41:10 right yes better
+41:21 they did some improvements to the end
+41:23 panel in X15
+41:26 these will show up in schedules
+41:29 a few other things
+41:38 something just happened my mouse is now
+41:40 moving faster and the whole program's
+41:41 moving faster I definitely have some
+41:44 funny stuff happening
+42:17 those are the wrong stools but they're
+42:19 Place markers
+42:38 all right what else
+42:40 what's all this goofiness
+42:45 424 36 15.
+42:48 this is strange why
+42:52 why would you do this
+42:54 four-door base I think maybe
+43:01 one of these 12-inch cabinets 15 inch
+43:04 cabinets strange
+43:29 how you guys doing with the new
+43:31 um
+43:32 our new library browser
+43:35 anybody figure it all out
+43:59 oh
+44:05 foreign
+44:27 Showplace Wood Products huh
+44:32 new door styles I guess
+44:38 Boardwalk could be interesting
+44:42 so in our library browser we could type
+44:44 out Emma door
+44:46 and then
+44:48 move your mouse down pick type cabinet
+44:50 door now it's only going to search
+44:52 cabinet doors let's do offline mode only
+44:56 now I can browse through cabinet doors
+44:58 only
+45:05 so those are just cabinet door types
+45:08 right
+45:09 that's one way of doing it
+45:13 easy way to just see cabinet doors
+45:16 and then let's limit to
+45:20 let's just go limit to Showplace Wood
+45:22 Products by clicking on that folder so
+45:24 now we're limiting to just this
+45:27 manufacturer catalog
+45:34 I wanted something a little bit more
+45:35 interesting kind of like these
+45:37 so let's do this let's do the full plan
+45:39 why not plan mode replace those slabs
+45:43 place these as well
+45:46 yeah why not
+45:48 and then let's add a search slab
+45:52 and then again limit to Show Place wood
+45:55 products
+45:57 and then now we've got slab right so now
+45:59 we can do a component replacement mode
+46:02 and we can still get rid of the library
+46:04 and still have that tool enabled all
+46:07 right so now I'm just replacing
+46:10 the top drawer
+46:13 pretty clever I like it I know a lot of
+46:15 people don't like it I like it
+46:22 much needed Improvement
+46:31 yeah starting to look like a kitchen I
+46:33 might buy
+46:35 um
+46:35 the knobs are a little boring knobs on
+46:37 everything
+46:38 what do you think
+46:43 so let's get back to the library let's
+46:45 do I think we can get to type Hardware
+46:48 right and then let's also go to the
+46:52 Showplace Wood product
+46:53 let's click off of cabinet door Source
+46:56 panels and off of slab
+46:59 and
+47:01 apparently there's no Hardware in
+47:03 showplace so let's click on the core
+47:06 catalog and Architectural
+47:12 and cabinet hardware
+47:17 and let's get some r pulls in here or
+47:20 something
+47:21 and then component replacement mode
+47:27 or object object replacement though
+47:30 would be much better
+47:32 for these guys
+47:39 this one's going to be a component
+47:50 I mean yeah still a generic looking
+47:52 kitchen but
+47:53 I don't know a lot better
+48:04 I think you could go in let me see if we
+48:06 go in a plan
+48:07 do we get the Marquee replace mode
+48:10 no
+48:12 there is no way to do that and plan
+48:14 that's too bad
+48:41 see Rick lister's comment
+48:49 maybe add some what'd you say here maybe
+48:52 add some spice to two glass cabinets
+48:54 smoke glass with some lighting inside
+48:56 we'll do that in Twin motion um I could
+48:58 add some objects to to it so if I just
+49:01 go RB cab to get to my tools uncheck
+49:05 that
+49:06 and
+49:09 full kitchen suite and then I have some
+49:13 I type in GLA already cab glass
+49:17 would that get me to
+49:23 fits me to this unit which
+49:31 there we go
+49:33 and do a different one for this side
+49:37 here we go adds a few things adds a few
+49:39 items in there
+49:43 yeah but we'll put some lighting in
+49:46 in Twin motion and then I guess we never
+49:49 got our
+49:53 our molding here
+50:07 that was in the crash we lost this in
+50:09 the crash
+50:11 seems like
+50:15 I kind of want these cabinets to go all
+50:16 the way to the ceiling
+50:19 not going to worry about it though I
+50:21 think this is as far as we're going to
+50:22 take this
+50:23 looks a heck of a lot better
+50:25 say that
+50:29 still want closed panels on that second
+50:33 island unit right
+50:36 oops
+50:41 copy point to point
+50:46 this unit's wider than that unit let's
+50:50 fix that
+51:10 I don't like it when we're not showing
+51:11 module lines we always want to see the
+51:14 module lines makes it easier to place
+51:15 these things here we go
+51:37 there we go
+51:46 see concentrically
+51:48 resize this by
+51:52 three quarters
+51:55 that'll meet the face of the cabinet
+52:06 damn beautiful
+52:11 beautiful beautiful
+52:15 hello gorgeous
+52:21 we think close toe on these
+52:26 good
+52:30 all right that's done let's move on
+52:32 move on to the next thing
+52:36 we had a closet to build out right oh
+52:39 yeah
+52:39 all right let's see how screwed up my
+52:42 closet tools are or hopefully they work
+52:43 brilliantly
+52:49 foreign
+52:59 button is jammed up I don't know why
+53:01 come on
+53:40 so easy to type in Rd closet but even
+53:42 easier than that is making a filter in
+53:44 X15 where you just have your painter
+53:47 tools for a closet so that I can come in
+53:50 here with a wall cabinet for instance
+53:52 and then quickly paint
+53:56 this painter tool works
+54:01 there we go I like it
+54:07 let's make sure bumps are turned on
+54:11 gonna probably flip this about itself
+54:17 and then from there we can right click
+54:20 on the library item and say show in
+54:22 folder
+54:24 so we can see past the painter as we
+54:26 want
+54:27 closet rod replacements
+54:31 or what do I want components
+54:38 no I want closet rod replacement system
+54:43 one of these should be the type of
+54:44 closet rod I'm putting in
+54:46 n Rod or
+54:50 return at corner here's the corner
+54:52 return so there we go I should be able
+54:54 to hover over this
+54:56 and replace
+54:58 and what did that do oh I clicked over
+55:00 the wrong thing
+55:05 what do I need to click over
+55:09 I haven't done this in a while
+55:13 clearly
+55:15 you need to hover over
+55:28 hover over just the rod is that what I
+55:30 need to do
+55:32 there it is
+55:33 hover over the rod okay
+55:36 so
+55:40 actually before I did that I should have
+55:42 left to close where they were let's try
+55:44 this
+55:45 so let's reflect about
+55:47 hover over the rod
+55:49 replace from library
+55:52 Theory
+55:53 go oh no see that did the same thing
+55:58 these calls need to be flipped so front
+56:01 sides back
+56:02 get to
+56:05 the rod section and change it from a
+56:08 door left to a door right simple enough
+56:16 there we go
+56:35 foreign
+56:40 thing we've got to make sure we're not
+56:43 doing is auto building Corners in the
+56:47 cabinets
+57:05 and this should be open
+57:08 there we go
+57:18 and there's some kind of return right
+57:21 so
+57:29 like so except for that it wouldn't have
+57:32 this piece how do you think he was
+57:34 building that he just had it floating
+57:36 actually that was funny
+57:46 how do you do that how do you do a
+57:48 peninsula hanging shelf system
+57:55 it's a good question anybody I'm gonna
+57:57 leave that to comments
+58:21 and panel to floor
+58:23 simple answer
+58:37 half all our end panel to floor
+58:55 I kind of feel like the half wall would
+58:57 be a better option
+59:01 you're doing and so
+59:04 no that's not true I like the end panel
+59:13 preference personal preference
+59:30 see if we pick up the snap so Snaps are
+59:32 still funny sometimes they don't grab
+59:34 the way you would want them to
+59:37 also why was this end panel going
+59:39 through
+59:40 the floor that's a warning a weird one
+59:51 you'd think they build this as a half
+59:53 wall huh
+1:00:08 being back to back without washer dryer
+1:00:11 would be a pain in the butt
+1:00:32 foreign
+1:01:13 system is working pretty well I like it
+1:01:22 I know I have some of these where
+1:01:26 I mean we could do a couple little
+1:01:27 upgrades here give them a full height
+1:01:29 like little shoe shelf type thing
+1:01:34 I think that might be nice
+1:01:41 that's a painter so we need a full
+1:01:43 height cabinet here
+1:01:49 in fact I wouldn't mind putting in some
+1:01:51 of these double systems
+1:01:53 shoe shelf
+1:02:06 heck let's get rid of this
+1:02:11 and we'll just go duplicate this
+1:02:30 we're gonna pull this we're gonna bump
+1:02:32 to the wall and then subtract
+1:02:36 12 not matches I think
+1:02:40 perfect and then
+1:02:43 paint one of these like so
+1:02:48 and another one
+1:02:50 like so
+1:02:59 and we'll just shorten this section
+1:03:26 just playing around at this point
+1:03:40 yeah yeah yeah all right let's see so
+1:03:44 what else I want here anything
+1:03:49 oh I was gonna do
+1:03:51 for the closet system
+1:03:54 closet shelf system Rod replacement what
+1:03:58 do we want I want an end support
+1:04:03 oh this just needs to be flipped that's
+1:04:05 all
+1:04:10 man my phone is on fire today I don't
+1:04:12 know what's going on there's an
+1:04:14 emergency or what it's just someone's
+1:04:17 calling me every two seconds
+1:04:27 question for you rendering artists uh
+1:04:29 would anyone want to see me start
+1:04:31 putting more
+1:04:33 Photoshop content in
+1:04:36 would you like that
+1:04:38 would that be something you'd
+1:04:41 you'd want to watch
+1:05:14 the answer is yes please okay
+1:06:09 John what's this great comment about
+1:06:11 what are you saying great to I like it I
+1:06:14 like the comment
+1:06:28 someone's saying possibly they've been
+1:06:30 using it for years okay
+1:06:39 I had a lot of comments on my last
+1:06:41 rendering let me actually pull that that
+1:06:43 up real quick see if we can get it up
+1:06:45 real quick
+1:06:50 and what were comments on let's see
+1:06:53 renderings Exteriors
+1:06:59 and the comments were about this curb
+1:07:04 and this this was from the last live
+1:07:06 show my head's in the way hahaha
+1:07:11 and so the street and curb here where
+1:07:13 they're all done in Photoshop in about
+1:07:15 five minutes
+1:07:17 so I'll start showing some stuff like
+1:07:19 that because that makes a big difference
+1:07:21 in in the overall scene
+1:07:40 okay what else we got we got some weird
+1:07:42 gap on this one
+1:07:44 bump it
+1:07:45 bump it bump it
+1:07:50 what do we think this is
+1:07:52 the heck is that
+1:07:54 anybody see that
+1:08:00 huh
+1:08:02 weird little
+1:08:04 spot right there
+1:08:10 Oh weird it just moved
+1:08:16 you guys are seeing that too right
+1:08:21 huh
+1:08:24 oh it's some kind of light shadow
+1:08:28 strange
+1:08:30 okay
+1:08:36 well this is an ugly room
+1:08:40 I'm not going to spend any time on it
+1:08:41 they can ask me to design it again but
+1:08:43 that's an ugly room all right let's fix
+1:08:46 this bathroom this bathroom is shot
+1:08:50 so we got some wall alignment issues
+1:08:52 what's happening there
+1:08:56 some kind of transition here or wait no
+1:08:59 here
+1:09:01 yeah got a room that's this wall is just
+1:09:04 a little off
+1:09:08 what else
+1:09:15 ghost orb right
+1:09:18 um if anybody missed it last free symbol
+1:09:21 Friday speaking of ghost orbs
+1:09:23 let's see you here room spheris what I
+1:09:27 called it broom sphere
+1:09:30 room sphere
+1:09:33 that's what I called it room label
+1:09:35 sphere
+1:09:36 room label sphere if you missed it
+1:09:39 you can drop this sphere into a couple
+1:09:41 of rooms like so and then when you pull
+1:09:44 a
+1:09:46 section View
+1:09:49 if you have that
+1:09:51 spheres label turned on it will
+1:09:53 automatically
+1:09:55 report your
+1:09:57 your room names in elevation so if you
+1:10:00 missed that that's that's what I gave
+1:10:02 away last free summer Friday
+1:10:08 my room label sphere
+1:10:13 ghost orb
+1:10:15 all right so this has got some kind of
+1:10:18 walking I can't imagine that they wanted
+1:10:21 the curb this has got to be curbless
+1:10:23 right it has to be
+1:10:26 there's no way they're putting a I guess
+1:10:28 they could have put a curve back across
+1:10:29 here
+1:10:31 but that doesn't make any sense to me
+1:10:34 I don't think so this has got to be
+1:10:35 curbless
+1:10:38 I imagine
+1:10:41 so really all I need to do then is
+1:10:46 only got some weird angled wall here
+1:10:50 that doesn't look good
+1:10:58 these are always tricky and I oftentimes
+1:11:01 forget what
+1:11:03 the move is here
+1:11:05 right
+1:11:08 there's tricks with partition walls
+1:11:13 so now hopefully that should have been
+1:11:15 45 but it doesn't always work that way
+1:11:18 and do I care because there's a
+1:11:20 rendering and maybe I just switched to
+1:11:22 solids
+1:11:23 or what's the what's another trick here
+1:11:28 I think if I
+1:11:31 break let's see
+1:11:34 I know what I'm gonna do
+1:11:36 I'm going to break this
+1:11:40 like so
+1:11:47 and then return there
+1:11:52 that's a little bit better
+1:11:56 and then maybe we can get it to snap to
+1:11:58 a cad line
+1:12:02 he had that happen in X15 when placing
+1:12:06 cabinet hardware
+1:12:09 yeah 100 no curb unless it's sunken yeah
+1:12:11 I agree
+1:12:17 so now question is can we get this to
+1:12:19 retain its
+1:12:21 self maybe just by snapping just to here
+1:12:25 we can get it to snap just to that line
+1:12:27 that'd be great
+1:12:30 could be tricky
+1:12:33 kind of doubtful
+1:12:38 did that work no it just returns itself
+1:12:48 hmm
+1:12:54 how about this line
+1:12:56 that looks like it might have worked
+1:12:58 nope didn't
+1:13:11 that worked that's close
+1:13:15 tucked in just a little bit that's not
+1:13:17 too bad
+1:13:29 backsplash tool is not working on this
+1:13:32 wall
+1:13:33 or not
+1:13:36 why not
+1:13:53 can't tell you how much I love the new
+1:13:55 snaps in this so you can snap this down
+1:13:58 to itself and then subtract whatever you
+1:14:02 want the overall height to be in this
+1:14:03 case
+1:14:05 looks like these are tall ceilings maybe
+1:14:06 we'll make it 96 sure
+1:14:10 and then what you'd butt this to the
+1:14:11 casing that's weird what a weird detail
+1:14:16 I don't like this
+1:14:19 I wonder if this is
+1:14:21 a glass block or anything so you got any
+1:14:23 notes Here
+1:14:24 there are notes say
+1:14:33 shower
+1:14:36 maximum effort right shower
+1:14:39 that's what this note is
+1:14:44 like really it's a shower huh
+1:14:48 oh man
+1:14:51 so this has got to go over the top of
+1:14:52 this at least so let's go 12 inches
+1:15:04 shower
+1:15:07 oh didn't know
+1:15:20 to do a little tile return here
+1:15:24 it's just funny it's just a funny
+1:15:26 I don't know so obviously this is going
+1:15:29 to be tile floor in here so we need to
+1:15:31 fix that
+1:15:44 and we'll just do some kind of place
+1:15:46 marker thing
+1:16:02 foreign
+1:16:35 s are probably tiled
+1:16:39 right
+1:17:05 and their caps
+1:17:07 maybe you want to put a stone cap on
+1:17:09 this just so it's
+1:17:11 we have that option later
+1:17:13 and we could use cubic remapping in um
+1:17:17 oh what happened there come on
+1:17:21 come on chief
+1:17:24 he broke my
+1:17:26 my half wall
+1:17:35 rude
+1:17:37 rude look at that
+1:17:39 just got rid of everything I did
+1:17:59 here we go
+1:18:01 beautiful beautiful so now what do we
+1:18:05 need we need to convert this from
+1:18:06 molding
+1:18:08 default base molding yep
+1:18:11 and then that way we simplify our
+1:18:13 polyline and remove some of this oops
+1:18:17 remove some of this molding
+1:18:21 on some of these edges
+1:18:27 oops backsplash was cut to that I need
+1:18:30 to make sure backsplash gets moved down
+1:18:34 tedious work
+1:18:37 right
+1:19:11 if you don't want to wait for the redraw
+1:19:14 on something like that I could have done
+1:19:15 that way faster if I just turned off
+1:19:17 Auto Rebuild it would have been way
+1:19:19 faster you want to see that let's go
+1:19:20 back a few levels I just hit undo like
+1:19:22 five times just to show this
+1:19:33 wait for it to catch up there we go all
+1:19:36 right so we want to remove that
+1:19:37 baseboard we didn't want to wait for the
+1:19:39 rebuild so we can go to 3D view options
+1:19:42 and Auto Rebuild walls floor ceilings
+1:19:45 uncheck that
+1:19:48 okay and now
+1:19:50 when we click on this
+1:19:53 should be a lot faster
+1:19:56 see I shouldn't have done that
+1:20:00 should be faster it doesn't feel like
+1:20:02 it's faster though
+1:20:04 something slowing this plan down
+1:20:15 it's a little bit faster but not much
+1:20:19 I'll rebuild
+1:20:27 okay and then this thing's missing some
+1:20:29 shower valves and a few other things huh
+1:20:31 ball Niche Maybe
+1:20:34 I'd kind of set this up to have a
+1:20:38 I don't know personally I'd probably
+1:20:39 have
+1:20:40 a little shelf here
+1:20:42 would be nice
+1:20:44 or on the back side of this
+1:20:49 I'm just going to do this with a solid
+1:20:51 super easy why not doesn't matter
+1:21:28 let's see what do I want
+1:21:30 um one inch
+1:21:56 I also feel like we'd have just a little
+1:21:58 bit of a wrap here
+1:22:01 I can always go into plan View and
+1:22:06 draw out a little inference line and
+1:22:08 copy paste about that line
+1:22:12 you get your backsplash
+1:22:14 return going
+1:22:17 what do you think about that
+1:22:22 hate that detail love that detail
+1:22:35 tried to just add a break here what
+1:22:37 happened
+1:22:41 there we go
+1:22:51 yeah
+1:22:53 I think so
+1:22:55 I like this detail
+1:23:00 what are we snapping to Chief's saying
+1:23:02 I'm snapping to something but it's not
+1:23:03 the floor
+1:23:06 there we go
+1:23:17 I kind of want this to be
+1:23:24 there's the other one we're going to
+1:23:26 break this wall again I know it
+1:23:39 break yeah it broke dang it
+1:23:50 this is looking weird I'm a terrible
+1:23:52 designer
+1:23:52 [Laughter]
+1:23:56 sometimes I'm just terrible this is
+1:23:59 looking terrible oh I hate it I don't
+1:24:02 like this at all great thing about it I
+1:24:04 can remove it in Twin motion so I'm
+1:24:06 gonna leave it but that looks terrible
+1:24:09 maybe it's just the finishes that
+1:24:11 screwed me up
+1:24:16 do you ever do that you ever designed
+1:24:19 something and you're just like I'm not
+1:24:21 good at this
+1:24:24 I don't know what the hell I'm doing
+1:24:27 all right let me move this
+1:24:33 yeah I agree no caps just tile at the
+1:24:36 top but I'm going to leave it that way
+1:24:37 just so I can color code it the way I
+1:24:39 want to in in Twin motion I think that's
+1:24:41 what's throwing me off too is it just
+1:24:43 looks so so bad right now
+1:24:53 Rick says pull your towel down to the
+1:24:56 top of the door trim
+1:24:58 yeah okay all right but look how it's
+1:25:01 fighting the head on the on the windows
+1:25:05 ugh
+1:25:06 it's just not good
+1:25:09 and I'm not getting paid enough to like
+1:25:11 really give it the consideration it
+1:25:13 needs either
+1:25:28 which should you know make me question a
+1:25:30 few things
+1:25:43 or bring it up to the ceiling let's
+1:25:45 bring it up to the ceiling I agree
+1:25:46 because it's stressing you out
+1:25:49 hahaha
+1:25:51 tell the whole wall yep with the door
+1:25:55 all right I'm down I'll give that a shot
+1:26:08 let's see what if we get a vanity light
+1:26:13 let's do this first let's do this whole
+1:26:15 trick where we're doing light is light a
+1:26:18 type no electrical's a type so do we get
+1:26:21 light from that and then vanity
+1:26:26 and the electrical yeah see I like this
+1:26:29 everybody's saying that they don't like
+1:26:31 it I don't think they know how to use it
+1:26:36 I really like the new library tools it's
+1:26:39 easy to find stuff
+1:26:42 for me I don't know
+1:27:10 we should just do a mirror across this
+1:27:12 whole thing it's short enough I think so
+1:27:16 right
+1:27:21 here's a trick
+1:27:22 I'm going to duplicate this about center
+1:27:25 of the room and then just
+1:27:28 stretch this guy
+1:27:30 now that we have snaps in 3D we should
+1:27:32 be able to snap to this or not I guess
+1:27:35 not
+1:27:39 oops guess we don't get to
+1:27:46 that other guy there he goes
+1:27:53 yeah you love the new library thing I do
+1:27:56 too I'm I'm a big fan
+1:28:02 I think it's way way better
+1:28:05 all the power users are just up in arms
+1:28:07 they hate it
+1:28:09 I like it a lot
+1:28:24 oh we got a sink in the in the ground
+1:28:55 foreign
+1:28:59 this whole assembly is not centered
+1:29:01 obviously
+1:29:04 I don't know why
+1:29:05 it's not hard to Center
+1:29:14 no Auto filler so I have to put in my
+1:29:16 own fillers
+1:29:19 all right let's fix this so if you
+1:29:21 cannot have anxiety
+1:29:25 uh see sometimes we don't pick up snaps
+1:29:28 and I don't know why sometimes we don't
+1:29:32 so what is that 11 inches okay
+1:29:48 foreign
+1:30:05 here it doesn't make sense
+1:30:08 like it
+1:30:21 want this to make more sense should we
+1:30:23 spend a little time to make this sense
+1:30:25 for the sake of the feed
+1:30:27 I'm getting lag I know all right
+1:30:49 so much like geez
+1:31:12 let's do sure
+1:31:19 fabric tiles
+1:31:21 fabric tiles huh let me check that out
+1:31:25 um I love knowing new vendors that I'm
+1:31:27 not familiar with
+1:31:39 watch me paint this wall and it's going
+1:31:40 to break itself again
+1:31:44 no no it didn't good
+1:32:07 okay what do we got I need
+1:32:11 I need some valve stuff so I'm just
+1:32:13 gonna drop in my kit here because that's
+1:32:15 easier
+1:32:19 drop in the kit and then explode it and
+1:32:22 get rid of some stuff
+1:32:24 like so
+1:32:35 it's actually
+1:32:53 get all this other layer stuff out of my
+1:32:55 way I get this fat out of the way
+1:32:59 okay
+1:33:02 there we go
+1:33:17 I had the grab bar over here but don't
+1:33:19 you think the valves would be over here
+1:33:22 you'd think so
+1:33:26 broke my wall again
+1:33:28 these jerks
+1:33:38 come on come on come on
+1:33:42 click come on thank you
+1:33:49 all right we're not going to fix the
+1:33:50 wall till we're done with this room
+1:33:52 sick of fixing that wall I feel like I
+1:33:54 would have
+1:33:55 maybe do this too huh
+1:34:00 fancy
+1:34:02 in fact I'd probably turn this whole
+1:34:03 thing into stone why not
+1:34:07 wouldn't that be pretty some kind of
+1:34:09 book Matched
+1:34:10 dealio
+1:34:19 didn't see that coming did you
+1:34:21 I don't know that I love it all right I
+1:34:23 do want to look up fabric I'm curious
+1:34:25 about this
+1:34:27 drill Lynch says for break and then
+1:34:29 blonk for the floors in Greece for the
+1:34:31 showers so what's a break let's see if
+1:34:34 we can make a tile on the on the Fly
+1:34:51 every tile
+1:34:55 that's dull tile
+1:35:03 so does that mean they have it in their
+1:35:04 catalog
+1:35:19 Oops I meant fabric
+1:35:29 doesn't show it you say it's in the
+1:35:32 downloadables but it doesn't show when I
+1:35:34 look it up
+1:35:49 and let's just go
+1:35:56 should make me download it yep
+1:36:08 it's working on that okay
+1:36:11 so now we have the doll tile catalog
+1:36:15 so let's get off manufacturer
+1:36:18 dial Tile and then search within this
+1:36:21 fabric
+1:36:26 no still nothing huh doll pile
+1:36:31 manufacturer
+1:36:36 um it's got a folder called fabric but
+1:36:39 that's not going to the filter results
+1:36:40 weird
+1:36:41 oh and they just have some linen stuff
+1:36:43 yeah all right
+1:36:57 sure I'm done with it
+1:36:59 um I don't know what changed but
+1:37:02 my feed is a lot slower nowadays I don't
+1:37:07 know what's going on
+1:37:09 computer setting up
+1:37:17 boy this is very business-like
+1:37:20 so this client is in Arizona this this
+1:37:23 kind of look when fly
+1:37:26 but we'll we'll give them it why not
+1:37:39 maybe get away with like a mountain
+1:37:41 modern like this
+1:37:43 right
+1:37:58 yeah because then I would get rid of
+1:38:00 that
+1:38:01 the casing I would do some kind of like
+1:38:04 a little regular caseless
+1:38:10 it's a pocket door
+1:38:30 um no the the lagging's coming because
+1:38:32 I'm streaming from OBS I don't have this
+1:38:36 lag if I'm not streaming
+1:38:38 so I've been doing
+1:38:40 I've been doing great without streaming
+1:38:44 and lagging definitely is part of it's
+1:38:47 just the streaming what happened how did
+1:38:49 I lose my mirror
+1:38:52 lost my mirror
+1:38:55 let's check that out let's see it's in
+1:38:58 there oh and it's facing the wrong way
+1:39:01 maybe maybe not
+1:39:05 there we go
+1:39:10 there we go
+1:39:15 and what's with this
+1:39:17 what do you think this is silly little
+1:39:20 cabinet in there
+1:39:23 doesn't even have anything yeah is this
+1:39:26 supposed to be a vanity you think that'd
+1:39:28 be weird you want to do your makeup in
+1:39:30 the
+1:39:31 toilet room in the water closet
+1:39:35 what do we think this is that's bizarre
+1:39:39 storage maybe full height storage
+1:39:41 probably would be my guess
+1:39:44 something way prettier than this oops
+1:39:47 keep right clicking
+1:40:10 it's the only I wonder if I can do this
+1:40:12 let me do
+1:40:14 full can we narrowed by full height
+1:40:16 cabinets as a type no we can't
+1:40:20 there are my cabinets as a type
+1:40:25 cabinets okay and then I can narrow by
+1:40:32 full kitchen
+1:40:34 and maybe I'll find some kind of linen
+1:40:37 storage
+1:40:39 or maybe I don't have linen storage in
+1:40:41 here it's too bad
+1:40:43 what would I have
+1:40:44 architectural nope
+1:40:47 I don't have a linen storage
+1:40:55 how do I not have that
+1:40:57 it's like basic
+1:40:59 huh
+1:41:02 [Music]
+1:41:04 you'd think
+1:41:21 what do you think 15 inch
+1:41:38 yeah
+1:41:39 why not
+1:41:41 also feel like this wants to go all the
+1:41:43 way up
+1:41:43 I also feel like I want this art to be
+1:41:45 architectural
+1:42:35 lags also you get some lag as well
+1:43:35 that looks terrible what am I doing it's
+1:43:37 terrible
+1:43:40 I don't know
+1:43:42 that's bad
+1:43:49 probably put a metal Edge on this huh
+1:43:52 wouldn't you
+1:43:54 also why is this backsplash looks like
+1:43:56 it's not a half an inch it is okay
+1:44:02 oh look at a wall out of alignment
+1:44:06 here
+1:44:08 and this carries all the way through
+1:44:10 let's fix the exterior one then
+1:44:15 and now we gotta fix the molding dang it
+1:44:25 and simplify
+1:44:30 and what I put a little painting here as
+1:44:32 you walk in
+1:44:36 maybe that base becomes a different
+1:44:38 color
+1:44:40 this room is confused man confused
+1:44:46 all right I'll be doing more with this
+1:44:48 later
+1:44:50 let's move on
+1:44:57 this is fine
+1:45:01 fireplace
+1:45:04 let's get rid of that
+1:45:24 um I can put one of my pre-built
+1:45:26 fireplaces in here with the box but it
+1:45:29 doesn't need it so
+1:45:34 got fireplace hearth is here we'll throw
+1:45:38 one of these is color coded and finished
+1:45:41 and ready to go
+1:45:43 not sure which one it is storming
+1:45:45 outside right now
+1:45:50 craziness
+1:45:51 craziness outside
+1:46:05 check that out
+1:46:07 it's making a lot of noise
+1:46:14 those are Big Trees moving around
+1:46:17 so 100 foot tall trees right there
+1:46:34 yikes
+1:46:36 I lost all my trees last year and they
+1:46:37 took out my deck and I haven't rebuilt
+1:46:39 it yet
+1:46:40 bummer
+1:46:45 I used to have a fireplace door where
+1:46:47 did it go
+1:46:50 should we make a fireplace door
+1:47:16 kind of like this one or this one
+1:47:19 this one
+1:47:21 or this one let's do this one
+1:47:33 yeah kind of like this one
+1:47:35 18 inches duplicated move it 18 and 1 8.
+1:47:40 sure
+1:47:42 and then
+1:47:44 I should just do this with my fireplace
+1:47:46 tools I already have a
+1:47:48 kind of a cool thing for this but
+1:47:52 um I'll just show you how to do this on
+1:47:54 the Fly maybe that's more interesting
+1:47:57 let's move both these up like
+1:48:02 and it says maybe
+1:48:04 sure a little wall elevation
+1:48:14 let's make it a back clipped
+1:48:18 wall elevation
+1:48:22 less of a backlit elevation
+1:48:28 and
+1:48:30 let's draw a little
+1:48:33 detail around this
+1:48:40 and actually let's do this let's do it
+1:48:43 with a cad box instead
+1:48:46 let's just draw snap to this
+1:48:48 okay perfect duplicate
+1:48:51 use this concentric dealio
+1:48:56 okay subtract
+1:48:58 the middle don't retain the object okay
+1:49:02 and turn this into a 3D solid
+1:49:05 that is only
+1:49:09 5 8.
+1:49:11 okay
+1:49:13 and what does that look like it's going
+1:49:14 to be on the wall back there or
+1:49:16 something no so that's that
+1:49:19 a little surround dealio right you guys
+1:49:22 going to learn anything on this right
+1:49:24 here a little set of tricks
+1:49:28 we want this to be
+1:49:30 I want it to be centered on these doors
+1:49:32 it's weird that oh these doors have an
+1:49:34 offset that's why
+1:49:36 so let's fix the offset
+1:49:38 in X15 which is way different
+1:49:42 three inch make it a zero inch offset
+1:49:44 there we go like so
+1:49:47 oh yeah geez Storm's kicking
+1:49:50 okay
+1:49:54 paint that black I like it
+1:49:57 and let me move this forward just a
+1:50:00 little bit
+1:50:07 there I like it
+1:50:10 a little bit of doors let's convert this
+1:50:12 to a symbol we don't need it to add it
+1:50:14 well let's add it to the library why not
+1:50:16 and which way did we create this we
+1:50:19 created it in north south so that's good
+1:50:21 that should be right
+1:50:22 and then this is going to be a fixture
+1:50:24 class show Advanced options
+1:50:26 and this is going to
+1:50:28 insert into the wall by
+1:50:32 two inches maybe
+1:50:36 all right
+1:50:39 and then
+1:50:41 when we place it in said wall
+1:50:45 oops wrong wall
+1:50:51 here's the only problem I didn't create
+1:50:53 a return
+1:50:54 for the drywall itself in the symbol so
+1:50:58 we missed the step so let's do that
+1:51:03 and this is going to be specific to this
+1:51:06 particular wall
+1:51:09 so what is this wall four and a half so
+1:51:11 that would be common anyways
+1:51:13 okay
+1:51:14 so now I want to
+1:51:17 what do I want to do
+1:51:20 um
+1:51:21 let's just do this
+1:51:24 this is going to be four and a half
+1:51:28 snap it to itself okay
+1:51:34 and
+1:51:35 we need to make sure that this is
+1:51:39 snap to the top
+1:51:43 oops
+1:51:45 snappy snap yep picked up a snap perfect
+1:51:49 okay there we go now let's explode it
+1:51:54 explode it so that we get faces
+1:51:57 and then let's get rid of that face
+1:52:01 and let's get rid of that face
+1:52:06 there we go now we got something to work
+1:52:08 with
+1:52:10 crazy outside right now jeez
+1:52:14 convert this to symbol showed me as
+1:52:17 options inserts into all
+1:52:20 and it's into wall by four and a half
+1:52:22 inches
+1:52:24 m
+1:52:25 oh we'll see I missed another step let's
+1:52:28 see I actually want to move
+1:52:30 I want to move
+1:52:33 this back
+1:52:35 by maybe an inch
+1:52:38 that move everything shoot it did didn't
+1:52:41 it
+1:52:42 I just want to move
+1:52:46 contain selection
+1:52:48 move this back
+1:52:51 one inch
+1:52:53 there we go
+1:52:55 now convert it
+1:52:57 showcase options
+1:52:59 inserts into wall four and a half
+1:53:05 grab this fireplace doors
+1:53:21 okay
+1:53:35 should we get there
+1:53:37 hey look at that
+1:53:40 that's what I wanted
+1:53:42 now I want a room as a type
+1:53:48 we don't have room as a type dang dang
+1:53:51 too bad
+1:53:56 this fireplace shoot yes I do
+1:54:00 spraying this room as a fireplace shoot
+1:54:02 it removes baseboard adds this
+1:54:03 particular texture I use
+1:54:05 there we go inside of a fireplace
+1:54:18 Center this up on so
+1:54:29 anybody have any questions on what I
+1:54:31 just did
+1:54:51 and we got a little Z fighting there but
+1:54:54 I don't know not the end of the world
+1:55:15 I'm gonna replace this with my own
+1:55:17 mantle later I can move this down if we
+1:55:20 want
+1:55:35 um if you've always watched my feeds you
+1:55:37 may have known that there's been a
+1:55:39 couple disasters during my feeds this
+1:55:41 feels like it could happen again so if
+1:55:43 you see me jump
+1:55:44 that's because a giant tree is falling
+1:55:51 had a couple natural disasters happen
+1:55:53 during the live shows
+1:55:55 seems to be a curse
+1:56:19 all right
+1:56:20 gonna end up improving that closet still
+1:56:24 these are bookshelves let's use my tools
+1:56:27 for this
+1:56:29 or display shelves or whatever
+1:56:55 that pulled past let's see where's my
+1:56:57 bumps
+1:57:01 seems like it's pulling past strange
+1:57:09 [Music]
+1:57:15 let's go just laminate Shelf
+1:57:19 probably laminate Shelf
+1:57:21 place that oops
+1:57:23 no that worked
+1:57:29 I don't know why bumps aren't working
+1:57:30 there
+1:57:44 we think for these
+1:57:47 are these sure
+1:57:55 like so
+1:57:58 that's too many
+1:58:01 so
+1:58:10 there we go
+1:58:38 I got my Star Wars figurines should I
+1:58:40 put these in here
+1:58:42 I'm gonna do an update I need to put
+1:58:44 trophies in because that's a big thing
+1:58:46 people put trophies in
+1:58:48 so if you have my quick shelf system
+1:58:52 that's gonna that's gonna happen one of
+1:58:54 these days
+1:59:02 plant doesn't seem like it makes much
+1:59:03 sense here
+1:59:05 let's just do some books
+1:59:08 and maybe a little audio system
+1:59:12 why not
+1:59:17 simple super easy fast love it love it
+1:59:20 love it love it
+1:59:31 okay this half's done for now let's go
+1:59:34 to the other half
+1:59:53 well that was funny I see what they were
+1:59:55 doing here
+1:59:56 they've got some
+1:59:58 we've got exterior walls making up the
+2:00:01 oh that's just into the white right wall
+2:00:03 type Goofy
+2:00:11 lightning wall type
+2:00:13 lazy lazy lazy
+2:00:16 this should be an interior six not a
+2:00:19 siding six
+2:00:21 interior six and now we're gonna have to
+2:00:24 line this up
+2:00:27 on the interior side
+2:00:43 showing there's a wall below what's
+2:00:45 going on there
+2:00:49 so
+2:00:52 much
+2:00:59 yeah and so this wall is out of
+2:01:00 alignment which means this is out of
+2:01:02 alignment which means all these walls
+2:01:04 are out of alignment all the way across
+2:01:07 which means the easiest thing to do is
+2:01:09 move the exterior wall
+2:01:12 good job
+2:01:14 so that's gonna go there
+2:01:18 and this has got to go here
+2:01:22 okay
+2:01:30 and more bookshelves
+2:01:40 probably just do this out of a full
+2:01:42 height cabinet
+2:01:45 and use that replacement tool again
+2:01:49 and I bet you they took a lot longer
+2:02:01 yeah
+2:02:03 exactly
+2:02:06 well and
+2:02:10 a lie
+2:02:12 they like my my services as the finished
+2:02:15 product that they present to their
+2:02:16 client and it's for a very specific
+2:02:18 reason
+2:02:20 every once in a while I find like a
+2:02:22 major architectural problem in the plans
+2:02:25 and I mean talk about adding value to a
+2:02:28 to a rendering service of all things
+2:02:37 see where's the center of this wall
+2:02:39 there's a center now
+2:02:42 there there we go
+2:02:49 all right all right all right so we need
+2:02:53 to this is how wide this is a 37 inch
+2:02:58 cabinet so my 30 inch tools will work
+2:03:00 for replacement
+2:03:02 but we want to make sure that
+2:03:04 this is going to be split vertical
+2:03:07 30 and 15 inch works for replacement
+2:03:11 so it could split and use the 15 or we
+2:03:14 could do a combination we'll see what
+2:03:16 looks better
+2:03:17 and we want to make sure this is door
+2:03:19 right instead of Auto write
+2:03:22 there we go
+2:03:25 and want to make sure specifying zero
+2:03:28 shelves
+2:03:33 in that section
+2:03:39 same thing
+2:03:50 First shows yourself yourselves and we
+2:03:53 need some separations so we're gonna do
+2:03:56 I don't think I want to split these into
+2:03:58 door
+2:03:59 let's do this let's just do
+2:04:08 this layout needs to go okay
+2:04:12 let's put this horizontal a bunch of
+2:04:15 times
+2:04:21 equalize
+2:04:23 yeah that's about right
+2:04:26 I think
+2:04:35 foreign
+2:04:37 yeah can't see everything in 2D
+2:04:40 right
+2:04:47 this is just bookshelves
+2:04:49 I mean we'll put some Decor in here but
+2:04:51 this should be just bookshelves
+2:04:54 so
+2:05:00 I need some new Arrangements if I'm
+2:05:02 going to do full shells like this
+2:05:22 maybe we'll put
+2:05:48 sure we've got no handle none
+2:05:54 and we want these shells the separations
+2:05:57 to be let's pump these the box
+2:06:00 construction it shows frameless if we
+2:06:03 show framed that looks better there we
+2:06:06 go
+2:06:10 okay
+2:06:30 um something's wrong with spacing on
+2:06:32 these shelves
+2:06:34 what happened there
+2:06:36 come on
+2:06:50 yeah everybody's been showing me this
+2:06:52 Stone curator and I don't like the
+2:06:54 quality of them
+2:06:56 um I've been sent this a couple of times
+2:06:58 now it's been rotating around the office
+2:07:01 if you will
+2:07:05 now why are these not equalized when I
+2:07:07 hit equal there we go
+2:07:29 so let's take a look at stonecurator.com
+2:07:33 just so you can see
+2:07:41 it's spell wrong Stone curator Stone
+2:07:44 curator
+2:07:47 Stone curator Stone curators.com no
+2:07:51 that's not it
+2:07:52 is that it Stone designer
+2:07:55 someone just sent this to me yeah this
+2:07:57 is it
+2:07:59 um
+2:08:00 it's just pretty generic looking let's
+2:08:02 do one we'll do one just to see what it
+2:08:05 looks like
+2:08:06 um I just don't think it looks realistic
+2:08:07 enough for me personally
+2:08:09 so
+2:08:11 there's a texture that's not going to be
+2:08:13 the common texture for me so let's do
+2:08:16 something a little more
+2:08:17 common for what I might see I see
+2:08:19 something like this now it's I guess
+2:08:21 it's nice to be able to take the bump
+2:08:23 maps and and do your own thing with it
+2:08:25 so I could do that
+2:08:28 like here's the bump
+2:08:30 right so it's creating a mask for us
+2:08:32 that we can use
+2:08:34 so maybe that's nice because then I can
+2:08:37 apply my own
+2:08:39 um
+2:08:40 material Granite let's do
+2:08:44 I don't know
+2:08:51 size custom light intensity do we have
+2:08:54 multiple color I want multiple colors
+2:08:57 how do we set multiple colors let's see
+2:08:59 add another material
+2:09:02 and then
+2:09:06 yeah and then you can add another
+2:09:07 material
+2:09:15 and that was the same as the other one I
+2:09:17 guess
+2:09:20 nope that doesn't seem to be doing
+2:09:22 anything
+2:09:26 there we go
+2:09:28 and then add another material
+2:09:40 and then change the grout color
+2:09:47 it just looks really generic to me I
+2:09:50 don't know
+2:09:56 can we change the size
+2:09:58 recessed joints yes
+2:10:01 yeah
+2:10:03 um
+2:10:04 rows columns let's go pump the rows up
+2:10:12 okay
+2:10:18 and hit randomize a couple times
+2:10:21 and that basalty Noms not really working
+2:10:28 better
+2:10:36 okay let's download and apply it why not
+2:10:40 we want to limit to 10 24.
+2:10:43 which doesn't come in a square which is
+2:10:45 a pod
+2:10:56 and then it's taking its sweet time to
+2:10:58 download sweet sweet time
+2:11:01 let's go come on
+2:11:04 there we go
+2:11:06 put it in an appropriate place like
+2:11:08 Stone
+2:11:23 um
+2:11:24 that's weird
+2:11:26 only gave me a single map that was very
+2:11:28 strange
+2:11:30 so you have to go grab the bump map
+2:11:32 separately I guess
+2:11:35 okay
+2:11:47 come on
+2:11:48 come on come in yep
+2:11:51 and then you have to name it
+2:12:06 let's go apply this real quick
+2:12:19 okay so I'm imagining that this texture
+2:12:23 is actually supposed to be a stone in
+2:12:24 the first place
+2:12:26 so let's just edit that
+2:12:30 it is
+2:12:33 Minnesota Fieldstone interesting okay
+2:12:44 um
+2:12:49 I did put it in here right Stone
+2:12:50 curators right example
+2:12:54 let's rename this
+2:12:57 what do we rename it anybody
+2:13:01 fuse or base color or Albedo
+2:13:05 and let's actually grab let's make a
+2:13:08 normal map out of this
+2:13:11 so let's come back here let's go to my
+2:13:15 favorite
+2:13:16 normal map generator
+2:13:19 and let's grab this drag it here
+2:13:41 so here's the other thing this is just a
+2:13:44 really linear Stone like it's just
+2:13:46 creating the bump map out of the grout
+2:13:49 itself but there's no levels to it
+2:13:51 that's the problem I have with this
+2:13:52 again so let's let's do a couple things
+2:13:55 we're going to improve the bump map I'm
+2:13:57 going to show you how to improve the
+2:13:58 bump map with Photoshop
+2:14:01 man I'm getting some serious lag it's
+2:14:03 too bad
+2:14:18 why are we getting lag because it's
+2:14:19 kicking in Ray Trace in the material
+2:14:21 preview
+2:14:23 stop it
+2:14:28 okay let's open that bump map up
+2:14:47 here's our bump map let's try to
+2:14:52 mess with this a little bit let's go
+2:14:55 we're gonna make a copy Ctrl J copy Ctrl
+2:14:58 M to hit our curves adjustment let's try
+2:15:01 to isolate
+2:15:06 just the grout lines there we go
+2:15:10 now
+2:15:11 let's try to get into
+2:15:14 a little bit of gray and pop in some
+2:15:17 some height variation here
+2:15:22 so I mean I guess it's a nice base
+2:15:24 kickoff point but I still think the end
+2:15:26 result is not going to be all that good
+2:15:27 looking
+2:15:28 we'll see
+2:15:31 what we can do
+2:15:37 and let's get an in-between Gray
+2:15:44 and let's get a light gray
+2:15:49 lighter gray
+2:15:52 so we're just creating height variation
+2:15:54 here a depression with these Stones okay
+2:15:57 and we can change the blend mode so this
+2:16:01 adds to
+2:16:03 to layer underneath
+2:16:06 something like that
+2:16:09 kind of like that
+2:16:17 yeah something like that
+2:16:21 let's change the opacity down a little
+2:16:23 bit there we go now we got some Heights
+2:16:26 yes the different Grays will give it
+2:16:29 height in the bump map remind you that a
+2:16:32 black would be completely depressed or
+2:16:35 recessed depressed it's not it's a happy
+2:16:38 map it's recessed not depressed
+2:16:44 I might need a break
+2:16:49 pressed map
+2:16:50 it's so sad
+2:16:57 I don't know where to go from here
+2:17:02 all right so let's do this we're going
+2:17:04 to save this as a second uh
+2:17:07 second map
+2:17:10 control shift alt w
+2:17:13 ing just to jpeg
+2:17:15 export
+2:17:17 find our map here in stone
+2:17:25 and call it bump two
+2:17:28 all right now we have bump two
+2:17:36 I'm gonna just copy this
+2:17:38 um
+2:17:39 nothing because
+2:17:41 going crazy here let's copy the path
+2:17:43 there we go
+2:17:44 all right so now we can drag this into
+2:17:46 our normal generator
+2:17:50 and now we have some height variation
+2:17:51 hopefully
+2:17:53 um so let's
+2:17:59 yeah that should we'll see how the the
+2:18:02 normal map does
+2:18:04 change it to jpeg let's download it
+2:18:11 with that same naming convention
+2:18:14 bring it into chief
+2:18:18 okay we got our diffuse now let's get
+2:18:20 our normal
+2:18:27 and let's use that original bump as the
+2:18:31 AO
+2:18:40 and maybe it's possible that we can do a
+2:18:43 ray Trace I don't know this whole
+2:18:46 streaming encoder issue is
+2:18:49 pretty strong seems like
+2:18:54 I'll have to figure that out
+2:18:58 let's change the scale of this just a
+2:18:59 little bit I think it needs to be pumped
+2:19:01 up to let's say four
+2:19:08 and what's this look like
+2:19:17 it looks alright
+2:19:24 I'm more interested to see what it looks
+2:19:27 like in Twin motion where we have some
+2:19:30 displacement
+2:19:34 um because it's in Twin motion with
+2:19:35 displacement we might get somewhere with
+2:19:37 this
+2:19:40 let's set our
+2:19:42 um models
+2:19:44 export samples let's just make them four
+2:19:46 and then cap live and D noise
+2:19:57 let's see if my existing Stone Maps look
+2:20:00 better than this that's
+2:20:02 let's see if I got some Rd Stone
+2:20:18 computer is screaming right now
+2:21:04 so as an example
+2:21:07 this is one of my stone textures
+2:21:13 so I mean if you don't want to go in and
+2:21:14 make your own textures that was pretty
+2:21:16 good
+2:21:18 but it's not in my mind it's not
+2:21:20 replacing one of these textures I've got
+2:21:22 going on here this just looks so much
+2:21:24 better to me
+2:21:26 look at all the little details as the
+2:21:27 sun's hitting it up in the top there
+2:21:32 all right what was the question here
+2:21:33 let's see
+2:21:37 it's a weird the front door you have to
+2:21:40 tell me what you mean
+2:21:41 are you talking about this if he's doing
+2:21:43 some kind of truss here some kind of
+2:21:45 decorative
+2:21:48 deal
+2:21:49 yeah looks pretty good I agree it looked
+2:21:51 pretty good
+2:21:55 I'm not sure that I would say it made it
+2:21:56 look awesome
+2:21:59 oh uh e Tyson over the actual front door
+2:22:02 what's the weird piece over the actual
+2:22:04 front door
+2:22:06 let's check this out
+2:22:08 um
+2:22:09 transom window or oh this yeah he just
+2:22:13 has it and it's just not aligned
+2:22:16 that probably needs to be back here
+2:22:21 we haven't even started fixing the
+2:22:23 exterior yet
+2:22:25 there's always going to be some funny
+2:22:27 stuff in the exterior I mean look at the
+2:22:29 roof set up he's got his
+2:22:32 subpatient different size than
+2:22:36 I mean we can fix that real quick
+2:22:40 let's grab these two roof planes looks
+2:22:42 like the subface is a different size
+2:22:43 than the actual framing so structure
+2:22:46 panel structure is three and a half
+2:22:48 inches and he's probably got subfacial
+2:22:50 five and a half yeah
+2:22:52 let's just make this five and a half
+2:22:55 that'll fix that little deal
+2:23:01 and then these are just funny
+2:23:04 we'll fix that later
+2:23:06 and then I don't know what's going on
+2:23:09 here it just has this framing member
+2:23:12 pushing through the walls which is going
+2:23:14 to cut the walls so maybe you don't even
+2:23:16 use a framing member for that you could
+2:23:18 just do a solid
+2:23:22 that reports as a framing member would
+2:23:24 probably be easier
+2:23:27 you could do this whole thing as a solid
+2:23:30 one solid
+2:23:33 just delete all this I'm gonna redo that
+2:23:35 it's fine
+2:23:38 and then this isn't fixing its cut so
+2:23:41 maybe we delete it and undo
+2:23:54 still not fixing it
+2:23:57 weird there might be some invisible
+2:24:02 visible thing here
+2:24:15 funny
+2:24:20 all layers on let's check that out
+2:24:24 craziness
+2:24:34 yeah there's another frame remember here
+2:24:38 or something what is this yeah he's got
+2:24:40 a roof beam in here
+2:24:42 somewhere
+2:24:50 yep there it goes fixed it
+2:24:53 and then this roof needs to be cut and
+2:24:55 brought back maybe put a ceiling plane
+2:24:57 in there but no it should just be cut
+2:24:59 and brought back
+2:25:14 or actually I don't know what I'm
+2:25:16 thinking why did I say that that was
+2:25:17 dumb
+2:25:26 this would be infilled
+2:25:33 and the roof should cut wall at bottom
+2:25:56 if it'll let me yeah oh no that's
+2:25:59 something crazy
+2:26:00 okay
+2:26:03 okay chief
+2:26:33 all right getting sidetracked let's get
+2:26:35 back to this
+2:27:02 I wonder if my so my camera
+2:27:06 has AI built into it see how it tracks
+2:27:08 me
+2:27:10 isn't that wild
+2:27:12 I wonder if that's fighting my video
+2:27:14 card
+2:28:03 oh that's stretched
+2:29:11 okay what do we got here
+2:29:33 foreign
+2:30:36 what's happening there we go
+2:30:40 mm-hmm
+2:31:06 see if these hotkeys work does that work
+2:31:09 oh it does work
+2:31:11 oh
+2:31:12 it's amazing
+2:31:21 that's crazy how fast that can be
+2:31:25 had a restrictive search for electrical
+2:31:28 type and then typed in vanity to get a
+2:31:30 vanity light very quickly
+2:31:34 had a
+2:31:35 custom Place toolbar object for the sink
+2:31:39 had a style palette for the three drawer
+2:31:42 base
+2:31:43 and then hotkeys for your
+2:31:46 quick hotkeys for your component based
+2:31:49 eye drop tool
+2:31:52 it's crazy how fast that can be
+2:31:56 and then think about doing that in Revit
+2:32:00 ah that would have taken all day
+2:32:09 um what else anybody else find it odd
+2:32:12 that this window is not centered
+2:32:15 are you kidding
+2:32:17 there's no way that's right there's no
+2:32:20 way
+2:32:23 here's our
+2:32:25 default set
+2:32:26 detail layer set floor plan Dimension
+2:32:29 layer set is probably what they're using
+2:32:33 let's do a layer higher for them
+2:32:35 there's no way there is no way that this
+2:32:39 is not centered
+2:32:47 right
+2:32:50 there's absolutely no way that could
+2:32:52 happen
+2:32:55 I think that the Builder for this client
+2:32:58 just does things like like we would do
+2:33:02 with them right now as we're reviewing I
+2:33:04 think the Builder does the same thing
+2:33:05 he's just like no that's not what it is
+2:33:08 let me fix it in the field oh man
+2:33:12 all right let me see if I can do this
+2:33:14 let's see if we can do door as a type
+2:33:17 towards the type yep and then
+2:33:19 let's do mirror
+2:33:22 as a search and then
+2:33:24 off of electrical
+2:33:27 does that give me a mirrored closet door
+2:33:29 painter
+2:33:32 I kind of want to do
+2:33:37 huh okay let's do this instead spiral
+2:33:40 palette as a type
+2:33:43 and then oops
+2:33:45 style palette
+2:33:47 the type
+2:33:50 is that a simple palette am I going to
+2:33:52 spell it wrong this whole time I thought
+2:33:53 it was two l's
+2:33:55 um is that really how you spell palette
+2:33:57 shoot
+2:33:59 palette Collette
+2:34:03 I spell it okay
+2:34:05 I've been wrong this whole time
+2:34:10 stuff is hitting my house right now
+2:34:13 wow okay style palette and then mirror
+2:34:16 add that to it Miracles doors bam
+2:34:21 kind of quick probably could have gotten
+2:34:23 to that faster
+2:34:24 but that's clever
+2:34:27 right
+2:34:28 it's quick easy
+2:34:34 that bathroom's terrible
+2:34:38 what is this what is this room oh it's a
+2:34:41 laundry room didn't we already we
+2:34:42 already did kind of a laundry room two
+2:34:43 laundry rooms huh all right
+2:34:46 sure
+2:34:49 power to you
+2:34:56 so can we do fixtures as a type I wish
+2:34:59 the type came up first and then
+2:35:02 limit mirror in that and then washer
+2:35:08 oh that didn't show up
+2:35:12 laundry
+2:35:14 nope that didn't show up oh fixtures
+2:35:16 exterior oops
+2:35:18 so
+2:35:19 fixture interior
+2:35:23 and one and then washer
+2:35:26 give me what I want and then limit by my
+2:35:29 catalog man I love this I love that
+2:35:31 that's so nice
+2:35:42 that's so nice kidding me
+2:35:51 I think my clients testing me as well
+2:35:53 always
+2:35:56 are you in standard 3D camera view or
+2:35:58 Ray Trace right now I was in standard
+2:36:02 um
+2:36:03 but I just know that so I use OBS Studio
+2:36:06 which is oh wow we don't have fixtures
+2:36:08 turned on here
+2:36:10 um which is what I have some cool like
+2:36:13 graphic overlays and I can do stuff like
+2:36:16 um
+2:36:17 I can put like a timer up with a be
+2:36:19 right back thing like this or I can do
+2:36:22 my Fade to lightning logo on the fly or
+2:36:25 we could just go camera only
+2:36:28 um
+2:36:29 hi
+2:36:32 that's a camera only and then
+2:36:36 be able to do this whole overlay deal so
+2:36:38 it's a powerful tool but I think it's
+2:36:42 somehow its newest version or
+2:36:46 or my AI based camera or chief they're
+2:36:50 all fighting each other somehow so
+2:36:54 um and there's a way around it basically
+2:36:56 I'd be streaming from a second machine
+2:37:08 so let's do our Center and then Center
+2:37:11 in between let's see Center
+2:37:15 and then shift nope oh what did that do
+2:37:20 going up a level
+2:37:23 let's see I'm trying to remember my
+2:37:24 hotkeys Center
+2:37:27 cabinet Center
+2:37:30 point
+2:37:31 Center 0.2
+2:37:34 I mean point to point but it's not
+2:37:36 giving me the the sub edit menu how
+2:37:39 weird is that
+2:37:40 I'm literally we see I'm in point to
+2:37:42 point right yeah but it's not giving me
+2:37:44 your Center between her no I'm trying to
+2:37:46 do Center what am I doing Center and
+2:37:49 then control center
+2:37:51 ah
+2:37:53 and
+2:37:56 Center between two points that kind of
+2:37:59 worked
+2:38:01 huh
+2:38:02 and we're going to do that same cabinet
+2:38:04 setup we did in the other room why not
+2:38:28 the right click button in X15 is a
+2:38:31 really weird
+2:38:33 doesn't act the way I'm used to it
+2:38:35 acting
+2:38:47 got your block on this
+2:38:50 empty
+2:38:59 no that's terrible
+2:39:05 I don't like it
+2:39:41 foreign
+2:40:22 let's see Rd flooring
+2:40:24 Cedar
+2:40:39 come here
+2:40:40 me
+2:40:41 why not
+2:40:55 let's see if I can get this to work now
+2:40:57 I can put him on now it's weird that
+2:41:00 they give us separate hotkeys for
+2:41:02 component
+2:41:04 object room floor plan modes
+2:41:06 by the type that it's enabling like for
+2:41:10 object type versus material class versus
+2:41:12 whatever it's like why not just give us
+2:41:15 the same hotkey for our component floor
+2:41:17 object
+2:41:19 it would never make sense that you would
+2:41:21 use separate hotkeys for that it doesn't
+2:41:23 make any sense
+2:41:31 all right we're going to narrow this
+2:41:33 whole thing down we're going to go with
+2:41:34 this 30. this is just going to be a
+2:41:36 center section
+2:41:38 then
+2:41:42 split this horizontal oops I shouldn't
+2:41:45 have done that
+2:41:46 before we split it
+2:41:48 let's remove all shells wish they had a
+2:41:52 faster way to get rid of shelves that
+2:41:54 would be very nice
+2:41:56 very nice we're gonna make this door
+2:41:58 right
+2:42:00 and now we'll split it horizontal
+2:42:03 there we go
+2:42:05 construction let's go framed
+2:42:08 yeah if I like it door drawer
+2:42:11 door handle none
+2:42:13 there
+2:42:17 and now I can
+2:42:20 replace this little section here
+2:42:25 look at that how cute
+2:42:27 the quaint
+2:42:34 little Center open shelves section
+2:42:38 could put a closet rod in there
+2:42:41 that would have been cool
+2:42:44 Maybe
+2:42:48 I'm actually going to put one more shelf
+2:42:50 in here
+2:42:53 split
+2:42:55 equalize
+2:42:58 paint
+2:43:07 cute
+2:43:11 would you open the doors like this
+2:43:15 seems odd
+2:43:18 is there a code against opening a door
+2:43:19 into a garage I would say no
+2:43:27 and why wouldn't you flip the store the
+2:43:28 other way
+2:43:33 I would
+2:43:35 you
+2:43:37 I would think so
+2:43:53 yeah these doors are fighting each other
+2:43:56 it's too bad it's gonna be hard to make
+2:43:59 a walk-through path with this probably
+2:44:01 leave the exterior door shut and leave
+2:44:03 the
+2:44:03 garage door open
+2:44:18 let's see I missed some comments here
+2:44:20 just saying because your mirrors are
+2:44:22 showing their friction and not gray
+2:44:24 mirrors are showing reflection and not
+2:44:27 gray
+2:44:30 you're talking about my standard
+2:44:33 rendering mirrors
+2:44:34 yeah these show reflections
+2:44:42 just clicked on your video to try to
+2:44:44 rotate and look at it better almost time
+2:44:46 to quit
+2:44:52 I know I need a break I'm cracking
+2:44:55 I'm cracking under pressure what do you
+2:44:57 think this is all about probably hanging
+2:45:00 right
+2:45:03 or what open shells
+2:45:07 weird weird weird again weird
+2:45:15 oops let's see if there's any notes Here
+2:45:19 notes
+2:45:25 sync that's his note sync
+2:45:32 rooms sync brooms family laundry huh
+2:45:36 weird
+2:45:37 let's put some shelves in there why not
+2:45:45 foreign
+2:46:03 let's pin what you said
+2:46:06 I do upper cabinets with a drawing Rod
+2:46:08 over the sink yeah I'm kind of thinking
+2:46:10 the same thing
+2:46:12 um upper cabinets that said okay let's
+2:46:13 do that
+2:46:14 I'm down
+2:46:22 wait they're gonna be upselling like
+2:46:24 crazy on this one
+2:46:29 this one feels very under designed
+2:46:32 let's go Center them up on this
+2:46:36 what is this one
+2:46:39 27 inch
+2:46:50 and
+2:46:54 come on let's put the right click
+2:46:58 okay
+2:47:05 and then let's see if I can get this to
+2:47:08 work so this is going to be
+2:47:12 painter's closet should be able to get
+2:47:16 just a hanging
+2:47:18 shelf here
+2:47:21 and then showing folder
+2:47:25 holy cow
+2:47:34 it's crazy outside right now crazy
+2:47:51 so let's do this let's go that
+2:47:56 let's expand this let's make it 60
+2:48:07 .
+2:48:33 foreign
+2:48:57 why not
+2:48:59 might not make sense but that's okay
+2:49:12 oh
+2:49:24 yeah
+2:49:26 sure
+2:49:30 you can change that color later doesn't
+2:49:32 matter
+2:49:36 fixes in here there's a double sink
+2:49:42 other than that this is okay
+2:49:54 fix that bathroom already
+2:49:58 okay we got that same mirror closet door
+2:50:00 thing
+2:50:02 so what do we do we did door as a type
+2:50:06 what if you can just type in type
+2:50:09 and door
+2:50:11 that's too bad you should be able to do
+2:50:13 that
+2:50:15 that's really too bad
+2:50:20 so let's go style palette
+2:50:24 type
+2:50:26 or
+2:50:28 mirror sorry
+2:50:40 oh we got a shower to do
+2:50:45 if you don't have my shower and bath
+2:50:48 tools
+2:50:50 you should get them
+2:50:51 because it's going to make this job
+2:50:53 really fast
+2:50:56 just pop this down so it's in
+2:50:58 everybody's way
+2:51:01 drop this in
+2:51:04 that's fine explode it
+2:51:09 draw our curb out
+2:51:13 like show I would say that this is
+2:51:16 supposed to be a half wall
+2:51:18 all right
+2:51:20 if I could draw it correctly
+2:51:22 doesn't want me to there we go
+2:51:25 half all
+2:51:31 yeah do it
+2:51:34 that's that's a big one for me in in my
+2:51:37 workflow
+2:51:42 so that's that little bit off the wall
+2:51:44 half an inch
+2:51:46 this wall until it meets that one
+2:51:51 and then we're gonna put a panel in
+2:51:55 drag that off the wall a half an inch
+2:52:00 I want that to this
+2:52:03 there we go
+2:52:07 let's paint the shower room
+2:52:11 raises the mortar bed
+2:52:13 probably put in a bench in here
+2:52:19 why not
+2:52:21 limit the bench to that let's see what
+2:52:23 it's looking like
+2:52:40 really don't understand why the
+2:52:42 backsplash tool is not painting
+2:52:45 sometimes sometimes backsplash tool
+2:52:48 doesn't want to doesn't want to work I
+2:52:50 don't know why
+2:52:51 why aren't you working
+2:52:54 clicking on the wall and it's not
+2:52:56 working
+2:52:58 what am I doing wrong here
+2:52:59 let's go
+2:53:01 yeah so strange
+2:53:07 bizarre
+2:54:00 foreign
+2:54:11 what was the difference
+2:54:13 so strange
+2:54:22 no Rainmaker on this one
+2:54:58 uh room definition was there
+2:55:00 so I don't know what the deal was with
+2:55:02 that strange
+2:55:07 oh you slipped in you dog
+2:55:11 that actually was I didn't have any way
+2:55:14 of giving discounts to just the people
+2:55:16 that were at the summit uh this year so
+2:55:19 um so I just had to open it up on the
+2:55:21 whole and a couple people
+2:55:23 who had visited the site realized stuff
+2:55:26 was on sale and bought them up so good
+2:55:28 job you got that
+2:55:44 foreign speaking of people at the summit
+2:55:47 that
+2:55:49 got a hold of that sale nice hey Dylan
+2:55:54 Dawn was there a really bright young
+2:55:56 Talent based out of Arizona this is an
+2:55:58 Arizona project by the way it's funny
+2:56:00 it's not that far from you actually it's
+2:56:02 like 30 40 minutes from you
+2:56:10 um
+2:56:17 tell me why I didn't replace all
+2:56:20 vanities at once when we had the
+2:56:22 opportunity to probably because I was
+2:56:24 just trying to get used to this whole
+2:56:25 Library Thing
+2:56:27 so what are we doing again we are
+2:56:30 electrical
+2:56:34 so I guess it's easier to just type in
+2:56:36 type
+2:56:38 and then scroll to whatever you want
+2:56:40 maybe that's easier
+2:56:49 um such a powerful thing to have that
+2:56:50 replace
+2:56:52 or placed from library in your hotkeys
+2:57:00 and then I could just add a backsplash
+2:57:02 here instead of doing custom ones I'm so
+2:57:04 used to just doing the custom ones
+2:57:06 though
+2:57:06 but this will add
+2:57:09 if it's working right let's see yeah
+2:57:11 that just adds it in a size flash I
+2:57:15 don't know
+2:57:16 maybe clever maybe not oh I just did
+2:57:18 room painter mode did I paint the walls
+2:57:20 no it didn't all right
+2:57:23 all right so this bathroom's
+2:57:25 done
+2:57:28 pretty much
+2:57:31 um I'll do towel bars and stuff in Twin
+2:57:33 motion it's easier because the material
+2:57:35 is already saved to it we've got a wall
+2:57:37 alignment issue
+2:57:45 yes please share it share it somehow and
+2:57:49 we can review it or send them my way and
+2:57:51 we can preview it on here if you want
+2:57:55 you can look at it on here
+2:57:58 if you want to you know be victim to all
+2:58:00 these designers in here
+2:58:08 okay so we got a wall out of alignment
+2:58:13 fix that
+2:58:22 all right what do we got
+2:58:25 this is Goofy
+2:58:27 clearly not really thought out
+2:58:29 all that much
+2:58:31 you're really going to slam an
+2:58:33 electrical double gang electrical and
+2:58:35 also why you still have toggle switches
+2:58:37 in your defaults
+2:58:39 it was beyond me
+2:58:41 is anyone put in any toggle switches in
+2:58:43 the last 10 years
+2:58:48 okay so we can kill that leave
+2:58:50 electrical up and then decor
+2:58:54 huh or you need to put the uh
+2:58:59 right
+2:59:00 to Cora switch this model of the decor
+2:59:03 switch is really bad though let's see if
+2:59:05 we got something
+2:59:06 limited from there
+2:59:09 duplex there we go that one's much
+2:59:11 better
+2:59:13 and plan mode Let's see if I can get to
+2:59:15 plan mode from my hotkeys
+2:59:18 nope how would that shift nope how about
+2:59:21 control
+2:59:23 one of those worked all right
+2:59:30 now why did that make it just one oh
+2:59:31 that must have been a double Gang Box
+2:59:33 funny
+2:59:41 we'll just put these side by side
+2:59:43 they'll do their Auto join thing there
+2:59:45 we go looks better
+3:00:10 it's weird that these this entry needs
+3:00:12 to get rethought up to me this should be
+3:00:16 pushed
+3:00:17 pushed in more wouldn't you agree
+3:00:19 doesn't that seem odd
+3:00:27 I feel like these doors should land on
+3:00:29 that exterior side almost just have a
+3:00:32 little bit of a walk in here
+3:00:37 I wonder what the client would say if I
+3:00:40 just did that
+3:00:43 that's that's an aggressive
+3:00:44 architectural change since this is going
+3:00:47 through permitting
+3:00:48 But If This Were Me
+3:00:52 I had to move this here
+3:01:07 oops that's class
+3:01:09 uh
+3:01:11 let's delete that and then uh
+3:01:16 let's make this doorway
+3:01:19 I'm gonna do this
+3:01:20 and I'm just going to tell them I'm
+3:01:22 doing it
+3:01:23 and they'll probably be okay with that
+3:01:28 and then this will all be interior six
+3:01:32 oops I need to break them first
+3:01:41 maybe break
+3:01:44 oh you missed the break
+3:01:47 break
+3:01:48 oh come on break
+3:02:00 you're gonna happen in there
+3:02:03 so
+3:02:06 interior six
+3:02:21 what ends up happening there
+3:02:26 that's interior six but it kept the
+3:02:28 stone somehow isn't that funny
+3:02:31 weird
+3:02:33 oh because of the room type maybe that
+3:02:35 it created
+3:02:37 and then what do you do with the transom
+3:02:39 then so then we just open this up
+3:02:42 this up
+3:02:45 whatever this is
+3:02:50 up up
+3:02:52 maybe up up
+3:03:23 something's off
+3:03:26 something's weird
+3:03:29 not sure what I want to do there
+3:03:39 almost like we don't want this to have
+3:03:41 room definition
+3:03:47 or just delete that
+3:04:03 oh that's a framing member
+3:04:18 yeah you were ahead of me on that one
+3:04:23 yeah and we just took room definition
+3:04:24 away
+3:04:29 and then this would just be we'd switch
+3:04:32 this to Interior four to match up so
+3:04:35 we can drag this guy through actually
+3:04:51 that's a lot better kidding
+3:05:20 still a little bit funny with the wing
+3:05:22 wall but I don't know maybe we'll come
+3:05:24 up with something
+3:05:25 Furnishings with Furnishings kind of
+3:05:28 division that out
+3:05:31 okay is that the full first floor I mean
+3:05:33 I think that was it
+3:05:36 yeah I got all the bathrooms back there
+3:05:38 I know that we still want to do
+3:05:40 something with this
+3:05:41 this bathroom's just
+3:05:43 funny in this pantry and it ended up
+3:05:46 being really dumb I don't like my
+3:05:48 version of this
+3:05:58 but other than that
+3:06:01 let's look at the exterior
+3:06:03 I wonder why the exterior has
+3:06:08 this weird grid
+3:06:10 um I didn't get any uh
+3:06:13 I usually get a site map so no site map
+3:06:16 on this one
+3:06:21 yeah I agree that looked way better
+3:06:24 no site map so I'm not sure what's
+3:06:26 happening here in terms of the terrain
+3:06:29 and then we're going to get rid of all
+3:06:31 these trees because I'm gonna do my own
+3:06:33 trees in Twin motion
+3:06:37 I wish they had a marquee select or
+3:06:39 match Properties or any kind of group
+3:06:41 selection mode in 3D especially for
+3:06:43 stuff like trees
+3:06:47 um because you're going to come back to
+3:06:48 plan view just to grab all the trees
+3:07:06 and that still wasn't all the trees that
+3:07:09 was weird
+3:07:13 because these aren't classified as trees
+3:07:17 oh what did that just do I got rid of
+3:07:20 some stuff on the interior
+3:07:23 that was odd
+3:07:27 what is it selecting here oh it's
+3:07:29 selecting fixtures he's got the
+3:07:34 uh
+3:07:35 client imported these trees as fixtures
+3:07:38 that's what's going on
+3:07:41 so these are third-party things he's
+3:07:43 bringing in and not paying attention to
+3:07:45 the class he's bringing it in as
+3:07:54 I wonder where he's getting these
+3:07:56 some of these look alright
+3:08:00 should I leave them maybe use them in
+3:08:02 Twin motion Maybe
+3:08:04 okay so we needed to do our
+3:08:08 our little
+3:08:09 truss set up here let's do
+3:08:22 t
+3:08:27 where was it it was kind of at the top
+3:08:29 right I think so
+3:08:34 I think it was
+3:08:37 so I like using a line tool for this
+3:08:40 it's just easier snap down got a
+3:08:43 reference point and then
+3:08:46 about this height is where I'll start it
+3:08:48 right click so alternate draw mode
+3:08:53 for some reason I'm not getting angle
+3:08:55 snaps that's weird
+3:08:58 why am I not getting a 90 degree angle
+3:09:00 snap
+3:09:03 angle Snaps are turned on
+3:09:05 weird
+3:09:10 weird when I snap here it's not it's
+3:09:13 overriding my angle snaps
+3:09:20 huh
+3:09:21 that's strange okay
+3:09:24 I guess I won't do continuous draw mode
+3:09:26 too bad
+3:09:28 would have been easier
+3:09:33 so
+3:09:35 what do we want here
+3:09:38 kind of just want
+3:09:39 this set up
+3:09:45 and then we'll subtract from there
+3:09:48 and what will we subtract
+3:09:52 so what a triangle here
+3:10:08 and that right click is just not working
+3:10:10 the way it used to
+3:10:12 okay triangle there
+3:10:31 you start as a reference
+3:10:34 this is going really slow
+3:10:39 triangle there
+3:10:47 let's see this is going to be a 4 and
+3:10:49 12. line
+3:10:59 oh six and twelve
+3:11:05 nope what is this roof
+3:11:08 five and twelve
+3:11:13 five and twelve
+3:11:25 there's our reference
+3:11:29 for this guy
+3:11:31 and this guy
+3:11:34 and
+3:11:39 this
+3:11:41 and like so
+3:11:44 and like so
+3:11:59 there
+3:12:01 is that looking good
+3:12:03 except for this needs to be brought this
+3:12:05 way
+3:12:11 I think that's looking good
+3:12:16 yeah
+3:12:17 convert to solid
+3:12:21 five and a half depth
+3:12:28 and I'm going to use a material that
+3:12:29 doesn't really matter about uh grain
+3:12:32 Direction just to save myself some time
+3:12:43 oh except for I screwed up the bottom
+3:12:45 there didn't I dang it
+3:12:54 that's okay we'll fix that
+3:13:23 mm-hmm
+3:14:24 really think this is
+3:14:27 that wood wrap
+3:14:31 it's got to be right
+3:14:33 odd
+3:14:40 all right let's add my gutters on here
+3:14:43 and then we gotta import defaults and do
+3:14:45 our color coding and then we get to
+3:14:47 bring this into twin motion
+3:15:06 Bam Bam Bam Bam Bam Bam
+3:15:10 much better much better much better
+3:15:13 okay
+3:15:21 all right now let's import defaults
+3:15:23 after I do a little save
+3:15:27 foreign
+3:15:56 what is this
+3:15:57 a solid oh it's a solid
+3:16:01 it's fun
+3:16:22 okay
+3:16:31 when I do renders in a garage is front
+3:16:33 and center I actually take the time to
+3:16:35 make like a little threshold and some
+3:16:38 additional details at the garage doors
+3:16:40 because these garage doors from Chief
+3:16:41 look so fake right so I actually put in
+3:16:44 like a gasket and a threshold at the
+3:16:46 bottom and in the sides here and and
+3:16:48 have a little relief joint ends up
+3:16:51 looking really sharp and render it makes
+3:16:52 a huge difference if if your garage door
+3:16:55 is front and center on like a big
+3:16:57 marketing piece that's supposed to be 4K
+3:16:58 resolution
+3:17:04 okay one more time save and then let's
+3:17:08 import defaults
+3:17:14 and I just go to a previous project I've
+3:17:16 done
+3:17:23 and then we see all the things that are
+3:17:24 wrong with the color coding
+3:17:46 okay so we have to fix the gutter
+3:17:48 profile import
+3:17:51 our front entries flooring is wrong
+3:17:56 um that fixed all of our electrical
+3:17:58 items
+3:17:59 they drew this as an interior door
+3:18:02 instead of an exterior door so got some
+3:18:05 goofy stuff there
+3:18:11 so we want to let's see what's our
+3:18:13 option here
+3:18:16 oh because this is an interior door we
+3:18:18 should be able to paint these things
+3:18:19 separately
+3:18:25 as opposed to exterior you'd have to
+3:18:26 select the option to change separately
+3:18:29 and then make sure that we've got the
+3:18:31 same material on the exterior as the
+3:18:34 existing exterior
+3:18:37 there we go
+3:18:40 this looks like it must have been in an
+3:18:42 interior door as well
+3:18:48 which means they drew the layout before
+3:18:49 they applied the doors
+3:18:55 any other doors we had to fix that one's
+3:18:58 correct that one's correct those are
+3:19:00 correct okay
+3:19:02 notice we've got a cell in the transom
+3:19:04 window absolutely not
+3:19:07 exterior cell nope
+3:19:12 okay
+3:19:14 looks like this is an interior room
+3:19:17 let's paint the ceiling
+3:19:32 all right let's
+3:19:33 start color coding
+3:19:38 my downspouts looks like these
+3:19:40 downspouts might be painted the same as
+3:19:42 interior trim so I got to do this in
+3:19:45 component base mode
+3:20:12 okay the exterior looks okay
+3:20:17 let's start painting this out so we know
+3:20:20 this is I mean our room types
+3:20:23 so I need style palette so what do we do
+3:20:27 type
+3:20:28 roll down the style palette
+3:20:30 easy
+3:20:32 and then
+3:20:34 room
+3:20:36 perfect
+3:20:38 and now showing folder
+3:20:40 perfect love it okay
+3:20:44 span this
+3:20:46 don't need a big preview and control up
+3:20:49 these so that's easy to see so here we
+3:20:53 go living room
+3:20:57 bam perfect
+3:21:56 got some kind of framing member here
+3:22:00 cut through my wall
+3:22:07 or for those of you that attended the
+3:22:09 summit you got to see me create a
+3:22:12 post and beam setup with bracketry
+3:22:15 and I'm gonna sell eventually
+3:22:18 but you can make it yourself
+3:22:20 I did a post and beam setup that's made
+3:22:22 out of a cabinet where you can flip-flop
+3:22:25 the hardware that's being used it's
+3:22:27 pretty it was pretty good
+3:22:30 I'll show you that in a second
+3:22:48 surprised they didn't do some kind of
+3:22:49 like tile border wainscot thing around
+3:22:53 this
+3:22:54 bath
+3:22:55 feel like I would
+3:22:59 it's okay I'm not going to get too crazy
+3:23:09 uh we're gonna call this bedroom three
+3:23:13 bathroom
+3:23:14 room
+3:23:27 oh this is like a little dining Nook too
+3:23:29 what do they call them this oh I see a
+3:23:31 misaligned wall
+3:23:32 game room
+3:23:35 Game Room huh
+3:23:38 okay
+3:23:40 it's exterior walls out of line
+3:23:43 you're out of line
+3:23:46 exterior wall
+3:23:50 come on
+3:23:52 come on
+3:23:54 there you go
+3:23:55 game room
+3:24:07 and we'll just keep this one living room
+3:24:35 another bedroom
+3:25:17 what are they calling this room
+3:25:21 study main bathroom main bedrooms study
+3:25:24 oh this was an office
+3:25:26 that's an important note
+3:25:29 paying that to be in office
+3:25:33 let's make sure I did that right let's
+3:25:36 go look at it
+3:25:42 Okay so
+3:25:46 office yep that still looks like office
+3:25:48 shelves that's fine perfect
+3:25:51 and then what do we got here some kind
+3:25:52 of haul
+3:25:58 uh with the story able to create a copy
+3:26:00 and rename it if you have more than
+3:26:02 three bedrooms kind of like what you can
+3:26:03 do with the room labels um so that
+3:26:06 doesn't matter not yet anyways because
+3:26:10 if you
+3:26:12 want to add on to my suggestion we are
+3:26:15 not able to change the type of room with
+3:26:18 a style palette all this is doing is
+3:26:20 applying material to a room I've been
+3:26:22 bugging them
+3:26:24 Non-Stop about making this tool
+3:26:27 be able to spray a type of room but you
+3:26:30 cannot do it and I've been bothering the
+3:26:33 heck out of them about it because it
+3:26:34 would be such a powerful tool to just
+3:26:37 spray the room types
+3:26:39 but we can't do it so I'm only using
+3:26:41 this for color coding that's it that's
+3:26:43 the only purpose I'm doing it you know
+3:26:45 with this tool
+3:26:46 and I wish it was more powerful it is
+3:26:49 not
+3:26:51 going to change these
+3:26:54 to
+3:26:55 almost close as opposed to most open
+3:26:58 Maybe
+3:27:00 12 percent
+3:27:03 there we go
+3:27:06 and still spray this kitchen
+3:27:11 kitchen kitchen where am I kitchen
+3:27:14 kitchen there
+3:27:18 this is a funny little switch
+3:27:22 why is that why am I getting that I'm
+3:27:24 trying to remember what do I do to fix
+3:27:26 that
+3:27:30 well
+3:27:34 almost like I have to bump out
+3:27:37 whatever this division is this there's
+3:27:39 some kind of wall
+3:27:41 defining this space here
+3:27:45 I don't think it matters I'm going to
+3:27:46 paint them all the same color it's fine
+3:27:50 so maybe we'll go dining room here
+3:27:57 there we go
+3:28:02 why do we think we missed this little
+3:28:03 spot what is happening here there's some
+3:28:06 kind of room
+3:28:07 what uh
+3:28:09 what the what the what the what the heck
+3:28:12 is that
+3:28:13 there's a
+3:28:15 some kind of a wall here
+3:28:18 weird
+3:28:19 okay
+3:28:28 get rid of it
+3:28:30 another wall there
+3:28:38 there's still something going on here no
+3:28:45 there we go
+3:28:54 oh
+3:28:56 lost it
+3:28:59 oh camera got screwed up
+3:29:01 oh yeah now we're in the vortex Gauntlet
+3:29:05 vertigo
+3:29:06 who wants to get sick oh my Lord
+3:29:15 anything happened there
+3:29:21 crazy
+3:29:22 all right I think we're ready for twin
+3:29:24 motion I think we are
+3:29:26 and I'll show you some tricks to make
+3:29:28 this real easy let's see don't want to
+3:29:30 say that cross section
+3:29:33 so I'm a big fan of exporting as a 3DS
+3:29:38 file not a colada file like so many
+3:29:41 other people do the colada file I do not
+3:29:44 do the colada file
+3:29:45 I do 3DS
+3:29:47 so alt Fe
+3:29:50 and in that D for 3bs
+3:29:55 um truncate texture names
+3:29:58 I'm going to leave it unchecked export
+3:30:00 let's get to my project
+3:30:03 speak
+3:30:04 products
+3:30:06 so
+3:30:08 in water
+3:30:10 new folder
+3:30:12 BDS
+3:30:14 and then let's call this
+3:30:17 or
+3:30:19 or
+3:30:21 cyniac
+3:30:23 Maine
+3:30:25 so I learned some new things to make
+3:30:27 this like dynamically linked in Twin
+3:30:30 motion
+3:30:31 so that we can make some edits and
+3:30:34 re-upload and retain materials got quiet
+3:30:37 a few tricks now
+3:30:46 quite a few tricks now
+3:30:53 let's fire up 20 twin twin
+3:30:56 we're going to have some
+3:30:59 what is it pin 2 exceeds vertex limit
+3:31:03 show details what is this pin two I
+3:31:06 don't know what pin two is okay
+3:31:10 and then bath mirror oh bath mirror
+3:31:14 exceeds that's weird
+3:31:18 grabs pin two so some kind of shelf
+3:31:20 stuff so we're going to be missing some
+3:31:23 stuff
+3:31:24 because the Dae
+3:31:29 should have been that comment earlier
+3:31:31 I know it's tripping out all right so we
+3:31:35 can save this now
+3:31:38 and start doing some color coding
+3:31:45 I see twin motion like that too is that
+3:31:47 a Friday reference
+3:31:49 twin motion
+3:31:52 as opposed to Twin motion twin motion
+3:31:58 I should order some food I'm gonna get
+3:32:00 start getting delirious
+3:32:04 20 twin twin
+3:32:06 20 twin twin yeah that is a Friday
+3:32:09 reference
+3:32:12 uh-huh
+3:32:17 yes it is
+3:32:20 that's it we're aging ourselves here Joy
+3:32:24 that's what's happening
+3:32:26 these new kids these kids don't know
+3:32:39 of course yeah
+3:32:41 keep hierarchy import
+3:32:51 use the same material sure
+3:33:09 I wish everybody knew the challenges of
+3:33:12 streaming live
+3:33:13 I have a nose hair that's tickling my
+3:33:15 nose right now and I want to like pluck
+3:33:17 it
+3:33:18 but no one wants to see that on camera
+3:33:22 I want to grab it and just dig it in
+3:33:24 here and get it
+3:33:25 it's like it's curled it's curled just
+3:33:28 outside of my nose so it's just tickling
+3:33:30 me
+3:33:31 it's present about sneezing
+3:33:41 right
+3:33:50 okay twin motion
+3:33:53 let's get this project
+3:33:57 done let's get it done quick all right
+3:33:59 so
+3:34:01 I just have color coding
+3:34:04 color coding
+3:34:07 root fast fault I've got a great roof
+3:34:09 texture it just needs to be darkened up
+3:34:17 just making sure you guys are listening
+3:34:23 okay so roof's in place that looks good
+3:34:26 great I'm actually gonna up the the
+3:34:29 grunginess of it I prefer the more
+3:34:31 grunge on the roof texture
+3:34:34 and we got a siding texture white vinyl
+3:34:36 siding they've got a gray siding whoa
+3:34:40 what's going on here oh I used white
+3:34:42 vinyl let's see where's my siding siding
+3:34:44 one
+3:34:47 deciding one maybe
+3:34:49 just that one
+3:34:53 yeah for now that's fine uh we probably
+3:34:56 have a stone here yep
+3:34:59 that's good maybe we'll up the scale a
+3:35:01 little bit
+3:35:02 that's already looking good
+3:35:05 we have a wood texture no
+3:35:08 let's get into
+3:35:13 something's weird this is not rotating
+3:35:15 about a center it's rotating about an
+3:35:17 object
+3:35:18 what's going on here 3D connection
+3:35:24 it's weird
+3:35:26 it changed the way it rotates that's
+3:35:28 going to be annoying
+3:35:33 it's like it's not spinning about the
+3:35:36 correct axis oh man that's a problem
+3:35:40 okay so here's an example I didn't fix
+3:35:42 this door
+3:35:43 so problem number one now I could fix it
+3:35:46 in Twin motion but maybe we want to just
+3:35:47 re-import but we want to retain
+3:35:49 materials that we already applied so for
+3:35:52 one when I apply this drywall material
+3:35:55 and then I apply it to the kitchen as
+3:35:57 well because it's named the same when we
+3:36:00 resync it's not going to retain
+3:36:03 two separate drywall materials which is
+3:36:06 a problem so I think the fixes I drag
+3:36:11 that on the top there and then I rename
+3:36:13 this kitchen
+3:36:14 walls
+3:36:16 think that's the fix and we'll test it
+3:36:18 right now we're going to make this red
+3:36:20 so that's easy to see
+3:36:22 and then
+3:36:24 let's drag in white trim if we were to
+3:36:27 drag from our tray it's going to
+3:36:28 continue to make new materials instead
+3:36:30 I'm going to drag it in from my bottom
+3:36:33 tray here
+3:36:35 and that's bringing in that white trim
+3:36:38 okay
+3:36:40 let's even do some flooring materials
+3:36:42 let's see making sure that this stuff
+3:36:44 all retains
+3:36:47 pouring sure Golden Oak yeah okay
+3:36:52 okay so now let's test my theory
+3:36:55 and let's do our white electrical trim
+3:36:58 as well
+3:36:59 all right
+3:37:01 let's open up X15 again get back to that
+3:37:04 file
+3:37:19 I'll fix that one door
+3:37:42 okay yeah I left that one door goofy
+3:37:45 oops
+3:37:46 rolled right past it didn't even see it
+3:37:50 let's fix it on the interior side as
+3:37:53 well
+3:37:58 okay so now it's fixed we're gonna
+3:38:00 re-export oh and look at that we didn't
+3:38:02 fix this ceiling either so we can fix
+3:38:04 the ceiling
+3:38:06 with this siding material
+3:38:14 okay
+3:38:15 now that that's done
+3:38:17 alt f e d
+3:38:23 um let's replace this
+3:38:25 file that's missing with something that
+3:38:27 says it's missing
+3:38:29 this file was missing haha
+3:38:33 so here's problem number one we need to
+3:38:35 make sure that we are
+3:38:37 deleting
+3:38:40 all the existing materials in the job
+3:38:42 folder
+3:38:45 from the 3DS export
+3:38:51 trick number one so it is there's one
+3:38:54 step in the way which is a good way
+3:38:57 let's see to kind of do this is Group by
+3:38:59 type if you're on a PC that way we're
+3:39:02 just getting the JPEG files
+3:39:04 only
+3:39:06 right
+3:39:07 delete
+3:39:09 there we go
+3:39:11 now we are exporting trunk
+3:39:14 was it truncated before I forget if I
+3:39:16 unchecked it or oh
+3:39:18 forget if I truncated it before I don't
+3:39:21 think I did okay let's try it again
+3:39:25 I unchecked it right I did I think
+3:39:29 you're right okay
+3:39:31 it's going to give us this two export
+3:39:33 limit
+3:39:34 errors
+3:39:47 thank you
+3:39:54 okay yep don't show me that again
+3:40:00 and let's close down the camera no need
+3:40:02 to hog resources
+3:40:04 so if I did this right I should just be
+3:40:07 able to hit this refresh button and
+3:40:09 those two materials the kitchen material
+3:40:11 that's pink and this living room
+3:40:12 material that's drywall should stay
+3:40:16 if I did it right
+3:40:33 aha
+3:40:45 that's awesome
+3:40:46 so there's two steps to get an actively
+3:40:50 live synced twin motion deal well with a
+3:40:54 little cap a couple little details
+3:40:56 make sure you have unique texture names
+3:40:58 applied to Unique textures
+3:41:01 make sure you delete all of the existing
+3:41:04 files on your export all your image
+3:41:07 files all your material files which are
+3:41:09 based off of images make sure you do
+3:41:11 that
+3:41:13 hit the resync button there you go
+3:41:15 so really it's select all your material
+3:41:18 files delete it
+3:41:20 no big deal
+3:41:22 and then press resync so it's a two
+3:41:25 action thing to have basically a data
+3:41:28 Smith plugin for Chief Architect to Twin
+3:41:30 motion
+3:41:31 that's pretty awesome
+3:41:35 okay
+3:41:38 let's start making this look pretty
+3:41:45 oh whoa
+3:41:47 I keep burning into this
+3:41:49 issue
+3:41:50 I'm clicking this click and drag okay
+3:41:52 that was weird
+3:41:55 weird
+3:41:57 white ceiling yep
+3:42:04 and then make sure I know what this is
+3:42:06 called it's called drywall it's going to
+3:42:07 rename it to the living room wall
+3:42:16 it says dining room wall
+3:42:19 or game room wall
+3:42:23 that is
+3:42:41 office wall
+3:42:51 man this thing's finicky
+3:42:55 for 4K
+3:43:12 clearly I'm not going to have this wall
+3:43:14 to be divisioned here that'd be very
+3:43:16 strange
+3:43:20 I wonder if we've got a hotkey for a
+3:43:23 apply to let's see
+3:43:25 apply to object
+3:43:27 do we have a hotkey for this shortcuts
+3:43:29 in English
+3:43:46 I love how they want you to do this with
+3:43:48 a Gamepad no thank you
+3:43:51 orthogonal view Cycles material hide
+3:43:53 unhide show hide Zoom to selection
+3:43:56 toggle local file menu pedestrian
+3:43:59 elevation up
+3:44:03 screen present your Mount rename
+3:44:05 weird
+3:44:07 so I mean we could make a hotkey if this
+3:44:10 tray was shown but so often it truncates
+3:44:13 itself right
+3:44:17 how to make a hotkey you have to click
+3:44:19 on
+3:44:20 specifically that down arrow
+3:44:23 and then replace material boy that'd be
+3:44:25 challenging
+3:44:27 I should make hotkeys for this it's
+3:44:29 about time
+3:44:31 right
+3:44:32 let me think
+3:44:35 what is this little discrepancy
+3:44:38 Z fighting deal
+3:44:49 jerk
+3:44:57 honestly probably wouldn't change any of
+3:44:59 the materials in here
+3:45:01 let's put some furniture in here I like
+3:45:03 to start from somewhere
+3:45:05 that gives me just a little bit of idea
+3:45:07 of the room
+3:45:11 let's put in
+3:45:14 assembly
+3:45:17 what do we have
+3:45:26 okay so this room's not not that big
+3:45:29 look how tight that is maybe that's why
+3:45:31 they didn't print chairs at the
+3:45:34 counter and the overhang
+3:45:36 it's tight it's a tight room
+3:45:47 go with this look for now
+3:45:57 if you have this Arrow I'm going to
+3:45:58 start doing a little twin motion
+3:45:59 tutorials if you have this error
+3:46:02 um where you're seeing no materials in
+3:46:04 something you got to go to edit
+3:46:06 preferences quality set it to a
+3:46:08 different quality
+3:46:09 and then set it back if you want to
+3:46:15 we're keeping this in high quality but
+3:46:17 Ultra is actually usually where I work
+3:46:19 if I'm not
+3:46:20 um
+3:46:22 if I'm not streaming
+3:46:24 and then I haven't switched to the 2023
+3:46:27 version yet because
+3:46:30 it doesn't feel like it's been ready for
+3:46:32 prime time
+3:46:34 it's slower it's much slower
+3:46:37 um
+3:46:38 and my twin motion settings are missing
+3:46:40 for some reason
+3:46:51 yeah they're missing
+3:46:53 what's going on there
+3:46:57 unselect all they have a new editor
+3:47:00 which is kind of cool
+3:47:06 although it makes it really difficult
+3:47:08 with the new Editor to find just a few
+3:47:10 things you want to import
+3:47:12 so I'm going to cancel let's just make a
+3:47:14 new
+3:47:15 new toolbar for this
+3:47:19 buttons and I want my f key
+3:47:24 F key to be
+3:47:27 oh I have some TM tools here there we go
+3:47:30 so this is using the old version
+3:47:34 the new version
+3:47:36 you can do some kind of cool stuff
+3:47:42 where you install your own macros that
+3:47:46 have their own images finally it's a lot
+3:47:47 easier to do now
+3:47:49 let me do a new radial menu
+3:47:53 twin motion edit
+3:47:58 each section menu
+3:48:00 seven is always going to be delete for
+3:48:02 me so
+3:48:05 Elite key is fine
+3:48:08 uh
+3:48:11 five is going to be our
+3:48:15 they call it rotation
+3:48:19 or what do they call it let's see looks
+3:48:22 twin Mission would have
+3:48:25 navigation edit
+3:48:29 file no
+3:48:31 via navigation
+3:48:35 nope render nope tools
+3:48:39 tools what are they calling it now
+3:48:45 they're calling it it's not here
+3:48:50 centerpie material picker
+3:48:54 oh come on
+3:48:56 they don't have scale and rotate in here
+3:49:01 oh that's silly
+3:49:04 okay
+3:49:06 so you have to make your own
+3:49:11 thank you for joining Joy thank you
+3:49:13 appreciate your input
+3:49:17 she's taken off for the day
+3:49:20 so there's there's this is their scale
+3:49:22 and rotate
+3:49:24 icon
+3:49:25 which is where here where do we see that
+3:49:28 here
+3:49:29 they don't show that icon here
+3:49:31 which they did which they gave us the
+3:49:34 icons so we could use them
+3:49:40 silly silliness
+3:49:43 I think I made this before
+3:49:47 but that's going to be the scale icon
+3:50:05 parable
+3:50:09 set alarms to two
+3:50:13 go
+3:50:20 set tolerance back up to 20.
+3:50:24 or actually let's just use the curves
+3:50:29 there we go
+3:50:31 transform Alt
+3:50:36 and there we go
+3:50:40 sure
+3:50:42 save this as
+3:50:45 an icon if we have one layer we can do
+3:50:48 it
+3:50:49 yep
+3:50:53 nope what'd I do wrong
+3:51:00 something
+3:51:02 why why why
+3:51:08 should be a save as icon
+3:51:11 I did something wrong
+3:51:14 what
+3:51:19 I always forget what it is to do this
+3:51:21 with
+3:51:24 huh
+3:51:36 can't save as an icon why not
+3:51:46 I bet no one knows either dang it
+3:51:51 getting off on on a tangent now
+3:51:54 probably already have this icon
+3:51:56 somewhere
+3:51:58 okay let's try on a macro while we're
+3:52:01 here
+3:52:02 macro macro macro we want this to be
+3:52:06 rotation so new macro
+3:52:10 here's the new macro editor
+3:52:13 uh rotation tool
+3:52:17 and rotation in Twin is
+3:52:21 eight
+3:52:23 to eight key
+3:52:27 you can even put delays all kinds of
+3:52:29 stuff all kinds of cool stuff here
+3:52:33 um
+3:52:42 see if I have rotation in here
+3:52:49 no hey too bad
+3:52:59 what am I doing wrong
+3:53:04 everybody take a break while I figure
+3:53:06 this out in my head
+3:53:20 mode Grace killed that's what I did RGB
+3:53:23 color aha
+3:53:25 now play
+3:53:28 nope that wasn't it
+3:53:32 image mode mode RGB color 8-bit 16-bit
+3:53:36 Channel shouldn't matter
+3:53:43 weird
+3:54:03 foreign
+3:55:17 thank you
+3:55:28 to open an existing icon do it that way
+3:56:09 oh it's weird
+3:56:37 okay that worked
+3:56:40 painfully
+3:56:42 macro
+3:56:52 it's kale nine okay
+3:57:07 oh that was
+3:57:10 foreign
+3:57:10 [Music]
+3:57:12 I did the wrong one
+3:57:16 I named it rotation but that was
+3:57:17 actually
+3:57:18 scale whoops
+3:58:36 foreign
+3:59:19 scale okay
+3:59:21 rotation needs to be fixed
+3:59:34 okay
+3:59:36 there we go
+3:59:44 um what is this
+3:59:46 motion
+3:59:50 it's no tools
+3:59:53 material picker
+4:00:06 see I don't think this works but we'll
+4:00:08 try it
+4:00:12 reset pivot or reset pivot's actually
+4:00:14 what I want instead of material picker
+4:00:16 but yeah
+4:00:17 so let's do
+4:00:20 toggle material application is and then
+4:00:22 this one actually I want
+4:00:26 Center
+4:00:28 reset pivot no I want Center pivot
+4:00:37 I might need to actually create that
+4:00:39 myself again
+4:00:45 Center pivot there it is
+4:00:47 and this can be material picker
+4:00:53 let's try that out
+4:00:58 all right there's my own icons I could
+4:00:59 have made them pee and I mean
+4:01:01 transparency could have kept the
+4:01:02 transparency in there
+4:01:04 that's okay so that worked that worked
+4:01:09 let's try the center pivot
+4:01:11 on something like this
+4:01:13 that worked material picker works
+4:01:17 does this work no it doesn't I knew it
+4:01:21 wouldn't
+4:01:25 right yeah that still doesn't work I
+4:01:27 can't wait till they fix that
+4:01:29 okay
+4:01:35 so
+4:01:36 shift click shift click yeah that works
+4:01:40 cool
+4:01:45 oh all kinds of stuff we don't need here
+4:01:52 nice
+4:02:05 probably not going to have any of this
+4:02:06 framework any of this stuff let's get
+4:02:08 rid of that
+4:02:09 let's get rid of this man until I get a
+4:02:11 better mantle
+4:02:55 fire nothing showed up
+4:02:57 it's downloading from OneDrive
+4:03:28 fire fire fire fire fire fire
+4:03:41 yeah that's looking pretty good cool
+4:03:43 and then this is going to be Stone
+4:03:50 stone stone
+4:03:53 what kind of stone good question
+4:04:03 not that kind
+4:04:07 scale that up
+4:04:11 my lead Rock
+4:04:13 I want to fix my ledge rock let's
+4:04:15 replace this
+4:04:24 oh look we got a new Stonewall texture
+4:04:26 here that I haven't built
+4:04:28 let's try that out
+4:04:30 let's do this out let's build this whole
+4:04:32 thing
+4:04:33 see what this looks like
+4:04:36 a little bit of grunge okay let's build
+4:04:39 out the normal map
+4:04:41 should have saved that path oops
+4:04:44 we can I mean we could go back to
+4:04:47 here more Albedo
+4:04:50 copy and then
+4:04:53 forward to
+4:04:57 more
+4:04:58 paste
+4:05:00 and then open
+4:05:02 it should bring us to the right spot
+4:05:03 yeah that's an easier path
+4:05:06 same thing paste
+4:05:08 and then open
+4:05:11 yeah easier
+4:05:15 can crank that intensity up
+4:05:23 yeah it looks alright
+4:05:26 not my favorite
+4:05:31 and if we wanted to book match this it
+4:05:33 should be able to change
+4:05:36 this to cubic UVs
+4:05:43 no that's not book matching that's too
+4:05:46 bad it's not doing what
+4:05:51 because it's not just single surface
+4:05:54 yeah okay so should be able to do it if
+4:05:58 I'm changing the material mode to
+4:06:00 replace material and now try it
+4:06:03 sad book matching no it's not
+4:06:06 too bad it should
+4:06:09 well
+4:06:13 oh well
+4:06:27 um
+4:06:30 what do we do with these cabinets wood
+4:06:32 cabinets what are you guys thinking
+4:06:34 Arizona Arizona project
+4:06:37 here's another problem look at this
+4:06:38 drywall as it applied to this wall
+4:06:40 versus that wall so same thing we need
+4:06:42 to fix this using cubic cubic UVs
+4:06:51 cubic UVs
+4:06:54 now we can change that scale a little
+4:06:56 bit
+4:06:58 okay
+4:07:08 Sonic should I do that
+4:07:12 this is going to change every cabinet in
+4:07:15 every room mind you
+4:07:17 not necessarily a good thing because we
+4:07:20 didn't
+4:07:21 color cut these in the kitchen
+4:07:23 separately from other rooms
+4:07:33 first thought though do we want this to
+4:07:35 be wood cabinets hmm
+4:07:39 let's put in a few lights that always
+4:07:40 helps
+4:07:44 so someone was asking how do we deal
+4:07:46 with lights in
+4:07:48 twin
+4:07:49 the twin motion so we have a bunch of
+4:07:52 recessed lights here
+4:07:54 right
+4:07:56 assuming this is a light what is this
+4:07:59 zoom's a selection yeah that's a light
+4:08:02 it's just an eyeball
+4:08:05 so recessed
+4:08:07 one through nine
+4:08:11 so if we wanted to toggle replacement
+4:08:12 mode and let's see if we're still what
+4:08:15 are we selecting yeah so we're selecting
+4:08:17 a bunch of recessed lights here
+4:08:20 so replace objects so here's a couple
+4:08:22 things we need to First be able to make
+4:08:25 sure that these are centered
+4:08:27 right so use the center tool
+4:08:30 I don't know if this is gonna work let
+4:08:32 me try
+4:08:33 so every object is
+4:08:37 Center tool is working okay
+4:08:41 yep okay those are all centered so what
+4:08:44 happens when we
+4:08:46 replace it with something from our
+4:08:47 library that is lighting
+4:08:50 GM emitters
+4:08:52 here we go I've got this recessed 21
+4:08:55 foot light is it centered
+4:08:57 let's just make sure it is
+4:09:00 yep that part's Center and let me delete
+4:09:03 and that part centered so that's
+4:09:05 centered up so we know all this stuff's
+4:09:07 centered up so let me get back select
+4:09:09 this
+4:09:11 select all nine of these
+4:09:13 toggle replacement mode replace object
+4:09:16 drop in my light here
+4:09:19 and start replacement did that work well
+4:09:22 it added the light sources but what
+4:09:24 happened to
+4:09:27 what happened to the geometry of the
+4:09:30 light
+4:09:32 fixture
+4:09:34 right what happened to that
+4:09:41 just pull it out of the scene and see
+4:09:43 what happened to all the Rings
+4:09:48 so they didn't get brought in with it
+4:09:51 which is funny
+4:09:54 why not
+4:10:00 okay so let's figure that out
+4:10:05 so what's the makeup here
+4:10:07 it's
+4:10:08 recess light 21 feet so
+4:10:11 weird
+4:10:13 so I guess you could duplicate and then
+4:10:16 replace so let's try that instead
+4:10:19 so I'm going to select
+4:10:21 this
+4:10:25 I'm going to make I'm gonna put all
+4:10:26 these in a folder first of all and since
+4:10:29 this is called recessed one I'll show
+4:10:31 you a little trick
+4:10:33 scene graph
+4:10:34 create subcontainer recessed
+4:10:38 okay now let's just search recessed
+4:10:42 and we can grab a recessed one through
+4:10:44 nine as our example and drag them into
+4:10:47 the recessed folder that's easy enough
+4:10:50 okay now we have a folder for these
+4:10:52 let's duplicate these
+4:10:56 duplicate duplicate duplicate duplicate
+4:11:00 why am I not seeing duplicate
+4:11:03 rename add user collapse unlike sort by
+4:11:06 can't duplicate the folder interesting
+4:11:11 that's fine I think you can in the next
+4:11:13 version though
+4:11:19 yeah why oh just copy paste
+4:11:22 is that what it is copy
+4:11:24 paste here
+4:11:26 instance instance
+4:11:29 sure
+4:11:31 sure
+4:11:32 okay
+4:11:33 now we have this folder full of these
+4:11:36 guys let's toggle our replacement mode
+4:11:40 Place object
+4:11:42 and let's just put in
+4:11:45 oh I had the wrong one selected in the
+4:11:47 first place
+4:11:49 let's try it again
+4:11:52 face object mode
+4:11:54 did I let me see
+4:11:57 whoa look at the scale on that what
+4:12:00 happened
+4:12:02 so that doesn't work
+4:12:06 uh maybe the unit of measurement's an
+4:12:08 issue there so let's try method number
+4:12:09 two where we're just replacing it with
+4:12:11 the
+4:12:14 foreign
+4:12:16 Place object and just add in the IES
+4:12:20 there so it adds the lights in where
+4:12:23 they need to be
+4:12:24 and it retains the geometry of the
+4:12:26 fixture itself that worked
+4:12:28 that was simple
+4:12:30 so let's go back a step or two and start
+4:12:33 oh
+4:12:35 crash
+4:12:39 dang it
+4:12:46 probably not a good idea to go back a
+4:12:48 step after you've done the replace
+4:12:51 from library
+4:12:53 maybe not a good idea
+4:13:02 um I didn't even Auto
+4:13:04 there should be an auto save
+4:13:07 preferences save
+4:13:10 auto save
+4:13:12 auto backups okay copy
+4:13:20 auto backup
+4:13:23 from
+4:13:24 hopefully this one
+4:13:28 okay
+4:13:30 I don't know why it opens an entirely
+4:13:33 separate instance of twin motion that's
+4:13:35 silly
+4:14:00 these projects I bill
+4:14:03 probably about
+4:14:05 10 hours so we're four hours into the
+4:14:07 feed I've got another six hours to
+4:14:09 complete no problem no
+4:14:12 problem might even make a profit
+4:14:15 in case people are wondering about how
+4:14:17 long I flounder on stuff
+4:14:21 uh okay this was our auto save so let's
+4:14:24 try this whole recess thing again
+4:14:28 and what do we lose in our save issues
+4:14:30 whoa
+4:14:32 great beaming light here
+4:14:38 video sample glow knit there we go
+4:14:42 okay
+4:14:45 all right let's do a couple things let's
+4:14:51 do materials color coding LED light
+4:14:55 let's apply that here there we go
+4:14:58 so now I want to make that same folder
+4:15:00 because that didn't get saved
+4:15:06 so create subcontainer
+4:15:09 recessed makes it very easy for me to
+4:15:12 select all my recessed lights by
+4:15:13 searching recessed
+4:15:19 now I can select all these number
+4:15:21 recessed cans
+4:15:24 I don't want the gimbal ones
+4:15:26 drag this into my recessed folder
+4:15:31 uncheck that now my recessed folder I'm
+4:15:35 going to copy
+4:15:36 and paste here why not
+4:15:40 instance is fine
+4:15:45 there we go now I have these new
+4:15:47 recessed items
+4:15:48 and
+4:15:52 get into my emitters I've got an IES
+4:15:54 profile light here
+4:15:56 select these
+4:15:58 replace object drop in the is
+4:16:02 light only transform bam
+4:16:07 and that did not
+4:16:10 do everything that I wanted it to do why
+4:16:13 because I missed a very important step
+4:16:16 again
+4:16:18 dang it
+4:16:20 if we go back is it going to crash Maybe
+4:16:23 okay what was the step we missed we
+4:16:25 missed the centering step
+4:16:28 I Need A Center on all these
+4:16:32 so let's make sure everything's centered
+4:16:34 yeah now it's all centered now let's try
+4:16:37 this again
+4:16:38 replace
+4:16:39 replace replace replace replace replace
+4:16:41 replace replace object
+4:16:44 is 21 transform bam
+4:16:48 automatic IES light emitters for
+4:16:52 everything in your chief
+4:16:55 Delio
+4:16:57 and I think they're at the right levels
+4:17:00 and everything
+4:17:01 let's just see
+4:17:03 where are some profiles
+4:17:06 yeah that totally worked totally worked
+4:17:09 so
+4:17:11 quick and easy way to add light emitters
+4:17:16 and look this kitchen already looks
+4:17:18 better for it
+4:17:53 let's use box
+4:17:57 cubic UV
+4:17:59 let's reapply that and cubic UV level
+4:18:03 and that way we can kind of mess around
+4:18:05 yeah that looks better
+4:18:09 this refrigerator symbol is bad should
+4:18:11 have replaced those doors look at how
+4:18:13 fast that handles are
+4:18:16 well we have a trick for that now so we
+4:18:18 know how to do that if I set the
+4:18:20 geometry from Chief
+4:18:22 automatic replacement
+4:18:35 [Music]
+4:18:42 from the door
+4:18:56 all white cabinets look terrible
+4:19:21 hmm
+4:19:30 I don't know I don't know what the call
+4:19:31 is here
+4:19:33 nothing's calling to me yet this looks
+4:19:35 boring as all white
+4:19:37 let's add some Decor in here maybe
+4:19:39 that'll help
+4:20:07 missing a kitchen sink here
+4:20:10 I'll have to import that from Chief
+4:20:13 that's an easy fix
+4:20:23 Sebastian stool
+4:20:35 like this replace mode it's clever
+4:20:43 so long as everything's centered it
+4:20:46 works
+4:20:47 we'll do this chair
+4:20:49 why not let's try that out does that
+4:20:51 work
+4:20:54 so these weren't centered so I need to
+4:20:56 fix those in the library
+4:20:59 oops
+4:21:12 don't like them anyways
+4:21:22 those are a little off center too
+4:21:30 that's a boring kitchen
+4:21:31 [Music]
+4:21:37 I lost all of my viewers
+4:21:42 do
+4:21:43 [Music]
+4:21:46 cover up that light switch
+4:21:50 let's fix this light well
+4:21:54 and apply to object mode
+4:21:57 a little tedious but that's okay
+4:22:15 it's clean looking kitchen
+4:22:17 can't be mad at that
+4:23:43 wow it's a huge dining assembly
+4:23:53 stack
+4:24:01 thank you
+4:24:41 why are you Z fighting my friend
+4:24:51 sure
+4:24:54 and you have no picture
+4:24:56 interesting
+4:25:00 and
+4:25:57 foreign
+4:26:29 thank you
+4:26:39 let's see if we want
+4:26:42 same metal applied to all this so
+4:26:47 metal
+4:26:52 make sure this is double-sided
+4:27:02 there we go
+4:27:04 sure why not
+4:27:09 and also
+4:27:15 oh
+4:27:16 look at that how the dang glass door
+4:27:19 going the wrong way
+4:27:22 goofball
+4:27:26 it's not what we needed
+4:27:32 so we could adjust the pivot point of
+4:27:35 this
+4:27:36 pivot edit
+4:27:37 let's
+4:27:40 move our pivot edit to
+4:27:44 her
+4:27:46 here here
+4:27:48 I think
+4:27:49 I think that gets me the ability to
+4:27:52 open this up a little bit
+4:27:55 what happened there
+4:27:56 oh that's just a glass
+4:27:59 and I need
+4:28:02 oh and this is individual components
+4:28:05 that's too bad
+4:28:07 be difficult to move all this together
+4:28:13 I'm going to move this this
+4:28:20 and this
+4:28:29 and can you still pivot at it let's see
+4:28:32 yeah you can
+4:28:34 there we go
+4:28:37 and rotate it cool
+4:28:40 that works brilliantly
+4:28:44 and maybe we just move this diverter
+4:28:45 valve or delete it all together
+4:28:49 yep
+4:28:50 bam perfect
+4:29:14 [Music]
+4:29:23 I'm getting worn out ready for a break
+4:29:27 anybody have any questions that's still
+4:29:29 listening in
+4:29:40 probably pick this job up again tomorrow
+4:29:46 try to finish it
+4:30:00 let's put a little reflection probe
+4:30:03 sure
+4:30:04 robe
+4:30:20 oh I bet you I just crashed this thing
+4:30:23 oh no I didn't okay
+4:30:28 there we go
+4:30:30 oh mirror reflection
+4:30:33 once we get a bedroom in here
+4:31:02 I need to start creating subfolders so I
+4:31:04 can organize this
+4:31:32 why something happened to this shelf huh
+4:31:34 the heck is that
+4:31:47 dresser
+4:31:54 I was at the center
+4:31:56 weird
+4:31:58 if I select everything in that group
+4:32:02 nope
+4:32:04 dresser group group group
+4:32:11 now Center
+4:32:12 there we go
+4:32:15 I don't need a dresser in here it's too
+4:32:17 big
+4:32:18 to fix this
+4:32:21 later
+4:32:21 [Music]
+4:32:26 should be bedroom two drywall let's do
+4:32:31 oh kind of like that
+4:32:34 and we'll do an omni light in here
+4:32:38 I see some comments here let's see what
+4:32:40 we got
+4:32:42 do you have a site you recommend for
+4:32:44 getting the materials in 3D assets well
+4:32:47 you can always
+4:32:48 if you're not aware you can always use
+4:32:50 my website to search those things
+4:32:54 um
+4:32:56 sometimes you might come up with some
+4:32:57 good stuff from there
+4:32:59 because I have a bunch of websites on
+4:33:00 there I already listed all the sites
+4:33:02 that I would recommend on there
+4:33:04 so if you just go to rabbitdesign.net
+4:33:10 and get into the hamburger hamburger
+4:33:13 menu top right
+4:33:15 I need to make that more visible on the
+4:33:17 home page
+4:33:18 industry tools texture and model search
+4:33:22 not only can you search models here but
+4:33:24 you also can see some of the known links
+4:33:26 that I use
+4:33:27 so
+4:33:29 um I always use the example leather
+4:33:31 couch
+4:33:32 and a bunch of different leather couches
+4:33:34 from
+4:33:35 sites that I use
+4:33:39 same thing hamburger menu at the top
+4:33:42 right industry tools
+4:33:44 let's do a texture search and we can
+4:33:47 here's a bunch of texture resources
+4:33:50 texture sites
+4:33:52 Etc
+4:33:53 and same thing you can use the search to
+4:33:56 look up Seamless
+4:33:57 pictures so that works pretty well
+4:34:12 yeah probably some water would help
+4:34:14 I haven't had a sip of water
+4:34:16 in days
+4:34:20 that's why my voice sounds like this
+4:34:32 omni light omni light
+4:34:36 omnipotent light
+4:34:38 source
+4:34:44 there you go that one right there it's
+4:34:46 kind of one
+4:34:48 one light
+4:34:49 what is that that is such a weird glitch
+4:34:52 shot me through the room
+4:34:59 here
+4:35:02 and this one to here
+4:35:06 and
+4:35:09 again
+4:35:16 and then we'll probably just fix this
+4:35:18 material on the Fly
+4:35:21 there we go
+4:35:24 looks better in here already
+4:35:28 and we're going to need to change the
+4:35:30 color on these bathroom walls
+4:35:37 maybe a gray medium Gray
+4:35:41 I don't know we'll see we'll see as I
+4:35:44 start designing out the rest of the
+4:35:45 rooms
+4:35:46 what this house starts looking like
+4:35:54 I'm not sure I like this flooring it
+4:35:56 might go a different route
+4:36:05 Golden Oak what is Golden Oak due to it
+4:36:10 totally different look
+4:36:21 oh kind of like that
+4:36:25 yeah
+4:36:26 I like that a lot
+4:36:33 again this is an Arizona property so
+4:36:37 much different look and feel kind of
+4:36:39 like in this
+4:36:49 mm-hmm boy did that just changed the
+4:36:51 look huh
+4:36:55 and then probably put in a lot more
+4:36:57 lights
+4:37:08 let's go like
+4:37:10 so like so
+4:37:19 right something like that yeah I think
+4:37:21 so
+4:37:22 grab this last one
+4:37:25 duplicate it to here
+4:37:28 and make two
+4:37:31 what a difference that made already
+4:37:34 let's just make sure we got this one
+4:37:35 gone
+4:37:40 yeah
+4:37:42 it's crazy how quick you can change the
+4:37:44 look of a room huh
+4:37:46 and then that's
+4:39:43 interesting interesting what the sky is
+4:39:46 doing there
+4:39:48 to the scene
+4:39:53 under sampled ceiling
+4:40:02 oh I needed more light bounces
+4:40:10 wait what a difference a few more light
+4:40:12 bounces does
+4:40:14 like the denoiser
+4:40:16 we had like no ceiling there with one
+4:40:18 light bounce needed at least two
+4:40:36 oh did I freeze
+4:40:39 oh no
+4:40:45 oh no it's there
+4:40:49 so if you didn't know you can go into
+4:40:51 edit preferences
+4:40:52 and for path tracer
+4:40:55 see I have bounce settings is set to one
+4:40:57 on my lowest setting so we set this to
+4:41:00 two
+4:41:01 and then
+4:41:04 switch this to low and we're gonna have
+4:41:06 more of a ceiling hopefully
+4:41:12 bam
+4:41:13 yeah everyone's looking kind of nice
+4:41:16 right cozy
+4:41:24 I have hope
+4:41:25 be nice to have a little binket here a
+4:41:28 little glass binquette
+4:41:42 I don't think I have a glass blanket
+4:41:45 like a two-tiered glass
+4:41:48 kind of do
+4:42:02 yeah yeah yeah yeah yeah yes yes
+4:42:06 yes yes
+4:42:09 um
+4:42:09 [Music]
+4:42:14 that's right baby
+4:42:54 sure whatever
+4:43:01 like if we changed our field of view on
+4:43:03 this camera
+4:43:05 something like 45.
+4:43:08 like a little editorial shot from the
+4:43:10 front door you know it's a change of 55
+4:43:13 65.
+4:43:15 55
+4:43:17 oh 65.
+4:43:20 and kill their sidebars
+4:43:27 and maybe we even threw on some
+4:43:30 depth of field
+4:43:32 and targeted
+4:43:40 couch
+4:43:42 now rendered it out
+4:43:49 yeah that's almost an editorial shot
+4:43:53 look at that you just need some patio
+4:43:55 furniture outside
+4:44:12 I'll show you guys ever use Skydome in
+4:44:14 Twin motion who here doesn't know twin
+4:44:17 motion that'd be my next question my big
+4:44:19 question
+4:44:20 Okay so
+4:44:42 just learning you're just learning oh my
+4:44:45 my 2020 series I know I need to redo it
+4:44:48 I need to bring it up to date
+4:44:52 um okay so watch this we're going to do
+4:44:54 a Skydome this is you know something new
+4:44:58 right so we'll do
+4:45:00 set this up renderer yes path Tracer
+4:45:03 yeah all that lighting we want to change
+4:45:06 environment to a backdrop hdri and see
+4:45:09 if we can't pick up
+4:45:11 a
+4:45:13 I actually have some backdrops I could
+4:45:15 do myself I wonder
+4:45:18 oh how do we do this
+4:45:21 um I think we can make our own
+4:45:23 go to library
+4:45:28 I think I can import my own
+4:45:32 but let's just do the outdoor menu
+4:45:36 oh this is going to download forever
+4:45:39 oops
+4:45:45 stuck
+4:46:16 wasted some time there by clicking on
+4:46:18 that
+4:46:46 foreign
+4:47:04 anybody ever go help people for free
+4:47:08 with their design stuff
+4:47:11 I use it I do it sometimes when I'm
+4:47:14 watching I got a movie theater room at
+4:47:16 my house
+4:47:17 and uh
+4:47:19 and sometimes I'm watching like design
+4:47:20 shows and then I'll go on to
+4:47:25 um
+4:47:26 design dilemmas on house
+4:47:29 and I'll
+4:47:31 I'll just kind of peruse through browse
+4:47:33 through but every once in a while
+4:47:34 something motivates me
+4:47:35 and this one's funny there's like
+4:47:38 I want to say like 10 professional
+4:47:41 designers commenting on this one kitchen
+4:47:43 and they're all like throwing their own
+4:47:45 designs at it
+4:47:47 and maybe it's just me but oh man I did
+4:47:51 not like a single design any of the
+4:47:53 professionals were coming up with
+4:47:56 um
+4:47:57 they all had this
+4:47:59 this like Island going on here where
+4:48:02 you're sitting
+4:48:03 right next to your dining area
+4:48:06 and you're just like in the kitchen at
+4:48:08 the island and the prep counter is half
+4:48:11 the island
+4:48:13 you know and you're backed up to the
+4:48:15 range
+4:48:18 it made no sense to me what everybody
+4:48:20 put together
+4:48:22 so
+4:48:23 I got on last night and I started
+4:48:25 designing
+4:48:27 and this is like this this is not a paid
+4:48:29 kick this is just me because I was I was
+4:48:32 bored and I was like there's got to be a
+4:48:33 better better one so I'm gonna I'm
+4:48:35 actually gonna keep working on it
+4:48:37 because I'm just curious now
+4:48:39 and I'd just like to I don't know I like
+4:48:42 to sharpen my skills
+4:48:44 on real world problems
+4:48:48 so what was this how's kitchen redesign
+4:48:52 so I did that same one
+4:48:54 only I did it made more sense to me to
+4:48:57 do a peninsula
+4:49:03 where did I end up this is where I ended
+4:49:05 up
+4:49:07 and I mean
+4:49:09 you know
+4:49:11 as far as one might consider for an
+4:49:14 hour's worth of work
+4:49:18 I was just kind of playing around with
+4:49:20 it
+4:49:23 so the dining room table would be here
+4:49:24 then
+4:49:28 I don't know I think I'm going to
+4:49:30 develop it a little bit more and present
+4:49:31 it
+4:49:33 and who knows maybe the client hires me
+4:49:45 curious if you guys ever do stuff for
+4:49:48 family for friends
+4:49:51 it will help your
+4:49:52 your people out
+4:49:54 because you can
+4:49:56 or is that a hard no
+4:50:00 it's not like heck no you still gotta
+4:50:01 pay
+4:50:05 I mean for twin motion to catch up to
+4:50:07 these downloads man what a shame
+4:50:10 should not have clicked on that button
+4:50:15 oh here we go we got some stuff going on
+4:50:17 here let's see
+4:50:18 so we have a Sky Dome Rocky Ridge that's
+4:50:22 kind of the terrain that they're dealing
+4:50:24 with so we'll make
+4:50:26 we'll do that we'll do Rocky terrain
+4:50:28 Rocky Ridge
+4:50:33 so this is faking the exterior landscape
+4:50:38 so for an interior shot
+4:50:41 this can really improve
+4:50:43 your looks
+4:50:52 good there
+4:51:26 I think I'm gonna do a walkthrough of
+4:51:28 x15's new features
+4:51:30 one of these days soon
+4:51:34 someone requested I do that because I
+4:51:36 did that for x14
+4:52:01 .
+4:52:45 foreign
+4:53:16 [Music]
+4:53:26 quick tools to replace the back of a
+4:53:30 cabinet no probably not
+4:53:33 how could I get
+4:53:35 not open shelves but still Place some of
+4:53:38 my stuff inside here without using mill
+4:53:40 work
+4:53:42 can be challenging
+4:53:52 buddy what'd you say I modeled my
+4:53:54 in-laws house in Chief for free to help
+4:53:56 Envision the remodel ideas better
+4:53:58 I like doing it if I have the
+4:54:00 opportunity I will
+4:54:07 if I've got the time I will I'll help
+4:54:09 people out
+4:54:11 it's been a dream of mine to go into
+4:54:14 to have that flexibility and schedule
+4:54:17 and time
+4:54:18 to go into some of my favorite
+4:54:20 restaurants and offer free services to
+4:54:22 help improve the look of a restaurant
+4:54:23 that I like you know that's some place
+4:54:26 that I enjoy
+4:54:33 I need an easier way to add Decor on a
+4:54:36 countertops
+4:54:38 I know they're getting there but
+4:54:54 all right is Twin motion finally loaded
+4:54:56 looks like it
+4:54:57 okay so we see the backdrops off center
+4:55:00 we want the backdrop to be centered on
+4:55:03 the building
+4:55:06 so let's get in here like so
+4:55:09 and then I think we click on projection
+4:55:12 offset more no
+4:55:15 um hide offset more yes Center it camera
+4:55:17 there we go
+4:55:19 now that Center that backdrop on the
+4:55:21 counter
+4:55:22 I mean on the camera
+4:55:24 and then rotation
+4:55:29 there we go that's actually the look and
+4:55:31 feel of what's outside of this place I'm
+4:55:33 sure of it
+4:55:35 let's get rid of that portion let's
+4:55:37 change the height offset
+4:55:44 to about there
+4:55:46 and look at that
+4:55:48 isn't that looking fancy
+4:55:54 kill my sidebars again let's get this
+4:55:58 really nicely composed shot
+4:56:01 coming into the house
+4:56:05 with a shot of the exterior a little bit
+4:56:07 of the doors in between
+4:56:10 there we go something like that
+4:56:13 and hit our PBR
+4:56:16 what's that look like
+4:56:22 look how quickly you can do a pretty
+4:56:25 nice looking shot and then if we took
+4:56:28 this
+4:56:29 into
+4:56:32 your photoshoppy
+4:56:39 and put some filtering on it
+4:57:17 um
+4:57:39 quantities is good
+4:57:42 somewhere in there maybe pull the blacks
+4:57:45 or let's just mess with
+4:57:47 texture can come up just a little bit
+4:57:49 Clarity and then let's dehaze down and
+4:57:52 bring that kind of up in white
+4:57:56 and maybe
+4:57:58 bring the blacks
+4:58:00 yeah they were okay where they were
+4:58:04 maybe contrast is
+4:58:06 opposite direction there we go
+4:58:10 hey
+4:58:12 meh
+4:58:16 bring the mids in just
+4:58:23 it lights up maybe just a little bit
+4:58:32 bring those
+4:58:36 orange is it in a little bit
+4:58:59 yeah
+4:59:00 look how good that looks
+4:59:03 crazy right
+4:59:13 not bad for like a budget visual
+4:59:17 like we spent no time on that
+4:59:28 on that room only we probably spent 20
+4:59:30 minutes
+4:59:36 crazy
+4:59:44 thank you
+4:59:49 all right I'm gonna call it the quits
+4:59:52 for now I need to save this project
+5:00:17 foreign
+5:00:28 we weren't even using the 7900
+5:00:31 XT X
+5:00:33 DX yeah we were using this guy
+5:00:37 and we were not running
+5:00:40 we weren't running that egpu it was just
+5:00:49 use it right now it's pretty quick
+5:01:06 well always pleasure people thank you
+5:01:08 very much for tuning in to the live show
+5:01:10 hopefully you got something out of it
+5:01:12 I've only got
+5:01:13 uh five more hours left in this project
+5:01:15 probably gonna try to get it done in
+5:01:17 three
+5:01:18 and yeah hopefully we'll see the end of
+5:01:21 this one this week so be nice to see the
+5:01:23 the final walk-through video
+5:01:25 um
+5:01:27 so I'll have to get get back to you with
+5:01:30 that
+5:01:31 and then thanks we will see each other
+5:01:34 again soon

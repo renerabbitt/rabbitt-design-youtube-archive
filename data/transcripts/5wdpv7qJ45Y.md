@@ -1,0 +1,1610 @@
+---
+videoId: 5wdpv7qJ45Y
+title: What's New In Chief Architect X15 (Part 3) - Designers Show #100
+url: "https://www.youtube.com/watch?v=5wdpv7qJ45Y"
+status: imported
+---
+
+# Transcript
+
+0:00 can you see my eyeball and I can see
+0:02 clear I Can See Clearly
+0:05 a song hey everyone uh welcome to the
+0:09 designer show Dan Balvin here on with
+0:11 Renee Robb and Kevin and John hi
+0:14 everyone hey everybody everybody hey and
+0:17 Welcome to our 100th designer show
+0:21 yeah we should have some streamers or
+0:24 something going off for I don't know
+0:25 yeah we should I know uh Jolene asked me
+0:29 about that you can do anything special
+0:30 and I said yeah we're gonna show up uh
+0:36 anywho
+0:38 um welcome everyone uh we're going to
+0:39 continue our discussion here in part
+0:41 three of uh Chief's new features so uh
+0:44 Renee and Robin uh kind of get to have
+0:47 this floor today however we are going to
+0:50 start out with Kevin Kevin's got some
+0:51 cool things he wants to talk about so in
+0:53 our 10 minute business segment uh I
+0:57 don't have any commercials today you
+0:58 guys got anything you want to let
+1:00 everybody know about Renee Rob nobody no
+1:04 one yeah nothing to sell geez next month
+1:07 okay chief uh says they got an update to
+1:10 the software next month and then I'll
+1:12 put out something
+1:13 they are gonna wait till next month for
+1:16 their update yeah they've got a um
+1:18 something more stuff for the library
+1:21 okay because they've been having trouble
+1:23 with the library
+1:24 I know that so it's a
+1:26 uh they're still not displaying the what
+1:29 you could talk about you're going to
+1:30 talk about the library but today you can
+1:32 talk about it then so but right now
+1:35 we're gonna have a little chat with
+1:37 Kevin here
+1:38 um Kevin is our business Mastermind Guru
+1:42 here who's going to discuss a topic
+1:44 today that is front and center in the
+1:46 world you guys want to guess what the
+1:48 topic might be that you hear about all
+1:50 the time now all over the place AI
+1:55 hey you got it yeah AI it's uh God I'm
+2:00 getting so many ads for AI hey you get
+2:03 this aif get this AF yeah it's gonna
+2:05 yeah I see all the ads they say they
+2:08 just use Ai and it's like you're not
+2:10 even selling anything that uses AI
+2:12 you're just putting it in your title now
+2:14 you should put that on the on this show
+2:17 100 show or AI yeah we're all virtual by
+2:21 the way none of us are real yeah
+2:25 um anyway so Kevin let's turn it over to
+2:27 you and you have added why don't you go
+2:29 ahead and talk about AI for a little bit
+2:31 we're going to actually make you
+2:33 solo presenter all right you get to have
+2:37 at it and we'll chime in with any
+2:39 questions that we might have if you guys
+2:40 have questions about AI uh feel free to
+2:42 comment because we are talking about AI
+2:44 right now Kevin is actually sitting in
+2:46 his kitchen
+2:48 a picture of his kitchen because he's
+2:50 got people at his house right now
+2:51 because we can see your the shadow
+2:53 moving a little bit there but next time
+2:55 you'll probably be in the real kitchen
+2:57 so that is my that's my AI hair that you
+3:00 see yeah
+3:03 I actually have been in Kevin's kitchen
+3:05 it's absolutely beautiful and yeah Kevin
+3:08 is Kevin creates some amazing stuff and
+3:10 you should see the Gazebo he has outside
+3:11 he'll probably be in that in one of
+3:13 these shows too we'll probably a little
+3:15 bit more that's my favorite office yeah
+3:17 no it is so but Kevin go ahead and uh
+3:19 tell us go ahead Robin
+3:22 oh no she said did you say gazebo
+3:25 [Music]
+3:27 it is outdoor living in office
+3:29 [Laughter]
+3:33 you say tomato I say tomato here we go
+3:37 uh whatever it's called Kevin tell us a
+3:40 little bit about AI all right well if
+3:43 anybody hasn't heard the term AI
+3:46 um you know if you're if your home is
+3:48 under a rock or if you've been in
+3:49 hibernation for the last six months
+3:51 through the winter months
+3:53 um there is a tsunami of um information
+3:56 coming at us and there's reason for that
+4:00 um but there's also it's there's it's
+4:02 also easily explained so
+4:05 um a lot of times people question the
+4:08 term AI because it seems like it's some
+4:11 kind of magic voodoo thing and it does
+4:14 feel that way at times the reality is if
+4:17 you don't know and I'll give you a very
+4:19 brief uh idea AI stands for artificial
+4:22 intelligence artificial intelligence is
+4:25 exactly what it's what it says it's not
+4:28 a real thinking feeling machine it's not
+4:31 yet bound to take over our planet and
+4:35 subjugate the human population however
+4:39 um the the
+4:41 tendency the feel of it seems to be that
+4:44 way and
+4:46 even the CEOs of the top companies in AI
+4:49 have a fear of what this technology
+4:54 could bring when chat gbt came out about
+4:58 four months ago
+5:00 and uh became publicly known about four
+5:03 months ago
+5:04 the other companies that were in the AI
+5:06 world were suddenly left behind because
+5:09 AI got all or chat GPT got all the
+5:12 attention and uh and everyone rushed to
+5:17 claim a piece of chat gbt Microsoft even
+5:20 claimed the invention of AI similar to
+5:25 what uh what was the VP that claimed he
+5:28 had invented the Internet
+5:30 um
+5:34 so kind of like that then all of a
+5:36 sudden Microsoft had their name on there
+5:38 and the News were rushing to that but
+5:40 the reality is that Microsoft Simply
+5:42 Built chat GPT into their Bing search
+5:45 engine so they aren't doing anything
+5:48 with it other than presenting the
+5:50 results but it looks like that they're
+5:53 claiming AI so what does it mean then if
+5:57 everything if everybody out there is
+5:59 claiming it why is it coming in so
+6:02 quickly and what does it mean to us well
+6:05 the first thing is that we know based on
+6:09 the the data that's coming in the the
+6:11 people who are involved in it that there
+6:14 are a whole lot more people involved in
+6:16 it than just chat GPT but that's what
+6:19 you hear about there's chat gpp and for
+6:21 good reason their their focus is in
+6:24 using the artificial intelligence engine
+6:26 to aggregate data and bring it forward
+6:30 in a very easily readable form it's very
+6:33 very cool
+6:35 uh they're just like
+6:37 um
+6:38 just like any other tool the the idea is
+6:41 to present it to the user in the form
+6:44 that is what you're trying to sell so
+6:46 for chat GPT it happens to be text based
+6:49 for Jasper it's more about marketing
+6:54 um you know each has their has their
+6:56 genre that they're appealing to right so
+6:59 how does it affect us then how's it
+7:00 affecting the industry well the
+7:03 it already has it's it's already
+7:05 affecting the industry and that all of
+7:07 us are talking about it and all of us
+7:08 are wondering about it well and look
+7:10 what Mike just did here uh you know a
+7:13 few shows back he did a custom
+7:15 disclaimer there there you go cool yeah
+7:18 and and forth and for that purpose you
+7:21 can use chat GPT to generate almost
+7:24 anything in a text form I've gotten
+7:28 deeply involved in it since our Summit
+7:30 on on the Outer Banks of North Carolina
+7:33 because questions came up at that Summit
+7:36 that really got me thinking about where
+7:38 the future is going to take us and how
+7:40 it's going to affect our industry so I
+7:42 came back and pretty much have been
+7:44 following anybody that I can follow
+7:47 um to see where they might what their
+7:49 thoughts may be and there are some very
+7:50 interesting ideas out there so do I
+7:54 think it's going to affect the industry
+7:55 I think it already is when do I think
+7:57 it's going to have a major effect on the
+7:59 industry I think that we're going to see
+8:01 that within a half a decade so what is a
+8:06 major change then what does that mean
+8:07 well I think that
+8:09 if we look at the way it's already
+8:11 affecting us now and the ideas that are
+8:13 coming out of it we I think anything
+8:16 that requires well first of all let me
+8:19 say that AI is really not a thinking
+8:22 machine but it's an aggregation tool it
+8:24 it takes data from millions of resources
+8:27 that it can scan across the internet it
+8:30 Aggregates that data it analyzes it to
+8:34 basically uh sift through it and find
+8:36 things that seem to be more commonly
+8:39 accepted than not therefore probably
+8:41 more truthful than not and it Aggregates
+8:45 and redisplays it in a form that the
+8:48 person asking the question or or
+8:50 commanding a task can look at and
+8:53 understand easily so just like it can do
+8:57 this with text
+8:59 you can imagine as who was it I think
+9:04 M2 I think it was you
+9:07 but at uh at a recent um mention
+9:11 immediately said Chachi PT build me a
+9:14 three-bedroom house and make it pretty
+9:16 I was caught so off guard by that
+9:19 because it's something that I've been
+9:20 thinking about for so long if the idea
+9:22 is that any anything that requires two
+9:25 people to ask the same questions as a
+9:27 candidate for artificial intelligence
+9:29 then when we look at our industry and we
+9:31 look at how we're all learning to pull a
+9:34 line here and connect a DOT there it's
+9:36 very easy to see that we can stretch
+9:40 that into the artificial intelligence
+9:41 world and imagine a future where those
+9:44 kinds of things are being done for us
+9:47 so if we see that and it's in the future
+9:50 is that necessarily positive or
+9:53 necessarily negative
+9:54 well it seems both fascinating and
+9:57 terrifying at the same time which I
+9:59 think is why the CEOs of these companies
+10:01 have a sort of a inherent fear of it
+10:04 it's so powerful and coming on so
+10:06 quickly that they're not exactly sure
+10:08 how to control what happens with it but
+10:11 should we fear it well I think
+10:13 I think it's just an evolution of
+10:15 Technology just like the automotive age
+10:18 was just like manned flight is and with
+10:22 any Evolution you
+10:24 you
+10:25 change the tools that you're using for
+10:27 instance
+10:29 I no longer use a comb but I now use a
+10:32 hat
+10:36 it's just it's just oh my God
+10:39 [Laughter]
+10:41 oh my God
+10:44 oh my God
+10:48 as it turns out as it turns out shampoo
+10:51 is worthless to me but a bar soap works
+10:53 just fine so
+10:59 so Evolution can just be uh you know it
+11:04 can just be the next phase it's not
+11:05 necessarily anything to fear but it is
+11:07 something to pay attention to yeah I'm
+11:09 going to be talking about talking more
+11:10 about these things in the coming weeks
+11:12 it's going to be fun to to continue
+11:14 these thoughts it's too deep of a topic
+11:16 to cover in 10 minutes but I am excited
+11:21 about it I'm learning a ton about it and
+11:23 I'd love to share all that in future
+11:25 communication so
+11:28 um if you guys have any questions that I
+11:29 can answer right now I'd be happy to
+11:31 field some
+11:35 Chief experts
+11:38 there's a lot to consider I think yeah I
+11:41 think I think people just want you to go
+11:43 on with your comedy Act
+11:47 well I can do that
+11:51 you know it is a good point you know is
+11:54 it something is going to affect your
+11:56 industry absolutely uh to what extent we
+11:59 don't know yet I mean uh Mike had the
+12:02 comment back here uh what was it humans
+12:04 are
+12:05 a wonderful uniquely and creative
+12:07 powerful especially after a better
+12:09 morning coffee so
+12:11 and that's never going to go away I mean
+12:14 no there's no computer going to replace
+12:16 that nobody know how uh but you know we
+12:19 used to use hammers now we use air
+12:20 nailers uh you know that kind of stuff
+12:23 so it's just gonna change when we're
+12:25 talking about design
+12:28 um because you know it's going to help
+12:30 the
+12:31 um decorative the designer who
+12:34 who a trend based designer make their
+12:38 life easier it's going to help with the
+12:41 diyer who think oh I can create
+12:43 something really fast I can just copy
+12:46 that that works really great for me it's
+12:48 a great aggregation tool yeah yeah it is
+12:52 it's not I think
+12:54 you know it's really going to be pushing
+12:56 creating a bit a bigger differentiation
+13:00 between our clientele I think the luxury
+13:02 client is still going to want us but I
+13:04 think the people who are more budget
+13:06 based are definitely going to think
+13:08 they're designers and we're going to I
+13:10 think we're going to end with a lot of
+13:12 low quality Core Design projects in the
+13:16 end because they're not thinking about
+13:18 the details well there's I think if you
+13:21 dig into that comment I think that that
+13:23 what you're what you're saying without
+13:25 saying it is that figuring out the what
+13:28 has become incredibly easy you can ask a
+13:31 question of an aggregator and it can
+13:33 tell you the what it may or may not be
+13:35 right but the acceptance of that answer
+13:38 is is uh right there so
+13:42 I think Robin's doing some kind of sign
+13:44 language no she's on a delay
+13:46 yeah your internet your internet is in
+13:51 and out Robin gotcha but your voice so
+13:54 yeah I don't know what's going on
+13:56 with it so I think um so I think when
+13:58 you think about the what then a tool
+14:00 well I think AI is going to change that
+14:02 completely I think we're good I think
+14:04 finding the what is there somebody asked
+14:06 the question like it was Vicky ask the
+14:07 question or uh stated a concern about
+14:10 students and learning we've been on a
+14:12 trend for decades to dumb down America
+14:15 and we introduced we introduced amazing
+14:19 tools into the classroom you know two
+14:22 decades ago only to find out if you ask
+14:24 the students who grew up with those that
+14:26 they learned more before those tools
+14:28 than after them this generation and
+14:30 generations to come uh are not it's very
+14:33 easy now for them to find out what the
+14:36 answer is the key to everything is now
+14:39 to figure out why and apply
+14:42 um apply reason and taste and uh and art
+14:46 and the kinds of things that are going
+14:48 to make that design that you say is
+14:50 going to be a very average design into
+14:51 something fantastic the what can't do
+14:54 that an artificial intelligence engine
+14:55 can just produce the lines and and dots
+14:58 right so anyway good topic we'll come
+15:01 back to that let me just yeah let me add
+15:04 a couple things to to address what Vicki
+15:05 said um I've had it rewrite my website
+15:08 and I learned from it
+15:10 um I feel like oh I had a new approach
+15:13 to grammar that was similar to my own
+15:14 and and I now kind of absorbed that
+15:17 information so I thought it was helpful
+15:19 but Renee you you developed those skills
+15:21 along the way yeah right very true very
+15:24 true people who haven't now aren't
+15:26 developing those skills
+15:28 well and I think there's there's one
+15:29 more I did there's one more piece of
+15:31 that too and that's that
+15:33 um that uh as we as the students are
+15:37 doing this they're figuring out very
+15:38 quickly faster than any of us can how to
+15:41 cheat through the process okay so the AI
+15:44 engine is now
+15:45 um generating the content and the
+15:48 instructors now figured out a way to
+15:50 detect the cheating so they're now they
+15:52 now have a tool to counter that
+15:54 interestingly now there is another tool
+15:56 that you can feed your AI generated
+15:58 content in that will make it
+16:00 undetectable by AI detectors so there's
+16:03 sort of an arms race going on right now
+16:05 and we're not really sure how that's
+16:07 going to develop right so I'll I'll tell
+16:10 you just in um Adobe has got some
+16:13 integration now where they've got
+16:15 scripts out there and someone's got a
+16:17 ringer that's going on yeah let's get
+16:18 that going off
+16:20 um it's not me anyways um
+16:23 adobe's got someone's written a third
+16:26 party script to integrate chat GPT into
+16:30 after effects in Adobe which means that
+16:33 they're literally typing out to chat GPT
+16:35 within after effects to write them a
+16:38 script to make an effect that
+16:40 immediately shows up in After Effects so
+16:43 the the software integration is going to
+16:44 be huge coming down the line
+16:47 foreign
+16:56 right here this is really great I mean
+16:58 that she's dealing with this issue right
+17:00 now
+17:02 yeah exactly she's dealing with that
+17:05 right now I mean so yeah as
+17:09 professionals we need to pay attention
+17:11 to this because as we keep asking chat
+17:13 GPT and all these other AI things
+17:15 questions and what is that that's me
+17:19 guys I can't figure out how to keep you
+17:21 alive and turn it off
+17:24 you can mute yourself just hit the mute
+17:26 thing good idea that's right as we as we
+17:29 keep asking you questions as we keep
+17:31 getting answers and re-asking the
+17:32 questions in different formats and then
+17:34 we finally get our answers the way we
+17:36 want them this stuff's learning what
+17:39 we're looking for and it's going to
+17:42 continue to learn and get better and
+17:44 start massaging that information better
+17:45 I think so we should get used to using
+17:47 it I think so that we can
+17:50 this get you know just be part of how it
+17:52 works
+17:53 maybe I I don't know much about it so
+17:56 let's just keep on uh paying attention
+17:58 to it we'll talk more about this use it
+18:00 to uh help you I use it all the time now
+18:02 and I love it so yeah really yeah I
+18:06 really do Kim uses AI
+18:11 what do you mean are you being it's
+18:14 moving better yeah
+18:16 [Laughter]
+18:20 okay all right anyway all right cool you
+18:24 guys uh we need to move on to let's see
+18:26 what does Ethan had to say
+18:28 think about the effect picture said on
+18:30 work our approach to those clients will
+18:31 be similar yeah in holidays too with all
+18:34 their pictures
+18:35 all right uh we were the topic of this
+18:38 is to talk about uh part three of x-15s
+18:41 update so Robin are you is your internet
+18:43 going to work okay here
+18:45 um I hope to God it does
+18:47 a few hits show you you know present
+18:50 down there and show your screen are we
+18:53 going to be able to get this enrolled
+18:55 you need to get yours up on so we can
+18:57 see the list too yes good point
+19:00 um
+19:01 well I hope that it works because I've
+19:03 been you know dealing with this
+19:06 um let me get to my share my screen
+19:08 it's just really slow
+19:11 um let me get my Adobe so we've been
+19:14 going through this list and if you're on
+19:16 my website you can get this list uh by
+19:20 clicking the link below the video if
+19:22 you're not on the website just go to
+19:24 chiefarchitect.com and type in X15 new
+19:27 features and this will pop this PDF will
+19:30 pop right up so this is our third week
+19:32 of going through this first week is
+19:33 listed in yellow second week is in blue
+19:35 and the third week we're going to go
+19:37 through some more of these things so
+19:39 we're going to start out with
+19:42 um Robin talk a little bit about some of
+19:43 the new cabinet features not a ton
+19:45 there's a few cool things in there that
+19:47 you might want to pay attention to uh
+19:49 that'll help you in the process of
+19:50 Designing so so am I showing my screen
+19:53 am I sharing my screen right now no
+19:55 you're not right now uh let's see
+19:59 I have to get back my yeah I'm really
+20:03 slow today I do not understand what's
+20:04 going on so I'm trying to get to where
+20:06 I'm sharing my screen okay well let's
+20:08 just run ahead with Rob with Renee then
+20:11 um and I want you to keep working on
+20:14 that super we'll see if we can get that
+20:15 oh here's some let's see oh yeah so hold
+20:19 on yeah I just have to put it onto my
+20:21 other computer so hold on here we go I
+20:22 have too many monitors I've moved into
+20:24 the world with three monitors
+20:29 okay hey I'm trying I am really trying
+20:33 hard
+20:34 um this is supposed to be this is the
+20:36 screen that I'm working on it's just I'm
+20:38 my lag is so slow I don't think this is
+20:42 going to work so well for me all right
+20:43 because my mind is so slow so I'm gonna
+20:46 stop sharing okay just stop sharing and
+20:48 we'll just pick it up on our end here so
+20:51 um sorry you guys
+20:53 list up yeah yeah let me go ahead and
+20:56 get mine up here
+20:58 and where am I here
+21:01 Where'd I go come on Dan
+21:04 I'm trying to do 10 things at once uh
+21:06 what are you guys seeing right now you
+21:08 see in my PDF
+21:10 we're seeing your PDF yeah all right so
+21:11 let's take a look at this so
+21:13 um I did go through some of these things
+21:14 with the cabinets uh let's just cover
+21:16 those really quickly
+21:18 the
+21:19 uh the thing about chief
+21:22 with some of these things I don't know
+21:24 if it's my computer or if it's cheap
+21:26 some of these things aren't working so a
+21:28 center Cabin on hardboard doors that's
+21:30 like just a couple new buttons so when
+21:32 you go into a 3D model or you go into
+21:35 your cabinets
+21:36 and you click on the door drawer option
+21:40 you'll see some new options here one of
+21:43 them is centered okay you got centered
+21:46 up and down centered back and forth so
+21:49 if some new buttons to make placing
+21:51 knobs a little bit easier so if you want
+21:53 those Handles in the middle of your
+21:54 doors and drawers just click those
+21:56 button it's such a lovely aesthetic too
+21:58 yeah if you know seriously you guys
+22:01 seriously if you this to me is just kind
+22:05 of a silly button but if you're
+22:07 designing you already have your these
+22:10 adjusted in your plan views so to me I
+22:13 would already have I I had a unchanged
+22:15 my
+22:16 um defaults to get that to work because
+22:19 it wouldn't work on my system sure okay
+22:21 so there is a glitch and it's active and
+22:24 they know about it okay there's some
+22:26 instances where the door handle offsets
+22:30 aren't working in those cases you'd go
+22:32 to your front sides back
+22:35 and go to the door that's not working
+22:37 for you
+22:39 and then go to specify under Appliance
+22:42 door drawer
+22:44 yeah
+22:45 next one down yeah
+22:49 and now you would edit your offset here
+22:52 so if you're having trouble with an
+22:54 offset this this one will work if if for
+22:57 some reason it's not working
+22:59 um in the other uh General panel okay
+23:01 cool you've got two places to do it
+23:05 and you could also set them only this
+23:08 one does it for an individual component
+23:10 right oh yeah for the whole cabinet
+23:13 where the other going to door and drawer
+23:15 will change all everything on the
+23:17 cabinet yeah got it exactly all right um
+23:20 cabinet and panel display in view plan
+23:24 View
+23:25 so I put an end panel on this cabinet
+23:27 and it is displaying
+23:30 um it's also displaying the drawer
+23:32 and that's set up in your default
+23:34 settings under when you click on the run
+23:37 the default setting wrench go to General
+23:39 cabinet and we can turn these buttons on
+23:41 right here now
+23:44 um I played with those for quite a bit
+23:46 and it's like
+23:47 yeah this isn't working very well
+23:50 um you know what if I don't want to show
+23:52 my drawer
+23:53 here I just want to show the panels of
+23:55 the cat sides of the cabinets
+24:01 I tried that man I tried it and of
+24:03 course maybe it'll work today you know I
+24:05 was showing it to my contractor and he
+24:07 said there's so much so many lines on
+24:10 the drawing that it becomes confusing so
+24:12 you know this is where it is what you
+24:15 have to look at it
+24:17 um you have to look at this to be able
+24:19 to make sure is that something that all
+24:21 those little details that you need to
+24:22 show us so it's a minute
+24:25 it's not something that you would it's
+24:27 not something that you would necessarily
+24:28 share with a contractor but you would
+24:30 share it with a cabinet maker yeah
+24:33 um well but those aren't exactly the way
+24:35 you might make the cabinet so is that
+24:37 really no but it's it's showing that
+24:39 there's going to be something artificial
+24:41 there that's not really part of the
+24:42 cabinet right well Mike see but I would
+24:45 do that in an elevation I would do those
+24:47 notes on an elevation because you're not
+24:49 giving your cabinet maker a set of floor
+24:51 plans you're giving a cabinet maker a
+24:53 um a control
+24:55 um you're giving them all the details
+24:57 right right so it just gives me good
+25:00 ideas for my Kevin Transit cabinet
+25:10 um
+25:14 the other thing that wasn't working for
+25:17 me when I put a pilaster on the cabinet
+25:20 um
+25:21 and I turned on the show pilasters in
+25:24 the plan too and this is what it shows
+25:27 man I I can see it here but it's covered
+25:30 up with whatever this front panel is
+25:31 that'd be the door or drawer I believe
+25:33 so
+25:35 um
+25:36 I you know again I I don't I'm just
+25:40 bringing it up because it's on the list
+25:41 and I couldn't get it to work so
+25:44 um that was under cabinets again under
+25:46 General and even when I unchecked like
+25:49 that one
+25:50 now it shows the pilots but doesn't show
+25:52 the side panels so when I would go ahead
+25:56 are the drawers in in their own layer I
+25:59 don't remember I'm looking to see well
+26:01 there's the door and drawer but I think
+26:03 that's a vertical that's when you're in
+26:04 elevation mode but I'm gonna check and
+26:06 see if that's there
+26:09 um hold on a second I'm looking to see
+26:11 if it's there I have to turn everything
+26:13 on first right there you can try one
+26:15 more thing and we're gonna move on
+26:16 because I don't think this is something
+26:18 that we'll keep going and then I'll come
+26:20 back to this yeah it's you know it's
+26:22 just something that you really this kind
+26:24 of detail I think is fine but you know
+26:26 if your cabinet speaker likes that but
+26:28 after a while it's like there's too much
+26:30 information yeah you know I don't it
+26:32 just sometimes it's too much information
+26:33 on your drawings on your floor plans so
+26:36 when I turn drawers off in in the layers
+26:39 it turned off the side panels too yes it
+26:41 turns off everything okay
+26:43 um
+26:44 I said pilasters is always present I
+26:46 have no idea what that's for convert
+26:48 cabinet moldings to molding polylines so
+26:50 when you click on the cabinet you have a
+26:51 new icon down here so if you put
+26:53 moldings on your cabinet that you had
+26:54 made
+26:56 and you want to make that into a library
+26:58 object you click this and it's going to
+27:00 allow you to
+27:02 do that
+27:03 so
+27:06 it's really nice to be able to bring it
+27:08 around the side of something that
+27:10 doesn't it might not exist or to be able
+27:12 to move it but now here's a question for
+27:14 you that I I was showing this the other
+27:16 day to somebody would you
+27:19 you see I think it's kind of a neat op
+27:21 idea I think it's neat especially when
+27:23 you want to run it around the side of
+27:25 something or or pull it a little bit
+27:26 farther so that way it finishes a corner
+27:29 detail up but
+27:32 um
+27:33 you know bringing it around the room you
+27:35 would just change the room molding
+27:37 unless you were only putting no this
+27:39 this is the molding I put on the
+27:41 countertop here so when I click that
+27:43 button it displayed the molding itself
+27:45 on the cabinet
+27:55 yeah that's a good one
+27:57 um you have control over if you want it
+27:59 or not on there now so so it's a molding
+28:02 polyline just like any other molding
+28:04 polar line that's attached to the
+28:05 cabinet or in this case the countertop
+28:07 so it does uh I like it that works
+28:11 pretty well so that's you know in this
+28:12 case I'm seeing that molding that's
+28:14 going around this particular Robin I'll
+28:17 give you a perfect use case for it I've
+28:18 got a um a refrigerator that I built
+28:21 into a cabinet and it's got a custom
+28:23 looking vent that's made to look like
+28:25 it's real life counterpart and if you
+28:27 set a flat molding above that and you
+28:29 set your molding to be offset for any
+28:31 door items well for that particular item
+28:34 it's going to offset to that vent that I
+28:37 created instead of offsetting just to
+28:39 the front face so then I convert it
+28:42 adjust it fix it there we go it's also
+28:45 nice like if you're going to continue
+28:46 crown molding over a certain part of a
+28:49 room but you're not running it
+28:50 everywhere then you can run that Crown
+28:52 you can detach it and turn it into a
+28:56 polyline you can drag it to the wall
+28:58 right so I also say it's a lot easier to
+29:01 use in 3D
+29:03 yes I do a lot of 3D design now
+29:07 yeah I started doing that Renee Renee
+29:09 trying to I got a trick for you Dan
+29:13 you see that outlet right there which
+29:15 one right there that you just placed
+29:17 this is where I love that we have symbol
+29:20 modification in the object itself open
+29:22 that up
+29:24 oops wrong one see how round that is
+29:27 around that cover plate is
+29:29 go ahead and get to your 3D panel and
+29:33 set your smoothing angle to like 12.
+29:36 uh down at the bottom oh where it says
+29:40 60. see right now it says 60 under
+29:42 smoothing angle oh okay thank you the
+29:44 last input box
+29:47 there we go there we go now press OK bam
+29:52 so easy so we didn't have to go open the
+29:55 symbol dialogue and change the 3D symbol
+29:57 to all part of the whole object no of
+30:00 course something's a little bit off here
+30:01 when I rotated it it's it's not quite on
+30:04 the the where it should be but let's not
+30:07 get into that right now
+30:09 um so again the new features we can add
+30:12 these into partitions and then we can
+30:14 also in our partitions let's see what is
+30:18 that select next side no you decked out
+30:20 the back side just like they really
+30:22 would oh look at that
+30:24 that's that's got to be my that's my new
+30:27 favorite I love it I like it so you can
+30:29 move your way around an object I haven't
+30:31 even seen that one before yeah it's easy
+30:33 to work in 3D it doesn't work on walls
+30:35 though I wish it did oh sure
+30:37 um but we can put toe kicks on or off
+30:39 with our partitions now
+30:41 so that's like so so that's kind of nice
+30:44 and uh what was the other thing Place
+30:46 items on a custom countertop so if you
+30:48 have a custom countertop and I just
+30:50 placed a microwave it set itself right
+30:52 on top of that countertop
+30:54 um like I said never really noticed that
+30:56 before if it had done that or not so
+30:58 apparently it does it didn't so because
+31:00 it's a new feature
+31:02 all right so that's all I got in the
+31:04 cabinets um and Robin we're gonna check
+31:06 that internet out so for next time
+31:10 all right that's okay not a problem
+31:12 we're uh we're remodelers uh we're used
+31:15 to just figuring out all day long
+31:17 so it's what we do
+31:19 oh and suppress the moldings behind
+31:22 design behind a design objects so that's
+31:24 really great for like an open table like
+31:26 if you're putting a furniture on in a
+31:29 room um like a table against the wall
+31:31 you could suppress the molding oh right
+31:34 yeah yeah
+31:35 um I couldn't get that to work either so
+31:36 I'm not gonna show it
+31:38 I tried it with Cabinets furniture I did
+31:41 work with Furniture I take that back so
+31:43 I guess it was working anyway
+31:45 um Renee let's switch over to you and
+31:47 let's talk about this new library
+31:48 browser for a minute because I get a lot
+31:49 of clients coming about it they don't
+31:51 like the new library browser and and
+31:53 it's like I I just tell them once you
+31:56 get used to it you're gonna love it
+31:57 because it really is nice and I do love
+31:58 it so oh it's so good it really it
+32:01 really is good yeah so why don't you
+32:04 give us a little crack at that and kind
+32:07 of Enlighten everybody about uh that we
+32:10 had talked about this on the first show
+32:11 and I think it's just one of those
+32:12 things I think it's worth talking about
+32:14 again yeah
+32:16 um we are going to get an update
+32:19 um next month that's going to fix some
+32:21 of the problems we're having with the
+32:23 the subfolder view
+32:26 um so when there's some problems there I
+32:28 don't even know if it's worth talking
+32:29 about those particular problems
+32:31 um
+32:32 first up tags tags is just a great one
+32:36 you can multi-select any number of items
+32:39 that you might have in your in your
+32:41 library like I've got a few tiles here
+32:44 now so you're holding your control key
+32:46 down just yeah so you can hold your
+32:49 control key down and select a few things
+32:52 in here and just add some tags to them
+32:54 and um let's just show how you add a tag
+32:57 I'm just going to right click on this
+32:59 item
+33:00 and get down to tags and then I can
+33:04 click one that I've already got here or
+33:05 I can click on manage tags I can just
+33:07 start typing in tile for instance and it
+33:10 gives me the option and create a new tag
+33:12 name tile there we go and I'm applying
+33:15 that
+33:15 to this particular item and now it's up
+33:20 in my tags at the top of the screen so
+33:21 when I click on that it adds it as a
+33:24 filter anything that you see up in this
+33:27 corner is a filter okay so we're
+33:30 filtering results based on these filters
+33:32 and these filters do in fact stack so
+33:35 that if I then click on appliances is
+33:37 that it's adding an additional tag it
+33:40 won't remove that tile tag until I click
+33:42 on it and uncheck so a couple things
+33:46 just once you know how this system works
+33:49 it becomes very powerful it's very easy
+33:51 to find Fast Very quickly yeah yeah so
+33:54 I'll give you a for instance maybe I've
+33:56 built out a kitchen and I want to place
+33:58 some things on top of the countertop I
+34:01 can
+34:02 type in
+34:03 uh let's go sits on
+34:07 look at this it comes up with this
+34:09 designation now now this is no longer
+34:11 just a text search we're actually doing
+34:14 kind of like a classification search if
+34:16 you will or a type search which is I'm
+34:19 looking for specific items that sit on a
+34:22 base cabinet just like AI yeah
+34:29 so this is showing me all of the items
+34:32 across all catalogs both my user catalog
+34:35 and online catalogs that are designated
+34:37 in their options panel of their symbol
+34:40 classification that they sit on top of a
+34:42 base cabinet so we can get to things
+34:45 very quickly maybe I want to add in some
+34:47 additional info like sync well this is
+34:51 since this is a symbol type this one
+34:53 will in fact take over the previous type
+34:55 I believe oh no it Stacks look at that
+34:57 so now we have stuff that sits on a
+34:59 cabinet and happens to be a sink as well
+35:01 explain everybody with that little the
+35:03 ones with little globe on it are all
+35:05 about the globe here means that these
+35:06 are catalogs that you don't have
+35:08 downloaded into your system these are
+35:10 online based catalogs and it's simple
+35:12 enough to right click on one of these
+35:14 items and go download catalog or simply
+35:17 try to drag and drop into the scene and
+35:19 it will automatically download
+35:23 like the Kohler catalog it's a large
+35:26 catalog so you have to be patient
+35:27 because it can take a while yeah some
+35:29 catalogs will be like poof you know so
+35:32 you just have to be be aware that it is
+35:34 working but you do have to have you do
+35:36 have to have that option check marked up
+35:38 in the upper right corner of that yeah
+35:39 so this this option up in the right hand
+35:41 corner yeah describe right there include
+35:44 web results yep so
+35:47 a few of our users have slow internet
+35:50 connection speeds so you might want to
+35:52 have that unchecked when you're just
+35:54 casually browsing through your own stuff
+35:56 then it won't show those the other show
+35:58 that one where it says Chief Architect
+35:59 uh core libraries it's got the Double
+36:01 Arrow on it at the top of your list yeah
+36:04 so if you see this icon here
+36:06 looks a little different for some reason
+36:08 oh man I gotta work on my penmanship
+36:13 that means that we've got some update in
+36:15 here something needs updating it's
+36:17 actually
+36:18 um well if I close these out it'll
+36:20 actually maybe show me which one no it
+36:22 just shows me I've got some updates
+36:24 there's some updates um if I right click
+36:26 and click on update there we go it's
+36:28 going to download those updates so Chief
+36:30 is constantly fixing adding changing
+36:33 tagging things in the all the libraries
+36:36 that they produce so you might so when
+36:39 the updates are available you see that
+36:40 just click it and you'll download the
+36:42 updates that's really nice because you
+36:43 don't have to remember it anymore now
+36:44 you can see it yeah so I'll just talk
+36:48 about some filter stacking if you will
+36:51 um and it just becomes really easy to
+36:53 find exactly what I want so I'm going to
+36:55 do something like this shows me those
+36:58 catalog updates were updated
+36:59 successfully I'm going to do something
+37:01 like I'm going to type in GE and if I
+37:04 scroll down here
+37:06 you're going to see at some point
+37:07 there's the manufacturer GE so I'm
+37:10 filtering by manufacturer GE and now if
+37:14 I go look for a range I can look for a
+37:18 symbol type
+37:19 standing ranges and now now I might do a
+37:23 text search like 48 and this might be
+37:25 looking through search attributes that
+37:28 are associated with these so you can see
+37:31 here very quickly I got to exactly what
+37:33 I wanted a 48 inch range made by GE
+37:37 that's super fast cool
+37:39 yeah somebody commented a little bit ago
+37:42 that well here it is GMP Builder
+37:44 commented I hated the new library
+37:46 functions at first until you guys
+37:48 explained how they are useful
+37:50 uh yeah a little understanding goes a
+37:52 long ways I know um Renee you didn't
+37:55 even like the tags at first and then now
+37:58 I've got them now yeah I've I found that
+38:01 um even though they're hard to see
+38:03 sometimes they're still faster to me
+38:05 than trying to think of what I was
+38:06 trying to search so
+38:08 um already on Library stuff on things
+38:12 that came from the catalogs are those
+38:14 already do those already have tags
+38:17 I'll tell you the next update they are
+38:21 giving us
+38:22 um uh we can pass on tags when we export
+38:26 libraries right now you can't if I
+38:28 export a library it will not carry with
+38:30 it the tags that I added
+38:33 um next update we get that also next
+38:35 update I'm promised that they're
+38:36 introducing
+38:38 um a news I'm hoping I'm allowed to even
+38:41 say this I think I am uh they're
+38:43 introducing
+38:44 um a method for group editing of search
+38:46 attributes and I think they've even done
+38:50 an improvement on what I even suggested
+38:53 um so the team there that that's really
+38:54 interesting I'm I'm excited to see that
+38:56 and then they'll be fixing the subfolder
+38:58 issue
+39:02 can I just clarify this so you were
+39:04 looking at
+39:06 um a range G you have to go big to small
+39:09 so you did a rate so you were looking
+39:11 for a GE Range uh ge and then you typed
+39:14 in range and then you typed in 48 do you
+39:17 have to go kind of in that order where
+39:18 you're narrowing down no no you don't
+39:23 yeah you could go any direction it's
+39:25 just adding a new filter to the results
+39:26 and and mind you anytime we even click
+39:28 on a folder uh within our own system
+39:32 that adds a filter you see at the top of
+39:34 the screen that just added the filter
+39:36 for this particular folder so it's
+39:37 showing me what's inside of that folder
+39:40 so and then once you create a search
+39:43 like that you can click the little
+39:45 funnel icon in the upper right corner
+39:48 and save that search for future
+39:50 reference exactly so we can do some
+39:53 Advanced things here I I'd encourage you
+39:55 to just go play around with that that
+39:57 seems pretty
+39:59 um straightforward if you go into the
+40:00 advanced search filters and then I can
+40:03 drop down and get into those um those
+40:07 filters I have some tools that I call
+40:09 painters and you see one click for that
+40:11 filter and it immediately brings me up
+40:12 to that filtered result versus tags are
+40:15 just
+40:16 um kind of arbitrary you place them on
+40:18 whatever items you want so it's just a
+40:21 different approach
+40:22 Renee in the library I agree with Mark
+40:25 in this that on my screen the library
+40:28 items are so uh light gray and I can
+40:32 barely even tell what they are is there
+40:33 a way to darken the images
+40:36 um if we're just talking about the color
+40:38 that I have applied to my no the preview
+40:40 in the uh when you select an item or you
+40:43 you find uh the results a group of items
+40:45 in the library I'm not talking about
+40:47 yours I'm talking about even on on our
+40:49 screens individually but the items can
+40:52 be so light that you can't see them is
+40:54 there a way to darken them oh um I don't
+40:57 think we have any way of adjusting that
+41:00 no
+41:01 um I I do believe that the preview comes
+41:03 from
+41:04 your room default or your floor defaults
+41:08 yeah sorry I can't remember what the
+41:11 room preview comes from but but you
+41:13 could always change your
+41:15 um if we look here just changing our
+41:17 standard
+41:18 rendering technique options and this guy
+41:20 right here you can mess around with that
+41:22 a little bit you might want to try
+41:24 something different like the vector view
+41:25 maybe that's more maybe that's helpful
+41:27 okay and maybe Mark was just asking you
+41:30 about this presentation I was thinking
+41:32 about that what you're seeing there and
+41:34 how everything just disappears but uh
+41:36 yeah but maybe Vector view is a better
+41:38 look
+41:39 um easier to see
+41:40 I think what they're talking about is
+41:42 when you click on the icon down there
+41:44 that the bunch of dots on the bottom
+41:47 there that show
+41:49 um another one next to that
+41:52 well I'm talking about that even into
+41:53 the right even in the grouping this the
+41:56 essential the thumbnails
+41:58 third third icon from the left
+42:01 third icon from the left is the one I
+42:03 have checked right now yeah it is okay
+42:05 and then you see that list of items up
+42:07 there and everything's kind of light
+42:08 gray that yes yeah
+42:12 well you can control and mouse wheel up
+42:16 if you if this is helpful to make this
+42:19 you know hold your control key down and
+42:21 mouse in and out yeah yeah that's help
+42:23 that is helpful actually that's helpful
+42:25 yeah oh that's under tags I see yeah and
+42:29 then if you uh mouth cursor over a
+42:32 division in these tiles we can always
+42:34 just expand this up even larger because
+42:37 yeah we used to it seemingly we used to
+42:39 be able to view those items in color I
+42:42 don't think we'd do that if not it's all
+42:43 just Vector lines
+42:45 well the preview will show you preview
+42:47 will show in color but not that it's not
+42:49 that panel so okay I mean
+42:53 filling up a 27 or a bigger inch screen
+42:55 uh with just your library panel would
+42:59 probably help too yeah yeah so this
+43:02 comment right here light fixture Glass
+43:03 is very difficult to see I would just
+43:05 change the the rendering preview to a
+43:07 vector based view then
+43:11 so Renee when I'm typing in when I'm
+43:14 typing in in the tag situation I'm going
+43:17 into tags and I typed in four different
+43:19 things and it's not showing anything
+43:22 it's showing I asked for a 60 inch range
+43:24 and it's still showing me a 30 inch what
+43:27 am I doing wrong
+43:28 so I just typed it in under tags so so
+43:31 tags are tags are something that you
+43:35 designate
+43:43 apply it to an object the other things
+43:48 attribute
+43:50 okay that was the question I asked so
+43:52 the Chief's catalogs or the manufacturer
+43:55 catalogs don't have tags added to them
+43:57 yet we have to they don't have search
+43:59 attributes or tags um well some of them
+44:01 have search attributes but none of them
+44:03 have cash I get it so as those get
+44:06 updated and as we find our regulars then
+44:10 now I get it
+44:12 okay thank you
+44:13 so um we're going to show you one more
+44:16 thing here okay one more thing and then
+44:17 we're gonna move on okay we've got to
+44:20 move to folders option now this is a big
+44:22 one for people mood to folders
+44:24 um say I want to actually make a
+44:26 duplicate of this item well I can search
+44:29 I'm going to throw this in
+44:32 section that's to sort this is showing
+44:34 me actively you know searches throughout
+44:36 my whole catalog here now when I click
+44:39 on this you'll notice that the user
+44:41 catalog is checked and so is the two
+44:43 sort folder you can see they're both at
+44:45 the top as filters I'm making a
+44:48 duplication if I press OK right now I'm
+44:51 putting a copy into this two sort I'm
+44:54 also putting I'm leaving it in its where
+44:57 it was right now in the user catalog I'd
+44:59 have to uncheck this if I simply wanted
+45:01 to move that item so we can make
+45:05 multiple duplications of items on the
+45:07 fly if for some reason you want them in
+45:09 multiple places just based on your file
+45:11 organization but this also helps us move
+45:14 large groups of items into a folder very
+45:18 quickly
+45:21 can you do those side by side and the
+45:25 answer is yes you can it works just fine
+45:28 I just did it
+45:30 um if you make your life
+45:32 nope you just grab the full the tab and
+45:35 move it um here let me show my screen
+45:37 yeah
+45:38 um you can grab
+45:40 uh Chief up here so that so there I just
+45:43 grab
+45:44 if you just grab the tab and move it
+45:46 around so I ended up starting when I did
+45:49 it it was really when I first did it it
+45:52 was real narrow here ah come on just
+45:55 like that and then I had to just you can
+45:57 you know adjust the size of the windows
+45:59 and then you can move them around so
+46:00 that's kind of nice so if you're going
+46:01 to have this open on a big screen you
+46:03 could do that but I think Steve's
+46:05 comment was you could spread that all
+46:07 the way across your screen you know down
+46:08 down at the bottom or top or whatever
+46:10 also so you can move all those things
+46:12 horizontally and be able to get a lot
+46:14 more in here yeah but they do have to
+46:16 all be inside of one
+46:18 the library browser right yeah so all
+46:21 right
+46:22 um actually let me
+46:24 we're running short on time here the
+46:26 time goes so darn fast in these things
+46:29 um or any we want to talk a little bit
+46:30 about the drafting project management
+46:33 now material lists are automatic they're
+46:36 Dynamic so they'll update as you change
+46:38 your model that's pretty cool that's a
+46:40 new feature yeah for those of you that
+46:43 use
+46:44 um material lists again I'm not a big
+46:46 material this guy so to me it's like
+46:48 okay but I keep you know one day you
+46:52 know we'll be using these things and I
+46:54 know a lot of people are right now and I
+46:55 did when I used to help people with
+46:57 projects estimating and stuff
+47:00 um the the area counts you get off these
+47:02 things are good um if you're adding the
+47:04 framing the framing is correct you're
+47:05 going to get good framing lists uh I
+47:07 mean you've got to take everything grain
+47:10 of salt because there might be a lot of
+47:11 things missing but
+47:12 but anyway let's talk about schedules
+47:14 for a little bit Ernie I know you're big
+47:15 into schedules and you do a lot of
+47:17 things with that so you can see that
+47:19 they've made a ton of changes on
+47:21 schedules from numbering format minimum
+47:24 rows true trust preview and schedules so
+47:26 that's a new schedule right the trusses
+47:28 under that's a part of framing probably
+47:32 um
+47:33 so there are a lot of new things in uh
+47:37 in the schedule so Renee why don't you
+47:39 uh if you want to address that a little
+47:40 bit that'd be awesome
+47:42 uh let's see uh tell me the first one
+47:44 there
+47:46 um so when we get into uh the schedules
+47:48 uh we've got control
+47:50 sort schedules by column
+47:53 change of sorting and numbering of
+47:55 objects
+47:57 the window here
+47:59 come on I suppose it helps if we have
+48:01 some windows yeah
+48:04 different size windows now you can also
+48:07 on your schedule now say do a separate
+48:10 schedule item for each window
+48:13 even if they're the same
+48:15 that's a setting I noticed there and
+48:17 that's kind of nice well that's always
+48:18 been group similar objects yeah
+48:22 um so group similar objects we'll split
+48:24 that up so you can always you're making
+48:26 sure that you're not grouping together
+48:28 um items especially if you don't have
+48:30 something like the floor column included
+48:33 where maybe you have Windows on a first
+48:35 floor and a second floor and you don't
+48:37 need to show the floor column on your
+48:39 schedule but you do need to show that
+48:41 those are different windows yeah you
+48:43 could do that um yeah by unchecking
+48:46 group similar objects so
+48:49 let's see we've got this option here is
+48:52 automatically sort by so we can check
+48:55 that automatically sort by and then pick
+48:57 a column any column that you want so
+49:00 maybe I do want to sort by floor
+49:03 and ascending and so if I press OK there
+49:06 we go now we've sorted by the floor
+49:08 number even though I don't have a second
+49:09 floor in this project
+49:11 no I get it so that's where you do the
+49:14 Sorting you don't click on the title of
+49:15 the column or anything you do it in the
+49:17 dialog box
+49:19 um we we got you know a couple versions
+49:20 ago or maybe one version ago we've got
+49:23 swap rows columns that's helpful if
+49:25 we're you know we can make a schedule
+49:28 um
+49:29 be something that's not a traditional
+49:31 schedule like an electrical panel
+49:33 schedule we've got so many options now
+49:35 we can really make a panel schedule look
+49:37 accurate nowadays so that's kind of cool
+49:40 minimum rows this is a great one if we
+49:43 want to increase the minimum rows here
+49:46 this is kind of
+49:48 um I think they were getting a lot of
+49:49 requests in fact this is something I I
+49:51 would have requested at some point which
+49:53 is if we've got a page full of schedules
+49:55 we want those schedules to be to look
+49:58 uniform across our sheet regardless of
+50:01 the information there well we can set a
+50:04 minimum rows to to be you know whatever
+50:07 the maximum number of rows in one of our
+50:08 other schedules is so that they all just
+50:10 look the same across your screen
+50:13 so that just gives you that just gives
+50:15 you some blank rows right yeah so if I
+50:18 just type in 12 here it's going to
+50:20 ensure that I've got 12 rows here so if
+50:22 I had a separate schedule here that you
+50:25 know just means this is the same uniform
+50:27 look across these two right they line up
+50:29 so is that going to put double call outs
+50:32 on your plan again
+50:33 oh yeah
+50:35 this will
+50:36 but I don't display my you know how to
+50:38 you know you know how to get rid of it
+50:41 it kind of gets rid of it but it doesn't
+50:44 get rid of it if you uncheck uh call out
+50:48 numbers for one of the schedules
+50:50 it won't give you doubles
+50:52 okay if you if you use the label for the
+50:54 number instead of the call out
+50:56 you have to change up your schedule a
+50:58 little bit but then it won't won't give
+51:00 you you won't be displaying the double
+51:01 numbers gotcha double symbols
+51:04 all right cool that's good to know yeah
+51:08 you have one if you have one sim One
+51:11 schedule saying label and the other
+51:13 schedule saying
+51:15 call out then you'll just get one of
+51:17 each
+51:19 it's something that people need to play
+51:21 with to to see how they would want to
+51:23 use that
+51:24 got it um
+51:25 the other the other trick is to put your
+51:28 schedule in a in a cad detail so that
+51:31 you can put that on your layout multiple
+51:33 times and not have to have duplicate
+51:36 ones
+51:37 oh no that will you'll still get
+51:39 duplicates when we put all my skin
+51:41 schedules in
+51:43 I have all my schedules
+51:44 yeah if you put a schedule in a cad
+51:46 detail it will still duplicate um
+51:49 you can't have it on you can't have it
+51:51 on your plan plan at the same time yeah
+51:54 only in your CAD detail
+51:57 several times on your layout and it
+52:00 won't duplicate
+52:02 ah gotcha all right so uh we got trust
+52:05 preview and schedules
+52:08 okay so well we would need a trust
+52:10 schedule to
+52:13 is that a separate schedule that I think
+52:15 that's just a part of framing I think so
+52:18 that's going to be one of those items on
+52:19 the list that we can add to a column I
+52:21 think so if you open the dialogue for
+52:25 that
+52:27 you'd probably like displaying windows
+52:29 and cabinets and things like that on
+52:30 your schedule you can have a role for
+52:31 the 3D or 2D view of it would be my
+52:34 guess I haven't even looked at it yet
+52:36 let me build all framing
+52:40 so now I've got a roof truss here and
+52:43 let me
+52:47 what would be what would be the trust
+52:49 preview let's see elevation
+52:52 uh I would think it would be an
+52:54 elevation it's not listed as a trust
+52:56 there
+52:57 and I have not done this yet so I don't
+53:00 see sloping flat truss interesting
+53:05 um
+53:06 I don't know what the 3D exterior
+53:09 elevation would be probably it
+53:13 there we go
+53:15 all right so of course I've yet to
+53:19 create a list of trusses that are
+53:21 accurately drawn but yeah but golly we
+53:25 can show it now uh yeah I'm not sure why
+53:28 you'd want to take on that liability I'm
+53:30 just going to hand it off to the Trust
+53:31 Company exactly yeah so well it's nice
+53:34 to have a um a conversation with your
+53:36 trust manufacturer basically it is I do
+53:39 layout trusses for that reason
+53:41 um because I've had some projects where
+53:43 I had my thought process going and the
+53:45 trust guys agreed with me and I've had
+53:47 other ones where they said no we're
+53:48 gonna do it like this so it is good for
+53:50 conversation so I do like that make sure
+53:52 when you're when you're printing
+53:54 um that you set up a watermark is what I
+53:57 would say
+53:58 well trust is per manufacturer or yeah
+54:01 always trust is per manufacturer
+54:04 um room volume and schedules
+54:09 room volume and schedules okay that must
+54:11 be another one on the list so um if you
+54:14 have I wonder if that's a room finish
+54:15 thing
+54:17 um so room finish schedule yeah
+54:20 um I have an area interior yeah
+54:23 and I see they have a percent wall
+54:26 opening we have we have volume there's
+54:28 schedules
+54:30 those things are all going to be nice
+54:32 for doing your energy calculations and
+54:34 things like that yeah there you go
+54:37 and just if you want to see total just
+54:39 make sure you've got the totals column
+54:41 selected when you're opening up your
+54:42 schedule
+54:44 um we're just going to show
+54:46 make sure that you've got display totals
+54:48 row
+54:49 if you want to see totals tallied up
+54:53 um Mike wants to know can we see do
+54:55 water marks for custom per sheet not
+54:58 that I'm
+54:59 um I think no you'd have to print uh
+55:01 individual sheets then and then compile
+55:03 them in an editor
+55:05 you can just create a watermark layer
+55:07 and use it as a differences but it
+55:10 doesn't quite work the way the watermark
+55:12 does it can deal with transparency and
+55:14 background Printing and all of that
+55:17 you might might be able to do it if you
+55:19 had multiple ones that this made sense
+55:21 by making a new template page for your
+55:23 layout
+55:31 no that was a great option I think yeah
+55:34 yeah we won't get into that right now
+55:37 all right we got a few minutes left
+55:39 um cabinet doors and drawers in the
+55:41 schedule header height and the windows
+55:43 and a schedule we don't have to show
+55:44 these symbol information in schedules
+55:47 use the type column for symbol based
+55:50 objects like fixtures and Furniture
+55:52 you can group edit schedules so if you
+55:56 have a bunch of schedules you can open
+55:58 them all at once and probably edit
+55:59 different some things hey want to talk
+56:02 here's that's an AI one right there one
+56:05 of our users is developing a system to
+56:08 take the type this is why the chief did
+56:11 this
+56:12 um is they they're offering the type so
+56:14 that you can export your schedule to an
+56:17 SQL database and have it automatically
+56:20 order based on that so
+56:23 that's like a 3 three-click thing to an
+56:25 order form that's actually submittable
+56:27 to your you know to your vendor which is
+56:30 pretty impressive wow cool
+56:33 um hyperlinks and Rich text I think
+56:36 we're done with the schedules now
+56:38 um I'm going to show that real quick oh
+56:40 yeah I love that one yeah
+56:43 we had hyperlinks in in regular you know
+56:46 in plain text but now we have it in
+56:48 which fixed as well I um I I forget
+56:51 everything under the Sun so it's nice
+56:53 for me to come in here and go a little
+56:55 bit reminded yeah playing highlight it
+56:58 and then click on this guy right here
+57:00 insert hyperlink
+57:02 and you get to type in some text like
+57:06 this I wish I had this show on on Deck
+57:08 oh I know what I have I have my Facebook
+57:11 group right there bam press okay now
+57:14 when you actually click on the text
+57:16 itself you're gonna see here when you
+57:18 hover over the text my mouse cursor I
+57:21 know my screen's so small my mouse
+57:23 cursor changes and I can actually click
+57:25 on that link and it's going to take me
+57:27 to the page
+57:29 did you double did you just click on the
+57:31 link itself you didn't click another
+57:33 icon nope didn't have to click on the
+57:35 another icon which is awesome now the
+57:38 other great part about this is if we
+57:39 were to say we're going to print this
+57:42 that's actually going to make it so that
+57:44 it prints um with the hyperlink in your
+57:48 in the PV head in your PDF yeah yeah
+57:51 cool not not if you print it on a piece
+57:53 of paper you won't be able to push it
+57:55 that way yeah
+57:59 yeah right but that's helpful if you
+58:01 want to embed a link say
+58:03 um change your draw order put the link
+58:06 underneath the call out and now you're
+58:08 kind of making a makeshift way of
+58:10 linking to you know a page that you've
+58:13 got embedded in your website that that
+58:16 call out pushes to so you can click on
+58:18 an elevation call out and have it go to
+58:20 another sheet if you're embedding that
+58:22 on your website that's pretty tricky
+58:23 yeah is there any way to put a link in a
+58:26 schedule
+58:28 uh no if you like for your appliances
+58:30 you could put a link there to the
+58:33 installation instructions that can be
+58:35 going to be doing the same thing which
+58:36 is just change the draw order put your
+58:38 actual text link underneath the schedule
+58:39 and that and that will work
+58:43 okay but not in the schedule itself yeah
+58:47 someone said awesome for QR codes there
+58:49 you go yeah
+58:51 um
+58:52 fill transparency for callout arrows you
+58:55 set the level of transparency what's
+58:57 that all about
+58:59 uh I haven't used that why would we want
+59:02 to do that well just so I got to call
+59:05 out Arrow yeah if I have a call out
+59:07 Arrow here
+59:10 um just depends on if you're using some
+59:12 kind of custom custom Arrow
+59:15 um
+59:16 I don't even remember how to do this
+59:18 let's see one two three there we go and
+59:20 change that transparency so maybe it's
+59:23 not blocking some text or something like
+59:25 that yeah I guess I could see that yeah
+59:27 if you got a bunch in one spot there
+59:29 could be an issue yeah
+59:31 and then creating custom arrowheads I
+59:33 think we talked about that once but um
+59:37 um
+59:37 so yeah
+59:39 we got labels for CAD blocks pictures
+59:41 and PDFs so we can label those kinds of
+59:44 things in our plan now so anytime you
+59:47 import anything it can have its own you
+59:49 can have this label displayed under it
+59:52 just like any window label door label
+59:54 anything so now this is on its own layer
+59:57 and it can have labels just keep in mind
+1:00:00 that by default some of my
+1:00:04 um some of my template Pages now have
+1:00:07 PDF labels turned on and I actually
+1:00:09 don't like that so if you're using the
+1:00:12 template you might notice that this is
+1:00:15 turned on and maybe you don't want it
+1:00:16 turned on yeah
+1:00:18 all right
+1:00:20 um special characters and macro text uh
+1:00:22 we won't get into that right now a
+1:00:24 design designer client information
+1:00:26 dialogue I mean that's been there
+1:00:28 forever what are they changing that
+1:00:30 associate with your plans and macros now
+1:00:33 that's under the tools menu yeah I
+1:00:37 haven't noticed anything different I
+1:00:39 haven't either unless they're just
+1:00:41 linking it to more things which it seems
+1:00:44 like
+1:00:44 so maybe they've created more macros
+1:00:47 that you can link these to other places
+1:00:49 more does it does it like does it link
+1:00:53 from your layout to the plan that's
+1:00:55 referenced on it yeah not that I'm aware
+1:00:58 of
+1:01:00 they did change something but it's still
+1:01:02 not quite there yet I don't think
+1:01:04 um because we have no way of pulling
+1:01:06 that information up and um and having it
+1:01:08 report to some kind of macro that we
+1:01:10 want so cool alrighty
+1:01:13 um I think we're about done here you
+1:01:15 guys uh very cool good stuff I hope that
+1:01:18 was helpful for some of you guys to see
+1:01:20 some of those things especially the
+1:01:21 library thing that's why I wanted to
+1:01:22 show that again because that is such a
+1:01:25 Time Saver now I used to search you know
+1:01:27 a couple minutes for a stupid kitchen
+1:01:29 sink now I can find it instantly almost
+1:01:31 one more one more thing on the library
+1:01:33 Renee can you go back and show if people
+1:01:36 want to use it the way it used to be how
+1:01:38 you
+1:01:38 how you get your library to look like it
+1:01:40 used to
+1:01:42 uh well we don't quite have that option
+1:01:44 um and the and by using the folders the
+1:01:47 folders and the yeah you can just turn
+1:01:49 things off you just turn things off
+1:01:51 right
+1:01:53 oh oh okay so just yeah hit the gear
+1:01:56 icon there yeah yeah you can take out
+1:01:59 um tags if you want to
+1:02:02 um
+1:02:03 a couple different things here the
+1:02:04 subfolder
+1:02:06 icon here I mean I won't even go over it
+1:02:08 yet because it's not fixed it's broken
+1:02:09 right now yeah
+1:02:12 so right but but just by checking those
+1:02:14 those options there under this the
+1:02:16 settings under the gear icon you can get
+1:02:19 it to look like it used to in fast
+1:02:21 versions yeah I guess that works but I
+1:02:24 always encourage people to learn to use
+1:02:26 the new features right but if you don't
+1:02:29 have the if you don't have the screen
+1:02:30 space that doesn't really work either
+1:02:32 sometimes yeah that's true so yeah when
+1:02:34 you're working off a laptop or something
+1:02:35 so yeah all right awesome
+1:02:38 um you guys it's about time to run so I
+1:02:41 will see you guys in a couple weeks
+1:02:43 we'll get a special guest coming on
+1:02:45 we're going to talk a little bit about
+1:02:45 leadership
+1:02:47 and we'll discuss that a little bit more
+1:02:49 as we move forward here and I'm looking
+1:02:52 forward to that so in the meantime if
+1:02:54 you guys have questions or comments
+1:02:55 please feel free to email me Dan
+1:02:57 chiefexperts.com or Renee Renee
+1:03:00 rabbitdesign.com or Kevin at the art of
+1:03:03 design.net.com
+1:03:06 and they won't give it up yeah I know
+1:03:09 same with artists somebody owns my.com
+1:03:11 too so mine's gonna call Biz guys you
+1:03:14 could you could get that one for seven
+1:03:15 thousand Kevin yeah I know I looked into
+1:03:18 it yeah I need AI to go beat someone up
+1:03:20 for me yeah and then we got Robin and
+1:03:23 then John you guys can find hey you guys
+1:03:25 you guys can find though uh under the
+1:03:28 info tab at chiefexperts.com
+1:03:33 find all their contact information if
+1:03:35 you want to touch base with anybody so
+1:03:37 everybody thank you for being here I
+1:03:39 appreciate it uh yeah thank you guys
+1:03:40 have a great couple weeks and we'll see
+1:03:42 you soon bye

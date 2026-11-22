@@ -1,0 +1,757 @@
+---
+videoId: A84lYtBy6E4
+title: X15 Update TODAY. Library Improvements
+url: "https://www.youtube.com/watch?v=A84lYtBy6E4"
+status: imported
+---
+
+# Transcript
+
+0:02 all right round two of this
+0:04 I had to go for some lunch that was a
+0:07 little
+0:08 um a little quick this is uh we did
+0:11 another video it was I don't know maybe
+0:13 six seven minutes long or something like
+0:14 that talking about the new updates but
+0:16 um uh X15 Chief Architect X15 just
+0:19 pushed out an update today been waiting
+0:21 for this update for a long time and it
+0:24 really really improves uh Organization
+0:26 for your library by adding some really
+0:28 powerful features fixing a few features
+0:30 and yeah pretty excited so a couple
+0:34 things to note I know that we
+0:36 now have let's see this guy right here
+0:39 seems to be the big one
+0:42 include folder and text search that's a
+0:44 cool one they fixed these search
+0:46 subfolders so that's a big one
+0:49 so search subfolders means if we
+0:52 um select this materials folder
+0:57 right now it's not searching subfolders
+1:00 so the only thing it's showing is
+1:02 something that's in the root of
+1:04 materials itself which we can see is
+1:05 right here
+1:06 so if we have that search subfolders
+1:09 checked now it's showing us all
+1:10 materials across all the subfolders
+1:13 so they fixed that that was not working
+1:16 before so that's working correctly now
+1:18 the other big one is group editing of
+1:21 search attributes and so I'm going to
+1:23 show you what that is real quick I get
+1:25 to
+1:55 lost my feed for a second there we go
+1:58 so in this case I've got a bunch of
+2:01 Stucco materials I want to make sure
+2:03 that RAB is attached to that so if
+2:05 someone's looking for my particular
+2:06 materials they can find it even if they
+2:09 rename this they'll be able to find it
+2:11 because there's a search attribute
+2:12 called RAM and then stucco already
+2:14 stucco I might add the keyword wall and
+2:17 then we can even just hit enter hit
+2:19 enter again add another one called
+2:21 exterior all right so here we go we're
+2:24 adding all these attributes to this now
+2:26 this is a very linear approach to this
+2:28 which is usually what I'm going to be
+2:29 taking for adding keywords but there's a
+2:32 few other things that we could do as
+2:34 well so let me press ok now the next
+2:37 thing that they fixed is I want to move
+2:39 all these to a different folder and I'm
+2:41 going to search stucco
+2:43 and you're going to see here I have a
+2:45 dedicated stucco folder here so I've got
+2:48 something under brick stone I also have
+2:50 something under exterior surfacing and
+2:53 then Brickstone is stucco inside of some
+2:55 other catalog that I've got here so I
+2:57 actually want this to live inside of
+2:59 this one right here so before when I
+3:02 clicked on this it would also include
+3:04 the folder that had already existed in
+3:06 and so it was making a duplication now
+3:10 this works correctly when I clicked on
+3:12 my searched folder it eliminates that
+3:14 other folder as a filter so it's not
+3:16 making a duplication it is simply moving
+3:19 so that's an awesome one as well so I
+3:21 was hopeful for that fix they made that
+3:23 fix that's cool
+3:26 um let's see if we can do a couple of
+3:27 things for a particular object in the
+3:31 library by right clicking now from the
+3:34 library itself you can always do all
+3:36 these things move to folder open object
+3:38 search attributes tags export Library
+3:39 including delete Cut Copy Etc now if you
+3:43 click on the folder here and then we
+3:45 click on the filtered results let's see
+3:47 if they gave us
+3:49 they did not give us delete here I was
+3:51 hoping that they would I do have a
+3:53 worker on there which is that you can
+3:55 move to folder and then search trash but
+3:57 we do not have a delete or cut directly
+4:00 from the filtered results so
+4:03 unfortunately they didn't do anything
+4:05 about that I was hoping they did
+4:09 and then I'm just going to be working
+4:12 kind of organizing and I'll talk I'll
+4:16 talk through it as I go but um
+4:19 let's just uh it's kind of interesting
+4:21 to see what attributes exist across some
+4:23 of these and some of these just don't
+4:24 have attributes so I would call this
+4:27 building materials
+4:30 there's one that's another one it's just
+4:33 RAM and so this is it I'm just going to
+4:35 go through folder by folder and just
+4:37 start organizing my stuff
+4:52 be very cool if they somehow
+4:54 Incorporated tags into the search
+4:56 attributes
+4:57 workflow as well that make it very very
+5:01 easy to also add tags as you win
+5:08 I do have someone did forward me the
+5:10 change a lot let me see if there's any
+5:11 other noticeable things in here
+5:16 a bunch of different fixes a bunch of
+5:18 little glitch that glitch stuff that
+5:20 they fixed I really think the main thing
+5:23 is
+5:24 in that Library section oh I'm curious
+5:26 to see if if we pull a 3D View
+5:30 um
+5:31 let's see if we I'm going to place a
+5:33 light fixture here
+5:35 and actually let me place a pendant
+5:37 light
+5:38 and we're gonna see if
+5:41 the select next side if they give a
+5:43 select next side for electrical items
+5:47 it did not so we still don't have that
+5:49 but apparently they've fixed a bunch of
+5:51 things for select next side so
+5:55 um maybe some problems they were running
+5:57 into
+6:00 seems to be working just fine on just a
+6:03 cabinet I'll have to play around with
+6:04 this
+6:05 um interesting if I
+6:08 a couple times I've had to click this
+6:10 twice so it adds a little bit of lag
+6:11 going on with it
+6:14 huh
+6:16 back to library
+6:20 rather let's see what else they had
+6:30 a lot of these are just minor fixes that
+6:32 you may or may not run into
+6:36 I know that they made it so that we can
+6:38 inject macros appropriately with library
+6:40 items and also keep custom fields that
+6:42 were attached to library items that was
+6:44 a problem before it wasn't retaining
+6:46 custom fields
+6:58 New View online folders option in the
+7:00 folders panel of the library browser
+7:05 New View
+7:08 option in the
+7:12 in the folders panel
+7:15 in the folders panel view option online
+7:21 delete catalog searching folders
+7:22 collapse all
+7:29 huh I don't I'm not seeing that
+7:33 view online folders option in the
+7:35 folders panel of the library browser
+7:37 lets you see a list of bonus and
+7:39 manufacturer catalogs available online
+7:43 um
+7:45 so let's toggle this
+7:48 and then
+7:49 in the manufacturer oh here we go view
+7:52 online catalogs
+7:54 oh that's clever all right so it's
+7:56 showing me all my million missing
+7:58 catalogs
+7:59 kind of cool
+8:00 I get it
+8:04 good to know
+8:06 oh I have a really big trick for this
+8:08 for Library searching which I don't
+8:10 think I don't think this is even in the
+8:12 documentation so if I want to search for
+8:16 polls
+8:17 okay and when I search for polls we're
+8:19 going to notice a couple things
+8:21 um I love this this is new we're seeing
+8:24 folders
+8:25 so now we're seeing folders that's what
+8:27 this toggle is
+8:29 so this is included in our search here
+8:31 this is awesome
+8:33 um but the next part about this is that
+8:36 I don't want to view online
+8:39 um
+8:42 if we uncheck polls
+8:45 I believe it will show us the content so
+8:47 you see how it filtered results is 71.
+8:50 if we uncheck
+8:52 filter results are 60 interesting let me
+8:55 just type in poll instead
+8:58 okay
+9:00 and also all show folders
+9:03 interesting folders at the bottom now
+9:06 let's just try this again
+9:09 I'll do only search
+9:14 that's at the bottom funny
+9:16 oh it's actually kind of in the middle
+9:17 of the Run
+9:19 I wonder how they designate that so
+9:22 um
+9:23 something to note about this is
+9:28 or getting all these things that I don't
+9:31 want to get for instance might be seeing
+9:38 like these Appliance poles see how we're
+9:41 getting these Appliance poles in our
+9:43 search result if I type in not Capital
+9:46 not and then type in Appliance
+9:50 that is going to eliminate Appliance
+9:52 from this search right so same thing if
+9:56 I typed in I think this is compounded I
+10:00 can type in not 448
+10:02 and did we get rid of those 448 ones
+10:05 yeah we did we could say not 432.
+10:11 right so
+10:13 just uh to keep that in mind you can
+10:16 actually limit some of the stuff get rid
+10:17 of some of this excess bolts so if you
+10:19 want to put a negative prompt in your
+10:21 search that's a big one
+10:31 so now I'm going to get back to doing a
+10:33 little bit of organization see what else
+10:36 we've got going on here
+10:37 um yeah I'm going to start with my
+10:40 materials folder
+10:43 countertops I think I already
+10:45 clean these up with the group search
+10:47 attributes
+10:51 yeah so everything's got
+10:53 uniform stuff I'm sure there's instances
+10:56 where you don't want it uniform but I
+10:57 keep my folders pretty organized so this
+11:00 works well for me so I have a
+11:01 combination of folder organization
+11:03 versus you know the style where you just
+11:05 throw everything everywhere and you just
+11:07 tag it so you could do either or I do
+11:11 both
+11:19 so I wanted to make sure that all the
+11:21 sidings appropriately tagged
+11:26 inside are deciding yep
+11:29 stucco all these new stuccos removed
+11:32 here now let's just double check that
+11:33 everything has the same attributes
+11:36 so it doesn't so it's easy for me to
+11:39 come in here check all these items if I
+11:42 want
+11:43 maybe I want to
+11:45 delete wallboard
+11:48 and there we go now we've applied all
+11:51 those to everything I selected
+11:58 and these are old glass textures that I
+12:00 don't use anymore
+12:03 hey Patricia
+12:05 from Kentucky
+12:22 this icon right here if you see this
+12:25 icon right here a lighting glass that
+12:28 means that this is
+12:30 um I don't own this essentially this is
+12:33 a link to the catalog item so
+12:37 um which I'm surprised that it's in all
+12:38 caps so that's kind of interesting
+12:52 yeah it was a link to Glass standard
+12:54 funny
+12:55 okay
+13:07 okay so this is all my glass textures so
+13:10 might as well
+13:12 fix the search attributes glass and
+13:14 glazing I like that
+13:21 it looks like Chief is still trying to
+13:24 render and Ray Trace because that was
+13:26 the preview retrace all the glass which
+13:28 glass is always going to take longer
+13:35 so this is lagging right now
+13:37 quite a bit
+13:42 it's not letting me
+13:44 interesting it's not letting me do this
+13:47 because maybe we have that one that's
+13:49 selected that is from Chief so let's
+13:52 unselect that one
+13:56 if we can
+14:02 now let's try search out there we go
+14:05 okay so that was a problem there
+14:11 and I like material as a tag
+14:15 when
+14:27 yeah if we change this from being
+14:30 raytraced to standard view things are
+14:31 going to move a lot quicker
+14:35 class gray class gray these are both
+14:38 updated
+14:44 let me know if you're watching and you
+14:45 got any questions happy to ask happy to
+14:48 answer
+14:54 if you're ever generating a
+15:00 um
+15:01 a light fixture and you want the light
+15:04 fixture to turn off
+15:06 the lighting white texture
+15:10 you have to designate it as using
+15:12 reticular material so if I open this
+15:14 object
+15:15 what I'm going to do here is
+15:19 under the material excuse me the texture
+15:22 let's see so this is
+15:26 so if we open up an electrical object
+15:28 like a light
+15:30 we want to make sure that it's using the
+15:33 default material from the plan which
+15:36 would be glass light and then that way
+15:39 it will turn on and off when you turn on
+15:40 and off the fixture
+15:43 it's kind of a complicated workflow
+15:45 generating lights for chief
+15:48 rabs Diamond Glass tumbler let's see
+15:51 what this is
+15:57 okay cool
+16:02 all right hardscaping
+16:08 let's just
+16:10 Flagstone Pavers
+16:13 yeah I like all this
+16:16 pairs already Road rabs
+16:19 crabs can be deleted
+16:22 okay
+16:24 oh this just makes this a dream
+16:27 it's gonna be so easy let's just do a
+16:29 little Quick Test already stucco and I
+16:32 should be able to get to
+16:33 not only should it show me the folder
+16:35 that these live in
+16:40 or if we just type in Stucco
+16:45 should show me my stucco folder yeah and
+16:48 it doesn't have this icon so it's easy
+16:50 very easy multiple different ways to get
+16:53 to what I want here so just double
+16:55 clicking that gets me to this yeah this
+16:58 is just really really improving quite a
+17:00 bit
+17:01 very cool
+17:06 and just knowing that we can always you
+17:09 know stack filters based on type so you
+17:12 can do material for instance type
+17:15 material and then
+17:17 stucco
+17:22 and then I could do Rd stucco on top of
+17:25 that
+17:29 my stuff so very cool
+17:43 I got that thank you I appreciate that
+17:46 I'm not sure who you are I sued two
+17:47 people sent me
+17:48 um
+17:50 two people sent me the update I really
+17:52 appreciated that I wanted to take a look
+17:53 and see what was in there because there
+17:55 was a couple things that I didn't know
+17:56 about so
+17:57 um and there were a couple things that
+17:58 didn't get done that I was hoping would
+18:01 um
+18:02 so let's see top level Library category
+18:05 during a search will now remove the
+18:07 previously selected folder from the
+18:09 current filter set so that's good that's
+18:12 a little fix that we're running into oh
+18:14 Kenny Crocker okay
+18:15 thank you
+18:18 um
+18:20 the name of the selected item in the
+18:21 library now displays in the status bar I
+18:23 never look at the status bar honestly
+18:26 um
+18:27 selection highlight color no longer
+18:28 displays on top of selected object in
+18:31 the library filter results
+18:34 improve the material map checkbox labels
+18:37 in the advanced search dialing to be
+18:40 more descriptive okay
+18:43 issue that prevented folder structure
+18:46 from being maintained when duplicate
+18:47 Library data was imported into the user
+18:50 catalog all right fix the problem that
+18:52 caused dragging a library folder to be
+18:54 slow in Max you're welcome Mac the Tab
+18:58 Key can I use to be navigate folders
+19:00 okay so that's a big one so if I type in
+19:03 let me go Rd stucco and I don't want to
+19:05 touch my mouse I want to just get to my
+19:08 selection so I should be able to tab tab
+19:11 tab tab
+19:13 and there you go so now I can tab I just
+19:17 tab to
+19:20 yes I just tab to my materials here
+19:24 although
+19:25 the arrow keys are moving very slowly
+19:27 for this funny
+19:31 maybe if I did maybe this be more
+19:33 valuable if you do list view because
+19:35 it's cycling really slowly so I'm up
+19:38 here at Rd stucco I tab tab tab tab tab
+19:42 where's the first tab just gave us the
+19:44 filtered results that would be awesome
+19:48 okay so now I'm here and I can move up
+19:50 and down
+19:54 um it's just too bad the preview is very
+19:55 slow
+19:57 if we went to Vector view it would be
+19:59 faster
+20:03 the nice thing about this is you have a
+20:06 method for calling up a hotkey to get to
+20:09 the library
+20:10 search the library tab into it and make
+20:13 your selection and that's useful if
+20:15 you've programmed some kind of a macro
+20:17 system to like a stream deck
+20:20 just makes it really fast to grab
+20:22 library items that way just buy a
+20:24 programmed button
+20:26 so the way that would work would be I've
+20:28 got a hotkey for Library it would go
+20:31 control a stucco
+20:35 in this case
+20:38 is the arrow key just get me down it
+20:40 looks like it's highlighted but it's not
+20:42 we've got shift tab highlight no shift
+20:45 tab again shift tab again
+20:48 yeah so you have to know the number of
+20:49 tabs to be able to get to this part
+20:53 but if you're looking for something very
+20:54 specific so here be another one let me
+20:57 do this I'll do
+21:01 draw one three five Dash and I know that
+21:04 I have one two five dashes in here
+21:07 so
+21:10 it's highlighted right now but I don't
+21:12 think it's selected
+21:14 oh it is selected
+21:18 because one three dash is a painter so
+21:20 let's try that again let me just delete
+21:22 this
+21:24 so give you a workflow test here there
+21:27 we go one three five oh we didn't kill
+21:29 the filter
+21:31 try this again
+21:34 so I've got a hotkey that's going to
+21:37 send me to this with the type in 135 all
+21:40 in one action hit enter and yes it
+21:43 applied it immediately because it it
+21:45 chose the first thing there so that's a
+21:48 way you can generate a hotkey for user
+21:50 Library item now we didn't used to be
+21:52 able to do that
+21:53 um in the previous version of X15
+21:56 we could do it in x14 it was a little
+21:58 clunkier than this so this is great this
+22:01 is a much improved workflow here only
+22:04 problem with this is once you've done
+22:05 applying it you can't then do another
+22:07 hotkey unless it's a text-based hotkey
+22:10 because we've got this so you'd have to
+22:13 make sure that it's
+22:15 let's see if we go out of the library
+22:17 back into the library yeah control law
+22:20 yeah you're overwriting things so 148
+22:22 hyphen that's going to get me to this
+22:24 spray tool very cool so you can program
+22:27 The Stream deck to use my kitchen tools
+22:30 pretty slick
+22:33 so you can have all these toolbar tools
+22:35 on your stream deck and then just be
+22:37 able to press one button and get to one
+22:39 of those tools very cool Joe uh Joe Joe
+22:42 Carrick makes a system for that that
+22:44 plugs into my toolbar so that's a pretty
+22:46 cool one
+22:49 that whole system together you combine
+22:52 the custom mind and the cost of his it's
+22:54 and and a stream deck it's kind of
+22:56 expensive you're getting up towards 800
+22:58 bucks but you're um
+23:00 because the string deck's a couple
+23:02 hundred bucks his thing's a couple
+23:03 hundred bucks my thing's couple hundred
+23:05 bucks
+23:06 um but single button press to get to
+23:09 Quick actions it'll save you time and
+23:12 probably pay for itself pretty quick
+23:14 now I'm curious if I want to set that up
+23:16 dang it
+23:19 Maybe
+23:29 class and lights hardscaping Landscaping
+23:37 what would what would be Rab's trees I
+23:39 wonder what that is
+23:41 oh looks like a bunch of trees off in
+23:43 the distance funny
+23:47 man I love this this is all they did a
+23:50 great job on this too you're talking
+23:52 about the concept and I was getting it
+23:54 and it was it was sounding cool but
+23:57 definitely very cool implementation of
+23:59 this this is well thought out
+24:13 this is just going to make it really
+24:15 really easy to find whatever I want very
+24:18 quickly
+24:33 I'll show show this again is we're going
+24:36 to move this
+24:37 moving this to the folder that's Stone
+24:41 in Brick and Stone
+24:44 and yeah it deletes
+24:46 the brick and stone in the previous
+24:48 version it would also have brick and
+24:50 stone up here so that's good
+24:53 um before I move it you can see we'll
+24:55 get a workflow here
+24:57 because I want to apply all the correct
+24:59 tags to it too
+25:02 so Stone
+25:05 so now I need to find Stone and search
+25:08 folders is there
+25:12 to be able to see this double click it
+25:14 yeah and then just make sure that
+25:18 highlight all search attributes and we
+25:21 got one missing
+25:22 some details so delete that keyword
+25:25 delete that keyword and then check check
+25:29 check check check
+25:30 bam oh that is just awesome
+25:37 and close those filters out
+25:44 don't have a whole lot in masonry and
+25:46 stone funny
+25:48 Metals I need to make a bunch more metal
+25:50 so if I select this let's see if we can
+25:53 select all the filtered things
+25:55 throughout all these folders
+26:02 [Music]
+26:02 um
+26:04 that's funny it only shows three oh
+26:06 subfolders there we go so I should be
+26:09 able to search attributes all these
+26:11 that's awesome throughout all the
+26:13 subfolders how cool is that
+26:21 all these are going to be metal so
+26:23 here's an instance where I don't want to
+26:24 apply all to everything here
+26:29 I do want to add
+26:31 grab I want to delete grabs and we're
+26:34 going to add our D metal
+26:37 oh there we go
+26:39 super simple
+26:42 and so I just tagged everything in my
+26:45 Metals folder the way I like it very
+26:48 cool
+26:55 my backdrops is always going to take a
+26:57 long time to load
+27:33 surprised I don't have more floors than
+27:34 this that looks like a little light on
+27:36 Floors
+27:44 I guess that's it
+28:16 yeah wood sure
+28:19 okay
+30:12 things
+30:28 just working quietly now you guys have
+30:30 any comments or questions about this I'm
+30:32 just organizing
+30:34 um easy enough to Target everything
+30:35 that's in my materials Library that's
+30:37 pretty straightforward some of the other
+30:38 stuffs I might
+30:39 where you think my systems are who knows
+30:42 what but I've been dying to do this it
+30:44 just makes such a big difference when
+30:46 you're in the middle of working
+30:48 and you don't want to you know have your
+30:50 workflow interrupted being able to
+30:51 search and find exactly what you need is
+30:54 just such an it such a big Improvement
+30:58 fabric
+31:00 upholstery
+31:02 let's get rid of wallboard
+31:05 crap
+31:07 and
+31:14 thank you
+31:34 there's too much stuff going on in here
+31:36 let's see
+31:38 let's just do I like that right there
+31:42 foreign
+32:45 look at all that holy cow
+32:51 wow
+32:59 can we group delete no we can't
+33:02 interesting
+33:03 oh and it's not giving me
+33:06 the ability to do anything here so that
+33:09 means what I found out I think is that
+33:12 means something in here is copied from
+33:14 somewhere else
+33:22 meaning it's linked yeah this and this I
+33:26 don't know why because oh because I
+33:28 generated it from a copied
+33:30 deal that's too bad
+33:34 interesting
+33:42 huh
+33:47 and wonder what these look like
+33:49 I bet you anything these are mine
+33:52 if I edited them
+33:54 yeah this is my own texture somehow it's
+33:57 showing that it's linked
+33:59 see if we can
+34:01 Maybe
+34:04 if we duplicate it does it become mine
+34:06 it does
+34:07 there we go
+34:10 I don't want it linked to its original
+34:19 see if we've got any more like that
+34:21 so what I did was I took a material from
+34:25 catalog from Chief and then I made it my
+34:28 own by changing all the maps out
+34:30 but somehow it's seeing that it was
+34:32 linked to original file
+34:35 original Library
+34:46 in which case we can't put search
+34:48 attributes to it which is kind of funny
+34:57 yeah like I know this one's mine
+35:03 foreign
+35:38 select all
+35:42 and carry all this
+35:47 make it real simple
+36:28 uh so we're wondering can we delete all
+36:30 of them yes we can cool
+36:59 so let's try let's see if we can get a
+37:02 tag transferred so I'm going to just
+37:04 test this on something
+37:06 so I got a stool here
+37:10 calorie stool
+37:13 three stool
+37:16 and I want to make a custom tag for this
+37:19 that's going to be stool
+37:25 all right stool create new tag name
+37:28 stool bam
+37:31 and actually I want to change that let's
+37:33 just make it
+37:38 and yeah
+37:41 and let's see how do we edit tags
+37:44 this should be delete okay right click
+37:47 delete yep so stool should just give me
+37:50 that one item now I want to export this
+37:54 so export Library
+37:57 and in fact we're going to do a couple
+37:59 things we're going to test a couple
+38:00 things let's open this up
+38:02 oops
+38:03 open this up
+38:04 [Music]
+38:07 and in our object information I'm going
+38:09 to do a new custom field
+38:12 info sure
+38:15 best
+38:17 okay and not only that but we're gonna
+38:19 we're gonna even inject
+38:22 a macro
+38:24 this Fasteners one why not
+38:27 now let's export this
+38:33 that's kind of like a stool test
+38:36 and we'll spread delete
+38:41 okay so that exports compresses the
+38:43 texture file exports it and now I want
+38:46 to
+38:47 delete this
+38:49 so user catalog delete okay
+38:55 let's kill this tag let's delete this
+38:57 tag yes trash
+39:01 that's empty trash yes
+39:04 now let's try and drag and drop
+39:09 that guy catalogs
+39:16 and delete tools test
+39:19 so that just showed up and sure enough
+39:22 that imported the tag so now my full
+39:25 tool kits for kitchen bath all that
+39:27 stuff
+39:28 um that I have tagged will now transfer
+39:31 all those tags will transfer they'll
+39:32 show up on your side once you update
+39:34 your system with my new stuff so and
+39:37 then you'll be able to do stuff like
+39:39 click on you know kitchen Styles or
+39:43 click on kitchen Styles will get you
+39:45 some style palettes I've been building
+39:46 out very quickly okay clicking on
+39:49 countertops these are compounded they
+39:51 don't replace each other but click on
+39:52 the countertops if you get my
+39:53 countertops real quickly
+39:56 um
+39:56 clicking on appliances should get you to
+39:58 my appliances very quickly so this will
+40:01 all transfer now so that's very cool
+40:34 so if we click control click control
+40:37 click control click
+40:40 control click
+40:42 and one more one more control click
+40:47 now I should be able to
+40:50 move folder stool
+40:53 Rd yep there we go easy
+40:57 and it should show us that folder no it
+41:00 doesn't
+41:01 so stool Rd should get us to
+41:06 this
+41:08 is Kitchen Rd
+41:11 okay
+41:17 yeah everything's in there cool
+41:20 search attributes
+41:24 party stools should be on everyone
+41:27 Barstool Barstool
+41:29 kitchen grab seating
+41:31 yes and sitting I don't care about
+41:35 bam
+41:37 quick easy fast
+41:40 great organization
+41:54 just gonna double check that I put Rab
+41:56 in here
+41:58 yeah I did cool
+42:04 and then we can make sure we got the tag
+42:07 stores on these
+42:09 apply
+42:11 that way
+42:13 kill that filter click this filter gets
+42:16 us to this very quickly
+42:18 very cool
+42:29 getting to be very very fast
+43:24 interesting delete I have a tag called
+43:26 delete here where's that one Jim casing
+43:28 delete oh okay
+43:29 thought that was an internal note to
+43:31 myself to delete something
+43:56 got some funny stuff in here
+44:12 this is hardware
+44:15 and these are posts
+44:50 super fast
+45:19 [Music]
+45:22 thank you
+45:36 okay I'm probably in the Stream but um
+45:39 yeah let me know in comments afterwards
+45:42 if you've got any questions
+45:43 not get any engagement right now so
+45:45 we'll shut it down
